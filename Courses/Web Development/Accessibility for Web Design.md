@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making the digital world accessible
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980)
+#### [Making the digital world accessible](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=0)** - 14.
 >
-> **[0:02](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=2)** That's the number of times one person got stuck when I was doing usability testing with people with disabilities for an e-commerce flow early in my web career.
+> **[0:02](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=2)** That's the number of times one person got stuck when I was doing [[Usability Testing]] with people with disabilities for an [[E-Commerce]] flow early in my web career.
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=13)** The design and code had some pretty significant flaws for people with disabilities, and each one of them was completely preventable with a small bit of effort and care.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=32)** And at that point, I knew that my web career was going to be dedicated to making the digital world more accessible.
 >
-> **[0:40](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=40)** I'm Derek Featherstone, and this is the course on accessibility for web design.
+> **[0:40](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=40)** I'm Derek Featherstone, and this is the course on accessibility for [[Web Design]].
 >
 > **[0:46](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980&t=46)** I'm an international expert on accessibility and have been for almost 15 years.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), career (2), [[Usability Testing]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (2), [[Usability Testing]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - 14 (1)
 
@@ -127,12 +126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An ecommerce purchase
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980)
+#### [An ecommerce purchase](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=0)** - In this course, we're going to explore accessible design from a lot of different angles using three typical scenarios.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=0)** - In this course, we're going to explore [[Accessible Design]] from a lot of different angles using three typical scenarios.
 >
 > **[0:07](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=7)** They're pretty common tasks that people will do online.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=118)** You share episodes you love with your friends, and colleagues, and you're always researching new podcasts for your library.
 >
-> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=124)** You'll take them with you on your commute to work and listen every day as you travel to and from the office 25 minutes each way.
+> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=124)** You'll take them with you on your commute to work and listen every day as you travel to and from the [[Microsoft Office|office]] 25 minutes each way.
 >
 > **[2:11](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980&t=131)** Now that's a really high-level overview of those scenarios.
 >
@@ -230,8 +228,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/personas-14872204?u=76281980)
+#### [Personas](https://www.linkedin.com/learning/accessibility-for-web-design/personas-14872204?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +342,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), next (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** asd (1)
@@ -356,8 +352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The use of color
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980)
+#### [The use of color](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=16)** As a designer, you're in a unique position to influence the final product by creating more accessible designs from the beginning of a project, rather than adding it in part way through.
 >
-> **[0:27](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=27)** Ultimately, you need a great mix of accessible design, accessible development skills, and accessible content.
+> **[0:27](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=27)** Ultimately, you need a great mix of [[Accessible Design]], accessible development skills, and accessible content.
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=33)** Let's look at how all these pieces come together to create an accessible experience.
 >
@@ -415,7 +410,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=133)** Now that we've got that sorted, let's put it into practice.
 >
-> **[2:17](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=137)** Let's apply this to that E-commerce site selling T-shirts.
+> **[2:17](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=137)** Let's apply this to that [[E-Commerce]] site selling T-shirts.
 >
 > **[2:20](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=140)** Notice the color swatches on the right hand side of the page above the add to cart button?
 >
@@ -467,7 +462,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=246)** Which one you choose will be up to you.
 >
-> **[4:09](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=249)** And if you can't decide, put it to usability testing.
+> **[4:09](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=249)** And if you can't decide, put it to [[Usability Testing]].
 >
 > **[4:12](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980&t=252)** There's nothing better than getting the answer directly from people that are using what you're creating.
 >
@@ -491,14 +486,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), product (1), [[Accessible Design]] (1), data (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[E-Commerce]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 4.5 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - for (1)
 
-#### Color contrast
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980)
+#### [Color contrast](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +534,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=102)** Let's take a look back at our podcast interface.
 >
-> **[1:45](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=105)** See the page where we've got the metadata listed for each result?
+> **[1:45](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=105)** See the page where we've got the [[Metadata]] listed for each result?
 >
 > **[1:49](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=109)** The text has a color of 999999 and it is set on white background with color FFFFFF.
 >
@@ -562,19 +556,18 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=147)** The key thing to remember is that it isn't so much about the colors themselves but how they're used in combination with other colors.
 >
-> **[2:34](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=154)** When you're building pattern libraries, styles guides and design systems, make sure that you're always showing colors in pairs that show enough contrast and provide warnings about which colors shouldn't be used together.
+> **[2:34](https://www.linkedin.com/learning/accessibility-for-web-design/color-contrast-14870324?u=76281980&t=154)** When you're building pattern libraries, styles guides and [[Design Systems]], make sure that you're always showing colors in pairs that show enough contrast and provide warnings about which colors shouldn't be used together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Metadata]] (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Design Systems]] (1)
 > **Versions:** 4.5 (2), version 2 (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** the key is (1), remember to (1)
 > **Env Vars:** ffffff (1)
 > **Speakers:** - designers (1)
 
-#### Animation, movement, and flashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/animation-movement-and-flashing-14876135?u=76281980)
+#### [Animation, movement, and flashing](https://www.linkedin.com/learning/accessibility-for-web-design/animation-movement-and-flashing-14876135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,15 +657,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), functional (1), power (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [icloud.com](https://icloud.com) (1)
 > **Speakers:** - when (1)
 
-#### Proximity and grouping in design
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980)
+#### [Proximity and grouping in design](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=20)** Most people with low vision will start at the top left of a page; call that their home base, and they orient themselves.
 >
-> **[0:27](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=27)** Then they'll move through the rest of the content of the page.
+> **[0:27](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=27)** Then they'll move through the [[Representational State Transfer (REST)|rest]] of the content of the page.
 >
 > **[0:30](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=30)** Let's simulate that.
 >
@@ -732,7 +723,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=152)** Now, I want you to see what it might be like for Sean.
 >
-> **[2:36](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=156)** If we use the magnifier built into Windows, you'll see that this is quite similar to the straw test in that we're only able to see a small portion of the screen.
+> **[2:36](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=156)** If we use the magnifier built into [[Windows]], you'll see that this is quite similar to the straw test in that we're only able to see a small portion of the screen.
 >
 > **[2:45](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=165)** We're over on the right hand side of the page, and when we click Add To Cart, the part of the page that updates is so far away, you can't see it while you're magnified.
 >
@@ -748,7 +739,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=196)** Sean should be able to see it because it'll be in his field of view.
 >
-> **[3:20](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=200)** In user experience terms, this is often referred to as the principle of proximity.
+> **[3:20](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=200)** In [[User Experience (UX)|user experience]] terms, this is often referred to as the principle of proximity.
 >
 > **[3:25](https://www.linkedin.com/learning/accessibility-for-web-design/proximity-and-grouping-in-design-14874207?u=76281980&t=205)** We need to group related items together, near one another, to show the relationship between them, and to help people succeed in our user task flows.
 >
@@ -789,8 +780,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - earlier (1)
 
-#### Effective visual focus indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980)
+#### [Effective visual focus indicators](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,7 +862,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), css (2), next (1)
 > **Tools:** safari (2), firefox (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
@@ -884,8 +873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keyboard functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980)
+#### [Keyboard functionality](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=143)** This was a simple case of not using the right element.
 >
-> **[2:26](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=146)** When the site was built, it was built using divs with JavaScript attached to them.
+> **[2:26](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=146)** When the site was built, it was built using divs with [[JavaScript]] attached to them.
 >
 > **[2:32](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=152)** You can't Tab to a div by default.
 >
@@ -959,7 +947,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=203)** I can recenter the map.
 >
-> **[3:25](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=205)** I can zoom in, zoom out, and I even have little flags available that tell me some data about each pin on the map when I click on it.
+> **[3:25](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=205)** I can [[Zoom]] in, zoom out, and I even have little flags available that tell me some data about each pin on the map when I click on it.
 >
 > **[3:40](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=220)** So in order to make sure that we're providing equal functionality for all different users, we need to make sure that all of that functionality is available for somebody using a keyboard.
 >
@@ -1003,7 +991,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=363)** The final piece of the puzzle was all of these little pins within the map that have a mouse click on them that show some data about that pin.
 >
-> **[6:16](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=376)** Unfortunately, with Google Maps, there's no way to use the keyboard to get at each of those pins.
+> **[6:16](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=376)** Unfortunately, with [[Google]] Maps, there's no way to use the keyboard to get at each of those pins.
 >
 > **[6:22](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980&t=382)** If I Tab through the interface, you'll see that I can go through all of the other components that are there, but the focus never gets to those pins themselves.
 >
@@ -1037,21 +1025,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), [[JavaScript]] (3), data (3), hit (3), functional (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[JavaScript]] (3), [[Google]] (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** click on (4), drag and drop (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Avoiding keyboard traps
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980)
+#### [Avoiding keyboard traps](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=0)** - When we're designing and building sites, we often need to put in some custom functionality for custom widgets, like audio and video players, sliders, maps, or other complex controls.
 >
-> **[0:12](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=12)** In almost all of those cases, we need to use some JavaScript to make that magic happen.
+> **[0:12](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=12)** In almost all of those cases, we need to use some [[JavaScript]] to make that magic happen.
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=18)** Sometimes the JavaScript can go wrong, and we create something known as a keyboard trap.
 >
@@ -1163,13 +1150,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), [[Security]] (4), next (2), teams (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - when (1)
 
-#### Linear flow of content
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980)
+#### [Linear flow of content](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,7 +1227,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), dom (1), css (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** css (1)
@@ -1254,8 +1239,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility and touch
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980)
+#### [Accessibility and touch](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=25)** Touch interfaces vary in size, as you can imagine.
 >
-> **[0:28](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=28)** Anywhere from the 38-millimeter Apple Watch, all the way up to 28-inch diagonal Microsoft Surface Studio, and everything in between.
+> **[0:28](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=28)** Anywhere from the 38-millimeter Apple Watch, all the way up to 28-inch diagonal [[Microsoft]] Surface Studio, and everything in between.
 >
 > **[0:37](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=37)** They all use touch, multi-touch, gestures, and in some cases, 3D touch.
 >
@@ -1299,9 +1283,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=87)** When she returned, Renata went through about 18 months of rehabilitation and she transitioned to working as a product owner again.
 >
-> **[1:35](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=95)** At work, she's able to use the same systems as before, with some additional software and hardware technologies.
+> **[1:35](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=95)** At work, she's able to use the same systems as before, with some additional software and [[Hardware]] technologies.
 >
-> **[1:42](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=102)** She's just as enthusiastic as before about her job, and she uses podcasts to keep up with the Agile industry.
+> **[1:42](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=102)** She's just as enthusiastic as before about her job, and she uses podcasts to keep up with the [[Agile Development|Agile]] industry.
 >
 > **[1:49](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=109)** Renata loves her smartphone when she's on the go, but she prefers her tablet when she's home with her family.
 >
@@ -1357,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft]] (1), [[Hardware]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Hardware]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1365,8 +1349,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - designing (1)
 
-#### Target sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980)
+#### [Target sizes](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980&t=97)** It's win-win.
 >
-> **[1:39](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980&t=99)** Apple, Google, and Microsoft all have guidance for designing for touch to make sure that targets are big enough.
+> **[1:39](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980&t=99)** Apple, [[Google]], and [[Microsoft]] all have guidance for designing for touch to make sure that targets are big enough.
 >
 > **[1:45](https://www.linkedin.com/learning/accessibility-for-web-design/target-sizes-14871238?u=76281980&t=105)** Their guidance varies from 34-by-34 pixels for Microsoft, 44 by 44 for Apple, and 48 by 48 for Google.
 >
@@ -1434,13 +1417,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Search]] (2), [[Google]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft]] (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - you (1)
 
-#### Working with gestures
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980)
+#### [Working with gestures](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1488,7 +1470,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=122)** So what are the gestures?
 >
-> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=124)** There's too many to name here, but the best source to understand gestures for assistive technologies on touch screens is to go straight to Google's, Apple's and Microsoft's documentation.
+> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=124)** There's too many to name here, but the best source to understand gestures for assistive technologies on touch screens is to go straight to [[Google]]'s, Apple's and [[Microsoft]]'s documentation.
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=136)** What do you do if a gesture you want to use conflicts with a gesture in use by assistive technology?
 >
@@ -1518,7 +1500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** similar to (1), for example (1), just like (1)
 > **UI Navigation:** toggle (1)
@@ -1530,8 +1512,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with audio and video
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980)
+#### [Working with audio and video](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,14 +1586,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mp3 (1)
 > **Speakers:** - the (1)
 
-#### Understanding media types
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/understanding-media-types-14871241?u=76281980)
+#### [Understanding media types](https://www.linkedin.com/learning/accessibility-for-web-design/understanding-media-types-14871241?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,7 +1713,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (8), product (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** svg (1)
 > **Definitions:** is a  (1)
@@ -1742,8 +1720,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - whether (1)
 
-#### The importance of text equivalents
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980)
+#### [The importance of text equivalents](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1756,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980&t=79)** Now, that will make it easy for Rose to consume the podcast.
 >
-> **[1:24](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980&t=84)** Okay, what about our e-commerce purchase?
+> **[1:24](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980&t=84)** Okay, what about our [[E-Commerce]] purchase?
 >
 > **[1:27](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-text-equivalents-14872200?u=76281980&t=87)** We've already seen two versions of this page.
 >
@@ -1905,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), functional (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Speakers:** - [computer] (2), - now (1), - did (1), - the (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), scroll up (1)
@@ -1913,8 +1890,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 
-#### Accessibility for complex visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980)
+#### [Accessibility for complex visuals](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,7 +1916,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=55)** What's the overall purpose of the map?
 >
-> **[0:57](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=57)** This has a multi-part answer, but in terms of importance, it shows the locations around the city, presumably so that people can get in touch with an office that might serve their part of the city.
+> **[0:57](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=57)** This has a multi-part answer, but in terms of importance, it shows the locations around the city, presumably so that people can get in touch with an [[Microsoft Office|office]] that might serve their part of the city.
 >
 > **[1:09](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=69)** That's informational, so it needs a text equivalent that represents that.
 >
@@ -1950,7 +1926,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=84)** There's also the ability to manipulate the map.
 >
-> **[1:27](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=87)** The images in the corners that are used to move around and zoom in and out enable that.
+> **[1:27](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=87)** The images in the corners that are used to move around and [[Zoom]] in and out enable that.
 >
 > **[1:33](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=93)** Those are functional images and therefore need a text equivalent that tells their purpose.
 >
@@ -2006,7 +1982,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=254)** The final two examples show more interactive visuals, a visual representation of some data.
 >
-> **[4:21](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=261)** The first is some statistics from an accessibility assessment our team completed.
+> **[4:21](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=261)** The first is some [[Statistics]] from an accessibility assessment our team completed.
 >
 > **[4:26](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-for-complex-visuals-14875137?u=76281980&t=266)** It shows a breakdown of the affected population for the issues that we found.
 >
@@ -2028,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6), [[Zoom]] (3), data (3), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
 > **UI Navigation:** toggle (2), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - all (1)
@@ -2038,12 +2014,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Labeling forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980)
+#### [Labeling forms](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980&t=0)** - Labeling form fields is one of the simplest things you can do to ensure that forms are more accessible.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980&t=0)** - Labeling form fields is one of the simplest things you can do to ensure that [[Forms]] are more accessible.
 >
 > **[0:07](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980&t=7)** They create a programmatic relationship between the on-screen text and the form control itself so that the forms can be understood and used by people that can't see the screen.
 >
@@ -2145,19 +2120,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (6), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (6)
 > **UI Navigation:** click on (3), checkbox (2), toggle (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - labeling (1)
 
-#### The placeholder attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-placeholder-attribute-14872198?u=76281980)
+#### [The placeholder attribute](https://www.linkedin.com/learning/accessibility-for-web-design/the-placeholder-attribute-14872198?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/the-placeholder-attribute-14872198?u=76281980&t=0)** - The placeholder is a relatively recent addition to the HTML tools we have available to us.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/the-placeholder-attribute-14872198?u=76281980&t=0)** - The placeholder is a relatively recent addition to the [[HTML]] tools we have available to us.
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-for-web-design/the-placeholder-attribute-14872198?u=76281980&t=6)** It is supposed to be used to provide a hint on how to fill out certain form fields.
 >
@@ -2230,8 +2204,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### HTML5 form inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980)
+#### [HTML5 form inputs](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2245,7 +2218,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=40)** The biggest reason these are an accessibility benefit is that they're recognized on mobile devices as being different by the operating system.
 >
-> **[0:50](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=50)** Forms are designed for input.
+> **[0:50](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=50)** [[Forms]] are designed for input.
 >
 > **[0:53](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=53)** So when we use these form types on most modern mobile devices, we end up with a keyboard that is customized to that particular type of field.
 >
@@ -2271,22 +2244,21 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=135)** Keep all of these things in mind when you're creating your designs and working with the implementation team to make sure that you're documenting which specific types of form fields you should be using.
 >
-> **[2:26](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=146)** Build them into your pattern libraries, design systems, and project-level design specs to make sure all these details are included, and you'll make it easier for everyone to use.
+> **[2:26](https://www.linkedin.com/learning/accessibility-for-web-design/html5-form-inputs-14872201?u=76281980&t=146)** Build them into your pattern libraries, [[Design Systems]], and project-level design specs to make sure all these details are included, and you'll make it easier for everyone to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Forms]] (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Design Systems]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html5 (2), url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Form validation and error messaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/form-validation-and-error-messaging-14870325?u=76281980)
+#### [Form validation and error messaging](https://www.linkedin.com/learning/accessibility-for-web-design/form-validation-and-error-messaging-14870325?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/form-validation-and-error-messaging-14870325?u=76281980&t=0)** - When we use forms, we need to make sure that the input for those forms has both the correct format and expected values.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/form-validation-and-error-messaging-14870325?u=76281980&t=0)** - When we use [[Forms]], we need to make sure that the input for those forms has both the correct format and expected values.
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-for-web-design/form-validation-and-error-messaging-14870325?u=76281980&t=8)** And when they don't, we need to show some kind of error messaging to help people fix the issues.
 >
@@ -2368,7 +2340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
@@ -2380,8 +2352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flexible vs. fixed width designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980)
+#### [Flexible vs. fixed width designs](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,7 +2368,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=35)** It didn't have to be that way, though.
 >
-> **[0:37](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=37)** Even in the early days of web design, we could design things that had flexibility built into them.
+> **[0:37](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=37)** Even in the early days of [[Web Design]], we could design things that had flexibility built into them.
 >
 > **[0:43](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=43)** Rather than confining things to a fixed number of pixels, we could use percent units for specifying widths.
 >
@@ -2423,7 +2394,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=117)** Which means that flexible layouts respond better to things like font size changes in the browser or at the operating system level.
 >
-> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=124)** Fixed layouts introduce horizontal scrolling on smaller screens, either smaller devices or smaller windows that aren't maximized on a desktop or laptop screen.
+> **[2:04](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=124)** Fixed layouts introduce horizontal scrolling on smaller screens, either smaller devices or smaller [[Windows]] that aren't maximized on a desktop or laptop screen.
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=136)** Watch here as we take our podcast page and resize the browser.
 >
@@ -2445,7 +2416,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=200)** Now, remember, it's not like people out there in the real world sit there and resize their browser windows like we do.
 >
-> **[3:27](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=207)** We do it because we're seeing how the layout will react to being at different sizes, not because people resize their browsers all day.
+> **[3:27](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=207)** We do it because we're seeing how the layout will [[React.js|react]] to being at different sizes, not because people resize their browsers all day.
 >
 > **[3:36](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980&t=216)** The reality is, though, if we can design things well that work for a resizing browser window, we're going to create things that work for small screens, big screens, and all the sizes in between.
 >
@@ -2457,14 +2428,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Windows]] (2), [[Analytics]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (2), [[Windows]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - which (1)
 
-#### Responsive design and accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980)
+#### [Responsive design and accessibility](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2512,11 +2482,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=150)** We need to ensure a logical flow of all content independently at all different viewport sizes or breakpoints that we're creating.
 >
-> **[2:40](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=160)** Now, even if we do a perfect job of getting the linear flow right, that doesn't make the rest of our responsive design automatically accessible.
+> **[2:40](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=160)** Now, even if we do a perfect job of getting the linear flow right, that doesn't make the [[Representational State Transfer (REST)|rest]] of our responsive design automatically accessible.
 >
 > **[2:50](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=170)** There's a few things that we need to take into account to make sure that our designs are accessible to everyone.
 >
-> **[2:56](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=176)** Take your multicolumn forms and reflow them into a single vertical stack at smaller viewport sizes.
+> **[2:56](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=176)** Take your multicolumn [[Forms]] and reflow them into a single vertical stack at smaller viewport sizes.
 >
 > **[3:03](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=183)** Or consider just making them a single vertical stack on all viewports, and you'll help everyone at all viewport sizes.
 >
@@ -2528,7 +2498,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=204)** If you make your interface simpler, you'll make it easier to use for everyone.
 >
-> **[3:29](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=209)** Remember that some people may want to resize the interface on a touchscreen using pinch, zoom.
+> **[3:29](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=209)** Remember that some people may want to resize the interface on a touchscreen using pinch, [[Zoom]].
 >
 > **[3:36](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=216)** There's code out there that lets you disable zooming on the interface on touchscreens.
 >
@@ -2554,7 +2524,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=285)** Viewport size can't be used as a proxy for anything.
 >
-> **[4:50](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=290)** Our team regularly conducts usability testing sessions with people with disabilities.
+> **[4:50](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=290)** Our team regularly conducts [[Usability Testing]] sessions with people with disabilities.
 >
 > **[4:55](https://www.linkedin.com/learning/accessibility-for-web-design/responsive-design-and-accessibility-14874212?u=76281980&t=295)** On several occasions, we've worked with screen reader users in those sessions that didn't use a monitor.
 >
@@ -2586,20 +2556,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1), [[Zoom]] (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1), [[Zoom]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - responsive (1)
 
-#### Designing for text resizing
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980)
+#### [Designing for text resizing](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=0)** - One of the things that we do quite well with responsive and flexible designs is designed for flexible widths.
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=8)** That's fantastic as it allows for a lot of variation in line length, tech sizes and zoom levels, and that benefits people with all kinds of different disabilities.
+> **[0:08](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=8)** That's fantastic as it allows for a lot of variation in line length, tech sizes and [[Zoom]] levels, and that benefits people with all kinds of different disabilities.
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=18)** However, there's one thing that we consistently forget about in the design process, designing with flexible height as well.
 >
@@ -2681,7 +2650,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=258)** No meaning or functionality is missing.
 >
-> **[4:21](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=261)** We say functionality because this can just as easily happen to forms as it does to text, and other types of content.
+> **[4:21](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=261)** We say functionality because this can just as easily happen to [[Forms]] as it does to text, and other types of content.
 >
 > **[4:29](https://www.linkedin.com/learning/accessibility-for-web-design/designing-for-text-resizing?u=76281980&t=269)** And content blocks don't get so narrow that they become unusable.
 >
@@ -2704,8 +2673,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Content hierarchy and headings
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980)
+#### [Content hierarchy and headings](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2765,7 +2733,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980&t=108)** Mary uses one.
 >
-> **[1:50](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980&t=110)** Sean uses a magnifier almost exclusively on the desktop, but sometimes he switches to a screen reader on his mobile phone so that he can give his eyes a rest from working with that tiny screen.
+> **[1:50](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980&t=110)** Sean uses a magnifier almost exclusively on the desktop, but sometimes he switches to a screen reader on his mobile phone so that he can give his eyes a [[Representational State Transfer (REST)|rest]] from working with that tiny screen.
 >
 > **[2:03](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980&t=123)** So how would Mary or Sean use the same page we looked at?
 >
@@ -2843,15 +2811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - your (1)
 
-#### The importance of page titles
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-page-titles-14871242?u=76281980)
+#### [The importance of page titles](https://www.linkedin.com/learning/accessibility-for-web-design/the-importance-of-page-titles-14871242?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2918,20 +2885,19 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - page (1)
 
-#### Page structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980)
+#### [Page structure](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=0)** - We've already talked about heading structure and page titles.
 >
-> **[0:04](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=4)** Using good, clean markup on the rest of your page is an extension of that same concept.
+> **[0:04](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=4)** Using good, clean markup on the [[Representational State Transfer (REST)|rest]] of your page is an extension of that same concept.
 >
 > **[0:10](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=10)** Use meaningful markup in a logical order.
 >
-> **[0:13](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=13)** You should use HTML markup the way it was designed to be used.
+> **[0:13](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=13)** You should use [[HTML]] markup the way it was designed to be used.
 >
-> **[0:19](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=19)** Choose the most meaningful semantic markup possible.
+> **[0:19](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=19)** Choose the most meaningful [[Semantic Markup]] possible.
 >
 > **[0:22](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=22)** That will ensure that the visual structure of your brilliant design is conveyed to someone that can't see it.
 >
@@ -2957,7 +2923,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=104)** When you make sure your implementations use good, solid semantic markup, we also enable people to create their own tools that help them consume things more readily.
 >
-> **[1:55](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=115)** Work with your development teams to get this markup into your pattern libraries and design systems.
+> **[1:55](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=115)** Work with your development teams to get this markup into your pattern libraries and [[Design Systems]].
 >
 > **[2:01](https://www.linkedin.com/learning/accessibility-for-web-design/page-structure-14874211?u=76281980&t=121)** When you create this type of markup, people using assistive technologies can use it to their advantage.
 >
@@ -2969,7 +2935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Markup]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), teams (1)
+> **Frameworks & Libraries:** [[Semantic Markup]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Systems]] (1)
 > **Env Vars:** html (2), html5 (2), nvda (1), jaws (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -2981,8 +2947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A challenge for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980)
+#### [A challenge for you](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2994,19 +2959,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=26)** If you make one improvement every two weeks, your work is going to be much more accessible in a year.
 >
-> **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=33)** And when you work in concert with developers, you get the opportunity to make a huge difference, not just through creating accessible products, but by creating new processes that embrace accessibility and inclusion.
+> **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=33)** And when you work in concert with developers, you get the opportunity to make a huge difference, not just through creating accessible [[Microsoft Products|products]], but by creating new processes that embrace accessibility and inclusion.
 >
 > **[0:46](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=46)** If you're looking for more, you'll always find great articles and books from A List Apart, A Book Apart, and Smashing Magazine.
 >
 > **[0:55](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=55)** And check out my site at [simplyaccessible.com](https://simplyaccessible.com), where my team and I have been working to create more great accessibility content for you.
 >
-> **[1:04](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=64)** I'm feather on Twitter and derekfeatherstone on LinkedIn.
+> **[1:04](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=64)** I'm feather on Twitter and derekfeatherstone on [[LinkedIn]].
 >
 > **[1:08](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980&t=68)** I'd love to connect with you and hear more about what you're working on and what you want to learn next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [simplyaccessible.com](https://simplyaccessible.com) (1)
 > **Speakers:** - almost (1)

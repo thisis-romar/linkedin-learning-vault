@@ -108,32 +108,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze your business processes using Excel VBA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980)
+#### [Analyze your business processes using Excel VBA](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=0)** - [Narrator] Microsoft Excel is a powerful and versatile tool for analyzing business processes.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=0)** - [Narrator] [[Microsoft Excel]] is a powerful and versatile tool for analyzing business processes.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=6)** Mastering the skills you need to model and simulate your operations will let you work quickly and support great decision making.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=13)** In this course, I'll use real world examples to demonstrate how you can apply the incredible power of Excel and Excel VBA to business process analysis.
+> **[0:13](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=13)** In this course, I'll use real world examples to demonstrate how you can apply the incredible power of [[Microsoft Excel|Excel]] and Excel VBA to business process analysis.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=23)** Whether you are running a neighborhood sandwich shop, or a large production line.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=27)** I'm Curt Frye.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=28)** Join me at LinkedIn Learning for an introduction to the essential skills for analyzing business processes using Microsoft Excel VBA.
+> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980&t=28)** Join me at [[LinkedIn]] Learning for an introduction to the essential skills for analyzing business processes using Microsoft Excel VBA.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (2), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **Env Vars:** vba (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gain insight into your business through simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980)
+#### [Gain insight into your business through simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=2)** Before I get started, I want to share some important information that you should know.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=7)** I assume that you have basic proficiency in Excel VBA.
+> **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=7)** I assume that you have basic proficiency in [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=11)** If not, you'll pick up a lot as we go along, but the more you know before you get started, the better off you'll be.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=57)** And finally, I need to cover how to manage macro security for downloaded files.
 >
-> **[1:02](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=62)** As of September 20th, 2024, Microsoft has changed how Microsoft Office handles files that are downloaded from the internet.
+> **[1:02](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=62)** As of September 20th, 2024, [[Microsoft]] has changed how [[Microsoft Office]] handles files that are downloaded from the internet.
 >
 > **[1:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=72)** So I'm going to switch to the exercise files folder, and show you what you need to do to be able to run the code.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=107)** So I'll click Enable Editing.
 >
-> **[1:49](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=109)** After I click Enable Editing, I receive a security risk message saying that Microsoft has blocked macros from running because the source of this file is untrusted.
+> **[1:49](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=109)** After I click Enable Editing, I receive a [[Security Risk]] message saying that Microsoft has blocked macros from running because the source of this file is untrusted.
 >
 > **[2:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/gain-insight-into-your-business-through-simulation?u=76281980&t=120)** If I click Learn more, I'll go to an online article.
 >
@@ -217,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Office]] (1), [[Security Risk]] (1)
 > **UI Navigation:** double-click (2), switch to (1), go to (1), right-click (1), open the (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (3)
@@ -231,18 +229,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a class module
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980)
+#### [Create a class module](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=1)** - [Narrator] When you create a simulation, you model the behavior of business objects, such as customers, as they move through an environment.
+> **[0:01](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=1)** - [Narrator] When you create a [[Simulation]], you model the behavior of business objects, such as customers, as they move through an environment.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=9)** That environment is made up of other business objects, which could include customer service stations within a store.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=14)** In this movie, I will show you how to create a class module.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=18)** A class module is a place within Excel VBA where you can define a class that you'll use as part of your VBA programming.
+> **[0:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=18)** A class module is a place within [[Microsoft Excel|Excel]] VBA where you can define a class that you'll use as part of your VBA programming.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980&t=27)** I don't need to do any work in a worksheet, so I'll press alt-F11 to move to the Visual Basic editor.
 >
@@ -270,19 +267,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Simulation]] (1), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Define class properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-class-properties?u=76281980)
+#### [Define class properties](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-class-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-class-properties?u=76281980&t=0)** - [Instructor] After you create a class module in Excel VBA, you can define the class itself, and those include variables for properties that contain values describing the object.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-class-properties?u=76281980&t=0)** - [Instructor] After you create a class module in [[Microsoft Excel|Excel]] VBA, you can define the class itself, and those include variables for properties that contain values describing the object.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-class-properties?u=76281980&t=11)** For example, that could be the name of a customer.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** vba (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -370,14 +366,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an instance of a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980)
+#### [Create an instance of a class](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=0)** - [Instructor] After you define a class and its properties, you can create an object that is a member of that class.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=6)** In object-oriented programming.
+> **[0:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=6)** In [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=8)** An example of a class is called an instance.
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=21)** And once you create an instance, you can assign values to its properties.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=26)** To demonstrate, I'll work in Chapter01_03 and that is a macro-enabled Excel workbook you can find in the chapter one folder of the exercise files collection.
+> **[0:26](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=26)** To demonstrate, I'll work in Chapter01_03 and that is a macro-enabled [[Microsoft Excel|Excel]] workbook you can find in the chapter one folder of the exercise files collection.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=36)** And I don't have any data in my worksheet, but I do have some code already written.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=74)** And again, this is just a standard code module, and I will resize it to cover up the class module in the background so it's not distracting (inhales).
 >
-> **[1:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=87)** The subroutine, I'll call SimTest, so, it's just testing the simulation open and close parentheses, (keyboard clicking) 'cause we're not expecting any data from the outside.
+> **[1:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=87)** The subroutine, I'll call SimTest, so, it's just testing the [[Simulation]] open and close parentheses, (keyboard clicking) 'cause we're not expecting any data from the outside.
 >
 > **[1:39](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-instance-of-a-class?u=76281980&t=99)** Now, I need to define a customer object.
 >
@@ -441,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Excel|Excel]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Excel|Excel]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** alt (1), f11 (1)
@@ -450,12 +445,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Create collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980)
+#### [Create collections](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=0)** - [Instructor] In Excel VBA, classes let you sort instances of an object you use in your simulation.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]] VBA, classes let you sort instances of an object you use in your [[Simulation]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=6)** Those objects could be customers or stations within a process.
 >
@@ -539,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Excel|Excel]] (3), [[Simulation]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Simulation]] (1)
 > **Code Identifiers:** objc (6)
 > **Env Vars:** vba (2), f11 (1), dim (1)
 > **CLI Commands:** find (1), make (1)
@@ -547,14 +541,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete objects to free up memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980)
+#### [Delete objects to free up memory](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=0)** - [Instructor] When you use VBA to create instances of objects in Microsoft Excel or other Office programs, the program keeps those instances in memory until your code finishes running or you delete the objects deliberately.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=0)** - [Instructor] When you use VBA to create instances of objects in [[Microsoft Excel]] or other [[Microsoft Office|Office]] programs, the program keeps those instances in memory until your code finishes running or you delete the objects deliberately.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=14)** Excel handles object cleanup pretty well, but you can manage your computer's memory effectively by getting rid of objects you no longer need.
+> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=14)** [[Microsoft Excel|Excel]] handles object cleanup pretty well, but you can manage your computer's memory effectively by getting rid of objects you no longer need.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=21)** And in this movie, I will show you how to do that.
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=114)** I created Customers as a collection using this line of code here, and then I assigned two customers as objects or instances within that collection.
 >
-> **[2:05](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=125)** When I set Customers to Nothing, I am erasing that collection and returning the memory use to store those two customer instances to main memory, and it's now available for the rest of the program to use.
+> **[2:05](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=125)** When I set Customers to Nothing, I am erasing that collection and returning the memory use to store those two customer instances to main memory, and it's now available for the [[Representational State Transfer (REST)|rest]] of the program to use.
 >
 > **[2:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-objects-to-free-up-memory?u=76281980&t=140)** Modern computers have a lot of memory, so this step isn't as necessary as it used to be.
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vba (1), f11 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -603,12 +596,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe process flow and programming goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980)
+#### [Describe process flow and programming goals](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980&t=0)** - [Instructor] In this chapter, we will create a simulation that defines a series of three stations and then moves two customers through those stations.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980&t=0)** - [Instructor] In this chapter, we will create a [[Simulation]] that defines a series of three stations and then moves two customers through those stations.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980&t=9)** As part of that process, we will declare the variables that we need and we'll also define classes for customers and stations and then add stations with property values.
 >
@@ -625,18 +617,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Declare variables used in the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980)
+#### [Declare variables used in the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=0)** - [Instructor] Every VBA code module requires variables to represent values used within the module's procedures.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=7)** In this case, we will use quite a few variables to store values that include the number of stations in the simulation, the average processing time, and the total time that an individual customer spends within the system.
+> **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=7)** In this case, we will use quite a few variables to store values that include the number of stations in the [[Simulation]], the average processing time, and the total time that an individual customer spends within the system.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=20)** In this movie, we will start to define the variables and procedures that we'll use.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=25)** My sample file is chapter 0202, and that's a macro enabled Excel workbook you can find in the chapter two folder of the exercise files collection.
+> **[0:25](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=25)** My sample file is chapter 0202, and that's a macro enabled [[Microsoft Excel|Excel]] workbook you can find in the chapter two folder of the exercise files collection.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/declare-variables-used-in-the-simulation?u=76281980&t=34)** I have a sim setup worksheet out front, and this is customer simulation data for three stations.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Excel|Excel]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Excel|Excel]] (2)
 > **Code Identifiers:** lcustidcntr (2), lnbrstas (2), objc (1), objs (1), lstcntr (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** vba (3), f11 (1)
@@ -725,8 +716,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Define the Customers class and add a customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980)
+#### [Define the Customers class and add a customer](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980&t=27)** We're getting closer to using the data in the sim setup worksheet, but we're not quite there yet.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980&t=32)** There's a bit more that we need to do in Excel VBA.
+> **[0:32](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980&t=32)** There's a bit more that we need to do in [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-customers-class-and-add-a-customer?u=76281980&t=36)** So I'll press Alt + F11 to move to the Visual Basic Editor.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Code Identifiers:** objc (2), lcustidcntr (1)
 > **Env Vars:** vba (2), f11 (1)
 > **CLI Commands:** find (2)
@@ -810,8 +800,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the Stations class and add stations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980)
+#### [Define the Stations class and add stations](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980&t=36)** And I have the data that I will be using for my stations in the sim setup worksheet.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980&t=43)** I'll be doing most of my work in Excel VBA.
+> **[0:43](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980&t=43)** I'll be doing most of my work in [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-the-stations-class-and-add-stations?u=76281980&t=46)** So I'll press Alt F11 to move to the Visual Basic editor.
 >
@@ -961,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sta (4), f11 (3), objs (3), vba (2), lst (1)
 > **Prerequisites:** setup (7)
 > **UI Navigation:** scroll down (2), click on (1)
@@ -970,8 +959,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Add code to calculate and write out times
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-calculate-and-write-out-times?u=76281980)
+#### [Add code to calculate and write out times](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-calculate-and-write-out-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1063,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), business (1), application (1)
 > **Code Identifiers:** sngrand (2), stcntr (1), lstatime (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1083,15 +1070,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
+> **Prerequisites:** setup (1)
 
-#### Delete unneeded objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980)
+#### [Delete unneeded objects](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980&t=0)** - [Instructor] After you run a simulation or have written any other code that uses objects, you should delete the objects from memory within your sub-routine.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980&t=0)** - [Instructor] After you run a [[Simulation]] or have written any other code that uses objects, you should delete the objects from memory within your sub-routine.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980&t=8)** Excel has good memory management routines that usually free up your system resources after your code stops running, but it's still good practice to remove the objects when you're done with them, and I will show you how to do that in this movie.
+> **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980&t=8)** [[Microsoft Excel|Excel]] has good [[Memory Management]] routines that usually free up your system resources after your code stops running, but it's still good practice to remove the objects when you're done with them, and I will show you how to do that in this movie.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/delete-unneeded-objects?u=76281980&t=21)** My sample file is chapter 0206, and you can find it in the chapter two folder of the Exercise Files collection.
 >
@@ -1120,12 +1107,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25122475?u=76281980)
+#### [Run the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25122475?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25122475?u=76281980&t=0)** - [Instructor] So far in this chapter, you have created a simulation that takes information about a series of stations within a business process, such as a sandwich shop that makes food to order and applied that information to discover how long customers will spend within the system.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25122475?u=76281980&t=0)** - [Instructor] So far in this chapter, you have created a [[Simulation]] that takes information about a series of stations within a business process, such as a sandwich shop that makes food to order and applied that information to discover how long customers will spend within the system.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25122475?u=76281980&t=18)** In this movie, we will run the simulation a couple of times to see its results.
 >
@@ -1145,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), business (1)
+> **Frameworks & Libraries:** [[Simulation]] (3)
 > **Env Vars:** alt (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1153,12 +1139,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapt the code for multiple runs
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/adapt-the-code-for-multiple-runs?u=76281980)
+#### [Adapt the code for multiple runs](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/adapt-the-code-for-multiple-runs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/adapt-the-code-for-multiple-runs?u=76281980&t=0)** - [Instructor] In the previous movie, we ran a simulation that calculated the time a customer would spend at each station of a sandwich shop.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/adapt-the-code-for-multiple-runs?u=76281980&t=0)** - [Instructor] In the previous movie, we ran a [[Simulation]] that calculated the time a customer would spend at each station of a sandwich shop.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/adapt-the-code-for-multiple-runs?u=76281980&t=8)** The code we created only allowed for a single run, and even though we ran it multiple times by ourselves, it's much easier to do that in code.
 >
@@ -1240,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Simulation]] (3), data (1)
+> **Frameworks & Libraries:** [[Simulation]] (3)
 > **Env Vars:** nmbr (2), lnmbr (2), f11 (1), runs (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** setup (4)
@@ -1254,12 +1239,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define process flow and programming goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980)
+#### [Define process flow and programming goals](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980&t=0)** - [Instructor] In the previous chapter, you created a simulation that generated random ties for customers moving through a business process.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980&t=0)** - [Instructor] In the previous chapter, you created a [[Simulation]] that generated random ties for customers moving through a business process.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980&t=8)** In this chapter, we will make the simulation more realistic by adding a timer or ticker that updates the status of every object within the system with every tick of the clock.
 >
@@ -1275,17 +1259,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (4), business (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an outline of IF and For Next statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-outline-of-if-and-for-next-statements?u=76281980)
+#### [Create an outline of IF and For Next statements](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-outline-of-if-and-for-next-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-outline-of-if-and-for-next-statements?u=76281980&t=0)** - [Instructor] In this module, you will add a timer or a ticker to your simulation, and update each object status with each tick of the clock.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-outline-of-if-and-for-next-statements?u=76281980&t=0)** - [Instructor] In this module, you will add a timer or a ticker to your [[Simulation]], and update each object status with each tick of the clock.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-an-outline-of-if-and-for-next-statements?u=76281980&t=8)** For example, suppose a customer will stay at station one until tick 20.
 >
@@ -1403,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (15), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** objc (2), f11 (1), brstas (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1412,8 +1395,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add instructions within the framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980)
+#### [Add instructions within the framework](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980&t=22)** My sample file is Chapter 0303.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980&t=24)** And that's an Excel workbook that you can find in the chapter three folder of the exercise files collection.
+> **[0:24](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980&t=24)** And that's an [[Microsoft Excel|Excel]] workbook that you can find in the chapter three folder of the exercise files collection.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-instructions-within-the-framework?u=76281980&t=30)** We won't do anything with the data on the SIM setup worksheet, so I will press Alt F11.
 >
@@ -1623,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), business (1), [[Microsoft Excel|Excel]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sim (1), f11 (1), objc (1)
 > **CLI Commands:** find (1), ls (1)
 > **Code Identifiers:** sngrand (1), sndrand (1)
@@ -1632,12 +1614,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Add code to write out simulation results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results?u=76281980)
+#### [Add code to write out simulation results](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results?u=76281980&t=0)** - [Instructor] Adding a ticker or a clock to a simulation lets you track the state of each customer and station precisely as the simulation moves along.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results?u=76281980&t=0)** - [Instructor] Adding a ticker or a clock to a [[Simulation]] lets you track the state of each customer and station precisely as the simulation moves along.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results?u=76281980&t=10)** We have almost created a version of the simulation that works with the ticker, but we still need to add a line of code to write out the state of the simulation at each step.
 >
@@ -1680,12 +1661,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation?u=76281980)
+#### [Run the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation?u=76281980&t=0)** - [Instructor] In this chapter, you have added code to your simulation module to manage a business process by creating a timer.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation?u=76281980&t=0)** - [Instructor] In this chapter, you have added code to your [[Simulation]] module to manage a business process by creating a timer.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation?u=76281980&t=7)** At each click of the timer or tick of the clock, your VBA code updates the status of each customer and station, moving customers through stations at the appropriate times.
 >
@@ -1733,7 +1713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **Env Vars:** vba (1), f11 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1746,12 +1726,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe process flow and programming goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980)
+#### [Describe process flow and programming goals](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980&t=0)** - [Instructor] In chapter three, we added a timer to our simulation so we could track the movements of two customers through three stations.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980&t=0)** - [Instructor] In chapter three, we added a timer to our [[Simulation]] so we could track the movements of two customers through three stations.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980&t=7)** In this chapter, we will extend that model to include multiple customers added throughout the simulation, and we will calculate their arrival times using the Poisson distribution.
 >
@@ -1764,14 +1743,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Simulation]] (5)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Poisson distribution to calculate arrival times
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980)
+#### [Use the Poisson distribution to calculate arrival times](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=0)** - [Instructor] When you model the amount of time between events such as customers entering a store or cars arriving at a toll booth, you use the Poisson distribution from statistics to calculate the inter-arrival times.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=0)** - [Instructor] When you model the amount of time between events such as customers entering a store or cars arriving at a toll booth, you use the Poisson distribution from [[Statistics]] to calculate the inter-arrival times.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=14)** There's no easy way to calculate Poisson distribution results using a single Excel function.
+> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=14)** There's no easy way to calculate Poisson distribution results using a single [[Microsoft Excel|Excel]] function.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=19)** But in this movie, I'll show you a straightforward way to get the values you need using a couple of worksheet formulas that work together.
 >
@@ -1797,13 +1775,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=93)** So, in cell M2, I'll type equal and I will create my Poisson distribution.
 >
-> **[1:40](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=100)** So, I have P-O-I-S-S-O-N.D-I-S-T, and yes, that is a French word, la Poisson for fish, but it was a gentleman's name.
+> **[1:40](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=100)** So, I have P-O-I-S-S-O-N.D-I-S-T, and yes, that is a French [[Microsoft Word|word]], la Poisson for fish, but it was a gentleman's name.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=110)** So, we have POISSON.DIST and the value that we're going to look up is in L2, then a comma, and then the average or the mean is in cell J2, and I don't want that changing as we copy the formula down.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=126)** So, I press F4 to make an absolute reference, then a comma.
 >
-> **[2:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=130)** And I do want it to be a cumulative distribution function, so I want to know the probability of getting one or below, not just one exactly.
+> **[2:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=130)** And I do want it to be a cumulative distribution function, so I want to know the [[Probability]] of getting one or below, not just one exactly.
 >
 > **[2:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/use-the-poisson-distribution-to-calculate-arrival-times?u=76281980&t=140)** So, I'll do, true, (keyboard clicking) right parentheses and enter, and I get a very small number.
 >
@@ -1853,7 +1831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), data (1), [[Microsoft Word|Word]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Microsoft Word|Word]] (1), [[Probability]] (1)
 > **Env Vars:** poisson (1), dist (1), xlookup (1), m54 (1), l54 (1)
 > **Definitions:** means that (2), is a  (1), refers to (1)
 > **CLI Commands:** find (1), make (1)
@@ -1862,8 +1840,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 
-#### Add customers to the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980)
+#### [Add customers to the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1873,7 +1850,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=24)** My sample file is chapter 0403, and that is a macro enabled workbook that you can find in the chapter four folder of the exercise files collection.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=35)** On the SIM setup worksheet, I have the Poisson Data lookup that I created earlier, and we are going to use that inside of our Excel VBA code to generate random customer arrival times.
+> **[0:35](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=35)** On the SIM setup worksheet, I have the Poisson Data lookup that I created earlier, and we are going to use that inside of our [[Microsoft Excel|Excel]] VBA code to generate random customer arrival times.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=50)** You'll probably see a different number than 20, because, it's a random number.
 >
@@ -1895,7 +1872,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=127)** I initialize the create next at variable to one, so the first customer arrives at clock tick number one, and the customer counter is one as well.
 >
-> **[2:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=138)** And the next step is to activate the SIM setup worksheet to make sure that we can look up the values that we need later, so now we can start the simulation.
+> **[2:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=138)** And the next step is to activate the SIM setup worksheet to make sure that we can look up the values that we need later, so now we can start the [[Simulation]].
 >
 > **[2:29](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-customers-to-the-simulation?u=76281980&t=149)** So I have created a new outside loop for L ticker to go from one to L total ticks.
 >
@@ -1969,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), [[Simulation]] (3), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sim (3), vba (2), obj (2)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Prerequisites:** setup (3)
@@ -1977,12 +1954,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add code to write out simulation results
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980)
+#### [Add code to write out simulation results](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=0)** - [Instructor] Now that we have the code in place to run the simulation, we can write its output to the Results worksheet.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=0)** - [Instructor] Now that we have the code in place to run the [[Simulation]], we can write its output to the Results worksheet.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=6)** Debug.print works well for testing and for smaller situations, but when you start generating hundreds of values as output, you really do need to use a worksheet to manage and summarize that data.
 >
@@ -2016,7 +1992,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=101)** So that is a handy reminder.
 >
-> **[1:43](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=103)** First, I will ensure that the Results worksheet is active and also that cell A1 at the top-left corner of the worksheet is active, 'cause we will use those references throughout the rest of this code.
+> **[1:43](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=103)** First, I will ensure that the Results worksheet is active and also that cell A1 at the top-left corner of the worksheet is active, 'cause we will use those references throughout the [[Representational State Transfer (REST)|rest]] of this code.
 >
 > **[2:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-code-to-write-out-simulation-results-25119867?u=76281980&t=120)** So I will do Worksheets, and then Results, rather than an index number, because index numbers can change if worksheets are moved within a workbook.
 >
@@ -2094,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), next (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** objc (4)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** find (1), make (1)
@@ -2103,14 +2079,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980)
+#### [Run the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980&t=0)** - [Instructor] Okay, we have done a lot of work in this chapter.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980&t=4)** We have extended the clock-based simulation that we created in chapter 3 to add new customers as the simulation runs.
+> **[0:04](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980&t=4)** We have extended the clock-based [[Simulation]] that we created in chapter 3 to add new customers as the simulation runs.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25118883?u=76281980&t=12)** Those customers arrival times were calculated using the Poisson distribution, and their time at each station calculated using the normal distribution.
 >
@@ -2236,12 +2211,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe process flow and programming goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980)
+#### [Describe process flow and programming goals](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980&t=0)** - [Instructor] In Chapter 4, we extended our clock base simulation to add multiple customers while the simulation ran.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980&t=0)** - [Instructor] In Chapter 4, we extended our clock base [[Simulation]] to add multiple customers while the simulation ran.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980&t=7)** In this movie, we will add three more extensions to the model.
 >
@@ -2259,13 +2233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), business (1)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add capacity to each station
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980)
+#### [Add capacity to each station](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2275,7 +2248,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980&t=12)** In this movie, I will show you the changes you need to make to the stations class and your code to model station capacities above one.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980&t=20)** My sample file is chapter 0502, and that's an Excel workbook that you can find in the Chapter 5 folder of the exercise files collection.
+> **[0:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980&t=20)** My sample file is chapter 0502, and that's an [[Microsoft Excel|Excel]] workbook that you can find in the Chapter 5 folder of the exercise files collection.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-capacity-to-each-station?u=76281980&t=30)** I've made a couple of changes to the data on the SimSetup worksheet.
 >
@@ -2365,7 +2338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), business (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** objc (1)
 > **Env Vars:** f11 (1)
@@ -2374,16 +2347,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
 
-#### Run the simulation with added station capacity
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980)
+#### [Run the simulation with added station capacity](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=0)** - [Instructor] In the previous movie, we added properties to the station class and code to the main subroutine to give each station the ability to handle multiple customers at a time.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=10)** In this movie, we will run the simulation and see how increasing capacity copes with shorter and shorter times between customer arrivals.
+> **[0:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=10)** In this movie, we will run the [[Simulation]] and see how increasing capacity copes with shorter and shorter times between customer arrivals.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=18)** My sample file is Chapter 05_03, and that is a macro-enabled Excel workbook that you can find in the Chapter 5 folder of the Exercise Files collection.
+> **[0:18](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=18)** My sample file is Chapter 05_03, and that is a macro-enabled [[Microsoft Excel|Excel]] workbook that you can find in the Chapter 5 folder of the Exercise Files collection.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-added-station-capacity?u=76281980&t=28)** I made a couple of changes to the SimSetup workbook.
 >
@@ -2501,7 +2473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Simulation]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Simulation]] (1)
 > **Env Vars:** f11 (6), h196 (1), xlookup (1)
 > **UI Navigation:** scroll down (2), scroll up (1), double-click (1), go to (1)
 > **Cross-References:** go back to (2), later in (1)
@@ -2510,8 +2482,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add more stations to the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980)
+#### [Add more stations to the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,9 +2522,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=108)** So I'll click in cell A5 and type equal, and we'll use the new sequence function.
 >
-> **[1:55](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=115)** If you have an older version of Excel, sequence will not be available to you.
+> **[1:55](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=115)** If you have an older version of [[Microsoft Excel|Excel]], sequence will not be available to you.
 >
-> **[2:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=120)** But if you have a current version of Microsoft 365, then it is.
+> **[2:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=120)** But if you have a current version of [[Microsoft 365]], then it is.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-more-stations-to-the-simulation?u=76281980&t=126)** So we have the sequence and the number of rows will be the value in B2, then a comma.
 >
@@ -2583,13 +2554,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), business (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the simulation with additional stations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980)
+#### [Run the simulation with additional stations](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2597,9 +2567,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=7)** We didn't have to modify the code to read in data about the stations, but we did need to let the model know how many to expect.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=14)** And in this movie, we'll run the simulation and see how increasing the number of stations affects our results.
+> **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=14)** And in this movie, we'll run the [[Simulation]] and see how increasing the number of stations affects our results.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=21)** My sample file is Chapter 0505, and that is a macro-enabled Excel workbook you can find in the Chapter 5 folder of the Exercise Files Collection.
+> **[0:21](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=21)** My sample file is Chapter 0505, and that is a macro-enabled [[Microsoft Excel|Excel]] workbook you can find in the Chapter 5 folder of the Exercise Files Collection.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-additional-stations?u=76281980&t=31)** To review the changes we made in the previous movie, I increased the number of stations to five, and then so that I had more flexibility, I put a sequence formula in cell A5 to give me the numbers one through five, and the formula appears in the screen.
 >
@@ -2635,7 +2605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Simulation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** f11 (2)
@@ -2643,8 +2613,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add rework loops to stations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980)
+#### [Add rework loops to stations](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2656,7 +2625,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980&t=20)** The same is true for manufacturing, where if you have a piece of equipment that didn't come out exactly right, you will need to rework it.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980&t=28)** The sample file I will use to incorporate the possibility of rework loops into our model is chapter 0506, and that's an Excel workbook you can find in the chapter five folder of the exercise files collection.
+> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980&t=28)** The sample file I will use to incorporate the possibility of rework loops into our model is chapter 0506, and that's an [[Microsoft Excel|Excel]] workbook you can find in the chapter five folder of the exercise files collection.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-rework-loops-to-stations?u=76281980&t=43)** Everything on the sim setup worksheet is the same, however, I have made an addition to the results worksheet.
 >
@@ -2774,7 +2743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** lreworktime (4), objc (3), lrework (2), sngrand (1), lreworkcounter (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** f11 (1), sng (1), cntr (1)
@@ -2783,8 +2752,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** setup (1)
 
-#### Run the simulation with rework loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980)
+#### [Run the simulation with rework loops](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,7 +2760,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=8)** We changed our code to allow a 5% possibility that the customer would spend another randomly generated time period at the station.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=16)** In this movie, we'll run the simulation and see how adding rework loops to the simulation affects our results.
+> **[0:16](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=16)** In this movie, we'll run the [[Simulation]] and see how adding rework loops to the simulation affects our results.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=23)** My sample file is chapter 05_07, and you can find it in the chapter five folder of the Exercise Files collection.
 >
@@ -2830,7 +2798,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=117)** So I'll go back up and take a look at the rework loops.
 >
-> **[2:01](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=121)** And remember, this happened with a 5% probability.
+> **[2:01](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=121)** And remember, this happened with a 5% [[Probability]].
 >
 > **[2:05](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-rework-loops?u=76281980&t=125)** So I have customer number five at station three that took four extra minutes or four ticks of the clock.
 >
@@ -2846,7 +2814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (4), [[Probability]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Probability]] (1)
 > **Env Vars:** f11 (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -2860,12 +2828,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe process flow and programming goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980)
+#### [Describe process flow and programming goals](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980&t=0)** - [Presenter] So far in this course, we have worked through simulations that allow customers to work through a process in a straightforward way, but we can add elements of chance to our simulation to make it more realistic.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980&t=0)** - [Presenter] So far in this course, we have worked through simulations that allow customers to work through a process in a straightforward way, but we can add elements of chance to our [[Simulation]] to make it more realistic.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980&t=14)** For example, we could allow customers to skip some stations.
 >
@@ -2885,20 +2852,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (1), business (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Allow conditional station paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980)
+#### [Allow conditional station paths](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980&t=0)** - [Instructor] In chapter five, we extended our simulation to allow for rework loops where a customer spends more than the expected time at a station.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980&t=0)** - [Instructor] In chapter five, we extended our [[Simulation]] to allow for rework loops where a customer spends more than the expected time at a station.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980&t=8)** In this chapter, we will simulate a related scenario where a customer has a probability of moving past the station without having to go through it.
+> **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980&t=8)** In this chapter, we will simulate a related scenario where a customer has a [[Probability]] of moving past the station without having to go through it.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-conditional-station-paths?u=76281980&t=17)** My sample file is chapter 0602, and you can find it in the chapter six folder of the exercise files collection.
 >
@@ -2974,7 +2940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Probability]] (6), [[Simulation]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Simulation]] (2)
 > **Env Vars:** objc (3), alt (1), f11 (1)
 > **Versions:** 0.85 (1), 0.15 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2983,12 +2949,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** setup (1)
 
-#### Run the simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980)
+#### [Run the simulation](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=0)** - [Instructor] In this chapter, we have modified an existing simulation to give a probability that customers will have to do a station instead of everyone having to do all of them.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=0)** - [Instructor] In this chapter, we have modified an existing [[Simulation]] to give a [[Probability]] that customers will have to do a station instead of everyone having to do all of them.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=11)** The sample file that I'm using is Chapter 06_03, and you can find that in the Chapter 6 folder of the Exercise Files collection.
 >
@@ -3032,7 +2997,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=130)** So there are those results.
 >
-> **[2:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=132)** Now, I will delete the table rows, and I am using an Excel table.
+> **[2:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=132)** Now, I will delete the table rows, and I am using an [[Microsoft Excel|Excel]] table.
 >
 > **[2:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-25125096?u=76281980&t=140)** So I've selected the table row, and I'll press Control-Shift, down arrow.
 >
@@ -3082,8 +3047,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Allow other employees to help the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980)
+#### [Allow other employees to help the process](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3093,19 +3057,19 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=8)** Some situations require more experienced people to help.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=12)** You can think of level one or level two technical support.
+> **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=12)** You can think of level one or level two [[Technical Support]].
 >
 > **[0:16](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=16)** In this movie, I will show you how to add code so that supervisors can take on cases a junior employee would take too long to solve.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=25)** My sample file is Chapter 06-04, and you can find it in the Chapter 6 folder of the Exercise Files collection.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=33)** I've made a couple of changes on the worksheets and also in Excel VBA.
+> **[0:33](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=33)** I've made a couple of changes on the worksheets and also in [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=39)** So let's start with the worksheet.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=41)** First thing that I've done on the sim setup worksheet is to change the number of stations to four.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=47)** I only have three that customers will need to go through, but I've created the fourth one so that the customers have a place to go within the simulation when they're being helped by a supervisor.
+> **[0:47](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=47)** I only have three that customers will need to go through, but I've created the fourth one so that the customers have a place to go within the [[Simulation]] when they're being helped by a supervisor.
 >
 > **[1:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/allow-other-employees-to-help-the-process?u=76281980&t=60)** Also, if we look at results, you'll see that I have added a calculation for the average percentage idle, and we are going to use that when we run the simulation later to see how adding supervisors helps, or doesn't, with the time spent in the system.
 >
@@ -3173,7 +3137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (4), next (2), [[Technical Support]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Technical Support]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** vba (1), f11 (1)
 > **UI Navigation:** scroll down (2)
@@ -3181,14 +3145,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the simulation with helpers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980)
+#### [Run the simulation with helpers](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980&t=0)** - [Instructor] In the previous movie, we reviewed code that allowed supervisors or more experienced employees to take over when a customer's processing time was estimated to be 25 ticks or more.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980&t=12)** In this movie, we will run the simulation with and without our changes to see how it affects average idle time.
+> **[0:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980&t=12)** In this movie, we will run the [[Simulation]] with and without our changes to see how it affects average idle time.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/run-the-simulation-with-helpers?u=76281980&t=19)** We will also change the time it takes a supervisor to help the customers with more challenging cases to see how that affects the results.
 >
@@ -3394,7 +3357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), next (2)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **Env Vars:** f11 (27), alt (18), sim (1), vba (1)
 > **Versions:** 13.54 (2), 18.81 (2), 7.75 (2), 16.98 (1), 6.3 (1)
 > **CLI Commands:** find (1), make (1)
@@ -3403,8 +3366,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** setup (1)
 
-#### Add time for customers to complete the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980)
+#### [Add time for customers to complete the process](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3414,7 +3376,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980&t=20)** My sample file is chapter 0606 and you can find it in the chapter six folder of the exercise files collection.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980&t=28)** I'm working with the same data that I had before for the simulation.
+> **[0:28](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980&t=28)** I'm working with the same data that I had before for the [[Simulation]].
 >
 > **[0:33](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/add-time-for-customers-to-complete-the-process?u=76281980&t=33)** So I have four stations.
 >
@@ -3474,7 +3436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), next (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **UI Navigation:** scroll down (4), select the (1), right-click (1)
 > **Env Vars:** f11 (2)
 > **CLI Commands:** find (1)
@@ -3486,12 +3448,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read the simulation results as written
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980)
+#### [Read the simulation results as written](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=0)** - [Instructor] After you run a simulation or a set of simulations, you should take some time to examine your results to gain insights into your system.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=0)** - [Instructor] After you run a [[Simulation]] or a set of simulations, you should take some time to examine your results to gain insights into your system.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=9)** The code we've created in this course writes out information about each customer's progress through a series of stations in a process, but we could just as easily have written out information about stations, and the time they spend idle and occupied.
 >
@@ -3499,7 +3460,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=30)** My sample file is Chapter 0701, and you can find it in the chapter seven folder of the exercise files collection.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=37)** I have already run the simulation, so I will change to the results worksheet, and here I have my Excel table.
+> **[0:37](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=37)** I have already run the simulation, so I will change to the results worksheet, and here I have my [[Microsoft Excel|Excel]] table.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980&t=45)** And what I can do is just scroll through the data, and see if there's anything that catches my attention.
 >
@@ -3529,7 +3490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), data (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 36.17 (1)
 > **UI Navigation:** scroll down (1)
@@ -3538,12 +3499,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manually reset the results cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980)
+#### [Manually reset the results cells](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=0)** - [Narrator] To be effective, a simulation will use random numbers to generate its results.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=0)** - [Narrator] To be effective, a [[Simulation]] will use random numbers to generate its results.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=5)** That means every time you run it, you should get a different output.
 >
@@ -3557,7 +3517,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=38)** However, I want to delete what I currently have here, and there are a couple of ways that I could do that.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=44)** If I were working with regular worksheet rows, in other words, not an Excel table, then I could select the rows in the worksheet that I wanted to delete.
+> **[0:44](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=44)** If I were working with regular worksheet rows, in other words, not an [[Microsoft Excel|Excel]] table, then I could select the rows in the worksheet that I wanted to delete.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/manually-reset-the-results-cells?u=76281980&t=53)** And I would do that by moving the mouse pointer over, in this case, row three, and the header at the left side is highlighted in green.
 >
@@ -3593,19 +3553,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Simulation]] (4), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Simulation]] (4)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
 
-#### Summarize results using the Total row
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980)
+#### [Summarize results using the Total row](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=0)** - [Instructor] Excel tables are useful and versatile tools.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] tables are useful and versatile tools.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=3)** It's a shame that more users aren't aware of them.
 >
@@ -3617,7 +3576,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=27)** My sample file is chapter 07_03, and you can find it in the chapter seven folder of the exercise files collection.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=35)** I've already run the simulation, so I will move to the results worksheet.
+> **[0:35](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=35)** I've already run the [[Simulation]], so I will move to the results worksheet.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/summarize-results-using-the-total-row?u=76281980&t=40)** And here I have an Excel table that shows my data.
 >
@@ -3673,7 +3632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Simulation]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Simulation]] (3)
 > **CLI Commands:** find (4)
 > **Env Vars:** h143 (1)
 > **Versions:** 3.54 (1)
@@ -3682,12 +3641,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort and filter Excel table values
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/sort-and-filter-excel-table-values?u=76281980)
+#### [Sort and filter Excel table values](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/sort-and-filter-excel-table-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/sort-and-filter-excel-table-values?u=76281980&t=0)** - [Instructor] When you send your simulation's output to an Excel table, you gain the ability to analyze your results in many ways.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/sort-and-filter-excel-table-values?u=76281980&t=0)** - [Instructor] When you send your [[Simulation]]'s output to an [[Microsoft Excel|Excel]] table, you gain the ability to analyze your results in many ways.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/sort-and-filter-excel-table-values?u=76281980&t=7)** Two of the techniques you can use on your data are sorting and filtering.
 >
@@ -3737,19 +3695,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), [[Simulation]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Simulation]] (2)
 > **UI Navigation:** switch to (1), scroll down (1), go to (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot errors in your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980)
+#### [Troubleshoot errors in your code](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=0)** - [Instructor] Creating a simulation can be tricky whether you do it in Excel or in another program or programming language.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=0)** - [Instructor] Creating a [[Simulation]] can be tricky whether you do it in [[Microsoft Excel|Excel]] or in another program or programming language.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=8)** In this movie, I will describe some of the mistakes that I made while recording this course so you can avoid them in your own work.
 >
@@ -3757,7 +3714,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=23)** I'm on the sim setup worksheet of the workbook and the first error deals with having a zero inter arrival time for customers.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=34)** So if you look over on the right, in Poisson data lookup table, you'll see that the first value is zero and it happens with a very low probability.
+> **[0:34](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=34)** So if you look over on the right, in Poisson data lookup table, you'll see that the first value is zero and it happens with a very low [[Probability]].
 >
 > **[0:45](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/troubleshoot-errors-in-your-code?u=76281980&t=45)** But if it does, then the code that I created will break.
 >
@@ -3867,7 +3824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), [[Microsoft Excel|Excel]] (2), [[Programming]] (1), data (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Microsoft Excel|Excel]] (2), [[Probability]] (1)
 > **Env Vars:** f11 (3), vba (2), ctrl (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -3881,16 +3838,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=3)** Before I go, I want to point out some additional resources that you can use to learn more about process modeling and Excel VBA.
+> **[0:03](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=3)** Before I go, I want to point out some additional resources that you can use to learn more about process modeling and [[Microsoft Excel|Excel]] VBA.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=11)** There are three books, and the first one is a "Business Process Modeling, Simulation, and Design" a second edition by Laguna and Marklund from CRC Press.
+> **[0:11](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=11)** There are three books, and the first one is a "Business Process Modeling, [[Simulation]], and Design" a second edition by Laguna and Marklund from CRC Press.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980&t=22)** This book is more advanced than the level at which I taught this course, but it gives you great information and tactics and techniques that you can use to simulate and model other processes.
 >
@@ -3912,7 +3868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (4), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Simulation]] (1)
 > **Env Vars:** vba (2), crc (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)

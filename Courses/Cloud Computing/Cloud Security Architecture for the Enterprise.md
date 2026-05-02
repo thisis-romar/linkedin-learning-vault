@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of cloud security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980)
+#### [Importance of cloud security architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980&t=0)** - Let me ask you a question.
 >
-> **[0:02](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980&t=2)** Did you know one of the most common reasons for a data breech are cloud security misconfigurations, but you can stay on top of them by building security in your cloud rather than bolting security on your cloud.
+> **[0:02](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980&t=2)** Did you know one of the most common reasons for a data breech are [[Cloud Security]] misconfigurations, but you can stay on top of them by building security in your cloud rather than bolting security on your cloud.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980&t=15)** Hello, I'm Karl Ots.
 >
@@ -121,29 +120,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (6), data (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (4)
 > **Speakers:** - let (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=0)** - [Karl] This course is intended mainly for a security audience.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=4)** You might be a seasoned security professional who wants a comprehensive picture of the public cloud security, but you can also benefit from this course if you are a cloud solution architect looking at improving your security skills.
+> **[0:04](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=4)** You might be a seasoned security professional who wants a comprehensive picture of the public [[Cloud Security]], but you can also benefit from this course if you are a cloud solution architect looking at improving your security skills.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=17)** The course covers a wide variety of topics across multiple clouds.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=21)** To get most out of this course, you should have a working knowledge of at least one major public cloud platform, AWS, Azure, or Google Cloud.
+> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=21)** To get most out of this course, you should have a working knowledge of at least one major public cloud platform, AWS, [[Microsoft Azure|Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=30)** You should also have at least beginner-level understanding of key cloud security principles.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=35)** If you want to take a beginner cloud security course first, check out the Learning Cloud Computing Cloud Security course in the LinkedIn Learning Library.
+> **[0:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/what-you-should-know?u=76281980&t=35)** If you want to take a beginner cloud security course first, check out the Learning [[Cloud Computing]] Cloud Security course in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), cloud (7), aws (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (4), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Computing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** picture (1)
@@ -154,16 +152,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud security architecture components
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980)
+#### [Cloud security architecture components](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=0)** - [Instructor] Designing your cloud security architecture requires a careful balancing act between the brave new world of cloud and the existing internal and external security requirements.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=0)** - [Instructor] Designing your [[Cloud Security]] architecture requires a careful balancing act between the brave new world of cloud and the existing internal and external security requirements.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=12)** On the left side, we have the allure of improvements to the time to market and the low barriers of entry to the so-called shadow cloud.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=20)** On the right side, we have the longstanding technical debt to update our security requirements from the network paradigm era to the cloud world, and we must also consider the perceptions towards the chief information security office.
+> **[0:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=20)** On the right side, we have the longstanding technical debt to update our security requirements from the network paradigm era to the cloud world, and we must also consider the perceptions towards the chief information security [[Microsoft Office|office]].
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=34)** This is not a realistic figure, of course.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=39)** I would like to get the scale steep towards the requirements on the right, but in many organizations, I see the left side over-weighing the right.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=47)** If your controls disrupt and slow down the cloud adoption journey, your business and application development counterparts might turn to shadow cloud.
+> **[0:47](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=47)** If your controls disrupt and slow down the cloud adoption journey, your business and [[Application Development]] counterparts might turn to shadow cloud.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=56)** That is, they will provision their own cloud accounts or subscriptions and even connect them with your existing environment, such as network, identity, and public domains.
 >
@@ -183,17 +180,17 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=95)** This brings us to the definition of cloud security architecture.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=99)** At its core, cloud security architecture is a list of security controls and policies that apply to the cloud computing platform that you're using.
+> **[1:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=99)** At its core, cloud security architecture is a list of security controls and policies that apply to the [[Cloud Computing]] platform that you're using.
 >
-> **[1:47](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=107)** Cloud security architecture can apply to infrastructure, platform, or even Software as a Service.
+> **[1:47](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=107)** Cloud security architecture can apply to infrastructure, platform, or even [[SaaS|Software as a Service]].
 >
-> **[1:53](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=113)** In this course, we are mostly leaving Software as a Service untouched and rather focused on infrastructure and Platform as a Service.
+> **[1:53](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=113)** In this course, we are mostly leaving Software as a Service untouched and rather focused on infrastructure and [[PaaS|Platform as a Service]].
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=121)** Controls, sometimes called countermeasures or safeguards, are actions we will take to protect our environment.
 >
 > **[2:08](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=128)** Examples of controls include which type of encryption needs to be applied to protect our sensitive data or requiring just-in-time access for administrative actions.
 >
-> **[2:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=138)** Policies and standards cover acceptable use of cloud services, such as which type of data can you store in the cloud.
+> **[2:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=138)** Policies and standards cover acceptable use of [[Cloud Services]], such as which type of data can you store in the cloud.
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=145)** These controls and policies should be selected based on identified risks to the confidentiality, integrity, and availability of the assets that you are protecting.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=192)** Landing zone is your secure cloud platform.
 >
-> **[3:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=195)** This is where you enforce security controls to keep your cloud products in their secure state.
+> **[3:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=195)** This is where you enforce security controls to keep your cloud [[Microsoft Products|products]] in their secure state.
 >
 > **[3:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=201)** There can be multiple landing zones in your environment.
 >
@@ -225,9 +222,9 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=254)** They're pre-configured to include the organization-required controls.
 >
-> **[4:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=258)** Typically, these are Infrastructure as Code artifacts, such as Azure Resource Manager templates, CloudFormation templates, or Terraform modules.
+> **[4:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=258)** Typically, these are [[Infrastructure as code (IaC)|Infrastructure as Code]] artifacts, such as [[Microsoft Azure|Azure]] Resource Manager templates, CloudFormation templates, or [[Terraform]] modules.
 >
-> **[4:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=267)** The products should be built following the secure software development practices, such as code reviews, [[Static Application Security Testing]], and quality gates.
+> **[4:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=267)** The products should be built following the secure [[Software Development]] practices, such as code reviews, [[Static [[Application Security]] Testing]], and quality gates.
 >
 > **[4:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=276)** The products can be developed centrally.
 >
@@ -237,14 +234,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), [[Security]] (16), [[Microsoft Products|Products]] (5), [[SaaS|Software as a service]] (2), data (2)
+> **Frameworks & Libraries:** [[Cloud Security]] (7), [[Microsoft Products|Products]] (5), [[Cloud Services]] (4), [[SaaS|Software as a service]] (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** terraform (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared responsibility model
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980)
+#### [Shared responsibility model](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=10)** There are several technical limitations, such as the changes in the network perimeter or the host-isolation models.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=17)** Some changes are required because business units and application development teams are choosing the cloud due to flexibility, faster time to market, or access to technologies that are not available in existing hosting platforms and technology stacks.
+> **[0:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=17)** Some changes are required because business units and [[Application Development]] teams are choosing the cloud due to flexibility, faster time to market, or access to technologies that are not available in existing hosting platforms and technology stacks.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=32)** This comes with a set of new skills everyone needs to learn across business, development, operations, and security.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=83)** This requires both upskilling existing information security teams with cloud expertise, and changing the way security responsibilities are assigned to customers and cloud service providers.
 >
-> **[1:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=95)** Cloud security responsibilities are shared across various cloud service models, software as a service, or SaaS, platform as a service, or PaaS, infrastructure as a service, IaaS, and finally on-premises computing, or your own data center.
+> **[1:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=95)** [[Cloud Security]] responsibilities are shared across various cloud service models, [[SaaS|software as a service]], or [[SaaS]], [[PaaS|platform as a service]], or [[PaaS]], [[IaaS|infrastructure as a service]], [[IaaS]], and finally on-premises computing, or your own data center.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=112)** As we move from on-premises to IaaS and further up in the cloud model abstractions, we give up control of configuring and operating said services.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=145)** Therefore, I recommend you explicitly map out the shared responsibility of every cloud service you are using.
 >
-> **[2:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=152)** Here's an example using managed Kubernetes services, such as Amazon EKS, Azure AKS, or Google GKE.
+> **[2:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=152)** Here's an example using managed [[Kubernetes]] services, such as Amazon EKS, [[Microsoft Azure|Azure]] AKS, or [[Google]] GKE.
 >
 > **[2:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/shared-responsibility-model?u=76281980&t=161)** These services are partially managed by cloud vendors, but they are not provided as full platform as a service.
 >
@@ -294,23 +290,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Security]] (11), [[Kubernetes]] (5), business (2), teams (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Cloud Security]] (3), [[PaaS|Platform as a service]] (2), [[IaaS]] (2), [[Application Development]] (1)
 > **Env Vars:** csp (1), eks (1), aks (1), gke (1), api (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980)
+#### [Cloud security frameworks](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=0)** - To secure your cloud applications and infrastructure in a structured manner, you need a cloud security framework.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=0)** - To secure your cloud applications and infrastructure in a structured manner, you need a [[Cloud Security]] framework.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=8)** A cloud security framework consists of architectural design considerations, security policies and controls.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=15)** Your cloud security framework needs to be consistent with your existing security architecture.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=21)** Your cloud security framework is heavily influenced by your organization's cloud strategy and governance models.
+> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=21)** Your cloud security framework is heavily influenced by your organization's [[Cloud Strategy]] and governance models.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=28)** For example, if your cloud strategy is all about enabling innovation and faster time to market, your cloud security framework will need to enable that, and it has to work together with any external requirements, such as from customers or regulators.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=120)** While the CIS controls are a general set of recommended best practices, CIS benchmarks are hardening guidelines.
 >
-> **[2:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=127)** The CIS benchmarks for AWS Google Cloud or Microsoft Azure include recommendations on identity and access management, data security, logging, monitoring, and networking.
+> **[2:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=127)** The CIS benchmarks for AWS [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure]] include recommendations on identity and access management, [[Data Security]], logging, monitoring, and networking.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-frameworks?u=76281980&t=140)** As these are consensus built guidelines, you might find that some of the services you would like to secure are not covered.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), cloud (14), business (1), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (8), [[Cloud Strategy]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1), [[Data Security]] (1)
 > **Env Vars:** cis (5), aws (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** aws (1), find (1)
@@ -354,8 +349,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - to (1)
 
-#### Multicloud security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980)
+#### [Multicloud security architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=6)** Each cloud is different and some key security controls, such as IAM or networking, are implemented very differently across clouds.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=15)** So how do you make sure your cloud security framework is implemented consistently across each of the clouds you are using?
+> **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=15)** So how do you make sure your [[Cloud Security]] framework is implemented consistently across each of the clouds you are using?
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=23)** Every cloud implements the specifics of identity and access slightly differently.
 >
@@ -381,11 +375,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=70)** For cloud incident management, make sure your central incident management covers all your clouds, and not just from a passive log ingestion perspective, but also from the perspective of containment and investigation.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=85)** Infrastructure as code could be the technology that brings you the consistent implementation across clouds.
+> **[1:25](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=85)** [[Infrastructure as code (IaC)|Infrastructure as code]] could be the technology that brings you the consistent implementation across clouds.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=91)** The main approach stands true despite the actual APIs varying across clouds.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=97)** By standardizing on a multi-cloud infrastructure as code approach, such as Terraform or Pulumi, you can build consistent expertise across your organization and enforce secure patterns.
+> **[1:37](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=97)** By standardizing on a multi-[[Cloud Infrastructure]] as code approach, such as [[Terraform]] or Pulumi, you can build consistent expertise across your organization and enforce secure patterns.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=109)** Policy as code can be another technology that brings you the consistent implementation across clouds.
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=124)** Just like with infrastructure as code, the reality is still disconnected as the actual implementation requires you to be cloud specific instead of cloud agnostic.
 >
-> **[2:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=134)** The bright spot here is Kubernetes.
+> **[2:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=134)** The bright spot here is [[Kubernetes]].
 >
 > **[2:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/multicloud-security-architecture?u=76281980&t=137)** There are multiple tools providing consistent Kubernetes policy management specifically.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Security]] (3), management (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2), [[Cloud Security]] (1), [[Terraform]] (1)
 > **CLI Commands:** make (2), terraform (1)
 > **Analogies:** such as (2), just like (1)
 > **Warnings:** be careful (2)
@@ -416,12 +410,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud identity providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980)
+#### [Cloud identity providers](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=0)** - [Instructor] One of your core cloud security architecture component, or most impactful security controls is identity and access management.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=0)** - [Instructor] One of your core [[Cloud Security]] architecture component, or most impactful security controls is identity and access management.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=9)** Given the nature of public cloud spanning across various services, web portals and APIs, identity and access management is crucial in your cloud security journey.
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=64)** The main difference with the pre-cloud world is that the identities need to be accessed through the internet, not just within your corporate network.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=73)** In the on-premises world, you'll use technologies like Lightweight Directory Access Protocol, LDAP, or Active Directory, ad to store your identities.
+> **[1:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=73)** In the on-premises world, you'll use technologies like Lightweight Directory Access Protocol, LDAP, or [[Active Directory]], ad to store your identities.
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=83)** The major cloud providers have their native identity providers.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=129)** Some IDPs allow you to require MFA in a granular level, such as based on risk information or the type of application the identity is attempting to access.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=141)** Some Native Cloud identity providers include Azure Active Directory, Azure Active Directory Business to Consumer, Amazon Cognito, and Google Cloud Identity.
+> **[2:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=141)** Some Native Cloud identity providers include [[Microsoft Entra ID|Azure Active Directory]], Azure Active Directory Business to Consumer, Amazon Cognito, and [[Google Cloud Platform (GCP)|Google Cloud]] Identity.
 >
 > **[2:33](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980&t=153)** These identity providers allow you to authenticate to the cloud control plane as an administrator or to the cloud application as an end user or even both.
 >
@@ -469,15 +462,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Security]] (4), management (4), [[Active Directory]] (4), [[Microsoft Entra ID|Azure active directory]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Microsoft Entra ID|Azure active directory]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Security]] (1)
 > **Env Vars:** idp (3), mfa (2), ldap (1), sso (1), oidc (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control plane authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980)
+#### [Control plane authorization](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=12)** By control plane, I mean the cloud provider's management layer of access.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=17)** That is access to create, read, update, and delete cloud services.
+> **[0:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=17)** That is access to create, read, update, and delete [[Cloud Services]].
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=22)** Note that this includes access through both the command line interface and the web portal or console.
 >
@@ -515,9 +507,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=105)** In this scenario, I have a user called Alice who has the highest privileged access.
 >
-> **[1:50](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=110)** This will be owner in Azure or Google Cloud and root in AWS.
+> **[1:50](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=110)** This will be owner in [[Microsoft Azure|Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]] and root in AWS.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=114)** And on the right side I have a managed PostgreSQL database.
+> **[1:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=114)** And on the right side I have a managed [[PostgreSQL]] database.
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/control-plane-authorization?u=76281980&t=118)** Now, what if Alice would want to do something malicious, such as dropping the firewall rules from this database?
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), management (3), database (3), data (2), web (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[PostgreSQL]] (1)
 > **Analogies:** such as (3), similar to (1), for example (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** aws (1)
@@ -540,8 +532,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Data plane authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980)
+#### [Data plane authorization](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,11 +546,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=24)** In its simplest form, data plane authorization is about creating a link to a static file using a short-lived token.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=31)** At its most complex form, it's about managing a completely separate access control system within a Kubernetes cluster hosted in the cloud environment.
+> **[0:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=31)** At its most complex form, it's about managing a completely separate access control system within a [[Kubernetes]] cluster hosted in the cloud environment.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=40)** So data plane access control is about managing access within the workloads themselves.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=45)** If the control plane access was similar to having access to the physical data center, data plane access is similar to having access inside the virtual machines.
+> **[0:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=45)** If the control plane access was similar to having access to the physical data center, data plane access is similar to having access inside the [[Virtual Machines]].
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=56)** Let's look at the differences between control and data plane access control.
 >
@@ -567,25 +558,24 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=69)** Second, while control plane access is limited to identity principles, or authenticated using the cloud identity provider, data plane access control often circumvents this behavior.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=81)** Access might be granted using tokens, keys, connection strings, or even local users.
+> **[1:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=81)** Access might be granted using [[Tokens]], keys, connection strings, or even local users.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=88)** And third, control plane access control can cover a lot of ground using access policies that apply to all resources and users.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=96)** Data plane access control, however, can seldom be affected with broad access policies.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=102)** For example, databases might require role level access grants.
+> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=102)** For example, [[Databases]] might require role level access grants.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/data-plane-authorization?u=76281980&t=107)** Furthermore, control plane access control is suitable for role-based access control, while data plane access control can expand on that to attribute-based access control.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), cloud (4), database (1), [[Kubernetes]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Virtual Machines]] (1), [[Tokens]] (1), [[Databases]] (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud permission creep
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980)
+#### [Cloud permission creep](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +595,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=65)** AirIAM is an open source tool that scans your AWS environment, identifies any other provision or unused credentials, and recommends changes.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=75)** As it's a CLI tool, you can set it to run continuously and you can even use it to export your existing identity and access management into Terraform and move to identity and access management as code.
+> **[1:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=75)** As it's a [[CLI]] tool, you can set it to run continuously and you can even use it to export your existing identity and access management into [[Terraform]] and move to identity and access management as code.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=89)** To start, I'm going to scan my AWS account by running the airiam find_unused command.
 >
@@ -633,15 +623,15 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=180)** They're all brought together in the terraform state file.
 >
-> **[3:03](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=183)** I can store that state file in my version control, and manage any future changes to my cloud IAM from there.
+> **[3:03](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=183)** I can store that state file in my [[Version Control]], and manage any future changes to my cloud IAM from there.
 >
 > **[3:10](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=190)** The user's configuration file lists each AWS IAM user, the group memberships, and any IAM policies attached to them.
 >
-> **[3:19](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=199)** The rest of the configuration files follow the same pattern.
+> **[3:19](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-permission-creep?u=76281980&t=199)** The [[Representational State Transfer (REST)|rest]] of the configuration files follow the same pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), management (6), aws (4), [[Terraform]] (4), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[CLI]] (1), [[Version Control]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (4), aws (4), cli (1)
 > **CLI Commands:** aws (4), terraform (4)
 > **Code Identifiers:** find_unused (1)
@@ -649,14 +639,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Infrastructure Entitlement Management (CIEM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980)
+#### [Cloud Infrastructure Entitlement Management (CIEM)](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=0)** - [Instructor] Most cloud environments have hundreds of different roles and a growing number of unused machine identities spanning multiple systems from identity directories to managed Kubernetes services.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=0)** - [Instructor] Most cloud environments have hundreds of different roles and a growing number of unused machine identities spanning multiple systems from identity directories to managed [[Kubernetes]] services.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=14)** As cloud security tooling matures, a segment of tooling has emerged to manage cloud permission creep at scale, Cloud Infrastructure Entitlement Management, or CIEM for short, according to a 2023 state of cloud permissions risk report by Microsoft, a whopping 88% of permissions in the cloud are assigned to system identities, not humans.
+> **[0:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=14)** As [[Cloud Security]] tooling matures, a segment of tooling has emerged to manage cloud permission creep at scale, [[Cloud Infrastructure]] Entitlement Management, or CIEM for short, according to a 2023 state of cloud permissions risk report by [[Microsoft]], a whopping 88% of permissions in the cloud are assigned to system identities, not humans.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=39)** And these system identities are notoriously being left unused and unmanaged.
 >
@@ -672,24 +661,23 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=84)** Whether a standalone CIEM or one integrated in your existing suite of cloud security tools, most CIEM provide the following functionality, multi-cloud support, working across cloud service providers and identity providers, ability to continuously monitor and discover overprovisioned permissions and unused identities, ability to rightsize permissions and remove unused access, and ability to export reports for compliance and assessment purposes.
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=117)** Some of the most used CIEM tools include Entra Permissions Management, Prisma Cloud, and Tenable CIEM.
+> **[1:57](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=117)** Some of the most used CIEM tools include [[Microsoft Entra ID|Entra]] Permissions Management, Prisma Cloud, and Tenable CIEM.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-infrastructure-entitlement-management-ciem?u=76281980&t=126)** If you're already using a CIEM app from one of these vendors, it's a good idea to look at their CIEM offering and integrated with your cloud security architecture first.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Security]] (3), management (3), [[Kubernetes]] (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[Kubernetes]] (1), [[Cloud Infrastructure]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Env Vars:** ciem (9)
 > **Speakers:** - [instructor] (1)
 
-#### Zero Trust identity architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980)
+#### [Zero Trust identity architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=0)** - [Instructor] The concept of Zero Trust was introduced to our vocabulary well over a decade ago.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=6)** The motivation was to move away from the perimeter-based network security in favor of more granular access control to growing types of resources.
+> **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=6)** The motivation was to move away from the perimeter-based [[Network Security]] in favor of more granular access control to growing types of resources.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=16)** In a nutshell, Zero Trust is about assuming that your network perimeter is breached and adding controls accordingly.
 >
@@ -725,13 +713,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=137)** You should continuously validate that your users are authenticated, prompting for credentials or second or third factors of authentication if your risk information so requires.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=147)** Zero Trust networking also requires you to continuously assess and validate the security posture of those endpoints or cloud services from which the access is initiated.
+> **[2:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=147)** Zero Trust networking also requires you to continuously assess and validate the security posture of those endpoints or [[Cloud Services]] from which the access is initiated.
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=157)** And finally, Zero Trust relies heavily on network controls.
 >
 > **[2:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=162)** We'll talk more about this in another video.
 >
-> **[2:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=165)** As part of your cloud security architecture, you must consider the entire landscape of your access control across user identities, endpoints, and networks.
+> **[2:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=165)** As part of your [[Cloud Security]] architecture, you must consider the entire landscape of your access control across user identities, endpoints, and networks.
 >
 > **[2:55](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=175)** If your organization is following Zero Trust architecture, the effectiveness of your controls will be different from a perimeter-based approach.
 >
@@ -745,11 +733,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=215)** Identity-centric approach relies on integration with the identity provider and the applications used.
 >
-> **[3:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=221)** Often, an organization implements a cloud access security broker or CASB to provide a secure single sign-on and enforce security policies across Software as a Service applications.
+> **[3:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=221)** Often, an organization implements a cloud access security broker or CASB to provide a secure single sign-on and enforce security policies across [[SaaS|Software as a Service]] applications.
 >
 > **[3:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=234)** CASB solutions can also include detection of new unsanctioned applications.
 >
-> **[4:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=240)** More recently, CASB solutions have also extended the shadow IT detection capability to generative AI applications.
+> **[4:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=240)** More recently, CASB solutions have also extended the shadow IT detection capability to [[Generative AI]] applications.
 >
 > **[4:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-identity-architecture?u=76281980&t=249)** Endpoint-centric tooling typically filters all traffic from the endpoint through a secure web gateway or SWG.
 >
@@ -761,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), cloud (7), [[Network Security]] (2), application (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cloud Services]] (1), [[Cloud Security]] (1), [[SaaS|Software as a service]] (1), [[Generative AI]] (1)
 > **Env Vars:** casb (3), mfa (1), swg (1), sase (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -774,8 +762,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud security posture monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980)
+#### [Cloud security posture monitoring](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=15)** This could include closed-circuit TV feeds, physical access logs in and out of the data center building, heating, venting, and air conditioning systems.
 >
-> **[0:24](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=24)** These could also include health information about the hardware, operating systems, and applications.
+> **[0:24](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=24)** These could also include health information about the [[Hardware]], operating systems, and applications.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=30)** In the creating monitoring data from all these systems would be costly, but not impossible.
 >
@@ -807,19 +794,19 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=81)** This lets them provide you with anonymized security intelligence information, even when your environment is not yet being attacked.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=88)** All this makes monitoring cloud security a daunting task.
+> **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=88)** All this makes monitoring [[Cloud Security]] a daunting task.
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=92)** Let's look at how to structure this in a more approachable manner using cloud security posture management.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=98)** At its core, monitoring cloud security posture is about monitoring the residual risk in your cloud environment.
 >
-> **[1:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=105)** This includes workloads, such as containers or virtual machines, scanned against vulnerabilities.
+> **[1:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=105)** This includes workloads, such as containers or [[Virtual Machines]], scanned against vulnerabilities.
 >
 > **[1:51](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=111)** Cloud service misconfigurations.
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=113)** And finally, how the environment aligns with compliance frameworks and standards.
 >
-> **[1:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=119)** Cybersecurity and Infrastructure Security Agency, CISA, defines cloud security posture management in the following way.
+> **[1:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=119)** [[Cybersecurity]] and Infrastructure Security Agency, CISA, defines cloud security posture management in the following way.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=126)** Cloud security posture management is a continuous process of monitoring a cloud environment by identifying, alerting on, and mitigating cloud vulnerabilities.
 >
@@ -837,11 +824,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=165)** Drift is a negative change from the known good configuration.
 >
-> **[2:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=169)** Remember, you get to the known good configuration by shifting security left and ensuring your infrastructure as code deployments pass your security tests such infrastructure security, [[Static Application Security Testing]].
+> **[2:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=169)** Remember, you get to the known good configuration by shifting security left and ensuring your [[Infrastructure as code (IaC)|infrastructure as code]] deployments pass your security tests such infrastructure security, [[Static [[Application Security]] Testing]].
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=182)** And finally, CSPM can either automatically mitigate set drift by playbooks that you customize, or in case human intervention is needed, they can even integrate with your SIEM tools to create incidents.
 >
-> **[3:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=195)** Let's take a look at the AWS Security Hub, a native, or first-party, cloud security posture management tool.
+> **[3:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=195)** Let's take a look at the [[AWS Security]] Hub, a native, or first-party, cloud security posture management tool.
 >
 > **[3:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=202)** It collects data from various control plane sources and runs a security configuration scan across all my resources.
 >
@@ -885,7 +872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (27), cloud (22), data (6), aws (6), management (5)
+> **Frameworks & Libraries:** [[Cloud Security]] (9), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Hardware]] (1), [[Virtual Machines]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aws (6), cisa (1), freda (1), cspm (1), siem (1)
 > **CLI Commands:** aws (6), find (1)
 > **Definitions:** is a  (3), means that (1)
@@ -894,14 +881,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud-native application protection (CNAPP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980)
+#### [Cloud-native application protection (CNAPP)](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=0)** - [Instructor] One of the key decisions of your cloud security monitoring architecture is how you approach monitoring your application workloads.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=0)** - [Instructor] One of the key decisions of your [[Cloud Security]] monitoring architecture is how you approach monitoring your application workloads.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=9)** Cloud workloads are applications hosted in virtual machines or containers.
+> **[0:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=9)** Cloud workloads are applications hosted in [[Virtual Machines]] or containers.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=15)** Cloud security posture management tools are API based and are not sufficient to protect them as they rely on control plane access to your cloud environment.
 >
@@ -909,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=32)** This is often done by installing a monitoring agent into the workload.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=38)** The approach is why we have limited runtime visibility to most Platform as a Service or serverless workloads as they are often multi-tenant and don't allow installation of agents.
+> **[0:38](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=38)** The approach is why we have limited runtime visibility to most [[PaaS|Platform as a Service]] or serverless workloads as they are often multi-tenant and don't allow installation of agents.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=50)** Cloud workload monitoring and protection tools provide vulnerability management, anti-malware, and even benchmarks and workload hardening of our workloads.
 >
@@ -919,13 +905,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=81)** The downside of that approach is that they might not be built for the elastic and ephemeral nature of cloud workloads.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=88)** This means that a traditional agent-based monitoring tool might not react quickly enough to install an agent and provide security information from a container workload that is deleted mere minutes after it is created.
+> **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=88)** This means that a traditional agent-based monitoring tool might not [[React.js|react]] quickly enough to install an agent and provide security information from a container workload that is deleted mere minutes after it is created.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=101)** Here are some of the common tools in this space.
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=104)** First, we have the first-party tooling from the cloud providers themselves.
 >
-> **[1:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=108)** For example, Microsoft Defender, AWS GuardDuty, or Google Cloud Security Command Center.
+> **[1:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=108)** For example, [[Microsoft Defender]], AWS GuardDuty, or [[Google Cloud Platform (GCP)|Google Cloud]] Security Command Center.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=115)** The benefit here is that the tools are integrated natively with the cloud security posture management, so you get broad coverage and integration in the same package.
 >
@@ -935,11 +921,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=135)** And last, we have the so-called cloud native application protection platforms.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=141)** Cloud native application protection platforms provide end-to-end cloud application security.
+> **[2:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=141)** Cloud native application protection platforms provide end-to-end cloud [[Application Security]].
 >
 > **[2:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=146)** CNAPP solutions integrate previously siloed cloud security components into a single pane of glass, securing applications from code to cloud.
 >
-> **[2:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=156)** This includes Infrastructure as Code security scanning and drift detection, but also integration with other application security and DevOps tools.
+> **[2:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=156)** This includes [[Infrastructure as code (IaC)|Infrastructure as Code]] security scanning and drift detection, but also integration with other application security and [[DevOps Tools]].
 >
 > **[2:46](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=166)** CNAPP integrates workload and posture management, exposing attack paths across control and data panes.
 >
@@ -949,7 +935,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=189)** CNAPP vendors are generally twofold.
 >
-> **[3:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=192)** Some established first and third-party vendors, such as Microsoft and Palo Alto, offer all of the capabilities through the same contract.
+> **[3:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=192)** Some established first and third-party vendors, such as [[Microsoft]] and Palo Alto, offer all of the capabilities through the same contract.
 >
 > **[3:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-application-protection-cnapp?u=76281980&t=201)** And so-called cloud native vendors, such as Aqua, Lacework or [Wiz.io](https://Wiz.io), offer first-to-market individual services, but may lack critical integrations or enterprise readiness.
 >
@@ -957,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), [[Security]] (10), management (6), application (5), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Cloud Security]] (5), [[Virtual Machines]] (2), [[Application Security]] (2), [[PaaS|Platform as a service]] (1), [[React.js|React]] (1)
 > **Env Vars:** cnapp (5), api (1), aws (1)
 > **Analogies:** such as (3), just like (1), for example (1)
 > **CLI Commands:** aws (1)
@@ -966,12 +952,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud compliance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980)
+#### [Cloud compliance monitoring](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=0)** - [Narrator] Another core component of your cloud security architecture is the ability to prove that your security posture really implements the security controls required by your cloud security framework.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=0)** - [Narrator] Another core component of your [[Cloud Security]] architecture is the ability to prove that your security posture really implements the security controls required by your cloud security framework.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=12)** In your cloud security framework, you defined which security controls to implement in order to meet your compliance requirements.
 >
@@ -987,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=48)** While you can certainly do this manually using spreadsheets, using the right tools, you can also automate this and you should.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=56)** Cloud security posture management dashboards often include compliance against industry standard frameworks.
+> **[0:56](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=56)** Cloud security posture management [[Dashboards]] often include compliance against industry standard frameworks.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=62)** These can be also further customized to meet your compliance requirements out of the box.
 >
@@ -1005,15 +990,15 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=120)** You can use the native security policy engine to enforce controls in a software defined manner.
 >
-> **[2:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=127)** This is called compliance as code and brings with it a plethora of version control benefits.
+> **[2:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=127)** This is called compliance as code and brings with it a plethora of [[Version Control]] benefits.
 >
-> **[2:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=133)** This can be implemented using Azure policies, AWS service control policies, Google Cloud's organization policies or Kubernetes policies.
+> **[2:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=133)** This can be implemented using [[Microsoft Azure|Azure]] policies, AWS service control policies, [[Google Cloud Platform (GCP)|Google Cloud]]'s organization policies or [[Kubernetes]] policies.
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-compliance-monitoring?u=76281980&t=142)** It's up to you to draw the line between automatic remediation of misconfigurations and proactive enforcement of compliance using policy as code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Security]] (14), management (6), [[Dashboards]] (2), data (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (9), [[Dashboards]] (2), [[Version Control]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** means that (1), is called (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1021,8 +1006,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud-native incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980)
+#### [Cloud-native incident management](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,11 +1040,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=108)** In case an incident needs to be raised, you would send out alerts to your security incident and event management platform and initiate your playbook to contain the incident.
 >
-> **[1:58](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=118)** In the cloud containment phase, you start by activating your incident response roles.
+> **[1:58](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=118)** In the cloud containment phase, you start by activating your [[Incident Response]] roles.
 >
 > **[2:03](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=123)** From the operational perspective, you would next correlate logs from multiple sources to determine the extent of the incident.
 >
-> **[2:11](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=131)** You will then follow this by isolating the exposed workload such as by placing restrictive network security group rules and taking the virtual machine snapshots for analysis.
+> **[2:11](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=131)** You will then follow this by isolating the exposed workload such as by placing restrictive [[Network Security]] group rules and taking the virtual machine snapshots for analysis.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=140)** You might also restrict changes in the environment by setting in place organization level policies or resource logs.
 >
@@ -1072,7 +1056,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=166)** Finally, you will gather lessons learned and implement changes where necessary.
 >
-> **[2:51](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=171)** As part of our cloud security architecture, we need to make conscious choices on what do we log and how do we retain that information.
+> **[2:51](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=171)** As part of our [[Cloud Security]] architecture, we need to make conscious choices on what do we log and how do we retain that information.
 >
 > **[2:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=179)** With the sheer volume of signals, these choices can be complex.
 >
@@ -1086,24 +1070,23 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=212)** And finally, these new approaches need to be integrated with your tooling, whether it is privileged access management, threat detection, or security incident management.
 >
-> **[3:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=221)** This is also the perfect use case for applying artificial intelligence.
+> **[3:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-native-incident-management?u=76281980&t=221)** This is also the perfect use case for applying [[Artificial Intelligence (AI)|artificial intelligence]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), cloud (11), management (6), data (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Network Security]] (1), [[Cloud Security]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Logging and monitoring architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980)
+#### [Logging and monitoring architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=0)** - [Instructor] With the various logging and monitoring requirements comes a lot of complexity.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=5)** As part of your cloud security architecture, you will also need to consider the centralized logging architecture.
+> **[0:05](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=5)** As part of your [[Cloud Security]] architecture, you will also need to consider the centralized logging architecture.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=12)** There are a number of log store architecture properties that you need to consider.
 >
@@ -1131,7 +1114,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=96)** The cloud logs also need to be integrated with your cloud security posture management tools, or CSPM.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=102)** If you are using a cloud-native CSPM, such as Microsoft Defender, you will find that the native log store solutions, such as log analytics workspace, are integrated with the native CSPM solutions.
+> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=102)** If you are using a cloud-native CSPM, such as [[Microsoft Defender]], you will find that the native log store solutions, such as log analytics workspace, are integrated with the native CSPM solutions.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/logging-and-monitoring-architecture?u=76281980&t=115)** Both AWS and GCP also offer native integration across log stores and monitoring solutions.
 >
@@ -1157,20 +1140,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Security]] (7), data (5), management (4), application (3)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Microsoft Defender]] (1)
 > **Env Vars:** cspm (5), aws (1), gcp (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (2), aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud drift detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980)
+#### [Cloud drift detection](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=0)** - [Instructor] So you have defined and implemented security guardrails throughout your cloud, and deployed your applications using standardized infrastructure as code templates that have been reviewed from the security perspective.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=0)** - [Instructor] So you have defined and implemented security guardrails throughout your cloud, and deployed your applications using standardized [[Infrastructure as code (IaC)|infrastructure as code]] templates that have been reviewed from the security perspective.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=11)** Can you now rest assured that your apps stay secure?
+> **[0:11](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=11)** Can you now [[Representational State Transfer (REST)|rest]] assured that your apps stay secure?
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=16)** Unfortunately, no.
 >
@@ -1178,13 +1160,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=23)** This results in drift between the desired state defined in the infrastructure as code templates and reality.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=31)** Cloud configuration drift will at best cause gaps in your continuous monitoring and compliance.
+> **[0:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=31)** Cloud configuration drift will at best cause gaps in your [[Continuous Monitoring]] and compliance.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=36)** More worryingly, drift can erode your security posture and create new threats for your cloud environment.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=43)** Drift can even be a sign of an intrusion that is already taking place.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=48)** Your cloud security architecture should have controls in place to prevent, detect, and manage cloud configuration drift.
+> **[0:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=48)** Your [[Cloud Security]] architecture should have controls in place to prevent, detect, and manage cloud configuration drift.
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=57)** Ideally, you can manage configuration drift by implementing robust best practices of never deploying any changes through human interaction and enforcing infrastructure as code across your cloud estate.
 >
@@ -1204,9 +1186,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=121)** AWS implements drift detection natively against their cloud formation stacks.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=126)** Azure provides additional tooling for drift detection through policies and resource logs, and Google Cloud integrates GitHub's best practices with some specialized workloads, such as Vertex AI and Google Kubernetes Engine.
+> **[2:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=126)** [[Microsoft Azure|Azure]] provides additional tooling for drift detection through policies and resource logs, and [[Google Cloud Platform (GCP)|Google Cloud]] integrates [[GitHub]]'s best practices with some specialized workloads, such as [[Vertex]] AI and [[Google]] [[Kubernetes]] Engine.
 >
-> **[2:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=142)** Infrastructure as code providers, such as Terraform or Pulumi provide a multi-cloud functionality similar to AWS CloudFormation's Drift Detection, where they compare the deployed resources to the desired state in the infrastructure as code template, stored in a central source of truth.
+> **[2:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=142)** Infrastructure as code providers, such as [[Terraform]] or Pulumi provide a multi-cloud functionality similar to AWS CloudFormation's Drift Detection, where they compare the deployed resources to the desired state in the infrastructure as code template, stored in a central source of truth.
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=158)** And some cloud security vendors, such as Checkmarx, combine their infrastructure as code scanning capabilities with state comparison.
 >
@@ -1216,11 +1198,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=180)** Simply put, GitOps is a practice of making all changes to the live environment through a centrally-managed configuration repository.
 >
-> **[3:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=189)** In the Kubernetes space, the main tooling for implementing GitOps are Argo and Flux.
+> **[3:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-drift-detection?u=76281980&t=189)** In the Kubernetes space, the main tooling for implementing GitOps are Argo and [[Flux]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Infrastructure as code (IaC)|Infrastructure as code]] (6), [[Security]] (5), teams (3), [[Kubernetes]] (3)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (6), [[Kubernetes]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Cloud Security]] (2), [[Continuous Monitoring]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** aws (2), terraform (1), find (1)
 > **Env Vars:** aws (2)
@@ -1234,8 +1216,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IaaS network controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980)
+#### [IaaS network controls](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=30)** Your responsibility starts from Layer 3, which is the network layer.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=34)** When it comes to Infrastructure as a Service, you are responsible for IP addressing and routing.
+> **[0:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=34)** When it comes to [[IaaS|Infrastructure as a Service]], you are responsible for [[IP Addressing]] and [[Routing]].
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=41)** In an on-premises environment, you are responsible for protecting your data center network against Layer 2 attacks, such as port scanning and denial of service.
 >
@@ -1261,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=79)** All of the network resources that are available to us are software-defined.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=83)** This means that setting up a new network is a matter of deploying Infrastructure as Code.
+> **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=83)** This means that setting up a new network is a matter of deploying [[Infrastructure as code (IaC)|Infrastructure as Code]].
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=88)** Your existing change management processes might have to be revised to meet this new world.
 >
@@ -1291,7 +1272,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=172)** Enterprise virtual networks can be connected to each other to enable resources in virtual networks to communicate with each other.
 >
-> **[2:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=179)** You might choose to grant direct IAM access to your application development team to a subnet of a virtual network, which you have pre-configured.
+> **[2:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=179)** You might choose to grant direct IAM access to your [[Application Development]] team to a subnet of a virtual network, which you have pre-configured.
 >
 > **[3:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980&t=187)** That way, they can freely deploy new workloads there as long as they stay within the predefined size limits, and you will also stay in control of any external or cross-virtual network settings.
 >
@@ -1301,33 +1282,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[IaaS|Infrastructure as a service]] (2), management (2), teams (2), [[Application Development]] (2)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (2), [[Application Development]] (2), [[IP Addressing]] (1), [[Routing]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** iam (2), osi (1), csp (1)
 > **Definitions:** means that (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### PaaS network controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980)
+#### [PaaS network controls](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=0)** - [Instructor] Infrastructure and platform as a service networking share a number of common properties.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=0)** - [Instructor] Infrastructure and [[PaaS|platform as a service]] networking share a number of common properties.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=6)** They are both based on software defined networking on top of the same physical hardware, managed by the cloud service providers.
+> **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=6)** They are both based on software defined networking on top of the same physical [[Hardware]], managed by the cloud service providers.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=14)** However, platform as a service networking does not support the same familiar mental models as infrastructure, as a service networking.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=22)** While you can continue to work in infrastructure as a service, more or less the same way as you can on your own premise's networks, platform as a service networking might seem more limiting.
+> **[0:22](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/paas-network-controls?u=76281980&t=22)** While you can continue to work in [[IaaS|infrastructure as a service]], more or less the same way as you can on your own premise's networks, platform as a service networking might seem more limiting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (2), [[Hardware]] (1), cloud (1)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (2), [[Hardware]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero Trust cloud network security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980)
+#### [Zero Trust cloud network security architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,11 +1314,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=7)** This is where the Zero Trust network architecture reenters the stage.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=12)** As established when we discussed Zero Trust from the identity perspective, building a Zero Trust architecture is a continuous effort and it combines network, endpoint, and identity-based controls for a real-time risk evaluation.
+> **[0:12](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=12)** As established when we discussed Zero Trust from the identity perspective, building a Zero Trust architecture is a continuous effort and it combines network, endpoint, and identity-based controls for a [[Real-Time]] risk evaluation.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=26)** The software-defined approach facilities also noble approaches to network security processes, such as implementing firewall rule changes as pull requests to infrastructure as code templates instead of IT service management tickets.
+> **[0:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=26)** The software-defined approach facilities also noble approaches to [[Network Security]] processes, such as implementing firewall rule changes as pull requests to [[Infrastructure as code (IaC)|infrastructure as code]] templates instead of [[IT Service Management]] tickets.
 >
-> **[0:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=42)** You can approach cloud network security from a platform perspective or from the perspective of building network security controls into your infrastructure as code products.
+> **[0:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=42)** You can approach cloud network security from a platform perspective or from the perspective of building network security controls into your infrastructure as code [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=54)** The following principles help you set up your cloud network architecture in either case.
 >
@@ -1361,15 +1340,15 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=125)** Your workload choices may drive your choice of micro-segmentation tooling.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=129)** If you're mostly staying in infrastructure as a service, using a virtual network appliance of a next-generation firewall from the cloud provider's marketplace is likely a good choice.
+> **[2:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=129)** If you're mostly staying in [[IaaS|infrastructure as a service]], using a virtual network appliance of a next-generation firewall from the cloud provider's marketplace is likely a good choice.
 >
-> **[2:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=140)** If your workloads are mostly hosted in Kubernetes platforms, you will likely implement micro-segmentation using technologies, such as eBPF.
+> **[2:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=140)** If your workloads are mostly hosted in [[Kubernetes]] platforms, you will likely implement micro-segmentation using technologies, such as eBPF.
 >
 > **[2:29](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=149)** eBPF is a kernel-level network security and observability technology.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=154)** Popular eBPF network segmentation tools include Cilium and Calico.
 >
-> **[2:40](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=160)** For workloads across the hosting models, defining native virtual networks or virtual private clouds as infrastructure as code is the most all-encompassing solution.
+> **[2:40](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=160)** For workloads across the hosting models, defining native virtual networks or virtual [[Private Clouds]] as infrastructure as code is the most all-encompassing solution.
 >
 > **[2:50](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=170)** You will likely end up using a combination of all of these throughout your cloud journey.
 >
@@ -1377,15 +1356,15 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=183)** I recommend you look at this special publication and include the recommended changes in your journey towards Zero Trust.
 >
-> **[3:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=189)** Another excellent vendor-neutral resource for Zero Trust is the "Zero Trust Maturity Model" by the Cybersecurity and Infrastructure Security Agency.
+> **[3:09](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=189)** Another excellent vendor-neutral resource for Zero Trust is the "Zero Trust Maturity Model" by the [[Cybersecurity]] and Infrastructure Security Agency.
 >
 > **[3:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=198)** Their Maturity Model can be used to assess the existing environment or build a measurable roadmap towards Zero Trust architecture.
 >
-> **[3:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=206)** The Maturity Model extends our previous definition of Zero Trust being a combination of identity devices and networking by adding application and data security.
+> **[3:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/zero-trust-cloud-network-security-architecture?u=76281980&t=206)** The Maturity Model extends our previous definition of Zero Trust being a combination of identity devices and networking by adding application and [[Data Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Network Security]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[Security]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[Real-Time]] (1), [[IT Service Management]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ebpf (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1394,20 +1373,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing multicloud networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980)
+#### [Securing multicloud networks](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=0)** - [Instructor] Each cloud provider has their own networking stack, routing options, and security controls.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=0)** - [Instructor] Each cloud provider has their own networking stack, [[Routing]] options, and security controls.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=6)** When designing a multi-cloud network architecture, you should think of them as separate data centers with separate technologies.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=14)** Isolation across virtual networks is slightly different across AWS, Azure and GCP.
+> **[0:14](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=14)** Isolation across virtual networks is slightly different across AWS, [[Microsoft Azure|Azure]] and GCP.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=21)** Especially Platform as a Service networking behaves very differently.
+> **[0:21](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=21)** Especially [[PaaS|Platform as a Service]] networking behaves very differently.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=26)** The common denominator is the Infrastructure as a Service networking, which is what we are focusing on here.
+> **[0:26](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=26)** The common denominator is the [[IaaS|Infrastructure as a Service]] networking, which is what we are focusing on here.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=32)** On Infrastructure as a Service networking, you'll want to design a network architecture that is consistent across all your clouds and allows you to use the same network controls such as firewall appliances across your cloud estate.
 >
@@ -1423,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=91)** We typically implement this by using a private dedicated connection between our on-premises network and the cloud provider.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=99)** Think of it is as a list line or MPLS circuit.
+> **[1:39](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=99)** Think of it is as a list line or [[Multiprotocol Label Switching (MPLS)|MPLS]] circuit.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=102)** This traffic does not pass through the internet.
 >
@@ -1431,7 +1409,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=108)** In AWS, it's called Direct Connect.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=112)** And in Google Cloud, it's Interconnect.
+> **[1:52](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=112)** And in [[Google Cloud Platform (GCP)|Google Cloud]], it's Interconnect.
 >
 > **[1:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=114)** Typically, we implement this by extending our on-premises network to a co-location facility that has a direct connection to multiple cloud providers.
 >
@@ -1461,7 +1439,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=208)** For north-south traffic perspective, you should also consider traffic to and from the internet.
 >
-> **[3:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=214)** For northbound traffic from the cloud to the internet, you need to make a design choice of how do you interject your firewalls, intrusion detection and data loss prevention controls.
+> **[3:34](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=214)** For northbound traffic from the cloud to the internet, you need to make a design choice of how do you interject your firewalls, [[Intrusion Detection]] and data loss prevention controls.
 >
 > **[3:44](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/securing-multi-cloud-networks?u=76281980&t=224)** Will you exit from on-premises only or extend your controls from on-premises to the cloud too?
 >
@@ -1475,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), traffic (7), data (3), aws (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Microsoft Azure|Azure]] (2), [[IaaS|Infrastructure as a service]] (2), [[Routing]] (1), [[PaaS|Platform as a service]] (1)
 > **Env Vars:** aws (3), mpls (3), gcp (2), api (1), vpn (1)
 > **CLI Commands:** aws (3), make (1)
 > **Analogies:** such as (2), for example (1)
@@ -1489,12 +1467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effective communication of cloud security designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980)
+#### [Effective communication of cloud security designs](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=0)** - [Instructor] Communicating a cloud security architecture can make or break the program.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=0)** - [Instructor] Communicating a [[Cloud Security]] architecture can make or break the program.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=5)** Good documentation translates complex technical topics into broadly understandable artifacts, making sure implementation teams are aligned towards a common goal.
 >
@@ -1512,7 +1489,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=59)** If there are conflicts in the requirements, they can be laid out and addressed early on.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=66)** Let's take a look at this landing zone reference architecture design diagram from Google Cloud.
+> **[1:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=66)** Let's take a look at this landing zone reference architecture design diagram from [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=71)** A landing zone is a complicated concept.
 >
@@ -1520,11 +1497,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=80)** If you were to fit all those dimensions into the same diagram, you'll need virtual reality glasses to make heads or tails of it.
 >
-> **[1:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=87)** This diagram focuses on infrastructure as service workloads with hybrid cloud connectivity to the on-premises network and another public cloud.
+> **[1:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=87)** This diagram focuses on infrastructure as service workloads with [[Hybrid Cloud]] connectivity to the on-premises network and another public cloud.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=96)** By removing platform as a services from the picture, we drastically reduce the complexity of this diagram.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=102)** The diagram focuses on networking, but does not go into the details of address spaces routing or firewall rules.
+> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=102)** The diagram focuses on networking, but does not go into the details of address spaces [[Routing]] or firewall rules.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980&t=109)** The reader can focus on what's important, the big picture.
 >
@@ -1534,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Security]] (3), teams (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Hybrid Cloud]] (1), [[Routing]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpc (2), vvc (1)
 > **Analogies:** picture (2), such as (1)
@@ -1542,8 +1519,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tailoring technical communication for different stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/tailoring-technical-communication-for-different-stakeholders?u=76281980)
+#### [Tailoring technical communication for different stakeholders](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/tailoring-technical-communication-for-different-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1563,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), management (6), teams (4), [[Security]] (3), next (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1595,12 +1570,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting architectural decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980)
+#### [Documenting architectural decisions](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=0)** - [Instructor] As a cloud security architect, you'll likely be asked to prepare documentation to support architectural decisions.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=0)** - [Instructor] As a [[Cloud Security]] architect, you'll likely be asked to prepare documentation to support architectural decisions.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=7)** An architectural decision record is a key communication tool in cloud security programs.
 >
@@ -1638,9 +1612,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=110)** Will you extend your on-premises identity provider to the cloud?
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=114)** Will you choose Entra ID Okta, or another IDP for a cloud single sign-on?
+> **[1:54](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=114)** Will you choose [[Microsoft Entra ID|Entra ID]] Okta, or another IDP for a cloud single sign-on?
 >
-> **[2:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=120)** Will you use cloud native key management systems or will you bring an external hardware security module to encrypt data at rest?
+> **[2:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=120)** Will you use cloud native key management systems or will you bring an external [[Hardware]] security module to encrypt data at [[Representational State Transfer (REST)|rest]]?
 >
 > **[2:08](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/documenting-architectural-decisions?u=76281980&t=128)** How will your centralized logging architecture look like?
 >
@@ -1652,7 +1626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Security]] (6), business (1), [[Microsoft Entra ID|Entra id]] (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[Microsoft Entra ID|Entra id]] (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** adr (3), idp (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -1666,18 +1640,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about cloud security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980)
+#### [Learning more about cloud security architecture](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=0)** - Congratulations, you now have the tools to design a robust cloud security framework.
+> **[0:00](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=0)** - Congratulations, you now have the tools to design a robust [[Cloud Security]] framework.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=6)** You're now equipped to place the right security controls at the right time, in the right place, at the right cost.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=13)** You learned how to translate your risk appetite into a tangible cloud security architecture, and you also learned how the key security domains of identity, monitoring, and networking can be built in the cloud.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=27)** I highly recommend checking courses in the LinkedIn Learning Library on security implementation of specific clouds you are working with to complement this course.
+> **[0:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=27)** I highly recommend checking courses in the [[LinkedIn]] Learning Library on security implementation of specific clouds you are working with to complement this course.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=37)** Look at those courses to learn how to implement the security controls you'll learn to design in this course.
 >
@@ -1691,11 +1664,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=73)** Often these are correlated and cross-referenced to industry standards, making it easier for you to map them to your internal security requirements.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=83)** And finally, there are some great resources available by the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technologies.
+> **[1:23](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=83)** And finally, there are some great resources available by the [[Cybersecurity]] and Infrastructure Security Agency and the National Institute of Standards and Technologies.
 >
-> **[1:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=95)** CISA has published a reference architecture guide, which covers cloud governance, security architecture, and DevSecOps.
+> **[1:35](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=95)** CISA has published a reference architecture guide, which covers cloud governance, security architecture, and [[DevSecOps]].
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=102)** The publication provides prescriptive guidance on cloud platform controls and cloud security posture management, and NIST has published a special publication on the zero trust model for cloud native applications.
+> **[1:42](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=102)** The publication provides prescriptive guidance on cloud platform controls and cloud security posture management, and [[NIST]] has published a special publication on the zero trust model for cloud native applications.
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980&t=116)** I recommend you look at this special publication and include the recommended changes in your journey towards zero trust.
 >
@@ -1703,7 +1676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), cloud (11), [[LinkedIn]] (1), next (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (5), [[LinkedIn]] (1), [[Cybersecurity]] (1), [[DevSecOps]] (1), [[NIST]] (1)
 > **Env Vars:** samhsa (2), cisa (1), nist (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - congratulations (1)

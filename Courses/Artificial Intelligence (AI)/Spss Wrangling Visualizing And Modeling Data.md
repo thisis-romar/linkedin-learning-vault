@@ -120,8 +120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,12 +138,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (1)
 > **Env Vars:** spss (1), sbss (1)
 > **Speakers:** - [barton] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +157,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** spss (1)
 > **UI Navigation:** scroll down (1)
@@ -171,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SPSS in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980)
+#### [SPSS in context](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=11)** For over 35 years, they've kept track of their sales on yellow legal pads, and while writing things down is a great first step to tracking your data, you can do a lot more with your data once you get it into a computer.
 >
-> **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=24)** Now, for most people and most situations, that will mean a spreadsheet like Microsoft Excel or Google Sheets, and depending on your purposes, that may be all that you ever need.
+> **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=24)** Now, for most people and most situations, that will mean a spreadsheet like [[Microsoft Excel]] or [[Google]] Sheets, and depending on your purposes, that may be all that you ever need.
 >
 > **[0:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=36)** But there are some things that spreadsheets don't do very easily, like the analysis of variants, multiple regression or hierarchical clustering, and that's where statistical applications like SBSS come in.
 >
@@ -188,15 +183,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=54)** The name SBSS originally stood for a statistical package for the social sciences, and it was the name of both the program and the company that originally developed it before they sold it to IBM.
 >
-> **[1:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=65)** There was also a brief period in 2009 when SPSS was referred to as PASW for predictive analytics software, and I have seen people say that SPSS now stands for a statistical product and service solutions, but IBM just calls it SPSS.
+> **[1:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=65)** There was also a brief period in 2009 when SPSS was referred to as PASW for [[Predictive Analytics]] software, and I have seen people say that SPSS now stands for a statistical product and service solutions, but IBM just calls it SPSS.
 >
-> **[1:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=81)** More accurately. IBM calls it IBM SPS statistics because IBM has other data applications like IBM SPS modeler for data mining and text, IBM SPSS Amos for structural equation modeling, not to mention non SBSS apps like IBM Cognos Analytics for Business Intelligence, IBM, Watson Studio for AI and so on.
+> **[1:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=81)** More accurately. IBM calls it IBM SPS [[Statistics]] because IBM has other data applications like IBM SPS modeler for [[Data Mining]] and text, [[IBM SPSS]] Amos for structural equation modeling, not to mention non SBSS apps like IBM Cognos Analytics for [[Business Intelligence (BI)|Business Intelligence]], IBM, Watson Studio for AI and so on.
 >
 > **[1:46](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=106)** SBSS has long been a popular choice for data work in the social sciences and education and marketing, as well as fields like healthcare and finance and so on.
 >
 > **[1:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=117)** Other apps are also useful.
 >
-> **[1:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=119)** They can include SaaS and Minitab.
+> **[1:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=119)** They can include [[SaaS]] and Minitab.
 >
 > **[2:02](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=122)** They can include PSPP, which is a play on the name SPSS.
 >
@@ -208,7 +203,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=144)** Jamovi runs on R and I strongly recommend it as a way of bridging between the two.
 >
-> **[2:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=150)** Then there are languages like R and Python, which are used very often for data work.
+> **[2:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=150)** Then there are languages like R and [[Python (Programming Language)|Python]], which are used very often for data work.
 >
 > **[2:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980&t=157)** And of course, SaaS is both an app and a programming language.
 >
@@ -220,14 +215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Programming]] (3), [[SaaS]] (2), business (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Microsoft Excel]] (1), [[Google]] (1), [[Predictive Analytics]] (1), [[Statistics]] (1)
 > **Env Vars:** ibm (9), sbss (6), spss (6), sps (2), pasw (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), python (1)
 > **Speakers:** - [narrator] (1)
 
-#### Versions, releases, licenses, and interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980)
+#### [Versions, releases, licenses, and interfaces](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,17 +233,17 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=32)** First, versions.
 >
-> **[0:34](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=34)** Now, SPSS Version 1 came out in 1968, and then it was PASW from 2009 to 2010, and right now we have SPSS Statistics Version 30, which was released in 2024.
+> **[0:34](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=34)** Now, SPSS Version 1 came out in 1968, and then it was PASW from 2009 to 2010, and right now we have SPSS [[Statistics]] Version 30, which was released in 2024.
 >
 > **[0:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=49)** But there is also an SPSS Statistics subscription, which is sort of a version, free version.
 >
 > **[0:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=57)** In addition to that, there are different releases, different ways of leveling up what you're able to do.
 >
-> **[1:03](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=63)** There is the Base, which is adequate for many situations, but the Standard, which is different from Base, Standard adds logistic regression and invasion statistics.
+> **[1:03](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=63)** There is the Base, which is adequate for many situations, but the Standard, which is different from Base, Standard adds [[Logistic Regression]] and invasion statistics.
 >
-> **[1:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=75)** Professional adds automated data preparation, principal component analysis, decision trees.
+> **[1:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=75)** Professional adds automated [[Data Preparation]], principal component analysis, [[Decision Trees]].
 >
-> **[1:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=81)** And Premium has bootstrapping, some basic versions of neural networks, and Amos for structural equation modeling, and that's the version, Premium, that I'm using for this course, although I won't be using many of the advanced functions in this particular course.
+> **[1:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=81)** And Premium has bootstrapping, some basic versions of [[Neural Networks]], and Amos for structural equation modeling, and that's the version, Premium, that I'm using for this course, although I won't be using many of the advanced functions in this particular course.
 >
 > **[1:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/versions-releases-licenses-and-interfaces?u=76281980&t=96)** There are also add-ins for subscriptions, and there's a lot of other versions that you can use.
 >
@@ -283,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (2), [[Logistic Regression]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Logistic Regression]] (1), [[Data Preparation]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Env Vars:** spss (8), pasw (1), sps (1), ibm (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** version 1 (1), version 30 (1)
@@ -295,12 +289,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating SPSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980)
+#### [Navigating SPSS](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=0)** - [Narrator] When you first open SPSS, what you're going to see is this collection of windows.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=0)** - [Narrator] When you first open SPSS, what you're going to see is this collection of [[Windows]].
 >
 > **[0:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=5)** Here on the top, is the Welcome Dialogue.
 >
@@ -368,13 +361,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=179)** You can either click on Variable View, or if you simply come up to one of the variable names and double click on it, it'll take you to that same window.
 >
-> **[3:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=190)** What happens here is that the variables in SPSS, you have this metadata that describes things about the variables.
+> **[3:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=190)** What happens here is that the variables in SPSS, you have this [[Metadata]] that describes things about the variables.
 >
 > **[3:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=198)** It gives the short name of the variable, says whether it's numeric, and gives the width and the number of decimal places.
 >
 > **[3:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=204)** But you can also have something called Labels.
 >
-> **[3:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=207)** And so we have this short word, age, and in most languages that's going to be the name of your variable, but you can also tell SPSS that that means age in years.
+> **[3:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=207)** And so we have this short [[Microsoft Word|word]], age, and in most languages that's going to be the name of your variable, but you can also tell SPSS that that means age in years.
 >
 > **[3:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=217)** And then you can actually specify, separately from that, what the individual values in the variable mean.
 >
@@ -412,7 +405,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=322)** If you click on that, you can easily and quickly go back to the special commands that you have recently used.
 >
-> **[5:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=331)** Another one is this one right here, which says, Run Descriptive statistics, and has a Greek mu, which is used for the population mean.
+> **[5:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=331)** Another one is this one right here, which says, Run Descriptive [[Statistics]], and has a Greek mu, which is used for the population mean.
 >
 > **[5:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980&t=339)** If you have a variable selected like I do, I have carcat selected, you simply click on that and it opens up the output window.
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Windows]] (5), [[Statistics]] (4), [[Programming]] (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Statistics]] (4), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** spss (15), frequencies (1), variables (1)
 > **UI Navigation:** click on (10), go to (6), in the toolbar (1)
 > **CLI Commands:** make (7), find (1)
@@ -545,8 +538,7 @@ created: 2026-05-02
 > **Analogies:** for instance (3)
 > **Warnings:** be aware (1)
 
-#### Sample datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980)
+#### [Sample datasets](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,11 +560,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=51)** By the way, IBM has online descriptions of each of these.
 >
-> **[0:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=55)** Simply Google, just do a web search for IBM SPSS 30 sample files, and you'll find a description, a paragraph on each one of them.
+> **[0:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=55)** Simply [[Google]], just do a web search for [[IBM SPSS]] 30 sample files, and you'll find a description, a paragraph on each one of them.
 >
 > **[1:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=64)** Another way to get these open, by the way, is through your computer's file system.
 >
-> **[1:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=72)** On my Macintosh, I do that by going to the Finder and under applications, I go to IBM SPSS statistics to resources, to samples, and then I speak English.
+> **[1:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=72)** On my Macintosh, I do that by going to the Finder and under applications, I go to IBM SPSS [[Statistics]] to resources, to samples, and then I speak English.
 >
 > **[1:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/sample-datasets?u=76281980&t=87)** And then we have a complete set of the sample files listed right here.
 >
@@ -586,14 +578,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[IBM SPSS]] (2), [[Google]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (2), [[Google]] (1), [[Statistics]] (1)
 > **Env Vars:** spss (5), ibm (3), sbss (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [speaker] (1)
 
-#### Data types, measures, and roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/data-types-measures-and-roles?u=76281980)
+#### [Data types, measures, and roles](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/data-types-measures-and-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +666,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), [[Programming]] (1)
 > **Env Vars:** spss (6), adl (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (3)
@@ -684,8 +674,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Options and preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980)
+#### [Options and preferences](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=7)** The way you're going to choose most of those is with the Settings or the Options dialogues.
 >
-> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=12)** Let's go to Settings on a Mac, Options on a Windows PC.
+> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=12)** Let's go to Settings on a Mac, Options on a [[Windows]] PC.
 >
 > **[0:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=17)** And let's open that up, and I'm going to make that one full screen.
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=116)** You can do whatever you want for this one.
 >
-> **[1:58](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=118)** Pivot Tables, you have different ways of setting these up, the format here.
+> **[1:58](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=118)** [[Pivot Tables]], you have different ways of setting these up, the format here.
 >
 > **[2:03](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=123)** Again, you'll see that we do have a couple of APA settings, and they'll help you get started in how you do things, but I'm going to leave it at the default.
 >
@@ -741,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=136)** Scripts, I don't deal with these.
 >
-> **[2:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=138)** If you're working extensively with Python or R in them, you may need to do something here, but usually I would just go work in Python or R instead, so I don't worry about them.
+> **[2:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=138)** If you're working extensively with [[Python (Programming Language)|Python]] or R in them, you may need to do something here, but usually I would just go work in Python or R instead, so I don't worry about them.
 >
 > **[2:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=148)** Multiple imputations is a really powerful way of dealing with missing data, but that's way beyond the scope of this course, so we're not going to worry about that.
 >
@@ -749,11 +738,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=160)** Probably the only thing here that really matters is automatically displaying the auto-complete control, I believe it's checked by default, and the number of spaces in your indents.
 >
-> **[2:51](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=171)** And then finally, Privacy, which I leave at the default, but these are going to be some of the options that you have for setting up how you engage with SPSS, and making some of the work with the output, especially tables and graphs, a little easier for your specific purposes.
+> **[2:51](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/options-and-preferences?u=76281980&t=171)** And then finally, [[Privacy]], which I leave at the default, but these are going to be some of the options that you have for setting up how you engage with SPSS, and making some of the work with the output, especially tables and graphs, a little easier for your specific purposes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Pivot Tables]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Pivot Tables]] (1), [[Privacy]] (1)
 > **Env Vars:** apa (3), spss (2)
 > **CLI Commands:** python (2), make (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -761,8 +750,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending SPSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980)
+#### [Extending SPSS](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,9 +760,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=15)** If we go to the SPSS website at [ibm.com](https://ibm.com) and you scroll down, you'll be able to see that there are many different versions of SPSS with different functionalities.
 >
-> **[0:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=27)** So for instance, you have a base subscription, and then you can add on tables and statistics, like general linear models and mixed models.
+> **[0:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=27)** So for instance, you have a base subscription, and then you can add on tables and [[Statistics]], like general linear models and mixed models.
 >
-> **[0:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=35)** You can add on forecasting and decision trees, Lasso, regression, Elastic Net.
+> **[0:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=35)** You can add on [[Forecasting]] and [[Decision Trees]], Lasso, regression, Elastic Net.
 >
 > **[0:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=40)** You can add on sampling into ARIMA models.
 >
@@ -790,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=74)** That's great.
 >
-> **[1:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=76)** I also have a couple different versions of neural networks, and I'm going to demonstrate these in this course, but I understand that depending on your version, you may or may not have these available, at least not right away.
+> **[1:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=76)** I also have a couple different versions of [[Neural Networks]], and I'm going to demonstrate these in this course, but I understand that depending on your version, you may or may not have these available, at least not right away.
 >
 > **[1:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=87)** But in addition to these procedures, some of these add-ons or extensions take existing procedures and give you extra functionality.
 >
@@ -812,7 +800,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=141)** And what that does is it brings up a dialog where you can see some of the options that are available in terms of ones I already have installed.
 >
-> **[2:29](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=149)** So for instance, I have Python installed in my version of SPSS.
+> **[2:29](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=149)** So for instance, I have [[Python (Programming Language)|Python]] installed in my version of SPSS.
 >
 > **[2:34](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/extending-spss?u=76281980&t=154)** I won't be using it in this course, but it's available.
 >
@@ -854,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), [[Statistics]] (1), [[Forecasting]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Statistics]] (1), [[Forecasting]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **Env Vars:** spss (12), sbss (3), arima (1)
 > **UI Navigation:** go to (5), click on (2), scroll down (1)
 > **Analogies:** for instance (6)
@@ -863,8 +851,7 @@ created: 2026-05-02
 > **CLI Commands:** python (2)
 > **Versions:** version 24 (1)
 
-#### Saving and running syntax files
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980)
+#### [Saving and running syntax files](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,7 +941,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Programming]] (2), data (2), [[Scripting]] (1)
 > **Env Vars:** spss (2), graph (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -963,8 +949,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The SPSS workbook interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/the-spss-workbook-interface?u=76281980)
+#### [The SPSS workbook interface](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/the-spss-workbook-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1045,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), next (1)
 > **Env Vars:** spss (6)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -1072,8 +1056,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing data with Chart Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-chart-builder?u=76281980)
+#### [Visualizing data with Chart Builder](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-chart-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,7 +1156,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (2)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** spss (4)
 > **CLI Commands:** make (2), find (1)
@@ -1182,8 +1164,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying Chart Builder visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-chart-builder-visualizations?u=76281980)
+#### [Modifying Chart Builder visualizations](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-chart-builder-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1302,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (3)
 > **UI Navigation:** click on (5), go to (3)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (4)
@@ -1329,9 +1309,9 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** for instance (1)
 > **Warnings:** watch out (1)
+> **Speakers:** - [instructor] (1)
 
-#### Visualizing data with Graphboard templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-graphboard-templates?u=76281980)
+#### [Visualizing data with Graphboard templates](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-graphboard-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1415,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (1)
 > **Env Vars:** spss (4)
 > **UI Navigation:** click on (1), go to (1), double-click (1)
 > **Exercise Files:** template (3)
@@ -1443,9 +1422,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for instance (1)
+> **Speakers:** - [instructor] (1)
 
-#### Modifying Graphboard visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980)
+#### [Modifying Graphboard visualizations](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,7 +1516,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980&t=202)** And in fact, we have a normal distribution overlaid over this, and you can see we're not too far off from a normal distribution.
 >
-> **[3:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980&t=211)** That's good because most of the statistics that we would use, things like means and standard deviations and correlations and regressions, work best, work as advertised when you have normally distributed data.
+> **[3:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980&t=211)** That's good because most of the [[Statistics]] that we would use, things like means and standard deviations and correlations and regressions, work best, work as advertised when you have normally distributed data.
 >
 > **[3:43](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/modifying-graphboard-visualizations?u=76281980&t=223)** So you want to take something that has a strong positive skew, like this income, and make it clear that you're dealing with a logarithm so you can get it closer to the normal distribution.
 >
@@ -1583,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), for example (1)
@@ -1592,8 +1571,7 @@ created: 2026-05-02
 > **Env Vars:** spss (1)
 > **Cross-References:** go back to (1)
 
-#### Using legacy dialogs: Boxplots for multiple variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/using-legacy-dialogs-boxplots-for-multiple-variables?u=76281980)
+#### [Using legacy dialogs: Boxplots for multiple variables](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/using-legacy-dialogs-boxplots-for-multiple-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,15 +1665,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), hit (2)
 > **Env Vars:** spss (3)
 > **Versions:** version 29 (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating regression variable plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-regression-variable-plots?u=76281980)
+#### [Creating regression variable plots](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-regression-variable-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1765,7 +1741,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **Definitions:** is a  (1), defined as (1), is an  (1)
 > **Env Vars:** spss (2)
 > **CLI Commands:** make (1)
@@ -1773,8 +1748,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-subgroups?u=76281980)
+#### [Comparing subgroups](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1846,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is an  (4), is a  (2), defined as (1)
 > **Env Vars:** spss (3)
 > **UI Navigation:** go to (3)
@@ -1884,8 +1857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980)
+#### [Importing data](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1899,11 +1871,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=25)** Let me show you what those look like.
 >
-> **[0:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=26)** I have a data set called State Trends and I've saved it as both A CSV file that is for comma separated values, and it's a generic single-tab spreadsheet format, and I also have it as an Excel file with several other tabs.
+> **[0:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=26)** I have a data set called State Trends and I've saved it as both A CSV file that is for comma separated values, and it's a generic single-tab spreadsheet format, and I also have it as an [[Microsoft Excel|Excel]] file with several other tabs.
 >
 > **[0:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=42)** Now, I also have, in addition to that a text file.
 >
-> **[0:46](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=46)** Let me zoom in on that for a moment.
+> **[0:46](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=46)** Let me [[Zoom]] in on that for a moment.
 >
 > **[0:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=48)** That explains the data set, what the things are, where they came from.
 >
@@ -1927,7 +1899,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=110)** It has some interesting information about psychological characteristics for each of the states.
 >
-> **[1:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=116)** And it has Google trends search data.
+> **[1:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=116)** And it has [[Google]] trends search data.
 >
 > **[1:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=119)** Then it has information about whether they have professional sports teams at the highest level or whether they have any kind of those teams.
 >
@@ -1935,7 +1907,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=135)** I have another tab that explains the label.
 >
-> **[2:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=137)** So you know that gt, google trends, 01 is a search for data science as a term.
+> **[2:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=137)** So you know that gt, google trends, 01 is a search for [[Data Science]] as a term.
 >
 > **[2:25](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980&t=145)** It also tells you that when we get to the psychological regions, one is friendly and conventional.
 >
@@ -2047,7 +2019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (8), hit (4), [[Search]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Google]] (2), [[Zoom]] (1), [[Data Science]] (1)
 > **Env Vars:** spss (7), csv (7)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (1)
@@ -2056,8 +2028,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variable labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980)
+#### [Variable labels](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2107,7 +2078,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=131)** And then, in quotes, I'm putting a revised name.
 >
-> **[2:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=135)** Now, this one is just the same word but with capitalization.
+> **[2:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=135)** Now, this one is just the same [[Microsoft Word|word]] but with capitalization.
 >
 > **[2:19](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=139)** But if you come down, you see that sq_miles becomes Square Miles.
 >
@@ -2119,9 +2090,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=150)** These are the big five personality characteristics, and researchers came up with values of each of these five dimensions, that's extraversion, agreeableness, conscientiousness, neuroticism, and openness, for the 48 Continental United States based on social media posts.
 >
-> **[2:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=170)** And then we have the Google Trends.
+> **[2:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=170)** And then we have the [[Google]] Trends.
 >
-> **[2:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=172)** So you can see that gt01 is Google Trends data for the term Data Science, and that gt15 down here is how often people search for a hockey in a particular state.
+> **[2:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=172)** So you can see that gt01 is Google Trends data for the term [[Data Science]], and that gt15 down here is how often people search for a hockey in a particular state.
 >
 > **[3:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=185)** So these are going to make the data much more interpretable.
 >
@@ -2161,7 +2132,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=262)** So this is one step towards making our dataset easier to work with.
 >
-> **[4:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=267)** And when we do the commands to say, for instance, do descriptive statistics or make a graph, it'll show us those labels that we just gave.
+> **[4:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=267)** And when we do the commands to say, for instance, do descriptive [[Statistics]] or make a graph, it'll show us those labels that we just gave.
 >
 > **[4:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=275)** In the next video, I'm going to show you how we can tell SPSS what each of these numbers in the dataset, the values, mean.
 >
@@ -2169,7 +2140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Google]] (2), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Word|Word]] (1), [[Data Science]] (1), [[Statistics]] (1)
 > **Env Vars:** spss (9)
 > **Cross-References:** go back to (3), in the next (1)
 > **CLI Commands:** make (2)
@@ -2178,8 +2149,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 
-#### Value labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980)
+#### [Value labels](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,7 +2217,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=168)** Then we go to the second one, psych_region, and then I say 1, and then in quotes, "Friendly and Conventional."
 >
-> **[2:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=175)** As soon as I get through those, I have the backslash, psych reg, I've got the 3 and a backslash, and then this is where I'm able to specify more than one by using the first variable in a set of variables that are adjacent to each other, then writing the word TO to this one, and all of those use 0 is no, 1 is yes.
+> **[2:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=175)** As soon as I get through those, I have the backslash, psych reg, I've got the 3 and a backslash, and then this is where I'm able to specify more than one by using the first variable in a set of variables that are adjacent to each other, then writing the [[Microsoft Word|word]] TO to this one, and all of those use 0 is no, 1 is yes.
 >
 > **[3:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=197)** And I finish with a period. So this is a single sentence.
 >
@@ -2291,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** spss (3), b5_1 (1), value (1), labels (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** for instance (2), for example (1)
@@ -2300,8 +2270,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Code Identifiers:** psych_region (1)
 
-#### Splitting files
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980)
+#### [Splitting files](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,7 +2332,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980&t=256)** And so theoretically, you could use this to see if there are different patterns.
 >
-> **[4:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980&t=260)** Now, an easier way to see the differences between the states might be with a table of descriptive statistics.
+> **[4:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980&t=260)** Now, an easier way to see the differences between the states might be with a table of descriptive [[Statistics]].
 >
 > **[4:27](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/splitting-files?u=76281980&t=267)** So in the syntax, for instance, I have us doing descriptive statistics of the five variables.
 >
@@ -2409,7 +2378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (6), [[Statistics]] (5), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (5)
 > **Env Vars:** spss (2), split (2), file (2), layered (2), separate (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2418,12 +2387,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Code Identifiers:** psych_region (1)
 
-#### Selecting cases and subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980)
+#### [Selecting cases and subgroups](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=0)** - [Instructor] The last thing I want to demonstrate in terms of data wrangling is how to select a group of cases.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=0)** - [Instructor] The last thing I want to demonstrate in terms of [[Data Wrangling]] is how to select a group of cases.
 >
 > **[0:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=5)** This can be either one level of an existing category or some other combination of scores that you used to pick the cases that matter the most to you.
 >
@@ -2435,7 +2403,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=33)** Let's start by looking at our data set.
 >
-> **[0:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=36)** So here we are in the state data set and we've got our states and we've got a bunch of information about them including their psychological profiles and some Google search terms.
+> **[0:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=36)** So here we are in the state data set and we've got our states and we've got a bunch of information about them including their psychological profiles and some [[Google]] search terms.
 >
 > **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=47)** If I turn on the labels, it'll be easier to see what we're dealing with.
 >
@@ -2451,7 +2419,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=70)** And you see them all listed here.
 >
-> **[1:13](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=73)** I don't really need all of these statistics, but this is the easiest way to get the list.
+> **[1:13](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=73)** I don't really need all of these [[Statistics]], but this is the easiest way to get the list.
 >
 > **[1:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=77)** Now let's start looking at subgroups of the states.
 >
@@ -2561,7 +2529,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=331)** I'm going to show you in the syntax what I selected.
 >
-> **[5:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=336)** Let's go back to syntax just for a moment, and let's come down here and select the state where business intelligence is greater than 50 and conscientiousness is greater than 50.
+> **[5:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=336)** Let's go back to syntax just for a moment, and let's come down here and select the state where [[Business Intelligence (BI)|business intelligence]] is greater than 50 and conscientiousness is greater than 50.
 >
 > **[5:46](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/selecting-cases-and-subgroups?u=76281980&t=346)** I happen to know that's close to the midpoint for those two variables.
 >
@@ -2655,7 +2623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), hit (13), [[Business Intelligence (BI)|Business intelligence]] (5), [[Google]] (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (5), [[Google]] (3), [[Data Wrangling]] (1), [[Statistics]] (1)
 > **UI Navigation:** go to (8), click on (7), dropdown (3), select the (2)
 > **Cross-References:** go back to (7)
 > **Env Vars:** sbss (2), spss (1)
@@ -2669,8 +2637,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recoding variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980)
+#### [Recoding variables](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2698,7 +2665,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980&t=83)** And the way we're going to do this is with syntax.
 >
-> **[1:25](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980&t=85)** Now, SPSS has really great built-in menus for doing data manipulation.
+> **[1:25](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980&t=85)** Now, SPSS has really great built-in menus for doing [[Data Manipulation]].
 >
 > **[1:32](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980&t=92)** I can show you right here, they're under transform.
 >
@@ -2898,7 +2865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), hit (3), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1)
 > **Env Vars:** spss (4), recode (3), execute (3), compute (2), labels (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (3), dropdown (1)
@@ -2907,8 +2874,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reversing values with syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reversing-values-with-syntax?u=76281980)
+#### [Reversing values with syntax](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reversing-values-with-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3006,7 +2972,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** spss (2)
 > **Definitions:** is a  (2)
@@ -3015,8 +2980,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recoding by ranking cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980)
+#### [Recoding by ranking cases](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3028,9 +2992,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=24)** And so you need to both be aware that they're there and have some way of dealing with them, and ranking, which is very easy to do in SPSS, is one way to deal with that.
 >
-> **[0:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=35)** I want to start by looking at some of the Google Trends search terms that we have.
+> **[0:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=35)** I want to start by looking at some of the [[Google]] Trends search terms that we have.
 >
-> **[0:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=40)** Now, right here it just says gt01, but that's for data science, gt02 is for artificial intelligence and so on.
+> **[0:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=40)** Now, right here it just says gt01, but that's for [[Data Science]], gt02 is for [[Artificial Intelligence (AI)|artificial intelligence]] and so on.
 >
 > **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=47)** Let's take a look at these 15 terms to see if we have outliers in the data.
 >
@@ -3124,7 +3088,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=294)** Now, I showed you how to create a histogram.
 >
-> **[4:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=297)** I'm going to do the rest of these with syntax.
+> **[4:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=297)** I'm going to do the [[Representational State Transfer (REST)|rest]] of these with syntax.
 >
 > **[4:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-by-ranking-cases?u=76281980&t=299)** And if you open up the syntax for this demonstration, what you're going to see is, first off, we have the command that creates the side-by-side boxplots and then a little bit of comment about hockey.
 >
@@ -3202,7 +3166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (6), hit (6), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Data Science]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2), select the (1), dropdown (1), scroll up (1)
 > **Env Vars:** spss (4)
@@ -3211,8 +3175,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 
-#### Creating dummy variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980)
+#### [Creating dummy variables](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3238,7 +3201,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980&t=105)** Now, one thing I want to point out is this thing right down here.
 >
-> **[1:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980&t=109)** This dialogue requires the Python Essentials, so this is actually an example of Python extending its functionality by relying on a programming language, in this case, Python.
+> **[1:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980&t=109)** This dialogue requires the [[Python (Programming Language)|Python]] Essentials, so this is actually an example of Python extending its functionality by relying on a programming language, in this case, Python.
 >
 > **[2:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/creating-dummy-variables?u=76281980&t=121)** So depending on whether you have Python installed, you may or may not be able to do this particular dialogue, but don't worry, this is just one way of doing things, and I'll show you another in a minute.
 >
@@ -3308,7 +3271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), hit (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **Env Vars:** spss (5), compute (3), psy (1)
 > **Code Identifiers:** psy_reg (6), psy_region (1)
 > **Definitions:** is a  (6), refers to (1)
@@ -3317,12 +3280,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Recoding with visual binning
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980)
+#### [Recoding with visual binning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=0)** - [Instructor] There's a school of thought in statistical data analysis that says you should never lose information in your variables.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=0)** - [Instructor] There's a school of thought in [[Statistical Data Analysis]] that says you should never lose information in your variables.
 >
 > **[0:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=7)** Now, that may seem like an obvious thing, but what we're talking about here, for instance, is levels of measurement.
 >
@@ -3350,7 +3312,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=104)** I'm going to use just one that I happen to know from our earlier analyses is really skewed.
 >
-> **[1:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=109)** And this is searches for hockey on Google Trends, where most of the states have very low scores and then we have some really dramatic high outliers.
+> **[1:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=109)** And this is searches for hockey on [[Google]] Trends, where most of the states have very low scores and then we have some really dramatic high outliers.
 >
 > **[1:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-visual-binning?u=76281980&t=119)** I'm going to hit Continue.
 >
@@ -3570,7 +3532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), hit (10), [[Google]] (6), [[Search]] (3), [[Statistical Data Analysis]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Statistical Data Analysis]] (1)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** click on (5), go to (3)
 > **Analogies:** for instance (3), for example (1)
@@ -3579,8 +3541,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Best Practices:** you should never (1)
 
-#### Recoding with optimal binning
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980)
+#### [Recoding with optimal binning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3612,7 +3573,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=91)** And then in terms of the variables I want to bin, it would be easy to pick these ones about the five personalities, but those go into Psych Region.
 >
-> **[1:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=100)** So I'm actually going to ignore those and go to the Google Trends variables.
+> **[1:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=100)** So I'm actually going to ignore those and go to the [[Google]] Trends variables.
 >
 > **[1:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=104)** We have 15 Google Trends search terms, and let's see if any of those are associated with Psych Region.
 >
@@ -3620,7 +3581,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=113)** Now, before I go ahead and do this, I want to show you what some of the options are.
 >
-> **[1:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=117)** Here up at Output, we can ask it to display the endpoint and we can get descriptive statistics and something called model entropy, which is useful for some other advanced procedures.
+> **[1:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=117)** Here up at Output, we can ask it to display the endpoint and we can get descriptive [[Statistics]] and something called model entropy, which is useful for some other advanced procedures.
 >
 > **[2:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=128)** You can save variables that have these splits in them.
 >
@@ -3646,7 +3607,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=185)** And in fact, it only found four variables.
 >
-> **[3:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=188)** The one on artificial intelligence, and what you can see here is that it proposes a split of two bins at the limit of 31.
+> **[3:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=188)** The one on [[Artificial Intelligence (AI)|artificial intelligence]], and what you can see here is that it proposes a split of two bins at the limit of 31.
 >
 > **[3:19](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-with-optimal-binning?u=76281980&t=199)** So if a state has below 31, it wants to put it into bin one.
 >
@@ -3736,7 +3697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Google]] (5), [[Search]] (5), [[Statistics]] (4), hit (3)
+> **Frameworks & Libraries:** [[Google]] (5), [[Statistics]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **Env Vars:** spss (3), gt07 (1)
 > **CLI Commands:** find (2), make (1)
@@ -3745,8 +3706,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing data for modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980)
+#### [Preparing data for modeling](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3756,7 +3716,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=16)** There's a rule of thumb in the data world that 80% of any project's time is spent simply preparing the data.
 >
-> **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=24)** And one of the interesting developments in SPSS over the last few versions, over the last few years, is the ability to automate some aspects of the data preparation process.
+> **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=24)** And one of the interesting developments in SPSS over the last few versions, over the last few years, is the ability to automate some aspects of the [[Data Preparation]] process.
 >
 > **[0:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=36)** Now again, it's going to depend on exactly which version and addition of SPSS you have, but I want to show you some of the things that the application is able to do to help speed up the data preparation process.
 >
@@ -3776,7 +3736,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=98)** It's asking about the relative importance of speed and accuracy.
 >
-> **[1:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=102)** Now, if you had a really big data set, thousands or millions of cases, speed's going to be really important.
+> **[1:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=102)** Now, if you had a really [[Big Data]] set, thousands or millions of cases, speed's going to be really important.
 >
 > **[1:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=108)** Accuracy if you have, say for instance, medical research where being accurate, not having false positives and false negatives is critical.
 >
@@ -3808,7 +3768,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=169)** Psy region is just a short version of psychological region, so I'm not going to do that.
 >
-> **[2:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=173)** And then I'll take all the rest of these extraversion all the way through, whether that state has any major professional sports team.
+> **[2:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=173)** And then I'll take all the [[Representational State Transfer (REST)|rest]] of these extraversion all the way through, whether that state has any major professional sports team.
 >
 > **[3:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=181)** Put those over there.
 >
@@ -3826,7 +3786,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=214)** Again, this is where you're dealing with the number of values and the variables.
 >
-> **[3:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=219)** Improve data quality.
+> **[3:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=219)** Improve [[Data Quality]].
 >
 > **[3:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=220)** Well, that's a beautiful idea, but what it means here is, for instance, replacing outliers with a non outlying value.
 >
@@ -3850,7 +3810,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=266)** We have a few different scales in our dataset.
 >
-> **[4:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=270)** The Google Trends data is measured on a zero to 100 data, but the personality variables are measured on T scores with a mean of 15, a standard deviation of 10.
+> **[4:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=270)** The [[Google]] Trends data is measured on a zero to 100 data, but the personality variables are measured on T scores with a mean of 15, a standard deviation of 10.
 >
 > **[4:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/preparing-data-for-modeling?u=76281980&t=278)** So if those are different.
 >
@@ -3934,7 +3894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Google]] (2), power (2), application (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (3), [[Google]] (2), [[Big Data]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Quality]] (1)
 > **Env Vars:** spss (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -3943,12 +3903,11 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-scores?u=76281980)
+#### [Computing scores](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-scores?u=76281980&t=0)** - [Instructor] A final bit of data wrangling I want to show it to you, is how to compute scores either by averaging or by counting variables.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-scores?u=76281980&t=0)** - [Instructor] A final bit of [[Data Wrangling]] I want to show it to you, is how to compute scores either by averaging or by counting variables.
 >
 > **[0:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-scores?u=76281980&t=8)** Now, there's a few reasons for doing this.
 >
@@ -4054,7 +4013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
@@ -4068,8 +4027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing frequencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
+#### [Computing frequencies](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4083,7 +4041,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=26)** One is with the dropdown minutes.
 >
-> **[0:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=28)** Let's go to analyze and then descriptive statistics.
+> **[0:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=28)** Let's go to analyze and then descriptive [[Statistics]].
 >
 > **[0:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=31)** And the first choice is frequencies.
 >
@@ -4261,7 +4219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), data (5), [[Statistics]] (3), next (1), teams (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **UI Navigation:** go to (5), dropdown (1), scroll down (1), click on (1), select the (1)
 > **Versions:** 18.8 (2), 22.9 (1), 33.3 (1), 56.3 (1)
 > **Definitions:** is a  (4)
@@ -4270,8 +4228,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), getting started (1)
 > **CLI Commands:** make (1)
 
-#### Computing descriptives
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980)
+#### [Computing descriptives](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4279,7 +4236,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980&t=14)** In SPSS, the way that you will usually do that is with the descriptives commands.
 >
-> **[0:19](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980&t=19)** So under descriptive statistics, descriptives.
+> **[0:19](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980&t=19)** So under descriptive [[Statistics]], descriptives.
 >
 > **[0:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-descriptives?u=76281980&t=23)** And when we click on that, it's very similar to what we had before.
 >
@@ -4367,7 +4324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), hit (3), data (2)
+> **Frameworks & Libraries:** [[Statistics]] (4)
 > **Cross-References:** go back to (4), previous video (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Env Vars:** spss (3)
@@ -4376,8 +4333,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploratory data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980)
+#### [Exploratory data analysis](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4391,7 +4347,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=23)** And I'm going to pick one variable 'cause it can get overwhelming really quickly.
 >
-> **[0:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=28)** And I'm going to come down here to the bottom to our Google Trends data, and I'm going to pick one, hockey, and I'm going to put that in the Dependent List.
+> **[0:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=28)** And I'm going to come down here to the bottom to our [[Google]] Trends data, and I'm going to pick one, hockey, and I'm going to put that in the Dependent List.
 >
 > **[0:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=38)** And then, I'm also going to pick another variable.
 >
@@ -4405,7 +4361,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=56)** We have our case processing summary, which lets us know that it had values for 48 cases.
 >
-> **[1:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=61)** Then, we get a pretty long list of statistics including confidence intervals for the mean, the trimmed mean, the interquartile range, skewness and kurtosis.
+> **[1:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=61)** Then, we get a pretty long list of [[Statistics]] including confidence intervals for the mean, the trimmed mean, the interquartile range, skewness and kurtosis.
 >
 > **[1:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=71)** And over here, it says hockey because that's the name of the variable, the label.
 >
@@ -4423,7 +4379,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=117)** This is scaled by Google so that it goes between 0 and 100, where 100 is the maximum value and the others are sort of a percentage of the maximum value.
 >
-> **[2:09](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=129)** And not surprisingly, the state that is searching more for hockey than any others is Minnesota with a second place going to North Dakota, and then Massachusetts and Vermont coming in, and the rest aren't labeled because they are here in sort of this acceptable middle range.
+> **[2:09](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=129)** And not surprisingly, the state that is searching more for hockey than any others is Minnesota with a second place going to North Dakota, and then Massachusetts and Vermont coming in, and the [[Representational State Transfer (REST)|rest]] aren't labeled because they are here in sort of this acceptable middle range.
 >
 > **[2:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exploratory-data-analysis?u=76281980&t=146)** This is important because outliers can really cause problems with a lot of your analyses, and it's nice to be able to know one that you have outliers.
 >
@@ -4503,7 +4459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (3), hit (3), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** spss (2), eda (1)
 > **Versions:** 0.4 (2), 4.6 (1)
@@ -4511,8 +4467,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980)
+#### [Computing correlations](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4576,13 +4531,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=160)** We can also get the cross-product deviations and co-variances.
 >
-> **[2:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=165)** These are descriptive statistics for the associations.
+> **[2:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=165)** These are descriptive [[Statistics]] for the associations.
 >
 > **[2:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=169)** And when we click those, we can run it again and we'll get a slightly larger table.
 >
 > **[2:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=175)** Now here we have the means and the standard deviations for each of the five variables that we've included.
 >
-> **[3:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=180)** And then when we come to the table, you can see it's just really a lot bigger because now it has the correlation and it has the significance value, but it also has the sum of squares and cross-products and the co-variance, and then the sample size.
+> **[3:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=180)** And then when we come to the table, you can see it's just really a lot bigger because now it has the correlation and it has the significance value, but it also has the sum of squares and cross-[[Microsoft Products|products]] and the co-variance, and then the sample size.
 >
 > **[3:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=194)** There are situations in which you would need these.
 >
@@ -4624,7 +4579,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=285)** And so you need to be careful.
 >
-> **[4:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=287)** That's especially when I include all the Google trends, you have 190 unique correlations.
+> **[4:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=287)** That's especially when I include all the [[Google]] trends, you have 190 unique correlations.
 >
 > **[4:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=292)** I restricted it to the big five to make it easier for the other ones.
 >
@@ -4632,7 +4587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), hit (1), next (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Versions:** 0.212 (2), 0.281 (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** spss (3)
@@ -4641,8 +4596,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
 
-#### Computing contingency tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980)
+#### [Computing contingency tables](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4660,7 +4614,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980&t=39)** So that's not what we want.
 >
-> **[0:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980&t=42)** Instead, we're going to go to descriptive statistics and then over here down to cross tabs for cross tabulations or contingency tables.
+> **[0:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980&t=42)** Instead, we're going to go to descriptive [[Statistics]] and then over here down to cross tabs for cross tabulations or contingency tables.
 >
 > **[0:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-contingency-tables?u=76281980&t=49)** And here we select the rows and the columns of our variables, and we can pick more than one.
 >
@@ -4794,7 +4748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), hit (3)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Env Vars:** nba (7), spss (2)
 > **Analogies:** for instance (7), think of it as (1), picture (1)
 > **UI Navigation:** go to (4), select the (1)
@@ -4802,8 +4756,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Factor analysis and principal component analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980)
+#### [Factor analysis and principal component analysis](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4837,7 +4790,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=117)** They approach it from one direction or the other, but in theory they have a lot in common and they can be used to serve the same general purposes.
 >
-> **[2:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=125)** I want to show you how to do this in SPSS, and we'll do this by looking at our 15 Google Trends search variables.
+> **[2:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=125)** I want to show you how to do this in SPSS, and we'll do this by looking at our 15 [[Google]] Trends search variables.
 >
 > **[2:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=132)** So let's come here to the state trends data set, and go to Analyze, down to Dimension Reduction, where dimensions is variables or factors or fields.
 >
@@ -4847,7 +4800,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=156)** So let's come down here a little bit.
 >
-> **[2:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=158)** We're going to go to Data Science is our first one, and I'll scroll down to Hockey, which is the last one.
+> **[2:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=158)** We're going to go to [[Data Science]] is our first one, and I'll scroll down to Hockey, which is the last one.
 >
 > **[2:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=165)** Do a shift-click to get all 15, move them over to variables, and I'm actually going to do just a default analysis right here.
 >
@@ -5039,7 +4992,7 @@ created: 2026-05-02
 >
 > **[13:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=790)** This is telling us that these variables right here all load pretty highly on the first component.
 >
-> **[13:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=796)** They are data analysis, artificial intelligence, data science, and machine learning.
+> **[13:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=796)** They are data analysis, [[Artificial Intelligence (AI)|artificial intelligence]], data science, and machine learning.
 >
 > **[13:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=800)** All of that makes sense.
 >
@@ -5049,11 +5002,11 @@ created: 2026-05-02
 >
 > **[13:31](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=811)** And theoretically, you don't want things loading on two separate dimensions or components 'cause that makes it a little harder to interpret.
 >
-> **[13:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=819)** And then we have business intelligence, but it loads on all three of them.
+> **[13:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=819)** And then we have [[Business Intelligence (BI)|business intelligence]], but it loads on all three of them.
 >
 > **[13:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=824)** And so again, that sort of cross loading complicates interpretability.
 >
-> **[13:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=829)** And then we have statistics which also loads on two of them, and that's a little weird.
+> **[13:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=829)** And then we have [[Statistics]] which also loads on two of them, and that's a little weird.
 >
 > **[13:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/factor-analysis-and-principal-component-analysis?u=76281980&t=833)** So we have some issues there with that one.
 >
@@ -5089,7 +5042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), hit (5), next (3), [[Google]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Google]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (3), means that (1), is called (1), refers to (1)
 > **Env Vars:** spss (4), nasdaq (1)
@@ -5098,12 +5051,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (3)
 > **Analogies:** picture (1), such as (1), it's like (1)
 
-#### Reliability analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980)
+#### [Reliability analysis](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=0)** - [Instructor] In our last video on factor analysis and principal component analysis, I looked at the 15 Google search terms we have and the data from our 48 continental United States to see if there were any useful commonalities between the search terms, that we could combine them into larger groups to make it a little easier to work with the data.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=0)** - [Instructor] In our last video on factor analysis and principal component analysis, I looked at the 15 [[Google]] search terms we have and the data from our 48 continental United States to see if there were any useful commonalities between the search terms, that we could combine them into larger groups to make it a little easier to work with the data.
 >
 > **[0:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=23)** Now, I want to show you the results, or really just one part of the results, of that.
 >
@@ -5119,11 +5071,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=71)** And we have some combinations that make sense and some that don't.
 >
-> **[1:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=76)** So, again, "Data Analysis," "Artificial Intelligence," "Data Science," "Machine Learning," all load very highly on component one.
+> **[1:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=76)** So, again, "Data Analysis," "[[Artificial Intelligence (AI)|Artificial Intelligence]]," "[[Data Science]]," "Machine Learning," all load very highly on component one.
 >
 > **[1:25](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=85)** That makes sense, they're data-related terms.
 >
-> **[1:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=88)** We also have "Business Intelligence," although that loads on three components, and we have "Statistics," which loads on two.
+> **[1:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=88)** We also have "[[Business Intelligence (BI)|Business Intelligence]]," although that loads on three components, and we have "[[Statistics]]," which loads on two.
 >
 > **[1:35](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=95)** Again, it's all a little weird.
 >
@@ -5273,7 +5225,7 @@ created: 2026-05-02
 >
 > **[9:09](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=549)** And let me show you how this works, I've got the syntax for it right here.
 >
-> **[9:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=554)** But let's go and set this up in the windows.
+> **[9:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=554)** But let's go and set this up in the [[Windows]].
 >
 > **[9:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/reliability-analysis?u=76281980&t=558)** Now the important thing to remember is which ones we're looking for, and we want GT-one, two, three, four, and seven, that's because those are these variables, "Data Analysis," "Artificial Intelligence," "Data Science," "Machine Learning," and "Statistics."
 >
@@ -5445,7 +5397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Statistics]] (10), [[Google]] (5), [[Search]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (10), [[Google]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Data Science]] (3), [[Business Intelligence (BI)|Business intelligence]] (3)
 > **Definitions:** is a  (6), is an  (4), means that (1), refers to (1)
 > **UI Navigation:** go to (9), click on (1)
 > **CLI Commands:** make (8), find (1)
@@ -5459,8 +5411,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hierarchical clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980)
+#### [Hierarchical clustering](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5484,7 +5435,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=83)** Fortunately, there is a fix, and so if you're using version 30.0.0.0, it's not going to work until you come and install this fix right here.
 >
-> **[1:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=97)** All you need to do is do a web search for SPSS proximities command failing in statistics 30.0 and you'll get there.
+> **[1:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=97)** All you need to do is do a web search for SPSS proximities command failing in [[Statistics]] 30.0 and you'll get there.
 >
 > **[1:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=107)** Download this and install it, and then this command will function properly.
 >
@@ -5504,11 +5455,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=146)** The obvious thing is you can only pick the variables that you have in your data set and that the results are going to be dependent on what data you give them.
 >
-> **[2:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=157)** I'm going to use the Google Trends data.
+> **[2:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=157)** I'm going to use the [[Google]] Trends data.
 >
 > **[2:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=160)** This gives us a state by state comparison of how popular 15 different search terms are, but it should be pretty clear that if we picked different search terms, then we might get different results, and certainly if we use something other than Google searches, we could get very different results if we threw in a lot of demographic variables or other social variables.
 >
-> **[2:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=179)** Now I'm going to just come in here and I'm going to select the variables starting with data science and then going down to hockey, I'll do a shift click to get all of those selected and I'll move them into Variables.
+> **[2:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=179)** Now I'm going to just come in here and I'm going to select the variables starting with [[Data Science]] and then going down to hockey, I'll do a shift click to get all of those selected and I'll move them into Variables.
 >
 > **[3:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980&t=194)** Again, these are the ones that are going to be defining a 15 dimension space, and we're going to be looking for similarities in there.
 >
@@ -5598,7 +5549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (5), [[Search]] (3), hit (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Statistics]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** spss (4)
 > **Versions:** version 30 (2), 0.0.0 (1), 30.0 (1)
@@ -5607,8 +5558,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** click on (1), go to (1)
 
-#### k-means clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980)
+#### [k-means clustering](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5618,7 +5568,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=22)** And you can look at all the in-between levels.
 >
-> **[0:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=26)** A different approach, which is often used for similar purposes is called k-means clustering, where k is a number of clusters, you can pick two, three, five, whatever, and it's based on means or centroids in a multidimensional space.
+> **[0:26](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=26)** A different approach, which is often used for similar purposes is called [[k-means clustering]], where k is a number of clusters, you can pick two, three, five, whatever, and it's based on means or centroids in a multidimensional space.
 >
 > **[0:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=44)** You can also use it to see how the data stacks up against existing categories.
 >
@@ -5630,7 +5580,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=68)** And what we're going to do is we're going to pick the variables that we're going to base the clustering on.
 >
-> **[1:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=72)** Now, in the hierarchical clustering example, I use the Google Trends variables.
+> **[1:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=72)** Now, in the hierarchical clustering example, I use the [[Google]] Trends variables.
 >
 > **[1:17](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=77)** In this one I'm going to use instead the five personality variables, and I'll explain why in just a moment.
 >
@@ -5710,7 +5660,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=299)** But the easiest way and probably the most productive is to compare the results that we have here with the psychological regions.
 >
-> **[5:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=307)** And to do that, I'm going to come up to analyze and go to descriptive statistics and down here to cross tabs.
+> **[5:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=307)** And to do that, I'm going to come up to analyze and go to descriptive [[Statistics]] and down here to cross tabs.
 >
 > **[5:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-means-clustering?u=76281980&t=316)** So what we're going to do here is create a cross tab table, and we're going to take the new variable we just created because our procedure, we asked it to save one, and it's here at the end of the data.
 >
@@ -5752,7 +5702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), hit (3), [[k-means clustering]] (2), [[Google]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (2), [[Google]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Env Vars:** spss (2)
@@ -5760,14 +5710,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### k-nearest neighbors classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980)
+#### [k-nearest neighbors classification](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=0)** - [Instructor] Given that classification is one of the most important topics in applied analysis, you have a lot of different options for doing this.
 >
-> **[0:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=8)** In addition to the clustering methods we've talked about earlier, the hierarchical clustering and the K-means clustering, which simply trying to find are there groups in your data, classification assumes that you have pre-existing categories and you're simply trying to find out what variables can you use to predict who goes into which category.
+> **[0:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=8)** In addition to the clustering methods we've talked about earlier, the hierarchical clustering and the [[k-means clustering]], which simply trying to find are there groups in your data, classification assumes that you have pre-existing categories and you're simply trying to find out what variables can you use to predict who goes into which category.
 >
 > **[0:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=30)** It's like having existing medical diagnoses and you're trying to figure out whether this case has this particular disease or this one has that one.
 >
@@ -5835,7 +5784,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=198)** And so, the split might actually be indicative of the kinds of splits you're trying to get on other variables that you would predict in a contemporary dataset.
 >
-> **[3:29](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=209)** And then, what I'm going to do is like a big data analysis, I am grabbing everything and sticking it into Features.
+> **[3:29](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=209)** And then, what I'm going to do is like a [[Big Data]] analysis, I am grabbing everything and sticking it into Features.
 >
 > **[3:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=217)** Now, you'll see here that it offers to normalize the scale.
 >
@@ -5857,7 +5806,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=272)** Partitioning is a concept that may not be familiar to many people with a standard statistical background.
 >
-> **[4:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=278)** This is a very common approach in data science and machine learning.
+> **[4:38](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=278)** This is a very common approach in [[Data Science]] and machine learning.
 >
 > **[4:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=282)** The idea here is you want to make sure that your model, that your way that you're building things up, transfers well to new data.
 >
@@ -5865,7 +5814,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=297)** What partitioning does is cuts out some of the data and it puts it off to the side and it doesn't analyze it.
 >
-> **[5:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=305)** It analyzes the rest of the data, builds a model, and then it tests the model on that other dataset.
+> **[5:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=305)** It analyzes the [[Representational State Transfer (REST)|rest]] of the data, builds a model, and then it tests the model on that other dataset.
 >
 > **[5:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=311)** There are two common ways to do this.
 >
@@ -5893,7 +5842,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=364)** I want to get the predicted category.
 >
-> **[6:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=368)** I want to get the probability that it's in that category.
+> **[6:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=368)** I want to get the [[Probability]] that it's in that category.
 >
 > **[6:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/k-nearest-neighbors-classification?u=76281980&t=371)** And I want to know whether a particular case was in the training or the validation partition.
 >
@@ -6015,7 +5964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Probability]] (2), hit (2), [[k-means clustering]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[k-means clustering]] (1), [[Big Data]] (1), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** spss (2), knn (1)
@@ -6024,8 +5973,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Decision tree classification in SPSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980)
+#### [Decision tree classification in SPSS](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6079,7 +6027,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=153)** You'll see that when we get the outputs.
 >
-> **[2:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=156)** In terms of statistics, I'm generally happy with the defaults here.
+> **[2:36](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=156)** In terms of [[Statistics]], I'm generally happy with the defaults here.
 >
 > **[2:40](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=160)** Plots, I don't need any particular plots and rules.
 >
@@ -6095,7 +6043,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=184)** Again, validation is not something that people say, for instance in the social sciences or education are used to doing.
 >
-> **[3:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=190)** But if you're in data science, this is standard operating procedure.
+> **[3:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=190)** But if you're in [[Data Science]], this is standard operating procedure.
 >
 > **[3:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=194)** When you have a large data set, we've got over 6,000 cases.
 >
@@ -6239,19 +6187,19 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=525)** SPSS is also able to give us the syntax that will recreate the evaluations that it made.
 >
-> **[8:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=532)** And so it says if they this and this and this, then put them into this category with this probability.
+> **[8:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=532)** And so it says if they this and this and this, then put them into this category with this [[Probability]].
 >
 > **[9:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=540)** And this is a great way of recreating your analysis with new data outside of the data set that you currently have.
 >
 > **[9:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=548)** And so this makes it a little more exportable and a little more usable.
 >
-> **[9:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=552)** And so decision trees have sometimes been called the one-stop shop for data science in that they can work with almost any kind of data.
+> **[9:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=552)** And so [[Decision Trees]] have sometimes been called the one-stop shop for data science in that they can work with almost any kind of data.
 >
 > **[9:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/decision-tree-classification-in-spss?u=76281980&t=563)** They are easy to understand, they're easy to apply the results, and they give you an idea of how your data can be used to predict the outcomes that are most important to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), hit (5), [[Statistics]] (2), business (1), node (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Data Science]] (2), [[Probability]] (1), [[Decision Trees]] (1)
 > **Definitions:** is a  (8), is an  (1)
 > **CLI Commands:** make (4), node (1), find (1)
 > **Env Vars:** spss (5)
@@ -6260,12 +6208,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Versions:** 76.8 (1)
 
-#### Neural networks in SPSS: Multilayer perceptron classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980)
+#### [Neural networks in SPSS: Multilayer perceptron classification](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=0)** - [Instructor] Some of the most exciting work in the entire data science world right now revolves around the use of what are called neural networks.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=0)** - [Instructor] Some of the most exciting work in the entire [[Data Science]] world right now revolves around the use of what are called [[Neural Networks]].
 >
 > **[0:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=8)** And these are very, very complicated methods for taking input information, combining it in non-linear fashions through at least one, maybe many, many, many hidden layers where things are combined again, and you get your output.
 >
@@ -6273,7 +6220,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=42)** Now, you can use neural networks in more common methods as well.
 >
-> **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=47)** Say for instance, you're trying to predict whether a person owns a pager or not, or you're trying to predict the probability of a particular disease developing.
+> **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=47)** Say for instance, you're trying to predict whether a person owns a pager or not, or you're trying to predict the [[Probability]] of a particular disease developing.
 >
 > **[0:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=56)** Any of those would work.
 >
@@ -6309,7 +6256,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=150)** And then everything else I'm going to put into factors, and then we have to make some choices about how we set up the model.
 >
-> **[2:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=157)** One of the truisms of neural networks is that the most complicated ones, especially modern deep learning neural networks, they're very sensitive to the parameters that you give them.
+> **[2:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=157)** One of the truisms of neural networks is that the most complicated ones, especially modern [[Deep Learning]] neural networks, they're very sensitive to the parameters that you give them.
 >
 > **[2:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=170)** So let's just take a look at some of the options.
 >
@@ -6339,7 +6286,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=242)** For training, we're just going to do batch, we're going to leave it at the default.
 >
-> **[4:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=247)** You could choose different algorithms.
+> **[4:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=247)** You could choose different [[Algorithms]].
 >
 > **[4:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-multilayer-perceptron-classification?u=76281980&t=248)** If you're familiar with machine learning, then maybe you might want to gradient descend.
 >
@@ -6427,7 +6374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Neural Networks]] (11), [[Probability]] (1), next (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (11), [[Data Science]] (1), [[Probability]] (1), [[Deep Learning]] (1), [[Algorithms]] (1)
 > **Env Vars:** spss (5), npss (1), roc (1), xml (1)
 > **UI Navigation:** go to (3), double-click (1)
 > **Definitions:** is a  (3)
@@ -6436,12 +6383,11 @@ created: 2026-05-02
 > **Versions:** 70.4 (1), 29.6 (1)
 > **Warnings:** be careful (1)
 
-#### Neural networks in SPSS: Radial basis function classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980)
+#### [Neural networks in SPSS: Radial basis function classification](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=0)** - [Instructor] Neural networks are a new arrival to SPSS, and it gives you the choice of two options that have been in use for several years.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=0)** - [Instructor] [[Neural Networks]] are a new arrival to SPSS, and it gives you the choice of two options that have been in use for several years.
 >
 > **[0:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=7)** One is the multi-layer perceptron, which I have demonstrated elsewhere.
 >
@@ -6459,7 +6405,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=48)** And then we take our predictors and put them into factors and covariates.
 >
-> **[0:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=54)** I'm going to select the scaled ones with the measuring stick next to them and put them under covariates and then I'll take all the rest and put them into factors.
+> **[0:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=54)** I'm going to select the scaled ones with the measuring stick next to them and put them under covariates and then I'll take all the [[Representational State Transfer (REST)|rest]] and put them into factors.
 >
 > **[1:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/neural-networks-in-spss-radial-basis-function-classification?u=76281980&t=65)** And then we do have a number of options, but I'm probably going to leave most of these so we can do a default analysis.
 >
@@ -6539,7 +6485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Neural Networks]] (5), next (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** spss (2), rbf (1), roc (1), xml (1)
 > **CLI Commands:** make (2)
 > **Versions:** 96.4 (1), 13.5 (1)
@@ -6553,8 +6499,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
+#### [Comparing proportions](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6604,7 +6549,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=129)** And so, we retain the null hypothesis.
 >
-> **[2:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=132)** Our probability value is .557.
+> **[2:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=132)** Our [[Probability]] value is .557.
 >
 > **[2:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=135)** But with retired, yes and no, if we're comparing it to 50/50, we're very far off from that.
 >
@@ -6624,7 +6569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** spss (3)
 > **Analogies:** it's like (1), for instance (1), similar to (1)
@@ -6632,8 +6577,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing one mean to a population: One-sample t test
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980)
+#### [Comparing one mean to a population: One-sample t test](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6693,7 +6637,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1)
 > **Versions:** 3.06 (3), 3.0 (1), 3.36 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1)
@@ -6702,8 +6645,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing paired means: Paired-samples t test
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980)
+#### [Comparing paired means: Paired-samples t test](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6723,7 +6665,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=43)** I'm going to show you one way to do this using some of the commands we've had previously.
 >
-> **[0:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=49)** So we'll go to Descriptive Statistics and Explore.
+> **[0:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=49)** So we'll go to Descriptive [[Statistics]] and Explore.
 >
 > **[0:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=52)** And I'm going to take our two variables and move them over.
 >
@@ -6807,7 +6749,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=227)** And then if we take people's time one and time two scores and get the difference between them, the difference is 2.8.
 >
-> **[3:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=233)** Now, actually, we probably should have put time two first because scores went up in general, but all the rest of this can be read the same.
+> **[3:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=233)** Now, actually, we probably should have put time two first because scores went up in general, but all the [[Representational State Transfer (REST)|rest]] of this can be read the same.
 >
 > **[4:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=241)** We can see, just remove the minus signs, and that we had a significant effect.
 >
@@ -6821,15 +6763,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 55.37 (1), 58.17 (1), 0.928 (1), 2.8 (1), 0.009 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), double-click (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two means: Independent-samples t test
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980)
+#### [Comparing two means: Independent-samples t test](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6907,7 +6848,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=179)** So let's come back up to Graphs.
 >
-> **[3:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=181)** Excuse me, let's go to Descriptive Statistics.
+> **[3:01](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=181)** Excuse me, let's go to Descriptive [[Statistics]].
 >
 > **[3:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=184)** And let's do Explore.
 >
@@ -6951,7 +6892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Versions:** 45.9 (1), 40.8 (1)
@@ -6959,8 +6900,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing multiple means: One-way ANOVA
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980)
+#### [Comparing multiple means: One-way ANOVA](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7040,13 +6980,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=258)** You may want to post hoc tests.
 >
-> **[4:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=260)** So, these are tests that happen if you get a statistically significant overall result, and let's say for instance, let's do the Tukey, that's developed by John Tukey, and that's a good one, and let's hit OK, and then let's look at the other options, and we could get descriptives, and there's some other options here.
+> **[4:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=260)** So, these are tests that happen if you get a statistically significant overall result, and let's say for instance, let's do the Tukey, that's developed by [[John the Ripper|John]] Tukey, and that's a good one, and let's hit OK, and then let's look at the other options, and we could get descriptives, and there's some other options here.
 >
 > **[4:42](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=282)** We already have a means plot, but, actually, let's do one from here as well, and we'll hit Continue, and then we'll run that analysis.
 >
 > **[4:51](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=291)** And so here's what we get.
 >
-> **[4:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=292)** First, we get the descriptive statistics of the five different groups and we see their average level of job satisfaction along with the standard deviation, the confidence intervals, and so on.
+> **[4:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=292)** First, we get the descriptive [[Statistics]] of the five different groups and we see their average level of job satisfaction along with the standard deviation, the confidence intervals, and so on.
 >
 > **[5:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-way-anova?u=76281980&t=304)** When we come down here to the ANOVA table, we see that we have an overall test statistic of F is equal to 24.188, and that is statistically significant.
 >
@@ -7074,7 +7014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Statistics]] (1)
 > **Env Vars:** anova (6), spss (1)
 > **Analogies:** for instance (3), similar to (2)
 > **Versions:** 24.188 (1), 0.015 (1), 2.8 (1), 3.3 (1)
@@ -7083,8 +7023,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing means with two categorical variables: ANOVA
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980)
+#### [Comparing means with two categorical variables: ANOVA](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7092,7 +7031,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980&t=2)** Sometimes you have to qualify your conclusions.
 >
-> **[0:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980&t=5)** And in statistics, one way that happens is with the analysis of variance when you have more than one factor, more than one predictor, and you're looking to see whether the outcome depends on a combination of the factors.
+> **[0:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980&t=5)** And in [[Statistics]], one way that happens is with the analysis of variance when you have more than one factor, more than one predictor, and you're looking to see whether the outcome depends on a combination of the factors.
 >
 > **[0:18](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-means-with-two-categorical-variables-anova?u=76281980&t=18)** So it's not enough to know where a person is on, say for instance, their level of education, but you also have to know what part of the country they live in, and those two things together might influence job satisfaction.
 >
@@ -7210,7 +7149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Versions:** 35.8 (1)
@@ -7223,18 +7162,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing a linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980)
+#### [Computing a linear regression](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=0)** - [Instructor] We've been going through a progression in this course, where we first look at one variable, and then proportion, and then we look at connections between variables, then we look at how one group compares to another.
 >
-> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=12)** And what this is leading up to is the procedure I want to show you right now, linear regression, which is one of the most flexible, and powerful, and common techniques for analyzing data.
+> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=12)** And what this is leading up to is the procedure I want to show you right now, [[Linear Regression]], which is one of the most flexible, and powerful, and common techniques for analyzing data.
 >
 > **[0:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=24)** Because what it lets you do is use many variables of almost any kind to predict a score on a single quantitative variable.
 >
-> **[0:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=33)** And in fact, there are versions that lets you do it for a single binary outcome, that's logistic regression, in which we'll look at in another video, or an ordinal variable, or several different categories.
+> **[0:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=33)** And in fact, there are versions that lets you do it for a single binary outcome, that's [[Logistic Regression]], in which we'll look at in another video, or an ordinal variable, or several different categories.
 >
 > **[0:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=45)** There are a lot of things that can be done with regression and its variations.
 >
@@ -7326,7 +7264,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=360)** So this is helpful, but it's also important to remember that these variables are correlated with each other.
 >
-> **[6:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=365)** I mean, look through the rest of the table, you'll see lots of asterisks in other places.
+> **[6:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=365)** I mean, look through the [[Representational State Transfer (REST)|rest]] of the table, you'll see lots of asterisks in other places.
 >
 > **[6:11](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=371)** So these predictor variables are correlated with each other.
 >
@@ -7408,7 +7346,7 @@ created: 2026-05-02
 >
 > **[10:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=605)** This column right here, t, is the actual inferential test used for each of the regression coefficients.
 >
-> **[10:13](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=613)** And then this last column, Sig, is the significance level or the probability value associated with that value of t.
+> **[10:13](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=613)** And then this last column, Sig, is the significance level or the [[Probability]] value associated with that value of t.
 >
 > **[10:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980&t=620)** And if we go down here and look for things that are less than the standard 0.05, well, we can see that the constant significant household income is significant, marital status is significant, price of primary car, and so on, lots of 'em.
 >
@@ -7418,7 +7356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Linear Regression]] (2), hit (2), data (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Logistic Regression]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Probability]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 0.492 (1), 0.242 (1), 0.001 (1), 0.1 (1), 0.05 (1)
 > **Definitions:** is a  (5)
@@ -7427,12 +7365,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **Analogies:** for instance (1)
 
-#### Variable selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980)
+#### [Variable selection](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=0)** - [Instructor] In the previous video, we did a multiple regression that had really, I mean, a dozen or so predictors for a single outcome variable, which, in the grand scheme of things, is not that complicated, considering there are neural networks with millions or billions of predictors.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=0)** - [Instructor] In the previous video, we did a multiple regression that had really, I mean, a dozen or so predictors for a single outcome variable, which, in the grand scheme of things, is not that complicated, considering there are [[Neural Networks]] with millions or billions of predictors.
 >
 > **[0:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=16)** And so, you know, this is manageable, it's at a human scale.
 >
@@ -7490,7 +7427,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=192)** And since it's a good demonstration of the principle of reducing the number of variables, I'm going to go ahead and show you how it works.
 >
-> **[3:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=200)** I am going to, however, come over here to Statistics.
+> **[3:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=200)** I am going to, however, come over here to [[Statistics]].
 >
 > **[3:23](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=203)** I'm going to click on this for one second and I'm going to check this, R squared change, so we can see how big the change is from one step of the model to another.
 >
@@ -7586,7 +7523,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=470)** But you can see that each of these has a statistically significant association.
 >
-> **[7:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=475)** This is the t-score associated with it and the probability value, these statistical significance level.
+> **[7:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=475)** This is the t-score associated with it and the [[Probability]] value, these statistical significance level.
 >
 > **[8:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=484)** And then after that, we have a set of variables that were not included each step.
 >
@@ -7604,7 +7541,7 @@ created: 2026-05-02
 >
 > **[8:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=524)** So, let me show you another way to do this that draws on theory or your understanding of what's going on or what it is that you care about.
 >
-> **[8:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=532)** Let's go back to Regression, Linear Regression, and I'm just going to reset this.
+> **[8:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=532)** Let's go back to Regression, [[Linear Regression]], and I'm just going to reset this.
 >
 > **[8:58](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-selection?u=76281980&t=538)** Let's put Job satisfaction back under Dependent for our outcome.
 >
@@ -7692,7 +7629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cd (4), hit (3), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linear Regression]] (2), [[Neural Networks]] (1), [[Probability]] (1)
 > **CLI Commands:** make (7), cd (4)
 > **UI Navigation:** double-click (3), click on (2), go to (2)
 > **Definitions:** is a  (7)
@@ -7701,8 +7638,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), go back to (1)
 > **Versions:** 23.3 (1)
 
-#### Logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980)
+#### [Logistic regression](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7722,7 +7658,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=39)** And it turns out that it's possible to still use multiple regression to predict these kinds of binary, yes, no outcomes, but you need to use a particular variation on it.
 >
-> **[0:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=52)** Instead of doing the multiple regression that I showed you previously, you do something called logistic regression where the word logistic has to do with logit, which is a kind of probability calculation.
+> **[0:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=52)** Instead of doing the multiple regression that I showed you previously, you do something called [[Logistic Regression]] where the [[Microsoft Word|word]] logistic has to do with logit, which is a kind of [[Probability]] calculation.
 >
 > **[1:06](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=66)** So instead of calculating a predicted score, you're predicting a probability that a case is in this category or that category.
 >
@@ -7756,9 +7692,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=169)** The covariates are the variables that we're going to use to make that prediction.
 >
-> **[2:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=173)** And in this case, what I'm going to do is use the Google trends variables.
+> **[2:53](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=173)** And in this case, what I'm going to do is use the [[Google]] trends variables.
 >
-> **[2:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=177)** So we'll come up here and start with data science and come down to searches for hockey.
+> **[2:57](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=177)** So we'll come up here and start with [[Data Science]] and come down to searches for hockey.
 >
 > **[3:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=185)** I do a shift click to get all of those and then put them over here in Covariates.
 >
@@ -7844,7 +7780,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=410)** It's an improvement without a lot of extra data.
 >
-> **[6:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=414)** It turns out in one of the strangest things that the two variables that predict whether a state has a Major League Soccer team are the Google searches for business intelligence.
+> **[6:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=414)** It turns out in one of the strangest things that the two variables that predict whether a state has a Major League Soccer team are the Google searches for [[Business Intelligence (BI)|business intelligence]].
 >
 > **[7:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/logistic-regression?u=76281980&t=425)** That's our first one that went in and are Google searches, not for soccer, but for basketball.
 >
@@ -7914,7 +7850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Probability]] (7), [[Google]] (4), [[Search]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Google]] (4), [[Business Intelligence (BI)|Business intelligence]] (3), [[Logistic Regression]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mls (2), gdp (1), spss (1), nba (1), nfl (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for instance (3), such as (1), just like (1), similar to (1), analogous to (1)
@@ -7923,18 +7859,17 @@ created: 2026-05-02
 > **Versions:** 64.6 (1), 83.3 (1)
 > **Cross-References:** coming up (1)
 
-#### Automatic linear modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980)
+#### [Automatic linear modeling](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=0)** - [Instructor] People sometimes use the term, data science and statistics, and business analytics interchangeably.
+> **[0:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=0)** - [Instructor] People sometimes use the term, [[Data Science]] and [[Statistics]], and [[Business Analytics]] interchangeably.
 >
 > **[0:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=7)** And while they all have a lot in common and they all fall into the general category that I use of data work, there are some important differences between them.
 >
-> **[0:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=16)** Specifically statistical analysis, business analytics, web analytics are typically focused on insight, trying to understand what's happening in the data and the people who generated it so you can better tailor your services to them.
+> **[0:16](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=16)** Specifically [[Statistical Analysis]], business analytics, [[Web Analytics]] are typically focused on insight, trying to understand what's happening in the data and the people who generated it so you can better tailor your services to them.
 >
-> **[0:32](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=32)** On the other hand, machine learning, data science, deep learning are generally focused not on insight but on predictive ability.
+> **[0:32](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=32)** On the other hand, machine learning, data science, [[Deep Learning]] are generally focused not on insight but on predictive ability.
 >
 > **[0:41](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=41)** And as such, they can build models that are really too complicated for humans to understand.
 >
@@ -7954,7 +7889,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=81)** And we have to choose a single outcome.
 >
-> **[1:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=84)** The thing we're trying to predict, and for this particular example, I'm going to use the Google trends data on dance, how common dance is as a search term for a state.
+> **[1:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=84)** The thing we're trying to predict, and for this particular example, I'm going to use the [[Google]] trends data on dance, how common dance is as a search term for a state.
 >
 > **[1:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=93)** And then we're going to put almost everything else into the predictors.
 >
@@ -7966,7 +7901,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=112)** In terms of the build options.
 >
-> **[1:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=114)** We need to choose whether we want a standard model, whether we want to emphasize accuracy, or stability generalizability in other settings or whether we're dealing with big data.
+> **[1:54](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=114)** We need to choose whether we want a standard model, whether we want to emphasize accuracy, or stability generalizability in other settings or whether we're dealing with [[Big Data]].
 >
 > **[2:04](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=124)** We also can look at automatically prepared data.
 >
@@ -8082,7 +8017,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=444)** But when they get combined, they end up with something that is much, much higher, nearly 81% by putting together a whole collection of weak predictors to get one very strong overall predictor.
 >
-> **[7:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=459)** And then we can look again, the data preparation that goes through, and it's similar to what we had before, trimming outliers and merging categories.
+> **[7:39](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=459)** And then we can look again, the [[Data Preparation]] that goes through, and it's similar to what we had before, trimming outliers and merging categories.
 >
 > **[7:45](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/automatic-linear-modeling?u=76281980&t=465)** But all told what this does is the automatic linear modeling method, either in its default general model, or in its maximized accuracy.
 >
@@ -8096,7 +8031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Analytics]] (3), business (2), [[Search]] (2), hit (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Business Analytics]] (2), [[Statistics]] (1), [[Statistical Analysis]] (1), [[Web Analytics]] (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **Env Vars:** sbss (1), alm (1), spss (1)
 > **Versions:** 56.6 (1), 80.8 (1), 3.5 (1)
@@ -8110,8 +8045,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exporting charts and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980)
+#### [Exporting charts and tables](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8139,7 +8073,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=60)** And it brings up a dialogue with several options.
 >
-> **[1:02](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=62)** Probably the easiest first one is going to be a Word document.
+> **[1:02](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=62)** Probably the easiest first one is going to be a [[Microsoft Word|Word]] document.
 >
 > **[1:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=67)** And so we can simply take this as a Word document, and we have to choose where we're going to put it.
 >
@@ -8173,7 +8107,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=164)** And the nice thing about PDFs, of course, is that they're infinitely scalable.
 >
-> **[2:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=168)** You can zoom in and get things as big as you want, which is really wonderful for the graphs.
+> **[2:48](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=168)** You can [[Zoom]] in and get things as big as you want, which is really wonderful for the graphs.
 >
 > **[2:55](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=175)** And then there's a third alternative.
 >
@@ -8181,9 +8115,9 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=190)** So let's come back to Export, and we'll do one more option.
 >
-> **[3:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=195)** We can save it as a text file, we can save it as an Excel file, that's an interesting way to do it.
+> **[3:15](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=195)** We can save it as a text file, we can save it as an [[Microsoft Excel|Excel]] file, that's an interesting way to do it.
 >
-> **[3:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=200)** And you know, we've got some options here, but the one I'm going to recommend is this one, HTML, that's a web document.
+> **[3:20](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=200)** And you know, we've got some options here, but the one I'm going to recommend is this one, [[HTML]], that's a web document.
 >
 > **[3:28](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980&t=208)** And so we'll click that, and you see it changes to htm down here, and it's going to ask us how we want to save the graphics.
 >
@@ -8209,7 +8143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), hit (3), web (3), data (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[HTML]] (2), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** spss (7), pdf (2), html (2), jpeg (1)
 > **UI Navigation:** go to (3), click on (3)
 > **Cross-References:** go back to (2)
@@ -8221,8 +8155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8232,13 +8165,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=8)** So, where should you go next?
 >
-> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=12)** Well, one obvious way to build on all of this is to use the LinkedIn Learning learning path called Develop Your SPSS Skills.
+> **[0:12](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=12)** Well, one obvious way to build on all of this is to use the [[LinkedIn]] Learning learning path called Develop Your SPSS Skills.
 >
-> **[0:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=22)** This includes this introductory course, as well as additional courses on linear regression classification and other important insightful tasks in SPSS.
+> **[0:22](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=22)** This includes this introductory course, as well as additional courses on [[Linear Regression]] classification and other important insightful tasks in SPSS.
 >
-> **[0:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=33)** You could also find ways to expand your familiarity and facility with techniques like data wrangling and data visualization through a wide selection of courses on LinkedIn Learning.
+> **[0:33](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=33)** You could also find ways to expand your familiarity and facility with techniques like [[Data Wrangling]] and data visualization through a wide selection of courses on LinkedIn Learning.
 >
-> **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=47)** In addition, I have another course, Data Literacy, which covers some of the fundamental principles of working with data and using it to make decisions.
+> **[0:47](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=47)** In addition, I have another course, [[Data Literacy]], which covers some of the fundamental principles of working with data and using it to make decisions.
 >
 > **[0:56](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=56)** And you can build on that with another course called [[Actionable Insights and Business Data in Practice]], which instead of teaching you how to use software or how to do particular procedures, teaches you how to make your results actionable or usable within an applied business setting.
 >
@@ -8248,7 +8181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[LinkedIn]] (2), business (2), next (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Linear Regression]] (1), [[Data Wrangling]] (1), [[Data Literacy]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** spss (5)
 > **Speakers:** - [instructor] (1)

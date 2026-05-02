@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Appreciating traffic analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980)
+#### [Appreciating traffic analysis](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980&t=24)** I'll cover how to download and install on a PC or a Mac.
 >
-> **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980&t=29)** Then we'll explore the Wireshark interface.
+> **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980&t=29)** Then we'll explore the [[Wireshark]] interface.
 >
 > **[0:32](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980&t=32)** I'll cover how to tap into the data stream and use display and capture filters.
 >
@@ -128,19 +127,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2), data (1), dns (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **Env Vars:** osi (1), tcp (1), dns (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/wireshark-essential-training/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Wireshark Essential Training is an intermediate-level course for network administrators, students, teachers, and anyone with an interest in learning about packet analysis and the importance of understanding and identifying the traffic on your network to troubleshoot, identify latency issues, and actively identify network attacks.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/what-you-need-to-know?u=76281980&t=0)** - [Instructor] [[Wireshark]] Essential Training is an intermediate-level course for network administrators, students, teachers, and anyone with an interest in learning about packet analysis and the importance of understanding and identifying the traffic on your network to troubleshoot, identify latency issues, and actively identify network attacks.
 >
 > **[0:24](https://www.linkedin.com/learning/wireshark-essential-training/what-you-need-to-know?u=76281980&t=24)** We'll use Wireshark, a free protocol analysis tool, and we'll use precaptured files from online repositories.
 >
@@ -154,13 +152,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/challenges-13887381?u=76281980)
+#### [Challenges](https://www.linkedin.com/learning/wireshark-essential-training/challenges-13887381?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,18 +189,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/wireshark-essential-training/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/disclaimer?u=76281980&t=0)** - [Narrator] Wireshark is a network analysis tool.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/disclaimer?u=76281980&t=0)** - [Narrator] [[Wireshark]] is a network analysis tool.
 >
 > **[0:03](https://www.linkedin.com/learning/wireshark-essential-training/disclaimer?u=76281980&t=3)** Any active capture should only be used in an environment that you have full control, or on a network that you have written permission that specifically allows you to capture and analyze traffic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -212,14 +208,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of traffic analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980)
+#### [Benefits of traffic analysis](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=0)** - [Lecturer] On today's networks there are many reasons for traffic analysis that include troubleshooting network problems, intrusion detection and forensics, and to gain a better understanding of protocols.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=0)** - [Lecturer] On today's networks there are many reasons for traffic analysis that include troubleshooting network problems, [[Intrusion Detection]] and forensics, and to gain a better understanding of protocols.
 >
-> **[0:14](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=14)** Wireshark is a powerful packet analysis tool where you can capture, display and filter traffic live from a network interface.
+> **[0:14](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=14)** [[Wireshark]] is a powerful packet analysis tool where you can capture, display and filter traffic live from a network interface.
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=23)** Network administrators, developers, security analysts, students, and building automation control specialists can all benefit from using Wireshark.
 >
@@ -239,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=74)** For example, if they suspect malicious activity they can look at the conversations and see if there's a strange port number.
 >
-> **[1:24](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=84)** They can then do a Google search and determine what program uses that port and determine whether it's malicious or not.
+> **[1:24](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=84)** They can then do a [[Google]] search and determine what program uses that port and determine whether it's malicious or not.
 >
 > **[1:33](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=93)** Using Wireshark can help students to better understand many of the common protocols used on a network today.
 >
@@ -259,13 +254,13 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=168)** It's rich in features, and it's used to examine traffic either live from a wired or wireless connection or by using pre-captured packets.
 >
-> **[2:57](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=177)** We can analyze network problems, detect network misuse, perform regulatory compliance through content monitoring the perimeter and end-point traffic.
+> **[2:57](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=177)** We can analyze network problems, detect network misuse, perform [[Regulatory Compliance]] through content monitoring the perimeter and end-point traffic.
 >
 > **[3:09](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=189)** We can monitor bandwidth usage per application and process.
 >
-> **[3:15](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=195)** And we can verify endpoint security status to see if there are any unwanted protocols such as SSDP traffic and multicast DNS.
+> **[3:15](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=195)** And we can verify [[Endpoint Security]] status to see if there are any unwanted protocols such as SSDP traffic and multicast DNS.
 >
-> **[3:26](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=206)** And we can gather and report network statistics.
+> **[3:26](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=206)** And we can gather and report network [[Statistics]].
 >
 > **[3:29](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=209)** In 2004 a colleague introduced me to Ethereal, now called Wireshark.
 >
@@ -277,19 +272,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (10), traffic (8), application (4), [[Security]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (10), [[Intrusion Detection]] (1), [[Google]] (1), [[Regulatory Compliance]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** dhcp (1), udp (1), tcp (1), ssdp (1), dns (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Installing Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980)
+#### [Installing Wireshark](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=0)** - [Instructor] Wireshark is a powerful network protocol analyzer that allows users to capture and inspect network traffic in real time.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=0)** - [Instructor] [[Wireshark]] is a powerful network protocol analyzer that allows users to capture and inspect network traffic in real time.
 >
 > **[0:10](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=10)** In this segment, we'll cover how to choose the best option for your operating system, along with key choices you may encounter during a standard installation.
 >
@@ -297,7 +291,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=40)** Now first we see the Stable Release, which I have already selected and have already downloaded.
 >
-> **[0:47](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=47)** Now, within this section, you'll see the Windows installer for 64-bit, but there's also one for Mac Operating System and others.
+> **[0:47](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=47)** Now, within this section, you'll see the [[Windows]] installer for 64-bit, but there's also one for Mac Operating System and others.
 >
 > **[0:57](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=57)** Now what's important is that you should use the most recent release on your machine.
 >
@@ -315,7 +309,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=107)** Now once here, I'll scroll down.
 >
-> **[1:52](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=112)** Now what's really great is that Wireshark can be installed on a number of different platforms, including Arch Linux, Novell, Red Hat, and a lot of others.
+> **[1:52](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=112)** Now what's really great is that Wireshark can be installed on a number of different platforms, including Arch [[Linux]], Novell, Red Hat, and a lot of others.
 >
 > **[2:04](https://www.linkedin.com/learning/wireshark-essential-training/installing-wireshark?u=76281980&t=124)** And why?
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (11), next (7), traffic (2), cloud (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (11), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (5)
 > **UI Navigation:** scroll down (2), go to (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -388,12 +382,11 @@ created: 2026-05-02
 > **URLs:** [wireshark.org](https://wireshark.org) (1)
 > **Cross-References:** go back to (1)
 
-#### Explore the Wireshark interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980)
+#### [Explore the Wireshark interface](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=0)** - [Instructor] So now let's take a look at the Wireshark interface.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=0)** - [Instructor] So now let's take a look at the [[Wireshark]] interface.
 >
 > **[0:04](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=4)** Now, when you look at this next generation, you look at it, and it seems as if there's not as much going on.
 >
@@ -465,7 +458,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=222)** For example, if you're letting a capture run, and you put a specific coloring rule in order to look for something on the network, you could just keep dropping it into a ring buffer, and it will overwrite those files over and over again.
 >
-> **[3:57](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=237)** Then we go to Options, and here we can see some of the display options and update list of packets in real-time, and I generally select that, and automatically scroll during life capture.
+> **[3:57](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=237)** Then we go to Options, and here we can see some of the display options and update list of packets in [[Real-Time]], and I generally select that, and automatically scroll during life capture.
 >
 > **[4:09](https://www.linkedin.com/learning/wireshark-essential-training/explore-the-wireshark-interface-13892054?u=76281980&t=249)** Now, the name resolution, this is where it's going to do a resolution of one of the three things.
 >
@@ -485,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), next (2), traffic (2), data (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Real-Time]] (1)
 > **Env Vars:** usb (1), pcap (1), mac (1), dns (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (2)
@@ -493,12 +486,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting help
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/getting-help-24575301?u=76281980)
+#### [Getting help](https://www.linkedin.com/learning/wireshark-essential-training/getting-help-24575301?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/getting-help-24575301?u=76281980&t=0)** - [Instructor] When using Wireshark, you can access built-in help resources and official documentation to better understand all the features, filters, and network analysis tools.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/getting-help-24575301?u=76281980&t=0)** - [Instructor] When using [[Wireshark]], you can access built-in help resources and official documentation to better understand all the features, filters, and network analysis tools.
 >
 > **[0:14](https://www.linkedin.com/learning/wireshark-essential-training/getting-help-24575301?u=76281980&t=14)** In this segment, we'll review the many ways to get help in Wireshark.
 >
@@ -558,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (14), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (14)
 > **UI Navigation:** go to (3), select the (2)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** make sure you have (1), you'll need (1)
@@ -567,8 +559,7 @@ created: 2026-05-02
 > **Tools:** discord (1)
 > **Definitions:** is a  (1)
 
-#### Tap into the data stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980)
+#### [Tap into the data stream](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=42)** We can use port mirroring or SPAN, which is switched port analysis.
 >
-> **[0:47](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=47)** We can also monitor directly on the device, as a lot of vendors are putting Wireshark right within their device so you can monitor the traffic in real time.
+> **[0:47](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=47)** We can also monitor directly on the device, as a lot of vendors are putting [[Wireshark]] right within their device so you can monitor the traffic in real time.
 >
 > **[0:58](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=58)** You can also use a full-duplex tap in line with traffic, and you'll most likely need a special adapter.
 >
@@ -602,7 +593,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=95)** And before you do this, you'll need the correct capture engine.
 >
-> **[1:40](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=100)** For example, if you're using Windows, you'll be prompted to use Npcap, and in Linux, we use libpcap.
+> **[1:40](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=100)** For example, if you're using [[Windows]], you'll be prompted to use Npcap, and in [[Linux]], we use libpcap.
 >
 > **[1:49](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=109)** If you don't have the correct capture engine, you won't be able to capture the traffic.
 >
@@ -706,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), [[Wireshark]] (8), data (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3)
@@ -720,12 +711,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using display and capture filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980)
+#### [Using display and capture filters](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=0)** - [Instructor] While you're working with Wireshark, you can use capture and display filters.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=0)** - [Instructor] While you're working with [[Wireshark]], you can use capture and display filters.
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=6)** A capture filter is applied prior to capture and will only capture what you filter, nothing else.
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=225)** So if I need to do some troubleshooting, let's see.
 >
-> **[3:48](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=228)** I'll go to Statistics and a Flow Graph.
+> **[3:48](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=228)** I'll go to [[Statistics]] and a Flow Graph.
 >
 > **[3:51](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=231)** There's the ftp traffic, nothing else.
 >
@@ -809,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (3), data (1), [[Troubleshooting]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Ports:** port 21 (2)
 > **Env Vars:** ftp (1), tcp (1)
@@ -817,8 +807,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980)
+#### [Discovering shortcuts](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +823,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980&t=22)** And we'll see a lot of traffic in there.
 >
-> **[0:30](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980&t=30)** But within Wireshark, there's a lot of really nice shortcuts that I can do in order for me to create a filter.
+> **[0:30](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980&t=30)** But within [[Wireshark]], there's a lot of really nice shortcuts that I can do in order for me to create a filter.
 >
 > **[0:37](https://www.linkedin.com/learning/wireshark-essential-training/discovering-shortcuts?u=76281980&t=37)** I'll go to this frame 17, which is ICMP, destination unreachable, port unreachable.
 >
@@ -890,21 +879,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **Env Vars:** icmp (3), tcp (2)
 > **Versions:** version 4 (3)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grasping the OSI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980)
+#### [Grasping the OSI model](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=0)** - [Instructor] In addition to understanding what the protocols do, a solid understanding of the OSI model and the encapsulation process is important to do effective packet analysis.
 >
-> **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=13)** The seven-layer OSI model standardizes the functions of data transformation by breaking it down into layers.
+> **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=13)** The seven-layer OSI model standardizes the functions of [[Data Transformation]] by breaking it down into layers.
 >
 > **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=22)** And it outlines how that network interface card encapsulates the data as it's prepared for transit on the network.
 >
@@ -960,7 +948,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=154)** This is all about the network.
 >
-> **[2:37](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=157)** We provide addressing and routing.
+> **[2:37](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=157)** We provide addressing and [[Routing]].
 >
 > **[2:40](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=160)** And when we talk about the different protocols that are in this layer, we know, of course, there is IP; and, of course, we also need ICMP; but let's take a look at that protocol that I put right in between Layer 3 and Layer 2, which is Address Resolution Protocol.
 >
@@ -974,7 +962,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=204)** Layer 2 or the Data Link Layer is all about proper frame formation.
 >
-> **[3:30](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=210)** The protocol is Ethernet II, which is the most widely used protocol on the local area network.
+> **[3:30](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=210)** The protocol is Ethernet II, which is the most widely used protocol on the [[Local Area Network (LAN)|local area network]].
 >
 > **[3:36](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=216)** And the protocol data unit at this point is a frame.
 >
@@ -996,15 +984,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), application (3), [[Routing]] (2), [[Data Transformation]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Data Transformation]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** osi (5), mac (3), http (1), ftp (1), smtp (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating a frame
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980)
+#### [Generating a frame](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1021,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980&t=58)** This is to provide error detection on a network by creating a cyclic redundancy check value that the network will check as it's traveling along on its way.
 >
-> **[1:09](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980&t=69)** Now, if we look at that frame formation and the encapsulation process, we can relate it to how it's presented to us in Wireshark.
+> **[1:09](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980&t=69)** Now, if we look at that frame formation and the encapsulation process, we can relate it to how it's presented to us in [[Wireshark]].
 >
 > **[1:19](https://www.linkedin.com/learning/wireshark-essential-training/generating-a-frame?u=76281980&t=79)** So take a look at this encapsulation and all the way at the top is, of course, your frame header.
 >
@@ -1058,14 +1045,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Wireshark]] (3), web (2), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** mac (2), osi (2), tcp (1), udp (1), http (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Recognize the Wireshark interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980)
+#### [Challenge: Recognize the Wireshark interface](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980&t=17)** Question one.
 >
-> **[0:19](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980&t=19)** By default, Wireshark saves packets to a temporary file.
+> **[0:19](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980&t=19)** By default, [[Wireshark]] saves packets to a temporary file.
 >
 > **[0:24](https://www.linkedin.com/learning/wireshark-essential-training/challenge-recognize-the-wireshark-interface?u=76281980&t=24)** To save files using a ring buffer, select A, edit, B, go, C, capture or D, tools.
 >
@@ -1102,8 +1088,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Recognize the Wireshark interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980)
+#### [Solution: Recognize the Wireshark interface](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1111,7 +1096,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=6)** - [Narrator] All right, now let's check our work.
 >
-> **[0:10](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=10)** For question number one, by default, Wireshark saves packets to a temporary file.
+> **[0:10](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=10)** For question number one, by default, [[Wireshark]] saves packets to a temporary file.
 >
 > **[0:16](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=16)** To save files using a ring buffer, select C, capture.
 >
@@ -1127,7 +1112,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=44)** In frame 714, A represents the frame header.
 >
-> **[0:50](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=50)** B is not the frame header, but metadata about frame 714.
+> **[0:50](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=50)** B is not the frame header, but [[Metadata]] about frame 714.
 >
 > **[0:56](https://www.linkedin.com/learning/wireshark-essential-training/solution-recognize-the-wireshark-interface?u=76281980&t=56)** Good job!
 >
@@ -1145,8 +1130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the TCP-IP suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980)
+#### [Understanding the TCP-IP suite](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1144,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980&t=29)** At the network layer, the main players are IP and ICMP.
 >
-> **[0:34](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980&t=34)** IP or the Internet Protocol is the network layer protocol used for routing the data from the source to the destination.
+> **[0:34](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980&t=34)** IP or the Internet Protocol is the network layer protocol used for [[Routing]] the data from the source to the destination.
 >
 > **[0:42](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980&t=42)** IP is responsible for addressing and does not have any error reporting functions.
 >
@@ -1178,14 +1162,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Routing]] (2), application (1)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** tcp (7), icmp (3), udp (2), http (1), ftp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explaining Transmission Control Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980)
+#### [Explaining Transmission Control Protocol](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1182,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=24)** Here's the TCP header.
 >
-> **[0:27](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=27)** And now we'll go into Wireshark and take a look at those field values.
+> **[0:27](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=27)** And now we'll go into [[Wireshark]] and take a look at those field values.
 >
 > **[0:32](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=32)** If you'd like to follow along, we'll go to cloudshark.
 >
@@ -1215,7 +1198,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=58)** Let's just take a look at our encapsulation.
 >
-> **[1:01](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=61)** Frame 4 is simply metadata about that frame.
+> **[1:01](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=61)** Frame 4 is simply [[Metadata]] about that frame.
 >
 > **[1:04](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=64)** Here's the frame header, ethernet two, the network layer header IP, the transport layer header, TCP, and then the data HTTP.
 >
@@ -1355,7 +1338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Wireshark]] (7), next (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (7), [[Metadata]] (1)
 > **Env Vars:** tcp (16), http (5), osi (1), nic (1)
 > **UI Navigation:** go to (8), scroll down (1), scroll up (1)
 > **CLI Commands:** find (2)
@@ -1364,8 +1347,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing the TCP connection process
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/recognizing-the-tcp-connection-process?u=76281980)
+#### [Recognizing the TCP connection process](https://www.linkedin.com/learning/wireshark-essential-training/recognizing-the-tcp-connection-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,19 +1381,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** syn (3), fin (3), icmp (1), ack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing the TCP handshake and teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980)
+#### [Viewing the TCP handshake and teardown](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=1)** - [Instructor] So let's step through, the handshake and termination.
 >
-> **[0:05](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=5)** I'm here on CloudShark, and you can either follow along in CloudShark, or you can go to Export and download the file, and open it in Wireshark.
+> **[0:05](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=5)** I'm here on CloudShark, and you can either follow along in CloudShark, or you can go to Export and download the file, and open it in [[Wireshark]].
 >
 > **[0:14](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=14)** I've opened this capture in Wireshark, and it's almost a perfect example of a complete conversation.
 >
@@ -1419,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=26)** But let's take a look at the flow graph.
 >
-> **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=29)** We'll go to Statistics.
+> **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=29)** We'll go to [[Statistics]].
 >
 > **[0:31](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=31)** And we'll go to the Flow Graph.
 >
@@ -1479,7 +1459,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=165)** Meaning keep sending the data, even if it's not in order, I'll put it in the correct order.
 >
-> **[2:52](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=172)** Here we see timestamps and windows scaling.
+> **[2:52](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=172)** Here we see timestamps and [[Windows]] scaling.
 >
 > **[2:56](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=176)** Now keep in mind.
 >
@@ -1535,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Wireshark]] (2), [[Statistics]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (9), syn (4), ack (3), sack (2), fin (2)
 > **UI Navigation:** go to (5), scroll up (2), scroll down (1)
 > **Warnings:** keep in mind (2)
@@ -1544,8 +1524,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking down User Datagram Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980)
+#### [Breaking down User Datagram Protocol](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,7 +1538,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=20)** UDP doesn't have any ordering or reliability services, and there's no teardown.
 >
-> **[0:26](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=26)** UDP is a lightweight protocol that's great for time-sensitive applications such as DNS, Voice over IP, routing information protocol, or trivial file transfer protocol.
+> **[0:26](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=26)** UDP is a lightweight protocol that's great for time-sensitive applications such as DNS, Voice over IP, [[Routing]] information protocol, or trivial file transfer protocol.
 >
 > **[0:41](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=41)** Here we see the UDP Header.
 >
@@ -1575,7 +1554,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=71)** I'm at CloudShark, and if you'd like to follow along, you can download this file.
 >
-> **[1:16](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=76)** I've opened it up in Wireshark, and what I'll do up here is go to the Display filter and I'll type udp.
+> **[1:16](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=76)** I've opened it up in [[Wireshark]], and what I'll do up here is go to the Display filter and I'll type udp.
 >
 > **[1:25](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=85)** So there are my DNS packets, and what we'll do is just take a look at the User Datagram Protocol.
 >
@@ -1587,7 +1566,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=113)** So while I'm in here, let's take a look at some other things in Wireshark.
 >
-> **[1:58](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=118)** Let's go to Statistics.
+> **[1:58](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=118)** Let's go to [[Statistics]].
 >
 > **[1:59](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=119)** If we go to Statistics, you can see there are a lot of choices, and for more advanced training, we will get into those.
 >
@@ -1595,7 +1574,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=133)** Now, when you open this, this tells us a summary about this file.
 >
-> **[2:19](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=139)** Now, you can see the capture and what it knows about the hardware, the operating system.
+> **[2:19](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=139)** Now, you can see the capture and what it knows about the [[Hardware]], the operating system.
 >
 > **[2:23](https://www.linkedin.com/learning/wireshark-essential-training/breaking-down-user-datagram-protocol?u=76281980&t=143)** Again, what it knows, it will put in there.
 >
@@ -1653,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (5), [[Wireshark]] (4), data (2), dns (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Wireshark]] (4), [[Routing]] (1), [[Hardware]] (1)
 > **Env Vars:** udp (10), dns (2), osi (1)
 > **Definitions:** is a  (6), is an  (1)
 > **UI Navigation:** go to (3), double-click (1), right-click (1)
@@ -1661,8 +1640,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining IPv4
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980)
+#### [Outlining IPv4](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=5)** For this segment, we'll focus on IP version four.
 >
-> **[0:09](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=9)** The internet protocol is responsible for addressing and routing.
+> **[0:09](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=9)** The internet protocol is responsible for addressing and [[Routing]].
 >
 > **[0:14](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=14)** It's connectionless, meaning it's best effort.
 >
@@ -1684,7 +1662,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=38)** Let's take a look at an IP header.
 >
-> **[0:40](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=40)** I'm in Wireshark and I've expanded one of the frames, and we'll take a look at that header.
+> **[0:40](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=40)** I'm in [[Wireshark]] and I've expanded one of the frames, and we'll take a look at that header.
 >
 > **[0:46](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=46)** And on the right-hand side, you could follow along.
 >
@@ -1780,7 +1758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Routing]] (2), next (2), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Wireshark]] (1)
 > **Env Vars:** tcp (2), osi (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1789,14 +1767,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Dissecting IPv6
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980)
+#### [Dissecting IPv6](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=0)** - [Instructor] Internet Protocol Version 6 has a larger address space, a streamlined header, and eliminates the need for IGMP and ARP.
 >
-> **[0:11](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=11)** In this segment, we'll review the field values of the IPv6 header in Wireshark.
+> **[0:11](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=11)** In this segment, we'll review the field values of the IPv6 header in [[Wireshark]].
 >
 > **[0:19](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=19)** IPv6, like IPv4, resides at the Network Layer of the OSI model.
 >
@@ -1872,7 +1849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Wireshark]] (1), [[Security]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** igmp (2), arp (2), osi (1)
 > **Versions:** version 6 (2)
 > **UI Navigation:** go to (1)
@@ -1881,8 +1858,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comprehending ICMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980)
+#### [Comprehending ICMP](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,7 +1930,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=216)** It comes up black because it thinks it's an error, but I'll take that coloring off.
 >
-> **[3:40](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=220)** But what might be fun is let's go to the statistics and do a flow graph just to show you how it made its journey.
+> **[3:40](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=220)** But what might be fun is let's go to the [[Statistics]] and do a flow graph just to show you how it made its journey.
 >
 > **[3:48](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=228)** And you can see all of those as it's going from one hop to another, and then reporting back.
 >
@@ -1968,7 +1944,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=271)** ICMP is a powerful protocol, but we have to understand that it's also used in malicious ways.
 >
-> **[4:38](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=278)** For example, ICMP is used in reconnaissance by Kali Linux.
+> **[4:38](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=278)** For example, ICMP is used in reconnaissance by [[Kali Linux]].
 >
 > **[4:42](https://www.linkedin.com/learning/wireshark-essential-training/comprehending-icmp?u=76281980&t=282)** It could be used to do reconnaissance, to do a ping sweep, or to evade firewall rules.
 >
@@ -1986,7 +1962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Kali Linux]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Kali Linux]] (1)
 > **Env Vars:** icmp (20), osi (1), rfc (1), iana (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Analogies:** such as (3), for example (1)
@@ -1995,8 +1971,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering ICMPv6
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980)
+#### [Discovering ICMPv6](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2050,7 +2025,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980&t=177)** This is an NSSL stream or an HTTP stream, but we can do this.
 >
-> **[3:03](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980&t=183)** Let's go to statistics in flow graph.
+> **[3:03](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980&t=183)** Let's go to [[Statistics]] in flow graph.
 >
 > **[3:10](https://www.linkedin.com/learning/wireshark-essential-training/discovering-icmpv6?u=76281980&t=190)** You can open the flow graph and there you can see the test for reachability with the request and the replies.
 >
@@ -2080,7 +2055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Statistics]] (2), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Env Vars:** icmp (16), aarp (2), igmp (2), imp (1), icnp (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1)
 > **Definitions:** is a  (2), is an  (2)
@@ -2089,14 +2064,13 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Evaluating a pcap
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980)
+#### [Challenge: Evaluating a pcap](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980&t=6)** - [Instructor] Let's do a challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980&t=8)** First, you'll need to go to PacketLife and download and open a packet capture in Wireshark.
+> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980&t=8)** First, you'll need to go to PacketLife and download and open a packet capture in [[Wireshark]].
 >
 > **[0:17](https://www.linkedin.com/learning/wireshark-essential-training/challenge-evaluating-a-pcap?u=76281980&t=17)** You'll select this one, ipv4-smtp.
 >
@@ -2117,8 +2091,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Evaluating a pcap
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980)
+#### [Solution: Evaluating a pcap](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2128,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=8)** You'll want to have the instructions handy so that you can follow along.
 >
-> **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=13)** Now I have the packet capture open and the first question is click on statistics and protocol hierarchy.
+> **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=13)** Now I have the packet capture open and the first question is click on [[Statistics]] and protocol hierarchy.
 >
 > **[0:21](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=21)** Now we go to statistics and there's a lot of things that we can choose from, but what we want is protocol hierarchy.
 >
@@ -2270,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), next (3), application (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Env Vars:** tcp (7), udp (1), smtp (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** find (1), make (1)
@@ -2284,12 +2257,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dissecting DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980)
+#### [Dissecting DNS](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980&t=0)** - [Instructor] Domain Name System or DNS resides at the Application Layer of the OSI Model.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980&t=0)** - [Instructor] [[Domain Name System (DNS)|Domain Name System]] or DNS resides at the Application Layer of the OSI Model.
 >
 > **[0:07](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980&t=7)** DNS is an important protocol, as it maps a host name to an IP address.
 >
@@ -2413,7 +2385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (18), [[Domain Name System (DNS)|Domain name system]] (1), application (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (18), udp (3), osi (1), tcp (1)
 > **Definitions:** is a  (6), is an  (1), means that (1)
 > **Versions:** version 4 (3), version 6 (2)
@@ -2422,20 +2394,19 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), right-click (1)
 > **Analogies:** such as (1)
 
-#### Exploring DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980)
+#### [Exploring DHCP](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=0)** - [Narrator] Dynamic host configuration protocol works at the application layer of the OSI model.
 >
-> **[0:07](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=7)** DHCP dynamically assigns IP addresses on a local area network.
+> **[0:07](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=7)** DHCP dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=13)** DHCP uses UDP for transport, and the client will use port 68, and the server will use port 67.
 >
 > **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=22)** DHCP uses what we call the DORA process, discover, offer, request, and acknowledge.
 >
-> **[0:32](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=32)** Let's take a look at the DORA process in Wireshark.
+> **[0:32](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=32)** Let's take a look at the DORA process in [[Wireshark]].
 >
 > **[0:38](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=38)** I captured this traffic after first going into my command line and I issued an IP config release, and then I went back in and issued IP config renew.
 >
@@ -2535,7 +2506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), next (2), application (1), [[Wireshark]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Wireshark]] (1)
 > **Env Vars:** dhcp (8), dora (6), mac (2), osi (1), udp (1)
 > **Ports:** port 68 (1), port 67 (1)
 > **Versions:** 0.0.0 (1), 87.5 (1)
@@ -2544,8 +2515,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Following an FTP transaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/following-an-ftp-transaction?u=76281980)
+#### [Following an FTP transaction](https://www.linkedin.com/learning/wireshark-essential-training/following-an-ftp-transaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2643,7 +2613,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), next (1)
 > **Env Vars:** ftp (11), tcp (3), osi (1)
 > **Definitions:** is a  (4)
 > **Ports:** port 21 (1), port 20 (1)
@@ -2651,9 +2620,9 @@ created: 2026-05-02
 > **Versions:** 170.225.15 (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** such as (1)
+> **Speakers:** - [instructor] (1)
 
-#### Using HTTP
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980)
+#### [Using HTTP](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2675,11 +2644,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=67)** The data in the application layer header changes according to what's happening in the conversation, and whether it's from the client or from the server.
 >
-> **[1:17](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=77)** So with HTTP, you could possibly get the HTTP header information that includes the general header, request and response header or the entity header, and then within that, you'd have the HTTP body which holds the HTML code or the webpage so that it can rebuild that in your browser.
+> **[1:17](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=77)** So with HTTP, you could possibly get the HTTP header information that includes the general header, request and response header or the entity header, and then within that, you'd have the HTTP body which holds the [[HTML]] code or the webpage so that it can rebuild that in your browser.
 >
 > **[1:39](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=99)** I've opened up this packet capture and we can take a look at some HTTP traffic.
 >
-> **[1:45](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=105)** There's a lot of packets here, and one thing we can do is take a look at the conversations by going to statistics, and then conversations.
+> **[1:45](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=105)** There's a lot of packets here, and one thing we can do is take a look at the conversations by going to [[Statistics]], and then conversations.
 >
 > **[1:56](https://www.linkedin.com/learning/wireshark-essential-training/using-http?u=76281980&t=116)** Now once you open this, there's a lot of column headers.
 >
@@ -2761,7 +2730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), web (7), application (4), [[Statistics]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[HTML]] (1)
 > **Env Vars:** http (12), tcp (4), html (1), ngn (1), jpeg (1)
 > **UI Navigation:** select the (1), scroll down (1), go to (1)
 > **Analogies:** for example (2), picture (1)
@@ -2770,12 +2739,11 @@ created: 2026-05-02
 > **URLs:** [goatrodeocheese.com](https://goatrodeocheese.com) (1)
 > **Versions:** version 1 (1)
 
-#### Understand ARP
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980)
+#### [Understand ARP](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=0)** - [Instructor] On a local area network, the data link layer uses the MAC address of the destination machine rather than the IP address.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=0)** - [Instructor] On a [[Local Area Network (LAN)|local area network]], the data link layer uses the MAC address of the destination machine rather than the IP address.
 >
 > **[0:10](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=10)** Address Resolution Protocol resolves an IP address to a MAC address on a local area network.
 >
@@ -2789,7 +2757,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=51)** If you'd like to follow along, go to [packetlife.net](https://packetlife.net) and I selected ARP and this last one here ICMP across dot1Q.cap.
 >
-> **[1:02](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=62)** I've opened it up in Wireshark and there really aren't a lot of packets in this capture, but we'll just take a look at ARP.
+> **[1:02](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=62)** I've opened it up in [[Wireshark]] and there really aren't a lot of packets in this capture, but we'll just take a look at ARP.
 >
 > **[1:11](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=71)** We'll put a display filter in and you see there are a couple of types.
 >
@@ -2801,7 +2769,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=92)** Now, let's take a look at the request and then we'll drop this down.
 >
-> **[1:36](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=96)** And the hardware type is the type of data link type in use.
+> **[1:36](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=96)** And the [[Hardware]] type is the type of data link type in use.
 >
 > **[1:41](https://www.linkedin.com/learning/wireshark-essential-training/understand-arp?u=76281980&t=101)** And here we can see it's ethernet and we see the protocol type IP and the hardware size which is six bytes and that is the length of the hardware address and the protocol size is the length of the protocol address.
 >
@@ -2825,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (5), data (3), [[Hardware]] (3), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (5), [[Hardware]] (3), [[Wireshark]] (1)
 > **Env Vars:** arp (10), mac (7), osi (1), icmp (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** dot1q (1)
@@ -2834,8 +2802,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Examining a packet capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980)
+#### [Challenge: Examining a packet capture](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2843,7 +2810,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980&t=6)** - [Presenter] Let's do a challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980&t=8)** First, you'll need to obtain the, "Wireshark Essential Training Challenges and Links Document," and scroll down where you will see detailed instructions, which will look like this.
+> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980&t=8)** First, you'll need to obtain the, "[[Wireshark]] Essential Training Challenges and Links Document," and scroll down where you will see detailed instructions, which will look like this.
 >
 > **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/challenge-examining-a-packet-capture-24579236?u=76281980&t=22)** Now, in this challenge, you'll need to obtain two packet captures, and I provided you with the links.
 >
@@ -2861,8 +2828,7 @@ created: 2026-05-02
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (buoyant music) (1)
 
-#### Solution: Examining a packet capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980)
+#### [Solution: Examining a packet capture](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2890,7 +2856,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=57)** And we'll close that.
 >
-> **[0:59](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=59)** Next, you are to open the file in Wireshark.
+> **[0:59](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=59)** Next, you are to open the file in [[Wireshark]].
 >
 > **[1:03](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=63)** Well, you'll need to download it.
 >
@@ -2998,7 +2964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), dns (5), [[Wireshark]] (3), cloud (2), feature (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** dns (5), dhcp (5), udp (2), http (1), dora (1)
 > **UI Navigation:** go to (9), scroll down (2), open the (1), scroll up (1)
 > **Definitions:** is a  (3), means that (1)
@@ -3012,12 +2978,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Wireshark expert system
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980)
+#### [The Wireshark expert system](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980&t=0)** - [Instructor] Built within Wireshark is the expert system.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980&t=0)** - [Instructor] Built within [[Wireshark]] is the expert system.
 >
 > **[0:03](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980&t=3)** The expert system helps to alert the network administrator on possible issues once a capture's been made.
 >
@@ -3117,7 +3082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), data (2), next (1), dns (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** ack (2), dns (1), fin (1), syn (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -3125,12 +3090,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network latency issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980)
+#### [Network latency issues](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=0)** - [Instructor] Wireshark has many built-in tools to help the network administrator identify and troubleshoot network latency issues.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=0)** - [Instructor] [[Wireshark]] has many built-in tools to help the network administrator identify and troubleshoot network latency issues.
 >
 > **[0:09](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=9)** Tools that include the Expert system, Coloring rules, the Intelligent Scrollbar and the time values that are built into Wireshark to identify gaps in transmission.
 >
@@ -3194,7 +3158,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=249)** I'll have to find that Conversation.
 >
-> **[4:11](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=251)** We'll first go to Statistics and then Conversations and then I'll have to filter down to that Conversation.
+> **[4:11](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=251)** We'll first go to [[Statistics]] and then Conversations and then I'll have to filter down to that Conversation.
 >
 > **[4:19](https://www.linkedin.com/learning/wireshark-essential-training/network-latency-issues?u=76281980&t=259)** As you see here, 208 is the IP address.
 >
@@ -3220,7 +3184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Wireshark]] (3), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (1)
 > **UI Navigation:** go to (6)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
@@ -3229,8 +3193,7 @@ created: 2026-05-02
 > **Env Vars:** tcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subset, save, and export
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980)
+#### [Subset, save, and export](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3240,9 +3203,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=19)** Well I just want to make it a little smaller.
 >
-> **[0:21](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=21)** And we'll pretend in this case that the intrusion detection system set on alert, that someone was going to a website, and they downloaded something that somehow looks suspicious.
+> **[0:21](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=21)** And we'll pretend in this case that the [[Intrusion Detection]] system set on alert, that someone was going to a website, and they downloaded something that somehow looks suspicious.
 >
-> **[0:34](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=34)** So you pull off the file and you bring it into Wireshark, and since it was HTTP let's just go through and do a filter.
+> **[0:34](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=34)** So you pull off the file and you bring it into [[Wireshark]], and since it was HTTP let's just go through and do a filter.
 >
 > **[0:43](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=43)** We do would display filter by typing HTTP.
 >
@@ -3282,7 +3245,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=128)** So that I remember what it is I wanted to do.
 >
-> **[2:10](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=130)** I go to statistics and then the capture file properties.
+> **[2:10](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=130)** I go to [[Statistics]] and then the capture file properties.
 >
 > **[2:15](https://www.linkedin.com/learning/wireshark-essential-training/subset-save-and-export?u=76281980&t=135)** And this just gives you a summary of this file.
 >
@@ -3354,22 +3317,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), next (3), traffic (3), [[Intrusion Detection]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Intrusion Detection]] (1), [[Statistics]] (1)
 > **UI Navigation:** go to (7)
 > **Env Vars:** http (5), ids (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Using Cloudshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980)
+#### [Using Cloudshark](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=0)** - [Instructor] CloudShark is an online packet analysis tool that provides an interface similar to Wireshark.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=0)** - [Instructor] CloudShark is an online packet analysis tool that provides an interface similar to [[Wireshark]].
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=8)** In this segment, we'll evaluate CloudShark's built-in analysis tools, and discover ways the file can be evaluated online or downloaded and analyzed with Wireshark.
 >
-> **[0:21](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=21)** I'm here at QA Cafe, and I'll select Analysis tools, Personal Software as a Service.
+> **[0:21](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=21)** I'm here at QA Cafe, and I'll select Analysis tools, Personal [[SaaS|Software as a Service]].
 >
 > **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=29)** Now, once here, you can log into your account, or if you'd like to try CloudShark, scroll down, and you can sign up for a 30-day trial by completing this form.
 >
@@ -3393,7 +3355,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=91)** Let's talk about how you can use this feature.
 >
-> **[1:35](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=95)** For example, you're at the office, and clients are complaining about slow response times, so you grab a capture and then upload the file, which I have here.
+> **[1:35](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=95)** For example, you're at the [[Microsoft Office|office]], and clients are complaining about slow response times, so you grab a capture and then upload the file, which I have here.
 >
 > **[1:47](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=107)** Now, once you upload it, you can make it public, and then you can share it with your team, and then you can all examine the file together.
 >
@@ -3405,7 +3367,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=131)** Now, this tells us where the endpoints are located, and you can see that there seems to be a lot of different countries where there's endpoints.
 >
-> **[2:22](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=142)** Now, if I want to see the total bytes exchanged, we'll scroll down here to see the statistics, and here, we can see a number of different countries, and a lot of packets that have been exchanged changed.
+> **[2:22](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=142)** Now, if I want to see the total bytes exchanged, we'll scroll down here to see the [[Statistics]], and here, we can see a number of different countries, and a lot of packets that have been exchanged changed.
 >
 > **[2:35](https://www.linkedin.com/learning/wireshark-essential-training/using-cloudshark-24577301?u=76281980&t=155)** Now I'll close that.
 >
@@ -3433,7 +3395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), [[SaaS|Software as a service]] (1), feature (1), [[Microsoft Office|Office]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[SaaS|Software as a service]] (1), [[Microsoft Office|Office]] (1), [[Statistics]] (1)
 > **UI Navigation:** scroll down (2), go to (2), open the (1)
 > **Analogies:** similar to (2), for example (2)
 > **CLI Commands:** make (1)
@@ -3447,8 +3409,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3456,13 +3417,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=2)** In this course, I begin with a review of traffic capture and the benefits of traffic analysis.
 >
-> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=8)** I compared Wireshark Legacy with Wireshark Next Generation and how to install it on either a PC or a Mac.
+> **[0:08](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=8)** I compared [[Wireshark]] Legacy with Wireshark Next Generation and how to install it on either a PC or a Mac.
 >
 > **[0:17](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=17)** I then moved into deep packet analysis of common protocols, such as TCP, UDP, IP, and FTP, and then summarized with working with packet captures, including Wireshark's expert system, detecting network latency issues, how to subset traffic, save and export, along with sharing captures using Cloudshark.
 >
 > **[0:41](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=41)** If you're interested in learning more, please check out the IT and Security segment of the library, where we add new courses all the time.
 >
-> **[0:50](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=50)** It's well worth your time to check out any course in the Ethical Hacking series and take a look at my CCNA Security series.
+> **[0:50](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=50)** It's well worth your time to check out any course in the [[Ethical Hacking]] series and take a look at my CCNA Security series.
 >
 > **[0:59](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980&t=59)** If you want to learn more about packet analysis, check out my courses on Wireshark and visit my homepage for a complete list of all courses.
 >
@@ -3472,7 +3433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), traffic (3), [[Security]] (2), next (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Ethical Hacking]] (1)
 > **Env Vars:** tcp (1), udp (1), ftp (1), ccna (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)

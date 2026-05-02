@@ -89,33 +89,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn IP addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
+#### [Learn IP addressing](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=0)** - [Instructor] Most any time you send traffic out to the internet, to that shared printer in your office at work, or when you check the camera built in to your home's doorbell, you're sending traffic to an internet protocol, or IP address.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=0)** - [Instructor] Most any time you send traffic out to the internet, to that shared printer in your [[Microsoft Office|office]] at work, or when you check the camera built in to your home's doorbell, you're sending traffic to an internet protocol, or IP address.
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=13)** That's our focus in this course.
 >
-> **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=15)** And we'll cover both the theory of IP addressing, and the behind the scenes math that we do with those IP addresses when we're designing networks.
+> **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=15)** And we'll cover both the theory of [[IP Addressing]], and the behind the scenes math that we do with those IP addresses when we're designing networks.
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=24)** Hi, my name is Kevin Wallace, I'm a double CCIE, or Cisco Certified Internet Work Expert, and I've been teaching IT courses for over two decades.
 >
-> **[0:34](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=34)** So join me in my LinkedIn course covering Cisco networking foundations.
+> **[0:34](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980&t=34)** So join me in my [[LinkedIn]] course covering [[Cisco Networking]] foundations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (1), [[IP Addressing]] (1), [[LinkedIn]] (1), [[Cisco Networking]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[IP Addressing]] (1), [[LinkedIn]] (1), [[Cisco Networking]] (1)
 > **Env Vars:** ccie (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you’ll learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/what-you-ll-learn?u=76281980)
+#### [What you’ll learn](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/what-you-ll-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/what-you-ll-learn?u=76281980&t=0)** - [Instructor] In this course, you're going to be learning about IP addressing, and we've got two types of IP addresses.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/what-you-ll-learn?u=76281980&t=0)** - [Instructor] In this course, you're going to be learning about [[IP Addressing]], and we've got two types of IP addresses.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/what-you-ll-learn?u=76281980&t=6)** We have IPv4 addresses and IPv6 addresses.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (3), next (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (3)
 > **Env Vars:** pdf (3)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -154,8 +152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Converting from binary to decimal
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
+#### [Converting from binary to decimal](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** version 4 (2), 10.1.2 (1)
 > **Definitions:** we call this (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -219,8 +215,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting from decimal to binary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-decimal-to-binary?u=76281980)
+#### [Converting from decimal to binary](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-decimal-to-binary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,13 +325,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary practice exercise #1
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/binary-practice-exercise-1?u=76281980)
+#### [Binary practice exercise #1](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/binary-practice-exercise-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,8 +365,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Binary practice exercise #2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/binary-practice-exercise-2?u=76281980)
+#### [Binary practice exercise #2](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/binary-practice-exercise-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,15 +463,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### IPv4 address format
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980)
+#### [IPv4 address format](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980&t=168)** This is sometimes called prefix notation or CIDR notation, C-I-D-R.
 >
-> **[2:54](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980&t=174)** That stands for classless inter-domain routing.
+> **[2:54](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980&t=174)** That stands for classless inter-domain [[Routing]].
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-format?u=76281980&t=176)** Or sometimes we simply call this slash notation.
 >
@@ -584,8 +574,7 @@ created: 2026-05-02
 > **Env Vars:** cidr (2)
 > **Speakers:** - [instructor] (1)
 
-#### IPv4 address classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-classes?u=76281980)
+#### [IPv4 address classes](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-address-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +650,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Versions:** version 4 (5), 255.0.0 (1), 255.255.0 (1), 127.0.0 (1), 255.255.255 (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Cross-References:** later in (1), next chapter (1)
@@ -669,8 +657,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public vs. private IPv4 addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980)
+#### [Public vs. private IPv4 addresses](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,9 +675,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=32)** However, we just said we don't have enough of these to go around.
 >
-> **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=35)** So if I'm putting up a new office building and it's going to have a thousand clients inside of it, how do I give all those clients a unique IPv4 address if we don't have enough addresses?
+> **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=35)** So if I'm putting up a new [[Microsoft Office|office]] building and it's going to have a thousand clients inside of it, how do I give all those clients a unique IPv4 address if we don't have enough addresses?
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=45)** Well, what we can do is turn to some private IP addressing.
+> **[0:45](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=45)** Well, what we can do is turn to some private [[IP Addressing]].
 >
 > **[0:49](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=49)** It's called RFC 1918 Addressing.
 >
@@ -710,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=94)** It's called an APIPA address, automatic private IP addressing.
 >
-> **[1:38](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=98)** You might see this when you put a Microsoft Windows computer on a network.
+> **[1:38](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=98)** You might see this when you put a [[Microsoft]] [[Windows]] computer on a network.
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=101)** You boot it up.
 >
@@ -732,7 +719,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=140)** First, let's consider a Class A RFC 1918 private IP address.
 >
-> **[2:26](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=146)** If the IP address starts with a 10 followed by anything, we're dealing with a private IP address, and you might see this used in many companies because we're dealing with a class A address here with over 16 million available hosts, so this is going to accommodate just about any company's network for internal numbering and internal routing.
+> **[2:26](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=146)** If the IP address starts with a 10 followed by anything, we're dealing with a private IP address, and you might see this used in many companies because we're dealing with a class A address here with over 16 million available hosts, so this is going to accommodate just about any company's network for internal numbering and internal [[Routing]].
 >
 > **[2:46](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=166)** We're just not able to route it on the public internet.
 >
@@ -770,8 +757,7 @@ created: 2026-05-02
 > **Definitions:** in other words (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv4 unicast, broadcast, and multicast
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-unicast-broadcast-and-multicast?u=76281980)
+#### [IPv4 unicast, broadcast, and multicast](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv4-unicast-broadcast-and-multicast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,8 +843,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for subnetting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/the-need-for-subnetting?u=76281980)
+#### [The need for subnetting](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/the-need-for-subnetting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,8 +962,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Calculating available subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-available-subnets?u=76281980)
+#### [Calculating available subnets](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-available-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,13 +1026,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **Versions:** 255.255.255 (3), 192.168.1 (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating available hosts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-available-hosts?u=76281980)
+#### [Calculating available hosts](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-available-hosts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,15 +1096,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), traffic (2)
 > **Versions:** 255.255.255 (2), 192.168.1 (1)
 > **Definitions:** in other words (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnetting practice exercise #1
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-1?u=76281980)
+#### [Subnetting practice exercise #1](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,15 +1178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), next (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Versions:** 172.20.0 (1), 255.255.252 (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnetting practice exercise #2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-2?u=76281980)
+#### [Subnetting practice exercise #2](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1244,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3)
 > **Versions:** 172.20.0 (1), 255.255.255 (1)
 > **Definitions:** in other words (2)
 > **Prerequisites:** required to (2)
@@ -1274,8 +1251,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (jazz music) (1)
 
-#### Calculating usable ranges of IPv4 addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-usable-ranges-of-ipv4-addresses?u=76281980)
+#### [Calculating usable ranges of IPv4 addresses](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/calculating-usable-ranges-of-ipv4-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,14 +1343,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Versions:** 172.25.0 (9), 172.25.1 (5), 2.0 (1), 172.25.255 (1), 255.255.255 (1)
 > **Definitions:** in other words (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnetting practice exercise #3
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-3?u=76281980)
+#### [Subnetting practice exercise #3](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/subnetting-practice-exercise-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1470,7 +1444,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 192.168.0 (9), 255.255.255 (2), 0.128 (1), 0.192 (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous video (2)
@@ -1482,8 +1455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hexadecimal numbering
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
+#### [Hexadecimal numbering](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1539,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** bc01 (1)
@@ -1575,8 +1546,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 address format
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-address-format?u=76281980)
+#### [IPv6 address format](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-address-format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,15 +1632,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** later in (1), we discussed (1), previous video (1), next video (1)
 > **Definitions:** refers to (2), is called (1)
 > **Env Vars:** mac (1), mtu (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shortening an IPv6 address
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/shortening-an-ipv6-address?u=76281980)
+#### [Shortening an IPv6 address](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/shortening-an-ipv6-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,15 +1714,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Versions:** version 6 (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 address shortening exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-address-shortening-exercise?u=76281980)
+#### [IPv6 address shortening exercise](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-address-shortening-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,14 +1772,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### IPv6 global unicast
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980)
+#### [IPv6 global unicast](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980&t=33)** First, the first three bits in the 128 bit address must be 001.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980&t=40)** After that, we apply a global routing prefix, which a numbering authority would assign you or your company that would make your network unique as it was routed around the internet.
+> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980&t=40)** After that, we apply a global [[Routing]] prefix, which a numbering authority would assign you or your company that would make your network unique as it was routed around the internet.
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-global-unicast?u=76281980&t=51)** And within your network, you could assign your own subnet ID if you wanted to break up that global routing prefix into subnets within your company, as an example.
 >
@@ -1889,8 +1853,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 multicast
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-multicast?u=76281980)
+#### [IPv6 multicast](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-multicast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1919,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), next (2), node (1)
 > **Env Vars:** ff02 (3), ff04 (1), ff00 (1)
 > **Definitions:** is an  (1), means that (1), known as (1), is called (1)
 > **CLI Commands:** node (1)
@@ -1965,8 +1927,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 link local
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980)
+#### [IPv6 link local](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,9 +1973,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=128)** When a client is communicating with a router, for example, to say, hey, what network am I on, the router's going to respond using its link local address.
 >
-> **[2:17](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=137)** Later in this series, we'll talk about routing protocols.
+> **[2:17](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=137)** Later in this series, we'll talk about [[Routing Protocols]].
 >
-> **[2:20](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=140)** Oftentimes routing protocols will send routing updates to their neighboring routers link local address.
+> **[2:20](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=140)** Oftentimes routing protocols will send [[Routing]] updates to their neighboring routers link local address.
 >
 > **[2:27](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-link-local?u=76281980&t=147)** So these addresses are required.
 >
@@ -2026,15 +1987,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), traffic (2), [[Routing Protocols]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing Protocols]] (2), [[Routing]] (1)
 > **Env Vars:** fe80 (4), apipa (2), eui (1)
 > **Cross-References:** later in (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 unique local
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-unique-local?u=76281980)
+#### [IPv6 unique local](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-unique-local?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,15 +2030,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** rfc (2), fd00 (1), fc00 (1)
 > **Versions:** version 6 (2), version 4 (2)
 > **Documentation:** rfc (2)
 > **Definitions:** is an  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 loopback
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-loopback?u=76281980)
+#### [IPv6 loopback](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-loopback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2100,7 +2058,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), web (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Versions:** 127.0.0 (1)
@@ -2108,8 +2065,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 unspecified
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-unspecified?u=76281980)
+#### [IPv6 unspecified](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-unspecified?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,15 +2103,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2)
 > **Env Vars:** pc1 (5), ff02 (2)
 > **Definitions:** in other words (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 solicited-node multicast
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-solicited-node-multicast?u=76281980)
+#### [IPv6 solicited-node multicast](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-solicited-node-multicast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2193,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10)
 > **Env Vars:** mac (6), pc1 (6), ff02 (5), ff00 (3), arp (3)
 > **CLI Commands:** node (10), make (2)
 > **Definitions:** is called (1), is a  (1)
@@ -2248,8 +2201,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### EUI-64 address
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980)
+#### [EUI-64 address](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2331,15 +2283,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mac (7), eui (1), iana (1), fe80 (1)
 > **Versions:** version 6 (3)
 > **Cross-References:** later in (1), we discussed (1), earlier in (1)
 > **Definitions:** is called (1), stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 autoconfiguration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980)
+#### [IPv6 autoconfiguration](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,15 +2327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2)
 > **Env Vars:** dns (2), dhcp (1), eui (1)
 > **Definitions:** in other words (3)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 traffic flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980)
+#### [IPv6 traffic flows](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2435,13 +2383,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980&t=143)** Specifically, PC1 says I want to get traffic from 3003::1.
 >
-> **[2:29](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980&t=149)** And within the internet service provider's router, it determines which server is closest to it and it's going to use a routing protocol that we'll mention in another course in the series called BGP, the border gateway protocol, but that's going to allow the customer's internet service provider to select the closest destination, even though multiple destinations with identical addresses exist.
+> **[2:29](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980&t=149)** And within the internet service provider's router, it determines which server is closest to it and it's going to use a [[Routing]] protocol that we'll mention in another course in the series called BGP, the border gateway protocol, but that's going to allow the customer's internet service provider to select the closest destination, even though multiple destinations with identical addresses exist.
 >
 > **[2:54](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-traffic-flows?u=76281980&t=174)** And to sum up, we said that unicast was one-to-one communication, multicast was one-to-many communication, but here we see that anycast is one-to-nearest communication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** pc1 (2), ff04 (1), pc3 (1), bgp (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
@@ -2455,8 +2403,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2478,17 +2425,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=40)** So if you need to review parts of this course, that is completely okay.
 >
-> **[0:43](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=43)** In fact, that's one of the great advantages of LinkedIn Learning.
+> **[0:43](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=43)** In fact, that's one of the great advantages of [[LinkedIn]] Learning.
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=46)** You can go back and re-watch whatever you'd like to review.
 >
-> **[0:49](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=49)** I want you to go at your pace and take your time learning IP addressing, be patient with yourself, you can do this, and when you're ready I'll be here waiting to guide you through your next CCNA foundational topics.
+> **[0:49](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=49)** I want you to go at your pace and take your time learning [[IP Addressing]], be patient with yourself, you can do this, and when you're ready I'll be here waiting to guide you through your next CCNA foundational topics.
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980&t=61)** I'll see you then.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Env Vars:** ccna (3)
 > **Cross-References:** we discussed (2)
 > **Speakers:** - [instructor] (1)

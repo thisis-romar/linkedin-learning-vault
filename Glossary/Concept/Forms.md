@@ -51,15 +51,15 @@ created: 2026-05-02
 > 18. [[Autocad 2022 Essential Training]] — 10 mentions
 > 19. [[Cybersecurity Foundations]] — 9 mentions
 > 20. [[Accessible Layout for the Web]] — 9 mentions
-> 21. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 9 mentions
-> 22. [[Angular- Creating and Hosting a Full-Stack Site]] — 9 mentions
-> 23. [[Database Foundations- Data Structures]] — 9 mentions
-> 24. [[Data Engineering- dbt for SQL]] — 9 mentions
-> 25. [[Django Essential Training]] — 9 mentions
-> 26. [[It Service Management Foundations Tools]] — 9 mentions
-> 27. [[Computer Science Principles- Programming]] — 9 mentions
-> 28. [[Rpa Ai And Cognitive Tech For Leaders]] — 8 mentions
-> 29. [[Cybersecurity with Cloud Computing]] — 8 mentions
+> 21. [[Cybersecurity with Cloud Computing]] — 9 mentions
+> 22. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 9 mentions
+> 23. [[Angular- Creating and Hosting a Full-Stack Site]] — 9 mentions
+> 24. [[Database Foundations- Data Structures]] — 9 mentions
+> 25. [[Data Engineering- dbt for SQL]] — 9 mentions
+> 26. [[Django Essential Training]] — 9 mentions
+> 27. [[It Service Management Foundations Tools]] — 9 mentions
+> 28. [[Computer Science Principles- Programming]] — 9 mentions
+> 29. [[Rpa Ai And Cognitive Tech For Leaders]] — 8 mentions
 > 30. [[Data Science Foundations- Fundamentals]] — 8 mentions
 > 31. [[Interaction Design- Design Patterns as Building Blocks]] — 8 mentions
 > 32. [[ASP.NET Core- Razor Pages]] — 8 mentions

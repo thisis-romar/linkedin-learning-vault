@@ -116,14 +116,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become conversant in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
+#### [Become conversant in JavaScript](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=0)** - Back in the old days of the web, HTML was the only language available and you had to code static sites page by page.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=0)** - Back in the old days of the web, [[HTML]] was the only language available and you had to code static sites page by page.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=7)** But now with JavaScript, the web is extremely programmable and because of its popularity, JavaScript can be used to program much more than just the web.
+> **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=7)** But now with [[JavaScript]], the web is extremely programmable and because of its popularity, JavaScript can be used to program much more than just the web.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=17)** This course will walk you through the basics of JavaScript syntax, with the goal of becoming conversant in the language.
 >
@@ -133,18 +132,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=38)** Just thinking about that fact makes me want to take a nap.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=41)** If you're curious about JavaScript, I think you are, whether you're a total beginner or someone making the jump from another language, welcome to this LinkedIn Learning course.
+> **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=41)** If you're curious about JavaScript, I think you are, whether you're a total beginner or someone making the jump from another language, welcome to this [[LinkedIn]] Learning course.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980&t=51)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), web (3), [[HTML]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - back (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,9 +150,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=3)** We don't have a lot of prerequisites here.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=5)** We'll be approaching JavaScript from a web perspective for the most part, so mainly, I assume that you've used the internet for a while and that you have a pretty solid grasp of how a web browser works, more or less basic computer literacy for the current time.
+> **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=5)** We'll be approaching [[JavaScript]] from a web perspective for the most part, so mainly, I assume that you've used the internet for a while and that you have a pretty solid grasp of how a web browser works, more or less basic computer literacy for the current time.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=20)** There will be a couple of very small mentions of HTML, but prior experience with it is not necessary.
+> **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=20)** There will be a couple of very small mentions of [[HTML]], but prior experience with it is not necessary.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/what-you-should-know?u=76281980&t=26)** Beyond that, you don't need much.
 >
@@ -162,36 +160,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[JavaScript]] (1), [[HTML]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files and Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980)
+#### [Exercise files and Codespaces](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=0)** - [Tutor] The exercise files for this course include everything you'll need to follow along, because this is a course about learning how to read JavaScript, as well as write it, the files are mostly in the form of transcripts of what you see, as well as some examples for copying and pasting.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=0)** - [Tutor] The exercise files for this course include everything you'll need to follow along, because this is a course about learning how to read [[JavaScript]], as well as write it, the files are mostly in the form of transcripts of what you see, as well as some examples for copying and pasting.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=16)** There are folders for each chapter, and each video containing anything you'll need to try what you've seen.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=22)** You can open these and read through them at your own pace.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=25)** The files are provided in a GitHub repository, which gives you many options for how to use them.
+> **[0:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=25)** The files are provided in a [[GitHub]] repository, which gives you many options for how to use them.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=33)** You can download a ZIP archive of the files to your machine, unzip it, and open them in your favorite text editor, we'll discuss editors shortly, and if you've used GitHub before, you should feel free to fork the code to your own account if you like.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=47)** However, there's a new and very powerful way to interact with this courses files that allows you to follow along exactly, using everything I'm using in exactly the same way.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=56)** GitHub Codespaces.
+> **[0:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=56)** GitHub [[Codespaces]].
 >
-> **[0:59](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=59)** Codespaces are virtual machines running on GitHub servers that give you Visual Studio Code, a powerful text editor with the same plugins I'm using, and an installation of Node.js, a JavaScript environment that runs in Visual Studio codes built in Terminal, so you can do everything in the same browser window.
+> **[0:59](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=59)** Codespaces are [[Virtual Machines]] running on GitHub servers that give you Visual Studio Code, a powerful text editor with the same plugins I'm using, and an installation of [[Node.js]], a JavaScript environment that runs in Visual Studio codes built in Terminal, so you can do everything in the same browser window.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=76)** In order to use codespaces, you'll need a free GitHub account From the course page On LinkedIn Learning, you'll see a button that will take you to the exercise files on GitHub, labeled GitHub Codespaces here, and it will allow you to create a codespace on Main.
+> **[1:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=76)** In order to use codespaces, you'll need a free GitHub account From the course page On [[LinkedIn]] Learning, you'll see a button that will take you to the exercise files on GitHub, labeled GitHub Codespaces here, and it will allow you to create a codespace on Main.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=93)** This means you're creating your own individual codespace from the code on the LinkedIn Learning GitHub account, Main is the name of the branch of the code you're using.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=103)** The version control software under the hood is called Git, and branches are used to track different revisions to code over time.
+> **[1:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=103)** The [[Version Control]] software under the hood is called [[Git]], and branches are used to track different revisions to code over time.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/exercise-files-and-codespaces?u=76281980&t=110)** In this course, there's only one that's called Main, but in other courses, you might see many.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (9), [[LinkedIn]] (5), [[JavaScript]] (3), node (3)
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (9), [[LinkedIn]] (5), [[JavaScript]] (3), [[Virtual Machines]] (1)
 > **Tools:** github (9), terminal (6), visual studio (3)
 > **CLI Commands:** node (4), unzip (1), git (1), make (1)
 > **Exercise Files:** exercise files (5)
@@ -255,12 +252,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Syntax: Learning to read and write
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
+#### [Syntax: Learning to read and write](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980&t=0)** - [Instructor] In the next several chapters of this course, we'll be going over the syntax of JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980&t=0)** - [Instructor] In the next several chapters of this course, we'll be going over the syntax of [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980&t=4)** This is not going to be a complete coverage of every single element of JavaScript syntax because the goal here is to allow you to get conversant in JavaScript.
 >
@@ -294,13 +290,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Versions of JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980)
+#### [Versions of JavaScript](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,13 +303,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=4)** Bugs are fixed, new features are added.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=7)** In JavaScript, the feature editions are what people tend to get excited about, which isn't a surprise really.
+> **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=7)** In [[JavaScript]], the feature editions are what people tend to get excited about, which isn't a surprise really.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=12)** Let's talk briefly about the versions of JavaScript that you'll hear about.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=16)** Though JavaScript is the language's most commonly used name, the body that maintains its standards is ECMA International, so versions are named accordingly.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=24)** ECMAScript 5 or ES5 is the version that runs on all modern web browsers really since 2012 or so.
+> **[0:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=24)** [[ECMAScript]] 5 or ES5 is the version that runs on all modern web browsers really since 2012 or so.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/versions-of-javascript?u=76281980&t=31)** There are older versions, but this one is a general baseline.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), [[ECMAScript]] (3), web (2), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[ECMAScript]] (3)
 > **Env Vars:** es5 (4), es6 (3), ecma (1)
 > **Definitions:** is a  (1), known as (1), is called (1)
 > **CLI Commands:** make (2)
@@ -350,18 +345,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Places to tinker
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980)
+#### [Places to tinker](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=0)** - [Instructor] When you're beginning to work with JavaScript, it's important to start trying it out as soon as possible.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=0)** - [Instructor] When you're beginning to work with [[JavaScript]], it's important to start trying it out as soon as possible.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=5)** Fortunately, there are lots of easy ways for doing this.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=7)** In this video, we're going to look at a couple of the easiest.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=10)** One is the JavaScript console built into any web browser and the other is the console of Node.js, accessible in this course via the GitHub code space.
+> **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=10)** One is the JavaScript console built into any web browser and the other is the console of [[Node.js]], accessible in this course via the [[GitHub]] code space.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=20)** We'll start with web browsers, since everyone has one, and as far as I know, every single web browser on a desktop computer has a JavaScript console.
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=90)** Note that in Firefox there's also a browser console, but that's different.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=97)** In Microsoft Edge, the menu item is under tools, developer, JavaScript console, just like in Chrome.
+> **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=97)** In [[Microsoft]] Edge, the menu item is under tools, developer, JavaScript console, just like in Chrome.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=106)** And finally, in Safari, you'll need to turn on the develop menu via the advanced preferences.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), node (7), web (5), [[Node.js]] (3), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Node.js]] (3), [[GitHub]] (3), [[Microsoft]] (1)
 > **CLI Commands:** node (10), make (1)
 > **Tools:** github (3), firefox (2), safari (2), command line (1), terminal (1)
 > **UI Navigation:** switch to (2), open the (1), in the menu (1)
@@ -444,20 +438,19 @@ created: 2026-05-02
 > **Env Vars:** repl (2)
 > **Analogies:** just like (1)
 
-#### Your friend the text editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980)
+#### [Your friend the text editor](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=0)** - In this video, I'm going to extol the virtues of a good text editor giving you some reasons why you might actually want to have one in your toolkit whatever your level of experience.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=9)** If you're a web designer coming to JavaScript, you might have an editor you like for HTML and CSS and that editor will probably be great for JavaScript as well.
+> **[0:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=9)** If you're a web designer coming to [[JavaScript]], you might have an editor you like for [[HTML]] and CSS and that editor will probably be great for JavaScript as well.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=18)** I've been teaching new developers for years and I'm continually impressed with how many high quality free editors are available.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=26)** We'll mostly talk about the features that are noticeable when you're working on very small projects with a small number of files and not a lot of code.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=32)** Editors can of course work with projects including thousands of files but they're great for small things you'll be looking at when you start as well, and it's worth noting that using GitHub code spaces for this course means that you'll have a nice editor without any further effort.
+> **[0:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=32)** Editors can of course work with projects including thousands of files but they're great for small things you'll be looking at when you start as well, and it's worth noting that using [[GitHub]] code spaces for this course means that you'll have a nice editor without any further effort.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=46)** We'll be looking at editors for other projects that you might work on in the future.
 >
@@ -503,9 +496,9 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=181)** I said there are a lot of great options.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=183)** So let's look at a few all of which are available for MacOS, windows, and Linux.
+> **[3:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=183)** So let's look at a few all of which are available for MacOS, [[Windows]], and [[Linux]].
 >
-> **[3:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=188)** Visual Studio Code is from Microsoft.
+> **[3:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=188)** Visual Studio Code is from [[Microsoft]].
 >
 > **[3:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=190)** It's open source and free and particularly JavaScript friendly.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=231)** And of course, it's also great for JavaScript.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=234)** If you're wondering what I use in my daily work, I mostly work in PhpStorm, an IDE that supports JavaScript and Php equally well, which is important for me.
+> **[3:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=234)** If you're wondering what I use in my daily work, I mostly work in PhpStorm, an IDE that supports JavaScript and [[PHP]] equally well, which is important for me.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=244)** It's a little heavier to work with than these other editors.
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (12), web (3), css (2), [[GitHub]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), [[GitHub]] (2), [[HTML]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ide (3), css (2), html (1)
 > **Tools:** github (2), sublime (2), visual studio (1)
 > **CLI Commands:** make (1), php (1)
@@ -552,8 +545,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Additional helpful resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980)
+#### [Additional helpful resources](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=17)** First, a few books, many of which can be read online for free.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=22)** "Eloquent JavaScript" by Marijn Haverbeke is available online for free.
+> **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=22)** "Eloquent [[JavaScript]]" by Marijn Haverbeke is available online for free.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=26)** It's in its third edition as of this recording and a modern classic.
 >
@@ -585,13 +577,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=64)** Every book I've read has helped me to reach a better understanding.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=67)** As of this recording, he's working on the second edition of the books, and you can read both the first and second editions for free here on his GitHub site.
+> **[1:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=67)** As of this recording, he's working on the second edition of the books, and you can read both the first and second editions for free here on his [[GitHub]] site.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=75)** He also has a series of excellent JavaScript video courses.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=79)** Now, a few other online resources.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=82)** I think the Mozilla Developer Network has the finest online reference material on JavaScript and other web technologies like HTML, CSS, and so on.
+> **[1:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=82)** I think the Mozilla Developer Network has the finest online reference material on JavaScript and other web technologies like [[HTML]], CSS, and so on.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/additional-helpful-resources?u=76281980&t=91)** There's good example code for almost everything you might want to know about.
 >
@@ -607,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), web (2), [[GitHub]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[GitHub]] (1), [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** find (1)
 > **URLs:** [quirksmode.org](https://quirksmode.org) (1)
@@ -620,14 +612,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Declaring and assigning variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
+#### [Declaring and assigning variables](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980&t=0)** - [Instructor] In this video, we're going to introduce variables and how to make them.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980&t=4)** I have the chorus code space loaded up here and we're going to open a terminal to serve as our JavaScript playground.
+> **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980&t=4)** I have the chorus code space loaded up here and we're going to open a terminal to serve as our [[JavaScript]] playground.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980&t=11)** So in the Menu, I'm going to go to Terminal and then start a New Terminal and from there I'm going to run Node.
 >
@@ -773,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (12), hit (3), node (2), data (2), prompt (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12)
 > **Code Identifiers:** whereami (4), packagedimensions (1), taxrate (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** is a  (3), is called (2)
@@ -782,8 +773,7 @@ created: 2026-05-02
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980)
+#### [Strings](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=45)** So, if it's a string of 1, 2 instead of 12, that's a string.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=52)** These are two different things as far as JavaScript is concerned.
+> **[0:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=52)** These are two different things as far as [[JavaScript]] is concerned.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=56)** You can make strings using these double quote characters.
 >
@@ -827,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=82)** Sometimes you're going to need to write a string that will have a quotation mark inside it.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=87)** This comes up a lot actually, if you're working with HTML in JavaScript.
+> **[1:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=87)** This comes up a lot actually, if you're working with [[HTML]] in JavaScript.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/strings?u=76281980&t=91)** So if you're writing a piece of HTML like this, this would be an anchor tag.
 >
@@ -877,19 +867,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), [[HTML]] (2), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2)
 > **Definitions:** is a  (5), basically means (1)
 > **CLI Commands:** make (4), node (1)
 > **Env Vars:** html (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### String properties and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/string-properties-and-methods?u=76281980)
+#### [String properties and methods](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/string-properties-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/string-properties-and-methods?u=76281980&t=0)** - [Instructor] In this video, we're going to discover some things that JavaScript knows about strings and some tools we can use with them.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/string-properties-and-methods?u=76281980&t=0)** - [Instructor] In this video, we're going to discover some things that [[JavaScript]] knows about strings and some tools we can use with them.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/string-properties-and-methods?u=76281980&t=7)** Along with the data that we've put in quote marks, strings have a few other tricks up their sleeve.
 >
@@ -963,19 +952,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), hit (3), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Definitions:** is a  (5)
 > **Code Identifiers:** mystring (3)
 > **Exercise Files:** template (3)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/numbers?u=76281980)
+#### [Numbers](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/numbers?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about another of the basic data types in JavaScript, the number, and we're also going to talk a little bit about math.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/numbers?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about another of the basic data types in [[JavaScript]], the number, and we're also going to talk a little bit about math.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/numbers?u=76281980&t=8)** You know what a number is?
 >
@@ -1055,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (9), [[Programming]] (2), data (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (9)
 > **Definitions:** is a  (1), basically means (1), stands for (1), is called (1)
 > **Code Identifiers:** mynumber (2)
 > **Versions:** 12.0 (1), 12.9 (1)
@@ -1064,8 +1052,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
 
-#### Booleans for what is true
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980)
+#### [Booleans for what is true](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980&t=17)** Boolean is a data type that can capture true or false for us.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980&t=22)** In JavaScript, a boolean is either true, spelled this way, or false, spelled this way.
+> **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980&t=22)** In [[JavaScript]], a boolean is either true, spelled this way, or false, spelled this way.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/booleans-for-what-is-true?u=76281980&t=29)** They need to be spelled exactly like this, all lowercase, and of course, spelled correctly in order for JavaScript to know that you mean true and false.
 >
@@ -1151,13 +1138,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), data (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variable mutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980)
+#### [Variable mutability](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980&t=36)** A constant is an immutable variable.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980&t=39)** In modern JavaScript, the keyword const can do this.
+> **[0:39](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980&t=39)** In modern [[JavaScript]], the keyword const can do this.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/variable-mutability?u=76281980&t=44)** If I'm going to write some code to simulate a bakery, I could set a few variables for common quantities like dozen, half dozen and bakers dozen.
 >
@@ -1209,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** var (3)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1222,12 +1208,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
+#### [Objects](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=0)** - [Instructor] So far, we've looked at some of the simplest types of data JavaScript knows about.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=0)** - [Instructor] So far, we've looked at some of the simplest types of data [[JavaScript]] knows about.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=5)** In this video, we're going to look at objects which are a little more complex but completely foundational and super useful.
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=148)** It's safest to use quote marks.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=149)** So you don't accidentally use a JavaScript reserved word for a key, but because it's fewer keystrokes not to use them you'll see that a lot too.
+> **[2:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=149)** So you don't accidentally use a JavaScript reserved [[Microsoft Word|word]] for a key, but because it's fewer keystrokes not to use them you'll see that a lot too.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=158)** So anyway, we'll put in the name of the key which I'll use label in this case, then a colon, and then the value that that should contain, we'll just use the string value here.
 >
@@ -1317,22 +1302,21 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=241)** And so now I can type the variable name and get the whole thing printed out as I've done here.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=246)** Objects are very simple to create, but you can make some very sophisticated data structures using nothing but these objects.
+> **[4:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980&t=246)** Objects are very simple to create, but you can make some very sophisticated [[Data Structures]] using nothing but these objects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), data (7), node (2), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Microsoft Word|Word]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (2), node (2)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** similar to (1), it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using objects for data modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980)
+#### [Using objects for data modeling](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=0)** - [Instructor] In this video we'll look at some objects that are a little more substantial to get a sense of how we can use them to do data modeling.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=0)** - [Instructor] In this video we'll look at some objects that are a little more substantial to get a sense of how we can use them to do [[Data Modeling]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=8)** I'm here in the code editor looking at a couple of objects.
 >
@@ -1376,7 +1360,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=100)** This is something you can expect to do often where you create objects that have a similar structure but different data contained inside.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=107)** With this idea, you're going to start to edge into the territory of object-oriented programming, but we'll talk about that just a little bit later.
+> **[1:47](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=107)** With this idea, you're going to start to edge into the territory of [[Object-Oriented Programming (OOP)|object-oriented programming]], but we'll talk about that just a little bit later.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/using-objects-for-data-modeling?u=76281980&t=115)** These animal objects map onto things in the real world but you can make objects of anything you need, concrete or abstract.
 >
@@ -1390,15 +1374,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** commonname (1), calltype (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980)
+#### [Manipulating objects](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,9 +1445,9 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=170)** Another way I could do this without having to use the square braces notation would be to phrase my keys differently.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=176)** So in this case, if I wanted to say where it lives, I could use camel case notation, where the first letter is lowercase and each subsequent letter of each word that's jammed together is uppercase.
+> **[2:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=176)** So in this case, if I wanted to say where it lives, I could use camel case notation, where the first letter is lowercase and each subsequent letter of each [[Microsoft Word|word]] that's jammed together is uppercase.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=189)** This isn't required by any means, it's just a common way of writing variables and properties in JavaScript.
+> **[3:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=189)** This isn't required by any means, it's just a common way of writing variables and properties in [[JavaScript]].
 >
 > **[3:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-objects?u=76281980&t=197)** And again, I can set this to in a tree.
 >
@@ -1490,19 +1473,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3), node (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jargon: References
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980)
+#### [Jargon: References](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=0)** - [Instructor] When working with JavaScript objects, there's an important concept called references.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=0)** - [Instructor] When working with [[JavaScript]] objects, there's an important concept called references.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=5)** Objects are references to particular locations in the computer's memory and that impacts your ability to work with them in different contexts.
 >
@@ -1558,13 +1540,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=187)** This is called the spread operator.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=189)** Those three dots are called the spread operator in ECMAScript 2015, and it basically means, spread out all the data from this object, in this case into a new copy.
+> **[3:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=189)** Those three dots are called the spread operator in [[ECMAScript]] 2015, and it basically means, spread out all the data from this object, in this case into a new copy.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=200)** These two lines are basically equivalent.
 >
 > **[3:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=203)** These three dots are used in other ways in JavaScript as well, which is a bit confusing at first, but you'll get used to it with time, experience, and probably many trips to your favorite search engine.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=213)** Finally, there's this method which uses the built-in JSON object and we're taking that animal object, turning it into a JSON representation that's a string, and then parsing it again into a new object from that original JSON.
+> **[3:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=213)** Finally, there's this method which uses the built-in [[JSON]] object and we're taking that animal object, turning it into a JSON representation that's a string, and then parsing it again into a new object from that original JSON.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-references?u=76281980&t=232)** JSON, if you haven't heard of it before, stands for JavaScript Object Notation and it's a way to represent data in a way that looks like JavaScript, but is very portable and represented as plain text.
 >
@@ -1582,14 +1564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (5), data (4), node (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (5), [[ECMAScript]] (1)
 > **Definitions:** is a  (3), is an  (1), is called (1), basically means (1), stands for (1)
 > **CLI Commands:** make (4), node (1)
 > **Env Vars:** json (5)
 > **Speakers:** - [instructor] (1)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,7 +1606,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=86)** There are keys, they're just not being displayed because this is an array.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=91)** Under the hood, an array in JavaScript is actually an object that gets special treatment.
+> **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=91)** Under the hood, an array in [[JavaScript]] is actually an object that gets special treatment.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=97)** This is not the case in every programming language.
 >
@@ -1649,7 +1630,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=161)** And so I can start to type the video chapter name and that brings it up for me.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=168)** I'll scroll down to myList and I'll just copy the rest of this expression down here.
+> **[2:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=168)** I'll scroll down to myList and I'll just copy the [[Representational State Transfer (REST)|rest]] of this expression down here.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arrays?u=76281980&t=177)** So we have some numbers, some strings, a couple of Booleans.
 >
@@ -1715,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (3), [[Programming]] (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mylist (3), myarray (1), macos (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1724,8 +1705,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980)
+#### [Manipulating arrays](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1873,13 +1853,13 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980&t=436)** The length always refers to the number of slots in the array, not whether the slots have something meaningful in them.
 >
-> **[7:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980&t=443)** For more on arrays, you can check out the Mozilla JavaScript documentation for a full list of what's available.
+> **[7:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980&t=443)** For more on arrays, you can check out the Mozilla [[JavaScript]] documentation for a full list of what's available.
 >
 > **[7:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/manipulating-arrays?u=76281980&t=449)** But you've now had a taste of how to manipulate arrays, how to read what's in them, add to, and remove from them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), next (2), [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (3), node (2), make (1)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
 > **Env Vars:** url (2)
@@ -1888,8 +1868,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Readability: Whitespace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980)
+#### [Readability: Whitespace](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1886,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=30)** So what we want to do is add a little whitespace, just a few spaces here and there.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=35)** That whitespace is generally ignored by JavaScript, but it does make the code much easier to read.
+> **[0:35](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=35)** That whitespace is generally ignored by [[JavaScript]], but it does make the code much easier to read.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=41)** Now you can go totally crazy, adding a whole bunch of space in between all of these pieces.
 >
@@ -1941,7 +1920,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=118)** As you can see, the built-in code checker gets very angry when I have that extra space in there.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=126)** Now, the way you set up your whitespace is something that programmers will, for lack of a better word, fight over.
+> **[2:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=126)** Now, the way you set up your whitespace is something that programmers will, for lack of a better [[Microsoft Word|word]], fight over.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-whitespace?u=76281980&t=132)** There are elements of personal preference or if you're working on a team, there may be a coding standard everyone is expected to follow to make sure that everybody can read each other's code well and that the results are nice and uniform.
 >
@@ -1961,7 +1940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), node (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Definitions:** in other words (1), is an  (1)
@@ -1969,8 +1948,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Readability: Comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980)
+#### [Readability: Comments](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,7 +1956,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=7)** The most important function for comments is documentation, that is, adding pieces of code that don't execute, but can be read by other human beings or by yourself to understand what's going on in your program.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=20)** These come in two styles in JavaScript, line comments and block comments.
+> **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=20)** These come in two styles in [[JavaScript]], line comments and block comments.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=25)** The first is the line comment.
 >
@@ -2008,7 +1986,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=91)** My text editor here makes it really obvious what's contained in the comment thanks to syntax highlighting.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=97)** If I remove this ending asterisk, and scroll down a little bit, you can see that the entire rest of the file ends up becoming a comment, almost.
+> **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=97)** If I remove this ending asterisk, and scroll down a little bit, you can see that the entire [[Representational State Transfer (REST)|rest]] of the file ends up becoming a comment, almost.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/readability-comments?u=76281980&t=105)** You can see a little semicolon down here, which we'll get to in a second.
 >
@@ -2064,7 +2042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), [[Debugging]] (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), node (1)
 > **Code Identifiers:** jquery (2)
 > **Tools:** terminal (2)
@@ -2073,16 +2051,15 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980)
+#### [Regular expressions](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=0)** - [Instructor] In this lesson, we're going to take a look at regular expressions, which are a way of searching text for patterns.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=6)** When you're working with text like strings and JavaScript, but also if you're working with long runs of text in prose, there may be times when you want to find a particular something, but maybe not an exact something.
+> **[0:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=6)** When you're working with text like strings and [[JavaScript]], but also if you're working with long runs of text in prose, there may be times when you want to find a particular something, but maybe not an exact something.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=19)** Maybe you can describe it with a pattern that it should follow, like two digits followed by any number of letters, or any word that starts with A and ends with S.
+> **[0:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=19)** Maybe you can describe it with a pattern that it should follow, like two digits followed by any number of letters, or any [[Microsoft Word|word]] that starts with A and ends with S.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/regular-expressions?u=76281980&t=28)** A regular expression is a way to describe something that you're searching for with an abstract pattern.
 >
@@ -2194,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JavaScript]] (3), data (1), node (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JavaScript]] (3)
 > **CLI Commands:** find (3), node (1), make (1)
 > **Analogies:** just like (1), it's like (1)
 > **Definitions:** is a  (1)
@@ -2205,8 +2182,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
+#### [Simple comparisons](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,7 +2230,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=128)** These kind of comparisons are all over the place in most programs.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=132)** You might be asking, is this page's URL about dot HTML or is this button that was just clicked the main menu button?
+> **[2:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=132)** You might be asking, is this page's URL about dot [[HTML]] or is this button that was just clicked the main menu button?
 >
 > **[2:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=139)** Checking whether something is equal to something else is a comparison you'll just be doing a lot.
 >
@@ -2290,7 +2266,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=243)** You can look at the equality operators section of the operators page on the Mozilla developer network for more information on this.
 >
-> **[4:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=251)** JavaScript also has relational operators, which are straight out of your math class.
+> **[4:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=251)** [[JavaScript]] also has relational operators, which are straight out of your math class.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980&t=256)** So for example, we could ask is one less than two?
 >
@@ -2334,7 +2310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (1), html (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2343,8 +2319,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 
-#### Arithmetic operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980)
+#### [Arithmetic operators](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,7 +2459,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980&t=384)** The type of data you use them on can yield different results.
 >
-> **[6:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980&t=387)** This is particularly important in a language like JavaScript that doesn't care what data you put in the variables.
+> **[6:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980&t=387)** This is particularly important in a language like [[JavaScript]] that doesn't care what data you put in the variables.
 >
 > **[6:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arithmetic-operators?u=76281980&t=393)** Plus also works on strings.
 >
@@ -2524,7 +2499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Search]] (2), data (2), express (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** cat (5), find (2), make (2)
 > **Definitions:** is a  (4), known as (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -2533,12 +2508,11 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/logical-operators?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/logical-operators?u=76281980&t=0)** - [Instructor] In this video, we're going to introduce some of JavaScript's logical operators.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/logical-operators?u=76281980&t=0)** - [Instructor] In this video, we're going to introduce some of [[JavaScript]]'s logical operators.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/logical-operators?u=76281980&t=4)** There are many, but we'll look at the three most common, the logical and, or, and not, also known as conjunction, disjunction, and negation, if you're fancy.
 >
@@ -2688,15 +2662,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), next (3)
+> **Frameworks & Libraries:** [[JavaScript]] (10)
 > **Definitions:** is a  (6), known as (1), is an  (1), in other words (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (1), coming up (1)
 > **Tools:** notion (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conditionals: If
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980)
+#### [Conditionals: If](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2712,7 +2685,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980&t=24)** What we're going to do first is assign a variable based on a prompt for input from the user.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980&t=30)** To run these examples, we're going to open a new browser tab and open a JavaScript console.
+> **[0:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980&t=30)** To run these examples, we're going to open a new browser tab and open a [[JavaScript]] console.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-if?u=76281980&t=36)** I'm using Chrome and I have a new tab here just on the about blank page.
 >
@@ -2902,19 +2875,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), prompt (4), web (3), next (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** yes (9), maybe (5), cookie (2)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditionals: Switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980)
+#### [Conditionals: Switch](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at another way of doing conditional branching in JavaScript: the switch statement.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at another way of doing conditional branching in [[JavaScript]]: the switch statement.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=7)** It's similar to if and else statements in results, but it looks different and acts differently at times.
 >
@@ -2936,7 +2908,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=71)** So as I said, each of these is called a case block.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=74)** You literally use the word case followed by a value and a colon.
+> **[1:14](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=74)** You literally use the [[Microsoft Word|word]] case followed by a value and a colon.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/conditionals-switch?u=76281980&t=79)** The colon can have spaces before it or not.
 >
@@ -3002,7 +2974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), next (2), web (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** similar to (1), just like (1)
 > **Env Vars:** yes (1)
@@ -3010,12 +2982,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terse ifs: One-liners
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980)
+#### [Terse ifs: One-liners](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=0)** - [Instructor] In this video, we're going to look at a few of the forms in which if statements will be made shorter.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=0)** - [Instructor] In this video, we're going to look at a few of the [[Forms]] in which if statements will be made shorter.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=6)** You may write these in your own code and you will certainly see them if you start looking at other people's code.
 >
@@ -3075,7 +3046,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=183)** Here there's a concept of truthy and falsey.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=187)** All values in JavaScript can be considered truthy or falsey for this purpose.
+> **[3:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=187)** All values in [[JavaScript]] can be considered truthy or falsey for this purpose.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-one-liners?u=76281980&t=191)** Generally speaking, if the variable has something in it, it's probably truthy and empty values are falsey.
 >
@@ -3127,14 +3098,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Forms]] (1), node (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Forms]] (1)
 > **CLI Commands:** make (3), node (1), find (1)
 > **Code Identifiers:** errormsg (5)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Terse ifs: Ternaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-ternaries?u=76281980)
+#### [Terse ifs: Ternaries](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/terse-ifs-ternaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3210,18 +3180,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (11), make (1), find (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type checking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980)
+#### [Type checking](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=0)** - [Instructor] At this point, we're now aware of many data types in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=0)** - [Instructor] At this point, we're now aware of many data types in [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=4)** We know about numbers, strings, booleans, objects, arrays, and so forth.
 >
@@ -3241,7 +3209,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=41)** Just put 12 in there.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=43)** If I decide later that I want to change thing to a string, in this case, we'll write out the word twelve to avoid a little confusion, it's fine if I do that.
+> **[0:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=43)** If I decide later that I want to change thing to a string, in this case, we'll write out the [[Microsoft Word|word]] twelve to avoid a little confusion, it's fine if I do that.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/type-checking?u=76281980&t=53)** JavaScript doesn't care at all.
 >
@@ -3375,7 +3343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), data (7), [[Microsoft Word|Word]] (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Microsoft Word|Word]] (4)
 > **Definitions:** is an  (4), is a  (2), in other words (1)
 > **Code Identifiers:** hasownproperty (2), somethinglater (1), nothingsilly (1)
 > **Documentation:** the documentation (2)
@@ -3389,8 +3357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### For loops: Sequential
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
+#### [For loops: Sequential](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3410,7 +3377,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=35)** It looks like this.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=36)** You write the word for, and then in some parentheses you'll put three statements.
+> **[0:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=36)** You write the [[Microsoft Word|word]] for, and then in some parentheses you'll put three statements.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=43)** First, you initialize some sort of variable, which is usually referred to as the loops counter or index.
 >
@@ -3540,9 +3507,9 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=343)** We have this array of page names, and we're going to write a piece of code that will look through every item in the array, and tell us whether the one we're looking at matches the actual page title of the page we're on.
 >
-> **[5:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=354)** To do this on a real webpage in a web browser, we would be accessing the document variable web browsers provide via something called the document object model or dom.
+> **[5:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=354)** To do this on a real webpage in a web browser, we would be accessing the document variable web browsers provide via something called the [[Document Object Model (DOM)|document object model]] or dom.
 >
-> **[6:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=365)** Which is the interface a web browser provides JavaScript developers for interacting with what's on the page.
+> **[6:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=365)** Which is the interface a web browser provides [[JavaScript]] developers for interacting with what's on the page.
 >
 > **[6:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=370)** This document object has a property called title, which is the contents of the title tag on that page.
 >
@@ -3578,7 +3545,7 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=449)** To actually try this out, we're going to need an actual page.
 >
-> **[7:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=453)** We can do this here in GitHub Code Spaces by opening the file, which is called sandbox.html.
+> **[7:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=453)** We can do this here in [[GitHub]] Code Spaces by opening the file, which is called sandbox.[[HTML]].
 >
 > **[7:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980&t=458)** And then using the Go Live function.
 >
@@ -3660,7 +3627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), web (4), [[JavaScript]] (4), next (2), node (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), [[Microsoft Word|Word]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[GitHub]] (1)
 > **Definitions:** is called (3), is a  (3)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Tools:** terminal (1), github (1)
@@ -3669,8 +3636,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **UI Navigation:** open the (1)
 
-#### For loops: Enumerative
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980)
+#### [For loops: Enumerative](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3678,7 +3644,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=6)** This one is used on arrays or objects.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=8)** It can take various forms and while useful, you do need to pay attention when using this tool.
+> **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=8)** It can take various [[Forms]] and while useful, you do need to pay attention when using this tool.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=14)** We'll look first at iterating over the items in an array.
 >
@@ -3692,7 +3658,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=36)** This is what it looks like.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=38)** I have the word "for" followed by parenthesis and then the expression inside is "var", in this case, you could also use "let" and then I choose whatever variable name I want.
+> **[0:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=38)** I have the [[Microsoft Word|word]] "for" followed by parenthesis and then the expression inside is "var", in this case, you could also use "let" and then I choose whatever variable name I want.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=49)** I'm using "p" in this case, which is short for pageName, from "pageNames".
 >
@@ -3706,7 +3672,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=82)** With an array, the keys are numbers, so I'm expecting "p" to get set to a number each time for as many of these items as there are.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=91)** A caveat, the order of the keys is not guaranteed by the JavaScript spec.
+> **[1:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=91)** A caveat, the order of the keys is not guaranteed by the [[JavaScript]] spec.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-enumerative?u=76281980&t=97)** In other words, "p" is not guaranteed to start at zero and proceed upward the way it would with a Sequential for loop.
 >
@@ -3812,7 +3778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), [[Forms]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** in other words (2), is a  (2), short for (1), is an  (1), means that (1)
 > **Code Identifiers:** pagenames (3), hasownproperty (2), pagename (1)
 > **CLI Commands:** node (2)
@@ -3821,14 +3787,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set and Map: Newer loopable data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980)
+#### [Set and Map: Newer loopable data types](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=0)** - [Instructor] In the last video, we looked at arrays and objects as data types that can be used for looping.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=5)** At this point, I want to pause briefly to introduce a couple other data types that have been added to JavaScript more recently which can store data in a similar way but act differently in ways that impact loops.
+> **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=5)** At this point, I want to pause briefly to introduce a couple other data types that have been added to [[JavaScript]] more recently which can store data in a similar way but act differently in ways that impact loops.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=17)** Set and map.
 >
@@ -3836,7 +3801,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=22)** To create one, we use the "new" keyword, which gives you a new instance of the type of object it's given.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=29)** Using new to create a new instance is a common paradigm in object-oriented programming in many languages.
+> **[0:29](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=29)** Using new to create a new instance is a common paradigm in [[Object-Oriented Programming (OOP)|object-oriented programming]] in many languages.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/set-and-map-newer-loopable-data-types?u=76281980&t=35)** After the object name you include parentheses which can be empty to create an empty instance of the object, or some data can be included to pre-populate your object as long as those data are passed in the correct format for the type of object you're creating.
 >
@@ -3978,15 +3943,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (6), is called (2)
 > **Analogies:** for instance (1), just like (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4110,7 +4074,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980&t=431)** So now you've seen the while loop and its variation the do while loop.
 >
-> **[7:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980&t=436)** Yet another way of iterating in JavaScript.
+> **[7:16](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980&t=436)** Yet another way of iterating in [[JavaScript]].
 >
 > **[7:18](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/while-loops?u=76281980&t=438)** Use it with caution because sometimes you could end up creating an infinite loop without meaning to, but it's a great way to do some looping when you don't want to loop over a whole set of data, and you want to make sure your break condition is clear.
 >
@@ -4118,7 +4082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (2), hit (1), database (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** watch out (1), caution (1)
@@ -4129,8 +4093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
+#### [Basic functions](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4138,7 +4101,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=11)** We've been dancing around the idea of functions a bit in this course.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=14)** It's kind of difficult to talk about anything in JavaScript that's meaningful without touching on functions on some level.
+> **[0:14](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=14)** It's kind of difficult to talk about anything in [[JavaScript]] that's meaningful without touching on functions on some level.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=20)** So I'm glad we're getting to it properly now.
 >
@@ -4174,7 +4137,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=112)** Here's how we do that.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=113)** At its most basic, to define a function, you simply write the word function followed by a space and then the name of your function.
+> **[1:53](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=113)** At its most basic, to define a function, you simply write the [[Microsoft Word|word]] function followed by a space and then the name of your function.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980&t=123)** We'll call it speak here.
 >
@@ -4222,13 +4185,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), hit (3), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arguments and parameters in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980)
+#### [Arguments and parameters in functions](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4282,11 +4244,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=139)** using console.error, which we can use to report back error messages.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=143)** Depending on the JavaScript engine you're using, be it Node or a browser, using "error" instead of "log" here can provide different formatting from the message and it can also give you a trace back of where the error happened in your code, which can be helpful.
+> **[2:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=143)** Depending on the [[JavaScript]] engine you're using, be it Node or a browser, using "error" instead of "log" here can provide different formatting from the message and it can also give you a trace back of where the error happened in your code, which can be helpful.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=161)** And after the error, we return from the function, that means to finish and optionally deliver back some kind of result.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=169)** As used here, just return by itself, its purpose is to just stop the rest of the function from executing.
+> **[2:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=169)** As used here, just return by itself, its purpose is to just stop the [[Representational State Transfer (REST)|rest]] of the function from executing.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/arguments-and-parameters-in-functions?u=76281980&t=176)** Stopping when there's more code that could execute, is called shortcircuiting the function.
 >
@@ -4366,7 +4328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), node (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **Analogies:** for example (3)
@@ -4374,8 +4336,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### More on function arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980)
+#### [More on function arguments](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4419,7 +4380,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980&t=96)** And then the default value here in the parentheses, defining the arguments.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980&t=100)** In older versions of JavaScript, this functionality wasn't available and you'd have to check if the arguments were of an undefined type, which was pretty awkward.
+> **[1:40](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980&t=100)** In older versions of [[JavaScript]], this functionality wasn't available and you'd have to check if the arguments were of an undefined type, which was pretty awkward.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/more-on-function-arguments-24352685?u=76281980&t=108)** This is much better.
 >
@@ -4485,14 +4446,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Objects, references, and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980)
+#### [Objects, references, and functions](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4546,7 +4506,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=138)** Once we have that random number, we're just running a switch statement.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=142)** And for any of these five numbers that might be produced by that random number generator, we're changing the form of calvin into one of these five forms, tyrannosaurus, grey wolf, and so forth.
+> **[2:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=142)** And for any of these five numbers that might be produced by that random number generator, we're changing the form of calvin into one of these five [[Forms]], tyrannosaurus, grey wolf, and so forth.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=154)** This algorithm could be modeled differently and made shorter, but this way keeps everything pretty clear using what we've learned so far.
 >
@@ -4620,7 +4580,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=393)** Ones that look like this object literal up here.
 >
-> **[6:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=396)** This principle also applies to arrays which you may remember are really objects in JavaScript.
+> **[6:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=396)** This principle also applies to arrays which you may remember are really objects in [[JavaScript]].
 >
 > **[6:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects-references-and-functions?u=76281980&t=401)** So if you pass an array into a function and you modify that array, you're modifying the properties of the original object.
 >
@@ -4632,7 +4592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Debugging]] (1), [[Forms]] (1), [[Programming]] (1), node (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** bestfriend (3), newcalvin (3), newform (3), transmogrifycopy (2)
 > **Definitions:** is an  (3), is called (2), is a  (1)
 > **CLI Commands:** make (3), node (1)
@@ -4641,12 +4601,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 
-#### Functions are objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-are-objects?u=76281980)
+#### [Functions are objects](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-are-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-are-objects?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about how functions are first class citizens in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-are-objects?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about how functions are first class citizens in [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-are-objects?u=76281980&t=5)** Indeed, they are objects that have the power to be invoked.
 >
@@ -4750,7 +4709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), node (4), power (2), data (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7)
 > **Code Identifiers:** settimeout (10), speaksomething (6), sayhello (2)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2), in other words (1)
@@ -4759,14 +4718,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jargon: Scope in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980)
+#### [Jargon: Scope in JavaScript](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=0)** - [Instructor] It's time for a brief digression to deal with a little jargon you might hear about.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=4)** JavaScript is super popular and draws a lot of attention from developers of many skill and experience levels.
+> **[0:04](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=4)** [[JavaScript]] is super popular and draws a lot of attention from developers of many skill and experience levels.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=10)** So knowing where some jargon comes from can help you with possibly boring parties.
 >
@@ -4800,7 +4758,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=106)** This will keep the variable in local scope about which we'll talk more in the next video.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=112)** In ECMAScript 2015 and above, there are other keywords that can create locally-scoped variables, let and const.
+> **[1:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=112)** In [[ECMAScript]] 2015 and above, there are other keywords that can create locally-scoped variables, let and const.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-scope-in-javascript?u=76281980&t=119)** These also create local variables, but they can be scoped inside blocks of code, even down to something as small as an if statement.
 >
@@ -4814,14 +4772,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (1)
 > **Definitions:** refers to (2), means that (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions and scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980)
+#### [Functions and scope](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4859,7 +4816,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=119)** What we're seeing here is a difference in the scope of these two versions that are both called myNum.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=125)** Functions in JavaScript, along with everything else they do, create scope.
+> **[2:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=125)** Functions in [[JavaScript]], along with everything else they do, create scope.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=129)** This version of myNum inside the function is its own separate variable even though it uses the same name because that name only applies inside this function.
 >
@@ -4883,7 +4840,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=223)** So even after executing this randomizer function, that random number variable is undefined because it only exists inside the function.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=234)** Functions are one of the main delimiters of scope in JavaScript classically, but with ECMAScript 2015, the let and const keywords let you create variables that are scoped to any block of code, not just functions.
+> **[3:54](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=234)** Functions are one of the main delimiters of scope in JavaScript classically, but with [[ECMAScript]] 2015, the let and const keywords let you create variables that are scoped to any block of code, not just functions.
 >
 > **[4:06](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/functions-and-scope?u=76281980&t=246)** This little block illustrates that point.
 >
@@ -4909,21 +4866,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), web (2), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (1)
 > **Code Identifiers:** mynum (10), myresult (3), randomnumber (1), doubleit (1), oneisone (1)
 > **Definitions:** is called (2), is a  (1), known as (1)
 > **CLI Commands:** node (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing shorter functions with arrows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980)
+#### [Writing shorter functions with arrows](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=0)** - [Instructor] Writing functions doesn't take a ton of keystrokes, but in this video we'll explore arrow functions, which are part of ECMAScript 2015 that allow functions to be defined with fewer keystrokes.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=0)** - [Instructor] Writing functions doesn't take a ton of keystrokes, but in this video we'll explore arrow functions, which are part of [[ECMAScript]] 2015 that allow functions to be defined with fewer keystrokes.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=12)** JavaScript is very function-oriented.
+> **[0:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=12)** [[JavaScript]] is very function-oriented.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=15)** Indeed, you can use it in a formally functional way, which pretty much means everything would be done via functions.
 >
@@ -4939,7 +4895,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=41)** It's unnamed because we're assigning it to this variable and then we have our curly braces with the things we want it to do.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=47)** With an arrow function, we can save even having to type that word function.
+> **[0:47](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=47)** With an arrow function, we can save even having to type that [[Microsoft Word|word]] function.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/writing-shorter-functions-with-arrows?u=76281980&t=51)** We just leave it off.
 >
@@ -4987,21 +4943,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ECMAScript]] (1), [[JavaScript]] (1), functional (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ECMAScript]] (1), [[JavaScript]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Three little dots collect the rest
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980)
+#### [Three little dots collect the rest](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=0)** - [Instructor] In our efforts to become conversant in JavaScript, there's a bit of newer syntax that we might see that's going to appear a little bit mysterious.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=0)** - [Instructor] In our efforts to become conversant in [[JavaScript]], there's a bit of newer syntax that we might see that's going to appear a little bit mysterious.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=8)** It looks like an ellipses, but it's actually three dots typed as three periods or full stops in the parenthesis of a functions declaration.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=19)** This is called rest parameters, and the result is an array of arguments.
+> **[0:19](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=19)** This is called [[Representational State Transfer (REST)|rest]] parameters, and the result is an array of arguments.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/three-little-dots-collect-the-rest?u=76281980&t=24)** Previously, we've seen the array like object called arguments but this is an actual JavaScript array.
 >
@@ -5073,7 +5028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (3), node (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (3)
 > **Definitions:** is called (2), is an  (2)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** template (2)
@@ -5082,14 +5037,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Callback functions and looping
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980)
+#### [Callback functions and looping](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=0)** - [Instructor] In this video we're going to talk about callback functions.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=3)** We've seen these in use a couple of times but I want to give them a little specific attention because they're used a lot in modern JavaScript.
+> **[0:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=3)** We've seen these in use a couple of times but I want to give them a little specific attention because they're used a lot in modern [[JavaScript]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=10)** Callback function is a piece of jargon, meaning a function that's passed as an argument, into another function and executed in that function.
 >
@@ -5121,7 +5075,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=92)** As long as the callback has its arguments set up correctly, this works great.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=96)** The map method on arrays is used a lot in modern JavaScript frameworks like React for rendering lists of items in a user interface.
+> **[1:36](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=96)** The map method on arrays is used a lot in modern JavaScript frameworks like [[React.js|React]] for rendering lists of items in a user interface.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/callback-functions-and-looping?u=76281980&t=104)** So instead of taking a list of numbers and generating a new list of doubled numbers, you would take a list of some kind of data and turn it into a list of user interface components.
 >
@@ -5177,7 +5131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), node (1), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[React.js|React]] (1)
 > **Code Identifiers:** doubleit (4), mynumbers (3), mydoubles (1), foreach (1), addeventlistener (1)
 > **CLI Commands:** node (1), find (1), make (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -5189,12 +5143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asynchronous code: Waiting is the hardest part
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
+#### [Asynchronous code: Waiting is the hardest part](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=0)** - [Instructor] In the next several videos, we're going to talk about some pieces of JavaScript that are more on the advanced side, but that I think are important enough to introduce conceptually.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=0)** - [Instructor] In the next several videos, we're going to talk about some pieces of [[JavaScript]] that are more on the advanced side, but that I think are important enough to introduce conceptually.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=9)** In this video, we're going to talk about the term asynchronous.
 >
@@ -5230,7 +5183,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=120)** The main situation where we need to work asynchronously is when our code needs to load data from somewhere, usually somewhere on the internet.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=129)** This could be loading some inventory data from a store's back office, a photo from a catalog, anything where our code needs to make a request.
+> **[2:09](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=129)** This could be loading some inventory data from a store's back [[Microsoft Office|office]], a photo from a catalog, anything where our code needs to make a request.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980&t=137)** If you're using node, loading files from disk is an asynchronous operation by default because disks can be relatively slow.
 >
@@ -5242,15 +5195,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[JavaScript]] (2), [[Microsoft Office|Office]] (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is called (1), in other words (1), is an  (1)
 > **CLI Commands:** make (2), node (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Promises, async, and await
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980)
+#### [Promises, async, and await](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5260,7 +5212,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=13)** Here's some example code that uses these three approaches.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=17)** The first one uses the get method from the jQuery JavaScript library which is a function that takes a URL as its first parameter and a callback function as its second.
+> **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=17)** The first one uses the get method from the jQuery [[JavaScript]] library which is a function that takes a URL as its first parameter and a callback function as its second.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=27)** That callback gets the response from the server as its argument which you can then act on in the body of the function.
 >
@@ -5288,7 +5240,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=147)** But these days, most browsers support promises without any additional code needed.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=152)** And finally, there's async and await, which are part of ECMAScript 2017.
+> **[2:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=152)** And finally, there's async and await, which are part of [[ECMAScript]] 2017.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/promises-async-and-await?u=76281980&t=158)** These make working with promises even easier to read.
 >
@@ -5304,7 +5256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), api (2), data (2), [[Programming]] (1), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** api (2), url (1)
 > **Documentation:** specification (2)
@@ -5313,20 +5265,19 @@ created: 2026-05-02
 > **URLs:** [httpbin.org](httpbin.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object-oriented JavaScript: Prototypes and classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980)
+#### [Object-oriented JavaScript: Prototypes and classes](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=0)** - [Guide] In this video, we're going to talk briefly about object-oriented JavaScript because the term object-oriented appears often in programming, so it's good to have a bit of exposure to it and what it means for JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=0)** - [Guide] In this video, we're going to talk briefly about object-oriented [[JavaScript]] because the term object-oriented appears often in programming, so it's good to have a bit of exposure to it and what it means for JavaScript.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=12)** We've seen JavaScript objects already.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=15)** They're a generic way to bundle up data that belong together, but when we talk about object-oriented programming, we're talking about the same thing but particularly at a concept level: being able to reuse code by setting a template for a type of data, and then every time I need to use it, getting an instance of that template.
+> **[0:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=15)** They're a generic way to bundle up data that belong together, but when we talk about [[Object-Oriented Programming (OOP)|object-oriented programming]], we're talking about the same thing but particularly at a concept level: being able to reuse code by setting a template for a type of data, and then every time I need to use it, getting an instance of that template.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=34)** Different languages handle this concept in different ways, especially in the way objects can be related to one another.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=41)** Let's say I wanted to make a cake template, which has some features like the number of layers, the primary flavor like chocolate, vanilla, or lemon, and some functions like bake and cool; all the things that any cake is going to need.
+> **[0:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=41)** Let's say I wanted to make a cake template, which has some features like the number of layers, the primary flavor like chocolate, [[Vanilla]], or lemon, and some functions like bake and cool; all the things that any cake is going to need.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=58)** Anytime I want to make a cake programmatically, I could get an instance of my Cake object and be off to a good start just by writing code for whatever features are unique to that instance.
 >
@@ -5352,7 +5303,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=170)** Once it's defined this way, any cake or any chocolate cake would have access to that function and can invoke it the same way.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=178)** In ECMAScript 6, there's a way of building these objects that looks more like the syntax of other programming languages, particularly the class keyword.
+> **[2:58](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=178)** In [[ECMAScript]] 6, there's a way of building these objects that looks more like the syntax of other programming languages, particularly the class keyword.
 >
 > **[3:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/object-oriented-javascript-prototypes-and-classes?u=76281980&t=188)** Along with being a little less verbose looking, it allows developers with previous object-oriented experience to feel more comfortable in JavaScript.
 >
@@ -5364,14 +5315,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), data (3), [[Programming]] (2), generic (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Vanilla]] (1), [[ECMAScript]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Definitions:** is called (1)
 > **Speakers:** - [guide] (1)
 
-#### Jargon: Strong vs. loosely typed
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980)
+#### [Jargon: Strong vs. loosely typed](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5379,11 +5329,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=8)** This thankfully does not refer to how hard you hammer on the keyboard when writing your code.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=13)** JavaScript is loosely typed and I want to give you a little information on what that means and why at some point you might care.
+> **[0:13](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=13)** [[JavaScript]] is loosely typed and I want to give you a little information on what that means and why at some point you might care.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=20)** I'm bringing up loose versus strong typing because it comes up with variables.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=25)** In JavaScript, you've seen that we can create a variable, assign it a number, and then turn right around and assign it a word, a string later.
+> **[0:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=25)** In JavaScript, you've seen that we can create a variable, assign it a number, and then turn right around and assign it a [[Microsoft Word|word]], a string later.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/jargon-strong-vs-loosely-typed?u=76281980&t=34)** Being able to reuse variables however you want makes JavaScript very flexible.
 >
@@ -5409,18 +5359,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), [[Programming]] (1), [[Microsoft Word|Word]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[Microsoft Word|Word]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modern JavaScript tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980)
+#### [Modern JavaScript tooling](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about some of the popular tools in the JavaScript ecosystem that help with various common tasks.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about some of the popular tools in the [[JavaScript]] ecosystem that help with various common tasks.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=7)** When you're just starting out, you don't really need any of this stuff, but if you want to get into JavaScript professionally at some point, I want you to know about these tools so you can start exploring them in more detail.
 >
@@ -5456,7 +5405,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=113)** They have plugins that can handle lots of other tasks like removing comments and white space from code so it takes up less space and can be loaded faster and tons more.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=123)** If you start using a JavaScript library like React or Vue, you'll almost certainly start using one of these tools.
+> **[2:03](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=123)** If you start using a JavaScript library like [[React.js|React]] or [[Vue.js|Vue]], you'll almost certainly start using one of these tools.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=131)** There are also tools called Package Managers for managing the installation of JavaScript libraries.
 >
@@ -5468,15 +5417,15 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=152)** For something small, that's still a lot to download and deal with manually.
 >
-> **[2:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=157)** To help with this, there exists NPM and Yarn which handle downloading JavaScript libraries and packages, making sure to install everything you need in a standard folder structure.
+> **[2:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=157)** To help with this, there exists [[npm]] and Yarn which handle downloading JavaScript libraries and packages, making sure to install everything you need in a standard folder structure.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=169)** Webpack, Rollup, and Vite are all aware of those standards as well, making dynamic importing of files installed this way very easy.
 >
-> **[2:57](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=177)** Learning NPM, the Node Package Manager, and Learning Package Management with Yarn are both courses that can help you a lot more with these topics.
+> **[2:57](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=177)** Learning NPM, the Node Package Manager, and Learning [[Package Management]] with Yarn are both courses that can help you a lot more with these topics.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=187)** One other kind of tool that's used all the time is a transpiler or compiler.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=191)** Babel is a transpiler that's wildly popular for converting ES6 and other more modern versions of JavaScript into ECMAScript 5, and TypeScript has its own compiler to convert it into vanilla JavaScript.
+> **[3:11](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=191)** Babel is a transpiler that's wildly popular for converting ES6 and other more modern versions of JavaScript into [[ECMAScript]] 5, and TypeScript has its own compiler to convert it into [[Vanilla]] JavaScript.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/modern-javascript-tooling?u=76281980&t=205)** Either of these can be integrated with Webpack or Rollup or Vite, giving you a one-stop shop for building your finalized JavaScript when working on a larger project.
 >
@@ -5488,7 +5437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (15), [[npm]] (2), web (1), teams (1), open-source (1)
+> **Frameworks & Libraries:** [[JavaScript]] (15), [[npm]] (2), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[Package Management]] (1)
 > **CLI Commands:** npm (2), yarn (2), node (1)
 > **Env Vars:** npm (2), es6 (1)
 > **Documentation:** specification (2), spec (1)
@@ -5497,12 +5446,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Responsible JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980)
+#### [Responsible JavaScript](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=0)** - In this video, we're going to discuss responsible JavaScript use.
+> **[0:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=0)** - In this video, we're going to discuss responsible [[JavaScript]] use.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=5)** I think one of the first rules of JavaScript is to try not to use it.
 >
@@ -5510,7 +5458,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=10)** Depending on what you're trying to accomplish, there may be another tool that satisfies the need.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=15)** If you're trying to animate things on the web, for example, there are ways to do many kinds of animation entirely with cascading style sheets, CSS.
+> **[0:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=15)** If you're trying to animate things on the web, for example, there are ways to do many kinds of animation entirely with [[Cascading Style Sheets (CSS)|cascading style sheets]], CSS.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=23)** Sometimes with just a tiny bit of JavaScript to make them go.
 >
@@ -5518,9 +5466,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=35)** The courses, CSS: Animation and CSS: Transforms and Transitions can tell you a lot more about this.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=42)** Even HTML is pretty powerful on its own.
+> **[0:42](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=42)** Even [[HTML]] is pretty powerful on its own.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=45)** There are a lot of elements to make web forms, dialogue boxes, time and date pickers, sliders, and more.
+> **[0:45](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=45)** There are a lot of elements to make web [[Forms]], dialogue boxes, time and date pickers, sliders, and more.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=52)** These aren't necessarily glamorous, but they're useful and don't require JavaScript to work.
 >
@@ -5544,21 +5492,21 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=122)** Websites can be defaced, site visitors can have their personal information revealed or stolen, and more.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=128)** You can find out more about XSS in the course is [[Cybersecurity Foundations]]: Application Security and [[Programming Foundations- Web Security]].
+> **[2:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=128)** You can find out more about XSS in the course is [[[[Cybersecurity]] Foundations]]: [[Application Security]] and [[[[Programming Foundations]]- Web Security]].
 >
 > **[2:18](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=138)** Next are performance issues.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=140)** Many websites, especially larger commercial sites, include JavaScript to fetch and display ads, and tracking scripts to gather information on their user's behavior and activities, some of which are quite invasive of our privacy.
+> **[2:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=140)** Many websites, especially larger commercial sites, include JavaScript to [[Fetch]] and display ads, and tracking scripts to gather information on their user's behavior and activities, some of which are quite invasive of our [[Privacy]].
 >
 > **[2:32](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=152)** These scripts are often large and of course need to be downloaded, which takes valuable time, include very many of them, and page load times start to go way up, resulting in slow, poor performance.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=164)** Keeping JavaScript lean is vital for good user experience.
+> **[2:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=164)** Keeping JavaScript lean is vital for good [[User Experience (UX)|user experience]].
 >
 > **[2:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=168)** Long downloads are annoying and having to run a lot of JavaScript can slow down a browser and drain phone and laptop batteries.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=175)** Beware of using lots of scripts, your visitors and customers time and attention is very valuable.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=180)** There's more information on optimizing websites for better performance in the courses [[Developing for Web Performance]], [[Vanilla JavaScript- Web Performance Optimization APIs]], and Learning Enterprise Web Application Performance, among others.
+> **[3:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=180)** There's more information on optimizing websites for better performance in the courses [[Developing for Web Performance]], [[[[Vanilla]] JavaScript- Web Performance Optimization APIs]], and Learning Enterprise Web Application Performance, among others.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=195)** For these reasons and others, JavaScript can be blocked by users.
 >
@@ -5588,7 +5536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (23), web (8), css (4), [[Security]] (4), data (3)
+> **Frameworks & Libraries:** [[JavaScript]] (23), [[HTML]] (2), [[Privacy]] (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Forms]] (1)
 > **Env Vars:** css (4), html (2), xss (2)
 > **CLI Commands:** make (3), find (1)
 > **Warnings:** be aware (1), be careful (1), keep in mind (1)
@@ -5600,8 +5548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your JavaScript development journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)
+#### [Continue your JavaScript development journey](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5611,7 +5558,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=5)** We learned about how to use variables to store data, and many of the types of data we can play with.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=10)** From there, we discussed objects, which are the base on which nearly everything meaningful we do in JavaScript is built.
+> **[0:10](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=10)** From there, we discussed objects, which are the base on which nearly everything meaningful we do in [[JavaScript]] is built.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=17)** Control structures and operators came next, showing how we can go in different logical directions and take different actions based on those decisions.
 >
@@ -5623,7 +5570,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=45)** In this video we'll look at some courses that can be helpful for some of the directions you might go for the kinds of things you might try to build with your newfound knowledge of JavaScript.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=55)** If you're interested in writing JavaScript the way it was originally intended to make webpages more interactive, I'd recommend you learn JavaScript's companions, HTML and CSS next.
+> **[0:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=55)** If you're interested in writing JavaScript the way it was originally intended to make webpages more interactive, I'd recommend you learn JavaScript's companions, [[HTML]] and CSS next.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=65)** Making actual HTML pages is not as common as it used to be, but for making templates, it's still an essential skill.
 >
@@ -5649,7 +5596,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=141)** Many people beginning with JavaScript actually start with jQuery because of how easy it makes certain aspects of working with webpages, so it's worth a look.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=151)** View and React for web designers are companion courses at a solid intermediate to more advanced level so you'll want to bookmark those for later most likely.
+> **[2:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=151)** View and [[React.js|React]] for web designers are companion courses at a solid intermediate to more advanced level so you'll want to bookmark those for later most likely.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=160)** View and React are two very popular frameworks for making sites that are mostly driven by JavaScript, and can also be used to add data-centric interactivity to smaller parts of sites.
 >
@@ -5667,13 +5614,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=214)** To get a taste for what else you can do with JavaScript beyond basic interactivity, check out these courses.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=221)** Data visualization is the art of presenting information visually, charts, infographics, and so forth.
+> **[3:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=221)** Data visualization is the art of presenting information visually, charts, [[Infographics]], and so forth.
 >
 > **[3:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=228)** One of the most popular JavaScript toolkits for creating such things is called D3, and you can learn all about it in this course.
 >
 > **[3:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=236)** Interactive Animations will teach you about the capabilities of CSS animation and the extra power of JavaScript and how to put them together to make animations with precise timing and user control.
 >
-> **[4:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=248)** If you've heard of machine learning and want to learn more, learning TensorFlow will give you a window into that world using JavaScript.
+> **[4:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=248)** If you've heard of machine learning and want to learn more, learning [[TensorFlow]] will give you a window into that world using JavaScript.
 >
 > **[4:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=255)** JavaScript is probably not the most popular language for machine learning out there, but it can be done.
 >
@@ -5681,11 +5628,11 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=264)** Learning 3D graphics will show you how using Three.js, another popular JavaScript toolkit.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=270)** If you're interested in using JavaScript outside the confines of a web browser, I recommend learning Node.js as a next step.
+> **[4:30](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=270)** If you're interested in using JavaScript outside the confines of a web browser, I recommend learning [[Node.js]] as a next step.
 >
 > **[4:37](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=277)** It's a relatively brief course that will get you introduced to JavaScript running on the server instead of the browser.
 >
-> **[4:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=284)** JavaScript test-driven development, ES6, is a course that can introduce you to test-driven development.
+> **[4:44](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=284)** JavaScript [[Test-Driven Development]], ES6, is a course that can introduce you to test-driven development.
 >
 > **[4:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=289)** A different way of working than many people might think of when first approaching a programming language.
 >
@@ -5699,13 +5646,13 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=320)** I'd love to hear what you're doing next.
 >
-> **[5:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=322)** You can leave questions in the course Q and A, and follow me here on LinkedIn.
+> **[5:22](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=322)** You can leave questions in the course Q and A, and follow me here on [[LinkedIn]].
 >
 > **[5:25](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=325)** Thank you very much for watching, and I hope you have an excellent day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (29), web (10), next (6), css (6), data (4)
+> **Frameworks & Libraries:** [[JavaScript]] (29), [[HTML]] (3), [[React.js|React]] (2), [[Test-Driven Development]] (2), [[Infographics]] (1)
 > **Env Vars:** css (6), html (3), es6 (1)
 > **CLI Commands:** make (5), node (2)
 > **Definitions:** is a  (5), is called (1)

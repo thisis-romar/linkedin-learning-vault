@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI: The secret weapon for small business
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980)
+#### [AI: The secret weapon for small business](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980&t=0)** - [Instructor] How can your firm use artificial intelligence strategically, that is to create the competitive advantage and enable future growth?
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980&t=0)** - [Instructor] How can your firm use [[Artificial Intelligence (AI)|artificial intelligence]] strategically, that is to create the competitive advantage and enable future growth?
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980&t=10)** However, in my work with firms across industries, I hear that many leaders struggle to define and launch AI use cases in their firm.
 >
@@ -92,12 +91,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** imd (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to know before starting this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980)
+#### [What to know before starting this course](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,11 +103,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=8)** This is a non-technical course, so you won't need any coding skills, statistical training, and machine learning experience.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=17)** To benefit fully from this course, you should have used a generative AI tool such as ChatGPT, Google's Gemini, or Perplexity.
+> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=17)** To benefit fully from this course, you should have used a [[Generative AI]] tool such as [[ChatGPT]], [[Google]]'s [[Gemini]], or Perplexity.
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=27)** The free licenses are sufficient for beginners and some of you might upgrade to a paid version.
 >
-> **[0:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=34)** I also recommend to watch other LinkedIn Learning courses about AI for a better understanding what AI is.
+> **[0:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=34)** I also recommend to watch other [[LinkedIn]] Learning courses about AI for a better understanding what AI is.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/what-to-know-before-starting-this-course?u=76281980&t=42)** In this course, we focus on the strategic use of AI, and I don't explain how AI works technically or how you can improve your prompting technique.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -131,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The four categories of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980)
+#### [The four categories of AI](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=13)** AI means a lot of different things for different people.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=17)** For some, AI is mainly ChatGPT or Microsoft Copilot.
+> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=17)** For some, AI is mainly [[ChatGPT]] or [[Microsoft Copilot]].
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=22)** For others, it's a machine learning application, and yet, for another group, it's just some magic computers that engage in meaningful conversations.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=41)** The first category I call expert systems.
 >
-> **[0:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=44)** These algorithms use simple or complicated if-then rules to come from data to a conclusion.
+> **[0:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=44)** These [[Algorithms]] use simple or complicated if-then rules to come from data to a conclusion.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=53)** For example, this could be a tool that estimates the value of a property or fills out the tax form.
 >
@@ -168,13 +165,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=102)** For example, the face recognition feature on your smartphone or an inventory planning software frequently uses single-purpose machine learning.
 >
-> **[1:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=114)** The third category consists of any form of generative AI.
+> **[1:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=114)** The third category consists of any form of [[Generative AI]].
 >
 > **[1:59](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=119)** Most applications in this category are based on transformers, as in ChatGPT, where GPT stands for generative pre-trained transformer.
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=133)** Those transformers are machine learning algorithms that can perform not just one single tasks like face recognition, but a lot of different tasks like writing text or code, summarizing an email, drawing a picture, or interpreting a diagram.
 >
-> **[2:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=154)** The fourth and now emerging category is AI agents.
+> **[2:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=154)** The fourth and now emerging category is [[AI Agents]].
 >
 > **[2:38](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980&t=158)** AI agents are typically a combination of AI and automation tools that perform one task at a time and take over a whole workflow, a series of tasks.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), business (5), [[ChatGPT]] (2), [[Algorithms]] (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Algorithms]] (2), [[Generative AI]] (2), [[AI Agents]] (2), [[Microsoft Copilot]] (1)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is a  (1), in other words (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -202,8 +199,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
-#### Three AI success drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980)
+#### [Three AI success drivers](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=48)** In cases where AI lowers the cost of doing business, it is almost always to optimize an internal process.
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=58)** AI can automate routine tasks like data entry, invoice processing, and customer support inquiries, freeing up human employees for more strategic work and reducing labor costs.
+> **[0:58](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=58)** AI can automate routine tasks like data entry, invoice processing, and [[Customer Support]] inquiries, freeing up human employees for more strategic work and reducing labor costs.
 >
 > **[1:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=73)** AI can optimize processes like inventory management, supply chain logistics and production scheduling leading to reduce waste, better resource allocation, and improved operational efficiency.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=115)** AI powered chat bots can provide instant customer support, personalized recommendations, and tailored marketing messages, increasing customer satisfaction and loyalty.
 >
-> **[2:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=129)** Second, improved products and services.
+> **[2:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=129)** Second, improved [[Microsoft Products|products]] and services.
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=133)** AI can be used to analyze customer feedback on market trends, enabling small and medium enterprises to develop better products and services that meet evolving customer needs.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=231)** AI can be used to fundamentally rethink and redesign platforms and ecosystems where multiple firms exchange and utilize data to create new solutions.
 >
-> **[4:06](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=246)** For example, we see those disruptions in finance, entertainment, sustainability, and smart cities.
+> **[4:06](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=246)** For example, we see those disruptions in finance, entertainment, [[Sustainability]], and smart cities.
 >
 > **[4:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/three-ai-success-drivers?u=76281980&t=255)** Small firms can participate in larger ecosystems by focusing on their particular niche.
 >
@@ -271,14 +267,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (7), data (3), [[Microsoft Products|Products]] (3), [[Customer Support]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Customer Support]] (2), [[Sustainability]] (1)
 > **Env Vars:** gpt (1), roi (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Are you an AI taker, maker, or creator?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980)
+#### [Are you an AI taker, maker, or creator?](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,11 +283,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=19)** This is the most common approach.
 >
-> **[0:21](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=21)** Small businesses can leverage readily available AI solutions like Microsoft's Copilot or ChatGPT.
+> **[0:21](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=21)** Small businesses can leverage readily available [[AI Solutions]] like [[Microsoft]]'s [[Microsoft Copilot|Copilot]] or [[ChatGPT]].
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=29)** To maximize benefits, they must invest in employee training to ensure proper and effective use of these tools.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=39)** It is crucial to establish clear guidelines for ethical AI usage, adhere to legal frameworks, and prioritize data confidentiality, privacy, and safety at all times.
+> **[0:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=39)** It is crucial to establish clear guidelines for ethical AI usage, adhere to legal frameworks, and prioritize data confidentiality, [[Privacy]], and safety at all times.
 >
 > **[0:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=54)** By adopting existing AI tools, small businesses can automate tasks, improve efficiency, and gain insights without needing in-house AI expertise.
 >
@@ -306,9 +301,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=102)** This could involve using AI to automate data entry, enhance product recommendations, or personalize customer interactions.
 >
-> **[1:53](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=113)** And third, while small businesses cannot compete with the leading AI firms such as OpenAI, Google, Microsoft, IBM, and others, they can create AI solutions using their specific know-how.
+> **[1:53](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=113)** And third, while small businesses cannot compete with the leading AI firms such as OpenAI, [[Google]], Microsoft, IBM, and others, they can create AI solutions using their specific know-how.
 >
-> **[2:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=129)** Becoming an AI creator involves building entirely new AI tools or algorithms to address specific business challenges.
+> **[2:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=129)** Becoming an AI creator involves building entirely new AI tools or [[Algorithms]] to address specific business challenges.
 >
 > **[2:19](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/are-you-an-ai-taker-maker-or-creator?u=76281980&t=139)** For example, a small construction company develops an AI-powered drone that autonomously inspects bridges for structural weaknesses, generating detailed reports and 3D models of potential problem areas.
 >
@@ -328,15 +323,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (4), [[Microsoft]] (2), business (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (4), [[Microsoft]] (2), [[Microsoft Copilot|Copilot]] (1), [[ChatGPT]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating ROI for an AI use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/estimating-roi-for-an-ai-use-case?u=76281980)
+#### [Estimating ROI for an AI use case](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/estimating-roi-for-an-ai-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +382,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), business (3), chatbot (2), game (1)
 > **Env Vars:** roi (11), roe (1)
 > **Analogies:** for example (2), for instance (1)
 > **Versions:** 33.3 (1)
@@ -400,14 +393,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing AI use cases with the AI canvas
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980)
+#### [Describing AI use cases with the AI canvas](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=0)** - [Narrator] When I work with leaders and leadership teams on their AI strategy, our unit of analysis are use cases.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=0)** - [Narrator] When I work with leaders and leadership teams on their [[AI Strategy]], our unit of analysis are use cases.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=9)** An AI use case is a specific situation or problem where artificial intelligence can be applied to lower costs, increase revenues, or disrupt the business model.
+> **[0:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=9)** An AI use case is a specific situation or problem where [[Artificial Intelligence (AI)|artificial intelligence]] can be applied to lower costs, increase revenues, or disrupt the business model.
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=21)** Because every firm discusses and implements several AI use cases in parallel, it is important that each use case is described the same way.
 >
@@ -443,11 +435,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=111)** It outlines the steps involved in using AI from data input to output, and how humans will interact with the system.
 >
-> **[2:01](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=121)** Question number four, what AI software and hardware is used?
+> **[2:01](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=121)** Question number four, what AI software and [[Hardware]] is used?
 >
 > **[2:07](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=127)** This section deals with the technical infrastructure.
 >
-> **[2:11](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=131)** What specific AI models, algorithms, and tools will be used?
+> **[2:11](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=131)** What specific AI models, [[Algorithms]], and tools will be used?
 >
 > **[2:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=135)** What hardware resources are needed to train and deploy the AI system?
 >
@@ -467,7 +459,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=175)** This section identifies the type, source and quality of data required to train and operate the AI system.
 >
-> **[3:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=185)** It also considers data privacy and security issues.
+> **[3:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=185)** It also considers [[Data Privacy]] and security issues.
 >
 > **[3:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980&t=189)** Question number seven, what capabilities are needed?
 >
@@ -501,13 +493,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), data (7), [[Hardware]] (3), leadership (1), teams (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[AI Strategy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Data Privacy]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI-powered inventory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980)
+#### [AI-powered inventory management](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,9 +532,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=100)** And C, the AI system also improves the firm's production planning.
 >
-> **[1:45](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=105)** By accurately forecasting demand, the AI enables efficient production scheduling, minimizing downtime, and maximizing resource utilization.
+> **[1:45](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=105)** By accurately [[Forecasting]] demand, the AI enables efficient production scheduling, minimizing downtime, and maximizing resource utilization.
 >
-> **[1:57](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=117)** Moving to question number four, AI software and hardware.
+> **[1:57](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=117)** Moving to question number four, AI software and [[Hardware]].
 >
 > **[2:02](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-powered-inventory-management?u=76281980&t=122)** The software is available from different vendors who can access the firm's ERP system.
 >
@@ -595,18 +586,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (9), management (3), [[Hardware]] (3), teams (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Forecasting]] (1)
 > **Env Vars:** erp (3)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-enabled content marketing in multiple languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980)
+#### [AI-enabled content marketing in multiple languages](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=0)** - [Instructor] As a business owner or executive, you can use generative AI to translate your website, catalogs, and other materials into multiple languages, eliminating the need for costly translation services.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=0)** - [Instructor] As a business owner or executive, you can use [[Generative AI]] to translate your website, catalogs, and other materials into multiple languages, eliminating the need for costly translation services.
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=15)** This allows you to reach a wider audience, improve customer satisfaction, and expand into new markets.
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=59)** Question number two, what are the customer benefits?
 >
-> **[1:03](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=63)** We expect increased accessibility as customers can understand the website, catalogs, manuals, and emails in their native language, leading to a better user experience.
+> **[1:03](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=63)** We expect increased accessibility as customers can understand the website, catalogs, manuals, and emails in their native language, leading to a better [[User Experience (UX)|user experience]].
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=76)** There is a wider audience reach as the firm can attract and engage customers in new markets by breaking down language barriers.
 >
@@ -636,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=109)** Second, AI translation.
 >
-> **[1:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=112)** Utilize a generative AI translation tool, for example, Google Translate or DeepL, to translate the content into the desired languages.
+> **[1:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=112)** Utilize a generative AI translation tool, for example, [[Google]] Translate or DeepL, to translate the content into the desired languages.
 >
 > **[2:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=125)** Three, review and editing.
 >
@@ -652,7 +642,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=164)** As the business creates new content, repeat the translation and review the process.
 >
-> **[2:51](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=171)** The fourth question addresses the AI software and hardware.
+> **[2:51](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=171)** The fourth question addresses the AI software and [[Hardware]].
 >
 > **[2:56](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=176)** For this, you can use off-the-shelf AI translation services, such as Google Translate API, DeepL API, or other readily available and sufficient tools.
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=227)** What capabilities are needed?
 >
-> **[3:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=229)** The AI model must have strong natural language processing, NLP, capabilities, and be trained on a large data set of multilingual text to ensure accurate and fluid translations.
+> **[3:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=229)** The AI model must have strong [[Natural Language Processing (NLP)|natural language processing]], NLP, capabilities, and be trained on a large data set of multilingual text to ensure accurate and fluid translations.
 >
 > **[4:04](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-enabled-content-marketing-in-multiple-languages?u=76281980&t=244)** The next question relates to the resources needed.
 >
@@ -694,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (3), business (2), [[Generative AI]] (2), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Google]] (2), [[User Experience (UX)|User experience]] (1), [[Hardware]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** api (2), nlp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhancing customer experience with chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980)
+#### [Enhancing customer experience with chatbots](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,7 +720,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=104)** The workflow must optimize the mix between employees and AI interacting with guests, and the conversations by AI must constantly be monitored and improved through feedback loops.
 >
-> **[2:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=120)** What AI software and hardware is used?
+> **[2:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=120)** What AI software and [[Hardware]] is used?
 >
 > **[2:04](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=124)** The resort will not develop their own chatbots, but rather customize an existing cloud-based chatbot from a vendor with experience in this field.
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=202)** Question number seven asks, what capabilities are needed?
 >
-> **[3:25](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=205)** The third-party software needs to be able to handle all requests at a high level, and the data needs to be seamlessly integrated with the hotel's databases.
+> **[3:25](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=205)** The third-party software needs to be able to handle all requests at a high level, and the data needs to be seamlessly integrated with the hotel's [[Databases]].
 >
 > **[3:37](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=217)** Regarding the next question, financial resources are needed for the chatbot platform subscription, the development costs, and potentially AI training expertise.
 >
@@ -761,7 +750,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=235)** Who are the partners?
 >
-> **[3:57](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=237)** Potential partners include chatbot platform providers such as Google, Amazon, Microsoft, and others, AI development companies, and language service providers for multilingual support.
+> **[3:57](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=237)** Potential partners include chatbot platform providers such as [[Google]], Amazon, [[Microsoft]], and others, AI development companies, and language service providers for multilingual support.
 >
 > **[4:12](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/enhancing-customer-experience-with-chatbots?u=76281980&t=252)** Finally, what are the expected results of this AI use case?
 >
@@ -783,13 +772,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), chatbot (10), data (5), business (2), next (2)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Databases]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Improving HR management with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980)
+#### [Improving HR management with AI](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=101)** The third question asks what the workflow is.
 >
-> **[1:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=104)** The AI Canvas illustrates that every single step in the recruiting process can be improved with generative AI.
+> **[1:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=104)** The AI Canvas illustrates that every single step in the recruiting process can be improved with [[Generative AI]].
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=113)** It is also important to notice that HR managers can gradually integrate AI, which is less risky than changing the whole process at once.
 >
@@ -829,7 +817,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=140)** Candidate sourcing.
 >
-> **[2:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=142)** AI tools can automatically search online platforms, such as LinkedIn or other job boards, to identify and engage potential candidates who match the job requirements.
+> **[2:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=142)** AI tools can automatically search online platforms, such as [[LinkedIn]] or other job boards, to identify and engage potential candidates who match the job requirements.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=155)** Applicant screening.
 >
@@ -853,9 +841,9 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=219)** Let's move to the next question.
 >
-> **[3:41](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=221)** What AI software and hardware is used?
+> **[3:41](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=221)** What AI software and [[Hardware]] is used?
 >
-> **[3:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=224)** As in other cases, specialized vendors offer AI-based software integration and customization, and how do employees interact with AI?
+> **[3:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=224)** As in other cases, specialized vendors offer AI-based [[Software Integration]] and customization, and how do employees interact with AI?
 >
 > **[3:57](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=237)** The AI solution will become an integral part of all communications between the HR team, the hiring managers and the job candidates.
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=292)** What capabilities and resource are needed and with whom can we have access to them?
 >
-> **[5:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=300)** As with other generative AI use cases, small firms rely on their vendors to gain access to the required capabilities in terms of large language models, natural language processing and analytics.
+> **[5:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=300)** As with other generative AI use cases, small firms rely on their vendors to gain access to the required capabilities in terms of [[Large Language Models (LLM)|large language models]], [[Natural Language Processing (NLP)|natural language processing]] and analytics.
 >
 > **[5:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=315)** Specialized vendors offer AI-based software integration and customization that is compliant with local legislation.
 >
@@ -883,7 +871,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=352)** In other words, the cost savings are indirect due to better hiring processes.
 >
-> **[5:59](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=359)** The risks when using AI systems are data inaccuracy, biases in the recruiting decisions and when assessing candidates, and potential violations of privacy and data protection laws.
+> **[5:59](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=359)** The risks when using AI systems are data inaccuracy, biases in the recruiting decisions and when assessing candidates, and potential violations of [[Privacy]] and data protection laws.
 >
 > **[6:14](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/improving-hr-management-with-ai?u=76281980&t=374)** HR processes are much exposed to those kind of risks and ethical violations than marketing processes, for example.
 >
@@ -901,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), hr (14), data (11), [[Generative AI]] (4), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Software Integration]] (2), [[LinkedIn]] (1), [[Hardware]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -912,8 +900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting with problems, ideas, or data
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980)
+#### [Starting with problems, ideas, or data](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +934,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=104)** Secondly, idea-first approach.
 >
-> **[1:47](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=107)** Sometimes, the best AI solutions arise from innovative thinking rather than from existing problems.
+> **[1:47](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=107)** Sometimes, the best [[AI Solutions]] arise from innovative thinking rather than from existing problems.
 >
 > **[1:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=114)** The first example is inspired by Spotify's AI-driven music recommendations where a fitness center develops an app.
 >
@@ -971,9 +958,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=204)** By analyzing this data, they can personalize marketing campaigns, anticipate customer needs, like upcoming birthdays, and create targeted menus.
 >
-> **[3:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=215)** Or an e-commerce company analyzes customer browsing and purchase history to develop an AI-powered recommendation engine.
+> **[3:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=215)** Or an [[E-Commerce]] company analyzes customer browsing and purchase history to develop an AI-powered recommendation engine.
 >
-> **[3:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=226)** This engine suggests products that customers are likely to be interested in, increasing sales and customer satisfaction.
+> **[3:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=226)** This engine suggests [[Microsoft Products|products]] that customers are likely to be interested in, increasing sales and customer satisfaction.
 >
 > **[3:56](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980&t=236)** The final example, a healthcare provider analyzes patient data to identify individuals at high risk of developing certain diseases.
 >
@@ -985,16 +972,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (7), business (1), chatbot (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Strategy as a learning process
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980)
+#### [Strategy as a learning process](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=0)** - [Instructor] Developing an AI strategy, especially for small and medium-sized enterprises, shouldn't be about chasing the latest strengths.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=0)** - [Instructor] Developing an [[AI Strategy]], especially for small and medium-sized enterprises, shouldn't be about chasing the latest strengths.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=9)** It should be about leveraging AI to gain a real competitive advantage and fuel future growth.
 >
@@ -1004,11 +990,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=29)** There are many different ways to think about strategy in general, but I want to contrast two of the most common approaches.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=37)** The first is what I call strategy as decision-making.
+> **[0:37](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=37)** The first is what I call strategy as [[Decision-Making]].
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=42)** In this approach, a firm takes its current strategy and initiates a process to review it.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=50)** This typically includes market research, analysis of the competitive environment, a deep dive into an assessment of internal resources and capabilities, an analysis of the financial health of the company, and so on.
+> **[0:50](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=50)** This typically includes [[Market Research]], analysis of the competitive environment, a deep dive into an assessment of internal resources and capabilities, an analysis of the financial health of the company, and so on.
 >
 > **[1:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/strategy-as-a-learning-process?u=76281980&t=65)** Based on this comprehensive review, the leaders of the firm collectively decide on a new strategy.
 >
@@ -1048,25 +1034,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (3), strengths (1), [[Decision-Making]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Decision-Making]] (1), [[Market Research]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boosting AI literacy on your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980)
+#### [Boosting AI literacy on your team](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=0)** - [Instructor] To increase AI literacy into your firm, consider an approach that addresses AI interaction at three distinct levels, individual, team-based, and organization-wide.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=0)** - [Instructor] To increase [[AI Literacy]] into your firm, consider an approach that addresses AI interaction at three distinct levels, individual, team-based, and organization-wide.
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=14)** Let's start with individual AI use.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=17)** Start with the basic, introduce fundamental AI concepts like machine learning, deep learning, and natural language processing through online courses or workshops.
+> **[0:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=17)** Start with the basic, introduce fundamental AI concepts like machine learning, [[Deep Learning]], and [[Natural Language Processing (NLP)|natural language processing]] through online courses or workshops.
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=29)** Then focus on practical applications.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=32)** Provide hands-on training on tools like ChatGPT for tasks, such as content creation, email writing, and research summarization.
+> **[0:32](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=32)** Provide hands-on training on tools like [[ChatGPT]] for tasks, such as [[Content Creation]], email writing, and research summarization.
 >
-> **[0:43](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=43)** Demonstrate how Microsoft CoPilot, for example, can automate tasks in familiar applications like Word and Excel, and encourage exploration.
+> **[0:43](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=43)** Demonstrate how [[Microsoft Copilot]], for example, can automate tasks in familiar applications like [[Microsoft Word|Word]] and [[Microsoft Excel|Excel]], and encourage exploration.
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=55)** Provide access to a variety of AI tools and resources, and encourage employees to experiment and find applications relevant to their individual roles.
 >
@@ -1086,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=118)** Finally, promote AI-powered teamwork.
 >
-> **[2:02](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=122)** Encourage teams to use AI for brainstorming, decision-making, and communication.
+> **[2:02](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=122)** Encourage teams to use AI for brainstorming, [[Decision-Making]], and communication.
 >
 > **[2:08](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=128)** Foster a culture of innovation and experimentation with AI within your teams.
 >
@@ -1094,13 +1079,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=140)** Start by providing comprehensive training.
 >
-> **[2:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=142)** Offer detailed training programs on company-wide AI systems integrated into workflows, such as CRM systems, supply chain management platforms, or cybersecurity infrastructure.
+> **[2:22](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=142)** Offer detailed training programs on company-wide AI systems integrated into workflows, such as CRM systems, [[Supply Chain Management]] platforms, or [[Cybersecurity]] infrastructure.
 >
 > **[2:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=159)** Clarify the roles and responsibilities.
 >
 > **[2:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=162)** Clearly communicate how individual's roles interact with these AI systems and how employees can contribute to their effective use.
 >
-> **[2:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=174)** Address the ethical implications of AI implementation at the organizational level, ensuring employees understand responsible AI practices and data privacy.
+> **[2:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=174)** Address the ethical implications of AI implementation at the organizational level, ensuring employees understand [[Responsible AI]] practices and [[Data Privacy]].
 >
 > **[3:08](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/boosting-ai-literacy-on-your-team?u=76281980&t=188)** And finally, continuously collect feedback from employees on their experiences with organization-wide AI systems using this information to improve training programs and optimize AI implementation.
 >
@@ -1108,14 +1093,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), teams (4), data (2), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (2), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[ChatGPT]] (1), [[Content Creation]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating teams of explorers for the future of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980)
+#### [Creating teams of explorers for the future of AI](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1145,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980&t=188)** Finally, team number four, supply chain optimization and logistics.
 >
-> **[3:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980&t=195)** This team would analyze how AI can be utilized to improve demand forecasting, optimize inventory management, streamline logistics, and enhance the resilience of the company's supply chain.
+> **[3:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980&t=195)** This team would analyze how AI can be utilized to improve demand [[Forecasting]], optimize inventory management, streamline logistics, and enhance the resilience of the company's supply chain.
 >
 > **[3:32](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/creating-teams-of-explorers-for-the-future-of-ai?u=76281980&t=212)** After three months exploration period, the teams come together to present their findings and insights.
 >
@@ -1171,12 +1155,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), teams (4), business (1), [[Forecasting]] (1), management (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling AI use cases beyond proof of concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980)
+#### [Scaling AI use cases beyond proof of concept](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,13 +1197,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=169)** Finally, an unfavorable risk assessment where potential risks outweigh the perceived benefits can lead to project termination.
 >
-> **[3:01](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=181)** Third, build for scalability.
+> **[3:01](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=181)** Third, build for [[Scalability]].
 >
 > **[3:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=185)** To ensure the long-term success of your AI solution, design it with scalability in mind from the outset.
 >
 > **[3:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=195)** This involves considering factors like data infrastructure, computing resources, and seamless integration with existing systems.
 >
-> **[3:26](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=206)** Automating data pipelines and model training not only reduces manual effort, but also allows your AI solution to adapt to evolving conditions.
+> **[3:26](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=206)** Automating [[Data Pipelines]] and model training not only reduces manual effort, but also allows your AI solution to adapt to evolving conditions.
 >
 > **[3:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/scaling-ai-use-cases-beyond-proof-of-concept?u=76281980&t=219)** Crucially, develop a robust plan for ongoing monitoring and maintenance, as AI models require continuous attention and retraining to maintain accuracy and effectiveness over time.
 >
@@ -1228,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (4), [[Scalability]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Data Pipelines]] (1)
 > **Analogies:** it's like (1), such as (1)
 > **Env Vars:** poc (1)
 > **Speakers:** - [instructor] (1)
@@ -1238,14 +1221,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI ethics for small and medium business
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980)
+#### [AI ethics for small and medium business](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=0)** - [Instructor] AI ethics is a crucial topic that must never be neglected, and it includes more than just being compliant with the law.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=0)** - [Instructor] AI [[Ethics]] is a crucial topic that must never be neglected, and it includes more than just being compliant with the law.
 >
-> **[0:10](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=10)** While AI ethics and legal compliance are related, they're not the same thing.
+> **[0:10](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=10)** While AI ethics and [[Legal Compliance]] are related, they're not the same thing.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=16)** AI ethics is a broader concept, encompassing the moral principles and values that should guide the development and use of AI systems.
 >
@@ -1255,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=42)** AI ethics is broader than legal compliance.
 >
-> **[0:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=46)** It considers various ethical issues, including fairness, transparency, accountability, and privacy.
+> **[0:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=46)** It considers various ethical issues, including fairness, transparency, [[Accountability]], and [[Privacy]].
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=55)** Legal compliance, on the other hand, focuses specifically on the laws and regulations that govern the use of AI.
 >
@@ -1267,7 +1249,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=84)** Violations of legal compliance can result in fines, penalties, and other legal sanctions.
 >
-> **[1:32](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=92)** If you are familiar with the four categories of AI applications, from expert systems to single-purpose machine learning applications, to generative AI, and finally, AI agents, you probably heard that the risk increases from the left to the right.
+> **[1:32](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=92)** If you are familiar with the four categories of AI applications, from expert systems to single-purpose machine learning applications, to [[Generative AI]], and finally, [[AI Agents]], you probably heard that the risk increases from the left to the right.
 >
 > **[1:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=112)** There are two main reasons the risk is increasing with more advanced AI applications.
 >
@@ -1281,7 +1263,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=140)** Expert systems are more transparent than transformers and AI agents because they are based on a set of predefined rules that are easy to understand and interpret.
 >
-> **[2:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=154)** Transformers and AI agents, on the other hand, are based on machine learning algorithms that are complex and constantly involving, making it difficult to understand their decision-making process.
+> **[2:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=154)** Transformers and AI agents, on the other hand, are based on machine learning [[Algorithms]] that are complex and constantly involving, making it difficult to understand their [[Decision-Making]] process.
 >
 > **[2:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980&t=169)** Second, accountability.
 >
@@ -1299,18 +1281,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Ethics]] (7), [[Legal Compliance]] (7), [[Accountability]] (4), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), [[Legal Compliance]] (7), [[Accountability]] (4), [[AI Agents]] (4), [[Privacy]] (1)
 > **Definitions:** is a  (2), refers to (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding AI systems' biases
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980)
+#### [Understanding AI systems' biases](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=0)** - [Instructor] AI systems can be biased due to biases in the data they're trained on, or biases in the algorithms themselves.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=0)** - [Instructor] AI systems can be biased due to biases in the data they're trained on, or biases in the [[Algorithms]] themselves.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=9)** These biases can lead to unfair or inaccurate decisions, seriously affecting individuals and society.
 >
@@ -1336,7 +1317,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=140)** To minimize the negative consequences of biases in the AI system, medium-sized firms should A, use diverse and representative data.
 >
-> **[2:33](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=153)** During data collection, actively seek out data sources that reflect the diversity of your target market.
+> **[2:33](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=153)** During [[Data Collection]], actively seek out data sources that reflect the diversity of your target market.
 >
 > **[2:41](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=161)** This might involve partnering with community organizations, using publicly available data sets, or even commissioning custom data collection.
 >
@@ -1348,7 +1329,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=192)** B, test your AI system for biases.
 >
-> **[3:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=197)** There are software tools on the market from companies like Microsoft, IBM, or Google that can assess biases in machine learning models and help you mitigate them.
+> **[3:17](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=197)** There are software tools on the market from companies like [[Microsoft]], IBM, or [[Google]] that can assess biases in machine learning models and help you mitigate them.
 >
 > **[3:29](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=209)** Your AI system can also be tested for biases through an independent audit.
 >
@@ -1360,7 +1341,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=234)** Biases can occur suddenly, even in a system that has passed the audit, because machine learning algorithms change their calculations constantly.
 >
-> **[4:06](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=246)** To stay safe, you should use real-time monitoring.
+> **[4:06](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=246)** To stay safe, you should use [[Real-Time]] monitoring.
 >
 > **[4:10](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/understanding-ai-systems-biases?u=76281980&t=250)** Implement systems that continuously monitor the AI's output for signs of bias.
 >
@@ -1382,7 +1363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), ai (15), [[Algorithms]] (2), [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Collection]] (2), [[Microsoft]] (1), [[Google]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (5), imagine (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** in other words (1)
@@ -1390,8 +1371,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data privacy and security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980)
+#### [Data privacy and security considerations](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=49)** Competitive disadvantage.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=50)** Customers increasingly prioritize data privacy and the security lapse can drive them to competitors with stronger data protection practices.
+> **[0:50](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=50)** Customers increasingly prioritize [[Data Privacy]] and the security lapse can drive them to competitors with stronger data protection practices.
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=63)** Regarding data privacy and security, there are a few key things I advise you to consider.
 >
@@ -1421,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=88)** You also need strict access controls so no one can view or change the data.
 >
-> **[1:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=95)** This involves strong passwords, using multiple forms of authentication, and setting up permissions based on people's roles in the company.
+> **[1:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=95)** This involves strong passwords, using multiple [[Forms]] of authentication, and setting up permissions based on people's roles in the company.
 >
 > **[1:47](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=107)** And it's important to only collect the data you need for your AI system to work.
 >
@@ -1447,7 +1427,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=191)** They need to know what's at stake if there's a data breach.
 >
-> **[3:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=195)** It's also essential to train them on security protocols, like how to spot phishing scams, and what to do if they see any suspicious activity.
+> **[3:15](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=195)** It's also essential to train them on security protocols, like how to spot [[Phishing]] scams, and what to do if they see any suspicious activity.
 >
 > **[3:27](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=207)** Finally, you need regularly check your system and stay updated.
 >
@@ -1461,7 +1441,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=245)** They should also inform patients about their data use and obtain their consent.
 >
-> **[4:11](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=251)** E-commerce, an online retailer using AI for personalized recommendations should anonymize customer browsing data and provide clear opt-out options for data collection.
+> **[4:11](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=251)** [[E-Commerce]], an online retailer using AI for personalized recommendations should anonymize customer browsing data and provide clear opt-out options for [[Data Collection]].
 >
 > **[4:27](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/data-privacy-and-security-considerations?u=76281980&t=267)** Or human resource, a company using AI for recruitment should ensure that candidate data is stored securely and used fairly without introducing bias.
 >
@@ -1469,15 +1449,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Privacy]] (6), [[Security]] (6), ai (5), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (6), [[Forms]] (1), [[Phishing]] (1), [[E-Commerce]] (1), [[Data Collection]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you need to have (2)
 > **Env Vars:** gdpr (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk management for AI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980)
+#### [Risk management for AI projects](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1474,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=49)** Your firm must proactively assess and mitigate these risks.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=56)** Technical risks include potential system malfunctions and cybersecurity vulnerabilities.
+> **[0:56](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=56)** Technical risks include potential system malfunctions and [[Cybersecurity]] vulnerabilities.
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=63)** Financial risks include development and deployment costs alongside potential losses from system failure.
 >
@@ -1505,23 +1484,23 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=94)** By adhering to these recommendations, your firm can increase the likelihood of ethical responsibility and successful AI projects.
 >
-> **[1:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=106)** Let's look at a case where a firm, like yours, is using Microsoft Copilot for all its employees.
+> **[1:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=106)** Let's look at a case where a firm, like yours, is using [[Microsoft Copilot]] for all its employees.
 >
 > **[1:55](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=115)** This AI tool will be integrated into different workflows to assist with tasks like writing, coding, data analysis, and meeting summarizations.
 >
 > **[2:07](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=127)** Here is how the provided risk management steps apply to this scenario.
 >
-> **[2:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=133)** Before rolling out Copilot, your firm needs to analyze potential risks in the following areas.
+> **[2:13](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=133)** Before rolling out [[Microsoft Copilot|Copilot]], your firm needs to analyze potential risks in the following areas.
 >
-> **[2:21](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=141)** Data security and privacy.
+> **[2:21](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=141)** [[Data Security]] and [[Privacy]].
 >
 > **[2:23](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=143)** Copilot accesses and processes company data.
 >
 > **[2:28](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=148)** How will this data be protected?
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=151)** Are the risks of data breaches, unauthorized access, or accidental data sharing?
+> **[2:31](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=151)** Are the risks of data breaches, unauthorized access, or accidental [[Data Sharing]]?
 >
-> **[2:38](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=158)** Thus using Copilot complying with data privacy regulations such as GDPR?
+> **[2:38](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=158)** Thus using Copilot complying with [[Data Privacy]] regulations such as GDPR?
 >
 > **[2:46](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=166)** Accuracy and reliability.
 >
@@ -1589,7 +1568,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=395)** It needs to be checked and updated regularly.
 >
-> **[6:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=399)** This is important because Copilot itself will change and Microsoft ads new things, and the way people use will change too as they get more comfortable with it.
+> **[6:39](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=399)** This is important because Copilot itself will change and [[Microsoft]] ads new things, and the way people use will change too as they get more comfortable with it.
 >
 > **[6:52](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/risk-management-for-ai-projects?u=76281980&t=412)** Both of these things could lead to new risks popping up.
 >
@@ -1605,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), ai (20), data (9), management (5), [[Microsoft Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (22), [[Microsoft Copilot]] (2), [[Cybersecurity]] (1), [[Data Security]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** gdpr (1)
@@ -1617,8 +1596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI: Your future AI roadmap for growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980)
+#### [AI: Your future AI roadmap for growth](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980&t=28)** My main advice to you and your team is this. Try it out.
 >
-> **[0:33](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980&t=33)** Try out different tools, watch more LinkedIn Learning courses on the topic of AI, and connect with others to share your experiences with AI.
+> **[0:33](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980&t=33)** Try out different tools, watch more [[LinkedIn]] Learning courses on the topic of AI, and connect with others to share your experiences with AI.
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980&t=45)** I'm very active on LinkedIn and regularly post new developments on this fascinating topic, so please follow me on LinkedIn for more practical, non-technical strategic advice on AI.
 >
@@ -1638,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Speakers:** - [instructor] (1)
 
 

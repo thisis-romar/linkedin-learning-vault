@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to RAG and fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980)
+#### [Welcome to RAG and fine-tuning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=0)** - [Harshit] If you've ever wondered how to make large language models more accurate and reliable for specific domains, you're in the right place.
+> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=0)** - [Harshit] If you've ever wondered how to make [[Large Language Models (LLM)|large language models]] more accurate and reliable for specific domains, you're in the right place.
 >
 > **[0:09](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=9)** In this course, we'll dive into powerful combinations of retrieval augmented generation and model fine-tuning.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=30)** Then explore RAFT, a technique that brings these approaches together.
 >
-> **[0:36](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=36)** You'll get hands-on experience preparing datasets, implementing the RAFT technique, and using Hugging Face to fine-tune these models.
+> **[0:36](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=36)** You'll get hands-on experience preparing datasets, implementing the RAFT technique, and using [[Hugging Face]] to fine-tune these models.
 >
 > **[0:46](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980&t=46)** Ready to level up your AI skills?
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), data (1), rag (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Hugging Face]] (1)
 > **Env Vars:** raft (2), rag (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [harshit] (1)
@@ -109,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980)
+#### [Understanding RAG](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980&t=0)** - [Instructor] Welcome to our lesson on retrieval-augmented generation or RAG.
+> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980&t=0)** - [Instructor] Welcome to our lesson on [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG.
 >
 > **[0:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980&t=6)** Now at its core, RAG is an architectural approach that makes AI models smarter by giving them access to external information while they generate responses.
 >
@@ -144,15 +142,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (8), ai (4), data (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), game (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** rag (8)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is fine-tuning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/what-is-finetuning?u=76281980)
+#### [What is fine-tuning?](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/what-is-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,19 +205,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), rag (1), next (1)
 > **Analogies:** just like (2), imagine (1), it's like (1), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** rag (1), raft (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining RAG and fine-tuning: RAFT
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/combining-rag-and-finetuning-raft?u=76281980)
+#### [Combining RAG and fine-tuning: RAFT](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/combining-rag-and-finetuning-raft?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/combining-rag-and-finetuning-raft?u=76281980&t=0)** - [Instructor] Researchers have overcome the limitation of both RAG and Fine-Tuning with this new method called RAFT, RAFT or Retrieval Augmented Fine Tuning, combines the best aspects of RAG, and fine tuning into a single powerful approach.
+> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/combining-rag-and-finetuning-raft?u=76281980&t=0)** - [Instructor] Researchers have overcome the limitation of both RAG and Fine-Tuning with this new method called RAFT, RAFT or Retrieval Augmented [[Fine Tuning]], combines the best aspects of RAG, and fine tuning into a single powerful approach.
 >
 > **[0:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/combining-rag-and-finetuning-raft?u=76281980&t=19)** It's like teaching an AI to both access a library, and become an expert in using it.
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (9), [[Fine Tuning]] (2), next (2), data (2), ai (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2)
 > **Env Vars:** rag (9), raft (9)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -284,8 +279,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand RAFT
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understand-raft?u=76281980)
+#### [Understand RAFT](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understand-raft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,15 +325,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (1), llm (1), next (1)
 > **Env Vars:** raft (5), rag (1), llm (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning and inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980)
+#### [Fine-tuning and inference](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980&t=4)** We start with our carefully prepared training data, including questions and document sets, which are structured into clear reasoning steps.
 >
-> **[0:14](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980&t=14)** Next, we use supervised learning to train the model.
+> **[0:14](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980&t=14)** Next, we use [[Supervised Learning]] to train the model.
 >
 > **[0:18](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-and-inference?u=76281980&t=18)** During training, the model learns to identify and prioritize relevant information from Oracle documents while ignoring the distractor documents, and it's trained to generate chain-of-thought style answers, learning to reason step by step, and cite relevant source documents.
 >
@@ -387,15 +379,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1)
 > **Env Vars:** raft (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Results of RAFT
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980)
+#### [Results of RAFT](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=27)** To test RAFT's performance in a specialized domain.
 >
-> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=31)** The researchers chose Hugging Face, Torch Hub, and TensorFlow Hub datasets from the API bench.
+> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=31)** The researchers chose [[Hugging Face]], Torch Hub, and [[TensorFlow]] Hub datasets from the API bench.
 >
 > **[0:38](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=38)** Biomedical use cases, the PubMedQA dataset focusing on the biomedical research question and answering allowed the evaluation of RAFT in answering medical and biological questions using given documents.
 >
@@ -437,7 +428,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=165)** Note that RAFT showed significant improvements, particularly on the HotPotQA dataset, showcasing its effectiveness in multi-hop reasoning.
 >
-> **[2:56](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=176)** Then RAFT achieved the most substantial gains on the Torch Hub dataset, demonstrating its ability to effectively process and understand technical documentation.
+> **[2:56](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=176)** Then RAFT achieved the most substantial gains on the Torch Hub dataset, demonstrating its ability to effectively process and understand [[Technical Documentation]].
 >
 > **[3:07](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/results-of-raft?u=76281980&t=187)** On biomedical dataset, while the gains were less pronounced on the PubMedQA dataset, RAFT still demonstrated superior performance.
 >
@@ -449,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (5), data (3), [[Hugging Face]] (1), [[TensorFlow]] (1), api (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[TensorFlow]] (1), [[Technical Documentation]] (1)
 > **Env Vars:** raft (13), rag (5), gpt (2), api (1), dsf (1)
 > **Versions:** 3.5 (2)
 > **Definitions:** is a  (2)
@@ -462,8 +453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing the data for RAFT
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980)
+#### [Preparing the data for RAFT](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,15 +461,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=4)** In this chapter, we'll focus on the initial setup of RAFT, which is preparing the training dataset.
 >
-> **[0:10](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=10)** Whether you are working with medical documents, legal takes, or technical documentation, this process will help you create better domain aware AI models.
+> **[0:10](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=10)** Whether you are working with medical documents, legal takes, or [[Technical Documentation]], this process will help you create better domain aware AI models.
 >
-> **[0:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=19)** We will be fine tuning the model to become an expert in the finance domain where we have chosen a PDF document containing details on the Indian financial system.
+> **[0:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=19)** We will be [[Fine Tuning]] the model to become an expert in the finance domain where we have chosen a PDF document containing details on the Indian financial system.
 >
 > **[0:29](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=29)** The document contains 259 pages and in order to prepare the training data, we need to first break this big file into smaller document chunks and that is what we learn in this lesson.
 >
 > **[0:44](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=44)** Let's start by installing all the required packages over here.
 >
-> **[0:49](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=49)** We are going to be using langchain, which is our main framework for working with LLMs.
+> **[0:49](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=49)** We are going to be using [[LangChain]], which is our main framework for working with LLMs.
 >
 > **[0:55](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=55)** We are installing langchain community for some community contributed components, langchain OpenAI to integrate OpenAI models and then pyPDF to handle PDF documents.
 >
@@ -497,15 +487,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=95)** So this will help us in handling PDF documents, loading all of them and then further splitting them using recursive character text splitter from the text splitter module of langchain.
 >
-> **[1:47](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=107)** Then we have chat OpenAI to use OpenAI's large language models.
+> **[1:47](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=107)** Then we have chat OpenAI to use OpenAI's [[Large Language Models (LLM)|large language models]].
 >
-> **[1:51](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=111)** And finally, from Google Colab, we are importing user data.
+> **[1:51](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=111)** And finally, from [[Google]] Colab, we are importing user data.
 >
 > **[1:55](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=115)** This is how we will be storing our secret.
 >
 > **[1:59](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=119)** That means OpenAI's API keys securely within the Colab interface itself.
 >
-> **[2:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=126)** In order to securely save your OpenAI API key, you have Colab secrets.
+> **[2:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=126)** In order to securely save your [[OpenAI API]] key, you have Colab secrets.
 >
 > **[2:11](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=131)** So you just have to click on this key icon from the left pane and here you can click on add new secret.
 >
@@ -525,7 +515,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=196)** Moving on to setting up the large language model.
 >
-> **[3:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=199)** Here I have Chat OpenAI class from langchain and we are using GPT-4.0 mini as our model and OpenAI API key, as you can see, is already loaded within this variable from Google Colab Secrets.
+> **[3:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=199)** Here I have Chat OpenAI class from langchain and we are using [[GPT-4]].0 mini as our model and OpenAI API key, as you can see, is already loaded within this variable from Google Colab Secrets.
 >
 > **[3:35](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=215)** So we have initialized our OpenAI chat model.
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=221)** This is the main functionality here, loading and chunking documents.
 >
-> **[3:45](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=225)** So we have written a Python function here, which we'll process our code document that takes in the path of the PDF file.
+> **[3:45](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=225)** So we have written a [[Python (Programming Language)|Python]] function here, which we'll process our code document that takes in the path of the PDF file.
 >
 > **[3:55](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=235)** Now this file is currently not present within our Colab environment.
 >
@@ -583,7 +573,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=362)** Then we have print information about each chunk.
 >
-> **[6:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=365)** So chunk number, chunk length, the metadata, which is present within each chunk.
+> **[6:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=365)** So chunk number, chunk length, the [[Metadata]], which is present within each chunk.
 >
 > **[6:11](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980&t=371)** And there are some separators that I've added.
 >
@@ -615,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (9), [[OpenAI API]] (7), hit (5), next (5), [[Metadata]] (4)
+> **Frameworks & Libraries:** [[LangChain]] (9), [[OpenAI API]] (7), [[Metadata]] (4), [[Google]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** pdf (9), api (8), raft (2), gpt (1), ram (1)
 > **Tools:** colab (8)
 > **UI Navigation:** click on (4), toggle (1), select the (1)
@@ -624,12 +614,11 @@ created: 2026-05-02
 > **Versions:** 4.0 (1)
 > **Analogies:** for example (1)
 
-#### Q&A pair generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980)
+#### [Q&A pair generation](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=0)** - The next step in the training data preparation process is to generate questions for each document.
+> **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=0)** - The next step in the training [[Data Preparation]] process is to generate questions for each document.
 >
 > **[0:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=6)** Here, we'll focus on two main tasks.
 >
@@ -647,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=40)** So by default this is set to three.
 >
-> **[0:43](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=43)** We create a prompt template using chat prompt template from LangChain.
+> **[0:43](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=43)** We create a prompt template using chat prompt template from [[LangChain]].
 >
 > **[0:48](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=48)** The prompt here says generate number of questions, that is three, that can be answered based on the following text and here we insert the text from the chunk.
 >
@@ -655,7 +644,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=65)** We format our prompt with the number of questions and chunk, send it to our model to get the response and we clean up the response and return all of our questions.
 >
-> **[1:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=79)** So the output is basically a clean list of questions like what are the key components of the banking system?
+> **[1:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=79)** So the output is basically a clean list of questions like what are the key components of the [[Banking]] system?
 >
 > **[1:28](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=88)** How do regulatory requirements affect banks?
 >
@@ -723,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), prompt (4), data (1), [[LangChain]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[LangChain]] (1), [[Banking]] (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -732,8 +721,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Adding answers to document-question pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980)
+#### [Adding answers to document-question pairs](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +737,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=35)** So, to break it down, we have imported ThreadPoolExecutor for parallel processing.
 >
-> **[0:42](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=42)** We use SystemMessage and HumanMessage from LangChain for structured outputs.
+> **[0:42](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=42)** We use SystemMessage and HumanMessage from [[LangChain]] for structured outputs.
 >
 > **[0:47](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=47)** The function carefully extracts context and questions from our pairs.
 >
@@ -819,14 +807,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (5), prompt (3), next (2), data (1), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (1)
 > **Code Identifiers:** generate_answer (1), generate_triplets_in_parallel (1)
 > **Env Vars:** gpt (1), api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate and save dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980)
+#### [Generate and save dataset](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=6)** We'll transform our data containing question, answer, golden documents and distracted documents into a format that is ready for model training.
 >
-> **[0:16](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=16)** We'll create both a CSV format for easy analysis and a JSON Lines format, which is required for fine tuning the model.
+> **[0:16](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=16)** We'll create both a CSV format for easy analysis and a [[JSON]] Lines format, which is required for [[Fine Tuning]] the model.
 >
 > **[0:25](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=25)** Let's first look at creating a structured data frame format.
 >
@@ -844,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=36)** Documents then further contain golden documents and distractor documents.
 >
-> **[0:42](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=42)** So we are converting it into a pandas data frame by first creating an empty list called data.
+> **[0:42](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=42)** So we are converting it into a [[Pandas (Software)|pandas]] data frame by first creating an empty list called data.
 >
 > **[0:49](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=49)** For each triplet, we structure it into a dictionary with question string, answer string, golden document string, and lastly, concatenated distractor document string.
 >
@@ -888,11 +875,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=221)** It's time for us to start fine tuning our model.
 >
-> **[3:46](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=226)** We'll be using Hugging Face and we'll learn all about that in our next chapter.
+> **[3:46](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/generate-and-save-dataset?u=76281980&t=226)** We'll be using [[Hugging Face]] and we'll learn all about that in our next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[JSON]] (9), [[Fine Tuning]] (3), [[Pandas (Software)|Pandas]] (2), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Fine Tuning]] (3), [[Pandas (Software)|Pandas]] (2), [[Hugging Face]] (1)
 > **Env Vars:** json (9), csv (3)
 > **Definitions:** is a  (2), basically means (1)
 > **Tools:** colab (2)
@@ -905,22 +892,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980)
+#### [Intro to Hugging Face](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=0)** - [Instructor] Now that we have our dataset ready, it's time to fine-tune our model.
 >
-> **[0:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=5)** And to do that, we are going to be using Hugging Face.
+> **[0:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=5)** And to do that, we are going to be using [[Hugging Face]].
 >
-> **[0:09](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=9)** You can use other cloud service provider that offer fine-tuning capabilities like AWS or Azure.
+> **[0:09](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=9)** You can use other cloud service provider that offer fine-tuning capabilities like AWS or [[Microsoft Azure|Azure]].
 >
 > **[0:15](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=15)** But for our use case, we'll be using Hugging Face.
 >
 > **[0:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=19)** And before we get down to fine-tuning the model, let's first understand what Hugging Face is all about and what all you can achieve using this platform.
 >
-> **[0:28](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=28)** So think of Hugging Face as the GitHub for AI, where AI developers share, discover, and collaborate on machine learning models and datasets.
+> **[0:28](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=28)** So think of Hugging Face as the [[GitHub]] for AI, where AI developers share, discover, and collaborate on machine learning models and datasets.
 >
 > **[0:38](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=38)** So just like how software developers use GitHub to share code, AI researchers and developers use Hugging Face to share their AI models and datasets.
 >
@@ -928,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=52)** You can find models for specific tasks like text generation, translation, image recognition, image segmentation, image classification, question answering, feature extraction, text to audio.
 >
-> **[1:07](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=67)** So you can use popular models like Bard, GPT, and LLaMa.
+> **[1:07](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=67)** So you can use popular models like Bard, GPT, and [[LLaMA]].
 >
 > **[1:11](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=71)** You can download them, you can fine-tune the existing models as per your use cases.
 >
@@ -936,17 +922,17 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=79)** You have access to curated datasets for training.
 >
-> **[1:24](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=84)** You can find domain-specific data collection, you can use standardized data loading tools that they offer, and you can share and version your datasets as well.
+> **[1:24](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=84)** You can find domain-specific [[Data Collection]], you can use standardized data loading tools that they offer, and you can share and version your datasets as well.
 >
 > **[1:35](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=95)** Further, in order to showcase your applications and demos, they have Spaces.
 >
 > **[1:40](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=100)** So Hugging Face Spaces is basically a platform, a space where you can create interactive AI demos.
 >
-> **[1:48](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=108)** So you can share working applications, you can test models in real-time, collaborate with others on projects, and deploy your models along with simple UI.
+> **[1:48](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=108)** So you can share working applications, you can test models in [[Real-Time]], collaborate with others on projects, and deploy your models along with simple UI.
 >
 > **[2:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=120)** They also have a learning section.
 >
-> **[2:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=122)** So if you go onto their learning page, there are NLP course, deep learning course, audio course, ML for games course.
+> **[2:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=122)** So if you go onto their learning page, there are NLP course, [[Deep Learning]] course, audio course, ML for games course.
 >
 > **[2:11](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980&t=131)** So you can learn a lot of different types of machine learning techniques on this platform.
 >
@@ -974,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (7), ai (5), cloud (3), [[LLaMA]] (3), data (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[LLaMA]] (3), [[Microsoft Azure|Azure]] (2), [[GitHub]] (2), [[Data Collection]] (1)
 > **CLI Commands:** find (3), aws (2), make (1)
 > **Env Vars:** aws (2), gpt (1), nlp (1)
 > **Versions:** 3.2 (2)
@@ -983,16 +969,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 
-#### Fine-tuning the Llama 3.2 model on Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980)
+#### [Fine-tuning the Llama 3.2 model on Hugging Face](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=0)** - [Instructor] It's time to fine-tune our large language model using our prepared data set.
 >
-> **[0:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=5)** We'll be fine-tuning Llama 3.2 3 billion model.
+> **[0:05](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=5)** We'll be fine-tuning [[LLaMA]] 3.2 3 billion model.
 >
-> **[0:09](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=9)** So let's quickly search for that model on Hugging Face.
+> **[0:09](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=9)** So let's quickly search for that model on [[Hugging Face]].
 >
 > **[0:13](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=13)** And the third one that you see, Llama 3.2 3 billion Instruct, this is the model that we will be fine-tuning.
 >
@@ -1032,7 +1017,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=118)** Here we have AutoTrain, so nothing to change here.
 >
-> **[2:01](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=121)** Space hardware.
+> **[2:01](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=121)** Space [[Hardware]].
 >
 > **[2:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=122)** Now, space hardware is going to be very important.
 >
@@ -1084,7 +1069,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=240)** You have to upload your training file.
 >
-> **[4:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=242)** That is your output.json lines format.
+> **[4:02](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=242)** That is your output.[[JSON]] lines format.
 >
 > **[4:08](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/finetuning-llama3-2-model-on-huggingface?u=76281980&t=248)** Number of epochs should be set to one.
 >
@@ -1114,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LLaMA]] (6), [[Hardware]] (3), [[Hugging Face]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[LLaMA]] (6), [[Hardware]] (3), [[Hugging Face]] (2), [[JSON]] (1)
 > **Env Vars:** nvidia (3), a10g (2), sdk (1), ram (1), gpu (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1), go to (1)
 > **Versions:** 3.2 (5)
@@ -1123,26 +1108,25 @@ created: 2026-05-02
 > **File Paths:** output.json (1)
 > **Cross-References:** in the next (1)
 
-#### Using the fine-tuned model
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980)
+#### [Using the fine-tuned model](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=0)** - [Instructor] Congratulations, you have your model fine-tuned.
 >
-> **[0:04](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=4)** We have raft-llama-3B, this is the model that I have fine-tuned, this is the path to the fine-tuned model, and this page contains all the details.
+> **[0:04](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=4)** We have raft-[[LLaMA]]-3B, this is the model that I have fine-tuned, this is the path to the fine-tuned model, and this page contains all the details.
 >
 > **[0:15](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=15)** After the fine-tuning job is completed, the model is going to show up within your profile under the models section.
 >
 > **[0:23](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=23)** So I have raft-llama-3B here.
 >
-> **[0:27](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=27)** And in order to use this, we'll use Hugging Face's powerful tools, and we'll learn how to generate responses using this code that they have provided.
+> **[0:27](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=27)** And in order to use this, we'll use [[Hugging Face]]'s powerful tools, and we'll learn how to generate responses using this code that they have provided.
 >
 > **[0:41](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=41)** Now, before we start learning how to use this model, we'll have to make sure that we authenticate ourselves within the CoLab environment.
 >
 > **[0:53](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=53)** In order to authenticate yourself, since this is a private model repository, you'll need to create an access token.
 >
-> **[1:01](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=61)** In order to generate that access token, you'll have to go to settings within your profile, go to access tokens, and here you'll create new token using this button on the top right.
+> **[1:01](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=61)** In order to generate that access token, you'll have to go to settings within your profile, go to access [[Tokens]], and here you'll create new token using this button on the top right.
 >
 > **[1:15](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=75)** Once you have created a new token, copy that token and pass it on to Hugging Face hub login functionality.
 >
@@ -1194,7 +1178,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=234)** So here I've just asked what is rural financial system, and we have a dedicated section on rural financial system within the PDF document that we created our dataset from.
 >
-> **[4:08](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=248)** And that basically puts a nail in the coffin that we have the raft retrieval augmented fine tuning technique working for us, which gives us up to date correct answers which are grounded in the details of our documents.
+> **[4:08](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/using-fine-tuned-model?u=76281980&t=248)** And that basically puts a nail in the coffin that we have the raft retrieval augmented [[Fine Tuning]] technique working for us, which gives us up to date correct answers which are grounded in the details of our documents.
 
 > [!info]- Semantic Content
 >
@@ -1212,8 +1196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with RAG and fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980)
+#### [Next steps with RAG and fine-tuning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,11 +1204,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=6)** In this course, you have gone from understanding basic rack to implementing a complete RAFT system, learning how to combine the best of retrieval and fine-tuning approaches.
 >
-> **[0:18](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=18)** We built a practical pipeline that processes documents, generates smart question-answer pairs, and creates high-quality training data using tools like LangChain and Hugging Face.
+> **[0:18](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=18)** We built a practical pipeline that processes documents, generates smart question-answer pairs, and creates high-quality training data using tools like [[LangChain]] and [[Hugging Face]].
 >
-> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=31)** Finally, we fine-tuned a Llama 3 model on our custom data set and deployed it for real-world use case, giving you the skills to create domain-specific AI solutions that are both accurate and reliable.
+> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=31)** Finally, we fine-tuned a [[LLaMA]] 3 model on our custom data set and deployed it for real-world use case, giving you the skills to create domain-specific [[AI Solutions]] that are both accurate and reliable.
 >
-> **[0:47](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=47)** Now, to continue your journey with fine-tuning, I recommend that you first of all, share your completion certification with your network on LinkedIn, read the paper on retrieval-augmented fine-tuning, experiment with your own use cases and projects.
+> **[0:47](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=47)** Now, to continue your journey with fine-tuning, I recommend that you first of all, share your completion certification with your network on [[LinkedIn]], read the paper on retrieval-augmented fine-tuning, experiment with your own use cases and projects.
 >
 > **[1:06](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980&t=66)** I would love to hear about your progress and answer questions that you might have.
 >
@@ -1243,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (2), [[LinkedIn]] (2), [[LangChain]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[LangChain]] (1), [[Hugging Face]] (1), [[LLaMA]] (1), [[AI Solutions]] (1)
 > **Env Vars:** raft (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)

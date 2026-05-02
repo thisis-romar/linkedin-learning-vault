@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to business analysis competencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980)
+#### [Welcome to business analysis competencies](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980&t=57)** I've been consulting and training in business analysis, and requirements practices for many years and have contributed to the global industry standards in requirements and business analysis.
 >
-> **[1:09](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980&t=69)** This course guides BA's through the competencies needed to bring better requirements and outcomes to projects, products, and your organization.
+> **[1:09](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980&t=69)** This course guides BA's through the competencies needed to bring better requirements and outcomes to projects, [[Microsoft Products|products]], and your organization.
 >
 > **[1:20](https://www.linkedin.com/learning/business-analysis-foundations-competencies/welcome-to-business-analysis-competencies-16436628?u=76281980&t=80)** In the course, I introduce Brady the BA.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), leadership (1), teams (1), [[Microsoft Products|Products]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - business (1)
 
 
@@ -131,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cocreating: Business analyst skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/cocreating-business-analyst-skills?u=76281980)
+#### [Cocreating: Business analyst skills](https://www.linkedin.com/learning/business-analysis-foundations-competencies/cocreating-business-analyst-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,13 +188,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), leadership (2), teams (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** picture (4)
 > **Speakers:** - brady (1)
 
-#### Establishing rapport and empathy as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/establishing-rapport-and-empathy-as-a-business-analyst?u=76281980)
+#### [Establishing rapport and empathy as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/establishing-rapport-and-empathy-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -272,14 +268,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Conflict management skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980)
+#### [Conflict management skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980&t=7)** Healthy conflict is good.
 >
-> **[0:09](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980&t=9)** When conflict pushes us to challenge our own assumptions and learn from other points of view, we have an opportunity to create better products.
+> **[0:09](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980&t=9)** When conflict pushes us to challenge our own assumptions and learn from other points of view, we have an opportunity to create better [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/business-analysis-foundations-competencies/conflict-management-skills-for-business-analysts?u=76281980&t=19)** Conflict tends to have a negative connotation.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), teams (3), next (3), business (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** bas (1)
 > **Analogies:** for example (1)
@@ -394,8 +388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Influence without authority as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980)
+#### [Influence without authority as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980&t=165)** Opening up to ideas that they weren't previously open to.
 >
-> **[2:50](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980&t=170)** Through this process, building trust and understanding what matters most to a stakeholder is absolutely critical to them being receptive and open to new ideas.
+> **[2:50](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980&t=170)** Through this process, [[Building Trust]] and understanding what matters most to a stakeholder is absolutely critical to them being receptive and open to new ideas.
 >
 > **[3:01](https://www.linkedin.com/learning/business-analysis-foundations-competencies/influence-without-authority-as-a-business-analyst?u=76281980&t=181)** Influencing takes practice.
 >
@@ -457,18 +450,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), power (1), next (1), cloud (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - great (1)
 
-#### Decision-making skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/decision-making-skills-for-business-analysts?u=76281980)
+#### [Decision-making skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/decision-making-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/decision-making-skills-for-business-analysts?u=76281980&t=0)** - I hear a lot of BAs complain that decision-making is slow in their organizations and it can take forever for stakeholders to make decisions or they change their mind a lot.
+> **[0:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/decision-making-skills-for-business-analysts?u=76281980&t=0)** - I hear a lot of BAs complain that [[Decision-Making]] is slow in their organizations and it can take forever for stakeholders to make decisions or they change their mind a lot.
 >
 > **[0:11](https://www.linkedin.com/learning/business-analysis-foundations-competencies/decision-making-skills-for-business-analysts?u=76281980&t=11)** While the root cause of this may be outside the BAs realm, there also maybe a lot BAs can do to help the situation.
 >
@@ -536,14 +528,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (4), teams (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4)
 > **CLI Commands:** make (11)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Change-management skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/change-management-skills-for-business-analysts?u=76281980)
+#### [Change-management skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/change-management-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +582,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), teams (1), data (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -602,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Facilitating meetings as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-meetings-as-a-business-analyst?u=76281980)
+#### [Facilitating meetings as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-meetings-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -677,15 +666,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), product (1), next (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - bas (1)
 
-#### Facilitating the conversation as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-conversation-as-a-business-analyst?u=76281980)
+#### [Facilitating the conversation as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-conversation-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,13 +730,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - brady (1)
 
-#### Facilitating the requirements process as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980)
+#### [Facilitating the requirements process as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=71)** Sometimes, it seems like they know what their requirements are, but great requirements get better through the process as the team learns, explores, and discovers the future state.
 >
-> **[1:25](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=85)** Second, understanding the decision-making process that goes with the learning and discovery.
+> **[1:25](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=85)** Second, understanding the [[Decision-Making]] process that goes with the learning and discovery.
 >
 > **[1:31](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=91)** Learning and discovery are fun and exciting, but decisions do need to be made to move forward.
 >
@@ -793,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=159)** While that might be part of it, the work actually supports those frameworks, but they don't define the BA work.
 >
-> **[2:48](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=168)** It's important that we understand the requirements process is its own process that feeds the other processes, like software development, process design, product management, and project management.
+> **[2:48](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=168)** It's important that we understand the requirements process is its own process that feeds the other processes, like [[Software Development]], process design, product management, and project management.
 >
 > **[3:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/facilitating-the-requirements-process-as-a-business-analyst?u=76281980&t=180)** These processes don't define how requirements are done.
 >
@@ -803,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (3), next (2), management (2), teams (1), data (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -813,8 +798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Verbal skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/verbal-skills-for-business-analysts?u=76281980)
+#### [Verbal skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/verbal-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,13 +860,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), express (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Listening skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980)
+#### [Listening skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980&t=51)** It's not hearing alone, it's understanding the point of view and acknowledging emotions, intentions, and feelings.
 >
-> **[1:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980&t=60)** Active listening is great for conflict resolution, trust building, and relationship building.
+> **[1:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980&t=60)** Active listening is great for conflict resolution, trust building, and [[Relationship Building]].
 >
 > **[1:06](https://www.linkedin.com/learning/business-analysis-foundations-competencies/listening-skills-for-business-analysts?u=76281980&t=66)** BAs use active listening when eliciting requirements to ensure the actual problem or opportunity is understood.
 >
@@ -936,12 +918,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relationship Building]] (1), next (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - listening (1)
 
-#### Visual skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/visual-skills-for-business-analysts?u=76281980)
+#### [Visual skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/visual-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,14 +974,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1), next (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Written skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/written-skills-for-business-analysts?u=76281980)
+#### [Written skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/written-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1045,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), for example (1)
 > **Speakers:** - i (1)
@@ -1076,12 +1054,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business acumen skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980)
+#### [Business acumen skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=0)** - Business acumen is a competency about understanding business concepts, being business savvy, and understanding how businesses work.
+> **[0:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=0)** - [[Business Acumen]] is a competency about understanding business concepts, being business savvy, and understanding how businesses work.
 >
 > **[0:10](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=10)** In requirements, it's about connecting the details of requirements to higher level strategies of the organization.
 >
@@ -1119,9 +1096,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=138)** Next, learn what key performance indicators are being measured.
 >
-> **[2:24](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=144)** Understand how these link from the very top of the business leadership through to the detailed team level work.
+> **[2:24](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=144)** Understand how these link from the very top of the [[Business Leadership]] through to the detailed team level work.
 >
-> **[2:32](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=152)** Third, discover who buys from your organization and the value they get from your products over a competing organization.
+> **[2:32](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=152)** Third, discover who buys from your organization and the value they get from your [[Microsoft Products|products]] over a competing organization.
 >
 > **[2:41](https://www.linkedin.com/learning/business-analysis-foundations-competencies/business-acumen-skills-for-business-analysts?u=76281980&t=161)** How does your organization compete?
 >
@@ -1141,14 +1118,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), product (2), teams (1), next (1), leadership (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (3), [[Business Leadership]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - business (1)
 
-#### Innovation skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/innovation-skills-for-business-analysts?u=76281980)
+#### [Innovation skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/innovation-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1194,7 +1170,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/business-analysis-foundations-competencies/innovation-skills-for-business-analysts?u=76281980&t=167)** Brady wants to be innovative and be a catalyst for others to be innovative as well.
 >
-> **[2:53](https://www.linkedin.com/learning/business-analysis-foundations-competencies/innovation-skills-for-business-analysts?u=76281980&t=173)** Play your part as a key contributor to requirements creating an inspiring innovative products and solutions.
+> **[2:53](https://www.linkedin.com/learning/business-analysis-foundations-competencies/innovation-skills-for-business-analysts?u=76281980&t=173)** Play your part as a key contributor to requirements creating an inspiring innovative [[Microsoft Products|products]] and solutions.
 
 > [!info]- Semantic Content
 >
@@ -1202,8 +1178,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - innovation (1)
 
-#### Architecture and process skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980)
+#### [Architecture and process skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=7)** Business architecture and business process help us do this.
 >
-> **[0:11](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=11)** And this creates better products, solutions, and organizational alignment.
+> **[0:11](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=11)** And this creates better [[Microsoft Products|products]], solutions, and organizational alignment.
 >
 > **[0:17](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=17)** On one project, Brady the BA was fortunate to work with strong business architect and got a cool experience to see what this is all about.
 >
@@ -1239,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=108)** And also, the data and where it repeats itself or can be reused.
 >
-> **[1:54](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=114)** Without business architecture and linking it to the processes and requirements work we do, there's a probability that the solutions you're working on are partially built in another area, and therefore create duplication or perhaps we create an inconsistent customer experience, and there may be no real comprehensive view of a customer.
+> **[1:54](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=114)** Without business architecture and linking it to the processes and requirements work we do, there's a [[Probability]] that the solutions you're working on are partially built in another area, and therefore create duplication or perhaps we create an inconsistent customer experience, and there may be no real comprehensive view of a customer.
 >
 > **[2:16](https://www.linkedin.com/learning/business-analysis-foundations-competencies/architecture-and-process-skills-for-business-analysts?u=76281980&t=136)** One example of how business architecture may play out is this.
 >
@@ -1265,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), [[Microsoft Products|Products]] (2), data (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Probability]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - wouldn (1)
@@ -1275,8 +1250,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Systems thinking skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980)
+#### [Systems thinking skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1280,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980&t=68)** So many times a stakeholder request something small, but in reality, it has a much greater impact.
 >
-> **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980&t=76)** Systems thinking skills help us analyze for and catch these impacts.
+> **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980&t=76)** Systems [[Thinking Skills]] help us analyze for and catch these impacts.
 >
 > **[1:22](https://www.linkedin.com/learning/business-analysis-foundations-competencies/systems-thinking-skills-for-business-analysts?u=76281980&t=82)** Next, Brady gets a request for what seems like a big change that is too abstract.
 >
@@ -1342,14 +1316,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thinking Skills]] (1), next (1), product (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - systems (1)
 
-#### Creative thinking skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980)
+#### [Creative thinking skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1352,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980&t=77)** A structured creative thinker asks the right questions and looks for opportunities to fit these ideas into existing processes where the wild creative thinker has the ideas, but may not be sure where or how they fit in.
 >
-> **[1:34](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980&t=94)** So realizing that we're all creative, just in different ways is the first part to developing creativity skills.
+> **[1:34](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980&t=94)** So realizing that we're all creative, just in different ways is the first part to developing [[Creativity Skills]].
 >
 > **[1:42](https://www.linkedin.com/learning/business-analysis-foundations-competencies/creative-thinking-skills-for-business-analysts?u=76281980&t=102)** Many BAs find them selves as a structured creative type of thinker.
 >
@@ -1401,14 +1374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Creativity Skills]] (1), teams (1)
+> **Frameworks & Libraries:** [[Creativity Skills]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Visual modeling and diagrams skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/visual-modeling-and-diagrams-skills-for-business-analysts?u=76281980)
+#### [Visual modeling and diagrams skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/visual-modeling-and-diagrams-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,11 +1448,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), product (1)
 > **Speakers:** - when (1)
 
-#### Data analysis skills for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980)
+#### [Data analysis skills for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,7 +1486,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=128)** Brady now sees data connections that previously weren't obvious, solving defect issues and user complaints quicker.
 >
-> **[2:17](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=137)** Data relationships drive the data architecture, the data architecture consists of the boundaries of how data relates to other data.
+> **[2:17](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=137)** Data relationships drive the [[Data Architecture]], the data architecture consists of the boundaries of how data relates to other data.
 >
 > **[2:26](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=146)** For example, as an instructor, I can have many students.
 >
@@ -1526,7 +1496,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=169)** Brady is now more careful to define even basic data, like order and customer, preventing errors from different definitions being used in integrated systems.
 >
-> **[3:01](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=181)** Data definitions that are about consistently defining data about products, customers, and processes.
+> **[3:01](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=181)** Data definitions that are about consistently defining data about [[Microsoft Products|products]], customers, and processes.
 >
 > **[3:08](https://www.linkedin.com/learning/business-analysis-foundations-competencies/data-analysis-skills-for-business-analysts?u=76281980&t=188)** Data definitions seem so simple yet cause so many issues, we take them for granted.
 >
@@ -1558,13 +1528,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (46), [[Data Architecture]] (3), product (2), next (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Data Architecture]] (3), [[Microsoft Products|Products]] (2)
 > **Analogies:** it's like (2), for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Curiosity for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/curiosity-for-business-analysts?u=76281980)
+#### [Curiosity for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/curiosity-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,7 +1595,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), cat (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -1636,8 +1604,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Productivity tools for business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980)
+#### [Productivity tools for business analysts](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,15 +1624,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=42)** Here are some categories of tools to be aware of and continue to learn more about.
 >
-> **[0:47](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=47)** First, office productivity tools.
+> **[0:47](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=47)** First, [[Microsoft Office|office]] productivity tools.
 >
 > **[0:51](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=51)** These tools help us communicate with one another, as well as store and retrieve information.
 >
-> **[0:57](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=57)** They're tools like word processors, spreadsheets, file systems, and the like.
+> **[0:57](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=57)** They're tools like [[Microsoft Word|word]] processors, spreadsheets, file systems, and the like.
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=63)** There are also a large number of requirements software tools as well that BAs use to define, create, store, and retrieve requirements information.
 >
-> **[1:13](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=73)** Next are modeling and diagramming tools.
+> **[1:13](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=73)** Next are modeling and [[Diagramming]] tools.
 >
 > **[1:17](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=77)** These are tools that help us visualize and analyze.
 >
@@ -1677,7 +1644,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=116)** And this goes beyond the basics of email, documents, phone, and instant messenger.
 >
-> **[2:01](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=121)** These advanced tools, especially helpful for remote and virtual teams, are things like video calls, virtual whiteboards, and virtual sticky notes.
+> **[2:01](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=121)** These advanced tools, especially helpful for remote and [[Virtual Teams]], are things like video calls, virtual whiteboards, and virtual sticky notes.
 >
 > **[2:12](https://www.linkedin.com/learning/business-analysis-foundations-competencies/productivity-tools-for-business-analysts?u=76281980&t=132)** Also annotating onto screens and virtually displayed documents.
 >
@@ -1695,12 +1662,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), next (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Diagramming]] (1), [[Virtual Teams]] (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - work (1)
 
-#### Understanding the technology landscape as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980)
+#### [Understanding the technology landscape as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,7 +1704,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980&t=111)** Second, we need to be able to take these concepts and apply them to the future of technology and the technology landscape.
 >
-> **[2:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980&t=120)** By having an understanding and curiosity for the future of technology in our organizations and products, we can help our stakeholders imagine a future based on the needs and current technical understanding.
+> **[2:00](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980&t=120)** By having an understanding and curiosity for the future of technology in our organizations and [[Microsoft Products|products]], we can help our stakeholders imagine a future based on the needs and current technical understanding.
 >
 > **[2:15](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-the-technology-landscape-as-a-business-analyst?u=76281980&t=135)** Knowing some of the latest technology trends could totally change how your stakeholders view and how they address a problem.
 >
@@ -1764,15 +1730,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - as (1)
 
-#### Understanding data, process, and rules as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-data-process-and-rules-as-a-business-analyst?u=76281980)
+#### [Understanding data, process, and rules as a business analyst](https://www.linkedin.com/learning/business-analysis-foundations-competencies/understanding-data-process-and-rules-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,7 +1783,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - over (1)
 
@@ -1827,8 +1791,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to grow your business analyst skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980)
+#### [Continuing to grow your business analyst skills](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,7 +1799,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980&t=7)** We get to see cutting edge technologies, improve processes, and create customer experiences.
 >
-> **[0:14](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980&t=14)** All of this helps organizations to keep up and provide better products and services to their customers.
+> **[0:14](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980&t=14)** All of this helps organizations to keep up and provide better [[Microsoft Products|products]] and services to their customers.
 >
 > **[0:21](https://www.linkedin.com/learning/business-analysis-foundations-competencies/continuing-to-grow-your-business-analyst-skills?u=76281980&t=21)** It's a role where we get to exercise skills in a variety of areas and take on large and complex work.
 >
@@ -1852,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - business (1)
 

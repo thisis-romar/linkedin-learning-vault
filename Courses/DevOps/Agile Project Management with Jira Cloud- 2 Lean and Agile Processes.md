@@ -69,20 +69,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=0)** - [Instructor] Welcome to Course 2 of the Agile Project Management with Jira (Cloud Edition) series.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=0)** - [Instructor] Welcome to Course 2 of the [[Agile Development|Agile]] Project Management with [[Jira]] (Cloud Edition) series.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=6)** AT Atlassian University, our mission is to help Atlassian users like you develop new skills, improve your team's work, and advance your professional career.
+> **[0:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=6)** AT [[Atlassian]] University, our mission is to help Atlassian users like you develop new skills, improve your team's work, and advance your professional career.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=16)** In this series, we will be learning how to use lean and agile principles, how to identify different agile methodologies, and how to configure Jira to match your team's processes.
 >
 > **[0:27](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=27)** Now let's take a look at what you'll be learning in course two.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=31)** In this course, you will learn about lean and agile principles, identify the differences between Scrum and Kanban, how to use quick search, basic search, and finally how to use JQL.
+> **[0:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=31)** In this course, you will learn about lean and agile principles, identify the differences between [[Scrum]] and Kanban, how to use quick search, basic search, and finally how to use JQL.
 >
 > **[0:44](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980&t=44)** This course does not assume you have any existing or prior knowledge of Jira and agile methods, although some existing knowledge would be helpful.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Jira]] (6), cloud (4), [[Atlassian]] (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Jira]] (6), [[Atlassian]] (4), [[Scrum]] (2)
 > **Tools:** jira (6)
 > **Env Vars:** jql (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -123,28 +122,26 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lean and agile principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lean-and-agile-principles?u=76281980)
+#### [Lean and agile principles](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lean-and-agile-principles?u=76281980)
 
 
 ### 2. Scrum Overview
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980)
+#### [Scrum overview](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=1)** - [Instructor] In this video, we'll look at scrum artifacts.
+> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=1)** - [Instructor] In this video, we'll look at [[Scrum]] artifacts.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=5)** We will define scrum, describe an increment, identify scrum artifacts and define velocity.
 >
-> **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=19)** According to the Scrum Guide, "scrum is a framework for developing, delivering "and sustaining complex products."
+> **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=19)** According to the Scrum Guide, "scrum is a framework for developing, delivering "and sustaining complex [[Microsoft Products|products]]."
 >
 > **[0:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=28)** Scrum is a way of achieving agility.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=31)** If you think of agile as a way of working or of as a mindset, there are many methods or frameworks used to achieve this agility.
+> **[0:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=31)** If you think of [[Agile Development|agile]] as a way of working or of as a mindset, there are many methods or frameworks used to achieve this agility.
 >
 > **[0:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=40)** We've already looked at Kanban and here we will discuss Scrum, which is currently the most popular Agile framework.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=408)** A burndown chart usually represents the number of story points completed over time during the sprint.
 >
-> **[6:54](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=414)** The gray lines are the guidelines provided by JIRA showing what a linear decrease in story points would look like and not including non-working days.
+> **[6:54](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=414)** The gray lines are the guidelines provided by [[Jira]] showing what a linear decrease in story points would look like and not including non-working days.
 >
 > **[7:04](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980&t=424)** The red line shows the actual team's performance.
 >
@@ -314,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (16), product (16), [[Agile Development|Agile]] (5), [[Microsoft Products|Products]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (16), [[Agile Development|Agile]] (5), [[Microsoft Products|Products]] (1), [[Jira]] (1)
 > **Definitions:** is a  (10), is an  (2), is called (2), known as (1)
 > **Analogies:** such as (5), similar to (1)
 > **Env Vars:** jira (1)
@@ -327,12 +324,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum overview 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980)
+#### [Scrum overview 2](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980&t=1)** - [Instructor] In this video, we'll continue our discussion of Scrum and talk about roles and events.
+> **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980&t=1)** - [Instructor] In this video, we'll continue our discussion of [[Scrum]] and talk about roles and events.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980&t=7)** We'll describe Scrum roles, differentiate the product owner and Scrum master, identify common characteristics of Scrum events, identify the purpose of the sprint planning meeting, daily standup, sprint review, and sprint retrospective.
 >
@@ -488,21 +484,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (41), product (16), next (6), teams (3), functional (2)
+> **Frameworks & Libraries:** [[Scrum]] (41)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3), similar to (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=0)** - [Instructor] In this video, we'll create a scrum project, create issues in the product backlog, create and plan a sprint, execute a sprint, and complete a sprint.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=0)** - [Instructor] In this video, we'll create a [[Scrum]] project, create issues in the product backlog, create and plan a sprint, execute a sprint, and complete a sprint.
 >
-> **[0:11](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=11)** We're logged in as the Jira administrator, we have an existing Kanban project, but for this demo, we're going to create a new scrum project.
+> **[0:11](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=11)** We're logged in as the [[Jira]] administrator, we have an existing Kanban project, but for this demo, we're going to create a new scrum project.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=19)** To do this, click the create project button, select classic project, and we'll change the template and select the scrum template.
 >
@@ -534,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=116)** So we'll drag the add item one issue and the add item two issue to the sprint backlog.
 >
-> **[2:02](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=122)** Now the sprint backlog has two issues and the rest of the product backlog has one issue.
+> **[2:02](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=122)** Now the sprint backlog has two issues and the [[Representational State Transfer (REST)|rest]] of the product backlog has one issue.
 >
 > **[2:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-company-managed?u=76281980&t=128)** If a team wants to add sub tasks to an issue to further break down the work, they can do that here.
 >
@@ -574,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (4), product (4), [[Jira]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Jira]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** jira (3)
 > **UI Navigation:** select the (3)
 > **Exercise Files:** template (2)
@@ -583,12 +578,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Lab: Team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980)
+#### [Lab: Team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=0)** - [Instructor] In this demo, we'll create a next-gen Scrum project, create issues in the project Backlog, create and plan a Sprint, execute the Sprint, and complete the Sprint.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=0)** - [Instructor] In this demo, we'll create a next-gen [[Scrum]] project, create issues in the project Backlog, create and plan a Sprint, execute the Sprint, and complete the Sprint.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=12)** We're logged in as Alana Grant, the Project Administrator.
 >
@@ -596,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=21)** To do this, click the Create project button.
 >
-> **[0:24](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=24)** Since Alana is not a Jira Administrator she can't create classic projects, so we select next-gen.
+> **[0:24](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=24)** Since Alana is not a [[Jira]] Administrator she can't create classic projects, so we select next-gen.
 >
 > **[0:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-team-managed?u=76281980&t=31)** We want this to be a Scrum project, so we need to change the template and select the Scrum template.
 >
@@ -664,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (6), product (6), next (3), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (6), [[Jira]] (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -678,18 +672,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quick search and basic search
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980)
+#### [Quick search and basic search](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=1)** - [Instructor] In this video, we'll discuss Quick search and Basic search.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=7)** We'll identify the ways to search in Jira, use Quick search and use Basic search.
+> **[0:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=7)** We'll identify the ways to search in [[Jira]], use Quick search and use Basic search.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=17)** In Jira, there are many ways to view a project's progress.
 >
-> **[0:21](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=21)** You can use project boards, searching, which we're going to discuss here, reports, and dashboards.
+> **[0:21](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=21)** You can use project boards, searching, which we're going to discuss here, reports, and [[Dashboards]].
 >
 > **[0:30](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=30)** There are a few ways to search in Jira.
 >
@@ -717,7 +710,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=99)** As you begin typing in Quick search, you will immediately begin to see results.
 >
-> **[1:45](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=105)** In this case, we've entered "item," and you can see that there are three issues on our Jira site that have the word "item" in one of their text-based fields.
+> **[1:45](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=105)** In this case, we've entered "item," and you can see that there are three issues on our Jira site that have the [[Microsoft Word|word]] "item" in one of their text-based fields.
 >
 > **[1:55](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980&t=115)** You can use the capitalized "NOT" keyword to exclude terms.
 >
@@ -755,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (35), [[Jira]] (6), next (2), [[Microsoft Word|Word]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Microsoft Word|Word]] (2), [[Dashboards]] (1)
 > **Tools:** jira (6)
 > **UI Navigation:** click on (1), select the (1), dropdown (1)
 > **Definitions:** is a  (3)
@@ -763,8 +756,7 @@ created: 2026-05-02
 > **Env Vars:** jql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980)
+#### [Lab: Cloud](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -776,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980&t=17)** If we simply click in the field, a list of recent issues and boards, projects, and filters is displayed.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980&t=25)** If we start to type all of the issues that contain the word item in any of the issues text-based fields are shown.
+> **[0:25](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980&t=25)** If we start to type all of the issues that contain the [[Microsoft Word|word]] item in any of the issues text-based fields are shown.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud?u=76281980&t=33)** If we then click Enter, we are brought to the search results for all issues in the site.
 >
@@ -884,7 +876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (23), [[Microsoft Word|Word]] (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **UI Navigation:** dropdown (4), select the (4), in the sidebar (2), switch to (1), drag and drop (1)
 > **Cross-References:** in the last (2), go back to (1)
 > **Definitions:** is a  (1), known as (1)
@@ -897,8 +889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Jira Query Language (JQL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980)
+#### [Jira Query Language (JQL)](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980&t=23)** With advanced search, you use text to search for issues.
 >
-> **[0:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980&t=28)** This text is called JQL or Jira Query Language.
+> **[0:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980&t=28)** This text is called JQL or [[Jira]] Query Language.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980&t=33)** JQL can do two things.
 >
@@ -1074,7 +1065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (29), [[Jira]] (9), next (2), [[Automation]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (9)
 > **Env Vars:** jql (21)
 > **Tools:** jira (9)
 > **CLI Commands:** make (2), find (2)
@@ -1083,8 +1074,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), click on (1)
 > **Cross-References:** in the last (1)
 
-#### Lab: Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-14263523?u=76281980)
+#### [Lab: Cloud](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lab-cloud-14263523?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), next (1)
 > **Env Vars:** jql (11)
 > **UI Navigation:** switch to (2), select the (1)
 > **Definitions:** is an  (1)

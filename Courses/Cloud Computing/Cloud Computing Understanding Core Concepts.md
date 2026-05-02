@@ -115,24 +115,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change your career with cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
+#### [Change your career with cloud computing](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=0)** - Cloud computing is changing how we do everything, making costly computing platforms cheap and accessible.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=0)** - [[Cloud Computing]] is changing how we do everything, making costly computing platforms cheap and accessible.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=7)** The on-demand availability of computer system resources in the cloud puts the power in the hands of people who once could not afford to leverage this game changing technology, people like you.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=18)** Hi, I'm David Linthicum, internationally known cloud expert and consultant.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=22)** In this LinkedIn Learning course, we use pragmatic examples and relevant case studies to help you understand the core concepts of cloud computing and how you and your business can make a successful cloud deployment possible today.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=22)** In this [[LinkedIn]] Learning course, we use pragmatic examples and relevant case studies to help you understand the core concepts of cloud computing and how you and your business can make a successful cloud deployment possible today.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980&t=35)** I wish you luck and good learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), power (1), game (1), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - cloud (1)
 
@@ -141,16 +140,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
+#### [Overview of cloud computing](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=0)** - Let's start by talking about what cloud computing is and why it's such a game changer in the world of business.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=0)** - Let's start by talking about what [[Cloud Computing]] is and why it's such a game changer in the world of business.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=7)** Cloud computing is basically leveraging pools of computing resources to minimize cost and maximize compute efficiency.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=14)** In the past, hosting applications and data at the enterprise level meant renting or building data center space to house the millions of dollars worth of hardware and software assets you needed to buy.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=14)** In the past, hosting applications and data at the enterprise level meant renting or building data center space to house the millions of dollars worth of [[Hardware]] and software assets you needed to buy.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=26)** With cloud computing, we now have affordable and powerful on demand options in the form of cloud computing platforms.
 >
@@ -178,13 +176,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=107)** It features rapid elasticity so you can quickly scale up or down, and it's pay per use, which means you aren't going to pay for a data center full of unneeded or underutilized computing power.
 >
-> **[2:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=121)** Cloud comes in five deployment models, private cloud, public cloud, community cloud, multi-cloud and hybrid cloud.
+> **[2:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=121)** Cloud comes in five deployment models, private cloud, public cloud, community cloud, multi-cloud and [[Hybrid Cloud]].
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=130)** And finally, delivery models.
 >
 > **[2:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=133)** There are three main ones.
 >
-> **[2:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=134)** Software as a service or SaaS, platform as a service or PaaS and infrastructure as a service or IaaS.
+> **[2:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=134)** [[SaaS|Software as a service]] or [[SaaS]], [[PaaS|platform as a service]] or [[PaaS]] and [[IaaS|infrastructure as a service]] or [[IaaS]].
 >
 > **[2:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=143)** We'll talk in depth about each of those later in the course.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=158)** This means that cloud computing has become pervasive to IT.
 >
-> **[2:43](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=163)** The developments are also leading to the emergence of new cloud capabilities, such as machine learning and big data analytics.
+> **[2:43](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=163)** The developments are also leading to the emergence of new cloud capabilities, such as machine learning and [[Big Data Analytics]].
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980&t=171)** And finally, they're leading to mass migration of applications and data to cloud-based platforms.
 >
@@ -206,26 +204,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), data (4), [[Hardware]] (2), game (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (10), [[Hardware]] (2), [[Hybrid Cloud]] (1), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Types of clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980)
+#### [Types of clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=0)** - Let's take a look at some of the major cloud types.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=4)** As defined by the technology market and NIST, or the National Institute of Standards and Technology, there are three major cloud types.
+> **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=4)** As defined by the technology market and [[NIST]], or the National Institute of Standards and Technology, there are three major cloud types.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=14)** Software as a service, or SaaS, is an application you rent over the open internet.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=14)** [[SaaS|Software as a service]], or [[SaaS]], is an application you rent over the open internet.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=20)** Infrastructure as a service, or IaaS, which is basically storage, compute, and other infrastructure services that you leverage from some local or remote resource.
+> **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=20)** [[IaaS|Infrastructure as a service]], or [[IaaS]], which is basically storage, compute, and other infrastructure services that you leverage from some local or remote resource.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=30)** And finally, platform as a service, or PaaS, which is application development, testing, and deployment that are available on demand.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=30)** And finally, [[PaaS|platform as a service]], or [[PaaS]], which is [[Application Development]], testing, and deployment that are available on demand.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=39)** There are some large fundamental differences between the different cloud types that are important to know.
 >
@@ -233,19 +230,19 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=56)** These are basically software systems that are delivered via web browsers.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=60)** Examples include [salesforce.com](https://salesforce.com), Microsoft 365, Google Apps, and many others.
+> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=60)** Examples include [salesforce.com](https://salesforce.com), [[Microsoft 365]], [[Google]] Apps, and many others.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=67)** IaaS clouds are designed to replace pretty much what's in your data center, including storage and compute services.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=75)** The major brands of IaaS clouds include Amazon Web Services, or AWS as it's known, which dominates the majority of the IaaS market.
+> **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=75)** The major brands of IaaS clouds include [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS as it's known, which dominates the majority of the IaaS market.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=83)** However, Microsoft and Google are also major players.
+> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=83)** However, [[Microsoft]] and Google are also major players.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=88)** PaaS is a cloud version of application development, deployment, and hosting of applications.
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=94)** Examples of major past players are AWS Elastic Beanstalk, Heroku, and Google App Engine, which provides application development services as well as deployment and hosting.
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=106)** IaaS provides cheaper platforms for applications and data, since the hardware and software is shared between known and unknown users.
+> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=106)** IaaS provides cheaper platforms for applications and data, since the [[Hardware]] and software is shared between known and unknown users.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=115)** SaaS provides cheaper ways to consume enterprise applications such as CRMs and ERPs.
 >
@@ -253,11 +250,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=126)** Again, using cloud-based resources mean we're sharing resources and avoiding buying our own hardware and software.
 >
-> **[2:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=133)** This really defines the value of cloud computing in general.
+> **[2:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-clouds?u=76281980&t=133)** This really defines the value of [[Cloud Computing]] in general.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[IaaS]] (5), [[SaaS]] (3), [[PaaS]] (3), [[Application Development]] (3)
+> **Frameworks & Libraries:** [[IaaS]] (5), [[SaaS]] (3), [[PaaS]] (3), [[Application Development]] (3), [[Google]] (3)
 > **Env Vars:** aws (2), nist (1), crm (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -265,14 +262,13 @@ created: 2026-05-02
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - let (1)
 
-#### IaaS clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980)
+#### [IaaS clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=0)** - Infrastructure as a service, or IaaS, is about using an internet service model to leverage resources that are traditionally found in an organization's own data center, such as storage and compute.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=0)** - [[IaaS|Infrastructure as a service]], or [[IaaS]], is about using an internet service model to leverage resources that are traditionally found in an organization's own data center, such as storage and compute.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=14)** An IaaS model means that a third party provider hosts hardware, software, servers, and storage, and other infrastructure components on behalf of the end user.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=14)** An IaaS model means that a third party provider hosts [[Hardware]], software, servers, and storage, and other infrastructure components on behalf of the end user.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=24)** You can think of IaaS as traditional timesharing services as we discussed in a previous video.
 >
@@ -280,11 +276,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=37)** While IaaS clouds provide infrastructure services found in traditional data centers such as compute and storage, they can also provide applications and data hosting for existing enterprise workloads.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=50)** IaaS clouds are the fastest growing type of cloud, with Amazon Web Services AWS being the major player, with revenue over several billion dollars.
+> **[0:50](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=50)** IaaS clouds are the fastest growing type of cloud, with [[Amazon Web Services (AWS)|Amazon Web Services]] AWS being the major player, with revenue over several billion dollars.
 >
-> **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=61)** Finally, IaaS cloud services can be deployed as private, public, and hybrid clouds.
+> **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=61)** Finally, IaaS [[Cloud Services]] can be deployed as private, public, and hybrid clouds.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=67)** In addition to AWS, Microsoft Azure, and Google Cloud Platforms are also IaaS clouds.
+> **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=67)** In addition to AWS, [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud]] Platforms are also IaaS clouds.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=74)** However, there are many differences between the brands of IaaS clouds, including the number and types of IaaS cloud services they provide.
 >
@@ -312,13 +308,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=142)** They're accepting not only the risk, but also the cost of the risk.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=147)** IaaS supports public, private, and hybrid cloud deployment models.
+> **[2:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=147)** IaaS supports public, private, and [[Hybrid Cloud]] deployment models.
 >
 > **[2:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/iaas-clouds?u=76281980&t=151)** This means that you have the flexibility to leverage whatever deployment model is a proper fit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IaaS]] (18), cloud (8), data (5), [[Hardware]] (3), aws (2)
+> **Frameworks & Libraries:** [[IaaS]] (18), [[Hardware]] (3), [[Cloud Services]] (2), [[IaaS|Infrastructure as a service]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Definitions:** means that (5), is a  (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (3)
@@ -326,18 +322,17 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1), previous video (1)
 > **Speakers:** - infrastructure (1)
 
-#### SaaS clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980)
+#### [SaaS clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=0)** - A software as a service, SaaS, model means that a third party provider hosts application software on behalf of the end users.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=0)** - A [[SaaS|software as a service]], [[SaaS]], model means that a third party provider hosts application software on behalf of the end users.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=10)** You can think of SaaS more like an application that are delivered through the web browser, or websites that provide the same value as traditional applications such as ERPs, CRMs, and even productivity applications.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=26)** Using a SaaS cloud removes the need for enterprises to spend a large amount of money on enterprise software, because the SaaS cloud provider maintains the hardware and software.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=26)** Using a SaaS cloud removes the need for enterprises to spend a large amount of money on [[Enterprise Software]], because the SaaS cloud provider maintains the [[Hardware]] and software.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=39)** Also, there is almost unlimited scalability for growing enterprises since you can add seats, or subscriptions, as you add employees to the team.
+> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=39)** Also, there is almost unlimited [[Scalability]] for growing enterprises since you can add seats, or subscriptions, as you add employees to the team.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=49)** Additionally, there is no need to update or patch the software, updates are continuous and automatic.
 >
@@ -347,15 +342,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=69)** Prime examples include [Salesforce.com](https://Salesforce.com), a customer relationship solution that is popular with enterprises focusing on customer service and sales management.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=80)** Google Apps provides storage, word processing, spreadsheets, et cetera, that you may share among users.
+> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=80)** [[Google]] Apps provides storage, [[Microsoft Word|word]] processing, spreadsheets, et cetera, that you may share among users.
 >
-> **[1:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=87)** And Microsoft 365, which is a SaaS version of the popular Office platform.
+> **[1:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=87)** And [[Microsoft 365]], which is a SaaS version of the popular [[Microsoft Office|Office]] platform.
 >
 > **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=93)** So what's the business case for SaaS?
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=96)** First, you can avoid buying hardware and software in support of on-premise business applications.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=102)** Just as with the value of PaaS and IaaS, the idea is to shift the risk to the SaaS cloud provider.
+> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=102)** Just as with the value of [[PaaS]] and [[IaaS]], the idea is to shift the risk to the SaaS cloud provider.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/saas-clouds?u=76281980&t=109)** The ability to pay for only the subscription, typically per person that you'll use, allows you to align your usage directly with spending.
 >
@@ -367,18 +362,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (11), application (4), cloud (4), [[Hardware]] (2), business (2)
+> **Frameworks & Libraries:** [[SaaS]] (11), [[Hardware]] (2), [[SaaS|Software as a service]] (1), [[Enterprise Software]] (1), [[Scalability]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Analogies:** such as (2)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - a (1)
 
-#### PaaS clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980)
+#### [PaaS clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=0)** - [Instructor] A platform as a service, PaaS model, means that a third party service provides application development, testing, and deployment, and hosting services as a service.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=0)** - [Instructor] A [[PaaS|platform as a service]], [[PaaS]] model, means that a third party service provides [[Application Development]], testing, and deployment, and hosting services as a service.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=12)** This allows for efficient application development platforms that could be leveraged by enterprises to make application development more cost effective.
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=31)** PaaS also reduces the complexity of building, testing and deploying applications by keeping the developers inside a well-defined environment that limits the availability for the developer to make mistakes.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=45)** PaaS supports most IaaS Cloud providers, including Amazon Web Services, Google and Microsoft Azure.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=45)** PaaS supports most [[IaaS]] Cloud providers, including [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google]] and [[Microsoft Azure]].
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=52)** Or you can integrate these platforms directly in your PaaS-built applications.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=66)** The same IaaS and PaaS combination can be found within Microsoft Azure as well as Google App Engine.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=74)** The integration and combining of PaaS and IaaS cloud services is a trend that we're currently seeing.
+> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=74)** The integration and combining of PaaS and IaaS [[Cloud Services]] is a trend that we're currently seeing.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=80)** So what's the business case for PaaS?
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=98)** PaaS allows you to pay for only the PaaS services you use.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=102)** This means that your costs, metered by time or data storage, can align directly with the amount that you leverage.
+> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=102)** This means that your costs, metered by time or [[Data Storage]], can align directly with the amount that you leverage.
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/paas-clouds?u=76281980&t=110)** This means that your PaaS cloud services should make you more cost efficient overall.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS]] (14), cloud (7), [[IaaS]] (4), [[Application Development]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[PaaS]] (14), [[IaaS]] (4), [[Application Development]] (3), [[Google]] (2), [[Microsoft Azure]] (2)
 > **CLI Commands:** make (3), aws (2), find (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Env Vars:** aws (2)
@@ -428,8 +422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of cloud deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
+#### [Types of cloud deployments](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -437,11 +430,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=4)** It's the configuration of cloud resources for a specific purpose.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=9)** It can entail SaaS, PaaS, and IaaS and can leverage different types of clouds.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=9)** It can entail [[SaaS]], [[PaaS]], and [[IaaS]] and can leverage different types of clouds.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=15)** Let's introduce these cloud deployments here and dig a bit deeper in subsequent videos in this section.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=22)** Private clouds are clouds that run on hardware that you own, typically within a data center that you also own.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=22)** [[Private Clouds]] are clouds that run on [[Hardware]] that you own, typically within a data center that you also own.
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=29)** They're called private clouds since they are for the use of you and your business only and are not open for use by the general public.
 >
@@ -449,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=45)** Public clouds are the clouds that you may already be familiar with.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=49)** Examples include Google, Microsoft, and Amazon Web Services.
+> **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=49)** Examples include [[Google]], [[Microsoft]], and [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=54)** They're called public clouds since they are open for anybody to use.
 >
@@ -463,7 +456,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=86)** These terms have evolved to refer to any physical system you own with a public cloud provider.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=93)** Interestingly, when the hybrid cloud was first defined, it was limited to a pair of public and private clouds only.
+> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=93)** Interestingly, when the [[Hybrid Cloud]] was first defined, it was limited to a pair of public and private clouds only.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980&t=101)** You'll find that many of these concepts are still evolving.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (4), [[Google]] (2), [[Microsoft]] (2), [[Hybrid Cloud]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Google]] (2), [[Microsoft]] (2), [[Hybrid Cloud]] (2), [[SaaS]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (2)
@@ -487,18 +480,17 @@ created: 2026-05-02
 > **Env Vars:** aws (1)
 > **Speakers:** - what (1)
 
-#### Understanding private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980)
+#### [Understanding private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=0)** - First, for most of these cloud deployment types, there are separate courses that you can find here on that specific topic.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=9)** This includes public clouds, private clouds, and multi-cloud deployments.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=9)** This includes public clouds, [[Private Clouds]], and multi-cloud deployments.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=14)** So if you want to take your understanding of these to the next level, we suggest you go there next.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=22)** As stated in the last video, private clouds exist on hardware, such as processing servers and storage servers that you physically own.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=22)** As stated in the last video, private clouds exist on [[Hardware]], such as processing servers and storage servers that you physically own.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-private-clouds?u=76281980&t=31)** Thus, it's a cloud that's private to you.
 >
@@ -528,15 +520,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Private Clouds]] (4), next (3), [[Hardware]] (3), data (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Hardware]] (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - first (1)
 
-#### Understanding public clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980)
+#### [Understanding public clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=6)** This means that we're leveraging public services that are stood up and maintained by a public cloud provider.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=13)** Some of the bigger ones include AWS, Microsoft, Google, Oracle, IBM, and Alibaba.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=13)** Some of the bigger ones include AWS, [[Microsoft]], [[Google]], Oracle, IBM, and Alibaba.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=22)** They tend to be much larger companies considering the resources required to get a public cloud going and keep it going.
 >
@@ -552,9 +543,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=38)** You leverage these services without knowing the exact physical server you're using, and indeed, they may share your processing and storage workload across many different servers that are also shared with many other people and companies.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=53)** This is the concept of multitenancy or sharing hardware resources among many tenants.
+> **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=53)** This is the concept of multitenancy or sharing [[Hardware]] resources among many tenants.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=60)** If that sounds scary, you found the core reason enterprises leverage private clouds they own and control.
+> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=60)** If that sounds scary, you found the core reason enterprises leverage [[Private Clouds]] they own and control.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=67)** Within public clouds, you give up that control.
 >
@@ -584,15 +575,15 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=148)** Another advantage is that you'll work on a platform that continually approves with constantly added features.
 >
-> **[2:37](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=157)** More recently, this would be generative AI services, thus, easily accessible for cloud-based applications.
+> **[2:37](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=157)** More recently, this would be [[Generative AI]] services, thus, easily accessible for cloud-based applications.
 >
-> **[2:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=165)** Public clouds are a strong option, and those that leverage cloud computing normally use public cloud providers.
+> **[2:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=165)** Public clouds are a strong option, and those that leverage [[Cloud Computing]] normally use public cloud providers.
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-public-clouds?u=76281980&t=172)** That said, there are good and bad aspects of this, and you'll need to look at your own requirements to pick the right cloud deployment pass.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (4), [[Hardware]] (3), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Microsoft]] (1), [[Google]] (1), [[Private Clouds]] (1), [[Generative AI]] (1)
 > **Env Vars:** aws (1), ibm (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** aws (1)
@@ -600,14 +591,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - public (1)
 
-#### Understanding hybrid clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980)
+#### [Understanding hybrid clouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=0)** - Hybrid clouds are traditionally paired with public and private clouds.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=0)** - Hybrid clouds are traditionally paired with public and [[Private Clouds]].
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=5)** However, the hybrid cloud has also taken on new meaning in recent years, including more traditional systems working with a public cloud.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=5)** However, the [[Hybrid Cloud]] has also taken on new meaning in recent years, including more traditional systems working with a public cloud.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=14)** Thus, we'll use the more inclusive definition here.
 >
@@ -615,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=38)** Even though both are AWS, the on-premise version of AWS that you're leveraging makes it an example of a hybrid cloud.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=46)** Or a hybrid cloud could be a mainframe system that works with Microsoft Azure Cloud, where the mainframe is used as a data server for the processes and applications in the Azure public cloud.
+> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=46)** Or a hybrid cloud could be a mainframe system that works with [[Microsoft Azure]] Cloud, where the mainframe is used as a data server for the processes and applications in the [[Microsoft Azure|Azure]] public cloud.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-hybrid-clouds?u=76281980&t=60)** Are you getting the pattern here?
 >
@@ -643,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (7), aws (6), [[Hybrid Cloud]] (4), business (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Private Clouds]] (1), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
 > **Cross-References:** we covered (1), in the last (1)
@@ -652,30 +642,29 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - hybrid (1)
 
-#### Understanding multiclouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980)
+#### [Understanding multiclouds](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=0)** - Let's talk about multiclouds.
 >
-> **[0:03](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=3)** Multiclouds are any public cloud that may or may not include on-premise systems, such as private clouds and traditional methods deployed to solve a specific set of business problems.
+> **[0:03](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=3)** Multiclouds are any public cloud that may or may not include on-premise systems, such as [[Private Clouds]] and traditional methods deployed to solve a specific set of business problems.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=14)** An example of a multicloud is an enterprise that simultaneously leverages AWS, Microsoft, and Google to support its core business processes and has those applications working together.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=14)** An example of a multicloud is an enterprise that simultaneously leverages AWS, [[Microsoft]], and [[Google]] to support its core business processes and has those applications working together.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=26)** Of course, you can add on-premise systems to that mix as well, and they usually are included in most multicloud deployments.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=33)** So what are the advantages and disadvantages of a multicloud?
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=37)** A significant advantage of a multicloud deployment would be the ability to leverage best of breed cloud services for business purposes.
+> **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=37)** A significant advantage of a multicloud deployment would be the ability to leverage best of breed [[Cloud Services]] for business purposes.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=46)** This means you're not limited to just the services offered by a single cloud provider, but can look at all cloud providers for specific services that may be a better fit, such as databases, AI, application deployment platforms, et cetera.
+> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=46)** This means you're not limited to just the services offered by a single cloud provider, but can look at all cloud providers for specific services that may be a better fit, such as [[Databases]], AI, application deployment platforms, et cetera.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=63)** This advantage allows businesses to find the most value from cloud computing since their solutions are not limited by what a specific cloud provider offers.
+> **[1:03](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=63)** This advantage allows businesses to find the most value from [[Cloud Computing]] since their solutions are not limited by what a specific cloud provider offers.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=71)** Also, almost 95% of enterprises out there have a multicloud deployment.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=77)** The disadvantage is much the same as a hybrid cloud.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=77)** The disadvantage is much the same as a [[Hybrid Cloud]].
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understanding-multiclouds?u=76281980&t=81)** Multiclouds are complex deployments with many different systems that need to be operated by other talents.
 >
@@ -691,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (5), [[Private Clouds]] (1), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Private Clouds]] (1), [[Microsoft]] (1), [[Google]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
@@ -703,20 +692,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud computing storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
+#### [Cloud computing storage](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=0)** - What is data storage?
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=0)** - What is [[Data Storage]]?
 >
-> **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=2)** Well, data storage is the retention of durable data on physical hardware over a more extended period, and there is always data to store from our phones, smart watches, computers, and also cloud applications.
+> **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=2)** Well, data storage is the retention of durable data on physical [[Hardware]] over a more extended period, and there is always data to store from our phones, smart watches, computers, and also cloud applications.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=19)** Everything needs some type of storage to operate functionally.
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=23)** Cloud storage is just storing data and systems you don't own but used as a service.
+> **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=23)** [[Cloud Storage]] is just storing data and systems you don't own but used as a service.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=29)** All types of clouds leverage storage, including IaaS, PaaS and SaaS clouds.
+> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=29)** All types of clouds leverage storage, including [[IaaS]], [[PaaS]] and [[SaaS]] clouds.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=35)** Thus, the patterns of use are very different.
 >
@@ -724,9 +712,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=48)** Some examples of cloud storage might include using a cloud database such as AWS's Dynamo DB to process data from an inventory application that also resides in the cloud.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=59)** Saving files on your computer to a file storage cloud service, such as Dropbox or Google Drive.
+> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=59)** Saving files on your computer to a file storage cloud service, such as Dropbox or [[Google Drive]].
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=66)** Using SaaS based system that stores customer data on their back-end cloud services on your behalf.
+> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=66)** Using SaaS based system that stores customer data on their back-end [[Cloud Services]] on your behalf.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980&t=73)** Handy things right?
 >
@@ -738,31 +726,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), data (8), [[SaaS]] (2), [[Hardware]] (1), [[IaaS]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (5), [[Data Storage]] (2), [[SaaS]] (2), [[Hardware]] (1), [[IaaS]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
 
-#### Cloud computing compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980)
+#### [Cloud computing compute](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=0)** - We discussed storage in the last video, now let's take a look at compute.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=6)** Cloud computing also supports compute services, this means that it provides CPUs for processing anything that needs to be processed.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=6)** [[Cloud Computing]] also supports compute services, this means that it provides CPUs for processing anything that needs to be processed.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=14)** So if we're leveraging cloud-based systems, it's usually going to have both storage and compute services at a minimum.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=23)** They are both needed to provide an essential platform.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=27)** Examples of compute would be a Linux system provisioned on Google that provides an Intel-based processor on-demand and 16 gigs of memory.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=27)** Examples of compute would be a [[Linux]] system provisioned on [[Google]] that provides an Intel-based processor on-demand and 16 gigs of memory.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=36)** A supercomputer provisioned by AWS, providing access to advanced processing power in support of an AI application.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=45)** A SaaS system processing end of year reporting for you, using a set of clustered X86 core processors.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=45)** A [[SaaS]] system processing end of year reporting for you, using a set of clustered X86 core processors.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=52)** Or anything where a CPU is provided on-demand or leveraged through an on-demand model.
 >
@@ -770,11 +757,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=67)** Those are typically provided when picking a CPU in the cloud.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=72)** The next video will look at databases in the cloud, which are used to perform higher level processing.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-compute?u=76281980&t=72)** The next video will look at [[Databases]] in the cloud, which are used to perform higher level processing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Linux]] (1), [[Google]] (1), aws (1), power (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Linux]] (1), [[Google]] (1), [[SaaS]] (1), [[Databases]] (1)
 > **Env Vars:** cpu (3), aws (1), x86 (1)
 > **Cross-References:** we discussed (1), in the last (1), next video (1)
 > **CLI Commands:** aws (1)
@@ -782,12 +769,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Cloud computing databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980)
+#### [Cloud computing databases](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=0)** - Now that we have covered storage and compute, which are considered more primitive cloud services, we can look at higher level services including cloud databases.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=0)** - Now that we have covered storage and compute, which are considered more primitive [[Cloud Services]], we can look at higher level services including cloud [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=10)** Keep in mind that databases leverage board compute and storage, which the database needs to do its job.
 >
@@ -797,19 +783,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=30)** However, it still manages the design, deployment, and interaction with the data.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=36)** Cloud database functionality examples include defining a customer database to store customer data from an inventory system using Oracle that's running on Azure, finding patterns in massive amounts of data running on an object database, such as DynamoDB running on AWS, creating a simple database to store sales transactions for a small business.
+> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=36)** Cloud database functionality examples include defining a customer database to store customer data from an inventory system using Oracle that's running on [[Microsoft Azure|Azure]], finding patterns in massive amounts of data running on an object database, such as DynamoDB running on AWS, creating a simple database to store sales transactions for a small business.
 >
-> **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=61)** Databases in the cloud are core to most applications and cloud computing use cases since everything must store and manage data as a part of the business solution.
+> **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=61)** Databases in the cloud are core to most applications and [[Cloud Computing]] use cases since everything must store and manage data as a part of the business solution.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=72)** Databases remove much of the work that would need to be done if you were leveraging storage systems directly, which is still a possibility, but for all intentions and purposes, this is no longer a productive way to store and manage data versus using a database.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=89)** In the next video, let's take a look at some cloud computing services that provide artificial intelligence.
+> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=89)** In the next video, let's take a look at some cloud computing services that provide [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-databases?u=76281980&t=95)** So stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (7), cloud (6), [[Databases]] (4), business (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Cloud Computing]] (2), [[Cloud Services]] (1), [[Microsoft Azure|Azure]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -818,18 +804,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - now (1)
 
-#### Cloud computing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980)
+#### [Cloud computing AI](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=0)** - AI is all the rage, and AI and cloud computing go hand in hand.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=0)** - AI is all the rage, and AI and [[Cloud Computing]] go hand in hand.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=5)** So of course, most AI-enabled solution development, deployment, and operations will exist on public cloud platforms.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=13)** This is well understood.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=15)** Public clouds provide AI-enabled services that are easy to find, leverage, and use with other cloud services, such as databases, application development, and more.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=15)** Public clouds provide AI-enabled services that are easy to find, leverage, and use with other [[Cloud Services]], such as [[Databases]], [[Application Development]], and more.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-ai?u=76281980&t=26)** Basically, everything you would need to build the perfect AI business solution.
 >
@@ -841,19 +826,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), cloud (4), [[Databases]] (1), [[Application Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (1), [[Databases]] (1), [[Application Development]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - ai (1)
 
-#### Other services to consider
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980)
+#### [Other services to consider](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=0)** - While storage, compute, databases, and AI are popular cloud services, there are others to consider as well.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=0)** - While storage, compute, [[Databases]], and AI are popular [[Cloud Services]], there are others to consider as well.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=8)** Thus, we made this video to provide an overview of some of those services so you'll know they exist.
 >
@@ -869,11 +853,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=46)** This means you can leverage any security service to find the right fit for your specific requirements.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=52)** We'll cover cloud security in the next chapter of this course.
+> **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=52)** We'll cover [[Cloud Security]] in the next chapter of this course.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=56)** Cloud governance services allow you to place limits around the use of cloud resources, including how much and in what context these resources can be leveraged.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=66)** Serverless computing is the ability to build and deploy applications with their resources automatically allocated for you.
+> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=66)** [[Serverless Computing]] is the ability to build and deploy applications with their resources automatically allocated for you.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=73)** Cloud monitoring and operation services are those services that are needed to monitor the significant functions of cloud-based systems.
 >
@@ -881,11 +865,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=84)** Of course, the list keeps growing.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=86)** As cloud computing evolves, the number of cloud services will only grow as well.
+> **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/other-services-to-consider?u=76281980&t=86)** As [[Cloud Computing]] evolves, the number of cloud services will only grow as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Security]] (3), [[Databases]] (1), ai (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Databases]] (1), [[Cloud Security]] (1), [[Serverless Computing]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -896,8 +880,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep data storage on-premises
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
+#### [Keep data storage on-premises](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,9 +888,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=6)** Moving into the bank's nest growth stage, it wants to consolidate data from several systems, including a recent acquisition into a single storage platform.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=17)** This platform will contain most of the customer data, transaction data, and banking data.
+> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=17)** This platform will contain most of the customer data, transaction data, and [[Banking]] data.
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=23)** Legal requirements of the plan stipulate that they should not use remote data storage systems, and that the data must be kept at a higher state of security than the other data they control.
+> **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=23)** Legal requirements of the plan stipulate that they should not use remote [[Data Storage]] systems, and that the data must be kept at a higher state of security than the other data they control.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=34)** The company has also established a requirement that data access performance needs to be optimized.
 >
@@ -917,31 +900,30 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=51)** As a consultant, you are tasked with figuring out the best data storage platform.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=56)** A private cloud computing solution is the best option, giving the specific requirements.
+> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=56)** A private [[Cloud Computing]] solution is the best option, giving the specific requirements.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980&t=62)** Considering the legal restrictions of not leveraging a remote computing service, as well as the desire to optimize data access performance, keeping the data as close to the core applications as possible in a private cloud will be the best option.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Banking]] (2), cloud (2), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Data Storage]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - abc (1)
 
-#### Leverage compute and storage at scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980)
+#### [Leverage compute and storage at scale](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=0)** - In this case study, an investment firm has massive data to store and use, requiring 10 petabytes.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=8)** The data is historical transaction data that needs to be leveraged to train the new generative AI systems that will assist them in picking stocks.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=8)** The data is historical transaction data that needs to be leveraged to train the new [[Generative AI]] systems that will assist them in picking stocks.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=17)** The data will only be leveraged a few times a year for AI training purposes, and will be updated weekly from transactional trading data that will be gathered.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=27)** The company has no private data center, and is 100% already in the cloud.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=33)** There is no special security restrictions on this data other than leveraging encryption in-flight, as the data moves into the database, and at rest, as it's stored in the database.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=33)** There is no special security restrictions on this data other than leveraging encryption in-flight, as the data moves into the database, and at [[Representational State Transfer (REST)|rest]], as it's stored in the database.
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=45)** So, what is the right solution for this use case?
 >
@@ -949,25 +931,24 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=63)** Pay-as-you-go pricing means that the bill size grows with the data.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=68)** The ability to expand storage as needed without purchasing hardware is a big win.
+> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=68)** The ability to expand storage as needed without purchasing [[Hardware]] is a big win.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=74)** And finally, the ability to leverage specific cloud services co-located with data, such as AI and security, are a perfect fit for those business needs.
+> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-compute-and-storage-at-scale?u=76281980&t=74)** And finally, the ability to leverage specific [[Cloud Services]] co-located with data, such as AI and security, are a perfect fit for those business needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (3), cloud (3), [[Security]] (3), database (2)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1), [[Cloud Services]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Leverage more than one cloud provider to solve a problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980)
+#### [Leverage more than one cloud provider to solve a problem](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980&t=0)** - [Instructor] XYZ Tech is a high tech company that needs to build AI systems to support software development activities.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980&t=0)** - [Instructor] XYZ Tech is a high tech company that needs to build AI systems to support [[Software Development]] activities.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980&t=8)** In looking at the best of breed solutions for them, one exists on AWS and the other on Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980&t=8)** In looking at the best of breed solutions for them, one exists on AWS and the other on [[Microsoft Azure]].
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/leverage-more-than-one-cloud-provider-to-solve-a-problem?u=76281980&t=15)** We know using two cloud brands increases the cost of the solution due to the additional operational complexity.
 >
@@ -977,14 +958,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), ai (2), [[Software Development]] (1), aws (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** xyz (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mix on-premises with public cloud databases and compute services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980)
+#### [Mix on-premises with public cloud databases and compute services](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980&t=26)** It was decided that the processing would occur in the public cloud provider while the data would remain on premises.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980&t=34)** This hybrid cloud solution means we have a mix of private and public cloud providers where a single application operates across both.
+> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980&t=34)** This [[Hybrid Cloud]] solution means we have a mix of private and public cloud providers where a single application operates across both.
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/mix-on-premises-with-public-cloud-databases-and-compute-services?u=76281980&t=42)** In this case, we keep the data within the private cloud and the application processing on the public cloud.
 >
@@ -1008,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), cloud (5), data (4), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (1)
 > **Speakers:** - a (1)
 
 
@@ -1016,8 +996,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud security planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
+#### [Cloud security planning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980&t=16)** Being proactive is the best defense, so make sure you focus on monitoring and take corrective action when necessary.
 >
-> **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980&t=24)** Cloud security requires that we learn about the very basics, such as being reactive, as well as the more complex.
+> **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980&t=24)** [[Cloud Security]] requires that we learn about the very basics, such as being reactive, as well as the more complex.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980&t=33)** This is where you can be more predictive or spot issues before they become real problems.
 >
@@ -1069,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), cloud (7), database (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (5)
 > **Definitions:** means that (4), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1077,8 +1056,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - it (1)
 
-#### Cloud security requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980)
+#### [Cloud security requirements](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,7 +1078,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=38)** APIs ensure that we can programmatically access the security features.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=44)** Repository, so that we can keep track of all entities within the cloud computing problem domain for security and governance purposes.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=44)** Repository, so that we can keep track of all entities within the [[Cloud Computing]] problem domain for security and governance purposes.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=53)** Central logs to ensure that we have a central understanding of what's happening.
 >
@@ -1112,7 +1090,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=79)** The following are some essential security properties to consider.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=83)** Encryption strategy are how we're going to encrypt data in flight and data at rest.
+> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=83)** Encryption strategy are how we're going to encrypt data in flight and data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=89)** Common tool chain, meaning that we're using the same tool sets.
 >
@@ -1136,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=145)** One-touch deploys, we're able to deploy security solutions with a single push.
 >
-> **[2:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=151)** Automated metadata tagging, meaning that we're able to manage data better by providing identifiers.
+> **[2:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=151)** Automated [[Metadata]] tagging, meaning that we're able to manage data better by providing identifiers.
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=158)** Measure and communicate results to drive continual improvement and build upon existing capabilities.
 >
@@ -1146,11 +1124,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=180)** This is a good template for you to use as you gather your own security requirements using all of the concepts presented in this video.
 >
-> **[3:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=188)** We'll break down the other components in the next videos, allowing you to continue the journey to a fully-optimized cloud security solution.
+> **[3:08](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-requirements?u=76281980&t=188)** We'll break down the other components in the next videos, allowing you to continue the journey to a fully-optimized [[Cloud Security]] solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), cloud (4), data (3), business (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1), [[Cloud Security]] (1)
 > **Env Vars:** oss (2), bss (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1159,8 +1137,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 
-#### Selecting cloud security technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980)
+#### [Selecting cloud security technology](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1149,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=9)** Never assume that things will work.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=12)** Cloud security providers can't test every tool, and you could be the one configuration things don't work.
+> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=12)** [[Cloud Security]] providers can't test every tool, and you could be the one configuration things don't work.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=18)** So you need to find that out upfront.
 >
@@ -1186,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=59)** Moreover, we should know what the best bets are in tools and technology that will most likely be the best use case.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=66)** Our security approach and tools need to work with public clouds, private clouds, and traditional systems.
+> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=66)** Our security approach and tools need to work with public clouds, [[Private Clouds]], and traditional systems.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=73)** So what are the best practices in selecting the right security technology?
 >
@@ -1214,21 +1191,20 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=120)** Completeness of system documentation, meaning that we need a complete set of documentation to ensure that we're detailing out the use of the tools.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=129)** Improvement in the ability to enforce security and privacy policies means that we're automating this process as much as possible.
+> **[2:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=129)** Improvement in the ability to enforce security and [[Privacy]] policies means that we're automating this process as much as possible.
 >
 > **[2:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-security-technology?u=76281980&t=138)** With these best practices, you should be able to select a security solution that best fits your needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), cloud (3), business (1), [[Private Clouds]] (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[Private Clouds]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** select the (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - my (1)
 
-#### Security implementation and operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980)
+#### [Security implementation and operations](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,13 +1212,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=7)** Make sure to focus on training so that everyone understands their roles.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=11)** Also, successful security operations are dependent upon proactive monitoring.
+> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=11)** Also, successful [[Security Operations]] are dependent upon proactive monitoring.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=17)** Let's look at a few ways to do that.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=19)** Require transparency.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=22)** This means that we can see what's going on and where, and react accordingly.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=22)** This means that we can see what's going on and where, and [[React.js|react]] accordingly.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=27)** Make data available everywhere, either through APIs or dashboard, allowing anyone to see the current state of security and monitoring.
 >
@@ -1250,7 +1226,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=39)** Yes, again, the data will provide you with the ability to be proactive and predictive.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=44)** As you recall, both are important to advance cloud security.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=44)** As you recall, both are important to advance [[Cloud Security]].
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=49)** Mine data for patterns.
 >
@@ -1262,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=69)** You need to get ahead of those.
 >
-> **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=71)** Fast feedback loops trigger higher learning, as well as provide real-time data as much as possible.
+> **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=71)** Fast feedback loops trigger higher learning, as well as provide [[Real-Time]] data as much as possible.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-implementation-and-operations?u=76281980&t=78)** The number of security standards is daunting.
 >
@@ -1288,7 +1264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), cloud (6), data (4), [[React.js|React]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Security Operations]] (3), [[React.js|React]] (1), [[Cloud Security]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), means that (1)
 > **Warnings:** keep in mind (1), be aware (1)
@@ -1301,8 +1277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud operations overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
+#### [Cloud operations overview](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=28)** CloudOps or cloud operations is a formalization of best practices and procedures that allow cloud-based platforms, applications, and data to function well over a long duration of time.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=40)** In other words, while moving to the cloud is important, the ability to stay there and be effective depends on operational procedures and operational excellence.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=40)** In other words, while moving to the cloud is important, the ability to stay there and be effective depends on operational procedures and [[Operational Excellence]].
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=51)** Although CloudOps is still an emerging science, certain patterns are beginning to emerge that are on their way to becoming best practices.
 >
@@ -1328,9 +1303,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=78)** When things went wrong, such as network or storage problems, application services stopped as well.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=85)** However, as we moved those systems to public or private clouds, the demand from users is no outages.
+> **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=85)** However, as we moved those systems to public or [[Private Clouds]], the demand from users is no outages.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=93)** This is a tall order, given that cloud computing platforms are relatively new, but they're being sold as more reliable and more scalable than traditional systems in traditional data centers.
+> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=93)** This is a tall order, given that [[Cloud Computing]] platforms are relatively new, but they're being sold as more reliable and more scalable than traditional systems in traditional data centers.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980&t=105)** That doesn't mean continuous operations are an automatic part of cloud technology.
 >
@@ -1350,14 +1325,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), application (2), data (2), business (1), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (1), [[Private Clouds]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (2), we call this (1), in other words (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Cloud operations technology and toolsets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980)
+#### [Cloud operations technology and toolsets](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=44)** There are three flavors of these tools.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=47)** First are cloud management platforms or CMP tools that allow you to manage cloud services, provisioning and deprovisioning machines and services.
+> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=47)** First are cloud management platforms or CMP tools that allow you to manage [[Cloud Services]], provisioning and deprovisioning machines and services.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=56)** They provide the ability to automate continuous operations, since you can place a layer of automation around cloud-based machine instances and cloud-based services.
 >
@@ -1385,11 +1359,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=70)** Therefore, most common problems, such as storage system failures, network device failures, et cetera, can usually be self healed without users even realizing there was a problem.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=81)** Also, when the software is updated, automated processes that are typically linked with automated DevOps processes are able to test stage and deploy software updates without any interruption in application services.
+> **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=81)** Also, when the software is updated, automated processes that are typically linked with automated [[DevOps]] processes are able to test stage and deploy software updates without any interruption in application services.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=94)** Second is AIOps.
+> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=94)** Second is [[AIOps]].
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=96)** AIOps is short for artificial intelligence for IT operations.
+> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=96)** AIOps is short for [[Artificial Intelligence (AI)|artificial intelligence]] for IT operations.
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-technology-and-toolsets?u=76281980&t=100)** It refers to multi-layered technology platforms that automate and enhance IT operations through analytics and machine learning.
 >
@@ -1413,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[AIOps]] (5), management (4), ai (3), data (3)
+> **Frameworks & Libraries:** [[AIOps]] (5), [[Cloud Services]] (1), [[DevOps]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** cmp (1)
@@ -1421,8 +1395,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Cloud monitoring and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980)
+#### [Cloud monitoring and management](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1442,11 +1415,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=61)** This means that it becomes the mechanism that sees all in terms of workloads, services, data, security, governance, et cetera, and leveraging a single pane of glass is critical to see how the systems are operating holistically.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=78)** Moreover, as we begin to leverage hybrid clouds as private and public cloud platform options, the ability to move workloads between them effectively becomes a key value to leveraging hybrid cloud technology.
+> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=78)** Moreover, as we begin to leverage hybrid clouds as private and public cloud platform options, the ability to move workloads between them effectively becomes a key value to leveraging [[Hybrid Cloud]] technology.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=90)** Thus, we need to be able to monitor workloads no matter if they reside on public or private clouds, and even if they're distributed between both.
+> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=90)** Thus, we need to be able to monitor workloads no matter if they reside on public or [[Private Clouds]], and even if they're distributed between both.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=99)** Core to all of this is to provide the holistic collection of data that are able to determine both operational health of all systems, as well as targeted performance metrics.
+> **[1:39](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=99)** Core to all of this is to provide the holistic collection of data that are able to determine both operational health of all systems, as well as targeted [[Performance Metrics]].
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=108)** Moving to hybrid clouds from traditional on-premise systems does not mean giving up control of all operations.
 >
@@ -1472,11 +1445,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=179)** It's how users think about using cloud-based systems long term.
 >
-> **[3:04](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=184)** Thus, this needs to be a core focus, which is foundational to cloud computing success.
+> **[3:04](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-monitoring-and-management?u=76281980&t=184)** Thus, this needs to be a core focus, which is foundational to [[Cloud Computing]] success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (6), management (3), [[Security]] (2), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (1), [[Private Clouds]] (1), [[Performance Metrics]] (1), [[Cloud Computing]] (1)
 > **Definitions:** means that (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - monitoring (1)
@@ -1486,8 +1459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's FinOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
+#### [What's FinOps?](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,13 +1471,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=20)** It's a collection of operating models and technology that combine best practices with technology and culture that improve enterprise's ability to optimize cloud costs.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=31)** IT, developers, finance, procurement, and others collaborate to find the most value from cloud computing technology.
+> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=31)** IT, developers, finance, procurement, and others collaborate to find the most value from [[Cloud Computing]] technology.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=38)** So why is FinOps important?
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=41)** Cost overruns are familiar to those who deploy cloud-based solutions.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=46)** This results from needing a better understanding of what and how the cloud providers are billing for cloud services.
+> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=46)** This results from needing a better understanding of what and how the cloud providers are billing for [[Cloud Services]].
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980&t=53)** Often the core issue is a lack of controls and visibility into how cloud computing spending is occurring.
 >
@@ -1517,21 +1489,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (3), management (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (2)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - finops (1)
 
-#### Cloud cost accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980)
+#### [Cloud cost accountability](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=0)** - One of the main functions of FinOps is to provide cost accountability for cloud computing.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=0)** - One of the main functions of FinOps is to provide cost [[Accountability]] for [[Cloud Computing]].
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=6)** This means several things, including monitoring the cost of cloud computing over time, such as how much public cloud storage is consumed over a given period.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=6)** This means several things, including monitoring the cost of cloud computing over time, such as how much public [[Cloud Storage]] is consumed over a given period.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=16)** Monitoring who or what is consuming cloud services.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=16)** Monitoring who or what is consuming [[Cloud Services]].
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-accountability?u=76281980&t=20)** We need to know what the service is used for, whether it's applications or humans, also for what purpose.
 >
@@ -1547,14 +1518,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Accountability]] (1), [[Cloud Storage]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Cloud cost observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980)
+#### [Cloud cost observability](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,18 +1544,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980&t=47)** This helpful information, beyond just the raw data from cost accounting, allows us to have a deeper understanding of why something is occurring and thus aids us in planning for future consumption.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980&t=59)** For instance, if storage usage from the finance group is tied to the economy, then the economy going into a downturn would mean that the cloud storage consumption should decrease as well.
+> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980&t=59)** For instance, if storage usage from the finance group is tied to the economy, then the economy going into a downturn would mean that the [[Cloud Storage]] consumption should decrease as well.
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-observability?u=76281980&t=70)** This makes cost observability a considerable value from FinOps and is helpful to understand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), data (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **Speakers:** - once (1)
 
-#### Cloud cost governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980)
+#### [Cloud cost governance](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1597,7 +1566,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980&t=21)** Examples of these policies would be: "Don't allow cloud spending for the inventory system to surpass $10,000 a month."
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980&t=30)** "Warn those reaching a $200 threshold for cloud storage that they will have that cost removed from next year's budget."
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980&t=30)** "Warn those reaching a $200 threshold for [[Cloud Storage]] that they will have that cost removed from next year's budget."
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-cost-governance?u=76281980&t=38)** "Restrict the use of year-end cloud processing to lower cost processing systems on the cloud."
 >
@@ -1615,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), feature (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - so (1)
 
@@ -1624,8 +1593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify which apps to move
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
+#### [Identify which apps to move](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1669,13 +1637,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980&t=130)** Finally, let's move to operate and improve, meaning that we're going to find ways to operate the cloud to meet our user expectations as well as continuously improve the applications ongoing.
 >
-> **[2:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980&t=142)** Identifying which applications to move is a multi-step consideration, but well worth the effort because successful migration to the cloud for large sets of applications require strategic thinking and planning.
+> **[2:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980&t=142)** Identifying which applications to move is a multi-step consideration, but well worth the effort because successful migration to the cloud for large sets of applications require [[Strategic Thinking]] and planning.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980&t=154)** Following and considering the steps we discussed, with a few modifications based on any unique needs, will help you get migration right the first time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), application (10), data (2), business (2), database (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** you'll need (2)
@@ -1684,8 +1652,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify which data to move
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980)
+#### [Identify which data to move](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1664,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=20)** Compliance issues or how to deal with the data to meet state, local, and federal laws.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=26)** Finally, performance issues or how well the systems in the cloud will perform, given the data processing requirements.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=26)** Finally, performance issues or how well the systems in the cloud will perform, given the [[Data Processing]] requirements.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=33)** Here too, we must consider the business case and establish what the data migration is worth to the business.
 >
@@ -1721,19 +1688,18 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=102)** Finally, improve integration and access, meaning that we're looking to make the data accessible by anyone who needs it.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=109)** So when migrating to the cloud computing, it's essential to keep in mind security issues, compliance issues, and performance issues.
+> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-data-to-move?u=76281980&t=109)** So when migrating to the [[Cloud Computing]], it's essential to keep in mind security issues, compliance issues, and performance issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), cloud (6), [[Security]] (4), business (3), database (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - please (1)
 
-#### Understand total cost of ownership (TCO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980)
+#### [Understand total cost of ownership (TCO)](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,13 +1741,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=132)** Value of agility is often an overlooked area.
 >
-> **[2:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=136)** In many cases, this is the primary value point of leveraging cloud computing.
+> **[2:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=136)** In many cases, this is the primary value point of leveraging [[Cloud Computing]].
 >
 > **[2:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=141)** Moreover, the cost of retiring selected application infrastructure or data centers needs to be understood as well.
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=148)** You'll need to figure out the real costs.
 >
-> **[2:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=151)** That includes what to do with leftover hardware and software.
+> **[2:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=151)** That includes what to do with leftover [[Hardware]] and software.
 >
 > **[2:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/understand-total-cost-of-ownership-tco?u=76281980&t=155)** Also, understand the changes required to maintain service level and software cost.
 >
@@ -1795,7 +1761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (4), business (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1)
 > **Env Vars:** tco (6), roi (5)
 > **Definitions:** means that (2), is an  (1)
 > **Cross-References:** in the last (1)
@@ -1804,8 +1770,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - before (1)
 
-#### Cloud migration planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980)
+#### [Cloud migration planning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1817,7 +1782,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=25)** These seven ways to move applications to the cloud are a great guide for planning your migration, also known as the 7 Rs.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=33)** Replace means that were replacing the software with a SaaS solution.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=33)** Replace means that were replacing the software with a [[SaaS]] solution.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=38)** Reuse means that we're dividing up the application as sets of services and then leveraging those services for other applications.
 >
@@ -1833,7 +1798,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=75)** Estimated application migration resource levels can be challenging to measure at first.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=80)** This means that you need to understand how much is going into migration relative to the value that cloud computing may bring.
+> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=80)** This means that you need to understand how much is going into migration relative to the value that [[Cloud Computing]] may bring.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-migration-planning?u=76281980&t=88)** You need to consider the cost of people, resources, and the time it will take to migrate your application to the cloud.
 >
@@ -1845,13 +1810,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (7), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (1), [[Cloud Computing]] (1)
 > **Definitions:** means that (9), known as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - to (1)
 
-#### Selecting cloud types
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980)
+#### [Selecting cloud types](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1863,11 +1827,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=22)** We have several types to choose from that we've learned about earlier in this course.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=26)** This includes IaaS, SaaS, and PaaS.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=26)** This includes [[IaaS]], [[SaaS]], and [[PaaS]].
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=30)** IaaS will be the solution the majority of the time, but not all the time.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=34)** Again, these public and private clouds offer much of the same resources we find in more traditional data centers, including storage, compute, databases, AI, et cetera.
+> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=34)** Again, these public and [[Private Clouds]] offer much of the same resources we find in more traditional data centers, including storage, compute, [[Databases]], AI, et cetera.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-types?u=76281980&t=46)** We would use an IaaS public or private cloud offering to configure the best solution for the business.
 >
@@ -1901,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[IaaS]] (6), [[PaaS]] (5), [[SaaS]] (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[IaaS]] (6), [[PaaS]] (5), [[SaaS]] (4), [[Databases]] (2), [[Private Clouds]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** erp (1), crm (1)
 > **UI Navigation:** select the (2)
@@ -1910,12 +1874,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Selecting cloud deployment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980)
+#### [Selecting cloud deployment models](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=0)** - Deployment models come down to the type of private clouds, public clouds, hybrid clouds, and multiclouds you will use and configure that we discussed in the last video.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=0)** - Deployment models come down to the type of [[Private Clouds]], public clouds, hybrid clouds, and multiclouds you will use and configure that we discussed in the last video.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=11)** We covered what those deployment models are and the benefits and limitations of each.
 >
@@ -1925,13 +1888,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=34)** As we covered earlier, private clouds provide fewer features and services than public clouds.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=40)** They could be more expensive because you must purchase and maintain the hardware.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=40)** They could be more expensive because you must purchase and maintain the [[Hardware]].
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=44)** Public clouds are the most likely solution considering they usually provide the best features and functions that can be cost effective.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=53)** Again, you can leverage public clouds as standalone solutions or with a hybrid or multicloud.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=60)** A hybrid cloud is often the more popular choice when using a public cloud since it also includes private clouds or traditional systems that reside on premises.
+> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=60)** A [[Hybrid Cloud]] is often the more popular choice when using a public cloud since it also includes private clouds or traditional systems that reside on premises.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=72)** This gives you the best of both worlds since you can run processes and store data on each.
 >
@@ -1939,7 +1902,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=89)** This is also the choice when looking for best of breed solutions that usually span public cloud providers.
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=96)** For instance, for your specific cloud solution, it may be best to store the data on Google and run the AI system on AWS.
+> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=96)** For instance, for your specific cloud solution, it may be best to store the data on [[Google]] and run the AI system on AWS.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/selecting-cloud-deployment-models?u=76281980&t=105)** Thus, a multicloud is the best choice.
 >
@@ -1949,7 +1912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Private Clouds]] (5), data (2), [[Hardware]] (1), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (5), [[Hardware]] (1), [[Hybrid Cloud]] (1), [[Google]] (1)
 > **Cross-References:** we covered (2), we discussed (1), in the last (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
@@ -1958,8 +1921,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - deployment (1)
 
-#### Security planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980)
+#### [Security planning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1967,13 +1929,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=12)** We've already covered security planning in detail in a previous video.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=16)** Let's look at what applies here in the context of application migration or a net new cloud-based application development.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=16)** Let's look at what applies here in the context of application migration or a net new cloud-based [[Application Development]].
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=23)** A practical action plan is to deal with the basics first.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=28)** This means that we'll set a foundation of security that provides the minimum amount of money we need, but returns the maximum amount of value.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=36)** Be proactive, meaning that the heart of any good cloud security architecture and technology is the ability to spot issues before they become problems.
+> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=36)** Be proactive, meaning that the heart of any good [[Cloud Security]] architecture and technology is the ability to spot issues before they become problems.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/security-planning?u=76281980&t=46)** This means picking security solutions such as encryption and identity access management systems that are specifically selected to meet your application specific needs and the platform you're running the application on.
 >
@@ -1993,15 +1955,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), application (5), cloud (5), business (2), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Application Development]] (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - ensure (1)
 
-#### Skills needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980)
+#### [Skills needed](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,13 +1978,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=30)** Wrong decisions can make or break cloud migration or development projects.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=35)** Usually, this person needs a wide range of skills, including cloud technology, databases, security, governance, operation, and DevOps.
+> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=35)** Usually, this person needs a wide range of skills, including cloud technology, [[Databases]], security, governance, operation, and [[DevOps]].
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=45)** Cloud Security Specialist.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=45)** [[Cloud Security]] Specialist.
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=47)** As the name implies, this person needs to have a deep understanding of cloud security systems, such as encryption and identity access management.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=56)** They should understand how security works on the selected cloud platforms such as AWS, Azure, and Google, but also how security works on other platforms and cross platforms.
+> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=56)** They should understand how security works on the selected cloud platforms such as AWS, [[Microsoft Azure|Azure]], and [[Google]], but also how security works on other platforms and cross platforms.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=67)** Cloud Database Specialist.
 >
@@ -2031,13 +1992,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=78)** Cloud Developer.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=80)** This person needs to understand how to build and deploy applications in the cloud using the technology solution you selected, as well as application development and best practices in general.
+> **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=80)** This person needs to understand how to build and deploy applications in the cloud using the technology solution you selected, as well as [[Application Development]] and best practices in general.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=91)** Cloud Business Analyst.
 >
 > **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=93)** This person brings business expertise to the project.
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=96)** For instance, understanding how banking systems work if you're building a banking system.
+> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=96)** For instance, understanding how [[Banking]] systems work if you're building a banking system.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/skills-needed?u=76281980&t=102)** Many other types of skills.
 >
@@ -2047,7 +2008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Security]] (6), [[Databases]] (3), business (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Cloud Security]] (2), [[Banking]] (2), [[DevOps]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
@@ -2059,8 +2020,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud news and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)
+#### [Cloud news and resources](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2074,7 +2034,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=18)** I've been a cloud blogger in InfoWorld for the last 10 years.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=21)** Here I address information for both new and experienced in cloud computing as to what's going on, and what it means to you, and what to watch out for.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=21)** Here I address information for both new and experienced in [[Cloud Computing]] as to what's going on, and what it means to you, and what to watch out for.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=31)** Other cloud news can be found on [networkworld.com](https://networkworld.com), and [informationweek.com](https://informationweek.com), and other tech platforms.
 >
@@ -2090,17 +2050,17 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=65)** Cloud computing is truly a journey in the evolution of IT to platforms that are more cost effective and capable.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=72)** This means a fundamental shift in how we think about computing and how we now leverage technology running on hardware that we never actually see.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=72)** This means a fundamental shift in how we think about computing and how we now leverage technology running on [[Hardware]] that we never actually see.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=81)** This should prove to be a positive shift for the majority of companies that leverage cloud computing.
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=86)** Indeed, this could be your force multiplier in the marketplace that actually makes a business that's able to leverage this technology effectively.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=94)** Thank you so much for joining me here on LinkedIn Learning, and best of luck with keeping your heads in the clouds.
+> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980&t=94)** Thank you so much for joining me here on [[LinkedIn]] Learning, and best of luck with keeping your heads in the clouds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), aws (1), [[Hardware]] (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Hardware]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), aws (1)
 > **URLs:** [networkworld.com](https://networkworld.com) (1), [informationweek.com](https://informationweek.com) (1)
 > **Env Vars:** smr (1), aws (1)

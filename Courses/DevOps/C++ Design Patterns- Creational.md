@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organize your code with creational design patterns in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980)
+#### [Organize your code with creational design patterns in C++](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,11 +110,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=7)** And if you don't structure your program well from the beginning, you'll quickly find yourself spending more time refactoring code than adding new features.
 >
-> **[0:17](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=17)** In this course, I'll introduce you to creational design patterns that will help keep your code organized.
+> **[0:17](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=17)** In this course, I'll introduce you to creational [[Design Patterns]] that will help keep your code organized.
 >
 > **[0:24](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=24)** And more importantly, easy to update an extent.
 >
-> **[0:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=27)** These are commonly used structures that address issues that typically occur in software development.
+> **[0:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=27)** These are commonly used structures that address issues that typically occur in [[Software Development]].
 >
 > **[0:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980&t=34)** I'll explain the motivation for each creational pattern, explaining how each one works.
 >
@@ -133,16 +132,15 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=0)** - [Instructor] Before starting this course, you should already understand the fundamentals of object-oriented programming, including the concepts of inheritance and polymorphism.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=0)** - [Instructor] Before starting this course, you should already understand the fundamentals of [[Object-Oriented Programming (OOP)|object-oriented programming]], including the concepts of inheritance and polymorphism.
 >
-> **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=10)** Although design patterns in this course leverage the power of object-oriented design to build from.
+> **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=10)** Although [[Design Patterns]] in this course leverage the power of object-oriented design to build from.
 >
-> **[0:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=15)** If you're unfamiliar with these concepts, I recommend checking out the programming foundations object-oriented design first.
+> **[0:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=15)** If you're unfamiliar with these concepts, I recommend checking out the [[Programming Foundations]] object-oriented design first.
 >
 > **[0:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-you-should-know-14317588?u=76281980&t=23)** I'll be using class diagrams to help convey the relationships between classes for each pattern.
 >
@@ -184,19 +182,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Design Patterns]] (1), power (1), [[Programming Foundations]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Design Patterns]] (1), [[Programming Foundations]] (1)
 > **Env Vars:** ide (2), uml (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Visual Studio for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980)
+#### [Installing Visual Studio for Windows](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=0)** - [Instructor] For this course, I'll be using the Visual Studio Community IDE, which I'll walk you through, getting and installing on your Windows computer.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=0)** - [Instructor] For this course, I'll be using the Visual Studio Community IDE, which I'll walk you through, getting and installing on your [[Windows]] computer.
 >
 > **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=10)** To get the installer, go to the download page at www.[visualstudio.com/vs/community](https://visualstudio.com/vs/community).
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=26)** So the installer will start once the download is complete.
 >
-> **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=29)** Click Continue on the privacy prompt.
+> **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=29)** Click Continue on the [[Privacy]] prompt.
 >
 > **[0:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=34)** From the installation dialogue, select Workloads, and then select the option Desktop Development with C++, then leave all the install options as default and click Install.
 >
@@ -222,11 +219,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=96)** And to open up one of the solutions, I double click on one of the .sln files.
 >
-> **[1:42](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=102)** Now that I have verified that Visual Studio has installed and is working properly, we can start creating programs based on different design patterns.
+> **[1:42](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-visual-studio-for-windows-14317579?u=76281980&t=102)** Now that I have verified that Visual Studio has installed and is working properly, we can start creating programs based on different [[Design Patterns]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Privacy]] (1), prompt (1), application (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Privacy]] (1), [[Design Patterns]] (1)
 > **UI Navigation:** go to (3), click on (2), select the (1), navigate to (1)
 > **Tools:** visual studio (2)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -235,14 +232,13 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Xcode on Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980)
+#### [Installing Xcode on Mac](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=0)** - [Instructor] For this course, I'll be using the Visual Studio Community IDE, but you can also follow along using Xcode, which I'll walk you through getting and installing on your Mac computer.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=0)** - [Instructor] For this course, I'll be using the Visual Studio Community IDE, but you can also follow along using [[Xcode]], which I'll walk you through getting and installing on your Mac computer.
 >
-> **[0:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=13)** From the App Store, search for Xcode, all one word.
+> **[0:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=13)** From the App Store, search for Xcode, all one [[Microsoft Word|word]].
 >
 > **[0:17](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=17)** Click on the link and then click Install for the Xcode software.
 >
@@ -266,11 +262,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=85)** Then, I click on Finish to move the desired files.
 >
-> **[1:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=89)** Now that Xcode is all set up, we can start creating programs based on different design patterns.
+> **[1:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/installing-xcode-on-mac?u=76281980&t=89)** Now that Xcode is all set up, we can start creating programs based on different [[Design Patterns]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (5), next (2), [[Search]] (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (5), [[Microsoft Word|Word]] (1), [[Design Patterns]] (1)
 > **UI Navigation:** click on (4), open the (1), navigate to (1)
 > **Exercise Files:** template (2), exercise files (2)
 > **Tools:** visual studio (1), command line (1)
@@ -279,8 +275,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Env Vars:** ide (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,8 +300,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenges-in-this-course?u=76281980)
+#### [Challenges in this course](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenges-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,12 +334,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for a design pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980)
+#### [The need for a design pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=0)** - [Instructor] One of the biggest challenges in software development, is creating something that's flexible, maintainable and extensible.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=0)** - [Instructor] One of the biggest challenges in [[Software Development]], is creating something that's flexible, maintainable and extensible.
 >
 > **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=8)** Code will undergo many changes, major and minor throughout the development process.
 >
@@ -413,23 +406,22 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=233)** This is where a design pattern can be really useful.
 >
-> **[3:57](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=237)** At the end of the course, I'll come back to the scenario and see how design patterns can help rein in this chaos.
+> **[3:57](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980&t=237)** At the end of the course, I'll come back to the scenario and see how [[Design Patterns]] can help rein in this chaos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), [[Software Development]] (1), next (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Design Patterns]] (1)
 > **Env Vars:** asap (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980)
+#### [What are design patterns?](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=0)** - [Instructor] A design pattern is a common, repeatable solution for creating software programs.
 >
-> **[0:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=6)** One of the biggest challenges in software development is creating code that is flexible, maintainable, and extensible.
+> **[0:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=6)** One of the biggest challenges in [[Software Development]] is creating code that is flexible, maintainable, and extensible.
 >
 > **[0:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=15)** As a developer, I always ask myself, how can I implement a solution that makes it easy to add new features, remove features, replace features, or apply the program in different situations?
 >
@@ -451,13 +443,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=74)** Just like there are many ways to build a good house, there are many ways to develop good code.
 >
-> **[1:22](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=82)** Design patterns define these different code structures a developer can use to implement solutions.
+> **[1:22](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=82)** [[Design Patterns]] define these different code structures a developer can use to implement solutions.
 >
 > **[1:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=89)** They're not strict standards with exact lines of code to use.
 >
 > **[1:33](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=93)** Rather there are templates and best practices that provide room for interpretation based on the programming language and use cases.
 >
-> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=105)** While design patterns have been in use for years, they become widely adopted and popular thanks to Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, better known as the gang of four.
+> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=105)** While design patterns have been in use for years, they become widely adopted and popular thanks to Erich Gamma, Richard [[Helm]], Ralph Johnson, and [[John the Ripper|John]] Vlissides, better known as the gang of four.
 >
 > **[1:59](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=119)** They wrote a book called "Design Patterns: "Elements of Reusable Object-Oriented Software," which outline 23 different design patterns.
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=137)** When the gang of four introduced their initial set of design patterns, they split them into three classifications: creational, structural, and behavioral patterns.
 >
-> **[2:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=149)** Creational patterns are focused on instantiating objects in a way that hides the mechanisms of their creation from the rest of the program.
+> **[2:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=149)** Creational patterns are focused on instantiating objects in a way that hides the mechanisms of their creation from the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[2:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/what-are-design-patterns-14323356?u=76281980&t=159)** Structural patterns simplify the relationships and hierarchies between different classes and how they can be used to build larger and more complex entities.
 >
@@ -481,14 +473,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Development]] (1), [[Programming]] (1), [[Helm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Development]] (1), [[Helm]] (1), [[John the Ripper|John]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creational patterns overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980)
+#### [Creational patterns overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=18)** The main code would no longer have explicit references to concrete classes and their instantiation.
 >
-> **[0:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=25)** It makes the concrete classes independent of the rest of the code base.
+> **[0:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=25)** It makes the concrete classes independent of the [[Representational State Transfer (REST)|rest]] of the code base.
 >
 > **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=29)** By doing this, it increases the system's flexibility to determine what, who, how, and when objects are created in an application.
 >
@@ -512,13 +503,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=82)** This allows for decisions to be made at runtime based on inputs and the status of a system that can affect which objects are created.
 >
-> **[1:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=91)** There are five different types of creational design patterns that I'll be covering in this course.
+> **[1:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=91)** There are five different types of creational [[Design Patterns]] that I'll be covering in this course.
 >
 > **[1:37](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/creational-patterns-overview-14321544?u=76281980&t=97)** Each of them emphasizes a different use case that I'll explain as I discuss each type, but they all separate the creation of objects to make your code base more maintainable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -528,12 +519,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inheritance vs. composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980)
+#### [Inheritance vs. composition](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=0)** - [Instructor] One of the first concepts taught in object-oriented programming are classes and inheritance.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=0)** - [Instructor] One of the first concepts taught in [[Object-Oriented Programming (OOP)|object-oriented programming]] are classes and inheritance.
 >
 > **[0:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=6)** It's a powerful paradigm that helps simplify code and encourages reuse.
 >
@@ -579,7 +569,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=143)** So those properties will never be used in an instance of a Drink that's meant to be a tea, which would be a waste of memory to include them.
 >
-> **[2:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=151)** This also means I'll have to add a property for tea leaves, but tea leaves aren't used in other products.
+> **[2:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=151)** This also means I'll have to add a property for tea leaves, but tea leaves aren't used in other [[Microsoft Products|products]].
 >
 > **[2:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=159)** A better way to structure my classes is to use composition along with inheritance to make my code more flexible, and I won't have unneeded extra code shared by all classes.
 >
@@ -605,19 +595,18 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=226)** The use of composition is really important in programming.
 >
-> **[3:50](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=230)** It gives you more flexibility and a number of design patterns take advantage of this concept to make them effective.
+> **[3:50](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980&t=230)** It gives you more flexibility and a number of [[Design Patterns]] take advantage of this concept to make them effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Products|Products]] (1), [[Programming]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Products|Products]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (10)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Composite object example
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/composite-object-example-14323353?u=76281980)
+#### [Composite object example](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/composite-object-example-14323353?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,15 +704,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** char_bag (1), openmealbag (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concrete vs. abstract
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980)
+#### [Concrete vs. abstract](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,20 +744,19 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980&t=99)** The base classes that have virtual methods are also known as AbstractClasses and the derived subclasses are called ConcreteClasses.
 >
-> **[1:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980&t=107)** The concept of abstract and concrete classes is key when working with design patterns.
+> **[1:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980&t=107)** The concept of abstract and concrete classes is key when working with [[Design Patterns]].
 >
 > **[1:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/concrete-vs-abstract-14322470?u=76281980&t=113)** Many patterns rely on inheritance to provide the ability to easily extend and maintain code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Code Identifiers:** makenoise (3)
 > **Analogies:** for example (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding UML
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/understanding-uml-14320498?u=76281980)
+#### [Understanding UML](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/understanding-uml-14320498?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -832,7 +818,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/understanding-uml-14320498?u=76281980&t=164)** There are more components and details to a class diagram.
 >
-> **[2:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/understanding-uml-14320498?u=76281980&t=167)** But this is all you need to understand the relationships between the elements in the design patterns that I'll be going over in this course.
+> **[2:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/understanding-uml-14320498?u=76281980&t=167)** But this is all you need to understand the relationships between the elements in the [[Design Patterns]] that I'll be going over in this course.
 
 > [!info]- Semantic Content
 >
@@ -846,12 +832,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factory Method concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980)
+#### [Factory Method concept](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=0)** - The factory method is one of the most used design patterns because it encapsulates the creation of related objects in a single place, that's abstracted away from the rest of the program.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=0)** - The factory method is one of the most used [[Design Patterns]] because it encapsulates the creation of related objects in a single place, that's abstracted away from the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[0:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=13)** It provides an interface for the program to create new objects without exposing the underlying creation logic to the rest of the program or other clients that use the object.
 >
@@ -873,7 +858,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=107)** But when I don't have that ahead of time knowledge, I use the factory method, which waits for specific inputs at runtime to create the appropriate object.
 >
-> **[2:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=120)** The factory can create a number of different objects or products as long as they all share the same interface or base class.
+> **[2:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=120)** The factory can create a number of different objects or [[Microsoft Products|products]] as long as they all share the same interface or base class.
 >
 > **[2:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980&t=131)** How the coffee machine knows which object to make could be as simple as a button pressed.
 >
@@ -921,20 +906,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (4), generic (3), [[Representational State Transfer (REST)|Rest]] (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Factory Method implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980)
+#### [Factory Method implementation](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980&t=0)** - The goal of the FactoryMethod pattern is to separate the creation of objects from the rest of the main application code.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980&t=0)** - The goal of the FactoryMethod pattern is to separate the creation of objects from the [[Representational State Transfer (REST)|rest]] of the main application code.
 >
-> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980&t=8)** As a starting point, I'll have defined my Products and I'll walk you through implementing the ConcreteCreator.
+> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980&t=8)** As a starting point, I'll have defined my [[Microsoft Products|Products]] and I'll walk you through implementing the ConcreteCreator.
 >
 > **[0:16](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-implementation-14323351?u=76281980&t=16)** To show this, I'm going to create a program that prompts the user to select a type of Coffee they like and return an object of what they selected.
 >
@@ -1022,15 +1006,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), product (3), prompt (3), application (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - the (1)
 
-#### Running the Factory Method example
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-factory-method-example-14317576?u=76281980)
+#### [Running the Factory Method example](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-factory-method-example-14317576?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1089,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), prompt (2), application (1)
 > **Env Vars:** f10 (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1114,8 +1096,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - to (1)
 
-#### Factory Method variations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980)
+#### [Factory Method variations](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,13 +1120,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980&t=81)** In that case, I could easily swap back to the user prompt type of the factory.
 >
-> **[1:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980&t=87)** The rest of the program is decoupled from the underlying implementation of the factory and how it decides which objects to create.
+> **[1:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980&t=87)** The [[Representational State Transfer (REST)|rest]] of the program is decoupled from the underlying implementation of the factory and how it decides which objects to create.
 >
 > **[1:36](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-variations?u=76281980&t=96)** And thanks to polymorphism, I can easily swap between these factories without changing the rest of my code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), prompt (2), [[Representational State Transfer (REST)|Rest]] (2), hit (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1154,14 +1135,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Abstract Factory concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980)
+#### [Abstract Factory concept](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980&t=0)** - [Instructor] The abstract factory pattern is similar to the factory method where a factory is used to create objects.
 >
-> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980&t=7)** However, unlike the factory method pattern, it emphasizes the creation of a family or suite of classes or products.
+> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980&t=7)** However, unlike the factory method pattern, it emphasizes the creation of a family or suite of classes or [[Microsoft Products|products]].
 >
 > **[0:16](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980&t=16)** It provides an interface for creating families of related or dependent objects without specifying the concrete classes.
 >
@@ -1235,14 +1215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), generic (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** similar to (2), imagine (1), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract Factory pattern implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980)
+#### [Abstract Factory pattern implementation](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,7 +1235,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980&t=33)** And the electric car factory will have its own implementation of a car door and its own electric engine.
 >
-> **[0:40](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980&t=40)** To help us get started, I'll have created these products ahead of time; the doors and the engines.
+> **[0:40](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980&t=40)** To help us get started, I'll have created these [[Microsoft Products|products]] ahead of time; the doors and the engines.
 >
 > **[0:47](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-pattern-implementation-14320497?u=76281980&t=47)** And we'll focus on creating the factories for this example.
 >
@@ -1338,15 +1317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), next (7)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **Code Identifiers:** publiccarfactory (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/using-the-abstract-factory-14317578?u=76281980)
+#### [Using the Abstract Factory](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/using-the-abstract-factory-14317578?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,15 +1402,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), product (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-abstract-factory-14319523?u=76281980)
+#### [Running the Abstract Factory](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-abstract-factory-14319523?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,17 +1474,16 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-abstract-factory-14319523?u=76281980&t=207)** This is incredibly flexible and makes it easy to extend.
 >
-> **[3:30](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-abstract-factory-14319523?u=76281980&t=210)** It's no wonder it's one of the most popular creational design patterns.
+> **[3:30](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-abstract-factory-14319523?u=76281980&t=210)** It's no wonder it's one of the most popular creational [[Design Patterns]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Env Vars:** f10 (9), f11 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending the Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980)
+#### [Extending the Abstract Factory](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,7 +1517,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980&t=106)** Keep in mind that this is a simple representation.
 >
-> **[1:51](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980&t=111)** When creating a real application, this can become more complex and a concrete factory could be making a suite of products that all come from the same abstract product.
+> **[1:51](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980&t=111)** When creating a real application, this can become more complex and a concrete factory could be making a suite of [[Microsoft Products|products]] that all come from the same abstract product.
 >
 > **[2:02](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/extending-the-abstract-factory-14321550?u=76281980&t=122)** Going back to my application theme example, my text products can consist of one for the default text, one for the green text, and one for blue.
 >
@@ -1558,7 +1533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), product (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -1566,8 +1541,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980)
+#### [Challenge: Abstract Factory](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1549,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=3)** - [Instructor] Time for a challenge.
 >
-> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=4)** We're going to use what we've learned so far about the Abstract Factory, and extend some of the products that the factories create.
+> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=4)** We're going to use what we've learned so far about the Abstract Factory, and extend some of the [[Microsoft Products|products]] that the factories create.
 >
 > **[0:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=14)** From the previous video, I had talked about having two different themes from my GUI, light and dark.
 >
@@ -1619,7 +1593,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=181)** But it helps to provide some practice with the Abstract Factory.
 >
-> **[3:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=186)** If you are using Xcode on a Mac, it does not need to call a separate function to change the color.
+> **[3:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=186)** If you are using [[Xcode]] on a Mac, it does not need to call a separate function to change the color.
 >
 > **[3:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/challenge-abstract-factory?u=76281980&t=194)** So it doesn't need to get the terminal handle.
 >
@@ -1641,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), application (3), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Xcode]] (1)
 > **Env Vars:** gui (3)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** hconsole (1)
@@ -1650,8 +1624,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/solution-abstract-factory?u=76281980)
+#### [Solution: Abstract Factory](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/solution-abstract-factory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,7 +1760,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), prompt (1), hit (1), product (1)
 > **Code Identifiers:** hconsole (14), getgreentext (4), appgreentext (2)
 > **Env Vars:** handle (6)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -1801,8 +1773,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Builder concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-concept-14324293?u=76281980)
+#### [Builder concept](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-concept-14324293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,14 +1833,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), generic (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Builder pattern setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980)
+#### [Builder pattern setup](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1911,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980&t=114)** I've derived the Burger class from the Entree class at line 23.
 >
-> **[1:59](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980&t=119)** And it stores the word hamburger in the _entree property when it is instantiated, and it will write to the console how the burger is being made.
+> **[1:59](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980&t=119)** And it stores the [[Microsoft Word|word]] hamburger in the _entree property when it is instantiated, and it will write to the console how the burger is being made.
 >
 > **[2:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-setup-14321546?u=76281980&t=128)** At line 34, I've derived another class called Hotdog, and this one will store the string hotdog.
 >
@@ -1945,14 +1914,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** openmealbag (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Builder pattern implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-implementation-14317577?u=76281980)
+#### [Builder pattern implementation](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-pattern-implementation-14317577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2020,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), product (1)
 > **Code Identifiers:** cookside (3), filldrink (3), cookentree (2), getmeal (1), setentree (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -2061,8 +2028,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the Builder example
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980)
+#### [Running the Builder example](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2184,7 +2150,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980&t=385)** The builder pattern encapsulates the building of complex objects that are made with other objects.
 >
-> **[6:30](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980&t=390)** It allows me to separate the creation of the complex object from the rest of my code base.
+> **[6:30](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980&t=390)** It allows me to separate the creation of the complex object from the [[Representational State Transfer (REST)|rest]] of my code base.
 >
 > **[6:36](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-builder-example-14319526?u=76281980&t=396)** So in the past three videos we've implemented and run a builder pattern.
 >
@@ -2192,19 +2158,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), product (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** f10 (4)
 > **UI Navigation:** select the (1), go to (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in the Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/steps-in-the-builder-pattern-14322465?u=76281980)
+#### [Steps in the Builder pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/steps-in-the-builder-pattern-14322465?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/steps-in-the-builder-pattern-14322465?u=76281980&t=0)** - Unlike other design patterns, the concrete builders can return products that do not share the same interface or base class.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/steps-in-the-builder-pattern-14322465?u=76281980&t=0)** - Unlike other [[Design Patterns]], the concrete builders can return [[Microsoft Products|products]] that do not share the same interface or base class.
 >
 > **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/steps-in-the-builder-pattern-14322465?u=76281980&t=10)** The emphasis of the builder pattern is on the steps to create an object and not necessarily on the class hierarchy of the products.
 >
@@ -2240,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), data (2), [[Design Patterns]] (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getresult (2)
 > **Speakers:** - unlike (1)
@@ -2250,8 +2215,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototype concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-concept-14317586?u=76281980)
+#### [Prototype concept](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-concept-14317586?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2331,15 +2295,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), generic (1)
 > **Env Vars:** dna (3)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Prototype pattern implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-pattern-implementation-14324292?u=76281980)
+#### [Prototype pattern implementation](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-pattern-implementation-14324292?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2431,7 +2393,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (2)
@@ -2440,8 +2401,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the Prototype example
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980)
+#### [Running the Prototype example](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,7 +2437,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980&t=102)** Notice a local watch window just popped up.
 >
-> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980&t=105)** If it doesn't automatically pop up, you can get to it by going to Debug, Windows, Locals.
+> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980&t=105)** If it doesn't automatically pop up, you can get to it by going to Debug, [[Windows]], Locals.
 >
 > **[1:57](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-prototype-example-14319517?u=76281980&t=117)** This tool lets me see what my local variables look like at this specific point of execution.
 >
@@ -2523,7 +2483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Env Vars:** f10 (2)
@@ -2531,8 +2491,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shallow vs. deep copies
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/shallow-vs-deep-copies?u=76281980)
+#### [Shallow vs. deep copies](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/shallow-vs-deep-copies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,7 +2529,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2580,8 +2538,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Singleton concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980)
+#### [Singleton concept](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2593,7 +2550,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980&t=21)** There can only ever be one at a given time.
 >
-> **[0:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980&t=25)** They're visible to everyone in their country and to the rest of the world.
+> **[0:25](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980&t=25)** They're visible to everyone in their country and to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[0:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980&t=31)** However, they can be replaced with a new leader after a vote, at which point the old leader is no longer referred to as the leader and the new replacement takes on the role.
 >
@@ -2641,14 +2598,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), generic (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** getinstance (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Singleton pattern implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-pattern-implementation?u=76281980)
+#### [Singleton pattern implementation](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-pattern-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2732,7 +2688,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getinstance (3), givespeech (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2740,8 +2695,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-singleton-pattern-14318555?u=76281980)
+#### [Running the Singleton pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/running-the-singleton-pattern-14318555?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,7 +2769,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), hit (1)
 > **Env Vars:** f10 (9), f11 (3)
 > **Code Identifiers:** getinstance (4), givespeech (4)
 > **UI Navigation:** go to (2)
@@ -2824,8 +2777,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Is the Singleton a good pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980)
+#### [Is the Singleton a good pattern?](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2849,7 +2801,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980&t=57)** Unfortunately, by using the Singleton pattern, I have prevented myself from easily extending the program.
 >
-> **[1:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980&t=65)** This goes against the very reason why we want to use design patterns.
+> **[1:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980&t=65)** This goes against the very reason why we want to use [[Design Patterns]].
 >
 > **[1:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/is-the-singleton-a-good-pattern-14324288?u=76281980&t=70)** It doesn't allow for the flexibility or the extensibility that patterns are supposed to provide us.
 >
@@ -2923,7 +2875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), application (3), next (2), [[Programming]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Code Identifiers:** getinstance (5)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (2)
@@ -2937,8 +2889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing creational patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980)
+#### [Comparing creational patterns](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2956,7 +2907,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=37)** For example, it's a common occurrence that a program will start out using the factory method.
 >
-> **[0:43](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=43)** Eventually, it makes sense to start grouping products together and so the program switches over to the abstract factory pattern.
+> **[0:43](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=43)** Eventually, it makes sense to start grouping [[Microsoft Products|products]] together and so the program switches over to the abstract factory pattern.
 >
 > **[0:52](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=52)** It's also possible to use more than one pattern in the same application.
 >
@@ -3002,7 +2953,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=225)** Since I only need one instance of the logger and all parts of my game should be able to add to the log, I'll choose to use the Singleton pattern to implement it.
 >
-> **[3:58](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=238)** Throughout this example, I have found a way to use all the different types of creational design patterns.
+> **[3:58](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=238)** Throughout this example, I have found a way to use all the different types of creational [[Design Patterns]].
 >
 > **[4:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980&t=245)** Not all programs need to be this complex and a design pattern is not necessarily needed for all parts of a program.
 >
@@ -3014,15 +2965,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), application (2), [[Microsoft Products|Products]] (2), [[Design Patterns]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Design Patterns]] (2)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thanks for watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980)
+#### [Thanks for watching](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3032,9 +2982,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=4)** And that it's given you some ideas on how to better organize your code.
 >
-> **[0:09](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=9)** There are a lot of different ways to use the design patterns in this course, so it's important to remember that these patterns are really just guidelines.
+> **[0:09](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=9)** There are a lot of different ways to use the [[Design Patterns]] in this course, so it's important to remember that these patterns are really just guidelines.
 >
-> **[0:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=19)** Knowing how to decouple blocks of code from one another is an important programming skill that forms the basis for design patterns.
+> **[0:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=19)** Knowing how to decouple blocks of code from one another is an important programming skill that [[Forms]] the basis for design patterns.
 >
 > **[0:27](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/thanks-for-watching?u=76281980&t=27)** Going forward, I encourage you to try each pattern with your own projects.
 >
@@ -3050,7 +3000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Programming]] (1), [[Forms]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Forms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [olivia] (1)

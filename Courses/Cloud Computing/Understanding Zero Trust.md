@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Zero Trust to protect against cyberattack
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
+#### [Using Zero Trust to protect against cyberattack](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -76,7 +75,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980&t=10)** Our employees often work remotely, we see examples of insider threats, and we see attackers penetrating the perimeter and moving with ease inside our networks, taking advantage of the trust between internal systems.
 >
-> **[0:24](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980&t=24)** In this LinkedIn Learning course, you'll learn how to better protect your networks and systems by adopting what's become known as a zero trust approach to access control.
+> **[0:24](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980&t=24)** In this [[LinkedIn]] Learning course, you'll learn how to better protect your networks and systems by adopting what's become known as a zero trust approach to access control.
 >
 > **[0:34](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980&t=34)** I'm Malcolm Shore and I've spent a career helping governments and businesses take advantage of emerging security concepts to provide better protection for their networks and systems.
 >
@@ -84,11 +83,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/understanding-zero-trust/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A brief history of technology trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
+#### [A brief history of technology trust](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=6)** In the 1980s, the defense set to develop the trusted computer security evaluation criteria as a means of categorizing how much confidence the security mechanisms in a computer system could provide.
 >
-> **[0:19](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=19)** While this transitioned into a more commercial approach, known as common criteria, the rapid development of technology combined with the extended timeframes required for evaluation meant that products were often out-of-date by the time they'd been evaluated, and so few organizations have taken any interest in using evaluated products.
+> **[0:19](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=19)** While this transitioned into a more commercial approach, known as common criteria, the rapid development of technology combined with the extended timeframes required for evaluation meant that [[Microsoft Products|products]] were often out-of-date by the time they'd been evaluated, and so few organizations have taken any interest in using evaluated products.
 >
 > **[0:39](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=39)** It's now unclear whether evaluation as a strategy will have any future in providing confidence in technology.
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=71)** It wasn't until the 1990s that we began to see system vulnerabilities being exploited as a real threat to everyday use of computers.
 >
-> **[1:20](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=80)** At first, it was just vandalistic pranksters releasing viruses such as Slammer and Code Red, which destroyed computer software, but with the emergence of online systems involving credit cards and bank account credentials, organized crime moved in to prey on unsuspecting users with banking malware such as Zeus and the evolution into ransomware such as CryptoLocker and Ryuk.
+> **[1:20](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=80)** At first, it was just vandalistic pranksters releasing viruses such as Slammer and Code Red, which destroyed computer software, but with the emergence of online systems involving credit cards and bank account credentials, organized crime moved in to prey on unsuspecting users with [[Banking]] malware such as Zeus and the evolution into ransomware such as CryptoLocker and Ryuk.
 >
 > **[1:44](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=104)** The use by nation state actors of malware known as advanced persistent threats, or APTs, was highlighted in 2013 with the Snowden exposures.
 >
@@ -144,11 +141,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=151)** System audits are of limited benefits in avoiding security breaches, and the product evaluation approach to ensuring systems are secure has failed.
 >
-> **[2:42](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=162)** Currently, the best practice for ensuring system security is to carry out penetration testing.
+> **[2:42](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=162)** Currently, the best practice for ensuring system security is to carry out [[Penetration Testing]].
 >
 > **[2:48](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=168)** This approach doesn't guarantee that the system is secure, but it has been effective in making access more difficult for attackers, and in many cases, persuading them to move to easier targets.
 >
-> **[2:59](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=179)** The aerospace sector has led the way to applying safety techniques to software development, and in particular, using the fault mode and effects analysis approach to identify and remove software defects.
+> **[2:59](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=179)** The aerospace sector has led the way to applying safety techniques to [[Software Development]], and in particular, using the fault mode and effects analysis approach to identify and remove software defects.
 >
 > **[3:11](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=191)** Other approaches, such as correctness by construction, an approach championed by practice in the UK, have demonstrated the ability to achieve substantial improvements in software quality.
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=214)** This is a lifecycle approach using a trustworthiness framework covering safety, reliability, resilience and security.
 >
-> **[3:44](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=224)** It requires that currently known threats relevant to the system are understood in terms of tactics, techniques and practices, or TTPs, and that a systematic approach is taken to design and implementation, including the use of trusted languages for development and secure coding rules.
+> **[3:44](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=224)** It requires that currently known threats relevant to the system are understood in terms of tactics, techniques and practices, or TTPs, and that a systematic approach is taken to design and implementation, including the use of trusted languages for development and [[Secure Coding]] rules.
 >
 > **[4:03](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980&t=243)** Most simple software mistakes are now well known, and while vulnerabilities are still being found, modern exploits have to be much more sophisticated.
 >
@@ -166,14 +163,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft Products|Products]] (2), application (1), [[Banking]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Banking]] (1), [[Penetration Testing]] (1), [[Software Development]] (1), [[Secure Coding]] (1)
 > **Analogies:** such as (5)
 > **Definitions:** known as (2), is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concepts of software trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980)
+#### [Concepts of software trust](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=7)** In this context, a defect is a software floor which is not detected by testing prior to release of the software.
 >
-> **[0:14](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=14)** And the number of defects per thousand lines of source code is a typical quality metric for software development.
+> **[0:14](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=14)** And the number of defects per thousand lines of source code is a typical quality metric for [[Software Development]].
 >
 > **[0:22](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=22)** In their software construction course, MIT indicate a typical rate of defects for industry as a whole is between one and 10 defects per thousand lines of code.
 >
@@ -229,11 +225,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=197)** QFD is now managed by the QFD Institute.
 >
-> **[3:21](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=201)** Early problems with the original QFD approach, particularly in agile environments have led to development of what's known as blitz QFD.
+> **[3:21](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=201)** Early problems with the original QFD approach, particularly in [[Agile Development|agile]] environments have led to development of what's known as blitz QFD.
 >
 > **[3:30](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=210)** And the institute has been active in developing international standards including ISO 16355, general principles and perspectives of quality function deployment.
 >
-> **[3:41](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=221)** While design process methods help identify problems before they become defects, the most effective approach to creating low defect software is by using high integrity languages such as Ada/spark, Haskell, and Rust.
+> **[3:41](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=221)** While design process methods help identify problems before they become defects, the most effective approach to creating low defect software is by using high integrity languages such as Ada/spark, Haskell, and [[Rust (Programming Language)|Rust]].
 >
 > **[3:54](https://www.linkedin.com/learning/understanding-zero-trust/concepts-of-software-trust?u=76281980&t=234)** High integrity languages typically incorporate assertions which enable automated proving tools to verify the integrity of the code and remove many of the traditional vectors for exploits.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), product (2), functional (1), [[Agile Development|Agile]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Agile Development|Agile]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** qfd (5), mit (1), iso (1), dod (1)
 > **Definitions:** known as (3), is a  (2), is an  (1)
 > **Analogies:** such as (4)
@@ -254,8 +250,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### A case study in failed trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-case-study-in-failed-trust?u=76281980)
+#### [A case study in failed trust](https://www.linkedin.com/learning/understanding-zero-trust/a-case-study-in-failed-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +280,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), management (1), web (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -294,8 +288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Zero Trust?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
+#### [What is Zero Trust?](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,13 +296,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=8)** It means that the security mechanisms that we use to protect our systems shouldn't make trust assumptions but rather should assume that any access request could be malicious.
 >
-> **[0:18](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=18)** The context for zero trust is the decision-making process which mediates access from a source or subject which could be a person, a system, a serverless application or function, or an artificial intelligence.
+> **[0:18](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=18)** The context for zero trust is the [[Decision-Making]] process which mediates access from a source or subject which could be a person, a system, a serverless application or function, or an [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:31](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=31)** To a resource or objects which could be data, a system, an application, or function, or another artificial intelligence.
 >
-> **[0:39](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=39)** There are many definitions of zero trust, here we see that NIST defined zero trust as an evolving set of cybersecurity paradigms that move defenses from static, network-based perimeters to focus on users, assets, and resources.
+> **[0:39](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=39)** There are many definitions of zero trust, here we see that [[NIST]] defined zero trust as an evolving set of [[Cybersecurity]] paradigms that move defenses from static, network-based perimeters to focus on users, assets, and resources.
 >
-> **[0:55](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=55)** Microsoft has a slightly longer explanation rather than definition of zero trust.
+> **[0:55](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=55)** [[Microsoft]] has a slightly longer explanation rather than definition of zero trust.
 >
 > **[1:00](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=60)** And we'll come back to this when we look at the various models of zero trust.
 >
@@ -317,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=73)** CrowdStrike consider zero trust to be a security concept that requires all users even those inside the organization's enterprise network to be authenticated authorized, with a continuously validated security configuration and posture before being granted or keeping access to applications and data.
 >
-> **[1:32](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=92)** The concept of zero trust first emerged from Forrester in 2011 in a report by John Kindervag.
+> **[1:32](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=92)** The concept of zero trust first emerged from Forrester in 2011 in a report by [[John the Ripper|John]] Kindervag.
 >
 > **[1:40](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=100)** The Forester concept of zero trust is based on two principles, first, threats are present at all times no matter where our system is located, we must therefore be prepared to defend against them at all times.
 >
@@ -339,25 +332,24 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=196)** This means that much of the risks particularly around data breach is avoided.
 >
-> **[3:20](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=200)** And the final mechanism is real-time access policy, making dynamic policy adjustments using a rich source of environment information.
+> **[3:20](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=200)** And the final mechanism is [[Real-Time]] access policy, making dynamic policy adjustments using a rich source of environment information.
 >
 > **[3:29](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980&t=209)** This enables access decisions to adapt to a more dynamic environment in which subjects rights and privileges and object sensitivities may change quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (6), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (1), [[NIST]] (1), [[Cybersecurity]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1), nist (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### The principles of Zero Trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980)
+#### [The principles of Zero Trust](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=0)** - NIST provides seven tenants of zero trust in its special publication 800-207.
+> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=0)** - [[NIST]] provides seven tenants of zero trust in its special publication 800-207.
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=7)** And these are the set of principles or beliefs that a generally held to be true with respect to zero trust.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=220)** Making it much more difficult for an adversary.
 >
-> **[3:43](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=223)** The UK National Cybersecurity Center has released a set of 10 principles of zero trust.
+> **[3:43](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=223)** The UK National [[Cybersecurity]] Center has released a set of 10 principles of zero trust.
 >
 > **[3:49](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=229)** These cover the need to know and continuously monitor the environment and its cybersecurity health.
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=281)** This theme is about guiding the adoption of zero trust within an environment of rapidly evolving compliance and regulatory needs, lagging industry controls and compliance standards.
 >
-> **[4:52](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=292)** Increasing complexity and the need to automate data collection, traceability and processes.
+> **[4:52](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=292)** Increasing complexity and the need to automate [[Data Collection]], traceability and processes.
 >
 > **[4:59](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=299)** The third theme is technology and focuses on the area of access control and privileges.
 >
@@ -479,7 +471,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=370)** It shouldn't inhibit the business to the point where the cost of using zero trust is more than the value of what it's protecting.
 >
-> **[6:17](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=377)** Microsoft also based their approach on three zero trust principles.
+> **[6:17](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=377)** [[Microsoft]] also based their approach on three zero trust principles.
 >
 > **[6:21](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=381)** Verify explicitly using a range of available data to make the access decisions.
 >
@@ -487,7 +479,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=392)** Assume you'll have a breach, so segment the network in advance to contain any damage and use encryption to protect data.
 >
-> **[6:40](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=400)** For Google, BeyondCorp is zero trust.
+> **[6:40](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=400)** For [[Google]], BeyondCorp is zero trust.
 >
 > **[6:43](https://www.linkedin.com/learning/understanding-zero-trust/the-principles-of-zero-trust?u=76281980&t=403)** There are three BeyondCorp zero trust principles.
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (5), cloud (4), business (3), [[NIST]] (2)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Cybersecurity]] (2), [[Data Collection]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Definitions:** means that (3), is a  (3), in other words (2)
 > **Env Vars:** nist (2), nsa (2), aws (1)
 > **CLI Commands:** make (2), aws (1)
@@ -512,14 +504,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - nist (1)
 
-#### ACT-IAC and the six pillars of zero trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980)
+#### [ACT-IAC and the six pillars of zero trust](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=0)** - [Instructor] In May, 2018, the Industry Advisory Committee of the American Council for Technology was asked to produce a report on the potential adoption of Zero Trust by federal agencies.
 >
-> **[0:13](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=13)** The report concluded that Zero Trust is a mature strategy, that an effective Zero Trust deployment can significantly improve an agency's cybersecurity posture, and that it would have a positive cybersecurity return on investment.
+> **[0:13](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=13)** The report concluded that Zero Trust is a mature strategy, that an effective Zero Trust deployment can significantly improve an agency's [[Cybersecurity]] posture, and that it would have a positive cybersecurity return on investment.
 >
 > **[0:27](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=27)** However, it also noted that there would be many challenges in implementing such a strategy and these would need careful consideration prior to its adoption in a mission critical, multi organizational scenario.
 >
@@ -535,7 +526,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=83)** Multiple perimeters should be implemented through micro-segmentation to strengthen the inner network.
 >
-> **[1:29](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=89)** The application layer is another pillar with compute containers and virtual machines offering the ability to encapsulate applications and facilitate more granular and accurate access decisions.
+> **[1:29](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=89)** The application layer is another pillar with compute containers and [[Virtual Machines]] offering the ability to encapsulate applications and facilitate more granular and accurate access decisions.
 >
 > **[1:42](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=102)** Multifactor authentication provides more robust access control to applications.
 >
@@ -543,15 +534,15 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=109)** Security automation, sometimes called orchestration, connects the use of security tools through a tested workflow and assists in managing many different security systems.
 >
-> **[2:00](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=120)** Good security orchestration will reduce manual effort, improve incident response times, and reduce costs.
+> **[2:00](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=120)** Good security orchestration will reduce manual effort, improve [[Incident Response]] times, and reduce costs.
 >
-> **[2:07](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=127)** Finally, analytics enable the development of situational awareness so that security systems can observe and react in real time to events around and on the network.
+> **[2:07](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=127)** Finally, analytics enable the development of situational awareness so that security systems can observe and [[React.js|react]] in real time to events around and on the network.
 >
 > **[2:19](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=139)** In addition to providing a conceptual model, the report notes the need for a Zero Trust deployment to be supported by a trust engine, which can calculate a trust score for a user, device or application.
 >
 > **[2:32](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=152)** It also identifies micro-segmentation as necessary for using fine-grained access policies.
 >
-> **[2:39](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=159)** The report identifies the need for a Zero Trust approach to adopt a control plane/data plane model, similar to the approach taken by telecommunications providers for managing networks.
+> **[2:39](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=159)** The report identifies the need for a Zero Trust approach to adopt a control plane/data plane model, similar to the approach taken by [[Telecommunications]] providers for managing networks.
 >
 > **[2:51](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=171)** In this case, the control plane is used to receive and process requests for access and to configure the data plane to allow or deny the requests.
 >
@@ -559,7 +550,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=185)** A more secure network, by taking the never trust, always check approach.
 >
-> **[3:10](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=190)** A focus on safer data by highlighting the importance of protecting data in transit and at rest.
+> **[3:10](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=190)** A focus on safer data by highlighting the importance of protecting data in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[3:16](https://www.linkedin.com/learning/understanding-zero-trust/act-iac-and-the-six-pillars-of-zero-trust-22383783?u=76281980&t=196)** Improved protection against existing and evolving threats through taking a deny by default approach.
 >
@@ -585,23 +576,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (7), [[Cybersecurity]] (4), [[Automation]] (4), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Virtual Machines]] (1), [[Incident Response]] (1), [[React.js|React]] (1), [[Telecommunications]] (1)
 > **Env Vars:** cisa (3), actiac (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero trust across the digital estate
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980)
+#### [Zero trust across the digital estate](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=0)** - [Instructor] Microsoft was an early adopter of some of the strategies which characterize Zero Trust.
+> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=0)** - [Instructor] [[Microsoft]] was an early adopter of some of the strategies which characterize Zero Trust.
 >
-> **[0:06](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=6)** In particular, promoting microsegmentation in the Azure cloud environment through the use of security groups.
+> **[0:06](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=6)** In particular, promoting microsegmentation in the [[Microsoft Azure|Azure]] cloud environment through the use of security groups.
 >
-> **[0:13](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=13)** Microsoft has distilled the NIST Zero Trust tenets down to three principles: verify explicitly and do so using all available data points including the user identity, the device health, location, and so on; limit access, both using just-in-time access checks and just-enough-access privileges; assume your network has been breached and segment to minimize the damage.
+> **[0:13](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=13)** Microsoft has distilled the [[NIST]] Zero Trust tenets down to three principles: verify explicitly and do so using all available data points including the user identity, the device health, location, and so on; limit access, both using just-in-time access checks and just-enough-access privileges; assume your network has been breached and segment to minimize the damage.
 >
 > **[0:41](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=41)** In their book on the "Zero Trust Journey Across the Digital Estate," Abbas Kudrati and Binil Pillai explore Zero Trust with a focus on the Microsoft model.
 >
@@ -677,7 +667,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=340)** Let's briefly look at the second dimension, which is Endpoint/Devices.
 >
-> **[5:46](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=346)** This has eight critical success factors covering device enrollment, access verification, and endpoint security.
+> **[5:46](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=346)** This has eight critical success factors covering device enrollment, access verification, and [[Endpoint Security]].
 >
 > **[5:53](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-across-the-digital-estate?u=76281980&t=353)** It also includes the requirements for a SIEM to be in place to monitor for endpoint attacks.
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), data (4), [[Security]] (3), application (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Azure|Azure]] (1), [[NIST]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** id8 (2), nist (1), id6 (1), siem (1), en4 (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.4 (1), 1.2 (1)
@@ -702,8 +692,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Policy-based admission control
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/policy-based-admission-control?u=76281980)
+#### [Policy-based admission control](https://www.linkedin.com/learning/understanding-zero-trust/policy-based-admission-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), node (2), traffic (1), management (1), data (1)
 > **Env Vars:** pdp (5), rfc (3), pep (3), eldap (2), snmp (1)
 > **Documentation:** rfc (3)
 > **Analogies:** such as (2), for example (1)
@@ -758,8 +746,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero Trust and the business context
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980)
+#### [Zero Trust and the business context](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=27)** This is generally out of scope for Zero Trust.
 >
-> **[0:30](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=30)** However, some websites may reach back into backend systems to retrieve or post data, a not unusual situation for E-commerce sites.
+> **[0:30](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=30)** However, some websites may reach back into backend systems to retrieve or post data, a not unusual situation for [[E-Commerce]] sites.
 >
 > **[0:39](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=39)** This presents a threat, as internet-facing websites are commonly used as footholds to gain access further into corporate networks.
 >
@@ -789,7 +776,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=82)** We won't go into the detail of SABSA here but if you want to learn more, check out my course on Using SABSA to Architect Secure Cloud.
 >
-> **[1:30](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=90)** Let's think about a typical website which offers anonymous browsing of products, customer login, and online ordering of goods.
+> **[1:30](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=90)** Let's think about a typical website which offers anonymous browsing of [[Microsoft Products|products]], customer login, and online ordering of goods.
 >
 > **[1:38](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-and-the-business-context?u=76281980&t=98)** The vendor wants to encourage access to the website at any time without the need to register or login.
 >
@@ -849,15 +836,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Security]] (6), cloud (4), web (4), application (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **Env Vars:** sabsa (5), dmz (2), aws (2)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero Trust data
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980)
+#### [Zero Trust data](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,25 +875,24 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=110)** The attribute based access controls can then be applied to control access to data at the table, column, field, cell and sub cell levels using logical controls with filtering conditions and masking based on request attributes such as user, session, or device security posture.
 >
-> **[2:10](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=130)** This can be applied to traditional relational databases as well as big data solutions.
+> **[2:10](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=130)** This can be applied to traditional [[Relational Databases]] as well as [[Big Data]] solutions.
 >
-> **[2:15](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=135)** A data centric access mechanism is one of the components of data access governance which is one of the five pillars of data governance.
+> **[2:15](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=135)** A data centric access mechanism is one of the components of data access governance which is one of the five pillars of [[Data Governance]].
 >
-> **[2:24](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=144)** Data access governance involves discovering and classifying sensitive data, carrying out risk assessments, implementing access policies for security and privacy, setting up access controls, analyzing inbound and outbound network traffic, and monitoring access to critical assets.
+> **[2:24](https://www.linkedin.com/learning/understanding-zero-trust/zero-trust-data?u=76281980&t=144)** Data access governance involves discovering and classifying sensitive data, carrying out risk assessments, implementing access policies for security and [[Privacy]], setting up access controls, analyzing inbound and outbound network traffic, and monitoring access to critical assets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Security]] (5), node (2), management (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Big Data]] (1), [[Data Governance]] (1), [[Privacy]] (1)
 > **CLI Commands:** node (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### An extended approach to Zero Trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980)
+#### [An extended approach to Zero Trust](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=0)** - [Instructor] We can recast the seven NIST tenets into an extended set of principles using the more familiar subject-object terminology, while still maintaining the core messaging on zero trust.
+> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=0)** - [Instructor] We can recast the seven [[NIST]] tenets into an extended set of principles using the more familiar subject-object terminology, while still maintaining the core messaging on zero trust.
 >
 > **[0:12](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=12)** In addition, we should incorporate a new principle of trustworthiness because it doesn't matter that we avoid reliance on trust relationships if we deploy untrusted software that allows easy exploitation anyway.
 >
@@ -919,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=41)** Autonomous endpoints will be considered subjects for which access will be mediated.
 >
-> **[0:45](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=45)** In other words, a machine, application sensor, or artificial intelligence agent will all be treated in the same way as human users requesting access.
+> **[0:45](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=45)** In other words, a machine, application sensor, or [[Artificial Intelligence (AI)|artificial intelligence]] agent will all be treated in the same way as human users requesting access.
 >
 > **[0:54](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=54)** All endpoint devices from which access requests come shall be subject to health checks.
 >
@@ -931,7 +916,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=84)** The data may be secured with encryption or otherwise desensitized.
 >
-> **[1:28](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=88)** We need to recognize that some endpoint devices such as IoT sensors may be used to transmit sensitive data, but won't have the capability to desensitize it.
+> **[1:28](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=88)** We need to recognize that some endpoint devices such as [[IoT]] sensors may be used to transmit sensitive data, but won't have the capability to desensitize it.
 >
 > **[1:38](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=98)** And this should be taken into account when making the access decision.
 >
@@ -961,13 +946,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=171)** They have to be high integrity in order to enable the zero trust architecture to achieve good security.
 >
-> **[2:57](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=177)** While developing software in accordance with secure coding rules is a good start, application of a formal standard such as British Standard 10754-1 would be desirable.
+> **[2:57](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=177)** While developing software in accordance with [[Secure Coding]] rules is a good start, application of a formal standard such as British Standard 10754-1 would be desirable.
 >
 > **[3:08](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=188)** Zero trust is more than just a set of tenants or principles.
 >
 > **[3:12](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=192)** Most of the technology needed to deploy a zero trust environment has been around for some years, such as cloud-based micro-segmentation and privileged access managers providing single use administrative credentials.
 >
-> **[3:26](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=206)** Anomaly detection systems and big data security analytics exist already in product form.
+> **[3:26](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=206)** Anomaly detection systems and [[Big Data]] security analytics exist already in product form.
 >
 > **[3:31](https://www.linkedin.com/learning/understanding-zero-trust/an-extended-approach-to-zero-trust?u=76281980&t=211)** Clouds already have scripted security policies which are used to make authorization decisions.
 >
@@ -993,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (5), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[NIST]] (1), [[IoT]] (1), [[Secure Coding]] (1), [[Big Data]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** nist (1), rfc (1)
@@ -1006,8 +991,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a Zero Trust foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
+#### [Building a Zero Trust foundation](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,17 +999,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=4)** Here we have a diagram showing the Amazon best practice design for a web hosting architecture on AWS.
 >
-> **[0:11](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=11)** It features access via a load balancer with web servers providing the user interface supported by a backend application, which gets data from a managed relational database service.
+> **[0:11](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=11)** It features access via a load balancer with [[Web Servers]] providing the user interface supported by a backend application, which gets data from a managed relational database service.
 >
 > **[0:24](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=24)** Let's look at our 10 principles, which we need to deliver to fully meet zero trust.
 >
-> **[0:29](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=29)** The solution will allow anonymous or untrustworthy access to the web server and can apply the AWS IAM solution to validate subject access for authenticated activity, such as e-commerce purchases.
+> **[0:29](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=29)** The solution will allow anonymous or untrustworthy access to the web server and can apply the AWS IAM solution to validate subject access for authenticated activity, such as [[E-Commerce]] purchases.
 >
 > **[0:42](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=42)** The solution can use the AWS API Gateway to enable autonomous subject access.
 >
 > **[0:49](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=49)** AWS doesn't as a matter of course, validate the device used for access.
 >
-> **[0:55](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=55)** The web service provides the user interface, The application server holds the service we want to use and the backend relational database holds the data objects we want to access for that service these are micro segmented using AWS security groups.
+> **[0:55](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=55)** The web service provides the user interface, The application server holds the service we want to use and the backend relational database holds the data objects we want to access for that service these are micro segmented using [[AWS Security]] groups.
 >
 > **[1:12](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=72)** Communications can be secured using HTTPS from the client to the web server and from the web server to the application.
 >
@@ -1041,7 +1025,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=122)** AWS does have services which can be used to support the creation of dynamic policies.
 >
-> **[2:08](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=128)** The process starts with an incoming HTTP header, which includes a JSON web token holding the requesting identity.
+> **[2:08](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=128)** The process starts with an incoming HTTP header, which includes a [[JSON]] web token holding the requesting identity.
 >
 > **[2:17](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980&t=137)** The JWT manager verifies the token and extracts the subject from the header.
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), web (7), application (4), data (3), database (3)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[E-Commerce]] (1), [[AWS Security]] (1), [[JSON]] (1)
 > **Env Vars:** aws (12), iam (1), api (1), https (1), ssl (1)
 > **CLI Commands:** aws (12)
 > **Exercise Files:** template (1)
@@ -1071,8 +1055,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing a policy engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980)
+#### [Designing a policy engine](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1067,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=29)** While RFC 2753 provides a framework for policy based admission control, it doesn't specify the trust algorithm.
 >
-> **[0:36](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=36)** While in time, standardized trust algorithms may emerge for now zero trust vendors are developing their own.
+> **[0:36](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=36)** While in time, standardized trust [[Algorithms]] may emerge for now zero trust vendors are developing their own.
 >
 > **[0:44](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=44)** In addition to the trust algorithm, which brings together the data into usable metrics, we would expect the policy engine to include the following components, a directory of subjects including autonomous entities with attributes which could impact their trust scores.
 >
@@ -1094,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=77)** This could be software version and the number of unpacked CVEs.
 >
-> **[1:21](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=81)** The AWS inspector scans and maintains a security profile of each EC2 instance and this can be used to adjust the trust score in an AWS deployment.
+> **[1:21](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=81)** The AWS inspector scans and maintains a security profile of each [[Amazon EC2|EC2]] instance and this can be used to adjust the trust score in an AWS deployment.
 >
 > **[1:31](https://www.linkedin.com/learning/understanding-zero-trust/designing-a-policy-engine?u=76281980&t=91)** An expression of the environment state and particularly the current threat level.
 >
@@ -1108,21 +1091,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), aws (2), [[Algorithms]] (1), [[Security]] (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (2), rfc (1), ec2 (1)
 > **CLI Commands:** aws (2)
 > **Documentation:** rfc (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of zero trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980)
+#### [Examples of zero trust](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=0)** - [Instructor] When talking zero trust, the topic of BeyondCorp is never far away.
 >
-> **[0:05](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=5)** In 2010, Google was subjected to a nation state attack known as Operational Aurora, which resulted in some of its Gmail accounts being compromised.
+> **[0:05](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=5)** In 2010, [[Google]] was subjected to a nation state attack known as Operational Aurora, which resulted in some of its Gmail accounts being compromised.
 >
 > **[0:15](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=15)** The attack was the result of a zeroday flaw in Internet Explorer combined with the ability to move laterally within Google's networks.
 >
@@ -1152,11 +1134,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=109)** Another company that's been focusing on zero trust issues for some time is HashiCorp.
 >
-> **[1:54](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=114)** It provides three open source products, which together enable a zero trust implementation, Vault, Consul and Boundary.
+> **[1:54](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=114)** It provides three open source [[Microsoft Products|products]], which together enable a zero trust implementation, Vault, Consul and Boundary.
 >
 > **[2:04](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=124)** The vault is a secure store for secrets such as credentials and keys, and is used to achieve just in time authentication and authorization.
 >
-> **[2:13](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=133)** Its Consul product, which launched in 2014, is a service mesh solution designed to address the problem of malicious lateral movement across flat networks and specifically addresses machine-to-machine access.
+> **[2:13](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=133)** Its Consul product, which launched in 2014, is a service [[Mesh]] solution designed to address the problem of malicious lateral movement across flat networks and specifically addresses machine-to-machine access.
 >
 > **[2:26](https://www.linkedin.com/learning/understanding-zero-trust/examples-of-zero-trust-22383784?u=76281980&t=146)** It does this through a combination of service discovery to connect services dynamically, a centralized service configuration, providing configuration on demand to distributed nodes and service segmentation to secure services based on identity.
 >
@@ -1170,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), product (2), [[Security]] (1), [[Microsoft Products|Products]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Products|Products]] (1), [[Mesh]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** tls (1)
@@ -1181,24 +1163,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this LinkedIn Learning Course.
+> **[0:00](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this [[LinkedIn]] Learning Course.
 >
 > **[0:04](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=4)** I hope you enjoyed learning about zero trust.
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=7)** In this course, you've learned about the tenets and models for zero trust, the idea of just-in-time access, and the need for just enough access.
 >
-> **[0:18](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=18)** You're now familiar with Google's BeyondCorp Trust Initiative, and you've looked at what HashiCorp provides as an open source zero trust solution.
+> **[0:18](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=18)** You're now familiar with [[Google]]'s BeyondCorp Trust Initiative, and you've looked at what HashiCorp provides as an open source zero trust solution.
 >
 > **[0:27](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=27)** That's a great start into the world of zero trust.
 >
 > **[0:31](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=31)** If you want to follow up on the concept of micro-segmentation, check out Bill Ferguson's "The Advantages of Microsegmentation of Security" course.
 >
-> **[0:41](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=41)** I'd also like to invite you to go to my author page, where you can find my courses on cloud, cybersecurity, ethical hacking, and programming.
+> **[0:41](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=41)** I'd also like to invite you to go to my author page, where you can find my courses on cloud, [[Cybersecurity]], [[Ethical Hacking]], and programming.
 >
 > **[0:49](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980&t=49)** Thanks again for joining me on this course.
 >
@@ -1206,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Google]] (1), [[Security]] (1), cloud (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Google]] (1), [[Cybersecurity]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

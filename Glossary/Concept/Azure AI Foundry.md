@@ -15,7 +15,7 @@ tags:
   - topic/software-development
   - topic/it-help-desk
   - topic/cloud-computing
-course_count: 12
+course_count: 13
 created: 2026-05-02
 ---
 
@@ -23,7 +23,7 @@ created: 2026-05-02
 
 # Azure AI Foundry
 
-> **Type:** Concept | **Courses:** 12 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[IT Help Desk]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 13 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[IT Help Desk]], [[Cloud Computing]]
 
 ## Courses
 
@@ -38,9 +38,10 @@ created: 2026-05-02
 9. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 8 mentions
 10. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 8 mentions
 
-> [!note]- See all 12 courses
+> [!note]- See all 13 courses
 > 11. [[Azure Essential Training for Developers]] — 7 mentions
 > 12. [[Azure AI for Developers- Building AI Agents]] — 6 mentions
+> 13. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
 
 ## Learning Paths
 
@@ -49,6 +50,7 @@ created: 2026-05-02
 3. [[Foundational AI Skills for Azure Administration]] — 12 total mentions
 4. [[Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn]] — 8 total mentions
 5. [[Getting Started as an Azure Developer]] — 7 total mentions
+6. [[Become an AI Engineer]] — 1 total mentions
 
 ---
 

@@ -114,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### R for data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
+#### [R for data mining](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,34 +136,33 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=53)** What matters, what can be safely ignored?
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=55)** But rather than having to wait like a newborn for the very slow processes of cognitive and social development, we can find some immediate answers to our questions by turning to data mining.
+> **[0:55](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=55)** But rather than having to wait like a newborn for the very slow processes of cognitive and social development, we can find some immediate answers to our questions by turning to [[Data Mining]].
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=70)** I'm Barton Poulson and in this course, we'll explore some of the most important principles and techniques in modern data mining to help you cut through the noise.
 >
 > **[1:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=80)** We'll look at some of the most useful methods for dealing with the DeLucia data.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=84)** Those methods include dimensionality reduction to help you sort through the noise and find reliable indicators in your data, clustering techniques to help you sort cases into useful groups, classification to automate some of the most difficult work of categorization, association analysis to find if/then predictions in your data, time series techniques to describe and predict valuable temporal patterns, and methods for mining texts with a special focus on locating the critical evaluations that people leave in their unstructured data.
+> **[1:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=84)** Those methods include dimensionality reduction to help you sort through the noise and find reliable indicators in your data, clustering techniques to help you sort cases into useful groups, classification to automate some of the most difficult work of categorization, association analysis to find if/then predictions in your data, time series techniques to describe and predict valuable temporal patterns, and methods for mining texts with a special focus on locating the critical evaluations that people leave in their [[Unstructured Data]].
 >
-> **[1:59](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=119)** We'll focus on the hands-on practices of mining data using one of my favorite tools, the R programming language and the associated RStudio environment.
+> **[1:59](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=119)** We'll focus on the hands-on practices of mining data using one of my favorite tools, the R programming language and the associated [[RStudio]] environment.
 >
 > **[2:08](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=128)** You'll see how you can quickly use both simple and sophisticated methods to get a better understanding of how to mine data for value and in turn, reach the goals that are important to you.
 >
 > **[2:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=141)** All of these will help you sort through the great blooming and buzzing confusion of the data world.
 >
-> **[2:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=148)** And with that, let's get started with Data Science Foundations: Data Mining with R.
+> **[2:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980&t=148)** And with that, let's get started with [[Data Science Foundations]]: Data Mining with R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Unstructured Data]] (1), [[Programming]] (1), [[RStudio]] (1), [[Data Science Foundations]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Unstructured Data]] (1), [[RStudio]] (1), [[Data Science Foundations]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Speakers:** - [barton] (1)
 
-#### Who should watch this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/who-should-watch-this-course?u=76281980)
+#### [Who should watch this course](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/who-should-watch-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/who-should-watch-this-course?u=76281980&t=0)** - [Instructor] While this course is designed as an accessible introduction to the field of data mining, it works best if there were a few things you already know and are comfortable with.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/who-should-watch-this-course?u=76281980&t=0)** - [Instructor] While this course is designed as an accessible introduction to the field of [[Data Mining]], it works best if there were a few things you already know and are comfortable with.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/who-should-watch-this-course?u=76281980&t=10)** The first thing is that you should already be familiar with the R programming language and the R Studio environment.
 >
@@ -178,12 +176,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -215,8 +211,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools for data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
+#### [Tools for data mining](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,13 +219,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=5)** When you're mining for data gold, that means software.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=8)** And the two most common tools for that are Python and R.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=8)** And the two most common tools for that are [[Python (Programming Language)|Python]] and R.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=13)** Now as it happens, we have two versions of this course, with one showing how to mine data in Python and the other one in R.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=21)** There are good reasons for choosing these two languages.
 >
-> **[0:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=25)** Python is currently the most popular language for data science and machine learning.
+> **[0:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=25)** Python is currently the most popular language for [[Data Science]] and machine learning.
 >
 > **[0:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=31)** It has an advantage of being a general purpose language, which means millions of people know how to use it because it can program basically anything.
 >
@@ -260,11 +255,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=105)** JASP is another free open source application that strongly resembles SPSS and jamovi.
 >
-> **[1:51](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=111)** And then there's Tableau, which is specifically for data visualization, but it's one of the Go to Tools for people who are trying to get a feel for large data sets.
+> **[1:51](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=111)** And then there's [[Tableau]], which is specifically for data visualization, but it's one of the Go to Tools for people who are trying to get a feel for large data sets.
 >
-> **[2:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=122)** In addition to these apps, one language that anybody who's going to work with data should learn is SQL, that Structured Query Language and it's usually pronounced sequel.
+> **[2:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=122)** In addition to these apps, one language that anybody who's going to work with data should learn is [[SQL]], that Structured Query Language and it's usually pronounced sequel.
 >
-> **[2:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=132)** This is for accessing databases.
+> **[2:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=132)** This is for accessing [[Databases]].
 >
 > **[2:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=134)** And especially if you're working in a large organizational setting, you're going to have a lot of data in databases.
 >
@@ -274,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=155)** I also want to mention spreadsheets.
 >
-> **[2:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=158)** So the rows and columns of Microsoft Excel and Google Sheets.
+> **[2:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=158)** So the rows and columns of [[Microsoft Excel]] and [[Google]] Sheets.
 >
 > **[2:43](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=163)** The reason these are important is A, they're the single most common data tools in the world, and that's my personal belief.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=207)** Then consider the next step up, that's an application like jamovi or SPSS.
 >
-> **[3:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=212)** These allow you to do a lot of specialized procedures for analyzing and mining data or use a data mining specific application like RapidMiner or KNIME.
+> **[3:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=212)** These allow you to do a lot of specialized procedures for analyzing and mining data or use a [[Data Mining]] specific application like RapidMiner or [[Knime]].
 >
 > **[3:42](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=222)** But only then should you consider taking the final step to programming languages.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=275)** R is third at 47.
 >
-> **[4:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=278)** Please note that Excel, the spreadsheet is here with 35.
+> **[4:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=278)** Please note that [[Microsoft Excel|Excel]], the spreadsheet is here with 35.
 >
 > **[4:41](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980&t=281)** Anaconda is really a distribution of Python, and then there's the language SQL here at the end.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Python (Programming Language)|Python]] (10), application (6), [[Programming]] (5), [[SQL]] (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[SQL]] (5), [[Data Mining]] (5), [[Data Science]] (3), [[Databases]] (2)
 > **Env Vars:** sql (5), spss (4), sas (1), jasp (1), roi (1)
 > **CLI Commands:** python (10), make (1)
 > **Definitions:** is a  (1), stands for (1)
@@ -345,16 +340,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 
-#### The CRISP-DM data mining model
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980)
+#### [The CRISP-DM data mining model](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=0)** - [Instructor] I know this course focuses substantially on how to program analyses to mine data, but it also is important to think about the context in which that programming takes place, that is the project as a whole.
 >
-> **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=14)** And when it comes to data mining, there is, in fact, a well-established framework for projects.
+> **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=14)** And when it comes to [[Data Mining]], there is, in fact, a well-established framework for projects.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=19)** It's called CRISP-DM, and that stands for Cross Industry Standard Process for Data Mining.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=19)** It's called [[CRISP-DM]], and that stands for Cross Industry Standard Process for Data Mining.
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=30)** And it describes six phases to data mining.
 >
@@ -366,9 +360,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=52)** The second phase is data understanding.
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=55)** This is where you collect the initial data, you describe the data, explore the data, verify the data quality.
+> **[0:55](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=55)** This is where you collect the initial data, you describe the data, explore the data, verify the [[Data Quality]].
 >
-> **[1:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=64)** The third phase is data preparation.
+> **[1:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=64)** The third phase is [[Data Preparation]].
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=67)** This includes describing the data set, selecting the data, including the rationale for including or excluding particular cases, cleaning the data, constructing the data, which means things like derived attributes and generated records, and then integrate the data, so merging it with other sources.
 >
@@ -394,13 +388,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=169)** So that is CRISP-DM, one of the most common process descriptions for data mining.
 >
-> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=176)** If you'd like another take on the organization of a data project, I've described my own personal system, which I called the Data Science Pathway, in the course [[Data Science Foundations- Fundamentals]].
+> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=176)** If you'd like another take on the organization of a data project, I've described my own personal system, which I called the [[Data Science]] Pathway, in the course [[[[Data Science Foundations]]- Fundamentals]].
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=187)** But with either approach, the industry standard CRISP-DM or the Data Science Pathway, you're going to be better able to set up, run, and get actionable insights from your data mining projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[CRISP-DM]] (5), business (3), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Mining]] (6), [[CRISP-DM]] (5), [[Data Science]] (2), [[Data Quality]] (1), [[Data Preparation]] (1)
 > **Env Vars:** crisp (5)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -409,18 +403,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy, copyright, and bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980)
+#### [Privacy, copyright, and bias](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=0)** - [Instructor] I know we're here for some technical training, but I want to take a minute and remind you that data mining, like basically everything else, takes place in a human social context.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=0)** - [Instructor] I know we're here for some technical training, but I want to take a minute and remind you that [[Data Mining]], like basically everything else, takes place in a human social context.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=12)** It's important to respect the people who provided the data, or who will benefit from your work.
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=18)** And there are a few important dimensions to that respect.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=23)** The first important issue is privacy, which affects how you gather data, how you store data, and what you share.
+> **[0:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=23)** The first important issue is [[Privacy]], which affects how you gather data, how you store data, and what you share.
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=30)** This is both an issue of good manners, and as it happened, several major laws.
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=45)** In California, there's the California Consumer Privacy Act, or CCPA.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=51)** In the U.S., there's also, at the federal level, HIPAA, the Health Insurance Portability and Accountability Act, which is going to affect health records.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=51)** In the U.S., there's also, at the federal level, HIPAA, the Health Insurance Portability and [[Accountability]] Act, which is going to affect health records.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=60)** And then there's FERPA, this is the U.S. Family Educational Rights and Privacy Act.
 >
@@ -482,11 +475,11 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=228)** And so it's very important to interpret things in the most precise manner that reflects what it actually meant when the data was gathered.
 >
-> **[3:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=238)** Now, if you want more information on some of these privacy issues and social issues, you can take a look at another course, AI Accountability Essential Training, which is available here, which goes into all of these issues in more depth and we'll make it so you can construct, plan, conduct, and implement your data mining project while getting more meaningful and accurate data and avoiding some common pitfalls.
+> **[3:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/privacy-copyright-and-bias?u=76281980&t=238)** Now, if you want more information on some of these [[Privacy Issues]] and social issues, you can take a look at another course, AI Accountability Essential Training, which is available here, which goes into all of these issues in more depth and we'll make it so you can construct, plan, conduct, and implement your data mining project while getting more meaningful and accurate data and avoiding some common pitfalls.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Privacy]] (5), [[Accountability]] (2), web (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Mining]] (4), [[Accountability]] (2), [[Privacy Issues]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), ferpa (1), gigo (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (2), picture (1)
@@ -494,8 +487,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating results
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980)
+#### [Validating results](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=20)** If the things you wanted were sitting there right on top of the ground like watermelons, you wouldn't have to dig up so much dirt to get the valuable things that are hidden.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=30)** The same thing is true in data mining, except now, instead of looking for copper, we're looking to find the signal that's hidden in the noise of the data.
+> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=30)** The same thing is true in [[Data Mining]], except now, instead of looking for copper, we're looking to find the signal that's hidden in the noise of the data.
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=39)** We're trying to find the meaningful and actionable patterns in the randomness.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=240)** Sometimes it's 80, sometimes it's 90.
 >
-> **[4:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=242)** And the other part is the testing dataset, and that's the rest of the data.
+> **[4:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=242)** And the other part is the testing dataset, and that's the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[4:08](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/validating-results?u=76281980&t=248)** And the idea here is that you train the model, you build your model, you do all your mining on the first part, the training dataset.
 >
@@ -621,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (1), just like (1), for instance (1)
@@ -634,14 +626,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimensionality reduction overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
+#### [Dimensionality reduction overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=0)** - [Narrator] Data mining comes into its own when you're dealing with lot's of data.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=0)** - [Narrator] [[Data Mining]] comes into its own when you're dealing with lot's of data.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=5)** You may be familiar with the three V's that define big data, volume, velocity and variety of the data.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=5)** You may be familiar with the three V's that define [[Big Data]], volume, velocity and variety of the data.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=13)** But it turns out that paradoxically, you can have too much of a good thing, having lot's of cases or observations is generally good.
 >
@@ -695,7 +686,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=255)** And at this point, instead of talking about two dimensions, we can talk about a single common component or dimension, and it makes it much easier to deal with the data.
 >
-> **[4:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=267)** Now there are many choices, many algorithms for dimensionality reduction, but there are three I want to show you in this course.
+> **[4:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=267)** Now there are many choices, many [[Algorithms]] for dimensionality reduction, but there are three I want to show you in this course.
 >
 > **[4:34](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980&t=274)** The first one is PCA, which stands for principal component analysis, it's far and wide the most common method, along with the closely related factor analysis, and what PCA does is it looks for components, those are like combined dimensions.
 >
@@ -721,15 +712,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Big Data]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Big Data]] (1), [[Algorithms]] (1)
 > **Env Vars:** pca (4), sne (3), lda (2)
 > **Definitions:** stands for (2), is an  (2), is a  (1), short for (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dataset: Handwritten digits
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980)
+#### [Dataset: Handwritten digits](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=11)** And it describes images like this where people have written by hand a number and we're trying to get the computer to figure out what that number is.
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=22)** Now, let's zoom in on it a little bit.
+> **[0:22](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=22)** Now, let's [[Zoom]] in on it a little bit.
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=24)** And let me show you how the dataset works.
 >
@@ -863,7 +853,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=328)** So we have our training dataset and the testing data set.
 >
-> **[5:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=332)** And then I'm going to clear out the windows and clear the packages.
+> **[5:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=332)** And then I'm going to clear out the [[Windows]] and clear the packages.
 >
 > **[5:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-handwritten-digits?u=76281980&t=335)** We don't have any graphics clear to the console.
 >
@@ -875,15 +865,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Zoom]] (1), generic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Windows]] (1)
 > **Env Vars:** csv (2), trn (2), rds (2), url (1), tra (1)
 > **Definitions:** is a  (5), stands for (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### PCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980)
+#### [PCA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +944,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980&t=185)** To do this, I take the PC object, I feed it into ggbiplot and I tell it that I want to color things by their group and then show you how to group them.
 >
-> **[3:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980&t=194)** So let's run that command and then we'll zoom in on that.
+> **[3:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980&t=194)** So let's run that command and then we'll [[Zoom]] in on that.
 >
 > **[3:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/pca?u=76281980&t=198)** And the really fascinating thing here is that our two components, the first component goes across the bottom explains 20% of the variance.
 >
@@ -993,14 +982,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Zoom]] (1), generic (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** pca (2), trn (1), tst (1)
 > **Versions:** 2.7 (1), 2.11 (1), 13.5 (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### LDA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980)
+#### [LDA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,7 +1018,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=83)** We'll use the test data set, I'm going to say no regression lines, no smoother and then use colors four through six from CAR palette.
 >
-> **[1:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=92)** And when we do that, we got this graphic and we zoom in on it and you can see that we have most of the variables.
+> **[1:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=92)** And when we do that, we got this graphic and we [[Zoom]] in on it and you can see that we have most of the variables.
 >
 > **[1:42](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=102)** At least these three are asymmetrically distributed that the observations tend to be on the low end and just a few of them go up on the high end and you can see the differences between the three digit classes, the ones, the threes and the sixes.
 >
@@ -1102,7 +1090,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=380)** I'm going to run that.
 >
-> **[6:22](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=382)** We can see what things are in there, it gives us class the posterior probability and the predicted class.
+> **[6:22](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=382)** We can see what things are in there, it gives us class the posterior [[Probability]] and the predicted class.
 >
 > **[6:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/lda?u=76281980&t=388)** And then we are going to do the histograms again this time using the test data.
 >
@@ -1136,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), generic (2), [[Zoom]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Probability]] (1)
 > **Env Vars:** lda (8), car (2), trn (2), tst (1), ld1 (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Versions:** 0.13 (1), 0.04 (1), 99.7 (1)
@@ -1144,8 +1132,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### t-SNE
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980)
+#### [t-SNE](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,7 +1192,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980&t=166)** Now there's a little bit of error.
 >
-> **[2:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980&t=168)** We have a green one over here, we've got a black one over here, but the rest of them, considering there's over a thousand, are well separated.
+> **[2:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980&t=168)** We have a green one over here, we've got a black one over here, but the [[Representational State Transfer (REST)|rest]] of them, considering there's over a thousand, are well separated.
 >
 > **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/t-sne?u=76281980&t=177)** Normally, a perplexity parameter of 2 is not sufficient.
 >
@@ -1225,14 +1212,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sne (7)
 > **Definitions:** is a  (2), short for (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: PCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-pca?u=76281980)
+#### [Challenge: PCA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-pca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,13 +1244,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: PCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980)
+#### [Solution: PCA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1280,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=91)** So I take the data frame and I feed the whole thing into scatterplot matrix.
 >
-> **[1:37](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=97)** And I'm going to zoom in on that and what you see are the distributions of each variable, and they're kind of normal, this one's a little skew, this one's bi-modal, and you can see the associations.
+> **[1:37](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=97)** And I'm going to [[Zoom]] in on that and what you see are the distributions of each variable, and they're kind of normal, this one's a little skew, this one's bi-modal, and you can see the associations.
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=109)** Some of them are pretty strong.
 >
@@ -1316,7 +1300,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=141)** I'll feed DF into that and save it as PC for principal components.
 >
-> **[2:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=147)** Then I'll get the summary statistics for that analysis.
+> **[2:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=147)** Then I'll get the summary [[Statistics]] for that analysis.
 >
 > **[2:32](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-pca?u=76281980&t=152)** And you see that we have six components that's because we started with six variables and it tells us how much each one of them contributed.
 >
@@ -1350,7 +1334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (2), bi (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Statistics]] (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for instance (1)
@@ -1362,12 +1346,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clustering overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
+#### [Clustering overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=0)** - [Instructor] Libraries are the original, big data and a great place to go mine data for insights.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=0)** - [Instructor] Libraries are the original, [[Big Data]] and a great place to go mine data for insights.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=6)** But the value of a library is only partly in the books that it holds.
 >
@@ -1375,7 +1358,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=16)** But as you might guess, there are many different ways to organize books or to put them into meaningful clusters.
 >
-> **[0:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=21)** For example, there is the library of Congress classification system where QA276 is where I often end up looking for statistics books, or there's the Dewey Decimal system.
+> **[0:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=21)** For example, there is the library of Congress classification system where QA276 is where I often end up looking for [[Statistics]] books, or there's the Dewey Decimal system.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980&t=33)** The same books might be under 006.
 >
@@ -1519,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Big Data]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3), is called (2), stands for (1)
 > **Env Vars:** dbscan (4), qa276 (1)
 > **Analogies:** think of it as (2), for example (1), for instance (1), picture (1)
@@ -1527,8 +1510,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dataset: Penguins
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-penguins?u=76281980)
+#### [Dataset: Penguins](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-penguins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1592,13 +1574,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Code Identifiers:** penguins_raw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980)
+#### [Hierarchical clustering](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1754,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980&t=351)** And we tell it to use colors three through actually five to draw them.
 >
-> **[5:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980&t=357)** And then I'll zoom in on that one.
+> **[5:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980&t=357)** And then I'll [[Zoom]] in on that one.
 >
 > **[5:59](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/hierarchical-clustering?u=76281980&t=359)** And this says, well, if you draw it at three, you can see how it cuts it.
 >
@@ -1832,13 +1812,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### K-means
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-means?u=76281980)
+#### [K-means](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,15 +1905,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), functional (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** fviz_cluster (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### DBSCAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980)
+#### [DBSCAN](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,7 +1951,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=94)** First is we're going to remove the class labels and that's the species label Y.
 >
-> **[1:39](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=99)** So we're going to pull that, which brings you out as a vector and I'm actually going to save it into one called species and then we're going to take the rest of the data frame.
+> **[1:39](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=99)** So we're going to pull that, which brings you out as a vector and I'm actually going to save it into one called species and then we're going to take the [[Representational State Transfer (REST)|rest]] of the data frame.
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=109)** We'll remove the species and scale or standardize all the variables, so they have a mean of zero and a standard deviation of one that gives them equal influence in the algorithm.
 >
@@ -2018,7 +1995,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=208)** And because I've done this before, I know that that corresponds to a value of 0.8 over here.
 >
-> **[3:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=218)** So I'm going to draw a line and let's zoom in on that for just a second.
+> **[3:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=218)** So I'm going to draw a line and let's [[Zoom]] in on that for just a second.
 >
 > **[3:43](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dbscan?u=76281980&t=223)** This over here means five nearest neighbors.
 >
@@ -2074,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dbscan (9), eps (4)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **CLI Commands:** find (2)
@@ -2082,8 +2059,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: K-means
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980)
+#### [Challenge: K-means](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980&t=57)** What we have are the sepal length and sepal width, the petal length and the petal with, and then the species.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980&t=63)** And we can get the entire summary statistics.
+> **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980&t=63)** And we can get the entire summary [[Statistics]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-means?u=76281980&t=66)** And you can see these are on slightly different scales, not massively different.
 >
@@ -2123,17 +2099,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: K-means
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980)
+#### [Solution: K-means](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=0)** - [Instructor] When I extended this challenge to you, I invited you to use the iris data to do k-means clustering with a value of three for k because there are three different species of iris.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=0)** - [Instructor] When I extended this challenge to you, I invited you to use the iris data to do [[k-means clustering]] with a value of three for k because there are three different species of iris.
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=16)** Let me show you how I solved this, and you can compare your own answers.
 >
@@ -2165,7 +2140,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=107)** These are the four physical measurements and the species.
 >
-> **[1:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=112)** And we can zoom in on this very colorful chart.
+> **[1:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=112)** And we can [[Zoom]] in on this very colorful chart.
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=116)** And we're just trying to see if there are patterns here.
 >
@@ -2217,7 +2192,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=253)** And so we see that this was reasonably effective in identifying groups that could be set off separately.
 >
-> **[4:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=260)** Now, one thing that you can do at this point is you can try some of the other algorithms that we used, and see how well they cluster the datasets, and to see if you can get a clean separation, for instance, between these two species that are very similar.
+> **[4:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=260)** Now, one thing that you can do at this point is you can try some of the other [[Algorithms]] that we used, and see how well they cluster the datasets, and to see if you can get a clean separation, for instance, between these two species that are very similar.
 >
 > **[4:34](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-means?u=76281980&t=274)** Remember, clustering, even though we have a particular outcome in this variable, is usually a descriptive procedure, a measure of convenience.
 >
@@ -2233,7 +2208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[k-means clustering]] (3), [[Zoom]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (3), [[Zoom]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** scatterplotmatrix (2), fvix_cluster (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
@@ -2246,8 +2221,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classification overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
+#### [Classification overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=18)** Your one job is to put things into the right box.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=23)** So if you want to think about clustering versus classifying, which are probably the two most important things happening in data science, clustering is just trying to find similarities, and the data is referred to as unlabeled, because it doesn't have a correct category that you're trying to match.
+> **[0:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=23)** So if you want to think about clustering versus classifying, which are probably the two most important things happening in [[Data Science]], clustering is just trying to find similarities, and the data is referred to as unlabeled, because it doesn't have a correct category that you're trying to match.
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=40)** That also means that the answers are subjective.
 >
@@ -2285,7 +2259,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=104)** Were the positive cases labeled as positive, were the negative cases classified as negative?
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=109)** And it's also generally referred to as supervised learning, because you have this label, this correct category, that is used to teach the algorithm how to process the data to get to that final outcome.
+> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=109)** And it's also generally referred to as [[Supervised Learning]], because you have this label, this correct category, that is used to teach the algorithm how to process the data to get to that final outcome.
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=124)** Now, there are several methods that are used for classification, in fact, there's an enormous number.
 >
@@ -2323,7 +2297,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=237)** How common is a disease overall? That's its base rate.
 >
-> **[4:01](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=241)** And if a person has a disease, what's the probability of getting a positive test result?
+> **[4:01](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=241)** And if a person has a disease, what's the [[Probability]] of getting a positive test result?
 >
 > **[4:06](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=246)** That's a prior probability.
 >
@@ -2339,13 +2313,13 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=270)** You roll them, what happens on one does not affect what happens on the others, but you can calculate the probabilities between them.
 >
-> **[4:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=278)** And the last method I want to show to you is decision trees.
+> **[4:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=278)** And the last method I want to show to you is [[Decision Trees]].
 >
 > **[4:43](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=283)** This is a series of yes/no decisions, binary decisions.
 >
 > **[4:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=288)** And the algorithm chooses the most informative split at each point.
 >
-> **[4:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=293)** Think, for instance, if you're playing the game Hangman, where you're guessing a word, you choose letters that are diagnostic.
+> **[4:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=293)** Think, for instance, if you're playing the game Hangman, where you're guessing a [[Microsoft Word|word]], you choose letters that are diagnostic.
 >
 > **[4:59](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=299)** E is going to be the most common, A, those will give you an idea what's probably going to be in the word.
 >
@@ -2367,20 +2341,19 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=349)** This is because classification is one of the most important tasks in data science, and an area of very active research and development.
 >
-> **[5:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=356)** And in data mining, you do have a choice of dozens or possibly hundreds of methods.
+> **[5:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=356)** And in [[Data Mining]], you do have a choice of dozens or possibly hundreds of methods.
 >
 > **[6:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980&t=362)** But the three that I mentioned are the ones that I want to demonstrate that I think will be probably of greatest use to you as soon as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Probability]] (4), [[Decision Trees]] (2), [[Microsoft Word|Word]] (2), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Data Science]] (2), [[Decision Trees]] (2), [[Microsoft Word|Word]] (2), [[Supervised Learning]] (1)
 > **Definitions:** is a  (7), is called (2), means that (1), stands for (1)
 > **Analogies:** it's like (2), for example (1), similar to (1), for instance (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
-#### Dataset: Spambase
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980)
+#### [Dataset: Spambase](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,11 +2381,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=58)** And you can see that they're cryptic.
 >
-> **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=60)** Each of these mean something, like how many capital letters there are, or how many spaces in row, or how many numbers, or does this word appear?
+> **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=60)** Each of these mean something, like how many capital letters there are, or how many spaces in row, or how many numbers, or does this [[Microsoft Word|word]] appear?
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=70)** Does this word appear?
 >
-> **[1:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=72)** And that can be useful, but because we're simply doing a data mining project where we actually want to see do any of these variables work to predict whether something is spam or not, I'm going to clean it up a little bit.
+> **[1:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=72)** And that can be useful, but because we're simply doing a [[Data Mining]] project where we actually want to see do any of these variables work to predict whether something is spam or not, I'm going to clean it up a little bit.
 >
 > **[1:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=85)** First, I'm going to rename the variables.
 >
@@ -2474,7 +2447,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=224)** It takes just a moment to do this one.
 >
-> **[3:47](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=227)** And then I'll zoom in on it.
+> **[3:47](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=227)** And then I'll [[Zoom]] in on it.
 >
 > **[3:50](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-spambase?u=76281980&t=230)** And so this one right here, the orangish/coral color is not spam.
 >
@@ -2500,7 +2473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Word|Word]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Zoom]] (2), [[Data Mining]] (1)
 > **Env Vars:** url (2), csv (1), a58 (1), rds (1)
 > **File Paths:** spambase.csv (1)
 > **CLI Commands:** make (1)
@@ -2508,8 +2481,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### K-nn
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980)
+#### [K-nn](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2509,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=62)** We're going to be using what's called repeatedCV, which is repeated cross validation.
 >
-> **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=67)** So we're using two forms of validation in this.
+> **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=67)** So we're using two [[Forms]] of validation in this.
 >
 > **[1:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=69)** Cross validation means we're splitting up the dataset into several different folds.
 >
@@ -2631,7 +2603,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=310)** It's a nice way of visualizing what we have here.
 >
-> **[5:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=313)** I'll actually zoom in on that.
+> **[5:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=313)** I'll actually [[Zoom]] in on that.
 >
 > **[5:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/k-nn?u=76281980&t=316)** And what we have here is whether something was predicted to be not spam.
 >
@@ -2689,7 +2661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Forms]] (1), generic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Zoom]] (1)
 > **Code Identifiers:** knn (3), repeatedcv (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **Env Vars:** e1071 (1), tst (1)
@@ -2697,12 +2669,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Naive Bayes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980)
+#### [Naive Bayes](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=0)** - [Instructor] It's strange to talk about something being naive when we're trying to do serious data science but Naive Bayes , which again means that is treating each of the variables as independent, is an important and useful method for classification exercises in data science and here in data mining.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=0)** - [Instructor] It's strange to talk about something being naive when we're trying to do serious [[Data Science]] but Naive Bayes , which again means that is treating each of the variables as independent, is an important and useful method for classification exercises in data science and here in [[Data Mining]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=18)** To do this, I'm going to start by learning a few packages, including this one, Naive Bayes , along with some of our other testing functions.
 >
@@ -2740,7 +2711,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=144)** When it finally pops up with the results, we can then plot the parameter values against accuracy.
 >
-> **[2:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=151)** And let's zoom in on this.
+> **[2:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=151)** And let's [[Zoom]] in on this.
 >
 > **[2:34](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/naive-bayes?u=76281980&t=154)** And what this is showing us is for instance whether it's doing the laplace correction, going from values of zero up to one, and whether it's using the adjust or whether it's using the kernel and we get this accuracy over here.
 >
@@ -2804,7 +2775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Search]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Data Mining]] (2), [[Zoom]] (1)
 > **Analogies:** for instance (2), similar to (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
@@ -2812,12 +2783,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980)
+#### [Decision trees](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=0)** - [Instructor] The final method for classification that we're going to look at, there are many, many other possibilities, but the one that we're going to look at in this data mining course is decision trees.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=0)** - [Instructor] The final method for classification that we're going to look at, there are many, many other possibilities, but the one that we're going to look at in this [[Data Mining]] course is [[Decision Trees]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=11)** This is actually one of the most useful ways of visualizing what's happening in the decision process.
 >
@@ -2905,7 +2875,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=255)** If you were to go back to the original file description, you could see what those actually referred to.
 >
-> **[4:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=259)** Again, it's like, does this word appear or how many capital letters are there?
+> **[4:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=259)** Again, it's like, does this [[Microsoft Word|word]] appear or how many capital letters are there?
 >
 > **[4:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=263)** How many numbers are there?
 >
@@ -2913,7 +2883,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=271)** And we're going to plot it using the fancyRpartPlot.
 >
-> **[4:36](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=276)** And when we do that, I can zoom in on that.
+> **[4:36](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=276)** And when we do that, I can [[Zoom]] in on that.
 >
 > **[4:40](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/decision-trees?u=76281980&t=280)** This our decision tree where we have each node and you can see it makes a decision at each level branches off to the left or the right depending on the specific criteria for that decision.
 >
@@ -2961,7 +2931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Decision Trees]] (4), [[Microsoft Word|Word]] (1), [[Zoom]] (1), node (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Data Mining]] (1), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **CLI Commands:** node (1), make (1), find (1)
 > **Code Identifiers:** fancyrpartplot (1), knn (1)
 > **Versions:** 89.44 (1), 90.29 (1)
@@ -2970,14 +2940,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: K-nn
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980)
+#### [Challenge: K-nn](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=5)** - [Narrator] Now that we've covered several methods of classification within a data mining context.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=5)** - [Narrator] Now that we've covered several methods of classification within a [[Data Mining]] context.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=10)** I want to give you the opportunity to try doing this with a new dataset.
 >
@@ -2987,7 +2956,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=27)** And then I'll set the random seed.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=30)** Now I'm going to do a little bit of data preparation here.
+> **[0:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=30)** Now I'm going to do a little bit of [[Data Preparation]] here.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=33)** So you have things ready to go for the actual classification task.
 >
@@ -3021,7 +2990,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=113)** And then I'm going to mutate the variables.
 >
-> **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=116)** I'm going to go across several of them, except for the Y and turn all the rest of them into numeric.
+> **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=116)** I'm going to go across several of them, except for the Y and turn all the [[Representational State Transfer (REST)|rest]] of them into numeric.
 >
 > **[2:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=122)** Because at this exact moment they're actually being categorized as categorical variables.
 >
@@ -3047,7 +3016,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=190)** And then we'll look at a few variables in a pairs plot to see what that's like.
 >
-> **[3:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=198)** And I'll zoom in on this.
+> **[3:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=198)** And I'll [[Zoom]] in on this.
 >
 > **[3:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-k-nn?u=76281980&t=201)** And so the orange coral color is benign and the green blue teal color is malignant.
 >
@@ -3069,14 +3038,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (2), database (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Data Mining]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: K-nn
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980)
+#### [Solution: K-nn](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3138,7 +3106,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980&t=185)** Those are huge compared to the red which are the false positives and false negatives.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980&t=191)** In fact, when we get the overall statistics, you see again that we had 96.59% accuracy.
+> **[3:11](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980&t=191)** In fact, when we get the overall [[Statistics]], you see again that we had 96.59% accuracy.
 >
 > **[3:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-k-nn?u=76281980&t=200)** This is an amazingly accurate model.
 >
@@ -3150,7 +3118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), generic (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** knn (1)
 > **Versions:** 96.59 (1)
@@ -3163,8 +3131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Association analysis overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
+#### [Association analysis overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3172,7 +3139,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=14)** The idea is you're trying to find some sort of, if this, then that, logic to build up rules.
 >
-> **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=20)** If a person buys an orange, what's the probability they'll buy a grape fruit?
+> **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=20)** If a person buys an orange, what's the [[Probability]] they'll buy a grape fruit?
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=23)** If they get both of those, what's the probability they'll get a lime or a lemon?
 >
@@ -3198,7 +3165,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=110)** This is a very different kind of data.
 >
-> **[1:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=112)** And while you can't split it into the columns, most of the algorithms that we're going to be using work really well with this transactional data format.
+> **[1:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=112)** And while you can't split it into the columns, most of the [[Algorithms]] that we're going to be using work really well with this transactional data format.
 >
 > **[2:01](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=121)** I want to show you two really common methods for doing this kind of analysis and one less common application of it.
 >
@@ -3218,7 +3185,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=160)** A very closely related algorithm is called Eclat, which is actually a portmanteau for equivalent class transformation.
 >
-> **[2:47](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=167)** Although it is also the French word that refers to the gleam or the glare of the sun.
+> **[2:47](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=167)** Although it is also the French [[Microsoft Word|word]] that refers to the gleam or the glare of the sun.
 >
 > **[2:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=172)** So I've got the sun here.
 >
@@ -3294,19 +3261,18 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=348)** And then this application where classification is based on association rules.
 >
-> **[5:54](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=354)** You'll see that this is a very different approach and a very flexible approach and a great thing to add to your data mining toolkit.
+> **[5:54](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980&t=354)** You'll see that this is a very different approach and a very flexible approach and a great thing to add to your [[Data Mining]] toolkit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Probability]] (3), [[Algorithms]] (2), application (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Algorithms]] (2), [[Microsoft Word|Word]] (1), [[Data Mining]] (1)
 > **Definitions:** is a  (4), known as (3), is an  (1), is called (1), stands for (1)
 > **Env Vars:** cba (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Dataset: Groceries
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-groceries?u=76281980)
+#### [Dataset: Groceries](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-groceries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3342,13 +3308,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apriori
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980)
+#### [Apriori](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3380,13 +3344,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=67)** And then, the minimum level of confidence.
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=70)** And that has to do with a conditional probability.
+> **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=70)** And that has to do with a conditional [[Probability]].
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=74)** I'm saying 0.75.
 >
 > **[1:17](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=77)** And so with those two parameters, and the apriori function working on our data, which is the groceries just renamed as df, I can save that into an object called rules.
 >
-> **[1:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=90)** Now, when I do that, you can see that it's giving me a range of output statistics.
+> **[1:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=90)** Now, when I do that, you can see that it's giving me a range of output [[Statistics]].
 >
 > **[1:39](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=99)** The important thing down here is that it's running through, it's creating an object.
 >
@@ -3394,7 +3358,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=109)** Let's come back here.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=109)** In fact, if we want the number of rules, we can just type the word rules, and it just tells us how many there are instead of showing us what the actual rules are.
+> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=109)** In fact, if we want the number of rules, we can just type the [[Microsoft Word|word]] rules, and it just tells us how many there are instead of showing us what the actual rules are.
 >
 > **[1:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=117)** To see the rules printed in the console, we're going to do two things.
 >
@@ -3428,7 +3392,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=208)** And when we do that, we get an interesting kind of scatter plot.
 >
-> **[3:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=211)** I'll zoom in on that.
+> **[3:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=211)** I'll [[Zoom]] in on that.
 >
 > **[3:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=213)** And you'll see, it's showing us three variables.
 >
@@ -3450,21 +3414,20 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=273)** We have vegetables, other vegetables.
 >
-> **[4:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=275)** We have instant food products and cereals.
+> **[4:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=275)** We have instant food [[Microsoft Products|products]] and cereals.
 >
 > **[4:37](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/apriori?u=76281980&t=277)** And so this is a way of visualizing the sort of cause and effect or predictor and outcome relationships between the different items in the association rules analysis using the Apriori algorithm.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Probability]] (3), [[Statistics]] (2), [[Microsoft Word|Word]] (1), generic (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Statistics]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** arulesviz (1)
 > **Versions:** 0.75 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eclat
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980)
+#### [Eclat](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3518,7 +3481,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=132)** And here are our rules and you can see we actually have this very same rule at the top that if a person buys both liquor and red or blush wine then, they are likely to buy a bottled beer.
 >
-> **[2:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=145)** And we have these same statistics over here that are very similar to what we had before.
+> **[2:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=145)** And we have these same [[Statistics]] over here that are very similar to what we had before.
 >
 > **[2:31](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=151)** And then we have curd and cereals to whole milk.
 >
@@ -3532,18 +3495,17 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=189)** This one looks a little bit different but that's also because there's a random element in how things are structured.
 >
-> **[3:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=194)** But over here, you can see our big one here that if somebody buys liquor and red or blush wine they are very high probability of buying bottled beer and that makes it easier to interpret what's going on.
+> **[3:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=194)** But over here, you can see our big one here that if somebody buys liquor and red or blush wine they are very high [[Probability]] of buying bottled beer and that makes it easier to interpret what's going on.
 >
 > **[3:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/eclat?u=76281980&t=208)** Again, I've restricted it by limiting the maximum length of the rules but the Eclat algorithm is another very prominent method for doing association rules of mining in our or in any other language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Probability]] (1)
 > **Analogies:** similar to (3)
 > **CLI Commands:** make (1)
 
-#### CBA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980)
+#### [CBA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3569,7 +3531,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=69)** And then we have four physical measurements.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=75)** Now we're going to have to do a little bit of data preparation here.
+> **[1:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=75)** Now we're going to have to do a little bit of [[Data Preparation]] here.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=78)** And part of that is because the CBA approach is much happier with categories as opposed to these quantitative measurements.
 >
@@ -3583,7 +3545,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=132)** And we'll save that to DF.
 >
-> **[2:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=135)** And then we can check the first few rows of the data and let me zoom this up.
+> **[2:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=135)** And then we can check the first few rows of the data and let me [[Zoom]] this up.
 >
 > **[2:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=140)** You can see it looks a little different.
 >
@@ -3595,7 +3557,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=156)** We're doing a classification task and so it's helpful to take the data and break it into training and testing datasets.
 >
-> **[2:44](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=164)** To do that I'm going to temporarily add a row ID sample 70% of the data for training, and then put the rest into the testing and then remove the ID.
+> **[2:44](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=164)** To do that I'm going to temporarily add a row ID sample 70% of the data for training, and then put the [[Representational State Transfer (REST)|rest]] into the testing and then remove the ID.
 >
 > **[2:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=178)** Then we'll come here.
 >
@@ -3623,7 +3585,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=235)** And when you get that, you see we have a rule here that says if the bill length is in this range, and if the bill depth is in this range, then it's likely to be an Adelie penguin.
 >
-> **[4:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=249)** And we have the same statistics, support, confidence, coverage, lift as well as a few others that are covered transactions in total errors that we have because it's a classification problem.
+> **[4:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=249)** And we have the same [[Statistics]], support, confidence, coverage, lift as well as a few others that are covered transactions in total errors that we have because it's a classification problem.
 >
 > **[4:22](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=262)** We have another one here that says just bill depth that ignores the other things.
 >
@@ -3675,11 +3637,11 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=390)** This is a really ingenious use of the method.
 >
-> **[6:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=393)** And it's something that can be very effective, both in terms of making a use case for association rules but also giving you one more tool in your toolkit for doing classification analysis in your data mining projects
+> **[6:33](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/cba?u=76281980&t=393)** And it's something that can be very effective, both in terms of making a use case for association rules but also giving you one more tool in your toolkit for doing classification analysis in your [[Data Mining]] projects
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1), generic (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1), [[Data Mining]] (1)
 > **Env Vars:** cba (8), mdlp (2)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
@@ -3687,8 +3649,7 @@ created: 2026-05-02
 > **Versions:** 96.7 (1), 96.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Apriori
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-apriori?u=76281980)
+#### [Challenge: Apriori](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-apriori?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3722,15 +3683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1)
 > **Analogies:** similar to (2)
 > **Env Vars:** epub (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Apriori
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-apriori?u=76281980)
+#### [Solution: Apriori](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-apriori?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3776,7 +3735,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** epub (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3788,8 +3746,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time-series mining overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
+#### [Time-series mining overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3801,7 +3758,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=18)** Time only moves forward, and that gives you special analytical challenges.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=24)** Fortunately, there are several methods, within analysis in general and data mining in particular, to deal with this temporal orientation of time-based data.
+> **[0:24](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=24)** Fortunately, there are several methods, within analysis in general and [[Data Mining]] in particular, to deal with this temporal orientation of time-based data.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=35)** The first one that we're going to look at, and the most basic, is called decomposition.
 >
@@ -3845,7 +3802,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=161)** There's ARMA, which doesn't have the I for difference in, there's SARIMA, which includes seasonal components, that's actually what I'm going to demonstrate, and many other things that allow you to stand where you are, to look back and use that to predict the future.
 >
-> **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=177)** Finally, we're going to look at something called MLP, which stands for a multilayer perceptron, and that's an entire class of feedforward artificial neural networks, and neural networks have been where so much of the amazing developments in data science have been.
+> **[2:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=177)** Finally, we're going to look at something called MLP, which stands for a multilayer perceptron, and that's an entire class of feedforward [[Artificial Neural Networks]], and [[Neural Networks]] have been where so much of the amazing developments in [[Data Science]] have been.
 >
 > **[3:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980&t=195)** A neural network is designed to have an input layer, which you see here on the left, one or more hidden layers, which you see here, the second and third columns of data, and then an output layer, which gives you the prediction.
 >
@@ -3861,15 +3818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Neural Networks]] (2), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Data Mining]] (1), [[Artificial Neural Networks]] (1), [[Data Science]] (1)
 > **Env Vars:** arima (6), mlp (2), arma (1), sarima (1), rnn (1)
 > **Definitions:** is a  (3), means that (2), stands for (2), is called (1)
 > **Analogies:** it's like (1), picture (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dataset: AirPassengers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-airpassengers?u=76281980)
+#### [Dataset: AirPassengers](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-airpassengers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3937,14 +3893,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), generic (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** str (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Time-series decomposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980)
+#### [Time-series decomposition](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4078,7 +4032,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980&t=296)** So I'm going to run that one, come down here you can see it switches at 1955, and one third of the way through the year.
 >
-> **[5:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980&t=303)** And then when we zoom in on that, it says you have kind of a uniform trend for these first many years but then the mean has changed enough that it makes sense to talk about it jumping up to here.
+> **[5:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980&t=303)** And then when we [[Zoom]] in on that, it says you have kind of a uniform trend for these first many years but then the mean has changed enough that it makes sense to talk about it jumping up to here.
 >
 > **[5:17](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-decomposition?u=76281980&t=317)** Again, we have a pretty strong linear trend.
 >
@@ -4088,15 +4042,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** similar to (1), for instance (1), picture (1)
 > **Versions:** 1.1 (1), 1.13 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARIMA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980)
+#### [ARIMA](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4104,7 +4057,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=20)** And it's able to make very good predictions with this kind of seasonal variations or changes over time.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=28)** Now to do this, we're going to load a few new packages we're going to load forecast, which is used for time series analysis, ggfortify, which allows us to do some kinds of graphs.
+> **[0:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=28)** Now to do this, we're going to load a few new packages we're going to load forecast, which is used for [[Time Series Analysis]], ggfortify, which allows us to do some kinds of graphs.
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=39)** So I'm going to load all those packages, and set the random seed.
 >
@@ -4196,7 +4149,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=316)** No major trend in that, which means that our model seems to be fitting it well.
 >
-> **[5:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=320)** The ACF of the residuals has to do with the correlations and we'll ignore this first one but the rest of them are basically in here, and they're not significant.
+> **[5:20](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=320)** The ACF of the residuals has to do with the correlations and we'll ignore this first one but the [[Representational State Transfer (REST)|rest]] of them are basically in here, and they're not significant.
 >
 > **[5:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/arima?u=76281980&t=328)** Again, it means our model is fitting the data well.
 >
@@ -4226,7 +4179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), next (2), [[Time Series Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** arima (13), acf (2)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** in the next (2)
@@ -4235,12 +4188,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### MLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/mlp?u=76281980)
+#### [MLP](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/mlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/mlp?u=76281980&t=0)** - [Instructor] So much of the progress in data science has been attributable to the rise of neural networks, sophisticated algorithms that mimic in certain ways the functioning of the biological brain by having lots of input going through lots of internal processing and coming to a final conclusion.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/mlp?u=76281980&t=0)** - [Instructor] So much of the progress in [[Data Science]] has been attributable to the rise of [[Neural Networks]], sophisticated [[Algorithms]] that mimic in certain ways the functioning of the biological brain by having lots of input going through lots of internal processing and coming to a final conclusion.
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/mlp?u=76281980&t=17)** And while most neural networks are associated with classification algorithms, they also work very well with time series data.
 >
@@ -4368,13 +4320,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Neural Networks]] (5), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Algorithms]] (2), [[Data Science]] (1)
 > **Env Vars:** mlp (5), arema (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Decomposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980)
+#### [Challenge: Decomposition](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4394,7 +4345,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=50)** So let's come back up to the top here.
 >
-> **[0:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=57)** So we started in 1991 about halfway through and we have four different indices, the Dax which is in Germany, SMI, which is in Switzerland, the CAC in France, and the FTSE in the UK.
+> **[0:57](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=57)** So we started in 1991 about halfway through and we have four different indices, the [[DAX]] which is in Germany, SMI, which is in Switzerland, the CAC in France, and the FTSE in the UK.
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=73)** We can plot the data and we can actually plot all four times series at once by simply taking it and feeding it into ours generic X, Y plot command.
 >
@@ -4412,23 +4363,22 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=128)** And your challenge is to take this dataset and see what kind of overall trend there is what kind of seasonal trend there is and what kind of random variation there's leftover.
 >
-> **[2:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=139)** Take a couple of minutes, give it your best shot and then we'll meet together again to compare responses and decomposing financial data from the French CAC.
+> **[2:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-decomposition?u=76281980&t=139)** Take a couple of minutes, give it your best shot and then we'll meet together again to compare responses and decomposing [[Financial Data]] from the French CAC.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[DAX]] (1), generic (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Financial Data]] (1)
 > **Env Vars:** cac (5), smi (1), ftse (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Decomposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980)
+#### [Solution: Decomposition](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=0)** - Invited you to look at some financial data and see what kind of patterns you could find, by decomposing a time series.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=0)** - Invited you to look at some [[Financial Data]] and see what kind of patterns you could find, by decomposing a time series.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=14)** Let me show you how I did this.
 >
@@ -4472,7 +4422,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=105)** And we're going to use the additive function which is the default.
 >
-> **[1:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=108)** So I take DF, run it through compose and plot the results.
+> **[1:48](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=108)** So I take DF, run it through [[Jetpack Compose|compose]] and plot the results.
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-decomposition?u=76281980&t=113)** And when we do that, you can see this is the general pattern and things kind of staying down where they are and then taking this strong turn up around 96.
 >
@@ -4508,7 +4458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Financial Data]] (2), generic (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (2), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** cac (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -4521,12 +4471,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text mining overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
+#### [Text mining overview](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=0)** - [Instructor] Text is not like other data and when it comes to data mining, it poses some very special challenges.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=0)** - [Instructor] Text is not like other data and when it comes to [[Data Mining]], it poses some very special challenges.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=9)** Those challenges include things like the fact that there are enormous quantities of text.
 >
@@ -4554,7 +4503,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=59)** Now, there are three ways that I can think of that data mining with text is particularly important.
 >
-> **[1:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=65)** One application is in modeling topics where algorithms are used to say what a news article is about or what the topic of a social media or blog post is.
+> **[1:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=65)** One application is in modeling topics where [[Algorithms]] are used to say what a news article is about or what the topic of a social media or blog post is.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=78)** Another one is summarizing content.
 >
@@ -4568,7 +4517,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=98)** The prototypical example is a spam filter but anything that sorts the data is going to be enormously useful and save a lot of human time and effort.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=109)** In the demonstrations that we're going to look at, I'm going to focus on another element of text mining which is called sentiment analysis.
+> **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=109)** In the demonstrations that we're going to look at, I'm going to focus on another element of [[Text Mining]] which is called sentiment analysis.
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=116)** This is where you're trying to find the emotional content of data and the place where this is really significant is in online marketing.
 >
@@ -4596,7 +4545,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=201)** And the fact that they're individual is important.
 >
-> **[3:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=203)** It's looking at one word at a time.
+> **[3:23](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=203)** It's looking at one [[Microsoft Word|word]] at a time.
 >
 > **[3:26](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980&t=206)** You can develop other systems for looking at associations between the word or for instance, a negation of a topic or a phrase that has a double meaning.
 >
@@ -4620,20 +4569,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (4), product (2), application (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Data Mining]] (2), [[Algorithms]] (1), [[Text Mining]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (2), it's like (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dataset: The Iliad
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980)
+#### [Dataset: The Iliad](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=0)** - [Narrator] I may be a data person but it turns out that I really love art.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=5)** I have a background in design, I'm married to an artist and I'm really happy to be working on this section of text mining, because it allows me to engage a little bit with some literature.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=5)** I have a background in design, I'm married to an artist and I'm really happy to be working on this section of [[Text Mining]], because it allows me to engage a little bit with some literature.
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=17)** In this particular case I'm going to be using an example of the Iliad by Homer, as a way of demonstrating three different approaches to text mining.
 >
@@ -4673,7 +4621,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=116)** And we can see that it was rendered into English blank verse by Edward Earl of Derby.
 >
-> **[2:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=123)** You can get some summary statistics.
+> **[2:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=123)** You can get some summary [[Statistics]].
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dataset-the-iliad?u=76281980&t=125)** It's kind of a silly thing to do here, because it has one variable that doesn't vary.
 >
@@ -4693,7 +4641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Text Mining]] (3), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Text Mining]] (3), [[Statistics]] (1)
 > **Exercise Files:** download the (2)
 > **File Paths:** iliad.txt (1)
 > **Code Identifiers:** gutenberg_download (1)
@@ -4701,12 +4649,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sentiment analysis: Binary classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980)
+#### [Sentiment analysis: Binary classification](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=0)** - [Instructor] Our first demonstration of text mining in R is going to be the simplest case.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=0)** - [Instructor] Our first demonstration of [[Text Mining]] in R is going to be the simplest case.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=4)** We're going to look at sentiment that is emotional evaluations of texts, which is the binary positive or negative evaluation.
 >
@@ -4724,9 +4671,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=60)** Now, the first thing we need to do is prepare the data and that involves tokenizing the data.
 >
-> **[1:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=64)** A token is an element of texts and usually it refers to a word.
+> **[1:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=64)** A token is an element of texts and usually it refers to a [[Microsoft Word|word]].
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=70)** You can have tokens of multiple words or even sentences or paragraphs or what have you, but most common, it's a word.
+> **[1:10](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=70)** You can have [[Tokens]] of multiple words or even sentences or paragraphs or what have you, but most common, it's a word.
 >
 > **[1:17](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-binary-classification?u=76281980&t=77)** And so what we're going to do is we're going to take our data frame.
 >
@@ -4830,15 +4777,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Text Mining]] (1)
 > **Definitions:** is a  (4), stands for (1), is an  (1), refers to (1)
 > **Code Identifiers:** stop_words (2), inner_join (2), anti_join (1)
 > **CLI Commands:** make (2), find (2)
 > **File Paths:** elliod.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sentiment analysis: Sentiment scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980)
+#### [Sentiment analysis: Sentiment scoring](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4864,7 +4810,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=56)** And here is the first few lines on the title page.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=61)** We need to we do a little bit of data preparation.
+> **[1:01](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=61)** We need to we do a little bit of [[Data Preparation]].
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=63)** The first thing I'm going to do is I'm going to add line numbers to the texts.
 >
@@ -4882,7 +4828,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=98)** That means we're going to split it into the elements that we're looking for.
 >
-> **[1:41](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=101)** Usually that's one word and that's what we're going to do here but it could be pairs or triplets of words or sentences or so on.
+> **[1:41](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=101)** Usually that's one [[Microsoft Word|word]] and that's what we're going to do here but it could be pairs or triplets of words or sentences or so on.
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=109)** We're going to break it down into individual words and we'll save it into words.
 >
@@ -5016,23 +4962,22 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=412)** But the point here is we now have a visualization of the emotional component of the narrative arc of the Iliad, which we got by scoring sections of the book and then visualizing it all the way through.
 >
-> **[7:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=427)** To me this is a fabulous use of sentiment, scoring and text mining and the packages that we have, especially tidy texts make this a very simple and informative approach to looking for meaning in data.
+> **[7:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/sentiment-analysis-sentiment-scoring?u=76281980&t=427)** To me this is a fabulous use of sentiment, scoring and [[Text Mining]] and the packages that we have, especially tidy texts make this a very simple and informative approach to looking for meaning in data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (2), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Data Preparation]] (1), [[Text Mining]] (1)
 > **CLI Commands:** find (1), make (1)
 > **File Paths:** iliad.txt (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Visualizing Word pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980)
+#### [Visualizing Word pairs](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=0)** - [Instructor] Our final demonstration of text mining is actually going to look at a visualization of the association between words, and in this case, word pairs.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=0)** - [Instructor] Our final demonstration of [[Text Mining]] is actually going to look at a visualization of the association between words, and in this case, [[Microsoft Word|word]] pairs.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=9)** To do this I'm going to begin by loading a few packages including ggraph, which allows us to visualize networks.
 >
@@ -5062,7 +5007,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=62)** So let's do that by overriding our data with wordpairs.
 >
-> **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=67)** And then we can see the tokens are words by frequency.
+> **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=67)** And then we can see the [[Tokens]] are words by frequency.
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=73)** And this time you see two words at a time, "to the" happens 527 times, "of the" is 453, "in the", "from the" these are things that are not necessarily interesting.
 >
@@ -5130,7 +5075,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=265)** And then we'll just print it here in the bottom.
 >
-> **[4:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=268)** And here there "peleus's son", "saturn's son", "atreus son", "achilles swift", "godlike son", "fair hair'd".
+> **[4:28](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=268)** And here there "peleus's son", "saturn's son", "atreus son", "achilles [[Swift (Programming Language)|swift]]", "godlike son", "fair hair'd".
 >
 > **[4:37](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=277)** Great, but now let's chart. Let's graph the pairs.
 >
@@ -5148,7 +5093,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=315)** And this can take a moment depending on your machine.
 >
-> **[5:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=319)** But let's zoom in on this graph.
+> **[5:19](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=319)** But let's [[Zoom]] in on this graph.
 >
 > **[5:21](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/visualizing-word-pairs?u=76281980&t=321)** And what you see here are "paris, bulls hide, "heav'n born, lofty wall, the trojan host", but then you see other ones that appear more often.
 >
@@ -5168,15 +5113,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Word|Word]] (12), [[Text Mining]] (2), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Text Mining]] (2), [[Tokens]] (1), [[Swift (Programming Language)|Swift]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (6), refers to (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** graph_from_data_frame (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Sentiment scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-sentiment-scoring?u=76281980)
+#### [Challenge: Sentiment scoring](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/challenge-sentiment-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5204,12 +5148,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sentiment scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980)
+#### [Solution: Sentiment scoring](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5233,7 +5175,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980&t=62)** And now you can see it right here.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980&t=63)** We have the line number and we have the word.
+> **[1:03](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980&t=63)** We have the line number and we have the [[Microsoft Word|word]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/solution-sentiment-scoring?u=76281980&t=66)** Little and women are on the same line.
 >
@@ -5295,7 +5237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** similar to (1), it's like (1)
@@ -5308,12 +5250,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=0)** - [Barton] So we've come to the end of data mining with R.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=0)** - [Barton] So we've come to the end of [[Data Mining]] with R.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=4)** Now, where are you going to go?
 >
@@ -5325,19 +5266,19 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=11)** Well, I want to make a few suggestions for both the immediate and the longer term future.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=16)** For the immediate, I recommend that you go through our online learning library and learn more about data science, both the concepts and the specific practices strongly associated with data mining and learning more about data science will make you better at data mining tasks.
+> **[0:16](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=16)** For the immediate, I recommend that you go through our online learning library and learn more about [[Data Science]], both the concepts and the specific practices strongly associated with data mining and learning more about data science will make you better at data mining tasks.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=35)** In particular, you may want to play some special emphasis on machine learning algorithms.
+> **[0:35](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=35)** In particular, you may want to play some special emphasis on machine learning [[Algorithms]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=40)** We covered several of those in this course.
 >
-> **[0:43](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=43)** Things like, the neural networks.
+> **[0:43](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=43)** Things like, the [[Neural Networks]].
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=45)** But you're going to want to look at more of these so you have a wide range of tools to help you when you're working on your data mining projects.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=53)** And of course you want to think about the actual programming tools that you use.
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=58)** Python and R are the two most common tools within data mining and we have versions of this course for both Python and R.
+> **[0:58](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=58)** [[Python (Programming Language)|Python]] and R are the two most common tools within data mining and we have versions of this course for both Python and R.
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980&t=67)** You finish watching one?
 >
@@ -5371,7 +5312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Neural Networks]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (9), [[Data Science]] (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (2), python (2), find (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [barton] (1)

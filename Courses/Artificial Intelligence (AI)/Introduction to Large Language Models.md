@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact and functionality of large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980)
+#### [The impact and functionality of large language models](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=0)** - [Jonathan] If you're looking to be able to think critically about large language models, comparing them and understanding why they work the way they do and how this affects you and your work, then this course is for you.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=0)** - [Jonathan] If you're looking to be able to think critically about [[Large Language Models (LLM)|large language models]], comparing them and understanding why they work the way they do and how this affects you and your work, then this course is for you.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=12)** Hi, I'm Jonathan Fernandes, and I work with large language models every day.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=18)** Join me to take a look at how we ended up where we are today with large language models, including looking at models such as BERT, GPT-3 and GPT-4, and Llama 2.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=18)** Join me to take a look at how we ended up where we are today with large language models, including looking at models such as BERT, GPT-3 and [[GPT-4]], and [[LLaMA]] 2.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980&t=28)** Let's get to it.
 
@@ -110,22 +109,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are large language models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980)
+#### [What are large language models?](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=0)** - [Instructor] Recently, GPT-4 and ChatGPT have become popular buzzwords.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=0)** - [Instructor] Recently, [[GPT-4]] and [[ChatGPT]] have become popular buzzwords.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=5)** They're both large language models and are basically a type of AI that can understand and produce human-like text.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=5)** They're both [[Large Language Models (LLM)|large language models]] and are basically a type of AI that can understand and produce human-like text.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=12)** They can be used to do things like answer questions or generate content, summarize text, explain things, and generate dialogue.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=20)** And we see large language models used in everyday tools like chatbots and virtual assistants and language translators.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=27)** But things kicked off in natural language processing long before we had GPT and ChatGPT.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=27)** But things kicked off in [[Natural Language Processing (NLP)|natural language processing]] long before we had GPT and ChatGPT.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=32)** In 2017, a type of AI model architecture called Transformers was proposed by a team of researchers at Google in a paper called "Attention is All You Need."
+> **[0:32](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=32)** In 2017, a type of AI model architecture called Transformers was proposed by a team of researchers at [[Google]] in a paper called "Attention is All You Need."
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980&t=42)** All large language models use components of transformers as part of their architecture.
 >
@@ -177,13 +175,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), ai (5), [[GPT-4]] (3), prompt (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[GPT-4]] (3), [[ChatGPT]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1)
 > **Env Vars:** gpt (4), gbt (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How are large language models trained? Pre-training
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980)
+#### [How are large language models trained? Pre-training](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,13 +202,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=35)** Let me give you an example.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=37)** LLaMA was a group of language models that were released in 2023 by Meta.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=37)** [[LLaMA]] was a group of language models that were released in 2023 by Meta.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=41)** And this is a data mixture of Meta used for pre-training.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=45)** So Common Crawl and C4 are web scripts of the internet that have been cleaned and filtered.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=50)** GitHub data is programming code like Python or JavaScript.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=50)** [[GitHub]] data is programming code like [[Python (Programming Language)|Python]] or [[JavaScript]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=53)** This is code that has been released under certain licenses like the Apache license giving you the permission to reuse the code for nearly any purpose.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=97)** Now, you'll also need a lot of compute.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=98)** This is processing capability in these massive server rooms where you have several hundreds to thousands of hardware accelerators and servers that you'll use for a couple of weeks or months that works through the training data.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=98)** This is processing capability in these massive server rooms where you have several hundreds to thousands of [[Hardware]] accelerators and servers that you'll use for a couple of weeks or months that works through the training data.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=111)** So these hardware accelerators are usually Nvidia's GPUs or graphical processing units.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=209)** So this is a shopping list of only fruit, and I'm going to list apples, oranges, and grapes.
 >
-> **[3:33](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=213)** This is a shopping list of only vegetables, and I'm going to leave the large language model to complete the rest, and I'm hoping that it's going to give me a list of vegetables.
+> **[3:33](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=213)** This is a shopping list of only vegetables, and I'm going to leave the large language model to complete the [[Representational State Transfer (REST)|rest]], and I'm hoping that it's going to give me a list of vegetables.
 >
 > **[3:41](https://www.linkedin.com/learning/introduction-to-large-language-models/how-are-large-language-models-trained-pre-training?u=76281980&t=221)** So let's see what output we get.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), prompt (3), [[Hardware]] (3), [[LLaMA]] (1), web (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[LLaMA]] (1), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (2), python (1), apache (1), find (1)
 > **Env Vars:** gpt3 (2)
@@ -306,8 +303,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making large language models follow instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980)
+#### [Making large language models follow instructions](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=15)** In 2022, the Open AI team released a paper called "Training Language Models to Follow Instructions with Human Feedback," which is still the industry standard.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=24)** There are two components to this training, supervised fine-tuning, and RLHF, or reinforcement learning from human feedback.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=24)** There are two components to this training, supervised fine-tuning, and RLHF, or [[Reinforcement Learning]] from human feedback.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=32)** Let's head over to the paper and take a look at the supervised training in the diagram on the left.
 >
@@ -383,15 +379,15 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=235)** We've got bread, milk, eggs, cheese, ground beef, cereal, and so on.
 >
-> **[4:00](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=240)** Alright, so we've looked at what supervised fine tuning and RLHF does.
+> **[4:00](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=240)** Alright, so we've looked at what supervised [[Fine Tuning]] and RLHF does.
 >
-> **[4:04](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=244)** This combination of fine-tuning and reinforcement learning from human feedback has produced large language models that are much better at following instructions.
+> **[4:04](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=244)** This combination of fine-tuning and reinforcement learning from human feedback has produced [[Large Language Models (LLM)|large language models]] that are much better at following instructions.
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-large-language-models/making-large-language-models-follow-instructions?u=76281980&t=253)** Go ahead and head over to the OpenAI Playground and try and give a model a couple of tasks and see how it does.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), prompt (4), ai (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), [[Fine Tuning]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** rlhf (4), ppo (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -403,12 +399,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transformer architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980)
+#### [Transformer architecture](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=0)** - [Narrator] Large language models are made up of a couple of components.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=0)** - [Narrator] [[Large Language Models (LLM)|Large language models]] are made up of a couple of components.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=3)** We'll take a brief look at each of these in turn, starting off with the transformer architecture.
 >
@@ -448,7 +443,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=122)** Decoder-only models are good for generative tasks, such as text generation, like I've shown you in the OpenAI playground.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=128)** So examples include ChatGPT and GPT-3 and GPT-4.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=128)** So examples include [[ChatGPT]] and GPT-3 and [[GPT-4]].
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980&t=133)** Most of the research has been around decoder models as these can generate text, so this makes them more useful as chatbots or virtual assistants.
 >
@@ -456,23 +451,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), data (1), [[ChatGPT]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** gpt (2), bert (1)
 > **Definitions:** known as (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### What are parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980)
+#### [What are parameters](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=0)** - [Instructor] When talking about large language models, we almost always reference the size of the model or the parameter count.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=0)** - [Instructor] When talking about [[Large Language Models (LLM)|large language models]], we almost always reference the size of the model or the parameter count.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=6)** GPT-3 is 175 billion parameter model.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=10)** Meta's largest Llama 2 model has 70 billion parameters.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=10)** Meta's largest [[LLaMA]] 2 model has 70 billion parameters.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=13)** But what do we mean by parameters?
 >
@@ -536,13 +530,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=164)** We've also looked at how to calculate the parameter count for a fully connected network.
 >
-> **[2:49](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=169)** Go ahead and Google neural network and you should see a whole lot of images that look similar to this one.
+> **[2:49](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=169)** Go ahead and [[Google]] neural network and you should see a whole lot of images that look similar to this one.
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=174)** Now try and calculate the parameter count for some of these neural networks.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-parameters?u=76281980&t=174)** Now try and calculate the parameter count for some of these [[Neural Networks]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Large Language Models (LLM)|Large language models]] (2), next (2), [[LLaMA]] (1), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[LLaMA]] (1), [[Google]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (5), known as (2), means that (2)
 > **CLI Commands:** node (5)
 > **Env Vars:** gpt (1)
@@ -550,14 +544,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are tokens?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980)
+#### [What are tokens?](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=0)** - [Instructor] Large language models generate text word by word, right?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=0)** - [Instructor] [[Large Language Models (LLM)|Large language models]] generate text [[Microsoft Word|word]] by word, right?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=3)** Not quite. They generate tokens.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=3)** Not quite. They generate [[Tokens]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=6)** So what are tokens?
 >
@@ -585,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=52)** Now, this corresponds to 14 tokens or 77 characters and you can see that the full stop right at the end has its own individual token.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=61)** All right, so now that we know that tokens are made up of sub words, let's take a look at context windows.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-tokens?u=76281980&t=61)** All right, so now that we know that tokens are made up of sub words, let's take a look at context [[Windows]].
 
 > [!info]- Semantic Content
 >
@@ -594,16 +587,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are context lengths?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980)
+#### [What are context lengths?](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=0)** - [Instructor] When having a conversation with a large language model, how can you figure out how much of the conversation it remembers?
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=7)** That's what context windows are all about.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=7)** That's what context [[Windows]] are all about.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=11)** Now, if you remember, a prompt is the text you input into the model and it's made up of a couple of tokens.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=11)** Now, if you remember, a prompt is the text you input into the model and it's made up of a couple of [[Tokens]].
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=16)** The completion is the text outputted from the model, which also makes up a couple of tokens.
 >
@@ -613,11 +605,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=34)** For a language model to produce a more meaningful and relevant response, it needs to be able to take an entire conversation into consideration.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=41)** Now, different large language models will have different context lengths.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=41)** Now, different [[Large Language Models (LLM)|large language models]] will have different context lengths.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=44)** Chat GPT currently has a context length of around 4,000 tokens.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=48)** GPT-4 has 8,000 tokens.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=48)** [[GPT-4]] has 8,000 tokens.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=51)** GPT-4-32k has 32,000 tokens.
 >
@@ -629,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=77)** Now, what can you do with a context length of 100,000 tokens?
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=81)** Let's take a children's novel like the 50,000 word "Black Beauty" by Anna Sewell.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=81)** Let's take a children's novel like the 50,000 [[Microsoft Word|word]] "Black Beauty" by Anna Sewell.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=86)** Now, with 50,000 words, this will fit into Anthropic's 100,000 token context window.
 >
@@ -673,11 +665,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=197)** All right, so we've looked at context links of large language models and how they vary from around 4,000 tokens for some models to 100,000 tokens.
 >
-> **[3:26](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=206)** Go ahead and try and upload a large book or a knowledge base, anything that has less than 75,000 words, into Anthropic's Claude 2 model and query it and post your findings on LinkedIn and tag me.
+> **[3:26](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-context-lengths?u=76281980&t=206)** Go ahead and try and upload a large book or a knowledge base, anything that has less than 75,000 words, into Anthropic's Claude 2 model and query it and post your findings on [[LinkedIn]] and tag me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (11), prompt (2), [[Large Language Models (LLM)|Large language models]] (2), [[GPT-4]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (11), [[Large Language Models (LLM)|Large language models]] (2), [[GPT-4]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cat (2), make (1)
 > **Env Vars:** gpt (3)
 > **Speakers:** - [instructor] (1)
@@ -687,14 +679,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### BERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980)
+#### [BERT](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=0)** - [Narrator] If you're like me, the only time you watch dressage is every four years during the Summer Olympics.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=6)** Now, whenever I've used Google search in the past, I've often only entered keywords such as dressage goal.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=6)** Now, whenever I've used [[Google]] search in the past, I've often only entered keywords such as dressage goal.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=11)** It turns out that Google search uses BERT.
 >
@@ -720,9 +711,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=85)** BERT is around 110 million parameters, and was trained on the English Wikipedia and BookCorpus, which are 11,000 books written by yet unpublished authors.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=94)** And unlike text generation models like ChatGPT and GPT-4, where they're trained to generate the next token, BERT is trained on two other tasks, masked language modeling, or MLM, and next sentence prediction, or NSP.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=94)** And unlike text generation models like [[ChatGPT]] and [[GPT-4]], where they're trained to generate the next token, BERT is trained on two other tasks, masked language modeling, or MLM, and next sentence prediction, or NSP.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=107)** The masked language modeling task requires BERT to predict a masked-out word.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=107)** The masked language modeling task requires BERT to predict a masked-out [[Microsoft Word|word]].
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=113)** Let's take a look at an example.
 >
@@ -746,11 +737,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=171)** All right, so we've seen that BERT doesn't generate text, but it's great at language understanding.
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=175)** Recall that transformer models have encoders and decoders.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=175)** Recall that [[Transformer Models]] have encoders and decoders.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=179)** BERT is the only encoder model we look at.
 >
-> **[3:02](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=182)** The rest of the models will be decoder only models.
+> **[3:02](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=182)** The [[Representational State Transfer (REST)|rest]] of the models will be decoder only models.
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980&t=185)** Right after BERT, research from OpenAI suggested that bigger models are better.
 >
@@ -758,15 +749,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Search]] (6), next (4), [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Env Vars:** bert (15), mlm (2), gpt (1), nsp (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Scaling laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980)
+#### [Scaling laws](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980&t=74)** The graph in the middle plots the test loss versus the dataset size.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980&t=79)** The dataset size is referring to the number of training tokens.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980&t=79)** The dataset size is referring to the number of training [[Tokens]].
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-large-language-models/scaling-laws?u=76281980&t=83)** This is the data the model was trained on.
 >
@@ -842,23 +832,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### GPT-3
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980)
+#### [GPT-3](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=0)** - [Instructor] GPT-3 is probably one of the most well-known large language models.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=0)** - [Instructor] GPT-3 is probably one of the most well-known [[Large Language Models (LLM)|large language models]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=5)** Let's take a look at what the letters GPT represent in turn.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=9)** So G is for generative, as we are predicting a future token, given past tokens.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=9)** So G is for generative, as we are predicting a future token, given past [[Tokens]].
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=15)** P is for pre-trained, as it's trained on a large corpus of data, including English Wikipedia, amongst several others.
 >
@@ -874,7 +863,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=39)** So if I gave it the phrase, "Once upon a," the most likely next token is time, "Once upon a time."
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=45)** Remember that a token is a sub-word.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=45)** Remember that a token is a sub-[[Microsoft Word|word]].
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-large-language-models/gpt-3?u=76281980&t=48)** So these are known as causal or autoregressive language models.
 >
@@ -1016,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), data (2), next (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (10), bert (3)
 > **Definitions:** known as (4), is a  (2), is an  (1)
 > **CLI Commands:** make (3)
@@ -1025,8 +1014,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chinchilla
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980)
+#### [Chinchilla](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,15 +1024,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=7)** I'll mention them briefly now because we'll be comparing them later.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=11)** So Megatron-Turing was released by a collaboration between Microsoft and Nvidia in Jan of 2022 that had 530 billion parameters.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=11)** So Megatron-Turing was released by a collaboration between [[Microsoft]] and Nvidia in Jan of 2022 that had 530 billion parameters.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=22)** The Google DeepMind team released details about Gopher, which had 280 billion parameters, and it was one of the best models out there at the time.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=22)** The [[Google]] DeepMind team released details about Gopher, which had 280 billion parameters, and it was one of the best models out there at the time.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=31)** You can see that the model sizes were getting very large, and this was because of the scaling laws.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=36)** But what if the scaling laws didn't capture the entire picture?
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=41)** The DeepMind team's hypothesis was that large language models were significantly undertrained.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=41)** The DeepMind team's hypothesis was that [[Large Language Models (LLM)|large language models]] were significantly undertrained.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=47)** You could get much better performance with the same computational budget by training a smaller model for longer.
 >
@@ -1052,13 +1040,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=62)** They trained several hundred language models.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=64)** They varied the sizes of these models from 70 million to over 16 billion parameters, and then they trained them with different amounts of data from five to 500 billion tokens.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=64)** They varied the sizes of these models from 70 million to over 16 billion parameters, and then they trained them with different amounts of data from five to 500 billion [[Tokens]].
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=76)** Based on their hypothesis, they then created and trained Chinchilla, a 70 billion parameter model on 1.4 trillion training tokens.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=85)** Now, one of the key benefits of Chinchilla was that it was a smaller model.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=89)** This meant less compute was required for fine tuning and inference.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=89)** This meant less compute was required for [[Fine Tuning]] and inference.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-large-language-models/chinchilla?u=76281980&t=93)** Now, remarkably, the 70 billion parameter Chinchilla outperforms Gopher, which has 280 billion parameters, GPT-3 with its 175 billion parameters, and Megatron-Turing with its 530 billion parameters, on a large range of language tasks.
 >
@@ -1166,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), data (12), [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (3), [[Microsoft]] (1), [[Fine Tuning]] (1)
 > **Versions:** 1.4 (2), 1.5 (1), 17.2 (1), 5.9 (1), 4.68 (1)
 > **Env Vars:** gpt (3)
 > **Best Practices:** recommended (3)
@@ -1175,22 +1163,21 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### PaLM and PaLM 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980)
+#### [PaLM and PaLM 2](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=0)** - [Instructor] We're finally at one of the largest language models to date.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=3)** Google released PaLM, or to give it its full name, the Pathways Language Model, in April 2022.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=3)** [[Google]] released PaLM, or to give it its full name, the Pathways Language Model, in April 2022.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=11)** There are a couple of key takeaways from the PaLM model.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=14)** PaLM is the largest model with 540 billion parameters.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=19)** Google uses the Pathway systems, which meant more hardware accelerators could be used for model training, and they could be trained more efficiently.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=19)** Google uses the Pathway systems, which meant more [[Hardware]] accelerators could be used for model training, and they could be trained more efficiently.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=28)** PaLM was trained on an enormous 780 billion tokens multilingual corpus with text from over 100 languages.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=28)** PaLM was trained on an enormous 780 billion [[Tokens]] multilingual corpus with text from over 100 languages.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=37)** Now, just over 3/4 of this training data was in English.
 >
@@ -1224,11 +1211,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=167)** PaLM 2 was also trained on a large quantity of publicly available programming code.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=171)** This means it's not only excellent at generating code or correcting code in popular modern languages like Python and JavaScript, but it can also generate code in languages like Prologue and Fortran and Verilog.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=171)** This means it's not only excellent at generating code or correcting code in popular modern languages like [[Python (Programming Language)|Python]] and [[JavaScript]], but it can also generate code in languages like Prologue and Fortran and Verilog.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=183)** And what's remarkable is that PaLM 2's smallest model will be able to run on mobile devices.
 >
-> **[3:10](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=190)** PaLM 2 will be used to power features in the other Google products like Gmail and Google Docs, and also expand Bard, which is another large language model released by Google.
+> **[3:10](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=190)** PaLM 2 will be used to power features in the other Google [[Microsoft Products|products]] like Gmail and Google Docs, and also expand Bard, which is another large language model released by Google.
 >
 > **[3:20](https://www.linkedin.com/learning/introduction-to-large-language-models/palm-and-palm-2?u=76281980&t=200)** One of the other benefits of PaLM 2 is that it's been used to train Med-PaLM 2 that has been trained by Google's Health Research teams.
 >
@@ -1244,26 +1231,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), data (4), [[Tokens]] (3), [[Microsoft Products|Products]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[Tokens]] (3), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** python (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### ChatGPT and GPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980)
+#### [ChatGPT and GPT-4](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=0)** - [Narrator] ChatGPT launched on the 30th of November 2022 and had 100 million monthly active users two months later.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=0)** - [Narrator] [[ChatGPT]] launched on the 30th of November 2022 and had 100 million monthly active users two months later.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=10)** But what's the difference between GPT-3, ChatGPT, and GPT-4?
+> **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=10)** But what's the difference between GPT-3, ChatGPT, and [[GPT-4]]?
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=16)** GPT-3 could generate text, and we saw earlier that it does a great job of it.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=21)** The only problem is it doesn't follow instructions.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=24)** GPT-3.5 was an upgrade on GPT 3 by allowing language models to better follow instructions using supervised fine-tuning and RLHF or reinforcement learning with human feedback.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=24)** GPT-3.5 was an upgrade on GPT 3 by allowing language models to better follow instructions using supervised fine-tuning and RLHF or [[Reinforcement Learning]] with human feedback.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=38)** You might remember these terms from the first couple of videos of this course.
 >
@@ -1277,7 +1263,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=65)** It's a bigger model than Chat-GPT and can do more complex reasoning and is the best model for complex tasks like cause and effect or logical reasoning at the time of this recording.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=75)** It also achieved human-level performance on many high school advanced placement exams ranging from statistics, and biology to art history, and psychology.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=75)** It also achieved human-level performance on many high school advanced placement exams ranging from [[Statistics]], and biology to art history, and psychology.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=85)** Earlier we said a language model is something that takes in text input or a prompt and outputs text data.
 >
@@ -1287,17 +1273,17 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=103)** And at the time of this recording, you can only submit text data as input to GPT-4.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=109)** Those of us who use large language models are always curious about the data and the model architecture used to train the model.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=109)** Those of us who use [[Large Language Models (LLM)|large language models]] are always curious about the data and the model architecture used to train the model.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=116)** But this time round, OpenAI has decided that they won't share the results.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=121)** In their GPT-4 paper, they say, given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture, including model size, hardware, training compute, data set construction, training method, or similar.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=121)** In their GPT-4 paper, they say, given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture, including model size, [[Hardware]], training compute, data set construction, training method, or similar.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=140)** Now, although GPT-4 performs very well, it has some limitations.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=145)** There are at least three areas that need some work.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=148)** Firstly, you can't fine-tune the GPT-4 models, and GPT-4 doesn't update its knowledge in real-time.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=148)** Firstly, you can't fine-tune the GPT-4 models, and GPT-4 doesn't update its knowledge in [[Real-Time]].
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=156)** It was trained with data up to September of 2021, so it has no knowledge of anything that has happened since.
 >
@@ -1331,7 +1317,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=245)** So, what are large language models?
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=248)** GPT-4, limitations of GPT-4, and HELM.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=248)** GPT-4, limitations of GPT-4, and [[Helm]].
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-large-language-models/chatgpt-and-gpt-4?u=76281980&t=252)** Now, although the output that's been generated is very impressive, there are a couple of problems here.
 >
@@ -1361,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (24), data (7), [[Helm]] (5), [[ChatGPT]] (4), [[Large Language Models (LLM)|Large language models]] (4)
+> **Frameworks & Libraries:** [[GPT-4]] (24), [[Helm]] (5), [[ChatGPT]] (4), [[Large Language Models (LLM)|Large language models]] (4), [[Real-Time]] (2)
 > **Env Vars:** gpt (33), helm (5), rlhf (1), nlp (1)
 > **Versions:** 3.5 (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1370,12 +1356,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Open LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980)
+#### [Open LLMs](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=0)** - [Narrator] We've looked at models that have all come from big tech firms like Google and OpenAI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=0)** - [Narrator] We've looked at models that have all come from big tech firms like [[Google]] and OpenAI.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=6)** But what about open community models?
 >
@@ -1397,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=66)** This model was primarily trained on English text.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=70)** A couple of months later, Hugging Face, which is a company that provides a machine learning platform to store models, think of it like GitHub for models, well, their research team received a grant for computing resources from the French Government allowing them to train the BLOOM model.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=70)** A couple of months later, [[Hugging Face]], which is a company that provides a machine learning platform to store models, think of it like [[GitHub]] for models, well, their research team received a grant for computing resources from the French Government allowing them to train the BLOOM model.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=86)** Working together with a volunteer team of over 1,000 researchers from different countries and institutions, they created a 176 billion parameter model called BLOOM.
 >
@@ -1405,7 +1390,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=107)** This allows other organizations outside of big tech to experiment with these models.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=112)** Now, even if you want to run these models, you still need access to expensive hardware accelerators.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=112)** Now, even if you want to run these models, you still need access to expensive [[Hardware]] accelerators.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=118)** Now, despite all this collaboration, the performance of these models was still lagging behind the likes of the OpenAI models.
 >
@@ -1413,7 +1398,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=136)** The majority of the engineers working for big tech companies like Google and OpenAI and Meta have had a couple of years headstart on others.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=144)** In February of 2023, Meta released the LLaMA models which are 7, 13, 30, and 65 billion with a license only allowing them to be used for research and non-commercial purposes.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=144)** In February of 2023, Meta released the [[LLaMA]] models which are 7, 13, 30, and 65 billion with a license only allowing them to be used for research and non-commercial purposes.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=157)** Given the excellent performance of these models on various open benchmarks, they quickly became the most popular open language models thus far.
 >
@@ -1439,11 +1424,11 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=240)** Let me just scroll down so that you can get a better look at some of the models.
 >
-> **[4:03](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=243)** So this compares open large language models.
+> **[4:03](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=243)** So this compares open [[Large Language Models (LLM)|large language models]].
 >
 > **[4:06](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=246)** In July of 2023, Meta released LLaMA 2.
 >
-> **[4:10](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=250)** So this had a context length of 4,000 tokens and was trained on a whopping two trillion tokens.
+> **[4:10](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=250)** So this had a context length of 4,000 [[Tokens]] and was trained on a whopping two trillion tokens.
 >
 > **[4:16](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=256)** Now what was remarkable was that less than a week after Meta released this model, teams in the open community produced better performing models.
 >
@@ -1465,9 +1450,9 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=304)** And one of the challenges with AI models is safety and how they're used.
 >
-> **[5:07](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=307)** By making the models openly available, Meta can learn how the models are being used and this allows them to make their own products which would use some of these models more safe.
+> **[5:07](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=307)** By making the models openly available, Meta can learn how the models are being used and this allows them to make their own [[Microsoft Products|products]] which would use some of these models more safe.
 >
-> **[5:17](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=317)** Open models have got smaller and better over the years closing the gap with closed models such as ChatGPT.
+> **[5:17](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=317)** Open models have got smaller and better over the years closing the gap with closed models such as [[ChatGPT]].
 >
 > **[5:24](https://www.linkedin.com/learning/introduction-to-large-language-models/open-llms?u=76281980&t=324)** So let's go ahead and add LLaMA 2 to our table comparing large language models.
 >
@@ -1475,7 +1460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LLaMA]] (11), data (5), [[Google]] (3), [[Hardware]] (3), [[Tokens]] (3)
+> **Frameworks & Libraries:** [[LLaMA]] (11), [[Google]] (3), [[Hardware]] (3), [[Tokens]] (3), [[Hugging Face]] (2)
 > **Env Vars:** gpt (2), bloom (2), api (1), opt (1), gpu (1)
 > **Analogies:** for example (3), similar to (1), think of it like (1), such as (1)
 > **Definitions:** is a  (4)
@@ -1484,12 +1469,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Comparing LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980)
+#### [Comparing LLMs](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=0)** - [Instructor] How do we even compare large language models?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=0)** - [Instructor] How do we even compare [[Large Language Models (LLM)|large language models]]?
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=3)** That's a great question.
 >
@@ -1497,13 +1481,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=11)** Usually, we only focus on how good a model is at a task, but we don't know if that same model generates false information.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=18)** So instead of just looking at one metric, a Stanford University research team proposed HELM, or the Holistic Evaluation of Language Models.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=18)** So instead of just looking at one metric, a Stanford University research team proposed [[Helm]], or the Holistic Evaluation of Language Models.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=28)** With HELM, the Stanford research team worked together with the main large language model providers, and they were able to benchmark the models across a variety of data sets and get a more holistic view of model performance.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=41)** The HELM benchmark is a living benchmark and should change as new models are released.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=46)** I'll just cover the first couple of benchmarks and you can explore the rest further if you're interested.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=46)** I'll just cover the first couple of benchmarks and you can explore the [[Representational State Transfer (REST)|rest]] further if you're interested.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=50)** So let me just go ahead and scroll down a little bit.
 >
@@ -1517,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=81)** Now, if you look at accuracy, the text DaVinci 2 and 3 models, which are OpenAI GPT-3.5 models have some of the best overall results across all of the data sets.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=93)** GPT-4, which is released in March of 2023, doesn't feature in the helm dataset yet.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=93)** [[GPT-4]], which is released in March of 2023, doesn't feature in the helm dataset yet.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=100)** The robustness of models here is the worst case performance of the model.
 >
@@ -1543,7 +1527,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=153)** Let's now compare open language models.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=156)** Hugging face offers an open large language model leaderboard that we've seen earlier that allows you to compare open source large language models.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=156)** [[Hugging Face]] offers an open large language model leaderboard that we've seen earlier that allows you to compare open source large language models.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=164)** Like HELM, the models are evaluated on a couple of different benchmarks.
 >
@@ -1557,13 +1541,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=192)** And finally, TruthfulQA, which is a test to measure how likely a model is to reproduce falsehoods commonly found online.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=201)** And as you can see, llama-2 and its derivatives are currently at the top of the leaderboard.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=201)** And as you can see, [[LLaMA]]-2 and its derivatives are currently at the top of the leaderboard.
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-large-language-models/comparing-large-language-models-25144104?u=76281980&t=207)** Alright, so we've seen that comparing large language models is tricky, but one way to compare them is to use a benchmark like HELM.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (8), [[Large Language Models (LLM)|Large language models]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), cnn (1)
+> **Frameworks & Libraries:** [[Helm]] (8), [[Large Language Models (LLM)|Large language models]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[GPT-4]] (1), [[Hugging Face]] (1)
 > **Env Vars:** helm (7), mmlu (2), gpt (2), cnn (1), arc (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
@@ -1572,18 +1556,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub Models: Comparing LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980)
+#### [GitHub Models: Comparing LLMs](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=1)** - [Instructor] Imagine asking two teachers to explain the same mathematics problem to a class.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=5)** Now, each of them might have a different approach to solving the problem, and it's like that with large language models.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=5)** Now, each of them might have a different approach to solving the problem, and it's like that with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=10)** You can provide the same text or prompt and get a different response from the large language model.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=15)** GitHub Models lets us easily compare two large language models.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=15)** [[GitHub]] Models lets us easily compare two large language models.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=19)** You need a GitHub account, and you can sign up for one by going to [github.com](https://github.com).
 >
@@ -1615,7 +1598,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=110)** Now I've intentionally included the reference to May the 4th to see if I can trick some of the language models to see if there's a "Star Wars" reference.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=117)** The explanation of this joke or this word play is that this person doesn't want to attend their dad's poetry reading.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=117)** The explanation of this joke or this [[Microsoft Word|word]] play is that this person doesn't want to attend their dad's poetry reading.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=124)** So let's go ahead and see how the different models explain this.
 >
@@ -1633,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), business (2), prompt (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5)
 > **Analogies:** compare this to (2), imagine (1), it's like (1)
 > **Env Vars:** gpt (3)
@@ -1642,16 +1625,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing large language models using an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980)
+#### [Accessing large language models using an API](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=0)** - [Instructor] Now, in the previous video, we looked at comparing large language models using GitHub models.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=0)** - [Instructor] Now, in the previous video, we looked at comparing [[Large Language Models (LLM)|large language models]] using [[GitHub]] models.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=5)** Now in this one we looked to see how we can access the large language models via an API using a programming language like Python.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=5)** Now in this one we looked to see how we can access the large language models via an API using a programming language like [[Python (Programming Language)|Python]].
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=14)** Now I prefer GitHub Codespaces for prototyping any apps.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=14)** Now I prefer GitHub [[Codespaces]] for [[Prototyping]] any apps.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=18)** It's a cloud-based coding environment and you can access it from any device.
 >
@@ -1755,7 +1737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Prototyping]] (1)
 > **CLI Commands:** python (10), pip (2), make (1)
 > **Tools:** github (13)
 > **Env Vars:** gpt (4), api (2)
@@ -1764,14 +1746,13 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (3)
 > **File Paths:** joke.py (2)
 
-#### LLM trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980)
+#### [LLM trends](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=0)** - [Instructor] Over this course, we've looked at scaling laws and lessons from the Chinchilla models.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=4)** Let's bring this all together as we look at the current trends for large language models.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=4)** Let's bring this all together as we look at the current trends for [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=10)** When training of large language models first kicked off, most of the focus was on improving the models, and then the scaling laws were the guiding principle.
 >
@@ -1797,11 +1778,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=82)** So these are small models that are trained from scratch on large data sets.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=87)** Now, because these are smaller models, this means they require less memory to run, and so we can potentially run them using fewer hardware accelerators.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=87)** Now, because these are smaller models, this means they require less memory to run, and so we can potentially run them using fewer [[Hardware]] accelerators.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=95)** Smaller models can also run on local devices.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=98)** Now the big advantage here is privacy, as all the interactions with the language model takes place on your device.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=98)** Now the big advantage here is [[Privacy]], as all the interactions with the language model takes place on your device.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=105)** The other important consideration is how can we improve the quality of these models?
 >
@@ -1815,7 +1796,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=137)** An example of this test time compute is the o1 model from OpenAI.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=142)** The model uses these reasoning tokens to break down their understanding of the prompt and consider multiple approaches to generating a response.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=142)** The model uses these reasoning [[Tokens]] to break down their understanding of the prompt and consider multiple approaches to generating a response.
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-large-language-models/github-models-comparing-llms?u=76281980&t=150)** Now what you see here is an example of this multi-step conversation between a user and the model.
 >
@@ -1845,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), data (4), [[Large Language Models (LLM)|Large language models]] (3), ai (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Hardware]] (1), [[Privacy]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Env Vars:** gpqa (1)
 > **Cross-References:** earlier in (1)
@@ -1856,14 +1837,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going further with large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980)
+#### [Going further with large language models](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980&t=0)** - [Instructor] If you haven't had enough about large language models and you want to understand what's happening under the hood, then check out my other course, which is available on LinkedIn Learning, titled Transformers: Text Classification for NLP using BERT.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980&t=0)** - [Instructor] If you haven't had enough about [[Large Language Models (LLM)|large language models]] and you want to understand what's happening under the hood, then check out my other course, which is available on [[LinkedIn]] Learning, titled Transformers: Text Classification for NLP using BERT.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980&t=14)** If you want to get the latest information on generative AI, you're welcome to connect with me on LinkedIn.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980&t=14)** If you want to get the latest information on [[Generative AI]], you're welcome to connect with me on LinkedIn.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980&t=19)** The race for widespread AI adoption is on.
 >
@@ -1873,7 +1853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Large Language Models (LLM)|Large language models]] (1), nlp (1), [[Generative AI]] (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1)
 > **Env Vars:** nlp (1), bert (1)
 > **Speakers:** - [instructor] (1)
 

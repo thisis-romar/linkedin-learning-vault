@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data rights
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/overview-of-data-rights?u=76281980)
+#### [Overview of data rights](https://www.linkedin.com/learning/data-rights-foundations/overview-of-data-rights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,11 +109,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980&t=2)** Which means although it's not technical, it will discuss some technical concepts.
 >
-> **[0:07](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980&t=7)** There will be an overview on machine learning methods, so it will be useful to have some background in data science or machine learning.
+> **[0:07](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980&t=7)** There will be an overview on machine learning methods, so it will be useful to have some background in [[Data Science]] or machine learning.
 >
 > **[0:14](https://www.linkedin.com/learning/data-rights-foundations/what-you-should-know?u=76281980&t=14)** In terms of the understanding technical elements around data formats and data rights, it'd be useful to have experience with online data and government policies around data rights and data use.
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -139,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are data rights?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980)
+#### [What are data rights?](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,9 +148,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=10)** In essence, this all comes down to the ability for first, second, and third hand parties to use and control your own personal data.
 >
-> **[0:17](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=17)** For the scope of this course, this concerns organizations, with a focus on organizations providing online services and products, and how they access and harness data.
+> **[0:17](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=17)** For the scope of this course, this concerns organizations, with a focus on organizations providing online services and [[Microsoft Products|products]], and how they access and harness data.
 >
-> **[0:27](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=27)** The outline for these rules is usually stored in privacy policies on individual websites, and overarching privacy laws, based on the jurisdiction of where the products and services are being offered.
+> **[0:27](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=27)** The outline for these rules is usually stored in [[Privacy]] policies on individual websites, and overarching privacy laws, based on the jurisdiction of where the products and services are being offered.
 >
 > **[0:39](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=39)** Every time you visit a website there will be a privacy policy.
 >
@@ -186,11 +182,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=140)** But it can take some time to discover exactly how this data is being used.
 >
-> **[2:25](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=145)** In an example above, the top 10 tech companies had their privacy policies reviewed, and it showed that since GDPR came into place the average word count has increased 25%, and the largest update was done by Wikipedia, almost doubling the amount of words in their privacy policy.
+> **[2:25](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=145)** In an example above, the top 10 tech companies had their privacy policies reviewed, and it showed that since GDPR came into place the average [[Microsoft Word|word]] count has increased 25%, and the largest update was done by Wikipedia, almost doubling the amount of words in their privacy policy.
 >
 > **[2:44](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=164)** These alterations can make it difficult to understand exactly what the data rights are for everyday people.
 >
-> **[2:50](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=170)** The complexity of the policies has also lead to some individuals to parse and review the data with specifically trained neural networks in order to rank and compare how effective these policies are.
+> **[2:50](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=170)** The complexity of the policies has also lead to some individuals to parse and review the data with specifically trained [[Neural Networks]] in order to rank and compare how effective these policies are.
 >
 > **[3:02](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980&t=182)** Guard is a new service that reads policies for you and summarizes different elements and then ranks the policies against each other.
 >
@@ -204,21 +200,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Privacy]] (13), [[Microsoft Products|Products]] (2), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How can they be monitored?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980)
+#### [How can they be monitored?](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=0)** - [Instructor] Data rights change over time.
 >
-> **[0:03](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=3)** Have you ever seen one of those, we have updated our privacy policy e-mails?
+> **[0:03](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=3)** Have you ever seen one of those, we have updated our [[Privacy]] policy e-mails?
 >
 > **[0:08](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=8)** There's a number of different online sources that can be used to monitor and understand how your rights have been changed and affected.
 >
@@ -232,9 +227,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=50)** There are a number of different bodies that ask for calls to submit opinions on upcoming legislation.
 >
-> **[0:56](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=56)** Finding these contacts can be quite simple on LinkedIn and Twitter, and they usually have a mailing list to keep individuals updated to upcoming changes.
+> **[0:56](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=56)** Finding these contacts can be quite simple on [[LinkedIn]] and Twitter, and they usually have a mailing list to keep individuals updated to upcoming changes.
 >
-> **[1:06](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=66)** It's also possible to set up different alerts through Google Search Alerts to trigger anytime there's a discussion or change to these policies.
+> **[1:06](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=66)** It's also possible to set up different alerts through [[Google]] Search Alerts to trigger anytime there's a discussion or change to these policies.
 >
 > **[1:14](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-monitored?u=76281980&t=74)** This can be helpful when looking across the globe for different changes.
 >
@@ -242,12 +237,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Privacy]] (1), [[LinkedIn]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[LinkedIn]] (1), [[Google]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can they be questioned?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-questioned?u=76281980)
+#### [How can they be questioned?](https://www.linkedin.com/learning/data-rights-foundations/how-can-they-be-questioned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,13 +293,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Research local policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-local-policy?u=76281980)
+#### [Challenge: Research local policy](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-local-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,31 +311,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Research local policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980)
+#### [Solution: Research local policy](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=0)** - [Instructor] In the previous challenge, I asked if you could find a local document that gave information about privacy rights or data rights in your local area.
+> **[0:00](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=0)** - [Instructor] In the previous challenge, I asked if you could find a local document that gave information about [[Privacy]] rights or data rights in your local area.
 >
-> **[0:15](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=15)** In this solution I'll walk through a document that looks after data rights and data privacy rights in my local area, in Australia.
+> **[0:15](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=15)** In this solution I'll walk through a document that looks after data rights and [[Data Privacy]] rights in my local area, in Australia.
 >
 > **[0:23](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=23)** So the local Australian policy is usually governed around The Privacy Act.
 >
 > **[0:29](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=29)** And that contains information around data use and data leaks.
 >
-> **[0:34](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=34)** From Google, the government website has a lot of information about The Privacy Act including some basic background, but also has a number of the key points of how it controls rights and responsibilities, how it applies to credit reporting, health and medical research, privacy regulations, and different rule sand guidelines.
+> **[0:34](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=34)** From [[Google]], the government website has a lot of information about The Privacy Act including some basic background, but also has a number of the key points of how it controls rights and responsibilities, how it applies to credit reporting, health and medical research, privacy regulations, and different rule sand guidelines.
 >
 > **[1:02](https://www.linkedin.com/learning/data-rights-foundations/solution-research-local-policy?u=76281980&t=62)** This is a great source to understand exactly how organizations can use private data and what type of rights are involved.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Privacy]] (5), [[Google]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -354,8 +344,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global best practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980)
+#### [Global best practice](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,7 +354,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=18)** That being said, through this course we will explore how to understand and query data rights, and how to protect yourself from future concerns.
 >
-> **[0:27](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=27)** One of the most impactful recent pieces of legislation involved GDPR in Europe, and that included a number of privacy and policy changes that influenced how organizations store and use personal data.
+> **[0:27](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=27)** One of the most impactful recent pieces of legislation involved GDPR in Europe, and that included a number of [[Privacy]] and policy changes that influenced how organizations store and use personal data.
 >
 > **[0:40](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=40)** These changes included heavy fines that structurally altered how organizations operate, and it came into effect in May of 2018.
 >
@@ -389,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=135)** There are many countries in Asia with different policies and different data rights usage laws, so it's difficult to give a full explanation, but it's interesting to compare the differences between them.
 >
-> **[2:26](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=146)** Even between neighbors such as the Philippines and Singapore or Japan and Korea, when it comes to data privacy policies they can be vastly different.
+> **[2:26](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=146)** Even between neighbors such as the Philippines and Singapore or Japan and Korea, when it comes to [[Data Privacy]] policies they can be vastly different.
 >
 > **[2:35](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980&t=155)** If they have anything in common, it's that they're all slightly altered, so it's difficult to really understand how they all relate to each other.
 >
@@ -405,17 +394,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Privacy]] (6), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Common examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/common-examples?u=76281980)
+#### [Common examples](https://www.linkedin.com/learning/data-rights-foundations/common-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-rights-foundations/common-examples?u=76281980&t=0)** - [Narrator] I mention GDPR previously and how there are many different changes to privacy legislation across Europe.
+> **[0:00](https://www.linkedin.com/learning/data-rights-foundations/common-examples?u=76281980&t=0)** - [Narrator] I mention GDPR previously and how there are many different changes to [[Privacy]] legislation across Europe.
 >
 > **[0:07](https://www.linkedin.com/learning/data-rights-foundations/common-examples?u=76281980&t=7)** To date, the largest fine at the moment has been for British Airways.
 >
@@ -451,14 +439,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Definitions:** means that (2), basically means (1), is an  (1)
 > **Env Vars:** gdpr (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Common formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980)
+#### [Common formats](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=5)** How can data be used interchangeably across different services, and how can the elements within that data be compared?
 >
-> **[0:12](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=12)** There may be a number of different forms and policies, and they're usually contained in the legal documents, but there's not one set method to transfer data between these organizations.
+> **[0:12](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=12)** There may be a number of different [[Forms]] and policies, and they're usually contained in the legal documents, but there's not one set method to transfer data between these organizations.
 >
 > **[0:23](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=23)** There's not one set format that everyone shares that everyone can use to compare.
 >
@@ -474,7 +461,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=37)** They will rarely talk about the explicit formats.
 >
-> **[0:41](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=41)** More often or not the data will be provided in just a JSON format or a standard text format.
+> **[0:41](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=41)** More often or not the data will be provided in just a [[JSON]] format or a standard text format.
 >
 > **[0:47](https://www.linkedin.com/learning/data-rights-foundations/common-formats?u=76281980&t=47)** But that means that the standardization is not common across different parties.
 >
@@ -486,13 +473,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Forms]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Request process
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980)
+#### [Request process](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +492,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=36)** You usually need to go through each provider separately.
 >
-> **[0:39](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=39)** So going back to the Facebook example, the data is usually requested through their own privacy web interface.
+> **[0:39](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=39)** So going back to the Facebook example, the data is usually requested through their own [[Privacy]] web interface.
 >
 > **[0:48](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=48)** So once you are logged into Facebook, this is the main News Feed page.
 >
@@ -520,14 +506,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (1), web (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Intercontinental policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/challenge-intercontinental-policy?u=76281980)
+#### [Challenge: Intercontinental policy](https://www.linkedin.com/learning/data-rights-foundations/challenge-intercontinental-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,12 +524,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Intercontinental policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980)
+#### [Solution: Intercontinental policy](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980&t=12)** For this solution, one example that I have is GDPR, or the European Union's approach to data use and data rights.
 >
-> **[0:20](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980&t=20)** From Google, it's really easy to find the main GDPR website.
+> **[0:20](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980&t=20)** From [[Google]], it's really easy to find the main GDPR website.
 >
 > **[0:34](https://www.linkedin.com/learning/data-rights-foundations/solution-intercontinental-policy?u=76281980&t=34)** The website contains a bit of background information, but contains the explicit regulation from the menu on the left.
 >
@@ -570,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** gdpr (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -581,8 +564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980)
+#### [Data elements](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,11 +572,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=4)** So there may be personalized fields, such as name and address, as well as personal financial information, such as bank or credit card details.
 >
-> **[0:13](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=13)** In the age of big data, there may be recorded phone conversations, recorded videos, and due to smart devices, biometric, behavioral, and physical data elements may be tracked and used for purposes outside of an individual's control.
+> **[0:13](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=13)** In the age of [[Big Data]], there may be recorded phone conversations, recorded videos, and due to smart devices, biometric, behavioral, and physical data elements may be tracked and used for purposes outside of an individual's control.
 >
 > **[0:29](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=29)** All of these elements may be recorded and stored either on the device or stored in a cloud service.
 >
-> **[0:37](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=37)** In addition to these types of personal data, there may also be metadata, which is extracted non-personal information that can give an indication of different behaviors.
+> **[0:37](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=37)** In addition to these types of personal data, there may also be [[Metadata]], which is extracted non-personal information that can give an indication of different behaviors.
 >
 > **[0:47](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=47)** So what this actually means is sort of a layer above personal data.
 >
@@ -602,7 +584,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=55)** So instead of a specific phone call, it may be information about the time and the duration of a phone call.
 >
-> **[1:02](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=62)** It could be information regarding a combination of purchased products.
+> **[1:02](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=62)** It could be information regarding a combination of purchased [[Microsoft Products|products]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=66)** So not the specific list, but a general category about what was purchased.
 >
@@ -628,7 +610,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=152)** So if private sources are personal, web accounts or mobile phone usage, public sources might be if you've been recorded in a public area.
 >
-> **[2:41](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=161)** So a number of different cities have CCTV cameras and then they may use these cameras to record how many people walk past different areas to provide traffic statistics, or information on how to improve the city or town planning.
+> **[2:41](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=161)** So a number of different cities have CCTV cameras and then they may use these cameras to record how many people walk past different areas to provide traffic [[Statistics]], or information on how to improve the city or town planning.
 >
 > **[2:56](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=176)** Although this data is aggregated and not provided at a personal level, these numbers have been generated by using a combination of a number of individuals.
 >
@@ -636,14 +618,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Metadata]] (2), [[Big Data]] (1), cloud (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cctv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980)
+#### [Data tracking](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980&t=107)** Certain sites do provide tools to walk through why advertisements are being shown and they even provide the data that's been used to generate them.
 >
-> **[1:56](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980&t=116)** Google provides this, if you click through YouTube ads or if you click through their standard website charts, you'll be able to get a little bit of an understanding about exactly why you've been shown those ads.
+> **[1:56](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980&t=116)** [[Google]] provides this, if you click through YouTube ads or if you click through their standard website charts, you'll be able to get a little bit of an understanding about exactly why you've been shown those ads.
 >
 > **[2:07](https://www.linkedin.com/learning/data-rights-foundations/data-tracking?u=76281980&t=127)** In terms of removing data, how can you remove data from these services?
 >
@@ -693,12 +674,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Format details
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/challenge-format-details?u=76281980)
+#### [Challenge: Format details](https://www.linkedin.com/learning/data-rights-foundations/challenge-format-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,13 +690,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Format details
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980)
+#### [Solution: Format details](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +722,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -755,8 +732,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protection from data leaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980)
+#### [Protection from data leaks](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +744,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=26)** So cookies allow websites to track information about yourself across different websites and across different services.
 >
-> **[0:33](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=33)** A good place to start is to look at the browser that you use everyday and see what types of add-ons can be added in terms of ad-blocking, in terms of cookie management and different privacy settings.
+> **[0:33](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=33)** A good place to start is to look at the browser that you use everyday and see what types of add-ons can be added in terms of ad-blocking, in terms of cookie management and different [[Privacy]] settings.
 >
 > **[0:47](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=47)** In addition to the actual software that you use to connect to the net, the type of Wi-Fi connection is also extremely important.
 >
@@ -776,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=58)** It's important to make sure you're connecting through a secure protocol and trusted network.
 >
-> **[1:04](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=64)** In terms of actual password security and management, there are databases on the net that store the top thousand popular passwords that are used by hackers to easily log into accounts and services that choose just common passwords.
+> **[1:04](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=64)** In terms of actual password security and management, there are [[Databases]] on the net that store the top thousand popular passwords that are used by hackers to easily log into accounts and services that choose just common passwords.
 >
 > **[1:19](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=79)** So it's important to pick something that's quite unique to yourself and something that you can easily remember.
 >
@@ -794,13 +770,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), [[Privacy]] (1), [[Security]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980)
+#### [Security practices](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=19)** So these would be around email and different phone services.
 >
-> **[0:23](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=23)** Usually phishing attempts, hacking attempts, they look to isolate these types of services first, so it's important to make sure that they're secure.
+> **[0:23](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=23)** Usually [[Phishing]] attempts, hacking attempts, they look to isolate these types of services first, so it's important to make sure that they're secure.
 >
 > **[0:33](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=33)** In terms of encrypting data, there's a number of modern operating systems that allow their local file systems to be encrypted.
 >
@@ -820,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=57)** It does also mean that if you lose your password or your keys, it may not be possible to actually log in or use any of your services.
 >
-> **[1:06](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=66)** This can be enabled on a number of different operating systems, including Windows and MacOS.
+> **[1:06](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=66)** This can be enabled on a number of different operating systems, including [[Windows]] and MacOS.
 >
 > **[1:13](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=73)** It also goes without saying that backing up data is extremely important, but also the format of how this data's backed up so it can't be easily accessed and old passwords can't be accessed from the backed up data.
 >
@@ -832,37 +807,35 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=112)** It's important to keep track of all the two-factor tools that you use in case separate devices can be compromised with each other.
 >
-> **[2:00](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=120)** So Google has an authentication app which allows you to log in to a number of different services and have them all in one place.
+> **[2:00](https://www.linkedin.com/learning/data-rights-foundations/security-practices?u=76281980&t=120)** So [[Google]] has an authentication app which allows you to log in to a number of different services and have them all in one place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Phishing]] (1), [[Windows]] (1), cloud (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Windows]] (1), [[Google]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Research protection sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980)
+#### [Challenge: Research protection sites](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980&t=0)** - [Instructor] For this challenge, I'd like to ask you to find a local security website, so that's a local website that provides security news, and guides about events that happen in your country or your local area.
 >
-> **[0:19](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980&t=19)** So this can be anything from data breach news, to best data security practices, to any information about the tech world.
+> **[0:19](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980&t=19)** So this can be anything from data breach news, to best [[Data Security]] practices, to any information about the tech world.
 >
 > **[0:28](https://www.linkedin.com/learning/data-rights-foundations/challenge-research-protection-sites?u=76281980&t=28)** Have a look and see what you can find.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Research protection sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/solution-research-protection-sites?u=76281980)
+#### [Solution: Research protection sites](https://www.linkedin.com/learning/data-rights-foundations/solution-research-protection-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,7 +867,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (3)
 > **CLI Commands:** find (3)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
@@ -905,8 +877,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Actions you can take
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/actions-you-can-take?u=76281980)
+#### [Actions you can take](https://www.linkedin.com/learning/data-rights-foundations/actions-you-can-take?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +897,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (1)
 > **Speakers:** - [narrator] (1)
 
 

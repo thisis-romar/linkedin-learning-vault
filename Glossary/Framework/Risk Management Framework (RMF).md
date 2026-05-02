@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/software-development
   - topic/cloud-computing
-course_count: 24
+course_count: 25
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Risk Management Framework (RMF)
 
-> **Type:** Framework | **Courses:** 24 | **Topics:** [[Artificial Intelligence (AI)]], [[Cybersecurity]], [[Data Science]], [[Software Development]], [[Cloud Computing]]
+> **Type:** Framework | **Courses:** 25 | **Topics:** [[Artificial Intelligence (AI)]], [[Cybersecurity]], [[Data Science]], [[Software Development]], [[Cloud Computing]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Responsible AI- Principles and Practical Applications]] — 2 mentions
 10. [[Practical Cybersecurity for IT Professionals]] — 2 mentions
 
-> [!note]- See all 24 courses
+> [!note]- See all 25 courses
 > 11. [[Integrating Generative AI into Business Strategy]] — 2 mentions
 > 12. [[AI Data Governance, Compliance, and Auditing for Developers]] — 2 mentions
 > 13. [[Introduction to MLSecOps]] — 2 mentions
@@ -56,7 +56,8 @@ created: 2026-05-02
 > 21. [[Introduction to Agentic AI Governance]] — 1 mentions
 > 22. [[Security Frameworks Fundamentals]] — 1 mentions
 > 23. [[Strategic Financial Management in Corporations]] — 1 mentions
-> 24. [[Threat Modeling for AI-ML Systems]] — 1 mentions
+> 24. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 25. [[Threat Modeling for AI-ML Systems]] — 1 mentions
 
 ## Learning Paths
 

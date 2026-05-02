@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The five rings of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
+#### [The five rings of responsible AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980&t=12)** I'm Alina Zhang, a senior data scientist.
 >
-> **[0:15](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980&t=15)** In this course, I'll introduce you to the five rings of responsible AI, a comprehensive framework for developing your AI products.
+> **[0:15](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980&t=15)** In this course, I'll introduce you to the five rings of [[Responsible AI]], a comprehensive framework for developing your AI [[Microsoft Products|products]].
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980&t=25)** We'll explore real world AI incidents, discuss well known thought experiments, and learn practical techniques to ensure your AI products remain fair, secure, and transparent.
 >
@@ -91,11 +90,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (2), power (1), data (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Responsible AI]] (1)
 > **Speakers:** - ai (1)
 
-#### Why we need responsible AI: Lessons from the paperclip maximizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980)
+#### [Why we need responsible AI: Lessons from the paperclip maximizer](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=32)** It started looking for more ways to make paperclips.
 >
-> **[0:37](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=37)** It turned office supplies into paperclips, then furniture, then buildings.
+> **[0:37](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=37)** It turned [[Microsoft Office|office]] supplies into paperclips, then furniture, then buildings.
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=43)** Soon it decided humans were in the way of making paperclips.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=72)** Well, when we create AI, we need to maintain control over these systems and ensure they remain beneficial to humanity.
 >
-> **[1:22](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=82)** Geoffrey Hinton, the godfather of AI and the 2024 Nobel Prize in Physics winner, lay the crucial groundwork for modern AI with his pioneering research in deep learning.
+> **[1:22](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=82)** Geoffrey Hinton, the godfather of AI and the 2024 Nobel Prize in Physics winner, lay the crucial groundwork for modern AI with his pioneering research in [[Deep Learning]].
 >
 > **[1:37](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=97)** He said in an interview that, "And if AI models are much smarter than us, "they'll be very good at manipulating us.
 >
@@ -135,13 +133,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=118)** Hinton's concern focuses on the alignment problem, how to ensure that AI is doing what humans want it to do.
 >
-> **[2:08](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=128)** That's what building responsible AI is all about.
+> **[2:08](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=128)** That's what building [[Responsible AI]] is all about.
 >
-> **[2:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=132)** Making systems that not only work, but are aligned with our human values and ethics.
+> **[2:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=132)** Making systems that not only work, but are aligned with our human values and [[Ethics]].
 >
 > **[2:20](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=140)** Keeping the bigger picture in mind.
 >
-> **[2:23](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=143)** In this course, I'll introduce you to the Five Rings of Responsible AI framework, a practical starting point to keep you develop enterprise AI products responsibly.
+> **[2:23](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=143)** In this course, I'll introduce you to the Five Rings of Responsible AI framework, a practical starting point to keep you develop enterprise AI [[Microsoft Products|products]] responsibly.
 >
 > **[2:38](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/why-we-need-responsible-ai-lessons-from-the-paperclip-maximizer?u=76281980&t=158)** This course is designed for anyone creating, using, or impacted by AI products, including developers, business leaders, researchers, and users and policy makers.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1), [[Deep Learning]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -163,8 +161,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Three Laws of Robotics by Isaac Asimov
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
+#### [The Three Laws of Robotics by Isaac Asimov](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,13 +189,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=72)** But today, harm is so much more complicated.
 >
-> **[1:18](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=78)** It could be a buyer's loan denial that shuts someone out of opportunities or a breach of privacy that exposes sensitive information.
+> **[1:18](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=78)** It could be a buyer's loan denial that shuts someone out of opportunities or a breach of [[Privacy]] that exposes sensitive information.
 >
 > **[1:29](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=89)** So here's the question.
 >
 > **[1:31](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=91)** Who gets to decide what counts as harm?
 >
-> **[1:34](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=94)** And how do we teach AI to understand harm in its modern forms?
+> **[1:34](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=94)** And how do we teach AI to understand harm in its modern [[Forms]]?
 >
 > **[1:40](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=100)** Not just what's obvious, but what's invisible too.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=135)** So should AI system just follow orders blindly?
 >
-> **[2:20](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=140)** The real challenge behind Law Number Two is how to design AI that obeys responsibly, but with fairness, with context, and with a sense of accountability.
+> **[2:20](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=140)** The real challenge behind Law Number Two is how to design AI that obeys responsibly, but with fairness, with context, and with a sense of [[Accountability]].
 >
 > **[2:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=153)** Law Number Three: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=176)** But here's where it gets tricky.
 >
-> **[2:59](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=179)** Imagine an AI-powered SaaS product designed to manage cybersecurity for companies.
+> **[2:59](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=179)** Imagine an AI-powered [[SaaS]] product designed to manage [[Cybersecurity]] for companies.
 >
 > **[3:06](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=186)** One day, it detects a potential breach.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=211)** They fall short of addressing the complexities we encounter in today's AI landscape.
 >
-> **[3:38](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=218)** When it comes to responsible AI product development, the challenges we face today include: How do we protect privacy and prevent harm when harm isn't always physical?
+> **[3:38](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=218)** When it comes to [[Responsible AI]] [[Product Development]], the challenges we face today include: How do we protect privacy and prevent harm when harm isn't always physical?
 >
 > **[3:53](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980&t=233)** How do we ensure AI systems obey orders in ways that are ethical and fair, not blind or biased?
 >
@@ -246,12 +243,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Privacy]] (2), data (2), [[Accountability]] (2), [[Responsible AI]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Accountability]] (2), [[Responsible AI]] (2), [[Forms]] (1), [[SaaS]] (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - [presenter] (1)
 
-#### Responsible AI framework: The five rings
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980)
+#### [Responsible AI framework: The five rings](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=11)** This line from the movie "I, Robot" challenging us to think, how do we ensure that AI doesn't just blindly follow commands, but understands the bigger picture serving humanity's values and needs?
 >
-> **[0:27](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=27)** That's the purpose of the Five Rings of Responsible AI.
+> **[0:27](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=27)** That's the purpose of the Five Rings of [[Responsible AI]].
 >
 > **[0:32](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=32)** This holistic framework designed for today's AI challengings with each ring addressing a different dimension of responsible AI.
 >
@@ -281,13 +277,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=100)** Next, in Secure AI, we'll explore adversarial attacks like adding slight noise to append a image, so AI mislabels it as a given.
 >
-> **[1:52](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=112)** We'll also introduce trending techniques that protect AI systems from manipulation, including adversarial training, secure coding, and continuous monitoring.
+> **[1:52](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=112)** We'll also introduce trending techniques that protect AI systems from manipulation, including adversarial training, [[Secure Coding]], and [[Continuous Monitoring]].
 >
 > **[2:06](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=126)** Then in explainable AI, we'll examine (indistinct) the black box algorithm used in criminal justice.
 >
 > **[2:16](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=136)** We'll see how LIME and SHAP offer transparency, helping us understand AI's decisions and pinpoint biases.
 >
-> **[2:26](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=146)** In Privacy-preserving AI, we'll highlight Cambridge Analytica and Clearview AI, where massive data misuse raised red flags worldwide.
+> **[2:26](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=146)** In [[Privacy]]-preserving AI, we'll highlight Cambridge Analytica and Clearview AI, where massive data misuse raised red flags worldwide.
 >
 > **[2:39](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=159)** We'll discuss techniques like differential privacy and federated learning that protect sensitive data without sacrificing AI's capabilities.
 >
@@ -295,13 +291,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=186)** We'll introduce diverse datasets, balanced teams, fairness metrics to keep AI equitable and inclusive.
 >
-> **[3:16](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=196)** The Five Rings framework reflects ethics, security, explainability, privacy and fairness, crucial pillars that ensure AI remains beneficial to individuals, communities, and our broader society.
+> **[3:16](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=196)** The Five Rings framework reflects [[Ethics]], security, explainability, privacy and fairness, crucial pillars that ensure AI remains beneficial to individuals, communities, and our broader society.
 >
 > **[3:35](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/responsible-ai-framework-the-five-rings?u=76281980&t=215)** Let's get started with Ethical AI Ring first.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Privacy]] (3), [[Responsible AI]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Responsible AI]] (2), [[Secure Coding]] (1), [[Continuous Monitoring]] (1), [[Ethics]] (1)
 > **Env Vars:** lime (1), shap (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
@@ -312,8 +308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
+#### [Ethical AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,17 +320,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=15)** These scams use AI to create hyper-realistic videos, blurring the line between what's real and what's fake.
 >
-> **[0:25](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=25)** Taking this shocking example, an 82-year-old retiree drained his entire savings, $690,000, after seeing a deepfake promoting a cryptocurrency investment.
+> **[0:25](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=25)** Taking this shocking example, an 82-year-old retiree drained his entire savings, $690,000, after seeing a deepfake promoting a [[Cryptocurrency]] investment.
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=43)** In 2024, the FBI estimated that deepfake scams cost Americans over $10 billion, and it's getting worse.
 >
-> **[0:55](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=55)** Deloitte predicts that by 2027, generative AI could enable fraud losses to skyrocket to $40 billion in the US alone.
+> **[0:55](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=55)** Deloitte predicts that by 2027, [[Generative AI]] could enable fraud losses to skyrocket to $40 billion in the US alone.
 >
 > **[1:07](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=67)** The usage of deepfakes is just one of the ethical concerns in AI.
 >
 > **[1:14](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=74)** Let me share a fascinating thought experiment called Maximize Smiles.
 >
-> **[1:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=81)** While its origins aren't tied to one specific person, it's been discussed by leading thinkers in AI ethics, like Nick Bostrom and Stuart Russell.
+> **[1:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=81)** While its origins aren't tied to one specific person, it's been discussed by leading thinkers in AI [[Ethics]], like Nick Bostrom and Stuart Russell.
 >
 > **[1:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=93)** Imagine you build a super intelligent AI and give it a seamlessly harmless goal, "Maximize the number of smiles in the world."
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=152)** The Oxford English Dictionary defines ethics as, "Moral principles that govern a person's behavior "or the conduct of an activity."
 >
-> **[2:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=163)** In the context of AI products, ethical AI ensures that these systems align with human values, promote societal wellbeing, and respect fundamental human rights.
+> **[2:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=163)** In the context of AI [[Microsoft Products|products]], ethical AI ensures that these systems align with human values, promote societal wellbeing, and respect fundamental human rights.
 >
 > **[2:56](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=176)** It's the moral compass for AI development.
 >
@@ -371,25 +366,25 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=209)** Respect for human rights and dignity.
 >
-> **[3:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=213)** Your development process should prioritize human wellbeing, safety, and uphold fundamental rights, such as privacy and equality.
+> **[3:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=213)** Your development process should prioritize human wellbeing, safety, and uphold fundamental rights, such as [[Privacy]] and equality.
 >
 > **[3:45](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=225)** The products must be designed to avoid harm, exploitation, or degrading behavior while honoring the diversity of cultures and values.
 >
-> **[3:57](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=237)** Accountability and responsibility are non-negotiable when building enterprise AI products.
+> **[3:57](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=237)** [[Accountability]] and responsibility are non-negotiable when building enterprise AI products.
 >
 > **[4:04](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=244)** We need to know who's responsible at every stage of the AI life cycle, from initial design and the development to deployment and ongoing monitoring.
 >
-> **[4:17](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=257)** This ensures transparency and ethical oversight, allowing organizations to address potential issues and demonstrate a commitment to responsible AI practice.
+> **[4:17](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=257)** This ensures transparency and ethical oversight, allowing organizations to address potential issues and demonstrate a commitment to [[Responsible AI]] practice.
 >
-> **[4:29](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=269)** Sustainability and environmental consideration.
+> **[4:29](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=269)** [[Sustainability]] and environmental consideration.
 >
 > **[4:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=273)** Training large AI models can produce significant carbon emissions comparable to hundreds of roundtrip flights.
 >
-> **[4:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=283)** For enterprises, this means prioritizing energy efficient algorithms and infrastructure to reduce operational costs and the environmental impact.
+> **[4:43](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=283)** For enterprises, this means prioritizing energy efficient [[Algorithms]] and infrastructure to reduce operational costs and the environmental impact.
 >
-> **[4:55](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=295)** Moreover, the frequent upgrades in AI hardware are projected to generate millions of tons of electronic waste by 2030.
+> **[4:55](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=295)** Moreover, the frequent upgrades in AI [[Hardware]] are projected to generate millions of tons of electronic waste by 2030.
 >
-> **[5:06](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=306)** Businesses developing AI solutions must adopt sustainable practice, such as choosing scalable, long-lasting hardware, and implementing robust recycling or reuse programs.
+> **[5:06](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=306)** Businesses developing [[AI Solutions]] must adopt sustainable practice, such as choosing scalable, long-lasting hardware, and implementing robust recycling or reuse programs.
 >
 > **[5:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=321)** Ethical AI ensures that our products align with human values, uphold accountability, and minimize harm to the planet.
 >
@@ -399,18 +394,17 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=347)** After watching, reflect on the ethical dilemmas presented in the story.
 >
-> **[5:53](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=353)** Share your insights and thoughts about ethical AI on LinkedIn and the tech need to start a conversation.
+> **[5:53](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980&t=353)** Share your insights and thoughts about ethical AI on [[LinkedIn]] and the tech need to start a conversation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Microsoft Products|Products]] (5), [[Ethics]] (2), [[Accountability]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Ethics]] (2), [[Accountability]] (2), [[Hardware]] (2), [[Cryptocurrency]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** fbi (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980)
+#### [Secure AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=8)** It's also a panda, but what does AI think about this photos?
 >
-> **[0:14](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=14)** In 2014, researchers train a deep learning model to classify images.
+> **[0:14](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=14)** In 2014, researchers train a [[Deep Learning]] model to classify images.
 >
 > **[0:20](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=20)** The first photo, the AI said panda.
 >
@@ -480,13 +474,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=191)** Security development practice ensures safety through code reviews, automated testing, and the secure development.
 >
-> **[3:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=201)** Data protection uses encryption, differential privacy, and the secure storage to safeguard sensitive information.
+> **[3:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=201)** Data protection uses encryption, differential [[Privacy]], and the secure storage to safeguard sensitive information.
 >
 > **[3:31](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=211)** Model security involves techniques like hardening and regularization to defend against attacks.
 >
 > **[3:39](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=219)** Operational security applies multi-layered defenses and a zero-trust principles to production environment.
 >
-> **[3:49](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=229)** And the continuous monitoring detects anomalies and ensures the system stays secure over time.
+> **[3:49](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=229)** And the [[Continuous Monitoring]] detects anomalies and ensures the system stays secure over time.
 >
 > **[3:56](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=236)** By prioritizing secure AI, you contribute to build more reliable and beneficial AI systems that can safely deploy it and integrated into people's lives.
 >
@@ -498,16 +492,15 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=263)** How would you protect the system from vulnerabilities like adversarial attacks, data breaches, or operational risks?
 >
-> **[4:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=273)** Write down your strategies and share them in a LinkedIn post to spark a discussion with your network.
+> **[4:33](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/secure-ai?u=76281980&t=273)** Write down your strategies and share them in a [[LinkedIn]] post to spark a discussion with your network.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (5), [[Security]] (3), [[Deep Learning]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Privacy]] (1), [[Continuous Monitoring]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (1), just like (1), imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### Explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980)
+#### [Explainable AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,13 +522,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=68)** Conversely, white defendants who do re-offend are more likely to be misclassified as low-risk compared to Black defendants.
 >
-> **[1:18](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=78)** These findings highlight racial bias in algorithms' predictions, where a single number can make a huge impact on someone's life.
+> **[1:18](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=78)** These findings highlight racial bias in [[Algorithms]]' predictions, where a single number can make a huge impact on someone's life.
 >
 > **[1:30](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=90)** Transparency isn't just important, it's essential.
 >
 > **[1:35](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=95)** The lack of explainability in COMPAS highlights the importance of explainable AI.
 >
-> **[1:42](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=102)** The explainable AI ring ensures transparency, interpretability, and accountability in AI products.
+> **[1:42](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=102)** The explainable AI ring ensures transparency, interpretability, and [[Accountability]] in AI [[Microsoft Products|products]].
 >
 > **[1:51](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=111)** By understanding how AI makes decisions, you can more effectively identify and mitigate biases, errors, and unintended consequences.
 >
@@ -587,23 +580,22 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=303)** Before we wrap up this section, here's the challenge for you.
 >
-> **[5:07](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=307)** Create a LinkedIn post explaining what explainable AI is, and include a real world example to illustrate your point.
+> **[5:07](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=307)** Create a [[LinkedIn]] post explaining what explainable AI is, and include a real world example to illustrate your point.
 >
 > **[5:17](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=317)** Feel free to tag me in your post. I love to see your ideas.
 >
-> **[5:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=321)** This is a great way to join the conversation online, and in your own network about responsible AI while diving deeper into your learning journey.
+> **[5:21](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/explainable-ai?u=76281980&t=321)** This is a great way to join the conversation online, and in your own network about [[Responsible AI]] while diving deeper into your learning journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), feature (3), [[Algorithms]] (2), management (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Accountability]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Responsible AI]] (1)
 > **Env Vars:** lime (6), compas (3), shap (3)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** picture (1), for example (1), analogous to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy-preserving AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980)
+#### [Privacy-preserving AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,15 +629,15 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=86)** The consequences were enormous, $5 billion in fines for Meta, the bankruptcy of Cambridge Analytica, and perhaps most importantly, a global conversation about how our data is used and misused.
 >
-> **[1:44](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=104)** In the age of AI, the stakes of data privacy are even higher.
+> **[1:44](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=104)** In the age of AI, the stakes of [[Data Privacy]] are even higher.
 >
 > **[1:49](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=109)** Why?
 >
-> **[1:50](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=110)** Because AI products thrive on data, lots of it.
+> **[1:50](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=110)** Because AI [[Microsoft Products|products]] thrive on data, lots of it.
 >
 > **[1:55](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=115)** Take, for example, the case of Clearview AI.
 >
-> **[2:00](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=120)** This company built one of the most extensive facial recognition databases in the world.
+> **[2:00](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=120)** This company built one of the most extensive facial recognition [[Databases]] in the world.
 >
 > **[2:07](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=127)** How did they do it?
 >
@@ -657,7 +649,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=192)** For AI products, data is everything, but protecting it is everything else.
 >
-> **[3:19](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=199)** That's why building the privacy preserving AI ring is such a critical part of the Responsible AI framework.
+> **[3:19](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=199)** That's why building the [[Privacy]] preserving AI ring is such a critical part of the [[Responsible AI]] framework.
 >
 > **[3:28](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=208)** The ring focuses on protecting individual privacy by ensuring AI products handle data properly, respecting confidentiality and minimizing data exposure.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=302)** Rather than pulling every residents' travel data in one massive central database, each neighborhood processes its traffic records locally.
 >
-> **[5:13](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=313)** They then share only summarized insights, like speed averages, peak travel times, or suggested improvements to traffic light timings with a central city planning office.
+> **[5:13](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=313)** They then share only summarized insights, like speed averages, peak travel times, or suggested improvements to traffic light timings with a central city planning [[Microsoft Office|office]].
 >
 > **[5:28](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=328)** This way, the entire city's traffic plan is continuously optimized using data from all area without exposing any individual's personal commuting details.
 >
@@ -733,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), ai (10), [[Privacy]] (5), traffic (5), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Products|Products]] (3), [[Data Privacy]] (1), [[Databases]] (1), [[Responsible AI]] (1)
 > **Analogies:** imagine (4), for example (1), picture (1), it's like (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** smpc (2), gdpr (1)
@@ -741,8 +733,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fair AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980)
+#### [Fair AI](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +781,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980&t=193)** This means using datasets that reflect the full spectrum of demographics, ensuring no group is underrepresented or overrepresented.
 >
-> **[3:25](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980&t=205)** By reducing historical biases in data collection, you give AI a fighting chance to treat everyone equitably.
+> **[3:25](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980&t=205)** By reducing historical biases in [[Data Collection]], you give AI a fighting chance to treat everyone equitably.
 >
 > **[3:36](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/fair-ai?u=76281980&t=216)** Balanced development teams.
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (7), leadership (1), teams (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Env Vars:** covid (3)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (1)
@@ -837,18 +828,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The limitation of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)
+#### [The limitation of this course](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=0)** - [Narrator] In this course, we'll explore the responsible AI framework and it's five rings, ethical AI, secure AI, explainable AI, privacy-preserving AI, and fair AI.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=0)** - [Narrator] In this course, we'll explore the [[Responsible AI]] framework and it's five rings, ethical AI, secure AI, explainable AI, [[Privacy]]-preserving AI, and fair AI.
 >
-> **[0:13](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=13)** We've talked about real world incidents, thought experiments, and key techniques to help you build AI products that are aligned with human values.
+> **[0:13](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=13)** We've talked about real world incidents, thought experiments, and key techniques to help you build AI [[Microsoft Products|products]] that are aligned with human values.
 >
 > **[0:24](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=24)** At the end of each video, you were given an assignment.
 >
-> **[0:28](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=28)** It's important to complete these tasks as they are designed to help you apply these concepts in real world scenarios, and make sure to share your certification and tag me on LinkedIn so I can celebrate your achievement with you.
+> **[0:28](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=28)** It's important to complete these tasks as they are designed to help you apply these concepts in real world scenarios, and make sure to share your certification and tag me on [[LinkedIn]] so I can celebrate your achievement with you.
 >
 > **[0:46](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980&t=46)** With that said, we also need to acknowledge the limitations of this course.
 >
@@ -868,13 +858,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Build your responsible ex machina
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/build-your-responsible-ex-machina?u=76281980)
+#### [Build your responsible ex machina](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/build-your-responsible-ex-machina?u=76281980)
 
 > [!transcript]- Transcript
 >

@@ -146,36 +146,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Excel for statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980)
+#### [Using Excel for statistics](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=0)** - Did your job just become all about data and statistics?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=0)** - Did your job just become all about data and [[Statistics]]?
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=3)** Do data-driven decisions need to be made and made fast?
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=7)** If you need to learn about stats and Excel, you've come to the right place.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=7)** If you need to learn about stats and [[Microsoft Excel|Excel]], you've come to the right place.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=12)** In this course, we'll learn how to understand and describe data sets.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=16)** We'll explore probability and then we'll dive into advanced topics like hypothesis tests and regression and to do all of this, we'll utilize the all-powerful statistical tool called Excel, plus we'll explore the possibilities with Copilot.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=16)** We'll explore [[Probability]] and then we'll dive into advanced topics like hypothesis tests and regression and to do all of this, we'll utilize the all-powerful statistical tool called Excel, plus we'll explore the possibilities with [[Microsoft Copilot|Copilot]].
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=34)** Hi, I'm Eddie Davila and I love working with statistics and Excel.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=39)** Now, if you're ready to get started, please join me here on LinkedIn Learning.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980&t=39)** Now, if you're ready to get started, please join me here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
 > **Speakers:** - did (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-you-need-to-know?u=76281980&t=0)** - [Instructor] This class combines two things that scare lots of people: statistics and Excel.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-you-need-to-know?u=76281980&t=0)** - [Instructor] This class combines two things that scare lots of people: [[Statistics]] and [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-you-need-to-know?u=76281980&t=5)** And while it'd be great for you to have even a tiny level of comfort with each, don't worry, you don't need to be especially good at either one.
 >
@@ -196,14 +194,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The Exercise Files that come with this course, they're meant for you to follow along with my work and the videos.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=6)** More importantly, the Exercise Files are so you can practice working with stats in Excel.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=6)** More importantly, the Exercise Files are so you can practice working with stats in [[Microsoft Excel|Excel]].
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=12)** Now, this course covers a lot of statistical ground.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=80)** They're important.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=81)** Excel and statistics require practice, and the exercise files will really help you as you go through this course.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-the-exercise-files?u=76281980&t=81)** Excel and [[Statistics]] require practice, and the exercise files will really help you as you go through this course.
 
 > [!info]- Semantic Content
 >
@@ -231,12 +228,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (5), exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excel on Mac or PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980)
+#### [Excel on Mac or PC](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=0)** - [Instructor] Excel is a powerful tool used by nearly everyone.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is a powerful tool used by nearly everyone.
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=4)** This includes people with PCs as well as people with Macs.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=37)** One more really important thing to remember.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=39)** With both Excel and statistics, there are usually multiple ways to arrive at the same solution.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=39)** With both Excel and [[Statistics]], there are usually multiple ways to arrive at the same solution.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-on-mac-or-pc?u=76281980&t=45)** I'll usually show you a few ways to answer the question, but once your Excel skills begin to develop, you may find easier and more efficient ways to solve the problem.
 
@@ -261,20 +257,19 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980)
+#### [Using Copilot](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=0)** - [Instructor] One of the interesting features in this course is that we're going to be using Copilot.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=0)** - [Instructor] One of the interesting features in this course is that we're going to be using [[Microsoft Copilot|Copilot]].
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=4)** At the end of every chapter, you're going to have a video that covers Copilot.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=8)** Copilot is Microsoft's AI tool.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=8)** Copilot is [[Microsoft]]'s AI tool.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=11)** And what you're going to notice is that when we're working in Copilot, you're going to see a slightly different view than what you're used to because we're going to be working inside of Excel but in a browser.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=11)** And what you're going to notice is that when we're working in Copilot, you're going to see a slightly different view than what you're used to because we're going to be working inside of [[Microsoft Excel|Excel]] but in a browser.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=25)** In order to use Copilot, you need to have a Microsoft 365 license, just like me.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=25)** In order to use Copilot, you need to have a [[Microsoft 365]] license, just like me.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=30)** And once you have that license, you'll be able to see an icon for Microsoft 365's Excel.
 >
@@ -316,13 +311,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=167)** So that's pretty much it, all right?
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=169)** So we have the ToolPak, we have Copilot, we know how we're going to be entering our prompts, and now it's time to learn statistics.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=169)** So we have the ToolPak, we have Copilot, we know how we're going to be entering our prompts, and now it's time to learn [[Statistics]].
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-copilot?u=76281980&t=177)** So let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
@@ -335,12 +330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Excel basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980)
+#### [Excel basics](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=0)** - [Instructor] Some of you may be Excel experts, others you can get by with your Excel skills, and some of you may be pretty new to Excel.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=0)** - [Instructor] Some of you may be [[Microsoft Excel|Excel]] experts, others you can get by with your Excel skills, and some of you may be pretty new to Excel.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=7)** So before we get started, let's go through some very basic Excel functions.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=21)** There are some slight differences from time to time.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=23)** In some cases, when I say the word Command, for example, if I wanted to use the Command + D function on the Mac, that might be the Control + D function on the PC.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=23)** In some cases, when I say the [[Microsoft Word|word]] Command, for example, if I wanted to use the Command + D function on the Mac, that might be the Control + D function on the PC.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=32)** But let's go ahead and move forward.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=317)** Notice what I just did there.
 >
-> **[5:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=319)** Instead of dragging it down, which I could have done, I went to the handle and I double clicked and it knew that I wanted it to fill out the rest of my table right there.
+> **[5:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=319)** Instead of dragging it down, which I could have done, I went to the handle and I double clicked and it knew that I wanted it to fill out the [[Representational State Transfer (REST)|rest]] of my table right there.
 >
 > **[5:32](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980&t=332)** In this case, what we want to do is we want to sum the pounds of potatoes, and then we want to move that over into a different table.
 >
@@ -576,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (5), hit (5), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** b12 (5)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -585,8 +579,7 @@ created: 2026-05-02
 > **Versions:** 27.92 (1)
 > **Cross-References:** go back to (1)
 
-#### Random number generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980)
+#### [Random number generator](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=14)** Ultimately though, it's important that these lessons work not only with my pre-prescribed datasets, they must also work out there in the wild, at work, at school, and maybe in your data hobbies, and in this course, with datasets we've never seen before.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=30)** Therefore, I'll often be using random number generator functions within Excel to put our lessons into action.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=30)** Therefore, I'll often be using random number generator functions within [[Microsoft Excel|Excel]] to put our lessons into action.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=39)** So, yes, some segments of these videos will be freestyled, and I'm sort of excited, or maybe nervous, to see what types of interesting things we might encounter.
 >
@@ -728,7 +721,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=413)** All right, let's go to something a little bit different.
 >
-> **[6:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=417)** In the world statistics, we often talk about something called a normal distribution, and we'll be talking about that quite a few times throughout this course.
+> **[6:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=417)** In the world [[Statistics]], we often talk about something called a normal distribution, and we'll be talking about that quite a few times throughout this course.
 >
 > **[7:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/random-number-generator?u=76281980&t=426)** And probably subsequent courses.
 >
@@ -842,7 +835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (6), hit (5), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Statistics]] (1)
 > **UI Navigation:** click on (8), go to (3), double-click (1)
 > **Env Vars:** rand (4), between (2), randarray (2), round (1)
 > **CLI Commands:** find (3)
@@ -851,12 +844,11 @@ created: 2026-05-02
 > **Code Identifiers:** rand (1)
 > **Exercise Files:** exercise file (1)
 
-#### Copilot: Basic assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980)
+#### [Copilot: Basic assistance](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=0)** - [Instructor] All right, so let's begin our exploration of Copilot.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=0)** - [Instructor] All right, so let's begin our exploration of [[Microsoft Copilot|Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=5)** And what you'll see here is that we have some very simple spreadsheets, some very simple sets of data.
 >
@@ -942,7 +934,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=262)** Let's go and create some random numbers.
 >
-> **[4:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=264)** Every once in a while we're going to want to create some random numbers to test some of our statistics.
+> **[4:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=264)** Every once in a while we're going to want to create some random numbers to test some of our [[Statistics]].
 >
 > **[4:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/co-pilot-basic-assistance?u=76281980&t=270)** So the first thing we want to do, it's pretty simple.
 >
@@ -1044,7 +1036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), data (5), [[Statistics]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Statistics]] (2)
 > **Env Vars:** norm (1), inv (1), rand (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1056,8 +1048,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SUM, COUNT, MAX, MIN, and Range
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980)
+#### [SUM, COUNT, MAX, MIN, and Range](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=29)** At first, you have no idea what it is, what's inside that dataset.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=34)** But just as we can begin to understand the object in the dark by feeling it, we have descriptive tools and statistics that help us begin to understand our dataset.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=34)** But just as we can begin to understand the object in the dark by feeling it, we have descriptive tools and [[Statistics]] that help us begin to understand our dataset.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=46)** Let's look at some of these very basic descriptive tools that allow us to explore our new dataset.
 >
@@ -1227,7 +1218,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=378)** Now up to this point, we've be looking at test scores.
 >
-> **[6:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=381)** With financial data, we have a number of banks, so they have different branches.
+> **[6:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=381)** With [[Financial Data]], we have a number of banks, so they have different branches.
 >
 > **[6:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980&t=387)** They have account numbers, and each account number, we think, has a balance.
 >
@@ -1315,15 +1306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (2), [[Statistics]] (1), [[Financial Data]] (1), hit (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Financial Data]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Versions:** 12.4 (2)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Means, medians, and modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980)
+#### [Means, medians, and modes](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=43)** So if we divide the sum by our count, we'll see that the average is 60.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=53)** An easier way to do this is to use the average function inside of Excel.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=53)** An easier way to do this is to use the average function inside of [[Microsoft Excel|Excel]].
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=57)** So let's go over here and say, "Well, let's type in, 'Average.'"
 >
@@ -1483,7 +1473,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=401)** The median, very similar, is 77, and there is a mode, 72 seems to be the most popular exam score for this particular class.
 >
-> **[6:54](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=414)** All right, so let's look at this with financial data.
+> **[6:54](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=414)** All right, so let's look at this with [[Financial Data]].
 >
 > **[6:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/means-medians-and-modes?u=76281980&t=417)** And once again, I'm going to copy and paste my formulas because we're looking at data in column C.
 >
@@ -1547,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
 > **CLI Commands:** find (7)
 > **Versions:** 26.5 (1), 76.7 (1), 525.56 (1), 790.97 (1), 9.32 (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -1555,14 +1545,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Dataset exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980)
+#### [Copilot: Dataset exploration](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980&t=0)** - [Instructor] All right, so in this chapter we asked Excel to help us find some very simple things.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980&t=0)** - [Instructor] All right, so in this chapter we asked [[Microsoft Excel|Excel]] to help us find some very simple things.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980&t=4)** Let's see if Copilot can help us just as well.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980&t=4)** Let's see if [[Microsoft Copilot|Copilot]] can help us just as well.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-data-set-exploration?u=76281980&t=8)** So again, go to Copilot here.
 >
@@ -1680,7 +1669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6), find (5)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -1692,8 +1681,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frequency table
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980)
+#### [Frequency table](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,7 +1693,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=22)** This table will then help us create a bar chart or histogram that represents the same distribution in graphical form.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=30)** In this video, we'll focus on a few different ways you can create a frequency table in Excel.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=30)** In this video, we'll focus on a few different ways you can create a frequency table in [[Microsoft Excel|Excel]].
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=37)** In our next video, we'll use the same table to create the histogram.
 >
@@ -1823,7 +1811,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=401)** When we compare this to what we have over here, took a little more work, but now visually it looks a little bit better.
 >
-> **[6:50](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=410)** So how do we do this for the rest of our grade ranges, for the Bs, Cs, Ds, and Fs?
+> **[6:50](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=410)** So how do we do this for the [[Representational State Transfer (REST)|rest]] of our grade ranges, for the Bs, Cs, Ds, and Fs?
 >
 > **[6:56](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980&t=416)** What we can do is we can copy down, and you might say, "Well, wait a second, they're all 49."
 >
@@ -1863,7 +1851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (5), hit (5), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** frequency (6), countifs (3), count (1), countif (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1871,8 +1859,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Histogram
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980)
+#### [Histogram](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1943,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980&t=248)** If this happened to you, you're not alone, but we can fix this.
 >
-> **[4:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980&t=252)** Go to the exercise file entitled Excel Stats Formulas and Functions.
+> **[4:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980&t=252)** Go to the exercise file entitled [[Microsoft Excel|Excel]] Stats Formulas and Functions.
 >
 > **[4:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/histogram?u=76281980&t=257)** Click on the Chapter 03 worksheet, go to the PC column, and find the cells highlighted in blue.
 >
@@ -2012,7 +1999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (2), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (8), click on (4), right-click (3)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2020,12 +2007,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Tables and charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-tables-and-charts?u=76281980)
+#### [Copilot: Tables and charts](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-tables-and-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-tables-and-charts?u=76281980&t=0)** - [Instructor] Alright, so let's see if Copilot can help us in creating frequency tables and histograms.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-tables-and-charts?u=76281980&t=0)** - [Instructor] Alright, so let's see if [[Microsoft Copilot|Copilot]] can help us in creating frequency tables and histograms.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-tables-and-charts?u=76281980&t=6)** And this is, sometimes it works well, and sometimes, it is a little bit problematic, especially if you want it done a very specific way.
 >
@@ -2195,7 +2181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Copilot|Copilot]] (4), feature (2), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (1)
@@ -2206,8 +2192,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980)
+#### [Standard deviation](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2228,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=95)** Want you to notice how ugly these formulas are.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=99)** Thankfully, we have Excel to do the heavy lifting.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=99)** Thankfully, we have [[Microsoft Excel|Excel]] to do the heavy lifting.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=102)** Also, I want you to notice both formulas result in the variance being a squared number.
 >
@@ -2331,7 +2316,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=305)** Whoa, standard deviation is much bigger, and that makes sense.
 >
-> **[5:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=309)** Really big data points, really small data points, and one in the middle.
+> **[5:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=309)** Really [[Big Data]] points, really small data points, and one in the middle.
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=316)** And let's do this one more time.
 >
@@ -2417,7 +2402,7 @@ created: 2026-05-02
 >
 > **[9:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=579)** Let's do this one more time.
 >
-> **[9:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=586)** So here we're doing it for financial data.
+> **[9:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=586)** So here we're doing it for [[Financial Data]].
 >
 > **[9:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980&t=591)** First of all, our variance is huge, isn't it?
 >
@@ -2463,7 +2448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), hit (3), power (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Big Data]] (1), [[Financial Data]] (1)
 > **CLI Commands:** find (6), make (4)
 > **Versions:** 15.8 (2), 15.81 (1), 0.5 (1), 614.71 (1), 13.2 (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
@@ -2471,8 +2456,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Normal curve and normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980)
+#### [Normal curve and normal distribution](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,7 +2488,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980&t=83)** And since the tallest part of the curve is at the mean, this also tells us the mode is equal to the mean and the median.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980&t=93)** Fourth, in statistics, we say the perfect normal curve is centered at a mean of zero and has a standard deviation of one.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980&t=93)** Fourth, in [[Statistics]], we say the perfect normal curve is centered at a mean of zero and has a standard deviation of one.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/normal-curve-and-normal-distribution?u=76281980&t=103)** You might be saying, well, the things we measure, for example, people's heights, test scores, and the time it takes people to run marathons, these don't have a mean of zero.
 >
@@ -2528,19 +2512,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** in other words (3)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skewness and kurtosis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980)
+#### [Skewness and kurtosis](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=0)** - [Instructor] Mean, median, mode, even standard deviation.
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=3)** In most cases, these words sound pretty familiar, even for those of us that are new to statistics.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=3)** In most cases, these words sound pretty familiar, even for those of us that are new to [[Statistics]].
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=10)** But how about skewness and kurtosis?
 >
@@ -2608,7 +2591,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=248)** By the way, you may be wondering, "How are skewness and kurtosis calculated?"
 >
-> **[4:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=253)** As you can see, neither is very simple, which is why Excel is so useful.
+> **[4:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=253)** As you can see, neither is very simple, which is why [[Microsoft Excel|Excel]] is so useful.
 >
 > **[4:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=259)** Not only does it calculate both of these statistics for us, it allows us to see how changing some data points in a dataset can change the skewness and kurtosis of a dataset.
 >
@@ -2736,7 +2719,7 @@ created: 2026-05-02
 >
 > **[10:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=611)** And make these a little bit more visually appealing.
 >
-> **[10:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=616)** Let's do this for financial data.
+> **[10:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=616)** Let's do this for [[Financial Data]].
 >
 > **[10:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/skewness-and-kurtosis?u=76281980&t=620)** Oh, look at this. Our skewness is way off.
 >
@@ -2770,15 +2753,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
 > **Versions:** 1.0 (5), 0.5 (4), 1.2 (1), 0.16 (1), 1.49 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Empirical rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980)
+#### [Empirical rule](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2816,7 +2798,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980&t=130)** Those data points are sometimes referred to as outliers.
 >
-> **[2:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980&t=135)** So let's head over to Excel and see the empirical rule in action.
+> **[2:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980&t=135)** So let's head over to [[Microsoft Excel|Excel]] and see the empirical rule in action.
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/empirical-rule?u=76281980&t=140)** So here we're going to be looking at datasets that come from the real world, whether it be rainfall, the height of NBA players, or exam test scores.
 >
@@ -3024,7 +3006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), next (2), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 99.7 (3), 0.3 (2), 11.56 (1), 11.5 (1), 42.88 (1)
 > **Env Vars:** nba (3), abs (1), frequency (1)
 > **CLI Commands:** find (2), make (1)
@@ -3032,12 +3014,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Measuring variability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980)
+#### [Copilot: Measuring variability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=0)** - [Instructor] Okay, let's see how Copilot can help us work through variability.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=0)** - [Instructor] Okay, let's see how [[Microsoft Copilot|Copilot]] can help us work through variability.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=5)** So here we have our table.
 >
@@ -3071,7 +3052,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=80)** So let's go ahead and copy and paste that.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=82)** And they are slightly different, but as we've seen in the rest of the chapter, this is something that can be of importance.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=82)** And they are slightly different, but as we've seen in the [[Representational State Transfer (REST)|rest]] of the chapter, this is something that can be of importance.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-measuring-variability?u=76281980&t=89)** So we want to note that, in this case, Copilot was smart enough to know that there is an option.
 >
@@ -3177,7 +3158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** previous video (2), we covered (1), as we saw (1)
 > **Versions:** 13.197 (1), 195.5 (1), 155.5 (1)
 > **Env Vars:** nba (2)
@@ -3191,16 +3172,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Descriptive tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980)
+#### [Descriptive tool](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=0)** - [Instructor] So far in this course, we've learned about a number of descriptive tools and statistics, all of them helping us understand the size and shape of our data sets, giving meaning to our data sets, perhaps even providing us some insight on how to make some good decisions.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=0)** - [Instructor] So far in this course, we've learned about a number of descriptive tools and [[Statistics]], all of them helping us understand the size and shape of our data sets, giving meaning to our data sets, perhaps even providing us some insight on how to make some good decisions.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=16)** Yep, we've looked at quite a few tools and statistics.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=19)** Each is relatively easy to find and develop when using Excel.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=19)** Each is relatively easy to find and develop when using [[Microsoft Excel|Excel]].
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980&t=23)** And while we spent quite a bit of time learning about each tool and statistic, it's time to let you in on a little secret.
 >
@@ -3330,7 +3310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Statistics]] (8), [[Microsoft Excel|Excel]] (4), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 92.2 (1)
@@ -3338,12 +3318,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Descriptive tool exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980)
+#### [Descriptive tool exercise](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=0)** - [Instructor] All right, we've just learned about how to use Excel's Descriptive tool with a few different datasets.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=0)** - [Instructor] All right, we've just learned about how to use [[Microsoft Excel|Excel]]'s Descriptive tool with a few different datasets.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=5)** Now let's put many of the topics we've covered in this course to work by using Excel's Descriptive tool and also the Histogram tool.
 >
@@ -3355,7 +3334,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=34)** So again, we go up to our Data menu, Data Analysis.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=39)** We go to our Descriptive Statistics, click OK.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=39)** We go to our Descriptive [[Statistics]], click OK.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool-exercise?u=76281980&t=45)** We want our Input Range to yes, be B. Columns.
 >
@@ -3527,7 +3506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Statistics]] (9), next (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (9), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** nba (3)
 > **Versions:** 46.23 (1), 43.79 (1)
@@ -3536,16 +3515,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Descriptive tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980)
+#### [Copilot: Descriptive tool](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=1)** so we just learned how to use Excel's very useful Tool Pack.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=1)** so we just learned how to use [[Microsoft Excel|Excel]]'s very useful Tool Pack.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=6)** Now what I want to do is I want to see what can Copilot do for us when we're working in Copilot in the browser version, and how does the Tool Pack work in this particular scenario?
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=6)** Now what I want to do is I want to see what can [[Microsoft Copilot|Copilot]] do for us when we're working in Copilot in the browser version, and how does the Tool Pack work in this particular scenario?
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=19)** And if you don't remember how to use, the Tool Pack, Copilot provide us some guidance.
 >
@@ -3593,7 +3571,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=131)** I'm going to go back to the Tool Pack.
 >
-> **[2:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=136)** And you'll notice that it's telling us that we want to utilize, select the descriptive statistics.
+> **[2:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=136)** And you'll notice that it's telling us that we want to utilize, select the descriptive [[Statistics]].
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-descriptive-tool?u=76281980&t=147)** And then what we want to do is we want to enter the input range.
 >
@@ -3621,7 +3599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Statistics]] (5), data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Statistics]] (5), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** c229 (1), e10 (1)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -3634,12 +3612,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980)
+#### [Probability explained](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=0)** - [Instructor] Nobody has all the answers, but it seems everyone can tell you the probability.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=0)** - [Instructor] Nobody has all the answers, but it seems everyone can tell you the [[Probability]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=5)** There's a 50% chance that in a single roll, you will roll either a four, five, or six with the die.
 >
@@ -3665,7 +3642,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=62)** This is what we call empirical probability.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=66)** Based on LeBron's lifetime NBA statistics, we believe there is a 73% chance he will make this next free throw.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=66)** Based on LeBron's lifetime NBA [[Statistics]], we believe there is a 73% chance he will make this next free throw.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=75)** Look, there's plenty of past data to look at, but perhaps tonight he's tired.
 >
@@ -3693,7 +3670,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=163)** Those are definitely not even odds.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=167)** Let's begin to play around with probabilities in Excel.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=167)** Let's begin to play around with probabilities in [[Microsoft Excel|Excel]].
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980&t=171)** So to find probability, we need to know the total number of occurrences that we're looking for, and then we divide that by the total outcomes that are even possible.
 >
@@ -3821,7 +3798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (13), next (5), [[Statistics]] (3), data (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (13), [[Statistics]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (7), make (3)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** nba (1), nfl (1)
@@ -3829,8 +3806,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Percentiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980)
+#### [Percentiles](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3880,7 +3856,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980&t=99)** This score is in the top 30% of the class.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980&t=104)** But before we move to Excel, I want to warn you, Excel does things a little bit different.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980&t=104)** But before we move to [[Microsoft Excel|Excel]], I want to warn you, Excel does things a little bit different.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/percentiles?u=76281980&t=110)** They like to use percentile as a dividing line.
 >
@@ -4112,7 +4088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Versions:** 132.5 (1), 0.995 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -4121,8 +4097,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Permutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980)
+#### [Permutations](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4130,7 +4105,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=5)** There's only one single four on the die, and there are six sides, so you have a one in six chance.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=13)** But what's the probability of choosing a queen from a standard deck of 52 cards?
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=13)** But what's the [[Probability]] of choosing a queen from a standard deck of 52 cards?
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=20)** In this case, there's four queens in a deck, and a deck has 52 cards.
 >
@@ -4146,7 +4121,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=61)** How many different possible first, second, and third place combinations are there if we have 10 runners?
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=71)** Actually the correct word we're looking for here is permutations.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=71)** Actually the correct [[Microsoft Word|word]] we're looking for here is permutations.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=76)** Permutations are the number of ways in which objects can be arranged.
 >
@@ -4202,7 +4177,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=218)** 604,800 different permutations for those top three spots when we have 10 runners.
 >
-> **[3:48](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=228)** So let's move to Excel and look at some permutations.
+> **[3:48](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=228)** So let's move to [[Microsoft Excel|Excel]] and look at some permutations.
 >
 > **[3:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/permutations?u=76281980&t=233)** As you might expect, Excel has a permutations function.
 >
@@ -4271,8 +4246,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Combinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980)
+#### [Combinations](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4286,7 +4260,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=19)** The book club will raffle off three $50 gift cards to three of the members in attendance.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=27)** What is the probability both Maria and Carlos will win a gift card?
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=27)** What is the [[Probability]] both Maria and Carlos will win a gift card?
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=32)** To solve this, we'll need to understand how to calculate combinations.
 >
@@ -4310,7 +4284,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=80)** n factorial divided by the quantity, n minus x factorial times x factorial, where n is the total number of objects, and x is the number of objects chosen at one time.
 >
-> **[1:36](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=96)** Let's head over to Excel and put this formula into action.
+> **[1:36](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=96)** Let's head over to [[Microsoft Excel|Excel]] and put this formula into action.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/combinations?u=76281980&t=102)** Let's begin with something very simple and knowable.
 >
@@ -4416,7 +4390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2), next (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** fact (1)
@@ -4425,8 +4399,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addition rule of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980)
+#### [Addition rule of probability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4434,7 +4407,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=4)** What are the odds that the coin flips will result in at least one coin resulting in heads?
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=12)** To solve this probability problem, we're going to use something called the addition rule of probability.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=12)** To solve this [[Probability]] problem, we're going to use something called the addition rule of probability.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=18)** The addition rule of probability is often presented like this.
 >
@@ -4480,7 +4453,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=133)** Three of the four possible outcomes, 75% of our outcomes have at least one heads.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=141)** Let's head over to Excel and put the addition rule to work.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=141)** Let's head over to [[Microsoft Excel|Excel]] and put the addition rule to work.
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/addition-rule-of-probability?u=76281980&t=146)** So here, we can see exam score data for a number of students.
 >
@@ -4566,7 +4539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** countif (4), countifs (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -4575,8 +4548,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [speaker] (1)
 
-#### Multiplication rule of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980)
+#### [Multiplication rule of probability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4590,7 +4562,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=22)** To find the odds of rolling a six with both dice, we use the multiplication rule.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=29)** We multiply the probability for each independent event, 16.7% times 16.7%.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=29)** We multiply the [[Probability]] for each independent event, 16.7% times 16.7%.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=37)** This tells us there is a 2.79% chance both dice will result in six.
 >
@@ -4608,7 +4580,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=71)** What's the probability all three cards will either be a 10, jack, queen, king, or ace?
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=80)** Let's use Excel and the multiplication rule to help us solve this problem.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=80)** Let's use [[Microsoft Excel|Excel]] and the multiplication rule to help us solve this problem.
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/multiplication-rule-of-probability?u=76281980&t=86)** So in our file right here, we can see that I've already pre-populated 10 Jack, queen, king, and ace.
 >
@@ -4664,18 +4636,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 16.7 (4), 2.79 (2), 38.46 (2), 37.25 (2), 5.16 (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional probability and probability trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980)
+#### [Conditional probability and probability trees](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=0)** - [Instructor] Probability trees, a really useful tool when you have a series of probability events.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=0)** - [Instructor] [[Probability]] trees, a really useful tool when you have a series of probability events.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=7)** For example, let's say we are flipping a coin, our two possible outcomes, heads and tails, each represents a different branch on our probability tree.
 >
@@ -4701,7 +4672,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=84)** In other words, if the result of flip number one is heads, we now know the probability of flipping heads twice in a row just went from 25% before flip number one to 50% now that heads came up the first time.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=99)** Let's use excel to build some more, complex probability trees.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=99)** Let's use [[Microsoft Excel|excel]] to build some more, complex probability trees.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/conditional-probability-and-probability-trees?u=76281980&t=105)** So the scenario we're given here, there is a disease, we call this disease X, and most people are healthy, as you can see, 9,999 out of every 10,000 people is healthy.
 >
@@ -4805,7 +4776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (17), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (17), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.0001 (2), 0.99999 (1), 0.9999 (1), 0.98 (1), 0.02 (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (2), in other words (1), we call this (1)
@@ -4813,12 +4784,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-probability?u=76281980)
+#### [Copilot: Probability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-probability?u=76281980&t=0)** - [Lecturer] Okay, we covered a lot of ground in probability, so let's see how Copilot can help us when we're struggling to find a probability or to solve a certain type of problem.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-probability?u=76281980&t=0)** - [Lecturer] Okay, we covered a lot of ground in [[Probability]], so let's see how [[Microsoft Copilot|Copilot]] can help us when we're struggling to find a probability or to solve a certain type of problem.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-probability?u=76281980&t=11)** And the first one that we addressed in this chapter was relating to dice, and what was the probability of rolling two dice and then getting different outcomes.
 >
@@ -5058,8 +5028,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discrete probability explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980)
+#### [Discrete probability explained](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5071,7 +5040,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=12)** Why random?
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=13)** Why do we use that word?
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=13)** Why do we use that [[Microsoft Word|word]]?
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=14)** Well, as we perform experiments, we need to understand that the value of the eventual outcome of the experiment is unknown or random.
 >
@@ -5103,7 +5072,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=92)** Again, we do not have any decimals.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=95)** This too would be a discrete probability.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=95)** This too would be a discrete [[Probability]].
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980&t=99)** So what are continuous random variables?
 >
@@ -5161,13 +5130,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), next (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.77 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980)
+#### [Discrete: Mean](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5185,7 +5153,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980&t=42)** You can't order 0.35 drinks.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980&t=46)** Let's head over to Excel and look at the data collected in this study.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980&t=46)** Let's head over to [[Microsoft Excel|Excel]] and look at the data collected in this study.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-mean?u=76281980&t=51)** As you can see, we've been given a frequency table.
 >
@@ -5247,15 +5215,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 5.4 (3), 1.8 (2), 1.77 (2), 0.35 (1), 0.64 (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-standard-deviation?u=76281980)
+#### [Discrete: Standard deviation](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5419,7 +5386,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), power (2), hit (1)
 > **Versions:** 1.77 (4), 0.67 (3), 99.7 (2), 2.87 (2), 0.5 (1)
 > **CLI Commands:** make (4), find (3)
 > **Cross-References:** previous video (1)
@@ -5427,8 +5393,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Binomial distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980)
+#### [Discrete: Binomial distribution](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5438,7 +5403,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=12)** A patient can either test positive or negative for a disease.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=16)** These are possible binomial random variables, provided we have n trials with the probability of success we call P.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=16)** These are possible binomial random variables, provided we have n trials with the [[Probability]] of success we call P.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=26)** In other words, if we take our coin and flip it four times, n is equal to 4, the number of flips.
 >
@@ -5516,7 +5481,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=214)** But this table is already a bit ugly and it only goes up to N = 4.
 >
-> **[3:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=219)** Luckily, we have Excel, and Excel can be very useful in working with binomial distributions.
+> **[3:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=219)** Luckily, we have [[Microsoft Excel|Excel]], and Excel can be very useful in working with binomial distributions.
 >
 > **[3:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-binomial-distribution?u=76281980&t=227)** So in the file you've been provided, I've already pre-populated some things in here for you.
 >
@@ -5632,7 +5597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (19), next (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Probability]] (19), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 12.8 (3), 38.4 (2), 0.3 (2), 0.50 (1), 0.55 (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Env Vars:** false (2), binom (1), dist (1), true (1)
@@ -5641,12 +5606,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Discrete probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980)
+#### [Copilot: Discrete probability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=0)** - [Instructor] All right, in this chapter, we looked at some discrete probabilities, and this is one of those areas where sometimes Copilot does pretty well.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=0)** - [Instructor] All right, in this chapter, we looked at some discrete probabilities, and this is one of those areas where sometimes [[Microsoft Copilot|Copilot]] does pretty well.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=8)** In some cases it struggles a little bit because discreet is a little bit more tricky than continuous probabilities.
 >
@@ -5708,7 +5672,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=256)** And so we want to create a binomial distribution.
 >
-> **[4:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=259)** And remember this is something we saw in a recent video here where we had probability of success, a P and number of trials, N and we came up with a binomial distribution associated with these numbers.
+> **[4:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=259)** And remember this is something we saw in a recent video here where we had [[Probability]] of success, a P and number of trials, N and we came up with a binomial distribution associated with these numbers.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-discrete-probability?u=76281980&t=274)** But let's go ahead and see if we can get something from Copilot.
 >
@@ -5748,7 +5712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Probability]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Probability]] (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -5760,8 +5724,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous: Z-score tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980)
+#### [Continuous: Z-score tables](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5807,7 +5770,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980&t=160)** 32% are outside of that range, which means we should expect about 16% of outcomes to be bigger on the positive side of the curve.
 >
-> **[2:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980&t=171)** Let's see how Excel can be useful in giving us those Z-score table values.
+> **[2:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980&t=171)** Let's see how [[Microsoft Excel|Excel]] can be useful in giving us those Z-score table values.
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980&t=179)** So here you can see that we have data for NBA player heights, and as it says at the top, we're going to assume that NBA player heights are normally distributed.
 >
@@ -5875,7 +5838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 0.99 (3), 0.8389 (2), 1.52 (2), 1.520 (2), 93.57 (2)
 > **CLI Commands:** find (9), make (1)
 > **Env Vars:** nba (7), norm (1), dist (1)
@@ -5884,14 +5847,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Continuous: Creating a normal curve in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980)
+#### [Continuous: Creating a normal curve in Excel](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=0)** - [Instructor] Throughout this course, we have seen the normal curve and the power that goes with understanding the normal distribution.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=7)** So let's go ahead and build a normal curve in Excel.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=7)** So let's go ahead and build a normal curve in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=13)** So as you can see in Excel, I've provided a foundation for you to build off of.
 >
@@ -5917,7 +5879,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=88)** First, the Z-value, which we have now in cell A3.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=94)** And the next thing, because we're going to do a cumulative probability here, we are going to type true, and that's it.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=94)** And the next thing, because we're going to do a cumulative [[Probability]] here, we are going to type true, and that's it.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-creating-a-normal-curve-in-excel?u=76281980&t=103)** And we can copy this down.
 >
@@ -6027,7 +5989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), data (4), [[Microsoft Excel|Excel]] (3), next (3), power (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (9), find (2)
 > **UI Navigation:** go to (5), select the (1), click on (1)
 > **Versions:** 0.1 (1), 2.0 (1), 0.9772 (1), 0.10 (1), 2.9 (1)
@@ -6035,8 +5997,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous: Calculating normal distribution probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980)
+#### [Continuous: Calculating normal distribution probabilities](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6066,7 +6027,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980&t=110)** That means the area we're looking for represents 62.47% of the distribution.
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980&t=118)** Let's now go to Excel to solve similar types of problems.
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980&t=118)** Let's now go to [[Microsoft Excel|Excel]] to solve similar types of problems.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-calculating-normal-distribution-probabilities?u=76281980&t=124)** Once again, I want to remind you that we're going to assume that NBA player heights are normally distributed.
 >
@@ -6176,21 +6137,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 1.5 (2), 0.5 (2), 37.53 (2), 1.63 (2), 99.7 (1)
 > **CLI Commands:** find (11), make (1)
 > **Env Vars:** nba (2), norm (1), dist (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Continuous probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980)
+#### [Copilot: Continuous probability](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=0)** - [Instructor] In this chapter, we looked at a number of different issues relating to continuous probabilities.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=5)** So what we want to do here is take a look at, what are some of the things that Copilot can help us with related to the problems that we did in this chapter?
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=5)** So what we want to do here is take a look at, what are some of the things that [[Microsoft Copilot|Copilot]] can help us with related to the problems that we did in this chapter?
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=13)** So first thing that we're going to do is we're going to see whether or not it can find z-scores for us and then interpret those z-scores, such that we know where the player is from a height perspective on a normal distribution.
 >
@@ -6230,7 +6190,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=154)** Let's move on to over here, where we wanted to create a normal distribution.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=159)** And this is something we saw in an earlier chapter, but let's go ahead and do it here again, where we will ask it to calculate the cumulative probability value for each z-score.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=159)** And this is something we saw in an earlier chapter, but let's go ahead and do it here again, where we will ask it to calculate the cumulative [[Probability]] value for each z-score.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-continuous-probability?u=76281980&t=172)** So we have z-scores over here, and they go from negative three, all the way to positive three.
 >
@@ -6300,13 +6260,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Probability]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Probability]] (5)
 > **CLI Commands:** find (4)
 > **Versions:** 1.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting ready for part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/getting-ready-for-part-two?u=76281980)
+#### [Getting ready for part two](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/getting-ready-for-part-two?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6320,7 +6279,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** exercise file (2), exercise files (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - all (1)
@@ -6330,8 +6288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sample considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980)
+#### [Sample considerations](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6341,7 +6298,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=5)** A conclusion based on evidence.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=9)** This course is largely about statistical inference, which means that in this statistics course, we'll make some evidence-based conclusions.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=9)** This course is largely about statistical inference, which means that in this [[Statistics]] course, we'll make some evidence-based conclusions.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=17)** So what will we use as evidence? Samples.
 >
@@ -6377,7 +6334,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=97)** Well, how will you choose the 250 women?
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=100)** Will you choose women that go to the doctor's office, women leaving the grocery store?
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=100)** Will you choose women that go to the doctor's [[Microsoft Office|office]], women leaving the grocery store?
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=105)** Maybe you can try phone surveys or perhaps use a paid survey.
 >
@@ -6455,7 +6412,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=281)** From the population of data we provide.
 >
-> **[4:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=284)** Luckily we have Excel and gathering a simple random sample from a population in Excel, it's actually quite simple.
+> **[4:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=284)** Luckily we have [[Microsoft Excel|Excel]] and gathering a simple random sample from a population in Excel, it's actually quite simple.
 >
 > **[4:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980&t=292)** Let's head on over to Excel to choose some random samples.
 >
@@ -6647,7 +6604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** means that (3), is a  (2), in other words (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** d229 (3)
@@ -6656,8 +6613,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### The central limit theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980)
+#### [The central limit theorem](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6691,7 +6647,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980&t=102)** The curve is getting taller and more narrow, which means a larger sample size gives us a smaller standard deviation.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980&t=112)** Let's actually see this inion by using Excel.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980&t=112)** Let's actually see this inion by using [[Microsoft Excel|Excel]].
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/the-central-limit-theorem?u=76281980&t=116)** Okay, so what are we looking at here?
 >
@@ -6841,7 +6797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (7), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** frequency (1), f20 (1), index (1), d951 (1), randbetween (1)
 > **SQL:** index (1)
 > **Versions:** 706.2 (1)
@@ -6850,8 +6806,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### t-statistic vs. z-statistic
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980)
+#### [t-statistic vs. z-statistic](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6863,7 +6818,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=19)** But most of the time, we don't have the resources to gather a sufficiently large sample and rarely do we know the population standard deviation.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=29)** Small sample sizes and no access to the population standard deviation, those are two forms of uncertainty.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=29)** Small sample sizes and no access to the population standard deviation, those are two [[Forms]] of uncertainty.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=38)** If we gather 100 samples, and each sample has a sample size of only five data points, we start to run into a problem.
 >
@@ -6913,7 +6868,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=175)** Nonetheless, even once we figure out that degrees of freedom is just n-1, this chart still doesn't look like a whole lot of fun.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=184)** But, thankfully, we have Excel.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=184)** But, thankfully, we have [[Microsoft Excel|Excel]].
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=187)** Let's head over to Excel to see the t-statistic in action.
 >
@@ -6941,7 +6896,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=257)** Well, for this we, can use a formula, NORM.S.DIST.
 >
-> **[4:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=264)** And it just says, "Tell me what the z-score is," and we want to type in true here, "Tell me what the z-score is, and I will tell you what the probability of that score is."
+> **[4:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=264)** And it just says, "Tell me what the z-score is," and we want to type in true here, "Tell me what the z-score is, and I will tell you what the [[Probability]] of that score is."
 >
 > **[4:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/t-statistic-vs-z-statistic?u=76281980&t=277)** So you can see right here, this score is 90.22% higher than all the other scores in the distribution.
 >
@@ -7113,7 +7068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), data (5), [[Microsoft Excel|Excel]] (2), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Microsoft Excel|Excel]] (2), [[Forms]] (1)
 > **Versions:** 2.5 (5), 70.8 (4), 2.093 (4), 16.4 (3), 97.5 (3)
 > **Env Vars:** norm (7), dist (7), inv (4), stdev (1)
 > **CLI Commands:** find (3), make (1)
@@ -7121,14 +7076,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Sampling concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980)
+#### [Copilot: Sampling concepts](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=0)** - [Instructor] This chapter, we looked at sampling, and we also looked at some T-scores.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=4)** So let's see how helpful Copilot can be in these particular areas.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=4)** So let's see how helpful [[Microsoft Copilot|Copilot]] can be in these particular areas.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=8)** So let's first look at sampling.
 >
@@ -7136,7 +7090,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=17)** So I'm going to put my cursor here inside of the table and let's see how it recommends.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=27)** So remember, there's many different ways to gather random samples in Excel.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=27)** So remember, there's many different ways to gather random samples in [[Microsoft Excel|Excel]].
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=31)** We looked at quite a few of them in this chapter, so it'll be interesting to see how Copilot chooses to gather a random sample.
 >
@@ -7226,7 +7180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), next (2), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.5 (4), 0.975 (1), 2.09 (1), 3.1 (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (3)
@@ -7238,8 +7192,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980)
+#### [Introduction to confidence intervals](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7303,7 +7256,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980&t=202)** In these formulas, I assumed we'd need a Z-score.
 >
-> **[3:25](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980&t=205)** Then again, we'll be using Excel.
+> **[3:25](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980&t=205)** Then again, we'll be using [[Microsoft Excel|Excel]].
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980&t=208)** So Excel will likely be doing most of the calculations for us.
 >
@@ -7313,16 +7266,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Versions:** 6.25 (3)
 > **Speakers:** - [host] (1)
 
-#### Creating confidence intervals in Excel: Proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-proportions?u=76281980)
+#### [Creating confidence intervals in Excel: Proportions](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-proportions?u=76281980&t=0)** - [Instructor] Before we jump to Excel to create confidence intervals for proportions, let's take a look at the formula and the elements of the formula that we'll use to create the upper limit and the lower limit of our confidence intervals.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-proportions?u=76281980&t=0)** - [Instructor] Before we jump to [[Microsoft Excel|Excel]] to create confidence intervals for proportions, let's take a look at the formula and the elements of the formula that we'll use to create the upper limit and the lower limit of our confidence intervals.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-proportions?u=76281980&t=13)** The formula for the upper limit is p-hat plus a z-value times the expression under the square root symbol, which is actually our sampling error.
 >
@@ -7582,7 +7534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Versions:** 0.40 (3), 2.0 (3), 2.5 (3), 0.05 (2), 1.96 (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** double-click (1), go to (1)
@@ -7590,8 +7542,7 @@ created: 2026-05-02
 > **Env Vars:** a501 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating confidence intervals in Excel: Means
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980)
+#### [Creating confidence intervals in Excel: Means](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7645,7 +7596,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=149)** Now to find our T-score.
 >
-> **[2:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=151)** Without Excel, we need to use a T-table.
+> **[2:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=151)** Without [[Microsoft Excel|Excel]], we need to use a T-table.
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=154)** Our sample size N is 25, so our degrees of freedom is N minus one, 24.
 >
@@ -7705,7 +7656,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=325)** And that means that we're going to exclude 1% on the high end and 1% on the low end.
 >
-> **[5:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=330)** So what we're looking for here in terms of our Z-score, we're going to go ahead and type in the NORM.S.INV, And our probability that we want is 0.99.
+> **[5:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=330)** So what we're looking for here in terms of our Z-score, we're going to go ahead and type in the NORM.S.INV, And our [[Probability]] that we want is 0.99.
 >
 > **[5:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=344)** Again, we're doing that because it's a 98% confidence interval.
 >
@@ -7819,7 +7770,7 @@ created: 2026-05-02
 >
 > **[10:59](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=659)** So what you can do is you can go up to our data menu, click on data analysis.
 >
-> **[11:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=666)** You find descriptive statistics in here.
+> **[11:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=666)** You find descriptive [[Statistics]] in here.
 >
 > **[11:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=669)** Click okay.
 >
@@ -7831,7 +7782,7 @@ created: 2026-05-02
 >
 > **[11:24](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=684)** What we want to do is we want to click on summary statistics and confidence level for mean.
 >
-> **[11:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=691)** Now we want a 98% confidence interval, and so we just tell Excel 98% and it'll figure out the rest for you.
+> **[11:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=691)** Now we want a 98% confidence interval, and so we just tell Excel 98% and it'll figure out the [[Representational State Transfer (REST)|rest]] for you.
 >
 > **[11:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/creating-confidence-intervals-in-excel-means?u=76281980&t=700)** Our output range, I'm going to put that right here, and this will give us our summary statistics.
 >
@@ -7859,7 +7810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), [[Probability]] (3), [[Statistics]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Probability]] (3), [[Statistics]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 2.326 (3), 1.96 (2), 0.99 (2), 30.12 (1), 41.88 (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** inv (2), d41 (1), norm (1), stdev (1)
@@ -7868,8 +7819,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
 
-#### Copilot: Confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980)
+#### [Copilot: Confidence intervals](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7977,7 +7927,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=297)** The upside is, we gave it all of our data, we told it to calculate our upper and lower limits, and it did a great job.
 >
-> **[5:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=305)** But, remember, this is Excel, and we like things to be a little flexible when possible.
+> **[5:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=305)** But, remember, this is [[Microsoft Excel|Excel]], and we like things to be a little flexible when possible.
 >
 > **[5:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=312)** And the problem here is it just did a calculation for us.
 >
@@ -7991,7 +7941,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=340)** And, remember, a t-score is something that you generally use when your sample size is a little bit smaller.
 >
-> **[5:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=347)** That being said, it'll be interesting to see whether Copilot recognizes that it should be using a t-score or whether it will just use a z-score instead.
+> **[5:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=347)** That being said, it'll be interesting to see whether [[Microsoft Copilot|Copilot]] recognizes that it should be using a t-score or whether it will just use a z-score instead.
 >
 > **[6:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-confidence-intervals?u=76281980&t=361)** So let's ask the question here, and we've put this already in a table.
 >
@@ -8031,7 +7981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Versions:** 0.52 (3), 1.96 (2), 0.8 (1), 0.07065 (1), 0.60 (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is a  (2)
@@ -8044,14 +7994,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to test a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980)
+#### [How to test a hypothesis](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980&t=0)** - [Instructor] In a trial, lawyers use evidence in an attempt to prove a person is either guilty or not guilty.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980&t=7)** So far in statistics, we've seen evidence.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980&t=7)** So far in [[Statistics]], we've seen evidence.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980&t=10)** Samples are our evidence.
 >
@@ -8101,19 +8050,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Five steps of hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980)
+#### [Five steps of hypothesis testing](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=0)** - [Instructor] Statistics help us draw sound conclusions, conclusions that are based on evidence.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=0)** - [Instructor] [[Statistics]] help us draw sound conclusions, conclusions that are based on evidence.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=6)** To do this properly, though, we need to have a fair trial.
 >
@@ -8203,7 +8151,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=226)** Next, we need to find the P-value for that test statistic.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=231)** The P-value is the probability that this outcome could occur by chance.
+> **[3:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=231)** The P-value is the [[Probability]] that this outcome could occur by chance.
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/five-steps-of-hypothesis-testing?u=76281980&t=238)** So we go to our Z-score table.
 >
@@ -8255,7 +8203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), next (3), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Probability]] (1)
 > **Versions:** 2.50 (2), 0.0062 (2), 0.9938 (1), 99.38 (1), 0.05 (1)
 > **Definitions:** means that (2), is called (1), is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -8263,8 +8211,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### One-tailed vs. two-tailed tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/one-tailed-vs-two-tailed-tests?u=76281980)
+#### [One-tailed vs. two-tailed tests](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/one-tailed-vs-two-tailed-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8352,8 +8299,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test exercise: Means
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980)
+#### [Hypothesis test exercise: Means](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8371,7 +8317,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=35)** For the dog food, an expected amount of dog food in each bag.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=41)** We will of course use Excel to perform these hypothesis tests.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=41)** We will of course use [[Microsoft Excel|Excel]] to perform these hypothesis tests.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=44)** But before we head over to Excel, let me provide you some helpful formulas.
 >
@@ -8695,7 +8641,7 @@ created: 2026-05-02
 >
 > **[14:56](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=896)** And then we just type in true 'cause we want it to be cumulative.
 >
-> **[15:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=901)** And you'll notice here that this has given us a probability of 0.0711.
+> **[15:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=901)** And you'll notice here that this has given us a [[Probability]] of 0.0711.
 >
 > **[15:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-means?u=76281980&t=912)** That's our left tail test.
 >
@@ -8743,7 +8689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Probability]] (1)
 > **Versions:** 8.5 (5), 39.59 (3), 1.91 (3), 1.55 (3), 1.5 (2)
 > **Env Vars:** dist (3), norm (1), inv (1)
 > **UI Navigation:** go to (5)
@@ -8751,8 +8697,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test exercise: Proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980)
+#### [Hypothesis test exercise: Proportions](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8762,7 +8707,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980&t=8)** In this scenario, we'll investigate whether an upcoming election is still undecided based on a recent poll of likely voters.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980&t=16)** We will, of course, use Excel to perform our hypothesis test.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980&t=16)** We will, of course, use [[Microsoft Excel|Excel]] to perform our hypothesis test.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-exercise-proportions?u=76281980&t=20)** But before we head over to Excel, let me show you a formula we'll utilize for this hypothesis test.
 >
@@ -8944,7 +8889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 0.50 (5), 1.88 (5), 0.542 (1), 0.0224 (1), 1.644 (1)
 > **Env Vars:** norm (2), sqrt (1), dist (1), inv (1), b35 (1)
 > **CLI Commands:** make (2), find (1)
@@ -8952,8 +8897,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980)
+#### [Copilot: Hypothesis testing](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8975,7 +8919,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=61)** We calculated our standard error of the mean based off of these numbers.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=66)** That being said, let's see how much of the work Copilot can do for us.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=66)** That being said, let's see how much of the work [[Microsoft Copilot|Copilot]] can do for us.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=71)** So we're going to ask a rather detailed question here.
 >
@@ -9105,11 +9049,11 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=412)** What the test statistic?
 >
-> **[6:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=413)** If you can do that, then Copilot can help you figure out the rest.
+> **[6:53](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-hypothesis-testing?u=76281980&t=413)** If you can do that, then Copilot can help you figure out the [[Representational State Transfer (REST)|rest]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.05 (5), 1.5 (3), 1.91 (3), 0.50 (3), 39.59 (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -9120,8 +9064,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanation of two population comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980)
+#### [Explanation of two population comparisons](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9163,17 +9106,16 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980&t=137)** For these men, it didn't matter which group they were in.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980&t=141)** In this chapter, we'll use Excel to help us compare two populations by performing hypothesis tests on two independent samples, and we'll do it for both proportions and means.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980&t=141)** In this chapter, we'll use [[Microsoft Excel|Excel]] to help us compare two populations by performing hypothesis tests on two independent samples, and we'll do it for both proportions and means.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** required to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two populations: Proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980)
+#### [Comparing two populations: Proportions](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9231,7 +9173,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=109)** The new drug, the placebo, they're all the same.
 >
-> **[1:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=111)** That would mean that the probability, or the proportion of people with heart attacks in group one, and the proportion of people with heart attacks in group two, that would ultimately be the same.
+> **[1:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=111)** That would mean that the [[Probability]], or the proportion of people with heart attacks in group one, and the proportion of people with heart attacks in group two, that would ultimately be the same.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=124)** So we think that p1 minus p2 is actually zero.
 >
@@ -9313,7 +9255,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=334)** And I've taken it, and I've put it over here.
 >
-> **[5:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=337)** 'Cause we want to take this piece by piece, 'cause this is going to be rather big to put into Excel.
+> **[5:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=337)** 'Cause we want to take this piece by piece, 'cause this is going to be rather big to put into [[Microsoft Excel|Excel]].
 >
 > **[5:42](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-proportions?u=76281980&t=342)** So what I'm going to do is I'm going to break this up into two parts.
 >
@@ -9437,8 +9379,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two populations: Means
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980)
+#### [Comparing two populations: Means](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9446,7 +9387,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=7)** And let's take a look at this particular scenario so we'd understand what we're looking at here.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=11)** So in this particular scenario, we have a company that has developed a simulation app, and this app is supposed to help people understand math concepts.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=11)** So in this particular scenario, we have a company that has developed a [[Simulation]] app, and this app is supposed to help people understand math concepts.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=20)** And the company tested the simulation by working with two different math classes.
 >
@@ -9600,7 +9541,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=429)** That was a lot of work.
 >
-> **[7:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=430)** Luckily though, we have Excel and Excel can do a lot of this work for us much more quickly.
+> **[7:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=430)** Luckily though, we have [[Microsoft Excel|Excel]] and Excel can do a lot of this work for us much more quickly.
 >
 > **[7:16](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/comparing-two-populations-means?u=76281980&t=436)** So let's go over to the data tab and we're going to go onto data analysis and we're going to find our Z test for two sample for means, which is what we just did.
 >
@@ -9800,7 +9741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4), data (4)
+> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4)
 > **Versions:** 151.9 (4), 140.7 (3), 0.05 (3), 1.43 (3), 35.5 (2)
 > **Definitions:** is a  (7)
 > **CLI Commands:** find (3), make (1)
@@ -9809,8 +9750,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
 
-#### Copilot: Comparing two populations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980)
+#### [Copilot: Comparing two populations](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9822,9 +9762,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=22)** One thing we've learned in this chapter is that anytime you're working with two populations, the calculations get a little bit uglier.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=30)** And even though you're in Excel and it's doing a lot of the hard work for you, it's still difficult sometimes to keep all of your calculations straight.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=30)** And even though you're in [[Microsoft Excel|Excel]] and it's doing a lot of the hard work for you, it's still difficult sometimes to keep all of your calculations straight.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=39)** So we want to see if Copilot can help us through some of those calculations.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=39)** So we want to see if [[Microsoft Copilot|Copilot]] can help us through some of those calculations.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-comparing-two-populations?u=76281980&t=45)** And we're going to see if we can ask some very specific questions to see what it comes up with.
 >
@@ -9942,7 +9882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.96 (4), 0.05 (2), 2.052 (2), 1.4263 (1), 27.9 (1)
 > **Warnings:** be careful (4)
 > **Cross-References:** previous video (1), earlier in (1), as we saw (1)
@@ -9955,8 +9895,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ANOVA: What is analysis of variance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980)
+#### [ANOVA: What is analysis of variance?](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10088,7 +10027,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980&t=347)** By the way, when you have the sum of squares within and the sum of squares between, and you add those up, you now get what's called SST, the sum squares total, or as a lot of people prefer to say, the total sum of squares.
 >
-> **[6:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980&t=364)** Now, of course we've done this the long way to begin with, but Excel allows us to do it a little bit more quickly.
+> **[6:04](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980&t=364)** Now, of course we've done this the long way to begin with, but [[Microsoft Excel|Excel]] allows us to do it a little bit more quickly.
 >
 > **[6:11](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980&t=371)** Now we want to take out all the spaces here.
 >
@@ -10172,7 +10111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** anova (6), b10 (3), sst (2), ssw (1), ssb (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Versions:** 0.05 (2)
@@ -10181,8 +10120,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test and the F-statistic
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980)
+#### [Hypothesis test and the F-statistic](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10216,7 +10154,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=91)** The F statistic is what you use in ANOVA.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=94)** And just like with the T and the Z statistic, there are going to be critical values and there are good Fs and bad F statistics.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=94)** And just like with the T and the Z statistic, there are going to be critical values and there are good Fs and bad F [[Statistics]].
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=104)** In this case right here, you can see a high F statistic, usually means a low P value, which usually means we reject null hypothesis.
 >
@@ -10248,7 +10186,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=171)** But I've done a lot of this for you.
 >
-> **[2:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=172)** And of course, Excel does all this work for you if you'd like.
+> **[2:52](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=172)** And of course, [[Microsoft Excel|Excel]] does all this work for you if you'd like.
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/hypothesis-test-and-the-f-statistic?u=76281980&t=176)** But as we begin to say to ourselves, well, are these groups the same or different?
 >
@@ -10464,7 +10402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Versions:** 0.05 (7), 5.14 (2), 7.8 (1), 11.84 (1), 0.828 (1)
 > **Env Vars:** anova (8), ssb (1), ssw (1)
 > **CLI Commands:** find (3), make (1)
@@ -10473,8 +10411,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (1)
 
-#### Copilot: ANOVA
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980)
+#### [Copilot: ANOVA](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10482,7 +10419,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980&t=8)** And we found that there's a lot of calculations, and we're really moving towards finding that F statistic.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980&t=15)** And we want to see whether or not Copilot can do some of the work for us to find that F statistic.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980&t=15)** And we want to see whether or not [[Microsoft Copilot|Copilot]] can do some of the work for us to find that F statistic.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-anova?u=76281980&t=22)** And so we have a very small group here, three groups, and each group has three data points.
 >
@@ -10606,7 +10543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** find (7)
 > **Env Vars:** anova (2)
 > **Cross-References:** previous video (1)
@@ -10618,12 +10555,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980)
+#### [What is regression?](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=0)** - [Instructor] Linear regression analysis is a statistical attempt to understand the relationship between two variables.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=0)** - [Instructor] [[Linear Regression]] analysis is a statistical attempt to understand the relationship between two variables.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=7)** For example, what's the relationship between the miles on a certain type of car and the value of that car?
 >
@@ -10647,7 +10583,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=61)** The data would then be plotted on a scatter chart.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=65)** This is where Excel comes into play.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=65)** This is where [[Microsoft Excel|Excel]] comes into play.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980&t=68)** We'll be using Excel to help us create a line that best fits our data points.
 >
@@ -10695,19 +10631,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2)
 > **Analogies:** for example (1), just like (1)
 > **Versions:** 0.10 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/regression-terminology?u=76281980)
+#### [Regression terminology](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/regression-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/regression-terminology?u=76281980&t=0)** - [Narrator] Before we perform a regression in Excel, let's get acquainted with some terms you'll be seeing in the regression results Excel will provide you.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/regression-terminology?u=76281980&t=0)** - [Narrator] Before we perform a regression in [[Microsoft Excel|Excel]], let's get acquainted with some terms you'll be seeing in the regression results Excel will provide you.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/regression-terminology?u=76281980&t=8)** The first thing we want to understand is the formula of our regression line, y = mx + b.
 >
@@ -10781,18 +10716,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Definitions:** is a  (4), is called (2), is an  (1), means that (1)
 > **Versions:** 1.0 (1), 0.75 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linear regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/linear-regressions?u=76281980)
+#### [Linear regressions](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/linear-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/linear-regressions?u=76281980&t=0)** - [Instructor] All right, so let's run some basic linear regressions using Excel.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/linear-regressions?u=76281980&t=0)** - [Instructor] All right, so let's run some basic linear regressions using [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/linear-regressions?u=76281980&t=5)** And you can see I've set up a number of worksheets here.
 >
@@ -11098,7 +11032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** nba (4), nfl (2), anova (1)
@@ -11107,8 +11041,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980)
+#### [Copilot: Linear regression](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11116,7 +11049,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980&t=12)** And so what we want to do is we want to see if we can recreate our regression line, and also the formula associated with the regression line, as well as our R-squared.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980&t=23)** Those were things that we discovered in this chapter, so let's see if we can do that with the help of Copilot.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980&t=23)** Those were things that we discovered in this chapter, so let's see if we can do that with the help of [[Microsoft Copilot|Copilot]].
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-linear-regression?u=76281980&t=31)** Let's first ask.
 >
@@ -11168,7 +11101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), prompt (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3)
 > **UI Navigation:** click on (3), go to (2), right-click (2), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
@@ -11180,12 +11113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business simulation example
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980)
+#### [Business simulation example](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980&t=0)** - [Instructor] All right, in the previous video, we learned a really basic use for Monte Carlo simulation.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980&t=0)** - [Instructor] All right, in the previous video, we learned a really basic use for Monte Carlo [[Simulation]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980&t=7)** In this case, we're going to do something that's slightly more difficult, slightly a little, probably a little bit more business-oriented, and hopefully a little more interesting to you.
 >
@@ -11363,7 +11295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (5), data (4), business (2), hit (2)
+> **Frameworks & Libraries:** [[Simulation]] (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (1), means that (1)
@@ -11371,16 +11303,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot: Simulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980)
+#### [Copilot: Simulations](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=0)** - [Instructor] In this chapter, we saw how Monte Carlo simulations can be helpful and how we build them in Excel and using random numbers and then running them a number of different times, creating tables, and then reading all that.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=0)** - [Instructor] In this chapter, we saw how Monte Carlo simulations can be helpful and how we build them in [[Microsoft Excel|Excel]] and using random numbers and then running them a number of different times, creating tables, and then reading all that.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=15)** But we want to see if we don't know how to run a Monte Carlo simulation, how would we do that?
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=15)** But we want to see if we don't know how to run a Monte Carlo [[Simulation]], how would we do that?
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=21)** Now, once again, Copilot may be helpful in this area, but with Monte Carlo simulations, one of the most important things is designing the experiment which you want to test hundreds, if not thousands of times.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=21)** Now, once again, [[Microsoft Copilot|Copilot]] may be helpful in this area, but with Monte Carlo simulations, one of the most important things is designing the experiment which you want to test hundreds, if not thousands of times.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-simulations?u=76281980&t=40)** So we're going to keep things simple and we're going to see if Copilot can help us develop the Monte Carlo simulation for a simple experiment.
 >
@@ -11444,26 +11375,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Excel statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980)
+#### [Continue learning Excel statistics](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=0)** - Congrats.
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=1)** Stats, Excel, you did it.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=1)** Stats, [[Microsoft Excel|Excel]], you did it.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=3)** You established a foundation, an important foundation because spreadsheets and stats are everywhere.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=10)** First, you tackle descriptive statistics and probability and then you explored intimidating topics like hypothesis tests, ANOVA, regression, Monte Carlo simulations and you've done it all in Excel and Copilot.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=10)** First, you tackle descriptive [[Statistics]] and [[Probability]] and then you explored intimidating topics like hypothesis tests, ANOVA, regression, Monte Carlo simulations and you've done it all in Excel and [[Microsoft Copilot|Copilot]].
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=27)** For organizations that value data and are curious about what the data indicates, you've now developed some special skills they value.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=37)** That said, we just cracked the surface.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=40)** There are plenty more statistics courses in the LinkedIn Learning Library.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=40)** There are plenty more statistics courses in the [[LinkedIn]] Learning Library.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=44)** You could dig in deeper in Excel or you can explore tools like SPSS and if you really want to impress the boss, dive into courses on analytics and keep plugging away at Copilot and if stats in Excel are your new obsession, maybe it's time for you to consider a career in data science.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=44)** You could dig in deeper in Excel or you can explore tools like SPSS and if you really want to impress the boss, dive into courses on analytics and keep plugging away at Copilot and if stats in Excel are your new obsession, maybe it's time for you to consider a career in [[Data Science]].
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980&t=68)** The world could use your help.
 >
@@ -11471,7 +11401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Statistics]] (2), [[Microsoft Copilot|Copilot]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Copilot|Copilot]] (2), [[Probability]] (1), [[LinkedIn]] (1)
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 

@@ -109,12 +109,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet Laravel
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
+#### [Meet Laravel](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980&t=0)** Laravel is an open source web FrameWork, one of the most popular among PHP developers currently.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980&t=0)** [[Laravel]] is an open source web FrameWork, one of the most popular among [[PHP]] developers currently.
 >
 > **[0:06](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980&t=6)** It provides a structure and a starting point for your application, so you can focus on building something awesome instead of sweating the details.
 >
@@ -132,25 +131,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), web (3), [[PHP]] (3), application (1), career (1)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (3)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Definitions:** is an  (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=0)** Before you proceed with this course, you should have a good understanding of HTML and should have worked with core PHP before.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=0)** Before you proceed with this course, you should have a good understanding of [[HTML]] and should have worked with core [[PHP]] before.
 >
-> **[0:08](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=8)** You should also be familiar with object oriented concepts and have some working knowledge of databases like MySQL or SQLite.
+> **[0:08](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=8)** You should also be familiar with object oriented concepts and have some working knowledge of [[Databases]] like [[MySQL]] or SQLite.
 >
-> **[0:16](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=16)** It's also nice to have a good understanding of HTTP requests, but not an absolute requirement. If you know the concepts of MVC architecture, short for Model View Controller, you will be able to pick up Laravel concepts much faster, but even this is not an absolute requirement.
+> **[0:16](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=16)** It's also nice to have a good understanding of HTTP requests, but not an absolute requirement. If you know the concepts of MVC architecture, short for Model View Controller, you will be able to pick up [[Laravel]] concepts much faster, but even this is not an absolute requirement.
 >
 > **[0:35](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=35)** Apart from these knowledge requirements, I recommend having a dedicated computer or a laptop with a good internet connection for a seamless learning experience.
 >
-> **[0:45](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=45)** You also need a GitHub account to practice building along with the course.
+> **[0:45](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=45)** You also need a [[GitHub]] account to practice building along with the course.
 >
 > **[0:49](https://www.linkedin.com/learning/laravel-essential-training/what-you-should-know?u=76281980&t=49)** If you don't have one already, create it before you move further.
 >
@@ -164,18 +162,17 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Definitions:** short for (1)
 
-#### Understand the MVC architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980)
+#### [Understand the MVC architecture](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=0)** Laravel FrameWork is largely based on the MVC architecture.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=0)** [[Laravel]] FrameWork is largely based on the MVC architecture.
 >
 > **[0:05](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=5)** MVC is a way of building a huge application by splitting it into three parts: models, views, and controllers.
 >
 > **[0:13](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=13)** This makes maintaining the application easy as it grows and avoids repetition of code, along with a few other benefits.
 >
-> **[0:21](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=21)** The model contains all the logic related to the application's data, like the schemas, the databases, and their fields.
+> **[0:21](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=21)** The model contains all the logic related to the application's data, like the schemas, the [[Databases]], and their fields.
 >
 > **[0:30](https://www.linkedin.com/learning/laravel-essential-training/understand-the-mvc-architecture?u=76281980&t=30)** This is the part where you write the code to interact with the database.
 >
@@ -197,18 +194,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (3), database (2), web (2), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[Databases]] (1)
 > **Env Vars:** mvc (2)
 > **Definitions:** is a  (1)
 
-#### Using Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980)
+#### [Using Codespaces with this course](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=0)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=0)** [[Codespaces]] is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:05](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=5)** This entire course is created using GitHub Codespaces, so that you can practice along with me from wherever you are without having to install anything in your system.
+> **[0:05](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=5)** This entire course is created using [[GitHub]] Codespaces, so that you can practice along with me from wherever you are without having to install anything in your system.
 >
 > **[0:16](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=16)** To get started, you can create a Codespace directly from the Course Interface page.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=142)** The moment you start a new code space, you will get a unique URL.
 >
-> **[2:27](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=147)** This will become the app URL for Laravel.
+> **[2:27](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=147)** This will become the app URL for [[Laravel]].
 >
 > **[2:32](https://www.linkedin.com/learning/laravel-essential-training/using-codespaces-with-this-course?u=76281980&t=152)** So if you are developing locally on your system, this will always be localhost, so there's no problem.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (8), cloud (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (8), [[Laravel]] (1)
 > **Tools:** github (8), visual studio (2)
 > **Env Vars:** url (8)
 > **UI Navigation:** click on (3), switch to (3)
@@ -318,12 +314,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Serve the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
+#### [Serve the application](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=0)** Whether you're working with Codespaces or using an IDE of your choice in your local dev environment, this is the starting point of your Laravel application.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=0)** Whether you're working with [[Codespaces]] or using an IDE of your choice in your local dev environment, this is the starting point of your [[Laravel]] application.
 >
 > **[0:09](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=9)** You will see the same set of files and folders in a fresh Laravel app.
 >
@@ -335,9 +330,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=23)** Any more I will use the keyboard shortcut command J to open or close this terminal.
 >
-> **[0:30](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=30)** If you're on windows, the shortcut might be Ctrl+J.
+> **[0:30](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=30)** If you're on [[Windows]], the shortcut might be Ctrl+J.
 >
-> **[0:33](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=33)** Now run the command php artisan serve The server is now running.
+> **[0:33](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=33)** Now run the command [[PHP]] artisan serve The server is now running.
 >
 > **[0:41](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980&t=41)** You can visit this URL in your browser by pressing the command key on Mac, or Ctrl key on Windows and clicking on it.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (8), [[PHP]] (7), [[Codespaces]] (2), application (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[PHP]] (7), [[Codespaces]] (2), [[Windows]] (2)
 > **CLI Commands:** php (7), make (2), docker (1)
 > **Tools:** terminal (4), command line (1)
 > **Env Vars:** php (2), ide (1), url (1)
@@ -384,16 +379,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Handle routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980)
+#### [Handle routing](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=0)** We are looking at a new Laravel application.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=0)** We are looking at a new [[Laravel]] application.
 >
 > **[0:03](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=3)** Now it's time we look at the code, find out where this content is located and make some edits.
 >
-> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=9)** This is Visual Studio Code within Codespaces, you can use an IDE of your choice if you're developing locally outside of Codespaces.
+> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=9)** This is Visual Studio Code within [[Codespaces]], you can use an IDE of your choice if you're developing locally outside of Codespaces.
 >
 > **[0:17](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=17)** This is your Laravel app code base.
 >
@@ -403,13 +397,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=32)** The very first thing we find out is where this content is being fetched from.
 >
-> **[0:37](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=37)** In a core.php project, you need to have an index.php that is fetched when you type localhost or access the root URL.
+> **[0:37](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=37)** In a core.[[PHP]] project, you need to have an index.php that is fetched when you type localhost or access the root URL.
 >
 > **[0:47](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=47)** You can find that index.php within the public folder, right here, but you cannot immediately make sense of anything in this.
 >
 > **[0:58](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=58)** Right?
 >
-> **[0:58](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=58)** So where is the HTML content that is shown here, coming from? Laravel, just like any other frameworks, has routes, they are defined in a routes file located in the routes directory which is here.
+> **[0:58](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=58)** So where is the [[HTML]] content that is shown here, coming from? Laravel, just like any other frameworks, has routes, they are defined in a routes file located in the routes directory which is here.
 >
 > **[1:12](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=72)** You can see two files here, but web.php is the only one we are going to use in this course.
 >
@@ -421,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=94)** This is exactly the page we are seeing on the browser.
 >
-> **[1:38](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=98)** To verify, Let's search for this word Laracasts here and change it to something else.
+> **[1:38](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=98)** To verify, Let's search for this [[Microsoft Word|word]] Laracasts here and change it to something else.
 >
 > **[1:44](https://www.linkedin.com/learning/laravel-essential-training/handle-routing?u=76281980&t=104)** Here we go.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), web (4), [[Laravel]] (3), [[Codespaces]] (2), application (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Laravel]] (3), [[Codespaces]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (6), find (3), make (2)
 > **File Paths:** web.php (3), index.php (2), core.php (1)
 > **Env Vars:** url (4), ide (1), html (1)
@@ -456,20 +450,19 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 
-#### Creating a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980)
+#### [Creating a view](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=0)** We just saw that a route returns a view.
 >
-> **[0:03](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=3)** We can even return any HTML code within this function, like return H1 Welcome or something like that.
+> **[0:03](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=3)** We can even return any [[HTML]] code within this function, like return H1 Welcome or something like that.
 >
 > **[0:14](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=14)** Go to the browser, refresh the page and you see the HTML right here.
 >
 > **[0:19](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=19)** But since we cannot practically return entire HTML for entire pages like this, we use separate files called Views.
 >
-> **[0:29](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=29)** Views are located in the resources directory in the views directory welcome.blade.php This is the one we opened earlier.
+> **[0:29](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=29)** Views are located in the resources directory in the views directory welcome.blade.[[PHP]] This is the one we opened earlier.
 >
 > **[0:40](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=40)** Now let's carefully look at the code here.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=63)** All of this is blade syntax.
 >
-> **[1:05](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=65)** Blade is a templating engine used in Laravel.
+> **[1:05](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=65)** Blade is a templating engine used in [[Laravel]].
 >
 > **[1:08](https://www.linkedin.com/learning/laravel-essential-training/creating-a-view?u=76281980&t=68)** Before we talk about blade in detail, let's create another view by creating another view file here.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (5), [[Laravel]] (3), web (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (5), [[Laravel]] (3)
 > **CLI Commands:** php (11)
 > **Env Vars:** html (5), url (1), php (1)
 > **File Paths:** home.blade.php (2), welcome.blade.php (1), blade.php (1), web.php (1)
@@ -558,12 +551,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Building layouts with Blade
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/building-layouts-with-blade?u=76281980)
+#### [Building layouts with Blade](https://www.linkedin.com/learning/laravel-essential-training/building-layouts-with-blade?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/building-layouts-with-blade?u=76281980&t=0)** Blade templates are not only helpful for displaying data and replacing common PHP structures, we can also use them to build and maintain layouts in Laravel.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/building-layouts-with-blade?u=76281980&t=0)** Blade templates are not only helpful for displaying data and replacing common [[PHP]] structures, we can also use them to build and maintain layouts in [[Laravel]].
 >
 > **[0:11](https://www.linkedin.com/learning/laravel-essential-training/building-layouts-with-blade?u=76281980&t=11)** Most web applications have the same generic layout across various pages like header, navigation bar, sidebar, and footer.
 >
@@ -731,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), web (3), [[Laravel]] (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Laravel]] (2)
 > **CLI Commands:** php (9)
 > **File Paths:** home.blade.php (4), base.blade.php (2), about.blade.php (1), web.php (1)
 > **UI Navigation:** go to (6)
@@ -739,8 +731,7 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Analogies:** similar to (1)
 
-#### Working with controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980)
+#### [Working with controllers](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,11 +745,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=26)** We use controllers to group related logic into a single class. By default, controllers are stored within the App\Http\Controllers directory.
 >
-> **[0:38](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=38)** This is just a default controller created by Laravel for you.
+> **[0:38](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=38)** This is just a default controller created by [[Laravel]] for you.
 >
 > **[0:42](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=42)** Now let's create a new controller using the artisan command.
 >
-> **[0:47](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=47)** php artisan make:controller.
+> **[0:47](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=47)** [[PHP]] artisan make:controller.
 >
 > **[0:51](https://www.linkedin.com/learning/laravel-essential-training/working-with-controllers?u=76281980&t=51)** Now in the older versions you had to pass more parameters here in this command to create controllers or models.
 >
@@ -812,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (2), [[PHP]] (2), hit (1)
+> **Frameworks & Libraries:** [[Laravel]] (2), [[PHP]] (2)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** php (1)
 > **Cross-References:** go back to (1)
@@ -820,8 +811,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Create a controller and a view, then add a route
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980)
+#### [Challenge: Create a controller and a view, then add a route](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980&t=22)** Each challenge in the course is explained in a video like this one.
 >
-> **[0:26](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980&t=26)** You need to first switch to the correct branch in Codespaces.
+> **[0:26](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980&t=26)** You need to first switch to the correct branch in [[Codespaces]].
 >
 > **[0:30](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-a-controller-a-view-and-add-a-route?u=76281980&t=30)** The challenge branches are named like 01 challenge, 02 challenge, and so on, starting with the chapter number you're currently in.
 >
@@ -853,13 +843,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (1), next (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1)
 > **UI Navigation:** switch to (2), go to (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Env Vars:** url (1)
 
-#### Solution: Create a controller and a view, then add a route
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980)
+#### [Solution: Create a controller and a view, then add a route](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,9 +856,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=7)** The first task is to create a blade view.
 >
-> **[0:10](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=10)** Navigate to the Resources directory, Views, create a new file and call it greeting.blade.php.
+> **[0:10](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=10)** Navigate to the Resources directory, Views, create a new file and call it greeting.blade.[[PHP]].
 >
-> **[0:19](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=19)** I'll add the basic HTML structure and create a paragraph that says Hello World!
+> **[0:19](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=19)** I'll add the basic [[HTML]] structure and create a paragraph that says Hello World!
 >
 > **[0:28](https://www.linkedin.com/learning/laravel-essential-training/solution-create-a-controller-a-view-and-add-a-route?u=76281980&t=28)** All right, now we need a new controller. So I will run the command php artisan make:controller.
 >
@@ -899,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** url (2), html (1)
 > **File Paths:** greeting.blade.php (1), web.php (1)
@@ -911,14 +900,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Laravel configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
+#### [Understand Laravel configuration](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=0)** Every application has a bunch of configuration values that need to be accessed from different files all across the application, like the name of the app, database credentials, mail service credentials, and so on.
 >
-> **[0:13](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=13)** To help manage all these environment variables, Laravel has a .env file at the root of the application.
+> **[0:13](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=13)** To help manage all these environment variables, [[Laravel]] has a .env file at the root of the application.
 >
 > **[0:21](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=21)** These are some app-related variables like name, environment, application key, which is unique to each project, then the app debug value, which determines how much of the error information should be displayed to the user.
 >
@@ -928,11 +916,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=56)** Here is a set of database credentials including the type of connection, username, password.
 >
-> **[1:03](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=63)** If you're using version control like git, you need to note that this file should not be committed to your repository.
+> **[1:03](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=63)** If you're using [[Version Control]] like [[Git]], you need to note that this file should not be committed to your repository.
 >
 > **[1:10](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=70)** You have to add this file to gitignore.
 >
-> **[1:14](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=74)** It's not added here because I'm using Codespaces and the environment file is very much needed.
+> **[1:14](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=74)** It's not added here because I'm using [[Codespaces]] and the environment file is very much needed.
 >
 > **[1:20](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=80)** But if you install a new Laravel application in your local development environment, you will see that this .env file is already added in gitignore.
 >
@@ -944,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=131)** Now, the values of these .env file are retrieved from various files within the config directory.
 >
-> **[2:19](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=139)** Look at database.php, for example.
+> **[2:19](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=139)** Look at database.[[PHP]], for example.
 >
 > **[2:23](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980&t=143)** The env helper method returns the value of this key from the .env file.
 >
@@ -974,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[PHP]] (4), database (3), [[Laravel]] (3), data (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Laravel]] (3), [[Version Control]] (1), [[Git]] (1), [[Codespaces]] (1)
 > **CLI Commands:** php (4), git (1), make (1)
 > **File Paths:** app.php (2), database.php (1), welcome.blade.php (1)
 > **Analogies:** for example (2), similar to (1)
@@ -983,14 +971,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 
-#### Working with the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980)
+#### [Working with the database](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=0)** In this course, we will use a MySQL database with Laravel.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=0)** In this course, we will use a [[MySQL]] database with [[Laravel]].
 >
-> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=4)** This default configuration is ready to work with Laravel Sail, which is what we are using within Codespaces.
+> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=4)** This default configuration is ready to work with Laravel Sail, which is what we are using within [[Codespaces]].
 >
 > **[0:11](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=11)** So if you're working locally using Herd, this might look slightly different to you, but you don't have to change the defaults.
 >
@@ -1036,15 +1023,15 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=135)** You can type in any ID, any name, and email.
 >
-> **[2:21](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=141)** Insert this column and create another user like 2, John,
+> **[2:21](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=141)** Insert this column and create another user like 2, [[John the Ripper|John]],
 >
 > **[2:30](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=150)** john@[example.com](https://example.com).
 >
-> **[2:33](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=153)** Now from within our Laravel application, let's execute some raw SQL queries to fetch this data.
+> **[2:33](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=153)** Now from within our Laravel application, let's execute some raw [[SQL]] queries to [[Fetch]] this data.
 >
 > **[2:40](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=160)** Close this.
 >
-> **[2:41](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=161)** Close this as well, and open web.php.
+> **[2:41](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=161)** Close this as well, and open web.[[PHP]].
 >
 > **[2:47](https://www.linkedin.com/learning/laravel-essential-training/working-with-the-database?u=76281980&t=167)** Let's reuse this route.
 >
@@ -1122,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[Laravel]] (9), [[MySQL]] (3), [[SQL]] (3), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[Laravel]] (9), [[MySQL]] (3), [[SQL]] (3), [[Fetch]] (3), [[Codespaces]] (2)
 > **Code Identifiers:** email_verified (1), remember_token (1), created_at (1), updated_at (1), whereall (1)
 > **UI Navigation:** click on (4), open the (2), right-click (1)
 > **Env Vars:** sql (3), orm (2), gui (1)
@@ -1131,8 +1118,7 @@ created: 2026-05-02
 > **File Paths:** web.php (1)
 > **URLs:** [example.com](https://example.com) (1)
 
-#### Creating and running migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980)
+#### [Creating and running migrations](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,11 +1126,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=10)** But in production, creating tables manually is definitely not the best approach.
 >
-> **[0:15](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=15)** Migrations in Laravel help creating and modifying table structures, acting like version control.
+> **[0:15](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=15)** Migrations in [[Laravel]] help creating and modifying table structures, acting like [[Version Control]].
 >
 > **[0:22](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=22)** So let's create a new student's table using migrations.
 >
-> **[0:27](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=27)** Open terminal and type the command php artisan make:migration and specify the name of the migration like let's say create_students_table.
+> **[0:27](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=27)** Open terminal and type the command [[PHP]] artisan make:migration and specify the name of the migration like let's say create_students_table.
 >
 > **[0:40](https://www.linkedin.com/learning/laravel-essential-training/creating-and-running-migrations?u=76281980&t=40)** This could be any name, but this particular name will help Laravel understand that you're trying to create a student's table.
 >
@@ -1200,25 +1186,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), database (2), [[PHP]] (2), hit (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (2), [[Version Control]] (1)
 > **Code Identifiers:** create_students_table (1), created_at (1), updated_at (1), password_reset_tokens (1)
 > **CLI Commands:** php (2), make (1)
 > **Tools:** terminal (2)
 > **Env Vars:** gui (1)
 > **UI Navigation:** click on (1)
 
-#### Creating models and using Eloquent
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980)
+#### [Creating models and using Eloquent](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=0)** Laravel's Eloquent feature makes it easy and fun to interact with databases.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=0)** [[Laravel]]'s Eloquent feature makes it easy and fun to interact with [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=5)** Each table in the database is associated with an Eloquent Model.
 >
 > **[0:10](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=10)** Through these models, we can retrieve, insert, update, and delete the records from the database.
 >
-> **[0:20](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=20)** Open the terminal and let's create a model using the command php artisan make:model, followed by the name of the model.
+> **[0:20](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=20)** Open the terminal and let's create a model using the command [[PHP]] artisan make:model, followed by the name of the model.
 >
 > **[0:31](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=31)** By convention, this name should be similar to the table name, but should start with an uppercase and be singular.
 >
@@ -1234,7 +1219,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=66)** Let's look at our students table and refresh.
 >
-> **[1:11](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=71)** I have inserted some dummy data to be able to fetch them.
+> **[1:11](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=71)** I have inserted some dummy data to be able to [[Fetch]] them.
 >
 > **[1:15](https://www.linkedin.com/learning/laravel-essential-training/creating-models-and-using-eloquent?u=76281980&t=75)** You can do the same.
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[PHP]] (2), [[Fetch]] (2), next (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Fetch]] (2), [[Laravel]] (1), [[Databases]] (1)
 > **CLI Commands:** php (2), make (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** similar to (1), just like (1)
@@ -1313,8 +1298,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Create a migration to add a column and update a row
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980)
+#### [Challenge: Create a migration to add a column and update a row](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,11 +1306,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=6)** Create a migration to update the "students" table we created in one of the previous videos to add an additional column "status" of type "string".
 >
-> **[0:16](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=16)** You might have to search the Laravel official documentation to see how this is done.
+> **[0:16](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=16)** You might have to search the [[Laravel]] official documentation to see how this is done.
 >
 > **[0:21](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=21)** Run the migration after creating it.
 >
-> **[0:23](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=23)** Now use Eloquent to get the student where the email is john@[example.com](https://example.com).
+> **[0:23](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=23)** Now use Eloquent to get the student where the email is [[John the Ripper|john]]@[example.com](https://example.com).
 >
 > **[0:30](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=30)** Update this student's status as "active" and save the model.
 >
@@ -1338,12 +1322,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Laravel]] (1), database (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[John the Ripper|John]] (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Env Vars:** gui (1)
 
-#### Solution: Create a migration to add a column and update a row
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980)
+#### [Solution: Create a migration to add a column and update a row](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1355,13 +1338,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=13)** The first task is to create a new migration to update the table.
 >
-> **[0:18](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=18)** Let's create this migration using the command php artisan make:migration.
+> **[0:18](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=18)** Let's create this migration using the command [[PHP]] artisan make:migration.
 >
 > **[0:24](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=24)** Let's call it update_students_table.
 >
 > **[0:29](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=29)** Here's the migration file created for us.
 >
-> **[0:33](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=33)** Open it and now go to Laravel documentation, [laravel.com](https://laravel.com), documentation.
+> **[0:33](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=33)** Open it and now go to [[Laravel]] documentation, [laravel.com](https://laravel.com), documentation.
 >
 > **[0:40](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=40)** And on the left, scroll down to find Database: Migrations.
 >
@@ -1389,7 +1372,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=93)** We do have a new status column.
 >
-> **[1:35](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=95)** All right, let's go back to the routes file and first find the model where the email is john@[example.com](https://example.com).
+> **[1:35](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=95)** All right, let's go back to the routes file and first find the model where the email is [[John the Ripper|john]]@[example.com](https://example.com).
 >
 > **[1:45](https://www.linkedin.com/learning/laravel-essential-training/solution-create-migration-to-add-a-column-and-update-a-row?u=76281980&t=105)** So $student equals, use the student model.
 >
@@ -1417,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[PHP]] (2), [[Laravel]] (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (2), [[John the Ripper|John]] (2)
 > **CLI Commands:** find (5), php (2), make (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **URLs:** [example.com](https://example.com) (2), [laravel.com](https://laravel.com) (1)
@@ -1430,16 +1413,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the project requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
+#### [Understand the project requirements](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=0)** Learning is incomplete without hands-on experience.
 >
-> **[0:03](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=3)** We now have the basic understanding of Laravel to start working on a simple project.
+> **[0:03](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=3)** We now have the basic understanding of [[Laravel]] to start working on a simple project.
 >
-> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=9)** The rest of this course is dedicated to creating a simple note-taking web application, which we call LiteNotes.
+> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=9)** The [[Representational State Transfer (REST)|rest]] of this course is dedicated to creating a simple note-taking web application, which we call LiteNotes.
 >
 > **[0:18](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980&t=18)** Let's look at the features of the app we will be building.
 >
@@ -1521,19 +1503,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (1), [[Representational State Transfer (REST)|Rest]] (1), web application (1), node (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** node (1), find (1)
 > **Cross-References:** go back to (1)
 
-#### Add authentication with Laravel Breeze
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980)
+#### [Add authentication with Laravel Breeze](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=0)** To build our LiteNotes app, we are starting with a new Laravel project.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=0)** To build our LiteNotes app, we are starting with a new [[Laravel]] project.
 >
-> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=4)** If you want to follow along practicing in your local setup without using Codespaces, create a new Laravel app called LiteNotes.
+> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=4)** If you want to follow along practicing in your local setup without using [[Codespaces]], create a new Laravel app called LiteNotes.
 >
 > **[0:13](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=13)** If you're using Codespaces, switch to the main branch or switch to the branch 03_02.
 >
@@ -1567,7 +1548,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=86)** This might take a while.
 >
-> **[1:30](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=90)** Once done, let's use the command php artisan breeze:install
+> **[1:30](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=90)** Once done, let's use the command [[PHP]] artisan breeze:install
 >
 > **[1:38](https://www.linkedin.com/learning/laravel-essential-training/add-authentication-with-laravel-breeze?u=76281980&t=98)** to install it.
 >
@@ -1659,7 +1640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (4), css (3), [[PHP]] (3), [[Codespaces]] (2), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (4), [[PHP]] (3), [[Codespaces]] (2)
 > **CLI Commands:** php (3), make (1), node (1), find (1)
 > **UI Navigation:** switch to (2), go to (2), open the (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
@@ -1668,8 +1649,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Adding styles to the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980)
+#### [Adding styles to the project](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,7 +1659,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=6)** So let's remove all of this from welcome view.
 >
-> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=9)** Go to welcome.blade.php.
+> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=9)** Go to welcome.blade.[[PHP]].
 >
 > **[0:13](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=13)** We don't need any of these styles, so let's remove that.
 >
@@ -1711,7 +1691,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=87)** And notice this line here.
 >
-> **[1:31](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=91)** Even if you don't know what this @vite directive is, we can understand that a CSS file and a JS file is being loaded into this layout. Vite is a modern build tool that Laravel uses for bundling the assets in production.
+> **[1:31](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=91)** Even if you don't know what this @vite directive is, we can understand that a CSS file and a JS file is being loaded into this layout. Vite is a modern build tool that [[Laravel]] uses for bundling the assets in production.
 >
 > **[1:48](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=108)** So we can simply use this @vite directive in any of our views and drop in our CSS and JS files, and Vite will take care of building it for us.
 >
@@ -1757,9 +1737,9 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=247)** But how do we refresh the styles in the browser?
 >
-> **[4:10](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=250)** In development, you can use the command npm run dev to make Vite compile the CSS and JS for the local dev environment.
+> **[4:10](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=250)** In development, you can use the command [[npm]] run dev to make Vite compile the CSS and JS for the local dev environment.
 >
-> **[4:19](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=259)** But since we're using Codespaces, it's a little tricky to make this work.
+> **[4:19](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=259)** But since we're using [[Codespaces]], it's a little tricky to make this work.
 >
 > **[4:23](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=263)** So I will use npm run build which is actually used for production.
 >
@@ -1769,7 +1749,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=273)** And yes, we do have all the changes we made, but every time we make a change we want to rebuild the CSS.
 >
-> **[4:40](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=280)** For this, we can create another command called watch in our package.json file. Go to package.json file and after build, add another script called watch.
+> **[4:40](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=280)** For this, we can create another command called watch in our package.[[JSON]] file. Go to package.json file and after build, add another script called watch.
 >
 > **[4:55](https://www.linkedin.com/learning/laravel-essential-training/adding-styles-to-the-project?u=76281980&t=295)** And this would be same as vite build, but we are also watching the files at the same time.
 >
@@ -1821,7 +1801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[PHP]] (3), [[npm]] (3), [[Laravel]] (2), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[npm]] (3), [[Laravel]] (2), [[Codespaces]] (2), [[JSON]] (2)
 > **CLI Commands:** make (5), php (3), npm (3)
 > **UI Navigation:** go to (6), scroll down (2), navigate to (1), open the (1), scroll up (1)
 > **Env Vars:** css (10)
@@ -1830,14 +1810,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Create the first model, migration, controller, and routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980)
+#### [Create the first model, migration, controller, and routes](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=0)** We are creating a notes taking app, so we clearly need a notes table and a corresponding note model.
 >
-> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=7)** So let's create the note model using the command php artisan make:model.
+> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=7)** So let's create the note model using the command [[PHP]] artisan make:model.
 >
 > **[0:15](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=15)** You'll be prompted to type in the name of the model.
 >
@@ -1901,7 +1880,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=155)** So you can go to app, HTTP, controllers, NoteController, and look at this.
 >
-> **[2:43](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=163)** Laravel has created the index method, create, store, show, edit, update, and destroy. All of the actions that we need to perform on our notes.
+> **[2:43](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=163)** [[Laravel]] has created the index method, create, store, show, edit, update, and destroy. All of the actions that we need to perform on our notes.
 >
 > **[2:55](https://www.linkedin.com/learning/laravel-essential-training/create-the-first-model-migration-controller-and-routes?u=76281980&t=175)** This saves us a lot of time.
 >
@@ -1915,21 +1894,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), hit (2), database (2), data (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** http (1), crud (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** known as (1)
 
-#### Register resource routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980)
+#### [Register resource routes](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=0)** Before we start adding functionality to these controller actions, we need routes to call each of these actions.
 >
-> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=7)** So go to the routes file, web.php.
+> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=7)** So go to the routes file, web.[[PHP]].
 >
 > **[0:11](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=11)** Here, we first need a get route to show all of the notes that points
 >
@@ -1959,7 +1937,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=95)** We want all these routes to be available only to logged in users, right?
 >
-> **[1:40](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=100)** So let's add the auth middleware here, middleware ('auth'). The moment we add these, Laravel will make sure that none of these routes are available without login.
+> **[1:40](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=100)** So let's add the auth middleware here, middleware ('auth'). The moment we add these, [[Laravel]] will make sure that none of these routes are available without login.
 >
 > **[1:51](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=111)** Let's verify.
 >
@@ -2025,7 +2003,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=262)** Authentication test, email verification test, and then the registration test. Done.
 >
-> **[4:33](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=273)** The rest of it will be modified.
+> **[4:33](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=273)** The [[Representational State Transfer (REST)|rest]] of it will be modified.
 >
 > **[4:37](https://www.linkedin.com/learning/laravel-essential-training/register-resource-routes?u=76281980&t=277)** Now, any time you log in, you will be directed to this instead of the dashboard route.
 >
@@ -2037,7 +2015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), web (1), [[Laravel]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), open the (1), scroll down (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Env Vars:** url (4)
@@ -2045,8 +2023,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** before we start (1)
 
-#### Challenge: Create a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-new-resource?u=76281980)
+#### [Challenge: Create a new resource](https://www.linkedin.com/learning/laravel-essential-training/challenge-create-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,17 +2041,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** crud (1)
 
-#### Solution: Create a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980)
+#### [Solution: Create a new resource](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980&t=5)** Let's solve this challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980&t=7)** First, create a new model using the command php artisan make:model Call it notebook.
+> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980&t=7)** First, create a new model using the command [[PHP]] artisan make:model Call it notebook.
 >
 > **[0:18](https://www.linkedin.com/learning/laravel-essential-training/solution-create-new-resource?u=76281980&t=18)** And yes, we would like migration and resource controller.
 >
@@ -2126,7 +2101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), hit (1), database (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), make (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **File Paths:** web.php (1)
@@ -2138,8 +2113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add an index method to fetch all notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
+#### [Add an index method to fetch all notes](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,9 +2121,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=5)** This route calls the index action in our controller.
 >
-> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=9)** So open NoteController.php.
+> **[0:09](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=9)** So open NoteController.[[PHP]].
 >
-> **[0:12](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=12)** This is where we fetch our notes and display them.
+> **[0:12](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=12)** This is where we [[Fetch]] our notes and display them.
 >
 > **[0:16](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980&t=16)** But since we don't have any notes yet, let's manually add a note to the database using GUI. Notes.
 >
@@ -2267,7 +2241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (2), database (2), data (2), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[PHP]] (1)
 > **Code Identifiers:** updated_at (5), user_id (2)
 > **UI Navigation:** go to (5), click on (2)
 > **CLI Commands:** make (3), php (1)
@@ -2276,8 +2250,7 @@ created: 2026-05-02
 > **File Paths:** notecontroller.php (1)
 > **Env Vars:** gui (1)
 
-#### Create an index view to display all notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980)
+#### [Create an index view to display all notes](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2287,7 +2260,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=10)** And here it's best to create another directory called notes to group all the related views.
 >
-> **[0:17](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=17)** So within the notes directory, create a new blade file, index.blade.php.
+> **[0:17](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=17)** So within the notes directory, create a new blade file, index.blade.[[PHP]].
 >
 > **[0:23](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=23)** The layout that we wish to have on this page is similar to the dashboard view.
 >
@@ -2297,7 +2270,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=41)** So if you want to show your app in different languages, you can do that.
 >
-> **[0:44](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=44)** For now, let's remove this and simply replace the dashboard word with notes.
+> **[0:44](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=44)** For now, let's remove this and simply replace the dashboard [[Microsoft Word|word]] with notes.
 >
 > **[0:51](https://www.linkedin.com/learning/laravel-essential-training/create-an-index-view-to-display-all-notes?u=76281980&t=51)** And down here, oh, we don't even need this.
 >
@@ -2403,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[PHP]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), php (1)
 > **Code Identifiers:** updated_at (2), diffforhumans (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -2412,8 +2385,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Add pagination and clean up the index view
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980)
+#### [Add pagination and clean up the index view](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,7 +2393,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=4)** But what if the user has hundreds of notes?
 >
-> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=7)** We surely need pagination. Since it's very common to add pagination, Laravel has made it very easy for us.
+> **[0:07](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=7)** We surely need pagination. Since it's very common to add pagination, [[Laravel]] has made it very easy for us.
 >
 > **[0:14](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=14)** Just replace get here with paginate and pass the count of items you'd like to display in a page.
 >
@@ -2477,7 +2449,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=153)** If you noticed, we still have this dashboard link in the navbar.
 >
-> **[2:37](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=157)** We'd like to replace that with notes instead, along with the hyperlink. Go to navigation.blade.php.
+> **[2:37](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=157)** We'd like to replace that with notes instead, along with the hyperlink. Go to navigation.blade.[[PHP]].
 >
 > **[2:45](https://www.linkedin.com/learning/laravel-essential-training/add-pagination-and-clean-up-the-index-view?u=76281980&t=165)** You can find that in resources, views, layouts. Here, search for Dashboard.
 >
@@ -2545,7 +2517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Search]] (2), [[Laravel]] (1), css (1), node (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (1)
 > **UI Navigation:** go to (6), open the (1)
 > **CLI Commands:** php (2), make (2), node (1), find (1)
 > **File Paths:** navigation.blade.php (1), web.php (1)
@@ -2553,8 +2525,7 @@ created: 2026-05-02
 > **Code Identifiers:** routeis (1)
 > **Cross-References:** go back to (1)
 
-#### Add a create method and view to show a form
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980)
+#### [Add a create method and view to show a form](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2578,7 +2549,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=44)** So let me copy all of this.
 >
-> **[0:46](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=46)** Create a new component and call it link-button.blade.php.
+> **[0:46](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=46)** Create a new component and call it link-button.blade.[[PHP]].
 >
 > **[0:53](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=53)** and paste it here and replace this button with a instead.
 >
@@ -2640,7 +2611,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=197)** Now we need an input field for the note title and the text area field for the actual note here.
 >
-> **[3:23](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=203)** We must already have an input component that's being used for the login and register forms.
+> **[3:23](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=203)** We must already have an input component that's being used for the login and register [[Forms]].
 >
 > **[3:29](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=209)** Let's take a look at that.
 >
@@ -2772,7 +2743,7 @@ created: 2026-05-02
 >
 > **[8:01](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=481)** Let's look at the docs.
 >
-> **[8:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=483)** Go to [laravel.com](https://laravel.com), documentation, and you can search for CSRF.
+> **[8:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=483)** Go to [[[Laravel]].com](https://laravel.com), documentation, and you can search for CSRF.
 >
 > **[8:14](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=494)** And you can read more about the vulnerability here.
 >
@@ -2810,7 +2781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), node (2), [[Forms]] (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), [[Forms]] (2)
 > **CLI Commands:** php (5), make (3), node (2)
 > **UI Navigation:** go to (6), open the (3), click on (1)
 > **Env Vars:** csrf (6), url (2)
@@ -2819,8 +2790,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **URLs:** [laravel.com](https://laravel.com) (1)
 
-#### Add a store action to save the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980)
+#### [Add a store action to save the data](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2850,7 +2820,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980&t=57)** And then for the text, we can simply have required validation.
 >
-> **[1:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980&t=63)** All the available validation rules can be found in the Laravel documentation right here.
+> **[1:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980&t=63)** All the available validation rules can be found in the [[Laravel]] documentation right here.
 >
 > **[1:10](https://www.linkedin.com/learning/laravel-essential-training/add-a-store-action-to-save-the-data?u=76281980&t=70)** So you can take a look at this.
 >
@@ -3008,15 +2978,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Laravel]] (2), database (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Laravel]] (2)
 > **UI Navigation:** go to (3), open the (1)
 > **Cross-References:** go back to (2)
 > **Documentation:** the docs (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be careful (1)
 
-#### Add a show action and view to display single note
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980)
+#### [Add a show action and view to display single note](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3064,7 +3033,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=95)** We simply passed the entire note model.
 >
-> **[1:38](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=98)** This concept in Laravel is called route model binding.
+> **[1:38](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=98)** This concept in [[Laravel]] is called route model binding.
 >
 > **[1:42](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=102)** We can inject models in various places conveniently using this.
 >
@@ -3116,7 +3085,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=208)** Now let's create this view('notes.show').
 >
-> **[3:32](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=212)** Go to resources, views, notes, new, show.blade.php.
+> **[3:32](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=212)** Go to resources, views, notes, new, show.blade.[[PHP]].
 >
 > **[3:41](https://www.linkedin.com/learning/laravel-essential-training/add-a-show-action-and-view-to-display-single-note?u=76281980&t=221)** Once again, this layout is similar to that of the index view.
 >
@@ -3200,7 +3169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1), [[Laravel]] (1), application (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[PHP]] (1)
 > **UI Navigation:** open the (3), go to (2), click on (1)
 > **Code Identifiers:** diffforhumans (2), user_id (1), created_at (1), updated_at (1)
 > **CLI Commands:** make (3), php (1)
@@ -3209,8 +3178,7 @@ created: 2026-05-02
 > **File Paths:** show.blade.php (1)
 > **Documentation:** the documentation (1)
 
-#### Create a unique ID for each note
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980)
+#### [Create a unique ID for each note](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3236,7 +3204,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980&t=47)** And now open the terminal.
 >
-> **[0:51](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980&t=51)** Let me close this and do php artisan migrate:rollback.
+> **[0:51](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980&t=51)** Let me close this and do [[PHP]] artisan migrate:rollback.
 >
 > **[0:57](https://www.linkedin.com/learning/laravel-essential-training/create-a-unique-id-for-each-note?u=76281980&t=57)** So it will roll back one migration, the previous one that we did. Since we created our notes table in the previous migration, let's roll back that.
 >
@@ -3321,8 +3289,7 @@ created: 2026-05-02
 > **Code Identifiers:** create_notes_table (1), getroutekeyname (1)
 > **Tools:** terminal (1)
 
-#### Challenge: Add index and create methods for a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-add-index-and-create-methods-for-new-resource?u=76281980)
+#### [Challenge: Add index and create methods for a new resource](https://www.linkedin.com/learning/laravel-essential-training/challenge-add-index-and-create-methods-for-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3348,8 +3315,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 
-#### Solution: Add index and create methods for a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-add-index-and-create-methods-for-new-resource?u=76281980)
+#### [Solution: Add index and create methods for a new resource](https://www.linkedin.com/learning/laravel-essential-training/solution-add-index-and-create-methods-for-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3479,8 +3445,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add an edit method and view to allow editing of the note
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
+#### [Add an edit method and view to allow editing of the note](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3526,11 +3491,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=106)** Now let's create this blade view.
 >
-> **[1:50](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=110)** Go to resources, views, notes, new file, edit.blade.php.
+> **[1:50](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=110)** Go to resources, views, notes, new file, edit.blade.[[PHP]].
 >
 > **[2:01](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=121)** And since most of the layout is very similar to the create view, let's copy all of this and paste it here.
 >
-> **[2:10](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=130)** We need the similar forms as well.
+> **[2:10](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=130)** We need the similar [[Forms]] as well.
 >
 > **[2:13](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=133)** All right, let's start by changing the title to Edit Note and then down here the action will not be notes.store, it will be notes.update.
 >
@@ -3540,7 +3505,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=156)** And now for the method, we need a put or a patch request for updating a model.
 >
-> **[2:45](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=165)** But HTML forms cannot make a put, patch or delete request.
+> **[2:45](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=165)** But [[HTML]] forms cannot make a put, patch or delete request.
 >
 > **[2:50](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980&t=170)** So let's retain this method as post itself, but spoof the verb using the method blade directive. Like so.
 >
@@ -3584,7 +3549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[PHP]] (1), [[HTML]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[PHP]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **UI Navigation:** open the (1), click on (1), scroll down (1), go to (1)
 > **Env Vars:** url (1), html (1), csr (1)
@@ -3592,8 +3557,7 @@ created: 2026-05-02
 > **File Paths:** edit.blade.php (1)
 > **Cross-References:** in the next (1)
 
-#### Add an update method to update edited data
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-update-method-to-update-edited-data?u=76281980)
+#### [Add an update method to update edited data](https://www.linkedin.com/learning/laravel-essential-training/add-an-update-method-to-update-edited-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3651,15 +3615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** to_route (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Add a destroy method to delete a note
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-a-destroy-method-to-delete-a-note?u=76281980)
+#### [Add a destroy method to delete a note](https://www.linkedin.com/learning/laravel-essential-training/add-a-destroy-method-to-delete-a-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3749,14 +3711,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (2), click on (2), scroll down (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csrf (1), url (1)
 > **Analogies:** similar to (2)
 
-#### Show flash data to users
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980)
+#### [Show flash data to users](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3778,7 +3738,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=21)** But we are not giving user feedback if the action was a success or not.
 >
-> **[0:26](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=26)** In Laravel, this can be done with flashed session data.
+> **[0:26](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=26)** In [[Laravel]], this can be done with flashed session data.
 >
 > **[0:30](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=30)** Let's start with the update action.
 >
@@ -3828,7 +3788,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=162)** So go to resources, views, components, and create a new file
 >
-> **[2:51](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=171)** called alert-success.blade.php.
+> **[2:51](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=171)** called alert-success.blade.[[PHP]].
 >
 > **[2:56](https://www.linkedin.com/learning/laravel-essential-training/show-flash-data-to-users?u=76281980&t=176)** Let's copy all of this, including the if statements, and paste them here.
 >
@@ -3880,13 +3840,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Laravel]] (1), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (3), open the (2), click on (1)
 > **File Paths:** alert-success.blade.php (1)
 > **CLI Commands:** php (1)
 
-#### Challenge: Update notes with a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-update-notes-with-new-resource?u=76281980)
+#### [Challenge: Update notes with a new resource](https://www.linkedin.com/learning/laravel-essential-training/challenge-update-notes-with-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3912,16 +3871,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), database (1)
 > **Env Vars:** gui (1)
 > **Documentation:** the documentation (1)
 
-#### Solution: Update notes with a new resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980)
+#### [Solution: Update notes with a new resource](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=5)** Let's first create a new migration to add a new column to the notes table using the command php artisan make:migration add_notebook_to_notes_table.
+> **[0:05](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=5)** Let's first create a new migration to add a new column to the notes table using the command [[PHP]] artisan make:migration add_notebook_to_notes_table.
 >
 > **[0:23](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=23)** Open the migration file and here, add a foreign key,
 >
@@ -3961,7 +3918,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=99)** After the text area here, we need a select input to show all the notebooks to select from. Select, and here we need to show all the notebooks in these options.
 >
-> **[1:54](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=114)** For this, we first must fetch all the notebooks and pass it to the create view, right?
+> **[1:54](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=114)** For this, we first must [[Fetch]] all the notebooks and pass it to the create view, right?
 >
 > **[2:01](https://www.linkedin.com/learning/laravel-essential-training/solution-update-notes-with-new-resource?u=76281980&t=121)** So open the NoteController create action.
 >
@@ -4113,7 +4070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Fetch]] (2), database (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Fetch]] (2)
 > **Code Identifiers:** notebook_id (8), add_notebook_to_notes_table (1), foreignidfor (1), dropifexists (1), user_id (1)
 > **UI Navigation:** open the (6), go to (4), select the (2)
 > **CLI Commands:** php (3), make (1)
@@ -4127,8 +4084,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Eloquent relationships?
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
+#### [What are Eloquent relationships?](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4146,11 +4102,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Analogies:** for example (1)
 
-#### Define relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980)
+#### [Define relationships](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4160,7 +4114,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980&t=10)** Let's begin with the user model.
 >
-> **[0:12](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980&t=12)** Open user.php within app, models.
+> **[0:12](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980&t=12)** Open user.[[PHP]] within app, models.
 >
 > **[0:17](https://www.linkedin.com/learning/laravel-essential-training/define-relationships?u=76281980&t=17)** To define its relationship with the note model, scroll down to the bottom.
 >
@@ -4202,8 +4156,7 @@ created: 2026-05-02
 > **CLI Commands:** php (1)
 > **Warnings:** note that (1)
 
-#### Query and save relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980)
+#### [Query and save relationships](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4229,13 +4182,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=49)** You can ignore this.
 >
-> **[0:51](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=51)** Notice how we are able to fetch the notes that belong to the authenticated user using the relationship.
+> **[0:51](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=51)** Notice how we are able to [[Fetch]] the notes that belong to the authenticated user using the relationship.
 >
 > **[0:58](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=58)** Let's go to the browser and see if this works.
 >
 > **[1:01](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=61)** And yes, we are able to see the notes exactly as before.
 >
-> **[1:06](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=66)** And now since Laravel version 8, we can also use the inverse relation and replace this with Note::whereBelongsTo authenticated user, Auth::user(), get the latest, and so on.
+> **[1:06](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=66)** And now since [[Laravel]] version 8, we can also use the inverse relation and replace this with Note::whereBelongsTo authenticated user, Auth::user(), get the latest, and so on.
 >
 > **[1:29](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=89)** Now see how similar this is to the 'where' clause?
 >
@@ -4299,7 +4252,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=255)** And yes, this is working exactly the way it did before.
 >
-> **[4:19](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=259)** So we have made the best use of Eloquent relationships to manage our databases-related tables.
+> **[4:19](https://www.linkedin.com/learning/laravel-essential-training/query-and-save-relationships?u=76281980&t=259)** So we have made the best use of Eloquent relationships to manage our [[Databases]]-related tables.
 
 > [!info]- Semantic Content
 >
@@ -4311,8 +4264,7 @@ created: 2026-05-02
 > **Versions:** version 8 (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Define a new relationship and use it
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/challenge-define-new-relationship-and-use-it?u=76281980)
+#### [Challenge: Define a new relationship and use it](https://www.linkedin.com/learning/laravel-essential-training/challenge-define-new-relationship-and-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4333,8 +4285,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Define a new relationship and use it
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/solution-define-new-relationship-and-use-it?u=76281980)
+#### [Solution: Define a new relationship and use it](https://www.linkedin.com/learning/laravel-essential-training/solution-define-new-relationship-and-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4413,8 +4364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enable soft delete
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
+#### [Enable soft delete](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4432,7 +4382,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980&t=32)** So close this.
 >
-> **[0:34](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980&t=34)** Open the terminal and create a new migration, php artisan make:migration add_soft_deletes to notes.
+> **[0:34](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980&t=34)** Open the terminal and create a new migration, [[PHP]] artisan make:migration add_soft_deletes to notes.
 >
 > **[0:49](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980&t=49)** All right, this has created a migration.
 >
@@ -4498,12 +4448,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Query soft deleted models
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980)
+#### [Query soft deleted models](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=0)** As you can see in the index page, our deleted note doesn't get displayed automatically, which means in our NoteControllers index method, the latest method or get or paginate or any other methods do not fetch soft deleted records.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=0)** As you can see in the index page, our deleted note doesn't get displayed automatically, which means in our NoteControllers index method, the latest method or get or paginate or any other methods do not [[Fetch]] soft deleted records.
 >
 > **[0:18](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=18)** So how do we get them?
 >
@@ -4511,7 +4460,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=20)** But first, let's create another controller for trashed notes.
 >
-> **[0:25](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=25)** Open terminal, execute php artisan make:controller and I will type in the name directly, TrashedNoteController.
+> **[0:25](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=25)** Open terminal, execute [[PHP]] artisan make:controller and I will type in the name directly, TrashedNoteController.
 >
 > **[0:39](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=39)** Yeah, it follows the naming convention. Controller is created.
 >
@@ -4539,7 +4488,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=109)** We didn't have to name these routes manually because we are using the resource controller and routes.
 >
-> **[1:55](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=115)** So Laravel takes care of the naming.
+> **[1:55](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=115)** So [[Laravel]] takes care of the naming.
 >
 > **[1:58](https://www.linkedin.com/learning/laravel-essential-training/query-soft-deleted-models?u=76281980&t=118)** Next, in the browser, let's navigate to the trashed route to see if the controller method is being called.
 >
@@ -4649,7 +4598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (3), [[PHP]] (3), next (2), web (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[PHP]] (3), [[Laravel]] (1)
 > **UI Navigation:** navigate to (3), open the (2), scroll down (1), click on (1), go to (1)
 > **CLI Commands:** php (3), make (2)
 > **File Paths:** web.php (1), navigation.blade.php (1)
@@ -4657,8 +4606,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### Show soft deleted model
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980)
+#### [Show soft deleted model](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4666,7 +4614,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980&t=11)** What we now need is the show route for trashed note and the show method in the controller.
 >
-> **[0:18](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980&t=18)** Open web.php. And using Route::get, let's add a show route, /trashed/{note}.
+> **[0:18](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980&t=18)** Open web.[[PHP]]. And using Route::get, let's add a show route, /trashed/{note}.
 >
 > **[0:32](https://www.linkedin.com/learning/laravel-essential-training/show-soft-deleted-model?u=76281980&t=32)** We need to pass in the note unique ID, and this will call the controller, TrashedNoteController. Show action.
 >
@@ -4824,7 +4772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[PHP]] (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **UI Navigation:** click on (4), open the (4), go to (2)
 > **File Paths:** web.php (2)
 > **CLI Commands:** php (2)
@@ -4832,8 +4780,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 
-#### Restore soft deleted models
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980)
+#### [Restore soft deleted models](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4885,7 +4832,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980&t=148)** We didn't create the route.
 >
-> **[2:31](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980&t=151)** So open web.php. We can copy the show route, paste it again, and this would be put.
+> **[2:31](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980&t=151)** So open web.[[PHP]]. We can copy the show route, paste it again, and this would be put.
 >
 > **[2:40](https://www.linkedin.com/learning/laravel-essential-training/restore-soft-deleted-models?u=76281980&t=160)** This remains the same.
 >
@@ -4931,7 +4878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** withtrashed (2), deleted_at (1)
 > **Env Vars:** csrf (1), found (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -4939,8 +4886,7 @@ created: 2026-05-02
 > **CLI Commands:** php (1)
 > **Analogies:** just like (1)
 
-#### Permanently delete models
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980)
+#### [Permanently delete models](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4970,7 +4916,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980&t=62)** Now let's add this route, trashed.destroy in the routes file.
 >
-> **[1:07](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980&t=67)** Open web.php, and looks like we can copy this.
+> **[1:07](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980&t=67)** Open web.[[PHP]], and looks like we can copy this.
 >
 > **[1:11](https://www.linkedin.com/learning/laravel-essential-training/permanently-delete-models?u=76281980&t=71)** Paste it down here.
 >
@@ -5066,7 +5012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), web (1), [[PHP]] (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **CLI Commands:** php (1), make (1)
 > **Code Identifiers:** withtrashed (2)
@@ -5079,14 +5025,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optional: Set up a local development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)
+#### [Optional: Set up a local development environment](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=0)** Now, you might want to start using Laravel locally in your system.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=0)** Now, you might want to start using [[Laravel]] locally in your system.
 >
-> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=4)** To install Laravel on your system, you first need a local web server like Apache or Nginx, and then you need to install PHP, Composer, and a database server like MySQL, and then configure all of them to work together.
+> **[0:04](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=4)** To install Laravel on your system, you first need a local web server like Apache or Nginx, and then you need to install [[PHP]], Composer, and a database server like [[MySQL]], and then configure all of them to work together.
 >
 > **[0:21](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=21)** That's a tedious process where you might run into multiple issues, but thankfully, these days, there are a variety of tools available that help us get started with Laravel within just a few minutes.
 >
@@ -5094,9 +5039,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=43)** You'll see that the official documentation recommends using Laravel Herd.
 >
-> **[0:48](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=48)** Herd is available on macOS and Windows.
+> **[0:48](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=48)** Herd is available on macOS and [[Windows]].
 >
-> **[0:52](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=52)** If you're a Linux user, I'll tell you what to do in a while.
+> **[0:52](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=52)** If you're a [[Linux]] user, I'll tell you what to do in a while.
 >
 > **[0:56](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=56)** I see "Download for macOS" button here.
 >
@@ -5116,7 +5061,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=110)** Next, you need an IDE like Visual Studio Code or PhpStorm.
 >
-> **[1:56](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=116)** PhpStorm is great for PHP and Laravel development, but that's a paid tool. If you want a free one and if you liked what we did in Codespaces, you can stick to VS Code. For a database GUI tool, in this course, we used an extension called Database Client, but you can install a separate app called TablePlus which is very easy to set up and quite popular.
+> **[1:56](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=116)** PhpStorm is great for PHP and Laravel development, but that's a paid tool. If you want a free one and if you liked what we did in [[Codespaces]], you can stick to VS Code. For a database GUI tool, in this course, we used an extension called Database Client, but you can install a separate app called TablePlus which is very easy to set up and quite popular.
 >
 > **[2:20](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980&t=140)** That's it.
 >
@@ -5164,7 +5109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (15), [[Windows]] (5), [[PHP]] (4), database (3), application (3)
+> **Frameworks & Libraries:** [[Laravel]] (15), [[Windows]] (5), [[PHP]] (4), [[MySQL]] (2), [[Linux]] (2)
 > **CLI Commands:** php (4), composer (3), mysql (2), docker (2), apache (1)
 > **Prerequisites:** install (8), configure (1), set up (1)
 > **Env Vars:** php (3), nvm (1), ide (1), gui (1)
@@ -5173,14 +5118,13 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **Documentation:** the documentation (2)
 
-#### Quick summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980)
+#### [Quick summary](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980&t=0)** Congratulations!
 >
-> **[0:01](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980&t=1)** You have built a fully functional, simple notes app using Laravel 11.
+> **[0:01](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980&t=1)** You have built a fully functional, simple notes app using [[Laravel]] 11.
 >
 > **[0:06](https://www.linkedin.com/learning/laravel-essential-training/quick-summary?u=76281980&t=6)** Let's quickly run through all that we learned and created.
 >
@@ -5212,15 +5156,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (2), functional (1), database (1)
+> **Frameworks & Libraries:** [[Laravel]] (2)
 > **Env Vars:** crud (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=0)** Now that you know enough concepts in Laravel to build a simple yet functional app, it's time to go deeper.
+> **[0:00](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=0)** Now that you know enough concepts in [[Laravel]] to build a simple yet functional app, it's time to go deeper.
 >
 > **[0:07](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=7)** You can try adding some more features to your LiteNotes project.
 >
@@ -5234,7 +5177,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=43)** The official Laravel channel on YouTube also has some great videos.
 >
-> **[0:48](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=48)** To go deeper into Laravel, you can watch my Advanced Laravel course right here on LinkedIn Learning.
+> **[0:48](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=48)** To go deeper into Laravel, you can watch my Advanced Laravel course right here on [[LinkedIn]] Learning.
 >
 > **[0:55](https://www.linkedin.com/learning/laravel-essential-training/next-steps?u=76281980&t=55)** You can also refer to the Laracasts forum where a lot of questions have already been asked and answered.
 >
@@ -5246,7 +5189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (8), feature (2), [[Search]] (2), functional (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[LinkedIn]] (1)
 > **Best Practices:** it's best to (1), don't forget (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

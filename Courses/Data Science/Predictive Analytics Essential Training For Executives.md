@@ -101,18 +101,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Give yourself the executive analytics edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
+#### [Give yourself the executive analytics edge](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=0)** - Do you manage data scientists in your organization?
 >
-> **[0:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=3)** Perhaps you're hiring one or hiring a data science consultant.
+> **[0:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=3)** Perhaps you're hiring one or hiring a [[Data Science]] consultant.
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=7)** Then, this course is for you.
 >
-> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=8)** This is not a watered down Predictive Analytics 101.
+> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=8)** This is not a watered down [[Predictive Analytics]] 101.
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980&t=12)** It is specifically for you, for the executive who wants to be more efficient at managing the analytics activity in your organization and at managing data scientists.
 >
@@ -126,11 +125,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Predictive Analytics]] (2), [[Analytics]] (2), ai (1), business (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Science]] (1)
 > **Speakers:** - do (1)
 
-#### Our course goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980)
+#### [Our course goals](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980&t=61)** But to avoid jargon from becoming a distraction, I'm providing a small glossary in the chapter in the form of a text file.
 >
-> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980&t=70)** I want you to feel that familiarity about data science and predictive analytics.
+> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980&t=70)** I want you to feel that familiarity about [[Data Science]] and [[Predictive Analytics]].
 >
 > **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/our-course-goals?u=76281980&t=77)** You won't become fluent, and that's not the goal.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Science]] (1)
 > **Speakers:** - before (1)
 
 
@@ -174,14 +172,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive analytics vs. forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
+#### [Predictive analytics vs. forecasting](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980&t=1)** - Let's begin the course by contrasting predictive analytics with some other analytics techniques that may compete for your attention as you start to plan a predictive analytics project.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980&t=1)** - Let's begin the course by contrasting [[Predictive Analytics]] with some other analytics techniques that may compete for your attention as you start to plan a predictive analytics project.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980&t=13)** And the first is forecasting.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980&t=13)** And the first is [[Forecasting]].
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980&t=15)** The difference between predictive analytics and forecasting goes beyond semantics.
 >
@@ -227,19 +224,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (5), [[Forecasting]] (4), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (5), [[Forecasting]] (4)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### AI compared to predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980)
+#### [AI compared to predictive analytics](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=1)** - As much as AI dominates the news, it can be a bit elusive to nail down exactly what it is.
 >
-> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=8)** In the media and social media, artificial intelligence has become such a general term that it applies to virtually anything in analytics.
+> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=8)** In the media and social media, [[Artificial Intelligence (AI)|artificial intelligence]] has become such a general term that it applies to virtually anything in analytics.
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=18)** Here's the approach that I would recommend.
 >
@@ -253,9 +249,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=51)** There are two important dates to know, 2012 and 2017.
 >
-> **[0:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=58)** Neural networks as a technique have been researched since the 50's, but 2012 was an important year.
+> **[0:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=58)** [[Neural Networks]] as a technique have been researched since the 50's, but 2012 was an important year.
 >
-> **[1:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=66)** That's when deep learning neural networks started to enter the popular culture.
+> **[1:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=66)** That's when [[Deep Learning]] neural networks started to enter the popular culture.
 >
 > **[1:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=71)** It was a convergence of factors.
 >
@@ -263,15 +259,15 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=77)** We had more powerful computers in the form of GPUs.
 >
-> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=82)** And a team led by Jeff Hinton, who shared the Turing Award in 2018, won a computer vision competition using a type of neural networks that proved to be revolutionary.
+> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=82)** And a team led by Jeff Hinton, who shared the Turing Award in 2018, won a [[Computer Vision]] competition using a type of neural networks that proved to be revolutionary.
 >
 > **[1:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=95)** That's when everything started to change.
 >
-> **[1:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=99)** Then in 2017, eight Google scientists wrote a paper called "Attention is All You Need," which introduces the transformer architecture.
+> **[1:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=99)** Then in 2017, eight [[Google]] scientists wrote a paper called "Attention is All You Need," which introduces the transformer architecture.
 >
 > **[1:49](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=109)** It's all very technical, but here's what you need to know.
 >
-> **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=113)** Transformer is the T in ChatGPT, and that's when large language models began their rise.
+> **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=113)** Transformer is the T in [[ChatGPT]], and that's when [[Large Language Models (LLM)|large language models]] began their rise.
 >
 > **[2:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=121)** Large language models are one use of deep learning neural networks.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=188)** So I like to summarize it by listing the application areas that draw upon deep learning.
 >
-> **[3:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=193)** Note, they all involve unstructured data, and here they are: image, video, robotics, audio, language, and multimodal.
+> **[3:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=193)** Note, they all involve [[Unstructured Data]], and here they are: image, video, robotics, audio, language, and multimodal.
 >
 > **[3:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/ai-compared-to-predictive-analytics?u=76281980&t=206)** So if you have a use case that needs one of these, you need deep learning neural networks.
 >
@@ -309,12 +305,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Deep Learning]] (7), [[Neural Networks]] (6), [[Large Language Models (LLM)|Large language models]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (7), [[Neural Networks]] (6), [[Large Language Models (LLM)|Large language models]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - as (1)
 
-#### What is traditional or classic machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980)
+#### [What is traditional or classic machine learning?](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,13 +323,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=24)** Well, a handful of things came together.
 >
-> **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=27)** Data warehouses made data more widely available than ever before, and then of course, we started to move from big mainframes to personal computers, and what was then called data mining started to evolve from something that statisticians did to something that computer scientists did.
+> **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=27)** Data warehouses made data more widely available than ever before, and then of course, we started to move from big mainframes to personal computers, and what was then called [[Data Mining]] started to evolve from something that statisticians did to something that computer scientists did.
 >
 > **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=47)** Many of the techniques that we still use today are just much faster, much more powerful versions of those techniques.
 >
-> **[0:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=57)** Then more like a decade ago, we got contemporary AI, but when it comes to structured data, data in rows and columns, the kind of data that you store in traditional databases and can look at in spreadsheets, these traditional machine learning techniques are still the way to go.
+> **[0:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=57)** Then more like a decade ago, we got contemporary AI, but when it comes to structured data, data in rows and columns, the kind of data that you store in traditional [[Databases]] and can look at in spreadsheets, these traditional machine learning techniques are still the way to go.
 >
-> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=79)** There is little evidence that deep learning neural networks produce better results with this structured data.
+> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=79)** There is little evidence that [[Deep Learning]] [[Neural Networks]] produce better results with this structured data.
 >
 > **[1:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/what-is-traditional-or-classic-machine-learning?u=76281980&t=85)** Usually they only do about the same, and it comes with a price.
 >
@@ -344,18 +339,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Deep Learning]] (2), [[Neural Networks]] (2), business (1), ai (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Neural Networks]] (2), [[Data Mining]] (1), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - until (1)
 
-#### Predictive analytics compared to statistics and data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980)
+#### [Predictive analytics compared to statistics and data science](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980&t=1)** - Now, I'd like to contrast predictive analytics with statistics.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980&t=1)** - Now, I'd like to contrast [[Predictive Analytics]] with [[Statistics]].
 >
-> **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980&t=6)** I'm a fan of the thought leader Donald Farmer, who has spent much of his career working on BI products for companies like Microsoft and Click, but whose thought leadership is insightful in many areas of analytics.
+> **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980&t=6)** I'm a fan of the thought leader Donald Farmer, who has spent much of his career working on BI [[Microsoft Products|products]] for companies like [[Microsoft]] and Click, but whose [[Thought Leadership]] is insightful in many areas of analytics.
 >
 > **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-compared-to-statistics-and-data-science?u=76281980&t=20)** He makes a very straightforward but powerful distinction between three kinds of decisions: strategic decisions made infrequently by senior management, but where each has a big impact on the business; tactical decisions made more frequently by middle management that impact a team or department; and finally, operational decisions made very frequently, often automated, that, as individual decisions, may seem less important, but that, in the aggregate, are very important.
 >
@@ -385,11 +379,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Statistics]] (2), management (2), career (1), bi (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Statistics]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1), [[Thought Leadership]] (1)
 > **Speakers:** - now (1)
 
-#### Can Gen AI and LLMs be used in predictive models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980)
+#### [Can Gen AI and LLMs be used in predictive models?](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,13 +392,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=13)** And while there are lots of courses about GenAI right here in the library, GenAI is not a major topic of this course.
 >
-> **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=21)** So can GenAI be used in predictive analytics?
+> **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=21)** So can GenAI be used in [[Predictive Analytics]]?
 >
 > **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=26)** Possibly, but probably not the generative aspect.
 >
 > **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=31)** Its skill at searching texts can be a powerful way to search through documents, including complex documents like legal contracts, patent documents, and medical transcripts.
 >
-> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=43)** So at the risk of oversimplifying, it becomes a kind of data preparation that can extract information that could be used in a predictive model.
+> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=43)** So at the risk of oversimplifying, it becomes a kind of [[Data Preparation]] that can extract information that could be used in a predictive model.
 >
 > **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=53)** But there's all kinds of complications that should be considered, like ensuring the accuracy of the data that is extracted, avoiding hallucinations, and even things like cost.
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=86)** Let your experts, whether they're internal or external, do their job.
 >
-> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=91)** Too often projects will drift in a dozen different directions, and the only constant is a desire to involve large language models in one way or another, possibly in an attempt to keep up with the latest trends.
+> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=91)** Too often projects will drift in a dozen different directions, and the only constant is a desire to involve [[Large Language Models (LLM)|large language models]] in one way or another, possibly in an attempt to keep up with the latest trends.
 >
 > **[1:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=105)** Instead, stay laser focused on the business problem.
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Predictive Analytics]] (1), [[Search]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Data Preparation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -441,8 +434,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analytics is about making decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
+#### [Analytics is about making decisions](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,15 +504,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2)
 > **Ports:** :00 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - as (1)
 
-#### Propensity scores and business problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980)
+#### [Propensity scores and business problems](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980&t=48)** Here's the bottom line.
 >
-> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980&t=50)** If you are not clear on what you're going to do with the propensity score, then you haven't successfully translated the business problem into something that belongs to the predictive analytics team.
+> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980&t=50)** If you are not clear on what you're going to do with the propensity score, then you haven't successfully translated the business problem into something that belongs to the [[Predictive Analytics]] team.
 >
 > **[1:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/propensity-scores-and-business-problems?u=76281980&t=63)** It's possible that you have to go back to the drawing board and reconceptualize the project, or possibly not even do the project at all.
 >
@@ -592,25 +582,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - okay (1)
 
-#### The unintended consequences of proof of concept projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980)
+#### [The unintended consequences of proof of concept projects](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=0)** - I'm not a fan of proof-of-concept projects in predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=0)** - I'm not a fan of proof-of-concept projects in [[Predictive Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=6)** Naturally, I do love the idea of looking before you leap, and I like the notion of failing quickly.
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=13)** The intentions are always good, but there's a couple of mistakes that I see so often that I keep my eye out for them, and you should too.
 >
-> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=23)** The basic issue is that POCs create a rushed atmosphere, and I can always predict what everybody wants to rush or skip over, which is pretty much everything but the dump my newest data into the algorithms and give me the answers part.
+> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=23)** The basic issue is that POCs create a rushed atmosphere, and I can always predict what everybody wants to rush or skip over, which is pretty much everything but the dump my newest data into the [[Algorithms]] and give me the answers part.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=41)** Here are my issues: First, there's not a focus on return on investment.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=75)** I'd rather have a six-month project that will produce an ROI over time than a two-month trial project that produces nothing more than a slide deck.
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=87)** Second, I've never heard of a POC where they take data preparation seriously.
+> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=87)** Second, I've never heard of a POC where they take [[Data Preparation]] seriously.
 >
 > **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-unintended-consequences-of-proof-of-concept-projects?u=76281980&t=94)** They use readily available data to see what we can do.
 >
@@ -688,15 +677,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (2), [[Predictive Analytics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Algorithms]] (1), [[Data Preparation]] (1)
 > **Env Vars:** roi (4), poc (3)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** you should always (1), make sure to (1)
 > **Tools:** notion (1)
 > **Speakers:** - i (1)
 
-#### Why deployment, not insight, is the primary goal
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980)
+#### [Why deployment, not insight, is the primary goal](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980&t=16)** Apparently the advertisements exaggerated the truth a bit, but the TV ads described it as a so-called spinoff technology, an added benefit of our achievement of space flight.
 >
-> **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980&t=28)** So what does this have to do with predictive analytics?
+> **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980&t=28)** So what does this have to do with [[Predictive Analytics]]?
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-deployment-not-insight-is-the-primary-goal?u=76281980&t=32)** Well, I want to clarify what should be the primary goal of a project versus what should be a spinoff benefit?
 >
@@ -757,8 +745,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - i (1)
 
-#### Analytics as a profit center
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980)
+#### [Analytics as a profit center](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980&t=27)** Too much emphasis is put on negotiating and being sold to by vendors and not enough time talking about what your staff needs to produce value in carefully measuring that value.
 >
-> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980&t=43)** Now, while it may be true that calculating ROI for BI projects is nearly impossible, it's not true for predictive analytics projects.
+> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980&t=43)** Now, while it may be true that calculating ROI for BI projects is nearly impossible, it's not true for [[Predictive Analytics]] projects.
 >
 > **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-as-a-profit-center?u=76281980&t=54)** Of course, BI projects are just as critical to the business as predictive analytics projects are.
 >
@@ -808,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (4), [[Analytics]] (3), [[Predictive Analytics]] (3), business (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
@@ -818,12 +805,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who should you hire first for your new data science team?
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
+#### [Who should you hire first for your new data science team?](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=1)** - Almost 10 years ago, I remember preparing a webinar on advice on who you should hire first when creating a data science team.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=1)** - Almost 10 years ago, I remember preparing a webinar on advice on who you should hire first when creating a [[Data Science]] team.
 >
 > **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=10)** Remarkably, despite the tremendous change we are all experiencing in data analytics, I observe many of the same patterns today.
 >
@@ -839,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=44)** It often doesn't work out very well.
 >
-> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=47)** They're barely settled in and they have to negotiate hiring, establish rapport with senior management, navigate office politics, and a dozen other tasks, none of which involve data science and predictive analytics.
+> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=47)** They're barely settled in and they have to negotiate hiring, establish rapport with senior management, navigate [[Microsoft Office|office]] politics, and a dozen other tasks, none of which involve data science and [[Predictive Analytics]].
 >
 > **[1:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980&t=62)** Often they arrive at the three to six month mark with very little to show so far, then hiring gets delayed, which only worsens the situation.
 >
@@ -873,23 +859,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (2), [[Analytics]] (1), management (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Predictive Analytics]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - almost (1)
 
-#### Data scientist, data engineers, and MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980)
+#### [Data scientist, data engineers, and MLOps](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=1)** - Let's talk about two roles related to data science that have become their own specialty to such a degree that they've become their own career paths.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=1)** - Let's talk about two roles related to [[Data Science]] that have become their own specialty to such a degree that they've become their own career paths.
 >
 > **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=10)** Data engineers must have a variety of skills, but play their most important role upstream of the data scientists.
 >
-> **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=18)** Joe Reis and Matt Housley's book, "Fundamentals of Data Engineering," has become the definitive source on this subject.
+> **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=18)** Joe Reis and Matt Housley's book, "Fundamentals of [[Data Engineering]]," has become the definitive source on this subject.
 >
-> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=25)** You know, it's worth noting that they describe themselves as recovering data scientists, and what they mean by that is that they started out in their careers as data scientists, but had grown frustrated by projects that failed because the data infrastructure was not up to the challenge of supporting successful data science and predictive analytics.
+> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=25)** You know, it's worth noting that they describe themselves as recovering data scientists, and what they mean by that is that they started out in their careers as data scientists, but had grown frustrated by projects that failed because the data infrastructure was not up to the challenge of supporting successful data science and [[Predictive Analytics]].
 >
 > **[0:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=46)** Here's how they define data engineering in the book.
 >
@@ -897,31 +882,30 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=68)** Now, just as data engineering is upstream of building models, there's also in an emerging specialty that focuses on downstream of modeling activity, focusing on model monitoring and maintenance.
 >
-> **[1:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=84)** In O'Reilly's book, "MLOps," they define machine learning operations as the process of operationalizing data science by getting ML models into production, being able to monitor their performance and ensure that they are fair and in compliance with applicable regulations.
+> **[1:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=84)** In O'Reilly's book, "[[MLOps]]," they define machine learning operations as the process of operationalizing data science by getting ML models into production, being able to monitor their performance and ensure that they are fair and in compliance with applicable regulations.
 >
 > **[1:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientist-data-engineers-and-mlops?u=76281980&t=105)** Now, data engineering and MLOps overlap enough that on a small team, you could get away with just one, but as the team grows, you'll want to find team members that have chosen these specialties for at least this stage of their career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Data Engineering]] (4), career (2), [[MLOps]] (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Data Science]] (3), [[MLOps]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Data science job requirements and the problems they can create
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980)
+#### [Data science job requirements and the problems they can create](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=1)** - Hiring in data science is broken.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=1)** - Hiring in [[Data Science]] is broken.
 >
 > **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=4)** Demand is high, but so is turnover.
 >
-> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=8)** The joke for a while was that there was a job posting that wanted five years of R, five years of Python, and five years of TensorFlow.
+> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=8)** The joke for a while was that there was a job posting that wanted five years of R, five years of [[Python (Programming Language)|Python]], and five years of [[TensorFlow]].
 >
 > **[0:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=16)** Well, at the time that I first heard the joke, TensorFlow had only been out for two years.
 >
-> **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=21)** You could easily update the joke by substituting something new and important, like RAG, retrieval-augmented generation.
+> **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=21)** You could easily update the joke by substituting something new and important, like RAG, [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=30)** It often feels appropriate to produce a detailed list of the latest technologies in a job posting, but a year from now, the list will change.
 >
@@ -937,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=79)** But too much emphasis on the details of a particular technology option can warp your team.
 >
-> **[1:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=86)** I asked my client if they would get excited about a 40-year-old with 10 or more years of industry experience that had learned on a different platform, maybe R instead of Python, or even something like SaaS or SPSS.
+> **[1:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=86)** I asked my client if they would get excited about a 40-year-old with 10 or more years of industry experience that had learned on a different platform, maybe R instead of Python, or even something like [[SaaS]] or SPSS.
 >
 > **[1:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-science-job-requirements-and-the-problems-they-can-create?u=76281980&t=102)** They agreed that they would likely want to chat with them and might even want to hire them, but the applicant would have to pass the exam first, or they would never meet them.
 >
@@ -983,20 +967,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), rag (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (2), [[TensorFlow]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[SaaS]] (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** rag (1), spss (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hiring (1)
 
-#### Growing a team organically
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980)
+#### [Growing a team organically](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980&t=1)** - A hiring strategy that is adopted all too rarely is hiring from within.
 >
-> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980&t=7)** It's related to this notion that one's data science resume has to be perfect.
+> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980&t=7)** It's related to this notion that one's [[Data Science]] resume has to be perfect.
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/growing-a-team-organically?u=76281980&t=14)** I've met hundreds of IT and BI professionals that have data science books on their nightstand and that have spent months, or even years, cross-training on their own time and at their own expense.
 >
@@ -1024,19 +1007,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), bi (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **CLI Commands:** find (3)
 > **Tools:** notion (1)
 > **Speakers:** - a (1)
 
-#### Data scientists with and without vertical industry experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980)
+#### [Data scientists with and without vertical industry experience](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=1)** - Sometimes I think we worry too much about highly-specific industry experience.
 >
-> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=7)** Why not hire an engineer to work on a bank loan default model or an established modeler from a banking background and hire them to do predictive maintenance?
+> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=7)** Why not hire an engineer to work on a bank loan default model or an established modeler from a [[Banking]] background and hire them to do predictive maintenance?
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=18)** Deployed models are rare, much more rare than they should be.
 >
@@ -1054,7 +1036,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=64)** So if you're an insurance company, hire some from insurance and some from other industries.
 >
-> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=70)** If you're a Python shop, hire team members that are strong in that, but be open to having some team members that bring a different set of experiences.
+> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=70)** If you're a [[Python (Programming Language)|Python]] shop, hire team members that are strong in that, but be open to having some team members that bring a different set of experiences.
 >
 > **[1:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/data-scientists-with-and-without-vertical-industry-experience?u=76281980&t=81)** Now, trust your analytics lead to drive hiring, but be skeptical when all the criteria are too technical in nature or too rigid.
 >
@@ -1062,12 +1044,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), [[Python (Programming Language)|Python]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - sometimes (1)
 
-#### The importance of SMEs to modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980)
+#### [The importance of SMEs to modeling](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=18)** To be honest, it's one of the fun parts of the job.
 >
-> **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=22)** But predictive modeling is its own area of expertise, so it's rare that a machine learning expert will also be a true subject matter expert.
+> **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=22)** But [[Predictive Modeling]] is its own area of expertise, so it's rare that a machine learning expert will also be a true subject matter expert.
 >
 > **[0:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=34)** Now, a predictive modeler that's been with their company for a while will almost certainly have some knowledge of the topic of their industry, but someone in the organization will always know even more.
 >
@@ -1101,19 +1082,18 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=122)** All of this should be done before modeling.
 >
-> **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=126)** The algorithms find the answer and the form of a predictive model, but the algorithms can't do their job without well-prepared data.
+> **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=126)** The [[Algorithms]] find the answer and the form of a predictive model, but the algorithms can't do their job without well-prepared data.
 >
 > **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-importance-of-smes-to-modeling?u=76281980&t=137)** The SMEs will make sure that you've got your bases covered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Predictive Modeling]] (2), [[Algorithms]] (2), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (2), [[Algorithms]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - over (1)
 
-#### Do you need the latest new techniques?
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980)
+#### [Do you need the latest new techniques?](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,13 +1129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), ai (2), data (2), career (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### How to spot potential
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980)
+#### [How to spot potential](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1145,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=30)** And he made a remarkable statement that he really connected with Alan Turing when he read some of Turing's papers and recognized that Turing was also a "geek."
 >
-> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=42)** The word that Knuth used to describe this phenomenon.
+> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=42)** The [[Microsoft Word|word]] that Knuth used to describe this phenomenon.
 >
 > **[0:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=45)** By that, he meant that Turing didn't just write the philosophical papers, like "The Imitation Game," which you may have heard of, but he also got his hands dirty writing some very detailed code.
 >
@@ -1177,7 +1155,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=73)** Data scientists should be able to explain the big picture, but they should also care about details.
 >
-> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=79)** A rookie data scientist will sometimes get frustrated with the details when doing something like data cleaning.
+> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=79)** A rookie data scientist will sometimes get frustrated with the details when doing something like [[Data Cleaning]].
 >
 > **[1:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=86)** In an extreme form, they may try to push that responsibility to someone else or even something else, like software.
 >
@@ -1185,7 +1163,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=98)** They know when the details make a difference.
 >
-> **[1:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=100)** They will dive into software documentation or into metadata to ferret out a detail that colleagues would either find inconsequential or would become so frustrated by that they simply move on.
+> **[1:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=100)** They will dive into software documentation or into [[Metadata]] to ferret out a detail that colleagues would either find inconsequential or would become so frustrated by that they simply move on.
 >
 > **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/how-to-spot-potential?u=76281980&t=113)** That is not to say that they allow time to be wasted.
 >
@@ -1211,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), game (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Data Cleaning]] (1), [[Metadata]] (1)
 > **Analogies:** picture (6)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be careful (1)
@@ -1222,14 +1200,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud and enterprise analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
+#### [Cloud and enterprise analytics](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=0)** - Analytics has moved to the cloud, several reports estimated adoption rates over 90%.
 >
-> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=8)** So what are the implications for predictive analytics?
+> **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=8)** So what are the implications for [[Predictive Analytics]]?
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=12)** First, preparation of data for analytics has grown more complex, and of course that's given birth to the data engineer.
 >
@@ -1239,11 +1216,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=44)** We'll talk more about why this is so in the next video, but it's why the concept of the data lake has become popular.
 >
-> **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=53)** Data Lakes store the data in raw form as is often unstructured.
+> **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=53)** [[Data Lakes]] store the data in raw form as is often unstructured.
 >
 > **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=60)** More often than not, it's the data scientists performing the kinds of projects we've been discussing that utilize this data lake data.
 >
-> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=70)** Third, and I'm a bit worried about this trend, data science teams are increasingly under pressure to live within the ecosystem of their cloud provider.
+> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=70)** Third, and I'm a bit worried about this trend, [[Data Science]] teams are increasingly under pressure to live within the ecosystem of their cloud provider.
 >
 > **[1:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980&t=81)** Most cloud vendors have perfectly serviceable and often quite impressive analytics tools.
 >
@@ -1265,13 +1242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), cloud (5), [[Analytics]] (4), [[Predictive Analytics]] (2), career (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Science]] (2), [[Data Lakes]] (1)
 > **Cross-References:** earlier in (2), we discussed (1), in the next (1), we mentioned (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - analytics (1)
 
-#### Why data prep has to be customized for predictive models
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980)
+#### [Why data prep has to be customized for predictive models](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,7 +1293,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=163)** The billing detail was raw, messy data, but we found some great variables in there.
 >
-> **[2:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=170)** Finally, and this is the most important one, data prep is all about feature engineering.
+> **[2:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=170)** Finally, and this is the most important one, data prep is all about [[Feature Engineering]].
 >
 > **[2:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=176)** Feature engineering is creating new variables from the variables that you pull off the system.
 >
@@ -1345,27 +1321,26 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=249)** Here's the bottom line.
 >
-> **[4:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=251)** Data prep and predictive analytics is all about understanding the data and carefully crafting and customizing the data to fit the business problem.
+> **[4:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=251)** Data prep and [[Predictive Analytics]] is all about understanding the data and carefully crafting and customizing the data to fit the business problem.
 >
-> **[4:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=262)** Tony Goldbloom, Founder of Kaggle, which is a data science competition website, calls it, "Hand-crafted feature engineering."
+> **[4:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=262)** Tony Goldbloom, Founder of Kaggle, which is a [[Data Science]] competition website, calls it, "Hand-crafted feature engineering."
 >
-> **[4:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=271)** So as advanced as your data operations might be and as clean as your data might be, data prep for predictive modeling never goes away.
+> **[4:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=271)** So as advanced as your data operations might be and as clean as your data might be, data prep for [[Predictive Modeling]] never goes away.
 >
 > **[4:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/why-data-prep-has-to-be-customized-for-predictive-models?u=76281980&t=281)** And if you are not spending time on it, every single project, no matter how inefficient that may seem, you are misallocating your resources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Feature Engineering]] (3), bi (2), [[Predictive Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Predictive Analytics]] (1), [[Data Science]] (1), [[Predictive Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### The analytics software ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980)
+#### [The analytics software ecosystem](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=0)** - There's an overwhelming array of options for software platforms that perform predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=0)** - There's an overwhelming array of options for software platforms that perform [[Predictive Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=6)** In order to help get oriented to the options, I'd like to describe four main categories.
 >
@@ -1373,11 +1348,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=21)** As you're introduced to the categories, remember that there's no rule that the entire organization has to commit to just one choice.
 >
-> **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=30)** So first, there's Python.
+> **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=30)** So first, there's [[Python (Programming Language)|Python]].
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=33)** Python is so dominant and has been for enough years that you might get the impression that it's the only option.
 >
-> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=41)** Python is a general-purpose programming language that started to dominate the predictive analytics space when some specialized software libraries, including SciKit Learn and Pandas, started to appear about 15 years ago.
+> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=41)** Python is a general-purpose programming language that started to dominate the predictive analytics space when some specialized software libraries, including SciKit Learn and [[Pandas (Software)|Pandas]], started to appear about 15 years ago.
 >
 > **[0:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=55)** Python is so important to machine learning and analytics that you may conclude that you have no choice, but you'll find that all the platforms are Python compatible.
 >
@@ -1401,13 +1376,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=126)** In my experience, these tools have been designed to be fairly easy to migrate data and models among them, so I find the compatibility argument a bit exaggerated.
 >
-> **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=137)** One reason that it tends to be easy to move back and forth between these platforms is that all the platforms have to be compatible with Python and SQL, so they're naturally compatible with each other.
+> **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=137)** One reason that it tends to be easy to move back and forth between these platforms is that all the platforms have to be compatible with Python and [[SQL]], so they're naturally compatible with each other.
 >
 > **[2:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=150)** So if a team or team member can make a case that they should use a tool outside of your cloud vendor's ecosystem, I'm generally inclined to hear them out.
 >
 > **[2:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=160)** Perhaps it's because I'm a data scientist myself, but I think that, in the long run, you'll get the best results if you allow experts to use the tools they're most comfortable with, as long as they collaborate effectively with other teams.
 >
-> **[2:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=178)** Third, there's automated machine learning, or AutoML.
+> **[2:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=178)** Third, there's [[Automated Machine Learning (AutoML)|automated machine learning]], or AutoML.
 >
 > **[3:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=183)** I actually have an executive guide dedicated to understanding what these tools can and can't do right here in the library.
 >
@@ -1421,17 +1396,17 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=214)** Having said that, these tools can save a tremendous amount of time in the hands of experts, so they should be part of the mix in any organization.
 >
-> **[3:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=224)** They're also available in many forms, including Python libraries, within those cloud analytics ecosystems, and as standalone tools.
+> **[3:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=224)** They're also available in many [[Forms]], including Python libraries, within those cloud analytics ecosystems, and as standalone tools.
 >
 > **[3:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=234)** Finally, there's a category that I've found valuable for nearly 30 years, and it's gone in and out of fashion many times over that same period.
 >
-> **[4:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=244)** So-called low code/no code tools generally have a similar design to each other, where there's a visual interface, like a flow chart, that allows you to draw the data wrangling and data modeling steps.
+> **[4:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=244)** So-called low code/no code tools generally have a similar design to each other, where there's a visual interface, like a flow chart, that allows you to draw the [[Data Wrangling]] and [[Data Modeling]] steps.
 >
-> **[4:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=260)** In this way, they're just a high-level programming language, but they're easier to learn than coding, they allow for fast prototyping, and non-coders can easily understand them.
+> **[4:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=260)** In this way, they're just a high-level programming language, but they're easier to learn than coding, they allow for fast [[Prototyping]], and non-coders can easily understand them.
 >
 > **[4:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=272)** I've been a fan for years.
 >
-> **[4:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=275)** Gartner updates a Magic Quadrant each year for these tools, and the most recent Magic Quadrant for data science and machine learning platforms describes 18 such tools, including brands like Alteryx, KNIME, DataRobot, and [H20.ai](https://H20.ai).
+> **[4:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=275)** Gartner updates a Magic Quadrant each year for these tools, and the most recent Magic Quadrant for [[Data Science]] and machine learning platforms describes 18 such tools, including brands like Alteryx, [[Knime]], DataRobot, and [H20.ai](https://H20.ai).
 >
 > **[4:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-analytics-software-ecosystem?u=76281980&t=294)** I'd encourage you to at least consider this category since it may be a way to increase collaboration between the different kinds of experts that have to work together to produce solutions.
 >
@@ -1443,15 +1418,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (6), [[Analytics]] (5), cloud (3), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Predictive Analytics]] (2), [[Pandas (Software)|Pandas]] (1), [[SQL]] (1), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **CLI Commands:** python (9), find (2), make (1)
 > **Env Vars:** sql (1), knime (1), h20 (1)
 > **URLs:** [h20.ai](https://h20.ai) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Citizens and self-service
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980)
+#### [Citizens and self-service](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1433,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=7)** The idea is intended to find a way forward during what some describe as the massive shortage of data scientists.
 >
-> **[0:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=16)** Gartner themselves describe it this way, citizen data science bridges the gap between mainstream self-service data discovery by business users and the advanced analytics techniques of data scientists.
+> **[0:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=16)** Gartner themselves describe it this way, citizen [[Data Science]] bridges the gap between mainstream self-service data discovery by business users and the advanced analytics techniques of data scientists.
 >
 > **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=30)** In their book, "All Hands On Tech", Tom Davenport and Ian Barkin described this as two distinct types of activity, and one might be more accurately called citizen data analyst.
 >
@@ -1483,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=108)** So I'm not suggesting that non-specialists can't contribute in a meaningful way.
 >
-> **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=113)** But the moment we deploy a model, we've got to make sure the data engineers and the MLOps engineers are involved.
+> **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=113)** But the moment we deploy a model, we've got to make sure the data engineers and the [[MLOps]] engineers are involved.
 >
 > **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/citizens-and-self-service?u=76281980&t=120)** And I'm sure that's not always addressed well.
 >
@@ -1499,26 +1473,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), bi (3), [[Analytics]] (2), business (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[MLOps]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - gartner (1)
 
-#### Responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980)
+#### [Responsible AI](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=0)** - Responsible AI focuses on using AI in a way that's ethical, transparent, and is compliant with the increasing number of regulations being passed worldwide.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=0)** - [[Responsible AI]] focuses on using AI in a way that's ethical, transparent, and is compliant with the increasing number of regulations being passed worldwide.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=11)** We made an effort early in the course to differentiate between traditional machine learning and predictive analytics on the one hand, and AI and particularly gen AI on the other.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=11)** We made an effort early in the course to differentiate between traditional machine learning and [[Predictive Analytics]] on the one hand, and AI and particularly gen AI on the other.
 >
 > **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=22)** So, why address responsible AI in this course?
 >
-> **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=28)** Well, regulations like the EU AI Act do not make a distinction between predictive models built with the latest AI algorithms, versus established traditional machine learning algorithms that have been around for decades, and this makes sense.
+> **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=28)** Well, regulations like the EU AI Act do not make a distinction between predictive models built with the latest AI [[Algorithms]], versus established traditional machine learning algorithms that have been around for decades, and this makes sense.
 >
 > **[0:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=46)** Avoiding bias and the need for transparency is independent of which technique is being used.
 >
-> **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=54)** Although it's not widespread yet, many organizations will eventually have an individual, perhaps even a small team, in charge of ethics and compliance.
+> **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=54)** Although it's not widespread yet, many organizations will eventually have an individual, perhaps even a small team, in charge of [[Ethics]] and compliance.
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=68)** In the meantime, the time is now to create an AI council with members from a variety of areas within your organization.
 >
@@ -1526,7 +1499,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=90)** There are organizations that are rising to the challenge by providing guidance, training, and even certification.
 >
-> **[1:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=97)** Two worth mentioning are the Responsible AI Institute, and the International Association of Privacy Professionals, which offers an AI governance professional or AI GP certification.
+> **[1:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=97)** Two worth mentioning are the Responsible AI Institute, and the International Association of [[Privacy]] Professionals, which offers an [[AI Governance]] professional or AI GP certification.
 >
 > **[1:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=113)** If you haven't explored the topic of AI regulation yet, it can be daunting, with each jurisdiction passing their own laws, and this trend is just going to continue.
 >
@@ -1534,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - responsible (1)
 
@@ -1543,16 +1516,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analytics project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
+#### [Analytics project management](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=0)** - The trick in effectively managing analytics projects is to think in terms of portfolios, programs, and projects.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=11)** I'm going to use these terms in a way that's very similar, but perhaps not identical to the way that a corporate project management office might.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=11)** I'm going to use these terms in a way that's very similar, but perhaps not identical to the way that a corporate project management [[Microsoft Office|office]] might.
 >
-> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=20)** I'm going to focus on what is unique about predictive analytics projects, specifically analytics projects, programs, and portfolios.
+> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=20)** I'm going to focus on what is unique about [[Predictive Analytics]] projects, specifically analytics projects, programs, and portfolios.
 >
 > **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=31)** First, I like to keep analytics projects highly focused.
 >
@@ -1588,7 +1560,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=169)** It is at this level that you should have a program that is designed to reduce fraud.
 >
-> **[2:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=176)** The reason that I might do this is that I might have a supervised model like the one I just described, combined with an unsupervised anomaly detection model that detects unknown frauds, perhaps even ones that occurred long ago, and maybe even something like a text mining project that's searching open-ended text in claims forms.
+> **[2:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=176)** The reason that I might do this is that I might have a supervised model like the one I just described, combined with an unsupervised anomaly detection model that detects unknown frauds, perhaps even ones that occurred long ago, and maybe even something like a [[Text Mining]] project that's searching open-ended text in claims [[Forms]].
 >
 > **[3:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980&t=204)** They might all come together to combat fraud.
 >
@@ -1624,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (15), management (5), [[Microsoft Office|Office]] (1), [[Predictive Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Predictive Analytics]] (1), [[Text Mining]] (1), [[Forms]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -1632,12 +1604,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
 
-#### Career path of the data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980)
+#### [Career path of the data scientist](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=1)** - Turnover is disappointingly high in data science.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=1)** - Turnover is disappointingly high in [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=4)** And I think there are two major contributions to this.
 >
@@ -1655,7 +1626,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=41)** There's simply no reason for this.
 >
-> **[0:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=45)** It's a matter of routing the right projects to the right resources.
+> **[0:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=45)** It's a matter of [[Routing]] the right projects to the right resources.
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/career-path-of-the-data-scientist?u=76281980&t=50)** Here's the uncomfortable truth that they won't say, so I'll say it on their behalf.
 >
@@ -1739,26 +1710,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), career (5), teams (3), management (3), next (2)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Routing]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - turnover (1)
 
-#### Who should data science report to?
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980)
+#### [Who should data science report to?](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=0)** - We've established two important things that we want to remind ourselves of.
 >
-> **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=6)** Analytics projects don't get deployed in a vacuum, but must be combined into an analytics program, working together to solve the business problem, and remember that we have help in the form of CRISP-DM, which starts with the business problem, then translates it into an analytics problem, and then translates the solution back into the language of the business.
+> **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=6)** Analytics projects don't get deployed in a vacuum, but must be combined into an analytics program, working together to solve the business problem, and remember that we have help in the form of [[CRISP-DM]], which starts with the business problem, then translates it into an analytics problem, and then translates the solution back into the language of the business.
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=33)** Now we can talk about who has the job of doing all of this?
 >
 > **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=39)** Well, the same person should be in-charge of these two critical tasks, effectively translating the business problems into analytics projects, and then combining the projects into a coherent program.
 >
-> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=56)** The all important analytics middle manager is the program manager who runs the analytics team and translates the business problems into predictive analytics projects and programs.
+> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=56)** The all important analytics middle manager is the program manager who runs the analytics team and translates the business problems into [[Predictive Analytics]] projects and programs.
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=68)** It might sound easy enough.
 >
@@ -1794,13 +1764,13 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=208)** One expert I know in particular thinks that this is never the way to go, but it's so common that I'm reluctant to rule it out completely.
 >
-> **[3:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=218)** I think that if you're careful, it can work, but you need that analytics middle manager to play this role, and they should have enough of a background in data science and analytics to do it.
+> **[3:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=218)** I think that if you're careful, it can work, but you need that analytics middle manager to play this role, and they should have enough of a background in [[Data Science]] and analytics to do it.
 >
 > **[3:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=233)** I've also seen an ambitious quick study pull it off, but if they're a lifelong contributor to BI and IT, but without a particular interest in data scientist, they won't feel very comfortable playing this role, even if they're a good manager.
 >
 > **[4:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=251)** IT tends to have more of a technology cost-focus, and you want someone who runs the team as a profit center.
 >
-> **[4:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=260)** A good analytics middle manager can navigate all of this and can reach out to I-Team management as more of a peer, find middle ground, and get the team producing value while lobbying for the resources that the team might need.
+> **[4:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=260)** A good analytics middle manager can navigate all of this and can reach out to I-[[Team Management]] as more of a peer, find middle ground, and get the team producing value while lobbying for the resources that the team might need.
 >
 > **[4:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-data-science-report-to?u=76281980&t=276)** The person in this translator role is someone that you personally will likely be dealing with often because they speak both languages, the language of business and the language of data science.
 >
@@ -1808,14 +1778,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (9), business (6), management (2), bi (2)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[CRISP-DM]] (1), [[Predictive Analytics]] (1), [[Team Management]] (1)
 > **Env Vars:** crisp (1), cio (1)
 > **CLI Commands:** find (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - we (1)
 
-#### The role of the CAO
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980)
+#### [The role of the CAO](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1831,7 +1800,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=27)** The year-over-year increase of CAOs over the last decade is more than 15%, but despite that growth, there is hardly a consensus on what the role should be or how senior leadership in analytics should be structured.
 >
-> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=42)** According to Burtch Works, the very influential analytics recruiting firm, "a chief analytics officer is part of the [[Executive Leadership]] that leads the data analytics strategy of an organization with responsibilities ranging from building broad analytics strategies to leadership to basic management."
+> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=42)** According to Burtch Works, the very influential analytics recruiting firm, "a chief analytics officer is part of the [[[[Executive Leadership]]]] that leads the data analytics strategy of an organization with responsibilities ranging from building broad analytics strategies to leadership to basic management."
 >
 > **[1:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=66)** Even though your firm may or may not have the CAO title, here's the bottom line: Someone must have the role of maintaining the analytics portfolio, and they must be someone that has frequent and in-depth access to the goals and priorities of the C-suite.
 >
@@ -1851,13 +1820,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (13), leadership (2), [[Executive Leadership]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1)
 > **Env Vars:** cao (2), ceo (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### CAOs, CDOs, and CAIOs
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980)
+#### [CAOs, CDOs, and CAIOs](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,11 +1833,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=5)** Who do they report to?
 >
-> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=7)** Well, there's no consensus, but other senior roles in data and analytics include the chief data officer, the chief artificial intelligence officer, and even the chief data and analytics officer.
+> **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=7)** Well, there's no consensus, but other senior roles in data and analytics include the chief data officer, the chief [[Artificial Intelligence (AI)|artificial intelligence]] officer, and even the chief data and analytics officer.
 >
-> **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=22)** For Burtch Works, the CDO role focuses more on data management.
+> **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=22)** For Burtch Works, the CDO role focuses more on [[Data Management]].
 >
-> **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=27)** This includes data security, ensuring data quality, and building strategies to use the gathered data to further business goals positively.
+> **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=27)** This includes [[Data Security]], ensuring [[Data Quality]], and building strategies to use the gathered data to further business goals positively.
 >
 > **[0:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=38)** Now, since data and analytics are intertwined, you can immediately anticipate the argument for a CDAO but my own opinion is that they should be kept separate.
 >
@@ -1877,15 +1845,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=56)** I prefer to see the analytics role focused on the business value of the predictions and less focused on the specific technology that implements those predictions.
 >
-> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=68)** For that reason, I've seen predictive analytics thrive most when it reports either directly to the CEO or up through business focused roles like the chief operations officer or perhaps chief strategy officer.
+> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=68)** For that reason, I've seen [[Predictive Analytics]] thrive most when it reports either directly to the CEO or up through business focused roles like the chief operations officer or perhaps chief strategy officer.
 >
 > **[1:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=85)** And now there's the newer role, the chief AI officer.
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=90)** There's even less consensus about this role, and it's not yet common as a C-Suite role.
 >
-> **[1:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=98)** According to SHRM, the Society for Human Resources Management, three advantages of the CAI role are having a single voice at the top, stronger data management, and raising compliance standards.
+> **[1:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=98)** According to SHRM, the Society for [[Human Resources (HR)|Human Resources]] Management, three advantages of the CAI role are having a single voice at the top, stronger data management, and raising compliance standards.
 >
-> **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=114)** Now, this raises the question, if there is already a CDO focused on data management and data governance, then who should report to who?
+> **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=114)** Now, this raises the question, if there is already a CDO focused on data management and [[Data Governance]], then who should report to who?
 >
 > **[2:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=125)** Not surprisingly, one of the potential downsides that SHRM identified is quarrels with existing C-suite roles.
 >
@@ -1905,7 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (6), [[Analytics]] (4), management (4), business (3)
+> **Frameworks & Libraries:** [[Data Management]] (2), [[Predictive Analytics]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Security]] (1), [[Data Quality]] (1)
 > **Env Vars:** cdo (2), shrm (2), caio (2), cao (1), cdao (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1916,12 +1884,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=0)** - We stated at the beginning of this course that you would be learning a few words and phrases in a new language, and we've done just that in the language of predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=0)** - We stated at the beginning of this course that you would be learning a few words and phrases in a new language, and we've done just that in the language of [[Predictive Analytics]].
 >
 > **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=11)** It's always a good idea to apply your new skills as soon as possible.
 >
@@ -1935,13 +1902,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=43)** Finally, I hope that you'll stay in touch.
 >
-> **[0:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=45)** I'm quite active on LinkedIn.
+> **[0:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=45)** I'm quite active on [[LinkedIn]].
 >
-> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=47)** Consider following me there, and if you see me at a data science conference, I hope that you'll say hi, and I hope to see you in another course soon.
+> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980&t=47)** Consider following me there, and if you see me at a [[Data Science]] conference, I hope that you'll say hi, and I hope to see you in another course soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Analytics]] (2), [[Predictive Analytics]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 

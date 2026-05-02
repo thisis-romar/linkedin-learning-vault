@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an ecommerce store
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
+#### [Build an ecommerce store](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980&t=0)** - Hi I'm Patrick Rauland and welcome to WordPress Ecommerce.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980&t=0)** - Hi I'm Patrick Rauland and welcome to [[WordPress]] Ecommerce.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980&t=4)** In this course we're going to look at everything that goes into an eCommerce website.
 >
@@ -110,14 +109,13 @@ created: 2026-05-02
 > **Code Identifiers:** ecommerce (2)
 > **Speakers:** - hi (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Before you get started with this course, there are a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980&t=4)** This course is all about adding Ecommerce functionality to a WordPress site.
+> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980&t=4)** This course is all about adding Ecommerce functionality to a [[WordPress]] site.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-2/what-you-need-to-know?u=76281980&t=8)** I won't be discussing installing or setting up WordPress.
 >
@@ -138,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Essential ecommerce features
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
+#### [Essential ecommerce features](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=0)** - [Instructor] Before we start talking about specific features or specific platforms let's talk about what you'll need in an e-commerce platform because what you need in a typical WordPress site and what you need in a WordPress site build for e-commerce are very different.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=0)** - [Instructor] Before we start talking about specific features or specific platforms let's talk about what you'll need in an [[E-Commerce]] platform because what you need in a typical [[WordPress]] site and what you need in a WordPress site build for e-commerce are very different.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=15)** For any e-commerce site, you're going to need the following.
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=35)** And you're going to need a domain name which is your home on the Internet.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=40)** The first of those items is displaying products or having some sort of product page.
+> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=40)** The first of those items is displaying [[Microsoft Products|products]] or having some sort of product page.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980&t=44)** On most platforms, there will be a product page that you can customize.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[E-Commerce]] (10), [[WordPress]] (6), data (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (10), [[WordPress]] (6), [[Microsoft Products|Products]] (2)
 > **Env Vars:** https (5), ssl (2), http (1)
 > **Prerequisites:** you'll need (2), before we start (1), install (1), set up (1)
 > **Definitions:** is a  (2)
@@ -241,8 +238,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shipping, payment, and taxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980)
+#### [Shipping, payment, and taxes](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=18)** If you've built other sites or even built a Facebook page, you've customized how things look, you've written posts, and maybe you've set up a contact page before, but rarely have people had to accept credit cards, calculate shipping costs, and collect taxes.
 >
-> **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=34)** The good news is that once you know how to handle shipping, payment, and taxes, building an ecommerce site is very similar to building a regular Wordpress site.
+> **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=34)** The good news is that once you know how to handle shipping, payment, and taxes, building an ecommerce site is very similar to building a regular [[WordPress]] site.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=43)** We're going to cover each of these in their own chapter, since they're so important to ecommerce.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **Env Vars:** usps (1), ltl (1)
 > **Analogies:** for example (1)
@@ -281,12 +277,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of accepting payment
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
+#### [Overview of accepting payment](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980&t=0)** - [Instructor] Displaying a list of products on your site is one thing.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980&t=0)** - [Instructor] Displaying a list of [[Microsoft Products|products]] on your site is one thing.
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980&t=3)** Displaying a list of products and letting people transfer funds electronically is a totally different thing and requires extra setup.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (3), product (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (1), means that (1)
@@ -363,20 +358,19 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Payment gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980)
+#### [Payment gateways](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=0)** - [Narrator] There are hundreds of payment gateways, and they all do similar things.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=3)** If you're brand-new to e-commerce, this can be overwhelming.
+> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=3)** If you're brand-new to [[E-Commerce]], this can be overwhelming.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=7)** Here are a few of the things that I consider when I'm looking for a payment gateway for a client.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=12)** The first is what products they allow.
+> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=12)** The first is what [[Microsoft Products|products]] they allow.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=15)** Their customer support is, of course, important, how easy it is to create a developer account, the rates or the amount that they charge for each transaction, and any transaction limits.
+> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=15)** Their [[Customer Support]] is, of course, important, how easy it is to create a developer account, the rates or the amount that they charge for each transaction, and any transaction limits.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=27)** What is a bit surprising to someone who is new to e-commerce is that many payment gateways have limits on what sort of products you can sell, not because of a preference that they have, but because of risk.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=72)** Years ago, I had an issue with a client where they accused me of stealing $10,000, and I had to reach out to the payment gateway to see where the money went.
 >
-> **[1:20](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=80)** I got an email a few hours later, and it turns out, the client gave me incorrect bank routing numbers.
+> **[1:20](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=80)** I got an email a few hours later, and it turns out, the client gave me incorrect bank [[Routing]] numbers.
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/payment-gateways?u=76281980&t=85)** We were able to clear it up and get the money to the client 24 hours later.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Customer Support]] (3), product (3), [[Microsoft Products|Products]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Customer Support]] (3), [[Microsoft Products|Products]] (2), [[Routing]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 2.9 (2), 3.20 (1)
 > **Definitions:** is a  (2)
@@ -465,8 +459,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### PayPal, Apple Pay, and Amazon Pay
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980)
+#### [PayPal, Apple Pay, and Amazon Pay](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,13 +487,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=45)** It's also used worldwide, so it's easy to accept a payment from just about anywhere on the globe.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=51)** Apple Pay and Android Pay have also recently started coming online.
+> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=51)** Apple Pay and [[Android]] Pay have also recently started coming online.
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=55)** This means that if you have a device or an account with either of these platforms, and the payment gateway is integrated with these services, the customer won't have to enter their payment information.
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=64)** The user clicks a button on their phone or on their computer and the payment information will be securely transferred.
 >
-> **[1:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=72)** You can see an example of this with the Stripe gateway for WooCommerce.
+> **[1:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=72)** You can see an example of this with the Stripe gateway for [[WooCommerce]].
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/paypal-apple-pay-and-amazon-pay?u=76281980&t=79)** Systems like Apple and Android Pay reduce errors for users, and users also feel more safe.
 >
@@ -528,20 +521,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[WooCommerce]] (1), feature (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[WooCommerce]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### PCI compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980)
+#### [PCI compliance](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=0)** - [Instructor] One of the scariest parts of eCommerce is handling sensitive information like credit card numbers.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=5)** And they're so easy to be misused by a malicious entity, they're heavily-controlled by the payment card industry data security standard, aka, PCIDSS, which is usually called PCI compliance.
+> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=5)** And they're so easy to be misused by a malicious entity, they're heavily-controlled by the payment card industry [[Data Security]] standard, aka, PCIDSS, which is usually called PCI compliance.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=20)** The idea of PCI compliance is to keep all consumer credit numbers secure so there are limitations on what a business can do.
 >
@@ -567,9 +559,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=79)** If you want specific details on how your software works with PCI compliance, you'll have to look on your eCommerce platform site, as well as how their gateway works.
 >
-> **[1:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=89)** WooCommerce does a great job showing you what parts of PCI compliance they handle and what parts have to be handled by different pieces of software.
+> **[1:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=89)** [[WooCommerce]] does a great job showing you what parts of PCI compliance they handle and what parts have to be handled by different pieces of software.
 >
-> **[1:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=96)** But since most platforms don't touch the actual credit card data, you don't have to do full PCI compliance check, which is dozens of pages of forms.
+> **[1:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=96)** But since most platforms don't touch the actual credit card data, you don't have to do full PCI compliance check, which is dozens of pages of [[Forms]].
 >
 > **[1:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=105)** Instead, you have to fill out the self-assessment questionnaire.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (1), business (1), [[WooCommerce]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[WooCommerce]] (1), [[Forms]] (1)
 > **Env Vars:** pci (5), pcidss (1)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (2)
@@ -591,8 +583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select a shipping method
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
+#### [Select a shipping method](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=26)** Some platforms don't have a lot of shipping options.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=29)** Platforms like Gumroad and Easy Digital Downloads are built for digital products which are delivered via a download link.
+> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=29)** Platforms like Gumroad and Easy Digital Downloads are built for digital [[Microsoft Products|products]] which are delivered via a download link.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=35)** If you choose one of these platforms, make sure that you're okay with very limited shipping options.
 >
@@ -654,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=147)** These rates are pretty complex and may take you some time to configure.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=151)** And in the WordPress world, functionality like this typically isn't free.
+> **[2:31](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=151)** And in the [[WordPress]] world, functionality like this typically isn't free.
 >
 > **[2:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980&t=156)** If you're planning on doing anything other than using flat rate shipping, make sure you budget time to set things up.
 >
@@ -662,7 +653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (1), [[WordPress]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WordPress]] (1)
 > **Prerequisites:** set up (5), you'll need (1), configure (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -670,8 +661,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Don't underestimate free shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980)
+#### [Don't underestimate free shipping](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,13 +693,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980&t=69)** One of my favorite ways to share this information with customers is to conditionally display a banner on the cart page.
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980&t=75)** With Cart Notices for WooCommerce, you can say only X more dollars to unlock free shipping.
+> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980&t=75)** With Cart Notices for [[WooCommerce]], you can say only X more dollars to unlock free shipping.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-2/don-t-underestimate-free-shipping?u=76281980&t=81)** However you do it, just make sure that customers know and make sure that you're encouraging them to buy a little more to unlock that free shipping.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Best Practices:** don't forget (1)
@@ -720,8 +710,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding taxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
+#### [Understanding taxes](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=66)** If the customer is in some other state, then I don't collect any state taxes.
 >
-> **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=71)** At a very high level, that is how e-commerce companies collect taxes on goods shipped and sold in the US.
+> **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=71)** At a very high level, that is how [[E-Commerce]] companies collect taxes on goods shipped and sold in the US.
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=78)** It's worth mentioning that the US Supreme Court recently ruled that you don't need nexus to collect sales tax.
 >
@@ -759,7 +748,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=96)** Taking a step back to the global level, there are two ways to display taxes.
 >
-> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=100)** In Europe, it's fairly common to display products with tax inclusive prices.
+> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=100)** In Europe, it's fairly common to display [[Microsoft Products|products]] with tax inclusive prices.
 >
 > **[1:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980&t=105)** That means that if the product costs $10, part of those $10 go towards the taxes.
 >
@@ -789,15 +778,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[E-Commerce]] (3), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[E-Commerce]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** general rule (1), make sure to (1)
 > **Prerequisites:** set up (1), getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting EU value-added tax (VAT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980)
+#### [Collecting EU value-added tax (VAT)](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,15 +805,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=59)** If they aren't making that much, then they don't need to follow all of these new rules.
 >
-> **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=64)** If you're selling digital products, you need to look into these E.U. VAT taxes and how to comply with them, and yes, this applies to you even if you live outside of the E.U.
+> **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=64)** If you're selling digital [[Microsoft Products|products]], you need to look into these E.U. VAT taxes and how to comply with them, and yes, this applies to you even if you live outside of the E.U.
 >
-> **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=73)** If selling digital products is a major piece of your business, make sure your e-commerce platform can work with these new laws.
+> **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=73)** If selling digital products is a major piece of your business, make sure your [[E-Commerce]] platform can work with these new laws.
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=78)** These new laws require a certain piece of information stored, and those check-outs that only have an email address and a credit card field don't save enough data, and you could get in trouble with the E.U.
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=88)** Most e-commerce platforms have a variety of solutions.
 >
-> **[1:31](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=91)** These are just some of the solutions for easy digital downloads, and other WordPress platforms have their own solutions.
+> **[1:31](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=91)** These are just some of the solutions for easy digital downloads, and other [[WordPress]] platforms have their own solutions.
 >
 > **[1:38](https://www.linkedin.com/learning/wordpress-ecommerce-2/collecting-eu-value-added-tax-vat?u=76281980&t=98)** If you're running a small store, Gumroad arguably handles this best.
 >
@@ -843,15 +831,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[E-Commerce]] (2), data (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[E-Commerce]] (2), [[WordPress]] (1)
 > **Env Vars:** vat (5), moss (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using tax services
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980)
+#### [Using tax services](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980&t=28)** A lot of platforms give you tax rates when you install the platform, but they don't keep them up to date for you.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980&t=33)** Services like TaxJar, which integrate with WooCommerce and easy digital downloads, automate a lot of the boring tax work and they're tax experts.
+> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980&t=33)** Services like TaxJar, which integrate with [[WooCommerce]] and easy digital downloads, automate a lot of the boring tax work and they're tax experts.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-tax-services?u=76281980&t=41)** Their service costs $17 a month, or about $200 a year.
 >
@@ -887,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[WooCommerce]] (1), product (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -897,18 +884,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using native WordPress platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
+#### [Using native WordPress platforms](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=0)** - [Instructor] Throughout this course I've mentioned a lot of different platforms.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=3)** In this video we'll take a look at all of the platforms that are built on top of WordPress.
+> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=3)** In this video we'll take a look at all of the platforms that are built on top of [[WordPress]].
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=8)** In general the platforms that are built on WordPress are fully featured eCommerce platforms.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=12)** They have user management, multiple payment gateways, live shipping quotes, digital product delivery, and a ton of other features.
+> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=12)** They have [[User Management]], multiple payment gateways, live shipping quotes, digital product delivery, and a ton of other features.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=20)** If you want to build a fully featured online store the platforms built on WordPress are a great choice.
 >
@@ -916,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=30)** That means that you can take the code and do just about anything with it.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=33)** If you don't like how the products are displayed you can change the code.
+> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=33)** If you don't like how the [[Microsoft Products|products]] are displayed you can change the code.
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=36)** If you don't like the order management system you can rip out that code and replace it with whatever you want.
 >
@@ -940,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=78)** This chart shows the most popular eCommerce platforms.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=83)** WooCommerce is currently the most popular platform in eCommerce space.
+> **[1:23](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=83)** [[WooCommerce]] is currently the most popular platform in eCommerce space.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980&t=86)** It was originally created by WooThemes a very reputable company in the WordPress space, and now WooCommerce is run by Automattic the company behind [wordpress.com](https://wordpress.com).
 >
@@ -970,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (12), [[WooCommerce]] (4), [[User Management]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (12), [[WooCommerce]] (4), [[User Management]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ecommerce (7)
 > **Env Vars:** edd (2), gpl (1)
 > **CLI Commands:** make (1)
@@ -979,12 +965,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using third-party platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980)
+#### [Using third-party platforms](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=0)** - [Instructor] The platforms built on top of WordPress offer you a lot of power.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=0)** - [Instructor] The platforms built on top of [[WordPress]] offer you a lot of power.
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=3)** These platforms are built directly into WordPress, which makes everything work really nicely together.
 >
@@ -994,9 +979,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=19)** There are tons of platforms out there that you can add to your WordPress site that aren't a plugin.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=25)** The first platform that's well-known for its beautiful user experience is Gumroad.
+> **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=25)** The first platform that's well-known for its beautiful [[User Experience (UX)|user experience]] is Gumroad.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=29)** They're primarily used for people selling digital products, like video courses, books, or music.
+> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=29)** They're primarily used for people selling digital [[Microsoft Products|products]], like video courses, books, or music.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=34)** To use Gumroad with WordPress, you'll create your products in Gumroad, and then link to the product page on your site.
 >
@@ -1068,7 +1053,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=179)** BigCommerce is another fully-featured eCommerce platform.
 >
-> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=182)** BigCommerce has very similar features to WooCommerce.
+> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=182)** BigCommerce has very similar features to [[WooCommerce]].
 >
 > **[3:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=184)** You probably wouldn't have a BigCommerce store and a WordPress eCommerce plugin.
 >
@@ -1076,13 +1061,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=193)** If you want to know more about BigCommerce, you can take BigCommerce Essential Training in the Library.
 >
-> **[3:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=198)** The advantage of using a fully-featured eCommerce platform like Shopify or BigCommerce is that you can use your WordPress site solely for content creation.
+> **[3:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=198)** The advantage of using a fully-featured eCommerce platform like Shopify or BigCommerce is that you can use your WordPress site solely for [[Content Creation]].
 >
 > **[3:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-third-party-platforms?u=76281980&t=206)** It's completely your choice if you want to use a platform that has a WordPress plug-in, or if you want to use a separate service like one of the ones I mentioned here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (12), product (9), [[Microsoft Products|Products]] (2), power (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (12), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[WooCommerce]] (1), [[Content Creation]] (1)
 > **Code Identifiers:** ecommerce (7)
 > **URLs:** [hplussport.net](https://hplussport.net) (2), [mywebsite.com](https://mywebsite.com) (1)
 > **Analogies:** similar to (2), just like (1)
@@ -1096,12 +1081,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing a business model
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
+#### [Choosing a business model](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=0)** - [Instructor] In the last couple of years, E-commerce has become a very exciting space.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=0)** - [Instructor] In the last couple of years, [[E-Commerce]] has become a very exciting space.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=4)** Older E-commerce platforms were really complex, really expensive, or both.
 >
@@ -1121,7 +1105,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=45)** The standard E-commerce model that we all think about is selling physical goods.
 >
-> **[0:49](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=49)** If you're interested in selling physical goods, the next step is to think about how you're going to acquire products, where you're going to store them, and how you're going to fulfill the orders.
+> **[0:49](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=49)** If you're interested in selling physical goods, the next step is to think about how you're going to acquire [[Microsoft Products|products]], where you're going to store them, and how you're going to fulfill the orders.
 >
 > **[0:58](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980&t=58)** All these will vary depending on the business model that you choose.
 >
@@ -1185,19 +1169,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[E-Commerce]] (5), business (5), product (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[E-Commerce]] (5)
 > **CLI Commands:** make (6), find (3)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980)
+#### [Defining your audience](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=0)** - [Instructor] Most people don't buy products just to spend money.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=0)** - [Instructor] Most people don't buy [[Microsoft Products|products]] just to spend money.
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=3)** They're actually looking for solutions to their problems.
 >
@@ -1225,7 +1208,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=66)** Depending on how you use your valuable screen real estate, you'll start to cater towards a particular group.
 >
-> **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=73)** If you look at how Yoga Direct sells yoga equipment, they take a very sales driven approach, there's a sale menu item and it's in red, contrasting with the rest of the menu.
+> **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=73)** If you look at how Yoga Direct sells yoga equipment, they take a very sales driven approach, there's a sale menu item and it's in red, contrasting with the [[Representational State Transfer (REST)|rest]] of the menu.
 >
 > **[1:23](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=83)** On their product pages, they show you the price and the main image of the product.
 >
@@ -1287,7 +1270,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=209)** If you want to know more about creating personas, check out UX Design 3 Creating Personas in the library.
 >
-> **[3:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=216)** Planning these out ahead of time is really important, if you set your heart on a specific WordPress theme before thinking about your audience, you may pick something that looks pretty but doesn't resonate.
+> **[3:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=216)** Planning these out ahead of time is really important, if you set your heart on a specific [[WordPress]] theme before thinking about your audience, you may pick something that looks pretty but doesn't resonate.
 >
 > **[3:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/defining-your-audience?u=76281980&t=225)** Don't be afraid to write all the qualities of your persona and print it out or pin it up near your computer.
 >
@@ -1297,19 +1280,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizing your products
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980)
+#### [Organizing your products](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=0)** - [Instructor] There are many ways you can organize your products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=0)** - [Instructor] There are many ways you can organize your [[Microsoft Products|products]].
 >
 > **[0:02](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=2)** You can sell them individually, in bundles or add-ons, as configurable products, or even as monthly subscriptions.
 >
@@ -1335,7 +1317,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=43)** It can sometimes take more convincing to sell a higher cost bundle or a subscription, and we don't have to worry about that with this model.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=51)** Ninja Forms is a WordPress form plug-in and they sell each of their premium features individually.
+> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=51)** Ninja [[Forms]] is a [[WordPress]] form plug-in and they sell each of their premium features individually.
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-ecommerce-2/organizing-your-products?u=76281980&t=56)** For casual WordPress site creators this is really nice because you can buy the one feature that you need to make your form a little bit more powerful.
 >
@@ -1411,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), product (7), [[Forms]] (4), [[WordPress]] (3), feature (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), [[Forms]] (4), [[WordPress]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -1419,8 +1401,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate your product
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980)
+#### [Validate your product](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,7 +1415,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=21)** A great way to get your toes wet before you develop an entire product line is to try selling just one product.
 >
-> **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=27)** If you can create enough orders, then you know you're on the right track and you can develop the rest of the line.
+> **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=27)** If you can create enough orders, then you know you're on the right track and you can develop the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=33)** Recently, crowdfunding sites like Kickstarter and Indiegogo have given creators a new avenue for testing the waters.
 >
@@ -1442,13 +1423,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=44)** In his first, he raised $180,000 for his initial production run, and in his second, he raised almost $800,000.
 >
-> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=52)** It was only after his initial success that he created his e-commerce site where he sells the stands year-round.
+> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=52)** It was only after his initial success that he created his [[E-Commerce]] site where he sells the stands year-round.
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=57)** He had an awesome idea and proved that it was something people wanted, and then invested it in his website and the production equipment.
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=65)** Crowdfunding is a great way to get pre-orders and judge interest.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=70)** Awhile ago, I wrote a post about my frustrations with the WooCommerce terms and conditions functionality, and I put a contact form on that page.
+> **[1:10](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=70)** Awhile ago, I wrote a post about my frustrations with the [[WooCommerce]] terms and conditions functionality, and I put a contact form on that page.
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/validate-your-product?u=76281980&t=79)** After receiving a dozen emails, I knew it was a problem worth solving, so I built a plug-in and then sold it through [WooThemes.com](https://WooThemes.com) If you don't get pre-orders or some sort of interest, that is not a bad thing.
 >
@@ -1504,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[WooCommerce]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **URLs:** [woothemes.com](https://woothemes.com) (1)
@@ -1516,12 +1497,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Attract traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
+#### [Attract traffic](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=0)** - It's not uncommon for someone to build their store only to get lost in the sea of e-commerce stores.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=0)** - It's not uncommon for someone to build their store only to get lost in the sea of [[E-Commerce]] stores.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=6)** Just because you have a website doesn't mean you'll magically start getting customers and making money.
 >
@@ -1541,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=37)** There are a lot of options when it comes to advertising.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=40)** Two of the biggest players right now are Google Ad Words and Facebook advertising.
+> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=40)** Two of the biggest players right now are [[Google]] Ad Words and Facebook advertising.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=44)** There are also plenty of smaller advertisers that you can work with that have had more targeted audience.
 >
@@ -1549,7 +1529,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=52)** You have to learn how to target the right people.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=54)** If you're a brand new store you probably can't afford to target the word tee-shirt but you may be able to cheaply target something like button down tee shirts.
+> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=54)** If you're a brand new store you probably can't afford to target the [[Microsoft Word|word]] tee-shirt but you may be able to cheaply target something like button down tee shirts.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=61)** Ads are very effective and fast to set up.
 >
@@ -1561,7 +1541,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=85)** If you don't want to pay advertisers to send people your way you'll have to rank well in search engines.
 >
-> **[1:30](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=90)** Optimizing your search engine ranking is also called Search Engine Optimization or SEO.
+> **[1:30](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=90)** Optimizing your search engine ranking is also called [[Search Engine Optimization (SEO)|Search Engine Optimization]] or SEO.
 >
 > **[1:35](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=95)** A strategy related to SEO is content marketing.
 >
@@ -1617,15 +1597,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Search]] (2), seo (2), product (2), hit (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Google]] (1), [[Microsoft Word|Word]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** seo (2)
 > **Prerequisites:** set up (2)
 > **Best Practices:** you should always (1)
 > **Speakers:** - it (1)
 
-#### Increase your average order value
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980)
+#### [Increase your average order value](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,15 +1616,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=14)** The psychological effect takes advantage of a cognitive bias that people have where we place too much importance on a first piece of data presented, skewing data that is presented later.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=24)** In the eCommerce world, we can use this to help your pricing strategy.
+> **[0:24](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=24)** In the eCommerce world, we can use this to help your [[Pricing Strategy]].
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=27)** If the first number someone sees is high, then all future numbers will look a little lower.
 >
-> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=32)** That's why when you're at an electronics store, you'll see a $6,000 TV next to a $600 TV.
+> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=32)** That's why when you're at an [[Electronics]] store, you'll see a $6,000 TV next to a $600 TV.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=39)** Relatively speaking, that $600 TV looks pretty cheap.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=43)** Even if you don't expect to sell many premium products, having at least one premium product in a line can make all the rest of them look far more affordable.
+> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=43)** Even if you don't expect to sell many premium [[Microsoft Products|products]], having at least one premium product in a line can make all the [[Representational State Transfer (REST)|rest]] of them look far more affordable.
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=52)** Another technique that you can use to get a higher average order value is to upsell.
 >
@@ -1661,7 +1640,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=79)** Most eCommerce platforms will let you manually set upsells and cross-sells.
 >
-> **[1:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=85)** And there are some specific platform solutions like Recommendation for WooCommerce that do require a little bit of extra setup, but as your store gets better, you may want to look into a service like this.
+> **[1:25](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=85)** And there are some specific platform solutions like Recommendation for [[WooCommerce]] that do require a little bit of extra setup, but as your store gets better, you may want to look into a service like this.
 >
 > **[1:36](https://www.linkedin.com/learning/wordpress-ecommerce-2/increase-your-average-order-value?u=76281980&t=96)** This software figures out the patterns behind related products better than a human.
 >
@@ -1675,15 +1654,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), data (2), [[Pricing Strategy]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Pricing Strategy]] (1), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[WooCommerce]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ecommerce (2)
 > **Prerequisites:** setup (1), set up (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding customer lifetime value
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980)
+#### [Understanding customer lifetime value](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=22)** So make sure to keep the acquisition costs low and the lifetime value high.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=26)** Some store owners, when they're planning a new e-commerce venture, will look at the acquisition costs and determine if they can have a high enough lifetime value to make the business work.
+> **[0:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=26)** Some store owners, when they're planning a new [[E-Commerce]] venture, will look at the acquisition costs and determine if they can have a high enough lifetime value to make the business work.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=35)** To find this target CLV number, we first need to start with our acquisition cost.
 >
@@ -1725,11 +1703,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=97)** This could change your CLV from two to, let's say, eight.
 >
-> **[1:41](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=101)** You can send out newsletters reminding existing customers to come back.
+> **[1:41](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=101)** You can send out [[Newsletters]] reminding existing customers to come back.
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=104)** If you have a 25% conversion rate on your newsletter, you've just increased your CLV from $8 to $12.
 >
-> **[1:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=111)** And while the customer is browsing the store, you could entice them with related products like mineral water or supplements.
+> **[1:51](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=111)** And while the customer is browsing the store, you could entice them with related [[Microsoft Products|products]] like mineral water or supplements.
 >
 > **[1:57](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-customer-lifetime-value?u=76281980&t=117)** Even a small conversion rate on a $30 supplement would raise the CLV yet again.
 >
@@ -1741,15 +1719,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[E-Commerce]] (1), product (1), [[Newsletters]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Newsletters]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** clv (7)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Increasing CLV with repeat customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980)
+#### [Increasing CLV with repeat customers](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,15 +1738,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=19)** That's one of the advantages for creating a high quality product.
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=22)** You spend a little bit more money on R&D, branding, and product development, but you spend far less in acquisition costs over the course of the product's life cycle.
+> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=22)** You spend a little bit more money on R&D, branding, and [[Product Development]], but you spend far less in acquisition costs over the course of the product's life cycle.
 >
-> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=32)** If you have one of these products, great.
+> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=32)** If you have one of these [[Microsoft Products|products]], great.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=34)** However, the vast majority of products need a little bit of helping getting people to come back.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=39)** There are three really good ways to remind people that you exist and they should come back to you.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=43)** Social media, newsletters, and marketing automation.
+> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=43)** Social media, [[Newsletters]], and marketing automation.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-ecommerce-2/increasing-clv-with-repeat-customers?u=76281980&t=48)** Encouraging customers to follow you on social media is a good way to maintain contact with your customers.
 >
@@ -1823,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Automation]] (5), [[Microsoft Products|Products]] (2), [[Newsletters]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Newsletters]] (2), [[Product Development]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
@@ -1833,8 +1810,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
+#### [Testing your site](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1874,7 +1850,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=66)** And if possible, try testing every single product.
 >
-> **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=69)** It's pretty common to see someone forget to add a weight or a dimension to one of their products.
+> **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=69)** It's pretty common to see someone forget to add a weight or a dimension to one of their [[Microsoft Products|products]].
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=73)** That will prevent those live shipping quotes from working.
 >
@@ -1898,7 +1874,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=116)** There are some automated testing tools out there.
 >
-> **[1:58](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=118)** Robot Ninja works with WooCommerce to automatically test your checkout.
+> **[1:58](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=118)** Robot Ninja works with [[WooCommerce]] to automatically test your checkout.
 >
 > **[2:02](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980&t=122)** Their pricing is incredibly generous.
 >
@@ -1918,21 +1894,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[WooCommerce]] (2), data (1), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (17)
 > **Best Practices:** make sure to (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980)
+#### [Optimizing your site](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=0)** - [Instructor] There's a lot to learn with eCommerce, and this course is just the tip of the iceberg.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=4)** Once you have a system in place and you know what products you're selling, how you're taking payment, and how you're shipping those products, you're now free to optimize everything else on your site.
+> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=4)** Once you have a system in place and you know what [[Microsoft Products|products]] you're selling, how you're taking payment, and how you're shipping those products, you're now free to optimize everything else on your site.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=13)** There's no trick to this and nothing is off limits.
 >
@@ -1942,7 +1917,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=23)** It is essential that you know what's happening on your site so you know what you should work on.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=29)** The first step for many store owners is using Google Analytics.
+> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=29)** The first step for many store owners is using [[Google]] Analytics.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=32)** It's free and it shows you how many people are accessing your site, where they're coming from, and what they're doing.
 >
@@ -1964,7 +1939,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=76)** This tool essentially records the user's window.
 >
-> **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=79)** It captures everything a user does on your page, including mouse-clicking, submitting forms, and scrolling.
+> **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=79)** It captures everything a user does on your page, including mouse-clicking, submitting [[Forms]], and scrolling.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-ecommerce-2/optimizing-your-site?u=76281980&t=86)** I recently used this on one of my own projects which was a landing page.
 >
@@ -2010,7 +1985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (7), [[Microsoft Products|Products]] (4), [[Google]] (4), data (3), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Google]] (4), [[Forms]] (1)
 > **Code Identifiers:** ecommerce (5)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.1 (1)
@@ -2023,8 +1998,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,13 +2006,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=3)** From here there are many other avenues to explore.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=6)** We talked a lot about different ways to get people to your site, and there are numerous courses in the library on topics like, SEO, Facebook and Google marketing, social media strategy, and content marketing.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=6)** We talked a lot about different ways to get people to your site, and there are numerous courses in the library on topics like, SEO, Facebook and [[Google]] marketing, social media strategy, and content marketing.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=19)** You'll want to focus on at least one of those channels to get your first 1,000 visitors.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=24)** It's always a good idea to stay informed about what's happening with each of the tools.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=28)** I run an online conference for WooCommerce called WooSesh.
+> **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=28)** I run an online conference for [[WooCommerce]] called WooSesh.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=31)** It's a free two day virtual event that anyone can attend.
 >
@@ -2048,7 +2022,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=45)** For those of you who want to see how to install and configure different eCommerce plugins, there are several courses in the library.
 >
-> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=52)** If you want to use WooCommerce and sell physical products, I recommend WordPress Ecommerce, WooCommerce here in the library.
+> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=52)** If you want to use WooCommerce and sell physical [[Microsoft Products|products]], I recommend [[WordPress]] Ecommerce, WooCommerce here in the library.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=59)** There's a few follow up courses to that as well.
 >
@@ -2058,7 +2032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), seo (1), [[Google]] (1), product (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ecommerce (3)
 > **Prerequisites:** install (1), configure (1)
 > **Env Vars:** seo (1)

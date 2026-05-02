@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the benefits of hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
+#### [Explore the benefits of hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=0)** - [Dominique] Are you an IT administrator interested in implementing a Hybrid Cloud solution, or perhaps you're an engineer new to cloud computing?
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=0)** - [Dominique] Are you an IT administrator interested in implementing a [[Hybrid Cloud]] solution, or perhaps you're an engineer new to [[Cloud Computing]]?
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=9)** Either way, I'm here to teach you all about Hybrid Cloud.
 >
@@ -88,13 +87,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=25)** By the end, you'll have a better understanding of what Hybrid Cloud is and how you can create a comprehensive strategy to implement this environment successfully.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=35)** Hi, my name is Dominique West and I'm a certified cloud security professional.
+> **[0:35](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=35)** Hi, my name is Dominique West and I'm a certified [[Cloud Security]] professional.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980&t=40)** Now, join me in my LinkedInLearning course so you can learn more about Hybrid Cloud solutions and become one step closer to becoming a cloud computing guru.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), cloud (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), [[Cloud Computing]] (3), [[Cloud Security]] (1)
 > **Speakers:** - [dominique] (1)
 
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining cloud concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
+#### [Defining cloud concepts](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=0)** - [Instructor] Before we jumped into learning all about hybrid cloud, it is important to understand some key cloud computing concepts.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=0)** - [Instructor] Before we jumped into learning all about [[Hybrid Cloud]], it is important to understand some key [[Cloud Computing]] concepts.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=8)** We will be discussing cloud deployment models.
 >
@@ -133,19 +131,19 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=72)** Typically to get started, one simply needs to browse to a public cloud provider.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=76)** For example, the Google cloud platform and create an account and voila, you have access to cloud computing resources.
+> **[1:16](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=76)** For example, the [[Google Cloud Platform (GCP)|Google cloud platform]] and create an account and voila, you have access to cloud computing resources.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=85)** Benefits to using this model include minimal upfront costs, high scalability and increased reliability for an organization.
+> **[1:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=85)** Benefits to using this model include minimal upfront costs, high [[Scalability]] and increased reliability for an organization.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=94)** Experienced challenges with this model includes security and privacy concerns, lack of customized solutions and a lack of control.
+> **[1:34](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=94)** Experienced challenges with this model includes security and [[Privacy]] concerns, lack of customized solutions and a lack of control.
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=103)** Next is private cloud.
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=106)** Whereas public cloud computing was shared amongst organizations, private cloud infrastructure is not.
+> **[1:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=106)** Whereas public cloud computing was shared amongst organizations, private [[Cloud Infrastructure]] is not.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=112)** Private cloud solutions are built exclusively for an individual organization with a single company controlling all of the virtualization resources.
 >
-> **[2:02](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=122)** Private clouds can be built right on premise for the organization.
+> **[2:02](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=122)** [[Private Clouds]] can be built right on premise for the organization.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=126)** So that way, resources are close by, or it can be stored elsewhere with a third-party.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=142)** Additional benefits include support for legacy systems and improved performance.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=147)** Deterrents for this model include higher costs since you would have to set up and maintain hardware resources and limited scalability.
+> **[2:27](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=147)** Deterrents for this model include higher costs since you would have to set up and maintain [[Hardware]] resources and limited scalability.
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=157)** The community cloud model is not commonly used by organizations, but it's still important to understand in case you ever come across this type of architecture.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=199)** That's where hybrid and multi-cloud computing come into play.
 >
-> **[3:24](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=204)** Hybrid cloud refers to a mix of private and public cloud services and infrastructure to meet the needs of an organization.
+> **[3:24](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=204)** Hybrid cloud refers to a mix of private and public [[Cloud Services]] and infrastructure to meet the needs of an organization.
 >
 > **[3:31](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980&t=211)** For example, having mission critical data on premise and utilizing AWS for certain applications.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), [[Hybrid Cloud]] (5), data (4), [[Security]] (3), [[Cloud Infrastructure]] (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (7), [[Hybrid Cloud]] (5), [[Cloud Infrastructure]] (3), [[Private Clouds]] (3), [[Scalability]] (2)
 > **Analogies:** for example (2), similar to (2)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** aws (1)
@@ -203,12 +201,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid cloud benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980)
+#### [Hybrid cloud benefits](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=0)** - [Instructor] Hybrid cloud computing offers numerous benefits and advantages.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=0)** - [Instructor] [[Hybrid Cloud]] computing offers numerous benefits and advantages.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=5)** One of its first benefits and drivers for this model comes from the cost savings.
 >
@@ -218,11 +215,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=25)** Many organizations are realizing that a purely private or public infrastructure just doesn't fit their long-term needs.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=33)** Unfortunately, if this is discovered after starting a cloud migration, an organization can find themselves having to switch up their infrastructure setup, which can lead to higher overall costs in cloud computing.
+> **[0:33](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=33)** Unfortunately, if this is discovered after starting a cloud migration, an organization can find themselves having to switch up their infrastructure setup, which can lead to higher overall costs in [[Cloud Computing]].
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=46)** By keeping critical data in a private portion of a hybrid environment, and migrating less critical data to various cloud providers, an organization can avoid complications that come with moving data after the fact.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=60)** A second important benefit comes from the flexibility and scalability of hybrid cloud computing.
+> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=60)** A second important benefit comes from the flexibility and [[Scalability]] of hybrid cloud computing.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=67)** Hybrid clouds can scale to support times of high demand for applications or services without an organization having to over provision its own data centers.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=118)** Security is a core component for many enterprises and handing over full control of how your data is transferred, stored and processed can be a major concern.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=129)** Instead of moving all of your data into a purely public cloud infrastructure, businesses can keep their most sensitive data in their own managed data center.
+> **[2:09](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=129)** Instead of moving all of your data into a purely public [[Cloud Infrastructure]], businesses can keep their most sensitive data in their own managed data center.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=140)** Hybrid cloud offers the best of both worlds, allowing enterprises to keep their assets where they can see and control them.
 >
@@ -246,29 +243,28 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=161)** Luckily, public cloud providers can help enterprises create and implement uniformity across the different environments, allowing enterprises to take advantage of public and private infrastructure.
 >
-> **[2:54](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=174)** Microsoft Azure Stack and Google Anthos both offer hybrid services that enable cross-deployment uniformity.
+> **[2:54](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=174)** [[Microsoft Azure]] Stack and [[Google]] Anthos both offer hybrid services that enable cross-deployment uniformity.
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-benefits?u=76281980&t=182)** While there are many benefits to hybrid cloud computing, your unique and specific infrastructure needs will be the biggest factor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (9), [[Hybrid Cloud]] (5), [[Security]] (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (5), [[Cloud Computing]] (2), [[Scalability]] (1), [[Cloud Infrastructure]] (1), [[Microsoft Azure]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring hybrid cloud use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980)
+#### [Exploring hybrid cloud use cases](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=0)** - [Narrator] Though hybrid cloud comes with numerous benefits, how do you know if it's the right deployment model for you?
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=0)** - [Narrator] Though [[Hybrid Cloud]] comes with numerous benefits, how do you know if it's the right deployment model for you?
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=6)** Before you can decide if hybrid cloud is right, it's important for you to understand some of the challenges your organization may face during implementation.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=15)** Some of the most common challenges organizations come across include upfront hardware cost, the complexity of gaining full visibility in all of your environments, as well as the complexity of managing multiple vendors and platforms.
+> **[0:15](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=15)** Some of the most common challenges organizations come across include upfront [[Hardware]] cost, the complexity of gaining full visibility in all of your environments, as well as the complexity of managing multiple vendors and platforms.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=30)** The reason these challenges are common stems from the lack of management resources and planning.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=80)** You could incrementally test out how a cloud migration would work utilizing a hybrid structure, and see how the cloud can help you meet your current and future needs.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=90)** Third is big data processing and analytics.
+> **[1:30](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=90)** Third is [[Big Data]] processing and analytics.
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=94)** Hybrid solutions are great for enterprises that would like to run data analytics, but may not have the capacity to handle or process it.
 >
@@ -298,13 +294,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=112)** Similar to the benefits discussed in a previous video, hybrid solutions are a great option for enterprises that need to protect their sensitive data, such as financial or customer data.
 >
-> **[2:04](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=124)** Having the ability to have security and control over your data while still taking advantage of cloud computing resources is one of the great benefits of hybrid cloud.
+> **[2:04](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=124)** Having the ability to have security and control over your data while still taking advantage of [[Cloud Computing]] resources is one of the great benefits of hybrid cloud.
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/exploring-hybrid-cloud-use-cases?u=76281980&t=134)** Overall, a hybrid cloud is a great option for enterprises looking for the best of both computing worlds and can possibly be a game changer for your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hybrid Cloud]] (8), cloud (7), data (5), management (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (8), [[Big Data]] (2), [[Hardware]] (1), [[Cloud Computing]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -315,14 +311,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of hybrid cloud vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
+#### [Overview of hybrid cloud vendors](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=0)** - [Narrator] The popularity of hybrid cloud has sparked a boom of service providers in the industry.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=0)** - [Narrator] The popularity of [[Hybrid Cloud]] has sparked a boom of service providers in the industry.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=6)** Amazon, Microsoft, Google, VMware, and IBM are each major players in the hybrid cloud economy.
+> **[0:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=6)** Amazon, [[Microsoft]], [[Google]], VMware, and IBM are each major players in the hybrid cloud economy.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=14)** HP and Oracle also offer hybrid cloud solutions.
 >
@@ -338,11 +333,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=46)** Secondly, sufficient scaling to meet the need of your growing data.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=51)** And lastly, easy storage management and access.
+> **[0:51](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=51)** And lastly, easy [[Storage Management]] and access.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=56)** HPE, also known as Hewlett Packard Enterprise, is a branch off of Hewlett-Packard Company with a vision to help organizations accelerate outcomes by unlocking value from all of their data from edge to cloud.
 >
-> **[1:11](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=71)** Founded in 2015, HP's cloud solution called GreenLake combined hardware with software to provide hybrid, edge an AI infrastructure services.
+> **[1:11](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=71)** Founded in 2015, HP's cloud solution called GreenLake combined [[Hardware]] with software to provide hybrid, edge an AI infrastructure services.
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=83)** Those similar to other providers in allowing customers to pay over time instead of upfront.
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=101)** So if you're looking for a provider that offers a broad set of cloud-like services, central management and consumption-based model, this provider might be the one for you.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=112)** Oracle Cloud Infrastructure is a set of complimentary cloud services that enable you to build and run a wide range of applications and services in a highly available hosted environment.
+> **[1:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=112)** Oracle [[Cloud Infrastructure]] is a set of complimentary [[Cloud Services]] that enable you to build and run a wide range of applications and services in a highly available hosted environment.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980&t=126)** By offering high performance compute capabilities and storage capacity, Oracle is a great choice for on-premise flexibility.
 >
@@ -364,18 +359,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (7), [[Hybrid Cloud]] (3), [[Hardware]] (2), [[Cloud Infrastructure]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (3), [[Hardware]] (2), [[Cloud Infrastructure]] (2), [[Cloud Services]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **Env Vars:** hpe (3), ibm (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### AWS hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980)
+#### [AWS hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=0)** - [Dominique] Amazon Web Services, also known as AWS, is one of the leading cloud service providers in the cloud computing industry.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=0)** - [Dominique] [[Amazon Web Services (AWS)|Amazon Web Services]], also known as AWS, is one of the leading cloud service providers in the [[Cloud Computing]] industry.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=9)** Started back in 2006, AWS has been offering infrastructure services for a decade, and now powers thousands of businesses across the globe.
 >
@@ -385,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=44)** This is a great opportunity for companies that may have more broad organizational needs.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=51)** AWS's most popular solution categories include application hosting, websites, backup and storage, enterprise IT, content delivery, and databases.
+> **[0:51](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=51)** AWS's most popular solution categories include application hosting, websites, backup and storage, enterprise IT, content delivery, and [[Databases]].
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/aws-hybrid-cloud?u=76281980&t=65)** Determining if Amazon Web Services is the right provider for you will come down to the wants and needs of your organization and the type of workloads you are running.
 >
@@ -401,34 +395,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), cloud (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (1)
 > **CLI Commands:** aws (11)
 > **Env Vars:** aws (11)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [dominique] (1)
 
-#### Microsoft Azure hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980)
+#### [Microsoft Azure hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=0)** - [Narrator] Originally announced in 2008 and publicly available for consumption in 2010, Microsoft Azure is one of the leading public cloud service providers for enterprises.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=0)** - [Narrator] Originally announced in 2008 and publicly available for consumption in 2010, [[Microsoft Azure]] is one of the leading public cloud service providers for enterprises.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=12)** Microsoft Azure started off as an internal project, code name project Red Dog, with a very limited number of services formed around a couple of pillars.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=22)** They included compute, networking, and storage services, [microsoft.net](https://microsoft.net) for developers, live services for file sharing, Microsoft SQL for databases, and SharePoint services for CRM services.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=22)** They included compute, networking, and storage services, [[[Microsoft]].net](https://microsoft.net) for developers, live services for file sharing, Microsoft [[SQL]] for [[Databases]], and [[SharePoint]] services for CRM services.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=38)** Azure started off as a niche developer community platform, and was not enterprise friendly.
+> **[0:38](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=38)** [[Microsoft Azure|Azure]] started off as a niche developer community platform, and was not enterprise friendly.
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=45)** Fortunately, Microsoft took the criticism seriously and soon began to roll out an extensive and inclusive platform for all types of workloads, which propelled them to become one of the fastest growing clouds in 2021.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=60)** Microsoft Azure now offers hundreds of services within various categories, including AI and machine learning, blockchain, containers, the Internet of things, security, and much more.
+> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=60)** Microsoft Azure now offers hundreds of services within various categories, including AI and machine learning, [[Blockchain]], containers, the [[IoT|Internet of things]], security, and much more.
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=76)** So what makes Azure the most attractive to enterprises over other cloud service providers?
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=82)** It would definitely be it's exclusive offering of Microsoft's previous products in services in the cloud.
+> **[1:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=82)** It would definitely be it's exclusive offering of Microsoft's previous [[Microsoft Products|products]] in services in the cloud.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=89)** Many organizations were already using Microsoft products, namely their operating system and database services.
+> **[1:29](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=89)** Many organizations were already using [[Microsoft Products]], namely their operating system and database services.
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=97)** Now, they provide the most advanced and maximum number of intelligent products and services.
 >
@@ -442,25 +435,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (3), cloud (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (3), [[Microsoft Products|Products]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1), crm (1)
 > **URLs:** [microsoft.net](https://microsoft.net) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Google hybrid cloud platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980)
+#### [Google hybrid cloud platform](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=0)** - [Narrator] Google is a household name for its search engine, but it is also becoming one of the leading cloud service provider platforms.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=0)** - [Narrator] [[Google]] is a household name for its search engine, but it is also becoming one of the leading cloud service provider platforms.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=8)** The Google cloud platform was first launched in 2008, and started with a developer tool called App Engine.
+> **[0:08](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=8)** The [[Google Cloud Platform (GCP)|Google cloud platform]] was first launched in 2008, and started with a developer tool called App Engine.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=16)** App Engine allowed users to run their web application on Google's infrastructure.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=22)** Since then, the platform has expanded exponentially with offerings running from compute to data analytics, media and gaming, to Google workplace collaboration tools for enterprises and more.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=35)** Google cloud services are currently available in 28 regions, with 85 zones, 146 network edge locations, and over 200 countries.
+> **[0:35](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=35)** [[Google Cloud Platform (GCP)|Google cloud]] services are currently available in 28 regions, with 85 zones, 146 network edge locations, and over 200 countries.
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=47)** Though Google is considered one of the big three when it comes to cloud service providers, there are a couple of things to consider that helps Google stand out from the others.
 >
@@ -468,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=63)** For example, containers.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=65)** Google played a central role in the development of Kubernetes, the open source container orchestration system that allowed users to automate their computer application deployments.
+> **[1:05](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=65)** Google played a central role in the development of [[Kubernetes]], the open source container orchestration system that allowed users to automate their computer application deployments.
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=77)** The second differentiator comes from its longevity as the powerhouse search engine that has unprecedented scale.
 >
@@ -480,36 +472,35 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=108)** As they launch Google Anthos in 2019 as a premium service for customers to run their containers on premise in a data center.
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=117)** This launched GCP into the hybrid cloud space, enabling customers to take advantage of both private and public clouds.
+> **[1:57](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=117)** This launched GCP into the [[Hybrid Cloud]] space, enabling customers to take advantage of both private and public clouds.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=126)** So if you're looking for massive scale technology, need more flexibility for your developers, and are into big data, GCP might be the way for you.
+> **[2:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/google-hybrid-cloud-platform?u=76281980&t=126)** So if you're looking for massive scale technology, need more flexibility for your developers, and are into [[Big Data]], GCP might be the way for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Search]] (2), cloud (2), data (2), gcp (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Kubernetes]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** gcp (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### VMware hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980)
+#### [VMware hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=0)** - [Instructor] From virtualization to cloud computing, VMware has fast become a top leading company in the cloud virtualization space.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=0)** - [Instructor] From virtualization to [[Cloud Computing]], VMware has fast become a top leading company in the cloud virtualization space.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=10)** Started in 1998, VMware started off as a virtualization technology company who became the first commercially successful company to offer virtualized infrastructure.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=22)** With a focus on desktop software, VMware specializes in providing software hypervisors for enterprises that can run on multiple operating systems, such as Microsoft Windows, Linux, and Mac iOS.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=22)** With a focus on desktop software, VMware specializes in providing software hypervisors for enterprises that can run on multiple operating systems, such as [[Microsoft]] [[Windows]], [[Linux]], and Mac iOS.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=37)** Since then, VMware has expanded into the public cloud infrastructure space, building out a service-agnostic hybrid cloud platform.
+> **[0:37](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=37)** Since then, VMware has expanded into the public [[Cloud Infrastructure]] space, building out a service-agnostic [[Hybrid Cloud]] platform.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=46)** Being service-agnostic, mean it is compatible to work with any platform.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=52)** Therefore, VMware is able to span across various enterprise data centers, edge locations, managed service providers, and public cloud infrastructure.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=63)** VM Ware's cloud strategy is to minimize the differences between implementations on AWS, Azure, and Google cloud, meaning it can help standardize your infrastructure across multiple cloud providers.
+> **[1:03](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=63)** VM Ware's [[Cloud Strategy]] is to minimize the differences between implementations on AWS, [[Microsoft Azure|Azure]], and [[Google Cloud Platform (GCP)|Google cloud]], meaning it can help standardize your infrastructure across multiple cloud providers.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=78)** In addition, organizations can maintain legacy systems on premise and use VMware's cloud on a provider, like AWS, giving them the best of both worlds.
 >
@@ -529,13 +520,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=141)** VMware will manage all patches and upgrades for you.
 >
-> **[2:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=145)** While this example utilizes AWS, VMware has made their technology available for consumption on the Google cloud platform, as well as Microsoft Azure.
+> **[2:25](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=145)** While this example utilizes AWS, VMware has made their technology available for consumption on the [[Google Cloud Platform (GCP)|Google cloud platform]], as well as [[Microsoft Azure]].
 >
 > **[2:36](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/vmware-hybrid-cloud?u=76281980&t=156)** So regardless of your current infrastructure, you may be able to leverage VMware tools in your hybrid cloud setup.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), aws (6), [[Virtualization]] (4), [[Cloud Infrastructure]] (2), [[Hybrid Cloud]] (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Hybrid Cloud]] (2), [[Cloud Computing]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
 > **Analogies:** such as (2), for example (1)
@@ -543,14 +534,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
-#### IBM hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980)
+#### [IBM hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=0)** - [instructor] IBM Cloud is a set of cloud computing services ranging across the different deployment models that offer public, private and hybrid solutions, powered by the virtualization giant, IBM.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=0)** - [instructor] IBM Cloud is a set of [[Cloud Computing]] services ranging across the different deployment models that offer public, private and hybrid solutions, powered by the virtualization giant, IBM.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=14)** IBM Cloud Services range from AI machine learning, to blockchain, to content computing and much more.
+> **[0:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=14)** IBM [[Cloud Services]] range from AI machine learning, to [[Blockchain]], to content computing and much more.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=22)** Did you know, IBM was first called the Computing Tabulating and Recording Company founded in the late 1800s?
 >
@@ -558,13 +548,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=40)** After some quick growth, the company changed its name in the early 1920s to what we now know as IBM.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=48)** With the invention of the mainframe in the 1950s, IBM developed the VM operating system, which enabled multiple virtual machines on a shared node.
+> **[0:48](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=48)** With the invention of the mainframe in the 1950s, IBM developed the VM operating system, which enabled multiple [[Virtual Machines]] on a shared node.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=60)** The company lodged into the modern cloud computing space in 2008, as it announced a software as a service collaboration suite named Bluehouse, which was later named IBM Smart Cloud.
+> **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=60)** The company lodged into the modern cloud computing space in 2008, as it announced a [[SaaS|software as a service]] collaboration suite named Bluehouse, which was later named IBM Smart Cloud.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=74)** Also getting into the private cloud space, IBM launched CloudBurst in 2009 and its first infrastructure as a service called IBM Smart Business Storage Cloud.
+> **[1:14](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=74)** Also getting into the private cloud space, IBM launched CloudBurst in 2009 and its first [[IaaS|infrastructure as a service]] called IBM Smart Business Storage Cloud.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=86)** Now, one of the world's most notable leaders in the computer system space for business and scientific applications, IBM is a top contender in cloud computing, offering hardware, software and services for helping enterprises build private clouds as well as offering public cloud services.
+> **[1:26](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=86)** Now, one of the world's most notable leaders in the computer system space for business and scientific applications, IBM is a top contender in cloud computing, offering [[Hardware]], software and services for helping enterprises build [[Private Clouds]] as well as offering public cloud services.
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/ibm-hybrid-cloud?u=76281980&t=106)** So what helps them stand out from the competition?
 >
@@ -580,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Blockchain]] (2), business (2), [[Virtualization]] (1), ai (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Cloud Services]] (2), [[Blockchain]] (2), [[Virtual Machines]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Env Vars:** ibm (14)
 > **Definitions:** is a  (4)
 > **CLI Commands:** node (1)
@@ -591,12 +581,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid cloud strategy considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
+#### [Hybrid cloud strategy considerations](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=0)** - [Instructor] Building a hybrid cloud strategy involves several key factors, and is the foundation for any organization looking to be successful in its cloud transformation, a hybrid cloud strategy defines the what and where for applications in data that will be placed in this hybrid cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=0)** - [Instructor] Building a [[Hybrid Cloud]] strategy involves several key factors, and is the foundation for any organization looking to be successful in its cloud transformation, a hybrid cloud strategy defines the what and where for applications in data that will be placed in this hybrid cloud infrastructure.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=19)** That means defining what applications and data will be in a private cloud and what will be in the public cloud.
 >
@@ -618,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=84)** Are there any current in-house applications that are necessary, but maybe unstable if so, consider replacing them with a more stable and flexible solution.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=94)** For example a software as a service.
+> **[1:34](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=94)** For example a [[SaaS|software as a service]].
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980&t=97)** Doing so can help cut down the maintenance, time, and overhead costs of keeping an in-house created application.
 >
@@ -630,13 +619,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (4), [[Hybrid Cloud]] (3), next (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (3), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid cloud management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980)
+#### [Hybrid cloud management](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=26)** The most common challenge is complexity.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=29)** Hybrid cloud management tools can help by managing dynamic workloads and standardizing security across your on-premise and cloud infrastructure.
+> **[0:29](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=29)** [[Hybrid Cloud]] management tools can help by managing dynamic workloads and standardizing security across your on-premise and [[Cloud Infrastructure]].
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=38)** Another concern your organization may face is around integrating your cloud platforms with your existing technology.
 >
@@ -660,7 +648,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=60)** End-to-end means orchestration is seamless throughout both environments from start to finish of a process.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=66)** Find a tool that will allow you to integrate cloud services across all platforms so that your data and its dependencies can be easily traveled.
+> **[1:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=66)** Find a tool that will allow you to integrate [[Cloud Services]] across all platforms so that your data and its dependencies can be easily traveled.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-management?u=76281980&t=75)** Secondly, automation will be key during provisioning to help IT teams scale their workloads easily across hybrid systems.
 >
@@ -678,15 +666,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (4), management (3), [[Orchestration]] (3), [[Automation]] (3)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (2), [[Cloud Infrastructure]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ssl (1), tls (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud migration best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980)
+#### [Cloud migration best practices](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980&t=22)** It sounds simple, but research has shown that approximately one out of every three cloud migration projects, stall or fail.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980&t=30)** Common reasons reported for failure include a lack of understanding of cloud security, and best practices.
+> **[0:30](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980&t=30)** Common reasons reported for failure include a lack of understanding of [[Cloud Security]], and best practices.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/cloud-migration-best-practices?u=76281980&t=36)** A lack of clearly defined business use cases for cloud migration and insufficient planning.
 >
@@ -740,25 +727,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), teams (4), [[Security]] (2), business (2), data (2)
+> **Frameworks & Libraries:** [[Cloud Security]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid cloud security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980)
+#### [Hybrid cloud security](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=0)** - [Instructor] Cloud computing introduces many challenges and complexities when it comes to implementation and management.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] introduces many challenges and complexities when it comes to implementation and management.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=6)** Another important aspect for organizations to consider in hybrid cloud environments is security.
+> **[0:06](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=6)** Another important aspect for organizations to consider in [[Hybrid Cloud]] environments is security.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=13)** Integrating your private data center with public clouds has many benefits, but the additional cloud infrastructure can create a larger attack surface, which in turn creates more complexities in terms of risk.
+> **[0:13](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=13)** Integrating your private data center with public clouds has many benefits, but the additional [[Cloud Infrastructure]] can create a larger attack surface, which in turn creates more complexities in terms of risk.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=26)** In addition, compliance challenges continue to prevail, as you have to consistently apply and maintain cloud security controls across multiple platforms.
+> **[0:26](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=26)** In addition, compliance challenges continue to prevail, as you have to consistently apply and maintain [[Cloud Security]] controls across multiple platforms.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=36)** Some of the most common risks, threats and vulnerabilities of hybrid cloud include visibility and control, governance, data security, and DDoS attacks.
+> **[0:36](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=36)** Some of the most common risks, threats and vulnerabilities of hybrid cloud include visibility and control, governance, [[Data Security]], and DDoS attacks.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=49)** The first is visibility and control.
 >
@@ -780,7 +766,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=101)** So you guessed right, this challenge increases in a hybrid cloud solution.
 >
-> **[1:45](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=105)** Protecting data at rest and in transit and having solutions such as an operating system that support full disk encryption and using hardware encryption, such as TPM, can help you with this challenge.
+> **[1:45](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=105)** Protecting data at [[Representational State Transfer (REST)|rest]] and in transit and having solutions such as an operating system that support full disk encryption and using [[Hardware]] encryption, such as TPM, can help you with this challenge.
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-security?u=76281980&t=118)** The final common risk that you should understand is DDoS, which stands for distributed denial-of-service, which is a malicious attempt to disrupt the normal traffic to a service, network or server.
 >
@@ -792,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (5), cloud (4), [[Hybrid Cloud]] (4), [[Cloud Infrastructure]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Cloud Computing]] (2), [[Cloud Infrastructure]] (2), [[Data Security]] (2), [[Cloud Security]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** such as (2)
@@ -805,12 +791,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)
+#### [Learning more about hybrid cloud](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=0)** - [Dominique] Congratulations, you made it to the end of this course, time flies when you're having fun or in our case, learning all about Hybrid Cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=0)** - [Dominique] Congratulations, you made it to the end of this course, time flies when you're having fun or in our case, learning all about [[Hybrid Cloud]].
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=10)** We covered a lot of ground, including an introduction to the concept of Hybrid Cloud, some popular platforms you can choose from and some guidance over best practices.
 >
@@ -820,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=43)** Or if you like more hands-on experience, I recommend creating a free trial account on any of the mentioned cloud service providers.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=52)** If you're interested in cloud security, check out my Learning Google Cloud Security Course on LinkedIn.
+> **[0:52](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=52)** If you're interested in [[Cloud Security]], check out my Learning [[Google Cloud Platform (GCP)|Google Cloud]] Security Course on [[LinkedIn]].
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980&t=59)** I appreciate you taking the time to complete this course and hope you have learned some valuable information.
 >
@@ -828,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Hybrid Cloud]] (3), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (3), [[Cloud Security]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [dominique] (1)
 

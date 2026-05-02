@@ -132,8 +132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage and AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
+#### [Storage and AWS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,39 +150,38 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=33)** I'm an enterprise architect at the University of Notre Dame.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=37)** I've been working in the cloud since 2014 when our organization began a massive migration of services, business processes, and data to the cloud with Amazon Web Services.
+> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=37)** I've been working in the cloud since 2014 when our organization began a massive migration of services, business processes, and data to the cloud with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
-> **[0:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=48)** In the process, we learned a tremendous amount and became a recognized leader in cloud operations for the higher education space.
+> **[0:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=48)** In the process, we learned a tremendous amount and became a recognized leader in cloud operations for the [[Higher Education]] space.
 >
 > **[0:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980&t=55)** Now, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), aws (3), data (3), management (1), business (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Higher Education]] (1)
 > **Env Vars:** aws (3), rds (1), efs (1)
 > **CLI Commands:** aws (3)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=0)** - [Instructor] If you're looking to store and manage data in the cloud, you've come to the right place.
 >
-> **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=5)** Amazon Web Services is home to a wide array of options to suit just about any data storage job you can throw at it, from file storage to relational data to NoSQL style documents and objects.
+> **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=5)** [[Amazon Web Services (AWS)|Amazon Web Services]] is home to a wide array of options to suit just about any [[Data Storage]] job you can throw at it, from file storage to relational data to [[NoSQL]] style documents and objects.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=18)** In AWS, you have many options as to the kind of storage available to you.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=22)** There's object storage supported by S3, Amazon's oldest and most durable service, block storage via Elastic Block Store, the easy way to provision drive capacity for EC2 instances, relational databases, courtesy of RDS, Amazon's managed relational database service.
+> **[0:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=22)** There's object storage supported by S3, Amazon's oldest and most durable service, block storage via Elastic Block Store, the easy way to provision drive capacity for [[Amazon EC2|EC2]] instances, [[Relational Databases]], courtesy of RDS, Amazon's managed relational database service.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=41)** You have NoSQL courtesy of DynamoDB and data warehousing via Redshift though the last one is outside the scope of this course.
+> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=41)** You have NoSQL courtesy of DynamoDB and [[Data Warehousing]] via Redshift though the last one is outside the scope of this course.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=51)** When you use AWS storage and data management services not only do you gain access to all these storage types in one place, but you also take advantage of AWS's high level of service and reliability.
+> **[0:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=51)** When you use AWS storage and [[Data Management]] services not only do you gain access to all these storage types in one place, but you also take advantage of AWS's high level of service and reliability.
 >
-> **[1:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=63)** You get incredible durability particularly with objects stored in S3, high availability, a built-in feature of many AWS storage services, automated backups, automated as with RDS relational databases, or able to be automated as with Dynamo or EBS, managed services where we don't have to worry about running the underlying servers or configuring and maintaining platforms, and seamless encryption at REST as seen an S3 EBS and more.
+> **[1:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=63)** You get incredible durability particularly with objects stored in S3, high availability, a built-in feature of many AWS storage services, automated backups, automated as with RDS relational databases, or able to be automated as with Dynamo or EBS, managed services where we don't have to worry about running the underlying servers or configuring and maintaining platforms, and seamless encryption at [[Representational State Transfer (REST)|REST]] as seen an S3 EBS and more.
 >
-> **[1:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=94)** Think of the time, research, and resources that can go into making your own homegrown or on-premises storage achieve these features and you'll start to see why cloud storage particularly in AWS, is so compelling.
+> **[1:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=94)** Think of the time, research, and resources that can go into making your own homegrown or on-premises storage achieve these features and you'll start to see why [[Cloud Storage]] particularly in AWS, is so compelling.
 >
 > **[1:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=108)** I do want to give a heads up about which AWS services are not in scope for this series.
 >
@@ -191,33 +189,32 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=120)** Similarly, AWS's data warehouse, Redshift, is not covered in the course.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=124)** For a closer look at data analytics and AWS, check out another course in this library called Amazon Web Services for Data Science.
+> **[2:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-you-should-know?u=76281980&t=124)** For a closer look at data analytics and AWS, check out another course in this library called Amazon Web Services for [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), aws (8), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[NoSQL]] (2), [[Relational Databases]] (2), [[Data Storage]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (8), rds (2), ebs (2), ec2 (1), rest (1)
 > **CLI Commands:** aws (8)
 > **Analogies:** such as (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=0)** - [Narrator] If you check the details for this course, you'll see a link to a GitHub repository that contains all the files that I'll be referencing throughout the course.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=0)** - [Narrator] If you check the details for this course, you'll see a link to a [[GitHub]] repository that contains all the files that I'll be referencing throughout the course.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=8)** Now, it's certainly possible for you to just listen and watch and follow along, but if you want to go along with me and perform the demos yourself these files will come in handy.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=18)** Chapter two has a few data files that we'll use to interact with S3, as well as a policy template that we'll use to set up an SNS topic.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=28)** Chapter four has some SQL code that we'll use to set up data in an RDS database and a JSON file that we'll use for DynamoDB.
+> **[0:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=28)** Chapter four has some [[SQL]] code that we'll use to set up data in an RDS database and a [[JSON]] file that we'll use for DynamoDB.
 >
-> **[0:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=39)** Chapter five has a subfolder full of files that we use to demonstrate the S3 CLI and a policy that we use to set up AWS transfer for SFTP.
+> **[0:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=39)** Chapter five has a subfolder full of files that we use to demonstrate the S3 [[CLI]] and a policy that we use to set up AWS transfer for SFTP.
 >
-> **[0:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=50)** Finally, chapter six contains some SQL and some Python that we'll use while demonstrating AWS Glue.
+> **[0:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=50)** Finally, chapter six contains some SQL and some [[Python (Programming Language)|Python]] that we'll use while demonstrating AWS Glue.
 >
 > **[0:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/exercise-files?u=76281980&t=57)** So whether you clone this repo or you're just downloading or referencing files from the web everything you need should be here to follow along with this course.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (2), aws (2), [[GitHub]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[GitHub]] (1), [[JSON]] (1), [[CLI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (2), aws (2), sns (1), rds (1), json (1)
 > **CLI Commands:** aws (2), python (1)
 > **Prerequisites:** set up (3)
@@ -238,8 +235,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
+#### [What is data management?](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,14 +263,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), management (2), business (1), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data security in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980)
+#### [Data security in AWS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=9)** The way AWS puts it, a shared responsibility model means that AWS handles the security of the cloud, while the AWS customer handles security in the cloud.
 >
-> **[0:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=19)** What this means is that AWS provides assurances about the security and capabilities of their services and about the physical security of the hardware on which your resources live.
+> **[0:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=19)** What this means is that AWS provides assurances about the security and capabilities of their services and about the physical security of the [[Hardware]] on which your resources live.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=30)** Meanwhile, you are responsible for understanding how to use these services in an appropriate way to satisfy your obligations.
 >
@@ -306,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=86)** Not only that but AWS background checks all their employees, limits access to only those people with a legitimate business need for such access, and logs every visit to a remote location.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=98)** All this should give you some assurance that no unauthorized person is going to tamper with the hardware running your EC2 instance or storing your S3 data.
+> **[1:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=98)** All this should give you some assurance that no unauthorized person is going to tamper with the hardware running your [[Amazon EC2|EC2]] instance or storing your S3 data.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=106)** But what about other threats?
 >
@@ -326,13 +320,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=154)** While some services like EFS handle replication for you, other AWS services leave it to you.
 >
-> **[2:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=160)** If you don't architect your applications and data storage to take advantage of the high availability options AWS offers, you may end up putting your business at risk.
+> **[2:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=160)** If you don't architect your applications and [[Data Storage]] to take advantage of the high availability options AWS offers, you may end up putting your business at risk.
 >
 > **[2:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=170)** That's just a tip of the iceberg as far as AWS's security of the cloud.
 >
-> **[2:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=175)** Within the data centers of AWS, you'll find state-of-the-art advanced networking monitoring, world-class intrusion detection, strict change management practices, and regular third party audits to ensure the solidity of all the above.
+> **[2:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=175)** Within the data centers of AWS, you'll find state-of-the-art advanced networking monitoring, world-class [[Intrusion Detection]], strict change management practices, and regular third party audits to ensure the [[Solidity]] of all the above.
 >
-> **[3:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=190)** If you're interested in the details, just search for AWS security white paper and you can read pages upon pages of detailed assurances about the security of AWS.
+> **[3:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=190)** If you're interested in the details, just search for [[AWS Security]] white paper and you can read pages upon pages of detailed assurances about the security of AWS.
 >
 > **[3:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/data-security-in-aws?u=76281980&t=201)** Suffice it to say that AWS spends more time, money, people, and effort on security and operations than most organizations could ever dream to match.
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (25), [[Security]] (17), data (11), cloud (8), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Amazon EC2|Ec2]] (1), [[Data Storage]] (1), [[Intrusion Detection]] (1), [[Solidity]] (1)
 > **Env Vars:** aws (25), efs (2), rds (2), ebs (2), ec2 (1)
 > **CLI Commands:** aws (25), make (1), find (1)
 > **Analogies:** for instance (2), just like (1)
@@ -376,8 +370,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regulatory compliance and AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980)
+#### [Regulatory compliance and AWS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=56)** If we scroll to the bottom of this page, and click the link, 'Compliance Resources,' we'll find a list of white papers that AWS provides, to help you understand how to do compliance in the cloud.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=66)** For instance, architecting for HIPAA security and compliance on Amazon Web Services.
+> **[1:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=66)** For instance, architecting for HIPAA security and compliance on [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[1:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=72)** Clicking that opens a pdf.
 >
@@ -415,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=110)** Here I am at the main console of Amazon Web Services.
 >
-> **[1:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=114)** You access AWS artifact the same way you'd access any AWS service, such as EC2 or RDS.
+> **[1:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=114)** You access AWS artifact the same way you'd access any AWS service, such as [[Amazon EC2|EC2]] or RDS.
 >
 > **[2:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=120)** It's an entry in the main menu.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=149)** So, don't share your copy.
 >
-> **[2:32](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=152)** Because of this, I won't demonstrate downloading the documents, but I will give you one word of advice.
+> **[2:32](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=152)** Because of this, I won't demonstrate downloading the documents, but I will give you one [[Microsoft Word|word]] of advice.
 >
 > **[2:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=157)** Use Acrobat Reader to open it.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=243)** Organizations must for GovCloud from an existing account, or through an AWS business representative.
 >
-> **[4:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=250)** If your organization is subject to regulatory compliance, chances are, you know already a lot about the requirements of your particular responsibilities.
+> **[4:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=250)** If your organization is subject to [[Regulatory Compliance]], chances are, you know already a lot about the requirements of your particular responsibilities.
 >
 > **[4:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=258)** Using AWS doesn't change any of that.
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), data (3), cloud (3), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Amazon EC2|Ec2]] (1), [[Microsoft Word|Word]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** aws (17), pci (2), dss (2), hipaa (2), hitech (1)
 > **CLI Commands:** aws (19), find (5), make (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
@@ -481,14 +474,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS S3 basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
+#### [AWS S3 basics](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=0)** - [Instructor] Launched way back in March of 2006, S3 or Simple Storage Service is one of Amazon's longest running AWS offerings.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=9)** Its purpose is to provide easy to use Cloud storage that is scalable, highly available, and reliable.
+> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=9)** Its purpose is to provide easy to use [[Cloud Storage]] that is scalable, highly available, and reliable.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=16)** Before we start, it's important to know that S3 isn't actually a file system in the traditional sense.
 >
@@ -500,7 +492,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=36)** Block storage operates at the level of disk blocks and sectors.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=40)** This is the lowest level to the hardware.
+> **[0:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=40)** This is the lowest level to the [[Hardware]].
 >
 > **[0:42](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=42)** Sectors originally referred to actual sectors on the circular magnetic disks and platter based hard drives.
 >
@@ -512,11 +504,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=65)** A file storage device uses a file system, software that manages files in directory structures sometimes with permission bits that describe who can read, write, and list the files.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=77)** Examples include FAT32 and NTFS for Windows, HFS for Mac and Ext4 for Linux-based systems.
+> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=77)** Examples include FAT32 and NTFS for [[Windows]], HFS for Mac and Ext4 for [[Linux]]-based systems.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=87)** Object storage is a bit different.
 >
-> **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=89)** An object might be a file from your computer or server's file system but once placed into object storage, it's an object data with metadata attached.
+> **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=89)** An object might be a file from your computer or server's file system but once placed into object storage, it's an object data with [[Metadata]] attached.
 >
 > **[1:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=101)** In S3, this metadata often takes the form of tags.
 >
@@ -540,7 +532,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=139)** It's also very important to understand that unlike with a file system, your server can't natively mount object storage.
 >
-> **[2:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=146)** Rather, your host will talk to S3 via restful APIs, through an SDK like the ones for Python or Java or using some kind of abstraction layer.
+> **[2:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=146)** Rather, your host will talk to S3 via restful APIs, through an SDK like the ones for [[Python (Programming Language)|Python]] or [[Java]] or using some kind of abstraction layer.
 >
 > **[2:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=157)** For instance, Ruby applications can use a gem called Fog to abstract S3 and treat it more like a file system.
 >
@@ -570,11 +562,11 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=241)** So, what distinguishes S3 from any other object storage?
 >
-> **[4:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=245)** In the next video we'll get into S3's incredible reliability, security, and data management features.
+> **[4:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980&t=245)** In the next video we'll get into S3's incredible reliability, security, and [[Data Management]] features.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), data (3), [[Hardware]] (2), [[Metadata]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Metadata]] (2), [[Cloud Storage]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** aws (3), fat32 (1), ntfs (1), hfs (1), sdk (1)
 > **CLI Commands:** aws (3), python (1), ruby (1)
 > **Definitions:** is a  (2), known as (1), is called (1), means that (1)
@@ -583,8 +575,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Durability and availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980)
+#### [Durability and availability](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +603,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=69)** With so many customers, you can bet that this money back guarantee provides AWS with plenty of motivation to keep their services up and running.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=77)** Curiously, the wide array of services that suffered concurrent service interruptions, such as Slack, Trello, and many more, only serve to demonstrate how widely used and trusted S3 is as a Cloud data storage provider.
+> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=77)** Curiously, the wide array of services that suffered concurrent service interruptions, such as [[Slack]], [[Trello]], and many more, only serve to demonstrate how widely used and trusted S3 is as a Cloud [[Data Storage]] provider.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=91)** During that time, those companies weren't scrambling to restore service.
 >
@@ -620,7 +611,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=102)** AWS offers multiple ways for you to secure your data in S3 with both client side and server side encryption.
 >
-> **[1:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=109)** Once enabled, server side encryption in S3 provides seamless encryption of data at rest.
+> **[1:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=109)** Once enabled, server side encryption in S3 provides seamless encryption of data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=114)** At rest means while the data is sitting in S3.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=184)** Requests to and from S3 made through the AWS console are always encrypted via TLS.
 >
-> **[3:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=190)** Requests using the AWS CLI are too.
+> **[3:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=190)** Requests using the AWS [[CLI]] are too.
 >
 > **[3:13](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/durability-and-availability?u=76281980&t=193)** Any REST request is encrypted too, as long as it's made via HTTPS.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), aws (10), [[Representational State Transfer (REST)|Rest]] (5), concurrent (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Slack]] (1), [[Trello]] (1), [[Data Storage]] (1), [[CLI]] (1)
 > **Env Vars:** aws (9), kms (2), rest (2), byo (1), tls (1)
 > **CLI Commands:** aws (10), make (5), az (1)
 > **Definitions:** refers to (2), means that (1), is a  (1), is an  (1)
@@ -707,14 +698,13 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Versions:** 99.99 (1)
 
-#### S3 bucket creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980)
+#### [S3 bucket creation](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=0)** - [Instructor] Let's get started by creating an S3 bucket.
 >
-> **[0:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=3)** Here I am at the main dashboard of Amazon Web Services.
+> **[0:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=3)** Here I am at the main dashboard of [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=6)** And before we go into the S3 specific section, I want to point out this dropdown which for me currently says North Virginia.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=104)** It says global and all the regions are grayed out.
 >
-> **[1:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=108)** S3 is one of the few places in AWS that acts a little differently from the rest.
+> **[1:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=108)** S3 is one of the few places in AWS that acts a little differently from the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-bucket-creation?u=76281980&t=112)** It says global because when you look at a list of buckets in S3, it's going to show you buckets from every region.
 >
@@ -876,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (6), make (2)
 > **Env Vars:** aws (6), kms (2)
 > **UI Navigation:** dropdown (3), go to (2), select the (1), scroll down (1)
@@ -884,8 +874,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 upload and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980)
+#### [S3 upload and logging](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +916,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980&t=119)** That's a pretty rare event, but this is a useful feature for archivists and folks like that.
 >
-> **[2:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980&t=125)** Finally, we've got tags and metadata.
+> **[2:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980&t=125)** Finally, we've got tags and [[Metadata]].
 >
 > **[2:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-upload-and-logging?u=76281980&t=128)** You'll remember that we set tags at the bucket level to show who created the bucket.
 >
@@ -959,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (5), data (4), feature (2), api (2), aws (1)
+> **Frameworks & Libraries:** [[Metadata]] (5)
 > **Env Vars:** api (2), csv (1), sdk (1), aws (1)
 > **CLI Commands:** make (1), find (1), aws (1)
 > **File Paths:** states.csv (1)
@@ -968,8 +957,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### S3 cross-region replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980)
+#### [S3 cross-region replication](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1063,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=288)** Since we want these buckets to look exactly the same, I'll go ahead and click them.
 >
-> **[4:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=293)** Replica modification sync here is something similar for metadata on objects so I'll click that too and choose save.
+> **[4:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=293)** Replica modification sync here is something similar for [[Metadata]] on objects so I'll click that too and choose save.
 >
 > **[5:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=301)** Now, I get a question here whether to replicate existing objects, and we'll say yes because we want to go ahead and move those objects that are already in the bucket.
 >
@@ -1091,7 +1079,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=331)** You can get a completion report out of this job but I'm going to uncheck that because I don't think we need to configure that right now.
 >
-> **[5:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=339)** Let's go ahead and keep the rest of things at the default and click save.
+> **[5:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=339)** Let's go ahead and keep the [[Representational State Transfer (REST)|rest]] of things at the default and click save.
 >
 > **[5:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-cross-region-replication?u=76281980&t=348)** All right, now you can see that we have this job.
 >
@@ -1127,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), aws (3), feature (1), management (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Env Vars:** aws (3)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -1136,8 +1124,7 @@ created: 2026-05-02
 > **File Paths:** parks_and_landmarks_in_detroit.csv (1)
 > **Cross-References:** go back to (1)
 
-#### Set up SNS for event notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980)
+#### [Set up SNS for event notifications](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1210,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=232)** Expand Access Policy, and you can see that this section is now editable.
 >
-> **[3:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=237)** As for what goes in here, well, if you look in the chapter two section of the exercise files associated with this course, you will see a document called sns_publish_policy_template.json.
+> **[3:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=237)** As for what goes in here, well, if you look in the chapter two section of the exercise files associated with this course, you will see a document called sns_publish_policy_template.[[JSON]].
 >
 > **[4:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=251)** If you copy this, we can fill in the values that will make this work.
 >
@@ -1231,7 +1218,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=264)** Now, if you look here, you'll see that we're allowing the S3 service to publish to this SNS topic, and what we need to provide is the unique identifier for the S3 bucket as well as the SNS topic.
 >
-> **[4:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=277)** So from here, we need to open up some new tabs so that we can keep this window open but also go fetch those identifiers.
+> **[4:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=277)** So from here, we need to open up some new tabs so that we can keep this window open but also go [[Fetch]] those identifiers.
 >
 > **[4:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-sns-for-event-notifications?u=76281980&t=286)** The first thing to do is go up here to the name, S3DemoNotifications, right click, and choose Open Link in New Tab.
 >
@@ -1255,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), aws (1), [[Search]] (1), [[JSON]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Fetch]] (1)
 > **Env Vars:** sns (11), arn (4), aws (1), sqs (1)
 > **CLI Commands:** make (3), aws (1), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1264,8 +1251,7 @@ created: 2026-05-02
 > **File Paths:** sns_publish_policy_template.json (1)
 > **Code Identifiers:** sns_publish_policy_template (1)
 
-#### Set up S3 for event notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980)
+#### [Set up S3 for event notifications](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1293,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980&t=100)** Check the box and click the delete button.
 >
-> **[1:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980&t=105)** To confirm this I'll need to type the word delete here, and say delete objects.
+> **[1:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980&t=105)** To confirm this I'll need to type the [[Microsoft Word|word]] delete here, and say delete objects.
 >
 > **[1:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/set-up-s3-for-event-notifications?u=76281980&t=111)** Okay, that's successful.
 >
@@ -1329,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), feature (1), aws (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** sns (2), aws (1)
 > **UI Navigation:** scroll down (1), dropdown (1), go to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1338,8 +1324,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Glacier and S3 lifecycle rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glacier-and-s3-lifecycle-rules?u=76281980)
+#### [AWS Glacier and S3 lifecycle rules](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glacier-and-s3-lifecycle-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1438,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), aws (5), next (1)
 > **CLI Commands:** aws (5), az (3)
 > **Env Vars:** aws (5)
 > **Definitions:** is a  (2), stands for (1)
@@ -1461,8 +1445,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 data lifecycle configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-data-lifecycle-configuration?u=76281980)
+#### [S3 data lifecycle configuration](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-data-lifecycle-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1582,11 +1565,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-data-lifecycle-configuration?u=76281980&t=315)** After 100 days, they're going to move to Glacier, and then after an entire year, they're going to expire completely.
 >
-> **[5:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-data-lifecycle-configuration?u=76281980&t=322)** So you can see how from the tools that we've just seen there are a lot of ways that you can develop a very sophisticated data management policy for your organization.
+> **[5:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-data-lifecycle-configuration?u=76281980&t=322)** So you can see how from the tools that we've just seen there are a lot of ways that you can develop a very sophisticated [[Data Management]] policy for your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), next (1)
+> **Frameworks & Libraries:** [[Data Management]] (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (4)
 > **UI Navigation:** go to (3)
@@ -1594,8 +1577,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Versioning in S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/versioning-in-s3?u=76281980)
+#### [Versioning in S3](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/versioning-in-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,15 +1615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csv (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### S3 teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980)
+#### [S3 teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1647,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980&t=69)** I'll have to confirm by typing Delete Me in the text box, which is something that happens a lot throughout AWS's graphical interfaces.
 >
-> **[1:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980&t=78)** They'll have you type the word delete or copy and paste, or type out the name of a resource in particular just to make sure that you are doing what you intend to do.
+> **[1:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980&t=78)** They'll have you type the [[Microsoft Word|word]] delete or copy and paste, or type out the name of a resource in particular just to make sure that you are doing what you intend to do.
 >
 > **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/s3-teardown?u=76281980&t=89)** So, okay, let's head back to the dashboard by clicking the logo button here, and we can go into the S3 service, either by going to recently visited or by typing.
 >
@@ -1703,7 +1683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (2), [[Microsoft Word|Word]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** aws (4), make (2)
 > **Env Vars:** aws (4), sns (2)
 > **UI Navigation:** in the menu (1), go to (1), checkbox (1)
@@ -1716,14 +1696,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elastic Block Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
+#### [Elastic Block Storage](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980&t=0)** - [Instructor] When you create an EC2 instance, you're asking AWS to start a virtual server for you.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980&t=0)** - [Instructor] When you create an [[Amazon EC2|EC2]] instance, you're asking AWS to start a virtual server for you.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980&t=6)** Although it's sometimes easy to forget, this takes place on actual hardware, somewhere deep in Amazon's data center facilities for that availability zone.
+> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980&t=6)** Although it's sometimes easy to forget, this takes place on actual [[Hardware]], somewhere deep in Amazon's data center facilities for that availability zone.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980&t=14)** Of course, a virtual machine is simply a way of giving you a virtualized slice of what's on the underlying hardware.
 >
@@ -1793,7 +1772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Amazon EC2|Ec2]] (4), [[Hardware]] (4), data (2), feature (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Hardware]] (4)
 > **Env Vars:** ebs (15), aws (6), ec2 (4), cpu (1), ram (1)
 > **CLI Commands:** aws (6), make (2)
 > **Versions:** 0.1 (1), 0.2 (1)
@@ -1802,12 +1781,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an instance with multiple EBS volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980)
+#### [Create an instance with multiple EBS volumes](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how to create and configure multiple EBS volumes for an Amazon Linux EC two instance.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how to create and configure multiple EBS volumes for an Amazon [[Linux]] EC two instance.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=7)** For that, we'll need to head into the EC two section of AWS, which I've recently visited, so I've got the link right here.
 >
@@ -1977,7 +1955,7 @@ created: 2026-05-02
 >
 > **[8:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=515)** I'm going to point to dev slash, and we'll use this name, XVDB.
 >
-> **[8:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=521)** If we see the word data here, that means this is an unformatted drive.
+> **[8:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=521)** If we see the [[Microsoft Word|word]] data here, that means this is an unformatted drive.
 >
 > **[8:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-instance-with-multiple-ebs-volumes?u=76281980&t=526)** We need to format it using something called MKFS.
 >
@@ -2035,7 +2013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Linux]] (3), data (3), [[Microsoft Word|Word]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** ebs (11), ssh (8), xvda (6), xvdb (6), aws (5)
 > **CLI Commands:** ssh (8), sudo (6), aws (5), make (4), ls (3)
 > **UI Navigation:** dropdown (1), click on (1), go to (1), open the (1)
@@ -2044,14 +2022,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Tools:** terminal (1)
 
-#### Modify the type and size of an EBS volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980)
+#### [Modify the type and size of an EBS volume](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980&t=0)** - [Instructor] In this video, we'll expand the size of the EBS volume we just created and then update the operating system to make that space usable.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980&t=8)** To do this, we'll need to head back to the AWS Console, specifically into EC2 and into our list of running instances, which I can get from clicking here.
+> **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980&t=8)** To do this, we'll need to head back to the AWS Console, specifically into [[Amazon EC2|EC2]] and into our list of running instances, which I can get from clicking here.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/modify-the-type-and-size-of-an-ebs-volume?u=76281980&t=21)** Click the checkbox next to EBSDemo1.
 >
@@ -2113,21 +2090,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), next (2), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ebs (2), ec2 (2), aws (1), sdb (1)
 > **CLI Commands:** make (2), aws (1), find (1), sudo (1)
 > **UI Navigation:** checkbox (2), click on (1)
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detach and reattach an EBS volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980)
+#### [Detach and reattach an EBS volume](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=0)** - [Instructor] In this video I'm going to demonstrate how we can detach an EBS volume from this instance and attach it to another.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=7)** In order to show this functionality I'm going to need a second EC2 instance.
+> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=7)** In order to show this functionality I'm going to need a second [[Amazon EC2|EC2]] instance.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=12)** Now before we do that, please take note of the availability zone that EBS demo one is in.
 >
@@ -2139,7 +2115,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=37)** Now we'll call this EBSDemo2.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=41)** We'll keep the same AMI, which is Amazon Linux 2 and the same instance type.
+> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=41)** We'll keep the same AMI, which is Amazon [[Linux]] 2 and the same instance type.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=46)** For the key pair, instead of creating a new one, we'll use the dropdown and select the one we've already got storage-demo-key.
 >
@@ -2203,7 +2179,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=235)** Let's head back to the console.
 >
-> **[3:58](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=238)** Now we need to connect to our EBSDemo2, so we're actually going to need to fetch that IP address from the EC2 console.
+> **[3:58](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=238)** Now we need to connect to our EBSDemo2, so we're actually going to need to [[Fetch]] that IP address from the EC2 console.
 >
 > **[4:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=247)** Let's head over to instances un-click EBSDemo1, click on EBSDemo2, and copy the public IP address.
 >
@@ -2229,7 +2205,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=316)** There we go.
 >
-> **[5:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=317)** We did not get the word data back.
+> **[5:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=317)** We did not get the [[Microsoft Word|word]] data back.
 >
 > **[5:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/detach-and-reattach-an-ebs-volume?u=76281980&t=319)** We get all this detail, which shows us that it is already formatted, which is exactly what we'd expect because this is the same EBS volume that we just used on the other instance.
 >
@@ -2253,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), hit (2), data (2), [[Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Linux]] (1), [[Fetch]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (4), ssh (3), make (2), az (2), aws (1)
 > **Env Vars:** ec2 (5), ebs (4), ami (1), aws (1), sim (1)
 > **UI Navigation:** go to (4), checkbox (3), dropdown (2), select the (1), scroll down (1)
@@ -2262,14 +2238,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### EBS backup, restore, and schedule with CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980)
+#### [EBS backup, restore, and schedule with CloudWatch](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=0)** - [Instructor] As I mentioned, it's possible to take snapshots of your EBS volumes to ensure that you have backups of your critical data.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=7)** Let's go into the EC2 section and see how this works.
+> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=7)** Let's go into the [[Amazon EC2|EC2]] section and see how this works.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=11)** All right, here we are looking at EBSDemo2.
 >
@@ -2303,7 +2278,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=86)** Remember, when we created the EC2 instances to begin with?
 >
-> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=90)** We chose the Amazon Machine Image or AMI, for Amazon Linux.
+> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=90)** We chose the Amazon Machine Image or AMI, for Amazon [[Linux]].
 >
 > **[1:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-backup-restore-and-schedule-with-cloudwatch?u=76281980&t=94)** This is how you create your own AMI's.
 >
@@ -2337,7 +2312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), aws (2), data (1), [[Linux]] (1), business (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1)
 > **Env Vars:** ami (9), ebs (4), ec2 (3), aws (2)
 > **UI Navigation:** go to (3), dropdown (1)
 > **CLI Commands:** aws (2)
@@ -2345,8 +2320,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elastic File System
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980)
+#### [Elastic File System](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2362,13 +2336,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=29)** Rather, it's a file system that can be mounted by NFS 4.0 or 4.1 clients.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=35)** Unfortunately, that does mean that Windows cannot natively mount EFS.
+> **[0:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=35)** Unfortunately, that does mean that [[Windows]] cannot natively mount EFS.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=39)** However, you can enable an NFS service on certain versions of Windows that provides an NFS client or use a third party client.
 >
 > **[0:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=47)** Alternatively, you can stand up a native CIFS file system and use another AWS service, FSX for Windows, which we'll explore later.
 >
-> **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=56)** As a network file system, EFS can be mounted by many clients at once, making it well suited for tasks that require shared disk space, such as horizontally scalable web apps or parallelizable data processing jobs.
+> **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=56)** As a network file system, EFS can be mounted by many clients at once, making it well suited for tasks that require shared disk space, such as horizontally scalable web apps or parallelizable [[Data Processing]] jobs.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=70)** This makes EFS a potential NAS replacement.
 >
@@ -2388,7 +2362,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=113)** The mount target has a DNS A record that resolves to the IP of the backend file system.
 >
-> **[1:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=119)** This is the domain name that you'll use on the client, say an EC2 instance, when you connect to EFS.
+> **[1:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=119)** This is the domain name that you'll use on the client, say an [[Amazon EC2|EC2]] instance, when you connect to EFS.
 >
 > **[2:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=126)** As is the case with other AWS resources, such as application load bouncers, AWS discourages users from connecting using the IP address directly, as it may change without warning.
 >
@@ -2406,7 +2380,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=168)** One of the most useful features of the mount target is that security groups can be attached directly to it.
 >
-> **[2:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=175)** AWS security groups are like portable firewalls that can be attached to different types of AWS resources.
+> **[2:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=175)** [[AWS Security]] groups are like portable firewalls that can be attached to different types of AWS resources.
 >
 > **[3:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-file-system?u=76281980&t=180)** With security groups on your mount points, you have maximum control over what instances in your account can mount this file system.
 >
@@ -2460,7 +2434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), data (7), [[Windows]] (3), [[Security]] (3), web (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Data Processing]] (2), [[Amazon EC2|Ec2]] (1), [[AWS Security]] (1)
 > **Env Vars:** efs (25), aws (12), ebs (5), nfs (5), iops (4)
 > **CLI Commands:** aws (12), az (2), make (1), find (1)
 > **Analogies:** such as (2), it's like (1), imagine (1), picture (1), for instance (1)
@@ -2469,12 +2443,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 
-#### EFS demo create EFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-create-efs?u=76281980)
+#### [EFS demo create EFS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-create-efs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-create-efs?u=76281980&t=0)** - [Instructor] In this video, we'll keep using the two EC2 instances from the previous EBS lessons to mount an Elastic File System.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-create-efs?u=76281980&t=0)** - [Instructor] In this video, we'll keep using the two [[Amazon EC2|EC2]] instances from the previous EBS lessons to mount an Elastic File System.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-create-efs?u=76281980&t=8)** We'll start by creating a security group that will allow both of these instances to talk to EFS.
 >
@@ -2626,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), next (7), [[Amazon EC2|Ec2]] (6), aws (4), traffic (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6)
 > **Env Vars:** vpc (13), efs (8), ec2 (6), nfs (5), aws (4)
 > **CLI Commands:** aws (4), find (3), az (2), make (1)
 > **UI Navigation:** go to (2), dropdown (2), click on (1), checkbox (1), scroll down (1)
@@ -2635,12 +2608,11 @@ created: 2026-05-02
 > **Ports:** port 2049 (2)
 > **Cross-References:** later in (1), in the next (1)
 
-#### EFS demo mount EFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-mount-efs?u=76281980)
+#### [EFS demo mount EFS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-mount-efs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-mount-efs?u=76281980&t=0)** - [Instructor] Now that we've got our EFS demo created let's see what it can do by mounting to it from two different EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-mount-efs?u=76281980&t=0)** - [Instructor] Now that we've got our EFS demo created let's see what it can do by mounting to it from two different [[Amazon EC2|EC2]] instances.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/efs-demo-mount-efs?u=76281980&t=8)** In order to demonstrate this, I've kept around the two machines from the EBS part of this chapter, EBS demo 1, here with the white background and EBS demo 2.
 >
@@ -2718,7 +2690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), cd (2), prompt (1), aws (1), dns (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5)
 > **Env Vars:** efs (13), ec2 (5), ebs (4), aws (1), dns (1)
 > **CLI Commands:** sudo (4), make (3), yum (2), cd (2), ls (2)
 > **Tools:** terminal (4), aws console (1)
@@ -2726,8 +2698,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### EBS and EFS teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980)
+#### [EBS and EFS teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2747,7 +2718,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=33)** This will delete the EFS and the mountain targets.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=37)** Now we want to head to the EC2 section and get rid of our instances.
+> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=37)** Now we want to head to the [[Amazon EC2|EC2]] section and get rid of our instances.
 >
 > **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=41)** I'll type EC2 in the search bar and go here.
 >
@@ -2797,7 +2768,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=173)** Check the check box next to this one.
 >
-> **[2:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=176)** Go to actions, and then the word is deregister AMI.
+> **[2:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=176)** Go to actions, and then the [[Microsoft Word|word]] is deregister AMI.
 >
 > **[3:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/ebs-and-efs-teardown?u=76281980&t=183)** Go ahead and confirm and we'll head to snapshots.
 >
@@ -2811,21 +2782,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), aws (2), [[Amazon EC2|Ec2]] (2), hit (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ebs (5), efs (4), ami (3), aws (2), ec2 (2)
 > **CLI Commands:** aws (2), snap (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Amazon FSx
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980)
+#### [Amazon FSx](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=0)** - [Instructor] Amazon FSx is a multifaceted service where an AWS offers managed versions of several popular file systems.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=7)** NetApp ONTAP, OpenZFS, Luster, and Windows File Server.
+> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=7)** NetApp ONTAP, OpenZFS, Luster, and [[Windows]] File Server.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=13)** Throughout AWS, managed refers to systems that you could set up for yourself but for which AWS abstracts away the complexity of configuring and administrating them on your own.
 >
@@ -2839,7 +2809,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=54)** Provisioning a SIFs file system and allowing applications and end users to connect via the SMB protocol.
 >
-> **[1:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=62)** File and folder permissions are handled by your own on-premises Active Directory or by AWS Microsoft Managed AD.
+> **[1:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=62)** File and folder permissions are handled by your own on-premises [[Active Directory]] or by AWS [[Microsoft]] Managed AD.
 >
 > **[1:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=69)** Which is another managed service offered by Amazon.
 >
@@ -2847,7 +2817,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=80)** Behind the scenes, Amazon distributes this file system over multiple availability zones, offering high uptime and automatic failover.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=88)** In addition, FSx can set up a Windows Server failover cluster.
+> **[1:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=88)** In addition, FSx can set up a [[Windows Server]] failover cluster.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=93)** Just the same multi-node HA setup you'd implement if you were doing this on your own.
 >
@@ -2861,7 +2831,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=129)** Finally, FSx also integrates with other AWS services such as CloudWatch for logging.
 >
-> **[2:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=135)** In all this, you don't need to launch EC2 instances, configure nodes, or manage a storage layer.
+> **[2:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=135)** In all this, you don't need to launch [[Amazon EC2|EC2]] instances, configure nodes, or manage a storage layer.
 >
 > **[2:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/amazon-fsx?u=76281980&t=141)** You just launch an FSx, point it to your active directory, and start connecting systems.
 >
@@ -2873,7 +2843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), aws (8), [[Active Directory]] (3), [[Microsoft]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Active Directory]] (3), [[Microsoft]] (1), [[Windows Server]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (8), ontap (2), smb (1), ec2 (1), zfs (1)
 > **CLI Commands:** aws (8), node (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -2887,16 +2857,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
+#### [RDS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=0)** - [Instructor] AWS's Relational Database Service or RDS can take a lot of work off your hands when it comes to relational databases.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=0)** - [Instructor] AWS's Relational Database Service or RDS can take a lot of work off your hands when it comes to [[Relational Databases]].
 >
 > **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=8)** Without RDS, deploying a database to AWS can be a rather involved process.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=12)** You'll provision an EC2 instance, attach storage, say using one of the services we've discussed like EBS, EFS, or FSX, and then you'll have to install and configure the database instance yourself.
+> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=12)** You'll provision an [[Amazon EC2|EC2]] instance, attach storage, say using one of the services we've discussed like EBS, EFS, or FSX, and then you'll have to install and configure the database instance yourself.
 >
 > **[0:25](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=25)** Patching becomes an ongoing concern both for the database and the OS it's installed on.
 >
@@ -2906,7 +2875,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=43)** With RDS, you can select one of six different relational database platforms.
 >
-> **[0:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=47)** Oracle, MySQL, PostgreSQL, SQL Server, MariaDB and Amazon Aurora.
+> **[0:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=47)** Oracle, [[MySQL]], [[PostgreSQL]], [[Microsoft SQL Server|SQL Server]], MariaDB and Amazon Aurora.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=56)** Let's take a brief aside to talk about Aurora.
 >
@@ -2932,7 +2901,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=120)** With RDS, the details of the underlying compute resources are abstracted away.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=124)** Under the covers is this PostgreSQL instance running on Ubuntu, Red Hat or most likely Amazon Linux?
+> **[2:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=124)** Under the covers is this PostgreSQL instance running on [[Ubuntu]], Red Hat or most likely Amazon [[Linux]]?
 >
 > **[2:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980&t=131)** Who cares?
 >
@@ -3058,7 +3027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), aws (11), data (7), [[MySQL]] (6), [[Amazon EC2|Ec2]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (6), [[Amazon EC2|Ec2]] (4), [[PostgreSQL]] (3), [[Relational Databases]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** rds (24), aws (11), ec2 (4), sql (2), ebs (1)
 > **CLI Commands:** aws (11), mysql (6), az (2)
 > **Definitions:** means that (2), is a  (1)
@@ -3067,14 +3036,13 @@ created: 2026-05-02
 > **Ports:** port 5432 (1)
 > **Best Practices:** don't forget (1)
 
-#### Create a MySQL RDS instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980)
+#### [Create a MySQL RDS instance](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=0)** - [Instructor] Let's create a MySQL database using RDS.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=0)** - [Instructor] Let's create a [[MySQL]] database using RDS.
 >
-> **[0:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=3)** But before we do that, I want to visit the EC2 section of the console so we can create a security group that will allow us to connect to the database on the appropriate ports.
+> **[0:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=3)** But before we do that, I want to visit the [[Amazon EC2|EC2]] section of the console so we can create a security group that will allow us to connect to the database on the appropriate ports.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=13)** Let's head into EC2.
 >
@@ -3106,7 +3074,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=82)** Oh, we do have to give it a description.
 >
-> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=84)** So we'll say, allow my SQL traffic from anywhere.
+> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=84)** So we'll say, allow my [[SQL]] traffic from anywhere.
 >
 > **[1:32](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-mysql-rds-instance?u=76281980&t=92)** Now scroll down and click create security group.
 >
@@ -3204,7 +3172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[MySQL]] (10), [[Security]] (8), aws (4), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (10), [[Amazon EC2|Ec2]] (2), [[SQL]] (1)
 > **CLI Commands:** mysql (10), make (5), aws (4), az (2)
 > **Env Vars:** rds (7), aws (4), ec2 (2), ipv4 (1), sql (1)
 > **UI Navigation:** dropdown (2), scroll down (1)
@@ -3213,12 +3181,11 @@ created: 2026-05-02
 > **Ports:** port 3306 (1)
 > **Prerequisites:** set up (1)
 
-#### Connect with MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980)
+#### [Connect with MySQL Workbench](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=0)** - [Instructor] While the RDS instance is being created we can take a moment to go download MySQL Workbench, the client that we'll use to connect to it.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=0)** - [Instructor] While the RDS instance is being created we can take a moment to go download [[MySQL]] Workbench, the client that we'll use to connect to it.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=8)** I've searched for that phrase, MySQL Workbench and this was the first hit here at [mysql.com](https://mysql.com) and we can click download now.
 >
@@ -3266,7 +3233,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=158)** So we need to give it some data.
 >
-> **[2:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=160)** To do that, click little folder here and navigate to chapter four in the exercise files we're going to open this file called employee_data.sql, so double click on that.
+> **[2:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=160)** To do that, click little folder here and navigate to chapter four in the exercise files we're going to open this file called employee_data.[[SQL]], so double click on that.
 >
 > **[2:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-with-mysql-workbench?u=76281980&t=173)** Let's take a look at what we've got here.
 >
@@ -3294,7 +3261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (10), data (5), database (5), next (3), aws (2)
+> **Frameworks & Libraries:** [[MySQL]] (10), [[SQL]] (2)
 > **CLI Commands:** mysql (10), aws (2), make (1)
 > **Env Vars:** rds (6), aws (2), url (2), sql (1)
 > **Code Identifiers:** my_database (2), mysql_rds_user (1), employee_data (1)
@@ -3303,12 +3270,11 @@ created: 2026-05-02
 > **URLs:** [mysql.com](https://mysql.com) (1)
 > **Cross-References:** in the next (1)
 
-#### Create an Aurora read replica
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980)
+#### [Create an Aurora read replica](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=0)** - [Instructor] I'm here at the RDS Console looking at the details of the mysql-rds-demo database we just created.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=0)** - [Instructor] I'm here at the RDS Console looking at the details of the [[MySQL]]-rds-demo database we just created.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=6)** What I'd like to do in this video is create a read replica of this MySQL instance using the Amazon Aurora database type.
 >
@@ -3334,7 +3300,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=76)** For our database instance identifier, we'll call it mysql, maybe aurora read replica.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=86)** We'll go down to the next section, Network Security, and make sure that publicly accessible is selected.
+> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=86)** We'll go down to the next section, [[Network Security]], and make sure that publicly accessible is selected.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=93)** As for availability zone, it doesn't really matter.
 >
@@ -3358,7 +3324,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=136)** Now, this step can take a while to complete.
 >
-> **[2:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=139)** Not only are we standing up a new RDS instance with the Aurora database, but AWS also has to set up the replication between the two databases.
+> **[2:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=139)** Not only are we standing up a new RDS instance with the Aurora database, but AWS also has to set up the replication between the two [[Databases]].
 >
 > **[2:27](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=147)** So we'll wait for this to be done, and then we'll see how the replication works.
 >
@@ -3380,7 +3346,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=196)** That is what Amazon is trying to do.
 >
-> **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=198)** With Aurora, they're providing a very attractive value proposition to people who want that kind of managed resilience in a MySQL or Postgres-compatible database.
+> **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=198)** With Aurora, they're providing a very attractive value proposition to people who want that kind of managed resilience in a MySQL or [[PostgreSQL|Postgres]]-compatible database.
 >
 > **[3:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-aurora-read-replica?u=76281980&t=208)** So that would work to just start with Aurora and use that for any MySQL purposes that you have in the future.
 >
@@ -3514,7 +3480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (17), database (11), aws (4), [[Databases]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[MySQL]] (17), [[Databases]] (4), [[Network Security]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** mysql (17), az (4), make (4), aws (4), find (3)
 > **Env Vars:** rds (7), aws (4), vpc (2)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
@@ -3523,12 +3489,11 @@ created: 2026-05-02
 > **Versions:** 8.0.23 (1), 3.02.1 (1)
 > **Tools:** aws console (1)
 
-#### RDS backup and recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980)
+#### [RDS backup and recovery](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=0)** - [Instructor] Let's imagine that I've just made a terrible mistake and deleted some important data out of the source MySQL database.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=0)** - [Instructor] Let's imagine that I've just made a terrible mistake and deleted some important data out of the source [[MySQL]] database.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=7)** We have the read replica, but that stays in sync with the source.
 >
@@ -3568,7 +3533,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=82)** So it can get really specific on a restore time.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=86)** If we leave this at latest restorable time and scroll down, you see the rest of what we have to fill in here is just to say, what's our new instance going to be?
+> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=86)** If we leave this at latest restorable time and scroll down, you see the [[Representational State Transfer (REST)|rest]] of what we have to fill in here is just to say, what's our new instance going to be?
 >
 > **[1:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-backup-and-recovery?u=76281980&t=94)** Because remember, RDS doesn't do restorations in place.
 >
@@ -3592,7 +3557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[MySQL]] (5), data (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rds (6)
 > **CLI Commands:** mysql (5)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -3601,14 +3566,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### RDS teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980)
+#### [RDS teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980&t=0)** - [Instructor] As usual, it's important to make sure that we clean up the resources we no longer need so that we won't be charged for them.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980&t=6)** All right, the first thing I'm going to do is go to the MySQL RDS restored, go up to Actions, and choose Delete.
+> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980&t=6)** All right, the first thing I'm going to do is go to the [[MySQL]] RDS restored, go up to Actions, and choose Delete.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds-teardown?u=76281980&t=15)** We do not want to retain automated backups, so we'll uncheck this and we'll check the next thing, which is an acknowledgement that this is going to delete everything and no backups will be available.
 >
@@ -3640,7 +3604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (3), database (2), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (3)
 > **CLI Commands:** mysql (3), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** rds (2)
@@ -3648,16 +3612,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980)
+#### [DynamoDB](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=1)** - [Instructor] DynamoDB is AWS's highly available, scalable NoSQL database.
+> **[0:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=1)** - [Instructor] DynamoDB is AWS's highly available, scalable [[NoSQL]] database.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=6)** You might compare it to other NoSQL databases like MongoDB.
+> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=6)** You might compare it to other NoSQL [[Databases]] like [[MongoDB]].
 >
-> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=9)** The main advantage of Dynamo is that like RDS for relational databases, Dynamo is a fully managed service.
+> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=9)** The main advantage of Dynamo is that like RDS for [[Relational Databases]], Dynamo is a fully managed service.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=17)** It scales performance on demand, meaning that you can provision and pay for just the level of read-and-write performance you desire.
 >
@@ -3683,9 +3646,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=73)** They are multi values, they're like arrays or sets.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=77)** And documents are complex types that combine the above two and can involve in data structures.
+> **[1:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=77)** And documents are complex types that combine the above two and can involve in [[Data Structures]].
 >
-> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=84)** Using these types, what you'll end up with is something that is basically JSON.
+> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=84)** Using these types, what you'll end up with is something that is basically [[JSON]].
 >
 > **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=89)** In this example, first and last are scalar types of string.
 >
@@ -3695,7 +3658,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=110)** This kind of data model means that Dynamo is an ideal choice for non-relational data.
 >
-> **[1:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=115)** If you need to frequently join records, you may want to look at putting your relational database on RDS or on EC2, but if your data load is high volume, non-relational, and under 400 K, Dynamo is going to work really well.
+> **[1:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=115)** If you need to frequently join records, you may want to look at putting your relational database on RDS or on [[Amazon EC2|EC2]], but if your data load is high volume, non-relational, and under 400 K, Dynamo is going to work really well.
 >
 > **[2:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=128)** Now let's discuss primary keys.
 >
@@ -3733,7 +3696,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=239)** Sort keys combined with primary keys to act like a composite key that will extend your namespace, allowing the primary key to be repeated.
 >
-> **[4:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=247)** So for a trivial example of that, if the primary key was first name, having last name as a secondary key would let you store both John Smith and Sally Smith.
+> **[4:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=247)** So for a trivial example of that, if the primary key was first name, having last name as a secondary key would let you store both [[John the Ripper|John]] Smith and Sally Smith.
 >
 > **[4:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=256)** Otherwise, you'd get a primary key conflict error.
 >
@@ -3765,13 +3728,13 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=353)** Similar to event notifications in S3, streams publish events whenever something changes in a table.
 >
-> **[5:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=359)** You can get notifications for things like inserts, updates, and deletes on records letting downstream systems note that a change occurred as well as providing context, like the JSON that was just edited or deleted, making it possible to chain Dynamo with other services like Lambda or SNS to create some interesting design patterns.
+> **[5:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=359)** You can get notifications for things like inserts, updates, and deletes on records letting downstream systems note that a change occurred as well as providing context, like the JSON that was just edited or deleted, making it possible to chain Dynamo with other services like Lambda or SNS to create some interesting [[Design Patterns]].
 >
 > **[6:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamodb?u=76281980&t=378)** With that, let's head to the console and try our hand at creating and querying a simple DynamoDB table.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), aws (3), [[NoSQL]] (3), database (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Databases]] (2), [[JSON]] (2), [[MongoDB]] (1), [[Relational Databases]] (1)
 > **Env Vars:** aws (3), rds (2), json (2), ssd (1), ec2 (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **Analogies:** such as (1), for instance (1), imagine (1), similar to (1)
@@ -3780,8 +3743,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Create a DynamoDB table
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980)
+#### [Create a DynamoDB table](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3789,7 +3751,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=4)** I've got the service here under recently visited, but of course you can always go up here and type into the search bar and click the first option.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=12)** Now before we get started, let's go to the console where I have opened the file under chapter four called film_data.json.
+> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=12)** Now before we get started, let's go to the console where I have opened the file under chapter four called film_data.[[JSON]].
 >
 > **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=21)** So this is in the exercise files.
 >
@@ -3801,7 +3763,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=45)** Instead, what we have are individual items here, and in a moment we'll need to copy and paste some things into the GUI.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=52)** Now, if you were using DynamoDB in a production setting you would probably be working with an application that you're building, which would mean you'd be using some sort of programming language SDK, say for Python, and you would interact through that to talk to Dynamo, and your application would be creating these items.
+> **[0:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=52)** Now, if you were using DynamoDB in a production setting you would probably be working with an application that you're building, which would mean you'd be using some sort of programming language SDK, say for [[Python (Programming Language)|Python]], and you would interact through that to talk to Dynamo, and your application would be creating these items.
 >
 > **[1:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=68)** So what we'll do is a little bit out of the ordinary from a production scenario, but it'll work pretty well.
 >
@@ -3851,7 +3813,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=185)** Instead of film title being a key and the title being a value, film title is a key that leads to a small object here, and we have S as the key and something here ready for us to type in a value.
 >
-> **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=198)** So that's what DynamoDB JSON looks like behind the scenes, and if you're working with its API or CLI, you might need to use this format, but for our purposes we can just untoggle this and we can see something here that looks a lot more like JSON.
+> **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=198)** So that's what DynamoDB JSON looks like behind the scenes, and if you're working with its API or [[CLI]], you might need to use this format, but for our purposes we can just untoggle this and we can see something here that looks a lot more like JSON.
 >
 > **[3:32](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-a-dynamodb-table?u=76281980&t=212)** So what we can do here is go back to the console and highlight one of our films from bracket to bracket, copy it, come over here, delete what's here, and paste in that text.
 >
@@ -3935,7 +3897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), data (10), [[Search]] (5), application (2), database (2)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Python (Programming Language)|Python]] (1), [[CLI]] (1)
 > **Env Vars:** json (9), aws (2), gui (1), sdk (1), api (1)
 > **UI Navigation:** go to (4), toggle (2), dropdown (2), click on (2)
 > **Definitions:** is a  (3), means that (1)
@@ -3944,8 +3906,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **File Paths:** film_data.json (1)
 
-#### Dynamo teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980)
+#### [Dynamo teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3955,7 +3916,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980&t=5)** We're here under Dynamo under tables and we'll click the checkbox next to film data.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980&t=11)** Click delete, type in the word delete.
+> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980&t=11)** Click delete, type in the [[Microsoft Word|word]] delete.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dynamo-teardown?u=76281980&t=14)** Have this box checked to delete all CloudWatch alarms and no need to create a backup.
 >
@@ -3965,7 +3926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3975,8 +3936,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Move data to AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
+#### [Move data to AWS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3988,9 +3948,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=15)** It's on network attached storage.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=17)** It's in relational databases of many different types.
+> **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=17)** It's in [[Relational Databases]] of many different types.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=20)** Oracle, Microsoft SQL, Postgres, MySQL.
+> **[0:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=20)** Oracle, [[Microsoft]] [[SQL]], [[PostgreSQL|Postgres]], [[MySQL]].
 >
 > **[0:25](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=25)** Some of this might even be on staff laptops in the form of text files or CSVs.
 >
@@ -4016,7 +3976,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=85)** Next, we'll examine AWS database migration service and schema conversion tool.
 >
-> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=90)** These AWS features can help you both migrate, and if you choose, continuously replicate local databases to RDS, S3, and more.
+> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=90)** These AWS features can help you both migrate, and if you choose, continuously replicate local [[Databases]] to RDS, S3, and more.
 >
 > **[1:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980&t=99)** You're still subject to the latency of your AWS connection overall, but these tools make the move a lot simpler than a DIY approach.
 >
@@ -4030,7 +3990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), data (8), next (3), [[Relational Databases]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Microsoft]] (1), [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[MySQL]] (1)
 > **Env Vars:** aws (10), nfs (2), sql (1), efs (1), rds (1)
 > **CLI Commands:** aws (10), mysql (1), make (1)
 > **Cross-References:** in the next (2)
@@ -4039,14 +3999,13 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - unless (1)
 
-#### Transfer data using the AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980)
+#### [Transfer data using the AWS CLI](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980&t=0)** - [Instructor] In this video, I'm in a terminal to demonstrate how the AWS command line interface can be used to interact with S3 and sync large amounts of files to it on a continuing basis.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980&t=10)** If you don't have the CLI installed and configured, check out my other course called AWS Deployment, Provisioning, and Automation.
+> **[0:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980&t=10)** If you don't have the [[CLI]] installed and configured, check out my other course called AWS Deployment, Provisioning, and Automation.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-using-the-aws-cli?u=76281980&t=17)** To get started, we'll type aws s3 ls to list our buckets.
 >
@@ -4100,7 +4059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (6), aws (5), [[Automation]] (1), cd (1)
+> **Frameworks & Libraries:** [[CLI]] (6)
 > **CLI Commands:** aws (5), make (3), ls (1), cd (1)
 > **Env Vars:** cli (3), aws (2)
 > **Cross-References:** go back to (2)
@@ -4109,8 +4068,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storage Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980)
+#### [Storage Gateway](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4118,7 +4076,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=4)** However, it can be a bit challenging to integrate with other systems since it doesn't present a traditional file system interface.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=11)** By default, you must interact with it via restful HTTP calls, AWS CLI commands, or via the AWS web console.
+> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=11)** By default, you must interact with it via restful HTTP calls, AWS [[CLI]] commands, or via the AWS web console.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=20)** But what if you could make S3 mountable as a file system?
 >
@@ -4138,19 +4096,19 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=52)** And here's where things get interesting.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=54)** It can be deployed to either EC2 or to VMware.
+> **[0:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=54)** It can be deployed to either [[Amazon EC2|EC2]] or to VMware.
 >
 > **[0:58](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=58)** Deploying to VMware means that storage gateway can act as a bridge between your existing local data center and the cloud.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=66)** In a hybrid cloud scenario, you deploy your gateway as a VMware appliance in your local data center.
+> **[1:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=66)** In a [[Hybrid Cloud]] scenario, you deploy your gateway as a VMware appliance in your local data center.
 >
-> **[1:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=72)** Servers in your data center can now mount a file system on that gateway and seamlessly gain access to cloud storage.
+> **[1:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=72)** Servers in your data center can now mount a file system on that gateway and seamlessly gain access to [[Cloud Storage]].
 >
 > **[1:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=79)** You can persist in this mode and maintain a true hybrid cloud, or you can use the gateway as a bridge to AWS, leveraging it as a way to get data to S3 in a one-time migration.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=91)** Storage Gateway provides a few different ways to present to file system.
 >
-> **[1:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=95)** File Gateway allows the client to mount via NFS or SMB, making it suitable for both Linux and Windows workloads.
+> **[1:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=95)** File Gateway allows the client to mount via NFS or SMB, making it suitable for both [[Linux]] and [[Windows]] workloads.
 >
 > **[1:43](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=103)** There's Volume Gateway, which uses an iSCSI interface.
 >
@@ -4176,7 +4134,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=166)** This means that you can potentially serve many different applications and use cases with a single file gateway.
 >
-> **[2:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=173)** You might be wondering how a file gateway handles NFS metadata like file permissions.
+> **[2:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=173)** You might be wondering how a file gateway handles NFS [[Metadata]] like file permissions.
 >
 > **[2:58](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-gateway?u=76281980&t=178)** Permission bits and ownership attributes are stored in S3 object metadata.
 >
@@ -4222,7 +4180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), aws (10), cloud (3), [[Hybrid Cloud]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (2), [[Cloud Storage]] (2), [[Metadata]] (2), [[CLI]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (10), nfs (6), smb (2), efs (2), http (1)
 > **CLI Commands:** aws (10), make (1)
 > **Definitions:** means that (4), is a  (2), is an  (1)
@@ -4231,8 +4189,7 @@ created: 2026-05-02
 > **Best Practices:** avoid doing (1)
 > **Prerequisites:** you'll need (1)
 
-#### Configure File Gateway and shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980)
+#### [Configure File Gateway and shares](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4252,7 +4209,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=30)** Now we need to create a security group.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=33)** Head over to the EC2 section, and along the left-hand side, go to security groups.
+> **[0:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=33)** Head over to the [[Amazon EC2|EC2]] section, and along the left-hand side, go to security groups.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=40)** There's a one-time step in the File Gateway configuration where AWS needs to access the newly created gateway via port 80.
 >
@@ -4288,11 +4245,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=134)** This is where we choose the platform for the Storage Gateway instance itself.
 >
-> **[2:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=139)** If we are running VMware or Microsoft Hyper-V for our virtualization in an on-premises data center, we could choose that option because remember, one of the primary use cases of Storage Gateway is to create a bridge from a local data center to the cloud.
+> **[2:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=139)** If we are running VMware or [[Microsoft]] Hyper-V for our virtualization in an on-premises data center, we could choose that option because remember, one of the primary use cases of Storage Gateway is to create a bridge from a local data center to the cloud.
 >
 > **[2:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=153)** For the purposes of this demo, I don't have a local data center.
 >
-> **[2:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=156)** I'm just going to be connecting from within AWS, so I'm going to choose Amazon EC2.
+> **[2:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=156)** I'm just going to be connecting from within AWS, so I'm going to choose [[Amazon EC2]].
 >
 > **[2:42](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/configure-file-gateway-and-shares?u=76281980&t=162)** Below you see that we've got a button that says Launch instance, and an icon that indicates this will open in another tab, and that's exactly what we'll do.
 >
@@ -4404,7 +4361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Security]] (6), next (4), [[Amazon EC2|Ec2]] (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Microsoft]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** aws (7), ec2 (4), http (2), nfs (2), fsx (1)
 > **CLI Commands:** aws (7), make (4), find (1), ssh (1)
 > **Prerequisites:** configure (4), set up (2), setup (1)
@@ -4413,14 +4370,13 @@ created: 2026-05-02
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (1)
 
-#### Connect to File Gateway via NFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980)
+#### [Connect to File Gateway via NFS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=0)** - [Instructor] Now that the File Gateway has successfully been created we need to do one more thing, create a file share on it.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=7)** This will create the NFS endpoint to which our EC2 instances will connect.
+> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=7)** This will create the NFS endpoint to which our [[Amazon EC2|EC2]] instances will connect.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=11)** It's also the step where we'll tell AWS to use our S3 bucket as the storage backend.
 >
@@ -4492,7 +4448,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=175)** Down here we see some mount commands that will become useful in a moment.
 >
-> **[2:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=179)** I'm going to copy this first one for Linux.
+> **[2:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=179)** I'm going to copy this first one for [[Linux]].
 >
 > **[3:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/connect-to-file-gateway-via-nfs?u=76281980&t=182)** Over here on the terminal, I've logged into one of the EC2 instances from earlier in the course.
 >
@@ -4534,7 +4490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Amazon EC2|Ec2]] (3), aws (3), [[Security]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1)
 > **Env Vars:** ec2 (3), aws (3), nfs (2), cidr (1), vpc (1)
 > **CLI Commands:** aws (3), sudo (2), make (1)
 > **UI Navigation:** checkbox (2), dropdown (1), scroll down (1), go to (1)
@@ -4543,8 +4499,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 
-#### File Gateway teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980)
+#### [File Gateway teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4552,7 +4507,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=1)** As with every other section of this course, we're now going to go through and clean up all the resources that we created so that you won't have any unexpected charges on your AWS bill.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=11)** The first thing we'll do is go into the EC2 section.
+> **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=11)** The first thing we'll do is go into the [[Amazon EC2|EC2]] section.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=14)** I'm going to delete the EBS demo one instance that we use to mount the file system.
 >
@@ -4570,7 +4525,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=48)** We're getting a warning here.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=49)** As we do throughout AWS, we'll type the word delete in this case to confirm and click delete.
+> **[0:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=49)** As we do throughout AWS, we'll type the [[Microsoft Word|word]] delete in this case to confirm and click delete.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/file-gateway-teardown?u=76281980&t=56)** AWS is asking us for some feedback here which is something that doesn't show up all the time.
 >
@@ -4606,7 +4561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (3), ec2 (2), ebs (1)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** warning (2)
@@ -4614,8 +4569,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Transfer data with AWS Snowball
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980)
+#### [Transfer data with AWS Snowball](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4683,9 +4637,9 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=168)** When it arrives in S3, the same KMS key can be used to decrypt.
 >
-> **[2:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=172)** Second, the enclosure itself is tamper-proof and equipped with something called a trusted platform module that can alert AWS to any unauthorized changes to the hardware.
+> **[2:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=172)** Second, the enclosure itself is tamper-proof and equipped with something called a trusted platform module that can alert AWS to any unauthorized changes to the [[Hardware]].
 >
-> **[3:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=182)** After your job is complete, AWS erases your data according to the NIST standard for media sanitation.
+> **[3:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=182)** After your job is complete, AWS erases your data according to the [[NIST]] standard for media sanitation.
 >
 > **[3:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=190)** Finally, you can configure SNS notifications for events that occur during the job's lifecycle.
 >
@@ -4695,7 +4649,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=213)** When it does, you'll connect the device to your network and install the Snowball S3 adapter software on your computer.
 >
-> **[3:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=219)** The software comes for Windows, Mac, and Linux, and provides an S3 compatible endpoint for you to transfer data locally.
+> **[3:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=219)** The software comes for [[Windows]], Mac, and [[Linux]], and provides an S3 compatible endpoint for you to transfer data locally.
 >
 > **[3:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=225)** Remember, you'll have to specify in advance the target S3 bucket and the KMS encryption key that will be used.
 >
@@ -4725,7 +4679,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=306)** Another option, of course, is to move your data-generating workloads to AWS.
 >
-> **[5:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=311)** Migrating from a hybrid cloud to a full cloud native solution is definitely going to alleviate many data transfer headaches.
+> **[5:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=311)** Migrating from a [[Hybrid Cloud]] to a full cloud native solution is definitely going to alleviate many data transfer headaches.
 >
 > **[5:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/transfer-data-with-aws-snowball?u=76281980&t=319)** There's actually another use case for Snowball, which these days is part of a larger set of devices called the Snow Family as shown here.
 >
@@ -4751,7 +4705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), aws (20), cloud (5), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[NIST]] (1), [[Windows]] (1), [[Linux]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** aws (20), kms (3), xkcd (1), nist (1), sns (1)
 > **CLI Commands:** aws (20), make (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -4760,18 +4714,17 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Database Migration Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980)
+#### [AWS Database Migration Service](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=0)** - [Instructor] Chances are if you're interested in Cloud data storage, you're not starting from scratch.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=0)** - [Instructor] Chances are if you're interested in Cloud [[Data Storage]], you're not starting from scratch.
 >
 > **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=5)** You've already got a significant amount of data on-premises in your local data center or co-location and you're wondering how to get it to the Cloud.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=12)** Maybe you've been running a relational database or two or three for years, and you're ready to let AWS take over the operational details by migrating to RDS.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=21)** Perhaps you've been running MySQL and you're interested in the performance enhancements promised by Aurora or maybe you have some new architectural goals and just want to switch database engines.
+> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=21)** Perhaps you've been running [[MySQL]] and you're interested in the performance enhancements promised by Aurora or maybe you have some new architectural goals and just want to switch database engines.
 >
 > **[0:32](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=32)** How do you get from here to there?
 >
@@ -4779,7 +4732,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=37)** You can use native tools such as Oracle's data pump but often these tools are geared toward homogenous transfers, not for migrating to another platform.
 >
-> **[0:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=46)** You could use your database's export tools to export data and schemas to SQL scripts and run them, but again changing engines would mean that you're responsible for translating the resulting output into a syntax suitable for your destination.
+> **[0:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=46)** You could use your database's export tools to export data and schemas to [[SQL]] scripts and run them, but again changing engines would mean that you're responsible for translating the resulting output into a syntax suitable for your destination.
 >
 > **[0:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=59)** The files could also be quite large at which point you're met with the challenges of getting them to the Cloud in the first place.
 >
@@ -4789,17 +4742,17 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=78)** AWS has essentially abstracted away the details of a number of existing migration tools and created a service that gives you a single interface for moving data from one database to another.
 >
-> **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=89)** DMS can do one time or continuous data migrations to and from a variety of relational and NoSQL databases and can even move data to S3.
+> **[1:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=89)** DMS can do one time or continuous data migrations to and from a variety of relational and [[NoSQL]] [[Databases]] and can even move data to S3.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=98)** Let's take a look at how this works.
 >
 > **[1:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=101)** The key component of a database migration service task is the replication instance.
 >
-> **[1:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=105)** The replication instance is an EC2 virtual machine provisioned by DMS.
+> **[1:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=105)** The replication instance is an [[Amazon EC2|EC2]] virtual machine provisioned by DMS.
 >
 > **[1:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=111)** The host must be able to access both your source and target databases on the respective service ports.
 >
-> **[1:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=117)** For example, port 5432 for Postgres.
+> **[1:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=117)** For example, port 5432 for [[PostgreSQL|Postgres]].
 >
 > **[2:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=121)** The replication instance runs migration tasks, moving relational data from your source database to the target.
 >
@@ -4831,7 +4784,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=226)** This includes many transactional databases.
 >
-> **[3:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=229)** For instance, you can migrate a SQL server database to Aurora, MySQL, another SQL server or Postgres.
+> **[3:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=229)** For instance, you can migrate a [[Microsoft SQL Server|SQL server]] database to Aurora, MySQL, another SQL server or Postgres.
 >
 > **[3:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-database-migration-service?u=76281980&t=236)** Plus you can migrate many different data warehouse platforms into Redshift.
 >
@@ -4853,7 +4806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (14), aws (10), cloud (5), [[Databases]] (5)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Amazon EC2|Ec2]] (3), [[MySQL]] (2), [[NoSQL]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** aws (10), dms (4), rds (3), sql (3), ec2 (3)
 > **CLI Commands:** aws (10), mysql (2), mongo (1), az (1), make (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
@@ -4862,22 +4815,21 @@ created: 2026-05-02
 > **Ports:** port 5432 (1)
 > **Documentation:** the documentation (1)
 
-#### DMS demo: Setup steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980)
+#### [DMS demo: Setup steps](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=0)** - [Instructor] Okay, in this demo of the AWS Database Migration Service, we're going to use the existing MySQL RDS database that we created earlier in the course.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=0)** - [Instructor] Okay, in this demo of the AWS Database Migration Service, we're going to use the existing [[MySQL]] RDS database that we created earlier in the course.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=9)** If you're following along but you don't have that one anymore, feel free to refer back to chapter four.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=15)** Build it again and pick up right here.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=17)** What we're going to do is migrate from a MySQL database in RDS to a Postgres database in RDS, and we use Database Migration Service to do it.
+> **[0:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=17)** What we're going to do is migrate from a MySQL database in RDS to a [[PostgreSQL|Postgres]] database in RDS, and we use Database Migration Service to do it.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=27)** So that means we need to create the destination database.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=31)** Before we go into RDS and take that step, we need to go into EC2 and create a security group.
+> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=31)** Before we go into RDS and take that step, we need to go into [[Amazon EC2|EC2]] and create a security group.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=39)** Scroll down here on the side under the EC2 section to security groups, then click create security group.
 >
@@ -4887,7 +4839,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=56)** We'll create a rule.
 >
-> **[0:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=59)** We'll use the dropdown to choose Postgres 'cause it's in the dropdown here, PostgreSQL, port 5432.
+> **[0:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=59)** We'll use the dropdown to choose Postgres 'cause it's in the dropdown here, [[PostgreSQL]], port 5432.
 >
 > **[1:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=68)** Our source will be anywhere IPv4.
 >
@@ -5013,7 +4965,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=405)** At this point, our parameter group is saved and all we need to do now is apply it to our MySQL database.
 >
-> **[6:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=412)** So go back and click databases.
+> **[6:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=412)** So go back and click [[Databases]].
 >
 > **[6:54](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-setup-steps?u=76281980&t=414)** Click mysql_rds_demo and go up to modify.
 >
@@ -5039,7 +4991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[MySQL]] (16), [[Security]] (6), [[PostgreSQL|Postgres]] (4), next (3)
+> **Frameworks & Libraries:** [[MySQL]] (16), [[PostgreSQL|Postgres]] (4), [[Amazon EC2|Ec2]] (2), [[PostgreSQL]] (1), [[Databases]] (1)
 > **CLI Commands:** mysql (16), make (3), aws (2), psql (1), find (1)
 > **Env Vars:** rds (9), aws (2), ec2 (2), vpc (2)
 > **UI Navigation:** dropdown (5), scroll down (3), click on (2), go to (2)
@@ -5048,12 +5000,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), configure (1)
 > **Cross-References:** earlier in (1), next video (1)
 
-#### DMS demo: Create replication instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980)
+#### [DMS demo: Create replication instance](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=0)** - [Instructor] All right, continuing from the last video, we have just applied our custom parameter group to the MySQL database in RDS, and we were waiting for it to go from the applying state to complete.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=0)** - [Instructor] All right, continuing from the last video, we have just applied our custom parameter group to the [[MySQL]] database in RDS, and we were waiting for it to go from the applying state to complete.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=12)** And what we found is that instead the status has changed to Pending reboot.
 >
@@ -5061,7 +5012,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=23)** So what we're going to do is we're going to scroll up, we're going to go to actions, still under MySQL RDS and click Reboot, click Confirm and that'll start the RDS instance rebooting.
 >
-> **[0:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=38)** The next thing that we want to do in this demo is establish a connection between the Database Migration Service and both of the databases.
+> **[0:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=38)** The next thing that we want to do in this demo is establish a connection between the Database Migration Service and both of the [[Databases]].
 >
 > **[0:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=47)** So we'll need to make sure that this is in the available state before we do that.
 >
@@ -5121,7 +5072,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=223)** Back here in the Database Migration Service, let's click Endpoints.
 >
-> **[3:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=227)** We're going to tell DMS how to connect to MySQL and to Postgres.
+> **[3:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=227)** We're going to tell DMS how to connect to MySQL and to [[PostgreSQL|Postgres]].
 >
 > **[3:52](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-replication-instance?u=76281980&t=232)** So let's create an endpoint.
 >
@@ -5199,7 +5150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[MySQL]] (10), [[PostgreSQL|Postgres]] (6), [[Databases]] (4), aws (4)
+> **Frameworks & Libraries:** [[MySQL]] (10), [[PostgreSQL|Postgres]] (6), [[Databases]] (4)
 > **CLI Commands:** mysql (10), aws (4), make (3), az (1), ssh (1)
 > **Env Vars:** rds (11), aws (4), vpc (2), ssh (1), dms (1)
 > **UI Navigation:** go to (3), click on (2), checkbox (2), scroll up (1), dropdown (1)
@@ -5208,12 +5159,11 @@ created: 2026-05-02
 > **Code Identifiers:** words (1)
 > **Tools:** aws console (1)
 
-#### DMS demo: Create and execute task
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980)
+#### [DMS demo: Create and execute task](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=0)** - [Instructor] All right, now that we've got both sides of this connection working, let's head into database migration service and set up the task that will move data from our MySQL to our Postgres.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=0)** - [Instructor] All right, now that we've got both sides of this connection working, let's head into database migration service and set up the task that will move data from our [[MySQL]] to our [[PostgreSQL|Postgres]].
 >
 > **[0:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=10)** Click on create database migration task.
 >
@@ -5263,7 +5213,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=141)** Okay, now the migration task has changed from ready to starting to now load complete, replication ongoing which is what we want.
 >
-> **[2:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=150)** So let's click into the MySQLToPostgres task name and we can click on the tab that says table statistics to see what's happened.
+> **[2:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=150)** So let's click into the MySQLToPostgres task name and we can click on the tab that says table [[Statistics]] to see what's happened.
 >
 > **[2:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=159)** Now you can tell right away that putting the wild card in for the schema might have taken things a little further than we meant to because not only did we get our schema that we created adhoc in the MySQL database, we also got all of the sort of built in administrative schemas.
 >
@@ -5271,13 +5221,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=179)** And if we were to redo this demo we would specify just the one schema called my_database which we created earlier in the course.
 >
-> **[3:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=188)** So when you filter by that you can see all of the tables that we specified in the SQL that you loaded in, employees, departments, projects, all that.
+> **[3:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=188)** So when you filter by that you can see all of the tables that we specified in the [[SQL]] that you loaded in, employees, departments, projects, all that.
 >
 > **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=198)** They have been moved.
 >
 > **[3:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=199)** And so now we can take a look at the Postgres database and see what the result looks like on that side.
 >
-> **[3:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=206)** So over here I have installed PG admin, the client to connect to Postgres databases and established a connection to that RDS database.
+> **[3:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=206)** So over here I have installed PG admin, the client to connect to Postgres [[Databases]] and established a connection to that RDS database.
 >
 > **[3:35](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-demo-create-and-execute-task?u=76281980&t=215)** So you can see I'm already connected here and if I expand databases, I've got Postgres here.
 >
@@ -5305,7 +5255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[MySQL]] (8), [[PostgreSQL|Postgres]] (6), data (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[PostgreSQL|Postgres]] (6), [[SQL]] (2), [[Databases]] (2), [[Statistics]] (1)
 > **CLI Commands:** mysql (8), psql (1), make (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (2)
 > **Code Identifiers:** my_database (3), performance_schema (1)
@@ -5314,8 +5264,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** warning (1)
 
-#### DMS teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980)
+#### [DMS teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5323,7 +5272,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=7)** That way we won't see any unexpected charges on our monthly AWS bill.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=12)** So we're still here looking at the task, the MySQL to Postgres task, and the first thing we want to do is go up to Actions and choose Stop.
+> **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=12)** So we're still here looking at the task, the [[MySQL]] to [[PostgreSQL|Postgres]] task, and the first thing we want to do is go up to Actions and choose Stop.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=21)** That'll stop the replication from running.
 >
@@ -5331,7 +5280,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=31)** Okay, now we can go to Replication Instances and delete this replication instance.
 >
-> **[0:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=38)** These are like EC2 instances but they don't show up in the EC2 section of AWS.
+> **[0:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=38)** These are like [[Amazon EC2|EC2]] instances but they don't show up in the EC2 section of AWS.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/dms-teardown?u=76281980&t=43)** So you got to make sure to delete it from the database migration service.
 >
@@ -5397,7 +5346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[PostgreSQL|Postgres]] (3), aws (2), [[MySQL]] (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), [[MySQL]] (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** aws (2), mysql (2), make (1), psql (1)
 > **Env Vars:** aws (2), ec2 (2), rds (2)
 > **UI Navigation:** go to (2), checkbox (2)
@@ -5405,8 +5354,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS SFTP service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980)
+#### [AWS SFTP service](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5424,7 +5372,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=49)** There's a definite maintenance overhead to this process.
 >
-> **[0:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=53)** The SFTP endpoint, probably a Linux server, must be patched regularly and hardened for security.
+> **[0:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=53)** The SFTP endpoint, probably a [[Linux]] server, must be patched regularly and hardened for security.
 >
 > **[0:59](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=59)** It is after all world exposed so that the vendor can reach it.
 >
@@ -5446,7 +5394,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=115)** This SFTP service may be using some remote storage, such as an NFS mount, but it's often just using its own local drive.
 >
-> **[2:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=123)** If it's an EC2 instance, perhaps EBS storage.
+> **[2:03](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=123)** If it's an [[Amazon EC2|EC2]] instance, perhaps EBS storage.
 >
 > **[2:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=127)** As with availability, the cost and complexity of building the system for high durability is significant, so a failure not only means the pipeline is down, it may mean you've lost data.
 >
@@ -5474,7 +5422,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=216)** If you add another user to the SFTP endpoint, you can have that person/account use another folder on the same bucket, or you can actually use an entirely different bucket.
 >
-> **[3:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=227)** This leads to some interesting potential design patterns.
+> **[3:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=227)** This leads to some interesting potential [[Design Patterns]].
 >
 > **[3:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-service?u=76281980&t=231)** You can support many different use cases with just one endpoint.
 >
@@ -5490,7 +5438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), data (5), cloud (2), database (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Amazon EC2|Ec2]] (1), [[Design Patterns]] (1)
 > **Env Vars:** sftp (20), aws (6), nfs (1), ec2 (1), ebs (1)
 > **CLI Commands:** aws (6), make (3), ssh (1)
 > **Prerequisites:** configure (1), setup (1)
@@ -5498,8 +5446,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS SFTP prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980)
+#### [AWS SFTP prerequisites](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5565,7 +5512,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=140)** Okay, we're going to create policy.
 >
-> **[2:23](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=143)** On this screen, we have a wizard that will walk us through the steps of creating a policy, or we can click this tab and edit JSON directly.
+> **[2:23](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=143)** On this screen, we have a wizard that will walk us through the steps of creating a policy, or we can click this tab and edit [[JSON]] directly.
 >
 > **[2:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=153)** Before we do anything here, click your cursor into the JSON, create a few lines here, and paste that ARN of the S3 bucket.
 >
@@ -5671,7 +5618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), [[JSON]] (6), aws (3), [[Search]] (2), management (1)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **Env Vars:** sftp (11), arn (5), json (5), aws (3), iam (3)
 > **UI Navigation:** go to (2), checkbox (2), dropdown (1)
 > **CLI Commands:** aws (3), make (1)
@@ -5680,8 +5627,7 @@ created: 2026-05-02
 > **File Paths:** sftp_demo_policy.json (1)
 > **Code Identifiers:** sftp_demo_policy (1)
 
-#### Create an SFTP endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980)
+#### [Create an SFTP endpoint](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5763,13 +5709,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=197)** This user is not going to use a username and password.
 >
-> **[3:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=201)** Instead, much like when we log into an EC2 instance, it's going to use an SSH key.
+> **[3:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=201)** Instead, much like when we log into an [[Amazon EC2|EC2]] instance, it's going to use an SSH key.
 >
 > **[3:27](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=207)** So unlike with S3, that would generate keys for us, we're going to need to do this on our own.
 >
 > **[3:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=213)** So I'm going to head back to my Mac terminal here and we're going to use a command called ssh dash keygen.
 >
-> **[3:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=221)** You might be familiar with using this for other purposes, such as creating a key for GitHub access.
+> **[3:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=221)** You might be familiar with using this for other purposes, such as creating a key for [[GitHub]] access.
 >
 > **[3:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=227)** We'll say ssh keygen dash T RSA, which is the type of key that we want to create, dash B, which is the number of bytes that we want this key to be in size, we'll say 4096 and dash capital C, which expects an email address.
 >
@@ -5815,7 +5761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), aws (6), hit (6), [[Search]] (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[GitHub]] (1)
 > **Env Vars:** sftp (13), aws (6), ssh (2), rsa (2), iam (1)
 > **CLI Commands:** aws (6), ssh (5), make (2), cat (2), ls (1)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
@@ -5824,8 +5770,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send data to S3 using AWS SFTP
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980)
+#### [Send data to S3 using AWS SFTP](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5835,7 +5780,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=7)** For that, we're going to need an SFTP client and I've downloaded one called Cyber Duck which you can find at [cyberduck.io](https://cyberduck.io).
 >
-> **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=16)** This client is available for Mac or Windows so no matter your platform you should be able to follow along if you like.
+> **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=16)** This client is available for Mac or [[Windows]] so no matter your platform you should be able to follow along if you like.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=22)** Let's click Open Connection and then make sure that we change this to SFTP.
 >
@@ -5861,7 +5806,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=81)** Okay, I've established a connection here.
 >
-> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=84)** If this is your first time connecting to the SFTP service you may also be asked to accept a fingerprint much like you do when you first log into an EC2 instance.
+> **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=84)** If this is your first time connecting to the SFTP service you may also be asked to accept a fingerprint much like you do when you first log into an [[Amazon EC2|EC2]] instance.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/send-data-to-s3-using-aws-sftp?u=76281980&t=93)** Just click allow and go on through.
 >
@@ -5889,7 +5834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Windows]] (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** sftp (13), aws (4), ssh (2), url (1), ec2 (1)
 > **CLI Commands:** aws (4), find (3), make (3), ssh (2)
 > **UI Navigation:** drag and drop (1), go to (1)
@@ -5898,8 +5843,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### AWS SFTP teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-teardown?u=76281980)
+#### [AWS SFTP teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5945,14 +5889,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), aws (2), hit (2)
 > **Env Vars:** sftp (4), aws (2)
 > **CLI Commands:** aws (2), make (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS DataSync
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980)
+#### [AWS DataSync](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5964,7 +5906,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=19)** That is the purpose of AWS DataSync.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=22)** It can take data from locations inside or outside of AWS and get them to the cloud reliably and quickly, pulling from sources like NFS, CIFS, or Hadoop file systems.
+> **[0:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=22)** It can take data from locations inside or outside of AWS and get them to the cloud reliably and quickly, pulling from sources like NFS, CIFS, or [[Hadoop]] file systems.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=33)** It can be run ad hoc or set up on a schedule where it will sync new files as they appear in your source.
 >
@@ -5974,7 +5916,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=53)** In this case, you'd run an agent VM locally close to the data, for this, Amazon provides images to build the agent in VMware, KVM and HyperV variants.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=65)** DataSync can also be configured to move data from object storage in other clouds namely Azure files or GCP storage buckets.
+> **[1:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=65)** DataSync can also be configured to move data from object storage in other clouds namely [[Microsoft Azure|Azure]] files or GCP storage buckets.
 >
 > **[1:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync?u=76281980&t=74)** Another supported use case is transferring between AWS services, perhaps across regions.
 >
@@ -6000,13 +5942,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), aws (4), cloud (3), [[Hadoop]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Hadoop]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (4), efs (4), nfs (1), cifs (1), kvm (1)
 > **CLI Commands:** aws (4)
 > **Speakers:** - [narrator] (1)
 
-#### Move data with AWS DataSync
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980)
+#### [Move data with AWS DataSync](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6014,11 +5955,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=1)** Our goal here is to move data from EFS to S3 using AWS DataSync.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=7)** To show that I've logged into an EC2 Instance that have stood up here with an EFS file system mounted.
+> **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=7)** To show that I've logged into an [[Amazon EC2|EC2]] Instance that have stood up here with an EFS file system mounted.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=13)** If you want to replicate this, you'll remember that we did this back in Chapter 3 so you can go back and follow those instructions.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=21)** In here, I've got a little bit of data, and this is replicated from the way that we set up the data for demonstrating S3 CLI syncs back in the beginning of this chapter, second chapter of Chapter 5.
+> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=21)** In here, I've got a little bit of data, and this is replicated from the way that we set up the data for demonstrating S3 [[CLI]] syncs back in the beginning of this chapter, second chapter of Chapter 5.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=36)** So, you'll see that we've got one large file called big file and a folder with many small files.
 >
@@ -6118,7 +6059,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=300)** It just looks for things that have changed since the last run.
 >
-> **[5:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=304)** So, whether you are coming from an on-premises file system or from another cloud storage provider, or from another service in AWS, DataSync is a really great way to move files around.
+> **[5:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=304)** So, whether you are coming from an on-premises file system or from another [[Cloud Storage]] provider, or from another service in AWS, DataSync is a really great way to move files around.
 >
 > **[5:17](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-with-aws-datasync?u=76281980&t=317)** It runs things in parallel as much as possible.
 >
@@ -6132,7 +6073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), aws (5), next (3), [[Amazon EC2|Ec2]] (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[CLI]] (2), [[Cloud Storage]] (1)
 > **Env Vars:** efs (12), aws (5), ec2 (2), cli (2), iam (2)
 > **CLI Commands:** aws (5), ruby (1)
 > **UI Navigation:** dropdown (2), select the (1), scroll down (1)
@@ -6141,8 +6082,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Exercise Files:** exercise files (1)
 
-#### AWS DataSync teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980)
+#### [AWS DataSync teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6162,7 +6102,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980&t=45)** None of these definitions really incur any charges, but it's good to kind of clean things up.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980&t=51)** As for the pre-setup steps, I can go in here into EC2.
+> **[0:51](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980&t=51)** As for the pre-setup steps, I can go in here into [[Amazon EC2|EC2]].
 >
 > **[0:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-datasync-teardown?u=76281980&t=57)** I can delete the instance or terminate the instance is the right phrase for that.
 >
@@ -6185,12 +6125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS Glue overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
+#### [AWS Glue overview](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=0)** - [Instructor] AWS Glue is a fully managed serverless data integration service based on PySpark, the Python implementation of Apache Spark.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=0)** - [Instructor] AWS Glue is a fully managed serverless [[Data Integration]] service based on [[PySpark]], the [[Python (Programming Language)|Python]] implementation of [[Apache Spark]].
 >
 > **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=9)** With Glue, you design data flows by connecting sources to targets with transformations in between.
 >
@@ -6200,11 +6139,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=26)** If not, Glue can get you started by proposing designs for some simple ETL jobs.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=31)** Because Glue is serverless, although you pay for the resources consumed by your running jobs, you never have to create or manage an EC2 instance.
+> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=31)** Because Glue is serverless, although you pay for the resources consumed by your running jobs, you never have to create or manage an [[Amazon EC2|EC2]] instance.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=40)** Another core feature of Glue is that it maintains a metadata repository of your various data schemas, this could be relational table schemas, the format of a delimited file, and more.
+> **[0:40](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=40)** Another core feature of Glue is that it maintains a [[Metadata]] repository of your various data schemas, this could be relational table schemas, the format of a delimited file, and more.
 >
-> **[0:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=53)** Although it is sometimes confusing, Glue calls these metadata repositories databases.
+> **[0:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=53)** Although it is sometimes confusing, Glue calls these metadata repositories [[Databases]].
 >
 > **[0:58](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=58)** You can define the schema in one of two ways, first, you can manually enter it, this would involve you typing the name of each data column or field, then specifying its type and data width.
 >
@@ -6212,7 +6151,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=76)** To do this, you must define what's called a crawler.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=79)** Crawlers can read from S3, RDS, or a JDBC source.
+> **[1:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=79)** Crawlers can read from S3, RDS, or a [[Java Database Connectivity (JDBC)|JDBC]] source.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980&t=84)** They can discover table schemas, but do not discover relationships.
 >
@@ -6240,7 +6179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Metadata]] (3), [[PySpark]] (2), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Metadata]] (3), [[PySpark]] (2), [[Apache Spark]] (2), [[Data Integration]] (1)
 > **Env Vars:** gui (2), etl (2), aws (1), ec2 (1), rds (1)
 > **CLI Commands:** python (3), apache (2), aws (1)
 > **Definitions:** is a  (1)
@@ -6249,12 +6188,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Glue: Create an S3 metadata crawler
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980)
+#### [AWS Glue: Create an S3 metadata crawler](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=0)** - [Instructor] In this demo, we're going to create a job using AWS Glue that moves data from a CSV stored in S3 to a table in our MySQL database.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=0)** - [Instructor] In this demo, we're going to create a job using AWS Glue that moves data from a CSV stored in S3 to a table in our [[MySQL]] database.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=10)** If you didn't keep or create the MySQL demo from earlier in this course, you can do so by reviewing the chapter four video called Create a MySQL RDS Instance.
 >
@@ -6312,7 +6250,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=184)** Now we need to choose where the output of the crawler should go.
 >
-> **[3:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=188)** That metadata is going to end up in something called a database, which is a little bit of confusing terminology, but it's just the location where that schema information will get stored.
+> **[3:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=188)** That [[Metadata]] is going to end up in something called a database, which is a little bit of confusing terminology, but it's just the location where that schema information will get stored.
 >
 > **[3:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=198)** We don't have that kind of database yet, so we're going to click add database, which opens in a new tab.
 >
@@ -6336,7 +6274,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=258)** It'll look at every file that it encounters and try to take a look at it and understand what its schema is, which it will save in the database that we specified.
 >
-> **[4:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=268)** Okay, now that that has finished and succeeded, we can go over here on the side to Databases, click into demo_metadata, and see that we have two table entries right here in this section.
+> **[4:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=268)** Okay, now that that has finished and succeeded, we can go over here on the side to [[Databases]], click into demo_metadata, and see that we have two table entries right here in this section.
 >
 > **[4:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-an-s3-metadata-crawler?u=76281980&t=281)** The first is from the parks_and_landmarks_detroit file that was in the S3 bucket alongside states, and the second is the one that we're interested in, states.csv.
 >
@@ -6354,7 +6292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (8), data (7), [[MySQL]] (3), [[Metadata]] (3)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[Metadata]] (3), [[Databases]] (1)
 > **Env Vars:** rds (3), iam (3), aws (2), csv (1)
 > **CLI Commands:** mysql (3), aws (2), make (1)
 > **UI Navigation:** go to (3), dropdown (1), scroll down (1)
@@ -6363,12 +6301,11 @@ created: 2026-05-02
 > **File Paths:** states.csv (2)
 > **Definitions:** is a  (1), means that (1)
 
-#### AWS Glue networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-networking?u=76281980)
+#### [AWS Glue networking](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-networking?u=76281980&t=0)** - [Instructor] Our target for this demo is going to be the MySQL RDS database, but before Glue can connect to it, I need to do a little explaining.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-networking?u=76281980&t=0)** - [Instructor] Our target for this demo is going to be the [[MySQL]] RDS database, but before Glue can connect to it, I need to do a little explaining.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-networking?u=76281980&t=9)** Imagine this box here represents all of AWS, not just your resources, but mine, too, and all those belonging to AWS behind the scenes.
 >
@@ -6428,7 +6365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), database (5), [[Security]] (5), data (2), traffic (2)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Env Vars:** vpc (11), aws (9), rds (7), cidr (1)
 > **CLI Commands:** aws (9), mysql (1), node (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -6437,18 +6374,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Glue: Create a connection to RDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980)
+#### [AWS Glue: Create a connection to RDS](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=0)** - [Instructor] All right, let's take the steps necessary to get AWS Glue talking to our RDS database.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=6)** Remember that I'm assuming that the MySQL you created in chapter four is still around.
+> **[0:06](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=6)** Remember that I'm assuming that the [[MySQL]] you created in chapter four is still around.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=11)** If it's not, head back there and look for the video called creating a MySQL RDS database.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=16)** When you're done, let's head back here into EC2.
+> **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=16)** When you're done, let's head back here into [[Amazon EC2|EC2]].
 >
 > **[0:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=20)** Along the left hand side, we'll look for security groups.
 >
@@ -6474,7 +6410,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=67)** Keep source as custom, and click into the text box with the magnifying glass.
 >
-> **[1:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=72)** We'll type the word Glue, to filter down to this rule and now this rule is referring to itself.
+> **[1:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=72)** We'll type the [[Microsoft Word|word]] Glue, to filter down to this rule and now this rule is referring to itself.
 >
 > **[1:19](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-a-connection-to-rds?u=76281980&t=79)** It will trust any traffic coming from any resource in AWS that also has this security group attached.
 >
@@ -6584,7 +6520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), aws (7), [[MySQL]] (7), [[Security]] (6), next (3)
+> **Frameworks & Libraries:** [[MySQL]] (7), [[Amazon EC2|Ec2]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** rds (9), aws (7), vpc (4), ec2 (1), tcp (1)
 > **CLI Commands:** aws (7), mysql (7), make (5), find (1)
 > **UI Navigation:** dropdown (3), scroll down (3), click on (2), checkbox (1), go to (1)
@@ -6593,14 +6529,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (2)
 > **Definitions:** refers to (1)
 
-#### AWS Glue: RDS data crawler
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980)
+#### [AWS Glue: RDS data crawler](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=0)** - [Instructor] We're picking up right where we left off with Glue, now able to talk to the RDS database.
 >
-> **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=5)** Over here in MySQL Workbench, I've logged into that database, and you can find this bit of SQL in the Chapter 6 folder of the exercise files.
+> **[0:05](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=5)** Over here in [[MySQL]] Workbench, I've logged into that database, and you can find this bit of [[SQL]] in the Chapter 6 folder of the exercise files.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=14)** It's in a file called mysql_states_table.sql.
 >
@@ -6608,7 +6543,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=30)** Unfortunately, Glue isn't going to allow us that option right now, at least not through its graphical editor.
 >
-> **[0:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=36)** So instead, what we're going to do is create the destination for our data and then have a crawler in glue discover it so that we'll have both sides of the metadata defined.
+> **[0:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=36)** So instead, what we're going to do is create the destination for our data and then have a crawler in glue discover it so that we'll have both sides of the [[Metadata]] defined.
 >
 > **[0:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=47)** In this case, you can see that this table is not going to be exactly like the schema of our CSV file, and that's because we want to show a little bit of transformation happening in this ETL job that we're going to define in Glue.
 >
@@ -6622,7 +6557,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=98)** Click into Demo Crawler, scroll down to Data Sources, this tab here, and then click Add a Data Source.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=107)** Now we'll choose JDBC, and that's the protocol that Glue is using to talk to the database.
+> **[1:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=107)** Now we'll choose [[Java Database Connectivity (JDBC)|JDBC]], and that's the protocol that Glue is using to talk to the database.
 >
 > **[1:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=113)** As for connection, hit the dropdown, you'll find MySQL Connection.
 >
@@ -6644,7 +6579,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=159)** Then it will look at the RDS database in the schema my database, and describe the schema for all of the tables that it encounters there.
 >
-> **[2:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=167)** Okay, a few minutes later, and the crawler is done and has been successful, so let's click over to databases, into demo metadata.
+> **[2:47](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=167)** Okay, a few minutes later, and the crawler is done and has been successful, so let's click over to [[Databases]], into demo metadata.
 >
 > **[2:57](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-rds-data-crawler?u=76281980&t=177)** And now we see we have more tables than before.
 >
@@ -6658,7 +6593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (6), [[MySQL]] (2), [[SQL]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (2), [[Metadata]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Databases]] (1)
 > **Env Vars:** rds (7), csv (2), aws (2), jdbc (2), sql (1)
 > **CLI Commands:** mysql (2), find (2), aws (2), make (1)
 > **Code Identifiers:** mysql_states_table (1), my_database (1)
@@ -6667,12 +6602,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **File Paths:** mysql_states_table.sql (1)
 
-#### AWS Glue: Create and run a job
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980)
+#### [AWS Glue: Create and run a job](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=0)** - [Instructor] Now that we've got Glue talking to both S3 and the RDS database, and having established a metadata repository of files in S3 and tables in RDS, let's go into AWS Glue and click on Jobs.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=0)** - [Instructor] Now that we've got Glue talking to both S3 and the RDS database, and having established a [[Metadata]] repository of files in S3 and tables in RDS, let's go into AWS Glue and click on Jobs.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=14)** This will open up a new UI in a new tab.
 >
@@ -6682,9 +6616,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=25)** This will create a template for us, using Glue's drag and drop interface.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=29)** But you can also see we can start with a blank canvas, or go straight to editing scripts with Spark, Python, or even a Jupyter Notebook.
+> **[0:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=29)** But you can also see we can start with a blank canvas, or go straight to editing scripts with Spark, [[Python (Programming Language)|Python]], or even a Jupyter Notebook.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=37)** Our source is S3 and our target will be MYSQL.
+> **[0:37](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=37)** Our source is S3 and our target will be [[MySQL]].
 >
 > **[0:43](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=43)** This will just let Glue know a little bit about what we're doing, so that it can generate some boilerplate code for us.
 >
@@ -6742,7 +6676,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=205)** Now we can click Save, on the job, and again, we could run it from here, but let's do a little bit more.
 >
-> **[3:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=213)** Go to Script, and you can see the Pyspark code that Glue has generated out of this visual template.
+> **[3:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=213)** Go to Script, and you can see the [[PySpark]] code that Glue has generated out of this visual template.
 >
 > **[3:39](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-create-and-run-a-job?u=76281980&t=219)** I will say that the drag and drop interface of Glue is quite limited, and a little bit confusing.
 >
@@ -6818,7 +6752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (9), data (7), database (6), [[MySQL]] (3), aws (2)
+> **Frameworks & Libraries:** [[Metadata]] (9), [[MySQL]] (3), [[Python (Programming Language)|Python]] (2), [[PySpark]] (1)
 > **CLI Commands:** mysql (3), aws (2), python (2), node (2), find (2)
 > **Env Vars:** rds (2), aws (2), mysql (2), etl (2), csv (2)
 > **UI Navigation:** go to (5), drag and drop (4), click on (2)
@@ -6827,8 +6761,7 @@ created: 2026-05-02
 > **File Paths:** states.csv (1), concat.py (1)
 > **Tools:** jupyter (1), aws console (1)
 
-#### Glue and course teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980)
+#### [Glue and course teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6846,11 +6779,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=29)** And that'll open up in a new tab.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=31)** Let's go to Databases first.
+> **[0:31](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=31)** Let's go to [[Databases]] first.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=36)** Check the box next to demo_metadata and hit Delete.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=41)** Confirm that with the button, and that will take care of all of our metadata and the database that enclosed it.
+> **[0:41](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=41)** Confirm that with the button, and that will take care of all of our [[Metadata]] and the database that enclosed it.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/glue-and-course-teardown?u=76281980&t=46)** Now we can go to Crawlers.
 >
@@ -6910,7 +6843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (3), data (3), aws (2), hit (2)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Metadata]] (1)
 > **UI Navigation:** go to (8), checkbox (4), scroll down (1)
 > **Env Vars:** rds (4), aws (2), vpc (2), iam (1)
 > **CLI Commands:** aws (2), make (1)
@@ -6923,8 +6856,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand AWS Backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
+#### [Understand AWS Backup](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6958,7 +6890,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=83)** So of course, it's important to have backups.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=86)** That's why with every data storage service we've discussed in this course, we've touched on the subject of creating and restoring backups.
+> **[1:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=86)** That's why with every [[Data Storage]] service we've discussed in this course, we've touched on the subject of creating and restoring backups.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=93)** For better or for worse, the method varies from service to service.
 >
@@ -6978,7 +6910,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=142)** These interfaces were not always the most consistent, because different development teams created them independently of each other.
 >
-> **[2:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=148)** Eventually, AWS made a considered effort to rectify this situation, leading to the single AWS CLI we enjoy today.
+> **[2:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=148)** Eventually, AWS made a considered effort to rectify this situation, leading to the single AWS [[CLI]] we enjoy today.
 >
 > **[2:36](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980&t=156)** The unified CLI still lets you work with all the many different services that comprise AWS, but it provides a one stop shop for doing so.
 >
@@ -6998,25 +6930,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), data (9), [[CLI]] (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Data Storage]] (1)
 > **Env Vars:** aws (13), ebs (3), rds (2), efs (2), cli (2)
 > **CLI Commands:** aws (13)
 > **Tools:** command line (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - throughout (1)
 
-#### Create and configure an AWS Backup job
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980)
+#### [Create and configure an AWS Backup job](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=0)** - [Instructor] I'm logged into an EC2 host that has an EFS file system mounted.
+> **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=0)** - [Instructor] I'm logged into an [[Amazon EC2|EC2]] host that has an EFS file system mounted.
 >
 > **[0:04](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=4)** Let's take a look at what's inside.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=7)** All right, we've got a couple of files here, text files.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=9)** We've got data in JSON format.
+> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=9)** We've got data in [[JSON]] format.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=12)** And, oh what's this?
 >
@@ -7146,7 +7077,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=338)** And tags are a very powerful way in Amazon to focus on certain resources, whether it's for your cost reporting or for integrating with a third party that does things based on tags.
 >
-> **[5:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=350)** That metadata that you can put on resources can be really useful and this is one place that you could do that.
+> **[5:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=350)** That [[Metadata]] that you can put on resources can be really useful and this is one place that you could do that.
 >
 > **[5:55](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-and-configure-an-aws-backup-job?u=76281980&t=355)** So we've got our one EFS selected here and now we can go ahead and click Resource selection.
 >
@@ -7208,7 +7139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (2), data (2), [[JSON]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[JSON]] (1), [[Metadata]] (1)
 > **Env Vars:** efs (13), aws (7), ec2 (2), json (1), rds (1)
 > **CLI Commands:** aws (7), go run (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (1)
@@ -7217,8 +7148,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Exercise Files:** template (1)
 
-#### Restore from backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980)
+#### [Restore from backup](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7260,7 +7190,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980&t=87)** So we didn't have a lot of data to bring back and it finished very quickly.
 >
-> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980&t=90)** Let's go back to the EC2 Host and take a look at what we've got.
+> **[1:30](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980&t=90)** Let's go back to the [[Amazon EC2|EC2]] Host and take a look at what we've got.
 >
 > **[1:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/restore-from-backup?u=76281980&t=94)** If I do LS now, you can see I don't have my very important documents folder back but what I do have is a new folder that's named for Database Backup Restore.
 >
@@ -7274,7 +7204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), data (2), next (1), [[Amazon EC2|Ec2]] (1), database (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** efs (4), aws (2), ec2 (1)
 > **CLI Commands:** aws (2), ls (1), make (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -7282,8 +7212,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Backup teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980)
+#### [AWS Backup teardown](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7333,7 +7262,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980&t=106)** Meanwhile, I'm going to clean up the other resources that were a part of this demo.
 >
-> **[1:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980&t=110)** Going to EC2 here.
+> **[1:50](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980&t=110)** Going to [[Amazon EC2|EC2]] here.
 >
 > **[1:53](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-backup-teardown?u=76281980&t=113)** Click on my running instances and I will terminate the EFS that we logged into, confirm that, and wait for that to go into a terminated state.
 >
@@ -7349,7 +7278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** efs (5), aws (3), ec2 (2)
 > **CLI Commands:** aws (3), make (1)
 > **UI Navigation:** go to (2), checkbox (1), click on (1)
@@ -7360,22 +7289,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=0)** - [Brandon] That does it for this course.
 >
-> **[0:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=2)** We've seen the breadth of what AWS has to offer in terms of storage and data management.
+> **[0:02](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=2)** We've seen the breadth of what AWS has to offer in terms of storage and [[Data Management]].
 >
 > **[0:07](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=7)** To go further, it's hard to find a more in-depth resource than AWS's own documentation at aws.[amazon.com/documentation](https://amazon.com/documentation).
 >
 > **[0:16](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=16)** Of course, there's plenty more AWS content in the video library of this site.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=21)** I'd recommend Amazon Web Services Enterprise Security to learn more about IM and Access Control.
+> **[0:21](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=21)** I'd recommend [[Amazon Web Services (AWS)|Amazon Web Services]] Enterprise Security to learn more about IM and Access Control.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=28)** You may also want to check out Apache Spark Essential Training to help you better understand AWS Glue.
+> **[0:28](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=28)** You may also want to check out [[Apache Spark]] Essential Training to help you better understand AWS Glue.
 >
 > **[0:34](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980&t=34)** And finally, you could go into one of my other courses Amazon Web Services Deployment, Provisioning, and Automation, to learn how to get your applications to the cloud.
 >
@@ -7383,7 +7311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), cloud (2), data (1), management (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Data Management]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** aws (5), find (1), apache (1)
 > **Env Vars:** aws (4)
 > **URLs:** [amazon.com](https://amazon.com) (1)

@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prevent project failure with business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76281980)
+#### [Prevent project failure with business analysis](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7)
 > **Speakers:** - currently (1)
 
 
@@ -134,8 +132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business analysis (BA)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-business-analysis-ba?u=76281980)
+#### [What is business analysis (BA)?](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-business-analysis-ba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,11 +180,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7)
 > **Speakers:** - more (1)
 
-#### Business analysis industry definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analysis-industry-definitions?u=76281980)
+#### [Business analysis industry definitions](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analysis-industry-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,13 +240,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), product (2), management (1), application (1)
 > **Env Vars:** pmi (5), iiba (3)
 > **Definitions:** known as (1)
 > **Speakers:** - analysis (1)
 
-#### What is the role of a business analyst?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-the-role-of-a-business-analyst-15244956?u=76281980)
+#### [What is the role of a business analyst?](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-the-role-of-a-business-analyst-15244956?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,13 +308,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), product (2), management (1)
 > **Env Vars:** iiba (1), pmi (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### Business analyst skill set
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980)
+#### [Business analyst skill set](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980&t=22)** Because a business analyst is more knowledgeable about the organization, industry, or application area, they can help identify, and analyze alternative solutions for a problem.
 >
-> **[0:35](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980&t=35)** This is often referred to as business acumen.
+> **[0:35](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980&t=35)** This is often referred to as [[Business Acumen]].
 >
 > **[0:39](https://www.linkedin.com/learning/business-analysis-foundations-4/business-analyst-skill-set?u=76281980&t=39)** This includes the ability to provide previous knowledge as well as understanding the organization's culture, and political environment.
 >
@@ -391,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), application (1), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -402,8 +393,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Needs assessment basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/needs-assessment-basics-15250136?u=76281980)
+#### [Needs assessment basics](https://www.linkedin.com/learning/business-analysis-foundations-4/needs-assessment-basics-15250136?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,13 +449,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - have (1)
 
-#### Situation and solution statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980)
+#### [Situation and solution statements](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980&t=105)** One of the most commonly used tools to help correctly understand the situation is an Ishikawa diagram for documenting a root cause analysis of the problem.
 >
-> **[1:58](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980&t=118)** Another tool which is used in adaptive or agile projects is the five whys.
+> **[1:58](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980&t=118)** Another tool which is used in adaptive or [[Agile Development|agile]] projects is the five whys.
 >
 > **[2:04](https://www.linkedin.com/learning/business-analysis-foundations-4/situation-and-solution-statements-15250138?u=76281980&t=124)** We can also create models of the flow of processes to help discover where problems might exist, and then recommend solutions.
 >
@@ -527,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (3), data (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - since (1)
@@ -537,8 +525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who are the stakeholders?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/who-are-the-stakeholders?u=76281980)
+#### [Who are the stakeholders?](https://www.linkedin.com/learning/business-analysis-foundations-4/who-are-the-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,15 +597,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - so (1)
 
-#### Classifying your stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/classifying-your-stakeholders-15249131?u=76281980)
+#### [Classifying your stakeholders](https://www.linkedin.com/learning/business-analysis-foundations-4/classifying-your-stakeholders-15249131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,14 +673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), management (2), data (1), business (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - not (1)
 
-#### Engaging stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/engaging-stakeholders-15248169?u=76281980)
+#### [Engaging stakeholders](https://www.linkedin.com/learning/business-analysis-foundations-4/engaging-stakeholders-15248169?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), apt (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
@@ -793,8 +775,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose of a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/purpose-of-a-business-case-15243951?u=76281980)
+#### [Purpose of a business case](https://www.linkedin.com/learning/business-analysis-foundations-4/purpose-of-a-business-case-15243951?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,13 +825,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - so (1)
 
-#### Content of a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/content-of-a-business-case?u=76281980)
+#### [Content of a business case](https://www.linkedin.com/learning/business-analysis-foundations-4/content-of-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +861,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (2)
 > **Env Vars:** roi (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
@@ -892,12 +870,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project planning: Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980)
+#### [Project planning: Vision](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980&t=1)** - When we use the word vision, we might roll our eyes.
+> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980&t=1)** - When we use the [[Microsoft Word|word]] vision, we might roll our eyes.
 >
 > **[0:04](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980&t=4)** Vision gets used in a lot of corporate trainings and company culture messaging, but here in project planning, vision should be thought of as more of a thesis statement or a goal.
 >
@@ -959,21 +936,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** think of it as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - when (1)
 
-#### Project planning: Project roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980)
+#### [Project planning: Project roadmap](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=1)** - It's good practice to deliver value more frequently.
 >
-> **[0:04](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=4)** You especially know this if you use the Agile way of working.
+> **[0:04](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=4)** You especially know this if you use the [[Agile Development|Agile]] way of working.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=7)** But whether it's Agile, Waterfall, or something else, it helps to communicate when various components of the project will be completed.
 >
@@ -989,7 +965,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=52)** Everyone can look at it and know exactly where we are and what's coming up next.
 >
-> **[0:58](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=58)** Here's a way to visualize it, and you could even do this in your office if you like.
+> **[0:58](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=58)** Here's a way to visualize it, and you could even do this in your [[Microsoft Office|office]] if you like.
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-project-roadmap-15243948?u=76281980&t=63)** Hang a string horizontally across a whiteboard.
 >
@@ -1041,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), next (1), [[Microsoft Office|Office]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -1049,8 +1025,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - it (1)
 
-#### Project planning: Responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-responsibilities-15246880?u=76281980)
+#### [Project planning: Responsibilities](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-responsibilities-15246880?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1081,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), product (3), management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** required to (1)
@@ -1117,12 +1091,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Requirement types
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980)
+#### [Requirement types](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=1)** - Requirements come in all shapes and forms, but don't let that confuse you.
+> **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=1)** - Requirements come in all shapes and [[Forms]], but don't let that confuse you.
 >
 > **[0:05](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=5)** In a nutshell, requirements are what we need to do, they're what we need to do to satisfy the customer.
 >
@@ -1184,7 +1157,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=194)** The last set of requirements identify the quality levels required.
 >
-> **[3:20](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=200)** They're the responsibility of either a quality analyst or a group, like quality assurance.
+> **[3:20](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=200)** They're the responsibility of either a quality analyst or a group, like [[Quality Assurance]].
 >
 > **[3:27](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980&t=207)** These include the conditions or capability used to assess conformance to the requirements.
 >
@@ -1202,12 +1175,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), functional (2), management (2), [[Forms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Quality Assurance]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - requirements (1)
 
-#### Requirements elicitation techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980)
+#### [Requirements elicitation techniques](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1231,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980&t=165)** Remember though that open-ended questions obtain more detailed responses, but will require additional time to consolidate.
 >
-> **[2:54](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980&t=174)** One word of caution here, the process can get very lengthy.
+> **[2:54](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980&t=174)** One [[Microsoft Word|word]] of caution here, the process can get very lengthy.
 >
 > **[2:59](https://www.linkedin.com/learning/business-analysis-foundations-4/requirements-elicitation-techniques-15245934?u=76281980&t=179)** You want to be thorough, but don't fall into analysis paralysis.
 >
@@ -1283,14 +1255,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Warnings:** caution (1)
 > **Speakers:** - there (1)
 
-#### Using requirements modeling techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980)
+#### [Using requirements modeling techniques](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=49)** You'll utilize two key models to break the requirements down.
 >
-> **[0:55](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=55)** One for the process or verbs, call process modeling, and one for the data or nouns, call data modeling.
+> **[0:55](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=55)** One for the process or verbs, call process modeling, and one for the data or nouns, call [[Data Modeling]].
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=63)** Easy to remember, right?
 >
@@ -1334,7 +1305,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=112)** We use what's called data modeling techniques to figure it out.
 >
-> **[1:56](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=116)** Now, picture yourself adding your nouns or products to the whiteboard on stickies.
+> **[1:56](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=116)** Now, picture yourself adding your nouns or [[Microsoft Products|products]] to the whiteboard on stickies.
 >
 > **[2:03](https://www.linkedin.com/learning/business-analysis-foundations-4/using-requirements-modeling-techniques-15246881?u=76281980&t=123)** The first part of the data modeling technique is done.
 >
@@ -1366,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), product (3), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (3), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** pro tip (1)
@@ -1378,8 +1349,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Traceability matrix and taskboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980)
+#### [Traceability matrix and taskboard](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1381,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980&t=97)** It's a tool you actually use.
 >
-> **[1:39](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980&t=99)** You might have seen this before in the form of a task board in Scrum or a kanban board.
+> **[1:39](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980&t=99)** You might have seen this before in the form of a task board in [[Scrum]] or a kanban board.
 >
 > **[1:46](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980&t=106)** What you do is arrange a few columns with titles that represent the status of the requirements.
 >
@@ -1451,14 +1421,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Change control
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980)
+#### [Change control](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=20)** Rather than trying to stop change, we need to embrace it.
 >
-> **[0:25](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=25)** But that doesn't mean that we just react to every request for change, but rather, we need to have a way to analyze the request and the possible impact.
+> **[0:25](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=25)** But that doesn't mean that we just [[React.js|react]] to every request for change, but rather, we need to have a way to analyze the request and the possible impact.
 >
 > **[0:37](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=37)** Then we can make a decision to modify our current work or continuous plan, deferring the change until a later time.
 >
@@ -1500,7 +1469,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=131)** Part of the overall area of change also includes a plan for configuration control.
 >
-> **[2:17](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=137)** This pertains to the tracking of changes to documents or processes via version control.
+> **[2:17](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=137)** This pertains to the tracking of changes to documents or processes via [[Version Control]].
 >
 > **[2:25](https://www.linkedin.com/learning/business-analysis-foundations-4/change-control-15243950?u=76281980&t=145)** It's important to make sure that when changes are made, everyone is made aware of the change, and that the most recent version is being used.
 >
@@ -1514,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), [[React.js|React]] (1), management (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Version Control]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ccb (1)
 > **Prerequisites:** you need to have (1)
@@ -1525,8 +1494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing and verifying the requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/testing-and-verifying-the-requirements?u=76281980)
+#### [Testing and verifying the requirements](https://www.linkedin.com/learning/business-analysis-foundations-4/testing-and-verifying-the-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1570,13 +1538,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (2), management (1)
 > **CLI Commands:** make (3)
 > **Documentation:** specification (1), the documentation (1)
 > **Speakers:** - there (1)
 
-#### Validating the requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/validating-the-requirements?u=76281980)
+#### [Validating the requirements](https://www.linkedin.com/learning/business-analysis-foundations-4/validating-the-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1574,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** raci (1)
@@ -1619,8 +1584,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project release planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980)
+#### [Project release planning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,13 +1626,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=100)** The nature of the audience will affect how we release things.
 >
-> **[1:45](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=105)** For example, say you want to start selling your products to people in France by the first of next year.
+> **[1:45](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=105)** For example, say you want to start selling your [[Microsoft Products|products]] to people in France by the first of next year.
 >
 > **[1:52](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=112)** Then, your release planning would have to prioritize which changes come first and which are the most important.
 >
 > **[2:00](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=120)** So you have to ask, what does selling in France look like?
 >
-> **[2:03](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=123)** Is it all online? Do we have to have an office there?
+> **[2:03](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=123)** Is it all online? Do we have to have an [[Microsoft Office|office]] there?
 >
 > **[2:08](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980&t=128)** Do we have a completely new branding and a new site?
 >
@@ -1712,14 +1676,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), cloud (1), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - all (1)
 
-#### Project transition planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980)
+#### [Project transition planning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980&t=61)** This enables the discovery of adjustments that may need to be done before a full deployment.
 >
-> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980&t=67)** This is very common for new products.
+> **[1:07](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980&t=67)** This is very common for new [[Microsoft Products|products]].
 >
 > **[1:10](https://www.linkedin.com/learning/business-analysis-foundations-4/project-transition-planning?u=76281980&t=70)** They're often introduced in a test market to gauge responses and acceptance.
 >
@@ -1793,12 +1756,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), [[Programming]] (1), [[Microsoft Products|Products]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regardless (1)
 
-#### Solution implementation planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/solution-implementation-planning?u=76281980)
+#### [Solution implementation planning](https://www.linkedin.com/learning/business-analysis-foundations-4/solution-implementation-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,7 +1812,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
@@ -1862,8 +1823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1841,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980&t=43)** There are also many articles and blogs written about the various areas which are part of business analysis.
 >
-> **[0:50](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980&t=50)** I hope you check out some of mine, which I post frequently on LinkedIn.
+> **[0:50](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980&t=50)** I hope you check out some of mine, which I post frequently on [[LinkedIn]].
 >
 > **[0:56](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980&t=56)** And while you're on LinkedIn, connect with me.
 >
@@ -1895,7 +1855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[LinkedIn]] (2), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** iiba (1), pmi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)

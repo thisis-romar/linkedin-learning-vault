@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategies to communicate to wider audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
+#### [Strategies to communicate to wider audience](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980&t=97)** Now, this can be personally challenging, but the payoff is huge.
 >
-> **[1:42](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980&t=102)** Now, join me in this LinkedIn Learning course on communicating as a developer.
+> **[1:42](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980&t=102)** Now, join me in this [[LinkedIn]] Learning course on communicating as a developer.
 
 > [!info]- Semantic Content
 >
@@ -133,14 +132,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Why don't people understand?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980)
+#### [Why don't people understand?](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=1)** - If everybody was like you, communication would be easy.
 >
-> **[0:05](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=5)** You could use words like agile and inheritance and everybody would know what you mean.
+> **[0:05](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=5)** You could use words like [[Agile Development|agile]] and inheritance and everybody would know what you mean.
 >
 > **[0:10](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=10)** Long conversations would become short and your choices would be obvious to everybody.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=79)** It must be excellence that offers more than the disruptions it causes.
 >
-> **[1:24](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=84)** Developers' perspectives are products of their training too.
+> **[1:24](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=84)** Developers' perspectives are [[Microsoft Products|products]] of their training too.
 >
 > **[1:28](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-people-understand?u=76281980&t=88)** We're motivated to create code that runs quickly and reliably.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), database (1), ux (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - if (1)
 
@@ -203,8 +201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three types of intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
+#### [Three types of intelligence](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,13 +237,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=80)** Such people thrive in the physical world.
 >
-> **[1:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=83)** They enjoy visualizing how things fit, figuring out the algorithms to make them work and then putting it all together in a plan of action.
+> **[1:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=83)** They enjoy visualizing how things fit, figuring out the [[Algorithms]] to make them work and then putting it all together in a plan of action.
 >
-> **[1:31](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=91)** They tend to do well in positions such as operations, supply chain management and facilities.
+> **[1:31](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=91)** They tend to do well in positions such as operations, [[Supply Chain Management]] and facilities.
 >
 > **[1:38](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=98)** Now none of us has only one of these types of intelligence.
 >
-> **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=101)** But it's rare for someone to be truly outstanding in more than one type and rarer still to excel in all three.
+> **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=101)** But it's rare for someone to be truly outstanding in more than one type and rarer still to [[Microsoft Excel|excel]] in all three.
 >
 > **[1:49](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980&t=109)** But there is hope.
 >
@@ -262,13 +259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1), [[Algorithms]] (1), [[Supply Chain Management]] (1), [[Microsoft Excel|Excel]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Supply Chain Management]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - communication (1)
 
-#### The joys and sorrows of groupthink
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980)
+#### [The joys and sorrows of groupthink](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980&t=6)** Put all your wood behind a single arrow, and the people United will never be defeated.
 >
-> **[0:12](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980&t=12)** And I would be the last to argue with this, but unity can also have negative effects particularly for communication.
+> **[0:12](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980&t=12)** And I would be the last to argue with this, but [[Unity]] can also have negative effects particularly for communication.
 >
 > **[0:20](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-joys-and-sorrows-of-groupthink?u=76281980&t=20)** Let's say that you're part of a team that's had some great successes coming in on time and under budget over and over.
 >
@@ -330,8 +326,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - lots (1)
 
-#### A note about money and time
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/a-note-about-money-and-time?u=76281980)
+#### [A note about money and time](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/a-note-about-money-and-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +400,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
@@ -415,12 +409,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using words that people know
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
+#### [Using words that people know](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=1)** - Waterfall Git Lamp.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=1)** - Waterfall [[Git]] Lamp.
 >
 > **[0:04](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=4)** As a developer you probably recognize the specialized meanings of these terms.
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=12)** And they inspire feelings.
 >
-> **[0:15](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=15)** When I said waterfall, for example you probably also thought of the word agile and you probably have strong opinions about both methods.
+> **[0:15](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=15)** When I said waterfall, for example you probably also thought of the [[Microsoft Word|word]] [[Agile Development|agile]] and you probably have strong opinions about both methods.
 >
 > **[0:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980&t=23)** But now try these, sackbut, large bore, Thayer valve don't recognize them?
 >
@@ -484,13 +477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** git (3)
 > **Analogies:** for example (2)
 > **Speakers:** - waterfall (1)
 
-#### Don't dumb down, smarten up
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980)
+#### [Don't dumb down, smarten up](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=47)** Your system's main improvement is that it lets them book full vacations, tying in partner offers for such things as car rentals and air travel.
 >
-> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=56)** You're especially proud of your work integrating these partners, because it required a lot of data cleaning and clever authentication procedures.
+> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=56)** You're especially proud of your work integrating these partners, because it required a lot of [[Data Cleaning]] and clever authentication procedures.
 >
 > **[1:06](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=66)** Now right off the bat, you'll have to resist the temptation to talk about the integration problems you had because they're not relevant to the Chief of Staff's job.
 >
@@ -530,7 +522,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=88)** You can learn some of this by talking to your contacts.
 >
-> **[1:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=92)** But also, turn to LinkedIn and the client's website for background.
+> **[1:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=92)** But also, turn to [[LinkedIn]] and the client's website for background.
 >
 > **[1:37](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/don-t-dumb-down-smarten-up?u=76281980&t=97)** The knowledge you gain from this will also help you decide what materials to prepare.
 >
@@ -550,12 +542,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### The magic of stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980)
+#### [The magic of stories](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,9 +578,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=92)** You're talking to a big tour guide company because you want to integrate their offerings, but their legacy system delivers a comma separated feed.
 >
-> **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=101)** You want to convince them to re-engineer it into a modern format like JSON, which separates fields better, and so, is less prone to data errors.
+> **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=101)** You want to convince them to re-engineer it into a modern format like [[JSON]], which separates fields better, and so, is less prone to data errors.
 >
-> **[1:51](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=111)** If the partner contact has experience in software development, then, of course, you can talk to them about delimiters and key value pairs, but if not, those details are more likely to confuse than to enlighten.
+> **[1:51](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=111)** If the partner contact has experience in [[Software Development]], then, of course, you can talk to them about delimiters and key value pairs, but if not, those details are more likely to confuse than to enlighten.
 >
 > **[2:04](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/the-magic-of-stories?u=76281980&t=124)** If you want to use the analogy example, you could say that poorly separated data is like a handful of beans or like a crowd instead of a queue.
 >
@@ -607,7 +598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JSON]] (2), [[Containerization]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Software Development]] (1)
 > **Env Vars:** json (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -620,8 +611,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why don't they care?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
+#### [Why don't they care?](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980&t=8)** I learned that we could connect to the then growing internet by paying about $75 a month.
 >
-> **[0:13](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980&t=13)** I told my boss, but he just pointed to the heavy 1960s era standing typewriter printer with its underground cable to the local post and telegraph office.
+> **[0:13](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980&t=13)** I told my boss, but he just pointed to the heavy 1960s era standing typewriter printer with its underground cable to the local post and telegraph [[Microsoft Office|office]].
 >
 > **[0:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980&t=23)** "We don't need this internet thing," he said.
 >
@@ -677,12 +667,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - true (1)
 
-#### Reigniting hope in technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980)
+#### [Reigniting hope in technology](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980&t=16)** As people see the whole concept is flawed rather than one specific implementation.
 >
-> **[0:21](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980&t=21)** And nowhere is this clearer than in artificial intelligence or AI.
+> **[0:21](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980&t=21)** And nowhere is this clearer than in [[Artificial Intelligence (AI)|artificial intelligence]] or AI.
 >
 > **[0:26](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/reigniting-hope-in-technology?u=76281980&t=26)** In the 1950s, it showed a lot of promise.
 >
@@ -738,15 +727,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), product (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - whatever (1)
 
-#### Leading through enthusiasm
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/leading-through-enthusiasm?u=76281980)
+#### [Leading through enthusiasm](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/leading-through-enthusiasm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +800,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (1)
 > **Env Vars:** cms (1)
 
 
@@ -820,8 +807,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your success isn't their success
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
+#### [Your success isn't their success](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=53)** Or maybe the company itself has a history with it.
 >
-> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=56)** A good example of this is React.js, which Facebook invented and maintains, or Swift at Apple.
+> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=56)** A good example of this is [[React.js]], which Facebook invented and maintains, or [[Swift (Programming Language)|Swift]] at Apple.
 >
 > **[1:03](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=63)** Their platforms are more unified because they use those technologies, even in places where other solutions would be more technically appropriate.
 >
@@ -881,15 +867,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[React.js]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[React.js]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** ceo (2)
 > **File Paths:** react.js (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Engineers vs. managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980)
+#### [Engineers vs. managers](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980&t=103)** Here's an example.
 >
-> **[1:44](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980&t=104)** You apply for a job and get deep into discussions before realizing that the employer has a radically different idea about pay, or you start designing a solution before finding out that it needs to be a native Windows app and you're a web developer.
+> **[1:44](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980&t=104)** You apply for a job and get deep into discussions before realizing that the employer has a radically different idea about pay, or you start designing a solution before finding out that it needs to be a native [[Windows]] app and you're a web developer.
 >
 > **[2:00](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/engineers-vs-managers?u=76281980&t=120)** As George Harrison sang, "It's all up to what you value, down to where you are."
 >
@@ -949,12 +934,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Versions:** 4.5 (1)
 > **Speakers:** - there (1)
 
-#### Finding shared goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/finding-shared-goals-13926295?u=76281980)
+#### [Finding shared goals](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/finding-shared-goals-13926295?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,8 +997,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - here (1)
 
-#### You are both buyer and seller
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/you-are-both-buyer-and-seller-13924600?u=76281980)
+#### [You are both buyer and seller](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/you-are-both-buyer-and-seller-13924600?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1073,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -1101,14 +1083,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning about your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
+#### [Learning about your audience](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=1)** - I have sort of a weird hobby, I like going to trade shows in industries that I know nothing about.
 >
-> **[0:08](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=8)** I like seeing the products and even hearing the pitches.
+> **[0:08](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=8)** I like seeing the [[Microsoft Products|products]] and even hearing the pitches.
 >
 > **[0:11](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=11)** And within an hour, I know more about what matters to those people than I would in a day of reading.
 >
@@ -1130,7 +1111,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=80)** All of this is information that you can use.
 >
-> **[1:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=83)** Your second stop, of course, should be and you know I'm going to say this, LinkedIn.
+> **[1:23](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=83)** Your second stop, of course, should be and you know I'm going to say this, [[LinkedIn]].
 >
 > **[1:29](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980&t=89)** LinkedIn gives you information about both the company and the individual people you'll be dealing with.
 >
@@ -1152,19 +1133,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), business (2), hit (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Format is as important as content
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980)
+#### [Format is as important as content](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=1)** - You don't buy toothpaste by the jar and you don't buy cupcakes by the bag.
 >
-> **[0:06](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=6)** A products container is as important as the product itself.
+> **[0:06](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=6)** A [[Microsoft Products|products]] container is as important as the product itself.
 >
 > **[0:10](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=10)** That's as true for information as it is for physical products.
 >
@@ -1186,7 +1166,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=53)** Consider some of the ways that you communicate with other developers.
 >
-> **[0:57](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=57)** You probably recognize this page as being part of GitHub and I'll bet you and all of your colleagues can find your way around it pretty easily.
+> **[0:57](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=57)** You probably recognize this page as being part of [[GitHub]] and I'll bet you and all of your colleagues can find your way around it pretty easily.
 >
 > **[1:05](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=65)** But think about how confusing this page is to a non-developer.
 >
@@ -1202,7 +1182,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=101)** Biggest of all is what I'll call the shape.
 >
-> **[1:44](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=104)** A PowerPoint presentation isn't always the right answer.
+> **[1:44](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=104)** A [[Microsoft PowerPoint|PowerPoint]] presentation isn't always the right answer.
 >
 > **[1:48](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/format-is-as-important-as-content?u=76281980&t=108)** Sometimes it should be a white paper or a self-guided demo or just an email.
 >
@@ -1218,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), functional (2), [[GitHub]] (2), product (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[GitHub]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** github (2)
 > **File Paths:** readme.md (1)
@@ -1227,8 +1207,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 
-#### Responding to cultural cues
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980)
+#### [Responding to cultural cues](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980&t=92)** True story.
 >
-> **[1:33](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980&t=93)** When I first worked at an office in Paris as an American visitor, I was surprised at how late people got in and how long they took for lunch.
+> **[1:33](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980&t=93)** When I first worked at an [[Microsoft Office|office]] in Paris as an American visitor, I was surprised at how late people got in and how long they took for lunch.
 >
 > **[1:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/responding-to-cultural-cues?u=76281980&t=101)** Pushing for more American work habits would have just made me look like a jerk.
 >
@@ -1296,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - every (1)
 
 
@@ -1304,8 +1283,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating with clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
+#### [Communicating with clients](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=26)** When the client doesn't understand your work, they're likely to have hidden requirements and expectations.
 >
-> **[0:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=32)** For example, they might think that you're going to take care of graphic design.
+> **[0:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=32)** For example, they might think that you're going to take care of [[Graphic Design]].
 >
 > **[0:36](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=36)** So defining the scope of your work from the beginning is crucial, but so are many other things.
 >
@@ -1333,7 +1311,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=61)** Email is good for this, but a shared document with change tracking is even better.
 >
-> **[1:07](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=67)** And with each goal that you meet, mark the occasion, decide together how much fine tuning is needed and then move on.
+> **[1:07](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=67)** And with each goal that you meet, mark the occasion, decide together how much [[Fine Tuning]] is needed and then move on.
 >
 > **[1:15](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980&t=75)** Remember, the perfect is the enemy of the good.
 >
@@ -1365,14 +1343,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Fine Tuning]] (1), power (1), business (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Communicating with vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980)
+#### [Communicating with vendors](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,7 +1401,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980&t=134)** Confirm an email every substantial point that you you talked about.
 >
-> **[2:18](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980&t=138)** Now to be clear, negotiation is a whole course of study unto itself and of course LinkedIn learning has several courses about it.
+> **[2:18](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980&t=138)** Now to be clear, negotiation is a whole course of study unto itself and of course [[LinkedIn]] learning has several courses about it.
 >
 > **[2:27](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-vendors?u=76281980&t=147)** But as a starting point, you'll do well if you focus on your goals, keep your boundaries and document as you go.
 
@@ -1436,8 +1413,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - is (1)
 
-#### Communicating with teammates
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980)
+#### [Communicating with teammates](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,9 +1431,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=29)** Find out is everything done through email?
 >
-> **[0:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=32)** Are there shared tracking tools like Trello?
+> **[0:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=32)** Are there shared tracking tools like [[Trello]]?
 >
-> **[0:35](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=35)** Or maybe an online meeting place like Slack?
+> **[0:35](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=35)** Or maybe an online meeting place like [[Slack]]?
 >
 > **[0:38](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=38)** When there's a meeting who gets invited?
 >
@@ -1465,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=42)** Who is invited to talk?
 >
-> **[0:45](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=45)** After the meeting, how does the rest of the company find out what happened?
+> **[0:45](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=45)** After the meeting, how does the [[Representational State Transfer (REST)|rest]] of the company find out what happened?
 >
 > **[0:49](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=49)** Where are records kept?
 >
@@ -1493,7 +1469,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=124)** The amount varies enormously between company cultures for better and worse.
 >
-> **[2:09](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=129)** Your company's work-life balance will affect how and when you bring up office issues.
+> **[2:09](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=129)** Your company's work-life balance will affect how and when you bring up [[Microsoft Office|office]] issues.
 >
 > **[2:14](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-teammates?u=76281980&t=134)** I know, that's a lot to consider, but it's a complex topic.
 >
@@ -1501,15 +1477,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (1), [[Slack]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Trello]] (1), [[Slack]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** faq (1), ceo (1)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - workplaces (1)
 
-#### Communicating with partners
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-partners?u=76281980)
+#### [Communicating with partners](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-partners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,12 +1534,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - companies (1)
 
-#### Communicating with conference audiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980)
+#### [Communicating with conference audiences](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980&t=78)** Now, let's talk about ways to make your presentation better.
 >
-> **[1:22](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980&t=82)** Obviously, the better you prepare in the office, the easier things will go on stage, but be careful that preparation doesn't mean sticking in more and more things.
+> **[1:22](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980&t=82)** Obviously, the better you prepare in the [[Microsoft Office|office]], the easier things will go on stage, but be careful that preparation doesn't mean sticking in more and more things.
 >
 > **[1:32](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-conference-audiences?u=76281980&t=92)** Keep your message simple.
 >
@@ -1628,14 +1601,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), similar to (1)
 > **Warnings:** be careful (1), be aware (1)
 > **Speakers:** - whenever (1)
 
-#### Communicating with the public
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-the-public?u=76281980)
+#### [Communicating with the public](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-the-public?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1671,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - now (1)
 
@@ -1708,8 +1679,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further strengthen communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)
+#### [Further strengthen communication](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,7 +1697,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980&t=41)** Whether it's with clients, vendors, teammates, or anyone else, everyone gets better with practice.
 >
-> **[0:47](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980&t=47)** If you'd like to study further, consider taking other LinkedIn Learning courses, particularly in communications and sales.
+> **[0:47](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980&t=47)** If you'd like to study further, consider taking other [[LinkedIn]] Learning courses, particularly in communications and sales.
 >
 > **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980&t=56)** But also look at some in the area of personal growth.
 >
@@ -1741,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - i (1)
 

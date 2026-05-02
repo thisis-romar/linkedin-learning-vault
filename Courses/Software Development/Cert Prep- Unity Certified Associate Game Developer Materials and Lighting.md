@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Material and lighting foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980)
+#### [Material and lighting foundations](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980&t=1)** - [Instructor] Greetings, and welcome to Unity-certified Associate Materials and Lighting.
+> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980&t=1)** - [Instructor] Greetings, and welcome to [[Unity]]-certified Associate Materials and Lighting.
 >
 > **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980&t=7)** In this course, we'll explore the fundamentals of lighting, rendering, and post-processing inside Unity for creating games, simulations and other interactive content.
 >
@@ -103,19 +102,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (5), feature (1)
+> **Frameworks & Libraries:** [[Unity]] (5)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980&t=0)** - [Instructor] As you follow along with this course, you have access to the course exercise files.
 >
-> **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980&t=6)** These are primarily Unity projects that you can open up to follow along with different videos.
+> **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980&t=6)** These are primarily [[Unity]] projects that you can open up to follow along with different videos.
 >
 > **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/companion-files?u=76281980&t=13)** And each video will signpost which project you should go to.
 >
@@ -140,16 +138,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Render pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980)
+#### [Render pipelines](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=0)** - [Instructor] In this course, we're going to focus on materials, lighting, and post-processing right here inside Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=0)** - [Instructor] In this course, we're going to focus on materials, lighting, and post-processing right here inside [[Unity]].
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=8)** These three subjects are intimately connected and are critically important for determining how your games and your visualizations end up looking.
 >
-> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=19)** Now, in this long process of materials, lighting, and post-processing, your decision-making begins right here at Unity Hub at the project creation stage.
+> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=19)** Now, in this long process of materials, lighting, and post-processing, your [[Decision-Making]] begins right here at Unity Hub at the project creation stage.
 >
 > **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=29)** Unity has at least three different systems for rendering.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=152)** The downside to the High Definition Render Pipeline is that it doesn't support the widest range of devices.
 >
-> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=159)** This is intended for high-end hardware, high-end PCs and consoles, and other kinds of hardware that have a lot of power to support that extra graphical quality.
+> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=159)** This is intended for high-end [[Hardware]], high-end PCs and consoles, and other kinds of hardware that have a lot of power to support that extra graphical quality.
 >
 > **[2:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980&t=171)** We also have the Universal Render Pipeline, and this really gives us, or tries to gives us the best of both worlds between the 3D version and the High Definition Render Pipeline.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (9), [[Hardware]] (2), next (2), [[Decision-Making]] (1), power (1)
+> **Frameworks & Libraries:** [[Unity]] (9), [[Hardware]] (2), [[Decision-Making]] (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Exercise Files:** template (2)
@@ -207,12 +204,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard 3D
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980)
+#### [Standard 3D](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=0)** - [Instructor] In this movie, we're going to be exploring the fundamentals of materials and material creation using the standard 3D pipeline right here inside the Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=0)** - [Instructor] In this movie, we're going to be exploring the fundamentals of materials and material creation using the standard 3D pipeline right here inside the [[Unity]].
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=9)** Now, to demonstrate this, I've opened up a sample project which you can see inside the Viewport.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=85)** And again, this is because they all share the same material.
 >
-> **[1:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=89)** Now, when I select an object such as this ramp object inside the scene and I check out its properties here in the object inspector, you want to take a look at the Mesh Renderer component.
+> **[1:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=89)** Now, when I select an object such as this ramp object inside the scene and I check out its properties here in the object inspector, you want to take a look at the [[Mesh]] Renderer component.
 >
 > **[1:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=102)** The Mesh Renderer is really where materials hide out.
 >
@@ -400,7 +396,7 @@ created: 2026-05-02
 >
 > **[11:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=686)** Over here to the plant pot at the back, or I can move even onto these spheres here.
 >
-> **[11:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=692)** I'm going to drag and drop it onto one of these spheres here, so this smaller one next to the plant pot, and zoom my camera in to see that in more detail.
+> **[11:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=692)** I'm going to drag and drop it onto one of these spheres here, so this smaller one next to the plant pot, and [[Zoom]] my camera in to see that in more detail.
 >
 > **[11:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-3d?u=76281980&t=702)** I can already see how this material is responding to light here, inside the scene.
 >
@@ -426,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (7), [[Mesh]] (7), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Unity]] (7), [[Mesh]] (7), [[Zoom]] (1)
 > **UI Navigation:** select the (7), click on (1), drag and drop (1)
 > **Definitions:** is a  (7), is an  (1), means that (1)
 > **Analogies:** for example (4), such as (1)
@@ -435,12 +431,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### URP materials vs. HDRP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980)
+#### [URP materials vs. HDRP](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=1)** - [Man] In this movie, I've gone ahead and created two new Unity projects.
+> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=1)** - [Man] In this movie, I've gone ahead and created two new [[Unity]] projects.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=6)** One is the High Definition Render Pipeline template, so I selected High Definition Render Pipeline, created a new project with my own name, selected "create", and then I did the same thing for the Universal Render Pipeline, and then chose "create".
 >
@@ -468,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=116)** They're still in the scene, but I just can't see them in the view port.
 >
-> **[2:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=120)** Now by selecting the hard hat here inside the scene I can check out its material just as I could in the standard pipeline here, by moving to the inspector, taking a look at the mesh renderer component and here in the materials section in element zero I can see the material associated with this object.
+> **[2:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=120)** Now by selecting the hard hat here inside the scene I can check out its material just as I could in the standard pipeline here, by moving to the inspector, taking a look at the [[Mesh]] renderer component and here in the materials section in element zero I can see the material associated with this object.
 >
 > **[2:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/urp-materials-vs-hdrp?u=76281980&t=141)** I can even left click to select it inside the project panel.
 >
@@ -618,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2)
 > **Analogies:** for example (7), just like (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1)
 > **CLI Commands:** find (2), make (2)
@@ -627,16 +622,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** template (1)
 
-#### Upgrading materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980)
+#### [Upgrading materials](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=0)** - [Instructor] When you're working with either the High Definition Render Pipeline, or the Universal Render Pipeline, you might want to import assets from the Unity Asset Store into your project.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=0)** - [Instructor] When you're working with either the High Definition Render Pipeline, or the Universal Render Pipeline, you might want to import assets from the [[Unity]] Asset Store into your project.
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=12)** And that's what we're going to be doing here.
 >
-> **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=14)** But when you do that, you might encounter a problem, especially if the asset was made quite a while ago, like a mesh or material and you're importing that into your project using the newer render system you might find incompatibilities.
+> **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=14)** But when you do that, you might encounter a problem, especially if the asset was made quite a while ago, like a [[Mesh]] or material and you're importing that into your project using the newer render system you might find incompatibilities.
 >
 > **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/upgrading-materials?u=76281980&t=31)** And in this video, I want to show you how we can upgrade older materials to the newer render pipeline.
 >
@@ -768,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2)
 > **UI Navigation:** select the (5), click on (2), drag and drop (2), go to (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (2)
@@ -777,8 +771,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Textures and normal maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980)
+#### [Textures and normal maps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +803,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=151)** We're getting brighter areas where the reflections are happening and darker areas to accentuate these recesses and these crevices.
 >
-> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=159)** Now, this effect, the normal map itself is not actually changing the mesh itself.
+> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=159)** Now, this effect, the normal map itself is not actually changing the [[Mesh]] itself.
 >
 > **[2:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=166)** When I select the floor it's still a single straight cube mesh, so a normal map does not change the mesh at all.
 >
@@ -830,7 +823,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=232)** Now, it's a strange, purple-looking kind of image, and it's difficult to determine exactly what these different pixels are representing, but the pixels themselves are determining how rough or smooth a surface is.
 >
-> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=247)** Now, whenever you import a normal map just by dragging and dropping your image files into the Project panel here, you'll want to make sure that you select those textures, the normal map textures, and from the Inspector here under the Texture Type field make sure you set that to normal map so that Unity recognizes this image correctly as a normal map and will use it for that purpose.
+> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=247)** Now, whenever you import a normal map just by dragging and dropping your image files into the Project panel here, you'll want to make sure that you select those textures, the normal map textures, and from the Inspector here under the Texture Type field make sure you set that to normal map so that [[Unity]] recognizes this image correctly as a normal map and will use it for that purpose.
 >
 > **[4:33](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/textures-and-normal-maps?u=76281980&t=273)** So any imported textures, make sure you label them as normal map.
 >
@@ -878,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (4), [[Unity]] (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Unity]] (3)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** select the (4), right-click (1), click on (1)
 > **Env Vars:** jpeg (1), png (1), tif (1)
@@ -887,8 +880,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Tiling materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980)
+#### [Tiling materials](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,9 +930,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=122)** And just move that off to one side.
 >
-> **[2:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=125)** I may even select this object and vertex snap it into place.
+> **[2:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=125)** I may even select this object and [[Vertex]] snap it into place.
 >
-> **[2:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=129)** Do check out the fundamentals course on Unity Certification here at LinkedIn Learning to learn more about vertex snapping.
+> **[2:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=129)** Do check out the fundamentals course on [[Unity]] Certification here at [[LinkedIn]] Learning to learn more about vertex snapping.
 >
 > **[2:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/tiling-materials?u=76281980&t=137)** But that just means holding down the V key on the keyboard and dragging corner point to corner point to line up these objects.
 >
@@ -1050,12 +1042,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standard lights
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980)
+#### [Standard lights](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980&t=0)** - [Illustrator] In this chapter, we're going to consider a critically important topic in Unity, generally, not just the HD Render Pipeline or any pipeline for that matter.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980&t=0)** - [Illustrator] In this chapter, we're going to consider a critically important topic in [[Unity]], generally, not just the HD Render Pipeline or any pipeline for that matter.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980&t=11)** It's the topic of lighting.
 >
@@ -1257,7 +1248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Unity]] (3), next (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (2), toggle (1)
@@ -1266,8 +1257,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 
-#### Area lights
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980)
+#### [Area lights](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=77)** And then I can also use the size X and Y fields, to control the dimensions of that.
 >
-> **[1:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=83)** I can zoom in closer to the light here and by the lights you can check out the handles that allow me to click and drag to change the size of the area light.
+> **[1:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=83)** I can [[Zoom]] in closer to the light here and by the lights you can check out the handles that allow me to click and drag to change the size of the area light.
 >
 > **[1:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=97)** Now, right now, I don't see very much in a game that's just because the intensity, I can move to the inspector here, to the emission field and change the values of again to EV100 and then click on the intensity to increase that.
 >
@@ -1311,7 +1301,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=149)** So that's looking pretty good.
 >
-> **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=151)** You'll notice that as I begin to move the light around we still have the same problem that we had before with all the other lights we've seen so far including the point the directional and the spotlight, and that as soon as the illumination from the light moves away from a particular face on this cube mesh it doesn't just begin to fade or gradiate from illuminated to darkness.
+> **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=151)** You'll notice that as I begin to move the light around we still have the same problem that we had before with all the other lights we've seen so far including the point the directional and the spotlight, and that as soon as the illumination from the light moves away from a particular face on this cube [[Mesh]] it doesn't just begin to fade or gradiate from illuminated to darkness.
 >
 > **[2:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/area-lights?u=76281980&t=179)** It actually turns completely black and that's completely unrealistic because this is not accounting for indirect illumination.
 >
@@ -1339,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Zoom]] (1), [[Mesh]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Mesh]] (1)
 > **Analogies:** similar to (1), kind of like (1)
 > **Env Vars:** ev100 (1)
 > **Cross-References:** in the next (1)
@@ -1347,12 +1337,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
 
-#### Lightmapping: Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980)
+#### [Lightmapping: Getting started](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=0)** - [Instructor] Over the previous two movies, we've seen Unity's core lighting types, the directional light, the point light the spotlight and the area light.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=0)** - [Instructor] Over the previous two movies, we've seen [[Unity]]'s core lighting types, the directional light, the point light the spotlight and the area light.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=9)** So four critical types, all of them are pretty impressive stuff, they can give you lighting in a scene really quickly but all of them suffer from a key problem.
 >
@@ -1420,7 +1409,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=308)** Now you can see if I move the light just over here, that again, we go back to this scenario of only getting the direct illumination.
 >
-> **[5:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=317)** So, to fix this problem, I want to select the point light inside the scene and moved to the inspector, for the general section under the light options we have mode and it's by default set to real time, This means that the lighting is going to be calculated on the fly by Unity, which is incredibly expensive but I'm going to change this, from real-time to mixed, which is going to calculate the direct illumination in real time.
+> **[5:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=317)** So, to fix this problem, I want to select the point light inside the scene and moved to the inspector, for the general section under the light options we have mode and it's by default set to real time, This means that the lighting is going to be calculated on the fly by Unity, which is incredibly expensive but I'm going to change this, from [[Real-Time]] to mixed, which is going to calculate the direct illumination in real time.
 >
 > **[5:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-getting-started?u=76281980&t=346)** But the indirect illumination, which we don't see yet, is going to be precalculated by Unity ahead of time.
 >
@@ -1466,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), hit (5), next (4), game (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Unity]] (8), [[Real-Time]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (2), go to (2)
 > **Cross-References:** go back to (2)
@@ -1475,8 +1464,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### More lightmapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980)
+#### [More lightmapping](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1538,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980&t=214)** Ambient Occlusion adds contact shadows to our scene, such as where the floors meet the walls.
 >
-> **[3:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980&t=221)** For example, I'm going to zoom my view in at the meeting point between the green floor with the red wall.
+> **[3:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980&t=221)** For example, I'm going to [[Zoom]] my view in at the meeting point between the green floor with the red wall.
 >
 > **[3:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/more-lightmapping?u=76281980&t=229)** And you can simply put a pretty sharp line here at the point where they meet.
 >
@@ -1634,7 +1622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), game (2), hit (2), [[Zoom]] (2), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Analogies:** for example (7), such as (1)
 > **Cross-References:** go back to (3), in the next (1)
 > **CLI Commands:** make (2), find (1)
@@ -1642,8 +1630,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reflections
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980)
+#### [Reflections](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,7 +1646,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980&t=26)** There's no reflectivity in any of these materials.
 >
-> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980&t=29)** Now, Unity does give you the ability to increase materials reflectivity pretty easily, you just need to do that by selecting, for example, the red material here.
+> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980&t=29)** Now, [[Unity]] does give you the ability to increase materials reflectivity pretty easily, you just need to do that by selecting, for example, the red material here.
 >
 > **[0:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/reflections?u=76281980&t=41)** And from the inspector, you'll see a range of different properties.
 >
@@ -1789,7 +1776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (1), [[Unity]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
@@ -1797,18 +1784,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Emissive lighting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980)
+#### [Emissive lighting](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=0)** - [Instructor] In this video, we're going to check out emissive lighting, which allows us to use materials and objects combined to act like a light source.
 >
-> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=11)** They really impressive, they allow you to take a mesh for example to apply a material to it and have the entirety of its surface act like a light source.
+> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=11)** They really impressive, they allow you to take a [[Mesh]] for example to apply a material to it and have the entirety of its surface act like a light source.
 >
 > **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=21)** To demonstrate this I've opened up the Cornell box scene that we've been working through in this chapter, which contains walls and ceilings of different colors and a cube at the center.
 >
-> **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=31)** Now, the scene that I have in front of me here already has a point light located in at the center here, which is one of unity's standard light types.
+> **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=31)** Now, the scene that I have in front of me here already has a point light located in at the center here, which is one of [[Unity]]'s standard light types.
 >
 > **[0:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=40)** But in this movie, I want to demonstrate emissive lighting, so I'm just going to deactivate the point light that we already have just by taking the tick out of that box to deactivate the point light.
 >
@@ -1874,13 +1860,13 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=355)** So we have all of these different properties we can tweak to add emissive lighting to our meshes.
 >
-> **[6:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=362)** Emissive lighting is particularly great for creating lighting for example the glowing windows of a house at night, or the control consoles on a spaceship.
+> **[6:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=362)** Emissive lighting is particularly great for creating lighting for example the glowing [[Windows]] of a house at night, or the control consoles on a spaceship.
 >
 > **[6:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/emissive-lighting?u=76281980&t=372)** There's no end to where you could apply emissive materials, so make them your friend for getting great looking results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Mesh]] (2), feature (2), [[Unity]] (1), game (1)
+> **Frameworks & Libraries:** [[Mesh]] (2), [[Unity]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (3), toggle (1), right-click (1), scroll down (1), click on (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (3), imagine (1)
@@ -1893,14 +1879,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shadows and quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980)
+#### [Shadows and quality](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980&t=1)** - [Narrator] In this chapter of the course, we're going to focus on a range of different light settings, additional light settings that can help us optimize the rendering of our scenes and improve the running of our projects.
 >
-> **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980&t=13)** To demonstrate the first set of settings that I want to review are the shadow settings that apply to pretty much any light type you can create inside unity.
+> **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980&t=13)** To demonstrate the first set of settings that I want to review are the shadow settings that apply to pretty much any light type you can create inside [[Unity]].
 >
 > **[0:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980&t=22)** To take a look at these, I've opened up this project here that you can find inside the course exercise files.
 >
@@ -2054,7 +2039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (1), product (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** go to (2), select the (2), checkbox (1), click on (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** means that (3), is a  (1), refers to (1)
@@ -2063,8 +2048,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Lightmapping settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980)
+#### [Lightmapping settings](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2104,7 +2088,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980&t=137)** Now you don't need to worry about this checker pattern showing up to the player or to the viewer, it's simply for our reference.
 >
-> **[2:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980&t=145)** But each and every one of these squares is a texture pixel that is being used by unity to save the lighting information for the scene.
+> **[2:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980&t=145)** But each and every one of these squares is a texture pixel that is being used by [[Unity]] to save the lighting information for the scene.
 >
 > **[2:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/lightmapping-settings?u=76281980&t=155)** So obviously the lower we take this setting, for example let's say I change this lightmap resolution from six to two, you can see that we're getting a much much larger checker pattern.
 >
@@ -2210,7 +2194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Unity]] (2), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** means that (3), is a  (2), known as (1)
 > **UI Navigation:** checkbox (2), dropdown (1), go to (1), select the (1)
@@ -2219,8 +2203,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1), recommended (1)
 > **Warnings:** be careful (2)
 
-#### Light probes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980)
+#### [Light probes](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2270,13 +2253,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=108)** So how can we fix that?
 >
-> **[1:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=110)** Unity's solution is to use a really clever object called light probes.
+> **[1:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=110)** [[Unity]]'s solution is to use a really clever object called light probes.
 >
 > **[1:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=116)** Now, before I use light probes, go on over to the lighting tab, and make sure that auto generate is activated so that as I add these light probes, this is going to take effect.
 >
 > **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=128)** In addition to that, select your sphere.
 >
-> **[2:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=131)** And from the mesh renderer section, make sure you expand the probes here.
+> **[2:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=131)** And from the [[Mesh]] renderer section, make sure you expand the probes here.
 >
 > **[2:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/light-probes?u=76281980&t=136)** And make sure that light probes is set to blend probes and not off.
 >
@@ -2468,7 +2451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (4), game (3), hit (2), [[Unity]] (2), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Unity]] (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (3), go to (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -2476,12 +2459,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Occlusion culling
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/occlusion-culling?u=76281980)
+#### [Occlusion culling](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/occlusion-culling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/occlusion-culling?u=76281980&t=0)** - [Man] In this movie we're going to cover a really neat optimization trick that you can perform in Unity to improve the performance of your games, or your visualizations.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/occlusion-culling?u=76281980&t=0)** - [Man] In this movie we're going to cover a really neat optimization trick that you can perform in [[Unity]] to improve the performance of your games, or your visualizations.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/occlusion-culling?u=76281980&t=11)** It's called occlusion culling.
 >
@@ -2617,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), next (2), hit (2), game (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2), select the (2), switch to (1)
 > **Definitions:** is an  (2), means that (1)
@@ -2631,8 +2613,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Volumes and effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980)
+#### [Volumes and effects](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2644,7 +2625,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980&t=19)** To demonstrate this, I've loaded up this VR escape the room scene.
 >
-> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980&t=24)** This is included on the Unity Asset Store and is part of the Universal Render Pipeline.
+> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980&t=24)** This is included on the [[Unity]] Asset Store and is part of the Universal Render Pipeline.
 >
 > **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980&t=31)** You can easily download and bring this into your project manually, but it's also included inside the course exercise files.
 >
@@ -2736,7 +2717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), next (3), hit (2), game (1), application (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -2745,8 +2726,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bloom
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980)
+#### [Bloom](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2802,7 +2782,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=132)** Now no change initially appears to happen.
 >
-> **[2:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=135)** If I check out the Game tab, you can see some change is applying here on the window areas or the floor outside the windows.
+> **[2:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=135)** If I check out the Game tab, you can see some change is applying here on the window areas or the floor outside the [[Windows]].
 >
 > **[2:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=143)** And if I grab the Intensity, you can see that begins to intensify the regions outside.
 >
@@ -2830,7 +2810,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=225)** And I think that's looking pretty good.
 >
-> **[3:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=227)** Now one of the really neat things that you can do with post-processing inside Unity is I can see in preview my effects here in the Game tab, which is great.
+> **[3:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=227)** Now one of the really neat things that you can do with post-processing inside [[Unity]] is I can see in preview my effects here in the Game tab, which is great.
 >
 > **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/bloom-11610907?u=76281980&t=237)** But if I switch to the Scene tab, at least initially, I don't see the same result.
 >
@@ -2862,7 +2842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1), next (1), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Unity]] (1)
 > **UI Navigation:** click on (2), dropdown (2), toggle (2), select the (1), switch to (1)
 > **Versions:** 0.5 (1), 0.6 (1)
 > **Prerequisites:** set up (2)
@@ -2870,8 +2850,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Color correction
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980)
+#### [Color correction](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2913,7 +2892,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=121)** Pixels on the right are currently brighter.
 >
-> **[2:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=124)** The vertical axis instructs Unity on what to do with those pixels.
+> **[2:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=124)** The vertical axis instructs [[Unity]] on what to do with those pixels.
 >
 > **[2:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=129)** By changing this curve here, we can make the dark pixels brighter by raising the curve, we can make them darker by lowering the curve.
 >
@@ -2963,7 +2942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), [[Unity]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** refers to (2)
@@ -2971,8 +2950,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vignette
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/vignette-11616372?u=76281980)
+#### [Vignette](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/vignette-11616372?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,15 +3048,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1)
 > **Versions:** 0.5 (3)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Depth of field
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/depth-of-field-11612871?u=76281980)
+#### [Depth of field](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/depth-of-field-11612871?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3146,7 +3122,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Search]] (1)
 > **UI Navigation:** select the (3), dropdown (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Versions:** 0.52 (1)
@@ -3154,9 +3129,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [narrator] (1)
 
-#### Chromatic abberation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/chromatic-abberation?u=76281980)
+#### [Chromatic abberation](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/chromatic-abberation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3228,7 +3203,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **UI Navigation:** select the (1), click on (1), checkbox (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -3238,14 +3212,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980&t=0)** - Congratulations on reaching the end of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980&t=5)** In reaching this far, you've seen a wide range of material, and lighting and post processing features that span Unity's three major render pipelines.
+> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980&t=5)** In reaching this far, you've seen a wide range of material, and lighting and post processing features that span [[Unity]]'s three major render pipelines.
 >
 > **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980&t=17)** These are the standard 3D pipeline, the universal render pipeline, and the high definition render pipeline.
 >
@@ -3263,7 +3236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), next (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **Analogies:** such as (2)
 > **Speakers:** - congratulations (1)
 

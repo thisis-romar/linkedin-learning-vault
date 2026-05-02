@@ -21,35 +21,27 @@ courses_visited: 2
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Creating A Culture Of Privacy]]"
-    last_opened:
+  - course: '[[Creating A Culture Of Privacy]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Understanding and Prioritizing Data Privacy]]"
-    last_opened:
+  - course: '[[Understanding and Prioritizing Data Privacy]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Building a Privacy Program in the Age of GenAI]]"
-    last_opened:
+  - course: '[[Building a Privacy Program in the Age of GenAI]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Privacy, Governance, and Compliance- Data Classification and Inventory]]"
-    last_opened:
+  - course: '[[Privacy, Governance, and Compliance- Data Classification and Inventory]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Privacy, Governance, and Compliance- Data Sharing]]"
-    last_opened:
+  - course: '[[Privacy, Governance, and Compliance- Data Sharing]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: privacy-governance-and-compliance-data-classification-and-inventory
-    last_opened: 2026-05-02T20:38:52.250Z
-    open_count: 1
-    videos: []
-  - course: creating-a-culture-of-privacy
-    last_opened: 2026-05-02T20:42:09.914Z
-    open_count: 1
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Build%20a%20Privacy%20Program.md)

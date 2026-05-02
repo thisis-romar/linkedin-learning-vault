@@ -104,28 +104,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data stewardship
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
+#### [Data stewardship](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=0)** - [Mike] Every organization handles an almost overwhelming volume of data on a daily basis.
 >
-> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=6)** From customer databases to web traffic logs and from credit card records to employee social security numbers, we're responsible for managing massive amounts of data that's crucial to our businesses and sensitive to our stakeholders.
+> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=6)** From customer [[Databases]] to web traffic logs and from credit card records to employee social security numbers, we're responsible for managing massive amounts of data that's crucial to our businesses and sensitive to our stakeholders.
 >
-> **[0:21](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=21)** Data stewardship program set up formal structures for data governance in an organization.
+> **[0:21](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=21)** [[Data Stewardship]] program set up formal structures for [[Data Governance]] in an organization.
 >
-> **[0:27](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=27)** These programs address many different aspects of data management, ranging from the initial collection of data, through its storage, maintenance, security, and proper use.
+> **[0:27](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=27)** These programs address many different aspects of [[Data Management]], ranging from the initial collection of data, through its storage, maintenance, security, and proper use.
 >
 > **[0:37](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=37)** Hi, I'm Mike Chapple.
 >
-> **[0:39](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=39)** I'm a professor of business analytics, and I've been working in the field of data stewardship for over a decade.
+> **[0:39](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=39)** I'm a professor of [[Business Analytics]], and I've been working in the field of data stewardship for over a decade.
 >
 > **[0:45](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=45)** It's my pleasure to welcome you to this course on data stewardship.
 >
 > **[0:49](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=49)** As you progress through this course, you'll learn all of the essential skills required to design, implement, and maintain a data stewardship program for your organization.
 >
-> **[0:59](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=59)** You'll learn about the role of a data steward, techniques to maintain data quality, controls designed to protect data security, the responsibilities of an organization for protecting personal privacy, and details of the regulatory and compliance environment surrounding data stewardship.
+> **[0:59](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=59)** You'll learn about the role of a data steward, techniques to maintain [[Data Quality]], controls designed to protect [[Data Security]], the responsibilities of an organization for protecting personal [[Privacy]], and details of the regulatory and compliance environment surrounding data stewardship.
 >
 > **[1:17](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980&t=77)** We'll wrap up with a discussion of techniques that you can use to get started with a data stewardship program in your organization.
 >
@@ -133,12 +132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Security]] (3), [[Databases]] (1), web (1), traffic (1)
+> **Frameworks & Libraries:** [[Data Stewardship]] (6), [[Databases]] (1), [[Data Governance]] (1), [[Data Management]] (1), [[Business Analytics]] (1)
 > **Prerequisites:** set up (1), required to (1)
 > **Speakers:** - [mike] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,13 +144,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980&t=7)** Now that said, it will be helpful if you have some familiarity with the ways that your organization collects, stores, and uses different types of data in mind as you work your way through this course.
 >
-> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980&t=19)** As we discuss different topics in data stewardship, try to imagine how they fit into the ways that your organization currently works and how your organization might work more effectively in the future.
+> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980&t=19)** As we discuss different topics in [[Data Stewardship]], try to imagine how they fit into the ways that your organization currently works and how your organization might work more effectively in the future.
 >
 > **[0:30](https://www.linkedin.com/learning/data-steward-foundations/what-you-need-to-know?u=76281980&t=30)** That framework will help you get the most benefit from this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Stewardship]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -162,8 +160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data stewardship?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
+#### [What is data stewardship?](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=7)** The work of collecting, preserving, securing and maintaining data doesn't fit neatly into our traditional organizational structures.
 >
-> **[0:16](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=16)** Consider for example the human resources data collected by your own organization.
+> **[0:16](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=16)** Consider for example the [[Human Resources (HR)|human resources]] data collected by your own organization.
 >
 > **[0:20](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=20)** You probably have a pretty significant amount of information about your employees collected from their job applications, new hire paperwork, performance management processes, computer activity, and many other sources.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=71)** You may have a data analytics team that also helps protect the quality of the data and helps business leaders use the data to make decisions and the list may go on and on.
 >
-> **[1:21](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=81)** Balancing all of these diverse interests is the main reason that organizations develop data governance programs that try to clearly outline the lines of authority and responsibility for data management.
+> **[1:21](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=81)** Balancing all of these diverse interests is the main reason that organizations develop [[Data Governance]] programs that try to clearly outline the lines of authority and responsibility for [[Data Management]].
 >
 > **[1:33](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=93)** In a data governance program, the organization typically designates a senior leader as the data owner for a particular topic area of data.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=121)** For this reason, data owners designate a series of data stewards to help carry out their data responsibilities.
 >
-> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=128)** Data stewardship programs take their name from this designation and they help ensure that the organization has a clear and consistent process for making decisions about its data.
+> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=128)** [[Data Stewardship]] programs take their name from this designation and they help ensure that the organization has a clear and consistent process for making decisions about its data.
 >
 > **[2:18](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980&t=138)** Now, the general term stewardship means a job of supervising or taking care of something, such as an organization or property.
 >
@@ -213,21 +210,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Human Resources (HR)|Human resources]] (5), management (2), [[Security]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (5), [[Data Governance]] (2), [[Data Stewardship]] (2), [[Data Management]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring data stewardship roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980)
+#### [Exploring data stewardship roles](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=0)** - [Instructor] Data governance is a complex problem and many different people throughout the organization play a role.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=0)** - [Instructor] [[Data Governance]] is a complex problem and many different people throughout the organization play a role.
 >
-> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=6)** Let's take a look at some of the concepts surrounding data ownership and stewardship, as well as security and privacy.
+> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=6)** Let's take a look at some of the concepts surrounding data ownership and stewardship, as well as security and [[Privacy]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=13)** Data controllers are the entities who determine the reasons for processing personal information and direct the methods of processing that data.
 >
@@ -243,11 +239,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=60)** At the highest level, the data owner for a particular data set is a senior level official who bears overall responsibility for that data.
 >
-> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=69)** The data owners sets policies and guidelines around data use and data security, and has the authority to make final decisions regarding the data sets under their control.
+> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=69)** The data owners sets policies and guidelines around data use and [[Data Security]], and has the authority to make final decisions regarding the data sets under their control.
 >
 > **[1:18](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=78)** Data owners are usually business leaders who have responsibility for the mission area most closely related to the data set.
 >
-> **[1:25](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=85)** In the example I gave earlier in this course, an organization's vice president for human resources might be the data owner for employment information.
+> **[1:25](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=85)** In the example I gave earlier in this course, an organization's vice president for [[Human Resources (HR)|human resources]] might be the data owner for employment information.
 >
 > **[1:34](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=94)** Practically speaking, most individuals who are senior enough to hold the position of data owner, don't have the time available to get involved in the nitty gritty decisions of data governance.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=113)** For example, a data steward might make day-to-day decisions about who may access the data set.
 >
-> **[1:58](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=118)** In the case of an employee data set, if the data owner is the vice president for human resources, that vice president might delegate data stewardship responsibility to a director for HR information services.
+> **[1:58](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=118)** In the case of an employee data set, if the data owner is the vice president for human resources, that vice president might delegate [[Data Stewardship]] responsibility to a director for HR information services.
 >
 > **[2:10](https://www.linkedin.com/learning/data-steward-foundations/exploring-data-stewardship-roles?u=76281980&t=130)** In most cases, there is a reporting relationship between the data owner and the data steward.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Security]] (4), [[Privacy]] (2), business (2), [[Human Resources (HR)|Human resources]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Privacy]] (2), [[Human Resources (HR)|Human resources]] (2), [[Data Security]] (1), [[Data Stewardship]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gdpr (2), dpo (2)
 > **Definitions:** is a  (3), known as (1)
@@ -294,14 +290,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Qualities of a good data steward
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980)
+#### [Qualities of a good data steward](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=0)** - [Instructor] Serving as a data steward is a challenging role.
 >
-> **[0:03](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=3)** Data stewards need to have a strong understanding of their organizations, the subject matter domain over which they will have stewardship responsibilities, and the different areas of data stewardship responsibility.
+> **[0:03](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=3)** Data stewards need to have a strong understanding of their organizations, the subject matter domain over which they will have stewardship responsibilities, and the different areas of [[Data Stewardship]] responsibility.
 >
 > **[0:14](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=14)** Let's take a moment to talk about the qualities that make a good data steward.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=62)** Strong data stewards work closely with others in the organization to collaboratively reach solutions to challenges that are in the best interests of the entire organization.
 >
-> **[1:13](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=73)** Now unfortunately, it's not always possible to reach a consensus on some of the thornier issues surrounding data access, security, privacy, and related issues.
+> **[1:13](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=73)** Now unfortunately, it's not always possible to reach a consensus on some of the thornier issues surrounding data access, security, [[Privacy]], and related issues.
 >
 > **[1:23](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=83)** For this reason, good data stewards are also influential respected members of the organization.
 >
@@ -329,24 +324,23 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=104)** Others in the organization will look to the data steward to have a thorough understanding of their functional area and be able to apply that functional knowledge in the context of data decisions.
 >
-> **[1:54](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=114)** For example, you wouldn't want to have a data steward covering human resources data who doesn't understand human resources practices.
+> **[1:54](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=114)** For example, you wouldn't want to have a data steward covering [[Human Resources (HR)|human resources]] data who doesn't understand human resources practices.
 >
-> **[2:02](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=122)** Finally, data stewards also must have an understanding of the principles of data governance.
+> **[2:02](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=122)** Finally, data stewards also must have an understanding of the principles of [[Data Governance]].
 >
-> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=128)** While many organizations consider data management a technical activity, the reality is, is that it's a hybrid function where technologists and subject matter experts have to work together.
+> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=128)** While many organizations consider [[Data Management]] a technical activity, the reality is, is that it's a hybrid function where technologists and subject matter experts have to work together.
 >
 > **[2:18](https://www.linkedin.com/learning/data-steward-foundations/qualities-of-a-good-data-steward?u=76281980&t=138)** Good data stewards serve as the bridge between these worlds, bringing together technical and functional experts and helping each understand the other's concerns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), functional (3), [[Human Resources (HR)|Human resources]] (2), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2), [[Data Stewardship]] (1), [[Privacy]] (1), [[Data Governance]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data stewardship responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980)
+#### [Data stewardship responsibilities](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=10)** What does it actually mean to take care of the organization's data?
 >
-> **[0:15](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=15)** Well, data stewardship responsibilities may vary from organization to organization, but we can summarize them as fitting into four general categories: data quality, data security, data privacy, and regulatory compliance.
+> **[0:15](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=15)** Well, [[Data Stewardship]] responsibilities may vary from organization to organization, but we can summarize them as fitting into four general categories: [[Data Quality]], [[Data Security]], [[Data Privacy]], and [[Regulatory Compliance]].
 >
 > **[0:30](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=30)** Data quality ensures that the organization has accurate, relevant, and timely data to meet its business objectives.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=87)** Data privacy ensures that the organization respects the rights and wishes of data subjects, the people whom they collect information about.
 >
-> **[1:35](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=95)** Privacy and security are closely related, but they are separate disciplines.
+> **[1:35](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=95)** [[Privacy]] and security are closely related, but they are separate disciplines.
 >
 > **[1:40](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=100)** We'll discuss data privacy responsibilities and controls in the preserving individual privacy section of this course.
 >
@@ -388,23 +382,22 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=136)** Now, no list of data stewardship responsibilities can be 100% complete.
 >
-> **[2:20](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=140)** There isn't a universally agreed upon definition of the role and the exact nature of a data steward's job will vary based upon organizational culture and needs.
+> **[2:20](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship-responsibilities?u=76281980&t=140)** There isn't a universally agreed upon definition of the role and the exact nature of a data steward's job will vary based upon [[Organizational Culture]] and needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Privacy]] (5), [[Security]] (4), [[Regulatory Compliance]] (3), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Security]] (3), [[Data Privacy]] (3), [[Regulatory Compliance]] (3), [[Data Stewardship]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Obtaining senior leadership support
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980)
+#### [Obtaining senior leadership support](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=0)** - [Instructor] Data stewardship programs require collaboration across the organization and they can be disruptive to other business activities.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=0)** - [Instructor] [[Data Stewardship]] programs require collaboration across the organization and they can be disruptive to other business activities.
 >
 > **[0:08](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=8)** Successful programs have senior leadership support as they get started.
 >
-> **[0:12](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=12)** This support sets the tone for the organization that data governance is an important initiative and that the implementation of the program is an organizational priority.
+> **[0:12](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=12)** This support sets the tone for the organization that [[Data Governance]] is an important initiative and that the implementation of the program is an organizational priority.
 >
 > **[0:22](https://www.linkedin.com/learning/data-steward-foundations/obtaining-senior-leadership-support?u=76281980&t=22)** Obtaining the support requires building a strong business case.
 >
@@ -436,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (6), leadership (2)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Data Stewardship]] (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -445,12 +438,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing master data management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
+#### [Implementing master data management](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=0)** - [Instructor] Data management is a tricky issue for organizations of all sizes and across all industries.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=0)** - [Instructor] [[Data Management]] is a tricky issue for organizations of all sizes and across all industries.
 >
 > **[0:07](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=7)** It's really challenging to maintain accurate and consistent data across a wide variety of business functions, and then use that data to effectively achieve business value.
 >
@@ -468,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=71)** As part of the repair process, they may feed information about customers back to the manufacturer.
 >
-> **[1:17](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=77)** Now the company also has a marketing team that purchases mailing lists of potential customers and sends out literature and other advertising targeting new car buyers who might be interested in their products.
+> **[1:17](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=77)** Now the company also has a marketing team that purchases mailing lists of potential customers and sends out literature and other advertising targeting new car buyers who might be interested in their [[Microsoft Products|products]].
 >
 > **[1:28](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=88)** And some people are both employees of the manufacturer, as well as customers purchasing the products that their company produces.
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=116)** That's where master data management, or MDM, comes into the picture.
 >
-> **[2:00](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=120)** MDM is a data governance discipline that has the goal of maintaining a single source of truth for the most important data elements handled by the organization.
+> **[2:00](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=120)** MDM is a [[Data Governance]] discipline that has the goal of maintaining a single source of truth for the most important data elements handled by the organization.
 >
 > **[2:10](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980&t=130)** This requires a combination of business processes and technology solutions that help keep systems aligned with a single source of truth and maintain the organization's master data.
 >
@@ -496,18 +488,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (5), management (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Data Management]] (2), [[Microsoft Products|Products]] (2), [[Data Governance]] (1)
 > **Env Vars:** mdm (6)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing data definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980)
+#### [Developing data definitions](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=0)** - [Instructor] Data quality begins with developing solid data definitions.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=0)** - [Instructor] [[Data Quality]] begins with developing solid data definitions.
 >
 > **[0:04](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=4)** We can't have consistent data in our organizations unless we have a shared understanding of the meaning of different terms that we use.
 >
@@ -535,17 +526,17 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=96)** In some cases, it may include possible values for a term if the term is for a categorical data element, and the definition should also include the identity of the data owner or data steward for the term, as well as other stakeholders.
 >
-> **[1:49](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=109)** It should also include the data classification and it may include other notes and fields that are useful to the business.
+> **[1:49](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=109)** It should also include the [[Data Classification]] and it may include other notes and fields that are useful to the business.
 >
 > **[1:56](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=116)** Here's the definition that I helped develop at a major university.
 >
 > **[1:59](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=119)** It defines what it means to be an active student at this university.
 >
-> **[2:03](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=123)** Now, as you can see in the definition, it reads: an active student is an individual who has been confirmed by an admitting office or other admitting authority as recorded by the university registrar, is considered an active student until he or she graduates, complete the academic term, withdraws or is dismissed, or fails to enroll for a term.
+> **[2:03](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=123)** Now, as you can see in the definition, it reads: an active student is an individual who has been confirmed by an admitting [[Microsoft Office|office]] or other admitting authority as recorded by the university registrar, is considered an active student until he or she graduates, complete the academic term, withdraws or is dismissed, or fails to enroll for a term.
 >
 > **[2:25](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=145)** Now that might sound complicated, but I assure you there's a good reason behind every single one of those words.
 >
-> **[2:31](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=151)** The rest of the definition contains some of the other fields that we discussed as well as notes on exceptions and specialized use cases.
+> **[2:31](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=151)** The [[Representational State Transfer (REST)|rest]] of the definition contains some of the other fields that we discussed as well as notes on exceptions and specialized use cases.
 >
 > **[2:39](https://www.linkedin.com/learning/data-steward-foundations/developing-data-definitions?u=76281980&t=159)** This is just one of the hundreds of data definitions used by the organization.
 >
@@ -561,7 +552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (7), [[Data Classification]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Data Classification]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** snap (1)
@@ -570,16 +561,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980)
+#### [Protecting data quality](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=0)** - Master data management programs are also charged with maintaining the quality of the data in those single source of truth data stores.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=0)** - Master [[Data Management]] programs are also charged with maintaining the quality of the data in those single source of truth data stores.
 >
 > **[0:08](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=8)** After all, if a master data store contains inaccurate information, that inaccurate information will then propagate to affect business processes all across the organization.
 >
-> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=19)** We track data quality by evaluating it on six different dimensions.
+> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=19)** We track [[Data Quality]] by evaluating it on six different dimensions.
 >
 > **[0:23](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=23)** These include accuracy, completeness, consistency, timeliness, validity, and uniqueness.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=128)** When checking for data quality, consider the full data life cycle, and look for places where error might be introduced.
 >
-> **[2:15](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=135)** This begins at data acquisition.
+> **[2:15](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=135)** This begins at [[Data Acquisition]].
 >
 > **[2:17](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=137)** Verify that the data source is reputable, and that you're receiving high quality data from that source.
 >
@@ -625,29 +615,28 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=153)** Make sure that this process doesn't mangle your data as it passes through different conversion steps.
 >
-> **[2:38](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=158)** And you may also have other data manipulation operations that take place during your analysis as you summarize, aggregate, and transform your data.
+> **[2:38](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=158)** And you may also have other [[Data Manipulation]] operations that take place during your analysis as you summarize, aggregate, and transform your data.
 >
-> **[2:47](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=167)** Finally, you present data on reports and dashboards.
+> **[2:47](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=167)** Finally, you present data on reports and [[Dashboards]].
 >
 > **[2:50](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-quality?u=76281980&t=170)** It's up to data stewards and others involved in the reporting process to make sure that this data is high quality and presented accurately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), management (2), database (2), business (1), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (2), [[Data Quality]] (2), [[Data Acquisition]] (1), [[Data Manipulation]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (3)
 > **Analogies:** for example (3)
 > **Env Vars:** zip (1)
 > **Speakers:** - master (1)
 
-#### Validating data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980)
+#### [Validating data quality](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=0)** - [Instructor] Let's dig a little deeper into one of the dimensions of data quality, data validity.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=0)** - [Instructor] Let's dig a little deeper into one of the dimensions of [[Data Quality]], data validity.
 >
-> **[0:05](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=5)** Data governance program should perform regular data quality validation, both when bringing new data into the organization and on an ongoing basis, this helps ensure that data remains valid and healthy, and it's ready to provide business value.
+> **[0:05](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=5)** [[Data Governance]] program should perform regular data quality validation, both when bringing new data into the organization and on an ongoing basis, this helps ensure that data remains valid and healthy, and it's ready to provide business value.
 >
 > **[0:19](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=19)** Some of the techniques that we use to validate data quality, may be automated and performed when bringing new data into our system.
 >
@@ -655,7 +644,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=32)** For example, in the last video, I used zip codes as an example of a data field that might have validation requirements.
 >
-> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=38)** If I'm loading a dataset and I have a requirement that my database should contain nine digit zip codes, and we encounter a record that has only five digits, or it contains alphabetic characters, that's a data validation failure.
+> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=38)** If I'm loading a dataset and I have a requirement that my database should contain nine digit zip codes, and we encounter a record that has only five digits, or it contains alphabetic characters, that's a [[Data Validation]] failure.
 >
 > **[0:50](https://www.linkedin.com/learning/data-steward-foundations/validating-data-quality?u=76281980&t=50)** Similarly, we can compare the number of data points in our source system and the number of data points loaded into our master data store.
 >
@@ -693,30 +682,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), business (2), database (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Data Validation]] (2), [[Data Governance]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Promoting data reuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980)
+#### [Promoting data reuse](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=0)** - [Instructor] Data definitions and quality validation are two of the harder tasks facing data stewards, but they're also crucial to maintaining a strong master data management program.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=0)** - [Instructor] Data definitions and quality validation are two of the harder tasks facing data stewards, but they're also crucial to maintaining a strong master [[Data Management]] program.
 >
-> **[0:10](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=10)** Once you have solid master data, you then have the luxury of moving on to the more fun work of data stewardship, promoting data reuse.
+> **[0:10](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=10)** Once you have solid master data, you then have the luxury of moving on to the more fun work of [[Data Stewardship]], promoting data reuse.
 >
-> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=19)** Data stewards should work with their colleagues around the organization to spread the word about master data stores and the benefits that the organization may achieve by relying upon those master data stores rather than maintaining separate databases around the organization that may fail on one or more of the six dimensions of data quality.
+> **[0:19](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=19)** Data stewards should work with their colleagues around the organization to spread the [[Microsoft Word|word]] about master data stores and the benefits that the organization may achieve by relying upon those master data stores rather than maintaining separate [[Databases]] around the organization that may fail on one or more of the six dimensions of [[Data Quality]].
 >
-> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=38)** One technique that many organizations have adopted is to apply a data governance seal of approval to reports and dashboards that reuse data for master data stores.
+> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=38)** One technique that many organizations have adopted is to apply a [[Data Governance]] seal of approval to reports and [[Dashboards]] that reuse data for master data stores.
 >
 > **[0:48](https://www.linkedin.com/learning/data-steward-foundations/promoting-data-reuse?u=76281980&t=48)** This approach gives leaders relying upon the data the confidence that they're looking at conclusions drawn from high quality data, and it also helps promote the use of master data throughout the organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), management (1), [[Microsoft Word|Word]] (1), [[Databases]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Data Stewardship]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1), [[Data Quality]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -724,8 +712,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goals of information security
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
+#### [Goals of information security](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,13 +722,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=17)** It highlights the three most important functions that information security performs in an enterprise, Confidentiality, Integrity, and Availability.
 >
-> **[0:27](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=27)** Each of these is crucial to a strong data stewardship program.
+> **[0:27](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=27)** Each of these is crucial to a strong [[Data Stewardship]] program.
 >
 > **[0:31](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=31)** Confidentiality, ensures that only authorized individuals have access to information and resources.
 >
 > **[0:38](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=38)** This is what most people think of when they think about information security, keeping secrets away from prying eyes.
 >
-> **[0:43](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=43)** And it is in fact how cybersecurity professionals spend the majority of their time.
+> **[0:43](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=43)** And it is in fact how [[Cybersecurity]] professionals spend the majority of their time.
 >
 > **[0:48](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=48)** Malicious individuals seeking to undermine confidentiality are said to engage in disclosure, making sensitive information available to individuals or the general public without the owner's consent.
 >
@@ -749,11 +736,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=67)** This means that there aren't any unauthorized changes to that data.
 >
-> **[1:11](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=71)** And this goal is closely linked to the data stewardship goal of data quality.
+> **[1:11](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=71)** And this goal is closely linked to the data stewardship goal of [[Data Quality]].
 >
 > **[1:16](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=76)** Unauthorized changes may come in the form of a hacker seeking to intentionally alter information or a service disruption accidentally affecting data stored in the system.
 >
-> **[1:25](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=85)** In either case it's the cybersecurity professionals responsibility to prevent these lapses in integrity and data stewards must work closely with those cybersecurity professionals to achieve the goals of their data governance programs.
+> **[1:25](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=85)** In either case it's the cybersecurity professionals responsibility to prevent these lapses in integrity and data stewards must work closely with those cybersecurity professionals to achieve the goals of their [[Data Governance]] programs.
 >
 > **[1:39](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980&t=99)** The final goal of cybersecurity is availability.
 >
@@ -767,17 +754,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Cybersecurity]] (5), [[Security]] (4), business (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Data Stewardship]] (2), [[Data Quality]] (1), [[Data Governance]] (1)
 > **Definitions:** known as (2), means that (1)
 > **Env Vars:** cia (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preserving data confidentiality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980)
+#### [Preserving data confidentiality](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=0)** - [Instructor] Each cybersecurity control that we implement is aligned with at least one of the three key objectives of cyber security: confidentiality, integrity, or availability.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=0)** - [Instructor] Each [[Cybersecurity]] control that we implement is aligned with at least one of the three key objectives of cyber security: confidentiality, integrity, or availability.
 >
 > **[0:10](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=10)** Let's take a look at some of the controls that security professionals use to enhance confidentiality.
 >
@@ -795,11 +781,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=58)** For example, they might attempt to eavesdrop on network communications or remove data from a hard drive by bypassing the operating system and its access controls.
 >
-> **[1:08](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=68)** Encryption uses mathematical algorithms to transform plain text into cipher text, that is then unintelligible to anyone who doesn't have access to the appropriate decryption key.
+> **[1:08](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=68)** Encryption uses mathematical [[Algorithms]] to transform plain text into cipher text, that is then unintelligible to anyone who doesn't have access to the appropriate decryption key.
 >
 > **[1:18](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=78)** Encryption plays an important role in protecting data in two different environments.
 >
-> **[1:23](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=83)** First, encryption protects data at rest.
+> **[1:23](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=83)** First, encryption protects data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:26](https://www.linkedin.com/learning/data-steward-foundations/preserving-data-confidentiality?u=76281980&t=86)** That's what cyber security professionals call data that's stored on some sort of media or system.
 >
@@ -823,17 +809,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Security]] (5), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting data integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980)
+#### [Protecting data integrity](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=0)** - [Instructor] Cybersecurity professionals also apply controls to protect the integrity of information.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] professionals also apply controls to protect the integrity of information.
 >
 > **[0:05](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=5)** As the second leg of the CIA triad, integrity controls ensure that information is not altered without authorization.
 >
@@ -843,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=30)** They may come from user error, such as a data entry clerk accidentally entering the wrong information in a field.
 >
-> **[0:36](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=36)** They may come from software or hardware errors such as an application malfunctioning and writing erroneous data.
+> **[0:36](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=36)** They may come from software or [[Hardware]] errors such as an application malfunctioning and writing erroneous data.
 >
 > **[0:42](https://www.linkedin.com/learning/data-steward-foundations/protecting-data-integrity?u=76281980&t=42)** Or they may come from an act of nature such as a lightning strike that alters information stored on the disk.
 >
@@ -891,14 +876,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (1), [[Hardware]] (1), application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Hardware]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** means that (2), is a  (1), known as (1)
 > **Env Vars:** cia (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining data availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/maintaining-data-availability?u=76281980)
+#### [Maintaining data availability](https://www.linkedin.com/learning/data-steward-foundations/maintaining-data-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,13 +908,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Security]] (2), data (1), application (1)
 > **Analogies:** such as (5)
 > **Env Vars:** cia (1), raid (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identification, authentication, and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980)
+#### [Identification, authentication, and authorization](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980&t=31)** Now it's important to remember that the identification step is only a claim and the user could certainly be making a false claim.
 >
-> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980&t=38)** Imagine a physical world scenario where you want to enter a secure office building where you have an appointment.
+> **[0:38](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980&t=38)** Imagine a physical world scenario where you want to enter a secure [[Microsoft Office|office]] building where you have an appointment.
 >
 > **[0:43](https://www.linkedin.com/learning/data-steward-foundations/identification-authentication-and-authorization?u=76281980&t=43)** During the identification step of the process, you might walk up to the security desk and say, "Hi, I'm Mike Chapell."
 >
@@ -994,15 +976,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), management (3), [[Security]] (2), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discretionary access controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980)
+#### [Discretionary access controls](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1001,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=44)** Imagine that we have a file containing information on some of the organizations employees.
 >
-> **[0:50](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=50)** Alice, an analyst within human resources created this file, and the operating system recognizes her as the file owner.
+> **[0:50](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=50)** Alice, an analyst within [[Human Resources (HR)|human resources]] created this file, and the operating system recognizes her as the file owner.
 >
 > **[0:59](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=59)** Alice however created this file at Bob's request, and she wants Bob to have permission to do everything that she can do, so Alice gives Bob full control permission over that file.
 >
@@ -1038,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=122)** Permissions will be set by the operating system based upon the file's classification.
 >
-> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=128)** The NTFS file system access control model used on Windows disks is one of the most common examples of a discretionary access control system.
+> **[2:08](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=128)** The NTFS file system access control model used on [[Windows]] disks is one of the most common examples of a discretionary access control system.
 >
 > **[2:17](https://www.linkedin.com/learning/data-steward-foundations/discretionary-access-controls?u=76281980&t=137)** It allows users who own a file to assign each other various permissions.
 >
@@ -1046,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ntfs (2), dac (1)
 > **Analogies:** imagine (2)
@@ -1055,8 +1036,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980)
+#### [Access control lists](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1070,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=32)** I might grant one user the ability to edit the file and a large group of users the ability to read that file, each of those decisions would require an entry on an access control list.
 >
-> **[0:44](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=44)** The NTFS file system used by Windows implements access control lists and allows users to assign a variety of permissions.
+> **[0:44](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=44)** The NTFS file system used by [[Windows]] implements access control lists and allows users to assign a variety of permissions.
 >
 > **[0:53](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=53)** Full control is just what the name implies.
 >
@@ -1088,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=92)** Alice should be the owner of the file, Bob should have full control of it, Tracy should have read only access and Carol should have read/write access to the file.
 >
-> **[1:43](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=103)** We'll go ahead and do this on a real Windows server.
+> **[1:43](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=103)** We'll go ahead and do this on a real [[Windows Server]].
 >
 > **[1:46](https://www.linkedin.com/learning/data-steward-foundations/access-control-lists?u=76281980&t=106)** Here is a folder containing that employee's file.
 >
@@ -1162,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (1), data (1), [[Windows Server]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Windows Server]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Env Vars:** ntfs (1)
@@ -1171,8 +1151,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Role-based access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/role-based-access-control?u=76281980)
+#### [Role-based access control](https://www.linkedin.com/learning/data-steward-foundations/role-based-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,13 +1187,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing the data lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980)
+#### [Managing the data lifecycle](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1253,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=177)** Here's a flowchart that can help you make decisions about what type of sanitization technique to use.
 >
-> **[3:02](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=182)** It comes from the NIST guidelines and it's widely used throughout government and industry.
+> **[3:02](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=182)** It comes from the [[NIST]] guidelines and it's widely used throughout government and industry.
 >
 > **[3:07](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=187)** You begin the flow chart at one of three locations, depending upon what classification of information was on the media.
 >
@@ -1290,7 +1267,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=215)** Paper records may be shredded using a cross-cut shredder that cuts them into very small pieces that would be very difficult to reassemble.
 >
-> **[3:43](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=223)** Pulping uses chemical processes to remove the ink from paper and return it to pulp form for recycling into new paper products.
+> **[3:43](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=223)** Pulping uses chemical processes to remove the ink from paper and return it to pulp form for recycling into new paper [[Microsoft Products|products]].
 >
 > **[3:51](https://www.linkedin.com/learning/data-steward-foundations/managing-the-data-lifecycle?u=76281980&t=231)** And paper can be incinerated although burning paper is less environmentally friendly because it creates carbon emissions and unlike pulping or shredding, burned paper can't be recycled.
 >
@@ -1306,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), cloud (2), next (1), [[NIST]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
@@ -1314,18 +1291,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=0)** - [Instructor] Generative AI is at the forefront of a technological revolution.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] is at the forefront of a technological revolution.
 >
-> **[0:05](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=5)** It's a branch of artificial intelligence that, as the name suggests, generates new data.
+> **[0:05](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=5)** It's a branch of [[Artificial Intelligence (AI)|artificial intelligence]] that, as the name suggests, generates new data.
 >
-> **[0:11](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=11)** This is a significant shift from traditional AI models that primarily focused on understanding or interpreting existing data.
+> **[0:11](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=11)** This is a significant shift from [[Traditional AI]] models that primarily focused on understanding or interpreting existing data.
 >
-> **[0:18](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=18)** Generative AI uses advanced algorithms to learn from vast amounts of data, recognizing underlying patterns, structures, and features.
+> **[0:18](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=18)** Generative AI uses advanced [[Algorithms]] to learn from vast amounts of data, recognizing underlying patterns, structures, and features.
 >
 > **[0:27](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=27)** Once you have a model that understands that data, it can then produce entirely new content that is sometimes nearly indistinguishable from human-generated data.
 >
@@ -1339,7 +1315,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=72)** To illustrate the capabilities of generative AI, let's consider two examples.
 >
-> **[1:16](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=76)** First, ChatGPT is a large language model developed by Open AI.
+> **[1:16](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=76)** First, [[ChatGPT]] is a large language model developed by Open AI.
 >
 > **[1:21](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=81)** It can converse, answer questions, write essays, and even create poetry.
 >
@@ -1377,7 +1353,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=198)** This is just an example of how we can do this back and forth conversation with ChatGPT to fine tune the results and come to the content that we'd like.
 >
-> **[3:28](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=208)** DALL-E, also by Open AI, is an AI that generates images from textual descriptions.
+> **[3:28](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=208)** [[DALL-E]], also by Open AI, is an AI that generates images from textual descriptions.
 >
 > **[3:34](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=214)** DALL-E can create pictures of things that don't necessarily even exist in the real world, combining concepts and objects in novel and sometimes surreal ways.
 >
@@ -1391,7 +1367,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=253)** I'm going to say, "Create an image that would be interesting and useful at the top of a marketing email for used cars that are on sale over the 4th of July weekend."
 >
-> **[4:33](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=273)** ChatGPT then says "creating an image", so it's leveraging the DALL-E model as it goes and creates this image, as opposed to the GPT-4 model that was used to create text earlier.
+> **[4:33](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=273)** ChatGPT then says "creating an image", so it's leveraging the DALL-E model as it goes and creates this image, as opposed to the [[GPT-4]] model that was used to create text earlier.
 >
 > **[4:44](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=284)** And there we have an image that could be used at the top of the email.
 >
@@ -1415,25 +1391,25 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=343)** We do have some people standing on the hood of a car and some cars that are decorated with the American flag, but as you can see, we can continue working with DALL-E and ChatGPT to fine tune our request and come up with an image that perfectly matches our needs.
 >
-> **[5:58](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=358)** Now let's talk about the impact of these technologies on data stewardship.
+> **[5:58](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=358)** Now let's talk about the impact of these technologies on [[Data Stewardship]].
 >
-> **[6:02](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=362)** The emergence of generative AI challenges traditional notions of data management.
+> **[6:02](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=362)** The emergence of generative AI challenges traditional notions of [[Data Management]].
 >
 > **[6:07](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=367)** As data stewards, we're not only tasked with managing and securing data, but also with understanding the implications of AI-generated data.
 >
-> **[6:14](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=374)** First, the influx of AI-generated content adds complexity to data quality assurance.
+> **[6:14](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=374)** First, the influx of AI-generated content adds complexity to [[Data Quality]] assurance.
 >
 > **[6:20](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=380)** Distinguishing between human-generated and AI-generated data, ensuring the accuracy and reliability of information and validating sources become paramount.
 >
 > **[6:30](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=390)** Data stewards must adapt their strategies to encompass these new data generation techniques, ensuring that data generated by AI meets the quality standards expected in their field.
 >
-> **[6:41](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=401)** Second, data security and privacy concerns are heightened with generative AI.
+> **[6:41](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=401)** Second, [[Data Security]] and [[Privacy]] concerns are heightened with generative AI.
 >
 > **[6:45](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=405)** AI can create realistic representations of personal or sensitive information, blurring the lines between real and AI-generated data.
 >
 > **[6:53](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=413)** This raises significant concerns about consent, privacy, and the ethical use of data.
 >
-> **[6:58](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=418)** Data stewards need to be at the forefront of these issues, establishing robust protocols to protect data privacy and adhere to ethical standards.
+> **[6:58](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=418)** Data stewards need to be at the forefront of these issues, establishing robust protocols to protect [[Data Privacy]] and adhere to ethical standards.
 >
 > **[7:07](https://www.linkedin.com/learning/data-steward-foundations/generative-ai?u=76281980&t=427)** Finally, the role of data stewards needs to evolve to include guiding the ethical use of AI-generated data.
 >
@@ -1449,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), ai (15), [[ChatGPT]] (12), [[Generative AI]] (9), [[DALL-E]] (7)
+> **Frameworks & Libraries:** [[ChatGPT]] (12), [[Generative AI]] (9), [[DALL-E]] (7), [[Data Stewardship]] (2), [[Privacy]] (2)
 > **Env Vars:** dall (7), gpt (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (2)
@@ -1461,12 +1437,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy program development
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
+#### [Privacy program development](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=0)** - [Instructor] Data privacy is one of the key pillars of data governance and data owners and stewards must act to protect the privacy of personal information entrusted to their care.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=0)** - [Instructor] [[Data Privacy]] is one of the key pillars of [[Data Governance]] and data owners and stewards must act to protect the [[Privacy]] of personal information entrusted to their care.
 >
 > **[0:11](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=11)** This requires a strong understanding of the principles of data privacy, as well as the willingness and ability to enforce those principles wherever data is collected, stored, processed, and transmitted by the organization.
 >
@@ -1486,31 +1461,30 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=75)** We'll talk more about the privacy principles that the program should enforce in the next video, but you'll need some systems in place to implement those principles.
 >
-> **[1:24](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=84)** For example, you'll need procedures for distributing privacy notices to data subjects, mechanisms for tracking user preferences, including opt-ins and opt-outs and logging and auditing facilities that provide accountability for user actions when handling personally identifiable information.
+> **[1:24](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980&t=84)** For example, you'll need procedures for distributing privacy notices to data subjects, mechanisms for tracking user preferences, including opt-ins and opt-outs and logging and auditing facilities that provide [[Accountability]] for user actions when handling personally identifiable information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (12), data (8), next (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Data Privacy]] (2), [[Data Governance]] (1), [[Accountability]] (1)
 > **Prerequisites:** you'll need (2), required to (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generally accepted privacy principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980)
+#### [Generally accepted privacy principles](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=0)** - [Instructor] All of the stakeholders in a data governance program bear responsibility for protecting the privacy of personal information under their care throughout the information lifecycle.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=0)** - [Instructor] All of the stakeholders in a [[Data Governance]] program bear responsibility for protecting the [[Privacy]] of personal information under their care throughout the information lifecycle.
 >
-> **[0:10](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=10)** Now, this private information may come in many forms.
+> **[0:10](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=10)** Now, this private information may come in many [[Forms]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=13)** Two of the most common elements of private information are Personally Identifiable Information or PII and Protected Health Information or PHI.
 >
-> **[0:23](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=23)** PII includes all information that can be tied back to a specific individual, while PHI includes healthcare records that are regulated under the Health Insurance Portability and Accountability Act, HIPAA.
+> **[0:23](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=23)** PII includes all information that can be tied back to a specific individual, while PHI includes healthcare records that are regulated under the Health Insurance Portability and [[Accountability]] Act, HIPAA.
 >
-> **[0:37](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=37)** The Generally Accepted Privacy Principles, or GAPP, are 10 components of data privacy that can be used to help organizations design their own privacy programs.
+> **[0:37](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=37)** The Generally Accepted Privacy Principles, or GAPP, are 10 components of [[Data Privacy]] that can be used to help organizations design their own privacy programs.
 >
 > **[0:47](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=47)** The GAPP principles were developed through a collaboration between four major industry organizations, the American Institute of Certified Public Accountants, the Canadian Institute of Chartered Accountants, the Information Systems Audit and Control Association, and the Institute of Internal Auditors.
 >
@@ -1568,17 +1542,16 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=234)** This standard provides a code of practice for the protection of Personally Identifiable Information in public cloud environments.
 >
-> **[4:03](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=243)** Organizations developing and monitoring their privacy program should conduct regular privacy impact assessments to identify the privacy ramifications of their business operations.
+> **[4:03](https://www.linkedin.com/learning/data-steward-foundations/generally-accepted-privacy-principles?u=76281980&t=243)** Organizations developing and monitoring their privacy program should conduct regular privacy impact assessments to identify the privacy ramifications of their [[Business Operations]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (14), data (11), [[Forms]] (1), [[Accountability]] (1), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), [[Data Governance]] (1), [[Forms]] (1), [[Accountability]] (1), [[Data Privacy]] (1)
 > **Env Vars:** gapp (12), pii (2), phi (2), hipaa (1), iso (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data anonymization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980)
+#### [Data anonymization](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1595,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980&t=151)** It includes things like social security numbers and email addresses, as well as date of birth and zip code.
 >
-> **[2:38](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980&t=158)** Whichever method you use for data de-identification and anonymization, make sure that you've thought through this issue carefully and that you're taking appropriate steps to protect the privacy of your data subjects.
+> **[2:38](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980&t=158)** Whichever method you use for data de-identification and anonymization, make sure that you've thought through this issue carefully and that you're taking appropriate steps to protect the [[Privacy]] of your data subjects.
 >
 > **[2:49](https://www.linkedin.com/learning/data-steward-foundations/data-anonymization?u=76281980&t=169)** Now, of course, the best approach to minimizing your risk is to minimize the data that you have in the first place.
 >
@@ -1630,14 +1603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Security]] (2), cloud (1), [[Analytics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hipaa (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data obfuscation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-obfuscation?u=76281980)
+#### [Data obfuscation](https://www.linkedin.com/learning/data-steward-foundations/data-obfuscation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,7 +1657,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** caution (1)
@@ -1696,14 +1667,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Today's regulatory landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
+#### [Today's regulatory landscape](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=0)** - [Instructor] Data stewards find themselves increasingly becoming legal and regulatory compliance experts.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=0)** - [Instructor] Data stewards find themselves increasingly becoming legal and [[Regulatory Compliance]] experts.
 >
-> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=6)** As governments and other regulators become more aware of the impact that private businesses may have on the security and privacy of information, they continue to create laws and regulations that seek to enforce safeguards.
+> **[0:06](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=6)** As governments and other regulators become more aware of the impact that private businesses may have on the security and [[Privacy]] of information, they continue to create laws and regulations that seek to enforce safeguards.
 >
 > **[0:18](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=18)** There are four main types of compliance obligations that you should be familiar with: criminal law, civil law, administrative law, and private regulations.
 >
@@ -1729,7 +1699,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=110)** These regulations often provide details that are missing from the law, or they provide procedural rules for the operation of government.
 >
-> **[1:57](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=117)** For example, the Health Insurance Portability and Accountability Act, HIPAA, provides criminal and civil law governing the uses of health information, but it doesn't go into great detail.
+> **[1:57](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=117)** For example, the Health Insurance Portability and [[Accountability]] Act, HIPAA, provides criminal and civil law governing the uses of health information, but it doesn't go into great detail.
 >
 > **[2:07](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=127)** The Center for Medicare and Medicaid Services publishes security and privacy regulations that include the specific requirements that HIPAA covered entities must follow.
 >
@@ -1739,7 +1709,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=150)** Now these regulations don't have the force of law on their own, but they are often required by contracts.
 >
-> **[2:35](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=155)** The most common example of this in the world of cyber security is the Payment Card Industry Data Security Standard, PCI DSS.
+> **[2:35](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=155)** The most common example of this in the world of cyber security is the Payment Card Industry [[Data Security]] Standard, PCI DSS.
 >
 > **[2:43](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=163)** PCI DSS was created by a consortium of companies without the involvement of a government agency.
 >
@@ -1747,7 +1717,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=177)** Now remember that in the United States, the highest form of law is the US Constitution.
 >
-> **[3:02](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=182)** The most common intersection between data stewardship and constitutional law involves the fourth amendment to the Constitution.
+> **[3:02](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=182)** The most common intersection between [[Data Stewardship]] and constitutional law involves the fourth amendment to the Constitution.
 >
 > **[3:09](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=189)** Part of the Bill of Rights, it reads in part, "The right of the people to be secure "in their persons, houses, papers, and effects "against unreasonable searches and seizures "shall not be violated."
 >
@@ -1757,18 +1727,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Accountability]] (1), [[Data Security]] (1), [[Data Stewardship]] (1)
 > **Env Vars:** hipaa (2), pci (2), dss (2), cfr (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Health Insurance Portability and Accountability Act (HIPAA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980)
+#### [Health Insurance Portability and Accountability Act (HIPAA)](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=0)** - [Instructor] The Health Insurance Portability and Accountability Act or HIPAA, is a comprehensive healthcare law that among other things, regulates the security and privacy of health records.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=0)** - [Instructor] The Health Insurance Portability and [[Accountability]] Act or HIPAA, is a comprehensive healthcare law that among other things, regulates the security and [[Privacy]] of health records.
 >
 > **[0:12](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=12)** HIPAA applies to two categories of information.
 >
@@ -1816,7 +1785,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=160)** And finally, HIPAA does not apply to information that has been de-identified so it may no longer be traced back to an individual.
 >
-> **[2:48](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=168)** The centers for Medicare and Medicaid services, CMS is responsible for laying out the rules that implement HIPAA and they publish two important rules that apply directly to data security and privacy.
+> **[2:48](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=168)** The centers for Medicare and Medicaid services, CMS is responsible for laying out the rules that implement HIPAA and they publish two important rules that apply directly to [[Data Security]] and privacy.
 >
 > **[3:00](https://www.linkedin.com/learning/data-steward-foundations/health-insurance-portability-and-accountability-act-hipaa?u=76281980&t=180)** The HIPAA Privacy Rule governs the privacy of protected health information and the HIPAA Security Rule governs the security of electronic protected health information.
 >
@@ -1848,7 +1817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (12), [[Security]] (8), business (4), data (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Accountability]] (1), [[Data Security]] (1)
 > **Env Vars:** hipaa (21), phi (9), baa (1), ferpa (1), cms (1)
 > **Definitions:** is a  (4), known as (1)
 > **Code Identifiers:** ephi (4)
@@ -1856,12 +1825,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Family Educational Rights and Privacy Act (FERPA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/family-educational-rights-and-privacy-act-ferpa?u=76281980)
+#### [Family Educational Rights and Privacy Act (FERPA)](https://www.linkedin.com/learning/data-steward-foundations/family-educational-rights-and-privacy-act-ferpa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/family-educational-rights-and-privacy-act-ferpa?u=76281980&t=0)** - [Instructor] The Family Educational Rights and Privacy Act of 1974 introduced privacy protections for student educational records that are maintained by an educational institution that receives federal funding through the US Department of Education.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/family-educational-rights-and-privacy-act-ferpa?u=76281980&t=0)** - [Instructor] The Family Educational Rights and [[Privacy]] Act of 1974 introduced privacy protections for student educational records that are maintained by an educational institution that receives federal funding through the US Department of Education.
 >
 > **[0:15](https://www.linkedin.com/learning/data-steward-foundations/family-educational-rights-and-privacy-act-ferpa?u=76281980&t=15)** This law applies to most educational institutions in the United States.
 >
@@ -1943,14 +1911,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), application (2)
+> **Frameworks & Libraries:** [[Privacy]] (4)
 > **Env Vars:** ferpa (23)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gramm-Leach-Bliley Act (GLBA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980)
+#### [Gramm-Leach-Bliley Act (GLBA)](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1958,7 +1925,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=8)** The Gramm-Leach-Bliley Act or GLBA, introduced many new requirements on financial institutions and their operations.
 >
-> **[0:16](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=16)** Two have these requirements of particular interest from a privacy perspective.
+> **[0:16](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=16)** Two have these requirements of particular interest from a [[Privacy]] perspective.
 >
 > **[0:21](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=21)** The GLBA Financial Privacy Rule limits how financial institutions may handle the non-public personal information of its consumers.
 >
@@ -1968,11 +1935,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=45)** The law applies to financial institutions, but the term financial institution is defined more broadly than you might think.
 >
-> **[0:52](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=52)** The Federal Trade Commission states that GLBA applies to all businesses, regardless of their size, that are significantly engaged in providing financial products or services.
+> **[0:52](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=52)** The Federal Trade Commission states that GLBA applies to all businesses, regardless of their size, that are significantly engaged in providing financial [[Microsoft Products|products]] or services.
 >
 > **[1:04](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=64)** This definition includes many businesses that you would not normally describe as financial institutions.
 >
-> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=69)** It does include the activities of banks, including online banking, non-bank lenders and financial or investment advisors, but it also includes check-cashing services, payday loan providers, real estate appraisers, tax preparers, mortgage brokers, ATM operators, and even colleges and universities that issues student loans.
+> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=69)** It does include the activities of banks, including online [[Banking]], non-bank lenders and financial or investment advisors, but it also includes check-cashing services, payday loan providers, real estate appraisers, tax preparers, mortgage brokers, ATM operators, and even colleges and universities that issues student loans.
 >
 > **[1:31](https://www.linkedin.com/learning/data-steward-foundations/gramm-leach-bliley-act-glba?u=76281980&t=91)** Now this is not a complete list.
 >
@@ -2014,7 +1981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (8), [[Security]] (5), [[Microsoft Products|Products]] (2), data (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Microsoft Products|Products]] (2), [[Banking]] (1)
 > **Env Vars:** glba (11), atm (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2022,12 +1989,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Data breach notification laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980)
+#### [Data breach notification laws](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=0)** - [Instructor] Privacy professionals believe that one of the fundamental rights of data subjects is the right to be informed when their personal information is accessed in an authorized manner.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=0)** - [Instructor] [[Privacy]] professionals believe that one of the fundamental rights of data subjects is the right to be informed when their personal information is accessed in an authorized manner.
 >
 > **[0:10](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=10)** This concept is known as data breach notification.
 >
@@ -2053,7 +2019,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=84)** Here's the definition used by the state of Mississippi.
 >
-> **[1:27](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=87)** The unauthorized acquisition of electronic files, media, databases, or computerized data containing personal information of any resident of the state.
+> **[1:27](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=87)** The unauthorized acquisition of electronic files, media, [[Databases]], or computerized data containing personal information of any resident of the state.
 >
 > **[1:36](https://www.linkedin.com/learning/data-steward-foundations/data-breach-notification-laws?u=76281980&t=96)** When access to the personal information has not been secured by encryption or by other method or technology that renders the personal information unreadable or unusable.
 >
@@ -2089,14 +2055,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (3), [[Privacy]] (2), business (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Databases]] (1)
 > **Analogies:** such as (1), for example (1), imagine (1)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### International data transfers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980)
+#### [International data transfers](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2106,7 +2071,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=16)** Let's talk about a couple of very significant international regulations.
 >
-> **[0:20](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=20)** First, the European Union's General Data Protection Regulation, GDPR, is a broad privacy law that regulates the handling of almost all personal information related to European Union residents.
+> **[0:20](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=20)** First, the European Union's General Data Protection Regulation, GDPR, is a broad [[Privacy]] law that regulates the handling of almost all personal information related to European Union residents.
 >
 > **[0:34](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=34)** US companies who do business in Europe or with EU residents must be familiar with GDPR and implement controls designed to avoid violations of that law.
 >
@@ -2138,7 +2103,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=133)** The Asia Pacific Economic Cooperation, or APEC, also publishes a privacy framework that incorporates many standard privacy practices.
 >
-> **[2:21](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=141)** These include preventing harm, providing notice, obtaining consent, and implementing security and accountability controls.
+> **[2:21](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=141)** These include preventing harm, providing notice, obtaining consent, and implementing security and [[Accountability]] controls.
 >
 > **[2:29](https://www.linkedin.com/learning/data-steward-foundations/international-data-transfers?u=76281980&t=149)** This framework is used to promote the smooth cross-border flow of information between APEC member nations.
 >
@@ -2150,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (9), data (3), business (2), [[Security]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Accountability]] (1)
 > **Env Vars:** gdpr (3), apec (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -2161,12 +2126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
+#### [Data inventory](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=0)** - [Instructor] One of the first tasks that you should undertake as part of your privacy program is developing an inventory of all of the types of information that your organization handles that might be affected by privacy programs.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=0)** - [Instructor] One of the first tasks that you should undertake as part of your [[Privacy]] program is developing an inventory of all of the types of information that your organization handles that might be affected by privacy programs.
 >
 > **[0:12](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=12)** A good rule of thumb is that you should include any information in your inventory that might be considered personally identifiable information or PII.
 >
@@ -2192,7 +2156,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=92)** When you're developing this list, think about common activities that might include this data.
 >
-> **[1:36](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=96)** How does human resources collect information from new hires?
+> **[1:36](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=96)** How does [[Human Resources (HR)|human resources]] collect information from new hires?
 >
 > **[1:40](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980&t=100)** Do they share employee information with any vendors?
 >
@@ -2240,15 +2204,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (5), [[Privacy]] (3), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pii (6)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Entity-relationship diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980)
+#### [Entity-relationship diagrams](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2272,7 +2235,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980&t=76)** Now, of course, tracking entities alone isn't sufficient to develop a data model.
 >
-> **[1:20](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980&t=80)** Databases contain information about each entity.
+> **[1:20](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980&t=80)** [[Databases]] contain information about each entity.
 >
 > **[1:24](https://www.linkedin.com/learning/data-steward-foundations/entity-relationship-diagrams?u=76281980&t=84)** This information is tracked in individual fields, known as attributes, which normally correspond to the columns of a database table.
 >
@@ -2330,13 +2293,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (4), express (2), [[Databases]] (1), power (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** for example (4), similar to (2)
 > **Definitions:** known as (3), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980)
+#### [Data classification](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,9 +2314,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=48)** For example, the military uses the Top Secret, Secret, Confidential and Classified classification scheme, while a business might use friendlier terms to accomplish the same goal, such as Highly Sensitive, Sensitive, Internal and Public.
 >
-> **[1:02](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=62)** Data classification is extremely important, because it's used as the basis for other data security decisions.
+> **[1:02](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=62)** [[Data Classification]] is extremely important, because it's used as the basis for other [[Data Security]] decisions.
 >
-> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=69)** For example, a company might require the use of strong encryption to protect sensitive and highly sensitive information, both at rest and in motion.
+> **[1:09](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=69)** For example, a company might require the use of strong encryption to protect sensitive and highly sensitive information, both at [[Representational State Transfer (REST)|rest]] and in motion.
 >
 > **[1:17](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=77)** That's an example of a data handling requirement.
 >
@@ -2380,17 +2342,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (6), business (1), [[Data Classification]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (2), [[Data Classification]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pii (1), phi (1), hipaa (1), pci (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interviewing key employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980)
+#### [Interviewing key employees](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=0)** - [Instructor] Once you have an initial list of business processes from your data inventory, it's time to confirm the information that you gathered during your brainstorming by interviewing other employees who possess information about both the business processes that use PII and the technology systems and applications that handle that data.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=0)** - [Instructor] Once you have an initial list of business processes from your data inventory, it's time to confirm the information that you gathered during your brainstorming by [[Interviewing]] other employees who possess information about both the business processes that use PII and the technology systems and applications that handle that data.
 >
 > **[0:18](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=18)** These interviews are where you convert your initial inventory into a detailed roadmap and we approach these interviews in two phases.
 >
@@ -2400,7 +2361,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=47)** My preferred approach is to start with a blank piece of paper and think about all of the business units in your organization that might touch PII.
 >
-> **[0:54](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=54)** This may include your human resources department, salespeople, compliance officers, call centers, and others.
+> **[0:54](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=54)** This may include your [[Human Resources (HR)|human resources]] department, salespeople, compliance officers, call centers, and others.
 >
 > **[1:01](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=61)** The list will be unique to your organization.
 >
@@ -2432,7 +2393,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=153)** These are the people who understand the inner workings of your systems and can help ferret out previously undiscovered uses of personal information.
 >
-> **[2:41](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=161)** You'll want to talk to a wide variety of technologists, database administrators who know where the central stores of data exist and who has access to it, application developers are familiar with user interfaces and they may know where PII has collected and accessed, security and privacy professionals may have already done research on the issue and know of PII stores and technology consultants know the business processes of their functional units, and may be able to elaborate on uses.
+> **[2:41](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=161)** You'll want to talk to a wide variety of technologists, database administrators who know where the central stores of data exist and who has access to it, application developers are familiar with user interfaces and they may know where PII has collected and accessed, security and [[Privacy]] professionals may have already done research on the issue and know of PII stores and technology consultants know the business processes of their functional units, and may be able to elaborate on uses.
 >
 > **[3:07](https://www.linkedin.com/learning/data-steward-foundations/interviewing-key-employees?u=76281980&t=187)** Once again, you'll need to use your own knowledge of the organization to flesh out this list.
 >
@@ -2444,14 +2405,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), functional (8), data (3), [[Interviewing]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Human Resources (HR)|Human resources]] (1), [[Privacy]] (1)
 > **Env Vars:** pii (5)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Following data flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980)
+#### [Following data flows](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2469,9 +2429,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=33)** The diagram should show the journey of the PII, including every location where it's stored and every process that touches it.
 >
-> **[0:40](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=40)** For example, your human resources system probably handles employees' Social Security Numbers.
+> **[0:40](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=40)** For example, your [[Human Resources (HR)|human resources]] system probably handles employees' Social Security Numbers.
 >
-> **[0:46](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=46)** As you go through the data flow diagramming process, you might identify that Social Security Numbers are first collected by employees on a paper form that they submit to an HR clerk.
+> **[0:46](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=46)** As you go through the data flow [[Diagramming]] process, you might identify that Social Security Numbers are first collected by employees on a paper form that they submit to an HR clerk.
 >
 > **[0:55](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=55)** The HR clerk then enters this information into the HR system and shreds the form.
 >
@@ -2481,7 +2441,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=80)** Then when tax season rolls around, the payroll system sends a request to the HR system for a list of all employees and their Social Security Numbers.
 >
-> **[1:29](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=89)** It uses those lists to create the tax reporting forms that are sent to employees in the mail and to file a report with the internal revenue service detailing each employee's wages for the year.
+> **[1:29](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=89)** It uses those lists to create the tax reporting [[Forms]] that are sent to employees in the mail and to file a report with the internal revenue service detailing each employee's wages for the year.
 >
 > **[1:40](https://www.linkedin.com/learning/data-steward-foundations/following-data-flows?u=76281980&t=100)** Now this is a simple data flow diagram.
 >
@@ -2501,26 +2461,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (7), data (6), [[Security]] (4), business (2), database (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Human Resources (HR)|Human resources]] (1), [[Diagramming]] (1)
 > **Env Vars:** pii (4), ssn (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data sharing and transfers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980)
+#### [Data sharing and transfers](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=0)** - [Instructor] As you work your way through the process of developing data flow diagrams, you may discover instances of data sharing, and transfers that take place both within your organization, and with your business partners.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=0)** - [Instructor] As you work your way through the process of developing data flow diagrams, you may discover instances of [[Data Sharing]], and transfers that take place both within your organization, and with your business partners.
 >
-> **[0:11](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=11)** It's important to them evaluate each of these arrangements with data governance in mind.
+> **[0:11](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=11)** It's important to them evaluate each of these arrangements with [[Data Governance]] in mind.
 >
 > **[0:16](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=16)** Have you notified data subjects of the data sharing?
 >
 > **[0:18](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=18)** Do you have their consent to share PII?
 >
-> **[0:21](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=21)** Are you confident that your business partners will comply with their security, and privacy obligations?
+> **[0:21](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=21)** Are you confident that your business partners will comply with their security, and [[Privacy]] obligations?
 >
 > **[0:26](https://www.linkedin.com/learning/data-steward-foundations/data-sharing-and-transfers?u=76281980&t=26)** And are there any legal or regulatory impacts to this data sharing?
 >
@@ -2536,7 +2495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (3), [[Security]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Data Sharing]] (5), [[Privacy]] (2), [[Data Governance]] (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -2547,14 +2506,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)
+#### [Continuing your studies](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980&t=0)** - [Mike] Thanks for joining me for this exploration of the world of Data Stewardship.
+> **[0:00](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980&t=0)** - [Mike] Thanks for joining me for this exploration of the world of [[Data Stewardship]].
 >
-> **[0:04](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980&t=4)** I hope that you've learned quite a bit in this course, and found it helpful in developing your own organization's data governance program.
+> **[0:04](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980&t=4)** I hope that you've learned quite a bit in this course, and found it helpful in developing your own organization's [[Data Governance]] program.
 >
 > **[0:11](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980&t=11)** I hope that you'll take the principles that you've learned here and apply them to your own organization.
 >
@@ -2564,7 +2522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Data Stewardship]] (1)
 > **Speakers:** - [mike] (1)
 
 

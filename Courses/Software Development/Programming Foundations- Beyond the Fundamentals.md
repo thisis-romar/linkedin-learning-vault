@@ -114,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Broadening your knowledge of programming fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980)
+#### [Broadening your knowledge of programming fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,23 +132,22 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980&t=50)** I'm Sasha Vodnik and I've been programming computers since I was a little kid.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980&t=55)** If you're ready to take your next step in the fundamental concepts that underpin computer programming, then this LinkedIn learning course is for you.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals-22191968?u=76281980&t=55)** If you're ready to take your next step in the fundamental concepts that underpin computer programming, then this [[LinkedIn]] learning course is for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Debugging]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=0)** - In this course, I assume you are already familiar with a few basic programming concepts, specifically variables, functions, and conditional logic.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=0)** - In this course, I assume you are already familiar with a few basic [[Programming Concepts]], specifically variables, functions, and conditional logic.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=10)** If any of these don't ring a bell or if you could use a little brushing up, check out the [[Programming Foundations Fundamentals]] course in the library.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=10)** If any of these don't ring a bell or if you could use a little brushing up, check out the [[[[Programming Foundations]] Fundamentals]] course in the library.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=18)** I'll be walking you through example code in this course using the Python programming language.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=18)** I'll be walking you through example code in this course using the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=23)** Python syntax is pretty straightforward, so if you have some experience programming, but not with Python, you'll probably be able to follow the examples just fine.
 >
@@ -157,19 +155,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming Foundations]] (2), [[Programming]] (2), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming Foundations]] (2), [[Programming Concepts]] (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Configuring your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980)
+#### [Configuring your environment](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=0)** - I'll be using a Mac in this course, but you can also work through it using Windows or Linux.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=0)** - I'll be using a Mac in this course, but you can also work through it using [[Windows]] or [[Linux]].
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=5)** I'll also be coding in Python.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=5)** I'll also be coding in [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=7)** To use Python on a Windows machine or on a Mac, you have to install it.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=53)** Visual Studio Code is free to download and use, and it's available for Mac, Windows, and Linux.
 >
-> **[1:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=60)** One of the first things I do when I install Visual Studio Code is to turn on Word Wrap.
+> **[1:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=60)** One of the first things I do when I install Visual Studio Code is to turn on [[Microsoft Word|Word]] Wrap.
 >
 > **[1:05](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=65)** That ensures that a line of code that's longer than the editor window will wrap to the next line, so I can see it all, rather than it getting cut off at the edge of the window.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=92)** Then in the search box, type Python.
 >
-> **[1:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=97)** In the results, look for the Python extension that's written by Microsoft, which is right here.
+> **[1:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=97)** In the results, look for the Python extension that's written by [[Microsoft]], which is right here.
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=102)** Clicking that gives you a little more information on the extension, and when you're ready, click the green Install button to install it.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=151)** If your system suggests this, follow those prompts to install those tools.
 >
-> **[2:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=155)** If any of this sounds confusing or unfamiliar, check out Programming Foundations: Fundamentals, which walks you step by step through this process.
+> **[2:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=155)** If any of this sounds confusing or unfamiliar, check out [[Programming Foundations]]: Fundamentals, which walks you step by step through this process.
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/configuring-your-environment-22196021?u=76281980&t=164)** Now that you have everything installed and configured, you're good to go.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Windows]] (3), [[Microsoft Word|Word]] (3), [[Linux]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Windows]] (3), [[Microsoft Word|Word]] (3), [[Linux]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (11), make (2)
 > **Prerequisites:** install (11)
 > **Tools:** visual studio (6), command line (1)
@@ -241,8 +238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980)
+#### [Understanding collections](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,19 +280,18 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980&t=127)** A collection offers simplified syntax for performing this type of process.
 >
-> **[2:12](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980&t=132)** Collections can take different forms and programming languages vary in the types of collections they support.
+> **[2:12](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980&t=132)** Collections can take different [[Forms]] and programming languages vary in the types of collections they support.
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-collections-22193992?u=76281980&t=139)** Learning how to create and use collections in programming will help you to write more efficient and better organized code that can easily work with data from a wide variety of sources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Programming]] (4), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - despite (1)
 
-#### Creating simple collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980)
+#### [Creating simple collections](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,11 +307,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=22)** (papers rustling) Knowing that these documents are all related means I know that if I need, say, one of the contracts for a certain project, I just need to look in this stack.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=31)** And if I want to copy all of them, for instance, I could just stick the whole stack in the auto feeder on my copier and let the machine do the rest.
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=31)** And if I want to copy all of them, for instance, I could just stick the whole stack in the auto feeder on my copier and let the machine do the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=39)** One of the simplest types of collection in programming groups pieces of data together in a certain order and assigns the collection a name.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=46)** In Python, this type of collection is known as a list.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=46)** In [[Python (Programming Language)|Python]], this type of collection is known as a list.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-simple-collections-22191959?u=76281980&t=50)** To create a list, I simply specify a variable name and close the value in square brackets, and then for the collection, provide values separated by commas.
 >
@@ -364,21 +359,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (2), make (2)
 > **File Paths:** list.py (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
-#### Creating more complex collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980)
+#### [Creating more complex collections](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=0)** - Sometimes simply grouping data doesn't meet my organizing needs.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=4)** For instance, say I've organized all my papers for a project into stacks, receipts, correspondence, and forms.
+> **[0:04](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=4)** For instance, say I've organized all my papers for a project into stacks, receipts, correspondence, and [[Forms]].
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=11)** Without a label, it can be hard to remember what's in which pile, and I certainly just can't stack it all up together without losing my organization.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=43)** Many programming languages support a rich collection type that lets you store related information but with a label for each item.
 >
-> **[0:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=51)** In Python, the dictionary data type serves this function.
+> **[0:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=51)** In [[Python (Programming Language)|Python]], the dictionary data type serves this function.
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-more-complex-collections-22195698?u=76281980&t=55)** To create a dictionary, I specify a variable name and close the value in curly braces.
 >
@@ -436,15 +430,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Forms]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **File Paths:** dictionary.py (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - sometimes (1)
 
-#### Working with collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-collections-22198023?u=76281980)
+#### [Working with collections](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-collections-22198023?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +509,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Programming]] (3)
 > **Tools:** terminal (4)
 > **File Paths:** list.py (1), dictionary.py (1)
 > **Definitions:** known as (1), is a  (1)
@@ -525,12 +517,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - both (1)
 
-#### Collections in other languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980)
+#### [Collections in other languages](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=0)** - Collections, like Python's lists and Python's dictionaries, let you organize related data.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=0)** - Collections, like [[Python (Programming Language)|Python]]'s lists and Python's dictionaries, let you organize related data.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=7)** And we're primarily going to be using Python in this course, but it's important to understand that across programming languages, collections can actually vary a lot.
 >
@@ -556,7 +547,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=93)** Even when programming languages share collection types a wide variety of names are used for common collections.
 >
-> **[1:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=99)** For instance, what's known as a list in Python is called an array in JavaScript and C++.
+> **[1:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=99)** For instance, what's known as a list in Python is called an array in [[JavaScript]] and C++.
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/collections-in-other-languages-22195697?u=76281980&t=106)** Python dictionaries are known variously as associative arrays, maps or tables.
 >
@@ -564,14 +555,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (7), [[Programming]] (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[JavaScript]] (1)
 > **CLI Commands:** python (9)
 > **Analogies:** for instance (3)
 > **Definitions:** known as (1), is called (1)
 > **Speakers:** - collections (1)
 
-#### Challenge: Working with a collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-working-with-a-collection-22199010?u=76281980)
+#### [Challenge: Working with a collection](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-working-with-a-collection-22199010?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,13 +595,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat synth music) (1)
 
-#### Solution: Working with a collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980)
+#### [Solution: Working with a collection](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=13)** If you did, that's totally normal.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=16)** Understanding and working with programming concepts takes practice.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=16)** Understanding and working with [[Programming Concepts]] takes practice.
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=20)** Trying your hand at this challenge is a first step in building those muscles.
 >
@@ -633,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=29)** Let's start with the first set, the four stars nearest to Earth.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=33)** This is essentially an ordered list and a Python list is an ideal choice for grouping this data because the order matters.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=33)** This is essentially an ordered list and a [[Python (Programming Language)|Python]] list is an ideal choice for grouping this data because the order matters.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=41)** So I'll start by commenting out those existing variables and then I'll create a new variable called stars.
 >
@@ -693,7 +681,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=217)** Then a comma and press enter.
 >
-> **[3:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=224)** And the same for each of the rest.
+> **[3:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=224)** And the same for each of the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-working-with-a-collection-22197022?u=76281980&t=231)** It's pretty common when you're working with a dictionary like this that you're actually bringing the data in from somewhere else.
 >
@@ -731,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Programming Concepts]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -744,8 +732,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-iteration-22199013?u=76281980)
+#### [Introduction to iteration](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-iteration-22199013?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,12 +772,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (2)
 > **Analogies:** for instance (2), such as (1)
 > **Speakers:** - folding (1)
 
-#### Iterating through collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980)
+#### [Iterating through collections](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=41)** We use iteration in programming all the time.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=44)** In Python, you can create a loop using the for keyword.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=44)** In [[Python (Programming Language)|Python]], you can create a loop using the for keyword.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=48)** In the start file for this video, I have a list called spices that stores the names of four spices I like to use when making omelets.
 >
@@ -824,7 +809,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=78)** And here I'm using the variable name spice for clarity because each value I'm working with is a spice although we can debate about whether or not salt is a spice but I'm the cook here, so it's a spice.
 >
-> **[1:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=91)** The next word in is a python keyword.
+> **[1:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=91)** The next [[Microsoft Word|word]] in is a python keyword.
 >
 > **[1:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-through-collections-22193989?u=76281980&t=95)** It indicates that what follows is the set of values that we want to iterate through.
 >
@@ -886,15 +871,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (3)
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - to (1)
 
-#### Iterating to a custom endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980)
+#### [Iterating to a custom endpoint](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980&t=41)** In the same way, sometimes when I'm writing code I need to continue a loop until the program arrives at a certain state.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980&t=48)** In Python you use a while statement to create this type of loop.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980&t=48)** In [[Python (Programming Language)|Python]] you use a while statement to create this type of loop.
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/iterating-to-a-custom-endpoint-22193993?u=76281980&t=52)** To get started with a while loop we commonly use a variable that will be modified on each iteration through the loop.
 >
@@ -978,15 +962,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (1)
 > **Definitions:** short for (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - screwing (1)
 
-#### Challenge: Creating a for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-creating-a-for-loop-22199014?u=76281980)
+#### [Challenge: Creating a for loop](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-creating-a-for-loop-22199014?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,14 +997,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Creating a for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-creating-a-for-loop-22198022?u=76281980)
+#### [Solution: Creating a for loop](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-creating-a-for-loop-22198022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1058,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
@@ -1088,8 +1068,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing types of external code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980)
+#### [Comparing types of external code](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980&t=40)** There are several different types of shared code and the terms for these can vary from language to language.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980&t=46)** We'll take a look at types of shared code in Python as a starting point.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980&t=46)** We'll take a look at types of shared code in [[Python (Programming Language)|Python]] as a starting point.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/comparing-types-of-external-code-22197018?u=76281980&t=49)** The most basic type of shared code in Python is called a module.
 >
@@ -1145,14 +1124,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2), find (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** it's like (2), similar to (1)
 > **Speakers:** - when (1)
 
-#### Working with a module
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980)
+#### [Working with a module](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1168,7 +1146,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980&t=26)** This is something I might find useful in a lot of different programs I write, so splitting it out into a module makes it easier for me to integrate it into different applications I create.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980&t=35)** You might notice here that I'm using a Python syntax to print a combination of strings and variable values, starting with the letter F.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980&t=35)** You might notice here that I'm using a [[Python (Programming Language)|Python]] syntax to print a combination of strings and variable values, starting with the letter F.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-a-module-22198021?u=76281980&t=42)** You can learn more about that by looking at Python documentation online.
 >
@@ -1214,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), find (1)
 > **File Paths:** testmodule.py (3), app.py (3)
 > **Tools:** terminal (1)
@@ -1222,8 +1200,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Understanding libraries and frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980)
+#### [Understanding libraries and frameworks](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,17 +1216,17 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=41)** But if you're not ready to commit to a specific approach for the app you're building or if there's no framework that meets the needs of what you're creating, then you can decide on your own approach to coding it up and use one or more libraries as tools to help you get it done.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=56)** In Python, popular libraries include TensorFlow and pandas for machine learning tasks, and NumPy and SciPy for mathematical manipulations.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=56)** In [[Python (Programming Language)|Python]], popular libraries include [[TensorFlow]] and [[Pandas (Software)|pandas]] for machine learning tasks, and NumPy and SciPy for mathematical manipulations.
 >
-> **[1:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=66)** Widely used Python frameworks include Django and Flask, which are both used for web content management.
+> **[1:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=66)** Widely used Python frameworks include [[Django]] and Flask, which are both used for web [[Content Management]].
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=73)** Other modern programming languages have a wide variety of both libraries and frameworks available as well.
 >
-> **[1:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=79)** In JavaScript, for instance, the Lodash library offers some general programming utilities.
+> **[1:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=79)** In [[JavaScript]], for instance, the Lodash library offers some general programming utilities.
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=84)** While the jQuery library provides tools for selecting and working with webpage elements.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=89)** Widely used JavaScript frameworks for building web apps include React, Angular, and Vue.
+> **[1:29](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=89)** Widely used JavaScript frameworks for building web apps include [[React.js|React]], [[Angular]], and [[Vue.js|Vue]].
 >
 > **[1:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/understanding-libraries-and-frameworks-22191963?u=76281980&t=95)** When you're starting out with programming, the programs you write often don't need libraries or frameworks.
 >
@@ -1267,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[JavaScript]] (4), [[Python (Programming Language)|Python]] (2), web (2), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Python (Programming Language)|Python]] (2), [[TensorFlow]] (1), [[Pandas (Software)|Pandas]] (1), [[Django]] (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** jquery (1)
 > **Analogies:** for instance (1)
@@ -1278,8 +1255,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combining and manipulating strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980)
+#### [Combining and manipulating strings](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1273,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980&t=31)** One of the simplest and most common string operations in programming is concatenation, in which multiple strings're combined into a single string.
 >
-> **[0:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980&t=39)** In Python, as in many other languages, we use the + sign to concatenate strings.
+> **[0:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980&t=39)** In [[Python (Programming Language)|Python]], as in many other languages, we use the + sign to concatenate strings.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/combining-and-manipulating-strings-22191967?u=76281980&t=45)** In the beginning exercise file for this video, I've written code to prompt the user to enter a number and then to print the value entered by the user to the terminal.
 >
@@ -1367,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (4), [[Python (Programming Language)|Python]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **CLI Commands:** python (3)
@@ -1376,8 +1352,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** just like (1)
 
-#### Finding patterns in strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980)
+#### [Finding patterns in strings](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=62)** So first up, I want to transform those names into names with initial caps.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=67)** Python includes methods that work on any string.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=67)** [[Python (Programming Language)|Python]] includes methods that work on any string.
 >
 > **[1:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=70)** You just reference the string, followed by a dot and the method name.
 >
@@ -1443,7 +1418,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=143)** It's also pretty common to need to search for specific characters in a string.
 >
-> **[2:28](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=148)** For instance, you may simply want to search for a certain word or phrase within a string.
+> **[2:28](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=148)** For instance, you may simply want to search for a certain [[Microsoft Word|word]] or phrase within a string.
 >
 > **[2:32](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/finding-patterns-in-strings-22191965?u=76281980&t=152)** Python has several string methods that let you look for text.
 >
@@ -1511,7 +1486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Search]] (3), [[Programming]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3), find (3)
 > **Tools:** terminal (3)
 > **Analogies:** for instance (2), imagine (1)
@@ -1519,8 +1494,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - i (1)
 
-#### Creating regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980)
+#### [Creating regular expressions](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1508,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=29)** Strings sometimes need complex searches and manipulations, too.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=33)** Many programming languages, including Python, allow you to do this by supporting regular expressions.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=33)** Many programming languages, including [[Python (Programming Language)|Python]], allow you to do this by supporting regular expressions.
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=39)** A regular expression lets you create a description of a pattern that you want to match.
 >
@@ -1548,7 +1522,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=74)** Backslashes mark many patterns in a regular expression.
 >
-> **[1:17](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=77)** For instance, backslash D indicates a digit, backslash W indicates a word character like a letter, and dot indicates any character.
+> **[1:17](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=77)** For instance, backslash D indicates a digit, backslash W indicates a [[Microsoft Word|word]] character like a letter, and dot indicates any character.
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-regular-expressions-22191962?u=76281980&t=86)** You use the plus sign to indicate one or more occurrences of the preceding pattern.
 >
@@ -1616,15 +1590,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - sometimes (1)
 
-#### Challenge: Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980)
+#### [Challenge: Strings](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,7 +1611,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980&t=26)** Your task is to take the value entered by the user, convert it to a value in kilometers and then print the result to the terminal with a text description using string concatenation.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980&t=37)** Remember that you can convert a string to a number containing decimal places using python's float() method.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980&t=37)** Remember that you can convert a string to a number containing decimal places using [[Python (Programming Language)|python]]'s float() method.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-strings-22199008?u=76281980&t=44)** This challenge should take you about 15 to 20 minutes.
 >
@@ -1648,15 +1621,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980)
+#### [Solution: Strings](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980&t=36)** I also have a comment containing a formula for converting a value in miles to kilometers.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980&t=42)** Remember that the value a user types in in response to a prompt is treated by Python as string data.
+> **[0:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980&t=42)** Remember that the value a user types in in response to a prompt is treated by [[Python (Programming Language)|Python]] as string data.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-strings-22191960?u=76281980&t=48)** I want to do a calculation with the number that the user enters, but I can't do that with a string.
 >
@@ -1750,7 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), prompt (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** miles_float (4), typeerror (2)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (2)
@@ -1764,8 +1736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing a code style
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980)
+#### [Choosing a code style](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1799,7 +1770,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=112)** Consulting these can help you understand some of the most common approaches and often the thinking behind them.
 >
-> **[1:58](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=118)** For Python developers, the most commonly used style guide is called PEP 8, which is short for Python Enhancement Proposal number 8.
+> **[1:58](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=118)** For [[Python (Programming Language)|Python]] developers, the most commonly used style guide is called PEP 8, which is short for Python Enhancement Proposal number 8.
 >
 > **[2:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=126)** As I write Python code, I can consult this style guide if I have a choice to make in my coding approach.
 >
@@ -1825,15 +1796,15 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=185)** But if you're just working on your own projects, you can pick whichever works best for you.
 >
-> **[3:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=190)** Other popular style guides exist for Python, like the Google Python Style Guide, and other languages have respected references of their own.
+> **[3:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=190)** Other popular style guides exist for Python, like the [[Google]] Python Style Guide, and other languages have respected references of their own.
 >
-> **[3:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=199)** For instance, one of the most commonly used style guides for JavaScript was created for internal use by Airbnb but is now widely consulted as an industry standard.
+> **[3:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=199)** For instance, one of the most commonly used style guides for [[JavaScript]] was created for internal use by Airbnb but is now widely consulted as an industry standard.
 >
 > **[3:28](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/choosing-a-code-style-22196022?u=76281980&t=208)** If you don't need to worry about memorizing style guides, but especially when you're not sure about a choice you need to make in your code or if you see code written by other people that takes a different approach to your own, style guides can be valuable resources in understanding the trade-offs and helping you write code that's as efficient and understandable as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (2), [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (7), make (4), find (2)
 > **Analogies:** for instance (3), just like (2)
 > **Definitions:** known as (1), is called (1), short for (1), is a  (1)
@@ -1841,8 +1812,7 @@ created: 2026-05-02
 > **URLs:** [pep8.org](https://pep8.org) (1)
 > **Speakers:** - when (1)
 
-#### Writing pseudocode
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/writing-pseudocode-22199009?u=76281980)
+#### [Writing pseudocode](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/writing-pseudocode-22199009?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1894,7 +1864,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** for instance (1), picture (1), it's like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1906,8 +1875,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to input and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980)
+#### [Introduction to input and output](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,7 +1897,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980&t=62)** In programming, we talk about this flow of data as input and output, or IO for short.
 >
-> **[1:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980&t=68)** Input can take many different forms, depending on the program.
+> **[1:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980&t=68)** Input can take many different [[Forms]], depending on the program.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-input-and-output-22199012?u=76281980&t=72)** For instance, a program that plays music can take a stream of digitally encoded music coming from an online source as its input.
 >
@@ -1955,21 +1923,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Programming]] (3), traffic (2), [[Forms]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - i (1)
 
-#### Working with file input and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980)
+#### [Working with file input and output](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=0)** - Data input and output can take a number of forms.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=0)** - Data input and output can take a number of [[Forms]].
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=3)** At its most basic, a program can simply prompt a user to enter data and then work with the user's response.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=10)** In Python, you can collect user info at the command line using the input method, which pauses your program and gives the user the opportunity to type a response.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=10)** In [[Python (Programming Language)|Python]], you can collect user info at the command line using the input method, which pauses your program and gives the user the opportunity to type a response.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=19)** When the user presses enter, the program resumes and it can then incorporate the user's response into any processing and output.
 >
@@ -1977,7 +1944,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=31)** In these situations, your program can access other methods of input, like opening a file from your computer.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=37)** For instance, to use a word processing program, like Microsoft Word or Google Docs, you often start by opening an existing file that you've saved on your computer or in the cloud.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=37)** For instance, to use a [[Microsoft Word|word]] processing program, like [[Microsoft Word]] or [[Google]] Docs, you often start by opening an existing file that you've saved on your computer or in the cloud.
 >
 > **[0:47](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/working-with-file-input-and-output-22198025?u=76281980&t=47)** When the processing is done, your program can write the results back to the same file or to another file.
 >
@@ -2065,7 +2032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), [[Microsoft Word|Word]] (2), [[Search]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2), [[Forms]] (1), [[Microsoft Word]] (1), [[Google]] (1)
 > **File Paths:** values.txt (5), values-total.txt (5), add-values.py (1)
 > **CLI Commands:** python (7)
 > **Tools:** terminal (3), command line (2)
@@ -2079,8 +2046,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980)
+#### [Introduction to debugging](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,9 +2080,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=67)** A program has a syntax error when it includes code that doesn't match the rules of the language.
 >
-> **[1:13](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=73)** For instance, if I wrote a conditional in Python without including after the if statement, my code wouldn't execute because the Python interpreter wouldn't be able to identify the end of that particular statement.
+> **[1:13](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=73)** For instance, if I wrote a conditional in [[Python (Programming Language)|Python]] without including after the if statement, my code wouldn't execute because the Python interpreter wouldn't be able to identify the end of that particular statement.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=85)** It's the same thing if I misspell a word like if I say P-I-R-N-T instead of print.
+> **[1:25](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=85)** It's the same thing if I misspell a [[Microsoft Word|word]] like if I say P-I-R-N-T instead of print.
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-debugging-22199011?u=76281980&t=91)** Sometimes your code can comply with all the rules of the language, but still not execute successfully.
 >
@@ -2150,15 +2116,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[Programming]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** known as (3), is a  (1)
 > **Analogies:** for instance (3), just like (1)
 > **CLI Commands:** python (2), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 
-#### Debugging code in an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980)
+#### [Debugging code in an IDE](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2172,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980&t=28)** What makes an IDE special is that when it's properly configured for the language you're coding in, it can not only catch bugs, but it can help you avoid creating some of them in the first place.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980&t=41)** I'm using Visual Studio Code as my IDE, and I've installed an extension for Python syntax support.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980&t=41)** I'm using Visual Studio Code as my IDE, and I've installed an extension for [[Python (Programming Language)|Python]] syntax support.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-code-in-an-ide-22196019?u=76281980&t=48)** This means that whenever I open or type code in a Python file, the editor does a few things.
 >
@@ -2234,7 +2199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (3), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** ide (7)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** known as (3), means that (1)
@@ -2243,8 +2208,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - when (1)
 
-#### Interpreting error messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/interpreting-error-messages-22193988?u=76281980)
+#### [Interpreting error messages](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/interpreting-error-messages-22193988?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2316,7 +2280,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Debugging]] (1)
 > **Tools:** terminal (6)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** compare.py (1)
@@ -2324,8 +2287,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
-#### Debugging without error messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-without-error-messages-22195695?u=76281980)
+#### [Debugging without error messages](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/debugging-without-error-messages-22195695?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,7 +2339,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Tools:** terminal (3)
 > **File Paths:** count.py (1)
 > **CLI Commands:** make (1)
@@ -2385,8 +2346,7 @@ created: 2026-05-02
 > **Speakers:** - sometimes (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Creating a test case
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980)
+#### [Creating a test case](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2418,7 +2378,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=100)** That way, I can verify that values in those three different ranges each produce the results I expect.
 >
-> **[1:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=106)** When you're working on a larger program, it's common to use an entirely separate application for testing your program, but we can create basic test cases within our Python file just by calling this function with specific values.
+> **[1:46](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=106)** When you're working on a larger program, it's common to use an entirely separate application for testing your program, but we can create basic test cases within our [[Python (Programming Language)|Python]] file just by calling this function with specific values.
 >
 > **[2:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=120)** So I'll write some statements to call check_temp, first with a value of 10, and I'll call it again with a value of 30.
 >
@@ -2460,11 +2420,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=222)** Test cases can be challenging to write, and personally, when I have an exciting new feature that I want to create, building test cases can feel like a much less interesting task.
 >
-> **[3:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=231)** But test cases are a really useful tool to ensure consistent results from your app and the best possible user experience.
+> **[3:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-a-test-case-22199015?u=76281980&t=231)** But test cases are a really useful tool to ensure consistent results from your app and the best possible [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Python (Programming Language)|Python]] (1), feature (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1), python (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** forecast.py (1)
@@ -2472,8 +2432,7 @@ created: 2026-05-02
 > **Speakers:** - i (1)
 > **Non-Speech:** (alarm beeping) (1)
 
-#### Challenge: Debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980)
+#### [Challenge: Debugging](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,7 +2440,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980&t=6)** - Ready for another challenge?
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980&t=8)** Now that you're familiar with the basics of debugging, try your hand at finding and fixing basic errors in some Python code.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980&t=8)** Now that you're familiar with the basics of debugging, try your hand at finding and fixing basic errors in some [[Python (Programming Language)|Python]] code.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/challenge-debugging-22196020?u=76281980&t=15)** The start file for this video is supposed to recommend a house plant based on the level of care the user can give: low, medium, or high but when I run it, I can see that it's not working.
 >
@@ -2509,7 +2468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Env Vars:** ide (1)
@@ -2517,8 +2476,7 @@ created: 2026-05-02
 > **Speakers:** - ready (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980)
+#### [Solution: Debugging](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2528,7 +2486,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980&t=13)** If so, that's totally normal.
 >
-> **[0:15](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980&t=15)** Understanding and working with programming concepts takes practice.
+> **[0:15](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980&t=15)** Understanding and working with [[Programming Concepts]] takes practice.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/solution-debugging-22197019?u=76281980&t=19)** In fact, even experienced developers run into errors they can't easily fix.
 >
@@ -2584,7 +2542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), [[Programming]] (2), next (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (1)
 > **Tools:** terminal (4)
 > **Code Identifiers:** plant_recommendation (1), plant_rec (1)
 > **Definitions:** is a  (2)
@@ -2598,8 +2556,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980)
+#### [Introduction to object-oriented programming](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2667,11 +2624,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980&t=188)** For instance perhaps the work to-do list object would add support for an additional method like marking a list item as billable.
 >
-> **[3:16](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980&t=196)** Although a Python program is not required to use classes and objects, using these features can make complex code easier to work with and maintain, which is something we all strive for as developers.
+> **[3:16](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-object-oriented-programming-22193991?u=76281980&t=196)** Although a [[Python (Programming Language)|Python]] program is not required to use classes and objects, using these features can make complex code easier to work with and maintain, which is something we all strive for as developers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), data (2), oop (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), find (1), python (1)
 > **Analogies:** for instance (2), such as (1)
 > **Definitions:** known as (2)
@@ -2679,14 +2636,13 @@ created: 2026-05-02
 > **Env Vars:** oop (1)
 > **Speakers:** - i (1)
 
-#### Using built-in classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980)
+#### [Using built-in classes](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980&t=0)** - Object-oriented languages often make use of classes and objects in the basic syntax of the language itself.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980&t=6)** Python is one of many languages that does this.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980&t=6)** [[Python (Programming Language)|Python]] is one of many languages that does this.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/using-built-in-classes-22197020?u=76281980&t=9)** In fact, you've made use of classes and objects in the basic Python code that you've already written in this course.
 >
@@ -2728,14 +2684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (2), find (1)
 > **Analogies:** for instance (3)
 > **File Paths:** list.py (1)
 > **Speakers:** - object (1)
 
-#### Creating custom classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980)
+#### [Creating custom classes and objects](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2757,7 +2712,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=51)** And then, you're free to customize the resulting objects as much as you need, like decorating cookies cut from the same cutter.
 >
-> **[0:58](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=58)** The start file for this video contains Python code to create and use a class.
+> **[0:58](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=58)** The start file for this video contains [[Python (Programming Language)|Python]] code to create and use a class.
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=64)** In Python, as in a lot of programming languages that support classes, you create a class with the keyword class.
 >
@@ -2831,15 +2786,15 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=275)** I learned a lot from those projects, but I didn't need to worry so much about code organization.
 >
-> **[4:40](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=280)** As I started building bigger projects and my code started feeling needlessly complex, I returned to object-oriented programming, and suddenly, it made a lot more sense.
+> **[4:40](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=280)** As I started building bigger projects and my code started feeling needlessly complex, I returned to [[Object-Oriented Programming (OOP)|object-oriented programming]], and suddenly, it made a lot more sense.
 >
 > **[4:50](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=290)** So this is one of those concepts that I suggest you file away until you need it.
 >
-> **[4:54](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=294)** And when you're ready, we have a bunch of courses on object-oriented programming in the LinkedIn Learning library that can help you take the next step.
+> **[4:54](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/creating-custom-classes-and-objects-22197021?u=76281980&t=294)** And when you're ready, we have a bunch of courses on object-oriented programming in the [[LinkedIn]] Learning library that can help you take the next step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1)
 > **Code Identifiers:** displayattendee (5), addticket (4)
 > **CLI Commands:** python (2)
 > **Tools:** terminal (1)
@@ -2852,12 +2807,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced topics in programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980)
+#### [Advanced topics in programming](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980&t=0)** - We're almost at the finish line on Programming Foundations Beyond the Fundamentals but there are a few more things you might want to know.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980&t=0)** - We're almost at the finish line on [[Programming Foundations]] Beyond the Fundamentals but there are a few more things you might want to know.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/advanced-topics-in-programming-22191964?u=76281980&t=8)** Programming encompasses a huge set of concepts and practices.
 >
@@ -2869,12 +2823,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming Foundations]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Programming Foundations]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Memory management across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980)
+#### [Memory management across languages](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2912,7 +2865,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=140)** Some languages allow programmers to write code that decides what's kept in memory and what's thrown away.
 >
-> **[2:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=146)** This process is known as memory management.
+> **[2:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=146)** This process is known as [[Memory Management]].
 >
 > **[2:28](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=148)** Writing this code can be tricky, and if it's done wrong, it can create what's called a memory leak, where the amount of memory used by a program continues to grow unnecessarily.
 >
@@ -2930,19 +2883,18 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=198)** It's done for me automatically.
 >
-> **[3:21](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=201)** Many commonly used languages like Python, JavaScript and Ruby support garbage collection.
+> **[3:21](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=201)** Many commonly used languages like [[Python (Programming Language)|Python]], [[JavaScript]] and Ruby support garbage collection.
 >
 > **[3:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/memory-management-across-languages-22191961?u=76281980&t=206)** As a result, you're able to create programs in these languages and many others without needing to think about actively managing computer memory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (4), next (2), data (2), game (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (4), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Definitions:** is an  (2), known as (2)
 > **CLI Commands:** python (1), ruby (1)
 > **Speakers:** - when (1)
 
-#### Introduction to multithreading
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980)
+#### [Introduction to multithreading](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2976,9 +2928,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=81)** Consuming too much processor power or computer memory can slow the entire computer system, which cancels out any increase in responsiveness from splitting code into multiple threads.
 >
-> **[1:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=91)** Many languages including Python support multi-threading.
+> **[1:31](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=91)** Many languages including [[Python (Programming Language)|Python]] support multi-threading.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=95)** You may hear the term asynchronous code in relation to other languages like JavaScript.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=95)** You may hear the term asynchronous code in relation to other languages like [[JavaScript]].
 >
 > **[1:41](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading-22191966?u=76281980&t=101)** It's not exactly the same as multi-threading, but it's very similar.
 >
@@ -2988,13 +2940,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** known as (2)
 > **Speakers:** - i (1)
 
-#### Introduction to algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980)
+#### [Introduction to algorithms](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3012,7 +2963,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980&t=48)** That set of instructions is referred to in computer science as an algorithm.
 >
-> **[0:52](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980&t=52)** We use algorithms all the time in daily life, although we usually don't call them that.
+> **[0:52](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980&t=52)** We use [[Algorithms]] all the time in daily life, although we usually don't call them that.
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-algorithms-22196018?u=76281980&t=57)** For instance, these days I love coffee, and I make it almost every day.
 >
@@ -3070,7 +3021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Algorithms]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -3087,20 +3038,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your programming quest
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980)
+#### [Continuing your programming quest](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=0)** - Congratulations, you've taken another step in your programming journey and moved beyond the fundamentals.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=6)** You've worked with even more common programming tools, like collections and iteration, you've learned about some common tasks that programmers have to do, like planning a program and debugging and you've dug a little deeper into some of the differences between widely used programming languages, like support for object orientation, memory management, and multi-threading.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=6)** You've worked with even more common programming tools, like collections and iteration, you've learned about some common tasks that programmers have to do, like planning a program and debugging and you've dug a little deeper into some of the differences between widely used programming languages, like support for object orientation, [[Memory Management]], and multi-threading.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=26)** There's a whole world of programming in front of you and it can be easy to get overwhelmed.
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=30)** My advice is to first pick a programming language and then keep coding.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=35)** You may choose to continue with Python, which I've used in this course, or if another language appeals to you instead, great.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=35)** You may choose to continue with [[Python (Programming Language)|Python]], which I've used in this course, or if another language appeals to you instead, great.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=42)** But whichever language you choose, keep writing programs.
 >
@@ -3112,7 +3062,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=61)** It can also be really helpful to connect with other developers who use the same programming language, that may be at an in-person meetup group or in an online community that's focused on that language.
 >
-> **[1:12](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=72)** Also, check out other courses in the Programming Foundation Series here in the LinkedIn Learning Library.
+> **[1:12](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=72)** Also, check out other courses in the Programming Foundation Series here in the [[LinkedIn]] Learning Library.
 >
 > **[1:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/continuing-your-programming-quest-22193990?u=76281980&t=78)** I had a great time creating this course and I hope you enjoyed working through it.
 >
@@ -3122,7 +3072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Debugging]] (1), [[Memory Management]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1), make (1), go build (1)
 > **Speakers:** - congratulations (1)
 

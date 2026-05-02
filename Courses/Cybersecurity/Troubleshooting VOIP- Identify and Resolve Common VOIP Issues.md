@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensuring seamless communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
+#### [Ensuring seamless communication](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,12 +90,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Troubleshooting]] (1), dns (1), management (1), next (1)
 > **Env Vars:** dns (1), dhcp (1)
 > **Speakers:** - voice (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognizing key VoIP protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
+#### [Recognizing key VoIP protocols](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980&t=60)** Session description protocol is used with SIP to negotiate media capabilities during session setup and defining media types such as audio or video, the codex, along with the transport protocols.
 >
-> **[1:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980&t=77)** To handle the transmission of audio and video streams, VoIP uses real-time transport protocol.
+> **[1:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980&t=77)** To handle the transmission of audio and video streams, VoIP uses [[Real-Time]] transport protocol.
 >
 > **[1:25](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980&t=85)** RTP works with RTP control protocol to provide quality of service feedback, including jitter, packet loss, and latency metrics that can affect call quality.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), management (1), [[Security]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** sip (9), rtp (6), tcp (2), udp (1)
 > **Analogies:** such as (5), similar to (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -232,8 +228,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
-#### Navigating NAT settings for VoIP
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980)
+#### [Navigating NAT settings for VoIP](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980&t=84)** Let's take a look.
 >
-> **[1:28](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980&t=88)** We're going to take a look at a couple of SIP headers in Wireshark, and then we'll compare the two separate files.
+> **[1:28](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980&t=88)** We're going to take a look at a couple of SIP headers in [[Wireshark]], and then we'll compare the two separate files.
 >
 > **[1:36](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/navigating-nat-settings-for-voip?u=76281980&t=96)** If you'd like to follow along, you'll go first to this page, and then you'll download this file by going to "Export, Download File," and then I usually download the original file, and then you can open it in Wireshark.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** nat (21), sip (10), stun (7), turn (6), ice (5)
 > **Analogies:** such as (5)
 > **UI Navigation:** go to (2), double-click (1), scroll down (1)
@@ -342,12 +337,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 
-#### Monitoring VoIP health with SNMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980)
+#### [Monitoring VoIP health with SNMP](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=0)** - [Instructor] Simple Network Management Protocol can collect information about the health of network devices, along with critical VoIP performance metrics.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=0)** - [Instructor] Simple Network Management Protocol can collect information about the health of network devices, along with critical VoIP [[Performance Metrics]].
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=10)** In this segment, we'll explore how Simple Network Management Protocol can monitor key VoIP issues, including codecs, bandwidth, and quality of service.
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=115)** Now, devices such as IP phones, VoIP gateways, and session border controllers expose codec-related metrics via SNMP management information bases.
 >
-> **[2:08](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=128)** And SMMP query to these devices can provide statistics on codec selection, success rates, and negotiation failures.
+> **[2:08](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=128)** And SMMP query to these devices can provide [[Statistics]] on codec selection, success rates, and negotiation failures.
 >
 > **[2:20](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=140)** We also can monitor bandwidth utilization.
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=219)** Now, we know we are going to have some packet loss, but percentage of lost packets should be less than 1%.
 >
-> **[3:49](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=229)** In addition to real-time monitoring, historical reporting enables SNMP data to be stored and analyzed over time, and this allows administrators to identify performance trends and then plan for future capacity needs.
+> **[3:49](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=229)** In addition to [[Real-Time]] monitoring, historical reporting enables SNMP data to be stored and analyzed over time, and this allows administrators to identify performance trends and then plan for future capacity needs.
 >
 > **[4:08](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/monitoring-voip-health-with-snmp?u=76281980&t=248)** Since most VoIP devices and network equipment support SNMP, this approach can be applied across various network infrastructures.
 >
@@ -429,15 +423,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), traffic (3), data (2), [[Performance Metrics]] (1), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Statistics]] (1), [[Real-Time]] (1)
 > **Env Vars:** snmp (13), set (1), smmp (1), rtp (1), pbx (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **API Endpoints:** get  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring security and authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980)
+#### [Ensuring security and authentication](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980&t=24)** First, let's talk about why we use certificates when using VoIP.
 >
-> **[0:30](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980&t=30)** Media is commonly encrypted using secure real-time transport protocol, or we can use Datagram Transport Layer Security with secure real-time transport protocol.
+> **[0:30](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980&t=30)** Media is commonly encrypted using secure [[Real-Time]] transport protocol, or we can use Datagram Transport Layer Security with secure real-time transport protocol.
 >
 > **[0:45](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-security-and-authentication?u=76281980&t=45)** Now, when this is used to secure media, Datagram Transport Layer Security uses a certificate to securely exchange encryption keys.
 >
@@ -485,15 +478,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Real-Time]] (2), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2)
 > **Env Vars:** stir (8), shaken (8), sip (4), rtp (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resolving infrastructure misconfigurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980)
+#### [Resolving infrastructure misconfigurations](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980&t=65)** Outbound calls may fail if the SIP trunk provider requires specific caller ID formats or authentication methods.
 >
-> **[1:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980&t=75)** Additionally, no incoming calls may occur if the provider is not routing inbound calls to the correct SIP URI or PBX extension.
+> **[1:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980&t=75)** Additionally, no incoming calls may occur if the provider is not [[Routing]] inbound calls to the correct SIP URI or PBX extension.
 >
 > **[1:28](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-infrastructure-misconfigurations?u=76281980&t=88)** To troubleshoot these issues, check the SIP trunk status, verify SIP credentials, and inspect SIP INVITE messages to ensure that the endpoints agree on compatible codex and configurations.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), [[Troubleshooting]] (2), [[Security]] (1), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Env Vars:** sip (18), nat (4), uri (1), pbx (1), invite (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
@@ -552,8 +544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tuning network devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
+#### [Tuning network devices](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +564,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=62)** Enable Link Layer Discovery Protocol for media endpoint devices to detect and prioritize VoIP endpoints automatically.
 >
-> **[1:13](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=73)** You should also optimize routing paths by reducing the number of hops between endpoints.
+> **[1:13](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=73)** You should also optimize [[Routing]] paths by reducing the number of hops between endpoints.
 >
 > **[1:21](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=81)** And configure the maximum transmission unit to avoid fragmenting VoIP traffic.
 >
@@ -589,7 +580,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=127)** For example, G.711 uses around 87 kilobits per call.
 >
-> **[2:14](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=134)** And use bandwidth reservation protocols such as Multi-Protocol Label Switching Traffic Engineering and Resource Reservation Protocol to ensure sufficient bandwidth for VoIP and prevent congestion.
+> **[2:14](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=134)** And use bandwidth reservation protocols such as Multi-Protocol Label Switching [[Traffic Engineering]] and Resource Reservation Protocol to ensure sufficient bandwidth for VoIP and prevent congestion.
 >
 > **[2:30](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=150)** Finally, let's discuss the reasons why we need to control the traffic flow using methods such as traffic shaping or rate limiting.
 >
@@ -599,7 +590,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=170)** For example, traffic can become bursty and disrupt normal flow, and this happens when traffic reaches a device such as a switch or router and the buffers may become full or overwhelmed by the burst resulting in output drops that lead to packet loss and network instability.
 >
-> **[3:13](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=193)** To demonstrate this, I'd like to show you an example of bursty multicast traffic in Wireshark.
+> **[3:13](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=193)** To demonstrate this, I'd like to show you an example of bursty multicast traffic in [[Wireshark]].
 >
 > **[3:19](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=199)** Let's take a look.
 >
@@ -609,7 +600,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=213)** And then, you'll want to extract it and open it in Wireshark.
 >
-> **[3:39](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=219)** Now, once in Wireshark, we'll go to Statistics and UDP Multicast Streams.
+> **[3:39](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=219)** Now, once in Wireshark, we'll go to [[Statistics]] and UDP Multicast Streams.
 >
 > **[3:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=226)** And then, we'll open it up.
 >
@@ -657,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (19), [[Wireshark]] (4), [[Statistics]] (2), next (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Statistics]] (2), [[Routing]] (1), [[Traffic Engineering]] (1)
 > **Analogies:** such as (3), for example (2)
 > **UI Navigation:** go to (2), right-click (1), double-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -665,8 +656,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - when (1)
 
-#### Ensuring quality of service (QoS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-quality-of-service-qos?u=76281980)
+#### [Ensuring quality of service (QoS)](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-quality-of-service-qos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,15 +756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (15), next (3), lan (1), [[Troubleshooting]] (1), data (1)
 > **Env Vars:** dscp (6), lan (1), wan (1), red (1)
 > **Versions:** version 4 (3), version 6 (2)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing DNS services
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980)
+#### [Optimizing DNS services](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +770,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=9)** In this segment, we'll explore ways to optimize DNS to improve VoIP performance.
 >
-> **[0:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=17)** First, let's review the purpose of domain name system and why it's a critical component of any network.
+> **[0:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=17)** First, let's review the purpose of [[Domain Name System (DNS)|domain name system]] and why it's a critical component of any network.
 >
 > **[0:26](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=26)** DNS resolves domain names into IP addresses.
 >
@@ -798,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=80)** Now, you'll want to make sure that the local servers forward unresolved queries to reliable upstream DNS providers, which can also be a trusted public DNS service.
 >
-> **[1:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=93)** Trusted DNS providers include Google Public DNS, CloudFlare, and OpenDNS.
+> **[1:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=93)** Trusted DNS providers include [[Google]] Public DNS, CloudFlare, and OpenDNS.
 >
 > **[1:44](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=104)** Provide redundant DNS servers and configure both primary and secondary DNS servers in all VoIP devices to ensure fallback during failures.
 >
@@ -822,7 +810,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=195)** There's also A and AAAA records, and those will resolve domain names to an IP address so the VoIP devices can connect to SIP servers.
 >
-> **[3:27](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=207)** NAPTR records are less common, but can be used for advanced SIP routing.
+> **[3:27](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=207)** NAPTR records are less common, but can be used for advanced SIP [[Routing]].
 >
 > **[3:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/optimizing-dns-services?u=76281980&t=213)** TXT records store text in DNS.
 >
@@ -848,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (26), [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1), [[Routing]] (1)
 > **Env Vars:** dns (26), sip (4), aaaa (1), naptr (1), txt (1)
 > **Analogies:** for example (3), such as (2)
 > **Prerequisites:** setup (2), configure (1)
@@ -857,8 +845,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preventing DNS configuration issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980)
+#### [Preventing DNS configuration issues](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=34)** Let's explore this concept.
 >
-> **[0:37](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=37)** VoIP services rely on fully qualified domain names, such as those used for SIP trunks or external PBX connections, to establish reliable communication and call routing.
+> **[0:37](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=37)** VoIP services rely on fully qualified domain names, such as those used for SIP trunks or external PBX connections, to establish reliable communication and call [[Routing]].
 >
 > **[0:51](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=51)** For example, a SIP request to sip.[provider.com](https://provider.com) will fail if the DNS lookup is unsuccessful.
 >
@@ -880,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=70)** To resolve this, verify the primary and secondary DNS server settings on VoIP devices.
 >
-> **[1:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=77)** Use reliable DNS servers, such as Google Public DNS or CloudFlare.
+> **[1:17](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=77)** Use reliable DNS servers, such as [[Google]] Public DNS or CloudFlare.
 >
 > **[1:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=84)** In addition, you can manually configure or hardcode the SIP server IP address in the VoIP device settings as a fallback if DNS resolution fails.
 >
@@ -920,7 +907,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=275)** Protect DNS servers from DDoS attacks by implementing rate limiting and DNS query filtering to block abusive traffic.
 >
-> **[4:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=286)** Use secure recursive resolvers that restrict access to trusted sources, and work with DNS providers that offer geographic load balancing, such as CloudFlare or Amazon Web Services Route 53.
+> **[4:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=286)** Use secure recursive resolvers that restrict access to trusted sources, and work with DNS providers that offer geographic load balancing, such as CloudFlare or [[Amazon Web Services (AWS)|Amazon Web Services]] Route 53.
 >
 > **[5:04](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-dns-configuration-issues?u=76281980&t=304)** Now, let's test your knowledge.
 >
@@ -930,7 +917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (29), [[Routing]] (2), [[Google]] (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Google]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** dns (29), sip (5), pbx (1), naptr (1)
 > **Analogies:** such as (5), for example (3)
 > **Prerequisites:** configure (2), setup (2), set up (1)
@@ -943,8 +930,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing DHCP servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
+#### [Managing DHCP servers](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=9)** In this segment, we'll summarize ways to manage servers to optimize VoIP performance.
 >
-> **[0:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=15)** A DHCP server must be properly configured to effectively allocate IP addressing.
+> **[0:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=15)** A DHCP server must be properly configured to effectively allocate [[IP Addressing]].
 >
 > **[0:23](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=23)** In small to medium-sized networks, a single DHCP server can efficiently manage IP address allocation and use relay agents to serve multiple subnets.
 >
@@ -968,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=86)** Configure the redundant servers with identical scope and option configurations to avoid conflicts during failover.
 >
-> **[1:35](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=95)** And synchronize DHCP databases between primary and failover servers to ensure that they have the same IP address pool and lease information.
+> **[1:35](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=95)** And synchronize DHCP [[Databases]] between primary and failover servers to ensure that they have the same IP address pool and lease information.
 >
 > **[1:48](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=108)** Another best practice is to prevent rogue DHCP servers.
 >
@@ -1004,19 +990,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), management (2), [[IP Addressing]] (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (16)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1), it's best to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - a (1)
 
-#### Provisioning DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980)
+#### [Provisioning DHCP](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=0)** - [Instructor] DHCP automatically assigns IP addresses along with other information, such as the default gateway and DNS servers on a local area network.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=0)** - [Instructor] DHCP automatically assigns IP addresses along with other information, such as the default gateway and DNS servers on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=12)** In this segment, we'll outline best practices to ensure proper DHCP provisioning.
 >
@@ -1032,7 +1017,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=61)** So next, let's talk about proper DHCP provisioning on a local area network.
 >
-> **[1:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=69)** Just like in any situation, you should carefully plan the IP addressing scheme.
+> **[1:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=69)** Just like in any situation, you should carefully plan the [[IP Addressing]] scheme.
 >
 > **[1:15](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=75)** You'll want to make sure that the DHCP address pool is sufficient to accommodate all network devices.
 >
@@ -1088,15 +1073,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), traffic (4), [[Local Area Network (LAN)|Local area network]] (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[IP Addressing]] (1)
 > **Env Vars:** dhcp (24), dns (5), mac (1), vlan (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Mitigating 66/150 errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980)
+#### [Mitigating 66/150 errors](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1112,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=144)** Keep track of any updates to the configuration servers, IP address, or host name.
 >
-> **[2:32](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=152)** When you define option 66 and 150 in the DHCP server configuration, make sure that the values match the actual IP address or host name of the TFTP server to avoid any connectivity issues.
+> **[2:32](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=152)** When you define option 66 and 150 in the DHCP [[Server Configuration]], make sure that the values match the actual IP address or host name of the TFTP server to avoid any connectivity issues.
 >
 > **[2:49](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=169)** Now, if specific devices or groups of devices require different TFTP servers, you can use DHCP reservations or custom classes to assign the appropriate options to specific devices or groups.
 >
@@ -1136,7 +1120,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=192)** You'll want to enable DHCP snooping on switches to block unauthorized servers from assigning IP addresses or providing incorrect configuration options.
 >
-> **[3:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=204)** Use monitoring tools like Wireshark or check the server logs to detect rogue or conflicting DHCP servers on the network.
+> **[3:24](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=204)** Use monitoring tools like [[Wireshark]] or check the server logs to detect rogue or conflicting DHCP servers on the network.
 >
 > **[3:34](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=214)** Now let's review some good practice to keep the lines of communication open.
 >
@@ -1144,7 +1128,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=229)** Inspect the leases to verify that devices are receiving the correct configuration options and test multiple devices on different subnets to ensure consistent configuration.
 >
-> **[4:03](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=243)** You can also check the lease table using console tools such as DH client on a Linux device for a Cisco device show, IP DHCP binding, and on a Windows device IP config all.
+> **[4:03](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=243)** You can also check the lease table using console tools such as DH client on a [[Linux]] device for a Cisco device show, IP DHCP binding, and on a [[Windows]] device IP config all.
 >
 > **[4:20](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=260)** Additionally, you can test connectivity by pinging the assigned TFTP server IP or host name.
 >
@@ -1182,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), next (1), [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** dhcp (17), tftp (7), dhc (1), url (1), hcp (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1196,8 +1180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resolving SIP registration issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
+#### [Resolving SIP registration issues](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980&t=121)** Now, to prevent this, you'll need to double check their credentials provided by the SIP provider or VoIP administrator.
 >
-> **[2:10](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980&t=130)** So now let's take a look at an example of an exchange between a client and server in Wireshark.
+> **[2:10](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980&t=130)** So now let's take a look at an example of an exchange between a client and server in [[Wireshark]].
 >
 > **[2:18](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980&t=138)** If you'd like to follow along, you can find the link to this site in the Challenges and Links document.
 >
@@ -1295,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), next (2), [[Wireshark]] (2), dns (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **Env Vars:** sip (27), nat (4), rtp (2), pbx (1), stun (1)
 > **Analogies:** such as (5), for example (1)
 > **Prerequisites:** configure (2), you'll need (1), setup (1)
@@ -1303,12 +1286,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - when (1)
 
-#### Preventing setup and routing challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980)
+#### [Preventing setup and routing challenges](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=0)** - [Narrator] Efficient call setup and routing are essential for seamless VoIP communications.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=0)** - [Narrator] Efficient call setup and [[Routing]] are essential for seamless VoIP communications.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=6)** In this segment, we'll summarize common SIP issues, such as setup delays, transfer failures, and dropped calls, along with effective mitigation strategies.
 >
@@ -1328,7 +1310,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=79)** As far as prevention strategies, you'll want to configure efficient SIP routes and reduce the number of hops between the endpoints.
 >
-> **[1:28](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=88)** Enable DNS caching on devices to minimize DNS lookup delays for the SIP servers, and upgrade your infrastructure to ensure that your SIP servers and network hardware can handle the expected traffic load.
+> **[1:28](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=88)** Enable DNS caching on devices to minimize DNS lookup delays for the SIP servers, and upgrade your infrastructure to ensure that your SIP servers and network [[Hardware]] can handle the expected traffic load.
 >
 > **[1:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=106)** Call transfer problems can also occur, leading to drop calls, or routed to the wrong recipient.
 >
@@ -1360,7 +1342,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=261)** For example, to route a 10-digit long distance call to the provider, we would use this number, 91, followed by the Xs, where X is the wildcard that can be used for any digit.
 >
-> **[4:36](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=276)** Best practice includes using tools such as Wireshark, SIP trace utilities, and VoIP monitoring software to identify and resolve issues proactively, and also keep devices and software up-to-date with the latest patches and configurations.
+> **[4:36](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=276)** Best practice includes using tools such as [[Wireshark]], SIP trace utilities, and VoIP monitoring software to identify and resolve issues proactively, and also keep devices and software up-to-date with the latest patches and configurations.
 >
 > **[4:57](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/preventing-setup-and-routing-challenges?u=76281980&t=297)** Now, let's test your knowledge.
 >
@@ -1372,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), traffic (3), dns (3), data (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Hardware]] (1), [[Wireshark]] (1)
 > **Env Vars:** sip (17), nat (4), dns (3), rtp (3), refer (1)
 > **Prerequisites:** setup (6), configure (4)
 > **Analogies:** such as (4), for example (1)
@@ -1380,8 +1362,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using a SIP proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980)
+#### [Using a SIP proxy](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1374,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=21)** First, let's talk about some of the functions a proxy can handle.
 >
-> **[0:27](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=27)** Large VoIP providers, telecom companies, and cloud-based VoIP services use SIP proxies such as the dSIPRouter to manage call routing, SIP request handling, load balancing, and failover management across multiple servers.
+> **[0:27](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=27)** Large VoIP providers, telecom companies, and cloud-based VoIP services use SIP proxies such as the dSIPRouter to manage call [[Routing]], SIP request handling, load balancing, and failover management across multiple servers.
 >
 > **[0:45](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=45)** Now SIP proxy servers are not necessary for small businesses using a hosted VoIP provider, since the provider handles the SIP traffic routing.
 >
@@ -1417,13 +1398,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=134)** Another protocol that can be impacted is RTP traffic.
 >
-> **[2:18](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=138)** Real-time Transport Protocol carries voice data over UDP, which most SIP proxies do not efficiently handle.
+> **[2:18](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=138)** [[Real-Time]] Transport Protocol carries voice data over UDP, which most SIP proxies do not efficiently handle.
 >
 > **[2:27](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=147)** Instead, VoIP systems often bypass the proxy for RTP traffic, establishing a direct media stream between endpoints for better performance.
 >
 > **[2:40](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=160)** Let's take a look at a couple of examples where a proxy could be affecting SIP traffic.
 >
-> **[2:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=166)** If you'd like to follow along, go to this website and you're going to select "Raw," and then you'll download it and open it in Wireshark.
+> **[2:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=166)** If you'd like to follow along, go to this website and you're going to select "Raw," and then you'll download it and open it in [[Wireshark]].
 >
 > **[2:55](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/using-a-sip-proxy?u=76281980&t=175)** Now the links for this site are in the Challenges and Links document.
 >
@@ -1463,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Routing]] (6), [[Security]] (2), [[Troubleshooting]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Real-Time]] (1), [[Wireshark]] (1)
 > **Env Vars:** sip (29), nat (5), rtp (3), invite (3), subscribe (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** make (1)
@@ -1472,8 +1453,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying SIP communication issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980)
+#### [Identifying SIP communication issues](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,9 +1503,9 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=168)** SIP headers carry key call details like source, destination, and media negotiation.
 >
-> **[2:55](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=175)** Unexpected header modifications by devices can disrupt call setup, routing, and media delivery.
+> **[2:55](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=175)** Unexpected header modifications by devices can disrupt call setup, [[Routing]], and media delivery.
 >
-> **[3:03](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=183)** To prevent these issues, use diagnostic tools like Wireshark or SIP Debuggers to evaluate the SIP invite and response messages.
+> **[3:03](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=183)** To prevent these issues, use diagnostic tools like [[Wireshark]] or SIP Debuggers to evaluate the SIP invite and response messages.
 >
 > **[3:13](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/identifying-sip-communication-issues?u=76281980&t=193)** Now, one thing you can do is work with your VoIP provider and make sure that they're handling the headers correctly, especially for critical features like Caller ID and E911.
 >
@@ -1551,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1), [[Routing]] (1), [[Wireshark]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Wireshark]] (1)
 > **Env Vars:** sip (15), nat (2), pcm (1), pcmu (1), e911 (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1565,8 +1545,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What’s next
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)
+#### [What’s next](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1578,11 +1557,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=33)** I summarized ways to optimize DHCP, including managing servers, handling IP address allocation, properly provisioning VoIP-specific DHCP options, and mitigating 66/150 errors.
 >
-> **[0:50](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=50)** Finally, we outlined ways to manage common SIP issues, including registration problems, setup delays, routing errors, and SIP header manipulation.
+> **[0:50](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=50)** Finally, we outlined ways to manage common SIP issues, including registration problems, setup delays, [[Routing]] errors, and SIP header manipulation.
 >
 > **[1:01](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=61)** If you are interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[1:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=69)** If you're interested in packet analysis, check out my series, "Improve Your Wireshark Skills," and any course in the "Ethical Hacking" series will be well worth your time.
+> **[1:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=69)** If you're interested in packet analysis, check out my series, "Improve Your [[Wireshark]] Skills," and any course in the "[[Ethical Hacking]]" series will be well worth your time.
 >
 > **[1:21](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=81)** And you also might want to see what my colleague, Malcolm Shore, has for you on his homepage.
 >
@@ -1590,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), dns (1), management (1), [[Routing]] (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Wireshark]] (1), [[Ethical Hacking]] (1)
 > **Env Vars:** dhcp (2), sip (2), nat (1), dns (1)
 > **Prerequisites:** setup (2)
 > **Speakers:** - thank (1)

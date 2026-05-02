@@ -78,22 +78,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modernize IT infrastructure with Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
+#### [Modernize IT infrastructure with Microsoft 365](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=0)** - Are you at all confused about what exactly Microsoft 365 is or why you might want to use it?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=0)** - Are you at all confused about what exactly [[Microsoft 365]] is or why you might want to use it?
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=6)** Well, Microsoft 365 enables you to modernize your IT infrastructure so that your company's workforce can get their work done more efficiently, while at the same time remaining protected from both internal and external security threats.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=21)** In this course, you'll learn everything you need to get started with Microsoft 365, and once you do, you'll be able to significantly improve your user productivity and substantially reduce your IT costs.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=33)** My name is Ed Liberman, and I've been teaching people about Microsoft products since the 1990s, so please join me in this overview of Microsoft 365 and learn how implementing it can add value to your organization.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980&t=33)** My name is Ed Liberman, and I've been teaching people about [[Microsoft Products]] since the 1990s, so please join me in this overview of Microsoft 365 and learn how implementing it can add value to your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Security]] (1), [[Microsoft Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Products]] (1)
 > **Speakers:** - are (1)
 
 
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft 365?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
+#### [What is Microsoft 365?](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=0)** - So, when people start out their journey to learn about Microsoft 365, one of the very first questions that needs to be asked is, well, what exactly is Microsoft 365?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=0)** - So, when people start out their journey to learn about [[Microsoft 365]], one of the very first questions that needs to be asked is, well, what exactly is Microsoft 365?
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=14)** Right?
 >
@@ -116,11 +114,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=17)** Well, before we get into that I'm going to tell you that there's a second question that you may be asking because I know many others who are just getting into this have asked.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=27)** And that is wanting to know the difference between this thing called Office 365 and Microsoft 365.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=27)** And that is wanting to know the difference between this thing called [[Microsoft Office|Office]] 365 and Microsoft 365.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=35)** Like, what is the difference?
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=36)** The real reason I want to bring this up isn't just because these are two terms that are similar and people may be confused with them, but the actual definition of what these products are has actually kind of changed over time.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=36)** The real reason I want to bring this up isn't just because these are two terms that are similar and people may be confused with them, but the actual definition of what these [[Microsoft Products|products]] are has actually kind of changed over time.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=53)** So, before we really get into what is Microsoft 365, I'd like to first address the differences between Office 365 and Microsoft 365.
 >
@@ -138,11 +136,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=93)** You also want to be careful about community based versions, right?
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=97)** Cause here's the Microsoft Tech community.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=97)** Cause here's the [[Microsoft]] Tech community.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=99)** And you really want to look for an article that is straight from [microsoft.com](https://microsoft.com).
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=103)** And so, I'm going to click on this article right here where it says Microsoft Office is a part of Microsoft 365.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=103)** And so, I'm going to click on this article right here where it says [[Microsoft Office]] is a part of Microsoft 365.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=112)** And you'll notice a couple things on this particular page.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=212)** And it gives the explanation.
 >
-> **[3:34](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=214)** Microsoft 365 is designed to help you achieve more with innovative apps, intelligent cloud services, and world-class security.
+> **[3:34](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=214)** Microsoft 365 is designed to help you achieve more with innovative apps, intelligent [[Cloud Services]], and world-class security.
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=222)** Hmm, did that really answer what is Microsoft 365?
 >
@@ -244,11 +242,11 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=327)** And additionally, productivity services.
 >
-> **[5:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=330)** Along with Windows 10 enterprise.
+> **[5:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=330)** Along with [[Windows 10]] enterprise.
 >
 > **[5:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=332)** Although I will tell you that this article does need to be updated.
 >
-> **[5:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=335)** It will soon, I'm sure, say Windows 11 enterprise.
+> **[5:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=335)** It will soon, I'm sure, say [[Windows]] 11 enterprise.
 >
 > **[5:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980&t=339)** And then we also have device management and advanced security services.
 >
@@ -274,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (32), [[Microsoft Office|Office]] (10), [[Search]] (7), [[Microsoft]] (4), business (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (32), [[Microsoft Office|Office]] (10), [[Microsoft]] (4), [[Cloud Services]] (2), [[Windows 10]] (2)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **Definitions:** is a  (4), in other words (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (3)
@@ -283,12 +281,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - so (1)
 
-#### Versioning and pricing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980)
+#### [Versioning and pricing options](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=0)** - [Instructor] So, now let's take a look at some of the different version and pricing options for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=0)** - [Instructor] So, now let's take a look at some of the different version and pricing options for [[Microsoft 365]].
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=7)** To do this, the page that we're looking at on the screen right now is the what is Microsoft 365 page that we were on in the last video.
 >
@@ -326,13 +323,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=111)** Same thing with personal.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=113)** Works on PC, Mac, iPhone, iPad, Android phones and tablets.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=113)** Works on PC, Mac, iPhone, iPad, [[Android]] phones and tablets.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=117)** Same thing over on personal.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=119)** Here's another difference with family.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=121)** We have up to six terabytes of cloud storage.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=121)** We have up to six terabytes of [[Cloud Storage]].
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=124)** But the reality is, is that it's only one terabyte per person, which believe it or not, is the same as it is over on the personal side.
 >
@@ -396,7 +393,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=304)** They're not going to be on the Cloud.
 >
-> **[5:05](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=305)** And if we go to Premium we also get to add Intune and Azure Information Protection.
+> **[5:05](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=305)** And if we go to Premium we also get to add Intune and [[Microsoft Azure|Azure]] Information Protection.
 >
 > **[5:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=311)** I'm kind of ignoring this one on the right 'cause this is just the apps, okay?
 >
@@ -478,13 +475,13 @@ created: 2026-05-02
 >
 > **[9:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=556)** I'm not going to worry about how small it is specifically because we're not here really to look at the differences right now as much as just making sure that you understand where to go in the event that you are working within an educational facility and you want to be learning about the educational options.
 >
-> **[9:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=575)** But otherwise, you're going to have to go ahead and contact Microsoft Sales for Education in order to really get the pricing and learn all about the products.
+> **[9:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=575)** But otherwise, you're going to have to go ahead and contact [[Microsoft]] Sales for Education in order to really get the pricing and learn all about the [[Microsoft Products|products]].
 >
 > **[9:44](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/versioning-and-pricing-options?u=76281980&t=584)** All right, so that is how we can see all the plans and pricing options available with Microsoft 365.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), [[Microsoft 365]] (14), cloud (3), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Cloud Storage]] (2), [[Android]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (7), scroll down (5), go to (2)
 > **Definitions:** in other words (2), stands for (1)
 > **Code Identifiers:** iphone (1), ipad (1)
@@ -493,8 +490,7 @@ created: 2026-05-02
 > **Env Vars:** pdf (1)
 > **Exercise Files:** download the (1)
 
-#### Benefits of cloud vs. on-premises
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980)
+#### [Benefits of cloud vs. on-premises](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=24)** On-premises, you have to understand that because you're going to have all of your data and all of your services on premises that you're going to have large up-front expenses.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=37)** You are going to have to purchase all the servers, you're going to have to purchase all the software, and you may have to hire a significant amount of staff to manage the hardware and software depending on the size of your organization.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=37)** You are going to have to purchase all the servers, you're going to have to purchase all the software, and you may have to hire a significant amount of staff to manage the [[Hardware]] and software depending on the size of your organization.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=50)** You also have additional investments when it's time for upgrade.
 >
@@ -518,7 +514,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=65)** If something breaks, you have to pay to fix it or you have to pay to replace it because everything is owned by you.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=73)** Whereas with the cloud infrastructure, we have little to possibly no up-front costs.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=73)** Whereas with the [[Cloud Infrastructure]], we have little to possibly no up-front costs.
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=81)** All you have to do is go ahead and sign an agreement for a subscription with a cloud provider, and you're rocking and rolling.
 >
@@ -556,7 +552,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=209)** Most cloud providers offer comprehensive multi-layered security, which may be way more advanced than anything that you could implement yourself.
 >
-> **[3:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=220)** And there's typically global cybersecurity experts that will be involved.
+> **[3:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=220)** And there's typically global [[Cybersecurity]] experts that will be involved.
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=225)** Most of your larger cloud providers also have a global team of security experts who will be sure to keep everything safe.
 >
@@ -608,7 +604,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=341)** Now you have to still have some awareness of compliance standards so that you can audit your own cloud provider to make sure that they are making you compliant.
 >
-> **[5:52](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=352)** When it comes to scalability, this one should be obvious by the way, as to the instant benefits to being in the cloud versus on-premises.
+> **[5:52](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=352)** When it comes to [[Scalability]], this one should be obvious by the way, as to the instant benefits to being in the cloud versus on-premises.
 >
 > **[6:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=360)** But to talk about this in detail, when you're on-premises, if you need to grow, you're going to have to go ahead and purchase additional resources.
 >
@@ -656,7 +652,7 @@ created: 2026-05-02
 >
 > **[8:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=504)** And finally, we have mobility.
 >
-> **[8:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=507)** Now, mobility can be a good choice if you have most of your users in the same office.
+> **[8:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=507)** Now, mobility can be a good choice if you have most of your users in the same [[Microsoft Office|office]].
 >
 > **[8:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/benefits-of-cloud-vs-on-premises?u=76281980&t=515)** But as I mentioned, when we were talking about reliability of data, a VPN may be necessary if you have remote workers who need to access that data.
 >
@@ -680,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), data (14), [[Security]] (10), [[Cloud Infrastructure]] (6), [[Microsoft Office|Office]] (3)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (6), [[Microsoft Office|Office]] (3), [[Cybersecurity]] (2), [[Scalability]] (2), [[Hardware]] (1)
 > **Warnings:** keep in mind (2), be aware (1), be careful (1)
 > **Prerequisites:** set up (3), required to (1)
 > **CLI Commands:** make (2)
@@ -689,12 +685,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 
-#### Adopting Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980)
+#### [Adopting Microsoft 365](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=0)** - [Instructor] Okay, so you've reached the point that you've evaluated Microsoft 365 and decided, hey, you know what?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=0)** - [Instructor] Okay, so you've reached the point that you've evaluated [[Microsoft 365]] and decided, hey, you know what?
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=6)** This sounds like a good idea.
 >
@@ -706,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=40)** I'm going to do a search that specifically says Microsoft 365 for Enterprise overview.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=46)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here, it's from learn.[microsoft.com](https://microsoft.com), that's called "Microsoft 365 for enterprise overview."
+> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=46)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here, it's from learn.[[[Microsoft]].com](https://microsoft.com), that's called "Microsoft 365 for enterprise overview."
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=60)** And when I click on it, it will take me into a very detailed explanation of all sorts of different aspects of Microsoft 365 for the enterprise.
 >
@@ -746,9 +741,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=193)** And this is very simple.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=195)** This is a document that simply says, from certain things that you may have on-premises, like Windows 7 or 8, Office 2010, '13, '16, et cetera, et cetera, et cetera, you see as I go down, what we would move to.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=195)** This is a document that simply says, from certain things that you may have on-premises, like [[Windows]] 7 or 8, [[Microsoft Office|Office]] 2010, '13, '16, et cetera, et cetera, et cetera, you see as I go down, what we would move to.
 >
-> **[3:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=211)** And you'll see here, if we using Windows 7 or 8, we're going to want to move to Windows 10.
+> **[3:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=211)** And you'll see here, if we using Windows 7 or 8, we're going to want to move to [[Windows 10]].
 >
 > **[3:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=216)** And the fact is, I'm realizing as I'm going through this, that this document already needs to be updated, even right now as of the time I'm recording this, because we already have Windows 11, and I'm sure this document will get updated soon, maybe by the time you're watching it.
 >
@@ -760,7 +755,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=247)** I don't need to read this to you, but I just want to show you.
 >
-> **[4:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=251)** They have things like Exchange, SharePoint, Lync Server, which became Skype for Business, talking about management for your devices, identity and access, information protection, and threat protection.
+> **[4:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=251)** They have things like Exchange, [[SharePoint]], Lync Server, which became Skype for Business, talking about management for your devices, identity and access, information protection, and threat protection.
 >
 > **[4:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=263)** These are all the areas that this poster will cover, and it gives you an idea of what you have, what you may want to go to, or what you will have to go to, and why you may want to do it.
 >
@@ -768,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft]] (5), [[Windows]] (5), cloud (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft]] (5), [[Windows]] (5), [[Microsoft Office|Office]] (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), go to (2), scroll up (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -777,14 +772,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** you need to have (1)
 
-#### Understanding the modern workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980)
+#### [Understanding the modern workplace](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=0)** - [Instructor] One additional thing that you really should have a good understanding of if you're going to move to Microsoft 365 and you really want to make the most of it is having a solid understanding of what's called the modern workplace.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=0)** - [Instructor] One additional thing that you really should have a good understanding of if you're going to move to [[Microsoft 365]] and you really want to make the most of it is having a solid understanding of what's called the modern workplace.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=16)** Now in order to see what Microsoft defines as the modern workplace, I'm actually going to keep us here with the same online document here from Microsoft that we've been using in some of the other videos.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=16)** Now in order to see what [[Microsoft]] defines as the modern workplace, I'm actually going to keep us here with the same online document here from Microsoft that we've been using in some of the other videos.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=28)** It's called "Microsoft 365 for enterprise overview."
 >
@@ -824,7 +818,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=146)** It's broken down into intelligent security where we have built-in advanced security powered by cloud intelligence.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=153)** We have enhanced productivity where we have cloud connected and always up-to-date versions of both Office and Windows.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=153)** We have enhanced productivity where we have cloud connected and always up-to-date versions of both [[Microsoft Office|Office]] and [[Windows]].
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=161)** Flexible Management, where we have cloud-based management, which unifies administration across your PCs, tablets, and phones.
 >
@@ -840,7 +834,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=201)** We have compliance, I won't read it all to you but you will see that compliance, which was one of the items that we did look at where there's some benefits of moving to the cloud it talks about how it's going to assess and manage risk protect and govern sensitive data, streamline and respond and broad set of compliance standards that are all a part of Microsoft 365 which helps you stay in compliance.
 >
-> **[3:45](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=225)** Security which was another aspect of moving to the cloud and having additional benefits is we have identity and access management, information protection, threat protection and security management that really does exceed what you might get in an on-premises environment.
+> **[3:45](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=225)** Security which was another aspect of moving to the cloud and having additional benefits is we have identity and access management, information protection, threat protection and [[Security Management]] that really does exceed what you might get in an on-premises environment.
 >
 > **[4:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=243)** Now, I said that there were two sections that I wanted to focus more heavily on than others.
 >
@@ -868,11 +862,11 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=324)** Digitize the business process and deliver real time expertise as needed.
 >
-> **[5:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=331)** So as you can see, the modern workplace and its five sections as defined here, really give you a lot of benefits over what could be considered either a classic or really what I would say is more of a traditional workspace which was the old on-premises workspace before we had cloud services.
+> **[5:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/understanding-the-modern-workplace?u=76281980&t=331)** So as you can see, the modern workplace and its five sections as defined here, really give you a lot of benefits over what could be considered either a classic or really what I would say is more of a traditional workspace which was the old on-premises workspace before we had [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Microsoft 365]] (6), [[Security]] (5), management (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (3), [[Microsoft Office|Office]] (1), [[Windows]] (1), [[Security Management]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -880,12 +874,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 productivity apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980)
+#### [Microsoft 365 productivity apps](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=0)** - [Instructor] So now I want to talk to you just a little bit about some of the productivity apps that are included in your Microsoft 365 subscription.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=0)** - [Instructor] So now I want to talk to you just a little bit about some of the productivity apps that are included in your [[Microsoft 365]] subscription.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=9)** Now, before we get into the actual apps, I want you to keep in mind that because Microsoft 365 is a cloud-based service, your users are going to receive regular updates to these apps, which means that there's going to be greater productivity opportunities for your users than maybe the on-premises version of these apps.
 >
@@ -893,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=44)** So let's just go over some of these.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=46)** The first would simply be Word or what many people know as Microsoft Word.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=46)** The first would simply be [[Microsoft Word|Word]] or what many people know as [[Microsoft Word]].
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=50)** It's been around for a very long time.
 >
@@ -903,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=60)** And that's the main emphasis I want to put there is that all of these apps that you're going to see, they may all look familiar to you, but the real benefit is that through Microsoft 365, you can create, store, and share these documents online so you can collaborate.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=76)** So the next app is Excel.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=76)** So the next app is [[Microsoft Excel|Excel]].
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=77)** Another one you may be familiar with.
 >
@@ -911,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=85)** In fact, there are even wizards and tools which can quickly help you to manage and manipulate the data in a more visual way.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=92)** PowerPoint allows you to create slideshow presentations.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=92)** [[Microsoft PowerPoint|PowerPoint]] allows you to create slideshow presentations.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=96)** In fact, you're looking at one in this video as we speak.
 >
@@ -921,9 +914,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=118)** But again, when creating these presentations, by using it through Microsoft 365, you can do it in a more collaborative way.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=126)** Outlook is an application that, well, it does provide for email, which is what we typically think of Outlook as being for, but it also actually can support calendar, and task management, and contact information, and bring it all together into a single app.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=126)** [[Microsoft Outlook|Outlook]] is an application that, well, it does provide for email, which is what we typically think of Outlook as being for, but it also actually can support calendar, and task management, and contact information, and bring it all together into a single app.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=144)** OneNote is a digital notebook for storing notes, comments, website clippings, voice recordings, and drawings.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=144)** [[OneNote]] is a digital notebook for storing notes, comments, website clippings, voice recordings, and drawings.
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=150)** It's designed to capture ideas, thoughts, and tasks.
 >
@@ -931,15 +924,15 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=160)** Now this is something you might do with a real notebook, you know, an actual pen and paper, but doing it digitally through OneNote makes it much more efficient to be able to organize that information.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=173)** Next, we have Microsoft Teams, which is an all-in-one collaborative platform that enables better team working and task-based sharing.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=173)** Next, we have [[Microsoft Teams]], which is an all-in-one collaborative platform that enables better team working and task-based sharing.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=183)** Both internal and external team members can collaborate on projects together, organize meetings, attend video and voice calls, and access shared document libraries.
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=195)** This can all be done through Teams, and I will say that of all the productivity apps Teams is the one that has really springboarded in recent years.
 >
-> **[3:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=204)** OneDrive for Business offers your users one terabyte of secure online storage for business use.
+> **[3:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=204)** [[Microsoft OneDrive|OneDrive]] for Business offers your users one terabyte of secure online storage for business use.
 >
-> **[3:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=211)** It's fully integrated into both Windows 10 and Windows 11 File Explorer, allowing documents that are created locally to be automatically synced up to OneDrive for Business.
+> **[3:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=211)** It's fully integrated into both [[Windows 10]] and [[Windows]] 11 File Explorer, allowing documents that are created locally to be automatically synced up to OneDrive for Business.
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=222)** And finally, I want to mention Power Automate.
 >
@@ -949,7 +942,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=239)** Just a couple of random examples for you.
 >
-> **[4:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=242)** The online Microsoft Power Automate app is easy to use and can be useful to improve business processes through workflow automation.
+> **[4:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=242)** The online [[Microsoft]] Power Automate app is easy to use and can be useful to improve business processes through workflow automation.
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-productivity-apps?u=76281980&t=253)** And I will say that the former name for this particular tool used to be called Flow and it's because it's helping with workflow automation.
 >
@@ -957,13 +950,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), business (4), application (3), data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Outlook|Outlook]] (2), [[OneNote]] (2)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring user buy-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980)
+#### [Ensuring user buy-in](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980&t=53)** So let's look at each of these in a little bit more detail.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980&t=57)** Prior to implementing a business change, such as adopting to Microsoft 365, you should run a campaign of awareness.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980&t=57)** Prior to implementing a business change, such as adopting to [[Microsoft 365]], you should run a campaign of awareness.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/ensuring-user-buy-in?u=76281980&t=66)** And this product awareness needs to focus on introducing the new system, highlighting the benefits of this new system, explaining exactly what's going to change as a part of this transition.
 >
@@ -1017,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1), [[Microsoft 365]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), it's like (1)
 > **Warnings:** keep in mind (2)
@@ -1028,14 +1020,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a free Microsoft 365 E5 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
+#### [Creating a free Microsoft 365 E5 trial account](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=0)** - [Ed] One of the things that I really appreciate that Microsoft does to help you with learning about their products is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=0)** - [Ed] One of the things that I really appreciate that [[Microsoft]] does to help you with learning about their [[Microsoft Products|products]] is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=21)** And Microsoft 365 is no exception.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=21)** And [[Microsoft 365]] is no exception.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=24)** They give you a free 30-day trial, so I want to show you how to go ahead and set up that 30-day free trial, in case you want to go ahead and use it to learn here.
 >
@@ -1049,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=68)** All right, it says Microsoft 365 at the top.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=70)** You'll also see Office 365 E5 a little bit further down.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=70)** You'll also see [[Microsoft Office|Office]] 365 E5 a little bit further down.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=74)** The names get a little fuzzy because they jump around with what Office 365 versus Microsoft 365 is, but this is the product that we want.
 >
@@ -1057,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=87)** So I'm going to go ahead and click on that free trial, and it says, let's go ahead and get started.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address, so I'm going to go ahead and put in landonhotel and some random numbers here that I have @[outlook.com](https://outlook.com).
+> **[1:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address, so I'm going to go ahead and put in landonhotel and some random numbers here that I have @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=103)** I just created this email address just for this course, and you also may want to go ahead and do this, where you go ahead and create a free email address somewhere.
 >
@@ -1107,7 +1098,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=211)** This is just for verification purposes.
 >
-> **[3:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=213)** Now, I'm going to not do this in front of you for privacy reasons, so I don't give my phone number out to everybody.
+> **[3:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=213)** Now, I'm going to not do this in front of you for [[Privacy]] reasons, so I don't give my phone number out to everybody.
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=219)** So I'm going to enter it in.
 >
@@ -1171,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), [[Microsoft Products|Products]] (3), [[Privacy]] (3)
 > **UI Navigation:** click on (8), checkbox (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
@@ -1179,12 +1170,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [ed] (1)
 
-#### Microsoft final setup procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980)
+#### [Microsoft final setup procedures](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use Microsoft 365, there are a few final installation steps, so let's go through them here.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use [[Microsoft 365]], there are a few final installation steps, so let's go through them here.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=9)** I just created the trial account, and this is the screen it takes me to the first time you go to the admin portal, and it says install Microsoft 365.
 >
@@ -1192,7 +1182,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=23)** So if you want to do so, it says select an option below.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=25)** So here, I could actually click on this if I wanted to go ahead and download Word, Excel, PowerPoint, et cetera.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=25)** So here, I could actually click on this if I wanted to go ahead and download [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=31)** I don't need to do that on this machine, so I'm going to simply just click continue.
 >
@@ -1228,7 +1218,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=136)** I apologize for all the little popups that keep happening as I hover over different boxes.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=139)** That's just Microsoft trying to be helpful.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=139)** That's just [[Microsoft]] trying to be helpful.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-final-setup-procedures?u=76281980&t=142)** But I can add that user, and as soon as I add that user, you'll notice that at the bottom where it said "Do this later", it now says "Add users and assign licenses".
 >
@@ -1318,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), dns (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
 > **Prerequisites:** install (2), configure (2), setup (1), set up (1)
 > **Env Vars:** dns (2), csv (1), dkim (1)
@@ -1327,12 +1317,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 
-#### Deleting a Microsoft 365 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980)
+#### [Deleting a Microsoft 365 trial account](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=0)** - [Instructor] So once you get to the point that you are done playing around in Microsoft 365, you have a couple of options.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=0)** - [Instructor] So once you get to the point that you are done playing around in [[Microsoft 365]], you have a couple of options.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=10)** If you decide you want to move forward and continue using Microsoft 365, you don't have to do anything.
 >
@@ -1348,9 +1337,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=48)** If you ever are looking for something throughout the entire course that you don't see on your screen, down near the bottom of this list here, you have Show All and when you click on Show All, you'll get all the different options, all right?
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=61)** So the one we want is Billing and I'm going to click the little down arrow to expand it and then the item we want is Your Products.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=61)** So the one we want is Billing and I'm going to click the little down arrow to expand it and then the item we want is Your [[Microsoft Products|Products]].
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=70)** So here with my products, you can see that we have the Office 365 E5 Trial and you'll also notice for Subscription Status, it says Active.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=70)** So here with my products, you can see that we have the [[Microsoft Office|Office]] 365 E5 Trial and you'll also notice for Subscription Status, it says Active.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/deleting-a-microsoft-365-trial-account?u=76281980&t=80)** It renews and it gives the date that it will renew.
 >
@@ -1410,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4), select the (1)
 > **Speakers:** - [instructor] (1)
@@ -1420,16 +1409,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the Microsoft 365 Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
+#### [Introduction to the Microsoft 365 Admin Center](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=0)** - [Instructor] Now I just want to give you a basic introduction into the Microsoft 365 admin center, which is where you'll do most of the administration for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=0)** - [Instructor] Now I just want to give you a basic introduction into the [[Microsoft 365]] admin center, which is where you'll do most of the administration for Microsoft 365.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=12)** So here I want to tell you, we're already looking at the Microsoft 365 admin center because this is where it takes you once you've completed the setup and installation of Microsoft 365, but I do want to tell you that if you did not have this open, right, so let's just get completely out of it, if you ever want to go there, it's a very simple URL to remember.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=37)** All you have to go to is admin.[microsoft.com](https://microsoft.com), and when you do that, it will take you to one of two things.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=37)** All you have to go to is admin.[[[Microsoft]].com](https://microsoft.com), and when you do that, it will take you to one of two things.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=46)** It'll either take you straight into the Microsoft 365 admin center, or it will take you to a login screen, and then after you log in, it'll take you to the admin center.
 >
@@ -1469,11 +1457,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=215)** On the left, that's what is considered home, so when we click on home, that's what brings us here, but you'll notice in the top right, it says this is the dashboard view, and what we have here, the top we have these cards, and the top card is just a recommended something that you might need to be doing.
 >
-> **[3:55](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=235)** Microsoft uses algorithms and they determine something that you may want to do based upon actions that you've taken so far.
+> **[3:55](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=235)** Microsoft uses [[Algorithms]] and they determine something that you may want to do based upon actions that you've taken so far.
 >
 > **[4:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=244)** But below that is where we have individual cards that are customizable to your own needs.
 >
-> **[4:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=251)** Okay, so here we have the teams management here, we have user management, Microsoft 365 apps, billing, training guides, and assistance.
+> **[4:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=251)** Okay, so here we have the teams management here, we have [[User Management]], Microsoft 365 apps, billing, training guides, and assistance.
 >
 > **[4:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=260)** Now, yours may look different, but this is what's defaulting right now.
 >
@@ -1499,7 +1487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft]] (3), [[Algorithms]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft]] (3), [[Algorithms]] (1), [[User Management]] (1)
 > **UI Navigation:** click on (8), go to (1), dropdown (1), open the (1), scroll down (1)
 > **Definitions:** means that (2), known as (1)
 > **CLI Commands:** find (2)
@@ -1508,18 +1496,17 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Analogies:** similar to (1)
 
-#### Managing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980)
+#### [Managing users](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=0)** - [Instructor] So the first area of management I'd like to show you is user management.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=0)** - [Instructor] So the first area of management I'd like to show you is [[User Management]].
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=7)** And this is really one of the most basic and primary things that any Microsoft 365 admin should be doing.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=7)** And this is really one of the most basic and primary things that any [[Microsoft 365]] admin should be doing.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=15)** And as an IT admin, it's something that you may already be familiar with if you've ever managed users in Active Directory.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=15)** And as an IT admin, it's something that you may already be familiar with if you've ever managed users in [[Active Directory]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=23)** And the reason why it'll be semi-familiar is because Microsoft 365 users are actually technically Azure Active Directory users.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=23)** And the reason why it'll be semi-familiar is because Microsoft 365 users are actually technically [[Microsoft Entra ID|Azure Active Directory]] users.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=33)** There's where those users are actually being created.
 >
@@ -1583,7 +1570,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=187)** So depending on your subscription and what type of licenses you have to offer, you'll have those choices here.
 >
-> **[3:12](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=192)** In this case, I just simply have the Office 365 E5 subscription.
+> **[3:12](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=192)** In this case, I just simply have the [[Microsoft Office|Office]] 365 E5 subscription.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=198)** You'll see here, it says 21 of 25 licenses available.
 >
@@ -1659,7 +1646,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=374)** Mail, once the mailbox is prepared, you would go ahead and see information about the user's mailbox.
 >
-> **[6:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=380)** And same thing for OneDrive.
+> **[6:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=380)** And same thing for [[Microsoft OneDrive|OneDrive]].
 >
 > **[6:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-users?u=76281980&t=382)** Once OneDrive has been set up for the user, you would see information about OneDrive for the user.
 >
@@ -1669,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[User Management]] (3), next (3), [[Microsoft OneDrive|Onedrive]] (3), management (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[User Management]] (3), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Office|Office]] (2), [[Active Directory]] (1)
 > **UI Navigation:** click on (8), checkbox (2), dropdown (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), set up (1)
@@ -1677,18 +1664,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980)
+#### [Managing groups](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=0)** - [Instructor] Next, let's take a look at group management.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=4)** So here in the Microsoft 365 Admin Center, you'll see that we have an option here that says Teams and Groups and if I expand that, you'll see that we have four options.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=4)** So here in the [[Microsoft 365]] Admin Center, you'll see that we have an option here that says Teams and Groups and if I expand that, you'll see that we have four options.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=16)** We have active Teams and groups, policies, deleted groups and shared mailboxes.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=23)** Now, similar to user management, most of group management will be done through the active Teams and groups link.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=23)** Now, similar to [[User Management]], most of group management will be done through the active Teams and groups link.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=31)** Now, I do want to mention that it says Teams and groups as opposed to just groups and the reason why is because they've now really fully integrated Teams into Microsoft 365 to where you'll see as part of what we're going to do here that when you create a group, that you can also at the same time create a team for that group.
 >
@@ -1714,11 +1700,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=108)** Nothing else will be done.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=110)** You could do what's called Mail Enabled Security which is a distribution list that can also be used to have permissions over OneDrive in SharePoint and then you have a security group which only has control over access or the permissions for OneDrive in SharePoint as well as mobile device management.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=110)** You could do what's called Mail Enabled Security which is a distribution list that can also be used to have permissions over [[Microsoft OneDrive|OneDrive]] in [[SharePoint]] and then you have a security group which only has control over access or the permissions for OneDrive in SharePoint as well as mobile device management.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=131)** Okay, so if you want to do one of these subsets, you can, but primarily you're going to do Microsoft 365.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=137)** This is also like very similar to what we see in Active Directory, if you are familiar with that and if you've worked with groups over there.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=137)** This is also like very similar to what we see in [[Active Directory]], if you are familiar with that and if you've worked with groups over there.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-groups?u=76281980&t=146)** So I'm going to go ahead and click on Next and now you need to give a name to the group.
 >
@@ -1820,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), teams (7), [[Microsoft 365]] (6), management (5), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[SharePoint]] (2), [[Active Directory]] (2), [[User Management]] (1)
 > **UI Navigation:** click on (10), checkbox (1)
 > **Analogies:** similar to (3), kind of like (1), just like (1)
 > **CLI Commands:** make (3), find (1)
@@ -1828,14 +1814,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980)
+#### [Managing roles](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=0)** - [Instructor] Once you have created your users and groups, one of the next steps you may want to do is to assign administrative roles to the various user accounts.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=15)** So let's take a look at role management here in the Microsoft 365 Admin Center.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=15)** So let's take a look at role management here in the [[Microsoft 365]] Admin Center.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=21)** Now you'll notice by default we don't see anything about role management and that's because it's not pinned by default.
 >
@@ -1847,7 +1832,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=41)** Here we see a list of the various administrator roles that we could assign to our users.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=50)** Now I will tell you that this is just an abridged list, that it's a suggested list that Microsoft puts out there, 'cause at the bottom we have an option for show all roles.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=50)** Now I will tell you that this is just an abridged list, that it's a suggested list that [[Microsoft]] puts out there, 'cause at the bottom we have an option for show all roles.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-roles?u=76281980&t=60)** And if I click on that, you'll see that we have quite the extensive list of the various roles that we could be assigning to our users.
 >
@@ -1921,21 +1906,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft 365]] (2), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (12), go to (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980)
+#### [Managing resources](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=0)** - [Instructor] So now let's go ahead and take a look at resource management.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=4)** Here in the Microsoft 365 Admin Center you'll notice that by default we don't see anything about resources.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=4)** Here in the [[Microsoft 365]] Admin Center you'll notice that by default we don't see anything about resources.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=9)** So we click show all and now we have an option for resources.
 >
@@ -1943,7 +1927,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=18)** I do want to tell you that sites my personal feeling is that it doesn't belong here.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=23)** And the reason why is because if I click on it all it's going to do is take me to SharePoint Site Management.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=23)** And the reason why is because if I click on it all it's going to do is take me to [[SharePoint]] Site Management.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=30)** So that is something that would be done through the SharePoint Admin center.
 >
@@ -1991,7 +1975,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=122)** And now it's a valid email address.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=123)** Conference Room A at Landonhotel.[microsoft.com](https://microsoft.com).
+> **[2:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=123)** Conference Room A at Landonhotel.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=127)** I can put a capacity.
 >
@@ -2047,21 +2031,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft 365]] (2), [[SharePoint]] (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[SharePoint]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing billing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980)
+#### [Managing billing](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=0)** - [Instructor] The next area we'd like to take a look at is billing management.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=5)** So here in the Microsoft 365 admin center, you'll see that on mine it was there by default, so you can click show all if it's not on yours, but we have billing, and if I expand it, you'll see that there are a number of options to choose from here.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=5)** So here in the [[Microsoft 365]] admin center, you'll see that on mine it was there by default, so you can click show all if it's not on yours, but we have billing, and if I expand it, you'll see that there are a number of options to choose from here.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=21)** So there's a lot when it comes to everything that has to do with the billing or really the subscription itself.
 >
@@ -2083,11 +2066,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=71)** And this is a place where you can go to actually quickly and easily add to the different licenses that you have in your subscription.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=80)** Now, the next item on the list is your products.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=80)** Now, the next item on the list is your [[Microsoft Products|products]].
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=83)** This is the one that will show us what we've already purchased, right?
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=87)** So here you can see that we have our Office 365 E5 trial, okay, it's showing me I have 25 licenses and five have been assigned already.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=87)** So here you can see that we have our [[Microsoft Office|Office]] 365 E5 trial, okay, it's showing me I have 25 licenses and five have been assigned already.
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-billing?u=76281980&t=97)** If I click on licenses, this now breaks it right down to the specific aspect of licenses.
 >
@@ -2139,19 +2122,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (2), [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Prerequisites:** set up (2), required to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting support for Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980)
+#### [Getting support for Microsoft 365](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=0)** - [Instructor] So now let's talk a little bit about getting support for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=0)** - [Instructor] So now let's talk a little bit about getting support for [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=6)** Here in the Microsoft 365 Admin Center, you'll notice there is nothing here about support, so I will click Show all.
 >
@@ -2159,7 +2141,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=15)** And when I expand it, we have a few different options here.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=19)** We have Help & support, View service requests, Customer Lockbox Requests, and Microsoft hardware support.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=19)** We have Help & support, View service requests, Customer Lockbox Requests, and [[Microsoft]] [[Hardware]] support.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=28)** The main thing that we're going to take a look at here is the first selection, which is Help & support.
 >
@@ -2231,25 +2213,24 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=259)** They have quite an extensive list of articles at this point, and this help really is quite helpful.
 >
-> **[4:25](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=265)** There's no really better word to put it.
+> **[4:25](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=265)** There's no really better [[Microsoft Word|word]] to put it.
 >
 > **[4:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/getting-support-for-microsoft-365?u=76281980&t=267)** All right, so that's how you can get additional support if you find yourself incapable of learning how to do something elsewhere in the Microsoft 365 Admin Center.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (4), [[Hardware]] (3), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (4), [[Hardware]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980)
+#### [Configuring settings](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=0)** - [Instructor] Now, let's take a look at configuring some of the settings within Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=0)** - [Instructor] Now, let's take a look at configuring some of the settings within [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=6)** So here in the admin center, you'll notice Settings is not there by default, so I'll click Show all, and now I have Settings.
 >
@@ -2275,7 +2256,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=92)** Account Linking, what is that?
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=93)** Choose to allow users to connect their Azure AD and Account Linking accounts.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=93)** Choose to allow users to connect their [[Microsoft Entra ID|Azure AD]] and Account Linking accounts.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=100)** Okay, great.
 >
@@ -2287,7 +2268,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=114)** As we scroll down, there's a lot of different options.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=116)** And for any of these options, so let's do like SharePoint here, Control external sharing.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=116)** And for any of these options, so let's do like [[SharePoint]] here, Control external sharing.
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=121)** If you click on it, a little pop-out will come out where you can choose how you're going to configure that, right?
 >
@@ -2309,7 +2290,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=156)** Now, this list of settings that we're looking at, these are related to the services within Microsoft 365.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=164)** If I click on Security & privacy, I have a whole new set, it's a shorter set here, of issues or settings that have to do with security and privacy like, for instance, here's one: idle session timeout.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=164)** If I click on Security & [[Privacy]], I have a whole new set, it's a shorter set here, of issues or settings that have to do with security and privacy like, for instance, here's one: idle session timeout.
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/configuring-settings?u=76281980&t=177)** Automatically sign users out of Microsoft 365 web apps after a period of inactivity.
 >
@@ -2329,18 +2310,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Security]] (2), [[Privacy]] (2), [[Search]] (1), [[Microsoft Entra ID|Azure ad]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Privacy]] (2), [[Microsoft Entra ID|Azure ad]] (1), [[SharePoint]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional setup tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980)
+#### [Additional setup tasks](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the additional setup tasks, which can be done after you've already done the initial configuration of the Microsoft 365 account.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=0)** - [Instructor] Now let's take a look at some of the additional setup tasks, which can be done after you've already done the initial configuration of the [[Microsoft 365]] account.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=12)** You'll notice here in the Admin Center there is actually a link here for Setup.
 >
@@ -2352,7 +2332,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=35)** Now, they have this Featured Collections, and it says, "Lists of related actions "to help you manage a scenario or meet a goal."
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=42)** That's more of an advertisement of things that Microsoft think you might want to do.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=42)** That's more of an advertisement of things that [[Microsoft]] think you might want to do.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-setup-tasks?u=76281980&t=47)** But if I scroll down, this is the part I want to show you, and this is where we have actual actions that we can do.
 >
@@ -2426,7 +2406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (2), [[Security]] (1), feature (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (2)
 > **Prerequisites:** setup (6), configure (3), set up (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Definitions:** is a  (1), basically means (1)
@@ -2434,18 +2414,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980)
+#### [Viewing reports](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the reports that are available to us in the Microsoft 365 admin center.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the reports that are available to us in the [[Microsoft 365]] admin center.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=7)** You will notice that it is not there by default but if I click Show All, we do have an option for reports and if I expand that, we have two options.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=16)** The first one says adoption score, and I'll click on it just so we can see real fast here.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=22)** It just says that the adoption score provides insights into your organization's digital transformation journey through its use of Microsoft 365 and the technology experience that support it.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=22)** It just says that the adoption score provides insights into your organization's [[Digital Transformation]] journey through its use of Microsoft 365 and the technology experience that support it.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=33)** Your organization's score reflects people and technology experience measurements and can be compared to benchmarks from organizations similar to yours.
 >
@@ -2467,9 +2446,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=86)** But in the event that you were working within a real Microsoft 365 organization, you would be able to go ahead and see some information about usage.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=99)** And this is on an overview right now where we'd get an overview report, but more specifically, I want you to see that there are product reports for many of the different products and services that we have within Microsoft 365.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=99)** And this is on an overview right now where we'd get an overview report, but more specifically, I want you to see that there are product reports for many of the different [[Microsoft Products|products]] and services that we have within Microsoft 365.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=114)** And for each one, I'll just use SharePoint, for instance, I just had the cursor down near there.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=114)** And for each one, I'll just use [[SharePoint]], for instance, I just had the cursor down near there.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=119)** You'll see here that there's two different reports that we have available.
 >
@@ -2483,7 +2462,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=152)** And I'll just show you one more.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=154)** I'll go right above it. I'll go to OneDrive.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=154)** I'll go right above it. I'll go to [[Microsoft OneDrive|OneDrive]].
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=156)** Again, activity and usage.
 >
@@ -2493,18 +2472,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (2), data (2), [[Digital Transformation]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (2), [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring health
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980)
+#### [Monitoring health](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=0)** - [Instructor] So now let's take a look at how we can examine the health of our Microsoft 365 organization.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=0)** - [Instructor] So now let's take a look at how we can examine the health of our [[Microsoft 365]] organization.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=8)** Here, in the Admin Center, we don't have anything about health by default, so I'm going to go ahead and click Show All.
 >
@@ -2528,11 +2506,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=63)** And we can take a look at some of the main services, and you'll notice that it gives a condition.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=70)** OneDrive, for instance, is healthy.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=70)** [[Microsoft OneDrive|OneDrive]], for instance, is healthy.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=73)** SharePoint is healthy.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=73)** [[SharePoint]] is healthy.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=75)** Microsoft Teams, uh-oh, we have an advisory.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=75)** [[Microsoft Teams]], uh-oh, we have an advisory.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=79)** And if we want to learn what that advisory is, we go ahead and click on it and now it'll say, "Users with the Iran Standard Time time zone set up may see the incorrect time when using the Scheduling Assistant."
 >
@@ -2550,7 +2528,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=138)** I am not here to actually go research this and figure it out.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=142)** If that did matter to me, if I had an office, let's say, out in the Iran time zone, well, then I would need to figure that out.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=142)** If that did matter to me, if I had an [[Microsoft Office|office]], let's say, out in the Iran time zone, well, then I would need to figure that out.
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/monitoring-health?u=76281980&t=150)** Now, I want you to notice that at the bottom of all this, it says, "View all in Service Health."
 >
@@ -2588,7 +2566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (3), product (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[SharePoint]] (3), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), scroll down (2)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
@@ -2597,18 +2575,17 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 security and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980)
+#### [Microsoft 365 security and compliance](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=0)** - [Instructor] So now let's take a look at security and compliance within Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=0)** - [Instructor] So now let's take a look at security and compliance within [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=6)** As we've seen many times before, there's nothing here by default, so I'm going to click on Show All and when I do, you'll notice there's still nothing here for security and compliance until I get down to the bottom section where I get to my admin centers, okay?
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=19)** And the reason why is because both security and compliance have a whole separate set of things that can be done to manage those areas of Microsoft 365.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=32)** So when I click on security, you'll see here it's taken me to security.[microsoft.com](https://microsoft.com) and it actually takes me to what's called, "Microsoft 365 Defender."
+> **[0:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=32)** So when I click on security, you'll see here it's taken me to security.[[[Microsoft]].com](https://microsoft.com) and it actually takes me to what's called, "Microsoft 365 [[Microsoft Defender|Defender]]."
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=42)** And I want you to see that this looks very similar to the Microsoft 365 admin portal in the sense that you know, we have our navigation menu here and we can scroll down through everything and certain things we can go ahead and expand and we get extra information there.
 >
@@ -2668,7 +2645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft 365]] (6), [[Microsoft]] (6), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (6), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (6), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
@@ -2677,18 +2654,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Additional Admin Centers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980)
+#### [Additional Admin Centers](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=0)** - [Instructor] And finally, let's take a look at the additional admin centers that you can access from the Microsoft 365 admin center.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=0)** - [Instructor] And finally, let's take a look at the additional admin centers that you can access from the [[Microsoft 365]] admin center.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=9)** By default, we don't see them, but if I click on Show all and then scroll down to the bottom, there's a whole section for Admin centers.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=19)** Now, we've already taken a look at Security and Compliance, but we also have Azure Active Directory, Exchange, SharePoint, and Teams.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=19)** Now, we've already taken a look at Security and Compliance, but we also have [[Microsoft Entra ID|Azure Active Directory]], Exchange, [[SharePoint]], and Teams.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=27)** Now, those are just four of the suggested admin centers that Microsoft puts there by default, as far as thinking that those are the primary admin centers that you may want to go ahead and use, those are the other services that are very common.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=27)** Now, those are just four of the suggested admin centers that [[Microsoft]] puts there by default, as far as thinking that those are the primary admin centers that you may want to go ahead and use, those are the other services that are very common.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/additional-admin-centers?u=76281980&t=42)** But in the event that you don't see a service here, and you're trying to find the admin center for that service, you just simply click on All admin centers.
 >
@@ -2742,7 +2718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[SharePoint]] (8), [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[SharePoint]] (8), [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (2)
 > **UI Navigation:** click on (5), go to (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -2754,22 +2730,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)
+#### [Continue learning Microsoft 365](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=0)** - Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=2)** I hope you've enjoyed finding out about Microsoft 365 as much as I've enjoyed showing you.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=2)** I hope you've enjoyed finding out about [[Microsoft 365]] as much as I've enjoyed showing you.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=7)** If you want to learn more about Microsoft 365 products, please explore our library as we have a number of courses out there to help you.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=7)** If you want to learn more about Microsoft 365 [[Microsoft Products|products]], please explore our library as we have a number of courses out there to help you.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980&t=14)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - thank (1)
 
 

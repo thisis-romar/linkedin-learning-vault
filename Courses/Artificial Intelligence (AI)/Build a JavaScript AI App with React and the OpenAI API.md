@@ -95,33 +95,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a JavaScript AI app with React and the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
+#### [Build a JavaScript AI app with React and the OpenAI API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=0)** - ChatGPT is cool and all until you realize you can build AI into your own apps to drastically improve their user experience and add new and previously impossible features.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=0)** - [[ChatGPT]] is cool and all until you realize you can build AI into your own apps to drastically improve their [[User Experience (UX)|user experience]] and add new and previously impossible features.
 >
 > **[0:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=12)** That's what we'll do in this course.
 >
-> **[0:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=14)** Take a React-based weather app, sprinkle on a heavy dose of AI, and create a truly interactive experience that not only understands what location you want the weather information from but also explains the weather data in human language and gives you recommendations on what to wear.
+> **[0:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=14)** Take a [[React.js|React]]-based weather app, sprinkle on a heavy dose of AI, and create a truly interactive experience that not only understands what location you want the weather information from but also explains the weather data in human language and gives you recommendations on what to wear.
 >
-> **[0:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=32)** The OpenAI API gives us programmatic access and control over the language features of GPT, and I'm here to show you how to get it right, so let's get cracking.
+> **[0:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980&t=32)** The [[OpenAI API]] gives us programmatic access and control over the language features of GPT, and I'm here to show you how to get it right, so let's get cracking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (1), gpt (1)
 > **Speakers:** - chatgpt (1)
 
-#### Use the exercise files on GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980)
+#### [Use the exercise files on GitHub Codespaces](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980&t=1)** - The exercise files for this course are hosted on GitHub Codespaces, allowing you to work along with me in your browser without having to install any software.
+> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980&t=1)** - The exercise files for this course are hosted on [[GitHub]] [[Codespaces]], allowing you to work along with me in your browser without having to install any software.
 >
-> **[0:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980&t=10)** I'll talk more about this later, and even demonstrate how to set up your own React projects with Vite on Codespaces.
+> **[0:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980&t=10)** I'll talk more about this later, and even demonstrate how to set up your own [[React.js|React]] projects with Vite on Codespaces.
 >
 > **[0:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/use-the-exercise-files-on-github-codespaces?u=76281980&t=16)** But for now, I'll hand things over to my friend and colleague Ray Villalobos, to explain how it all works.
 >
@@ -135,16 +133,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index .html file right here.
+> **[3:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index .[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/using-github-codespaces-with-this-course?u=76281980&t=337)** That way it'll automatically sync with your forked repo.
 >
@@ -266,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (3), click on (2), open the (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -280,8 +277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beyond ChatGPT: What AI can do for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
+#### [Beyond ChatGPT: What AI can do for you](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,15 +305,15 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=63)** Ask the AI a question like why are Scandinavians so tall?
 >
-> **[1:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=68)** And the system will transform your question into a language like construct with a statistically high probability of being the type of answer a human user would expect.
+> **[1:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=68)** And the system will transform your question into a language like construct with a statistically high [[Probability]] of being the type of answer a human user would expect.
 >
 > **[1:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=79)** Give the AI a code snippet and ask where the error is and it'll transform the code snippet into a code-like construct with a statistically high probability of being the type of answer a human would expect.
 >
 > **[1:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=92)** Ask the AI to summarize a document and it will transform... I think you get the idea here.
 >
-> **[1:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=98)** One of the useful uses of an AI is to transform data into other forms of data.
+> **[1:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=98)** One of the useful uses of an AI is to transform data into other [[Forms]] of data.
 >
-> **[1:43](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=103)** For example, turn this data into a structured table or turn this structure data into JSON, et cetera.
+> **[1:43](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=103)** For example, turn this data into a structured table or turn this structure data into [[JSON]], et cetera.
 >
 > **[1:52](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980&t=112)** Developers can use this capability to transform human language requests into structured data software it can work with.
 >
@@ -333,23 +329,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (5), [[Probability]] (2), [[Forms]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Forms]] (1), [[JSON]] (1)
 > **Env Vars:** gpt (3), json (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Real-world challenge: A more useful weather app
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980)
+#### [Real-world challenge: A more useful weather app](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=0)** - [Instructor] Our goal in this course is to use AI to improve the user experience of an existing app.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=0)** - [Instructor] Our goal in this course is to use AI to improve the [[User Experience (UX)|user experience]] of an existing app.
 >
 > **[0:06](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=6)** And this is the app in question.
 >
-> **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=7)** It's one I built for a previous course, and I've upgraded it here to use React.
+> **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=7)** It's one I built for a previous course, and I've upgraded it here to use [[React.js|React]].
 >
 > **[0:11](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/real-world-challenge-a-more-useful-weather-app?u=76281980&t=11)** The app itself is pretty straightforward.
 >
@@ -425,13 +420,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (7), ai (5), [[User Experience (UX)|User experience]] (2), prompt (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[React.js|React]] (1)
 > **Env Vars:** api (7)
 > **Versions:** 24.8 (1), 2.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ideating with ChatGPT as a base
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980)
+#### [Ideating with ChatGPT as a base](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=205)** What's the weather like in Oslo right now?
 >
-> **[3:33](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=213)** "I'm sorry, but as an AI model with knowledge cutoff in September, 2021, I don't have real-time data."
+> **[3:33](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=213)** "I'm sorry, but as an AI model with knowledge cutoff in September, 2021, I don't have [[Real-Time]] data."
 >
 > **[3:39](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=219)** So, we can't use the system to get current data but we can use the system when it's prompted properly to figure out this is a question about Oslo, Norway.
 >
@@ -529,7 +523,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=230)** The second part is we want to be able to get some information about the data.
 >
-> **[3:54](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=234)** So what if I go in here and I copy out this example data on the JSON, and I say, Based on the JSON below, what's the current weather in this location?
+> **[3:54](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=234)** So what if I go in here and I copy out this example data on the [[JSON]], and I say, Based on the JSON below, what's the current weather in this location?
 >
 > **[4:13](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=253)** No. See, describe.
 >
@@ -567,13 +561,13 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=364)** And once I have the weather, I am able to use the AI again to provide a human readable description of that weather.
 >
-> **[6:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=370)** And with some fine tuning I can also get that weather description to be a lot better and more human readable and more conversational than what you see here.
+> **[6:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=370)** And with some [[Fine Tuning]] I can also get that weather description to be a lot better and more human readable and more conversational than what you see here.
 >
 > **[6:18](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/ideating-with-chatgpt-as-a-base?u=76281980&t=378)** So, we're on our way and this will eventually work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (8), prompt (8), api (6), [[JSON]] (4)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Real-Time]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** gpt (7), api (6), json (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -586,12 +580,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sidebar: Build a React app using Vite and GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
+#### [Sidebar: Build a React app using Vite and GitHub Codespaces](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=0)** - [Instructor] Quick sidebar, as we work our way through this course together, you'll notice I'm building a React app using Vite in GitHub codespaces.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=0)** - [Instructor] Quick sidebar, as we work our way through this course together, you'll notice I'm building a [[React.js|React]] app using Vite in [[GitHub]] [[Codespaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=8)** And as you finish out the course, there's a good chance you'll want to set up a similar project yourself later.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=74)** Vite will try to spin up a browser preview in your browser and that requires opening a port and we have to tell the virtual machine codespaces is running in what port that is and what we should do with that port.
 >
-> **[1:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=87)** Inside devcontainer.json, we're telling codespaces how to configure itself.
+> **[1:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=87)** Inside devcontainer.[[JSON]], we're telling codespaces how to configure itself.
 >
 > **[1:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=92)** So here after features, I'm going to add in a little bit of code, so I'm saying portsAttributes.
 >
@@ -643,9 +636,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=147)** This codespace is a virtual machine that runs my project inside Visual Studio Code in my browser.
 >
-> **[2:36](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=156)** And this codespace you see here is the starting point of the codespace that you'll be working with throughout the rest of this course.
+> **[2:36](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=156)** And this codespace you see here is the starting point of the codespace that you'll be working with throughout the [[Representational State Transfer (REST)|rest]] of this course.
 >
-> **[2:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=164)** While the codespace is building out, we can go to the Vite documentation, found at [vitejs.dev/guide](https://vitejs.dev/guide), and if you scroll down here, there's installation instructions that are simply npm create vite@latest.
+> **[2:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=164)** While the codespace is building out, we can go to the Vite documentation, found at [vitejs.dev/guide](https://vitejs.dev/guide), and if you scroll down here, there's installation instructions that are simply [[npm]] create vite@latest.
 >
 > **[2:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=177)** So that's the command we'll use.
 >
@@ -659,11 +652,11 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=192)** And from here we can then install a framework.
 >
-> **[3:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=195)** So you can go with Vanilla.
+> **[3:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=195)** So you can go with [[Vanilla]].
 >
-> **[3:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=196)** So no framework, you can use Vue, React, Preact, Lit, Svelte, et cetera.
+> **[3:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=196)** So no framework, you can use [[Vue.js|Vue]], React, Preact, Lit, Svelte, et cetera.
 >
-> **[3:20](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=200)** I want React and I want JavaScript plus SWC as the buildout that installs all the pieces I need in a new folder called vite-project.
+> **[3:20](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=200)** I want React and I want [[JavaScript]] plus SWC as the buildout that installs all the pieces I need in a new folder called vite-project.
 >
 > **[3:31](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980&t=211)** Then I'll say cd vite-project to get into the project and npm install to install all the dependencies inside the virtual machine, so that we can work with all the dependencies.
 >
@@ -696,14 +689,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **File Paths:** devcontainer.json (1), package.json (1)
 
-#### Boot up the app in GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980)
+#### [Boot up the app in GitHub Codespaces](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=0)** - [Instructor] This course is hands-on, and I want you to follow along as we work through this project together.
 >
-> **[0:06](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=6)** To get the exercise files, you can either go to GitHub, clone the entire GitHub repository onto your computer, set up VS Code on your computer, wire everything together, or you can simply use GitHub Codespaces and do it all in the browser.
+> **[0:06](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=6)** To get the exercise files, you can either go to [[GitHub]], clone the entire GitHub repository onto your computer, set up VS Code on your computer, wire everything together, or you can simply use GitHub [[Codespaces]] and do it all in the browser.
 >
 > **[0:20](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=20)** That's what I'll be doing throughout this course, and I recommend you do it too because then you don't have to go through the whole setup process.
 >
@@ -725,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=53)** This codespace is fully built out with everything you need, including all the dependencies, and all dependencies have already been installed in the project.
 >
-> **[1:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=61)** You don't have to run npm init or npm install or anything else.
+> **[1:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=61)** You don't have to run [[npm]] init or npm install or anything else.
 >
 > **[1:05](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=65)** You can just start working with the files right away.
 >
@@ -761,7 +753,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=158)** That means if you want to commit any of those changes to memories so you can access them later or maybe spin up a new codespace from them, so you want to place them inside GitHub.
 >
-> **[2:47](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=167)** You need to use the regular Git features.
+> **[2:47](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=167)** You need to use the regular [[Git]] features.
 >
 > **[2:49](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/boot-up-the-app-in-github-codespaces?u=76281980&t=169)** The easiest way is to use the built-in tools.
 >
@@ -769,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (6), [[npm]] (2), web (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (6), [[npm]] (2), [[Git]] (1)
 > **Tools:** github (6), vs code (5)
 > **UI Navigation:** go to (4), click on (4)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -777,8 +769,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the OpenWeatherMap API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980)
+#### [Work with the OpenWeatherMap API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +827,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980&t=158)** To bypass that problem, I'm going to take an old key that I know works and paste it in instead, save n.local, close out those two files, and then go down to terminal to test my application.
 >
-> **[2:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980&t=170)** So I'll say, npm run dev.
+> **[2:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980&t=170)** So I'll say, [[npm]] run dev.
 >
 > **[2:53](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/work-with-the-openweathermap-api?u=76281980&t=173)** This spins up VITE and spins up my site in the local browser.
 >
@@ -854,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), web (2), application (2), ai (1), management (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** api (8), vite (1)
 > **UI Navigation:** go to (3)
 > **Tools:** terminal (1), vs code (1)
@@ -863,8 +854,7 @@ created: 2026-05-02
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1)
 > **Exercise Files:** template (1)
 
-#### App walk-through
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980)
+#### [App walk-through](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=23)** So press Q, that quits out VITE and now I can close simple browser so that we can see everything plainly.
 >
-> **[0:31](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=31)** This is a standard react project and in VITE, the index file for your project sits in the root folder.
+> **[0:31](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=31)** This is a standard [[React.js|react]] project and in VITE, the index file for your project sits in the root folder.
 >
 > **[0:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=38)** So it's right here.
 >
@@ -958,7 +948,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=211)** Below that, we use useEffect to trigger all of the things that are going to happen whenever this file is called.
 >
-> **[3:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=218)** So inside useEffect, we say go and fetch data asynchronously from first, LocationToCoordinates and we pass in the prompt.
+> **[3:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=218)** So inside useEffect, we say go and [[Fetch]] data asynchronously from first, LocationToCoordinates and we pass in the prompt.
 >
 > **[3:48](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/app-walk-through?u=76281980&t=228)** Then when the response comes from that, we go to WeatherData and we pass in the location data results.
 >
@@ -1010,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), api (7), prompt (4), [[React.js|React]] (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Fetch]] (2)
 > **Code Identifiers:** useapirequests (5), useeffect (2), locationstring (2), iscurrentlyloading (1)
 > **Env Vars:** api (7), vite (3)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -1024,16 +1014,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the OpenAI API, and how does it relate to ChatGPT?
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
+#### [What is the OpenAI API, and how does it relate to ChatGPT?](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=1)** - Throughout this course, we'll be using the OpenAI API to integrate an AI model into an existing application.
+> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=1)** - Throughout this course, we'll be using the [[OpenAI API]] to integrate an AI model into an existing application.
 >
 > **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=7)** The OpenAI API serves as a good baseline example for this type of integration, and the approach you'll learn here will apply more or less the same with other AI APIs as well.
 >
-> **[0:17](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=17)** Which begs an important question, what exactly is the OpenAI API, and how does it relate to ChatGPT?
+> **[0:17](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=17)** Which begs an important question, what exactly is the OpenAI API, and how does it relate to [[ChatGPT]]?
 >
 > **[0:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980&t=25)** Short version, the OpenAI API provides programming-level, highly configurable direct access to the GPT language models offered by OpenAI.
 >
@@ -1071,25 +1060,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (11), [[ChatGPT]] (5), ai (4), api (4), application (3)
+> **Frameworks & Libraries:** [[OpenAI API]] (11), [[ChatGPT]] (5)
 > **Env Vars:** api (15), gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - throughout (1)
 
-#### Test the API in the OpenAI Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980)
+#### [Test the API in the OpenAI Playground](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=0)** - [Instructor] To be able to work with the OpenAI API and follow along through the rest of this course you need to sign up specifically for this service.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=0)** - [Instructor] To be able to work with the [[OpenAI API]] and follow along through the [[Representational State Transfer (REST)|rest]] of this course you need to sign up specifically for this service.
 >
-> **[0:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=8)** And that's the case, even if you already have an account for ChatGPT or ChatGPT Pro, because the OpenAI API is a separate service entirely.
+> **[0:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=8)** And that's the case, even if you already have an account for [[ChatGPT]] or ChatGPT Pro, because the OpenAI API is a separate service entirely.
 >
 > **[0:17](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=17)** ChatGPT is free.
 >
 > **[0:18](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=18)** ChatGPT is a monthly for-pay service.
 >
-> **[0:21](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=21)** The OpenAI API is a pay-per-use service, where you pay for the individual tokens you use throughout your interaction with the system.
+> **[0:21](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=21)** The OpenAI API is a pay-per-use service, where you pay for the individual [[Tokens]] you use throughout your interaction with the system.
 >
 > **[0:29](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=29)** To sign up, you can either go to platform.[openai.com](https://openai.com) and click on the Sign up button.
 >
@@ -1099,11 +1087,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=53)** You get Documentation, you get an API reference, Examples, and a Playground.
 >
-> **[0:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=57)** And I'll tell you upfront, the Documentation, the API reference, and the Examples, as of this recording, are all Python focused.
+> **[0:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=57)** And I'll tell you upfront, the Documentation, the API reference, and the Examples, as of this recording, are all [[Python (Programming Language)|Python]] focused.
 >
-> **[1:05](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=65)** That means if you come in here looking for JavaScript tutorials, you will not find any.
+> **[1:05](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=65)** That means if you come in here looking for [[JavaScript]] tutorials, you will not find any.
 >
-> **[1:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=70)** All the documentation is centered on Python, because Python is the central language for interaction with large language models, and the documentation simply hasn't been built out for things like JavaScript applications yet.
+> **[1:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=70)** All the documentation is centered on Python, because Python is the central language for interaction with [[Large Language Models (LLM)|large language models]], and the documentation simply hasn't been built out for things like JavaScript applications yet.
 >
 > **[1:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=82)** This is one of the primary reasons why I'm making this course, to give you a bridge between what exists in documentation and real-world implementation using JavaScript.
 >
@@ -1165,7 +1153,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=280)** But since these requests are really small I don't need that.
 >
-> **[4:43](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=283)** Or I could go up to gpt-4, if necessary.
+> **[4:43](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=283)** Or I could go up to [[GPT-4]], if necessary.
 >
 > **[4:46](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=286)** Again, the output here is what I want, so I don't need to do that.
 >
@@ -1183,7 +1171,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=312)** 'Cause I want to see what happens with this prompt over here.
 >
-> **[5:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=315)** So "based on the JSON below "provide a conversational description," blah, blah, blah.
+> **[5:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=315)** So "based on the [[JSON]] below "provide a conversational description," blah, blah, blah.
 >
 > **[5:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=319)** So I'll say, I'll take this starting point here.
 >
@@ -1225,7 +1213,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=413)** And I can keep experimenting until I get exactly the output I want.
 >
-> **[6:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=417)** So this, inside the Playground, is where you do all your fine tuning of how you are going to interact with the system.
+> **[6:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=417)** So this, inside the Playground, is where you do all your [[Fine Tuning]] of how you are going to interact with the system.
 >
 > **[7:05](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-in-the-openai-playground?u=76281980&t=425)** Then when you're done, you can click on View Code, and this gives you either Python output, a node output, or a curl output.
 >
@@ -1237,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (5), [[ChatGPT]] (5), prompt (5), [[Tokens]] (4), api (4)
+> **Frameworks & Libraries:** [[OpenAI API]] (5), [[ChatGPT]] (5), [[Tokens]] (4), [[Python (Programming Language)|Python]] (4), [[JavaScript]] (4)
 > **Env Vars:** api (9), user (3), system (2), json (2), rest (1)
 > **CLI Commands:** python (4), node (2), find (1), make (1), curl (1)
 > **Documentation:** the documentation (3), api reference (2)
@@ -1246,12 +1234,11 @@ created: 2026-05-02
 > **Versions:** 3.5 (3), 1.50 (1)
 > **Definitions:** is a  (3), is an  (1)
 
-#### Generate secret keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980)
+#### [Generate secret keys](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=0)** - [Instructor] Just like with open weather maps for our application to work with the OpenAI API, we first need API keys to be stored in our application.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=0)** - [Instructor] Just like with open weather maps for our application to work with the [[OpenAI API]], we first need API keys to be stored in our application.
 >
 > **[0:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=10)** To get your API keys from OpenAI, go to platform.[openai.com](https://openai.com), click on your name up here, go down to View API keys.
 >
@@ -1301,11 +1288,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=177)** If it's sitting on the front end like we are doing now, other people will be able to see that key, copy it and use it in their own applications unless you revoke the key access.
 >
-> **[3:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=187)** That said, the way I've set up this project, this file, env.local will never be stored in your GitHub repository, so it only exists inside your codespace, and that means it's perfectly safe to use for you during this course.
+> **[3:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/generate-secret-keys?u=76281980&t=187)** That said, the way I've set up this project, this file, env.local will never be stored in your [[GitHub]] repository, so it only exists inside your codespace, and that means it's perfectly safe to use for you during this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), application (4), web (2), [[OpenAI API]] (1), management (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[GitHub]] (1)
 > **Env Vars:** api (8), vite_openai (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Prerequisites:** set up (2)
@@ -1314,12 +1301,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Analogies:** just like (1)
 
-#### Test the API with a REST client
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980)
+#### [Test the API with a REST client](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=0)** - [Instructor] Now that you have an API key for the OpenAI API, it is time to see what happens when we send requests through a REST client to the OpenAI API.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=0)** - [Instructor] Now that you have an API key for the [[OpenAI API]], it is time to see what happens when we send requests through a [[Representational State Transfer (REST)|REST]] client to the OpenAI API.
 >
 > **[0:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=10)** And for this, I'll be using Postman as my client.
 >
@@ -1383,13 +1369,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=152)** Then I need to pass in my prompt.
 >
-> **[2:36](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=156)** Looking back at my code, you'll see that the prompt is passed in as JSON here.
+> **[2:36](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=156)** Looking back at my code, you'll see that the prompt is passed in as [[JSON]] here.
 >
 > **[2:42](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=162)** And when I pass in the prompt, I can do a whole bunch of things.
 >
 > **[2:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=164)** So I can pass in the model I want to use.
 >
-> **[2:47](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=167)** The usage, I can say how many tokens I want, the completion tokens, the total tokens.
+> **[2:47](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=167)** The usage, I can say how many [[Tokens]] I want, the completion tokens, the total tokens.
 >
 > **[2:52](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/test-the-api-with-a-rest-client?u=76281980&t=172)** And then there's the choices.
 >
@@ -1459,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), api (5), [[OpenAI API]] (5), [[Tokens]] (5), [[JSON]] (3)
+> **Frameworks & Libraries:** [[OpenAI API]] (5), [[Tokens]] (5), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (9), json (3), rest (2), http (1), url (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (1)
 > **Code Identifiers:** secretkey (4)
@@ -1473,12 +1459,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a location string from a prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
+#### [Create a location string from a prompt](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=0)** - [Instructor] All right, we now have all the pieces in place to start integrating the OpenAI API into our app.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=0)** - [Instructor] All right, we now have all the pieces in place to start integrating the [[OpenAI API]] into our app.
 >
 > **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=7)** As a refresher, the first thing I want to do is extend our app so that instead of just putting in location information in this input field, I'll be able to put in a question or a sentence and then the AI can derive from that sentence what location we're talking about and pass just the location string back.
 >
@@ -1486,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=35)** And I figured out that if I take this prompt and I place it into the Playground under the system tag, I'll be able to generate the output every time I pass in a new message with a new request.
 >
-> **[0:48](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=48)** So now the question becomes, "How do I convert this setup into an API call in my REST client that I can then migrate over into my JavaScript application?"
+> **[0:48](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=48)** So now the question becomes, "How do I convert this setup into an API call in my [[Representational State Transfer (REST)|REST]] client that I can then migrate over into my [[JavaScript]] application?"
 >
 > **[0:58](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=58)** So let's test that out fully.
 >
@@ -1500,7 +1485,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=74)** And then I'll click view code.
 >
-> **[1:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=76)** From here, again, I'll go and select JSON as my option.
+> **[1:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=76)** From here, again, I'll go and select [[JSON]] as my option.
 >
 > **[1:20](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=80)** And this gives me the full breakdown.
 >
@@ -1520,7 +1505,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=118)** So I'll just highlight and paste it in.
 >
-> **[2:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=121)** So here we are now sending into ChatGPT three five turbo, a system message, "Act like location string generator," with our examples.
+> **[2:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=121)** So here we are now sending into [[ChatGPT]] three five turbo, a system message, "Act like location string generator," with our examples.
 >
 > **[2:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980&t=128)** And then the question, "What is the weather like in Burnaby?"
 >
@@ -1550,15 +1535,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[OpenAI API]] (1), ai (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[OpenAI API]] (1), [[JavaScript]] (1), [[JSON]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (2), rest (2), json (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The challenge of non-deterministic APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/the-challenge-of-non-deterministic-apis?u=76281980)
+#### [The challenge of non-deterministic APIs](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/the-challenge-of-non-deterministic-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1604,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (3), api (1), next (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1629,8 +1612,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function calling in the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/function-calling-in-the-openai-api?u=76281980)
+#### [Function calling in the OpenAI API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/function-calling-in-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,18 +1674,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), ai (3), prompt (3), feature (3), api (2)
 > **Env Vars:** api (2), gpt (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom function call for the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980)
+#### [Create a custom function call for the OpenAI API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=0)** - [Instructor] Here's an example of how we can reconfigure our call to the OpenAI API and to use functions.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=0)** - [Instructor] Here's an example of how we can reconfigure our call to the [[OpenAI API]] and to use functions.
 >
 > **[0:06](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=6)** This is the same example as what I had before except I've stripped out some pieces and put in something else in place.
 >
@@ -1769,7 +1749,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=190)** So therefore, instead of having a function response, you get choices with content.
 >
-> **[3:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=195)** And here, sure, here's a classic recipe for vanilla cupcakes and it has a huge thing and no mention of functions at all.
+> **[3:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=195)** And here, sure, here's a classic recipe for [[Vanilla]] cupcakes and it has a huge thing and no mention of functions at all.
 >
 > **[3:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-custom-function-call-for-the-openai-api?u=76281980&t=202)** Which means on your end, in the application, you can simply set the application up to say only look for function responses.
 >
@@ -1783,7 +1763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), prompt (2), [[OpenAI API]] (1), next (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[Vanilla]] (1)
 > **Env Vars:** api (1), iso (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 3 (1)
@@ -1795,8 +1775,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sequence API calls in an app
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
+#### [Sequence API calls in an app](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1804,7 +1783,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980&t=4)** We'll do this across several movies because there are a lot of moving parts and we need them to work together.
 >
-> **[0:09](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980&t=9)** To start, we'll extend the existing API calling pattern in the app with our new call to the OpenAI API.
+> **[0:09](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980&t=9)** To start, we'll extend the existing API calling pattern in the app with our new call to the [[OpenAI API]].
 >
 > **[0:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980&t=16)** This call will be to transform the user question or prompt into a location string.
 >
@@ -1860,17 +1839,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), api (12), prompt (5), [[OpenAI API]] (2), ai (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2)
 > **Env Vars:** api (14)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a fetch request to the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980)
+#### [Create a fetch request to the OpenAI API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=0)** - [Instructor] Calling the OpenAI API starts here in useApiRequests, and here, I'll add to the existing pattern.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=0)** - [Instructor] Calling the [[OpenAI API]] starts here in useApiRequests, and here, I'll add to the existing pattern.
 >
 > **[0:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=8)** So we already have these state monitors that we've set up.
 >
@@ -1902,15 +1880,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=105)** And what we're doing now is grabbing the prompt and sending it over to PromptToLocation.
 >
-> **[1:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=110)** PromptToLocation is a standard React component that returns a promise.
+> **[1:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=110)** PromptToLocation is a standard [[React.js|React]] component that returns a promise.
 >
-> **[1:55](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=115)** The way that happens is we set up PromptToLocation here that receives prompt, then we return a fetch request.
+> **[1:55](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=115)** The way that happens is we set up PromptToLocation here that receives prompt, then we return a [[Fetch]] request.
 >
 > **[2:02](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=122)** That way, if the fetch request has a proper result, then we return the result, otherwise we can catch an error and say the promise was rejected for whatever reason and then pass in that rejection.
 >
 > **[2:14](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=134)** A fetch request receives two values, a url to fetch and parameters, so that's all the other information, and we'll fill that out in a second.
 >
-> **[2:23](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=143)** What I'm doing here right now is grabbing the response from the fetch request and then just confirming it to JSON and then saying get whatever data is returned and console.log it out so we can see what we're getting from the API without doing anything to it.
+> **[2:23](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=143)** What I'm doing here right now is grabbing the response from the fetch request and then just confirming it to [[JSON]] and then saying get whatever data is returned and console.log it out so we can see what we're getting from the API without doing anything to it.
 >
 > **[2:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=158)** You'll also notice here that I'm still using the prompt in LocationToCoordinates.
 >
@@ -1982,7 +1960,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=382)** All right, let's test this and see if it works.
 >
-> **[6:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=385)** I'll open my terminal, npm run dev.
+> **[6:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=385)** I'll open my terminal, [[npm]] run dev.
 >
 > **[6:31](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=391)** Then open the side in my browser and pass in a question like what is the weather like in Burnaby?
 >
@@ -1992,13 +1970,13 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=408)** And inside that object, we have choices.
 >
-> **[6:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=410)** And inside choices, we have the first choice, and here we have the message: I'm sorry, I can't provide real-time weather information.
+> **[6:50](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=410)** And inside choices, we have the first choice, and here we have the message: I'm sorry, I can't provide [[Real-Time]] weather information.
 >
 > **[6:58](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-fetch-request-to-the-openai-api?u=76281980&t=418)** So this means that we are now talking directly to the OpenAI API and everything is working as expected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[OpenAI API]] (7), data (7), [[Fetch]] (5), api (4)
+> **Frameworks & Libraries:** [[OpenAI API]] (7), [[Fetch]] (5), [[JSON]] (3), [[React.js|React]] (1), [[npm]] (1)
 > **Env Vars:** api (10), json (2), vite_openai (2), vite (1)
 > **Code Identifiers:** useapirequests (2), promptdata (2), setpromptdata (2), promptdatares (2), usestate (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
@@ -2007,18 +1985,17 @@ created: 2026-05-02
 > **Tools:** vs code (1), terminal (1)
 > **UI Navigation:** open the (2)
 
-#### Add a function call to the request
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980)
+#### [Add a function call to the request](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=0)** - [Instructor] Now that we know our call to the OpenAI API works, we can refine our requests so we get exactly the information we want, structured exactly the way we want.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=0)** - [Instructor] Now that we know our call to the [[OpenAI API]] works, we can refine our requests so we get exactly the information we want, structured exactly the way we want.
 >
 > **[0:09](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=9)** And for that we'll use function calling.
 >
 > **[0:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=12)** You'll remember from the previous chapter, we can call in whatever functions we want and they automatically kick in.
 >
-> **[0:18](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=18)** So I'm going to use this same setup here but since this is formatted in JSON, I can't simply copy and paste it in.
+> **[0:18](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=18)** So I'm going to use this same setup here but since this is formatted in [[JSON]], I can't simply copy and paste it in.
 >
 > **[0:24](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/add-a-function-call-to-the-request?u=76281980&t=24)** So instead I'll just write it out from scratch so you can follow along.
 >
@@ -2148,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (6), data (5), [[JSON]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (6), [[JSON]] (1)
 > **Code Identifiers:** function_call (5), displaydata (1), finish_reason (1)
 > **Env Vars:** api (6), json (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -2157,18 +2134,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Parse the response
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980)
+#### [Parse the response](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=0)** - [Instructor] Thanks to the function call the OpenAI API is now returning the data we want to us, but it's returning it as a string.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=0)** - [Instructor] Thanks to the function call the [[OpenAI API]] is now returning the data we want to us, but it's returning it as a string.
 >
-> **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=7)** Now that makes sense from the OpenAI point of view, they don't want to return random objects that may be malformed, but it means that we have to receive that string and then convert it into a JavaScript object.
+> **[0:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=7)** Now that makes sense from the OpenAI point of view, they don't want to return random objects that may be malformed, but it means that we have to receive that string and then convert it into a [[JavaScript]] object.
 >
 > **[0:19](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=19)** And while we're doing that, we might as well do things with it so that we can conform the data to fit with our needs.
 >
-> **[0:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=25)** Back in PromptToLocation, I'll go down past my function call and all the way down into the fetch sequence.
+> **[0:25](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=25)** Back in PromptToLocation, I'll go down past my function call and all the way down into the [[Fetch]] sequence.
 >
 > **[0:33](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=33)** So right now we're just console logging out the data.
 >
@@ -2178,7 +2154,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=53)** Okay, so instead of saying console log data here, I'm going to say, const and then promptRes.
 >
-> **[1:03](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=63)** So the prompt result equals JSON parse.
+> **[1:03](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=63)** So the prompt result equals [[JSON]] parse.
 >
 > **[1:07](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/parse-the-response?u=76281980&t=67)** So I'll turn my string into JSON, and what I want to parse is data.choices.
 >
@@ -2244,7 +2220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[JSON]] (2), [[OpenAI API]] (1), [[JavaScript]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[OpenAI API]] (1), [[JavaScript]] (1), [[Fetch]] (1)
 > **Code Identifiers:** promptres (6), countrycode (1), locationstring (1)
 > **Env Vars:** api (2), json (2)
 > **CLI Commands:** make (2)
@@ -2252,12 +2228,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pass the response to the weather data request
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980)
+#### [Pass the response to the weather data request](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=0)** - [Instructor] All right, at this point, the OpenAI API is able to turn the user question into location data and then we can turn that location data into the correctly formatted location string.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=0)** - [Instructor] All right, at this point, the [[OpenAI API]] is able to turn the user question into location data and then we can turn that location data into the correctly formatted location string.
 >
 > **[0:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=12)** The next step is to pass that location string onto use API request here so that when we request the coordinates for a location, we're passing in that string.
 >
@@ -2303,13 +2278,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=156)** The location is used by the OpenWeatherMap API to get the weather, and we get a weather display.
 >
-> **[2:42](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=162)** So now the API calling sequence is working as intended, and we have a whole new user experience where you no longer have to specify a location using a specific location string.
+> **[2:42](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=162)** So now the API calling sequence is working as intended, and we have a whole new [[User Experience (UX)|user experience]] where you no longer have to specify a location using a specific location string.
 >
 > **[2:52](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/pass-the-response-to-the-weather-data-request?u=76281980&t=172)** Instead, you can just type in a question and get the weather in return.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (4), [[OpenAI API]] (3), prompt (3), next (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (3), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** promptres (3), promptdatares (3), promptdata (2), locationstring (2), useapirequests (2)
 > **Env Vars:** api (7)
 > **Prerequisites:** set up (3)
@@ -2317,12 +2292,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update the weather data display
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980)
+#### [Update the weather data display](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=0)** - [Instructor] With the AI integration working, we can now shift our focus to a better user experience.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=0)** - [Instructor] With the AI integration working, we can now shift our focus to a better [[User Experience (UX)|user experience]].
 >
 > **[0:05](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=5)** You'll notice that when I ask for Toronto I get downtown Toronto comma CA.
 >
@@ -2352,7 +2326,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=75)** It sits right here in the file structure.
 >
-> **[1:17](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=77)** It's a standard react component that just consumes a bunch of data and then outputs it.
+> **[1:17](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=77)** It's a standard [[React.js|react]] component that just consumes a bunch of data and then outputs it.
 >
 > **[1:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/update-the-weather-data-display?u=76281980&t=82)** There's also some fancy math going on because there's temperature conversions and wind direction and stuff like that.
 >
@@ -2436,7 +2410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), prompt (16), ai (2), api (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1)
 > **Env Vars:** api (2), jsx (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -2448,12 +2422,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt engineering for developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
+#### [Prompt engineering for developers](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=0)** - [Instructor] I find that the best use of AI is when we start thinking about how AI can add to an experience to improve the user experience in some way.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=0)** - [Instructor] I find that the best use of AI is when we start thinking about how AI can add to an experience to improve the [[User Experience (UX)|user experience]] in some way.
 >
 > **[0:10](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=10)** Now, we've already seen that happen so far in the course by changing the input modality for this weather app so that you can actually ask a question and the system figures out the location based on that question.
 >
@@ -2463,7 +2436,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=42)** So if I ask, should I wear a jacket today in Burnaby, it not only tells me what temperature it is, but it also tells me whether I should actually wear a jacket and it describes the weather.
 >
-> **[0:56](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=56)** To do this, we need to do a little bit of prompt engineering, because we now want to pass on instructions to the AI and then we also want to pass on some information that's gathered from both the prompt and from the OpenWeatherMap API.
+> **[0:56](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=56)** To do this, we need to do a little bit of [[Prompt Engineering]], because we now want to pass on instructions to the AI and then we also want to pass on some information that's gathered from both the prompt and from the OpenWeatherMap API.
 >
 > **[1:11](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=71)** So here's a setup that I like to use, where I first have a system message that describes exactly what I want the system to do, in this case, in a conversational professional tone answer the question based on the weather data and then I list off exactly how I want it to answer that question.
 >
@@ -2481,7 +2454,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=126)** And then the weather data that's returned to us from OpenWeatherMap.
 >
-> **[2:11](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=131)** This setup just makes developing a lot easier, because we have this predefined system prompt, then we have the actual prompt where we're passing in variables and then we can control the rest of the behavior.
+> **[2:11](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=131)** This setup just makes developing a lot easier, because we have this predefined system prompt, then we have the actual prompt where we're passing in variables and then we can control the [[Representational State Transfer (REST)|rest]] of the behavior.
 >
 > **[2:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980&t=142)** The other thing worth pointing out is as you're experimenting with this kind of approach, it's a good idea to use the open AI playground, because here you can experiment with different models.
 >
@@ -2531,19 +2504,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), prompt (4), [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** setup (4)
 > **Env Vars:** api (1), gpt (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced calls to the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980)
+#### [Advanced calls to the OpenAI API](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=0)** - [Instructor] To get our human language description of the weather data, we need to add in a new call to the OpenAI API in our sequence of calls, and that happens in useApiRequests.jsx.
+> **[0:00](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=0)** - [Instructor] To get our human language description of the weather data, we need to add in a new call to the [[OpenAI API]] in our sequence of calls, and that happens in useApiRequests.jsx.
 >
 > **[0:12](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=12)** Here we already have a model for what we need to do, we need to take some data, pass it off to a component, and then in that component, make the API call.
 >
@@ -2609,7 +2581,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=196)** And then weather data colon, and weatherData.
 >
-> **[3:24](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=204)** But the weather data is JSON formatted.
+> **[3:24](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=204)** But the weather data is [[JSON]] formatted.
 >
 > **[3:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/advanced-calls-to-the-openai-api?u=76281980&t=207)** So I'm going to wrap the weather data in a parenthesis, and then put JSON stringify in front of it.
 >
@@ -2675,7 +2647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), prompt (9), [[OpenAI API]] (6), api (3), next (2)
+> **Frameworks & Libraries:** [[OpenAI API]] (6), [[JSON]] (2)
 > **Env Vars:** api (9), gpt (5), json (2)
 > **Code Identifiers:** weatherdescript (7), useapirequests (2), weatherdescriptres (2), weatherdata (1), setweatherdescription (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -2684,8 +2656,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (2)
 > **Cross-References:** go back to (1)
 
-#### Integrate the AI API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980)
+#### [Integrate the AI API response](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2723,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=97)** While I'm at it, I'm also going to change this promise reject message here because it needs to be updated to what this component does.
 >
-> **[1:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=104)** So I'll say unable to fetch weather description.
+> **[1:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=104)** So I'll say unable to [[Fetch]] weather description.
 >
 > **[1:51](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=111)** Alright, now we are returning the weather description.
 >
@@ -2769,13 +2740,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=212)** And it takes a bit of time, but eventually it does show up.
 >
-> **[3:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=218)** Alright, so it works, but let's say the user experience leaves a bit to be desired here.
+> **[3:38](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=218)** Alright, so it works, but let's say the [[User Experience (UX)|user experience]] leaves a bit to be desired here.
 >
 > **[3:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=224)** We'll deal with that in the next movie.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), prompt (2), [[Fetch]] (1), api (1), cloud (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** jsx (2), api (1), gbt4 (1), gpt4 (1)
 > **CLI Commands:** make (2)
 > **File Paths:** descript.jsx (1)
@@ -2783,8 +2754,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provide good UX with independent loaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980)
+#### [Provide good UX with independent loaders](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2896,15 +2866,15 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=327)** And eventually, after a long wait, the text appears.
 >
-> **[5:33](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=333)** Now of course this is not a perfect user experience.
+> **[5:33](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=333)** Now of course this is not a perfect [[User Experience (UX)|user experience]].
 >
-> **[5:35](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=335)** You still have to wait a really long time for GPT-4 and you could probably build this out to give the user a better experience of waiting.
+> **[5:35](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=335)** You still have to wait a really long time for [[GPT-4]] and you could probably build this out to give the user a better experience of waiting.
 >
 > **[5:44](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/provide-good-ux-with-independent-loaders?u=76281980&t=344)** But it works and we now have independent loaders on the page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), prompt (2), api (1), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[GPT-4]] (1)
 > **Code Identifiers:** isloading (9), weatherdescription (6), weatherdescriptloading (5), weatherdataloading (4), setweatherdescriptloading (3)
 > **Env Vars:** css (2), api (1), gpt (1)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -2917,12 +2887,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Go further
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)
+#### [Go further](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=1)** - All right, you've reached the end of the course and the beginning of your journey building apps with React and OpenAI API.
+> **[0:01](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=1)** - All right, you've reached the end of the course and the beginning of your journey building apps with [[React.js|React]] and [[OpenAI API]].
 >
 > **[0:08](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=8)** As you continue onto your own project, remember that what you've seen here in this course is just a small glimpse of what is possible once you embrace the possibilities and opportunities AI opens up for us all.
 >
@@ -2934,7 +2903,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=47)** Now, before I let you go, once again, a reminder that the way the API keys are stored in this project is not for production.
 >
-> **[0:56](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=56)** Do not publish your API keys in a GitHub repository or on the frontend, like we've done in this project.
+> **[0:56](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=56)** Do not publish your API keys in a [[GitHub]] repository or on the frontend, like we've done in this project.
 >
 > **[1:03](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980&t=63)** For public apps that have the API keys integrated, use a key storage application or move the API integration to the server end to prevent curious onlookers from grabbing their own copy of your key and using them in their own apps.
 >
@@ -2942,7 +2911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[React.js|React]] (2), [[OpenAI API]] (2), ai (2), data (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[OpenAI API]] (2), [[GitHub]] (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** go build (1)
 > **Cross-References:** in the next (1)

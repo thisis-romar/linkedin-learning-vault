@@ -77,20 +77,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why accessibility-first design?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
+#### [Why accessibility-first design?](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=1)** - If what we design isn't usable by everyone, is it actually good design?
 >
-> **[0:05](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=5)** When accessibility is an afterthought, retrofitting it into existing products is much more difficult, expensive, and time consuming.
+> **[0:05](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=5)** When accessibility is an afterthought, retrofitting it into existing [[Microsoft Products|products]] is much more difficult, expensive, and time consuming.
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=13)** Accessibility-first design incorporates accessibility from the start.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=17)** Accessibility guidelines aren't limitations you have to wrestle with, they're actually helpful constraints that make our designs beautiful and usable for everyone.
 >
-> **[0:26](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=26)** With accessible design, your products will be safer, ethical, and more successful.
+> **[0:26](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=26)** With [[Accessible Design]], your products will be safer, ethical, and more successful.
 >
 > **[0:31](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980&t=31)** If you're searching for tactical help with accessible design, join me in this course.
 
@@ -101,8 +100,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - if (1)
 
-#### Use an accessibility-first workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980)
+#### [Use an accessibility-first workflow](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,11 +108,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=4)** At its core, the web is for delivering content as efficiently, widely and accessibly as possible.
 >
-> **[0:10](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=10)** A website with only raw HTML and no custom styles or functionality may not be the most visually exciting, but it'll load quickly, provide well-structured legible typography, respect user preferences, and handle layout responsively across different screen sizes.
+> **[0:10](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=10)** A website with only raw [[HTML]] and no custom styles or functionality may not be the most visually exciting, but it'll load quickly, provide well-structured legible [[Typography]], respect user preferences, and handle layout responsively across different screen sizes.
 >
 > **[0:27](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=27)** Additionally, interactive elements will clearly communicate their state, including focus styles when using the keyboard to interact with content.
 >
-> **[0:34](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=34)** As designers of digital experiences, it's our job and responsibility to preserve this accessibility as we evolve a product from an initial idea to the final user experience.
+> **[0:34](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=34)** As designers of digital experiences, it's our job and responsibility to preserve this accessibility as we evolve a product from an initial idea to the final [[User Experience (UX)|user experience]].
 >
 > **[0:45](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=45)** Here's an overview of the accessibility-first workflow.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=139)** Throughout this process, all disciplines perform various types of accessibility testing to ensure everything is in an always-working state.
 >
-> **[2:27](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=147)** From content creation to initial design and development through to the launched product, the team can identify and correct accessibility issues as soon as they arise, saving considerable time and effort.
+> **[2:27](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=147)** From [[Content Creation]] to initial design and development through to the launched product, the team can identify and correct accessibility issues as soon as they arise, saving considerable time and effort.
 >
 > **[2:39](https://www.linkedin.com/learning/accessibility-first-design/use-an-accessibility-first-workflow?u=76281980&t=159)** At a high level, an accessibility-first workflow is collaborative and iterative.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[User Experience (UX)|User experience]] (3), web (2), teams (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[HTML]] (1), [[Typography]] (1), [[Content Creation]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -164,12 +162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cross-discipline collaboration and T-shaped knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
+#### [Cross-discipline collaboration and T-shaped knowledge](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=1)** - Accessibility is determined by all stages and disciplines in product development.
+> **[0:01](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=1)** - Accessibility is determined by all stages and disciplines in [[Product Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=5)** An accessibility-first design workflow makes the most of the team's collective expertise to implement accessibility considerations throughout the process.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=39)** This is because each member gains experience with the challenges and opportunities of each discipline.
 >
-> **[0:45](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=45)** For example, when creating written content, it's important to be familiar with front-end development techniques like semantic markup and heading levels.
+> **[0:45](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=45)** For example, when creating written content, it's important to be familiar with [[Front-End Development]] techniques like [[Semantic Markup]] and heading levels.
 >
 > **[0:53](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980&t=53)** This allows you to properly structure meaningful content from the start.
 >
@@ -195,22 +192,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (2), product (1), teams (1), [[Front-End Development]] (1), [[Semantic Markup]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Front-End Development]] (1), [[Semantic Markup]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - accessibility (1)
 
-#### Work in parallel to reduce handoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980)
+#### [Work in parallel to reduce handoff](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=0)** - [Instructor] Even in agile teams, it's still common for design, content creation, development, and testing your QA to all happen in distinct waterfall phases, with formal handoff between disciplines at the end of each sprint, cycle, or iteration.
+> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=0)** - [Instructor] Even in [[Agile Development|agile]] teams, it's still common for design, [[Content Creation]], development, and testing your QA to all happen in distinct waterfall phases, with formal handoff between disciplines at the end of each sprint, cycle, or iteration.
 >
 > **[0:15](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=15)** Handoff introduces risk, especially for accessibility, with potential for lost context, miscommunication, and fewer opportunities for shared knowledge.
 >
-> **[0:26](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=26)** Accessibility has many considerations and requirements that need to be predicted and preserved throughout product development.
+> **[0:26](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=26)** Accessibility has many considerations and requirements that need to be predicted and preserved throughout [[Product Development]].
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-first-design/work-in-parallel-to-reduce-handoff?u=76281980&t=33)** When teams have distinct handoff, it can be difficult to clearly communicate all of these considerations, and any issues that arise later in the process often required decisions from earlier in the process to be reworked.
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (4), teams (3), parallel (3), product (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (4), [[Agile Development|Agile]] (1), [[Content Creation]] (1)
 > **Cross-References:** earlier in (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -252,8 +248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid hidden content
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
+#### [Avoid hidden content](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=27)** As we introduce custom interactions, patterns, and functionality, the accessibility considerations and risk of excluding users increase considerably.
 >
-> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=36)** The most effective way to manage all of this is to question complexity in our products across content design, visual design, interaction, and functionality.
+> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=36)** The most effective way to manage all of this is to question complexity in our [[Microsoft Products|products]] across content design, visual design, interaction, and functionality.
 >
 > **[0:47](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=47)** According to the Annual WebAIM Million Study, which audits the top 1 million websites for accessibility errors, 96.5% of all errors detected fall into just six categories.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=136)** If it's not very relevant to the current page, does it deserve its own page?
 >
-> **[2:20](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=140)** If the content still needs to be dynamically hidden and shown, it must follow established guidelines to ensure a resilient and accessible user experience.
+> **[2:20](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=140)** If the content still needs to be dynamically hidden and shown, it must follow established guidelines to ensure a resilient and accessible [[User Experience (UX)|user experience]].
 >
 > **[2:30](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980&t=150)** This requires special consideration from all roles to be successful, and the complexity of the product suddenly goes up.
 >
@@ -311,13 +306,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), web (1), feature (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Versions:** 96.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - accessibility (1)
 
-#### Respect established patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980)
+#### [Respect established patterns](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,13 +345,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=123)** I've provided links in the resources for some of my favorite accessibility experts who help define these patterns in a more applied and concrete way.
 >
-> **[2:12](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=132)** In your research, you may come across the Web Accessibility Initiative, ARIA Authoring Practices Guide or WAI-ARIA, as it's more commonly known.
+> **[2:12](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=132)** In your research, you may come across the [[Web Accessibility]] Initiative, ARIA Authoring Practices Guide or WAI-ARIA, as it's more commonly known.
 >
 > **[2:21](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=141)** So what's ARIA?
 >
-> **[2:22](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=142)** ARIA stands for Accessible Rich Internet Applications and it's a collection of roles and attributes that can be sprinkled into HTML markup to provide further semantics and functionality to assistive technology.
+> **[2:22](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=142)** ARIA stands for Accessible Rich Internet Applications and it's a collection of roles and attributes that can be sprinkled into [[HTML]] markup to provide further semantics and functionality to assistive technology.
 >
-> **[2:35](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=155)** However, ARIA has varying levels of support and implementation, and it can be quite damaging to the user experience if it's used incorrectly.
+> **[2:35](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=155)** However, ARIA has varying levels of support and implementation, and it can be quite damaging to the [[User Experience (UX)|user experience]] if it's used incorrectly.
 >
 > **[2:43](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=163)** This is why the first rule of ARIA is, "No ARIA is better than bad ARIA."
 >
@@ -375,13 +369,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=224)** After working through the learning exercises use the Q and A feature to get help.
 >
-> **[3:49](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=229)** For more examples, I post about day-to-day accessibility challenges and solutions on LinkedIn.
+> **[3:49](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=229)** For more examples, I post about day-to-day accessibility challenges and solutions on [[LinkedIn]].
 >
 > **[3:55](https://www.linkedin.com/learning/accessibility-first-design/respect-established-patterns?u=76281980&t=235)** Feel free to follow and message me with any questions you have after working through the learning exercises.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1), feature (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Env Vars:** aria (11), wcag (3), wai (2), html (1), whi (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), such as (1)
@@ -390,18 +384,17 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Warnings:** note that (1)
 
-#### Create performant and lightweight experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980)
+#### [Create performant and lightweight experiences](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=0)** - [Instructor] By prioritizing accessibility and questioning complexity in the content, visual design and functionality of our digital products we can create user experiences that load quickly and run well on many devices.
+> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=0)** - [Instructor] By prioritizing accessibility and questioning complexity in the content, visual design and functionality of our digital [[Microsoft Products|products]] we can create user experiences that load quickly and run well on many devices.
 >
-> **[0:12](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=12)** Websites, and web apps with tons of images, videos, animations, network requests, and complex features take much longer to load, use more hardware resources, and can be frustratingly slow or even impossible to use.
+> **[0:12](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=12)** Websites, and web apps with tons of images, videos, animations, network requests, and complex features take much longer to load, use more [[Hardware]] resources, and can be frustratingly slow or even impossible to use.
 >
-> **[0:27](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=27)** While loading speed and performance improve the user experience for everyone, it can be crucial for enabling users who rely on assistive technology.
+> **[0:27](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=27)** While loading speed and performance improve the [[User Experience (UX)|user experience]] for everyone, it can be crucial for enabling users who rely on assistive technology.
 >
-> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=36)** Assistive technology comes in many forms.
+> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=36)** Assistive technology comes in many [[Forms]].
 >
 > **[0:38](https://www.linkedin.com/learning/accessibility-first-design/create-performant-and-lightweight-experiences?u=76281980&t=38)** People may use screen readers, which audibly announce content on the screen, and allow users to navigate, and interact with an interface efficiently.
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[Microsoft Products|Products]] (2), web (2), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Env Vars:** wcag (1), wai (1), aria (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -447,8 +440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Semantics and document structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
+#### [Semantics and document structure](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=26)** In fact, it's best to implement content into the final medium, such as the web browser, as soon as possible to test and improve it for proper accessibility.
 >
-> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=36)** This provides a useful and accessible baseline to preserve throughout the rest of the product development process.
+> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=36)** This provides a useful and accessible baseline to preserve throughout the [[Representational State Transfer (REST)|rest]] of the [[Product Development]] process.
 >
 > **[0:42](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=42)** Even without any visual styling or custom functionality, a website with well-structured, semantic, accessible content can provide value to users.
 >
@@ -474,9 +466,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=65)** In websites, semantics refers to the contextual meaning conveyed by the underlying code used to structure information.
 >
-> **[1:12](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=72)** HTML, also referred to as markup, is the language we use to structure information on the web.
+> **[1:12](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=72)** [[HTML]], also referred to as markup, is the language we use to structure information on the web.
 >
-> **[1:18](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=78)** It offers a selection of semantic elements that are used to provide special meaning to the text and other forms of media they contain.
+> **[1:18](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=78)** It offers a selection of semantic elements that are used to provide special meaning to the text and other [[Forms]] of media they contain.
 >
 > **[1:26](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=86)** Examples of semantic elements include headings, paragraphs, block quotes, emphasis elements, lists, form field labels, figures and captions, images, and others.
 >
@@ -506,9 +498,9 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=197)** We can also give custom names called accessible names to generic landmark regions to tailor them to the content of a particular website or app.
 >
-> **[3:27](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=207)** Another important category of semantic markup is metadata, which provide further content descriptions for users and technology alike.
+> **[3:27](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=207)** Another important category of [[Semantic Markup]] is [[Metadata]], which provide further content descriptions for users and technology alike.
 >
-> **[3:35](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=215)** This is where accessibility best practices directly benefit SEO or search engine optimization.
+> **[3:35](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=215)** This is where accessibility best practices directly benefit SEO or [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[3:42](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=222)** Metadata elements, such as the page title or description, are used by search engines to determine a page's contents, but real users should always be the primary focus By focusing on providing authentic, clear, and concise descriptions to users, we will organically write metadata content and alternate image text that is great for search engine rankings.
 >
@@ -516,13 +508,13 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=252)** The content design process should involve visual designers and developers in collaboration to build shared expectations for semantic content, heading levels, and the overall document structure.
 >
-> **[4:24](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=264)** Visual designers can reinforce content hierarchy with well-designed typography, and developers can share knowledge of relevant semantic HTML elements.
+> **[4:24](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=264)** Visual designers can reinforce content hierarchy with well-designed [[Typography]], and developers can share knowledge of relevant semantic HTML elements.
 >
 > **[4:33](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980&t=273)** To build a successful and accessible product, make content design the shared starting point for all disciplines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[HTML]] (3), [[Metadata]] (3), [[Search]] (3), product (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1), [[Forms]] (1)
 > **Analogies:** such as (5)
 > **Env Vars:** html (3), seo (1)
 > **CLI Commands:** make (2)
@@ -530,8 +522,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - the (1)
 
-#### Inclusive language and reading level
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980)
+#### [Inclusive language and reading level](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +566,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=125)** The goal is to accurately reflect the diversity of lived experiences and everyday life instead of only showing physically-abled people and visual media.
 >
-> **[2:14](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=134)** Not all disabilities are visually evident, so representation comes in many forms, in addition to images of people with physical disabilities.
+> **[2:14](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=134)** Not all disabilities are visually evident, so representation comes in many [[Forms]], in addition to images of people with physical disabilities.
 >
 > **[2:23](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=143)** A key aspect of creating inclusive content is an accessible reading level.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=167)** It's also important to avoid jargon whenever possible and to clearly define technical terms and acronyms if they're necessary.
 >
-> **[2:54](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=174)** A more approachable reading level also benefits internationalization for second language speakers or auto translation services, which further helps to create an inclusive user experience.
+> **[2:54](https://www.linkedin.com/learning/accessibility-first-design/inclusive-language-and-reading-level?u=76281980&t=174)** A more approachable reading level also benefits [[Internationalization]] for second language speakers or auto translation services, which further helps to create an inclusive [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
@@ -596,20 +587,19 @@ created: 2026-05-02
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Hidden text and accessible naming
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980)
+#### [Hidden text and accessible naming](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=0)** - Written content is used everywhere in a webpage or web app.
 >
-> **[0:04](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=4)** It's found in long form content user interface elements, metadata and even hidden text that provides critical information for assistive technology users.
+> **[0:04](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=4)** It's found in long form content user interface elements, [[Metadata]] and even hidden text that provides critical information for assistive technology users.
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=13)** Hidden text is a major aspect of accessible content design.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=17)** It provides additional semantics, context, announcements and identifiers for assistive technology users.
 >
-> **[0:24](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=24)** However, it's important to not overuse hidden text at the risk of segregating assistive technology users into a completely isolated user experience.
+> **[0:24](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=24)** However, it's important to not overuse hidden text at the risk of segregating assistive technology users into a completely isolated [[User Experience (UX)|user experience]].
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=33)** Hidden text can provide alternate descriptions of multimedia, such as images and data charts which we'll cover in more depths later.
 >
@@ -623,13 +613,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=65)** This is achieved with live regions which have different politeness settings depending on the level of importance.
 >
-> **[1:12](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=72)** Live regions have special aria attributes and are managed with JavaScript to add and remove content.
+> **[1:12](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=72)** Live regions have special aria attributes and are managed with [[JavaScript]] to add and remove content.
 >
 > **[1:18](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=78)** Announcements happen as the content inside of a live region changes.
 >
 > **[1:22](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=82)** When using live regions it's best to use the polite setting, which waits for all other pending announcements to finish instead of interrupting them immediately.
 >
-> **[1:31](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=91)** These various forms of hidden text should be thoughtfully crafted to be clear and concise the goal is to inform users with genuine human language and provide an equivalent experience for everyone.
+> **[1:31](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=91)** These various [[Forms]] of hidden text should be thoughtfully crafted to be clear and concise the goal is to inform users with genuine human language and provide an equivalent experience for everyone.
 >
 > **[1:43](https://www.linkedin.com/learning/accessibility-first-design/hidden-text-and-accessible-naming?u=76281980&t=103)** Hidden text should be identified when initially designing content, but sometimes the need for hidden text only emerges once content is live in the web browser or is layered with visual design and custom functionality.
 >
@@ -663,19 +653,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), web (2), data (2), [[Metadata]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Metadata]] (1), [[User Experience (UX)|User experience]] (1), [[JavaScript]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - written (1)
 
-#### Alternate content for media
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980)
+#### [Alternate content for media](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=0)** - [Instructor] All users deserve to have an equivalent experience when using a website and engaging with all forms of content.
+> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=0)** - [Instructor] All users deserve to have an equivalent experience when using a website and engaging with all [[Forms]] of content.
 >
 > **[0:07](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=7)** Various media formats communicate information through different physical senses, so it's important to make sure every media format is accessible with alternate information that conveys the same meaning clearly and concisely.
 >
@@ -721,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=163)** In a journalism context, it might be important to convey who or what is in the photo, the expression shown by people or the action that was captured.
 >
-> **[2:51](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=171)** By developing content in the final context of a website or web app, we can ensure it's implemented correctly in html.
+> **[2:51](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=171)** By developing content in the final context of a website or web app, we can ensure it's implemented correctly in [[HTML]].
 >
 > **[2:58](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=178)** Every image element which uses the img tag should have an alt attribute.
 >
@@ -731,11 +720,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=197)** Although images are the most common media on the web, we also need to provide an equivalent alternate experience for other media formats.
 >
-> **[3:26](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=206)** For videos, this can include captions and subtitles, transcripts and even audio descriptions, which provide a real-time description of the visual information communicated by the video.
+> **[3:26](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=206)** For videos, this can include captions and subtitles, transcripts and even audio descriptions, which provide a [[Real-Time]] description of the visual information communicated by the video.
 >
 > **[3:37](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=217)** For audio, transcripts are also necessary for providing accessible information whenever there is verbal communication, such as a podcast.
 >
-> **[3:47](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=227)** Alternate content improves the user experience for everyone by offering different formats to convey the same information.
+> **[3:47](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=227)** Alternate content improves the [[User Experience (UX)|user experience]] for everyone by offering different formats to convey the same information.
 >
 > **[3:54](https://www.linkedin.com/learning/accessibility-first-design/alternate-content-for-media?u=76281980&t=234)** Users can enjoy and benefit from rich media whether out of necessity, preference or convenience, and they even create more well-structured discoverable content for search engines to index and rank your website.
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Search]] (2), web (2), [[HTML]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1), [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
@@ -756,14 +745,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Just-in-time design
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
+#### [Just-in-time design](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=1)** - Just-in-time design is the practice of waiting until content and core functionality are implemented in the web browser to start visual design.
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=8)** Many product teams start the entire product development process with up-front visual design.
+> **[0:08](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=8)** Many product teams start the entire [[Product Development]] process with up-front visual design.
 >
 > **[0:14](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=14)** This design work is aspirational and misses out on the many important opportunities and learnings that come up later in the process when the product is being built in code.
 >
@@ -771,11 +759,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=31)** Then there's a rush of design fixes and changes that can only be discovered by evaluating the product in the browser.
 >
-> **[0:37](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=37)** This means batch processing any accessibility errors, which is both inefficient and increases the risk of issues going undetected and affecting actual users.
+> **[0:37](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=37)** This means [[Batch Processing]] any accessibility errors, which is both inefficient and increases the risk of issues going undetected and affecting actual users.
 >
-> **[0:47](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=47)** With just-in-time design, we implement well-structured semantic content in the browser as early as possible and add any necessary interactions, such as links, forms, and expandable collapsible elements.
+> **[0:47](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=47)** With just-in-time design, we implement well-structured semantic content in the browser as early as possible and add any necessary interactions, such as links, [[Forms]], and expandable collapsible elements.
 >
-> **[0:58](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=58)** This initial version of the website or web app is unstyled and not visually impressive, but it provides incredibly helpful context to layer in just enough visual design to enhance the user experience.
+> **[0:58](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=58)** This initial version of the website or web app is unstyled and not visually impressive, but it provides incredibly helpful context to layer in just enough visual design to enhance the [[User Experience (UX)|user experience]].
 >
 > **[1:10](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=70)** It can also reveal new design opportunities.
 >
@@ -791,19 +779,18 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=104)** The most important part of just-in-time design is that the native web is largely accessible by default.
 >
-> **[1:51](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=111)** By designing on top of an initial live version of the product, we can honor our responsibility to preserve accessibility throughout visual design and the rest of the product development process.
+> **[1:51](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=111)** By designing on top of an initial live version of the product, we can honor our responsibility to preserve accessibility throughout visual design and the [[Representational State Transfer (REST)|rest]] of the product development process.
 >
-> **[2:01](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=121)** By building up our toolkit of accessible design techniques, we can more efficiently create digital experiences that are even more beautiful and usable than we can achieve with up-front design.
+> **[2:01](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980&t=121)** By building up our toolkit of [[Accessible Design]] techniques, we can more efficiently create digital experiences that are even more beautiful and usable than we can achieve with up-front design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), web (3), [[Product Development]] (2), teams (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Batch Processing]] (1), [[Forms]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - just (1)
 
-#### Accessible color
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980)
+#### [Accessible color](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980&t=31)** We can check any foreground and background color combination for proper contrast with a color contrast checking tool.
 >
-> **[0:37](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980&t=37)** It's important to check for sufficient color contrast from the very beginning of visual design and throughout the product development process.
+> **[0:37](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980&t=37)** It's important to check for sufficient color contrast from the very beginning of visual design and throughout the [[Product Development]] process.
 >
 > **[0:45](https://www.linkedin.com/learning/accessibility-first-design/accessible-color?u=76281980&t=45)** You can find links to my preferred color contrast checkers in the resources for this course.
 >
@@ -891,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (2), web (2)
+> **Frameworks & Libraries:** [[Product Development]] (2)
 > **Analogies:** such as (6), for example (2)
 > **Env Vars:** wcag (3)
 > **Versions:** 4.5 (3)
@@ -900,18 +887,17 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [educator] (1)
 
-#### Accessible typography
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980)
+#### [Accessible typography](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=0)** - [Instructor] Accessible typography builds directly on the principles of good type design.
+> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=0)** - [Instructor] Accessible [[Typography]] builds directly on the principles of good type design.
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=4)** Because the web is primarily for sharing written information, having accessible and legible typography is at the core of accessible visual design.
 >
 > **[0:12](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=12)** Most font properties affect accessibility, including the font, font size, font weight, line height or leading, letter space or tracking, and line length.
 >
-> **[0:22](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=22)** Fonts should be legible with clear letter forms that are easy to differentiate and read.
+> **[0:22](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=22)** Fonts should be legible with clear letter [[Forms]] that are easy to differentiate and read.
 >
 > **[0:28](https://www.linkedin.com/learning/accessibility-first-design/accessible-typography?u=76281980&t=28)** Highly decorative fonts can hinder legibility and should be avoided outside of purely decorative uses.
 >
@@ -977,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (6), [[Forms]] (4), next (4), web (2), css (1)
+> **Frameworks & Libraries:** [[Typography]] (6), [[Forms]] (4)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -986,8 +972,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible iconography
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980)
+#### [Accessible iconography](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980&t=3)** They can also save space in a visual layout or help users more quickly differentiate information in interactive elements.
 >
-> **[0:11](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980&t=11)** Accessible iconography builds on the principles of accessible typography to ensure they are legible.
+> **[0:11](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980&t=11)** Accessible iconography builds on the principles of accessible [[Typography]] to ensure they are legible.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-first-design/accessible-iconography?u=76281980&t=17)** But as symbols with semantic meaning in our user interfaces, they have some special considerations.
 >
@@ -1035,15 +1020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (1), web (1)
+> **Frameworks & Libraries:** [[Typography]] (1)
 > **Best Practices:** it's best to (3)
 > **CLI Commands:** make (1)
 > **Versions:** 4.50 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible tap targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-tap-targets?u=76281980)
+#### [Accessible tap targets](https://www.linkedin.com/learning/accessibility-first-design/accessible-tap-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,14 +1079,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **Env Vars:** wcag (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible interactive states
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980)
+#### [Accessible interactive states](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1140,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=165)** Disabled elements are often styled to appear dimmed or grayed out with the not allowed mouse cursor.
 >
-> **[2:52](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=172)** By using the disabled HTML attribute, buttons will announce the state to assistive technology.
+> **[2:52](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=172)** By using the disabled [[HTML]] attribute, buttons will announce the state to assistive technology.
 >
 > **[2:58](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=178)** Disabled states don't have any color contrast requirements as they're inactive elements.
 >
@@ -1184,13 +1166,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [educator] (1)
 
-#### Accessible interaction patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980)
+#### [Accessible interaction patterns](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1181,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=17)** Native elements provide proper semantics, keyboard navigation, expected functionality, and assistive technology support.
 >
-> **[0:25](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=25)** When custom interactive components are necessary we can design and test for predictable, accessible behavior to create a more intuitive user experience.
+> **[0:25](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=25)** When custom interactive components are necessary we can design and test for predictable, accessible behavior to create a more intuitive [[User Experience (UX)|user experience]].
 >
 > **[0:35](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=35)** Most custom components involve some form of showing and hiding content.
 >
@@ -1220,7 +1201,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=84)** This expanded state is both communicated visually, and through assistive technology.
 >
-> **[1:30](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=90)** Keyboard focus can proceed through the expanded content and then can simply continue to the rest of the page.
+> **[1:30](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=90)** Keyboard focus can proceed through the expanded content and then can simply continue to the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[1:36](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=96)** Users can move focus back to the toggle button to close the content, or simply leave it open since it doesn't obscure any other content.
 >
@@ -1228,7 +1209,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=111)** Because this obscures anything beneath, it's important to prevent users from accidentally interacting with the visually hidden content.
 >
-> **[1:59](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=119)** Building an accessible modal dialogue pattern requires more complexity with layout, can be more difficult to place the hidden content close to where the toggle button is in HTML code, and requires more involved keyboard navigation.
+> **[1:59](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=119)** Building an accessible modal dialogue pattern requires more complexity with layout, can be more difficult to place the hidden content close to where the toggle button is in [[HTML]] code, and requires more involved keyboard navigation.
 >
 > **[2:13](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=133)** A proper modal dialogue pattern allows the user to move focus and activate a toggle button that reveals hidden content in an overlay.
 >
@@ -1244,15 +1225,15 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=185)** Once the modal dialogue closes, keyboard focus automatically returns to the original toggle button, allowing users to resume their place in the flow of the page.
 >
-> **[3:15](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=195)** The disclosure and modal dialogue patterns are two common examples, but custom functionality can take many forms.
+> **[3:15](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=195)** The disclosure and modal dialogue patterns are two common examples, but custom functionality can take many [[Forms]].
 >
-> **[3:23](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=203)** It's essential to research recommended approaches to custom functionality and thoroughly test throughout the product development process.
+> **[3:23](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=203)** It's essential to research recommended approaches to custom functionality and thoroughly test throughout the [[Product Development]] process.
 >
 > **[3:31](https://www.linkedin.com/learning/accessibility-first-design/accessible-interaction-patterns?u=76281980&t=211)** With intentional collaboration and shared understanding across content design, visual design, and development, custom features will add value for everyone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[Forms]] (1), [[Product Development]] (1)
 > **UI Navigation:** toggle (5)
 > **Definitions:** known as (1), is called (1)
 > **CLI Commands:** make (1)
@@ -1260,14 +1241,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Ergonomic layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980)
+#### [Ergonomic layouts](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980&t=0)** - [Instructor] Accessibility first design prioritizes user safety as the top responsibility of visual design.
 >
-> **[0:07](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980&t=7)** Digital products may be confined to two-dimensional screens, but the arrangement and required interactions of a user interface can cause serious physical harm through repeated stress.
+> **[0:07](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980&t=7)** Digital [[Microsoft Products|products]] may be confined to two-dimensional screens, but the arrangement and required interactions of a user interface can cause serious physical harm through repeated stress.
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-first-design/ergonomic-layouts?u=76281980&t=18)** Ergonomic layout helps avoid physical harm by placing frequent user interface elements in a more comfortable and efficient layout as well as offering users options to adapt the interface to their preferences and needs.
 >
@@ -1301,16 +1281,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Embrace fluid design
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980)
+#### [Embrace fluid design](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=0)** - [Instructor] Fluid design is an extension of responsive web design.
+> **[0:00](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=0)** - [Instructor] Fluid design is an extension of [[Responsive Web Design]].
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=4)** Fluid design allows the interface to gracefully scale to different devices, viewport dimensions and user preferences without content loss or compromising usability.
 >
@@ -1318,9 +1297,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=19)** This establishes a usable, legible baseline at the smallest screen sizes, that scales as more visual space is available.
 >
-> **[0:27](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=27)** With a mobile-first approach, the user experience on smaller screens shouldn't have less content or fewer features, but should be thoughtfully crafted to create an equivalent, engaging experience.
+> **[0:27](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=27)** With a mobile-first approach, the [[User Experience (UX)|user experience]] on smaller screens shouldn't have less content or fewer features, but should be thoughtfully crafted to create an equivalent, engaging experience.
 >
-> **[0:39](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=39)** Building on this approach, the interface should also adapt to user settings, including zoom and font size preferences.
+> **[0:39](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=39)** Building on this approach, the interface should also adapt to user settings, including [[Zoom]] and font size preferences.
 >
 > **[0:45](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=45)** I'd recommend testing up to the maximum browser zoom, which is often 500%, to ensure that all content is available and usable.
 >
@@ -1336,7 +1315,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=103)** A final consideration for fluid design is to not make assumptions about the available layout space based on the user's device.
 >
-> **[1:50](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=110)** It's more common than ever for users to have large, high-resolution displays, with several windows open at once, in quite narrow columns.
+> **[1:50](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=110)** It's more common than ever for users to have large, high-resolution displays, with several [[Windows]] open at once, in quite narrow columns.
 >
 > **[1:59](https://www.linkedin.com/learning/accessibility-first-design/embrace-fluid-design?u=76281980&t=119)** Likewise, mobile phone users may have the default text size increased several times.
 >
@@ -1344,14 +1323,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Zoom]] (3), [[Responsive Web Design]] (1), [[User Experience (UX)|User experience]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Responsive Web Design]] (1), [[User Experience (UX)|User experience]] (1), [[Windows]] (1)
 > **Best Practices:** it's best to (1), remember to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respect user preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980)
+#### [Respect user preferences](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=44)** Additionally, you can provide convenient controls for users to manually toggle the theme.
 >
-> **[0:49](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=49)** Related to color themes, some users rely on Windows high contrast mode.
+> **[0:49](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=49)** Related to color themes, some users rely on [[Windows]] high contrast mode.
 >
 > **[0:54](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=54)** This operating system level setting modifies the appearance of everything on screen to introduce more contrast to help users with low vision.
 >
@@ -1387,17 +1365,17 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=107)** Seizures can be triggered by flashes of light occurring more than three times per second.
 >
-> **[1:52](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=112)** For the safety of people using our digital products, avoid flashing content in visual designs, including quick animations with changes in visual contrast.
+> **[1:52](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=112)** For the safety of people using our digital [[Microsoft Products|products]], avoid flashing content in visual designs, including quick animations with changes in visual contrast.
 >
 > **[2:02](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=122)** When users have the reduced motion preference enabled, we need to prevent all animation and moving content.
 >
 > **[2:08](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=128)** Animation should have instant transitions to prevent motion, and video and audio content should be paused by default.
 >
-> **[2:15](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=135)** Test that all forms of motion are prevented when the setting is enabled.
+> **[2:15](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=135)** Test that all [[Forms]] of motion are prevented when the setting is enabled.
 >
 > **[2:19](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=139)** I also recommend never auto-playing any video or audio content and offering dedicated play, pause, and mute controls.
 >
-> **[2:27](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=147)** Not only is this safer, but it makes the user experience less overwhelming for everyone.
+> **[2:27](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=147)** Not only is this safer, but it makes the [[User Experience (UX)|user experience]] less overwhelming for everyone.
 >
 > **[2:32](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=152)** For any visual content that contains rapid flashes of light, provide a content warning for users in advance, ideally with timestamps when the content occurs and convenient controls for skipping the problematic content.
 >
@@ -1405,7 +1383,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=168)** It's not worth the risk of causing harm.
 >
-> **[2:51](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=171)** It's also important to respect user preferences for typography.
+> **[2:51](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=171)** It's also important to respect user preferences for [[Typography]].
 >
 > **[2:55](https://www.linkedin.com/learning/accessibility-first-design/respect-user-preferences?u=76281980&t=175)** Users may have operating system or web browser settings to use a custom font across all websites that is familiar and legible.
 >
@@ -1439,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (3), web (2), product (1), [[Windows]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Typography]] (3), [[Windows]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** toggle (1)
@@ -1453,14 +1431,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manual accessibility testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
+#### [Manual accessibility testing](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=0)** - Manual accessibility testing is the most effective way to build experience with accessibility and find the majority of accessibility issues in our work.
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=9)** If you have vision, one of the simplest forms of manual accessibility testing is performing different types of visual review.
+> **[0:09](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=9)** If you have vision, one of the simplest [[Forms]] of manual accessibility testing is performing different types of visual review.
 >
 > **[0:16](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=16)** Does the user interface look intuitive with a predictable layout, sequence, and understandable controls?
 >
@@ -1470,7 +1447,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=33)** Next, test with visual modes.
 >
-> **[0:35](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=35)** In Windows, enable high contrast mode with various themes and evaluate how the design appears.
+> **[0:35](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=35)** In [[Windows]], enable high contrast mode with various themes and evaluate how the design appears.
 >
 > **[0:41](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=41)** Do elements still clearly communicate their purpose?
 >
@@ -1482,7 +1459,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=57)** Is stake communicated with text and not just through color?
 >
-> **[1:01](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=61)** Other forms of visual testing include zoom and magnification.
+> **[1:01](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=61)** Other forms of visual testing include [[Zoom]] and magnification.
 >
 > **[1:06](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=66)** Zoom the website or web app to 500% and check that all content is available and legible.
 >
@@ -1530,7 +1507,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=199)** Desktop screen readers primarily use the keyboard to allow users to navigate the operating system and websites.
 >
-> **[3:26](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=206)** For mobile devices, VoiceOver is offered in IOS and Android provides the TalkBack screen reader.
+> **[3:26](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=206)** For mobile devices, VoiceOver is offered in IOS and [[Android]] provides the TalkBack screen reader.
 >
 > **[3:32](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980&t=212)** These use adjuster based interface with a touchscreen for user input.
 >
@@ -1546,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Forms]] (4), next (2), [[Zoom]] (2), web (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Forms]] (4), [[Zoom]] (2), [[Android]] (1)
 > **Env Vars:** nvda (5), jaws (4), ios (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2), find (1)
@@ -1554,8 +1531,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - manual (1)
 
-#### User testing for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980)
+#### [User testing for accessibility](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1603,7 +1579,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980&t=161)** I've provided some recommended services in the resources.
 >
-> **[2:45](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980&t=165)** Paired with manual testing, user testing provides valuable feedback about human experiences and needs.
+> **[2:45](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980&t=165)** Paired with [[Manual Testing]], user testing provides valuable feedback about human experiences and needs.
 >
 > **[2:52](https://www.linkedin.com/learning/accessibility-first-design/user-testing-for-accessibility?u=76281980&t=172)** These two testing practices are the most effective way to uncover the majority of accessibility issues, and provide the most learning opportunities.
 >
@@ -1611,29 +1587,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), teams (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** remember to (1), it's best to (1), recommended (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated accessibility testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980)
+#### [Automated accessibility testing](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=0)** - [Instructor] Automated accessibility testing only identifies about 30% of accessibility issues that are easily detectable so it's not a replacement for manual and user testing.
 >
-> **[0:11](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=11)** But automated testing offers valuable reinforcement and convenience with routine feedback throughout the product development process.
+> **[0:11](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=11)** But automated testing offers valuable reinforcement and convenience with routine feedback throughout the [[Product Development]] process.
 >
 > **[0:19](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=19)** Automated accessibility testing detects issues such as color contrast, heading levels, document structure and semantics, accessible naming and property use of links and buttons.
 >
-> **[0:31](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=31)** These tools come in a few different forms.
+> **[0:31](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=31)** These tools come in a few different [[Forms]].
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=33)** First, there are web browser developer tools.
 >
-> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=36)** In Chromium-based browsers such as Chrome and Microsoft Edge, the developer tools provide Lighthouse which can run checks for accessibility, performance, best practices, SEO, and more.
+> **[0:36](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=36)** In Chromium-based browsers such as Chrome and [[Microsoft]] Edge, the developer tools provide Lighthouse which can run checks for accessibility, performance, best practices, SEO, and more.
 >
 > **[0:48](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=48)** This is a quick way to evaluate work at any stage of development.
 >
@@ -1649,7 +1624,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=90)** These tools provide accessibility reports and can provide even more detailed reports and overlays with color contrast, heading structure, document outlines, accessible naming and other categories.
 >
-> **[1:42](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=102)** There are also tools that are offered as code linting or continuous integration services.
+> **[1:42](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=102)** There are also tools that are offered as code linting or [[Continuous Integration (CI)|continuous integration]] services.
 >
 > **[1:47](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=107)** As developers write code, accessible code linters can surface warnings or errors with code that cause accessibility issues.
 >
@@ -1681,13 +1656,13 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=213)** I've provided links to my recommended accessibility tools in the resources for this course.
 >
-> **[3:38](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=218)** Does the tools report match your manual testing findings?
+> **[3:38](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=218)** Does the tools report match your [[Manual Testing]] findings?
 >
 > **[3:41](https://www.linkedin.com/learning/accessibility-first-design/automated-accessibility-testing?u=76281980&t=221)** Share what you discovered in the QA or comment section of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Forms]] (2), [[Microsoft]] (2), next (2), [[Continuous Integration (CI)|Continuous integration]] (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Product Development]] (1), [[Manual Testing]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** seo (1), wave (1)
 > **Tools:** firefox (1)
@@ -1700,8 +1675,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible design handoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)
+#### [Accessible design handoff](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1685,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=16)** If design handoff is truly needed, all accessibility consideration should be well documented to set up all remaining work.
 >
-> **[0:24](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=24)** Accessible design handoff relies heavily on shared understanding, great documentation, and annotations.
+> **[0:24](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=24)** [[Accessible Design]] handoff relies heavily on shared understanding, great documentation, and annotations.
 >
 > **[0:31](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=31)** With handoff, each discipline has to anticipate the needs of other disciplines, and have bridging knowledge into the opportunities and challenges of each phase of work.
 >
@@ -1727,7 +1701,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=72)** Complete with approved foreground and background color combinations, and their approved color contrast ratios.
 >
-> **[1:19](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=79)** There should be documentation for all typography with an established type scale that notes each style's font size, font weight, line height, letter spacing, and intended use.
+> **[1:19](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=79)** There should be documentation for all [[Typography]] with an established type scale that notes each style's font size, font weight, line height, letter spacing, and intended use.
 >
 > **[1:30](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980&t=90)** Designs for all interactive elements need to include a full inventory of all interactive states, which may include default, hover, active, focus, visited, disabled, invalid, valid, collapsed, expanded, or others depending on the element and the interaction pattern.
 >
@@ -1747,14 +1721,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Accessible Design]] (2), [[Typography]] (1), product (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Typography]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,7 +1761,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980&t=80)** I look forward to hearing from you.
 >
-> **[1:22](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980&t=82)** You can follow me on LinkedIn and visit my website.
+> **[1:22](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980&t=82)** You can follow me on [[LinkedIn]] and visit my website.
 >
 > **[1:25](https://www.linkedin.com/learning/accessibility-first-design/next-steps?u=76281980&t=85)** We're on this ongoing journey of learning and improving with accessibility together.
 >
@@ -1796,7 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - with (1)

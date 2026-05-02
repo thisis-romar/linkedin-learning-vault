@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving beyond basic data viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/moving-beyond-basic-data-viz?u=76281980)
+#### [Moving beyond basic data viz](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/moving-beyond-basic-data-viz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,12 +115,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), career (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
 
-#### Do you need the basics first?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980)
+#### [Do you need the basics first?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980&t=140)** Luckily, I provide those basics as a foundational element in Section 4 of my introductory course.
 >
-> **[2:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980&t=147)** You will need access and entry-level level knowledge of Excel, Google Sheets, or Apple Numbers for this course.
+> **[2:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980&t=147)** You will need access and entry-level level knowledge of [[Microsoft Excel|Excel]], [[Google]] Sheets, or Apple Numbers for this course.
 >
 > **[2:36](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/do-you-need-the-basics-first?u=76281980&t=156)** In your exercise files, you'll find three spreadsheets that we will use throughout this course.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (2), [[Microsoft Excel|Excel]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Google]] (2)
 > **Env Vars:** nba (3), raw (1)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** exercise files (2)
@@ -203,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes a chart or graph advanced?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-makes-a-chart-or-graph-advanced?u=76281980)
+#### [What makes a chart or graph advanced?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-makes-a-chart-or-graph-advanced?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,13 +256,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 
-#### How the brain responds to data viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980)
+#### [How the brain responds to data viz](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +282,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980&t=75)** It recognizes shapes, scale, color, patterns, and iconography in a mere one-tenth of a second,
 >
-> **[1:23](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980&t=83)** it forms immediate conclusions.
+> **[1:23](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980&t=83)** it [[Forms]] immediate conclusions.
 >
 > **[1:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/how-the-brain-responds-to-data-viz?u=76281980&t=87)** These conclusions are then sent to the attentive brain, where those conclusions are either confirmed or challenged.
 >
@@ -324,12 +318,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** before (1), conscious (1)
 > **Definitions:** in other words (2)
 
-#### The chart selection framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980)
+#### [The chart selection framework](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,9 +330,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=14)** Now luckily, there are plenty of tools online that offer a chart selection framework to help you do just that.
 >
-> **[0:21](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=21)** Chart selection frameworks come in many forms, but my preference is shown on the screen in front of you.
+> **[0:21](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=21)** Chart selection frameworks come in many [[Forms]], but my preference is shown on the screen in front of you.
 >
-> **[0:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=27)** You'll find many variations of this by simply doing a Google image search of chart selection guides or chart selection tools.
+> **[0:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=27)** You'll find many variations of this by simply doing a [[Google]] image search of chart selection guides or chart selection tools.
 >
 > **[0:36](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/the-chart-selection-framework?u=76281980&t=36)** Flowcharts like this can help you hone in on the best chart to use based on the story that you're trying to tell and the data that you have available.
 >
@@ -379,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forms]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Google]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** dozen (1)
@@ -391,8 +384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are distribution charts and graphs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980)
+#### [What are distribution charts and graphs?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +398,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=44)** Let me show you what I mean.
 >
-> **[0:46](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=46)** Let's assume that you're putting together a fantasy NBA team for the upcoming season, and you want to leverage some statistical analysis to inform your draft picks.
+> **[0:46](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=46)** Let's assume that you're putting together a fantasy NBA team for the upcoming season, and you want to leverage some [[Statistical Analysis]] to inform your draft picks.
 >
 > **[0:57](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=57)** Maybe, for example, you want to pick a point guard that's taller than average, in hopes that they can transition to a small forward, like LeBron James, when needed.
 >
@@ -426,7 +418,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=119)** Now, you could rank all 539 NBA players by height in a very complex bar chart or just
 >
-> **[2:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=127)** simply on an Excel sheet to try and make a guess about average heights.
+> **[2:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=127)** simply on an [[Microsoft Excel|Excel]] sheet to try and make a guess about average heights.
 >
 > **[2:13](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=133)** But viewing the same set of data in a histogram like this tells a story that's far deeper.
 >
@@ -456,20 +448,19 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=240)** In the following lessons, I'll show you how we can slice and dice this data to make even more informed decisions about our NBA fantasy draft picks, using distribution charts that are more complex than the average histogram.
 >
-> **[4:15](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=255)** If you'd like to learn more about histograms, check out my entry-level data visualization course, Data Visualization Best Practices, here on LinkedIn Learning.
+> **[4:15](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=255)** If you'd like to learn more about histograms, check out my entry-level data visualization course, Data Visualization Best Practices, here on [[LinkedIn]] Learning.
 >
 > **[4:25](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980&t=265)** When you're ready, jump to the next lesson to move beyond histograms and advance into their more elevated counterparts, density plots.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nba (6), normal (1), symmetrical (1), unimodal (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 
-#### Density plots explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980)
+#### [Density plots explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=25)** A density plot is a variation of a histogram that uses a statistical technique called kernel smoothing to better display where values are concentrated over specific intervals.
 >
-> **[0:37](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=37)** Now, because this is not an advanced course on statistics, and I am certainly not a statistician,
+> **[0:37](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=37)** Now, because this is not an advanced course on [[Statistics]], and I am certainly not a statistician,
 >
 > **[0:46](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=46)** I'm not going to go into the details on calculating kernels, especially since there are great data visualization tools that will do this for you.
 >
@@ -491,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=78)** Kernel smoothing is used to determine the weighted average of each data cluster across that range.
 >
-> **[1:26](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=86)** This helps visualize the probability of where each data point should fall within it.
+> **[1:26](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=86)** This helps visualize the [[Probability]] of where each data point should fall within it.
 >
 > **[1:31](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=91)** To better understand what I mean, let's take a look at the histogram developed in the last lesson.
 >
@@ -535,7 +526,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=246)** To create the density plot showing player height across the NBA, we must first transform our data for this type of visualization.
 >
-> **[4:15](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=255)** You see, while Excel does the math for us to lump height into bins for a histogram, this feature does not exist for density plots.
+> **[4:15](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=255)** You see, while [[Microsoft Excel|Excel]] does the math for us to lump height into bins for a histogram, this feature does not exist for density plots.
 >
 > **[4:25](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/density-plots-explained-what-when-why-and-how?u=76281980&t=265)** Instead, We have to take an extra step by identifying the total count per height in our data set.
 >
@@ -567,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), next (2), [[Statistics]] (1), [[Probability]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Probability]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** nba (3)
 > **Analogies:** for example (2)
 > **URLs:** [daddylon.com](https://daddylon.com) (1)
@@ -575,8 +566,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Ridgeline (joy) plots explained: What, when, why and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980)
+#### [Ridgeline (joy) plots explained: What, when, why and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980&t=169)** This provides the data that I need to create a density plot for each position.
 >
-> **[2:55](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980&t=175)** If you don't want to dive into coding tools or Excel hacks, I recommend using Daddylon to create each individual density plot first, and then once complete, place each individual plot into a shared grid like this.
+> **[2:55](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980&t=175)** If you don't want to dive into coding tools or [[Microsoft Excel|Excel]] hacks, I recommend using Daddylon to create each individual density plot first, and then once complete, place each individual plot into a shared grid like this.
 >
 > **[3:12](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/ridgeline-joy-plots-explained-what-when-why-and-how?u=76281980&t=192)** Now it can be a bit tedious, but it'll do the trick.
 >
@@ -650,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the last (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -658,8 +648,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Box plots explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980)
+#### [Box plots explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,9 +686,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=134)** To dive a little deeper, let me show you what I mean in action.
 >
-> **[2:18](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=138)** Let's assume that we want to pick a point guard based on their true shooting percentage and their assist percentage, both of which are important statistics for any successful point guard.
+> **[2:18](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=138)** Let's assume that we want to pick a point guard based on their true shooting percentage and their assist percentage, both of which are important [[Statistics]] for any successful point guard.
 >
-> **[2:31](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=151)** Using the same data set from before, I can use Excel to quickly generate a box-and-whisker plot breaking down these two statistics across all players in the NBA like this.
+> **[2:31](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=151)** Using the same data set from before, I can use [[Microsoft Excel|Excel]] to quickly generate a box-and-whisker plot breaking down these two statistics across all players in the NBA like this.
 >
 > **[2:44](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/box-plots-explained-what-when-why-and-how?u=76281980&t=164)** Looking at the blue box on the left, which represents true shooting percentage, let's first focus on the median line, which sits around 56.7%.
 >
@@ -747,25 +736,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), next (1), game (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** nba (3), assist (2), percentage (2), below (1), average (1)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 56.7 (1), 13.7 (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
 
-#### Variations of box plots: Violin plots and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980)
+#### [Variations of box plots: Violin plots and more](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=5)** When the boxplot was initially developed, it was designed to be hand-drawn.
 >
-> **[0:11](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=11)** This is because a lot of statistical analysis must be done up front to even create the key components for a boxplot.
+> **[0:11](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=11)** This is because a lot of [[Statistical Analysis]] must be done up front to even create the key components for a boxplot.
 >
 > **[0:19](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=19)** This includes breaking the data into quartiles, extremes, identifying outliers, and determining the mean at minimum.
 >
-> **[0:28](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=28)** But as shown in the last lesson, these days Excel can do all of that work for you in an instant, making it possible to create variations on box plots that elevate the visual communication of this chart.
+> **[0:28](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=28)** But as shown in the last lesson, these days [[Microsoft Excel|Excel]] can do all of that work for you in an instant, making it possible to create variations on box plots that elevate the visual communication of this chart.
 >
 > **[0:43](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=43)** This provides even richer distributional summaries of the data.
 >
@@ -783,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=112)** Combine the two, and you have variable-width, notched box plots.
 >
-> **[1:57](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=117)** Possibly the most popular variation on a box plot is the violin plot, named for the unique shape that these graphs take to visualize the overall density and probability of the data at hand.
+> **[1:57](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=117)** Possibly the most popular variation on a box plot is the violin plot, named for the unique shape that these graphs take to visualize the overall density and [[Probability]] of the data at hand.
 >
 > **[2:11](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/variations-of-box-plots-violin-plots-and-more?u=76281980&t=131)** Think of a violin chart as a box plot overlapped by a double-sided density plot.
 >
@@ -821,13 +809,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Probability]] (5), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Env Vars:** nba (3)
 > **Cross-References:** in the last (1)
 
-#### Sankey diagrams explained: What, when, why and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sankey-diagrams-explained-what-when-why-and-how?u=76281980)
+#### [Sankey diagrams explained: What, when, why and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sankey-diagrams-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +882,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), product (4), parallel (2), data (2), traffic (1)
 > **CLI Commands:** node (5), make (2)
 > **Analogies:** for example (4), similar to (1)
 > **Env Vars:** extremely (1)
@@ -907,8 +893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are comparison charts and graphs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-comparison-charts-and-graphs?u=76281980)
+#### [What are comparison charts and graphs?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-comparison-charts-and-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,14 +929,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 
-#### Alluvial charts and parallel sets: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980)
+#### [Alluvial charts and parallel sets: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +992,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=228)** Creating Sankey or alluvial diagrams can sometimes be an arduous task.
 >
-> **[3:54](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=234)** This is because most creation tools for these charts are code-based and reliant on code libraries like D3 and Python to develop.
+> **[3:54](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=234)** This is because most creation tools for these charts are code-based and reliant on code libraries like D3 and [[Python (Programming Language)|Python]] to develop.
 >
 > **[4:05](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=245)** Flourish Studio, however, has become one of my favorite free online tools for advanced data visualization.
 >
@@ -1031,7 +1014,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=321)** To do this, I'm going to rank the countries of origin in order from most players to least.
 >
-> **[5:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=327)** I can quickly see that 6 countries are the original home of 7 or more players, while the rest represent 5 or less players each.
+> **[5:27](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=327)** I can quickly see that 6 countries are the original home of 7 or more players, while the [[Representational State Transfer (REST)|rest]] represent 5 or less players each.
 >
 > **[5:37](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=337)** So, I'll create 7 initial categories.
 >
@@ -1085,7 +1068,7 @@ created: 2026-05-02
 >
 > **[9:01](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=541)** In addition, you can change colors, layouts, animations, and more using the drop-down panels on the right side of your screen.
 >
-> **[9:10](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=550)** When complete, you can export your chart as a static image, for use within a Canva presentation, or full HTML code to add an interactive version to a website.
+> **[9:10](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=550)** When complete, you can export your chart as a static image, for use within a [[Canva]] presentation, or full [[HTML]] code to add an interactive version to a website.
 >
 > **[9:22](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=562)** In the Relationship Charts section of this course, I'll discuss parallel coordinates plots, which are a close cousin to parallel sets and alluvial diagrams, but with a stronger focus on showing relationships or patterns for multivariate analysis versus comparisons between a set of characteristics.
 >
@@ -1095,15 +1078,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (5), parallel (4), traffic (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Canva]] (1), [[HTML]] (1)
 > **Env Vars:** nba (4), usa (2), jfk (1), html (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Bullet graphs explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980)
+#### [Bullet graphs explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1221,7 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980&t=452)** Once you've chosen those labels, your bullet graph will appear on the right-hand side.
 >
-> **[7:37](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980&t=457)** Now, if we wanted to measure other statistics like field goals per game, three-point shots, and more, we can easily do that while using different scales throughout.
+> **[7:37](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980&t=457)** Now, if we wanted to measure other [[Statistics]] like field goals per game, three-point shots, and more, we can easily do that while using different scales throughout.
 >
 > **[7:49](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/bullet-graphs-explained-what-when-why-and-how?u=76281980&t=469)** Animations, styling, and further interactivity can be added to this chart using the left-hand column.
 >
@@ -1251,15 +1233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), next (3), teams (2), data (2), parallel (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** nba (5), bullet (1), graph (1), svg (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise file (1), template (1)
 > **Definitions:** means that (1), is a  (1)
 
-#### Radial charts explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980)
+#### [Radial charts explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,7 +1292,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=240)** By breaking results into 5 core customer personas, I can quickly identify areas for improvement by customer segment, as well as where we're winning and where we might be losing.
 >
-> **[4:13](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=253)** What if I wanted to compare the average performance of each of the 9 NBA positions across the following statistics.
+> **[4:13](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=253)** What if I wanted to compare the average performance of each of the 9 NBA positions across the following [[Statistics]].
 >
 > **[4:22](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=262)** Offensive Rebound Percentage, Defensive Rebound Percentage, Usage Percentage, True Shooting Percentage, and Assist Percentage.
 >
@@ -1337,7 +1318,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=332)** But the final visual is less compelling.
 >
-> **[5:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=335)** It shows less of a shape in the data and forces the audience to zoom into each line to learn more.
+> **[5:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=335)** It shows less of a shape in the data and forces the audience to [[Zoom]] into each line to learn more.
 >
 > **[5:43](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radial-charts-explained-what-when-why-and-how?u=76281980&t=343)** Second, when working with charts like this, we are restricted to a singular scale.
 >
@@ -1389,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (2), [[Statistics]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Zoom]] (1)
 > **Env Vars:** nba (4)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
@@ -1398,8 +1379,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** in other words (1)
 
-#### Radar charts explained: What, when, why and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radar-charts-explained-what-when-why-and-how?u=76281980)
+#### [Radar charts explained: What, when, why and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/radar-charts-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1435,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (1)
 > **Env Vars:** nba (3), mba (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1463,8 +1442,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Coxcomb charts: What, when, why and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/coxcomb-charts-what-when-why-and-how?u=76281980)
+#### [Coxcomb charts: What, when, why and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/coxcomb-charts-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), teams (4), next (2), game (1)
 > **UI Navigation:** dropdown (2)
 > **Analogies:** for example (2)
 > **Env Vars:** nba (1)
@@ -1563,8 +1540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are relationship charts and graphs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-relationship-charts-and-graphs?u=76281980)
+#### [What are relationship charts and graphs?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-relationship-charts-and-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,12 +1574,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), parallel (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** known as (1), is an  (1)
 
-#### Parallel coordinates plots: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980)
+#### [Parallel coordinates plots: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1639,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980&t=269)** You can further stylize your chart or reorder data before downloading an SVG.
 >
-> **[4:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980&t=275)** To add interactive elements later in Figma or a tool of your choice, an SVG is great.
+> **[4:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980&t=275)** To add interactive elements later in [[Figma (Software)|Figma]] or a tool of your choice, an SVG is great.
 >
 > **[4:42](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/parallel-coordinates-plots-what-when-why-and-how?u=76281980&t=282)** Or you can also download a static ping.
 >
@@ -1681,7 +1655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), parallel (5), teams (4), next (3), feature (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **Env Vars:** nba (3), svg (2)
 > **Cross-References:** we covered (1), later in (1)
 > **Analogies:** for instance (1), for example (1)
@@ -1690,8 +1664,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Definitions:** is an  (1)
 
-#### Chord diagrams explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980)
+#### [Chord diagrams explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,7 +1784,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980&t=470)** I might find more value in creating multiple chord diagrams, one for each NCAA conference, or one for each position in the NBA.
 >
-> **[8:00](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980&t=480)** Alternatively, I can decrease my conference focus to just the most popular – the SEC, the AAC, and then lump the rest into a category called other.
+> **[8:00](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980&t=480)** Alternatively, I can decrease my conference focus to just the most popular – the SEC, the AAC, and then lump the [[Representational State Transfer (REST)|rest]] into a category called other.
 >
 > **[8:12](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/chord-diagrams-explained-what-when-why-and-how?u=76281980&t=492)** How you organize your data matters, too, because it determines how your nodes are organized along a circular path.
 >
@@ -1829,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), node (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** nba (8), ncaa (5), aac (2), sec (2)
 > **CLI Commands:** node (4), make (2), find (1)
 > **Analogies:** for example (6), just like (1)
@@ -1838,8 +1811,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 
-#### Using maps for advanced data visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980)
+#### [Using maps for advanced data visualizations](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,7 +1823,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=28)** One of my favorite sources for mapped-based data visualizations is [USAFacts.org](https://USAFacts.org).
 >
-> **[0:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=35)** Created by former Microsoft CEO Steve Ballmer, USAFacts is the largest source for standardized U.S. government data on the web.
+> **[0:35](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=35)** Created by former [[Microsoft]] CEO Steve Ballmer, USAFacts is the largest source for standardized U.S. government data on the web.
 >
 > **[0:45](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=45)** The site is rich with interactive data visualizations that you can get lost in for days.
 >
@@ -1897,13 +1869,13 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=268)** Circles are placed in relation to where the region would be on a standard map, and sized like a bubble chart to display value. A popular example of this is often used to show electoral college votes during U.S. presidential elections. While most map-based visualizations can be created and flourish, Dorling cartograms often require a code library to produce. If you're interested in
 >
-> **[4:55](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=295)** learning more, I suggest checking out D3.js Essential Training for Data Scientists and
+> **[4:55](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=295)** learning more, I suggest checking out [[D3.js]] Essential Training for Data Scientists and
 >
-> **[5:08](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=308)** [[Learning Data Visualization]] with D3.js on LinkedIn Learning, when you're done with this course, of course.
+> **[5:08](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/using-maps-for-advanced-data-visualizations?u=76281980&t=308)** [[Learning Data Visualization]] with D3.js on [[LinkedIn]] Learning, when you're done with this course, of course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), traffic (2), [[D3.js]] (2), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[D3.js]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** ceo (1), covid (1), tsa (1)
 > **File Paths:** d3.js (2)
@@ -1915,14 +1887,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are composition charts and graphs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980)
+#### [What are composition charts and graphs?](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980&t=5)** We've now distributed information about distribution charts, compared various comparison charts, and built a strong relationship with relationship charts.
 >
-> **[0:16](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980&t=16)** Now it's time to compose our thoughts around the final quadrant of the chart selection framework, composition charts and graphs.
+> **[0:16](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980&t=16)** Now it's time to [[Jetpack Compose|compose]] our thoughts around the final quadrant of the chart selection framework, composition charts and graphs.
 >
 > **[0:25](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980&t=25)** And if you're still paying attention to me after that horrible round of wordplay, it means you're almost as excited as I am to dive in.
 >
@@ -1952,12 +1923,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Marimekko charts explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980)
+#### [Marimekko charts explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1971,7 +1941,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=38)** But rather than relying on only one axis to illustrate value, both the X and the Y axis are used to designate value of their own unique variable.
 >
-> **[0:49](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=49)** They are great to use when you want to analyze sales performance across multiple locations and products, review budget breakdowns, gain an understanding of market share, or analyze key demographics of customer segments.
+> **[0:49](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=49)** They are great to use when you want to analyze sales performance across multiple locations and [[Microsoft Products|products]], review budget breakdowns, gain an understanding of market share, or analyze key demographics of customer segments.
 >
 > **[1:06](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=66)** To show you what I mean, here is a MECO chart showing sales across stores for a fictitious store that we'll call MECOLAND.
 >
@@ -2055,7 +2025,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=404)** I can then download this chart and bring it into Adobe Illustrator or Photoshop for further refinement if I want to.
 >
-> **[6:53](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=413)** Or I can export the HTML to create an interactive chart.
+> **[6:53](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=413)** Or I can export the [[HTML]] to create an interactive chart.
 >
 > **[6:57](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/marimekko-charts-explained-what-when-why-and-how?u=76281980&t=417)** It's not perfect, but for a free tool, it offers a great foundation to work from.
 >
@@ -2067,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Products|Products]] (2), power (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[HTML]] (1)
 > **Env Vars:** meco (2), ncaa (2), mecoland (1), nba (1), aac (1)
 > **Definitions:** means that (2), is a  (1), is an  (1), is called (1)
 > **Analogies:** for example (2)
@@ -2076,8 +2046,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Warnings:** note that (1)
 
-#### Sunburst diagrams explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980)
+#### [Sunburst diagrams explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=88)** These charts don't always need to communicate value.
 >
-> **[1:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=92)** Instead, they can simply show hierarchy and flow to aid decision-making or improve understanding of a population.
+> **[1:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=92)** Instead, they can simply show hierarchy and flow to aid [[Decision-Making]] or improve understanding of a population.
 >
 > **[1:41](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=101)** This chart, for example, offers a great way to find your next best cup of coffee, but It's equally proportioned slices means that it doesn't communicate value.
 >
@@ -2117,7 +2086,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=165)** Now, Flourish relies on a single column or a single set of values to pull from when creating these charts.
 >
-> **[2:52](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=172)** This means that we have to take the time to identify the final value for the outermost ring and let Flourish calculate the rest based on total category count.
+> **[2:52](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=172)** This means that we have to take the time to identify the final value for the outermost ring and let Flourish calculate the [[Representational State Transfer (REST)|rest]] based on total category count.
 >
 > **[3:04](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=184)** Let me show you what I mean.
 >
@@ -2135,7 +2104,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=238)** Instead, this is a perfect problem that a pivot table can solve.
 >
-> **[4:03](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=243)** By highlighting my data and choosing Insert Pivot Chart, Excel will produce a pivot table for me to work from.
+> **[4:03](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=243)** By highlighting my data and choosing Insert Pivot Chart, [[Microsoft Excel|Excel]] will produce a pivot table for me to work from.
 >
 > **[4:12](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=252)** Now I'm going to choose player count and position for my values and sort my data by the first three levels of my sunburst chart, which are country, draft round, and conference.
 >
@@ -2155,21 +2124,20 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=299)** A very robust sunburst diagram breaking down the hierarchy of the NBA by four levels of data.
 >
-> **[5:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=307)** Now, a lot of advanced data viz requires a healthy knowledge of creating pivot tables in Excel.
+> **[5:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=307)** Now, a lot of advanced data viz requires a healthy knowledge of creating [[Pivot Tables]] in Excel.
 >
-> **[5:14](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=314)** If you aren't comfortable with pivot tables, check out Excel Pivot Tables for Beginners by Dave Ludwig on LinkedIn Learning.
+> **[5:14](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/sunburst-diagrams-explained-what-when-why-and-how?u=76281980&t=314)** If you aren't comfortable with pivot tables, check out Excel Pivot Tables for Beginners by Dave Ludwig on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (3), next (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (3), [[Decision-Making]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nba (2), usa (2)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
 
-#### Streamgraphs explained: What, when, why, and how
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980)
+#### [Streamgraphs explained: What, when, why, and how](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2187,7 +2155,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980&t=72)** Hence the name, StreamGraph.
 >
-> **[1:16](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980&t=76)** Now this graph was popularized by the New York Times in 2008, when their graphics and data team released the interactive chart The Ebb and Flow of Movies, Box Office Receipts from 1986 to 2008.
+> **[1:16](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980&t=76)** Now this graph was popularized by the New York Times in 2008, when their graphics and data team released the interactive chart The Ebb and Flow of Movies, Box [[Microsoft Office|Office]] Receipts from 1986 to 2008.
 >
 > **[1:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/streamgraphs-explained-what-when-why-and-how?u=76281980&t=92)** Rather than giving each movie its own color category, color is used to represent box office sales, and interactivity is used to identify the movie associated with each stream.
 >
@@ -2263,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (3), game (2), teams (1), cd (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **Analogies:** for instance (2), picture (1), for example (1), such as (1)
 > **CLI Commands:** make (1), cd (1)
 > **Env Vars:** nba (1)
@@ -2275,14 +2243,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to hone your advanced data visualization skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980)
+#### [Continuing to hone your advanced data visualization skills](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=5)** It's official.
 >
-> **[0:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=7)** You've just kicked your data literacy skills up several levels by completing this course on Visualizing Advanced Charts and Graphs.
+> **[0:07](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=7)** You've just kicked your [[Data Literacy]] skills up several levels by completing this course on Visualizing Advanced Charts and Graphs.
 >
 > **[0:16](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=16)** You've learned to tell robust data stories with density plots, Sankey and alluvial diagrams, bullet charts, parallel coordinates plots and so much more.
 >
@@ -2296,9 +2263,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=70)** These free solutions put a wealth of options at your fingertips and provide sample data to help you better understand what data sets fit best within each visualization.
 >
-> **[1:23](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=83)** If you want to take things even further, consider [[Learning Data Visualization]] coding libraries like Python and D3.js.
+> **[1:23](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=83)** If you want to take things even further, consider [[Learning Data Visualization]] coding libraries like [[Python (Programming Language)|Python]] and [[D3.js]].
 >
-> **[1:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=92)** LinkedIn Learning has great courses in this arena, like [[Python Essential Training]] by Ryan Mitchell, or Python for Non-Programmers by Nick Walter.
+> **[1:32](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=92)** [[LinkedIn]] Learning has great courses in this arena, like [[Python Essential Training]] by Ryan Mitchell, or Python for Non-Programmers by Nick Walter.
 >
 > **[1:43](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980&t=103)** Both courses will help you take a tool like Plotly to an entirely new level.
 >
@@ -2322,7 +2289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), [[D3.js]] (2), parallel (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), [[D3.js]] (2), [[Data Literacy]] (1)
 > **CLI Commands:** python (3), make (1)
 > **File Paths:** d3.js (2)
 > **Env Vars:** nba (2)

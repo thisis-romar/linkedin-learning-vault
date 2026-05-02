@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI in content marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980)
+#### [Responsible AI in content marketing](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -82,7 +81,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=11)** So, let's get you ready for it.
 >
-> **[0:13](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=13)** Marketers sometimes look at all the potential benefits of using AI and rush into implementing it in their workflows, but they may not be thinking of all of the privacy and data risks that are inherent to AI use.
+> **[0:13](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=13)** Marketers sometimes look at all the potential benefits of using AI and rush into implementing it in their workflows, but they may not be thinking of all of the [[Privacy]] and data risks that are inherent to AI use.
 >
 > **[0:23](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=23)** This course will serve as your guide to using AI responsibly.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=36)** I'm Lauren Diethelm and I'm a content marketer and a bit of an AI nerd.
 >
-> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=39)** My experience in building strategic content programs, writing about AI governance and regulation, and using AI in my own daily work has given me a unique perspective on how content marketers are using AI and what they need to be thinking about to use this technology responsibly.
+> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=39)** My experience in building strategic content programs, writing about [[AI Governance]] and regulation, and using AI in my own daily work has given me a unique perspective on how content marketers are using AI and what they need to be thinking about to use this technology responsibly.
 >
 > **[0:53](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980&t=53)** In this course, I'll cover how to use AI effectively in content marketing, ethical considerations for using AI, and how to implement AI on your team responsibly.
 >
@@ -98,21 +97,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Privacy]] (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[AI Governance]] (1)
 
 
 ### 1. Understanding AI in Content Marketing
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating AI in content marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980)
+#### [Integrating AI in content marketing](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=0)** This is my content marketing hot take: AI-generated content can actually be fine.
 >
-> **[0:04](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=4)** If, like me, your LinkedIn feed is full of content marketers saying, “Don't use AI for your content.
+> **[0:04](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=4)** If, like me, your [[LinkedIn]] feed is full of content marketers saying, “Don't use AI for your content.
 >
 > **[0:09](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=9)** We can tell when you do.
 >
@@ -120,13 +118,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=16)** And don't get me wrong, sometimes AI-generated content is terrible and you shouldn't use it.
 >
-> **[0:21](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=21)** But the fact is that AI is changing the way you can go about content creation, curation, and distribution, whether you like it or not.
+> **[0:21](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=21)** But the fact is that AI is changing the way you can go about [[Content Creation]], curation, and distribution, whether you like it or not.
 >
 > **[0:27](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=27)** And there are actually ways that you can use these changes to your advantage.
 >
 > **[0:30](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=30)** Let's talk about how you can do that and what to watch out for when you start using AI in your content marketing.
 >
-> **[0:36](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=36)** There are two main ways that I've used generative AI tools like ChatGPT or Claude for content creation.
+> **[0:36](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=36)** There are two main ways that I've used [[Generative AI Tools]] like [[ChatGPT]] or Claude for content creation.
 >
 > **[0:41](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=41)** You can ask it to simply create an outline that’ll be completed later by a human teammate, or you can ask it to generate a fully completed piece of content.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=55)** This can be especially helpful if you're working on a content audit and need a quick understanding of where your current content library stands.
 >
-> **[1:02](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=62)** Distribution is a critical part of any content marketing strategy, and AI can help you distill long-form content into a short social media post or can help you turn a webinar transcription into a blog post.
+> **[1:02](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=62)** Distribution is a critical part of any content [[Marketing Strategy]], and AI can help you distill long-form content into a short social media post or can help you turn a webinar transcription into a blog post.
 >
 > **[1:13](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=73)** In any of these use cases, the biggest draw of using AI is to save time or to help alleviate the workload for human teammates who are stretched too thin.
 >
@@ -150,21 +148,20 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=111)** When you do that, LinkedIn doesn't even need to know that you used AI.
 >
-> **[1:54](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=114)** Next time you reach one of these stages in your content marketing process, take a moment to see where AI might be able to fit in with the rest of your human team.
+> **[1:54](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980&t=114)** Next time you reach one of these stages in your content marketing process, take a moment to see where AI might be able to fit in with the [[Representational State Transfer (REST)|rest]] of your human team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[LinkedIn]] (3), [[Content Creation]] (2), [[ChatGPT]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Content Creation]] (2), [[ChatGPT]] (1), [[Marketing Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** watch out (1), warning (1)
 > **Definitions:** is a  (1)
 
-#### Deciding if AI is the right tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980)
+#### [Deciding if AI is the right tool](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=0)** If you Google “How many AI tools are there?”
+> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=0)** If you [[Google]] “How many AI tools are there?”
 >
 > **[0:02](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=2)** it's almost impossible to get a solid answer.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=60)** But if you can't identify a clear problem and are just using AI for the sake of it, I would encourage you to move on to step two of this framework, which is: Can I solve this problem another way?
 >
-> **[1:09](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=69)** While AI certainly has its benefits, it also comes with inherent risks to things like personal data, privacy, and intellectual property rights.
+> **[1:09](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=69)** While AI certainly has its benefits, it also comes with inherent risks to things like personal data, [[Privacy]], and intellectual property rights.
 >
 > **[1:17](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/deciding-if-ai-is-the-right-tool?u=76281980&t=77)** If the problem you're trying to solve can be addressed another way, like by bringing on a contract writer or a freelance designer, you protect yourself and your company from some of those risks.
 >
@@ -212,12 +209,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Google]] (1), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Privacy]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 
-#### Demonstrating the value of AI to leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980)
+#### [Demonstrating the value of AI to leadership](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,13 +225,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=12)** Who's keeping track of all of that data?
 >
-> **[0:14](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=14)** This data management problem is one of the big reasons why so many executives are wary when it comes to using AI.
+> **[0:14](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=14)** This [[Data Management]] problem is one of the big reasons why so many executives are wary when it comes to using AI.
 >
 > **[0:20](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=20)** These models are data-hungry, and it's hard to track who's using an AI tool and how.
 >
 > **[0:24](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=24)** But AI is here to stay and it can be incredibly helpful for content marketers.
 >
-> **[0:28](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=28)** So, how do you convince wary leadership how valuable AI can be for your productivity and content creation?
+> **[0:28](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=28)** So, how do you convince wary leadership how valuable AI can be for your productivity and [[Content Creation]]?
 >
 > **[0:33](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/demonstrating-the-value-of-ai-to-leadership?u=76281980&t=33)** Let's get into it.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (4), business (4), leadership (2), management (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Content Creation]] (1)
 > **CLI Commands:** make (1), find (1)
 
 
@@ -285,12 +281,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying and mitigating bias in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980)
+#### [Identifying and mitigating bias in AI](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980&t=0)** For how many people express concern about using generative AI tools, Forbes found that only 54% feel they could tell the difference between content created by AI and content created by a human.
+> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980&t=0)** For how many people express concern about using [[Generative AI Tools]], Forbes found that only 54% feel they could tell the difference between content created by AI and content created by a human.
 >
 > **[0:10](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980&t=10)** This number tells me that AI models are better at emulating human writing than most people give them credit for, which also means it's just as good at replicating human bias.
 >
@@ -330,18 +325,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (2), express (1), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 
-#### Analyzing consent in AI marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980)
+#### [Analyzing consent in AI marketing](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=0)** If you're anything like me, you've gotten notices in the mail or online that your personal data has been identified as part of a data breach, and then you've promptly forgotten about those notices.
 >
-> **[0:10](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=10)** This probably isn't the best data management approach on my part, but the fact is that my personal data is everywhere, and some companies may be using it in ways that I never agreed to.
+> **[0:10](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=10)** This probably isn't the best [[Data Management]] approach on my part, but the fact is that my personal data is everywhere, and some companies may be using it in ways that I never agreed to.
 >
 > **[0:19](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=19)** AI throws a whole new wrench into consent concerns.
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=30)** Can I opt out of it?
 >
-> **[0:32](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=32)** Consent is a huge tenet of responsible AI usage, and it's not the customer's job to keep track of whether or not companies are using their data responsibly.
+> **[0:32](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=32)** Consent is a huge tenet of [[Responsible AI]] usage, and it's not the customer's job to keep track of whether or not companies are using their data responsibly.
 >
 > **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=39)** It's the company’s.
 >
@@ -375,19 +368,18 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=112)** They can help you determine if you have consent for the campaign that you want to run.
 >
-> **[1:55](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=115)** But if you don't have these resources at your company, a really easy way to ensure that you're not inadvertently putting your customers’ privacy at risk is to just not enter any of their personal data into an AI system.
+> **[1:55](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=115)** But if you don't have these resources at your company, a really easy way to ensure that you're not inadvertently putting your customers’ [[Privacy]] at risk is to just not enter any of their personal data into an AI system.
 >
 > **[2:06](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/analyzing-consent-in-ai-marketing?u=76281980&t=126)** When in doubt, the best way to protect yourself and your customers is to save AI for a different project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (10), teams (2), management (1), product (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Responsible AI]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 
-#### Balancing personalization and privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980)
+#### [Balancing personalization and privacy](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,15 +391,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=16)** Because of this, AI allows marketers to create highly personalized content, which data shows can help increase the efficacy of your campaigns.
 >
-> **[0:22](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=22)** But, highly personalized content also creates highly pressing privacy concerns.
+> **[0:22](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=22)** But, highly personalized content also creates highly pressing [[Privacy]] concerns.
 >
 > **[0:28](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=28)** Just because you have the ability to personalize all of your marketing touchpoints, does that mean you should?
 >
 > **[0:33](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=33)** As with most things, there's a balance you can strike here.
 >
-> **[0:35](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=35)** Let's talk about ways you can balance personalization with data privacy best practices.
+> **[0:35](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=35)** Let's talk about ways you can balance personalization with [[Data Privacy]] best practices.
 >
-> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=39)** AI can be incredibly helpful for things like analyzing purchase history and combining that information with certain demographic data like age, location, and gender -- -- and then serve your customers ads for products you think they're most likely to buy or content that's most likely to be relevant for them.
+> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=39)** AI can be incredibly helpful for things like analyzing purchase history and combining that information with certain demographic data like age, location, and gender -- -- and then serve your customers ads for [[Microsoft Products|products]] you think they're most likely to buy or content that's most likely to be relevant for them.
 >
 > **[0:53](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/balancing-personalization-and-privacy?u=76281980&t=53)** And for the most part, consumers are used to and sometimes even expect this level of personalization.
 >
@@ -447,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (5), [[Privacy]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -458,14 +450,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing an ethical AI policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980)
+#### [Developing an ethical AI policy](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=0)** Be honest.
 >
-> **[0:01](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=1)** If your company had you do a responsible AI training, did you pay attention?
+> **[0:01](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=1)** If your company had you do a [[Responsible AI]] training, did you pay attention?
 >
 > **[0:04](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=4)** Or were you watching at 2x speed?
 >
@@ -481,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=34)** An ethical AI policy does what it sounds like: it lays out what ethical AI use looks like for your organization.
 >
-> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=39)** Many of these policies have common values like transparency and accountability, data privacy, and explainability.
+> **[0:39](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=39)** Many of these policies have common values like transparency and [[Accountability]], [[Data Privacy]], and explainability.
 >
 > **[0:46](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980&t=46)** If you have an ethical AI policy available to you already, go back to your responsible AI training and watch it at regular speed.
 >
@@ -499,12 +490,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Responsible AI]] (2), [[Accountability]] (2), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Accountability]] (2), [[Data Privacy]] (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Training your team on responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980)
+#### [Training your team on responsible AI](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,11 +504,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=11)** If you're leading a content marketing team, it likely falls to you to help give your coworkers and teammates some guidance on how to do that thinking through.
 >
-> **[0:18](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=18)** In this lesson, you'll explore strategies for educating your marketing team on responsible AI use.
+> **[0:18](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=18)** In this lesson, you'll explore strategies for educating your marketing team on [[Responsible AI]] use.
 >
 > **[0:24](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=24)** The first and most simple way you can train your team on responsible AI is just to talk to your team about it.
 >
-> **[0:29](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=29)** A lot of people use AI without thinking about the privacy implications or don't think that there's anything that they can do to help ensure AI best practices.
+> **[0:29](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=29)** A lot of people use AI without thinking about the [[Privacy]] implications or don't think that there's anything that they can do to help ensure AI best practices.
 >
 > **[0:37](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=37)** But as you're learning in this course, that's not necessarily the case.
 >
@@ -528,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=58)** If your company has an ethical AI use policy in place already, make sure your team knows about it and has it available to refer back to whenever they have an AI question.
 >
-> **[1:07](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=67)** If your company doesn't have any responsible AI guidelines, you can still offer some guidance to the rest of your team.
+> **[1:07](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=67)** If your company doesn't have any responsible AI guidelines, you can still offer some guidance to the [[Representational State Transfer (REST)|rest]] of your team.
 >
 > **[1:12](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/training-your-team-on-responsible-ai?u=76281980&t=72)** I once had a director who created a specific responsible AI training for the content team, separate from any other guidance the company provided.
 >
@@ -550,12 +540,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Responsible AI]] (3), [[Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
-#### Driving content development with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980)
+#### [Driving content development with AI](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +552,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=3)** I'll go first.
 >
-> **[0:03](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=3)** It has the word “delve” in it.
+> **[0:03](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=3)** It has the [[Microsoft Word|word]] “delve” in it.
 >
 > **[0:05](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=5)** I won't pretend that AI content is perfect.
 >
@@ -589,7 +578,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=67)** Another commonality no matter how you're using AI is to make sure your prompt is as specific as possible.
 >
-> **[1:12](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=72)** If you tell a generative AI tool, “Write me a blog post about traveling to Maine,” you're going to get a super generic post made up of all of the other general content available on the internet.
+> **[1:12](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=72)** If you tell a [[Generative AI]] tool, “Write me a blog post about traveling to Maine,” you're going to get a super generic post made up of all of the other general content available on the internet.
 >
 > **[1:21](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/driving-content-development-with-ai?u=76281980&t=81)** With that prompt, there's no way that AI can generate you something that's guaranteed to be factual or relevant to your audience because it has no guardrails to do so.
 >
@@ -617,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), prompt (6), [[Microsoft Word|Word]] (2), [[Generative AI]] (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 
 
@@ -625,12 +614,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensuring long-term ethical AI practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980)
+#### [Ensuring long-term ethical AI practices](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980&t=0)** When ChatGPT rose to notoriety in November of 2022, it was using a model called GPT 3.5.
+> **[0:00](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980&t=0)** When [[ChatGPT]] rose to notoriety in November of 2022, it was using a model called GPT 3.5.
 >
 > **[0:07](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980&t=7)** By November of 2023, OpenAI upgraded the model to GPT 4.0.
 >
@@ -682,7 +670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[ChatGPT]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Versions:** 4.0 (3), 3.5 (2)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** make (3)
@@ -693,8 +681,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhance your marketing with ethical AI integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980)
+#### [Enhance your marketing with ethical AI integration](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,9 +697,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=23)** The more you do it, the better content you'll be able to get from AI.
 >
-> **[0:26](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=26)** If you want to stay up to date on AI advancements and get some top-notch insights, Allie K Miller is a great person to follow on LinkedIn.
+> **[0:26](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=26)** If you want to stay up to date on AI advancements and get some top-notch insights, Allie K Miller is a great person to follow on [[LinkedIn]].
 >
-> **[0:33](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=33)** The podcast Hard Fork from the New York Times is also a great listen for anyone looking for industry news about responsible AI and privacy in general.
+> **[0:33](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=33)** The podcast Hard Fork from the New York Times is also a great listen for anyone looking for industry news about [[Responsible AI]] and [[Privacy]] in general.
 >
 > **[0:40](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980&t=40)** Feel free to connect with me on LinkedIn if you have any questions about anything I covered in this course or if you just want to chat more about using AI in your content marketing.
 >
@@ -724,7 +711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (2), next (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)

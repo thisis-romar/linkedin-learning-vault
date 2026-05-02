@@ -137,14 +137,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate effectively with Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980)
+#### [Communicate effectively with Microsoft Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980&t=0)** - Communication is one of the biggest keys to success in the workplace.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980&t=4)** Microsoft Teams offers several tools to make that communication easier.
+> **[0:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980&t=4)** [[Microsoft Teams]] offers several tools to make that communication easier.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/communicate-effectively-with-microsoft-teams?u=76281980&t=8)** I'm Nick Brazzi, and I've put together a training course that introduces the most important features in Teams, including group conversation threads and established team channels.
 >
@@ -156,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - communication (1)
 
@@ -165,12 +164,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the different versions of Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980)
+#### [Understand the different versions of Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=1)** - There are different versions of Microsoft Teams, which have different sets of features, and there are optional add-ons available that can add even more features.
+> **[0:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=1)** - There are different versions of [[Microsoft Teams]], which have different sets of features, and there are optional add-ons available that can add even more features.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=10)** So there may be some features that you'll see in this course that you do not have in your version of Teams.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=26)** This course mainly focuses on the version of Microsoft Teams for enterprise and large businesses.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=32)** This is the version of Teams that comes with a Microsoft 365 subscription, that is usually purchased for a company, organization, or school by that organization's IT department.
+> **[0:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=32)** This is the version of Teams that comes with a [[Microsoft 365]] subscription, that is usually purchased for a company, organization, or school by that organization's IT department.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=43)** This is sometimes referred to as the full version of Teams.
 >
@@ -212,13 +210,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=133)** However, there are two popular add-ons that are available, which add extra features to Teams for enterprise or education.
 >
-> **[2:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=140)** Both of these add-ons require a separate purchase, so your Microsoft administrator would need to buy a license for these add-ons before you can use those features.
+> **[2:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=140)** Both of these add-ons require a separate purchase, so your [[Microsoft]] administrator would need to buy a license for these add-ons before you can use those features.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=149)** And if you want to use some of the exciting artificial intelligence features in Teams, those generally come with these add-ons.
+> **[2:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=149)** And if you want to use some of the exciting [[Artificial Intelligence (AI)|artificial intelligence]] features in Teams, those generally come with these add-ons.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=158)** Microsoft 365 Copilot is an add-on for a Microsoft 365 subscription in an organization.
+> **[2:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=158)** Microsoft 365 [[Microsoft Copilot|Copilot]] is an add-on for a Microsoft 365 subscription in an organization.
 >
-> **[2:45](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=165)** This adds an AI assistant to several Microsoft 365 applications, including Word, Outlook, PowerPoint, Excel, and Microsoft Teams.
+> **[2:45](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=165)** This adds an AI assistant to several Microsoft 365 applications, including [[Microsoft Word|Word]], [[Microsoft Outlook|Outlook]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]], and Microsoft Teams.
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/understand-the-different-versions-of-teams?u=76281980&t=176)** If you have the Copilot add-on and you work in Teams, you can use an AI assistant that can summarize or answer questions about your chat conversations or meetings.
 >
@@ -246,15 +244,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (22), [[Microsoft Teams]] (6), [[Microsoft 365]] (5), business (4), [[Microsoft]] (4)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Microsoft 365]] (5), [[Microsoft]] (4), [[Microsoft Copilot|Copilot]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - there (1)
 
-#### Use Teams on the web or the desktop application
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980)
+#### [Use Teams on the web or the desktop application](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,13 +259,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=8)** We'll start by using Teams in a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=10)** Any user, regardless of your subscription type, can go to Teams.[microsoft.com](https://microsoft.com).
+> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=10)** Any user, regardless of your subscription type, can go to Teams.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=16)** This will work in most web browsers, including Chrome, Microsoft Edge, and Safari.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=21)** You will need to sign in with your account.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=24)** If you have a Microsoft 365 email address and password set up and managed by your company or school, that's what you should use to sign in, or if you're using a Team's essential subscription, you may have set up the account when you bought the subscription, or maybe a team leader sent you an invitation.
+> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=24)** If you have a [[Microsoft 365]] email address and password set up and managed by your company or school, that's what you should use to sign in, or if you're using a Team's essential subscription, you may have set up the account when you bought the subscription, or maybe a team leader sent you an invitation.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=41)** You'll need to follow the prompts in that invitation email to set up the account that you'll use to sign into Teams.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=61)** If you are a Microsoft 365 subscriber, you can go to the Microsoft 365 website.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=67)** That is [office.com](https://office.com), and if you sign in this way, you have access to lots of different Microsoft tools.
+> **[1:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=67)** That is [[[Microsoft Office|office]].com](https://office.com), and if you sign in this way, you have access to lots of different Microsoft tools.
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=75)** You can see some of them listed over here on the left.
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=109)** This is a great way to work and it gives you almost all of the features, but there is another way to work with Teams.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=116)** You can install the separate application on your Windows or Mac computer.
+> **[1:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=116)** You can install the separate application on your [[Windows]] or Mac computer.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=120)** If you do not already have that application installed.
 >
@@ -306,7 +303,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=140)** Once you've installed that application, you can go to the applications folder on a Mac or to the start menu on Windows and Launch Teams there.
 >
-> **[2:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=148)** You may have it as a shortcut right here on the start menu, or you may need to click the button that says All Apps and find Microsoft Teams and launch it.
+> **[2:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=148)** You may have it as a shortcut right here on the start menu, or you may need to click the button that says All Apps and find [[Microsoft Teams]] and launch it.
 >
 > **[2:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=158)** In this application you should sign into your account and it will configure for whichever type of subscription you have.
 >
@@ -324,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (19), application (11), web (7), [[Microsoft]] (3), [[Microsoft 365]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (3), [[Windows]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Teams]] (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1), configure (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (3)
@@ -333,8 +330,7 @@ created: 2026-05-02
 > **Tools:** safari (1)
 > **Exercise Files:** download the (1)
 
-#### Use Teams as a guest: Client and contractor access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980)
+#### [Use Teams as a guest: Client and contractor access](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=75)** And let's take a quick look at the Teams interface for a guest user.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=80)** I'll go to teams.[microsoft.com](https://microsoft.com).
+> **[1:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=80)** I'll go to teams.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=84)** And I'll sign into the account for a user named Jennifer.
 >
@@ -406,9 +402,9 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=199)** Guests can participate in team conversations but cannot create their own new teams.
 >
-> **[3:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=204)** Also, any features that require a connection to the Microsoft 365 ecosystem will not work.
+> **[3:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=204)** Also, any features that require a connection to the [[Microsoft 365]] ecosystem will not work.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=210)** This includes things like SharePoint integration.
+> **[3:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=210)** This includes things like [[SharePoint]] integration.
 >
 > **[3:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=212)** But the benefit is that guest users can work with members of an established organization without being a full member of that organization.
 >
@@ -420,19 +416,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (20), business (1), [[Microsoft]] (1), feature (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft 365]] (1), [[SharePoint]] (1)
 > **UI Navigation:** go to (1), click on (1), in the sidebar (1), switch to (1)
 > **Definitions:** is a  (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join a meeting without a Teams account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-meeting-without-a-teams-account?u=76281980)
+#### [Join a meeting without a Teams account](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-meeting-without-a-teams-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-meeting-without-a-teams-account?u=76281980&t=0)** - [Instructor] You should know that it is possible, in fact, it's very easy to join a video or audio meeting in Microsoft Teams, even if you do not have a Teams account.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-meeting-without-a-teams-account?u=76281980&t=0)** - [Instructor] You should know that it is possible, in fact, it's very easy to join a video or audio meeting in [[Microsoft Teams]], even if you do not have a Teams account.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-meeting-without-a-teams-account?u=76281980&t=10)** Users with the business enterprise or education version of Teams can invite people to meetings using only their email address as we'll see later in this course.
 >
@@ -458,15 +453,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (1), business (1), web (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (1), open the (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keep teams and chats combined or separated
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/keep-teams-and-chats-combined-or-separated?u=76281980)
+#### [Keep teams and chats combined or separated](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/keep-teams-and-chats-combined-or-separated?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,7 +540,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (17), feature (1), next (1), application (1)
 > **UI Navigation:** in the sidebar (6), go to (2), right-click (2), switch to (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** setup (1)
@@ -557,12 +550,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Join a team in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980)
+#### [Join a team in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=0)** - [Instructor] The core part of working in Microsoft Teams is communicating with a group of people, and that group is called a Team.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=0)** - [Instructor] The core part of working in [[Microsoft Teams]] is communicating with a group of people, and that group is called a Team.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=6)** Some people will create their own Teams and we'll see how to do that in another video, but most people will simply join existing Teams that other people have created.
 >
@@ -592,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=77)** Or if you know the name of a team that you want to join, you can go to the search field and search for it.
 >
-> **[1:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=83)** So I'm going to search for the word social because I think there's a team for social planning.
+> **[1:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=83)** So I'm going to search for the [[Microsoft Word|word]] social because I think there's a team for social planning.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=88)** And there it is. It came up in the search results.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=161)** Instead, they could send you a link or a code to join the private team if you want.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=167)** I'll go over to Outlook and check my email.
+> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=167)** I'll go over to [[Microsoft Outlook|Outlook]] and check my email.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=170)** And here my email, I have a message from Stewart and he sent me a link to join a private team, and he also sent me a code.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=253)** They show up in this grid view.
 >
-> **[4:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=255)** To join a new team, I can click the button on the top left that says, join our create team, then choose join team, and the rest works the same from here.
+> **[4:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=255)** To join a new team, I can click the button on the top left that says, join our create team, then choose join team, and the [[Representational State Transfer (REST)|rest]] works the same from here.
 >
 > **[4:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/join-a-team-in-teams-25636902?u=76281980&t=263)** For now, I'll just click this back button near the top left to go back to my main list.
 >
@@ -700,15 +692,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (26), [[Search]] (7), business (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Teams]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (5), switch to (1)
 > **Definitions:** is called (2), is a  (2), means that (1)
 > **Cross-References:** go back to (2), previous chapter (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manage your list of teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-your-list-of-teams-25638926?u=76281980)
+#### [Manage your list of teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-your-list-of-teams-25638926?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,13 +745,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), next (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a team and add members in Teams for Business or Enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980)
+#### [Create a team and add members in Teams for Business or Enterprise](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,7 +777,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=44)** Now, we started this window to make a standard team, but you can click where it says More create team options, and there are templates available here, so you can make a team that is already configured for specific needs.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=56)** And on the left, you also have options to make a new team based on an existing team or from an existing SharePoint group.
+> **[0:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=56)** And on the left, you also have options to make a new team based on an existing team or from an existing [[SharePoint]] group.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=64)** So you could reuse the member list or other settings from a team you already have.
 >
@@ -806,13 +795,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=99)** So I'm going to make a team for my web designers.
 >
-> **[1:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=103)** So for the name, I'll just call this Web Design.
+> **[1:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=103)** So for the name, I'll just call this [[Web Design]].
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=109)** I'm going to include people from my organization who are web developers or web engineers or designers, or anybody relevant to this group as I've defined it.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=118)** Next, it's a good idea to give this a description, but just to keep things moving, I'll skip that.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=123)** And we'll go to the privacy option. I'll click that.
+> **[2:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=123)** And we'll go to the [[Privacy]] option. I'll click that.
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=127)** And the private option means that only people you invite will be able to join this team.
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=138)** And you might see an option for org-wide.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=141)** If you make an org-wide team, then everybody in your Microsoft 365 organization will automatically be added to that team.
+> **[2:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=141)** If you make an org-wide team, then everybody in your [[Microsoft 365]] organization will automatically be added to that team.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=150)** So you should be very careful with this one.
 >
@@ -898,13 +887,13 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=343)** And that's all it takes to create a new team and add members to that team.
 >
-> **[5:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=348)** And in the rest of this chapter, we'll do more work with this team.
+> **[5:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=348)** And in the [[Representational State Transfer (REST)|rest]] of this chapter, we'll do more work with this team.
 >
 > **[5:51](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-business-or-enterprise-25636903?u=76281980&t=351)** But if you want to learn more about managing a team as a team owner, there's a chapter dedicated to that later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (12), web (4), next (3), business (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Web Design]] (1), [[Privacy]] (1), [[Microsoft 365]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (11)
 > **Cross-References:** later in (3), earlier in (1), as we saw (1)
 > **UI Navigation:** go to (3), in the sidebar (1), open the (1)
@@ -913,8 +902,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a team and add members in Teams for Education
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980)
+#### [Create a team and add members in Teams for Education](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=55)** And if that's what you need, you can set that up.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=58)** If you need a new class, professional learning community, or staff team, then you will need to talk to your school's Microsoft 365 administrator and ask them to set up the team.
+> **[0:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=58)** If you need a new class, professional learning community, or staff team, then you will need to talk to your school's [[Microsoft 365]] administrator and ask them to set up the team.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=69)** I see these options because I am currently signed in as an administrator.
 >
@@ -960,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=107)** Public means that any other people in your organization can join it without an invitation if they choose.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=114)** You could select the privacy setting that you want, and then from there, you can continue setting up the team, and it will work as we saw in the previous video on creating a team for Business or Enterprise.
+> **[1:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=114)** You could select the [[Privacy]] setting that you want, and then from there, you can continue setting up the team, and it will work as we saw in the previous video on creating a team for Business or Enterprise.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-a-team-and-add-members-in-teams-for-education?u=76281980&t=124)** But for now, I just want to cancel this, so I'll click the X up at the top.
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (12), [[Search]] (3), business (2), [[Privacy]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft 365]] (1)
 > **Prerequisites:** set up (4), you'll need (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1045,8 +1033,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### Invite people to a private team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980)
+#### [Invite people to a private team](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980&t=12)** In the video on creating a team, we saw how the team owner can manually add people, but if you make a private team, you may prefer to send people an invitation, and that gives each user the option to join if they want.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980&t=25)** I made this team called Web Design and it is a private team, and we have two options to invite somebody.
+> **[0:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980&t=25)** I made this team called [[Web Design]] and it is a private team, and we have two options to invite somebody.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/invite-people-to-a-private-team?u=76281980&t=31)** First, you can point at the name of the team and a button with three dots will appear to the right.
 >
@@ -1108,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **UI Navigation:** go to (4), in the sidebar (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1119,8 +1106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organize conversations with channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980)
+#### [Organize conversations with channels](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980&t=16)** And if you're using the Education version of Teams, we'll talk about how this might look a little different at the end of this video.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980&t=22)** Now my Web Design team has one channel.
+> **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980&t=22)** Now my [[Web Design]] team has one channel.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/organize-conversations-with-channels-25634941?u=76281980&t=25)** When I made this team, I named the default channel Open Discussion.
 >
@@ -1236,15 +1222,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), next (3), web (2)
+> **Frameworks & Libraries:** [[Web Design]] (2)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** open the (5), go to (2), click on (1)
 > **Cross-References:** later in (1), go back to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create private or shared channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980)
+#### [Create private or shared channels](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1275,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=93)** And then I'll search for Aya, and it does not find her.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=97)** Now, there is a person named Aya in my Microsoft 365 organization, but she is not a member of this team.
+> **[1:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=97)** Now, there is a person named Aya in my [[Microsoft 365]] organization, but she is not a member of this team.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=105)** So you can only add people to a private channel if they are already a member of the team that contains the channel.
 >
@@ -1298,7 +1283,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=115)** Then I'll click the add button.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=119)** And now we can see that new channel has been added to my web design team, and it has this lock icon.
+> **[1:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=119)** And now we can see that new channel has been added to my [[Web Design]] team, and it has this lock icon.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/create-private-or-shared-channels?u=76281980&t=125)** And that tells me that this is a private channel.
 >
@@ -1356,19 +1341,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Search]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (5), [[Microsoft 365]] (1)
 > **Definitions:** is a  (6), means that (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** open the (3)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Post and read messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980)
+#### [Post and read messages](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=0)** - [Speaker] We've done a lot of setup, but the main thing that most people will do in Microsoft Teams is engage in a conversation with other team members.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=0)** - [Speaker] We've done a lot of setup, but the main thing that most people will do in [[Microsoft Teams]] is engage in a conversation with other team members.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=8)** So let's see how that works.
 >
@@ -1382,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=28)** Now, let's switch over to a new channel in a team that I created recently.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=32)** So in my web design team, I'll select a channel called site redesign, and this channel is empty.
+> **[0:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=32)** So in my [[Web Design]] team, I'll select a channel called site redesign, and this channel is empty.
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/post-and-read-messages?u=76281980&t=38)** To start a new conversation, you can click this button down at the bottom that says, start a post.
 >
@@ -1456,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Web Design]] (1)
 > **UI Navigation:** select the (2), click on (2), go to (1), in the sidebar (1)
 > **CLI Commands:** make (2), find (1)
 > **Non-Speech:** (typing loudly) (2)
@@ -1465,14 +1449,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [speaker] (1)
 
-#### Target messages with @mentions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980)
+#### [Target messages with @mentions](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=0)** - [Instructor] When you post a message, you can use @ mentions, which can specifically refer to a member of your team, and targets that message at them to draw their attention.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=9)** I'm working in my web design team, in the channel called Site Redesign, and I'm going to reply to an existing conversation thread.
+> **[0:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=9)** I'm working in my [[Web Design]] team, in the channel called Site Redesign, and I'm going to reply to an existing conversation thread.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=16)** I'll start typing in my message.
 >
@@ -1482,7 +1465,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=31)** Immediately after the @ symbol, start typing in that person's name and it will search through the members of this team.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=38)** I found the person I was looking for, so I can click on him, and this is what an @ mention looks like, I can see that person's name in a different color, and you can actually feel free to delete the last name and just keep the first name, so you can keep things a little more informal, and then finish typing the rest of your message.
+> **[0:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=38)** I found the person I was looking for, so I can click on him, and this is what an @ mention looks like, I can see that person's name in a different color, and you can actually feel free to delete the last name and just keep the first name, so you can keep things a little more informal, and then finish typing the [[Representational State Transfer (REST)|rest]] of your message.
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=59)** And then I can hit the return key or click the send button to send that message.
 >
@@ -1510,7 +1493,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=144)** So I'll go back to my web design team, back to this site redesign channel, I'll start a new post, and I'll start typing in an @ mention here.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=152)** So I've typed in the @ symbol, and I could just follow that by the word team, and that would allow me to @ mention this team, or you can type the @ symbol followed by the name of the team and you could select that, and you can only @ mention the team that you're currently posting in, or you could @ mention a specific channel.
+> **[2:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=152)** So I've typed in the @ symbol, and I could just follow that by the [[Microsoft Word|word]] team, and that would allow me to @ mention this team, or you can type the @ symbol followed by the name of the team and you could select that, and you can only @ mention the team that you're currently posting in, or you could @ mention a specific channel.
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/target-messages-with-mentions?u=76281980&t=172)** So I could type the @ symbol, and then follow that with Brand Material to make an @ mention targeted at that Brand Material channel.
 >
@@ -1522,14 +1505,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), web (2), next (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), in the sidebar (2), click on (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and delete messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980)
+#### [Edit and delete messages](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,20 +1569,19 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980&t=109)** However, there is an option in Teams for Business, Enterprise, or Education that would allow team owners to delete messages posted by other members.
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980&t=118)** But if you need that option enabled, you need to request that from your company's Microsoft 365 administrator.
+> **[1:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980&t=118)** But if you need that option enabled, you need to request that from your company's [[Microsoft 365]] administrator.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-delete-messages?u=76281980&t=125)** But it's nice to know when you post a message, it's not final and it can be changed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), hit (1), business (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add text-free reactions to messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980)
+#### [Add text-free reactions to messages](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,13 +1617,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add emojis and animated gifs
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980)
+#### [Add emojis and animated gifs](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,7 +1663,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980&t=79)** You can choose one of these sticker packs or you can click where it says, See All to see all of the sticker packs.
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980&t=85)** I'll go to Office Drama and I'll choose one of these.
+> **[1:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980&t=85)** I'll go to [[Microsoft Office|Office]] Drama and I'll choose one of these.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-emojis-and-animated-gifs?u=76281980&t=88)** And some stickers have texts that you can modify before you put them in your post.
 >
@@ -1696,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), teams (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1708,8 +1687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use chats for private messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-chats-for-private-messages-25637952?u=76281980)
+#### [Use chats for private messages](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-chats-for-private-messages-25637952?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1817,7 +1795,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Search]] (3), feature (1), next (1), web (1)
 > **UI Navigation:** click on (2), go to (2), switch to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1826,12 +1803,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bell chimes) (1)
 
-#### Chat with people outside of your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980)
+#### [Chat with people outside of your organization](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=1)** - Microsoft Teams is designed around communication between coworkers within the same organization, but it does support some collaboration between people in different organizations.
+> **[0:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=1)** - [[Microsoft Teams]] is designed around communication between coworkers within the same organization, but it does support some collaboration between people in different organizations.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=11)** In other videos, we saw how to invite external guests to a team, but you can also send chat messages to people outside of your organization.
 >
@@ -1843,11 +1819,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=34)** The Chat button is selected on the left.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=36)** I'll click the Compose button up at the top, and that takes me to the recipient field, where I would normally search for somebody in my organization.
+> **[0:36](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=36)** I'll click the [[Jetpack Compose|Compose]] button up at the top, and that takes me to the recipient field, where I would normally search for somebody in my organization.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=44)** But if you have the email address or phone number for another Teams user, you can put that in.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=48)** It does have to be an address or a number that is linked to an existing Microsoft account that is being used in Teams.
+> **[0:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=48)** It does have to be an address or a number that is linked to an existing [[Microsoft]] account that is being used in Teams.
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/chat-with-people-outside-of-your-organization?u=76281980&t=59)** So I put in an email address, and it says that it will search for this person externally.
 >
@@ -1861,12 +1837,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Search]] (2), [[Microsoft Teams]] (1), [[Jetpack Compose|Compose]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Jetpack Compose|Compose]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - microsoft (1)
 
-#### Schedule messages, organize conversations, and other chat features
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980)
+#### [Schedule messages, organize conversations, and other chat features](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1881,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980&t=109)** But why would you ever want to send a message to yourself?
 >
-> **[1:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980&t=112)** Well, first, as you continue to learn about Microsoft Teams, there may be features that you want to try.
+> **[1:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980&t=112)** Well, first, as you continue to learn about [[Microsoft Teams]], there may be features that you want to try.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-messages-organize-conversations-and-other-chat-features?u=76281980&t=118)** To test new features, you may need to actually send some test messages.
 >
@@ -1974,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1), feature (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Definitions:** is a  (2)
@@ -1986,8 +1961,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get set up for calls and meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-set-up-for-calls-and-meetings?u=76281980)
+#### [Get set up for calls and meetings](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-set-up-for-calls-and-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2051,15 +2025,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4)
 > **UI Navigation:** go to (3), click on (2), select the (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### Choose whether to use the New Calendar
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980)
+#### [Choose whether to use the New Calendar](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,11 +2039,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=5)** Now, near the end of 2024, Teams was updated to offer a new calendar interface.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=11)** The new calendar in Teams matches the layout of the calendar in Outlook, giving users a consistent experience between the two.
+> **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=11)** The new calendar in Teams matches the layout of the calendar in [[Microsoft Outlook|Outlook]], giving users a consistent experience between the two.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=18)** At the time of this recording, you can choose whether you want to use the classic calendar or the new calendar.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=24)** We use the calendar a lot when working with meetings, and most features work the same, so you can choose which calendar you prefer to use, but it is possible that Microsoft may remove the option for the old calendar at some point in the future so it's good to see how the new calendar works.
+> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=24)** We use the calendar a lot when working with meetings, and most features work the same, so you can choose which calendar you prefer to use, but it is possible that [[Microsoft]] may remove the option for the old calendar at some point in the future so it's good to see how the new calendar works.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=39)** Now, on my computer, we're currently seeing the classic calendar, or you might call it the old calendar.
 >
@@ -2097,7 +2069,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=137)** And now those buttons at the top say Meet Now and New Meeting instead of New Event, but they still work basically the same.
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=145)** And as we go through the rest of this chapter, most of the time, you will see me working in the classic calendar, but I will point out how some important features work in both.
+> **[2:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=145)** And as we go through the [[Representational State Transfer (REST)|rest]] of this chapter, most of the time, you will see me working in the classic calendar, but I will point out how some important features work in both.
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/choose-whether-to-use-the-new-calendar?u=76281980&t=155)** And you can feel free to use the new calendar or the old calendar, whichever you prefer, but remember, these buttons may look different, and when I click the New Meeting button, you might have to click the New Event button.
 >
@@ -2107,13 +2079,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** switch to (2), in the sidebar (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Start a call or meeting from the Chats section
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-call-or-meeting-from-the-chats-section?u=76281980)
+#### [Start a call or meeting from the Chats section](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-call-or-meeting-from-the-chats-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,7 +2192,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (1), [[Search]] (1), prompt (1)
 > **UI Navigation:** click on (4), go to (2), in the sidebar (1)
 > **Speakers:** - hello (3), - so (2), - from (1), - hi (1)
 > **CLI Commands:** make (1)
@@ -2229,8 +2199,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### Start a meeting on-demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980)
+#### [Start a meeting on-demand](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,7 +2265,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980&t=127)** From here, you should find the team that you want to work in.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980&t=130)** I'll work in the web design team, then choose a specific conversation channel.
+> **[2:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980&t=130)** I'll work in the [[Web Design]] team, then choose a specific conversation channel.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/start-a-meeting-on-demand?u=76281980&t=134)** I'll just choose this brand material channel.
 >
@@ -2330,15 +2299,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), teams (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **UI Navigation:** switch to (1), click on (1), go to (1)
 > **Speakers:** - [instructor] (1), - hey (1), - and (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** as we saw (1)
 > **Prerequisites:** set up (1)
 
-#### Schedule a meeting and invite attendees
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-a-meeting-and-invite-attendees-25639934?u=76281980)
+#### [Schedule a meeting and invite attendees](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/schedule-a-meeting-and-invite-attendees-25639934?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2466,7 +2434,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Search]] (3)
 > **UI Navigation:** click on (2), switch to (1), toggle (1), double-click (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (3), means that (1)
@@ -2474,9 +2441,9 @@ created: 2026-05-02
 > **Ports:** :30 (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### RSVP and join a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980)
+#### [RSVP and join a meeting](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2518,7 +2485,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980&t=103)** For now, I'll just click the Cancel button.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980&t=106)** So you can do all that here in the calendar section in Teams, or if you're using Outlook with a Microsoft 365 account, you can work with your meetings there.
+> **[1:46](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980&t=106)** So you can do all that here in the calendar section in Teams, or if you're using [[Microsoft Outlook|Outlook]] with a [[Microsoft 365]] account, you can work with your meetings there.
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/rsvp-and-join-a-meeting?u=76281980&t=115)** So I'll switch over to Outlook.
 >
@@ -2544,15 +2511,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), teams (3), [[Microsoft 365]] (2), prompt (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** rsvp (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage lobby settings in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-lobby-settings-in-teams-25637958?u=76281980)
+#### [Manage lobby settings in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-lobby-settings-in-teams-25637958?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2636,15 +2602,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3)
 > **UI Navigation:** go to (5), click on (2), open the (1), in the toolbar (1)
 > **CLI Commands:** make (6), find (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is called (1)
 > **Speakers:** - at (1)
 
-#### Use virtual backgrounds and other video effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980)
+#### [Use virtual backgrounds and other video effects](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,9 +2694,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=177)** Now take a look at Garrick's setup.
 >
-> **[2:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=179)** Usually he's in his office and you can see his office behind him, but he found that the contrast wasn't great.
+> **[2:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=179)** Usually he's in his [[Microsoft Office|office]] and you can see his office behind him, but he found that the contrast wasn't great.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=186)** So he has this little portable screen he can put behind him and that can provide some privacy, but it can also give you a much better contrast, your background, making your virtual backgrounds work better.
+> **[3:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=186)** So he has this little portable screen he can put behind him and that can provide some [[Privacy]], but it can also give you a much better contrast, your background, making your virtual backgrounds work better.
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=196)** It's not the biggest deal, it's not a make or break thing, but you can see how if you don't have the best contrast, it doesn't always look so great.
 >
@@ -2746,7 +2710,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=216)** - I'm going to click the leave button to jump out of this meeting.
 >
-> **[3:39](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=219)** But the last thing I do want to point out is that when you set a virtual background or a filter, Microsoft Teams will remember it.
+> **[3:39](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=219)** But the last thing I do want to point out is that when you set a virtual background or a filter, [[Microsoft Teams]] will remember it.
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-virtual-backgrounds-and-other-video-effects?u=76281980&t=226)** So later, if you go to join a different meeting, and in my case I'll just choose Meet Now and choose Start Meeting, you'll see that it will still have any video effects that you set the last time.
 >
@@ -2762,7 +2726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (2), [[Privacy]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Privacy]] (1), [[Microsoft Teams]] (1)
 > **Speakers:** - [instructor] (1), - hey (1), - all (1), - correct (1), - great (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
@@ -2771,8 +2735,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** setup (1)
 
-#### Use optional features during a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980)
+#### [Use optional features during a meeting](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2834,7 +2797,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=139)** And my teammates will lower their hands as well.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=141)** Next to that we have the React button.
+> **[2:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=141)** Next to that we have the [[React.js|React]] button.
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=143)** And this can also be a great way to respond to something in the meeting without actually saying something, without actually interrupting the conversation.
 >
@@ -2870,11 +2833,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=214)** And in another video we're going to talk about breakout rooms; that's what this Rooms button is for.
 >
-> **[3:40](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=220)** And then we see, or at least I see, the Copilot button.
+> **[3:40](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=220)** And then we see, or at least I see, the [[Microsoft Copilot|Copilot]] button.
 >
 > **[3:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=223)** You may not have the Copilot button.
 >
-> **[3:45](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=225)** There are some add-ons that you can subscribe to in Microsoft Teams to add some AI features, and we're going to talk about those in a separate chapter.
+> **[3:45](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=225)** There are some add-ons that you can subscribe to in [[Microsoft Teams]] to add some AI features, and we're going to talk about those in a separate chapter.
 >
 > **[3:53](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-optional-features-during-a-meeting?u=76281980&t=233)** Just be aware, some people will not have those features if they don't have those licenses.
 >
@@ -2904,7 +2867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), teams (2), [[Microsoft Copilot|Copilot]] (2), application (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[React.js|React]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **UI Navigation:** in the toolbar (1), switch to (1)
@@ -2913,8 +2876,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Use breakout rooms in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-breakout-rooms-in-microsoft-teams?u=76281980)
+#### [Use breakout rooms in Microsoft Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-breakout-rooms-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,15 +3032,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **Prerequisites:** set up (5), setup (2), you'll need (1)
 > **Speakers:** - during (1), - hello (1), - and (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 
-#### Record and transcribe a meeting in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980)
+#### [Record and transcribe a meeting in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3102,7 +3062,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=49)** Just keep in mind that depending on your organization and how things are set up, you may not have both of these options.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=55)** If you see the line for transcript but it's gray and you can't click on it, you should talk to your Microsoft administrator and see if it's an option that they can enable.
+> **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=55)** If you see the line for transcript but it's gray and you can't click on it, you should talk to your [[Microsoft]] administrator and see if it's an option that they can enable.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=64)** Also, I want you to see something when I actually click Start recording.
 >
@@ -3134,7 +3094,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=113)** But once again, I'm just going to close this.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=115)** So from here, you can have the rest of your meeting confident that everything is being recorded.
+> **[1:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=115)** So from here, you can have the [[Representational State Transfer (REST)|rest]] of your meeting confident that everything is being recorded.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=120)** Now, if you want to stop recording, go back to that menu, back to Record and transcribe, and choose Stop.
 >
@@ -3192,7 +3152,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=245)** Or you can click the Recap tab up at the top.
 >
-> **[4:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=248)** Now, I will mention that many of the features that I see here on my screen are only available if you have the Microsoft 365 Copilot subscription.
+> **[4:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=248)** Now, I will mention that many of the features that I see here on my screen are only available if you have the [[Microsoft 365]] [[Microsoft Copilot|Copilot]] subscription.
 >
 > **[4:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-your-screen-during-a-call-meeting-or-chat?u=76281980&t=256)** But even if you do not have that subscription, you should see the option here for the transcript, where you can read the transcript, or use this option to download it.
 >
@@ -3214,7 +3174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), business (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft 365]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **UI Navigation:** go to (4), click on (2), double-click (1), open the (1)
 > **CLI Commands:** find (4), make (3)
 > **Speakers:** - it (1), - so (1), - yep (1), - great (1), - you (1)
@@ -3223,12 +3183,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Share your screen during a call, meeting, or chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980)
+#### [Share your screen during a call, meeting, or chat](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=0)** - As I start this video, you can see that I have a few application windows open on my screen.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=0)** - As I start this video, you can see that I have a few application [[Windows]] open on my screen.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=5)** I could share a live view of my screen or any of these individual windows with my coworkers in Teams.
 >
@@ -3282,13 +3241,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=113)** So I'll select Window, and it shows all of the application windows that are currently open.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=117)** I'll choose this Microsoft Word window.
+> **[1:57](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=117)** I'll choose this [[Microsoft Word]] window.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=119)** And now I am sharing, and you may need to minimize the main Teams window, and then you can see the application you're working with.
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=127)** So Garrick can you tell me what you see in the meeting?
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=130)** - Yep, I see the Word window with you overlaid on top of it.
+> **[2:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=130)** - Yep, I see the [[Microsoft Word|Word]] window with you overlaid on top of it.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=133)** - Perfect., and if you want to see what Garrick is seeing, there's a little preview down here at the bottom.
 >
@@ -3356,7 +3315,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=258)** - Which takes us back to the regular meeting.
 >
-> **[4:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=260)** Okay, so you can share your entire screen or an individual window like that, but there's one more variable we should consider if you are sharing an Excel spreadsheet or a PowerPoint presentation.
+> **[4:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=260)** Okay, so you can share your entire screen or an individual window like that, but there's one more variable we should consider if you are sharing an [[Microsoft Excel|Excel]] spreadsheet or a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[4:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=271)** Naturally, you could open those applications and share the window like we just saw.
 >
@@ -3372,7 +3331,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=301)** But if you need to share a new file, you can scroll all the way down to the bottom.
 >
-> **[5:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=305)** You can browse your computer and upload a file or browse OneDrive and use that.
+> **[5:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=305)** You can browse your computer and upload a file or browse [[Microsoft OneDrive|OneDrive]] and use that.
 >
 > **[5:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=309)** So I'm just going to use one of these PowerPoint files I've used in the past.
 >
@@ -3380,7 +3339,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=318)** So once again, Garrick, I'm going to ask what you see on your screen.
 >
-> **[5:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=321)** - I see the first slide of the KinetEco products presentation.
+> **[5:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=321)** - I see the first slide of the KinetEco [[Microsoft Products|products]] presentation.
 >
 > **[5:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=325)** - Excellent, so once again, he's only seeing what's inside of this red outline, which is just the content of this slide.
 >
@@ -3400,7 +3359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), application (5), teams (5), [[Windows]] (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Windows]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Word]] (2), [[Microsoft Word|Word]] (2)
 > **Speakers:** - yep (2), - as (1), - hey (1), - all (1), - perfect (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1), go to (1), scroll down (1)
@@ -3411,18 +3370,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compare Copilot and Teams Premium
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980)
+#### [Compare Copilot and Teams Premium](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=0)** - [Instructor] In this chapter, I want to explore some artificial intelligence features and some security features that are not included in Teams by default.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=0)** - [Instructor] In this chapter, I want to explore some [[Artificial Intelligence (AI)|artificial intelligence]] features and some security features that are not included in Teams by default.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=8)** There are two optional add-on licenses that your organization can purchase.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=12)** These are called Copilot and Teams Premium.
+> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=12)** These are called [[Microsoft Copilot|Copilot]] and Teams Premium.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=16)** So everything in this chapter, meaning the next few videos in this course, will only work for users who have a license for Microsoft 365 Copilot or for Teams Premium.
+> **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=16)** So everything in this chapter, meaning the next few videos in this course, will only work for users who have a license for [[Microsoft 365]] Copilot or for Teams Premium.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=26)** These are separate licenses that would need to be purchased by your organization's Microsoft 365 administrator.
 >
@@ -3432,7 +3390,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=37)** Of course, there is a free version of Copilot AI chat that anybody can use online, but Microsoft 365 Copilot can be purchased by your organization for $30 a month for each user at the time of this recording.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=51)** And this enables artificial intelligence features inside of Microsoft Word, Outlook, PowerPoint, Excel, and Microsoft Teams.
+> **[0:51](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=51)** And this enables artificial intelligence features inside of [[Microsoft Word]], [[Microsoft Outlook|Outlook]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]], and [[Microsoft Teams]].
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=62)** Then there is Teams Premium.
 >
@@ -3452,22 +3410,21 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=108)** And I will be very clear about which features are available with each license.
 >
-> **[1:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=112)** And naturally, if you do not need any of the AI features or the enhanced security or customization features, you can always skip this chapter and continue with the rest of the course.
+> **[1:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/compare-copilot-and-teams-premium?u=76281980&t=112)** And naturally, if you do not need any of the AI features or the enhanced security or customization features, you can always skip this chapter and continue with the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Microsoft Copilot|Copilot]] (7), [[Microsoft 365]] (4), ai (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft 365]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Teams]] (2), [[Microsoft Word]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Get meeting summaries and recaps using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980)
+#### [Get meeting summaries and recaps using AI](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=0)** - There are artificial intelligence tools that can summarize or answer questions about meetings in Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=0)** - There are [[Artificial Intelligence (AI)|artificial intelligence]] tools that can summarize or answer questions about meetings in Teams.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=6)** Very similar versions of these tools are available in both Teams Premium and Microsoft 365 Copilot.
+> **[0:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=6)** Very similar versions of these tools are available in both Teams Premium and [[Microsoft 365]] [[Microsoft Copilot|Copilot]].
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=13)** But let's take a quick look at some tools to get you started if you do have one of these add-ons.
 >
@@ -3567,7 +3524,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=282)** I can click that to open up the Copilot panel, and then I can use this chat field to ask a question that Copilot will only be able to answer using information from this meeting transcript.
 >
-> **[4:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=292)** I'll ask, "What are the challenges our banks have faced with the new online banking system?"
+> **[4:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=292)** I'll ask, "What are the challenges our banks have faced with the new online [[Banking]] system?"
 >
 > **[5:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=303)** And it answers that question because it found that information in the transcript from the meeting.
 >
@@ -3575,23 +3532,22 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=321)** AI meeting summaries and recaps are the features that overlap the most between Copilot and Teams Premium.
 >
-> **[5:27](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=327)** As we go through the rest of this chapter, you'll see that there are several other features that define the differences between them.
+> **[5:27](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/get-meeting-summaries-and-recaps-using-ai?u=76281980&t=327)** As we go through the [[Representational State Transfer (REST)|rest]] of this chapter, you'll see that there are several other features that define the differences between them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), teams (11), ai (11), [[Microsoft 365]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft 365]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), go to (2), double-click (1)
 > **CLI Commands:** make (3), find (3)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - there (1)
 
-#### Use Facilitator for AI Notes during chats and meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-facilitator-for-ai-notes-during-chats-and-meetings?u=76281980)
+#### [Use Facilitator for AI Notes during chats and meetings](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-facilitator-for-ai-notes-during-chats-and-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-facilitator-for-ai-notes-during-chats-and-meetings?u=76281980&t=0)** - If your organization has the Microsoft 365 Copilot subscription, you can take advantage of AI notes in your chat conversations and meetings.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-facilitator-for-ai-notes-during-chats-and-meetings?u=76281980&t=0)** - If your organization has the [[Microsoft 365]] [[Microsoft Copilot|Copilot]] subscription, you can take advantage of AI notes in your chat conversations and meetings.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-facilitator-for-ai-notes-during-chats-and-meetings?u=76281980&t=9)** This feature is sometimes referred to simply as AI notes.
 >
@@ -3673,23 +3629,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Microsoft Copilot|Copilot]] (4), feature (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), open the (2), click on (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - if (1)
 
-#### Streamline your work with Copilot AI and Business Chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980)
+#### [Streamline your work with Copilot AI and Business Chat](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=0)** - [Instructor] One feature that you almost always find across all of the different Copilot products is an artificial intelligence assistant that you can chat with.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=0)** - [Instructor] One feature that you almost always find across all of the different [[Microsoft Copilot|Copilot]] [[Microsoft Products|products]] is an [[Artificial Intelligence (AI)|artificial intelligence]] assistant that you can chat with.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=8)** In this video, we will see how to use that AI assistant to get information about your chat conversations, or get broader information about your organization, your calendar, your teammates, and more.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=19)** These features are only available if you have the Copilot From Microsoft 365 subscription.
+> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=19)** These features are only available if you have the Copilot From [[Microsoft 365]] subscription.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=25)** I'll start by going to the chat section.
 >
@@ -3759,7 +3714,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=204)** So in the chat field, I'll type, which executives are mentioned in the, and I could click this option to add people or files, but I prefer to type the slash key, then start typing in the name of that document.
 >
-> **[3:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=217)** Now this will search through all of the documents that you have stored or have been shared with you on OneDrive or SharePoint within your organization.
+> **[3:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=217)** Now this will search through all of the documents that you have stored or have been shared with you on [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] within your organization.
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=226)** It did find the document I was looking for, so I can select that, and that is my full request, which executives are mentioned in this document, and I'll hit the Return key.
 >
@@ -3787,7 +3742,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=300)** And I can click on one of these citations.
 >
-> **[5:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=303)** It will take me to Outlook straight to the email message where it found this information.
+> **[5:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=303)** It will take me to [[Microsoft Outlook|Outlook]] straight to the email message where it found this information.
 >
 > **[5:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=307)** For now, I'll close this and go back to Teams.
 >
@@ -3795,7 +3750,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=323)** So Copilot can help you find information from your calendar, your emails, your team chats, your documents, and more.
 >
-> **[5:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=330)** And this is all protected by the security and privacy features in Microsoft 365.
+> **[5:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=330)** And this is all protected by the security and [[Privacy]] features in Microsoft 365.
 >
 > **[5:35](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/streamline-your-work-with-copilot-ai-and-business-chat?u=76281980&t=335)** This will never show you information from other people's communications or documents.
 >
@@ -3803,7 +3758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), next (5), ai (3), [[Microsoft 365]] (3), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft 365]] (3), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (3), select the (1)
 > **Cross-References:** go back to (1)
@@ -3811,8 +3766,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make meetings more secure using Teams Premium
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980)
+#### [Make meetings more secure using Teams Premium](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3862,21 +3816,20 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980&t=196)** That watermark immediately identifies the person responsible for leaking the sensitive information, so End-to-end encryption and watermarking are two ways to keep the content of your meetings much more secure and protected.
 >
-> **[3:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980&t=209)** Any user can enable these options when they create a meeting, but you must have the Teams Premium license and your Microsoft Administrator must enable these features in the Teams Admin settings.
+> **[3:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980&t=209)** Any user can enable these options when they create a meeting, but you must have the Teams Premium license and your [[Microsoft]] Administrator must enable these features in the Teams Admin settings.
 >
 > **[3:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-meetings-more-secure-using-teams-premium?u=76281980&t=221)** And of course, you should make sure to scroll all the way down and click the Save button at the bottom if you do enable any of these options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Security]] (5), application (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **UI Navigation:** go to (4), double-click (1), switch to (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize meeting experiences with Teams Premium
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980)
+#### [Customize meeting experiences with Teams Premium](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3898,7 +3851,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980&t=38)** If your administrator has set this up, then you will see your organization's specific branding whenever you join a meeting.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980&t=44)** And even better, when you have meetings with clients and outside contractors, they will see an interface that is consistent with your branding, instead of the standard Microsoft interface.
+> **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980&t=44)** And even better, when you have meetings with clients and outside contractors, they will see an interface that is consistent with your branding, instead of the standard [[Microsoft]] interface.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-meeting-experiences-with-teams-premium?u=76281980&t=55)** Now, if your administrator has set this up and you do not want to have the branding on one of your meetings, you can disable it.
 >
@@ -3982,7 +3935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Microsoft]] (2), application (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Prerequisites:** set up (7), configure (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -3995,8 +3948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share files in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980)
+#### [Share files in Microsoft Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4004,13 +3956,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=4)** I am in the Team section.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=6)** I'm working in a team called Web Design, and I've selected the channel called Brand Material, and I'm going to start a new post here.
+> **[0:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=6)** I'm working in a team called [[Web Design]], and I've selected the channel called Brand Material, and I'm going to start a new post here.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=13)** But everything that we'll see can also be done in Messages in a private chat as well.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=18)** In the Message field, you can click the plus button and there's an option to attach file, which will open up more options.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=24)** If you have a document stored on OneDrive, you can choose Attach cloud files.
+> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=24)** If you have a document stored on [[Microsoft OneDrive|OneDrive]], you can choose Attach cloud files.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=29)** If you want to pick a file that has already been shared in a different team or channel, you can choose browse Teams and Channels.
 >
@@ -4066,11 +4018,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=163)** And if you want to open a file from here, you can just click on the name of the file.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=167)** Most normal document types, like Office documents, PDFs, and pictures can be opened and viewed like this.
+> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=167)** Most normal document types, like [[Microsoft Office|Office]] documents, PDFs, and pictures can be opened and viewed like this.
 >
-> **[2:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=174)** And if it's a Word, Excel, or PowerPoint document or a OneNote notebook, you can even edit that document right here in this window.
+> **[2:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=174)** And if it's a [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], or [[Microsoft PowerPoint|PowerPoint]] document or a [[OneNote]] notebook, you can even edit that document right here in this window.
 >
-> **[3:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=181)** The interface looks very similar to the Microsoft Word application.
+> **[3:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=181)** The interface looks very similar to the [[Microsoft Word]] application.
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-files-in-microsoft-teams?u=76281980&t=184)** For now, I'm going to close this by clicking the Close button up at the top.
 >
@@ -4086,26 +4038,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), web (1), [[Microsoft OneDrive|Onedrive]] (1), cloud (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), navigate to (1), in the tab (1), switch to (1), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and collaborate on files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980)
+#### [Edit and collaborate on files](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=0)** - [Instructor] If you share Word, Excel, or PowerPoint documents in teams, you can edit and co-author those documents with your teammates in real time from within the Microsoft Teams interface.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=0)** - [Instructor] If you share [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], or [[Microsoft PowerPoint|PowerPoint]] documents in teams, you can edit and co-author those documents with your teammates in real time from within the [[Microsoft Teams]] interface.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=11)** Here in this channel, I could click on a file that has been shared to open it, or I could go over to the files tab and open a file from here.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=19)** So I'll click on this Microsoft Word document, and since I chose a Word document, I am able to edit that document right here in teams.
+> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=19)** So I'll click on this [[Microsoft Word]] document, and since I chose a Word document, I am able to edit that document right here in teams.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=27)** So I could make a change here, I could select some text or I could change something.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=33)** And this only works with Office documents like Word, Excel, and PowerPoint.
+> **[0:33](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=33)** And this only works with [[Microsoft Office|Office]] documents like Word, Excel, and PowerPoint.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/edit-and-collaborate-on-files?u=76281980&t=37)** You can open and view other types of files like pictures or PDF files, but those will be view only, you will not have these editing options.
 >
@@ -4139,20 +4090,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), application (5), [[Microsoft Word|Word]] (4), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share Loop components in Teams and other applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980)
+#### [Share Loop components in Teams and other applications](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=0)** - [Instructor] Loop components let you share information with teammates without creating a separate document.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=5)** Loop components can be shared and reshared in other Microsoft applications and you can edit loop components even after they've been shared.
+> **[0:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=5)** Loop components can be shared and reshared in other [[Microsoft]] applications and you can edit loop components even after they've been shared.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=14)** In teams you can go to a chat conversation or post a message in a team channel.
 >
@@ -4180,19 +4130,19 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=129)** Also near the top right you can click the copy button, that copy's a link to the component, so I can paste it in another application.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=137)** I'll go over to Outlook where I've started writing an email message.
+> **[2:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=137)** I'll go over to [[Microsoft Outlook|Outlook]] where I've started writing an email message.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=142)** I can just paste that component right here in this message, and, of course, you can create components in Outlook, as well.
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=152)** When you're writing an email message, you can go to the Insert ribbon up at the top, and there's an option here to insert loop components that way.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=161)** You can also add loop components to documents in Microsoft Word online, and to whiteboards in Microsoft Whiteboard and support for loop components may be added in other Microsoft applications in the future, but here in Outlook, I could send this email and any recipients who are in my organization will be able to see it and edit the loop component in Outlook, and I could continue to work with it over here in Microsoft Teams.
+> **[2:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=161)** You can also add loop components to documents in [[Microsoft Word]] online, and to whiteboards in Microsoft Whiteboard and support for loop components may be added in other Microsoft applications in the future, but here in Outlook, I could send this email and any recipients who are in my organization will be able to see it and edit the loop component in Outlook, and I could continue to work with it over here in [[Microsoft Teams]].
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/share-loop-components-in-teams-and-other-applications?u=76281980&t=185)** Loop components are a great way to share information in several Microsoft applications without creating new documents.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (4), teams (1), application (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (4), [[Microsoft Word]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4202,14 +4152,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customize channel tabs in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980)
+#### [Customize channel tabs in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=0)** - [Instructor] You can add extra tabs to your conversation channels, which can give your teammates easy access to important supplemental materials.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=7)** I'm working in my web design team where I've selected the channel called Brand Material, and up at the top, we can see the Post tab, which is where you can post messages, and we also have the Files tab, where you can browse through files that have been shared in this channel.
+> **[0:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=7)** I'm working in my [[Web Design]] team where I've selected the channel called Brand Material, and up at the top, we can see the Post tab, which is where you can post messages, and we also have the Files tab, where you can browse through files that have been shared in this channel.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=22)** If you go to a different channel, the content of these tabs will be different, and you can click the plus button here to add even more tabs.
 >
@@ -4223,7 +4172,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=48)** One thing that may be useful is to add a file that you want everybody to have quick access to view as a tab here in this channel.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=55)** You could choose on Excel, Word, PowerPoint, or even PDF file right here.
+> **[0:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=55)** You could choose on [[Microsoft Excel|Excel]], [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], or even PDF file right here.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-channel-tabs-in-teams?u=76281980&t=60)** I'll choose PDF, and then it will prompt me to choose the file I want it to display.
 >
@@ -4283,7 +4232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), web (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (3), go to (2), open the (2), select the (1), in the tab (1)
 > **Env Vars:** pdf (4), https (1), http (1)
 > **CLI Commands:** make (2)
@@ -4291,8 +4240,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use apps to add extra functionality to Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980)
+#### [Use apps to add extra functionality to Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4308,7 +4256,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980&t=23)** I'll open that.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980&t=24)** And this app connects with Microsoft Planner, which is a separate application in Microsoft 365.
+> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980&t=24)** And this app connects with [[Microsoft]] Planner, which is a separate application in [[Microsoft 365]].
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-apps-to-add-extra-functionality-to-teams?u=76281980&t=30)** You can use it for simple task lists or larger project management.
 >
@@ -4422,7 +4370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Search]] (4), application (3), [[Microsoft]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** in the sidebar (4), click on (4), go to (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -4436,8 +4384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set your status message in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980)
+#### [Set your status message in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4483,9 +4430,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=121)** So, you can leave a message letting people know the best way to contact you if you are unavailable, and you can even @mention a specific person if you want people to contact that other person when you're away, and you can set a specific time for this status message.
 >
-> **[2:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=138)** And there's also an option all the way down here at the bottom to set your out of office notification.
+> **[2:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=138)** And there's also an option all the way down here at the bottom to set your out of [[Microsoft Office|office]] notification.
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=144)** So, if you will be on vacation or away for an extended time period, you can set that here, and this will even synchronize with Outlook.
+> **[2:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=144)** So, if you will be on vacation or away for an extended time period, you can set that here, and this will even synchronize with [[Microsoft Outlook|Outlook]].
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/set-your-status-message-in-teams?u=76281980&t=151)** So, if you set your out of office notification in either Teams or Outlook, it will be set in both.
 >
@@ -4493,13 +4440,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **Definitions:** means that (4)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use the search tool to find specific messages or files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980)
+#### [Use the search tool to find specific messages or files](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4509,7 +4455,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980&t=8)** This does more than searching, but we'll just use the search feature for now.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980&t=12)** I want to find a conversation where I was talking about the masthead graphic, so I can click on the search field, type in the word masthead, hit the return key to see the search results.
+> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980&t=12)** I want to find a conversation where I was talking about the masthead graphic, so I can click on the search field, type in the [[Microsoft Word|word]] masthead, hit the return key to see the search results.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-search-tool-to-find-specific-messages-or-files?u=76281980&t=22)** Now you can choose whether you want it to only search through chats, or channels in teams, or you can set it to only search for files, or you can have it search through all of your messages.
 >
@@ -4549,13 +4495,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (15), [[Microsoft Word|Word]] (5), teams (3), hit (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the command box and trigger quick commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980)
+#### [Use the command box and trigger quick commands](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4565,7 +4510,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=11)** Now, first you could click on the command box, but a quick way to get there is to use a keyboard shortcut.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=17)** Control + E on Windows or Command + E on Mac will place your cursor directly in the command box.
+> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=17)** Control + E on [[Windows]] or Command + E on Mac will place your cursor directly in the command box.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=23)** Then you can either type a slash or the at symbol.
 >
@@ -4597,7 +4542,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=115)** Now, finally, you can also use some of these commands directly in a message field.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=120)** So, you could go to a team channel or a private chat and go to where you would compose a message.
+> **[2:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=120)** So, you could go to a team channel or a private chat and go to where you would [[Jetpack Compose|compose]] a message.
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=126)** So, here in the message field, instead of typing in some text, I'm going to start by typing the slash key, and that will show a list of slash commands you can use in a message.
 >
@@ -4617,15 +4562,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), hit (3), teams (2), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** go to (5), click on (4)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust settings and notification options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980)
+#### [Adjust settings and notification options](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4657,7 +4601,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=84)** Of course, these options are not available in the web version of Teams.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=88)** Next we'll go over to the Privacy category.
+> **[1:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=88)** Next we'll go over to the [[Privacy]] category.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=91)** I'll select that over on the left, and if you set your status in Teams to Do Not Disturb, that will block notifications for all incoming messages.
 >
@@ -4673,7 +4617,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=139)** Lots of different things, and you can go through these options and change how and when notifications will appear for channel conversations and private chats, for meeting reminders, and more.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=152)** But there is an important option up at the top, and the option you see here may be different depending on whether you're using Teams on Windows, on a Mac, or in a web browser.
+> **[2:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=152)** But there is an important option up at the top, and the option you see here may be different depending on whether you're using Teams on [[Windows]], on a Mac, or in a web browser.
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-notification-options?u=76281980&t=162)** But there should be some option like this, which can disable all notifications except for calls and meetings, or some users may see some controls to integrate Teams notifications into the main system notifications on your computer.
 >
@@ -4699,7 +4643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), next (4), web (2), [[Search]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Privacy]] (1)
 > **UI Navigation:** click on (1), go to (1), select the (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (1), make (1)
@@ -4708,8 +4652,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize the sidebar in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980)
+#### [Customize the sidebar in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4755,7 +4698,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=109)** And finally, you can change the size of buttons and text in the Teams interface.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=114)** Near the top right, you can click the button with three dots to open this menu and you will find the zoom controls.
+> **[1:54](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=114)** Near the top right, you can click the button with three dots to open this menu and you will find the [[Zoom]] controls.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=120)** You can click the plus button to make everything larger and you can click the minus button to make things smaller.
 >
@@ -4777,7 +4720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Zoom]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** in the sidebar (4), right-click (4)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** go back to (2), earlier in (1)
@@ -4791,8 +4734,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make a team from a template or an existing team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980)
+#### [Make a team from a template or an existing team](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4804,7 +4746,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=17)** In this video, we will start by seeing how you can use an existing team or a pre-made template to create a new team.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=24)** Of course, I'm starting in the team section, and I want to point out that I have this team called Web Design.
+> **[0:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=24)** Of course, I'm starting in the team section, and I want to point out that I have this team called [[Web Design]].
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=29)** It's a private team and it has a few channels for the various discussions that we want for the employees in this department.
 >
@@ -4826,7 +4768,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=81)** And you can always add or remove channels or apps later.
 >
-> **[1:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=84)** If you click "use this template," then you can go through the rest of the process to name the team, create it, and add members to it.
+> **[1:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=84)** If you click "use this template," then you can go through the [[Representational State Transfer (REST)|rest]] of the process to name the team, create it, and add members to it.
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=92)** But for now, I'm going to cancel this because I want to see another option over on the left, the option to create a team from another team.
 >
@@ -4892,7 +4834,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=246)** I'll open the menu at the top again, then choose new team, then go to "more create team options," and I'll choose the option on the side that says "from group."
 >
-> **[4:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=258)** This will let you take an existing group from Outlook or SharePoint and link it to a new team.
+> **[4:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=258)** This will let you take an existing group from [[Microsoft Outlook|Outlook]] or [[SharePoint]] and link it to a new team.
 >
 > **[4:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-a-team-from-a-template-or-an-existing-team-25639940?u=76281980&t=263)** And this will show a list of all of your groups in Outlook or SharePoint that are not already connected to a team.
 >
@@ -4906,7 +4848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), web (5), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (2), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (5), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** open the (2), go to (2), select the (1)
 > **Exercise Files:** template (4)
@@ -4915,8 +4857,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [presenter] (1)
 
-#### Add, remove, and manage members of a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980)
+#### [Add, remove, and manage members of a team](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4924,7 +4865,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980&t=8)** So in this video, we will see how an owner can manage the members of a team by adding and removing members and even granting owner status to other members.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980&t=17)** I'll be working with this Web Design team.
+> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980&t=17)** I'll be working with this [[Web Design]] team.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-remove-and-manage-members-of-a-team?u=76281980&t=20)** And I want to start by pointing at the name of the team.
 >
@@ -4996,21 +4937,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), teams (2), web (1), [[Search]] (1), management (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust settings and permissions in a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980)
+#### [Adjust settings and permissions in a team](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=0)** - [Instructor] In this video, we will see settings that team owners can adjust to change a team's name or privacy settings, improve a team's visibility, or establish whether normal members can make or delete channels.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=0)** - [Instructor] In this video, we will see settings that team owners can adjust to change a team's name or [[Privacy]] settings, improve a team's visibility, or establish whether normal members can make or delete channels.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=12)** I'll be working with this team called Web Design.
+> **[0:12](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=12)** I'll be working with this team called [[Web Design]].
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=15)** I made the team, so I am the team owner.
 >
@@ -5092,7 +5032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), next (4), [[Privacy]] (2), web (2), management (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Web Design]] (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** scroll down (2), open the (1)
 > **Definitions:** is a  (1), means that (1)
@@ -5106,8 +5046,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make and grade assignments in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980)
+#### [Make and grade assignments in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5157,11 +5096,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=112)** When you click the Attach button, you'll see something similar to sharing files in other places in Teams.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=117)** So you could upload a file from your computer or choose a file from OneDrive or from another team, or maybe you want to include a link to a website.
+> **[1:57](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=117)** So you could upload a file from your computer or choose a file from [[Microsoft OneDrive|OneDrive]] or from another team, or maybe you want to include a link to a website.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=125)** In my case, my instructions refer to a document, so I could upload a document, or I could click this New button to make a new document here.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=134)** So I'll click that, and I'm going to make a Word document.
+> **[2:14](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=134)** So I'll click that, and I'm going to make a [[Microsoft Word|Word]] document.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=137)** I need to give this a name.
 >
@@ -5177,7 +5116,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=164)** Next, I'll actually click on the document that I've created and add some content to it.
 >
-> **[2:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=169)** So I have this interface, like Microsoft Word, where I can just edit or add to the document.
+> **[2:49](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=169)** So I have this interface, like [[Microsoft Word]], where I can just edit or add to the document.
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-grade-assignments-in-teams?u=76281980&t=176)** Any changes that you make will be automatically saved.
 >
@@ -5229,15 +5168,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), next (6), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** in the sidebar (2), click on (2), go to (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make and manage quizzes in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980)
+#### [Make and manage quizzes in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5253,11 +5191,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=26)** Now from here you may see a list of quizzes that you made in the past, and you could use one of those as a starting point, or you can click add quiz to make a new one.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=35)** When you make a quiz, you're actually making an assignment with the quiz attached and you build the quiz using Microsoft Forms.
+> **[0:35](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=35)** When you make a quiz, you're actually making an assignment with the quiz attached and you build the quiz using [[Microsoft]] [[Forms]].
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=42)** That's the interface we see here.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=44)** There is a course on LinkedIn Learning for Microsoft Forms if you want to learn more about that, but really you don't even need to know Microsoft Forms.
+> **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=44)** There is a course on [[LinkedIn]] Learning for Microsoft Forms if you want to learn more about that, but really you don't even need to know Microsoft Forms.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-and-manage-quizzes-in-teams?u=76281980&t=52)** The core tools here are pretty straightforward, so we'll start by clicking on this title field and give it a name.
 >
@@ -5343,7 +5281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Forms]] (4), teams (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Forms]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -5351,8 +5289,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage assignments and grades in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980)
+#### [Manage assignments and grades in Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5426,7 +5363,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980&t=215)** But for now, I'm just going to click close up at the top.
 >
-> **[3:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980&t=218)** And finally, there's an option at the top to export this entire table to an Excel spreadsheet.
+> **[3:38](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980&t=218)** And finally, there's an option at the top to export this entire table to an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[3:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/manage-assignments-and-grades-in-teams?u=76281980&t=224)** So you could take this data and bring it into another grade book system if you have something set up outside of teams.
 >
@@ -5434,7 +5371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (3), go to (2)
 > **Cross-References:** go back to (2)
@@ -5447,8 +5384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make the Teams interface easier to see
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980)
+#### [Make the Teams interface easier to see](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5506,7 +5442,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=133)** And when you're finished with the immersive view, you can just click the back button in the top left.
 >
-> **[2:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=138)** Next we saw how to use the zoom tool earlier in this course.
+> **[2:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=138)** Next we saw how to use the [[Zoom]] tool earlier in this course.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=142)** You can click the button with three dots up near the top right to open this menu.
 >
@@ -5514,7 +5450,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=151)** But there's also a keyboard shortcut to activate the zoom tool.
 >
-> **[2:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=154)** On Windows you can hold the control key, then tap the + key to enlarge everything or the - key to make things smaller again.
+> **[2:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=154)** On [[Windows]] you can hold the control key, then tap the + key to enlarge everything or the - key to make things smaller again.
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=162)** And if you're working on a Mac, that keyboard shortcut is Command + or Command -.
 >
@@ -5544,7 +5480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), next (3), teams (2), feature (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Windows]] (1)
 > **UI Navigation:** go to (3), open the (1), click on (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), earlier in (2)
@@ -5553,8 +5489,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use live captions and other tools in Teams for hearing impairments
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-live-captions-and-other-tools-in-teams-for-hearing-impairments?u=76281980)
+#### [Use live captions and other tools in Teams for hearing impairments](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-live-captions-and-other-tools-in-teams-for-hearing-impairments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5604,14 +5539,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Search]] (1), next (1), feature (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Translate messages in other languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980)
+#### [Translate messages in other languages](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5681,7 +5614,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980&t=160)** Now, this message is in Italian, so I'll set my translation language to English.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980&t=167)** And if you were to set this to translate the entire document, the full message will be translated, or you might turn off that document option and let it display the message in the original language, then enable the Translate by word option.
+> **[2:47](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980&t=167)** And if you were to set this to translate the entire document, the full message will be translated, or you might turn off that document option and let it display the message in the original language, then enable the Translate by [[Microsoft Word|word]] option.
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/translate-messages-in-other-languages-25641270?u=76281980&t=183)** I might use this because I'm learning Italian and I want to see if I can translate these words for myself.
 >
@@ -5695,13 +5628,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Microsoft Word|Word]] (4), application (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **UI Navigation:** open the (3), go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designate an interpreter during a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980)
+#### [Designate an interpreter during a meeting](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5715,7 +5647,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980&t=23)** And to start, I want to show you an important detail about one of my teams and my teammates.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980&t=28)** In this course, I made this web design team.
+> **[0:28](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980&t=28)** In this course, I made this [[Web Design]] team.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/designate-an-interpreter-during-a-meeting?u=76281980&t=31)** When I point at the name of the team, a button with three dots appears to the right.
 >
@@ -5793,7 +5725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), next (2), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **Definitions:** is a  (5), is an  (2)
 > **UI Navigation:** go to (4), click on (1), in the toolbar (1)
 > **CLI Commands:** find (2), make (1)
@@ -5805,14 +5737,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the mobile app for iOS and Android
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980)
+#### [Use the mobile app for iOS and Android](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=0)** - [Speaker] Using the mobile app for iPhone and Android, you can stay up-to-date on your team's conversations when you're not at a computer.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=0)** - [Speaker] Using the mobile app for iPhone and [[Android]], you can stay up-to-date on your team's conversations when you're not at a computer.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=7)** You can find Teams on the Apple App Store and the Google Play Store for Android.
+> **[0:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=7)** You can find Teams on the Apple App Store and the [[Google]] Play Store for Android.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=11)** I already have the app installed, so I'll launch it here.
 >
@@ -5850,7 +5781,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=99)** Let's actually go into a conversation channel.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=102)** So in my Team called Web Design, I'll tap on the channel called Brand Material.
+> **[1:42](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=102)** So in my Team called [[Web Design]], I'll tap on the channel called Brand Material.
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=108)** Now you can tap the button at the bottom to start a new post, or you can tap reply under an existing thread.
 >
@@ -5860,7 +5791,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=125)** And you can tap on a file to view it from here.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=128)** And if it's a Word, Excel or PowerPoint file.
+> **[2:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=128)** And if it's a [[Microsoft Word|Word]], [[Microsoft Excel|Excel]] or [[Microsoft PowerPoint|PowerPoint]] file.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=131)** And if you have the word, Excel, or PowerPoint apps on your device, you'll see a button to open that app and edit the file.
 >
@@ -5874,7 +5805,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=156)** Just tap on the chat button down at the bottom and that takes us to the chat section.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=161)** You can tap the compose button at the bottom to start a new chat, or you can tap an existing conversation thread and continue that chat from here.
+> **[2:41](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=161)** You can tap the [[Jetpack Compose|compose]] button at the bottom to start a new chat, or you can tap an existing conversation thread and continue that chat from here.
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=171)** Or you can start an audio or video call with the people in this chat conversation using the phone button near the top-right corner.
 >
@@ -5886,7 +5817,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=186)** Then down at the bottom, I'll go over to the calendar section.
 >
-> **[3:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=190)** And just like the regular Teams interface, you can see appointments from your Outlook calendar as well as meetings that have been scheduled in Teams.
+> **[3:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=190)** And just like the regular Teams interface, you can see appointments from your [[Microsoft Outlook|Outlook]] calendar as well as meetings that have been scheduled in Teams.
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-mobile-app-for-ios-and-android?u=76281980&t=198)** You can tap on an appointment for more information.
 >
@@ -5924,7 +5855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Android]] (3), application (3), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Android]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Google]] (1)
 > **Analogies:** just like (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphone (2)
@@ -5936,24 +5867,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more about Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980)
+#### [Learn more about Microsoft Teams](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=0)** - [Instructor] Thanks for joining me for this course on Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=0)** - [Instructor] Thanks for joining me for this course on [[Microsoft Teams]].
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=3)** Please keep in mind that Teams is one of those web-based services that can be updated and changed at any time.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=10)** Please try to be agile and explore if some of the controls are different since this course was recorded.
+> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=10)** Please try to be [[Agile Development|agile]] and explore if some of the controls are different since this course was recorded.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=15)** If you want to learn more about Teams and stay aware of any future updates, you might want to take a look at some of Microsoft's product blogs.
+> **[0:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=15)** If you want to learn more about Teams and stay aware of any future updates, you might want to take a look at some of [[Microsoft]]'s product blogs.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=22)** There is a Microsoft 365 blog, and this is a good resource for any news related to the Microsoft 365 subscription.
+> **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=22)** There is a [[Microsoft 365]] blog, and this is a good resource for any news related to the Microsoft 365 subscription.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=30)** And there is a blog dedicated to Microsoft Teams, which posts information about changes and updates to Teams specifically.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=37)** And don't forget, we have lots of other courses on LinkedIn Learning for the applications in Microsoft 365.
+> **[0:37](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=37)** And don't forget, we have lots of other courses on [[LinkedIn]] Learning for the applications in Microsoft 365.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/learn-more-about-microsoft-teams?u=76281980&t=44)** And if you want to learn even more about Teams, there are several courses on Teams, as well.
 >
@@ -5963,7 +5893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Microsoft Teams]] (3), [[Microsoft 365]] (3), web (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft 365]] (3), [[Agile Development|Agile]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)

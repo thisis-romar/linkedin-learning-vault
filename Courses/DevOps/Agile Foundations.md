@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
+#### [Understanding agile](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980&t=7)** Your team will want to adapt to include cutting edge new features, and immediately respond to customer feedback.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980&t=13)** That's why many teams are embracing an Agile mindset.
+> **[0:13](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980&t=13)** That's why many teams are embracing an [[Agile Development|Agile]] mindset.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980&t=17)** I'm Doug Rose, and I've been coaching on this mindset for over 15 years.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (2), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **Speakers:** - if (1)
 
 
@@ -134,8 +133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The agile mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
+#### [The agile mindset](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=69)** So instead of focusing on eliminating rework, you're actually embracing uncertainty.
 >
-> **[1:15](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=75)** Some of these ideas are now more commonly known as the Agile mindset, and that's how you should think of it, as a mindset.
+> **[1:15](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=75)** Some of these ideas are now more commonly known as the [[Agile Development|Agile]] mindset, and that's how you should think of it, as a mindset.
 >
 > **[1:22](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=82)** You're not just focusing on a different way to work.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=89)** I've seen many organizations that try to use Agile to improve their product delivery.
 >
-> **[1:34](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=94)** They might rename their project managers into Scrum Masters.
+> **[1:34](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=94)** They might rename their project managers into [[Scrum]] Masters.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980&t=98)** Maybe they'll break down their requirements into Agile-style user stories.
 >
@@ -227,12 +225,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), product (2), database (1), [[Scrum]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), [[Scrum]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - there (1)
 
-#### The rise of knowledge workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980)
+#### [The rise of knowledge workers](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,15 +237,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=6)** Today, there are many ways that modern product delivery makes that much more difficult.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=12)** So it's important to think of the agile mindset, not just as a new thing, but as a reaction to difficult challenges with typical product delivery.
+> **[0:12](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=12)** So it's important to think of the [[Agile Development|agile]] mindset, not just as a new thing, but as a reaction to difficult challenges with typical product delivery.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=22)** In the 1990s, many project managers recognized that they needed a way to deliver products in a new way.
+> **[0:22](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=22)** In the 1990s, many project managers recognized that they needed a way to deliver [[Microsoft Products|products]] in a new way.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=29)** What they found is that many of the people working in the organization had changed.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=33)** These different employees started to specialize, and it was difficult to find a generalist who understood all the different specialties.
 >
-> **[0:41](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=41)** So a database engineer might know a little bit about software development, but not enough to manage a team of developers.
+> **[0:41](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=41)** So a database engineer might know a little bit about [[Software Development]], but not enough to manage a team of developers.
 >
 > **[0:49](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=49)** This led to a serious challenge in management.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=93)** Then over time, you might get promoted to a line manager.
 >
-> **[1:36](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=96)** Finally, you might get a job in the office and manage hundreds of employees.
+> **[1:36](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=96)** Finally, you might get a job in the [[Microsoft Office|office]] and manage hundreds of employees.
 >
 > **[1:41](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=101)** By the time you worked in the office, you knew almost everything there was to know about building a product.
 >
@@ -304,7 +301,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=187)** There's no line manager like you have in a factory.
 >
-> **[3:10](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=190)** Instead, you focus on having collective decision-making.
+> **[3:10](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=190)** Instead, you focus on having collective [[Decision-Making]].
 >
 > **[3:14](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=194)** This is a very difficult change for most organizations.
 >
@@ -312,7 +309,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=203)** They might not be ready for a group of specialized Knowledge Workers coming up with their own plan on how to deliver the product.
 >
-> **[3:30](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=210)** Later, you'll see the importance of this servant leader style management with a role called the Scrum master.
+> **[3:30](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=210)** Later, you'll see the importance of this servant leader style management with a role called the [[Scrum]] master.
 >
 > **[3:36](https://www.linkedin.com/learning/agile-foundations/the-rise-of-knowledge-workers-21061427?u=76281980&t=216)** But this role is just part of a larger trend in self-organization.
 >
@@ -320,14 +317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), management (4), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (3), database (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (2), [[Software Development]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Challenges with software manufacturing
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980)
+#### [Challenges with software manufacturing](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=97)** As much as it's tempting to plan everything out, it's just too difficult to predict all the moving pieces.
 >
-> **[1:43](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=103)** If you think about even a simple software product, it might depend on an operating system like Microsoft Windows.
+> **[1:43](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=103)** If you think about even a simple software product, it might depend on an operating system like [[Microsoft]] [[Windows]].
 >
 > **[1:51](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=111)** Then it might rely on several different open source projects.
 >
@@ -377,7 +373,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=118)** All these different changes are impossible to predict.
 >
-> **[2:02](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=122)** Most software products have to deal with something called the cone of uncertainty.
+> **[2:02](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=122)** Most software [[Microsoft Products|products]] have to deal with something called the cone of uncertainty.
 >
 > **[2:07](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=127)** The best way to think about the cone of uncertainty is to imagine the relationship between time, knowledge, and cost.
 >
@@ -411,13 +407,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=201)** Unfortunately as you get closer to the end of your project, it also gets more expensive to make changes so you need to find the balance between making the minimum amount of decisions to get started, but still give yourself enough flexibility to make changes.
 >
-> **[3:37](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=217)** This balance between making decisions and having enough flexibility to make changes is one of the key parts of the agile mindset.
+> **[3:37](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=217)** This balance between making decisions and having enough flexibility to make changes is one of the key parts of the [[Agile Development|agile]] mindset.
 >
 > **[3:45](https://www.linkedin.com/learning/agile-foundations/challenges-with-software-manufacturing-21060600?u=76281980&t=225)** That way you can help make lasting decisions even when you're working within a cone of uncertainty.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - a (1)
@@ -427,12 +423,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The agile manifesto: Values
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
+#### [The agile manifesto: Values](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=0)** - To better understand the Agile mindset, you have to start by looking at the manifesto for [[Agile Software Development]] or what's commonly called the Agile Manifesto.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=0)** - To better understand the [[Agile Development|Agile]] mindset, you have to start by looking at the manifesto for [[[[Agile Software Development]]]] or what's commonly called the Agile Manifesto.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=11)** The Agile Manifesto is a set of statements of four values and 12 principles that are intended to help you embrace an Agile mindset.
 >
@@ -494,19 +489,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Agile Software Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Agile Software Development]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - to (1)
 
-#### The agile manifesto: Principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980)
+#### [The agile manifesto: Principles](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=0)** - [Instructor] The four values in the Agile Manifesto were jotted down on the whiteboard during the meeting in Utah.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=0)** - [Instructor] The four values in the [[Agile Development|Agile]] Manifesto were jotted down on the whiteboard during the meeting in Utah.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=6)** After that meeting, the 17 signers of the Agile Manifesto emailed back and forth to interpret these values.
 >
@@ -568,11 +562,11 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=175)** As you can see, these manifesto principles really fill in a lot of what was left to your imagination when you only had four Agile values.
 >
-> **[3:05](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=185)** That's why you should think of the values in the manifesto as big picture ideas, but it's actually the 12 principles in the manifesto that start to lay some of the groundwork for what your team will actually do to deliver great products.
+> **[3:05](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-principles-21064149?u=76281980&t=185)** That's why you should think of the values in the manifesto as big picture ideas, but it's actually the 12 principles in the manifesto that start to lay some of the groundwork for what your team will actually do to deliver great [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), teams (7), product (6), functional (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), it's like (1), picture (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -582,8 +576,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The cost of multitasking
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
+#### [The cost of multitasking](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=29)** Think of your own experience.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=31)** Maybe you were writing an office memo and then suddenly got an email from your supervisor, so you stop writing the memo and you start reading the email.
+> **[0:31](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=31)** Maybe you were writing an [[Microsoft Office|office]] memo and then suddenly got an email from your supervisor, so you stop writing the memo and you start reading the email.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=39)** Then decide to jot out a quick reply.
 >
@@ -617,13 +610,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=71)** Research who studied this found that if you try to multitask with three or more tasks at the same time, you're spending much more time context switching than finishing the work.
 >
-> **[1:22](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=82)** That's why one of the very first things you want to think about when you embrace a more agile mindset is to try and limit your team's multitasking.
+> **[1:22](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=82)** That's why one of the very first things you want to think about when you embrace a more [[Agile Development|agile]] mindset is to try and limit your team's multitasking.
 >
 > **[1:32](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=92)** Instead of working on several different things at once, the entire team will focus on a limited set of high value tasks.
 >
 > **[1:41](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=101)** This team can then complete the high value work.
 >
-> **[1:45](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=105)** This helps with one of Agile's guiding principles, continuous delivery in short iterations.
+> **[1:45](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=105)** This helps with one of Agile's guiding principles, [[Continuous Delivery (CD)|continuous delivery]] in short iterations.
 >
 > **[1:51](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=111)** These short iterations are commonly called sprints.
 >
@@ -631,7 +624,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=120)** You have to be very careful where the team spends their time.
 >
-> **[2:04](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=124)** Reducing multitasking is one of the original ideas behind an agile framework called Scrum.
+> **[2:04](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=124)** Reducing multitasking is one of the original ideas behind an agile framework called [[Scrum]].
 >
 > **[2:11](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980&t=131)** If you're a rugby fan, you're probably familiar with this term.
 >
@@ -647,13 +640,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (4), [[Microsoft Office|Office]] (1), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (4), [[Microsoft Office|Office]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - multitasking (1)
 
-#### Avoid work handoffs
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/avoid-work-handoffs-21057907?u=76281980)
+#### [Avoid work handoffs](https://www.linkedin.com/learning/agile-foundations/avoid-work-handoffs-21057907?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,17 +689,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - one (1)
 
-#### The Penny Game
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980)
+#### [The Penny Game](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=0)** - Most of us cling to the notion that if we could just focus on our work in a quiet office all by ourselves, we'd be much more productive.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=0)** - Most of us cling to the notion that if we could just focus on our work in a quiet [[Microsoft Office|office]] all by ourselves, we'd be much more productive.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=8)** The problem is, is that you're actually right, but most organizations aren't just one individual.
 >
@@ -773,7 +763,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=180)** When the work was broken down into smaller batches, each team member took longer to finish their own work, but the team delivered the product in half the time.
 >
-> **[3:10](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=190)** So, if you're a manager seeing this dip in individual productivity can be a real challenge when starting to work as an agile team.
+> **[3:10](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=190)** So, if you're a manager seeing this dip in individual productivity can be a real challenge when starting to work as an [[Agile Development|agile]] team.
 >
 > **[3:19](https://www.linkedin.com/learning/agile-foundations/the-penny-game-21062179?u=76281980&t=199)** But the penny game shows that while individual productivity decreases, the overall productivity of the whole team will increase, and the customer will get their product much more quickly.
 >
@@ -781,16 +771,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), game (4), [[Microsoft Office|Office]] (2), [[Agile Development|Agile]] (2), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Agile Development|Agile]] (2)
 > **Tools:** notion (1)
 > **Speakers:** - most (1)
 
-#### Deliver at a predictable pace
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980)
+#### [Deliver at a predictable pace](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=0)** - One of the key ways that agile teams deliver is that they try to work at a predictable pace.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=0)** - One of the key ways that [[Agile Development|agile]] teams deliver is that they try to work at a predictable pace.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=6)** You'll see this in principle eight of the manifesto.
 >
@@ -816,13 +805,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=59)** A sprint is usually two weeks long.
 >
-> **[1:01](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=61)** The reason that most agile teams deliver in sprints is that it's a very well-structured way to deliver products quickly.
+> **[1:01](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=61)** The reason that most agile teams deliver in sprints is that it's a very well-structured way to deliver [[Microsoft Products|products]] quickly.
 >
 > **[1:09](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=69)** Principle three in the agile manifesto suggests that you should deliver in a shorter timescale.
 >
 > **[1:15](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=75)** That means that every two weeks, the customer can expect to receive all of the user stories in the sprint goal.
 >
-> **[1:21](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=81)** Now, I'm using a lot of terms from Scrum because Scrum is the most popular agile framework.
+> **[1:21](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=81)** Now, I'm using a lot of terms from [[Scrum]] because Scrum is the most popular agile framework.
 >
 > **[1:27](https://www.linkedin.com/learning/agile-foundations/deliver-at-a-predictable-pace-21061426?u=76281980&t=87)** Later on, we'll show how Scrum is different from the agile mindset.
 >
@@ -872,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), teams (7), [[Scrum]] (3), product (2), game (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Scrum]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cio (1)
@@ -880,16 +869,15 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - one (1)
 
-#### Cross-functional teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980)
+#### [Cross-functional teams](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=0)** - Agile teams should be motivated and self-organized.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=0)** - [[Agile Development|Agile]] teams should be motivated and self-organized.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=4)** You see this in principles five and 11 in the Agile manifesto.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=8)** Many organizations have found that the best way to keep teams self-organized is by running them differently from the rest of the organization.
+> **[0:08](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=8)** Many organizations have found that the best way to keep teams self-organized is by running them differently from the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=17)** Many organizations are split up into functional areas.
 >
@@ -897,13 +885,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=26)** In an organization, each of these silos has their own area of responsibility.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=32)** So you might have a vertical stack for business people, then another for software development, maybe another for quality assurance.
+> **[0:32](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=32)** So you might have a vertical stack for business people, then another for [[Software Development]], maybe another for [[Quality Assurance]].
 >
 > **[0:40](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=40)** Each of these silos will have their own managers and common practices.
 >
 > **[0:45](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=45)** That's why a typical team will have representatives from each of these silos.
 >
-> **[0:51](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=51)** So you might have a business analyst who coordinates with the customer to write the products requirements.
+> **[0:51](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=51)** So you might have a business analyst who coordinates with the customer to write the [[Microsoft Products|products]] requirements.
 >
 > **[0:56](https://www.linkedin.com/learning/agile-foundations/cross-functional-teams-21060598?u=76281980&t=56)** Then you'll have software developers who write the software.
 >
@@ -949,14 +937,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), [[Agile Development|Agile]] (4), teams (4), business (2), [[Quality Assurance]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Quality Assurance]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - agile (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=33)** A user story is more like a placeholder for a future conversation.
 >
-> **[0:37](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=37)** Remember that agile teams encourage face-to-face communication.
+> **[0:37](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=37)** Remember that [[Agile Development|agile]] teams encourage face-to-face communication.
 >
 > **[0:42](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=42)** They don't rely on documentation.
 >
@@ -996,13 +983,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=87)** You also might notice that there's nothing here about functionality.
 >
-> **[1:31](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=91)** The restaurant owner doesn't talk about upload buttons or databases.
+> **[1:31](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=91)** The restaurant owner doesn't talk about upload buttons or [[Databases]].
 >
 > **[1:36](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=96)** They just care about the value.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=98)** In this story, they want to encourage people to come to the restaurant, so that means that the product owner should have a future conversation with the team to deliver that value.
 >
-> **[1:47](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=107)** In scrum, this is often called the difference between the what and the how.
+> **[1:47](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=107)** In [[Scrum]], this is often called the difference between the what and the how.
 >
 > **[1:52](https://www.linkedin.com/learning/agile-foundations/user-stories-21064151?u=76281980&t=112)** The product owner worries about what the customer wants, and the development team decides how to deliver it.
 >
@@ -1032,16 +1019,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Agile Development|Agile]] (5), business (2), teams (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Scrum]] (2), [[Databases]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - user (1)
 
-#### User stories: Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/user-stories-common-challenges-21063181?u=76281980)
+#### [User stories: Common challenges](https://www.linkedin.com/learning/agile-foundations/user-stories-common-challenges-21063181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/user-stories-common-challenges-21063181?u=76281980&t=0)** - User stories aren't required in Agile, but many teams still have them.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/user-stories-common-challenges-21063181?u=76281980&t=0)** - User stories aren't required in [[Agile Development|Agile]], but many teams still have them.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-foundations/user-stories-common-challenges-21063181?u=76281980&t=5)** Your story should contain a clear value statement, and it should be written from the perspective of the user.
 >
@@ -1093,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (2), product (2), next (1), database (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - user (1)
@@ -1103,12 +1089,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start with the highest value
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
+#### [Start with the highest value](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=0)** - The very first principle in the Agile Manifesto is that our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=0)** - The very first principle in the [[Agile Development|Agile]] Manifesto is that our highest priority is to satisfy the customer through early and [[Continuous Delivery (CD)|continuous delivery]] of valuable software.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=13)** The key thing to think about with this principle are the words priority and valuable.
 >
@@ -1126,17 +1111,17 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=59)** 80% of the effects comes from 20% of the causes.
 >
-> **[1:04](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=64)** Now, if you fast forward to the 1990s, a consulting company called the Standish Group published a report that said that a majority of software projects were failing.
+> **[1:04](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=64)** Now, if you fast forward to the 1990s, a consulting company called the Standish Group published a report that said that a majority of [[Software Projects]] were failing.
 >
 > **[1:14](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=74)** That's because they spent too much time working on software features that no one will use.
 >
 > **[1:20](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=80)** Think of it this way.
 >
-> **[1:21](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=81)** If you use a program like Microsoft Word, you might really be using only a small set of the features.
+> **[1:21](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=81)** If you use a program like [[Microsoft Word]], you might really be using only a small set of the features.
 >
 > **[1:28](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=88)** Maybe you use spellcheck, print, or copy and paste, but you might never use mail merge or any of the hundreds of language packs.
 >
-> **[1:38](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=98)** That's true with most software products.
+> **[1:38](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=98)** That's true with most software [[Microsoft Products|products]].
 >
 > **[1:41](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980&t=101)** In fact, the report showed that for most customers, 45% of the features in a software product are never used.
 >
@@ -1176,17 +1161,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), product (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Projects]] (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Projects]] (1), [[Microsoft Word]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### Prioritize with a taskboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/prioritize-with-a-taskboard-21064154?u=76281980)
+#### [Prioritize with a taskboard](https://www.linkedin.com/learning/agile-foundations/prioritize-with-a-taskboard-21064154?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/prioritize-with-a-taskboard-21064154?u=76281980&t=0)** - So you've seen how important it is for Agile Teams to prioritize high value work.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/prioritize-with-a-taskboard-21064154?u=76281980&t=0)** - So you've seen how important it is for [[Agile Development|Agile]] Teams to prioritize high value work.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-foundations/prioritize-with-a-taskboard-21064154?u=76281980&t=5)** They need to first focus on the features that the customer will always use.
 >
@@ -1224,17 +1208,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (3), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Avoid PowerPoint software
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980)
+#### [Avoid PowerPoint software](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=0)** - One of the things that a lot of Agile teams get tripped up on is this idea of delivering high value working software.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=0)** - One of the things that a lot of [[Agile Development|Agile]] teams get tripped up on is this idea of delivering high value working software.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=10)** Remember that the Manifesto's Principle 7 says that working software is the primary measure of progress, but how's it possible to deliver working software every few weeks?
 >
@@ -1252,7 +1235,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=56)** Finally, you have to create the form that captures the information.
 >
-> **[1:00](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=60)** You might also need extra code to make sure that you have the correct data in the forms.
+> **[1:00](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=60)** You might also need extra code to make sure that you have the correct data in the [[Forms]].
 >
 > **[1:06](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=66)** So if you're looking at the website as a project, then you can imagine it having a lot of milestones.
 >
@@ -1276,7 +1259,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=128)** That's why when you're working on an Agile team, you want to only show the customer working software.
 >
-> **[2:14](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=134)** Some teams make the mistake of showing the customer PowerPoint presentations or wireframes, but these are really just fictions.
+> **[2:14](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=134)** Some teams make the mistake of showing the customer [[Microsoft PowerPoint|PowerPoint]] presentations or wireframes, but these are really just fictions.
 >
 > **[2:21](https://www.linkedin.com/learning/agile-foundations/avoid-powerpoint-software-21064148?u=76281980&t=141)** They're not working software the customer can use.
 >
@@ -1298,7 +1281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (4), database (4), data (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Forms]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1)
@@ -1310,18 +1293,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inspect and adapt
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
+#### [Inspect and adapt](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=0)** - To work well as an Agile team, you have to be adaptable.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=0)** - To work well as an [[Agile Development|Agile]] team, you have to be adaptable.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=5)** Adapting to change is built into the very foundation of the Agile manifesto.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=10)** The developers who wrote the manifesto were already using their own software development methods.
+> **[0:10](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=10)** The developers who wrote the manifesto were already using their own [[Software Development]] methods.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=15)** Two of the most popular were scrum and extreme programming.
+> **[0:15](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=15)** Two of the most popular were [[Scrum]] and extreme programming.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980&t=20)** That's why a lot of Agile teams use scrum terms and also some terms from extreme programming.
 >
@@ -1393,19 +1375,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (7), teams (7), [[Software Development]] (5), product (5)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (7), [[Software Development]] (5)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - to (1)
 
-#### Stay within timeboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980)
+#### [Stay within timeboxes](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=0)** - Agile teams focus on being predictable instead of creating detailed plans.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=0)** - [[Agile Development|Agile]] teams focus on being predictable instead of creating detailed plans.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=5)** Most organizations create detailed plans because they're trying to eliminate uncertainty, but agile teams can actually do a better job eliminating uncertainty by delivering predictably every few weeks.
 >
@@ -1455,7 +1436,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=150)** This extra time isn't considered a sustainable pace.
 >
-> **[2:36](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=156)** A scrum team will work in sprints.
+> **[2:36](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=156)** A [[Scrum]] team will work in sprints.
 >
 > **[2:38](https://www.linkedin.com/learning/agile-foundations/stay-within-timeboxes-21064153?u=76281980&t=158)** That's also a time box.
 >
@@ -1469,13 +1450,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), [[Scrum]] (1), database (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - agile (1)
 
-#### Jump off the waterfall
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980)
+#### [Jump off the waterfall](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1497,13 +1477,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=51)** The software architects will design the system.
 >
-> **[0:54](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=54)** Software developers will then code the software, and a separate quality assurance team will run all the tests.
+> **[0:54](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=54)** Software developers will then code the software, and a separate [[Quality Assurance]] team will run all the tests.
 >
 > **[1:01](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=61)** Often, there's a separate infrastructure team that's responsible for deployment.
 >
 > **[1:07](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=67)** Chances are your organization still has several of these people working on your team.
 >
-> **[1:12](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=72)** Many Agile coaches feel that waterfall and an Agile mindset are complete opposites, but the truth is a little trickier.
+> **[1:12](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=72)** Many [[Agile Development|Agile]] coaches feel that waterfall and an Agile mindset are complete opposites, but the truth is a little trickier.
 >
 > **[1:19](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=79)** Remember that Agile is a mindset.
 >
@@ -1521,7 +1501,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=130)** If you think about it, it would be nearly impossible to deliver every few weeks if you were using a waterfall-style approach.
 >
-> **[2:18](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=138)** If the business analysts got stuck waiting to hear from the customer, then the rest of the team would just sit idly as they wait to start development for the handoff.
+> **[2:18](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=138)** If the business analysts got stuck waiting to hear from the customer, then the [[Representational State Transfer (REST)|rest]] of the team would just sit idly as they wait to start development for the handoff.
 >
 > **[2:28](https://www.linkedin.com/learning/agile-foundations/jump-off-the-waterfall-21062184?u=76281980&t=148)** Remember that the "Agile Manifesto" says in principles four, five, and 11, that Agile teams should be motivated and self-organized.
 >
@@ -1539,19 +1519,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), business (4), teams (3), functional (3), product (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Quality Assurance]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### Commit to sprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980)
+#### [Commit to sprints](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980&t=0)** - Most agile teams will deliver in a short iteration that's typically called a sprint.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980&t=0)** - Most [[Agile Development|agile]] teams will deliver in a short iteration that's typically called a sprint.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980&t=6)** The term sprint is from scrum, which is the most popular agile framework.
+> **[0:06](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980&t=6)** The term sprint is from [[Scrum]], which is the most popular agile framework.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-foundations/commit-to-sprints-21062181?u=76281980&t=11)** Now, there's nothing in the agile manifesto that says that a team should deliver in sprints.
 >
@@ -1613,17 +1592,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (5), teams (4), product (4), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (5)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - most (1)
 
-#### Iterative delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980)
+#### [Iterative delivery](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=0)** - One of the biggest changes for agile teams is delivering the product in iterations.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=0)** - One of the biggest changes for [[Agile Development|agile]] teams is delivering the product in iterations.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=6)** These are usually called sprints.
 >
@@ -1693,7 +1671,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=214)** The key thing to remember is that this iterative delivery is one of the biggest shifts in your mindset when working on an agile team.
 >
-> **[3:42](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=222)** Most teams instinctively break up large products into phases.
+> **[3:42](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=222)** Most teams instinctively break up large [[Microsoft Products|products]] into phases.
 >
 > **[3:47](https://www.linkedin.com/learning/agile-foundations/iterative-delivery-21059663?u=76281980&t=227)** They don't like to build and refine, instead they like to plan out everything and put it together in the end.
 >
@@ -1701,7 +1679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), product (10), teams (8), next (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (2)
@@ -1712,14 +1690,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
+#### [Scrum overview](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980&t=0)** - So far, you've heard me use terms such as the product owner, sprints, Scrum master, and the product backlog.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980&t=0)** - So far, you've heard me use terms such as the product owner, sprints, [[Scrum]] master, and the product backlog.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980&t=8)** These are common terms that you'll hear with most Agile teams, but these terms are not part of the Agile manifesto.
+> **[0:08](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980&t=8)** These are common terms that you'll hear with most [[Agile Development|Agile]] teams, but these terms are not part of the Agile manifesto.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980&t=16)** These terms are actually from Scrum, which is the most popular Agile framework.
 >
@@ -1781,18 +1758,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (22), [[Agile Development|Agile]] (16), teams (7), product (5)
+> **Frameworks & Libraries:** [[Scrum]] (22), [[Agile Development|Agile]] (16)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### Extreme programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980)
+#### [Extreme programming](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=0)** - Another popular framework for agile teams is Extreme Programming, the creators of Extreme Programming or XP were also a key part of the group that wrote the manifesto.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=0)** - Another popular framework for [[Agile Development|agile]] teams is Extreme Programming, the creators of Extreme Programming or XP were also a key part of the group that wrote the manifesto.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=12)** Some agile experts believe that most of what teams think of as agile actually came from XP.
 >
@@ -1800,9 +1776,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=25)** These teams can quickly pivot to take advantage of new information.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=30)** They call the methods Extreme because they thought to deliver software effectively, you needed to make extreme changes to the software development process.
+> **[0:30](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=30)** They call the methods Extreme because they thought to deliver software effectively, you needed to make extreme changes to the [[Software Development]] process.
 >
-> **[0:40](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=40)** At first glance, scrum shares a lot of the same ideas as extreme programming.
+> **[0:40](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=40)** At first glance, [[Scrum]] shares a lot of the same ideas as extreme programming.
 >
 > **[0:46](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=46)** In fact, the very first scrum book said that you should use scrum to implement XP.
 >
@@ -1812,9 +1788,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=61)** XP is still only focused on software development.
 >
-> **[1:05](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=65)** That means if you're an [[Agile Software Development]] team, you should probably consider using many of the XP practices.
+> **[1:05](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=65)** That means if you're an [[[[Agile Software Development]]]] team, you should probably consider using many of the XP practices.
 >
-> **[1:13](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=73)** A few of these practices are agile planning, continuous integration, software refactoring and test driven development.
+> **[1:13](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=73)** A few of these practices are agile planning, [[Continuous Integration (CI)|continuous integration]], software refactoring and test driven development.
 >
 > **[1:23](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=83)** Most agile teams already use some form of XP's agile planning.
 >
@@ -1826,7 +1802,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=105)** You can see that this isn't technical.
 >
-> **[1:47](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=107)** You don't talk about databases or web forms.
+> **[1:47](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=107)** You don't talk about [[Databases]] or web [[Forms]].
 >
 > **[1:50](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=110)** Instead, it's just a simple description of what the customer wants.
 >
@@ -1862,30 +1838,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Agile Development|Agile]] (9), [[Scrum]] (5), [[Software Development]] (4), [[Programming]] (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (5), [[Software Development]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Agile Software Development]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdd (1)
 > **Definitions:** is called (1)
 > **Speakers:** - another (1)
 
-#### Kanban overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980)
+#### [Kanban overview](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=0)** - A lot of Agile teams also use many of the concepts from Kanban.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=0)** - A lot of [[Agile Development|Agile]] teams also use many of the concepts from Kanban.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=5)** Kanban is a scheduling system that was used in Lean manufacturing.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=10)** Many Agile teams like to display their work on a Kanban board, but Kanban's influence on the Agile mindset goes well beyond just the board.
 >
-> **[0:20](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=20)** The Kanban system is actually a popular way to apply Lean thinking to software development.
+> **[0:20](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=20)** The Kanban system is actually a popular way to apply Lean thinking to [[Software Development]].
 >
 > **[0:27](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=27)** Lean thinking is about focusing on what's valuable to the customer and then continuously improving the product over time.
 >
 > **[0:35](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=35)** You've seen this in the very first principle in the Agile Manifesto.
 >
-> **[0:39](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=39)** Remember that Agile teams focus on continuous delivery of valuable software, but Lean also emphasizes people over process.
+> **[0:39](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=39)** Remember that Agile teams focus on [[Continuous Delivery (CD)|continuous delivery]] of valuable software, but Lean also emphasizes people over process.
 >
 > **[0:48](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=48)** It encourages companies to have respect for people and trust them to deliver high quality work.
 >
@@ -1909,7 +1884,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=109)** These columns typically have the labels stories, to do, doing, and done.
 >
-> **[1:56](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=116)** Scrum teams will call this the task board, because they use yellow sticky notes to keep track of their tasks.
+> **[1:56](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=116)** [[Scrum]] teams will call this the task board, because they use yellow sticky notes to keep track of their tasks.
 >
 > **[2:04](https://www.linkedin.com/learning/agile-foundations/kanban-overview-21057908?u=76281980&t=124)** But a Kanban board, or Scrum task board, is more than just displaying your work.
 >
@@ -1943,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), teams (6), product (2), [[Scrum]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Scrum]] (2), [[Software Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -1953,14 +1928,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common roles on the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
+#### [Common roles on the team](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980&t=0)** - It might seem strange that we're talking about Agile team roles so late in the course.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980&t=0)** - It might seem strange that we're talking about [[Agile Development|Agile]] team roles so late in the course.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980&t=5)** A lot of courses would immediately start talking about scrum masters, product owners and the development team, but that actually causes a lot of confusion.
+> **[0:05](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980&t=5)** A lot of courses would immediately start talking about [[Scrum]] masters, product owners and the development team, but that actually causes a lot of confusion.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980&t=15)** That's because it's difficult to understand the roles on a team without first understanding the Agile mindset.
 >
@@ -2038,18 +2012,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), product (9), [[Scrum]] (6), business (4), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), [[Scrum]] (6)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
 > **Warnings:** be careful (1)
 > **Speakers:** - it (1)
 
-#### The product owner
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980)
+#### [The product owner](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=0)** - Many agile coaches believe that the product owner is the most important role on the team.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=0)** - Many [[Agile Development|agile]] coaches believe that the product owner is the most important role on the team.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=6)** If you step back a little, that makes a lot of sense.
 >
@@ -2065,7 +2038,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=41)** If the developers have a question, they shouldn't have to email someone for an answer.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=46)** They own the product and have the authority to make real-time decisions.
+> **[0:46](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=46)** They own the product and have the authority to make [[Real-Time]] decisions.
 >
 > **[0:51](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=51)** Other organizations might have a product manager.
 >
@@ -2073,7 +2046,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=61)** A product manager works on the long-term strategy for a product.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=66)** They'll create the budget and look at competing products.
+> **[1:06](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=66)** They'll create the budget and look at competing [[Microsoft Products|products]].
 >
 > **[1:09](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=69)** Once they have a vision, then they'll bring in a product owner to actually own the product.
 >
@@ -2083,7 +2056,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=88)** Most teams will put user stories in the product backlog, but you can really put anything you want.
 >
-> **[1:34](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=94)** Now, remember, we're using Scrum terms here because that's the most popular agile framework.
+> **[1:34](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=94)** Now, remember, we're using [[Scrum]] terms here because that's the most popular agile framework.
 >
 > **[1:40](https://www.linkedin.com/learning/agile-foundations/the-product-owner-21062183?u=76281980&t=100)** You can be on an agile team without relying on any of these terms.
 >
@@ -2107,19 +2080,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (28), [[Agile Development|Agile]] (5), business (5), teams (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Scrum]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - many (1)
 
-#### The scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980)
+#### [The scrum master](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=0)** - The Scrum Master is one role that gets a lot of attention.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=0)** - The [[Scrum]] Master is one role that gets a lot of attention.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=4)** It just sounds impressive.
 >
@@ -2151,7 +2123,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=79)** They might start out spending most of their time training, something like showing the product owner how to write better user stories.
 >
-> **[1:26](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=86)** Then over time, the Agile team will get better at following Scrum.
+> **[1:26](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=86)** Then over time, the [[Agile Development|Agile]] team will get better at following Scrum.
 >
 > **[1:31](https://www.linkedin.com/learning/agile-foundations/the-scrum-master-21060599?u=76281980&t=91)** So then the Scrum Master can spend most of their time on administration.
 >
@@ -2185,22 +2157,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (19), [[Agile Development|Agile]] (5), product (3), power (1), functional (1)
+> **Frameworks & Libraries:** [[Scrum]] (19), [[Agile Development|Agile]] (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - the (1)
 
-#### Combat groupthink
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980)
+#### [Combat groupthink](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=0)** - One of the most important ideas in the Agile Manifesto is that teams should favor individuals and interactions over processes and tools.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=0)** - One of the most important ideas in the [[Agile Development|Agile]] Manifesto is that teams should favor individuals and interactions over processes and tools.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=10)** The original work group that developed the Agile Manifesto put a lot of emphasis on how team members communicate.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=18)** That's because they knew that most software projects fail, not because of some overwhelming technical challenge, instead, these projects fail because of bad communication.
+> **[0:18](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=18)** That's because they knew that most [[Software Projects]] fail, not because of some overwhelming technical challenge, instead, these projects fail because of bad communication.
 >
 > **[0:28](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=28)** They thought the fix for this was putting much more emphasis on face-to-face interactions.
 >
@@ -2226,7 +2197,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=81)** They could end up doing something called, Groupthink.
 >
-> **[1:25](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=85)** That's when a few experts make a convincing argument and the rest of the team just follows along.
+> **[1:25](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=85)** That's when a few experts make a convincing argument and the [[Representational State Transfer (REST)|rest]] of the team just follows along.
 >
 > **[1:31](https://www.linkedin.com/learning/agile-foundations/combat-groupthink-21062180?u=76281980&t=91)** Something like, "Sam says it's a good idea, so it must be right."
 >
@@ -2242,19 +2213,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (4), database (4), product (2), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Projects]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - one (1)
 
-#### Planning Poker
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980)
+#### [Planning Poker](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=0)** - One of the most popular ways that Agile teams combat groupthink is by playing a game of planning poker.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=0)** - One of the most popular ways that [[Agile Development|Agile]] teams combat groupthink is by playing a game of planning poker.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=7)** This is a consensus building technique that was adapted from a group decision-making tool called Wideband Delphi.
+> **[0:07](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=7)** This is a consensus building technique that was adapted from a group [[Decision-Making]] tool called Wideband Delphi.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=15)** Planning poker helps groups of people estimate how much effort it would take for the whole team to finish a user story.
 >
@@ -2264,7 +2234,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=34)** Your team sits around a table.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=36)** And a facilitator, usually the scrum master, holds a user story that the product owner wants delivered.
+> **[0:36](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=36)** And a facilitator, usually the [[Scrum]] master, holds a user story that the product owner wants delivered.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-foundations/planning-poker-21057910?u=76281980&t=43)** Each person on the team will have a set of playing cards.
 >
@@ -2320,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), teams (2), game (2), [[Agile Development|Agile]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1)
@@ -2332,12 +2302,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Major agile challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
+#### [Major agile challenges](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980&t=0)** - There are a lot of challenges that come with embracing a more Agile mindset, but the biggest challenge in large organizations is underestimating how radical this transformation can be.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980&t=0)** - There are a lot of challenges that come with embracing a more [[Agile Development|Agile]] mindset, but the biggest challenge in large organizations is underestimating how radical this transformation can be.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980&t=12)** This isn't really one challenge as much as it's a group of common challenges.
 >
@@ -2403,13 +2372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), product (5), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - there (1)
 
-#### Start an agile transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980)
+#### [Start an agile transformation](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,11 +2385,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=4)** Some organizations want to start from the bottom up.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=7)** They want to train their employees and just get started with Scrum, XP, or Kanban.
+> **[0:07](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=7)** They want to train their employees and just get started with [[Scrum]], XP, or Kanban.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=13)** Other organizations want to start from the top down.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=15)** They want their executives and managers to understand the change and create new budgets for agile teams.
+> **[0:15](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=15)** They want their executives and managers to understand the change and create new budgets for [[Agile Development|agile]] teams.
 >
 > **[0:22](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=22)** Both of these approaches have their own advantages and disadvantages.
 >
@@ -2433,7 +2401,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=45)** That's because a lot of organizations have a culture which has a hard time embracing big changes.
 >
-> **[0:52](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=52)** An organizational culture is an unseen and unspoken way of working.
+> **[0:52](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=52)** An [[Organizational Culture]] is an unseen and unspoken way of working.
 >
 > **[0:57](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=57)** You might hear employees say something like, that's not the way we do things here.
 >
@@ -2453,7 +2421,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=98)** If there's a lot of uncertainty, then it gets difficult to make predictions.
 >
-> **[1:43](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=103)** That's why a lot of control cultures have a very strong project management office.
+> **[1:43](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=103)** That's why a lot of control cultures have a very strong project management [[Microsoft Office|office]].
 >
 > **[1:47](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=107)** The PMO likes to divide work into predictable projects.
 >
@@ -2471,7 +2439,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=152)** That gave them full ownership of their product.
 >
-> **[2:35](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=155)** Then the executives checked out if this team delivered better than the rest of the organization.
+> **[2:35](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=155)** Then the executives checked out if this team delivered better than the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[2:41](https://www.linkedin.com/learning/agile-foundations/start-an-agile-transformation-21064150?u=76281980&t=161)** When a company decides to make an organizational change, it could take five or 10 years to make this transformation.
 >
@@ -2479,7 +2447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (2), [[Organizational Culture]] (2), [[Scrum]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Organizational Culture]] (2), [[Scrum]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** pmo (1)
@@ -2490,12 +2458,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)
+#### [Continuing with agile](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=0)** - I hope that throughout this course, you get a sense for how the Agile mindset can improve your product delivery.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=0)** - I hope that throughout this course, you get a sense for how the [[Agile Development|Agile]] mindset can improve your product delivery.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=6)** Just remember that the mindset is a radical change from how most organizations operate.
 >
@@ -2503,9 +2470,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=18)** Remember what feels right to you as an individual might not be the most efficient way to work as a team.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=25)** This course is one of several that are available on Agile in the LinkedIn Learning Library.
+> **[0:25](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=25)** This course is one of several that are available on Agile in the [[LinkedIn]] Learning Library.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=31)** If you'd like to learn more about Scrum, then you could check out Scrum: The Basics by Kelly O'Connell.
+> **[0:31](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=31)** If you'd like to learn more about [[Scrum]], then you could check out Scrum: The Basics by Kelly O'Connell.
 >
 > **[0:38](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980&t=38)** There's also a great course on the Agile Product Owner Role Foundations by Angela Wick.
 >
@@ -2521,7 +2488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), product (2), [[LinkedIn]] (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[LinkedIn]] (2), [[Scrum]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)

@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn how to protect your wireless network
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
+#### [Learn how to protect your wireless network](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,9 +107,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=45)** In this course, I'll explain the technology used in wireless networks and the risks it brings, which protocols are vulnerable to attack, and the tools available to test for vulnerable services.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=57)** I'll start by explaining the basics of wireless networking and the various forms of wireless network security.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=57)** I'll start by explaining the basics of [[Wireless Networking]] and the various [[Forms]] of wireless [[Network Security]].
 >
-> **[1:04](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=64)** I'll demonstrate the basic Windows and Linux tool sets for wireless network testing, and I'll be using the WiFi Pineapple to cover the issue of rogue access points.
+> **[1:04](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=64)** I'll demonstrate the basic [[Windows]] and [[Linux]] tool sets for wireless network testing, and I'll be using the WiFi Pineapple to cover the issue of rogue access points.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980&t=75)** When you finish this course you'll have a great understanding of how to test for wireless network weaknesses.
 >
@@ -118,24 +117,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), career (1), [[Wireless Networking]] (1), [[Forms]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Forms]] (1), [[Network Security]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [malcolm (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=0)** - [Narrator] This is a practical course and during this course I'll be using a virtualized environment called Virtual Box.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=6)** I'll also be using a number of tools which are part of the Kali Linux framework to test systems.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=6)** I'll also be using a number of tools which are part of the [[Kali Linux]] framework to test systems.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=12)** If you're not familiar with Kali and virtualization, you should watch my introduction to Kali Linux course which will guide you through installing and using them.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=21)** In addition, I'll be assuming that you understand basic computer and networking concepts, are familiar with Windows, and have a knowledge of basic Linux commands.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=21)** In addition, I'll be assuming that you understand basic computer and networking concepts, are familiar with [[Windows]], and have a knowledge of basic [[Linux]] commands.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=32)** I'll also be using some additional hardware to do the testing.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=32)** I'll also be using some additional [[Hardware]] to do the testing.
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/what-you-should-know-before-watching-this-course-2?u=76281980&t=35)** While some testing can be done just with a laptop, you'll be better served getting an external USB WiFi device to use.
 >
@@ -147,17 +145,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Hardware]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Hardware]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Course disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/course-disclaimer-2?u=76281980)
+#### [Course disclaimer](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/course-disclaimer-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/course-disclaimer-2?u=76281980&t=0)** - [Instructor] This is one of a series of ethical hacking courses and in addition to Kali Linux, it uses a range of third party testing software.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/course-disclaimer-2?u=76281980&t=0)** - [Instructor] This is one of a series of [[Ethical Hacking]] courses and in addition to [[Kali Linux]], it uses a range of third party testing software.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/course-disclaimer-2?u=76281980&t=9)** Some of this is commercial software and some is open source, third party software.
 >
@@ -193,8 +190,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding wireless networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
+#### [Understanding wireless networks](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=85)** As we can see in this table, these provide quite substantial speeds.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=89)** Wireless devices connect using what's known as Wi-Fi, the wireless networking protocol, which is defined in the 802.11 series of standards.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=89)** Wireless devices connect using what's known as Wi-Fi, the [[Wireless Networking]] protocol, which is defined in the 802.11 series of standards.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=99)** These standards are continually being improved, with the early 802.11a, b, and g being superseded by 802.11n, and 802.11ac.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=261)** Encryption and authentication can be configured on a wireless LAN by selecting one of three options.
 >
-> **[4:27](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=267)** Wired Equivalent Privacy, or WEP.
+> **[4:27](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=267)** Wired Equivalent [[Privacy]], or WEP.
 >
 > **[4:30](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980&t=270)** Wi-Fi Protected Access, or WPA.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), business (2), lan (2), power (1), [[Wireless Networking]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Privacy]] (1)
 > **Env Vars:** mac (8), ssid (4), wpa (3), lan (2), wpa2 (2)
 > **Definitions:** known as (5), is a  (3)
 > **Versions:** 802.11 (1), 2.4 (1), 2.412 (1), 2.417 (1), 2.422 (1)
@@ -315,8 +311,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Documentation:** specification (1)
 
-#### Selecting an antenna for wireless network testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980)
+#### [Selecting an antenna for wireless network testing](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +369,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980&t=193)** These don't change transmission power, but change the shape of the signal to focus more power in one direction.
 >
-> **[3:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980&t=201)** These come in two forms.
+> **[3:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980&t=201)** These come in two [[Forms]].
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/selecting-an-antenna-for-wireless-network-testing-2?u=76281980&t=202)** The first is the yagi antenna, which is sometimes called the fishbone antenna for obvious reasons as we can see here.
 >
@@ -410,14 +405,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), lan (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Code Identifiers:** dbm (8), dbi (3)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **Env Vars:** netgear (1), lan (1), wn722n (1)
 > **Speakers:** - a (1)
 
-#### Configuring security in wireless networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980)
+#### [Configuring security in wireless networks](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=33)** Even more maliciously, however, being on the local network allows an attacker to use techniques such as app spoofing to attack network clients directly with exploits and through man-in-the-middle attacks.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=45)** Security was first deployed on wireless systems in the form of the Wired Equivalent Privacy, or WEP.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=45)** Security was first deployed on wireless systems in the form of the Wired Equivalent [[Privacy]], or WEP.
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=53)** This was integrated into the 802.11b standard and was designed to protect wireless networks to the same extent that wired networks were protected.
 >
@@ -437,11 +431,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=71)** It used a shared secret key and delivered a lightweight solution for confidentiality, access control, and integrity, which could be employed with minimal performance issues on modern chipsets.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=84)** However, WEP was not designed by experts in cryptography.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=84)** However, WEP was not designed by experts in [[Cryptography]].
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=88)** It had no way of distributing shared keys at scale.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=92)** The encryption algorithms were weak enough to enable attackers to crack the encryption and recover the plain text.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=92)** The encryption [[Algorithms]] were weak enough to enable attackers to crack the encryption and recover the plain text.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/configuring-security-in-wireless-networks-2?u=76281980&t=99)** It was also possible to passively recover the key using freely available sniffer tools.
 >
@@ -475,15 +469,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (2), traffic (1), [[Privacy]] (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Cryptography]] (1), [[Algorithms]] (1)
 > **Env Vars:** wep (7), wpa2 (6), wpa (5), tkip (3), aes (2)
 > **Prerequisites:** initialization (2)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Wi-Fi Protected Setup (WPS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-the-wi-fi-protected-setup-wps?u=76281980)
+#### [Understanding the Wi-Fi Protected Setup (WPS)](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-the-wi-fi-protected-setup-wps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,15 +582,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Security]] (1)
 > **Env Vars:** wps (13), wsc (6), eapol (5), ssid (2), wpa (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Prerequisites:** setup (2), required to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Extracting WEP passwords using Wifite
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/extracting-wep-passwords-using-wifite-2?u=76281980)
+#### [Extracting WEP passwords using Wifite](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/extracting-wep-passwords-using-wifite-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +638,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), next (1)
 > **Env Vars:** wep (2), usb (1), link_96e8a0 (1), ascii (1)
 > **Tools:** terminal (1), command line (1)
 > **Prerequisites:** initialization (2)
@@ -655,8 +645,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Extracting network passwords through WPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/extracting-network-passwords-through-wps-2?u=76281980)
+#### [Extracting network passwords through WPS](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/extracting-network-passwords-through-wps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,14 +703,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **Env Vars:** wps (8), bssid (2), pin (1), tg582n (1), wpa2 (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** terminal (1)
 > **Speakers:** - wps (1)
 
-#### Using WiFite and Aircrack-ng to test WPA passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-wifite-and-aircrack-ng-to-test-wpa-passwords-2?u=76281980)
+#### [Using WiFite and Aircrack-ng to test WPA passwords](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-wifite-and-aircrack-ng-to-test-wpa-passwords-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,14 +748,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), web (1), [[Search]] (1)
 > **Env Vars:** wpa (5), wpa2 (1), mac (1), tpg (1), wps (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Pixiedust to recover keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-pixiedust-to-recover-keys-2?u=76281980)
+#### [Using Pixiedust to recover keys](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-pixiedust-to-recover-keys-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,18 +805,17 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-pixiedust-to-recover-keys-2?u=76281980&t=148)** The solution to this weakness is to ensure that the equipment used has a good quality implementation of its security functions.
 >
-> **[2:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-pixiedust-to-recover-keys-2?u=76281980&t=155)** It's not that obvious, even with the larger manufacturers, as the chip sets they use may be suspect, and so good security testing is important.
+> **[2:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-pixiedust-to-recover-keys-2?u=76281980&t=155)** It's not that obvious, even with the larger manufacturers, as the chip sets they use may be suspect, and so good [[Security Testing]] is important.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
+> **Frameworks & Libraries:** [[Security Testing]] (1)
 > **Env Vars:** wps (3), bssid (2), n300 (1), tpg (1), pkr (1)
 > **Ports:** :08 (1), :18 (1), :12 (1), :50 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - while (1)
 
-#### A first look at WPA3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980)
+#### [A first look at WPA3](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,7 +847,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980&t=116)** The third feature is simple connectivity for devices without a screen and keyboard based on scanning the QR code of a device by using a smartphone.
 >
-> **[2:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980&t=128)** This is important for encouraging IoT vendors to incorporate security into their devices.
+> **[2:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980&t=128)** This is important for encouraging [[IoT]] vendors to incorporate security into their devices.
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/a-first-look-at-wpa3?u=76281980&t=134)** The fourth feature is more advanced crypto algorithm set based on 192-bit AES key.
 >
@@ -871,14 +855,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Security]] (2), data (2), traffic (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Env Vars:** wpa3 (7), wpa2 (3), krack (1), aes (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Dragonblood
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980)
+#### [Understanding Dragonblood](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=28)** A number of side channel attacks were discovered, including one which worked even after the equipment was patched.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=35)** Interestingly, their research suggests that for the expenditure of a dollar on an Amazon EC2 instance, there would be enough computing power to brute force crack the password.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=35)** Interestingly, their research suggests that for the expenditure of a dollar on an [[Amazon EC2]] instance, there would be enough computing power to brute force crack the password.
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=46)** Also interestingly, the design of WPA3 did not address a known history of side channel leaks, despite these being raised as concerns.
 >
@@ -904,7 +887,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=104)** On 10th of April, 2019, the Wi-Fi Alliance issued confirmation of the research, stating that recently published research identified vulnerabilities in a limited number of early implementations of WPA3-Personal.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=120)** Vendors of existing WPA3 products are now issuing software patches to mitigate the currently known vulnerabilities.
+> **[2:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=120)** Vendors of existing WPA3 [[Microsoft Products|products]] are now issuing software patches to mitigate the currently known vulnerabilities.
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-dragonblood?u=76281980&t=128)** There is some controversy over Dragonfly.
 >
@@ -916,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2]] (1), power (1), [[Microsoft Products|Products]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** wpa3 (8), wpa2 (1), ec2 (1), mac (1)
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
@@ -927,8 +910,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Harvesting connections with an evil twin
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
+#### [Harvesting connections with an evil twin](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,13 +946,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=92)** And I've now connected.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=93)** Now I've got a user on the access point, I can use Wireshark to monitor the traffic.
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=93)** Now I've got a user on the access point, I can use [[Wireshark]] to monitor the traffic.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=98)** I've started Wireshark, and I'll set a filter for the access point.
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=104)** And I'll select "wlan0mon" as the interface and start Wireshark capturing.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=110)** Okay I'm browsing the internet on my mobile, and I can see the traffic routing through Wireshark, as 802.11 packets.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=110)** Okay I'm browsing the internet on my mobile, and I can see the traffic [[Routing]] through Wireshark, as 802.11 packets.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980&t=117)** I'll stop the capture now.
 >
@@ -980,15 +962,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Wireshark]] (4), [[Routing]] (2), lan (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Routing]] (2)
 > **Env Vars:** ssid (1), bssid (1), lan (1), wpa (1)
 > **Definitions:** is a  (3)
 > **Versions:** 802.11 (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - an (1)
 
-#### Set up the WiFi Pineapple
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980)
+#### [Set up the WiFi Pineapple](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980&t=6)** These are available directly from the Hak5 website.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980&t=10)** The WiFi Pineapple is a dedicated hardware device, which runs Linux and OpenWrt and provides a full capability for wireless testing, either directly out of the box or for the more complex testing through a custom software installation.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980&t=10)** The WiFi Pineapple is a dedicated [[Hardware]] device, which runs [[Linux]] and OpenWrt and provides a full capability for wireless testing, either directly out of the box or for the more complex testing through a custom software installation.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/set-up-the-wifi-pineapple?u=76281980&t=24)** The WiFi Pineapple has been available for some time with the Nano and Tetra being popular early models.
 >
@@ -1076,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Hardware]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Linux]] (1)
 > **Env Vars:** vii (3), ssid (3), usb (2), http (1), led (1)
 > **Versions:** 802.11 (2), 172.16.40 (1), 2.1 (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -1085,8 +1066,7 @@ created: 2026-05-02
 > **Ports:** port 1471 (1)
 > **UI Navigation:** go to (1)
 
-#### Harvest credentials with the WiFi Pineapple
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvest-credentials-with-the-wifi-pineapple?u=76281980)
+#### [Harvest credentials with the WiFi Pineapple](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvest-credentials-with-the-wifi-pineapple?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1134,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1), traffic (1)
 > **Env Vars:** mac (2), oui (1), comfast_ap (1), wpa2 (1), url (1)
 > **UI Navigation:** go to (2), click on (1), navigate to (1)
 > **Prerequisites:** install (2)
@@ -1163,8 +1142,7 @@ created: 2026-05-02
 > **API Endpoints:** post  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capturing WPA handshakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wpa-handshakes?u=76281980)
+#### [Capturing WPA handshakes](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wpa-handshakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,12 +1167,11 @@ created: 2026-05-02
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning and attacking with Fluxion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980)
+#### [Scanning and attacking with Fluxion](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=0)** - Fluxion is a custom tool for setting up and running a rogue access point, and it runs on Kali Linux.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=0)** - Fluxion is a custom tool for setting up and running a rogue access point, and it runs on [[Kali Linux]].
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=8)** It can be cloned from the site shown here.
 >
@@ -1268,7 +1245,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=289)** We'll use the recommended disconnected connectivity, and we'll select 47 as the modem type.
 >
-> **[5:01](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=301)** Okay, we're now running the main dashboards for our captive portal.
+> **[5:01](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=301)** Okay, we're now running the main [[Dashboards]] for our captive portal.
 >
 > **[5:05](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-and-attacking-with-fluxion?u=76281980&t=305)** Let's see what happens when someone connects to COMFAST AP.
 >
@@ -1282,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Kali Linux]] (1), cd (1), [[Dashboards]] (1), dns (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Dashboards]] (1)
 > **Env Vars:** comfast (3), usb (1), wlan (1), apd (1), ssl (1)
 > **Best Practices:** recommended (4)
 > **Prerequisites:** set up (1), install (1), configure (1)
@@ -1296,8 +1273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Bluetooth
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
+#### [Understanding Bluetooth](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=83)** Class two devices if they can operate up to 10 meters and class three devices which operate at 10 centimeters or less.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=92)** Data can be transferred between Bluetooth devices as a real-time stream or as files.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=92)** Data can be transferred between Bluetooth devices as a [[Real-Time]] stream or as files.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=98)** Real-time data include streaming audio and video, telephony and so on.
 >
@@ -1359,7 +1335,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=217)** SDP offers direct support for searching for specific SSIDs and for browsing services.
 >
-> **[3:44](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=224)** The implementation of a Bluetooth stack involves Bluetooth hardware device and its associated host controller interface driver.
+> **[3:44](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=224)** The implementation of a Bluetooth stack involves Bluetooth [[Hardware]] device and its associated host controller interface driver.
 >
 > **[3:54](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980&t=234)** The interface allows software in the device to talk to the Bluetooth hardware.
 >
@@ -1381,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Real-Time]] (2), [[Hardware]] (2), [[Security]] (1), node (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Hardware]] (2)
 > **Env Vars:** rfcomm (2), ieee (1), oui (1), hid (1), hfp (1)
 > **Definitions:** is a  (3), known as (2)
 > **Analogies:** such as (2), for example (2)
@@ -1390,8 +1366,7 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Prerequisites:** setup (1)
 
-#### Scanning for Bluetooth devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980)
+#### [Scanning for Bluetooth devices](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1434,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980&t=183)** Let's try that again with the Nexus 7.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980&t=187)** Okay, now I've also got an Android phone with Bluetooth active, but set not to be visible to other devices.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980&t=187)** Okay, now I've also got an [[Android]] phone with Bluetooth active, but set not to be visible to other devices.
 >
 > **[3:15](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-for-bluetooth-devices-2?u=76281980&t=195)** The standard scanning tools didn't find it.
 >
@@ -1505,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Android]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Android]] (2)
 > **Env Vars:** usb (4), e130 (2), oui (1), tl10 (1)
 > **Code Identifiers:** iphone (6)
 > **UI Navigation:** switch to (2), click on (1), go to (1)
@@ -1514,14 +1489,13 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 
-#### Legacy attacks using Bluesnarfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980)
+#### [Legacy attacks using Bluesnarfer](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980&t=0)** - [Instructor] One of the early tools for Bluetooth hacking is called Bluesnarfer.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980&t=5)** As with a number of the tools in the penetration testing kit, this has been overtaken by security improvements in mobile phone technology and isn't a viable attack these days.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980&t=5)** As with a number of the tools in the [[Penetration Testing]] kit, this has been overtaken by security improvements in mobile phone technology and isn't a viable attack these days.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/legacy-attacks-using-bluesnarfer-2?u=76281980&t=15)** The original concept of Bluesnarfer was to pair silently with another device and then issue commands to gain access to stored information or to issue AT commands, which allow a remote attacker to send messages or dial numbers.
 >
@@ -1579,7 +1553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** setup (1), configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1590,8 +1564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using FernWi-Fi Cracker
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
+#### [Using FernWi-Fi Cracker](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,14 +1630,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1)
 > **Env Vars:** wpa (4), wep (1), wps (1), tpg (1), wpa2 (1)
 > **UI Navigation:** select the (2), click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering networks with inSSIDer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/discovering-networks-with-inssider-2?u=76281980)
+#### [Discovering networks with inSSIDer](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/discovering-networks-with-inssider-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,7 +1677,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **Env Vars:** ssid (2), bssid (2), mac (1)
 > **Code Identifiers:** inssider (2), insidder (2)
 > **UI Navigation:** switch to (2), click on (2)
@@ -1714,9 +1684,9 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Versions:** 2.4 (1)
 > **Analogies:** such as (1)
+> **Speakers:** - [instructor] (1)
 
-#### Capturing wireless packets with Acrylic Analyzer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980)
+#### [Capturing wireless packets with Acrylic Analyzer](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1724,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=97)** Okay, I'll save this.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=99)** If I want to see my inventory, I can click on the options symbol at the top right, select windows and select the bottom menu item, inventory.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=99)** If I want to see my inventory, I can click on the options symbol at the top right, select [[Windows]] and select the bottom menu item, inventory.
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=110)** I can right click the entry I've just added and I have a maintenance menu for inventory items.
 >
@@ -1790,7 +1760,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=206)** Now, it's tried the password ABCD1994 and then finishes the testing having found the network key.
 >
-> **[3:34](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=214)** Acrylic provides options to capture the details of the scan and it can be tweeted, copied to the clipboard for reporting or exported in various forms.
+> **[3:34](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=214)** Acrylic provides options to capture the details of the scan and it can be tweeted, copied to the clipboard for reporting or exported in various [[Forms]].
 >
 > **[3:43](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=223)** Okay, that's a quick look at some of the main pane options and I'll leave them for now.
 >
@@ -1854,7 +1824,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=416)** But if the air component of the path is encrypted then we won't see a great deal of useful information.
 >
-> **[7:01](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=421)** However, this Excel access point is open and I've just pinged it.
+> **[7:01](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=421)** However, this [[Microsoft Excel|Excel]] access point is open and I've just pinged it.
 >
 > **[7:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/capturing-wireless-packets-with-acrylic-analyzer-2?u=76281980&t=426)** We can see a data packet from the Shenzhen device, that's my luminosity tab to the ZyXEL.
 >
@@ -1880,7 +1850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), [[Security]] (2), strengths (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Forms]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (8), click on (3), right-click (1)
 > **Env Vars:** ieee802 (3), ssid (2), bssid (2), abcd1994 (1), mac (1)
 > **Definitions:** is a  (2)
@@ -1889,8 +1859,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Heat mapping with Ekehau
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980)
+#### [Heat mapping with Ekehau](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1918,11 +1887,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=58)** So let's go take a look at it.
 >
-> **[1:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=60)** The entry screen provides information on other Ekahau products and lets me open the tool either with my own map or alternatively using a simple grid.
+> **[1:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=60)** The entry screen provides information on other Ekahau [[Microsoft Products|products]] and lets me open the tool either with my own map or alternatively using a simple grid.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=70)** Maps can be imported in many file formats, including BMPs, JPEGs, PNGs, GIFs, PDFs and DWD/DXF CAD drawings.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=80)** I've drawn a map of my site in PowerPoint and exported it as a JPEG, so I'll load that.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=80)** I've drawn a map of my site in [[Microsoft PowerPoint|PowerPoint]] and exported it as a JPEG, so I'll load that.
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/heat-mapping-with-ekehau-2?u=76281980&t=86)** On the left, we can see the access points that have been detected and the strength of their signal.
 >
@@ -1976,19 +1945,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), business (1), [[Microsoft Products|Products]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** dwd (1), dxf (1), cad (1), jpeg (1), png (1)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **Definitions:** is an  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wi-Fi sniffing using Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/wi-fi-sniffing-using-wireshark-2?u=76281980)
+#### [Wi-Fi sniffing using Wireshark](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/wi-fi-sniffing-using-wireshark-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/wi-fi-sniffing-using-wireshark-2?u=76281980&t=0)** - [Instructor] One of the most popular tools for capturing packets is Wireshark, and it can do that on the Wi-Fi interface just as it does on the wired interface.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/wi-fi-sniffing-using-wireshark-2?u=76281980&t=0)** - [Instructor] One of the most popular tools for capturing packets is [[Wireshark]], and it can do that on the Wi-Fi interface just as it does on the wired interface.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/wi-fi-sniffing-using-wireshark-2?u=76281980&t=8)** I'll demonstrate this using Wireshark in Kali.
 >
@@ -2074,7 +2042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Wireshark]] (8), traffic (7), power (1), lan (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8)
 > **Env Vars:** wpa (3), ssid (2), psk (2), tcp (2), lan (1)
 > **Versions:** 802.11 (8)
 > **UI Navigation:** open the (1), dropdown (1), scroll down (1), checkbox (1)
@@ -2083,20 +2051,19 @@ created: 2026-05-02
 > **Ports:** port 49153 (1)
 > **Analogies:** such as (1)
 
-#### Scanning with Vistumbler
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980)
+#### [Scanning with Vistumbler](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=0)** - [Instructor] A simple but effective Windows public domain scanning tool is Vistumbler.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=0)** - [Instructor] A simple but effective [[Windows]] public domain scanning tool is Vistumbler.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=5)** The Vistumbler GitHub repository of executables is shown here, and if we click on the latest release, version 10, we get a list of minor releases.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=5)** The Vistumbler [[GitHub]] repository of executables is shown here, and if we click on the latest release, version 10, we get a list of minor releases.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=19)** Let's select version 10-6-5, and we get the download page.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=26)** This allows us to download a simple executable installer.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=30)** You'll also need to have Google Earth loaded if you want to use Vistumbler's Google Earth GPS features.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=30)** You'll also need to have [[Google]] Earth loaded if you want to use Vistumbler's Google Earth GPS features.
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/scanning-with-vistumbler-2?u=76281980&t=37)** Okay, I have Vistumbler running and my TP-Link USB adapter plugged in.
 >
@@ -2174,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), [[Google]] (2), [[Windows]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Windows]] (1), [[GitHub]] (1)
 > **Env Vars:** gps (5), usb (2), ssid (2), lan (1), mac (1)
 > **UI Navigation:** click on (2), select the (2)
 > **CLI Commands:** make (2)
@@ -2183,8 +2150,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Commview to scan Wi-Fi networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980)
+#### [Using Commview to scan Wi-Fi networks](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,7 +2180,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=88)** When I click on an entry, I get the packet summary details in the lower panel and the relevant graphs to the left.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=96)** When I select the Packets tab, we see a Wireshark-like display as we did with the quick filter.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=96)** When I select the Packets tab, we see a [[Wireshark]]-like display as we did with the quick filter.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=103)** This shows the type of packet, the source and destination MAC addresses and for TCP/IP packets, the IP addresses and ports.
 >
@@ -2294,13 +2260,13 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=332)** I'm at the command line in my Aircrack folder.
 >
-> **[5:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=335)** I can now run the attack using the Windows aircrack-ng-avx specifying my target BSSID and SSID and a dictionary file that I've created.
+> **[5:35](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=335)** I can now run the attack using the [[Windows]] aircrack-ng-avx specifying my target BSSID and SSID and a dictionary file that I've created.
 >
 > **[5:49](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-commview-to-scan-wi-fi-networks-2?u=76281980&t=349)** Okay, Aircrack now launches the crack and quickly finds the network key using our dictionary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), traffic (3), node (3), [[Wireshark]] (2), product (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Windows]] (1)
 > **Env Vars:** wpa (4), ssid (2), tcp (2), bssid (2), mac (1)
 > **UI Navigation:** select the (3), click on (1), switch to (1), navigate to (1)
 > **CLI Commands:** node (3)
@@ -2314,12 +2280,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
+#### [Testing the Internet of Things](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=0)** - [Instructor] Let's take a look at the Internet of Things.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=0)** - [Instructor] Let's take a look at the [[IoT|Internet of Things]].
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=2)** One of the popular home devices is the Belkin WeMo Switch, and I've got a new one powered up, but not yet configured.
 >
@@ -2339,7 +2304,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=61)** Let's have a look at what ports are available on the switch.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=68)** I can see two TCP ports open, The DNS service on port 53 and the UPNP plug and play service on port 49152, I can also see this is a Linux distribution.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=68)** I can see two TCP ports open, The DNS service on port 53 and the UPNP plug and play service on port 49152, I can also see this is a [[Linux]] distribution.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=81)** OK, let's leave the command shell and I'll use my browser to navigate to the device.
 >
@@ -2357,7 +2322,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=131)** The Belkin is controlled using the simple object access protocol, SOAP, which is an extension to the hypertext transfer protocol HTTP and it's extensible markup language XML.
 >
-> **[2:23](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=143)** Using SOAP, we can script up an HTTP XML message to run this service and send it to the switch using netcat, let's do that.
+> **[2:23](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=143)** Using SOAP, we can script up an HTTP XML message to run this service and send it to the switch using [[Netcat]], let's do that.
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980&t=152)** I've now configured the switch as normal onto my home network, and it's got the IP address 192.168.1.3.
 >
@@ -2393,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (3), dns (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (3), [[Netcat]] (2), [[Linux]] (1)
 > **Env Vars:** soap (4), http (3), xml (3), tcp (1), dns (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **File Paths:** setup.xml (1), getbinarystate.txt (1), switchoff.txt (1), telnet.txt (1)
@@ -2407,12 +2372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this [[LinkedIn]] Learning course.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=4)** I hope you enjoyed learning how to test the security of wireless technology.
 >
@@ -2420,21 +2384,21 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=16)** Having understood the concepts, and learned how to use the tools, you now need to practice and gain experience.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=25)** There's always something new in cybersecurity, and if you're interested in learning more, then check out the full Cybersecurity Ethical Hacking segment of the library, where new security testing courses are added regularly.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=25)** There's always something new in [[Cybersecurity]], and if you're interested in learning more, then check out the full Cybersecurity [[Ethical Hacking]] segment of the library, where new [[Security Testing]] courses are added regularly.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=38)** You'll find courses on using Kali Linux, information gathering, denial of service, mobile testing and much more.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=38)** You'll find courses on using [[Kali Linux]], information gathering, denial of service, [[Mobile Testing]] and much more.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=47)** I'd also like to invite you to go to my author page where you can find some additional courses on cybersecurity.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=54)** If you want to get hands on with some of the common tools, then do take a look at my introduction to Kali Linux, web application testing, and mobile testing courses.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=66)** If you're wanting to learn about security for the Cloud, then Cybersecurity for Cloud Computing is for you.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=66)** If you're wanting to learn about security for the Cloud, then Cybersecurity for [[Cloud Computing]] is for you.
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980&t=73)** Thanks again for joining me on this LinkedIn learning course, and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[LinkedIn]] (2), [[Kali Linux]] (2), [[Mobile Testing]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[LinkedIn]] (2), [[Kali Linux]] (2), [[Mobile Testing]] (2), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

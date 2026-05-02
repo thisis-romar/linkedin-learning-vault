@@ -86,14 +86,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classifying data with logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980)
+#### [Classifying data with logistic regression](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=0)** - Logistic regression is one of the simplest and most commonly-used classification approaches in machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=0)** - [[Logistic Regression]] is one of the simplest and most commonly-used classification approaches in machine learning.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=8)** It allows us to model the relationship between a set of predictors and the probability of a categorical response.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=8)** It allows us to model the relationship between a set of predictors and the [[Probability]] of a categorical response.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=16)** Not only is it great for prediction; it also allows us to make statistical inference.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=24)** I'm a data scientist, teacher and author with a passion for AI and machine learning.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=30)** Welcome to "Machine Learning with Python: "Logistic Regression."
+> **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=30)** Welcome to "Machine Learning with [[Python (Programming Language)|Python]]: "Logistic Regression."
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980&t=35)** In this course, I explain what regression analysis is, the anatomy of a regression model, and common types of regression.
 >
@@ -115,12 +114,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (5), data (2), [[Python (Programming Language)|Python]] (2), [[Probability]] (1), ai (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Python (Programming Language)|Python]] (2), [[Probability]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Speakers:** - logistic (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,13 +126,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=8)** First, I assume that you have a fundamental understanding of what machine learning is, specifically supervised machine learning.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory LinkedIn Learning course, [[Machine Learning with Python- Foundations]].
+> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory [[LinkedIn]] Learning course, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=28)** Second, it would be helpful if you have some entry-level experience with coding in Python.
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=35)** I will assume that you know how to import a Python package, refer to the attributes of an object, and call the methods of an object.
 >
-> **[0:44](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=44)** Next, it would also be helpful if you have some familiarity with the pandas and sklearn packages.
+> **[0:44](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=44)** Next, it would also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] and sklearn packages.
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-you-should-know?u=76281980&t=53)** If you don't, no worries.
 >
@@ -146,13 +144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,11 +159,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=11)** I recommend that you do so.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=13)** The best way to become proficient in building logistic regression models in Python is to practice doing it yourself.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=13)** The best way to become proficient in building [[Logistic Regression]] models in [[Python (Programming Language)|Python]] is to practice doing it yourself.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=22)** This course is delivered using Codespaces, a development environment that is hosted in the cloud.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=22)** This course is delivered using [[Codespaces]], a development environment that is hosted in the cloud.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=30)** The exercise files are available on GitHub and organized by branches.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=30)** The exercise files are available on [[GitHub]] and organized by branches.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=37)** Within each branch is a data file and two notebooks a beginning and an ending notebook.
 >
@@ -188,11 +185,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=89)** Just for your reference.
 >
-> **[1:31](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=91)** Now, let's get a quick word from LinkedIn Learning about using Codespaces for this course.
+> **[1:31](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-the-exercise-files?u=76281980&t=91)** Now, let's get a quick [[Microsoft Word|word]] from [[LinkedIn]] Learning about using Codespaces for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (2), data (2), [[Logistic Regression]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Logistic Regression]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** src (1), csv (1)
 > **Exercise Files:** exercise files (2)
@@ -200,16 +197,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -351,12 +347,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980)
+#### [What is regression?](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980&t=0)** - [Instructor] Regression or regression analysis refers to a family of machine learning algorithms that are used to quantify the size and strength of the relationship between two or more numerical values.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980&t=0)** - [Instructor] Regression or regression analysis refers to a family of machine learning [[Algorithms]] that are used to quantify the size and strength of the relationship between two or more numerical values.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980&t=14)** Regression is one of two major categories of supervised machine learning.
 >
@@ -408,13 +403,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The anatomy of a regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980)
+#### [The anatomy of a regression model](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=137)** Parametric models require that we make assumptions about the nature of the data in order to choose the right function to model the data.
 >
-> **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=147)** If we make the assumption that the relationship between the predictor and the response is linear then we use a linear regression algorithm to find a straight line like this one, that best fits the data.
+> **[2:27](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=147)** If we make the assumption that the relationship between the predictor and the response is linear then we use a [[Linear Regression]] algorithm to find a straight line like this one, that best fits the data.
 >
 > **[2:41](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=161)** Mathematically, the equation for the line of best fit is usually written in this format.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=211)** As you can imagine, there are infinite possible values for beta zero and beta one with each combination resulting in a different line.
 >
-> **[3:42](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=222)** Linear regression algorithms often use an approach known as ordinary lease squares or OLS to estimate the optimal values for beta zero and beta one.
+> **[3:42](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=222)** Linear regression [[Algorithms]] often use an approach known as ordinary lease squares or OLS to estimate the optimal values for beta zero and beta one.
 >
 > **[3:53](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/the-anatomy-of-a-regression-model?u=76281980&t=233)** The mechanics of OLS are beyond the scope of this course.
 >
@@ -490,23 +484,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linear Regression]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Algorithms]] (1)
 > **Definitions:** is a  (6), known as (3)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ols (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common types of regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980)
+#### [Common types of regression](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=0)** - [Instructor] Depending on the nature of our data and the type of value we want to predict, we can use one of several forms of regression.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=0)** - [Instructor] Depending on the nature of our data and the type of value we want to predict, we can use one of several [[Forms]] of regression.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=9)** Let's assume once again that we work for a bike rental company and are trying to build a regression model that estimates how many bikes will be rented based on weather conditions.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=21)** If our historical data consists of a single predictor variable X, and we assume that the relationship between the predictor variable and the response Y is linear, then we use simple linear regression to model this relationship.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=21)** If our historical data consists of a single predictor variable X, and we assume that the relationship between the predictor variable and the response Y is linear, then we use simple [[Linear Regression]] to model this relationship.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=37)** The line equation for this approach is beta0 + beta1 X as shown here.
 >
@@ -568,13 +561,13 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=328)** This type of curve is known as a sigmoid curve.
 >
-> **[5:33](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=333)** If we assume that the relationship between the predictor variable X and the response Y is binary or dichotomous, then we use the approach known as Logistic Regression to model the relationship.
+> **[5:33](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=333)** If we assume that the relationship between the predictor variable X and the response Y is binary or dichotomous, then we use the approach known as [[Logistic Regression]] to model the relationship.
 >
 > **[5:48](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/common-types-of-regression?u=76281980&t=348)** The Logistic Regression line equation is shown here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (9), data (6), [[Logistic Regression]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (9), [[Logistic Regression]] (2), [[Forms]] (1)
 > **Definitions:** known as (4), is a  (2), in other words (2)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -584,12 +577,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is logistic regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980)
+#### [What is logistic regression?](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=0)** - [Instructor] Logistic regression is a supervised machine learning technique that models the relationship between one or more predictors, and the probability of a categorical response.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=0)** - [Instructor] [[Logistic Regression]] is a supervised machine learning technique that models the relationship between one or more predictors, and the [[Probability]] of a categorical response.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=11)** To help motivate our understanding of how logistic regression works, let's suppose that we intend to build a regression model that predicts whether a particular customer will or will not rent an e-bike, as a function of their age.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=100)** The curve is bounded on both ends by zero and one, and is known as a sigmoid curve.
 >
-> **[1:47](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=107)** Similar to other regression algorithms, the logistic regression algorithm uses a series of mathematical transformations to find the better coefficients, that result in a curve that best fits the data.
+> **[1:47](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=107)** Similar to other regression [[Algorithms]], the logistic regression algorithm uses a series of mathematical transformations to find the better coefficients, that result in a curve that best fits the data.
 >
 > **[2:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=120)** The process it uses is known as maximum likelihood estimation or MLE.
 >
@@ -657,11 +649,11 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=310)** An example of an ordered response is a Likert scale of one to five.
 >
-> **[5:16](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=316)** An ordered logistic regression model would be useful in predicting the rating or the number of stars, a student would give to a LinkedIn learning course based on the number of coding examples in the course.
+> **[5:16](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980&t=316)** An ordered logistic regression model would be useful in predicting the rating or the number of stars, a student would give to a [[LinkedIn]] learning course based on the number of coding examples in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (20), [[Probability]] (11), data (5), [[Algorithms]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (20), [[Probability]] (11), [[Algorithms]] (2), [[LinkedIn]] (1)
 > **Definitions:** known as (4)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Versions:** 0.5 (1), 0.9 (1), 0.8 (1)
@@ -670,12 +662,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making predictions with logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980)
+#### [Making predictions with logistic regression](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=0)** - [Narrator] Logistic regression is most often used to solve classification problems because that allows us to predict the probability of a categorical value Y for any given X.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=0)** - [Narrator] [[Logistic Regression]] is most often used to solve classification problems because that allows us to predict the [[Probability]] of a categorical value Y for any given X.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=12)** For example.
 >
@@ -691,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=57)** It is also rather difficult to properly interpret the non-linear relationship that exists between predictors and the response as represented by the logistic function.
 >
-> **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=69)** So instead of using the logistic function, most logistic regression algorithms actually model the Log Odds of the response as a linear combination of the predictors as shown here.
+> **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=69)** So instead of using the logistic function, most logistic regression [[Algorithms]] actually model the Log Odds of the response as a linear combination of the predictors as shown here.
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=83)** In this equation, P is a logistic function and the Log Odds of the logistic function is known as a Logit, unlike probability, which ranges from zero to one, Log Odds values range from negative infinity to positive infinity, they are not bounded on either side.
 >
@@ -729,7 +720,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=229)** As I mentioned earlier, instead of modeling the probability of a response, most logistic regression algorithms model the Log Odds of the response as a linear combination of the predictors.
 >
-> **[4:03](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=243)** The scikit-learn Python package which we will use later in this course, uses this approach.
+> **[4:03](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=243)** The scikit-learn [[Python (Programming Language)|Python]] package which we will use later in this course, uses this approach.
 >
 > **[4:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/making-predictions-with-logistic-regression?u=76281980&t=251)** So if we train a model in Python that estimates the probability of a customer renting an e-bike as a function of their age, the function would look like this.
 >
@@ -743,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (19), [[Logistic Regression]] (4), game (4), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Probability]] (19), [[Logistic Regression]] (4), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 14.8 (2), 0.148 (2), 0.8 (1), 0.2 (1), 1.75 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** python (2)
@@ -752,12 +743,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Interpreting the coefficients of logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/interpreting-the-coefficients-of-logistic-regression?u=76281980)
+#### [Interpreting the coefficients of logistic regression](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/interpreting-the-coefficients-of-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/interpreting-the-coefficients-of-logistic-regression?u=76281980&t=0)** - [Instructor] Logistic regression is most often used to solve classification problems because that allows us to predict the probability of a categorical value Y for a given X.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/interpreting-the-coefficients-of-logistic-regression?u=76281980&t=0)** - [Instructor] [[Logistic Regression]] is most often used to solve classification problems because that allows us to predict the [[Probability]] of a categorical value Y for a given X.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/interpreting-the-coefficients-of-logistic-regression?u=76281980&t=12)** However, instead of simply predicting an outcome, we sometimes want to understand the quantitative impact that a unit change in X has on Y.
 >
@@ -865,12 +855,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why and when to use logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980)
+#### [Why and when to use logistic regression](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=0)** - [Narrator] In order to know when to and when not to use logistic regression, we need to understand its strengths and weaknesses.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=0)** - [Narrator] In order to know when to and when not to use [[Logistic Regression]], we need to understand its strengths and weaknesses.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=8)** In terms of strengths, similar to other regression methods, logistic regression models are easy to train.
 >
@@ -878,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=19)** Logistic regression models are efficient in that they are not computationally expensive.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=26)** Unlike some other machine learning algorithms, the predictive variables we use to train a logistic regression model do not have to be scaled before being used.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=26)** Unlike some other machine learning [[Algorithms]], the predictive variables we use to train a logistic regression model do not have to be scaled before being used.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/why-and-when-to-use-logistic-regression?u=76281980&t=36)** The predictive value and the coefficients of a logistic regression model are easy to understand and interpret.
 >
@@ -898,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (10), data (4), strengths (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (10), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [narrator] (1)
@@ -908,20 +897,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to explore data for logistic regression in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980)
+#### [How to explore data for logistic regression in Python](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=0)** - [Speaker] Logistic regression is one of the simplest and most commonly used classification approaches in machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=0)** - [Speaker] [[Logistic Regression]] is one of the simplest and most commonly used classification approaches in machine learning.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=8)** It is a supervised machine learning approach that allows us to model the relationship between a set of predictors and the probability of a categorical response.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=8)** It is a supervised machine learning approach that allows us to model the relationship between a set of predictors and the [[Probability]] of a categorical response.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=19)** In this video, you will learn how to import and explore data prior to building a logistic regression model in Python.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=19)** In this video, you will learn how to import and explore data prior to building a logistic regression model in [[Python (Programming Language)|Python]].
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=28)** Note that this video is the first in the four video sequence that also teaches you how to prepare data, train a logistic regression model, evaluate the model, and interpret the model in Python.
 >
-> **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=43)** I would also like to highlight that the Python packages we use in these four tutorials Pandas, Matplotlib, Seaborn, NumPy and SKLearn have all been pre-installed for you as part of your code spaces environment.
+> **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=43)** I would also like to highlight that the Python packages we use in these four tutorials [[Pandas (Software)|Pandas]], Matplotlib, Seaborn, NumPy and SKLearn have all been pre-installed for you as part of your code spaces environment.
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=60)** Let's get started.
 >
@@ -979,7 +967,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=190)** Looking at a D type column within this section, we see that the income and loan amount columns hold integer values which is int64, while the default column holds text which here is listed as object.
 >
-> **[3:24](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=204)** Next, let's get a summary, some summary statistics for the numeric features in the data.
+> **[3:24](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=204)** Next, let's get a summary, some summary [[Statistics]] for the numeric features in the data.
 >
 > **[3:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980&t=210)** This time we're going to use a describe method of the data frame.
 >
@@ -1147,7 +1135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Logistic Regression]] (6), next (5), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), [[Statistics]] (3), [[Probability]] (1)
 > **CLI Commands:** python (3), make (3)
 > **Code Identifiers:** read_csv (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1156,12 +1144,11 @@ created: 2026-05-02
 > **File Paths:** loan.csv (1)
 > **Cross-References:** in the next (1)
 
-#### How to prepare data for logistic regression in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980)
+#### [How to prepare data for logistic regression in Python](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=0)** - [Instructor] In this video, you will learn how to split data into training and test sets prior to training a logistic regression model in Python.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=0)** - [Instructor] In this video, you will learn how to split data into training and test sets prior to training a [[Logistic Regression]] model in [[Python (Programming Language)|Python]].
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=10)** Note that this video is the second in a four-video sequence that also teaches you how to import and explore data, train a logistic regression model, evaluate the model, and interpret the model in Python.
 >
@@ -1181,7 +1168,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=64)** Before we split the data, we first need to separate the dependent variable from the independent variables.
 >
-> **[1:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=71)** Let's start by creating a Pandas Series called y for the dependent variable.
+> **[1:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=71)** Let's start by creating a [[Pandas (Software)|Pandas]] Series called y for the dependent variable.
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-prepare-data-for-logistic-regression-in-python?u=76281980&t=77)** So I'm going to come in here.
 >
@@ -1273,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Logistic Regression]] (3), next (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** y_train (3), train_test_split (2), test_split (2), y_test (2), train_size (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (2), make (1)
@@ -1282,12 +1269,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** imagine (1)
 
-#### How to build a logistic regression model in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-build-a-logistic-regression-model-in-python?u=76281980)
+#### [How to build a logistic regression model in Python](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-build-a-logistic-regression-model-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-build-a-logistic-regression-model-in-python?u=76281980&t=0)** - [Narrator] In this video you will learn how to train a logistic regression model in Python and how to evaluate the model's performance against a test data set.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-build-a-logistic-regression-model-in-python?u=76281980&t=0)** - [Narrator] In this video you will learn how to train a [[Logistic Regression]] model in [[Python (Programming Language)|Python]] and how to evaluate the model's performance against a test data set.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-build-a-logistic-regression-model-in-python?u=76281980&t=11)** Know that this video is a third in a four-video sequence that also teaches you how to import, explore, and prepare data for logistic regression as well as how to interpret the results of a logistic regression model in Python.
 >
@@ -1385,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (7), data (4), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (7), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** x_test (1), y_test (1), confusion_matrix (1)
@@ -1394,12 +1380,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to interpret a logistic regression model in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980)
+#### [How to interpret a logistic regression model in Python](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=0)** - In this video, you will learn how to interpret the coefficients of a logistic regression model in Python.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=0)** - In this video, you will learn how to interpret the coefficients of a [[Logistic Regression]] model in [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=7)** Know that this video is the fourth in a four video sequence that also teaches you how to import, explore, and prepare data for logistic regression as well as how to train and evaluate a logistic regression model in Python.
 >
@@ -1415,7 +1400,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=60)** The relationship between the dependent and independent variables in the logistic regression model is generally represented as follows: So we have here the logit as a linear combination of the predictors.
 >
-> **[1:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=74)** In this representation, the left hand side of the equation is known as a logit, or the log odds of the probability of an outcome or Class P.
+> **[1:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=74)** In this representation, the left hand side of the equation is known as a logit, or the log odds of the [[Probability]] of an outcome or Class P.
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=83)** Beta 0 is the intercept.
 >
@@ -1471,7 +1456,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=210)** So the first one is negative 1.02, and the second is 0.15.
 >
-> **[3:37](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=217)** So next, let's create a pandas DataFrame using the coefficient values and the column names from the training data as row indexes.
+> **[3:37](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=217)** So next, let's create a [[Pandas (Software)|pandas]] DataFrame using the coefficient values and the column names from the training data as row indexes.
 >
 > **[3:47](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-interpret-a-logistic-regression-model-in-python?u=76281980&t=227)** So we're going to create a pandas DataFrame.
 >
@@ -1567,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (3), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (3), [[Probability]] (1)
 > **Versions:** 1.02 (2), 0.15 (2), 1.16 (2), 15.467 (1), 0.36 (1)
 > **CLI Commands:** python (3), make (3)
 > **Definitions:** known as (1), is called (1), means that (1), is a  (1)
@@ -1581,18 +1566,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=0)** - [Frederick] Congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=2)** You now know what linear regression, Poisson regression, and logistic regression are.
+> **[0:02](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=2)** You now know what [[Linear Regression]], Poisson regression, and [[Logistic Regression]] are.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=9)** You've learned how logistic regression works, how it makes predictions, how to interpret its coefficients, and when to use it.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=18)** You also know how to import, explore, and prepare data for logistic regression in Python.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=18)** You also know how to import, explore, and prepare data for logistic regression in [[Python (Programming Language)|Python]].
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=26)** Finally, you learned how to train, evaluate, and interpret a logistic regression model in Python.
 >
@@ -1604,13 +1588,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=59)** Logistic regression is one of many supervised machine learning models you can build in Python.
 >
-> **[1:05](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=65)** I encourage you to continue to explore other LinkedIn Learning courses that illustrate the use of different types of machine learning models.
+> **[1:05](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=65)** I encourage you to continue to explore other [[LinkedIn]] Learning courses that illustrate the use of different types of machine learning models.
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=74)** As a starting point, you can check out my other courses in the Machine Learning with Python series on LinkedIn Learning.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=82)** Besides courses that explore other models, I also encourage you to explore LinkedIn Learning courses that help you understand some of the issues around algorithmic bias and fairness in AI.
 >
-> **[1:36](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=96)** An example of such a course is [[Foundations Of Responsible Ai]].
+> **[1:36](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=96)** An example of such a course is [[Foundations Of [[Responsible AI]]]].
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980&t=101)** If you are interested in broadening your skillset into other languages such as R, then also check out my book Practical Machine Learning in R.
 >
@@ -1626,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (5), [[LinkedIn]] (3), next (2), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Python (Programming Language)|Python]] (5), [[LinkedIn]] (3), [[Linear Regression]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** python (5), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

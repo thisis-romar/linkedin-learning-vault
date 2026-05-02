@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore AI workflows with Figma Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
+#### [Explore AI workflows with Figma Design](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=0)** - [Joseph] Figma is an excellent piece of software for designing and prototyping user experiences.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=0)** - [Joseph] [[Figma (Software)|Figma]] is an excellent piece of software for designing and [[Prototyping]] user experiences.
 >
 > **[0:06](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=6)** And includes an abundance of AI features woven into more traditional design workflows.
 >
@@ -101,24 +100,23 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=46)** We'll make use of Figma AI to automatically rename layers based upon their contents, replace, and rewrite text content, even translate text into different languages, or shorten our text content based upon various desired results.
 >
-> **[1:03](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=63)** And I have a long history of user interface design, screen layout design, and prototyping workflows.
+> **[1:03](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=63)** And I have a long history of [[User Interface Design]], screen layout design, and prototyping workflows.
 >
-> **[1:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=70)** I invite you to join me in this LinkedIn Learning course.
+> **[1:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980&t=70)** I invite you to join me in this [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (5), [[Prototyping]] (2), [[User Interface Design]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Prototyping]] (2), [[User Interface Design]] (1), [[LinkedIn]] (1)
 > **Tools:** figma (7)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [joseph] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/what-you-should-know?u=76281980&t=0)** - [Instructor] The most important thing to know about Figma AI is that all of these tools are still in beta at the time of this recording.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/what-you-should-know?u=76281980&t=0)** - [Instructor] The most important thing to know about [[Figma (Software)|Figma]] AI is that all of these tools are still in beta at the time of this recording.
 >
 > **[0:08](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/what-you-should-know?u=76281980&t=8)** Figma continues to add new commands and tweak existing ones during this phase of development.
 >
@@ -132,19 +130,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), ai (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6)
 > **Tools:** figma (6)
 > **URLs:** [figma.com](https://figma.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Figma Make and Figma Sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980)
+#### [Figma Make and Figma Sites](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=0)** - [Narrator] Recently, Figma has announced a set of additional project types, and is slowly adding them to the wider ecosystem.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=0)** - [Narrator] Recently, [[Figma (Software)|Figma]] has announced a set of additional project types, and is slowly adding them to the wider ecosystem.
 >
-> **[0:07](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=7)** These new products are very AI focused, so we mention them here, even though explorations of these products are not part of this course.
+> **[0:07](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=7)** These new [[Microsoft Products|products]] are very AI focused, so we mention them here, even though explorations of these products are not part of this course.
 >
 > **[0:17](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=17)** First, we have Figma Make.
 >
@@ -174,26 +171,25 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=87)** So removing image backgrounds, combining images, boost resolution, rewrite, shorten, or translate text in a click.
 >
-> **[1:36](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=96)** Built-in integration with gpt-image-1 and Gemini, you can create any image you like with a prompt.
+> **[1:36](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=96)** Built-in integration with gpt-image-1 and [[Gemini]], you can create any image you like with a prompt.
 >
 > **[1:43](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/figma-make-and-figma-sites?u=76281980&t=103)** A lot of the AI features expressed in these new applications are also included in more traditional Figma design workflows, and that is where we will focus our explorations of Figma AI in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), ai (6), [[Microsoft Products|Products]] (2), prompt (2), functional (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), [[Microsoft Products|Products]] (2), [[Gemini]] (1)
 > **Tools:** figma (10)
 > **CLI Commands:** make (4)
 > **URLs:** [figma.com](https://figma.com) (3)
 > **Speakers:** - [narrator] (1)
 
-#### Use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980)
+#### [Use the exercise files](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980&t=0)** - [Instructor] There are Exercise Files for this course that I've made available to you as well.
 >
-> **[0:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980&t=5)** Once downloaded and expanded into a folder structure, you'll find a series of different Figma file types within these folders, which all represent chapter and movie number.
+> **[0:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980&t=5)** Once downloaded and expanded into a folder structure, you'll find a series of different [[Figma (Software)|Figma]] file types within these folders, which all represent chapter and movie number.
 >
 > **[0:18](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-exercise-files?u=76281980&t=18)** So for instance, these are the Chapters 1, 2, and 3 for this course.
 >
@@ -233,14 +229,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the Figma Design project
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
+#### [Explore the Figma Design project](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980&t=0)** - [Instructor] We are going to begin working within a starter project located in the folder that corresponds to this video, in Chapter 1, Movie 1.
 >
-> **[0:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980&t=10)** Locate the file Hydro Meter Mobile.fig in the Exercise Files and import it into Figma to create your own version to work with throughout this course.
+> **[0:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980&t=10)** Locate the file Hydro Meter Mobile.fig in the Exercise Files and import it into [[Figma (Software)|Figma]] to create your own version to work with throughout this course.
 >
 > **[0:21](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980&t=21)** Here, I'm inside of the correct folder and I've located the fig file.
 >
@@ -276,20 +271,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), ai (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6)
 > **Tools:** figma (6)
 > **UI Navigation:** drag and drop (1), go to (1)
 > **Exercise Files:** starter project (1), exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate a set of screens with a text prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980)
+#### [Generate a set of screens with a text prompt](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980&t=0)** - [Instructor] One of the most useful reasons to use any generative AI process is for ideation and concepting.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980&t=0)** - [Instructor] One of the most useful reasons to use any [[Generative AI]] process is for ideation and concepting.
 >
-> **[0:08](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980&t=8)** Using Figma AI in the first draft feature, we can generate a draft layout based upon a text prompt, which can then be refined and built upon using our own more traditional creative skill sets.
+> **[0:08](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980&t=8)** Using [[Figma (Software)|Figma]] AI in the first draft feature, we can generate a draft layout based upon a text prompt, which can then be refined and built upon using our own more traditional creative skill sets.
 >
 > **[0:21](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-set-of-screens-with-a-text-prompt?u=76281980&t=21)** So let's have a look at our mobile prototype itself and the various screens that we have already designed.
 >
@@ -409,17 +403,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Figma (Software)|Figma]] (6), ai (6), feature (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), [[Generative AI]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Tools:** figma (6)
 > **Speakers:** - [instructor] (1)
 
-#### Auto-wire screens together for prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980)
+#### [Auto-wire screens together for prototyping](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=0)** - [Instructor] Using the Add interactions feature in Figma AI enables us to auto wire multiple screens together based upon patterns in the design.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=0)** - [Instructor] Using the Add interactions feature in [[Figma (Software)|Figma]] AI enables us to auto wire multiple screens together based upon patterns in the design.
 >
 > **[0:09](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=9)** This is especially useful in creating navigation interactions across a consistent and clear user interface.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=147)** It's actually going to the About page or H+ Sport, so we can change that.
 >
-> **[2:35](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=155)** Looking across the rest of our content here, it's done okay.
+> **[2:35](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=155)** Looking across the [[Representational State Transfer (REST)|rest]] of our content here, it's done okay.
 >
 > **[2:41](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/auto-wire-screens-together-for-prototyping?u=76281980&t=161)** So again, on this screen, it's made an interaction that takes us back to the Home screen when we click on Home.
 >
@@ -495,19 +488,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), feature (2), [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3), switch to (1), in the toolbar (1), navigate to (1), go to (1)
 > **Tools:** figma (2)
 > **Speakers:** - [instructor] (1)
 
-#### Generate an image based upon a text prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980)
+#### [Generate an image based upon a text prompt](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=0)** - [Instructor] Many generative AI models include the ability to create images from a simple text prompt.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=0)** - [Instructor] Many [[Generative AI]] models include the ability to create images from a simple text prompt.
 >
-> **[0:06](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=6)** Figma AI is no exception and exposes this functionality through the actions menu in the Figma design toolbar.
+> **[0:06](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=6)** [[Figma (Software)|Figma]] AI is no exception and exposes this functionality through the actions menu in the Figma design toolbar.
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=14)** If we look within our mobile prototype section to our various screens, we can see in H+ Sport, this is the about page that we have a placeholder right here.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=90)** Notice down below, we do have a dropdown that allows us to choose a specific model we want to use.
 >
-> **[1:37](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=97)** So as of this recording, we have GPT Image-1, Google Imagen 3, and Titan V2.
+> **[1:37](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=97)** So as of this recording, we have GPT Image-1, [[Google]] Imagen 3, and Titan V2.
 >
 > **[1:46](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=106)** So I'm just going to keep it at the default and type in my prompt.
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=160)** So let's close that out.
 >
-> **[2:44](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=164)** If we zoom into this image as well, we can see it is pretty high resolution, which is very good.
+> **[2:44](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=164)** If we [[Zoom]] into this image as well, we can see it is pretty high resolution, which is very good.
 >
 > **[2:53](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-an-image-based-upon-a-text-prompt?u=76281980&t=173)** This is a nice feature to have when you don't have the final graphics or photography ready for your design.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Figma (Software)|Figma]] (4), ai (3), [[Generative AI]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Generative AI]] (1), [[Google]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (6)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (3), dropdown (1)
@@ -565,12 +557,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boost the resolution of an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/boost-the-resolution-of-an-image?u=76281980)
+#### [Boost the resolution of an image](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/boost-the-resolution-of-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/boost-the-resolution-of-an-image?u=76281980&t=0)** - [Instructor] Figma AI can also be used to upscale existing images in order to boost the detail and resolution of bitmap-based visual content being used in your design.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/boost-the-resolution-of-an-image?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] AI can also be used to upscale existing images in order to boost the detail and resolution of bitmap-based visual content being used in your design.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/boost-the-resolution-of-an-image?u=76281980&t=12)** Vector content, of course, is natively scalable, and would never require such a procedure, so we'll use a photograph for this.
 >
@@ -612,19 +603,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (2), prompt (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
 > **UI Navigation:** click on (1), in the toolbar (1)
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove an image's background
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/remove-an-image-s-background?u=76281980)
+#### [Remove an image's background](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/remove-an-image-s-background?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/remove-an-image-s-background?u=76281980&t=0)** - [Instructor] The background of any image can be automatically identified and removed with Figma AI.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/remove-an-image-s-background?u=76281980&t=0)** - [Instructor] The background of any image can be automatically identified and removed with [[Figma (Software)|Figma]] AI.
 >
 > **[0:06](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/remove-an-image-s-background?u=76281980&t=6)** Whether generated or imported.
 >
@@ -674,19 +664,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (1), product (1), prompt (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** figma (2)
 > **Analogies:** such as (1), just like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit an image through text prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980)
+#### [Edit an image through text prompts](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=0)** - [Instructor] Another tool we can use with bitmap images through Figma AI is the ability to edit the contents of existing bitmap images through a text prompt.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=0)** - [Instructor] Another tool we can use with bitmap images through [[Figma (Software)|Figma]] AI is the ability to edit the contents of existing bitmap images through a text prompt.
 >
 > **[0:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=10)** So for instance, we have this surfer behind Jessica here, so I'm going to choose to select Jessica's image and hide it temporarily so that we can focus on this surfer.
 >
@@ -722,11 +711,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=125)** At this point, we can shift her image anywhere we want and we're never going to see that surfer again.
 >
-> **[2:13](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=133)** This can be especially useful if you want to change a photograph within Figma without relying on an external piece of software, such as Adobe Photoshop.
+> **[2:13](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/edit-an-image-through-text-prompts?u=76281980&t=133)** This can be especially useful if you want to change a photograph within Figma without relying on an external piece of software, such as [[Adobe Photoshop]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), ai (2), prompt (1), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Adobe Photoshop]] (1)
 > **UI Navigation:** click on (3), in the toolbar (1)
 > **Tools:** figma (3)
 > **Analogies:** for instance (1), such as (1)
@@ -738,18 +727,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rename layers in a Figma Design file
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
+#### [Rename layers in a Figma Design file](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=0)** - [Instructor] If you have a messy, unorganized design file where you've neglected proper layer naming conventions, Figma AI can be invoked to intelligently rename layers for you and bring greater clarity in order to your layers.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=0)** - [Instructor] If you have a messy, unorganized design file where you've neglected proper layer naming conventions, [[Figma (Software)|Figma]] AI can be invoked to intelligently rename layers for you and bring greater clarity in order to your layers.
 >
 > **[0:13](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=13)** So for this, I'm going to locate the screen that has the most elements within it, so probably H+ Sport right here.
 >
 > **[0:24](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=24)** And what we're going to do is use rename layers.
 >
-> **[0:29](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=29)** If we look over in our layers panel, and we can of course expand this, we can see all the different pieces that compose the H+ Sport frame, and some of them are not named very well.
+> **[0:29](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=29)** If we look over in our layers panel, and we can of course expand this, we can see all the different pieces that [[Jetpack Compose|compose]] the H+ Sport frame, and some of them are not named very well.
 >
 > **[0:44](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980&t=44)** For instance, we have rectangle 1, rectangle 4, simple buttons, not anything very precise.
 >
@@ -785,18 +773,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), [[Jetpack Compose|Compose]] (1), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** click on (1), in the toolbar (1)
 > **Analogies:** for instance (2)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replace existing text content
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980)
+#### [Replace existing text content](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=0)** - [Instructor] Figma AI can be used when generating diverse textual content across repeating elements as well.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] AI can be used when generating diverse textual content across repeating elements as well.
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=7)** A great example of this would be across a design structure, which includes content for each staff member of an agency displaying content such as name and position or title.
 >
@@ -842,11 +829,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=173)** So it's a pretty flexible system that auto fills and renames things without us having to go through and create false names, false titles, or anything like that.
 >
-> **[3:04](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=184)** As with a lot of generative AI, replace text is meant to save you time, so you can focus your energy on additional design considerations instead of fiddling with made up names and titles or whatever your content happens to be.
+> **[3:04](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/replace-existing-text-content?u=76281980&t=184)** As with a lot of [[Generative AI]], replace text is meant to save you time, so you can focus your energy on additional design considerations instead of fiddling with made up names and titles or whatever your content happens to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), prompt (1), hit (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Generative AI]] (1)
 > **Env Vars:** ceo (1), cso (1), cmo (1), coo (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (1), similar to (1)
@@ -855,12 +842,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Prerequisites:** setup (1)
 
-#### Rewrite text to better suit the audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980)
+#### [Rewrite text to better suit the audience](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=0)** - [Instructor] Once you have a draft of text copy composed within your project, you can instruct Figma AI to rewrite the text to suit different audiences or project a certain tonal style.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=0)** - [Instructor] Once you have a draft of text copy composed within your project, you can instruct [[Figma (Software)|Figma]] AI to rewrite the text to suit different audiences or project a certain tonal style.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=12)** Let's instruct the AI to rewrite our about text.
 >
@@ -886,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=77)** "We're all about supporting active and healthy lifestyles!
 >
-> **[1:20](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=80)** That's why we offer tasty, eco-friendly nutritional products for athletes who want to perform at their best.
+> **[1:20](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=80)** That's why we offer tasty, eco-friendly nutritional [[Microsoft Products|products]] for athletes who want to perform at their best.
 >
 > **[1:27](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rewrite-text-to-better-suit-the-audience?u=76281980&t=87)** H+ Sport has a bunch of awesome supplements, energy bars, and rehydration drinks.
 >
@@ -910,21 +896,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), ai (2), data (2), [[Figma (Software)|Figma]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Translate text into different languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980)
+#### [Translate text into different languages](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980&t=0)** - [Instructor] The ability to translate text in a project from one language to another is a recurring need for many designers.
 >
-> **[0:07](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980&t=7)** With Figma AI, we can now perform these actions directly within Figma itself instead of having to rely on external solutions.
+> **[0:07](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980&t=7)** With [[Figma (Software)|Figma]] AI, we can now perform these actions directly within Figma itself instead of having to rely on external solutions.
 >
 > **[0:16](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/translating-text-into-different-languages?u=76281980&t=16)** So let's go ahead and choose the H+ Sport about page again.
 >
@@ -974,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** figma (2)
 > **UI Navigation:** click on (2)
@@ -982,12 +967,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shorten lengthy text elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980)
+#### [Shorten lengthy text elements](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=0)** - [Instructor] Using Figma AI, you can shorten lengthy text blocks to better fit within certain spaces in your layout while retaining their meaning and readability.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=0)** - [Instructor] Using [[Figma (Software)|Figma]] AI, you can shorten lengthy text blocks to better fit within certain spaces in your layout while retaining their meaning and readability.
 >
 > **[0:10](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=10)** For instance, if we needed to grab this piece of text and shorten it for whatever reason, we can select that piece of text, the about description, and then click on our actions button within our toolbar and looking down below in our suggestions, we can find shorten.
 >
@@ -995,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=35)** And no prompt necessary, it goes through and makes the text shorter.
 >
-> **[0:39](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=39)** So H+ Sport provides a healthy lifestyle with eco-friendly nutritional products for athletes.
+> **[0:39](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=39)** So H+ Sport provides a healthy lifestyle with eco-friendly nutritional [[Microsoft Products|products]] for athletes.
 >
 > **[0:46](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/shortening-lengthy-text-elements?u=76281980&t=46)** Our line includes supplements, energy bars, and rehydration solutions based on scientific research.
 >
@@ -1007,19 +991,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), ai (1), prompt (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Tools:** figma (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find assets and design elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/find-assets-and-design-elements?u=76281980)
+#### [Find assets and design elements](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/find-assets-and-design-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/find-assets-and-design-elements?u=76281980&t=0)** - [Instructor] If you want to locate similar elements that can be used in your files from elsewhere, you can easily do so by using the find more like feature as part of Figma AI.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/find-assets-and-design-elements?u=76281980&t=0)** - [Instructor] If you want to locate similar elements that can be used in your files from elsewhere, you can easily do so by using the find more like feature as part of [[Figma (Software)|Figma]] AI.
 >
 > **[0:11](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/find-assets-and-design-elements?u=76281980&t=11)** So for instance, let's go to our welcome screen here.
 >
@@ -1065,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Figma (Software)|Figma]] (2), ai (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** find (5)
 > **Tools:** figma (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1077,12 +1060,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the generate feature in FigJam
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
+#### [Use the generate feature in FigJam](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980&t=0)** - [Speaker] Figma AI is also integrated into Fig Jam and Figma slides.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980&t=0)** - [Speaker] [[Figma (Software)|Figma]] AI is also integrated into Fig Jam and Figma slides.
 >
 > **[0:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980&t=5)** We'll look at some examples across these additional document types in the next few videos.
 >
@@ -1136,19 +1118,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), ai (2), prompt (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **Tools:** figma (4)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Generate a summary in FigJam
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980)
+#### [Generate a summary in FigJam](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=0)** - [Instructor] Once you've gone through a brainstorming session or some other process in Fig Jam, either by yourself or amongst contributors, you can use Figma AI to generate a nice summary from everything you've pulled together.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=0)** - [Instructor] Once you've gone through a brainstorming session or some other process in Fig Jam, either by yourself or amongst contributors, you can use [[Figma (Software)|Figma]] AI to generate a nice summary from everything you've pulled together.
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=14)** I'm simply going to use the content we generated in the last movie to do so.
 >
@@ -1162,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=51)** So summarize stickies, it's already done it and placed it over on the side here.
 >
-> **[1:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=60)** So let's zoom in and we can see that it's summarized with AI.
+> **[1:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=60)** So let's [[Zoom]] in and we can see that it's summarized with AI.
 >
 > **[1:08](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/generate-a-summary-in-figjam?u=76281980&t=68)** Today's date, May the 24th, 2025 water app marketing suggestions.
 >
@@ -1174,17 +1155,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **Cross-References:** in the last (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Figma Slides outline from FigJam
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/create-a-figma-slides-outline-from-figjam?u=76281980)
+#### [Create a Figma Slides outline from FigJam](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/create-a-figma-slides-outline-from-figjam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/create-a-figma-slides-outline-from-figjam?u=76281980&t=0)** - [Instructor] Once you've completed your work in FigJam, an automated mechanism exists, which enables the transfer of your assembled content into an organized presentation through Figma Slides.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/create-a-figma-slides-outline-from-figjam?u=76281980&t=0)** - [Instructor] Once you've completed your work in FigJam, an automated mechanism exists, which enables the transfer of your assembled content into an organized presentation through [[Figma (Software)|Figma]] Slides.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/create-a-figma-slides-outline-from-figjam?u=76281980&t=12)** I'm going to go ahead and select everything we have with our selection tool, or of course, you can use Command or Control + A to select everything.
 >
@@ -1236,7 +1216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (3), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7)
 > **Tools:** figma (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1244,14 +1224,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Draft presenter notes in Figma Slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980)
+#### [Draft presenter notes in Figma Slides](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980&t=0)** - [Instructor] Drafting presenter notes for your slides can be a pretty tedious task.
 >
-> **[0:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980&t=5)** Within Figma slides, we have an AI driven function that can produce these slide notes for us based upon the existing slide content.
+> **[0:05](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980&t=5)** Within [[Figma (Software)|Figma]] slides, we have an AI driven function that can produce these slide notes for us based upon the existing slide content.
 >
 > **[0:13](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/draft-presenter-notes-in-figma-slides?u=76281980&t=13)** So for instance, if I find a slide that I might want to have some notes around, like this one here, slide four.
 >
@@ -1275,18 +1254,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** figma (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust the tone in Figma Slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/adjust-the-tone-in-figma-slides?u=76281980)
+#### [Adjust the tone in Figma Slides](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/adjust-the-tone-in-figma-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/adjust-the-tone-in-figma-slides?u=76281980&t=0)** - [Presenter] Another useful assistive Figma AI feature within Figma slides enables you to automatically adjust the tone of your written text through the use of a friendly tool called "Adjust Tone," that lets you plot out your desired attributes across a small grid.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/adjust-the-tone-in-figma-slides?u=76281980&t=0)** - [Presenter] Another useful assistive [[Figma (Software)|Figma]] AI feature within Figma slides enables you to automatically adjust the tone of your written text through the use of a friendly tool called "Adjust Tone," that lets you plot out your desired attributes across a small grid.
 >
 > **[0:16](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/adjust-the-tone-in-figma-slides?u=76281980&t=16)** The best way to explain this is to see it in action, of course.
 >
@@ -1332,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
 > **Speakers:** - [presenter] (1)
 
@@ -1341,12 +1319,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980&t=0)** - [Instructor] In this course we had a broad overview of the Figma AI, generative and assistive tools being built into Figma, but also within FigJam and Figma Slides.
+> **[0:00](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980&t=0)** - [Instructor] In this course we had a broad overview of the [[Figma (Software)|Figma]] AI, generative and assistive tools being built into Figma, but also within FigJam and Figma Slides.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980&t=12)** We began our explorations of Figma AI by generating content and interactions within a Figma design file.
 >
@@ -1358,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), ai (4)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7)
 > **Tools:** figma (7)
 > **Speakers:** - [instructor] (1)
 

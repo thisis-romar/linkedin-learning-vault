@@ -119,18 +119,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cleaning your codebase
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980)
+#### [Cleaning your codebase](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=0)** - [John] Software engineers agree that good clean code is easiest to maintain, but what is quality code?
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=0)** - [[[John the Ripper|John]]] Software engineers agree that good clean code is easiest to maintain, but what is quality code?
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=8)** Do you know it when you see it?
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=10)** In this course, we'll clean up a complete, but buggy, restaurant booking application.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=15)** We'll start with fundamental testing and code quality concepts, explore how to use linters to look for suspicious code, compare expected program output with actual using unit testing, isolate your code for testing using test doubles, then verify with spies and mocks.
+> **[0:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=15)** We'll start with fundamental testing and code quality concepts, explore how to use linters to look for suspicious code, compare expected program output with actual using [[Unit Testing]], isolate your code for testing using test doubles, then verify with spies and mocks.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=33)** Finally, generate reports on code health across your entire codebase.
 >
@@ -140,23 +139,22 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=47)** So, let's get started.
 >
-> **[0:49](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=49)** Welcome to "Node.js: Testing and Code Quality."
+> **[0:49](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980&t=49)** Welcome to "[[Node.js]]: Testing and Code Quality."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Unit Testing]] (1), web (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Unit Testing]] (1), [[Node.js]] (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [john] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know before you start watching this course.
 >
-> **[0:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=3)** This is a Node.js and software engineering course.
+> **[0:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=3)** This is a [[Node.js]] and software engineering course.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=7)** It's intended for developers who have practical experience writing Node.js applications.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=28)** The content should be forwards compatible with newer versions of Node.js.
 >
-> **[0:33](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=33)** I will use the ECMAScript 2020 standard throughout this course and will be focusing on functionality commonly found in ES6 and beyond.
+> **[0:33](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=33)** I will use the [[ECMAScript]] 2020 standard throughout this course and will be focusing on functionality commonly found in ES6 and beyond.
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=41)** If you're not familiar with ES6 or you'd like a refresher, check out Learning ECMAScript 6 and onward with Eve Porcello here in the Online Training Library.
 >
@@ -182,19 +180,19 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=75)** Finally, there's a simple administrator view of all submitted reservations.
 >
-> **[1:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=80)** The application uses Express.js, a minimalist Node.js framework.
+> **[1:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=80)** The application uses [[Express.js]], a minimalist Node.js framework.
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=85)** If you haven't used Express before, or need a refresher, check out [[Building a Website with Node.js and Express.js]] with Daniel Kahn here in the Online Training Library.
 >
 > **[1:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=96)** The reservations themselves will be stored in SQLite, a self-contained embedded database engine.
 >
-> **[1:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=103)** I'm going to use the SQL query builder Knex for a flexible promise-based interface and for database migrations.
+> **[1:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=103)** I'm going to use the [[SQL]] query builder Knex for a flexible promise-based interface and for database migrations.
 >
 > **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-you-should-know?u=76281980&t=110)** No prior experience with SQLite or Knex is necessary and you won't need to install a separate service to use it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (9), [[ECMAScript]] (2), application (2), [[Express.js]] (2), database (2)
+> **Frameworks & Libraries:** [[Node.js]] (9), [[ECMAScript]] (2), [[Express.js]] (2), [[SQL]] (1)
 > **File Paths:** node.js (9), express.js (2)
 > **CLI Commands:** node (9)
 > **Env Vars:** es6 (2), sql (1)
@@ -203,8 +201,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for Node.js development
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980)
+#### [Preparing for Node.js development](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=48)** The first is save to Save changes to a file.
 >
-> **[0:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=52)** On Windows and Linux, the combination is control and S.
+> **[0:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=52)** On [[Windows]] and [[Linux]], the combination is control and S.
 >
 > **[0:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=57)** On a Mac, the combination is command and S.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=99)** I'm using 14.16.0, the long-term support version that was current during recording.
 >
-> **[1:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=107)** Let's check to see if NPM is available as well; type the command, NPM space dash V and press enter.
+> **[1:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=107)** Let's check to see if [[npm]] is available as well; type the command, NPM space dash V and press enter.
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/preparing-for-node-js-development?u=76281980&t=117)** I'm using 6.14.11, which is the version that was included with the long-term support version of node.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[npm]] (2), cross-platform (1), feature (1), web (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** terminal (5), visual studio (3), vs code (3)
 > **CLI Commands:** node (3), npm (2), make (1)
 > **UI Navigation:** toggle (3), open the (1)
@@ -265,8 +262,7 @@ created: 2026-05-02
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Best Practices:** remember to (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +300,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (1)
 > **Exercise Files:** exercise files (3), exercise file (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -312,8 +307,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
-#### Demo setup and tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980)
+#### [Demo setup and tour](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=157)** Open up the terminal by pressing control and backtick.
 >
-> **[2:42](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=162)** First, let's tell NPM that this is not a production environment.
+> **[2:42](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=162)** First, let's tell [[npm]] that this is not a production environment.
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=166)** Type, NPM, space, config, space, set, space, dash G, production, false.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=249)** Pick a time, for 8:30 PM, and there's only one in my party.
 >
-> **[4:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=254)** My name is John Peck and my email is going to be username, just username and no app domain because this is a bug in the application.
+> **[4:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=254)** My name is [[John the Ripper|John]] Peck and my email is going to be username, just username and no app domain because this is a bug in the application.
 >
 > **[4:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/demo-setup-and-tour?u=76281980&t=265)** Enter in a phone number, which will be 5555555555 and click the email icon to toggle the message and type hello comma world, click request booking.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[npm]] (4), express (2), database (2), css (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[John the Ripper|John]] (1)
 > **Env Vars:** npm (4), http (1), css (1), npx (1), knex (1)
 > **CLI Commands:** npm (4), apt (1), npx (1)
 > **UI Navigation:** navigate to (3), select the (1), click on (1), toggle (1)
@@ -453,8 +447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is code quality?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980)
+#### [What is code quality?](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980&t=120)** Next, we'll take a look at coding standards and how to enforce them.
 >
-> **[2:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980&t=125)** We'll define unit testing, Test Driven Development and Behavior Driven Development then compare the differences.
+> **[2:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980&t=125)** We'll define [[Unit Testing]], Test Driven Development and Behavior Driven Development then compare the differences.
 >
 > **[2:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980&t=132)** We'll take a look at the role of testing frameworks and why they're important.
 >
@@ -632,14 +625,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (5), next (2), product (2), [[Unit Testing]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **Analogies:** for example (3), picture (2), imagine (1)
 > **CLI Commands:** make (4)
 > **Exercise Files:** source code (1)
 > **Speakers:** - when (1)
 
-#### Coding conventions and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980)
+#### [Coding conventions and standards](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,9 +717,9 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=219)** There are three formats.
 >
-> **[3:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=221)** The most common is just the line feed character for Unix, Linux and Mac.
+> **[3:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=221)** The most common is just the line feed character for Unix, [[Linux]] and Mac.
 >
-> **[3:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=226)** Another variation is both carriage return and line feed for windows and dos.
+> **[3:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=226)** Another variation is both carriage return and line feed for [[Windows]] and dos.
 >
 > **[3:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coding-conventions-and-standards?u=76281980&t=232)** A less common variation is just carriage return on Mac.
 >
@@ -805,15 +797,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), functional (3), management (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1)
 > **Definitions:** is a  (9), known as (1)
 > **Analogies:** such as (4), for example (3), similar to (1)
 > **Documentation:** the docs (3), specification (1), the documentation (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and enforcing coding standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980)
+#### [Creating and enforcing coding standards](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=71)** While you may be passionate about it, be sure to involve the whole team.
 >
-> **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=76)** Especially when it comes to choosing rules, share the decision-making.
+> **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=76)** Especially when it comes to choosing rules, share the [[Decision-Making]].
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=80)** A coding standards should be built out of consensus.
 >
@@ -905,7 +896,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=221)** To make up for that, linters can automatically fix some of the problems they find, which is a big time saver.
 >
-> **[3:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=227)** Finally, linters integrate with most text editors giving you real-time feedback as you edit your code.
+> **[3:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=227)** Finally, linters integrate with most text editors giving you [[Real-Time]] feedback as you edit your code.
 >
 > **[3:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/creating-and-enforcing-coding-standards?u=76281980&t=234)** I like knowing about and fixing problems before I send something off for peer review.
 >
@@ -997,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), next (2), [[Decision-Making]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (2), for example (1)
@@ -1005,14 +996,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit, integration, and functional testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980)
+#### [Unit, integration, and functional testing](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=0)** - [Instructor] There are a number of different ways to test software.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=4)** The most common techniques are unit testing, integration testing, and functional testing.
+> **[0:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=4)** The most common techniques are [[Unit Testing]], [[Integration Testing]], and functional testing.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=10)** Let's explore each in order as they build upon each other.
 >
@@ -1060,7 +1050,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=131)** There's no need to open an editor at this time.
 >
-> **[2:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=134)** Node.js includes an assertion module named assert.
+> **[2:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=134)** [[Node.js]] includes an assertion module named assert.
 >
 > **[2:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=137)** So, we'll require it.
 >
@@ -1112,7 +1102,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=266)** Depending on the architecture of the application, test can be on one system or across multiple systems.
 >
-> **[4:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=272)** Also, unlike unit tests, integration testing uses either the full or partial system environment, including persistent layers like databases or other similar services.
+> **[4:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=272)** Also, unlike unit tests, integration testing uses either the full or partial system environment, including persistent layers like [[Databases]] or other similar services.
 >
 > **[4:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=283)** Therefore, integration tests are more complex and harder to maintain than unit tests, but are still very important.
 >
@@ -1176,11 +1166,11 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=432)** Many things happen in system testing involving many tools and roles.
 >
-> **[7:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=437)** There's performance testing, such as a stress test for reliability and load testing for scalability.
+> **[7:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=437)** There's performance testing, such as a stress test for reliability and [[Load Testing]] for [[Scalability]].
 >
 > **[7:23](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=443)** Security scanners can find threats and vulnerabilities which helps establish a baseline standard.
 >
-> **[7:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=449)** A usability check of the system from someone with user experience can help determine if it's easy to use.
+> **[7:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=449)** A usability check of the system from someone with [[User Experience (UX)|user experience]] can help determine if it's easy to use.
 >
 > **[7:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/unit-integration-and-functional-testing?u=76281980&t=456)** You can check to see if a system is compatible with its hosted environment or other systems they may be working with.
 >
@@ -1246,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (12), application (10), [[Integration Testing]] (7), [[Unit Testing]] (6), api (6)
+> **Frameworks & Libraries:** [[Integration Testing]] (7), [[Unit Testing]] (6), [[Node.js]] (3), [[Databases]] (1), [[Load Testing]] (1)
 > **CLI Commands:** node (5), cat (2), make (2), find (1)
 > **Env Vars:** api (6)
 > **Analogies:** such as (3), for example (1), similar to (1)
@@ -1255,8 +1245,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **URLs:** [example.com](https://example.com) (1)
 
-#### Testing frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980)
+#### [Testing frameworks](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1253,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=8)** But how does automation work?
 >
-> **[0:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=11)** Test automation is separate software from the application that is being written and tested.
+> **[0:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=11)** [[Test Automation]] is separate software from the application that is being written and tested.
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=16)** Test automation has multiple purposes.
 >
@@ -1378,11 +1367,11 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=314)** Finally, a testing framework delegates the responsibility of maintenance so developers can focus their efforts on writing tests, not creating testing software.
 >
-> **[5:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=324)** You might be wondering, what are some examples of common Node.js testing frameworks?
+> **[5:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=324)** You might be wondering, what are some examples of common [[Node.js]] testing frameworks?
 >
 > **[5:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=329)** There's Mocha from [mochajs.org](https://mochajs.org).
 >
-> **[5:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=332)** Jasmine from jasmine.[github.io](https://github.io).
+> **[5:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=332)** Jasmine from jasmine.[[[GitHub]].io](https://github.io).
 >
 > **[5:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=335)** And Jest from [jestjs.io](https://jestjs.io).
 >
@@ -1392,7 +1381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Test Automation]] (3), [[Automation]] (2), data (2), functional (1)
+> **Frameworks & Libraries:** [[Test Automation]] (3), [[Node.js]] (1), [[GitHub]] (1)
 > **Prerequisites:** setup (5)
 > **URLs:** [mochajs.org](https://mochajs.org) (1), [github.io](https://github.io) (1), [jestjs.io](https://jestjs.io) (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -1401,8 +1390,7 @@ created: 2026-05-02
 > **CLI Commands:** node (1)
 > **Env Vars:** api (1)
 
-#### TDD and BDD test specifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980)
+#### [TDD and BDD test specifications](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,11 +1402,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=20)** Each DSL describes how to interact with a framework.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=24)** Common examples include, test-driven development or TDD, and behavior-driven development known as BDD.
+> **[0:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=24)** Common examples include, [[Test-Driven Development]] or TDD, and behavior-driven development known as BDD.
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=31)** Those terms may be familiar, but what do they mean?
 >
-> **[0:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=36)** Test-driven development is a software development process, in its purest form, software requirements are turned into test cases, then the software is improved until those tests pass.
+> **[0:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=36)** Test-driven development is a [[Software Development]] process, in its purest form, software requirements are turned into test cases, then the software is improved until those tests pass.
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/tdd-and-bdd-test-specifications?u=76281980&t=48)** Throughout development, the tests are run over and over again, giving feedback to the programmer.
 >
@@ -1504,8 +1492,7 @@ created: 2026-05-02
 > **Code Identifiers:** beforeeach (1), aftereach (1)
 > **Speakers:** - [presenter] (1)
 
-#### Assertions for correctness
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980)
+#### [Assertions for correctness](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1514,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=36)** An assertion library is a collection of assertions.
 >
-> **[0:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=39)** Typically many more than what's in Node.js's assert module.
+> **[0:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=39)** Typically many more than what's in [[Node.js]]'s assert module.
 >
 > **[0:44](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=44)** They support comparisons of many different types of language structures like objects or rays, Booleans, numbers and more.
 >
@@ -1569,7 +1556,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=156)** Then the reservation should have the property email.
 >
-> **[2:40](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=160)** The word "have" is a chain along with "and" to compare the email property with a given.
+> **[2:40](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=160)** The [[Microsoft Word|word]] "have" is a chain along with "and" to compare the email property with a given.
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=166)** Chaining can improve readability and leads to a more natural sounding description, but isn't available in every assertion API.
 >
@@ -1579,7 +1566,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=182)** Another popular library is Chai, available from [chaijs.com](https://chaijs.com).
 >
-> **[3:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=188)** Should.js from shouldjs.[github.io](https://github.io) is also popular.
+> **[3:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=188)** Should.js from shouldjs.[[[GitHub]].io](https://github.io) is also popular.
 >
 > **[3:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=193)** Some test frameworks have assertion libraries built-in including Jasmine, which has matchers and Jest which has expect methods.
 >
@@ -1607,7 +1594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), api (2), application (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (5)
 > **File Paths:** node.js (2), should.js (1)
 > **CLI Commands:** node (2), cat (1)
@@ -1616,8 +1603,7 @@ created: 2026-05-02
 > **Env Vars:** api (2)
 > **Cross-References:** earlier in (1), we discussed (1)
 
-#### Challenge: Organize your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-organize-your-tests?u=76281980)
+#### [Challenge: Organize your tests](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-organize-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,7 +1629,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), next (1)
 > **File Paths:** file.test.js (1), target-loadtest.js (1)
 > **Env Vars:** file (1), target (1)
 > **Cross-References:** in the next (1)
@@ -1651,8 +1636,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Organize your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-organize-your-tests?u=76281980)
+#### [Solution: Organize your tests](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-organize-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1678,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), functional (2), api (1), database (1)
 > **File Paths:** file.test.js (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1706,8 +1689,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standardizing with EditorConfig
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980)
+#### [Standardizing with EditorConfig](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1743,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=147)** Node JS, the programming language we're using is a good start.
 >
-> **[2:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=151)** jQuery, the venerable cross-platform JavaScript library, the lodash utility library, the React user interface library and the webpack module bundler all use editor config.
+> **[2:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=151)** jQuery, the venerable cross-platform [[JavaScript]] library, the lodash utility library, the [[React.js|React]] user interface library and the webpack module bundler all use editor config.
 >
 > **[2:44](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=164)** So, what's an editor config actually look like?
 >
@@ -1835,9 +1817,9 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=364)** There are three potential values.
 >
-> **[6:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=367)** The first is LF for line feed, which is used for Unix and Linux.
+> **[6:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=367)** The first is LF for line feed, which is used for Unix and [[Linux]].
 >
-> **[6:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=372)** Next is CRLF for carriage return and line feed which is used for DOS and Windows.
+> **[6:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=372)** Next is CRLF for carriage return and line feed which is used for DOS and [[Windows]].
 >
 > **[6:19](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980&t=379)** The final is CR just carriage return which is sometimes used by Mac.
 >
@@ -1879,7 +1861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (2), node (1), [[Programming]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[React.js|React]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Definitions:** is a  (10), is an  (1)
 > **CLI Commands:** find (2), node (1)
 > **Env Vars:** ini (1), crlf (1), dos (1)
@@ -1888,8 +1870,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Code Identifiers:** jquery (1)
 
-#### Adding EditorConfig to a project and IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980)
+#### [Adding EditorConfig to a project and IDE](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1968,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=231)** We can now close the read me file by clicking X in the tab.
 >
-> **[3:56](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=236)** Now that we've set up a baseline coding standard, how can we lint JavaScript files to find problems?
+> **[3:56](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=236)** Now that we've set up a baseline coding standard, how can we lint [[JavaScript]] files to find problems?
 
 > [!info]- Semantic Content
 >
@@ -2000,22 +1981,21 @@ created: 2026-05-02
 > **URLs:** [editorconfig.org](https://editorconfig.org) (2)
 > **Env Vars:** txt (1)
 
-#### Comparing JavaScript linters
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980)
+#### [Comparing JavaScript linters](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=0)** - [Narrator] There are a number of different JavaScript Linters available that can be used to find suspicious code.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=0)** - [Narrator] There are a number of different [[JavaScript]] Linters available that can be used to find suspicious code.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=7)** Believe it or not, you already have a linter installed.
 >
-> **[0:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=11)** Node.js has a built-in checker through the command line, just type node dash dash check and then the path to the file.
+> **[0:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=11)** [[Node.js]] has a built-in checker through the command line, just type node dash dash check and then the path to the file.
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=20)** This checks for syntax errors in a single target file.
 >
 > **[0:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=24)** While this does have some utility, like a quick one-off sanity check, it doesn't scale to an entire project.
 >
-> **[0:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=31)** The three most common JavaScript Linters are, JSLint, JSHint and ESLint.
+> **[0:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=31)** The three most common JavaScript Linters are, JSLint, JSHint and [[ESLint]].
 >
 > **[0:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=39)** There all JavaScript syntax checkers and validators, each of them supports ES6 standards at a minimum and they're all free and open source software.
 >
@@ -2067,7 +2047,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=183)** What are some of the open source projects that use ESLint?
 >
-> **[3:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=186)** This list may sound familiar Node.js, jQuery, Lodash, React and webpack all use ESLint.
+> **[3:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=186)** This list may sound familiar Node.js, jQuery, Lodash, [[React.js|React]] and webpack all use ESLint.
 >
 > **[3:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/comparing-javascript-linters?u=76281980&t=195)** ESLint has incredibly broad adoption across the industry.
 >
@@ -2103,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (20), [[JavaScript]] (6), [[Node.js]] (2), node (1), power (1)
+> **Frameworks & Libraries:** [[ESLint]] (20), [[JavaScript]] (6), [[Node.js]] (2), [[React.js|React]] (1)
 > **CLI Commands:** node (3), make (2), find (1)
 > **URLs:** [jslint.com](https://jslint.com) (1), [jshint.com](https://jshint.com) (1), [eslint.org](https://eslint.org) (1), [prettier.io](https://prettier.io) (1)
 > **File Paths:** node.js (2)
@@ -2112,12 +2092,11 @@ created: 2026-05-02
 > **Code Identifiers:** jquery (1)
 > **Cross-References:** later in (1)
 
-#### Installing ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980)
+#### [Installing ESLint](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=0)** - [Instructor] There's more than one way to install ESLint.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=0)** - [Instructor] There's more than one way to install [[ESLint]].
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=3)** So let's compare the approaches.
 >
@@ -2125,7 +2104,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=11)** The good thing about this approach is you can just type ESLint to run the program.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=16)** However, it comes with a terrible curse, installing ESLint globally is a package management anti-pattern for several reasons.
+> **[0:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=16)** However, it comes with a terrible curse, installing ESLint globally is a [[Package Management]] anti-pattern for several reasons.
 >
 > **[0:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=25)** The locally installed version will not likely be in sync with the other developers.
 >
@@ -2143,7 +2122,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=63)** What's the best way to run it?
 >
-> **[1:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=65)** The solution is to use npx, which is npm package runner, npx has been available since npm version 5.2 and it makes it easy to use command line interface tools.
+> **[1:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=65)** The solution is to use npx, which is [[npm]] package runner, npx has been available since npm version 5.2 and it makes it easy to use command line interface tools.
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=78)** I'd like to clear up some misconceptions around task runners and linters A question that I've heard is, do I need gulp, grunt or something similar to run a linter?
 >
@@ -2163,9 +2142,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=112)** All right, so if I'm recommending not to use a task runner, what if it's necessary for additional ESLint runtime configurations?
 >
-> **[2:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=120)** Just use the package.json scripts property instead.
+> **[2:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=120)** Just use the package.[[JSON]] scripts property instead.
 >
-> **[2:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=124)** For example, you may want a continuous integration build process that links your application and generates a report.
+> **[2:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=124)** For example, you may want a [[Continuous Integration (CI)|continuous integration]] build process that links your application and generates a report.
 >
 > **[2:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/installing-eslint?u=76281980&t=131)** It can be done on one line, no separate task runner or plugins is necessary.
 >
@@ -2205,7 +2184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (3), application (2), [[Package Management]] (1), management (1)
+> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (3), [[Package Management]] (1), [[JSON]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** npx (4), npm (3), node (1), find (1)
 > **Tools:** terminal (3), command line (1), vs code (1)
 > **Prerequisites:** install (5)
@@ -2214,12 +2193,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **File Paths:** package.json (1)
 
-#### Configuring ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980)
+#### [Configuring ESLint](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=0)** - [Instructor] Since ESLint requires a configuration, let's create one.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=0)** - [Instructor] Since [[ESLint]] requires a configuration, let's create one.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=5)** The [ESLint.org](https://ESLint.org) website contains a comprehensive user guide on configuration.
 >
@@ -2231,7 +2209,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=24)** There are three format supported.
 >
-> **[0:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=27)** JavaScript files, JSON and YAML.
+> **[0:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=27)** [[JavaScript]] files, [[JSON]] and YAML.
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=31)** The files are named .eslintrc. then the extension.
 >
@@ -2249,7 +2227,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=67)** Also, the nature of JSON files means that there are no comments in package.json, which help give context or clarification's for decisions.
 >
-> **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=76)** Ultimately, in my opinion, package.json should be focused on package management, not on application configuration.
+> **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=76)** Ultimately, in my opinion, package.json should be focused on [[Package Management]], not on application configuration.
 >
 > **[1:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=84)** Therefore please use the standard configuration files instead.
 >
@@ -2265,7 +2243,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=116)** The other is source type, which is the type of file to be scanned.
 >
-> **[2:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=121)** It can be a script which is the default or a module if you're using ECMAScript modules.
+> **[2:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=121)** It can be a script which is the default or a module if you're using [[ECMAScript]] modules.
 >
 > **[2:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/configuring-eslint?u=76281980&t=127)** The next is the ENV or environment configuration.
 >
@@ -2361,7 +2339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (15), [[JavaScript]] (5), [[JSON]] (5), node (3), application (2)
+> **Frameworks & Libraries:** [[ESLint]] (15), [[JavaScript]] (5), [[JSON]] (5), [[ECMAScript]] (2), [[Package Management]] (1)
 > **Env Vars:** env (3), json (2), var (2), yaml (1), es6 (1)
 > **File Paths:** package.json (3), eslintrc.js (3), mteslintrc.js (1), app.js (1)
 > **UI Navigation:** go to (4), open the (2), navigate to (1)
@@ -2370,16 +2348,15 @@ created: 2026-05-02
 > **Code Identifiers:** parseroptions (2), ecmaversion (1)
 > **Analogies:** for example (2), such as (1)
 
-#### Extending an ESLint shareable config
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980)
+#### [Extending an ESLint shareable config](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=0)** - [Instructor] One of the nice features of ESLint is the ability to extend an existing ESLint configuration.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=0)** - [Instructor] One of the nice features of [[ESLint]] is the ability to extend an existing ESLint configuration.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=6)** These are known as shareable configs.
 >
-> **[0:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=10)** Practically, a shareable config is just an npm package that exports an ESLint configuration object.
+> **[0:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=10)** Practically, a shareable config is just an [[npm]] package that exports an ESLint configuration object.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=17)** The name of the package must begin with "enslint-config-" then the name of the configuration.
 >
@@ -2405,7 +2382,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=76)** To use it, add "extends:" "eslint:recommended."
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=81)** It includes a number of logical rules including possible errors, best practices, variable use, and ECMAScript 6 directives.
+> **[1:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=81)** It includes a number of logical rules including possible errors, best practices, variable use, and [[ECMAScript]] 6 directives.
 >
 > **[1:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=91)** Let's update our project to use this configuration.
 >
@@ -2437,7 +2414,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=169)** Here's three shareable configs to consider.
 >
-> **[2:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=173)** The Airbnb JavaScript and React Style Guide, published on GitHub is incredibly comprehensive and well-written.
+> **[2:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=173)** The Airbnb [[JavaScript]] and [[React.js|React]] Style Guide, published on [[GitHub]] is incredibly comprehensive and well-written.
 >
 > **[3:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=181)** I consider it a model for both the scope and brief justifications for each rule.
 >
@@ -2445,7 +2422,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=189)** It's intended to bike shedding discussions that can distract from getting stuff done and that's a great place to start.
 >
-> **[3:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=197)** Finally, the Google JavaScript Style Guide on GitHub takes a very technical and formal approach.
+> **[3:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=197)** Finally, the [[Google]] JavaScript Style Guide on GitHub takes a very technical and formal approach.
 >
 > **[3:23](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=203)** There's crossover between all three, so it's good to have a comparison.
 >
@@ -2461,7 +2438,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=234)** Same as what we did, start with an existing shareable configuration, then customize to meet your needs.
 >
-> **[4:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=241)** When starting with an existing one, use the "package.json peerDependencies" to specify any extended configs or plugins.
+> **[4:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=241)** When starting with an existing one, use the "package.[[JSON]] peerDependencies" to specify any extended configs or plugins.
 >
 > **[4:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=250)** As a shared config is a package, use semantic versioning, including minor and major releases.
 >
@@ -2471,7 +2448,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=268)** If you're creating a private shareable configuration, here's a couple tips to save you time.
 >
-> **[4:33](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=273)** Do not use Git submodules.
+> **[4:33](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=273)** Do not use [[Git]] submodules.
 >
 > **[4:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/extending-an-eslint-shareable-config?u=76281980&t=276)** It will give you a headache and it creates unnecessary exceptions.
 >
@@ -2494,12 +2471,11 @@ created: 2026-05-02
 > **Env Vars:** env (1), mpx (1)
 > **Prerequisites:** install (2)
 
-#### Linting your codebase
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980)
+#### [Linting your codebase](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=0)** - [Instructor] The ability to Lint the entire code base is built into ESLint.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=0)** - [Instructor] The ability to Lint the entire code base is built into [[ESLint]].
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=4)** The trick is making it useful.
 >
@@ -2515,7 +2491,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=39)** A single codebase can include many different types of functionality.
 >
-> **[0:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=43)** Of course the Node.js application itself is included.
+> **[0:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=43)** Of course the [[Node.js]] application itself is included.
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=47)** There's also tests, which may use a different environmental configuration.
 >
@@ -2623,7 +2599,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=342)** If you have a large existing code base, avoid trying to fix all the errors in warnings at once.
 >
-> **[5:48](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=348)** This can wreck the file history in tools like Git, and if you're not careful, bugs can inadvertently get introduced.
+> **[5:48](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=348)** This can wreck the file history in tools like [[Git]], and if you're not careful, bugs can inadvertently get introduced.
 >
 > **[5:56](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/linting-your-codebase?u=76281980&t=356)** Instead, I found that it's better to take a more incremental approach and leave code better than you found it.
 >
@@ -2633,7 +2609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (7), [[Node.js]] (3), node (2), application (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[Node.js]] (3), [[Git]] (1)
 > **CLI Commands:** node (5), npx (3), make (1), git (1)
 > **Env Vars:** npx (3), env (2), ies (2), esgr (1)
 > **Tools:** vs code (4), terminal (4)
@@ -2642,12 +2618,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Code Identifiers:** jquery (2)
 
-#### Fixing code in VSC with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980)
+#### [Fixing code in VSC with ESLint](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=0)** - [Instructor] VC code supports ESLint with an extension, and it can even fix code automatically.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=0)** - [Instructor] VC code supports [[ESLint]] with an extension, and it can even fix code automatically.
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=8)** The ESLint extension by Dirk Baumer uses the ESLint library installed in the current workspace folder.
 >
@@ -2761,7 +2736,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=327)** Let's update the Read Me to include linting information.
 >
-> **[5:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=330)** Clicking readme.md in the Explorer, then after the editor config line under development add, this project uses ESLint to detect suspicious code in JavaScript files, visit [httpseslint.org](httpseslint.org) for details.
+> **[5:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=330)** Clicking readme.md in the Explorer, then after the editor config line under development add, this project uses ESLint to detect suspicious code in [[JavaScript]] files, visit [httpseslint.org](httpseslint.org) for details.
 >
 > **[5:56](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=356)** Save the changes and finally close the file.
 >
@@ -2779,11 +2754,11 @@ created: 2026-05-02
 >
 > **[6:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=406)** Finally, we cleaned code within VS Code using ESLint.
 >
-> **[6:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=413)** Now that we have ways of scanning the code for syntax and style problems, let's validate the correctness of the application using unit testing.
+> **[6:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fixing-code-in-vsc-with-eslint?u=76281980&t=413)** Now that we have ways of scanning the code for syntax and style problems, let's validate the correctness of the application using [[Unit Testing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (18), feature (2), next (2), [[JavaScript]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (18), [[JavaScript]] (2), [[Unit Testing]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1), go to (1), navigate to (1)
 > **Tools:** vs code (3), visual studio (1), command line (1)
 > **File Paths:** app.js (3), readme.md (1)
@@ -2792,12 +2767,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [httpseslint.org](httpseslint.org) (1)
 
-#### Challenge: Create a shareable ESLint config
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-create-a-shareable-eslint-config?u=76281980)
+#### [Challenge: Create a shareable ESLint config](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-create-a-shareable-eslint-config?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-create-a-shareable-eslint-config?u=76281980&t=0)** - [Instructor] In this chapter, we learned ways to find JavaScript errors with linting, including using the ESLint utility.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-create-a-shareable-eslint-config?u=76281980&t=0)** - [Instructor] In this chapter, we learned ways to find [[JavaScript]] errors with linting, including using the [[ESLint]] utility.
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-create-a-shareable-eslint-config?u=76281980&t=13)** How can we make a shareable ESLint configuration?
 >
@@ -2819,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [eslint.org](https://eslint.org) (1)
 > **Cross-References:** in the next (1)
@@ -2828,14 +2802,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a shareable ESLint config
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980)
+#### [Solution: Create a shareable ESLint config](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=0)** (intro music)
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=5)** - Here's the solution to the challenge about creating a sharable ESLint configuration.
+> **[0:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=5)** - Here's the solution to the challenge about creating a sharable [[ESLint]] configuration.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=10)** If you haven't completed it yet, please take a moment to practice your skills.
 >
@@ -2857,9 +2830,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=63)** Change directory to ESLint dash config dash Nadia.
 >
-> **[1:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=68)** Initialize a new module with the defaults using NPM space init space dash Y and press enter.
+> **[1:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=68)** Initialize a new module with the defaults using [[npm]] space init space dash Y and press enter.
 >
-> **[1:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=77)** This will create the package dot JSON file.
+> **[1:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=77)** This will create the package dot [[JSON]] file.
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-create-a-shareable-eslint-config?u=76281980&t=81)** Over in the Explorer, click on the ESLint config Nadia folder and then right click and go to new file.
 >
@@ -2959,14 +2932,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Survey of Node.js testing frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980)
+#### [Survey of Node.js testing frameworks](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=0)** - [Instructor] We've set up linting tools to scan our application for suspicious code, but that doesn't address how our application works.
 >
-> **[0:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=9)** Let's validate the correctness of our application with unit testing.
+> **[0:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=9)** Let's validate the correctness of our application with [[Unit Testing]].
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=14)** Throughout this chapter, our focus is going to be on unit testing tools and techniques.
 >
@@ -2980,7 +2952,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=43)** Sounds exciting.
 >
-> **[0:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=45)** Let's get it started with a survey to compare Node.js testing frameworks.
+> **[0:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=45)** Let's get it started with a survey to compare [[Node.js]] testing frameworks.
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=51)** Some of the most popular Node.js testing frameworks in alphabetical order include, Ava, Jasmine, Jest, Mocha, and tape.
 >
@@ -2998,7 +2970,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=101)** AVA supports a simplified setup mechanism for groups of tests, but also includes a more advanced tear down if the environment needs to be reset afterwards.
 >
-> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=110)** Jasmine available from Jasmine.[github.io](https://github.io), is a more popular testing framework.
+> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=110)** Jasmine available from Jasmine.[[[GitHub]].io](https://github.io), is a more popular testing framework.
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=117)** Unlike AVA, Jasmine executes tests synchronously but it doesn't mean it's slow.
 >
@@ -3012,7 +2984,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=150)** Jest can run tests asynchronously like AVA, which gives it fast execution.
 >
-> **[2:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=156)** Jest also includes react support though it's not required.
+> **[2:36](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=156)** Jest also includes [[React.js|react]] support though it's not required.
 >
 > **[2:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=161)** One of the features of the react support is snapshot testing, where you can compare state changes over time of a webpage.
 >
@@ -3022,7 +2994,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=178)** Finally, Jest includes an interactive watch mode, so developers can constantly run tests as they work.
 >
-> **[3:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=186)** Mocha from [mochajs.org](https://mochajs.org) is very popular and one of the oldest of the JavaScript frameworks.
+> **[3:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=186)** Mocha from [mochajs.org](https://mochajs.org) is very popular and one of the oldest of the [[JavaScript]] frameworks.
 >
 > **[3:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=194)** Mocha executes the tests synchronously, which is slower than some of the other frameworks, but it does support async and a number of other modern standards.
 >
@@ -3060,7 +3032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Unit Testing]] (2), [[Node.js]] (2), [[GitHub]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[Unit Testing]] (2), [[Node.js]] (2), [[GitHub]] (2), [[React.js|React]] (2), [[JavaScript]] (1)
 > **Env Vars:** ava (7)
 > **URLs:** [avajs.dev](https://avajs.dev) (1), [github.io](https://github.io) (1), [jestjs.io](https://jestjs.io) (1), [mochajs.org](https://mochajs.org) (1), [github.com](https://github.com) (1)
 > **Prerequisites:** install (2), setup (2), set up (1)
@@ -3069,8 +3041,7 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 
-#### Install Jest in a Node.js project
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980)
+#### [Install Jest in a Node.js project](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3080,11 +3051,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=8)** Two steps are necessary for installation.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=12)** The first thing we need to do is use NPM to install Jest to the project's dev dependencies.
+> **[0:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=12)** The first thing we need to do is use [[npm]] to install Jest to the project's dev dependencies.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=18)** Then, we'll edit package.json and add the definition for the test script, which will just be jest.
+> **[0:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=18)** Then, we'll edit package.[[JSON]] and add the definition for the test script, which will just be jest.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=26)** Finally, we'll add an ESLint environment configuration for Jest globals.
+> **[0:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=26)** Finally, we'll add an [[ESLint]] environment configuration for Jest globals.
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/install-jest-in-a-node-js-project?u=76281980&t=31)** This isn't strictly required, but it will reduce a number of false positives from the linter.
 >
@@ -3143,8 +3114,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 
-#### What and where to unit test?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-and-where-to-unit-test?u=76281980)
+#### [What and where to unit test?](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-and-where-to-unit-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3258,7 +3228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), express (1), database (1)
 > **File Paths:** app.js (1), bin/wwww.js (1), libschemareservation.test.js (1)
 > **Analogies:** for example (3)
 > **Env Vars:** http (1), iso (1)
@@ -3266,9 +3235,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Tools:** vs code (1)
+> **Best Practices:** it's best to (1)
 
-#### Writing your first Jest unit test
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-unit-test?u=76281980)
+#### [Writing your first Jest unit test](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-unit-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3390,12 +3359,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [male (1)
 
-#### Running a test suite with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980)
+#### [Running a test suite with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=0)** - We've already configured Jest to run through NPM test.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=0)** - We've already configured Jest to run through [[npm]] test.
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=3)** So let's execute our brand new tests.
 >
@@ -3445,7 +3413,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=126)** One test failed, one passed, and there were two total tests.
 >
-> **[2:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=132)** There were no snapshots, which are a type of react UI testing.
+> **[2:12](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=132)** There were no snapshots, which are a type of [[React.js|react]] UI testing.
 >
 > **[2:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=136)** The total time taken is shown in human readable format.
 >
@@ -3463,7 +3431,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=178)** Note that there isn't an NPM error even though the test failed.
 >
-> **[3:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=182)** This can be useful when setting up continuous integration.
+> **[3:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=182)** This can be useful when setting up [[Continuous Integration (CI)|continuous integration]].
 >
 > **[3:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/running-a-test-suite-with-jest?u=76281980&t=186)** We can also execute just directly by using NPX.
 >
@@ -3536,8 +3504,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - we (1)
 
-#### Testing asynchronous callbacks with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980)
+#### [Testing asynchronous callbacks with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3565,7 +3532,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980&t=55)** We'll start with a simple function toTest which takes a callback.
 >
-> **[1:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980&t=60)** I'm going to use set immediate to asynchronously execute the callback, and arbitrarily return the word yay.
+> **[1:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980&t=60)** I'm going to use set immediate to asynchronously execute the callback, and arbitrarily return the [[Microsoft Word|word]] yay.
 >
 > **[1:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-asynchronous-callbacks-with-jest?u=76281980&t=69)** With that in mind, here's an incorrectly written test.
 >
@@ -3674,8 +3641,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is called (1)
 > **Prerequisites:** install (2)
 
-#### Writing callback test suites with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980)
+#### [Writing callback test suites with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3773,7 +3739,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=310)** Open up the terminal.
 >
-> **[5:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=311)** Once it loads, type npm test, and press Enter.
+> **[5:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=311)** Once it loads, type [[npm]] test, and press Enter.
 >
 > **[5:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=318)** Wait, why is there an error?
 >
@@ -3803,7 +3769,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=376)** We found and fixed a bug. Let's clean up.
 >
-> **[6:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=380)** Close up the terminal and any open editor windows.
+> **[6:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=380)** Close up the terminal and any open editor [[Windows]].
 >
 > **[6:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-callback-test-suites-with-jest?u=76281980&t=387)** That's how to test a callback.
 >
@@ -3811,7 +3777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), application (1), [[Programming]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Windows]] (1)
 > **Tools:** terminal (4), vs code (1)
 > **UI Navigation:** switch to (1), go to (1), navigate to (1), scroll down (1)
 > **File Paths:** reservation.js (2), reservation.test.js (1)
@@ -3820,8 +3786,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Ports:** :02 (1)
 
-#### Testing promises with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980)
+#### [Testing promises with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3859,7 +3824,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=89)** I compiled a sandbox test suite of examples of how not to test promises.
 >
-> **[1:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=95)** In the sandbox folder and the 03_08 subfolder, run npm install, then npm test to see all the failures.
+> **[1:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=95)** In the sandbox folder and the 03_08 subfolder, run [[npm]] install, then npm test to see all the failures.
 >
 > **[1:44](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=104)** Explore promises.test.js to see the source code.
 >
@@ -3955,11 +3920,11 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=425)** It's best practice to inform other developers about what's available.
 >
-> **[7:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=430)** Close out any remaining open windows.
+> **[7:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=430)** Close out any remaining open [[Windows]].
 >
-> **[7:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=434)** In this chapter, we've been busy validating correctness with unit testing.
+> **[7:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=434)** In this chapter, we've been busy validating correctness with [[Unit Testing]].
 >
-> **[7:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=438)** We started with a survey and comparison of features of various Node.js testing frameworks.
+> **[7:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=438)** We started with a survey and comparison of features of various [[Node.js]] testing frameworks.
 >
 > **[7:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-promises-with-jest?u=76281980&t=444)** Then we installed the core selection, Jest.
 >
@@ -3973,7 +3938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), database (2), [[Unit Testing]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[Unit Testing]] (2), [[Windows]] (1), [[Node.js]] (1)
 > **CLI Commands:** npm (4), make (1), node (1)
 > **File Paths:** promises.test.js (1), reservations.js (1), reservations.test.js (1), readme.md (1), node.js (1)
 > **Tools:** vs code (2), terminal (2)
@@ -3982,8 +3947,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1), [https://jestjs.io](https://jestjs.io) (1)
 > **Ports:** :02 (1)
 
-#### Challenge: Test async/await with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-test-async-await-with-jest?u=76281980)
+#### [Challenge: Test async/await with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-test-async-await-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4003,7 +3967,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** lib/reservations.test.js (1)
 > **URLs:** [jest.io](https://jest.io) (1)
 > **Cross-References:** in the next (1)
@@ -4011,8 +3974,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Test async/await with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980)
+#### [Solution: Test async/await with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4054,7 +4016,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=127)** Open up the terminal.
 >
-> **[2:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=129)** Let's make sure the tests still pass so NPM test.
+> **[2:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=129)** Let's make sure the tests still pass so [[npm]] test.
 >
 > **[2:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=136)** Excellent all the tests suites passed.
 >
@@ -4062,7 +4024,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=145)** The completed version can be found in solutions/03_10/reservations.test.js.
 >
-> **[2:34](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=154)** Both forms of the asynchronous promise handling like then and catch or with async/await are functionally equivalent.
+> **[2:34](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=154)** Both [[Forms]] of the asynchronous promise handling like then and catch or with async/await are functionally equivalent.
 >
 > **[2:42](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-test-async-await-with-jest?u=76281980&t=162)** The difference is the style and the use of shorthand.
 >
@@ -4070,7 +4032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[npm]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Tools:** terminal (2), vs code (1)
 > **File Paths:** reservations.test.js (1), solutions/03_10/reservations.test.js (1)
@@ -4084,12 +4046,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Replacing code with test doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980)
+#### [Replacing code with test doubles](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980&t=0)** - [Presenter] Unit testing requires isolation of the target code.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980&t=0)** - [Presenter] [[Unit Testing]] requires isolation of the target code.
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980&t=4)** However, due to the power of (faintly speaking) Modularity, pretty much, everything depends on everything.
 >
@@ -4215,7 +4176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Unit Testing]] (2), api (2), power (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (2)
 > **Definitions:** is a  (4), known as (1), is called (1)
 > **Analogies:** for example (5), such as (1)
 > **URLs:** [xunitpatterns.com](https://xunitpatterns.com) (1), [martinfowler.com](https://martinfowler.com) (1)
@@ -4224,8 +4185,7 @@ created: 2026-05-02
 > **Code Identifiers:** xunit (1)
 > **Cross-References:** later in (1)
 
-#### Mocking functions for test code
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-functions-for-test-code?u=76281980)
+#### [Mocking functions for test code](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-functions-for-test-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4381,15 +4341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** invocationcallorder (5), tohavebeencalledtimes (2), spyon (1), tobeundefined (1), tohavebeencalled (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** similar to (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing your first Jest mock
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980)
+#### [Writing your first Jest mock](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4421,7 +4379,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980&t=82)** Jest does not automatically backup or restore a mocked function when using .fn.
 >
-> **[1:28](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980&t=88)** If we skipped backing up and restoring it, we would alter the usage of validate for the rest of our tests in the same file, which could lead to chaos.
+> **[1:28](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980&t=88)** If we skipped backing up and restoring it, we would alter the usage of validate for the [[Representational State Transfer (REST)|rest]] of our tests in the same file, which could lead to chaos.
 >
 > **[1:37](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/writing-your-first-jest-mock?u=76281980&t=97)** With that said, backing up and restoring the original functions is not required if all the tests in a file use the same mock.
 >
@@ -4507,7 +4465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** reservations.js (2), reservations.test.js (1)
 > **Tools:** vs code (1), terminal (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
@@ -4515,8 +4473,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - we (1)
 
-#### Mock an entire module with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980)
+#### [Mock an entire module with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4530,7 +4487,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=19)** As an example, our application has dependencies on the sequel light database and the debugger module for logging.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=26)** Of course, you can write tests that use other components, but testing dependencies isn't unit testing, it's integration testing.
+> **[0:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=26)** Of course, you can write tests that use other components, but testing dependencies isn't [[Unit Testing]], it's [[Integration Testing]].
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=34)** So, how do we isolate a unit with the dependency?
 >
@@ -4538,7 +4495,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=47)** The nice thing about this technique, is that it needs no code changes to the target require to work.
 >
-> **[0:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=53)** Like many other forms of monkey patching and JavaScript Manipulation, changes to the require cash can be done manually.
+> **[0:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=53)** Like many other [[Forms]] of monkey patching and [[JavaScript]] Manipulation, changes to the require cash can be done manually.
 >
 > **[1:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=60)** With that said, doing it yourself head hoc is messy and fragile at best.
 >
@@ -4592,7 +4549,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=238)** Open up reservations.test.js.
 >
-> **[4:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=243)** At the top, let's start with a new group that we're going to describe for fetch, and then an error function expression.
+> **[4:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=243)** At the top, let's start with a new group that we're going to describe for [[Fetch]], and then an error function expression.
 >
 > **[4:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mock-an-entire-module-with-jest?u=76281980&t=253)** Fetch just returned some reservations.
 >
@@ -4636,7 +4593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (3), database (2), application (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Unit Testing]] (1), [[Integration Testing]] (1), [[Forms]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** beforeall (4), afterall (3), beforeeach (1), aftereach (1)
 > **Env Vars:** mpm (3)
 > **Tools:** terminal (2), vs code (1)
@@ -4645,8 +4602,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **File Paths:** reservations.test.js (1)
 
-#### Mocking module dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980)
+#### [Mocking module dependencies](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4680,7 +4636,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980&t=77)** In the Explorer, open up reservations.test.js.
 >
-> **[1:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980&t=82)** Scroll down under fetch and then describe a new group save.
+> **[1:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980&t=82)** Scroll down under [[Fetch]] and then describe a new group save.
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/mocking-module-dependencies?u=76281980&t=87)** So describe, save, than an arrow function expression, same as before, we're going to let reservations and we're going to require it momentarily.
 >
@@ -4772,7 +4728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **File Paths:** reservations.js (2), reservations.test.js (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2)
@@ -4781,8 +4737,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** don't forget (1)
 
-#### Spying to observe interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980)
+#### [Spying to observe interactions](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4886,7 +4841,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980&t=345)** Then switch to the terminal.
 >
-> **[5:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980&t=347)** Let's run our test suites, NPM test.
+> **[5:47](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980&t=347)** Let's run our test suites, [[npm]] test.
 >
 > **[5:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/spying-to-observe-interactions?u=76281980&t=354)** Excellent.
 >
@@ -4923,8 +4878,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (2)
 > **File Paths:** reservations.test.js (1)
 
-#### Challenge: Mock a successful reservation creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-mock-a-successful-reservation-creation?u=76281980)
+#### [Challenge: Mock a successful reservation creation](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-mock-a-successful-reservation-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4944,15 +4898,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1)
 > **File Paths:** lib/reservations.test.js (1), reservations.test.js (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Mock a successful reservation creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980)
+#### [Solution: Mock a successful reservation creation](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5038,7 +4990,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980&t=316)** Let's open up a terminal.
 >
-> **[5:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980&t=318)** Let's run our new test suite, type npm test and press enter.
+> **[5:18](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980&t=318)** Let's run our new test suite, type [[npm]] test and press enter.
 >
 > **[5:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-mock-a-successful-reservation-creation?u=76281980&t=326)** Fantastic!
 >
@@ -5060,7 +5012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** mockinsert (2), mockresolvedvalue (1), spyon (1), mockimplementation (1), tostrictequal (1)
 > **File Paths:** reservations.test.js (1), reservations.js (1), solutions/04_08/reservations.test.js (1)
 > **Tools:** terminal (2), vs code (1)
@@ -5074,8 +5026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why code coverage matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980)
+#### [Why code coverage matters](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5151,9 +5102,9 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=174)** For example, lib reservations has 86% statement coverage and lines 11 and 23 weren't covered by any test.
 >
-> **[3:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=183)** That same report also generated an HTML version which goes into much greater detail.
+> **[3:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=183)** That same report also generated an [[HTML]] version which goes into much greater detail.
 >
-> **[3:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=189)** At the top is a summary of the file itself along with raw statistics like two out of two branches.
+> **[3:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=189)** At the top is a summary of the file itself along with raw [[Statistics]] like two out of two branches.
 >
 > **[3:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=196)** The number of times a line has been executed is shown over on the left.
 >
@@ -5205,7 +5156,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=301)** Uncovered functions are more obvious.
 >
-> **[5:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=303)** In this case, fetch is never called.
+> **[5:03](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=303)** In this case, [[Fetch]] is never called.
 >
 > **[5:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980&t=307)** Uncovered lines are also easily recognizable.
 >
@@ -5217,14 +5168,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), functional (1), [[Security]] (1), [[HTML]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Statistics]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (8), known as (1)
 > **Analogies:** for example (3), picture (1), such as (1)
 > **Env Vars:** html (1)
 > **Speakers:** - knowing (1)
 
-#### Measuring code coverage with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980)
+#### [Measuring code coverage with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5254,15 +5204,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=62)** The first is text, which was that short report I demonstrated.
 >
-> **[1:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=66)** Another reporter is HTML, which was the more detailed line-by-line report I also earlier.
+> **[1:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=66)** Another reporter is [[HTML]], which was the more detailed line-by-line report I also earlier.
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=73)** A third is LCOV which is a standard for recording code coverage.
 >
-> **[1:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=77)** It was initially designed for the Linux kernel source code, but it supports any arbitrary project as well.
+> **[1:17](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=77)** It was initially designed for the [[Linux]] kernel source code, but it supports any arbitrary project as well.
 >
 > **[1:24](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=84)** LCOV is most commonly used by third party tools so they can operate on the output and not worry about the API.
 >
-> **[1:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=92)** The last is Clover, which is an older code coverage product open source by Atlassian in 2017, which as of this writing seems to be no longer maintained.
+> **[1:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=92)** The last is Clover, which is an older code coverage product open source by [[Atlassian]] in 2017, which as of this writing seems to be no longer maintained.
 >
 > **[1:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/measuring-code-coverage-with-jest?u=76281980&t=103)** Since Istanbul is already included in Jest, we don't need to install anything in order to use it.
 >
@@ -5352,7 +5302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Linux]] (1), api (1), product (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Linux]] (1), [[Atlassian]] (1)
 > **Env Vars:** html (4), lcov (3), nyc (1), ava (1), api (1)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1), go to (1), open the (1)
 > **Tools:** terminal (3), command line (1), vs code (1), visual studio (1)
@@ -5361,8 +5311,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), configure (1)
 > **File Paths:** istanbul.js (1)
 
-#### Functional testing with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980)
+#### [Functional testing with Jest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5382,15 +5331,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=37)** There's a number of different functional testing tools and this is not an exhaustive list.
 >
-> **[0:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=43)** Selenium WebDriver from [selenium.dev](https://selenium.dev) automates actual browsers using a standalone server and is fantastic for end-to-end testing.
+> **[0:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=43)** [[Selenium]] WebDriver from [selenium.dev](https://selenium.dev) automates actual browsers using a standalone server and is fantastic for [[End-to-end Testing]].
 >
 > **[0:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=53)** It's now recommended by the W3C for doing browser testing.
 >
 > **[0:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=57)** Two projects that use selenium are Nightwatch.js from [nightwatchjs.org](https://nightwatchjs.org) and WebdriverIO from [webdriver.io](https://webdriver.io).
 >
-> **[1:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=67)** A more lightweight option is SuperAgent from visionmedia.[github.io](https://github.io).
+> **[1:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=67)** A more lightweight option is SuperAgent from visionmedia.[[[GitHub]].io](https://github.io).
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=74)** SuperAgent is a small progressive client-side HTTP request library, and node.js module.
+> **[1:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=74)** SuperAgent is a small progressive client-side HTTP request library, and [[Node.js]] module.
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=82)** A project that uses SuperAgent is SuperTest, which makes assertions for testing node.js HTTP servers.
 >
@@ -5446,7 +5395,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=219)** Open up a terminal.
 >
-> **[3:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=221)** From the root directory, I'm going to use NPM to install SuperTest to the devDependencies dash capital D.
+> **[3:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=221)** From the root directory, I'm going to use [[npm]] to install SuperTest to the devDependencies dash capital D.
 >
 > **[3:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=230)** Press enter.
 >
@@ -5458,7 +5407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), application (6), [[Selenium]] (3), express (3), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Selenium]] (3), [[Node.js]] (2), [[End-to-end Testing]] (1), [[GitHub]] (1), [[npm]] (1)
 > **Env Vars:** http (4), w3c (1), npm (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1), [nightwatchjs.org](https://nightwatchjs.org) (1), [webdriver.io](https://webdriver.io) (1), [github.io](https://github.io) (1)
 > **Tools:** terminal (2), github (1), vs code (1)
@@ -5467,8 +5416,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), setup (1)
 > **Code Identifiers:** utest (1), devdependencies (1)
 
-#### Test doubles and Express apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980)
+#### [Test doubles and Express apps](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5530,7 +5478,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=181)** New line indent, then .expect, Then for the first argument, we're going to be looking at the header.
 >
-> **[3:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=189)** So content dash type, and then for the second a regular expression to look for slash HTML and then another slash.
+> **[3:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=189)** So content dash type, and then for the second a regular expression to look for slash [[HTML]] and then another slash.
 >
 > **[3:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=200)** We can also check for the HTTP status code, which we can do with a shorthand .expect and then the status code 200.
 >
@@ -5546,7 +5494,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=246)** We're going to run the tests, but this time I want to show more detail.
 >
-> **[4:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=250)** Maximize the terminal screen and then type npm test space dash dash space then dash dash verbose.
+> **[4:10](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=250)** Maximize the terminal screen and then type [[npm]] test space dash dash space then dash dash verbose.
 >
 > **[4:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=261)** Press enter.
 >
@@ -5580,11 +5528,11 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=343)** So this will be the code challenge for this chapter.
 >
-> **[5:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=346)** Finding texts on a static page is fairly easy, but what about functionally testing forms submissions?
+> **[5:46](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/test-doubles-and-express-apps?u=76281980&t=346)** Finding texts on a static page is fairly easy, but what about functionally testing [[Forms]] submissions?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), application (3), functional (2), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[npm]] (1), [[Forms]] (1)
 > **Env Vars:** http (4), html (1)
 > **Tools:** terminal (3), vs code (1)
 > **Prerequisites:** set up (2), setup (2)
@@ -5593,8 +5541,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** spec (1)
 
-#### Form submissions with SuperTest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980)
+#### [Form submissions with SuperTest](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5616,7 +5563,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=59)** This is a form.
 >
-> **[1:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=61)** Other options include JSON.
+> **[1:01](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=61)** Other options include [[JSON]].
 >
 > **[1:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=64)** This time, we're going to be sending information in the form of an object, which will be automatically encoded to a form submission.
 >
@@ -5634,7 +5581,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=146)** Switch back to the terminal.
 >
-> **[2:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=149)** Run the test to make sure it passes, npm test.
+> **[2:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=149)** Run the test to make sure it passes, [[npm]] test.
 >
 > **[2:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=155)** Great, no problems.
 >
@@ -5678,11 +5625,11 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=331)** What a relief. Everything is passing.
 >
-> **[5:34](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=334)** These functional tests are definitely slower than the rest of them so that could be an area for future optimization.
+> **[5:34](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=334)** These functional tests are definitely slower than the [[Representational State Transfer (REST)|rest]] of them so that could be an area for future optimization.
 >
 > **[5:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=341)** We're going to restore the panel size, destroy the terminal, and close up any open files.
 >
-> **[5:49](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=349)** Want to parse the HTML properly instead of just searching for text?
+> **[5:49](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=349)** Want to parse the [[HTML]] properly instead of just searching for text?
 >
 > **[5:53](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/form-submissions-with-supertest?u=76281980&t=353)** Check out cheerio.[js.org](https://js.org) for a server-side implementation of core jQuery without the browser cruft.
 >
@@ -5692,7 +5639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[npm]] (2), [[JSON]] (1), generic (1), database (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Code Identifiers:** mockinsert (3), tocontain (2), tobe (1), mockmorgan (1), mockresolvedvalue (1)
 > **CLI Commands:** make (3), npm (2)
 > **Tools:** terminal (3), vs code (1)
@@ -5701,8 +5648,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1), [js.org](https://js.org) (1)
 > **API Endpoints:** get  (1), post  (1)
 
-#### Fallacies of 100% test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980)
+#### [Fallacies of 100% test coverage](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5722,7 +5668,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=38)** Practically, a user of the system can't use 100% test coverage because it does not deliver new functionality.
 >
-> **[0:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=45)** Finally, 100% test coverage is not a substitute for peer code review.
+> **[0:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=45)** Finally, 100% test coverage is not a substitute for peer [[Code Review]].
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=51)** Okay, without out of the way, what does 100% test coverage look like?
 >
@@ -5758,7 +5704,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=140)** And are you ready?
 >
-> **[2:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=142)** Type npm test.
+> **[2:22](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=142)** Type [[npm]] test.
 >
 > **[2:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/fallacies-of-100-test-coverage?u=76281980&t=147)** There it is, the elusive 100%.
 >
@@ -5816,7 +5762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[npm]] (3), [[Code Review]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Code Review]] (1)
 > **UI Navigation:** go to (5), right-click (5), navigate to (2), scroll down (2), click on (1)
 > **CLI Commands:** npm (3), find (1)
 > **File Paths:** app.test.js (1), reservations.test.js (1), lib/schema/reservation.js (1)
@@ -5825,12 +5771,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Warnings:** caveat (1)
 
-#### Coverage with continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980)
+#### [Coverage with continuous integration](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=0)** - [Instructor] Code coverage can be reported automatically with a technique called continuous integration.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=0)** - [Instructor] Code coverage can be reported automatically with a technique called [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=5)** What's that ?
 >
@@ -5854,17 +5799,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=66)** I'll discuss each example in more detail.
 >
-> **[1:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=69)** They include jenkins, buildbot and spinnaker.
+> **[1:09](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=69)** They include [[Jenkins]], buildbot and spinnaker.
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=73)** Let's start with jenkins.
 >
-> **[1:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=75)** Jenkins from "[jenkins.io](https://jenkins.io)" is written in Java.
+> **[1:15](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=75)** Jenkins from "[jenkins.io](https://jenkins.io)" is written in [[Java]].
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=80)** It's highly extensible with configurations and plugins for virtually every task you can think of.
 >
 > **[1:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=86)** It's also the most popular continuous integration tool available.
 >
-> **[1:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=90)** Buildbot from "[builtbolt.net](https://builtbolt.net)" is a tool that is written in Python.
+> **[1:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=90)** Buildbot from "[builtbolt.net](https://builtbolt.net)" is a tool that is written in [[Python (Programming Language)|Python]].
 >
 > **[1:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=95)** Buildbot is used by large open source projects such as Mozilla WebKit and the Chromium browser.
 >
@@ -5872,21 +5817,21 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=105)** Spinnaker from "[spinnaker.io](https://spinnaker.io)" was written in Java by Netflix.
 >
-> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=110)** And since then, extended by Google.
+> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=110)** And since then, extended by [[Google]].
 >
-> **[1:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=112)** Spinnaker is explicitly designed for cloud platforms including support for Kubernetes, Google cloud platform, Amazon web services, Microsoft Azure, and Oracle cloud.
+> **[1:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=112)** Spinnaker is explicitly designed for cloud platforms including support for [[Kubernetes]], [[Google Cloud Platform (GCP)|Google cloud platform]], [[Amazon Web Services (AWS)|Amazon web services]], [[Microsoft Azure]], and Oracle cloud.
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=124)** If you're not comfortable running your own solution or feel it's better delegated considering continuous integration as a service.
 >
 > **[2:11](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=131)** There's a couple of different ways of getting it.
 >
-> **[2:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=134)** Multiple services now offer both code hosting, continuous integration and continuous delivery and deployment options.
+> **[2:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=134)** Multiple services now offer both code hosting, continuous integration and [[Continuous Delivery (CD)|continuous delivery]] and deployment options.
 >
-> **[2:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=141)** GitHub has actions which are available on "[github.com](https://github.com)."
+> **[2:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=141)** [[GitHub]] has actions which are available on "[github.com](https://github.com)."
 >
 > **[2:26](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=146)** GitLab's offering is called CI slash CD available on "[gitlab.com](https://gitlab.com)."
 >
-> **[2:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=151)** Bitbucket pipelines can be found on "[bitbucket.org](https://bitbucket.org)."
+> **[2:31](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=151)** [[Bitbucket]] pipelines can be found on "[bitbucket.org](https://bitbucket.org)."
 >
 > **[2:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/coverage-with-continuous-integration?u=76281980&t=155)** For more specifically focused CI and CD solution both CircleCI and Travis CI provide robust continuous integration, hosted solutions.
 >
@@ -5928,7 +5873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (9), [[Jenkins]] (4), ci (3), functional (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (9), [[Jenkins]] (4), [[Java]] (2), [[GitHub]] (2), [[Bitbucket]] (2)
 > **URLs:** [jenkins.io](https://jenkins.io) (1), [builtbolt.net](https://builtbolt.net) (1), [spinnaker.io](https://spinnaker.io) (1), [github.com](https://github.com) (1), [gitlab.com](https://gitlab.com) (1)
 > **Tools:** github (2), gitlab (2), bitbucket (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -5937,12 +5882,11 @@ created: 2026-05-02
 > **Warnings:** warning (1), keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Challenge: Isolate routes for faster tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-isolate-routes-for-faster-tests?u=76281980)
+#### [Challenge: Isolate routes for faster tests](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-isolate-routes-for-faster-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-isolate-routes-for-faster-tests?u=76281980&t=0)** - [Instructor] In this chapter, we saw that functional testing can be slower than just unit testing due to the complexity of setting up and tearing down the application.
+> **[0:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-isolate-routes-for-faster-tests?u=76281980&t=0)** - [Instructor] In this chapter, we saw that functional testing can be slower than just [[Unit Testing]] due to the complexity of setting up and tearing down the application.
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/challenge-isolate-routes-for-faster-tests?u=76281980&t=14)** How can we minimize that overhead and speed up testing?
 >
@@ -5958,13 +5902,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), functional (1), [[Unit Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Isolate routes for faster tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980)
+#### [Solution: Isolate routes for faster tests](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6132,7 +6075,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980&t=440)** Open up the terminal, then run the application.
 >
-> **[7:23](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980&t=443)** npm run start.
+> **[7:23](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980&t=443)** [[npm]] run start.
 >
 > **[7:27](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/solution-isolate-routes-for-faster-tests?u=76281980&t=447)** From the browser, navigate to local host port 3000.
 >
@@ -6194,7 +6137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), functional (4), next (4), application (4), [[npm]] (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **File Paths:** index.js (5), app.js (4), homepage.js (3), homepage.test.js (2), index.test.js (1)
 > **UI Navigation:** click on (4), go to (2), scroll up (2), scroll down (1), navigate to (1)
 > **CLI Commands:** npm (2), make (1)
@@ -6208,8 +6151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing and code quality goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-and-code-quality-goals?u=76281980)
+#### [Testing and code quality goals](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-and-code-quality-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6323,8 +6265,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to go from here?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980)
+#### [Where to go from here?](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6338,9 +6279,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=20)** Keep in mind the ultimate goal, which is to improve code quality.
 >
-> **[0:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=25)** There are some different plugins that can be used with ESLint that I didn't include.
+> **[0:25](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=25)** There are some different plugins that can be used with [[ESLint]] that I didn't include.
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=30)** For example, requiring valid JavaScript documentation on all functions.
+> **[0:30](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=30)** For example, requiring valid [[JavaScript]] documentation on all functions.
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=35)** ESLint used to include it built-in, but now they've been replaced with a plugin called eslint-plugin-jsdoc that analyzes the contents of docs and makes some great suggestions.
 >
@@ -6358,7 +6299,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=76)** CasperJS offers a headless WebKit, which is powerful and fast.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=81)** Selenium WebDriver along with Nightwatch.js and WebDriverIO uses entire browsers for maximum testing.
+> **[1:21](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=81)** [[Selenium]] WebDriver along with Nightwatch.js and WebDriverIO uses entire browsers for maximum testing.
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=89)** There's no one right answer.
 >
@@ -6372,9 +6313,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=118)** Compare their approaches and determine if they're a good fit for your needs.
 >
-> **[2:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=122)** Finally, we discussed continuous integration, which is used for automatic testing.
+> **[2:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=122)** Finally, we discussed [[Continuous Integration (CI)|continuous integration]], which is used for automatic testing.
 >
-> **[2:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=128)** What about the next step up with continuous delivery where code is automatically deployed?
+> **[2:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=128)** What about the next step up with [[Continuous Delivery (CD)|continuous delivery]] where code is automatically deployed?
 >
 > **[2:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/where-to-go-from-here?u=76281980&t=133)** That might sound risky, but with good testing and a rapid deployment process, developers can rapidly iterate and improve.
 >
@@ -6402,7 +6343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (1), functional (1), [[Selenium]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (1), [[Selenium]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **URLs:** [codacy.com](https://codacy.com) (1), [codecov.io](https://codecov.io) (1), [codeclimate.com](https://codeclimate.com) (1), [coveralls.io](https://coveralls.io) (1)
 > **File Paths:** nightwatch.js (1)
 > **CLI Commands:** make (1)

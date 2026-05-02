@@ -61,12 +61,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use and not use an AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980)
+#### [When to use and not use an AI agent](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=0)** Before we jump in and start using one of the most powerful tools for today's workforce, AI agents, I want us to start off by thinking about when it's best to use them and when it may not be ideal to use them.
+> **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=0)** Before we jump in and start using one of the most powerful tools for today's workforce, [[AI Agents]], I want us to start off by thinking about when it's best to use them and when it may not be ideal to use them.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=10)** I like to think of AI agents as super smart interns.
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=58)** Another great time to use AI agents is when you have low-stakes action items to complete, but they require a little bit of nuanced judgment.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=65)** Let's say you have a huge amount of customer support messages and you need to prioritize which ones are most urgent and require a quick response and deprioritize the ones that may be a little trivial and could have an automated response.
+> **[1:05](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=65)** Let's say you have a huge amount of [[Customer Support]] messages and you need to prioritize which ones are most urgent and require a quick response and deprioritize the ones that may be a little trivial and could have an automated response.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980&t=76)** Another task that AI agents could be helpful with in this context is looking at a large data set and spotting nuanced patterns that may take you hours to find if you were just sifting through that data on your own.
 >
@@ -112,21 +111,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (8), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (9)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** be careful (1)
 
-#### What to know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980)
+#### [What to know before starting](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=0)** The last step that we're going to take before we jump into an actual AI agent building interface is making sure that you're familiar with specific terms that are necessary to understand how AI agents actually work.
+> **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=0)** The last step that we're going to take before we jump into an actual AI agent building interface is making sure that you're familiar with specific terms that are necessary to understand how [[AI Agents]] actually work.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=10)** So we're going to go through a few terms and examples, and I'll be sure to attach a PDF that links to all this information.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=15)** First things first, what actually is an AI agent and how do you differentiate that from large language models like Claude, ChatGBT, or Gemini?
+> **[0:15](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=15)** First things first, what actually is an AI agent and how do you differentiate that from [[Large Language Models (LLM)|large language models]] like Claude, ChatGBT, or [[Gemini]]?
 >
 > **[0:23](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=23)** While a large language model is somewhat of a generalist and can be passively prompted to follow instructions, an AI agent workflow is actively created so that it can specifically execute instructions on your behalf.
 >
@@ -176,13 +174,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=187)** And this is just a small code that you can generate using either ChatGBT or one of these other large language model AI tools.
 >
-> **[3:15](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=195)** So those are just a few key terms that I think are important for us to learn before we get started, but the rest of the terms we're gonna learn as we're going along.
+> **[3:15](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=195)** So those are just a few key terms that I think are important for us to learn before we get started, but the [[Representational State Transfer (REST)|rest]] of the terms we're gonna learn as we're going along.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/what-to-know-before-starting?u=76281980&t=203)** I'll be sure to attach a handout with screenshots that has all these terms spelled out in more detail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), node (3), api (3), [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is an  (2), is called (1), stands for (1)
 > **Env Vars:** api (3), pdf (2)
 > **CLI Commands:** node (3)
@@ -194,14 +192,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of AI agent interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980)
+#### [Overview of AI agent interface](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=0)** The tool that we're going to be using for AI agent workflow creation is called N8n and it's designed to actually do a lot more than just create AI agent workflows.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=10)** You can actually automate a lot of different processes and workflows, but it's one of the best platforms to seamlessly integrate the APIs of your large language models like ChatGPT.
+> **[0:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=10)** You can actually automate a lot of different processes and workflows, but it's one of the best platforms to seamlessly integrate the APIs of your [[Large Language Models (LLM)|large language models]] like [[ChatGPT]].
 >
 > **[0:20](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=20)** So if we quickly scroll on the homepage here, we can see that this is what a lot of the user interface of N8n is actually going to look like.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=39)** The anthropic API, which is Claude's brains, is being used to power this AI agent tool.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=46)** And then this one also feeds into Slack and other profiles for its ultimate output.
+> **[0:46](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=46)** And then this one also feeds into [[Slack]] and other profiles for its ultimate output.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=53)** Once you've signed into it and created a profile and you can create a free trial on N8n.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=167)** You have to create a prompt very similarly to how you would engineer a prompt.
 >
-> **[2:51](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=171)** And this is something that can be found in a lot of other prompt engineering courses on LinkedIn Learning.
+> **[2:51](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=171)** And this is something that can be found in a lot of other [[Prompt Engineering]] courses on [[LinkedIn]] Learning.
 >
 > **[2:55](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=175)** For this simple prompt, I just wanted to summarize science and tech news from the last 24 hours.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=191)** And then I wanted to add links to each of the items at the end so that I could seamlessly click on them.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=198)** And then this is a little bit of JSON that's automatically put in here that we don't have to worry about.
+> **[3:18](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=198)** And then this is a little bit of [[JSON]] that's automatically put in here that we don't have to worry about.
 >
 > **[3:24](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=204)** But it just lets us know that that's today.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=246)** And you can actually select from this dropdown, specific model of GPT that you want to use.
 >
-> **[4:11](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=251)** Now, one important thing to understand about this is that the larger the models, the larger the parameters of the model, the more tokens and credits it burns, and the more money you have to spend overall to actually execute on this workflow from your API key side.
+> **[4:11](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=251)** Now, one important thing to understand about this is that the larger the models, the larger the parameters of the model, the more [[Tokens]] and credits it burns, and the more money you have to spend overall to actually execute on this workflow from your API key side.
 >
 > **[4:26](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=266)** For something as simple as this, I always like to use the mini models because not a lot of thinking is required.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=337)** From there, we can ask it to send a summary, this final output, to Gmail.
 >
-> **[5:43](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=343)** And so what you can do here in the dropdown is connect your Gmail account, which is pretty seamless in the most recent version of N8N, similar to how you can sign in with Google on a lot of platforms these days.
+> **[5:43](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=343)** And so what you can do here in the dropdown is connect your Gmail account, which is pretty seamless in the most recent version of N8N, similar to how you can sign in with [[Google]] on a lot of platforms these days.
 >
 > **[5:54](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980&t=354)** And then you can have it send to your preferred e-mail address.
 >
@@ -339,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), ai (7), prompt (5), data (4), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Slack]] (1), [[Prompt Engineering]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (10), rss (4), json (1), gpt (1), url (1)
 > **UI Navigation:** dropdown (3), go to (2), click on (2)
 > **CLI Commands:** make (3), find (2), node (1)
@@ -348,14 +345,13 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Code Identifiers:** chatgbt (1)
 
-#### Building an AI agent workflow using a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980)
+#### [Building an AI agent workflow using a template](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=0)** A tedious task that's a part of a lot of our workplace responsibilities is sifting through large amounts of data in spreadsheets and analyzing them accurately and forming conclusions about the data.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=9)** This is already a task that you can complete with large language models like ChatGBT, Cloud, or Gemini, but the problem is it's not as precise, reliable, or scalable.
+> **[0:09](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=9)** This is already a task that you can complete with [[Large Language Models (LLM)|large language models]] like ChatGBT, Cloud, or [[Gemini]], but the problem is it's not as precise, reliable, or scalable.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=19)** For example, I've had the experience of uploading large amounts of data to these tools only to see them actually hallucinate information that's in the spreadsheets or completely misrepresent the data.
 >
@@ -397,13 +393,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=121)** So now this is imported our template.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=123)** The purpose of this workflow is to be able to have conversations with your data that has been created in Google Sheets and extrapolate different outcomes without having to sift through all that data on your own.
+> **[2:03](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=123)** The purpose of this workflow is to be able to have conversations with your data that has been created in [[Google]] Sheets and extrapolate different outcomes without having to sift through all that data on your own.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=135)** This user was nice enough to provide a tutorial to get all this stuff set up and loaded in.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=140)** And we can pretty much follow these instructions to the T and easily get set up.
 >
-> **[2:24](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=144)** The first thing you want to do is set up your OpenAI API key credentials.
+> **[2:24](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=144)** The first thing you want to do is set up your [[OpenAI API]] key credentials.
 >
 > **[2:28](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=148)** Now in the previous video, we talked about going to OpenAI's website, finding that code, and then copying it, not sharing it with anybody else, and then pasting it when N8n asks you to in the prompt.
 >
@@ -491,7 +487,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=420)** So when you think about doing something repeatable and scalable, this is a great way to essentially if you upload your spreadsheets in the same format every time, you can continuously have conversations with your data over and over again and not have to go with a fine tooth comb and check behind these sheets.
 >
-> **[7:18](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=438)** Now because you're dealing with data that's a little bit sensitive, that's financial data, of course I would encourage you to remove the actual names from the spreadsheet if you actually do upload this into N8n's user interface.
+> **[7:18](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=438)** Now because you're dealing with data that's a little bit sensitive, that's [[Financial Data]], of course I would encourage you to remove the actual names from the spreadsheet if you actually do upload this into N8n's user interface.
 >
 > **[7:29](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-using-a-template?u=76281980&t=449)** Even though this is supposed to be a secure platform, I just like to take the extra step of making my data that much more secure.
 >
@@ -503,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Google]] (5), ai (4), prompt (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1), [[OpenAI API]] (1), [[Financial Data]] (1)
 > **CLI Commands:** find (7), make (1)
 > **Exercise Files:** template (8)
 > **UI Navigation:** click on (3), go to (2)
@@ -512,8 +508,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), imagine (1), just like (1)
 > **Prerequisites:** set up (3)
 
-#### Building an AI agent workflow from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980)
+#### [Building an AI agent workflow from scratch](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +606,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=265)** So now that we've extracted the data from our initial PDF file upload, we want to prepare an AI prompt that's gonna give us some negotiation tactics and a quick and easy to read summary of the contract so that we don't have to sift through these long, dense PDFs anymore.
 >
-> **[4:41](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=281)** What I'm gonna do here is I'm gonna add another field and I'm gonna go to data transformation and edit fields.
+> **[4:41](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=281)** What I'm gonna do here is I'm gonna add another field and I'm gonna go to [[Data Transformation]] and edit fields.
 >
 > **[4:48](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=288)** Okay, so for this, we can keep the mode on manual mapping and we're gonna add some fields.
 >
@@ -625,7 +620,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=313)** So that's what we're going to try.
 >
-> **[5:14](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=314)** We're going to jump on over to ChatGPT and say, I am building an NAI agent workflow for analysis of contracts.
+> **[5:14](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=314)** We're going to jump on over to [[ChatGPT]] and say, I am building an NAI agent workflow for analysis of contracts.
 >
 > **[5:27](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=327)** I'd like to have an API analyze the contracts.
 >
@@ -639,7 +634,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=366)** So I'm going to hit send on this.
 >
-> **[6:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=370)** This step may require a little bit of troubleshooting and prompt engineering and iteration.
+> **[6:10](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=370)** This step may require a little bit of troubleshooting and [[Prompt Engineering]] and iteration.
 >
 > **[6:14](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=374)** And you wanna keep iterating on this prompt that it's creating until you get the exact output that you want.
 >
@@ -777,7 +772,7 @@ created: 2026-05-02
 >
 > **[12:59](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=779)** This is a very simple AI agent workflow that we're able to build with no code, but what's really exciting are all the things that are possible using N8n and a variety of different tools.
 >
-> **[13:08](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=788)** You can incorporate Slack, WhatsApp, and so many other web tools.
+> **[13:08](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=788)** You can incorporate [[Slack]], WhatsApp, and so many other web tools.
 >
 > **[13:12](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/building-an-ai-agent-workflow-from-scratch?u=76281980&t=792)** You can make videos using these things.
 >
@@ -791,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), node (14), prompt (13), data (4), api (4)
+> **Frameworks & Libraries:** [[Data Transformation]] (1), [[ChatGPT]] (1), [[Prompt Engineering]] (1), [[Slack]] (1)
 > **Env Vars:** pdf (18), api (4), url (2), n8n (1), nai (1)
 > **CLI Commands:** node (14), make (12)
 > **Definitions:** is a  (4), is an  (1)

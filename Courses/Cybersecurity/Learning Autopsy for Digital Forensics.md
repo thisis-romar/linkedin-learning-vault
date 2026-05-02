@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hey, where's the data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
+#### [Hey, where's the data?](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=0)** - Between being at the office, being at home, or at school, we are always using our computers.
+> **[0:00](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=0)** - Between being at the [[Microsoft Office|office]], being at home, or at school, we are always using our computers.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=5)** And unfortunately, things do happen.
 >
@@ -98,13 +97,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=24)** Autopsy can be used by anyone to retrieve deleted files and folders that were emptied from the Recycling Bin.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=31)** Whether you are a cybersecurity professional, law enforcement, or a hobbyist, there is something for you to learn with this course.
+> **[0:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=31)** Whether you are a [[Cybersecurity]] professional, law enforcement, or a hobbyist, there is something for you to learn with this course.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=37)** Being able to reconstruct a person's activity on a computer and establish a timeline is something that everyone can benefit from.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=45)** How you doin', my name is Bennet Hendrix III, a.k.a. CyberBennett.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=49)** I am currently a SOC analyst at a global company, and I have a strong passion for digital forensics.
+> **[0:49](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=49)** I am currently a SOC analyst at a global company, and I have a strong passion for [[Digital Forensics]].
 >
 > **[0:54](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980&t=54)** I have used Autopsy countless times, and I say all this to say you are in good hands with this course.
 
@@ -114,8 +113,7 @@ created: 2026-05-02
 > **Env Vars:** iii (1), soc (1)
 > **Speakers:** - between (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/getting-the-most-out-of-this-course?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/getting-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,7 +135,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), data (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - h (1)
 
@@ -146,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and installation of Autopsy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
+#### [Introduction and installation of Autopsy](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980&t=119)** Whereas multi-user is opened by multiple users who are able to see what each other is doing and collaborate and requires installation and configuration of other network-based services.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980&t=130)** Before beginning our Autopsy workflow video, I would like to assure you that you may see a prompt from Windows that Autopsy wants to communicate with other devices on your network.
+> **[2:10](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980&t=130)** Before beginning our Autopsy workflow video, I would like to assure you that you may see a prompt from [[Windows]] that Autopsy wants to communicate with other devices on your network.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980&t=139)** In order to do this, Autopsy wants to open some firewall ports on your network.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Security]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **Prerequisites:** install (3)
 > **URLs:** [autopsy.com](https://autopsy.com) (1)
@@ -224,8 +220,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Autopsy workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/autopsy-workflow?u=76281980)
+#### [Autopsy workflow](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/autopsy-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,13 +254,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a case
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/creating-a-case?u=76281980)
+#### [Creating a case](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/creating-a-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (6), [[Search]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1), next video (1)
 > **Analogies:** such as (2)
@@ -337,8 +329,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What data sources are allowed?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980)
+#### [What data sources are allowed?](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +413,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980&t=212)** You have in case files, which have the extension dot E01, dot E02 et cetera.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980&t=218)** And you have virtual machines, which is the dot VMDK and dot BHD.
+> **[3:38](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980&t=218)** And you have [[Virtual Machines]], which is the dot VMDK and dot BHD.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/what-data-sources-are-allowed?u=76281980&t=225)** After you select the file types, you will also see the option to ignore orphan files and FAT file systems.
 >
@@ -474,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (8), feature (1), product (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1)
 > **Env Vars:** xry (3), usb (1), gps (1), nvm (1), e01 (1)
 > **UI Navigation:** select the (6), navigate to (1), scroll down (1)
 > **Analogies:** such as (6), for example (2)
@@ -482,8 +473,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), next chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing case logs and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980)
+#### [Viewing case logs and output](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +501,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980&t=69)** This will be beneficial if you have Autopsy open, of course you will want to come here via the menu.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980&t=75)** However, if Autopsy is closed, you can visit this location by using the Windows Explorer.
+> **[1:15](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980&t=75)** However, if Autopsy is closed, you can visit this location by using the [[Windows]] Explorer.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/viewing-case-logs-and-output?u=76281980&t=83)** This may save time, especially if you have a large case and multiple data sources, and it takes a while for your case to actually load itself.
 >
@@ -537,15 +527,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** in the menu (2), scroll down (2), go to (1), open the (1), right-click (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: View case logs and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-view-case-logs-and-output?u=76281980)
+#### [Challenge: View case logs and output](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-view-case-logs-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,14 +554,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** next video (1)
 > **Speakers:** - for (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: View case logs and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-view-case-logs-and-output?u=76281980)
+#### [Solution: View case logs and output](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-view-case-logs-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +613,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (1)
 > **UI Navigation:** go to (2), click on (2), in the menu (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
@@ -639,8 +625,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Utilizing Automated Analysis in Autopsy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
+#### [Utilizing Automated Analysis in Autopsy](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=7)** After adding a data source to a case, you will be presented with a dialogue that will let you configure what should be analyzed on that data.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=16)** This will be ran in the background, providing you with real-time results.
+> **[0:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=16)** This will be ran in the background, providing you with [[Real-Time]] results.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=20)** There are three ways to start these modules.
 >
@@ -662,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=50)** When configuring in Ingest modules, you will be presented with an interface to choose which files to analyze and enable or disable for each module.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=58)** For example, we are not given an image of a mobile phone, so we will not need the Android analyzer module.
+> **[0:58](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=58)** For example, we are not given an image of a mobile phone, so we will not need the [[Android]] analyzer module.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980&t=66)** However, if you later receive this evidence as a part of another case, you can use this process to enable it so that the module will be ran.
 >
@@ -778,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Android]] (2), next (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Real-Time]] (1)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** recommended (3), bad practice (1)
@@ -787,8 +772,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Definitions:** is an  (1)
 
-#### The Extension Mismatch and USB device-attached modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980)
+#### [The Extension Mismatch and USB device-attached modules](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,13 +818,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=116)** I will give about a good five second pause, so you can look and try identifying any files that may look kind of sketchy.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=124)** You can tell certain files are irrelevant and unsuspicious by their name and unity.
+> **[2:04](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=124)** You can tell certain files are irrelevant and unsuspicious by their name and [[Unity]].
 >
 > **[2:08](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=128)** As the naming scheme looks like something, a computer will automate.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=133)** However, if you scroll down, Lesson 4.docx file and the H+ executable file are both something that may be of interest.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=142)** Mainly because the docx file being a windows word file, and the H+ executable being named after the victim.
+> **[2:22](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=142)** Mainly because the docx file being a [[Windows]] [[Microsoft Word|word]] file, and the H+ executable being named after the victim.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-extension-mismatch-and-usb-device-attached-modules?u=76281980&t=151)** And what other reason would there be for our victim H+ sports to have an executable.
 >
@@ -886,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (2), application (2), next (2), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Unity]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Env Vars:** usb (4), pdf (1)
 > **CLI Commands:** find (1), make (1)
@@ -895,8 +879,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Recent Activity and Interesting Files modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980)
+#### [The Recent Activity and Interesting Files modules](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,13 +891,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=18)** Reg ripper is an open source tool that is used for data extraction and correlation.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=23)** It uses plugins to fetch frequently needed information during an investigation on a windows device.
+> **[0:23](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=23)** It uses plugins to [[Fetch]] frequently needed information during an investigation on a [[Windows]] device.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=28)** It assesses the registry high files to extract specific keys, values and data.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=34)** The registry is a database that stores low-level settings for the windows operating system.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=39)** Its purpose is to help programs use the computers resources and contains complex information about the applications, documents created hardware and much more.
+> **[0:39](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=39)** Its purpose is to help programs use the computers resources and contains complex information about the applications, documents created [[Hardware]] and much more.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-recent-activity-and-interesting-files-modules?u=76281980&t=50)** These functionalities are why autopsy incorporated these tools.
 >
@@ -1014,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (3), [[Windows]] (3), next (3), database (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Fetch]] (1), [[Hardware]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for example (1), it's like (1)
@@ -1023,8 +1006,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 
-#### Installing third-party modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980)
+#### [Installing third-party modules](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,9 +1016,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=12)** This is a tricky topic as for any digital forensic case, your data extraction methods must be forensically sound.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=18)** And forensically sound simply refers to the process by which data is collected for E-discovery without any changes to the data or metadata itself.
+> **[0:18](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=18)** And forensically sound simply refers to the process by which data is collected for E-discovery without any changes to the data or [[Metadata]] itself.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=26)** So to be forensically sound, a data collection process must be defensible, meaning that it must be consistent, repeatable and well documented.
+> **[0:26](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=26)** So to be forensically sound, a [[Data Collection]] process must be defensible, meaning that it must be consistent, repeatable and well documented.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=34)** Assuming a third party module does follow this, here's how you will be able to install the module into your case.
 >
@@ -1062,7 +1044,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=91)** Of course, this depends on your data speed.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=94)** Afterwards, go back to your Autopsy window, go to tools and go to Python plugins.
+> **[1:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=94)** Afterwards, go back to your Autopsy window, go to tools and go to [[Python (Programming Language)|Python]] plugins.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/installing-third-party-modules?u=76281980&t=102)** You will see a window that you need to copy and paste.
 >
@@ -1116,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), application (2), [[Metadata]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (1), [[Data Collection]] (1)
 > **UI Navigation:** go to (10), select the (2)
 > **Prerequisites:** install (5)
 > **CLI Commands:** python (2)
@@ -1125,8 +1107,7 @@ created: 2026-05-02
 > **URLs:** [autopsy.com](https://autopsy.com) (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Install a third-party module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-install-a-third-party-module?u=76281980)
+#### [Challenge: Install a third-party module](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-install-a-third-party-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,15 +1135,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Install a third-party module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980)
+#### [Solution: Install a third-party module](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1189,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980&t=149)** And, oh, look, now we got the Learning Files itself that were identified.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980&t=153)** So right now we're at a 1%, so we're going to wait until it's done identifying the rest of the results, if there are more of course.
+> **[2:33](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980&t=153)** So right now we're at a 1%, so we're going to wait until it's done identifying the [[Representational State Transfer (REST)|rest]] of the results, if there are more of course.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-install-a-third-party-module?u=76281980&t=162)** However, we won't really know until it's completely done.
 >
@@ -1230,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), scroll down (2), select the (1)
 > **Env Vars:** url (2), jpeg (2), mime (1)
 > **CLI Commands:** find (1)
@@ -1244,8 +1223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### UI layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
+#### [UI layout](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,7 +1367,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=376)** Additionally, right-clicking allows you to do a few things such as accessing the file in the external viewer.
 >
-> **[6:23](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=383)** So for example, opening an HTML file in Chrome or a document in a text editor, such as Notepad.
+> **[6:23](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=383)** So for example, opening an [[HTML]] file in Chrome or a document in a text editor, such as Notepad.
 >
 > **[6:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=391)** You can also extract files, which allows you to save a local copy for further analysis, which you may want to include it in your documentation, or analyze it with another forensics program.
 >
@@ -1409,7 +1387,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=448)** And with this being on the bottom right, we can enlarge this as to the size of your preference.
 >
-> **[7:33](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=453)** The content viewer itself shows the pictures, the videos, the text, metadata, the operating system, account information, and much more.
+> **[7:33](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=453)** The content viewer itself shows the pictures, the videos, the text, [[Metadata]], the operating system, account information, and much more.
 >
 > **[7:44](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=464)** The hex tab is usually available.
 >
@@ -1437,7 +1415,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=523)** The applications have itself will display the files in a friendly manner if it's a common file type.
 >
-> **[8:49](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=529)** So for example, if we have videos, pictures, you know, SQL databases, HTML files, and registry high files.
+> **[8:49](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=529)** So for example, if we have videos, pictures, you know, [[SQL]] [[Databases]], HTML files, and registry high files.
 >
 > **[8:55](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=535)** However, you will see that in this instance it's actually is not highlighted.
 >
@@ -1475,11 +1453,11 @@ created: 2026-05-02
 >
 > **[10:12](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=612)** I only want to give you a high level overview of the interface to help you follow along.
 >
-> **[10:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=616)** As we work in Autopsy through the rest of this course, you will become more confident and familiar and comfortable with this display and interface.
+> **[10:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980&t=616)** As we work in Autopsy through the [[Representational State Transfer (REST)|rest]] of this course, you will become more confident and familiar and comfortable with this display and interface.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (5), next (2), [[HTML]] (2), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Metadata]] (1), [[SQL]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (7), such as (3), picture (1)
 > **Env Vars:** csv (2), html (2), usb (1), png (1), jpeg (1)
 > **Definitions:** is a  (2), means that (2), is an  (1), known as (1), stands for (1)
@@ -1488,8 +1466,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [instructor] (1)
 
-#### The image and video gallery
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980)
+#### [The image and video gallery](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1573,7 +1550,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980&t=287)** You can right-click on an image to categorize or tag an individual image.
 >
-> **[4:50](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980&t=290)** So, for example, you know if you want to categorize, says, okay, this is Windows in the Cloud, well, that's not really important.
+> **[4:50](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980&t=290)** So, for example, you know if you want to categorize, says, okay, this is [[Windows]] in the Cloud, well, that's not really important.
 >
 > **[4:57](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-image-and-video-gallery?u=76281980&t=297)** All right, now I'm printin it.
 >
@@ -1585,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (2), next (1), [[Windows]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** nsrl (6), rds (3), nis (1), fyi (1)
 > **Analogies:** for example (4), such as (2), picture (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
@@ -1593,8 +1570,7 @@ created: 2026-05-02
 > **URLs:** [sourceforge.net](https://sourceforge.net) (2)
 > **Speakers:** - [instructor] (1)
 
-#### The timeline tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980)
+#### [The timeline tool](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1598,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=67)** Lastly, enable any other ingest that you think could be useful.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=70)** So for example, if we were analyzing a tablet, we want to enable the Android Analyzer module.
+> **[1:10](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=70)** So for example, if we were analyzing a tablet, we want to enable the [[Android]] Analyzer module.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=76)** So in this instance, it could be whatever we decide.
 >
@@ -1654,7 +1630,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=154)** Using the same example, you can use this to look at what happened after the successful login.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=160)** You may notice that the user went to the Google Drive and uploaded a few files affecting that Gmail account.
+> **[2:40](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=160)** You may notice that the user went to the [[Google Drive]] and uploaded a few files affecting that Gmail account.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/the-timeline-tool?u=76281980&t=167)** Both lists and details would be useful with filters that will reduce the number of events shown.
 >
@@ -1678,7 +1654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (3), data (3), web (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Google Drive]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (2), for example (2), such as (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -1692,8 +1668,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Searching for keywords and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
+#### [Searching for keywords and files](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1723,7 +1698,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=50)** These results are populated in the top, right window of the browser.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=55)** So to give you a quick example, I will populate anything with the word example in it.
+> **[0:55](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=55)** So to give you a quick example, I will populate anything with the [[Microsoft Word|word]] example in it.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=63)** And there you go.
 >
@@ -1769,7 +1744,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=159)** And you want all instances.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=161)** For example, data, this can result with database, data, or metadata.
+> **[2:41](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=161)** For example, data, this can result with database, data, or [[Metadata]].
 >
 > **[2:47](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980&t=167)** For regular expressions, these can be used for specific patterns and regular expressions support, many kinds of wild cards.
 >
@@ -1825,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), data (5), [[Microsoft Word|Word]] (4), next (2), node (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Metadata]] (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **Analogies:** for example (3)
 > **File Paths:** h-sport-employee-info.csv (2)
@@ -1834,8 +1809,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (2)
 
-#### Tagging
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980)
+#### [Tagging](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,7 +1879,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=145)** There's an option to tag a group of items as well.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=148)** You can simply highlight all the items you will want to tag by clicking the first one, and then going to whatever other files you want to add, select shift and select the rest.
+> **[2:28](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=148)** You can simply highlight all the items you will want to tag by clicking the first one, and then going to whatever other files you want to add, select shift and select the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:40](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=160)** Once you right-click, you can click Add Results, and add it to whatever you decide you may need to.
 >
@@ -1917,7 +1891,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=191)** This allows you to tag a portion of an image when you are viewing it in Content Viewer.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=196)** This feature is only available for Windows.
+> **[3:16](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=196)** This feature is only available for [[Windows]].
 >
 > **[3:18](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/tagging?u=76281980&t=198)** However, to perform this action, you need to have selected an image in the results viewer.
 >
@@ -1971,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (6), select the (2), right-click (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
@@ -1980,12 +1954,11 @@ created: 2026-05-02
 > **Env Vars:** jpeg (1)
 > **Prerequisites:** you need to have (1)
 
-#### Generating reports in Autopsy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980)
+#### [Generating reports in Autopsy](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=0)** - [Instructor] The report module allows the user to extract key information from a case in a variety of formats, which include HTML, Excel, Text, CSV, just to name a few.
+> **[0:00](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=0)** - [Instructor] The report module allows the user to extract key information from a case in a variety of formats, which include [[HTML]], [[Microsoft Excel|Excel]], Text, CSV, just to name a few.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=11)** Most report types require you to select which data source to include.
 >
@@ -2039,7 +2012,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=163)** You will then have a list of items to include in the report that you can select or de-select, similar to HTML files.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=175)** And if you use Google Earth KML, this will create a KML file from any GPS data in the case and is used with Google Earth.
+> **[2:55](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=175)** And if you use [[Google]] Earth KML, this will create a KML file from any GPS data in the case and is used with Google Earth.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/generating-reports-in-autopsy?u=76281980&t=183)** And now we have finally covered all the chapters in the learning autopsy course.
 >
@@ -2047,15 +2020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Excel|Excel]] (4), data (4), next (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Excel|Excel]] (4), [[Google]] (2)
 > **Env Vars:** html (5), csv (2), kml (2), gps (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
 > **CLI Commands:** find (1), node (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Search for all instances of a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-search-for-all-instances-of-a-file?u=76281980)
+#### [Challenge: Search for all instances of a file](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/challenge-search-for-all-instances-of-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2073,15 +2045,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Search for all instances of a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980)
+#### [Solution: Search for all instances of a file](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,7 +2065,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980&t=34)** So if we increase this, you see the logo.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980&t=38)** And going to File Metadata, you're able to grab the MD5 hash.
+> **[0:38](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980&t=38)** And going to File [[Metadata]], you're able to grab the MD5 hash.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/solution-search-for-all-instances-of-a-file?u=76281980&t=45)** I'm going to Control C to copy it, since I don't have the option to right-click and copy it.
 >
@@ -2145,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), application (2), [[Metadata]] (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Env Vars:** md5 (4), sha (3), mime (1), sport (1)
 > **UI Navigation:** go to (3), right-click (2), select the (1)
 > **CLI Commands:** find (1)
@@ -2159,8 +2129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps: Create your own case and analyze your files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)
+#### [Next steps: Create your own case and analyze your files](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2172,7 +2141,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980&t=18)** They do have a blog that's fairly active, and in case you want to find additional resources and training available, you can find disc images online through various websites or image your own desktop for your own analysis.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980&t=31)** To remain in contact with me, you can add me on LinkedIn, or you can also go to [cyberbennett.com](https://cyberbennett.com).
+> **[0:31](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980&t=31)** To remain in contact with me, you can add me on [[LinkedIn]], or you can also go to [cyberbennett.com](https://cyberbennett.com).
 >
 > **[0:37](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980&t=37)** Thanks for watching. Good luck, thanks.
 

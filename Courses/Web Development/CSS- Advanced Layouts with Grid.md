@@ -112,18 +112,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to CSS Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
+#### [Welcome to CSS Grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=0)** - Have you ever seen a really interesting web layout and wanted to recreate it, but weren't sure how?
 >
-> **[0:05](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=5)** Or has a designer ever handed off a Figma file for you to convert into a layout and you're thinking, "How am I going to pull that off?"
+> **[0:05](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=5)** Or has a designer ever handed off a [[Figma (Software)|Figma]] file for you to convert into a layout and you're thinking, "How am I going to pull that off?"
 >
 > **[0:12](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=12)** Well, you don't have to wonder anymore.
 >
-> **[0:15](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=15)** In this course, we'll explore the CSS Grid Layout Module and how you can use it to create two dimensional responsive layouts for the web.
+> **[0:15](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=15)** In this course, we'll explore the [[CSS Grid Layout]] Module and how you can use it to create two dimensional responsive layouts for the web.
 >
 > **[0:23](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980&t=23)** We'll start by getting you oriented with the grid specification.
 >
@@ -141,24 +140,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (2), [[Figma (Software)|Figma]] (1), hit (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[CSS Grid Layout]] (1)
 > **Env Vars:** css (3)
 > **Documentation:** specification (1)
 > **Tools:** figma (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is all about the CSS grid layout module.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is all about the [[CSS Grid Layout]] module.
 >
 > **[0:04](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=4)** You'll get the most from this course if you already have a solid understanding of how CSS works.
 >
 > **[0:09](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=9)** If you need a refresher on the basics of CSS, I'd recommend checking out our library and going through the CSS essential training course for a deep dive into all things CSS or the CSS Fundamentals course for a quick primer.
 >
-> **[0:24](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=24)** Next, this course assumes you have a basic working knowledge of HTML and how HTML works with CSS..
+> **[0:24](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=24)** Next, this course assumes you have a basic working knowledge of [[HTML]] and how HTML works with CSS..
 >
 > **[0:30](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-you-should-know?u=76281980&t=30)** And if you want to follow along with the exercise files, you'll want to be familiar with working both with a code editor and browser developer tools.
 >
@@ -166,18 +164,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[CSS Grid Layout]] (1)
 > **Env Vars:** css (7), html (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] For this course, we're using GitHub Codespaces for the exercise files I show in the course.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] For this course, we're using [[GitHub]] [[Codespaces]] for the exercise files I show in the course.
 >
 > **[0:05](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-github-codespaces-with-this-course?u=76281980&t=5)** In order to open up GitHub Codespaces for this project, there are two ways to get there.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (4), feature (1)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (4)
 > **Tools:** github (4)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Definitions:** stands for (2)
@@ -235,22 +232,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is CSS Grid?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
+#### [What is CSS Grid?](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=0)** - [Instructor] CSS Grid is a powerful layout system that revolutionized web design.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=0)** - [Instructor] CSS Grid is a powerful layout system that revolutionized [[Web Design]].
 >
 > **[0:05](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=5)** Before Grid, CSS didn't give us a lot of tools for creating complex layouts, so we relied on clunky or even hacky techniques, like using tables in ways they weren't meant to be used, floating elements or heavily nesting divs or other markup.
 >
 > **[0:21](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=21)** Then CSS Frameworks came along and helped us achieve grid-style layouts through the use of predefined columns.
 >
-> **[0:28](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=28)** These typically involved very opinionated HTML markup and ready-made CSS classes.
+> **[0:28](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=28)** These typically involved very opinionated [[HTML]] markup and ready-made CSS classes.
 >
 > **[0:34](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=34)** While they were certainly better than previous methods, they were still limited and forced us to up our HTML in a very regimented way.
 >
-> **[0:41](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=41)** Finally, the CSS Grid layout module came along, and we've seen increasing adoption of it since 2017.
+> **[0:41](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=41)** Finally, the [[CSS Grid Layout]] module came along, and we've seen increasing adoption of it since 2017.
 >
 > **[0:48](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980&t=48)** Grid gives us unprecedented control over positioning elements within a two dimensional space.
 >
@@ -260,13 +256,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Web Design]] (1), [[CSS Grid Layout]] (1)
 > **Env Vars:** css (5), html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grid terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-terminology?u=76281980)
+#### [Grid terminology](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,15 +335,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - css (1)
 
-#### Create a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980)
+#### [Create a grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,13 +351,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=10)** It's got a series of boxes with different background colors and each one is tagged with a class name, so it'll be easy to identify which one we're working with.
 >
-> **[0:19](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=19)** You're welcome to open up the Exercise Files for this lesson in Codespaces.
+> **[0:19](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=19)** You're welcome to open up the Exercise Files for this lesson in [[Codespaces]].
 >
 > **[0:24](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=24)** So, we're in Chapter 1, and note I'm starting in 01_03b, where b stands for beginning.
 >
 > **[0:32](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=32)** Any changes I make during this lesson will be reflected in 01_03e, where e stands for the end state of the files after this lesson.
 >
-> **[0:42](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=42)** So, let's go ahead and open up 01_03b and this index.html.
+> **[0:42](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=42)** So, let's go ahead and open up 01_03b and this index.[[HTML]].
 >
 > **[0:48](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=48)** Now, this is the code for what we were just looking at in the browser.
 >
@@ -372,7 +365,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=57)** First, we've got the skip-link for accessibility, and even though it's a direct descendant of site, it won't be placed on our Grid, and that's because this is styled using absolute positioning, removing it from the normal flow of the document.
 >
-> **[1:11](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=71)** The rest of our first-level descendants include this header with a class of masthead, a div with a class of page-title, main with the class of main-content, and we have an aside and a footer.
+> **[1:11](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=71)** The [[Representational State Transfer (REST)|rest]] of our first-level descendants include this header with a class of masthead, a div with a class of page-title, main with the class of main-content, and we have an aside and a footer.
 >
 > **[1:23](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-a-grid?u=76281980&t=83)** So, in the browser, these elements show up one after the other, exactly as we would expect.
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Codespaces]] (1), [[Representational State Transfer (REST)|Rest]] (1), css (1), dom (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Codespaces]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** right-click (1), click on (1), toggle (1)
 > **File Paths:** index.html (1), style-grid.css (1)
@@ -437,8 +430,7 @@ created: 2026-05-02
 > **Definitions:** stands for (2)
 > **Exercise Files:** exercise files (1)
 
-#### Grid lines and units
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980)
+#### [Grid lines and units](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980&t=18)** Let's click on this to see the documentation, and just as an example, each of those properties takes a space-separated list of values, and the size values are what determine the width of columns and the height of the rows within a grid.
 >
-> **[0:31](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980&t=31)** Let's head over to Codespaces, and I'll show you what I mean.
+> **[0:31](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980&t=31)** Let's head over to [[Codespaces]], and I'll show you what I mean.
 >
 > **[0:35](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-lines-and-units?u=76281980&t=35)** Right now, we've got our grid container, and by default, this has one column that spans the full width of the grid.
 >
@@ -564,7 +556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1)
 > **Exercise Files:** template (11)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (2)
@@ -573,8 +565,7 @@ created: 2026-05-02
 > **Versions:** 33.33333 (1)
 > **Cross-References:** go back to (1)
 
-#### Placing grid items
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/placing-grid-items?u=76281980)
+#### [Placing grid items](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/placing-grid-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +707,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), feature (1), dom (1), power (1), next (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** css (3)
 > **UI Navigation:** scroll up (1)
@@ -724,8 +714,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grid areas
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-areas?u=76281980)
+#### [Grid areas](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-areas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +884,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (3), power (1)
 > **Exercise Files:** template (18)
 > **Env Vars:** css (6)
 > **CLI Commands:** make (3)
@@ -903,9 +891,9 @@ created: 2026-05-02
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is called (1), is an  (1)
 > **UI Navigation:** in the sidebar (1)
+> **Speakers:** - it (1)
 
-#### Named grid lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980)
+#### [Named grid lines](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,7 +951,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=152)** And we want that to go all the way to outer-end, which is that fourth grid line.
 >
-> **[2:37](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=157)** And I'll go ahead and update the rest of these.
+> **[2:37](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=157)** And I'll go ahead and update the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[2:45](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=165)** I'll save that.
 >
@@ -979,7 +967,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=195)** For starters, you can name these lines anything you want with the exception of the keyword, span.
 >
-> **[3:21](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=201)** Also, just make sure that if there's more than one word, like this outer-start, you're using a hyphen, not a space or an underscore.
+> **[3:21](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=201)** Also, just make sure that if there's more than one [[Microsoft Word|word]], like this outer-start, you're using a hyphen, not a space or an underscore.
 >
 > **[3:29](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/named-grid-lines?u=76281980&t=209)** You can also name a line more than one thing.
 >
@@ -1016,8 +1004,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grid gap
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-gap?u=76281980)
+#### [Grid gap](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-gap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,13 +1064,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), css (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [speaker] (1)
 
-#### Grid alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-alignment?u=76281980)
+#### [Grid alignment](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/grid-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,7 +1124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), css (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** css (1), mdn (1)
 > **CLI Commands:** find (1)
@@ -1152,14 +1136,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use Grid?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
+#### [When to use Grid?](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980&t=0)** - [Instructor] CSS gives us a lot of layout options for the web, though grid is the most powerful method we have.
 >
-> **[0:06](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980&t=6)** That said, allow me to give you a quick overview of the CSS flexbox layout module as compared to grid, and when you might choose to use one over the other, or even use a combination of both.
+> **[0:06](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980&t=6)** That said, allow me to give you a quick overview of the [[CSS Flexbox]] layout module as compared to grid, and when you might choose to use one over the other, or even use a combination of both.
 >
 > **[0:18](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980&t=18)** For starters, flexbox is a one-dimensional layout, meaning you can either create a row or a column along a single axis.
 >
@@ -1197,20 +1180,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), feature (1)
+> **Frameworks & Libraries:** [[CSS Flexbox]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drawing layouts with pen and paper
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980)
+#### [Drawing layouts with pen and paper](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980&t=0)** - [Instructor] This may sound silly, but in my earliest days of working with the web, long before CSS Grid was available, or even Flexbox for that matter, I would take a pencil and paper and draw out the layout I wanted.
 >
-> **[0:12](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980&t=12)** At that point, I was using this technique to help me understand how to write logical and semantic HTML.
+> **[0:12](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980&t=12)** At that point, I was using this technique to help me understand how to write logical and semantic [[HTML]].
 >
 > **[0:19](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/drawing-layouts-with-pen-and-paper?u=76281980&t=19)** Fast forward to present, and this is still a technique I like to use, except now in addition to visualizing a page layout, it's helping me think through how I'm going to use grid.
 >
@@ -1244,13 +1226,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Grid generators
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-grid-generators?u=76281980)
+#### [Using Grid generators](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/using-grid-generators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1285,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Search]] (1)
 > **Env Vars:** css (3)
 > **Exercise Files:** template (2)
 > **Definitions:** defined as (1), is a  (1)
@@ -1313,8 +1293,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile-first approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980)
+#### [Mobile-first approach](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,7 +1315,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980&t=56)** Then for larger screens, let's say anything over 768 pixels wide, we want to make each column a little bit bigger, so we re-declare our grid template columns as still being equal and automatically sized, but this time we want them at a minimum of 300 pixels.
 >
-> **[1:13](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980&t=73)** The key to this approach is that we're prioritizing the mobile layout first and foremost, ensuring a good user experience on smaller screens.
+> **[1:13](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980&t=73)** The key to this approach is that we're prioritizing the mobile layout first and foremost, ensuring a good [[User Experience (UX)|user experience]] on smaller screens.
 >
 > **[1:21](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/mobile-first-approach?u=76281980&t=81)** Then, media queries let us enhance and expand the layout for larger screens without affecting the mobile experience.
 >
@@ -1350,15 +1329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (2), product (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980)
+#### [Accessibility considerations](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980&t=7)** While it's not yet as ubiquitous as responsive design, building an accessible web should be top of mind for any web developer.
 >
-> **[0:14](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980&t=14)** The good news is that CSS Grid makes building accessible websites easier, by separating the visual layout from the HTML markup order, we no longer need to compromise the structure of our HTML to achieve interesting designs and layouts.
+> **[0:14](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980&t=14)** The good news is that CSS Grid makes building accessible websites easier, by separating the visual layout from the [[HTML]] markup order, we no longer need to compromise the structure of our HTML to achieve interesting designs and layouts.
 >
 > **[0:30](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/accessibility-considerations?u=76281980&t=30)** Also, because CSS Grid gives us a true two-dimensional grid, we don't have to do weird things, like nest a bunch of containers just to get items to appear next to one another, which makes for cleaner, simpler, and more accessible markup.
 >
@@ -1388,7 +1366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), css (4), dom (3), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (4), dom (3), html (2), wcag (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -1400,8 +1378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you're creating: A multi-column layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
+#### [What you're creating: A multi-column layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,25 +1388,24 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980&t=12)** So here's that single column, and if we make this a little wider, there we get our two column, and finally, at full desktop size, we get this third column.
 >
-> **[0:23](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980&t=23)** We'll also cover centering techniques and even refactor our code at the end of the chapter to use named grid areas, and we'll do all of this using the same HTML document as our foundation.
+> **[0:23](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980&t=23)** We'll also cover centering techniques and even refactor our code at the end of the chapter to use named grid areas, and we'll do all of this using the same [[HTML]] document as our foundation.
 >
 > **[0:34](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980&t=34)** Let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Overview of the starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980)
+#### [Overview of the starting point](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=0)** - [Instructor] Over in Codespaces, you'll find the exercise files for this movie.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=0)** - [Instructor] Over in [[Codespaces]], you'll find the exercise files for this movie.
 >
-> **[0:04](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=4)** You'll see the base HTML document that we're using along with the styles for our three-column layout.
+> **[0:04](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=4)** You'll see the base [[HTML]] document that we're using along with the styles for our three-column layout.
 >
 > **[0:09](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=9)** Now, if you were to open this up in the browser, all you'll see right now is the single-column layout.
 >
@@ -1445,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=46)** First, we're referencing this base stylesheet that I've used for this entire course.
 >
-> **[0:51](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=51)** It's got some basic typography styles and also styles for my skip links, which we'll get to shortly.
+> **[0:51](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=51)** It's got some basic [[Typography]] styles and also styles for my skip links, which we'll get to shortly.
 >
 > **[0:56](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point?u=76281980&t=56)** Next, I've got this styles specific for this lesson.
 >
@@ -1491,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (2), [[Codespaces]] (1), [[Typography]] (1), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Codespaces]] (1), [[Typography]] (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -1499,8 +1475,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the main grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980)
+#### [Create the main grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1525,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980&t=139)** So the logo and the start of the main content are going to take up the first row.
 >
-> **[2:24](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980&t=144)** And then in the second row, I'll put my primary sidebar below the masthead and then span to accommodate the rest of the main content.
+> **[2:24](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980&t=144)** And then in the second row, I'll put my primary sidebar below the masthead and then span to accommodate the [[Representational State Transfer (REST)|rest]] of the main content.
 >
 > **[2:31](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-main-grid?u=76281980&t=151)** The third row, that's going to be where we place featured articles or a secondary sidebar.
 >
@@ -1588,15 +1563,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Representational State Transfer (REST)|Rest]] (2), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manual grid item placement
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980)
+#### [Manual grid item placement](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1578,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980&t=4)** And now we need to place our grid items on here.
 >
-> **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980&t=7)** If we look at our HTML here in the inspector, let me make that a little bit bigger.
+> **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980&t=7)** If we look at our [[HTML]] here in the inspector, let me make that a little bit bigger.
 >
 > **[0:11](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/manual-grid-item-placement?u=76281980&t=11)** Let's grab the classes for each of the grid items that we want to place.
 >
@@ -1692,15 +1666,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** as we saw (1), in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add third column for wider viewports
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980)
+#### [Add third column for wider viewports](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,7 +1765,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980&t=241)** So we go from three columns to two columns to a single column based on the available viewport width.
 >
-> **[4:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980&t=248)** We've done all of this without changing a single line of our HTML.
+> **[4:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980&t=248)** We've done all of this without changing a single line of our [[HTML]].
 >
 > **[4:12](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/add-third-column-for-wider-viewports?u=76281980&t=252)** We didn't have to add extra containers to get our sidebars to appear on either side of our main content, or use floats, or anything like that.
 >
@@ -1800,7 +1773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -1808,8 +1781,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Justify the grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/justify-the-grid?u=76281980)
+#### [Justify the grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/justify-the-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,8 +1843,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bonus: Refactor using grid areas
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/bonus-refactor-using-grid-areas?u=76281980)
+#### [Bonus: Refactor using grid areas](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/bonus-refactor-using-grid-areas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1976,7 +1947,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3)
 > **Exercise Files:** template (4)
 > **Env Vars:** css (3)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1988,8 +1958,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you're creating: A full-bleed layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
+#### [What you're creating: A full-bleed layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1997,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980&t=8)** But within these layouts, you typically see some components extending the full width of the viewboard, while other components are confined to a maximum width, and then centered.
 >
-> **[0:18](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980&t=18)** Doing this without CSS Grid, requires a lot of extra container nesting, and the HTML can get pretty cluttered.
+> **[0:18](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980&t=18)** Doing this without CSS Grid, requires a lot of extra container nesting, and the [[HTML]] can get pretty cluttered.
 >
 > **[0:25](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980&t=25)** With Grid, the HTML is nice and clean, but how we make this layout work, might not be obvious from the start.
 >
@@ -2017,18 +1986,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Overview of the starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24688169?u=76281980)
+#### [Overview of the starting point](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24688169?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24688169?u=76281980&t=0)** - [Instructor] Over in Codespaces, you'll find the baseline HTML document and styles for our full bleed layout.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24688169?u=76281980&t=0)** - [Instructor] Over in [[Codespaces]], you'll find the baseline [[HTML]] document and styles for our full bleed layout.
 >
 > **[0:06](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24688169?u=76281980&t=6)** Looking at index.html, you'll see a standard HTML page.
 >
@@ -2084,15 +2052,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Codespaces]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (2)
 > **File Paths:** index.html (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the shared grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980)
+#### [Create the shared grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,7 +2081,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980&t=51)** But we use the same rule for each of them.
 >
-> **[0:54](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980&t=54)** So before we do that, let's reorient ourselves with the HTML markup to find out exactly where we want to apply a grid.
+> **[0:54](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980&t=54)** So before we do that, let's reorient ourselves with the [[HTML]] markup to find out exactly where we want to apply a grid.
 >
 > **[1:02](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-shared-grid?u=76281980&t=62)** So this div with a class of site, is our global container, but that's not actually where we want the grid.
 >
@@ -2156,15 +2123,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define columns and position grid items
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980)
+#### [Define columns and position grid items](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2204,7 +2170,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980&t=99)** So essentially I want all the content on the page to be placed between the second grid line and this fourth grid line.
 >
-> **[1:47](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980&t=107)** So going over to our index.html, now we can see what we're targeting.
+> **[1:47](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980&t=107)** So going over to our index.[[HTML]], now we can see what we're targeting.
 >
 > **[1:54](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-columns-and-position-grid-items?u=76281980&t=114)** Our grids are defined on each of these first level children.
 >
@@ -2286,7 +2252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (3), [[HTML]] (2), hit (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
 > **File Paths:** index.html (1)
@@ -2300,8 +2266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you're creating: A uniform card layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
+#### [What you're creating: A uniform card layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,20 +2288,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), product (1), [[Search]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** grid (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of card markup and starter styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980)
+#### [Overview of card markup and starter styles](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980&t=0)** - [Instructor] Let's start by taking a look at the markup we're working with.
 >
-> **[0:03](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980&t=3)** Our index.html is different in this chapter than it was in the previous.
+> **[0:03](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980&t=3)** Our index.[[HTML]] is different in this chapter than it was in the previous.
 >
 > **[0:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup-and-starter-styles?u=76281980&t=8)** So starting with our opening body tag, we see our skip link for accessibility, and then we have a header element.
 >
@@ -2386,7 +2349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **File Paths:** index.html (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hsl (1)
@@ -2395,8 +2358,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the main grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-main-grid-24687419?u=76281980)
+#### [Define the main grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-main-grid-24687419?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2476,7 +2438,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -2484,8 +2445,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create grid for each card
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-grid-for-each-card-24690135?u=76281980)
+#### [Create grid for each card](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-grid-for-each-card-24690135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2575,7 +2535,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2), next (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
@@ -2585,8 +2544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you're creating: A variable card layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
+#### [What you're creating: A variable card layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2608,19 +2566,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** css (1)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of card markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980)
+#### [Overview of card markup](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=0)** - [Instructor] We're starting at a fairly similar point as the previous chapter in terms of our index.html.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=0)** - [Instructor] We're starting at a fairly similar point as the previous chapter in terms of our index.[[HTML]].
 >
 > **[0:06](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=6)** After this opening body tag, we've got our skip link for accessibility, followed by our header.
 >
@@ -2684,7 +2640,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=159)** From there, we go to this div with a class of info, and there are no styles on that yet.
 >
-> **[2:45](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=165)** And then for name, title, and description, we just have some basic typography settings.
+> **[2:45](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=165)** And then for name, title, and description, we just have some basic [[Typography]] settings.
 >
 > **[2:51](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-card-markup?u=76281980&t=171)** So, that's the browser view.
 >
@@ -2696,15 +2652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), [[Typography]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Typography]] (1)
 > **Cross-References:** previous chapter (3), in the next (1)
 > **File Paths:** index.html (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the main grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-main-grid?u=76281980)
+#### [Define the main grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-main-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2800,7 +2755,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), css (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2809,12 +2763,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Place cards on the grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/place-cards-on-the-grid?u=76281980)
+#### [Place cards on the grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/place-cards-on-the-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/place-cards-on-the-grid?u=76281980&t=0)** - [Instructor] Looking at our index.html here, you'll note that each of the cards we want to place has a class called card.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/place-cards-on-the-grid?u=76281980&t=0)** - [Instructor] Looking at our index.[[HTML]] here, you'll note that each of the cards we want to place has a class called card.
 >
 > **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/place-cards-on-the-grid?u=76281980&t=7)** There's no other unique idea or class we can use to differentiate this first card from say the second or maybe third.
 >
@@ -2906,7 +2859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **File Paths:** index.html (1)
@@ -2915,17 +2868,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create grid for each card
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-grid-for-each-card?u=76281980)
+#### [Create grid for each card](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-grid-for-each-card?u=76281980)
 
-#### Position items within the card grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980)
+#### [Position items within the card grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980&t=0)** - [Instructor] Now that we have our grid for each card defined along with our template areas, the next step is to place the grid items on the grid.
 >
-> **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980&t=7)** So just to reorient ourselves here in the HTML, card is where our grids are defined.
+> **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980&t=7)** So just to reorient ourselves here in the [[HTML]], card is where our grids are defined.
 >
 > **[0:13](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/position-items-within-the-card-grid?u=76281980&t=13)** So our grid items are just going to be the first level descendants of this grid.
 >
@@ -3007,7 +2958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** go to (2), click on (1), toggle (1)
 > **Cross-References:** go back to (2)
 > **Env Vars:** html (1)
@@ -3015,8 +2966,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make sure it's responsive
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/make-sure-its-responsive?u=76281980)
+#### [Make sure it's responsive](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/make-sure-its-responsive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3089,8 +3039,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you're creating: An asymmetrical layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
+#### [What you're creating: An asymmetrical layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3109,12 +3058,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980)
+#### [Overview of the starting point](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=0)** - [Instructor] As always, when we start this process, let's look at the existing HTML markup and styles that we're using as our base.
+> **[0:00](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=0)** - [Instructor] As always, when we start this process, let's look at the existing [[HTML]] markup and styles that we're using as our base.
 >
 > **[0:07](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=7)** So here in our document head, we've got two style sheets.
 >
@@ -3144,7 +3092,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=81)** Then here we have a max width set on this container at 1200 pixels.
 >
-> **[1:26](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=86)** Moving along, we've got no styles on intro, but if we look in here, we've got some typography settings on this class of title.
+> **[1:26](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=86)** Moving along, we've got no styles on intro, but if we look in here, we've got some [[Typography]] settings on this class of title.
 >
 > **[1:34](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/overview-of-the-starting-point-24684956?u=76281980&t=94)** And then here within this figure, with the class of rivet, we've got an image, and on that image, we've got some size constraints on it.
 >
@@ -3162,14 +3110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), generic (1), [[Typography]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Typography]] (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the primary grid layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-primary-grid-layout?u=76281980)
+#### [Define the primary grid layout](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/define-the-primary-grid-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3225,12 +3172,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create the first nested grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-first-nested-grid?u=76281980)
+#### [Create the first nested grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-first-nested-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3348,15 +3293,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1)
 > **Exercise Files:** template (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** we call this (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the second nested grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-second-nested-grid?u=76281980)
+#### [Create the second nested grid](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/create-the-second-nested-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3480,7 +3423,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3)
 > **CLI Commands:** make (5)
 > **Env Vars:** dom (3)
 > **Cross-References:** previous chapter (1), earlier in (1)
@@ -3488,14 +3430,14 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3503,17 +3445,17 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=3)** My hope is that you feel confident to tackle a variety of layouts with CSS Grid.
 >
-> **[0:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=8)** I've published all of the code exercises you've seen in this course on GitHub, and you can explore them via Codespaces, so you're welcome to continue experimenting, exploring, and developing.
+> **[0:08](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=8)** I've published all of the code exercises you've seen in this course on [[GitHub]], and you can explore them via [[Codespaces]], so you're welcome to continue experimenting, exploring, and developing.
 >
 > **[0:19](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=19)** Now that you're an old pro with CSS Grid, I'd invite you to check out our additional CSS courses in the library.
 >
-> **[0:26](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=26)** From advanced media queries and image manipulation to controlling CSS with JavaScript, we've got you covered.
+> **[0:26](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=26)** From advanced media queries and image manipulation to controlling CSS with [[JavaScript]], we've got you covered.
 >
 > **[0:33](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980&t=33)** And with that, I'm going to leave you to create your next interesting layout with Grid, and I hope to see you in another course soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[GitHub]] (1), [[Codespaces]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Codespaces]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (4)
 > **Tools:** github (1)
 > **Speakers:** - great (1)

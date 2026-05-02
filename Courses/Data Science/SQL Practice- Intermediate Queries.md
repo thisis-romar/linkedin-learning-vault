@@ -67,18 +67,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try your SQL programming skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980)
+#### [Try your SQL programming skills](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=0)** - [Scott] Data drives our world, and SQL is the language we often use to work with that data.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=0)** - [Scott] Data drives our world, and [[SQL]] is the language we often use to work with that data.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=4)** Querying databases with SQL gives us the ability to explore, analyze, and most importantly, use all kinds of data.
+> **[0:04](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=4)** Querying [[Databases]] with SQL gives us the ability to explore, analyze, and most importantly, use all kinds of data.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=10)** In this code challenge course, you can test your knowledge of intermediate-level queries in SQL to build your confidence working with the various data analysis and reporting tools that many SQL-compatible relational database management systems provide.
+> **[0:10](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=10)** In this code challenge course, you can test your knowledge of intermediate-level queries in SQL to build your confidence working with the various data analysis and reporting tools that many SQL-compatible relational [[Database Management]] systems provide.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=21)** I'm Scott Simpson, Senior Staff Instructor at LinkedIn Learning, and I've put together five code challenges that cover a variety of intermediate level SQL concepts that allow us to use and transform data.
+> **[0:21](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=21)** I'm Scott Simpson, Senior Staff Instructor at [[LinkedIn]] Learning, and I've put together five code challenges that cover a variety of intermediate level SQL concepts that allow us to use and transform data.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980&t=31)** Build and test your solutions to these challenges in the built-in interactive coding environment.
 >
@@ -90,22 +89,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (5), [[Databases]] (1), database (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (1), [[Database Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (6)
 > **Speakers:** - [scott] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=0)** - [Tutor] In this Code Challenge Course, I expect you to be familiar with writing queries in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=0)** - [Tutor] In this Code Challenge Course, I expect you to be familiar with writing queries in [[SQL]].
 >
 > **[0:04](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=4)** We'll spend time grouping and filtering data, joining tables, and transforming values.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=9)** These challenges each combine a couple of intermediate difficulty concepts, that are often used in data reporting and data preparation.
+> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=9)** These challenges each combine a couple of intermediate difficulty concepts, that are often used in [[Data Reporting]] and [[Data Preparation]].
 >
-> **[0:16](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=16)** If you need to refresh your SQL knowledge, take a look at these courses in the LinkedIn Learning Library.
+> **[0:16](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=16)** If you need to refresh your SQL knowledge, take a look at these courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-practice-intermediate-queries/what-you-should-know?u=76281980&t=22)** In the challenges, we provide a database that describes a small neighborhood restaurant.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[LinkedIn]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (2), [[Data Reporting]] (1), [[Data Preparation]] (1)
 > **Env Vars:** sql (2), select (1)
 > **SQL:** select (1)
 > **Cross-References:** in the next (1)
@@ -135,8 +133,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [tutor] (1)
 
-#### Exploring the lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980)
+#### [Exploring the lab environment](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980&t=12)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980&t=18)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:18](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980&t=18)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-practice-intermediate-queries/exploring-the-lab-environment?u=76281980&t=24)** The code challenge has three areas, instructions in the top left, a console for output in the bottom left and a code editor for your answer on the right.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -178,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Who are your top customers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980)
+#### [Solution: Who are your top customers?](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,14 +224,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: List items in each order
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980)
+#### [Solution: List items in each order](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980&t=0)** - [Instructor] To solve this challenge, I used GROUP_CONCAT, a function in MySQL and similar DBMSs that concatenates items based on their grouping.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980&t=0)** - [Instructor] To solve this challenge, I used GROUP_CONCAT, a function in [[MySQL]] and similar DBMSs that concatenates items based on their grouping.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980&t=8)** Microsoft SQL has a similar function called STRING_AGG, short for string aggregation, that works in the same way.
+> **[0:08](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980&t=8)** [[Microsoft]] [[SQL]] has a similar function called STRING_AGG, short for string aggregation, that works in the same way.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-2-list-items-in-each-order?u=76281980&t=14)** If you use that, you'll need to have provided a separator, which to make the output match with the challenge request, should be a comma with no space following it.
 >
@@ -271,8 +266,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Which days did people order pizza?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-3-which-days-did-people-order-pizza?u=76281980)
+#### [Solution: Which days did people order pizza?](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-3-which-days-did-people-order-pizza?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,14 +292,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Env Vars:** cast (1), count (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Seasonal sale
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-4-seasonal-sale?u=76281980)
+#### [Solution: Seasonal sale](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-4-seasonal-sale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,13 +341,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.05 (1), 0.1 (1), 0.15 (1), 0.95 (1), 0.9 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - to (1)
 
-#### Solution: Vendor integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-5-vendor-integration?u=76281980)
+#### [Solution: Vendor integration](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-5-vendor-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,11 +397,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-5-vendor-integration?u=76281980&t=124)** Great, this passes the challenge.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-5-vendor-integration?u=76281980&t=125)** We'll often need to transform data from our databases in some way instead of just returning it verbatim.
+> **[2:05](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-5-vendor-integration?u=76281980&t=125)** We'll often need to transform data from our [[Databases]] in some way instead of just returning it verbatim.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** lpad (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -421,20 +411,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980&t=0)** - [Scott] If you we're able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of intermediate level SQL queries and come back and try again.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980&t=0)** - [Scott] If you we're able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of intermediate level [[SQL]] queries and come back and try again.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980&t=9)** If you're ready to move on and solve more challenges, take a look at our other interactive SQL code challenge courses here on LinkedIn Learning.
+> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980&t=9)** If you're ready to move on and solve more challenges, take a look at our other interactive SQL code challenge courses here on [[LinkedIn]] Learning.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980&t=16)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

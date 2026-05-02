@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working faster in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980)
+#### [Working faster in Power BI](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=0)** You probably analyze a lot of data in Excel workbooks and Power BI files.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=0)** You probably analyze a lot of data in [[Microsoft Excel|Excel]] workbooks and [[Microsoft Power BI|Power BI]] files.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=5)** Think of all the different methods that you use to get answers to the questions that you have about that data.
 >
@@ -111,27 +110,26 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=16)** If sending a standalone file by email, the minute that you hit Send, the data could be out of date.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=22)** I understand the struggles that you may incur with these methods, and I'm going to help you unlock how to use the Microsoft Power BI Service in a more efficient and productive way by capturing all the data analyses and visualizations in one place.
+> **[0:22](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=22)** I understand the struggles that you may incur with these methods, and I'm going to help you unlock how to use the [[Microsoft Power BI]] Service in a more efficient and productive way by capturing all the data analyses and visualizations in one place.
 >
-> **[0:37](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=37)** I'm Heather Severino, a Microsoft Certified Trainer and a Microsoft Most Valuable Professional.
+> **[0:37](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=37)** I'm Heather Severino, a [[Microsoft]] Certified Trainer and a Microsoft Most Valuable Professional.
 >
-> **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=42)** Please join me in my LinkedIn Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
+> **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=42)** Please join me in my [[LinkedIn]] Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power BI]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1), [[LinkedIn]] (1)
 
 
 ### 1. Creating Workspaces and Sharing Content
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing workspaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980)
+#### [Accessing workspaces](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=0)** When you launch the Power BI web app, the home page displays recommended and recent content, if available.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=0)** When you launch the [[Microsoft Power BI|Power BI]] web app, the home page displays recommended and recent content, if available.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=7)** You may need to navigate to a specific workspace.
 >
@@ -143,22 +141,21 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=30)** To access group workspaces from the Navigation pane, select Workspaces once more, then from the Navigation pane, select a group workspace.
 >
-> **[0:41](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=41)** Now you'll be able to access the proper workspaces to build and view data, reports, dashboards, and more.
+> **[0:41](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=41)** Now you'll be able to access the proper workspaces to build and view data, reports, [[Dashboards]], and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), bi (1), web (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Dashboards]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Best Practices:** recommended (1)
 
-#### Creating a shared workspace in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980)
+#### [Creating a shared workspace in Power BI](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=0)** Power BI users organize their workspaces based on organizational structures for specific projects and other needs.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=0)** [[Microsoft Power BI|Power BI]] users organize their workspaces based on organizational structures for specific projects and other needs.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=7)** If you want to create a shared workspace for collaborating on dashboards, go to the Navigation pane and select Workspaces.
+> **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=7)** If you want to create a shared workspace for collaborating on [[Dashboards]], go to the Navigation pane and select Workspaces.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=15)** In the workspaces area, select New Workspace, and then fill in the appropriate fields here in the Create a Workspace panel.
 >
@@ -196,15 +193,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), power (1), bi (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Dashboards]] (1)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
 > **Env Vars:** png (1), jpeg (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Editing a shared workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980)
+#### [Editing a shared workspace](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=35)** Scroll down.
 >
-> **[0:38](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=38)** You can also update the domain, the workspace contacts, and if this is going to be a workspace OneDrive group.
+> **[0:38](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=38)** You can also update the domain, the workspace contacts, and if this is going to be a workspace [[Microsoft OneDrive|OneDrive]] group.
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=45)** Let's go ahead and select the X in the upper right corner to save the changes.
 >
@@ -236,8 +232,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **CLI Commands:** make (1)
 
-#### Add people or groups to a shared workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/add-people-or-groups-to-a-shared-workspace-25205180?u=76281980)
+#### [Add people or groups to a shared workspace](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/add-people-or-groups-to-a-shared-workspace-25205180?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,8 +265,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
-#### Share a semantic model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/share-a-semantic-model-25206000?u=76281980)
+#### [Share a semantic model](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/share-a-semantic-model-25206000?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,11 +295,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 
-#### Discover and use data from the OneLake catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980)
+#### [Discover and use data from the OneLake catalog](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=14)** At the top, you'll notice a link that says, "Learn more about the OneLake Catalog.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=17)** " This is an excellent resource for learning about the OneLake Catalog and Microsoft Fabric.
+> **[0:17](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=17)** " This is an excellent resource for learning about the OneLake Catalog and [[Microsoft]] Fabric.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=23)** The All Items view surfaces data that you have permission to access, and that's the view that we're looking at right now.
 >
@@ -325,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=38)** You can also search for a keyword or a key phrase.
 >
-> **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=42)** Over here, let's go ahead and enter a word in this filter by keyword box.
+> **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=42)** Over here, let's go ahead and enter a [[Microsoft Word|word]] in this filter by keyword box.
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=49)** The list updates automatically.
 >
@@ -343,13 +335,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1), select the (1), switch to (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 
-#### Sharing a Power BI dashboard or report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-dashboard-or-report-25000943?u=76281980)
+#### [Sharing a Power BI dashboard or report](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-dashboard-or-report-25000943?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,26 +370,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1)
 
-#### Accessing "Shared with me"
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980)
+#### [Accessing "Shared with me"](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=0)** There's a central hub for accessing all of the Power BI content that has been shared with you.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=0)** There's a central hub for accessing all of the [[Microsoft Power BI|Power BI]] content that has been shared with you.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=5)** Start in the Navigation pane and select Browse.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=9)** Within the Browse pane over here, select Shared with Me, and a list appears with all of the content that has been shared with you.
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=18)** In this list, you'll have a column that includes the name of the data that could be a report, or a dashboard, or even an Excel workbook.
+> **[0:18](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=18)** In this list, you'll have a column that includes the name of the data that could be a report, or a dashboard, or even an [[Microsoft Excel|Excel]] workbook.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=26)** Over here to the right, this column type is telling you what type of data it is.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=30)** You'll notice that we have reports and dashboards listed here as well as the date and time that it was shared with you, who the owner is, that's the workspace where this data belongs.
+> **[0:30](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=30)** You'll notice that we have reports and [[Dashboards]] listed here as well as the date and time that it was shared with you, who the owner is, that's the workspace where this data belongs.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=41)** And then on to the right, there are other columns of other related information about the content that's been shared with you.
 >
@@ -406,27 +395,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), bi (2), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 
 
 ### 2. Connecting Data
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uploading a file to the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980)
+#### [Uploading a file to the Power BI service](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=0)** PBIX and RDL files are supported for uploading in the Power BI Service.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=0)** PBIX and RDL files are supported for uploading in the [[Microsoft Power BI|Power BI]] Service.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=5)** You can also upload your Excel workbooks, your XLSX files as well.
+> **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=5)** You can also upload your [[Microsoft Excel|Excel]] workbooks, your XLSX files as well.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=10)** Start in the workspace that you want to upload the file or files to, then select Upload.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=17)** Choose where you want to upload the files from.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=19)** That can be your OneDrive document library, your SharePoint document library, or browse to browse the files that are saved locally on your device.
+> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=19)** That can be your [[Microsoft OneDrive|OneDrive]] document library, your [[SharePoint]] document library, or browse to browse the files that are saved locally on your device.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=28)** Select the appropriate place that you are going to use select the files from, then browse and select the file that you would like to upload.
 >
@@ -444,16 +432,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2), [[Microsoft Excel|Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
 > **Env Vars:** pbix (2), rdl (1), xlsx (1)
 > **UI Navigation:** select the (3)
 
-#### Connecting to sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980)
+#### [Connecting to sample data](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=0)** If you don't have any data to work with in the Power BI Service, sample data is available for you to upload.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=0)** If you don't have any data to work with in the [[Microsoft Power BI|Power BI]] Service, sample data is available for you to upload.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=6)** Start by going to the Navigation pane and then select Learn.
 >
@@ -481,13 +468,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=62)** These are the datasets that are available here: the report and the semantic model.
 >
-> **[1:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=68)** If you would like additional data files that you can practice with, this Microsoft Learn article has all sorts of great information about sample files.
+> **[1:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=68)** If you would like additional data files that you can practice with, this [[Microsoft]] Learn article has all sorts of great information about sample files.
 >
 > **[1:20](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=80)** And that's how you can connect to Power BI sample data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 
@@ -496,8 +483,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Auto-create a report from a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980)
+#### [Auto-create a report from a dataset](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=11)** Next, to explore this data, select the downward-facing arrow and then select Auto-Create a Report.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=19)** While this report is being built, you could select Pre-Select Data to manually choose what you want to include, but we're going to hold off and see what Power BI generates for us.
+> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=19)** While this report is being built, you could select Pre-Select Data to manually choose what you want to include, but we're going to hold off and see what [[Microsoft Power BI|Power BI]] generates for us.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=30)** And here is the report.
 >
@@ -541,11 +527,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), bi (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** select the (1)
 
-#### Create a paginated report from a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/create-a-paginated-report-from-a-data-set-25202755?u=76281980)
+#### [Create a paginated report from a dataset](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/create-a-paginated-report-from-a-data-set-25202755?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,12 +566,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (1)
 
-#### Creating a new blank report from a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980)
+#### [Creating a new blank report from a dataset](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=16)** Next, choose the source to start building the report.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=19)** It can be an Excel workbook, a CSV file.
+> **[0:19](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=19)** It can be an [[Microsoft Excel|Excel]] workbook, a CSV file.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=22)** You can paste or manually enter the data, or you can select a semantic model.
 >
@@ -628,13 +611,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** csv (1)
 > **Analogies:** such as (1)
 
-#### Creating a page in a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-page-in-a-report-24998999?u=76281980)
+#### [Creating a page in a report](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-page-in-a-report-24998999?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,11 +634,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** right-click (1)
 
-#### Creating a chart tile
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980)
+#### [Creating a chart tile](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=45)** And I'm going to show you how to change that in just a moment.
 >
-> **[0:49](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=49)** Next, let's go down to the Products category here and expand that.
+> **[0:49](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=49)** Next, let's go down to the [[Microsoft Products|Products]] category here and expand that.
 >
 > **[0:56](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=56)** Here we go and check the box for product.
 >
@@ -704,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (3), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Pin a visualization to a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/pin-a-visualization-to-a-dashboard-25205183?u=76281980)
+#### [Pin a visualization to a dashboard](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/pin-a-visualization-to-a-dashboard-25205183?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,8 +720,7 @@ created: 2026-05-02
 >
 > **UI Navigation:** go to (1)
 
-#### Creating a big number tile
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-big-number-tile-25201875?u=76281980)
+#### [Creating a big number tile](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-big-number-tile-25201875?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,12 +750,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Creating a table tile
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-table-tile-25203578?u=76281980)
+#### [Creating a table tile](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-table-tile-25203578?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,11 +777,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Cross-References:** later in (1)
 
-#### Create a slicer
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/create-a-slicer-25202748?u=76281980)
+#### [Create a slicer](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/create-a-slicer-25202748?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,14 +813,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Env Vars:** lax (2)
 > **UI Navigation:** go to (1), drag and drop (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Rearrange and resize tiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980)
+#### [Rearrange and resize tiles](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,13 +868,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Filter data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/filter-data-25202751?u=76281980)
+#### [Filter data](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/filter-data-25202751?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** set up (1)
 
@@ -931,8 +900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subscribing for email notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980)
+#### [Subscribing for email notifications](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=94)** This is where you can include an optional email subject along with a message that will be sent.
 >
-> **[1:39](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=99)** In addition, you can also choose if you want to enable access to this dashboard and a link to this dashboard in Power BI with this notification.
+> **[1:39](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=99)** In addition, you can also choose if you want to enable access to this dashboard and a link to this dashboard in [[Microsoft Power BI|Power BI]] with this notification.
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=108)** These are enabled by default as well as a dashboard preview being enabled by default.
 >
@@ -1002,12 +970,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Prerequisites:** set up (2)
 
-#### Set up an alert
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/setup-an-alert-25206001?u=76281980)
+#### [Set up an alert](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/setup-an-alert-25206001?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,12 +1004,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** set up (2)
 
-#### Bookmark a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/bookmark-a-report-25201872?u=76281980)
+#### [Bookmark a report](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/bookmark-a-report-25201872?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,12 +1036,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 
-#### Favoriting a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980)
+#### [Favoriting a dashboard](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980&t=0)** If you're a member of many workspaces and accessing many reports and dashboards, you can favorite the ones that you need to retrieve quickly.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980&t=0)** If you're a member of many workspaces and accessing many reports and [[Dashboards]], you can favorite the ones that you need to retrieve quickly.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980&t=8)** To favorite a dashboard or a report with that content in view, go to the toolbar and select Favorite.
 >
@@ -1103,12 +1067,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get a link to embed a report to a SharePoint page
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980)
+#### [Get a link to embed a report to a SharePoint page](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=0)** A report can be shared by creating a link to embed within a SharePoint page.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=0)** A report can be shared by creating a link to embed within a [[SharePoint]] page.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=5)** With the report in view, go to the File tab.
 >
@@ -1118,25 +1081,24 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=18)** So we'll use Ctrl C to copy that to the clipboard, then select Close.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=23)** And that's how you can create a link to embed a Power BI report in a modern SharePoint page.
+> **[0:23](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=23)** And that's how you can create a link to embed a [[Microsoft Power BI|Power BI]] report in a modern SharePoint page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), power (1), bi (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (1)
 
-#### Export to Excel for further analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980)
+#### [Export to Excel for further analysis](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=0)** A Power BI report can be exported in an Excel workbook format.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report can be exported in an [[Microsoft Excel|Excel]] workbook format.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=4)** Start with the report in view and then select Export.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=8)** From the menu, select Analyze in Excel.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=12)** This uploads the current report page as a Excel workbook to your OneDrive document library.
+> **[0:12](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=12)** This uploads the current report page as a Excel workbook to your [[Microsoft OneDrive|OneDrive]] document library.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=18)** A couple of notifications will appear: one that the file is being created, and another once the file is ready.
 >
@@ -1152,14 +1114,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), web (2), power (1), bi (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Power BI|Power bi]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 
-#### Export to PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980)
+#### [Export to PowerPoint](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=0)** Pages of a Power BI report can be exported as a PowerPoint presentation.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=0)** Pages of a [[Microsoft Power BI|Power BI]] report can be exported as a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=5)** With the report in view, go to the toolbar and select Export, then select PowerPoint.
 >
@@ -1201,12 +1162,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft PowerPoint|Powerpoint]] (6), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Export to PDF
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-pdf-24999955?u=76281980)
+#### [Export to PDF](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-pdf-24999955?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,13 +1196,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** open the (1)
 > **Definitions:** means that (1)
 
-#### Generate a QR code
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/generate-a-qr-code-25202750?u=76281980)
+#### [Generate a QR code](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/generate-a-qr-code-25202750?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,20 +1225,18 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with the Power BI iOS mobile app
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-with-the-power-bi-ios-mobile-app-25205179?u=76281980)
+#### [Working with the Power BI iOS mobile app](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-with-the-power-bi-ios-mobile-app-25205179?u=76281980)
 
 
 ### 7. Interacting with Power BI Reports in Microsoft Teams
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding a Power BI report to a team channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980)
+#### [Adding a Power BI report to a team channel](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=0)** A Power BI report, app, or scorecard can be added to a team channel.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report, app, or scorecard can be added to a team channel.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=5)** With the channel in view, select Add a Tab.
 >
@@ -1314,16 +1270,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
-#### Sharing a Power BI report to a Teams chat or channel post
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980)
+#### [Sharing a Power BI report to a Teams chat or channel post](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=0)** A Power BI report can be shared for collaboration in a team's private chat or within a team channel post.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report can be shared for collaboration in a team's private chat or within a team channel post.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=7)** With the report in view, select Share from the toolbar, then select Teams.
 >
@@ -1343,17 +1298,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** select the (1)
 
-#### Adding the Power BI app to Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980)
+#### [Adding the Power BI app to Microsoft Teams](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=0)** Microsoft Teams can be the one place to collaborate and communicate on many different topics and projects.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=0)** [[Microsoft Teams]] can be the one place to collaborate and communicate on many different topics and projects.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=7)** It can also be a place for all of your business intelligence analysis by bringing the Power BI app into Microsoft Teams. Here's how.
+> **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=7)** It can also be a place for all of your [[Business Intelligence (BI)|business intelligence]] analysis by bringing the [[Microsoft Power BI|Power BI]] app into Microsoft Teams. Here's how.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=15)** Start by selecting View More Apps on the sidebar.
 >
@@ -1373,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), [[Microsoft Teams]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft Teams]] (3), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **UI Navigation:** in the sidebar (1), right-click (1)
 
 
@@ -1381,12 +1335,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asking Copilot to create a report page
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980)
+#### [Asking Copilot to create a report page](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980&t=0)** To work with Copilot in the Power BI Service, you'll need to select a compatible workspace that you have edit permissions to.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980&t=0)** To work with [[Microsoft Copilot|Copilot]] in the [[Microsoft Power BI|Power BI]] Service, you'll need to select a compatible workspace that you have edit permissions to.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980&t=7)** The workspace needs to be assigned to a Copilot-enabled capacity: a paid Fabric capacity of 64 or higher, or a Power BI Premium capacity, P1 or higher.
 >
@@ -1420,12 +1373,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), power (2), bi (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** lax (1)
 > **Prerequisites:** you'll need (1)
 
-#### Asking Copilot to suggest content for a Power BI report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980)
+#### [Asking Copilot to suggest content for a Power BI report](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1433,7 +1385,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=3)** Now what?
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=4)** Well, you can ask Copilot to suggest visuals for a report page.
+> **[0:04](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=4)** Well, you can ask [[Microsoft Copilot|Copilot]] to suggest visuals for a report page.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=9)** Let's check it out.
 >
@@ -1469,17 +1421,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), prompt (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8)
 > **UI Navigation:** toggle (1)
 
-#### Asking questions about Power BI report data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980)
+#### [Asking questions about Power BI report data](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=0)** While preparing to present a Power BI report, you may want to think through the questions you'll likely get from your team, from leadership, or other groups.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=0)** While preparing to present a [[Microsoft Power BI|Power BI]] report, you may want to think through the questions you'll likely get from your team, from leadership, or other groups.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=8)** Here's how Copilot can assist.
+> **[0:08](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=8)** Here's how [[Microsoft Copilot|Copilot]] can assist.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=10)** With the report page in view, select Copilot.
 >
@@ -1503,13 +1454,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=75)** By selecting Copy, you can copy this answer to your clipboard on your device and then be able to go and paste that somewhere else.
 >
-> **[1:24](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=84)** Paste those questions and answers to maybe a OneNote notebook, to a loop workspace, or even your speaker notes if you're working in a PowerPoint presentation.
+> **[1:24](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=84)** Paste those questions and answers to maybe a [[OneNote]] notebook, to a loop workspace, or even your speaker notes if you're working in a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[1:33](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=93)** And that's how Copilot can help you prepare for anticipated questions about the report data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (2), power (1), bi (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Power BI|Power bi]] (1), [[OneNote]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (1)
 
 

@@ -54,28 +54,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building AI products: Implementing responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980)
+#### [Building AI products: Implementing responsible AI](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=0)** - Welcome to the Building AI Products Implementing Responsible AI Professional Certificate.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]] Implementing [[Responsible AI]] Professional Certificate.
 >
-> **[0:06](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=6)** AI is transforming not only product development, but the necessity for responsible and transparent systems.
+> **[0:06](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=6)** AI is transforming not only [[Product Development]], but the necessity for responsible and transparent systems.
 >
 > **[0:13](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=13)** This shift demands a comprehensive understanding of using responsible AI to build, scale, and deploy AI products.
 >
 > **[0:21](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=21)** In this professional certificate, you'll walk through how to implement and deploy a full scale AI product with responsible AI at its core.
 >
-> **[0:31](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=31)** You'll gain deeper knowledge with implementing a data strategy, GenAIOps, and data governance and compliance.
+> **[0:31](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=31)** You'll gain deeper knowledge with implementing a data strategy, GenAIOps, and [[Data Governance]] and compliance.
 >
-> **[0:39](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=39)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your LinkedIn profile.
+> **[0:39](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=39)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile.
 >
 > **[0:48](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=48)** Let's begin building your expertise in implementing responsible AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (4), [[Microsoft Products|Products]] (2), data (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Data Governance]] (1), [[LinkedIn]] (1)
 > **Speakers:** - welcome (1)
 
 

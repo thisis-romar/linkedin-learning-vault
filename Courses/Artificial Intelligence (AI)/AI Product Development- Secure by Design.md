@@ -93,16 +93,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Weave security into your AI product design process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
+#### [Weave security into your AI product design process](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=0)** - Artificial intelligence is no longer just an idea.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is no longer just an idea.
 >
 > **[0:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=4)** It's already here, transforming industries and revolutionizing the way businesses operate.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=10)** We will dive into the best practices to ensure that as AI systems evolve from concept to pilot to production, security isn't just an afterthought, but it's well-woven into the very DNA of your AI products.
+> **[0:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=10)** We will dive into the best practices to ensure that as AI systems evolve from concept to pilot to production, security isn't just an afterthought, but it's well-woven into the very DNA of your AI [[Microsoft Products|products]].
 >
 > **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980&t=29)** Hi, I'm Reet Kaur, CEO and CISO of Sekaurity.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Security]] (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** dna (1), ceo (1), ciso (1)
 > **Speakers:** - artificial (1)
 
@@ -121,8 +120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why governance, risk, and compliance matter from day one
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
+#### [Why governance, risk, and compliance matter from day one](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,47 +136,46 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=49)** These numbers highlight a critical truth.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=53)** AI security cannot wait until after deployment.
+> **[0:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=53)** [[AI Security]] cannot wait until after deployment.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=59)** That's why before developing an AI prototype, we must start with governance, risk, and compliance, or commonly referred to as GRC.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=69)** Without clear governance, AI can introduce bias, compliance failures, and security risks.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=77)** Risk management helps identify threats early on, whether it's data privacy issues, adversarial attacks, or automation failures.
+> **[1:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=77)** Risk management helps identify threats early on, whether it's [[Data Privacy]] issues, adversarial attacks, or automation failures.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=86)** And compliance ensures AI aligns with regulatory requirements like GDPR and NIST, preventing costly redesigns down the line.
+> **[1:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=86)** And compliance ensures AI aligns with regulatory requirements like GDPR and [[NIST]], preventing costly redesigns down the line.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=98)** By integrating GRC right from the start, businesses can build AI that's not just innovative, but also secure, ethical, and resilient.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=110)** If you skip this step, that is going to be a risk for your organization you don't want to take.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=116)** So let's dive into the critical role of GRC in AI security and why it should be your first step in AI product development.
+> **[1:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980&t=116)** So let's dive into the critical role of GRC in AI security and why it should be your first step in AI [[Product Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (6), data (2), business (1), leadership (1)
+> **Frameworks & Libraries:** [[AI Security]] (2), [[Data Privacy]] (1), [[NIST]] (1), [[Product Development]] (1)
 > **Env Vars:** grc (3), ibm (1), gdpr (1), nist (1)
 > **Versions:** 4.4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance in AI security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980)
+#### [Governance in AI security](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=0)** - [Instructor] Now that we have established why governance, risk, and compliance is essential in AI security, let's zoom in on the first pillar, which is governance.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=0)** - [Instructor] Now that we have established why governance, risk, and compliance is essential in [[AI Security]], let's [[Zoom]] in on the first pillar, which is governance.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=12)** Without strong governance, AI can become a black box of risks, introducing bias, security vulnerabilities, and compliance failures.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=23)** That's why organizations need clear policies, accountability structures, and frameworks to ensure AI is built responsibility right from the start.
+> **[0:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=23)** That's why organizations need clear policies, [[Accountability]] structures, and frameworks to ensure AI is built responsibility right from the start.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=35)** In this section, we will explore AI governance, why it is critical, how it ensures AI is ethical and secure, and what best practices organizations can follow.
+> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=35)** In this section, we will explore [[AI Governance]], why it is critical, how it ensures AI is ethical and secure, and what best practices organizations can follow.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=49)** Let's dive in.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=50)** AI governance is the set of rules, policies, and processes that ensure AI aligns with ethical values, company goals, and legal requirements.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=64)** It provides oversight throughout the AI lifecycle, ensuring that AI decisions are explainable, data privacy is protected, and security risks are identified and managed early on.
+> **[1:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=64)** It provides oversight throughout the AI lifecycle, ensuring that AI decisions are explainable, [[Data Privacy]] is protected, and security risks are identified and managed early on.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=78)** Without strong governance, companies may face shadow AI, where employees use AI tools without approval, leading to compliance failures, security threats, and operational inefficiencies.
 >
@@ -192,11 +189,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=130)** Several governance frameworks provide structured guidance for organizations developing AI policies.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=137)** The OWASP Top 10 for AI identify security risks, such as data poisoning, adversarial attacks, and model theft.
+> **[2:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=137)** The [[OWASP]] Top 10 for AI identify security risks, such as data poisoning, adversarial attacks, and model theft.
 >
 > **[2:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=147)** Then, MITRE ATLAS AI, it maps AI attack techniques to help organizations prioritize security measures.
 >
-> **[2:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=157)** The NIST AI Risk Management Framework takes a risk-based approach to securing AI systems, ensuring compliance and security efforts are focused on the highest impact areas.
+> **[2:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=157)** The [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]] takes a risk-based approach to securing AI systems, ensuring compliance and security efforts are focused on the highest impact areas.
 >
 > **[2:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=171)** Then last but not the least, ISO 42001.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=248)** Leadership plays a crucial role in AI governance.
 >
-> **[4:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=252)** When leaders prioritize responsible AI, they set the tone from the top for the entire organization.
+> **[4:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=252)** When leaders prioritize [[Responsible AI]], they set the tone from the top for the entire organization.
 >
 > **[4:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=261)** Transparency is also critical, as many AI models function as black boxes, making it difficult to understand how they reach certain decisions.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=305)** Strong AI governance, it helps organizations respond quickly to security and compliance risks.
 >
-> **[5:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=313)** It reduces bias and legal issues while building trust with customers and regulators, and accelerate AI adoption by eliminating unnecessary roadblocks.
+> **[5:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=313)** It reduces bias and legal issues while [[Building Trust]] with customers and regulators, and accelerate AI adoption by eliminating unnecessary roadblocks.
 >
 > **[5:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai-25331327?u=76281980&t=327)** Up next, we will explore how to define AI roles using RACI model to ensure clear accountability in AI governance.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (36), [[Security]] (11), [[Accountability]] (4), data (3), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[AI Governance]] (7), [[Accountability]] (4), [[Data Privacy]] (2), [[AI Security]] (1), [[Zoom]] (1)
 > **Env Vars:** owasp (1), mitre (1), atlas (1), nist (1), iso (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** means that (1), is a  (1)
@@ -246,8 +243,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the RACI Matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980)
+#### [Using the RACI Matrix](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,19 +251,19 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=1)** In AI system implementation, one common issue is confusion about who is responsible for what.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=9)** Without clear roles, decision making becomes slow, accountability is unclear, and security and compliance gaps emerge.
+> **[0:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=9)** Without clear roles, decision making becomes slow, [[Accountability]] is unclear, and security and compliance gaps emerge.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=18)** To solve this, organizations should use a framework called RACI Matrix, where RACI stands for responsible, accountable, consulted, and informed mapping to the roles in the organization.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=34)** Accountability lies with those who own the outcome and make the final decision to ensure that policies, risk strategies, and governance measures align with business goals and strategy, and regulatory requirements.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=50)** Responsibility, on the other hand, falls on those who implement decisions and ensure actions are completed while maintaining operational control over security, compliance, and AI governance.
+> **[0:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=50)** Responsibility, on the other hand, falls on those who implement decisions and ensure actions are completed while maintaining operational control over security, compliance, and [[AI Governance]].
 >
 > **[1:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=65)** Consulted roles provide expertise and input before any key decisions are made.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=71)** Last but not the least, informed roles.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=74)** They stay updated on decisions and progress, but do not actively contribute to the decision-making process.
+> **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=74)** They stay updated on decisions and progress, but do not actively contribute to the [[Decision-Making]] process.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=82)** So this framework, it helps ensure that everyone involved in the AI governance understand their role clearly.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=109)** For determining incident materiality, the CISO, Chief Information Security Officer, the CIO, Chief Information Officer, and the CRO, the Chief Risk Officer, should be consulted, but the CEO of the organization, general counsel, and CFO, Chief Financial Officer, are accountable for the final decision.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=135)** Now, when we are defining how to identify and manage cybersecurity risks, the CISO is responsible and accountable, while other executives, they provide input.
+> **[2:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=135)** Now, when we are defining how to identify and manage [[Cybersecurity]] risks, the CISO is responsible and accountable, while other executives, they provide input.
 >
 > **[2:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=148)** When ensuring cybersecurity is integrated into overall risk management, the CISO leads, and is accountable, as well as responsible, but must work closely with the CRO, with the CIO, and the general counsel consulted for their expertise.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=183)** Another key governance area is third-party risk oversight, where the Chief Information Security Officer is responsible, while the CRO and the general counsel oversee the implementation.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=196)** Security teams lead third-party risk assessments, evaluating vendor security controls, data protection measures, and compliance with frameworks like ISO 27001, NIST, or GDPR.
+> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=196)** Security teams lead third-party risk assessments, evaluating vendor security controls, data protection measures, and compliance with frameworks like ISO 27001, [[NIST]], or GDPR.
 >
 > **[3:30](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=210)** However, the procurement teams play a critical role in vendor selection and contract management.
 >
@@ -297,9 +293,9 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=256)** Finally, when assessing the risk appetite for AI adoption, the board of directors and CEO owns the decision, with input from the CRO and CFO to ensure it aligns with the company's overall risk tolerance.
 >
-> **[4:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=273)** By implementing a clear RACI matrix, organizations eliminate ambiguity, ensure decisions are made by the right people, and create a structured governance model for responsible AI development.
+> **[4:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=273)** By implementing a clear RACI matrix, organizations eliminate ambiguity, ensure decisions are made by the right people, and create a structured governance model for [[Responsible AI]] development.
 >
-> **[4:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=286)** Since every organization has unique needs, their RACI matrix should be customized to fit their AI security and governance priorities.
+> **[4:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=286)** Since every organization has unique needs, their RACI matrix should be customized to fit their [[AI Security]] and governance priorities.
 >
 > **[4:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/governance-in-ai-security?u=76281980&t=296)** Thank you for joining the discussion on AI governance and accountability.
 >
@@ -309,15 +305,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), ai (8), management (5), [[Accountability]] (3), [[Cybersecurity]] (3)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[AI Governance]] (3), [[Cybersecurity]] (3), [[Decision-Making]] (2), [[AI Security]] (2)
 > **Env Vars:** raci (5), ciso (5), cro (5), cio (3), cfo (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980)
+#### [AI risk management](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,9 +324,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=11)** It's also about ensuring AI systems are resilient, reliable, and aligned with the business goals.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=18)** To understand AI security risks better, we can break them down into four main categories.
+> **[0:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=18)** To understand [[AI Security]] risks better, we can break them down into four main categories.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=24)** First, data-related risks, where poor data quality and learning limitations can impact AI accuracy and reliability.
+> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=24)** First, data-related risks, where poor [[Data Quality]] and learning limitations can impact AI accuracy and reliability.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=33)** Second, AI and machine learning attacks, which include threats like data poisoning, adversarial inputs, and model extraction that can manipulate AI behavior or steal sensitive information.
 >
@@ -349,11 +344,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=108)** Without a clear risk framework, organizations could face operational failures, compliance violations, or reputational damage.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=117)** To effectively manage AI risks, organizations need a strong security risk management strategy, and this starts with conducting risk assessments early on to identify vulnerabilities before AI is even deployed.
+> **[1:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=117)** To effectively manage AI risks, organizations need a strong [[Security Risk]] management strategy, and this starts with conducting risk assessments early on to identify vulnerabilities before AI is even deployed.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=133)** Next, it's important to strengthen data governance.
+> **[2:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=133)** Next, it's important to strengthen [[Data Governance]].
 >
-> **[2:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=137)** This means making sure AI is trained on secure, unbiased, and high-quality data, while also protecting the privacy.
+> **[2:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=137)** This means making sure AI is trained on secure, unbiased, and high-quality data, while also protecting the [[Privacy]].
 >
 > **[2:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=147)** Another key step is embedding security into the AI models.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=206)** It's about enabling the organizations and the AI to operate safely, efficiently, and ethically by mitigating the risks to be within the risk appetite of the organization.
 >
-> **[3:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=220)** A strong risk management strategy ensures AI remains secure and compliant with evolving regulations, which help minimize financial losses by reducing AI system failures and building trust with customers and stakeholders by demonstrating responsible AI practices.
+> **[3:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=220)** A strong risk management strategy ensures AI remains secure and compliant with evolving regulations, which help minimize financial losses by reducing AI system failures and [[Building Trust]] with customers and stakeholders by demonstrating [[Responsible AI]] practices.
 >
 > **[4:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-risk-management?u=76281980&t=242)** AI security risk management is just one part of responsible AI governance.
 >
@@ -383,19 +378,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), [[Security]] (7), data (5), management (4), next (3)
+> **Frameworks & Libraries:** [[AI Security]] (4), [[Responsible AI]] (2), [[Data Quality]] (1), [[Security Risk]] (1), [[Data Governance]] (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating regulatory frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980)
+#### [Navigating regulatory frameworks](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=0)** - [Instructor] AI-driven decisions impact real people, businesses, and economies, making it essential to ensure AI is secure, fair, and compliant right from the start.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=14)** Compliance and security must go hand in hand to protect AI systems from privacy breaches, biased decision making, security vulnerabilities, and legal penalties.
+> **[0:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=14)** Compliance and security must go hand in hand to protect AI systems from [[Privacy]] breaches, biased decision making, security vulnerabilities, and legal penalties.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=25)** Ignoring AI regulations isn't just a legal issue.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=32)** Regulatory fines can be severe, with the Europe AI Act imposing penalties of up to 7% of a company's global revenue.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=41)** In one case, OpenAI was fined 15 million euros by the Italian Data Protection Authority for GDPR violations, citing failures in obtaining proper consent and ensuring transparency in data collection.
+> **[0:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=41)** In one case, OpenAI was fined 15 million euros by the Italian Data Protection Authority for GDPR violations, citing failures in obtaining proper consent and ensuring transparency in [[Data Collection]].
 >
 > **[0:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=57)** This case underscores the financial and reputational risks of non-compliance.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=97)** Companies expanding across multiple regions must navigate a complex landscape of regulations, each with unique security, privacy, and governance requirements.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=109)** For organizations working globally, ISO 42001 serves as the first international AI governance standard, providing best practices for managing AI risks, ensuring transparency, and embedding ethics into AI systems.
+> **[1:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=109)** For organizations working globally, ISO 42001 serves as the first international [[AI Governance]] standard, providing best practices for managing AI risks, ensuring transparency, and embedding [[Ethics]] into AI systems.
 >
 > **[2:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=126)** It helps businesses establish a structured compliance approach across different regulatory environments.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=160)** Then in the US, compliance depends on industry and jurisdiction.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=166)** The NIST AI Risk Management Framework offers AI safety guidance at a national level, while FedRAMP ensures that AI-powered cloud services meet federal security requirements.
+> **[2:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=166)** The [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]] offers AI safety guidance at a national level, while FedRAMP ensures that AI-powered [[Cloud Services]] meet federal security requirements.
 >
 > **[3:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=181)** California's Consumer Privacy Act, commonly referred to as CCPA, that governs AI-related data practices by enforcing consumer rights over personal information.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=244)** Then finance relies on AI for fraud detection, credit scoring, and trading.
 >
-> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=250)** Financial companies, they need to comply with GDPR for data privacy, PCI DSS for secure payments, and SCC regulations for transparency.
+> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=250)** Financial companies, they need to comply with GDPR for [[Data Privacy]], PCI DSS for secure payments, and SCC regulations for transparency.
 >
 > **[4:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=260)** AI-driven retail platforms use machine learning for marketing and personalization using their customer data, which makes compliance with CCPA and GDPR essential.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=324)** Security goes beyond compliance, protecting AI from evolving threats with extra layer of defense added to them.
 >
-> **[5:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=333)** Frameworks like NIST AI Risk Management Framework, OWASP AI Top 10, and MITRE ATLAS help build strong, more resilient AI systems that do more than just check regulatory boxes.
+> **[5:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=333)** Frameworks like NIST AI Risk Management Framework, [[OWASP]] AI Top 10, and MITRE ATLAS help build strong, more resilient AI systems that do more than just check regulatory boxes.
 >
 > **[5:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=350)** Ignoring AI compliance and security can lead to serious financial, legal, and reputational damage for the organization.
 >
@@ -481,13 +475,13 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=430)** To avoid compliance failures, companies must combine compliance with security from the start.
 >
-> **[7:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=436)** A strong AI governance model will help ensure that legal rules match cybersecurity best practices.
+> **[7:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=436)** A strong AI governance model will help ensure that legal rules match [[Cybersecurity]] best practices.
 >
-> **[7:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=445)** Transparency, accountability, and fairness should be built into the AI development from day one.
+> **[7:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=445)** Transparency, [[Accountability]], and fairness should be built into the AI development from day one.
 >
 > **[7:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=453)** Regular risk assessments help prevent compliance from becoming an afterthought.
 >
-> **[7:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=458)** A well-planned compliance strategy reduces risks, builds trust, and supports responsible AI use.
+> **[7:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=458)** A well-planned compliance strategy reduces risks, builds trust, and supports [[Responsible AI]] use.
 >
 > **[7:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=466)** Compliance isn't just about avoiding fines.
 >
@@ -497,20 +491,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (43), [[Security]] (14), data (9), [[Privacy]] (5), [[NIST]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[NIST]] (3), [[Risk Management Framework (RMF)|Risk management framework]] (3), [[AI Governance]] (2), [[Data Collection]] (1)
 > **Env Vars:** gdpr (7), ccpa (5), nist (3), iso (1), hipaa (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance strategies for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980)
+#### [Compliance strategies for AI](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=1)** Now that we have covered AI regulations and what to consider during prototyping, let's talk about compliance strategies and how businesses can apply security frameworks while staying compliant.
+> **[0:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=1)** Now that we have covered AI regulations and what to consider during [[Prototyping]], let's talk about compliance strategies and how businesses can apply security frameworks while staying compliant.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=14)** AI adoption is growing faster than we can imagine.
 >
@@ -544,29 +537,29 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=130)** GDPR mandates data protection impact assessments, blending compliance with risk management to ensure that there is a strong governance.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=141)** Organizations need structured AI security architectures that help embed data protection, risk mitigation and continuous security validation at every stage.
+> **[2:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=141)** Organizations need structured [[AI Security]] architectures that help embed data protection, risk mitigation and continuous security validation at every stage.
 >
 > **[2:34](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=154)** A strong AI security architecture, it protects data, controls access and verifies every request before granting permission.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=165)** Key measures to incorporate all that into AI security include encrypting AI training data, both at rest and in transit, to keep it safe.
+> **[2:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=165)** Key measures to incorporate all that into AI security include encrypting AI training data, both at [[Representational State Transfer (REST)|rest]] and in transit, to keep it safe.
 >
 > **[2:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=177)** Then secondly, using role-based access control, or RBAC, to restrict who can modify, train or deploy AI models.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=186)** Then thirdly, applying zero-trust security, meaning AI systems must verify every access request before allowing entry.
 >
-> **[3:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=197)** To secure AI development, companies must integrate security into machine learning operation workflows, or MLOps, from development to production, so that AI models are built with security in mind, reducing vulnerabilities before deployment of these AI systems.
+> **[3:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=197)** To secure AI development, companies must integrate security into machine learning operation workflows, or [[MLOps]], from development to production, so that AI models are built with security in mind, reducing vulnerabilities before deployment of these AI systems.
 >
 > **[3:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=215)** Then secondly, companies should also use containerized environments to safely host AI models so that models remain isolated, scalable and protected from unauthorized access or tampering.
 >
-> **[3:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=232)** Then thirdly, companies must deploy real-time monitoring tools to help detect security threats as they happen so that potential attacks, anomalies or failures can be identified and mitigated before they cause any damage to your organization.
+> **[3:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=232)** Then thirdly, companies must deploy [[Real-Time]] monitoring tools to help detect security threats as they happen so that potential attacks, anomalies or failures can be identified and mitigated before they cause any damage to your organization.
 >
-> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=250)** Having AI governance policies is not enough, they must be put into action.
+> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=250)** Having [[AI Governance]] policies is not enough, they must be put into action.
 >
 > **[4:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=257)** This means aligning regulations with security steps that actively reduce risks.
 >
-> **[4:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=263)** For example, GDPR requires data privacy, so companies implement differential privacy and automated data masking to protect personal data in AI workflows.
+> **[4:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=263)** For example, GDPR requires [[Data Privacy]], so companies implement differential [[Privacy]] and automated data masking to protect personal data in AI workflows.
 >
-> **[4:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=277)** The NIST AI risk management framework recommends risk management, so security teams run adversarial testing to check if AI models can withstand attacks that manipulate inputs to trick them.
+> **[4:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=277)** The [[NIST]] AI [[Risk Management Framework (RMF)|risk management framework]] recommends risk management, so security teams run adversarial testing to check if AI models can withstand attacks that manipulate inputs to trick them.
 >
 > **[4:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/compliance-strategies-for-ai?u=76281980&t=293)** They also conduct bias detection audits to ensure that AI decisions are fair and unbiased, preventing discrimination based on gender, race, or other factors.
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (33), [[Security]] (18), data (10), [[Prototyping]] (2), management (2)
+> **Frameworks & Libraries:** [[AI Security]] (4), [[Prototyping]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1), [[Real-Time]] (1)
 > **Env Vars:** gdpr (3), hipaa (1), rbac (1), nist (1), shap (1)
 > **CLI Commands:** make (1), cd (1)
 > **Analogies:** imagine (1), for example (1)
@@ -601,20 +594,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Risk Management Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
+#### [Intro to Risk Management Framework](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=1)** In our previous module of governance risk and compliance, we explored the fundamentals of AI security risk management, understanding key risk areas.
+> **[0:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=1)** In our previous module of governance risk and compliance, we explored the fundamentals of [[AI Security]] risk management, understanding key risk areas.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=12)** Now it's time to take things a step further.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=15)** AI security isn't just about identifying risks, it's about managing them effectively through a structured approach.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=24)** That's where a risk management framework comes in.
+> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=24)** That's where a [[Risk Management Framework (RMF)|risk management framework]] comes in.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980&t=29)** Today, we will break it down into clear actionable steps, ensuring that AI security is not just a concept, but a real-world practice within your organization.
 >
@@ -638,12 +630,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (6), management (2), [[Risk Management Framework (RMF)|Risk management framework]] (2), data (1)
+> **Frameworks & Libraries:** [[AI Security]] (5), [[Risk Management Framework (RMF)|Risk management framework]] (2)
 > **Analogies:** just like (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify and assess risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980)
+#### [Identify and assess risks](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=144)** If you are assessing risk only at one point in time during deployment and never revisit it again, your organization may fail to recognize new vulnerabilities which may emerge due to the evolution of your AI model.
 >
-> **[2:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=161)** AI security requires continuous evaluation to detect shifts that could introduce new risks into the model.
+> **[2:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=161)** [[AI Security]] requires continuous evaluation to detect shifts that could introduce new risks into the model.
 >
 > **[2:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=168)** For example, consider an AI-powered autonomous vehicle.
 >
@@ -715,7 +706,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=254)** It must be revisited throughout AI's entire lifecycle.
 >
-> **[4:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=259)** AI models require continuous monitoring, dynamic risk assessments, and strict oversight on third-party dependencies to remain secure.
+> **[4:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=259)** AI models require [[Continuous Monitoring]], dynamic risk assessments, and strict oversight on third-party dependencies to remain secure.
 >
 > **[4:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/identify-assess-risks?u=76281980&t=269)** Now, keep in mind that not all risks require the same level of investment.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), [[Security]] (13), data (5), business (2), next (2)
+> **Frameworks & Libraries:** [[AI Security]] (3), [[Continuous Monitoring]] (2)
 > **Analogies:** imagine (2), just like (2), for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** fair (1)
@@ -757,8 +748,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mitigate, monitor, and audit risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980)
+#### [Mitigate, monitor, and audit risks](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=18)** If something seems off like an unexpected deviation from the flight path, immediate action is taken to prevent a potential disaster.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=29)** AI security needs the same level of continuous monitoring and risk mitigation to help prevent system failures, security breaches, and operational disruptions.
+> **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=29)** [[AI Security]] needs the same level of [[Continuous Monitoring]] and risk mitigation to help prevent system failures, security breaches, and operational disruptions.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=40)** Identifying risks is just the beginning.
 >
@@ -810,11 +800,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=180)** Just like in aviation, black box flight recorders provide crucial data after an incident, AI security audits serve the same purpose.
 >
-> **[3:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=190)** They ensure transparency, accountability, and compliance with regulations.
+> **[3:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=190)** They ensure transparency, [[Accountability]], and compliance with regulations.
 >
 > **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=196)** AI systems should be auditable so that businesses can understand and justify their decisions later.
 >
-> **[3:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=204)** AI models handling sensitive data in finance, healthcare, and law enforcement must align with standards like ISO 40 2001 and NIST AI Risk Management Framework.
+> **[3:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=204)** AI models handling sensitive data in finance, healthcare, and law enforcement must align with standards like ISO 40 2001 and [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]].
 >
 > **[3:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/mitigate-monitor-audit-risks?u=76281980&t=218)** Any external AI service providers should undergo security audits to prevent supply chain attacks.
 >
@@ -834,15 +824,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), [[Security]] (11), data (6), [[Continuous Monitoring]] (3), traffic (1)
+> **Frameworks & Libraries:** [[AI Security]] (7), [[Continuous Monitoring]] (3), [[Accountability]] (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Analogies:** for example (2), just like (2), imagine (1), for instance (1)
 > **Env Vars:** iso (1), nist (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage policies, procedures, and training
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980)
+#### [Manage policies, procedures, and training](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,11 +841,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=16)** Without these foundational elements, even the most advanced security controls can fail due to human error, miscommunication, or lack of complete oversight.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=27)** Organizations must start by implementing AI security policies that provide a clear framework for how AI models are developed, deployed, and maintained over time.
+> **[0:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=27)** Organizations must start by implementing [[AI Security]] policies that provide a clear framework for how AI models are developed, deployed, and maintained over time.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=39)** These policies define who can access AI models, and how data should be handled, and what security measures must be followed at every single stage.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=52)** Just like financial regulations, ensure transparency in banking AI policies ensure that AI systems operate securely and responsibly.
+> **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=52)** Just like financial regulations, ensure transparency in [[Banking]] AI policies ensure that AI systems operate securely and responsibly.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=62)** Policies must then be translated into standards and then standards into actionable procedures that guide daily operations.
 >
@@ -868,9 +857,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=99)** Training and communication are the key to help ensure that teams understand their role in securing AI.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=107)** Employees working with AI must be aware of risks such as bias, adversarial manipulation, and data integrity issues.
+> **[1:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=107)** Employees working with AI must be aware of risks such as bias, adversarial manipulation, and [[Data Integrity]] issues.
 >
-> **[1:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=115)** Regular training sessions, internal security updates, and cross-functional collaboration helps embed security awareness into the organization's culture itself.
+> **[1:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=115)** Regular training sessions, internal security updates, and cross-functional collaboration helps embed [[Security Awareness]] into the organization's culture itself.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/manage-policies-procedures-training?u=76281980&t=127)** Security teams must also work closely with AI developers and data scientists to help ensure that security is integrated from the start itself.
 >
@@ -892,17 +881,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Security]] (10), data (3), teams (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[AI Security]] (2), [[Banking]] (1), [[Data Integrity]] (1)
 > **Analogies:** just like (1), such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish oversight and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980)
+#### [Establish oversight and governance](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=0)** - [Instructor] To help us understand this topic of establishing oversight and governance for AI security, let's imagine a pilot navigating a commercial flight.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=0)** - [Instructor] To help us understand this topic of establishing oversight and governance for [[AI Security]], let's imagine a pilot navigating a commercial flight.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=11)** While they control the aircraft, the pilot doesn't make every decision alone.
 >
@@ -914,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=45)** No single developer or security team can handle AI risk management all by themselves.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=52)** AI governance requires structured oversight, clear accountability, and leadership involvement to help ensure that AI systems operate securely, ethically, and in alignment with business objectives and strategy.
+> **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=52)** [[AI Governance]] requires structured oversight, clear [[Accountability]], and leadership involvement to help ensure that AI systems operate securely, ethically, and in alignment with business objectives and strategy.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=68)** Aligning on AI risk tolerance, which was covered earlier in the course, is like different airlines deciding on their safety policies.
 >
@@ -934,15 +922,15 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=153)** AI governance should work the same way.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=156)** Organizations need structured AI governance frameworks led by CISOs, AI ethics boards, and compliance teams, to help enforce risk policies at every level.
+> **[2:36](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=156)** Organizations need structured AI governance frameworks led by CISOs, AI [[Ethics]] boards, and compliance teams, to help enforce risk policies at every level.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=169)** Without formal governance structures, AI models can drift, as well as security can weaken and compliance risks can escalate, just like an aircraft flying without navigation controls.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=183)** Developing executive and board oversight is like airline executives reviewing safety audits.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=189)** No major airline would operate without regular safety assessments, compliance checks, and leadership accountability.
+> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=189)** No major airline would operate without regular safety assessments, compliance checks, and [[Leadership Accountability]].
 >
-> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=196)** AI systems require the same top-down involvement from [[Executive Leadership]] to help ensure that AI risks are continuously managed and security policies are enforced.
+> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=196)** AI systems require the same top-down involvement from [[[[Executive Leadership]]]] to help ensure that AI risks are continuously managed and security policies are enforced.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=208)** For example, an AI-powered financial trading algorithm could introduce massive financial losses if left unchecked.
 >
@@ -950,7 +938,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=232)** AI governance isn't just about compliance, it's about ensuring accountability, transparency, and ethical responsibility at every level.
 >
-> **[4:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=241)** Just as aviation relies on coordinated decision-making between pilots, regulators, and executives, AI security must be a shared responsibility across teams and leadership.
+> **[4:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=241)** Just as aviation relies on coordinated [[Decision-Making]] between pilots, regulators, and executives, AI security must be a shared responsibility across teams and leadership.
 >
 > **[4:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=254)** So the question is, does your AI have the oversight of a well-regulated airline, or is it operating without a control tower?
 >
@@ -958,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), [[Security]] (6), leadership (3), [[Accountability]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[AI Governance]] (5), [[AI Security]] (3), [[Accountability]] (2), [[Ethics]] (1), [[Leadership Accountability]] (1)
 > **Analogies:** for example (2), imagine (1), just like (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -970,8 +958,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the AI lifecycle?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
+#### [What is the AI lifecycle?](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,9 +966,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=10)** Before an AI model generates insights, it must go through a structured lifecycle to ensure that it is developed, trained, deployed, and maintained effectively.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=21)** For AI product managers and software developers focused on prototyping, understanding this lifecycle is crucial to build scalable, efficient, and secure models.
+> **[0:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=21)** For AI product managers and software developers focused on [[Prototyping]], understanding this lifecycle is crucial to build scalable, efficient, and secure models.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=33)** The first stage of AI lifecycle is data collection and preparation.
+> **[0:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=33)** The first stage of AI lifecycle is [[Data Collection]] and preparation.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=38)** AI models depend on high-quality data to make accurate predictions.
 >
@@ -989,21 +976,21 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=52)** To avoid this, teams must clean, structure, and validate their data, removing inconsistencies and ensuring fairness.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=61)** Security risks at this stage include biased datasets, incorrect labeling, and potential data poisoning, where bad actors introduce misleading information to corrupt AI decision-making process.
+> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=61)** Security risks at this stage include biased datasets, incorrect labeling, and potential data poisoning, where bad actors introduce misleading information to corrupt AI [[Decision-Making]] process.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=75)** Implementing data validation techniques and ensuring that data integrity through tracking and verification helps mitigate these risks.
+> **[1:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=75)** Implementing [[Data Validation]] techniques and ensuring that [[Data Integrity]] through tracking and verification helps mitigate these risks.
 >
 > **[1:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=86)** Once the data is prepared, teams move to model development and training.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=91)** In this phase, AI engineers design and train models to recognize patterns and generate predictions.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=99)** This involves selecting the right algorithms, adjusting parameters, and refining models through repeated testing.
+> **[1:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=99)** This involves selecting the right [[Algorithms]], adjusting parameters, and refining models through repeated testing.
 >
 > **[1:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=108)** However, AI models can be vulnerable to adversarial manipulation, where small changes in inputs can cause incorrect outputs.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=118)** Additionally, if the training data is leaked, it can expose sensitive information.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=125)** To implement these issues, teams should implement security measures such as adversarial testing, differential privacy techniques, and explainability tools to understand how AI makes decisions.
+> **[2:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=125)** To implement these issues, teams should implement security measures such as adversarial testing, differential [[Privacy]] techniques, and explainability tools to understand how AI makes decisions.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=139)** Ensuring that AI models generalize well to the real-world scenarios helps prevent overfitting and enhances reliability.
 >
@@ -1013,7 +1000,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=166)** Security risks arise if models are not properly validated before going live.
 >
-> **[2:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=172)** Adversarial testing, version control, and integrity checks ensure that models functions as expected and are resistant to manipulation.
+> **[2:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=172)** Adversarial testing, [[Version Control]], and integrity checks ensure that models functions as expected and are resistant to manipulation.
 >
 > **[3:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=182)** During deployment, models are integrated into applications and services through APIs, cloud platforms, or on-premise systems.
 >
@@ -1023,7 +1010,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=221)** AI systems are dynamic in nature, meaning they must continuously learn and adapt to new data and evolving threats.
 >
-> **[3:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=231)** Over time, as the models get more and more data and fine tuning is done, the models may experience data drift where patterns change, reducing the accuracy of the model.
+> **[3:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=231)** Over time, as the models get more and more data and [[Fine Tuning]] is done, the models may experience data drift where patterns change, reducing the accuracy of the model.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=247)** Regular monitoring, retraining with updated data, and performance tracking help keep AI systems relevant.
 >
@@ -1037,7 +1024,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=291)** Addressing risks at each and every stage from data prep to deployment ensures that AI remains reliable, unbiased, and resistant to security threats.
 >
-> **[5:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=303)** By integrating security and best practices throughout the AI lifecycle, teams can create AI solutions that are robust, ethical, and ready for real-world challenges.
+> **[5:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=303)** By integrating security and best practices throughout the AI lifecycle, teams can create [[AI Solutions]] that are robust, ethical, and ready for real-world challenges.
 >
 > **[5:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980&t=314)** In the next module, we will explore how adversarial attacks work and how AI developers can implement security defenses from the prototyping stage itself.
 >
@@ -1045,15 +1032,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), data (14), [[Security]] (8), teams (5), [[Prototyping]] (2)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Version Control]] (2), [[Data Collection]] (1), [[Decision-Making]] (1), [[Data Validation]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to adversarial attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980)
+#### [Introduction to adversarial attacks](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=15)** To understand how these attacks work, let's look at the entire AI lifecycle, and how AI is targeted at these different stages of the lifecycle, from building and training to deployment and real world use.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=30)** AI starts with data preparation, where large amounts of information are collected and cleaned before training.
+> **[0:30](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=30)** AI starts with [[Data Preparation]], where large amounts of information are collected and cleaned before training.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=38)** If this data is tampered with, the entire AI model can be affected.
 >
@@ -1113,21 +1099,21 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=268)** Then, jailbreak attacks push AI to bypass safety filters and produce harmful, biased, or misleading content.
 >
-> **[4:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=277)** These types of attacks are especially common in large language models.
+> **[4:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=277)** These types of attacks are especially common in [[Large Language Models (LLM)|large language models]].
 >
 > **[4:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=282)** Another major attack is model denial of service attacks, where AI models such as financial trading systems are overloaded with requests, which lead to their slow performance or complete failure.
 >
-> **[4:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=298)** Attackers can also manipulate AI's bias and fairness algorithms, causing the AI to favor certain groups unfairly, which raises ethical concerns.
+> **[4:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=298)** Attackers can also manipulate AI's bias and fairness [[Algorithms]], causing the AI to favor certain groups unfairly, which raises ethical concerns.
 >
 > **[5:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=310)** One of the biggest challenges with these attacks is that they are harder to detect.
 >
-> **[5:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=316)** Unlike traditional cybersecurity threats, which use malware or stolen passwords, adversarial attacks trick AI at its core, making them difficult to trace.
+> **[5:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=316)** Unlike traditional [[Cybersecurity]] threats, which use malware or stolen passwords, adversarial attacks trick AI at its core, making them difficult to trace.
 >
 > **[5:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=328)** AI lacks human judgment, and relies only on math-based patterns, making it easier to manipulate with small, undetectable tweaks.
 >
 > **[5:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=339)** Many AI teams focus on improving accuracy, but overlook security protections, leaving AI vulnerable.
 >
-> **[5:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=347)** The AI security rules are also struggling to keep up, making it difficult for companies to protect against emerging threats.
+> **[5:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=347)** The [[AI Security]] rules are also struggling to keep up, making it difficult for companies to protect against emerging threats.
 >
 > **[5:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/introduction-to-adversarial-attacks?u=76281980&t=357)** To make things worse, adversarial attacks are becoming automated now.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (38), data (11), [[Security]] (8), teams (2), api (2)
+> **Frameworks & Libraries:** [[AI Security]] (2), [[Data Preparation]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Algorithms]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (2), for instance (1), such as (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
@@ -1156,12 +1142,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defensive techniques against adversarial attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980)
+#### [Defensive techniques against adversarial attacks](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=0)** - [Instructor] In the last video, we saw how AI models can be attacked at every stage of AI lifecycle, from data preparation to deployment and ongoing use.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=0)** - [Instructor] In the last video, we saw how AI models can be attacked at every stage of AI lifecycle, from [[Data Preparation]] to deployment and ongoing use.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=11)** Now, let's go over how AI product developers can protect their models using practical defenses at every step.
 >
@@ -1169,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=29)** But if the data is poisoned, the model will learn the wrong patterns.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=35)** To prevent this, teams should use data validation tools, like Great Expectations or TensorFlow Data Validation, to help spot anomalies.
+> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=35)** To prevent this, teams should use [[Data Validation]] tools, like Great Expectations or [[TensorFlow]] Data Validation, to help spot anomalies.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=46)** Anomaly detection methods, such as isolation forests or statistical outlier detection, help flag unusual patterns that might indicate tampering.
 >
@@ -1177,11 +1162,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=67)** SHA-256 generates a fixed-length hash for each dataset, acting like a digital fingerprint, and any small change in the data results in a completely different hash now, making unauthorized modifications easy to detect.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=87)** Dataset fingerprinting goes even further by embedding identifiable markers or metadata within datasets, which helps allow teams to track data sources, verify integrity, and ensure that data hasn't been altered or poisoned before training an AI model.
+> **[1:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=87)** Dataset fingerprinting goes even further by embedding identifiable markers or [[Metadata]] within datasets, which helps allow teams to track data sources, verify integrity, and ensure that data hasn't been altered or poisoned before training an AI model.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=108)** Supply chain security is also crucial here as data should only come from trusted providers, like AWS Data Exchange or Google Dataset Search, and blockchain-based integrity checks can also help track dataset origins.
+> **[1:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=108)** [[Supply Chain Security]] is also crucial here as data should only come from trusted providers, like AWS Data Exchange or [[Google]] Dataset Search, and [[Blockchain]]-based integrity checks can also help track dataset origins.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=126)** Differential privacy techniques, such as those in Google's TensorFlow Privacy, introduce noise to the data to help prevent any single data point from overly influencing the AI model.
+> **[2:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=126)** Differential [[Privacy]] techniques, such as those in Google's TensorFlow Privacy, introduce noise to the data to help prevent any single data point from overly influencing the AI model.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=140)** The next phase is of model development, training, and fine-tuning, where attackers may try to introduce poisoned gradients or back doors to manipulate the model.
 >
@@ -1193,21 +1178,21 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=191)** Model explainability tools, like SHAP and LIME, help developers understand why a model makes certain decisions, making it easier to spot unexpected or suspicious behavior.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=206)** Then HiddenLayer's AI security platform can also be used at this stage to detect and respond to adversarial threats in real time, helping to protect against model tampering and adversarial perturbations.
+> **[3:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=206)** Then HiddenLayer's [[AI Security]] platform can also be used at this stage to detect and respond to adversarial threats in real time, helping to protect against model tampering and adversarial perturbations.
 >
 > **[3:43](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=223)** Once a model has been trained, now we move into deployment phase, where it is exposed to real-world use.
 >
 > **[3:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=231)** Attackers at this stage may try techniques like model evasions, where small modifications to inputs trick the AI into making incorrect predictions.
 >
-> **[4:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=242)** Defenses at this stage include using robust classifiers, such as adversarially trained conation neural networks, or commonly referred to as CNNs, which are better at recognizing manipulated inputs and vision transformers, which help improve resilience in image-based AI systems.
+> **[4:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=242)** Defenses at this stage include using robust classifiers, such as adversarially trained conation [[Neural Networks]], or commonly referred to as CNNs, which are better at recognizing manipulated inputs and vision transformers, which help improve resilience in image-based AI systems.
 >
 > **[4:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=266)** Input pre-processing techniques, like randomized smoothing using Smooth Mix, or principle component analysis helps filter out adversarial noise before the model processes inputs.
 >
 > **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=281)** Then API security is also crucial here.
 >
-> **[4:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=285)** JSON Web Token-based access control and web application firewalls, like AWS WAF or CloudFlare, may help prevent unauthorized API access.
+> **[4:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=285)** [[JSON]] Web Token-based access control and web application firewalls, like AWS WAF or CloudFlare, may help prevent unauthorized API access.
 >
-> **[4:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=299)** Holographic encryption, which is a cryptographic technique that allows computations to be performed on encrypted data without decrypting it by using tools like Microsoft SEAL, allow computations on encrypted data without exposing the raw inputs, while secure enclaves, like Intel SGX, keeps sensitive computations protected from external access.
+> **[4:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=299)** Holographic encryption, which is a cryptographic technique that allows computations to be performed on encrypted data without decrypting it by using tools like [[Microsoft]] SEAL, allow computations on encrypted data without exposing the raw inputs, while secure enclaves, like Intel SGX, keeps sensitive computations protected from external access.
 >
 > **[5:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=329)** Developers should also remove confidence scores from API responses to help prevent attackers from reverse engineering how the models make decisions.
 >
@@ -1221,7 +1206,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=392)** Then model watermarking tools, like Deep Signs, embed hidden identifiers in the AI models, which help allow companies to track stolen or unauthorized versions of their model.
 >
-> **[6:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=406)** Real-time drift detection with tools like Evidently AI monitors incoming data and alert systems if it starts to shift significantly, as well as behavior anomaly detection via Elastic Security or Splunk AI can also help flag suspicious API activity that could indicate an attack.
+> **[6:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=406)** [[Real-Time]] drift detection with tools like Evidently AI monitors incoming data and alert systems if it starts to shift significantly, as well as behavior anomaly detection via Elastic Security or Splunk AI can also help flag suspicious API activity that could indicate an attack.
 >
 > **[7:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=430)** Finally, you can also implement rate limiting using tools like CloudFlare, AWS API Gateway, and other gateways in the market to help prevent excessive automated queries from overwhelming AI systems.
 >
@@ -1229,13 +1214,13 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=463)** By applying these security techniques at every stage, AI product developers can build models that are much harder to attack.
 >
-> **[7:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=472)** I do want to mention that all these different products that I mentioned, there are plenty of products which provide these kind of protections, so please use your own judgment and do your own evaluation before you select any tool for implementing in your enterprise.
+> **[7:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=472)** I do want to mention that all these different [[Microsoft Products|products]] that I mentioned, there are plenty of products which provide these kind of protections, so please use your own judgment and do your own evaluation before you select any tool for implementing in your enterprise.
 >
 > **[8:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/defensive-techniques-against-adversarial-attacks?u=76281980&t=491)** Thank you for watching this video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (20), [[Security]] (6), api (6), [[Privacy]] (5)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Validation]] (2), [[TensorFlow]] (2), [[Google]] (2), [[AI Security]] (2)
 > **Env Vars:** api (6), aws (3), sha (1), shap (1), lime (1)
 > **CLI Commands:** aws (3), make (2)
 > **Analogies:** such as (4)
@@ -1243,8 +1228,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring model behavior for anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980)
+#### [Monitoring model behavior for anomalies](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,9 +1238,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=9)** It learns from the real-world data and evolves over time.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=13)** Without continuous monitoring, AI models can drift, and biases can emerge, and attackers can find new ways to manipulate them.
+> **[0:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=13)** Without [[Continuous Monitoring]], AI models can drift, and biases can emerge, and attackers can find new ways to manipulate them.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=24)** Just like a system security in a building, AI security must be proactive, always watching for unusual activity and adapting to new threats.
+> **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=24)** Just like a system security in a building, [[AI Security]] must be proactive, always watching for unusual activity and adapting to new threats.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=35)** One major challenge is model drift.
 >
@@ -1286,17 +1270,17 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=145)** To counter this, security teams must implement adversarial training for their model, which exposes these models to manipulated examples so that these models learn to resist them.
 >
-> **[2:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=161)** Another technique like gradient masking makes it harder for attackers to exploit weaknesses in AI models, where real-time anomaly detection flags send alerts to teams regarding suspicious inputs.
+> **[2:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=161)** Another technique like gradient masking makes it harder for attackers to exploit weaknesses in AI models, where [[Real-Time]] anomaly detection flags send alerts to teams regarding suspicious inputs.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=178)** Real-time AI observability is crucial for catching attacks as they happen during the operationalized phase of these AI models.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=189)** Monitoring dashboards track AI model behavior, where automated alerts notify security teams when certain shifts occur.
+> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=189)** Monitoring [[Dashboards]] track AI model behavior, where automated alerts notify security teams when certain shifts occur.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=199)** Teams must ensure that audit logs are turned on and that they are recording every AI decision, making it easier to investigate anomalies and ensure compliance.
 >
 > **[3:32](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=212)** In critical areas like finance and healthcare, human-in-the-loop oversight helps ensure that AI-driven decisions are reviewed by experts before action is being taken.
 >
-> **[3:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=225)** A proactive approach to AI security includes AI red teaming, which we touched briefly in the previous video.
+> **[3:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=225)** A proactive approach to AI security includes AI [[Red Teaming]], which we touched briefly in the previous video.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/monitoring-model-behavior-for-anomalies?u=76281980&t=233)** This is a method where security teams simulate attacks before real hackers can.
 >
@@ -1318,15 +1302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), [[Security]] (10), teams (6), data (4), [[Continuous Monitoring]] (2)
+> **Frameworks & Libraries:** [[AI Security]] (3), [[Continuous Monitoring]] (2), [[Real-Time]] (2), [[Red Teaming]] (2), [[Dashboards]] (1)
 > **Analogies:** for example (2), such as (2), just like (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [presenter] (1)
 
-#### A path to holistic security securing the AI supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980)
+#### [A path to holistic security securing the AI supply chain](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=52)** These cases highlight a critical truth.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=56)** AI security must be embedded across the supply chain, from data collection to deployment.
+> **[0:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=56)** [[AI Security]] must be embedded across the supply chain, from [[Data Collection]] to deployment.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=62)** The first layer of AI security starts with the data.
 >
@@ -1354,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=81)** Poor security can lead to data poisoning, unauthorized modifications, and compliance violations.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=88)** Organizations must enforce security controls like encryption, access controls, data validation and provenance, tracking to ensure that these AI models are trained on clean and secure data.
+> **[1:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=88)** Organizations must enforce security controls like encryption, access controls, [[Data Validation]] and provenance, tracking to ensure that these AI models are trained on clean and secure data.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=104)** The second layer is the AI models, which power the decision making.
 >
@@ -1374,9 +1357,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=193)** Just as an on-prem and cloud environment requires stronger perimeter defenses, AI environments demand robust security to prevent stolen models, disrupted operations, and exposure of sensitive data.
 >
-> **[3:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=208)** Infrastructure vulnerabilities, particularly the misconfigurations, introduce risks like privilege escalation and unauthorized modifications, which are challenges long recognized in traditional cybersecurity.
+> **[3:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=208)** Infrastructure vulnerabilities, particularly the misconfigurations, introduce risks like privilege escalation and unauthorized modifications, which are challenges long recognized in traditional [[Cybersecurity]].
 >
-> **[3:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=222)** A Chinese AI company, DeepSeek, its recent exposure highlights these risks, where a cloud security company, Whiz, its researchers were able to extract sensitive data due to misconfigurations in cloud storage.
+> **[3:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=222)** A Chinese AI company, DeepSeek, its recent exposure highlights these risks, where a [[Cloud Security]] company, Whiz, its researchers were able to extract sensitive data due to misconfigurations in [[Cloud Storage]].
 >
 > **[3:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=239)** This incident underscores how improper security controls can lead to AI model theft, as well as data getting exposed, which allows attackers to replicate proprietary technology.
 >
@@ -1384,15 +1367,15 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=273)** Beyond these internal components, organizations must secure the third party dependencies too.
 >
-> **[4:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=280)** AI systems often rely on external databases, pre-trained models and cloud services, but compromise sources introduce major security risks.
+> **[4:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=280)** AI systems often rely on external [[Databases]], pre-trained models and [[Cloud Services]], but compromise sources introduce major security risks.
 >
-> **[4:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=290)** Open source models on platforms, like Hugging Face or GitHub, could contain hidden back doors, while insecure supply chain dependencies can be exploited.
+> **[4:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=290)** Open source models on platforms, like [[Hugging Face]] or [[GitHub]], could contain hidden back doors, while insecure supply chain dependencies can be exploited.
 >
 > **[5:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=301)** Organizations must enforce strict vendor assessments, security contracts, and continuous audits to minimize these risks.
 >
 > **[5:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=310)** AI security isn't just about prevention.
 >
-> **[5:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=314)** It also requires a strong incident response and a recovery plan.
+> **[5:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=314)** It also requires a strong [[Incident Response]] and a recovery plan.
 >
 > **[5:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=319)** Even with robust defenses, AI supply chain breaches can happen.
 >
@@ -1404,13 +1387,13 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=350)** Governance and compliance are critical in securing the AI supply chain.
 >
-> **[5:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=355)** So AI teams should align security efforts with frameworks like NIST, AI Risk Management Framework, ISO 40 2001, GDPR, and the European AI Act.
+> **[5:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=355)** So AI teams should align security efforts with frameworks like [[NIST]], AI [[Risk Management Framework (RMF)|Risk Management Framework]], ISO 40 2001, GDPR, and the European AI Act.
 >
 > **[6:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=367)** But compliance isn't just about meeting legal requirements.
 >
 > **[6:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=370)** It must translate into action.
 >
-> **[6:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=372)** For instance, GDPR mandates data protection, so teams should implement differential privacy and automated data masking.
+> **[6:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=372)** For instance, GDPR mandates data protection, so teams should implement differential [[Privacy]] and automated data masking.
 >
 > **[6:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=381)** The Europe AI Act requires transparency, making explainability tools essential for ensuring AI decision making is fair and accountable.
 >
@@ -1420,13 +1403,13 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=412)** We must not forget that AI security is a shared responsibility.
 >
-> **[6:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=418)** Continuous monitoring, adaptive security controls, and collaboration across teams are essential to protecting AI systems.
+> **[6:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=418)** [[Continuous Monitoring]], adaptive security controls, and collaboration across teams are essential to protecting AI systems.
 >
 > **[7:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/a-path-to-hollistic-security-securing-the-ai-supply-chain?u=76281980&t=427)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (35), [[Security]] (23), data (15), cloud (6), teams (3)
+> **Frameworks & Libraries:** [[AI Security]] (6), [[Data Collection]] (2), [[Cybersecurity]] (2), [[Data Validation]] (1), [[Cloud Security]] (1)
 > **Env Vars:** api (2), gdpr (2), shap (1), lime (1), nist (1)
 > **Analogies:** such as (2), for instance (1)
 > **Tools:** github (1)
@@ -1438,12 +1421,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access control for AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
+#### [Access control for AI models](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=0)** - [Lecturer] Securing the AI product development by design starts with the fundamentals.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=0)** - [Lecturer] Securing the AI [[Product Development]] by design starts with the fundamentals.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=5)** Building security basics like confidentiality, integrity, and availability into the models starts from ground up.
 >
@@ -1483,7 +1465,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=148)** The DeepSeek exposure, which we discussed in the previous video, was like leaving a lab door open, exposing sensitive research data to outsiders.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=158)** By implementing encryption and network security, we ensure that unauthorized people cannot walk in and just take whatever they want.
+> **[2:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=158)** By implementing encryption and [[Network Security]], we ensure that unauthorized people cannot walk in and just take whatever they want.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=169)** Now, in another example, to prevent intellectual property theft, the research labs use watermarks, unique identifiers, and surveillance cameras.
 >
@@ -1501,7 +1483,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=230)** It has security guards, cameras, and ID checks at multiple points.
 >
-> **[3:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=235)** AI security needs multi-layer defenses too, such as multifactor authentication, which acts like requiring both an ID and a fingerprints scan to enter the lab.
+> **[3:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=235)** [[AI Security]] needs multi-layer defenses too, such as multifactor authentication, which acts like requiring both an ID and a fingerprints scan to enter the lab.
 >
 > **[4:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=249)** Then network restrictions ensure that access is only granted from approved locations and at approved times.
 >
@@ -1517,7 +1499,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=291)** Just like a secure research lab protects life-changing medical discoveries, AI security ensures that models remain accurate, trustworthy, and free from manipulation.
 >
-> **[5:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=302)** By implementing strong access controls like encryption, network security, and continuous monitoring, organizations can prevent unauthorized access and safeguard AI's confidentiality and integrity.
+> **[5:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=302)** By implementing strong access controls like encryption, network security, and [[Continuous Monitoring]], organizations can prevent unauthorized access and safeguard AI's confidentiality and integrity.
 >
 > **[5:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980&t=318)** Protecting AI models is not just about security.
 >
@@ -1527,15 +1509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Security]] (10), data (5), [[Network Security]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[AI Security]] (2), [[Product Development]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** just like (4), imagine (2), such as (2)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Env Vars:** api (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Security testing of AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980)
+#### [Security testing of AI models](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=18)** Just as a secure research lab doesn't stop at controlling entry only, scientists must continuously test their experiments to ensure accuracy, consistency, and safety before making new medical treatments available.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=35)** AI security follows the same principle.
+> **[0:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=35)** [[AI Security]] follows the same principle.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=38)** It's not enough to just log down access.
 >
@@ -1555,11 +1536,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=56)** They learn and adapt, making them dynamic attack targets.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=61)** Standard cybersecurity tests cannot fully address AI risks.
+> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=61)** Standard [[Cybersecurity]] tests cannot fully address AI risks.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=65)** Because AI doesn't follow fixed logic, its decisions shift over time based on the input data.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=74)** This is why structured repeatable security testing is critical at every stage of AI product development.
+> **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=74)** This is why structured repeatable [[Security Testing]] is critical at every stage of AI [[Product Development]].
 >
 > **[1:22](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=82)** Before AI models go live, they must be validated for robustness, integrity, and security.
 >
@@ -1595,19 +1576,19 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=254)** Tools like SHAP and LIME, which were covered earlier, they provide visibility into AI behavior, ensuring that attackers cannot manipulate decision logic undetected.
 >
-> **[4:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=266)** Beyond explainability testing, AI security teams must also engage in red teaming exercises, which actively simulates adversaries attempting to break AI defenses.
+> **[4:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=266)** Beyond explainability testing, AI security teams must also engage in [[Red Teaming]] exercises, which actively simulates adversaries attempting to break AI defenses.
 >
 > **[4:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=280)** In these exercises, ethical hackers tests an organization's cybersecurity by replicating real world attack techniques, red teaming in AI uncovers security gaps that traditional testing might miss.
 >
-> **[4:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=296)** Security teams must assess risks such as evasion attacks, where adversarial inputs mislead AI into producing incorrect results, data poisoning, where manipulated training data corrupts AI decision making and model inversion risks where attackers attempt to extract sensitive data from AI outputs, AI penetration testing goes even further.
+> **[4:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=296)** Security teams must assess risks such as evasion attacks, where adversarial inputs mislead AI into producing incorrect results, data poisoning, where manipulated training data corrupts AI decision making and model inversion risks where attackers attempt to extract sensitive data from AI outputs, AI [[Penetration Testing]] goes even further.
 >
 > **[5:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=324)** It helps assess the security of the entire AI ecosystem.
 >
-> **[5:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=328)** Just as a pharmaceutical lab must secure research data, AI security teams must protect data pipelines, APIs, and model storage.
+> **[5:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=328)** Just as a pharmaceutical lab must secure research data, AI security teams must protect [[Data Pipelines]], APIs, and model storage.
 >
 > **[5:40](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=340)** API security testing ensures that these AI interfaces are not vulnerable to unauthorized curies.
 >
-> **[5:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=349)** And then data pipeline security reviews help prevent training data manipulation, and deployment security assessments.
+> **[5:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=349)** And then data pipeline security reviews help prevent training [[Data Manipulation]], and deployment security assessments.
 >
 > **[5:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=358)** They help in validating that AI models are properly encrypted and protected from tampering.
 >
@@ -1621,11 +1602,11 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=418)** Since AI systems are dynamic in nature, security testing must be an ongoing process, not a single audit.
 >
-> **[7:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=426)** Integrating security testing across the AI lifecycle is non-negotiable during data preparation and model training, validating the data integrity prevents poisoning attacks.
+> **[7:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=426)** Integrating security testing across the AI lifecycle is non-negotiable during [[Data Preparation]] and model training, validating the [[Data Integrity]] prevents poisoning attacks.
 >
 > **[7:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=440)** Before deployment of these models, adversarial stress tests must evaluate AI resilience against evasion attacks, bias exploitation, and data extraction attacks.
 >
-> **[7:34](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=454)** While continuous monitoring and automated security assessments must safeguard models in production from emerging threats, AI security testing is not just about identifying threats.
+> **[7:34](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=454)** While [[Continuous Monitoring]] and automated security assessments must safeguard models in production from emerging threats, AI security testing is not just about identifying threats.
 >
 > **[7:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/security-testing-of-ai-models?u=76281980&t=468)** It's about ensuring AI models remain resilient, ethical, and secure.
 >
@@ -1641,14 +1622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (44), [[Security]] (24), data (12), teams (4), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Security Testing]] (7), [[AI Security]] (5), [[Cybersecurity]] (2), [[Red Teaming]] (2), [[Penetration Testing]] (2)
 > **Env Vars:** shap (1), lime (1), api (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business continuity management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980)
+#### [Business continuity management](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1664,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=41)** Organizations must have a business continuity management strategy to help ensure that these AI systems remain resilient, recoverable, and operational in the face of disruptions.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=54)** AI is increasingly embedded in critical decision-making processes and failures of these systems can have severe financial, regulatory, and operational impacts.
+> **[0:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=54)** AI is increasingly embedded in critical [[Decision-Making]] processes and failures of these systems can have severe financial, regulatory, and operational impacts.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=68)** While security measures can help prevent attacks and infrastructure issues, true resilience requires a well-defined plan to handle failures, restore operations, and maintain AI reliability.
 >
@@ -1672,17 +1652,17 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=89)** A fraud detection AI trained on outdated data may miss new fraud patterns, leading to financial losses and compliance violations.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=99)** To help prevent this, organizations should use continuous monitoring, automated retraining of the models and failover mechanisms to detect anomalies.
+> **[1:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=99)** To help prevent this, organizations should use [[Continuous Monitoring]], automated retraining of the models and failover mechanisms to detect anomalies.
 >
-> **[1:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=113)** AI lifecycle management tools like MLflow and Delta Lake, they help provide version control and auditability capability, allowing the teams to revert faulty models.
+> **[1:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=113)** AI lifecycle management tools like [[MLflow]] and Delta Lake, they help provide [[Version Control]] and auditability capability, allowing the teams to revert faulty models.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=125)** Cyber attacks targeting AI such as data poisoning, adversarial inputs, and moral theft, which were covered earlier, further threaten continuity.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=135)** In supply chain logistics, attackers could manipulate AI-generated delivery schedules, leading to shipment delays or stock shortages.
 >
-> **[2:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=144)** A robust business continuity plan integrates AI security monitoring, automated attack detection, and rapid incident response to help mitigate threats before disruptions even occur.
+> **[2:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=144)** A robust business continuity plan integrates [[AI Security]] monitoring, automated attack detection, and rapid [[Incident Response]] to help mitigate threats before disruptions even occur.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=159)** Organizations must adopt real-time AI threat detection, security logging, automated remediation scripts, and continuous monitoring to help ensure the system's integrity.
+> **[2:39](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=159)** Organizations must adopt [[Real-Time]] AI threat detection, security logging, automated remediation scripts, and continuous monitoring to help ensure the system's integrity.
 >
 > **[2:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=173)** Cloud outages can disrupt AI models, so organizations must reduce reliance on a single cloud provider.
 >
@@ -1708,17 +1688,17 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=278)** Explainability tools such as SHAP and Lime, they help teams analyze AI decisions and ensure transparency and allow quick issue diagnosis and correction.
 >
-> **[4:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=292)** AI business continuity needs teamwork between data science, security, and IT.
+> **[4:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=292)** AI business continuity needs teamwork between [[Data Science]], security, and IT.
 >
 > **[4:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=298)** Frameworks like Databricks AI Security Framework, they stress that cross-functional collaboration and coordination needs to take place.
 >
 > **[5:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=308)** Organizations should create AI security playbooks with plans for incident response, disaster recovery and risk management.
 >
-> **[5:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=318)** AI reliability is critical in healthcare, banking and infrastructure.
+> **[5:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=318)** AI reliability is critical in healthcare, [[Banking]] and infrastructure.
 >
 > **[5:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=323)** Without failover plans, compliance and testing, we risk the availability of our AI systems, and these AI failures can disrupt operations.
 >
-> **[5:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=335)** As AI adoption grows, business continuity must be a core part of AI governance.
+> **[5:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=335)** As AI adoption grows, business continuity must be a core part of [[AI Governance]].
 >
 > **[5:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/business-continuity-management?u=76281980&t=342)** Thank you for watching.
 >
@@ -1728,23 +1708,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (34), data (8), [[Security]] (7), cloud (6), business (5)
+> **Frameworks & Libraries:** [[AI Security]] (3), [[Incident Response]] (3), [[Continuous Monitoring]] (2), [[Real-Time]] (2), [[Decision-Making]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** shap (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated monitoring and alerting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980)
+#### [Automated monitoring and alerting](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=0)** - [Instructor] AI security is like a self-driving car.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=0)** - [Instructor] [[AI Security]] is like a self-driving car.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=3)** It needs constant monitoring to stay on track.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=7)** Without real-time monitoring, AI models can drift, degrade, or be manipulated.
+> **[0:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=7)** Without [[Real-Time]] monitoring, AI models can drift, degrade, or be manipulated.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=13)** To keep AI reliable, organizations must detect anomalies early on to prevent failures and respond quickly.
 >
@@ -1766,7 +1745,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=95)** So real time alerts, flag suspicious activity, preventing breaches, and ensuring compliance with regulations like GDPR, HIPAA and European AI Act.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=107)** Organizations need structured AI monitoring with security dashboards, threshold based alerts, and automated retraining, as well as human oversight.
+> **[1:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=107)** Organizations need structured AI monitoring with security [[Dashboards]], threshold based alerts, and automated retraining, as well as human oversight.
 >
 > **[1:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=119)** When you create dashboards, they provide real time visibility and the alerts, they help prevent unnoticed attacks and explainability tools like SHAP and LIME help distinguish between natural drift and manipulation.
 >
@@ -1780,7 +1759,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=167)** Strong identity management, API authentication and audit logs ensure compliance and security.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=176)** While the previous section covered continuous monitoring from adversarial defense perspective, this discussion highlights continuous monitoring as a proactive approach.
+> **[2:56](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=176)** While the previous section covered [[Continuous Monitoring]] from adversarial defense perspective, this discussion highlights continuous monitoring as a proactive approach.
 >
 > **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/automated-monitoring-and-alerting?u=76281980&t=189)** Instead of reacting to attacks, organizations must ensure that AI stays resilient, transparent, and accurate over time.
 >
@@ -1788,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Security]] (6), data (4), api (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[AI Security]] (2), [[Dashboards]] (2), [[Continuous Monitoring]] (2), [[Real-Time]] (1)
 > **Env Vars:** api (2), gdpr (1), hipaa (1), shap (1), lime (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1797,8 +1776,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building Secure CI/CD Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
+#### [Building Secure CI/CD Pipelines](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=21)** It requires security at every step from training to deployment, as we have already talked about previously.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=28)** A secure CI/CD, or continuous integration and continuous deployment pipelines ensures that AI models are tested, verified, and protected throughout their entire lifecycle.
+> **[0:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=28)** A secure CI/CD, or [[Continuous Integration (CI)|continuous integration]] and continuous deployment pipelines ensures that AI models are tested, verified, and protected throughout their entire lifecycle.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=42)** Imagine a car manufacturer that continuously updates its self-driving AI to better recognize stop signs, pedestrians, and traffic conditions.
 >
@@ -1828,29 +1806,29 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=108)** A secure CI/CD pipeline adds those checkpoints, cryptographic signing, and access controls to ensure that every AI model is genuine and safe before it goes live.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=122)** Another major issue is data integrity.
+> **[2:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=122)** Another major issue is [[Data Integrity]].
 >
 > **[2:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=126)** So we must ensure that AI models learn from clean and trustworthy data.
 >
 > **[2:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=132)** If fraudsters inject fake transactions labeled as legitimate into a fraud detection AI during training, the moral might stop recognizing real fraud.
 >
-> **[2:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=144)** A secure CI/CD pipeline includes automated data validation and anomaly detection to catch these issues before they corrupt the AI.
+> **[2:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=144)** A secure CI/CD pipeline includes automated [[Data Validation]] and anomaly detection to catch these issues before they corrupt the AI.
 >
 > **[2:36](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=156)** Now, let's cover some of the best practices for securing AI CI/CD pipelines.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=163)** Here is how organizations can lock down their AI development processes.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=169)** First, by implementing automated security testing.
+> **[2:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=169)** First, by implementing automated [[Security Testing]].
 >
 > **[2:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=174)** Before deploying AI, teams must run security tests to catch evasion attacks, bias issues, and data poisoning attempts.
 >
 > **[3:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=184)** Automated testing within CI/CD pipeline may help detect risks early on, preventing problems before they hit production.
 >
-> **[3:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=193)** Then second is version control and rollback mechanisms.
+> **[3:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=193)** Then second is [[Version Control]] and rollback mechanisms.
 >
 > **[3:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=198)** If an AI update introduces problems, teams need to quickly roll back to a previous secure version.
 >
-> **[3:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=205)** Tools like MLflow and Delta Lake track AI model versions, ensuring a clear audit trail.
+> **[3:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=205)** Tools like [[MLflow]] and Delta Lake track AI model versions, ensuring a clear audit trail.
 >
 > **[3:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=213)** Then third one is strict access control.
 >
@@ -1868,7 +1846,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=260)** When AI models are deployed as APIs or containers, strong authentication mechanisms like OAuth API keys must be implemented and the data should be encrypted where it is being transferred between these different components.
 >
-> **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=281)** Using secure infrastructure tools like Kubernetes and Dockers also help prevent external threats.
+> **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=281)** Using secure infrastructure tools like [[Kubernetes]] and Dockers also help prevent external threats.
 >
 > **[4:49](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=289)** So let's now quickly talk about why CI/CD security is critical for AI.
 >
@@ -1876,28 +1854,27 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=304)** Without these safeguards, organizations face financial losses, regulatory fines, and reputational damage, but security doesn't stop at deployment only.
 >
-> **[5:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=315)** AI models need continuous monitoring to detect anomalies, security breaches, and operational issues.
+> **[5:15](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=315)** AI models need [[Continuous Monitoring]] to detect anomalies, security breaches, and operational issues.
 >
 > **[5:21](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980&t=321)** In our next discussion, we will dive into continuous monitoring and threat detection in AI pipelines, so stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), [[Security]] (10), data (8), ci (7), cd (7)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Data Integrity]] (1), [[Data Validation]] (1), [[Security Testing]] (1)
 > **CLI Commands:** cd (7)
 > **Env Vars:** api (1), cicd (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI Software Supply Chain Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980)
+#### [AI Software Supply Chain Security](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=0)** - [Instructor] AI models are not built in isolation.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=3)** They rely on datasets, pre-trained models, third-party libraries, and cloud infrastructure, all of which introduce supply chain risks.
+> **[0:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=3)** They rely on datasets, pre-trained models, third-party libraries, and [[Cloud Infrastructure]], all of which introduce supply chain risks.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=13)** A single compromise dependency can lead to data poisoning, model tempering, or backdoor exploits, threatening AI security compliance and operational integrity.
+> **[0:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=13)** A single compromise dependency can lead to data poisoning, model tempering, or backdoor exploits, threatening [[AI Security]] compliance and operational integrity.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=26)** Organizations must proactively secure their AI supply chains by verifying dependencies and implementing cryptographic validation, as well as ensuring provenance tracking.
 >
@@ -1935,13 +1912,13 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=174)** First, verify your AI models by using cryptographic signing tools like Sigstore to check if an AI model is authentic and unaltered before deploying it in your enterprise.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=189)** AI registries, like MLflow model registry help track changes to models ensuring that only safe versions are used.
+> **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=189)** AI registries, like [[MLflow]] model registry help track changes to models ensuring that only safe versions are used.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=199)** Then secondly, secure data sources by using automated validation to check training data for tampering.
 >
-> **[3:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=207)** Blockchain-based tracking helps protect data integrity in sensitive areas like healthcare and finance.
+> **[3:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=207)** [[Blockchain]]-based tracking helps protect [[Data Integrity]] in sensitive areas like healthcare and finance.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=215)** Differential privacy techniques help keep AI from leaking personal data as well.
+> **[3:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=215)** Differential [[Privacy]] techniques help keep AI from leaking personal data as well.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=221)** Then thirdly, protecting the AI deployments by adding security checks in CI/CD pipelines to help ensure only verified models are being deployed into your production environment.
 >
@@ -1951,7 +1928,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=252)** Real world incidents show how AI supply chains can be targeted.
 >
-> **[4:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=257)** For example, Hugging Face model injection attacks, which are quite common these days, where hackers upload a malicious AI model to a sharing platform causing security breaches when others use it.
+> **[4:17](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=257)** For example, [[Hugging Face]] model injection attacks, which are quite common these days, where hackers upload a malicious AI model to a sharing platform causing security breaches when others use it.
 >
 > **[4:32](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=272)** As a solution, always verify AI models before you use them in your organization, especially the external ones.
 >
@@ -1961,7 +1938,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=295)** The solution for this is that you must test AI for adversarial threats.
 >
-> **[5:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=301)** So the question is, why AI supply chain security really matters?
+> **[5:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=301)** So the question is, why AI [[Supply Chain Security]] really matters?
 >
 > **[5:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=306)** AI security is only as strong as its weakest link, and the supply chain is often the biggest risk.
 >
@@ -1969,29 +1946,28 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=323)** By verifying AI components, tracking their origins, and applying strict security controls, companies can prevent attacks before they even happen.
 >
-> **[5:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=335)** Protecting the AI supply chain isn't just about stopping breaches, it's about building trust and ensuring that AI systems work reliably.
+> **[5:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=335)** Protecting the AI supply chain isn't just about stopping breaches, it's about [[Building Trust]] and ensuring that AI systems work reliably.
 >
-> **[5:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=347)** Next, we will explore continuous monitoring and threat detection in AI CI/CD pipelines showing you how businesses can detect security threats before they cause harm.
+> **[5:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=347)** Next, we will explore [[Continuous Monitoring]] and threat detection in AI CI/CD pipelines showing you how businesses can detect security threats before they cause harm.
 >
 > **[6:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-software-supply-chain-security?u=76281980&t=360)** So stay tuned. Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (33), data (11), [[Security]] (8), ci (2), cd (2)
+> **Frameworks & Libraries:** [[AI Security]] (2), [[Cloud Infrastructure]] (1), [[MLflow]] (1), [[Blockchain]] (1), [[Data Integrity]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** cd (2), make (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous monitoring and threat detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980)
+#### [Continuous monitoring and threat detection](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=0)** - [Instructor] Securing AI models in a CI/CD pipeline is like maintaining a high performance race car.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=7)** Just as a race car needs constant tuning, monitoring, and adjustments to handle unpredictable track conditions, AI models require continuous validation, security testing, and real-time monitoring to remain accurate and resilient.
+> **[0:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=7)** Just as a race car needs constant tuning, monitoring, and adjustments to handle unpredictable track conditions, AI models require continuous validation, [[Security Testing]], and [[Real-Time]] monitoring to remain accurate and resilient.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=24)** Over time, just as tires wear down and impact a car's grip on the road, AI models experience drift as real-world data shifts.
 >
@@ -2009,11 +1985,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=107)** If someone sneaks in contaminated fuel, the engine will misfire or break down at a critical moment.
 >
-> **[1:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=114)** In AI security, data poisoning works the same way.
+> **[1:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=114)** In [[AI Security]], data poisoning works the same way.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=118)** Compromised training data can corrupt model behavior, leading to catastrophic failures.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=124)** To prevent this, data validation tools like Great Expectations and TensorFlow Data Validation help analyze training data before it is ingested.
+> **[2:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=124)** To prevent this, [[Data Validation]] tools like Great Expectations and [[TensorFlow]] Data Validation help analyze training data before it is ingested.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=136)** It ensures only clean, reliable data fuels the model's learning process.
 >
@@ -2021,7 +1997,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=153)** In high-stakes racing, real-time telemetry systems track every aspect of the car's performance, alerting the engineers to potential failures before they lead to a disaster.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=166)** Similarly, AI security monitoring continuously feeds inference logs into platforms like security incident and even monitoring, such as Splunk or Azure Sentinel, which helps allow security teams to detect anomalies, unauthorized access, and adversarial manipulations in real time.
+> **[2:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=166)** Similarly, AI security monitoring continuously feeds inference logs into platforms like security incident and even monitoring, such as Splunk or [[Microsoft Azure|Azure]] Sentinel, which helps allow security teams to detect anomalies, unauthorized access, and adversarial manipulations in real time.
 >
 > **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=189)** Automated security alerts act like a pit crew, taking immediate action, quarantining compromised models, revoking access, and escalating threats for investigation before they cause system-wide failures.
 >
@@ -2029,7 +2005,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=215)** Likewise, in high-risk AI applications, such as finance or healthcare, human oversight is critical.
 >
-> **[3:44](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=224)** Explainability tools like SHAP and LIME help security teams interpret AI decision-making before models go live.
+> **[3:44](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=224)** Explainability tools like SHAP and LIME help security teams interpret AI [[Decision-Making]] before models go live.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=233)** That ensures compliance, transparency, and trust, just like engineers for the race cars making real-time adjustments to keep the car running at peak efficiency.
 >
@@ -2037,34 +2013,33 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=264)** Whether it's data validation, adversarial testing, automated drift detection, or real-time monitoring, this integrated approach ensures AI models remain reliable, secure, and resilient against evolving threats in production environments.
 >
-> **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=281)** In the race to secure AI, continuous monitoring and threat detection are the ultimate competitive edge.
+> **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=281)** In the race to secure AI, [[Continuous Monitoring]] and threat detection are the ultimate competitive edge.
 >
 > **[4:48](https://www.linkedin.com/learning/ai-product-development-secure-by-design/continuous-monitoring-and-threat-detection?u=76281980&t=288)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Security]] (10), data (9), [[Real-Time]] (4), ci (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[AI Security]] (3), [[Data Validation]] (3), [[Security Testing]] (2), [[TensorFlow]] (1)
 > **Analogies:** just like (4), such as (3), imagine (1)
 > **CLI Commands:** cd (2), make (1)
 > **Env Vars:** ibm (1), shap (1), lime (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and incident response
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980)
+#### [Logging and incident response](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=0)** - [Instructor] AI-driven decision making relies on continuous data ingestion, model updates, and real-time inferences.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=0)** - [Instructor] AI-driven decision making relies on continuous [[Data Ingestion]], model updates, and [[Real-Time]] inferences.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=8)** Without robust security logging and structured incident response, organizations risk undetected adversarial attacks, model tampering, and data integrity failures.
+> **[0:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=8)** Without robust security logging and structured [[Incident Response]], organizations risk undetected adversarial attacks, model tampering, and [[Data Integrity]] failures.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=20)** AI security logging is essential for tracking AI behavior, identifying vulnerabilities, and ensuring compliance with regulations such as GDPR, HIPAA, and PCI DSS.
+> **[0:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=20)** [[AI Security]] logging is essential for tracking AI behavior, identifying vulnerabilities, and ensuring compliance with regulations such as GDPR, HIPAA, and PCI DSS.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=33)** This session explores how organizations can implement effective AI security logging and respond to adversarial AI threats and recover from incidents with minimal disruption.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=46)** Unlike traditional cybersecurity threats, AI security incidents require specialized logging to help detect adversarial input manipulation, silent model tampering, and unauthorized API access.
+> **[0:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=46)** Unlike traditional [[Cybersecurity]] threats, AI security incidents require specialized logging to help detect adversarial input manipulation, silent model tampering, and unauthorized API access.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=61)** AI inference logging captures model inputs, predictions, and confidence scores, allowing teams to analyze decision-making patterns.
+> **[1:01](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=61)** AI inference logging captures model inputs, predictions, and confidence scores, allowing teams to analyze [[Decision-Making]] patterns.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=73)** Security auditing records unauthorized access attempts, adversarial input patterns, and unusual activity, ensuring that organizations can trace AI-related breaches.
 >
@@ -2072,7 +2047,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=94)** Now let's say a financial institution deployed an AI fraud detection model but failed to log flag transactions.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=102)** Now what if the attackers modified transaction metadata to bypass detection, and because no historical fraud patterns were recorded, security teams did not have any way to trace the manipulation?
+> **[1:42](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=102)** Now what if the attackers modified transaction [[Metadata]] to bypass detection, and because no historical fraud patterns were recorded, security teams did not have any way to trace the manipulation?
 >
 > **[1:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=118)** This case highlights why inference logging is essential, and every AI prediction, API interaction, and decision variable must be recorded for forensic analysis later.
 >
@@ -2098,11 +2073,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=237)** If an AI model is compromised, organizations must have a rollback mechanism in place to restore the last secure version.
 >
-> **[4:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=246)** AI model versioning tools like MLflow and Delta Lake track every update, providing a clear history of changes.
+> **[4:06](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=246)** AI model versioning tools like [[MLflow]] and Delta Lake track every update, providing a clear history of changes.
 >
 > **[4:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=256)** Restricting deployment access ensures that only authorized personnel can modify these AI models.
 >
-> **[4:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=264)** A structured AI security response plan should include forensic analysis to help detect AI poisoning, rollback procedures to restore trusted versions, and data validation controls to help prevent future manipulations.
+> **[4:24](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=264)** A structured AI security response plan should include forensic analysis to help detect AI poisoning, rollback procedures to restore trusted versions, and [[Data Validation]] controls to help prevent future manipulations.
 >
 > **[4:41](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=281)** Now consider a scenario where an AI-powered security monitoring system falls victim to a similar attack.
 >
@@ -2120,13 +2095,13 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=335)** But structured logging and incident response workflows help enable organizations to contain threats, analyze failures, and improve AI resilience.
 >
-> **[5:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=345)** By implementing continuous AI monitoring, automated rollback mechanisms, and adversarial threat detections, organizations can secure AI-driven decisions and ensure regulatory compliance.
+> **[5:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=345)** By implementing continuous AI monitoring, automated rollback mechanisms, and adversarial threat detections, organizations can secure AI-driven decisions and ensure [[Regulatory Compliance]].
 >
 > **[5:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=359)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), [[Security]] (14), data (5), teams (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[AI Security]] (7), [[Real-Time]] (2), [[Incident Response]] (2), [[Data Ingestion]] (1), [[Data Integrity]] (1)
 > **Env Vars:** api (2), gdpr (1), hipaa (1), pci (1), dss (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
@@ -2136,18 +2111,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case studies: Lessons from AI security incidents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
+#### [Case studies: Lessons from AI security incidents](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=0)** - [Narrator] AI security is not just about building defenses, it's about learning from past incidents to make systems stronger for the future.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=0)** - [Narrator] [[AI Security]] is not just about building defenses, it's about learning from past incidents to make systems stronger for the future.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=10)** By looking at real-world AI security failures, we can uncover weaknesses, refine risk management strategies, and improve AI resilience for our organizations.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=23)** In this session, we will dive deep into some major AI security breaches, their impact and the key lessons they teach us about protecting AI-driven systems.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=36)** One of the most well-known breaches happened in 2020 to Clearview AI, which is a facial recognition company, a data leak exposed its client list and sensitive biometric data, raising serious privacy and security concerns.
+> **[0:36](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=36)** One of the most well-known breaches happened in 2020 to Clearview AI, which is a facial recognition company, a data leak exposed its client list and sensitive biometric data, raising serious [[Privacy]] and security concerns.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=52)** What was the issue?
 >
@@ -2165,11 +2139,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=119)** AI models must be stress-tested against adversarial inputs using advanced training techniques.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=127)** Autonomous systems must also rely on multiple sensors like LiDAR, radar, and real-time mapping, rather than just visual data to prevent manipulation.
+> **[2:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=127)** Autonomous systems must also rely on multiple sensors like LiDAR, radar, and [[Real-Time]] mapping, rather than just visual data to prevent manipulation.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=140)** AI model theft is another growing concern.
 >
-> **[2:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=143)** In 2024, OpenAI and Microsoft investigated potential data theft by Chinese startup DeepSeek, which allegedly copied OpenAI's models, using techniques like model distillation.
+> **[2:23](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=143)** In 2024, OpenAI and [[Microsoft]] investigated potential data theft by Chinese startup DeepSeek, which allegedly copied OpenAI's models, using techniques like model distillation.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=157)** The challenge here is protecting AI intellectual property when API-based models are exposed to external users.
 >
@@ -2185,7 +2159,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=211)** In 2024, attackers used AI-generated deepfake video to impersonate a Ukrainian official in an attempt to extract sensitive information from US Senator Ben Cardin.
 >
-> **[3:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=225)** This case showed how cyber criminals are using generative AI for political manipulation.
+> **[3:45](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=225)** This case showed how cyber criminals are using [[Generative AI]] for political manipulation.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=233)** In response, governments and businesses are now deploying deepfake detection tools and stronger verification protocols for digital communications.
 >
@@ -2201,7 +2175,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=308)** So what's here in it for you?
 >
-> **[5:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=311)** Businesses need to evolve their trust mechanisms, combining continuous monitoring with adaptive fraud prevention strategies.
+> **[5:11](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=311)** Businesses need to evolve their trust mechanisms, combining [[Continuous Monitoring]] with adaptive fraud prevention strategies.
 >
 > **[5:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=320)** So what do these case studies tell us?
 >
@@ -2217,7 +2191,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=358)** Fourth, deepfake threats, demand vigilance.
 >
-> **[6:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=363)** So, AI power detection tools and verification protocols must be built and implemented into the decision-making processes.
+> **[6:03](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=363)** So, AI power detection tools and verification protocols must be built and implemented into the [[Decision-Making]] processes.
 >
 > **[6:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980&t=374)** By studying past AI security failures, businesses can strengthen their defenses, anticipate emerging threats, and build AI systems that are secure, resilient, and trustworthy.
 >
@@ -2229,18 +2203,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), [[Security]] (13), data (7), api (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[AI Security]] (8), [[Real-Time]] (2), [[Continuous Monitoring]] (2), [[Privacy]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (3), ceo (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI security playbook: Secure by Design approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980)
+#### [AI security playbook: Secure by Design approach](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=0)** - [Instructor] These AI security incidents which we covered in previous video, teach us an important lesson.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=0)** - [Instructor] These [[AI Security]] incidents which we covered in previous video, teach us an important lesson.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=7)** Security cannot be an afterthought.
 >
@@ -2250,23 +2223,23 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=29)** This session outlines a structured approach to designing, deploying, and maintaining secure AI systems.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=37)** The first step in building secure AI is threat modeling and risk assessment, before even the development begins.
+> **[0:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=37)** The first step in building secure AI is [[Threat Modeling]] and risk assessment, before even the development begins.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=46)** Identifying potential security risks early on prevents costly redesigns later.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=53)** Organizations should map attack vectors, such as data poisoning, adversarial manipulation, and model theft to business goals and compliance needs.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=65)** Frameworks like MITRE ATLAS and NIST AI Risk Management Framework provides structured approaches to AI threat modeling.
+> **[1:05](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=65)** Frameworks like MITRE ATLAS and [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]] provides structured approaches to AI threat modeling.
 >
 > **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=74)** Rather than reacting to threats after deployment, organizations should integrate security controls from the initial design phase.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=85)** AI models are only as secure as the data they are trained on, making secure data collection and pre-processing a critical step.
+> **[1:25](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=85)** AI models are only as secure as the data they are trained on, making secure [[Data Collection]] and pre-processing a critical step.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=95)** For data quality, bias, or manipulated datasets can lead to faulty predictions and security failures.
+> **[1:35](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=95)** For [[Data Quality]], bias, or manipulated datasets can lead to faulty predictions and security failures.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=103)** Organizations should implement data validation pipelines, anomaly detection systems, and provenance tracking to help ensure data integrity.
+> **[1:43](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=103)** Organizations should implement [[Data Validation]] pipelines, anomaly detection systems, and provenance tracking to help ensure [[Data Integrity]].
 >
-> **[1:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=114)** Applying differential privacy techniques helps protect sensitive data while maintaining model accuracy.
+> **[1:54](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=114)** Applying differential [[Privacy]] techniques helps protect sensitive data while maintaining model accuracy.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=122)** Without putting these safeguards in place, adversaries can introduce poison data that manipulates AI decision making process.
 >
@@ -2294,11 +2267,11 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=240)** So AI security doesn't end at deployment.
 >
-> **[4:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=244)** Continuous monitoring and AI red teaming are essential for long-term resilience.
+> **[4:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=244)** [[Continuous Monitoring]] and AI [[Red Teaming]] are essential for long-term resilience.
 >
 > **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=250)** Threats evolve over time, and AI models can degrade over time as well due to data drift and emerging attack techniques.
 >
-> **[4:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=258)** So organizations should integrate real-time anomaly detection, drift monitoring, and automated security alerts to help detect potential compromises early on.
+> **[4:18](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=258)** So organizations should integrate [[Real-Time]] anomaly detection, drift monitoring, and automated security alerts to help detect potential compromises early on.
 >
 > **[4:30](https://www.linkedin.com/learning/ai-product-development-secure-by-design/ai-security-playbook-secure-by-design-approach?u=76281980&t=270)** Then next component is AI red teaming, which helps in simulating real-world attack scenarios as well as do stress testing of AI defenses before the adversaries exploit any vulnerabilities which are there.
 >
@@ -2316,7 +2289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), [[Security]] (17), data (12), api (4), [[Continuous Monitoring]] (3)
+> **Frameworks & Libraries:** [[AI Security]] (4), [[Continuous Monitoring]] (3), [[Threat Modeling]] (2), [[Privacy]] (2), [[Red Teaming]] (2)
 > **Env Vars:** api (4), mitre (1), atlas (1), nist (1), shap (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Analogies:** such as (2)
@@ -2327,12 +2300,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)
+#### [Conclusion and next steps](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=0)** - Congratulations on completing this course on AI security by design and exploring with me on how to build secure AI systems that are resilient, compliant and trustworthy.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=0)** - Congratulations on completing this course on [[AI Security]] by design and exploring with me on how to build secure AI systems that are resilient, compliant and trustworthy.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=12)** Securing AI is just like driving a car safely on the road.
 >
@@ -2346,13 +2318,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=44)** Just like a car needs a strong engine, good brakes and careful driving, AI systems need secure data, strong defense and constant monitoring to function safely.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=57)** Security starts before the AI is even deployed, with risk assessments, security testing and compliance with regulations, like NIST AI Risk Management Framework, and GDPR, to keep everything running smoothly.
+> **[0:57](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=57)** Security starts before the AI is even deployed, with risk assessments, [[Security Testing]] and compliance with regulations, like [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]], and GDPR, to keep everything running smoothly.
 >
 > **[1:14](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=74)** But, the road ahead is always changing as new threats emerge.
 >
 > **[1:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=80)** AI models degrade over time, and attackers continuously adapt their tactics.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=87)** That is why continuous monitoring, automatic threat detection and quick responses are needed to keep AI safe and reliable.
+> **[1:27](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=87)** That is why [[Continuous Monitoring]], automatic threat detection and quick responses are needed to keep AI safe and reliable.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980&t=97)** To put this into action, apply AI security best practices, regularly check for risks and stay up to date on new threats.
 >
@@ -2364,7 +2336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Security]] (8), data (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
+> **Frameworks & Libraries:** [[AI Security]] (5), [[Security Testing]] (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** just like (3)
 > **Env Vars:** nist (1), gdpr (1)
 > **Definitions:** is an  (1), is a  (1)

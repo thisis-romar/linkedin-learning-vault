@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your first Docker project
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980)
+#### [Your first Docker project](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980&t=0)** - [Shelley] Containerization using Docker is quickly becoming the standard for software development projects.
+> **[0:00](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980&t=0)** - [Shelley] Containerization using Docker is quickly becoming the standard for [[Software Development]] projects.
 >
 > **[0:07](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980&t=7)** Development teams are increasing their productivity by streamlining how we build, share, and run modern applications so that developers can focus on the code.
 >
@@ -98,13 +97,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (1), [[Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** docker (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [shelley] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/docker-your-first-project/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (1), application (1)
 > **Tools:** terminal (2), bash (1)
 > **CLI Commands:** make (1), docker (1)
 > **Speakers:** - [instructor] (1)
@@ -132,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application using Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980)
+#### [Application using Docker](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=7)** Big Star Collectibles sells high quality, exclusive and unique items, and it's containerizing its existing website.
 >
-> **[0:14](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=14)** You will help the company modernize its DevOps processes to reduce errors and improve productivity.
+> **[0:14](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=14)** You will help the company modernize its [[DevOps]] processes to reduce errors and improve productivity.
 >
 > **[0:23](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=23)** By using Docker to containerize its application, Big Star Collectibles can enable developers to configure their local development environment quickly so that they can get started working on the project.
 >
@@ -161,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=90)** Docker makes developers happy by providing tooling to automate the manual and error-prone tasks that cause headaches.
 >
-> **[1:39](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=99)** Big Star Collectibles utilizes Python and Flask for its website.
+> **[1:39](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=99)** Big Star Collectibles utilizes [[Python (Programming Language)|Python]] and Flask for its website.
 >
 > **[1:43](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980&t=103)** Flask is a web application framework written in Python.
 >
@@ -181,15 +177,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Python (Programming Language)|Python]] (4), web application (2), [[DevOps]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[DevOps]] (1)
 > **CLI Commands:** docker (8), python (4)
 > **Prerequisites:** configure (1), setup (1), set up (1), install (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980)
+#### [Setting up your development environment](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980&t=11)** First, navigate to the Docker website and download and install Docker Desktop.
 >
-> **[0:16](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980&t=16)** It's available for Windows, Mac, and Linux.
+> **[0:16](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980&t=16)** It's available for [[Windows]], Mac, and [[Linux]].
 >
 > **[0:22](https://www.linkedin.com/learning/docker-your-first-project/setting-up-your-development-environment-30191052?u=76281980&t=22)** When the installation is complete, open Docker Desktop, click Sign In, and use your Docker Hub credentials.
 >
@@ -223,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), application (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** docker (11)
 > **Tools:** vs code (5), docker desktop (3)
 > **Prerequisites:** install (3), set up (2)
@@ -231,12 +226,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing a project on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980)
+#### [Reviewing a project on GitHub](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=0)** - [Instructor] To get started with this project, first you need to get the code for the website from GitHub.
+> **[0:00](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=0)** - [Instructor] To get started with this project, first you need to get the code for the website from [[GitHub]].
 >
 > **[0:06](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=6)** You can find a link to the repository below.
 >
@@ -248,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=27)** There are additional instructions in the README file to help you get started.
 >
-> **[0:32](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=32)** We're going to use Git Bash to clone the repository.
+> **[0:32](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=32)** We're going to use [[Git]] Bash to clone the repository.
 >
 > **[0:35](https://www.linkedin.com/learning/docker-your-first-project/reviewing-a-project-on-github?u=76281980&t=35)** If you do not have it installed, you can download it from the Git website at the link below.
 >
@@ -284,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (5), cd (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (5)
 > **Tools:** github (5), bash (2), vs code (2), command line (1)
 > **CLI Commands:** git (6), find (1), cd (1)
 > **UI Navigation:** switch to (2), navigate to (1), open the (1), in the menu (1), click on (1)
@@ -298,8 +292,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing a Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980)
+#### [Writing a Dockerfile](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=51)** The first thing we need is a from command.
 >
-> **[0:54](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=54)** I'm going to add a comment here stating the purpose of this command, which is to use an official Python runtime as the base image.
+> **[0:54](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=54)** I'm going to add a comment here stating the purpose of this command, which is to use an official [[Python (Programming Language)|Python]] runtime as the base image.
 >
 > **[1:03](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=63)** So our argument is Python, and then the runtime version.
 >
@@ -331,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=72)** Your base image should contain the tools needed to run your application.
 >
-> **[1:17](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=77)** In this case, we're using Python, but there are also base images for different operating systems, such as Windows or Linux.
+> **[1:17](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=77)** In this case, we're using Python, but there are also base images for different operating systems, such as [[Windows]] or [[Linux]].
 >
 > **[1:26](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980&t=86)** Or you can specify from scratch if you're building your own base image.
 >
@@ -375,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), next (3), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (9), python (4), pip (2), find (1)
 > **File Paths:** app.py (2), requirements.txt (1)
 > **Env Vars:** workdir (1), env (1), cmd (1)
@@ -384,8 +377,7 @@ created: 2026-05-02
 > **Versions:** 0.0.0 (1)
 > **Definitions:** is a  (1)
 
-#### Building a Docker image from Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980)
+#### [Building a Docker image from Dockerfile](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980&t=28)** A build's context is the set of files located in the specific path or URL.
 >
-> **[0:34](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980&t=34)** We will focus on using a path in this course, but you can also use a URL to a repository, which is useful for the continuous integration pipeline.
+> **[0:34](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980&t=34)** We will focus on using a path in this course, but you can also use a URL to a repository, which is useful for the [[Continuous Integration (CI)|continuous integration]] pipeline.
 >
 > **[0:45](https://www.linkedin.com/learning/docker-your-first-project/building-a-docker-image-from-dockerfile?u=76281980&t=45)** You can read more about this on the docker website linked below.
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), application (1), [[Troubleshooting]] (1), [[Debugging]] (1), next (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (17), rm (3)
 > **Tools:** terminal (3), bash (1), vs code (1)
 > **Env Vars:** url (3)
@@ -467,8 +459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Searching for images in Docker Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980)
+#### [Searching for images in Docker Hub](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=10)** You can do this using the Docker search command, which searches the Docker Hub Registry for images.
 >
-> **[0:17](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=17)** For example, to search for a Python image, you can use the command Docker search Python.
+> **[0:17](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=17)** For example, to search for a [[Python (Programming Language)|Python]] image, you can use the command Docker search Python.
 >
 > **[0:26](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=26)** This will return a list of available Python images along with their names and descriptions.
 >
@@ -496,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=67)** This is good to use if you want to find the most popular images.
 >
-> **[1:12](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=72)** The automated column tells us if you can build the image automatically using platforms such as GitHub.
+> **[1:12](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=72)** The automated column tells us if you can build the image automatically using platforms such as [[GitHub]].
 >
 > **[1:20](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980&t=80)** To filter automated images, use the is-automated=true argument.
 >
@@ -538,15 +529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[GitHub]] (1)
 > **CLI Commands:** docker (8), python (5), find (2), make (1)
 > **Tools:** github (1), command line (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with custom images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/working-with-custom-images?u=76281980)
+#### [Working with custom images](https://www.linkedin.com/learning/docker-your-first-project/working-with-custom-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (2)
 > **CLI Commands:** docker (8), ls (2)
 > **Cross-References:** in the next (2), as we saw (1), previous video (1)
 > **Analogies:** similar to (1), such as (1)
@@ -598,8 +587,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging and labeling images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980)
+#### [Tagging and labeling images](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=20)** In our Docker file, we've specified the base image.
 >
-> **[0:24](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=24)** The name of the image is Python, and everything following the colon is the image tag.
+> **[0:24](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=24)** The name of the image is [[Python (Programming Language)|Python]], and everything following the colon is the image tag.
 >
 > **[0:30](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=30)** In this example, the tag includes both the version and operating system.
 >
@@ -647,7 +635,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=207)** Another way to keep your images organized is using the label instruction in your Docker file.
 >
-> **[3:34](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=214)** This allows you to add metadata to an image using key value pairs.
+> **[3:34](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=214)** This allows you to add [[Metadata]] to an image using key value pairs.
 >
 > **[3:39](https://www.linkedin.com/learning/docker-your-first-project/tagging-and-labeling-images?u=76281980&t=219)** You can include multiple label commands and some of the most common labels are vendor, version, and description.
 >
@@ -671,15 +659,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (2)
 > **CLI Commands:** docker (9), python (2), ls (2)
 > **Tools:** command line (1)
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with a private image repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980)
+#### [Working with a private image repository](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980&t=79)** You may be prompted to enter your username and password for Docker Hub.
 >
-> **[1:24](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980&t=84)** This will allow you to run CLI commands to push and pull images in your repository.
+> **[1:24](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980&t=84)** This will allow you to run [[CLI]] commands to push and pull images in your repository.
 >
 > **[1:34](https://www.linkedin.com/learning/docker-your-first-project/working-with-a-private-image-repository?u=76281980&t=94)** You can also view your repository using the Registries panel in the Docker extension for VS Code.
 >
@@ -740,8 +727,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inspecting images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980)
+#### [Inspecting images](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,7 +737,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=18)** Right-click any image tag and then choose inspect.
 >
-> **[0:25](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=25)** Alternatively, you can use the CLI.
+> **[0:25](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=25)** Alternatively, you can use the [[CLI]].
 >
 > **[0:28](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=28)** You can use the docker image LS command to get the image ID.
 >
@@ -779,7 +765,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=117)** Since we applied labels to our image in the docker file, that information is included in the configuration section as well.
 >
-> **[2:10](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=130)** You can return specific sections and format them using JSON.
+> **[2:10](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=130)** You can return specific sections and format them using [[JSON]].
 >
 > **[2:16](https://www.linkedin.com/learning/docker-your-first-project/inspecting-images?u=76281980&t=136)** Use the docker image inspect command with the format option.
 >
@@ -793,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Troubleshooting]] (1), [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[CLI]] (1)
 > **CLI Commands:** docker (7), ls (1), make (1)
 > **Env Vars:** json (2), cli (1), utc (1)
 > **UI Navigation:** right-click (1), scroll down (1)
@@ -802,8 +788,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/removing-images?u=76281980)
+#### [Removing images](https://www.linkedin.com/learning/docker-your-first-project/removing-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +840,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** docker (7), ls (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -867,8 +851,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running a container
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980)
+#### [Running a container](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +911,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980&t=179)** You should see the Big Star Collectibles website.
 >
-> **[3:02](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980&t=182)** If you see any errors, just make sure that you're using the latest version of the Python image and flask.
+> **[3:02](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980&t=182)** If you see any errors, just make sure that you're using the latest version of the [[Python (Programming Language)|Python]] image and flask.
 >
 > **[3:14](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980&t=194)** To stop your container, there are two commands that you can use, stop or kill.
 >
@@ -948,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Debugging]] (1), prompt (1), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** docker (11), make (2), python (1)
 > **Env Vars:** arg (1), tty (1), pwd (1)
 > **Ports:** port 5 (2)
@@ -957,8 +940,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2)
 > **Definitions:** means that (1)
 
-#### Listing containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980)
+#### [Listing containers](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980&t=108)** Another helpful filter option is ancestor, which displays containers based on an image or a descendant of it.
 >
-> **[1:58](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980&t=118)** You can format your search results using JSON.
+> **[1:58](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980&t=118)** You can format your search results using [[JSON]].
 >
 > **[2:02](https://www.linkedin.com/learning/docker-your-first-project/listing-containers?u=76281980&t=122)** You can also format the search results as a table to show only the information that you need.
 >
@@ -998,7 +980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** json (1)
 > **Definitions:** means that (1)
@@ -1006,8 +988,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inspecting containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980)
+#### [Inspecting containers](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1038,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980&t=177)** To view the config section, you would search for .config.
 >
-> **[3:01](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980&t=181)** You can also specify JSON so that the output is formatted.
+> **[3:01](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980&t=181)** You can also specify [[JSON]] so that the output is formatted.
 >
 > **[3:07](https://www.linkedin.com/learning/docker-your-first-project/inspecting-containers?u=76281980&t=187)** If you view the full output, you can search for config and see the same results.
 >
@@ -1073,15 +1054,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Troubleshooting]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** docker (8), find (1)
 > **Env Vars:** cpu (1), json (1)
 > **Cross-References:** later in (2)
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing container log files
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/reviewing-container-log-files?u=76281980)
+#### [Reviewing container log files](https://www.linkedin.com/learning/docker-your-first-project/reviewing-container-log-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1117,7 +1097,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), application (2)
 > **CLI Commands:** docker (5)
 > **Env Vars:** stdout (1), stderr (1), utc (1)
 > **Tools:** vs code (1), docker desktop (1)
@@ -1125,8 +1104,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with volumes and mounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980)
+#### [Working with volumes and mounts](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980&t=14)** You can create a volume using the docker volume create command, and enter a name.
 >
-> **[0:31](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980&t=31)** Docker volumes are a type of data storage provided by Docker.
+> **[0:31](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980&t=31)** Docker volumes are a type of [[Data Storage]] provided by Docker.
 >
 > **[0:35](https://www.linkedin.com/learning/docker-your-first-project/working-with-volumes-and-mounts-30188053?u=76281980&t=35)** A volume is a directory on the host machine that is accessible to a container.
 >
@@ -1190,15 +1168,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (1), next (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1)
 > **CLI Commands:** docker (13), ls (1)
 > **Definitions:** means that (2), is a  (1)
 > **File Paths:** test.txt (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing your daily workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/reviewing-your-daily-workflow?u=76281980)
+#### [Reviewing your daily workflow](https://www.linkedin.com/learning/docker-your-first-project/reviewing-your-daily-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1240,7 +1217,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), next (2)
 > **CLI Commands:** docker (4), make (1), rm (1)
 > **Analogies:** similar to (2), such as (1)
 > **Cross-References:** in the next (1)
@@ -1252,8 +1228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1240,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980&t=24)** We ran containers based on our custom image to easily create the runtime environment.
 >
-> **[0:31](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980&t=31)** Now that you've learned how to apply your Docker knowledge, the next step in your learning journey will be to study Docker Compose.
+> **[0:31](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980&t=31)** Now that you've learned how to apply your Docker knowledge, the next step in your learning journey will be to study Docker [[Jetpack Compose|Compose]].
 >
 > **[0:40](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980&t=40)** Docker Compose is a tool that helps you define and share multi container applications.
 >
@@ -1279,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4)
 > **CLI Commands:** docker (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** yaml (1)

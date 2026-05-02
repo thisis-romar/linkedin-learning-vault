@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming an Xcode expert
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
+#### [Becoming an Xcode expert](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980&t=9)** I've spent the last 12 years developing Mac OS and iOS applications, and I want to share with you what I wish I knew from the beginning based on my personal experience.
 >
-> **[0:19](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980&t=19)** With my course, you'll be able to go from being completely new to Xcode to understanding the most important concepts in just a few hours.
+> **[0:19](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980&t=19)** With my course, you'll be able to go from being completely new to [[Xcode]] to understanding the most important concepts in just a few hours.
 >
 > **[0:27](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980&t=27)** I'm Todd Perkins, a senior iOS developer, and I want to teach you what it takes to become an expert in Xcode.
 >
@@ -118,8 +117,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (3), tvos (1)
 > **Speakers:** - [todd] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,12 +140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Xcode
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
+#### [Installing Xcode](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called Xcode, which could be downloaded for free at the Mac App Store.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called [[Xcode]], which could be downloaded for free at the Mac App Store.
 >
 > **[0:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980&t=8)** Once you've downloaded and installed Xcode, open up the application and after reading through and agreeing to the licensing agreement, you'll be asked to install additional required components.
 >
@@ -159,19 +156,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (3)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first Xcode project
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980)
+#### [Creating your first Xcode project](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=0)** - [Instructor] Once Xcode is installed, along with the required components, opening Xcode will take you to the welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
+> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=0)** - [Instructor] Once [[Xcode]] is installed, along with the required components, opening Xcode will take you to the welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
 >
 > **[0:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=14)** To create your first iOS app, create an Xcode project by clicking the Create New Project button here or through the File menu by going to File, New, Project.
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=105)** Leave the other options unchecked and hit Next.
 >
-> **[1:49](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=109)** You're then asked where to save the project and whether to create a Git repository.
+> **[1:49](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=109)** You're then asked where to save the project and whether to create a [[Git]] repository.
 >
 > **[1:55](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-your-first-xcode-project?u=76281980&t=115)** For what we're doing here, we don't need to create a Git repository, so leave that unchecked.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Git]] (2)
 > **Code Identifiers:** ios (5), macos (1), first_project (1)
 > **CLI Commands:** make (2), git (2)
 > **Exercise Files:** exercise files (2), template (1)
@@ -226,12 +222,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980)
+#### [Exploring the user interface](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=1)** - [Instructor] The Xcode interface is somewhat complicated and can be overwhelming.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=1)** - [Instructor] The [[Xcode]] interface is somewhat complicated and can be overwhelming.
 >
 > **[0:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=5)** To make it easier to learn Xcode, I'm going to go over the three parts of the interface and talk about how the interface is generally used.
 >
@@ -251,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=81)** So the editor is this main working area in Xcode.
 >
-> **[1:25](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=85)** So right now I am seeing the code in the content view Swift file, and you could see that up here in the comment in the editor.
+> **[1:25](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=85)** So right now I am seeing the code in the content view [[Swift (Programming Language)|Swift]] file, and you could see that up here in the comment in the editor.
 >
 > **[1:34](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-the-user-interface?u=76281980&t=94)** If I single click on First app, then I'll see the code for that file.
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -288,12 +283,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Xcode settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980)
+#### [Xcode settings](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=1)** - [Instructor] You can modify Xcode settings under Xcode settings.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=1)** - [Instructor] You can modify [[Xcode]] settings under Xcode settings.
 >
 > **[0:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=5)** In the general tab, you'll see general options for Xcode that you can modify, like the appearance.
 >
@@ -303,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=22)** Your Apple IDs are needed when publishing apps to the app store or for using certain features in your apps where development is locked behind having a paid developer account.
 >
-> **[0:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=33)** The source control accounts allow you to work with Git repositories, which we'll talk about in detail later in the course.
+> **[0:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=33)** The source control accounts allow you to work with [[Git]] repositories, which we'll talk about in detail later in the course.
 >
 > **[0:39](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/xcode-settings?u=76281980&t=39)** Under behaviors, you can set up actions that are triggered when certain Xcode events happen.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (15), hit (2), data (2), [[Git]] (1), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (15), [[Git]] (1)
 > **CLI Commands:** make (4), find (3), git (1)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
 > **Analogies:** for example (3), just like (1)
@@ -372,12 +366,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with files
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-files?u=76281980)
+#### [Working with files](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-files?u=76281980&t=0)** - [Instructor] Working with files efficiently can greatly increase your productivity in Xcode, whether that's memorizing useful keyboard shortcuts or working with files in the Project Navigator.
+> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-files?u=76281980&t=0)** - [Instructor] Working with files efficiently can greatly increase your productivity in [[Xcode]], whether that's memorizing useful keyboard shortcuts or working with files in the Project Navigator.
 >
 > **[0:11](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-files?u=76281980&t=11)** When it comes to keyboard shortcuts, one I found useful is the "open quickly" keyboard shortcut, which is accessed using Shift+Command+O.
 >
@@ -437,18 +430,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (7), next (3)
+> **Frameworks & Libraries:** [[Xcode]] (7)
 > **UI Navigation:** click on (2), in the tab (1), double-click (1)
 > **Analogies:** for example (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Quick Help and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-quick-help-and-documentation?u=76281980)
+#### [Using Quick Help and documentation](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-quick-help-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-quick-help-and-documentation?u=76281980&t=1)** - [Instructor] The Quick Help inspector can be very helpful when you're developing in Xcode, all you have to do to access it is click on some kind of code object that has documentation for it.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-quick-help-and-documentation?u=76281980&t=1)** - [Instructor] The Quick Help inspector can be very helpful when you're developing in [[Xcode]], all you have to do to access it is click on some kind of code object that has documentation for it.
 >
 > **[0:11](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-quick-help-and-documentation?u=76281980&t=11)** Usually, this is anything that's not one of your custom objects in your project.
 >
@@ -476,15 +468,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (2), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (2)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980)
+#### [Groups](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980&t=67)** If I tab over to finder, you're going to see that I have that same structure in the file system.
 >
-> **[1:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980&t=74)** Back in Xcode, I can actually click and drag other files into that group if I want, such as first app.
+> **[1:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980&t=74)** Back in [[Xcode]], I can actually click and drag other files into that group if I want, such as first app.
 >
 > **[1:21](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/groups?u=76281980&t=81)** So if I click and drag that below, watching where that line is going, so I can see that it indents a little bit.
 >
@@ -540,21 +531,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (2), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Localization using .xcstrings
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980)
+#### [Localization using .xcstrings](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=1)** - [Instructor] The localization features in Xcode allow you to easily support other languages in your apps.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=1)** - [Instructor] The localization features in [[Xcode]] allow you to easily support other languages in your apps.
 >
 > **[0:07](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=7)** You can add translations to your app by using a string catalog, which you can create from the new File Template menu by pressing Command + N.
 >
-> **[0:16](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=16)** In here, you can either scroll down and find the string catalog or simply filter by typing the word string and selecting String Catalog.
+> **[0:16](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=16)** In here, you can either scroll down and find the string catalog or simply filter by typing the [[Microsoft Word|word]] string and selecting String Catalog.
 >
 > **[0:24](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/localization-using-xcstrings?u=76281980&t=24)** I'll press Return to advance through the menu.
 >
@@ -632,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (2), [[Xcode]] (1), [[Microsoft Word|Word]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hello_world (4)
 > **UI Navigation:** scroll down (2), click on (2)
 > **CLI Commands:** find (2)
@@ -640,8 +630,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with color sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-color-sets?u=76281980)
+#### [Working with color sets](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/working-with-color-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,7 +716,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** foregroundstyle (1), srgb (1), ios (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -735,8 +723,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding app icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980)
+#### [Adding app icons](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,13 +769,13 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=165)** Notice that the corners are rounded, even though I provided a square icon.
 >
-> **[2:50](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=170)** Back to Xcode.
+> **[2:50](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=170)** Back to [[Xcode]].
 >
 > **[2:51](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=171)** Let's look at applying the MacOS icons.
 >
 > **[2:53](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=173)** Earlier I said you could double click the squares or you can click and drag into Xcode.
 >
-> **[2:59](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=179)** I'm going to click and drag the rest of these in here, and then we're going to look at what it looks like when running on MacOS.
+> **[2:59](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=179)** I'm going to click and drag the [[Representational State Transfer (REST)|rest]] of these in here, and then we're going to look at what it looks like when running on MacOS.
 >
 > **[3:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/adding-app-icons?u=76281980&t=185)** To run on MacOS, I'll click that deployment dropdown again, and I'm going to choose My Mac under Recent, and then I'm going to stop the running application, which stops the iOS simulator, and then hit the run button to run the app on MacOS.
 >
@@ -812,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), application (3), [[Xcode]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** ios (10), iphone (2)
 > **UI Navigation:** click on (2), dropdown (1), open the (1)
 > **Env Vars:** png (1)
@@ -826,12 +813,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the canvas with SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
+#### [Using the canvas with SwiftUI](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=1)** - [Presenter] SwiftUI is one of two user interface frameworks available for projects in Xcode and is currently the primary UI development framework for all Apple platforms.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=1)** - [Presenter] SwiftUI is one of two user interface frameworks available for projects in [[Xcode]] and is currently the primary UI development framework for all Apple platforms.
 >
 > **[0:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=12)** The other legacy framework is called Storyboards, which we'll talk about later.
 >
@@ -849,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=65)** So, I'll change to iPhone 15 Pro and the canvas will automatically update.
 >
-> **[1:09](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=69)** You can zoom in and out using the buttons here.
+> **[1:09](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=69)** You can [[Zoom]] in and out using the buttons here.
 >
 > **[1:13](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980&t=73)** You can fit to your view, or you can do the actual pixel dimensions or 100% by clicking the one.
 >
@@ -893,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Xcode]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Zoom]] (1)
 > **Cross-References:** earlier in (3), go back to (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Analogies:** for example (3)
@@ -902,12 +888,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 
-#### The SwiftUI library
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/the-swiftui-library?u=76281980)
+#### [The SwiftUI library](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/the-swiftui-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/the-swiftui-library?u=76281980&t=1)** - [Instructor] Using the Swift UI library, you can quickly add assets to your Swift UI projects.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/the-swiftui-library?u=76281980&t=1)** - [Instructor] Using the [[Swift (Programming Language)|Swift]] UI library, you can quickly add assets to your Swift UI projects.
 >
 > **[0:06](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/the-swiftui-library?u=76281980&t=6)** To do so, open up the Swift UI library using the plus button in the toolbar.
 >
@@ -950,8 +935,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating snippets
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980)
+#### [Creating snippets](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980&t=84)** So if I close the library and then open it back up, you'll see that the snippets library is toward the middle, so it has the curly braces inside of it.
 >
-> **[1:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980&t=93)** In there you have basic swift ones that ship with X code, and then you have a section for your user ones at the top.
+> **[1:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980&t=93)** In there you have basic [[Swift (Programming Language)|swift]] ones that ship with X code, and then you have a section for your user ones at the top.
 >
 > **[1:41](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-snippets?u=76281980&t=101)** So I can see my rounded rectangle button in here.
 >
@@ -1003,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), power (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
@@ -1011,12 +995,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototyping in a playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980)
+#### [Prototyping in a playground](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=1)** - [Todd] Sometimes when you're creating software, you want to be able to quickly create a proof of concept, often for something like an algorithm, you can do this in Xcode by using Playgrounds.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=1)** - [Todd] Sometimes when you're creating software, you want to be able to quickly create a proof of concept, often for something like an algorithm, you can do this in [[Xcode]] by using Playgrounds.
 >
 > **[0:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=12)** The quickest way to create a playground is through the File menu.
 >
@@ -1064,21 +1047,20 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=111)** And there we go.
 >
-> **[1:53](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=113)** So I can quickly see return values of functions and tweak algorithms in a playground.
+> **[1:53](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=113)** So I can quickly see return values of functions and tweak [[Algorithms]] in a playground.
 >
 > **[1:58](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/prototyping-in-a-playground?u=76281980&t=118)** And by using Playgrounds, you can quickly create prototypes for your applications and develop algorithms quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), next (3), [[Xcode]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Algorithms]] (2)
 > **Code Identifiers:** addnumbers (2)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** template (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [todd] (1)
 
-#### Regular expressions in playgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980)
+#### [Regular expressions in playgrounds](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980&t=23)** So a few lines below greeting, I'm going to let pattern = Regex and then some curly braces.
 >
-> **[0:32](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980&t=32)** And inside of the curly braces, OneOrMore, and then I'll open up the parentheses and then type in .word.
+> **[0:32](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980&t=32)** And inside of the curly braces, OneOrMore, and then I'll open up the parentheses and then type in .[[Microsoft Word|word]].
 >
 > **[0:40](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/regular-expressions-in-playgrounds?u=76281980&t=40)** So this is a pattern that looks for a word.
 >
@@ -1114,7 +1096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** firstmatchof (1)
 > **Speakers:** - [instructor] (1)
@@ -1124,14 +1106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a local repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
+#### [Creating a local repository](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980&t=1)** - [Instructor] If you're going to be serious about coding, you need to understand how source control works, that is controlling versions of your code.
 >
-> **[0:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980&t=8)** This is typically done using Git, which is available on platforms like GitHub or Bitbucket, both of which are supported by Xcode.
+> **[0:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980&t=8)** This is typically done using [[Git]], which is available on platforms like [[GitHub]] or [[Bitbucket]], both of which are supported by [[Xcode]].
 >
 > **[0:17](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980&t=17)** There are two ways to put an Xcode project under source control.
 >
@@ -1169,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[Xcode]] (3), [[GitHub]] (1), [[Bitbucket]] (1), hit (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[Xcode]] (3), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Tools:** github (1), bitbucket (1)
@@ -1177,8 +1158,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting source control accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980)
+#### [Connecting source control accounts](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,13 +1166,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=8)** We want to eventually be able to get these file changes and versions up in the cloud so we can access them through other computers or using other people on our development team.
 >
-> **[0:18](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=18)** To connect your cloud accounts to Xcode.
+> **[0:18](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=18)** To connect your cloud accounts to [[Xcode]].
 >
 > **[0:21](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=21)** As we talked about previously in the course, go into Xcode settings, under accounts.
 >
 > **[0:28](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=28)** Here, you can connect your source control accounts as needed.
 >
-> **[0:32](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=32)** Remember, you can do that using the plus button, so choose GitHub or Bitbucket and then hit continue, and then enter your credentials and proceed to connect your account.
+> **[0:32](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=32)** Remember, you can do that using the plus button, so choose [[GitHub]] or [[Bitbucket]] and then hit continue, and then enter your credentials and proceed to connect your account.
 >
 > **[0:42](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-source-control-accounts?u=76281980&t=42)** You'll notice buttons here, like create a token on GitHub.
 >
@@ -1214,17 +1194,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), [[GitHub]] (4), cloud (2), [[Bitbucket]] (1), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[GitHub]] (4), [[Bitbucket]] (1)
 > **Tools:** github (4), bitbucket (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [presenter] (1)
 
-#### Creating a remote repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980)
+#### [Creating a remote repository](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=1)** - [Instructor] Now that we've created our source control account and connected it with Xcode, what we can do is take our local repository and send it to our remote repository.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=1)** - [Instructor] Now that we've created our source control account and connected it with [[Xcode]], what we can do is take our local repository and send it to our remote repository.
 >
 > **[0:10](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=10)** So here, I'm in the source control navigator, which again is to the right of the project navigator in the navigator bar, and I've selected repositories.
 >
@@ -1234,7 +1213,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=28)** Right-click Remotes and then choose New, and then your project name and Remote to create the remote repository.
 >
-> **[0:36](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=36)** I'm going to choose my GitHub account with a default owner.
+> **[0:36](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=36)** I'm going to choose my [[GitHub]] account with a default owner.
 >
 > **[0:39](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-remote-repository?u=76281980&t=39)** I'm going to leave the repository name at what it is now, which is just my project name.
 >
@@ -1246,13 +1225,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1), [[GitHub]] (1), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Committing and pushing changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980)
+#### [Committing and pushing changes](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1276,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980&t=120)** You'll see the Commit button right here, but if I hit the dropdown next to it, I can choose Commit and Push, so I'm going to click on that right now.
 >
-> **[2:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980&t=128)** Then, Xcode asks: Where do you want to push the local changes to?
+> **[2:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980&t=128)** Then, [[Xcode]] asks: Where do you want to push the local changes to?
 >
 > **[2:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/committing-and-pushing-changes?u=76281980&t=132)** And I have my main branch selected.
 >
@@ -1312,14 +1290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (3), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** right-click (1), go to (1), dropdown (1), click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980)
+#### [Branches](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1304,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980&t=12)** Then, merge their changes back into the main branch.
 >
-> **[0:16](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980&t=16)** To create branches in Xcode, head over to the source control navigator, and then make sure you're in the repository section.
+> **[0:16](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980&t=16)** To create branches in [[Xcode]], head over to the source control navigator, and then make sure you're in the repository section.
 >
 > **[0:23](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/branches?u=76281980&t=23)** From there, expand Branches, and you should see main, which should be your current branch.
 >
@@ -1379,14 +1356,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Xcode]] (2), hit (2)
+> **Frameworks & Libraries:** [[Xcode]] (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** dropdown (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merging branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/merging-branches?u=76281980)
+#### [Merging branches](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/merging-branches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,18 +1412,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), hit (4)
 > **UI Navigation:** switch to (1), go to (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resolving conflicts
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980)
+#### [Resolving conflicts](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=1)** - [Instructor] A common challenge when working with Git is how to resolve conflicts when merges happen.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=1)** - [Instructor] A common challenge when working with [[Git]] is how to resolve conflicts when merges happen.
 >
 > **[0:06](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=6)** These often happen when two branches are working on the same lines of code and one gets merged before another.
 >
@@ -1475,7 +1449,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=83)** So now, what I'm going to do is in Repositories, I'm going to right click the main remote branch and then choose Merge main into feature/suresh.
 >
-> **[1:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=93)** I'm asked to confirm, I'll hit Merge, and this time, when pulling it in, I'm seeing a C next to ContentView.swift.
+> **[1:33](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=93)** I'm asked to confirm, I'll hit Merge, and this time, when pulling it in, I'm seeing a C next to ContentView.[[Swift (Programming Language)|swift]].
 >
 > **[1:42](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=102)** The C is for conflict.
 >
@@ -1505,13 +1479,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=166)** So I'll go to Integrate, Push again, and after that, the conflicts have been resolved and all my branches are at where I want them to be.
 >
-> **[2:57](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=177)** Whenever you need to resolve merge conflicts, you can do so in Xcode using the Resolve Conflicts window.
+> **[2:57](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=177)** Whenever you need to resolve merge conflicts, you can do so in [[Xcode]] using the Resolve Conflicts window.
 >
 > **[3:04](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/resolving-conflicts?u=76281980&t=184)** When you select which changes you want to accept, you can hit the Merge button and the conflicts will be resolved.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), feature (2), [[Swift (Programming Language)|Swift]] (2), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Git]] (1), [[Xcode]] (1)
 > **UI Navigation:** switch to (2), go to (2), in the toolbar (1), click on (1), dropdown (1)
 > **File Paths:** contentview.swift (2)
 > **Cross-References:** go back to (2)
@@ -1524,14 +1498,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Interface Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
+#### [Exploring Interface Builder](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=1)** - [Instructor] Earlier in this course, we talked about a UI framework called SwiftUI.
 >
-> **[0:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=5)** That's the framework at this point in time that Apple is pushing developers to use for new applications and gets most new features with each Xcode release.
+> **[0:05](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=5)** That's the framework at this point in time that Apple is pushing developers to use for new applications and gets most new features with each [[Xcode]] release.
 >
 > **[0:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=14)** However, many mature applications use a different UI framework like storyboards.
 >
@@ -1555,9 +1528,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=67)** We're not going to talk about that in this course, but just know that it's an option.
 >
-> **[1:11](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=71)** We'll leave Swift for the language and then hit Next.
+> **[1:11](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=71)** We'll leave [[Swift (Programming Language)|Swift]] for the language and then hit Next.
 >
-> **[1:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=74)** I'm going to uncheck Create a Git Repository and then save this in Exercise Files Chapter 04 Exploring and then Final.
+> **[1:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=74)** I'm going to uncheck Create a [[Git]] Repository and then save this in Exercise Files Chapter 04 Exploring and then Final.
 >
 > **[1:23](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980&t=83)** If you're creating your own files here, just save in the Start folder.
 >
@@ -1605,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), hit (3), next (2), product (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (1), [[Git]] (1)
 > **Code Identifiers:** ios (3), macos (3)
 > **CLI Commands:** find (2), make (1), git (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1614,8 +1587,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Exercise Files:** exercise files (1)
 
-#### Creating a user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-user-interface?u=76281980)
+#### [Creating a user interface](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,13 +1661,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **UI Navigation:** double-click (2), drag and drop (1), in the toolbar (1), click on (1), go to (1)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting a label
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980)
+#### [Connecting a label](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1681,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980&t=40)** So I'm in Main right now in my storyboard and I'm going to Option click ViewController.
 >
-> **[0:45](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980&t=45)** You may remember that Option clicking files in the project navigator is a setting that's controlled in Xcode, Settings, under Navigation.
+> **[0:45](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980&t=45)** You may remember that Option clicking files in the project navigator is a setting that's controlled in [[Xcode]], Settings, under Navigation.
 >
 > **[0:55](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-label?u=76281980&t=55)** So if Option clicking doesn't open the file in the next editor, you can modify your settings here.
 >
@@ -1779,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), hit (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Xcode]] (3)
 > **Code Identifiers:** macos (2), viewdidload (2), ios (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
@@ -1788,8 +1758,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting a button
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980)
+#### [Connecting a button](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,7 +1774,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980&t=39)** Here, I'm asked to give my method a name.
 >
-> **[0:41](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980&t=41)** I'll just call this buttonWasPressed, capital W, capital P, all one word, and then hit Return.
+> **[0:41](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980&t=41)** I'll just call this buttonWasPressed, capital W, capital P, all one [[Microsoft Word|word]], and then hit Return.
 >
 > **[0:48](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/connecting-a-button?u=76281980&t=48)** And there's my method.
 >
@@ -1831,15 +1800,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** right-click (3), click on (2)
 > **Code Identifiers:** viewdidload (1), buttonwaspressed (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot broken connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980)
+#### [Troubleshoot broken connections](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,7 +1819,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980&t=17)** Clicking on the button does nothing.
 >
-> **[0:19](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980&t=19)** But if we return to Xcode, you'll see that there appears to be no problem with the code.
+> **[0:19](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980&t=19)** But if we return to [[Xcode]], you'll see that there appears to be no problem with the code.
 >
 > **[0:24](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/troubleshoot-broken-connections?u=76281980&t=24)** The code is written correctly and the circles are filled in on the left side in both cases.
 >
@@ -1931,7 +1899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (4)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (1)
@@ -1940,8 +1908,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding pinning
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/understanding-pinning?u=76281980)
+#### [Understanding pinning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/understanding-pinning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2009,7 +1976,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** means that (1), is called (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
@@ -2021,14 +1987,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the debugger
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
+#### [Using the debugger](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=1)** - [Instructor] One of the most helpful tools in any IDE is the debugger, which enables you to jump through code line by line as the code is running in order to resolve problems.
 >
-> **[0:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=12)** In X code, you can use the debugger even in Swift UI.
+> **[0:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=12)** In X code, you can use the debugger even in [[Swift (Programming Language)|Swift]] UI.
 >
 > **[0:16](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=16)** Consider my content view right here I have a text view that's getting its text from the response in a method called get text, which is defined right here.
 >
@@ -2058,13 +2023,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=94)** And now I can see the value of world in there.
 >
-> **[1:37](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=97)** And if you look down here in the debug area, you'll see word one is equal to hello, and I can go down one more line by hitting step over and then I can see the value of word two is defined as world.
+> **[1:37](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=97)** And if you look down here in the debug area, you'll see [[Microsoft Word|word]] one is equal to hello, and I can go down one more line by hitting step over and then I can see the value of word two is defined as world.
 >
 > **[1:51](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=111)** I can continue my running application by hitting this button to continue program execution.
 >
 > **[1:57](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=117)** And there's my app.
 >
-> **[1:58](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=118)** Let's tap back over to Xcode and stop the running application.
+> **[1:58](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=118)** Let's tap back over to [[Xcode]] and stop the running application.
 >
 > **[2:02](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980&t=122)** And then I'm going to hide the navigator and hide the debug area using the button at the top right of the debug area.
 >
@@ -2084,18 +2049,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (2), [[Microsoft Word|Word]] (2), [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correcting errors with Fix-It
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980)
+#### [Correcting errors with Fix-It](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=1)** - [Instructor] The fix-it feature in Xcode can help you solve bugs and other issues in your code very easily.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=1)** - [Instructor] The fix-it feature in [[Xcode]] can help you solve bugs and other issues in your code very easily.
 >
 > **[0:07](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=7)** Sometimes when you're working in your code, you'll see a yellow or red error message that pops up.
 >
@@ -2125,7 +2089,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=55)** So I'm going to change the string in here to high, and now I see what I want over here on the right in the canvas.
 >
-> **[1:03](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=63)** So in the event that word one doesn't have a value, or in other words is nil, when it comes in, the word high will replace it.
+> **[1:03](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=63)** So in the event that [[Microsoft Word|word]] one doesn't have a value, or in other words is nil, when it comes in, the word high will replace it.
 >
 > **[1:12](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/correcting-errors-with-fix-it?u=76281980&t=72)** You can test it by deleting the string on line 16 and replacing it with nil.
 >
@@ -2139,18 +2103,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Xcode]] (2), [[Microsoft Word|Word]] (2), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (2)
 > **Warnings:** keep in mind (1), warning (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refactoring code
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/refactoring-code?u=76281980)
+#### [Refactoring code](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/refactoring-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/refactoring-code?u=76281980&t=0)** - [Instructor] Another way in which Xcode helps you to be efficient in writing your code is by allowing you to refactor using a small number of clicks.
+> **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/refactoring-code?u=76281980&t=0)** - [Instructor] Another way in which [[Xcode]] helps you to be efficient in writing your code is by allowing you to refactor using a small number of clicks.
 >
 > **[0:08](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/refactoring-code?u=76281980&t=8)** For example, let's say we wanted to change the name of this method, getText.
 >
@@ -2172,20 +2135,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1), feature (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **UI Navigation:** right-click (2), select the (1), go to (1)
 > **Code Identifiers:** gettext (1), getthetext (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980)
+#### [Creating unit tests](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=1)** - [Instructor] One important part of software development is unit testing, which allows you to confirm that your code does what you think it does.
+> **[0:01](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=1)** - [Instructor] One important part of [[Software Development]] is [[Unit Testing]], which allows you to confirm that your code does what you think it does.
 >
-> **[0:09](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=9)** Let's take a look at creating unit tests in an Xcode project.
+> **[0:09](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=9)** Let's take a look at creating unit tests in an [[Xcode]] project.
 >
 > **[0:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=14)** To do that, the first step is to select your project in the project navigator.
 >
@@ -2205,7 +2167,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=54)** I'll leave the default name and then hit finish.
 >
-> **[0:57](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=57)** What that does is it creates a group with the same name as your bundle and it also creates a swift file for writing tests.
+> **[0:57](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=57)** What that does is it creates a group with the same name as your bundle and it also creates a [[Swift (Programming Language)|swift]] file for writing tests.
 >
 > **[1:07](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-unit-tests?u=76281980&t=67)** This gives you a whole bunch of different testing methods that you can use, and I'm going to delete them all.
 >
@@ -2293,7 +2255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Xcode]] (5), hit (4), next (4), [[Debugging]] (3)
+> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Xcode]] (5), [[Software Development]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1), select the (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (2)
@@ -2306,14 +2268,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980&t=0)** - [Instructor] Well, you've reached the end of this course, and you may be wondering where to go from here.
 >
-> **[0:06](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980&t=6)** If you're interested in learning more about what's new in Xcode 15, you can check out the WWDC Session from 2023.
+> **[0:06](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980&t=6)** If you're interested in learning more about what's new in [[Xcode]] 15, you can check out the WWDC Session from 2023.
 >
 > **[0:14](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980&t=14)** You can find it here.
 >
@@ -2329,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (5), next (1)
+> **Frameworks & Libraries:** [[Xcode]] (5)
 > **CLI Commands:** find (2)
 > **Env Vars:** wwdc (1), ide (1)
 > **Definitions:** is a  (1)

@@ -106,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the amazing world of GIS using ArcGIS Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980)
+#### [Exploring the amazing world of GIS using ArcGIS Pro](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=10)** And can we find out where Nanaimo Bars are made?
 >
-> **[0:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=13)** With ArcGIS Pro, we're going to answer all these questions and more.
+> **[0:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=13)** With [[ArcGIS Pro]], we're going to answer all these questions and more.
 >
 > **[0:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=17)** Well, maybe not the one about the Nanaimo Bars.
 >
@@ -129,11 +128,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=29)** Why not download the trial version of ArcGIS Pro right now and jump into the mapping and analysis deep end?
 >
-> **[0:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=36)** Join me in LinkedIn Learning Course on "ArcGIS Pro Essential Training."
+> **[0:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980&t=36)** Join me in [[LinkedIn]] Learning Course on "ArcGIS Pro Essential Training."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), gis (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[LinkedIn]] (1)
 > **Env Vars:** gis (2), cad (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -144,12 +143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign in to ArcGIS Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980)
+#### [Sign in to ArcGIS Pro](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=0)** - [Instructor] When you first open up ArcGIS Pro, you're prompted with a login screen.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=0)** - [Instructor] When you first open up [[ArcGIS Pro]], you're prompted with a login screen.
 >
 > **[0:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=4)** This allows you to log into [arcgis.com](https://arcgis.com) and do two things.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=26)** Depends on how you set up your organization's URL with [esri.com](https://esri.com).
 >
-> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=32)** If you do have a username and password with GitHub, Facebook, Google, or Apple, you can tie those different accounts to [arcgis.com](https://arcgis.com), so you can automatically log in.
+> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=32)** If you do have a username and password with [[GitHub]], Facebook, [[Google]], or Apple, you can tie those different accounts to [arcgis.com](https://arcgis.com), so you can automatically log in.
 >
 > **[0:45](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=45)** Makes life very easy.
 >
@@ -241,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ArcGIS Pro]] (6), data (1), [[GitHub]] (1), [[Google]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (6), [[GitHub]] (1), [[Google]] (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (9), [esri.com](https://esri.com) (2), [maps.com](https://maps.com) (1)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2)
@@ -250,12 +248,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
-#### Choosing a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980)
+#### [Choosing a template](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=0)** - [Instructor] Once you're logged in and you've opened up ArcGIS Pro, you're prompted to start a new project.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=0)** - [Instructor] Once you're logged in and you've opened up [[ArcGIS Pro]], you're prompted to start a new project.
 >
 > **[0:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=5)** Now, there's four kinds of projects to start with.
 >
@@ -263,11 +260,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=16)** Or you could use a catalog.
 >
-> **[0:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=18)** A catalog is for managing files, databases, and so on.
+> **[0:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=18)** A catalog is for managing files, [[Databases]], and so on.
 >
 > **[0:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=22)** There's no graphics per se.
 >
-> **[0:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=23)** It's just about data management and metadata management.
+> **[0:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=23)** It's just about [[Data Management]] and [[Metadata]] management.
 >
 > **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/choosing-a-template?u=76281980&t=26)** There's a global scene, which is a 3D map that looks at the whole world or down to country or even state or province, or if you have a more large scale project you're working on, a particular building or neighborhood, use a 3D local scene.
 >
@@ -299,15 +296,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), data (3), management (3), [[Databases]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[Data Management]] (2), [[Databases]] (1), [[Metadata]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980)
+#### [Creating projects](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=156)** This is your toolbox.
 >
-> **[2:38](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=158)** This holds code, Python code, and things like that inside of it.
+> **[2:38](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=158)** This holds code, [[Python (Programming Language)|Python]] code, and things like that inside of it.
 >
 > **[2:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=162)** Now, there shouldn't be anything in there yet because we haven't defined anything for this project.
 >
@@ -379,7 +375,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=189)** So everything is under a folder called My Project on the C Drive right now.
 >
-> **[3:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=193)** Now databases, let's look at that.
+> **[3:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=193)** Now [[Databases]], let's look at that.
 >
 > **[3:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=195)** Now, there is a database, it's a file geodatabase or a GDB.
 >
@@ -421,7 +417,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=277)** Now, styles, oh, just one thing about the databases, I'm going to swing back to databases.
 >
-> **[4:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=281)** I can connect to other databases such as SQL Server, Oracle, things like that.
+> **[4:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=281)** I can connect to other databases such as [[Microsoft SQL Server|SQL Server]], Oracle, things like that.
 >
 > **[4:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=287)** So enterprise style databases, not just the file geodatabase, just wanted to mention that.
 >
@@ -431,7 +427,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=299)** So they're part of my personal profile on this computer.
 >
-> **[5:02](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=302)** So I get them defined when I log in into our ArcGIS Pro.
+> **[5:02](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=302)** So I get them defined when I log in into our [[ArcGIS Pro]].
 >
 > **[5:07](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=307)** They define them for me under the roaming profile and they're all my favorite styles and so on.
 >
@@ -473,7 +469,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=408)** So that's what a locator does for you.
 >
-> **[6:50](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=410)** You can see what the URL is, it's a rest service that you can type in an address or search for something and it'll zoom and find it for you.
+> **[6:50](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=410)** You can see what the URL is, it's a [[Representational State Transfer (REST)|rest]] service that you can type in an address or search for something and it'll [[Zoom]] and find it for you.
 >
 > **[6:58](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-projects?u=76281980&t=418)** You could make your own.
 >
@@ -497,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (8), data (4), [[Search]] (3), database (2), concurrent (1)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Python (Programming Language)|Python]] (1), [[Microsoft SQL Server|Sql server]] (1), [[ArcGIS Pro]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5), python (1), make (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Analogies:** for example (3), such as (1), it's like (1)
@@ -506,12 +502,11 @@ created: 2026-05-02
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating ribbons and panes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980)
+#### [Navigating ribbons and panes](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=0)** - [Instructor] As you become familiar with ArcGIS Pro, you'll notice that the menus and ribbons are very context sensitive to what you have selected.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=0)** - [Instructor] As you become familiar with [[ArcGIS Pro]], you'll notice that the menus and ribbons are very context sensitive to what you have selected.
 >
 > **[0:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=8)** For example, in our project here, you can see that in the map I've got a set of menus, map insert analysis view, and so on.
 >
@@ -529,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=48)** If I go back to Map, you'll see I get just the default set of menus and the ribbons here.
 >
-> **[0:54](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=54)** Now, for example, if I go to the world topographic map, and I want it to zoom in at a certain scale or turn off at a particular scale, so say at a million.
+> **[0:54](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=54)** Now, for example, if I go to the world topographic map, and I want it to [[Zoom]] in at a certain scale or turn off at a particular scale, so say at a million.
 >
 > **[1:03](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/navigating-ribbons-and-panes?u=76281980&t=63)** I'm just going to say, when I zoom into a million, I want the topographic map to turn off.
 >
@@ -559,21 +554,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting project properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980)
+#### [Setting project properties](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=0)** - [Instructor] There are some global options we can set for our project.
 >
-> **[0:03](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=3)** Things like file locations, where the toolboxes are, where the geo databases are.
+> **[0:03](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=3)** Things like file locations, where the toolboxes are, where the geo [[Databases]] are.
 >
 > **[0:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=8)** Let's have a look at that now.
 >
@@ -621,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=92)** They're going to go inside this geo database.
 >
-> **[1:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=95)** And also if I create a new toolbox or I'm doing any sort of analysis or Python, where's it going to go?
+> **[1:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=95)** And also if I create a new toolbox or I'm doing any sort of analysis or [[Python (Programming Language)|Python]], where's it going to go?
 >
 > **[1:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=101)** It's going to go into this toolbox right here.
 >
@@ -681,7 +675,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=212)** These are some of the things.
 >
-> **[3:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=213)** So for example, when you first start ArcGIS Pro, does it start with a start page where you pick a template, whatever, or always start without a project template and then save it manually or start pre using a default project and you can browse to a preexisting project that you use that as the project that you always work with.
+> **[3:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=213)** So for example, when you first start [[ArcGIS Pro]], does it start with a start page where you pick a template, whatever, or always start without a project template and then save it manually or start pre using a default project and you can browse to a preexisting project that you use that as the project that you always work with.
 >
 > **[3:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=232)** That means if you use the same project every day, you're working on one particular project.
 >
@@ -717,7 +711,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=328)** Now, one thing I just want to point out, so those are projects and that sort of thing starting, but the one thing is the application theme.
 >
-> **[5:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=335)** If you're like me, I like to dim the lights in my office and I can flip to Dark mode, and that makes everything in the background nice and dark.
+> **[5:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=335)** If you're like me, I like to dim the lights in my [[Microsoft Office|office]] and I can flip to Dark mode, and that makes everything in the background nice and dark.
 >
 > **[5:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-project-properties?u=76281980&t=343)** You have to restart Pro to see the changes.
 >
@@ -743,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (5), application (4), [[Microsoft Office|Office]] (4), [[ArcGIS Pro]] (3)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[ArcGIS Pro]] (3), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (1), imagine (1), for example (1), it's like (1)
 > **CLI Commands:** make (2), python (1)
 > **Exercise Files:** template (2)
@@ -752,8 +746,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting map properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980)
+#### [Setting map properties](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=130)** So here we are, open street map showing a completely different map.
 >
-> **[2:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=135)** So if you look at here, when I zoom in to Oshkosh, it looks like that.
+> **[2:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=135)** So if you look at here, when I [[Zoom]] in to Oshkosh, it looks like that.
 >
 > **[2:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=142)** But if I zoom into Oshkosh over here, oops, Appleton there we are, Oshkosh, you'll see it's completely different map because one uses the world topographic map and the other one uses open street map for the exact same location, two different maps.
 >
@@ -843,7 +836,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=200)** You'd expect your map to show up when you drag data in, it should disappear.
 >
-> **[3:25](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=205)** Now if we think about this for a minute sometimes we have really big data sets.
+> **[3:25](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=205)** Now if we think about this for a minute sometimes we have really [[Big Data]] sets.
 >
 > **[3:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=211)** What if we had every single park bench for the whole country?
 >
@@ -895,7 +888,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=332)** This is what a lot of the web based.
 >
-> **[5:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=334)** So RTS online, Google maps, all that sort of thing uses that coordinate system.
+> **[5:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=334)** So RTS online, [[Google]] maps, all that sort of thing uses that coordinate system.
 >
 > **[5:39](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-map-properties?u=76281980&t=339)** So that means no matter what project you start, what map you start, this will be the coordinate system.
 >
@@ -1041,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), web (7), feature (4), application (2), hit (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Big Data]] (2), [[Google]] (1)
 > **Env Vars:** utm (10), nad (3), wgs (1), rts (1), esri (1)
 > **UI Navigation:** go to (2), click on (2), drag and drop (1), in the menu (1), toggle (1)
 > **CLI Commands:** make (5), find (1)
@@ -1055,8 +1048,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating data connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980)
+#### [Creating data connections](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1060,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=18)** So now that we're there, let's look at connecting to data.
 >
-> **[0:21](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=21)** We need to be able to connect to data such as files, geodatabases, databases.
+> **[0:21](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=21)** We need to be able to connect to data such as files, geodatabases, [[Databases]].
 >
 > **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=26)** Well first let's talk about databases.
 >
@@ -1086,15 +1078,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=48)** Now the database connections, we have several that we can choose from.
 >
-> **[0:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=52)** We can choose from BigQuery, DB2, so on, Redshift, Teradata, even Snowflake.
+> **[0:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=52)** We can choose from BigQuery, DB2, so on, Redshift, Teradata, even [[Snowflake]].
 >
-> **[1:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=60)** SQL Server's the one I use a lot of, same with Oracle and PostgreSQL.
+> **[1:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=60)** [[Microsoft SQL Server|SQL Server]]'s the one I use a lot of, same with Oracle and [[PostgreSQL]].
 >
 > **[1:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=64)** So these are all the different common databases we can connect to.
 >
 > **[1:07](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=67)** They're Enterprise, so depending on what you pick, so if you pick on SQL Server you'd have to put in the instance to the SQL Server.
 >
-> **[1:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=73)** And you could use the authorization through a username password or use your Windows and so on, then you could pick the database.
+> **[1:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=73)** And you could use the authorization through a username password or use your [[Windows]] and so on, then you could pick the database.
 >
 > **[1:19](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=79)** But these are all Enterprise connections, so we're not going to do that today.
 >
@@ -1118,19 +1110,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=127)** I'll hold my cursor there so you can see.
 >
-> **[2:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=128)** Users, Gordon-LinkedIn, Documents, ArcGIS, Projects.
+> **[2:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=128)** Users, Gordon-[[LinkedIn]], Documents, ArcGIS, Projects.
 >
 > **[2:12](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=132)** But if I hover over data, you could see that's actually on my desktop under Exercise Files.
 >
 > **[2:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=138)** And then you could see underneath that we've got CSV files, LIDAR, RASTER, SHP files, and a file geodatabase all under that data folder.
 >
-> **[2:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=148)** So by connecting this data folder to my MyProject ArcGIS Pro project, I have access to all this data that was sitting in a folder that I didn't have access to.
+> **[2:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=148)** So by connecting this data folder to my MyProject [[ArcGIS Pro]] project, I have access to all this data that was sitting in a folder that I didn't have access to.
 >
 > **[2:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=161)** Now, of course, I could drag and drop data in, but by adding this to my catalog, by having a folder connection, every time I open up this project I now have access to that data that's stored in that Exercise Files that I downloaded from the LinkedIn learning site.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Databases]] (4), database (4), [[Microsoft SQL Server|Sql server]] (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (3), [[LinkedIn]] (2), [[Snowflake]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (3), data (2), db2 (1), csv (1), lidar (1)
 > **UI Navigation:** go to (3), drag and drop (1)
 > **Exercise Files:** exercise files (4)
@@ -1138,8 +1130,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding shapefiles to ArcGIS Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980)
+#### [Adding shapefiles to ArcGIS Pro](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1146,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=29)** Now if I look at my map definition, I go into properties, you can see that the current coordinate system is that WGS 1984 Web Mercator.
 >
-> **[0:37](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=37)** Often I refer to that as the Google or web projection.
+> **[0:37](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=37)** Often I refer to that as the [[Google]] or web projection.
 >
 > **[0:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=41)** But what we want it to be is this UTM zone, which is actually what the current shape files are in.
 >
@@ -1163,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=48)** So I'm going to choose that and pick, okay and my map will change shape because this is the coordinate system that it should be in.
 >
-> **[0:55](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=55)** So now we've got that, but I can zoom way out.
+> **[0:55](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=55)** So now we've got that, but I can [[Zoom]] way out.
 >
 > **[0:57](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=57)** Now the thing is I can change all that.
 >
@@ -1207,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=154)** We're not clipping any layers.
 >
-> **[2:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=155)** Now the metadata is really important.
+> **[2:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=155)** Now the [[Metadata]] is really important.
 >
 > **[2:37](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=157)** So we're going through these layers.
 >
@@ -1283,7 +1274,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=269)** That's how old the shape file is.
 >
-> **[4:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=271)** And back then, one of the best data formats were DBF or dBase, the store you could open it up in Excel at the time.
+> **[4:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=271)** And back then, one of the best data formats were DBF or dBase, the store you could open it up in [[Microsoft Excel|Excel]] at the time.
 >
 > **[4:39](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-shapefiles-to-arcgis-pro?u=76281980&t=279)** So all the attributes are the DBF file.
 >
@@ -1337,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), hit (6), [[Zoom]] (5), [[Metadata]] (4), web (2)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Metadata]] (4), [[Microsoft Excel|Excel]] (2), [[Google]] (1)
 > **Env Vars:** dbf (5), shp (3), utm (3), prj (2), shx (2)
 > **Analogies:** for example (5), it's like (1), such as (1)
 > **Cross-References:** go back to (3)
@@ -1346,14 +1337,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 
-#### Using file geodatabases
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980)
+#### [Using file geodatabases](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=0)** - [Instructor] File geodatabases or GDBs contain multiple feature classes.
 >
-> **[0:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=5)** Let's move the NANAIMO geodatabase that's found under DATA into the Databases area of the catalog.
+> **[0:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=5)** Let's move the NANAIMO geodatabase that's found under DATA into the [[Databases]] area of the catalog.
 >
 > **[0:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=13)** So if we right click on Databases and say Add Database, we can browse to Exercise Files, DATA, and pick on the NANAIMO.gdb file.
 >
@@ -1381,13 +1371,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=74)** So simply drag and drop BUILDINGS under the NANAIMO geodatabase into our map, and drag PARCELS.
 >
-> **[1:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=83)** Now, the parcels might be over top of the buildings, so if we zoom in, we can't see the buildings underneath.
+> **[1:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=83)** Now, the parcels might be over top of the buildings, so if we [[Zoom]] in, we can't see the buildings underneath.
 >
 > **[1:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=88)** So all we have to do is in our Drawing Order drag the BUILDINGS above PARCELS, I'm just dragging it up.
 >
 > **[1:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=95)** There we are.
 >
-> **[1:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=96)** So ArcGIS Pro arbitrarily color coded the parcels and buildings.
+> **[1:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=96)** So [[ArcGIS Pro]] arbitrarily color coded the parcels and buildings.
 >
 > **[1:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=101)** They made the buildings blue, in my case, and the parcels slightly green or a teal color.
 >
@@ -1453,7 +1443,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=255)** You can have field names with lots of characters, and you can put other types of data inside.
 >
-> **[4:21](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=261)** So images or even other tables that don't even have feature classes, so they're just straight flat tables like you'd see in Excel.
+> **[4:21](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=261)** So images or even other tables that don't even have feature classes, so they're just straight flat tables like you'd see in [[Microsoft Excel|Excel]].
 >
 > **[4:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-file-geodatabases?u=76281980&t=268)** That's the advantage.
 >
@@ -1469,7 +1459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (6), [[Databases]] (2), database (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Zoom]] (1), [[ArcGIS Pro]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** nanaimo (6), buildings (6), parcels (5), data (3), housenumb (1)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Exercise Files:** exercise files (2)
@@ -1478,8 +1468,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 
-#### Rendering text files as points
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/rendering-text-files-as-points?u=76281980)
+#### [Rendering text files as points](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/rendering-text-files-as-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1602,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (14), hit (3), feature (3)
 > **UI Navigation:** right-click (3), drag and drop (2), click on (2), dropdown (1), go to (1)
 > **Env Vars:** csv (4), wgs (2), data (1), url (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1624,12 +1612,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Raster tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980)
+#### [Introduction to Raster tools](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=0)** - [Instructor] The next lesson, we're just going to look at some of the advanced tools and some of the basic tools that come with ArcGIS Pro.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=0)** - [Instructor] The next lesson, we're just going to look at some of the advanced tools and some of the basic tools that come with [[ArcGIS Pro]].
 >
 > **[0:06](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=6)** You don't necessarily need to follow along.
 >
@@ -1639,7 +1626,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=17)** If you don't have any air photos or raster, you can always turn on the Imagery in your Basemaps.
 >
-> **[0:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=22)** You can zoom right in and look at the imagery.
+> **[0:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=22)** You can [[Zoom]] right in and look at the imagery.
 >
 > **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980&t=24)** Or you could use basemap hybrid where it actually gets labeled so you can see what the name of the cities are and so on.
 >
@@ -1767,7 +1754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[ArcGIS Pro]] (3), [[Zoom]] (2), data (2), hit (2)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[Zoom]] (2)
 > **Env Vars:** ecw (3), ndvi (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
@@ -1776,8 +1763,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add ECW data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980)
+#### [Add ECW data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1789,7 +1775,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=8)** There's the first one.
 >
-> **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=9)** It's going to ask to create statistics.
+> **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=9)** It's going to ask to create [[Statistics]].
 >
 > **[0:11](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=11)** Now, you could say yes. In fact, normally, you would.
 >
@@ -1807,7 +1793,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=74)** ECW and MrSID are proprietary, meaning they're not open formats.
 >
-> **[1:19](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=79)** Normally, you'd have to pay a little extra to have them inside of your, say, ArcGIS Online or ArcGIS Pro.
+> **[1:19](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=79)** Normally, you'd have to pay a little extra to have them inside of your, say, ArcGIS Online or [[ArcGIS Pro]].
 >
 > **[1:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=84)** They are really highly compressed.
 >
@@ -1845,7 +1831,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=223)** Now, you need to know what coordinate system these are in.
 >
-> **[3:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=228)** So what coordinate system is my current map, and I'm just going to have a quick look at my properties, and it will show that my coordinate system is in Web Mercator, so that's the Google projection or the Web Mercator, and the images have been put in properly and they're located right where they should be.
+> **[3:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=228)** So what coordinate system is my current map, and I'm just going to have a quick look at my properties, and it will show that my coordinate system is in Web Mercator, so that's the [[Google]] projection or the Web Mercator, and the images have been put in properly and they're located right where they should be.
 >
 > **[4:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=245)** Now, if I look at the individual images themselves, if we look at the source and we look at the spatial reference, you can see they're, oh, they're actually in UTM.
 >
@@ -1861,7 +1847,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=276)** Oh, set my current map to the right coordinate system.
 >
-> **[4:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=280)** So if I were to do that, go back to my coordinate system inside my current map and pick the UTM zone 10, which is what the images are in, now you won't see too much change other than the background looks a little different, and if I zoom out in the world, you can see the whole world has been re-projected around UTM which is fine, but because these images were collected that way, there's less processing power on my computer to have to re-project it every time I pan and zoom.
+> **[4:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=280)** So if I were to do that, go back to my coordinate system inside my current map and pick the UTM zone 10, which is what the images are in, now you won't see too much change other than the background looks a little different, and if I [[Zoom]] out in the world, you can see the whole world has been re-projected around UTM which is fine, but because these images were collected that way, there's less processing power on my computer to have to re-project it every time I pan and zoom.
 >
 > **[5:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-ecw-data?u=76281980&t=308)** So I really like to set my current map coordinate system, or projection, to the same as my raster 'cause my raster drives performance, so that's the nice thing there.
 >
@@ -1879,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (7), next (3), web (3), [[ArcGIS Pro]] (2), data (2)
+> **Frameworks & Libraries:** [[Statistics]] (7), [[ArcGIS Pro]] (2), [[Zoom]] (2), [[Google]] (1)
 > **Env Vars:** ecw (7), tiff (4), jpeg (3), utm (3), envi (1)
 > **UI Navigation:** drag and drop (2), right-click (2)
 > **Cross-References:** we talked about (1), go back to (1)
@@ -1888,8 +1874,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Add DEM data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980)
+#### [Add DEM data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,7 +1890,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=29)** Let's just go ahead and drag each one in.
 >
-> **[0:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=31)** We'll say OK for calculate pyramids and statistics, that's fine.
+> **[0:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=31)** We'll say OK for calculate pyramids and [[Statistics]], that's fine.
 >
 > **[0:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=35)** And we'll do the same for the western one.
 >
@@ -1963,7 +1948,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=149)** So now, just by doing some simple symbology of stretching from 0 to 465, we've made both halves seamless.
 >
-> **[2:38](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=158)** When I zoom in and out, you can kind of see where the line is.
+> **[2:38](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=158)** When I [[Zoom]] in and out, you can kind of see where the line is.
 >
 > **[2:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/add-dem-data?u=76281980&t=162)** Now, all that black water doesn't make sense, so we're going to do some things to switch that.
 >
@@ -2053,7 +2038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Zoom]] (1)
 > **Env Vars:** dem (10), geotiff (1), tiff (1), dtm (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (2), is an  (1)
@@ -2062,8 +2047,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a contour style from DEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-contour-style-from-dem?u=76281980)
+#### [Creating a contour style from DEM](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-contour-style-from-dem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2227,15 +2211,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** raster (11), dem (5), rasters (3)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Lidar data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980)
+#### [Using Lidar data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2255,7 +2237,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=29)** It's just going to show the outline of where that LAS file is and it's going to be classified based on elevations.
 >
-> **[0:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=35)** So if we zoom in, we start to see all the points inside of the LiDAR file.
+> **[0:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=35)** So if we [[Zoom]] in, we start to see all the points inside of the LiDAR file.
 >
 > **[0:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=41)** There they all are.
 >
@@ -2495,7 +2477,7 @@ created: 2026-05-02
 >
 > **[8:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=493)** Everything's unclassified.
 >
-> **[8:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=495)** So we have all sorts of tools in here where we can select tools and assign a classification code and we can do it automatically, and also with deep learning.
+> **[8:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=495)** So we have all sorts of tools in here where we can select tools and assign a classification code and we can do it automatically, and also with [[Deep Learning]].
 >
 > **[8:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-lidar-data?u=76281980&t=503)** So there's a lot of tools inside here.
 >
@@ -2515,7 +2497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), hit (4), database (4), [[Zoom]] (2), power (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Deep Learning]] (1)
 > **Env Vars:** las (7), data (1), gps (1), lidar (1), tin (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -2529,8 +2511,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Point layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980)
+#### [Point layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2538,7 +2519,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=6)** But we can add all sorts of our own symbols.
 >
-> **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=9)** We can use Enhanced Windows Metafiles, clip art, Scalable Vector Graphics.
+> **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=9)** We can use Enhanced [[Windows]] Metafiles, clip art, Scalable Vector Graphics.
 >
 > **[0:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=14)** We can use fonts from ESRI.
 >
@@ -2630,7 +2611,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=208)** They look pretty good.
 >
-> **[3:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=208)** But when I zoom out, it gets a little cluttered.
+> **[3:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=208)** But when I [[Zoom]] out, it gets a little cluttered.
 >
 > **[3:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980&t=211)** So the nice thing is I can change the style.
 >
@@ -2738,7 +2719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Zoom]] (6), [[Windows]] (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Windows]] (3)
 > **Env Vars:** emf (2), svg (2), esri (1), dae (1), png (1)
 > **UI Navigation:** right-click (3), go to (2), switch to (1), scroll down (1)
 > **CLI Commands:** make (4)
@@ -2747,8 +2728,7 @@ created: 2026-05-02
 > **Versions:** 4.5 (1)
 > **Cross-References:** go back to (1)
 
-#### Polyline layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980)
+#### [Polyline layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2860,7 +2840,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980&t=213)** So use the Feature Layer ribbon with the secondary roads highlighted, and change this to 5,000.
 >
-> **[3:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980&t=221)** So now the secondary roads don't turn on until you zoom in to 5,000.
+> **[3:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980&t=221)** So now the secondary roads don't turn on until you [[Zoom]] in to 5,000.
 >
 > **[3:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polyline-layers?u=76281980&t=227)** You see, they turn off, turn on.
 >
@@ -2956,7 +2936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Zoom]] (3), data (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** right-click (3), go to (3)
 > **Definitions:** is a  (4)
@@ -2965,8 +2945,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Polygon layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980)
+#### [Polygon layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2980,7 +2959,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=24)** Bring the buildings in.
 >
-> **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=26)** There they are, and we'll zoom right in.
+> **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=26)** There they are, and we'll [[Zoom]] right in.
 >
 > **[0:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=28)** And right now, by default, they're this edge green style.
 >
@@ -3154,13 +3133,13 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=340)** So that has to be an effect and that has to be incorporated when designing our maps.
 >
-> **[5:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=347)** Now, this lesson is just a high-level overview of some of the tools that are available in ArcGIS Pro.
+> **[5:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=347)** Now, this lesson is just a high-level overview of some of the tools that are available in [[ArcGIS Pro]].
 >
 > **[5:53](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/polygon-layers?u=76281980&t=353)** So you don't necessarily need to follow along because I'm just going to be pointing at some of the advanced tools that you may or may not use in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Zoom]] (2), data (1), [[ArcGIS Pro]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[ArcGIS Pro]] (1)
 > **CLI Commands:** make (11)
 > **Versions:** 0.6 (2), 1.2 (1), 0.8 (1)
 > **Env Vars:** buildings (2)
@@ -3169,8 +3148,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Thematic layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/thematic-layers?u=76281980)
+#### [Thematic layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/thematic-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3284,15 +3262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (1), database (1), hit (1)
 > **UI Navigation:** click on (1), toggle (1), drag and drop (1), go to (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dt10 (1)
 > **Speakers:** - [instructor] (1)
 
-#### DEM layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980)
+#### [DEM layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3330,7 +3306,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980&t=60)** We're going to change the color scheme to Elevation 1, and we'll change the mask.
 >
-> **[1:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980&t=65)** We don't need to change the statistics because they're already ranging from zero to 465 and they look great.
+> **[1:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980&t=65)** We don't need to change the [[Statistics]] because they're already ranging from zero to 465 and they look great.
 >
 > **[1:12](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/dem-layers?u=76281980&t=72)** Now, this is a excellent way to get your DEM stylized in your map and with a real pop of color.
 >
@@ -3396,7 +3372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** drag and drop (2)
@@ -3410,8 +3386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Label vector data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980)
+#### [Label vector data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3449,7 +3424,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980&t=62)** So let's just say after a certain scale turns off the diameters, so let's say out beyond, say 10,000.
 >
-> **[1:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980&t=74)** And then as we zoom in, we start seeing the diameters.
+> **[1:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980&t=74)** And then as we [[Zoom]] in, we start seeing the diameters.
 >
 > **[1:19](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980&t=79)** Now we can set the style, like we can basically say it's Tahoma, or maybe it's bold and so on, different colors, there we are, and we can even give it a halo.
 >
@@ -3591,7 +3566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), data (2), hit (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (6)
 > **Env Vars:** pvc (7), rts (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -3600,12 +3575,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Arcade for labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980)
+#### [Using Arcade for labels](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=0)** - [Instructor] Arcade is a scripting language for making expressions inside of ArcGIS Pro, ArcGIS Online and ArcGIS Enterprise and Portal.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=0)** - [Instructor] Arcade is a scripting language for making expressions inside of [[ArcGIS Pro]], ArcGIS Online and ArcGIS Enterprise and Portal.
 >
 > **[0:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=10)** In this case, we're going to use it for making advanced labels inside of Pro.
 >
@@ -3615,7 +3589,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=22)** We're going to label these parcels with the address.
 >
-> **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=24)** So let's zoom in so we can see some of the parcels.
+> **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=24)** So let's [[Zoom]] in so we can see some of the parcels.
 >
 > **[0:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=28)** There we are.
 >
@@ -3657,7 +3631,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=100)** I'm looking across, area plan, zoning, but I do not see the full address.
 >
-> **[1:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=107)** So do I have to do some data manipulation to merge the house number, the street name, and the postal code as one big column in order to label?
+> **[1:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=107)** So do I have to do some [[Data Manipulation]] to merge the house number, the street name, and the postal code as one big column in order to label?
 >
 > **[1:55](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=115)** No, I don't have to.
 >
@@ -3667,7 +3641,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=120)** Now, instead of using the dropdowns to create your field here in the labels, you can click Expression, and Arcade is just one of many languages.
 >
-> **[2:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=130)** You could use Python, JavaScript, VBScript or Arcade.
+> **[2:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=130)** You could use [[Python (Programming Language)|Python]], [[JavaScript]], VBScript or Arcade.
 >
 > **[2:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/using-arcade-for-labels?u=76281980&t=134)** We're going to stick with Arcade for now but whatever you're familiar with, you can use.
 >
@@ -3833,7 +3807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (10), data (3), [[ArcGIS Pro]] (2), database (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (10), [[ArcGIS Pro]] (2), [[Python (Programming Language)|Python]] (2), [[Data Manipulation]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (4), python (2), find (1)
 > **Definitions:** is a  (3), is an  (2)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
@@ -3846,8 +3820,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global 3D scenes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980)
+#### [Global 3D scenes](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3881,7 +3854,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=68)** Technically, the elevation services are 3D, the ground that's coming from the (indistinct) server and it will render the entire world in a particular elevation.
 >
-> **[1:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=78)** In fact, if I zoom out, I'm just going to use my wheel on my mouse to roll out beyond where we are all the way out to the globe.
+> **[1:18](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=78)** In fact, if I [[Zoom]] out, I'm just going to use my wheel on my mouse to roll out beyond where we are all the way out to the globe.
 >
 > **[1:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=87)** And you can see we've got the entire globe and its elevation rendered.
 >
@@ -3925,13 +3898,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=179)** So we'll go to the elevation surface layer, put this back to one and there we are.
 >
-> **[3:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=184)** So similar to Google Earth, you can have a global view of all your data in 3D using your GIS PRO project using these global scenes.
+> **[3:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=184)** So similar to [[Google]] Earth, you can have a global view of all your data in 3D using your GIS PRO project using these global scenes.
 >
 > **[3:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980&t=193)** Basically, this is like Google Earth only leveled up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), data (2), [[Google]] (2), database (1), gis (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Google]] (2)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** such as (2), just like (1), similar to (1)
 > **Env Vars:** gis (1), pro (1)
@@ -3939,8 +3912,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Local 3D scenes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980)
+#### [Local 3D scenes](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3998,7 +3970,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980&t=104)** But let's turn off the world elevation and you'll see that my entire site has been clipped to the extent of the global elevation.
 >
-> **[1:55](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980&t=115)** Let me just zoom to my parcels, bring us in, zoom to layer.
+> **[1:55](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980&t=115)** Let me just [[Zoom]] to my parcels, bring us in, zoom to layer.
 >
 > **[1:58](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/local-3d-scenes?u=76281980&t=118)** There we are.
 >
@@ -4036,12 +4008,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Zoom]] (3), next (2), database (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **UI Navigation:** drag and drop (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extruding building heights
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980)
+#### [Extruding building heights](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4061,7 +4032,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980&t=40)** We haven't done any 3D extrusion yet.
 >
-> **[0:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980&t=42)** So let's zoom in and look at what they look like.
+> **[0:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980&t=42)** So let's [[Zoom]] in and look at what they look like.
 >
 > **[0:44](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/extruding-building-heights?u=76281980&t=44)** So there's the buildings.
 >
@@ -4201,7 +4172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (5), database (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -4209,8 +4180,7 @@ created: 2026-05-02
 > **Versions:** 13.12 (1)
 > **Speakers:** - [speaker] (1)
 
-#### Linking 2D maps with 3D scenes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980)
+#### [Linking 2D maps with 3D scenes](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4242,7 +4212,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980&t=62)** So once it loads, we'll pick on Map, and change the Basemap to Imagery Hybrid.
 >
-> **[1:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980&t=70)** And we'll zoom into the area of interest, which is here on Vancouver Island, here we are, near an Nanaimo, and there's the area of interest right here.
+> **[1:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980&t=70)** And we'll [[Zoom]] into the area of interest, which is here on Vancouver Island, here we are, near an Nanaimo, and there's the area of interest right here.
 >
 > **[1:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/linking-2d-maps-with-3d-scenes?u=76281980&t=83)** There we go.
 >
@@ -4314,7 +4284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Zoom]] (2), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1), toggle (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** set up (1)
@@ -4325,8 +4295,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980)
+#### [Setting up layouts](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4408,7 +4377,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980&t=129)** I can actually override the scale at the bottom and say put it to 50,000 say, and hit enter.
 >
-> **[2:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980&t=135)** Now if I try to zoom in here what happens is if I zoom in, the whole layout zooms in.
+> **[2:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980&t=135)** Now if I try to [[Zoom]] in here what happens is if I zoom in, the whole layout zooms in.
 >
 > **[2:20](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980&t=140)** I actually have no control of what's going on in my map until it's activated.
 >
@@ -4626,7 +4595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), hit (4), data (1), next (1), gis (1)
+> **Frameworks & Libraries:** [[Zoom]] (9)
 > **Env Vars:** pdf (6), tiff (2), iso (1), ansi (1), gis (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (2), drag and drop (1), click on (1), toggle (1), scroll down (1)
@@ -4635,8 +4604,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding map widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980)
+#### [Adding map widgets](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4698,7 +4666,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980&t=88)** And, let's activate it.
 >
-> **[1:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980&t=92)** And zoom into the downtown.
+> **[1:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980&t=92)** And [[Zoom]] into the downtown.
 >
 > **[1:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/adding-map-widgets?u=76281980&t=95)** And I'm actually going to set the scale to about 5000.
 >
@@ -5116,7 +5084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (5), [[Zoom]] (4)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **CLI Commands:** make (14)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** picture (2), such as (1), just like (1)
@@ -5124,8 +5092,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - widgets (1)
 
-#### Creating map layout templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980)
+#### [Creating map layout templates](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5147,7 +5114,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980&t=40)** So I'll get the image here.
 >
-> **[0:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980&t=42)** Under the shape folder, there's a Zoom Nanaimo logo.
+> **[0:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980&t=42)** Under the shape folder, there's a [[Zoom]] Nanaimo logo.
 >
 > **[0:44](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-map-layout-templates?u=76281980&t=44)** So this is the city logo that I want to put in all my print layouts when I go to print.
 >
@@ -5255,7 +5222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), hit (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** just like (3)
@@ -5269,8 +5236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating feature classes in a geodatabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980)
+#### [Creating feature classes in a geodatabase](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5282,7 +5248,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=12)** Let's do that now.
 >
-> **[0:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=14)** So in our project, let's right click on geo Databases and say New File Geodatabase.
+> **[0:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=14)** So in our project, let's right click on geo [[Databases]] and say New File Geodatabase.
 >
 > **[0:20](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=20)** And it's saying where to put it.
 >
@@ -5410,7 +5376,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=223)** I'm going to leave the Web Mercator.
 >
-> **[3:45](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=225)** So that's the Google or spherical mercator that we can use.
+> **[3:45](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=225)** So that's the [[Google]] or spherical mercator that we can use.
 >
 > **[3:48](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980&t=228)** We'll just hit Next. Leave the tolerance default.
 >
@@ -5514,15 +5480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (20), database (12), data (10), next (9), hit (7)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Google]] (1)
 > **Env Vars:** cities (6), city_name (4), state (3), roads (3), urban_areas (3)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - creating (1)
 
-#### Drawing new data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980)
+#### [Drawing new data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5534,7 +5499,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=10)** So in our data folder, under Nanaimo geodatabase, drag and drop the parcels into our current project.
 >
-> **[0:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=17)** The small island in the middle of our map, let's zoom into that.
+> **[0:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=17)** The small island in the middle of our map, let's [[Zoom]] into that.
 >
 > **[0:22](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=22)** There we go.
 >
@@ -5566,7 +5531,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=65)** We're going to start with this corner spot right there.
 >
-> **[1:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=69)** Now, I'm snapping to that, because you see the vertex is showing up.
+> **[1:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=69)** Now, I'm snapping to that, because you see the [[Vertex]] is showing up.
 >
 > **[1:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=73)** That's because I have snapping turned on.
 >
@@ -5578,7 +5543,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=90)** It's very important when you're drafting to make sure your snaps are on.
 >
-> **[1:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=94)** It doesn't matter what product you use, but this is especially true in ArcGIS Pro to have snapping on to make sure your GIS data is as clean as it can be.
+> **[1:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=94)** It doesn't matter what product you use, but this is especially true in [[ArcGIS Pro]] to have snapping on to make sure your GIS data is as clean as it can be.
 >
 > **[1:42](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=102)** Now it's on, I can snap to that corner, and I can click.
 >
@@ -5642,7 +5607,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=205)** Done, saved.
 >
-> **[3:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=207)** Now if I go back to the map, hit explore, and pick on it, you'll see 51 Pirates Lane is available, and you can see the length, and I could add the zoning and all the rest of it, but I don't have that right now.
+> **[3:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=207)** Now if I go back to the map, hit explore, and pick on it, you'll see 51 Pirates Lane is available, and you can see the length, and I could add the zoning and all the [[Representational State Transfer (REST)|rest]] of it, but I don't have that right now.
 >
 > **[3:38](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=218)** Now, if I pick on the other one, if I pick on the one beside it, that's A-50 Pirates Lane, and the one above it, it's 52 Pirates Lane, and so on.
 >
@@ -5668,7 +5633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), data (8), feature (2), [[Zoom]] (2), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Vertex]] (2), [[ArcGIS Pro]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), snap (1)
 > **Cross-References:** go back to (5)
 > **Env Vars:** gis (2), pid (1)
@@ -5676,8 +5641,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing feature attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/editing-feature-attributes?u=76281980)
+#### [Editing feature attributes](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/editing-feature-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5855,7 +5819,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (5), feature (2), database (1)
 > **UI Navigation:** click on (5), go to (2), drag and drop (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2)
@@ -5864,8 +5827,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting and merging features
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980)
+#### [Splitting and merging features](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5879,7 +5841,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=24)** The parcels we're using are under the Nanaimo Geo database.
 >
-> **[0:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=27)** We're going to drag and drop parcels in and we're going to zoom in to a bit of land in the south.
+> **[0:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=27)** We're going to drag and drop parcels in and we're going to [[Zoom]] in to a bit of land in the south.
 >
 > **[0:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=33)** We'll see right down here, you'll see it on the island.
 >
@@ -5899,7 +5861,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=57)** You can see now we can draw and as long as we have snapping on, we can go to the nearest node.
 >
-> **[1:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=64)** There we are on the vertex.
+> **[1:04](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=64)** There we are on the [[Vertex]].
 >
 > **[1:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/splitting-and-merging-features?u=76281980&t=65)** I'm going to pick on the top and just split it in half, right through the middle, just like that.
 >
@@ -5997,7 +5959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), gis (2), database (1), [[Zoom]] (1), node (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Vertex]] (1)
 > **Env Vars:** frew (5), gis (2), pid (1), gid (1)
 > **CLI Commands:** make (4), node (1)
 > **UI Navigation:** drag and drop (1), go to (1), select the (1)
@@ -6005,8 +5967,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instrcutor] (1)
 
-#### Exporting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980)
+#### [Exporting data](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6052,7 +6013,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980&t=84)** So by the way, if you ever want to know where files are coming from so here's a parcel here, we've just exported it.
 >
-> **[1:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980&t=91)** If we hit this button here inside our contents list by data source, we can see that these parcels are coming from the folder called Users Gordon LinkedIn desktop.
+> **[1:31](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980&t=91)** If we hit this button here inside our contents list by data source, we can see that these parcels are coming from the folder called Users Gordon [[LinkedIn]] desktop.
 >
 > **[1:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exporting-data?u=76281980&t=103)** You can show based on the data source and you can see the other two are coming from these URLs.
 >
@@ -6166,7 +6127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), feature (6), database (5), hit (5), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (4), scroll down (1), toggle (1), drag and drop (1), go to (1)
 > **Env Vars:** cad (2), nanaimo (1), utm (1)
 > **CLI Commands:** make (3)
@@ -6180,14 +6141,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overlaying two vector layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980)
+#### [Overlaying two vector layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=0)** - [Instructor] One of the most powerful parts of a GIS is the ability to perform analysis.
 >
-> **[0:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=5)** ArcGIS Pro has a vast array of analysis tools for both Vector and Raster.
+> **[0:05](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=5)** [[ArcGIS Pro]] has a vast array of analysis tools for both Vector and Raster.
 >
 > **[0:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=10)** Overlay analysis which combines two layers, can be used to delve deep into the information about both layers.
 >
@@ -6197,7 +6157,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=24)** Let's put the buildings above the parcel so we can see them.
 >
-> **[0:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=27)** Now, if we zoom in and pick on one of the parcels, you'll see that it has a house number, street name, and postal code.
+> **[0:27](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=27)** Now, if we [[Zoom]] in and pick on one of the parcels, you'll see that it has a house number, street name, and postal code.
 >
 > **[0:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=33)** But if I pick on one of the buildings, it has a type, a height and number of floors, but it has no address.
 >
@@ -6235,7 +6195,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=110)** I'm going to put it into my current project.
 >
-> **[1:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=112)** So, I'll browse to my databases, my project database.
+> **[1:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=112)** So, I'll browse to my [[Databases]], my project database.
 >
 > **[1:57](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980&t=117)** I'm just going to call it Buildings with Address.
 >
@@ -6339,21 +6299,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (4), gis (2), [[ArcGIS Pro]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[Zoom]] (1), [[Databases]] (1)
 > **Env Vars:** gis (2), gdb (1), gid (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a heat map from points
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980)
+#### [Creating a heat map from points](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=0)** - [Instructor] Heat maps are used to visualize how hot an area is in terms of number of points within a particular region.
 >
-> **[0:06](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=6)** With ArcGIS Pro you can create a heat map with any point layer.
+> **[0:06](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=6)** With [[ArcGIS Pro]] you can create a heat map with any point layer.
 >
 > **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=9)** Let's try that now.
 >
@@ -6369,7 +6328,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=37)** Now that we've got a heat map we can see the hotspot is right downtown.
 >
-> **[0:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=41)** In fact, if we zoom in we can see it's dynamically changing but the hotspot is right there by the shopping center.
+> **[0:41](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=41)** In fact, if we [[Zoom]] in we can see it's dynamically changing but the hotspot is right there by the shopping center.
 >
 > **[0:49](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-a-heat-map-from-points?u=76281980&t=49)** Let's zoom out, and you can see it's dynamic.
 >
@@ -6461,15 +6420,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[ArcGIS Pro]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[ArcGIS Pro]] (1)
 > **UI Navigation:** drag and drop (1), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crime (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating centroids from polygons
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980)
+#### [Creating centroids from polygons](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6507,7 +6465,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980&t=75)** There it goes.
 >
-> **[1:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980&t=77)** And we're going to zoom into this island right here.
+> **[1:17](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980&t=77)** And we're going to [[Zoom]] into this island right here.
 >
 > **[1:20](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-centroids-from-polygons?u=76281980&t=80)** And in the middle, there's a small subdivision called Pirates Lane.
 >
@@ -6621,7 +6579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), hit (5), data (2), database (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** go to (4), drag and drop (1), checkbox (1)
 > **Env Vars:** parcels (1), parcel (1), centroids (1)
 > **Analogies:** for example (2), just like (1)
@@ -6635,12 +6593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Publishing to ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980)
+#### [Publishing to ArcGIS Online](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=0)** - [Instructor] Since I'm already logged in to ArcGIS Online, when I logged in to ArcGIS Pro, I'm able to publish my maps directly to the web.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=0)** - [Instructor] Since I'm already logged in to ArcGIS Online, when I logged in to [[ArcGIS Pro]], I'm able to publish my maps directly to the web.
 >
 > **[0:09](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=9)** Now it says so up here, you can see that I'm logged in to [arcgis.com](https://arcgis.com) at the very top of my ArcGIS Pro environment.
 >
@@ -6654,7 +6611,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=45)** There we are.
 >
-> **[0:46](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=46)** And we zoom in and you can see here's all the buildings.
+> **[0:46](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=46)** And we [[Zoom]] in and you can see here's all the buildings.
 >
 > **[0:49](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=49)** I'll just leave it alone and the bike routes are red and the base map is there.
 >
@@ -6750,13 +6707,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=219)** But unique numeric IDs, so like if we look at this individual layer, we can see that the layer does not have a number.
 >
-> **[3:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=227)** So let's see here, Metadata and you see it has no number assigned to it.
+> **[3:47](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=227)** So let's see here, [[Metadata]] and you see it has no number assigned to it.
 >
 > **[3:52](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=232)** So if I do this, if I say correct, and double-click on it and I say Allow assignment of unique numeric IDs for every layer, then I go into the BUILDINGS and you can see, it has a layer ID now, right there, layer ID zero.
 >
 > **[4:06](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=246)** And the BIKE_ROUTES are layer ID one.
 >
-> **[4:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=248)** So when it gets published, we can refer to it as zero and one down the road in the rest endpoint.
+> **[4:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=248)** So when it gets published, we can refer to it as zero and one down the road in the [[Representational State Transfer (REST)|rest]] endpoint.
 >
 > **[4:14](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980&t=254)** That's really critical and that's why it's fixed.
 >
@@ -6816,7 +6773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), data (7), [[ArcGIS Pro]] (2), [[Zoom]] (2), feature (2)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2), [[Zoom]] (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bike_routes (2), buildings (2), nanaimo (1), url (1), apartment (1)
 > **UI Navigation:** go to (2), switch to (1), double-click (1), click on (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (3)
@@ -6825,8 +6782,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating layer packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-layer-packages?u=76281980)
+#### [Creating layer packages](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-layer-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6948,15 +6904,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **CLI Commands:** make (4)
 > **Env Vars:** unc (2), lpkx (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980)
+#### [Sharing layers](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6980,7 +6934,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980&t=33)** So we're going to nanmap.nanaimo.ca.
 >
-> **[0:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980&t=36)** We're using the ArcGIS REST server that they have there.
+> **[0:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980&t=36)** We're using the ArcGIS [[Representational State Transfer (REST)|REST]] server that they have there.
 >
 > **[0:39](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sharing-layers?u=76281980&t=39)** It's an enterprise server and it has a REST service called NanMap points and 77.
 >
@@ -7056,15 +7010,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (2), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** url (3), rest (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating project packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980)
+#### [Creating project packages](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7074,11 +7027,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=11)** Let's make a quick project and then bundle it all up in a project package.
 >
-> **[0:16](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=16)** The first thing I'm going to do is I'm going to add data from the path and I'm going to use this path, the nanaimomap dot the nanaimo dot ca arcgis rest services NanMap Points Map Server 77.
+> **[0:16](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=16)** The first thing I'm going to do is I'm going to add data from the path and I'm going to use this path, the nanaimomap dot the nanaimo dot ca arcgis [[Representational State Transfer (REST)|rest]] services NanMap Points Map Server 77.
 >
 > **[0:29](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=29)** These are just the urban trees, so bring them in.
 >
-> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=32)** There's the urban trees, and they'll turn on as soon as I zoom in.
+> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=32)** There's the urban trees, and they'll turn on as soon as I [[Zoom]] in.
 >
 > **[0:35](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=35)** There they are.
 >
@@ -7148,7 +7101,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=154)** Also share outside the organization.
 >
-> **[2:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=156)** Now this is important because they may not have access to my databases, to my shape valves that are on the local network.
+> **[2:36](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=156)** Now this is important because they may not have access to my [[Databases]], to my shape valves that are on the local network.
 >
 > **[2:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=163)** So what it's going to do is grab all the data and zip it up and put it into a file geo database for me.
 >
@@ -7170,7 +7123,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=208)** There, if I go manage the package, you'll see there's an export ppk file.
 >
-> **[3:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=214)** If I double click on that it should open up a brand new copy of ArcGIS Pro and it will contain all the data that we need.
+> **[3:34](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=214)** If I double click on that it should open up a brand new copy of [[ArcGIS Pro]] and it will contain all the data that we need.
 >
 > **[3:43](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-project-packages?u=76281980&t=223)** Let's see.
 >
@@ -7204,7 +7157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (2), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1), [[Databases]] (1), [[ArcGIS Pro]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -7217,14 +7170,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980&t=0)** - [Gordon] Thank you for taking ArcGIS Pro Essential Training.
+> **[0:00](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980&t=0)** - [Gordon] Thank you for taking [[ArcGIS Pro]] Essential Training.
 >
-> **[0:03](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980&t=3)** We touched on a lot of GIS concepts, so search the LinkedIn Learning site for more courses on GIS.
+> **[0:03](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980&t=3)** We touched on a lot of GIS concepts, so search the [[LinkedIn]] Learning site for more courses on GIS.
 >
 > **[0:10](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980&t=10)** I hope you enjoyed this course as much as I did teaching it.
 >
@@ -7232,7 +7184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (2), [[ArcGIS Pro]] (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (2)
 > **Speakers:** - [gordon] (1)
 

@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the migration journey with your applications to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980)
+#### [Take the migration journey with your applications to the cloud](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980&t=0)** - The biggest cloud computing projects in the last 15 years have been about migrating applications and data from on-premises to public cloud providers.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980&t=0)** - The biggest [[Cloud Computing]] projects in the last 15 years have been about migrating applications and data from on-premises to public cloud providers.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980&t=8)** Enterprises have spent billions of dollars on this effort in search of more business value.
 >
@@ -99,12 +98,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (2), business (2), application (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,15 +110,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=6)** However, this is an introductory course, so you don't need deep knowledge.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=11)** It's also good if you're already familiar with cloud security and other related topics.
+> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=11)** It's also good if you're already familiar with [[Cloud Security]] and other related topics.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=16)** However, if those are not on your list of skills, I'll provide enough information throughout the course to help you keep up.
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=23)** If you're not yet comfortable with any of these topics mentioned, I suggest you watch my course, Cloud Computing Core Concepts, which is available in the library.
+> **[0:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/what-you-should-know?u=76281980&t=23)** If you're not yet comfortable with any of these topics mentioned, I suggest you watch my course, [[Cloud Computing]] Core Concepts, which is available in the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -129,32 +127,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980)
+#### [Understanding the business case](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=0)** - [Instructor] Cloud migration involves moving IT infrastructure, applications, and data from owned enterprise data centers to cloud platforms managed by cloud providers, such as Amazon Web Services, or AWS; Microsoft Azure, or Google Cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=0)** - [Instructor] Cloud migration involves moving IT infrastructure, applications, and data from owned enterprise data centers to cloud platforms managed by cloud providers, such as [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS; [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=15)** Migrating from on-premises platforms to public cloud platforms is a far-reaching business decision that can offer significant benefits for businesses.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=25)** However, that depends on a few things, such as the business itself, the industry that the business is in, and their existing systems.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=35)** The primary value drivers behind cloud migration include cost savings, increased scalability, enhanced security, and improved performance.
+> **[0:35](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=35)** The primary value drivers behind cloud migration include cost savings, increased [[Scalability]], enhanced security, and improved performance.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=43)** However, creating and understanding the business case is just not that simple.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=48)** Let's explore some of the business drivers that we need to consider when looking at the value of cloud computing application migration.
+> **[0:48](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=48)** Let's explore some of the business drivers that we need to consider when looking at the value of [[Cloud Computing]] application migration.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=56)** Cost efficiency and scalability.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=60)** One of the most compelling reasons for migrating to a public cloud is cost efficiency, at least the opportunity to be more cost efficient.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=68)** On-premises infrastructure require capital expenditure for hardware, software, and maintenance.
+> **[1:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=68)** On-premises infrastructure require capital expenditure for [[Hardware]], software, and maintenance.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=74)** They require that we hire skilled people to maintain these computer systems and other data center equipment.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=80)** Conversely, public cloud services operate on a pay-as-you-go model, allowing businesses to scale resources according to demand.
+> **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=80)** Conversely, public [[Cloud Services]] operate on a pay-as-you-go model, allowing businesses to scale resources according to demand.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=88)** You only pay for the resources you use, much like you would the utility bills for your home.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=106)** Enhanced operational resilience.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=109)** Migrating to the cloud can improve operational resiliency.
+> **[1:49](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=109)** Migrating to the cloud can improve operational [[Resiliency]].
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980&t=112)** In fact, since services are more reliable and available than those on-premises or private hardware, businesses moving to public cloud platforms can experience reduced unplanned downtimes by as much as 69%.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), business (11), data (3), [[Scalability]] (3), application (2)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Hardware]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (1), make (1), find (1)
 > **Env Vars:** aws (1), tco (1)
 > **Analogies:** such as (2)
@@ -204,8 +201,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980)
+#### [Understanding the risks](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=7)** It's good that we review them here.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=11)** Data security and privacy.
+> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=11)** [[Data Security]] and [[Privacy]].
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=12)** Moving sensitive data, such as data that is personally identifiable, to public clouds requires sound security approaches.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=78)** Public cloud providers, despite the robust infrastructure, are not immune to outages.
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=82)** Downtime can severely impact business operations.
+> **[1:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=82)** Downtime can severely impact [[Business Operations]].
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=86)** We all know that this can lead to potential revenue loss and decreased customer satisfaction.
 >
@@ -255,31 +251,30 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=113)** A great deal of work is needed to be done when moving to another provider with different native services and application usage.
 >
-> **[2:02](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=122)** Cost management.
+> **[2:02](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=122)** [[Cost Management]].
 >
-> **[2:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=124)** Cloud services offer a pay as you go model, but costs can spiral out of control without proper oversight.
+> **[2:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=124)** [[Cloud Services]] offer a pay as you go model, but costs can spiral out of control without proper oversight.
 >
-> **[2:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=131)** Unmonitored usage, unused resources, and data transfer fees can lead to cloud bills that will send your CFO running to your office.
+> **[2:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=131)** Unmonitored usage, unused resources, and data transfer fees can lead to cloud bills that will send your CFO running to your [[Microsoft Office|office]].
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-risks?u=76281980&t=140)** Effective cost monitoring and optimization tools are necessary to manage and control cloud expenditures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (3), business (3), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Privacy]] (1), [[Business Operations]] (1), [[Cost Management]] (1), [[Cloud Services]] (1)
 > **Env Vars:** cfo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980)
+#### [Public cloud migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=0)** - [Instructor] Migrating to a public cloud involves transferring data, applications and workloads from on-premises data centers to infrastructure provided by public cloud providers.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=11)** These are companies like Amazon Web Services, Microsoft Azure, or Google Cloud.
+> **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=11)** These are companies like [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=16)** This transition brings benefits such as enhanced scalability, cost efficiency, and improved performance, but it also comes with challenges that must be navigated carefully.
+> **[0:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=16)** This transition brings benefits such as enhanced [[Scalability]], cost efficiency, and improved performance, but it also comes with challenges that must be navigated carefully.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=27)** Application Portfolio Assessment.
 >
@@ -297,13 +292,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=65)** Security is a major concern during cloud migration in terms of how security should be dealt with on the target cloud platform to meet the needs of the business.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=73)** This means considering effective data protection, access control, and continuous monitoring.
+> **[1:13](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=73)** This means considering effective data protection, access control, and [[Continuous Monitoring]].
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=79)** These are essential components of a robust security strategy.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=83)** Data Protection, or the ability to implement strong encryption for data both at rest and in transit.
+> **[1:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=83)** Data Protection, or the ability to implement strong encryption for data both at [[Representational State Transfer (REST)|rest]] and in transit.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=90)** We have a complete course on cloud security that you can check out if you need more understanding.
+> **[1:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=90)** We have a complete course on [[Cloud Security]] that you can check out if you need more understanding.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=95)** Access Control, meaning enforcing strict identity and access management policies to ensure that only authorized personnel have access to sensitive data and applications.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=142)** Identify the skills required to support cloud workloads and ensure necessary training and development programs are in place.
 >
-> **[2:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=149)** Execute the migration plan while continuously monitoring and adjusting based on feedback and performance metrics.
+> **[2:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=149)** Execute the migration plan while continuously monitoring and adjusting based on feedback and [[Performance Metrics]].
 >
 > **[2:36](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-cloud-migration?u=76281980&t=156)** Ensure alignment across all teams and efficient resource allocation.
 >
@@ -329,14 +324,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Security]] (7), data (6), application (3), [[Continuous Monitoring]] (2)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Scalability]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Private cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980)
+#### [Private cloud migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,9 +338,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=5)** It involves transferring data, applications and workloads from the systems that are hosting the current set of applications normally in an enterprise data center to an infrastructure provided by a private cloud that you've implemented also inside the data center.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=21)** The transition can bring benefits, such as enhanced scalability, cost efficiency, and improved performance, but it also comes with challenges that must be navigated carefully.
+> **[0:21](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=21)** The transition can bring benefits, such as enhanced [[Scalability]], cost efficiency, and improved performance, but it also comes with challenges that must be navigated carefully.
 >
-> **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=32)** Before you can start, a huge and important part of this migration is being charged with installing, configuring, and operating your own hardware solution to support the private cloud system, including planning and the same tasks or steps that would occur in the installation of a traditional system.
+> **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=32)** Before you can start, a huge and important part of this migration is being charged with installing, configuring, and operating your own [[Hardware]] solution to support the private cloud system, including planning and the same tasks or steps that would occur in the installation of a traditional system.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=50)** Application portfolio assessment.
 >
@@ -360,11 +354,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=80)** Some consider this more secure since we have physical possession of the systems, but much the same security concerns as with public clouds exist.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=89)** This means considering effective data protection, access control, and continuous monitoring.
+> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=89)** This means considering effective data protection, access control, and [[Continuous Monitoring]].
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=96)** These are essential components of a robust security strategy for private cloud migration.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=102)** Data protection or the ability to implement strong encryption for data, both at rest and in transit.
+> **[1:42](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=102)** Data protection or the ability to implement strong encryption for data, both at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=109)** Access control, meaning enforcing strict identity and access management policies.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=132)** Building and deploying a migration plan.
 >
-> **[2:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=134)** Creating a detailed migration plan for private cloud migration normally includes, and yes, this is the same as we discussed migration around public clouds, develop a high fidelity inventory of applications and their dependencies, conduct a thorough risk and cost analysis to ensure effective resource allocation and risk mitigation, identify the skills required to support cloud workloads and ensure necessary training and development programs are in place, execute the migration plan while continuously monitoring and adjusting based on feedbacks and performance metrics.
+> **[2:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=134)** Creating a detailed migration plan for private cloud migration normally includes, and yes, this is the same as we discussed migration around public clouds, develop a high fidelity inventory of applications and their dependencies, conduct a thorough risk and cost analysis to ensure effective resource allocation and risk mitigation, identify the skills required to support cloud workloads and ensure necessary training and development programs are in place, execute the migration plan while continuously monitoring and adjusting based on feedbacks and [[Performance Metrics]].
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-cloud-migration?u=76281980&t=171)** Lots to think about in terms of things that need to be considered when moving applications to a private cloud provider.
 >
@@ -382,14 +376,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (7), [[Security]] (7), application (2), [[Continuous Monitoring]] (2)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2), [[Scalability]] (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Performance Metrics]] (1)
 > **Cross-References:** we discussed (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Multicloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980)
+#### [Multicloud migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980&t=52)** One of the things that you'll most notice about moving to a multicloud deployment is that you're dealing with more complexity.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980&t=59)** Just the fact that you have more than a single cloud brand, such as Google, AWS, and Microsoft, means that you're dealing with two or more platforms that have their own native security systems, operation systems, governance systems, storage systems, and application development, and deployment systems, Need many skills.
+> **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980&t=59)** Just the fact that you have more than a single cloud brand, such as [[Google]], AWS, and [[Microsoft]], means that you're dealing with two or more platforms that have their own native security systems, operation systems, governance systems, storage systems, and [[Application Development]], and deployment systems, Need many skills.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud-migration?u=76281980&t=80)** If it's not already apparent after what I just mentioned, you'll need specific talent for the cloud brands you just deployed, including the private cloud platforms.
 >
@@ -433,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Security]] (2), application (1), [[Google]] (1), aws (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[Application Development]] (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -442,8 +435,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud-based AI migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980)
+#### [Cloud-based AI migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +443,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980&t=6)** There is good news and bad news here.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980&t=9)** The good news is that migrating AI systems from traditional systems to public or private clouds is much the same as other applications.
+> **[0:09](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980&t=9)** The good news is that migrating AI systems from traditional systems to public or [[Private Clouds]] is much the same as other applications.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/cloud-based-ai-migration?u=76281980&t=17)** They have data, they have application components, they have operations and security requirements.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), cloud (6), data (5), application (2), [[Private Clouds]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (2)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -497,14 +489,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Good candidates for migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980)
+#### [Good candidates for migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=0)** - [Instructor] In this video, we'll learn how to pick the workloads that you should migrate to the cloud, including picking workloads that have the best chances of success with a minimum amount of risk.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=12)** Websites and web applications often demand high availability, scalability, and global reach.
+> **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=12)** Websites and web applications often demand high availability, [[Scalability]], and global reach.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=18)** This makes them good candidates for cloud deployment.
 >
@@ -512,23 +503,23 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=29)** Indeed, cloud providers offer web applications and operation services that you can leverage on demand.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=38)** Content management systems, or CMSs, benefit from the cloud's capability to scale.
+> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=38)** [[Content Management Systems (CMS)|Content management systems]], or CMSs, benefit from the cloud's capability to scale.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=44)** Moreover, it can do so based on demand.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=48)** Public clouds have features, like elastic load balancing, that allow for better scaling.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=54)** Also, content delivery networks, or CDNs, enable better performance and user experience when deploying and operating a CMS.
+> **[0:54](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=54)** Also, content delivery networks, or CDNs, enable better performance and [[User Experience (UX)|user experience]] when deploying and operating a CMS.
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=63)** Development and testing environments are also a good candidate for a public cloud.
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=69)** This is because public cloud providers offer on-demand resources that can be leveraged on demand.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=76)** This reduces the need for physical hardware.
+> **[1:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=76)** This reduces the need for physical [[Hardware]].
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=79)** Also, these public cloud platforms can scale up or down based on needs of the software development and testing cycles.
+> **[1:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=79)** Also, these public cloud platforms can scale up or down based on needs of the [[Software Development]] and testing cycles.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=88)** Big data analytics and business intelligence, or BI, applications are applications that require significant processing power.
+> **[1:28](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=88)** [[Big Data Analytics]] and [[Business Intelligence (BI)|business intelligence]], or BI, applications are applications that require significant processing power.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980&t=96)** Also, the need to leverage scalable storage that the public cloud providers can offer.
 >
@@ -544,12 +535,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), web (2), [[Scalability]] (1), traffic (1), [[Content Management Systems (CMS)|Content management systems]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), [[User Experience (UX)|User experience]] (1), [[Hardware]] (1), [[Software Development]] (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Poor candidates for migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980)
+#### [Poor candidates for migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=32)** Here are some types of applications that are typically considered bad candidates for cloud migration.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=38)** Legacy applications with high complexity, especially those that are highly complex and tightly coupled with on-premises hardware or software, are difficult to migrate.
+> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=38)** Legacy applications with high complexity, especially those that are highly complex and tightly coupled with on-premises [[Hardware]] or software, are difficult to migrate.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=48)** Considering that a great deal of development and re-engineering needs to occur to carry out this migration.
 >
@@ -571,15 +561,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=59)** Applications with high and predictable workloads, which are applications that consistently demand high computational resources.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=67)** These types of applications may not benefit from the variable cost structures of cloud services.
+> **[1:07](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=67)** These types of applications may not benefit from the variable cost structures of [[Cloud Services]].
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=74)** Keep in mind that if the workload is predictable and steady, these are often a better fit for on-premises hardware that could be more cost-effective in the long run.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=85)** Indeed, much of the applications that fall into this category end up being returned back to on-premises.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=92)** Considering that cloud infrastructure can lead to higher ongoing operational costs due to its pay-as-you-go pricing model.
+> **[1:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=92)** Considering that [[Cloud Infrastructure]] can lead to higher ongoing operational costs due to its pay-as-you-go pricing model.
 >
-> **[1:41](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=101)** Applications with low latency requirements, meaning certain applications, particularly those during time data processing or specialized manufacturing processing that require low latency performance.
+> **[1:41](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=101)** Applications with low latency requirements, meaning certain applications, particularly those during time [[Data Processing]] or specialized manufacturing processing that require low latency performance.
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/poor-candidates-for-migration?u=76281980&t=113)** The physical distance between cloud data centers and the end users is typically the cause for this latency.
 >
@@ -605,14 +595,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (7), [[Security]] (2), [[Hardware]] (2), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Cloud Services]] (1), [[Cloud Infrastructure]] (1), [[Data Processing]] (1)
 > **Env Vars:** hipaa (2), gdpr (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging workload categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980)
+#### [Leveraging workload categories](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=39)** This aids in tailoring the migration strategy to the specific needs and attributes of each application type.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=47)** Customer-facing applications, for instance, demand high availability and scalability.
+> **[0:47](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=47)** Customer-facing applications, for instance, demand high availability and [[Scalability]].
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=52)** However, development and testing environments can benefit from elastic resources that public clouds can provide.
 >
@@ -640,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=76)** You need to consider what's critical and noncritical.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=79)** Mission-critical applications are essential for business operations.
+> **[1:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=79)** Mission-critical applications are essential for [[Business Operations]].
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/leveraging-workload-categories?u=76281980&t=83)** Thus, they require the most careful planning to ensure they are kept running.
 >
@@ -668,13 +657,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), business (5), cloud (4), data (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Business Operations]] (2)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating migration priorities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980)
+#### [Creating migration priorities](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -682,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980&t=8)** Evaluate the business impact and criticality of each application that you're considering migrating to the cloud.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980&t=15)** This means identifying mission-critical applications that are essential for business operations, as we discussed in the last video.
+> **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980&t=15)** This means identifying mission-critical applications that are essential for [[Business Operations]], as we discussed in the last video.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-migration-priorities?u=76281980&t=22)** Thus, these applications require careful planning to ensure minimal disruption.
 >
@@ -710,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), cloud (3), business (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -721,14 +709,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Public clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980)
+#### [Public clouds](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=0)** - [Instructor] Leveraging a public cloud for migrating applications offers numerous benefits.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=5)** Spoiler alert, especially in the areas of scalability and elasticity, cost effectiveness, reduced time to market, and global reach.
+> **[0:05](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=5)** Spoiler alert, especially in the areas of [[Scalability]] and elasticity, cost effectiveness, reduced time to market, and global reach.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=14)** Let's look at the basics.
 >
@@ -744,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=51)** Public clouds operate on a pay-as-you-go model.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=54)** This has the potential to reduce cost associated with buying and maintaining physical hardware.
+> **[0:54](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=54)** This has the potential to reduce cost associated with buying and maintaining physical [[Hardware]].
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=59)** This means that businesses pay only for the resources they actually use and can allow them to avoid paying for hardware resources that they must host.
 >
@@ -756,7 +743,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=87)** What are the benefits?
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=89)** They enable businesses to bring products and features to market quickly, which can provide a great amount of business value.
+> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=89)** They enable businesses to bring [[Microsoft Products|products]] and features to market quickly, which can provide a great amount of business value.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=98)** Lastly, global reach is a key advantage of public clouds.
 >
@@ -766,20 +753,19 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=113)** As you may expect, this can improve performance and reduce latency for users that are closer to those regions.
 >
-> **[2:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=120)** Now let's look at the benefits of private clouds as target platforms for application migration.
+> **[2:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980&t=120)** Now let's look at the benefits of [[Private Clouds]] as target platforms for application migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Scalability]] (2), [[Hardware]] (2), hit (1), traffic (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Private Clouds]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980)
+#### [Private clouds](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=0)** - [Narrator] So, what about private clouds as a target platform for migration?
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=0)** - [Narrator] So, what about [[Private Clouds]] as a target platform for migration?
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=4)** Private clouds also have selling points that should be considered.
 >
@@ -787,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=10)** Complete Control.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=12)** Private clouds allow you to own the platforms, thus, you have total control over the platforms in terms of what hardware to run, where the hardware will run, what will run on the hardware, such as the types of private cloud software.
+> **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=12)** Private clouds allow you to own the platforms, thus, you have total control over the platforms in terms of what [[Hardware]] to run, where the hardware will run, what will run on the hardware, such as the types of private cloud software.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/private-clouds?u=76281980&t=26)** Also, control over physical security.
 >
@@ -819,13 +805,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Private Clouds]] (7), [[Hardware]] (5), cloud (3), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (7), [[Hardware]] (5)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980)
+#### [Multicloud](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,15 +820,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=15)** Unlike when you leverage just a single cloud provider, multicloud means you can leverage the services found in more than a single cloud provider.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=22)** Thus, you can use a database on AWS, an AI system on Microsoft, and a business analytics system that is found on Google Cloud Platform.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=22)** Thus, you can use a database on AWS, an AI system on [[Microsoft]], and a [[Business Analytics]] system that is found on [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=32)** This means that you're able to optimize your solution using only the best services for any number of providers.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=39)** Cost management is another advantage.
+> **[0:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=39)** [[Cost Management]] is another advantage.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=41)** Much like the benefits of leveraging multicloud when it comes to best-of-breed services, you can also leverage services that provide lower costs and higher value.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=50)** This means you can mix and match services to find the correct cost model for your migrated applications, much like you do when shopping around for products such as cars, food, and appliances.
+> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=50)** This means you can mix and match services to find the correct cost model for your migrated applications, much like you do when shopping around for [[Microsoft Products|products]] such as cars, food, and appliances.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/multicloud?u=76281980&t=62)** However, there are downsides.
 >
@@ -855,15 +840,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), database (1), aws (1), ai (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Business Analytics]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Cost Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** aws (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other cloud platform options
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/other-cloud-platform-options?u=76281980)
+#### [Other cloud platform options](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/other-cloud-platform-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +881,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), ai (4), data (2), application (2), next (1)
 > **Analogies:** such as (5)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -907,8 +890,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980)
+#### [AWS migration tools](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=62)** AWS Data Migration Services, or AWS DMS.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=66)** AWS Data Migration Service provides you with the ability to migrate databases to AWS.
+> **[1:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=66)** AWS Data Migration Service provides you with the ability to migrate [[Databases]] to AWS.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=72)** You're able to do this with minimal downtime.
 >
@@ -958,23 +940,22 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=145)** Also, while we've only covered four tools here, there are dozens to consider.
 >
-> **[2:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=150)** Now let's look at Microsoft migration tools.
+> **[2:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980&t=150)** Now let's look at [[Microsoft]] migration tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (18), data (7), cloud (4), application (4), database (3)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (18), dms (3)
 > **CLI Commands:** aws (18), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980)
+#### [Microsoft migration tools](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=0)** - [Instructor] Continuing our discussion of cloud tools for specific clouds, there are the top four Microsoft Azure migration tools.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=0)** - [Instructor] Continuing our discussion of cloud tools for specific clouds, there are the top four [[Microsoft Azure]] migration tools.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=8)** Again, these are commonly used for migration applications from on-premises systems to Azure Cloud.
+> **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=8)** Again, these are commonly used for migration applications from on-premises systems to [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=14)** Azure Migrate.
 >
@@ -988,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=45)** Azure Site Recovery, as the name implies, is used for disaster recovery.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=50)** However, it also facilitates seamless migration of on-premises physical servers and virtual machines to Azure public cloud.
+> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=50)** However, it also facilitates seamless migration of on-premises physical servers and [[Virtual Machines]] to Azure public cloud.
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=58)** This tool is able to replicate workloads running on physical and virtual machines and easily move them to Azure.
 >
@@ -996,25 +977,25 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=71)** Azure Database Migration Services, as with the AWS tool we covered in the last video, enables easy migration of various database types to Azure.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=80)** So what databases are supported?
+> **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=80)** So what [[Databases]] are supported?
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=83)** It supports the migration of SQL Server to Azure's SQL Database and heterogeneous databases such as Oracle to Azure SQL Database and database environments.
+> **[1:23](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=83)** It supports the migration of [[Microsoft SQL Server|SQL Server]] to Azure's [[SQL]] Database and heterogeneous databases such as Oracle to Azure SQL Database and database environments.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=96)** Azure App Service Migration Assistant.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=99)** The Azure App Service Migration Assistant is able to migrate web applications to Azure App Service.
 >
-> **[1:45](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=105)** This tool is able to assist in migrating to .NET and PHP web applications.
+> **[1:45](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=105)** This tool is able to assist in migrating to .NET and [[PHP]] web applications.
 >
 > **[1:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=111)** And it's able to carry this out with minimal or no code changes.
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=116)** These tools offer a comprehensive suite for managing different aspects of application migration and are able to provide smooth and efficient transition to the Azure Cloud.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=126)** Next, we'll talk about AI migration tools for cloud computing.
+> **[2:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/microsoft-migration-tools?u=76281980&t=126)** Next, we'll talk about AI migration tools for [[Cloud Computing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), database (6), cloud (5), [[Virtual Machines]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Virtual Machines]] (2), [[Databases]] (2), [[SQL]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** sql (3), asr (1), dms (1), aws (1), net (1)
 > **CLI Commands:** aws (1), php (1)
 > **Cross-References:** we covered (1), in the last (1)
@@ -1022,8 +1003,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI migration tools for cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980)
+#### [AI migration tools for cloud computing](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=14)** IBM Cloud Pak for Data uses AI to support the migration of data and applications to the IBM cloud.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=21)** This tool includes capabilities for data integration, data cleansing, and data transformation.
+> **[0:21](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=21)** This tool includes capabilities for [[Data Integration]], data cleansing, and [[Data Transformation]].
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=26)** It leverages AI to automate many aspects of the migration process.
 >
@@ -1047,21 +1027,21 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=50)** AI is also used to reduce manual task and provide minimal downtime.
 >
-> **[0:55](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=55)** Azure Migrate.
+> **[0:55](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=55)** [[Microsoft Azure|Azure]] Migrate.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=57)** Azure Migrate is an AI-powered tool that provides the migration of on-premises applications to Microsoft Azure.
+> **[0:57](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=57)** Azure Migrate is an AI-powered tool that provides the migration of on-premises applications to [[Microsoft Azure]].
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=64)** This tool includes processes for things like discovery, assessment, or processes to see what your existing as-is applications are doing.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=74)** Then, migration of the applications and data.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=78)** Google Cloud Migration Tools.
+> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=78)** [[Google Cloud Platform (GCP)|Google Cloud]] Migration Tools.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=80)** Google Cloud offers a range of AI-powered migration tools within its ecosystem.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=85)** One of these includes Migrate for Compute Engine and Migrate for Anthos.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=89)** These tools use machine learning to automate migration of applications, VMs, or virtual machines, and containers to the Google Cloud.
+> **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=89)** These tools use machine learning to automate migration of applications, VMs, or [[Virtual Machines]], and containers to the Google Cloud.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-migration-tools-for-cloud-computing?u=76281980&t=99)** These AI-powered migration tools streamline the processes of moving applications from on-premises systems to public clouds.
 >
@@ -1069,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (6), cloud (5), [[Google Cloud Platform (GCP)|Google cloud]] (3), aws (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Azure|Azure]] (2), [[Data Integration]] (1), [[Data Transformation]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** ibm (3), aws (2)
 > **CLI Commands:** aws (2)
 > **Cross-References:** we covered (1), previous video (1)
@@ -1081,8 +1061,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Workload triage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/workload-triage?u=76281980)
+#### [Workload triage](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/workload-triage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,12 +1101,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (3), business (2), data (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980)
+#### [Selecting tools](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1112,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=7)** Here are three basic steps that you should consider.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=10)** Assessment and requirements gathering, we should begin by assessing your current on-premises infrastructure.
+> **[0:10](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=10)** Assessment and [[Requirements Gathering]], we should begin by assessing your current on-premises infrastructure.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=17)** We do this to understand our migration needs.
 >
@@ -1149,15 +1126,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=41)** Evaluation and tool selection, with the requirements complete, we need to evaluate the available migration tools and services offered by cloud providers.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=51)** While AWS, Azure, Google Cloud are tool providers, there are third-party tools to consider as well.
+> **[0:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=51)** While AWS, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]] are tool providers, there are third-party tools to consider as well.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=58)** Consider factors like compatibility with your existing infrastructure, ease of use, cost, scalability, and support for the migration approach you plan to use.
+> **[0:58](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=58)** Consider factors like compatibility with your existing infrastructure, ease of use, cost, [[Scalability]], and support for the migration approach you plan to use.
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=68)** Look for the tools that offer comprehensive capabilities for each phase of migration.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=73)** Finally, make sure to also check for any added benefits.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=78)** These may include automated processes or AI enhanced features, also integration with other tools and cloud services, Proof of concept, or POC, and final selection, before committing to any tool, conduct a proof of concept or a POC to test its capabilities for suitability for your specific workloads and requirements.
+> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=78)** These may include automated processes or AI enhanced features, also integration with other tools and [[Cloud Services]], Proof of concept, or POC, and final selection, before committing to any tool, conduct a proof of concept or a POC to test its capabilities for suitability for your specific workloads and requirements.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/selecting-tools?u=76281980&t=99)** This is basically the show-me step where we're making sure that the tool works as advertised.
 >
@@ -1179,15 +1156,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (2), ai (2), [[Requirements Gathering]] (1), aws (1)
+> **Frameworks & Libraries:** [[Requirements Gathering]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Scalability]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Env Vars:** poc (3), aws (1)
 > **Analogies:** picture (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering AI with cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980)
+#### [Considering AI with cloud migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=16)** First, automation plays a critical role.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=18)** AI-powered tools like AWS Application Migration Service, Azure Migrate, and Google's Cloud's AI enabled tools can automate many tasks involved in the migration process.
+> **[0:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=18)** AI-powered tools like AWS Application Migration Service, [[Microsoft Azure|Azure]] Migrate, and [[Google]]'s Cloud's AI enabled tools can automate many tasks involved in the migration process.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=32)** You may recall that we covered these tools in the last section.
 >
@@ -1213,7 +1189,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=66)** They include Turbonomic, owned by IBM, and Platform9, which continuously analyzes cloud environments to optimize resource usage.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=78)** AI can analyze performance data and usage patterns to make real-time adjustments to resource allocations, ensuring efficient application performance throughout the migration.
+> **[1:18](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=78)** AI can analyze performance data and usage patterns to make [[Real-Time]] adjustments to resource allocations, ensuring efficient application performance throughout the migration.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=89)** While they're handy, you can't really automate everything.
 >
@@ -1233,37 +1209,36 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=139)** While they are not replacing humans just yet, they are handy to consider and to leverage.
 >
-> **[2:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=145)** Next, let's talk about DevOps and cloud migration.
+> **[2:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-ai-with-cloud-migration?u=76281980&t=145)** Next, let's talk about [[DevOps]] and cloud migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), cloud (7), application (3), data (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Google]] (1), [[Real-Time]] (1), [[DevOps]] (1)
 > **CLI Commands:** aws (2), make (1), find (1)
 > **Env Vars:** aws (2), ibm (2)
 > **Cross-References:** we covered (1), in the last (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [presenter] (1)
 
-#### Considering DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980)
+#### [Considering DevOps](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=0)** - [Instructor] Incorporating DevOps into your cloud migration strategy is crucial for ensuring a seamless transition and establishing an effective development process and toolchain.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=0)** - [Instructor] Incorporating [[DevOps]] into your cloud migration strategy is crucial for ensuring a seamless transition and establishing an effective development process and toolchain.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=10)** Here are three of the most important concepts to consider.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=13)** Integration and automation.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=15)** As part of your cloud migration, select cloud services and tools that integrate with your existing DevOps toolchain.
+> **[0:15](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=15)** As part of your cloud migration, select [[Cloud Services]] and tools that integrate with your existing DevOps toolchain.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=22)** This is done to enhance your automation capabilities.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=25)** This includes using cloud-native CI/CD tools, our continuous integration and continuous deployment tools, such as AWS CodePipeline, Azure DevOps, and Google Cloud Build to automate the build, test, and deployment process.
+> **[0:25](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=25)** This includes using cloud-native CI/CD tools, our [[Continuous Integration (CI)|continuous integration]] and continuous deployment tools, such as AWS CodePipeline, [[Microsoft Azure|Azure]] DevOps, and [[Google Cloud Platform (GCP)|Google Cloud]] Build to automate the build, test, and deployment process.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=40)** Additionally, employ infrastructure as code or IaC tools, like Terraform and AWS CloudFormation, to automate infrastructure provisioning and management.
+> **[0:40](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=40)** Additionally, employ [[Infrastructure as code (IaC)|infrastructure as code]] or IaC tools, like [[Terraform]] and AWS CloudFormation, to automate infrastructure provisioning and management.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=50)** Continuous monitoring.
+> **[0:50](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=50)** [[Continuous Monitoring]].
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=52)** Continuous monitoring tools and approaches are key principles of DevOps.
 >
@@ -1277,7 +1252,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=90)** This needs to occur throughout the cloud migration process.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=93)** Use collaboration platforms like Slack or Microsoft Teams to facilitate this interaction.
+> **[1:33](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=93)** Use collaboration platforms like [[Slack]] or [[Microsoft Teams]] to facilitate this interaction.
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/considering-devops?u=76281980&t=100)** Incorporating DevOps into your cloud migration strategy is a key step that cannot be skipped.
 >
@@ -1287,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[DevOps]] (7), aws (3), [[Automation]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Microsoft Azure|Azure]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Continuous Monitoring]] (2), [[Cloud Services]] (1)
 > **CLI Commands:** aws (3), cd (1), terraform (1)
 > **Env Vars:** aws (3)
 > **Tools:** slack (1)
@@ -1295,8 +1270,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a process
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980)
+#### [Creating a process](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980&t=12)** This includes creating an inventory for all applications, understanding their dependencies, and evaluating their readiness for cloud migration.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980&t=20)** Use tools like AWS Migration Hub, Azure Migrate, and Google's Cloud Migrate for Compute Engine for automated discovery and assessment.
+> **[0:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980&t=20)** Use tools like AWS Migration Hub, [[Microsoft Azure|Azure]] Migrate, and [[Google]]'s Cloud Migrate for Compute Engine for automated discovery and assessment.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/creating-a-process?u=76281980&t=30)** You may recall that we already discussed why we're doing this.
 >
@@ -1334,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), aws (3), [[Microsoft Azure|Azure]] (3), [[Google]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Google]] (3)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Cross-References:** in the next (1)
@@ -1345,8 +1319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting up to 100 applications a day
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980)
+#### [Getting up to 100 applications a day](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1360,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980&t=11)** In order to do migration at scale, you need to think in terms of batches, and making sure you're dealing with the applications holistically, not just one at a time.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980&t=22)** This means that someone will be responsible for doing the planning needed to make sure we're leveraging the tooling, code refactoring, and testing as a group of applications to get many applications migrated in a short period of time, and doing so with fewer resources then if we migrated the applications one by one.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980&t=22)** This means that someone will be responsible for doing the planning needed to make sure we're leveraging the tooling, [[Code Refactoring]], and testing as a group of applications to get many applications migrated in a short period of time, and doing so with fewer resources then if we migrated the applications one by one.
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980&t=42)** tools can be used for this, at least when they're deemed useful, such as code mediation, testing, and deployment tools that can move applications from on-premise systems to the cloud with one swipe of the mouse, making sure the code will function on the target platforms and that security and governance is prioritized as well.
 >
@@ -1372,14 +1345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), application (1), [[Code Refactoring]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Code Refactoring]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organization and skill considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980)
+#### [Organization and skill considerations](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,7 +1369,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980&t=32)** Then you figure out the skills you'll need to pull off a migration of applications to the cloud.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980&t=38)** For example, you may need AWS DynamoDB skills, serverless computing skills, Google AI skills, AWS infrastructure engineering skills, and about two dozen other skills that you'll likely need, as well.
+> **[0:38](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980&t=38)** For example, you may need AWS DynamoDB skills, [[Serverless Computing]] skills, [[Google]] AI skills, AWS infrastructure engineering skills, and about two dozen other skills that you'll likely need, as well.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/organization-and-skill-considerations?u=76281980&t=51)** This should be your to-be skills assessment, skills you certainly need to be successful.
 >
@@ -1413,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), aws (2), [[Serverless Computing]] (1), [[Google]] (1), ai (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (1), [[Google]] (1)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (2)
@@ -1421,12 +1393,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/security-considerations?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/security-considerations?u=76281980&t=0)** - [Instructor] This is a cloud migration course and not a cloud security course, so we're not going to do a deep dive here.
+> **[0:00](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/security-considerations?u=76281980&t=0)** - [Instructor] This is a cloud migration course and not a [[Cloud Security]] course, so we're not going to do a deep dive here.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/security-considerations?u=76281980&t=6)** If you're interested, there are many cloud security courses that you can take here, and I urge you to do so.
 >
@@ -1462,13 +1433,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), cloud (5), application (3), next (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980)
+#### [Governance considerations](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1448,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=20)** There's a lot to governance.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=22)** Also, like security, we have a separate course that does a deep dive into what governance is and how it applies to cloud computing.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=22)** Also, like security, we have a separate course that does a deep dive into what governance is and how it applies to [[Cloud Computing]].
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=29)** For now, we can just consider a few basic concepts.
 >
@@ -1492,18 +1462,17 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=49)** Don't apply a different governance solution for each application and dataset that will drive pharma complexity and cost than you want to deal with.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=59)** Next, let's look at AI including generative AI.
+> **[0:59](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/governance-considerations?u=76281980&t=59)** Next, let's look at AI including [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2), cloud (2), api (1), teams (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI and generative AI considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980)
+#### [AI and generative AI considerations](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1484,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980&t=16)** AI applications come with some dependencies.
 >
-> **[0:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980&t=19)** Many applications leverage central AI systems such as machine learning systems or generative AI LLM systems such as ChatGPT.
+> **[0:19](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980&t=19)** Many applications leverage central AI systems such as machine learning systems or [[Generative AI]] LLM systems such as [[ChatGPT]].
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/ai-generative-ai-considerations?u=76281980&t=28)** Thus, you need to consider how your migrated application will be able to continue to access those resources and ensure they can do so reliably.
 >
@@ -1541,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), application (2), [[Generative AI]] (2), [[ChatGPT]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[ChatGPT]] (2)
 > **Analogies:** such as (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
@@ -1551,8 +1520,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980)
+#### [Learning more about cloud migration](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,9 +1528,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=2)** There were a few things we suggest.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=4)** First, take additional courses on cloud computing here.
+> **[0:04](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=4)** First, take additional courses on [[Cloud Computing]] here.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=8)** There are courses by me and other instructors that discuss cloud security, cloud operations, serverless computing, cloud architecture, and other topics that will provide you foundational information that you can use in your career.
+> **[0:08](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=8)** There are courses by me and other instructors that discuss [[Cloud Security]], cloud operations, [[Serverless Computing]], cloud architecture, and other topics that will provide you foundational information that you can use in your career.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980&t=21)** Second, perhaps start tuning in to YouTube channels, podcasts, and blogs that cover the evolution of cloud computing.
 >
@@ -1578,7 +1546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (1), [[Serverless Computing]] (1), career (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Security]] (1), [[Serverless Computing]] (1)
 > **Speakers:** - [instructor] (1)
 
 

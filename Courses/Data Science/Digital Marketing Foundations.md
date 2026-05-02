@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting with customers online
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980)
+#### [Connecting with customers online](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980&t=12)** So it's no surprise that this makes it hard to know where to start.
 >
-> **[0:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980&t=16)** What actually works, how to spend your time and what you need to be doing to build the framework of a great marketing strategy.
+> **[0:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980&t=16)** What actually works, how to spend your time and what you need to be doing to build the framework of a great [[Marketing Strategy]].
 >
 > **[0:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980&t=23)** But together we'll fix that.
 >
@@ -128,14 +127,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - digital (1)
 
-#### What is digital marketing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/what-is-digital-marketing?u=76281980)
+#### [What is digital marketing?](https://www.linkedin.com/learning/digital-marketing-foundations-2022/what-is-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +179,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), [[Search]] (1), web (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
@@ -191,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The building blocks of digital marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-building-blocks-of-digital-marketing?u=76281980)
+#### [The building blocks of digital marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-building-blocks-of-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,8 +237,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### The marketing funnel
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980)
+#### [The marketing funnel](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980&t=102)** Now, below Awareness, we have Interest.
 >
-> **[1:45](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980&t=105)** It's at this stage that a consumer will begin to explore the products or services available to them in more detail.
+> **[1:45](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980&t=105)** It's at this stage that a consumer will begin to explore the [[Microsoft Products|products]] or services available to them in more detail.
 >
 > **[1:52](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-marketing-funnel?u=76281980&t=112)** Now, I'm wanting to know what feature that your mattress has compared to your competitor.
 >
@@ -336,13 +331,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), [[Microsoft Products|Products]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
-#### The buyer journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980)
+#### [The buyer journey](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=33)** And if they found it on a shelf, what jumped out, the price, the label?
 >
-> **[0:37](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=37)** Did they look at other products on the shelf next to it?
+> **[0:37](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=37)** Did they look at other [[Microsoft Products|products]] on the shelf next to it?
 >
 > **[0:40](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=40)** Did they search the brand on their phone?
 >
@@ -386,11 +380,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=80)** At each step, buyers are going to define their own path.
 >
-> **[1:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=84)** So as you develop a digital marketing strategy, you'll need an idea of how a buyer will navigate your funnel.
+> **[1:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=84)** So as you develop a digital [[Marketing Strategy]], you'll need an idea of how a buyer will navigate your funnel.
 >
 > **[1:30](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=90)** And this can feel like a rather robust undertaking.
 >
-> **[1:34](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=94)** So I want you to treat this in an agile manner, be ready to iterate on your buyer's journey.
+> **[1:34](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=94)** So I want you to treat this in an [[Agile Development|agile]] manner, be ready to iterate on your buyer's journey.
 >
 > **[1:39](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-buyer-journey?u=76281980&t=99)** You can't conceivably map out every step, every touchpoint and every interaction.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), [[Microsoft Products|Products]] (1), [[Search]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Marketing Strategy]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1), coming up (1)
 > **Analogies:** picture (1), imagine (1)
@@ -426,8 +420,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### Create a buyer journey map
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980)
+#### [Create a buyer journey map](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=31)** Now there's no set form for this, but you can create a very simple template to get you started.
 >
-> **[0:37](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=37)** Here's how I do it: I'll make a quick spreadsheet of sorts and you can do this in Excel or Google Sheets or whatever tool lets you evolve it and add to it as you go.
+> **[0:37](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=37)** Here's how I do it: I'll make a quick spreadsheet of sorts and you can do this in [[Microsoft Excel|Excel]] or [[Google]] Sheets or whatever tool lets you evolve it and add to it as you go.
 >
 > **[0:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=47)** Along the top as column headers, I list out the funnel stages: awareness, interest, desire, action, and loyalty.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=198)** Objectives: Make the customer aware of the business, most notably, how to book an appointment and how well reviewed our business is.
 >
-> **[3:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=208)** With this first piece of the journey built, I can move through the columns, and once I'm done, I'll have a good picture of all the marketing activities I need to complete to have a full, funnel marketing strategy.
+> **[3:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=208)** With this first piece of the journey built, I can move through the columns, and once I'm done, I'll have a good picture of all the marketing activities I need to complete to have a full, funnel [[Marketing Strategy]].
 >
 > **[3:38](https://www.linkedin.com/learning/digital-marketing-foundations-2022/create-a-buyer-journey-map?u=76281980&t=218)** It also helps me think through what information is most important or might even be missing from my strategy.
 >
@@ -529,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), business (3), next (2), [[Microsoft Excel|Excel]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Excel|Excel]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), such as (1), picture (1)
 > **Exercise Files:** template (1)
@@ -541,12 +534,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to develop a marketing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980)
+#### [How to develop a marketing strategy](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980&t=0)** - Developing a marketing strategy can feel overwhelming.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980&t=0)** - Developing a [[Marketing Strategy]] can feel overwhelming.
 >
 > **[0:03](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980&t=3)** But when you break it down, I trust that you'll come to recognize just how really straightforward it is.
 >
@@ -600,14 +592,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Strategy]] (3), next (1), product (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - developing (1)
 
-#### How to define your value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-define-your-value-proposition?u=76281980)
+#### [How to define your value proposition](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-define-your-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,13 +652,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5)
 > **Analogies:** such as (1), imagine (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - at (1)
 
-#### How to identify your target market
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980)
+#### [How to identify your target market](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,20 +702,19 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980&t=146)** This way you can tailor the journey to the shared attributes within one audience.
 >
-> **[2:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980&t=152)** So as you develop your marketing strategy, take your broad target audience and break it down into at least three segments.
+> **[2:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980&t=152)** So as you develop your [[Marketing Strategy]], take your broad target audience and break it down into at least three segments.
 >
 > **[2:39](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-your-target-market?u=76281980&t=159)** You can add more segments as you advance in your strategy but if you really want to succeed, you must identify some specific consumer segments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
-#### How to create your customer persona
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980)
+#### [How to create your customer persona](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980&t=86)** She also wants to get outdoors more.
 >
-> **[1:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980&t=88)** Now she faces some obstacles, a lack of time, which often makes it harder to find eco-friendly products, a general distrust of big-box retailers to source responsibly, and anxiety around what products are safe for her child.
+> **[1:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980&t=88)** Now she faces some obstacles, a lack of time, which often makes it harder to find eco-friendly [[Microsoft Products|products]], a general distrust of big-box retailers to source responsibly, and anxiety around what products are safe for her child.
 >
 > **[1:43](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-customer-persona?u=76281980&t=103)** She's motivated by advice from moms in her peer group, validation from certification organizations, easy and quick shopping experiences, and companies that align with her values.
 >
@@ -782,14 +770,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** imagine (2), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - marketing (1)
 
-#### How to establish goals for digital marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980)
+#### [How to establish goals for digital marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980&t=28)** This means that for a goal to be effective it must be specific, measurable, attainable, relevant and time bound.
 >
-> **[0:38](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980&t=38)** Now the approach that I use to map out goals, which is also in use at companies like Google and LinkedIn is to use a format called objectives and key results.
+> **[0:38](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980&t=38)** Now the approach that I use to map out goals, which is also in use at companies like [[Google]] and [[LinkedIn]] is to use a format called objectives and key results.
 >
 > **[0:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-establish-goals-for-digital-marketing?u=76281980&t=47)** And you'll hear these referred to as OKRs.
 >
@@ -845,13 +832,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), traffic (1), [[Google]] (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[LinkedIn]] (1)
 > **Env Vars:** smart (2), okr (1)
 > **Definitions:** means that (1)
 > **Speakers:** - you (1)
 
-#### How to develop your digital marketing KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980)
+#### [How to develop your digital marketing KPIs](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +885,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980&t=142)** Now, I track business and marketing objectives and KPIs in a shareable document.
 >
-> **[2:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980&t=146)** And this could be a Google spreadsheet, a confluence page, or even a pinned note on Slack.
+> **[2:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980&t=146)** And this could be a [[Google]] spreadsheet, a [[Confluence]] page, or even a pinned note on [[Slack]].
 >
 > **[2:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-your-digital-marketing-kpis?u=76281980&t=151)** Take your time and pick the metrics that are relevant to you.
 >
@@ -907,21 +893,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), traffic (1), [[Google]] (1), [[Confluence]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Confluence]] (1), [[Slack]] (1)
 > **Env Vars:** kpi (4), cpa (1)
 > **Analogies:** for example (2), such as (1)
 > **Tools:** confluence (1), slack (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - as (1)
 
-#### How to draft a one page marketing plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980)
+#### [How to draft a one page marketing plan](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=0)** - As your marketing strategy shapes up, you'll need a place to park all the information you're capturing.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=0)** - As your [[Marketing Strategy]] shapes up, you'll need a place to park all the information you're capturing.
 >
-> **[0:05](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=5)** It needs to be agile, easy to update, and very simple to distribute.
+> **[0:05](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=5)** It needs to be [[Agile Development|agile]], easy to update, and very simple to distribute.
 >
 > **[0:10](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=10)** Now, I use a very simple, one-page template to help with this exercise.
 >
@@ -977,13 +962,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=140)** Now, there's a ton of resources online with editable templates if you need one.
 >
-> **[2:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=144)** Just run a Google search for lean canvas templates, but I want you to build one at least once.
+> **[2:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=144)** Just run a [[Google]] search for lean canvas templates, but I want you to build one at least once.
 >
 > **[2:30](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-draft-a-one-page-marketing-plan?u=76281980&t=150)** It is a fantastic exercise that can help bring some clarity to the chaos that is marketing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (3), next (2), [[Marketing Strategy]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Agile Development|Agile]] (1), [[Google]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -995,8 +980,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital marketing: Persuading with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980)
+#### [Digital marketing: Persuading with data](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=27)** Maybe you're drinking coffee right now out of a mug that's just fine.
 >
-> **[0:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=32)** But if I knew that you had just completed a Google search for best coffee mugs to buy, or that you recently subscribed to a freshly roasted coffee subscription, well I'd have a hunch that you might be a lot more interested.
+> **[0:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=32)** But if I knew that you had just completed a [[Google]] search for best coffee mugs to buy, or that you recently subscribed to a freshly roasted coffee subscription, well I'd have a hunch that you might be a lot more interested.
 >
 > **[0:44](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=44)** And then I can build marketing campaigns around that knowledge.
 >
@@ -1060,17 +1044,16 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=141)** Or maybe I've learned more about why consumers are using my product and I'll have a new messaging angle.
 >
-> **[2:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=146)** As you can see, when you start with the question, what information would help me be more persuasive, well you'll quickly be unlocking the building blocks for a great marketing strategy.
+> **[2:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980&t=146)** As you can see, when you start with the question, what information would help me be more persuasive, well you'll quickly be unlocking the building blocks for a great [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Google]] (1), [[Search]] (1), data (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Marketing Strategy]] (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### How analytics work in digital marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980)
+#### [How analytics work in digital marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,15 +1065,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=23)** Now just about every digital platform you interact with has analytics capabilities built in, so explore them.
 >
-> **[0:30](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=30)** And if you haven't already, I encourage you to get started with Google Analytics.
+> **[0:30](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=30)** And if you haven't already, I encourage you to get started with [[Google]] Analytics.
 >
 > **[0:34](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=34)** Out of the box, you can bolt Google Analytics onto your website and get incredible insights into who your customers are, what they're looking for and where they might be falling out of your funnel.
 >
 > **[0:45](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=45)** Now there's an endless amount of data that you can interact with and there's a ton of great courses right here that you can explore to help you develop those skills.
 >
-> **[0:54](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=54)** Now, the theme in digital marketing is really to let the data do the talking and I find interpreting your data becomes easier and more meaningful if you understand the pieces that make data collection possible.
+> **[0:54](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=54)** Now, the theme in digital marketing is really to let the data do the talking and I find interpreting your data becomes easier and more meaningful if you understand the pieces that make [[Data Collection]] possible.
 >
-> **[1:06](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=66)** Now every action that you take on the web is tracked one way or another, even in this era of increasing privacy there are still plenty of data being captured.
+> **[1:06](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=66)** Now every action that you take on the web is tracked one way or another, even in this era of increasing [[Privacy]] there are still plenty of data being captured.
 >
 > **[1:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-analytics-work-in-digital-marketing?u=76281980&t=76)** The pages you view, the files you download and even demographic and interest data can be recorded.
 >
@@ -1128,14 +1111,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), web (5), [[Analytics]] (3), [[Google]] (3), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Data Collection]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### How to capture key insights in your digital marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980)
+#### [How to capture key insights in your digital marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1159,7 +1141,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=39)** And how long they've stayed?
 >
-> **[0:41](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=41)** Google Analytics is a great resource for tracking your web data, and it has incredible features that lets you follow a user even if they're switching between their desktop and mobile devices.
+> **[0:41](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=41)** [[Google]] Analytics is a great resource for tracking your web data, and it has incredible features that lets you follow a user even if they're switching between their desktop and mobile devices.
 >
 > **[0:53](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=53)** Now your paid advertisements are typically tied to a reporting platform provided by the tool that you're using to run those ads.
 >
@@ -1177,11 +1159,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=102)** Mentions and interactions on tweets, and video views on YouTube.
 >
-> **[1:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=107)** Now you may have many dashboards that you collect this data in, and you'll want to look at it alongside all of your other marketing metrics.
+> **[1:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=107)** Now you may have many [[Dashboards]] that you collect this data in, and you'll want to look at it alongside all of your other marketing metrics.
 >
 > **[1:55](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=115)** The best way to measure results with earned media is to have your own goals, and objectives that you can measure against.
 >
-> **[2:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=120)** So if for example, you decide that 10,000 LinkedIn followers would increase your revenue potential by $50,000.
+> **[2:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=120)** So if for example, you decide that 10,000 [[LinkedIn]] followers would increase your revenue potential by $50,000.
 >
 > **[2:07](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-capture-key-insights-in-your-digital-marketing?u=76281980&t=127)** Well then you can track how you're trending towards that goal and the effort, and money that you're investing.
 >
@@ -1191,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Google]] (1), [[Analytics]] (1), web (1), product (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1203,12 +1185,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to outline your online marketing presence
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980)
+#### [How to outline your online marketing presence](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980&t=0)** - Content sits at the core of your digital marketing strategy.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980&t=0)** - Content sits at the core of your digital [[Marketing Strategy]].
 >
 > **[0:04](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980&t=4)** Your entire online presence is built around your website, maps listings, mentions on blogs, in social media channels, through ads and emails, and well, that's all content.
 >
@@ -1258,14 +1239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Strategy]] (3), product (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - content (1)
 
-#### How to decide on a marketing channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-marketing-channel?u=76281980)
+#### [How to decide on a marketing channel](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-marketing-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,15 +1289,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** you'll need (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### How to prioritize in marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-prioritize-in-marketing?u=76281980)
+#### [How to prioritize in marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-prioritize-in-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,15 +1355,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), next (1), data (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Env Vars:** ice (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - face (1)
 
-#### How to create powerful marketing messaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980)
+#### [How to create powerful marketing messaging](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1369,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=7)** Your messaging is present at every stage of the funnel, from the first visit to your website, to their decision to purchase.
 >
-> **[0:13](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=13)** Even the best products or services will fail if your messaging doesn't connect with your audience.
+> **[0:13](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=13)** Even the best [[Microsoft Products|products]] or services will fail if your messaging doesn't connect with your audience.
 >
 > **[0:19](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=19)** It's really hard to change an opinion once it's been formed.
 >
@@ -1423,7 +1399,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=91)** One, tell a good, convincing story.
 >
-> **[1:34](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=94)** Storytelling captures people attention and motivates them to take action, and to be convincing, well, you'll need to make sure that your product or brand comes across as trustworthy, confident, empathetic, and composed.
+> **[1:34](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=94)** [[Storytelling]] captures people attention and motivates them to take action, and to be convincing, well, you'll need to make sure that your product or brand comes across as trustworthy, confident, empathetic, and composed.
 >
 > **[1:48](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-powerful-marketing-messaging?u=76281980&t=108)** Two, appeal to emotion.
 >
@@ -1451,20 +1427,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), business (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - your (1)
 
-#### How to create lean messaging in marketing copy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980)
+#### [How to create lean messaging in marketing copy](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=0)** - If you want your messaging to be really effective and resonate with your audience, well, your marketing copy should be accessible and lean.
 >
-> **[0:08](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=8)** If I were to visit your website or receive your newsletter or even see your latest LinkedIn post, I shouldn't be drowning in big words.
+> **[0:08](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=8)** If I were to visit your website or receive your newsletter or even see your latest [[LinkedIn]] post, I shouldn't be drowning in big words.
 >
 > **[0:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=16)** Complex and verbose messages don't make you or your brand sounds smart.
 >
@@ -1492,7 +1467,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=75)** And this is why as you craft marketing messages, you need to ask yourself what messaging assumptions have been made.
 >
-> **[1:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=83)** For example, many people still assume that eco-friendly cleaning products are not as effective as they're synthetic competitors.
+> **[1:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=83)** For example, many people still assume that eco-friendly cleaning [[Microsoft Products|products]] are not as effective as they're synthetic competitors.
 >
 > **[1:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-lean-messaging-in-marketing-copy?u=76281980&t=91)** And while this is likely an incorrect theory, it's actually a widely held belief.
 >
@@ -1506,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - if (1)
@@ -1516,12 +1491,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to optimize your website
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980)
+#### [How to optimize your website](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980&t=0)** - Your website is an important piece of your digital marketing strategy and one of the most valuable assets of digital real estate that you own.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980&t=0)** - Your website is an important piece of your digital [[Marketing Strategy]] and one of the most valuable assets of digital real estate that you own.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980&t=8)** Online consumers are fickle and that's because digital interactions are commonplace.
 >
@@ -1595,14 +1569,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Strategy]] (2), functional (1), next (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - your (1)
 
-#### How to use copywriting in your marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980)
+#### [How to use copywriting in your marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1603,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980&t=70)** Now, if you'd like more of these examples, you can find them on Tom's website, [abccopywriting.com](https://abccopywriting.com).
 >
-> **[1:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980&t=76)** Now, as you approach your project, I want you to start by getting rid of any long introductions and word-heavy descriptions.
+> **[1:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980&t=76)** Now, as you approach your project, I want you to start by getting rid of any long introductions and [[Microsoft Word|word]]-heavy descriptions.
 >
 > **[1:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-use-copywriting-in-your-marketing?u=76281980&t=83)** Stick to clear, concise, and punctual copy.
 >
@@ -1668,14 +1641,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Microsoft Word|Word]] (1), feature (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [abccopywriting.com](https://abccopywriting.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
 
-#### How to build landing pages that convert
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-landing-pages-that-convert?u=76281980)
+#### [How to build landing pages that convert](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-landing-pages-that-convert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1715,7 +1687,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), traffic (1), next (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **URLs:** [land-book.com](https://land-book.com) (1)
@@ -1726,8 +1697,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to paid advertising
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980)
+#### [Introduction to paid advertising](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1723,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=47)** Now you can also pay per action or acquisition, which is a model that essentially guarantees a conversion takes place for an agreed upon price.
 >
-> **[0:56](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=56)** And in social media marketing, you can also encounter pay per engagement, which gives you the opportunity to pay for a like, a share, and even comments.
+> **[0:56](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=56)** And in [[Social Media Marketing]], you can also encounter pay per engagement, which gives you the opportunity to pay for a like, a share, and even comments.
 >
 > **[1:06](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=66)** And also within mobile app marketing, you can even pay per install.
 >
@@ -1763,7 +1733,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=80)** One such model is search advertising, and this is primarily bid on a cost per click, or a cost per action model.
 >
-> **[1:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=88)** Search engines, such as Google, allow advertisers the opportunity to place text ads alongside organic search results.
+> **[1:28](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=88)** Search engines, such as [[Google]], allow advertisers the opportunity to place text ads alongside organic search results.
 >
 > **[1:36](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=96)** And Google Ads is the single most popular advertising platform.
 >
@@ -1795,19 +1765,18 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=196)** Now, social media ads boast some of the lowest costs, and can amplify your organic following tremendously.
 >
-> **[3:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=203)** Paid advertising is an important component of any marketing strategy, so you'll want to explore how it fits into your marketing goals.
+> **[3:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980&t=203)** Paid advertising is an important component of any [[Marketing Strategy]], so you'll want to explore how it fits into your marketing goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Social Media Marketing]] (3), [[Google]] (2), web (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[Google]] (2), [[Marketing Strategy]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** cpm (1)
 > **Speakers:** - we (1)
 
-#### How to identify the value of a customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980)
+#### [How to identify the value of a customer](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1815,7 +1784,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=7)** Your business has customers but they're all not created equally.
 >
-> **[0:11](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=11)** Some customers might purchase one product and leave while others become loyal to your brand and purchase many products over the course of a year or two or even more.
+> **[0:11](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=11)** Some customers might purchase one product and leave while others become loyal to your brand and purchase many [[Microsoft Products|products]] over the course of a year or two or even more.
 >
 > **[0:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=21)** So, which customer is more valuable to you then?
 >
@@ -1837,7 +1806,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=70)** Let's say we're selling dog toys online.
 >
-> **[1:12](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=72)** So, we pull up our e-commerce data and we see that most of our customers have made two transactions over the last several years.
+> **[1:12](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=72)** So, we pull up our [[E-Commerce]] data and we see that most of our customers have made two transactions over the last several years.
 >
 > **[1:19](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=79)** So we can say our average annual purchases by customer is two.
 >
@@ -1863,7 +1832,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=141)** And with this, well now we can start leveraging that data.
 >
-> **[2:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=144)** We can work to try and increase that value, email marketing sales, special offers, and so on can really help move that needle.
+> **[2:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=144)** We can work to try and increase that value, [[Email Marketing]] sales, special offers, and so on can really help move that needle.
 >
 > **[2:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-identify-the-value-of-a-customer?u=76281980&t=152)** We can also try to increase the average transaction value by upselling or even recommending other products.
 >
@@ -1881,14 +1850,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Microsoft Products|Products]] (2), product (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[E-Commerce]] (1), [[Email Marketing]] (1)
 > **Env Vars:** clv (2), ltv (1)
 > **Definitions:** we call this (1), means that (1), is an  (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - in (1)
 
-#### How to budget for paid marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980)
+#### [How to budget for paid marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1938,18 +1906,17 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980&t=131)** When it comes to determining your overall budget, well, you'll have to evaluate how much you're comfortable spending and how many sales you need to achieve your goals.
 >
-> **[2:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980&t=140)** To give you some perspective, the average cost per acquisition with Google Search is $60, and a typical small business will spend between 4 and $9,000 per month in paid advertising.
+> **[2:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980&t=140)** To give you some perspective, the average cost per acquisition with [[Google]] Search is $60, and a typical small business will spend between 4 and $9,000 per month in paid advertising.
 >
 > **[2:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-budget-for-paid-marketing?u=76281980&t=151)** So don't be afraid to find a starting place, test your campaigns, and adjust your model as you scale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (3), [[Google]] (1), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - budgeting (1)
 
-#### How to create your first paid campaign
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-first-paid-campaign?u=76281980)
+#### [How to create your first paid campaign](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-first-paid-campaign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,11 +1972,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-first-paid-campaign?u=76281980&t=139)** So if you're not seeing the results you're hoping for, well, keep trying new approaches and to really further your education on this topic.
 >
-> **[2:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-first-paid-campaign?u=76281980&t=145)** I encourage you to explore the course Google Ads Essential Training.
+> **[2:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-create-your-first-paid-campaign?u=76281980&t=145)** I encourage you to explore the course [[Google]] Ads Essential Training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), generic (1), product (1), traffic (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -2020,12 +1987,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Social media marketing: First steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980)
+#### [Social media marketing: First steps](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=0)** - At its core, social media marketing has the ability to bring a new kind of exposure and interaction to your business.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=0)** - At its core, [[Social Media Marketing]] has the ability to bring a new kind of exposure and interaction to your business.
 >
 > **[0:06](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=6)** For starters, social media marketing creates the opportunity to hear from your customers.
 >
@@ -2033,7 +1999,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=20)** Now, whether you sell directly to consumers or business to business, social media has tremendous potential.
 >
-> **[0:27](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=27)** Most notably, is access to real-time conversations.
+> **[0:27](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=27)** Most notably, is access to [[Real-Time]] conversations.
 >
 > **[0:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=31)** You as a brand can participate in discussions that are relevant to your industry.
 >
@@ -2041,7 +2007,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=40)** Social media also gives you an outlet to establish credibility.
 >
-> **[0:44](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=44)** Today's savvy consumers are spending more time researching brands and products before spending any money.
+> **[0:44](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=44)** Today's savvy consumers are spending more time researching brands and [[Microsoft Products|products]] before spending any money.
 >
 > **[0:50](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=50)** With an active social media presence, well, you'll allow customers to indirectly advocate for you.
 >
@@ -2055,7 +2021,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=84)** This amplification is incredibly valuable.
 >
-> **[1:27](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=87)** It's this community that will ignite your word of mouth marketing and help you reach untapped territory.
+> **[1:27](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=87)** It's this community that will ignite your [[Microsoft Word|word]] of mouth marketing and help you reach untapped territory.
 >
 > **[1:33](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980&t=93)** Friends often look to friends for recommendations and social media allows you to activate those opportunities and expose your brand to a new audience.
 >
@@ -2073,13 +2039,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Social Media Marketing]] (3), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - at (1)
 
-#### How to decide on a social media platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980)
+#### [How to decide on a social media platform](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,11 +2066,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=43)** And you'll find that the most popular or biggest platforms touch on all of these aspects, so they're in the center of this diagram.
 >
-> **[0:51](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=51)** Now, different products not only serve a different purpose, but they appeal more or less to different age groups.
+> **[0:51](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=51)** Now, different [[Microsoft Products|products]] not only serve a different purpose, but they appeal more or less to different age groups.
 >
 > **[0:57](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=57)** YouTube and Facebook are used by people of almost any age group, but Snapchat, for example, sees little usage from older age groups.
 >
-> **[1:05](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=65)** LinkedIn sees slightly more adoption among the 30 to 49 year olds, primarily due to its specific focus on professional networking.
+> **[1:05](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=65)** [[LinkedIn]] sees slightly more adoption among the 30 to 49 year olds, primarily due to its specific focus on [[Professional Networking]].
 >
 > **[1:13](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=73)** Not only do you have to evaluate the reach of a particular network, but you also have to consider the volatile nature of social media.
 >
@@ -2117,7 +2082,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=85)** Some, such as TikTok, start with a niche focus and in a short window of time become prolific.
 >
-> **[1:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=91)** It's good to keep this all in mind as you start planning your digital marketing strategy.
+> **[1:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=91)** It's good to keep this all in mind as you start planning your digital [[Marketing Strategy]].
 >
 > **[1:36](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=96)** Joining an early network is higher risk but also higher reward.
 >
@@ -2127,14 +2092,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Professional Networking]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Professional Networking]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - it (1)
 
-#### How to build and leverage followers
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980)
+#### [How to build and leverage followers](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2146,7 +2110,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980&t=13)** Once you've set up your social media accounts, then invite colleagues, coworkers, friends, and those in your extended network to start following your brand.
 >
-> **[0:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980&t=21)** Next, make sure to include your social media links in all of your own media, start with your website and your blog, but you can also include links in your emails or newsletters.
+> **[0:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980&t=21)** Next, make sure to include your social media links in all of your own media, start with your website and your blog, but you can also include links in your emails or [[Newsletters]].
 >
 > **[0:32](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-build-and-leverage-followers?u=76281980&t=32)** Then, focus on posting valuable content.
 >
@@ -2204,7 +2168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Newsletters]] (1), business (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** imagine (1), picture (1)
 > **Best Practices:** make sure to (1)
@@ -2216,12 +2180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of email marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980)
+#### [The power of email marketing](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=0)** - To many, email marketing feels old and antiquated, but this is far from the truth.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=0)** - To many, [[Email Marketing]] feels old and antiquated, but this is far from the truth.
 >
 > **[0:06](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=6)** Now, the days of buying email lists are long gone, but emailing those who have opted into your list is still a prime strategy.
 >
@@ -2231,7 +2194,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=25)** Now, on one hand, your email marketing efforts will be about acquiring new subscribers to your list and on the other, retaining and generating revenue from those subscribers.
 >
-> **[0:36](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=36)** With email marketing, you can inform existing customers of new products, upsell them to more premium packages, or even encourage them to share your business with their peers.
+> **[0:36](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=36)** With email marketing, you can inform existing customers of new [[Microsoft Products|products]], upsell them to more premium packages, or even encourage them to share your business with their peers.
 >
 > **[0:47](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980&t=47)** Email marketing is very strategic.
 >
@@ -2287,7 +2250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (8), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (8), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (1), for example (1), such as (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** shipfree (1)
@@ -2295,8 +2258,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### How to develop an email marketing plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980)
+#### [How to develop an email marketing plan](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2306,7 +2268,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=13)** Now, beyond capturing emails through transactions or signups, common techniques are to run campaigns specifically targeted at capturing email addresses.
 >
-> **[0:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=23)** You can build lead generation landing pages, or leverage your website to post an enticing message that prompts the user to share their email.
+> **[0:23](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=23)** You can build [[Lead Generation]] landing pages, or leverage your website to post an enticing message that prompts the user to share their email.
 >
 > **[0:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=31)** Once you understand how you'll capture the audience, think about the actual email strategy itself.
 >
@@ -2360,21 +2322,20 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=164)** Now there's no magical answer, but you'll have to use your data to help guide you in that decision.
 >
-> **[2:50](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=170)** Email marketing plans evolve in scale as your audience grows, so it's normal to continuously try new ideas and even new content types.
+> **[2:50](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-an-email-marketing-plan?u=76281980&t=170)** [[Email Marketing]] plans evolve in scale as your audience grows, so it's normal to continuously try new ideas and even new content types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Lead Generation]] (1), traffic (1), data (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (1), [[Email Marketing]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - to (1)
 
-#### How to measure the success of email
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-measure-the-success-of-email?u=76281980)
+#### [How to measure the success of email](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-measure-the-success-of-email?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-measure-the-success-of-email?u=76281980&t=0)** - As you develop your email marketing strategy, you're going to want to keep tabs on a few key metrics that reveal the health of your campaign.
+> **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-measure-the-success-of-email?u=76281980&t=0)** - As you develop your [[Email Marketing]] strategy, you're going to want to keep tabs on a few key metrics that reveal the health of your campaign.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-measure-the-success-of-email?u=76281980&t=7)** For starters, we have open rate, and your open rate tells you how many subscribers actually opened up the message that you sent.
 >
@@ -2420,19 +2381,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - as (1)
 
-#### How to launch successful campaigns: Email tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980)
+#### [How to launch successful campaigns: Email tools](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=0)** - There are many great tools to launch successful email campaigns.
 >
-> **[0:04](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=4)** And what you decide to use will depend on what you want to spend, the size of your business, and what you intend to do with your email marketing.
+> **[0:04](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=4)** And what you decide to use will depend on what you want to spend, the size of your business, and what you intend to do with your [[Email Marketing]].
 >
 > **[0:12](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=12)** When it comes to determining what business software is available, and just how popular it is, these days I find myself turning to [g2.com](https://g2.com) as a resource for peer-to-peer reviews.
 >
@@ -2444,7 +2404,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=40)** All three of these tools are self-proclaimed all-in-one marketing platforms that extend beyond email.
 >
-> **[0:46](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=46)** They'll layer in functionality, such as customer relationship management or CRM, prebuilt templates, a plethora of reporting, and deep integrations with everything from WordPress to Shopify.
+> **[0:46](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=46)** They'll layer in functionality, such as customer relationship management or CRM, prebuilt templates, a plethora of reporting, and deep integrations with everything from [[WordPress]] to Shopify.
 >
 > **[0:57](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-launch-successful-campaigns-email-tools?u=76281980&t=57)** Now I can't dictate which tool will fit your needs, but I encourage you, read through the reviews on [g2.com](https://g2.com), sign up for any free trials, and then feel out which platform aligns with your objectives and requirements.
 >
@@ -2462,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), business (2), management (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[WordPress]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [g2.com](https://g2.com) (2)
 > **Env Vars:** crm (1)
@@ -2474,8 +2434,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to decide what to track in marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980)
+#### [How to decide what to track in marketing analytics](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,11 +2448,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=21)** We have the tools and resources to measure, well, just about anything we want.
 >
-> **[0:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=26)** Reviewing analytics as part of your day to day will help you become a better marketer and provide you with ideas on how to further improve your marketing strategy.
+> **[0:26](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=26)** Reviewing analytics as part of your day to day will help you become a better marketer and provide you with ideas on how to further improve your [[Marketing Strategy]].
 >
 > **[0:35](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=35)** That said, the real issue tends not to be a lack of data but rather a lack of focus.
 >
-> **[0:41](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=41)** There's no time for a 10 page report of all of the business metrics.
+> **[0:41](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=41)** There's no time for a 10 page report of all of the [[Business Metrics]].
 >
 > **[0:46](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=46)** So to avoid information overload, you want to focus on the metrics that matter most to your marketing vision, your customer needs, and company goals.
 >
@@ -2517,7 +2476,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=110)** So for Acquisition, this might be the number of conversions.
 >
-> **[1:54](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=114)** For Activation, this might be time on your site in your product or even your customer support ticket volume.
+> **[1:54](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=114)** For Activation, this might be time on your site in your product or even your [[Customer Support]] ticket volume.
 >
 > **[2:02](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980&t=122)** Retention is your churn rate. Who's leaving?
 >
@@ -2545,14 +2504,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (3), [[Marketing Strategy]] (2), product (2), traffic (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), [[Business Metrics]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aarrr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - effective (1)
 
-#### How to generate reports for marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980)
+#### [How to generate reports for marketing analytics](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2518,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=4)** And in order to make sense of this data, you'll need to synthesize it into your reports, but your reports need to have purpose.
 >
-> **[0:11](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=11)** Too many times, I see data collection and reporting just for the sake of having data, and that's not all that helpful, as it can actually distract from your overall goal.
+> **[0:11](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=11)** Too many times, I see [[Data Collection]] and reporting just for the sake of having data, and that's not all that helpful, as it can actually distract from your overall goal.
 >
 > **[0:21](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=21)** So every report that you create must have an actionable outcome and influence change.
 >
@@ -2574,7 +2532,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=46)** Your report would need to show the decline, the supporting data that hypothesizes the source of the decline, and then whatever the key takeaway is.
 >
-> **[0:55](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=55)** So I might layer in data that shows we decreased our advertising spend on say, LinkedIn, and then subsequently saw a drop in traffic.
+> **[0:55](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=55)** So I might layer in data that shows we decreased our advertising spend on say, [[LinkedIn]], and then subsequently saw a drop in traffic.
 >
 > **[1:03](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-generate-reports-for-marketing-analytics?u=76281980&t=63)** I can now connect the dots to what the ripple effect of this impact is and what we should do about it.
 >
@@ -2592,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), traffic (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -2603,8 +2561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to continually build digital marketing skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980)
+#### [How to continually build digital marketing skills](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2620,13 +2577,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=18)** There, I'll teach you how to rapidly scale your marketing initiatives and develop new skills that can bring your ideas to reality faster.
 >
-> **[0:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=25)** From there, I'd encourage you to dig into search engine optimization with the course SEO Foundations.
+> **[0:25](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=25)** From there, I'd encourage you to dig into [[Search Engine Optimization (SEO)|search engine optimization]] with the course SEO Foundations.
 >
 > **[0:31](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=31)** You might also enjoy keeping up with the latest in marketing and for that I'd suggest watching Digital Marketing Trends so you can learn the newest tools and techniques that marketers are using to reach their customers.
 >
 > **[0:42](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=42)** Now, we covered a lot of material in this course, so feel free to revisit it from time to time and brush up on your skills as you continue to explore the world of digital marketing.
 >
-> **[0:51](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=51)** And if you'd like, connect with me directly on LinkedIn at the link below.
+> **[0:51](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=51)** And if you'd like, connect with me directly on [[LinkedIn]] at the link below.
 >
 > **[0:55](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980&t=55)** I'd love to hear from you.
 >
@@ -2634,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), seo (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (2)
 > **Env Vars:** seo (1)
 > **Speakers:** - thanks (1)

@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,16 +102,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/what-you-should-know?u=76281980&t=0)** - This course will be helpful for you if you are interested in data engineering, if you are already a data engineer or if you are a software engineering coming from the software engineering side because that's what data engineers also do a lot, software engineering.
+> **[0:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/what-you-should-know?u=76281980&t=0)** - This course will be helpful for you if you are interested in [[Data Engineering]], if you are already a data engineer or if you are a software engineering coming from the software engineering side because that's what data engineers also do a lot, software engineering.
 >
 > **[0:14](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/what-you-should-know?u=76281980&t=14)** As mentioned in the introduction, stumbling from one problem to the next is something a lot of engineers struggle with and it's absolutely no fun.
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Engineering]] (3), [[Data Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - this (1)
 
@@ -147,12 +144,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980)
+#### [The data engineer](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=0)** - [Instructor] Let's start with a macro view of data engineering.
+> **[0:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=0)** - [Instructor] Let's start with a macro view of [[Data Engineering]].
 >
 > **[0:03](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=3)** So what you usually have is on the left, you have a data source.
 >
@@ -178,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=55)** What are examples for this?
 >
-> **[0:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=57)** The first example I have is where I'm actually coming from, what I did a lot in my past, is processing data from IoT devices, from the Internet of Things, where a device has a sensor that's on the internet, it's going to send you data and a user on a user interface might want to then look at that data from that device.
+> **[0:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=57)** The first example I have is where I'm actually coming from, what I did a lot in my past, is processing data from [[IoT]] devices, from the [[IoT|Internet of Things]], where a device has a sensor that's on the internet, it's going to send you data and a user on a user interface might want to then look at that data from that device.
 >
 > **[1:18](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=78)** Could also be that you have an ecommerce store and the analytics team wants to improve the stock that they hold or the sales optimization that they want to do.
 >
@@ -190,11 +186,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=137)** That's something that the engineer is responsible for.
 >
-> **[2:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=141)** The infrastructure, that is actually like the cloud and the systems on the cloud that are needed for processing the data databases, processing frameworks, scheduling tools, message queues and more, and we are in charge of the end-to-end pipelines usually.
+> **[2:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=141)** The infrastructure, that is actually like the cloud and the systems on the cloud that are needed for processing the data [[Databases]], processing frameworks, scheduling tools, message queues and more, and we are in charge of the end-to-end pipelines usually.
 >
-> **[2:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=160)** Basically, we will use the infrastructure that is there to create complex processes to make the data available, where we query the data from sources, where we process the data, multiple steps, do some transformations, do some data cleaning, do some data modeling, and then store it in a destination.
+> **[2:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=160)** Basically, we will use the infrastructure that is there to create complex processes to make the data available, where we query the data from sources, where we process the data, multiple steps, do some transformations, do some [[Data Cleaning]], do some [[Data Modeling]], and then store it in a destination.
 >
-> **[3:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=181)** So a pipeline, if you'll then look at it in a bit more complex way, and this is still a very, very simple ETL pipeline where we have our data left in our data source, we have our data integration tool or our data integration process that extracts the data out of the source, then we do 1, 2, 3, n transformation steps, we do data cleaning, and after that we store it into a data store that we've modeled where then later the data can be used by a person.
+> **[3:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=181)** So a pipeline, if you'll then look at it in a bit more complex way, and this is still a very, very simple ETL pipeline where we have our data left in our data source, we have our [[Data Integration]] tool or our data integration process that extracts the data out of the source, then we do 1, 2, 3, n transformation steps, we do data cleaning, and after that we store it into a data store that we've modeled where then later the data can be used by a person.
 >
 > **[3:34](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=214)** So a person can go into a visualization tool and then request the data from our store.
 >
@@ -208,15 +204,15 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=262)** We need to work on how can we integrate these sources into our pipelines so that we can then later process the data.
 >
-> **[4:30](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=270)** This might be a streaming data, where the data comes in constantly, it might also be batch processing, where we schedule processes.
+> **[4:30](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=270)** This might be a streaming data, where the data comes in constantly, it might also be [[Batch Processing]], where we schedule processes.
 >
 > **[4:38](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=278)** And then of course databases.
 >
 > **[4:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=280)** That database is one of the basics for an engineer, at least relational database knowledge where we know, okay, this is how we can design a database and this is how we can use the database.
 >
-> **[4:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=293)** Of course, they're not just relational, we know all kinds of stores with experienced, relational, NoSQL databases like Evalue stores and wide-column stores and documents stores.
+> **[4:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=293)** Of course, they're not just relational, we know all kinds of stores with experienced, relational, [[NoSQL]] databases like Evalue stores and wide-column stores and documents stores.
 >
-> **[5:06](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=306)** We also know data warehouses or data lakes.
+> **[5:06](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=306)** We also know data warehouses or [[Data Lakes]].
 >
 > **[5:11](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=311)** Another part is analysis.
 >
@@ -238,20 +234,19 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=366)** Very often we're working with analysts because they sit on the right side, they work with the data, same with scientists, but we're also working with the business because we need to understand what are the business needs, what do we actually solve here, what are our goals, so we work with the business, and fourth, last but not least, we're also going to work together with other engineers.
 >
-> **[6:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=393)** It might be data engineers, might be some hardware engineers, some system engineers, because like in that example on the left side, that database that is the source for our data, that might be owned by another engineer in the company and that engineer is responsible, so we need to talk to this engineer and we need to figure out how we can work together.
+> **[6:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=393)** It might be data engineers, might be some [[Hardware]] engineers, some system engineers, because like in that example on the left side, that database that is the source for our data, that might be owned by another engineer in the company and that engineer is responsible, so we need to talk to this engineer and we need to figure out how we can work together.
 >
 > **[6:56](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980&t=416)** All right, let's look next at the phases of a data project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), [[Engineering]] (5), business (5), database (5), [[Databases]] (4)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Data Integration]] (3), [[Data Engineering]] (2), [[Data Cleaning]] (2), [[IoT]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
-#### All important data engineering project phases
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/all-important-data-engineering-project-phases?u=76281980)
+#### [All important data engineering project phases](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/all-important-data-engineering-project-phases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,14 +340,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), next (1)
 > **Prerequisites:** you need to have (1), set up (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### General challenges faced
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/general-challenges-faced?u=76281980)
+#### [General challenges faced](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/general-challenges-faced?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,7 +495,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), leadership (4), data (2), business (1)
 > **CLI Commands:** make (8), find (5)
 > **Documentation:** specification (3)
 > **Cross-References:** we discussed (1)
@@ -516,8 +508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the status quo
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980)
+#### [Understanding the status quo](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +540,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=76)** Then you need to figure out why do we need to redesign or why do we need to improve parts of this?
 >
-> **[1:23](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=83)** Also, look at scalability.
+> **[1:23](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=83)** Also, look at [[Scalability]].
 >
 > **[1:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=85)** How does the current system scale?
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=114)** And also look at how does this fit into the larger strategy of the company.
 >
-> **[2:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=121)** Is this where the company is going, is actually now if this goes towards, let's say, a data warehouse, let's say Snowflake.
+> **[2:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=121)** Is this where the company is going, is actually now if this goes towards, let's say, a data warehouse, let's say [[Snowflake]].
 >
 > **[2:11](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980&t=131)** If this old system is built on Snowflake, is the company actually moving towards Snowflake or are we moving in a different direction?
 >
@@ -591,11 +582,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), [[Scalability]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Scalability]] (1)
 > **Speakers:** - let (1)
 
-#### Collecting the right requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980)
+#### [Collecting the right requirements](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=117)** That's something that you find all the time, like budget, budget per month or budget per year, so that you know what you can build and which tools you can use, you know, the frame in which you operate.
 >
-> **[2:12](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=132)** The expected required scalability, because then you know, okay, our system is running at this level today, and at that level in six months, I have a few more details on that in a second.
+> **[2:12](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=132)** The expected required [[Scalability]], because then you know, okay, our system is running at this level today, and at that level in six months, I have a few more details on that in a second.
 >
 > **[2:26](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=146)** Then you have something with data or system availability.
 >
@@ -659,9 +649,9 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=207)** So backup and recovery, super important.
 >
-> **[3:32](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=212)** In modern tools like the NoSQL databases very often use scale horizontally and the data is replicated automatically.
+> **[3:32](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=212)** In modern tools like the [[NoSQL]] [[Databases]] very often use scale horizontally and the data is replicated automatically.
 >
-> **[3:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=221)** But for typical relational databases, that is something you need to factor in, for instance.
+> **[3:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=221)** But for typical [[Relational Databases]], that is something you need to factor in, for instance.
 >
 > **[3:47](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=227)** But your KPI is also important for the data sources, and for the integration of these data sources, what are the data sources, how much data can they deliver to me?
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=248)** Stuff like that.
 >
-> **[4:09](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=249)** And then a last point, security and privacy.
+> **[4:09](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=249)** And then a last point, security and [[Privacy]].
 >
 > **[4:12](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=252)** Okay, now, what are the requirements here for internal and external measures?
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=341)** Or am I getting, even in 12 months or in six months, to a point where the database cannot grow anymore and I'm getting stuck and I need to find another way, like horizontal scaling, like using a NoSQL database or something.
 >
-> **[5:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=357)** - Also KPIs towards the team, Outlook of the team size, for instance, are important, because that influences how you need to build your project, how you need to build your pipelines, how you need to set up the systems.
+> **[5:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=357)** - Also KPIs towards the team, [[Microsoft Outlook|Outlook]] of the team size, for instance, are important, because that influences how you need to build your project, how you need to build your pipelines, how you need to set up the systems.
 >
 > **[6:13](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=373)** Do you have the operations capability in six months to actually supply this, or do you need to find a simpler solution that might not have that much of power or capability, but is then easier to service later?
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=429)** Which data volume do you need to process, again, predictions from today to six, 12 months out.
 >
-> **[7:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=437)** The data quality, for instance, as well.
+> **[7:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=437)** The [[Data Quality]], for instance, as well.
 >
 > **[7:20](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=440)** Like are there KPIs that indicate how well the data source is able to send me data?
 >
@@ -749,13 +739,13 @@ created: 2026-05-02
 >
 > **[8:18](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=498)** How much people are working on this?
 >
-> **[8:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=501)** And with this you can basically figure out, do I have the right data storage solution for this use case in the future?
+> **[8:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=501)** And with this you can basically figure out, do I have the right [[Data Storage]] solution for this use case in the future?
 >
 > **[8:30](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=510)** Resource utilization.
 >
 > **[8:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=513)** Something very typical that, okay, we don't want to go above 60% of utilization on the database, otherwise we don't have enough time to scale or stuff like that.
 >
-> **[8:49](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=529)** The typical hardware topics.
+> **[8:49](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=529)** The typical [[Hardware]] topics.
 >
 > **[8:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/collecting-the-right-requirements?u=76281980&t=533)** As you see, it has a lot to do with KPIs, collecting the right KPIs, defining the right KPIs.
 >
@@ -763,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), database (9), [[Scalability]] (3), [[Privacy]] (3), business (2)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Privacy]] (3), [[NoSQL]] (2), [[Databases]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** for instance (6)
 > **Env Vars:** kpi (3)
@@ -771,8 +761,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - also (1)
 > **Versions:** 99.99999 (1)
 
-#### Defining good KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/defining-good-kpis?u=76281980)
+#### [Defining good KPIs](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/defining-good-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +881,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (1)
 > **Env Vars:** kpi (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -905,8 +893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping implementation efforts in mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980)
+#### [Keeping implementation efforts in mind](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,17 +923,17 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=84)** That can be, but that is not the only factor and here's what you need to look for.
 >
-> **[1:31](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=91)** Typically, in data engineering is, again, we were talking before with the infrastructure and the pipelines.
+> **[1:31](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=91)** Typically, in [[Data Engineering]] is, again, we were talking before with the infrastructure and the pipelines.
 >
 > **[1:38](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=98)** These are the two things that engineers do.
 >
 > **[1:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=101)** You need to think of, okay, which systems are we actually using?
 >
-> **[1:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=105)** Are we using infrastructure as a service where the cloud for instance, give us the virtual machines and we work with them?
+> **[1:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=105)** Are we using [[IaaS|infrastructure as a service]] where the cloud for instance, give us the [[Virtual Machines]] and we work with them?
 >
-> **[1:55](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=115)** Are we using software as a service tools where we just need to put our code there and everything is done?
+> **[1:55](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=115)** Are we using [[SaaS|software as a service]] tools where we just need to put our code there and everything is done?
 >
-> **[2:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=121)** Or are we using platform as a service where we're just doing click, click, and everything is ready?
+> **[2:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=121)** Or are we using [[PaaS|platform as a service]] where we're just doing click, click, and everything is ready?
 >
 > **[2:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=128)** You need to keep that in mind because the implementation efforts for these are very, very different.
 >
@@ -954,7 +941,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=142)** You can have something that is super nice.
 >
-> **[2:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=145)** You can have Spark, you can set up a super nice processing with Apache Spark, but for beginners, it's not very easy to work with.
+> **[2:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=145)** You can have Spark, you can set up a super nice processing with [[Apache Spark]], but for beginners, it's not very easy to work with.
 >
 > **[2:37](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=157)** Generally, it's not super easy to work with.
 >
@@ -1008,7 +995,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=286)** Is this a flexible solution or do I then need to do a complete redesign and then struggle in 12 months?
 >
-> **[4:54](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=294)** Or the other thing is do I really need a NoSQL database that allows me to horizontally scale the database performance by adding more servers or is this absolutely overkill and a normal relational database for this shop would actually be enough because we will never get to that point where we actually need that horizontal scaling and that NoSQL, and so, that clever design, that overhead that you're building is actually not necessary and will result in more effort, in more implementation work and more time, and more money spent on this whole thing.
+> **[4:54](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=294)** Or the other thing is do I really need a [[NoSQL]] database that allows me to horizontally scale the database performance by adding more servers or is this absolutely overkill and a normal relational database for this shop would actually be enough because we will never get to that point where we actually need that horizontal scaling and that NoSQL, and so, that clever design, that overhead that you're building is actually not necessary and will result in more effort, in more implementation work and more time, and more money spent on this whole thing.
 >
 > **[5:39](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980&t=339)** So it's super important.
 >
@@ -1026,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Apache Spark]] (2), data (2), [[NoSQL]] (2), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[NoSQL]] (2), [[Data Engineering]] (1), [[IaaS|Infrastructure as a service]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** apache (2), find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -1035,8 +1022,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right architecture and framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980)
+#### [Choosing the right architecture and framework](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=62)** Sometimes a organization is going to give out the dogma that we need to build everything on GCP, we are going to put every project on AWS.
 >
-> **[1:16](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=76)** So it doesn't make sense for you to come up with the solution on Azure because the corporate strategy is going to be towards GCP, right?
+> **[1:16](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=76)** So it doesn't make sense for you to come up with the solution on [[Microsoft Azure|Azure]] because the corporate strategy is going to be towards GCP, right?
 >
 > **[1:26](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=86)** So then you're going to start with the design, you're going to then show this to people, and at some point somebody's going to come to you and say, "Well, listen our corporate strategy is GCP, so you can't do Azure, it's not going to work."
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=108)** Sometimes the company doesn't have that, very often companies have that.
 >
-> **[1:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=113)** Even I, as a startup, my own company, I have the strategy that I use Google and that I use Google Drive and Google Sheets and everything.
+> **[1:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=113)** Even I, as a startup, my own company, I have the strategy that I use [[Google]] and that I use [[Google Drive]] and Google Sheets and everything.
 >
 > **[2:02](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=122)** Even in these smaller organizations are always these strategies that you need to take care of.
 >
@@ -1070,7 +1056,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=138)** Is there a corporate governance in place that allows us or does not allow us to use these tools?"
 >
-> **[2:26](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=146)** Super important, I remember a case where back in the days I wanted to use, for some network scanning on my dev environment, I wanted to use Wireshark to actually read out network packages, and in the organization that I was, I actually wasn't allowed to use that tool because that was among the hacker tools or something, which is not.
+> **[2:26](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=146)** Super important, I remember a case where back in the days I wanted to use, for some network scanning on my dev environment, I wanted to use [[Wireshark]] to actually read out network packages, and in the organization that I was, I actually wasn't allowed to use that tool because that was among the hacker tools or something, which is not.
 >
 > **[2:50](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=170)** But I think you get the point here.
 >
@@ -1078,7 +1064,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=180)** And if you have something custom that you want to use, am I actually allowed to use this, to build this into a live project?
 >
-> **[3:10](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=190)** Privacy is also something you need to consider nowadays.
+> **[3:10](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=190)** [[Privacy]] is also something you need to consider nowadays.
 >
 > **[3:14](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/choosing-the-right-architecture-and-framework?u=76281980&t=194)** I know it's not the super popular topic, but believe me, I spent months on privacy, on GDPR, on making everything safe for projects.
 >
@@ -1120,15 +1106,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), gcp (3), cloud (2), [[Microsoft Azure|Azure]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Microsoft Azure|Azure]] (2), [[Google]] (2), [[Google Drive]] (1), [[Wireshark]] (1)
 > **Env Vars:** gcp (3), aws (1), gdpr (1)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predicting costs and scaling better
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980)
+#### [Predicting costs and scaling better](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1137,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=114)** Pretty simple, right?
 >
-> **[1:56](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=116)** Even simpler is data storage, where you're storing X amount of gigabytes per month, and the gigabyte is going to cost you X dollars.
+> **[1:56](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=116)** Even simpler is [[Data Storage]], where you're storing X amount of gigabytes per month, and the gigabyte is going to cost you X dollars.
 >
 > **[2:06](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=126)** These are very, very simple pricing schemas that will help you calculate the cost.
 >
@@ -1190,7 +1175,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=265)** But you can also revert back, like I did many times before, to the old school spreadsheet, where you take spreadsheet, and you put in different scenarios, you play out different scenarios, and you put in the numbers, and then come up with scenarios that fit and that don't fit.
 >
-> **[4:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=285)** One thing that is very important in this, and I want to give this for you as a tip, a problem that people always have is Platform as a Service, Software as a Service, versus Infrastructure as a Service, because Infrastructure as a Service is usually seen as the expensive part.
+> **[4:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=285)** One thing that is very important in this, and I want to give this for you as a tip, a problem that people always have is [[PaaS|Platform as a Service]], [[SaaS|Software as a Service]], versus [[IaaS|Infrastructure as a Service]], because Infrastructure as a Service is usually seen as the expensive part.
 >
 > **[5:04](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=304)** Now, how this works though, is look at this chart.
 >
@@ -1220,7 +1205,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=410)** If you don't have that, you might want to make that switch at some point, to make that switch from Software as a Service to Infrastructure as a Service.
 >
-> **[6:59](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=419)** That's why these tools like Apache Spark Standalone or Apache Kafka, or Airflow exist, at some point, the Software as a Service version of these tools is going to become too expensive, so they switch to the self-hosted Infrastructure as a Service version.
+> **[6:59](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=419)** That's why these tools like [[Apache Spark]] Standalone or [[Apache Kafka]], or Airflow exist, at some point, the Software as a Service version of these tools is going to become too expensive, so they switch to the self-hosted Infrastructure as a Service version.
 >
 > **[7:22](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/predicting-costs-and-scaling-better?u=76281980&t=442)** All right, let's look next.
 >
@@ -1232,15 +1217,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (9), data (8), [[SaaS|Software as a service]] (6), cloud (4), aws (3)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (9), [[SaaS|Software as a service]] (6), [[Data Storage]] (1), [[PaaS|Platform as a service]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** make (4), aws (3), apache (2)
 > **Env Vars:** aws (3), cpu (1), ram (1), gpu (1), hdd (1)
 > **Analogies:** for instance (5)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [presenter] (1)
 
-#### The right benchmarking of existing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980)
+#### [The right benchmarking of existing tools](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,15 +1240,15 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=35)** Is it possible to query the data with good performance like you want it to?
 >
-> **[0:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=40)** Because sometimes, databases are good to query the data from one angle.
+> **[0:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=40)** Because sometimes, [[Databases]] are good to query the data from one angle.
 >
 > **[0:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=45)** If you come from another angle, it's terrible and takes forever.
 >
 > **[0:49](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=49)** Or when you look at a processing framework, is the processing framework able to process the data in a way that you need it?
 >
-> **[0:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=57)** I remember back in the days when I was working with Apache Spark and with Java on Apache Spark, I had problems that were super difficult to solve with Java.
+> **[0:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=57)** I remember back in the days when I was working with [[Apache Spark]] and with [[Java]] on Apache Spark, I had problems that were super difficult to solve with Java.
 >
-> **[1:07](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=67)** Then I moved to Python, and it was super easy.
+> **[1:07](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=67)** Then I moved to [[Python (Programming Language)|Python]], and it was super easy.
 >
 > **[1:09](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=69)** So take this into account, the fit to the use case, super important.
 >
@@ -1274,7 +1258,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=83)** Does this have a super steep learning curve, that means takes forever to get good in, a big factor, especially when you look at the team.
 >
-> **[1:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=93)** How is that with the scalability in the future?
+> **[1:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=93)** How is that with the [[Scalability]] in the future?
 >
 > **[1:36](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=96)** Can this system, this tool, actually scale with your requirements with the more throughput, the more processing on your platform?
 >
@@ -1358,7 +1342,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=353)** How is this on GCP?
 >
-> **[5:55](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=355)** How does this work on Azure?
+> **[5:55](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=355)** How does this work on [[Microsoft Azure|Azure]]?
 >
 > **[5:58](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-right-benchmarking-of-existing-tools?u=76281980&t=358)** So take good care of this, do good benchmarking, do benchmarking of scaling, do benchmarking of throughput, and so on and so on, and always look for bottlenecks then.
 >
@@ -1408,7 +1392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (5), [[Apache Spark]] (2), [[Java]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Java]] (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Scalability]] (1)
 > **CLI Commands:** apache (2), python (1), aws (1)
 > **Analogies:** for instance (3), compare this to (1)
 > **Env Vars:** aws (1), gcp (1)
@@ -1421,8 +1405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Definition of work packages and responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980)
+#### [Definition of work packages and responsibilities](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=36)** We're developing for a week, a month, two months, six months, and then we do a launch.
 >
-> **[0:44](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=44)** Nowadays with agile development, what you do is you do the exact opposite of this.
+> **[0:44](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=44)** Nowadays with [[Agile Development|agile]] development, what you do is you do the exact opposite of this.
 >
 > **[0:50](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=50)** You create small packages, you develop in small increments, and from there you can then act to things that are coming up, like you can add new packages, if something new needs to be packaged in, you can drop stuff that you see, okay, that is too much, or that we don't need that drop it.
 >
@@ -1468,11 +1451,11 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=182)** Now we said the package is small, so they're easy to track but how are you tracking this?
 >
-> **[3:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=188)** And there's actually a great tool, I've worked with this for years, Azure DevOps is actually a tool that I've worked for years with.
+> **[3:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=188)** And there's actually a great tool, I've worked with this for years, [[Microsoft Azure|Azure]] [[DevOps]] is actually a tool that I've worked for years with.
 >
 > **[3:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=197)** It's super easy.
 >
-> **[3:18](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=198)** For instance, if you do scrum, you can add your stories here, which are basically the packages and add information, make it visible.
+> **[3:18](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=198)** For instance, if you do [[Scrum]], you can add your stories here, which are basically the packages and add information, make it visible.
 >
 > **[3:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980&t=209)** How long will this whole development take?
 >
@@ -1490,14 +1473,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Scrum]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Scrum]] (1)
 > **Cross-References:** coming up (1), later in (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/risk-assessment?u=76281980)
+#### [Risk assessment](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,14 +1645,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), database (12), next (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the right parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980)
+#### [Testing the right parts](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,7 +1696,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980&t=101)** And it's a huge problem.
 >
-> **[1:43](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980&t=103)** Very often, people write unit tests, for instance, for their Python code, and they don't know with which data to test.
+> **[1:43](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980&t=103)** Very often, people write unit tests, for instance, for their [[Python (Programming Language)|Python]] code, and they don't know with which data to test.
 >
 > **[1:51](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/testing-the-right-parts?u=76281980&t=111)** There are two different types of data.
 >
@@ -1858,15 +1838,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), functional (3), [[Python (Programming Language)|Python]] (1), database (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - now (1)
 
-#### Having a good documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980)
+#### [Having a good documentation](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,9 +1919,9 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=190)** External documentation is something where you document the whole pipeline in each part and you explain everything and you put this, for instance, into an internal wiki.
 >
-> **[3:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=201)** You could put this on GitHub or a repository.
+> **[3:21](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=201)** You could put this on [[GitHub]] or a repository.
 >
-> **[3:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=205)** So there are a lot of ways, and to document this, I mean, in the old days, we've been writing PDF documents or Word documents and putting everything in Word and then documenting it there.
+> **[3:25](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=205)** So there are a lot of ways, and to document this, I mean, in the old days, we've been writing PDF documents or [[Microsoft Word|Word]] documents and putting everything in Word and then documenting it there.
 >
 > **[3:40](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=220)** External documentations are very important for people to get an overview to have a nice way of documenting it.
 >
@@ -1954,7 +1933,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=239)** And then you have the internal documentation, and usually how you do this is you go from file to function and to individual lines, right?
 >
-> **[4:07](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=247)** When you think about a Python, piece of Python code, you have the piFile, and that's your source file.
+> **[4:07](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=247)** When you think about a [[Python (Programming Language)|Python]], piece of Python code, you have the piFile, and that's your source file.
 >
 > **[4:15](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=255)** So you start, you're beginning on the file level to document.
 >
@@ -2022,7 +2001,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=387)** So not only the technical part of the how does the pipeline work, what's the technical solution, but also governance.
 >
-> **[6:35](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=395)** And you find this very often with data lakes.
+> **[6:35](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=395)** And you find this very often with [[Data Lakes]].
 >
 > **[6:39](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=399)** For instance, the data lakes gets swamped.
 >
@@ -2030,7 +2009,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=410)** There's no data catalog that tells people, okay, this data with that kind of a format is there and you can access it in there.
 >
-> **[7:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=420)** There is no data quality known if, is that data actually good data?
+> **[7:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=420)** There is no [[Data Quality]] known if, is that data actually good data?
 >
 > **[7:04](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=424)** Is that bad data here?
 >
@@ -2044,13 +2023,13 @@ created: 2026-05-02
 >
 > **[7:33](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=453)** There are multiple steps of processing and each step creates a different output.
 >
-> **[7:39](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=459)** And also documentation for security and privacy.
+> **[7:39](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=459)** And also documentation for security and [[Privacy]].
 >
 > **[7:42](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=462)** Sometimes it's not clear which user role does what, which user role is allowed to see which data.
 >
 > **[7:50](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=470)** Super annoying this kind of stuff if this is missing.
 >
-> **[7:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=473)** So think about technical documentation and governance for the documentation part, and you will be all right.
+> **[7:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=473)** So think about [[Technical Documentation]] and governance for the documentation part, and you will be all right.
 >
 > **[8:01](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/having-a-good-documentation?u=76281980&t=481)** Internal documentation and external documentation is super important.
 >
@@ -2062,7 +2041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), technical solution (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (2), [[Data Lakes]] (2), [[GitHub]] (1), [[Data Quality]] (1)
 > **Documentation:** the documentation (4), specification (1)
 > **CLI Commands:** python (2), find (1)
 > **Exercise Files:** source code (3)
@@ -2076,8 +2055,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Approaches to monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980)
+#### [Approaches to monitoring](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2129,13 +2107,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=144)** These could be virtual servers, database instances.
 >
-> **[2:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=149)** So systems that send you statistics data.
+> **[2:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=149)** So systems that send you [[Statistics]] data.
 >
 > **[2:32](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=152)** And on the right side, that could be processes, that could be parts of pipelines that are actually sending you statistics data that you then monitor.
 >
 > **[2:42](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=162)** And you can bring this all together in one monitoring system.
 >
-> **[2:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=165)** You can build dashboards, you can do analytics on the data, you can do alarming there.
+> **[2:45](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=165)** You can build [[Dashboards]], you can do analytics on the data, you can do alarming there.
 >
 > **[2:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=173)** That's what I mean, centralized view.
 >
@@ -2155,7 +2133,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=207)** And then you have your process KPIs.
 >
-> **[3:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=209)** This is from data transformation, data cleaning from processing, where you're talking about data throughput, processing time, processing lag, we talked about lag before, or internal errors, error codes from your processing.
+> **[3:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=209)** This is from [[Data Transformation]], [[Data Cleaning]] from processing, where you're talking about data throughput, processing time, processing lag, we talked about lag before, or internal errors, error codes from your processing.
 >
 > **[3:46](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=226)** So two different types.
 >
@@ -2233,7 +2211,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=433)** So for informations would be just the UI.
 >
-> **[7:15](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=435)** For warnings, they would go over Slack, and alarms via email or critical via phone call, or old school via SMS.
+> **[7:15](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=435)** For warnings, they would go over [[Slack]], and alarms via email or critical via phone call, or old school via SMS.
 >
 > **[7:27](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980&t=447)** And then you would define the users who is getting notified.
 >
@@ -2255,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (2), [[Slack]] (2), leadership (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Slack]] (2), [[Dashboards]] (1), [[Data Transformation]] (1), [[Data Cleaning]] (1)
 > **Env Vars:** cpu (1), ram (1), sms (1)
 > **Warnings:** warning (3)
 > **Cross-References:** we talked about (1), coming up (1)
@@ -2264,8 +2242,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
 
-#### Approaches to bug fixing
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980)
+#### [Approaches to bug fixing](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2285,7 +2262,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980&t=41)** What I recommend is don't make the mistake of using individual files.
 >
-> **[0:46](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980&t=46)** Set up a central system that where all the logs are going to go, all the messages, something like Elasticsearch that can collect the logs and is a central hub for you to query data, to make queries to Elasticsearch and find errors very quickly.
+> **[0:46](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980&t=46)** Set up a central system that where all the logs are going to go, all the messages, something like [[Elasticsearch]] that can collect the logs and is a central hub for you to query data, to make queries to Elasticsearch and find errors very quickly.
 >
 > **[1:05](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-bug-fixing?u=76281980&t=65)** How do these messages look in Elasticsearch that are in your log?
 >
@@ -2389,7 +2366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Debugging]] (6), [[Elasticsearch]] (3), next (2), etl (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** etl (1)
@@ -2398,8 +2375,7 @@ created: 2026-05-02
 > **Warnings:** don't make the mistake (1)
 > **Prerequisites:** set up (1)
 
-#### Awesome training of staff, current and new
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980)
+#### [Awesome training of staff, current and new](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,7 +2383,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980&t=8)** And it's basically coming on top of the implementation documentation.
 >
-> **[0:13](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980&t=13)** Now, what's important for ops here is a detailed section for ops with system architecture diagrams, with technical design documents, could be sketches, could be detailed technical information with deployment and configuration management information like how do you deploy X?
+> **[0:13](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980&t=13)** Now, what's important for ops here is a detailed section for ops with [[System Architecture]] diagrams, with technical design documents, could be sketches, could be detailed technical information with deployment and [[Configuration Management]] information like how do you deploy X?
 >
 > **[0:32](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/awesome-training-of-staff-current-and-new?u=76281980&t=32)** How do you configure Y?
 >
@@ -2477,14 +2453,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[System Architecture]] (1), [[Configuration Management]] (1), database (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[System Architecture]] (1), [[Configuration Management]] (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - we (1)
 
-#### How to improve processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980)
+#### [How to improve processes](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2508,7 +2483,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=59)** It's most likely a bigger improvement than improving a part of the pipeline that the processing of 0.5 seconds.
 >
-> **[1:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=68)** Then, automation, scalability.
+> **[1:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=68)** Then, automation, [[Scalability]].
 >
 > **[1:12](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=72)** Scalability's also something that you need to work on.
 >
@@ -2524,15 +2499,15 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=125)** So you're going to improve the monitoring, and with that, you're going to also improve the logging so that the processes and the systems are sending you more data.
 >
-> **[2:15](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=135)** Then you have maybe data quality issues that you actually want to improve, where data is going quite far in your pipeline until it's recognized that it's wrong.
+> **[2:15](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=135)** Then you have maybe [[Data Quality]] issues that you actually want to improve, where data is going quite far in your pipeline until it's recognized that it's wrong.
 >
 > **[2:26](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=146)** So you want to optimize this, that you want to find out the data quality a lot earlier in the beginning.
 >
-> **[2:34](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=154)** Could be privacy and security that you want to increase the security of your systems, you want to find new methods of firewalling this whole system so that nobody can intrude, or that you add more privacy to your APIs.
+> **[2:34](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=154)** Could be [[Privacy]] and security that you want to increase the security of your systems, you want to find new methods of firewalling this whole system so that nobody can intrude, or that you add more privacy to your APIs.
 >
 > **[2:49](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=169)** That's something that you're able to improve.
 >
-> **[2:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=173)** Same with CICD, continuous integration, continuous deployment.
+> **[2:53](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=173)** Same with CICD, [[Continuous Integration (CI)|continuous integration]], continuous deployment.
 >
 > **[2:57](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/how-to-improve-processes?u=76281980&t=177)** So that when somebody is doing some development, it's very quickly checked and it's very quickly deployed then onto the live system.
 >
@@ -2544,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Automation]] (4), [[Scalability]] (2), [[Privacy]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Data Quality]] (2), [[Privacy]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cicd (1)
 > **Versions:** 0.5 (1)
@@ -2556,18 +2531,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion and outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980)
+#### [Conclusion and outlook](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=0)** - Alright, so we went through all the phases of a data project and now you should be well-prepared for your work as a data engineer.
 >
-> **[0:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=8)** Do me a favor, create a post on LinkedIn with all the engineering problems that you encountered and tag me in that post so we can have a chat.
+> **[0:08](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=8)** Do me a favor, create a post on [[LinkedIn]] with all the engineering problems that you encountered and tag me in that post so we can have a chat.
 >
-> **[0:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=17)** If you want to learn data engineering, check out my academy at [learndataengineering.com](https://learndataengineering.com), where I teach you how to become a data engineer or how to use data engineering in your job.
+> **[0:17](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=17)** If you want to learn [[Data Engineering]], check out my academy at [learndataengineering.com](https://learndataengineering.com), where I teach you how to become a data engineer or how to use data engineering in your job.
 >
-> **[0:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=29)** If you want to learn more here on LinkedIn Learning, check out my Creating a Data Project with Neo4j course.
+> **[0:29](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=29)** If you want to learn more here on LinkedIn Learning, check out my Creating a Data Project with [[Neo4j]] course.
 >
 > **[0:36](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980&t=36)** Otherwise, have a really great day and all the best to you.
 >
@@ -2575,7 +2549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[LinkedIn]] (2), [[Data Engineering]] (2), [[Engineering]] (1), [[Neo4j]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Engineering]] (2), [[Neo4j]] (1)
 > **URLs:** [learndataengineering.com](https://learndataengineering.com) (1)
 > **Speakers:** - alright (1)
 

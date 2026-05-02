@@ -112,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stand apart as a change practitioner
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
+#### [Stand apart as a change practitioner](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,11 +138,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Speakers:** - think (1)
 
-#### Why change enablement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980)
+#### [Why change enablement?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980&t=116)** Minor changes need only the change manager's approval.
 >
-> **[2:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980&t=120)** Emergency changes require swift action through a separate workflow.
+> **[2:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980&t=120)** Emergency changes require [[Swift (Programming Language)|swift]] action through a separate workflow.
 >
 > **[2:04](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/why-change-enablement?u=76281980&t=124)** The key to good change enablement is to keep just enough eyeballs on each type of change to make good decisions.
 >
@@ -221,14 +218,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Swift (Programming Language)|Swift]] (1), data (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cab (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you'll learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980)
+#### [What you'll learn](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980&t=12)** So at the end of the course, I'll cover where to go and what to do to continue your change enablement journey.
 >
-> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980&t=19)** ITIL mentions these seven techniques but doesn't show you how to apply them.
+> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980&t=19)** [[ITIL]] mentions these seven techniques but doesn't show you how to apply them.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-you-ll-learn?u=76281980&t=23)** This course fills the gap.
 >
@@ -306,15 +302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (1), business (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Env Vars:** cab (2), itil (1), rfc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Documentation:** rfc (1)
 > **Speakers:** - [instructor] (1)
 
-#### How you'll learn it
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/how-you-ll-learn-it?u=76281980)
+#### [How you'll learn it](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/how-you-ll-learn-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,7 +377,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [presenter] (1)
 
@@ -391,8 +385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a request for change, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
+#### [What is a request for change, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,25 +411,24 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980&t=46)** But with them, teams assess risks, plan for impacts, and schedule wisely.
 >
-> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980&t=52)** RFCs bring accountability, transparency, and stability, so changes happen for the better, not the worse.
+> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980&t=52)** RFCs bring [[Accountability]], transparency, and stability, so changes happen for the better, not the worse.
 >
 > **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980&t=58)** Because in IT, it's not just about making changes, it's about making the right changes the right way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Security]] (1), teams (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Env Vars:** rfc (1)
 > **Documentation:** rfc (1)
 > **Speakers:** - a (1)
 
-#### Where and when to use a request for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980)
+#### [Where and when to use a request for change](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980&t=0)** - [Narrator] Before updating critical systems, an RFC helps you ensure compatibility, risk assessment, and rollback plans are in place.
 >
-> **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980&t=9)** Operating systems, databases and enterprise apps need thorough evaluation before deployment.
+> **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980&t=9)** Operating systems, [[Databases]] and enterprise apps need thorough evaluation before deployment.
 >
 > **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-request-for-change?u=76281980&t=15)** Without an RFC, your major system upgrade might turn into a major disaster.
 >
@@ -484,13 +476,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (2), cloud (2), [[Databases]] (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** rfc (10)
 > **Documentation:** rfc (10)
 > **Speakers:** - [narrator] (1)
 
-#### Request for change steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-steps?u=76281980)
+#### [Request for change steps](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +599,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), next (1)
 > **Env Vars:** rfc (7), cab (4)
 > **Documentation:** rfc (7)
 > **CLI Commands:** make (2)
@@ -616,8 +606,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Request for change example
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980)
+#### [Request for change example](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=7)** Priya, an IT service owner at NexaAI Colab, notices employees struggling with file sharing in the company's collaboration tool.
 >
-> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=15)** She proposes the change to improve integration with cloud storage.
+> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=15)** She proposes the change to improve integration with [[Cloud Storage]].
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=20)** Alex, the change manager, knows this could impact security and workflows.
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=224)** What works, what didn't, lessons learned.
 >
-> **[3:47](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=227)** Priya notes improvements in user experience.
+> **[3:47](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=227)** Priya notes improvements in [[User Experience (UX)|user experience]].
 >
 > **[3:50](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/request-for-change-example?u=76281980&t=230)** This isn't just paperwork.
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), business (2), cloud (1), management (1), teams (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rfc (8), cab (3)
 > **Documentation:** rfc (8)
 > **CLI Commands:** make (2)
@@ -754,8 +743,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Request for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-request-for-change?u=76281980)
+#### [You try it: Request for change](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-request-for-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,8 +769,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Request for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-request-for-change?u=76281980)
+#### [Review it: Request for change](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-request-for-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +835,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (2), game (1)
 > **Env Vars:** rfc (5), cab (1)
 > **Documentation:** rfc (5)
 > **CLI Commands:** make (2), find (1)
@@ -860,8 +846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a change proposal and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
+#### [What is a change proposal and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980&t=2)** A change proposal is for the big ones, major and significant system overhauls, new services and upgrades.
 >
-> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980&t=10)** It is a business case that includes cost, risk, and impact assessments that are required for good decision-making.
+> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980&t=10)** It is a business case that includes cost, risk, and impact assessments that are required for good [[Decision-Making]].
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980&t=17)** Why use change proposals?
 >
@@ -893,13 +878,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Decision-Making]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - not (1)
 
-#### Where and when to use change proposals
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980)
+#### [Where and when to use change proposals](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=18)** A proposal ensures leadership signs off on budget, timeline, and scope before execution.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=25)** Big IT moves like cloud migrations, AI adoption, or cybersecurity overhauls, they require alignment with business strategy.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=25)** Big IT moves like cloud migrations, AI adoption, or [[Cybersecurity]] overhauls, they require alignment with business strategy.
 >
 > **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=35)** That's where a change proposal comes in.
 >
@@ -921,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=51)** When laws, industry regulations, or security mandates change, IT must adapt.
 >
-> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=56)** For example, GDPR Compliance changes may impact data retention, encryption, and user privacy, all requiring careful planning.
+> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=56)** For example, GDPR Compliance changes may impact data retention, encryption, and user [[Privacy]], all requiring careful planning.
 >
 > **[1:06](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=66)** Such things are major or significant changes, and require a change proposal to clarify what must be done, outline non-compliance risks, and specify the investments needed to make the change.
 >
@@ -931,13 +915,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=95)** Because it includes a thorough cost benefit analysis, risk assessment, and rollback planning that help reduce disruptions in unexpected costs.
 >
-> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=106)** Altering IT governance, security policies, or DevOps workflows.
+> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=106)** Altering [[IT Governance]], security policies, or [[DevOps]] workflows.
 >
 > **[1:50](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=110)** A change proposal helps align teams, prevent pushback and addresses operational impacts.
 >
 > **[1:57](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=117)** Say you're adopting zero trust security, you can use a change proposal to explain why, how, and what resources are needed to ensure adoption and compliance.
 >
-> **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=128)** Thinking of deploying new technologies such as AI driven automation, IoT, or a new collaboration suite, a change proposal helps explain the ROI, integration complexity and training needs.
+> **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=128)** Thinking of deploying new technologies such as AI driven automation, [[IoT]], or a new collaboration suite, a change proposal helps explain the ROI, integration complexity and training needs.
 >
 > **[2:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-proposals?u=76281980&t=140)** Without one, your decision makers might adopt tech that doesn't scale or integrate well, leading to wasted investment and frustration.
 >
@@ -949,14 +933,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), business (2), leadership (2), ai (2), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Privacy]] (1), [[IT Governance]] (1), [[DevOps]] (1), [[IoT]] (1)
 > **Env Vars:** erp (1), crm (1), gdpr (1), roi (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps to change proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980)
+#### [Steps to change proposal](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=70)** Clear categorization ensures the change proposal gets the right level of assessment and approval.
 >
-> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=76)** The change manager and the IT governance team conduct a first-pass review.
+> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=76)** The change manager and the [[IT Governance]] team conduct a first-pass review.
 >
 > **[1:21](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=81)** They check for alignment with business goals, feasibility, and completeness.
 >
@@ -1012,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=158)** Major changes have major costs, risks, and impacts, and require business approval.
 >
-> **[2:43](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=163)** Business leadership considers ROI, strategic fit, funding, and risk versus risk appetite.
+> **[2:43](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=163)** [[Business Leadership]] considers ROI, strategic fit, funding, and risk versus risk appetite.
 >
 > **[2:49](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=169)** A poorly justified proposal stalls here, and a well-justified one moves forward.
 >
@@ -1026,7 +1009,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=204)** Approved proposals then go to the change manager for scheduling.
 >
-> **[3:27](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=207)** The change manager schedules the change to avoid conflicts with other changes and to align the timing of the change with business cycles, maintenance windows, and dependency roadmaps.
+> **[3:27](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=207)** The change manager schedules the change to avoid conflicts with other changes and to align the timing of the change with business cycles, maintenance [[Windows]], and dependency roadmaps.
 >
 > **[3:37](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-to-change-proposal?u=76281980&t=217)** The change manager often consults with others to arrive at the right timing and always notifies affected teams, executives, and support staff to ensure readiness.
 >
@@ -1054,14 +1037,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), teams (3), leadership (3), [[IT Governance]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[IT Governance]] (2), [[Business Leadership]] (1), [[Windows]] (1)
 > **Env Vars:** cab (3), roi (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Example of a change proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980)
+#### [Example of a change proposal](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1073,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=100)** After Priya revises and resubmits the proposal, it passes to Jordan to vet her initial cost, risk, and impact assessment.
 >
-> **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=108)** Jordan gathers input from IT security, networking, and user experience teams.
+> **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=108)** Jordan gathers input from IT security, networking, and [[User Experience (UX)|user experience]] teams.
 >
 > **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=114)** They assess risks like downtime, security concerns, and user adoption challenges, compiling a risk matrix for leadership.
 >
@@ -1119,7 +1101,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=201)** Priya gathers feedback from pilot users.
 >
-> **[3:23](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=203)** The team reviews performance metrics and resolves minor unexpected issues.
+> **[3:23](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=203)** The team reviews [[Performance Metrics]] and resolves minor unexpected issues.
 >
 > **[3:28](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-proposal?u=76281980&t=208)** The change authority approves full deployment, and the team carries it out.
 >
@@ -1135,12 +1117,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), management (2), [[Performance Metrics]] (2), traffic (1), business (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** roi (1), cab (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Change proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-proposal?u=76281980)
+#### [You try it: Change proposal](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,11 +1157,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-proposal?u=76281980)
+#### [Review it: Change proposal](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1239,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), teams (3), business (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1270,8 +1248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is change evaluation and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
+#### [What is change evaluation and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,12 +1280,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), data (1), next (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - every (1)
 
-#### Where and when to use change evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980)
+#### [Where and when to use change evaluation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980&t=9)** Were there any unexpected disruptions due to unforeseen or unmitigated risks?
 >
-> **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980&t=14)** Use it as a chance to review performance metrics, user feedback, and system stability to confirm success or identify issues that need fixing for this change or the next one.
+> **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980&t=14)** Use it as a chance to review [[Performance Metrics]], user feedback, and system stability to confirm success or identify issues that need fixing for this change or the next one.
 >
 > **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-evaluation?u=76281980&t=25)** A small-scale rollout might work well, but will it hold up at full scale?
 >
@@ -1374,12 +1349,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Performance Metrics]] (1), business (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps in change evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980)
+#### [Steps in change evaluation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,7 +1363,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=37)** Typical factors include expected versus actual outcomes; business, technical, security, and compliance criteria; consideration of stakeholder and user impact; lessons learned; system performance; and user adoption.
 >
-> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=52)** The change manager oversees data collection, ensuring feedback is gathered from relevant sources.
+> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=52)** The change manager oversees [[Data Collection]], ensuring feedback is gathered from relevant sources.
 >
 > **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=58)** If done after the fact, implementers provide technical data on change performance and report issues seen during implementation.
 >
@@ -1411,7 +1385,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=113)** Did or will the change introduce new vulnerabilities or policy violations?
 >
-> **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=118)** Even small process changes can create compliance gaps, so you should involve cybersecurity and legal teams here.
+> **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=118)** Even small process changes can create compliance gaps, so you should involve [[Cybersecurity]] and legal teams here.
 >
 > **[2:05](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-evaluation?u=76281980&t=125)** In this step, you evaluate risks and impacts in all four dimensions.
 >
@@ -1461,20 +1435,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), data (5), business (3), [[Security]] (2), leadership (2)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cab (1)
 > **Speakers:** - [presenter] (1)
 
-#### Example of change evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980)
+#### [Example of change evaluation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=0)** - [Instructor] Now that you've seen the steps to change evaluation, let's explore a real-world example to reinforce what you've learned.
 >
-> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=7)** A major update to NexAEI Colab collaboration platform was supposed to improve real-time document collaboration, but instead it broke file syncing for remote users.
+> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=7)** A major update to NexAEI Colab collaboration platform was supposed to improve [[Real-Time]] document collaboration, but instead it broke file syncing for remote users.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=17)** Now the IT team must conduct a change evaluation.
 >
@@ -1488,9 +1461,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=42)** Did it introduce new risks or users impacted?
 >
-> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=46)** She consults the original change request service level agreements and IT governance policies.
+> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=46)** She consults the original change request service level agreements and [[IT Governance]] policies.
 >
-> **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=51)** Alex ensures that they include performance metrics, user complaints, and system logs in their assessment.
+> **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=51)** Alex ensures that they include [[Performance Metrics]], user complaints, and system logs in their assessment.
 >
 > **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=58)** After analyzing the data, the team agrees to focus on file syncing, uptime and user accessibility.
 >
@@ -1518,7 +1491,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=118)** Did the failure expose vulnerabilities?
 >
-> **[2:01](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=121)** They confirmed that no security breach occurred, although some data integrity issues surfaced due to desynchronized files.
+> **[2:01](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=121)** They confirmed that no security breach occurred, although some [[Data Integrity]] issues surfaced due to desynchronized files.
 >
 > **[2:10](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-evaluation?u=76281980&t=130)** Priya schedules a review meeting with IT, security, and business leaders.
 >
@@ -1560,7 +1533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Security]] (3), data (2), business (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[IT Governance]] (1), [[Performance Metrics]] (1), [[Data Integrity]] (1)
 > **Env Vars:** cab (4), api (3), sla (1)
 > **CLI Commands:** find (1)
 > **Tools:** colab (1)
@@ -1568,8 +1541,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Change evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-evaluation?u=76281980)
+#### [You try it: Change evaluation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1595,11 +1567,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980)
+#### [Review it: Change evaluation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980&t=13)** What was easy?
 >
-> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980&t=15)** Many teams struggle with data collection but find stakeholder input easy.
+> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980&t=15)** Many teams struggle with [[Data Collection]] but find stakeholder input easy.
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-evaluation?u=76281980&t=20)** Was that true for your team?
 >
@@ -1661,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), data (1), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
@@ -1671,8 +1641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a change advisory board and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
+#### [What is a change advisory board and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,14 +1667,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1)
 > **Env Vars:** cab (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Where and when to use a change advisory board
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-advisory-board?u=76281980)
+#### [Where and when to use a change advisory board](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-advisory-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,13 +1714,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), business (2), application (1), teams (1), cloud (1)
 > **Env Vars:** cab (11), erp (1), cabs (1), hipaa (1), gdpr (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Steps in change advisory board
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-advisory-board?u=76281980)
+#### [Steps in change advisory board](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-advisory-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1827,7 +1792,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Security]] (7), teams (6)
 > **Env Vars:** cab (11)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -1835,8 +1799,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example of change advisory board
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980)
+#### [Example of change advisory board](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,7 +1863,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980&t=189)** Alex and the project lead oversee the implementation, coordinating effort with Laura from security and Maria from the business team.
 >
-> **[3:16](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980&t=196)** Sarah keeps track of the progress and monitors to ensure the change isn't disrupting business operations.
+> **[3:16](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980&t=196)** Sarah keeps track of the progress and monitors to ensure the change isn't disrupting [[Business Operations]].
 >
 > **[3:24](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-advisory-board?u=76281980&t=204)** After the upgrade, Sarah leads the postmortem with Alex and the technical team.
 >
@@ -1918,13 +1881,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), business (9), management (2), next (1), teams (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Env Vars:** cab (6)
 > **Documentation:** the documentation (2)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Change advisory board
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980)
+#### [You try it: Change advisory board](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,18 +1902,17 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980&t=22)** With the CAB Steps in front of you, try them with your team.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980&t=25)** Gather the right people, walk through the process, and see how it improves decision-making, risk management and chain success.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980&t=25)** Gather the right people, walk through the process, and see how it improves [[Decision-Making]], risk management and chain success.
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-advisory-board?u=76281980&t=32)** A great CAB isn't just about approvals, but collaboration, foresight, and control, so take what you've learned and try it with your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), teams (1), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Env Vars:** cab (3)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change advisory board
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980)
+#### [Review it: Change advisory board](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,7 +1982,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980&t=83)** Strong CABs rely on clear criteria, structured discussions, and informed risk assessments.
 >
-> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980&t=88)** Keep refining, documenting lessons, and improving decision-making every time.
+> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980&t=88)** Keep refining, documenting lessons, and improving [[Decision-Making]] every time.
 >
 > **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-advisory-board?u=76281980&t=94)** Now for the big question, will you adopt the CAB process?
 >
@@ -2043,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Decision-Making]] (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Env Vars:** cab (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -2054,8 +2015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is change scheduling and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
+#### [What is change scheduling and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,14 +2037,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - here (1)
 
-#### Where and when  to use change scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980)
+#### [Where and when  to use change scheduling](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,7 +2084,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980&t=105)** Use change scheduling when aligning changes with governance and compliance requirements, that's critical.
 >
-> **[1:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980&t=111)** Some changes may need to adhere to regulatory windows or audits.
+> **[1:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980&t=111)** Some changes may need to adhere to regulatory [[Windows]] or audits.
 >
 > **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-change-scheduling?u=76281980&t=115)** Consider these requirements early in the planning phase to ensure compliance and avoid delays or setbacks related to non-compliance.
 >
@@ -2136,12 +2094,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), teams (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps in change scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980)
+#### [Steps in change scheduling](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,7 +2156,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980&t=159)** Plan changes when the likelihood of service disruption is minimal, such as during periods of lower activity or planned downtime.
 >
-> **[2:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980&t=166)** Schedule changes at these times to minimize the impact on business operations.
+> **[2:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980&t=166)** Schedule changes at these times to minimize the impact on [[Business Operations]].
 >
 > **[2:51](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-scheduling?u=76281980&t=171)** For example, you might schedule software updates after working hours when systems have lower demand placed on them.
 >
@@ -2235,13 +2192,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Security]] (3), next (1), data (1), teams (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Analogies:** for example (9), such as (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example of change scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980)
+#### [Example of change scheduling](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,7 +2213,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=37)** Alex, the operations lead, identifies requirements in support of operational workflows.
 >
-> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=44)** Sarah, the user experience lead, highlights usability needs.
+> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=44)** Sarah, the [[User Experience (UX)|user experience]] lead, highlights usability needs.
 >
 > **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=48)** Together, they document key requirements to align technical and business priorities.
 >
@@ -2279,7 +2235,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=103)** Sharon organizes a stakeholder meeting to get IT, business team, and leadership input.
 >
-> **[1:49](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=109)** Alex confirms the timeline with business leadership while Sarah checks in with training teams.
+> **[1:49](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=109)** Alex confirms the timeline with [[Business Leadership]] while Sarah checks in with training teams.
 >
 > **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-scheduling?u=76281980&t=115)** Business stakeholders flag potential scheduling conflicts, and the team addresses them during planning.
 >
@@ -2331,13 +2287,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), teams (3), leadership (3), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Business Leadership]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### You try it: Change scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-scheduling?u=76281980)
+#### [You try it: Change scheduling](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,11 +2314,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980)
+#### [Review it: Change scheduling](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2387,7 +2340,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=36)** Now, consider how you worked together.
 >
-> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=38)** Where did your team excel, and where did things stall?
+> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=38)** Where did your team [[Microsoft Excel|excel]], and where did things stall?
 >
 > **[0:42](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=42)** Strong coordination speeds up scheduling, while unclear ownership slows it down.
 >
@@ -2407,7 +2360,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=74)** Now that you've tried change scheduling, will you make it a habit?
 >
-> **[1:18](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=78)** Many teams build it into their improvement workflows to reduce delays and increase accountability.
+> **[1:18](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=78)** Many teams build it into their improvement workflows to reduce delays and increase [[Accountability]].
 >
 > **[1:23](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-scheduling?u=76281980&t=83)** What's your next step?
 >
@@ -2423,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), teams (2), hit (1), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Accountability]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2433,8 +2386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is change communication and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
+#### [What is change communication and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,8 +2422,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - you (1)
 
-#### Where and whe to use change communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980)
+#### [Where and whe to use change communication](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,7 +2440,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980&t=35)** Addressing concerns early helps design solutions that work for everyone.
 >
-> **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980&t=41)** Be on site or readily available during go-live to address real-time issues, answer questions, and adjust workflows if needed.
+> **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980&t=41)** Be on site or readily available during go-live to address [[Real-Time]] issues, answer questions, and adjust workflows if needed.
 >
 > **[0:49](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-whe-to-use-change-communication?u=76281980&t=49)** Engaging with users and support teams builds trust and speeds up adoption and issue resolution.
 >
@@ -2513,13 +2464,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), business (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in change communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980)
+#### [Steps in change communication](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2575,7 +2525,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980&t=118)** Not everyone reads emails.
 >
-> **[2:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980&t=120)** Use a mix of channels, meetings, newsletters, slack updates, video demos, and even town halls.
+> **[2:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980&t=120)** Use a mix of channels, meetings, [[Newsletters]], [[Slack]] updates, video demos, and even town halls.
 >
 > **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-change-communication?u=76281980&t=126)** Learn the channels your stakeholders use and prefer and interact with them on those channels.
 >
@@ -2643,14 +2593,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), business (1), [[Security]] (1), [[Newsletters]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[Slack]] (1)
 > **Analogies:** for example (4)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of change communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980)
+#### [Example of change communication](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,7 +2631,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980&t=85)** She emphasizes the value it brings to each team, making them feel more invested.
 >
-> **[1:31](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980&t=91)** Omar, the internal communications lead, spreads the word about the upcoming changes through email, video updates, and team chat channels.
+> **[1:31](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980&t=91)** Omar, the internal communications lead, spreads the [[Microsoft Word|word]] about the upcoming changes through email, video updates, and team chat channels.
 >
 > **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-change-communication?u=76281980&t=99)** He knows not everyone absorbs information in the same way, so he uses a variety of channels to reach people where they are.
 >
@@ -2734,14 +2683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Security]] (3), hr (2), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** colab (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Change communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-communication?u=76281980)
+#### [You try it: Change communication](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,8 +2719,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-communication?u=76281980)
+#### [Review it: Change communication](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,7 +2793,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2856,8 +2802,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is change implementation and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
+#### [What is change implementation and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2881,11 +2826,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Speakers:** - change (1)
 
-#### Where and when to use a change implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980)
+#### [Where and when to use a change implementation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2903,7 +2846,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=41)** A structured process is your first defense against these risks.
 >
-> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=46)** When deploying a new enterprise software solution, a rigorous change implementation ensures it's integrated into existing systems without disruptions.
+> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=46)** When deploying a new [[Enterprise Software]] solution, a rigorous change implementation ensures it's integrated into existing systems without disruptions.
 >
 > **[0:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=54)** You can avoid integration failures or user frustration by thoroughly testing all workflows before going live.
 >
@@ -2915,7 +2858,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=80)** Rigorous planning reduces the likelihood of unexpected service outages or compatibility issues.
 >
-> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=86)** When implementing changes to meeting regulatory compliance requirements, such as GDPR updates, a rigorous approach ensures the accuracy and completeness of the changes.
+> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=86)** When implementing changes to meeting [[Regulatory Compliance]] requirements, such as GDPR updates, a rigorous approach ensures the accuracy and completeness of the changes.
 >
 > **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=95)** Non-compliance can lead to legal repercussions or fines so thoroughly test and validate every implementation aspect before full deployment.
 >
@@ -2925,7 +2868,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=119)** Use a detailed approach to testing and integration when merging IT infrastructures and standardizing systems across teams.
 >
-> **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=126)** Doing so will help ensure that business operations continue uninterrupted during the transition.
+> **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=126)** Doing so will help ensure that [[Business Operations]] continue uninterrupted during the transition.
 >
 > **[2:12](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/where-and-when-to-use-a-change-implementation?u=76281980&t=132)** When overhauling a core system, such as a CRM or ERP system, use a rigorous change implementation approach to ensure success.
 >
@@ -2935,13 +2878,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), teams (2), [[Enterprise Software]] (1), [[Regulatory Compliance]] (1), business (1)
+> **Frameworks & Libraries:** [[Enterprise Software]] (1), [[Regulatory Compliance]] (1), [[Business Operations]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** gdpr (1), crm (1), erp (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps in a change implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980)
+#### [Steps in a change implementation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2963,7 +2905,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=50)** What systems, teams, or workflows might be affected?
 >
-> **[0:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=54)** Consider business continuity, user experience, and compliance requirements.
+> **[0:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=54)** Consider business continuity, [[User Experience (UX)|user experience]], and compliance requirements.
 >
 > **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=58)** Engage key stakeholders early to uncover hidden dependencies.
 >
@@ -3001,7 +2943,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=137)** Make sure the infrastructure is ready before applying the change.
 >
-> **[2:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=140)** Validate hardware, software, and network requirements.
+> **[2:20](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=140)** Validate [[Hardware]], software, and network requirements.
 >
 > **[2:24](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=144)** Ensure all dependencies, like integrations, APIs, and security controls, are correctly configured.
 >
@@ -3031,7 +2973,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=202)** Are users experiencing problems?
 >
-> **[3:24](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=204)** Be prepared for real-time troubleshooting.
+> **[3:24](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=204)** Be prepared for [[Real-Time]] troubleshooting.
 >
 > **[3:26](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/steps-in-a-change-implementation?u=76281980&t=206)** A successful implementation isn't just about making a change.
 >
@@ -3055,13 +2997,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), teams (4), business (3), [[User Experience (UX)|User experience]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Hardware]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example of a change implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980)
+#### [Example of a change implementation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3079,7 +3020,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=32)** If the team gets this right, NexAEI Colab stays ahead.
 >
-> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=36)** Sharon, NexAEI Colab's IT Strategy lead, sets the goal.
+> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=36)** Sharon, NexAEI Colab's [[IT Strategy]] lead, sets the goal.
 >
 > **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=41)** Upgrade the Collaboration Service for better speed, security and integration.
 >
@@ -3147,7 +3088,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=186)** Alex, the technical lead, he watches for unexpected failures.
 >
-> **[3:11](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=191)** The team employs real-time monitoring to ensure they catch issues before they escalate.
+> **[3:11](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=191)** The team employs [[Real-Time]] monitoring to ensure they catch issues before they escalate.
 >
 > **[3:16](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/example-of-a-change-implementation?u=76281980&t=196)** David, the communication specialist, he collects user feedback.
 >
@@ -3169,13 +3110,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[IT Strategy]] (4), business (2), teams (1), data (1)
+> **Frameworks & Libraries:** [[IT Strategy]] (4), [[Real-Time]] (1)
 > **Tools:** colab (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### You try it: Change implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-implementation?u=76281980)
+#### [You try it: Change implementation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/you-try-it-change-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3195,11 +3135,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Change implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980)
+#### [Review it: Change implementation](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3223,7 +3161,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980&t=28)** Securing buy-in, not always.
 >
-> **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980&t=31)** Many find testing straightforward, but struggle with stakeholder engagement.
+> **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980&t=31)** Many find testing straightforward, but struggle with [[Stakeholder Engagement]].
 >
 > **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/review-it-change-implementation?u=76281980&t=35)** If something was difficult, ask yourself why.
 >
@@ -3277,7 +3215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Stakeholder Engagement]] (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -3289,8 +3227,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further your journey into change enablement
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)
+#### [Further your journey into change enablement](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3298,7 +3235,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=3)** Now, take a moment to consider some of the best resources for continuing your journey and extending your knowledge.
 >
-> **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=9)** At [axelos.com](https://axelos.com), dive into the official ITIL guide for managing requests for changes and learn how an RFC integrates with service management.
+> **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=9)** At [axelos.com](https://axelos.com), dive into the official [[ITIL]] guide for managing requests for changes and learn how an RFC integrates with service management.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=17)** Over at [projectmanager.com](https://projectmanager.com), get practical tools and templates to manage and track change requests in projects.
 >
@@ -3326,7 +3263,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=106)** Change Management Institute provides valuable insights into best practices for change communication, helping you keep stakeholders engaged.
 >
-> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=114)** Over at Atlassian, discover strategies to clarify IT changes and reduce uncertainty.
+> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=114)** Over at [[Atlassian]], discover strategies to clarify IT changes and reduce uncertainty.
 >
 > **[2:00](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=120)** [Projectmanager.com](https://Projectmanager.com) offers actionable tips for developing a communication strategy that keeps everyone aligned.
 >
@@ -3354,7 +3291,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=174)** Consider your role, the people you influence, and the outcomes you drive for.
 >
-> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=179)** For deeper learning, check out these LinkedIn Learning Courses.
+> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=179)** For deeper learning, check out these [[LinkedIn]] Learning Courses.
 >
 > **[3:03](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980&t=183)** And if you'd like to continue the conversation, connect with me on LinkedIn.
 >
@@ -3362,7 +3299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (5), business (3), management (2), [[LinkedIn]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (5), [[LinkedIn]] (2), [[Atlassian]] (1)
 > **Env Vars:** itil (5), rfc (1), bmc (1), cab (1)
 > **URLs:** [projectmanager.com](https://projectmanager.com) (3), [axelos.com](https://axelos.com) (1), [servicemanagement.com](https://servicemanagement.com) (1), [smartsheet.com](https://smartsheet.com) (1)
 > **CLI Commands:** find (3)

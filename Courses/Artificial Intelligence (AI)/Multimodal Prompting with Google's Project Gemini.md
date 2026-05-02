@@ -69,18 +69,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Project Gemini is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980)
+#### [Why Project Gemini is important](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=0)** - Gemini is an AI platform from Google that helps shift the focus from traditional text prompting to a multimodal approach, which means adding image, voice, and other inputs to help improve your results.
+> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=0)** - [[Gemini]] is an AI platform from [[Google]] that helps shift the focus from traditional text prompting to a multimodal approach, which means adding image, voice, and other inputs to help improve your results.
 >
 > **[0:12](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=12)** Although multimodality has been available in other platforms, Gemini has one significant advantage, the access to Google's infrastructure, devices, and services.
 >
 > **[0:22](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=22)** The quality of models depends on the data that a company trains to model with.
 >
-> **[0:27](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=27)** It's going to be hard to be Google connected to user data from YouTube, Android, email, and more, especially when they can offer aggressive pricing that comes from scale.
+> **[0:27](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=27)** It's going to be hard to be Google connected to user data from YouTube, [[Android]], email, and more, especially when they can offer aggressive pricing that comes from scale.
 >
 > **[0:36](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980&t=36)** Now, if you're thinking about where to build your next app, you should pay attention to what Google is doing in this space.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Gemini]] (2), ai (2), data (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Gemini]] (2), [[Android]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - gemini (1)
 
@@ -97,18 +96,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is multimodal prompting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980)
+#### [What is multimodal prompting?](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=0)** - The big change with Gemini is that it can treat different modalities as inputs.
+> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=0)** - The big change with [[Gemini]] is that it can treat different modalities as inputs.
 >
 > **[0:05](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=5)** That can include text, audio, images, code, and video.
 >
 > **[0:09](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=9)** Although not all of those modalities are currently available.
 >
-> **[0:13](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=13)** Most prompting today uses a category of AI called LLMs, or large language models.
+> **[0:13](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=13)** Most prompting today uses a category of AI called LLMs, or [[Large Language Models (LLM)|large language models]].
 >
 > **[0:19](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980&t=19)** They're trained on billions of parameters, which can understand and replicate the way humans communicate, but there's a lot of other models out there, including those focused on reproducing music, speech, images, and video, and they've gotten pretty amazing at understanding and generating content.
 >
@@ -136,17 +134,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (2), ai (1), [[Large Language Models (LLM)|Large language models]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1)
 > **Speakers:** - the (1)
 
-#### Exploring Gemini's roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980)
+#### [Exploring Gemini's roadmap](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=0)** - Gemini isn't just a model, but a whole family of models that comes in different types and with varying capabilities.
+> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=0)** - [[Gemini]] isn't just a model, but a whole family of models that comes in different types and with varying capabilities.
 >
 > **[0:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=6)** One of the things that makes Gemini unique is that it was trained from the start to process different file types simultaneously, and it can make inferences from all that information available.
 >
@@ -172,11 +169,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=75)** That sort of approach might work well when prompts have access to sensitive data that we don't want shared with the cloud.
 >
-> **[1:21](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=81)** There are also two versions of Nano, with Nano One focusing on low memory devices and access to 1.8 billion parameters, and Nano Two, which focuses on higher memory products at three and a quarter billion parameters.
+> **[1:21](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=81)** There are also two versions of Nano, with Nano One focusing on low memory devices and access to 1.8 billion parameters, and Nano Two, which focuses on higher memory [[Microsoft Products|products]] at three and a quarter billion parameters.
 >
 > **[1:34](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=94)** You can test it using the AI Core app, available under Pixel 8 Pro series of phones.
 >
-> **[1:39](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=99)** The app does simple text prompting, and for now, it can power the outer summarization in the recording app, as well as the smart reply in Google Keyboards.
+> **[1:39](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=99)** The app does simple text prompting, and for now, it can power the outer summarization in the recording app, as well as the smart reply in [[Google]] Keyboards.
 >
 > **[1:48](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=108)** The Pro model is more capable and is already running the Bard chatbot.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=116)** Currently, Bard is not running the multimodal version of Gemini, but the app does have image input and uses plugins that gives you access to things like Gmail and YouTube.
 >
-> **[2:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=126)** To check out the multimodal version of Pro, you can take a look at Google AI Studio, or run it in your Google Cloud console under Vertex AI.
+> **[2:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=126)** To check out the multimodal version of Pro, you can take a look at Google AI Studio, or run it in your [[Google Cloud Platform (GCP)|Google Cloud]] console under [[Vertex]] AI.
 >
 > **[2:14](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/exploring-gemini-s-roadmap?u=76281980&t=134)** It's also something that you can use to start building apps today.
 >
@@ -196,18 +193,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), ai (3), [[Google]] (3), data (2), power (2)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Google]] (3), [[Microsoft Products|Products]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.8 (1)
 > **Analogies:** picture (1)
 > **Speakers:** - gemini (1)
 
-#### Testing Google Gemini in Google Bard
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980)
+#### [Testing Google Gemini in Google Bard](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=0)** - Gemini is currently available to the public through Google's chatbot called Bard, which you can try for free at bard.[google.com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=0)** - [[Gemini]] is currently available to the public through [[Google]]'s chatbot called Bard, which you can try for free at bard.[google.com](https://google.com).
 >
 > **[0:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=6)** Now, the model has updated from a previous model called PaLM 2 and currently uses a fine-tuned, text-only version of Gemini Pro.
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=60)** Right now, Google can be connected to information about flights, hotels, maps, Workspace, and YouTube.
 >
-> **[1:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=66)** Workspace includes things like Google Drive and Gmail.
+> **[1:06](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=66)** Workspace includes things like [[Google Drive]] and Gmail.
 >
 > **[1:10](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/testing-google-gemini-in-google-bard?u=76281980&t=70)** I've worked on Bard before, and I can tell you that the new Bard with Gemini feels smoother and more useful than the old Bard.
 >
@@ -291,21 +287,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (4), prompt (3), chatbot (2), hit (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (4), [[Google Drive]] (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - gemini (1)
 
-#### The multimodal model in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980)
+#### [The multimodal model in action](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=0)** - Although Ultra, the version of Gemini with the most advanced features, won't be available until next year, there's a couple of places where you can find the developer options for Gemini.
+> **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=0)** - Although Ultra, the version of [[Gemini]] with the most advanced features, won't be available until next year, there's a couple of places where you can find the developer options for Gemini.
 >
-> **[0:09](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=9)** The best place is the ai.[google.dev](https://google.dev) website.
+> **[0:09](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=9)** The best place is the ai.[[[Google]].dev](https://google.dev) website.
 >
-> **[0:12](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=12)** You can see the link to Google AI Studio here and underneath, you'll find the link to Vertex AI on Google Cloud.
+> **[0:12](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=12)** You can see the link to Google AI Studio here and underneath, you'll find the link to [[Vertex]] AI on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:19](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=19)** You do have to set up accounts for both of them, and there are some charges on Google Cloud, although there is a free tier.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), hit (8), [[Google]] (7), [[Gemini]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (4)
+> **Frameworks & Libraries:** [[Google]] (7), [[Gemini]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Vertex]] (2)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -399,8 +394,7 @@ created: 2026-05-02
 > **URLs:** [google.dev](https://google.dev) (1)
 > **Speakers:** - although (1)
 
-#### Building applications with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980)
+#### [Building applications with Gemini](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=38)** Let's go ahead and add an image.
 >
-> **[0:40](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=40)** So we'll start by going through Gemini Pro and choosing this Gemini Pro Vision option.
+> **[0:40](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=40)** So we'll start by going through [[Gemini]] Pro and choosing this Gemini Pro Vision option.
 >
 > **[0:44](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=44)** And under this user's input, I'm going to add an image, and I'm going to choose this moth right here.
 >
@@ -440,9 +434,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=82)** Now I can add more and more examples to make this better, but it looks like it learned pretty much what I wanted from here.
 >
-> **[1:28](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=88)** One of the great things about Google AI Studio is that you can have it generate some sample code for you, and I can specify the language that I want to use when coding my application.
+> **[1:28](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=88)** One of the great things about [[Google]] AI Studio is that you can have it generate some sample code for you, and I can specify the language that I want to use when coding my application.
 >
-> **[1:38](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=98)** So I'm going to go to Python and you can see that there are some installation instructions at the very top.
+> **[1:38](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=98)** So I'm going to go to [[Python (Programming Language)|Python]] and you can see that there are some installation instructions at the very top.
 >
 > **[1:43](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/building-applications-with-gemini?u=76281980&t=103)** You need to make sure that your system has those installed.
 >
@@ -500,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), hit (5), [[Gemini]] (5), api (5), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Python (Programming Language)|Python]] (4), [[Google]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Env Vars:** api (5)
 > **Exercise Files:** sample code (2)

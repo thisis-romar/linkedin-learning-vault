@@ -101,16 +101,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning full-stack JavaScript development
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
+#### [Learning full-stack JavaScript development](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=0)** - [Samer Buna] Hello, Welcome to Learning Full Stack JavaScript Development with MongoDB, Node and React.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=0)** - [Samer Buna] Hello, Welcome to Learning Full Stack [[JavaScript]] Development with [[MongoDB]], Node and [[React.js|React]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=7)** My name is Samer Buna.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=8)** I'm a Software Engineer at Galoy where we create open source software for community banking with Bitcoin.
+> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=8)** I'm a Software Engineer at Galoy where we create open source software for community [[Banking]] with Bitcoin.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=15)** At Galoy, we use MongoDB, Node, and React, and we love them.
 >
@@ -158,7 +157,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=133)** On the front end, the focus will be on React, purely, without using any other React helper packages like React Router or Redux.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=140)** It's going to be just React to build a user interface to represent the API data, manage application state, handle events, and perform side effects, and render the application as HTML from the server.
+> **[2:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=140)** It's going to be just React to build a user interface to represent the API data, manage application state, handle events, and perform side effects, and render the application as [[HTML]] from the server.
 >
 > **[2:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=153)** We'll also use the native browser dom API in a few places as well to implement app navigation and handle browser's history.
 >
@@ -174,7 +173,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=189)** If you know the basics of React already, you might want to skip all the way to chapter three.
 >
-> **[3:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=194)** You can check out the Git branch for it and start from there.
+> **[3:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=194)** You can check out the [[Git]] branch for it and start from there.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=197)** The project is tracked in this Git repo, and I created a branch for every video and every chapter, and there are these chapter final branches that you can start a chapter with.
 >
@@ -188,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=227)** Chapter three is where things start to become serious.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=231)** That's where we're going to create API endpoints and make them fetch data from MongoDB, and it's also where we start to make React use these API endpoints and a bit of server-side rendering logic as well.
+> **[3:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=231)** That's where we're going to create API endpoints and make them [[Fetch]] data from MongoDB, and it's also where we start to make React use these API endpoints and a bit of server-side rendering logic as well.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=244)** Be prepared for an increasing level of difficulty.
 >
@@ -206,13 +205,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=294)** I'll try to be not too slow and not too fast, but remember that you can always control the play speed, pause, skip and replay when needed.
 >
-> **[5:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=301)** You're also welcome to ask questions in the jsComplete Support Slack channel.
+> **[5:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=301)** You're also welcome to ask questions in the jsComplete Support [[Slack]] channel.
 >
 > **[5:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980&t=306)** You can get an invite for that at [jscomplete.com/help](https://jscomplete.com/help).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), [[MongoDB]] (7), node (6), data (6), application (5)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[MongoDB]] (7), [[JavaScript]] (2), [[HTML]] (2), [[Git]] (2)
 > **CLI Commands:** node (6), make (6), git (2)
 > **Env Vars:** api (5), html (2), css (1), jsx (1)
 > **Definitions:** is a  (2)
@@ -226,22 +225,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project repo and NPM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
+#### [Project repo and NPM](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=0)** - [Instructor] Our first step is to set up the development environment for the project.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=4)** You need Node.js.
+> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=4)** You need [[Node.js]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=5)** You can download it from Node.js org for your operating system or if you are on Mac, you can use Homebrew.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=13)** By the way, I'm recording this course on a Mac machine and some of the commands I'll be using might not be available on a Windows machine.
+> **[0:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=13)** By the way, I'm recording this course on a Mac machine and some of the commands I'll be using might not be available on a [[Windows]] machine.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=20)** I apologize if you're on Windows, as you might need to look up alternatives to what I'll be using in the course.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=26)** Once you have Node installed, you should have three command line interfaces, Node itself, NPM which is Nodes package manager that will be using to manage the project's external dependencies like React and Webpac and many others.
+> **[0:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=26)** Once you have Node installed, you should have three command line interfaces, Node itself, [[npm]] which is Nodes package manager that will be using to manage the project's external dependencies like [[React.js|React]] and Webpac and many others.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=42)** NPM is the default package manager in Node.
 >
@@ -251,13 +249,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=54)** There's also NPX which can be used to execute external packages without adding them as dependencies to the project but it's also handy for executing packages that are in the project dependencies.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=68)** You'll also need git, git is a source control tool used to manage a project history and collaboration.
+> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=68)** You'll also need [[Git]], git is a source control tool used to manage a project history and collaboration.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=75)** We'll use it to clone the initial project repo and you can also use it to sync with the project progress if you need to skip ahead or back.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=82)** Git comes installed by default on most Mac and Linux machines, but if you don't have it it's easy to install either directly or through Homebrew on Mac as well.
+> **[1:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=82)** Git comes installed by default on most Mac and [[Linux]] machines, but if you don't have it it's easy to install either directly or through Homebrew on Mac as well.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=92)** With git Available Clone this course repo you can copy the repositories URL from the GitHub UI right here and use Git Clone that URL to clone the repo locally and lets CD into it and take a quick look.
+> **[1:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=92)** With git Available Clone this course repo you can copy the repositories URL from the [[GitHub]] UI right here and use Git Clone that URL to clone the repo locally and lets CD into it and take a quick look.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=112)** This repo has git branches that you can use to sync up with the code Progress.
 >
@@ -267,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=127)** Let me open up my code editor on this repo I use VS code, but you can use any editors, but if you're not using VS code, I encourage you to try it out.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=136)** It's really great for JavaScript projects because it has TypeScript integrated into it and that gives the editor a lot of power.
+> **[2:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=136)** It's really great for [[JavaScript]] projects because it has TypeScript integrated into it and that gives the editor a lot of power.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=144)** The initial state of this repo is empty.
 >
@@ -275,7 +273,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=160)** You'll see here's some configuration files Fores Lin for Docker, for prettier TS config and Web pack.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=167)** I've also included a CSS style file, which we'll use as is for the project and a script to load test data into MongoDB.
+> **[2:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=167)** I've also included a CSS style file, which we'll use as is for the project and a script to load test data into [[MongoDB]].
 >
 > **[2:57](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=177)** I'll explain all these files when it's time for us to use them.
 >
@@ -319,7 +317,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=290)** I think this is a good learning opportunity for us to talk about the packages we'll be using and what role each package plays.
 >
-> **[4:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=299)** We have an empty directory in our first step is to make it into a Node application and to do that we need to create a package.json file.
+> **[4:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=299)** We have an empty directory in our first step is to make it into a Node application and to do that we need to create a package.[[JSON]] file.
 >
 > **[5:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=308)** The easiest way to do that is to use the NPM in it command.
 >
@@ -339,13 +337,13 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=373)** As you can see, we have a TypeScript directory there.
 >
-> **[6:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=377)** Now that's the source good of TypeScript and Node is going to use that to transform JSX into vanilla JavaScript.
+> **[6:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=377)** Now that's the source good of TypeScript and Node is going to use that to transform JSX into [[Vanilla]] JavaScript.
 >
 > **[6:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=384)** The entry point for TypeScript is actually under this dot bend directory.
 >
 > **[6:28](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=388)** See this TSC file?
 >
-> **[6:31](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=391)** That's Typescripts CLI command line interface.
+> **[6:31](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=391)** That's Typescripts [[CLI]] command line interface.
 >
 > **[6:35](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980&t=395)** To invoke this executable CLI.
 >
@@ -403,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (19), node (11), [[React.js|React]] (11), [[Git]] (7), [[JavaScript]] (7)
+> **Frameworks & Libraries:** [[npm]] (19), [[React.js|React]] (11), [[Git]] (7), [[JavaScript]] (7), [[JSON]] (7)
 > **CLI Commands:** npm (19), node (13), git (7), npx (3), make (3)
 > **Env Vars:** npm (19), jsx (4), npx (3), url (2), tsc (2)
 > **Prerequisites:** install (11), configure (3), set up (1), you'll need (1)
@@ -412,14 +410,13 @@ created: 2026-05-02
 > **Definitions:** is a  (5)
 > **Exercise Files:** template (3), clone the repo (1)
 
-#### Express and TypeScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980)
+#### [Express and TypeScript](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=1)** - Let's get a bit more real and create a web server.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=4)** And for that I'm going to use Express.js which is the most popular web application framework.
+> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=4)** And for that I'm going to use [[Express.js]] which is the most popular web application framework.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=10)** It's actually a very simple wrapper for nodes actually to be built in module.
 >
@@ -445,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=58)** The .ts extension is to tell TypeScript to compile this file.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=62)** We actually don't need TypeScript in this particular file since it's not going to have any GSX but it will soon import code that will have GSX for server side rendering of our React app.
+> **[1:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=62)** We actually don't need TypeScript in this particular file since it's not going to have any GSX but it will soon import code that will have GSX for server side rendering of our [[React.js|React]] app.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=74)** In server.ts, we start by importing the express package using the line import express from express.
 >
@@ -453,7 +450,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=89)** Now we did not install the express dependency yet, but let's run this file anyway and see what happens.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=96)** To run this file, we need the TypeScript CLI that we tested with NPX and NPM scripts.
+> **[1:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=96)** To run this file, we need the TypeScript [[CLI]] that we tested with NPX and [[npm]] scripts.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=102)** So we can do something like NPX, TSC source server servers.ts.
 >
@@ -515,7 +512,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=265)** And the TypeScript configuration file is right here under the copy folder.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=270)** TS config.json.
+> **[4:30](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=270)** TS config.[[JSON]].
 >
 > **[4:31](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/express-and-typescript?u=76281980&t=271)** So I'm going to move it to the root of the project and let's take a look at it.
 >
@@ -557,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (13), [[npm]] (5), node (3), api (2), web (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[Express.js]] (1), [[React.js|React]] (1), [[CLI]] (1), [[JSON]] (1)
 > **Env Vars:** npx (7), npm (5), tsnd (5), tsc (4), api (2)
 > **CLI Commands:** npx (7), npm (5), make (3), node (3)
 > **File Paths:** server.ts (6), express.js (1), servers.ts (1), server.js (1), config.json (1)
@@ -566,8 +563,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Exercise Files:** source code (1)
 
-#### Middlewares and templating
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980)
+#### [Middlewares and templating](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,9 +593,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=65)** Note how I used info here instead of log, which is basically an alias to log, but I use this trick for the permanent print lines, that I want in the code, because I use console.log a lot for debugging, and debugging lines should not stay in the code.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=80)** So, if I accidentally left, one of those log lines in the code, I can use tools like ESLint to warn me about that, and keep the code clean of debugging lines.
+> **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=80)** So, if I accidentally left, one of those log lines in the code, I can use tools like [[ESLint]] to warn me about that, and keep the code clean of debugging lines.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=93)** So, now when we run NPM run dev server, the Express framework is going to start listening, on port 8080, but we haven't yet defined any routes, or added any HTML content.
+> **[1:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=93)** So, now when we run [[npm]] run dev server, the Express framework is going to start listening, on port 8080, but we haven't yet defined any routes, or added any [[HTML]] content.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=106)** The only thing we really have so far, is that style, that CSS file, under the copy folder in addition to that fave icon, so let's actually move these files, into the official dist directory under the project, so that we can use them in the web server right away.
 >
@@ -661,9 +657,9 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=305)** Let's make the server respond with HTML next.
 >
-> **[5:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=308)** However, instead of manually constructing an HTML string, since we're going to be injecting, our React app into the HTML eventually, we need a templating language, that allows us to avoid manually constructing strings, when the content is dynamic.
+> **[5:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=308)** However, instead of manually constructing an HTML string, since we're going to be injecting, our [[React.js|React]] app into the HTML eventually, we need a templating language, that allows us to avoid manually constructing strings, when the content is dynamic.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=324)** For that purpose, we'll use EJS, Embedded JavaScript, which is a popular templating option for Node, but it's certainly not the only one.
+> **[5:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=324)** For that purpose, we'll use EJS, Embedded [[JavaScript]], which is a popular templating option for Node, but it's certainly not the only one.
 >
 > **[5:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/middlewares-and-templating?u=76281980&t=334)** You can use alternatives like Jade or Mustache, but EJS is the simplest in my opinion.
 >
@@ -737,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), express (13), css (6), [[JavaScript]] (6), [[Debugging]] (3)
+> **Frameworks & Libraries:** [[HTML]] (15), [[JavaScript]] (6), [[npm]] (2), [[React.js|React]] (2), [[ESLint]] (1)
 > **Env Vars:** html (15), ejs (14), css (4), npm (2), api (1)
 > **CLI Commands:** make (5), npm (2), node (1), find (1)
 > **Analogies:** for example (9)
@@ -746,8 +742,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (3), configure (2), install (1)
 > **File Paths:** style.css (2), prettier.config.js (1)
 
-#### Node modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980)
+#### [Node modules](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=80)** You can by the way, inspect these modules when you run node just like that without any arguments and go into node's rebel mode.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=90)** You can type in any JavaScript here and node will execute it because node is around v8.
+> **[1:30](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=90)** You can type in any [[JavaScript]] here and node will execute it because node is around v8.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=96)** But you can also access all node modules in here.
 >
@@ -803,7 +798,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=160)** You don't need to import it or anything, but in a note script, if you need to use OS, you would need to import it here.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=168)** So import OS from OS, but you don't need to NPM install it.
+> **[2:48](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=168)** So import OS from OS, but you don't need to [[npm]] install it.
 >
 > **[2:52](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/node-modules?u=76281980&t=172)** This is available out of the box.
 >
@@ -953,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (25), [[npm]] (5), [[JavaScript]] (3), api (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[JavaScript]] (3)
 > **CLI Commands:** node (25), make (6), npm (5), find (3)
 > **Definitions:** is a  (9), is an  (2)
 > **Analogies:** for example (8), just like (3)
@@ -962,12 +957,11 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Prerequisites:** install (1), configure (1)
 
-#### MongoDB and Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980)
+#### [MongoDB and Docker](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=0)** - [Instructor] Let's now configure a MongoDB server and load some test data.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=0)** - [Instructor] Let's now configure a [[MongoDB]] server and load some test data.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=4)** You need a MongoDB server.
 >
@@ -987,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=38)** It's a simple YAML file that tells Docker that we'd like a MongoDB server image.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=44)** To run it, the command is Docker Compose up.
+> **[0:44](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=44)** To run it, the command is Docker [[Jetpack Compose|Compose]] up.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=50)** Docker Compose should be available on your machine once you install Docker desktop.
 >
@@ -1015,7 +1009,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=122)** In Compass hit connect, and I am now connected to the server which is running through Docker.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=129)** You can see here the list of default databases that came with this Docker image.
+> **[2:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=129)** You can see here the list of default [[Databases]] that came with this Docker image.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=135)** Let's use this local database for the project.
 >
@@ -1027,7 +1021,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=152)** And the default for that is just local.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=156)** To connect to a MongoDB server from Node, we need a driver library that provides a JavaScript API to connect and communicate with the database.
+> **[2:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=156)** To connect to a MongoDB server from Node, we need a driver library that provides a [[JavaScript]] API to connect and communicate with the database.
 >
 > **[2:45](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/mongodb-and-docker?u=76281980&t=165)** There are a few options here.
 >
@@ -1169,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (25), database (21), data (7), node (3), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (25), [[Jetpack Compose|Compose]] (2), [[Databases]] (1), [[JavaScript]] (1)
 > **CLI Commands:** docker (13), make (5), node (3), mongo (2)
 > **Env Vars:** uri (7), api (2), mpn (2), tsnd (2), url (2)
 > **Prerequisites:** install (4), you'll need (2), configure (1)
@@ -1178,12 +1172,11 @@ created: 2026-05-02
 > **Tools:** docker desktop (2), terminal (1)
 > **Analogies:** similar to (1)
 
-#### React and webpack
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980)
+#### [React and webpack](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=0)** - [Instructor] I think we're ready for some React.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=0)** - [Instructor] I think we're ready for some [[React.js|React]].
 >
 > **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=1)** Let's create a React component, and have the system render it.
 >
@@ -1193,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=23)** .tsx is another special TypeScript extension that signals to TypeScript that this file is going to contain some JSX.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=34)** And TypeScript will take care of transforming that JSX into vanilla JavaScript.
+> **[0:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=34)** And TypeScript will take care of transforming that JSX into [[Vanilla]] [[JavaScript]].
 >
 > **[0:40](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=40)** The React component is a simple function.
 >
@@ -1205,7 +1198,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=69)** This syntax here is JSX, it's not JavaScript.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=74)** It looks weird how we're writing HTML within a JavaScript function, but this is really not HTML, this is JSX.
+> **[1:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=74)** It looks weird how we're writing [[HTML]] within a JavaScript function, but this is really not HTML, this is JSX.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=82)** In fact, when this is transformed, it will be transformed into a React call.
 >
@@ -1221,7 +1214,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=123)** It can also render it on the server.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=125)** Both React and react-dom are production dependencies, and we need to npm-install them, React and react-dom.
+> **[2:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=125)** Both React and react-dom are production dependencies, and we need to [[npm]]-install them, React and react-dom.
 >
 > **[2:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=134)** And this is how we use them.
 >
@@ -1269,7 +1262,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=286)** To configure Webpack, we need to first install it.
 >
-> **[4:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=290)** We install webpack itself, which is the library that contains the code, and also webpack-cli, which is the command-line interface that we can use to run Webpack.
+> **[4:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=290)** We install webpack itself, which is the library that contains the code, and also webpack-[[CLI]], which is the command-line interface that we can use to run Webpack.
 >
 > **[5:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=300)** We also need one other library.
 >
@@ -1287,7 +1280,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=331)** It specifies the entry point where Webpack is going to start, is that source index, that .tsx file that we just wrote.
 >
-> **[5:39](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=339)** It will resolve all TypeScript extensions, in addition to JavaScript and JSON files.
+> **[5:39](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=339)** It will resolve all TypeScript extensions, in addition to JavaScript and [[JSON]] files.
 >
 > **[5:45](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-and-webpack?u=76281980&t=345)** And this is the simple rule that says if the file has a .tsx extension in our code, then use the TS Loader on it to transform it from TypeScript into vanilla JavaScript.
 >
@@ -1345,7 +1338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (31), dom (15), [[JavaScript]] (7), api (5), [[npm]] (4)
+> **Frameworks & Libraries:** [[React.js|React]] (31), [[JavaScript]] (7), [[npm]] (4), [[HTML]] (3), [[Vanilla]] (2)
 > **Env Vars:** jsx (6), dom (5), api (5), html (3), jss (1)
 > **CLI Commands:** npm (4), node (2), find (1)
 > **Code Identifiers:** createroot (3), getelementbyid (2), initialcontent (2)
@@ -1354,18 +1347,17 @@ created: 2026-05-02
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), just like (1)
 
-#### ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980)
+#### [ESLint](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=0)** - [Instructor] In a previous video, we installed ESLint, but we have not configured it yet.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=0)** - [Instructor] In a previous video, we installed [[ESLint]], but we have not configured it yet.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=5)** I've included an ESLint configuration file under the copy folder, and there's also a couple of ignore files.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=11)** Let's put all these files top level and talk about them.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=16)** Git uses this gitignore file to ignore files and folders in the project and not include them in Git commits.
+> **[0:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=16)** [[Git]] uses this gitignore file to ignore files and folders in the project and not include them in Git commits.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=22)** For example, Node modules should not be included when we commit this source code, which I'm going to be doing soon to have a branch for our progress so far.
 >
@@ -1375,7 +1367,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=41)** I've ignored the configuration files here as they're not TypeScript, and we're going to be using ESLint with TypeScript.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=48)** If you take a look at the eslintrc.js file, you'll notice it'll be using a TypeScript parser and two plugins for React.
+> **[0:48](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=48)** If you take a look at the eslintrc.js file, you'll notice it'll be using a TypeScript parser and two plugins for [[React.js|React]].
 >
 > **[0:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=58)** And it activates all the recommended rules.
 >
@@ -1383,7 +1375,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=70)** We'll keep things simple.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=71)** We do need to NPM install the parser here and also both plugins, esline-plugin-react, and eslint-plugin-react-hooks as well.
+> **[1:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=71)** We do need to [[npm]] install the parser here and also both plugins, esline-plugin-react, and eslint-plugin-react-hooks as well.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=85)** The recommended rules from ESLint itself and these plugins are really great.
 >
@@ -1393,7 +1385,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=101)** And the plugins here add to these capabilities for issues that are React-related.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=107)** So when you use the React Hooks API, this plugin is going to make sure that we're using things right and it will give us warnings if we're not.
+> **[1:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=107)** So when you use the [[React Hooks]] API, this plugin is going to make sure that we're using things right and it will give us warnings if we're not.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=115)** All of these dependencies are actually development dependencies.
 >
@@ -1423,11 +1415,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=178)** We are ready for a deep dive.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=180)** In the next chapter, we'll continue building the React components and start working with the data that we imported into MongoDB.
+> **[3:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/eslint?u=76281980&t=180)** In the next chapter, we'll continue building the React components and start working with the data that we imported into [[MongoDB]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (9), [[React.js|React]] (5), [[Git]] (2), [[npm]] (2), node (1)
+> **Frameworks & Libraries:** [[ESLint]] (9), [[React.js|React]] (5), [[Git]] (2), [[npm]] (2), [[React Hooks]] (1)
 > **CLI Commands:** git (2), npm (2), node (1), make (1)
 > **Best Practices:** recommended (4)
 > **Env Vars:** npm (2), api (1)
@@ -1441,12 +1433,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why React?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
+#### [Why React?](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=0)** - [Instructor] React is a JavaScript library that's entirely focused on one task, building user interfaces.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=0)** - [Instructor] [[React.js|React]] is a [[JavaScript]] library that's entirely focused on one task, building user interfaces.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=6)** It follows the Unix philosophy of doing one thing and doing it well.
 >
@@ -1468,7 +1459,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=58)** For that, React uses a programming concept known as the Virtual DOM to minimize Real DOM updates.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=65)** The big picture of this Virtual DOM concept is that every time React creates an HTML tree in a browser, it keeps a copy of that tree in memory.
+> **[1:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=65)** The big picture of this Virtual DOM concept is that every time React creates an [[HTML]] tree in a browser, it keeps a copy of that tree in memory.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980&t=74)** Then when the app state changes and things need to change in the browser, React computes the new HTML version in memory first then it compares it with the current in browser HTML since that was kept in memory too.
 >
@@ -1484,27 +1475,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (15), dom (3), [[HTML]] (3), api (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (15), [[HTML]] (3), [[JavaScript]] (1)
 > **Env Vars:** dom (3), html (3), api (2)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### JSX syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980)
+#### [JSX syntax](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=1)** - [Presenter] So far we wrote a very simple React component, and configured the system to render it.
+> **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=1)** - [Presenter] So far we wrote a very simple [[React.js|React]] component, and configured the system to render it.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=8)** Npm run dev server, and this is here, is the current state of the application.
+> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=8)** [[npm]] run dev server, and this is here, is the current state of the application.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=14)** This syntax here, and also on line 10, right here, is called JSX.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=20)** Let's talk about what else can we do with JSX.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=23)** We can nest elements, just like HTML.
+> **[0:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=23)** We can nest elements, just like [[HTML]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=26)** Let me put, Hello React, in an <h1>.
 >
@@ -1514,7 +1504,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=34)** A component can return a tree of elements.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=37)** You can also inject dynamic JavaScript in here, using the curly braces syntax {}.
+> **[0:37](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=37)** You can also inject dynamic [[JavaScript]] in here, using the curly braces syntax {}.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/jsx-syntax?u=76281980&t=42)** In here we can put any JavaScript call, and React will take the output of that call, and include it in the DOM.
 >
@@ -1628,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (6), [[JavaScript]] (4), css (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (6), [[JavaScript]] (4), [[npm]] (1)
 > **Env Vars:** jsx (7), html (6), todos (3), css (2), dom (1)
 > **Analogies:** for example (4), just like (2)
 > **Code Identifiers:** classname (3)
@@ -1637,18 +1627,17 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Speakers:** - [presenter] (1)
 
-#### Function components and props
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980)
+#### [Function components and props](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=0)** - [Narrator] React is all about components.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=0)** - [Narrator] [[React.js|React]] is all about components.
 >
 > **[0:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=2)** Structuring an app as a tree of components is valuable for many reasons.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=7)** It makes the code more readable and easier to deal with.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=9)** But it also has value beyond that in terms of design, testability, responsibility, reusability, and even data management.
+> **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=9)** But it also has value beyond that in terms of design, testability, responsibility, reusability, and even [[Data Management]].
 >
 > **[0:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=18)** There are no simple rules as to when to introduce a new component.
 >
@@ -1680,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=73)** You can't name the component 'header', for example.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=76)** Names starting with a lowercase letters are reserved for HTML elements.
+> **[1:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=76)** Names starting with a lowercase letters are reserved for [[HTML]] elements.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/function-components-and-props?u=76281980&t=80)** So capital H 'Header' is a function.
 >
@@ -1796,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (3), data (1), management (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (3), [[Data Management]] (1)
 > **File Paths:** app.tsx (3), header.tsx (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (3)
@@ -1805,16 +1794,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### State and event handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980)
+#### [State and event handlers](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=0)** - One simple way to understand the big picture of React is to think of the views react vendors in the browser as functions of data and state.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=0)** - One simple way to understand the big picture of [[React.js|React]] is to think of the views react vendors in the browser as functions of data and state.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=9)** You can think of the whole application as a big function of its data and state, but furthermore every React component is a function of some data and some state.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=19)** Literally a React component is a JavaScript function that takes data as input through its props but it's also driven by an internal state that React manages for every component and it provides an API to work with that.
+> **[0:19](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=19)** Literally a React component is a [[JavaScript]] function that takes data as input through its props but it's also driven by an internal state that React manages for every component and it provides an API to work with that.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=32)** The simplest method to manage a state element in a component is through the use state function.
 >
@@ -1862,7 +1850,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=128)** Let's make this the label of a button.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=131)** I'm going to do a button HTML element and put that counter as its text value.
+> **[2:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=131)** I'm going to do a button [[HTML]] element and put that counter as its text value.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/state-and-event-handlers?u=76281980&t=138)** When we refresh, now we have a button it doesn't do anything.
 >
@@ -1928,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (19), data (4), dom (3), [[HTML]] (2), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (19), [[HTML]] (2), [[JavaScript]] (1)
 > **Definitions:** is a  (5), is an  (1), is called (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), api (1)
@@ -1936,12 +1924,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - one (1)
 
-#### Component life-cycle and side effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980)
+#### [Component life-cycle and side effects](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=0)** - [Instructor] Every React component has a life cycle.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=0)** - [Instructor] Every [[React.js|React]] component has a life cycle.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=3)** First it gets rendered by React in memory then React mount the component into the DOM, then the component might be updated again in the DOM and it can also be removed from the DOM.
 >
@@ -1957,7 +1944,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=47)** They were introduced a few years ago as an alternative to the other method that we used before them, which is to use React class components.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=55)** And React still supports class components but using React hooks in function components is cleaner in my opinion, and I use it exclusively.
+> **[0:55](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=55)** And React still supports class components but using [[React Hooks]] in function components is cleaner in my opinion, and I use it exclusively.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=64)** I covered the class method in the old version of this course if you're interested in learning it as well, which you might need to if you'll be working with an old code base for example.
 >
@@ -1975,7 +1962,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=120)** Any integration with anything outside of React.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=123)** For example, to fetch data or call the DOM API, or collect information for analytics tools or start a timer, anything external to React, you can do in useEffect.
+> **[2:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=123)** For example, to [[Fetch]] data or call the DOM API, or collect information for analytics tools or start a timer, anything external to React, you can do in useEffect.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=135)** That's actually why it's named useEffect, it's used to introduce side effects to the component, calling a data API to fetch something as a side effect to rendering a component.
 >
@@ -2063,7 +2050,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=478)** If we need to fix this problem then we have to specify counter as part of the dependency array so that when the value of counter changes, React recreates the function and use the new value for counter within that function.
 >
-> **[8:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=493)** And because we're using EsLint, the EsLint React hook plugin is going to warn us about that.
+> **[8:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=493)** And because we're using [[ESLint]], the EsLint React hook plugin is going to warn us about that.
 >
 > **[8:19](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/component-life-cycle-and-side-effects?u=76281980&t=499)** Right there it says you're using counter in a function and it's not part of the dependency array, and that's a problem.
 >
@@ -2083,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (19), dom (6), [[Fetch]] (2), data (2), api (2)
+> **Frameworks & Libraries:** [[React.js|React]] (19), [[Fetch]] (2), [[ESLint]] (2), [[React Hooks]] (1)
 > **Code Identifiers:** useeffect (18), setinterval (5), usestate (3), intervalid (2), clearinterval (1)
 > **Analogies:** for example (5), just like (4)
 > **Env Vars:** dom (6), api (2)
@@ -2097,18 +2084,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a mock API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
+#### [Creating a mock API endpoint](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=1)** - [Instructor] We learned a few important React fundamentals in the previous chapter.
+> **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=1)** - [Instructor] We learned a few important [[React.js|React]] fundamentals in the previous chapter.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=5)** Let's now start building this app for real.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=7)** First task, let's render the list of contests here on the main page of the app.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=12)** The contest's data is in MongoDB.
+> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=12)** The contest's data is in [[MongoDB]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=15)** We need an interface to it.
 >
@@ -2192,9 +2178,9 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=233)** For example, let's send an MT array.
 >
-> **[3:57](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=237)** So the same method in Express where you can send text back to the requester, you can also send back JSON data.
+> **[3:57](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=237)** So the same method in Express where you can send text back to the requester, you can also send back [[JSON]] data.
 >
-> **[4:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=244)** Now, I made a typo here and look at the power of ESLint and TypeScript as well here, it's telling me there is a problem.
+> **[4:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=244)** Now, I made a typo here and look at the power of [[ESLint]] and TypeScript as well here, it's telling me there is a problem.
 >
 > **[4:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980&t=252)** So let's fix the typo and now we can actually test.
 >
@@ -2238,7 +2224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), api (17), [[MongoDB]] (7), express (7), [[JSON]] (4)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[JSON]] (4), [[React.js|React]] (2), [[ESLint]] (1)
 > **Env Vars:** api (8), http (6), post (2), put (2), root (2)
 > **API Endpoints:** get  (5), /api/contests (2), post  (1), put  (1), /api/contest (1)
 > **File Paths:** test-data.json (2), api-router.ts (1), server.ts (1)
@@ -2247,8 +2233,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Code Identifiers:** apirouter (1), testdata (1)
 
-#### Using an API endpoint from the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980)
+#### [Using an API endpoint from the browser](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,13 +2253,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=43)** And then in the app component we need to load this data somewhere through an HTTP call.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=51)** We can do it in the app component or we can do it in the main file where we tell React do to render an app component.
+> **[0:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=51)** We can do it in the app component or we can do it in the main file where we tell [[React.js|React]] do to render an app component.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=60)** Let me do it here.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=60)** So we need an HTTP client A client capable of doing an HTTP request to a server and giving us back data.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=69)** We can use Fetch, which is built in in the browsers.
+> **[1:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=69)** We can use [[Fetch]], which is built in in the browsers.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=73)** Or another option is Axios.
 >
@@ -2284,7 +2269,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=80)** We import Axios from Axios and this is a new dependency.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=88)** So we need to NPM install Axios and this is how we use it.
+> **[1:28](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=88)** So we need to [[npm]] install Axios and this is how we use it.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=93)** We do Axios.get the API endpoint.
 >
@@ -2292,7 +2277,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=110)** So dollar sign API server URL slash contests which is the endpoint that we just prepared.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=118)** This call here returns a JavaScript promise because it's a network call.
+> **[1:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=118)** This call here returns a [[JavaScript]] promise because it's a network call.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=122)** And there are two ways to deal with each JavaScript promise.
 >
@@ -2314,7 +2299,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=179)** This is a good practice in general to isolate sensitive configuration and not expose them to clients.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=185)** For example, exposing the MongoDB configuration variables to the client would be a bad idea.
+> **[3:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=185)** For example, exposing the [[MongoDB]] configuration variables to the client would be a bad idea.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-from-the-browser?u=76281980&t=191)** So let me delete this from here and put it in its own module.
 >
@@ -2464,7 +2449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), data (9), node (8), [[React.js|React]] (4), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (4), [[npm]] (2), [[Fetch]] (1), [[MongoDB]] (1)
 > **Env Vars:** api (14), url (4), http (4), npm (2), xml (1)
 > **CLI Commands:** node (8), npm (2), make (1)
 > **Definitions:** is a  (8), is an  (2), is called (1)
@@ -2473,14 +2458,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** for example (1)
 
-#### Rendering a list of items
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980)
+#### [Rendering a list of items](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=1)** - We created a mock API endpoint, configured express to use it and allow cross origin requests to it.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=10)** And we're fetching this mock API endpoint right here before we render the React application.
+> **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=10)** And we're fetching this mock API endpoint right here before we render the [[React.js|React]] application.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=16)** How do we use this data in React?
 >
@@ -2578,7 +2562,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=239)** Let's test, check it out.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=241)** We are rendering the list of contests already and all we had to do in React is just map it, map an array to HTML elements.
+> **[4:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=241)** We are rendering the list of contests already and all we had to do in React is just map it, map an array to [[HTML]] elements.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/rendering-a-list-of-items?u=76281980&t=250)** Now in terms of readability and responsibility, this is not ideal for many reasons.
 >
@@ -2698,7 +2682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[React.js|React]] (5), api (4), application (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (2)
 > **CLI Commands:** make (13)
 > **Env Vars:** api (4), html (1)
 > **Definitions:** is a  (3)
@@ -2706,8 +2690,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - we (1)
 
-#### React’s key for items in a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980)
+#### [React’s key for items in a list](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,7 +2698,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980&t=3)** Each child in a list should have a unique key prop.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980&t=7)** This is a React requirement.
+> **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980&t=7)** This is a [[React.js|React]] requirement.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/react-s-key-for-items-in-a-list?u=76281980&t=9)** Every time we render a list like this dynamically we need to tell React what identifies an element in the list.
 >
@@ -2829,7 +2812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (17), power (1), functional (1), generic (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17)
 > **Definitions:** is a  (6), defined as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (2)
@@ -2837,14 +2820,13 @@ created: 2026-05-02
 > **Warnings:** warning (1), note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fetching data while React is rendering
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980)
+#### [Fetching data while React is rendering](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980&t=0)** - [Narrator] To fetch data for the project so far, we used this method, fetch and then render.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980&t=0)** - [Narrator] To [[Fetch]] data for the project so far, we used this method, fetch and then render.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980&t=8)** This sequence is not ideal, making React wait on the fetch.
+> **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980&t=8)** This sequence is not ideal, making [[React.js|React]] wait on the fetch.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-while-react-is-rendering?u=76281980&t=12)** It would be better if we let React do its rendering while the data is being fetched.
 >
@@ -3030,7 +3012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[React.js|React]] (16), [[Fetch]] (12), api (5), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (16), [[Fetch]] (12)
 > **Env Vars:** api (5), dom (1), url (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5), we call this (1)
@@ -3039,12 +3021,11 @@ created: 2026-05-02
 > **File Paths:** client.ts (1)
 > **Analogies:** for example (1)
 
-#### Server-side rendering of the root path
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980)
+#### [Server-side rendering of the root path](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=0)** - [Instructor] The application is now rendering data from the API server with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=0)** - [Instructor] The application is now rendering data from the API server with [[JavaScript]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=6)** But what happens if we don't have JavaScript?
 >
@@ -3054,11 +3035,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=29)** This is what most search engines see if they request the application.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=33)** Ideally, we want the application to render from the server as seen by React so that we get the benefits of search engine optimizations and also we get a little bit of performance benefit.
+> **[0:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=33)** Ideally, we want the application to render from the server as seen by [[React.js|React]] so that we get the benefits of search engine optimizations and also we get a little bit of performance benefit.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=45)** Instead of waiting for React to warm up, render the component and then go back to the server to fetch the data, we can have an initial view ready by the server.
+> **[0:45](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=45)** Instead of waiting for React to warm up, render the component and then go back to the server to [[Fetch]] the data, we can have an initial view ready by the server.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=54)** So to do that let's go to server.ts and what we need is to modify this instead of a loading message, we can actually include the whole React application because ReactDOM is capable of taking a React application and converting it into an HTML string that we can seed the client with.
+> **[0:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=54)** So to do that let's go to server.ts and what we need is to modify this instead of a loading message, we can actually include the whole React application because ReactDOM is capable of taking a React application and converting it into an [[HTML]] string that we can seed the client with.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=76)** So let's do that.
 >
@@ -3130,7 +3111,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=287)** And we do that by looking at logs. In server logs it looks like we are getting a network error.
 >
-> **[4:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=294)** Now with the experience, you'd recognize these errors right away, but also a simple Google search can usually provide good hints. This error basically means that the server is attempting a network call and failing to resolve an http address for that call.
+> **[4:54](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=294)** Now with the experience, you'd recognize these errors right away, but also a simple [[Google]] search can usually provide good hints. This error basically means that the server is attempting a network call and failing to resolve an http address for that call.
 >
 > **[5:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-the-root-path?u=76281980&t=310)** So we have a problem around our API server URL configuration.
 >
@@ -3172,7 +3153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[React.js|React]] (11), application (10), [[Fetch]] (10), api (7)
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[Fetch]] (10), [[JavaScript]] (7), [[HTML]] (7), [[Google]] (1)
 > **Env Vars:** api (7), ejs (3), html (2), url (2), tsx (1)
 > **File Paths:** server.ts (3), render.tsx (1), index.tsx (1)
 > **Definitions:** is a  (2), basically means (1)
@@ -3181,8 +3162,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **UI Navigation:** go to (1)
 
-#### Sharing data between server and client
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980)
+#### [Sharing data between server and client](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3192,7 +3172,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=7)** In contest list, I'm going to put a debugger line here.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=12)** So every time React renders a contest list, it's going to stop for us in the browser and let's test.
+> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=12)** So every time [[React.js|React]] renders a contest list, it's going to stop for us in the browser and let's test.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=18)** The first time we hit this debugger, note how we already have the initial markup coming from the server even before React renders any components.
 >
@@ -3212,7 +3192,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=62)** It does not need to wipe it and render it again.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=65)** So in contest list, we don't really need to fetch the contest here if we have initial data.
+> **[1:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=65)** So in contest list, we don't really need to [[Fetch]] the contest here if we have initial data.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/sharing-data-between-server-and-client?u=76281980&t=71)** So let me comment out this code just for testing and refresh.
 >
@@ -3276,19 +3256,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[React.js|React]] (7), application (2), api (2), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[Fetch]] (1)
 > **File Paths:** index.tsx (2), server.ts (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - in (1)
 
-#### Fetching data from MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980)
+#### [Fetching data from MongoDB](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=0)** - [Narrator] I think it's time for us to start working with MongoDB and get rid of the test data we've been using so far.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=0)** - [Narrator] I think it's time for us to start working with [[MongoDB]] and get rid of the test data we've been using so far.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=8)** Delete this file.
 >
@@ -3296,7 +3275,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=18)** So remember the DB file that we created to load the test data?
 >
-> **[0:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=24)** Well, it's also what we need to connect to MongoDB and fetch the data here.
+> **[0:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=24)** Well, it's also what we need to connect to MongoDB and [[Fetch]] the data here.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-from-mongodb?u=76281980&t=30)** We can use the connect client method.
 >
@@ -3446,7 +3425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (11), data (9), express (4), api (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (11), [[Fetch]] (2)
 > **CLI Commands:** find (8), mongo (2), make (1)
 > **Env Vars:** url (5), api (1)
 > **Analogies:** for example (2), just like (1), similar to (1)
@@ -3460,14 +3439,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Invoking component actions in children
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
+#### [Invoking component actions in children](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=0)** - [Narrator] In the previous chapter, we started writing API endpoints to work with data in MongoDB.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=0)** - [Narrator] In the previous chapter, we started writing API endpoints to work with data in [[MongoDB]].
 >
-> **[0:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=6)** The last one was this endpoint to fetch information for a single contest.
+> **[0:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=6)** The last one was this endpoint to [[Fetch]] information for a single contest.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=10)** We're going to use that next.
 >
@@ -3499,7 +3477,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=63)** One call we usually do here is to prevent any default operations on the event.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=68)** Usually this is needed for anchor elements, but it's a good practice to always prevent the default DOM behavior because we're doing this operation through React.
+> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=68)** Usually this is needed for anchor elements, but it's a good practice to always prevent the default DOM behavior because we're doing this operation through [[React.js|React]].
 >
 > **[1:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980&t=78)** So what do we need to do here?
 >
@@ -3651,7 +3629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), api (1), data (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[MongoDB]] (1), [[Fetch]] (1)
 > **UI Navigation:** navigate to (4), click on (2), go to (1)
 > **Env Vars:** dom (3), api (1)
 > **Definitions:** is a  (3)
@@ -3660,8 +3638,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 
-#### Displaying a different root component
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980)
+#### [Displaying a different root component](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3691,7 +3668,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=92)** Okay, so in here when we navigate to contest we can also set current contest ID to the contest ID value coming from the function param and we can use the current contest ID to pass it to the new component that we're designing for a single contest.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=111)** Don't worry about doing multiple state updates here React is smart enough to group this together and it will do the minimum amount of renders.
+> **[1:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=111)** Don't worry about doing multiple state updates here [[React.js|React]] is smart enough to group this together and it will do the minimum amount of renders.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=121)** Let's create the contest component.
 >
@@ -3737,11 +3714,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=238)** Both of these are optional but certainly good to have.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=241)** In the next video, we'll fetch the information for a single contest and display it in the contest component.
+> **[4:01](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/displaying-a-different-root-component?u=76281980&t=241)** In the next video, we'll [[Fetch]] the information for a single contest and display it in the contest component.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), power (2), api (1), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Fetch]] (1)
 > **UI Navigation:** navigate to (4), click on (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4)
@@ -3750,14 +3727,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fetching data after navigating to a new view
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980)
+#### [Fetching data after navigating to a new view](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=0)** - [Instructor] We have a contest component and it receives the idea of the contest.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=4)** And now we need to fetch the information for a single contest and display it in this contest component.
+> **[0:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=4)** And now we need to [[Fetch]] the information for a single contest and display it in this contest component.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=10)** It's very similar to what we did in the contest list component.
 >
@@ -3765,7 +3741,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=22)** So, I'm going to name this one Contest and update our function set contest.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=27)** And this is a use state call from React and it's undefined by default.
+> **[0:27](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=27)** And this is a use state call from [[React.js|React]] and it's undefined by default.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=32)** Then we do a use effect call from React just like we did in the contest list component.
 >
@@ -3803,7 +3779,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=123)** We'll need both use state and use effect as well.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=126)** And now we can return an HTML view to describe this contest object which is going to have all the fields on the contest.
+> **[2:06](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=126)** And now we can return an [[HTML]] view to describe this contest object which is going to have all the fields on the contest.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=135)** So, let's create a div with a contest class name in here.
 >
@@ -3869,7 +3845,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=293)** We need to import header from header and we need to use a React fragment here as well.
 >
-> **[4:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=299)** And I think we can test, go to big data analytics, and the header is big data analytics now and on the main page it's naming contests.
+> **[4:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=299)** And I think we can test, go to [[Big Data Analytics]], and the header is big data analytics now and on the main page it's naming contests.
 >
 > **[5:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=309)** And by the way, when we hover over something that is clickable, we should really show the pointer cursor.
 >
@@ -3921,7 +3897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (13), api (7), [[React.js|React]] (6), data (2), [[Big Data Analytics]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (13), [[React.js|React]] (6), [[Big Data Analytics]] (2), [[HTML]] (1)
 > **Env Vars:** api (7), html (1)
 > **Analogies:** similar to (3), just like (2)
 > **UI Navigation:** go to (3), click on (1)
@@ -3930,8 +3906,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling browser navigation history
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980)
+#### [Handling browser navigation history](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3939,9 +3914,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=10)** Ideally, every contest should get its own URL so that we can share this contest with others.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=17)** To do that in a single page application, we will have to use the history API, this is not something supported by React, there is no React API to manipulate the history API, but there are libraries out there like React Router that wraps the history API and provides its own API for us to use.
+> **[0:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=17)** To do that in a single page application, we will have to use the history API, this is not something supported by [[React.js|React]], there is no React API to manipulate the history API, but there are libraries out there like React Router that wraps the history API and provides its own API for us to use.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=36)** But for this course, I'm going to use the native DOM history API, I think it's simple enough for us to use, and I think it's important to understand the core client routing using the native history API.
+> **[0:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=36)** But for this course, I'm going to use the native DOM history API, I think it's simple enough for us to use, and I think it's important to understand the core client [[Routing]] using the native history API.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-browser-navigation-history?u=76281980&t=49)** So on the window object in every browser there is a history class, and it has a few functions, the one we need to change a URL of page is pushState, and as you can see from Chrome, it takes data, title, and URL, so let's test that real quick.
 >
@@ -4027,7 +4002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (15), data (10), application (7), [[React.js|React]] (5), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Routing]] (1)
 > **Env Vars:** api (15), url (11), dom (1)
 > **Definitions:** is a  (10), we call this (1)
 > **UI Navigation:** go to (3), navigate to (3), click on (1)
@@ -4036,8 +4011,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server-side rendering of a custom path
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980)
+#### [Server-side rendering of a custom path](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4105,7 +4079,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=154)** So let me read the contest ID from request.params, and let me do some cleanup here since we're going to be adding some logic.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=164)** Let's create an initial data object, which is basically so far has been the contests that we get from fetch contest list.
+> **[2:44](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=164)** Let's create an initial data object, which is basically so far has been the contests that we get from [[Fetch]] contest list.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=176)** So I can remove this line and in here, we pass an initial data.
 >
@@ -4165,7 +4139,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=316)** But you'll notice that we're still going back to the API to get the data.
 >
-> **[5:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=320)** You can see that in action if you disable JavaScript.
+> **[5:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=320)** You can see that in action if you disable [[JavaScript]].
 >
 > **[5:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=323)** That's a trick that's always good to do.
 >
@@ -4187,7 +4161,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=363)** Otherwise, it will be undefined.
 >
-> **[6:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=365)** I can go over the ESLint problems to finish this change.
+> **[6:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=365)** I can go over the [[ESLint]] problems to finish this change.
 >
 > **[6:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/server-side-rendering-of-a-custom-path?u=76281980&t=369)** So in here, set current contest and pass in an object with the ID being the idea that's in history.
 >
@@ -4225,7 +4199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Fetch]] (3), [[JavaScript]] (2), express (1), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JavaScript]] (2), [[ESLint]] (1)
 > **File Paths:** main.js (5), server.ts (3)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (5)
@@ -4234,8 +4208,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fetching data conditionally
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980)
+#### [Fetching data conditionally](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4257,9 +4230,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=53)** We just fake an object that has the ID of the contest that we want, and we're passing the initial contest to the contest component.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=62)** Here's the thing though, now we need to figure out when to fetch data and when not to fetch data.
+> **[1:02](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=62)** Here's the thing though, now we need to figure out when to [[Fetch]] data and when not to fetch data.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=68)** For this case, when we server Render a contest page we don't need to fetch data, but if we start on this page, and there is JavaScript so refresh, and we go to a contest, we need to fetch the data in that case, because the server-side rendered part started on a contest list.
+> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=68)** For this case, when we server Render a contest page we don't need to fetch data, but if we start on this page, and there is [[JavaScript]] so refresh, and we go to a contest, we need to fetch the data in that case, because the server-side rendered part started on a contest list.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-conditionally?u=76281980&t=86)** Now we're going to a new contest, then we need to fetch the data.
 >
@@ -4327,7 +4300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Fetch]] (10), api (4), [[JavaScript]] (2), generic (1)
+> **Frameworks & Libraries:** [[Fetch]] (10), [[JavaScript]] (2)
 > **UI Navigation:** go to (5), navigate to (1), click on (1)
 > **Env Vars:** api (4), dtb (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4335,8 +4308,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), go back to (1)
 > **Speakers:** - let (1)
 
-#### Navigating on link click
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980)
+#### [Navigating on link click](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4352,9 +4324,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=18)** So a.link, the atreff here is slash, and for a label let's use contest list.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=26)** This is an html link and this will actually work.
+> **[0:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=26)** This is an [[HTML]] link and this will actually work.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=29)** So if you go to contest list, it will work but it goes back to the server to fetch the list of contest.
+> **[0:29](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=29)** So if you go to contest list, it will work but it goes back to the server to [[Fetch]] the list of contest.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=35)** It's not a single page application feature.
 >
@@ -4452,7 +4424,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=277)** If we go back to the contest list?
 >
-> **[4:39](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=279)** Okay, so it still does not work because initial contests is undefined and the React application is trying to do undefined.map.
+> **[4:39](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=279)** Okay, so it still does not work because initial contests is undefined and the [[React.js|React]] application is trying to do undefined.map.
 >
 > **[4:49](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/navigating-on-link-click?u=76281980&t=289)** So what we can do here is have default value of an empty array if there is no initial contests.
 >
@@ -4488,7 +4460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (7), data (7), application (6), [[HTML]] (4), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (7), [[HTML]] (4), [[React.js|React]] (3)
 > **UI Navigation:** go to (9), navigate to (4)
 > **Cross-References:** go back to (5)
 > **Env Vars:** api (3), url (1)
@@ -4502,8 +4474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling data in an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)
+#### [Handling data in an array](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4531,7 +4502,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=45)** As an exercise, think about how to extract this into different components at the end of this video.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=51)** The array that we're interested in is contest.names and this is what we need to map into HTML.
+> **[0:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=51)** The array that we're interested in is contest.names and this is what we need to map into [[HTML]].
 >
 > **[1:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=60)** But let's first add a title for this section so a div with a class title and let's label this section proposed names.
 >
@@ -4555,7 +4526,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=112)** If there are no names, let's have a div here and say something like no names proposed yet.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=119)** So that's a structure for a ternary statement and how to use it in a react component.
+> **[1:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=119)** So that's a structure for a ternary statement and how to use it in a [[React.js|react]] component.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980&t=125)** To render the list of names, we start with contest.names.
 >
@@ -4589,7 +4560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (2), [[React.js|React]] (2), database (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[React.js|React]] (2)
 > **Env Vars:** html (2), css (1)
 > **Code Identifiers:** proposedname (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -4598,16 +4569,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading form data with the DOM API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980)
+#### [Reading form data with the DOM API](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=0)** - [Instructor] The next step would be to propose a new name and this is going to be our first update operation, and it has multiple elements to it.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=9)** The first task would be to create a form so that the user can submit the name, that's straightforward, it's just HTML so I'm going to add it here somewhere.
+> **[0:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=9)** The first task would be to create a form so that the user can submit the name, that's straightforward, it's just [[HTML]] so I'm going to add it here somewhere.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=17)** Another title DIV, this time let's label it propose a new name, and in a body DIV, we need a form element, we don't need an action, this action is to submit the form regularly, not with JavaScript and within the form, we need an input text.
+> **[0:17](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=17)** Another title DIV, this time let's label it propose a new name, and in a body DIV, we need a form element, we don't need an action, this action is to submit the form regularly, not with [[JavaScript]] and within the form, we need an input text.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=37)** To identify that input we can use either the name or the ID.
 >
@@ -4621,7 +4591,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=84)** There are multiple ways to read input from the user.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=88)** You can read it directly from the DOM, either through the DOM API or with the use of React ref.
+> **[1:28](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=88)** You can read it directly from the DOM, either through the DOM API or with the use of [[React.js|React]] ref.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/reading-form-data-with-the-dom-api?u=76281980&t=94)** React has this concept called ref and you can use it through the use ref hook and it can basically act like an ID to identify that name.
 >
@@ -4687,7 +4657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (18), [[React.js|React]] (12), api (6), data (5), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** dom (18), api (6), html (2), div (2), url (1)
 > **Definitions:** is a  (3), we call this (1)
 > **Analogies:** kind of like (2), for example (1), just like (1)
@@ -4696,12 +4666,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 
-#### Understanding HTTP request methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/understanding-http-request-methods?u=76281980)
+#### [Understanding HTTP request methods](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/understanding-http-request-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/understanding-http-request-methods?u=76281980&t=0)** - We're ready to send this proposed new name data to the server and persist it in MongoDB.
+> **[0:00](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/understanding-http-request-methods?u=76281980&t=0)** - We're ready to send this proposed new name data to the server and persist it in [[MongoDB]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/understanding-http-request-methods?u=76281980&t=7)** We'll need to add a new endpoint to our API.
 >
@@ -4753,7 +4722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), database (3), data (2), [[MongoDB]] (2), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (2)
@@ -4761,8 +4730,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Using an API endpoint to update data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980)
+#### [Using an API endpoint to update data](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4778,7 +4746,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=32)** The first argument is the same one.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=34)** It's what MongoDB is going to use to find the document, and that's exactly what we need, we're passing the contest ID in the pram.
+> **[0:34](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=34)** It's what [[MongoDB]] is going to use to find the document, and that's exactly what we need, we're passing the contest ID in the pram.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=41)** And then the second argument is a list of operations to do on that document.
 >
@@ -4832,7 +4800,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=176)** And we just specify object with the data that we need so we can just pass newNameValue.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=183)** Now axios by default takes this and pass it as JSON in the payload of this request.
+> **[3:03](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=183)** Now axios by default takes this and pass it as [[JSON]] in the payload of this request.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=190)** You might be wondering, why not just pass it as another request parameter?
 >
@@ -4934,7 +4902,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=410)** We do that with a two lowercase call.
 >
-> **[6:53](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=413)** And then we need to replace all the spaces in the text with dashes and we can do a simple JavaScript replace call, replaces a function that's available on every string, and we can use a bit of regular expression here to do \s.
+> **[6:53](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=413)** And then we need to replace all the spaces in the text with dashes and we can do a simple [[JavaScript]] replace call, replaces a function that's available on every string, and we can use a bit of regular expression here to do \s.
 >
 > **[7:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/using-an-api-endpoint-to-update-data?u=76281980&t=429)** \s in regular expression represents space.
 >
@@ -4994,7 +4962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (6), express (4), [[JSON]] (3), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[MongoDB]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** newnamevalue (6), findoneandupdate (3), addnewnametocontes (1), newnameinput (1), returndocument (1)
 > **Env Vars:** api (5), url (2), json (2), post (1)
 > **Definitions:** is a  (4), is an  (4), we call this (1)
@@ -5003,8 +4971,7 @@ created: 2026-05-02
 > **File Paths:** express.json (1)
 > **Cross-References:** in the next (1)
 
-#### Updating UI based on API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980)
+#### [Updating UI based on API response](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5012,7 +4979,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980&t=5)** Well, we're rendering the contest information from this contest object, which is a state element.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980&t=12)** So really, all we need to do is just set contest to be the updated contest and this would make the list of names refresh immediately 'cause React is going to take this updated contest and rerender this component based on updated contest and make its virtual diffing with the previously rendered output and it will figure out that it needs to go to the dom and update the list of names.
+> **[0:12](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980&t=12)** So really, all we need to do is just set contest to be the updated contest and this would make the list of names refresh immediately 'cause [[React.js|React]] is going to take this updated contest and rerender this component based on updated contest and make its virtual diffing with the previously rendered output and it will figure out that it needs to go to the dom and update the list of names.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/updating-ui-based-on-api-response?u=76281980&t=36)** And really only that because we have not updated anything else on the contest.
 >
@@ -5030,15 +4997,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), dom (1), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980)
+#### [Project challenge](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5078,20 +5044,19 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980&t=103)** Unfortunately, Mongo DB does not have an easy way to insert and then return in the same operations, so I had to use these two operations.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980&t=111)** So that's for your reference, but you need to do the rest of this task yourself.
+> **[1:51](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980&t=111)** So that's for your reference, but you need to do the [[Representational State Transfer (REST)|rest]] of this task yourself.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980&t=115)** And when you're done, you can compare your code to this Git branch, which will have my code for this task.
+> **[1:55](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-challenge?u=76281980&t=115)** And when you're done, you can compare your code to this [[Git]] branch, which will have my code for this task.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (2), hit (1), dom (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1)
 > **CLI Commands:** mongo (2), make (1), find (1), git (1)
 > **Env Vars:** api (4), dom (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5109,11 +5074,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=18)** I'll also make the project officially use TypeScript and define all missing types.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=23)** Introduce GraphQL on the project.
+> **[0:23](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=23)** Introduce [[GraphQL]] on the project.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=25)** I am a big fan of GraphQL.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=27)** And I'll work on content to tell you why and how to build a GraphQL server and how to use it in React.
+> **[0:27](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=27)** And I'll work on content to tell you why and how to build a GraphQL server and how to use it in [[React.js|React]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=33)** I might introduce voting on proposed themes and a weighing application to order proposed names by popularity.
 >
@@ -5127,19 +5092,19 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=64)** Galoy provides an open-source API and it's built on GraphQL.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=68)** If you're interested in these more advanced followup updates to this course, find me on Twitter or LinkedIn, as I'll be posting details about these updates and where to find them.
+> **[1:08](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=68)** If you're interested in these more advanced followup updates to this course, find me on Twitter or [[LinkedIn]], as I'll be posting details about these updates and where to find them.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=78)** Thanks for sticking with this course all the way to the end.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=80)** And I hope it was helpful for you.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=82)** Good luck in your journey with MongoDB, Node, and React.
+> **[1:22](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=82)** Good luck in your journey with [[MongoDB]], Node, and React.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/next-steps?u=76281980&t=86)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (2), application (1), feature (1), open-source (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (2), [[LinkedIn]] (1), [[MongoDB]] (1)
 > **CLI Commands:** find (2), make (1), node (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)

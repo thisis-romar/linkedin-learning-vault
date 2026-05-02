@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Eight things to know in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980)
+#### [Eight things to know in Python](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980&t=0)** - [Jonathan] Many people are either new to programming in Python or they've learned how to code in other languages, like Java and C, and so they use constructs from these languages in Python.
+> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980&t=0)** - [Jonathan] Many people are either new to programming in [[Python (Programming Language)|Python]] or they've learned how to code in other languages, like [[Java]] and C, and so they use constructs from these languages in Python.
 >
 > **[0:11](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980&t=11)** Now, that's usually because they aren't aware of some key features that are available in Python right out of the box.
 >
@@ -99,16 +98,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (2), [[Java]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Java]] (1)
 > **CLI Commands:** python (9)
 > **Speakers:** - [jonathan] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/8-things-you-must-know-in-python/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/coderpad-tour?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using CoderPad, which is integrated into the LinkedIn Learning course website.
+> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/coderpad-tour?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using CoderPad, which is integrated into the [[LinkedIn]] Learning course website.
 >
 > **[0:06](https://www.linkedin.com/learning/8-things-you-must-know-in-python/coderpad-tour?u=76281980&t=6)** Now all you have to do is to click on the challenge, and this makes it really easy to watch videos and write some code and go back and forth and to test your solutions all on one site.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** contains_punctuation (1), show_expected_result (1), show_hints (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -190,12 +188,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python all() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980)
+#### [Python all() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980&t=0)** - [Instructor] Python has a built-in function called all that returns true if all the items are true or truthy.
+> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] has a built-in function called all that returns true if all the items are true or truthy.
 >
 > **[0:07](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980&t=7)** This means they are non-empty or nonzero.
 >
@@ -280,12 +277,11 @@ created: 2026-05-02
 > **Code Identifiers:** valid_rgb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python any() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-any-function?u=76281980)
+#### [Python any() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-any-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-any-function?u=76281980&t=0)** - [Instructor] Python has a built in function, any, that returns true if any of the items are true or truthy.
+> **[0:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-any-function?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] has a built in function, any, that returns true if any of the items are true or truthy.
 >
 > **[0:05](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-any-function?u=76281980&t=5)** This means they are non-empty or non-zero.
 >
@@ -331,14 +327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **File Paths:** any.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: any() and all()
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-any-and-all-24961883?u=76281980)
+#### [Solution: any() and all()](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-any-and-all-24961883?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,8 +373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python enumerate() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980)
+#### [Python enumerate() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980&t=17)** So, number one means it's the longest, number two the second longest, and so on.
 >
-> **[0:22](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980&t=22)** The expected output is shown in the Python file.
+> **[0:22](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980&t=22)** The expected output is shown in the [[Python (Programming Language)|Python]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980&t=24)** Now, if you're new to Python, you might go for something as shown in the enumerate.py file.
 >
@@ -435,8 +429,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python zip() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980)
+#### [Python zip() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +443,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980&t=18)** Let's create the expected output, as shown in the zip.py file using these two lists.
 >
-> **[0:23](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980&t=23)** Now, whenever you want to loop over multiple lists or iterables at the same time, you'll want to use Python's zip function.
+> **[0:23](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980&t=23)** Now, whenever you want to loop over multiple lists or iterables at the same time, you'll want to use [[Python (Programming Language)|Python]]'s zip function.
 >
 > **[0:30](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-zip-function?u=76281980&t=30)** So I'm going to copy across the two lists and let's head over to the Python REPL.
 >
@@ -544,8 +537,7 @@ created: 2026-05-02
 > **Env Vars:** repl (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: enumerate() and zip()
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980)
+#### [Solution: enumerate() and zip()](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980&t=45)** And so we can do this by summing up all of the births in the relevant years by the number of years, but we need some way to track or count the number of years.
 >
-> **[0:52](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980&t=52)** Now, anytime we require a count in Python, when iterating over an iterable, think of the enumerate function.
+> **[0:52](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980&t=52)** Now, anytime we require a count in [[Python (Programming Language)|Python]], when iterating over an iterable, think of the enumerate function.
 >
 > **[1:00](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-enumerate-and-zip-24964724?u=76281980&t=60)** So let's loop our way through enumerate.
 >
@@ -617,8 +609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python reversed() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980)
+#### [Python reversed() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980&t=13)** Examples of sequences are strings, lists, and tuples, and examples of things that are iterables, but not sequences are dictionaries and sets.
 >
-> **[0:21](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980&t=21)** So when reversing things in Python, we're normally referring to reversing sequences.
+> **[0:21](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980&t=21)** So when reversing things in [[Python (Programming Language)|Python]], we're normally referring to reversing sequences.
 >
 > **[0:27](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980&t=27)** Every list in Python has a built-in reverse method.
 >
@@ -730,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7)
 > **Code Identifiers:** reversed_countries (3)
 > **Definitions:** is a  (2)
@@ -738,8 +729,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: reversed()
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-reversed-24961885?u=76281980)
+#### [Solution: reversed()](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-reversed-24961885?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +767,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -788,8 +777,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python min() and max() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980)
+#### [Python min() and max() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980&t=36)** Now, the populations use underscore as a visual separator for numbers.
 >
-> **[0:40](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980&t=40)** In Python, we couldn't use commas because 1 million with commas in Python would be a tuple.
+> **[0:40](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980&t=40)** In [[Python (Programming Language)|Python]], we couldn't use commas because 1 million with commas in Python would be a tuple.
 >
 > **[0:49](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980&t=49)** The largest population we have here is 198 million.
 >
@@ -895,15 +883,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (2)
 > **Code Identifiers:** get_population (6)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: min() and max()
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980)
+#### [Solution: min() and max()](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980&t=28)** Next, we have the score_word function.
 >
-> **[0:31](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980&t=31)** And this function returns the Scrabble score for any word if it exists in the Scrabble dictionary.
+> **[0:31](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980&t=31)** And this function returns the Scrabble score for any [[Microsoft Word|word]] if it exists in the Scrabble dictionary.
 >
 > **[0:38](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-min-and-max-24961884?u=76281980&t=38)** And if the word doesn't exist in the Scrabble dictionary, it just returns a score of zero.
 >
@@ -969,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17)
 > **Code Identifiers:** score_word (4), get_scrabble_dictionary (2), remove_punctuation (2)
 > **Definitions:** is a  (2), defined as (1), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -981,8 +968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python sorted() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980)
+#### [Python sorted() function](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1052,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980&t=225)** And we then want to return the population to the sorted function, but we need to ignore the first three characters.
 >
-> **[3:53](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980&t=233)** So population, and since Python string indexes start from zero, we want to return from index number three onwards.
+> **[3:53](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980&t=233)** So population, and since [[Python (Programming Language)|Python]] string indexes start from zero, we want to return from index number three onwards.
 >
 > **[4:05](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980&t=245)** So let's go ahead and do a sorted.
 >
@@ -1096,15 +1082,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** get_population (5), country_list (3)
 > **CLI Commands:** python (2), make (1), find (1)
 > **File Paths:** sorted.py (2)
 > **Env Vars:** repl (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: sorted()
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980)
+#### [Solution: sorted()](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1159,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980&t=278)** Now, the reason we use a tuple is to ensure that we have a stable sort order.
 >
-> **[4:42](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980&t=282)** So when sorting on multiple keys, Python will use a lexical graphical comparison, which means it compares the first element and then the second and then the third, and so on.
+> **[4:42](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980&t=282)** So when sorting on multiple keys, [[Python (Programming Language)|Python]] will use a lexical graphical comparison, which means it compares the first element and then the second and then the third, and so on.
 >
 > **[4:53](https://www.linkedin.com/learning/8-things-you-must-know-in-python/solution-sorted-24967346?u=76281980&t=293)** So what we could do is do a return.
 >
@@ -1198,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** sort_country (2), country_list (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -1209,22 +1194,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=1)** - [Instructor] Well I hope you found this course helpful.
 >
-> **[0:04](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=4)** Now I work primarily on machine learning and AI projects, and almost exclusively in Python, so if you like this course, you might like some of my other courses online, including Python courses like decorators, the Pandas library and Apache PySpark, or other ones with more of an AI and machine learning-focus like deep learning in PyTorch, computer vision in OpenCV, Docker, and how to introduce AI into your organization.
+> **[0:04](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=4)** Now I work primarily on machine learning and AI projects, and almost exclusively in [[Python (Programming Language)|Python]], so if you like this course, you might like some of my other courses online, including Python courses like decorators, the [[Pandas (Software)|Pandas]] library and Apache [[PySpark]], or other ones with more of an AI and machine learning-focus like [[Deep Learning]] in [[PyTorch]], [[Computer Vision]] in OpenCV, Docker, and how to introduce AI into your organization.
 >
-> **[0:29](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=29)** I'd love to hear back from you and to connect via LinkedIn.
+> **[0:29](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=29)** I'd love to hear back from you and to connect via [[LinkedIn]].
 >
 > **[0:32](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980&t=32)** Thanks again for watching and (speaking foreign language).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[PySpark]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[PySpark]] (1), [[Deep Learning]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (2), apache (1), docker (1)
 > **Speakers:** - [instructor] (1)
 

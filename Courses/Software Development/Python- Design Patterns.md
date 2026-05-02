@@ -109,35 +109,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980)
+#### [Explore design patterns](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=0)** - Reuse is critical to saving time and adopting the best solution available in software engineering.
 >
-> **[0:07](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=7)** Luckily, we have a strong community of like-minded people who actively share the knowledge and wisdom gained from many years of experience through design patterns.
+> **[0:07](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=7)** Luckily, we have a strong community of like-minded people who actively share the knowledge and wisdom gained from many years of experience through [[Design Patterns]].
 >
 > **[0:20](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=20)** Hi, I'm Jungwoo Ryoo.
 >
 > **[0:23](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=23)** After my real life experience as a soft engineer, I have taught software engineering since 2005 as a college professor.
 >
-> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=33)** There are many fascinating Python specific shortcuts in implementing design patterns, and I'm excited to share these trade secrets with you.
+> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=33)** There are many fascinating [[Python (Programming Language)|Python]] specific shortcuts in implementing design patterns, and I'm excited to share these trade secrets with you.
 >
 > **[0:44](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=44)** Now, let's get started with Python design patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Engineering]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - reuse (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980&t=0)** - This course is not about teaching you how to be up and running with Python as a beginner.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980&t=0)** - This course is not about teaching you how to be up and running with [[Python (Programming Language)|Python]] as a beginner.
 >
 > **[0:05](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980&t=5)** However, even if you're new to Python, you should be able to follow along and run the Python scripts I provide without a problem.
 >
@@ -161,8 +159,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
-#### CoderPad placeholder video
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980)
+#### [CoderPad placeholder video](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=22)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=33)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=33)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:44](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=44)** The code challenge has four areas: instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -237,8 +234,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a design pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980)
+#### [What is a design pattern?](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,9 +242,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=7)** These common problems imply that there may already be established solutions.
 >
-> **[0:14](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=14)** Design patterns are well-known solutions to recurring problems.
+> **[0:14](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=14)** [[Design Patterns]] are well-known solutions to recurring problems.
 >
-> **[0:20](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=20)** These are widely accepted solutions by the software development community.
+> **[0:20](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=20)** These are widely accepted solutions by the [[Software Development]] community.
 >
 > **[0:25](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=25)** Why do we use design patterns instead of individualized solutions?
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=96)** First, design patterns are language neutral.
 >
-> **[1:40](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=100)** You could use them in any object-oriented programming language.
+> **[1:40](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=100)** You could use them in any [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[1:44](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=104)** Second, design patterns are dynamic because there are always new ones coming up.
 >
@@ -282,17 +278,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Software Development]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Software Development]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Types of design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980)
+#### [Types of design patterns](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=0)** - [Instructor] There are three different types of design patterns.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=0)** - [Instructor] There are three different types of [[Design Patterns]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=4)** One is creational, the other is structural, and another is behavioral.
 >
@@ -334,21 +329,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5), functional (5)
+> **Frameworks & Libraries:** [[Design Patterns]] (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980)
+#### [Understanding object-oriented programming](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=0)** - [Instructor] Object-oriented programming is a mainstream software development methodology today.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=0)** - [Instructor] [[Object-Oriented Programming (OOP)|Object-oriented programming]] is a mainstream [[Software Development]] methodology today.
 >
-> **[0:06](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=6)** Many modern programming languages support object-oriented programming, including Python.
+> **[0:06](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=6)** Many modern programming languages support object-oriented programming, including [[Python (Programming Language)|Python]].
 >
-> **[0:13](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=13)** Design patterns require the use of object-oriented programming, therefore design patterns are almost irrelevant to the non-object-oriented programming languages, such as C.
+> **[0:13](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=13)** [[Design Patterns]] require the use of object-oriented programming, therefore design patterns are almost irrelevant to the non-object-oriented programming languages, such as C.
 >
 > **[0:28](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=28)** Understanding the core concepts of object-oriented programming involves learning concepts such as objects and classes.
 >
@@ -388,19 +382,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Design Patterns]] (2), [[Software Development]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Design Patterns]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** python (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with inheritance and polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980)
+#### [Working with inheritance and polymorphism](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=0)** - [Instructor] There are some additional key concepts to master in object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=0)** - [Instructor] There are some additional key concepts to master in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=6)** We'll get started with inheritance.
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=129)** The object will be producing the meow sound if it happens to be a cat object.
 >
-> **[2:16](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=136)** All the design patterns we cover in this course fully take advantage of the core object-oriented programming concepts.
+> **[2:16](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=136)** All the [[Design Patterns]] we cover in this course fully take advantage of the core object-oriented programming concepts.
 >
 > **[2:26](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=146)** Therefore, it's a must for you to understand what classes, objects, inheritance and polymorphism are before moving on.
 
@@ -445,12 +438,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding pattern context
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980)
+#### [Understanding pattern context](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=0)** - [Instructor] To use design patterns effectively, you need to know the context in which the design patterns work best.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=0)** - [Instructor] To use [[Design Patterns]] effectively, you need to know the context in which the design patterns work best.
 >
 > **[0:10](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=10)** Let's start by learning how to describe the design pattern context.
 >
@@ -478,16 +470,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), functional (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with pattern language
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980)
+#### [Working with pattern language](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=0)** - [Tutor] The process of mastering terms used to describe design patterns is like learning a new language.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=0)** - [Tutor] The process of mastering terms used to describe [[Design Patterns]] is like learning a new language.
 >
 > **[0:09](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=9)** Therefore, we can safely say that these terms constitute a pattern language.
 >
@@ -535,8 +526,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/factory?u=76281980)
+#### [Factory](https://www.linkedin.com/learning/python-design-patterns-24559831/factory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,12 +548,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Factory example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980)
+#### [Factory example](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,13 +677,13 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=436)** That's what is nice about the use of the factory pattern.
 >
-> **[7:20](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=440)** The way the factory pattern is implemented here, is slightly different from the factory method in a typical object-oriented programming language.
+> **[7:20](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=440)** The way the factory pattern is implemented here, is slightly different from the factory method in a typical [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
-> **[7:29](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=449)** Because we are trying to fully take advantage of all the built-in features of Python in this course.
+> **[7:29](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=449)** Because we are trying to fully take advantage of all the built-in features of [[Python (Programming Language)|Python]] in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (17), python (1)
 > **Code Identifiers:** get_pet (9)
 > **UI Navigation:** go to (2), select the (1), click on (1)
@@ -703,8 +691,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-factory?u=76281980)
+#### [Solution: Factory](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-factory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,8 +738,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract Factory
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980)
+#### [Abstract Factory](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=24)** We'll first build a pet factory whose concrete factories include dog factory and cat factory.
 >
-> **[0:32](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=32)** Both dog and cat factories produce dogs and cats as well as related products such as dog food and cat food.
+> **[0:32](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=32)** Both dog and cat factories produce dogs and cats as well as related [[Microsoft Products|products]] such as dog food and cat food.
 >
 > **[0:44](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=44)** In theory, our solution abstract factory consists of abstract factory, concrete factory, abstract product, and concrete product.
 >
@@ -774,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=67)** And finally, for the concrete products, we'll be creating dogs, the type of pet and dog food, and also cats and cat food.
 >
-> **[1:18](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=78)** We implement our abstract factory without using inheritance because Python is a dynamically typed language and therefore does not require abstract classes.
+> **[1:18](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=78)** We implement our abstract factory without using inheritance because [[Python (Programming Language)|Python]] is a dynamically typed language and therefore does not require abstract classes.
 >
 > **[1:33](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=93)** Abstract factory is related to the factory pattern in a sense that it creates objects.
 >
@@ -782,14 +768,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (5), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Abstract Factory example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980)
+#### [Abstract Factory example](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=75)** Type return, double quotes, Dog Food.
 >
-> **[1:20](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=80)** Please note that our concrete products are the Dog object and Dog Food.
+> **[1:20](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=80)** Please note that our concrete [[Microsoft Products|products]] are the Dog object and Dog Food.
 >
 > **[1:28](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=88)** Unlike the factory pattern that creates one object, our DogFactory produces a group of two related items, Dog and Dog Food, in the context of the abstract factory pattern.
 >
@@ -873,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** show_pet (3), pet_factory (2), get_pet (2), pet_food (1), get_food (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -882,8 +867,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Singleton
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980)
+#### [Singleton](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +875,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=13)** It's an object-oriented way of providing global variables.
 >
-> **[0:18](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=18)** A similar concept called Borg exists in the Python community.
+> **[0:18](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=18)** A similar concept called Borg exists in the [[Python (Programming Language)|Python]] community.
 >
 > **[0:24](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=24)** Unlike singleton, Borg allows multiple object instances, but they all share the same state, which means the same attribute values in the objects.
 >
@@ -916,8 +900,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), short for (1)
 > **Speakers:** - [presenter] (1)
 
-#### Singleton example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980)
+#### [Singleton example](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,11 +990,11 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=407)** As you can see, the second Borg object kept HTTP and its spelled out version, Hyper Text Transfer Protocol, and it added the new acronym definition pair, SNMP, Simple Network Management Protocol.
 >
-> **[7:06](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=426)** The way we implement Singleton here is different from its classic version, but Python's way still does the job, maybe even better.
+> **[7:06](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=426)** The way we implement Singleton here is different from its classic version, but [[Python (Programming Language)|Python]]'s way still does the job, maybe even better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** http (3), snmp (2)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1020,8 +1003,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Singleton
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980)
+#### [Solution: Singleton](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=47)** And paste it.
 >
-> **[0:51](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=51)** UX equal sign User Experience.
+> **[0:51](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=51)** UX equal sign [[User Experience (UX)|User Experience]].
 >
 > **[0:57](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=57)** Let's create the second singleton object.
 >
@@ -1073,13 +1055,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[User Experience (UX)|User experience]] (1), api (1), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/builder?u=76281980)
+#### [Builder](https://www.linkedin.com/learning/python-design-patterns-24559831/builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,12 +1096,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Programming]] (1)
 > **Definitions:** is a  (1), we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Builder example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/builder-example?u=76281980)
+#### [Builder example](https://www.linkedin.com/learning/python-design-patterns-24559831/builder-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,14 +1189,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** get_car (4), add_engine (3), construct_car (3), create_new_car (1), add_model (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980)
+#### [Prototype](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=46)** We can mass produce cars more easily and quickly if the cars have the same color and options.
 >
-> **[0:55](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=55)** Similarly, in our Python programming scenario, you can clone the objects by making a copy of a prototype object instead of building them through constructors as long as they're supposed to be identical without variations.
+> **[0:55](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=55)** Similarly, in our [[Python (Programming Language)|Python]] programming scenario, you can clone the objects by making a copy of a prototype object instead of building them through constructors as long as they're supposed to be identical without variations.
 >
 > **[1:13](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=73)** Our solution consists of creating a prototypical instance first and then cloning it whenever you need a replica.
 >
@@ -1243,13 +1220,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prototype example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype-example?u=76281980)
+#### [Prototype example](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,7 +1349,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** register_object (2), unregister_object (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
@@ -1385,14 +1360,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980)
+#### [Decorator](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=0)** - [Instructor] The Decorator design pattern is a structural pattern that allows users to add new features to existing objects without changing their structures.
 >
-> **[0:12](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=12)** Python makes implementing the Decorator pattern very straightforward due to its built-in language feature.
+> **[0:12](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=12)** [[Python (Programming Language)|Python]] makes implementing the Decorator pattern very straightforward due to its built-in language feature.
 >
 > **[0:21](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=21)** Our challenge here is to add additional features to an existing object dynamically without using subclassing.
 >
@@ -1408,20 +1382,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decorator example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980)
+#### [Decorator example](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=0)** - [Instructor] Let's define our decorator first.
 >
-> **[0:04](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=4)** We use the special Python keyword @wraps and pass the function we're decorating.
+> **[0:04](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=4)** We use the special [[Python (Programming Language)|Python]] keyword @wraps and pass the function we're decorating.
 >
 > **[0:14](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=14)** By doing this, whatever we are using to decorate the function and its effect will be transparent.
 >
@@ -1433,7 +1406,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=55)** Next, we'll do our magic to further process the return value of the function being decorated.
 >
-> **[1:03](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=63)** In this case, we add a new HyperText Markup Language or HTML tag blink around the original string.
+> **[1:03](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=63)** In this case, we add a new HyperText Markup Language or [[HTML]] tag blink around the original string.
 >
 > **[1:13](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=73)** Type return, space, and the blink tag, we'll append the blink tag to the return value of the original function, which is ret.
 >
@@ -1485,15 +1458,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (1)
 > **Code Identifiers:** hello_world (6), make_blink (2)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980)
+#### [Solution: Decorator](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,9 +1473,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=2)** Was it easier than you thought?
 >
-> **[0:05](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=5)** That's the power of using design patterns.
+> **[0:05](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=5)** That's the power of using [[Design Patterns]].
 >
-> **[0:09](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=9)** As indicated, let's create a decorator class that adds the HTML bold text.
+> **[0:09](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=9)** As indicated, let's create a decorator class that adds the [[HTML]] bold text.
 >
 > **[0:19](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=19)** Copy the make_blink decorator code first.
 >
@@ -1535,13 +1507,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), power (1), [[Design Patterns]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Design Patterns]] (1)
 > **Code Identifiers:** make_blink (2), make_bold (2)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 
-#### Proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/proxy?u=76281980)
+#### [Proxy](https://www.linkedin.com/learning/python-design-patterns-24559831/proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,8 +1539,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proxy example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/proxy-example?u=76281980)
+#### [Proxy example](https://www.linkedin.com/learning/python-design-patterns-24559831/proxy-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1635,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
@@ -1673,8 +1642,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [tutor] (1)
 
-#### Adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter?u=76281980)
+#### [Adapter](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,8 +1662,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Adapter example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980)
+#### [Adapter example](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1743,7 +1710,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=192)** Other than this, we're not changing anything in the attributes or the methods of the received object.
 >
-> **[3:20](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=200)** We're returning the rest of the attributes and the getattr method here.
+> **[3:20](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=200)** We're returning the [[Representational State Transfer (REST)|rest]] of the attributes and the getattr method here.
 >
 > **[3:26](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=206)** Type return getattr self._object attr.
 >
@@ -1785,7 +1752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (7), next (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** speak_korean (3), speak_english (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -1793,8 +1760,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Composite
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/composite?u=76281980)
+#### [Composite](https://www.linkedin.com/learning/python-design-patterns-24559831/composite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,12 +1788,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Composite example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980)
+#### [Composite example](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,7 +1829,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=121)** This time we have another attribute, a list that will keep all our child items in the composite object.
 >
-> **[2:11](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=131)** The rest of the methods we're defining are utility methods.
+> **[2:11](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=131)** The [[Representational State Transfer (REST)|rest]] of the methods we're defining are utility methods.
 >
 > **[2:16](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=136)** For example, we have this method called append underscore child to add the new child.
 >
@@ -1905,13 +1869,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Composite
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-composite?u=76281980)
+#### [Solution: Composite](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-composite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,13 +1906,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** append_child (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/bridge?u=76281980)
+#### [Bridge](https://www.linkedin.com/learning/python-design-patterns-24559831/bridge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1971,11 +1932,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bridge example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/bridge-example?u=76281980)
+#### [Bridge example](https://www.linkedin.com/learning/python-design-patterns-24559831/bridge-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2018,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (1)
 > **Code Identifiers:** draw_circle (4), drawing_api (2)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -2070,8 +2028,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Observer
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/observer?u=76281980)
+#### [Observer](https://www.linkedin.com/learning/python-design-patterns-24559831/observer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2091,13 +2048,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Observer example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/observer-example?u=76281980)
+#### [Observer example](https://www.linkedin.com/learning/python-design-patterns-24559831/observer-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2197,14 +2152,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Observer
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-observer?u=76281980)
+#### [Solution: Observer](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-observer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2240,8 +2193,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Visitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor?u=76281980)
+#### [Visitor](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2264,8 +2216,7 @@ created: 2026-05-02
 > **Env Vars:** hvac (2)
 > **Speakers:** - [presenter] (1)
 
-#### Visitor Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980)
+#### [Visitor Example](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2301,7 +2252,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=137)** I want you to note that we now have a reference to the electrician object in the House object because one of the arguments is a reference to the electrician object.
 >
-> **[2:33](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=153)** The rest of the class is pretty straightforward.
+> **[2:33](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=153)** The [[Representational State Transfer (REST)|rest]] of the class is pretty straightforward.
 >
 > **[2:38](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=158)** The string method returns what to print when the object is being printed.
 >
@@ -2369,7 +2320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** work_on_hvac (3), hvac_specialist (3), work_on_electricity (3)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Env Vars:** hvac (5)
@@ -2378,8 +2329,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterator
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980)
+#### [Iterator](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2387,7 +2337,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=12)** The problem is that some programmers overcrowd the traversal interfaces of an aggregate object for every possible way of iteration.
 >
-> **[0:24](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=24)** We'll be building our own iterator that takes advantage of a built-in Python iterator called zip.
+> **[0:24](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=24)** We'll be building our own iterator that takes advantage of a built-in [[Python (Programming Language)|Python]] iterator called zip.
 >
 > **[0:31](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=31)** The iterator goes through a list of German counting words.
 >
@@ -2409,8 +2359,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Iterator example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980)
+#### [Iterator example](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2420,9 +2369,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=8)** The list contains German words counting up to five.
 >
-> **[0:17](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=17)** Here, we'll use Python's built-in iterator.
+> **[0:17](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=17)** Here, we'll use [[Python (Programming Language)|Python]]'s built-in iterator.
 >
-> **[0:22](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=22)** The iterator will create tuples consisting of pairs of numbers and equivalent German words, for example, one and the German word eins.
+> **[0:22](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=22)** The iterator will create tuples consisting of pairs of numbers and equivalent German words, for example, one and the German [[Microsoft Word|word]] eins.
 >
 > **[0:36](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=36)** The tuple here means a pair.
 >
@@ -2497,12 +2446,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980)
+#### [Strategy](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=0)** - [Narrator] The strategy pattern offers a family of interchangeable algorithms to a client.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=0)** - [Narrator] The strategy pattern offers a family of interchangeable [[Algorithms]] to a client.
 >
 > **[0:08](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=8)** The problem we often see is that there is a need for dynamically changing the behavior of an object.
 >
@@ -2510,7 +2458,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=22)** When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one.
 >
-> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=33)** Python allows adding methods dynamically by importing the types module.
+> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=33)** [[Python (Programming Language)|Python]] allows adding methods dynamically by importing the types module.
 
 > [!info]- Semantic Content
 >
@@ -2519,8 +2467,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [narrator] (1)
 
-#### Strategy Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980)
+#### [Strategy Example](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2548,7 +2495,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=70)** This is where we say, if a reference to a function is provided as an argument here, we're replacing the default execute method with a given function.
 >
-> **[1:24](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=84)** So how do we say that in Python?
+> **[1:24](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=84)** So how do we say that in [[Python (Programming Language)|Python]]?
 >
 > **[1:28](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=88)** Type if, space, function.
 >
@@ -2628,7 +2575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** strategy_one (3), strategy_two (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2637,8 +2584,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-strategy?u=76281980)
+#### [Solution: Strategy](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,17 +2642,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** strategy_finger (2), strategy_face (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain of Responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980)
+#### [Chain of Responsibility](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=0)** - [Instructor] The strategy pattern offers a family of interchangeable algorithms to a client.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=0)** - [Instructor] The strategy pattern offers a family of interchangeable [[Algorithms]] to a client.
 >
 > **[0:08](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=8)** The problem we often see is that there is a need for dynamically changing the behavior of an object.
 >
@@ -2714,7 +2658,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=22)** When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one.
 >
-> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=33)** Python allows adding methods dynamically by importing the types module.
+> **[0:33](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=33)** [[Python (Programming Language)|Python]] allows adding methods dynamically by importing the types module.
 
 > [!info]- Semantic Content
 >
@@ -2723,8 +2667,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain of Responsibility example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility-example?u=76281980)
+#### [Chain of Responsibility example](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2810,7 +2753,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -2821,12 +2763,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consistency
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980)
+#### [Consistency](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=0)** - [Speaker] In addition to using design patterns, there are also universal principles you should apply whenever you develop software applications.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=0)** - [Speaker] In addition to using [[Design Patterns]], there are also universal principles you should apply whenever you develop software applications.
 >
 > **[0:12](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=12)** Consistency is one of the hallmarks of sound software engineering.
 >
@@ -2840,9 +2781,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=65)** Another benefit is increasing the possibility of detecting errors since more sets of eyes looking at the same code may spot the mistakes more quickly.
 >
-> **[1:17](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=77)** Saving the cost of software development is another benefit since you reuse the well-established design solutions in the form of patterns and their in-house or third party implementations.
+> **[1:17](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=77)** Saving the cost of [[Software Development]] is another benefit since you reuse the well-established design solutions in the form of patterns and their in-house or third party implementations.
 >
-> **[1:33](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=93)** A larger scale way of accomplishing consistency is by creating a software architecture and trying to stick to it.
+> **[1:33](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=93)** A larger scale way of accomplishing consistency is by creating a [[Software Architecture]] and trying to stick to it.
 >
 > **[1:43](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=103)** This could be as simple as identifying a pattern to be used throughout your software coherently.
 >
@@ -2850,23 +2791,22 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=117)** Frameworks consist of design patterns put together in a specific fashion to accomplish a particular goal.
 >
-> **[2:06](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=126)** For example, there are frameworks specializing in improving software security while there are frameworks whose focus is providing a related set of functionalities, such as building an e-commerce website.
+> **[2:06](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=126)** For example, there are frameworks specializing in improving software security while there are frameworks whose focus is providing a related set of functionalities, such as building an [[E-Commerce]] website.
 >
 > **[2:21](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=141)** Consistency is one of the most critical software engineering principles and the use of design patterns makes your job easier to keep your code consistent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Engineering]] (2), [[Software Development]] (1), [[Software Architecture]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Development]] (1), [[Software Architecture]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Programmer's mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980)
+#### [Programmer's mindset](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=0)** - [Narrator] Using design patterns also promotes the other ideal qualities of software, such as completeness and correctness.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=0)** - [Narrator] Using [[Design Patterns]] also promotes the other ideal qualities of software, such as completeness and correctness.
 >
 > **[0:10](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=10)** Completeness refers to how much a software solution meets its requirements.
 >
@@ -2904,7 +2844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (9), power (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (9)
 > **Definitions:** refers to (2), is a  (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (1)
@@ -2915,12 +2855,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980&t=0)** - If you want to learn more about other implementations of design patterns in Python, check out the many active open source communities out there that develop and maintain accessible design patterns.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980&t=0)** - If you want to learn more about other implementations of [[Design Patterns]] in [[Python (Programming Language)|Python]], check out the many active open source communities out there that develop and maintain [[Accessible Design]] patterns.
 >
 > **[0:14](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980&t=14)** If you want to learn more design patterns, I recommend watching my Python Advanced Design Patterns course.
 >
@@ -2930,7 +2869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Python (Programming Language)|Python]] (2), [[Accessible Design]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Python (Programming Language)|Python]] (2), [[Accessible Design]] (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)

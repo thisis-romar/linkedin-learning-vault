@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring essential AI tools for everyday business
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980)
+#### [Exploring essential AI tools for everyday business](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,15 +79,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=4)** If you want to learn how to build a table, you'd grab a hammer.
 >
-> **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=7)** The same thing is true if you want to learn about artificial intelligence.
+> **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=7)** The same thing is true if you want to learn about [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:11](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=11)** The better you understand the AI tools, then the better you'll understand the technology.
 >
 > **[0:15](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=15)** This course starts by giving you a broad overview of common AI tools.
 >
-> **[0:20](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=20)** You'll start with an overview of machine learning, and then you'll see the difference between predictive and generative AI.
+> **[0:20](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=20)** You'll start with an overview of machine learning, and then you'll see the difference between predictive and [[Generative AI]].
 >
-> **[0:27](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=27)** You'll see how artificial neural networks, TensorFlow, and Python can be used to build both types of systems.
+> **[0:27](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=27)** You'll see how [[Artificial Neural Networks]], [[TensorFlow]], and [[Python (Programming Language)|Python]] can be used to build both types of systems.
 >
 > **[0:34](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980&t=34)** Then you'll see the difference between building a system and accessing an application programming interface, or API.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Artificial Neural Networks]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Artificial Neural Networks]] (1), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools for toolmakers
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980)
+#### [Tools for toolmakers](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980&t=29)** Sometimes the best way to learn something is by picking up the tools.
 >
-> **[0:34](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980&t=34)** Artificial intelligence is a complicated field.
+> **[0:34](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980&t=34)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a complicated field.
 >
 > **[0:37](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980&t=37)** AI technology has been around for over half a century.
 >
@@ -188,15 +186,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), game (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
 > **CLI Commands:** cat (3), make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - a (1)
 
-#### The rise of AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980)
+#### [The rise of AI systems](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=81)** They did it to understand you and better predict your behavior.
 >
-> **[1:25](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=85)** This type of machine learning was called predictive artificial intelligence.
+> **[1:25](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=85)** This type of machine learning was called predictive [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=89)** It was primarily used to predict what you'd buy or predict what songs or movies that you'd like.
 >
@@ -244,9 +241,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=105)** It's been some of the core capabilities for many of today's largest companies.
 >
-> **[1:50](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=110)** Google and Facebook predict what ads you'll click.
+> **[1:50](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=110)** [[Google]] and Facebook predict what ads you'll click.
 >
-> **[1:54](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=114)** LinkedIn predicts your professional interests.
+> **[1:54](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=114)** [[LinkedIn]] predicts your professional interests.
 >
 > **[1:56](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=116)** Netflix and Spotify better predict your music or movie tastes.
 >
@@ -258,9 +255,9 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=135)** Now there's another form of machine learning called generative artificial intelligence.
 >
-> **[2:21](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=141)** Predictive and generative AI use very similar machine learning tools, but the goal of each system is different.
+> **[2:21](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=141)** Predictive and [[Generative AI]] use very similar machine learning tools, but the goal of each system is different.
 >
-> **[2:28](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=148)** Predictive AI focuses on a very specific task.
+> **[2:28](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=148)** [[Predictive AI]] focuses on a very specific task.
 >
 > **[2:32](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=152)** One system might be used to predict if an image contains a cat, another system might try to predict a movie you'll watch, but each of these are different predictive systems.
 >
@@ -272,18 +269,17 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=175)** These systems do such a good job analyzing this data that you can have a conversation with a chat system.
 >
-> **[3:03](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=183)** It'll respond word by word to your questions in a way that seems eerily human.
+> **[3:03](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=183)** It'll respond [[Microsoft Word|word]] by word to your questions in a way that seems eerily human.
 >
 > **[3:09](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=189)** Now, even though the tools for each of these machine learning systems are similar, they become much more powerful as they work to process petabytes of new data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** cat (2)
 > **Speakers:** - some (1)
 
-#### Artificial neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980)
+#### [Artificial neural networks](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,9 +305,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=51)** Machine learning tools are very similar to what's been around for the last 50 years.
 >
-> **[0:56](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=56)** A lot of systems use machine learning algorithms.
+> **[0:56](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=56)** A lot of systems use machine learning [[Algorithms]].
 >
-> **[0:59](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=59)** These machine learning algorithms are based on statistics.
+> **[0:59](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=59)** These machine learning algorithms are based on [[Statistics]].
 >
 > **[1:03](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=63)** You may have heard a few of them mentioned offhand by your machine learning teams.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=130)** Another common tool that you'll see with machine learning is an artificial neural network.
 >
-> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=135)** It might sound strange, but the idea behind artificial neural networks goes back to the 1940s.
+> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=135)** It might sound strange, but the idea behind [[Artificial Neural Networks]] goes back to the 1940s.
 >
 > **[2:22](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=142)** It's based on some mathematical theories from the 18th and 19th centuries.
 >
@@ -363,13 +359,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=193)** Now with this new data fuel, you see artificial neural networks doing extraordinary things.
 >
-> **[3:18](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=198)** That's why it's become one of the most common tools in both predictive and generative AI.
+> **[3:18](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=198)** That's why it's become one of the most common tools in both predictive and [[Generative AI]].
 >
-> **[3:24](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=204)** In fact, you may have heard of a deep learning network, that's a complex artificial neural network that's many layers deep.
+> **[3:24](https://www.linkedin.com/learning/everyday-ai-business-tools/artificial-neural-networks?u=76281980&t=204)** In fact, you may have heard of a [[Deep Learning]] network, that's a complex artificial neural network that's many layers deep.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (9), data (9), [[Artificial Neural Networks]] (4), [[Statistics]] (2), teams (1)
+> **Frameworks & Libraries:** [[Algorithms]] (9), [[Artificial Neural Networks]] (4), [[Statistics]] (2), [[Generative AI]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** cat (2)
 > **Definitions:** is an  (2)
 > **UI Navigation:** go to (1)
@@ -381,20 +377,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to build a machine learning platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980)
+#### [How to build a machine learning platform](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=0)** - Deep learning is a form of machine learning that employs artificial neural networks that are many layers deep.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=0)** - [[Deep Learning]] is a form of machine learning that employs [[Artificial Neural Networks]] that are many layers deep.
 >
 > **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=7)** This system allows you to look through enormous amounts of data.
 >
-> **[0:11](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=11)** That's why deep machine learning networks are often some of the most powerful predictive and generative AI systems.
+> **[0:11](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=11)** That's why deep machine learning networks are often some of the most powerful predictive and [[Generative AI]] systems.
 >
 > **[0:19](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=19)** But you can almost think of a deep learning artificial neural network as a pattern discovery machine.
 >
-> **[0:25](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=25)** Remember that one of the most common uses for deep learning artificial neural networks is predictive artificial intelligence.
+> **[0:25](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=25)** Remember that one of the most common uses for deep learning artificial neural networks is predictive [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:34](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=34)** The value of predictive artificial intelligence is in making accurate predictions.
 >
@@ -450,25 +445,24 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=175)** Then, they'll share the much smaller data model file.
 >
-> **[2:59](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=179)** In fact, you can freely download data models from websites like Hugging Face to use on your own system.
+> **[2:59](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=179)** In fact, you can freely download data models from websites like [[Hugging Face]] to use on your own system.
 >
 > **[3:06](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980&t=186)** If you're interested in working with artificial neural networks, this is often a great way to understand how these systems work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Deep Learning]] (5), [[Artificial Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), teams (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Artificial Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (1), [[Hugging Face]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - deep (1)
 
-#### Fine-tune your data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980)
+#### [Fine-tune your data model](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=1)** - In the early 1990s, when I first started working in technology, Intel was an unstoppable force.
 >
-> **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=7)** Microsoft Windows running on Intel processors was on almost every computer.
+> **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=7)** [[Microsoft]] [[Windows]] running on Intel processors was on almost every computer.
 >
 > **[0:13](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=13)** That's because Intel was manufacturing something called a central processing unit, or CPU.
 >
@@ -498,17 +492,17 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=94)** One of the most successful was called Nvidia.
 >
-> **[1:37](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=97)** In 2009, the CEO discussed the significance of merging their GPU chips with deep learning software, calling it the "Big Bang."
+> **[1:37](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=97)** In 2009, the CEO discussed the significance of merging their GPU chips with [[Deep Learning]] software, calling it the "Big Bang."
 >
 > **[1:46](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=106)** Fast forward to today, and the graphics chip manufacturer Nvidia is many times larger than Intel.
 >
-> **[1:53](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=113)** At the same time, a Google team was improving how artificial neural networks analyzed large amounts of data.
+> **[1:53](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=113)** At the same time, a [[Google]] team was improving how [[Artificial Neural Networks]] analyzed large amounts of data.
 >
 > **[2:00](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=120)** They started to create internal tools that they could use to develop these systems.
 >
 > **[2:05](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=125)** They also noticed that these graphics processing units, or GPUs, are much better suited to the type of math that you need with artificial neural networks.
 >
-> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=135)** Over the years, they improved this internal tool and turned it into a fully-fledged integrated development environment, or IDE, called TensorFlow.
+> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=135)** Over the years, they improved this internal tool and turned it into a fully-fledged integrated development environment, or IDE, called [[TensorFlow]].
 >
 > **[2:25](https://www.linkedin.com/learning/everyday-ai-business-tools/fine-tune-your-data-model?u=76281980&t=145)** This development environment allowed other companies to start developing their own deep learning artificial neural networks.
 >
@@ -532,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Artificial Neural Networks]] (4), [[TensorFlow]] (4), data (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Artificial Neural Networks]] (4), [[TensorFlow]] (4), [[Google]] (2), [[Microsoft]] (1)
 > **Env Vars:** cpu (1), ceo (1), gpu (1), ide (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -544,8 +538,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The flexibility of foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980)
+#### [The flexibility of foundation models](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=12)** The more it ate, the greater its appetite.
 >
-> **[0:15](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=15)** In many ways, generative AI has become its own intelligent blob.
+> **[0:15](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=15)** In many ways, [[Generative AI]] has become its own intelligent blob.
 >
 > **[0:20](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=20)** It has an enormous appetite for data.
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=94)** That also means that the tools for these systems will be different from what you see with predictive data.
 >
-> **[1:40](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=100)** Predictive AI can be used on much smaller data sets, so a company can use predictive AI for their customer data.
+> **[1:40](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=100)** [[Predictive AI]] can be used on much smaller data sets, so a company can use predictive AI for their customer data.
 >
 > **[1:48](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=108)** Many companies can build these systems on their own.
 >
@@ -599,7 +592,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=129)** That's why you don't see hundreds of different search engines.
 >
-> **[2:12](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=132)** That's also why you don't see many different cloud computing platforms and backup services.
+> **[2:12](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=132)** That's also why you don't see many different [[Cloud Computing]] platforms and backup services.
 >
 > **[2:17](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=137)** It simply makes more sense for most companies to buy these services as opposed to building them.
 >
@@ -609,7 +602,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=158)** An API is a service that connects directly to your software and tools.
 >
-> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=163)** A lot of these APIs will work with many languages, but one of the most common ways to access an API is by using the programming language Python.
+> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=163)** A lot of these APIs will work with many languages, but one of the most common ways to access an API is by using the programming language [[Python (Programming Language)|Python]].
 >
 > **[2:53](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980&t=173)** Python is one of the most popular programming languages.
 >
@@ -627,15 +620,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Generative AI]] (8), [[Programming]] (6), [[Python (Programming Language)|Python]] (4), api (3)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Python (Programming Language)|Python]] (4), [[Predictive AI]] (2), [[Cloud Computing]] (1)
 > **CLI Commands:** python (4), cat (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - in (1)
 
-#### Generate text with large language models (LLM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980)
+#### [Generate text with large language models (LLM)](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,17 +635,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=5)** You can use some tools to build your own system.
 >
-> **[0:08](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=8)** These are mostly used for predictive AI, so you can use a server with a powerful GPU to build an artificial neural network and create a data model, but you can also use a programming language like Python to access another company's application programming interface or API.
+> **[0:08](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=8)** These are mostly used for [[Predictive AI]], so you can use a server with a powerful GPU to build an artificial neural network and create a data model, but you can also use a programming language like [[Python (Programming Language)|Python]] to access another company's application programming interface or API.
 >
-> **[0:26](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=26)** Then you can build out a simpler program that relies on these powerful generative AI systems.
+> **[0:26](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=26)** Then you can build out a simpler program that relies on these powerful [[Generative AI]] systems.
 >
 > **[0:32](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=32)** Even though these tools follow these general trends, there's still a lot of mixing and matching.
 >
 > **[0:38](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=38)** In fact, you can use Python to do a lot more than just access in other company's API.
 >
-> **[0:44](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=44)** Some companies use Python as a replacement for TensorFlow.
+> **[0:44](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=44)** Some companies use Python as a replacement for [[TensorFlow]].
 >
-> **[0:48](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=48)** One of the most common ways to do this is by using a Python library called PyTorch.
+> **[0:48](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=48)** One of the most common ways to do this is by using a Python library called [[PyTorch]].
 >
 > **[0:53](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=53)** With this library, you can build your own artificial neural network.
 >
@@ -661,7 +653,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=62)** One area where you can really see all the different tools and possibilities is when you're working with a large language model.
 >
-> **[1:10](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=70)** Large language models, or LLMs, are a type of foundation model that works with massive amounts of text.
+> **[1:10](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=70)** [[Large Language Models (LLM)|Large language models]], or LLMs, are a type of foundation model that works with massive amounts of text.
 >
 > **[1:18](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=78)** It's the technology that's behind a lot of popular AI chat programs that you've seen over the last few years.
 >
@@ -671,7 +663,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=98)** LLMs are a good way to get a sense of all the different tools that you might use.
 >
-> **[1:42](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=102)** Open AI's ChatGPT is one of the most popular LLMs.
+> **[1:42](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=102)** Open AI's [[ChatGPT]] is one of the most popular LLMs.
 >
 > **[1:47](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=107)** OpenAI has trained this language model with an extensive data set of trillions of words.
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=137)** If you wanted to create an intelligent chat bot for your website, you could have Open AI access all your data, then you could create an API tool that would chat with your customer in a very human sounding way.
 >
-> **[2:30](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=150)** An alternative is to go to a website like Hugging Face.
+> **[2:30](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=150)** An alternative is to go to a website like [[Hugging Face]].
 >
 > **[2:33](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=153)** This site gives you access to freely downloadable models.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=174)** Then you could use TensorFlow or PyTorch to build a local chat application.
 >
-> **[3:00](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=180)** Now, keep in mind that most of the freely available foundation models are less capable than their commercial counterparts from Open AI, Anthropic, Google, and others.
+> **[3:00](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=180)** Now, keep in mind that most of the freely available foundation models are less capable than their commercial counterparts from Open AI, Anthropic, [[Google]], and others.
 >
 > **[3:10](https://www.linkedin.com/learning/everyday-ai-business-tools/generate-text-with-large-language-models-llm?u=76281980&t=190)** You can access all of those through their API.
 >
@@ -705,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), api (5), [[Python (Programming Language)|Python]] (4), [[Programming]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[TensorFlow]] (2), [[PyTorch]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (2)
 > **Env Vars:** api (5), gpu (1), gpt (1)
 > **CLI Commands:** python (4), apache (1)
 > **UI Navigation:** go to (1)
@@ -714,14 +706,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
-#### Run a local LLM with Llama
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980)
+#### [Run a local LLM with Llama](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=0)** - Large language models can be an enormous opportunity.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=0)** - [[Large Language Models (LLM)|Large language models]] can be an enormous opportunity.
 >
-> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=4)** For years, Google has dominated the search market.
+> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=4)** For years, [[Google]] has dominated the search market.
 >
 > **[0:07](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=7)** By some estimates, almost 90% of search results go through Google.
 >
@@ -729,13 +720,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=18)** In fact, companies like OpenAI will soon offer their own search to pull people into their service.
 >
-> **[0:25](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=25)** In some ways, this is like how cloud computing got its start in the mid 2000s.
+> **[0:25](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=25)** In some ways, this is like how [[Cloud Computing]] got its start in the mid 2000s.
 >
 > **[0:30](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=30)** Many large organizations like IBM, Google, and Amazon pushed to dominate this new business.
 >
 > **[0:36](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=36)** But as of today, Amazon is still the most popular cloud computing platform.
 >
-> **[0:42](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=42)** One of the key things Amazon did was they created a free tier of cloud services.
+> **[0:42](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=42)** One of the key things Amazon did was they created a free tier of [[Cloud Services]].
 >
 > **[0:47](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=47)** This helped people become more familiar with the services and improve their API programming skills.
 >
@@ -743,15 +734,15 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=57)** IBM gave away its technical specifications that way companies would standardize on PCs.
 >
-> **[1:04](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=64)** Google gave away Android that way mobile companies would install it on their phones.
+> **[1:04](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=64)** Google gave away [[Android]] that way mobile companies would install it on their phones.
 >
 > **[1:09](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=69)** Netscape gave away its browser code so people would use their browser and then, years later, Google would do the same.
 >
 > **[1:17](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=77)** Giving away valuable technology for free is a good way to block your competitors and become an industry standard.
 >
-> **[1:23](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=83)** That's why Microsoft and Meta have collaborated on a large language model that they released for free.
+> **[1:23](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=83)** That's why [[Microsoft]] and Meta have collaborated on a large language model that they released for free.
 >
-> **[1:30](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=90)** This LLM is called Llama and it stands for Large Language Model Meta AI.
+> **[1:30](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=90)** This LLM is called [[LLaMA]] and it stands for Large Language Model Meta AI.
 >
 > **[1:37](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=97)** Its current version, has been trained with 400 billion parameters.
 >
@@ -765,15 +756,15 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=131)** But as you've seen, the foundation model is a much smaller file.
 >
-> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=135)** In fact, you can fill out a simple form and download this model for free from Hugging Face or directly from Meta.
+> **[2:15](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=135)** In fact, you can fill out a simple form and download this model for free from [[Hugging Face]] or directly from Meta.
 >
 > **[2:22](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=142)** You won't need hundreds of millions of dollars of computer equipment to run the model.
 >
 > **[2:27](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=147)** In fact, you could run it on one PC as long it has a powerful graphics card and at least 140 gigabytes of memory.
 >
-> **[2:35](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=155)** You can also run the model on top of cloud service providers like Amazon Web Services, Google, and Microsoft Azure.
+> **[2:35](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=155)** You can also run the model on top of cloud service providers like [[Amazon Web Services (AWS)|Amazon Web Services]], Google, and [[Microsoft Azure]].
 >
-> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=163)** One of the easiest ways to run this model is to use a utility called Ollama.
+> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=163)** One of the easiest ways to run this model is to use a utility called [[Ollama]].
 >
 > **[2:48](https://www.linkedin.com/learning/everyday-ai-business-tools/rub-a-local-llm-with-llama?u=76281980&t=168)** Ollama allows you to download this and other models so that you can run them directly on your computer.
 >
@@ -791,15 +782,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (4), cloud (4), [[LLaMA]] (4), llm (3)
+> **Frameworks & Libraries:** [[Google]] (6), [[LLaMA]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Cloud Computing]] (2), [[Ollama]] (2)
 > **Env Vars:** llm (3), ibm (2), api (1), nvidia (1), gpu (1)
 > **Definitions:** is a  (3), is called (1), stands for (1), is an  (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - large (1)
 
-#### The promise of prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980)
+#### [The promise of prompt engineering](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=85)** This desire is called the ELIZA Effect.
 >
-> **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=89)** Fast forward to today, the newer systems, such as ChatGPT, are way more sophisticated than ELIZA.
+> **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=89)** Fast forward to today, the newer systems, such as [[ChatGPT]], are way more sophisticated than ELIZA.
 >
 > **[1:36](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=96)** They make it much easier to convince people that it's a living intelligence.
 >
@@ -847,7 +837,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=108)** The trick is to ask questions in a way that a large language model thinks.
 >
-> **[1:52](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=112)** This is usually called prompt engineering.
+> **[1:52](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=112)** This is usually called [[Prompt Engineering]].
 >
 > **[1:56](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=116)** Prompt engineering is about writing requests to the system that will get the highest quality response.
 >
@@ -869,7 +859,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=168)** You can also use chain-of-thought prompting to simplify complex topics.
 >
-> **[2:53](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=173)** You could write something like, "Please break down some of the technical challenges around deep learning artificial neural networks step by step."
+> **[2:53](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=173)** You could write something like, "Please break down some of the technical challenges around [[Deep Learning]] [[Artificial Neural Networks]] step by step."
 >
 > **[3:03](https://www.linkedin.com/learning/everyday-ai-business-tools/the-promise-of-prompt-engineering?u=76281980&t=183)** The key thing to keep in mind is that no matter how human these systems seem, they're still foundation models that have been trained on trillions of words.
 >
@@ -883,7 +873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Deep Learning]] (2), [[Artificial Neural Networks]] (2), chatbot (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Deep Learning]] (2), [[Artificial Neural Networks]] (2), [[ChatGPT]] (1)
 > **Env Vars:** eliza (9)
 > **Analogies:** such as (1), imagine (1), just like (1)
 > **CLI Commands:** make (1), find (1)
@@ -891,28 +881,27 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
 
-#### Create graphics with image diffusion models
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980)
+#### [Create graphics with image diffusion models](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=0)** - So far, most of the tools you've seen have been about language.
 >
-> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=4)** Remember that large language models are a type of foundation model, but you can also create a foundation model to generate music, video, or realistic-looking images.
+> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=4)** Remember that [[Large Language Models (LLM)|large language models]] are a type of foundation model, but you can also create a foundation model to generate music, video, or realistic-looking images.
 >
 > **[0:15](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=15)** In fact, most people were introduced to foundation models by seeing a generated image.
 >
 > **[0:21](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=21)** Maybe it was a cat Mona Lisa or an astronaut riding a horse.
 >
-> **[0:26](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=26)** That's why image generation tools are still one of the most talked about forms of generative AI.
+> **[0:26](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=26)** That's why image generation tools are still one of the most talked about [[Forms]] of [[Generative AI]].
 >
 > **[0:33](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=33)** There are two popular ways to create an image generating foundation model.
 >
 > **[0:37](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=37)** One way is to use something called a generative adversarial network, or GAN.
 >
-> **[0:44](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=44)** This is when you use two neural networks to compete against one another to generate a new image.
+> **[0:44](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=44)** This is when you use two [[Neural Networks]] to compete against one another to generate a new image.
 >
-> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=50)** Generative adversarial networks are a terrific technique for creating a photorealistic image, but it's not the best technique for creating a composition.
+> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=50)** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] are a terrific technique for creating a photorealistic image, but it's not the best technique for creating a composition.
 >
 > **[1:00](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=60)** You can't really use it to create a cat Mona Lisa or any image that has a bunch of mixed elements.
 >
@@ -920,9 +909,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=73)** The second technique is to use something called an image diffusion model.
 >
-> **[1:18](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=78)** This is when you have a deep learning artificial neural network blur and unblur millions or even billions of images to figure out how to generate something new.
+> **[1:18](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=78)** This is when you have a [[Deep Learning]] artificial neural network blur and unblur millions or even billions of images to figure out how to generate something new.
 >
-> **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=89)** Now, if you're not used to working with artificial neural networks, image diffusion models might sound a little strange.
+> **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=89)** Now, if you're not used to working with [[Artificial Neural Networks]], image diffusion models might sound a little strange.
 >
 > **[1:35](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=95)** You're essentially destroying and recreating an image until the machines understands the patterns.
 >
@@ -938,35 +927,35 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=140)** They sell Firefly as a service that can be used through Photoshop and other Adobe programs.
 >
-> **[2:26](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=146)** Midjourney is another popular service.
+> **[2:26](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=146)** [[Midjourney]] is another popular service.
 >
 > **[2:29](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=149)** This service allows you to open chat prompts through Discord, which is a popular chat program.
 >
 > **[2:35](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=155)** You can adjust the prompts to see how the system creates an image that meets your expectations.
 >
-> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=163)** There's also an open-source model called Stable Diffusion.
+> **[2:43](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=163)** There's also an open-source model called [[Stable Diffusion]].
 >
 > **[2:47](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=167)** You can download Stable Diffusion and run it on your own computer.
 >
-> **[2:52](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=172)** It's like what Llama is for large language models.
+> **[2:52](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=172)** It's like what [[LLaMA]] is for large language models.
 >
 > **[2:55](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=175)** You can download Stable Diffusion and then use specialized prompts to generate new images.
 >
-> **[3:02](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=182)** Earlier we discussed how TensorFlow, a machine learning framework, requires a significant number of graphic processing units, or GPUs, to perform its tasks.
+> **[3:02](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=182)** Earlier we discussed how [[TensorFlow]], a machine learning framework, requires a significant number of graphic processing units, or GPUs, to perform its tasks.
 >
 > **[3:13](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=193)** The same thing holds true for foundation models like Stable Diffusion.
 >
 > **[3:18](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=198)** You can run the model on most laptops, but to create the most interesting images, you'll need a computer with a graphics card and a powerful GPU.
 >
-> **[3:29](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=209)** You can also use a website like Hugging Face to download specific image models and see if they're any better at generating your image.
+> **[3:29](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=209)** You can also use a website like [[Hugging Face]] to download specific image models and see if they're any better at generating your image.
 >
 > **[3:37](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=217)** In the future, many services might combine the elements of large language models and image diffusion models.
 >
-> **[3:44](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=224)** Then you can use chat clients like ChatGPT or Google's Gemini to both ask questions and create new images.
+> **[3:44](https://www.linkedin.com/learning/everyday-ai-business-tools/create-graphics-with-image-diffusion-models?u=76281980&t=224)** Then you can use chat clients like [[ChatGPT]] or [[Google]]'s [[Gemini]] to both ask questions and create new images.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Stable Diffusion]] (4), cloud (2), open-source (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Stable Diffusion]] (4), [[Forms]] (1), [[Generative AI]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (2), gpu (1)
 > **Analogies:** it's like (2), picture (1)
 > **CLI Commands:** cat (2)
@@ -980,28 +969,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How machines learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980)
+#### [How machines learn](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=1)** - Earlier, you saw that there are two different types of machine learning.
 >
-> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=4)** There's predictive and generative artificial intelligence.
+> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=4)** There's predictive and generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:08](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=8)** Predictive machine learning is still the core of how most businesses use AI.
 >
-> **[0:14](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=14)** Generative AI has become a popular way to generate text for email and memos, or generate new images for presentations and articles.
+> **[0:14](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=14)** [[Generative AI]] has become a popular way to generate text for email and memos, or generate new images for presentations and articles.
 >
 > **[0:24](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=24)** Now, the tools you'll use will depend a lot on whether you are using predictive or generative AI.
 >
-> **[0:30](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=30)** Predictive AI still allows a lot of organizations to build their own models.
+> **[0:30](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=30)** [[Predictive AI]] still allows a lot of organizations to build their own models.
 >
-> **[0:35](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=35)** You can use Python or TensorFlow to create data models that will better predict your customer's behavior.
+> **[0:35](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=35)** You can use [[Python (Programming Language)|Python]] or [[TensorFlow]] to create data models that will better predict your customer's behavior.
 >
 > **[0:42](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=42)** Generative AI will likely be about working with the large organization's application programming interface, or API.
 >
-> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=50)** That's why a lot of organizations are currently working to better understand the OpenAI API.
+> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=50)** That's why a lot of organizations are currently working to better understand the [[OpenAI API]].
 >
 > **[0:56](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=56)** They're hoping to have their organization essentially rent these services from a larger organization.
 >
@@ -1027,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=117)** Many organizations might want to encourage loyal customers to spend more, so you'll use these predictive models to target these customers for promotions or relevant advertising.
 >
-> **[2:08](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=128)** Your team can use TensorFlow or PyTorch to help select the best machine learning algorithm.
+> **[2:08](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=128)** Your team can use TensorFlow or [[PyTorch]] to help select the best machine learning algorithm.
 >
 > **[2:14](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=134)** You can use a popular machine learning algorithm like Naive Bays to identify specific features of your top customers.
 >
@@ -1047,13 +1035,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=181)** Now, classifying and clustering data using machine learning has been around for years, so most of what you'll need will already be built into these top frameworks.
 >
-> **[3:10](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=190)** Remember, using machine learning algorithms to enhance your own data model is different from using another company's foundation model.
+> **[3:10](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=190)** Remember, using machine learning [[Algorithms]] to enhance your own data model is different from using another company's foundation model.
 >
 > **[3:19](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980&t=199)** That means that even though you might be using tools like Python to do both things, the skills your team will use will be much different.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Generative AI]] (4), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Python (Programming Language)|Python]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[TensorFlow]] (2)
 > **CLI Commands:** python (4)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (1), is called (1), means that (1)
@@ -1061,8 +1049,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - earlier (1)
 
-#### Self-supervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980)
+#### [Self-supervised learning](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,13 +1067,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=27)** Some Vikings even said they could smell land.
 >
-> **[0:32](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=32)** Vikings probably never thought about it this way, but they were doing a form of self supervised learning.
+> **[0:32](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=32)** Vikings probably never thought about it this way, but they were doing a form of self [[Supervised Learning]].
 >
 > **[0:38](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=38)** They were looking at the available data and then making guesses about what they didn't see.
 >
 > **[0:43](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=43)** Now this approach has a lot of advantages over supervised and unsupervised learning.
 >
-> **[0:49](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=49)** The main advantage is that it's the only way to analyze massive amounts of unstructured data.
+> **[0:49](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=49)** The main advantage is that it's the only way to analyze massive amounts of [[Unstructured Data]].
 >
 > **[0:54](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=54)** The Vikings didn't have a compass.
 >
@@ -1096,13 +1083,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=69)** At the end of the day, they were looking to find land.
 >
-> **[1:13](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=73)** The way the Vikings traveled is a lot like how modern deep learning artificial neural networks ride through oceans of data.
+> **[1:13](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=73)** The way the Vikings traveled is a lot like how modern [[Deep Learning]] [[Artificial Neural Networks]] ride through oceans of data.
 >
 > **[1:21](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=81)** To build a foundation model, these systems need to look through trillions of pages of text or billions of images.
 >
 > **[1:29](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=89)** There's way too much here to classify.
 >
-> **[1:32](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=92)** So think about if you wanted to use generative AI to create a new image.
+> **[1:32](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=92)** So think about if you wanted to use [[Generative AI]] to create a new image.
 >
 > **[1:36](https://www.linkedin.com/learning/everyday-ai-business-tools/self-supervised-learning?u=76281980&t=96)** You could type into the prompt something like, "Create an image of vikings riding on a luxury yacht."
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (4), [[Unstructured Data]] (2), [[Deep Learning]] (1), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Unstructured Data]] (2), [[Deep Learning]] (1), [[Artificial Neural Networks]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -1150,26 +1137,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AI upskilling framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980)
+#### [The AI upskilling framework](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=1)** - You've already seen that there are a few options for working with AI systems.
 >
-> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=4)** You can use tools like TensorFlow and PyTorch to build your own predictive AI models.
+> **[0:04](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=4)** You can use tools like [[TensorFlow]] and [[PyTorch]] to build your own [[Predictive AI]] models.
 >
-> **[0:10](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=10)** You can also download open source foundation models like Llama and Stable Diffusion.
+> **[0:10](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=10)** You can also download open source foundation models like [[LLaMA]] and [[Stable Diffusion]].
 >
-> **[0:16](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=16)** You can also use a common programming language like Python to access services via an API.
+> **[0:16](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=16)** You can also use a common programming language like [[Python (Programming Language)|Python]] to access services via an API.
 >
-> **[0:22](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=22)** This is offered as a paid service by companies such as OpenAI, Microsoft, Amazon, and Google.
+> **[0:22](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=22)** This is offered as a paid service by companies such as OpenAI, [[Microsoft]], Amazon, and [[Google]].
 >
 > **[0:28](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=28)** With so many options and trillions invested in technology, it's hard to predict which tools will win out.
 >
 > **[0:34](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=34)** But as you saw with the Vikings, sometimes the best strategy is just set sail and gather data along the way.
 >
-> **[0:42](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=42)** One excellent resource that can get you started is the AI Upskilling Framework developed by LinkedIn.
+> **[0:42](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=42)** One excellent resource that can get you started is the AI Upskilling Framework developed by [[LinkedIn]].
 >
 > **[0:49](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=49)** This framework is a pyramid of different skills that will likely be useful in an age of AI.
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=100)** LinkedIn lists out examples of courses that will get you started using some key tools.
 >
-> **[1:46](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=106)** You'll find courses on accessing OpenAI's API or using PyTorch to create neural networks.
+> **[1:46](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=106)** You'll find courses on accessing OpenAI's API or using PyTorch to create [[Neural Networks]].
 >
 > **[1:54](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=114)** Another strategy might be to focus on learning Python.
 >
@@ -1205,7 +1191,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=141)** Finally, you should also think a lot about your industry.
 >
-> **[2:25](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=145)** If you work in higher education, you might be more inclined to use open source foundation models.
+> **[2:25](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=145)** If you work in [[Higher Education]], you might be more inclined to use open source foundation models.
 >
 > **[2:31](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980&t=151)** Higher education has plenty of open source software with knowledgeable technical experts.
 >
@@ -1223,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Python (Programming Language)|Python]] (6), [[LinkedIn]] (3), [[TensorFlow]] (2), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[LinkedIn]] (3), [[TensorFlow]] (2), [[PyTorch]] (2), [[Predictive AI]] (2)
 > **CLI Commands:** python (6), find (1)
 > **Env Vars:** api (2)
 > **Cross-References:** as you saw (1)
@@ -1232,32 +1218,31 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
-#### Human intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980)
+#### [Human intelligence](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=1)** - As of today, OpenAI's ChatGPT is the dominant generative AI tool.
+> **[0:01](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=1)** - As of today, OpenAI's [[ChatGPT]] is the dominant [[Generative AI]] tool.
 >
 > **[0:05](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=5)** By some estimates, ChatGPT is the AI tool that people use about 60% of the time.
 >
 > **[0:10](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=10)** That makes a lot of sense.
 >
-> **[0:11](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=11)** You don't hear teachers complaining about kids downloading Llama to cheat on their homework, but even though ChatGPT has gotten a headstart, it's still important to look at the broad ecosystem of tools.
+> **[0:11](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=11)** You don't hear teachers complaining about kids downloading [[LLaMA]] to cheat on their homework, but even though ChatGPT has gotten a headstart, it's still important to look at the broad ecosystem of tools.
 >
 > **[0:23](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=23)** Remember that these tools that you saw were to help you get a better sense of key AI topics.
 >
 > **[0:29](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=29)** It's like you're swinging a tennis racket to get a better understanding of the game.
 >
-> **[0:33](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=33)** ChatGPT, Google Gemini, Anthropic Claude are easy ways to start with AI, but they're not the best way to learn AI.
+> **[0:33](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=33)** ChatGPT, [[Google Gemini]], [[Anthropic Claude]] are easy ways to start with AI, but they're not the best way to learn AI.
 >
 > **[0:43](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=43)** Think of it this way.
 >
 > **[0:45](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=45)** 30 years ago, if you wanted to learn more about computer programming, you could choose from a variety of tools.
 >
-> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=50)** You could have learned Java or C++, maybe would've even gotten an early start in Python.
+> **[0:50](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=50)** You could have learned [[Java]] or C++, maybe would've even gotten an early start in [[Python (Programming Language)|Python]].
 >
-> **[0:56](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=56)** At the same time, a couple of the most popular programs were Microsoft Word and Excel.
+> **[0:56](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=56)** At the same time, a couple of the most popular programs were [[Microsoft Word]] and [[Microsoft Excel|Excel]].
 >
 > **[1:02](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=62)** Even though these were software programs, they didn't teach you anything about programming.
 >
@@ -1265,13 +1250,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=74)** The same thing holds true today.
 >
-> **[1:16](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=76)** ChatGPT can assist you in creating office memos.
+> **[1:16](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=76)** ChatGPT can assist you in creating [[Microsoft Office|office]] memos.
 >
-> **[1:19](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=79)** You might even do a form of prompt engineering, but the tool doesn't give you a sense of how a data model works.
+> **[1:19](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=79)** You might even do a form of [[Prompt Engineering]], but the tool doesn't give you a sense of how a data model works.
 >
-> **[1:26](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=86)** It doesn't teach you how to use self-supervised learning to build a flexible foundation model.
+> **[1:26](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=86)** It doesn't teach you how to use self-[[Supervised Learning]] to build a flexible foundation model.
 >
-> **[1:31](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=91)** You could use ChatGPT, Adobe's Firefly, or Midjourney and not learn anything new about generative artificial intelligence.
+> **[1:31](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=91)** You could use ChatGPT, Adobe's Firefly, or [[Midjourney]] and not learn anything new about generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:40](https://www.linkedin.com/learning/everyday-ai-business-tools/human-intelligence?u=76281980&t=100)** If you're interested in AI, it's important to differentiate between using AI tools and understanding AI tools.
 >
@@ -1303,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[ChatGPT]] (7), data (3), [[Programming]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Java]] (2), [[Microsoft Word]] (2), [[Generative AI]] (1), [[LLaMA]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -1315,8 +1300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980)
+#### [Tools and concepts](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1314,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980&t=19)** This course expands on some key AI topics that you've just seen.
 >
-> **[0:24](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980&t=24)** As always, please feel free to follow me on LinkedIn.
+> **[0:24](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980&t=24)** As always, please feel free to follow me on [[LinkedIn]].
 >
 > **[0:27](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980&t=27)** Here, I'll post articles about AI and other topics.
 >
@@ -1338,7 +1322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 

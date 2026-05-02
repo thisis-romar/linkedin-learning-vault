@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write great code reviews to advance your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
+#### [Write great code reviews to advance your career](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980&t=18)** Software is written by humans and humans can make mistakes.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980&t=22)** Before suggested changes are integrated into the code base, they are often reviewed and approved before they reach the end user in something called a code review.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980&t=22)** Before suggested changes are integrated into the code base, they are often reviewed and approved before they reach the end user in something called a [[Code Review]].
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980&t=31)** In this course, we'll talk about how code gets reviewed, how you can give a great code review and what you should look for in reviewing code written by other developers.
 >
@@ -128,24 +127,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (3), product (1)
+> **Frameworks & Libraries:** [[Code Review]] (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This course is designed to introduce you to code reviews, and how they work, in a software development setting.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This course is designed to introduce you to code reviews, and how they work, in a [[Software Development]] setting.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=6)** To take this course, you do not need to have any prior knowledge of code reviews, but ideally, you are familiar with programming, and at least one programming language.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=16)** Whether it's Java, Python, or C#, understanding basic coding principles will give you a foundation to review code written by others.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=16)** Whether it's [[Java]], [[Python (Programming Language)|Python]], or C#, understanding basic coding principles will give you a foundation to review code written by others.
 >
-> **[0:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=26)** We'll be using GitHub in this course.
+> **[0:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=26)** We'll be using [[GitHub]] in this course.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=28)** So, it may help if you're familiar with GitHub, or another version control platform.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=28)** So, it may help if you're familiar with GitHub, or another [[Version Control]] platform.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-you-need-to-know?u=76281980&t=32)** We'll also be using GitHub Desktop, which is GitHub's graphical user interface for desktop.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Programming]] (2), [[Software Development]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Software Development]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Version Control]] (1)
 > **Tools:** github (5)
 > **CLI Commands:** python (1)
 > **Speakers:** - [narrator] (1)
@@ -163,12 +161,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a code review?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
+#### [What is a code review?](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=0)** - [Instructor] A code review is a methodical review of proposed changes to a software source code.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=0)** - [Instructor] A [[Code Review]] is a methodical review of proposed changes to a software source code.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=6)** The proposed changes might consist of something as simple as changing the text on a website.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=46)** When the developer is ready to make changes, they'll pull down a copy of the current code base and change the appropriate text.
 >
-> **[0:54](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=54)** In this case, let's say the developer changes the text within an h3 tag in an HTML file.
+> **[0:54](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=54)** In this case, let's say the developer changes the text within an h3 tag in an [[HTML]] file.
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=61)** When the developer or author is finished making their changes, they'll create a request for others on the team to review their changes.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=124)** The reviewer could also look at if the code is readable, is the code easy to understand so that if it had to be changed again, another software developer can jump in and easily figure it out.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=136)** The code reviewer should also think about if this change is maintainable, as well as if it breaks any design patterns previously established in the code base.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=136)** The code reviewer should also think about if this change is maintainable, as well as if it breaks any [[Design Patterns]] previously established in the code base.
 >
 > **[2:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=146)** Once a reviewer has finished reviewing code, they'll give suggestions to the original author about how they can iterate on their changes.
 >
@@ -216,13 +213,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=173)** That's how code reviews work in a nutshell.
 >
-> **[2:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=176)** Unlike many other practices, code reviews can accelerate and streamline the process of software development.
+> **[2:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=176)** Unlike many other practices, code reviews can accelerate and streamline the process of [[Software Development]].
 >
 > **[3:02](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980&t=182)** Although automated solutions do exist, there's nothing as good as having another software developer review your code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), api (1), product (1), [[HTML]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[HTML]] (1), [[Design Patterns]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** api (1), html (1)
@@ -231,24 +228,23 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code reviews in the software development life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980)
+#### [Code reviews in the software development life cycle](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=0)** - [Instructor] You may not be using code reviews yet, but there is a natural place for them to fit into the software development life cycle.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=0)** - [Instructor] You may not be using code reviews yet, but there is a natural place for them to fit into the [[Software Development]] life cycle.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=8)** The first step in understanding how to implement code reviews is to integrate them into your development process.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=16)** Many development processes exist, but in this case we'll be looking at a basic Agile process.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=16)** Many development processes exist, but in this case we'll be looking at a basic [[Agile Development|Agile]] process.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=23)** In an [[Agile Software Development]] process, there is planning, analysis, design, implementation, testing, integration, and maintenance.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=23)** In an [[[[Agile Software Development]]]] process, there is planning, analysis, design, implementation, testing, integration, and maintenance.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=33)** While we won't be diving too deep into Agile, testing and integration are great places to start practicing code reviews.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=41)** Before code is integrated into your code base, having a human being look at what changes are being made can save time and money down the road in the maintenance step.
 >
-> **[0:52](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=52)** Mistakes can be caught, efficiencies can be made, and code can be made more readable without a ton of uplift or effort with a good code review team practice.
+> **[0:52](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=52)** Mistakes can be caught, efficiencies can be made, and code can be made more readable without a ton of uplift or effort with a good [[Code Review]] team practice.
 
 > [!info]- Semantic Content
 >
@@ -256,8 +252,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who should review code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/who-should-review-code?u=76281980)
+#### [Who should review code?](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/who-should-review-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,19 +302,18 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/who-should-review-code?u=76281980&t=103)** How visible the code is to the end user will impact how much review is needed.
 >
-> **[1:49](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/who-should-review-code?u=76281980&t=109)** Code used for only internal purposes likely has less urgency for review than code that touches client-facing products.
+> **[1:49](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/who-should-review-code?u=76281980&t=109)** Code used for only internal purposes likely has less urgency for review than code that touches client-facing [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### How long should a code review really take
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/how-long-should-a-code-review-really-take?u=76281980)
+#### [How long should a code review really take](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/how-long-should-a-code-review-really-take?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/how-long-should-a-code-review-really-take?u=76281980&t=0)** - [Instructor] A code review should not take hours and hours and hours.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/how-long-should-a-code-review-really-take?u=76281980&t=0)** - [Instructor] A [[Code Review]] should not take hours and hours and hours.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/how-long-should-a-code-review-really-take?u=76281980&t=5)** Sometimes an implementation change might be a few lines of code and the review takes 10 minutes.
 >
@@ -358,8 +352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the author’s purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
+#### [Understand the author’s purpose](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,14 +400,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), feature (2), game (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review implementation details
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980)
+#### [Review implementation details](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980&t=25)** If you find an error, you could provide a general description of your findings to the author or a better way would be to look at how the change was implemented and leave a note on where the error in the code might be.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980&t=37)** For example, let's say the author was adding a feature that rolls a die for a game application in JAVA.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980&t=37)** For example, let's say the author was adding a feature that rolls a die for a game application in [[Java]].
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-implementation-details?u=76281980&t=45)** The output the die's roll should be any number from one to six, but when you run the program on your computer, sometimes the roll is a zero and the roll is never a six.
 >
@@ -512,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), application (2), next (2), [[Programming]] (2), feature (1)
+> **Frameworks & Libraries:** [[Java]] (7)
 > **Env Vars:** java (7), int (2)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (4)
@@ -520,18 +511,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review maintainability and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980)
+#### [Review maintainability and design](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=0)** - [Narrator] In a code review, you should review the maintainability of the code changes.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=0)** - [Narrator] In a [[Code Review]], you should review the maintainability of the code changes.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=5)** One way to review maintainability is to see if the code changes are readable.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=10)** Could another developer easily pick up this piece of code again and change it to something else?
 >
-> **[0:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=15)** If the implementation includes algorithms, are they logical and easy to follow?
+> **[0:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=15)** If the implementation includes [[Algorithms]], are they logical and easy to follow?
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=20)** Was this code easy to review?
 >
@@ -541,11 +531,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=30)** In reviewing, you could suggest a better name for a class, function, or variable to make the code more readable.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=37)** You should also ensure that the code changes align with the coding standards and design patterns used throughout the codebase.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=37)** You should also ensure that the code changes align with the coding standards and [[Design Patterns]] used throughout the codebase.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=45)** Is there a singleton pattern, but this code creates a new instance every time?
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=49)** We won't go too deep into design patterns in this course, but the design of the code change should fit in with the rest of the code.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=49)** We won't go too deep into design patterns in this course, but the design of the code change should fit in with the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-maintainability-and-design?u=76281980&t=57)** If things are done a certain way throughout the file, these changes should match it.
 >
@@ -581,14 +571,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Design Patterns]] (2), feature (2), [[Security]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Design Patterns]] (2), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Review unfamiliar code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980)
+#### [Review unfamiliar code](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,11 +589,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=22)** How will you feel encouraged to pick up tasks in this area if you don't feel comfortable reviewing these code changes?
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=29)** Reviewing code is a great way to familiarize yourself with the rest of the code base.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=29)** Reviewing code is a great way to familiarize yourself with the [[Representational State Transfer (REST)|rest]] of the code base.
 >
 > **[0:34](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=34)** Even if you're not the most knowledgeable in that area of the code, there are things you might pick up on that others may not.
 >
-> **[0:40](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=40)** For example, maybe you see a certain file that isn't deleted along with others in a code review.
+> **[0:40](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=40)** For example, maybe you see a certain file that isn't deleted along with others in a [[Code Review]].
 >
 > **[0:47](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/review-unfamiliar-code?u=76281980&t=47)** You can draw attention to it, and even if your suggestion is not the right solution, you can bring up a discussion about the change.
 >
@@ -622,18 +611,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Providing constructive feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/providing-constructive-feedback-23424348?u=76281980)
+#### [Providing constructive feedback](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/providing-constructive-feedback-23424348?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/providing-constructive-feedback-23424348?u=76281980&t=0)** - [Instructor] Code reviews are more than just a quality assurance process, they're an opportunity for collaboration and learning within a development team.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/providing-constructive-feedback-23424348?u=76281980&t=0)** - [Instructor] Code reviews are more than just a [[Quality Assurance]] process, they're an opportunity for collaboration and learning within a development team.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/providing-constructive-feedback-23424348?u=76281980&t=8)** One of the critical elements that contribute to the success of code reviews is providing constructive feedback.
 >
@@ -696,14 +684,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980)
+#### [Common challenges](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980&t=0)** - [Instructor] Like any collaborative task, code reviews come with their own set of challenges, but there are strategies to overcome them.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980&t=8)** One of the most frustrating parts of a code review is dealing with unresponsive code authors.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980&t=8)** One of the most frustrating parts of a [[Code Review]] is dealing with unresponsive code authors.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/common-challenges-23424347?u=76281980&t=13)** Waiting for feedback or clarification can lead to delays in the development cycle affecting project timelines.
 >
@@ -735,19 +722,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), management (1), teams (1)
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI in code reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980)
+#### [Using AI in code reviews](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=0)** - [Tutor] As software development evolves, so do the tools that are available to developers.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=0)** - [Tutor] As [[Software Development]] evolves, so do the tools that are available to developers.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=5)** Artificial intelligence is now playing a pivotal role in optimizing various aspects of the development lifecycle, including code reviews.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=5)** [[Artificial Intelligence (AI)|Artificial intelligence]] is now playing a pivotal role in optimizing various aspects of the development lifecycle, including code reviews.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=14)** AI excels that understanding the semantics of code, going beyond syntactical analysis, it can understand the meaning and purpose behind code changes.
 >
@@ -773,13 +759,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=117)** To introduce AI into your software engineering process, here are a few tools to consider.
 >
-> **[2:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=123)** First is GitHub Copilot, which is an AI-powered code completion tool.
+> **[2:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=123)** First is [[GitHub Copilot]], which is an AI-powered code completion tool.
 >
 > **[2:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=128)** It assists developers by suggesting entire lines or blocks of code based on the context and user input.
 >
-> **[2:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=135)** You can also use Code Climate, which is an automated code review tool that uses AI and integrates with version control systems to offer continuous feedback.
+> **[2:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=135)** You can also use Code Climate, which is an automated [[Code Review]] tool that uses AI and integrates with [[Version Control]] systems to offer continuous feedback.
 >
-> **[2:25](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=145)** Another option is DeepCode, which uses machine learning algorithms that draw insights from millions of software development repositories.
+> **[2:25](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=145)** Another option is DeepCode, which uses machine learning [[Algorithms]] that draw insights from millions of software development repositories.
 >
 > **[2:34](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/using-ai-in-code-reviews-23435015?u=76281980&t=154)** Leveraging this fast data set enables the tool to offer accurate suggestions and identify potential issues that human reviewers might miss.
 >
@@ -789,7 +775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Software Development]] (2), feature (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub Copilot]] (1), [[Code Review]] (1), [[Version Control]] (1)
 > **Definitions:** is an  (2)
 > **Tools:** github (1)
 > **Analogies:** for instance (1)
@@ -800,20 +786,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find code to review on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
+#### [Find code to review on GitHub](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=0)** - [Tutor] Another developer named Stephanie put up her code for review, and she's asked you to review it.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=7)** Code reviews typically take place on an online version control platform, such as GitHub.
+> **[0:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=7)** Code reviews typically take place on an online [[Version Control]] platform, such as [[GitHub]].
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=12)** As a code reviewer, you are reviewing another developer's changes to a series of files.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=18)** When you find a piece of code you would like to give a suggestion on, you leave a comment on the file, kind of like a Facebook comment or comment on a LinkedIn post.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=18)** When you find a piece of code you would like to give a suggestion on, you leave a comment on the file, kind of like a Facebook comment or comment on a [[LinkedIn]] post.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=28)** In the last chapter we talked about what feedback you might give during a code review.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=28)** In the last chapter we talked about what feedback you might give during a [[Code Review]].
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=33)** But in this chapter, we'll walk through how to give that feedback through code review comments and approve a code submission.
 >
@@ -897,7 +882,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=264)** Let's click files changed and see what code files Stephanie modified.
 >
-> **[4:29](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=269)** In this case, Stephanie has created two files, dice.java and a corresponding test file.
+> **[4:29](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=269)** In this case, Stephanie has created two files, dice.[[Java]] and a corresponding test file.
 >
 > **[4:35](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=275)** She also modified the get ignore.
 >
@@ -917,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Version Control]] (3), [[Code Review]] (3), application (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Version Control]] (3), [[Code Review]] (3), [[LinkedIn]] (2), [[Java]] (1)
 > **Tools:** github (9)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the last (1), we talked about (1), as we saw (1)
@@ -926,8 +911,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), kind of like (1)
 > **File Paths:** dice.java (1)
 
-#### Test code on a local machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980)
+#### [Test code on a local machine](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,17 +933,17 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=54)** And you're right.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=56)** Another way to get a version of the code base is to use the Git CLI or Git Command Line Interface.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=56)** Another way to get a version of the code base is to use the [[Git]] [[CLI]] or Git Command Line Interface.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=62)** There is also a desktop application that provides similar functionality to the Git CLI.
 >
-> **[1:09](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=69)** In this course, we'll be using the GitHub desktop application, but you are welcome to use the Git CLI instead if you're familiar with it.
+> **[1:09](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=69)** In this course, we'll be using the [[GitHub]] desktop application, but you are welcome to use the Git CLI instead if you're familiar with it.
 >
 > **[1:17](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=77)** Both will allow you to easily pull down a given version of the code base from GitHub while saving space on your computer.
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=85)** To use GitHub desktop, we first need to install it.
 >
-> **[1:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=88)** There are versions for Mac and Windows.
+> **[1:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=88)** There are versions for Mac and [[Windows]].
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=91)** With GitHub desktop installed, you'll need to sign in with your credentials.
 >
@@ -983,7 +967,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=146)** With this selection, the PR code will automatically download onto our computer.
 >
-> **[2:31](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=151)** If we navigate to this folder in the desktop, we can go to source, main, Java, and there's Stephanie's code.
+> **[2:31](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=151)** If we navigate to this folder in the desktop, we can go to source, main, [[Java]], and there's Stephanie's code.
 >
 > **[2:39](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/test-code-on-a-local-machine?u=76281980&t=159)** If we switch the branch name back to main, we'll see that the new file from the PR is no longer there.
 >
@@ -1047,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[GitHub]] (6), [[Git]] (4), [[Java]] (4), [[CLI]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Git]] (4), [[Java]] (4), [[CLI]] (3), [[Windows]] (1)
 > **Tools:** github (6), intellij (3), command line (1), terminal (1)
 > **CLI Commands:** git (4), make (2), apache (1), mvn (1), find (1)
 > **Prerequisites:** install (2), set up (2), you'll need (1)
@@ -1056,14 +1040,13 @@ created: 2026-05-02
 > **Definitions:** in other words (2), is a  (1), is an  (1)
 > **Exercise Files:** download the (2), zip file (1)
 
-#### Write code review comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980)
+#### [Write code review comments](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=0)** - [Tutor] Let's add a comment on this PR to give some feedback on this code.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=6)** In the last chapter, one suggestion we came up with was to change the roll dice function name to a name that is consistent with the rest of the code base.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=6)** In the last chapter, one suggestion we came up with was to change the roll dice function name to a name that is consistent with the [[Representational State Transfer (REST)|rest]] of the code base.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=15)** To add a comment, we'll click the line that the comment should apply to and write, can we change this function name to roll dice?
 >
@@ -1071,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=32)** To add the comment we'll click add single comment.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=36)** When writing a code review comment, it's very important to think about what you were writing and how you are stating your feedback.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=36)** When writing a [[Code Review]] comment, it's very important to think about what you were writing and how you are stating your feedback.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=43)** Feedback is already hard to give and receive and doing it through an online platform based on technical content, makes it even harder.
 >
@@ -1123,11 +1106,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=193)** Our comments are not only here in the change to file section, but they are also on the main page of the PR.
 >
-> **[3:21](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=201)** If your settings are set up for email notifications from GitHub, you'll get an email when new comments are posted on any PR you've reviewed, letting you know when to check back on this code.
+> **[3:21](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-code-review-comments?u=76281980&t=201)** If your settings are set up for email notifications from [[GitHub]], you'll get an email when new comments are posted on any PR you've reviewed, letting you know when to check back on this code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (11), [[Representational State Transfer (REST)|Rest]] (1), game (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (11), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** nextint (3)
 > **Cross-References:** in the last (1)
@@ -1136,8 +1119,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Prerequisites:** set up (1)
 
-#### Approve code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980)
+#### [Approve code](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1153,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980&t=83)** For the first comment, we'll just give the thumbs up emoji.
 >
-> **[1:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980&t=86)** Yes, you can leave emojis on code review comments.
+> **[1:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980&t=86)** Yes, you can leave emojis on [[Code Review]] comments.
 >
 > **[1:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/approve-code?u=76281980&t=92)** Do this for the second comment as well.
 >
@@ -1206,8 +1188,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Give a code review
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980)
+#### [Challenge: Give a code review](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,13 +1200,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=17)** In this challenge, you'll be reviewing code that adds a new feature to a calculator application.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=23)** There are a variety of different ways you can implement a calculator with code, but here, the code to be reviewed should match the coding styles shown in the rest of the codebase.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=23)** There are a variety of different ways you can implement a calculator with code, but here, the code to be reviewed should match the coding styles shown in the [[Representational State Transfer (REST)|rest]] of the codebase.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=33)** You might be thinking what language is this in?
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=35)** We've provided two different codebases for you to choose from.
 >
-> **[0:39](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=39)** One is written with Java and the other is written in Python.
+> **[0:39](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=39)** One is written with [[Java]] and the other is written in [[Python (Programming Language)|Python]].
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=43)** You are welcome to review code in the language you are familiar with, but I encourage you to try reviewing code in a language you are unfamiliar with.
 >
@@ -1249,7 +1230,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=116)** For your chosen PR, you should read through the author's purpose, pull down the code, test the feature, review the code, and then leave at least one review comment.
 >
-> **[2:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=127)** This code review comment could be about something the author did well or a suggestion for how to improve the technical implementation.
+> **[2:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=127)** This [[Code Review]] comment could be about something the author did well or a suggestion for how to improve the technical implementation.
 >
 > **[2:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-give-a-code-review?u=76281980&t=136)** There might be other PRs you could review here and you are welcome to review those as well.
 >
@@ -1259,22 +1240,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Java]] (2), [[Python (Programming Language)|Python]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Code Review]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** calc (1), dig (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Give a code review
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980)
+#### [Solution: Give a code review](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=5)** - [Instructor] There are lots of different code review comments you could leave on a given PR, but in this solution, we'll walk through a few potential comments.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=5)** - [Instructor] There are lots of different [[Code Review]] comments you could leave on a given PR, but in this solution, we'll walk through a few potential comments.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=14)** Starting with the Java code base, let's click Pull requests and navigate to the Clear Calculator Values PR.
+> **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=14)** Starting with the [[Java]] code base, let's click Pull requests and navigate to the Clear Calculator Values PR.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=22)** Here, we can read through the author's purpose as well as what they changed and how we can test it.
 >
@@ -1288,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=45)** Now that we understand what the changes should be, let's clone the repo and run the tests in code locally.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=53)** I'll open it in desktop, which will open GitHub desktop.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=53)** I'll open it in desktop, which will open [[GitHub]] desktop.
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=56)** This allows us to easily clone it.
 >
@@ -1342,7 +1322,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=205)** If you like the way the author separated out this functionality for readability, you can always write an encouraging message as a comment.
 >
-> **[3:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=212)** Moving on to the Python version of the code base, let's take a look at the pull requests.
+> **[3:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=212)** Moving on to the [[Python (Programming Language)|Python]] version of the code base, let's take a look at the pull requests.
 >
 > **[3:38](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-give-a-code-review?u=76281980&t=218)** We'll review the Add Modulo PR and read through the author's purpose.
 >
@@ -1404,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Code Review]] (3), [[GitHub]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (3), [[GitHub]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python3 (3), make (2), mvn (1), python (1), cd (1)
 > **Tools:** github (2), intellij (1), terminal (1)
 > **File Paths:** calculator.py (1), calculatortest.py (1)
@@ -1418,8 +1398,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scope of a code change
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
+#### [Scope of a code change](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1446,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980&t=187)** Now, this refinement meeting or grooming meeting doesn't happen just once or once every few months.
 >
-> **[3:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980&t=194)** In an agile environment, this meeting usually happens once a week or once every two weeks.
+> **[3:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980&t=194)** In an [[Agile Development|agile]] environment, this meeting usually happens once a week or once every two weeks.
 >
 > **[3:20](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980&t=200)** It just depends on the team, as every agile environment is different.
 >
@@ -1475,14 +1454,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (2), application (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement a code change
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980)
+#### [Implement a code change](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,11 +1470,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=14)** The user should be able to input two numbers with the caret symbol to take the first number to the power of the second number.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=21)** We'll be working on this example in Python, but you are welcome to add this feature to the Java version instead.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=21)** We'll be working on this example in [[Python (Programming Language)|Python]], but you are welcome to add this feature to the [[Java]] version instead.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=28)** The focus of this lesson is not on the Java or Python languages, but rather the process of getting access to the latest code and implementing a code change as a part of the code submission and code review process.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=28)** The focus of this lesson is not on the Java or Python languages, but rather the process of getting access to the latest code and implementing a code change as a part of the code submission and [[Code Review]] process.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=41)** To get access to the latest version of the code, we can use GitHub Desktop.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=41)** To get access to the latest version of the code, we can use [[GitHub]] Desktop.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=45)** As we've done before, you'll want to select the correct repo or codebase, and then pull down the primary branch that you want to merge your changes into.
 >
@@ -1504,7 +1482,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=58)** So let's select the main branch of this repo.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=62)** To get the latest version of the branch, we can pull from GitHub by clicking fetch origin.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=62)** To get the latest version of the branch, we can pull from GitHub by clicking [[Fetch]] origin.
 >
 > **[1:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=67)** Once we have the latest version, we can make a new branch by using main as the base to implement our changes.
 >
@@ -1516,7 +1494,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=92)** Every team has different naming conventions for their feature branches, or the branches where they implement new features, but this is the one we'll stick with for now.
 >
-> **[1:42](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=102)** Now that our version control is set up, we can begin to implement the code changes.
+> **[1:42](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=102)** Now that our [[Version Control]] is set up, we can begin to implement the code changes.
 >
 > **[1:47](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/implement-a-code-change?u=76281980&t=107)** Let's click show in finders so we can find our codebase.
 >
@@ -1602,7 +1580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), feature (4), [[Python (Programming Language)|Python]] (3), application (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (2), [[GitHub]] (2), [[Code Review]] (1), [[Fetch]] (1)
 > **CLI Commands:** python (3), make (3), python3 (3), find (1), ls (1)
 > **Tools:** github (2), terminal (2), sublime (1)
 > **File Paths:** calculator.py (2), test.py (1)
@@ -1610,14 +1588,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Commit a code change
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980)
+#### [Commit a code change](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980&t=0)** - [Instructor] With our feature implemented, we are ready to commit these changes.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980&t=4)** In GitHub desktop, we can see the changes we've made.
+> **[0:04](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980&t=4)** In [[GitHub]] desktop, we can see the changes we've made.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/commit-a-code-change?u=76281980&t=7)** This is an opportunity to make sure all the formatting is correct and you are modifying the code exactly the way you want to.
 >
@@ -1661,14 +1638,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare code for review
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/prepare-code-for-review?u=76281980)
+#### [Prepare code for review](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/prepare-code-for-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,7 +1684,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Definitions:** in other words (1)
@@ -1720,8 +1695,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a pull request (PR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
+#### [Create a pull request (PR)](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980&t=16)** The first step we need to take is push this feature branch, or this new version of the code, up to the cloud.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980&t=23)** In GitHub Desktop, we can do this by clicking publish branch.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980&t=23)** In [[GitHub]] Desktop, we can do this by clicking publish branch.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980&t=27)** This will make the feature version of our code accessible on GitHub, so we can open a pull request.
 >
@@ -1801,15 +1775,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[GitHub]] (5), cloud (1), prompt (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (5)
 > **Tools:** github (5)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Env Vars:** dig (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find code reviewers
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980)
+#### [Find code reviewers](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1792,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=6)** You could wait around passively for reviews, and it might get reviewed in a few days, but with some good strategies you can get it approved and merged in no time.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=16)** On GitHub, you can request reviewers on your PR.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=16)** On [[GitHub]], you can request reviewers on your PR.
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=20)** When you request another developer, they'll likely receive an email or notification saying that their review has been requested on your pull request.
 >
@@ -1829,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=41)** More than two reviewers can often be counterproductive due to conflicting ideas, and it takes too much resource from the overall team.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=50)** If you use Slack, Microsoft Teams, or another instant messaging platform with your team, you can ping in the appropriate channel that your code is ready for review.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=50)** If you use [[Slack]], [[Microsoft Teams]], or another instant messaging platform with your team, you can ping in the appropriate channel that your code is ready for review.
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=59)** You could write something like, "Please review DIG-009 Add Exponentiation," and then add a link to your pull request.
 >
@@ -1841,7 +1814,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=88)** Ask them if you can set up some time to go over your code together and walk through your implementation.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=94)** Sometimes, if you're working on a part of the code base that's unfamiliar to others, you may have to meet with a few developers on the team to discuss your implementation in order to get some good code review comments and approvals.
+> **[1:34](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=94)** Sometimes, if you're working on a part of the code base that's unfamiliar to others, you may have to meet with a few developers on the team to discuss your implementation in order to get some good [[Code Review]] comments and approvals.
 >
 > **[1:47](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-reviewers?u=76281980&t=107)** On another note, if you are a good code reviewer, people will want to review your code.
 >
@@ -1867,12 +1840,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handle code review comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980)
+#### [Handle code review comments](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=0)** - [Instructor] After receiving a review, your reviewer has likely left code review comments, including technical feedback on your code.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=0)** - [Instructor] After receiving a review, your reviewer has likely left [[Code Review]] comments, including technical feedback on your code.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=8)** Depending on who reviews your code, these comments can feel very constructive and helpful and sometimes they can feel strict, uncalled for, and un-useful.
 >
@@ -1910,7 +1882,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=118)** The reviewers can not only help you improve your code but the overall code base as well.
 >
-> **[2:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=123)** In many fields, especially software development, you have to be willing to learn in order to improve.
+> **[2:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=123)** In many fields, especially [[Software Development]], you have to be willing to learn in order to improve.
 >
 > **[2:09](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/handle-code-review-comments?u=76281980&t=129)** And the way we look at code reviews should be no different.
 >
@@ -1930,8 +1902,7 @@ created: 2026-05-02
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to code reviews comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980)
+#### [Respond to code reviews comments](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1945,7 +1916,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=23)** This is our ad exponentiation PR and we have a few comments.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=28)** This code review comment is about the design.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=28)** This [[Code Review]] comment is about the design.
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=31)** In this case, it says, "Can we state "the new operation first?"
 >
@@ -1965,7 +1936,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=80)** Let's make that quick change and then we'll write, "Done," in response to the comment.
 >
-> **[1:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=86)** First, we'll open GitHub desktop and make sure we're on the right branch, our PR branch, which is dig-009.
+> **[1:26](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=86)** First, we'll open [[GitHub]] desktop and make sure we're on the right branch, our PR branch, which is dig-009.
 >
 > **[1:33](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=93)** Then we'll open up our Calculator.py file and make the suggested change.
 >
@@ -1987,7 +1958,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=128)** We see the caret is at the beginning of this welcome message.
 >
-> **[2:12](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=132)** Let's look at the rest of our comments.
+> **[2:12](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=132)** Let's look at the [[Representational State Transfer (REST)|rest]] of our comments.
 >
 > **[2:15](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/respond-to-code-reviews-comments?u=76281980&t=135)** Scrolling down on the main page, we see a comment again from Stephanie.
 >
@@ -2017,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (6), [[GitHub]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Documentation:** the documentation (1), spec (1)
 > **Tools:** github (2)
@@ -2026,8 +1997,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a feature and submit a PR
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-add-a-feature-and-submit-a-pr?u=76281980)
+#### [Challenge: Add a feature and submit a PR](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/challenge-add-a-feature-and-submit-a-pr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2055,12 +2025,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), feature (1), [[Programming]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add a feature and submit a PR
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980)
+#### [Solution: Add a feature and submit a PR](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980&t=5)** - [Instructor] There are many different solutions to this challenge, as there are an infinite amount of different features you could add to this calculator application.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980&t=14)** But here we'll add the modulo operation to the Java code base.
+> **[0:14](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980&t=14)** But here we'll add the modulo operation to the [[Java]] code base.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/solution-add-a-feature-and-submit-a-pr?u=76281980&t=18)** First we'll pull down the main branch, which is where the consolidated version of the calculator application lives.
 >
@@ -2168,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Java]] (3), feature (2)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **UI Navigation:** go to (2), open the (1)
 > **File Paths:** main.java (1), calculator.java (1)
 > **Env Vars:** nvn (1)
@@ -2182,14 +2150,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add code reviews into your daily job
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)
+#### [Add code reviews into your daily job](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=0)** - [Kathryn] Congratulations on finishing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=3)** From learning how to open a pull request, to giving a comprehensive code review, you've learned a lot.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=3)** From learning how to open a pull request, to giving a comprehensive [[Code Review]], you've learned a lot.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=9)** With the world of software always changing, adding code reviews to your team's practices can ensure a working in readable codebase.
 >
@@ -2201,7 +2168,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=38)** I encourage you to make a goal for yourself, to do at least one code review a day, and I think it might surprise you, at how much of a better developer you become.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=47)** If you want to dive deeper and continue practicing code reviews, the open source community on GitHub is a great place to start.
+> **[0:47](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=47)** If you want to dive deeper and continue practicing code reviews, the open source community on [[GitHub]] is a great place to start.
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980&t=55)** Thank you so much for watching this course, I really enjoyed creating it, to help you discover how code reviews can help improve your team's codebase, as well as your own technical and leadership skills.
 >
@@ -2209,7 +2176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (3), [[GitHub]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Code Review]] (3), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

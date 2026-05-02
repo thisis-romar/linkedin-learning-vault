@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/web-development
   - topic/database-management
-course_count: 27
+course_count: 28
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Selenium
 
-> **Type:** Framework | **Courses:** 27 | **Topics:** [[Software Development]], [[DevOps]], [[Data Science]], [[Web Development]], [[Database Management]]
+> **Type:** Framework | **Courses:** 28 | **Topics:** [[Software Development]], [[DevOps]], [[Data Science]], [[Web Development]], [[Database Management]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]] — 3 mentions
 10. [[Continuous Delivery for Cloud Native Java Apps]] — 3 mentions
 
-> [!note]- See all 27 courses
+> [!note]- See all 28 courses
 > 11. [[Learning Docker]] — 2 mentions
 > 12. [[Programming Foundations- Software Testing-QA]] — 2 mentions
 > 13. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 2 mentions
@@ -48,23 +48,24 @@ created: 2026-05-02
 > 15. [[Learning Playwright]] — 2 mentions
 > 16. [[End-to-End JavaScript Testing with Cypress.io]] — 2 mentions
 > 17. [[Python Essential Training]] — 1 mentions
-> 18. [[Agile Software Development- Extreme Programming]] — 1 mentions
-> 19. [[Angular- Testing and Debugging]] — 1 mentions
-> 20. [[Java- Testing with JUnit]] — 1 mentions
-> 21. [[Nail Your DevOps Interview]] — 1 mentions
-> 22. [[Kubernetes- Your First Project (2021)]] — 1 mentions
-> 23. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
-> 24. [[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]] — 1 mentions
-> 25. [[SQL for Testers]] — 1 mentions
-> 26. [[JavaScript- Test-Driven Development (ES6)]] — 1 mentions
-> 27. [[Learning JavaScript Debugging]] — 1 mentions
+> 18. [[Devops Foundations]] — 1 mentions
+> 19. [[Agile Software Development- Extreme Programming]] — 1 mentions
+> 20. [[Angular- Testing and Debugging]] — 1 mentions
+> 21. [[Java- Testing with JUnit]] — 1 mentions
+> 22. [[Nail Your DevOps Interview]] — 1 mentions
+> 23. [[Kubernetes- Your First Project (2021)]] — 1 mentions
+> 24. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
+> 25. [[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]] — 1 mentions
+> 26. [[SQL for Testers]] — 1 mentions
+> 27. [[JavaScript- Test-Driven Development (ES6)]] — 1 mentions
+> 28. [[Learning JavaScript Debugging]] — 1 mentions
 
 ## Learning Paths
 
 1. [[TestMu AI Test Automation Professional Certificate]] — 80 total mentions
 2. [[Advance Your Skills in Python]] — 78 total mentions
 3. [[Getting Started with Software Testing]] — 76 total mentions
-4. [[Getting Started with DevOps]] — 59 total mentions
+4. [[Getting Started with DevOps]] — 60 total mentions
 5. [[Introduction to Fundamental Skills for Data Work- Data Collection]] — 10 total mentions
 6. [[Leverage AI as a Cybersecurity Analyst]] — 5 total mentions
 7. [[The Top Skills Engineering Professionals Have Right Now]] — 5 total mentions

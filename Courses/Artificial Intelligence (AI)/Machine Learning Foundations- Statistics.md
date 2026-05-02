@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundations of statistics for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
+#### [Foundations of statistics for machine learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,33 +108,32 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=5)** You can troubleshoot issues, optimize performance and innovate, creating a new ML model that is more efficient.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=12)** Here's a secret weapon, a deep understanding of statistics.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=12)** Here's a secret weapon, a deep understanding of [[Statistics]].
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=17)** This isn't just about crunching numbers, it's about gaining insights into the data, understanding uncertainties associated with predictions and making data-driven decisions with confidence.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=30)** Hi, I'm Terezija Semenski, I'm a software developer, mathematician and a teacher with a passion for AI and machine learning.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=39)** With this ML Foundation course in statistics, you'll be ready to excel in your next machine learning project.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980&t=39)** With this ML Foundation course in statistics, you'll be ready to [[Microsoft Excel|excel]] in your next machine learning project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), data (2), ai (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - imagine (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you get started with this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=4)** You should be familiar with the key concepts of algebra, pre-calculus, and probability.
+> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=4)** You should be familiar with the key concepts of algebra, pre-[[Calculus]], and [[Probability]].
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=11)** If you struggle with basic probability concepts, I highly encourage you to take my Machine Learning Foundation Probability course before taking this course.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=21)** You should have a basic Python programming knowledge.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=21)** You should have a basic [[Python (Programming Language)|Python]] programming knowledge.
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-statistics/what-you-should-know?u=76281980&t=24)** We'll focus on statistic capabilities and their applications in Python Code.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Probability]] (3), [[Calculus]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Probability]] (3), [[Calculus]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (4), anaconda (1)
 > **Versions:** python 3 (1)
@@ -162,18 +160,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
+#### [Defining statistics](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=0)** - [Presenter] Statistics are all around us: from computing averaging grades in subject to filling in a sensor data or population record with personal information such as date of birth, residence, occupation, and marital status, which is used in the population service or demographic statistics, etcetera.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=0)** - [Presenter] [[Statistics]] are all around us: from computing averaging grades in subject to filling in a sensor data or population record with personal information such as date of birth, residence, occupation, and marital status, which is used in the population service or demographic statistics, etcetera.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=21)** Or every year, your health insurance asks for your age, existing medical conditions, current health status, et cetera.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=30)** Statistics is a branch of mathematics that deals with the study and manipulation of data including ways to gather, review, analyze, and draw conclusions from data.
 >
-> **[0:42](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=42)** Probability and statistics go hand in hand like peanut butter and jelly.
+> **[0:42](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=42)** [[Probability]] and statistics go hand in hand like peanut butter and jelly.
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=48)** We use data and probability to estimate how likely an event is to happen.
 >
@@ -199,19 +196,18 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=128)** It is used in cases where we cannot get the collection of the entire data so we collect a subset of the data points called the sample.
 >
-> **[2:17](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=137)** For example, if we would like to observe people working in a software development, this population is too large, so we will take a sample and draw a conclusion about the entire population of people working in a software development.
+> **[2:17](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=137)** For example, if we would like to observe people working in a [[Software Development]], this population is too large, so we will take a sample and draw a conclusion about the entire population of people working in a software development.
 >
 > **[2:33](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980&t=153)** In many cases, that sample won't be representative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (13), data (11), [[Probability]] (2), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (13), [[Probability]] (2), [[Software Development]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [presenter] (1)
 
-#### Applications of statistics in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980)
+#### [Applications of statistics in ML](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,17 +221,17 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=24)** Data similar to photographs, we're surrounded by it, and every machine learning project relies on the data.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=31)** We need statistics to both understand the data used to train machine learning model and to interpret the results of testing different machine learning models.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=31)** We need [[Statistics]] to both understand the data used to train machine learning model and to interpret the results of testing different machine learning models.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=41)** Now, let's see some applications of statistics in ML.
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=45)** Starting with the selection of the type of the method, for example, classification or regression, statistical methods play a huge role.
 >
-> **[0:55](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=55)** For example, exploratory data analysis is used for summarization and visualization, and data mining for the automatic discovery of structural relationships and patterns in the data.
+> **[0:55](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=55)** For example, exploratory data analysis is used for summarization and visualization, and [[Data Mining]] for the automatic discovery of structural relationships and patterns in the data.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=69)** For the data understanding, we use summary statistics, which are methods used to summarize the distribution and relationships between variables such as mean or median, and data visualizations, which consists of methods used to summarize the distribution and relationships between variables using visualizations such as charts, plots, and graphs.
 >
-> **[1:35](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=95)** Data cleaning refers to the process of identifying and repairing issues with the data.
+> **[1:35](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=95)** [[Data Cleaning]] refers to the process of identifying and repairing issues with the data.
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=101)** Examples of statistical methods which are used in this step of ML are outlier detection and imputation.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=118)** Feature selection and data samples play a crucial role as statistical methods used in this process.
 >
-> **[2:07](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=127)** In the case of data preparation, often it is necessary to change the structure or the shape of the data.
+> **[2:07](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=127)** In the case of [[Data Preparation]], often it is necessary to change the structure or the shape of the data.
 >
 > **[2:14](https://www.linkedin.com/learning/machine-learning-foundations-statistics/applications-of-statistics-in-ml?u=76281980&t=134)** In this case, some of the useful statistical methods are standardization, normalization, hot encoding, or the Box=Cox method.
 >
@@ -257,13 +253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Statistics]] (6), feature (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Data Mining]] (1), [[Data Cleaning]] (1), [[Data Preparation]] (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - i (1)
 
-#### Types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980)
+#### [Types of data](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=29)** Data is usually unstructured.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=31)** For example, texts are sequences of words and non-word characters.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=31)** For example, texts are sequences of words and non-[[Microsoft Word|word]] characters.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=36)** Images are bunch of pixels and each pixel contains RGB color information.
 >
@@ -321,11 +316,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=196)** We can represent all four types of data and their differences with the following table.
 >
-> **[3:24](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=204)** In statistics, we should always take care when choosing the types of data we are using so we don't do something meaningless.
+> **[3:24](https://www.linkedin.com/learning/machine-learning-foundations-statistics/types-of-data?u=76281980&t=204)** In [[Statistics]], we should always take care when choosing the types of data we are using so we don't do something meaningless.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Analogies:** for example (5), just like (1)
 > **Env Vars:** rgb (1), lcd (1), oled (1), amoled (1)
 > **Definitions:** known as (1), means that (1)
@@ -337,12 +332,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
+#### [The mean](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=1)** - Data without statistics is like the most beautiful beach in the world without a plane or car to get there.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=1)** - Data without [[Statistics]] is like the most beautiful beach in the world without a plane or car to get there.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=8)** We'll visit the lens of statistics by learning some simple but important statistical measures, the mean, the median, the mode, the percentile, the range, the variance, and the standard deviation.
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=178)** It is used in the Matthews correlation coefficient, MCC.
 >
-> **[3:02](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=182)** One of the metrics for evaluating deep learning models and in image processing as a filter to help reduce image noise.
+> **[3:02](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=182)** One of the metrics for evaluating [[Deep Learning]] models and in [[Image Processing]] as a filter to help reduce image noise.
 >
 > **[3:12](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980&t=192)** The harmonic mean of n numbers is the reciprocal of the arithmetic mean of their reciprocals.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), [[Search]] (2), [[Deep Learning]] (2), product (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Deep Learning]] (2), [[Image Processing]] (1)
 > **Analogies:** imagine (2), for example (1), picture (1)
 > **Env Vars:** ceo (1), mcc (1)
 > **Definitions:** is called (1), is a  (1)
@@ -412,14 +406,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - data (1)
 
-#### The median
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980)
+#### [The median](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=0)** - [Instructor] After multiple complaints about the salary expectations, the CEO decided to talk to the HR director and asked to use some other statistical measure instead of mean.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=12)** The HR director recalled her statistics class in college and said, "Okay, let's take the middle value."
+> **[0:12](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=12)** The HR director recalled her [[Statistics]] class in college and said, "Okay, let's take the middle value."
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=19)** So how are we going to do that?
 >
@@ -459,13 +452,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=126)** You probably think, "When do we prefer the median over the mean?"
 >
-> **[2:11](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=131)** In a situation when data is skewed by outliers, meaning we have values that are extremely large and small compared to the rest of the values.
+> **[2:11](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=131)** In a situation when data is skewed by outliers, meaning we have values that are extremely large and small compared to the [[Representational State Transfer (REST)|rest]] of the values.
 >
 > **[2:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-median?u=76281980&t=141)** As you could see in our previous salary example, we have salaries that are extremely large, over $150,000 but most of the employees had lower salaries, so the mean is less sensitive to outliers than the median and cuts data down to the middle based on their order.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), hr (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is called (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music fades) (1)
@@ -473,8 +466,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980)
+#### [The mode](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980&t=91)** So we will run our code cell by cell by using Shift + Enter.
 >
-> **[1:36](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980&t=96)** Calculating these three most popular statistics measures is simple using NumPy and SimPy libraries.
+> **[1:36](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980&t=96)** Calculating these three most popular [[Statistics]] measures is simple using NumPy and SimPy libraries.
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mode?u=76281980&t=104)** So we have already imported them, and we are going to use our famous salaries example.
 >
@@ -532,14 +524,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The percentile
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentile?u=76281980)
+#### [The percentile](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +594,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** sat (3)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -612,8 +602,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - my (1)
 
-#### The percentage change
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980)
+#### [The percentage change](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980&t=63)** Percentage change is a highly valuable measure that is used to track the change in the number over time.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980&t=70)** It can be used in a balance sheet with the comparative financial statements or to track the price of stocks, bonds, and market indexes.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980&t=70)** It can be used in a balance sheet with the comparative [[Financial Statements]] or to track the price of stocks, bonds, and market indexes.
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-percentage-change?u=76281980&t=79)** For example, a company can track and report trends in its revenue or profit.
 >
@@ -658,8 +647,7 @@ created: 2026-05-02
 > **Versions:** 30.77 (1)
 > **Speakers:** - [narrator] (1)
 
-#### The range
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980)
+#### [The range](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980&t=11)** In the clothing store, you could pick a shirt based on a range of sizes, a range of colors and a range of styles.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980&t=18)** In statistics, a range of a dataset is the difference between the maximum and the minimum values.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980&t=18)** In [[Statistics]], a range of a dataset is the difference between the maximum and the minimum values.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-range?u=76281980&t=25)** It is the easiest measure to calculate and interpret, as it measures variability using the same units as the data.
 >
@@ -711,14 +699,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### The variance and the standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-variance-and-the-standard-deviation?u=76281980)
+#### [The variance and the standard deviation](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-variance-and-the-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,15 +785,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Programming]] (2)
 > **Versions:** 67.9 (2), 215.89 (2), 19.9 (1), 30.1 (1), 396.01 (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The standard error of the mean vs. the standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-standard-error-of-the-mean-vs-the-standard-deviation?u=76281980)
+#### [The standard error of the mean vs. the standard deviation](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-standard-error-of-the-mean-vs-the-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +843,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Env Vars:** sem (1)
 > **Definitions:** is called (1)
@@ -869,8 +853,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The quantiles and box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
+#### [The quantiles and box plots](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +913,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** patch_artist (1)
@@ -939,8 +921,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980)
+#### [Missing data](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=57)** So we have to investigate how to handle the missing data.
 >
-> **[1:02](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=62)** Yes, there are algorithms, like Naive Bayes and K-nearest, that support data with missing values.
+> **[1:02](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=62)** Yes, there are [[Algorithms]], like Naive Bayes and K-nearest, that support data with missing values.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=69)** If you don't handle missing data, you may end up building a biased ML model, which will lead to incorrect results.
 >
@@ -982,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=114)** Let's think of one more example of missing data.
 >
-> **[1:58](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=118)** If you have dealt with databases, you have seen missing data.
+> **[1:58](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=118)** If you have dealt with [[Databases]], you have seen missing data.
 >
 > **[2:02](https://www.linkedin.com/learning/machine-learning-foundations-statistics/missing-data?u=76281980&t=122)** Every time there is a mismatch of variables between databases, there are missing occurrences.
 >
@@ -1014,19 +995,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), feature (2), [[Databases]] (2), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** ieee (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### The correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980)
+#### [The correlation](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=0)** - [Narrator] Your company's HR department wants to gain insight into information about people working in software development.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=0)** - [Narrator] Your company's HR department wants to gain insight into information about people working in [[Software Development]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=7)** So they ask you to take a look at the data set containing information on 50,000 people in the industry.
 >
@@ -1050,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=77)** So when the value of one variable increases or decreases, then the value of the other variable doesn't increase or decrease.
 >
-> **[1:26](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=86)** ML often uses correlation during data analysis and data modeling.
+> **[1:26](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=86)** ML often uses correlation during data analysis and [[Data Modeling]].
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=92)** For example, two or more independent variables can have a high correlation with one another in a regression model, and we call this multicollinearity.
 >
@@ -1064,21 +1044,20 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=130)** For example, the height of the people in centimeters and the height of the people in feet.
 >
-> **[2:16](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=136)** Multicollinearity can lead to deterioration of the performance of some algorithms.
+> **[2:16](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=136)** Multicollinearity can lead to deterioration of the performance of some [[Algorithms]].
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation?u=76281980&t=142)** So it's important to recognize the issue and find the appropriate solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hr (1), [[Software Development]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Data Modeling]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), means that (1), we call this (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** bmi (1)
 > **Speakers:** - [narrator] (1)
 
-#### The covariance
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-covariance?u=76281980)
+#### [The covariance](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-covariance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,15 +1119,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **Versions:** 6.5 (1), 259.25 (1), 798.35 (1), 0.5 (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The correlation coefficient
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-coefficient?u=76281980)
+#### [The correlation coefficient](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-coefficient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,14 +1169,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1), next (1)
 > **Versions:** 798.35 (1), 15.73 (1), 3.97 (1), 205.91 (1), 0.98 (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The correlation vs. causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980)
+#### [The correlation vs. causation](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,7 +1206,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980&t=90)** Let's think about one more example.
 >
-> **[1:32](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980&t=92)** We calculated the correlation between a higher salary and moving to a different office.
+> **[1:32](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980&t=92)** We calculated the correlation between a higher salary and moving to a different [[Microsoft Office|office]].
 >
 > **[1:38](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-correlation-vs-causation?u=76281980&t=98)** However, one doesn't cause the other one.
 >
@@ -1261,14 +1236,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to probability distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
+#### [Introduction to probability distribution](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980&t=0)** - [Instructor] If you have previously taken my ML probability course, you have explored different types of probability distributions.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980&t=0)** - [Instructor] If you have previously taken my ML [[Probability]] course, you have explored different types of probability distributions.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980&t=7)** If you haven't, I highly recommend taking it as probability and statistics go hand in hand, like coffee and milk.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980&t=7)** If you haven't, I highly recommend taking it as probability and [[Statistics]] go hand in hand, like coffee and milk.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980&t=15)** But don't worry, we'll cover the basics related to statistics.
 >
@@ -1312,8 +1286,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The uniform distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980)
+#### [The uniform distribution](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1294,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980&t=5)** If you try to guess his birthday randomly, you'll struggle a lot.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980&t=9)** The probability of guessing his birthday equals one divided by 365 as there are 365 days in a year.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980&t=9)** The [[Probability]] of guessing his birthday equals one divided by 365 as there are 365 days in a year.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-uniform-distribution?u=76281980&t=18)** So every day of the year is equally likely to be his birthday.
 >
@@ -1364,8 +1337,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### The normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-normal-distribution?u=76281980)
+#### [The normal distribution](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-normal-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,15 +1391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Speakers:** - [instructor] (1)
 
-#### The Bernoulli distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980)
+#### [The Bernoulli distribution](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=0)** - [Interviewer] Imagine I wanted to check your knowledge of statistics and the easiest way to do that is to give you a small quiz that contains only 10 questions.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=0)** - [Interviewer] Imagine I wanted to check your knowledge of [[Statistics]] and the easiest way to do that is to give you a small quiz that contains only 10 questions.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=9)** That could be bad news if you skipped some lessons.
 >
@@ -1435,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=15)** The good news is that the quiz has only true or false answers.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=19)** This means that there is a 50% probability that your answer is correct and a 50% probability that it isn't correct.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=19)** This means that there is a 50% [[Probability]] that your answer is correct and a 50% probability that it isn't correct.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-bernoulli-distribution?u=76281980&t=28)** In this example, we have both binomial and Bernoulli distributions taking place.
 >
@@ -1470,8 +1440,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [interviewer] (1)
 
-#### The Multinoulli distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980)
+#### [The Multinoulli distribution](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,7 +1448,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980&t=4)** The company workforce has conducted a survey with the following results: 35% of the eligible voters prefer candidate A, 25% of the voters prefer candidate B and 40% of the voters have no preference.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980&t=21)** You randomly sample 100 eligible voters and want to know the probability that 35 will like candidate A, 25 will choose candidate B and 40 will have no preference.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980&t=21)** You randomly sample 100 eligible voters and want to know the [[Probability]] that 35 will like candidate A, 25 will choose candidate B and 40 will have no preference.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-multinoulli-distribution?u=76281980&t=36)** This real life scenario is the illustration of the distribution called multinoulii distribution.
 >
@@ -1501,7 +1470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), next (1)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Analogies:** imagine (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1511,8 +1480,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selection with replacement
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
+#### [Selection with replacement](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1488,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=4)** Obviously, you have to collect data about the residents.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=8)** So you compose a survey with a question such as, what is your household income?
+> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=8)** So you [[Jetpack Compose|compose]] a survey with a question such as, what is your household income?
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=13)** What is the highest educational level you have attained?
 >
@@ -1548,7 +1516,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=112)** As we can see, selections are not affected by the previous choices.
 >
-> **[1:56](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=116)** There is one 10th or 10% probability we'll pick object one, and when we return it back to the original dataset, we again have 10% probability of picking object one.
+> **[1:56](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=116)** There is one 10th or 10% [[Probability]] we'll pick object one, and when we return it back to the original dataset, we again have 10% probability of picking object one.
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980&t=128)** So the probability of selecting any particular object remains the same in the future draws.
 >
@@ -1556,15 +1524,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (3), [[Jetpack Compose|Compose]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Jetpack Compose|Compose]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** swr (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selection without replacement
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980)
+#### [Selection without replacement](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,22 +1567,21 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=104)** For example, by using selection without replacement, we randomly select 80% of the dataset and put it in the training set.
 >
-> **[1:53](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=113)** We put the rest, 20%, of the dataset into the testing set.
+> **[1:53](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=113)** We put the [[Representational State Transfer (REST)|rest]], 20%, of the dataset into the testing set.
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=118)** The cross-validation method has two main steps: splitting the data into subsets that we call faults and rotating the training and validation among them.
 >
-> **[2:10](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=130)** Now that we have learned the two algorithms to collect samples, we'll move on to their practical application called bootstrapping.
+> **[2:10](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-without-replacement?u=76281980&t=130)** Now that we have learned the two [[Algorithms]] to collect samples, we'll move on to their practical application called bootstrapping.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Algorithms]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **Env Vars:** swor (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bootstrapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/bootstrapping?u=76281980)
+#### [Bootstrapping](https://www.linkedin.com/learning/machine-learning-foundations-statistics/bootstrapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1631,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.7 (2), 3.1 (1)
 > **Analogies:** imagine (1)
@@ -1676,8 +1641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Independent and dependent variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
+#### [Independent and dependent variables](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,18 +1675,17 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980&t=106)** The way to do this is to adjust the features so we can measure the changes in the dependent variable.
 >
-> **[1:54](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980&t=114)** Now that we understand the role of independent and independent variables in machine learning, we can continue exploring their importance in linear regression.
+> **[1:54](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980&t=114)** Now that we understand the role of independent and independent variables in machine learning, we can continue exploring their importance in [[Linear Regression]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Linear regression for continuous values
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980)
+#### [Linear regression for continuous values](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1740,7 +1703,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980&t=35)** The way to explore the relationship between dependent and independent variables is by fitting a line through observed data points.
 >
-> **[0:44](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980&t=44)** That technique is called linear regression.
+> **[0:44](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980&t=44)** That technique is called [[Linear Regression]].
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-regression-for-continuous-values?u=76281980&t=47)** It is defined as a linear regression is a data analysis technique used to predict the relationship between two or more variables.
 >
@@ -1768,19 +1731,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Linear Regression]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **Definitions:** is a  (2), is called (1), defined as (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fitting a line
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/fitting-a-line?u=76281980)
+#### [Fitting a line](https://www.linkedin.com/learning/machine-learning-foundations-statistics/fitting-a-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/fitting-a-line?u=76281980&t=0)** - [Instructor] When we covered linear regression, I didn't mention two important equations, now it's time to explore them.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-statistics/fitting-a-line?u=76281980&t=0)** - [Instructor] When we covered [[Linear Regression]], I didn't mention two important equations, now it's time to explore them.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-statistics/fitting-a-line?u=76281980&t=8)** The linear regression model is an equation that describes a linear relationship.
 >
@@ -1818,15 +1780,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (4), data (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear least squares
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-least-squares?u=76281980)
+#### [Linear least squares](https://www.linkedin.com/learning/machine-learning-foundations-statistics/linear-least-squares?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1896,7 +1857,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), express (1), next (1)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 1.89 (2), 0.56 (2)
 > **Definitions:** known as (1)
@@ -1907,8 +1867,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,7 +1885,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980&t=19)** Perhaps you can check out the other courses in the Machine Learning Foundation Series or take NumPy Essential Training Courses.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980&t=27)** If any of these sound interesting, you can follow me here on LinkedIn for more ML content.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980&t=27)** If any of these sound interesting, you can follow me here on [[LinkedIn]] for more ML content.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980&t=33)** I really hope you can make the most of the skills you've learned.
 >
@@ -1934,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

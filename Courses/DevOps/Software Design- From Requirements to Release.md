@@ -84,57 +84,55 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going from requirements to release
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
+#### [Going from requirements to release](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=0)** - [Instructor] Software development requires many skills to deliver a product that meets user needs and sponsor's expectations.
+> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=0)** - [Instructor] [[Software Development]] requires many skills to deliver a product that meets user needs and sponsor's expectations.
 >
 > **[0:08](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=8)** And there is nothing better than actually working on a project that offers a chance to learn and apply all these skills.
 >
 > **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=16)** In this course we will do just that, learn and apply the skills required to take a product idea from requirements to its release.
 >
-> **[0:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=25)** In a simulated capstone project, we will adopt engine best practices and go from analyzing requirements to releasing several versions of a product while creating development artifacts such as markups and models along the way.
+> **[0:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=25)** In a simulated [[Capstone]] project, we will adopt engine best practices and go from analyzing requirements to releasing several versions of a product while creating development artifacts such as markups and models along the way.
 >
-> **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=41)** In a fictional-case-studies setting, we will have a development and production environment connected to a simple DevOps tool chain starting from local host in dev environment to Git to Jenkins to production servers on AWS Cloud.
+> **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=41)** In a fictional-case-studies setting, we will have a development and production environment connected to a simple [[DevOps]] tool chain starting from local host in dev environment to [[Git]] to [[Jenkins]] to production servers on AWS Cloud.
 >
 > **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980&t=57)** Join me in this course to experience the process of taking a product from requirements to its release.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Software Development]] (1), [[Capstone]] (1), [[DevOps]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Capstone]] (1), [[DevOps]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **CLI Commands:** git (1), aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=0)** - [Instructor] There are many skills that come together in this course, much like in any real-life software development project.
+> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=0)** - [Instructor] There are many skills that come together in this course, much like in any real-life [[Software Development]] project.
 >
-> **[0:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=6)** To start with, the project requires some understanding of web-based application development using Java and Apache Tomcat.
+> **[0:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=6)** To start with, the project requires some understanding of web-based [[Application Development]] using [[Java]] and Apache Tomcat.
 >
-> **[0:14](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=14)** We will use JDBC to connect to MySQL and write some simple SQL queries to perform database-related operations.
+> **[0:14](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=14)** We will use [[Java Database Connectivity (JDBC)|JDBC]] to connect to [[MySQL]] and write some simple [[SQL]] queries to perform database-related operations.
 >
-> **[0:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=22)** From development methodology point of view it will be good if you have experience with agile methodology and some scrum techniques such as writing user stories and creating story maps.
+> **[0:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=22)** From development methodology point of view it will be good if you have experience with [[Agile Development|agile]] methodology and some [[Scrum]] techniques such as writing user stories and creating story maps.
 >
 > **[0:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=36)** Alternatively, if you are familiar with use case-based approach, that will also work.
 >
 > **[0:42](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=42)** I will extensively use UML models, specifically sequence diagrams, class diagrams, package diagrams, and deployment diagrams.
 >
-> **[0:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=51)** Finally, to simulate a devops environment, we will use a toolchain comprising GitHub for source code management, Jenkins for building and deploying, and AWS Cloud with production web server on an EC2 instance, and database server on IDS.
+> **[0:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=51)** Finally, to simulate a [[DevOps]] environment, we will use a toolchain comprising [[GitHub]] for source code management, [[Jenkins]] for building and deploying, and AWS Cloud with production web server on an [[Amazon EC2|EC2]] instance, and database server on IDS.
 >
-> **[1:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=70)** It is likely that you may not know all these pieces but I would encourage you to explore the course, identify any gaps that you may find, and plug those gaps by learning through many courses available on these topics in LinkedIn Learning library.
+> **[1:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=70)** It is likely that you may not know all these pieces but I would encourage you to explore the course, identify any gaps that you may find, and plug those gaps by learning through many courses available on these topics in [[LinkedIn]] Learning library.
 >
 > **[1:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/what-you-should-know?u=76281980&t=86)** I hope you enjoy working on this project with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), database (2), [[Software Development]] (1), [[Application Development]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Application Development]] (1), [[Java]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[MySQL]] (1)
 > **Env Vars:** jdbc (1), sql (1), uml (1), aws (1), ec2 (1)
 > **CLI Commands:** apache (1), mysql (1), aws (1), find (1)
 > **Tools:** github (1)
@@ -142,16 +140,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980)
+#### [Case study overview](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=0)** - [Instructor] In this course, we are going to work through a case study that involves two fictitious companies, H+ Sport and Red30 Tech.
 >
-> **[0:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=9)** Red30 Tech is a software development firm that is going to build a software for H+ Sport.
+> **[0:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=9)** Red30 Tech is a [[Software Development]] firm that is going to build a software for H+ Sport.
 >
-> **[0:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=15)** H+ Sport offers health-related products and services.
+> **[0:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=15)** H+ Sport offers health-related [[Microsoft Products|products]] and services.
 >
 > **[0:19](https://www.linkedin.com/learning/software-design-from-requirements-to-release/case-study-overview?u=76281980&t=19)** One of its services offers diet consulting to its customers through a panel of professional health coaches.
 >
@@ -175,13 +172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Software Development]] (1), [[Microsoft Products|Products]] (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the GitHub repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980)
+#### [Using the GitHub repo](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=4)** First set has the code, and the second set has development artifacts such as UML models and UI mock-ups.
 >
-> **[0:13](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=13)** Both are available in Git repo.
+> **[0:13](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=13)** Both are available in [[Git]] repo.
 >
 > **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=16)** Let us first look at the code.
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=52)** I have created these branches so that you can see the code going through various stages.
 >
-> **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=57)** You will find me working off of master branch in some cases, especially when I'm pushing the code to production, and that is because I have set up Jenkins to pull the code from master.
+> **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=57)** You will find me working off of master branch in some cases, especially when I'm pushing the code to production, and that is because I have set up [[Jenkins]] to pull the code from master.
 >
 > **[1:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/using-the-github-repo?u=76281980&t=69)** In some cases I have also demonstrated committing the code to one of the lesson branches locally, but then I have merged the changes to master before pushing them to production.
 >
@@ -230,8 +226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define problem and vision statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
+#### [Define problem and vision statements](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,15 +320,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), business (7), data (5), application (2), express (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elicit and specify requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980)
+#### [Elicit and specify requirements](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,7 +364,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980&t=119)** As you compile your interview findings, an initial set of system requirements will begin to emerge.
 >
-> **[2:05](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980&t=125)** For example here, Red30 shall search and compare various food products.
+> **[2:05](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980&t=125)** For example here, Red30 shall search and compare various food [[Microsoft Products|products]].
 >
 > **[2:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/elicit-and-specify-requirements?u=76281980&t=132)** It should allow members to record and view their daily diet logs, and it should allow coaches to track and analyze them.
 >
@@ -429,15 +422,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (6), [[Microsoft Products|Products]] (5), feature (5), next (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** usda (3), idt (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Requirement validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980)
+#### [Requirement validation](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=38)** From the use case diagrams that we created, let me pick one which I will use just as an example here.
 >
-> **[0:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=46)** One of the simplest ones here is the search food products use case.
+> **[0:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=46)** One of the simplest ones here is the search food [[Microsoft Products|products]] use case.
 >
 > **[0:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=51)** Let us look at its user story first.
 >
@@ -495,7 +487,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=180)** Now, that gives us possible classes when we get to design.
 >
-> **[3:03](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=183)** And also to our data modeling.
+> **[3:03](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=183)** And also to our [[Data Modeling]].
 >
 > **[3:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=186)** But before we go there, we need to continuously check for two things.
 >
@@ -513,7 +505,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=233)** First, let us see what we want to show to our customer.
 >
-> **[3:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=237)** We can show our customer a low fidelity mockup, drawn on a paper which focuses mainly on structure for a rough idea or, we can have a high fidelity prototype that focuses on user experience for a real look and feel.
+> **[3:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=237)** We can show our customer a low fidelity mockup, drawn on a paper which focuses mainly on structure for a rough idea or, we can have a high fidelity prototype that focuses on [[User Experience (UX)|user experience]] for a real look and feel.
 >
 > **[4:13](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=253)** For this case study, I'm going to build a mockup using a tool called balsamiq which makes it a little more formal than a paper mockup and also gives some idea about look and feel.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=293)** These wireframes are rough sketches of what I will actually build over next few iterations.
 >
-> **[4:59](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=299)** You could start with just one of the wireframes, and build the rest over sprints, or you could create several of them if you have enough clarity at this point.
+> **[4:59](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=299)** You could start with just one of the wireframes, and build the [[Representational State Transfer (REST)|rest]] over sprints, or you could create several of them if you have enough clarity at this point.
 >
 > **[5:08](https://www.linkedin.com/learning/software-design-from-requirements-to-release/requirement-validation?u=76281980&t=308)** The idea is to keep them simple, and always be open to change them as your project progresses.
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Search]] (10), [[Microsoft Products|Products]] (5), database (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Data Modeling]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Env Vars:** usda (1)
@@ -558,8 +550,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Technology validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980)
+#### [Technology validation](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,37 +566,37 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=26)** It helps to have some visual layout before we go ahead and set up the environment.
 >
-> **[0:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=32)** Starting from the user's end, the diagram shows browser on the user device with HTML, CSS, and JavaScript at the front end.
+> **[0:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=32)** Starting from the user's end, the diagram shows browser on the user device with [[HTML]], CSS, and [[JavaScript]] at the front end.
 >
 > **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=41)** Then I plan to use Apache Tomcat as my web server that will host my application.
 >
 > **[0:47](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=47)** The application will be in the form of a web archive that is a war file.
 >
-> **[0:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=53)** The database called a Red30DB will be on MySQL which will have some connection with the external USDA database.
+> **[0:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=53)** The database called a Red30DB will be on [[MySQL]] which will have some connection with the external USDA database.
 >
 > **[1:03](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=63)** This is the architecture of my production environment.
 >
 > **[1:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=66)** Now we need to think about the dev environment as well.
 >
-> **[1:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=70)** In agile methodology, the entire cycle from dev to test, to stage, to production needs to flow in one seamless pipeline.
+> **[1:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=70)** In [[Agile Development|agile]] methodology, the entire cycle from dev to test, to stage, to production needs to flow in one seamless pipeline.
 >
-> **[1:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=81)** DevOps, which is the agile approach for software development life cycle makes that happen.
+> **[1:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=81)** [[DevOps]], which is the agile approach for [[Software Development]] life cycle makes that happen.
 >
-> **[1:28](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=88)** When you integrate dev and integration testing environment, you achieve continuous integration.
+> **[1:28](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=88)** When you integrate dev and [[Integration Testing]] environment, you achieve [[Continuous Integration (CI)|continuous integration]].
 >
-> **[1:35](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=95)** When you are able to promote your code to staging environment incrementally where your end users can do some acceptance testing, you'll get continuous delivery.
+> **[1:35](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=95)** When you are able to promote your code to staging environment incrementally where your end users can do some acceptance testing, you'll get [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=106)** And when you are able to move your code incrementally to production, then you have continuous deployment.
 >
 > **[1:52](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=112)** Now to get this level of sophistication requires building a fairly sophisticated DevOps tool chain.
 >
-> **[2:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=120)** In this case study, we will limit ourselves to using JUnit for unit testing, Maven for building, GitHub for source code management, and Jenkins for promoting our code to production.
+> **[2:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=120)** In this case study, we will limit ourselves to using [[JUnit]] for [[Unit Testing]], Maven for building, [[GitHub]] for source code management, and [[Jenkins]] for promoting our code to production.
 >
 > **[2:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=135)** Let us take a look at how it is all set up.
 >
 > **[2:19](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=139)** The developer works on dev machine using an IDE, which is in this case is eclipse.
 >
-> **[2:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=147)** It has JUnit for unit testing, Maven for build automation, and Git for staging configured within it.
+> **[2:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=147)** It has JUnit for unit testing, Maven for build automation, and [[Git]] for staging configured within it.
 >
 > **[2:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=156)** I have the Tomcat for dev environment also configured on this machine named as TomcatDev on port 8082.
 >
@@ -617,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=187)** That will pull the code from git repo, use Maven plugin to build a war file, and use the deployment plugin to deploy onto the production server.
 >
-> **[3:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=198)** The production server is on AWS Cloud hosted on an EC2 instance that has another Tomcat server running on it.
+> **[3:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=198)** The production server is on AWS Cloud hosted on an [[Amazon EC2|EC2]] instance that has another Tomcat server running on it.
 >
 > **[3:28](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=208)** When Jenkins deploys a war file on production server, it connections with production database, red30db, which is running on Amazon Cloud Relation Database Service or RDS.
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=288)** These tables have many more columns, but I have not modeled them here as they're not relevant for us.
 >
-> **[4:54](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=294)** Next step, let us take a look at the data on SQL server to understand its basic structure and values.
+> **[4:54](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=294)** Next step, let us take a look at the data on [[Microsoft SQL Server|SQL server]] to understand its basic structure and values.
 >
 > **[5:02](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=302)** I have already migrated the data for these four tables from Access to red30db in MySQL.
 >
@@ -657,7 +648,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=339)** The next table is branded food.
 >
-> **[5:43](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=343)** This table will show some additional information about the food products, starting with the primary key once again, FDC ID, the brand owner, ingredients, serving size, serving size unit, household survey, and some other columns that are not relevant for us at this stage.
+> **[5:43](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=343)** This table will show some additional information about the food [[Microsoft Products|products]], starting with the primary key once again, FDC ID, the brand owner, ingredients, serving size, serving size unit, household survey, and some other columns that are not relevant for us at this stage.
 >
 > **[6:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/technology-validation?u=76281980&t=364)** Third is nutrient table.
 >
@@ -685,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (7), product (7), [[MySQL]] (4), [[Git]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Git]] (4), [[Jenkins]] (3), [[Agile Development|Agile]] (2), [[DevOps]] (2)
 > **Env Vars:** usda (5), fdc (5), html (1), css (1), ide (1)
 > **CLI Commands:** mysql (4), git (4), apache (1), aws (1)
 > **Definitions:** is a  (3)
@@ -694,8 +685,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 
-#### Proof of concept (POC) setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980)
+#### [Proof of concept (POC) setup](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -705,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=15)** First, let us take a look at Eclipse.
 >
-> **[0:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=18)** Here, I have created a Maven project that is linked with Git Repo.
+> **[0:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=18)** Here, I have created a Maven project that is linked with [[Git]] Repo.
 >
 > **[0:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=22)** To create this project, I used Maven Webapp Archetype, which generates this folder structure.
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=45)** The packaging in line number seven is set to war, which we will deploy on our production server.
 >
-> **[0:52](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=52)** After that, I have included some dependencies for Java and mysql.
+> **[0:52](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=52)** After that, I have included some dependencies for [[Java]] and [[MySQL]].
 >
 > **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=57)** I am finally in build.
 >
@@ -779,7 +769,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=258)** So these are the settings on the Dev. site.
 >
-> **[4:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=262)** The Tomcat proj server configuration settings are quite similar except, that the config files are not inside Eclipse Workspace, but inside the base Apache installation folder on our aws ec2 instance.
+> **[4:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=262)** The Tomcat proj [[Server Configuration]] settings are quite similar except, that the config files are not inside Eclipse Workspace, but inside the base Apache installation folder on our aws [[Amazon EC2|ec2]] instance.
 >
 > **[4:37](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=277)** So in the Apache root folder, there is a conf folder with two xml files which need some configuring.
 >
@@ -791,11 +781,11 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=307)** Web.xml also remains the same, where we specify DataLoader servlet to be loaded on startup, and in tomcat-users.xml, we need to add one additional user that has manager-script role.
 >
-> **[5:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=321)** This role will allow us to deploy war file into servers webapps folder through Jenkins.
+> **[5:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/proof-of-concept-poc-setup?u=76281980&t=321)** This role will allow us to deploy war file into servers webapps folder through [[Jenkins]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), web (5), data (4), database (3), [[Git]] (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[Java]] (1), [[MySQL]] (1), [[Server Configuration]] (1), [[Amazon EC2|Ec2]] (1)
 > **File Paths:** web.xml (4), context.xml (3), tomcat-users.xml (3), server.xml (2), pom.xml (1)
 > **CLI Commands:** find (2), apache (2), git (1), mysql (1), make (1)
 > **Env Vars:** group_id (1), web (1), inf (1), url (1), rds (1)
@@ -803,8 +793,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### POC implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980)
+#### [POC implementation](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +807,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=34)** A good idea is to take something that is simple, is part of one of the core use cases, and cuts across the entire technology stack.
 >
-> **[0:42](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=42)** So how about just printing the number of products that are there in the database?
+> **[0:42](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=42)** So how about just printing the number of [[Microsoft Products|products]] that are there in the database?
 >
 > **[0:47](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=47)** I think it checks all the boxes.
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=94)** So let us see what we got.
 >
-> **[1:35](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=95)** Very early in the cycle, I realized that if I sent an SQL query to the database for every search or comparison request, the response time gets really poor.
+> **[1:35](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=95)** Very early in the cycle, I realized that if I sent an [[SQL]] query to the database for every search or comparison request, the response time gets really poor.
 >
 > **[1:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-implementation?u=76281980&t=106)** And since all food product-related data coming from USDA is read-only, there is no need to read it afresh for every query, so I decided to load all food products-related data into memory when the application starts.
 >
@@ -962,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), product (9), database (7), application (5), [[Search]] (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (2)
 > **Env Vars:** poc (8), usda (2), sql (2), xml (2), web (1)
 > **Code Identifiers:** pocresults (3), doget (2), sourcemainjava (1), getinstance (1), loadproducts (1)
 > **Definitions:** is a  (3)
@@ -971,14 +960,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 
-#### POC deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980)
+#### [POC deployment](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=0)** - [Instructor] With our POC implementation completed on dev side, we are all set to deploy our proof of concept to production, so let us take a look at what we have here.
 >
-> **[0:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=10)** I have one EC2 instance which I have connected through remote desktop or RDB.
+> **[0:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=10)** I have one [[Amazon EC2|EC2]] instance which I have connected through remote desktop or RDB.
 >
 > **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=16)** Through this RDB I have installed Apache Tomcat and inside the folder I can go into bin and get this server started.
 >
@@ -1004,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=108)** So I go into con folder.
 >
-> **[1:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=111)** There are two files that we are interested in Tomcat users and context, so let's open that and in Tomcat users you see that I have included the deployer user that has managed a scriptural, this is the user that will use Jenkins to deploy the warfighter.
+> **[1:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=111)** There are two files that we are interested in Tomcat users and context, so let's open that and in Tomcat users you see that I have included the deployer user that has managed a scriptural, this is the user that will use [[Jenkins]] to deploy the warfighter.
 >
 > **[2:08](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=128)** Then in context XML, here is the resource.
 >
@@ -1014,11 +1002,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=143)** Let me go back to my dev machine.
 >
-> **[2:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=145)** Now I am on my IDS management console in databases.
+> **[2:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=145)** Now I am on my IDS management console in [[Databases]].
 >
 > **[2:30](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=150)** Here is my production database and if I click there, I can see the URL along with the port where my production DB is running.
 >
-> **[2:38](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=158)** I can connect to this database through my SQL workbench.
+> **[2:38](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=158)** I can connect to this database through my [[SQL]] workbench.
 >
 > **[2:43](https://www.linkedin.com/learning/software-design-from-requirements-to-release/poc-deployment?u=76281980&t=163)** You can see that I was connecting initially to my local instance, which was my dev server, and here is my production data server.
 >
@@ -1084,7 +1072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Jenkins]] (6), data (4), database (4), management (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Jenkins]] (6), [[Databases]] (1), [[SQL]] (1)
 > **Env Vars:** ec2 (7), poc (5), url (4), rdb (3), dns (1)
 > **CLI Commands:** make (5), apache (3), find (1)
 > **Cross-References:** go back to (7)
@@ -1093,8 +1081,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: From dev to deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980)
+#### [Challenge: From dev to deploy](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,15 +1089,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=5)** - [Instructor] This is a simple challenge in which you just need to repeat the cycle from dev to production one more time.
 >
-> **[0:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=12)** Last time, we printed the number of products in the database.
+> **[0:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=12)** Last time, we printed the number of [[Microsoft Products|products]] in the database.
 >
-> **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=16)** This time, can you change the POC to also print the number of nutrients, take the changes all the way from dev to git to Jenkins and then to production server?
+> **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=16)** This time, can you change the POC to also print the number of nutrients, take the changes all the way from dev to [[Git]] to [[Jenkins]] and then to production server?
 >
 > **[0:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-from-dev-to-deploy?u=76281980&t=27)** Once done, check out my solution in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), database (1), [[Git]] (1), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **CLI Commands:** git (1)
 > **Env Vars:** poc (1)
 > **Cross-References:** in the next (1)
@@ -1118,8 +1105,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (rhythmic music) (1)
 
-#### Solution: From dev to deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980)
+#### [Solution: From dev to deploy](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,11 +1115,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=16)** And to test it out, I go back to my local host and refresh, you can see, it is printing the number of nutrients.
 >
-> **[0:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=26)** Now I need to push this change to Git, so for that I go to Git staging, you can see it is showing up as unstaged, so I stage it, you can also see that I'm adding it to a branch 02-09, just so that I can keep it separate, I will add the comment 02-09e, you'll see it changed.
+> **[0:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=26)** Now I need to push this change to [[Git]], so for that I go to Git staging, you can see it is showing up as unstaged, so I stage it, you can also see that I'm adding it to a branch 02-09, just so that I can keep it separate, I will add the comment 02-09e, you'll see it changed.
 >
 > **[0:51](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=51)** Then I commit and push, next, and it is done.
 >
-> **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=57)** Now Jenkins is going to pull the code from master, which means the branch needs to be merged to the master, so that Jenkins can pull the changes.
+> **[0:57](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=57)** Now [[Jenkins]] is going to pull the code from master, which means the branch needs to be merged to the master, so that Jenkins can pull the changes.
 >
 > **[1:07](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-from-dev-to-deploy?u=76281980&t=67)** For that I'll go to my command line and I am in my Git folder, so I'll say Git, checkout master, Git pull origin master.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Jenkins]] (4), database (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Jenkins]] (4)
 > **CLI Commands:** git (7)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
@@ -1161,8 +1147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare sprint backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
+#### [Prepare sprint backlog](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=42)** I have ranked requirements that other requirements depend on with a higher priority.
 >
-> **[0:47](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=47)** For example, to compare two products I should be able to first search for them.
+> **[0:47](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=47)** For example, to compare two [[Microsoft Products|products]] I should be able to first search for them.
 >
 > **[0:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=53)** Similarly, to record a meal, I need to first search for food products to add to the meal.
 >
@@ -1190,7 +1175,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=67)** There may be some requirements that you may not have enough clarity about at this point, so you can leave them unranked as of now, which I have done for some of them, as you can see.
 >
-> **[1:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=78)** From here, using scrum methodology we can now create our product backlog, which is nothing but a prioritized list of requirements.
+> **[1:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=78)** From here, using [[Scrum]] methodology we can now create our product backlog, which is nothing but a prioritized list of requirements.
 >
 > **[1:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980&t=87)** Depending on how much clarity we have about these requirements, we may also write them out as user stories.
 >
@@ -1230,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), product (6), [[Microsoft Products|Products]] (5), next (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Scrum]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
@@ -1239,14 +1224,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build models
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980)
+#### [Build models](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980&t=0)** - [Instructor] This is the UI mockup that we looked at earlier when we discussed requirement validation.
 >
-> **[0:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980&t=6)** In this mockup when we choose search from homepage, it takes us to a Search page where we enter some string based on which it pulls the products and then nutrients.
+> **[0:06](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980&t=6)** In this mockup when we choose search from homepage, it takes us to a Search page where we enter some string based on which it pulls the [[Microsoft Products|products]] and then nutrients.
 >
 > **[0:19](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-models?u=76281980&t=19)** When I select a different product, the nutrient table below also changes to reflect new set of nutrients.
 >
@@ -1328,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (46), product (22), [[Microsoft Products|Products]] (6), data (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Env Vars:** dao (11), jsp (8), fdc (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** we discussed (1), previous chapter (1)
@@ -1336,8 +1320,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build code
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980)
+#### [Build code](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=32)** So I have commented it out. In the next line, you see that search link is pointing to search, which is actually the SearchController Servlet.
 >
-> **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=41)** All search-related java classes are now in a package near search inside com.hplussport.red30.
+> **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=41)** All search-related [[Java]] classes are now in a package near search inside com.hplussport.red30.
 >
 > **[0:49](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=49)** In SearchController, we have just regular doGet and doPost methods.
 >
@@ -1367,13 +1350,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=90)** It then save the searchString as a session attribute.
 >
-> **[1:34](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=94)** This makes sure that searchString is available for rest of the session.
+> **[1:34](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=94)** This makes sure that searchString is available for [[Representational State Transfer (REST)|rest]] of the session.
 >
 > **[1:38](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=98)** Next, in line 33, it asks DAO to searchProductOnName using this searchString. This is a new method in DAO.
 >
 > **[1:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=106)** So let's take a look at that.
 >
-> **[1:48](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=108)** In DAO, in line 52 it takes searchString as a parameter, creates a Product ArrayList in line 53 and then in a for loop, searches the productMap for products that have searchString in their names.
+> **[1:48](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=108)** In DAO, in line 52 it takes searchString as a parameter, creates a Product ArrayList in line 53 and then in a for loop, searches the productMap for [[Microsoft Products|products]] that have searchString in their names.
 >
 > **[2:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/build-code?u=76281980&t=124)** As it finds these products, it keeps adding them to the list in line 56.
 >
@@ -1449,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), product (14), [[Microsoft Products|Products]] (5), next (3), application (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** searchstring (8), nutrientslist (3), searchresults (3), productmap (2), selectedproduct (2)
 > **Env Vars:** dao (6), fdc (3), poc (1)
 > **CLI Commands:** find (2), make (1)
@@ -1458,20 +1441,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Deliver and deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980)
+#### [Deliver and deploy](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=0)** - (Instructor) In continuous integration, delivery and deployment, testing plays a critical role in ensuring that each step ensures quality and bug free release.
+> **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=0)** - (Instructor) In [[Continuous Integration (CI)|continuous integration]], delivery and deployment, testing plays a critical role in ensuring that each step ensures quality and bug free release.
 >
-> **[0:11](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=11)** Many kinds of testing must be performed for applications such as integration testing, UI testing, load testing, security testing and so on.
+> **[0:11](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=11)** Many kinds of testing must be performed for applications such as [[Integration Testing]], UI testing, [[Load Testing]], [[Security Testing]] and so on.
 >
-> **[0:20](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=20)** Most of these testing activities require automated tools which need to be integrated into the DevOps cycle.
+> **[0:20](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=20)** Most of these testing activities require automated tools which need to be integrated into the [[DevOps]] cycle.
 >
-> **[0:28](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=28)** To keep it simple in this case study, we will look only at initial unit testing, which is part of the build process.
+> **[0:28](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=28)** To keep it simple in this case study, we will look only at initial [[Unit Testing]], which is part of the build process.
 >
-> **[0:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=36)** It can be easily integrated into our current setup using the JUnit framework.
+> **[0:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=36)** It can be easily integrated into our current setup using the [[JUnit]] framework.
 >
 > **[0:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=41)** But JUnit can help us test only non-servlet code.
 >
@@ -1481,7 +1463,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=64)** These test cases will become part of the cycle and the new bill will go through only if the test cases pass.
 >
-> **[1:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=72)** For that I have written my test cases in test dow Java, which is inside the SRC test folder.
+> **[1:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=72)** For that I have written my test cases in test dow [[Java]], which is inside the SRC test folder.
 >
 > **[1:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=81)** And it is the same folder which is also mentioned in POM XMLS test source directory.
 >
@@ -1501,7 +1483,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=131)** My first test case in line 55 tests dow search product on names by passing these search string Apple to it, and then asserting that the returned list has size two based on the fake data I created about.
 >
-> **[2:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=147)** My second test in line 61 test the same Dow's method, but this time to check whether the return list has correct products in it.
+> **[2:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=147)** My second test in line 61 test the same Dow's method, but this time to check whether the return list has correct [[Microsoft Products|products]] in it.
 >
 > **[2:38](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=158)** The third test in line 74, test the other search method in Dow.
 >
@@ -1515,7 +1497,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=199)** Here you see that our tests have been run and our build is successful.
 >
-> **[3:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=205)** I could also run Maven as with a gold package, which is what Jenkins will do.
+> **[3:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=205)** I could also run Maven as with a gold package, which is what [[Jenkins]] will do.
 >
 > **[3:31](https://www.linkedin.com/learning/software-design-from-requirements-to-release/deliver-and-deploy?u=76281980&t=211)** And this will run the tests and then create a war file.
 >
@@ -1535,38 +1517,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), product (5), data (4), [[Unit Testing]] (3), [[JUnit]] (2)
+> **Frameworks & Libraries:** [[Unit Testing]] (3), [[JUnit]] (2), [[Java]] (2), [[Microsoft Products|Products]] (2), [[Jenkins]] (2)
 > **Env Vars:** src (1), pom (1), xmls (1), fdcid (1), dns (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=0)** - [Instructor] In this challenge you need to take the next requirement in our sprint backlog through the entire cycle from requirements to release.
 >
-> **[0:14](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=14)** This requirement is to compare two products in terms of their nutrients.
+> **[0:14](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=14)** This requirement is to compare two [[Microsoft Products|products]] in terms of their nutrients.
 >
 > **[0:19](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=19)** Write its user story, create its UI mockup, and then iteratively build its sequence diagram, class diagram, and code.
 >
-> **[0:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=27)** Then test your code, commit it to Git, and then deploy to productions through Jenkins.
+> **[0:27](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=27)** Then test your code, commit it to [[Git]], and then deploy to productions through [[Jenkins]].
 >
 > **[0:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge-2?u=76281980&t=32)** I will show you my solution in my next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), [[Git]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **CLI Commands:** git (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,7 +1554,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=12)** First, let us see its user story.
 >
-> **[0:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=15)** As a user I want to look up food products, so that I can compare their nutritional values.
+> **[0:15](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=15)** As a user I want to look up food [[Microsoft Products|products]], so that I can compare their nutritional values.
 >
 > **[0:21](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=21)** Now this user story does not specify how many products the user wants to compare at a time.
 >
@@ -1664,7 +1644,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=335)** In line 16 through 26, we pull all session attributes in local (mumbles).
 >
-> **[5:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=341)** There are several forms here, at the top, there is a form in line 29, for changing the search string to get a different product to compare.
+> **[5:41](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=341)** There are several [[Forms]] here, at the top, there is a form in line 29, for changing the search string to get a different product to compare.
 >
 > **[5:52](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=352)** Any change here will take the control to comparer on product name servlet, which we just looked at.
 >
@@ -1704,7 +1684,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=540)** And finish.
 >
-> **[9:01](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=541)** Now, I am in Jenkins, I have already merged the new changes to master, like I did before for Jenkins to pick up from.
+> **[9:01](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=541)** Now, I am in [[Jenkins]], I have already merged the new changes to master, like I did before for Jenkins to pick up from.
 >
 > **[9:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution?u=76281980&t=549)** So, all I need here is to build, you can see the build has begun, and, I can go to my production URL, refresh, and then compare.
 >
@@ -1712,7 +1692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (25), [[Search]] (18), [[Microsoft Products|Products]] (16), application (2), [[Jenkins]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), [[Jenkins]] (2), [[Forms]] (1)
 > **Env Vars:** gsp (5), fdc (5), gsb (3), url (2), abc (1)
 > **UI Navigation:** go to (4)
 > **Code Identifiers:** doget (1), dopost (1)
@@ -1725,8 +1705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare sprint backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
+#### [Prepare sprint backlog](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1753,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980&t=152)** Once the user provides these inputs, Red30 asks user to start putting in what they ate in the meal.
 >
-> **[2:39](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980&t=159)** This means selecting different products and their quantities.
+> **[2:39](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980&t=159)** This means selecting different [[Microsoft Products|products]] and their quantities.
 >
 > **[2:43](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980&t=163)** For example, one cup of soup and 1/2 sandwich.
 >
@@ -1844,15 +1823,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), database (2), [[Microsoft Products|Products]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (5), is an  (1)
 > **Documentation:** specification (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement 'included' use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980)
+#### [Implement 'included' use case](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1900,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980&t=253)** Finally, the request is forwarded to login response JSP, which if login was unsuccessful and user object is null, displays the message in line 17, or else if it was successful, the welcome message in line 23.
 >
-> **[4:30](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980&t=270)** I have already created a table in Red30 DB, which we can look at through MySQL Workbench.
+> **[4:30](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980&t=270)** I have already created a table in Red30 DB, which we can look at through [[MySQL]] Workbench.
 >
 > **[4:37](https://www.linkedin.com/learning/software-design-from-requirements-to-release/implement-included-use-case?u=76281980&t=277)** As you can see here, I have added two records with username and password.
 >
@@ -1940,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (1), [[MySQL]] (1), application (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Env Vars:** jsp (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
@@ -1948,8 +1926,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final release
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980)
+#### [Final release](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1963,7 +1940,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=32)** Then we enter some search string to find the product that was served in the meal.
 >
-> **[0:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=36)** I see a list of products with each product having a radio button to select.
+> **[0:36](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=36)** I see a list of [[Microsoft Products|products]] with each product having a radio button to select.
 >
 > **[0:42](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=42)** Once I select a product, I need to specify its quantity and unit of measure.
 >
@@ -2063,11 +2040,11 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=305)** Should Red30 give a warning or just go ahead?
 >
-> **[5:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=309)** Also, we need to write many more test cases for unit testing, integration testing, load testing, security testing, and so on.
+> **[5:09](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=309)** Also, we need to write many more test cases for [[Unit Testing]], [[Integration Testing]], [[Load Testing]], [[Security Testing]], and so on.
 >
 > **[5:18](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=318)** Such a system needs significant effort in planning and conducting testing activities before we can move it to production.
 >
-> **[5:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=326)** For this case study, let us go ahead and check the code into Git.
+> **[5:26](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=326)** For this case study, let us go ahead and check the code into [[Git]].
 >
 > **[5:31](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=331)** I'm back in Eclipse.
 >
@@ -2091,7 +2068,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=382)** And then git push origin master.
 >
-> **[6:29](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=389)** Now one last thing, Jenkins.
+> **[6:29](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=389)** Now one last thing, [[Jenkins]].
 >
 > **[6:32](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=392)** Now I'm in Jenkins in DeployRed30 project.
 >
@@ -2101,7 +2078,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=404)** Let me go to my production URL.
 >
-> **[6:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=406)** This is the DNS which I got from my EC2 management console.
+> **[6:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=406)** This is the DNS which I got from my [[Amazon EC2|EC2]] management console.
 >
 > **[6:50](https://www.linkedin.com/learning/software-design-from-requirements-to-release/final-release?u=76281980&t=410)** I log in here.
 >
@@ -2135,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Git]] (6), [[Microsoft Products|Products]] (4), [[Search]] (3), data (2)
+> **Frameworks & Libraries:** [[Git]] (6), [[Microsoft Products|Products]] (4), [[Jenkins]] (2), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **CLI Commands:** git (6), find (3)
 > **Env Vars:** jsp (5), url (1), dns (1), ec2 (1)
 > **UI Navigation:** go to (6)
@@ -2144,8 +2121,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980)
+#### [Refactoring](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=44)** Second, making the design extensible so that we can keep adding new functionalities and improving its nonfunctional characteristics, such as performance, security, usability, et cetera.
 >
-> **[0:58](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=58)** A great way to do this is to apply design patterns, such as Gang of Four, SOLID, GRASP, and many more.
+> **[0:58](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=58)** A great way to do this is to apply [[Design Patterns]], such as Gang of Four, SOLID, GRASP, and many more.
 >
 > **[1:05](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=65)** But, before we start refactoring the code, we need to make sure that we do not break something which is already working, and so here are some best practices to keep in mind.
 >
@@ -2189,7 +2165,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=145)** When you see one class catering to so many other packages and classes, you should begin to see some red flags.
 >
-> **[2:33](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=153)** If you look into Dao, you will see that it is doing almost entire data processing for all used cases in terms of products, nutrients, meals, servings, and users.
+> **[2:33](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=153)** If you look into Dao, you will see that it is doing almost entire [[Data Processing]] for all used cases in terms of [[Microsoft Products|products]], nutrients, meals, servings, and users.
 >
 > **[2:45](https://www.linkedin.com/learning/software-design-from-requirements-to-release/refactoring?u=76281980&t=165)** This reveals two big problems.
 >
@@ -2237,7 +2213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), application (4), [[Design Patterns]] (3), database (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Data Processing]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2), for example (1)
@@ -2246,8 +2222,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/software-design-from-requirements-to-release/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2261,14 +2236,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** dao (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,7 +2287,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980&t=159)** I had to change its package name as it is now in data layer package and you can see that change in line seven.
 >
-> **[2:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980&t=166)** Now that you're familiar with the entire DevOps tool chain I created, taking the code from Git to Jenkins and then to production.
+> **[2:46](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980&t=166)** Now that you're familiar with the entire [[DevOps]] tool chain I created, taking the code from [[Git]] to [[Jenkins]] and then to production.
 >
 > **[2:53](https://www.linkedin.com/learning/software-design-from-requirements-to-release/solution-2?u=76281980&t=173)** I already completed that part and now it's time to run the application.
 >
@@ -2338,7 +2311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), web (2), [[DevOps]] (1), [[Git]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Git]] (1), [[Jenkins]] (1)
 > **Env Vars:** dao (12), gsp (3), jsp (2), usda (2), xml (2)
 > **CLI Commands:** find (2), make (1), git (1)
 > **UI Navigation:** go to (2), dropdown (1)
@@ -2351,14 +2324,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980&t=0)** - [Neelam] I hope you enjoyed working on the Red 30 project with me.
 >
-> **[0:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980&t=4)** This was a small scale simulation of a project spanning its process from end to end.
+> **[0:04](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980&t=4)** This was a small scale [[Simulation]] of a project spanning its process from end to end.
 >
 > **[0:10](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980&t=10)** In trying to keep it simple, I had to forego many activities that are very critical in a real world setting, for example, testing, multithreading, horizontal scaling to improve performance, and use of advanced frameworks and APIs that make development much more efficient and of higher quality.
 >
@@ -2368,7 +2340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (1), application (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [neelam] (1)

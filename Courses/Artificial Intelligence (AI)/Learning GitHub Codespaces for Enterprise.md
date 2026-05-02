@@ -90,16 +90,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bring Codespaces to your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980)
+#### [Bring Codespaces to your organization](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=0)** - In today's cloud first and cloud native world more and more teams are moving their software infrastructure to the cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=6)** But this paradigm shift in application development it makes a lot of sense to also move the entire software development process to the cloud.
+> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=6)** But this paradigm shift in [[Application Development]] it makes a lot of sense to also move the entire [[Software Development]] process to the cloud.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=14)** In comes GitHub Code Spaces.
+> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=14)** In comes [[GitHub]] Code Spaces.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=17)** GitHub Code Spaces is a cloud-based development environment for writing, to bargain, testing and deploying code.
 >
@@ -117,14 +116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[GitHub]] (5), teams (1), [[Application Development]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Application Development]] (1), [[Software Development]] (1)
 > **Tools:** github (5), vs code (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,26 +136,25 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=20)** Your programming language of choice is not a factor here.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=23)** Next, you need to be familiar with version control systems lik Git, and the entire process of staging, committing and pushing code to GitHub.
+> **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=23)** Next, you need to be familiar with [[Version Control]] systems lik [[Git]], and the entire process of staging, committing and pushing code to [[GitHub]].
 >
 > **[0:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=32)** We also make use of Docker in this course.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=34)** However, you can follow along if you have no experience using Docker.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=38)** We will define the role Docker plays in GitHub Codespaces, enough for you to grasp the concepts necessary for using Docker within your Codespaces.
+> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=38)** We will define the role Docker plays in GitHub [[Codespaces]], enough for you to grasp the concepts necessary for using Docker within your Codespaces.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=45)** With this skill at your fingertips, you can start learning how to use GitHub Codespaces for software development.
+> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=45)** With this skill at your fingertips, you can start learning how to use GitHub Codespaces for [[Software Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[Programming]] (1), next (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[Version Control]] (1), [[Git]] (1), [[Software Development]] (1)
 > **CLI Commands:** docker (4), git (1), make (1)
 > **Tools:** github (3)
 > **Prerequisites:** you need to have (2), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who should take this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980)
+#### [Who should take this course](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +188,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Engineering]] (1), [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - so (1)
@@ -201,12 +197,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub Codespaces?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980)
+#### [What is GitHub Codespaces?](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=0)** - [Instructor] GitHub Codespaces can be described in a lot of ways, and you may have come across a couple of definitions while researching the product.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=0)** - [Instructor] [[GitHub]] [[Codespaces]] can be described in a lot of ways, and you may have come across a couple of definitions while researching the product.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=7)** In this video, we'll describe GitHub Codespaces based on its purposes and explore what it does for developers and development teams.
 >
@@ -216,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=30)** The Codespaces development environment runs in a virtual machine in the cloud.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=34)** This makes Codespaces available everywhere, and developers can develop software within virtual machines that are faster, and more efficient than their personal computers.
+> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=34)** This makes Codespaces available everywhere, and developers can develop software within [[Virtual Machines]] that are faster, and more efficient than their personal computers.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=43)** GitHub Codespaces also come bundled with a suite of code collaboration features that helps teams to work together efficiently.
 >
@@ -242,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (10), teams (3), cloud (2), product (1)
+> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (10), [[Virtual Machines]] (1)
 > **Tools:** github (10), visual studio (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** url (1), cpu (1)
@@ -250,12 +245,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub Codespaces vs. github.dev
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980)
+#### [GitHub Codespaces vs. github.dev](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=0)** - You may have come across another cloud-based editor by GitHub called [GitHub.dev](https://GitHub.dev).
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=0)** - You may have come across another cloud-based editor by [[GitHub]] called [GitHub.dev](https://GitHub.dev).
 >
 > **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=6)** This editor can be pulled up by going to a GitHub repository and hitting the 'dot' key on your keyboard.
 >
@@ -265,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=29)** And that's all there is to it.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=31)** [GitHub.dev](https://GitHub.dev) does not come bundled with all the collaborative deployment and machine configuration features available in GitHub Codespaces.
+> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=31)** [GitHub.dev](https://GitHub.dev) does not come bundled with all the collaborative deployment and machine configuration features available in GitHub [[Codespaces]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=39)** GitHub Codespaces are fully featured development environments for performing various tasks in your development workflows and not just code editing.
 >
@@ -281,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (5), cloud (2), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (5)
 > **Tools:** github (15), visual studio (2)
 > **URLs:** [github.dev](https://github.dev) (7)
 > **CLI Commands:** make (3)
@@ -290,12 +284,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - you (1)
 
-#### Signing up for Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980)
+#### [Signing up for Codespaces](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=0)** - Unlike many features of GitHub that are available by default GitHub Codespaces is an opt-in service.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=0)** - Unlike many features of [[GitHub]] that are available by default GitHub [[Codespaces]] is an opt-in service.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=5)** This means that you have to explicitly configure your GitHub account to use Codespaces.
 >
@@ -363,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (18), [[GitHub]] (17), next (3), business (1)
+> **Frameworks & Libraries:** [[Codespaces]] (18), [[GitHub]] (17)
 > **Tools:** github (17)
 > **UI Navigation:** click on (2), go to (2), toggle (1), scroll down (1)
 > **CLI Commands:** make (3)
@@ -371,8 +364,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - unlike (1)
 
-#### Creating a codespace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980)
+#### [Creating a codespace](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=39)** So click the create code base on main button.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=44)** Github then goes to work creating your code space.
+> **[0:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=44)** [[GitHub]] then goes to work creating your code space.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=47)** This process will take a couple of seconds, and once it's done, you'll then be taken to a cloud-based visual studio code environment.
 >
@@ -420,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), cloud (1), [[Search]] (1), [[Debugging]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **UI Navigation:** click on (2), switch to (1), dropdown (1), select the (1), go to (1)
 > **Tools:** github (2), visual studio (2)
 > **Cross-References:** previous video (1)
@@ -429,8 +421,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - as (1)
 
-#### Adding a Codespaces button to the README
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980)
+#### [Adding a Codespaces button to the README](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=17)** To get started navigate to the home of the repo you want to add this button to.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=22)** This can be any repository on your GitHub account.
+> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=22)** This can be any repository on your [[GitHub]] account.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=24)** Make sure that this repo has a README file as you can see on the screen.
 >
@@ -456,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=48)** This immediately takes me into the edit mode for this file.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=52)** Here, we'll be adding some markdown script that will create a button that says open in GitHub codespaces.
+> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=52)** Here, we'll be adding some markdown script that will create a button that says open in GitHub [[Codespaces]].
 >
 > **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=58)** When this button is clicked, the user will be able to create a new codespace to run our code.
 >
@@ -556,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (16), [[Codespaces]] (9), node (2), api (2), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (16), [[Codespaces]] (9)
 > **Tools:** github (16)
 > **Env Vars:** readme (7), url (3), svg (2)
 > **CLI Commands:** make (3), node (2), find (1)
@@ -570,8 +561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to dev containers and devcontainer.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980)
+#### [Introduction to dev containers and devcontainer.json](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,9 +569,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=3)** Is it embedded within the browser or is it a virtual environment running off your local resources or just a web app running on some remote server?
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=12)** The answer to these questions will help you understand better how codespaces work, and how to get the best out of them.
+> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=12)** The answer to these questions will help you understand better how [[Codespaces]] work, and how to get the best out of them.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=20)** GitHub Codespaces is run in a container.
+> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=20)** [[GitHub]] Codespaces is run in a container.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=22)** A container is an isolated environment containing the resources, software, and sometimes, the startup instructions that an application needs to run.
 >
@@ -607,9 +597,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=87)** The default container contains many of the common tools that your team might need, when developing your project.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=94)** By default, the container for your codespace has many languages and runtimes, including note js, JavaScript, TypeScript, nvm, npm, and yarn.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=94)** By default, the container for your codespace has many languages and runtimes, including note js, [[JavaScript]], TypeScript, nvm, [[npm]], and yarn.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=106)** It also includes helpful tools, like Git, Wget, rsync, OpenSSH and nano editor.
+> **[1:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=106)** It also includes helpful tools, like [[Git]], Wget, rsync, OpenSSH and nano editor.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=115)** Though the default container is great, configuring the container to suit your needs offers more benefits.
 >
@@ -623,7 +613,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=156)** We'll demonstrate how to do this in the next video.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=159)** The most important file to look out for in the.devcontainer directory is the devcontainer.json file.
+> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=159)** The most important file to look out for in the.devcontainer directory is the devcontainer.[[JSON]] file.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=166)** This is the primary configuration file for your container.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (3), [[GitHub]] (2), web (1), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[GitHub]] (2), [[JavaScript]] (1), [[npm]] (1), [[Git]] (1)
 > **CLI Commands:** docker (2), npm (1), yarn (1), git (1), wget (1)
 > **Tools:** github (2), visual studio (1)
 > **Prerequisites:** configure (3)
@@ -646,12 +636,11 @@ created: 2026-05-02
 > **Env Vars:** cpu (1)
 > **Definitions:** is an  (1)
 
-#### Defining your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980)
+#### [Defining your development environment](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=0)** - Now that you understand how GitHub code spaces are configured, let's start configuring our code space environment.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=0)** - Now that you understand how [[GitHub]] code spaces are configured, let's start configuring our code space environment.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=6)** We'll start by creating the configuration file for customizing our code space.
 >
@@ -669,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=45)** These are configuration file templates for different types of projects.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=50)** Because we're running a Node.js project select the Node.js option.
+> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=50)** Because we're running a [[Node.js]] project select the Node.js option.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=55)** After selecting Node.js, we're now prompted to select the Node.js version we would like to use for this project.
 >
@@ -681,7 +670,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=77)** These features include extensions, packages, and frameworks that help improve the developer experience.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=85)** For this demo, simply select the GitHub CLI.
+> **[1:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=85)** For this demo, simply select the GitHub [[CLI]].
 >
 > **[1:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=88)** Not for any particular reason, but just so we can see the effect of selecting this option in our configuration file.
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=117)** Inside this folder, there are two files critical to the environment's configuration.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=122)** The devcontainer.json file, discussed in a previous video, and a Dockerfile.
+> **[2:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=122)** The devcontainer.[[JSON]] file, discussed in a previous video, and a Dockerfile.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=128)** The Dockerfile holds information about the Docker image that will be used to provide the specified Node environment.
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=221)** Here we can list the VS Code extensions to be included by default within the array brackets.
 >
-> **[3:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=227)** Our file currently has the ESLint JavaScript linting extension installed.
+> **[3:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=227)** Our file currently has the [[ESLint]] [[JavaScript]] linting extension installed.
 >
 > **[3:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=233)** You can add any other extension from the VS Code marketplace here.
 >
@@ -741,7 +730,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=240)** This is used to expose ports within the Docker container to the public.
 >
-> **[4:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=244)** You can use this property to expose your databases cache servers, application servers, and other services running within your code space container to be accessed by external applications.
+> **[4:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=244)** You can use this property to expose your [[Databases]] cache servers, application servers, and other services running within your code space container to be accessed by external applications.
 >
 > **[4:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=255)** We'll be using this property in a later video to make our Node.js application accessible publicly.
 >
@@ -763,7 +752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), next (6), [[GitHub]] (4), feature (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[GitHub]] (4), [[JSON]] (3), [[CLI]] (2), [[ESLint]] (1)
 > **CLI Commands:** node (8), docker (7), make (1)
 > **Tools:** vs code (5), github (4), visual studio (1), terminal (1)
 > **File Paths:** node.js (7), devcontainer.json (3)
@@ -772,8 +761,7 @@ created: 2026-05-02
 > **Versions:** version 14 (3)
 > **Env Vars:** cli (2)
 
-#### Port forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980)
+#### [Port forwarding](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,15 +779,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=33)** Let's return to the code space configuration file to do that.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=37)** In your dev containing the JSON file, on command the forward ports property then add port 1 3 37 as an entry into the array.
+> **[0:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=37)** In your dev containing the [[JSON]] file, on command the forward ports property then add port 1 3 37 as an entry into the array.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=46)** Save the file by using the control+S or command+S shortcut for Windows and Mac respectively or by going to file save on the code space menu.
+> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=46)** Save the file by using the control+S or command+S shortcut for [[Windows]] and Mac respectively or by going to file save on the code space menu.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=57)** Now let's run the application and see if we can access the base endpoint.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=61)** To run the application inside the terminal, if the terminal is not open, you can pull up the terminal by going to the menu terminal new terminal.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=72)** This will pull up the Linux terminal at the root of your project.
+> **[1:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=72)** This will pull up the [[Linux]] terminal at the root of your project.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=76)** Here you can run commands related to your project or any Linux based commands.
 >
@@ -815,7 +803,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=118)** To view and interact with the running server, click the opening browser button.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=123)** Codespaces then opens and bootstrap the application in a new tab and we are immediately taken to the root endpoint.
+> **[2:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=123)** [[Codespaces]] then opens and bootstrap the application in a new tab and we are immediately taken to the root endpoint.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=130)** Here we can see the server message printed out.
 >
@@ -827,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Linux]] (2), node (1), [[JSON]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[JSON]] (1), [[Windows]] (1), [[Codespaces]] (1)
 > **Tools:** terminal (6)
 > **Env Vars:** json (1), mpm (1), api (1)
 > **Ports:** port 1 (2)
@@ -836,14 +824,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
 
-#### Setting a default editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980)
+#### [Setting a default editor](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=0)** - By default, Codespaces is run in a remote instance of Visual Studio Code for you to develop your project.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=0)** - By default, [[Codespaces]] is run in a remote instance of Visual Studio Code for you to develop your project.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=7)** However, if you already prefer working in your local desktop version of Visual Studio Code but still want to take advantage of all the powerful features that come with GitHub Codespaces, Codespaces gives you the ability to do that.
+> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=7)** However, if you already prefer working in your local desktop version of Visual Studio Code but still want to take advantage of all the powerful features that come with [[GitHub]] Codespaces, Codespaces gives you the ability to do that.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=20)** When you open a new codespace, the web version of VS Code is open by default.
 >
@@ -877,14 +864,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (4), web (3), [[Automation]] (1), hit (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (4)
 > **Tools:** vs code (6), github (4), visual studio (3)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), select the (1), open the (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
 > **Speakers:** - by (1)
 
-#### Personalizing your setup with extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980)
+#### [Personalizing your setup with extensions](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=22)** This property allows you to add Visual Studio Code extensions from the marketplace to your codespace.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=28)** Currently, we have the Eslint extension installed.
+> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=28)** Currently, we have the [[ESLint]] extension installed.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=33)** Any extension added here will be available to every codespace instance created within this repository.
 >
@@ -944,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[ESLint]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **CLI Commands:** docker (12), make (1)
 > **Tools:** vs code (2), visual studio (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -952,8 +938,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [speaker] (1)
 
-#### Codespace logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980)
+#### [Codespace logs](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=5)** This is where code space logs come in.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=8)** GitHub CodeSpaces generate different types of logs for you to troubleshoot issues in your code space container, the editor, and also in your current session.
+> **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=8)** [[GitHub]] [[Codespaces]] generate different types of logs for you to troubleshoot issues in your code space container, the editor, and also in your current session.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=17)** In this video, we'll be looking at two types of logs CodeSpaces generate to provide feedback on all that's happening within your code space environment.
 >
@@ -1003,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (3), [[Debugging]] (1), web (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (3)
 > **Tools:** github (3), visual studio (1)
 > **Exercise Files:** zip file (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -1016,12 +1001,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A tour of the codespace editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980)
+#### [A tour of the codespace editor](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=0)** - In this video, I'll be taking you around the codespace editor to get familiar with the common windows and controls in the interface.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=0)** - In this video, I'll be taking you around the codespace editor to get familiar with the common [[Windows]] and controls in the interface.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=7)** Let's begin here on the left with the sidebar.
 >
@@ -1041,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=40)** The bar consists of icons that can be clicked to switch between the different views.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=46)** Currently we have the file explorer, search, version control, debug, extensions, and GitHub views.
+> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=46)** Currently we have the file explorer, search, [[Version Control]], debug, extensions, and [[GitHub]] views.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=58)** We also have the docker view which we added by installing the docker extension.
 >
@@ -1085,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), next (3), [[Search]] (2), [[Debugging]] (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Version Control]] (1), [[GitHub]] (1)
 > **Tools:** github (1), terminal (1), vs code (1)
 > **CLI Commands:** docker (2)
 > **Cross-References:** in the next (1)
@@ -1093,12 +1077,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Running your application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980)
+#### [Running your application](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=0)** - [Narrator] One of the most exciting features of GitHub Codespaces is the ability to run your project and immediately get a publicly live URL to test it.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=0)** - [Narrator] One of the most exciting features of [[GitHub]] [[Codespaces]] is the ability to run your project and immediately get a publicly live URL to test it.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=8)** We have seen a preview of this in one of the previous videos.
 >
@@ -1176,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[GitHub]] (3), [[Codespaces]] (2), next (2), api (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (2)
 > **Env Vars:** url (8), mpm (2), api (1), http (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **Tools:** github (3), postman (3)
@@ -1185,8 +1168,7 @@ created: 2026-05-02
 > **File Paths:** server.js (1)
 > **Cross-References:** previous video (1)
 
-#### Committing and pushing code changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980)
+#### [Committing and pushing code changes](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1216,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), api (1)
 > **File Paths:** routes.js (2), route.js (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** make (2)
@@ -1243,8 +1224,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980)
+#### [Creating a pull request](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1252,7 +1232,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=6)** pull requests allow you to suggest changes on a branch you're working on to a central branch where all other team members submit their changes.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=13)** This request can then be merged or rejected by a code reviewer or an automated continuous integration pipeline.
+> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=13)** This request can then be merged or rejected by a code reviewer or an automated [[Continuous Integration (CI)|continuous integration]] pipeline.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=20)** In this video, we're going to create a pull request from a codespace I have created on a different branch and merge it to the main branch we've been working on throughout this course.
 >
@@ -1280,7 +1260,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=96)** Now that we have pushed our changes to the new feature branch, let's send a pull request to the main branch from inside our codespace.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=103)** To send the pull request, click on the GitHub icon on the activity bar.
+> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=103)** To send the pull request, click on the [[GitHub]] icon on the activity bar.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=108)** Just beside the pull request label, click the create pull request icon with a plus sign at the bottom right corner.
 >
@@ -1300,7 +1280,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=164)** Now let's head over to the codespace on the main branch to merge this request.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=169)** To do that, click on the flyout menu and go to my codespaces.
+> **[2:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=169)** To do that, click on the flyout menu and go to my [[Codespaces]].
 >
 > **[2:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=174)** On the codespaces list, select the codespace for the main branch.
 >
@@ -1342,18 +1322,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[GitHub]] (4), application (2), [[Codespaces]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **UI Navigation:** click on (9), go to (2), select the (2), dropdown (1), switch to (1)
 > **File Paths:** server.js (5)
 > **Tools:** github (4)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting a codespace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980)
+#### [Deleting a codespace](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=0)** - One of the main highlights of codespaces is how you can easily spin up a development environment until it's down, when you no longer need it.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=0)** - One of the main highlights of [[Codespaces]] is how you can easily spin up a development environment until it's down, when you no longer need it.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=7)** When you are no longer in need of a certain codespace, it's best practice to clean things up by deleting it.
 >
@@ -1363,7 +1342,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=28)** We have already merged changes from the new feature branch in a previous video, so we can go ahead and delete it.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=35)** Deleting GitHub codespaces is pretty straightforward.
+> **[0:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=35)** Deleting [[GitHub]] codespaces is pretty straightforward.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=38)** On the codespaces item, click the ellipses icon on the right.
 >
@@ -1379,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (3), feature (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[GitHub]] (2)
 > **Tools:** github (2)
 > **Cross-References:** previous video (1)
 > **Best Practices:** best practice (1)
@@ -1390,14 +1369,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting to Codespaces from VSCode
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980)
+#### [Connecting to Codespaces from VSCode](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=0)** - [Presenter] In a previous video, I demonstrated how you could configure your code spaces to open in your local Visual Studio code installation instead of your browser.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=9)** To make this configuration take effect, you need to set up your local visual studio code instance to connect to GitHub Codespaces.
+> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=9)** To make this configuration take effect, you need to set up your local visual studio code instance to connect to [[GitHub]] [[Codespaces]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=15)** And this is what we are going to learn in this video.
 >
@@ -1457,7 +1435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (11), [[GitHub]] (5), [[Search]] (2), next (1), api (1)
+> **Frameworks & Libraries:** [[Codespaces]] (11), [[GitHub]] (5)
 > **Tools:** github (5), visual studio (4), vs code (4)
 > **Prerequisites:** install (3), configure (2)
 > **UI Navigation:** click on (2), in the sidebar (1)
@@ -1466,14 +1444,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [presenter] (1)
 
-#### Restricting machine types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980)
+#### [Restricting machine types](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=0)** - [Instructor] To ensure uniformity and control usage of code space resources it is often essential to restrict the types of machines that can be used to spin up a code space by members of your team.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=12)** GitHub code spaces cost money, so you want to ensure that team members are only making use of what is needed and not spinning up expensive code spaces for tasks that do not require them.
+> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=12)** [[GitHub]] code spaces cost money, so you want to ensure that team members are only making use of what is needed and not spinning up expensive code spaces for tasks that do not require them.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=22)** In this video, we'll demonstrate how to set up a policy that restricts the type of machines, and by machine type, I mean machines grouped according to resource capacity that can be used to spin up code spaces.
 >
@@ -1485,7 +1462,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=52)** On the Settings sidebar under the code planning and automation section, click on code spaces, then click on policies.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=61)** On the Codespaces policies page, click Create Policy.
+> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=61)** On the [[Codespaces]] policies page, click Create Policy.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=66)** Now enter your name for your policy.
 >
@@ -1513,22 +1490,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Automation]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Codespaces]] (1)
 > **UI Navigation:** click on (6), dropdown (2), go to (1), select the (1)
 > **Prerequisites:** set up (3)
 > **Tools:** github (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using predefined containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980)
+#### [Using predefined containers](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=0)** - As we have seen in the previous video, GitHub Code spaces provides you with a set of predefined container configurations.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=0)** - As we have seen in the previous video, [[GitHub]] Code spaces provides you with a set of predefined container configurations.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=7)** You can use any of the configurations to start your development work rather than having to create one from scratch.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=13)** Dev container configuration templates exist for Node.js, Java, CSharp, C++, and other common project types.
+> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=13)** Dev container configuration templates exist for [[Node.js]], [[Java]], CSharp, C++, and other common project types.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=22)** To see a list of predefined containers available to you open the command palette and type in dev container.
 >
@@ -1542,9 +1518,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=60)** You can scroll to see all available options or type in the search field for a language.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=67)** Well Python and see the configuration you are interested in.
+> **[1:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=67)** Well [[Python (Programming Language)|Python]] and see the configuration you are interested in.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=75)** Aside single language based options like Node.js and PHP, there are also bare bones configurations like Alpine or full-fledge configurations like PHP and MariaDB that comes with database support.
+> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=75)** Aside single language based options like Node.js and [[PHP]], there are also bare bones configurations like Alpine or full-fledge configurations like PHP and MariaDB that comes with database support.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=89)** Once you select a predefined container configuration, GitHub code spaces might ask you a couple of questions to confirm or provide answers for.
 >
@@ -1554,7 +1530,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=110)** These are tools that you may require for your development workflow.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=114)** Among them is the GitHub CLI, the AWS CLI, if you have some resources on that you're using for the project and tools like PowerShell, if you prefer it to your regular terminal.
+> **[1:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=114)** Among them is the GitHub [[CLI]], the AWS CLI, if you have some resources on that you're using for the project and tools like [[Powershell]], if you prefer it to your regular terminal.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=125)** We also have the Kubecti CLI, that's kubectl, and many more.
 >
@@ -1590,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[CLI]] (5), aws (5), [[Node.js]] (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[CLI]] (5), [[Node.js]] (2), [[PHP]] (2), [[Java]] (1)
 > **CLI Commands:** aws (5), node (2), php (2), find (1), python (1)
 > **Env Vars:** cli (5), aws (5), php (2)
 > **Tools:** github (5), terminal (2), powershell (1)
@@ -1599,12 +1575,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 
-#### Environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980)
+#### [Environment variables](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=0)** - For every code space created GitHub automatically sets some default environment variables.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=0)** - For every code space created [[GitHub]] automatically sets some default environment variables.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=6)** Some of these variables can be useful in your workflow within your GitHub code space.
 >
@@ -1652,23 +1627,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), api (1)
+> **Frameworks & Libraries:** [[GitHub]] (11)
 > **Tools:** github (11), terminal (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - for (1)
 
-#### Storing sensitive data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980)
+#### [Storing sensitive data](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=0)** - [Speaker] In a previous video, we looked at default environment variables set by GitHub for use in our codespace environment.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=0)** - [Speaker] In a previous video, we looked at default environment variables set by [[GitHub]] for use in our codespace environment.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=7)** In this video, we'll learn and demonstrate how you can create your own environment variables for use within your GitHub top codespaces.
+> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=7)** In this video, we'll learn and demonstrate how you can create your own environment variables for use within your GitHub top [[Codespaces]].
 >
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=14)** These environment variables can be used to store sensitive data like API credentials of top party services, authentication tokens and database passwords.
+> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=14)** These environment variables can be used to store sensitive data like API credentials of top party services, authentication [[Tokens]] and database passwords.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=24)** Basically, any value you would like to store in a secure manner.
 >
@@ -1756,7 +1730,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=265)** Here I'll create another secret with the name, MY_DATABASE_CONNECTION_STRING.
 >
-> **[4:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=276)** At the value field, I'm going to enter a random value that mimics using a mongodb protocol for a connection string.
+> **[4:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=276)** At the value field, I'm going to enter a random value that mimics using a [[MongoDB]] protocol for a connection string.
 >
 > **[4:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=286)** It is just random and I'm definitely sure this is not how the mongodb string looks like.
 >
@@ -1786,7 +1760,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=358)** Surround it.
 >
-> **[5:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=359)** And as expected, our CLI outputs, the value we entered for this secret.
+> **[5:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=359)** And as expected, our [[CLI]] outputs, the value we entered for this secret.
 >
 > **[6:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=364)** Now, let's try to access the MY_DATABASE_CONNECTIONS_STRING environment variable.
 >
@@ -1800,7 +1774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (11), data (2), api (2), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (15), [[Codespaces]] (11), [[MongoDB]] (2), [[Tokens]] (1), [[CLI]] (1)
 > **Tools:** github (15), terminal (1)
 > **UI Navigation:** click on (5), go to (4), dropdown (3), select the (1)
 > **Env Vars:** general_api_key (3), api (1), github (1), my_database_connection_string (1), cli (1)
@@ -1813,16 +1787,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Github Models with Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980)
+#### [Using Github Models with Codespaces](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=0)** - [Instructor] Artificial intelligence is one of the fastest growing technologies at the moment, specifically in the area of generative AI.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is one of the fastest growing technologies at the moment, specifically in the area of [[Generative AI]].
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=7)** This has led to developers building tools, features, and entire applications powered by large language models.
+> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=7)** This has led to developers building tools, features, and entire applications powered by [[Large Language Models (LLM)|large language models]].
 >
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=14)** These LLMs are provided by different vendors such as OpenAI, Google, and Anthropic with varying features and performance.
+> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=14)** These LLMs are provided by different vendors such as OpenAI, [[Google]], and Anthropic with varying features and performance.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=23)** When developing with LLMs, developers often need to try different models from different vendors to see which model best suits their use case.
 >
@@ -1830,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=38)** You will also need to manage authentication credentials for each model you're trying out.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=42)** As you may have guessed, this is not a very pleasing developer experience, and it's exactly where GitHub models come in.
+> **[0:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=42)** As you may have guessed, this is not a very pleasing developer experience, and it's exactly where [[GitHub]] models come in.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=49)** GitHub models allow you to quickly prototype with different models.
 >
@@ -1876,13 +1849,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=197)** We have selected the OpenAI GPT-4o mini model.
 >
-> **[3:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=200)** So we have a couple of language options, which includes JavaScript, Python, C#, REST, and also Java.
+> **[3:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=200)** So we have a couple of language options, which includes [[JavaScript]], [[Python (Programming Language)|Python]], C#, [[Representational State Transfer (REST)|REST]], and also [[Java]].
 >
 > **[3:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=210)** For this demo, we'll just be going with JavaScript.
 >
 > **[3:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=213)** For you, make sure you pick the language that your project is written in.
 >
-> **[3:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=217)** For the SDK, we have two options based on the model we have selected, the OpenAI SDK and the Azure AI Inference SDK.
+> **[3:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=217)** For the SDK, we have two options based on the model we have selected, the OpenAI SDK and the [[Microsoft Azure|Azure]] AI Inference SDK.
 >
 > **[3:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=228)** We'll be using the OpenAI SDK for this demo as it directly matches with our selected model.
 >
@@ -1890,9 +1863,9 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=242)** Once you have selected your options, navigate to the dependency section.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=247)** Here in the dependency section, we see that we have a dependency on the OpenAI NPM package.
+> **[4:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=247)** Here in the dependency section, we see that we have a dependency on the OpenAI [[npm]] package.
 >
-> **[4:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=252)** So let's just copy this package.json, go to our codespace.
+> **[4:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=252)** So let's just copy this package.[[JSON]], go to our codespace.
 >
 > **[4:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=258)** Here, I'm going to create a new package.json file.
 >
@@ -1938,7 +1911,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=386)** This is why GitHub models has provided an entire repo for you to do this.
 >
-> **[6:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=390)** This is the GitHub models codespaces project that can be found at [github.com/github/codespaces-models](https://github.com/github/codespaces-models).
+> **[6:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=390)** This is the GitHub models [[Codespaces]] project that can be found at [github.com/github/codespaces-models](https://github.com/github/codespaces-models).
 >
 > **[6:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=400)** This project consists of different examples using different models and different SDKs that you can quickly run and also tweak the code when trying out the models.
 >
@@ -1985,18 +1958,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (3), install (2), setup (2)
 > **URLs:** [github.com](https://github.com) (2)
 
-#### Using Github Models in live projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980)
+#### [Using Github Models in live projects](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=0)** - [Instructor] Now that we have seen how to make use of GitHub models in our development with Codespaces, what do we do when we want to ship this code to production?
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=0)** - [Instructor] Now that we have seen how to make use of [[GitHub]] models in our development with [[Codespaces]], what do we do when we want to ship this code to production?
 >
 > **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=9)** Now, one thing to note with GitHub models is that you can only use them in the development phase of your application.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=16)** They cannot and should not be used for live projects.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=21)** To move your project to production, you will need the Azure AI service, which you can seamlessly switch to in your code, as will be seen along the course of this video.
+> **[0:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=21)** To move your project to production, you will need the [[Microsoft Azure|Azure]] AI service, which you can seamlessly switch to in your code, as will be seen along the course of this video.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=31)** Azure AI allows you to deploy production-ready instances of numerous state-of-the-art models.
 >
@@ -2078,7 +2050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), ai (9), [[GitHub]] (7), [[Codespaces]] (3), api (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[GitHub]] (7), [[Codespaces]] (3)
 > **Env Vars:** api (3), url (3), azure_token (3), gpt (1)
 > **Tools:** github (7)
 > **Prerequisites:** set up (2), getting started (1)
@@ -2087,14 +2059,13 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), dropdown (1)
 > **File Paths:** prompt.js (1)
 
-#### Working with different models in a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980)
+#### [Working with different models in a project](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=0)** - [Instructor] One inconvenience to have as a developer prototyping models is to be able to swap in different models to try out without having to change configurations or installing new SDKs.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=0)** - [Instructor] One inconvenience to have as a developer [[Prototyping]] models is to be able to swap in different models to try out without having to change configurations or installing new SDKs.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=11)** This is exactly what the Azure Inference SDK that we saw in a previous video is for.
+> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=11)** This is exactly what the [[Microsoft Azure|Azure]] Inference SDK that we saw in a previous video is for.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=17)** The Azure AI Inference SDK is all purpose SDK that works for every model supported on .GitHubmodels.
 >
@@ -2114,11 +2085,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=58)** Go back to my codespace.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=63)** And let's go to package.json.
+> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=63)** And let's go to package.[[JSON]].
 >
 > **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=66)** And paste them on our open AI dependency.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=71)** Once we have these dependencies in package.json, let us install them by running npm install.
+> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=71)** Once we have these dependencies in package.json, let us install them by running [[npm]] install.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=77)** No we are the terminal.
 >
@@ -2186,7 +2157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), [[JSON]] (2), prompt (2), node (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (2), [[Prototyping]] (1), [[npm]] (1)
 > **Env Vars:** sdk (8), api (1)
 > **File Paths:** streaming.js (3), package.json (2)
 > **Versions:** 24.11 (2), 3.5 (2)
@@ -2200,16 +2171,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=0)** - [Fikayo] Now that you have a good understanding of GitHub Codespaces, there're a couple of recommendations to take your skills from good to great.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=0)** - [Fikayo] Now that you have a good understanding of [[GitHub]] [[Codespaces]], there're a couple of recommendations to take your skills from good to great.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=7)** GitHub Codespaces is a GitHub service and it heavily relies on GitHub workflows.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=12)** So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning Git and GitHub]] courses from the LinkedIn Library.
+> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=12)** So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning [[Git]] and GitHub]] courses from the [[LinkedIn]] Library.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=26)** To take full advantage of the Codespaces Editor, having strong Visual Studio skills is essential.
 >
@@ -2229,7 +2199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[LinkedIn]] (3), management (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[LinkedIn]] (3), [[Git]] (1)
 > **Tools:** github (7), visual studio (2), vs code (1)
 > **CLI Commands:** docker (4), git (1), find (1)
 > **Prerequisites:** configure (1), you need to have (1)

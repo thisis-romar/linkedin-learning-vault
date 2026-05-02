@@ -107,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
+#### [Understanding cybersecurity](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,18 +119,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980&t=25)** I'm Malcolm Shore, and I've spent a career helping governments and businesses protect their systems against cyber attacks.
 >
-> **[0:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980&t=33)** I'd like to invite you to take your first step into the world of cyber security and join me in this LinkedIn Learning course.
+> **[0:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980&t=33)** I'd like to invite you to take your first step into the world of cyber security and join me in this [[LinkedIn]] Learning course.
 >
-> **[0:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980&t=41)** Let's get started with Cybersecurity for IT Professionals.
+> **[0:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980&t=41)** Let's get started with [[Cybersecurity]] for IT Professionals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), career (2), [[LinkedIn]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,13 +137,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=6)** In explaining how the tools work, I'll be assuming that you have a basic knowledge of computer and networking concepts and I'll be using common networking terminology.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=16)** The course doesn't require you to have any prior knowledge of cybersecurity.
+> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=16)** The course doesn't require you to have any prior knowledge of [[Cybersecurity]].
 >
 > **[0:21](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=21)** This is a practical course during which we'll be using a test network.
 >
-> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=25)** We'll be using a Windows 10 workstation on IP address 192.168.1.50, and with two Ubuntu systems, Hydra, on IP address 192.168.1.51 and Scorpio on IP address 192.168.1.52.
+> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=25)** We'll be using a [[Windows 10]] workstation on IP address 192.168.1.50, and with two [[Ubuntu]] systems, [[Hydra]], on IP address 192.168.1.51 and Scorpio on IP address 192.168.1.52.
 >
-> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=43)** Later in the course, we'll also make use of a Kali Linux penetration testing workstation to demonstrate some of the ethical hacking tools.
+> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=43)** Later in the course, we'll also make use of a [[Kali Linux]] [[Penetration Testing]] workstation to demonstrate some of the [[Ethical Hacking]] tools.
 >
 > **[0:51](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=51)** This doesn't have a fixed IP address.
 >
@@ -157,11 +155,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=74)** If you're not familiar with the Raspberry Pi, there are courses in our library to help you set one up.
 >
-> **[1:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=80)** Alternatively, you can set up a test network with Linux virtual machines.
+> **[1:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=80)** Alternatively, you can set up a test network with [[Linux]] [[Virtual Machines]].
 >
 > **[1:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=85)** If you're planning to progress into a more advanced ethical hacking training, this will be your best option.
 >
-> **[1:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=91)** If you're not familiar with VirtualBox, you can learn how to set up a lab by following the videos in my Kali Linux course, where I cover the essentials of setting up a VirtualBox-based lab with Windows and new Ubuntu hosts.
+> **[1:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=91)** If you're not familiar with VirtualBox, you can learn how to set up a lab by following the videos in my Kali Linux course, where I cover the essentials of setting up a VirtualBox-based lab with [[Windows]] and new Ubuntu hosts.
 >
 > **[1:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-you-should-know?u=76281980&t=106)** If you prefer VMware, then you can use that as you would for VirtualBox.
 >
@@ -190,14 +188,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third party testing tools.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980&t=4)** Some are commercial products and some are open source.
+> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980&t=4)** Some are commercial [[Microsoft Products|products]] and some are open source.
 >
 > **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/disclaimer?u=76281980&t=8)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these sites might not be compromised when you visit them.
 >
@@ -221,8 +218,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A history of hackers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
+#### [A history of hackers](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=16)** Morris was charged and fined $10,000, rather a lot in those days.
 >
-> **[0:21](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=21)** This case was somewhat controversial, as Morris Sr. Was a cybersecurity expert from the National Security Agency.
+> **[0:21](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=21)** This case was somewhat controversial, as Morris Sr. Was a [[Cybersecurity]] expert from the National Security Agency.
 >
 > **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=30)** The worm infected DEC and SUN systems.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=132)** All five pleaded guilty, and were sentenced to either probation or prison.
 >
-> **[2:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=138)** Interestingly, in a panel debate at the next HOPE conference in 2010, Mark Abene stated that the rumored gang war in cyberspace between Legion of Doom and Masters of Deception never happened, and that it was a complete fabrication by the US Attorney's Office and some sensational media.
+> **[2:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=138)** Interestingly, in a panel debate at the next HOPE conference in 2010, Mark Abene stated that the rumored gang war in cyberspace between Legion of Doom and Masters of Deception never happened, and that it was a complete fabrication by the US Attorney's [[Microsoft Office|Office]] and some sensational media.
 >
 > **[2:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=158)** Nevertheless, it's become one of the great myths of hacking.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=204)** He was again detected, but this time he took flight, becoming a fugitive for more than two and a half years.
 >
-> **[3:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=212)** His exploits have been documented in the book "Take Down" by John Markoff and Tsutomu Shimomura, and by Mitnick himself in his books, "The Art of Deception" and "Ghost in the Wires."
+> **[3:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=212)** His exploits have been documented in the book "Take Down" by [[John the Ripper|John]] Markoff and Tsutomu Shimomura, and by Mitnick himself in his books, "The Art of Deception" and "Ghost in the Wires."
 >
 > **[3:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=227)** After his release, he eventually became an author on cybersecurity, acted as a CIA agent in ABC's TV spy thriller, "Alias," and he is now a security consultant.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=246)** However, by the late 1990s, the number of servers on the internet began to skyrocket as individuals and businesses started to take advantage of the benefits of an online society.
 >
-> **[4:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=258)** As soon as money could be exchanged online, and banking systems became internet accessible, organized crime began to take an interest.
+> **[4:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=258)** As soon as money could be exchanged online, and [[Banking]] systems became internet accessible, organized crime began to take an interest.
 >
 > **[4:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980&t=267)** Over the next decade, hacking as online crime became as significant a problem for society and as lucrative an activity for organized crime, as illegal drugs.
 >
@@ -298,14 +294,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), next (2), [[Microsoft Office|Office]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1), [[John the Ripper|John]] (1), [[Banking]] (1)
 > **Env Vars:** dec (2), sun (1), cert (1), fbi (1), hope (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980)
+#### [The cyber kill chain](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=161)** Malware is weaponized when it's customized to a specific targets or group of targets.
 >
-> **[2:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=166)** It may be designed to exploit a vulnerability in a specific version of an operating system, or target a specific online banking website.
+> **[2:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=166)** It may be designed to exploit a vulnerability in a specific version of an operating system, or target a specific online [[Banking]] website.
 >
 > **[2:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=176)** It will be designed to contain what's known as a payload, which when the target is penetrated, will be installed and run the attack proper.
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=196)** One way of delivering malware into the target is to infect a document, PDF image, or other electronic item with the malware, and then send it via email to an individual, and trick them into opening it.
 >
-> **[3:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=210)** This is known as a phishing attack.
+> **[3:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=210)** This is known as a [[Phishing]] attack.
 >
 > **[3:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=212)** Another way might be to find a vulnerable website and infect it with the malware.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=312)** It may also involve installing some form of mechanism to make sure the payload resumes execution after the system is rebooted, a process called persistence.
 >
-> **[5:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=323)** A typical way of doing this on Windows is to at a registry entry to automatically run the payload when the system starts up.
+> **[5:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=323)** A typical way of doing this on [[Windows]] is to at a registry entry to automatically run the payload when the system starts up.
 >
 > **[5:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=331)** An attack may be designed to remain in place, communicating over long periods of time with the attacker using a remote command and control channel.
 >
@@ -405,19 +400,18 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=367)** And, a cyber criminal may want to access a bank account in order to steal money.
 >
-> **[6:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=373)** There are many forms of action limited only by the attacker's imagination.
+> **[6:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/the-cyber-kill-chain?u=76281980&t=373)** There are many [[Forms]] of action limited only by the attacker's imagination.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (1), [[Banking]] (1), [[Phishing]] (1), web (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Phishing]] (1), [[Windows]] (1), [[Forms]] (1)
 > **Definitions:** known as (6)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** usb (2), pdf (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
-#### Stuxnet and the kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980)
+#### [Stuxnet and the kill chain](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=39)** Ralph Langner, in November 2013, released the most complete report to date on an APT, known as Stuxnet.
 >
-> **[0:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=48)** We'll walk through this attack in the context of the cybersecurity kill chain.
+> **[0:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=48)** We'll walk through this attack in the context of the [[Cybersecurity]] kill chain.
 >
 > **[0:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=53)** The United States had for some time, being concerned about Iran's growing capability for uranium enrichment and the potential for Iran, to develop a full nuclear weapons program.
 >
@@ -441,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=79)** Analysis indicated that it was a newer version of malware originally created in 2005, and that it was designed to exploit Siemens industrial plant equipment used in nuclear fuel enrichment.
 >
-> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=93)** The Struxnet code contained validation criteria to target only certain configurations of the Siemens industrial system control and data acquisition, or SCADA network.
+> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=93)** The Struxnet code contained validation criteria to target only certain configurations of the Siemens industrial system control and [[Data Acquisition]], or SCADA network.
 >
 > **[1:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=105)** The target for the Struxnet virus was the uranium enrichment facility in Natanz, Iran.
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=161)** Struxnet was designed to be delivered on a USB stick, via email, or through prior implementation on electronic equipment being used in the facility, either at manufacturing or through the supply chain.
 >
-> **[2:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=176)** Struxnet used four zero-day exploits on windows computers to propagate and deliver the payload to the SCADA system.
+> **[2:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=176)** Struxnet used four zero-day exploits on [[Windows]] computers to propagate and deliver the payload to the SCADA system.
 >
 > **[3:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=184)** It took advantage of a vulnerability in the Siemens WinCC/PCS7 SCADA control software.
 >
@@ -473,14 +467,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Security]] (1), [[Data Acquisition]] (1), management (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Acquisition]] (1), [[Windows]] (1)
 > **Env Vars:** scada (5), apt (4), w32 (1), usb (1), pcs7 (1)
 > **CLI Commands:** apt (4)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common forms of cyberattack
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980)
+#### [Common forms of cyberattack](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=33)** They will often purchase a botnet, or purchase time on a botnet, and use cyber crime software such as Zeus to manage their command and control servers, which in turn are used to control a vast number of compromised computers, known as zombies, all around the world.
 >
-> **[0:50](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=50)** All the cyber criminal needs to do is compose an attack and then send it through the botnet, which will search for and attack targets.
+> **[0:50](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=50)** All the cyber criminal needs to do is [[Jetpack Compose|compose]] an attack and then send it through the botnet, which will search for and attack targets.
 >
 > **[1:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=60)** This is organized crime at global scale.
 >
@@ -518,9 +511,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=112)** Having found a target, the next task is to deliver the attack.
 >
-> **[1:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=116)** Let's look at the two common forms of attack.
+> **[1:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=116)** Let's look at the two common [[Forms]] of attack.
 >
-> **[1:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=119)** Phishing via email, and malicious websites.
+> **[1:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=119)** [[Phishing]] via email, and malicious websites.
 >
 > **[2:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=124)** Email phishing occurs when an email containing an attachment which has been infected is sent to its victim.
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=136)** The attachments could be an executable program, which may have had its name changed to look innocuous.
 >
-> **[2:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=142)** It may even be a picture, a Word document, a spreadsheet, all of which have in the past had vulnerabilities, which allowed malware to be in installed.
+> **[2:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=142)** It may even be a picture, a [[Microsoft Word|Word]] document, a spreadsheet, all of which have in the past had vulnerabilities, which allowed malware to be in installed.
 >
 > **[2:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=152)** A malicious website is one in which an attacker has been able to plant malicious code.
 >
@@ -586,7 +579,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=338)** Attackers are familiar with the default credentials that are provided with software, and these should always be changed.
 >
-> **[5:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=345)** While this is a well-known security rule, it's surprising how often these passwords are found when enterprise software is tested.
+> **[5:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=345)** While this is a well-known security rule, it's surprising how often these passwords are found when [[Enterprise Software]] is tested.
 >
 > **[5:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/common-forms-of-cyberattack?u=76281980&t=353)** Another root cause of many attacks is software flaws.
 >
@@ -606,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (7), open-source (2), next (2), [[Forms]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Forms]] (2), [[Microsoft Word|Word]] (2), [[Jetpack Compose|Compose]] (1), [[Enterprise Software]] (1)
 > **Definitions:** known as (2), in other words (1), is an  (1), is a  (1)
 > **Analogies:** such as (4), picture (1)
 > **Env Vars:** usb (3), ftp (1)
@@ -614,8 +607,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viruses, spyware, and adware
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/viruses-spyware-and-adware?u=76281980)
+#### [Viruses, spyware, and adware](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/viruses-spyware-and-adware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,24 +645,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** pup (2), usb (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybercrime and ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980)
+#### [Cybercrime and ransomware](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=0)** - [Instructor] Organized crime has not been slow at taking the opportunity to extend their illicit activities into cyberspace.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=7)** From pretty much the beginning of online commerce we've seen criminals running scams via email, intercepting banking sessions, and stealing credit card details.
+> **[0:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=7)** From pretty much the beginning of online commerce we've seen criminals running scams via email, intercepting [[Banking]] sessions, and stealing credit card details.
 >
-> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=19)** We've always used cryptography to protect sensitive information in our systems, but it can also be used as a weapon to attack systems.
+> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=19)** We've always used [[Cryptography]] to protect sensitive information in our systems, but it can also be used as a weapon to attack systems.
 >
-> **[0:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=27)** Ransomware is malicious software that typically enters a system through a phishing attack.
+> **[0:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=27)** Ransomware is malicious software that typically enters a system through a [[Phishing]] attack.
 >
 > **[0:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=33)** In terms of the cyber kill chain, its action is to encrypt files on the victim's computer.
 >
@@ -678,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=47)** As a crime, it's not new, it's just a cyber form of extortion, but it is lucrative.
 >
-> **[0:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=54)** The European Union Agency for Cybersecurity estimated that ransomware earned cyber criminals around $10 billion in 2019.
+> **[0:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=54)** The European Union Agency for [[Cybersecurity]] estimated that ransomware earned cyber criminals around $10 billion in 2019.
 >
 > **[1:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cybercrime-and-ransomware?u=76281980&t=65)** It's also widespread, in 2020 Cyber Crime Magazine reported that a ransomware attack was taking place every 11 seconds.
 >
@@ -722,31 +712,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Banking]] (1), [[Cryptography]] (1), [[Cybersecurity]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Banking]] (1), [[Cryptography]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aids (1), nsa (1), bae (1), url (1)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Emerging trends in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980)
+#### [Emerging trends in cybersecurity](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=1)** - [Instructor] From the late 20th century to the first decade of the 21st, IT security was focused on an audit-based approach using either the US federal guidance on security and privacy as detailed in NIST's special publication 800-53 or on the more European-centric international standard ISO27000.
+> **[0:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=1)** - [Instructor] From the late 20th century to the first decade of the 21st, IT security was focused on an audit-based approach using either the US federal guidance on security and [[Privacy]] as detailed in [[NIST]]'s special publication 800-53 or on the more European-centric international standard ISO27000.
 >
 > **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=24)** By 2010, businesses had started to adopt a more attack-focused approach.
 >
-> **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=30)** Penetration testers were used during system testing to check the systems were resistant to attack and attack style covert penetration testing exercises were carried out to check the overall infrastructure.
+> **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=30)** Penetration testers were used during system testing to check the systems were resistant to attack and attack style covert [[Penetration Testing]] exercises were carried out to check the overall infrastructure.
 >
-> **[0:44](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=44)** The publication in 2013 of the NIST's Cybersecurity Framework formalized the attack-oriented approach to security testing of technology infrastructures.
+> **[0:44](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=44)** The publication in 2013 of the NIST's [[Cybersecurity]] Framework formalized the attack-oriented approach to [[Security Testing]] of technology infrastructures.
 >
 > **[0:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=56)** While not discarding their audit-focused controls, many organizations have evolved their security programs to align their operational security with the NIST CSF.
 >
-> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=67)** The ongoing disclosure of weaknesses in applications and operating systems forced vendors to put more emphasis on security in their products.
+> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=67)** The ongoing disclosure of weaknesses in applications and operating systems forced vendors to put more emphasis on security in their [[Microsoft Products|products]].
 >
-> **[1:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=76)** In particular, the Windows operating system has introduced not only security fixes for existing code, but also new security features.
+> **[1:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=76)** In particular, the [[Windows]] operating system has introduced not only security fixes for existing code, but also new security features.
 >
-> **[1:26](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=86)** Windows Defender has evolved from a basic and optional antivirus feature into a powerful and default anti-malware solution.
+> **[1:26](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=86)** Windows [[Microsoft Defender|Defender]] has evolved from a basic and optional antivirus feature into a powerful and default anti-malware solution.
 >
 > **[1:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=95)** At the same time, the level of media interest in cyber attacks has made cybersecurity a much more real issue for organizations, and it's one that now gets significant board-level focus.
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=181)** The first of the new technologies that must be adopted in federal systems is what's known as a zero trust technology architecture.
 >
-> **[3:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=189)** This is an approach originally developed as a tactical response by Google after it was hacked in 2010 and has subsequently evolved into a mature paradigm.
+> **[3:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=189)** This is an approach originally developed as a tactical response by [[Google]] after it was hacked in 2010 and has subsequently evolved into a mature paradigm.
 >
 > **[3:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=200)** It involves taking an approach which assumes that attackers may be inside the network rather than taking a fortress mentality, which assumes everyone inside the network is good.
 >
@@ -782,23 +771,23 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=240)** Tokenization and encryption.
 >
-> **[4:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=243)** Agencies should ensure that sensitive data is either encrypted or is replaced by nonsensitive identifiers or tokens in order to minimize the risk to privacy in the event of a data breach.
+> **[4:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=243)** Agencies should ensure that sensitive data is either encrypted or is replaced by nonsensitive identifiers or [[Tokens]] in order to minimize the risk to privacy in the event of a data breach.
 >
 > **[4:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=256)** Adaptive policies.
 >
 > **[4:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=258)** This is a new technology that allows access control policies to be adjusted on the fly by taking into account threat intelligence and the state of the network so that more checks can be done when the threat level is higher.
 >
-> **[4:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=272)** The executive order directs agencies to accelerate their move away from in-house technologies to secure cloud services in order to take advantage of the more rigorous security applied at scale by cloud service providers.
+> **[4:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=272)** The executive order directs agencies to accelerate their move away from in-house technologies to secure [[Cloud Services]] in order to take advantage of the more rigorous security applied at scale by cloud service providers.
 >
-> **[4:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=287)** With this direction, agencies also have to adopt the cloud security technical reference architecture.
+> **[4:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=287)** With this direction, agencies also have to adopt the [[Cloud Security]] technical reference architecture.
 >
-> **[4:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=294)** As part of the move to cloud, agencies also have to adopt what is known as a DevSecOps strategy, which builds security into the delivery process and throughout operations.
+> **[4:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=294)** As part of the move to cloud, agencies also have to adopt what is known as a [[DevSecOps]] strategy, which builds security into the delivery process and throughout operations.
 >
 > **[5:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=306)** It's no longer acceptable to bolt on security after the event.
 >
 > **[5:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=311)** Most people accept the need for good security controls.
 >
-> **[5:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=315)** Passwords have for a long time been an ineffective way of securing access and the use of multifactor authentication, which has existed in areas such as online banking for some time, is becoming the norm for access to business systems.
+> **[5:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=315)** Passwords have for a long time been an ineffective way of securing access and the use of multifactor authentication, which has existed in areas such as online [[Banking]] for some time, is becoming the norm for access to business systems.
 >
 > **[5:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=330)** Many of the past data breaches would've been avoided by this one control.
 >
@@ -806,7 +795,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=345)** This has evolved into a mobile application which does the same thing but can hold many different service accounts.
 >
-> **[5:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=353)** Microsoft's Authenticator is one of the more popular apps.
+> **[5:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=353)** [[Microsoft]]'s Authenticator is one of the more popular apps.
 >
 > **[5:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=357)** Another important technology trend that agencies have to adopt is software composition analysis.
 >
@@ -834,15 +823,15 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=462)** In particular, it directs that companies share their safety testing results.
 >
-> **[7:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=468)** It directs agencies to use AI to enhance network security, and it notes that additional guidance on AI security will be developed.
+> **[7:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=468)** It directs agencies to use AI to enhance [[Network Security]], and it notes that additional guidance on [[AI Security]] will be developed.
 >
 > **[7:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=477)** We'll cover AI and its security later in this course.
 >
-> **[8:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=482)** A longer term technology, which will impact cybersecurity in the future, is quantum computing, which has the potential to defeat existing cryptographic technology.
+> **[8:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=482)** A longer term technology, which will impact cybersecurity in the future, is [[Quantum Computing]], which has the potential to defeat existing cryptographic technology.
 >
-> **[8:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=493)** In the 2024 executive order, more focus is placed on the delivery of post-quantum cryptography.
+> **[8:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=493)** In the 2024 executive order, more focus is placed on the delivery of post-quantum [[Cryptography]].
 >
-> **[8:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=500)** NIST has embarked upon a multi-year effort to identify an appropriate set of post-quantum algorithms.
+> **[8:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=500)** NIST has embarked upon a multi-year effort to identify an appropriate set of post-quantum [[Algorithms]].
 >
 > **[8:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/emerging-trends-in-cybersecurity-23160796?u=76281980&t=507)** Of the four that were selected in 2022 to proceed for additional assessment, one known as SIKE has subsequently been broken with non-quantum attacks.
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), [[Cybersecurity]] (6), [[NIST]] (5), cloud (4), ai (4)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), [[Privacy]] (3), [[Microsoft Products|Products]] (2), [[Windows]] (2)
 > **Env Vars:** nist (5), crystals (2), iso27000 (1), csf (1), ssl (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -865,18 +854,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Microsoft Defender Antivirus
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
+#### [Introducing Microsoft Defender Antivirus](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=0)** - [Instructor] Let's take a look at how Windows deals with the problem of viruses and pops.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=0)** - [Instructor] Let's take a look at how [[Windows]] deals with the problem of viruses and pops.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=5)** The Windows operating system is designed to make it easy for software to execute.
 >
 > **[0:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=10)** And unfortunately, this provides a great opportunity for malicious software to find a way in.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=16)** There are many antivirus products available for Windows, including Microsoft's own product, Windows Defender.
+> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=16)** There are many antivirus [[Microsoft Products|products]] available for Windows, including [[Microsoft]]'s own product, Windows [[Microsoft Defender|Defender]].
 >
 > **[0:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=23)** We start Windows Defender by clicking on the Windows Start button and scrolling down to Windows Security.
 >
@@ -888,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=53)** Let's Manage settings.
 >
-> **[0:58](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=58)** Real-time protection is set on.
+> **[0:58](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=58)** [[Real-Time]] protection is set on.
 >
 > **[1:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=60)** This continually monitors the registry and file system using the current database to make sure malware isn't being introduced.
 >
@@ -896,7 +884,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=74)** Services, drivers, and Windows add-ons.
 >
-> **[1:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=79)** It also checks for dangerous changes to system configuration settings.
+> **[1:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=79)** It also checks for dangerous changes to [[System Configuration]] settings.
 >
 > **[1:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=83)** Internet Explorer configuration settings and application registration.
 >
@@ -918,7 +906,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=134)** With this on, only the system administrator can change cloud and real-time protection.
 >
-> **[2:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=140)** This protects against changes being made in the registry via malicious PowerShell Cmdlets or through malicious group policy updates.
+> **[2:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=140)** This protects against changes being made in the registry via malicious [[Powershell]] Cmdlets or through malicious group policy updates.
 >
 > **[2:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980&t=148)** Defender also enables protection of folders.
 >
@@ -960,15 +948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[Microsoft Defender|Defender]] (5), cloud (4), [[Real-Time]] (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Microsoft Defender|Defender]] (5), [[Real-Time]] (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting malware with Microsoft Defender
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980)
+#### [Detecting malware with Microsoft Defender](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,13 +965,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=10)** Further down, we can see that the last update of signatures was on the 8th of March.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=15)** If the software and signature files haven't been updated for a while, we might want to click on the check for update button and the program check the Microsoft website for updates and download any that are available.
+> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=15)** If the software and signature files haven't been updated for a while, we might want to click on the check for update button and the program check the [[Microsoft]] website for updates and download any that are available.
 >
 > **[0:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=28)** The update can take a while.
 >
 > **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=30)** And, in any case, we're pretty much up to date, so we don't need to do that right now.
 >
-> **[0:34](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=34)** Before we look any further at the defender interface, let's see how it reacts to detecting a virus under normal operating conditions.
+> **[0:34](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=34)** Before we look any further at the [[Microsoft Defender|defender]] interface, let's see how it reacts to detecting a virus under normal operating conditions.
 >
 > **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/detecting-malware-with-microsoft-defender?u=76281980&t=43)** The European Institute for computer antivirus research provides a non-viral string of code that is detected by all antivirus software as a check that the antivirus is working.
 >
@@ -1047,18 +1034,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - we (1)
 
-#### Automating scans with Task Scheduler
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980)
+#### [Automating scans with Task Scheduler](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=0)** - Microsoft Defender automatically runs regular scans.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=0)** - [[Microsoft Defender]] automatically runs regular scans.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=4)** We can check the settings in Windows Task Scheduler.
+> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=4)** We can check the settings in [[Windows]] Task Scheduler.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=7)** We do this by selecting the Windows start button, scrolling down to Windows administrative tools and scrolling to Task Scheduler.
 >
-> **[0:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=23)** We can look through the task scheduler library, Microsoft Windows, and scroll down and we'll find Windows Defender.
+> **[0:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=23)** We can look through the task scheduler library, [[Microsoft]] Windows, and scroll down and we'll find Windows [[Microsoft Defender|Defender]].
 >
 > **[0:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=35)** In the middle panel, we can see an entry for scheduled scans.
 >
@@ -1090,7 +1076,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=130)** In my case, it's C:\Program Files\Windows Defender.
 >
-> **[2:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=135)** But in some versions of Windows, it's program files Microsoft security client.
+> **[2:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=135)** But in some versions of Windows, it's program files [[Microsoft Security]] client.
 >
 > **[2:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/automating-scans-with-task-scheduler?u=76281980&t=140)** Let's run a short scan of the temp directory using the command mpcmdrun.exe mpcmdrun.exe mpcmdrun.exe mpcmdrun.exe mpcmdrun.exe minus Scan minus Scan minus Scan minus Scantype 3 minus Scantype 3 minus Scantype 3 minus Scantype 3 minus File \Temp.
 >
@@ -1104,20 +1090,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (1), [[Microsoft]] (1), [[Microsoft Security]] (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - microsoft (1)
 
-#### Other antivirus solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980)
+#### [Other antivirus solutions](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=0)** - [Instructor] In Defender, we saw an offline scan option.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=0)** - [Instructor] In [[Microsoft Defender|Defender]], we saw an offline scan option.
 >
-> **[0:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=3)** This is run using a USB bootable version of Windows Defender Offline, which is available for download from the Microsoft website.
+> **[0:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=3)** This is run using a USB bootable version of [[Windows]] Defender Offline, which is available for download from the [[Microsoft]] website.
 >
 > **[0:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=12)** WDO can be used to detect rootkits, which is sophisticated enough to hide themselves from standard Windows Defender.
 >
@@ -1127,7 +1112,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=33)** Nevertheless, it's a great solution for removing difficult viruses.
 >
-> **[0:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=38)** While the use of antivirus for Microsoft users is pretty much mandatory, most Linux users don't bother with antivirus.
+> **[0:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=38)** While the use of antivirus for Microsoft users is pretty much mandatory, most [[Linux]] users don't bother with antivirus.
 >
 > **[0:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/other-antivirus-solutions?u=76281980&t=46)** This is because a Linux user account typically doesn't have the level of privileges that a Windows user account does, and that means malware is much less able to compromise a Linux workstation.
 >
@@ -1149,12 +1134,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why firewalls?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
+#### [Why firewalls?](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=0)** - [Instructor] Often, advice on cyber security focuses on the risk of malware being delivered through phishing emails.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=0)** - [Instructor] Often, advice on cyber security focuses on the risk of malware being delivered through [[Phishing]] emails.
 >
 > **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=8)** While this is an important vector for infection, we shouldn't forget that attackers will firstly try to use the easiest and most reliable way of penetrating our systems, direct access into unprotected systems.
 >
@@ -1176,7 +1160,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=84)** Enterprise firewalls may include very sophisticated configuration options around different protocols and subnets and will typically be deployed as dedicated appliances.
 >
-> **[1:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=95)** We won't cover enterprise firewalls in this course, but the basic principles are the same as those in Windows and Linux firewalls.
+> **[1:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=95)** We won't cover enterprise firewalls in this course, but the basic principles are the same as those in [[Windows]] and [[Linux]] firewalls.
 >
 > **[1:44](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980&t=104)** A firewall is designed to mediate access between computers.
 >
@@ -1190,17 +1174,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Security]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Phishing]] (1)
 > **Definitions:** is an  (1), known as (1), is called (1)
 > **Env Vars:** dmz (1), nat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Firewall basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980)
+#### [Windows Firewall basics](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=0)** - [Instructor] Let's take a look at what Windows provides in the way of firewall functionality.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=0)** - [Instructor] Let's take a look at what [[Windows]] provides in the way of firewall functionality.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=5)** I'll right click on the Windows Start button, and we'll scroll down to Windows Security
 >
@@ -1242,13 +1225,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=160)** Let's take a look at the firewall notification settings by clicking on the link in the lower part of the screen and then selecting Manage notifications.
 >
-> **[2:51](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=171)** We can see that we can set notifications on or off for informal accounts and defender notifications.
+> **[2:51](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=171)** We can see that we can set notifications on or off for informal accounts and [[Microsoft Defender|defender]] notifications.
 >
 > **[3:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=182)** We're currently set for all but informal notifications.
 >
-> **[3:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=186)** Most computers come with a network communications tool called NetCat, which we can use to communicate between two computers, one being a sender and the other a listener.
+> **[3:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=186)** Most computers come with a network communications tool called [[Netcat]], which we can use to communicate between two computers, one being a sender and the other a listener.
 >
-> **[3:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=197)** I'll use this program to demonstrate the features of the Windows Firewall by communicating between our Windows and Linux virtual machines on the test network.
+> **[3:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=197)** I'll use this program to demonstrate the features of the Windows Firewall by communicating between our Windows and [[Linux]] [[Virtual Machines]] on the test network.
 >
 > **[3:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=207)** Don't worry for the moment about how to use NetCat, as we'll cover this in more depth later in the course.
 >
@@ -1258,7 +1241,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=244)** I'll click on Allow access.
 >
-> **[4:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=248)** I have a terminal shell open in my Hydra system, and I'll use this to connect to the Windows system on 192.168.1.50.
+> **[4:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=248)** I have a terminal shell open in my [[Hydra]] system, and I'll use this to connect to the Windows system on 192.168.1.50.
 >
 > **[4:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/windows-firewall-basics?u=76281980&t=259)** I'll connect to the listener with nc 192.168.1.50 4545.
 >
@@ -1276,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Security]] (1), business (1), [[Microsoft Defender|Defender]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Netcat]] (6), [[Microsoft Defender|Defender]] (1), [[Linux]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (4), scroll down (2), navigate to (2)
 > **CLI Commands:** find (2), ssh (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -1285,16 +1268,15 @@ created: 2026-05-02
 > **Ports:** port 4545 (1)
 > **Env Vars:** ssh (1)
 
-#### Advanced Windows Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980)
+#### [Advanced Windows Firewall](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=0)** - [Instructor] Now we've looked at the basic operation of Windows Firewall, let's take a look at the advanced features.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=0)** - [Instructor] Now we've looked at the basic operation of [[Windows]] Firewall, let's take a look at the advanced features.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=6)** The term Advanced Security relates mostly to the three additional features for connections which are designed for use in an enterprise configuration.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=15)** These are to ensure computers authenticate to each other before they connect, that data integrity is checked on all communications received, and that data is encrypted during transmission.
+> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=15)** These are to ensure computers authenticate to each other before they connect, that [[Data Integrity]] is checked on all communications received, and that data is encrypted during transmission.
 >
 > **[0:29](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=29)** We've already looked at connections which were allowed or blocked, but Windows Firewall can also configure a connection to be allowed only if it's secured by using the IPsec protocol.
 >
@@ -1328,7 +1310,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=122)** I'll set this to no, and then I'll press okay to close the window.
 >
-> **[2:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=128)** I've removed Netcat from the list of allowed programs.
+> **[2:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=128)** I've removed [[Netcat]] from the list of allowed programs.
 >
 > **[2:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=131)** So let's run our Netcat test again now that we've switched off notifications NC minus LP 4545.
 >
@@ -1410,7 +1392,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=416)** First of all, let's open the command window and set up a Netcat listener again.
 >
-> **[7:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=421)** I've got a terminal window open on Hydra and I'll make a connection with Netcat and I'll send a message, "Hello from Hydra."
+> **[7:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=421)** I've got a terminal window open on [[Hydra]] and I'll make a connection with Netcat and I'll send a message, "Hello from Hydra."
 >
 > **[7:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=434)** And there's no response at the listener in Windows.
 >
@@ -1436,15 +1418,15 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=503)** below that we can see the connection from Scorpio was allowed and data was received.
 >
-> **[8:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=511)** If you are planning on doing regular log reviews, then you'll want to move these log files into Excel or a third party log analyzer.
+> **[8:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=511)** If you are planning on doing regular log reviews, then you'll want to move these log files into [[Microsoft Excel|Excel]] or a third party log analyzer.
 >
-> **[8:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=519)** If you want to know more about the specific data stored in each log entry, you can refer to the Microsoft Firewall Technical Reference, which can be accessed from the Microsoft website.
+> **[8:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=519)** If you want to know more about the specific data stored in each log entry, you can refer to the [[Microsoft]] Firewall Technical Reference, which can be accessed from the Microsoft website.
 >
 > **[8:50](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-windows-firewall?u=76281980&t=530)** That's a quick tour through Microsoft Firewall.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), data (4), [[Security]] (3), [[Microsoft]] (3), next (2)
+> **Frameworks & Libraries:** [[Netcat]] (12), [[Windows]] (9), [[Hydra]] (3), [[Microsoft]] (3), [[Data Integrity]] (1)
 > **UI Navigation:** select the (3), click on (3), navigate to (1), open the (1), scroll down (1)
 > **Versions:** 192.168.1 (4)
 > **Prerequisites:** set up (2), configure (1)
@@ -1453,12 +1435,11 @@ created: 2026-05-02
 > **Ports:** port 4545 (1)
 > **Env Vars:** lan (1)
 
-#### ZedLan firewall log analyser
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980)
+#### [ZedLan firewall log analyser](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=0)** - [Instructor] As we've seen, Windows Firewall provides logging of all allowed and block connections.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=0)** - [Instructor] As we've seen, [[Windows]] Firewall provides logging of all allowed and block connections.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=5)** But as large text files, the logging is somewhat difficult to use.
 >
@@ -1514,7 +1495,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=185)** Each log entry has a date time stamp and the action indicates whether the firewall blocked or allowed the packet through.
 >
-> **[3:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=194)** If we scroll down, we can see our Scorpio and Hydra entries.
+> **[3:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=194)** If we scroll down, we can see our Scorpio and [[Hydra]] entries.
 >
 > **[3:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/zedlan-firewall-log-analyser?u=76281980&t=198)** The protocol and source and destination IP address and ports are shown.
 >
@@ -1534,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), management (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hydra]] (1)
 > **UI Navigation:** navigate to (1), checkbox (1), scroll down (1), click on (1)
 > **Env Vars:** tcp (2), cnet (1)
 > **CLI Commands:** make (1)
@@ -1543,20 +1524,19 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Linux iptables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980)
+#### [Introducing Linux iptables](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=0)** - [Instructor] Linux provides a basic firewall capability through the use of a program called iptables.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=0)** - [Instructor] [[Linux]] provides a basic firewall capability through the use of a program called iptables.
 >
-> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=6)** I've got a terminal window open on Hydra and I'll use it to demonstrate how to use iptables.
+> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=6)** I've got a terminal window open on [[Hydra]] and I'll use it to demonstrate how to use iptables.
 >
 > **[0:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=13)** Iptables has a lot of features, which would take hours to learn, but we'll stick to the basics in this course.
 >
 > **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=20)** Iptables is only one of a set of rule-based firewall modules in Linux.
 >
-> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=25)** I won't cover the rest here, but these include ip6tables, ARP tables, and ebtables.
+> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=25)** I won't cover the [[Representational State Transfer (REST)|rest]] here, but these include ip6tables, ARP tables, and ebtables.
 >
 > **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=32)** We can check the default iptables' rules by typing sudo iptables, minus L, minus n, minus v.
 >
@@ -1580,7 +1560,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=103)** By controlling the output paths for traffic, we can make it more difficult for an infection or unwanted program to send information from our computer out to its collection point.
 >
-> **[1:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=114)** Let's demonstrate the use of iptables using Netcat.
+> **[1:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=114)** Let's demonstrate the use of iptables using [[Netcat]].
 >
 > **[1:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-linux-iptables?u=76281980&t=119)** We'll go ahead and set up a listener in Hydra, NC minus LP 4545.
 >
@@ -1652,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), traffic (3), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (7), [[Netcat]] (3), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** sudo (6), make (1)
 > **Ports:** port 4546 (3), port 4545 (2)
 > **Env Vars:** tcp (3), arp (1)
@@ -1661,8 +1641,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Setting up a simple iptables firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980)
+#### [Setting up a simple iptables firewall](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=11)** Let's set up a simple firewall using IP tables to do this.
 >
-> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=16)** For this firewall, I want to allow Port 22 to enable SSH from anywhere and Port 4545 to allow only Scorpio to access Hydra.
+> **[0:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=16)** For this firewall, I want to allow Port 22 to enable SSH from anywhere and Port 4545 to allow only Scorpio to access [[Hydra]].
 >
 > **[0:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=28)** Any other connection requests can be dropped.
 >
@@ -1698,7 +1677,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=166)** And we can see that we've set up three rules on the input chain and one rule on the output chain.
 >
-> **[2:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=172)** To test this rule set, I'll set up a Netcat listener on Port 4545 and 4546 of Hydra, and try to connect to them from Scorpio, "nc -lp 4545,"
+> **[2:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=172)** To test this rule set, I'll set up a [[Netcat]] listener on Port 4545 and 4546 of Hydra, and try to connect to them from Scorpio, "nc -lp 4545,"
 >
 > **[3:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=194)** "nc -lp 4546."
 >
@@ -1712,15 +1691,15 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=244)** And on Hydra, nothing is displayed, so the port has been blocked.
 >
-> **[4:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=249)** Finally, let's use the SSH client on Scorpio to connect to SSH on Hydra, "ssh ubuntu@192.168.1.51."
+> **[4:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=249)** Finally, let's use the SSH client on Scorpio to connect to SSH on Hydra, "ssh [[Ubuntu]]@192.168.1.51."
 >
-> **[4:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=268)** And we can say, "uname -a," and we can see we're connected to the Linux Hydra system.
+> **[4:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=268)** And we can say, "uname -a," and we can see we're connected to the [[Linux]] Hydra system.
 >
 > **[4:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-simple-iptables-firewall?u=76281980&t=275)** Okay, that's a basic introduction to using IP tables on a Linux system to establish a firewall.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), traffic (1), management (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (7), [[Linux]] (2), [[Netcat]] (1), [[Ubuntu]] (1)
 > **Env Vars:** ssh (4), accept (3), input (3), output (1), i92 (1)
 > **CLI Commands:** ssh (5), sudo (5)
 > **Ports:** port 4545 (4), port 22 (2)
@@ -1728,8 +1707,7 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (2), 168.1.52 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing firewall rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980)
+#### [Analyzing firewall rules](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=37)** Okay, let's load the firewall rules analyzer and use it to analyze our file.
 >
-> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=43)** We download the analyzer with git clone https:// [github.com](https://github.com)/
+> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=43)** We download the analyzer with [[Git]] clone https:// [[[GitHub]].com](https://github.com)/
 >
 > **[1:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=64)** martimy/ firewall_policy_analyzer.git.
 >
@@ -1813,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), traffic (2), open-source (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1)
 > **CLI Commands:** git (2), make (1), cat (1), sudo (1), pip3 (1)
 > **File Paths:** rules.csv (3), requirements.txt (1), st_analyzer.py (1)
 > **Code Identifiers:** firewall_policy_analyzer (2), st_analyzer (1)
@@ -1827,20 +1805,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
+#### [Getting started with Nmap](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=0)** - [Instructor] Let's take a look at how we profile networks to discover what hosts are present and what services are available on those hosts.
 >
-> **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=8)** To do this, we'll use a tool called Nmap, Nmap is a standard network administrator's utility and runs on many platforms.
+> **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=8)** To do this, we'll use a tool called [[Nmap]], Nmap is a standard network administrator's utility and runs on many platforms.
 >
 > **[0:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=17)** We can download it from this site, if needed.
 >
-> **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=20)** However, for Linux, we can simply use the built-in APT installer.
+> **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=20)** However, for [[Linux]], we can simply use the built-in APT installer.
 >
-> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=25)** Let's load Nmap on Hydra by entering sudo apt -y install nmap.
+> **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=25)** Let's load Nmap on [[Hydra]] by entering sudo apt -y install nmap.
 >
 > **[0:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=40)** Nmap provides a wide range of options to explore networks, it can scan using either of two main internet protocols TCP and UDP and provides a lot of control over how the scanning and probing works.
 >
@@ -1874,7 +1851,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=175)** We can also see 192.168.1.1 which is my router.
 >
-> **[3:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=180)** Not all hosts respond to this scan and we can see that our Orion Windows system hasn't been detected, however, this is a good start.
+> **[3:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=180)** Not all hosts respond to this scan and we can see that our Orion [[Windows]] system hasn't been detected, however, this is a good start.
 >
 > **[3:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=190)** Let's now look at one of the targets we've identified.
 >
@@ -1898,7 +1875,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=283)** Nmap comes back within a few seconds and tells us that the service on port 22 is running the OpenSSH version 8.2p1 software.
 >
-> **[4:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=294)** This is good intelligence for us, if we go to the NIST vulnerability database site we can run a search on OpenSSH.
+> **[4:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=294)** This is good intelligence for us, if we go to the [[NIST]] vulnerability database site we can run a search on OpenSSH.
 >
 > **[5:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980&t=304)** We can see there are 126 known vulnerabilities, as a network administrator, we can now review these vulnerabilities to see whether they're relevant and if so, make sure we've got the correct patches applied to this installation of OpenSSH.
 >
@@ -1912,7 +1889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), power (1), [[Windows]] (1), [[NIST]] (1), database (1)
+> **Frameworks & Libraries:** [[Nmap]] (22), [[Hydra]] (2), [[Linux]] (1), [[Windows]] (1), [[NIST]] (1)
 > **Env Vars:** tcp (4), syn (4), ack (2), apt (1), udp (1)
 > **Versions:** 192.168.1 (7), version 8 (1)
 > **CLI Commands:** sudo (3), apt (2), make (1)
@@ -1921,12 +1898,11 @@ created: 2026-05-02
 > **Ports:** port 22 (1)
 > **Tools:** command line (1)
 
-#### Advanced Nmap options
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980)
+#### [Advanced Nmap options](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=0)** - [Instructor] So far we've covered Nmap scanning of TCP ports.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=0)** - [Instructor] So far we've covered [[Nmap]] scanning of TCP ports.
 >
 > **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=4)** TCP is a protocol used where session needs to be established for multiple message exchanges.
 >
@@ -1966,7 +1942,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=175)** In this example, I'm using the -O option and this will check the operating system and also do a TCP port.
 >
-> **[3:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=183)** Nmaps completed its assessment and fingerprinted the operating system correctly, as being a Linux system with a kernel of 3.x.
+> **[3:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=183)** Nmaps completed its assessment and fingerprinted the operating system correctly, as being a [[Linux]] system with a kernel of 3.x.
 >
 > **[3:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=192)** And in fact, Linux 3.2 to 3.16.
 >
@@ -1980,11 +1956,11 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=228)** Okay, we can see the probe results for port 5353 showing the service together with the detailed HTTP response information.
 >
-> **[3:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=237)** We also have the operating system identified as generic windows.
+> **[3:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/advanced-nmap-options?u=76281980&t=237)** We also have the operating system identified as generic [[Windows]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), web (1), management (1), generic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (9), [[Linux]] (2), [[Windows]] (1)
 > **Env Vars:** tcp (8), udp (8), snmp (1), http (1)
 > **Versions:** 192.168.1 (4), 3.2 (1), 3.16 (1)
 > **CLI Commands:** sudo (4)
@@ -1998,18 +1974,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with netcat
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
+#### [Getting started with netcat](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=0)** - Netcat is often referred to as the Swiss Army knife of networking, because it has so many features and so many uses.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=0)** - [[Netcat]] is often referred to as the Swiss Army knife of networking, because it has so many features and so many uses.
 >
 > **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=8)** At its basic level, Netcat operates as either a sender or a receiver of arbitrary data across the network.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=15)** Netcat is often installed by default in Linux.
+> **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=15)** Netcat is often installed by default in [[Linux]].
 >
-> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=19)** It's not installed as a default application in Windows, but a version is available.
+> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=19)** It's not installed as a default application in [[Windows]], but a version is available.
 >
 > **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=24)** We can view the help page by using the -h switch: "nc -h" And we get the help details and the command summary.
 >
@@ -2017,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=39)** We've already used Netcat to send a message.
 >
-> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=42)** So, now let's extend that by setting up a chat line between Hydra and Scorpio.
+> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=42)** So, now let's extend that by setting up a chat line between [[Hydra]] and Scorpio.
 >
 > **[0:48](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980&t=48)** I'll set up a Netcat listener on Scorpio by specifying the -l option.
 >
@@ -2055,7 +2030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linux]] (1), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Netcat]] (8), [[Hydra]] (5), [[Linux]] (1), [[Windows]] (1)
 > **Ports:** port 4545 (3)
 > **Env Vars:** tcp (1), fin (1)
 > **Versions:** 192.168.1 (2)
@@ -2063,14 +2038,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - netcat (1)
 
-#### Transferring files using netcat
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980)
+#### [Transferring files using netcat](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980&t=0)** - [Instructor] Let's see how we use netcat to copy a file from one system to the other.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980&t=0)** - [Instructor] Let's see how we use [[Netcat]] to copy a file from one system to the other.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980&t=4)** I'll use the Nano editor to create a test file on Hydra.
+> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980&t=4)** I'll use the Nano editor to create a test file on [[Hydra]].
 >
 > **[0:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/transferring-files-using-netcat?u=76281980&t=9)** I'll type nano testfile.txt.
 >
@@ -2140,7 +2114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
+> **Frameworks & Libraries:** [[Netcat]] (9), [[Hydra]] (4)
 > **File Paths:** testfile.txt (5), incoming.txt (3), tigers.txt (1), gandhi/tigers.txt (1)
 > **CLI Commands:** tar (6), cat (2), mkdir (1)
 > **Ports:** port 4545 (2), port 53916 (1)
@@ -2148,8 +2122,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to services
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980)
+#### [Connecting to services](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2157,17 +2130,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=5)** An FTP client for an FTP server, a browser for an HTTP server and a mail client for a mail server.
 >
-> **[0:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=14)** However, we can also use Netcat as a client for text based services and to test services.
+> **[0:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=14)** However, we can also use [[Netcat]] as a client for text based services and to test services.
 >
 > **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=20)** For example, we can use Netcat to connect to a web server.
 >
-> **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=24)** We type nc minus v [google.com](https://google.com) on port 80.
+> **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=24)** We type nc minus v [[[Google]].com](https://google.com) on port 80.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=34)** The minus V switch tells Netcat to be verbose and provide me with status messages.
 >
 > **[0:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=38)** And 80 is the standard port for accessing a website.
 >
-> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=42)** Now the connections made, I can type the HTTP command, Get index.html HTTP/1.1.
+> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=42)** Now the connections made, I can type the HTTP command, Get index.[[HTML]] HTTP/1.1.
 >
 > **[0:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=56)** Pres Enter twice and the web server will deliver the text used to render the webpage in a browser.
 >
@@ -2181,7 +2154,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=87)** I can use my normal credentials for this service.
 >
-> **[1:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=90)** User ubuntu, pass ubuntu.
+> **[1:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=90)** User [[Ubuntu]], pass ubuntu.
 >
 > **[1:36](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=96)** And the server accepts my login.
 >
@@ -2211,7 +2184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), web (2), [[Google]] (1), [[HTML]] (1), data (1)
+> **Frameworks & Libraries:** [[Netcat]] (5), [[Ubuntu]] (4), [[Google]] (1), [[HTML]] (1)
 > **Env Vars:** ftp (6), http (3)
 > **Ports:** port 21 (2), port 80 (1)
 > **Versions:** 192.168.1 (2), 1.1 (1)
@@ -2220,8 +2193,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Remote control with Sliver
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980)
+#### [Remote control with Sliver](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2245,7 +2217,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=59)** We do that by typing sliver and we're now running a C2 server for our lab.
 >
-> **[1:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=65)** Let's generate a beacon implant for a Windows Server and we'll use the mutual TLS protocol for traffic, which runs by default on port 8888.
+> **[1:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=65)** Let's generate a beacon implant for a [[Windows Server]] and we'll use the mutual TLS protocol for traffic, which runs by default on port 8888.
 >
 > **[1:16](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=76)** So we'll generate a beacon with mtls protocol and our listener will be on 129.168.1.249, port 8888 and we'll save that as beacon.exe.
 >
@@ -2261,7 +2233,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=132)** We're on the target Windows Server and we've managed to infiltrate the implant, so let's activate it.
 >
-> **[2:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=138)** We've switched off Windows antivirus for the purpose of this exercise.
+> **[2:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=138)** We've switched off [[Windows]] antivirus for the purpose of this exercise.
 >
 > **[2:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/remote-control-with-sliver?u=76281980&t=143)** We'll activate the beacon with \beacon.exe.
 >
@@ -2289,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), prompt (2), traffic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Windows]] (1)
 > **CLI Commands:** find (2), curl (1), systemctl (1)
 > **Ports:** port 8888 (2)
 > **Env Vars:** tls (1), mtls (1)
@@ -2298,12 +2270,11 @@ created: 2026-05-02
 > **File Paths:** sliver.sh (1)
 > **URLs:** [https://sliver.sh/install](https://sliver.sh/install) (1)
 
-#### Setting up a netcat honeypot
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980)
+#### [Setting up a netcat honeypot](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=0)** - [Tutor] The final application of Netcat that we'll look at is setting up a honeypot.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=0)** - [Tutor] The final application of [[Netcat]] that we'll look at is setting up a honeypot.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=5)** So called, because it's an attractive looking trap which tempts adversaries to use it.
 >
@@ -2349,9 +2320,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=126)** To provide a port 25 service, with the command dot honey dot sh space 25.
 >
-> **[2:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=140)** Now let's go to Hydra and try to connect to this service.
+> **[2:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=140)** Now let's go to [[Hydra]] and try to connect to this service.
 >
-> **[2:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=144)** First, let's fingerprint the mail service on Scorpio with Nmap.
+> **[2:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=144)** First, let's fingerprint the mail service on Scorpio with [[Nmap]].
 >
 > **[2:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=150)** Nmap minus SV 1 9 2 dot 1 6 8 dot 1 dot 52 minus P 25.
 >
@@ -2365,7 +2336,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=189)** Let's enter them.
 >
-> **[3:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=191)** Ubuntu colon Ubuntu.
+> **[3:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=191)** [[Ubuntu]] colon Ubuntu.
 >
 > **[3:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-netcat-honeypot?u=76281980&t=195)** Didn't give a response, let's try another one.
 >
@@ -2395,7 +2366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (2), application (1), cd (1)
+> **Frameworks & Libraries:** [[Netcat]] (3), [[Nmap]] (3), [[Hydra]] (2), [[Ubuntu]] (2)
 > **Ports:** port 25 (5)
 > **CLI Commands:** cat (2), cd (1), sudo (1)
 > **Env Vars:** tcp (2)
@@ -2409,8 +2380,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing Nessus
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
+#### [Preparing Nessus](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2480,7 +2450,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), application (1), [[Security]] (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** sudo (1)
 > **URLs:** [https://127.0.0.1;8834](https://127.0.0.1;8834) (1)
@@ -2488,9 +2457,9 @@ created: 2026-05-02
 > **Env Vars:** cali (1)
 > **Versions:** 127.0.0 (1)
 > **Definitions:** is a  (1)
+> **Analogies:** for instance (1)
 
-#### Setting up a Nessus policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980)
+#### [Setting up a Nessus policy](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2498,7 +2467,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980&t=4)** Firstly, let's set up a new folder for our scan results.
 >
-> **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980&t=8)** I'll click on the new folder, and I'll call the folder Ubuntu Cluster.
+> **[0:08](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980&t=8)** I'll click on the new folder, and I'll call the folder [[Ubuntu]] Cluster.
 >
 > **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/setting-up-a-nessus-policy?u=76281980&t=20)** It now appears in the left-hand menu list.
 >
@@ -2554,7 +2523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (6), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (6)
 > **CLI Commands:** ssh (2), find (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Env Vars:** ssh (2)
@@ -2562,8 +2531,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a Nessus scan
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980)
+#### [Running a Nessus scan](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2577,7 +2545,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=21)** This provides a scan target page, and I'll enter the name as First Scan.
 >
-> **[0:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=27)** (keyboard clicking) Now I'll put the Ubuntu host IP addresses 192.168.1.51
+> **[0:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=27)** (keyboard clicking) Now I'll put the [[Ubuntu]] host IP addresses 192.168.1.51
 >
 > **[0:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=38)** and 192.168.1.52 in the targets panel.
 >
@@ -2601,11 +2569,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=97)** There are also eight informational alerts.
 >
-> **[1:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=101)** Hydra just has five alerts.
+> **[1:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=101)** [[Hydra]] just has five alerts.
 >
 > **[1:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=105)** If we click on Scorpio's IP address, we can see the details of the vulnerabilities.
 >
-> **[1:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=112)** There's a mixed entry called Canonical Ubuntu Linux.
+> **[1:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=112)** There's a mixed entry called Canonical Ubuntu [[Linux]].
 >
 > **[1:56](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=116)** If we click on the mixed button, we can see the three vulnerabilities.
 >
@@ -2617,7 +2585,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=155)** The next high severity vulnerability relates to multiple vulnerabilities in Firefox.
 >
-> **[2:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=167)** Okay, if we select the report button, we can export a report in a number of formats, PDF, HTML, or comment separated.
+> **[2:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=167)** Okay, if we select the report button, we can export a report in a number of formats, PDF, [[HTML]], or comment separated.
 >
 > **[2:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-a-nessus-scan?u=76281980&t=179)** I'll select HTML, and I'll leave the report name as executive summary and generate the report.
 >
@@ -2627,7 +2595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Ubuntu]] (3), [[Linux]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Ubuntu]] (3), [[Hydra]] (1), [[Linux]] (1)
 > **UI Navigation:** click on (4), select the (2), dropdown (1), scroll down (1)
 > **Env Vars:** html (4), cve (1), pdf (1)
 > **Versions:** 192.168.1 (3)
@@ -2636,14 +2604,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Running an exploit
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980)
+#### [Running an exploit](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980&t=0)** - [Narrator] We found a pseudo vulnerability on Scorpio, so let's see how an attacker would exploit it.
 >
-> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980&t=6)** If we investigate the CVE, we find there's a proof of concept exploit available from the GitHub site shown.
+> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980&t=6)** If we investigate the CVE, we find there's a proof of concept exploit available from the [[GitHub]] site shown.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-exploit?u=76281980&t=15)** I've downloaded the exploit zip file so we can build the exploit by typing, make.
 >
@@ -2667,15 +2634,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), prompt (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1), make (1), ls (1)
 > **Tools:** github (1), command prompt (1)
 > **Env Vars:** cve (1)
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [narrator] (1)
 
-#### Checking the configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980)
+#### [Checking the configuration](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2685,7 +2651,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=14)** Let's see how we can check our endpoint configuration using Wazuh.
 >
-> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=19)** If you want to see more on Wazuh, check out my Kali Purple course where I show how to install the server, and to install agents on both Linux and Windows endpoints.
+> **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=19)** If you want to see more on Wazuh, check out my Kali Purple course where I show how to install the server, and to install agents on both [[Linux]] and [[Windows]] endpoints.
 >
 > **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=30)** We're at the Wazuh login page, and we'll log in with the credentials I set up during installation.
 >
@@ -2695,7 +2661,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=53)** At the left, there's the security information management modules, and below them, the threat detection and response panel.
 >
-> **[1:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=62)** At the right, we have the auditing and policy monitoring and the regulatory compliance panels.
+> **[1:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=62)** At the right, we have the auditing and policy monitoring and the [[Regulatory Compliance]] panels.
 >
 > **[1:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/checking-the-configuration?u=76281980&t=69)** In the auditing and policy monitoring panel, we find the security configuration assessment module, and this is what we'll check out.
 >
@@ -2719,7 +2685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Linux]] (1), [[Windows]] (1), management (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1), [[Regulatory Compliance]] (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
@@ -2730,22 +2696,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combating application level threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
+#### [Combating application level threats](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=0)** - [Narrator] Most of the applications we use online nowadays are delivered across the web using HTML, are built using a wide variety of web application languages and content managers and are maintained and enhanced by different web developers over the years.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=0)** - [Narrator] Most of the applications we use online nowadays are delivered across the web using [[HTML]], are built using a wide variety of web application languages and content managers and are maintained and enhanced by different web developers over the years.
 >
 > **[0:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=17)** This inevitably results in a significant risk of inadvertently introducing security flaws.
 >
 > **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=25)** We can create a lot of different vulnerabilities when we build an online web presence.
 >
-> **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=30)** OWASP, the Open Web Application Security Project, is a not-for-profit organization dedicated to helping developers create more secure web applications.
+> **[0:30](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=30)** [[OWASP]], the Open [[Web Application Security]] Project, is a not-for-profit organization dedicated to helping developers create more secure web applications.
 >
-> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=42)** The organization on its website at www.[owasp.org](https://owasp.org) provides the definitive material on web security, including a testing guide and an application security verification standard.
+> **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=42)** The organization on its website at www.[owasp.org](https://owasp.org) provides the definitive material on web security, including a testing guide and an [[Application Security]] verification standard.
 >
-> **[0:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=57)** OWASP maintains a top 10 most critical web security risks, which over recent years have included SQL injection, cross-site scripting, broken authentication and session management, security misconfiguration, and cross-site request forgery.
+> **[0:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=57)** OWASP maintains a top 10 most critical web security risks, which over recent years have included [[SQL]] injection, cross-site scripting, broken authentication and session management, security misconfiguration, and cross-site request forgery.
 >
 > **[1:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980&t=75)** Mitigating the top 10 risks will be sufficient to address most attacks.
 >
@@ -2753,20 +2718,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), web (6), [[OWASP]] (4), web application (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[HTML]] (1), [[Web Application Security]] (1), [[Application Security]] (1), [[SQL]] (1)
 > **Env Vars:** owasp (3), html (1), sql (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Running an SQL injection attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980)
+#### [Running an SQL injection attack](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=0)** - [Instructor] Let's take a deeper look at one of the common web server attacks, the SQL injection.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=0)** - [Instructor] Let's take a deeper look at one of the common web server attacks, the [[SQL]] injection.
 >
-> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=6)** We can demonstrate this by using an SQL Python script to directly interact with an SQL database.
+> **[0:06](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=6)** We can demonstrate this by using an SQL [[Python (Programming Language)|Python]] script to directly interact with an SQL database.
 >
 > **[0:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=13)** It doesn't need to go through a web interface, but the results are the same.
 >
@@ -2818,7 +2782,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=151)** So, in the first case, we querying for user ID as sfisher, which constructs the query correctly, and we get the expected single-record result.
 >
-> **[2:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=162)** However, when we run with the malicious query, the program constructed and passed to the SQL server, a string, which included a selection of user ID equals sfisher, or true.
+> **[2:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=162)** However, when we run with the malicious query, the program constructed and passed to the [[Microsoft SQL Server|SQL server]], a string, which included a selection of user ID equals sfisher, or true.
 >
 > **[2:55](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=175)** And hence, this query is always satisfied.
 >
@@ -2830,7 +2794,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=201)** Again, we'll start with a quote.
 >
-> **[3:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=204)** We'll terminate the user ID query, put a semicolon, show databases, semicolon, show tables, hash.
+> **[3:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=204)** We'll terminate the user ID query, put a semicolon, show [[Databases]], semicolon, show tables, hash.
 >
 > **[3:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=220)** And now, we not only get the results of our user ID inquiry, but we also get a list of all the databases and the tables.
 >
@@ -2842,7 +2806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), database (5), [[Python (Programming Language)|Python]] (3), data (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (3), [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (9)
 > **CLI Commands:** python (3), python3 (1), find (1)
 > **Tools:** command line (2)
@@ -2851,8 +2815,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 
-#### Cross-site scripting
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980)
+#### [Cross-site scripting](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,7 +2845,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980&t=137)** Okay, now let's go back and take the role of victim and read the new blog.
 >
-> **[2:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980&t=144)** And when we read it the alert executes, this is because the blog containing active code has been added to the HTML page and sent to the browser, where it's executed as a normal website page would be.
+> **[2:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980&t=144)** And when we read it the alert executes, this is because the blog containing active code has been added to the [[HTML]] page and sent to the browser, where it's executed as a normal website page would be.
 >
 > **[2:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/cross-site-scripting?u=76281980&t=157)** So the script has crossed from the server blog entry, and is executing in the victim's browser.
 >
@@ -2896,7 +2859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (3), web (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** such as (1), picture (1)
@@ -2905,14 +2868,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning with ZAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980)
+#### [Scanning with ZAP](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=0)** - [Instructor] We need to be able to test our websites and applications.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=4)** One tool we can use for this is the free OWASP tool Zed Attack Proxy, or ZAP.
+> **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=4)** One tool we can use for this is the free [[OWASP]] tool Zed Attack Proxy, or ZAP.
 >
 > **[0:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=10)** Let's see how we use it to do a website scan, looking for vulnerabilities.
 >
@@ -2920,7 +2882,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=19)** So let's run it from there.
 >
-> **[0:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=22)** If you want to know more about testing using Kali Linux, take a look at my course, Learning Kali Linux.
+> **[0:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=22)** If you want to know more about testing using [[Kali Linux]], take a look at my course, Learning Kali Linux.
 >
 > **[0:29](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/scanning-with-zap?u=76281980&t=29)** We'll start ZAP from the web application analysis menu and select ZAP.
 >
@@ -2952,18 +2914,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), [[Kali Linux]] (2), web application (2)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Kali Linux]] (2)
 > **Env Vars:** zap (6), owasp (2), url (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a proxy to manipulate web traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980)
+#### [Using a proxy to manipulate web traffic](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=0)** - [Instructor] Burp Suite is another Kali tool we can use to test websites.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=0)** - [Instructor] [[Burp Suite]] is another Kali tool we can use to test websites.
 >
 > **[0:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=4)** It's a commercial tool, but there's also a free community edition.
 >
@@ -2973,7 +2934,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=23)** And let's visit HTTP zero.[webappsecurity.com](https://webappsecurity.com).
 >
-> **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=32)** We're at the Zero Bank, a banking test site to which we can connect to do security testing.
+> **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=32)** We're at the Zero Bank, a [[Banking]] test site to which we can connect to do [[Security Testing]].
 >
 > **[0:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=39)** Let's sign in with a login of username and a password of password.
 >
@@ -3009,13 +2970,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=156)** Back in the bank, we've been told we've made our payments successfully.
 >
-> **[2:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=161)** By routing messages through Burp Suite, we were able to change a request message to transfer a different amount than the original transactions specified, and to a different account.
+> **[2:41](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=161)** By [[Routing]] messages through Burp Suite, we were able to change a request message to transfer a different amount than the original transactions specified, and to a different account.
 >
 > **[2:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/using-a-proxy-to-manipulate-web-traffic?u=76281980&t=172)** Where proxy tools such as ZAP and Burp Suite are a great way to test whether a web application is vulnerable to a man in the middle attack or messages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (8), web (3), [[Banking]] (1), [[Security]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (8), [[Banking]] (1), [[Security Testing]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Env Vars:** http (1), zap (1)
 > **URLs:** [webappsecurity.com](https://webappsecurity.com) (1)
@@ -3027,8 +2988,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining data communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
+#### [Explaining data communications](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3084,7 +3044,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980&t=203)** After this handshake completes the sender, and receiver will both be able to send and receive TCP packets until one of them closes the connection.
 >
-> **[3:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980&t=213)** When Nmap runs a basic minus PS port scan it sends a SYN packet to check the port.
+> **[3:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980&t=213)** When [[Nmap]] runs a basic minus PS port scan it sends a SYN packet to check the port.
 >
 > **[3:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980&t=220)** It either receives a reset ACK, if the port is closed, or a SYN/ACK if the port is open.
 >
@@ -3092,7 +3052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), traffic (2), next (1), dns (1)
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **Env Vars:** tcp (4), syn (4), ack (4), udp (2), http (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -3100,8 +3060,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capturing packets with Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980)
+#### [Capturing packets with Wireshark](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3109,15 +3068,15 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=2)** We need to use, what's known as a Network Protocol Analyzer.
 >
-> **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=5)** One of the most popular is Wireshark.
+> **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=5)** One of the most popular is [[Wireshark]].
 >
 > **[0:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=9)** Wireshark is free to use and runs on many platforms.
 >
-> **[0:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=12)** And for this module of the course we'll run Wireshark on our Hydra Virtual Machine.
+> **[0:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=12)** And for this module of the course we'll run Wireshark on our [[Hydra]] Virtual Machine.
 >
 > **[0:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=18)** We can download Wireshark from its website and manually install it.
 >
-> **[0:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=22)** Or in Ubuntu we can use the standard APT installation technique.
+> **[0:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=22)** Or in [[Ubuntu]] we can use the standard APT installation technique.
 >
 > **[0:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/capturing-packets-with-wireshark?u=76281980&t=27)** Let's do that.
 >
@@ -3191,7 +3150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (10), data (5), traffic (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (10), [[Hydra]] (5), [[Ubuntu]] (1)
 > **Env Vars:** syn (3), tcp (3), apt (2), ack (2)
 > **CLI Commands:** sudo (3), apt (2)
 > **Versions:** 192.168.1 (2), 168.1.52 (1)
@@ -3200,14 +3159,13 @@ created: 2026-05-02
 > **Ports:** port 4545 (1)
 > **Tools:** terminal (1)
 
-#### Making sense of the protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980)
+#### [Making sense of the protocols](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=0)** - [Instructor] Let's see what a web session looks like when it's on the wire.
 >
-> **[0:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=3)** We'll set Wireshark up to capture and then visit Scorpio.
+> **[0:03](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=3)** We'll set [[Wireshark]] up to capture and then visit Scorpio.
 >
 > **[0:11](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=11)** Put 192.168.1.52.
 >
@@ -3219,7 +3177,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=42)** And we'll go into Wireshark and stop the capture.
 >
-> **[0:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=46)** At packet 53, we can see the start of the 3-way handshake from Hydra to Scorpio.
+> **[0:46](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=46)** At packet 53, we can see the start of the 3-way handshake from [[Hydra]] to Scorpio.
 >
 > **[0:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=52)** Let's right-click on that and set a conversation filter for TCP.
 >
@@ -3229,7 +3187,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=70)** At line 58, we can see the response message from Scorpio.
 >
-> **[1:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=78)** And if we open up the text data, we can see the HTML page being returned.
+> **[1:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=78)** And if we open up the text data, we can see the [[HTML]] page being returned.
 >
 > **[1:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=87)** At line 96, we can see the XSSBlog page also being returned to us.
 >
@@ -3239,7 +3197,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=114)** We now see the packets for both of our HTTP exchanges.
 >
-> **[1:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=119)** In packet 181, we can see our post to XSSBlog dot php.
+> **[1:59](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=119)** In packet 181, we can see our post to XSSBlog dot [[PHP]].
 >
 > **[2:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/making-sense-of-the-protocols?u=76281980&t=125)** And if we scroll down, we can see the blog entry that we sent.
 >
@@ -3259,7 +3217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), web (1), data (1), [[HTML]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Hydra]] (1), [[HTML]] (1), [[PHP]] (1)
 > **Env Vars:** tcp (2), http (2), html (1)
 > **UI Navigation:** click on (3), right-click (1), scroll down (1)
 > **CLI Commands:** make (1), php (1)
@@ -3272,12 +3230,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
+#### [Introduction to AI models](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=0)** - [Instructor] While artificial intelligence has been the subject of academic study and industrial application for many years, the emergence of ChatGPT as a publicly accessible AI tool has made artificial intelligence a household name with Microsoft Copilot now appearing as a standard tool on Windows PCs, AI is becoming ubiquitous.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=0)** - [Instructor] While [[Artificial Intelligence (AI)|artificial intelligence]] has been the subject of academic study and industrial application for many years, the emergence of [[ChatGPT]] as a publicly accessible AI tool has made artificial intelligence a household name with [[Microsoft Copilot]] now appearing as a standard tool on [[Windows]] PCs, AI is becoming ubiquitous.
 >
 > **[0:25](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=25)** There are many areas of study in the academic field of artificial intelligence.
 >
@@ -3289,13 +3246,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=61)** ChatGPT is known as an AI model and there are many more models available to use.
 >
-> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=67)** Hugging Face is a popular source of AI models and we can see here that there are almost half a million models to choose from covering various application areas.
+> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=67)** [[Hugging Face]] is a popular source of AI models and we can see here that there are almost half a million models to choose from covering various application areas.
 >
 > **[1:17](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=77)** A machine learning algorithm is used to process what we call training data in order to create what is known as a large language model or LLM.
 >
 > **[1:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=88)** This model is essentially a set of parameters which are used to match patterns in order to select an appropriate response.
 >
-> **[1:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=95)** A generative AI system such as ChatGPT or Copilot will read a plain language input known as a prompt, and then use the LLM to generate a response, which may be as simple as an answer to a question or maybe a report, an image, a video, computer source code, and so on.
+> **[1:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=95)** A [[Generative AI]] system such as ChatGPT or [[Microsoft Copilot|Copilot]] will read a plain language input known as a prompt, and then use the LLM to generate a response, which may be as simple as an answer to a question or maybe a report, an image, a video, computer source code, and so on.
 >
 > **[1:55](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=115)** We can use online AI models or we can run one locally.
 >
@@ -3313,7 +3270,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=155)** Let's see how we can access the ChatGPT model programmatically.
 >
-> **[2:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=160)** We'll use a short Python script called myai.py for this, and we'll run this on the Kali Linux system.
+> **[2:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=160)** We'll use a short [[Python (Programming Language)|Python]] script called myai.py for this, and we'll run this on the [[Kali Linux]] system.
 >
 > **[2:47](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=167)** Before we do this, we need to install the OpenAI Python library, and we can do this with sudo pip3 install open ai.
 >
@@ -3325,7 +3282,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=211)** I'm using an environment variable for the API key, and you'll need to get a valid API key and set up this variable.
 >
-> **[3:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=220)** We ask the user to enter a prompt, and then we use that in a call to Open AI, specifying that we want to use the GPT-3.5 turbo model and that it's to assume our role is that of a cybersecurity threat analyst.
+> **[3:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=220)** We ask the user to enter a prompt, and then we use that in a call to Open AI, specifying that we want to use the GPT-3.5 turbo model and that it's to assume our role is that of a [[Cybersecurity]] threat analyst.
 >
 > **[3:55](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=235)** We'll store what we receive in a variable called response, and we then print out the message content in the response, and it's that simple.
 >
@@ -3339,7 +3296,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=297)** In this situation, we can download and run a local AI model.
 >
-> **[5:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=302)** I've got a Kali Purple VM set up with the AI tool called Ollama that we can use.
+> **[5:02](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=302)** I've got a Kali Purple VM set up with the AI tool called [[Ollama]] that we can use.
 >
 > **[5:09](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=309)** When running an AI model locally, we need a lot of horsepower because AI models are computationally heavy.
 >
@@ -3369,11 +3326,11 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=405)** There's a lot more to the subject of contemporary AI.
 >
-> **[6:49](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=409)** But that's sufficient background for us to now address the issue of AI security.
+> **[6:49](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980&t=409)** But that's sufficient background for us to now address the issue of [[AI Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Ollama]] (7), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[Ollama]] (7), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** python (5), sudo (1), pip3 (1)
 > **Env Vars:** api (3), llm (2), gpt (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
@@ -3382,16 +3339,15 @@ created: 2026-05-02
 > **Versions:** 3.5 (1), python 3 (1)
 > **File Paths:** myai.py (1)
 
-#### Security of AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980)
+#### [Security of AI models](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=0)** - [Lecturer] There are three main sources of information on the issue of security for AI models, and the first is the OWASP Top 10 threats to LLMs and generative AI.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=0)** - [Lecturer] There are three main sources of information on the issue of security for AI models, and the first is the [[OWASP]] Top 10 threats to LLMs and [[Generative AI]].
 >
 > **[0:12](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=12)** It's a list of the 10 highest threats to AI training data and models.
 >
-> **[0:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=18)** The first is prompt injection, through which an attacker can craft their message to the AI model in such a way as to attempt to break out of any restrictions built into the model, such as circumventing controls in order to access private training data, or to subvert decision-making.
+> **[0:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=18)** The first is prompt injection, through which an attacker can craft their message to the AI model in such a way as to attempt to break out of any restrictions built into the model, such as circumventing controls in order to access private training data, or to subvert [[Decision-Making]].
 >
 > **[0:38](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=38)** The next is insecure output handling, in which an attacker intercepts output from the AI model and changes it to enable malicious activity in downstream systems.
 >
@@ -3405,7 +3361,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=82)** As with any application, attackers can attempt to flood the system, via its input prompt or API, to achieve a denial of service.
 >
-> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=93)** Supply chain vulnerabilities relate to malicious changes made to hardware and software components that are used to generate and run the AI models.
+> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=93)** Supply chain vulnerabilities relate to malicious changes made to [[Hardware]] and software components that are used to generate and run the AI models.
 >
 > **[1:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=103)** This form of attack can not only impact the AI system, but could be used to enable intruder access to the business networks via the AI system.
 >
@@ -3431,11 +3387,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=187)** Training a model is an expensive process, and a thief gains substantial advantage in avoiding that cost.
 >
-> **[3:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=195)** The model can be stolen through a traditional cyber attack, or it can be stolen by an attacker using prompt engineering to extract the parameters of the model via the prompt interface.
+> **[3:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=195)** The model can be stolen through a traditional cyber attack, or it can be stolen by an attacker using [[Prompt Engineering]] to extract the parameters of the model via the prompt interface.
 >
 > **[3:27](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=207)** Further, a model can be reverse-engineered to gain insights into the data used to build it, and this may reveal business sensitive information.
 >
-> **[3:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=217)** The second reference to AI security is the MITRE ATLAS of AI threats.
+> **[3:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=217)** The second reference to [[AI Security]] is the MITRE ATLAS of AI threats.
 >
 > **[3:44](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=224)** This is a more extensive set of threats built around the concept of tactics and techniques.
 >
@@ -3453,7 +3409,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=268)** For example, if we scroll down to AML.M0007, Sanitize Training Data, we find guidance on mitigating the threat of data being poisoned.
 >
-> **[4:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=280)** NIST has published an AI Risk Management Framework and an associated AI Risk Management Playbook.
+> **[4:40](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=280)** [[NIST]] has published an AI [[Risk Management Framework (RMF)|Risk Management Framework]] and an associated AI Risk Management Playbook.
 >
 > **[4:51](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/security-of-ai-models?u=76281980&t=291)** The Playbook provides tools to enable businesses to manage their adoption of risk management as they begin to develop and use AI models.
 >
@@ -3473,7 +3429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), data (10), [[Security]] (5), prompt (5), llm (4)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Decision-Making]] (2), [[AI Security]] (2), [[NIST]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (2)
 > **Env Vars:** llm (4), owasp (2), nist (2), api (1), mitre (1)
 > **Definitions:** is a  (2), is an  (2), known as (1)
 > **CLI Commands:** find (2), make (1)
@@ -3482,8 +3438,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Understanding prompt injections
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980)
+#### [Understanding prompt injections](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3513,7 +3468,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980&t=83)** You can try more ideas on how to get Gandalf to tell you his secret as you go up the additional levels.
 >
-> **[1:29](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980&t=89)** We can use other ways of hiding the word password, such as by encoding it in hexadecimal or some other coding scheme.
+> **[1:29](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980&t=89)** We can use other ways of hiding the [[Microsoft Word|word]] password, such as by encoding it in hexadecimal or some other coding scheme.
 >
 > **[1:36](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-prompt-injections?u=76281980&t=96)** But as we progress, the challenge becomes much harder and a simple trick like this may not work.
 >
@@ -3527,29 +3482,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), next (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Securing AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980)
+#### [Securing AI agents](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=0)** - [Narrator] The development of chatbots based on large language models has brought artificial intelligence into the mainstream of technology and has had a substantial impact on the way we all interact with technology.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=0)** - [Narrator] The development of chatbots based on [[Large Language Models (LLM)|large language models]] has brought [[Artificial Intelligence (AI)|artificial intelligence]] into the mainstream of technology and has had a substantial impact on the way we all interact with technology.
 >
-> **[0:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=13)** However, a more profound level of artificial intelligence is starting to emerge in the form of AI agents.
+> **[0:13](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=13)** However, a more profound level of artificial intelligence is starting to emerge in the form of [[AI Agents]].
 >
 > **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=20)** In simple terms, an AI agent is a composite artifact built using a large language model that can take instructions and one or more tools that it can use to take action.
 >
-> **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=32)** This can be anything from doing a web search to ordering products from eBay or booking a table at a restaurant.
+> **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=32)** This can be anything from doing a web search to ordering [[Microsoft Products|products]] from eBay or booking a table at a restaurant.
 >
 > **[0:39](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=39)** However, the ability to take action can be used by adversaries for malicious purposes, making the compromise of an AI agent substantially more dangerous than compromising a simple chat bot.
 >
 > **[0:52](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=52)** One way we can protect an AI agent from being compromised involves using what are known as guardrails to detect any form of prompt injection and to monitor the AI responses for anything that could be potentially harmful.
 >
-> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=67)** These are built into the workflow used in the agent to provide continuous monitoring and assurance of correct operation.
+> **[1:07](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=67)** These are built into the workflow used in the agent to provide [[Continuous Monitoring]] and assurance of correct operation.
 >
 > **[1:15](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/securing-ai-agents?u=76281980&t=75)** Human oversight of agent work is another key control to protect against agents going rogue.
 >
@@ -3557,7 +3511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Large Language Models (LLM)|Large language models]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[AI Agents]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1), [[Continuous Monitoring]] (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [narrator] (1)
@@ -3567,14 +3521,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980&t=0)** - [Instructor] I'd like to invite you to go to my LinkedIn Learning page, and check out my other security courses.
+> **[0:00](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980&t=0)** - [Instructor] I'd like to invite you to go to my [[LinkedIn]] Learning page, and check out my other security courses.
 >
-> **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980&t=5)** You'll find a number of cybersecurity courses on my page, including web or network testing, wireless technologies, the security of cloud, active directory, and many more.
+> **[0:05](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980&t=5)** You'll find a number of [[Cybersecurity]] courses on my page, including web or network testing, wireless technologies, the security of cloud, [[Active Directory]], and many more.
 >
 > **[0:18](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980&t=18)** There's always new things to learn in the wider field of information in cybersecurity, so check out the full "Security" segment of the LinkedIn Learning library, where new courses are added regularly.
 >
@@ -3584,7 +3537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), [[LinkedIn]] (2), web (1), cloud (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (2), [[Active Directory]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 

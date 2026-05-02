@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980&t=0)** - [David] While there's a lot written on DevOps and ITIL, there is isn't much written on their intersection.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980&t=0)** - [David] While there's a lot written on [[DevOps]] and [[ITIL]], there is isn't much written on their intersection.
 >
 > **[0:05](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980&t=5)** This leaves the two million plus ITIL-certified IT pros grappling with how they integrate DevOps into their ITIL-driven shops.
 >
@@ -112,8 +111,7 @@ created: 2026-05-02
 > **Versions:** version 2 (1)
 > **Speakers:** - [david] (1)
 
-#### Why DevOps for ITIL® practitioners?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980)
+#### [Why DevOps for ITIL® practitioners?](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,13 +127,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=43)** They limit value in today's high-change, high-velocity environment as changes do not add value until they're available and have a relatively short lifespan when they are.
 >
-> **[0:53](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=53)** Today, you must change your mindset from a quickly or quality mindset to working quickly and with quality, which you can achieve by integrating ITIL and DevOps practices.
+> **[0:53](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=53)** Today, you must change your mindset from a quickly or quality mindset to working quickly and with quality, which you can achieve by integrating [[ITIL]] and [[DevOps]] practices.
 >
 > **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=64)** That is why you should learn DevOps practices as an ITIL practitioner.
 >
 > **[1:09](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=69)** DevOps principles promote faster and more flexible delivery of services, which aligns well with the business responsiveness objectives emphasized in ITIL.
 >
-> **[1:18](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=78)** DevOps practices such as continuous integration and continuous delivery, or CICD, and automation are designed to accelerate the delivery of software and services.
+> **[1:18](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=78)** DevOps practices such as [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], or CICD, and automation are designed to accelerate the delivery of software and services.
 >
 > **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/why-devops-for-itil-practitioners?u=76281980&t=87)** As an ITIL practitioner incorporating DevOps concepts, you can contribute to faster and more efficient service delivery.
 >
@@ -169,19 +167,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (17), [[ITIL]] (14), management (3), business (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (17), [[ITIL]] (14), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** itil (14), cicd (1)
 > **Analogies:** such as (1)
 > **Speakers:** - some (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980&t=1)** - [Instructor] You should have taken an ITIL Foundation course and have your materials handy, or at a minimum on the ITIL side, you should review the ITIL Foundation syllabus and glossary and the Introductory Overview.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980&t=1)** - [Instructor] You should have taken an [[ITIL]] Foundation course and have your materials handy, or at a minimum on the ITIL side, you should review the ITIL Foundation syllabus and glossary and the Introductory Overview.
 >
-> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980&t=11)** On the DevOps side, you should review DevOps Foundations before taking this course.
+> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-you-should-know?u=76281980&t=11)** On the [[DevOps]] side, you should review DevOps Foundations before taking this course.
 
 > [!info]- Semantic Content
 >
@@ -194,12 +191,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980)
+#### [The traditional enterprise IT shop and the breakdown of separation of duties with digitalization](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=1)** - [Instructor] So what are DevOps and enterprise DevOps?
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=1)** - [Instructor] So what are [[DevOps]] and enterprise DevOps?
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=3)** What objectives and challenges do they share?
 >
@@ -213,7 +209,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=23)** Values and principles, methods and practices, cultures and mindsets, incentives and rewards, knowledge and tools and environments and invisibility.
 >
-> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=33)** Also, Dev tends to have primary responsibility for what ITIL calls utility.
+> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=33)** Also, Dev tends to have primary responsibility for what [[ITIL]] calls utility.
 >
 > **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980&t=38)** The functional requirements or features and Ops tends to have primary responsibility for warranty.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[Automation]] (7), teams (4), cloud (3), [[ITIL]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[ITIL]] (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** itil (2), isv (1)
@@ -362,12 +358,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Warnings:** note that (1)
 
-#### DevOps, enterprise DevOps, ITIL®-driven shops, and enterprise challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980)
+#### [DevOps, enterprise DevOps, ITIL®-driven shops, and enterprise challenges](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=1)** - [Instructor] Enter devops where the barriers between dev and ops are lowered along a number of dimensions, including objectives and responsibilities across dev and ops in the whole lifecycle and functional and nonfunctional service requirements along with values and principles, methods and practices, culture and mindsets, incentives and rewards, knowledge and tools, and environments and visibility.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=1)** - [Instructor] Enter [[DevOps]] where the barriers between dev and ops are lowered along a number of dimensions, including objectives and responsibilities across dev and ops in the whole lifecycle and functional and nonfunctional service requirements along with values and principles, methods and practices, culture and mindsets, incentives and rewards, knowledge and tools, and environments and visibility.
 >
 > **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=26)** In devops, dev and ops share the same core objective, fast time to value with quality and continuous improvement and they share it across the entire lifecycle from strategy to design to transition to operation and continual improvement.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=114)** That's the first.
 >
-> **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=115)** The second is the presence of ITIL-driven practices.
+> **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=115)** The second is the presence of [[ITIL]]-driven practices.
 >
 > **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/devops-enterprise-devops-itil-driven-shops-and-enterprise-challenges?u=76281980&t=118)** This blog post on [plutora.com](https://plutora.com) said it best I think.
 >
@@ -415,23 +410,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (27), [[ITIL]] (6), cloud (5), [[Automation]] (3), functional (1)
+> **Frameworks & Libraries:** [[DevOps]] (27), [[ITIL]] (6)
 > **Env Vars:** itil (6), itsm (1)
 > **CLI Commands:** make (1)
 > **URLs:** [plutora.com](https://plutora.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What DevOps and enterprise DevOps have in common, and how they differ
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980)
+#### [What DevOps and enterprise DevOps have in common, and how they differ](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=0)** - [Instructor] In the end, both enterprise IT and cloud-native devops shops have the same end in mind, delivering fast time to value with quality and continuous improvement.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=0)** - [Instructor] In the end, both enterprise IT and cloud-native [[DevOps]] shops have the same end in mind, delivering fast time to value with quality and continuous improvement.
 >
 > **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=10)** While the particular conditions typically found in enterprise IT and cloud-native shops differ, primarily along the lines of the level of physical versus digital workflow, and accordingly the means employed to achieve this north star objective may differ, there should be no dispute that both kinds of shops are aiming for the same overall result.
 >
-> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=29)** ITIL-driven and devops shops share the same two core challenges to achieving fast time to value with quality and continuous improvement.
+> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=29)** [[ITIL]]-driven and devops shops share the same two core challenges to achieving fast time to value with quality and continuous improvement.
 >
 > **[0:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=37)** The first is unnecessary variation and the second is unnecessary dependencies.
 >
@@ -485,13 +479,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=143)** How cute.
 >
-> **[2:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=145)** Well, not really because wherever we have these snowflake entities, meaning each one is unique in some way like snowflakes, where we have snowflake servers, snowflake switches and the like, we have to meet and talk about stuff when we have a change or when we have a release and it takes longer to figure out problems and incidents.
+> **[2:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=145)** Well, not really because wherever we have these [[Snowflake]] entities, meaning each one is unique in some way like snowflakes, where we have snowflake servers, snowflake switches and the like, we have to meet and talk about stuff when we have a change or when we have a release and it takes longer to figure out problems and incidents.
 >
 > **[2:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=163)** It adds overhead all the way up and down the stack.
 >
 > **[2:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=166)** Besides creating an enormous time drain and overhead by requiring discussion and remediation, unnecessary variations erode the quality of a product and service when you allow them to creep into your services, your processes, your technology, and the tooling to manage it, and the skills, knowledge, and mindsets of your people.
 >
-> **[3:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=184)** So do yourself a favor and move to vanilla or whatever flavor is your favorite whenever you can to the extent that you can.
+> **[3:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=184)** So do yourself a favor and move to [[Vanilla]] or whatever flavor is your favorite whenever you can to the extent that you can.
 >
 > **[3:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/what-devops-and-enterprise-devops-have-in-common-and-how-they-differ?u=76281980&t=191)** Our other shared enemy is unnecessary dependencies.
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[DevOps]] (10), [[ITIL]] (3), [[Snowflake]] (3), teams (2)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[ITIL]] (3), [[Snowflake]] (3), [[Vanilla]] (1)
 > **Env Vars:** itil (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
@@ -572,12 +566,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enterprise-level change control and release gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980)
+#### [Enterprise-level change control and release gates](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=1)** - [Instructor] Now that we've covered how Cloud-native DevOps and ITIL-driven Enterprise Shops differ, let's have a look at how we can adapt DevOps values, principals, methods, practices, and tools, to meet Enterprise IT challenges and Enterprise IT challenges for DevOps.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=1)** - [Instructor] Now that we've covered how Cloud-native [[DevOps]] and [[ITIL]]-driven Enterprise Shops differ, let's have a look at how we can adapt DevOps values, principals, methods, practices, and tools, to meet Enterprise IT challenges and Enterprise IT challenges for DevOps.
 >
 > **[0:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=16)** DevOps culture and practices are rooted in the possibilities presented to Cloud-native organizations.
 >
@@ -625,9 +618,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=193)** Which is a lightweight approach to change control that systematically reduces the number and degree of fragile artifacts in the environment.
 >
-> **[3:21](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=201)** Also, while you're not constrained by platform limitations, or regulatory or other constraints, pick a place to implement continuous integration, deployment, and then delivery, to reduce the level of effort required for change and release gates.
+> **[3:21](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=201)** Also, while you're not constrained by platform limitations, or regulatory or other constraints, pick a place to implement [[Continuous Integration (CI)|continuous integration]], deployment, and then delivery, to reduce the level of effort required for change and release gates.
 >
-> **[3:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=216)** At the intersection of DevOps practices and Enterprise-level change control and release gates, focus on the DevOps practices of dependency injection and blue/green deployment.
+> **[3:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=216)** At the intersection of DevOps practices and Enterprise-level change control and release gates, focus on the DevOps practices of [[Dependency Injection]] and blue/green deployment.
 >
 > **[3:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=226)** Apply dependency injection to reduce the number of dependencies.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=273)** So it's ideally suited for meeting Enterprise challenges.
 >
-> **[4:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=277)** ChatOps shifts the center of gravity for change and release from the ticketing system to real-time collaboration.
+> **[4:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=277)** ChatOps shifts the center of gravity for change and release from the ticketing system to [[Real-Time]] collaboration.
 >
 > **[4:44](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980&t=284)** So one thing to do is to build awareness about ChatOps so people understand why they should care about it and to start teaching people the skills they need for it before they need them.
 >
@@ -651,18 +644,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (13), cloud (4), [[Automation]] (3), [[Orchestration]] (2), [[Dependency Injection]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (13), [[Dependency Injection]] (2), [[ITIL]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), rails (1), find (1)
 > **Env Vars:** itil (1), cams (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Legacy, regulated, and nonautomated environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980)
+#### [Legacy, regulated, and nonautomated environments](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=1)** - [Presenter] At the intersection of DevOps values, and legacy, regulated, and nonautomated environments, focus on the A and the S in CAMS.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=1)** - [Presenter] At the intersection of [[DevOps]] values, and legacy, regulated, and nonautomated environments, focus on the A and the S in CAMS.
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=8)** Automation and sharing.
 >
@@ -674,13 +666,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=33)** Often, tools such as monitoring tools, are not shared across DevonOps and legacy environments for no good reason.
 >
-> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=39)** This creates an unnecessary divide between DevonOps, especially around nonfunctional requirements, which ITIL calls the warranty aspects of a service.
+> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=39)** This creates an unnecessary divide between DevonOps, especially around nonfunctional requirements, which [[ITIL]] calls the warranty aspects of a service.
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=47)** So give some thought to sharing tools to break down that barrier.
 >
 > **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=51)** At the intersection of DevOps principles, the three ways, and legacy, regulated, and nonautomated environments, consider applying the first principle, systems thinking.
 >
-> **[1:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=61)** Often in enterprise environments, we have islands of systems that are optimized locally, but when you move up a zoom level and look at the whole systems, what you see is dysfunction.
+> **[1:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=61)** Often in enterprise environments, we have islands of systems that are optimized locally, but when you move up a [[Zoom]] level and look at the whole systems, what you see is dysfunction.
 >
 > **[1:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=71)** One way to attack this problem is to create consistent standard processes common across all platforms.
 >
@@ -694,9 +686,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=97)** And as some legacy systems with slow chain cycles are not worth automating, instead, focus on high-velocity change environments that lend themselves to DevOps.
 >
-> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=106)** For these systems, for regulatory compliance, set standards in the processes that own change and release, and automate compliance.
+> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=106)** For these systems, for [[Regulatory Compliance]], set standards in the processes that own change and release, and automate compliance.
 >
-> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=114)** When DevOps meets legacy, regulated, and nonautomated environments, the two DevOps methods that stand out are continuous delivery and infrastructure automation.
+> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=114)** When DevOps meets legacy, regulated, and nonautomated environments, the two DevOps methods that stand out are [[Continuous Delivery (CD)|continuous delivery]] and infrastructure automation.
 >
 > **[2:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=124)** Unfortunately, these methods may be out of reach, either technically or for business reasons.
 >
@@ -728,7 +720,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=197)** And where it doesn't make sense to cut over the cloud, it may make sense to apply extreme standardization to legacy IT in the interim, to ease the overhead of managing these platforms.
 >
-> **[3:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=208)** At the intersection of DevOps tools and legacy, regulated, and non automated environments, you should know that the DevOps tool chain criteria is that each tool should have not just a UI, but also an API and command line interface.
+> **[3:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=208)** At the intersection of [[DevOps Tools]] and legacy, regulated, and non automated environments, you should know that the DevOps tool chain criteria is that each tool should have not just a UI, but also an API and command line interface.
 >
 > **[3:40](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/legacy-regulated-and-nonautomated-environments?u=76281980&t=220)** While you may not be in a position yet to retire legacy, what you can do is change how you manage it.
 >
@@ -744,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (11), cloud (9), [[Automation]] (8), business (4), [[Regulatory Compliance]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (11), [[Regulatory Compliance]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[ITIL]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** cams (1), itil (1), api (1)
 > **Analogies:** for example (2), such as (1)
@@ -752,12 +744,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [presenter] (1)
 
-#### Disparate, siloed teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980)
+#### [Disparate, siloed teams](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=1)** [Instructor] At the intersection of DevOps values and disparate, siloed teams, focus on the C in CAMS, the value of culture breaking down barriers.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=1)** [Instructor] At the intersection of [[DevOps]] values and disparate, siloed teams, focus on the C in CAMS, the value of culture breaking down barriers.
 >
 > **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=10)** There are many dimensions along which you can break down barriers, even if you can't combine disparate siloed teams.
 >
@@ -773,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=54)** It's just that they may be in different places.
 >
-> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=56)** For example, identity management is often set apart from the rest of the organization to avoid conflicts that occur when combined.
+> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=56)** For example, identity management is often set apart from the [[Representational State Transfer (REST)|rest]] of the organization to avoid conflicts that occur when combined.
 >
 > **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=64)** At the intersection of DevOps principles, the three ways, and disparate siloed teams, focus on the third DevOps principle: establishing a culture of continual experimentation and learning.
 >
@@ -807,7 +798,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=166)** The DevOps practice of embedded teams can help bring down barriers between disparate siloed teams.
 >
-> **[2:52](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=172)** An embedded product team consists of all the people and skills needed to independently take products all the way from requirements to delivery.
+> **[2:52](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=172)** An embedded product team consists of all the people and skills needed to independently take [[Microsoft Products|products]] all the way from requirements to delivery.
 >
 > **[3:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=180)** In DevOps, which is Dev + Ops, the place to start is by embedding Dev representatives in Ops teams and vice versa.
 >
@@ -817,23 +808,22 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=211)** That can help bring down the barriers between disparate siloed teams as well, driving more of a "It's just us" versus "Them and us" culture.
 >
-> **[3:40](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=220)** At the intersection of DevOps tools and disparate siloed teams, it's important to get the teams interested in the tools, to get them exposed, for example, on how we can bring code into a common repository and to get scripting going, get everybody writing code for on-prem and cloud-based systems.
+> **[3:40](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/disparate-siloed-teams?u=76281980&t=220)** At the intersection of [[DevOps Tools]] and disparate siloed teams, it's important to get the teams interested in the tools, to get them exposed, for example, on how we can bring code into a common repository and to get scripting going, get everybody writing code for on-prem and cloud-based systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (19), [[DevOps]] (8), [[Orchestration]] (4), product (3), cloud (2)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[DevOps Tools]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cams (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
 
-#### Massive scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/massive-scale?u=76281980)
+#### [Massive scale](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/massive-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/massive-scale?u=76281980&t=1)** - [Instructor] At the intersection of DevOps values and massive scale, sharing, the S in CAMS, is key.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/massive-scale?u=76281980&t=1)** - [Instructor] At the intersection of [[DevOps]] values and massive scale, sharing, the S in CAMS, is key.
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/massive-scale?u=76281980&t=7)** Scale by starting with a showcase you can replicate.
 >
@@ -895,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), management (2), [[Security]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (5)
 > **Env Vars:** ics (3), cams (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), known as (1)
@@ -908,20 +898,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Values
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980)
+#### [Values](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=1)** - [Instructor] How can we adapt devops values, principles, methods, practices, and tools for ITIL-driven shops and ITIL-driven shops for devops?
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=1)** - [Instructor] How can we adapt [[DevOps]] values, principles, methods, practices, and tools for [[ITIL]]-driven shops and ITIL-driven shops for devops?
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=8)** Let's have a look at this now.
 >
-> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=10)** The four fundamental devops values used by many devops practitioners are summarized in the acronym CAMS created by devops pioneers John Willis and Damon Edwards which stands for Culture, Automation, Measurement, and Sharing.
+> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=10)** The four fundamental devops values used by many devops practitioners are summarized in the acronym CAMS created by devops pioneers [[John the Ripper|John]] Willis and Damon Edwards which stands for Culture, Automation, Measurement, and Sharing.
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=24)** The C in CAMS stands for Culture.
 >
-> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=27)** In devops, this is a blameless culture which balances safety for sharing failures and asking for help with accountability as well as a culture of breaking down barriers to effectively working together.
+> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=27)** In devops, this is a blameless culture which balances safety for sharing failures and asking for help with [[Accountability]] as well as a culture of breaking down barriers to effectively working together.
 >
 > **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=38)** The A in CAMS is for Automation, the devops value of saving time, preventing defects and variation, and enabling self-service.
 >
@@ -987,7 +976,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=236)** Sharing is the S in CAMS.
 >
-> **[3:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=238)** Sharing objectives, ideas, problems, tools, code, discoveries, lessons, and work products across the organization and even outside the organization.
+> **[3:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=238)** Sharing objectives, ideas, problems, tools, code, discoveries, lessons, and work [[Microsoft Products|products]] across the organization and even outside the organization.
 >
 > **[4:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=247)** It can eliminate duplication of effort.
 >
@@ -1001,11 +990,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=278)** For example, many tools could be shared between dev and ops and used in both dev and production, but some are not such as monitoring and control applications.
 >
-> **[4:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=285)** So start there or start by putting in place the open office concept which lends itself to collaboration and sharing as sharing is enabled by culture and environment which, if left the chance, may prevent or at least not promote sharing from happening.
+> **[4:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980&t=285)** So start there or start by putting in place the open [[Microsoft Office|office]] concept which lends itself to collaboration and sharing as sharing is enabled by culture and environment which, if left the chance, may prevent or at least not promote sharing from happening.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (16), [[ITIL]] (10), [[Automation]] (6), management (5), data (4)
+> **Frameworks & Libraries:** [[DevOps]] (16), [[ITIL]] (10), [[Microsoft Products|Products]] (2), [[John the Ripper|John]] (1), [[Accountability]] (1)
 > **Env Vars:** itil (10), cams (7)
 > **Definitions:** is a  (3), stands for (2)
 > **Analogies:** for example (2), it's like (1), such as (1)
@@ -1013,18 +1002,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980)
+#### [Principles](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=1)** - [Instructor] The three fundamental devops principles respected by many devops practitioners are called the three ways.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=1)** - [Instructor] The three fundamental [[DevOps]] principles respected by many devops practitioners are called the three ways.
 >
 > **[0:06](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=6)** This model was developed by Gene Kim, author of Visible Ops and The Phoenix Project, and Mike Orzen, author of Lean IT.
 >
 > **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=14)** The three ways are systems thinking, amplifying feedback loops, and a culture of continuous experimentation and learning.
 >
-> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=22)** Let's have a look at how these fit within ITIL-driven shops.
+> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=22)** Let's have a look at how these fit within [[ITIL]]-driven shops.
 >
 > **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=25)** The first way is systems thinking which is valuing the performance of an entire system over the performance of a specific silo of work or department.
 >
@@ -1044,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=98)** Because feedback loops enable corrections to be made, feedback loops are huge in devops.
 >
-> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=103)** The key thing to note here is that you shouldn't just restrict their use to [[Agile Software Development]].
+> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=103)** The key thing to note here is that you shouldn't just restrict their use to [[[[Agile Software Development]]]].
 >
 > **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=108)** Feedback loops are applicable everywhere.
 >
@@ -1070,19 +1058,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), next (1), [[Agile Software Development]] (1), leadership (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), [[Agile Software Development]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
 > **Speakers:** - [instructor] (1)
 
-#### Methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980)
+#### [Methods](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=1)** - [Instructor] The six most prevalent DevOps methods used by many DevOps practitioners are people over process over tools, continuous delivery, lean and agile practices, visual ops-style change control, and infrastructure automation, including infrastructure as code and site-reliability engineering.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=1)** - [Instructor] The six most prevalent [[DevOps]] methods used by many DevOps practitioners are people over process over tools, [[Continuous Delivery (CD)|continuous delivery]], lean and [[Agile Development|agile]] practices, visual ops-style change control, and infrastructure automation, including [[Infrastructure as code (IaC)|infrastructure as code]] and site-reliability engineering.
 >
-> **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=17)** Let's have a look at how these fit within ITIL-driven shops.
+> **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=17)** Let's have a look at how these fit within [[ITIL]]-driven shops.
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=20)** People over process over tools was coined by Alex Honor.
 >
@@ -1114,9 +1101,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=117)** Introducing continuous delivery affects the ITIL, design, and transition lifecycle phases the most.
 >
-> **[2:02](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=122)** When you move to continuous delivery, the most critical shift will be in your service design and transition processes, specifically, in the automation of testing, including unit testing, integration testing, and testing from the outside in, as in, test-driven development, behavior-driven development, and acceptance test-driven development.
+> **[2:02](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=122)** When you move to continuous delivery, the most critical shift will be in your service design and transition processes, specifically, in the automation of testing, including [[Unit Testing]], [[Integration Testing]], and testing from the outside in, as in, [[Test-Driven Development]], behavior-driven development, and acceptance test-driven development.
 >
-> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=142)** Also, infrastructure testing, performance, and security testing.
+> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=142)** Also, infrastructure testing, performance, and [[Security Testing]].
 >
 > **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=146)** Lean practices focus on continual improvement and the elimination of unnecessary activities.
 >
@@ -1148,7 +1135,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=269)** Infrastructure automation is based in a cloud-based reality and infrastructure components can and should be treated like code.
 >
-> **[4:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=277)** System specifications should be checked into source control, go through a code review, automated testing, and so forth.
+> **[4:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=277)** System specifications should be checked into source control, go through a [[Code Review]], automated testing, and so forth.
 >
 > **[4:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=283)** This enables you to automatically create uniform instances from the specification and to manage them programmatically.
 >
@@ -1156,7 +1143,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=295)** For example, you can start by applying the DevOps method of infrastructure automation to your ITIL-driven IT service continuity or disaster recovery process.
 >
-> **[5:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=304)** We used to talk a lot about design for availability and a DR site and hardware in another city, keeping two data centers in sync.
+> **[5:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=304)** We used to talk a lot about design for availability and a DR site and [[Hardware]] in another city, keeping two data centers in sync.
 >
 > **[5:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=311)** Now because I can script my infrastructure deployment, I can just grab my script, point it at the other data center, run it and bam, I've got another instance of my infrastructure.
 >
@@ -1164,9 +1151,9 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=328)** Alerts, incidents, problems, provisioning, capacity, demand, availability, performance, everything can be reduced to automation through code.
 >
-> **[5:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=337)** Site reliability engineering, or SRE, is defined by Ben Treynor, founder of Google's Site Reliability team as, what happens when a software engineer is tasked with that used to be called operations?
+> **[5:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=337)** Site reliability engineering, or SRE, is defined by Ben Treynor, founder of [[Google]]'s Site Reliability team as, what happens when a software engineer is tasked with that used to be called operations?
 >
-> **[5:50](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=350)** SRE is a discipline that incorporates aspects of software engineering and applies that to operations with a goal of creating ultra scalability and highly reliable software systems.
+> **[5:50](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=350)** SRE is a discipline that incorporates aspects of software engineering and applies that to operations with a goal of creating ultra [[Scalability]] and highly reliable software systems.
 >
 > **[6:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/methods?u=76281980&t=360)** SRE focuses on engineering continuous operations at the point of customer consumption.
 >
@@ -1186,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (14), [[Automation]] (8), [[DevOps]] (7), [[Agile Development|Agile]] (7), [[Continuous Delivery (CD)|Continuous delivery]] (4)
+> **Frameworks & Libraries:** [[ITIL]] (14), [[DevOps]] (7), [[Agile Development|Agile]] (7), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **Env Vars:** itil (14), sre (7)
 > **Analogies:** for example (5)
 > **CLI Commands:** cd (2)
@@ -1194,12 +1181,11 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980)
+#### [Practices](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=1)** - [Instructor] There are many specific practices that individuals and organizations have found that help them in their DevOps journey.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=1)** - [Instructor] There are many specific practices that individuals and organizations have found that help them in their [[DevOps]] journey.
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=7)** Here's the 10 cited by James Wickett and Ernest Mueller in their [lynda.com](https://lynda.com) course DevOps Foundation.
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=67)** The idea that Devs will take more care of the quality of what they produce if they'll have to suffer the pain of dealing with it later and not just chuck it over the fence for somebody else to test and support.
 >
-> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=76)** The Devs on call DevOps practice has the greatest impact on ITIL-driven application management, service desk, and the IT operations function.
+> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=76)** The Devs on call DevOps practice has the greatest impact on [[ITIL]]-driven application management, service desk, and the IT operations function.
 >
 > **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=84)** You put Devs on call for the service they create to create a fast feedback loop that helps rapidly improve logging and deployment and enables faster resolution of application issues.
 >
@@ -1243,9 +1229,9 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=153)** Check out [statuspage.io](https://statuspage.io) for an example of status pages as a service, which, besides the push mechanism of the page, allows users to opt in to pull communications for status updates.
 >
-> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=165)** A culture of blamelessness is a hallmark of DevOps, and blameless postmortems are its most striking feature, balancing safety for admitting failure with accountability and focusing postmortems on learning and taking action, rather than placing blame.
+> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=165)** A culture of blamelessness is a hallmark of DevOps, and blameless postmortems are its most striking feature, balancing safety for admitting failure with [[Accountability]] and focusing postmortems on learning and taking action, rather than placing blame.
 >
-> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=179)** John Allspaw, CTO at Etsy, wrote an article called Blameless Postmortems and a Just Culture that describes the practice, and I've included a link here for you to learn more.
+> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=179)** [[John the Ripper|John]] Allspaw, CTO at Etsy, wrote an article called Blameless Postmortems and a Just Culture that describes the practice, and I've included a link here for you to learn more.
 >
 > **[3:09](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=189)** What you can do here in your ITIL-driven shop is to engender a culture of blamelessness.
 >
@@ -1255,7 +1241,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=204)** If you want to adopt blameless postmortem practices for postmortems after major incidents, problems, and IT service continuity or disaster recovery events, you can start with a better blameless agenda to enforce behavior.
 >
-> **[3:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=217)** For example, see the agenda I lay out in my other course on Lynda, Problem Management Techniques, for post-implementation reviews.
+> **[3:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=217)** For example, see the agenda I lay out in my other course on Lynda, [[Problem Management]] Techniques, for post-implementation reviews.
 >
 > **[3:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=226)** Embedded teams, most typically embedding Ops engineers on Dev team, allows for close coordination between individuals and teams around the shared goal of overall success of the product or service with quick time to value, quality, and continuous improvement.
 >
@@ -1271,7 +1257,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=288)** The cloud and DevOps are joined at the hip.
 >
-> **[4:50](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=290)** Cloud solutions give you an entirely API-driven way to create and control infrastructure so you can treat infrastructure as code and move at a much higher velocity than with legacy platforms.
+> **[4:50](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=290)** Cloud solutions give you an entirely API-driven way to create and control infrastructure so you can treat [[Infrastructure as code (IaC)|infrastructure as code]] and move at a much higher velocity than with legacy platforms.
 >
 > **[5:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=300)** How can you integrate the cloud into your services and service management approach?
 >
@@ -1303,13 +1289,13 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=366)** You can do the same thing with your build pipeline for software to stop bugs from propagating downstream.
 >
-> **[6:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=371)** Ideally, you'll have automated testing that catches most issues, but it's important to have a mechanism like a big panic button you can push when there's a problem with the pipeline itself, like some weird thing happened to Jenkins that's affecting the build pipeline itself, or when your automated testing didn't catch a bug that you see will break things downstream.
+> **[6:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=371)** Ideally, you'll have automated testing that catches most issues, but it's important to have a mechanism like a big panic button you can push when there's a problem with the pipeline itself, like some weird thing happened to [[Jenkins]] that's affecting the build pipeline itself, or when your automated testing didn't catch a bug that you see will break things downstream.
 >
 > **[6:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=389)** So consider adding Andon cords to your terminology and key principles and models that you're using in your ITIL-driven shop, starting with your build pipeline.
 >
 > **[6:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=398)** Unnecessary dependencies are a key source of process overhead, conflict, and outages.
 >
-> **[6:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=403)** In dependency injection, sometimes it's called inversion of control, dependencies are not known to the application, but instead are passed to the application at runtime.
+> **[6:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=403)** In [[Dependency Injection]], sometimes it's called inversion of control, dependencies are not known to the application, but instead are passed to the application at runtime.
 >
 > **[6:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=414)** A dependency is an object that can be used, for example a service, and an injection is the passing of a dependency to a dependent object, for example a client that would use it, with the intent of decoupling objects so that no client code must be changed simply because an object it depends on is changed to a different one, and also that no service breaks due to a tightly coupled dependency.
 >
@@ -1343,19 +1329,19 @@ created: 2026-05-02
 >
 > **[9:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=555)** It works on the principle that the best way to avoid major failures is to constantly fail.
 >
-> **[9:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=560)** This forces developers and operators creating the systems to engineer resiliency into their services instead of being lulled into a sense of complacency and making the mistake of thinking that their infrastructure is always on.
+> **[9:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=560)** This forces developers and operators creating the systems to engineer [[Resiliency]] into their services instead of being lulled into a sense of complacency and making the mistake of thinking that their infrastructure is always on.
 >
 > **[9:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=573)** For ITIL-driven shops, Chaos Monkey is new terminology, a new principle and model.
 >
-> **[9:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=578)** What I see most shops do is cherry-pick pieces out of the Simian Army set of tools, for example security bits for integration testing.
+> **[9:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=578)** What I see most shops do is cherry-pick pieces out of the Simian Army set of tools, for example security bits for [[Integration Testing]].
 >
-> **[9:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=585)** Also, I see teams approaching this two ways, sitting around a table and talking through who does what if a bomb is dropped, kind of a simulation, or doing it live, actually dropping the bomb and seeing how we react.
+> **[9:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=585)** Also, I see teams approaching this two ways, sitting around a table and talking through who does what if a bomb is dropped, kind of a [[Simulation]], or doing it live, actually dropping the bomb and seeing how we [[React.js|react]].
 >
-> **[9:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=596)** They do it, check metrics, the impact on performance, then review the root causes of failures in a blameless review, then come up with agile ways to improve it, then they do it all over again.
+> **[9:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/practices?u=76281980&t=596)** They do it, check metrics, the impact on performance, then review the root causes of failures in a blameless review, then come up with [[Agile Development|agile]] ways to improve it, then they do it all over again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), teams (8), [[ITIL]] (6), application (6), management (5)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[ITIL]] (6), [[Dependency Injection]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Accountability]] (1)
 > **Env Vars:** itil (6), ics (3), dna (1), cto (1), api (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), cd (1), find (1)
@@ -1364,12 +1350,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
 
-#### Tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980)
+#### [Tools](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=0)** - [Instructor] There's been a dizzy explosion of tools in devops from source code management to database management to build, continuous integration, repo management, testing, deployment, config and provisioning, containerization, cloud, IaaS, PaaS, SaaS, release management, collaboration, BI, monitoring, logging and security and the list goes on.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=0)** - [Instructor] There's been a dizzy explosion of tools in [[DevOps]] from source code management to [[Database Management]] to build, [[Continuous Integration (CI)|continuous integration]], repo management, testing, deployment, config and provisioning, containerization, cloud, [[IaaS]], [[PaaS]], [[SaaS]], release management, collaboration, BI, monitoring, logging and security and the list goes on.
 >
 > **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=22)** Mostly these tools are point solutions that can be interconnected versus monolithic product suites.
 >
@@ -1389,19 +1374,19 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=57)** That means, it plays nicely with other tools in your chain both from a dev and ops perspective.
 >
-> **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=63)** Obviously, the key intersection between devops tools and ITIL-driven shops is service management technology and architecture.
+> **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=63)** Obviously, the key intersection between [[DevOps Tools]] and [[ITIL]]-driven shops is service management technology and architecture.
 >
 > **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=70)** One thing you can do here is to review your tool set against these criteria and for example substitute a tool that has a command line interface and API for one that does not.
 >
-> **[1:19](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=79)** Another good place to start is with configuration management tools.
+> **[1:19](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=79)** Another good place to start is with [[Configuration Management]] tools.
 >
-> **[1:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=82)** In devops, configuration management is version control, a shift left from the idea in ITIL of configuration management as a logical picture of your environment.
+> **[1:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=82)** In devops, configuration management is [[Version Control]], a shift left from the idea in ITIL of configuration management as a logical picture of your environment.
 >
 > **[1:32](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/tools?u=76281980&t=92)** Remember, we're dealing with cattle, not pets here in a devops world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), management (5), [[Configuration Management]] (3), api (2), [[ITIL]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Configuration Management]] (3), [[ITIL]] (2), [[Database Management]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** api (2), itil (2)
 > **Tools:** command line (2)
 > **Analogies:** for example (1), picture (1)
@@ -1413,12 +1398,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Services and service management
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980)
+#### [Services and service management](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=1)** - [Instructor] Now that we've covered adapting devops to ITIL-driven shops including devops values, principles, methods, practices, and tools, let's have a look at it from the opposite angle, adapting ITIL-driven shops to devops.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=1)** - [Instructor] Now that we've covered adapting [[DevOps]] to [[ITIL]]-driven shops including devops values, principles, methods, practices, and tools, let's have a look at it from the opposite angle, adapting ITIL-driven shops to devops.
 >
 > **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=14)** In other words, how do we adapt ITIL services, service management, the service lifecycle, terminology, key principles and models, processes and functions, roles and technology and architecture to devops values, principles, methods, practices, and tools?
 >
@@ -1432,22 +1416,21 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=67)** One thing you can do to adapt your ITIL-driven service management practices for devops is to incorporate a culture of blamelessness and the blameless post-mortem technique.
 >
-> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=76)** Be sure to make sure rewards are aligned with desired behaviors and pay attention to the details of reviewing and adjusting agendas for all IT service management reviews to align to the ethos of blamelessness.
+> **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980&t=76)** Be sure to make sure rewards are aligned with desired behaviors and pay attention to the details of reviewing and adjusting agendas for all [[IT Service Management]] reviews to align to the ethos of blamelessness.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (6), [[DevOps]] (5), management (4), [[IT Service Management]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (6), [[DevOps]] (5), [[IT Service Management]] (1)
 > **Env Vars:** itil (6)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### The service life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980)
+#### [The service life cycle](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=1)** - [Instructor] ITIL arranges service management processes and functions into a lifecycle from strategy, to design, to transition, to operations, and finally continual improvement.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=1)** - [Instructor] [[ITIL]] arranges service management processes and functions into a lifecycle from strategy, to design, to transition, to operations, and finally continual improvement.
 >
 > **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=11)** While all value is seen and realized by the customer and users in operations, the quality of that value is the function of having the right strategy in the first place, and therefore, the right services, and service management capability, and how well services are designed and moved to production and whether or not you've got a virtuous cycle of continual improvement for services and service management.
 >
@@ -1457,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=47)** Then taking all of that into account and adding, changing into leading services to gyroscopically align them to what consumers want and need and what technology makes possible.
 >
-> **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=57)** To adapt your ITIL driven shops strategy phase to DevOps, the key action is taken under principle two, amplifying feedback loops and principle three, a culture of continual experimentation and learning.
+> **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=57)** To adapt your ITIL driven shops strategy phase to [[DevOps]], the key action is taken under principle two, amplifying feedback loops and principle three, a culture of continual experimentation and learning.
 >
 > **[1:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=68)** For principle 2, you'll need to put in place faster more tighter feedback loops between strategy, continual improvement and sprint planning and reviews.
 >
@@ -1485,11 +1468,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=151)** The cloud broadens the design palette and service design.
 >
-> **[2:35](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=155)** Adding new fabric options like microservices architecture available for use, especially on greenfield projects.
+> **[2:35](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=155)** Adding new fabric options like [[Microservices]] architecture available for use, especially on greenfield projects.
 >
 > **[2:42](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=162)** So that's a key impact on the ITIL design phase.
 >
-> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=165)** Also, your DevOps tool chain and agile scrum practices and things like CI and CD greatly effect the way things get done in design.
+> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=165)** Also, your DevOps tool chain and [[Agile Development|agile]] [[Scrum]] practices and things like CI and CD greatly effect the way things get done in design.
 >
 > **[2:52](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-service-life-cycle?u=76281980&t=172)** You could pick with any of these to start with in integrating DevOps in your ITIL driven practices.
 >
@@ -1529,19 +1512,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (11), [[DevOps]] (10), management (9), cloud (3), [[Agile Development|Agile]] (3)
+> **Frameworks & Libraries:** [[ITIL]] (11), [[DevOps]] (10), [[Agile Development|Agile]] (3), [[Microservices]] (1), [[Scrum]] (1)
 > **Env Vars:** itil (11), sre (2), ics (1), sla (1), brm (1)
 > **CLI Commands:** cd (2), make (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terminology and key principles and models
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980)
+#### [Terminology and key principles and models](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=0)** - [Narrator] The ITIL glossary covers literally hundreds of concepts, definitions, and acronyms, as well as key principles and models.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=0)** - [Narrator] The [[ITIL]] glossary covers literally hundreds of concepts, definitions, and acronyms, as well as key principles and models.
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=7)** Those covered in the ITIL foundation course are shown here for your reference.
 >
@@ -1549,7 +1531,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=26)** Having a shared understanding of standardized definitions for common I.T. terms is one of the most valuable aspects of adopting and adapting ITIL, as it lowers this overhead across the board, within teams, across the organization between organizations, with suppliers, and with consultants, in ephemeral project teams.
 >
-> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=44)** With the introduction of DevOps practices, new terminology is introduced.
+> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=44)** With the introduction of [[DevOps]] practices, new terminology is introduced.
 >
 > **[0:49](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=49)** We are not concerned with this here, here we're concerned with how the introduction of DevOps affects ITIL terminology, key principles, and models.
 >
@@ -1587,7 +1569,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=145)** Now, lets turn our attention to DevOps terminology.
 >
-> **[2:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=148)** DevOps introduces a whole new set of terminology and key principles and models, much of which come from lean and agile practices, applied to I.T. shops overall, and Dev in particular.
+> **[2:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=148)** DevOps introduces a whole new set of terminology and key principles and models, much of which come from lean and [[Agile Development|agile]] practices, applied to I.T. shops overall, and Dev in particular.
 >
 > **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/terminology-and-key-principles-and-models?u=76281980&t=159)** This new terminology is driven by the shift in what me manage.
 >
@@ -1607,20 +1589,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (10), [[ITIL]] (9), cloud (4), teams (2), next (2)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[ITIL]] (9), [[Agile Development|Agile]] (1)
 > **Env Vars:** itil (9), ics (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Strategy processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980)
+#### [Strategy processes](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=1)** - [Instructor] This graphic shows the 26 processes ITIL specifies.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=1)** - [Instructor] This graphic shows the 26 processes [[ITIL]] specifies.
 >
-> **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=4)** Let's explore each of these processes briefly to understand what the intersection looks like between each and DevOps.
+> **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=4)** Let's explore each of these processes briefly to understand what the intersection looks like between each and [[DevOps]].
 >
 > **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=11)** Strategy management for IT services aims to ensure we have a strategy defined that guides and aligns our services, that clarifies the customers and markets we serve, that differentiates our position and value proposition in the market overall and for each service, and guides the management of our current and future services, capabilities, and resources.
 >
@@ -1644,11 +1625,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=131)** With the move to the cloud and elastic capacity for scaling up and down, you can automate capacity to meet demand and your focus will shift from capacity to demand management.
 >
-> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=142)** At the intersection of demand management and DevOps, consider the DevOps practice of the cloud and with that practice, make sure you put in place instrumentation where you can see what's getting acquired and what's actually getting consumed so you can turn down unused capacity, for example, test beds that got stood up but never stood down or Office 365 seats that were acquired but not used, and so on.
+> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=142)** At the intersection of demand management and DevOps, consider the DevOps practice of the cloud and with that practice, make sure you put in place instrumentation where you can see what's getting acquired and what's actually getting consumed so you can turn down unused capacity, for example, test beds that got stood up but never stood down or [[Microsoft Office|Office]] 365 seats that were acquired but not used, and so on.
 >
 > **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=165)** Be sure to increase the feedback loop to financial management from demand and look to shift from capacity to demand-side estimation.
 >
-> **[2:53](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=173)** Know that forecasting will be harder with experimentation.
+> **[2:53](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=173)** Know that [[Forecasting]] will be harder with experimentation.
 >
 > **[2:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/strategy-processes?u=76281980&t=178)** Financial management for IT services aims to ensure we can accurately account for IT costs and that cost data is mapped to categories and services in a format useful for investment and budgeting decisions, and that when we choose to charge back for services, it ensures we have a clear pricing algorithm, charge-back goal, and a charging system that meets that goal.
 >
@@ -1686,15 +1667,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (17), [[DevOps]] (14), cloud (6), feature (5), [[ITIL]] (4)
+> **Frameworks & Libraries:** [[DevOps]] (14), [[ITIL]] (4), [[Forecasting]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** itil (4), brm (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980)
+#### [Design processes](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,15 +1682,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=17)** Expect a shift in thinking an activity here to accommodate operations for design, from SRE, as well as design for operations.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=25)** Also, build pipelines, continuous integration, infrastructure automation, and self-service and design make many formerly manual design processes automated.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=25)** Also, build pipelines, [[Continuous Integration (CI)|continuous integration]], infrastructure automation, and self-service and design make many formerly manual design processes automated.
 >
 > **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=36)** With a shift left to managing the scripts that generate things over manual steps to validate the things themselves.
 >
-> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=43)** Perhaps the biggest thing to consider at the intersection of design coordination and DevOps is the impact of the SRE role and operations for design on a design process.
+> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=43)** Perhaps the biggest thing to consider at the intersection of design coordination and [[DevOps]] is the impact of the SRE role and operations for design on a design process.
 >
 > **[0:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=54)** Service level management aims to keep pay-the-bills customers satisfied with our services by knowing what services we provide, what they look like then they're done right, including service levels and costs, by making only commitments we consistently keep, and by systematically managing customer expectations and perceptions.
 >
-> **[1:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=71)** With the move to the cloud, the focus shifts from SLAs, OLAs, and underpinning contracts and service level KPIs to service level objectives or SLOs, and designing and managing a good user experience.
+> **[1:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=71)** With the move to the cloud, the focus shifts from SLAs, OLAs, and underpinning contracts and service level KPIs to service level objectives or SLOs, and designing and managing a good [[User Experience (UX)|user experience]].
 >
 > **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=84)** Key DevOps idea is that impact SLM include public status pages, visible op-style change control, and the cloud.
 >
@@ -1718,7 +1698,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=97)** One key thing to do here at the intersection of SLM and DevOps is to get a handle on the instrumentation, telemetry and service analytics cloud platforms provide.
 >
-> **[1:49](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=109)** Availability management aims to ensure the availability of services in normal business operations by designing and managing services to keep them up and running, ensure they go down to get them up quick, within specified service levels and costs.
+> **[1:49](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=109)** Availability management aims to ensure the availability of services in normal [[Business Operations]] by designing and managing services to keep them up and running, ensure they go down to get them up quick, within specified service levels and costs.
 >
 > **[2:03](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=123)** Whereas, availability monitoring might have been optional or limited in Legacy, it is built into the cloud.
 >
@@ -1728,7 +1708,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=156)** Capacity management aims to ensure IT capacity matches business needs at the right time and at the right cost by understanding current business needs and IT capacity and anticipating future business needs and IT capacity requirements and delivering the right resources at the right time and at the right cost.
 >
-> **[2:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=174)** With a move to the cloud and elastic capacity, the biggest impact on capacity management is that the focus shift from forecasting demand and manually scaling capacity to meet demand to demand forecasting, and to monitoring to ensure that at any given moment cloud resources are being utilized and delivering value because of the elastic nature of cloud resources.
+> **[2:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=174)** With a move to the cloud and elastic capacity, the biggest impact on capacity management is that the focus shift from [[Forecasting]] demand and manually scaling capacity to meet demand to demand forecasting, and to monitoring to ensure that at any given moment cloud resources are being utilized and delivering value because of the elastic nature of cloud resources.
 >
 > **[3:14](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=194)** The most important thing to do with the intersection of capacity management and DevOps is to automate, automate, and automate.
 >
@@ -1746,7 +1726,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=251)** If you do nothing else here, make sure you put in place mechanisms to make sure subscription costs do not run out of control and that unused resources are turned down or reclaimed or harvested.
 >
-> **[4:23](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=263)** Information security management aims to align IT security with business security, ensuring information security is effectively managed in all service and service management activities and provides a focus for all IT security issues and activities.
+> **[4:23](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=263)** [[Information Security Management]] aims to align IT security with business security, ensuring information security is effectively managed in all service and service management activities and provides a focus for all IT security issues and activities.
 >
 > **[4:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=278)** With the move to the cloud, the biggest impact on ISM is that it moves from centrally administered to more distributed, using a delegation model.
 >
@@ -1760,7 +1740,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=340)** The one key thing to start to do here is automate, automate, automate on the front end and on the back end of the portal.
 >
-> **[5:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=346)** Think about how you, as an admin, interact with Office 365 or AWS or Azure, and how that has changed over the years, and you'll get a good idea as to where you need to go.
+> **[5:46](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=346)** Think about how you, as an admin, interact with [[Microsoft Office|Office]] 365 or AWS or [[Microsoft Azure|Azure]], and how that has changed over the years, and you'll get a good idea as to where you need to go.
 >
 > **[5:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/design-processes?u=76281980&t=358)** IT service continuity management aims to ensure that, following a business interruption, we can restore the predetermined agreed IT services, when required, to resume business.
 >
@@ -1774,19 +1754,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (18), [[DevOps]] (9), business (9), cloud (8), [[Security]] (6)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Forecasting]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[User Experience (UX)|User experience]] (1), [[Business Operations]] (1)
 > **Env Vars:** sre (4), slm (3), ics (1), ism (1), crm (1)
 > **CLI Commands:** make (3), aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transition processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980)
+#### [Transition processes](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=0)** - [Instructor] Change management aims to minimize the business disruption of change, and ensure we can answer the question what changed.
 >
-> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=7)** The simplest and most effective thing you can do at the intersection of ITIL driven change management and DevOps, is to implement visible ops-style change control.
+> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=7)** The simplest and most effective thing you can do at the intersection of [[ITIL]] driven change management and [[DevOps]], is to implement visible ops-style change control.
 >
 > **[0:16](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=16)** Also, you should expect with DevOps that agility and velocity will tend to trump risks and stability in go/no-go decision about changes.
 >
@@ -1800,7 +1779,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=71)** With release and deployment management, the aim is to ensure releases into production are successful, enable effective use and deliver customer value by defining and agreeing on release and deployment plans with customers and stakeholders.
 >
-> **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=84)** Continuous delivery, infrastructure automation, the cloud and blue-green deployment are the DevOps aspects that have the biggest impact on ITIL-Driven release and deployment processes.
+> **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=84)** [[Continuous Delivery (CD)|Continuous delivery]], infrastructure automation, the cloud and blue-green deployment are the DevOps aspects that have the biggest impact on ITIL-Driven release and deployment processes.
 >
 > **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=95)** Characteristics of release and deployment management in a DevOps mode include de-coupling of promotion or release from a code deployment, a shift from releases tracked and ticketing systems, to releases visible and available in code, automated promotion from dev to test to prod, automated and integrated testing that occurs prior to and after promotion, smaller release packages continuously released on a regular schedule, automation of some or all engineering systems, including backlog, source control, peer review, testing, stage release, for example, staging environments, AB testing, and feedback mechanisms.
 >
@@ -1860,11 +1839,11 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=375)** Also, with smaller, plus faster equals better practices, the typical unit being validated and tested is smaller, and it's happening much more frequently.
 >
-> **[6:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=384)** One of the biggest adjustments here between ITIL-Driven service validation and testing practices and DevOps, is adjusting to working with agile scrum team practices and work pace.
+> **[6:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=384)** One of the biggest adjustments here between ITIL-Driven service validation and testing practices and DevOps, is adjusting to working with [[Agile Development|agile]] [[Scrum]] team practices and work pace.
 >
 > **[6:34](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=394)** One thing you can do here is to make sure that those involved with service validation and testing are familiar with agile and scrum practices.
 >
-> **[6:41](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=401)** Service asset and configuration management aims to ensure a logical model of the IT infrastructure that correlates IT services, assets and IT components needed is defined, controlled, maintained and kept accurate as a source of information for fact-based management of IT services and to comply with corporate governance requirements.
+> **[6:41](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=401)** Service asset and [[Configuration Management]] aims to ensure a logical model of the IT infrastructure that correlates IT services, assets and IT components needed is defined, controlled, maintained and kept accurate as a source of information for fact-based management of IT services and to comply with corporate governance requirements.
 >
 > **[7:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=421)** With DevOps, the center of gravity of configuration management shifts left, towards Dev, to focus on the scripts and templates and pipelines used to build systems, applications, services, in a way for making sure you know the configuration you're managing.
 >
@@ -1872,7 +1851,7 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=439)** When you move from pets to cattle, you already know what things look like.
 >
-> **[7:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=442)** For example, if it's a SQL box, it's either small, medium or large, but other than that, they all look the same, cattle.
+> **[7:22](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=442)** For example, if it's a [[SQL]] box, it's either small, medium or large, but other than that, they all look the same, cattle.
 >
 > **[7:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/transition-processes?u=76281980&t=449)** Immutable deployments further put in the element coffin of shift right approaches and configuration management.
 >
@@ -1888,7 +1867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (19), management (12), [[Automation]] (8), [[ITIL]] (5), business (4)
+> **Frameworks & Libraries:** [[DevOps]] (19), [[ITIL]] (5), [[Configuration Management]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Agile Development|Agile]] (2)
 > **Env Vars:** itil (5), idil (1), sql (1)
 > **Analogies:** for example (5), such as (1)
 > **Definitions:** is a  (2)
@@ -1897,20 +1876,19 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operations processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980)
+#### [Operations processes](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=1)** - [Instructor] Incident management aims to minimize the business disruption of incidents by getting individuals, hands on the keyboard users, and IT services back up and running and restored as quickly as possible.
 >
-> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=11)** Some key differences with incident management in the devops mode include the use of ICS for major incident handling, the treatment of incidents as bugs rather than tickets, the use of coding to eliminate incidents, and the use of automation for fixes built into your system upfront to reduce mean time to repair.
+> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=11)** Some key differences with incident management in the [[DevOps]] mode include the use of ICS for major incident handling, the treatment of incidents as bugs rather than tickets, the use of coding to eliminate incidents, and the use of automation for fixes built into your system upfront to reduce mean time to repair.
 >
-> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=29)** One thing you can do to get started adopting your ITIL-driven incident management processes for devops is to adopt ICS for major incident management.
+> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=29)** One thing you can do to get started adopting your [[ITIL]]-driven incident management processes for devops is to adopt ICS for major incident management.
 >
 > **[0:37](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=37)** This is a no brainer in my book.
 >
-> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=39)** Problem management aims to get to the root cause of problems, the unknown underlying cause of multiple instances of incidents or a single big incident, to be able to know what the top 10 problems are or n problems are, know what we've done to advance them and what we'll do next.
+> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=39)** [[Problem Management]] aims to get to the root cause of problems, the unknown underlying cause of multiple instances of incidents or a single big incident, to be able to know what the top 10 problems are or n problems are, know what we've done to advance them and what we'll do next.
 >
 > **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=56)** SRE is probably the closest devops practice to ITIL-driven problem management.
 >
@@ -1930,7 +1908,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=146)** The biggest impact on ITIL-driven request fulfillment in the devops mode is that how requests get fulfilled just from requesting services manually to self-service and from semi-automated request submission and fulfillment to highly automated submission and fulfillment with limited human intervention.
 >
-> **[2:44](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=164)** Access management aims to grant authorized users rights to use a service while preventing access for non-authorized users, ensuring actions comply with policies and procedures defined in IT security management.
+> **[2:44](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=164)** Access management aims to grant authorized users rights to use a service while preventing access for non-authorized users, ensuring actions comply with policies and procedures defined in IT [[Security Management]].
 >
 > **[2:56](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/operations-processes?u=76281980&t=176)** The biggest change from ITIL-driven access management practices when moving towards a devops mode is that standing access to services and applications and data is eliminated.
 >
@@ -1938,41 +1916,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), [[DevOps]] (10), [[ITIL]] (5), [[Problem Management]] (3), data (3)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[ITIL]] (5), [[Problem Management]] (3), [[Security Management]] (1)
 > **Env Vars:** itil (5), ics (2), sre (1), rca (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSI processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980)
+#### [CSI processes](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=1)** - [Instructor] The seven step improvement process aims to increase IT service provider efficiency, effectiveness and cost effectiveness by continually measuring and improving performance and defining and managing the steps needed to identify, define, gather, process, analyze, present, and implement process, service and infrastructure component improvements.
 >
-> **[0:21](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=21)** The biggest impact on ITIL-driven CSI are in the need to amplify feedback loops between product teams, BRM, strategy, and demand management.
+> **[0:21](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=21)** The biggest impact on [[ITIL]]-driven CSI are in the need to amplify feedback loops between product teams, BRM, strategy, and demand management.
 >
-> **[0:30](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=30)** The integration of Lean and Agile improvement approaches, the new role of the SRE, and the objection of culture with CANS that is very much in tune with ITIL-driven CSI, with an even stronger emphasis on measurement, data-driven decision making, transparency, learning and improvement, and, of course, automation.
+> **[0:30](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=30)** The integration of Lean and [[Agile Development|Agile]] improvement approaches, the new role of the SRE, and the objection of culture with CANS that is very much in tune with ITIL-driven CSI, with an even stronger emphasis on measurement, [[Data-driven Decision Making]], transparency, learning and improvement, and, of course, automation.
 >
 > **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/csi-processes?u=76281980&t=51)** One thing to do here is to make sure the people involved in your CSI processes are trained up in Agile and Lean improvement methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (2), [[Agile Development|Agile]] (2), product (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Agile Development|Agile]] (2), [[Data-driven Decision Making]] (1)
 > **Env Vars:** csi (3), itil (2), brm (1), sre (1), cans (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=1)** - [Instructor] ITIL specifies four functions, four organizational units or departments that must be in place if you're doing service management.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=1)** - [Instructor] [[ITIL]] specifies four functions, four organizational units or departments that must be in place if you're doing service management.
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=8)** These are the service desk, IT operations management, applications management, and, lastly, technical management.
 >
-> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=15)** Let's have a look at the intersection of these four ITIL-driven functions in DevOps.
+> **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=15)** Let's have a look at the intersection of these four ITIL-driven functions in [[DevOps]].
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=20)** It's important to note that in ITIL, these functions are made up not just of people, but also of automation.
 >
@@ -1988,7 +1964,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=58)** It's the concentration point of communication with users and a coordination point for many IT groups and processes.
 >
-> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=65)** Consider Office 365.
+> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=65)** Consider [[Microsoft Office|Office]] 365.
 >
 > **[1:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=68)** There is automation providing self-service in the front end and scripting on the back end providing fulfillment.
 >
@@ -2004,11 +1980,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=107)** In an ITIL-driven shop, the technical management function is the department that owns the technology streams, the infrastructure engineering.
 >
-> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=114)** They own choice of architecture and standards for client and server platforms, hardware, software, and direction for those, both the choice of these streams and futures and strategies and such, as well as upper tier support for those streams in incident management and the like.
+> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=114)** They own choice of architecture and standards for client and server platforms, [[Hardware]], software, and direction for those, both the choice of these streams and futures and strategies and such, as well as upper tier support for those streams in incident management and the like.
 >
 > **[2:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=130)** You may know this as infrastructure engineering.
 >
-> **[2:13](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=133)** DevOps aspects that have a clear large impact on technical management functions include continuous delivery, infrastructure automation, site reliability engineering, the cloud, Chaos Monkey, and the DevOps toolchain.
+> **[2:13](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=133)** DevOps aspects that have a clear large impact on technical management functions include [[Continuous Delivery (CD)|continuous delivery]], infrastructure automation, site reliability engineering, the cloud, Chaos Monkey, and the DevOps toolchain.
 >
 > **[2:27](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=147)** A key thing to know about the technical management function in a DevOps mode is that the technical infrastructure is more code-based.
 >
@@ -2018,7 +1994,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=173)** In ITIL, application management is the function or department that both develops and supports applications through their life cycle.
 >
-> **[3:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=180)** Application management stands in contrast to more traditional application development which is project-oriented and focuses on functional requirements and not operational-oriented and focusing on health models and nonfunctional requirements.
+> **[3:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=180)** Application management stands in contrast to more traditional [[Application Development]] which is project-oriented and focuses on functional requirements and not operational-oriented and focusing on health models and nonfunctional requirements.
 >
 > **[3:13](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/functions?u=76281980&t=193)** You know, the ilities, like availability, capacity, and such that operations concerns itself with.
 >
@@ -2048,7 +2024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (17), [[ITIL]] (11), [[Automation]] (10), [[DevOps]] (9), application (6)
+> **Frameworks & Libraries:** [[ITIL]] (11), [[DevOps]] (9), [[Microsoft Office|Office]] (1), [[Hardware]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** itil (11)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2056,14 +2032,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980)
+#### [Roles](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=1)** - [Instructor] ITIL cites the accountabilities and responsibilities of three process-related roles, process owner, manager, and practitioner, and the service owner role.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=1)** - [Instructor] [[ITIL]] cites the accountabilities and responsibilities of three process-related roles, process owner, manager, and practitioner, and the service owner role.
 >
-> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=11)** I don't want services and processes to be owned to ensure somebody clearly identifiable is making the health of their own processes or services visible to the rest of the organization, someone who could say quantitatively with numbers and qualitatively with feelings what the state of the state is for that process or service, and how we're doing with that process or service.
+> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=11)** I don't want services and processes to be owned to ensure somebody clearly identifiable is making the health of their own processes or services visible to the [[Representational State Transfer (REST)|rest]] of the organization, someone who could say quantitatively with numbers and qualitatively with feelings what the state of the state is for that process or service, and how we're doing with that process or service.
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=32)** This ownership does not replace shared ownership for process and service success across teams.
 >
@@ -2081,11 +2056,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=65)** They're the engineers for example who flatten and rebuild servers based on a change order.
 >
-> **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=70)** In devops, everyone is accountable and responsible for the overall success of the product or service and is committed to fast time to value with quality and continuous improvement.
+> **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=70)** In [[DevOps]], everyone is accountable and responsible for the overall success of the product or service and is committed to fast time to value with quality and continuous improvement.
 >
-> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=80)** So is there still a role for individual accountability and responsibility in devops?
+> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=80)** So is there still a role for individual [[Accountability]] and responsibility in devops?
 >
-> **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=85)** In a word, yes.
+> **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=85)** In a [[Microsoft Word|word]], yes.
 >
 > **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/roles?u=76281980&t=87)** Do you remember the story of the four people named everybody, somebody, anybody, and nobody?
 >
@@ -2143,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (13), [[ITIL]] (6), [[Representational State Transfer (REST)|Rest]] (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (13), [[ITIL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Accountability]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** itil (6), raci (6), soar (1)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (2)
@@ -2152,14 +2127,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Prerequisites:** install (1)
 
-#### Technology and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980)
+#### [Technology and architecture](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=1)** - [Instructor] In ITIL-driven shops, service management technology and architecture is applied to services, for example the service catalog is an example of service automation, as is instrumenting services for measurement and improvement and knowledge capture, and to processes, for example implementing monitoring and control systems for event management or automating the meeting of demand with capacity and capacity management, and to functions, for example a self-service portal is an example of automation applied to the service desk function, or build automation is an example of automation applied to the technical management function.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=1)** - [Instructor] In [[ITIL]]-driven shops, service management technology and architecture is applied to services, for example the service catalog is an example of service automation, as is instrumenting services for measurement and improvement and knowledge capture, and to processes, for example implementing monitoring and control systems for event management or automating the meeting of demand with capacity and capacity management, and to functions, for example a self-service portal is an example of automation applied to the service desk function, or build automation is an example of automation applied to the technical management function.
 >
-> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=36)** With the introduction of devops, all this remains true.
+> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=36)** With the introduction of [[DevOps]], all this remains true.
 >
 > **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=39)** The key here is that with devops, the level of automation is much deeper across services, processes, and functions.
 >
@@ -2177,13 +2151,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=85)** "Would I have even known what to do?"
 >
-> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=88)** ITIL lists a number of areas that could benefit from automation including design and modeling the service catalog, pattern recognition and analysis, classification, prioritization and routing as in a ticketing system, detection and monitoring and optimization.
+> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=88)** ITIL lists a number of areas that could benefit from automation including design and modeling the service catalog, pattern recognition and analysis, classification, prioritization and [[Routing]] as in a ticketing system, detection and monitoring and optimization.
 >
-> **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=105)** Devops adds SCM, database management, build, continuous integration, repo management, testing, deployment, configuration and provisioning, containerization, cloud, IaaS and PaaS, release management, collaboration, business intelligence and monitoring, logging and security to this list.
+> **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=105)** Devops adds SCM, [[Database Management]], build, [[Continuous Integration (CI)|continuous integration]], repo management, testing, deployment, configuration and provisioning, containerization, cloud, [[IaaS]] and [[PaaS]], release management, collaboration, [[Business Intelligence (BI)|business intelligence]] and monitoring, logging and security to this list.
 >
 > **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=128)** As you can see, there's a shift left to dev from ops in this list as it pertains to tools.
 >
-> **[2:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=135)** For a great list of current devops tools, check out XebiaLabs for their periodic table of devops tools and their devops diagram generator.
+> **[2:15](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=135)** For a great list of current [[DevOps Tools]], check out XebiaLabs for their periodic table of devops tools and their devops diagram generator.
 >
 > **[2:24](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/technology-and-architecture?u=76281980&t=144)** Another ITIL technology and architecture concept is that the level of degradation in service quality is proportional to the amount of variation in services and processes.
 >
@@ -2193,7 +2167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[Automation]] (7), [[DevOps]] (7), [[ITIL]] (5), [[DevOps Tools]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[ITIL]] (5), [[DevOps Tools]] (2), [[Routing]] (1), [[Database Management]] (1)
 > **Env Vars:** itil (5), scm (1)
 > **Definitions:** is an  (3)
 > **Analogies:** for example (3)
@@ -2204,21 +2178,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ITIL® 4 and DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/itil-4-and-devops?u=76281980)
+#### [ITIL® 4 and DevOps](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/itil-4-and-devops?u=76281980)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=0)** - [David] And that's it.
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=1)** To learn more about the five DevOps levels, see DevOps Foundations by James Wickett and Ernest Mueller.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=1)** To learn more about the five [[DevOps]] levels, see DevOps Foundations by James Wickett and Ernest Mueller.
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=8)** Also for further reading on DevOps, see the recommendations at the end of that course.
 >
-> **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=12)** And to learn how to apply what you've learned in your ITIL foundation course, check out my course, Applying ITIL Foundations.
+> **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=12)** And to learn how to apply what you've learned in your [[ITIL]] foundation course, check out my course, Applying ITIL Foundations.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=17)** It's fairly unique and I hope you'll find it challenging and thought provoking even if you've been at it for a while.
 >
@@ -2226,7 +2198,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=30)** But I'll call out a couple here because I think they're important.
 >
-> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=33)** For an example of a blameless post mortem meeting agenda, see the section on post implementation reviews in my problem management course.
+> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=33)** For an example of a blameless post mortem meeting agenda, see the section on post implementation reviews in my [[Problem Management]] course.
 >
 > **[0:40](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/next-steps?u=76281980&t=40)** On systems thinking, I recommend anything from Russel Ackoff and nothing beats DevOpsDays as a place to learn from and contribute to a growing group of practitioners.
 >
@@ -2240,7 +2212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (3), [[Problem Management]] (1), cloud (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (3), [[Problem Management]] (1)
 > **Env Vars:** itil (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)

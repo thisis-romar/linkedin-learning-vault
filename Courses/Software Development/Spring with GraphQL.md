@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a GraphQL API with Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980)
+#### [Build a GraphQL API with Spring Boot](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980&t=0)** - [Frank] GraphQL is a powerful way to query and manipulate data through APIs.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980&t=0)** - [Frank] [[GraphQL]] is a powerful way to query and manipulate data through APIs.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980&t=5)** Spring Boot offers an easy path for building a GraphQL endpoint using Java, which for many of us is a natural language choice.
+> **[0:05](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980&t=5)** [[Spring Boot]] offers an easy path for building a GraphQL endpoint using [[Java]], which for many of us is a natural language choice.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980&t=15)** Hi, my name is Frank Moley.
 >
@@ -90,13 +89,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (2), data (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (2), [[Java]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [frank] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=11)** So with that, let's level set.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=13)** This course is a Java based course.
+> **[0:13](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=13)** This course is a [[Java]] based course.
 >
 > **[0:16](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=16)** So let's start there.
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=39)** To be honest, you should be able to just have a very base knowledge of Java, and you should be able to be successful.
 >
-> **[0:47](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=47)** Now, I'm going to be using Maven as a dependency management and build tool, but Gradle is perfectly fine as well, if you feel more comfortable with that.
+> **[0:47](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=47)** Now, I'm going to be using Maven as a [[Dependency Management]] and build tool, but [[Gradle]] is perfectly fine as well, if you feel more comfortable with that.
 >
 > **[0:56](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=56)** We won't really be doing much outside of our IDE.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=77)** But by no means should you go out and buy it just for this course.
 >
-> **[1:22](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=82)** Most modern IDEs that work with Java support plugins for Spring and GraphQL.
+> **[1:22](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=82)** Most modern IDEs that work with Java support plugins for Spring and [[GraphQL]].
 >
 > **[1:28](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=88)** The most important thing is that you know how to use your IDE and you're comfortable with it.
 >
@@ -144,9 +142,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=101)** So you will need some base knowledge of Spring.
 >
-> **[1:44](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=104)** I have many courses in the LinkedIn Learning library on the Spring.
+> **[1:44](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=104)** I have many courses in the [[LinkedIn]] Learning library on the Spring.
 >
-> **[1:49](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=109)** So if you don't know the framework, please take a pause, and go learn it by taking my Learning Spring with Spring Boot course, my Spring Boot Essential Training course, or my Spring: Framework in Depth course.
+> **[1:49](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=109)** So if you don't know the framework, please take a pause, and go learn it by taking my Learning Spring with [[Spring Boot]] course, my Spring Boot Essential Training course, or my Spring: Framework in Depth course.
 >
 > **[2:03](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=123)** We will be using the core framework.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=145)** So if you get the basics of it, that should be sufficient, but you should understand what controllers are.
 >
-> **[2:33](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=153)** We will be using Spring Data, specifically JPA with embedded databases.
+> **[2:33](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=153)** We will be using [[Spring Data]], specifically JPA with embedded [[Databases]].
 >
 > **[2:38](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=158)** Now, many of my courses here on the library talk about using Spring Data with JPA, including Learning Spring with Spring Boot.
 >
@@ -204,13 +202,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=243)** It really doesn't matter how you get a GraphQL playground, just get one.
 >
-> **[4:07](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=247)** If you use Google Chrome, there's some great extensions out there that allow you to run the playground.
+> **[4:07](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=247)** If you use [[Google]] Chrome, there's some great extensions out there that allow you to run the playground.
 >
 > **[4:12](https://www.linkedin.com/learning/spring-with-graphql/what-you-should-know?u=76281980&t=252)** And again, that's what I'm going to use in this course in order to connect to my GraphQL API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), [[Spring Boot]] (7), [[Java]] (5), [[Spring Data]] (3), application (2)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Spring Boot]] (7), [[Java]] (5), [[Spring Data]] (3), [[Dependency Management]] (1)
 > **Env Vars:** ide (3), jpa (3), jdk (2), lts (1), jre (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -223,12 +221,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980)
+#### [The power of GraphQL](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=0)** - [Instructor] GraphQL is considered by many to be the most logical way to build an API that is consumed by both JavaScript applications as well as mobile applications.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=0)** - [Instructor] [[GraphQL]] is considered by many to be the most logical way to build an API that is consumed by both [[JavaScript]] applications as well as mobile applications.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=13)** We should start with the very basics here, and talk about what GraphQL is.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=49)** Most importantly, is that it is a runtime for answering the queries.
 >
-> **[0:54](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=54)** GraphQL not only is the API and the language to query it, but it also provides a running mechanism to fetch and serve data.
+> **[0:54](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=54)** GraphQL not only is the API and the language to query it, but it also provides a running mechanism to [[Fetch]] and serve data.
 >
 > **[1:05](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=65)** Now, one of the coolest aspects of GraphQL is that due to its graph nature and how the query works, you can ask the API for exactly what you want and structure it how you want it and then you will be rewarded with the data, exactly how you need it, whether you traverse the graph or request a single type.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=103)** With that single request, you can get the resource, all resources, or a selection of resources.
 >
-> **[1:51](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=111)** To do this with REST, you would need at least two APIs, most likely many more.
+> **[1:51](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=111)** To do this with [[Representational State Transfer (REST)|REST]], you would need at least two APIs, most likely many more.
 >
 > **[1:57](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=117)** In addition to control of which resource you get and how many instances you get, you can filter the payload of the response to only return the fields that you need.
 >
@@ -282,26 +279,25 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=219)** We leveraged schemas and registries to handle different versions, but we still have one instance of our GraphQL server.
 >
-> **[3:48](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=228)** Now we're going to talk about the how to in this course, specifically for Java developers using Spring, but there are a lot of other implementations, things like Go, JavaScript, and others that you can use to implement GraphQL servers.
+> **[3:48](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=228)** Now we're going to talk about the how to in this course, specifically for [[Java]] developers using Spring, but there are a lot of other implementations, things like Go, JavaScript, and others that you can use to implement GraphQL servers.
 >
 > **[4:03](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980&t=243)** Again, in this course, we're going to focus on Java and use Spring as our native runtime.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (13), api (8), [[Representational State Transfer (REST)|Rest]] (6), data (4), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (13), [[Representational State Transfer (REST)|Rest]] (6), [[JavaScript]] (2), [[Java]] (2), [[Fetch]] (1)
 > **Env Vars:** api (8), rest (6), url (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### GraphQL in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980)
+#### [GraphQL in Java](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=0)** - [Instructor] While many people immediately think of Node.js for GraphQL implementations, as previously stated, there are many languages that support GraphQL itself.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=0)** - [Instructor] While many people immediately think of [[Node.js]] for [[GraphQL]] implementations, as previously stated, there are many languages that support GraphQL itself.
 >
-> **[0:10](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=10)** We're going to talk about Java's, and then jump into Spring's wrap around that.
+> **[0:10](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=10)** We're going to talk about [[Java]]'s, and then jump into Spring's wrap around that.
 >
 > **[0:16](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=16)** GraphQL Java is a pure Java implementation of GraphQL that is independently maintained.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=32)** It is covered by the very flexible MIT license.
 >
-> **[0:36](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=36)** And they use GitHub discussions for all active issues, as well as questions, and they also leverage Twitter and do respond on Stack Overflow.
+> **[0:36](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=36)** And they use [[GitHub]] discussions for all active issues, as well as questions, and they also leverage Twitter and do respond on Stack Overflow.
 >
 > **[0:46](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=46)** So again, you're getting the full breadth of an open source software project.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=76)** It's a core library, not the exposing of it but you most definitely can use it with any framework or core libraries exposing HTTP.
 >
-> **[1:26](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=86)** The team that maintains this worked with Spring itself to create an official supported version of Spring Boot integration.
+> **[1:26](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=86)** The team that maintains this worked with Spring itself to create an official supported version of [[Spring Boot]] integration.
 >
 > **[1:36](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=96)** There are other abstractions available, including from companies like Netflix, but we're going to focus on the one that is maintained by Spring source in collaboration with the GraphQL Java team.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=120)** GraphQL leverages these MVC-like patterns of controllers to handle the exposing of queries and mutations.
 >
-> **[2:09](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=129)** In addition, you can leverage Spring Data GraphQL repositories as opposed to just standard repositories if you want to simply expose CRUD operations through an MVC portal.
+> **[2:09](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=129)** In addition, you can leverage [[Spring Data]] GraphQL repositories as opposed to just standard repositories if you want to simply expose CRUD operations through an MVC portal.
 >
 > **[2:23](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=143)** We're not going to do that in this course but I did want to let you know that it is possible to simply write a Spring Data repository and expose it as a GraphQL interface.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=167)** We're going to leave everything else alone because we don't need to, and in most cases, you won't need to either.
 >
-> **[2:54](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=174)** We're going to rely on a static schema definition, and this is really good practice, whether you're writing REST or GraphQL or SOAP, I'm a big fan of contract-first development, and with GraphQL, the schema is the contract.
+> **[2:54](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=174)** We're going to rely on a static schema definition, and this is really good practice, whether you're writing [[Representational State Transfer (REST)|REST]] or GraphQL or SOAP, I'm a big fan of contract-first development, and with GraphQL, the schema is the contract.
 >
 > **[3:10](https://www.linkedin.com/learning/spring-with-graphql/graphql-in-java?u=76281980&t=190)** So we can leverage that and build a static schema and load it automatically through the starter so that we get that contract-first development practice.
 
@@ -358,12 +354,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Best Practices:** good practice (1)
 
-#### GraphQL terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980)
+#### [GraphQL terminology](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=0)** - [Instructor] Since I assume that you are stronger in Java and Spring than GraphQL, I want to focus a bit on the terms used for GraphQL that may be exposed in this course.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=0)** - [Instructor] Since I assume that you are stronger in [[Java]] and Spring than [[GraphQL]], I want to focus a bit on the terms used for GraphQL that may be exposed in this course.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=11)** The most used aspect of GraphQL, at least in my opinion, comes from queries and mutations flows.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=134)** The type system is how we go about defining all of these objects and we do so in a structured way.
 >
-> **[2:21](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=141)** It sort of looks similar to JSON but it's not JSON.
+> **[2:21](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=141)** It sort of looks similar to [[JSON]] but it's not JSON.
 >
 > **[2:25](https://www.linkedin.com/learning/spring-with-graphql/graphql-terminology?u=76281980&t=145)** And there's an entire type structure that must be defined because GraphQL is type-safe.
 >
@@ -451,18 +446,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (12), data (11), [[Java]] (3), [[JSON]] (2), oop (1)
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[Java]] (3), [[JSON]] (2)
 > **Analogies:** imagine (2), similar to (1), just like (1)
 > **Env Vars:** json (2), oop (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### GraphQL schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980)
+#### [GraphQL schemas](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=0)** - [Instructor] Now we're going to actually go through the process of building a GraphQL schema as part of this course.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=0)** - [Instructor] Now we're going to actually go through the process of building a [[GraphQL]] schema as part of this course.
 >
 > **[0:05](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=5)** But one of the benefits of GraphQL being so popular is that there are several free and available schemas.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=140)** Now, through this course, we're going to use a GraphQL playground.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=143)** We can get one for default with Spring Boot, but I don't like the way that it looks as opposed to playground.
+> **[2:23](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=143)** We can get one for default with [[Spring Boot]], but I don't like the way that it looks as opposed to playground.
 >
 > **[2:30](https://www.linkedin.com/learning/spring-with-graphql/graphql-schemas?u=76281980&t=150)** So I'm going to use playground throughout this but in the next video, we're going to take you through the playground and let you see how to actually implement it and work with it and play with your queries and mutations.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[GraphQL]] (6), [[Spring Boot]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Spring Boot]] (1)
 > **Env Vars:** api (7), url (1), sdl (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (2)
@@ -530,12 +524,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980)
+#### [Using the playground](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=0)** - [Trevor] One of the most powerful tools for GraphQL, especially while you're developing, or inspecting an API is the GraphQL Playground.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=0)** - [Trevor] One of the most powerful tools for [[GraphQL]], especially while you're developing, or inspecting an API is the GraphQL Playground.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=9)** Now, as I mentioned in the prerequisite video there are several ways to get to a playground.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=214)** So the API has structured itself such that this is okay.
 >
-> **[3:38](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=218)** With rest we would get a 404.
+> **[3:38](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=218)** With [[Representational State Transfer (REST)|rest]] we would get a 404.
 >
 > **[3:40](https://www.linkedin.com/learning/spring-with-graphql/using-the-playground?u=76281980&t=220)** It said, this is okay, you just passed in data that didn't exist.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[GraphQL]] (6), hit (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (9), url (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [https://countries.trevorblades.com](https://countries.trevorblades.com) (1), [trevorblades.com](https://trevorblades.com) (1)
@@ -657,16 +650,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980)
+#### [Setting up the project](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=0)** - [Frank] So now, it's time to get into the real content of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=3)** And that's building an application with Spring that exposes a GraphQL API.
+> **[0:03](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=3)** And that's building an application with Spring that exposes a [[GraphQL]] API.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=8)** And to do that, we need to start by building a Spring Boot app.
+> **[0:08](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=8)** And to do that, we need to start by building a [[Spring Boot]] app.
 >
 > **[0:12](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=12)** Now there's multiple ways to do this.
 >
@@ -684,9 +676,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=39)** So we're going to choose a Maven project.
 >
-> **[0:41](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=41)** Again, if you're using Gradle, that's perfectly fine.
+> **[0:41](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=41)** Again, if you're using [[Gradle]], that's perfectly fine.
 >
-> **[0:44](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=44)** We are going to use Java.
+> **[0:44](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=44)** We are going to use [[Java]].
 >
 > **[0:46](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=46)** Now, I'm going to select a snapshot version, because as of right now, this has not been formally released.
 >
@@ -696,7 +688,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=61)** I'm going to fill in a group.
 >
-> **[1:02](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=62)** And for me, it's com.frankmoley.lil, for LinkedIn Learning.
+> **[1:02](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=62)** And for me, it's com.frankmoley.lil, for [[LinkedIn]] Learning.
 >
 > **[1:08](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=68)** We are going to call this hplus.
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=95)** Now, we're going to go choose GraphQL itself.
 >
-> **[1:39](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=99)** And now, we will pick JPA, so Spring Data JPA.
+> **[1:39](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=99)** And now, we will pick JPA, so [[Spring Data]] JPA.
 >
 > **[1:45](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980&t=105)** We will need an embedded database.
 >
@@ -806,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[GraphQL]] (6), [[Spring Boot]] (4), [[Java]] (3), data (2)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Spring Boot]] (4), [[Java]] (3), [[Gradle]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ide (2), jpa (2), zip (2), api (1), jar (1)
 > **CLI Commands:** unzip (2), make (2)
 > **Versions:** 2.7.0 (2), java 17 (1)
@@ -815,14 +807,13 @@ created: 2026-05-02
 > **URLs:** [spring.io](https://spring.io) (2)
 > **UI Navigation:** go to (1), navigate to (1)
 
-#### Creating the schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980)
+#### [Creating the schema](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=0)** - [Instructor] As with any good web service API, the best thing to do is to start with your schema.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=8)** I've gone on records on that many times, that schema-first development is the way to go, and with GraphQL, it's the best way with Spring Boot to do this.
+> **[0:08](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=8)** I've gone on records on that many times, that schema-first development is the way to go, and with [[GraphQL]], it's the best way with [[Spring Boot]] to do this.
 >
 > **[0:16](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=16)** So let's go ahead and jump in and start creating our first schema.
 >
@@ -854,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=115)** Now, if you pulled from the exercise files, you'll notice I gave you a data folder.
 >
-> **[1:59](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=119)** In that data folder is a schema.sql, and we're going to mimic what we see on the customers table in order to do this.
+> **[1:59](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=119)** In that data folder is a schema.[[SQL]], and we're going to mimic what we see on the customers table in order to do this.
 >
 > **[2:08](https://www.linkedin.com/learning/spring-with-graphql/creating-the-schema?u=76281980&t=128)** So you'll see, we got first name, last name, email, phone, address, et cetera, et cetera.
 >
@@ -888,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (3), data (3), application (2), web (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Spring Boot]] (3), [[SQL]] (1)
 > **Code Identifiers:** customerbyid (2), customerbyemail (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -897,20 +888,19 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Creating a Spring Data repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980)
+#### [Creating a Spring Data repository](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=0)** - [Instructor] Now you can back a GraphQL service with any data source.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=0)** - [Instructor] Now you can back a [[GraphQL]] service with any data source.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=5)** You could call REST services.
+> **[0:05](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=5)** You could call [[Representational State Transfer (REST)|REST]] services.
 >
-> **[0:07](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=7)** And it's something that I encourage you to do, which is use Spring RestTemplate as a data source so that you can expose a GraphQL layer for your microservices architecture.
+> **[0:07](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=7)** And it's something that I encourage you to do, which is use Spring RestTemplate as a data source so that you can expose a GraphQL layer for your [[Microservices]] architecture.
 >
 > **[0:17](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=17)** But in this case, we're going to go directly to the database.
 >
-> **[0:20](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=20)** So we're going to use Spring Data to be our data provider using a built-in in-memory database.
+> **[0:20](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=20)** So we're going to use [[Spring Data]] to be our data provider using a built-in in-memory database.
 >
 > **[0:27](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=27)** Obviously, in the real world, you would back this with a real database.
 >
@@ -920,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=37)** So the first thing that I want you to do is I want you to open up source, main, resources.
 >
-> **[0:42](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=42)** And I want you to copy from the data directory that I provided in the exercise files the data dot sql and the schema dot sql.
+> **[0:42](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=42)** And I want you to copy from the data directory that I provided in the exercise files the data dot [[SQL]] and the schema dot sql.
 >
 > **[0:52](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=52)** And I want you to paste those right into resources.
 >
@@ -944,7 +934,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=110)** and we'll create a new package called data.
 >
-> **[1:53](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=113)** And within data, we are going to create a new Java class, and this will be called Customer.
+> **[1:53](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=113)** And within data, we are going to create a new [[Java]] class, and this will be called Customer.
 >
 > **[1:59](https://www.linkedin.com/learning/spring-with-graphql/creating-a-spring-data-repository?u=76281980&t=119)** All right. Now, our Customer will be an entity, and this is from javax dot persistence.
 >
@@ -1024,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (7), database (6), [[Spring Data]] (4), [[GraphQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Spring Data]] (4), [[GraphQL]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Microservices]] (1)
 > **Env Vars:** ddl (3), jpa (3), ide (2), customer (2), rest (1)
 > **Code Identifiers:** generatedvalue (1), firstname (1), findcustomerbyemail (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -1033,28 +1023,27 @@ created: 2026-05-02
 > **SQL:** create table (1)
 > **Definitions:** is a  (1)
 
-#### Creating the GraphQL controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980)
+#### [Creating the GraphQL controller](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=0)** - [Instructor] So now it's time to give GraphQL some actual exposure.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=0)** - [Instructor] So now it's time to give [[GraphQL]] some actual exposure.
 >
 > **[0:05](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=5)** We're going to build the controller so we can now wire it to the data and expose it to the GraphQL playground.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=12)** So back in your IDE, go to source, main, Java, in the base package I want you to create a new package and we'll call this controller.
+> **[0:12](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=12)** So back in your IDE, go to source, main, [[Java]], in the base package I want you to create a new package and we'll call this controller.
 >
 > **[0:25](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=25)** Now in here we will create a new Java class called CustomerController.
 >
 > **[0:32](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=32)** So the first thing that we're going to do is we're going to annotate this with @Controller.
 >
-> **[0:36](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=36)** This will allow Spring Boot to load this automatically, so the definitions we're providing is all we're going to actually have to do to get GraphQL up and running.
+> **[0:36](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=36)** This will allow [[Spring Boot]] to load this automatically, so the definitions we're providing is all we're going to actually have to do to get GraphQL up and running.
 >
 > **[0:46](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=46)** We need to have an instance in here of our customer repository and because we are going to do injection properly as a constructor parameter, we will add it to a constructor.
 >
 > **[1:01](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=61)** There is no need to auto wire this, this is the only constructor now on this class, it will automatically get called based on the system rules itself.
 >
-> **[1:12](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=72)** So if you've ever done Spring MVC, you will know that we often put request mapping, such as GetMapping or PostMapping on the methods that are going to be used to expose rest to the outside world.
+> **[1:12](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=72)** So if you've ever done Spring MVC, you will know that we often put request mapping, such as GetMapping or PostMapping on the methods that are going to be used to expose [[Representational State Transfer (REST)|rest]] to the outside world.
 >
 > **[1:25](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=85)** It's very, very similar with GraphQL.
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=243)** Before we go to the GraphQL playground I want you to take a look at a few things in here.
 >
-> **[4:08](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=248)** So you'll see that we have Spring Data mentioned here on the third and fourth lines and that's because it's loaded Spring Data.
+> **[4:08](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=248)** So you'll see that we have [[Spring Data]] mentioned here on the third and fourth lines and that's because it's loaded Spring Data.
 >
 > **[4:14](https://www.linkedin.com/learning/spring-with-graphql/creating-the-graphql-controller?u=76281980&t=254)** So we now have an in-memory database from H2 running and that data has been loaded.
 >
@@ -1140,7 +1129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (12), data (6), [[Spring Boot]] (4), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[Spring Boot]] (4), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Data]] (2)
 > **Code Identifiers:** customerrepository (3), customerbyemail (3), customerbyid (2), findall (1), findbyid (1)
 > **Env Vars:** ide (2), mvc (1), http (1), pojo (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1149,12 +1138,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Analogies:** such as (1)
 
-#### Mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980)
+#### [Mutations](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=0)** - [Instructor] That was very easy to get a GraphQL server up and running.
+> **[0:00](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=0)** - [Instructor] That was very easy to get a [[GraphQL]] server up and running.
 >
 > **[0:04](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=4)** We did it in about 15 minutes.
 >
@@ -1192,7 +1180,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=84)** And that will yield for us a Customer.
 >
-> **[1:28](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=88)** So now we need to go back to our controller and source, main, java, controller, CustomerController.
+> **[1:28](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=88)** So now we need to go back to our controller and source, main, [[Java]], controller, CustomerController.
 >
 > **[1:36](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=96)** And let us go to the very bottom.
 >
@@ -1224,7 +1212,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=168)** So let's just take this right here.
 >
-> **[2:52](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=172)** And once again, we will add some comments, so we've got a heads-up, and it will be very simply private String firstName and through the rest of the list.
+> **[2:52](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=172)** And once again, we will add some comments, so we've got a heads-up, and it will be very simply private String firstName and through the [[Representational State Transfer (REST)|rest]] of the list.
 >
 > **[3:06](https://www.linkedin.com/learning/spring-with-graphql/mutations?u=76281980&t=186)** All right, now that we've got those fields typed, let's go ahead and get rid of this comment.
 >
@@ -1288,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (3), next (3), data (2), database (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** addcustomer (4), customerinput (2), getcustomerentity (2), firstname (1)
 > **CLI Commands:** make (2), go build (1)
 > **Cross-References:** go back to (1), next video (1)
@@ -1297,8 +1285,7 @@ created: 2026-05-02
 > **Env Vars:** pojo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980)
+#### [Errors](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=20)** Just as a quick reminder, this was the internal error that we got when we tried to duplicate adding our entry.
 >
-> **[0:27](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=27)** So what I want you to do is to open up source main Java and go to our controller and let's add another new class in here.
+> **[0:27](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=27)** So what I want you to do is to open up source main [[Java]] and go to our controller and let's add another new class in here.
 >
 > **[0:36](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=36)** And we are going to call this one HPlusEexceptionHandler.
 >
@@ -1320,7 +1307,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=61)** And we are going to override a method.
 >
-> **[1:04](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=64)** Now with GraphQL, you can return multiple errors and you'll see that we have a resolved multiple errors method that we can override.
+> **[1:04](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=64)** Now with [[GraphQL]], you can return multiple errors and you'll see that we have a resolved multiple errors method that we can override.
 >
 > **[1:12](https://www.linkedin.com/learning/spring-with-graphql/errors?u=76281980&t=72)** But what we're going to do for the purposes of this course is just do our resolve to single error.
 >
@@ -1388,21 +1375,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[GraphQL]] (3), application (2), [[Java]] (1), database (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[Java]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Env Vars:** env (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Extending the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980)
+#### [Challenge: Extending the API](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=0)** - [Instructor] So now it's time for you to take what you've learned and extend the API.
 >
-> **[0:11](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=11)** If you look at the schema.sql file and the data.sql file, I provided you several tables, and in those tables, there is data for each and every one of them.
+> **[0:11](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=11)** If you look at the schema.[[SQL]] file and the data.sql file, I provided you several tables, and in those tables, there is data for each and every one of them.
 >
 > **[0:22](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=22)** I'm going to encourage you to implement as many of them as you want.
 >
@@ -1412,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=33)** You've got several options, do one of them, or do all of them, leverage JPA joints where possible.
 >
-> **[0:40](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=40)** If you do that, GraphQL will wire those elements properly and you will get the data back with less traversing the database itself.
+> **[0:40](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=40)** If you do that, [[GraphQL]] will wire those elements properly and you will get the data back with less traversing the database itself.
 >
 > **[0:50](https://www.linkedin.com/learning/spring-with-graphql/challenge-extending-the-api?u=76281980&t=50)** Utilize the schema.sql file to guide you.
 >
@@ -1432,14 +1418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (3), api (1), [[GraphQL]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[GraphQL]] (1)
 > **File Paths:** schema.sql (2), data.sql (1)
 > **Env Vars:** api (1), jpa (1), sql (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Extending the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980)
+#### [Solution: Extending the API](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1491,15 +1476,15 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=113)** I also created controllers for order a product and salesperson, because all of those have queries in the schema.
 >
-> **[2:00](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=120)** Now, if I go ahead and restart my application, and let it come up, I can jump into the GraphQL Playground and let's start with the products query.
+> **[2:00](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=120)** Now, if I go ahead and restart my application, and let it come up, I can jump into the [[GraphQL]] Playground and let's start with the [[Microsoft Products|products]] query.
 >
 > **[2:11](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=131)** So if I do a query on products, you'll see that I return all of the elements.
 >
 > **[2:16](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=136)** Now, one thing that I want to note I'm going to jump back to the ID here.
 >
-> **[2:21](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=141)** So on the product, you will see that we have an element that in the databases numeric, we turned it into a big decimal as is appropriate on an entity, but what you'll find if you look at the schema for this, it's a float.
+> **[2:21](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=141)** So on the product, you will see that we have an element that in the [[Databases]] numeric, we turned it into a big decimal as is appropriate on an entity, but what you'll find if you look at the schema for this, it's a float.
 >
-> **[2:39](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=159)** Now if you remember, I talked about the fact that there were scalers that were specific for Java and this is one of them.
+> **[2:39](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=159)** Now if you remember, I talked about the fact that there were scalers that were specific for [[Java]] and this is one of them.
 >
 > **[2:45](https://www.linkedin.com/learning/spring-with-graphql/solution-extending-the-api?u=76281980&t=165)** There is a mapper that will take a big decimal and turn it into a float.
 >
@@ -1535,7 +1520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (7), database (4), [[GraphQL]] (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Microsoft Products|Products]] (2), [[Java]] (2), [[Databases]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1), ide (1)
 > **Definitions:** is a  (2)
@@ -1547,8 +1532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,13 +1542,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=10)** Let's start off with a quick review.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=13)** So we've learned a little bit about GraphQL and we've implemented a simple schema for GraphQL, using Spring Boot as the runtime.
+> **[0:13](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=13)** So we've learned a little bit about [[GraphQL]] and we've implemented a simple schema for GraphQL, using [[Spring Boot]] as the runtime.
 >
 > **[0:22](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=22)** We leveraged JPA to pull data.
 >
 > **[0:24](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=24)** Now, this is a very important thing I want to talk about because your data source may not always be a database.
 >
-> **[0:30](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=30)** It could be a REST service.
+> **[0:30](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=30)** It could be a [[Representational State Transfer (REST)|REST]] service.
 >
 > **[0:33](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=33)** It could be many other things, including a GraphQL service, if you wanted to do some sort of a translation.
 >
@@ -1572,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=45)** An important note about that GraphQL.
 >
-> **[0:47](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=47)** There is a GraphQL client contained within Java GraphQL.
+> **[0:47](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=47)** There is a GraphQL client contained within [[Java]] GraphQL.
 >
 > **[0:52](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=52)** It's not something I talked about because it's not very common that you would translate from one GraphQL to another.
 >
@@ -1600,11 +1584,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=113)** Using REST template is super simple and it will give you the ability to do it in a way that is probably more natural to people where they're building an application that's culling REST services.
 >
-> **[2:06](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=126)** Add a JavaScript front end.
+> **[2:06](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=126)** Add a [[JavaScript]] front end.
 >
 > **[2:08](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=128)** It makes sense. You've already got the web package.
 >
-> **[2:10](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=130)** You can expose a static HTML page that contains your JavaScript and then you can leverage GraphQL.
+> **[2:10](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=130)** You can expose a static [[HTML]] page that contains your JavaScript and then you can leverage GraphQL.
 >
 > **[2:17](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=137)** That's what you would do in a full stack application with Java.
 >
@@ -1620,11 +1604,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=166)** I want to start by saying that my commitment to you does not end when this course ends.
 >
-> **[2:52](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=172)** You'll find me very active on the Q and A section in LinkedIn Learning for each of my courses.
+> **[2:52](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=172)** You'll find me very active on the Q and A section in [[LinkedIn]] Learning for each of my courses.
 >
 > **[2:58](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=178)** I respond to messages on Twitter, StackOverflow.
 >
-> **[3:02](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=182)** My GitHub is always active.
+> **[3:02](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=182)** My [[GitHub]] is always active.
 >
 > **[3:04](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980&t=184)** You can always reach out to me with questions about this course or any of my courses in the library.
 >
@@ -1658,7 +1642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (13), data (6), [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (3), application (3)
+> **Frameworks & Libraries:** [[GraphQL]] (13), [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (3), [[GitHub]] (3), [[JavaScript]] (2)
 > **Env Vars:** rest (4), jpa (2), mvc (1), html (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)

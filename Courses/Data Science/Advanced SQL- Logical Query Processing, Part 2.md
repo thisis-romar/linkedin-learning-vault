@@ -77,14 +77,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980&t=1)** (upbeat uplifting music)
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980&t=14)** - [Instructor] I recently published a course titled "Advanced SQL Logical Query Processing."
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980&t=14)** - [Instructor] I recently published a course titled "Advanced [[SQL]] Logical Query Processing."
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980&t=21)** You liked this course so much that you've been asking me in the Q and A section, in the feedback and in personal messages for more.
 >
@@ -122,8 +121,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agenda
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980)
+#### [Agenda](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=21)** I'll give you three guesses what will be in our first chapter?
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=26)** You got it. Subqueries are the epitome of SQL composability.
+> **[0:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=26)** You got it. Subqueries are the epitome of [[SQL]] composability.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=32)** We will learn about scalar row and table expression subqueries and I'll show you a neat trick that'll help you remember how correlations work.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=92)** Ordered set functions are standard aggregate functions with a twist.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=98)** Their main use is for statistical analysis.
+> **[1:38](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=98)** Their main use is for [[Statistical Analysis]].
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/agenda?u=76281980&t=101)** So they may not appeal to the less stats-savvy among you.
 >
@@ -183,12 +181,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), feature (2), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Statistical Analysis]] (1)
 > **Env Vars:** sql (3), ansi (1)
 > **Speakers:** - [ami] (1)
 
-#### Setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980)
+#### [Setting expectations](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,13 +195,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=20)** I'm not going to repeat the materials from part one.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=24)** And this also includes the introductory chapters about the terminology, the demo database, using the code files, the GitHub repo and DB fiddle.
+> **[0:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=24)** And this also includes the introductory chapters about the terminology, the demo database, using the code files, the [[GitHub]] repo and DB fiddle.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=33)** But we must keep things interesting, so there are a few exceptions.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=39)** First, I'm going to use my new favorite IDE, Microsoft's open source, Azure Data Studio.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=39)** First, I'm going to use my new favorite IDE, [[Microsoft]]'s open source, [[Microsoft Azure|Azure]] Data Studio.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=47)** I like that it has a minimalist user interface and that it supports both SQL Server and Postgres so I can show you the differences easily side by side.
+> **[0:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=47)** I like that it has a minimalist user interface and that it supports both [[Microsoft SQL Server|SQL Server]] and [[PostgreSQL|Postgres]] so I can show you the differences easily side by side.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=56)** It's an awesome tool, give it a try.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=136)** In previous courses, I've used the term common table expressions or CTE.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=143)** I recently had the pleasure of reading the ANSI SQL standard for this feature, and was surprised to learn that the term that I've been using all these years simply isn't correct.
+> **[2:23](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=143)** I recently had the pleasure of reading the ANSI [[SQL]] standard for this feature, and was surprised to learn that the term that I've been using all these years simply isn't correct.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=155)** Although SQL Server, Postgres, and a few major vendors use it, the correct term according to the standard is the with clause.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL|Postgres]] (2), database (1), [[GitHub]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL|Postgres]] (2), [[GitHub]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (3), ide (1), cte (1), ansi (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -261,8 +258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980)
+#### [Subqueries](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=133)** It stands by itself and returns the same result for all rows of the outer query.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=140)** Although average foot will be returned for each row of Foobar, most databases will execute it just once and use the result for all rows to improve performance.
+> **[2:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=140)** Although average foot will be returned for each row of Foobar, most [[Databases]] will execute it just once and use the result for all rows to improve performance.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=153)** But once per row or once per statement, it doesn't really matter.
 >
@@ -456,7 +452,7 @@ created: 2026-05-02
 >
 > **[11:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=673)** The reason I use nulls is mostly historical.
 >
-> **[11:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=678)** Back in the days when SQL server was still Sybase, this actually had a performance impact, as the expressions were evaluated by the database, even though they weren't going anywhere.
+> **[11:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=678)** Back in the days when [[Microsoft SQL Server|SQL server]] was still Sybase, this actually had a performance impact, as the expressions were evaluated by the database, even though they weren't going anywhere.
 >
 > **[11:30](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980&t=690)** It also serves as a visual indicator that the subquery is part of an exists.
 >
@@ -464,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Databases]] (2), next (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (5), make (2), cat (1)
 > **Definitions:** is a  (4), is an  (2), is called (2)
 > **Analogies:** such as (1), for example (1)
@@ -472,12 +468,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [tutor] (1)
 
-#### Set operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980)
+#### [Set operators](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=1)** - [Instructor] You've heard me often complain about features of SQL that are being abused.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=1)** - [Instructor] You've heard me often complain about features of [[SQL]] that are being abused.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=6)** Set operators are on the opposite side.
 >
@@ -563,7 +558,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=289)** And the minimum of two and three in this case is still two.
 >
-> **[4:53](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=293)** The only databases that I know of that currently support INTERSECT ALL are PostgreSQL and MariaDB.
+> **[4:53](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=293)** The only [[Databases]] that I know of that currently support INTERSECT ALL are [[PostgreSQL]] and MariaDB.
 >
 > **[5:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=301)** So if you're not using either of these, don't worry about it, you only have INTERSECT DISTINCT.
 >
@@ -619,7 +614,7 @@ created: 2026-05-02
 >
 > **[8:28](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=508)** The relational operator that corresponds to this request is called an anti-join.
 >
-> **[8:34](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=514)** SQL Server documentation wrongly calls it an Anti-semi join, and they invented a term that doesn't exist in relational algebra.
+> **[8:34](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=514)** [[Microsoft SQL Server|SQL Server]] documentation wrongly calls it an Anti-semi join, and they invented a term that doesn't exist in relational algebra.
 >
 > **[8:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/set-operators?u=76281980&t=525)** It's a hybrid between an anti-join and a semi-join.
 >
@@ -673,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (3), data (2), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (3), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** except (14), intersect (11), distinct (11), union (10), sql (9)
 > **Definitions:** means that (3), is a  (3), is called (1)
 > **SQL:** select (3), join (1)
@@ -682,8 +677,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge-3?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,13 +723,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** cat (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=160)** The not in techniques suffers from a slightly different issue.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=165)** And I'm going to use the postgres version and use the row constructor just to keep it shorter.
+> **[2:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=165)** And I'm going to use the [[PostgreSQL|postgres]] version and use the row constructor just to keep it shorter.
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=172)** I'll replace name with breed and execute.
 >
@@ -865,7 +857,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=369)** And this may sound counterintuitive at first, but if you think about it for a while, it does make sense.
 >
-> **[6:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=376)** For example, the answer to the question, is John not one of the persons who are in an empty room is yes.
+> **[6:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=376)** For example, the answer to the question, is [[John the Ripper|John]] not one of the persons who are in an empty room is yes.
 >
 > **[6:27](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=387)** John is not one of these persons.
 >
@@ -903,7 +895,7 @@ created: 2026-05-02
 >
 > **[8:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=494)** Simple, concise, efficient and crystal clear.
 >
-> **[8:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=498)** It's SQL at its best.
+> **[8:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=498)** It's [[SQL]] at its best.
 >
 > **[8:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution?u=76281980&t=501)** For the adventurous among you, I have included another solution to this challenge at the bottom of the code file.
 >
@@ -919,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** go back to (1)
@@ -932,8 +924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Self and inequality joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980)
+#### [Self and inequality joins](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980&t=64)** Practically every book and every article on joins has one.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980&t=70)** There are other techniques, such as enumerated paths and nested sets that can also be used to represent graphs and SQL.
+> **[1:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980&t=70)** There are other techniques, such as enumerated paths and nested sets that can also be used to represent graphs and [[SQL]].
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980&t=79)** Let me know in the Q and A section, if you would like to see a course about them, they're really cool.
 >
@@ -1107,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (4), cat (4), make (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** scroll down (1)
@@ -1115,8 +1106,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Lateral joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980)
+#### [Lateral joins](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,9 +1182,9 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=205)** But there was a way around it.
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=208)** The ANSI SQL 99 introduced a feature called lateral derived tables.
+> **[3:28](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=208)** The ANSI [[SQL]] 99 introduced a feature called lateral derived tables.
 >
-> **[3:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=215)** PostgreSQL, partially support it, SQL I doesn't.
+> **[3:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=215)** [[PostgreSQL]], partially support it, SQL I doesn't.
 >
 > **[3:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=219)** Oracle and my SQL do.
 >
@@ -1202,7 +1192,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=230)** And they called it cross apply and outer apply.
 >
-> **[3:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=234)** We'll get back to SQL server shortly.
+> **[3:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=234)** We'll get back to [[Microsoft SQL Server|SQL server]] shortly.
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/lateral-joins?u=76281980&t=236)** but let's start with PostgreSQL.
 >
@@ -1260,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL]] (3), [[Microsoft SQL Server|Sql server]] (3), feature (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL]] (3), [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (7), ansi (1)
 > **Definitions:** is an  (1), known as (1), means that (1)
 > **Analogies:** similar to (2)
@@ -1268,8 +1258,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980&t=28)** Candidates should be male and female of the same species and breed and you may use any database that you wish.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980&t=36)** In the next video I'll review my suggested solutions for both SQL server and Postgres.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980&t=36)** In the next video I'll review my suggested solutions for both [[Microsoft SQL Server|SQL server]] and [[PostgreSQL|Postgres]].
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge?u=76281980&t=42)** You will find the requirements, expected results and some helpful tips and the code file for this chapter.
 >
@@ -1291,14 +1280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), next (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1338,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980&t=169)** A1.Gender &gt; A2.Gender will take care of both as 'M' for male is larger than 'F' for female.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980&t=180)** A word of caution.
+> **[3:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980&t=180)** A [[Microsoft Word|word]] of caution.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-3?u=76281980&t=182)** If you decide to use this shortcut for strings, make sure your collations use dictionary sort order and that the string casing is consistent.
 >
@@ -1372,8 +1360,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ordered set functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980)
+#### [Ordered set functions](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,19 +1376,19 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=31)** This is the general syntax for ordered set functions.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=35)** The ANSI SQL standard defines two types of ordered set functions, hypothetical set functions, and inverse distribution functions.
+> **[0:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=35)** The ANSI [[SQL]] standard defines two types of ordered set functions, hypothetical set functions, and inverse distribution functions.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=45)** If you watched my window functions course, the hypothetical set functions should look familiar and it's no coincidence.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=53)** We'll get back to these shortly.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=56)** Most databases support additional proprietary ordered set functions.
+> **[0:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=56)** Most [[Databases]] support additional proprietary ordered set functions.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=61)** And one of the most familiar and loved are the string aggregation functions that can concatenate individual string values within a group into a single longer string.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=75)** These are not defined by the ANSI SQL standard, so each database vendor can choose whatever name it likes.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=82)** So that's how we ended up with string aggregate in SQL Server, GROUP_CONCAT in MySQL and SQLite, and list aggregate in Oracle.
+> **[1:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=82)** So that's how we ended up with string aggregate in [[Microsoft SQL Server|SQL Server]], GROUP_CONCAT in [[MySQL]] and SQLite, and list aggregate in Oracle.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=94)** Here is a query that groups adoptions by date and filters for groups that have more than one adoption on the same day.
 >
@@ -1425,7 +1412,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=158)** Unlike SUM, which didn't care about any order, now, the order has significance, hence, it's called an ordered set function (indistinct).
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=170)** We specify the expression to be aggregated, the result of the concatenation of name, the word, the, and species, followed by the separator character, comma, and space.
+> **[2:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=170)** We specify the expression to be aggregated, the result of the concatenation of name, the [[Microsoft Word|word]], the, and species, followed by the separator character, comma, and space.
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=184)** Lastly, the sort order is defined in the WITHIN GROUP clause.
 >
@@ -1447,7 +1434,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=242)** But if you choose to use the plus operator, the non-breed animals will be missing all together as the string aggregate will ignore them as they are nulls.
 >
-> **[4:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=255)** Disclaimer, if you have little experience with statistical analysis functions, feel free to skip this video.
+> **[4:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=255)** Disclaimer, if you have little experience with [[Statistical Analysis]] functions, feel free to skip this video.
 >
 > **[4:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=265)** You will find these functions confusing at first, everybody does, so don't feel bad.
 >
@@ -1507,7 +1494,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=451)** These are the percentile continuous and percentile discreet.
 >
-> **[7:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=455)** Oracle, Postgres, and others support these functions as the ANSI SQL standard intendant, but not SQL Server.
+> **[7:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=455)** Oracle, [[PostgreSQL|Postgres]], and others support these functions as the ANSI SQL standard intendant, but not SQL Server.
 >
 > **[7:46](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=466)** SQL Server implemented something that resembles inverse distribution functions, but instead of following the standard in implementing these as ordered set functions, which they should be, the product team decided it would be a good idea to implement them as if they were window functions.
 >
@@ -1531,7 +1518,7 @@ created: 2026-05-02
 >
 > **[9:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=564)** They don't work for strings.
 >
-> **[9:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=566)** So my PowerPoint example breaks here, but it will be easier to show what they do in a code anyway.
+> **[9:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=566)** So my [[Microsoft PowerPoint|PowerPoint]] example breaks here, but it will be easier to show what they do in a code anyway.
 >
 > **[9:34](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=574)** We need to rank our animals based on the number of vaccinations they're received.
 >
@@ -1629,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[SQL]] (3), database (2), [[Microsoft Word|Word]] (2), [[Statistical Analysis]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[SQL]] (3), [[Microsoft Word|Word]] (2), [[Statistical Analysis]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (8), sum (5), rank (5), percent_rank (5), concat (4)
 > **CLI Commands:** make (3), find (2), cat (2), mysql (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
@@ -1638,8 +1625,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), caution (1)
 > **Versions:** 4.002 (1)
 
-#### Grouping sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980)
+#### [Grouping sets](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1719,7 +1705,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=234)** The queries can become very long as more aggregate dimensions are needed.
 >
-> **[3:58](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=238)** And SQL offers a much better way to do this, which is called grouping sets.
+> **[3:58](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=238)** And [[SQL]] offers a much better way to do this, which is called grouping sets.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=246)** Grouping sets allow us to specify multiple grouping levels and grouping expressions in a single query without the need to repeat anything.
 >
@@ -1865,15 +1851,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Definitions:** is an  (5), is called (1), is a  (1)
 > **Env Vars:** sql (3), ansi (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge-2?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/challenge-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,8 +1877,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2001,7 +1985,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980&t=271)** Okay, first name is invalid.
 >
-> **[4:33](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980&t=273)** It's not one of the grouping set and with SQL Server, I must add a dummy aggregate to satisfy the syntax root.
+> **[4:33](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980&t=273)** It's not one of the grouping set and with [[Microsoft SQL Server|SQL Server]], I must add a dummy aggregate to satisfy the syntax root.
 >
 > **[4:41](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/solution-2?u=76281980&t=281)** Execute and now it almost works.
 >
@@ -2109,7 +2093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (3), next (2), feature (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (3)
 > **URLs:** [animalshelter.com](https://animalshelter.com) (1), [theanimalshelter.com](https://theanimalshelter.com) (1)
@@ -2122,8 +2106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recursions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980)
+#### [Recursions](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2181,7 +2164,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=198)** Let's begin with generating a series.
 >
-> **[3:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=202)** Before we do it the hard way, let me introduce you to one of the postgres unique and useful functions.
+> **[3:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=202)** Before we do it the hard way, let me introduce you to one of the [[PostgreSQL|postgres]] unique and useful functions.
 >
 > **[3:29](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=209)** Generate series is a set function, a series of rows with expressions of varying types and intervals.
 >
@@ -2191,7 +2174,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=231)** Done, piece of cake.
 >
-> **[3:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=234)** SQL server doesn't have an equivalent function, but with it, we get the benefit of practicing recursions.
+> **[3:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=234)** [[Microsoft SQL Server|SQL server]] doesn't have an equivalent function, but with it, we get the benefit of practicing recursions.
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=242)** First, let's create the anchor.
 >
@@ -2211,7 +2194,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=290)** Let's execute and oops, here is the first wall of the default settings.
 >
-> **[4:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=296)** SQL servers maximum recursion depth is a hundred by default.
+> **[4:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=296)** [[SQL]] servers maximum recursion depth is a hundred by default.
 >
 > **[5:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=301)** And since we need to generate 365 rows, we must add a query option hint to allow a recursion depth of 365.
 >
@@ -2271,7 +2254,7 @@ created: 2026-05-02
 >
 > **[7:40](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=460)** We can prevent first level sickly references with a check constraint, but not much more.
 >
-> **[7:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=467)** Just so you don't think I'm completely biased, I'll admit that relational databases do not excel, pun intended, in representing complex graph centuries.
+> **[7:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=467)** Just so you don't think I'm completely biased, I'll admit that [[Relational Databases]] do not [[Microsoft Excel|excel]], pun intended, in representing complex graph centuries.
 >
 > **[8:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=480)** Let's insert a few rows and select star from web links.
 >
@@ -2293,7 +2276,7 @@ created: 2026-05-02
 >
 > **[8:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=519)** The ladder is going to be useful for filtering stop conditions and just for fun, you'll see in a minute, what I mean.
 >
-> **[8:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=527)** We must be careful to cast the datatypes as they are determined by the anchor member for the rest of the query.
+> **[8:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=527)** We must be careful to cast the datatypes as they are determined by the anchor member for the [[Representational State Transfer (REST)|rest]] of the query.
 >
 > **[8:55](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=535)** And we often use literal constants as anchor expressions.
 >
@@ -2319,7 +2302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[PostgreSQL|Postgres]] (5), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Relational Databases]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (5), sgl (1), url (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** node (1)
@@ -2328,8 +2311,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### The cursors curse
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980)
+#### [The cursors curse](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2357,11 +2339,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=62)** Sequential access methods are widely used even today in many programming languages.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=68)** Unfortunately, many SQL developers are still stuck in this mindset.
+> **[1:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=68)** Unfortunately, many [[SQL]] developers are still stuck in this mindset.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=74)** And the reasons may surprise you.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=77)** In the early days of computing, sequential access was mandated by available hardware.
+> **[1:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=77)** In the early days of computing, sequential access was mandated by available [[Hardware]].
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=83)** Punched cards and magnetic tapes were linear in nature.
 >
@@ -2427,7 +2409,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=267)** These variables can be returned to the client or further processed on the server.
 >
-> **[4:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=272)** And once we are done with the first row, we can fetch the next one.
+> **[4:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=272)** And once we are done with the first row, we can [[Fetch]] the next one.
 >
 > **[4:37](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=277)** And this process repeats until the cursor is closed.
 >
@@ -2443,7 +2425,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=304)** Cursors are for imperative fans.
 >
-> **[5:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=308)** Therefore I'm not going to do a cursor code demo, nor am I trying to cover the different options that most databases offer.
+> **[5:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=308)** Therefore I'm not going to do a cursor code demo, nor am I trying to cover the different options that most [[Databases]] offer.
 >
 > **[5:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=317)** There are just way too many of them.
 >
@@ -2475,11 +2457,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=384)** The two phrases that should freak you out are implementation defined, and implementation dependent.
 >
-> **[6:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=392)** With SQL server, these are called static and dynamic cursors.
+> **[6:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=392)** With [[Microsoft SQL Server|SQL server]], these are called static and dynamic cursors.
 >
 > **[6:37](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=397)** They too have variants and some funky behavior.
 >
-> **[6:41](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=401)** PostgreSQL supports only insensitive cursors.
+> **[6:41](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=401)** [[PostgreSQL]] supports only insensitive cursors.
 >
 > **[6:46](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=406)** And my SQL supports only as sensitive cursors.
 >
@@ -2501,7 +2483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[Fetch]] (2), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Fetch]] (2), [[Hardware]] (1), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (11), sam (1), ansi (1)
 > **Definitions:** is a  (2), known as (1)
 > **Versions:** 1.5 (1)
@@ -2514,18 +2496,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=0)** - [Instructor] Oh, wow, another chapter of our SQL adventure is ending.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=0)** - [Instructor] Oh, wow, another chapter of our [[SQL]] adventure is ending.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=6)** We learned about subquery processing and the extremely powerful set operators.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=11)** Don't worry too much about the subtleties of all versus distinct.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=15)** You'll likely only use these for unions, which is what most databases support anyway.
+> **[0:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=15)** You'll likely only use these for unions, which is what most [[Databases]] support anyway.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=22)** We learned how and when to join tables to themselves, how to use non-equality join qualification predicates, and how lateral joins are processed.
 >
@@ -2561,9 +2542,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=130)** So, be patient.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=133)** I have another course on LinkedIn Learning that received less attention than the rest as it is for a specific product and version.
+> **[2:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=133)** I have another course on [[LinkedIn]] Learning that received less attention than the [[Representational State Transfer (REST)|rest]] as it is for a specific product and version.
 >
-> **[2:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=141)** This was my first course for LinkedIn Learning, and while it focuses on MySQL 8.0, it is valuable for other databases, too.
+> **[2:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=141)** This was my first course for LinkedIn Learning, and while it focuses on [[MySQL]] 8.0, it is valuable for other databases, too.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=150)** The first chapter in that course is about window functions.
 >
@@ -2611,7 +2592,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=276)** He is to blame for inflicting me with the SQL bug nearly a quarter of a century ago.
 >
-> **[4:42](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=282)** Itzik writes exclusively about T-SQL, SQL Server's dialect, but his books are a fountain of foundational knowledge.
+> **[4:42](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=282)** Itzik writes exclusively about T-SQL, [[Microsoft SQL Server|SQL Server]]'s dialect, but his books are a fountain of foundational knowledge.
 >
 > **[4:52](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980&t=292)** They are methodological, deep, yet fun to read.
 >
@@ -2647,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[LinkedIn]] (3), [[Databases]] (2), feature (2), database (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[LinkedIn]] (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** mysql (1), find (1), make (1)
 > **Best Practices:** good practice (1), don't forget (1)

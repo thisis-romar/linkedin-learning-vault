@@ -96,12 +96,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essentials of cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980)
+#### [The essentials of cloud computing](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980&t=0)** - [David] Are you like many who constantly hear about the virtues of cloud computing, but you're not entirely sure what it is, or how it can help you?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980&t=0)** - [David] Are you like many who constantly hear about the virtues of [[Cloud Computing]], but you're not entirely sure what it is, or how it can help you?
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980&t=9)** Cloud computing is everywhere, but not everyone knows exactly what it is.
 >
@@ -115,29 +114,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4)
 > **Speakers:** - [david] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=0)** - [Narrator] Well, here's what you need to know as you begin this course on cloud computing.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=0)** - [Narrator] Well, here's what you need to know as you begin this course on [[Cloud Computing]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=4)** Firstly, this is intended to be an introduction to the cloud to learn what it is and what it has to offer.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=11)** This course is targeted to those involved in IT, looking for a better understanding of cloud computing, but it's not designed to be particularly technical in nature.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=22)** So we won't be jumping into the IT administration of cloud services.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=22)** So we won't be jumping into the IT administration of [[Cloud Services]].
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=26)** There are plenty of courses at LinkedIn Learning for that, but rather introduce their purposes, advantages and disadvantages.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=26)** There are plenty of courses at [[LinkedIn]] Learning for that, but rather introduce their purposes, advantages and disadvantages.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-you-should-know?u=76281980&t=34)** We have a lot to cover, so let's dig in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -145,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cloud computing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980)
+#### [What is cloud computing?](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=10)** So let's begin with a quick overview.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=13)** The label cloud computing is really just a metaphor for the internet.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=13)** The label [[Cloud Computing]] is really just a metaphor for the internet.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=18)** If you've ever looked at a network diagram, the internet portion of that network is typically represented by a cloud graphic.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=59)** A person or business might choose to access applications that reside at a location other than their own computers or servers.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=67)** Think Microsoft Office, for example.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=67)** Think [[Microsoft Office]], for example.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=69)** This would eliminate the need to install applications locally on every computer at home or in the organization.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=88)** They handle it all, including the costs of the servers that host those applications.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=93)** Of course, data storage has become a big piece in the cloud computing puzzle as well.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=93)** Of course, [[Data Storage]] has become a big piece in the cloud computing puzzle as well.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980&t=99)** With some or all of your data stored in the cloud, you can cut capital expenditures since you won't need to buy the equipment needed to store everything.
 >
@@ -212,18 +209,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), data (10), business (3), [[Microsoft Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (8), [[Microsoft Office]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the components of the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980)
+#### [Explore the components of the cloud](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=0)** - [Instructor] To better understand cloud computing, we need to explore the elements that make up a cloud computing solution.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=0)** - [Instructor] To better understand [[Cloud Computing]], we need to explore the elements that make up a cloud computing solution.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=6)** And there are three main parts, each with its own role and purpose.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=31)** There are thin clients, which are simply computers that don't have their own internal hard drives and are used to display information you access from the cloud.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=40)** And then there are thick clients, which are your typical computers where you use a web browser like Edge, Google Chrome, or Safari to access the internet and connect to the cloud.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=40)** And then there are thick clients, which are your typical computers where you use a web browser like Edge, [[Google]] Chrome, or Safari to access the internet and connect to the cloud.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-the-components-of-the-cloud?u=76281980&t=51)** Next comes the data center, which is a server or a collection of servers, housing the applications you subscribe to.
 >
@@ -261,15 +257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), next (2), data (2), web (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Tools:** safari (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980)
+#### [Cloud infrastructure](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=11)** Let's check it out.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=12)** Cloud computing isn't the same for everyone, and there are many different ways the infrastructure portion can be deployed.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=12)** [[Cloud Computing]] isn't the same for everyone, and there are many different ways the infrastructure portion can be deployed.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=19)** The actual infrastructure will depend on the application and how the provider of that application has decided to build that particular cloud solution.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=70)** This is one way to access services on the cloud where a remote data center delivers your services in a fully virtualized format.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=79)** Now, full virtualization has been very successful where multiple users will be sharing a computer system, where users need to be isolated from each other and the control program, and where one type of hardware needs to be emulated on another machine.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=79)** Now, full virtualization has been very successful where multiple users will be sharing a computer system, where users need to be isolated from each other and the control program, and where one type of [[Hardware]] needs to be emulated on another machine.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-infrastructure?u=76281980&t=98)** Now, paravirtualization differs from full virtualization in that it allows multiple operating systems to run on a single device at the same time.
 >
@@ -319,26 +314,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Virtualization]] (6), power (3), [[Hardware]] (3), application (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Cloud Computing]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud services overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980)
+#### [Cloud services overview](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=0)** - [Instructor] If you've ever heard the term as a service tacked onto the end of another word like software, storage, or hardware, then you're already familiar with some of the types of cloud services available.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=0)** - [Instructor] If you've ever heard the term as a service tacked onto the end of another [[Microsoft Word|word]] like software, storage, or [[Hardware]], then you're already familiar with some of the types of [[Cloud Services]] available.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=12)** When we see as a service at the end of an offering, it usually equates to traits like the ability to share resources among many users, or large scalability, low barriers to entry meeting services that are easily available and affordable to small businesses, and device independence allowing users to access the services on different types of hardware.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=12)** When we see as a service at the end of an offering, it usually equates to traits like the ability to share resources among many users, or large [[Scalability]], low barriers to entry meeting services that are easily available and affordable to small businesses, and device independence allowing users to access the services on different types of hardware.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=35)** So let's begin with a look at software as a service or SaaS.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=35)** So let's begin with a look at [[SaaS|software as a service]] or [[SaaS]].
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=39)** It's a model where an application is hosted by a provider as a service.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=43)** Customers access the application via the internet using a web browser like Microsoft Edge, Google Chrome, or Safari.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=43)** Customers access the application via the internet using a web browser like [[Microsoft]] Edge, [[Google]] Chrome, or Safari.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=51)** And because it's a service, the customer does not need to purchase the software, but will instead pay a subscription fee to access the application.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=107)** Cheaper open source applications like LibreOffice make it cheaper and easier than ever for customers to install apps on their own hardware.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=116)** Some examples include Salesforce for customer relationship management, there's Google Apps and Microsoft 365 for online office apps, how about QuickBooks Online for accounting, and you've probably heard of Zoom for online conferencing.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=116)** Some examples include Salesforce for customer relationship management, there's Google Apps and [[Microsoft 365]] for online [[Microsoft Office|office]] apps, how about QuickBooks Online for accounting, and you've probably heard of [[Zoom]] for online conferencing.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=135)** Now, let's go on to storage as a service, which is similar to software as a service.
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=154)** But if you want to store any kind of data, you might think about things like iCloud or [Box.com](https://Box.com).
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=160)** Next is hardware as a service, also known as infrastructure as a service because that's what you pay for.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=160)** Next is hardware as a service, also known as [[IaaS|infrastructure as a service]] because that's what you pay for.
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=167)** It offers hardware instead of application.
 >
@@ -378,9 +372,9 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=175)** Customers put whatever they want on it and use it just like they would if they had purchased the hardware themselves.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=181)** Examples include Amazon S3, that stands for Simple Store Service, and allows customers to store any data they want on Amazon servers, and there's Amazon EC2 which stands for Elastic Compute Cloud, which is more for developers and provides them the tools to build failure resilient applications and isolate themselves from common failure scenarios.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=181)** Examples include Amazon S3, that stands for Simple Store Service, and allows customers to store any data they want on Amazon servers, and there's [[Amazon EC2]] which stands for Elastic Compute Cloud, which is more for developers and provides them the tools to build failure resilient applications and isolate themselves from common failure scenarios.
 >
-> **[3:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=204)** Lastly is platform as a service.
+> **[3:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=204)** Lastly is [[PaaS|platform as a service]].
 >
 > **[3:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=208)** This allows for application delivery models similar to software as a service.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=218)** So there's no need to install software.
 >
-> **[3:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=220)** Really good for application development, design, and testing, as well as deployment, and hosting.
+> **[3:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=220)** Really good for [[Application Development]], design, and testing, as well as deployment, and hosting.
 >
 > **[3:46](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-services-overview?u=76281980&t=226)** So that's a good overview of what the different types of cloud services out there are.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (6), application (6), cloud (4), [[SaaS|Software as a service]] (3), data (3)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[SaaS|Software as a service]] (3), [[Cloud Services]] (2), [[Google]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), similar to (2), just like (1)
 > **Definitions:** stands for (2), refers to (1), known as (1)
 > **Prerequisites:** install (2), required to (1)
@@ -405,18 +399,17 @@ created: 2026-05-02
 > **URLs:** [box.com](https://box.com) (1)
 > **Env Vars:** ec2 (1)
 
-#### Storage and database services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980)
+#### [Storage and database services](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=0)** - [Instructor] The most common cloud computing interactions you're likely to experience will be with storage and database functionality, so let's explore this service now.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=0)** - [Instructor] The most common [[Cloud Computing]] interactions you're likely to experience will be with storage and database functionality, so let's explore this service now.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=10)** We'll begin with database storage.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=13)** These are typically repositories for your information with links built in to make your information more searchable.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=19)** The information will typically be spread out over physically dispersed hardware.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=19)** The information will typically be spread out over physically dispersed [[Hardware]].
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=23)** Think Amazon SimpleDB, for example, which presents a number of pros and cons.
 >
@@ -424,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=34)** Well, because information is dispersed, only a fragment of your information is affected, not the entire database.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=41)** The database systems run in parallel, which allows the load to be nicely balanced among the various servers, thus improving performance.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=41)** The [[Database Systems]] run in parallel, which allows the load to be nicely balanced among the various servers, thus improving performance.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=50)** It's far less expensive to build a network of smaller computers with the power of one large one, and systems can be changed and modified without causing harm to the entire database.
 >
@@ -444,29 +437,28 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=99)** Now the other type of storage you may already be familiar with is synchronization.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=104)** Think of Microsoft's OneDrive or [box.com](https://box.com) where your content can be stored and refreshed across multiple devices.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=104)** Think of [[Microsoft]]'s [[Microsoft OneDrive|OneDrive]] or [box.com](https://box.com) where your content can be stored and refreshed across multiple devices.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=112)** Upload that document you're working on from your computer to the storage service, and suddenly, you can access that document on your laptop, phone or tablet and even choose to share it with others.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=124)** So that's a quick overview of storage and database services.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=127)** Later in this course, we'll dig even deeper into cloud storage, devoting an entire chapter to this topic.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-and-database-services?u=76281980&t=127)** Later in this course, we'll dig even deeper into [[Cloud Storage]], devoting an entire chapter to this topic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), cloud (4), [[Hardware]] (1), parallel (1), power (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1), [[Database Systems]] (1), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [box.com](https://box.com) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and ML-powered cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980)
+#### [AI and ML-powered cloud services](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=0)** - [Narrator] Taking off in the world of technology is artificial intelligence and a subset of AI, machine learning.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=0)** - [Narrator] Taking off in the world of technology is [[Artificial Intelligence (AI)|artificial intelligence]] and a subset of AI, machine learning.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=8)** Now, AI can automate workflows and enable companies to achieve actionable insights and create intelligent recommendations.
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=58)** You get stronger security with the cloud.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=60)** Cloud platforms offer an end-to-end encrypted data storage and processing facility, and there's improved data access.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=60)** Cloud platforms offer an end-to-end encrypted [[Data Storage]] and processing facility, and there's improved data access.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=68)** Thanks to the power of cloud technology, AI and machine learning gets seamless access to unlimited data.
 >
@@ -492,33 +484,32 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=88)** Moving forward, we'll see more and more AI/ML-powered clouds, which will be able to add resilience to enterprises allowing for a truly digitized framework of development.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=99)** Many experts in the field expect the AI cloud computing market to reach $1 trillion by 2028.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/ai-and-ml-powered-cloud-services?u=76281980&t=99)** Many experts in the field expect the AI [[Cloud Computing]] market to reach $1 trillion by 2028.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (6), cloud (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), power (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Data Storage]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Low-code and no-code cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980)
+#### [Low-code and no-code cloud services](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=0)** - [Instructor] Another cloud platform worth mentioning as it becomes more and more popular is the low-code or no-code development platform.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=8)** These platforms provide software development tools and environments that allow developers, both enterprise and individuals to create new web or mobile applications using drag and drop components.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=8)** These platforms provide [[Software Development]] tools and environments that allow developers, both enterprise and individuals to create new web or mobile applications using drag and drop components.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=20)** Low-code and no-code approaches let professional developers quickly build applications without the need to write code line by line.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=29)** And they also enable business analysts, office administrators, small business owners, and others who are not software developers to build and test applications.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=29)** And they also enable business analysts, [[Microsoft Office|office]] administrators, small business owners, and others who are not software developers to build and test applications.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=39)** These people can create applications with little to no knowledge of traditional programming languages.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=45)** Now, low-code development requires users to perform some level of coding, however much less than is required with traditional application development.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=45)** Now, low-code development requires users to perform some level of coding, however much less than is required with traditional [[Application Development]].
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=54)** No-code development, also known as zero code, targets non-technical users in a variety of business functions who understand business needs and rules, but possess little or no coding experience and programming language skills.
 >
@@ -538,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=104)** However, because these tools are low cost and easy to use, organizational leaders can and often do lose track of what their employees are building.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=114)** Customization and scalability are often limited with low-code or no-code tools.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=114)** Customization and [[Scalability]] are often limited with low-code or no-code tools.
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=120)** The new app or website might only deliver the bare minimum of functionality, and if more capabilities are required, it might be necessary to increase the dependency on an experienced programmer.
 >
@@ -546,13 +537,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=142)** So those are the pros and cons of no-code or low-code cloud platforms and tools.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=148)** There are many vendors to choose from, like Microsoft Power Apps, Salesforce Lightning and Google App Sheet to name just a few.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=148)** There are many vendors to choose from, like [[Microsoft]] Power Apps, Salesforce Lightning and [[Google]] App Sheet to name just a few.
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/low-code-and-no-code-cloud-services?u=76281980&t=156)** Should low-code or no-code options be something to consider in your organization?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (4), [[Programming]] (3), [[Software Development]] (1), web (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Office|Office]] (1), [[Application Development]] (1), [[Scalability]] (1), [[Microsoft]] (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -564,12 +555,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The three main cloud computing scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980)
+#### [The three main cloud computing scenarios](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=0)** - [Instructor] When deciding whether cloud computing is right for you or your organization, it helps to understand your needs and the solutions available to meet those needs.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=0)** - [Instructor] When deciding whether [[Cloud Computing]] is right for you or your organization, it helps to understand your needs and the solutions available to meet those needs.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=9)** Cloud computing can be ideal in many scenarios, but there may also be times when you may want to steer clear.
 >
@@ -587,9 +577,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=56)** If they depend on standards management, monitoring and governance capabilities, the number of service providers to choose from is diminished, although many sets of cloud offerings for enterprise use is on the rise.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=69)** Thinking of Amazon EC2, for example, remember that stands for Elastic Compute Cloud, that offers enterprise-class support.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=69)** Thinking of [[Amazon EC2]], for example, remember that stands for Elastic Compute Cloud, that offers enterprise-class support.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=78)** The next scenario, number two, is cloud storage.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=78)** The next scenario, number two, is [[Cloud Storage]].
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=81)** If your organization needs to maintain files offsite, cloud storage can be an ideal solution.
 >
@@ -607,7 +597,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=123)** Here are some scenarios where you might possibly want a different solution from the cloud.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=128)** For example, if your organization deals with HIPAA data, that's the Health Insurance Portability and Accountability Act, the cloud may not be the place for that type of sensitive data.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=128)** For example, if your organization deals with HIPAA data, that's the Health Insurance Portability and [[Accountability]] Act, the cloud may not be the place for that type of sensitive data.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=140)** And putting it there without the proper security in place could catch the attention of HIPAA auditors.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=160)** So if it's sensitive data, perhaps keep it off the cloud.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=164)** If you have an application that requires a special set of hardware, chips and drivers, a cloud solution might not work for you in that scenario also.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=164)** If you have an application that requires a special set of [[Hardware]], chips and drivers, a cloud solution might not work for you in that scenario also.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980&t=174)** And if your application requires detailed control over things like memory, hard disk space, or the CPU, again, the cloud may not be a good fit because it's the service provider who is in control of these things on the cloud.
 >
@@ -629,18 +619,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (23), application (4), data (4), management (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[Cloud Storage]] (3), [[Amazon EC2]] (1), [[Accountability]] (1), [[Hardware]] (1)
 > **Env Vars:** hipaa (2), ec2 (1), cpu (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### The operational benefits of the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980)
+#### [The operational benefits of the cloud](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=0)** - [Instructor] Cloud computing is a very popular thing right now and for good reason.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] is a very popular thing right now and for good reason.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=4)** There are so many benefits to moving some of your applications to the cloud, including the way you operate.
 >
@@ -656,7 +645,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=28)** And if you need more, no problem, just get extra.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=32)** It's far less expensive than buying more hardware.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=32)** It's far less expensive than buying more [[Hardware]].
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-operational-benefits-of-the-cloud?u=76281980&t=36)** There's automation.
 >
@@ -676,16 +665,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), application (2), data (1), [[Hardware]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The economic benefits of the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980)
+#### [The economic benefits of the cloud](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=0)** - [Instructor] Decisions about anything in an organization are often made based on the economic benefit, and cloud computing is no different.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=0)** - [Instructor] Decisions about anything in an organization are often made based on the economic benefit, and [[Cloud Computing]] is no different.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=8)** Cost can be a big factor, and the economic benefit to cloud computing goes beyond equipment savings.
 >
@@ -695,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=21)** Fewer staff means savings in salaries and benefits and allows an organization to analyze their needs and find the best people to remain on staff.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=31)** Next, cloud service providers are going to pay less for hardware as well as networking equipment and bandwidth than the average business.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=31)** Next, cloud service providers are going to pay less for [[Hardware]] as well as networking equipment and bandwidth than the average business.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-economic-benefits-of-the-cloud?u=76281980&t=39)** So if your organization is not a government agency or very large enterprise, you can save on the cost of hardware by simply not needing any, and then bump up your subscription to the cloud if or when you need more storage capacity or bandwidth.
 >
@@ -717,18 +705,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), next (3), [[Hardware]] (2), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Hardware]] (2)
 > **Analogies:** kind of like (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of the cloud to staff
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980)
+#### [Benefits of the cloud to staff](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=0)** - [Narrator] Let's review now some of the ways the convenience of cloud computing can make life easier for you and your workers.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=0)** - [Narrator] Let's review now some of the ways the convenience of [[Cloud Computing]] can make life easier for you and your workers.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=7)** First of all, with cloud computing, you can do away with those hefty planning and implementation guides, because there's no software installation nor maintenance required.
 >
@@ -744,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=56)** With cloud computing, your service provider will want to keep you satisfied and keep you as a customer so it's in their best interest to ensure the application is always being improved.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=67)** In the realm of software as a service, for example, small changes can be happening constantly, adding up over time, instead of a huge patch that can cost you time and money to implement.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=67)** In the realm of [[SaaS|software as a service]], for example, small changes can be happening constantly, adding up over time, instead of a huge patch that can cost you time and money to implement.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/benefits-of-the-cloud-to-staff?u=76281980&t=78)** Many of the maintenance duties IT personnel are responsible for with regard to software are offloaded to service providers in a cloud computing scenario.
 >
@@ -754,17 +741,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (1), application (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### The security risks of cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980)
+#### [The security risks of cloud computing](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=0)** - [Presenter] Cloud computing continues to gain traction with businesses all over the place and the benefits seem overwhelming, but before you dive right in, you should be aware of the potential risks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=0)** - [Presenter] [[Cloud Computing]] continues to gain traction with businesses all over the place and the benefits seem overwhelming, but before you dive right in, you should be aware of the potential risks.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=12)** When searching for the right cloud vendor for you, be sure to raise the following security issues if they apply to your organization.
 >
@@ -774,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=39)** You should get as much information as you can about the people who manage your data and ask providers to supply specific information on the hiring and oversight of privileged administrators and the controls over their access.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=53)** Next up is regulatory compliance.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=53)** Next up is [[Regulatory Compliance]].
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=56)** You, the customer, are ultimately responsible for the security and the integrity of your own data, even when it's held by a service provider.
 >
@@ -784,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=83)** Next up is data location.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=85)** Ask providers if they'll commit to storing and processing data in specific jurisdictions and whether they'll make a contractual commitment to obey local privacy requirements on behalf of their customers.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=85)** Ask providers if they'll commit to storing and processing data in specific jurisdictions and whether they'll make a contractual commitment to obey local [[Privacy]] requirements on behalf of their customers.
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=97)** If not, you won't know where your data's being stored, not even in what country.
 >
@@ -794,7 +780,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=114)** Encryption may be effective, but it isn't fail safe.
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=118)** You should ask a potential cloud provider, "What is done to segregate data at rest?"
+> **[1:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=118)** You should ask a potential cloud provider, "What is done to segregate data at [[Representational State Transfer (REST)|rest]]?"
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-security-risks-of-cloud-computing?u=76281980&t=123)** The cloud providers should then provide evidence that encryption schemes were designed and tested by experienced specialists, because an encryption accident can make your data totally unusable.
 >
@@ -816,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (10), next (4), [[Security]] (3), application (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Regulatory Compliance]] (1), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (2)
 > **Speakers:** - [presenter] (1)
@@ -826,12 +812,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980)
+#### [Overview of cloud storage](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=0)** - [Instructor] Let's take a moment now to focus on cloud storage because it is so widely used.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=0)** - [Instructor] Let's take a moment now to focus on [[Cloud Storage]] because it is so widely used.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=5)** When we look at the name cloud storage, it suggests exactly what you might think, storing your data with a cloud storage service provider, instead of keeping that data on a local system.
 >
@@ -851,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=54)** Some allow storage of many types of data while others are more specific, allowing you to store one type of data like email or photos.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=62)** Think of Flickr and Google Photos, for example, where you can store or back up your photos and share them with anyone you want.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=62)** Think of Flickr and [[Google]] Photos, for example, where you can store or back up your photos and share them with anyone you want.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=69)** There's even a cloud storage service for professional photographers called 500px, where they can sell their photos as royalty free artwork.
 >
@@ -875,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=150)** The main reason businesses use cloud storage is for safety, not because they don't have the space.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=156)** If the whole office goes up in flames, they need not worry about their precious data stored safely in the cloud.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=156)** If the whole [[Microsoft Office|office]] goes up in flames, they need not worry about their precious data stored safely in the cloud.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980&t=164)** And also important to businesses is the cost savings.
 >
@@ -887,18 +872,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), cloud (14), [[Google]] (2), business (1), web (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (11), [[Google]] (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storage providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980)
+#### [Storage providers](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=0)** - [Instructor] There's no shortage of cloud storage providers out there.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=0)** - [Instructor] There's no shortage of [[Cloud Storage]] providers out there.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=3)** Really, there are hundreds to choose from, and the list continues to steadily grow.
 >
@@ -906,9 +890,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=15)** We'll be taking a closer look at some of the most popular tools and providers in the next chapter, but for now, let's get a quick overview of some specialized cloud providers.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=24)** We'll start with Google Apps, which allows subscribers to create and upload documents, spreadsheets, and presentations to Google's data servers where they can be shared and edited using one of the Google apps.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=24)** We'll start with [[Google]] Apps, which allows subscribers to create and upload documents, spreadsheets, and presentations to Google's data servers where they can be shared and edited using one of the Google apps.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=38)** Specializing in web email messages are players like Microsoft with [Outlook.com](https://Outlook.com), and Google, they have Gmail.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=38)** Specializing in web email messages are players like [[Microsoft]] with [[[Microsoft Outlook|Outlook]].com](https://Outlook.com), and Google, they have Gmail.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=45)** Email messages are stored on their servers, and users can access their email from computers and mobile devices like smartphones and tablets that are connected to the internet.
 >
@@ -916,11 +900,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=63)** They store millions of digital photos on their servers.
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=68)** Everyone's familiar with YouTube where you can upload and store your video files, and more importantly, share those videos with the rest of the world.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=68)** Everyone's familiar with YouTube where you can upload and store your video files, and more importantly, share those videos with the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=76)** If you have a website, your files and data can be stored on a provider such as GoDaddy or Wix.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=82)** Social networking continues to be all the rage and providers like Facebook and Instagram, now known as Meta and LinkedIn, let members post pictures and other content that's all stored on company servers.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=82)** Social networking continues to be all the rage and providers like Facebook and Instagram, now known as Meta and [[LinkedIn]], let members post pictures and other content that's all stored on company servers.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=95)** And for all types of digital data, you can use providers like [Box.com](https://Box.com) and iDrive who let users upload and store virtually any type of data that they require.
 >
@@ -930,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Google]] (5), data (4), next (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Cloud Storage]] (2), [[Microsoft]] (1), [[Microsoft Outlook|Outlook]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [outlook.com](https://outlook.com) (1), [box.com](https://box.com) (1)
 > **Code Identifiers:** idrive (1)
 > **Cross-References:** in the next (1)
@@ -938,14 +922,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud storage security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980)
+#### [Cloud storage security](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980&t=0)** - [Instructor] No matter what type of data you're going to be storing in the cloud, you're going to want it to be secure.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980&t=6)** So let's take a look at what cloud storage providers do to keep your data secure.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980&t=6)** So let's take a look at what [[Cloud Storage]] providers do to keep your data secure.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-security?u=76281980&t=11)** Keep in mind that most systems will use a combination of the following techniques, beginning with encryption.
 >
@@ -977,14 +960,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (4), [[Security]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud storage considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980)
+#### [Cloud storage considerations](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=6)** While there are many advantages, there are also potential pitfalls, so let's explore both.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=11)** Now, aside from the cost savings we've discussed in previous lessons, it's important to understand how cloud storage offers a great way to protect your data.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=11)** Now, aside from the cost savings we've discussed in previous lessons, it's important to understand how [[Cloud Storage]] offers a great way to protect your data.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=19)** Having your data stored offsite beats backing up your data and storing onsite in the event of a physical catastrophe.
 >
@@ -1008,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=69)** Outages are real possibilities.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=70)** For example, Amazon Web Services who have had many outages in the past, had another one in April of 2023.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=70)** For example, [[Amazon Web Services (AWS)|Amazon Web Services]] who have had many outages in the past, had another one in April of 2023.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/cloud-storage-considerations?u=76281980&t=78)** Hundreds of users lost access to AWS while thousands couldn't access Voice Assistant Alexa.
 >
@@ -1030,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (10), business (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** aws (1), ssl (1)
 > **Definitions:** is a  (1), short for (1)
@@ -1044,12 +1026,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Google Workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980)
+#### [Explore Google Workspace](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=0)** - [Narrator] In this chapter, we're going to explore some of the most popular cloud-based tools available, beginning with what Google has to offer, including Google Workspace.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=0)** - [Narrator] In this chapter, we're going to explore some of the most popular cloud-based tools available, beginning with what [[Google]] has to offer, including Google Workspace.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=10)** Now, with your free Google account, if you're signed in, you get a lot more than just the world's most popular search engine.
 >
@@ -1065,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=46)** You'll also see access to Gmail from here.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=49)** If you want to have an online meeting, there's Google Meet, Chat, free storage space in Google Drive.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=49)** If you want to have an online meeting, there's Google Meet, Chat, free storage space in [[Google Drive]].
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=57)** If it's photos you're storing, there's Google Photos as well.
 >
@@ -1081,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=87)** It's more business related, and it's a grouping of cloud-based applications from Google, formally known as G Suite, and before that, Google Apps for Business.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=97)** It's a hosted service that will even allow businesses, schools, or institutions access to a variety of Google products on a unique domain.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=97)** It's a hosted service that will even allow businesses, schools, or institutions access to a variety of Google [[Microsoft Products|products]] on a unique domain.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=106)** So I'm signed in here, and when I move up to my account icon in the top right corner, you can see the email address is dRivers@[red30tech.com](https://red30tech.com).
 >
@@ -1091,7 +1072,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=127)** So if we go to the Apps icon here, you can see access to a number of applications that are more business-related.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=133)** We do see many of the same apps we saw for a personal account like Drive and Chat and Meet, but there's Forms and Sites and scrolling further down, even more business-related applications.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=133)** We do see many of the same apps we saw for a personal account like Drive and Chat and Meet, but there's [[Forms]] and Sites and scrolling further down, even more business-related applications.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=146)** Now, like a standard Google account, each person at your business gets all of these tools and the ones we mentioned earlier.
 >
@@ -1099,7 +1080,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=159)** We'll click in the background to close that up.
 >
-> **[2:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=161)** With Workspace, all your work is automatically saved in the cloud, and it will run on virtually any mobile device like your iPhone, an Android device, Windows phone, or any phone for that matter with a browser like Google's own Pixel.
+> **[2:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=161)** With Workspace, all your work is automatically saved in the cloud, and it will run on virtually any mobile device like your iPhone, an [[Android]] device, [[Windows]] phone, or any phone for that matter with a browser like Google's own Pixel.
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980&t=175)** So you'll always have access to your email calendar documents, and you'll be working securely no matter where you are in the world or on what device you're working.
 >
@@ -1107,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (15), business (5), cloud (4), [[Search]] (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (15), [[Google Drive]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1), [[Android]] (1)
 > **URLs:** [red30tech.com](https://red30tech.com) (2), [gmail.com](https://gmail.com) (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** drivers (1), iphone (1)
@@ -1116,12 +1097,11 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explore Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980)
+#### [Explore Microsoft 365](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=0)** - [Instructor] Much like Google's Workspace, Microsoft offers Microsoft 365, subscription based plans that include access to Office applications, plus other cloud productivity services that are enabled over the internet.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=0)** - [Instructor] Much like [[Google]]'s Workspace, [[Microsoft]] offers [[Microsoft 365]], subscription based plans that include access to [[Microsoft Office|Office]] applications, plus other cloud productivity services that are enabled over the internet.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=13)** Now, Microsoft 365 includes plans for use at home and for business.
 >
@@ -1137,13 +1117,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=48)** And there are many other options as well for enterprise operations that you would contact salespeople for.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=55)** But as you can see, there are many to choose from, including services such as Teams and Exchange Online, hosted email for business and additional online storage with OneDrive for business.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=55)** But as you can see, there are many to choose from, including services such as Teams and Exchange Online, hosted email for business and additional online storage with [[Microsoft OneDrive|OneDrive]] for business.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=68)** Now, many of the Microsoft 365 plans also include the desktop version of the latest Office applications, and with those selected, you'll be able to download them to your desktop if you needed to as well.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=85)** Now, the fully installed applications include Word, Excel, PowerPoint, OneNote.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=85)** Now, the fully installed applications include [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[OneNote]].
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=89)** There's Outlook, Planner, and Project, and you can install them across multiple devices, including PCs, Macs, Android tablets, Android phones, iPads, and iPhones.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=89)** There's [[Microsoft Outlook|Outlook]], Planner, and Project, and you can install them across multiple devices, including PCs, Macs, [[Android]] tablets, Android phones, iPads, and iPhones.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-microsoft-365?u=76281980&t=99)** When you have an active Microsoft 365 subscription, that includes the desktop versions of Office, you always have the most up-to-date versions of the applications.
 >
@@ -1165,23 +1145,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (9), business (7), [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Android]] (2), [[Google]] (1)
 > **Code Identifiers:** ipads (1), iphones (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980)
+#### [Work with OneDrive](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=0)** - [Instructor] Let's take a quick look now at Microsoft OneDrive, which falls under the category of cloud storage.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=0)** - [Instructor] Let's take a quick look now at [[Microsoft OneDrive]], which falls under the category of [[Cloud Storage]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=6)** It's a file hosting service that allows users to upload and sync files to a cloud storage service and then access 'em from a computer, web browser, or mobile device.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=16)** It's part of the Microsoft 365 group of online services, and there's a free version built into Windows here and Microsoft 365 with OneDrive selected.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=16)** It's part of the [[Microsoft 365]] group of online services, and there's a free version built into [[Windows]] here and Microsoft 365 with [[Microsoft OneDrive|OneDrive]] selected.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=26)** You can see we can sign into our accounts from here, including your free account if you have one.
 >
@@ -1201,7 +1180,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=76)** It's part of the Microsoft 365 group of online services, and it's also built into Windows, which we'll see in a moment.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=85)** So publicly shared files do not require someone to have a Microsoft account if you wanted to share them with people.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=85)** So publicly shared files do not require someone to have a [[Microsoft]] account if you wanted to share them with people.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=92)** And we're going to take a look now at what it's like to have OneDrive open here in Microsoft 365.
 >
@@ -1225,7 +1204,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=162)** And of course, in the apps we can do the sharing and collaborating I talked about a moment ago.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=168)** Of course, with a Microsoft 365 account, you can access your OneDrive files directly from within the apps like Word, Excel, PowerPoint.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=168)** Of course, with a Microsoft 365 account, you can access your OneDrive files directly from within the apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-onedrive?u=76281980&t=176)** You can save to OneDrive and even share and collaborate on those files with others, even simultaneously working on the same documents or files if you wanted to.
 >
@@ -1233,18 +1212,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), cloud (8), [[Microsoft 365]] (7), business (5), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (7), [[Cloud Storage]] (6), [[Windows]] (3), [[Microsoft OneDrive]] (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sync content with iCloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/sync-content-with-icloud?u=76281980)
+#### [Sync content with iCloud](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/sync-content-with-icloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/sync-content-with-icloud?u=76281980&t=0)** - [Instructor] iCloud is cloud storage that's very popular in the Mac community and is simply part of any new Apple device you might own.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/sync-content-with-icloud?u=76281980&t=0)** - [Instructor] iCloud is [[Cloud Storage]] that's very popular in the Mac community and is simply part of any new Apple device you might own.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/sync-content-with-icloud?u=76281980&t=8)** Have a Mac with OS 10 Lion or better?
 >
@@ -1308,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), feature (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Code Identifiers:** icloud (12), iphone (5), ipad (2), ios (1)
 > **Analogies:** for example (3), imagine (2), picture (1)
 > **UI Navigation:** in the sidebar (1)
@@ -1320,8 +1298,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft 365 Groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980)
+#### [Microsoft 365 Groups](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,13 +1306,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=6)** There are a number of different cloud tools and applications that make it easy for members of a team to create, communicate, share, and collaborate on a wide variety of files.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=16)** In this chapter, we'll explore some of these tools beginning in this movie with Microsoft 365 groups.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=16)** In this chapter, we'll explore some of these tools beginning in this movie with [[Microsoft 365]] groups.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=23)** Microsoft 365 groups is not available to everyone with a Microsoft 365 account, just the ones that include Exchange Online and SharePoint.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=23)** Microsoft 365 groups is not available to everyone with a Microsoft 365 account, just the ones that include Exchange Online and [[SharePoint]].
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=32)** In other words, one of the business or enterprise plans.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=36)** So if you're signed in to one of these plans, you'll see a group's category in certain office apps like Outlook here, but also Team SharePoint and Planner.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=36)** So if you're signed in to one of these plans, you'll see a group's category in certain [[Microsoft Office|office]] apps like [[Microsoft Outlook|Outlook]] here, but also Team SharePoint and Planner.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=46)** Groups are ideal for teams who prefer to collaborate via email and calendar, Since each group will include a group email address and a shared calendar.
 >
@@ -1371,13 +1348,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=161)** So that's a very brief overview of Microsoft 365 groups and how they can be beneficial to those working in a team environment.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=168)** Similar to groups, but different is Microsoft Teams, a separate application that offers many of the same features as group plus more.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=168)** Similar to groups, but different is [[Microsoft Teams]], a separate application that offers many of the same features as group plus more.
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980&t=177)** We'll explore teams next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft 365]] (4), cloud (2), [[SharePoint]] (2), [[Microsoft Outlook|Outlook]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[SharePoint]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (3)
 > **Definitions:** in other words (1), is a  (1)
@@ -1385,12 +1362,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980)
+#### [Work with Microsoft Teams](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=0)** - [Instructor] Similar to the group's functionality found in Microsoft 365 apps like Outlook, here, comes Teams, an individual application that stands on its own.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=0)** - [Instructor] Similar to the group's functionality found in [[Microsoft 365]] apps like [[Microsoft Outlook|Outlook]], here, comes Teams, an individual application that stands on its own.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=11)** So if your team wants to collaborate in a persistent chat environment or use embedded apps, you might consider setting up a team.
 >
@@ -1468,13 +1444,13 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=233)** I'm going to go with files and just upload a file from my desktop that everyone in this team will have access to.
 >
-> **[4:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=241)** There's the social committee budget for 2025, an Excel file, simple matter of selecting it and uploading it.
+> **[4:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=241)** There's the social committee budget for 2025, an [[Microsoft Excel|Excel]] file, simple matter of selecting it and uploading it.
 >
 > **[4:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=249)** It now appears on the list.
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=252)** We can also add notes that people will have access to.
 >
-> **[4:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=256)** Anyone on the team can come in here to add notes to a shared OneNote notebook, kind of cool.
+> **[4:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=256)** Anyone on the team can come in here to add notes to a shared [[OneNote]] notebook, kind of cool.
 >
 > **[4:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=264)** So while Teams is an excellent tool that stands on its own for keeping groups of people organized as they work together on projects, share files, communicate with one another.
 >
@@ -1482,21 +1458,20 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=277)** It's not really a matter of one versus the other, though.
 >
-> **[4:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=279)** Each offers its own advantages and they can both work nicely together complimenting one another, check out LinkedIn Learning if you're interested in more in-depth courses devoted specifically to Microsoft groups or teams.
+> **[4:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=279)** Each offers its own advantages and they can both work nicely together complimenting one another, check out [[LinkedIn]] Learning if you're interested in more in-depth courses devoted specifically to [[Microsoft]] groups or teams.
 >
 > **[4:52](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-with-microsoft-teams?u=76281980&t=292)** I'll list some for you at the end of this chapter should you be interested.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), application (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Excel|Excel]] (1), [[OneNote]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), just like (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share with Box.com
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980)
+#### [Share with Box.com](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,9 +1501,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=62)** For example, you might want to write up an agenda or a calendar, for example.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=67)** We can also create new documents right here in Box, so we can access Word, PowerPoint and Excel if we have them.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=67)** We can also create new documents right here in Box, so we can access [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]] and [[Microsoft Excel|Excel]] if we have them.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=74)** Google Docs, Slides and Sheets.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=74)** [[Google]] Docs, Slides and Sheets.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=76)** And if you're on a Mac, Pages, Keynote, and Numbers might be accessible from here as well.
 >
@@ -1588,7 +1563,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=237)** It's secure file sharing.
 >
-> **[3:59](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=239)** We can access our content from anywhere, and there are built-in integrations we saw with Office or Microsoft 365 and G Suite, the Google options.
+> **[3:59](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=239)** We can access our content from anywhere, and there are built-in integrations we saw with [[Microsoft Office|Office]] or [[Microsoft 365]] and G Suite, the Google options.
 >
 > **[4:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=249)** Then you can go to Personal Pro.
 >
@@ -1606,13 +1581,13 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=280)** And as you hover over these, you'll also notice that you can go over to the Share button from here if you decide this should be a shared folder that you want to invite people to, using the Share functionality as opposed to that link we used to copy to an email.
 >
-> **[4:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=297)** So as you can see, Box is a cloud storage service that can really benefit individuals and teams.
+> **[4:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=297)** So as you can see, Box is a [[Cloud Storage]] service that can really benefit individuals and teams.
 >
 > **[5:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/share-with-box-com?u=76281980&t=303)** It can be used as a place to back up your files, but more importantly, it can offer an easy way to share folders and files with others who need access to either view or possibly even edit those files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Google]] (2), next (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (2), just like (1)
 > **Cross-References:** go back to (2)
@@ -1621,14 +1596,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work together with Google Docs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980)
+#### [Work together with Google Docs](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=0)** - [Instructor] Another excellent offering for teams wanting to work together using the cloud comes from Google.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=0)** - [Instructor] Another excellent offering for teams wanting to work together using the cloud comes from [[Google]].
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=6)** It's called the Google Apps, and it includes things like Google Docs for creating documents like we would in Word, Sheets for creating spreadsheets like we would in Excel, and Slides for creating presentations like we would in PowerPoint.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=6)** It's called the Google Apps, and it includes things like Google Docs for creating documents like we would in [[Microsoft Word|Word]], Sheets for creating spreadsheets like we would in [[Microsoft Excel|Excel]], and Slides for creating presentations like we would in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=19)** You can see here I've logged into my Google account just here at [google.com](https://google.com).
 >
@@ -1736,7 +1710,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=290)** So as you can see, using Google Docs in a team environment can make the sharing and collaborating on files a breeze all thanks to the cloud.
 >
-> **[4:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=298)** Check out the LinkedIn Learning Library if you're interested in learning more about the Google Apps.
+> **[4:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=298)** Check out the [[LinkedIn]] Learning Library if you're interested in learning more about the Google Apps.
 >
 > **[5:04](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/work-together-with-google-docs?u=76281980&t=304)** You'll find courses there to help you get started if you're new to the suite and more advanced tips and tricks training as well.
 >
@@ -1744,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (14), cloud (4), teams (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Google]] (14), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** picture (1), for example (1), just like (1), it's like (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -1758,8 +1732,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make a cloud migration plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980)
+#### [Make a cloud migration plan](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1773,13 +1746,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=22)** First, get the CPU and memory footprint of your current machines as well as your current bandwidth usage.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=29)** Then look up prices at providers like Rackspace Cloud and Amazon EC2, where you can verify any savings, typically 50 to 70% less than what you're paying for hosting now.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=29)** Then look up prices at providers like Rackspace Cloud and [[Amazon EC2]], where you can verify any savings, typically 50 to 70% less than what you're paying for hosting now.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=41)** That could provide you with the ammunition you need to get the green light.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=46)** Next, assess your security.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=48)** Assess which parts of your application, typically databases, must either reside in-house or at a managed host.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=48)** Assess which parts of your application, typically [[Databases]], must either reside in-house or at a managed host.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=55)** If your apps have any HIPAA or PCI requirements, learn the impacts of moving them to the cloud as well.
 >
@@ -1859,7 +1832,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=309)** Dig into all the costs associated with a cloud-based environment.
 >
-> **[5:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=313)** Compare to your existing infrastructure and remember that software as a service is built on a pay as you go basis.
+> **[5:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=313)** Compare to your existing infrastructure and remember that [[SaaS|software as a service]] is built on a pay as you go basis.
 >
 > **[5:21](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980&t=321)** And lastly, choose the right provider.
 >
@@ -1867,21 +1840,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), application (4), next (3), [[Security]] (2), database (2)
+> **Frameworks & Libraries:** [[Amazon EC2]] (1), [[Databases]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** hipaa (2), pci (2), cpu (1), ec2 (1), cdn (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze services, providers, and costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980)
+#### [Analyze services, providers, and costs](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=0)** - [Narrator] When considering a move to the cloud, it's important to understand the services and service providers available to people and organizations of different levels.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=9)** So in this movie, we'll identify the three levels and some of the cloud services and service providers tailored to each level.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=9)** So in this movie, we'll identify the three levels and some of the [[Cloud Services]] and service providers tailored to each level.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=16)** But let's begin with those three levels.
 >
@@ -1901,7 +1873,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=70)** That's the Apple offering that synchronizes email, photos, contacts on all of your computers and mobile devices, so long as they have access to Apple's Cloud servers.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=81)** Remember Google Apps from Google, of course, providing office automation applications you probably associate with your desktop like word processing, spreadsheets and presentation.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=81)** Remember [[Google]] Apps from Google, of course, providing [[Microsoft Office|office]] automation applications you probably associate with your desktop like [[Microsoft Word|word]] processing, spreadsheets and presentation.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=92)** Because it's cloud-based, sharing and collaboration is simplified.
 >
@@ -1909,9 +1881,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=98)** That's right.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=99)** Acrobat, known best for its PDF reader, also provides an online word processor, cloud storage for your documents, collaboration tools, and an online PDF converter.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=99)** Acrobat, known best for its PDF reader, also provides an online word processor, [[Cloud Storage]] for your documents, collaboration tools, and an online PDF converter.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=112)** Of course, Microsoft 365 is becoming more and more popular, as it gives those with a membership access to Microsoft Office apps that are always being updated.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=112)** Of course, [[Microsoft 365]] is becoming more and more popular, as it gives those with a membership access to [[Microsoft Office]] apps that are always being updated.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=122)** There's cloud storage for the files you create and might want to share or even collaborate on with others, as well as a selection of other cloud-based collaboration tools like Planner or Teams for working and communicating on projects together.
 >
@@ -1927,7 +1899,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=178)** Enterprise class organizations will experience an even more complex migration to the cloud, mainly due to size, where there may be multiple sites, branches, or offices, but there are cloud tools and providers that are ideal for these types of organizations.
 >
-> **[3:14](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=194)** Microsoft offers Exchange online and SharePoint online for any size business.
+> **[3:14](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=194)** [[Microsoft]] offers Exchange online and [[SharePoint]] online for any size business.
 >
 > **[3:20](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=200)** These are online versions of their traditional server and client application, so it simplifies a move to the cloud.
 >
@@ -1937,23 +1909,22 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=223)** It leverages the complete virtualization of servers, storage and networking to move an entire virtual machine instantaneously from one server to another.
 >
-> **[3:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=235)** VMware vCenter converter allows for the migration of physical servers to virtual servers with no downtime and can be run on many different types of hardware.
+> **[3:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=235)** VMware vCenter converter allows for the migration of physical servers to virtual servers with no downtime and can be run on many different types of [[Hardware]].
 >
-> **[4:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=247)** And then there's Hyper-V's live migration and easy to use point and click product that's part of Windows server and is used for moving virtual servers to different machines.
+> **[4:07](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=247)** And then there's Hyper-V's live migration and easy to use point and click product that's part of [[Windows Server]] and is used for moving virtual servers to different machines.
 >
 > **[4:17](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/analyze-services-providers-and-costs?u=76281980&t=257)** So no matter the size of your organization and the complexity of your current systems, it's good to know there are cloud services and service providers for every scenario.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (22), [[Microsoft]] (3), business (2), [[Google]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (6), [[Microsoft]] (3), [[Google]] (2), [[Microsoft Word|Word]] (2), [[Cloud Storage]] (2)
 > **Code Identifiers:** icloud (1), vcenter (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** make (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Release data using the wave approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980)
+#### [Release data using the wave approach](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1979,7 +1950,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980&t=65)** Once things start to work the way you need them to, you can start to add more important data.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980&t=72)** Now you'll begin to see improved performance and you can continue to release the rest of the data you want up on the cloud.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980&t=72)** Now you'll begin to see improved performance and you can continue to release the [[Representational State Transfer (REST)|rest]] of the data you want up on the cloud.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/release-data-using-the-wave-approach?u=76281980&t=80)** The task of releasing your data to the cloud does not have to be as daunting as it might first appear.
 >
@@ -1987,11 +1958,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (7), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980)
+#### [Secure your data](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2003,7 +1973,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=15)** Learn about the options that are out there.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=17)** Since software as a service applications are so easy to purchase with a credit card, many IT organizations do not have a clear picture of how many seats of various cloud applications are truly being used within their enterprises.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=17)** Since [[SaaS|software as a service]] applications are so easy to purchase with a credit card, many IT organizations do not have a clear picture of how many seats of various cloud applications are truly being used within their enterprises.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=30)** So that's the first issue that needs to be rectified.
 >
@@ -2013,7 +1983,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=69)** Organizations then need to create their own set of guidelines and best practices for their own scenario.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=76)** These guidelines should include allocating certain types of information into sensitivity and privacy categories, and specifying policies on who should get access to certain types of information and how the information should be protected.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=76)** These guidelines should include allocating certain types of information into sensitivity and [[Privacy]] categories, and specifying policies on who should get access to certain types of information and how the information should be protected.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=91)** For example, encryption or tokenization.
 >
@@ -2023,7 +1993,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=108)** Post-migration data has to be tracked and accounted for from storage to transmission, to processing, and back to storage.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=116)** There really can't be any gaps in accountability and access control and monitoring definitely needs to be in place.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=116)** There really can't be any gaps in [[Accountability]] and access control and monitoring definitely needs to be in place.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/secure-your-data?u=76281980&t=123)** This can be more of a challenging cloud environment since some data require higher levels of security than others, and access to data from outside the enterprise, say from contractors or suppliers has to be accounted for too.
 >
@@ -2037,21 +2007,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (8), [[Security]] (6), management (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[SaaS|Software as a service]] (1), [[Accountability]] (1)
 > **Env Vars:** crm (1), hcm (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [presenter] (1)
 
-#### Establish a training plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980)
+#### [Establish a training plan](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=0)** - [Instructor] One very important piece of the cloud migration puzzle is staff training.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=5)** A sudden switch to cloud computing is not something you simply want to spring on your people and let them fend for themselves.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=5)** A sudden switch to [[Cloud Computing]] is not something you simply want to spring on your people and let them fend for themselves.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=12)** To help ensure a successful migration, you need to have a plan for getting the people in your organization up to speed and ready for the switch.
 >
@@ -2073,7 +2042,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=74)** Quite often the tools people will use remain the same or similar.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=78)** Just think of Microsoft 365 versus the Office Suite.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=78)** Just think of [[Microsoft 365]] versus the [[Microsoft Office|Office]] Suite.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=83)** But the way they're used will change, and it's these changes that need to be clearly illustrated.
 >
@@ -2083,7 +2052,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=109)** Typically, in larger organizations, that tools and training will be made available to a group at a time, such as by department or type of staff.
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=118)** Training can be live sessions, internally or over the web or online training like you get at LinkedIn Learning, for example.
+> **[1:58](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=118)** Training can be live sessions, internally or over the web or online training like you get at [[LinkedIn]] Learning, for example.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/establish-a-training-plan?u=76281980&t=126)** Odds are good you'll find training out there on any of the cloud tools you're migrating to.
 >
@@ -2099,7 +2068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft 365]] (1), [[Microsoft Office|Office]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft 365]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** switch to (1)
@@ -2107,12 +2076,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to change
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980)
+#### [Respond to change](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=0)** - [Instructor] In reality, cloud computing is still growing much like the internet was back in the mid nineties.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=0)** - [Instructor] In reality, [[Cloud Computing]] is still growing much like the internet was back in the mid nineties.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=6)** There's no doubt the cloud is going to evolve over time and will be something different to what we call the cloud at this very moment.
 >
@@ -2132,7 +2100,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=57)** One might be a better match for you, but you won't know unless you're paying attention.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=61)** A quick Google search of top cloud providers and performance will give you all you need to stay current on what's going on in the world of cloud computing.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=61)** A quick [[Google]] search of top cloud providers and performance will give you all you need to stay current on what's going on in the world of cloud computing.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/respond-to-change?u=76281980&t=71)** The bottom line is cloud computing has already evolved, and it will continue to do so.
 >
@@ -2140,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2149,8 +2117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitor performance post transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980)
+#### [Monitor performance post transition](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2194,33 +2161,32 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=115)** It also provides a good security monitoring solution and offers cloud migration assistance.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=121)** It's basically plug and play since Dynatrace auto detects and monitors individual cloud components and scans for any changes in dynamic environments, Dynatrace provides integration into the most popular cloud and container environments like AWS, Google Cloud, Oracle Cloud, and many more.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=121)** It's basically plug and play since Dynatrace auto detects and monitors individual cloud components and scans for any changes in dynamic environments, Dynatrace provides integration into the most popular cloud and container environments like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], Oracle Cloud, and many more.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=142)** Lastly, CloudHealth is another excellent option at [vmware.com](https://vmware.com), it delivers intelligent insights that help you optimize costs, improve governance, and strengthen your cloud security posture.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=142)** Lastly, CloudHealth is another excellent option at [vmware.com](https://vmware.com), it delivers intelligent insights that help you optimize costs, improve governance, and strengthen your [[Cloud Security]] posture.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=155)** Of course, there are many, many more tools out there and many more to come.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=159)** So performing regular searches on cloud monitoring services might be a good plan for finding the services you need to ensure your cloud computing experience is always at its best.
+> **[2:39](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980&t=159)** So performing regular searches on cloud monitoring services might be a good plan for finding the services you need to ensure your [[Cloud Computing]] experience is always at its best.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (4), [[Security]] (2), application (1), aws (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Security]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (2), aws (1)
 > **URLs:** [testmy.net](https://testmy.net) (1), [vmware.com](https://vmware.com) (1)
 > **Env Vars:** aws (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fine-tune cloud use
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980)
+#### [Fine-tune cloud use](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=0)** - [Instructor] Once you've made your migration to the cloud and your monitoring performance, opportunities to fine tune or improve performance may present themselves.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=9)** Let's look at some tips for fine tuning your cloud computing performance, beginning with cloud storage.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=9)** Let's look at some tips for [[Fine Tuning]] your [[Cloud Computing]] performance, beginning with [[Cloud Storage]].
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=15)** If your cloud system makes use of infrastructure as a service, here are some tips that can help to optimize your cloud performance.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=15)** If your cloud system makes use of [[IaaS|infrastructure as a service]], here are some tips that can help to optimize your cloud performance.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=23)** First up, segment data by performance requirements.
 >
@@ -2256,13 +2222,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=128)** Back up most important files first.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=131)** With cloud services, an initial backup has to happen before incremental backups can happen on a regular basis.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=131)** With [[Cloud Services]], an initial backup has to happen before incremental backups can happen on a regular basis.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=138)** The initial backup can take weeks or months, depending on your data and connection speeds.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=144)** So prioritize your content.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=146)** For example, you might want to choose important Office files to be backed up before image files, and then executables.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=146)** For example, you might want to choose important [[Microsoft Office|Office]] files to be backed up before image files, and then executables.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/fine-tune-cloud-use?u=76281980&t=155)** Consider using bandwidth throttling.
 >
@@ -2292,7 +2258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), cloud (12), [[Fine Tuning]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Fine Tuning]] (1), [[Cloud Computing]] (1), [[Cloud Storage]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2304,14 +2270,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980)
+#### [The Internet of Things](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=0)** - [Instructor] Cloud computing has been growing wildly for some time now, and it continues to do so.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] has been growing wildly for some time now, and it continues to do so.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=5)** In this chapter, we're going to check in on some emerging technologies and how the cloud fits in with them beginning with a term we're hearing more and more, the Internet of Things.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=5)** In this chapter, we're going to check in on some emerging technologies and how the cloud fits in with them beginning with a term we're hearing more and more, the [[IoT|Internet of Things]].
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=16)** So many things we use on a daily basis keep us connected and staying connected means accessing the internet or the cloud.
 >
@@ -2321,23 +2286,22 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=38)** So the question becomes, how can you process all this data?
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=42)** The answer for many businesses is the cloud, to be specific, cloud-based data analytics platforms backed by hyperscaling servers, which can effectively facilitate all this data processing.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=42)** The answer for many businesses is the cloud, to be specific, cloud-based data analytics platforms backed by hyperscaling servers, which can effectively facilitate all this [[Data Processing]].
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=56)** Setting up IoT can be very expensive and complex to build from scratch, so cloud technologies can also come to the rescue as a viable solution for that potential concern.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=56)** Setting up [[IoT]] can be very expensive and complex to build from scratch, so cloud technologies can also come to the rescue as a viable solution for that potential concern.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980&t=68)** These days, almost all major cloud platforms address these concerns by making Internet of Things solutions a part of their offerings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (4), [[Internet of Things (IoT)|Internet of things]] (2), [[Analytics]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[Cloud Computing]] (1), [[Data Processing]] (1), [[IoT]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980)
+#### [Microservices](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=0)** - [Instructor] Another trend in cloud computing is microservices, which is the componentization of a single large application to simplify the software process.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=0)** - [Instructor] Another trend in [[Cloud Computing]] is [[Microservices]], which is the componentization of a single large application to simplify the software process.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=11)** Dealing with one huge application is quite out of date now.
 >
@@ -2347,7 +2311,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=32)** Doing this makes it much easier for many different small teams to deliver multiple modules independent of the actual bulk application.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=41)** And this enables the continuous delivery of fully updated software, which ultimately speeds up the app delivery cycle.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=41)** And this enables the [[Continuous Delivery (CD)|continuous delivery]] of fully updated software, which ultimately speeds up the app delivery cycle.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microservices?u=76281980&t=48)** Amazon is a prime example of microservice architecture at work.
 >
@@ -2365,13 +2329,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), application (4), cloud (1), teams (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Cloud Computing]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980)
+#### [Containers](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2383,32 +2346,31 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=26)** Containers started to rise in popularity exactly when the speed of delivery and complexity started to become very important for the IT industry.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=37)** Unlike traditional virtual machines or VMs that hold the main operating system, container technology is more of a lightweight software packaging method where a container package carries a piece of the software, and its bare essentials like libraries and configuration files, to move across different computing environments.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=37)** Unlike traditional [[Virtual Machines]] or VMs that hold the main operating system, container technology is more of a lightweight software packaging method where a container package carries a piece of the software, and its bare essentials like libraries and configuration files, to move across different computing environments.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=57)** Major cloud vendors offer containers as a service products including Amazon Elastic Container Service, AWS Fargate, as well as many offerings from Google, Microsoft and IBM.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=57)** Major cloud vendors offer containers as a service [[Microsoft Products|products]] including Amazon Elastic Container Service, AWS Fargate, as well as many offerings from [[Google]], [[Microsoft]] and IBM.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=70)** Containers can also be deployed on public or private cloud infrastructure without the use of dedicated products from a cloud vendor.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/containers?u=76281980&t=70)** Containers can also be deployed on public or private [[Cloud Infrastructure]] without the use of dedicated products from a cloud vendor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Microsoft Products|Products]] (2), [[Containerization]] (1), data (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Virtual Machines]] (1), [[Google]] (1), [[Microsoft]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** aws (1), ibm (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980)
+#### [Artificial intelligence](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=0)** - [Narrator] Artificial intelligence can now be considered the next generation technology solution that is highlighting the technology world in a different light.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] can now be considered the next generation technology solution that is highlighting the technology world in a different light.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=9)** AI solutions demonstrate machine intelligence independent of human assistance, and we're seeing how it's gaining market dominance among existing tools.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=9)** [[AI Solutions]] demonstrate machine intelligence independent of human assistance, and we're seeing how it's gaining market dominance among existing tools.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=20)** Because building AI applications is so complex for many businesses, the cloud can play a crucial role.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=27)** Machine learning and other deep learning tools require massive computing power and storage.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=27)** Machine learning and other [[Deep Learning]] tools require massive computing power and storage.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=33)** So, cloud-based AI is emerging as the most sought-after solution for businesses of any size in realizing their AI efforts.
 >
@@ -2420,13 +2382,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=63)** And secondly, only the cloud can make it possible for businesses to cope with the extraordinary scale required by providing such data-intensive services to multiple clients at an affordable cost.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=76)** So, AI is definitely something to continue watching, especially with relation to cloud services and their providers.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=76)** So, AI is definitely something to continue watching, especially with relation to [[Cloud Services]] and their providers.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/artificial-intelligence?u=76281980&t=83)** It's believed by many in the industry that AI will account for as much as 50% of total public cloud services revenue by 2025.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), cloud (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[AI Solutions]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2435,30 +2397,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=0)** - [David] Congratulations, you've reached the end of this introductory course on cloud computing for IT pros.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=0)** - [David] Congratulations, you've reached the end of this introductory course on [[Cloud Computing]] for IT pros.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=6)** You should now have a better understanding of what the cloud is and how cloud computing might benefit you or your business.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=13)** Now, perhaps you're ready to learn more, more about the cloud, more about specific cloud-based tools, or maybe you'd like to get a better understanding of one particular area of cloud computing.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=24)** Well, LinkedIn Learning has you covered.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=24)** Well, [[LinkedIn]] Learning has you covered.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=26)** In fact, LinkedIn Learning has multiple learning paths devoted to cloud computing, and it's quite possible you found this very course through one of the learning paths I'm referring to.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=37)** They're full of related courses and movies that take you deeper into the specifics of cloud computing, covering topics like security, big data and storage.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=37)** They're full of related courses and movies that take you deeper into the specifics of cloud computing, covering topics like security, [[Big Data]] and storage.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=47)** You'll also find courses taking you deeper into specific products and services like Google Cloud platform, Amazon Web Services, Windows Azure, and much, much more.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=47)** You'll also find courses taking you deeper into specific [[Microsoft Products|products]] and services like [[Google Cloud Platform (GCP)|Google Cloud platform]], [[Amazon Web Services (AWS)|Amazon Web Services]], [[Windows]] [[Microsoft Azure|Azure]], and much, much more.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980&t=57)** This is David River saying thanks for watching and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[LinkedIn]] (2), business (1), [[Security]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[LinkedIn]] (2), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [david] (1)
 

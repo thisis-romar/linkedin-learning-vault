@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using closures in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
+#### [Using closures in JavaScript](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980&t=0)** - Have you ever wondered what JavaScript closures can do besides make a job interview more challenging?
+> **[0:00](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980&t=0)** - Have you ever wondered what [[JavaScript]] closures can do besides make a job interview more challenging?
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980&t=5)** Closures are powerful and they're also tricky to use.
 >
@@ -95,16 +94,15 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980&t=1)** - [Instructor] This course assumes you have some experience coding in JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980&t=1)** - [Instructor] This course assumes you have some experience coding in [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980&t=5)** If you don't have experience with JavaScript, the JavaScript Essentials course is a great place to start.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980&t=11)** To get an overview of the modern JavaScript tools we will be using, check out the Learning ECMAScript 6 course.
+> **[0:11](https://www.linkedin.com/learning/javascript-closures/what-you-should-know-14372073?u=76281980&t=11)** To get an overview of the modern JavaScript tools we will be using, check out the Learning [[ECMAScript]] 6 course.
 
 > [!info]- Semantic Content
 >
@@ -112,8 +110,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment setup and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980)
+#### [Environment setup and exercise files](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=67)** You also need an API key from [openweathermap.org](https://openweathermap.org).
 >
-> **[1:11](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=71)** You undoubtedly already have a web browser installed on your machine and any major modern browser, Chrome, Firefox, or Microsoft Edge, is fine for this course.
+> **[1:11](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=71)** You undoubtedly already have a web browser installed on your machine and any major modern browser, Chrome, Firefox, or [[Microsoft]] Edge, is fine for this course.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=83)** I'll be using Chrome in these videos, which is a popular choice among web developers because of the extensive and powerful developer tools it has built in.
 >
@@ -151,15 +148,15 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=129)** Any editor that lets you edit and save plain text is fine for this course, so if you have a code editor you like, such as Sublime Text or Atom, it's fine to use it.
 >
-> **[2:20](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=140)** I use Visual Studio Code in these videos, which is a version of Microsoft's Visual Studio that was created specifically for web development.
+> **[2:20](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=140)** I use Visual Studio Code in these videos, which is a version of Microsoft's Visual Studio that was created specifically for [[Web Development]].
 >
-> **[2:28](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=148)** Visual Studio Code is free and has Windows, Mac, and Linux releases.
+> **[2:28](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=148)** Visual Studio Code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[2:33](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=153)** The Code is available on GitHub and users can submit issues there as well.
+> **[2:33](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=153)** The Code is available on [[GitHub]] and users can submit issues there as well.
 >
 > **[2:40](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=160)** I've customized my editor with one extension.
 >
-> **[2:44](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=164)** Open in Browser, created by TechER, lets you open the current HTML file directly in your default browser using the alt + b or option + b keyboard shortcut.
+> **[2:44](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=164)** Open in Browser, created by TechER, lets you open the current [[HTML]] file directly in your default browser using the alt + b or option + b keyboard shortcut.
 >
 > **[2:55](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=175)** So this just saves a trip to the file manager to open a file in the browser the first time.
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=189)** So if you don't have one installed at this point, use this as your excuse to install it.
 >
-> **[3:14](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=194)** I'm using http-server, which is a command-line utility that runs under Node and is installed through the Node Package Manager, or NPM.
+> **[3:14](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=194)** I'm using http-server, which is a command-line utility that runs under Node and is installed through the Node Package Manager, or [[npm]].
 >
 > **[3:23](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=203)** You can install Node by downloading a GUI installer from [nodejs.org](https://nodejs.org).
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=282)** And by having your own key, you can ensure you stay below the limit of free requests.
 >
-> **[4:47](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=287)** To do this, you need to sign up for an account with [openweathermap.org](https://openweathermap.org) and obtain an API key, which you'll use when creating your AJAX requests for data.
+> **[4:47](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=287)** To do this, you need to sign up for an account with [openweathermap.org](https://openweathermap.org) and obtain an API key, which you'll use when creating your [[AJAX]] requests for data.
 >
 > **[4:56](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=296)** So let's set that up now.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=327)** And then on the page that opens, click the sign up button and in the Create New Account box, you're going to create a unique username And I'm going to use closurescourse, going to enter an email address, and then you're going to enter a password of at least eight characters in both boxes.
 >
-> **[5:57](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=357)** And you can read the terms of service and the privacy policy, and then check this box.
+> **[5:57](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=357)** And you can read the terms of service and the [[Privacy]] policy, and then check this box.
 >
 > **[6:04](https://www.linkedin.com/learning/javascript-closures/environment-setup-and-exercise-files-14367407?u=76281980&t=364)** I'm going to opt out of receiving emails.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), data (5), web (4), node (3), [[npm]] (3)
+> **Frameworks & Libraries:** [[npm]] (3), [[Microsoft]] (2), [[AJAX]] (2), [[Web Development]] (1), [[Windows]] (1)
 > **Env Vars:** api (13), http (2), ajax (2), html (1), npm (1)
 > **CLI Commands:** make (3), node (3), npm (3), sudo (3)
 > **Tools:** visual studio (3), firefox (1), safari (1), sublime (1), atom (1)
@@ -264,12 +261,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), in the menu (2), select the (1), open the (1)
 > **Definitions:** is a  (4), is an  (2)
 
-#### Using CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-coderpad-challenges?u=76281980)
+#### [Using CoderPad challenges](https://www.linkedin.com/learning/javascript-closures/using-coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-closures/using-coderpad-challenges?u=76281980&t=0)** - [Instructor] This course on JavaScript closures include some code challenges that use the CoderPad environment.
+> **[0:00](https://www.linkedin.com/learning/javascript-closures/using-coderpad-challenges?u=76281980&t=0)** - [Instructor] This course on [[JavaScript]] closures include some code challenges that use the CoderPad environment.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-closures/using-coderpad-challenges?u=76281980&t=6)** So let's take a quick look at that workspace.
 >
@@ -311,8 +307,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Local and global scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
+#### [Local and global scope](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=4)** Scope is a way of describing which variables are available in different contexts within an application.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=12)** JavaScript includes a few different types of scope.
+> **[0:12](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=12)** [[JavaScript]] includes a few different types of scope.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=15)** For the purposes of creating a closure, two types of scope are important, global and local.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=368)** So we already said that clicks is a local variable to the update clicks function.
 >
-> **[6:13](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=373)** So because of that, once the function returns at the very end, the rest of my code doesn't have access to the clicks variable.
+> **[6:13](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=373)** So because of that, once the function returns at the very end, the [[Representational State Transfer (REST)|rest]] of my code doesn't have access to the clicks variable.
 >
 > **[6:22](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980&t=382)** So instead of trying to log that value from the global scope in the console where I don't have access to it, what if I instead add a console.log statement within the function itself, that way we know the variable exists when the statement runs.
 >
@@ -498,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), api (3), [[JavaScript]] (2), product (1), teams (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** tempf (3), tempc (1)
 > **Env Vars:** api (3), http (1)
 > **Definitions:** is a  (2), means that (1)
@@ -507,16 +502,15 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), go back to (1)
 > **UI Navigation:** go to (1), open the (1)
 
-#### Nesting functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980)
+#### [Nesting functions](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=0)** - [Instructor] Another building block of closures is nested functions.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=4)** In functional programming, we often work with a set of independent functions.
+> **[0:04](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=4)** In [[Functional Programming]], we often work with a set of independent functions.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=9)** In object-oriented programming, we work with individual functions as methods of an object.
+> **[0:09](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=9)** In [[Object-Oriented Programming (OOP)|object-oriented programming]], we work with individual functions as methods of an object.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=15)** In order to create a closure though, we nest functions, declaring a function within another function.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=139)** And so now reportClicks is my nested function, my inner function, and my outer function is updateClicks.
 >
-> **[2:26](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=146)** And from JavaScript's scoping rules, we know that the variables of the outer scope are available within any nested scope.
+> **[2:26](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=146)** And from [[JavaScript]]'s scoping rules, we know that the variables of the outer scope are available within any nested scope.
 >
 > **[2:34](https://www.linkedin.com/learning/javascript-closures/nesting-functions-14367404?u=76281980&t=154)** So the reportClicks function has access to the button variable that's defined in the outer function, updateClicks.
 >
@@ -570,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** updateclicks (4), reportclicks (4)
 > **Env Vars:** es6 (1), api (1)
 > **File Paths:** script.js (1)
@@ -578,8 +572,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return a value from an inner function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/return-a-value-from-an-inner-function-14372074?u=76281980)
+#### [Return a value from an inner function](https://www.linkedin.com/learning/javascript-closures/return-a-value-from-an-inner-function-14372074?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +676,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** updateclicks (13), reportclicks (7)
 > **Definitions:** is called (3), means that (1)
 > **CLI Commands:** make (2)
@@ -692,12 +684,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create parallel closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980)
+#### [Create parallel closures](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=1)** - [Tutor] Even though the ability to return a closure can be helpful in code organization, this feature of JavaScript wouldn't necessarily be very powerful if a function could return only a single reference.
+> **[0:01](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=1)** - [Tutor] Even though the ability to return a closure can be helpful in code organization, this feature of [[JavaScript]] wouldn't necessarily be very powerful if a function could return only a single reference.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=12)** If I wanted to reuse the same function elsewhere in my application, but had all of my uses referencing the same closed over values, my code would quickly become redundant and harder to maintain.
 >
@@ -711,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=49)** But how about if we want to reuse this function to also log each time a user moved the mouse over one of the items in the product gallery further down the page?
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=59)** So in the browser, scrolling down to the products section and let's dig into one of those gallery elements.
+> **[0:59](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=59)** So in the browser, scrolling down to the [[Microsoft Products|products]] section and let's dig into one of those gallery elements.
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-closures/create-parallel-closures-14366907?u=76281980&t=68)** I'm going to right click here and click inspect.
 >
@@ -777,24 +768,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), next (2), feature (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[JavaScript]] (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [tutor] (1)
 
-#### Solution: Create a closure using a nested function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/solution-create-a-closure-using-a-nested-function?u=76281980)
+#### [Solution: Create a closure using a nested function](https://www.linkedin.com/learning/javascript-closures/solution-create-a-closure-using-a-nested-function?u=76281980)
 
 
 ### 2. Creating and Using Closures
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement the module pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
+#### [Implement the module pattern](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=1)** - [Instructor] One of the main places that closures can be used in JavaScript is to create modules.
+> **[0:01](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=1)** - [Instructor] One of the main places that closures can be used in [[JavaScript]] is to create modules.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=6)** The idea of a module is to encapsulate a set of code and expose just a subset of properties and methods for working with it.
 >
@@ -876,7 +865,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=289)** So I need to change all the references outside of the module to reference the object name first.
 >
-> **[4:54](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=294)** So first down here in the fetch code in line 99, we've got the URL and that should reference listwidget.url, and I'm going to copy list widget dot.
+> **[4:54](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=294)** So first down here in the [[Fetch]] code in line 99, we've got the URL and that should reference listwidget.url, and I'm going to copy list widget dot.
 >
 > **[5:08](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980&t=308)** So I also need to add that prefix to the reference to the API key, and then also the update UI success method of the list widget object and the update UI failure method.
 >
@@ -900,15 +889,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[JavaScript]] (2), [[Fetch]] (1), next (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Fetch]] (1)
 > **Env Vars:** iife (6), api (4), url (2)
 > **File Paths:** script.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoid unintended closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980)
+#### [Avoid unintended closures](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,9 +914,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=42)** The design team has asked us to mock up a stopwatch animation as a sports-themed placeholder while the weather information is loading after users click the Get Forecast button.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=54)** And we'll start with something basic and leave off integrating it with the rest of the code until we get the green light from the design team.
+> **[0:54](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=54)** And we'll start with something basic and leave off integrating it with the [[Representational State Transfer (REST)|rest]] of the code until we get the green light from the design team.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=61)** So first, for testing purposes, we'll go down to the bottom of our file to the fetch code and we'll comment that out, so that's lions 99 through 105.
+> **[1:01](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=61)** So first, for testing purposes, we'll go down to the bottom of our file to the [[Fetch]] code and we'll comment that out, so that's lions 99 through 105.
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=73)** And this will let us test the animation without the weather forecast overwriting it.
 >
@@ -936,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=86)** So that'll be listWidget.updateUIWorking.
 >
-> **[1:32](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=92)** And this will be a method that makes UI updates while the AJAX request is happening.
+> **[1:32](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=92)** And this will be a method that makes UI updates while the [[AJAX]] request is happening.
 >
 > **[1:37](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=97)** And then moving up to the module, on line 68 I'm going to add a new method called updateUIWorking.
 >
@@ -954,7 +942,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=144)** That's going to take an anonymous function.
 >
-> **[2:29](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=149)** And then in my setTimeout function, I'll grab document.querySelector .conditions and I'll set the inner HTML using a template literal.
+> **[2:29](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=149)** And then in my setTimeout function, I'll grab document.querySelector .conditions and I'll set the inner [[HTML]] using a template literal.
 >
 > **[2:45](https://www.linkedin.com/learning/javascript-closures/avoid-unintended-closures-14366910?u=76281980&t=165)** So I'll create a p element with at class of animation and I'll give it text 00:00.
 >
@@ -1044,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), dom (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), [[HTML]] (1)
 > **Code Identifiers:** settimeout (7), updateuiworking (2), preventdefault (1), listwidget (1), queryselector (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ajax (1), html (1)
@@ -1053,14 +1041,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use JS features in place of closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980)
+#### [Use JS features in place of closures](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=1)** - [Instructor] In recent versions, JavaScript has added a few features that enable you to control scope without building closures.
+> **[0:01](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=1)** - [Instructor] In recent versions, [[JavaScript]] has added a few features that enable you to control scope without building closures.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=8)** ECMAScript 5 implemented the forEach method for arrays.
+> **[0:08](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=8)** [[ECMAScript]] 5 implemented the forEach method for arrays.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=13)** We can use this method instead of a for loop to iterate through an array.
 >
@@ -1094,7 +1081,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=134)** So saving this, reloading the page in the browser.
 >
-> **[2:17](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=137)** And I do not need to enter anything in the text box because I have commented out the fetch code here.
+> **[2:17](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=137)** And I do not need to enter anything in the text box because I have commented out the [[Fetch]] code here.
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-closures/use-js-features-in-place-of-closures?u=76281980&t=144)** So just clicking the button, and we get the animation just like we did before.
 >
@@ -1122,15 +1109,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), [[ECMAScript]] (1), dom (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ECMAScript]] (1), [[Fetch]] (1)
 > **Code Identifiers:** foreach (7), settimeout (2), updateuiworking (1)
 > **Env Vars:** es6 (2), dom (1)
 > **Analogies:** just like (2), for instance (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a module
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980)
+#### [Solution: Create a module](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980&t=105)** So the final step here in order to create a module, I want to convert my function to an IIFE.
 >
-> **[1:51](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980&t=111)** And so I'm going to do an opening paren before the word function.
+> **[1:51](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980&t=111)** And so I'm going to do an opening paren before the [[Microsoft Word|word]] function.
 >
 > **[1:56](https://www.linkedin.com/learning/javascript-closures/solution-create-a-module?u=76281980&t=116)** And then at the end here, I need the opening and closing parens to actually call the function.
 >
@@ -1185,16 +1171,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to learn closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)
+#### [Continuing to learn closures](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=0)** - [Sasha] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=3)** You now have a basic understanding of what a closure is in JavaScript, how to create one, and how it's used in common programming patterns.
+> **[0:03](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=3)** You now have a basic understanding of what a closure is in [[JavaScript]], how to create one, and how it's used in common programming patterns.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=11)** If you want more experience with writing Vanilla JavaScript code, check out App Building with Vanilla JavaScript.
+> **[0:11](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=11)** If you want more experience with writing [[Vanilla]] JavaScript code, check out App Building with Vanilla JavaScript.
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980&t=18)** Feel free to connect with me online.
 >
@@ -1204,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Vanilla]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Vanilla]] (2)
 > **Speakers:** - [sasha] (1)
 
 

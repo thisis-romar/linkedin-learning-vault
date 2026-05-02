@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your business analyst career
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
+#### [Transform your business analyst career](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,11 +99,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Automation]] (1)
 > **Speakers:** - the (1)
 
-#### The mindset of a digital BA
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980)
+#### [The mindset of a digital BA](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +121,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=73)** To make the maximum impact in delivering business results, teams and especially business analysts need to understand what the latest technologies are capable of and what problems they're poised to solve.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=89)** This course is not meant to give you specific direction on how to apply every digital and artificial intelligence technology.
+> **[1:29](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=89)** This course is not meant to give you specific direction on how to apply every digital and [[Artificial Intelligence (AI)|artificial intelligence]] technology.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=98)** Instead, we're offering a shift in your approach and thinking about your business analysis process and knowledge base when interacting with your business and technology partners.
 >
@@ -156,17 +153,16 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=212)** Your role in digital transformations is to facilitate the team through a process of understanding the customer's needs and facilitating the discovery of the right and innovative solution.
 >
-> **[3:46](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=226)** With the right mindset, curiosity, and outcome focus, your organization will build better products and solutions that drive customer satisfaction and business results.
+> **[3:46](https://www.linkedin.com/learning/learning-digital-business-analysis/the-mindset-of-a-digital-ba?u=76281980&t=226)** With the right mindset, curiosity, and outcome focus, your organization will build better [[Microsoft Products|products]] and solutions that drive customer satisfaction and business results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), teams (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), express (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### Intelligent automation and digital landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-and-digital-landscape?u=76281980)
+#### [Intelligent automation and digital landscape](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-and-digital-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,13 +228,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (3), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### Transforming into a digital business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980)
+#### [Transforming into a digital business analyst](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -258,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980&t=49)** The business analyst role of the past and what makes a BA successful is changing, and in many ways will continue to change.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980&t=58)** Looking at the overall customer experience and business value chain, understanding data insights, and the facilitation of decision-making is overtaking creating documents.
+> **[0:58](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980&t=58)** Looking at the overall customer experience and business value chain, understanding data insights, and the facilitation of [[Decision-Making]] is overtaking creating documents.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-digital-business-analysis/transforming-into-a-digital-business-analyst?u=76281980&t=72)** Facilitating outcomes from the big picture to the details is what comes into focus working in digital transformations.
 >
@@ -296,14 +290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), data (3), [[Decision-Making]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **Cross-References:** in the next (1), in the last (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - what (1)
 
-#### Understand the capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980)
+#### [Understand the capabilities](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=44)** And that's just the start.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=47)** When we combine these with new advances in how technology can analyze disparate and unstructured data in unthinkable speed, we get innovations that can be applied to business process and customer interactions that are mind-blowing.
+> **[0:47](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=47)** When we combine these with new advances in how technology can analyze disparate and [[Unstructured Data]] in unthinkable speed, we get innovations that can be applied to business process and customer interactions that are mind-blowing.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=62)** Some of these capabilities have been around for years, but until recently have not had the quality and speed levels to make a big splash.
 >
@@ -325,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=77)** These capabilities are new easier to implement and with much better quality to make it a viable solution for many organizations.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=87)** Organizations are seeing the need to combine multiple artificial intelligence and digital capabilities to transform customer experiences, change their business models, and keep costs at a competitive level.
+> **[1:27](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=87)** Organizations are seeing the need to combine multiple [[Artificial Intelligence (AI)|artificial intelligence]] and digital capabilities to transform customer experiences, change their business models, and keep costs at a competitive level.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-digital-business-analysis/understand-the-capabilities?u=76281980&t=102)** Digital strategies in many organizations are jumping on the opportunity to take advantage of these capabilities and to simply keep up with their competition and customer expectations.
 >
@@ -357,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (3), express (2), [[Unstructured Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - today (1)
 
@@ -366,8 +359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Natural language generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
+#### [Natural language generation](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=19)** Yes, it's happening and it's called natural language generation, or NLG.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=25)** Natural language generation is an artificial intelligence capability that automates data into readable text.
+> **[0:25](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=25)** Natural language generation is an [[Artificial Intelligence (AI)|artificial intelligence]] capability that automates data into readable text.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=33)** Now, that takes a moment to digest, doesn't it?
 >
@@ -389,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=45)** Think about anything people write in a business environment, like formal written communications and reports.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=52)** Some examples of how organizations are using natural language generation and processing are generating letters and forms, and creating text summaries of datasets.
+> **[0:52](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=52)** Some examples of how organizations are using natural language generation and processing are generating letters and [[Forms]], and creating text summaries of datasets.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=65)** Things like creating reports and summaries, like financial reports and electronic medical records.
 >
@@ -399,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=79)** Financial portfolio summaries from account data.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=83)** Creating dashboards and personalized customer recommendations and communications.
+> **[1:23](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=83)** Creating [[Dashboards]] and personalized customer recommendations and communications.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=88)** Also, explaining charts and graphs into text.
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=159)** In thinking about your business and systems processes, identify where text-based writings, like reports, summaries, emails, write-ups, and things that are currently manually generated.
 >
-> **[2:53](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=173)** And identify where text-based write=ups may not be created due to lack of human resources, but would be helpful to improve the process and experience for customers and internal roles as well.
+> **[2:53](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=173)** And identify where text-based write=ups may not be created due to lack of [[Human Resources (HR)|human resources]], but would be helpful to improve the process and experience for customers and internal roles as well.
 >
 > **[3:05](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980&t=185)** Updating templates to leverage machine learning to auto create better letters and forms.
 >
@@ -441,19 +433,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (5), [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Dashboards]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** nlg (5)
 > **Exercise Files:** template (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - would (1)
 
-#### Speech recognition and voice technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/speech-recognition-and-voice-technologies?u=76281980)
+#### [Speech recognition and voice technologies](https://www.linkedin.com/learning/learning-digital-business-analysis/speech-recognition-and-voice-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=1)** - Speech recognition and voice technology has come a long way.
+> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=1)** - [[Speech Recognition]] and voice technology has come a long way.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-digital-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=5)** Remember when it was hard to get a call center system to even recognize you saying one or operator?
 >
@@ -511,13 +502,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Speech Recognition]] (5), data (1), next (1), [[Automation]] (1), business (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (5)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - speech (1)
 
-#### Chatbots and virtual agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980)
+#### [Chatbots and virtual agents](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980&t=46)** They and their synonymous virtual agents are not just text-based, they can use voice, too.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980&t=54)** The use of natural language processing adds on to speech recognition, voice technologies, and natural language generation by mimicking human-like tones in speech, and many times, machine learning is used as well to find patterns and mimic talking to a human.
+> **[0:54](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980&t=54)** The use of [[Natural Language Processing (NLP)|natural language processing]] adds on to [[Speech Recognition]], voice technologies, and natural language generation by mimicking human-like tones in speech, and many times, machine learning is used as well to find patterns and mimic talking to a human.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=76281980&t=73)** Previous generations of chatbots used templated responses based on rules and key words, and advanced ones is where there's a virtual agent term that comes into play.
 >
@@ -571,14 +561,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2), for example (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - chatbots (1)
 
-#### Robotic process automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980)
+#### [Robotic process automation](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=7)** Or is this an invisible robot?
 >
-> **[0:10](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=10)** It's a bit surreal to think about what Robotic Process Automation really is, and how it works.
+> **[0:10](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=10)** It's a bit surreal to think about what [[Robotic Process Automation (RPA)|Robotic Process Automation]] really is, and how it works.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=16)** Well, Robotic Process Automation, or RPA, is meant to mimic the work humans do when interacting with the machine.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=151)** In thinking about your business and system processes, identify where there are processes that are tedious multi-key stroke steps that are repeatable or rules driven.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=163)** Things like, logging into various applications, filling out forms, opening emails or attachments, and moving files around.
+> **[2:43](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=163)** Things like, logging into various applications, filling out [[Forms]], opening emails or attachments, and moving files around.
 >
 > **[2:52](https://www.linkedin.com/learning/learning-digital-business-analysis/robotic-process-automation?u=76281980&t=172)** Also, look for systems processes like connecting to API's, If/then decision logic and calculations, and extracting or merging data to format into reports.
 >
@@ -644,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), rpa (10), business (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), product (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Forms]] (1)
 > **Env Vars:** rpa (10), api (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
@@ -658,8 +647,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Biometrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
+#### [Biometrics](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +671,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=64)** "Are you calling about the invoice you just received?"
 >
-> **[1:07](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=67)** One area of biometrics is voice recognition and voice recognition combined with predictive analytics can drive a better call-in experience.
+> **[1:07](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=67)** One area of biometrics is voice recognition and voice recognition combined with [[Predictive Analytics]] can drive a better call-in experience.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=78)** Here are some other instances where biometrics can be used.
 >
@@ -713,7 +701,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=160)** It can also help with being faster and less cost to implement for some projects than traditional ways to solve the same business problem.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=170)** When combined with other artificial intelligence capabilities, it can really start to make a difference.
+> **[2:50](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=170)** When combined with other [[Artificial Intelligence (AI)|artificial intelligence]] capabilities, it can really start to make a difference.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980&t=177)** Let's look at how to identify where biometrics might be useful in your work.
 >
@@ -727,14 +715,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (1), management (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - sci (1)
 
-#### Machine and deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980)
+#### [Machine and deep learning](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,9 +743,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=69)** The machine could then predict why someone is calling without explicit rules to do so.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=75)** The machine could also use real-time data to update its own logic and pattern processing, in essence, learning to update the logic on its own based on real data.
+> **[1:15](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=75)** The machine could also use [[Real-Time]] data to update its own logic and pattern processing, in essence, learning to update the logic on its own based on real data.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=88)** Often used with other artificial intelligence capabilities, it has come so far recently and it's quick and easy to implement and experiment with.
+> **[1:28](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=88)** Often used with other [[Artificial Intelligence (AI)|artificial intelligence]] capabilities, it has come so far recently and it's quick and easy to implement and experiment with.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=98)** So, together, with the other capabilities, the power is harnessed for amazing advances in customer experience and business processes.
 >
@@ -788,20 +775,19 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=232)** With machines, we can get a handle on it when we plan to analyze for it and look for it.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=239)** Machine and deep learning is poised to literally change our lives as we know it, and though there are many concerns, being aware of them and having a plan to address them and learn from them with our eye on the desired outcomes will make all the difference.
+> **[3:59](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=239)** Machine and [[Deep Learning]] is poised to literally change our lives as we know it, and though there are many concerns, being aware of them and having a plan to address them and learn from them with our eye on the desired outcomes will make all the difference.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-digital-business-analysis/machine-and-deep-learning?u=76281980&t=256)** I encourage you to experiment, research, and learn more about machine learning as a business tool, not just a fancy technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (4), power (2), [[Real-Time]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - a (1)
 
-#### Video and image analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980)
+#### [Video and image analysis](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,9 +799,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=20)** Now, organizations are looking to improve the customer experience and create efficient operations using these same tools.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=28)** And like others we have seen it's not about the usage of this capability alone but combining this with others that make the business operations and customer experience something special.
+> **[0:28](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=28)** And like others we have seen it's not about the usage of this capability alone but combining this with others that make the [[Business Operations]] and customer experience something special.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=42)** Often, video and image analysis are combined with biometrics and predictive analytics of machine learning to make a newly imagined process.
+> **[0:42](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=42)** Often, video and image analysis are combined with biometrics and [[Predictive Analytics]] of machine learning to make a newly imagined process.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=52)** Some business uses for image and video analysis include things like, facial recognition used to identify customers, employees, vendors and others without needing pins, usernames or passwords.
 >
@@ -849,22 +835,21 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=204)** Video analysis alone is cool but typically provides only a piece of the puzzle to solve business problems.
 >
-> **[3:32](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=212)** Leveraging image and video analysis with other artificial intelligence capabilities, like biometrics and machine learning, is where organizations are finding efficiencies and improvements to customer experiences.
+> **[3:32](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=212)** Leveraging image and video analysis with other [[Artificial Intelligence (AI)|artificial intelligence]] capabilities, like biometrics and machine learning, is where organizations are finding efficiencies and improvements to customer experiences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Security]] (1), [[Predictive Analytics]] (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Predictive Analytics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** atm (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Swarm intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980)
+#### [Swarm intelligence](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=0)** - What do bees and ants have to do with digital transformations and artificial intelligence?
+> **[0:00](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=0)** - What do bees and ants have to do with digital transformations and [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=6)** It's not a bad joke, I promise.
 >
@@ -872,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=11)** Based on the ideas of crowdsourcing, it helps customers and organizations be more efficient in many ways.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=19)** Currently, organizations use a lot of data, surveys and statistical analysis to understand where a problem lies with inventory, routing and logistics, customer feedback, marketing, teams and production.
+> **[0:19](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=19)** Currently, organizations use a lot of data, surveys and [[Statistical Analysis]] to understand where a problem lies with inventory, [[Routing]] and logistics, customer feedback, marketing, teams and production.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=35)** These data sets are great, but don't provide solutions.
 >
@@ -886,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=82)** It's in play with airport luggage logistics and other supply chains, best driving routes for trucks and cars, traffic, the like.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=91)** And telecommunications and utilities getting supply and demand balanced out this way too.
+> **[1:31](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=91)** And [[Telecommunications]] and utilities getting supply and demand balanced out this way too.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=98)** Imagine that a physical location, like a store, a train station or an airport, could sense where people are and recommend routes to balance out the flow of people.
 >
@@ -900,13 +885,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=130)** And in a call center, this could be used to help route calls to be more efficient.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=138)** There is a growing number of algorithms being created for various uses in this space that enable organizations to implement them quickly.
+> **[2:18](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=138)** There is a growing number of [[Algorithms]] being created for various uses in this space that enable organizations to implement them quickly.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=149)** Let's look at how to identify where swarm intelligence might be useful in your work.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=155)** In thinking about your business and system processes, determine where many single units could share information to bring about efficiencies, and where sharing information among many, could make a group more effective as a whole.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=172)** There are so many details to how this works, and my role is to help you imagine alternatives to the current technologies that may bring your digital transformation into the future.
+> **[2:52](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=172)** There are so many details to how this works, and my role is to help you imagine alternatives to the current technologies that may bring your [[Digital Transformation]] into the future.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-digital-business-analysis/swarm-intelligence?u=76281980&t=184)** Remember that the technical details don't need to be known up front.
 >
@@ -918,18 +903,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1), [[Telecommunications]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
-#### Blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/blockchain?u=76281980)
+#### [Blockchain](https://www.linkedin.com/learning/learning-digital-business-analysis/blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/blockchain?u=76281980&t=1)** - We hear about Blockchain most often when discussing cryptocurrencies.
+> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/blockchain?u=76281980&t=1)** - We hear about [[Blockchain]] most often when discussing cryptocurrencies.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-digital-business-analysis/blockchain?u=76281980&t=5)** And increasingly businesses are finding more operational uses as well for Blockchain.
 >
@@ -981,7 +965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (13), business (6), [[Security]] (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Blockchain]] (13)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -991,8 +975,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linking the capabilities together
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
+#### [Linking the capabilities together](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980&t=167)** We could then use swarm intelligence to route the call to the available agent with the best skillset and satisfaction rating matched to the customer value or potential value predictions of that customer.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980&t=179)** Once the call's with an agent, robotic process automation can be used to help the agent quickly navigate to the customer records and the knowledge bases to answer and resolve issues quickly.
+> **[2:59](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980&t=179)** Once the call's with an agent, [[Robotic Process Automation (RPA)|robotic process automation]] can be used to help the agent quickly navigate to the customer records and the knowledge bases to answer and resolve issues quickly.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980&t=192)** Both of these examples leverage several digital technologies in different ways.
 >
@@ -1046,14 +1029,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Automation]] (2), career (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### How are requirements the same?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980)
+#### [How are requirements the same?](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980&t=26)** There are also a lot of similarities.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980&t=29)** In a digital transformation we will be using many of the same skills you have always used, with a slightly different lens.
+> **[0:29](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980&t=29)** In a [[Digital Transformation]] we will be using many of the same skills you have always used, with a slightly different lens.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-the-same?u=76281980&t=38)** To start, we need to focus our thoughts on our role as a facilitator of business outcomes, and less as a documenter.
 >
@@ -1117,17 +1099,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), teams (3), [[Digital Transformation]] (2), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **Env Vars:** iiba (1), babok (1), pmi (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - if (1)
 
-#### How are requirements different?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980)
+#### [How are requirements different?](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=1)** - Though we may use many of the same tasks and techniques for requirements in a digital transformation, we need to adapt the approach of how we go about the work and add some new techniques as well.
+> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=1)** - Though we may use many of the same tasks and techniques for requirements in a [[Digital Transformation]], we need to adapt the approach of how we go about the work and add some new techniques as well.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=13)** When a machine or system can learn patterns, rules, logic, and decisions for itself, and may not need explicit specifications for a programmer, the traditional writing of specifications changes dramatically in favor of guiding the process and system to the correct and valuable business and user outcomes.
 >
@@ -1161,7 +1142,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=137)** It helps teams with making sense of their assumptions, and it's great way for BAs to bring clarity to the team when high levels of ambiguity exist.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=149)** Second is customer journey mapping.
+> **[2:29](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=149)** Second is [[Customer Journey Mapping]].
 >
 > **[2:32](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=152)** Many teams are using and leveraging this critical technique.
 >
@@ -1183,18 +1164,17 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=226)** Requirements work is changing to be outcome over output driven in our new digital world.
 >
-> **[3:53](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=233)** As BAs, our challenge is in changing our own mindsets, behaviors, and influencing others through our focus on outcomes, feedback loops, and extreme customer focus.
+> **[3:53](https://www.linkedin.com/learning/learning-digital-business-analysis/how-are-requirements-different?u=76281980&t=233)** As BAs, our challenge is in changing our own mindsets, behaviors, and [[Influencing Others]] through our focus on outcomes, feedback loops, and extreme customer focus.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (3), teams (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Customer Journey Mapping]] (1), [[Influencing Others]] (1)
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
 > **Speakers:** - though (1)
 
-#### Linking to business process
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980)
+#### [Linking to business process](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=23)** All of this work leads us to creating a high quality requirements document.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=28)** In a digital transformation, we still use business process skills but in a different way.
+> **[0:28](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=28)** In a [[Digital Transformation]], we still use business process skills but in a different way.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=35)** Our focus is more outside in, focused on the customer.
 >
@@ -1238,7 +1218,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=144)** We can start to analyze and discuss the customer frustrations holistically and where improvements and innovative technologies may help create a better overall customer experience.
 >
-> **[2:37](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=157)** Through this analysis, we may find that digital and artificial intelligence capabilities can help dramatically lessen the effort on the caller's behalf to get their question answered while lowering the cost to the organization.
+> **[2:37](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=157)** Through this analysis, we may find that digital and [[Artificial Intelligence (AI)|artificial intelligence]] capabilities can help dramatically lessen the effort on the caller's behalf to get their question answered while lowering the cost to the organization.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-to-business-process?u=76281980&t=171)** Using business process analysis gives us a holistic point of view focused on the customer.
 >
@@ -1250,14 +1230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), data (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - traditionally (1)
 
-#### Intelligent automation in agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980)
+#### [Intelligent automation in agile](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1246,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=16)** Requirements will likely change throughout the project as markets, technology, and learnings change, bringing clarity into focus.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=26)** This means that the requirements process is suited to a more adaptive and Agile approach.
+> **[0:26](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=26)** This means that the requirements process is suited to a more adaptive and [[Agile Development|Agile]] approach.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=33)** Requirements work in Agile environments is all about planning for feedback and value to customers.
 >
@@ -1283,7 +1262,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=81)** First, it's about extreme customer obsession.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=86)** Even if the digital transformation vision is about an operational efficiency and internal processes, at the end of the day, those processes impact the customer and we need to have that view top-of-mind.
+> **[1:26](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=86)** Even if the [[Digital Transformation]] vision is about an operational efficiency and internal processes, at the end of the day, those processes impact the customer and we need to have that view top-of-mind.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=101)** Second, a learning mindset is critical to advancing the innovations most organizations desire.
 >
@@ -1301,7 +1280,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=155)** Some critical Agile requirements techniques in digital transformations are, first, using value-driven roadmaps to plan the order of the items that need to be implemented and get feedback to learn and inform requirements of future items on the roadmap.
 >
-> **[2:53](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=173)** Also, using visual analysis models as assets that the team reflects on and uses regularly to see the whole and analyze across the systems, processes, data, and user experience.
+> **[2:53](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=173)** Also, using visual analysis models as assets that the team reflects on and uses regularly to see the whole and analyze across the systems, processes, data, and [[User Experience (UX)|user experience]].
 >
 > **[3:09](https://www.linkedin.com/learning/learning-digital-business-analysis/intelligent-automation-in-agile?u=76281980&t=189)** Ensuring that as a whole, the items are moving the outcomes forward.
 >
@@ -1317,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), business (5), teams (4), [[Automation]] (2), [[Digital Transformation]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Digital Transformation]] (2), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - digital (1)
@@ -1327,20 +1306,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Experiments and hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
+#### [Experiments and hypothesis](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=1)** - Remember in high school science class when you had to form hypotheses and conduct experiments to learn, today customer demands are moving us to learn quickly to create complex and innovative technology and learning is no different, we need to experiment.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=20)** With many digital transformation capabilities, there's an increased complexity and uncertainty.
+> **[0:20](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=20)** With many [[Digital Transformation]] capabilities, there's an increased complexity and uncertainty.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=27)** It requires the minds of the entire team to solve.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=31)** Exact solutions and answers are not known up front and this requires us to work with experiments and hypotheses.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=40)** Even with agile approaches when we use user stories, we often fall short of creating meaningful learnings.
+> **[0:40](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=40)** Even with [[Agile Development|agile]] approaches when we use user stories, we often fall short of creating meaningful learnings.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=48)** It takes more to get to desired outcomes and to determine the indicators that will tell us we're on track to get to these outcomes.
 >
@@ -1360,7 +1338,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=110)** Second, we define the specific result we're looking to achieve with the test.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=116)** And third, we define the exact business metrics and measurements that we will track to.
+> **[1:56](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=116)** And third, we define the exact [[Business Metrics]] and measurements that we will track to.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980&t=123)** And next we define the experiments to test the hypothesis.
 >
@@ -1390,17 +1368,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), business (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), [[Business Metrics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - remember (1)
 
-#### Business measurements of success
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980)
+#### [Business measurements of success](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=1)** - Outcomes over outputs is the motto when working on digital products, and outcomes are measurements of success.
+> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=1)** - Outcomes over outputs is the motto when working on digital [[Microsoft Products|products]], and outcomes are measurements of success.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=8)** Outcomes create value, and outputs, well, they're just things that are created and some might create value.
 >
@@ -1416,11 +1393,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=52)** Being outcomes focused helps us ensure the physical things we create are actually making our organizations and customers better off and aligned to a higher level strategy.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=65)** The role of the business analyst in a digital transformation needs to be focused on defining, measuring, and tracking business outcomes throughout the project.
+> **[1:05](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=65)** The role of the business analyst in a [[Digital Transformation]] needs to be focused on defining, measuring, and tracking business outcomes throughout the project.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=75)** Now this may be a difference to the past, when many outcomes were defined at the beginning but may not have been tracked until well after implementation.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=85)** Well, when we use an agile approach with small pieces of work and we use experiments and hypotheses to learn, it's all about getting small pieces of learning and work to move the outcome metric and indicators in the right direction.
+> **[1:25](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=85)** Well, when we use an [[Agile Development|agile]] approach with small pieces of work and we use experiments and hypotheses to learn, it's all about getting small pieces of learning and work to move the outcome metric and indicators in the right direction.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-digital-business-analysis/business-measurements-of-success?u=76281980&t=100)** When done effectively, we can see progress during the project, not months later.
 >
@@ -1450,16 +1427,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - outcomes (1)
 
-#### The customer journey and user experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980)
+#### [The customer journey and user experience](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=1)** - In a digital transformation, the customer journey is a critical piece of the puzzle.
+> **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=1)** - In a [[Digital Transformation]], the customer journey is a critical piece of the puzzle.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=6)** A common tool used to analyze and collaborate as a team on the customer experience and journey is called a customer journey map.
 >
@@ -1481,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=80)** These would all have different journey maps.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=83)** If you're working on a digital transformation that's more about business operations and efficiency rather than customer facing touchpoints, there are a few things to keep in mind.
+> **[1:23](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=83)** If you're working on a digital transformation that's more about [[Business Operations]] and efficiency rather than customer facing touchpoints, there are a few things to keep in mind.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-digital-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=93)** First, you can still use the concept of a customer journey map for internal users.
 >
@@ -1507,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), product (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Business Operations]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -1515,8 +1491,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Monitoring the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980)
+#### [Monitoring the results](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=51)** To monitor the results as digital transformations progress, we focus on three things.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=58)** First, defining what the business metrics and indicators are to monitor.
+> **[0:58](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=58)** First, defining what the [[Business Metrics]] and indicators are to monitor.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=64)** Second, setting up the monitoring processes and interventions to align to business metrics and indicators that move those metrics, and third setting up check points to continuously monitor and discuss the results.
 >
@@ -1542,13 +1517,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=83)** As we monitor the indicators and metrics, we learn from them and we adapt the project based on what the metric show.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=92)** We monitor for things like ethics, bias, and data quality.
+> **[1:32](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=92)** We monitor for things like [[Ethics]], bias, and [[Data Quality]].
 >
 > **[1:37](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=97)** Business analysts can play a large role in understanding and analyzing the quality of the processes and the input data the machine uses as input and monitoring the results.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=109)** Part of this monitoring will show us problems, not just success.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=114)** As machines learn automatically how to react and make decisions, they can experience bias, making poor decision that impact outcomes as well.
+> **[1:54](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=114)** As machines learn automatically how to [[React.js|react]] and make decisions, they can experience bias, making poor decision that impact outcomes as well.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-digital-business-analysis/monitoring-the-results?u=76281980&t=125)** Our customers and organizations need us to help to find and monitor these outcomes and issues.
 >
@@ -1578,7 +1553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), [[Ethics]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (2), [[Ethics]] (2), [[Data Quality]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1589,8 +1564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,7 +1592,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), career (1)
 > **Speakers:** - the (1)
 
 

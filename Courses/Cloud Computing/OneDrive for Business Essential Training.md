@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaborate with your team using OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
+#### [Collaborate with your team using OneDrive](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=0)** - Did you know your office has a secret MVP?
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=0)** - Did you know your [[Microsoft Office|office]] has a secret MVP?
 >
 > **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=3)** Always working in the background, never getting a lot of credit, but always knows where your file is and always ready to hand it to you in every meeting.
 >
@@ -92,9 +91,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=15)** It's not a person.
 >
-> **[0:16](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=16)** I'm talking about Microsoft OneDrive for Business, the hardest working app you might not even know about.
+> **[0:16](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=16)** I'm talking about [[Microsoft OneDrive]] for Business, the hardest working app you might not even know about.
 >
-> **[0:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=22)** That's because it shines behind the scenes, but it can be integrated into almost every Microsoft app, browser extension, mobile device, and more.
+> **[0:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=22)** That's because it shines behind the scenes, but it can be integrated into almost every [[Microsoft]] app, browser extension, mobile device, and more.
 >
 > **[0:31](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980&t=31)** My name is Jess Stratton.
 >
@@ -102,20 +101,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft OneDrive]] (1), business (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft OneDrive]] (1), [[Microsoft]] (1)
 > **Env Vars:** mvp (2)
 > **Speakers:** - did (1)
 
-#### What is OneDrive for Business?
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980)
+#### [What is OneDrive for Business?](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=0)** - [Instructor] Microsoft OneDrive for Business is a tool to help you store and collaborate on files with your coworkers.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=0)** - [Instructor] [[Microsoft OneDrive]] for Business is a tool to help you store and collaborate on files with your coworkers.
 >
-> **[0:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=6)** In addition to storing and backing up your Microsoft 365 files in the cloud, you can add any file type to your storage area.
+> **[0:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=6)** In addition to storing and backing up your [[Microsoft 365]] files in the cloud, you can add any file type to your storage area.
 >
-> **[0:14](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=14)** For example, photos, logos, PDF files, and with Microsoft 365, you can edit these documents right from your browser as well as create new documents and save them right to your OneDrive For Business account.
+> **[0:14](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=14)** For example, photos, logos, PDF files, and with Microsoft 365, you can edit these documents right from your browser as well as create new documents and save them right to your [[Microsoft OneDrive|OneDrive]] For Business account.
 >
 > **[0:28](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/what-is-onedrive-for-business?u=76281980&t=28)** Collaboration is a huge part of OneDrive for Business.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3), [[Microsoft OneDrive]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3), [[Microsoft OneDrive]] (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** pdf (1)
 > **Analogies:** for example (1)
@@ -150,12 +148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign in, access, and navigate OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
+#### [Sign in, access, and navigate OneDrive](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=0)** - [Instructor] Let's get started with OneDrive for business.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=0)** - [Instructor] Let's get started with [[Microsoft OneDrive|OneDrive]] for business.
 >
 > **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=3)** The easiest way to get started is to open up a web browser and point it to [microsoft365.com](https://microsoft365.com).
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=68)** Once you click on it, it's going to take you to the full OneDrive for business website.
 >
-> **[1:13](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=73)** Now you'll notice that this app launcher stays with you, and in fact, whenever you're using any of the Microsoft apps through the browser, you can always click on this grid to go to any of those apps.
+> **[1:13](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=73)** Now you'll notice that this app launcher stays with you, and in fact, whenever you're using any of the [[Microsoft]] apps through the browser, you can always click on this grid to go to any of those apps.
 >
 > **[1:25](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=85)** All the way on the right hand side, there's some more things that will stay with you through any app.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=107)** This is where you can sign out of your account.
 >
-> **[1:49](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=109)** You can view your account or your entire Microsoft 365 profile.
+> **[1:49](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=109)** You can view your account or your entire [[Microsoft 365]] profile.
 >
 > **[1:54](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=114)** As you can see, I will be using the fictional account of Leslie Richardson, who works at the fictional company, [landonhotel.com](https://landonhotel.com), for this course.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=126)** To the left of this, in the center of the screen is the search bar, and I'll be showing you how to use that later.
 >
-> **[2:11](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=131)** Moving all the way over to the left hand side, I can click add new at any time to create a new folder, upload files or folders, or create any type of Microsoft Online document like Word, Excel, or PowerPoint.
+> **[2:11](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=131)** Moving all the way over to the left hand side, I can click add new at any time to create a new folder, upload files or folders, or create any type of Microsoft Online document like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], or [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:27](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=147)** Moving down, it defaults to the home view, which is a list of files that you have stored on OneDrive, and you can click on any of these buttons to filter it to a particular file type, and you can click more to get some more options.
 >
@@ -235,15 +232,15 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=256)** For example, here's all of my photos.
 >
-> **[4:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=259)** I can zoom in and zoom out on the top right hand side to make the view of them larger or smaller, and I can also choose how I want to view these photos directly.
+> **[4:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=259)** I can [[Zoom]] in and zoom out on the top right hand side to make the view of them larger or smaller, and I can also choose how I want to view these photos directly.
 >
 > **[4:31](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=271)** Below that is the quick access bar.
 >
-> **[4:35](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=275)** This may be a short or long list of groups that you belong to, because you can share files in groups in Microsoft Teams.
+> **[4:35](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=275)** This may be a short or long list of groups that you belong to, because you can share files in groups in [[Microsoft Teams]].
 >
 > **[4:42](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=282)** A lot of these files may be stored in your OneDrive account, and you can access those files by clicking on all of these groups in quick access.
 >
-> **[4:50](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=290)** These include recently used shared libraries, files and folders from SharePoint, Teams, channels, and folders.
+> **[4:50](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=290)** These include recently used shared libraries, files and folders from [[SharePoint]], Teams, channels, and folders.
 >
 > **[4:59](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980&t=299)** I'm going to click back on my files again, just to go back to this view.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), business (3), teams (2), [[Microsoft]] (2), [[Microsoft 365]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[Microsoft]] (2), [[Microsoft 365]] (2), [[Zoom]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (11)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (1), make (1)
@@ -270,16 +267,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sync with the OneDrive client app
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980)
+#### [Sync with the OneDrive client app](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=0)** - [Instructor] The OneDrive for Business Client App allows you to take these files that are currently on the cloud on OneDrive online and access them locally on your desktop computer.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=0)** - [Instructor] The [[Microsoft OneDrive|OneDrive]] for Business Client App allows you to take these files that are currently on the cloud on OneDrive online and access them locally on your desktop computer.
 >
 > **[0:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=10)** Your system administrator has most likely already installed the client app for you, but if not, you can click the gear icon on the top right hand side of the screen and choose Get the OneDrive apps.
 >
-> **[0:23](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=23)** Regardless of whether you're on Windows or Mac, it will know the difference and you can click the download button.
+> **[0:23](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=23)** Regardless of whether you're on [[Windows]] or Mac, it will know the difference and you can click the download button.
 >
 > **[0:30](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=30)** Once it finishes downloading, I'll install it and be right back.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=49)** The same thing would be visible on your Mac and Finder.
 >
-> **[0:52](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=52)** In fact, as you can see, it's completely separate from any personal or home office subscription that you may have for OneDrive.
+> **[0:52](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=52)** In fact, as you can see, it's completely separate from any personal or home [[Microsoft Office|office]] subscription that you may have for OneDrive.
 >
 > **[1:01](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sync-with-the-onedrive-client-app?u=76281980&t=61)** So I'll click into my Business OneDrive account and here are all the same files that we just saw online.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (15), cloud (4), business (3), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (15), [[Windows]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** means that (4), is a  (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** next chapter (1)
@@ -363,22 +359,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upload files via the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
+#### [Upload files via the web](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=0)** - [Instructor] Let's get to work uploading some files.
 >
-> **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=3)** You may be accessing the OneDrive app on this browser for the first time and see a fully-populated screen like I have here.
+> **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=3)** You may be accessing the [[Microsoft OneDrive|OneDrive]] app on this browser for the first time and see a fully-populated screen like I have here.
 >
-> **[0:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=10)** Those files come from all over the Microsoft 365 environment and OneDrive is the perfect place it chose to store the files.
+> **[0:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=10)** Those files come from all over the [[Microsoft 365]] environment and OneDrive is the perfect place it chose to store the files.
 >
 > **[0:18](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=18)** If you share a file in a Teams chat, it gets stored on your OneDrive.
 >
-> **[0:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=22)** If someone shares a file with you in Word, it will show up here in OneDrive.
+> **[0:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=22)** If someone shares a file with you in [[Microsoft Word|Word]], it will show up here in OneDrive.
 >
-> **[0:27](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=27)** In fact, if you want to share a file with someone in any of the apps like PowerPoint or Excel, those files have to be saved to OneDrive first.
+> **[0:27](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=27)** In fact, if you want to share a file with someone in any of the apps like [[Microsoft PowerPoint|PowerPoint]] or [[Microsoft Excel|Excel]], those files have to be saved to OneDrive first.
 >
 > **[0:36](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=36)** So you may have done this without actually seeing where it goes and are just now seeing for the first time where those files are located.
 >
@@ -396,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=75)** I'll browse my file system and I'll select a file.
 >
-> **[1:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=81)** I can either click on it or because I'm using Windows, I could also place a check mark beside it.
+> **[1:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=81)** I can either click on it or because I'm using [[Windows]], I could also place a check mark beside it.
 >
 > **[1:27](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980&t=87)** And I can also hold the Shift key down and select multiple files.
 >
@@ -462,18 +457,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (1), teams (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), drag and drop (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upload via the OneDrive client app
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980)
+#### [Upload via the OneDrive client app](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=0)** - [Instructor] Here are the files that we uploaded in the last video on the web, and here they're brought right back down to this OneDrive folder here on my computer.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=0)** - [Instructor] Here are the files that we uploaded in the last video on the web, and here they're brought right back down to this [[Microsoft OneDrive|OneDrive]] folder here on my computer.
 >
 > **[0:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=9)** It's important to note that there are now two completely separate copies of these files, because, remember, I did upload them right from a folder that was already here on my computer in Documents.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=49)** So let's open up a completely different folder.
 >
-> **[0:53](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=53)** I'll make this one smaller so that we can see these two windows side by side.
+> **[0:53](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=53)** I'll make this one smaller so that we can see these two [[Windows]] side by side.
 >
 > **[1:02](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-via-the-onedrive-client-app?u=76281980&t=62)** Let's find a file.
 >
@@ -549,18 +543,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), web (4), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980)
+#### [Organize files and folders](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=0)** - [Instructor] Let's organize OneDrive.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=0)** - [Instructor] Let's organize [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:02](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=2)** It's starting to get a little bit unruly, so I'd like to create some folders.
 >
@@ -666,18 +659,17 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=208)** You don't have to just create new folders and move things in there.
 >
-> **[3:31](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=211)** So in any folder, you can create an Office document, you can upload files, and you can upload folders at any time.
+> **[3:31](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=211)** So in any folder, you can create an [[Microsoft Office|Office]] document, you can upload files, and you can upload folders at any time.
 >
 > **[3:39](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/organize-files-and-folders?u=76281980&t=219)** You can click on My Files to get back to the root of your OneDrive folder.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), right-click (2)
 > **Speakers:** - [instructor] (1)
 
-#### Rename, download, and work with files
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980)
+#### [Rename, download, and work with files](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=23)** I'll click See details, and it's going to open up a pane on the right-hand side.
 >
-> **[0:28](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=28)** Because this is a Word document, I can peek inside this document.
+> **[0:28](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=28)** Because this is a [[Microsoft Word|Word]] document, I can peek inside this document.
 >
 > **[0:32](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=32)** In fact, I can scroll through and read any details that are in that file.
 >
@@ -705,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=52)** It's going to show me the activity of the file.
 >
-> **[0:55](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=55)** And in fact, if this had been mentioned or attached in Teams or Outlook, it would also show me that context here, and I could even click directly to go to those emails in Outlook.
+> **[0:55](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=55)** And in fact, if this had been mentioned or attached in Teams or [[Microsoft Outlook|Outlook]], it would also show me that context here, and I could even click directly to go to those emails in Outlook.
 >
 > **[1:07](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=67)** I can see the file size.
 >
@@ -721,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=91)** I can right-click on the entire folder and choose Download.
 >
-> **[1:36](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=96)** The only difference is that when you download a folder, it's going to download it as a ZIP file, so I did want to mention that, but don't forget, if you have the OneDrive Client for Business app on your computer, you already have those files downloaded to your desktop.
+> **[1:36](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=96)** The only difference is that when you download a folder, it's going to download it as a ZIP file, so I did want to mention that, but don't forget, if you have the [[Microsoft OneDrive|OneDrive]] Client for Business app on your computer, you already have those files downloaded to your desktop.
 >
 > **[1:50](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/rename-download-and-work-with-files?u=76281980&t=110)** So downloading it is really only effective if you've logged on to another computer, because you need those files for some reason.
 >
@@ -759,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (2), teams (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **UI Navigation:** right-click (3), go to (2), click on (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Definitions:** is a  (2)
@@ -768,12 +760,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Delete and recover files
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980)
+#### [Delete and recover files](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=0)** - [Instructor] If you are using the desktop Client Sync app of OneDrive, when you delete files, you're going to do it the exact same way that you would delete any other file from your operating system.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=0)** - [Instructor] If you are using the desktop Client Sync app of [[Microsoft OneDrive|OneDrive]], when you delete files, you're going to do it the exact same way that you would delete any other file from your operating system.
 >
 > **[0:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=9)** But there's one small difference.
 >
@@ -851,7 +842,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=231)** It's just like System Restore.
 >
-> **[3:52](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=232)** If you're familiar with that in Windows.
+> **[3:52](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=232)** If you're familiar with that in [[Windows]].
 >
 > **[3:55](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/delete-and-recover-files?u=76281980&t=235)** To use File Restore, click the gear icon on the top right hand side of the screen.
 >
@@ -873,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), next (3), cloud (1), web (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), [[Windows]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -881,24 +872,23 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search your files
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980)
+#### [Search your files](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=0)** - [Instructor] There's a few ways you can search for files.
 >
-> **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=3)** The first way is on the home screen in OneDrive for the web.
+> **[0:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=3)** The first way is on the home screen in [[Microsoft OneDrive|OneDrive]] for the web.
 >
 > **[0:07](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=7)** If you've been working on a project or a file that you know you've recently accessed, everything that you've used lately will be up here, and you may be able to find what you're looking for.
 >
-> **[0:16](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=16)** In addition, OneDrive knows files and projects that you've been working on throughout the Microsoft 365 environment, and we'll put them in this top list that says for you.
+> **[0:16](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=16)** In addition, OneDrive knows files and projects that you've been working on throughout the [[Microsoft 365]] environment, and we'll put them in this top list that says for you.
 >
 > **[0:27](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=27)** You can see the files in order of when they were last accessed to make it easier for you to find them, and you can also click to filter by a particular file name or a person if somebody shared it with you here on the right-hand side.
 >
-> **[0:39](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=39)** If you know it was a particular file type, for example, you're just looking for a PowerPoint file, you can click PowerPoint, and you'll only see PowerPoint files.
+> **[0:39](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=39)** If you know it was a particular file type, for example, you're just looking for a [[Microsoft PowerPoint|PowerPoint]] file, you can click PowerPoint, and you'll only see PowerPoint files.
 >
-> **[0:48](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=48)** The same goes for Excel and Word, and you can click more to get other lists that you can drill down to.
+> **[0:48](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=48)** The same goes for [[Microsoft Excel|Excel]] and [[Microsoft Word|Word]], and you can click more to get other lists that you can drill down to.
 >
 > **[0:56](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=56)** Click all to get back to that master list of everything that you've accessed recently.
 >
@@ -928,7 +918,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=132)** This is going to give me a list of all the files that not only have the word drone in the file name, but also contain the word drone in the document itself.
 >
-> **[2:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=141)** For example, here's a document titled Red 30 Tech Digital Products Copy, but the word drone appears in this document.
+> **[2:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=141)** For example, here's a document titled Red 30 Tech Digital [[Microsoft Products|Products]] Copy, but the word drone appears in this document.
 >
 > **[2:30](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/search-your-files?u=76281980&t=150)** Now in the search bar itself, I can click the down arrow next to my files.
 >
@@ -950,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (3), web (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft 365]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Analogies:** for example (7)
 > **UI Navigation:** click on (3)
@@ -962,14 +952,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save a file to OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
+#### [Save a file to OneDrive](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=0)** - [Instructor] Let's talk about interacting with Microsoft 365 and saving to your OneDrive.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=0)** - [Instructor] Let's talk about interacting with [[Microsoft 365]] and saving to your [[Microsoft OneDrive|OneDrive]].
 >
-> **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=5)** Now, I've already got a Word document open and remember you can get there anywhere, including OneDrive, by going to the app launcher and clicking on Word.
+> **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=5)** Now, I've already got a [[Microsoft Word|Word]] document open and remember you can get there anywhere, including OneDrive, by going to the app launcher and clicking on Word.
 >
 > **[0:14](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=14)** I've just created a brand new blank document in Word.
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=66)** I can just start typing, and when I'm done working on this document, I can simply close out of the browser tab.
 >
-> **[1:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=79)** We do have complete tutorials on using all of these products in their online versions, so I highly recommend taking a look at those if you want to learn how to use those more in depth.
+> **[1:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=79)** We do have complete tutorials on using all of these [[Microsoft Products|products]] in their online versions, so I highly recommend taking a look at those if you want to learn how to use those more in depth.
 >
 > **[1:28](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=88)** But for now, back in OneDrive, if I click on my corporate folder, here's the file that we just created.
 >
@@ -1003,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=103)** We've got this Add New button, and it doesn't matter that we're already in a sub folder.
 >
-> **[1:47](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=107)** If I click Add New and choose to create a file, maybe this time we'll do Excel, it's automatically going to create it in this folder already, so we won't have to move it.
+> **[1:47](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=107)** If I click Add New and choose to create a file, maybe this time we'll do [[Microsoft Excel|Excel]], it's automatically going to create it in this folder already, so we won't have to move it.
 >
 > **[1:59](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=119)** Here's my file.
 >
@@ -1015,7 +1004,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=138)** We'll see the new name refreshed in just a moment.
 >
-> **[2:23](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=143)** I'm going to open up Outlook, and again, you can still get there by using that grid icon, but what I really want to show you is that you can save attachments from Outlook directly to OneDrive.
+> **[2:23](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=143)** I'm going to open up [[Microsoft Outlook|Outlook]], and again, you can still get there by using that grid icon, but what I really want to show you is that you can save attachments from Outlook directly to OneDrive.
 >
 > **[2:35](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980&t=155)** Let's take a look at this email.
 >
@@ -1064,16 +1053,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use OneDrive with desktop apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980)
+#### [Use OneDrive with desktop apps](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=0)** - [Instructor] You can incorporate OneDrive in your daily use on your desktop computer.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=0)** - [Instructor] You can incorporate [[Microsoft OneDrive|OneDrive]] in your daily use on your desktop computer.
 >
 > **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=5)** In fact, you could use OneDrive and never access that web browser version of it.
 >
-> **[0:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=9)** I have Excel on the desktop running and on the top right hand side of the screen I can see that I'm signed in.
+> **[0:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=9)** I have [[Microsoft Excel|Excel]] on the desktop running and on the top right hand side of the screen I can see that I'm signed in.
 >
 > **[0:15](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=15)** To sign in or verify your account, click file, and all the way at the bottom of the screen click account.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=118)** I can see the location and I can click to see the version history, which I'll be talking about in a later video.
 >
-> **[2:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=126)** Let's move over to Outlook.
+> **[2:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=126)** Let's move over to [[Microsoft Outlook|Outlook]].
 >
 > **[2:08](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-desktop-apps?u=76281980&t=128)** This is Outlook on my desktop computer, and this is also my Landon account, so it's automatically linked to my OneDrive account.
 >
@@ -1131,19 +1119,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (20), business (2), [[Microsoft Outlook|Outlook]] (2), web (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (20), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use OneDrive with Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980)
+#### [Use OneDrive with Teams](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=0)** - [Instructor] Microsoft Teams and OneDrive work well together so that you can find files that have been placed on your teams that you belong to.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=0)** - [Instructor] [[Microsoft Teams]] and [[Microsoft OneDrive|OneDrive]] work well together so that you can find files that have been placed on your teams that you belong to.
 >
 > **[0:08](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=8)** I'm in Teams on the desktop right now.
 >
@@ -1155,7 +1142,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=30)** But it's also important to note that if I want this again, along with any other file that I may have in any other teams directly in the app, I can click OneDrive right here on the left hand side.
 >
-> **[0:41](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=41)** I can view my cloud storage right from here.
+> **[0:41](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=41)** I can view my [[Cloud Storage]] right from here.
 >
 > **[0:45](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-with-teams?u=76281980&t=45)** This looks just like the OneDrive screen online.
 >
@@ -1195,15 +1182,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft Teams]] (1), cloud (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (7), [[Microsoft Teams]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** go back to (3)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore a file to a previous version
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980)
+#### [Restore a file to a previous version](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,7 +1211,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=38)** And if I click on these three dots, I can click Open File to see what the changes were.
 >
-> **[0:44](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=44)** I can restore this version and make this the primary one that's located on OneDrive.
+> **[0:44](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=44)** I can restore this version and make this the primary one that's located on [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:48](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=48)** And finally, I can delete this version altogether if I don't ever want anybody to have the chance to bring it back again.
 >
@@ -1233,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=59)** I'll close out of this pane by clicking the X on the top right-hand side.
 >
-> **[1:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=63)** The really great thing about version history on OneDrive is that it's not just for Microsoft Office documents, it's for any file.
+> **[1:03](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=63)** The really great thing about version history on OneDrive is that it's not just for [[Microsoft Office]] documents, it's for any file.
 >
 > **[1:11](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=71)** Here's an image file.
 >
@@ -1247,7 +1233,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=89)** Same with PDF files, same with any other file type that's on OneDrive.
 >
-> **[1:37](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=97)** I will open up Excel, and in my Recent list, here's that Product Sales file that we were just looking at.
+> **[1:37](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=97)** I will open up [[Microsoft Excel|Excel]], and in my Recent list, here's that Product Sales file that we were just looking at.
 >
 > **[1:44](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/restore-a-file-to-a-previous-version?u=76281980&t=104)** I'll open that up.
 >
@@ -1277,21 +1263,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), product (2), [[Microsoft Office]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), right-click (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Copilot with OneDrive for Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980)
+#### [Use Copilot with OneDrive for Business](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=0)** - [Instructor] You may notice that these files look different.
 >
-> **[0:02](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=2)** That is because, for this video, I'm using a completely different OneDrive account because I want to show you how Copilot works in OneDrive for Business.
+> **[0:02](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=2)** That is because, for this video, I'm using a completely different [[Microsoft OneDrive|OneDrive]] account because I want to show you how [[Microsoft Copilot|Copilot]] works in OneDrive for Business.
 >
 > **[0:12](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=12)** To use Copilot, you do need to be on this home area.
 >
@@ -1303,7 +1288,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=29)** In OneDrive for business, Copilot can do four major things.
 >
-> **[0:34](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=34)** Now remember, Copilot is Microsoft's AI that interacts inside your Microsoft 365 environment.
+> **[0:34](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=34)** Now remember, Copilot is [[Microsoft]]'s AI that interacts inside your [[Microsoft 365]] environment.
 >
 > **[0:41](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=41)** Copilot can compare documents for you, it can summarize them, it can create FAQs, and you can ask it questions about your documents.
 >
@@ -1339,7 +1324,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=110)** Something else that you might want to do is summarize a file.
 >
-> **[1:56](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=116)** Going to scroll down, here's a PowerPoint file.
+> **[1:56](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=116)** Going to scroll down, here's a [[Microsoft PowerPoint|PowerPoint]] file.
 >
 > **[1:59](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-copilot-with-onedrive-for-business?u=76281980&t=119)** I'm going to hover my mouse over the Copilot icon, and I'll choose Summarize.
 >
@@ -1389,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft OneDrive|Onedrive]] (3), data (3), business (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft]] (1), [[Microsoft 365]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (2), dropdown (1), scroll down (1), go to (1)
 > **Env Vars:** faq (3)
 > **CLI Commands:** find (1)
@@ -1402,8 +1387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share files and use an expiring link
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
+#### [Share files and use an expiring link](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=64)** I can also set it to the fact that they can view the file, but they can't download it.
 >
-> **[1:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=69)** Now if I do allow editing on these files, it sounds risky having a link out there to your file, but because of that, OneDrive for Business allows us to set an expiration date on this link, so it will only work and be valid for a set amount of time.
+> **[1:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=69)** Now if I do allow editing on these files, it sounds risky having a link out there to your file, but because of that, [[Microsoft OneDrive|OneDrive]] for Business allows us to set an expiration date on this link, so it will only work and be valid for a set amount of time.
 >
 > **[1:25](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=85)** If I know I'm working on a project with people, and that project is going to be wrapping up in a week, I'll set that link to expire.
 >
@@ -1463,7 +1447,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=129)** Once that link is copied, I can paste that link anywhere I want.
 >
-> **[2:13](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=133)** I can also click these three dots and send the link directly in Outlook from here.
+> **[2:13](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=133)** I can also click these three dots and send the link directly in [[Microsoft Outlook|Outlook]] from here.
 >
 > **[2:18](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980&t=138)** Though, if I copy the link, I could just open up Outlook, create a new email and paste the link.
 >
@@ -1505,19 +1489,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft OneDrive|Onedrive]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **Analogies:** picture (2), for example (2)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Request files from your coworkers
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/request-files-from-your-coworkers?u=76281980)
+#### [Request files from your coworkers](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/request-files-from-your-coworkers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/request-files-from-your-coworkers?u=76281980&t=0)** - [Narrator] One of my favorite features of OneDrive is the ability to request files from other people.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/request-files-from-your-coworkers?u=76281980&t=0)** - [Narrator] One of my favorite features of [[Microsoft OneDrive|OneDrive]] is the ability to request files from other people.
 >
 > **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/request-files-from-your-coworkers?u=76281980&t=5)** The best thing is that they don't even need to have OneDrive.
 >
@@ -1593,18 +1576,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), feature (1), business (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9)
 > **Warnings:** note that (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Work simultaneously with a coworker
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980)
+#### [Work simultaneously with a coworker](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=0)** - [Instructor] I may have shared this file with somebody, but I'd still like to work on it, so I'll just click directly on it and it's going to open up in Excel online.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=0)** - [Instructor] I may have shared this file with somebody, but I'd still like to work on it, so I'll just click directly on it and it's going to open up in [[Microsoft Excel|Excel]] online.
 >
 > **[0:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=10)** I can start editing it and come in and make any change just like I was working on any document.
 >
@@ -1630,7 +1612,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=69)** If I hover my mouse over her avatar icon, I can see that she's editing cell C4, and if I click Go to location, it's going to take me right where she is.
 >
-> **[1:20](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=80)** At any time, I can close out of this browser tab by clicking the X, and it's going to bring me back to OneDrive.
+> **[1:20](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=80)** At any time, I can close out of this browser tab by clicking the X, and it's going to bring me back to [[Microsoft OneDrive|OneDrive]].
 >
 > **[1:26](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/work-simultaneously-with-a-coworker?u=76281980&t=86)** Jennifer can continue working on the file.
 >
@@ -1663,12 +1645,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add comments to files and annotate PDFs
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980)
+#### [Add comments to files and annotate PDFs](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=0)** - [Instructor] When you collaborate online with Word, PowerPoint, or Excel, those files are stored on OneDrive.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=0)** - [Instructor] When you collaborate online with [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], or [[Microsoft Excel|Excel]], those files are stored on [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:06](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=6)** But if you click on that file and you've collaborated with other people, you can leave comments directly in those files.
 >
@@ -1676,7 +1657,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=19)** I'm going to close out of this.
 >
-> **[0:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=21)** Now, a great feature of OneDrive is that when you're sharing non-office files, say a PDF file or JPEG or a PNG image file, you can add comments directly to those files.
+> **[0:21](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=21)** Now, a great feature of OneDrive is that when you're sharing non-[[Microsoft Office|office]] files, say a PDF file or JPEG or a PNG image file, you can add comments directly to those files.
 >
 > **[0:33](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/add-comments-to-files-and-annotate-pdfs?u=76281980&t=33)** Let's take a look at this image of Sharon Wu.
 >
@@ -1736,18 +1717,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), feature (2), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pdf (4), jpeg (1), png (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use OneDrive on your mobile device
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980)
+#### [Use OneDrive on your mobile device](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=0)** - [Presenter] You can take your files anywhere with the OneDrive app, and you can get it from the Google Play Store, or Apple App Store.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=0)** - [Presenter] You can take your files anywhere with the [[Microsoft OneDrive|OneDrive]] app, and you can get it from the [[Google]] Play Store, or Apple App Store.
 >
 > **[0:07](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=7)** I'm going to tap OneDrive.
 >
@@ -1777,7 +1757,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=79)** If I tap on those, it's going to bring up a sub menu.
 >
-> **[1:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=82)** For example, I can share files or folders, delete them, move them, rename them, even edit them by opening them up in the Microsoft 365 apps that I can also download right to my tablet, or mobile device.
+> **[1:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=82)** For example, I can share files or folders, delete them, move them, rename them, even edit them by opening them up in the [[Microsoft 365]] apps that I can also download right to my tablet, or mobile device.
 >
 > **[1:35](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=95)** To the right of this, I can tap to see any shared files or folders that have been shared with me, and I can also see any shared libraries that I might have.
 >
@@ -1793,7 +1773,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=129)** You can create a folder.
 >
-> **[2:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=130)** You can even create office documents right from here, and if you're inside a particular sub folder, that plus sign is still going to be there, so you can create files directly inside those folders.
+> **[2:10](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=130)** You can even create [[Microsoft Office|office]] documents right from here, and if you're inside a particular sub folder, that plus sign is still going to be there, so you can create files directly inside those folders.
 >
 > **[2:22](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/use-onedrive-on-your-mobile-device?u=76281980&t=142)** Finally, you can tap your initials right next to where it says, "Home," on the top left hand side of the screen.
 >
@@ -1823,7 +1803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (2), [[Security]] (2), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (2), [[Google]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** just like (4), for example (2)
 > **UI Navigation:** toggle (2)
 > **CLI Commands:** find (1)
@@ -1834,20 +1814,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Master the Microsoft 365 Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)
+#### [Master the Microsoft 365 Suite](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed this course on learning how to use OneDrive for Business.
+> **[0:00](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed this course on learning how to use [[Microsoft OneDrive|OneDrive]] for Business.
 >
-> **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980&t=5)** If you want to learn more, I suggest watching our essential training courses for Word, PowerPoint, Excel, even Outlook Online.
+> **[0:05](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980&t=5)** If you want to learn more, I suggest watching our essential training courses for [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]], even [[Microsoft Outlook|Outlook]] Online.
 >
 > **[0:14](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980&t=14)** Although if you prefer to use the desktop versions, we have separate courses for those also, so it's your choice, but the online versions are so heavily integrated with OneDrive, it's the next natural step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), business (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Speakers:** - [jess] (1)
 
 

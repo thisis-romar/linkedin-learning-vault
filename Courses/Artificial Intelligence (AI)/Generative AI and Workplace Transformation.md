@@ -70,12 +70,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The transformative nature of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980)
+#### [The transformative nature of generative AI](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980&t=0)** - In my 30 years of watching business and technology change, I've never seen something like generative AI which has the potential to create a mega transformation.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980&t=0)** - In my 30 years of watching business and technology change, I've never seen something like [[Generative AI]] which has the potential to create a mega transformation.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980&t=10)** Innovations like the internet, social media, and mobile unfolded over decades.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), business (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Speakers:** - in (1)
 
 
@@ -103,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI will bring exponential thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980)
+#### [Generative AI will bring exponential thinking](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=0)** - When we're talking about generative AI just how big is this change going to be?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=0)** - When we're talking about [[Generative AI]] just how big is this change going to be?
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=5)** What's the impact going to be on us?
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=110)** Compare this to the 1% average productivity growth in the US and the EU for the 12 years prior to Covid, and you can see why generative AI is such a big deal.
 >
-> **[2:03](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=123)** Now, I can throw hundreds of statistics and case studies at you, and you still wouldn't believe me because it just doesn't feel like this could be true.
+> **[2:03](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=123)** Now, I can throw hundreds of [[Statistics]] and case studies at you, and you still wouldn't believe me because it just doesn't feel like this could be true.
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980&t=132)** It's hard to imagine this level of exponential change and growth could be possible.
 >
@@ -166,13 +164,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), ai (6), power (1), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Statistics]] (1)
 > **Analogies:** such as (2), compare this to (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### The coming mega change transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980)
+#### [The coming mega change transformation](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=6)** We couldn't have imagined how the world would look like today.
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=11)** And so we'll be looking back to be able to look forward to how generative AI would transform our lives and our worlds in three ways.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=11)** And so we'll be looking back to be able to look forward to how [[Generative AI]] would transform our lives and our worlds in three ways.
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=20)** The first area of impact would be the workforce.
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=37)** So with generative AI, some jobs will be created but those impacted will not necessarily be the ones that replace them.
 >
-> **[0:46](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=46)** Goldman Sachs estimated that up to half of all jobs will be impacted with the most impacted jobs being in office administrative support, and in legal roles.
+> **[0:46](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=46)** Goldman Sachs estimated that up to half of all jobs will be impacted with the most impacted jobs being in [[Microsoft Office|office]] administrative support, and in legal roles.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=57)** Overall, a quarter of all jobs in the US and Europe could be automated.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=89)** Take for example, Barnes and Noble doing the dot-com era.
 >
-> **[1:32](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=92)** In order for them to get into e-commerce, the largest brick and mortar bookstore decided to put up a web interface and plan to fulfill all of the orders from physical stores.
+> **[1:32](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=92)** In order for them to get into [[E-Commerce]], the largest brick and mortar bookstore decided to put up a web interface and plan to fulfill all of the orders from physical stores.
 >
 > **[1:44](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-coming-mega-change-transformation-22836726?u=76281980&t=104)** They found this was not a successful strategy and had to go back and rebuild the entire backend of their infrastructure.
 >
@@ -232,13 +229,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), next (2), [[Microsoft Office|Office]] (1), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Microsoft Office|Office]] (1), [[E-Commerce]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - think (1)
 
-#### Asking great questions to create alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980)
+#### [Asking great questions to create alignment](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=42)** You'll often hear that's just the way we do things around here.
 >
-> **[0:47](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=47)** But the impact of asking good questions is that it creates a questioning and learning culture across the organization, and that's very important in the mega transformation of generative AI.
+> **[0:47](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=47)** But the impact of asking good questions is that it creates a questioning and learning culture across the organization, and that's very important in the mega transformation of [[Generative AI]].
 >
 > **[0:59](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=59)** You want to welcome and encourage questions to come from anywhere because anyone in your organization has access to generative AI.
 >
@@ -294,11 +290,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=155)** Be curious and ask, in what way will my job change because of generative AI?
 >
-> **[2:41](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=161)** So for now, we'll look at the questions I've shared with you in greater detAIl for the rest of the course.
+> **[2:41](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/asking-great-questions-to-create-alignment?u=76281980&t=161)** So for now, we'll look at the questions I've shared with you in greater detAIl for the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (11), ai (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** detail (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - my (1)
@@ -308,14 +304,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prioritizing your AI efforts
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980)
+#### [Prioritizing your AI efforts](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=0)** - If you've ever seen a kid in a candy store with those eyes wide open with anticipation, you know it can also be very overwhelming for them.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=9)** Generative AI is similar.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=9)** [[Generative AI]] is similar.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=11)** There are hundreds and thousands of ways you can use it in your organization, but don't fall prey to use case paralysis.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=100)** The third bucket of use cases are around optimization.
 >
-> **[1:44](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=104)** This is the ability to predict and customize products, services, and experiences.
+> **[1:44](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=104)** This is the ability to predict and customize [[Microsoft Products|products]], services, and experiences.
 >
 > **[1:50](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980&t=110)** Now to prioritize your strategic efforts, start with your current strategy.
 >
@@ -375,14 +370,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), [[Analytics]] (5), [[Automation]] (3), data (2), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### How generative AI is changing roles and collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980)
+#### [How generative AI is changing roles and collaboration](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980&t=20)** It also stimulates demand for adjacent jobs in service sectors like healthcare, education, and food services.
 >
-> **[0:29](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980&t=29)** Generative AI will be doing the same.
+> **[0:29](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980&t=29)** [[Generative AI]] will be doing the same.
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/how-generative-ai-is-changing-roles-and-collaboration?u=76281980&t=33)** Generative AI will eliminate and create jobs, which will impact workforce planning.
 >
@@ -440,21 +434,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), ai (2), [[Automation]] (1), hr (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you need to have (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - technology (1)
 
-#### Preparing your workforce for the changes to come
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980)
+#### [Preparing your workforce for the changes to come](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=0)** - Knowing the truth is better than imagining worst-case scenarios so we want to trade uncertainty for clarity.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=8)** It's important to be transparent about the job loss and creation that will happen because of artificial intelligence.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=8)** It's important to be transparent about the job loss and creation that will happen because of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=15)** Keep how you will honor your commitments to your people at the center of everything that you do.
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=84)** Define what managers can say to their teams and what they should leave to other leaders to explain.
 >
-> **[1:30](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=90)** For example you may have executives explain the general direction and an impact of Generative AI on the strategy and organization, whereas managers can explain what it means for the individuals on the team.
+> **[1:30](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=90)** For example you may have executives explain the general direction and an impact of [[Generative AI]] on the strategy and organization, whereas managers can explain what it means for the individuals on the team.
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/preparing-your-workforce-for-the-changes-to-come-22831868?u=76281980&t=103)** Another question to ask is, do communications go out all at once or piece by piece as changes and shifts emerge?
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), career (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (2)
@@ -539,12 +532,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Emerging skillsets of the AI era
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980)
+#### [Emerging skillsets of the AI era](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=1)** - Scaling generative AI in your organization will require a new set of skills and mindsets.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=1)** - Scaling [[Generative AI]] in your organization will require a new set of skills and mindsets.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=7)** Prioritizing and timing training and hiring will impact how you plan and manage workforce changes.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=24)** The first is to upskill the members of your AI council.
 >
-> **[0:28](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=28)** Many of the people on that AI council will come from technical roles, software development, data engineers, and security experts.
+> **[0:28](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=28)** Many of the people on that AI council will come from technical roles, [[Software Development]], data engineers, and security experts.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=37)** And oftentimes the training and development of that expertise is often overlooked.
 >
@@ -588,7 +580,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=119)** Look at this course, and of course, YouTube.
 >
-> **[2:01](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=121)** Give your teams the generative AI tools to create their own customized videos for themselves and their peers.
+> **[2:01](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=121)** Give your teams the [[Generative AI Tools]] to create their own customized videos for themselves and their peers.
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980&t=129)** Also, identify people in your organization who have a growth mindset and prioritize them for training so they can guide others.
 >
@@ -606,15 +598,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), ai (3), data (2), [[Software Development]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Software Development]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - scaling (1)
 
-#### Help your workforce thrive with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980)
+#### [Help your workforce thrive with AI](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980&t=98)** It's also important to give your employees a sense of control when they're in the messy middle; that the transformation isn't being done to them, but that they have a say in how it unfolds for themselves.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980&t=112)** Look at the list of use cases for generative AI.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980&t=112)** Look at the list of use cases for [[Generative AI]].
 >
 > **[1:55](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/help-your-workforce-thrive-with-ai-22836725?u=76281980&t=115)** Which ones will have a significant impact on your workforce?
 >
@@ -678,13 +669,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Leading in the generative AI era
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980)
+#### [Leading in the generative AI era](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980&t=8)** They want more autonomy and independence, which challenges parental authority.
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980&t=13)** Employees with generative AI go through a similar awakening.
+> **[0:13](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980&t=13)** Employees with [[Generative AI]] go through a similar awakening.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/leading-in-the-generative-ai-era-22835700?u=76281980&t=18)** They acquire what feels like superhuman powers, to do so much more than they could before, and along with that power comes a desire for greater agility and independence.
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), leadership (4), power (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - have (1)

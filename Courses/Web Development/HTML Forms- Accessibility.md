@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be an HTML forms MVP
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
+#### [Be an HTML forms MVP](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,9 +86,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=5)** Our work goes beyond writing code.
 >
-> **[0:08](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=8)** We also have to ensure that products being built using code are inclusive and accessible to everyone irregardless of their abilities or disabilities.
+> **[0:08](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=8)** We also have to ensure that [[Microsoft Products|products]] being built using code are inclusive and accessible to everyone irregardless of their abilities or disabilities.
 >
-> **[0:20](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=20)** In this course, I will dive into the how and why of making forms usable by everyone.
+> **[0:20](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=20)** In this course, I will dive into the how and why of making [[Forms]] usable by everyone.
 >
 > **[0:25](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980&t=25)** We will learn to create accessible forms and why creating accessible forms matter.
 >
@@ -103,21 +102,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [host] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=0)** - [Instructor] To get a good understanding of this course, you need to have a prerequisite knowledge of HTML.
+> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=0)** - [Instructor] To get a good understanding of this course, you need to have a prerequisite knowledge of [[HTML]].
 >
 > **[0:06](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=6)** It will be beneficial to have prior knowledge of CSS.
 >
-> **[0:10](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=10)** If you have knowledge of JavaScript, that's great, but it is not required for this course.
+> **[0:10](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=10)** If you have knowledge of [[JavaScript]], that's great, but it is not required for this course.
 >
-> **[0:17](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=17)** As you get started with this course, I want you to know that there are exercise files, and to get started using it, you need a GitHub account.
+> **[0:17](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=17)** As you get started with this course, I want you to know that there are exercise files, and to get started using it, you need a [[GitHub]] account.
 >
 > **[0:28](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=28)** Every lesson is hosted in a GitHub branch, and for each branch we have a begin state, which starts with the letter A and an end state, which starts with the letter B.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=62)** This will be your own copy of the code to work with after you have forked the repository.
 >
-> **[1:10](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=70)** After forking the repo, you can work with Codespaces by selecting the branch you want to work on.
+> **[1:10](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=70)** After forking the repo, you can work with [[Codespaces]] by selecting the branch you want to work on.
 >
 > **[1:25](https://www.linkedin.com/learning/html-forms-accessibility/what-you-should-know?u=76281980&t=85)** Click on this Code button and then the plus sign to create a new codespace.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[HTML]] (1), css (1), [[JavaScript]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[HTML]] (1), [[JavaScript]] (1), [[Codespaces]] (1)
 > **Env Vars:** html (1), css (1)
 > **Tools:** github (2)
 > **Prerequisites:** you need to have (1), prerequisite (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
+#### [Course use case](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980&t=0)** - [Instructor] We all make use of forms in our daily life, and sometimes we have really good experiences while using these forms and sometimes bad experiences.
+> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980&t=0)** - [Instructor] We all make use of [[Forms]] in our daily life, and sometimes we have really good experiences while using these forms and sometimes bad experiences.
 >
 > **[0:11](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980&t=11)** It all depends on the user's perspectives.
 >
@@ -176,14 +173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), data (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is form accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980)
+#### [What is form accessibility?](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980&t=3)** We have spoken about form accessibility and even shown an example of what an inaccessible form looks like, but what is form accessibility?
 >
-> **[0:13](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980&t=13)** Form accessibility is making sure forms can be used by everyone, no matter their disability status.
+> **[0:13](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980&t=13)** Form accessibility is making sure [[Forms]] can be used by everyone, no matter their disability status.
 >
 > **[0:21](https://www.linkedin.com/learning/html-forms-accessibility/what-is-form-accessibility?u=76281980&t=21)** This includes people who are blind, deaf, and those who have cognitive disabilities and mobility issues.
 >
@@ -211,13 +207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (8), web (1), web application (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Forms]] (8)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appearance
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/appearance?u=76281980)
+#### [Appearance](https://www.linkedin.com/learning/html-forms-accessibility/appearance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,11 +230,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/html-forms-accessibility/appearance?u=76281980&t=35)** I am imputing my password into the Password section, and there is no presence of a text mask to ensure that the password characters are unreadable, and there's also no indication of how many characters or what type of characters are allowed to be imputed into this field.
 >
-> **[0:55](https://www.linkedin.com/learning/html-forms-accessibility/appearance?u=76281980&t=55)** These are just a few of the problems we aim to fix when building accessible forms.
+> **[0:55](https://www.linkedin.com/learning/html-forms-accessibility/appearance?u=76281980&t=55)** These are just a few of the problems we aim to fix when building accessible [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -248,8 +243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to HTML form controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
+#### [Introduction to HTML form controls](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980&t=16)** For example, form controls are buttons, select input, text area, checkboxes, and radio buttons.
 >
-> **[0:26](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980&t=26)** Form controls are important when creating accessible forms, and because of this, we need to ensure we make use of the right form control when needed, and that the form control being used can be detected and used by assistive devices.
+> **[0:26](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980&t=26)** Form controls are important when creating accessible [[Forms]], and because of this, we need to ensure we make use of the right form control when needed, and that the form control being used can be detected and used by assistive devices.
 >
 > **[0:44](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980&t=44)** We need to make the form accessible and inclusive, especially for people with disabilities.
 >
@@ -269,17 +263,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), data (1), [[Forms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input, textarea, select, and button form control
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980)
+#### [Input, textarea, select, and button form control](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=0)** - [Instructor] Form controls, also referred to as interactive form elements, play a crucial role in web development.
+> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=0)** - [Instructor] Form controls, also referred to as interactive form elements, play a crucial role in [[Web Development]].
 >
 > **[0:07](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=7)** I will introduce commonly used form controls, focusing on those we will encounter frequently throughout this course.
 >
@@ -291,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=33)** And we will begin by creating a text input.
 >
-> **[0:37](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=37)** Here, I have the skeleton code for my HTML file, and every style going to be used in building this input has been written and can be found in the style.css file.
+> **[0:37](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=37)** Here, I have the skeleton code for my [[HTML]] file, and every style going to be used in building this input has been written and can be found in the style.css file.
 >
 > **[0:54](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=54)** I'll begin by creating a form making use of the label tag.
 >
@@ -321,7 +314,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=165)** It's worth noting that while this form controls button and text input can be created with non-semantic divs, doing so makes it harder to navigate a form.
 >
-> **[2:59](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=179)** Semantic elements such as input, button, tags, which are descriptive and provide meaning are crucial for building accessible forms.
+> **[2:59](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=179)** Semantic elements such as input, button, tags, which are descriptive and provide meaning are crucial for building accessible [[Forms]].
 >
 > **[3:12](https://www.linkedin.com/learning/html-forms-accessibility/input-textarea-select-and-button-form-control?u=76281980&t=192)** Assistive devices like screen readers rely on semantic elements to offer context, and this enhances the web experience.
 >
@@ -331,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (2), web (2), [[Web Development]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Web Development]] (1), [[Forms]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** html (3)
 > **File Paths:** style.css (1)
@@ -339,14 +332,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label element
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980)
+#### [Label element](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980&t=0)** - [Instructor] Like an employee at a company who makes use of an ID as a form of identification, this is what labels are to form controls.
 >
-> **[0:09](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980&t=9)** Sure, we can make use of forms without entering data and even submitting them to a server.
+> **[0:09](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980&t=9)** Sure, we can make use of [[Forms]] without entering data and even submitting them to a server.
 >
 > **[0:15](https://www.linkedin.com/learning/html-forms-accessibility/label-element?u=76281980&t=15)** But for users to know what data needs to be imputed in any form control, there must be a form of identification for that form control.
 >
@@ -378,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (6), data (4)
+> **Frameworks & Libraries:** [[Forms]] (6)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -388,18 +380,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to HTML form attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
+#### [Introduction to HTML form attributes](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=0)** - [Instructor] In HTML, attributes are elements used to modify an element and provide additional details about it.
+> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=0)** - [Instructor] In [[HTML]], attributes are elements used to modify an element and provide additional details about it.
 >
 > **[0:11](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=11)** Because of their functions, attributes play a crucial role in improving accessibility.
 >
 > **[0:17](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=17)** From attributes are specific attributes designed for use with form element.
 >
-> **[0:22](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=22)** They serve various purposes and are used to define, modify the behaviors and functionality of forms.
+> **[0:22](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=22)** They serve various purposes and are used to define, modify the behaviors and functionality of [[Forms]].
 >
 > **[0:31](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980&t=31)** Since form attributes provide additional details to a form element, they can also be used to assist readers when inputting data into any form, making the experience user-friendly and accessible.
 >
@@ -409,18 +400,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input types: Checkbox, radio button, text, password, and email
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980)
+#### [Input types: Checkbox, radio button, text, password, and email](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=0)** - [Instructor] The type attribute specifies the content type of an element, with which it is associated.
 >
-> **[0:07](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=7)** In web forms, it is commonly used with the input element.
+> **[0:07](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=7)** In web [[Forms]], it is commonly used with the input element.
 >
 > **[0:11](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=11)** The type attribute has various values which depend on the data a form element needs to collect.
 >
@@ -428,7 +418,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=26)** These are the most commonly used ones, although there are more options available.
 >
-> **[0:31](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=31)** Here, we have boilerplate HTML, and also some content, used in creating a travel booking form.
+> **[0:31](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=31)** Here, we have boilerplate [[HTML]], and also some content, used in creating a travel booking form.
 >
 > **[0:39](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=39)** We have several inputs here, radio input, checkbox, and a text and date input.
 >
@@ -444,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=89)** In other words, using labels on form inputs is insufficient.
 >
-> **[1:35](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=95)** Specifying the type attributes enables assistive devices like screen readers to guide users by offering hints, enhancing accessibility, and improving the user experience.
+> **[1:35](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=95)** Specifying the type attributes enables assistive devices like screen readers to guide users by offering hints, enhancing accessibility, and improving the [[User Experience (UX)|user experience]].
 >
 > **[1:48](https://www.linkedin.com/learning/html-forms-accessibility/input-types-checkbox-radio-button-text-password-and-email?u=76281980&t=108)** Now, we will apply this approach to every input field we have here.
 >
@@ -478,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (1), [[Forms]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** checkbox (5)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -486,8 +476,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Name and for attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980)
+#### [Name and for attributes](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +518,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980&t=177)** And then, the For attribute.
 >
-> **[3:00](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980&t=180)** The For attribute is used with label elements when building forms.
+> **[3:00](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980&t=180)** The For attribute is used with label elements when building [[Forms]].
 >
 > **[3:06](https://www.linkedin.com/learning/html-forms-accessibility/aria-describedby-and-aria-labelledby-attributes?u=76281980&t=186)** It is used to associate a form input with a form label.
 >
@@ -567,15 +556,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forms]] (3), application (1), web (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aria-describedby and Aria-labelledby attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980)
+#### [Aria-describedby and Aria-labelledby attributes](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,9 +573,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=16)** These properties can also be applied to form elements.
 >
-> **[0:21](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=21)** ARIA holds significance in creating accessible forms, as it offers extra information for assistive devices to interpret, tools ensuring form accessibility for all, particularly individuals with disabilities.
+> **[0:21](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=21)** ARIA holds significance in creating accessible [[Forms]], as it offers extra information for assistive devices to interpret, tools ensuring form accessibility for all, particularly individuals with disabilities.
 >
-> **[0:38](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=38)** You might wonder if the descriptions given by HTML JavaScript are adequate for assistive devices.
+> **[0:38](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=38)** You might wonder if the descriptions given by [[HTML]] [[JavaScript]] are adequate for assistive devices.
 >
 > **[0:45](https://www.linkedin.com/learning/html-forms-accessibility/name-and-for-attributes?u=76281980&t=45)** Indeed, at times they are not, and this is precisely where ARIA properties play a crucial role.
 >
@@ -615,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** aria (4), html (1)
 > **Code Identifiers:** fullnamelabel (2), fullname (1)
 > **Definitions:** short for (1), is a  (1)
@@ -623,8 +611,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Placeholder, label attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/placeholder-label-attribute?u=76281980)
+#### [Placeholder, label attribute](https://www.linkedin.com/learning/html-forms-accessibility/placeholder-label-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,19 +663,18 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/html-forms-accessibility/placeholder-label-attribute?u=76281980&t=188)** They aren't substitutes for labels.
 >
-> **[3:10](https://www.linkedin.com/learning/html-forms-accessibility/placeholder-label-attribute?u=76281980&t=190)** Always use labels or accessible forms alongside placeholders.
+> **[3:10](https://www.linkedin.com/learning/html-forms-accessibility/placeholder-label-attribute?u=76281980&t=190)** Always use labels or accessible [[Forms]] alongside placeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), css (3), [[Search]] (1), product (1), web (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** css (3)
 > **File Paths:** style.css (1)
 > **Code Identifiers:** clientname (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Focus indicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980)
+#### [Focus indicator](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,13 +718,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980&t=196)** As a user navigates different form input, the focus indicator provides feedback by highlighting each selected form.
 >
-> **[3:23](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980&t=203)** This cultivates an inclusive experience when interacting with web forms.
+> **[3:23](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980&t=203)** This cultivates an inclusive experience when interacting with web [[Forms]].
 >
 > **[3:31](https://www.linkedin.com/learning/html-forms-accessibility/focus-indicator?u=76281980&t=211)** Here we have all of our elements, our form elements, making use of the focus indicator, and you can see that when we are about to make use of an element and it is clicked upon, the indicator lets us know what input element is active.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), similar to (1)
@@ -750,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Required attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
+#### [Required attribute](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,15 +770,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), prompt (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Autocomplete attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980)
+#### [Autocomplete attribute](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,9 +802,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=95)** However, in some browsers, you may need to enable this feature by directly setting the autocomplete to on, just as we've done.
 >
-> **[1:46](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=106)** The autocomplete attribute significantly enhances user experience.
+> **[1:46](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=106)** The autocomplete attribute significantly enhances [[User Experience (UX)|user experience]].
 >
-> **[1:51](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=111)** When used, it aids in making forms more accessible by assisting users with limited dexterity, thereby reducing the efforts required for data entry.
+> **[1:51](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=111)** When used, it aids in making [[Forms]] more accessible by assisting users with limited dexterity, thereby reducing the efforts required for data entry.
 >
 > **[2:04](https://www.linkedin.com/learning/html-forms-accessibility/autocomplete-attribute?u=76281980&t=124)** This attribute is particularly beneficial for users dealing with memory-related disabilities as it conveniently pre-fills data entry fields.
 >
@@ -829,16 +812,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Min-length and max-length attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/min-length-and-max-length-attribute?u=76281980)
+#### [Min-length and max-length attribute](https://www.linkedin.com/learning/html-forms-accessibility/min-length-and-max-length-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/min-length-and-max-length-attribute?u=76281980&t=0)** - [Instructor] The minlength and maxlength attributes specify character length limitations when users enter data into forms.
+> **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/min-length-and-max-length-attribute?u=76281980&t=0)** - [Instructor] The minlength and maxlength attributes specify character length limitations when users enter data into [[Forms]].
 >
 > **[0:08](https://www.linkedin.com/learning/html-forms-accessibility/min-length-and-max-length-attribute?u=76281980&t=8)** These attributes are commonly used with input elements like password input and text area input to define both the minimum and maximum character lengths allowed.
 >
@@ -878,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -887,14 +869,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing the Form Accessibility course.
 >
-> **[0:04](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=4)** We have explored key principles and techniques that empower you to create inclusive forms for users of all backgrounds.
+> **[0:04](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=4)** We have explored key principles and techniques that empower you to create inclusive [[Forms]] for users of all backgrounds.
 >
 > **[0:12](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=12)** As you review what you have learned, keep in mind the key points.
 >
@@ -912,19 +893,19 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=58)** Keep in mind, each accessible form you build is a stride towards a more inclusive digital world.
 >
-> **[1:06](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=66)** Some resources I will recommend to help you on your journey into accessibility is the W3C Web Accessibility Initiative, and web-content accessibility guideline websites, which defines how to make web content more accessible to people with disabilities.
+> **[1:06](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=66)** Some resources I will recommend to help you on your journey into accessibility is the W3C [[Web Accessibility]] Initiative, and web-content accessibility guideline websites, which defines how to make web content more accessible to people with disabilities.
 >
-> **[1:30](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=90)** If you have any questions or want to connect regarding this course or web accessibility, feel free to reach out to me on LinkedIn.
+> **[1:30](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=90)** If you have any questions or want to connect regarding this course or web accessibility, feel free to reach out to me on [[LinkedIn]].
 >
 > **[1:41](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=101)** Thank you for dedicating your time and effort to master in form accessibility.
 >
 > **[1:48](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=108)** Your commitment to building an inclusive web is truly admirable.
 >
-> **[1:53](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=113)** I look forward to seeing you in my next course, and as you continue, keep pushing boundaries and championing inclusive web development.
+> **[1:53](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980&t=113)** I look forward to seeing you in my next course, and as you continue, keep pushing boundaries and championing inclusive [[Web Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Forms]] (2), [[Web Accessibility]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Web Accessibility]] (2), [[LinkedIn]] (1), [[Web Development]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aria (1), w3c (1)
 > **Warnings:** keep in mind (2)

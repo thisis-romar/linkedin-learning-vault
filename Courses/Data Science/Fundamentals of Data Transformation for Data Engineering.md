@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
+#### [Welcome to data transformation](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,9 +99,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=4)** The patterns for taking data from source to insight.
 >
-> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=7)** That's data transformation.
+> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=7)** That's [[Data Transformation]].
 >
-> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=9)** In this course, we'll cover data transformation with SQL and Pandas.
+> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=9)** In this course, we'll cover data transformation with [[SQL]] and [[Pandas (Software)|Pandas]].
 >
 > **[0:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980&t=12)** We'll take what you already know about SQL and Pandas and we'll equip you with the tools you need to be a data transformation expert.
 >
@@ -114,21 +113,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Transformation]] (4), data (3), [[SQL]] (2), [[Pandas (Software)|Pandas]] (2), product (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (4), [[SQL]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
-#### What we'll cover and what you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980)
+#### [What we'll cover and what you should know](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=0)** - [Instructor] So before we jump in, it's important to talk about where data transformation is today.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=0)** - [Instructor] So before we jump in, it's important to talk about where [[Data Transformation]] is today.
 >
 > **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=5)** And the first point I'd like to make is that data is ever-evolving, and that means that new libraries, tools, frameworks, and even data backends are always emerging, they're always coming out.
 >
-> **[0:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=16)** And that's pretty evident when we look at things like new databases, trends in LLMs, and AI, which are changing largely how we do most of our jobs today, and even methods for data transformation and analysis.
+> **[0:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=16)** And that's pretty evident when we look at things like new [[Databases]], trends in LLMs, and AI, which are changing largely how we do most of our jobs today, and even methods for data transformation and analysis.
 >
 > **[0:28](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=28)** But there are some things that stay the same, and really those things are the patterns and intuition for taking data from source to insight.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=61)** And when we look at the tools that we'll be learning, we're going to frame those in concepts, patterns, and methods for data transformation.
 >
-> **[1:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=70)** Because who knows, right, (chuckles) you might not be using pandas or SQL forever to transform data, even though those are two very dominant methods today.
+> **[1:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=70)** Because who knows, right, (chuckles) you might not be using [[Pandas (Software)|pandas]] or [[SQL]] forever to transform data, even though those are two very dominant methods today.
 >
 > **[1:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=77)** And the fact of the matter is that tools change often, but outcomes change less.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=95)** And so that's going to happen with SQL and pandas here because they are extremely popular and widely adopted.
 >
-> **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=102)** But what you learn can be applied to any language, whether that's Rust, whether that's Polars in Python, or whatever new data transformation framework emerges in the next few years.
+> **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=102)** But what you learn can be applied to any language, whether that's [[Rust (Programming Language)|Rust]], whether that's Polars in [[Python (Programming Language)|Python]], or whatever new data transformation framework emerges in the next few years.
 >
 > **[1:53](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=113)** And so I want to cover some expected knowledge, what you should be bringing to this course, maybe some background that you've had before.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=141)** Now, that should also include some knowledge of Python, for example, what variables and functions are, how a typical Python file works.
 >
-> **[2:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=149)** This entire course is actually going to be in Jupyter Notebooks that are hosted in GitHub Codespaces.
+> **[2:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=149)** This entire course is actually going to be in Jupyter Notebooks that are hosted in [[GitHub]] [[Codespaces]].
 >
 > **[2:35](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=155)** So you'll need an account on GitHub.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=206)** And that's something I'd love to emphasize as well.
 >
-> **[3:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=209)** If you ever get lost, first checking documentation, second, performing a Google search, as basic as that sounds, checking Stack Overflow.
+> **[3:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=209)** If you ever get lost, first checking documentation, second, performing a [[Google]] search, as basic as that sounds, checking Stack Overflow.
 >
 > **[3:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=217)** These are really good ways to learn.
 >
@@ -258,7 +256,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=409)** That's the whole point.
 >
-> **[6:50](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=410)** And as I mentioned earlier, the internet, Stack Overflow, and ChatGPT or Claude, they're your friends, right?
+> **[6:50](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=410)** And as I mentioned earlier, the internet, Stack Overflow, and [[ChatGPT]] or Claude, they're your friends, right?
 >
 > **[6:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-ll-cover-what-you-should-know?u=76281980&t=416)** Don't limit the information you have access to, because when you're working, when you're doing your own projects, you're going to be using the internet.
 >
@@ -278,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[SQL]] (15), [[Pandas (Software)|Pandas]] (13), [[Data Transformation]] (8), [[Python (Programming Language)|Python]] (6)
+> **Frameworks & Libraries:** [[SQL]] (15), [[Pandas (Software)|Pandas]] (13), [[Data Transformation]] (8), [[Python (Programming Language)|Python]] (6), [[GitHub]] (2)
 > **Env Vars:** sql (15), select (1), pandas (1)
 > **CLI Commands:** python (6), make (1), find (1)
 > **Tools:** jupyter (3), github (2)
@@ -292,12 +290,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Codespaces and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
+#### [Codespaces and setup](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=0)** - [Instructor] So here we're going to talk about how to set up the course, and we'll be using GitHub Codespaces so it should be pretty straightforward.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=0)** - [Instructor] So here we're going to talk about how to set up the course, and we'll be using [[GitHub]] [[Codespaces]] so it should be pretty straightforward.
 >
 > **[0:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=6)** So what is GitHub Codespaces?
 >
@@ -353,7 +350,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=185)** If it doesn't, maybe check if your popups allow that sort of thing or your browser is configured in such a way that that might not be possible, but hopefully this is the screen you'll see next, and you should notice that on the left there we have all of the files that were present in the GitHub version of the course previously.
 >
-> **[3:22](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=202)** So if you click Course, you'll see the different sections of the course, an intro and then our two core lessons on SQL and pandas as well as an appendix for next steps and continuing your data journey.
+> **[3:22](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=202)** So if you click Course, you'll see the different sections of the course, an intro and then our two core lessons on [[SQL]] and [[Pandas (Software)|pandas]] as well as an appendix for next steps and continuing your data journey.
 >
 > **[3:35](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=215)** Now you'll notice that in the terminal there's a updateContentCommand running.
 >
@@ -385,7 +382,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=306)** Next, we're initializing our connection with the DuckDB database, which will run in memory on this virtual machine, and then last, we're connecting to the database and importing the actual data we'll be using for the code.
 >
-> **[5:20](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=320)** So if I run this, we'll get a popup the first time asking us which Python environment we want to use.
+> **[5:20](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=320)** So if I run this, we'll get a popup the first time asking us which [[Python (Programming Language)|Python]] environment we want to use.
 >
 > **[5:25](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980&t=325)** There's only one Python environment in this container, but if you're running this locally, you'd want to create your own.
 >
@@ -429,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[GitHub]] (9), [[Pandas (Software)|Pandas]] (8), [[Codespaces]] (7), next (6)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Pandas (Software)|Pandas]] (8), [[Codespaces]] (7), [[SQL]] (6), [[Python (Programming Language)|Python]] (3)
 > **Tools:** github (9), terminal (2), jupyter (2), vs code (1), command line (1)
 > **Env Vars:** sql (6), api (2), readme (1), describe (1), limit (1)
 > **CLI Commands:** python (3), docker (2), make (1)
@@ -438,18 +435,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), configure (1), getting started (1)
 > **Exercise Files:** github repo (2)
 
-#### Why SQL? Why Python? Why not Spark?
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980)
+#### [Why SQL? Why Python? Why not Spark?](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=0)** - [Instructor] In this course, we'll be concerned with two major languages for data transformation, and that is SQL, or "sequel," and pandas.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=0)** - [Instructor] In this course, we'll be concerned with two major languages for [[Data Transformation]], and that is [[SQL]], or "sequel," and [[Pandas (Software)|pandas]].
 >
 > **[0:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=8)** But I think it's important that we take some time and discuss why we're focused on those two languages as well as what else exists and what's likely to be popular in the future.
 >
 > **[0:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=17)** So why SQL?
 >
-> **[0:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=18)** Well, SQL is time tested and databases have been around since 1970, and that means so has SQL.
+> **[0:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=18)** Well, SQL is time tested and [[Databases]] have been around since 1970, and that means so has SQL.
 >
 > **[0:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=24)** So this is probably one of the only, if not the only, programming language that people have been using consistently, or variance of consistently, for the last 50 plus years.
 >
@@ -461,13 +457,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=49)** But SQL also runs at scale, and that means from a thousand rows to a billion rows, you can be using SQL or a SQL variant to select and join that data with minimal switches in syntax.
 >
-> **[1:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=62)** SQL accents Python well, sort of like a hammer and a screwdriver.
+> **[1:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=62)** SQL accents [[Python (Programming Language)|Python]] well, sort of like a hammer and a screwdriver.
 >
 > **[1:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=66)** You use a hammer for certain tasks like pounding a nail and a screwdriver for others.
 >
 > **[1:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=71)** SQL is really good at certain data manipulations, as we'll discuss in this course, where Python falls short, and the opposite is true as well.
 >
-> **[1:20](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=80)** Python's really great at certain things that SQL does not excel at.
+> **[1:20](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=80)** Python's really great at certain things that SQL does not [[Microsoft Excel|excel]] at.
 >
 > **[1:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=83)** So lastly, SQL's a standard, and if you work as a data analyst or a data engineer, you will need to know how to write SQL, and that's really what makes it important.
 >
@@ -481,11 +477,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=112)** Pandas is its own library, as I'm sure you're familiar, but it's also time tested, and it's been the tool of choice for about 15 years now, which, in Python's lifetime, is quite a while.
 >
-> **[2:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=123)** And I think one of the underrated aspects of Python is that there's a ton of community support, and everything that you need to know about the pandas library, you'll be able to find online through Stack Overflow, the pandas documentation, or ChatGPT or other AI models since those are indexed on existing data.
+> **[2:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=123)** And I think one of the underrated aspects of Python is that there's a ton of community support, and everything that you need to know about the pandas library, you'll be able to find online through Stack Overflow, the pandas documentation, or [[ChatGPT]] or other AI models since those are indexed on existing data.
 >
 > **[2:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=141)** Pandas is also incredibly flexible, and because Python is a relatively straightforward language, that means you can do many things very simply, which is important for being able to transform data and iterate on the transformations that you write.
 >
-> **[2:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=154)** Lastly, pandas is really well suited to handle unstructured data as we'll see in some of our upcoming lessons.
+> **[2:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=154)** Lastly, pandas is really well suited to handle [[Unstructured Data]] as we'll see in some of our upcoming lessons.
 >
 > **[2:41](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=161)** Now, I would be remiss if I didn't mention the pitfalls associated with these two languages, of which there are many, but we'll focus on a couple.
 >
@@ -495,7 +491,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=181)** You can't really even think about SQL as a programming language.
 >
-> **[3:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=184)** There isn't a concept of variables or modules or many of the other more complete functionalities that other programming languages like Python or JavaScript contain, and that means that it has a very narrow scope.
+> **[3:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=184)** There isn't a concept of variables or modules or many of the other more complete functionalities that other programming languages like Python or [[JavaScript]] contain, and that means that it has a very narrow scope.
 >
 > **[3:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=198)** It can also have a pretty steep learning curve.
 >
@@ -517,7 +513,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=246)** So it's important to note what else is out there because there are some new, exciting trends in technology and data transformation, but they're mainly concerned with distributed, compute, or different languages.
 >
-> **[4:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=258)** So frameworks like Polars, Rust, Ray, Dask, they're primarily performance-oriented and they have a lot of promise, but they're not as popular as pandas or plain Python.
+> **[4:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=258)** So frameworks like Polars, [[Rust (Programming Language)|Rust]], Ray, Dask, they're primarily performance-oriented and they have a lot of promise, but they're not as popular as pandas or plain Python.
 >
 > **[4:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/why-sql-why-python-why-not-spark?u=76281980&t=269)** And for SQL, new languages and frameworks or new syntaxes, basically new databases, require different variants of SQL, and maybe even the promise of AI writing your SQL for you are on the horizon.
 >
@@ -529,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (23), data (11), [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (10), [[Data Transformation]] (5)
+> **Frameworks & Libraries:** [[SQL]] (23), [[Python (Programming Language)|Python]] (11), [[Pandas (Software)|Pandas]] (10), [[Data Transformation]] (5), [[Databases]] (2)
 > **Env Vars:** sql (23)
 > **CLI Commands:** python (11), find (1), make (1)
 > **Definitions:** means that (3), is a  (1)
@@ -538,12 +534,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980)
+#### [Types of data transformation](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=0)** - [Instructor] So there are a number of types of data transformation that we'll be discussing in this course, but I wouldn't get too hung up on what specific type of data transformation we'll be performing at any given time because data transformation is pretty fluid.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=0)** - [Instructor] So there are a number of types of [[Data Transformation]] that we'll be discussing in this course, but I wouldn't get too hung up on what specific type of data transformation we'll be performing at any given time because data transformation is pretty fluid.
 >
 > **[0:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=12)** And often, we'll be combining these methods, chaining them together.
 >
@@ -571,13 +566,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=67)** And you can think of an apply function like a map.
 >
-> **[1:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=69)** The term applying just comes from the pandas method apply.
+> **[1:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=69)** The term applying just comes from the [[Pandas (Software)|pandas]] method apply.
 >
-> **[1:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=73)** That is very common in Python data transformation, but effectively, applying or mapping is just taking a function and applying it to each row of data in a transformation.
+> **[1:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=73)** That is very common in [[Python (Programming Language)|Python]] data transformation, but effectively, applying or mapping is just taking a function and applying it to each row of data in a transformation.
 >
 > **[1:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=84)** And lastly, a subset of aggregation are window clauses or windowing over our data, and that means calculating aggregates within groups, within partitions or more complex functions.
 >
-> **[1:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=96)** We'll discuss that in more detail as we get to the specific subject of windowing in both SQL and pandas.
+> **[1:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=96)** We'll discuss that in more detail as we get to the specific subject of windowing in both [[SQL]] and pandas.
 >
 > **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/types-of-data-transformation-we-ll-cover?u=76281980&t=102)** Now, there are a few other types of transformation that we will be covering in this course, and it should be noted that we'll be covering types of transformation that I'm not listing here.
 >
@@ -591,14 +586,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Data Transformation]] (5), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (5), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **Analogies:** for example (2), kind of like (1), similar to (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### The goal of data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980)
+#### [The goal of data transformation](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980&t=8)** But briefly, I'll describe what I consider to be the course mission or why I wrote this course and what I hope you're able to take away from it.
 >
-> **[0:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980&t=16)** So my goal in creating The Fundamentals of Data Transformation is to provide a basis for transforming data with SQL and pandas that really focuses on the underlying concepts of data transformation.
+> **[0:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980&t=16)** So my goal in creating The Fundamentals of [[Data Transformation]] is to provide a basis for transforming data with [[SQL]] and [[Pandas (Software)|pandas]] that really focuses on the underlying concepts of data transformation.
 >
 > **[0:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/the-goal-of-data-transformation?u=76281980&t=27)** In technology, things change pretty fast, but often, the underlying concepts are the things that will be true for a very long time or evergreen, in a sense, and through hands-on learning and a focus on doing rather than repeating or memorizing, I really hope that you'll glimpse into the life of a practitioner, whether that be a data analyst or a data engineer and a tinkerer, not just a robot.
 >
@@ -618,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Data Transformation]] (2), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (2), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -627,12 +621,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DuckDB basics and query structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
+#### [DuckDB basics and query structure](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=0)** - [Instructor] In our first lesson, we'll be learning data transformation in SQL with DuckDB.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=0)** - [Instructor] In our first lesson, we'll be learning [[Data Transformation]] in [[SQL]] with DuckDB.
 >
 > **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=4)** And this will be pretty straightforward, this video.
 >
@@ -710,11 +703,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=235)** But that's all for now.
 >
-> **[3:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=236)** Next, we'll jump into wrangling unstructured data with DuckDB, and things will pick up a bit from there.
+> **[3:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980&t=236)** Next, we'll jump into wrangling [[Unstructured Data]] with DuckDB, and things will pick up a bit from there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (9), database (3), [[Data Transformation]] (1), prompt (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Data Transformation]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** sql (9), describe (2), select (1), show (1), tables (1)
 > **UI Navigation:** open the (1), navigate to (1), select the (1)
 > **CLI Commands:** find (2)
@@ -723,18 +716,17 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wrangling unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980)
+#### [Wrangling unstructured data](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=0)** - [Narrator] In this section, we're going to talk about how to wrangle unstructured data.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=0)** - [Narrator] In this section, we're going to talk about how to wrangle [[Unstructured Data]].
 >
 > **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=4)** And that means taking data that might not be in perfect tabular format, transforming it into a more approachable format, and then saving it off somewhere to re-access it.
 >
 > **[0:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=13)** We'll be using CTEs, common table expressions, which we'll talk about in a bit, aliases and case statements.
 >
-> **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=19)** We'll also preview some concepts like Boolean Logic, coalesce, not in all, and a few other forms of filtering.
+> **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=19)** We'll also preview some concepts like Boolean Logic, coalesce, not in all, and a few other [[Forms]] of filtering.
 >
 > **[0:25](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=25)** But to get started, we'll load up our database and jump right into it.
 >
@@ -746,11 +738,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=40)** There are quite a few, but off-the-bat, we can notice there's some interesting things going on.
 >
-> **[0:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=45)** So we'll note that certain columns appear to have lists of JSON, which is a type of data, JSON data listed in those columns.
+> **[0:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=45)** So we'll note that certain columns appear to have lists of [[JSON]], which is a type of data, JSON data listed in those columns.
 >
 > **[0:54](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=54)** And in particular, we're going to investigate the operating hours column.
 >
-> **[0:57](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=57)** So we can take a peek at operating hours and notice that it's of struck type or nested JSON in SQL speak.
+> **[0:57](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=57)** So we can take a peek at operating hours and notice that it's of struck type or nested JSON in [[SQL]] speak.
 >
 > **[1:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=64)** And selecting the first row there, we seem that we have a name parameter kind of nested within this row.
 >
@@ -788,13 +780,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=197)** And so running this is going to select what we just created into its own table and return the number of rows.
 >
-> **[3:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=204)** And so this pattern in data transformation, creating tables with dimensions, it's a kind of a data transformation term, like operating hours, lets us easily join to access information and improves the readability of the queries that we'll be writing.
+> **[3:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=204)** And so this pattern in [[Data Transformation]], creating tables with dimensions, it's a kind of a data transformation term, like operating hours, lets us easily join to access information and improves the readability of the queries that we'll be writing.
 >
 > **[3:39](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=219)** So you can imagine building on this query, the syntax would get pretty complicated very quickly, but from what we just created, if we wanted to get the park hours from Thursday, for example, the following query would do just that in only five or six lines of SQL where we select from our new park hours data set, we create a left join and bring in our parks data set on the park ID, and we filter by the category being hours of operation.
 >
 > **[4:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=247)** So this is a really handy way for improving the readability of the queries, making things accessible and storing them off for later.
 >
-> **[4:14](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=254)** But if we wanted to know all the values that Thursday can take in our dataset, we could use the distinct syntax to return a list, that's kind of like using set in Python.
+> **[4:14](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=254)** But if we wanted to know all the values that Thursday can take in our dataset, we could use the distinct syntax to return a list, that's kind of like using set in [[Python (Programming Language)|Python]].
 >
 > **[4:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=264)** We're just saying, for all of these values, what are the unique values that exist in this column?
 >
@@ -894,7 +886,7 @@ created: 2026-05-02
 >
 > **[9:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=577)** We're selecting data, we're asking ourselves questions about it, and then we're investigating that data, identifying useful facts and dimensions that might be useful downstream.
 >
-> **[9:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=586)** We're doing a little bit of data modeling in creating columns, creating column names for queries that we think will perform often.
+> **[9:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=586)** We're doing a little bit of [[Data Modeling]] in creating columns, creating column names for queries that we think will perform often.
 >
 > **[9:53](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=593)** We're transforming that data so that it's easy to re-access and we're storing it.
 >
@@ -912,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[JSON]] (6), [[Data Transformation]] (4), [[Unstructured Data]] (3), database (3)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Data Transformation]] (4), [[Unstructured Data]] (3), [[SQL]] (3), [[Data Modeling]] (3)
 > **Env Vars:** json (6), sql (3), unnest (2), cte (2), nps (1)
 > **CLI Commands:** make (5), python (1), find (1)
 > **Definitions:** is a  (6), is an  (1)
@@ -921,12 +913,11 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **UI Navigation:** select the (1)
 
-#### Joins and comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980)
+#### [Joins and comparisons](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=0)** - [Instructor] In this lesson, we're going to jump into joins and comparisons, and those are ways of filtering your data and comparing them for future data transformation steps.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=0)** - [Instructor] In this lesson, we're going to jump into joins and comparisons, and those are ways of filtering your data and comparing them for future [[Data Transformation]] steps.
 >
 > **[0:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=8)** So we'll start by loading our data set, and in our previous examples, we used where to filter queries, but we can also do that with joins.
 >
@@ -990,7 +981,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=181)** And that means that we might be capturing unexpected data if we're not aware of that functionality.
 >
-> **[3:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=187)** So we can also nest logic, and this is a big advantage of using SQL.
+> **[3:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=187)** So we can also nest logic, and this is a big advantage of using [[SQL]].
 >
 > **[3:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=191)** You can do this really clean nesting, we can nest logic for multiple data timeframes.
 >
@@ -1000,11 +991,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=214)** So another handy way to filter data sets is through string matching.
 >
-> **[3:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=218)** And if you're familiar with Python, you probably know regex, but SQL has a few other simple ways to filter strings.
+> **[3:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=218)** And if you're familiar with [[Python (Programming Language)|Python]], you probably know regex, but SQL has a few other simple ways to filter strings.
 >
 > **[3:44](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=224)** The first is like, and like is simply a way of asking if a string is in a column.
 >
-> **[3:51](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=231)** So where title, like, stroll is asking, well, is the word, stroll, anywhere in our title?
+> **[3:51](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=231)** So where title, like, stroll is asking, well, is the [[Microsoft Word|word]], stroll, anywhere in our title?
 >
 > **[4:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/joins-and-comparisons?u=76281980&t=240)** And if I run this, we should get titles where stroll is in the title of the event.
 >
@@ -1128,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[SQL]] (5), next (3), [[Data Transformation]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Transformation]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (5), nps (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** for example (4), imagine (1)
@@ -1137,8 +1128,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1), gotcha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregations
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980)
+#### [Aggregations](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=2)** And aggregations are really important.
 >
-> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=4)** They might be the meat and kind of core of data transformation because aggregations help us describe things by the group that they exist in.
+> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=4)** They might be the meat and kind of core of [[Data Transformation]] because aggregations help us describe things by the group that they exist in.
 >
 > **[0:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=13)** And we'll get started by loading our dataset and we're going to have some fun digging into the parks table here.
 >
@@ -1200,7 +1190,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=180)** This is different information than what we've previously had because of those cross border parks and the way that our state were forming.
 >
-> **[3:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=188)** Again, this is a pattern, and this is something that's important to note because it'll resurface through the rest of this course.
+> **[3:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=188)** Again, this is a pattern, and this is something that's important to note because it'll resurface through the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[3:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=193)** And that is, in order to count what we need to, we have to derive one row per state per park.
 >
@@ -1246,7 +1236,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=296)** And finally, we'll filter the results by those numbers.
 >
-> **[4:59](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=299)** And SQL is really great for this because with CTEs, we can actually do this in logical steps.
+> **[4:59](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=299)** And [[SQL]] is really great for this because with CTEs, we can actually do this in logical steps.
 >
 > **[5:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=303)** So here I have a CTE that does that, and we'll walk through exactly what we're doing.
 >
@@ -1346,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Data Transformation]] (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** count (4), cte (3), sql (2), case (2), distinct (1)
 > **Cross-References:** as we saw (1), in the last (1), in the next (1), earlier in (1)
 > **Definitions:** is a  (3), means that (1)
@@ -1355,14 +1345,13 @@ created: 2026-05-02
 > **Code Identifiers:** nps_public_data (1), min_sites (1), min_max_site (1)
 > **SQL:** where (1), group by (1)
 
-#### Windows functions: A quick refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980)
+#### [Windows functions: A quick refresher](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980&t=0)** - [Instructor] So before we jump into window functions, I want to provide a quick refresher if you're a bit rusty or if you haven't worked with Window functions in a while, because they can be tricky.
 >
-> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980&t=9)** And SQL Windows are kind of just like aggregates, but they're aggregates within these things called partitions.
+> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980&t=9)** And [[SQL]] [[Windows]] are kind of just like aggregates, but they're aggregates within these things called partitions.
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows-functions-refresher?u=76281980&t=15)** So taking MAX, you know, performing that aggregation is both a window and an aggregate, but if you don't specify any partition, you're just taking the MAX of the entire data set and the order is predefined by the function.
 >
@@ -1452,20 +1441,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Windows]] (4), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[SQL]] (2)
 > **Env Vars:** max (8), sql (2), first_value (2), first_vlaue (1)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980)
+#### [Window functions](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=0)** - [Instructor] In this lesson, we're going to jump into window functions.
 >
-> **[0:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=3)** So hopefully had a chance to take a look at the window function refresher to understand a bit more about how window functions work, and maybe shake off a bit of the rust.
+> **[0:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=3)** So hopefully had a chance to take a look at the window function refresher to understand a bit more about how window functions work, and maybe shake off a bit of the [[Rust (Programming Language)|rust]].
 >
 > **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=10)** So as usual, we'll get started with loading our database and we'll start with some sample questions that are well suited to window functions.
 >
@@ -1609,11 +1597,11 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=383)** They're just going to handle ties and conflicts a bit differently.
 >
-> **[6:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=387)** And that's another really important concept for filtering data or selecting particular rows of data that you're going to come across a lot in data transformation, and that we'll cover in our exercise.
+> **[6:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=387)** And that's another really important concept for filtering data or selecting particular rows of data that you're going to come across a lot in [[Data Transformation]], and that we'll cover in our exercise.
 >
 > **[6:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=397)** But now we can talk about rolling averages.
 >
-> **[6:39](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=399)** And rolling averages are a concept that's actually surprisingly easier in SQL than Python, thanks to the row based layout and language characteristics of SQL.
+> **[6:39](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=399)** And rolling averages are a concept that's actually surprisingly easier in [[SQL]] than [[Python (Programming Language)|Python]], thanks to the row based layout and language characteristics of SQL.
 >
 > **[6:51](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=411)** So in this example, we're going to select alerts from our table, and if we run that query, we're going to get our date and the number of alerts on each date from our alerts data.
 >
@@ -1667,7 +1655,7 @@ created: 2026-05-02
 >
 > **[9:41](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=581)** That's the basics of window functions.
 >
-> **[9:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=582)** If you can understand how to break down the question that you're trying to answer into these concepts of aggregates, partitions, and frames, you've really mastered windows.
+> **[9:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=582)** If you can understand how to break down the question that you're trying to answer into these concepts of aggregates, partitions, and frames, you've really mastered [[Windows]].
 >
 > **[9:51](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/window-functions?u=76281980&t=591)** That's all there is to it.
 >
@@ -1681,7 +1669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (6), [[SQL]] (4), [[Rust (Programming Language)|Rust]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Rust (Programming Language)|Rust]] (1), [[Data Transformation]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1)
 > **Env Vars:** rank (7), lead (4), lag (4), nth_value (4), row_number (4)
 > **Cross-References:** we discussed (3), in the next (2), later in (1)
 > **Analogies:** for example (3), just like (1)
@@ -1690,8 +1678,7 @@ created: 2026-05-02
 > **SQL:** group by (1), select (1)
 > **Versions:** go 7 (1)
 
-#### Advanced filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980)
+#### [Advanced filters](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1686,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=4)** And when I say advanced filtering concepts, I just mean filters that act on groups or window functions.
 >
-> **[0:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=11)** And those are QUALIFY and HAVING in SQL, and you'll see this less often than the WHERE clause, but you can think about them as very similar to that clause.
+> **[0:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=11)** And those are QUALIFY and HAVING in [[SQL]], and you'll see this less often than the WHERE clause, but you can think about them as very similar to that clause.
 >
 > **[0:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=21)** But HAVING is like a WHERE clause for aggregates and QUALIFY is like a WHERE clause for window functions.
 >
@@ -1759,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** where (5), qualify (4), having (4), cte (3), sql (2)
 > **SQL:** where (5), having (4), select (2), join (1)
 > **Code Identifiers:** num_campsites (4)
@@ -1767,8 +1754,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980)
+#### [Advanced joins](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=49)** So it's important to consider magnitude when you're doing cross joins.
 >
-> **[0:53](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=53)** If we're looking at something like national parks, it's okay, because there are only like 60 or so parks and you know, SQL and even embedded databases like DuckDB can handle even a million rows.
+> **[0:53](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=53)** If we're looking at something like national parks, it's okay, because there are only like 60 or so parks and you know, [[SQL]] and even embedded [[Databases]] like DuckDB can handle even a million rows.
 >
 > **[1:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=63)** That's not a huge deal.
 >
@@ -1798,7 +1784,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=77)** So how could we write a cross join that gives us all of the combinations of campgrounds we could possibly attend?
 >
-> **[1:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=83)** And in data transformation, it's not often that we'll be looking at combinations and permutations like this, but you'd be surprised the number of cases where cross joins come in handy.
+> **[1:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=83)** And in [[Data Transformation]], it's not often that we'll be looking at combinations and permutations like this, but you'd be surprised the number of cases where cross joins come in handy.
 >
 > **[1:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=94)** For example, if you have one table that has multiple types of records that you need to compare against each other.
 >
@@ -1946,7 +1932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[SQL]] (1), [[Databases]] (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1), [[Data Transformation]] (1)
 > **Env Vars:** cte (6), sql (1), unnest (1), split (1)
 > **Analogies:** imagine (3), for example (1)
 > **Cross-References:** go back to (1), earlier in (1), in the next (1)
@@ -1955,12 +1941,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Lambdas and UDFs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980)
+#### [Lambdas and UDFs](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=0)** - [Instructor] So, we've covered most of the advanced SQL concepts that we're going to talk about.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=0)** - [Instructor] So, we've covered most of the advanced [[SQL]] concepts that we're going to talk about.
 >
 > **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=5)** And this lesson's a little different.
 >
@@ -1970,7 +1955,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=27)** But one of the cool things about DuckDB is that it has a lot of functionality.
 >
-> **[0:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=31)** So we can simulate some of the features that you'll bump into as you explore different SQL databases whether that be Postgres, or MySQL, or SQL Light.
+> **[0:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=31)** So we can simulate some of the features that you'll bump into as you explore different SQL [[Databases]] whether that be [[PostgreSQL|Postgres]], or [[MySQL]], or SQL Light.
 >
 > **[0:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=40)** But the two concepts we're going to talk about here are Lambdas and UDFs.
 >
@@ -1982,11 +1967,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=53)** I'll run the first cell, we'll get into this lesson.
 >
-> **[0:55](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=55)** So if you know, the note here says if you end up working in data and data transformation, it's pretty likely UDFs are going to come in handy at some point.
+> **[0:55](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=55)** So if you know, the note here says if you end up working in data and [[Data Transformation]], it's pretty likely UDFs are going to come in handy at some point.
 >
 > **[1:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=62)** And this lesson is mainly to let you know they exist and show you some basic functionality.
 >
-> **[1:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=68)** So DuckDB supports Python user defined functions.
+> **[1:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=68)** So DuckDB supports [[Python (Programming Language)|Python]] user defined functions.
 >
 > **[1:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=70)** This is pretty cool.
 >
@@ -2046,7 +2031,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=217)** So when you're adding in arbitrary functions, this is something that if you end up learning about Spark, this is a bit of a tangent, but if you end up learning about Spark or distributed computing, a lot of query planners can't.
 >
-> **[3:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=228)** And a query planner is just the way that the algorithms work in the database to execute what you're telling it to.
+> **[3:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=228)** And a query planner is just the way that the [[Algorithms]] work in the database to execute what you're telling it to.
 >
 > **[3:54](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=234)** But a lot of query planners can't actually account for the complexities of these UDFs.
 >
@@ -2092,7 +2077,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=337)** Lambdas in the sense of DuckDB means a function that operates on every item in a list.
 >
-> **[5:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=342)** There are similar Python functions that we'll talk about in the Pandas transformation that use the term Lambdas.
+> **[5:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=342)** There are similar Python functions that we'll talk about in the [[Pandas (Software)|Pandas]] transformation that use the term Lambdas.
 >
 > **[5:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=349)** Really, let's focus on operating on every item in a list.
 >
@@ -2134,7 +2119,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=430)** DuckDB has available.
 >
-> **[7:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=432)** It won't be exactly the same if you go to something like a BigQuery or a Snowflake, or it might not even exist in like a MySQL or a Postgres.
+> **[7:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=432)** It won't be exactly the same if you go to something like a BigQuery or a [[Snowflake]], or it might not even exist in like a MySQL or a Postgres.
 >
 > **[7:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=439)** These are all different types of databases.
 >
@@ -2186,7 +2171,7 @@ created: 2026-05-02
 >
 > **[9:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=567)** And then you can look that up.
 >
-> **[9:28](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=568)** So the patterns we talked about in this section are user-defined functions which are ways of defining Python or JavaScript in some databases that you want to execute within SQL, as well as Lambdas which operate on every element in a list.
+> **[9:28](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=568)** So the patterns we talked about in this section are user-defined functions which are ways of defining Python or [[JavaScript]] in some databases that you want to execute within SQL, as well as Lambdas which operate on every element in a list.
 >
 > **[9:41](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/lambdas-udfs?u=76281980&t=581)** And that can be valuable for keeping those struct or list columns intact without needing to re-explode and recreate them, as I discussed.
 >
@@ -2200,7 +2185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (19), data (10), [[Python (Programming Language)|Python]] (10), database (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (19), [[Python (Programming Language)|Python]] (10), [[Databases]] (3), [[Data Transformation]] (3), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (19), utf8 (1), udf (1)
 > **CLI Commands:** python (10), mysql (2), make (2), az (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -2209,12 +2194,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** select the (1)
 
-#### Data generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980)
+#### [Data generation](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=0)** - [Matt] So we've made it to the last lesson in our SQL section, and this lesson's going to be about data generation.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=0)** - [Matt] So we've made it to the last lesson in our [[SQL]] section, and this lesson's going to be about data generation.
 >
 > **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=7)** And you might be thinking, "Okay, well, Matt, we're transforming data, we shouldn't be generating more data."
 >
@@ -2230,7 +2214,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=65)** So I'm going to run the initialization cell here.
 >
-> **[1:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=67)** And in the first, I'm just showing you a very simple way of doing this in DuckDB, and most SQL databases, most of the newer technologies and all of the cloud providers at this point, I think, have a way to generate data.
+> **[1:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=67)** And in the first, I'm just showing you a very simple way of doing this in DuckDB, and most SQL [[Databases]], most of the newer technologies and all of the cloud providers at this point, I think, have a way to generate data.
 >
 > **[1:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=81)** In DuckDB it's simply the range function, so the syntax for the range function goes: a start, end, end, also step, so I could do like by twos here.
 >
@@ -2296,7 +2280,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=242)** So that's the point I really want to make here is that even on the days with zero alerts, days that would've been skipped without our generated ranges, we have values there.
 >
-> **[4:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=250)** And so check out the DuckDB docs to learn a bit more here, and if you're on BigQuery or another SQL database, be sure to check out date ranges for computing every row in a table because this is something that, like, it's hard to do in Python as we'll see, but is really simple in SQL.
+> **[4:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=250)** And so check out the DuckDB docs to learn a bit more here, and if you're on BigQuery or another SQL database, be sure to check out date ranges for computing every row in a table because this is something that, like, it's hard to do in [[Python (Programming Language)|Python]] as we'll see, but is really simple in SQL.
 >
 > **[4:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation-24026425?u=76281980&t=267)** That's another tongue twister.
 >
@@ -2312,7 +2296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[SQL]] (8), next (3), [[Databases]] (1), cloud (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -2321,14 +2305,13 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [matt] (1)
 
-#### SQL challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980)
+#### [SQL challenge](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=0)** (intro music)
 >
-> **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=5)** - [Instructor] So we've completed the SQL lessons for the course, and now it's time for our SQL Challenge, and you'll have a chance to test your knowledge here.
+> **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=5)** - [Instructor] So we've completed the [[SQL]] lessons for the course, and now it's time for our SQL Challenge, and you'll have a chance to test your knowledge here.
 >
 > **[0:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=12)** For time, I'd allot a maximum of one to two hours for this challenge, and that's definitely on the upper estimate there.
 >
@@ -2348,7 +2331,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=48)** And finally, if you get stuck, I'd recommend you use Stack Overflow, use an LLM if you want, or take a peek at only the next step in the solution video or in that exercise solution file.
 >
-> **[0:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=58)** And really push yourself to think critically, because the whole point of this challenge is to understand the concepts that we've been discussing, understand data transformation with SQL, and apply what you've learned to these exercises.
+> **[0:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=58)** And really push yourself to think critically, because the whole point of this challenge is to understand the concepts that we've been discussing, understand [[Data Transformation]] with SQL, and apply what you've learned to these exercises.
 >
 > **[1:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=71)** We're going to take a look at the file and help you get set up, and then we'll jump right into the challenge.
 >
@@ -2362,7 +2345,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=103)** So, the questions will be directly above the cells.
 >
-> **[1:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=106)** For example, build a query to fetch all the parks in Utah and order the results by the park name.
+> **[1:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=106)** For example, build a query to [[Fetch]] all the parks in Utah and order the results by the park name.
 >
 > **[1:50](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-challenge?u=76281980&t=110)** You'll complete that exercise in each cell.
 >
@@ -2388,7 +2371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), next (2), [[Data Transformation]] (2), llm (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Transformation]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (7), llm (1)
 > **Exercise Files:** exercise file (3)
 > **CLI Commands:** find (2)
@@ -2397,8 +2380,7 @@ created: 2026-05-02
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
 
-#### SQL solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980)
+#### [SQL solution](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,7 +2390,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=6)** And now, we're going to walk through my solutions to the exercise.
 >
-> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=9)** And keep in mind, your results might look a little bit different, but that's one of the fun parts about data transformation.
+> **[0:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=9)** And keep in mind, your results might look a little bit different, but that's one of the fun parts about [[Data Transformation]].
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=15)** There are many ways to do things and there's no such thing as a right answer.
 >
@@ -2426,7 +2408,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=41)** So I'm going to run this first sale here.
 >
-> **[0:43](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=43)** And the first challenge was to build a query to fetch all the parks in Utah and order the results by the park name.
+> **[0:43](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=43)** And the first challenge was to build a query to [[Fetch]] all the parks in Utah and order the results by the park name.
 >
 > **[0:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=49)** I did this one pretty simply, we're just selecting from the parks dataset and we're saying WHERE states ILIKE '%UT%' and the percentage symbols symbolize that UT can be anywhere in that string.
 >
@@ -2462,7 +2444,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=118)** For all national parks, return the state's column as a struck type with each element as a state.
 >
-> **[2:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=123)** This is pretty much exactly what we discussed in one of the earlier SQL lessons on wrangling unstructured data.
+> **[2:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=123)** This is pretty much exactly what we discussed in one of the earlier [[SQL]] lessons on wrangling [[Unstructured Data]].
 >
 > **[2:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=131)** And again, on some aggregations, we're going to use that .db split function and then cast the result, which is the double colon sign to a list of strings to return that state list.
 >
@@ -2716,13 +2698,13 @@ created: 2026-05-02
 >
 > **[13:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=780)** But that's it for the SQL section of our course.
 >
-> **[13:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=782)** Up next we're going to jump into data transformation with Python and Pandas.
+> **[13:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=782)** Up next we're going to jump into data transformation with [[Python (Programming Language)|Python]] and [[Pandas (Software)|Pandas]].
 >
 > **[13:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=786)** Can't wait to see you guys there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Data Transformation]] (4), [[SQL]] (3), [[Fetch]] (2), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (4), [[SQL]] (3), [[Fetch]] (2), [[Unstructured Data]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3), count (3), ilike (2), sum (2), cte (2)
 > **Definitions:** is a  (6), means that (1)
 > **Cross-References:** we discussed (3), earlier in (1)
@@ -2736,14 +2718,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DataFrame basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
+#### [DataFrame basics](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=0)** - [Instructor] So welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=1)** You've completed our first lesson on SQL, and now we're jumping into data transformation with Python and pandas, specifically the pandas library.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=1)** You've completed our first lesson on [[SQL]], and now we're jumping into [[Data Transformation]] with [[Python (Programming Language)|Python]] and [[Pandas (Software)|pandas]], specifically the pandas library.
 >
 > **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=10)** And in this video, we'll talk a little bit about how our lessons are structured, which should be familiar with you, how to interact with the notebooks, slightly different for Python, but if you've used pandas before, this should be pretty straightforward, how to tinker with the data, and then give a first lesson introduction.
 >
@@ -2775,7 +2756,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=92)** But a pandas DataFrame is sort of the analogous way to store data in Python.
 >
-> **[1:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=98)** It's like an Excel spreadsheet or a table, right?
+> **[1:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=98)** It's like an [[Microsoft Excel|Excel]] spreadsheet or a table, right?
 >
 > **[1:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=100)** It organizes data into rows or columns.
 >
@@ -2897,11 +2878,11 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=367)** It's going to be very similar in structure to what we covered in SQL.
 >
-> **[6:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=371)** And we'll get started with wrangling unstructured data.
+> **[6:11](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980&t=371)** And we'll get started with wrangling [[Unstructured Data]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (11), [[SQL]] (8), [[Python (Programming Language)|Python]] (7), [[Data Transformation]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (11), [[SQL]] (8), [[Python (Programming Language)|Python]] (7), [[Data Transformation]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (7), find (1), make (1)
 > **Env Vars:** sql (8)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -2910,14 +2891,13 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Warnings:** note that (1)
 
-#### Wrangling unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980)
+#### [Wrangling unstructured data](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=0)** - [Instructor] In this lesson we're going to cover wrangling unstructured data with pandas.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=0)** - [Instructor] In this lesson we're going to cover wrangling [[Unstructured Data]] with [[Pandas (Software)|pandas]].
 >
-> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=4)** And you'll notice that there are a number of differences between how we handle things in Python and how we did in SQL.
+> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=4)** And you'll notice that there are a number of differences between how we handle things in [[Python (Programming Language)|Python]] and how we did in [[SQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=10)** And for some of these it'll be a bit easier.
 >
@@ -2929,7 +2909,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=24)** We're using the read_parquet function from the pandas library to read the dataset.
 >
-> **[0:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=29)** You don't have to worry too much about that, but if you're interested in data analysis or data engineering with parquet files, that'll be something you'll use in the future.
+> **[0:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=29)** You don't have to worry too much about that, but if you're interested in data analysis or [[Data Engineering]] with parquet files, that'll be something you'll use in the future.
 >
 > **[0:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=36)** So again, same dataset that we looked at using SQL, we have a list of national parks.
 >
@@ -2977,7 +2957,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=149)** And then we get maybe a prettier representation of our data.
 >
-> **[2:33](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=153)** And you can see there's name, hours, this is where it comes in handy to understand what json structured data or a dictionary is.
+> **[2:33](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=153)** And you can see there's name, hours, this is where it comes in handy to understand what [[JSON]] structured data or a dictionary is.
 >
 > **[2:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data?u=76281980&t=160)** You can see we have one opening of the dictionary and then there's another dictionary.
 >
@@ -3221,7 +3201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[SQL]] (17), [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (11), next (6)
+> **Frameworks & Libraries:** [[SQL]] (17), [[Pandas (Software)|Pandas]] (14), [[Python (Programming Language)|Python]] (11), [[Unstructured Data]] (3), [[JSON]] (3)
 > **CLI Commands:** python (11), make (4), find (2)
 > **Env Vars:** sql (17)
 > **Analogies:** just like (3), for example (2), kind of like (2), similar to (1), imagine (1)
@@ -3230,14 +3210,13 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Cross-References:** we talked about (1)
 
-#### Select and filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980)
+#### [Select and filter](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=0)** - [Instructor] So in a similar structure to how we approach SQL, we're now going to talk about the select and filter operations for dataframes.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=0)** - [Instructor] So in a similar structure to how we approach [[SQL]], we're now going to talk about the select and filter operations for dataframes.
 >
-> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=7)** And we've already gone over this a little bit with talking about indexing, selecting columns, but we're really going to dig into logical filtering in Pandas.
+> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=7)** And we've already gone over this a little bit with talking about indexing, selecting columns, but we're really going to dig into logical filtering in [[Pandas (Software)|Pandas]].
 >
 > **[0:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=17)** We're going to talk about how to select individual columns and some other nuances like vectorization.
 >
@@ -3275,7 +3254,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=92)** And we'll do another pattern that's is closed or say if closed, then True, else False.
 >
-> **[1:39](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=99)** And these are two common patterns in data transformation.
+> **[1:39](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=99)** And these are two common patterns in [[Data Transformation]].
 >
 > **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=102)** And you can see now if we list the columns out, we now have those two columns, is_closed, closed_open.
 >
@@ -3299,7 +3278,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=156)** And I kind of wrote a little blurb up here about vectorization, which when I talk about vectorization, you might have heard vectors in some other context.
 >
-> **[2:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=166)** In the context of Pandas and Python, vectorization just means doing the same thing to an entire column.
+> **[2:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=166)** In the context of Pandas and [[Python (Programming Language)|Python]], vectorization just means doing the same thing to an entire column.
 >
 > **[2:51](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/select-filter?u=76281980&t=171)** So performing an entire operation.
 >
@@ -3499,7 +3478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (10), [[SQL]] (4), [[Python (Programming Language)|Python]] (2), parallel (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (10), [[SQL]] (4), [[Python (Programming Language)|Python]] (2), [[Data Transformation]] (1)
 > **Code Identifiers:** is_closed (2), closed_open (2), open_seven_days (1), open_seven_days_df (1), is_open (1)
 > **Cross-References:** we talked about (3), later in (1), in the next (1)
 > **Env Vars:** sql (4)
@@ -3508,12 +3487,11 @@ created: 2026-05-02
 > **CLI Commands:** python (2)
 > **UI Navigation:** select the (2)
 
-#### Order and aggregate
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980)
+#### [Order and aggregate](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=0)** - [Instructor] So now we'll talk about ordering and aggregating data using Pandas and it's a bit different than SQL, so stay tuned here.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=0)** - [Instructor] So now we'll talk about ordering and aggregating data using [[Pandas (Software)|Pandas]] and it's a bit different than [[SQL]], so stay tuned here.
 >
 > **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=7)** Some of this might look familiar, some of it might not.
 >
@@ -3543,7 +3521,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=78)** I want to count the individual states that this park crosses.
 >
-> **[1:22](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=82)** And this is pretty cool because Python I think makes this a bit easier.
+> **[1:22](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=82)** And this is pretty cool because [[Python (Programming Language)|Python]] I think makes this a bit easier.
 >
 > **[1:26](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=86)** Like dealing with strings in Python is pretty simple.
 >
@@ -3741,7 +3719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (6), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (6)
 > **Env Vars:** sql (14), cte (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** just like (3), it's like (3), similar to (2)
@@ -3750,14 +3728,13 @@ created: 2026-05-02
 > **Warnings:** note that (2), warning (1)
 > **UI Navigation:** select the (2)
 
-#### Advanced filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980)
+#### [Advanced filters](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=0)** - [Narrator] So just like our SQL lesson, we'll cover some of the advanced methods of filtering and continue with the course.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=0)** - [Narrator] So just like our [[SQL]] lesson, we'll cover some of the advanced methods of filtering and continue with the course.
 >
-> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=7)** So we're going to import our data frame just as we had before, and we've already done like a lot of pretty fancy pandas operations I suppose.
+> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=7)** So we're going to import our data frame just as we had before, and we've already done like a lot of pretty fancy [[Pandas (Software)|pandas]] operations I suppose.
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=15)** So we're going to jump to some more nuanced string filtering methods.
 >
@@ -3783,7 +3760,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=81)** And that's why that works.
 >
-> **[1:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=83)** And so once we use that, we're able to use methods in Python that we would use on any string like split or contains.
+> **[1:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=83)** And so once we use that, we're able to use methods in [[Python (Programming Language)|Python]] that we would use on any string like split or contains.
 >
 > **[1:30](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=90)** And so that's what we saw before.
 >
@@ -3807,7 +3784,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=155)** And that's like a real pain point.
 >
-> **[2:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=157)** If you continue your data transformation journey, you'll notice that null, NA, NAN, like they're all kind of a different thing in Python.
+> **[2:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=157)** If you continue your [[Data Transformation]] journey, you'll notice that null, NA, NAN, like they're all kind of a different thing in Python.
 >
 > **[2:43](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=163)** So that's kind of a big gotcha.
 >
@@ -3815,7 +3792,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=172)** And that's because there's a category that's just defined as an empty string in this data frame.
 >
-> **[2:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=176)** And in data cleaning, you're going to come across stuff like that.
+> **[2:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=176)** And in [[Data Cleaning]], you're going to come across stuff like that.
 >
 > **[3:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters?u=76281980&t=180)** And it's also important to note that empty strings are not actually considered null values by pandas.
 >
@@ -3837,7 +3814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (6), [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1), [[Data Cleaning]] (1)
 > **Env Vars:** nan (4), sql (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** just like (2), similar to (1)
@@ -3846,12 +3823,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980)
+#### [Data generation](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=0)** - [Instructor] So, now we're going to talk about how you can generate data using pandas, using Python, very similar to how we did in SQL.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=0)** - [Instructor] So, now we're going to talk about how you can generate data using [[Pandas (Software)|pandas]], using [[Python (Programming Language)|Python]], very similar to how we did in [[SQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=7)** Maybe a little bit easier, but the complex thing usually comes from working with indices in pandas.
 >
@@ -3977,7 +3953,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=326)** And that's what we're after.
 >
-> **[5:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=327)** So we're going to dig into this a little bit more in Windows.
+> **[5:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=327)** So we're going to dig into this a little bit more in [[Windows]].
 >
 > **[5:30](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=330)** That's going to be a challenging lesson, but a really good one.
 >
@@ -3995,7 +3971,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=374)** There are a bunch of ways you can approach this.
 >
-> **[6:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=376)** I think date ranges are really important for time series data, which is common in data transformation and data analysis.
+> **[6:16](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=376)** I think date ranges are really important for time series data, which is common in [[Data Transformation]] and data analysis.
 >
 > **[6:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/data-generation?u=76281980&t=383)** So that's what we're going to spend a lot of time on in Windows.
 >
@@ -4005,7 +3981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (9), [[SQL]] (5), [[Python (Programming Language)|Python]] (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[SQL]] (5), [[Python (Programming Language)|Python]] (3), [[Windows]] (2), [[Data Transformation]] (1)
 > **Analogies:** just like (3), similar to (2), imagine (1), it's like (1), kind of like (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (3), means that (1), known as (1)
@@ -4013,14 +3989,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980)
+#### [Windows](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=0)** - [Instructor] In this lesson, we're going to talk about windows in the context of Pandas.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=0)** - [Instructor] In this lesson, we're going to talk about [[Windows]] in the context of [[Pandas (Software)|Pandas]].
 >
-> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=4)** And windows for Pandas are a little different than windows for SQL.
+> **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=4)** And windows for Pandas are a little different than windows for [[SQL]].
 >
 > **[0:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=8)** There are a much smaller subset of operations that Pandas windows perform, and you can check that out in the documentation.
 >
@@ -4112,7 +4087,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=206)** So, the thing about rolling averages, as the window increases, you know, 28 days versus 14 days, the line becomes smoother because there's a larger window to average out.
 >
-> **[3:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=218)** And so that can be useful for forecasting and things.
+> **[3:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=218)** And so that can be useful for [[Forecasting]] and things.
 >
 > **[3:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=220)** And you'll note, right, the seven day rolling average is a bit more noisy.
 >
@@ -4120,7 +4095,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=226)** And again, the 28 day is even more smoothed out.
 >
-> **[3:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=228)** This is something you might have seen if you've played around with financial analysis at all.
+> **[3:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=228)** This is something you might have seen if you've played around with [[Financial Analysis]] at all.
 >
 > **[3:52](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=232)** So, these are our information alerts.
 >
@@ -4148,9 +4123,9 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=284)** So yeah, now, we're edging a bit into data visualization, but I just wanted to show you guys a taste of maybe what's next, right?
 >
-> **[4:50](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=290)** If you're learning data transformation at your job for a passion project or a side project, the next step is really to start looking at the data.
+> **[4:50](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=290)** If you're learning [[Data Transformation]] at your job for a passion project or a side project, the next step is really to start looking at the data.
 >
-> **[4:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=298)** And as someone who used to work in product analytics and data engineering, it's pretty frequent that you need to do a gut check on your numbers, or you need to make sure that what you're doing makes sense.
+> **[4:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=298)** And as someone who used to work in product analytics and [[Data Engineering]], it's pretty frequent that you need to do a gut check on your numbers, or you need to make sure that what you're doing makes sense.
 >
 > **[5:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=308)** As I'm sure you've noticed, this can be a bit complex.
 >
@@ -4158,7 +4133,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=312)** So, don't be afraid to pull out a chart here or there.
 >
-> **[5:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=315)** A good library to get started in data visualization is Plotly, but there are a bunch in Python.
+> **[5:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=315)** A good library to get started in data visualization is Plotly, but there are a bunch in [[Python (Programming Language)|Python]].
 >
 > **[5:20](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/windows?u=76281980&t=320)** But this has been our lesson on windows.
 >
@@ -4166,7 +4141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Pandas (Software)|Pandas]] (10), data (10), [[SQL]] (3), next (3)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Pandas (Software)|Pandas]] (10), [[SQL]] (3), [[Forecasting]] (1), [[Financial Analysis]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** kind of like (2), just like (1)
 > **CLI Commands:** make (1), python (1)
@@ -4175,16 +4150,15 @@ created: 2026-05-02
 > **Code Identifiers:** num_alerts_unstacked (1)
 > **Documentation:** the documentation (1)
 
-#### Apply
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980)
+#### [Apply](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=0)** - [Instructor] And we're back for the final lesson in our pandas portion of the course.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=0)** - [Instructor] And we're back for the final lesson in our [[Pandas (Software)|pandas]] portion of the course.
 >
 > **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=5)** And here we're going to talk about the apply method.
 >
-> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=7)** And apply is very similar to the last SQL lesson on lambdas, or wasn't the last, but on lambdas and UDFs.
+> **[0:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=7)** And apply is very similar to the last [[SQL]] lesson on lambdas, or wasn't the last, but on lambdas and UDFs.
 >
 > **[0:14](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=14)** So apply is similar.
 >
@@ -4194,7 +4168,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=23)** So this is kind of like custom operations.
 >
-> **[0:25](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=25)** It's almost a mixture of a UDF, but in Python and pandas speak.
+> **[0:25](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=25)** It's almost a mixture of a UDF, but in [[Python (Programming Language)|Python]] and pandas speak.
 >
 > **[0:30](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=30)** So, some notes here about apply that I left for you.
 >
@@ -4232,7 +4206,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=92)** So we'll go parks_df, and then we'll look at the addresses column.
 >
-> **[1:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=96)** If I run that, you can see, oh wow, it's actually just a bunch of dictionaries, is a bunch of JSON.
+> **[1:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=96)** If I run that, you can see, oh wow, it's actually just a bunch of dictionaries, is a bunch of [[JSON]].
 >
 > **[1:41](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=101)** And so, if we wanted to get the city, what we would have to do is look at the first one of these rows, and then we'd have to say, "Okay, well, what's the first value in that list?
 >
@@ -4328,9 +4302,9 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=336)** Again, it operates by row.
 >
-> **[5:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=337)** And I want to make very explicit that for large, very big data sets, things can be slow.
+> **[5:37](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=337)** And I want to make very explicit that for large, very [[Big Data]] sets, things can be slow.
 >
-> **[5:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=342)** So even if you import a CSV or like a really big CSV, maybe you're on Kaggle or some other data science site, or you're on another LinkedIn course, right?
+> **[5:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=342)** So even if you import a CSV or like a really big CSV, maybe you're on Kaggle or some other [[Data Science]] site, or you're on another [[LinkedIn]] course, right?
 >
 > **[5:49](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=349)** And you import a really big CSV and something is going slow or it feels like it's timing out, think about what apply might actually be doing, and that might be a bottleneck for performance.
 >
@@ -4338,7 +4312,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=362)** And we have everything we need to jump into the pandas exercise.
 >
-> **[6:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=366)** So you're officially done with like the lesson portion of fundamentals of data transformation, and you can just focus on the exercise in pandas next.
+> **[6:06](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/apply?u=76281980&t=366)** So you're officially done with like the lesson portion of fundamentals of [[Data Transformation]], and you can just focus on the exercise in pandas next.
 
 > [!info]- Semantic Content
 >
@@ -4351,12 +4325,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### pandas challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980)
+#### [pandas challenge](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=0)** - [Instructor] So now we can get started with our pandas Challenge since we've covered all the topics we need to for our data transformations with pandas.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=0)** - [Instructor] So now we can get started with our [[Pandas (Software)|pandas]] Challenge since we've covered all the topics we need to for our data transformations with pandas.
 >
 > **[0:12](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=12)** So I want to emphasize that this is maybe an overestimate of the amount of time it'll take you to complete these lessons but I would allot one to two hours for this challenge, maybe a little bit less but you'll definitely be able to complete these solutions in that window.
 >
@@ -4372,7 +4345,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=46)** Your solutions might look different than mine.
 >
-> **[0:47](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=47)** There are multiple ways to do things, especially with Python and especially with pandas.
+> **[0:47](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=47)** There are multiple ways to do things, especially with [[Python (Programming Language)|Python]] and especially with pandas.
 >
 > **[0:52](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=52)** And that's okay, that's really good in a sense because it kind of brings that diversity of thought into the equation.
 >
@@ -4392,7 +4365,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=87)** So next, we can jump on over to the exercise file.
 >
-> **[1:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=91)** And this time it'll be under pandas instead of SQL.
+> **[1:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=91)** And this time it'll be under pandas instead of [[SQL]].
 >
 > **[1:35](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-challenge?u=76281980&t=95)** And we'll go into the blank exercise.
 >
@@ -4408,7 +4381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[SQL]] (3), next (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[SQL]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3), llm (1)
 > **CLI Commands:** python (1)
 > **Documentation:** stack overflow (1)
@@ -4416,22 +4389,21 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### pandas solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980)
+#### [pandas solution](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=5)** - [Instructor] So you've completed the pandas exercise, and now we're going to walk through the solutions and I'll show you how I approached these problems, how I figured the challenges out.
+> **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=5)** - [Instructor] So you've completed the [[Pandas (Software)|pandas]] exercise, and now we're going to walk through the solutions and I'll show you how I approached these problems, how I figured the challenges out.
 >
 > **[0:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=13)** Hopefully this aligns with the methods you use, but again, it's really great when we do things that are different.
 >
-> **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=19)** There are many ways to get to these solutions using Python.
+> **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=19)** There are many ways to get to these solutions using [[Python (Programming Language)|Python]].
 >
-> **[0:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=21)** So we're going to import our DataFrame, and the first challenge is going to be write a snippet to fetch all the parks in Utah and order the results by the park name.
+> **[0:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=21)** So we're going to import our DataFrame, and the first challenge is going to be write a snippet to [[Fetch]] all the parks in Utah and order the results by the park name.
 >
-> **[0:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=29)** So this is very similar to what we did in SQL.
+> **[0:29](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=29)** So this is very similar to what we did in [[SQL]].
 >
 > **[0:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=31)** Again, using that string contains method to filter the states column, and then applying that to the DataFrame and sorting the values by the fullName.
 >
@@ -4515,7 +4487,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=193)** Next question, what is the percentage share of the total?
 >
-> **[3:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=197)** And window functions might be helpful in this one, but we actually can do this without windows using Python.
+> **[3:17](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=197)** And window functions might be helpful in this one, but we actually can do this without [[Windows]] using Python.
 >
 > **[3:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=203)** So we're going to take the total number of states by just performing a count, the count previously, and then a sum on top of that count.
 >
@@ -4743,7 +4715,7 @@ created: 2026-05-02
 >
 > **[12:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=729)** We've went over every method we've discussed for transforming data.
 >
-> **[12:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=733)** We've worked with time series data, we've worked with aggregations, with window functions, and hopefully, you have a well-rounded view of data transformation with both SQL and Python in this course.
+> **[12:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=733)** We've worked with time series data, we've worked with aggregations, with window functions, and hopefully, you have a well-rounded view of [[Data Transformation]] with both SQL and Python in this course.
 >
 > **[12:23](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/pandas-solution?u=76281980&t=743)** Up next, we're going to wrap things up.
 >
@@ -4759,7 +4731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (11), [[SQL]] (9), data (6), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[SQL]] (9), [[Pandas (Software)|Pandas]] (4), [[Fetch]] (2), [[Windows]] (2)
 > **Code Identifiers:** alert_date (6), total_campsites (4), fullname (3), states_list (2), name_park (1)
 > **CLI Commands:** python (12), make (3), find (1)
 > **Env Vars:** sql (9)
@@ -4773,12 +4745,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you learned, how to practice and grow, and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)
+#### [What you learned, how to practice and grow, and next steps](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=0)** - [Instructor] And that's a wrap on the fundamentals of data transformation.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=0)** - [Instructor] And that's a wrap on the fundamentals of [[Data Transformation]].
 >
 > **[0:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=3)** So thank you so much for taking this course.
 >
@@ -4798,7 +4769,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=56)** So that's been a big source of motivation for me, and you might find it to be rewarding as well.
 >
-> **[1:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=62)** Some additional LinkedIn Learning resources around Pandas and SQL.
+> **[1:02](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=62)** Some additional [[LinkedIn]] Learning resources around [[Pandas (Software)|Pandas]] and [[SQL]].
 >
 > **[1:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=65)** There's Pandas Essential Training, which might also kind of be a precursor to this course, but it can help you fill in some gaps if things were confusing.
 >
@@ -4816,7 +4787,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=92)** So I'm Matt.
 >
-> **[1:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=94)** I currently work in Developer Relations at Replit, which is a software development platform.
+> **[1:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=94)** I currently work in Developer Relations at Replit, which is a [[Software Development]] platform.
 >
 > **[1:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=98)** If you haven't heard of Replit and you're interested in learning more about coding specifically, it might be interesting for you.
 >
@@ -4828,7 +4799,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=121)** Previously I was a Product Analyst at AllTrails, worked with a lot of really fun hiking data.
 >
-> **[2:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=127)** I've also worked as a data engineer at a company called Underline Infrastructure, and in developer relations at another data engineering tool.
+> **[2:07](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=127)** I've also worked as a data engineer at a company called Underline Infrastructure, and in developer relations at another [[Data Engineering]] tool.
 >
 > **[2:14](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=134)** But lastly, if you'd like to say hi on X or drop me a note on LinkedIn, you can scan one of these QR codes to connect or follow me.
 >
@@ -4846,11 +4817,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=165)** So that's my gift to you and I hope you enjoy it.
 >
-> **[2:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=168)** But if you're done with this, I totally understand and good luck with the rest of your journey.
+> **[2:48](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980&t=168)** But if you're done with this, I totally understand and good luck with the [[Representational State Transfer (REST)|rest]] of your journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (3), [[LinkedIn]] (2), [[Software Development]] (1)
 > **Env Vars:** sql (5), readme (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
@@ -4858,8 +4829,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL bonus challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980)
+#### [SQL bonus challenge](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4867,7 +4837,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980&t=5)** - [Instructor] So if you're watching this video, I'm really excited you've decided to take the challenge and tackle this bonus exercise.
 >
-> **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980&t=10)** This one's just kind of more fun and it has more to do with combinations and permutations, something that we discussed a bit in SQL but is kind of outside of this course.
+> **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980&t=10)** This one's just kind of more fun and it has more to do with combinations and permutations, something that we discussed a bit in [[SQL]] but is kind of outside of this course.
 >
 > **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-challenge?u=76281980&t=19)** And if you're wondering how I came up with this, I was basically just playing around and thought, "Oh, this would be fun to share with people."
 >
@@ -4909,7 +4879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (2), select (1), limit (1)
 > **Code Identifiers:** exercise_bonus (1), powerball_df (1)
 > **SQL:** select (1)
@@ -4918,14 +4888,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### SQL bonus solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980)
+#### [SQL bonus solution](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=0)** - [Instructor] Okay, so we're back and we're going to talk about the solutions to our bonus SQL challenge.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=0)** - [Instructor] Okay, so we're back and we're going to talk about the solutions to our bonus [[SQL]] challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=10)** This one's more for fun, again, I wouldn't take this one as seriously as the rest of the course, but that's the whole point, right?
+> **[0:10](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=10)** This one's more for fun, again, I wouldn't take this one as seriously as the [[Representational State Transfer (REST)|rest]] of the course, but that's the whole point, right?
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=15)** We're trying to have fun.
 >
@@ -4993,7 +4962,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=266)** And so then we're asking, have the most popular numbers ever been drawn sequentially?
 >
-> **[4:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=271)** So for these highest probability numbers, we can just define the string winning_numbers and select from the Powerball dataset, the answer is no.
+> **[4:31](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=271)** So for these highest [[Probability]] numbers, we can just define the string winning_numbers and select from the Powerball dataset, the answer is no.
 >
 > **[4:40](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=280)** Potentially disappointing.
 >
@@ -5049,11 +5018,11 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=441)** Again, this is a bonus, so don't sweat it if you don't want to work through this one or if you just want to see some kind of complex solutions.
 >
-> **[7:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=447)** Yeah, hopefully, you enjoyed the rest of the course, and good luck with the rest of your data transformation journey.
+> **[7:27](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=447)** Yeah, hopefully, you enjoyed the rest of the course, and good luck with the rest of your [[Data Transformation]] journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[SQL]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (1), [[Probability]] (1), [[Data Transformation]] (1)
 > **Analogies:** similar to (2), for example (1), just like (1), kind of like (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)

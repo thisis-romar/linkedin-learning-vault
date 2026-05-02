@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to build an app in an afternoon
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
+#### [How to build an app in an afternoon](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,8 +87,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (3)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/building-your-first-ios-17-app/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,13 +107,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Code Identifiers:** macos (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the exercise files effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/using-the-exercise-files-effectively?u=76281980)
+#### [Using the exercise files effectively](https://www.linkedin.com/learning/building-your-first-ios-17-app/using-the-exercise-files-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,8 +129,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Viewing the finished app and code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/viewing-the-finished-app-and-code?u=76281980)
+#### [Viewing the finished app and code](https://www.linkedin.com/learning/building-your-first-ios-17-app/viewing-the-finished-app-and-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,12 +165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Downloading and installing Xcode
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
+#### [Downloading and installing Xcode](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=0)** - [Narrator] The official tool for developing iOS apps is called Xcode and can be downloaded for free from the Mac App store.
+> **[0:00](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=0)** - [Narrator] The official tool for developing iOS apps is called [[Xcode]] and can be downloaded for free from the Mac App store.
 >
 > **[0:08](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=8)** In order to develop iOS 17 apps, you'll need Xcode 15, which at the time of this recording is in beta.
 >
@@ -187,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=39)** After you've downloaded and installed Xcode, open it up and you'll be prompted to install additional required components.
 >
-> **[0:46](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=46)** Once you've installed those, including the iOS SDK or software development kit, you're ready to proceed with the course.
+> **[0:46](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980&t=46)** Once you've installed those, including the iOS SDK or [[Software Development]] kit, you're ready to proceed with the course.
 
 > [!info]- Semantic Content
 >
@@ -200,12 +194,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 
-#### Creating your first iOS app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980)
+#### [Creating your first iOS app](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=0)** - [Instructor] Once Xcode is installed, along with the required components, opening Xcode will take you to the welcome screen which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
+> **[0:00](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=0)** - [Instructor] Once [[Xcode]] is installed, along with the required components, opening Xcode will take you to the welcome screen which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
 >
 > **[0:14](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=14)** To create your first iOS app, create an Xcode project by clicking the Create New Project button here or through the file menu by going to File, New, Project.
 >
@@ -221,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=59)** The important ones are product name and interface.
 >
-> **[1:02](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=62)** For product name, type First App, and then for interface, make sure to choose Swift UI.
+> **[1:02](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=62)** For product name, type First App, and then for interface, make sure to choose [[Swift (Programming Language)|Swift]] UI.
 >
 > **[1:09](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=69)** For team, choose none.
 >
@@ -235,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=105)** Leave the other options unchecked and hit Next.
 >
-> **[1:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=109)** You're then asked where to save the project and whether to create a Git repository.
+> **[1:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=109)** You're then asked where to save the project and whether to create a [[Git]] repository.
 >
 > **[1:55](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-your-first-ios-app?u=76281980&t=115)** For what we're doing here, we don't need to create a Git repository so leave that unchecked and then I'm saving this in my Exercise files folder, in Chapter one, First project, Final.
 >
@@ -249,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Git]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (5), macos (1)
 > **CLI Commands:** make (2), git (2)
 > **Exercise Files:** exercise files (2), template (1)
@@ -258,12 +251,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key parts of the Xcode interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980)
+#### [Key parts of the Xcode interface](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=1)** - [Instructor] The Xcode interface is somewhat complicated and can be overwhelming.
+> **[0:01](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=1)** - [Instructor] The [[Xcode]] interface is somewhat complicated and can be overwhelming.
 >
 > **[0:05](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=5)** To make it easier to learn Xcode, I'm going to go over the three parts of the interface and talk about how the interface is generally used.
 >
@@ -283,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=81)** So, the editor is this main working area in Xcode.
 >
-> **[1:25](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=85)** So right now, I am seeing the code in the ContentView swift file and you could see that up here in the comment in the editor.
+> **[1:25](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=85)** So right now, I am seeing the code in the ContentView [[Swift (Programming Language)|swift]] file and you could see that up here in the comment in the editor.
 >
 > **[1:34](https://www.linkedin.com/learning/building-your-first-ios-17-app/key-parts-of-the-xcode-interface?u=76281980&t=94)** If I single click on First App, then I'll see the code for that file.
 >
@@ -309,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -323,8 +315,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SwiftUI stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
+#### [SwiftUI stacks](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=133)** Now let's modify this image.
 >
-> **[2:15](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=135)** So right now we have a globe image and if I change the text inside of there, so inside of the quotes, to be dollar sign, all one word, dot circle dot fill, and you'll see it update as I type it.
+> **[2:15](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=135)** So right now we have a globe image and if I change the text inside of there, so inside of the quotes, to be dollar sign, all one [[Microsoft Word|word]], dot circle dot fill, and you'll see it update as I type it.
 >
 > **[2:31](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=151)** So we had a few different ones there.
 >
@@ -410,7 +401,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=211)** And finally what I want to talk about is this VStack.
 >
-> **[3:36](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=216)** Stacks are the primary way of laying out content in Swift UI.
+> **[3:36](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=216)** Stacks are the primary way of laying out content in [[Swift (Programming Language)|Swift]] UI.
 >
 > **[3:41](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980&t=221)** V of course stands for vertical and we looked at the vertical stack in a previous movie, but there's also a horizontal stack.
 >
@@ -434,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Swift (Programming Language)|Swift]] (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), in other words (1), stands for (1)
 > **Cross-References:** we talked about (3), go back to (1)
 > **CLI Commands:** make (2), find (1)
@@ -443,8 +434,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### HStacks in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/hstacks-in-swiftui?u=76281980)
+#### [HStacks in SwiftUI](https://www.linkedin.com/learning/building-your-first-ios-17-app/hstacks-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,8 +480,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying SwiftUI objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980)
+#### [Modifying SwiftUI objects](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980&t=14)** We already talked about modifying UI attributes in brief in a previous movie.
 >
-> **[0:19](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980&t=19)** Remember, we talked about how you could select a Swift UI view object, like this image here, and then, head over to the attributes inspector.
+> **[0:19](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980&t=19)** Remember, we talked about how you could select a [[Swift (Programming Language)|Swift]] UI view object, like this image here, and then, head over to the attributes inspector.
 >
 > **[0:28](https://www.linkedin.com/learning/building-your-first-ios-17-app/modifying-swiftui-objects?u=76281980&t=28)** Remember, you can open the inspector by hovering over the right edge of the screen or by clicking the button in the toolbar, and then, you can get to the attributes inspector by clicking the rightmost button in the inspector bar.
 >
@@ -565,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** go to (2), open the (1), in the toolbar (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
@@ -573,8 +562,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980)
+#### [Understanding variables](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980&t=26)** So let's start by creating this variable and I'm going to do that in between lines 10 and 11.
 >
-> **[0:34](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980&t=34)** So after line 10, I'll create a new line and then I'm going to type var which is the key word for creating a variable.
+> **[0:34](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980&t=34)** So after line 10, I'll create a new line and then I'm going to type var which is the key [[Microsoft Word|word]] for creating a variable.
 >
 > **[0:41](https://www.linkedin.com/learning/building-your-first-ios-17-app/understanding-variables?u=76281980&t=41)** It says, I'm going to create a variable after that var type a space, and then you're going to put the name of the variable, which in this case is total, and then we're going to set the value of the variable equal to something and that's going to be an empty string.
 >
@@ -620,14 +608,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a TextField in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980)
+#### [Creating a TextField in SwiftUI](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,11 +630,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=30)** And then we're asked for two values in order to create a user editable text field.
 >
-> **[0:36](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=36)** The first one is the text that goes inside of the text field when there's nothing in the text field and this will be the word amount.
+> **[0:36](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=36)** The first one is the text that goes inside of the text field when there's nothing in the text field and this will be the [[Microsoft Word|word]] amount.
 >
 > **[0:45](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=45)** So I'm going to open up some quotes.
 >
-> **[0:48](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=48)** So by typing one open quote Xcode writes the second closed quote for me.
+> **[0:48](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=48)** So by typing one open quote [[Xcode]] writes the second closed quote for me.
 >
 > **[0:53](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=53)** And in here, I'm just going to type amount like that.
 >
@@ -715,15 +702,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), data (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** titlekey (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a slider in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980)
+#### [Creating a slider in SwiftUI](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=9)** What we're going to do now is create that slider and have it go from values from one to 30.
 >
-> **[0:15](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=15)** So let's take a look at how you'd create a slider in Swift UI.
+> **[0:15](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=15)** So let's take a look at how you'd create a slider in [[Swift (Programming Language)|Swift]] UI.
 >
 > **[0:21](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=21)** I'm going to go below the existing HStack here, so right after this curly brace on line 26, and I'm going to create a new HStack.
 >
@@ -739,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=42)** Inside of this HStack, I'm going to create a slider.
 >
-> **[0:47](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=47)** So I'm going to type the word slider and the one that we want here is value in and then we want one that says step after that.
+> **[0:47](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=47)** So I'm going to type the [[Microsoft Word|word]] slider and the one that we want here is value in and then we want one that says step after that.
 >
 > **[0:57](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-slider-in-swiftui?u=76281980&t=57)** So I'm going to do value in step on editing changed.
 >
@@ -859,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), next (2), express (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), in other words (1), is called (1)
 > **CLI Commands:** make (1), snap (1)
 > **Versions:** 15.0 (1), 1.0 (1)
@@ -872,8 +858,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Converting between data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
+#### [Converting between data types](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=37)** A simple example of casting is treating this decimal number that we're seeing right here, this 15 with all the zeros, as a whole number or integer.
 >
-> **[0:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=49)** To cast that value as an integer, I'm going to go to line 30 in my code and put my cursor just before tipPercent in the text view and I'm going to use Swift to say that this value should be treated as an integer.
+> **[0:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=49)** To cast that value as an integer, I'm going to go to line 30 in my code and put my cursor just before tipPercent in the text view and I'm going to use [[Swift (Programming Language)|Swift]] to say that this value should be treated as an integer.
 >
 > **[1:05](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=65)** To do that, type Int, short for integer, with a capital I, and then wrap tipPercent in an additional set of parentheses.
 >
@@ -897,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=105)** If so, then we'll put some text below the slider.
 >
-> **[1:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=109)** To do that, type if and then a space and then the word let.
+> **[1:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=109)** To do that, type if and then a space and then the [[Microsoft Word|word]] let.
 >
 > **[1:56](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=116)** Let is kind of like a variable except for, it doesn't allow for changing the value, it creates something called constants.
 >
@@ -935,8 +920,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating the tip total
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980)
+#### [Calculating the tip total](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -994,7 +978,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980&t=163)** Now what we're going to do is format this so that it only has two decimal points.
 >
-> **[2:51](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980&t=171)** To do that, all we have to do is go to the end of this line and type a comma and then type the word specifier and that asks for a string.
+> **[2:51](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980&t=171)** To do that, all we have to do is go to the end of this line and type a comma and then type the [[Microsoft Word|word]] specifier and that asks for a string.
 >
 > **[3:02](https://www.linkedin.com/learning/building-your-first-ios-17-app/calculating-the-tip-total?u=76281980&t=182)** So we're going to open up the quotes right there.
 >
@@ -1015,8 +999,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling invalid values
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980)
+#### [Handling invalid values](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980&t=43)** To do that, go after the closed curly brace on line 35.
 >
-> **[0:47](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980&t=47)** After the if statement, type a space and type the word else, and then an open curly brace and a return to have Xcode write the close curly brace for you.
+> **[0:47](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980&t=47)** After the if statement, type a space and type the [[Microsoft Word|word]] else, and then an open curly brace and a return to have [[Xcode]] write the close curly brace for you.
 >
 > **[0:58](https://www.linkedin.com/learning/building-your-first-ios-17-app/handling-invalid-values?u=76281980&t=58)** And on line 36, I'm going to create a text view with a message inside of it.
 >
@@ -1042,17 +1025,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microsoft Word|Word]] (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Xcode]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding an app icon
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980)
+#### [Adding an app icon](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=1)** - [Instructor] Our app is now functionally complete, but it doesn't have an icon, and what app is complete without a nice icon?
 >
-> **[0:09](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=9)** To apply an icon in Xcode, all you need to do is head over to the navigator.
+> **[0:09](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=9)** To apply an icon in [[Xcode]], all you need to do is head over to the navigator.
 >
 > **[0:15](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=15)** Remember, you can click this button in the toolbar at the top left, or you can hover over the left edge of the screen, and from there, find the assets package.
 >
@@ -1062,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=40)** So once you have that selected, you're going to see your missing icon image with information about the pixel dimensions that the icon image should be, that is, 1024 pixels squared.
 >
-> **[0:54](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=54)** You can create this icon using any graphic creation software, such as Adobe Photoshop or Illustrator.
+> **[0:54](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=54)** You can create this icon using any graphic creation software, such as [[Adobe Photoshop]] or Illustrator.
 >
 > **[1:03](https://www.linkedin.com/learning/building-your-first-ios-17-app/adding-an-app-icon?u=76281980&t=63)** The main thing to keep in mind when creating an icon is that it needs to be square and not contain any transparency, because that's unsupported on iOS at this time.
 >
@@ -1100,7 +1082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), application (3), [[Xcode]] (2), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Adobe Photoshop]] (1)
 > **UI Navigation:** click on (2), in the toolbar (1), in the tab (1), navigate to (1)
 > **Code Identifiers:** ios (4)
 > **Exercise Files:** exercise files (2)
@@ -1114,8 +1096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,7 +1124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
 > **URLs:** [apple.com](https://apple.com) (1)

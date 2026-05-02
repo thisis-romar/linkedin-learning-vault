@@ -56,8 +56,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What if you could build an app just by chatting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
+#### [What if you could build an app just by chatting?](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -69,13 +68,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980&t=31)** You still have full access to the code, but you're starting from momentum instead of from scratch.
 >
-> **[0:36](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980&t=36)** This shifting tooling changes what we think of as the development flow, and vibe coding tools help you focus on the problem, not on typing code.
+> **[0:36](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980&t=36)** This shifting tooling changes what we think of as the development flow, and [[Vibe Coding]] tools help you focus on the problem, not on typing code.
 >
 > **[0:45](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980&t=45)** So if you're ready to see how fast you can go when setup isn't a bottleneck, then let's do this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), prompt (1), [[Vibe Coding]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - you (1)
@@ -85,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Skip the setup and build apps faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
+#### [Skip the setup and build apps faster](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=11)** You can also use it for free with a generous tier, that lets you experiment with the product.
 >
-> **[0:15](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=15)** You can sign in with Google or with GitHub.
+> **[0:15](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=15)** You can sign in with [[Google]] or with [[GitHub]].
 >
 > **[0:17](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=17)** When I signed up with email and password, it also allowed me to sign up for a StackBlitz account, which is an online IDE, that's also made by the same company.
 >
@@ -104,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=31)** I'll go ahead and put in my credentials right here, and I'll see that I'm signed in into my account.
 >
-> **[0:38](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=38)** Like many other platforms, Bolt pricing is based on usage, which they manage through tokens, and although you can start using it for free, you can also buy tokens if your usage is going to become heavy.
+> **[0:38](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=38)** Like many other platforms, Bolt pricing is based on usage, which they manage through [[Tokens]], and although you can start using it for free, you can also buy tokens if your usage is going to become heavy.
 >
 > **[0:49](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=49)** With a Free Plan, you get 150,000 tokens daily, and a million-token monthly limit, which sounds like a lot, but you'll run out of it quickly when you start building a real app.
 >
@@ -112,7 +110,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=67)** You may be wondering what a token is?
 >
-> **[1:09](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=69)** Think of it as a chunk of data, usually, a word or part of a word, that makes up what is known as a context window.
+> **[1:09](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=69)** Think of it as a chunk of data, usually, a [[Microsoft Word|word]] or part of a word, that makes up what is known as a context window.
 >
 > **[1:17](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980&t=77)** AI tools use this context window to understand your request, and in the case of Bolt, output code.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), [[GitHub]] (2), data (2), [[Microsoft Word|Word]] (2), product (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[GitHub]] (2), [[Microsoft Word|Word]] (2), [[Google]] (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Tools:** github (2)
 > **Env Vars:** ide (1)
@@ -137,8 +135,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - bolt (1)
 
-#### Settings to know before building
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980)
+#### [Settings to know before building](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=36)** You can also turn this feature on that lets you see the token usage while you're chatting.
 >
-> **[0:42](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=42)** That's actually quite a good option, so if you could see right here, it's going to show you the monthly tokens that are remaining.
+> **[0:42](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=42)** That's actually quite a good option, so if you could see right here, it's going to show you the monthly [[Tokens]] that are remaining.
 >
 > **[0:48](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=48)** The appearance is super sparse right now.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=90)** Also, it will let you have access to the billing and you'll see what your next invoice is going to be like, as well as look at how many tokens will be refilled on which date.
 >
-> **[1:40](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=100)** In the applications section, you'll see that you can link both to services like Netlify, Supabase, or Figma.
+> **[1:40](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=100)** In the applications section, you'll see that you can link both to services like Netlify, Supabase, or [[Figma (Software)|Figma]].
 >
 > **[1:49](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=109)** These integrations are going to give you the option of using your own accounts, but if you don't have accounts, Bolt will in some cases let you use its own defaults to make things easier for you.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=126)** Supabase is a fantastic database.
 >
-> **[2:08](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=128)** It's a clone of Firebase from Google.
+> **[2:08](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=128)** It's a clone of [[Firebase]] from [[Google]].
 >
 > **[2:11](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=131)** It's the sort of product that will allow you to create authentication on your applications.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=211)** It includes information about designing things really nicely as well as different libraries and fonts.
 >
-> **[3:38](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=218)** One of the problems with vibe coding tools is that they have the tendency to hallucinate and drift from your original prompts.
+> **[3:38](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=218)** One of the problems with [[Vibe Coding]] tools is that they have the tendency to hallucinate and drift from your original prompts.
 >
 > **[3:45](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/settings-to-know-before-building?u=76281980&t=225)** This will help keep them focused on specific libraries and frameworks.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), feature (3), next (3), game (3), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Figma (Software)|Figma]] (2), [[Firebase]] (1), [[Google]] (1), [[Vibe Coding]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (4), find (1)
 > **Prerequisites:** configure (2), set up (1), install (1)
@@ -263,8 +260,7 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 
-#### How to chat with an AI in Bolt
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980)
+#### [How to chat with an AI in Bolt](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,9 +282,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=35)** But let's go ahead and skip this for now and we'll take a look at some of the other options at the bottom.
 >
-> **[0:41](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=41)** First, you have a series of buttons that let you do things like import from another platform like Figma or GitHub.
+> **[0:41](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=41)** First, you have a series of buttons that let you do things like import from another platform like [[Figma (Software)|Figma]] or [[GitHub]].
 >
-> **[0:48](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=48)** You can also see a number of different templates that you can use to start up a project, and right below that is a bunch of blank templates that let you use popular frameworks like Next.js, View, and others.
+> **[0:48](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=48)** You can also see a number of different templates that you can use to start up a project, and right below that is a bunch of blank templates that let you use popular frameworks like [[Next.js]], View, and others.
 >
 > **[1:01](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/how-to-chat-with-an-ai-in-bolt?u=76281980&t=61)** I'm going to build a project with something called shadcn, so I'm going to click this button right here.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), game (2), hit (2), next (2), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[GitHub]] (1), [[Next.js]] (1)
 > **UI Navigation:** click on (4), go to (2), open the (1)
 > **CLI Commands:** make (2)
 > **Tools:** figma (1), github (1)
@@ -371,8 +367,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - the (1)
 
-#### Sharing your projects with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980)
+#### [Sharing your projects with others](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,9 +399,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=58)** Again, you'll need an account for this as well.
 >
-> **[1:00](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=60)** Finally, this will give you access to GitHub.
+> **[1:00](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=60)** Finally, this will give you access to [[GitHub]].
 >
-> **[1:03](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=63)** This is a social platform for developers, and it's what coders call version control, which is the ability to go through the history of your project and revert it back to an earlier version.
+> **[1:03](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=63)** This is a social platform for developers, and it's what coders call [[Version Control]], which is the ability to go through the history of your project and revert it back to an earlier version.
 >
 > **[1:14](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=74)** It's something you're going to have to approve and make sure you have an account for as well.
 >
@@ -432,13 +427,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=132)** If you've connected Netlify, this can be deployed to your own account or you can work with the temporary one that Bolt creates for the time being and later on move it to your Netlify account as well.
 >
-> **[2:22](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=142)** Deployment is where Bolt shifts from just a prototyping tool to something like a launchpad, which gives you access to a project in the real world.
+> **[2:22](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=142)** Deployment is where Bolt shifts from just a [[Prototyping]] tool to something like a launchpad, which gives you access to a project in the real world.
 >
-> **[2:31](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=151)** Every part of Bolt is designed to stay out of your way and make smart decisions, like what's available for deploying, creating databases, and publishing.
+> **[2:31](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/sharing-your-projects-with-others?u=76281980&t=151)** Every part of Bolt is designed to stay out of your way and make smart decisions, like what's available for deploying, creating [[Databases]], and publishing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), api (1), next (1), ai (1), database (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Version Control]] (1), [[Prototyping]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1), you'll need (1), make sure you have (1)
 > **Env Vars:** api (1), zip (1)
@@ -447,8 +442,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 
-#### Features of the code and preview browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980)
+#### [Features of the code and preview browser](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980&t=57)** This will approximate how this will look on certain mobile devices.
 >
-> **[1:01](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980&t=61)** Let's go ahead and do this full screen, and you can see that I can make this either one of these three different premade sizes here, also control the zoom ratio, and I can also choose responsive, which will let me control the width with this right here.
+> **[1:01](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980&t=61)** Let's go ahead and do this full screen, and you can see that I can make this either one of these three different premade sizes here, also control the [[Zoom]] ratio, and I can also choose responsive, which will let me control the width with this right here.
 >
 > **[1:17](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/features-of-the-code-and-preview-browser?u=76281980&t=77)** I can click this off by exiting the responsive mode and go back to regular mode right there.
 >
@@ -520,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1), [[Zoom]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Tools:** terminal (5)
 > **UI Navigation:** click on (4), go to (1)
@@ -534,8 +528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vibe coding a project with the Bolt interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)
+#### [Vibe coding a project with the Bolt interface](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=37)** And what I want to do here is start with a simple template.
 >
-> **[0:41](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=41)** I'm going to go with a React template, which is this button down here.
+> **[0:41](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=41)** I'm going to go with a [[React.js|React]] template, which is this button down here.
 >
 > **[0:46](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=46)** So we'll click on this React and it's going to start a project for us.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=157)** So I took all this text and I created a text file that doesn't have any formatting in it, it's just the text.
 >
-> **[2:42](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=162)** If you're bringing in things like PDFs with a lot of photos, those are going to count towards your tokens so be careful about importing too many things.
+> **[2:42](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=162)** If you're bringing in things like PDFs with a lot of photos, those are going to count towards your [[Tokens]] so be careful about importing too many things.
 >
 > **[2:52](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980&t=172)** Now you can drop up to five files in here, but you won't be able to upload an entire photos folder plus this artwork folder.
 >
@@ -721,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), hit (4), [[React.js|React]] (3), ai (2), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Tokens]] (1)
 > **UI Navigation:** go to (5), click on (5), dropdown (2)
 > **CLI Commands:** find (3), make (3)
 > **Exercise Files:** template (3), exercise files (1)
@@ -730,8 +723,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Warnings:** be careful (1)
 
-#### Adding a database with Supabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/adding-a-database-with-supabase?u=76281980)
+#### [Adding a database with Supabase](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/adding-a-database-with-supabase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,7 +817,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), hit (3), feature (1)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (3), you need to have (1), setup (1)
 > **UI Navigation:** click on (2), go to (1)

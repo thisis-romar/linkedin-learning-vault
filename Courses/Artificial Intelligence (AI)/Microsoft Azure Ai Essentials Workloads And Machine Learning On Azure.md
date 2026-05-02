@@ -129,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essentials of Azure AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980)
+#### [The essentials of Azure AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,9 +137,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=8)** If you want to be part of this exciting shift, you are in the right place.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=12)** In this course, you'll get hands on with Azure AI and see real work examples of how these technologies are making an impact.
+> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=12)** In this course, you'll get hands on with [[Microsoft Azure|Azure]] AI and see real work examples of how these technologies are making an impact.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=20)** We'll also dive into Responsible AI, discussing Microsoft's six core principles and how you can apply them in your projects.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=20)** We'll also dive into [[Responsible AI]], discussing [[Microsoft]]'s six core principles and how you can apply them in your projects.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980&t=28)** I'm Ziggy Zulueta, a Microsoft AI MVP, technical consultant, and Microsoft certified trainer.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft]] (3), career (1), [[Microsoft Azure|Azure]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (1), [[Responsible AI]] (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - ai (1)
 
@@ -157,16 +156,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Definition, history, and evolution of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980)
+#### [Definition, history, and evolution of AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=0)** - [Instructor] Artificial intelligence is the study of how we can make computers imitate intelligent behavior, doing things that human beings excel at.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is the study of how we can make computers imitate intelligent behavior, doing things that human beings [[Microsoft Excel|excel]] at.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=12)** The term artificial intelligence was coined in 1956 during a small summer research project at Dartmouth College.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=22)** John McCarthy, a mathematics professor there, claimed that learning and intelligence could be precisely described and simulated by machines.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=22)** [[John the Ripper|John]] McCarthy, a mathematics professor there, claimed that learning and intelligence could be precisely described and simulated by machines.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=33)** Now, what is intelligence anyway?
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=139)** This approach models the simplest unit of the brain, the neuron.
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=144)** We build artificial neural networks and teach them to solve problems using data examples.
+> **[2:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=144)** We build [[Artificial Neural Networks]] and teach them to solve problems using data examples.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=151)** The system learns from data, automatically discovering patterns and rules.
 >
@@ -224,32 +222,31 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=204)** Machine learning is often regarded as the foundation of AI systems, and it's the way we teach a computer model to predict and draw conclusions from data.
 >
-> **[3:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=214)** Computer vision is the capability to interpret the world visually through cameras, videos, and images.
+> **[3:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=214)** [[Computer Vision]] is the capability to interpret the world visually through cameras, videos, and images.
 >
-> **[3:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=222)** Natural language processing is the capability to interpret and respond to written or spoken language.
+> **[3:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=222)** [[Natural Language Processing (NLP)|Natural language processing]] is the capability to interpret and respond to written or spoken language.
 >
-> **[3:50](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=230)** Document intelligence is the capability to manage and process large volumes of data in forms and documents.
+> **[3:50](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=230)** Document intelligence is the capability to manage and process large volumes of data in [[Forms]] and documents.
 >
-> **[3:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=238)** Knowledge mining is the capability to extract useful information from large, unstructured data sets to create searchable knowledge stores.
+> **[3:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=238)** Knowledge mining is the capability to extract useful information from large, [[Unstructured Data]] sets to create searchable knowledge stores.
 >
-> **[4:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=248)** Finally, generative AI is the capability to create visual content in formats like natural language, image, code, and more.
+> **[4:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980&t=248)** Finally, [[Generative AI]] is the capability to create visual content in formats like natural language, image, code, and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (1), [[John the Ripper|John]] (1), [[Artificial Neural Networks]] (1), [[Computer Vision]] (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of learning AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980)
+#### [Importance of learning AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=0)** - [Presenter] AI has been changing the business landscape and Microsoft Azure has enabled companies to be AI-ready, and that is why you need to equip yourself with AI skills.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=0)** - [Presenter] AI has been changing the business landscape and [[Microsoft Azure]] has enabled companies to be AI-ready, and that is why you need to equip yourself with AI skills.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=13)** In September 2023, a Microsoft-commissioned IDC study that surveyed over 2,000 global business leaders and decision-makers was published with some interesting findings.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=13)** In September 2023, a [[Microsoft]]-commissioned IDC study that surveyed over 2,000 global business leaders and decision-makers was published with some interesting findings.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=27)** AI brings strong returns.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=44)** 92% of deployments are completed within 12 months and 40% in under six months.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=52)** ROI is also swift.
+> **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=52)** ROI is also [[Swift (Programming Language)|swift]].
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=54)** Organizations see returns in an average of around 14 months.
 >
@@ -271,11 +268,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=87)** More specifically, it measured the total economic impact of migrating to Microsoft Azure for AI-readiness.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=96)** Forrester found that AI and machine learning deployment and operational costs on Azure were reduced by 70% and 15% respectively compared to on-premises infrastructure.
+> **[1:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=96)** Forrester found that AI and machine learning deployment and operational costs on [[Microsoft Azure|Azure]] were reduced by 70% and 15% respectively compared to on-premises infrastructure.
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=110)** They also found that most companies using Azure Cloud had an easier time scaling and more flexibility to innovate their AI and machine learning applications than with on-premises infrastructure.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=124)** Finally, also in May 2024, Microsoft and LinkedIn published the Work Trend Index Annual Report, showing how AI is shaping the job market.
+> **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=124)** Finally, also in May 2024, Microsoft and [[LinkedIn]] published the Work Trend Index Annual Report, showing how AI is shaping the job market.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-learning-ai?u=76281980&t=137)** Leaders are prioritizing candidates with AI skills.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Microsoft Azure]] (4), [[Microsoft]] (3), business (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Swift (Programming Language)|Swift]] (1), [[LinkedIn]] (1)
 > **Env Vars:** idc (1), roi (1)
 > **Versions:** 3.50 (1)
 > **Speakers:** - [presenter] (1)
@@ -307,12 +304,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980)
+#### [Overview of machine learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980&t=0)** - [Instructor] Machine learning is an AI technique that uses mathematical algorithms to create predictive models.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980&t=0)** - [Instructor] Machine learning is an AI technique that uses mathematical [[Algorithms]] to create predictive models.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980&t=8)** We give an algorithm example data, and it learns by finding patterns to generate models.
 >
@@ -356,35 +352,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Algorithms]] (2), ai (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980)
+#### [Types of machine learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=0)** - [Instructor] Machine learning has various types each suited to different problems.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=6)** Supervised machine learning uses algorithms where training data includes both features, the x values, and labels, the y values, matching each x value to a y value.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=6)** Supervised machine learning uses [[Algorithms]] where training data includes both features, the x values, and labels, the y values, matching each x value to a y value.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=23)** Supervised learning models find relationships between features and labels to predict feature outcomes, just like the farmer example from the previous video.
+> **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=23)** [[Supervised Learning]] models find relationships between features and labels to predict feature outcomes, just like the farmer example from the previous video.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=36)** Now, the two main types of supervised learning are regression and classification.
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=42)** Regression predicts continuous values, such as crop yields, based on temperature and moisture and car prices based on engine size, horsepower, and other features.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=55)** Classification, on the other hand, predicts categories and it comes in two forms, binary and multi-class.
+> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=55)** Classification, on the other hand, predicts categories and it comes in two [[Forms]], binary and multi-class.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=65)** Binary classification predicts one of two outcomes, like yes or no, or valuable or not valuable.
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=74)** For example, predicting the onset of diabetes based on clinical data, or whether a customer will default on a loan or not based on credit history.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=87)** On the other hand, multi-class classification predicts from multiple categories, like identifying a dog's breed, determining the type of a movie, or user experience rating of a service.
+> **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=87)** On the other hand, multi-class classification predicts from multiple categories, like identifying a dog's breed, determining the type of a movie, or [[User Experience (UX)|user experience]] rating of a service.
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=102)** Know that categories are mutually exclusive.
 >
@@ -402,13 +397,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=169)** The algorithm finds the relevant groupings.
 >
-> **[2:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=173)** Semi-supervised learning combines both supervised and unsupervised methods, using labeled data to categorize the rest.
+> **[2:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=173)** Semi-supervised learning combines both supervised and unsupervised methods, using labeled data to categorize the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=184)** For example, a photo album may have a few photos labeled cat or dog, but most are unlabeled.
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=193)** The algorithm uses these labeled images to be able to label the rest.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=199)** Finally, reinforcement learning uses rewards and punishment to train the algorithms.
+> **[3:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=199)** Finally, [[Reinforcement Learning]] uses rewards and punishment to train the algorithms.
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/types-of-machine-learning?u=76281980&t=206)** When positive actions are performed, a reward is given to encourage the system to continue those actions.
 >
@@ -420,14 +415,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (3), [[Supervised Learning]] (3), feature (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Supervised Learning]] (3), [[User Experience (UX)|User experience]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Forms]] (1)
 > **Analogies:** for example (5), just like (1), such as (1)
 > **CLI Commands:** find (1), cat (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980)
+#### [Understanding regression](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980&t=120)** In this photo, you will see how decision forest regression has many parameters that will influence the result of the algorithm.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980&t=130)** While we won't cover every algorithm in this course, the most commonly used ones are linear regression, which finds a linear connection between the features and labels, and polynomial regression, which finds non-lineal relationships between features and labels, drawing a curved best fit line.
+> **[2:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980&t=130)** While we won't cover every algorithm in this course, the most commonly used ones are [[Linear Regression]], which finds a linear connection between the features and labels, and polynomial regression, which finds non-lineal relationships between features and labels, drawing a curved best fit line.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-regression?u=76281980&t=153)** Some of the common methods to measure model performance are mean absolute error, MAE, which measures the average error magnitude.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Env Vars:** mse (3), mae (2), rmse (1)
 > **Definitions:** in other words (1), is an  (1), is a  (1)
 > **Versions:** 2.33 (1), 2.45 (1)
@@ -499,8 +493,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980)
+#### [Binary classification](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,15 +503,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=15)** Like regression, it follows an alternative process of training, validating, and evaluating.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=25)** However, classification algorithms calculate probabilities for class assignment, not numeric values.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=25)** However, classification [[Algorithms]] calculate probabilities for class assignment, not numeric values.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=35)** For example, let's build a model to predict if a person will develop diabetes based on features like blood pressure, cholesterol, BMI, and smoking habits.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=49)** We trained the model using an algorithm that fits the data to a function, calculating the probability of diabetes ranging from 0-1.
+> **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=49)** We trained the model using an algorithm that fits the data to a function, calculating the [[Probability]] of diabetes ranging from 0-1.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=60)** For instance, if the probability is 0.7, then the chance of not having diabetes is 0.3.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=69)** Similar to regression, there are many algorithms: logistic regression, decision tree, random forest, and support vector machines among others.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=69)** Similar to regression, there are many algorithms: [[Logistic Regression]], decision tree, random forest, and support vector machines among others.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/binary-classification?u=76281980&t=82)** Logistic regression is popular for its simplicity.
 >
@@ -572,22 +565,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), [[Probability]] (2), [[Logistic Regression]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Probability]] (2), [[Logistic Regression]] (2)
 > **Versions:** 0.5 (4), 0.7 (1), 0.3 (1), 0.86 (1)
 > **Env Vars:** auc (4), bmi (1)
 > **Analogies:** for example (1), for instance (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiclass classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980)
+#### [Multiclass classification](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=0)** - [Instructor] Multiclass classification predicts one of three or more outcomes.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=6)** Like linear regression and binary classification, each observation must have an assigned label.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=6)** Like [[Linear Regression]] and binary classification, each observation must have an assigned label.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=13)** However, multiclass classification algorithms calculate probabilities across multiple classes, helping the model identify the most likely class for each observation.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=13)** However, multiclass classification [[Algorithms]] calculate probabilities across multiple classes, helping the model identify the most likely class for each observation.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=28)** Let's look at an example.
 >
@@ -597,9 +589,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=42)** The customer type is our label with three possible classes, budget shopper, brand loyalist, or occasional buyer.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=53)** To train a multiclass model, we fit an algorithm to the data that computes probability values for each class.
+> **[0:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=53)** To train a multiclass model, we fit an algorithm to the data that computes [[Probability]] values for each class.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=62)** There are two types of algorithms for this, one-vs.-rest, OvR, and multinomial.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=62)** There are two types of algorithms for this, one-vs.-[[Representational State Transfer (REST)|rest]], OvR, and multinomial.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=71)** One-vs.-rest, OvR algorithms create a binary classifier for each class.
 >
@@ -619,18 +611,17 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=152)** The confusion metrics expands on the binary version, showing predictions for each at class in the validation set.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=162)** For more details on evaluating multiclass models, you can go to the multiclass classification training for Microsoft Learn.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/multiclass-classification?u=76281980&t=162)** For more details on evaluating multiclass models, you can go to the multiclass classification training for [[Microsoft]] Learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Probability]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Probability]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Linear Regression]] (1), [[Microsoft]] (1)
 > **Versions:** 0.5 (2), 0.2 (1), 0.3 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980)
+#### [Understanding clustering](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980&t=32)** Clustering can help us classify these customers into meaningful groups.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980&t=38)** There are several clustering algorithms available, including k-means, DBSCAN, and Gaussian mixture models.
+> **[0:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980&t=38)** There are several clustering [[Algorithms]] available, including k-means, DBSCAN, and Gaussian mixture models.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-clustering?u=76281980&t=49)** Today, we'll focus on k-means, one of the most popular methods.
 >
@@ -690,18 +681,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Env Vars:** dbscan (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Neural networks and deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/neural-networks-and-deep-learning?u=76281980)
+#### [Neural networks and deep learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/neural-networks-and-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/neural-networks-and-deep-learning?u=76281980&t=0)** - [Instructor] Neural networks and deep learning are forms of machine learning inspired by the brain.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/neural-networks-and-deep-learning?u=76281980&t=0)** - [Instructor] [[Neural Networks]] and [[Deep Learning]] are [[Forms]] of machine learning inspired by the brain.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/neural-networks-and-deep-learning?u=76281980&t=7)** Our brain's neurons receive sensory inputs, what we see, hear, touch, taste, or smell, and processes them to generate responses.
 >
@@ -747,33 +737,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Forms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Deep Learning]] (2), [[Forms]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure machine learning capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980)
+#### [Azure machine learning capabilities](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=0)** - [Narrator] Microsoft Azure Machine Learning is a cloud service that helps you train, deploy, and manage machine learning models efficiently.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=0)** - [Narrator] [[Microsoft Azure]] Machine Learning is a cloud service that helps you train, deploy, and manage machine learning models efficiently.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=11)** With Azure, you can clean, transform, and feature engineer data for modeling.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=11)** With [[Microsoft Azure|Azure]], you can clean, transform, and feature engineer data for modeling.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=19)** You can choose from supervised and unsupervised algorithms to build your models.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=19)** You can choose from supervised and unsupervised [[Algorithms]] to build your models.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=26)** You can keep track of trained models for easy access and updates.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=32)** You can also deploy models to websites or mobile apps quickly and easily.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=37)** And finally, you can also apply responsible AI principles to ensure ethical use.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=37)** And finally, you can also apply [[Responsible AI]] principles to ensure ethical use.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=45)** Azure Machine Learning also offers the following.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=49)** You can store your dataset centrally for training and evaluation, access powerful computing without the need for physical servers.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=58)** Simply upload your data, set parameters, and let Azure find the best model for tasks like regression or classification using automated machine learning.
+> **[0:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=58)** Simply upload your data, set parameters, and let Azure find the best model for tasks like regression or classification using [[Automated Machine Learning (AutoML)|automated machine learning]].
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-capabilities?u=76281980&t=71)** The designer tool is a drag-and-drop interface for building models with flexibility and control.
 >
@@ -785,26 +774,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (2), [[Responsible AI]] (2), [[Microsoft Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Responsible AI]] (2), [[Microsoft Azure]] (1), [[Algorithms]] (1), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [narrator] (1)
 
-#### Practical application of machine learning in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980)
+#### [Practical application of machine learning in business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=0)** - [Instructor] Almost every AI system today relies on machine learning or its subset.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=6)** Let's look at the real-world example using Azure Machine Learning.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=6)** Let's look at the real-world example using [[Microsoft Azure|Azure]] Machine Learning.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=12)** MultiChoice, a satellite TV provider in South Africa, serves over 20 million people across Africa.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=22)** To enhance their recommendation engine, they switch from a rule-based system to Azure Machine Learning.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=30)** Their old system depended on static rules like user preferences and item metadata.
+> **[0:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=30)** Their old system depended on static rules like user preferences and item [[Metadata]].
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=37)** If a user followed a football team, it recommended related content.
 >
@@ -828,22 +816,21 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=121)** This example highlights how Azure Machine Learning transforms customer experience.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=127)** Most, if not all, of the streaming and e-commerce services use machine learning to recommend content based on user behavior.
+> **[2:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=127)** Most, if not all, of the streaming and [[E-Commerce]] services use machine learning to recommend content based on user behavior.
 >
-> **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=138)** They would collect user viewing and purchasing behavior to train their AI models to recommend TV shows, movies, or products.
+> **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-machine-learning-in-business?u=76281980&t=138)** They would collect user viewing and purchasing behavior to train their AI models to recommend TV shows, movies, or [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (3), [[Metadata]] (2), data (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Metadata]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an Azure machine learning resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980)
+#### [Creating an Azure machine learning resource](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=0)** - [Instructor] In order to access the services of Azure Machine Learning, you first need to create an Azure Machine Learning Resource.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=0)** - [Instructor] In order to access the services of [[Microsoft Azure|Azure]] Machine Learning, you first need to create an Azure Machine Learning Resource.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=8)** Let me show you how this is done.
 >
@@ -853,7 +840,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=17)** If you are a professional, go to the Azure website, and click on the start free button to bring you to a registration process.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=26)** With this free account, there will be a list of products you can use for free.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=26)** With this free account, there will be a list of [[Microsoft Products|products]] you can use for free.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-machine-learning-resource?u=76281980&t=33)** You'll also be given 200 US dollars credit to use in your first 30 days.
 >
@@ -899,25 +886,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Products|Products]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Env Vars:** url (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure machine learning demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980)
+#### [Azure machine learning demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=0)** - [Instructor] Let's explore Azure machine learning using real world dataset wine quality.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=0)** - [Instructor] Let's explore [[Microsoft Azure|Azure]] machine learning using real world dataset wine quality.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=7)** Our dataset includes features like acidity, pH levels, sulfates, and alcohol content.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=16)** The goal, we want to predict wine quality ranging from four to nine, a classic classification problem since these are discrete values.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=27)** Azure automated machine learning simplifies this by handling algorithm selection, parameter tuning, and iteration automatically.
+> **[0:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=27)** Azure [[Automated Machine Learning (AutoML)|automated machine learning]] simplifies this by handling algorithm selection, parameter tuning, and iteration automatically.
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=38)** Let's walk through it.
 >
@@ -941,11 +927,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=102)** Choose target column, which, in this case, is wine quality.
 >
-> **[1:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=108)** You can enable deep learning if you prefer.
+> **[1:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=108)** You can enable [[Deep Learning]] if you prefer.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=111)** However, we won't for this demo.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=117)** In the configurations, you can review the primary metric and algorithms.
+> **[1:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=117)** In the configurations, you can review the primary metric and [[Algorithms]].
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=126)** You can also block algorithms you don't want to use.
 >
@@ -991,7 +977,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=356)** In this case, boosted decision tree regression still delivers the best performance.
 >
-> **[6:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=367)** Pro developers can now run Python code and Jupyter Notebooks directly in Azure Machine learning.
+> **[6:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=367)** Pro developers can now run [[Python (Programming Language)|Python]] code and Jupyter Notebooks directly in Azure Machine learning.
 >
 > **[6:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-machine-learning-demo?u=76281980&t=374)** Here's a look at the interface built for pro developers.
 >
@@ -1003,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (6), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** drag and drop (2), go to (1)
 > **Tools:** jupyter (2)
@@ -1016,12 +1002,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of computer vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980)
+#### [Overview of computer vision](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=0)** - [Instructor] Computer vision is a field of AI that enables systems to interpret visual data from cameras, videos, and images.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=0)** - [Instructor] [[Computer Vision]] is a field of AI that enables systems to interpret visual data from cameras, videos, and images.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=10)** Popular computer vision tasks include image classification.
 >
@@ -1037,11 +1022,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=49)** For instance, traffic systems can detect different vehicle types, or factories can spot defects on the production line.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=59)** Face detection and recognition locates and analyzes human faces, matching them against databases.
+> **[0:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=59)** Face detection and recognition locates and analyzes human faces, matching them against [[Databases]].
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=66)** It's used in security systems for building access or in finance to verify identities with government IDs.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=76)** Optical character recognition extracts text from images, automating data entry from scanned documents like invoices or forms.
+> **[1:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=76)** Optical character recognition extracts text from images, automating data entry from scanned documents like invoices or [[Forms]].
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980&t=86)** Video analysis tracks people and objects in videos, providing insights such as customer behavior in stores.
 >
@@ -1053,17 +1038,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (3), traffic (3), data (2), ai (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (3), [[Databases]] (1), [[Forms]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep learning for computer vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980)
+#### [Deep learning for computer vision](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=0)** - [Instructor] Deep learning has become the dominant method in computer vision.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=0)** - [Instructor] [[Deep Learning]] has become the dominant method in [[Computer Vision]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=5)** But before diving into how it works, let's break down how computers process images.
 >
@@ -1091,7 +1075,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=100)** One popular filter is the plus filter, which highlights edges in an image.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=107)** Convolutional Neural Networks, CNNs, a type of deep learning model, are widely used in computer vision.
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=107)** [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]], CNNs, a type of deep learning model, are widely used in computer vision.
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=116)** For image classification, for instance, a CNN is trained with label images like zero for apples, one for bananas, or two for oranges.
 >
@@ -1103,7 +1087,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=149)** The feature values are then fed into a fully connected neural network.
 >
-> **[2:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=154)** The output layer then provides the probability value that determines which class the image belongs to.
+> **[2:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=154)** The output layer then provides the [[Probability]] value that determines which class the image belongs to.
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=161)** In addition, a loss function calculates the error or loss between the predicted and actual values.
 >
@@ -1121,7 +1105,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=221)** Unlike the CNN model that purely processes images, this new model includes images and text captions in the training.
 >
-> **[3:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=231)** Microsoft's Florence model is an example.
+> **[3:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=231)** [[Microsoft]]'s Florence model is an example.
 >
 > **[3:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/deep-learning-for-computer-vision?u=76281980&t=235)** Trained on vast amounts of captioned images from the text, it includes both a language encoder and an image encoder.
 >
@@ -1131,20 +1115,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Deep Learning]] (3), [[Computer Vision]] (3), cnn (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Computer Vision]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Probability]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **Env Vars:** cnn (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980)
+#### [Introduction to Azure AI Vision](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980&t=0)** - [Presenter] Microsoft Azure AI Vision provides prebuilt and customizable computer vision models, powered by the Florence foundation model, giving you a range of powerful capabilities.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980&t=0)** - [Presenter] [[Microsoft Azure]] AI Vision provides prebuilt and customizable [[Computer Vision]] models, powered by the Florence foundation model, giving you a range of powerful capabilities.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980&t=12)** With Azure AI Vision, you can quickly and easily create advanced computer vision solutions.
+> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980&t=12)** With [[Microsoft Azure|Azure]] AI Vision, you can quickly and easily create advanced computer vision solutions.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-vision?u=76281980&t=19)** Key features include the following.
 >
@@ -1188,27 +1171,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (14), [[Computer Vision]] (3), [[Search]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Computer Vision]] (3), [[Microsoft Azure]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ocr (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
 
-#### Introduction to Azure AI Custom Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980)
+#### [Introduction to Azure AI Custom Vision](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=0)** - [Narrator] Microsoft's prebuilt model is trained on hundreds of millions of images.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=0)** - [Narrator] [[Microsoft]]'s prebuilt model is trained on hundreds of millions of images.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=6)** However, there are scenarios where creating a custom model is still necessary because your specific use case may not be covered.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=15)** With Azure AI Custom, you can train a specialized image analysis model tailored to your needs.
+> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=15)** With [[Microsoft Azure|Azure]] AI Custom, you can train a specialized image analysis model tailored to your needs.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=23)** Let's look at a few examples.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=25)** In the retail industry, companies may need to automate inventory management by identifying and categorizing their company products on shelves.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=25)** In the retail industry, companies may need to automate inventory management by identifying and categorizing their company [[Microsoft Products|products]] on shelves.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-custom-vision?u=76281980&t=35)** In the manufacturing industry, companies may need to detect defects in their products on assembly lines.
 >
@@ -1228,17 +1210,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to facial analysis and Azure AI Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980)
+#### [Introduction to facial analysis and Azure AI Face](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=0)** - [Instructor] The Azure AI Vision service detects faces in an image and provides a bounding box for their location.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] AI Vision service detects faces in an image and provides a bounding box for their location.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=8)** But most companies need more than basic detection.
 >
@@ -1256,7 +1237,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=82)** Face similarity is useful for finding lookalikes while facial verification verifies identity by comparing two images.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=93)** Facial verification is widely used by typically matching a live image like a selfie to stored image, such as a passport photo in scenarios like an online banking app.
+> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=93)** Facial verification is widely used by typically matching a live image like a selfie to stored image, such as a passport photo in scenarios like an online [[Banking]] app.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=107)** Facial recognition allows you to train models with a collection of faces belonging to specific individuals, and use that model to identify people in new images.
 >
@@ -1266,47 +1247,46 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=134)** You can access these features by creating an Azure AI Face resource.
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=139)** Note that the service is restricted to manage customers and partners to align with Microsoft's Responsible AI Principles.
+> **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=139)** Note that the service is restricted to manage customers and partners to align with [[Microsoft]]'s [[Responsible AI]] Principles.
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-facial-analysis-and-azure-ai-face?u=76281980&t=148)** To apply, visit this website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (3), [[Banking]] (1), [[Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Banking]] (1), [[Microsoft]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (3)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical application of computer vision in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980)
+#### [Practical application of computer vision in business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=0)** - [Presenter] Computer vision is used in many business applications.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=0)** - [Presenter] [[Computer Vision]] is used in many business applications.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=4)** In retail, computer vision is used for inventory management, shelf monitoring, and cashierless checkouts.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=13)** Stores like Amazon Go use it to detect the items customers choose without needing a physical checkout.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=21)** On e-commerce platforms, when merchants upload product images, computer vision generates tags and descriptions, helping users easily find what they want.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=21)** On [[E-Commerce]] platforms, when merchants upload product images, computer vision generates tags and descriptions, helping users easily find what they want.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=33)** In healthcare, computer vision aids in medical image analysis, reducing human error and improving diagnosis accuracy.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=43)** It's a tool that helps doctors make more reliable decisions.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=49)** It also helps researchers analyze vast image datasets to identify disease patterns, improve treatment outcomes, and track public health trends.
+> **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=49)** It also helps researchers analyze vast image datasets to identify disease patterns, improve treatment outcomes, and track [[Public Health]] trends.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=60)** In sports, advanced computer vision technology is used to enhance performance and reduce injury risks.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=70)** Microsoft's partnership with USA Surfing is a great example.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=70)** [[Microsoft]]'s partnership with USA Surfing is a great example.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=75)** Using Azure AI vision, they analyze athletes movements, surfboards, and wave conditions to help pro surfers perform better and stay safer.
+> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=75)** Using [[Microsoft Azure|Azure]] AI vision, they analyze athletes movements, surfboards, and wave conditions to help pro surfers perform better and stay safer.
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=87)** This same technology is used in motion tracking for other sports to boost athletes performance.
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=95)** In manufacturing, computer vision is critical for quality control.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=100)** It automates visual inspections, ensuring products meet quality standards.
+> **[1:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=100)** It automates visual inspections, ensuring [[Microsoft Products|products]] meet quality standards.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=107)** Azure's visual inspection capabilities are a common solution for identifying defects on production lines.
 >
@@ -1320,7 +1300,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=143)** At a larger scale, Interpol uses facial recognition to maintain a global criminal database.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=152)** In finance, mobile banking apps use facial verification to verify users identities by comparing live images with government IDs.
+> **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=152)** In finance, mobile [[Banking]] apps use facial verification to verify users identities by comparing live images with government IDs.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-computer-vision-in-business?u=76281980&t=163)** This ensures secure and smooth user access to financial services.
 >
@@ -1328,18 +1308,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (9), management (3), [[Microsoft Azure|Azure]] (2), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (9), [[Microsoft Azure|Azure]] (2), [[E-Commerce]] (1), [[Public Health]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** usa (1)
 > **Speakers:** - [presenter] (1)
 
-#### Creating an Azure AI Vision, Custom Vision, and Face resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980)
+#### [Creating an Azure AI Vision, Custom Vision, and Face resource](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=0)** - [Instructor] To access Azure AI Vision, Custom Vision, and Azure AI Face, you need to decide whether to use a multipurpose Azure AI Services resource or create separate ones.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=0)** - [Instructor] To access [[Microsoft Azure|Azure]] AI Vision, Custom Vision, and Azure AI Face, you need to decide whether to use a multipurpose Azure AI Services resource or create separate ones.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=13)** This choice depends on whether you want to track costs separately or prefer ease of management.
 >
@@ -1359,7 +1338,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=63)** Once the resource is created, you can access the keys and endpoints.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=73)** This resource allows you to access services like Azure OpenAI, speech, content safety, Computer Vision, and a lot more.
+> **[1:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=73)** This resource allows you to access services like Azure OpenAI, speech, content safety, [[Computer Vision]], and a lot more.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=90)** In the Access Control tab, you can manage user permissions.
 >
@@ -1373,7 +1352,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=138)** Finally, to use Azure AI Face, you need to create a Face API resource.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=146)** This service is not available via Azure AI Services and is subject to stricter access criteria to comply with Microsoft's responsible AI principles.
+> **[2:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=146)** This service is not available via Azure AI Services and is subject to stricter access criteria to comply with [[Microsoft]]'s [[Responsible AI]] principles.
 >
 > **[2:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-vision-custom-vision-and-face-resource?u=76281980&t=158)** Face data is more sensitive, and access is generally limited to Microsoft-managed customers and partners.
 >
@@ -1383,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), ai (7), [[Search]] (2), [[Computer Vision]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Computer Vision]] (2), [[Microsoft]] (2), [[Responsible AI]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
@@ -1392,16 +1371,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Vision demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980)
+#### [Azure AI Vision demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=0)** - [Instructor] Azure AI Vision Studio lets you explore the capabilities of Azure AI Vision without needing to code.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Vision Studio lets you explore the capabilities of Azure AI Vision without needing to code.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=8)** You can find it by searching Azure AI Vision Studio in Bing.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=13)** To access the studio, you'll need an Azure account to log in, any computer vision resource to try the different features.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=13)** To access the studio, you'll need an Azure account to log in, any [[Computer Vision]] resource to try the different features.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=23)** Once logged in, this is what the Vision Studio looks like.
 >
@@ -1413,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=52)** For example, analyzing the sample post-it image returns the text it contains.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=61)** Clicking the JSON tab shows both the text and its bounding box in the image.
+> **[1:01](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=61)** Clicking the [[JSON]] tab shows both the text and its bounding box in the image.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=67)** Even tilted images like this nutrition facts photo are accurately analyzed.
 >
@@ -1423,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=88)** Dense captions provide multiple captions for an image, useful for accessibility and image sorting.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=99)** The recognized products on shelves feature detects empty shelves in a supermarket.
+> **[1:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=99)** The recognized [[Microsoft Products|products]] on shelves feature detects empty shelves in a supermarket.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=112)** The spatial analysis tab provides insights from videos.
 >
@@ -1441,13 +1419,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=178)** Smile again. The system confirms he's live, but doesn't match the photo uploaded.
 >
-> **[3:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=190)** This is perfect for mobile banking where live detection and ID matching are crucial.
+> **[3:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=190)** This is perfect for mobile [[Banking]] where live detection and ID matching are crucial.
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-vision-demo?u=76281980&t=196)** In summary, Azure AI Vision Studio provides a user-friendly, no-code environment to explore powerful AI vision capabilities like OCR, image analysis, and facial recognition, all within your Azure resources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (5), [[Computer Vision]] (1), [[JSON]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Computer Vision]] (1), [[JSON]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1)
 > **Env Vars:** json (1), ocr (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1456,14 +1434,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Custom Vision demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980)
+#### [Azure AI Custom Vision demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980&t=0)** - [Instructor] Let's demonstrate how you can create your own Custom Vision model.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980&t=5)** You would first need to create your own Custom Vision resource via the Azure portal.
+> **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980&t=5)** You would first need to create your own Custom Vision resource via the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-custom-vision-demo?u=76281980&t=11)** Search for Custom Vision in the search bar, and create your resource.
 >
@@ -1501,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Search]] (2), data (1), traffic (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** go to (1)
@@ -1513,12 +1490,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980)
+#### [Overview of natural language processing](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=0)** - [Instructor] Natural language processing, NLP, is a subfield of artificial intelligence that enables computers to understand, interpret, and generate human language, whether spoken or written.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=0)** - [Instructor] [[Natural Language Processing (NLP)|Natural language processing]], NLP, is a subfield of [[Artificial Intelligence (AI)|artificial intelligence]] that enables computers to understand, interpret, and generate human language, whether spoken or written.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=15)** NLP has two main components.
 >
@@ -1540,7 +1516,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=84)** It's useful for content recommendations and document classification.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=90)** Spam detection filters out unwanted messages, whether in emails, social media, or e-commerce platforms.
+> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=90)** Spam detection filters out unwanted messages, whether in emails, social media, or [[E-Commerce]] platforms.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=100)** Summarization condenses long text to highlight key points with two types.
 >
@@ -1548,24 +1524,23 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=115)** This is especially valuable for news aggregation, summarizing reports or academic papers.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=123)** Key face extraction identifies the most important terms in a text, often used for enhancing search engine optimization or indexing.
+> **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=123)** Key face extraction identifies the most important terms in a text, often used for enhancing [[Search Engine Optimization (SEO)|search engine optimization]] or indexing.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980&t=134)** All of these tasks are widely applicable across industries from improving customer interactions to filtering harmful content online.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** nlp (3), nlu (1), nlg (1), ner (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980)
+#### [Introduction to Azure AI Language](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=0)** - [Narrator] Azure AI language, a cloud-based service from Microsoft offers natural language processing tools to analyze and understand text.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=0)** - [Narrator] [[Microsoft Azure|Azure]] AI language, a cloud-based service from [[Microsoft]] offers [[Natural Language Processing (NLP)|natural language processing]] tools to analyze and understand text.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=11)** The service includes pre-configured features, ready for immediate use, and customizable features that allow you to train custom AI models tailored to specific needs.
 >
@@ -1589,13 +1564,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=112)** Custom text classification trains models to categorize documents based on your specific business needs, like support tickets or articles.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=122)** Custom named entity recognition extracts custom categories such as legal terms or contract details from your unstructured data.
+> **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=122)** Custom named entity recognition extracts custom categories such as legal terms or contract details from your [[Unstructured Data]].
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=132)** Azure AI language also offers the following special features.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=137)** Question answering lets you create a chat bot that answers questions using your data, just submit your website URL or upload an FAQ document.
 >
-> **[2:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=148)** This feature integrates with Azure Bots Service allowing you to deploy one chat bot across multiple platforms such as Web Chat, Microsoft Teams, Messenger, WhatsApp, and many more.
+> **[2:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=148)** This feature integrates with Azure Bots Service allowing you to deploy one chat bot across multiple platforms such as Web Chat, [[Microsoft Teams]], Messenger, WhatsApp, and many more.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=163)** Conversational language understanding builds custom models to predict the intent behind user commands called utterances and extract key information.
 >
@@ -1603,26 +1578,25 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=185)** CLU maps utterances, entities, and intents making it ideal for chatbots and command control applications.
 >
-> **[3:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=194)** Azure AI language can be set up as a dedicated resource or as part of the multipurpose Azure AI service, depending on your need for cost management or ease of administration.
+> **[3:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=194)** Azure AI language can be set up as a dedicated resource or as part of the multipurpose Azure AI service, depending on your need for [[Cost Management]] or ease of administration.
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=208)** Lastly, Language Studio lets you try out features without coding, and developers can use SDKs and REST APIs for seamless integration into your applications.
+> **[3:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-language?u=76281980&t=208)** Lastly, Language Studio lets you try out features without coding, and developers can use SDKs and [[Representational State Transfer (REST)|REST]] APIs for seamless integration into your applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (7), data (2), cloud (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (1), [[Unstructured Data]] (1), [[Microsoft Teams]] (1), [[Cost Management]] (1)
 > **Env Vars:** ner (1), url (1), faq (1), clu (1), rest (1)
 > **Analogies:** such as (4), for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to Azure AI Translator
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980)
+#### [Introduction to Azure AI Translator](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980&t=0)** - [Instructor] Azure AI Translator is a cloud-based service from Microsoft that provides text translation for over 100 languages.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Translator is a cloud-based service from [[Microsoft]] that provides text translation for over 100 languages.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980&t=10)** It's a production ready engine, powering translations across Microsoft products, such as Word, PowerPoint, Microsoft Teams, Edge, Visual Studio, and Bing.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980&t=10)** It's a production ready engine, powering translations across [[Microsoft Products]], such as [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Teams]], Edge, Visual Studio, and Bing.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-translator?u=76281980&t=23)** The key features are text translation uses neural machine translation for fast, accurate translations in real time across 100 languages.
 >
@@ -1648,18 +1622,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Microsoft Word|Word]] (2), cloud (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[Microsoft Products]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (2)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding speech recognition and synthesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980)
+#### [Understanding speech recognition and synthesis](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=0)** - [Instructor] Speech recognition converts spoken words into text.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=0)** - [Instructor] [[Speech Recognition]] converts spoken words into text.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=5)** It processes input from audio files or live microphone input by analyzing speech patterns and mapping them to words.
 >
@@ -1667,7 +1640,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=19)** The acoustic model converts audio signals into phonemes, the basic sounds of speech.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=26)** The language model maps these phonemes to words, predicting the most likely word sequences.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=26)** The language model maps these phonemes to words, predicting the most likely [[Microsoft Word|word]] sequences.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-speech-recognition-and-synthesis?u=76281980&t=34)** Speech recognition has many applications, including generating captions for videos, transcribing phone calls or meetings, automating note taking, and interpreting user input for further actions.
 >
@@ -1685,12 +1658,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980)
+#### [Introduction to Azure AI Speech](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=0)** - [Instructor] Azure AI Speech is a Microsoft service that brings your applications to life with powerful speech-to-text and text-to-speech capabilities.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Speech is a [[Microsoft]] service that brings your applications to life with powerful speech-to-text and text-to-speech capabilities.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=11)** Speech-to-text allows you to convert audio-to-text from a range of sources, including microphones, audio files, and batch files in Azure Blob Storage.
 >
@@ -1700,7 +1672,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=37)** Pronunciation assessment to provide feedback to language learners.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=41)** Contact center agent assist to provide real-time transcription and analysis of a customer call.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=41)** Contact center agent assist to provide [[Real-Time]] transcription and analysis of a customer call.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=49)** Dictation to allow spoken words to be typed.
 >
@@ -1738,23 +1710,22 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=178)** And with a Speech Studio, you can try out features with no coding required.
 >
-> **[3:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=184)** Integrating Azure AI Speech into your applications is easy thanks to the available SDKs and REST APIs.
+> **[3:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=184)** Integrating Azure AI Speech into your applications is easy thanks to the available SDKs and [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-speech?u=76281980&t=193)** Get started today and bring advanced speech capabilities into your workflows effortlessly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (4), [[Real-Time]] (2), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Real-Time]] (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1), ssml (1), rest (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical application of natural language processing in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980)
+#### [Practical application of natural language processing in business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=0)** - [Instructor] The Volkswagen Group uses Azure AI to translate up to a billion words yearly across 40 languages.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=0)** - [Instructor] The Volkswagen Group uses [[Microsoft Azure|Azure]] AI to translate up to a billion words yearly across 40 languages.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=9)** With legally binding documents like owner's manuals, translation quality is critical.
 >
@@ -1764,9 +1735,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=34)** A key reason Volkswagen chose Azure AI was data protection.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=39)** Microsoft guarantees that all data, whether it be translation, memories, documents, and train models stay within the EU or European Union, thanks to Azure's regional data controls.
+> **[0:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=39)** [[Microsoft]] guarantees that all data, whether it be translation, memories, documents, and train models stay within the EU or European Union, thanks to Azure's regional data controls.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=55)** Additionally, Azure AI integrates seamlessly with Microsoft Office, allowing future system communication improvements.
+> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=55)** Additionally, Azure AI integrates seamlessly with [[Microsoft Office]], allowing future system communication improvements.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=65)** Telefonica also uses Azure AI for Aura, a conversational agent serving customers across Europe and Latin America.
 >
@@ -1782,24 +1753,23 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=127)** Pearson uses Azure AI Speech to enhance language learning with pronunciation assessment.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=134)** John Hancock uses Azure AI to streamline call center operations by handling common customer issues and questions, freeing up human operators time to solve more complex problems, resulting in better customer experiences and reduce wait times and more manageable workloads.
+> **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=134)** [[John the Ripper|John]] Hancock uses Azure AI to streamline call center operations by handling common customer issues and questions, freeing up human operators time to solve more complex problems, resulting in better customer experiences and reduce wait times and more manageable workloads.
 >
-> **[2:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=155)** Azure AI Language, with its advanced natural language processing capabilities, has enabled companies to innovate and enhance their operations with scale and flexibility.
+> **[2:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=155)** Azure AI Language, with its advanced [[Natural Language Processing (NLP)|natural language processing]] capabilities, has enabled companies to innovate and enhance their operations with scale and flexibility.
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-natural-language-processing-in-business?u=76281980&t=167)** You may wish to learn more about these success stories in the following links.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), ai (12), data (4), [[Microsoft]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft]] (1), [[Microsoft Office]] (1), [[John the Ripper|John]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** sos (1), kpmg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an Azure AI Language and Azure AI Speech resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-language-and-azure-ai-speech-resource?u=76281980)
+#### [Creating an Azure AI Language and Azure AI Speech resource](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-language-and-azure-ai-speech-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-language-and-azure-ai-speech-resource?u=76281980&t=0)** - [Narrator] The Azure AI service resource grants access to Azure AI speech, language, and translator services.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-language-and-azure-ai-speech-resource?u=76281980&t=0)** - [Narrator] The [[Microsoft Azure|Azure]] AI service resource grants access to Azure AI speech, language, and translator services.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-azure-ai-language-and-azure-ai-speech-resource?u=76281980&t=9)** A single resource provides different endpoints for each service.
 >
@@ -1825,17 +1795,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), [[Search]] (5), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6)
 > **Prerequisites:** set up (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure AI Language demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980)
+#### [Azure AI Language demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=0)** - [Instructor] The Azure AI Language Studio provides an easy, no-code way to explore language services.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] AI Language Studio provides an easy, no-code way to explore language services.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=7)** Just search for Azure Language Studio in Bing to find it.
 >
@@ -1869,11 +1838,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=139)** It detects the language of text.
 >
-> **[2:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=148)** The answer questions feature extracts answers from a passage, for example, from a passage about the Microsoft Surface Laptop, it identified both short and long answers to the question, complete with confidence scores.
+> **[2:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=148)** The answer questions feature extracts answers from a passage, for example, from a passage about the [[Microsoft]] Surface Laptop, it identified both short and long answers to the question, complete with confidence scores.
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=177)** Finally, the summarize feature offers both Extractive and Abstractive Summaries of documents.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=186)** For instance, when summarizing an article on the use of Azure AI in Lufthansa, you can select a few sentences and the word Azure AI as the summarization interest to focus on.
+> **[3:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=186)** For instance, when summarizing an article on the use of Azure AI in Lufthansa, you can select a few sentences and the [[Microsoft Word|word]] Azure AI as the summarization interest to focus on.
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-language-demo?u=76281980&t=201)** There are many more features in the Azure AI Language Studio for you to explore.
 >
@@ -1881,7 +1850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), feature (4), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pii (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1), for instance (1)
@@ -1890,12 +1859,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Speech demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980)
+#### [Azure AI Speech demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=0)** - [Instructor] Azure AI Speech Studio offers a no-code way to explore speech service features.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Speech Studio offers a no-code way to explore speech service features.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=7)** To access it, search Azure Speech Studio in Bing and sign in.
 >
@@ -1919,7 +1887,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=72)** Towards the end of the day, clouds came in.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=75)** Forecasting much needed rain.
+> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=75)** [[Forecasting]] much needed rain.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=82)** - [Computer] Today was a beautiful day.
 >
@@ -1967,11 +1935,11 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=228)** - [Instructor] So as you can see, Azure AI Speech Studio is a powerful, easy-to-use platform to enhance your projects with advanced speech capabilities.
 >
-> **[3:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=239)** Whether it's for real-time transcription, personalized voice models, or multilingual translation.
+> **[3:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-speech-demo?u=76281980&t=239)** Whether it's for [[Real-Time]] transcription, personalized voice models, or multilingual translation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Forecasting]] (2), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Forecasting]] (2), [[Real-Time]] (1)
 > **Speakers:** - [instructor] (6), - [computer] (5)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
@@ -1982,8 +1950,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of document intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980)
+#### [Overview of document intelligence](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1997,9 +1964,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=26)** Yet over 80% of the world's data is unstructured.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=31)** Unstructured data lacks a predefined model, making it hard to transfer to spreadsheets or databases without a data lake.
+> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=31)** [[Unstructured Data]] lacks a predefined model, making it hard to transfer to spreadsheets or [[Databases]] without a data lake.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=42)** This includes emails, documents, presentations, contracts, invoices, receipts, custom forms, images, videos, and many more.
+> **[0:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=42)** This includes emails, documents, presentations, contracts, invoices, receipts, custom [[Forms]], images, videos, and many more.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=57)** Think about it, most of the data we capture is unstructured.
 >
@@ -2007,7 +1974,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=67)** Companies manually store large volumes of legal documents in the cloud for compliance and audits.
 >
-> **[1:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=74)** Organizations manually extract information from documents for financial, medical, or statistical analysis.
+> **[1:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=74)** Organizations manually extract information from documents for financial, medical, or [[Statistical Analysis]].
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980&t=83)** Businesses manually record invoices and receipts into financial systems.
 >
@@ -2027,17 +1994,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forms]] (3), business (2), [[Unstructured Data]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Unstructured Data]] (2), [[Databases]] (1), [[Statistical Analysis]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** kyc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Document Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980)
+#### [Azure AI Document Intelligence](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=0)** - [Instructor] Azure AI Document Intelligence is a cloud-based Azure AI service that helps you build applications to process documents efficiently.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Document Intelligence is a cloud-based Azure AI service that helps you build applications to process documents efficiently.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=10)** It's vital for automating data extraction, enhancing search, and supporting document-based AI.
 >
@@ -2045,21 +2011,21 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=28)** It offers several powerful features.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=31)** The Read model extracts printed and handwritten texts from PDFs, scanned images, and files like Word, Excel, and PowerPoint.
+> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=31)** The Read model extracts printed and handwritten texts from PDFs, scanned images, and files like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=41)** It's the foundation of other models and operates at a higher resolution than Azure AI Vision.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=49)** The layout model builds on the Read model and can identify document structure, like tables and headings.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=57)** It also supports Markdown extraction for generative AI use cases, ensuring the document structure remains intact for large language models.
+> **[0:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=57)** It also supports Markdown extraction for [[Generative AI]] use cases, ensuring the document structure remains intact for [[Large Language Models (LLM)|large language models]].
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=70)** Scenario-specific models are also available.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=75)** These models extract key details from common documents, such as invoices, receipts, tax forms, credit cards, ID cards, and many more.
+> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=75)** These models extract key details from common documents, such as invoices, receipts, tax [[Forms]], credit cards, ID cards, and many more.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=88)** For example, the receipt model pulls merchant info, total amount, end date, regardless of the format or structure of a receipt.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=99)** And here are all of the scenario-specific models in Microsoft's website.
+> **[1:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=99)** And here are all of the scenario-specific models in [[Microsoft]]'s website.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=105)** Custom models are needed when pre-built models don't meet your needs.
 >
@@ -2067,7 +2033,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=115)** They also support complex scenarios, such as documents containing multiple formats.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=122)** Compose models handle files containing documents of different types, like a single file with multiple purchase orders.
+> **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=122)** [[Jetpack Compose|Compose]] models handle files containing documents of different types, like a single file with multiple purchase orders.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence?u=76281980&t=131)** Classification models identify and split files with multiple document types, such as application forms paired with tax and ID documents.
 >
@@ -2079,22 +2045,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Microsoft Azure|Azure]] (8), [[Forms]] (2), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Forms]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** ocr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Content Safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980)
+#### [Introduction to Azure AI Content Safety](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=0)** - [Instructor] Content moderation involves monitoring and managing user-generated content on digital platforms to ensure it follows guidelines, regulations, and ethical standards.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=13)** Azure AI Content Safety is an AI service designed to detect harmful user-generated and AI-generated content in apps and services.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=13)** [[Microsoft Azure|Azure]] AI Content Safety is an AI service designed to detect harmful user-generated and AI-generated content in apps and services.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=24)** It's ideal for user prompts submitted to generative AI services and the resulting content, online marketplaces that moderate product catalogs and user-generated content, gaming companies that manage game artifacts and chat rooms, social messaging platforms to moderate images and texts from users, enterprise media companies that centralize content moderation, and K-12 education providers to filter out inappropriate content for students and educators.
+> **[0:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=24)** It's ideal for user prompts submitted to [[Generative AI]] services and the resulting content, online marketplaces that moderate product catalogs and user-generated content, gaming companies that manage game artifacts and chat rooms, social [[Messaging Platforms]] to moderate images and texts from users, enterprise media companies that centralize content moderation, and K-12 education providers to filter out inappropriate content for students and educators.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=62)** Azure AI Content Safety has the following service features.
 >
@@ -2106,7 +2071,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=90)** Please note, some examples of harmful content may be disturbing.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=96)** Prompt Shields safeguard against user input attacks on large language models.
+> **[1:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=96)** Prompt Shields safeguard against user input attacks on [[Large Language Models (LLM)|large language models]].
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-content-safety?u=76281980&t=102)** Prompt Shields for User Prompts detects prompt injection attacks that try to exploit system vulnerabilities.
 >
@@ -2128,14 +2093,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (5), [[Microsoft Azure|Azure]] (4), [[Generative AI]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Generative AI]] (1), [[Messaging Platforms]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding knowledge mining and the elements of a search solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980)
+#### [Understanding knowledge mining and the elements of a search solution](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2145,7 +2109,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=22)** Before the advent of knowledge mining, scanned documents had to be manually encoded for proper storage and search.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=31)** Human operators had to manually encode the metadata, such as document titles, author names, publication dates, keywords, and other relevant information.
+> **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=31)** Human operators had to manually encode the [[Metadata]], such as document titles, author names, publication dates, keywords, and other relevant information.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=44)** This process was time-consuming and prone to errors.
 >
@@ -2155,7 +2119,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=69)** Knowledge mining removes the need for manual encoding by using different AI technologies to automate and gain insights faster from content that would otherwise remain untapped.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=81)** Examples of these AI technologies are computer vision to extract information from image and video data, AI speech recognition to extract information from audio files, natural language processing to analyze text data, extract keywords and entities, analyze sentiments, and more, document intelligence to extract information from business documents.
+> **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=81)** Examples of these AI technologies are [[Computer Vision]] to extract information from image and video data, AI [[Speech Recognition]] to extract information from audio files, [[Natural Language Processing (NLP)|natural language processing]] to analyze text data, extract keywords and entities, analyze sentiments, and more, document intelligence to extract information from business documents.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/understanding-knowledge-mining-and-the-elements-of-a-search-solution?u=76281980&t=112)** Knowledge mining solutions are typically search solutions that contain all your content.
 >
@@ -2187,20 +2151,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (8), [[Search]] (8), business (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Computer Vision]] (2), [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Analogies:** such as (3)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980)
+#### [Introduction to Azure AI Search](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=0)** - [Instructor] Azure AI Search offers the infrastructure and tools to build search solutions across various document types, including structured, semi-structured, and unstructured data.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Search offers the infrastructure and tools to build search solutions across various document types, including structured, semi-structured, and [[Unstructured Data]].
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=14)** Key capabilities include multiple data sources that allow you to connect to unstructured files in Azure storage, tabular data in Azure SQL databases, and semi-structured data in Azure Cosmos database.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=14)** Key capabilities include multiple data sources that allow you to connect to unstructured files in Azure storage, tabular data in Azure [[SQL]] [[Databases]], and semi-structured data in Azure Cosmos database.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=30)** Skill sets are AI powered processes that extract insights from data.
 >
@@ -2216,33 +2179,32 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=92)** You can schedule the indexer to update your index regularly with new data.
 >
-> **[1:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=98)** Azure AI Search also has search types that support keyword, vector and semantic search for leveraging large language models along with filter and geospatial search.
+> **[1:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=98)** Azure AI Search also has search types that support keyword, vector and [[Semantic Search]] for leveraging [[Large Language Models (LLM)|large language models]] along with filter and geospatial search.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=113)** It also has a built-in vectorization feature that converts data to vectors in just a few clicks without complex code.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=123)** Finally, it also has autocomplete that provides suggested results to users during searches.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=131)** To explore more about Azure AI Search, you can visit its documentation in Microsoft Learn.
+> **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-search?u=76281980&t=131)** To explore more about Azure AI Search, you can visit its documentation in [[Microsoft]] Learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Azure|Azure]] (7), data (7), ai (6), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Unstructured Data]] (1), [[SQL]] (1), [[Databases]] (1), [[Semantic Search]] (1)
 > **Env Vars:** sql (1), ocr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical application of these technologies in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980)
+#### [Practical application of these technologies in business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=0)** - [Speaker] The National Bank of Greece serves over 6 million customers with more than 356 branches across Greece.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=9)** Previously, they manually processed documents requiring customers to bring or email documents, which staff would then print, scan, and send to the back office for manual data extraction.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=9)** Previously, they manually processed documents requiring customers to bring or email documents, which staff would then print, scan, and send to the back [[Microsoft Office|office]] for manual data extraction.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=25)** To improve this process, NBG implemented Azure AI document intelligence leading to several key benefits.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=25)** To improve this process, NBG implemented [[Microsoft Azure|Azure]] AI document intelligence leading to several key benefits.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=35)** The solution handles 20 document categories and 60 templates, including tax forms, payroll certificates, IDs, and utility bills.
+> **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=35)** The solution handles 20 document categories and 60 templates, including tax [[Forms]], payroll certificates, IDs, and utility bills.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=46)** Processing sped up to 700,000 pages monthly at under 0.5 seconds per page.
 >
@@ -2250,7 +2212,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=61)** The system had strong Greek language recognition, quick implementation of new use cases to meet customer needs, and finally, fully digital journeys and reduce wait times through system integration.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=77)** Another example, the Unum Group, a workplace benefits provider faced inefficiencies in their customer support center, AskUnum.
+> **[1:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=77)** Another example, the Unum Group, a workplace benefits provider faced inefficiencies in their [[Customer Support]] center, AskUnum.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=88)** Customer service representatives had to manually search through 300,000 policies to assist customers.
 >
@@ -2260,7 +2222,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=110)** A proof of concept was ready in two weeks with full-deployment in four months.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=116)** The system process 1.3 terabytes of unstructured data to create a critical business solution.
+> **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=116)** The system process 1.3 terabytes of [[Unstructured Data]] to create a critical business solution.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-in-business?u=76281980&t=124)** Data retrieval now takes four to five seconds with 95% accuracy.
 >
@@ -2278,17 +2240,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), data (2), [[Search]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft Office|Office]] (1), [[Forms]] (1), [[Customer Support]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** axa (2), nbg (1)
 > **Versions:** 0.5 (1), 1.3 (1)
 > **Speakers:** - [speaker] (1)
 
-#### Azure AI Document Intelligence demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980)
+#### [Azure AI Document Intelligence demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=0)** - [Instructor] The capabilities of Azure AI document intelligence can be demonstrated using the Document Intelligence Studio.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=0)** - [Instructor] The capabilities of [[Microsoft Azure|Azure]] AI document intelligence can be demonstrated using the Document Intelligence Studio.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=8)** To get started, you'll need a document intelligence resource.
 >
@@ -2308,7 +2269,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=81)** Click Run Analysis to see how the system captures elements like page header, title, section headings, paragraph, and many more.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=93)** The Result tab lets developers extract data in JSON format, while the Code tab provides sample code for Python, JavaScript, or C#.
+> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=93)** The Result tab lets developers extract data in [[JSON]] format, while the Code tab provides sample code for [[Python (Programming Language)|Python]], [[JavaScript]], or C#.
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-document-intelligence-demo?u=76281980&t=106)** Running analysis on other documents shows the system's ability to handle diverse formats, including scanned documents.
 >
@@ -2324,7 +2285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (3), [[Search]] (2), data (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** json (1)
@@ -2333,12 +2294,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Content Safety demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-content-safety-demo?u=76281980)
+#### [Azure AI Content Safety demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-content-safety-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-content-safety-demo?u=76281980&t=0)** - [Instructor] Azure AI Content Safety can be demonstrated using the Content Safety Studio.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-content-safety-demo?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Content Safety can be demonstrated using the Content Safety Studio.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-content-safety-demo?u=76281980&t=7)** First, you need an Azure Content Safety resource.
 >
@@ -2386,18 +2346,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Search]] (2), ai (1), feature (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5)
 > **Env Vars:** dan (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Search demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980)
+#### [Azure AI Search demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=0)** - [Instructor] Azure AI Search doesn't have a studio like other Azure AI technologies, but you can explore its capabilities through the Azure portal.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Search doesn't have a studio like other Azure AI technologies, but you can explore its capabilities through the Azure portal.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=12)** Here is how.
 >
@@ -2451,7 +2410,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=203)** You'll also see New York in the key phrases.
 >
-> **[3:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=209)** To refine your search, Let's switch over to the JSON view, and search for gaming in the key Phrases column.
+> **[3:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=209)** To refine your search, Let's switch over to the [[JSON]] view, and search for gaming in the key Phrases column.
 >
 > **[3:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-search-demo?u=76281980&t=227)** You'll find two records with gaming in their key phrases.
 >
@@ -2459,7 +2418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), data (8), ai (7), [[Microsoft Azure|Azure]] (6), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (1)
 > **Tools:** azure portal (2)
 > **UI Navigation:** navigate to (1), go to (1)
 > **CLI Commands:** find (1)
@@ -2472,12 +2431,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980)
+#### [Overview of generative AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=0)** - [Narrator] Generative AI is a category of AI capable of generating text, images, and other content.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=0)** - [Narrator] [[Generative AI]] is a category of AI capable of generating text, images, and other content.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=10)** It's popular because it has democratized AI.
 >
@@ -2487,11 +2445,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=31)** People often interact with generative AI through chat applications.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=37)** A popular example is Microsoft Copilot, a chat bot that helps you browse the web more effectively.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=37)** A popular example is [[Microsoft Copilot]], a chat bot that helps you browse the web more effectively.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=45)** So let's see it in action.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=48)** With Copilot, you can generate emails, write reports, create code and more in seconds.
+> **[0:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=48)** With [[Microsoft Copilot|Copilot]], you can generate emails, write reports, create code and more in seconds.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=58)** For example, you can ask Copilot to write a cover letter for a person with a bachelor's degree in finance, and it'll generate a customizable letter for you.
 >
@@ -2499,41 +2457,40 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=85)** Copilot can even summarize articles in other languages.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=90)** If you find a page in another language, such as this Microsoft customer story, Copilot can generate a summary in English with suggested follow-up questions.
+> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=90)** If you find a page in another language, such as this [[Microsoft]] customer story, Copilot can generate a summary in English with suggested follow-up questions.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=111)** Copilot can also help generate images.
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=115)** You might instruct it to create a logo for a travel company
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=124)** or even ask more complex visuals like creating an image of an Asian male CEO being interviewed in his office.
+> **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=124)** or even ask more complex visuals like creating an image of an Asian male CEO being interviewed in his [[Microsoft Office|office]].
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=135)** Developers can also benefit too.
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=139)** You can request code, such as creating an HTML for a simple website, and it can even create Python code for you.
+> **[2:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=139)** You can request code, such as creating an [[HTML]] for a simple website, and it can even create [[Python (Programming Language)|Python]] code for you.
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980&t=152)** Generative AI makes AI more accessible for everyone, whether you're writing, designing, or coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Copilot|Copilot]] (5), [[Generative AI]] (4), prompt (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Generative AI]] (4), [[Microsoft Copilot]] (1), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** ceo (1), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Traditional model development vs. foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980)
+#### [Traditional model development vs. foundation models](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=0)** - [Instructor] Traditional AI model development required training models on specific label datasets for narrow tasks.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=0)** - [Instructor] [[Traditional AI]] model development required training models on specific label datasets for narrow tasks.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=9)** As discussed earlier in the course, each AI model was built for a specific purpose.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=17)** For example, natural language processing models handled text tasks, like sentiment analysis and entity extraction.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=17)** For example, [[Natural Language Processing (NLP)|natural language processing]] models handled text tasks, like sentiment analysis and entity extraction.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=28)** Computer vision models analyzed images for tasks like object detection and classification.
+> **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=28)** [[Computer Vision]] models analyzed images for tasks like object detection and classification.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=35)** While these traditional models have solved many real-world problems, building and deploying each system often took considerable time and resources.
 >
@@ -2547,19 +2504,19 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=87)** Using self-supervised and transfer learning, foundation models can apply knowledge from one context to another, much like how learning to drive one car helps you drive any car, truck, or bus.
 >
-> **[1:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=103)** Examples of foundation models include large language models like GPT-4, which handle natural language tasks such as content generation, summarization, translation, and search.
+> **[1:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=103)** Examples of foundation models include [[Large Language Models (LLM)|large language models]] like [[GPT-4]], which handle natural language tasks such as content generation, summarization, translation, and search.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=120)** Microsoft's Florence foundation model, which was trained on billions of text-image pairs, enabling tasks like image classification, object detection, and video retrieval.
+> **[2:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=120)** [[Microsoft]]'s Florence foundation model, which was trained on billions of text-image pairs, enabling tasks like image classification, object detection, and video retrieval.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=136)** We also have Aurora, a climate-focused model by Microsoft, which forecasts variables like temperature and air pollution levels based on over a million hours of weather data.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=151)** Microsoft Copilot is an excellent tool built on these foundation models.
+> **[2:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=151)** [[Microsoft Copilot]] is an excellent tool built on these foundation models.
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=159)** Let's explore its capabilities.
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=162)** If you recall in previous videos, we discussed how natural language processing, or NLP, can analyze a customer review and extract sentiment and key entities.
 >
-> **[2:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=176)** Copilot can both identify sentiment and extract entities because it uses a foundation model.
+> **[2:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=176)** [[Microsoft Copilot|Copilot]] can both identify sentiment and extract entities because it uses a foundation model.
 >
 > **[3:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/traditional-model-development-vs-foundation-models?u=76281980&t=186)** In previous videos, we also discussed how computer vision can generate captions for images.
 >
@@ -2577,15 +2534,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Computer Vision]] (4), data (4), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Computer Vision]] (4), [[Microsoft]] (2), [[Traditional AI]] (1)
 > **Env Vars:** gpt (1), nlp (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Token, embeddings, transformer model
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980)
+#### [Token, embeddings, transformer model](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2593,11 +2549,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=10)** To understand how these models function, we need to grasp three key concepts.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=16)** Tokens, embeddings, and the transformer model.
+> **[0:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=16)** [[Tokens]], embeddings, and the transformer model.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=21)** Tokens are how computers understand words.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=25)** For simplicity, imagine a training set containing every word in the dictionary, with each word assigned a specific number.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=25)** For simplicity, imagine a training set containing every [[Microsoft Word|word]] in the dictionary, with each word assigned a specific number.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=35)** In the sentence, I heard a dog bark loudly at a cat, the words are represented by tokens as shown by the numbers below.
 >
@@ -2625,7 +2581,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=122)** The encoder block creates embeddings by processing tokens and capturing their relationships using attention mechanisms.
 >
-> **[2:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=132)** The decoder block generates language, producing new sequences that may make sense based on probability.
+> **[2:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=132)** The decoder block generates language, producing new sequences that may make sense based on [[Probability]].
 >
 > **[2:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/token-embeddings-transformer-model?u=76281980&t=141)** The transformer model works in four steps.
 >
@@ -2649,12 +2605,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using language models: LLM vs. SLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980)
+#### [Using language models: LLM vs. SLM](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=0)** - [Instructor] Language models can be categorized into two types, large language models, LLMs, and small language models, SLMs.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=0)** - [Instructor] Language models can be categorized into two types, [[Large Language Models (LLM)|large language models]], LLMs, and small language models, SLMs.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=11)** Choosing between them depends on your business needs.
 >
@@ -2668,7 +2623,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=44)** SLMs with fewer parameters are often more efficient for specific tasks.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=52)** When it comes to tasks, LLMs excel in general language generation across various contexts.
+> **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=52)** When it comes to tasks, LLMs [[Microsoft Excel|excel]] in general language generation across various contexts.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=60)** SLMs, with their focus vocabulary, perform better on specialized tasks, but struggle with broader topics.
 >
@@ -2680,11 +2635,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=99)** SLMs, however, are quicker and cheaper to fine-tune.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=105)** There are many LLMs available from companies like OpenAI, Google, Anthropic, and Meta.
+> **[1:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=105)** There are many LLMs available from companies like OpenAI, [[Google]], Anthropic, and Meta.
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=114)** To stay updated, check this website for current rankings.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=119)** For SLMs, you can explore the Hugging Face leaderboard.
+> **[1:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=119)** For SLMs, you can explore the [[Hugging Face]] leaderboard.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/using-language-models-llm-vs-slm?u=76281980&t=124)** In the end, the choice between LLMs and SLMs depends on your specific use case.
 >
@@ -2696,13 +2651,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving your prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980)
+#### [Improving your prompts](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2710,7 +2664,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=9)** Prompts are instructions or queries given to AI models to get results.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=15)** Prompt engineering is the art of crafting effective prompts that guide AI to deliver the desired outcomes.
+> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=15)** [[Prompt Engineering]] is the art of crafting effective prompts that guide AI to deliver the desired outcomes.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=24)** Think of it like managing a talented but inexperienced employee.
 >
@@ -2734,7 +2688,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=75)** Imagine that you have an email from a customer about a product complaint, and you want to summarize the email.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=82)** Here's what the prompt would be in Copilot.
+> **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=82)** Here's what the prompt would be in [[Microsoft Copilot|Copilot]].
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/improving-your-prompts?u=76281980&t=86)** The sentence at the top acts as the instruction, which is to summarize the email in bullet points.
 >
@@ -2784,22 +2738,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (4), [[Prompt Engineering]] (3), [[Microsoft Copilot|Copilot]] (2), product (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Microsoft Copilot|Copilot]] (2)
 > **Analogies:** think of it like (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Microsoft Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980)
+#### [Introduction to Microsoft Copilot](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=0)** - [Instructor] Microsoft's Copilots are generative AI chatbots embedded into Microsoft products.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=0)** - [Instructor] [[Microsoft]]'s Copilots are [[Generative AI]] chatbots embedded into [[Microsoft Products]].
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=8)** Powered by GPT models, through a partnership with OpenAI, Copilots bring AI to everyday applications, even for users without coding or data science skills.
+> **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=8)** Powered by GPT models, through a partnership with OpenAI, Copilots bring AI to everyday applications, even for users without coding or [[Data Science]] skills.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=20)** These AI assistants are seamlessly integrated as a software as a service, making them easy and transparent to use.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=20)** These AI assistants are seamlessly integrated as a [[SaaS|software as a service]], making them easy and transparent to use.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=29)** Microsoft has integrated Copilots across a range of systems to help users with everyday tasks.
 >
@@ -2807,13 +2760,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=51)** It boosts productivity and makes creative projects smoother.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=55)** GitHub Copilots aids developers by generating code in Visual Studio Code, Visual Studio, and other IDs, streamlining the programming process.
+> **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=55)** [[GitHub]] Copilots aids developers by generating code in Visual Studio Code, Visual Studio, and other IDs, streamlining the programming process.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=68)** Copilot for Microsoft 365 supports Word, Excel, and PowerPoint.
+> **[1:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=68)** [[Microsoft Copilot|Copilot]] for [[Microsoft 365]] supports [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=74)** It can help write content, analyze data, and create polished presentations with ease.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=82)** Copilot for Power platform assist in creating apps, reports, websites, and automated process across Power apps, Power BI, Power Pages, and Power Automate.
+> **[1:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=82)** Copilot for Power platform assist in creating apps, reports, websites, and automated process across Power apps, [[Microsoft Power BI|Power BI]], Power Pages, and Power Automate.
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=96)** Copilot for Dynamics 365 CRM enhances customer service, sales, marketing, and field operations.
 >
@@ -2823,13 +2776,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=123)** Sales gets tools to streamline processes and assist salespeople in meeting quotas.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=130)** Finally, customer insights enhances marketing, content creation, and customer journey planning.
+> **[2:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=130)** Finally, customer insights enhances marketing, [[Content Creation]], and customer journey planning.
 >
-> **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=138)** Copilot for Dynamics 365 ERP supports operations in areas like supply chain management, finance, project operations, and commerce.
+> **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=138)** Copilot for Dynamics 365 ERP supports operations in areas like [[Supply Chain Management]], finance, project operations, and commerce.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=150)** It offers predictive insights for inventory management, streamlines payment tracking, and generates task plans for project management.
 >
-> **[2:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=160)** Beyond these, Microsoft has introduced Copilots in areas like security and Azure, with each offering specific tools to improve workflows.
+> **[2:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=160)** Beyond these, Microsoft has introduced Copilots in areas like security and [[Microsoft Azure|Azure]], with each offering specific tools to improve workflows.
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-microsoft-copilots?u=76281980&t=172)** Additionally, Copilot Studio allows users to customize and extend these AI assistance.
 >
@@ -2839,25 +2792,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), ai (6), [[Microsoft]] (5), power (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft]] (5), [[Generative AI]] (1), [[Microsoft Products]] (1), [[Data Science]] (1)
 > **Env Vars:** gpt (1), crm (1), erp (1)
 > **Tools:** visual studio (2), github (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980)
+#### [Customizing language models](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=0)** - [Instructor] As we rely more and more on tools like Copilot and ChatGPT, it's natural to wonder how we can harness generative AI to gain insights from our company data.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=0)** - [Instructor] As we rely more and more on tools like [[Microsoft Copilot|Copilot]] and [[ChatGPT]], it's natural to wonder how we can harness [[Generative AI]] to gain insights from our company data.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=13)** You may have heard about how models like ChatGPT can pass exams, such as the bar or science tests, because they're trained on publicly available information.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=26)** However, company-specific confidential data isn't accessible on the public internet, meaning a standard generative AI model can't provide insights from this private data.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=41)** To address this, we introduce the concepts of retrieval-augmented generation, or RAG, and fine tuning.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=41)** To address this, we introduce the concepts of [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, and [[Fine Tuning]].
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=50)** Retrieval-augmented generation enhances the accuracy and reliability of generative AI models by incorporating facts from external knowledge bases.
 >
@@ -2885,25 +2837,24 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=154)** However, the specifics on when to use each approach along with their pros and cons are beyond the scope of this discussion.
 >
-> **[2:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=164)** For more detailed insights, you can explore related articles on Microsoft Learn.
+> **[2:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/customizing-language-models?u=76281980&t=164)** For more detailed insights, you can explore related articles on [[Microsoft]] Learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), rag (5), [[Generative AI]] (4), [[ChatGPT]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Microsoft Copilot|Copilot]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** rag (5)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980)
+#### [Introduction to Azure AI Foundry](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=0)** - [Instructor] Azure AI Studio is a unified hub to build generative AI applications on Azure and explore its features.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=0)** - [Instructor] [[Azure AI Studio]] is a unified hub to build [[Generative AI]] applications on [[Microsoft Azure|Azure]] and explore its features.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=9)** Let's walk through its capabilities.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=12)** The model catalog allows you to choose from over 1,700 models, including Azure, OpenAI, Mistral, Llama, Cohere, Nematron, and smaller models like Phi.
+> **[0:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=12)** The model catalog allows you to choose from over 1,700 models, including Azure, OpenAI, Mistral, [[LLaMA]], Cohere, Nematron, and smaller models like Phi.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=27)** The selection continues to grow, offering flexibility for your generative AI applications.
 >
@@ -2915,17 +2866,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=60)** And intuitive interface allows you to select a model and upload your test and validation data for fine-tuning.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=69)** Developers can easily tweak components of their AI models using prompt flow, allowing further customization and optimization.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=69)** Developers can easily tweak components of their AI models using [[Prompt Flow]], allowing further customization and optimization.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=79)** You can evaluate models by uploading validation data to assess accuracy and performance.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=86)** Azure AI content safety is integrated by default.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=90)** You can adjust filter levels and enable safety features like prompt shields to ensure responsible AI usage.
+> **[1:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=90)** You can adjust filter levels and enable safety features like prompt shields to ensure [[Responsible AI]] usage.
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=98)** Deploying models to production environments is easy, making your models accessible for business applications.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=106)** Azure AI Foundry also helps you manage your project in one place.
+> **[1:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=106)** [[Azure AI Foundry]] also helps you manage your project in one place.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-ai-studio?u=76281980&t=111)** You can control security and permissions, add or remove team members, and monitor resources.
 >
@@ -2937,22 +2888,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (6), data (4), [[Generative AI]] (3), [[Azure AI Foundry]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Generative AI]] (3), [[Azure AI Foundry]] (3), [[Azure AI Studio]] (1), [[LLaMA]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** rag (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Azure OpenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980)
+#### [Introduction to Azure OpenAI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=0)** - [Instructor] Azure OpenAI service provides access to OpenAI's powerful language models, whatever the available models would be.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] OpenAI service provides access to OpenAI's powerful language models, whatever the available models would be.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=10)** These models can be easily adapted to your specific task, including but not limited to content generation, summarization, image understanding, semantic search, and natural language to code translation.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=10)** These models can be easily adapted to your specific task, including but not limited to content generation, summarization, image understanding, [[Semantic Search]], and natural language to code translation.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=28)** Users can access the service through rest APIs, the Python SDK, or in the Azure AI Foundry.
+> **[0:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=28)** Users can access the service through [[Representational State Transfer (REST)|rest]] APIs, the [[Python (Programming Language)|Python]] SDK, or in the [[Azure AI Foundry]].
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=38)** However, you need to deploy a model first using Azure AI Foundry before you can use the service.
 >
@@ -2960,11 +2910,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=51)** Azure OpenAI co-develops the APIs with OpenAI to ensure compatibility and a smooth transition from one to the other, so their functionalities are practically the same.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=65)** Azure OpenAI customers, however, get the added security capabilities of Microsoft Azure.
+> **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=65)** Azure OpenAI customers, however, get the added security capabilities of [[Microsoft Azure]].
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=73)** In addition, Azure OpenAI offers private networking and regional availability.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=80)** Finally, Azure AI Content Safety is added by default into the service for responsible AI filtering.
+> **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/introduction-to-azure-openai?u=76281980&t=80)** Finally, Azure AI Content Safety is added by default into the service for [[Responsible AI]] filtering.
 
 > [!info]- Semantic Content
 >
@@ -2973,32 +2923,31 @@ created: 2026-05-02
 > **Env Vars:** sdk (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical application of generative AI in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980)
+#### [Practical application of generative AI in business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=0)** - [Presenter] Generative AI technologies like Azure OpenAI are transforming how businesses operate.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=0)** - [Presenter] [[Generative AI]] technologies like [[Microsoft Azure|Azure]] OpenAI are transforming how businesses operate.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=7)** Many companies have already harnessed these tools to enhance productivity, streamlined processes, and improve customer experiences.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=17)** Let's explore a few examples.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=20)** Schneider Electric, a leader in digital transformation for energy management and automation leverages generative AI to empower customers and optimize internal operations.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=20)** Schneider Electric, a leader in [[Digital Transformation]] for energy management and automation leverages generative AI to empower customers and optimize internal operations.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=33)** They've implement it in several ways.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=37)** Resource Advisor Copilot is a digital companion embedded within their resource advisor system, which enhances data analysis, visualization, and decision support.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=37)** Resource Advisor [[Microsoft Copilot|Copilot]] is a digital companion embedded within their resource advisor system, which enhances data analysis, visualization, and decision support.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=51)** Jo-Chat GPT is an internal assistant based on Azure OpenAI service, which allows employees to securely access generative AI capabilities.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=63)** Finance Advisor is an assistant that simplifies the search for precise financial data, aiding global finance teams in achieving consistent, compliant and timely decisions.
+> **[1:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=63)** Finance Advisor is an assistant that simplifies the search for precise [[Financial Data]], aiding global finance teams in achieving consistent, compliant and timely decisions.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=77)** Knowledge Bot is a tool for customer care.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=80)** It provides accurate information to resolve customer queries by quickly pulling from extensive internal documentation.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=88)** Finally, conversational search enables customers to find products through natural semantic search.
+> **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=88)** Finally, conversational search enables customers to find [[Microsoft Products|products]] through natural [[Semantic Search]].
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=97)** Kry, Europe's leading digital first healthcare provider uses Azure OpenAI to improve patient outcomes.
 >
@@ -3010,9 +2959,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=138)** The Iveco Group, Italy's first automotive manufacturer to use Azure OpenAI in production, developed Chat IVG, a smart chat bot.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=150)** Available in Microsoft Teams, it assists with Q&A and information retrieval from company data enhancing employee productivity.
+> **[2:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=150)** Available in [[Microsoft Teams]], it assists with Q&A and [[Information Retrieval]] from company data enhancing employee productivity.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=161)** Finally, Telstra, Australia's leading telecommunications company has developed two innovative AI tools.
+> **[2:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=161)** Finally, Telstra, Australia's leading [[Telecommunications]] company has developed two innovative AI tools.
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/practical-application-of-generative-ai-in-business?u=76281980&t=171)** One Sentence Summary summarizes customer history for agents helping them address sensitive issues like financial assistance more effectively.
 >
@@ -3024,23 +2973,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Generative AI]] (3), [[Search]] (3), data (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Generative AI]] (3), [[Digital Transformation]] (1), [[Microsoft Copilot|Copilot]] (1), [[Financial Data]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** gpt (1), ivg (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Azure AI Foundry demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980)
+#### [Azure AI Foundry demo](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=0)** - [Instructor] Welcome to Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=0)** - [Instructor] Welcome to [[Azure AI Foundry]].
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=3)** Let's get started by searching for Azure AI Foundry on Microsoft Bing.
+> **[0:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=3)** Let's get started by searching for Azure AI Foundry on [[Microsoft]] Bing.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=9)** Once you've found the site, you should log in with your Azure credentials.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=9)** Once you've found the site, you should log in with your [[Microsoft Azure|Azure]] credentials.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=14)** We've already set up a project for this demo, but if you're starting fresh, you'll need to create a new one.
 >
@@ -3052,7 +3000,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=49)** After deployment, you'll find your deployed model s listed under the deployments tab.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=56)** For example, I previously deployed a GPT-4 Omni model in an ADA embedding model.
+> **[0:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=56)** For example, I previously deployed a [[GPT-4]] Omni model in an ADA embedding model.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=66)** Now let's explore content filters.
 >
@@ -3100,11 +3048,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=232)** Use the deploy button at the top to choose where you want to deploy it.
 >
-> **[3:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=237)** A website, a Microsoft Teams app, or as a new Copilot in Copilot Studio.
+> **[3:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/azure-ai-studio-demo?u=76281980&t=237)** A website, a [[Microsoft Teams]] app, or as a new [[Microsoft Copilot|Copilot]] in Copilot Studio.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (4), [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Copilot|Copilot]] (2), [[GPT-4]] (1)
 > **Env Vars:** gpt (1), ada (1), rag (1)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
 > **Analogies:** for example (1), imagine (1)
@@ -3117,12 +3065,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of responsible use of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980)
+#### [Importance of responsible use of AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=0)** - [Instructor] Responsible AI ensures that artificial intelligence systems are designed, deployed, and used in secure, ethical, and legal ways.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=0)** - [Instructor] [[Responsible AI]] ensures that [[Artificial Intelligence (AI)|artificial intelligence]] systems are designed, deployed, and used in secure, ethical, and legal ways.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=11)** However, there are key challenges and risks that come with AI, often leading to unintended consequences.
 >
@@ -3140,7 +3087,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=63)** In addition, not all AI systems are user-friendly, especially for visually impaired or disabled users.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=73)** An example would be banking or healthcare systems that lack adequate accessibility features.
+> **[1:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=73)** An example would be [[Banking]] or healthcare systems that lack adequate accessibility features.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=81)** Users also often distrust AI systems that deliver unexplainable results.
 >
@@ -3148,11 +3095,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=95)** Finally, when AI systems fail, it's often unclear who is responsible for fixing the problem.
 >
-> **[1:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=103)** For example, open-source AI tools that enable misuse, like creating defects without clear accountability.
+> **[1:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=103)** For example, open-source AI tools that enable misuse, like creating defects without clear [[Accountability]].
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=114)** Without a responsible AI policy, companies risk lawsuits, fines, loss of trust, and damage to their brand reputation.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=125)** Microsoft follows six responsible AI principles, Fairness, Reliability & Safety, Privacy & Security, Inclusiveness, Transparency, and Accountability.
+> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=125)** [[Microsoft]] follows six responsible AI principles, Fairness, Reliability & Safety, [[Privacy]] & Security, Inclusiveness, Transparency, and Accountability.
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980&t=140)** In the upcoming videos, we'll explore explore these principles in more detail, sharing tips from the Microsoft Responsible AI Standard guide.
 >
@@ -3160,12 +3107,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Responsible AI]] (4), data (2), [[Accountability]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Accountability]] (2), [[Microsoft]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
-#### Achieving AI fairness
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980)
+#### [Achieving AI fairness](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3201,19 +3147,18 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980&t=116)** We conduct frequent audits to spot and address biases, examining model outputs across various demographic groups.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980&t=125)** We may also want to include diverse perspectives by involving social scientists, ethics, and domain experts in the development process.
+> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980&t=125)** We may also want to include diverse perspectives by involving social scientists, [[Ethics]], and domain experts in the development process.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-fairness?u=76281980&t=134)** By understanding and addressing bias, we can build a systems that are fair, more inclusive and more effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), leadership (1), data (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ai (1)
 
-#### Achieving AI reliability and safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-reliability-and-safety?u=76281980)
+#### [Achieving AI reliability and safety](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-reliability-and-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3267,18 +3212,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Troubleshooting]] (2), data (1), teams (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Achieving AI privacy and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980)
+#### [Achieving AI privacy and security](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=0)** - [Instructor] Ensuring the security and privacy of AI systems is crucial.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=0)** - [Instructor] Ensuring the security and [[Privacy]] of AI systems is crucial.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=5)** Protecting user data and using it ethically builds trust and prevents unauthorized access or misuse.
 >
@@ -3292,13 +3235,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=39)** Use multifactor authentication, MFA, to add an extra layer of security.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=44)** For example, Microsoft Entra ID requires users to enter a password and a six digit code from an authenticator app.
+> **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=44)** For example, [[Microsoft Entra ID]] requires users to enter a password and a six digit code from an authenticator app.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=52)** This ensures account safety, even if a password is compromised.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=57)** Encrypt data both in transit and address to protect sensitive information from unauthorized access.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=65)** Azure, for instance, encrypts data automatically, preventing unauthorized users from reading it.
+> **[1:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=65)** [[Microsoft Azure|Azure]], for instance, encrypts data automatically, preventing unauthorized users from reading it.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=72)** Limit access to data based on rules.
 >
@@ -3342,20 +3285,19 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=195)** Securing AI systems isn't just about protecting data.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=199)** It's about building trust and integrity.
+> **[3:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=199)** It's about [[Building Trust]] and integrity.
 >
-> **[3:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=202)** Implement these best practices to ensure your AI solutions are robust, ethical, and reliable.
+> **[3:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-privacy-and-security?u=76281980&t=202)** Implement these best practices to ensure your [[AI Solutions]] are robust, ethical, and reliable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Security]] (6), [[Privacy]] (4), ai (4), hr (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Entra ID]] (1), [[Microsoft Azure|Azure]] (1), [[Building Trust]] (1), [[AI Solutions]] (1)
 > **Analogies:** for example (3), for instance (2), such as (2)
 > **Env Vars:** mfa (1), gpdr (1)
 > **Definitions:** we call this (2)
 > **Speakers:** - [instructor] (1)
 
-#### Achieving AI inclusivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980)
+#### [Achieving AI inclusivity](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3363,7 +3305,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=5)** They should benefit all parts of society regardless of physical ability, gender, sexual orientation, ethnicity, or other factors.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=15)** One great example is seeing AI, a free app that uses artificial intelligence to describe the visual world for individuals who are blind or have low vision.
+> **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=15)** One great example is seeing AI, a free app that uses [[Artificial Intelligence (AI)|artificial intelligence]] to describe the visual world for individuals who are blind or have low vision.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=25)** It embodies inclusive design principles by addressing diverse user needs.
 >
@@ -3383,7 +3325,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=78)** Second, we need to learn from diversity.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=81)** If we base decisions so only on our own biases, we risk creating products that only serve a narrow group.
+> **[1:21](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=81)** If we base decisions so only on our own biases, we risk creating [[Microsoft Products|products]] that only serve a narrow group.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=88)** Instead, we must actively seek out diverse perspectives and include them in the design process.
 >
@@ -3413,19 +3355,18 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=172)** Put yourself in others' shoes to understand the unique challenges faced by various users, including the elderly and people with disabilities.
 >
-> **[3:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=183)** To dive deeper into these principles, visit Inclusive Design at Microsoft.
+> **[3:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=183)** To dive deeper into these principles, visit Inclusive Design at [[Microsoft]].
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-inclusivity?u=76281980&t=188)** By embedding these ideas into our development processes, we can make technology that truly empowers all.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Achieving AI transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980)
+#### [Achieving AI transparency](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3439,7 +3380,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=31)** Transparency can be broken down into three key areas.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=35)** First, system intelligibility for decision-making.
+> **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=35)** First, system intelligibility for [[Decision-Making]].
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=39)** This is ensuring that AI system outputs are clear and support stakeholder needs.
 >
@@ -3459,11 +3400,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=100)** In addition, use explicit consent mechanisms such as a checkbox to ensure users are informed and agree to the use of AI.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=109)** To enhance transparency in AI systems, consider these strategies. Provide detailed documentation that explains how the system functions, including algorithms, data sources, and decision-making processes.
+> **[1:49](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=109)** To enhance transparency in AI systems, consider these strategies. Provide detailed documentation that explains how the system functions, including [[Algorithms]], data sources, and decision-making processes.
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=122)** This helps stakeholders understand both the system strengths and limitations.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=128)** Tools like interpret ML from Microsoft Research, or the Model Interpretability feature in Azure machine learning can help explain model decisions, making them more transparent.
+> **[2:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=128)** Tools like interpret ML from [[Microsoft]] Research, or the Model Interpretability feature in [[Microsoft Azure|Azure]] machine learning can help explain model decisions, making them more transparent.
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-transparency?u=76281980&t=140)** Disclose AI use in a straightforward manner.
 >
@@ -3485,17 +3426,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Decision-Making]] (2), [[Algorithms]] (1), data (1), strengths (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Algorithms]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [speaker] (1)
 
-#### Achieving AI accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980)
+#### [Achieving AI accountability](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=0)** - [Speaker] Accountability is crucial when it comes to AI systems.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=0)** - [Speaker] [[Accountability]] is crucial when it comes to AI systems.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=5)** Designers and developers must operate within a clear framework of governance, ensuring their solutions meet defined ethical and legal standards.
 >
@@ -3525,7 +3465,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=101)** Each system must have clear documentation, outlining its purpose, how it processes inputs and outputs, criteria for deployment and ongoing performance monitoring.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=113)** There should also be data governance and management.
+> **[1:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=113)** There should also be [[Data Governance]] and management.
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=117)** High-quality relevant data is the foundation of any effective AI system.
 >
@@ -3539,21 +3479,20 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=150)** Ensuring accountability in AI is not just about avoiding legal repercussions.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=156)** It's about building trust and promoting responsible ethical innovation.
+> **[2:36](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=156)** It's about [[Building Trust]] and promoting responsible ethical innovation.
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/achieving-ai-accountability?u=76281980&t=161)** By implementing strong governance, conducting regular assessments, and maintaining transparency, organizations can develop AI systems that serve the best interests of all stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (4), [[Accountability]] (3), management (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Data Governance]] (1), [[Building Trust]] (1)
 > **Speakers:** - [speaker] (1)
 
-#### Real-life samples of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980)
+#### [Real-life samples of responsible AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=0)** - [Instructor] Instead of highlighting companies that have successfully implemented responsible AI, let's first examine those that didn't and the impact it had on their businesses.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=0)** - [Instructor] Instead of highlighting companies that have successfully implemented [[Responsible AI]], let's first examine those that didn't and the impact it had on their businesses.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=11)** In May 2023, Meta faced a record 1.2 billion euros in fines for violating GDPR rules.
 >
@@ -3563,9 +3502,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=43)** It remains unclear when data scraping began for US users.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=47)** While users in Europe can opt out of data sharing, this option isn't available elsewhere.
+> **[0:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=47)** While users in Europe can opt out of [[Data Sharing]], this option isn't available elsewhere.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=53)** Despite outcry from users and privacy watchdogs, there's currently no way to prevent Meta AI from accessing public social media posts due to the lack of specific privacy laws in the US.
+> **[0:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=53)** Despite outcry from users and [[Privacy]] watchdogs, there's currently no way to prevent Meta AI from accessing public social media posts due to the lack of specific privacy laws in the US.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=66)** Amazon developed an AI recruitment tool in 2014 that was eventually scrapped.
 >
@@ -3581,17 +3520,17 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=121)** Now let's look at some responsible AI practices.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=125)** Microsoft has banned US police departments from using its generative AI for facial recognition via the Azure OpenAI Service.
+> **[2:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=125)** [[Microsoft]] has banned US police departments from using its [[Generative AI]] for facial recognition via the [[Microsoft Azure|Azure]] OpenAI Service.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=134)** This decision came after research highlighted the risk of racial bias, particularly against people with darker skin tones.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=142)** Microsoft also removed emotion recognition from their Face API in June 2022, citing concerns over bias, discrimination, and privacy.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=152)** These examples illustrate the serious consequences companies can face when they fail to implement responsible AI practices, emphasizing the importance of transparency, fairness, and accountability in AI development.
+> **[2:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=152)** These examples illustrate the serious consequences companies can face when they fail to implement responsible AI practices, emphasizing the importance of transparency, fairness, and [[Accountability]] in AI development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (4), [[Responsible AI]] (3), [[Privacy]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (3), [[Microsoft]] (2), [[Data Sharing]] (1), [[Generative AI]] (1)
 > **Env Vars:** gdpr (1), api (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - [instructor] (1)
@@ -3601,32 +3540,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft AI approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980)
+#### [Microsoft AI approach](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=0)** - [Instructor] In previous chapters and videos, we've covered Azure Machine Learning and Azure AI.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=0)** - [Instructor] In previous chapters and videos, we've covered [[Microsoft Azure|Azure]] Machine Learning and Azure AI.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=6)** Now let's explore Microsoft's AI approach to understand the broader Microsoft AI system and how Azure ML and Azure AI fit within it.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=6)** Now let's explore [[Microsoft]]'s AI approach to understand the broader Microsoft AI system and how Azure ML and Azure AI fit within it.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=16)** Microsoft aims to democratize AI by offering solutions and services that make AI accessible to everyone regardless of their expertise.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=26)** There are four main approaches, each requiring different levels of AI and coding skills.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=33)** Microsoft Copilot brings AI to everyday tasks by embedding it directly into familiar applications like Microsoft 365 and Dynamics 365.
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=33)** [[Microsoft Copilot]] brings AI to everyday tasks by embedding it directly into familiar applications like [[Microsoft 365]] and Dynamics 365.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=44)** We've seen how Copilot for Microsoft 365 and Dynamics can streamline tasks such as emails, document creation, spreadsheets, and presentations, making AI a seamless part of daily work.
+> **[0:44](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=44)** We've seen how [[Microsoft Copilot|Copilot]] for Microsoft 365 and Dynamics can streamline tasks such as emails, document creation, spreadsheets, and presentations, making AI a seamless part of daily work.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=57)** Copilot is designed to be fully integrated, transparent, and secure with no complex setup required.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=64)** When standard Microsoft 365 or Dynamics 365 features don't meet specific business needs, the Power platform offers low code and no code tools to bridge the gap.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=75)** With services like Power BI, Power Apps, Power Automate, Copilot Studio, and Power Pages, even users with limited coding experience can build reports, apps, automations, Copilots, and websites.
+> **[1:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=75)** With services like [[Microsoft Power BI|Power BI]], Power Apps, Power Automate, Copilot Studio, and Power Pages, even users with limited coding experience can build reports, apps, automations, Copilots, and websites.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=89)** Copilot for Power Platform accelerates the development process within these tools.
 >
-> **[1:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=95)** Azure AI provides flexibility for businesses to deploy AI solutions using pre-trained models for language, vision, document intelligence, and many more.
+> **[1:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=95)** Azure AI provides flexibility for businesses to deploy [[AI Solutions]] using pre-trained models for language, vision, document intelligence, and many more.
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980&t=106)** These models help solve business challenges without needing to start from scratch.
 >
@@ -3642,23 +3580,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (8), power (7), [[Microsoft Copilot|Copilot]] (5), [[Microsoft]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Copilot|Copilot]] (5), [[Microsoft]] (4), [[Microsoft 365]] (3), [[Microsoft Copilot]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an AI strategy for your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980)
+#### [Creating an AI strategy for your business](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=0)** - [Instructor] Now that you've learned key concepts about AI, the next question is, how do you implement AI in your business?
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=8)** Microsoft's Building a Foundation for AI Success, A Leader's Guide, offers a clear framework based on their experiences and insights from customers, partners, and industry leaders.
+> **[0:08](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=8)** [[Microsoft]]'s Building a Foundation for AI Success, A Leader's Guide, offers a clear framework based on their experiences and insights from customers, partners, and industry leaders.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=20)** The guide highlights five categories that create a sustainable and responsible AI strategy.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=20)** The guide highlights five categories that create a sustainable and [[Responsible AI]] strategy.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=27)** First, we need to define our business strategy.
 >
@@ -3668,7 +3605,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=41)** Identify AI use cases.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=43)** Once needs are clear, pinpoint use cases that align with your goals, like streamlining tasks, predictive maintenance, or innovating new products.
+> **[0:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=43)** Once needs are clear, pinpoint use cases that align with your goals, like streamlining tasks, predictive maintenance, or innovating new [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=54)** Prioritize use cases.
 >
@@ -3700,11 +3637,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=108)** Choose between developing in-house solutions or purchasing existing ones and even consider hybrid options.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=115)** Plan for regulatory compliance.
+> **[1:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=115)** Plan for [[Regulatory Compliance]].
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=118)** Safeguard your AI assets and ensure compliance from the start.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=123)** Third category would be AI strategy and experience.
+> **[2:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=123)** Third category would be [[AI Strategy]] and experience.
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=127)** Start building a diverse team.
 >
@@ -3732,7 +3669,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=173)** Equip your workforce with the necessary AI skills and training.
 >
-> **[2:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=177)** The last category would be AI governance.
+> **[2:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=177)** The last category would be [[AI Governance]].
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/creating-an-ai-strategy-for-your-business?u=76281980&t=180)** Companies should create their own responsible AI principles.
 >
@@ -3750,21 +3687,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (10), [[Responsible AI]] (5), [[Microsoft]] (3), data (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Microsoft]] (3), [[Microsoft Products|Products]] (1), [[Regulatory Compliance]] (1), [[AI Strategy]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI opportunities in different industries
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980)
+#### [AI opportunities in different industries](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=0)** - [Instructor] Throughout this course, we've explored the vast features of Azure AI.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=0)** - [Instructor] Throughout this course, we've explored the vast features of [[Microsoft Azure|Azure]] AI.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=4)** Now let's dive into how these tools can drive innovation across various industries.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=10)** Azure AI offers several impactful solutions in healthcare.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=14)** Azure AI document intelligence, reduces time spent extracting data from research papers, databases, and experimental findings.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=14)** Azure AI document intelligence, reduces time spent extracting data from research papers, [[Databases]], and experimental findings.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=23)** Azure Open AI helps researchers gain insights from vast data sets using natural language queries.
 >
@@ -3776,13 +3712,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=55)** In finance, Azure AI streamlines and secures operations.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=60)** AI document intelligence automates processing of documents such as invoices, tax forms, and identity documents.
+> **[1:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=60)** AI document intelligence automates processing of documents such as invoices, tax [[Forms]], and identity documents.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=69)** Azure Open AI boosts productivity by drafting emails, summarizing meetings, and recommending actions, all while ensuring compliance.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=79)** Machine learning enhances security by detecting fraudulent transactions in real time.
 >
-> **[1:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=86)** AI language enables solutions that answer complex questions about financial products.
+> **[1:26](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=86)** AI language enables solutions that answer complex questions about financial [[Microsoft Products|products]].
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=92)** Retail businesses can optimize operations and enhance customer experience with Azure AI.
 >
@@ -3790,7 +3726,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=106)** Azure Open AI suggests products based on browsing history or past purchases.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=111)** Machine learning forecast inventory needs, improving the supply chain management.
+> **[1:51](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=111)** Machine learning forecast inventory needs, improving the [[Supply Chain Management]].
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=118)** AI vision analyzes shopper behavior through CCTV footages, providing insights on store layout and customer preferences.
 >
@@ -3810,27 +3746,26 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=166)** These are just a few examples.
 >
-> **[2:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=168)** For more insights, check out the Microsoft Learn module on Transform Your Business with Microsoft AI, which covers various industries including healthcare, finance, retail, and manufacturing.
+> **[2:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=168)** For more insights, check out the [[Microsoft]] Learn module on Transform Your Business with Microsoft AI, which covers various industries including healthcare, finance, retail, and manufacturing.
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/ai-opportunities-in-different-industries?u=76281980&t=183)** Learn more here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Microsoft Azure|Azure]] (11), data (4), [[Microsoft Products|Products]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Microsoft Products|Products]] (2), [[Microsoft]] (2), [[Databases]] (1), [[Forms]] (1)
 > **Env Vars:** cctv (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Career opportunities in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980)
+#### [Career opportunities in AI](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=0)** - [Instructor] Azure AI opens up numerous career opportunities for those with AI experience, as well as for those looking to gain expertise in this exciting field.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI opens up numerous career opportunities for those with AI experience, as well as for those looking to gain expertise in this exciting field.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=10)** Here are some key roles to consider.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=13)** AI engineers design and implement AI models and algorithms to solve specific problems.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=13)** AI engineers design and implement AI models and [[Algorithms]] to solve specific problems.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=19)** With Azure Machine Learning, they can easily handle data preprocessing, model training, evaluation, and optimization.
 >
@@ -3848,13 +3783,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=80)** AI trainers upskill teams by identifying skill gaps and delivering tailored Azure AI training programs.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=87)** AI ethics specialists ensure AI systems are fair, transparent, and privacy-respecting, using Azure AI and Microsoft's responsible AI practices to design ethical solutions.
+> **[1:27](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=87)** AI [[Ethics]] specialists ensure AI systems are fair, transparent, and [[Privacy]]-respecting, using Azure AI and [[Microsoft]]'s [[Responsible AI]] practices to design ethical solutions.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=102)** Solution architects can also leverage Azure AI to design scalable, secure, and compliant AI solutions that seamlessly integrate with existing systems.
+> **[1:42](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=102)** Solution architects can also leverage Azure AI to design scalable, secure, and compliant [[AI Solutions]] that seamlessly integrate with existing systems.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=113)** Azure AI knowledge isn't just for tech roles.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=116)** It's also valuable for business managers, who use AI insights to drive strategic decisions and operational efficiency, leading to career growth, business analysts applying AI for data-driven strategy recommendations, marketing managers leveraging AI to analyze market trends, optimize campaigns, and understand customer behavior, sales managers utilizing AI to identify sales opportunities and personalized sales approaches, operations managers integrating AI for process automation, predictive maintenance, and supply chain efficiency, finance managers enhancing forecasting, risk assessment, and investment analysis through AI-driven insights, and finally,
+> **[1:56](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=116)** It's also valuable for business managers, who use AI insights to drive strategic decisions and operational efficiency, leading to career growth, business analysts applying AI for data-driven strategy recommendations, marketing managers leveraging AI to analyze market trends, optimize campaigns, and understand customer behavior, sales managers utilizing AI to identify sales opportunities and personalized sales approaches, operations managers integrating AI for process automation, predictive maintenance, and supply chain efficiency, finance managers enhancing [[Forecasting]], risk assessment, and investment analysis through AI-driven insights, and finally,
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/career-opportunities-in-ai?u=76281980&t=166)** even customer service representatives using AI tools like chatbots to improve engagement and streamline customer interactions.
 >
@@ -3862,7 +3797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), [[Microsoft Azure|Azure]] (11), data (4), business (3), career (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Algorithms]] (1), [[Ethics]] (1), [[Privacy]] (1), [[Microsoft]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -3870,8 +3805,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways from the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980)
+#### [Key takeaways from the course](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3879,21 +3813,21 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=5)** Let's recap what we've covered.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=7)** We began by exploring the fundamentals of artificial intelligence, and then we looked at various areas within AI.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=7)** We began by exploring the fundamentals of [[Artificial Intelligence (AI)|artificial intelligence]], and then we looked at various areas within AI.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=15)** Machine learning is the foundation of AI systems, enabling models to learn from data and make predictions.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=23)** Tools like Azure Machine Learning help in creating these models.
+> **[0:23](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=23)** Tools like [[Microsoft Azure|Azure]] Machine Learning help in creating these models.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=29)** Computer vision allows systems to interpret visual information through images and video.
+> **[0:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=29)** [[Computer Vision]] allows systems to interpret visual information through images and video.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=35)** Azure AI Vision, Custom Vision, and AI Face offer diverse features to cater to different needs in this area.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=45)** Natural language processing, NLP, enables systems to understand and respond to written or spoken language.
+> **[0:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=45)** [[Natural Language Processing (NLP)|Natural language processing]], NLP, enables systems to understand and respond to written or spoken language.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=54)** Azure AI Language, Translator, and Speech help extract insights from natural language.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=62)** Document Intelligence automates the processing of large volumes of data from forms and documents.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=62)** Document Intelligence automates the processing of large volumes of data from [[Forms]] and documents.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=70)** Azure AI Document Intelligence can handle both images and text documents, extracting key information.
 >
@@ -3901,27 +3835,27 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=88)** Azure AI Content Safety detects harmful content across different applications.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=94)** Knowledge Mining extracts useful information from unstructured data to create searchable knowledge bases.
+> **[1:34](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=94)** Knowledge Mining extracts useful information from [[Unstructured Data]] to create searchable knowledge bases.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=101)** Azure AI search facilitates secure information retrieval at scale.
+> **[1:41](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=101)** Azure AI search facilitates secure [[Information Retrieval]] at scale.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=107)** Generative AI creates original content, such as texts, images, and code.
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=107)** [[Generative AI]] creates original content, such as texts, images, and code.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=113)** Copilots are embedded chat applications powered by generative AI to assist business users.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=119)** While Azure AI Foundry allows you to build custom models.
+> **[1:59](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=119)** While [[Azure AI Foundry]] allows you to build custom models.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=124)** Throughout, we saw real world examples of companies leveraging Azure AI for these technologies.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=131)** Next, we also dive into responsible AI, discussing why it is essential for companies.
+> **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=131)** Next, we also dive into [[Responsible AI]], discussing why it is essential for companies.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=137)** We also covered Microsoft's six responsible AI principles, fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+> **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=137)** We also covered [[Microsoft]]'s six responsible AI principles, fairness, reliability and safety, [[Privacy]] and security, inclusiveness, transparency, and [[Accountability]].
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=150)** We shared practical tips on how to implement these principles effectively.
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=155)** We then explored how businesses can harness AI.
 >
-> **[2:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=159)** We discussed Microsoft's AI approach, highlighting how Copilot is integrated into Microsoft's products to boost employee productivity.
+> **[2:39](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=159)** We discussed Microsoft's AI approach, highlighting how [[Microsoft Copilot|Copilot]] is integrated into Microsoft's [[Microsoft Products|products]] to boost employee productivity.
 >
 > **[2:48](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980&t=168)** We also provided a framework for leaders to ensure AI success.
 >
@@ -3937,21 +3871,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), data (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), [[Generative AI]] (2), [[Responsible AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** we discussed (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resources for further learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980)
+#### [Resources for further learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=0)** - [Instructor] The world of AI is vast and ever-evolving, offering endless opportunities to learn.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=6)** Microsoft helps you stay ahead by providing comprehensive documentation, hands-on training, and certifications that maximize your use of their products.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=6)** [[Microsoft]] helps you stay ahead by providing comprehensive documentation, hands-on training, and certifications that maximize your use of their [[Microsoft Products|products]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=17)** If you're approaching AI from a business perspective, start with the Transform Your Business with Microsoft AI learning path on Microsoft Learn.
 >
@@ -3965,31 +3898,31 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=58)** For real world examples, visit customers.[microsoft.com](https://microsoft.com) to see how companies are using Microsoft AI services to drive transformation.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=69)** For those focused on technical AI, dive into the Azure AI Services documentation.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=69)** For those focused on technical AI, dive into the [[Microsoft Azure|Azure]] AI Services documentation.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=76)** Start with what's most relevant to your needs.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=80)** Generative AI, for example, is currently gaining a lot of attention.
+> **[1:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=80)** [[Generative AI]], for example, is currently gaining a lot of attention.
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=84)** Microsoft Learn also offers a comprehensive list of services to explore.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=89)** Certifications are also a great way to validate your skills.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=93)** You may want to start with the Azure AI Fundamentals, which introduces core concepts and paves the way to more advanced certifications like AI engineering and data engineering.
+> **[1:33](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=93)** You may want to start with the Azure AI Fundamentals, which introduces core concepts and paves the way to more advanced certifications like AI engineering and [[Data Engineering]].
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=105)** For those seeking a challenge, the Azure AI Engineer Associate Certification showcases your ability to build, manage, and deploy AI solutions on Azure.
+> **[1:45](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=105)** For those seeking a challenge, the Azure AI Engineer Associate Certification showcases your ability to build, manage, and deploy [[AI Solutions]] on Azure.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=117)** Additionally, the applied skill certifications in areas like NLP, Computer Vision, and Generative AI provide hands-on scenario-based training along with badges to showcase your skills.
+> **[1:57](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=117)** Additionally, the applied skill certifications in areas like NLP, [[Computer Vision]], and Generative AI provide hands-on scenario-based training along with badges to showcase your skills.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=131)** Finally, you may want to bookmark Microsoft Learn.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=135)** It's your hub for everything AI.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=137)** From technical documentation to interactive code samples and Q&A, it's designed to help you learn by doing and staying updated on the latest developments.
+> **[2:17](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/resources-for-further-learning?u=76281980&t=137)** From [[Technical Documentation]] to interactive code samples and Q&A, it's designed to help you learn by doing and staying updated on the latest developments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), business (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), [[Generative AI]] (2), [[Microsoft Products|Products]] (1), [[Data Engineering]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** for example (1)

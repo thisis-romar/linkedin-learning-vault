@@ -50,12 +50,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The quiet shift in how developers are writing code
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
+#### [The quiet shift in how developers are writing code](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980&t=0)** - Something different is happening in the world of software development, and it's a revolution called vibe coding.
+> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980&t=0)** - Something different is happening in the world of [[Software Development]], and it's a revolution called [[Vibe Coding]].
 >
 > **[0:06](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980&t=6)** Loved by some and reviled by others, the technique is gaining acceptance by new and experienced developers.
 >
@@ -71,7 +70,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vibe Coding]] (3), [[Software Development]] (2), ai (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (3), [[Software Development]] (2)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - something (1)
 
@@ -80,24 +79,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What happens when AI starts writing code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)
+#### [What happens when AI starts writing code?](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=0)** - What if coding wasn't about writing syntax, but about describing what you want and letting the AI handle the rest?
+> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=0)** - What if coding wasn't about writing syntax, but about describing what you want and letting the AI handle the [[Representational State Transfer (REST)|rest]]?
 >
-> **[0:07](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=7)** Vibe coding is an emerging AI first approach to software development that replaces traditional code writing with conversational prompting.
+> **[0:07](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=7)** [[Vibe Coding]] is an emerging AI first approach to [[Software Development]] that replaces traditional code writing with conversational prompting.
 >
 > **[0:16](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=16)** The term was popularized in early 2025 by Andrej Karpathy, a prominent AI researcher, known for his work at OpenAI and Tesla.
 >
 > **[0:27](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=27)** He described it as, "The process of describing goals in natural language, letting advance models handle implementation and iterating quickly without worrying too much about the underlying code."
 >
-> **[0:40](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=40)** Instead of writing code line by line, developers describe goals in natural language, and then large language models generate and refine the code in response.
+> **[0:40](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=40)** Instead of writing code line by line, developers describe goals in natural language, and then [[Large Language Models (LLM)|large language models]] generate and refine the code in response.
 >
-> **[0:51](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=51)** You'll find that vibe coding shows up in a bunch of different forms, depending on the problem you're trying to solve.
+> **[0:51](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=51)** You'll find that vibe coding shows up in a bunch of different [[Forms]], depending on the problem you're trying to solve.
 >
-> **[0:57](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=57)** Some tools are made for rapid prototyping, perfect for throwing out ideas really fast.
+> **[0:57](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=57)** Some tools are made for rapid [[Prototyping]], perfect for throwing out ideas really fast.
 >
 > **[1:02](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980&t=62)** Mucking up a UI, building a minimum viable product or MVP, or spinning something for internal use.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Vibe Coding]] (2), [[Software Development]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (2), [[Software Development]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** it's like (1), for example (1)
@@ -158,12 +156,11 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - what (1)
 
-#### The AI-driven tools changing how code is written
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980)
+#### [The AI-driven tools changing how code is written](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=0)** - Whether you're brand new into coding, or deep into production work, there's a vibe coding approach that will fit for you.
+> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=0)** - Whether you're brand new into coding, or deep into production work, there's a [[Vibe Coding]] approach that will fit for you.
 >
 > **[0:06](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=6)** Now, vibe coding isn't just about writing less code, it's about using the right platform for where you are in your programming journey.
 >
@@ -175,15 +172,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=34)** This approach really took off when Anthropic introduced Claude Artifacts.
 >
-> **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=38)** That's a feature that lets you build live dashboards, tools, and interfaces directly in a chat window.
+> **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=38)** That's a feature that lets you build live [[Dashboards]], tools, and interfaces directly in a chat window.
 >
 > **[0:45](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=45)** You can prompt it with something like, "Create a dashboard for analyzing video performance using the most relevant visualizations from D3."
 >
 > **[0:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=54)** Claude will handle the generation and gives you a preview that you can click into, inspect, and even share with others.
 >
-> **[1:03](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=63)** It understands how to run Python and React code, pull in popular libraries, and format things cleanly.
+> **[1:03](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=63)** It understands how to run [[Python (Programming Language)|Python]] and [[React.js|React]] code, pull in popular libraries, and format things cleanly.
 >
-> **[1:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=70)** Now ChatGPT, Google Gemini, Microsoft Copilot, and others offer similar features.
+> **[1:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=70)** Now [[ChatGPT]], [[Google Gemini]], [[Microsoft Copilot]], and others offer similar features.
 >
 > **[1:17](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=77)** You can run Python code directly into these tools.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=149)** Now this makes it specially useful for product teams or non-technical founders who want to move quickly and stay involved in that process.
 >
-> **[2:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=158)** Prototyping is where vibe coding really shines.
+> **[2:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=158)** [[Prototyping]] is where vibe coding really shines.
 >
 > **[2:41](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=161)** It's the fastest way to get your idea out of your head and into something people can see, test, and use.
 >
@@ -225,9 +222,9 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=181)** Bolt.new is built for this.
 >
-> **[3:04](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=184)** You describe what you want to build and it gives you a real-time development environment in the browser.
+> **[3:04](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=184)** You describe what you want to build and it gives you a [[Real-Time]] development environment in the browser.
 >
-> **[3:09](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=189)** It supports full stack apps, frameworks like Next.js or Svelte, and even mobile via Expo.
+> **[3:09](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=189)** It supports full stack apps, frameworks like [[Next.js]] or Svelte, and even mobile via Expo.
 >
 > **[3:16](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=196)** The more detailed your prompt, the better the results.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=224)** Replit takes a slightly different angle.
 >
-> **[3:47](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=227)** Their agent walks you through the process, generating, structuring, and even debugging code as it builds.
+> **[3:47](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=227)** Their agent walks you through the process, generating, structuring, and even [[Debugging Code]] as it builds.
 >
 > **[3:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=234)** The newer version can reconsider approaches when it runs into blockers, which makes it surprisingly resilient.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=305)** it's particularly strong when used with Next.js, making it a go-to for teams that want to scaffold real shippable UIs fast.
 >
-> **[5:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=313)** It also supports Svelte, and View, and raw HTML, but it's especially optimized for developers in the React ecosystem.
+> **[5:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=313)** It also supports Svelte, and View, and raw [[HTML]], but it's especially optimized for developers in the React ecosystem.
 >
 > **[5:21](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=321)** Windsurf takes a more structure and beginner-friendly approach.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=369)** Like many modern AI editors, it's built on Visual Studio Code.
 >
-> **[6:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=373)** So again, it feels familiar if you've used a copilot or other dev tools.
+> **[6:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=373)** So again, it feels familiar if you've used a [[Microsoft Copilot|copilot]] or other dev tools.
 >
 > **[6:18](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=378)** What sets it apart is how deeply it integrates AI features, like codebase-wide context, multi-file editing, and smart refactoring.
 >
@@ -313,11 +310,11 @@ created: 2026-05-02
 >
 > **[6:59](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=419)** It's especially useful in large codebases where you want to stay productive without constantly jumping between files.
 >
-> **[7:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=425)** Now GitHub Copilot, on the other hand, is one of the most familiar names in AI coding.
+> **[7:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=425)** Now [[GitHub Copilot]], on the other hand, is one of the most familiar names in AI coding.
 >
 > **[7:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=430)** And its tight integration with Visual Studio Code is no accident.
 >
-> **[7:14](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=434)** GitHub is owned by Microsoft, and VS Code is built by Microsoft, which gives Copilot superior integration into that ecosystem.
+> **[7:14](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=434)** [[GitHub]] is owned by [[Microsoft]], and VS Code is built by Microsoft, which gives Copilot superior integration into that ecosystem.
 >
 > **[7:22](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=442)** So you can say something like, "Build a task manager with a sidebar for categories, a main panel for tasks, and support for marking items complete."
 >
@@ -325,13 +322,13 @@ created: 2026-05-02
 >
 > **[7:40](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=460)** Copilot is going to shine when you're already using the GitHub site.
 >
-> **[7:44](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=464)** Things like code review, pull requests, and repos will also have access to Copilot on the website.
+> **[7:44](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=464)** Things like [[Code Review]], pull requests, and repos will also have access to Copilot on the website.
 >
 > **[7:50](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=470)** It's a really nice integration between all the different tools.
 >
 > **[7:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=474)** So it's always going to be there through your entire coding workflow, giving you suggestions for release notes, letting you ask questions about your codebase on the [GitHub.com](https://GitHub.com) website.
 >
-> **[8:04](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=484)** Now some developers prefer to work entirely in the terminal, and tools like Claude Code and the Open AI Codex CLI are built for exactly that.
+> **[8:04](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=484)** Now some developers prefer to work entirely in the terminal, and tools like Claude Code and the Open AI Codex [[CLI]] are built for exactly that.
 >
 > **[8:15](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=495)** These agents can integrate with your local development environment, offering the same intelligence as chat-based tools, but without the context switching.
 >
@@ -359,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Vibe Coding]] (5), [[Microsoft Copilot|Copilot]] (4), prompt (3), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[Vibe Coding]] (5), [[Microsoft Copilot|Copilot]] (4), [[React.js|React]] (3), [[Next.js]] (3), [[GitHub]] (3)
 > **Tools:** terminal (4), github (4), visual studio (3), vs code (2), command line (2)
 > **Env Vars:** cli (3), css (1), html (1), ide (1)
 > **CLI Commands:** make (3), python (2)
@@ -368,18 +365,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), install (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Setup can make or break your vibe coding experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980)
+#### [Setup can make or break your vibe coding experience](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=0)** - Great vibe coding doesn't start with a prompt.
+> **[0:00](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=0)** - Great [[Vibe Coding]] doesn't start with a prompt.
 >
 > **[0:02](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=2)** It starts with setting up your tools the right way.
 >
 > **[0:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=5)** Now the choices you make can help you save time, money, and frustration.
 >
-> **[0:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=10)** In this video, I'm going to really target more advanced developers who are working with tools like Cursor or GitHub Copilot that let you have a little bit more control over how things work.
+> **[0:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=10)** In this video, I'm going to really target more advanced developers who are working with tools like Cursor or [[GitHub Copilot]] that let you have a little bit more control over how things work.
 >
 > **[0:21](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=21)** Although some of the other tools may have similar features.
 >
@@ -393,13 +389,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=61)** It's often the default for many platforms, but on more advanced tools, you get full access to many other choices.
 >
-> **[1:08](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=68)** ChatGPT 4.1 by OpenAI is a new model that was created specifically with coding in mind.
+> **[1:08](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=68)** [[ChatGPT]] 4.1 by OpenAI is a new model that was created specifically with coding in mind.
 >
 > **[1:15](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=75)** It's not available in the regular version of ChatGPT, and it's only available for developers for use inside projects.
 >
 > **[1:23](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=83)** It excels in clean code generation and accurate change identification, making it suitable for tasks that require precise code modifications.
 >
-> **[1:31](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=91)** If you're going by how these models are tested, then technically, Gemini 2.5 Pro is the leader when it comes to models used for software development as of this video.
+> **[1:31](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=91)** If you're going by how these models are tested, then technically, [[Gemini]] 2.5 Pro is the leader when it comes to models used for [[Software Development]] as of this video.
 >
 > **[1:43](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=103)** But that does change pretty often, sometimes week per week.
 >
@@ -421,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=172)** The new o3 and o4 series do something that is unique.
 >
-> **[2:57](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=177)** They can use tools during the reasoning phase to take care of problems, so they can run some Python code and do some analysis or calculations based on what they're asked.
+> **[2:57](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=177)** They can use tools during the reasoning phase to take care of problems, so they can run some [[Python (Programming Language)|Python]] code and do some analysis or calculations based on what they're asked.
 >
 > **[3:08](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=188)** Claude 3.7 offers a hybrid reasoning approach where the model decides when it needs to reason further about a topic.
 >
@@ -437,7 +433,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=237)** Now although I think benchmarks are important, you should definitely try out different models and experiments with which ones work well for you.
 >
-> **[4:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=245)** Most developers do love the Claude series though, Google Gemini and ChatGPT 4.1 are also pretty good, and a lot of people are experimenting with some of the reasoning models like o3, o4, and Claude 3.7.
+> **[4:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=245)** Most developers do love the Claude series though, [[Google Gemini]] and ChatGPT 4.1 are also pretty good, and a lot of people are experimenting with some of the reasoning models like o3, o4, and Claude 3.7.
 >
 > **[4:19](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=259)** As good as the models are, they're not free.
 >
@@ -457,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Vibe Coding]] (3), [[Gemini]] (3), api (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Vibe Coding]] (3), [[Gemini]] (3), [[GitHub Copilot]] (1), [[Software Development]] (1)
 > **Versions:** 3.5 (3), 4.1 (2), 3.7 (2), 2.5 (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** api (2), llm (1)
@@ -465,8 +461,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - great (1)
 
-#### System prompts: The most overlooked step in vibe coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980)
+#### [System prompts: The most overlooked step in vibe coding](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=37)** So both approaches help you maintain consistency when running your prompts, and each application will have a different place where you can do this.
 >
-> **[0:45](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=45)** Whether you're new to coding or have some experience, it's a good idea to test out your prompts with a tool like the Claude Console or ChatGPT.
+> **[0:45](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=45)** Whether you're new to coding or have some experience, it's a good idea to test out your prompts with a tool like the Claude Console or [[ChatGPT]].
 >
 > **[0:55](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=55)** You want to describe what you want to build even in plain language, and they can help you shape a more effective starting point for a system prompt.
 >
@@ -494,7 +489,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=92)** This gives the AI a chance to gather important context first and helps you avoid having to correct assumptions later.
 >
-> **[1:39](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=99)** From there, the system prompt you create together with your chat bots can serve as a foundation for your vibe coding session.
+> **[1:39](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=99)** From there, the system prompt you create together with your chat bots can serve as a foundation for your [[Vibe Coding]] session.
 >
 > **[1:46](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=106)** Even if you're just starting out and don't have strong preferences, it still helps to set the direction.
 >
@@ -516,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=167)** You might get code in a language you're not using or see tools that are introduced that don't fit your project.
 >
-> **[2:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=174)** So for example, you can say something as simple as, "Use JavaScript, not TypeScript or Python," "Use react for UI components," "Style everything with Tailwind CSS," "Avoid using external libraries unless specified."
+> **[2:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=174)** So for example, you can say something as simple as, "Use [[JavaScript]], not TypeScript or [[Python (Programming Language)|Python]]," "Use [[React.js|react]] for UI components," "Style everything with Tailwind CSS," "Avoid using external libraries unless specified."
 >
 > **[3:08](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=188)** So that will help the AI's do the right thing and continue to work within preset parameters that developers will understand.
 >
@@ -524,7 +519,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=205)** For instance, React is the most widely used front-end framework for building interactive content.
 >
-> **[3:31](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=211)** But if you know your team is working with Vue, that's also important to include.
+> **[3:31](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=211)** But if you know your team is working with [[Vue.js|Vue]], that's also important to include.
 >
 > **[3:35](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=215)** Similarly, Tailwind is a common CSS framework, and JavaScript libraries like D3 are well suited for visualizing data as long as you want to build interactive web components.
 >
@@ -538,15 +533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (8), data (3), [[Vibe Coding]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Vibe Coding]] (2), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2), [[React.js|React]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
-#### What makes a good prompt in vibe coding?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980)
+#### [What makes a good prompt in vibe coding?](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=35)** Stay open to what it suggests.
 >
-> **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=38)** That's why it's called vibe coding.
+> **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=38)** That's why it's called [[Vibe Coding]].
 >
 > **[0:39](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=39)** Sometimes the output is actually going to surprise you in a good way.
 >
@@ -614,7 +608,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=152)** If you're not sure what you want, start with a goal, something like, "Give me a few different layout directions for this component."
 >
-> **[2:39](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=159)** Do tell the AI how you want the response structured, as a React component, as a JavaScript component.
+> **[2:39](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=159)** Do tell the AI how you want the response structured, as a [[React.js|React]] component, as a [[JavaScript]] component.
 >
 > **[2:46](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-makes-a-good-prompt-in-vibe-coding?u=76281980&t=166)** Don't leave it open-ended and expect it to guess your format.
 >
@@ -638,15 +632,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (4), feature (2), [[Vibe Coding]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Vibe Coding]] (2), [[React.js|React]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - you (1)
 
-#### Sample vibe coding session
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980)
+#### [Sample vibe coding session](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=5)** Now, some of the tools are better for beginners.
 >
-> **[0:07](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=7)** Some of them are great at prototyping and some are really meant for experienced developers.
+> **[0:07](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=7)** Some of them are great at [[Prototyping]] and some are really meant for experienced developers.
 >
 > **[0:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=13)** I'm going to use two of them, Bolt as well as Cursor.
 >
@@ -664,11 +657,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=29)** That's going to be more difficult for a tool like Cursor, which is really meant more for professionals.
 >
-> **[0:34](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=34)** It's by far the most popular vibe coding tool out there.
+> **[0:34](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=34)** It's by far the most popular [[Vibe Coding]] tool out there.
 >
 > **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=38)** To get started, I'm going to use this data file right here.
 >
-> **[0:41](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=41)** It's a set of performance metrics.
+> **[0:41](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=41)** It's a set of [[Performance Metrics]].
 >
 > **[0:42](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=42)** You'll be able to find this data in the repository for this course.
 >
@@ -680,7 +673,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=58)** Bolt has a number of prebuilt templates and it's going to create a project by analyzing our data and then building a great looking dashboard.
 >
-> **[1:06](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=66)** Most of the time Bolt is going to use a React project and it knows how to create those really well.
+> **[1:06](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=66)** Most of the time Bolt is going to use a [[React.js|React]] project and it knows how to create those really well.
 >
 > **[1:11](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=71)** The thing about vibe coding is that no two sessions will be the same even if you type exactly what I did in this course.
 >
@@ -742,7 +735,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=248)** So I'm going to go ahead and start by asking it to help me preview this code.
 >
-> **[4:12](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=252)** So first it's going to look at the entire code base, and in this case it's going to run npm install and npm run dev and run a server for you.
+> **[4:12](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=252)** So first it's going to look at the entire code base, and in this case it's going to run [[npm]] install and npm run dev and run a server for you.
 >
 > **[4:20](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=260)** So you can Command click to open that up and here's what that social media dashboard looks like.
 >
@@ -876,7 +869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Vibe Coding]] (4), [[npm]] (3), hit (2), ai (2)
+> **Frameworks & Libraries:** [[Vibe Coding]] (4), [[npm]] (3), [[Prototyping]] (1), [[Performance Metrics]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (5), npm (3), find (1)
 > **UI Navigation:** toggle (3), click on (2), dropdown (1), go to (1), switch to (1)
 > **Tools:** visual studio (1), terminal (1)

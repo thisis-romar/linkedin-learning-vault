@@ -103,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement and maintain Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980)
+#### [Implement and maintain Microsoft 365](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,15 +113,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=11)** Well, I have some good news for you.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=12)** With Microsoft 365, you can have all three.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=12)** With [[Microsoft 365]], you can have all three.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=16)** Microsoft 365 is designed to help you achieve more with innovative office apps, intelligent cloud services, and world-class security.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=16)** Microsoft 365 is designed to help you achieve more with innovative [[Microsoft Office|office]] apps, intelligent [[Cloud Services]], and world-class security.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=25)** In this course, you'll learn everything you need in order to implement and maintain Microsoft 365 in your organization.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=32)** We'll go over things like running the admin center, managing users and devices, and securing data and threat protection.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=39)** I'm Ed Liberman, and I've been teaching people about Microsoft products since the 1990s.
+> **[0:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=39)** I'm Ed Liberman, and I've been teaching people about [[Microsoft Products]] since the 1990s.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980&t=44)** If you don't want to be left behind, I'm here to teach you the great tools and technologies in Microsoft 365.
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Security]] (2), business (1), [[Microsoft Office|Office]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Office|Office]] (1), [[Cloud Services]] (1), [[Microsoft Products]] (1)
 > **Speakers:** - historically (1)
 
 
@@ -138,22 +137,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft 365?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980)
+#### [What is Microsoft 365?](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=0)** - [Narrator] So, when people start out their journey to learn about Microsoft 365, one of the very first questions that needs to be asked is, well, what exactly is Microsoft 365?
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=0)** - [Narrator] So, when people start out their journey to learn about [[Microsoft 365]], one of the very first questions that needs to be asked is, well, what exactly is Microsoft 365?
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=14)** Right? This seems like an obvious question.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=16)** If I want to learn it, well, what is it?
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=18)** Well, before we get into that, I'm going to tell you that there's a second question that you may be asking because I know many others who are just getting into this have asked, and that is wanting to know the difference between this thing called Office 365 and Microsoft 365.
+> **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=18)** Well, before we get into that, I'm going to tell you that there's a second question that you may be asking because I know many others who are just getting into this have asked, and that is wanting to know the difference between this thing called [[Microsoft Office|Office]] 365 and Microsoft 365.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=36)** Like, what is the difference?
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=38)** And the real reason I want to bring this up isn't just because, you know, these are two terms that are similar and people may be confused with them, but the actual definition of what these products are has actually kind of changed over time.
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=38)** And the real reason I want to bring this up isn't just because, you know, these are two terms that are similar and people may be confused with them, but the actual definition of what these [[Microsoft Products|products]] are has actually kind of changed over time.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=56)** So, before we really get into what is Microsoft 365, I'd like to first address the differences between Office 365 and Microsoft 365.
 >
@@ -169,11 +167,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=90)** You'll notice that there's a date on here, which is further back than when I'm recording this and certainly further back than when you're watching this.
 >
-> **[1:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=98)** You also want to be careful about community-based versions, right, 'cause here's the Microsoft Tech Community.
+> **[1:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=98)** You also want to be careful about community-based versions, right, 'cause here's the [[Microsoft]] Tech Community.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=103)** And you really want to look for an article that is straight from [microsoft.com](https://microsoft.com).
 >
-> **[1:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=108)** And so I'm going to click on this article right here where it says "Microsoft Office is a part of Microsoft 365."
+> **[1:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=108)** And so I'm going to click on this article right here where it says "[[Microsoft Office]] is a part of Microsoft 365."
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=116)** And you'll notice a couple things on this particular page.
 >
@@ -215,7 +213,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=218)** And it gives the explanation.
 >
-> **[3:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=220)** "Microsoft 365 is designed to help you achieve more with innovative apps, intelligent cloud services, and world-class security."
+> **[3:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=220)** "Microsoft 365 is designed to help you achieve more with innovative apps, intelligent [[Cloud Services]], and world-class security."
 >
 > **[3:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=230)** Hmm, did that really answer what is Microsoft 365?
 >
@@ -243,7 +241,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=316)** And, again, it's broken into three sections similar to what we saw on the other page, right over here, we saw that it is innovative apps, intelligent cloud services, and world-class security.
 >
-> **[5:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=326)** Well, we see a breakdown of that here, where we get the services are our local apps as well as our cloud-based apps, and additionally productivity services, along with Windows 10 Enterprise, although I will tell you this article does need to be updated, it will soon, I'm sure, say Windows 11 Enterprise.
+> **[5:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=326)** Well, we see a breakdown of that here, where we get the services are our local apps as well as our cloud-based apps, and additionally productivity services, along with [[Windows 10]] Enterprise, although I will tell you this article does need to be updated, it will soon, I'm sure, say [[Windows]] 11 Enterprise.
 >
 > **[5:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980&t=348)** And then we also have device management and advanced security services.
 >
@@ -263,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (32), [[Microsoft Office|Office]] (10), [[Search]] (7), [[Microsoft]] (4), business (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (32), [[Microsoft Office|Office]] (10), [[Microsoft]] (4), [[Cloud Services]] (2), [[Windows 10]] (2)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **Definitions:** is a  (4), in other words (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (3)
@@ -272,12 +270,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Versioning and pricing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980)
+#### [Versioning and pricing options](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the different version and pricing options for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the different version and pricing options for [[Microsoft 365]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=7)** To do this, the page that we're looking at on the screen right now is the, what is Microsoft 365 page that we were on in the last video.
 >
@@ -313,13 +310,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=115)** Below that says each person can use up to five devices simultaneously.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=119)** Same thing with Personal, works on PC, Mac, iPhone, iPad, Android phones and tablets.
+> **[1:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=119)** Same thing with Personal, works on PC, Mac, iPhone, iPad, [[Android]] phones and tablets.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=124)** Same thing over on Personal.
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=127)** Here's another difference with Family.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=128)** We have up to six terabytes of cloud storage.
+> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=128)** We have up to six terabytes of [[Cloud Storage]].
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=132)** But the reality is, is that it's only one terabyte per person, which believe it or not is the same as it is over on the Personal side.
 >
@@ -377,7 +374,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=315)** Okay? They're not going to be on the cloud.
 >
-> **[5:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=317)** And if we go to Premium we also get to add Intune and Azure Information Protection.
+> **[5:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=317)** And if we go to Premium we also get to add Intune and [[Microsoft Azure|Azure]] Information Protection.
 >
 > **[5:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=322)** I'm kind of ignoring this one on the right 'cause this is just the apps, okay?
 >
@@ -459,13 +456,13 @@ created: 2026-05-02
 >
 > **[9:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=582)** As much as just making sure that you understand where to go in the event that you are working within an educational facility and you want to be learning about the educational options.
 >
-> **[9:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=593)** But otherwise, you're going to have to go ahead and contact Microsoft Sales for education in order to really get the pricing and learn all about the products.
+> **[9:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=593)** But otherwise, you're going to have to go ahead and contact [[Microsoft]] Sales for education in order to really get the pricing and learn all about the [[Microsoft Products|products]].
 >
 > **[10:02](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/versioning-and-pricing-options?u=76281980&t=602)** All right, so that is how we can see all the plans and pricing options available with Microsoft 365.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), [[Microsoft 365]] (14), cloud (3), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Cloud Storage]] (2), [[Android]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (7), scroll down (4), go to (2)
 > **Definitions:** in other words (2), stands for (1)
 > **Code Identifiers:** iphone (1), ipad (1)
@@ -474,8 +471,7 @@ created: 2026-05-02
 > **Env Vars:** pdf (1)
 > **Exercise Files:** download the (1)
 
-#### Benefits of cloud vs. on-premises
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980)
+#### [Benefits of cloud vs. on-premises](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=24)** On-premises, you have to understand that because you're going to have all of your data and all of your services on-premises, that you're going to have large upfront expenses.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=38)** You are going to have to purchase all the servers, you're going to have to purchase all the software and you may have to hire a significant amount of staff to manage the hardware and software depending on the size of your organization.
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=38)** You are going to have to purchase all the servers, you're going to have to purchase all the software and you may have to hire a significant amount of staff to manage the [[Hardware]] and software depending on the size of your organization.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=52)** You also have additional investments when it's time for upgrade.
 >
@@ -497,7 +493,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=68)** If something breaks, you have to pay to fix it or you have to pay to replace it because everything is owned by you.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=75)** Whereas with the cloud infrastructure, we have little to possibly no upfront costs.
+> **[1:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=75)** Whereas with the [[Cloud Infrastructure]], we have little to possibly no upfront costs.
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=83)** All you have to do is go ahead and sign an agreement for a subscription with a cloud provider and you're rocking and rolling.
 >
@@ -529,7 +525,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=214)** Most cloud providers offer comprehensive multi-layered security, which may be way more advanced than anything that you could implement yourself.
 >
-> **[3:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=226)** And there's typically global cybersecurity experts that will be involved.
+> **[3:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=226)** And there's typically global [[Cybersecurity]] experts that will be involved.
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=231)** Most of your larger cloud providers also have a global team of security experts who will be sure to keep everything safe.
 >
@@ -575,7 +571,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=348)** Now you have to still have some awareness of compliance standards so that you can audit your own cloud provider to make sure that they are making you compliant.
 >
-> **[6:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=360)** When it comes to scalability, this one should be obvious by the way, as to the instant benefits to being in the cloud versus on-premises.
+> **[6:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=360)** When it comes to [[Scalability]], this one should be obvious by the way, as to the instant benefits to being in the cloud versus on-premises.
 >
 > **[6:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=367)** But to talk about this in detail, when you're on-premises, if you need to grow, you're going to have to go ahead and purchase additional resources.
 >
@@ -623,7 +619,7 @@ created: 2026-05-02
 >
 > **[8:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=513)** And finally, we have mobility.
 >
-> **[8:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=515)** Now, mobility can be a good choice if you have most of your users in the same office.
+> **[8:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=515)** Now, mobility can be a good choice if you have most of your users in the same [[Microsoft Office|office]].
 >
 > **[8:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/benefits-of-cloud-vs-on-premises?u=76281980&t=523)** But as I mentioned when we were talking about reliability of data, a VPN may be necessary if you have remote workers who need to access that data.
 >
@@ -647,7 +643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), data (14), [[Security]] (10), [[Cloud Infrastructure]] (6), [[Microsoft Office|Office]] (3)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (6), [[Microsoft Office|Office]] (3), [[Cybersecurity]] (2), [[Scalability]] (2), [[Hardware]] (1)
 > **Warnings:** keep in mind (2), be aware (1), be careful (1)
 > **Prerequisites:** set up (3), required to (1)
 > **CLI Commands:** make (2)
@@ -656,12 +652,11 @@ created: 2026-05-02
 > **Definitions:** means that (2)
 > **Analogies:** just like (1)
 
-#### Adopting Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980)
+#### [Adopting Microsoft 365](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=0)** - [Instructor] Okay, so you've reached the point that you've evaluated Microsoft 365 and decided, hey, you know what?
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=0)** - [Instructor] Okay, so you've reached the point that you've evaluated [[Microsoft 365]] and decided, hey, you know what?
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=6)** This sounds like a good idea, but now you're asking how exactly do I go about getting my enterprise organization away from the on-premises infrastructure that we currently have to the Cloud using Microsoft 365?
 >
@@ -671,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=47)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=55)** It's from learn.[microsoft.com](https://microsoft.com) that's called Microsoft 365 For Enterprise Overview.
+> **[0:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=55)** It's from learn.[[[Microsoft]].com](https://microsoft.com) that's called Microsoft 365 For Enterprise Overview.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=61)** And when I click on it, it will take me into a very detailed explanation of all sorts of different aspects of Microsoft 365 for the Enterprise.
 >
@@ -709,7 +704,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=195)** And this is very simple.
 >
-> **[3:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=197)** This is a document that simply says from certain things that you may have on premises like Windows seven or eight, office 2010, 13, 16, et cetera, et cetera, et cetera, you see as I go down, what we would move to, and you'll see here that we would, if we were using Windows seven or eight, we're going to want to move to Windows 10.
+> **[3:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=197)** This is a document that simply says from certain things that you may have on premises like [[Windows]] seven or eight, [[Microsoft Office|office]] 2010, 13, 16, et cetera, et cetera, et cetera, you see as I go down, what we would move to, and you'll see here that we would, if we were using Windows seven or eight, we're going to want to move to [[Windows 10]].
 >
 > **[3:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=218)** And the fact is, I'm realizing as I'm going through this that this document already needs to be updated even right now at the time I'm recording this because we already have Windows 11, and I'm sure this document will get updated soon maybe by the time you're watching it.
 >
@@ -721,7 +716,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=250)** I don't need to read this to you, but I just want to show you.
 >
-> **[4:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=254)** They have things like Exchange, SharePoint, Link Server which became Skype for Business, talking about management for your devices, identity and access, information protection and threat protection.
+> **[4:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=254)** They have things like Exchange, [[SharePoint]], Link Server which became Skype for Business, talking about management for your devices, identity and access, information protection and threat protection.
 >
 > **[4:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=266)** These are all the areas that this poster will cover, and it gives you an idea of what you have, what you may want to go to, or what you will have to go to and why you may want to do it.
 >
@@ -729,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft]] (5), [[Windows]] (5), cloud (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft]] (5), [[Windows]] (5), [[Microsoft Office|Office]] (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), go to (2), scroll up (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -738,14 +733,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** you need to have (1)
 
-#### Understanding the modern workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980)
+#### [Understanding the modern workplace](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=0)** - [Instructor] One additional thing that you really should have a good understanding of if you're going to move to Microsoft 365 and you really want to make the most of it is having a solid understanding of what's called the modern workplace.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=0)** - [Instructor] One additional thing that you really should have a good understanding of if you're going to move to [[Microsoft 365]] and you really want to make the most of it is having a solid understanding of what's called the modern workplace.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=16)** Now in order to see what Microsoft defines as the modern workplace, I'm actually going to keep us here with the same online document here from Microsoft that we've been using in some of the other videos.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=16)** Now in order to see what [[Microsoft]] defines as the modern workplace, I'm actually going to keep us here with the same online document here from Microsoft that we've been using in some of the other videos.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=29)** It's called Microsoft 365 for enterprise overview.
 >
@@ -789,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=151)** It's broken down into intelligent security where we have built-in advanced security powered by cloud intelligence.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=158)** We have enhanced productivity where we have cloud connected and always up-to-date versions of both Office and Windows.
+> **[2:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=158)** We have enhanced productivity where we have cloud connected and always up-to-date versions of both [[Microsoft Office|Office]] and [[Windows]].
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=167)** Flexible Management, where we have cloud-based management which unifies administration across your PCs, tablets, and phones.
 >
@@ -809,7 +803,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=208)** I won't read it all to you but you will see that compliance, which was one of the items that we did look at where there's some benefits in moving to the cloud, it talks about how it's going to assess and manage risk, protect and govern sensitive data, streamline and respond, and broad set of compliance standards that are all a part of Microsoft 365 which helps you stay in compliance.
 >
-> **[3:51](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=231)** Security, which was another aspect of moving to the cloud and having additional benefits, is we have identity and access management, information protection, threat protection and security management that really does exceed what you might get in an on-premises environment.
+> **[3:51](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=231)** Security, which was another aspect of moving to the cloud and having additional benefits, is we have identity and access management, information protection, threat protection and [[Security Management]] that really does exceed what you might get in an on-premises environment.
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=248)** I said that there were two sections that I wanted to focus more heavily on than others.
 >
@@ -833,13 +827,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=315)** Well, all of your individual first line or frontline workers, when using Microsoft 365 it's designed to foster culture and community amongst them.
 >
-> **[5:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=325)** Train and upskill those employees, digitize the business process, and deliver real-time expertise as needed.
+> **[5:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=325)** Train and upskill those employees, digitize the business process, and deliver [[Real-Time]] expertise as needed.
 >
-> **[5:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=336)** So as you can see, the modern workplace and its five sections as defined here really give you a lot of benefits over what could be considered either a classic or really what I would say is more of a traditional workspace, which was the old on-premises workspace before we had cloud services.
+> **[5:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/understanding-the-modern-workplace?u=76281980&t=336)** So as you can see, the modern workplace and its five sections as defined here really give you a lot of benefits over what could be considered either a classic or really what I would say is more of a traditional workspace, which was the old on-premises workspace before we had [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Microsoft 365]] (6), [[Security]] (5), management (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (3), [[Microsoft Office|Office]] (1), [[Windows]] (1), [[Security Management]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -847,12 +841,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 productivity apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980)
+#### [Microsoft 365 productivity apps](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=0)** - [Instructor] So now I want to talk to you just a little bit about some of the productivity apps that are included in your Microsoft 365 subscription.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=0)** - [Instructor] So now I want to talk to you just a little bit about some of the productivity apps that are included in your [[Microsoft 365]] subscription.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=9)** Now, before we get into the actual apps, I want you to keep in mind that because Microsoft 365 is a cloud-based service, your users are going to receive regular updates to these apps, which means that there's going to be greater productivity opportunities for your users than maybe the on-premises version of these apps.
 >
@@ -862,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=45)** So let's just go over some of these.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=47)** The first would simply be Word, or what many people know as Microsoft Word.
+> **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=47)** The first would simply be [[Microsoft Word|Word]], or what many people know as [[Microsoft Word]].
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=51)** It's been around for a very long time.
 >
@@ -872,13 +865,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=61)** And that's the main emphasis I want to put there is that these, all of these apps that you're going to see, you know, they may all look familiar to you, but the real benefit is that through Microsoft 365, you can create, store, and share these documents online so you can collaborate.
 >
-> **[1:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=78)** So the next app is Excel, another one you may be familiar with.
+> **[1:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=78)** So the next app is [[Microsoft Excel|Excel]], another one you may be familiar with.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=81)** It's a spreadsheet application typically used with numerical data, and the data can be manipulated and organized.
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=87)** In fact, there are even wizards and tools which can quickly help you to manage and manipulate the data in a more visual way.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=94)** PowerPoint allows you to create slideshow presentations.
+> **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=94)** [[Microsoft PowerPoint|PowerPoint]] allows you to create slideshow presentations.
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=98)** In fact, you're looking at one in this video as we speak.
 >
@@ -888,23 +881,23 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=121)** But again, when creating these presentations, by using it through Microsoft 365, you can do it in a more collaborative way.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=129)** Outlook is an application that it does provide for email which is what we typically think of Outlook as being for, but it also actually can support calendar and task management and contact information and bring it all together into a single app.
+> **[2:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=129)** [[Microsoft Outlook|Outlook]] is an application that it does provide for email which is what we typically think of Outlook as being for, but it also actually can support calendar and task management and contact information and bring it all together into a single app.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=147)** OneNote is a digital notebook for storing notes, comments, website clippings, voice recordings, and drawings.
+> **[2:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=147)** [[OneNote]] is a digital notebook for storing notes, comments, website clippings, voice recordings, and drawings.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=153)** It's designed to capture ideas, thoughts, and tasks, and those ideas, thoughts, and tasks can be organized and grouped together into sections and pages.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=163)** Now, this is something you might do with a real notebook, you know, an actual pen and paper, but doing it digitally through OneNote makes it much more efficient to be able to organize that information.
 >
-> **[2:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=176)** Next, we have Microsoft Teams, which is an all-in-one collaborative platform that enables better team working and task-based sharing.
+> **[2:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=176)** Next, we have [[Microsoft Teams]], which is an all-in-one collaborative platform that enables better team working and task-based sharing.
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=187)** Both internal and external team members can collaborate on projects together, organize meetings, attend video and voice calls, and access shared document libraries.
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=198)** This can all be done through Teams, and I will say that, of all the productivity apps, Teams is the one that has really springboarded in recent years.
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=208)** OneDrive for Business offers your users one terabyte of secure online storage for business use.
+> **[3:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=208)** [[Microsoft OneDrive|OneDrive]] for Business offers your users one terabyte of secure online storage for business use.
 >
-> **[3:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=215)** It's fully integrated into both Windows 10 and Windows 11 File Explorer, allowing documents that are created locally to be automatically synced up to OneDrive for Business.
+> **[3:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=215)** It's fully integrated into both [[Windows 10]] and [[Windows]] 11 File Explorer, allowing documents that are created locally to be automatically synced up to OneDrive for Business.
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=226)** And finally, I want to mention Power Automate.
 >
@@ -914,7 +907,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=243)** Just a couple of random examples for you.
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=246)** The online Microsoft Power Automate app is easy to use and can be useful to improve business processes through workflow automation.
+> **[4:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=246)** The online [[Microsoft]] Power Automate app is easy to use and can be useful to improve business processes through workflow automation.
 >
 > **[4:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-productivity-apps?u=76281980&t=258)** And I will say that the former name for this particular tool used to be called Flow, and it's because it's helping with workflow automation.
 >
@@ -922,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), business (4), application (3), data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Outlook|Outlook]] (2), [[OneNote]] (2)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -932,12 +925,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring a trial Microsoft 365 subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980)
+#### [Configuring a trial Microsoft 365 subscription](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that Microsoft does to help you with learning about their products is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product and Microsoft 365 is no exception.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that [[Microsoft]] does to help you with learning about their [[Microsoft Products|products]] is they pretty much always give you the ability or some mechanism to allow you to try out their products for a certain amount of time for free before you have to actually purchase the product and [[Microsoft 365]] is no exception.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=24)** They give you a free 30 day trial.
 >
@@ -955,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=70)** It says Microsoft 365 at the top.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=72)** You'll also see Office 365 E5 a little bit further down.
+> **[1:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=72)** You'll also see [[Microsoft Office|Office]] 365 E5 a little bit further down.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=77)** The names get a little fuzzy because they jump around with what Office 365 versus Microsoft 365 is.
 >
@@ -967,7 +959,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=94)** First thing you need to do is you need to enter an email address.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=97)** So I'm going to go ahead and put in Landon Hotel and some random numbers here that I have at [outlook.com](https://outlook.com).
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=97)** So I'm going to go ahead and put in Landon Hotel and some random numbers here that I have at [[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=106)** I just created this email address just for this course.
 >
@@ -1023,7 +1015,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=217)** This is just for verification purposes.
 >
-> **[3:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=219)** Now, I'm going to not do this in front of you for privacy reasons so I don't give my phone number out to everybody.
+> **[3:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=219)** Now, I'm going to not do this in front of you for [[Privacy]] reasons so I don't give my phone number out to everybody.
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=225)** So I'm going to enter it in.
 >
@@ -1107,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), [[Microsoft Products|Products]] (3), [[Privacy]] (3)
 > **UI Navigation:** click on (8), checkbox (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
@@ -1115,12 +1107,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing the initial setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980)
+#### [Completing the initial setup](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=0)** - [Instructor] Before we can begin to use Microsoft 365, there are a few final installation steps.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=0)** - [Instructor] Before we can begin to use [[Microsoft 365]], there are a few final installation steps.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=7)** So let's go through them here.
 >
@@ -1130,7 +1121,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=23)** So if you want to do, so, it says select an option below.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=26)** So here I could actually click on this if I wanted to go ahead and download Word, Excel, PowerPoint, et cetera.
+> **[0:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=26)** So here I could actually click on this if I wanted to go ahead and download [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=32)** I don't need to do that on this machine so I'm going to simply just click Continue.
 >
@@ -1162,7 +1153,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=125)** So I'm going to go ahead and type in user one, for instance, and I'll put in U one for the actual username and it does @Landonhotel@[onmicrosoft.com](https://onmicrosoft.com).
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=139)** I apologize for all the little popups that keep happening as I hover over different boxes that's just Microsoft trying to be helpful.
+> **[2:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=139)** I apologize for all the little popups that keep happening as I hover over different boxes that's just [[Microsoft]] trying to be helpful.
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/completing-the-initial-setup?u=76281980&t=146)** But I can add that user, and as soon as I add that user, you'll notice that at the bottom where it said do this later, it now says add users and assign licenses.
 >
@@ -1238,7 +1229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), dns (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (5), checkbox (1), go to (1)
 > **Prerequisites:** install (2), configure (2), set up (2)
 > **Env Vars:** dns (2), csv (1), dkim (1)
@@ -1247,12 +1238,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 
-#### Configuring a custom domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980)
+#### [Configuring a custom domain](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=0)** - [Instructor] During the initial configuration of our Microsoft 365 subscription, there was an option to go ahead and connect to a live internet domain account.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=0)** - [Instructor] During the initial configuration of our [[Microsoft 365]] subscription, there was an option to go ahead and connect to a live internet domain account.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=9)** But I chose to skip that step.
 >
@@ -1288,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=103)** And if you don't, go ahead and watch anyway.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=106)** And I want to tell you that besides this video that you're watching right now, Microsoft has also chosen in a few different places to start adding videos of their own, training videos.
+> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=106)** And I want to tell you that besides this video that you're watching right now, [[Microsoft]] has also chosen in a few different places to start adding videos of their own, training videos.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=118)** So they actually have a video you could click on on how to add a domain.
 >
@@ -1388,7 +1378,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=344)** It says, since GoDaddy is your DNS hosting provider, all you have to do is sign in and we'll update your DNS records.
 >
-> **[5:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=350)** We'll also set up exchange for Outlook, et cetera, et cetera.
+> **[5:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=350)** We'll also set up exchange for [[Microsoft Outlook|Outlook]], et cetera, et cetera.
 >
 > **[5:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-custom-domain?u=76281980&t=353)** Or if I click on more options, you'll see here that instead of letting Microsoft add it, we could go ahead and add our own DNS records manually. Okay?
 >
@@ -1454,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (7), [[Microsoft]] (6), [[Microsoft 365]] (5), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft 365]] (5), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** dns (7), txt (5)
 > **UI Navigation:** click on (8), scroll down (2), go to (1)
 > **Prerequisites:** setup (8), set up (3)
@@ -1463,12 +1453,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 
-#### Deleting a Microsoft 365 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980)
+#### [Deleting a Microsoft 365 trial account](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=0)** - [Instructor] So once you get to the point that you are done playing around in Microsoft 365, you have a couple of options.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=0)** - [Instructor] So once you get to the point that you are done playing around in [[Microsoft 365]], you have a couple of options.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=10)** If you decide you want to move forward and continue using Microsoft 365 you don't have to do anything it will begin charging you after 30 days.
 >
@@ -1492,9 +1481,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=63)** And I'm going to click the little down arrow to expand it.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=66)** And then the item we want is Your Products.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=66)** And then the item we want is Your [[Microsoft Products|Products]].
 >
-> **[1:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=71)** So here with my products, you can see that we have the Office 365 E5 Trial.
+> **[1:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=71)** So here with my products, you can see that we have the [[Microsoft Office|Office]] 365 E5 Trial.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/deleting-a-microsoft-365-trial-account?u=76281980&t=77)** And you'll also notice for subscription status it says Active, it renews and it gives the date that it will renew.
 >
@@ -1572,23 +1561,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Microsoft 365 admin center
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980)
+#### [Using the Microsoft 365 admin center](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=0)** - [Instructor] Now I just want to give you a basic introduction into the Microsoft 365 Admin Center, which is where you'll do most of the administration for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=0)** - [Instructor] Now I just want to give you a basic introduction into the [[Microsoft 365]] Admin Center, which is where you'll do most of the administration for Microsoft 365.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=13)** So here I want to tell you, we're already looking at the Microsoft 365 Admin Center because this is where it takes you once you've completed the setup and installation of Microsoft 365.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=29)** But I do want to tell you that if you did not have this open, right, so let's just get completely out of it, if you ever want to go there, it's a very simple URL to remember.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=38)** All you have to go to is admin.[microsoft.com](https://microsoft.com).
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=38)** All you have to go to is admin.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=43)** And when you do that, it will take you to one of two things.
 >
@@ -1626,11 +1614,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=219)** On the left, that's what is considered home, so when we click on home, that's what brings us here, but you'll notice in the top right, it says this is the dashboard view, and what we have here, well, at the top, we have these cards and the top card is just a recommended something that you might need to be doing.
 >
-> **[4:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=240)** Microsoft uses algorithms and they determine something that you may want to do based upon actions that you've taken so far.
+> **[4:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=240)** Microsoft uses [[Algorithms]] and they determine something that you may want to do based upon actions that you've taken so far.
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=249)** But below that is where we have individual cards that are customizable to your own needs.
 >
-> **[4:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=255)** Okay, so here we have the teams management here, we have user management, Microsoft 365 apps, billing, training guides, and assistance.
+> **[4:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=255)** Okay, so here we have the teams management here, we have [[User Management]], Microsoft 365 apps, billing, training guides, and assistance.
 >
 > **[4:24](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=264)** Now, yours may look different, but this is what's defaulting right now.
 >
@@ -1658,7 +1646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft]] (3), [[Algorithms]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft]] (3), [[Algorithms]] (1), [[User Management]] (1)
 > **UI Navigation:** click on (8), go to (1), dropdown (1), open the (1), scroll down (1)
 > **Definitions:** means that (2), known as (1)
 > **CLI Commands:** find (2)
@@ -1672,12 +1660,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980)
+#### [Adding users](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=0)** - [Instructor] One of the first things that you will find yourself probably having to do after you have started your Microsoft 365 subscription is you'll have the need for creating some user accounts within the organization.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=0)** - [Instructor] One of the first things that you will find yourself probably having to do after you have started your [[Microsoft 365]] subscription is you'll have the need for creating some user accounts within the organization.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=15)** So here we are in the Microsoft 365 Admin Center, and over on the left in the navigation menu, you'll notice there's an option for users.
 >
@@ -1703,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=106)** Then over on the right we get to choose which domain we want this user to be a part of, if we have multiple domains, okay, which in this environment we do, we have two, right?
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=118)** So I could make this user part of Landon Hotel on [microsoft.com](https://microsoft.com) or it could be my [LandonHotel620.com](https://LandonHotel620.com) that we had also added to this Microsoft 365 account.
+> **[1:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=118)** So I could make this user part of Landon Hotel on [[[Microsoft]].com](https://microsoft.com) or it could be my [LandonHotel620.com](https://LandonHotel620.com) that we had also added to this Microsoft 365 account.
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=132)** All right, we can choose either one.
 >
@@ -1729,7 +1716,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=181)** Right now I only have the one subscription.
 >
-> **[3:04](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=184)** It's the 30 day trial of Office 365 E5.
+> **[3:04](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=184)** It's the 30 day trial of [[Microsoft Office|Office]] 365 E5.
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=187)** You'll notice that there are 25 total licenses, and there's 21 currently available.
 >
@@ -1795,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Microsoft 365]] (4), [[Microsoft]] (2), product (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** click on (5), checkbox (2), go to (1)
 > **CLI Commands:** make (5), find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2), [landonhotel620.com](https://landonhotel620.com) (1)
@@ -1804,12 +1791,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** for instance (1)
 
-#### Managing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980)
+#### [Managing users](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=0)** - [Instructor] Other than adding users, there are other user management tasks that you may need to do in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=0)** - [Instructor] Other than adding users, there are other [[User Management]] tasks that you may need to do in [[Microsoft 365]].
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=8)** So let's take a look at some of those options now.
 >
@@ -1847,7 +1833,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=120)** Under the mail tab, we have all sorts of information about the mailbox that is associated with this user.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=128)** And under OneDrive, you'll see right now it says it's not set up, but if it was, we would go ahead and see information about managing the OneDrive for this user account.
+> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=128)** And under [[Microsoft OneDrive|OneDrive]], you'll see right now it says it's not set up, but if it was, we would go ahead and see information about managing the OneDrive for this user account.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-users?u=76281980&t=137)** But mainly I'd like to take us back to the account tab and let's look at a couple of different things.
 >
@@ -1931,7 +1917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Management]] (3), [[Microsoft 365]] (3), management (2), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[User Management]] (3), [[Microsoft 365]] (3), [[Microsoft OneDrive|Onedrive]] (2)
 > **UI Navigation:** click on (10), go to (2)
 > **Prerequisites:** set up (3), setup (1)
 > **URLs:** [landonhotel620.com](https://landonhotel620.com) (2), [onmicrosoft.com](https://onmicrosoft.com) (1)
@@ -1940,8 +1926,7 @@ created: 2026-05-02
 > **Definitions:** basically means (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980)
+#### [Using groups](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,7 +1938,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=21)** So if you create a group, and then you put a bunch of users who all have, let's say, a similar function within the organization into that group then when you manage the group, you are actually managing all of the users all at the same time.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=38)** So here in the Microsoft 365 admin center, you'll see we have an option for Teams and groups.
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=38)** So here in the [[Microsoft 365]] admin center, you'll see we have an option for Teams and groups.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=45)** And if I expand that, you'll see there's an option for Active teams and groups.
 >
@@ -1977,7 +1962,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=111)** If we wanted to only do kind of a subset of this, we could create a distribution group which would simply create an email address for a group of people, meaning that's all that this group will do, is just have communication capabilities via email where you could email this address and it would go to all the people who are a member of this group.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=134)** We could do mail enabled security, which is a distribution list, meaning it's a distribution email that can also be used to control access to OneDrive and SharePoint.
+> **[2:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=134)** We could do mail enabled security, which is a distribution list, meaning it's a distribution email that can also be used to control access to [[Microsoft OneDrive|OneDrive]] and [[SharePoint]].
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-groups?u=76281980&t=145)** And then there's also security, which is just the aspect of controlling access to OneDrive and SharePoint, as well as mobile device management but that's it.
 >
@@ -2067,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), next (7), [[Microsoft 365]] (5), [[Security]] (2), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft OneDrive|Onedrive]] (2), [[SharePoint]] (2)
 > **UI Navigation:** click on (6), go to (2)
 > **Definitions:** is a  (2), basically means (1), means that (1), in other words (1)
 > **CLI Commands:** make (3), find (1)
@@ -2076,14 +2061,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
-#### Managing user licenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980)
+#### [Managing user licenses](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=0)** - [Instructor] One of the things that we were able to do when we created a user account is there was a place where we were asked about assigning a license for the user we were creating.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=12)** Now, in the video where I showed you how to add the user, I went ahead and assigned an Office 365 E5 subscription to that user.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=12)** Now, in the video where I showed you how to add the user, I went ahead and assigned an [[Microsoft Office|Office]] 365 E5 subscription to that user.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=22)** And I want you to know that I've actually done that to every one of the users that I have here.
 >
@@ -2093,7 +2077,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=42)** When I click on it, over on the right, the window that pops out, you'll see there's a tab for licenses and apps.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=49)** When I click on that, you'll see here that it shows you a few of the main products.
+> **[0:49](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=49)** When I click on that, you'll see here that it shows you a few of the main [[Microsoft Products|products]].
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=58)** But if you want to see all apps and services, there's a link at the bottom, so I'll click view all apps and services, and you'll see a full, complete list of all apps and services that this particular user has a license for.
 >
@@ -2107,7 +2091,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=124)** And likewise, in the event that we wanted to only give a specific app or service to this particular user, I could actually highlight them all and turn them all off, which is actually the same as what happened up above.
 >
-> **[2:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=140)** But then I could come down, and let's say I want this user to be able to go ahead and use Teams and we'll say SharePoint.
+> **[2:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=140)** But then I could come down, and let's say I want this user to be able to go ahead and use Teams and we'll say [[SharePoint]].
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=150)** I could go ahead and turn those on.
 >
@@ -2143,17 +2127,16 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=270)** But this is how we would go ahead and add licenses to a user if that user didn't have any.
 >
-> **[4:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=276)** So that is how we can go ahead and manage our licenses in Microsoft 365.
+> **[4:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-user-licenses?u=76281980&t=276)** So that is how we can go ahead and manage our licenses in [[Microsoft 365]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (1), teams (1), [[SharePoint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (1), [[SharePoint]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (6)
 > **Analogies:** for instance (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring multi-factor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980)
+#### [Configuring multi-factor authentication](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2206,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=225)** It now says that there is action required.
 >
-> **[3:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=228)** It says your organization requires additional security information, follow the prompts to download and set up the Microsoft Authenticator App.
+> **[3:48](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=228)** It says your organization requires additional security information, follow the prompts to download and set up the [[Microsoft]] Authenticator App.
 >
 > **[3:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=235)** In other words, it's actually saying multifactor authentication is going to be necessary for this particular account.
 >
@@ -2233,7 +2216,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=249)** So we could go ahead and we could get the app if we didn't have it.
 >
-> **[4:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=252)** Okay, or if we had another authenticator app that works with Microsoft 365, I could click on that link.
+> **[4:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=252)** Okay, or if we had another authenticator app that works with [[Microsoft 365]], I could click on that link.
 >
 > **[4:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-multi-factor-authentication?u=76281980&t=261)** There is a link here for other methods.
 >
@@ -2269,7 +2252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft]] (3), [[Microsoft 365]] (3), [[Security]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (3)
 > **UI Navigation:** click on (10), go to (1)
 > **Prerequisites:** configure (6), set up (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -2277,14 +2260,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing identities in Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980)
+#### [Managing identities in Azure AD](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980&t=0)** - [Instructor] When you have user accounts in Microsoft 365, it's important to understand that Microsoft 365 is a cloud-based service and with a cloud-based service, well, in order to have users in that you're going to have to have some form of directory services to be able to go ahead and manage these user accounts and the user authentication.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980&t=0)** - [Instructor] When you have user accounts in [[Microsoft 365]], it's important to understand that Microsoft 365 is a cloud-based service and with a cloud-based service, well, in order to have users in that you're going to have to have some form of directory services to be able to go ahead and manage these user accounts and the user authentication.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980&t=22)** And while everything I've been showing you so far has been in the Microsoft 365 Admin Center, the reality is that everything is truly being managed behind the scenes through a directory services called Azure Active Directory.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980&t=22)** And while everything I've been showing you so far has been in the Microsoft 365 Admin Center, the reality is that everything is truly being managed behind the scenes through a directory services called [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/managing-identities-in-azure-ad?u=76281980&t=40)** All right, so let me show you, just this is going to be real quick.
 >
@@ -2336,15 +2318,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Microsoft 365]] (6), cloud (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Microsoft 365]] (6)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a hybrid identity scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980)
+#### [Creating a hybrid identity scenario](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,7 +2333,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=7)** So what is a hybrid scenario?
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=9)** Well, this is where you need to manage identity services both in an on-premises environment where you might use something like Active Directory Domain Services and then also a cloud-based environment like Microsoft 365 which uses Azure Active Directory.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=9)** Well, this is where you need to manage identity services both in an on-premises environment where you might use something like [[Active Directory]] Domain Services and then also a cloud-based environment like [[Microsoft 365]] which uses [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=25)** So what's the solution? How do we do this?
 >
@@ -2360,7 +2341,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=35)** First of all, please know that this is a directory services that has been around for a very long time.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=43)** It was actually first released with the Windows 2000 servers.
+> **[0:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=43)** It was actually first released with the [[Windows]] 2000 servers.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=47)** So yeah, it goes all the way back to the year 2000.
 >
@@ -2372,11 +2353,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=77)** Why do we need two directories?
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=80)** Well, the reason is because Active Directory is not compatible with cloud services.
+> **[1:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=80)** Well, the reason is because Active Directory is not compatible with [[Cloud Services]].
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=88)** It's only suitable for on-premises services.
 >
-> **[1:31](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=91)** So you might also be thinking, all right, well, then what about this Azure AD?
+> **[1:31](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=91)** So you might also be thinking, all right, well, then what about this [[Microsoft Entra ID|Azure AD]]?
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=97)** I mean, that's the somewhat newer kid in town and that's the cloud-based directory services that we have out there.
 >
@@ -2402,7 +2383,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=184)** You first need to make sure that you have an Azure AD tenant, and this happens to be included with your Microsoft 365 Enterprise subscription.
 >
-> **[3:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=194)** You also need access to an online management portal, such as the Azure Portal.
+> **[3:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=194)** You also need access to an online management portal, such as the [[Microsoft Azure|Azure]] Portal.
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-a-hybrid-identity-scenario?u=76281980&t=201)** You need to have added and verified your organization's custom domain, and you need to check for errors with your on-premises directory before you end up migrating out to the cloud.
 >
@@ -2432,7 +2413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Microsoft Entra ID|Azure ad]] (10), [[Active Directory]] (5), [[Microsoft 365]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (10), [[Active Directory]] (5), [[Microsoft 365]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Cloud Services]] (2)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** configure (3), you need to have (1)
 > **CLI Commands:** make (2), find (1)
@@ -2445,12 +2426,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Intune
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980)
+#### [Setting up Intune](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=0)** - [Instructor] When it comes to Microsoft 365 device management, there's a tool that you can use to assist with that, and it's called Microsoft Intune.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=0)** - [Instructor] When it comes to [[Microsoft 365]] device management, there's a tool that you can use to assist with that, and it's called [[Microsoft]] Intune.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=12)** Intune is a cloud-based service that focuses specifically on mobile device management and mobile application management.
 >
@@ -2500,7 +2480,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=143)** So I can click Continue.
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=145)** And I do want to show you, since it took me back to the Microsoft 365 Admin Center, if I go under Billing and I look at Your Products, besides the Office 365 E5 trial that we already had, it now says that I have the Microsoft Intune Plan 1 trial as well.
+> **[2:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=145)** And I do want to show you, since it took me back to the Microsoft 365 Admin Center, if I go under Billing and I look at Your [[Microsoft Products|Products]], besides the [[Microsoft Office|Office]] 365 E5 trial that we already had, it now says that I have the Microsoft Intune Plan 1 trial as well.
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980&t=167)** All right?
 >
@@ -2508,7 +2488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft 365]] (5), management (3), cloud (1), mobile application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (2)
@@ -2516,8 +2496,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning Intune licenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980)
+#### [Assigning Intune licenses](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2529,7 +2508,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=22)** So to find it, I'm going to go ahead and put into my search engine here, Intune admin portal.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=28)** And what you'll see here for the Microsoft Intune Admin center, it's actually endpoint.[microsoft.com](https://microsoft.com).
+> **[0:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=28)** And what you'll see here for the [[Microsoft]] Intune Admin center, it's actually endpoint.[microsoft.com](https://microsoft.com).
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=36)** Okay, so I'm going to go ahead and click on that.
 >
@@ -2537,7 +2516,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=47)** Here in this admin center, over on the left in the navigation menu here, you'll see that there's an option for users.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=53)** So I will click on users, and you'll notice I have all the same users that I have in Microsoft 365, right?
+> **[0:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=53)** So I will click on users, and you'll notice I have all the same users that I have in [[Microsoft 365]], right?
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=61)** This is all tied in together.
 >
@@ -2545,7 +2524,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=70)** There's kind of a middle navigation menu here, and you'll notice there's an option for licenses.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=76)** So when I click on licenses, right now it shows me that this account has an Office 365 E5 license that has been assigned to it.
+> **[1:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=76)** So when I click on licenses, right now it shows me that this account has an [[Microsoft Office|Office]] 365 E5 license that has been assigned to it.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/assigning-intune-licenses?u=76281980&t=86)** If I want to go ahead and add Intune, then I would click assignments.
 >
@@ -2597,7 +2576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Office|Office]] (3), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (11), go to (2), select the (1)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -2606,14 +2585,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [ed] (1)
 
-#### Adding apps to Intune
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980)
+#### [Adding apps to Intune](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=0)** - [Instructor] Before you can assign, monitor, configure or protect your various apps, you have to first add them to Intune.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=9)** Here we're looking at the Microsoft Intune Admin Center and you'll notice in the left hand side in the navigation menu, there's an option for apps.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=9)** Here we're looking at the [[Microsoft]] Intune Admin Center and you'll notice in the left hand side in the navigation menu, there's an option for apps.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=17)** So I'm going to click on that.
 >
@@ -2629,13 +2607,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=40)** I'll click that.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=42)** First thing we do is select an app type, and you'll notice that there are some store apps, Microsoft 365 apps, Microsoft Edge Apps, Defender and Web Application.
+> **[0:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=42)** First thing we do is select an app type, and you'll notice that there are some store apps, [[Microsoft 365]] apps, Microsoft Edge Apps, [[Microsoft Defender|Defender]] and Web Application.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=53)** If I scroll down, there's a few others here.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=56)** For simplicity for this demonstration I'm going to use the Microsoft 365 apps.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=61)** And since I'm working with Windows I'm going to select Windows 10 and later.
+> **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=61)** And since I'm working with [[Windows]] I'm going to select [[Windows 10]] and later.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=67)** And I will select that.
 >
@@ -2659,7 +2637,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=114)** So it tells you exactly what you'll be doing.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=116)** Continuing on down there's an information URL as well as a privacy URL.
+> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=116)** Continuing on down there's an information URL as well as a [[Privacy]] URL.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=120)** Tells you about the developer and the owner.
 >
@@ -2681,7 +2659,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=159)** I just want to show you that you can.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=162)** Going back to the configuration designer we need to select which Office apps.
+> **[2:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=162)** Going back to the configuration designer we need to select which [[Microsoft Office|Office]] apps.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-apps-to-intune?u=76281980&t=166)** By default, it selects all of them except for Skype for Business, okay?
 >
@@ -2771,15 +2749,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft 365]] (5), [[Microsoft Office|Office]] (5), [[Windows 10]] (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft 365]] (5), [[Microsoft Office|Office]] (5), [[Windows 10]] (4), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** xml (4), url (2), msi (1)
 > **UI Navigation:** click on (4), scroll down (1), toggle (1)
 > **Prerequisites:** configure (3), install (2)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating app protection policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980)
+#### [Creating app protection policies](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2787,13 +2764,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=9)** So let's take a look at how we can create an app protection policy.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=13)** Here in the Microsoft Intune Admin Center, you'll see here that we're already in the apps section and in the middle navigation menu here, there's, if I go down a little bit, you see there's an option for app protection policies.
+> **[0:13](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=13)** Here in the [[Microsoft]] Intune Admin Center, you'll see here that we're already in the apps section and in the middle navigation menu here, there's, if I go down a little bit, you see there's an option for app protection policies.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=27)** I'll go ahead and click on that, and you'll see here that right now we have no policies, which is what is expected.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=33)** This is a brand new installation of Intune.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=35)** If we want to create a policy, there's a little plus sign up near the top, create policy, but it's a dropdown, and if I click on it, you'll see that I have to choose between creating a policy for iOS, Android, or Windows Information Protection.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=35)** If we want to create a policy, there's a little plus sign up near the top, create policy, but it's a dropdown, and if I click on it, you'll see that I have to choose between creating a policy for iOS, [[Android]], or [[Windows]] Information Protection.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=50)** For the sake of demonstration, let's go ahead and just select Android, for instance.
 >
@@ -2837,7 +2814,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=150)** Like a character limit on that.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=152)** Whether you want to allow screen capture or Google Assistant, you may have seen that, I know I have, for instance, having the inability to do a screen capture on certain banking apps and things like that.
+> **[2:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=152)** Whether you want to allow screen capture or [[Google]] Assistant, you may have seen that, I know I have, for instance, having the inability to do a screen capture on certain [[Banking]] apps and things like that.
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-app-protection-policies?u=76281980&t=164)** That might be an example where you may have noticed that if you try to do a screen capture, it won't allow you.
 >
@@ -2883,7 +2860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (6), [[Android]] (4), [[Microsoft]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Microsoft]] (3), [[Windows]] (1), [[Google]] (1), [[Banking]] (1)
 > **UI Navigation:** click on (7), dropdown (1)
 > **Analogies:** for instance (3), just like (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2896,14 +2873,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Information Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980)
+#### [Microsoft Information Protection](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=0)** - [Instructor] You can implement Microsoft Information Protection, or MIP, to help you discover, classify, and protect sensitive information wherever it lives or travels.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=0)** - [Instructor] You can implement [[Microsoft]] Information Protection, or MIP, to help you discover, classify, and protect sensitive information wherever it lives or travels.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=11)** MIP capabilities are included with Microsoft 365 compliance and give you the tools to know your data, to protect your data, and hopefully to prevent data loss.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=11)** MIP capabilities are included with [[Microsoft 365]] compliance and give you the tools to know your data, to protect your data, and hopefully to prevent data loss.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=25)** Now, when it comes to knowing your data, to understand your data landscape, and identify important data across your hybrid environment, you want to use the following capabilities.
 >
@@ -2915,7 +2891,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=67)** You can use built-in classifiers or you could train a classifier with your own content.
 >
-> **[1:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=74)** And then we have data classification, which is a graphical identification of items in your organization that have a sensitivity label, a retention label, or have been classified.
+> **[1:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=74)** And then we have [[Data Classification]], which is a graphical identification of items in your organization that have a sensitivity label, a retention label, or have been classified.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=89)** Now to apply flexible protection actions, which can include encryption, access restrictions, and visual markings, you should use these capabilities.
 >
@@ -2923,13 +2899,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=103)** This is a single solution across apps, services, and devices to label and protect your data as it travels inside and outside your organization.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=114)** We have the Azure Information Protection unified labeling client, and this is where, when you have Windows computers, it extends sensitivity labels for additional features and functionality that includes labeling and protecting of all file types from File Explorer and PowerShell.
+> **[1:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=114)** We have the [[Microsoft Azure|Azure]] Information Protection unified labeling client, and this is where, when you have [[Windows]] computers, it extends sensitivity labels for additional features and functionality that includes labeling and protecting of all file types from File Explorer and [[Powershell]].
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=134)** We have Double Key Encryption.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=137)** Under all circumstances, only your organization can ever decrypt protected content, or for regulatory requirements, you must hold encryption keys within a geographical boundary.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=152)** SharePoint Information Rights Management, or IRM, protects SharePoints lists and libraries so that when a user checks out a document, the downloaded file is protected so that only authorized people can view and use the file according to policies that you specify.
+> **[2:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=152)** [[SharePoint]] Information Rights Management, or IRM, protects SharePoints lists and libraries so that when a user checks out a document, the downloaded file is protected so that only authorized people can view and use the file according to policies that you specify.
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=173)** And finally, we have Cloud App Security, which discovers, labels, and protects sensitive information that resides in data stores that are in the cloud.
 >
@@ -2937,22 +2913,21 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=193)** We have data loss prevention, or simply DLP, and this helps prevent unintentional sharing of sensitive items.
 >
-> **[3:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=201)** We have endpoint data loss prevention, which extends the DLP capabilities to items that are used and shared on Windows 10 or later computers.
+> **[3:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=201)** We have endpoint data loss prevention, which extends the DLP capabilities to items that are used and shared on [[Windows 10]] or later computers.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=213)** Microsoft Compliance Extension extends the DLP capabilities to the Chrome browser, and you may want to protect sensitive information in Microsoft Teams chat and channel messages, which is basically an extension of the DLP functionality over to those teams chat and channel messages.
+> **[3:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=213)** Microsoft Compliance Extension extends the DLP capabilities to the Chrome browser, and you may want to protect sensitive information in [[Microsoft Teams]] chat and channel messages, which is basically an extension of the DLP functionality over to those teams chat and channel messages.
 >
 > **[3:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980&t=235)** So again, you want to have a plan, and that plan is called Microsoft Information Protection, or MIP, and it's the three steps to simply know your data, protect your data, and therefore hopefully prevent data loss.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft]] (3), cloud (2), [[Microsoft 365]] (1), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (1), [[Data Classification]] (1), [[Microsoft Azure|Azure]] (1), [[Windows]] (1)
 > **Env Vars:** dlp (4), mip (3), irm (1)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating sensitivity labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980)
+#### [Creating sensitivity labels](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2962,11 +2937,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=13)** Now, this is something that is done through a compliance center.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=18)** So here in the Microsoft 365 Admin Center, what we're going to do over on the left in the navigation menu is we're going to click show all, so we can find our compliance admin center.
+> **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=18)** So here in the [[Microsoft 365]] Admin Center, what we're going to do over on the left in the navigation menu is we're going to click show all, so we can find our compliance admin center.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=29)** If you don't see the compliance admin center listed, be sure to click on all admin centers, and then you will find it in the middle section over here.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=37)** When we click on compliance, you'll see here that it opens up what's actually officially called the Microsoft Purview compliance portal, and over in the navigation menu on the left, if I scroll down looking for labels, you'll notice I don't see it by default.
+> **[0:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=37)** When we click on compliance, you'll see here that it opens up what's actually officially called the [[Microsoft]] Purview compliance portal, and over in the navigation menu on the left, if I scroll down looking for labels, you'll notice I don't see it by default.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=54)** And the reason is 'cause I'll find it underneath information protection.
 >
@@ -3010,7 +2985,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=140)** Or do we want to do groups and sites?
 >
-> **[2:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=143)** Although you'll notice that's grayed out, and it says, if you want to apply sensitivity label to Teams, SharePoint sites, and Microsoft 365 groups, there are additional steps, and there's a link to walk you through how to enable that.
+> **[2:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=143)** Although you'll notice that's grayed out, and it says, if you want to apply sensitivity label to Teams, [[SharePoint]] sites, and Microsoft 365 groups, there are additional steps, and there's a link to walk you through how to enable that.
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-sensitivity-labels?u=76281980&t=154)** And same thing for schematized data assets.
 >
@@ -3118,7 +3093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), teams (2), [[Microsoft 365]] (2), feature (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft]] (1), [[SharePoint]] (1)
 > **UI Navigation:** click on (12), scroll down (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** find (3), make (1)
@@ -3126,8 +3101,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing sensitivity labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980)
+#### [Publishing sensitivity labels](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3143,7 +3117,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=32)** But we chose not to do it.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=34)** So, another way to do it is here in the Microsoft Purview and Compliance Center, we're still looking at our labels.
+> **[0:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=34)** So, another way to do it is here in the [[Microsoft]] Purview and Compliance Center, we're still looking at our labels.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=41)** And down at the bottom here, here's our demo label that we just created.
 >
@@ -3237,7 +3211,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=232)** No, I think let's go ahead and require it.
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=234)** We could choose, "Require users to apply a label to their Power BI content".
+> **[3:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=234)** We could choose, "Require users to apply a label to their [[Microsoft Power BI|Power BI]] content".
 >
 > **[3:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/publishing-sensitivity-labels?u=76281980&t=238)** And we can provide users with a link to a custom help page if we want.
 >
@@ -3301,20 +3275,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), power (2), bi (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), scroll down (1), checkbox (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preventing data loss using DLP templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980)
+#### [Preventing data loss using DLP templates](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=0)** - [Instructor] Another way we can help secure our data is through the use of data loss prevention policies.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=9)** Now, probably the easiest way to get started using these data loss prevention policies is by using some of the templates that Microsoft has already given us.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=9)** Now, probably the easiest way to get started using these data loss prevention policies is by using some of the templates that [[Microsoft]] has already given us.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=21)** Now, from there you can go ahead and maybe tweak them, but it's a great starting point when it comes to data loss prevention policies, or DLP policies for short.
 >
@@ -3326,7 +3299,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=53)** So I'm going to click on the policies section.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=57)** You'll see that there are two policies that are there by default, we have the default office 365 DLP policy and we have the default policy for Teams.
+> **[0:57](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=57)** You'll see that there are two policies that are there by default, we have the default [[Microsoft Office|office]] 365 DLP policy and we have the default policy for Teams.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=67)** But if we want to create our own DLP policy, we go up above where there's a plus button where it says Create Policy.
 >
@@ -3336,13 +3309,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=98)** And then we also have some categories down here.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=100)** We have our enhanced templates, our financial templates, medical and health templates, privacy templates, or as it's said up above, where it says you could create a custom policy, you could click on custom if you were going to go ahead and actually just create something from scratch.
+> **[1:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=100)** We have our enhanced templates, our financial templates, medical and health templates, [[Privacy]] templates, or as it's said up above, where it says you could create a custom policy, you could click on custom if you were going to go ahead and actually just create something from scratch.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=119)** But for the sake of this particular presentation, I'm going to go ahead and select "Financial."
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=126)** And over in the middle section here where it says templates, you'll see here that we have Australia, Canada, France, Germany, Israel, Japan.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=134)** I'm going to scroll down, actually all the way, until I get to US financial data.
+> **[2:14](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=134)** I'm going to scroll down, actually all the way, until I get to US [[Financial Data]].
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=139)** 'Cause that's where I'm located, is in the US, so I'm going to use that one.
 >
@@ -3352,7 +3325,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=155)** It says including information like credit card, account information and debit card numbers.
 >
-> **[2:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=159)** Here it gives the the exact protected information: credit card numbers, US bank account numbers, and ABA routing numbers.
+> **[2:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=159)** Here it gives the the exact protected information: credit card numbers, US bank account numbers, and ABA [[Routing]] numbers.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=170)** I can tell you, here in the US, those are the types of data that is considered sensitive and we do want to keep protected.
 >
@@ -3368,7 +3341,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=198)** I'm going to click on next.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=199)** This again, is a preview, this is actually the exact same preview we saw with another section in this course on sensitivity labels, where we can choose to assign admin units in Azure AD.
+> **[3:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=199)** This again, is a preview, this is actually the exact same preview we saw with another section in this course on sensitivity labels, where we can choose to assign admin units in [[Microsoft Entra ID|Azure AD]].
 >
 > **[3:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=213)** This is in preview.
 >
@@ -3376,7 +3349,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=222)** Now we can choose the locations we want to apply this policy.
 >
-> **[3:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=226)** So do we want this to be an email, on SharePoint sites, out of OneDrive, Teams chat and channels, on-premises repositories and or Power BI.
+> **[3:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=226)** So do we want this to be an email, on [[SharePoint]] sites, out of [[Microsoft OneDrive|OneDrive]], Teams chat and channels, on-premises repositories and or [[Microsoft Power BI|Power BI]].
 >
 > **[3:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=238)** By default, everything is turned on.
 >
@@ -3414,7 +3387,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=301)** And how many instances of that particular number have to appear for this to apply in this particular policy.
 >
-> **[5:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=311)** It says detect when this content is shared from Microsoft 365.
+> **[5:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=311)** It says detect when this content is shared from [[Microsoft 365]].
 >
 > **[5:16](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/preventing-data-loss-using-dlp-templates?u=76281980&t=316)** And then if I want to have this detection happen, do I want it to be with people outside my organization or with people inside my organization?
 >
@@ -3476,7 +3449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (15), data (8), teams (3), [[Financial Data]] (3), [[SharePoint]] (3)
+> **Frameworks & Libraries:** [[Financial Data]] (3), [[SharePoint]] (3), [[Microsoft 365]] (3), [[Microsoft]] (2), [[Routing]] (2)
 > **UI Navigation:** click on (11), scroll down (1), checkbox (1)
 > **Env Vars:** dlp (5), aba (2)
 > **Exercise Files:** template (5)
@@ -3485,8 +3458,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Data Subject Requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980)
+#### [Creating Data Subject Requests](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3498,7 +3470,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980&t=33)** So let's take a look at how a DSR case is created.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980&t=37)** Here, in the Microsoft Purview compliance portal, over on the left-hand navigation menu, I want you to notice that even if I scroll down, there is nothing here about data subject requests.
+> **[0:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980&t=37)** Here, in the [[Microsoft]] Purview compliance portal, over on the left-hand navigation menu, I want you to notice that even if I scroll down, there is nothing here about data subject requests.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/creating-data-subject-requests?u=76281980&t=50)** Even if I were to expand these menus, we would not find it anywhere.
 >
@@ -3602,7 +3574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Search]] (10), [[Microsoft]] (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **UI Navigation:** click on (13), scroll down (2), open the (2), go to (1)
 > **Env Vars:** dsr (9), gdpr (4)
 > **Cross-References:** go back to (3)
@@ -3616,12 +3588,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring preset security policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980)
+#### [Configuring preset security policies](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the threat protection policies that we can work with in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=0)** - [Instructor] So now let's take a look at some of the threat protection policies that we can work with in [[Microsoft 365]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=7)** So in order to do this, we need to get over to another admin center.
 >
@@ -3631,7 +3602,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=29)** It's the same thing.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=30)** When we click on Security, it takes us into what is now called Microsoft 365 Defender, okay?
+> **[0:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=30)** When we click on Security, it takes us into what is now called Microsoft 365 [[Microsoft Defender|Defender]], okay?
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=39)** You can see that here.
 >
@@ -3645,13 +3616,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=85)** Now down below you'll see we have individual policies.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=88)** We have anti-phishing, anti-spam, anti-malware, safe attachments, and safe links and we'll look at each one of those individually.
+> **[1:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=88)** We have anti-[[Phishing]], anti-spam, anti-malware, safe attachments, and safe links and we'll look at each one of those individually.
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=95)** But for right now, let's first look at the Preset Security Policies.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=100)** When I click on that, basically there's three different levels, okay?
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=106)** There's built-in protection which you'll see here, it says is built-in Microsoft Office 365 security applied to all users in your organization to protect against malicious links and attachments.
+> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=106)** There's built-in protection which you'll see here, it says is built-in [[Microsoft Office]] 365 security applied to all users in your organization to protect against malicious links and attachments.
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=117)** The only thing that you would do here, because it's built in, is if you wanted to add exclusions to maybe find people that you don't want to have this apply to, where you want to take away the protection.
 >
@@ -3685,7 +3656,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=224)** All right, so just for the sake of this demonstration, I'm going to go ahead and say I want to turn on Exchange Online Protection for all recipients, and click Next.
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=234)** And then I need the same thing for Defender for Office 365, okay?
+> **[3:54](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=234)** And then I need the same thing for Defender for [[Microsoft Office|Office]] 365, okay?
 >
 > **[3:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=239)** Which these capabilities include safe attachments and safe links.
 >
@@ -3705,7 +3676,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=276)** So let's go ahead and let's say demo user is likely to be impersonated, so I'll go ahead and add that user in just to go ahead and put something in there.
 >
-> **[4:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=286)** As far as domains, let's go ahead and put in Landon Hotel on [microsoft.com](https://microsoft.com).
+> **[4:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=286)** As far as domains, let's go ahead and put in Landon Hotel on [[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=298)** Add.
 >
@@ -3731,7 +3702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (4), [[Microsoft 365]] (3), [[Microsoft Defender|Defender]] (3), [[Phishing]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Defender|Defender]] (3), [[Phishing]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Office]] (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** find (2)
@@ -3740,18 +3711,17 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
-#### Configuring anti-phishing threat policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980)
+#### [Configuring anti-phishing threat policies](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=0)** - [Instructor] So now that we've seen how to configure settings using the preset security policies, let's go ahead and look at the individual policies down below.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=11)** First one is anti-phishing, which says that it protects users from phishing attacks and configures safety tips on suspicious messages.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=11)** First one is anti-[[Phishing]], which says that it protects users from phishing attacks and configures safety tips on suspicious messages.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=18)** So I'm going to click on that, and you'll see here that it tells us, by default, there are built-in features that'll help protect your users from phishing attacks.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=27)** And down below, you'll notice that we have the Office 365 anti-phish default, which is always there, and you'll notice it's also always on.
+> **[0:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=27)** And down below, you'll notice that we have the [[Microsoft Office|Office]] 365 anti-phish default, which is always there, and you'll notice it's also always on.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=37)** But we also have a standard preset security policy that's here and it's on, and the reason why is because when we did the preset security policy for everything, it added the anti-phishing component here.
 >
@@ -3785,7 +3755,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=142)** And then down at the bottom, you can enable spoof intelligence, okay?
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=145)** So this is kind of going on and using a little bit of artificial intelligence to look at patterns.
+> **[2:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=145)** So this is kind of going on and using a little bit of [[Artificial Intelligence (AI)|artificial intelligence]] to look at patterns.
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=152)** Here it says, "Enables enhanced impersonation results based on user's individual sender map," okay?
 >
@@ -3827,9 +3797,9 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=238)** "Show the 'via' tag."
 >
-> **[3:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=239)** And if you're wondering what any of these are, again, remember there's always the little info circles that we've seen throughout Microsoft 365, okay?
+> **[3:59](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=239)** And if you're wondering what any of these are, again, remember there's always the little info circles that we've seen throughout [[Microsoft 365]], okay?
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=246)** It says, "Choose if you want to apply a via tag in Outlook."
+> **[4:06](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=246)** It says, "Choose if you want to apply a via tag in [[Microsoft Outlook|Outlook]]."
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-phishing-threat-policies?u=76281980&t=249)** Okay, you'll notice here it says, it gives an example, chris@[contoso.com](https://contoso.com) via [fabrikham.com](https://fabrikham.com).
 >
@@ -3845,7 +3815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (11), [[Security]] (4), next (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Office|Office]] (1), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (4)
 > **URLs:** [contoso.com](https://contoso.com) (1), [fabrikham.com](https://fabrikham.com) (1)
 > **Definitions:** is a  (1)
@@ -3853,8 +3823,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring anti-spam threat policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980)
+#### [Configuring anti-spam threat policies](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3864,7 +3833,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=10)** So I will click on that.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=12)** And just like we saw with the anti phishing, we have some built-in defaults, which are always on, as well as our standard preset policy that we created as part of the preset policy.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=12)** And just like we saw with the anti [[Phishing]], we have some built-in defaults, which are always on, as well as our standard preset policy that we created as part of the preset policy.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=25)** But if we want to make a custom policy, we can click on create policy, and I have to decide do I want to deal with inbound or outbound spam issues?
 >
@@ -3898,7 +3867,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=102)** You basically just turn these off or on.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=106)** Mark as spam, specifically whether to mark messages which include these properties as spam: Empty messages, embedded tags in the HTML, et cetera et cetera.
+> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=106)** Mark as spam, specifically whether to mark messages which include these properties as spam: Empty messages, embedded tags in the [[HTML]], et cetera et cetera.
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-spam-threat-policies?u=76281980&t=117)** I'm not going to just read the whole list to you, it's a long list that we have here.
 >
@@ -3998,7 +3967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Phishing]] (4), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), html (1), bcc (1)
 > **UI Navigation:** click on (2)
@@ -4007,8 +3976,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 
-#### Configuring anti-malware threat policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-malware-threat-policies?u=76281980)
+#### [Configuring anti-malware threat policies](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-anti-malware-threat-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4088,21 +4056,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Security]] (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Analogies:** just like (2)
 > **Env Vars:** zap (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Office 365 Safe Attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980)
+#### [Configuring Office 365 Safe Attachments](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980&t=0)** - [Instructor] Next, let's take a look at the safe attachments policy.
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980&t=3)** Which you'll see here it says protect your organization from malicious content in email attachments and files, in SharePoint, OneDrive, and Teams.
+> **[0:03](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980&t=3)** Which you'll see here it says protect your organization from malicious content in email attachments and files, in [[SharePoint]], [[Microsoft OneDrive|OneDrive]], and Teams.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-attachments?u=76281980&t=11)** All right, so I'm going to go ahead and click on it.
 >
@@ -4190,19 +4156,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1), teams (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Office 365 Safe Links
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980)
+#### [Configuring Office 365 Safe Links](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=0)** - [Instructor] And the last individual policy we're going to look at here is the Safe Links policy, which you'll see here, it says it protects your users from opening and sharing malicious links in email messages and office apps.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=0)** - [Instructor] And the last individual policy we're going to look at here is the Safe Links policy, which you'll see here, it says it protects your users from opening and sharing malicious links in email messages and [[Microsoft Office|office]] apps.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=12)** So let's click on Safe Links.
 >
@@ -4268,7 +4233,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=161)** Next, how would you like to notify your users?
 >
-> **[2:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=165)** Do I want to use the default notification text that Microsoft gives us, or do we want to use custom notification text where we can go ahead and type in our own information?
+> **[2:45](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=165)** Do I want to use the default notification text that [[Microsoft]] gives us, or do we want to use custom notification text where we can go ahead and type in our own information?
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-office-365-safe-links?u=76281980&t=176)** Okay, you'll notice it even says you can use the Microsoft Translator for automatic localization if you are a worldwide organization.
 >
@@ -4288,21 +4253,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (2), teams (2), [[Microsoft]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (4), checkbox (1), toggle (1), go to (1)
 > **Env Vars:** url (4)
 > **Cross-References:** in the last (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Office 365 Attack Simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980)
+#### [Office 365 Attack Simulator](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=0)** - [Instructor] Once we have all of our policies in place, the next thing that we may want to do is, well, test to see if those policies are working for the organization.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=11)** And one of the ways that we can do this is through attack simulation training, which is something that Microsoft actually gives us right here in our Microsoft 365 Defender.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=11)** And one of the ways that we can do this is through attack [[Simulation]] training, which is something that [[Microsoft]] actually gives us right here in our [[Microsoft 365]] [[Microsoft Defender|Defender]].
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=22)** Over in the navigation menu, right above our policies and rules, we'll see we have attack simulation training.
 >
@@ -4386,7 +4350,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=264)** Okay, you can either use something from the library or if you're good enough you can go ahead and do a custom URL that you will build yourself.
 >
-> **[4:31](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=271)** Payload indicators, you can add payload indicators to the email to help users learn how to identify the phishing email, right?
+> **[4:31](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=271)** Payload indicators, you can add payload indicators to the email to help users learn how to identify the [[Phishing]] email, right?
 >
 > **[4:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/office-365-attack-simulator?u=76281980&t=278)** 'Cause you're wanting to train them here, right?
 >
@@ -4450,7 +4414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (15), next (10), [[Microsoft]] (7), express (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (15), [[Microsoft]] (7), [[Microsoft 365]] (1), [[Microsoft Defender|Defender]] (1), [[Phishing]] (1)
 > **UI Navigation:** click on (4), select the (4), go to (1)
 > **Ports:** :00 (2), :10 (2)
 > **Env Vars:** url (3)
@@ -4464,20 +4428,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Service Trust Portal from Microsoft
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980)
+#### [Service Trust Portal from Microsoft](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=0)** - [Instructor] The Service Trust portal is a website dedicated to helping you manage your company's compliance issues.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=11)** Now, because this is compliance that we're talking about, we won't find it here in the Microsoft 365 admin center.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=11)** Now, because this is compliance that we're talking about, we won't find it here in the [[Microsoft 365]] admin center.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=18)** We have to actually go to the compliance center.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=20)** So I'm going to click show all, so I can see all of my admin centers, and then I want to select compliance.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=29)** This now opens up the Microsoft Purview compliance portal.
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=29)** This now opens up the [[Microsoft]] Purview compliance portal.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=34)** In this portal, in order to get to the Service Trust portal, we actually have to scroll down on the navigation menu here, almost all the way to the bottom, to where it says more resources.
 >
@@ -4507,7 +4470,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=161)** So you can see here, there will be stuff on business continuity and disaster recovery.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=167)** We have Pen Test and security assessments, privacy and data protection, and other frequently asked questions and white papers, okay?
+> **[2:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=167)** We have Pen Test and security assessments, [[Privacy]] and data protection, and other frequently asked questions and white papers, okay?
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980&t=178)** So again, where you go from here really depends on your organization and your needs, but it's a great central starting point here.
 >
@@ -4523,7 +4486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft 365]] (2), [[Microsoft]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -4532,8 +4495,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Prerequisites:** required to (1)
 
-#### Using Compliance Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980)
+#### [Using Compliance Manager](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4545,7 +4507,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980&t=21)** But the tool that I'm referring to is called the compliance manager.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980&t=25)** And here in the Microsoft Purview compliance portal, on the left hand side in the navigation menu you'll notice right up near the top there's an option for compliance manager.
+> **[0:25](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980&t=25)** And here in the [[Microsoft]] Purview compliance portal, on the left hand side in the navigation menu you'll notice right up near the top there's an option for compliance manager.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-compliance-manager?u=76281980&t=35)** So I'm going to click on it.
 >
@@ -4595,15 +4557,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving your compliance score
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980)
+#### [Improving your compliance score](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4631,13 +4592,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=67)** I can assign this action if I want to another user.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=72)** So I can click on this and then I can select a user, and what'll happen is, is when I do they will be sent an email notification telling them, Hey, we would like for you to go ahead and perform this action which will help configure Microsoft 365 and bring us closer to being in the compliance that we're looking for.
+> **[1:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=72)** So I can click on this and then I can select a user, and what'll happen is, is when I do they will be sent an email notification telling them, Hey, we would like for you to go ahead and perform this action which will help configure [[Microsoft 365]] and bring us closer to being in the compliance that we're looking for.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=94)** But if we do want to do it ourself, then in the main section here under implementation, again it shows that it's not implemented and there are no implementation details, but there is a how to implement and more specifically I want to point out this section here that says how to use the Microsoft solutions to implement.
+> **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=94)** But if we do want to do it ourself, then in the main section here under implementation, again it shows that it's not implemented and there are no implementation details, but there is a how to implement and more specifically I want to point out this section here that says how to use the [[Microsoft]] solutions to implement.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=116)** Where it goes on to tell me that you're going to use Azure Active Directory, or Azure AD, to go ahead and give users the ability to change or reset their password with no administrator or help desk involvement.
+> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=116)** Where it goes on to tell me that you're going to use [[Microsoft Entra ID|Azure Active Directory]], or [[Microsoft Entra ID|Azure AD]], to go ahead and give users the ability to change or reset their password with no administrator or help desk involvement.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=128)** In order to do this, it says select launch now, which is a link that is down below, but before I click it, let's read the rest.
+> **[2:08](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=128)** In order to do this, it says select launch now, which is a link that is down below, but before I click it, let's read the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/improving-your-compliance-score?u=76281980&t=139)** It says, you're going to click launch now to enable self-service password reset by selecting either all or selected on the properties page.
 >
@@ -4714,24 +4675,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purchasing licenses and add-on services
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980)
+#### [Purchasing licenses and add-on services](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=0)** - [Instructor] So let's take a look at how we can go ahead and purchase additional licenses or potentially some add-on services for our organization.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=10)** Here in the Microsoft 365 admin center, this would all be done in the billing section, so I'm going to go ahead and expand that.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=10)** Here in the [[Microsoft 365]] admin center, this would all be done in the billing section, so I'm going to go ahead and expand that.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=18)** Now, the first thing I want to show you is let's talk about our licenses, right?
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=22)** If I go ahead and click on licenses, I can see the actual subscriptions that I have, right?
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=29)** I have Office 365 E5, and then we also added Intune, and I can see that I have 25 total licenses, of which I'm using five, so I have 20 available.
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=29)** I have [[Microsoft Office|Office]] 365 E5, and then we also added Intune, and I can see that I have 25 total licenses, of which I'm using five, so I have 20 available.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=41)** But what happens when the business grows and I need to add more licenses?
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=49)** Well, you'll notice that there's a link here that says, "Go to your products to manage billing or buy more licenses."
+> **[0:49](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=49)** Well, you'll notice that there's a link here that says, "Go to your [[Microsoft Products|products]] to manage billing or buy more licenses."
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=56)** Now, I will point out that when I click go to your products, that's literally just taking me to your products over on the left here, okay?
 >
@@ -4759,7 +4719,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=170)** So that's how I can go ahead and I can add additional licenses, but what about actual add-ons to my particular subscription?
 >
-> **[3:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=181)** Well, in order to see that, I'm going to go over to purchase services, and in this section, this is where we can see all the extra services that I can purchase from Microsoft.
+> **[3:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=181)** Well, in order to see that, I'm going to go over to purchase services, and in this section, this is where we can see all the extra services that I can purchase from [[Microsoft]].
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980&t=195)** Now, they have a featured section here where basically they're just saying, "These are the services that are kind of popular right now," and they're kind of pushing out there on me, okay?
 >
@@ -4787,17 +4747,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Microsoft Products|Products]] (3), product (3), [[Microsoft 365]] (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Microsoft Products|Products]] (3), [[Microsoft 365]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (7), go to (2), scroll down (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980)
+#### [Microsoft 365 roadmap](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=0)** - [Instructor] All right, so before we wrap things up with this course, there is something I want to show you here, and it's actually just a website that I think is really cool and can come in very handy for Microsoft 365 administrators to be able to see what the Microsoft developers are working on and what the future of some of these Microsoft 365 products have in store.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=0)** - [Instructor] All right, so before we wrap things up with this course, there is something I want to show you here, and it's actually just a website that I think is really cool and can come in very handy for [[Microsoft 365]] administrators to be able to see what the [[Microsoft]] developers are working on and what the future of some of these Microsoft 365 [[Microsoft Products|products]] have in store.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=27)** All right, so what I'm going to do here is I just have a search engine open and I'm going to put in the search Microsoft 365 Roadmap.
 >
@@ -4845,7 +4804,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=203)** Or something else we can do, I'm going to go ahead and clear that search out to get us back to the 1,400 updates, we could search.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=210)** So let's say I want to see everything related to Microsoft Teams, so I'm just going to put in Teams and I'm going to search that.
+> **[3:30](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=210)** So let's say I want to see everything related to [[Microsoft Teams]], so I'm just going to put in Teams and I'm going to search that.
 >
 > **[3:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=218)** And you'll notice, there's 521 updates that are specific for Teams, all right?
 >
@@ -4863,7 +4822,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=262)** With release phase, I have a number of different phases that I could evaluate this by.
 >
-> **[4:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=269)** I could look at what platform, depending on if it's let's say Android or if it's going to be desktop or if it's going to be specifically to Linux or Mac.
+> **[4:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=269)** I could look at what platform, depending on if it's let's say [[Android]] or if it's going to be desktop or if it's going to be specifically to [[Linux]] or Mac.
 >
 > **[4:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-365-roadmap?u=76281980&t=278)** I can look at the cloud instance and if it's new or updated.
 >
@@ -4875,7 +4834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Search]] (6), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Teams]] (1), [[Android]] (1)
 > **UI Navigation:** click on (3), scroll down (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** url (2)
@@ -4888,16 +4847,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980)
+#### [Continue learning Microsoft 365](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=0)** - Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=2)** I hope you've enjoyed finding out about Microsoft 365 as much as I've enjoyed showing you.
+> **[0:02](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=2)** I hope you've enjoyed finding out about [[Microsoft 365]] as much as I've enjoyed showing you.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=7)** If you're interested in learning about other Microsoft 365 products, please explore our libraries.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=7)** If you're interested in learning about other Microsoft 365 [[Microsoft Products|products]], please explore our libraries.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980&t=12)** We have a number of courses out there to help you.
 >
@@ -4905,7 +4863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - thank (1)
 
 

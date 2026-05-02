@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980)
+#### [Accessibility at work](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -76,11 +75,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=3)** This transformation is reaching a larger population than ever before, and it's not just the information worker.
 >
-> **[0:10](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=10)** Today, work extends far beyond the office and nearly every frontline worker uses technology on a daily basis, but this rapid change brings with it potential risk that could leave people without access, which is why it's so important to prioritize accessibility.
+> **[0:10](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=10)** Today, work extends far beyond the [[Microsoft Office|office]] and nearly every frontline worker uses technology on a daily basis, but this rapid change brings with it potential risk that could leave people without access, which is why it's so important to prioritize accessibility.
 >
 > **[0:27](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=27)** My name is Hector Minto.
 >
-> **[0:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=29)** I'm a Senior Technology Evangelist at Microsoft.
+> **[0:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=29)** I'm a Senior Technology Evangelist at [[Microsoft]].
 >
 > **[0:31](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980&t=31)** For the last 25 years, I've worked directly with people with disabilities, delivering inclusion through assistive technology.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
@@ -112,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980)
+#### [Importance of accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=0)** - Accessibility is both a responsibility, and as we have learned at Microsoft, accessibility is an opportunity.
+> **[0:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=0)** - Accessibility is both a responsibility, and as we have learned at [[Microsoft]], accessibility is an opportunity.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=8)** Now, at its core, accessibility is all about creating better experiences for everyone.
 >
@@ -133,19 +131,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=28)** It's a given that modern building codes include people with disabilities.
 >
-> **[0:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=33)** These are all what we might call accommodations built into the design of products.
+> **[0:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=33)** These are all what we might call accommodations built into the design of [[Microsoft Products|products]].
 >
 > **[0:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=38)** What you may or may not realize is that these accommodations also exist in today's digital technology.
 >
 > **[0:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=44)** In fact, many of them have been there for a while, but perhaps they're less well known, hidden, or perhaps you're using them without even knowing it.
 >
-> **[0:53](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=53)** Take word prediction.
+> **[0:53](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=53)** Take [[Microsoft Word|word]] prediction.
 >
 > **[0:54](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=54)** This started as a technology for people with speech disabilities, looking for a way to speed up and stay in the conversation with text to speech devices or talking computers.
 >
 > **[1:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=64)** As it turned out, this became highly discoverable on touchscreen devices and we all love it.
 >
-> **[1:10](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=70)** Around the same time word prediction became popular, Microsoft was adding one handed typing to windows.
+> **[1:10](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=70)** Around the same time word prediction became popular, Microsoft was adding one handed typing to [[Windows]].
 >
 > **[1:16](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980&t=76)** You really should try it.
 >
@@ -179,14 +177,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), feature (3), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - accessibility (1)
 
-#### Remote work and accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980)
+#### [Remote work and accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,11 +195,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=14)** People with disabilities are also having to change work practices and a lack of confidence and knowledge amongst employers is leading to some worrying trends.
 >
-> **[0:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=24)** Microsoft research found professionals with disabilities were almost twice as vulnerable to job losses, more than twice as likely to seek reskilling particularly when it comes to roles in the tech sector, low discoverability of accessibility tools was specifically cited in the research contributing to these outcomes.
+> **[0:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=24)** [[Microsoft]] research found professionals with disabilities were almost twice as vulnerable to job losses, more than twice as likely to seek reskilling particularly when it comes to roles in the tech sector, low discoverability of accessibility tools was specifically cited in the research contributing to these outcomes.
 >
 > **[0:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=44)** The global requirement to work from home we lived through in 2020, brought a unique opportunity to create a new and better future of work.
 >
-> **[0:52](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=52)** One that empowers the people who returned to work in an office, those that stay remote and the growing group that will lean into a hybrid model of work.
+> **[0:52](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=52)** One that empowers the people who returned to work in an [[Microsoft Office|office]], those that stay remote and the growing group that will lean into a hybrid model of work.
 >
 > **[1:01](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=61)** People with disabilities have recognized this.
 >
@@ -224,13 +221,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=101)** I turn on captions almost automatically now as it helps me concentrate.
 >
-> **[1:45](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=105)** I dock my windows, allowing me to multitask.
+> **[1:45](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=105)** I dock my [[Windows]], allowing me to multitask.
 >
 > **[1:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=109)** I have two desktops on the same computer one for the newsfeed for social media, really just one for the distractions.
 >
 > **[1:56](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=116)** And I have one strictly for focus.
 >
-> **[1:59](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=119)** I used insights in Microsoft Outlook to put lunch hours for me and to find specific focus time in my calendar.
+> **[1:59](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=119)** I used insights in [[Microsoft Outlook]] to put lunch hours for me and to find specific focus time in my calendar.
 >
 > **[2:05](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/remote-work-and-accessibility?u=76281980&t=125)** This is my personal remote work prescription.
 >
@@ -256,13 +253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Automation]] (1), [[Windows]] (1), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Windows]] (1), [[Microsoft Outlook]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### Disclosure and disability
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980)
+#### [Disclosure and disability](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=122)** "I'm color blind and I hate our red and green scorecards."
 >
-> **[2:06](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=126)** Or, "I've not told anyone I'm losing my hearing, "so I really appreciate you turning "the captions on in PowerPoint."
+> **[2:06](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=126)** Or, "I've not told anyone I'm losing my hearing, "so I really appreciate you turning "the captions on in [[Microsoft PowerPoint|PowerPoint]]."
 >
 > **[2:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=132)** Or, "I didn't even know I could ask "for a document to be made accessible."
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=152)** This is a critical first step on the journey.
 >
-> **[2:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=155)** Companies that have good representation and talk about accessibility will begin to build systems, products, experiences that are more digitally inclusive.
+> **[2:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=155)** Companies that have good representation and talk about accessibility will begin to build systems, [[Microsoft Products|products]], experiences that are more digitally inclusive.
 >
 > **[2:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/disclosure-and-disability?u=76281980&t=164)** And when they do, they'll more effectively reach the one in six people on the planet with a disability.
 
@@ -318,8 +314,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - a (1)
 
-#### Common disabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980)
+#### [Common disabilities](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=21)** However, the same call using conference software with multiple people on the call all talking over one another with no discernible difference between speakers sometimes becomes disabling.
 >
-> **[0:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=33)** A product like Microsoft Teams is an amazing new way of working.
+> **[0:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=33)** A product like [[Microsoft Teams]] is an amazing new way of working.
 >
 > **[0:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=36)** Voice, chat, embedded apps for the workplace.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=108)** You need to widen your scope of disabilities to help you get buy-in to the topic within your place of work.
 >
-> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=115)** I would suggest that you consider disabilities in six forms.
+> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=115)** I would suggest that you consider disabilities in six [[Forms]].
 >
 > **[1:59](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/common-disabilities?u=76281980&t=119)** Vision, hearing, motor dexterity, cognition and learning, mental health, and speech.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), product (1), [[Microsoft Teams]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -395,8 +390,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hearing accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980)
+#### [Hearing accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=56)** You make it much easier if people don't need to ask Next, offer captions or transcription or both.
 >
-> **[1:05](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=65)** Even though the tools are there for people to turn captions on in apps like Teams, you might be using PowerPoint on a video platform that doesn't have captioning.
+> **[1:05](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=65)** Even though the tools are there for people to turn captions on in apps like Teams, you might be using [[Microsoft PowerPoint|PowerPoint]] on a video platform that doesn't have captioning.
 >
 > **[1:13](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=73)** Take a close look to see what your options are.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=89)** Another great tip is to make sure to record your meetings as video.
 >
-> **[1:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=92)** Every video saved to Microsoft Stream from Teams is auto captioned.
+> **[1:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=92)** Every video saved to [[Microsoft]] Stream from Teams is auto captioned.
 >
 > **[1:37](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=97)** Even if the meeting wasn't live captioned in the moment, attendees can go back to the meeting afterwards and access the video captions.
 >
@@ -448,11 +442,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=134)** I want to share a few specific user settings and tools that help people who are deaf and those with hearing loss.
 >
-> **[2:21](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=141)** If you have a sign language interpreter, you can pin their feed in Microsoft Teams to ensure that they're always visible.
+> **[2:21](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=141)** If you have a sign language interpreter, you can pin their feed in [[Microsoft Teams]] to ensure that they're always visible.
 >
 > **[2:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=148)** You can also right click and fit to frame to see the whole person.
 >
-> **[2:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=152)** Auto captions are available in so many places, such as video platforms like Teams or Google Meet, PowerPoint Present Live that you translate into 65 languages at the same time, and finally, there's Microsoft Translator.
+> **[2:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=152)** Auto captions are available in so many places, such as video platforms like Teams or [[Google]] Meet, PowerPoint Present Live that you translate into 65 languages at the same time, and finally, there's Microsoft Translator.
 >
 > **[2:46](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=166)** This really is your safety net, available in browser, on your smart watch, on your phone.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=177)** Another great feature is notification delay.
 >
-> **[3:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=180)** This could be set up on your Windows device to extend notification time.
+> **[3:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=180)** This could be set up on your [[Windows]] device to extend notification time.
 >
 > **[3:06](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980&t=186)** You can create very visible whole screen alerts.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft PowerPoint|Powerpoint]] (3), next (2), [[Microsoft]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft]] (2), [[Windows]] (2), [[Microsoft Teams]] (1), [[Google]] (1)
 > **Env Vars:** vtt (2), aids (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -490,8 +484,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - statistically (1)
 
-#### Vision accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980)
+#### [Vision accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,11 +520,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=83)** You will find great screen readers built in free of charge in most mainstream devices.
 >
-> **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=88)** On a windows device, this is called narrator, and it's got a number of great new features.
+> **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=88)** On a [[Windows]] device, this is called narrator, and it's got a number of great new features.
 >
 > **[1:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=93)** On your iPhone, it's called voiceover.
 >
-> **[1:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=95)** And on Android, it's TalkBack.
+> **[1:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=95)** And on [[Android]], it's TalkBack.
 >
 > **[1:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=98)** Now, for people with low vision in the workplace, there are a number of tools that everyone should know about.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=107)** On your PC, just go ahead and click the windows key and plus.
 >
-> **[1:51](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=111)** You'll see that you zoom into a portion of the screen.
+> **[1:51](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=111)** You'll see that you [[Zoom]] into a portion of the screen.
 >
 > **[1:54](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=114)** We also have a magnifying lens mode and adopt portion mode.
 >
@@ -559,7 +552,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=155)** Another feature is themes, light, dark and high-vis.
 >
-> **[2:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=159)** Be on the lookout for these, in Teams, Microsoft docs and Windows.
+> **[2:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=159)** Be on the lookout for these, in Teams, [[Microsoft]] docs and Windows.
 >
 > **[2:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=164)** And also in your phone menus.
 >
@@ -591,9 +584,9 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=214)** Right click and select read aloud.
 >
-> **[3:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=216)** Or find the same read aloud button in the review tab in Office.
+> **[3:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=216)** Or find the same read aloud button in the review tab in [[Microsoft Office|Office]].
 >
-> **[3:40](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=220)** Open up the immersive reader across many Microsoft products and just press play.
+> **[3:40](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=220)** Open up the immersive reader across many [[Microsoft Products]] and just press play.
 >
 > **[3:45](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/vision-accessibility?u=76281980&t=225)** There are loads of options.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), feature (2), [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Android]] (1), [[Zoom]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3), is called (1)
 > **Code Identifiers:** iphone (1), ios (1)
@@ -615,8 +608,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Mobility and dexterity accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980)
+#### [Mobility and dexterity accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=4)** It's not just keyboard and mouse, although they are certainly the predominant input methods.
 >
-> **[0:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=9)** As businesses around the world implement bringing your own device policies and work is increasingly done in the cloud with great security features to protect information, this opens up great opportunities for people with disabilities to choose hardware and input methods that optimize their input.
+> **[0:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=9)** As businesses around the world implement bringing your own device policies and work is increasingly done in the cloud with great security features to protect information, this opens up great opportunities for people with disabilities to choose [[Hardware]] and input methods that optimize their input.
 >
 > **[0:26](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=26)** What makes a great experience?
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=90)** There are a number of methods to personalize the typing experience.
 >
-> **[1:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=94)** First, is word prediction.
+> **[1:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=94)** First, is [[Microsoft Word|word]] prediction.
 >
 > **[1:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=95)** This is not just for onscreen keyboards, nowadays you can also get the keyboard use, turn on text suggestions and autocorrect in your typing settings and measure how many keystrokes you save.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=126)** System wide dictation is available on most modern personal computers.
 >
-> **[2:11](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=131)** If I press windows key H anywhere on my PC, I can type into any text box, on the web, in a search bar, on a sticky note, on a to do list.
+> **[2:11](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=131)** If I press [[Windows]] key H anywhere on my PC, I can type into any text box, on the web, in a search bar, on a sticky note, on a to do list.
 >
 > **[2:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=144)** If you combine this with some really intelligent auto correct or intelligent web search, accuracy is just not as critical.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=154)** It really is the time to revisit this technology.
 >
-> **[2:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=158)** Finally, there's full dictation in office products and by extension audio transcription in word.
+> **[2:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=158)** Finally, there's full dictation in [[Microsoft Office|office]] [[Microsoft Products|products]] and by extension audio transcription in word.
 >
 > **[2:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=164)** You can punctuate fully and edit a document with voice commands.
 >
@@ -692,7 +684,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=191)** If you use a joystick, it's often easier to utilize an onscreen keyboard rather than lift across to a physical keyboard.
 >
-> **[3:18](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=198)** Likewise, if you rest nicely on your keyboard you don't want to have to move to a physical mouse.
+> **[3:18](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=198)** Likewise, if you [[Representational State Transfer (REST)|rest]] nicely on your keyboard you don't want to have to move to a physical mouse.
 >
 > **[3:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=204)** I have two tips here.
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=237)** If you don't have a large keyboard, say, use a laptop, then you can buy a really low cost plugin and place alongside your existing keyboard or buy a full keyboard that meets your needs.
 >
-> **[4:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=248)** Finally, I want to show you something magic in PowerPoint.
+> **[4:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=248)** Finally, I want to show you something magic in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mobility-and-dexterity-accessibility?u=76281980&t=252)** Let's create a beautiful slide in seconds with a feature created by our engineers working with colleagues with physical disability.
 >
@@ -730,12 +722,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Office|Office]] (3), [[Hardware]] (2), [[Microsoft Word|Word]] (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Hardware]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
-#### Mental health accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980)
+#### [Mental health accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=25)** It's really important that we look after our mental health and take deliberate action to monitor our use.
 >
-> **[0:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=32)** I want to share a few statistics that can help you understand why mental health is so important.
+> **[0:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=32)** I want to share a few [[Statistics]] that can help you understand why mental health is so important.
 >
 > **[0:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=38)** One in six people experienced a mental health problem in the last week.
 >
@@ -769,17 +760,17 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=82)** Let's look at some positive options that you might not realize you have and hopefully find useful.
 >
-> **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=88)** First, consider setting quiet hours in chat applications like Microsoft Teams.
+> **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=88)** First, consider setting quiet hours in chat applications like [[Microsoft Teams]].
 >
 > **[1:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=93)** Allow yourself to watch meeting recordings.
 >
 > **[1:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=96)** Is every meeting that important to attend in-person?
 >
-> **[1:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=99)** Use focus mode in Windows or in Office.
+> **[1:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=99)** Use focus mode in [[Windows]] or in [[Microsoft Office|Office]].
 >
 > **[1:43](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=103)** It takes 20 minutes to get back to something when you are distracted.
 >
-> **[1:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=107)** Take a look at Insights in Microsoft Outlook.
+> **[1:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=107)** Take a look at Insights in [[Microsoft Outlook]].
 >
 > **[1:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/mental-health-accessibility?u=76281980&t=109)** Monitor your own personal work habits and let the AI suggest some actions, find focus time or book a lunch break.
 >
@@ -820,8 +811,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Cognition accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980)
+#### [Cognition accessibility](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,19 +837,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=49)** Put simply, if you'd rather something was read for you, there are numerous ways to press play.
 >
-> **[0:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=55)** Find them in Office and even in the Edge browser, which you can install both on your PC and your phone.
+> **[0:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=55)** Find them in [[Microsoft Office|Office]] and even in the Edge browser, which you can install both on your PC and your phone.
 >
 > **[1:01](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=61)** Next, check out Reading Supports.
 >
 > **[1:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=64)** There are so many options to facilitate reading in the workplace.
 >
-> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=69)** A number of years ago now, a group of Microsoft employees got together to hack dyslexia and created Learning Tools, the Immersive Reader.
+> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=69)** A number of years ago now, a group of [[Microsoft]] employees got together to hack dyslexia and created Learning Tools, the Immersive Reader.
 >
-> **[1:17](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=77)** This is available in Edge, in Office, in OneNote, and it allows you to create a personal reading profile with disability support.
+> **[1:17](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=77)** This is available in Edge, in Office, in [[OneNote]], and it allows you to create a personal reading profile with disability support.
 >
 > **[1:26](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=86)** Increased spacing between words, syllables separated with markers, picture symbol support, and dyslexia friendly color filters, and line focus.
 >
-> **[1:40](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=100)** It's been huge for us and is now also available in Azure for others to integrate in their technology.
+> **[1:40](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=100)** It's been huge for us and is now also available in [[Microsoft Azure|Azure]] for others to integrate in their technology.
 >
 > **[1:46](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=106)** Pass it on.
 >
@@ -869,19 +859,19 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=117)** Computers have become so smart they're fixing text as we write.
 >
-> **[2:02](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=122)** The good news is the tools built into Microsoft Office are also available in your browser.
+> **[2:02](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=122)** The good news is the tools built into [[Microsoft Office]] are also available in your browser.
 >
 > **[2:07](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=127)** Get the same spelling and grammar support wherever you're typing online.
 >
-> **[2:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=132)** And look out for word and phrase suggestions increasingly being available in online platforms.
+> **[2:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=132)** And look out for [[Microsoft Word|word]] and phrase suggestions increasingly being available in online platforms.
 >
-> **[2:17](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=137)** For example, on LinkedIn, AI suggests options for you to reply to messages.
+> **[2:17](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=137)** For example, on [[LinkedIn]], AI suggests options for you to reply to messages.
 >
 > **[2:23](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=143)** You may think this is neat, but it really supports people who find writing difficult.
 >
 > **[2:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=149)** Then there's dictation, which is a really fast and accurate way to get words down on a page.
 >
-> **[2:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=154)** It's built into Office and Windows and your phone too.
+> **[2:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=154)** It's built into Office and [[Windows]] and your phone too.
 >
 > **[2:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=158)** If you're working with audio recordings, Word Online also has an amazing transcription service built right in.
 >
@@ -897,7 +887,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=205)** You can now turn on subtitles in all recorded video content in the workplace and in live meetings.
 >
-> **[3:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=212)** We live in a world of lifelong learning.
+> **[3:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=212)** We live in a world of [[Lifelong Learning]].
 >
 > **[3:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/cognition-accessibility?u=76281980&t=215)** Employers recognize that their employees will continuously learn on the job.
 >
@@ -919,7 +909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), next (2), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[Microsoft]] (1), [[OneNote]] (1)
 > **Analogies:** picture (1), for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -931,8 +921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing accessible experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980)
+#### [Developing accessible experiences](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +931,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=8)** If a video is not captioned, use an automatic transcriber perhaps.
 >
-> **[0:13](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=13)** If images are not described, perhaps use some computer vision to assist.
+> **[0:13](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=13)** If images are not described, perhaps use some [[Computer Vision]] to assist.
 >
 > **[0:18](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=18)** Then of course, we find that many folks ask someone to support them.
 >
@@ -994,13 +983,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=123)** If you're someone with a disability, you need ways of feeding back to your teammates, your employers, and organizations you encounter on a daily basis.
 >
-> **[2:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=132)** If we're going to build a society where digital accessibility is the norm, we better start talking about it beyond policy.
+> **[2:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=132)** If we're going to build a society where [[Digital Accessibility]] is the norm, we better start talking about it beyond policy.
 >
 > **[2:19](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=139)** I can honestly say that once you've learned these key strategies to build accessible experiences, you'll begin to make micro-commitments to deliver accessible experiences.
 >
 > **[2:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=149)** I am constantly delighted by how people, once they know, sign up to our agenda and start to build routinely inclusive experiences.
 >
-> **[2:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=159)** Can you start to build accessible experiences by default on social media, in meetings that you chair, in documents you create, in email, in presentations, in newsletters, and then in your customer-facing collateral, your websites, your apps, your software?
+> **[2:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=159)** Can you start to build accessible experiences by default on social media, in meetings that you chair, in documents you create, in email, in presentations, in [[Newsletters]], and then in your customer-facing collateral, your websites, your apps, your software?
 >
 > **[2:58](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980&t=178)** I bet you can.
 >
@@ -1013,14 +1002,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - there (1)
 
-#### Tips for more accessible social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980)
+#### [Tips for more accessible social media](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=0)** - Every second, 6,000 tweets are posted.
 >
-> **[0:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=4)** Two million posts, articles, and videos are published on LinkedIn every day.
+> **[0:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=4)** Two million posts, articles, and videos are published on [[LinkedIn]] every day.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=9)** Social media is how we stay connected.
 >
@@ -1058,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=70)** Clipomatic does a great job.
 >
-> **[1:11](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=71)** AutoCap on Android is also another option.
+> **[1:11](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=71)** AutoCap on [[Android]] is also another option.
 >
 > **[1:15](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=75)** These burn the captions onto the video.
 >
@@ -1068,7 +1056,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=84)** LinkedIn offers this feature.
 >
-> **[1:26](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=86)** Generate your file in Microsoft Stream, or on YouTube from any video.
+> **[1:26](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=86)** Generate your file in [[Microsoft]] Stream, or on YouTube from any video.
 >
 > **[1:30](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=90)** Make your edits.
 >
@@ -1078,7 +1066,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=99)** This is a super simple habit to get into, and it came from the coding world where developers were reading long strings of code.
 >
-> **[1:46](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=106)** Whenever you see a long word, that makes no sense, it normally has a hashtag next to it.
+> **[1:46](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=106)** Whenever you see a long [[Microsoft Word|word]], that makes no sense, it normally has a hashtag next to it.
 >
 > **[1:51](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-social-media?u=76281980&t=111)** Use capital letters at the start of each word.
 >
@@ -1090,21 +1078,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Android]] (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Android]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** srt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - every (1)
 
-#### Tips for more accessible meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980)
+#### [Tips for more accessible meetings](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980&t=0)** - The proliferation of online meetings has been amazing to watch.
 >
-> **[0:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980&t=4)** The mix of video screen-share, the message pain, the use of polls or forms built into teams, interaction sales.
+> **[0:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980&t=4)** The mix of video screen-share, the message pain, the use of polls or [[Forms]] built into teams, interaction sales.
 >
 > **[0:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-meetings?u=76281980&t=12)** The more ways you can offer it, the more buy-in you get from your colleagues.
 >
@@ -1160,14 +1147,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Forms]] (1), teams (1), feature (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** adhd (1), gifs (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - the (1)
 
-#### Tips for more accessible email
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980)
+#### [Tips for more accessible email](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,9 +1181,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=47)** So it goes without saying, your email matters.
 >
-> **[0:52](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=52)** This is your introduction to the Accessibility Checker in Office.
+> **[0:52](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=52)** This is your introduction to the Accessibility Checker in [[Microsoft Office|Office]].
 >
-> **[0:56](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=56)** You'll find it right there in the Review tab in Outlook and elsewhere.
+> **[0:56](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=56)** You'll find it right there in the Review tab in [[Microsoft Outlook|Outlook]] and elsewhere.
 >
 > **[1:01](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=61)** When you run this, it will tell you when images are not described, add warnings on embedded video, check scan order on objects.
 >
@@ -1205,7 +1191,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=72)** You just need to make those corrections before you send.
 >
-> **[1:16](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=76)** You might be interested to know that we use computer vision to describe images in Office 365.
+> **[1:16](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=76)** You might be interested to know that we use [[Computer Vision]] to describe images in Office 365.
 >
 > **[1:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-email?u=76281980&t=82)** AI does some of the work for you here, but more often than not, you'll want to amend the automated text for a personal description.
 >
@@ -1247,14 +1233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Computer Vision]] (1), ai (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Computer Vision]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - did (1)
 
-#### Tips for more accessible presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980)
+#### [Tips for more accessible presentations](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,7 +1265,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=44)** Accessible documentation is a deliverable now.
 >
-> **[0:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=47)** If you're presenting at a Microsoft global event, we now request the all collateral is made accessible by the author.
+> **[0:47](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=47)** If you're presenting at a [[Microsoft]] global event, we now request the all collateral is made accessible by the author.
 >
 > **[0:54](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=54)** This spreads the load.
 >
@@ -1324,7 +1309,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=126)** This is all about composing image descriptions for shapes, pictures, charts, tables, and smart arts.
 >
-> **[2:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=134)** Quick tip here, all icons in Office 365 and stock images already have basic image description included.
+> **[2:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=134)** Quick tip here, all icons in [[Microsoft Office|Office]] 365 and stock images already have basic image description included.
 >
 > **[2:23](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/tips-for-more-accessible-presentations?u=76281980&t=143)** Then there's slide layout and reading order.
 >
@@ -1362,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft]] (2), teams (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
@@ -1374,14 +1359,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980)
+#### [Accessibility best practices](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=0)** - You've assessed your personal accessibility approach to social media, and you've changed your email footer to an accessible template.
 >
-> **[0:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=8)** You're familiar with the accessibility checker in office and you're ensuring that wherever possible, you share accessible collateral.
+> **[0:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=8)** You're familiar with the accessibility checker in [[Microsoft Office|office]] and you're ensuring that wherever possible, you share accessible collateral.
 >
 > **[0:15](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=15)** You've reached out to your comms team and asked them to make some commitments to colleagues with disabilities, and to look at their public-facing collateral.
 >
@@ -1425,7 +1409,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=93)** If you can find a budget for this, then please go this route.
 >
-> **[1:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=96)** For years, digital accessibility has been the domain of the IT team.
+> **[1:36](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=96)** For years, [[Digital Accessibility]] has been the domain of the IT team.
 >
 > **[1:41](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980&t=101)** I would ask you to feel empowered to influence the accessibility of your workspace and the experience of your customers or service users.
 >
@@ -1439,15 +1423,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), [[Digital Accessibility]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Digital Accessibility]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - you (1)
 
-#### Enhancing your accessibility skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980)
+#### [Enhancing your accessibility skills](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1461,9 +1444,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=19)** Now, you may be wondering where can I go to learn more?
 >
-> **[0:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=22)** The first place I'd recommend is [microsoft.com/accessibility](https://microsoft.com/accessibility).
+> **[0:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=22)** The first place I'd recommend is [[[Microsoft]].com/accessibility](https://microsoft.com/accessibility).
 >
-> **[0:27](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=27)** Here, you'll find information about Microsoft products, investments we're making in accessibility and access to further learning.
+> **[0:27](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=27)** Here, you'll find information about [[Microsoft Products]], investments we're making in accessibility and access to further learning.
 >
 > **[0:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=34)** If you're interested in our approach to disability inclusion, go to aka.ms/DisabilityInclusion.
 >
@@ -1483,7 +1466,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=88)** Get the certificate and put it on your resume.
 >
-> **[1:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=92)** Finally, connect with me on LinkedIn.
+> **[1:32](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=92)** Finally, connect with me on [[LinkedIn]].
 >
 > **[1:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=94)** I'd love to hear from you.
 >

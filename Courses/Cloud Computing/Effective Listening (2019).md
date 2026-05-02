@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your listening skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
+#### [Improve your listening skills](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,12 +113,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), leadership (1)
 > **Speakers:** - hello (1), - and (1), - that (1), - true (1), - it (1)
 > **CLI Commands:** make (1)
 
-#### Getting the most out of the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-the-most-out-of-the-course-2?u=76281980)
+#### [Getting the most out of the course](https://www.linkedin.com/learning/effective-listening-2019/getting-the-most-out-of-the-course-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - we (2), - listening (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -164,8 +160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Five skills for improved listening
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
+#### [Five skills for improved listening](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,19 +214,18 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980&t=168)** Yet.
 >
-> **[2:49](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980&t=169)** But in the rest of this chapter, Tatiana and I will describe each of these listening skills in more detail.
+> **[2:49](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980&t=169)** But in the [[Representational State Transfer (REST)|rest]] of this chapter, Tatiana and I will describe each of these listening skills in more detail.
 >
 > **[2:55](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980&t=175)** We'll talk about why the skillset matters to our overall listening abilities, and we'll give you some tips on improving your weakest areas.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), strengths (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (2)
 > **Speakers:** - let (1)
 
-#### Recall details
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980)
+#### [Recall details](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980&t=104)** Take notes next time someone give you instructions on how to do a specific task.
 >
-> **[1:50](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980&t=110)** Maybe your tech support person is explaining how to clear your cache or how to sort an Excel sheet in a certain way.
+> **[1:50](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980&t=110)** Maybe your tech support person is explaining how to clear your cache or how to sort an [[Microsoft Excel|Excel]] sheet in a certain way.
 >
 > **[1:56](https://www.linkedin.com/learning/effective-listening-2019/recall-details-2?u=76281980&t=116)** Take notes and then test yourself by reading the notes back to the tech support person and see if you got it.
 >
@@ -271,13 +265,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - recalling (1)
 
-#### Understand the big picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/understand-the-big-picture-2?u=76281980)
+#### [Understand the big picture](https://www.linkedin.com/learning/effective-listening-2019/understand-the-big-picture-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,14 +314,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1)
 > **Analogies:** picture (5)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - sometimes (1)
 
-#### Evaluate content
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980)
+#### [Evaluate content](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980&t=19)** For Brenda and I, sometimes happens when we sit through student case competitions, and we have to decide who has the most credible, persuasive, and well researched idea.
 >
-> **[0:29](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980&t=29)** In the business world this type of critical listening is essential in the viability of the organization and sustainability for future growth.
+> **[0:29](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980&t=29)** In the business world this type of critical listening is essential in the viability of the organization and [[Sustainability]] for future growth.
 >
 > **[0:38](https://www.linkedin.com/learning/effective-listening-2019/evaluate-content-2?u=76281980&t=38)** If audiences don't listen critically and weigh the information they have in front of them, decisions they make can be flawed.
 >
@@ -388,13 +379,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), business (1), [[Sustainability]] (1), product (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - some (1)
 
-#### Attune to subtle cues
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980)
+#### [Attune to subtle cues](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980&t=118)** The late anthropologist Edward Hall spent years observing people and documenting their nonverbals.
 >
-> **[2:05](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980&t=125)** In his inaugural academic book, "The Silent Language," he outlines the theory of explicit, or verbal, versus informal, nonverbal forms of communication.
+> **[2:05](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980&t=125)** In his inaugural academic book, "The Silent Language," he outlines the theory of explicit, or verbal, versus informal, nonverbal [[Forms]] of communication.
 >
 > **[2:16](https://www.linkedin.com/learning/effective-listening-2019/attune-to-subtle-cues-2?u=76281980&t=136)** Hall was famous for spending hours at a time watching people while sitting on the park bench and taking copious notes.
 >
@@ -470,8 +460,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - can (1)
 
-#### Listen with empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/listen-with-empathy?u=76281980)
+#### [Listen with empathy](https://www.linkedin.com/learning/effective-listening-2019/listen-with-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,15 +516,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), next (1)
 > **Analogies:** such as (3), for example (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - listening (1)
 
-#### When and how to listen
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980)
+#### [When and how to listen](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -567,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=61)** So we're going to practice in a couple of situations.
 >
-> **[1:05](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=65)** Watch this clip from the [LinkedIn.com](https://LinkedIn.com), having difficult conversations course.
+> **[1:05](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=65)** Watch this clip from the [[[LinkedIn]].com](https://LinkedIn.com), having difficult conversations course.
 >
 > **[1:10](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=70)** Note how the man in the blue shirt, who is the manager in this situation, should have been listening.
 >
@@ -613,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=141)** - The real problem here is you need to adjust your attitude.
 >
-> **[2:25](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=145)** The rest of our team is producing good work and everybody else seems happy here.
+> **[2:25](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=145)** The [[Representational State Transfer (REST)|rest]] of our team is producing good work and everybody else seems happy here.
 >
 > **[2:29](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=149)** I'm the boss.
 >
@@ -635,7 +622,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=174)** - Let's try another one.
 >
-> **[2:55](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=175)** In this clip from my presentation fundamentals course, Katie, a human resources employee gets a visit from a supervisor.
+> **[2:55](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=175)** In this clip from my presentation fundamentals course, Katie, a [[Human Resources (HR)|human resources]] employee gets a visit from a supervisor.
 >
 > **[3:02](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=182)** Which of the five types of listening is most important for Katie in this situation?
 >
@@ -721,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - thanks (2), - yeah (2), - well (2), - that (2), - i (2)
 > **Analogies:** picture (3), imagine (1), for example (1)
 > **CLI Commands:** make (3)
@@ -734,8 +721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting distracted by internal noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
+#### [Getting distracted by internal noise](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +805,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980&t=244)** Likewise when listening, we tend to hear what we expect to hear, whether or not that's what the speaker had to say.
 >
-> **[4:10](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980&t=250)** Our mental filters need a good cleaning if we react to certain words, phrases, or topics because they are hot buttons for us emotionally.
+> **[4:10](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980&t=250)** Our mental filters need a good cleaning if we [[React.js|react]] to certain words, phrases, or topics because they are hot buttons for us emotionally.
 >
 > **[4:20](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980&t=260)** Our cherished notions, our strong convictions, and our assumptions about reality can end up clouding our ability to listen openly and without preconceived bias.
 >
@@ -829,12 +815,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - there (1)
 
-#### Multitasking
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/multitasking-2?u=76281980)
+#### [Multitasking](https://www.linkedin.com/learning/effective-listening-2019/multitasking-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,13 +915,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (1)
 > **Speakers:** - i (3), - um (2), - yeah (2), - hey (1), - right (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1)
 
-#### Paying attention to delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980)
+#### [Paying attention to delivery](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980&t=6)** Or maybe you've been in a meeting with someone who spinach at lunch and still has a little bit stuck.
 >
-> **[0:12](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980&t=12)** Or do you tune out when a speaker is reading from his notes or the PowerPoint?
+> **[0:12](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980&t=12)** Or do you tune out when a speaker is reading from his notes or the [[Microsoft PowerPoint|PowerPoint]]?
 >
 > **[0:17](https://www.linkedin.com/learning/effective-listening-2019/paying-attention-to-delivery-2?u=76281980&t=17)** You may find yourself so distracted by delivery issues that you forget to tune in and practice your best listening behaviors.
 >
@@ -1031,8 +1014,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), cat (1)
 > **Speakers:** - have (1)
 
-#### Overwhelming yourself with information
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980)
+#### [Overwhelming yourself with information](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=106)** Instead, you want to grasp the big picture, major developments in the business over time and key leaders or values of the organization.
 >
-> **[1:56](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=116)** However, if at this same orientation, an HR rep gives you the deadline dates for you to submit your healthcare forms, well, you better write that down, maybe even in a section of your notes titled To Do.
+> **[1:56](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=116)** However, if at this same orientation, an HR rep gives you the deadline dates for you to submit your healthcare [[Forms]], well, you better write that down, maybe even in a section of your notes titled To Do.
 >
 > **[2:09](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=129)** Consider how you will be using the information you are listening to and that will help you know what to write down.
 >
@@ -1090,17 +1072,16 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=143)** Just experiment until you find one that works for you.
 >
-> **[2:27](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=147)** And remember, never use a sentence when you can use a phrase, or a phrase when you can use a word.
+> **[2:27](https://www.linkedin.com/learning/effective-listening-2019/overwhelming-yourself-with-information-2?u=76281980&t=147)** And remember, never use a sentence when you can use a phrase, or a phrase when you can use a [[Microsoft Word|word]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), hr (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (2)
 > **Speakers:** - you (1)
 
-#### Responding inappropriately
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/responding-inappropriately-2?u=76281980)
+#### [Responding inappropriately](https://www.linkedin.com/learning/effective-listening-2019/responding-inappropriately-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,7 +1317,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Speakers:** - oh (11), - yeah (5), - it (5), - well (3), - did (2)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1346,8 +1326,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effective listening behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
+#### [Effective listening behaviors](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,8 +1347,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
 
-#### Clarify your role
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980)
+#### [Clarify your role](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980&t=55)** or "You sound like you just want to vent."
 >
-> **[0:59](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980&t=59)** A simple clarification on your listening role will save you from the miscommunication effects of the Mars and Venus type of miscommunication according to author John Gray.
+> **[0:59](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980&t=59)** A simple clarification on your listening role will save you from the miscommunication effects of the Mars and Venus type of miscommunication according to author [[John the Ripper|John]] Gray.
 >
 > **[1:10](https://www.linkedin.com/learning/effective-listening-2019/clarify-your-role?u=76281980&t=70)** John Gray suggests that couples get into arguments because men revert to problem-solving when women just want them to be a sounding board.
 >
@@ -1425,12 +1403,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **Env Vars:** mbti (1)
 > **Speakers:** - as (1)
 
-#### Use nonverbal cues
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/use-nonverbal-cues?u=76281980)
+#### [Use nonverbal cues](https://www.linkedin.com/learning/effective-listening-2019/use-nonverbal-cues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,8 +1483,7 @@ created: 2026-05-02
 > **Env Vars:** ucla (1)
 > **Speakers:** - you (1)
 
-#### Allow silence
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980)
+#### [Allow silence](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,7 +1499,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980&t=34)** This doesn't come easy to some of us.
 >
-> **[0:36](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980&t=36)** See, I suffer from kinesthesia, the Greek word that literally means sense of movement.
+> **[0:36](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980&t=36)** See, I suffer from kinesthesia, the Greek [[Microsoft Word|word]] that literally means sense of movement.
 >
 > **[0:43](https://www.linkedin.com/learning/effective-listening-2019/allow-silence?u=76281980&t=43)** This is my processing and learning style, so when I listen, I'm more likely to want to move as I take in the information.
 >
@@ -1569,8 +1545,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
-#### Paraphrase what was said
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980)
+#### [Paraphrase what was said](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,9 +1565,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=38)** "Here's what I hear you describe happened to this point..."
 >
-> **[0:43](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=43)** I sharpened my skills of this active listening behavior when I worked in human resources and did conflict resolution.
+> **[0:43](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=43)** I sharpened my skills of this active listening behavior when I worked in [[Human Resources (HR)|human resources]] and did conflict resolution.
 >
-> **[0:51](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=51)** Often, when our office got involved, two employees were not talking at all and the atmosphere was vitriolic.
+> **[0:51](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=51)** Often, when our [[Microsoft Office|office]] got involved, two employees were not talking at all and the atmosphere was vitriolic.
 >
 > **[0:58](https://www.linkedin.com/learning/effective-listening-2019/paraphrase-what-was-said?u=76281980&t=58)** I would spend time listening to each and paraphrasing to try and understand the situation, their viewpoint, and their overall needs.
 >
@@ -1612,11 +1587,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - the (1)
 
-#### Match emotions
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980)
+#### [Match emotions](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1634,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980&t=109)** The matching and mirroring of gestures, stances, and vocalics is astounding.
 >
-> **[1:54](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980&t=114)** Now that is relationship building in the making, and a perfect example of listening in action.
+> **[1:54](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980&t=114)** Now that is [[Relationship Building]] in the making, and a perfect example of listening in action.
 >
 > **[2:01](https://www.linkedin.com/learning/effective-listening-2019/match-emotions?u=76281980&t=121)** Let me add one caveat on matching and mirroring.
 >
@@ -1682,8 +1656,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - active (1)
 
-#### Effective listening in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-in-action-2?u=76281980)
+#### [Effective listening in action](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-in-action-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1758,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - okay (3), - i (3), - yes (2), - yeah (2), - now (1)
 
 
@@ -1793,8 +1765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting listening goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)
+#### [Setting listening goals](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,7 +1821,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980&t=126)** Be accountable.
 >
-> **[2:07](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980&t=127)** We left the most important part of habit formation last, accountability.
+> **[2:07](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980&t=127)** We left the most important part of habit formation last, [[Accountability]].
 >
 > **[2:13](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980&t=133)** Share your habit-forming strategy with a friend or family member.
 >
@@ -1872,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Speakers:** - we (1), - follow (1), - now (1), - tatiana (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)

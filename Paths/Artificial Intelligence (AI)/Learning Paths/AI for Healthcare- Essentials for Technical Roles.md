@@ -9,7 +9,7 @@ linkedin_topics:
   - Data Science
   - DevOps
   - Network and System Administration
-louvain_cluster: 19
+louvain_cluster: 18
 tags:
   - learning-path
   - topic/artificial-intelligence

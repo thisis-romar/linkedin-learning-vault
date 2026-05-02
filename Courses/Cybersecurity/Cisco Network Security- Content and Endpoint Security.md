@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mitigate endpoint threats and provide security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
+#### [Mitigate endpoint threats and provide security](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,9 +91,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=13)** I'll discuss web filtering, email encryption, blacklisting, and how to fight against spam in your organization.
 >
-> **[0:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=22)** I'll review some standards and regulations along with best practices that include malware protection, personal firewalls and host intrusion detection along with hardware and software encryption techniques.
+> **[0:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=22)** I'll review some standards and regulations along with best practices that include malware protection, personal firewalls and host [[Intrusion Detection]] along with [[Hardware]] and software encryption techniques.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=36)** I'm super excited to bring you this series on CCNA Security and this section on Content and Endpoint Security so that you can improve your skills and configuration and maintenance of Cisco devices, to properly secure an organization's infrastructure.
+> **[0:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=36)** I'm super excited to bring you this series on CCNA Security and this section on Content and [[Endpoint Security]] so that you can improve your skills and configuration and maintenance of Cisco devices, to properly secure an organization's infrastructure.
 >
 > **[0:54](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980&t=54)** Are you ready?
 >
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), web (2), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Endpoint Security]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Hardware]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** ccna (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/what-you-need-to-know-23653901?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/what-you-need-to-know-23653901?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
 > **UI Navigation:** scroll down (1)
@@ -138,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Incorporating safeguards
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
+#### [Incorporating safeguards](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=47)** Content security protects data as it's accessed, transferred, or shared across a network, by monitoring and securing files, folders, emails, and web traffic.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=60)** Endpoint security monitors and protects endpoints or devices, such as laptops, mobile devices, tablets, and workstations that are connected to a network.
+> **[1:00](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=60)** [[Endpoint Security]] monitors and protects endpoints or devices, such as laptops, mobile devices, tablets, and workstations that are connected to a network.
 >
 > **[1:13](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=73)** Now that we understand the concept of content and endpoint security, let's talk about the evolving threat landscape.
 >
@@ -173,7 +169,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=137)** We're seeing everything from network-based ransomware worms, to devastating wiper malware.
 >
-> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=145)** In addition, we see many times there's a multi-vendor environment, and that includes bring your own device, the Internet of Things, and the many different operating systems in today's complex networks.
+> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=145)** In addition, we see many times there's a multi-vendor environment, and that includes bring your own device, the [[IoT|Internet of Things]], and the many different operating systems in today's complex networks.
 >
 > **[2:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980&t=161)** Now, this adds to the risk because most of the time, we can't update all of them.
 >
@@ -195,12 +191,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (5), [[Endpoint Security]] (3), web (2), ai (2)
+> **Frameworks & Libraries:** [[Endpoint Security]] (3), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Secure the endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980)
+#### [Secure the endpoints](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=28)** Endpoints are one side of a conversation that is capable of accepting communication.
 >
-> **[0:35](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=35)** On our network, you'll see several endpoints that include work stations, storage area networking devices, servers, IP phones, IoT devices, and remote and mobile workers.
+> **[0:35](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=35)** On our network, you'll see several endpoints that include work stations, storage area networking devices, servers, IP phones, [[IoT]] devices, and remote and mobile workers.
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=51)** Today's networks have become diverse and they've also changed.
 >
@@ -234,15 +229,15 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=92)** Software represents the largest attack surface and includes applications, services, executables, and webpages.
 >
-> **[1:42](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=102)** The network attack surface includes devices and interfaces, ports on outward-facing server, such as the mail and web servers in the DMZ.
+> **[1:42](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=102)** The network attack surface includes devices and interfaces, ports on outward-facing server, such as the mail and [[Web Servers]] in the DMZ.
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=113)** The human attack surface is the weakest link in an organization and can introduce malicious behavior into the network either accidentally or maliciously.
 >
 > **[2:05](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=125)** Yes, there are many attack vectors, yet it's still necessary for the devices to connect to the network securely.
 >
-> **[2:13](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=133)** Endpoint security measures have grown in importance, as the endpoint can now help to defend the network.
+> **[2:13](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=133)** [[Endpoint Security]] measures have grown in importance, as the endpoint can now help to defend the network.
 >
-> **[2:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=142)** More advanced measures provide capabilities, such as access control and intrusion detection, along with malware protection, encryption, blacklisting and whitelisting, blocking risky or malicious activities, either by end-users or intruders, or personal firewalls.
+> **[2:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=142)** More advanced measures provide capabilities, such as access control and [[Intrusion Detection]], along with malware protection, encryption, blacklisting and whitelisting, blocking risky or malicious activities, either by end-users or intruders, or personal firewalls.
 >
 > **[2:44](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/secure-the-endpoints?u=76281980&t=164)** Cisco has several security solutions to ensure endpoint security.
 >
@@ -254,14 +249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Endpoint Security]] (3), [[Security]] (3), web (2), data (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Endpoint Security]] (3), [[IoT]] (1), [[Web Servers]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** dmz (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standards and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980)
+#### [Standards and regulations](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -271,15 +265,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=22)** The standards, regulations, and guidelines are important to understand, as they outline the way the organization should implement appropriate security measures to address and reduce overall risk.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=38)** Payment Card Industry Data Security Standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
+> **[0:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=38)** Payment Card Industry [[Data Security]] Standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:50](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=50)** PCI DSS is not a law or a government regulation, however if you do deal with any credit card transactions you must comply.
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=61)** Otherwise a company will face a hefty fine and may lose the ability to handle credit card transactions.
 >
-> **[1:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=69)** The Health Insurance Portability and Accountability Act, or HIPAA, is also called the privacy rule.
+> **[1:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=69)** The Health Insurance Portability and [[Accountability]] Act, or HIPAA, is also called the [[Privacy]] rule.
 >
-> **[1:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=78)** This is legislation that governs data privacy and security practices that safeguard all patient electronic Protected Health Information in US medical facilities.
+> **[1:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=78)** This is legislation that governs [[Data Privacy]] and security practices that safeguard all patient electronic Protected Health Information in US medical facilities.
 >
 > **[1:32](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=92)** Along with this is they must report any breach activity.
 >
@@ -311,11 +305,11 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=210)** Now the Enron scandal pushed the American public and Congress to recognize the need for new compliance standards for public accounting and auditing.
 >
-> **[3:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=221)** And although SOX has many sections, sections 301 and 404 indirectly deal with information assurance and data integrity.
+> **[3:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=221)** And although SOX has many sections, sections 301 and 404 indirectly deal with information assurance and [[Data Integrity]].
 >
 > **[3:51](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=231)** All companies must monitor and manage all data and financial transactions and provide an annual report on what internal controls are in place, along with the effectiveness of the controls.
 >
-> **[4:06](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=246)** Financial reports must be accurate and complete, with no evidence of unauthorized transactions or data manipulation.
+> **[4:06](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=246)** Financial reports must be accurate and complete, with no evidence of unauthorized transactions or [[Data Manipulation]].
 >
 > **[4:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=256)** And most recently is the General Data Protection Regulation.
 >
@@ -335,15 +329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Security]] (6), [[Privacy]] (4), [[Accountability]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (3), [[Data Security]] (1), [[Accountability]] (1), [[Privacy]] (1), [[Data Integrity]] (1)
 > **Env Vars:** sox (4), gdpr (4), pci (3), dss (3), hipaa (2)
 > **Definitions:** is a  (2)
 > **Versions:** 1.7 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### COBIT framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980)
+#### [COBIT framework](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +352,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980&t=40)** COBIT, or control objectives for IT, helps navigate the challenge of providing information assurance, security, and risk mitigation.
 >
-> **[0:51](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980&t=51)** COBIT is a set of IT principles and provides a best-practice framework designed to safeguard the privacy and security of company-specific data, such as trade secrets and personnel information, to ensure value to its stakeholders.
+> **[0:51](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980&t=51)** COBIT is a set of IT principles and provides a best-practice framework designed to safeguard the [[Privacy]] and security of company-specific data, such as trade secrets and personnel information, to ensure value to its stakeholders.
 >
 > **[1:10](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/cobit-framework?u=76281980&t=70)** COBIT divides the framework into four domains that include plan and organize, acquire and implement, deliver and support, and monitor and evaluate.
 >
@@ -381,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Security]] (4), [[Privacy]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** cobit (8)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -392,8 +385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PCI DSS controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
+#### [PCI DSS controls](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=8)** Merchants must design and build an ecommerce site with PCI DSS security in mind.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=17)** Payment card industry data security standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=17)** Payment card industry [[Data Security]] standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=28)** Several major credit card companies developed PCI DSS in 2004.
 >
@@ -409,7 +401,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=44)** The credit card industry developed the standard to help organizations that deal with credit cards to have more control over cardholder data and reduce the risk of possible exposure and fraud.
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=58)** PCI DSS requirements covers management policy, network security, and best practices for handling transactions and cardholder data.
+> **[0:58](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=58)** PCI DSS requirements covers management policy, [[Network Security]], and best practices for handling transactions and cardholder data.
 >
 > **[1:10](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=70)** PCI DSS has six major principles and requirements.
 >
@@ -435,15 +427,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (3), management (2), express (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (8), dss (8), jcb (1), dmz (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defend the website
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980)
+#### [Defend the website](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=18)** The website may be involved in one of several attacks to get to the database.
 >
-> **[0:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=24)** Attacks that include denial of service, SQL injection, or cross-site scripting.
+> **[0:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=24)** Attacks that include denial of service, [[SQL]] injection, or cross-site scripting.
 >
 > **[0:31](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=31)** In order to gain access to the data servers to steal confidential information.
 >
@@ -469,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=75)** However, justice cannot hold a criminal liable for a company failing to use methods to protect the data in the organization.
 >
-> **[1:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=84)** Therefore, test all applications to assure no one can breach the databases in an organization, including web applications, those are the internet-facing applications, the network applications, such as customer-relationship management, and end-user applications that run on end-user devices and remote systems.
+> **[1:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=84)** Therefore, test all applications to assure no one can breach the [[Databases]] in an organization, including web applications, those are the internet-facing applications, the network applications, such as customer-relationship management, and end-user applications that run on end-user devices and remote systems.
 >
 > **[1:48](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=108)** The security team should determine poor procedures and inadequate security, and do application testing that includes input validation of form information and common vulnerabilities, such as cross-site scripting, SQL injection, and buffer overflow attacks, along with others that your vulnerability scanner will most likely identify.
 >
@@ -477,13 +468,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=139)** I used [example.com](https://example.com) and said scan the website.
 >
-> **[2:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=144)** Now, this is a very simple website used for purposes like this and it shows a low security risk but down below, it might indicate that there are things that need to be fixed.
+> **[2:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=144)** Now, this is a very simple website used for purposes like this and it shows a low [[Security Risk]] but down below, it might indicate that there are things that need to be fixed.
 >
 > **[2:37](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=157)** Now, it's not always advanced hacking methods that get us to the database.
 >
 > **[2:42](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=162)** There are other ways malicious actors get in.
 >
-> **[2:46](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=166)** Weak and stolen credentials are the low-hanging fruit, and they account for over 70% of the network intrusions, where a hacker can obtain those user credentials by keylogging, malware, or phishing attacks.
+> **[2:46](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=166)** Weak and stolen credentials are the low-hanging fruit, and they account for over 70% of the network intrusions, where a hacker can obtain those user credentials by keylogging, malware, or [[Phishing]] attacks.
 >
 > **[3:02](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/defend-the-website?u=76281980&t=182)** A major breach leakage or complete loss of sensitive data has many implications.
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), database (4), data (4), [[SQL]] (2), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1), [[Security Risk]] (1), [[Phishing]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** sql (2), gdpr (1)
 > **CLI Commands:** find (1)
@@ -513,8 +504,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web proxies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980)
+#### [Web proxies](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,9 +536,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=121)** As far as configuration, you can couple a proxy with Cisco's Advance Malware Protection, or AMP, which protects endpoints and networks more effectively than traditional host-based malware protection.
 >
-> **[2:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=136)** AMP protects before, during, and after an attack, and can enable malware detection, and blocking, continuous analysis, and alerting.
+> **[2:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=136)** AMP protects before, during, and after an attack, and can enable [[Malware Detection]], and blocking, continuous analysis, and alerting.
 >
-> **[2:30](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=150)** AMP uses the cloud security intelligence networks of Talos to gather real-time threat intelligence from millions of endpoints and security devices.
+> **[2:30](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=150)** AMP uses the [[Cloud Security]] intelligence networks of Talos to gather [[Real-Time]] threat intelligence from millions of endpoints and security devices.
 >
 > **[2:40](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-proxies?u=76281980&t=160)** Those include firewalls, intrusion prevention, web and email servers, and analyzes billions of web requests every day.
 >
@@ -556,12 +546,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), cloud (5), data (3), [[Security]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Malware Detection]] (1), [[Cloud Security]] (1), [[Real-Time]] (1)
 > **Env Vars:** amp (3), http (2)
 > **Speakers:** - [narrator] (1)
 
-#### Web filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980)
+#### [Web filtering](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980&t=25)** Malicious actors can embed harmful elements such as malicious codes or scripts within a website.
 >
-> **[0:32](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980&t=32)** The methods involve using drive-by downloads, phishing links, malvertising or exploiting vulnerabilities in web applications.
+> **[0:32](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980&t=32)** The methods involve using drive-by downloads, [[Phishing]] links, malvertising or exploiting vulnerabilities in web applications.
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/web-filtering-23653909?u=76281980&t=44)** Just visiting a website can result in an attack.
 >
@@ -633,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), traffic (6), [[Phishing]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Env Vars:** url (8), mac (2), tcp (1), udp (1), icmp (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Ports:** :00 (3)
@@ -641,8 +630,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### TLS/SSL decryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980)
+#### [TLS/SSL decryption](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,15 +642,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=19)** We can even do selective examination if it for example comes from a website with a bad reputation.
 >
-> **[0:26](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=26)** In order to examine the traffic, the system must decrypt it before examining it and then it can monitor for threats, examine for reputation, intrusion detection, access control and advanced malware protection.
+> **[0:26](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=26)** In order to examine the traffic, the system must decrypt it before examining it and then it can monitor for threats, examine for reputation, [[Intrusion Detection]], access control and advanced malware protection.
 >
 > **[0:42](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=42)** It then encrypts it and sends it off to the destination.
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=46)** Now of course it has to have the keys in order to do this so you really have to have control of your network.
 >
-> **[0:53](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=53)** In this demo, I'm going to use Wireshark to show you what it looks like when traffic is encrypted and then after it's decrypted.
+> **[0:53](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=53)** In this demo, I'm going to use [[Wireshark]] to show you what it looks like when traffic is encrypted and then after it's decrypted.
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=62)** One thing we are gonna talk about is the Cisco 2018 annual cybersecurity report illustrates a couple of key points.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=62)** One thing we are gonna talk about is the Cisco 2018 annual [[Cybersecurity]] report illustrates a couple of key points.
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=71)** One is that they're seeing a rise in encrypted web traffic.
 >
@@ -690,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=137)** Now this is an old packet capture as you can see, but it tells us the preferences so you can add it for the RSA key list.
 >
-> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=145)** And either Unix Linux or Windows and we are gonna be using Windows so you can see what the settings are.
+> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=145)** And either Unix [[Linux]] or [[Windows]] and we are gonna be using Windows so you can see what the settings are.
 >
 > **[2:33](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/tls-ssl-decryption?u=76281980&t=153)** I've opened up rsasnakeoil and let's take a look at this.
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), data (6), [[Wireshark]] (2), web (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Windows]] (2), [[Intrusion Detection]] (1), [[Cybersecurity]] (1), [[Linux]] (1)
 > **Env Vars:** ssl (3), rsa (2), pcap (1), http (1)
 > **Definitions:** is a  (2), is an  (2)
 > **UI Navigation:** go to (2)
@@ -738,8 +726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Email malware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
+#### [Email malware](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=8)** More than 100 billion corporate email messages are exchanged every day.
 >
-> **[0:14](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=14)** Although highly effective, email can pose a security risk.
+> **[0:14](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=14)** Although highly effective, email can pose a [[Security Risk]].
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=20)** Some threats include malware that is introduced through an employee's email.
 >
@@ -763,13 +750,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=50)** So, if for whatever reason you're not getting a file, it may have been quarantined because it has one of these extensions and is recognized as a possible threat.
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=62)** Phishing attacks encourage the recipient to click on a link and share confidential information.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=62)** [[Phishing]] attacks encourage the recipient to click on a link and share confidential information.
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=68)** A phishing attack can lead to a ransomware attack or a phishing attack can get the user to click on a link and download malware.
 >
 > **[1:19](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=79)** Scripts can be embedded within the email and can run when a user opens the email and complete some malicious act.
 >
-> **[1:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=88)** Malware can conceal itself in applications or even a Word doc, which might contain a virus.
+> **[1:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=88)** Malware can conceal itself in applications or even a [[Microsoft Word|Word]] doc, which might contain a virus.
 >
 > **[1:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=96)** For example, a macro is a series of repetitive events that are recorded, such as inserting stock text at the beginning of every document, and then run when launched.
 >
@@ -781,7 +768,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=138)** If you're concerned about a file and it is in your quarantine, you can upload it to VirusTotal.
 >
-> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=145)** VirusTotal will scan the file with a variety of different anti-malware products and tell you what each one will say about it.
+> **[2:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=145)** VirusTotal will scan the file with a variety of different anti-malware [[Microsoft Products|products]] and tell you what each one will say about it.
 >
 > **[2:33](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980&t=153)** Protect against email malware.
 >
@@ -789,14 +776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), business (1), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Security Risk]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Combatting SPAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980)
+#### [Combatting SPAM](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,13 +792,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=12)** That includes using spam filtering, email authentication, and user education.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=20)** Spam goes hand in hand with malware, phishing, and pharming, and they're all dangerous.
+> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=20)** Spam goes hand in hand with malware, [[Phishing]], and pharming, and they're all dangerous.
 >
 > **[0:29](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=29)** Criminals continue to use email to deliver a payload, as email provides a convenient way to reach victims on a global scale.
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=41)** Just how much spam is out there?
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=45)** Well, I'm at this website, EmailToolTester, where we can get some statistics on how much is legitimate email and how much is spam.
+> **[0:45](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=45)** Well, I'm at this website, EmailToolTester, where we can get some [[Statistics]] on how much is legitimate email and how much is spam.
 >
 > **[0:56](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=56)** And I'll scroll down where we can see the results in a chart from an article dated August 2024.
 >
@@ -846,7 +832,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=176)** There are generally several references to spam filters, and methods that test for spam-like behavior.
 >
-> **[3:07](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=187)** Now, in this case here, we see this line, an anti-spam message from Microsoft Exchange.
+> **[3:07](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=187)** Now, in this case here, we see this line, an anti-spam message from [[Microsoft]] Exchange.
 >
 > **[3:14](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/combatting-spam?u=76281980&t=194)** BLC is bulk compliant level.
 >
@@ -876,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), [[Statistics]] (1), [[Microsoft]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Statistics]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** blc (2)
@@ -884,8 +870,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data loss prevention
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980)
+#### [Data loss prevention](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,9 +878,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=11)** A network specialist must be aware of the many vectors of data exfiltration and ways to prevent data loss.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=20)** Whether data is at rest or in motion over the network, there are many vectors or method whereby data can leave the organization.
+> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=20)** Whether data is at [[Representational State Transfer (REST)|rest]] or in motion over the network, there are many vectors or method whereby data can leave the organization.
 >
-> **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=28)** Vectors can include storage devices, email, missing or improper access controls, cloud storage, and malware.
+> **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=28)** Vectors can include storage devices, email, missing or improper access controls, [[Cloud Storage]], and malware.
 >
 > **[0:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=38)** Email and email attachments can both contain sensitive information, like customer and personal data, along with business information such as intellectual property, trade secrets, credit card information or social security numbers.
 >
@@ -905,7 +890,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=65)** This could lead to data exfiltration.
 >
-> **[1:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=68)** Or the victim might send information to a hacker as a result of a phishing or social engineering attack.
+> **[1:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=68)** Or the victim might send information to a hacker as a result of a [[Phishing]] or social engineering attack.
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/data-loss-prevention?u=76281980&t=76)** Data loss prevention must include a platform to do content monitoring of all email to detect and block the unauthorized flow of information.
 >
@@ -929,14 +914,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Storage]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Email encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980)
+#### [Email encryption](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +944,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=69)** However, if someone gets ahold of a plain text email, they can read the contents, and a sender's name can be spoofed.
 >
-> **[1:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=78)** Even in Outlook you can forge your name.
+> **[1:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=78)** Even in [[Microsoft Outlook|Outlook]] you can forge your name.
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=81)** We have alternatives for sending email in plain text.
 >
@@ -970,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=93)** Secure/MIME provides authentication and nonrepudiation using digital signatures, which helps reassure recipients that the message started with a specific sender, and not from someone pretending to be the sender.
 >
-> **[1:49](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=109)** Secure/MIME provides privacy by providing encryption for all email to ensure confidentiality.
+> **[1:49](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=109)** Secure/MIME provides [[Privacy]] by providing encryption for all email to ensure confidentiality.
 >
 > **[1:56](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-encryption?u=76281980&t=116)** If you want to use Secure/MIME, you must obtain a certificate from your network administrator, which will be stored on your computer.
 >
@@ -996,14 +980,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), data (2), business (1), [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** mime (8), gnu (2), pgp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Examine suspect IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980)
+#### [Challenge: Examine suspect IP addresses](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980&t=11)** More than 100 billion corporate email messages are exchanged every day.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980&t=18)** Although highly effective, email can pose a security risk.
+> **[0:18](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980&t=18)** Although highly effective, email can pose a [[Security Risk]].
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/challenge-examine-suspect-ip-addresses-23657350?u=76281980&t=23)** In this challenge, we'll discover resources that can identify suspicious IP addresses.
 >
@@ -1043,7 +1026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **CLI Commands:** find (3)
 > **URLs:** [spamhaus.org](https://spamhaus.org) (1)
 > **UI Navigation:** scroll down (1)
@@ -1051,8 +1034,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Examine suspect IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/solution-examine-suspect-ip-addresses-23653914?u=76281980)
+#### [Solution: Examine suspect IP addresses](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/solution-examine-suspect-ip-addresses-23653914?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,7 +1120,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), hit (1), [[Search]] (1), [[Security]] (1)
 > **UI Navigation:** scroll down (5), go to (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1151,22 +1132,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Malware protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
+#### [Malware protection](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=0)** - [Narrator] While in the past, antivirus was sufficient protection, today's threats are more aggressive.
 >
-> **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=8)** Most consumers and businesses turn to antimalware protection, which defends against all forms of malware.
+> **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=8)** Most consumers and businesses turn to antimalware protection, which defends against all [[Forms]] of malware.
 >
-> **[0:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=16)** That includes viruses, worms, trojans, spyware, phishing sites, adware and rootkits.
+> **[0:16](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=16)** That includes viruses, worms, trojans, spyware, [[Phishing]] sites, adware and rootkits.
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=25)** Antimalware protection is part of a layered security approach, as there are many ways for malware to attack your system, such as browsing the internet, browser add-ons, and even the operating system.
 >
 > **[0:42](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=42)** Antimalware runs in the background.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=44)** Depending on your program, the process may be called background or real-time protection, or something similar.
+> **[0:44](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=44)** Depending on your program, the process may be called background or [[Real-Time]] protection, or something similar.
 >
 > **[0:52](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=52)** Antimalware monitors your system as you download software, open documents or extract files.
 >
@@ -1206,7 +1186,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=204)** I'm at this website, and here we can see Real-World Protection Test April 2018.
 >
-> **[3:31](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=211)** Now here it talks about some tests they ran on a variety of antimalware products.
+> **[3:31](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=211)** Now here it talks about some tests they ran on a variety of antimalware [[Microsoft Products|products]].
 >
 > **[3:39](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=219)** Down below here, it shows you the results, and you can run your cursor over, and here we see Symantec blocked 99.6%, Bitdefender blocked 100%, and Trend Micro blocked 100%.
 >
@@ -1220,15 +1200,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Phishing]] (1), [[Security]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Phishing]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2)
 > **Versions:** 99.6 (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Personal firewall: HIPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980)
+#### [Personal firewall: HIPS](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1215,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=10)** As traffic passes through the device, the firewall checks the data and provides a defense strategy to protect the networks and the data.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=20)** Firewalls can either be hardware-based or software-based.
+> **[0:20](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=20)** Firewalls can either be [[Hardware]]-based or software-based.
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=25)** Many times an organization will use a hardware firewall as part of a router that can protect an entire network.
 >
@@ -1248,29 +1227,28 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=61)** Examples include ZoneAlarm, ESET, and Norton Personal Firewall.
 >
-> **[1:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=68)** An endpoint can also include intrusion detection.
+> **[1:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=68)** An endpoint can also include [[Intrusion Detection]].
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=71)** While closely related to a firewall, intrusion detection must first learn the system and then it can monitor the host for unusual or suspicious activity.
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=83)** Host intrusion detection systems include Symantec Endpoint Protection Intrusion Detection, McAfee Host Intrusion Prevention for Desktop, or Suricata.
 >
-> **[1:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=96)** One example is the Windows Defender firewall.
+> **[1:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=96)** One example is the [[Windows]] [[Microsoft Defender|Defender]] firewall.
 >
 > **[1:40](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=100)** As you can see, you can modify the rules that are set in for inbound and outbound, also for monitoring.
 >
-> **[1:50](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=110)** Another example is ESET Endpoint Security, which provides a comprehensive threat management system to work on end point security.
+> **[1:50](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=110)** Another example is ESET [[Endpoint Security]], which provides a comprehensive threat management system to work on end point security.
 >
 > **[2:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/personal-firewall-hips?u=76281980&t=121)** Personal firewalls and host intrusion prevention systems can be deployed on an endpoint to defend the host, and then customized according to the user's needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (4), traffic (3), [[Hardware]] (3), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Hardware]] (3), [[Windows]] (1), [[Microsoft Defender|Defender]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** eset (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hardware and software encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980)
+#### [Hardware and software encryption](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1282,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=23)** That way, if the device is lost or stolen, or if someone is able to access the data, the only way they can get to the data is if they have the key.
 >
-> **[0:34](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=34)** To protect the data, the network administrator can choose from either hardware or software encryption.
+> **[0:34](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=34)** To protect the data, the network administrator can choose from either [[Hardware]] or software encryption.
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=41)** Hardware encryption provides always on encryption.
 >
@@ -1300,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=92)** Software encryption doesn't require any additional hardware.
 >
-> **[1:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=96)** Microsoft Windows has the encrypting file system, which encrypts files and folders to ensure confidentiality by using symmetric encryption.
+> **[1:36](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=96)** [[Microsoft]] [[Windows]] has the encrypting file system, which encrypts files and folders to ensure confidentiality by using symmetric encryption.
 >
 > **[1:47](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/hardware-and-software-encryption?u=76281980&t=107)** A general user can encrypt his her own files and cherry pick through the ones they want to protect.
 >
@@ -1310,31 +1288,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Hardware]] (7), next (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Microsoft]] (1), [[Windows]] (1)
 > **Analogies:** such as (3)
 > **Code Identifiers:** iphone (1)
 > **Env Vars:** pin (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Malware detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980)
+#### [Case study: Malware detection](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=1)** - [Instructor] Now you've done everything you could to secure your network.
 >
-> **[0:04](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=4)** You've encrypted your data while it's at rest or while in motion.
+> **[0:04](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=4)** You've encrypted your data while it's at [[Representational State Transfer (REST)|rest]] or while in motion.
 >
-> **[0:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=9)** You make sure that you have secure routing and switching.
+> **[0:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=9)** You make sure that you have secure [[Routing]] and switching.
 >
-> **[0:12](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=12)** You're using firewalls and intrusion prevention and even placed content and endpoint security on your priority list.
+> **[0:12](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=12)** You're using firewalls and intrusion prevention and even placed content and [[Endpoint Security]] on your priority list.
 >
-> **[0:21](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=21)** But now it's time to take a look at malware detection and live-threat investigation.
+> **[0:21](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=21)** But now it's time to take a look at [[Malware Detection]] and live-threat investigation.
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=28)** I'm at this website [malware-traffic-analysis.net](https://malware-traffic-analysis.net) and it's a great resource where you can get packet captures and examine them and learn a lot about malware analysis.
 >
-> **[0:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=41)** I've got this packet capture and I've opened it in Wireshark.
+> **[0:41](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=41)** I've got this packet capture and I've opened it in [[Wireshark]].
 >
 > **[0:45](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=45)** Now let's step through and we'll take a look at three simple things that indicate something is amiss.
 >
@@ -1382,7 +1359,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=177)** Hm, let's do this.
 >
-> **[2:59](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=179)** I'll go in, I'll go to Statistics, and let's go to Flow Graph.
+> **[2:59](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=179)** I'll go in, I'll go to [[Statistics]], and let's go to Flow Graph.
 >
 > **[3:03](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-detection?u=76281980&t=183)** All right, now this flow graph is great in Wireshark next generation because it can tell us a lot of what's happening and who it's communicating with, but in the lower left-hand corner it says, show all packets is what we have now.
 >
@@ -1412,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), dns (4), traffic (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1), [[Endpoint Security]] (1), [[Malware Detection]] (1)
 > **UI Navigation:** go to (3), scroll down (1), right-click (1)
 > **Env Vars:** dns (4)
 > **Ports:** port 53 (2)
@@ -1421,8 +1398,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Malware confirmation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980)
+#### [Case study: Malware confirmation](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,7 +1456,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980&t=155)** And here's your HTTP request.
 >
-> **[2:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980&t=158)** So the Snort alerts is your intrusion detection, and it's telling me there's sensitive data, miscellaneous activity, and a network Trojan was detected.
+> **[2:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980&t=158)** So the Snort alerts is your [[Intrusion Detection]], and it's telling me there's sensitive data, miscellaneous activity, and a network Trojan was detected.
 >
 > **[2:49](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/case-study-malware-confirmation?u=76281980&t=169)** And we see BLACKLIST suspicious.bit tcp dns query.
 >
@@ -1504,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), next (2), [[Intrusion Detection]] (2), traffic (1), data (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2)
 > **Env Vars:** dns (4), tcp (4), udp (2), http (1), blacklist (1)
 > **UI Navigation:** scroll down (4), go to (2)
 > **Definitions:** is an  (2)
@@ -1516,8 +1492,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,15 +1502,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=10)** I discussed web filtering, email encryption, blacklisting, and how to fight against spam in your organization.
 >
-> **[0:19](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=19)** I reviewed some standards and regulations, along with best practices that include malware protection, personal firewalls, and host intrusion detection, along with hardware and software encryption techniques.
+> **[0:19](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=19)** I reviewed some standards and regulations, along with best practices that include malware protection, personal firewalls, and host [[Intrusion Detection]], along with [[Hardware]] and software encryption techniques.
 >
 > **[0:34](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=34)** If you're interested in learning more, please check out the IT segment of the library, where we add new courses all the time.
 >
-> **[0:43](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=43)** It's well worth your time to check out any course in the Ethical Hacking Series.
+> **[0:43](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=43)** It's well worth your time to check out any course in the [[Ethical Hacking]] Series.
 >
 > **[0:49](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=49)** If you want to learn more about defending your network against the threat of ransomware, check out my course, Learning Ransomware Countermeasures.
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=58)** If you want to learn more about packet analysis, check out my courses on Wireshark.
+> **[0:58](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=58)** If you want to learn more about packet analysis, check out my courses on [[Wireshark]].
 >
 > **[1:05](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980&t=65)** For a complete list of all my courses, go to my author page.
 >
@@ -1543,7 +1518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Security]] (1), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Hardware]] (1), [[Ethical Hacking]] (1), [[Wireshark]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lisa] (1)
 

@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Microsoft Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980)
+#### [Intro to Microsoft Power BI](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=0)** - [Emma] Welcome to this course on Power BI Custom Visuals.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=0)** - [Emma] Welcome to this course on [[Microsoft Power BI|Power BI]] Custom Visuals.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=4)** In this course, you will learn how to create a custom visual, which can be uploaded into Power BI alongside the standard set of visuals you can see on the right-hand side.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=17)** Users can then drag and drop your visual onto the canvas, as has happened here, and link data to it just as they can with a standard visual.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=26)** Power BI is a highly visual reporting tool from Microsoft.
+> **[0:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=26)** Power BI is a highly visual reporting tool from [[Microsoft]].
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980&t=30)** It's intended for non-technical users to build their own reports.
 >
@@ -120,27 +119,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (1), [[Microsoft]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [emma] (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course is for programmers who can already create a data visualization on the web using D3.js.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course is for programmers who can already create a data visualization on the web using [[D3.js]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=7)** We will be using D3 version 4, which is really similar to version 5.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=11)** But if you're used to using D3 version 3, you might find some commands are slightly different.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=17)** As well as D3, you need to know TypeScript, or at least JavaScript in order to take this course.
+> **[0:17](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=17)** As well as D3, you need to know TypeScript, or at least [[JavaScript]] in order to take this course.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=24)** You're also going to need to use the command prompt or terminal if you're on a Mac, to download efficiently the 6,000 files needed for each custom visual.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=34)** And finally, you will also be using both JSON and LESS files in this course.
+> **[0:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=34)** And finally, you will also be using both [[JSON]] and LESS files in this course.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/who-this-course-is-for?u=76281980&t=39)** LESS is similar to CSS, it's a style sheet.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), data (1), web (1), [[D3.js]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[D3.js]] (1), [[JavaScript]] (1)
 > **Env Vars:** less (3), json (2), css (1)
 > **Tools:** terminal (2), command prompt (1), vs code (1)
 > **Versions:** version 4 (1), version 5 (1), version 3 (1)
@@ -163,14 +161,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Power BI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980)
+#### [What is Power BI?](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=0)** - [Instructor] Power BI is a Microsoft software that lets non-technical users create highly visual reports.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] is a [[Microsoft]] software that lets non-technical users create highly visual reports.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=6)** It's a competitive product to Tableau and QlikView.
+> **[0:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=6)** It's a competitive product to [[Tableau]] and QlikView.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=10)** Typically Power BI publishes reports to the web whether that's cloud-based or your company's own reporting software.
 >
@@ -188,13 +185,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=55)** They can convert one type of graphic to another by just clicking on a different visual in this visualizations pane.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=62)** As well as reports, Power BI lets users pin certain visuals to dashboards so they can check all their data in one place.
+> **[1:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=62)** As well as reports, Power BI lets users pin certain visuals to [[Dashboards]] so they can check all their data in one place.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=70)** And also Power BI offers visual cross filtering by default.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=74)** So instead of filtering through a series of check boxes and drop downs, users can just click on a pie chart segment to create a filter.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=83)** Being a Microsoft product, Power BI connects easily to PowerPoint, Outlook and Teams, as well as letting you create PDFs and so forth.
+> **[1:23](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=83)** Being a Microsoft product, Power BI connects easily to [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]] and Teams, as well as letting you create PDFs and so forth.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=92)** Users can subscribe to a report which means they get an email every hour, day or week, showing their report as an attachment.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=133)** Power BI represents another step in this process and it's not alone in that.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=136)** But this final step, perhaps final step, is where the IT is building the database, but building it to be highly accessible by different forms of software.
+> **[2:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=136)** But this final step, perhaps final step, is where the IT is building the database, but building it to be highly accessible by different [[Forms]] of software.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-power-bi?u=76281980&t=146)** And that can now be exposed that database to anyone on the business side for them to just drag and drop their reports together.
 >
@@ -218,19 +215,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), data (5), database (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Microsoft]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Tableau]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a custom visual?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980)
+#### [What is a custom visual?](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=0)** - [Instructor] So what is a Custom Visual?
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=3)** In literal terms a custom visual in Power BI is a dot Pbiviz file.
+> **[0:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=3)** In literal terms a custom visual in [[Microsoft Power BI|Power BI]] is a dot Pbiviz file.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=8)** Behind the scenes before it's compiled, the custom visual is about 6,000 files, all organized in a particular way.
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=22)** Now the good news is you only need to edit about five of these files to make your visual.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=27)** The files you will need to change are JSON and TypeScript, and maybe some less files.
+> **[0:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=27)** The files you will need to change are [[JSON]] and TypeScript, and maybe some less files.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=33)** So these 6,000 files compile into a single Pbivis file which is the format that Power BI accepts.
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=52)** So these are Pbivis files that have been uploaded.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=56)** Your users can come here to these three dots and click import a visual from a file or get more visuals and that will allow them to upload a Pbivis file either from app source, which we'll come to later, which is a Microsoft website or from a locally held file.
+> **[0:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=56)** Your users can come here to these three dots and click import a visual from a file or get more visuals and that will allow them to upload a Pbivis file either from app source, which we'll come to later, which is a [[Microsoft]] website or from a locally held file.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=73)** So that's how your coding work gets into Power BI.
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=96)** Now, not all custom visuals are created equal.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=99)** For example, I think I mentioned that users can subscribe to a standard visual, all the ones above the line via Outlook.
+> **[1:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=99)** For example, I think I mentioned that users can subscribe to a standard visual, all the ones above the line via [[Microsoft Outlook|Outlook]].
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/what-is-a-custom-visual?u=76281980&t=105)** But this is not possible for all custom visuals, only those that have been certified by Microsoft.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[Microsoft]] (3), [[JSON]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft]] (3), [[JSON]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
@@ -291,8 +287,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the target set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980)
+#### [Understand the target set up](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980&t=20)** And within that, you're going to have a folder for each custom visual project that you want to make.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980&t=25)** Circle Card, that you can see here, is the default name when we download a new setup from Microsoft.
+> **[0:25](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980&t=25)** Circle Card, that you can see here, is the default name when we download a new setup from [[Microsoft]].
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980&t=31)** I've opened this Custom Visuals folder in VS Code.
 >
@@ -334,19 +329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), node (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** terminal (2), vs code (1), command prompt (1)
 > **Env Vars:** pbi (3)
 > **Prerequisites:** setup (2), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Licensing, software, and version requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980)
+#### [Licensing, software, and version requirements](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=0)** - [Instructor] By the end of this video, you'll have the software and language support you need to start installing the Power BI API files.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=0)** - [Instructor] By the end of this video, you'll have the software and language support you need to start installing the [[Microsoft Power BI|Power BI]] API files.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=7)** So, by the end of this video, you should be able to run the pbiviz command in your terminal or command prompt.
 >
@@ -358,17 +352,17 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=35)** Code is free and works on Macs and PCs.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=38)** And it's good with JavaScript and TypeScript.
+> **[0:38](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=38)** And it's good with [[JavaScript]] and TypeScript.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=42)** If you're on Windows, you will need PowerShell 4 or later.
+> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=42)** If you're on [[Windows]], you will need [[Powershell]] 4 or later.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=46)** On a Mac, terminal is fine.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=48)** Next, we're going to look at Node and NPM.
+> **[0:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=48)** Next, we're going to look at Node and [[npm]].
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=52)** Before I give you any instructions on this, note that Node has lots of versions and you can use a version manager, such as NVM to help manage these changes.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=64)** Node.js is an open source server environment.
+> **[1:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=64)** [[Node.js]] is an open source server environment.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=67)** It lets you run your app as though your laptop is a server.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=103)** If not, please run NPM install NPM@latest -g.
 >
-> **[1:51](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=111)** The Microsoft advice is to install the latest MSI installer to help manage versions in your download.
+> **[1:51](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=111)** The [[Microsoft]] advice is to install the latest MSI installer to help manage versions in your download.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/licensing-software-and-version-requirements?u=76281980&t=118)** I don't use this myself as I don't think this advice existed when I set myself up but I have found this one, which works on Macs and PCs.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (7), node (6), power (3), bi (3), next (3)
+> **Frameworks & Libraries:** [[npm]] (7), [[Microsoft Power BI|Power bi]] (3), [[JavaScript]] (1), [[Windows]] (1), [[Powershell]] (1)
 > **CLI Commands:** node (7), npm (7), find (1)
 > **Env Vars:** npm (7), api (2), nvm (1), msi (1)
 > **Prerequisites:** install (8), you'll need (1)
@@ -445,8 +439,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** note that (1), important note (1)
 
-#### Create your first (demo) custom visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980)
+#### [Create your first (demo) custom visual](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=4)** We're going to do this with Node D3 or TypeScript.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=7)** We will simply download the demo visual from Microsoft.
+> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=7)** We will simply download the demo visual from [[Microsoft]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=10)** Before we can get to that point, we have to install a number of packages with the Command Prompt and we need to make a few changes to the front end.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=20)** First, you need to set up a secure socket layer certificate and this link will tell you how to do that.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=28)** This is so your computer and the Power BI service server can communicate.
+> **[0:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=28)** This is so your computer and the [[Microsoft Power BI|Power BI]] service server can communicate.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=33)** Otherwise you will not be able to preview and debug your visual.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=84)** You're going to need additional libraries to get what you want out of Power BI.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=88)** There are lots of these at NPM and you will want the ones with the Power BI symbols.
+> **[1:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=88)** There are lots of these at [[npm]] and you will want the ones with the Power BI symbols.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=95)** Here, I've just done an NPM, a search for the term Power BI and you can see how many Power BI libraries there are.
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=129)** The one that you need right now is D3.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=132)** D3 is a data visualization library built in JavaScript.
+> **[2:12](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=132)** D3 is a data visualization library built in [[JavaScript]].
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-your-first-demo-custom-visual?u=76281980&t=136)** Without it, you can't add any shapes to your custom visual.
 >
@@ -612,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (12), bi (12), next (5), prompt (4), [[npm]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[npm]] (3), [[JavaScript]] (3), [[Microsoft]] (2)
 > **CLI Commands:** make (3), npm (3), node (1), find (1)
 > **Code Identifiers:** circlecard (4), circlecard2 (1), circledcard2 (1)
 > **Env Vars:** npm (3), api (2), f12 (1)
@@ -626,12 +619,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the folder structure of your new project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980)
+#### [Understand the folder structure of your new project](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=0)** - [Instructor] Now that we can use our pbivis commands in Terminal and we've been able to view our test visual in the Power BI service, let's make our first custom visual.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=0)** - [Instructor] Now that we can use our pbivis commands in Terminal and we've been able to view our test visual in the [[Microsoft Power BI|Power BI]] service, let's make our first custom visual.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=10)** We're going to create the simplest possible type of visual which shows a single number as a Kpi.
 >
@@ -725,7 +717,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=258)** But here are the instructions.
 >
-> **[4:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=261)** Taken from someone who works for Microsoft.
+> **[4:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=261)** Taken from someone who works for [[Microsoft]].
 >
 > **[4:23](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=263)** So this is what you need for your gitignore file and to create it, you need to use your text editor and type in exactly what you see.
 >
@@ -733,7 +725,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=299)** And what you do is you save into the root project folder which for you is KpiBox.
 >
-> **[5:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=306)** And we do a git.gitignore like so and just Okay through the warnings that you get.
+> **[5:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=306)** And we do a [[Git]].gitignore like so and just Okay through the warnings that you get.
 >
 > **[5:15](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980&t=315)** And you need to do that really for every project.
 >
@@ -789,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), prompt (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft]] (1), [[Git]] (1)
 > **Tools:** terminal (5), visual studio (1), command prompt (1)
 > **CLI Commands:** make (2), find (2), node (1), git (1)
 > **Code Identifiers:** node_modules (3), typescript (1)
@@ -798,8 +790,7 @@ created: 2026-05-02
 > **File Paths:** git.gitignore (1)
 > **Exercise Files:** download the (1)
 
-#### Understand key files and Identify the ones to change
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980)
+#### [Understand key files and Identify the ones to change](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,11 +806,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=23)** Capabilities dot Jason defines how the user can drag and drop data into your visual.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=29)** It also defines how Power BI should aggregate the data that is dragged and dropped.
+> **[0:29](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=29)** It also defines how [[Microsoft Power BI|Power BI]] should aggregate the data that is dragged and dropped.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=34)** And, finally, capabilities defines the formatting pane.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=37)** It is a crucial file and it's the one that I am most likely to Google questions about.
+> **[0:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=37)** It is a crucial file and it's the one that I am most likely to [[Google]] questions about.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-key-files-and-identify-the-ones-to-change?u=76281980&t=43)** We're going to take a quick look at this file now.
 >
@@ -951,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), power (7), bi (7), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Google]] (1)
 > **Env Vars:** url (3), pbi (2)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -965,8 +956,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### See the target visual, data, and formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/see-the-target-visual-data-and-formatting-8575930?u=76281980)
+#### [See the target visual, data, and formatting](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/see-the-target-visual-data-and-formatting-8575930?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,24 +992,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** kpi (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit capabilities.json and inspect the resulting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980)
+#### [Edit capabilities.json and inspect the resulting data](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=0)** - [Instructor] Now we're going to alter capabilities.json so that it knows to aggregate data down to a single value.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=0)** - [Instructor] Now we're going to alter capabilities.[[JSON]] so that it knows to aggregate data down to a single value.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=7)** You might Remember that by default, the demo files that are downloaded from Microsoft contain a category and a measure data.
+> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=7)** You might Remember that by default, the demo files that are downloaded from [[Microsoft]] contain a category and a measure data.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=16)** And that's what we're going to change first.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=18)** That category and measure data is represented in power BI front end as these two data Wells here.
+> **[0:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=18)** That category and measure data is represented in [[Microsoft Power BI|power BI]] front end as these two data Wells here.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=24)** And in case you aren't familiar with power BI the purpose of those Wells is that you can drag and drop data on top of them.
 >
@@ -1049,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=112)** And before we leave this object we've talked about displayName and Name.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=115)** Then we have kind and kind can be measure, grouping or GroupingOrMeasure, which is all one word like that.
+> **[1:55](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=115)** Then we have kind and kind can be measure, grouping or GroupingOrMeasure, which is all one [[Microsoft Word|word]] like that.
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=124)** But for us, we want it to be of type measure.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=266)** But as far as I know currently only a single object is accepted in this array.
 >
-> **[4:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=272)** Now we're open up this array and we have categorical, matrix, metadata, single, table and tree.
+> **[4:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=272)** Now we're open up this array and we have categorical, matrix, [[Metadata]], single, table and tree.
 >
 > **[4:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=282)** Now, two things might strike you here.
 >
@@ -1165,7 +1153,7 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=434)** You know, you can query this and get a Boolean response, which is very useful.
 >
-> **[7:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=438)** It even tells you where it's grouped into the analysis, Dax grouping, roles, roles index, et cetera.
+> **[7:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=438)** It even tells you where it's grouped into the analysis, [[DAX]] grouping, roles, roles index, et cetera.
 >
 > **[7:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-capabilities-json-and-inspect-the-resulting-data?u=76281980&t=446)** Worth getting to know all the different properties that you can access here.
 >
@@ -1267,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), power (7), bi (7), [[Microsoft Word|Word]] (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft Word|Word]] (4), [[JSON]] (3), [[Microsoft]] (2), [[Metadata]] (2)
 > **Env Vars:** kpi (6), f12 (1)
 > **File Paths:** capabilities.json (3), visual.ts (2)
 > **UI Navigation:** drag and drop (4)
@@ -1276,8 +1264,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), set up (1)
 > **Code Identifiers:** displayname (1)
 
-#### Edit visual.ts to display a KPI value in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980)
+#### [Edit visual.ts to display a KPI value in Power BI](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=30)** So let's take a look at them.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=32)** First, we import CoreJS from the files we downloaded earlier from NPM.
+> **[0:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=32)** First, we import CoreJS from the files we downloaded earlier from [[npm]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=38)** CoreJS is an open source package to improve support for older browsers.
 >
@@ -1309,13 +1296,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=72)** And so where it says update count is zero that's yellow because of the styles in this sheet.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=79)** Then we import Power BI.
+> **[1:19](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=79)** Then we import [[Microsoft Power BI|Power BI]].
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=81)** This one's pretty crucial.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=83)** If you check this out and save, most of the subsequent imports fail.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=87)** So importing this one is not only important, it has to happen before the rest of the imports.
+> **[1:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=87)** So importing this one is not only important, it has to happen before the [[Representational State Transfer (REST)|rest]] of the imports.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=95)** If we look at it, it says import Power BI and it's giving it that name space from this location.
 >
@@ -1347,7 +1334,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=168)** So, as I said once you have imported Power BI, these other imports access parts of that namespace, for example powerbi.extensibility or powerbi.EnumerateVisualObjectInstancesOptions, nice long one there.
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=185)** These are written by Microsoft developers and you are allowed to access them in order to build your own visual.
+> **[3:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=185)** These are written by [[Microsoft]] developers and you are allowed to access them in order to build your own visual.
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=191)** In other words these are APIs or application protocol interfaces.
 >
@@ -1407,7 +1394,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=376)** It defines this .targets as one of the properties of the options object.
 >
-> **[6:22](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=382)** It starts you off with a counter basically, which is called update count of zero and says if there's a document, then create a new HTML element called new P, that's going to be a paragraph and append child to the paragraph, which is creating a text node called update count.
+> **[6:22](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=382)** It starts you off with a counter basically, which is called update count of zero and says if there's a document, then create a new [[HTML]] element called new P, that's going to be a paragraph and append child to the paragraph, which is creating a text node called update count.
 >
 > **[6:41](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-display-a-kpi-value-in-power-bi?u=76281980&t=401)** This is what we see in the front end.
 >
@@ -1461,7 +1448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), node (7), api (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft]] (2), [[HTML]] (2), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** kpi (4), api (3), html (2), npm (1), f12 (1)
 > **CLI Commands:** node (7), make (2), npm (1)
 > **Definitions:** is a  (3), is an  (1), means that (1), in other words (1), is called (1)
@@ -1470,8 +1457,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), go back to (1)
 > **UI Navigation:** open the (1), click on (1)
 
-#### Edit visual.ts to access the user's formatting choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980)
+#### [Edit visual.ts to access the user's formatting choices](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1491,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=105)** One, because it's what's within this data colors panel which is the one that's been created.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=113)** The rest of these, general, title, et cetera, are mandatory.
+> **[1:53](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=113)** The [[Representational State Transfer (REST)|rest]] of these, general, title, et cetera, are mandatory.
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=117)** And two, because it's what's within the settings.ts file.
 >
@@ -1513,7 +1499,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=128)** 'Enumerate' just means list.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=131)** 'Object' refers to the object within capabilities.json.
+> **[2:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=131)** 'Object' refers to the object within capabilities.[[JSON]].
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/edit-visual-ts-to-access-the-user-s-formatting-choices?u=76281980&t=137)** Up here, it says 'objects', and an instance is an active occurrence of an object.
 >
@@ -1529,15 +1515,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **File Paths:** settings.ts (1), capabilities.json (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is an  (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a responsive SVG using D3
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980)
+#### [Add a responsive SVG using D3](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,13 +1568,13 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=217)** So in fact, we just delete that like so, and if we just save that, it now does compile, which is good.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=227)** And if we check Power BI service now and go to Elements, click into inside of our div, we have this div and we go inside it, we now have an SVG with a class of kpiBox.
+> **[3:47](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=227)** And if we check [[Microsoft Power BI|Power BI]] service now and go to Elements, click into inside of our div, we have this div and we go inside it, we now have an SVG with a class of kpiBox.
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=245)** So we've successfully added our SVG.
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=247)** It doesn't look terribly impressive yet, but it is there.
 >
-> **[4:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=251)** Now notice though, which you almost certainly can't see, if you've got very good eyesight, right at the top there, let's just get rid of this, so you can stand a fighting chance, it says Next Sales, this is called the title of the visual, and it's there by default, and we will need to get rid of that which I think we do within capabilities.json.
+> **[4:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=251)** Now notice though, which you almost certainly can't see, if you've got very good eyesight, right at the top there, let's just get rid of this, so you can stand a fighting chance, it says Next Sales, this is called the title of the visual, and it's there by default, and we will need to get rid of that which I think we do within capabilities.[[JSON]].
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-responsive-svg-using-d3?u=76281980&t=273)** So we'll come on to that.
 >
@@ -1635,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (3), bi (3), [[JSON]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[JSON]] (3)
 > **Env Vars:** svg (15), kpi (1)
 > **CLI Commands:** make (5), find (4)
 > **File Paths:** capabilities.json (3), visual.ts (1)
@@ -1644,8 +1629,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **UI Navigation:** go to (1)
 
-#### Add rectangles and text to your KPI visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980)
+#### [Add rectangles and text to your KPI visual](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1695,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=210)** And I'd like to distinguish the colors, so.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=217)** Now one thing I didn't mention up here it's quite important, and this is a D3 point merely, rather than a Power BI one, it's important that you upend your text elements after your wrecked elements.
+> **[3:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=217)** Now one thing I didn't mention up here it's quite important, and this is a D3 point merely, rather than a [[Microsoft Power BI|Power BI]] one, it's important that you upend your text elements after your wrecked elements.
 >
 > **[3:49](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=229)** Otherwise the rectangles will be on top, and you won't be able to see the text.
 >
@@ -1733,7 +1717,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=275)** We will make all these colors a bit prettier.
 >
-> **[4:38](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=278)** And where we've said that viewport, we're going to say let data view equal options dot data views naught, it's always a naught because Microsoft doesn't support an array of greater than length one at the moment.
+> **[4:38](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=278)** And where we've said that viewport, we're going to say let data view equal options dot data views naught, it's always a naught because [[Microsoft]] doesn't support an array of greater than length one at the moment.
 >
 > **[4:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=298)** So then when we come to do label text we can say this dot label text.
 >
@@ -1769,7 +1753,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=408)** And I think that's because the column property is populated after this bit of code has run, which isn't terribly helpful for us.
 >
-> **[6:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=416)** But what we can do instead, luckily, whichever aggregation method we've used in capabilities dot Jason, we are always given this metadata property which contains columns data and objects data.
+> **[6:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=416)** But what we can do instead, luckily, whichever aggregation method we've used in capabilities dot Jason, we are always given this [[Metadata]] property which contains columns data and objects data.
 >
 > **[7:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-rectangles-and-text-to-your-kpi-visual?u=76281980&t=431)** And the columns data looks very similar to the columns data within single, and we should be able to access this.
 >
@@ -1833,7 +1817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (2), bi (2), [[Metadata]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Metadata]] (2), [[Microsoft]] (1)
 > **Env Vars:** kpi (12), svg (3)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), in other words (1)
@@ -1842,12 +1826,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use formatting utils API to set text size dynamically
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980)
+#### [Use formatting utils API to set text size dynamically](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=0)** - [Instructor] Now we're going to learn how to use one of Microsoft's many APIs.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=0)** - [Instructor] Now we're going to learn how to use one of [[Microsoft]]'s many APIs.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=4)** The one we will use is called formattingutils.
 >
@@ -1863,7 +1846,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=35)** For this we can use a powerbi library called formattingutils, and first things first, we need to install it.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=44)** So if we go to the terminal and stop the server, I've just pressed control C there, and then type npm, i for install powerbi-visuals-utils-formattingutils
+> **[0:44](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=44)** So if we go to the terminal and stop the server, I've just pressed control C there, and then type [[npm]], i for install powerbi-visuals-utils-formattingutils
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=64)** and this will install the package into node modules.
 >
@@ -1911,7 +1894,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=251)** curly braces in there, a format which is dataView.
 >
-> **[4:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=258)** And we're going to access this from metadata rather than from single so that we can be sure that the data is there at the right time and also if we were to change it to categorical data, this format would still work, columns naught dot format.
+> **[4:18](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=258)** And we're going to access this from [[Metadata]] rather than from single so that we can be sure that the data is there at the right time and also if we were to change it to categorical data, this format would still work, columns naught dot format.
 >
 > **[4:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=274)** And finally, then we use our formatter on our kpi text.
 >
@@ -1993,7 +1976,7 @@ created: 2026-05-02
 >
 > **[9:26](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=566)** One of them is which font because obviously the fonts are very different.
 >
-> **[9:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=570)** If you were using Courier for example, the same word would be much wider than if you were using Ariel.
+> **[9:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=570)** If you were using Courier for example, the same [[Microsoft Word|word]] would be much wider than if you were using Ariel.
 >
 > **[9:37](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-formatting-utils-api-to-set-text-size-dynamically?u=76281980&t=577)** And then we give it the fontSize, which we have to do using the pixel notation as well.
 >
@@ -2033,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Microsoft]] (2), node (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[npm]] (1), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** textwidth (7), fontsize (7), textmeasurementservice (4), textproperties (4), ivalueformatter (3)
 > **CLI Commands:** make (5), node (2), npm (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2042,8 +2025,7 @@ created: 2026-05-02
 > **Env Vars:** api (1), svg (1)
 > **File Paths:** visual.ts (1)
 
-#### Use font size and fill color from the formatting pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980)
+#### [Use font size and fill color from the formatting pane](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,9 +2057,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=89)** And we can put that up and down, and at the moment that has no effect whatsoever on our graphic because we haven't linked the two things together.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=99)** So we're going to keep Text Size and Fill Color, and we're going to delete all the rest, that's the first thing.
+> **[1:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=99)** So we're going to keep Text Size and Fill Color, and we're going to delete all the [[Representational State Transfer (REST)|rest]], that's the first thing.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=108)** So we come to capabilities.json and we can change the section name actually first of all 'cause Data Colors doesn't make sense for us and we'll call it KPI Settings which hopefully would draw the user's eye and attention.
+> **[1:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=108)** So we come to capabilities.[[JSON]] and we can change the section name actually first of all 'cause Data Colors doesn't make sense for us and we'll call it KPI Settings which hopefully would draw the user's eye and attention.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=126)** And inside that we're going to delete the three things that we don't need.
 >
@@ -2179,7 +2161,7 @@ created: 2026-05-02
 >
 > **[8:40](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=520)** So we can reuse some of the text measurement service code that we already had.
 >
-> **[8:46](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=526)** So we're going to say, let labelText be equal dataView.metadata.columns(0).displayName,
+> **[8:46](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=526)** So we're going to say, let labelText be equal dataView.[[Metadata]].columns(0).displayName,
 >
 > **[9:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=543)** and while we're at it, we can replace that and call that labelText, my point having signed bit of code twice.
 >
@@ -2227,11 +2209,11 @@ created: 2026-05-02
 >
 > **[11:55](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=715)** And now if we refresh that it's looking much better.
 >
-> **[12:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=720)** So now we have our first proper custom visual and shortly we're going to see how to package the code and import it into Power BI.
+> **[12:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/use-font-size-and-fill-color-from-the-formatting-pane?u=76281980&t=720)** So now we have our first proper custom visual and shortly we're going to see how to package the code and import it into [[Microsoft Power BI|Power BI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1), cloud (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Code Identifiers:** labeltext (5), kpibox (3), fontsize (3), labelboxheight (3), displayname (2)
 > **File Paths:** visual.ts (3), capabilities.json (2), settings.ts (2)
 > **CLI Commands:** make (6)
@@ -2240,8 +2222,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (1), double-click (1)
 
-#### Challenge: Add fill opacity to the formatting pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-add-fill-opacity-to-the-formatting-pane?u=76281980)
+#### [Challenge: Add fill opacity to the formatting pane](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-add-fill-opacity-to-the-formatting-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2265,8 +2246,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add fill opacity to the formatting pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980)
+#### [Solution: Add fill opacity to the formatting pane](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,11 +2266,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=42)** And the way to find that out is to find an example.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=46)** So here we have a GitHub repository from Microsoft of a Mekko chart.
+> **[0:46](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=46)** So here we have a [[GitHub]] repository from [[Microsoft]] of a Mekko chart.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=51)** Now, do be careful and make sure that you are using version three or later because Microsoft still hosts some version two code, which won't work at all.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=62)** But if you come into this chart, or any other that you google, this is just an example, and have a look at the capabilities file, and go down to options, and then properties within options, here you go, there's one called width, and width is of type numeric.
+> **[1:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=62)** But if you come into this chart, or any other that you [[Google]], this is just an example, and have a look at the capabilities file, and go down to options, and then properties within options, here you go, there's one called width, and width is of type numeric.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=81)** So there's an example of how to do it basically.
 >
@@ -2324,7 +2304,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=178)** Now, with the type of numeric, you get an input field a bit like a text input.
 >
-> **[3:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=183)** If you're familiar with Power BI, you may know it's possible to create a numeric slider with min and max ranges, which is what I would have here if I had the choice but these features are not currently documented.
+> **[3:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=183)** If you're familiar with [[Microsoft Power BI|Power BI]], you may know it's possible to create a numeric slider with min and max ranges, which is what I would have here if I had the choice but these features are not currently documented.
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-add-fill-opacity-to-the-formatting-pane?u=76281980&t=194)** And the advice from Microsoft developers, if you're creating a custom visual is to stick with numeric type for now and to lose all hope of having a slider.
 >
@@ -2332,7 +2312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[GitHub]] (1), [[Google]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[GitHub]] (1), [[Google]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** opacitykpi (2), tostring (2)
 > **Definitions:** is a  (3)
@@ -2341,8 +2321,7 @@ created: 2026-05-02
 > **Versions:** 0.3 (1)
 > **Tools:** github (1)
 
-#### Challenge: Change the font color the KPI and label
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-font-color-the-kpi-and-label?u=76281980)
+#### [Challenge: Change the font color the KPI and label](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-font-color-the-kpi-and-label?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2354,8 +2333,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Change the font color the KPI and label
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980)
+#### [Solution: Change the font color the KPI and label](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2367,7 +2345,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=34)** like so, I'm going to call this one, feel fill KPI font and fill label font.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=50)** And the rest of it's done for us type, fill, solid, color, true.
+> **[0:50](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=50)** And the [[Representational State Transfer (REST)|rest]] of it's done for us type, fill, solid, color, true.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=55)** So now we go to settings and note that fill is a string, you'd almost think it would have its own sort of type for color, but it doesn't.
 >
@@ -2387,7 +2365,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=136)** Did you notice that these color pickers have arrived at the bottom?
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=142)** And I'd forgotten that that's what happened there, so it would seem that the order of this data point settings drives the order of how things appear rather than the order of the object in capabilities.json because here I've put all the colors together and here they are in a different order.
+> **[2:22](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=142)** And I'd forgotten that that's what happened there, so it would seem that the order of this data point settings drives the order of how things appear rather than the order of the object in capabilities.[[JSON]] because here I've put all the colors together and here they are in a different order.
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-font-color-the-kpi-and-label?u=76281980&t=163)** So that's worth knowing.
 >
@@ -2395,7 +2373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** kpi (6)
 > **UI Navigation:** go to (3)
 > **File Paths:** visual.ts (1), capabilities.json (1)
@@ -2404,8 +2382,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Place label at top or bottom
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-place-label-at-top-or-bottom?u=76281980)
+#### [Challenge: Place label at top or bottom](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-place-label-at-top-or-bottom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2424,8 +2401,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Place label at top or bottom
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980)
+#### [Solution: Place label at top or bottom](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,7 +2413,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980&t=36)** and we have this property that we've not used before of displayNameKey.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980&t=42)** Label_position, type, curly brackets enumeration which just means list, and that's what's going to tell Power BI to display this as a dropdown box.
+> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980&t=42)** Label_position, type, curly brackets enumeration which just means list, and that's what's going to tell [[Microsoft Power BI|Power BI]] to display this as a dropdown box.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-place-label-at-top-or-bottom?u=76281980&t=60)** And then within our list, we enumerate the options, and the top one is value top, which itself has a displayName of Top, and it has its own displayNameKey of Label_top,
 >
@@ -2485,7 +2461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Code Identifiers:** labelboxheight (5), labellocation (3), displaynamekey (2), labelbox (2), labeltext (2)
 > **UI Navigation:** dropdown (3), go to (1)
 > **Env Vars:** kpi (1)
@@ -2498,8 +2474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tell Power BI to accept categorical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980)
+#### [Tell Power BI to accept categorical data](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,7 +2526,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=139)** And that felt like it took a bit longer that time, but it still has a good signal, which is copied across.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=150)** So now let's check again in Power BI, and it looks just the same 'cause we've not changed anything there.
+> **[2:30](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=150)** So now let's check again in [[Microsoft Power BI|Power BI]], and it looks just the same 'cause we've not changed anything there.
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=156)** But if we look in the fields pane, X value, Y value, and group by.
 >
@@ -2665,7 +2640,7 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=482)** Now let's look at the other value.
 >
-> **[8:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=485)** In fact, let's use a different kind of value rather than continuing to use financial data, let's put return rate in there.
+> **[8:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=485)** In fact, let's use a different kind of value rather than continuing to use [[Financial Data]], let's put return rate in there.
 >
 > **[8:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=507)** And that's got the same values as well, but at least it's going to expose us to a different kind of number, a decimal with a different sort of format as well.
 >
@@ -2679,7 +2654,7 @@ created: 2026-05-02
 >
 > **[8:54](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=534)** And this is a very useful step to take.
 >
-> **[8:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=538)** Here is the standard scatterplot visual that ships with Microsoft.
+> **[8:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=538)** Here is the standard scatterplot visual that ships with [[Microsoft]].
 >
 > **[9:05](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980&t=545)** And if you're trying to create a sort of scatter plot, it's a good idea to get comfortable with the standard visual.
 >
@@ -2741,7 +2716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), power (8), bi (8), next (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Financial Data]] (1), [[Microsoft]] (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** kpi (3)
@@ -2750,8 +2725,7 @@ created: 2026-05-02
 > **Versions:** 1.2 (1)
 > **Tools:** vs code (1)
 
-#### Create D3 linear scales and axes in your custom visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980)
+#### [Create D3 linear scales and axes in your custom visual](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2817,7 +2791,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980&t=225)** Next we're going to create a blank array and into this, we're going to put all the information that we need per dot.
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980&t=236)** So basically, the job in hand right now is to take the data that power BI is aggregated and put it into a format that is easily digested by power BI.
+> **[3:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980&t=236)** So basically, the job in hand right now is to take the data that [[Microsoft Power BI|power BI]] is aggregated and put it into a format that is easily digested by power BI.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-d3-linear-scales-and-axes-in-your-custom-visual-13915997?u=76281980&t=246)** And that's what dotData is going to hold.
 >
@@ -3011,7 +2985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (3), power (3), bi (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **Code Identifiers:** dotdata (6), xindex (6), xmax (4), datapoint (4), yindex (4)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** kpi (2)
@@ -3020,8 +2994,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add some dots to make a scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980)
+#### [Add some dots to make a scatterplot](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3065,7 +3038,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980&t=231)** Next we're going to create a blank array and into this we're going to put all the information that we need per dot.
 >
-> **[4:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980&t=242)** So basically the job in hand right now is to take the data the power BI aggregated and put it into a format that is easily digested by power BI.
+> **[4:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980&t=242)** So basically the job in hand right now is to take the data the [[Microsoft Power BI|power BI]] aggregated and put it into a format that is easily digested by power BI.
 >
 > **[4:12](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot-13917725?u=76281980&t=252)** And that's what dot data is going to hold.
 >
@@ -3227,15 +3200,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), next (5), bi (4), power (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** svg (4), kpi (2)
 > **Versions:** 0.0 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add some dots to make a scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980)
+#### [Add some dots to make a scatterplot](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3257,15 +3229,15 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=122)** Now they're black, and there's no tool tip working so it looks quite different to the standard scatterplot.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=131)** And part of the reason it might look different to the standard scatterplot is that we've started our axes at zero, well Power BI tends to sort of zoom in.
+> **[2:11](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=131)** And part of the reason it might look different to the standard scatterplot is that we've started our axes at zero, well [[Microsoft Power BI|Power BI]] tends to sort of [[Zoom]] in.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=141)** So these are a bit ugly and I want us to let the user style the dots as they see fit.
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=148)** If we go to the formatting pane, we have KPI Settings as our section, and then font size and fill, and various, alignments and other things there are some of which we're going to keep.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=165)** So what we want to keep, is a Fill color, and numeric option for the circle radius, but we can get rid of the rest of them.
+> **[2:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=165)** So what we want to keep, is a Fill color, and numeric option for the circle radius, but we can get rid of the [[Representational State Transfer (REST)|rest]] of them.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=176)** So for that we want capabilities.json.
+> **[2:56](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=176)** So for that we want capabilities.[[JSON]].
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-some-dots-to-make-a-scatterplot?u=76281980&t=184)** And we want the objects.
 >
@@ -3357,7 +3329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), power (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Power BI|Power bi]] (1), [[Zoom]] (1)
 > **Code Identifiers:** dotdata (2), dotsgroup (2), markersize (2), datapoint (2), selectall (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** kpi (4)
@@ -3366,8 +3338,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1)
 
-#### Challenge: Make the dots responsive
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-make-the-dots-responsive?u=76281980)
+#### [Challenge: Make the dots responsive](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-make-the-dots-responsive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3388,8 +3359,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Make the dots responsive
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980)
+#### [Solution: Make the dots responsive](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3421,7 +3391,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980&t=94)** And when I compare those two things together, the Delta is 0, and therefore my enter selection is empty.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980&t=102)** So this really is a d3 problem rather than a specific power BI custom visual one, but of course the two things are linked very closely together.
+> **[1:42](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980&t=102)** So this really is a d3 problem rather than a specific [[Microsoft Power BI|power BI]] custom visual one, but of course the two things are linked very closely together.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-make-the-dots-responsive?u=76281980&t=110)** We need to have updateSelection, enterSelection and an exitSelection.
 >
@@ -3451,7 +3421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Code Identifiers:** updateselection (4), dotdata (3), enterselection (1), exitselection (1), enterselections (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3465,8 +3435,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping your data to help make a bubble chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980)
+#### [Grouping your data to help make a bubble chart](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3528,7 +3497,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980&t=183)** Which just made me realize that that may confuse you because we have this name group here, which is in red.
 >
-> **[3:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980&t=193)** And then this one here is actually a power BI specific function of grouping.
+> **[3:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980&t=193)** And then this one here is actually a [[Microsoft Power BI|power BI]] specific function of grouping.
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980&t=200)** I might rename those in a minute.
 >
@@ -3596,15 +3565,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), feature (1), power (1), bi (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - in (1)
 
-#### Create grouped scatter plot data, to allow different colors per category
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980)
+#### [Create grouped scatter plot data, to allow different colors per category](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3684,7 +3651,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=284)** And I know that it needs this structure because I've already worked through this before.
 >
-> **[4:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=288)** So if this is all a bit of a mystery to you, I'm not taking you through it step-by-step how I worked it out because this is sort of playing D3 rather than Power BI but I have done it before.
+> **[4:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=288)** So if this is all a bit of a mystery to you, I'm not taking you through it step-by-step how I worked it out because this is sort of playing D3 rather than [[Microsoft Power BI|Power BI]] but I have done it before.
 >
 > **[4:57](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=297)** I'm not just really, really clever.
 >
@@ -3696,7 +3663,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=331)** And for each of the CAT data array items,
 >
-> **[5:44](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=344)** we push the data point into p.data and that data point is the Microsoft generated data point, and it's got all of that data in it.
+> **[5:44](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=344)** we push the data point into p.data and that data point is the [[Microsoft]] generated data point, and it's got all of that data in it.
 >
 > **[5:57](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=357)** Hang on a minute.
 >
@@ -3714,7 +3681,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=420)** This final bit here, line 153, may look familiar to you 'cause that's the sort of structure that we were using in the scatter plot.
 >
-> **[7:19](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=439)** So unsurprisingly, after all that typing we've got an error and the thing I do here is try and work out where the error is by just logging a simple word to the console.
+> **[7:19](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=439)** So unsurprisingly, after all that typing we've got an error and the thing I do here is try and work out where the error is by just logging a simple [[Microsoft Word|word]] to the console.
 >
 > **[7:32](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/create-grouped-scatter-plot-data-to-allow-different-colors-per-category?u=76281980&t=452)** And if it doesn't reach that point, then the error must be before it.
 >
@@ -3754,7 +3721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Microsoft]] (4), [[Microsoft Word|Word]] (3), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Word|Word]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** cat (8), make (3)
 > **Env Vars:** cat (8)
 > **File Paths:** visual.ts (2)
@@ -3762,8 +3729,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update your D3 code to reflect your new grouped data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980)
+#### [Update your D3 code to reflect your new grouped data](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3795,11 +3761,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=117)** The proper way is not to abuse the any data type, but to declare interfaces to handle your data which is what I do in my more complex graphics.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=129)** But that really is a TypeScript course rather than a power BI one and that means that you can avoid abusing the any data type which is what we're doing here so really view this as temporary to kind of get you started, but it is worth the research into TypeScript and using types and declaring them on properly.
+> **[2:09](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=129)** But that really is a TypeScript course rather than a [[Microsoft Power BI|power BI]] one and that means that you can avoid abusing the any data type which is what we're doing here so really view this as temporary to kind of get you started, but it is worth the research into TypeScript and using types and declaring them on properly.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=147)** I would say 80% of the non-obvious areas are getting power BI custom visuals come back to TypeScript data type declarations.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=155)** The way I worked out how to do interfaces and declare all that data properly, It was to find Microsoft sample visuals online and look at how they declare their interface declarations.
+> **[2:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=155)** The way I worked out how to do interfaces and declare all that data properly, It was to find [[Microsoft]] sample visuals online and look at how they declare their interface declarations.
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/update-your-d3-code-to-reflect-your-new-grouped-data?u=76281980&t=165)** If you do that, make sure you're looking at version three and later examples because otherwise you'll have a distressing realization that your new code simply doesn't work.
 >
@@ -3845,15 +3811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (3), bi (3), dom (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1)
 > **CLI Commands:** make (3), cat (1), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** go to (1), select the (1)
 > **File Paths:** visual.ts (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a size dimension to create a bubble chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980)
+#### [Add a size dimension to create a bubble chart](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3869,7 +3834,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980&t=35)** So I'm going to say bind to X, Y, and size, and let's check for our field pain has done something useful It's got unit in it at the moment Put unit back in and unit then into size which obviously at the moment doesn't do anything.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980&t=58)** So all the rest of our work needs to be in visual.ts and I'm just going to tidy up a bit as we go along.
+> **[0:58](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980&t=58)** So all the [[Representational State Transfer (REST)|rest]] of our work needs to be in visual.ts and I'm just going to tidy up a bit as we go along.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/add-a-size-dimension-to-create-a-bubble-chart?u=76281980&t=66)** First thing we need is a size max and size min declaration.
 >
@@ -3949,7 +3914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keyboard clicking) (2)
 > **File Paths:** visual.ts (1)
@@ -3957,8 +3922,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributing your visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980)
+#### [Distributing your visual](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3968,7 +3932,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=9)** We're viewing our work currently in a developer visual here.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=13)** Most Power BI users won't have access to a developing visual.
+> **[0:13](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=13)** Most [[Microsoft Power BI|Power BI]] users won't have access to a developing visual.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=17)** They will want your visual to appear as one of these icons in the visualization pane.
 >
@@ -3984,7 +3948,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=59)** So all those things are missing.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=61)** These are all fields in pbiviz Json.
+> **[1:01](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=61)** These are all fields in pbiviz [[JSON]].
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=64)** So let's fix that now so that we can output our file.
 >
@@ -4050,7 +4014,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=221)** And that's because it is not certified.
 >
-> **[3:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=225)** A little bit about certified Power BI visuals A certified visual can be exported PowerPoint and can show up in emails in outlook.
+> **[3:45](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=225)** A little bit about certified Power BI visuals A certified visual can be exported [[Microsoft PowerPoint|PowerPoint]] and can show up in emails in [[Microsoft Outlook|outlook]].
 >
 > **[3:53](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=233)** If a user has subscribed to a report page containing your visual.
 >
@@ -4064,11 +4028,11 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=261)** So I can only view my own visuals in Power BI service.
 >
-> **[4:25](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=265)** Certification is a process that Microsoft offers.
+> **[4:25](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=265)** Certification is a process that [[Microsoft]] offers.
 >
-> **[4:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=268)** To certify your visual, you must make your code available to Microsoft for review and the easiest way to do that, is to use GitHub but it doesn't have to be a public or open source repo.
+> **[4:28](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=268)** To certify your visual, you must make your code available to Microsoft for review and the easiest way to do that, is to use [[GitHub]] but it doesn't have to be a public or open source repo.
 >
-> **[4:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=279)** You must have certain key files in your repo such as git ignore capabilities, pbivis and tsconfig.Json, and all of that's here.
+> **[4:39](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=279)** You must have certain key files in your repo such as [[Git]] ignore capabilities, pbivis and tsconfig.Json, and all of that's here.
 >
 > **[4:48](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/distributing-your-visual?u=76281980&t=288)** So you don't need me to tell you that You can publish your visual and then request a review and your visual if you did that could be published here, in Microsoft app source.
 >
@@ -4078,7 +4042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[JSON]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[JSON]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2), git (1)
 > **Env Vars:** url (2), f85 (1)
@@ -4087,26 +4051,24 @@ created: 2026-05-02
 > **Speakers:** - now (1), - not (1)
 > **Tools:** github (1)
 
-#### Challenge: Change the hard coding of colors into dynamic coloring based on an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980)
+#### [Challenge: Change the hard coding of colors into dynamic coloring based on an array](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980&t=0)** - [Emma] I really hope you've enjoyed this course on Power BI custom visuals and that you feel confident now to go out and make some for yourself.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980&t=0)** - [Emma] I really hope you've enjoyed this course on [[Microsoft Power BI|Power BI]] custom visuals and that you feel confident now to go out and make some for yourself.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980&t=8)** Some other courses that you may find useful are available on LinkedIn Learning and those include a D3 Version Four course by myself, various TypeScript courses and other power BI courses on things such as docs because it can be really useful to know how to transform the data that feeds into your custom visual so that you can make changes to the data rather than trying to make changes to your TypeScript code.
+> **[0:08](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980&t=8)** Some other courses that you may find useful are available on [[LinkedIn]] Learning and those include a D3 Version Four course by myself, various TypeScript courses and other power BI courses on things such as docs because it can be really useful to know how to transform the data that feeds into your custom visual so that you can make changes to the data rather than trying to make changes to your TypeScript code.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/challenge-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array-13922401?u=76281980&t=36)** All the best and good luck with your custom visual career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [emma] (1)
 
-#### Solution: Change the hard coding of colors into dynamic coloring based on an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array?u=76281980)
+#### [Solution: Change the hard coding of colors into dynamic coloring based on an array](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/solution-change-the-hard-coding-of-colors-into-dynamic-coloring-based-on-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4118,7 +4080,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -4127,8 +4088,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4220,7 +4180,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), node (2)
 > **CLI Commands:** cat (4), make (2), node (2)
 > **Env Vars:** dij (1)
 > **Cross-References:** coming up (1)

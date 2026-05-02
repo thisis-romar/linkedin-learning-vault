@@ -91,18 +91,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to GPT-4 foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
+#### [Welcome to GPT-4 foundations](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=0)** - You might have heard of ChatGPT before, but how can you use it to build your own apps?
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=0)** - You might have heard of [[ChatGPT]] before, but how can you use it to build your own apps?
 >
-> **[0:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=5)** You can use generative AI to build things like a shopping app, a travel recommender, or even your own personal assistant.
+> **[0:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=5)** You can use [[Generative AI]] to build things like a shopping app, a travel recommender, or even your own personal assistant.
 >
 > **[0:12](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=12)** We'll learn the basics of working with ChatGPT.
 >
-> **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=15)** We'll discuss what large language models are, how to use the OpenAI playground, and then we'll level up your prompting skills with hands-on challenges and solutions.
+> **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=15)** We'll discuss what [[Large Language Models (LLM)|large language models]] are, how to use the OpenAI playground, and then we'll level up your prompting skills with hands-on challenges and solutions.
 >
 > **[0:24](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980&t=24)** By the end of the course, we'll put all our new skills together and create a professional-looking chat bot.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - you (1)
 
 
@@ -120,12 +119,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with ChatGPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
+#### [Getting started with ChatGPT-4](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=0)** - [Instructor] If you've ever had a chance to play around with ChatGPT before, you likely have visited this website, [chatgpt.com](https://chatgpt.com).
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=0)** - [Instructor] If you've ever had a chance to play around with [[ChatGPT]] before, you likely have visited this website, [chatgpt.com](https://chatgpt.com).
 >
 > **[0:07](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=7)** This is the free version of ChatGPT.
 >
@@ -209,11 +207,11 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=175)** And now we have access to GPT.
 >
-> **[2:57](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=177)** This is our first step to creating our first generative AI app.
+> **[2:57](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980&t=177)** This is our first step to creating our first [[Generative AI]] app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), data (2), business (1), hit (1), web (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Generative AI]] (1)
 > **Prerequisites:** configure (3), set up (2)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (2), [openai.com](https://openai.com) (2)
 > **UI Navigation:** click on (4)
@@ -222,12 +220,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### What are large language models (LLMs)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980)
+#### [What are large language models (LLMs)?](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=0)** - [Host] So what is ChatGPT?
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=0)** - [Host] So what is [[ChatGPT]]?
 >
 > **[0:02](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=2)** It's a large language model or LLM for short.
 >
@@ -239,9 +236,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=21)** The answer is yes.
 >
-> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=23)** There's many large language models out there, both by big providers and open source.
+> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=23)** There's many [[Large Language Models (LLM)|large language models]] out there, both by big providers and open source.
 >
-> **[0:28](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=28)** So three popular large language models are GPT, which is from OpenAI, Claude, which is from Anthropic and Gemini, which is from Google.
+> **[0:28](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=28)** So three popular large language models are GPT, which is from OpenAI, Claude, which is from Anthropic and [[Gemini]], which is from [[Google]].
 >
 > **[0:38](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=38)** Now, over the years there have been dozens and even hundreds of large language models released, and here's an overview from March, 2023.
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=162)** Now, you might be wondering, so larger models are better, models are getting better, but how do they actually work?
 >
-> **[2:48](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=168)** So large language models work by predicting the next word.
+> **[2:48](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=168)** So large language models work by predicting the next [[Microsoft Word|word]].
 >
 > **[2:51](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=171)** It's a very simple but powerful concept.
 >
@@ -347,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (12), [[ChatGPT]] (7), data (7), llm (5), [[Google]] (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (12), [[ChatGPT]] (7), [[Google]] (3), [[Microsoft Word|Word]] (2), [[Gemini]] (1)
 > **Env Vars:** gpt (6), llm (5)
 > **CLI Commands:** make (6), cat (1)
 > **Analogies:** for example (5)
@@ -361,8 +358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
+#### [Introduction to prompting](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=16)** In other words, it's a way of giving instructions.
 >
-> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=19)** So that's head back to [ChatGPT.com](https://ChatGPT.com).
+> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=19)** So that's head back to [[[ChatGPT]].com](https://ChatGPT.com).
 >
 > **[0:21](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=21)** Last time we asked GPT about the climate in Toronto and San Francisco.
 >
@@ -440,7 +436,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=111)** We asked for a joke and now we asked for some math.
 >
-> **[1:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=114)** So large language models can answer a wide variety of questions.
+> **[1:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=114)** So [[Large Language Models (LLM)|large language models]] can answer a wide variety of questions.
 >
 > **[1:57](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=117)** So let's ask another question, a question about history.
 >
@@ -468,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), hit (2), llm (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (3), llm (1), gbt (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** cat (1), make (1)
@@ -476,8 +472,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tailoring your own prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980)
+#### [Tailoring your own prompts](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=37)** So here's his bio.
 >
-> **[0:38](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=38)** Let's go ahead and copy it and go back to ChatGPT.
+> **[0:38](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=38)** Let's go ahead and copy it and go back to [[ChatGPT]].
 >
 > **[0:45](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=45)** Now let's ask, "Can you write a story about who is Rex?
 >
@@ -509,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=59)** Now, you can see here we have a story about Rex.
 >
-> **[1:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=63)** We have a few paragraphs here that talks about his original story, and at the end, we get this nice conclusion about how he went from being a humble piece of circuitry to being the highest office in town.
+> **[1:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=63)** We have a few paragraphs here that talks about his original story, and at the end, we get this nice conclusion about how he went from being a humble piece of circuitry to being the highest [[Microsoft Office|office]] in town.
 >
 > **[1:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/tailoring-your-own-prompts?u=76281980&t=74)** Now, this is a pretty interesting story, and we can put it on the website if we wanted to, making sure that we follow the procedures of disclosing if it's AI writing or not, so this is an example of how a simple prompt can create a powerful new result.
 >
@@ -553,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), hit (3), [[Microsoft Office|Office]] (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gpt (2)
@@ -562,8 +557,7 @@ created: 2026-05-02
 > **URLs:** [bigstarcollectibles.com](https://bigstarcollectibles.com) (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Generating a superpower for Bubbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980)
+#### [Challenge: Generating a superpower for Bubbles](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,13 +579,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980&t=49)** The superpower should make sense based on the description and what we know about Bubbles.
 >
-> **[0:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980&t=54)** So using chatGPT, go ahead, and create a prompt that will generate a superpower for Bubbles.
+> **[0:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980&t=54)** So using [[ChatGPT]], go ahead, and create a prompt that will generate a superpower for Bubbles.
 >
 > **[0:59](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-generating-a-superpower-for-bubbles?u=76281980&t=59)** In the next video, I'll go over some sample solutions with the prompts that I came up with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Cross-References:** later in (1), go back to (1), in the next (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -600,8 +594,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Generating a superpower for Bubbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980)
+#### [Solution: Generating a superpower for Bubbles](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980&t=12)** I'm going to copy it.
 >
-> **[0:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980&t=14)** Go to ChatGPT.
+> **[0:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980&t=14)** Go to [[ChatGPT]].
 >
 > **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-generating-a-superpower-for-bubbles?u=76281980&t=15)** Now this prompt is pretty simple.
 >
@@ -641,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), hit (2), [[ChatGPT]] (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
@@ -653,12 +646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarization and classification prompt techniques with GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
+#### [Summarization and classification prompt techniques with GPT](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=0)** - [Instructor] I mentioned earlier that our goal in this course is to ultimately build an interactive app or chatbot for the Binary Build Robots website so our customers can ask questions and order products.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=0)** - [Instructor] I mentioned earlier that our goal in this course is to ultimately build an interactive app or chatbot for the Binary Build Robots website so our customers can ask questions and order [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=10)** So far, we focused on data generation to add some more context for our toys, but how can we provide a more customized experience for each of our customers?
 >
@@ -670,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=31)** To generate some fun facts, we're going to use some historical information on robots, so let's go ahead and copy everything from the top to the future development section.
 >
-> **[0:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=42)** Copy that in and go to ChatGPT.
+> **[0:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=42)** Copy that in and go to [[ChatGPT]].
 >
 > **[0:44](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=44)** Now let's type in, "Can you generate three fun facts about robots based on this information?"
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=84)** You can see here, we'll see searching the web, so ChatGPT can search the web by enabling the tools here, search the web, or you can just say it in your prompt.
 >
-> **[1:36](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=96)** And here we go, the word robot originated from a 1920s play.
+> **[1:36](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=96)** And here we go, the [[Microsoft Word|word]] robot originated from a 1920s play.
 >
 > **[1:41](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=101)** You can see the citation coming from Wikipedia about robot and the second citation list of fictional robots and androids.
 >
@@ -722,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=157)** So let's move on to part two, which is classification tasks.
 >
-> **[2:41](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=161)** In our final e-commerce chatbot, we want to ask a customer if they want to hear another fun fact, so let's create a prompt that will do that.
+> **[2:41](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=161)** In our final [[E-Commerce]] chatbot, we want to ask a customer if they want to hear another fun fact, so let's create a prompt that will do that.
 >
 > **[2:48](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980&t=168)** Let's say, let's open up a new chat to do so.
 >
@@ -760,15 +752,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[ChatGPT]] (5), prompt (5), chatbot (3), web (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Giving GPT-4 a persona
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980)
+#### [Giving GPT-4 a persona](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +777,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=19)** Let's go ahead and copy it over.
 >
-> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=23)** So let's go to ChatGPT and paste in our description.
+> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=23)** So let's go to [[ChatGPT]] and paste in our description.
 >
 > **[0:27](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=27)** Let's go up above and say, Assume you are Rex, answer in his personality.
 >
@@ -882,7 +873,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=246)** Now, one more trick.
 >
-> **[4:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=248)** If we change the model that we are using, here we're using GPT-4.1, we can scroll down and select GPT-4.0.
+> **[4:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=248)** If we change the model that we are using, here we're using [[GPT-4]].1, we can scroll down and select GPT-4.0.
 >
 > **[4:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/giving-gpt-4-a-persona?u=76281980&t=256)** That's what we were using in ChatGPT.
 >
@@ -896,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), hit (7), prompt (5), [[Search]] (2), web (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[GPT-4]] (2)
 > **UI Navigation:** go to (4), click on (1), scroll down (1)
 > **Env Vars:** gpt (3)
 > **Versions:** 4.1 (1), 4.0 (1)
@@ -905,8 +896,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Formatting your prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980)
+#### [Formatting your prompts](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=7)** Using structured text is a great way to communicate for both people and machines.
 >
-> **[0:12](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=12)** So let's go ahead and learn how to format text using GPT-4.
+> **[0:12](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=12)** So let's go ahead and learn how to format text using [[GPT-4]].
 >
 > **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=15)** Continuing down our binaryville theme, we had some previous text about Rex.
 >
@@ -924,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=22)** I'm here in 03_03.txt.
 >
-> **[0:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=26)** Let's copy this text and paste it into ChatGPT.
+> **[0:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=26)** Let's copy this text and paste it into [[ChatGPT]].
 >
 > **[0:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/formatting-your-prompts?u=76281980&t=31)** Now let's go to the top and type in what year was Rex born in, and enter.
 >
@@ -976,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), hit (2), [[GPT-4]] (1), prompt (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GPT-4]] (1)
 > **Env Vars:** csv (2), gpt (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** 03_03.txt (1)
@@ -984,8 +974,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Placing a Binaryville character order
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-placing-a-binaryville-character-order?u=76281980)
+#### [Challenge: Placing a Binaryville character order](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-placing-a-binaryville-character-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,7 +994,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **File Paths:** 03_04.txt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1013,14 +1001,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Placing a Binaryville character order
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980)
+#### [Solution: Placing a Binaryville character order](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980&t=0)** - [Instructor] Alright, let's see what we got from this challenge video.
 >
-> **[0:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980&t=9)** So let's open up ChatGPT, and see the prompt that I was using.
+> **[0:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980&t=9)** So let's open up [[ChatGPT]], and see the prompt that I was using.
 >
 > **[0:13](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-placing-a-binaryville-character-order?u=76281980&t=13)** You can find it in 03_05.
 >
@@ -1052,7 +1039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), hit (3), [[ChatGPT]] (1), chatbot (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1062,8 +1049,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring the system prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
+#### [Configuring the system prompt](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1109,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980&t=96)** Now, depending on the model we use, the system prompt behaves slightly differently.
 >
-> **[1:40](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980&t=100)** Let's go to the model selection up here and let's go up and select GPT-4.1.
+> **[1:40](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980&t=100)** Let's go to the model selection up here and let's go up and select [[GPT-4]].1.
 >
 > **[1:49](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980&t=109)** Now let's click X on the assistant response and submit our prompt.
 >
@@ -1163,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), [[GPT-4]] (3), hit (1), ai (1)
+> **Frameworks & Libraries:** [[GPT-4]] (3)
 > **Env Vars:** gpt (18)
 > **Versions:** 4.1 (4), 4.0 (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1172,12 +1158,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 
-#### Adding memory to ChatGPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980)
+#### [Adding memory to ChatGPT-4](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=0)** - [Instructor] What was magical about ChatGPT when it first came out was the ability to remember past parts of your conversation.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=0)** - [Instructor] What was magical about [[ChatGPT]] when it first came out was the ability to remember past parts of your conversation.
 >
 > **[0:06](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=6)** You could say that you had a pet dog and have a full conversation going back and forth with ChatGPT.
 >
@@ -1185,9 +1170,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=15)** And all these answers are based on the context of what ChatGPT has.
 >
-> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=19)** So how do we use this memory when we're building our own conversational AI apps?
+> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=19)** So how do we use this memory when we're building our own [[Conversational AI]] apps?
 >
-> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=23)** If we're building an e-commerce chat bot, remembering what the users previously said makes the experience much more natural.
+> **[0:23](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=23)** If we're building an [[E-Commerce]] chat bot, remembering what the users previously said makes the experience much more natural.
 >
 > **[0:29](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/adding-memory-to-chatgpt?u=76281980&t=29)** So in this video, we're going to go through an exercise of using context to improve our responses.
 >
@@ -1247,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Conversational AI]] (2), [[E-Commerce]] (2), feature (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Conversational AI]] (2), [[E-Commerce]] (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
@@ -1255,8 +1240,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Prompt chaining with ChatGPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980)
+#### [Prompt chaining with ChatGPT-4](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,11 +1252,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=13)** It is a technique of combining multiple prompts together to accomplish a more complex task.
 >
-> **[0:18](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=18)** For example, in an e-commerce chatbot, you might want to answer customer questions about a product, then accept a free text order, and finally, take in the delivery and structure the output.
+> **[0:18](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=18)** For example, in an [[E-Commerce]] chatbot, you might want to answer customer questions about a product, then accept a free text order, and finally, take in the delivery and structure the output.
 >
 > **[0:28](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=28)** You can see here that the arrows represent the parts of the prompt chain.
 >
-> **[0:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=31)** So let's open up ChatGPT and build this three-part prompt chain together.
+> **[0:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=31)** So let's open up [[ChatGPT]] and build this three-part prompt chain together.
 >
 > **[0:35](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-with-chatgpt?u=76281980&t=35)** So let's start with the first prompt by opening up the Exercise Files.
 >
@@ -1416,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), hit (8), [[ChatGPT]] (4), [[E-Commerce]] (3), chatbot (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[E-Commerce]] (3)
 > **File Paths:** prompt1.txt (1), prompt2.txt (1), prompt3.txt (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (3)
@@ -1425,8 +1409,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 
-#### Challenge: Remembering your order
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980)
+#### [Challenge: Remembering your order](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,11 +1421,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=17)** So under 04_04.txt, we have the data here, which are all the past orders, and we have two tests.
 >
-> **[0:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=26)** We have one for John and one for Jane.
+> **[0:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=26)** We have one for [[John the Ripper|John]] and one for Jane.
 >
 > **[0:28](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=28)** So in this data, we have information on the customer name, the figures they ordered, their payment method, their shipping address, and so forth.
 >
-> **[0:36](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=36)** Now, the other requirement is for ChatGPT to act like a customer support assistant.
+> **[0:36](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=36)** Now, the other requirement is for [[ChatGPT]] to act like a [[Customer Support]] assistant.
 >
 > **[0:41](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-remembering-your-order?u=76281980&t=41)** So your goal is to develop a prompt that fits these two requirements.
 >
@@ -1454,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), prompt (2), [[ChatGPT]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[ChatGPT]] (1), [[Customer Support]] (1)
 > **File Paths:** 04_04.txt (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -1462,14 +1445,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
-#### Solution: Remembering your order
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980)
+#### [Solution: Remembering your order](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=0)** - [Instructor] All right, let's take a look at our solution.
 >
-> **[0:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=9)** I'm going to show you how to do this both in ChatGPT and the prompts playground.
+> **[0:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=9)** I'm going to show you how to do this both in [[ChatGPT]] and the prompts playground.
 >
 > **[0:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=14)** So let's start off with ChatGPT.
 >
@@ -1483,7 +1465,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=41)** Now if we go back to our exercise file, we can see we have two tests.
 >
-> **[0:46](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=46)** First one with John and the other with Jane.
+> **[0:46](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=46)** First one with [[John the Ripper|John]] and the other with Jane.
 >
 > **[0:49](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=49)** Let's copy the John test.
 >
@@ -1523,7 +1505,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=100)** Which address did you ship it to?
 >
-> **[1:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=102)** Now, just like the previous test, it's not perfect English, but that's what we type out when we go to customer support.
+> **[1:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=102)** Now, just like the previous test, it's not perfect English, but that's what we type out when we go to [[Customer Support]].
 >
 > **[1:47](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-remembering-your-order?u=76281980&t=107)** So it's pretty realistic.
 >
@@ -1571,7 +1553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), hit (4), data (2), chatbot (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[John the Ripper|John]] (4), [[Customer Support]] (1)
 > **UI Navigation:** go to (2), scroll up (2)
 > **Cross-References:** go back to (1), we covered (1), in the next (1)
 > **Exercise Files:** exercise file (2), exercise files (1)
@@ -1585,14 +1567,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vibe coding a chatbot with GPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
+#### [Vibe coding a chatbot with GPT-4](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=0)** - [Instructor] Can we use ChatGPT to build a custom chatbot?
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=0)** - [Instructor] Can we use [[ChatGPT]] to build a custom chatbot?
 >
-> **[0:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=3)** Well, you might have heard about this thing called vibe coding.
+> **[0:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=3)** Well, you might have heard about this thing called [[Vibe Coding]].
 >
 > **[0:06](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=6)** But if you haven't, let's ask ChatGPT what it is.
 >
@@ -1652,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=118)** We have a chatbox here, let's ask a question.
 >
-> **[2:02](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=122)** "What are your products?"
+> **[2:02](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=122)** "What are your [[Microsoft Products|products]]?"
 >
 > **[2:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=125)** And click, Send.
 >
@@ -1688,23 +1669,22 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=184)** Now, luckily, there are other solutions to help us build chatbots more easily.
 >
-> **[3:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=188)** In the next video, we'll be learning how to use a specialized tool in order to build our e-commerce Big Star Collectibles chatbot.
+> **[3:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980&t=188)** In the next video, we'll be learning how to use a specialized tool in order to build our [[E-Commerce]] Big Star Collectibles chatbot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Vibe Coding]] (4), hit (3), chatbot (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Vibe Coding]] (4), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Showing a no-code chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980)
+#### [Showing a no-code chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=0)** - [Instructor] So let's see an example of an e-commerce AI app.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=0)** - [Instructor] So let's see an example of an [[E-Commerce]] AI app.
 >
 > **[0:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=3)** I'm here on the Big Star Collectibles website.
 >
@@ -1712,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=9)** Let's click on it.
 >
-> **[0:11](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=11)** Here, we see an AI app powered by ChatGPT.
+> **[0:11](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=11)** Here, we see an AI app powered by [[ChatGPT]].
 >
 > **[0:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/showing-a-no-code-chatbot?u=76281980&t=14)** Let's go ahead and ask some questions.
 >
@@ -1752,22 +1732,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[E-Commerce]] (1), [[ChatGPT]] (1), hit (1), business (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[ChatGPT]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a no-code chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980)
+#### [Building a no-code chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=0)** - [Instructor] In this video, we're going to learn how to build our custom chatbot.
 >
-> **[0:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=3)** We're going to leverage our previous skills of prompt chaining and make it into a seamless user experience.
+> **[0:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=3)** We're going to leverage our previous skills of prompt chaining and make it into a seamless [[User Experience (UX)|user experience]].
 >
-> **[0:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=8)** Usually, generative AI apps require developer-focused tooling, like LangChain, but we'll be using a productivity-focused tool called Voiceflow.
+> **[0:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=8)** Usually, [[Generative AI]] apps require developer-focused tooling, like [[LangChain]], but we'll be using a productivity-focused tool called Voiceflow.
 >
 > **[0:17](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=17)** So let's go ahead and make a Voiceflow account.
 >
@@ -1783,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=44)** On the right hand side here, we have a live agent that we can interact with, and any changes we make on the canvas will be represented here.
 >
-> **[0:50](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=50)** So let's go ahead and minimize this agent and click on the customer support block.
+> **[0:50](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=50)** So let's go ahead and minimize this agent and click on the [[Customer Support]] block.
 >
 > **[0:56](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=56)** Let's go ahead and click the pencil icon to edit it.
 >
@@ -1797,7 +1776,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=74)** Now this is a large system prompt.
 >
-> **[1:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=76)** If you remember from the last chapter, we had the system prompt for interacting in ChatGPT.
+> **[1:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=76)** If you remember from the last chapter, we had the system prompt for interacting in [[ChatGPT]].
 >
 > **[1:21](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=81)** Now let's go ahead and double check which model we're using.
 >
@@ -1807,7 +1786,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=89)** If you go through the models, you have many to choose from, but we'll stick with GPT-4o.
 >
-> **[1:34](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=94)** Now here we also have temperature, which determines how random the responses are and how many tokens we should respond with.
+> **[1:34](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=94)** Now here we also have temperature, which determines how random the responses are and how many [[Tokens]] we should respond with.
 >
 > **[1:40](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=100)** We'll leave these for now.
 >
@@ -1853,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), chatbot (2), hit (2), [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1), [[LangChain]] (1), [[Customer Support]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **Env Vars:** gpt (2)
@@ -1862,12 +1841,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### Customizing your chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980)
+#### [Customizing your chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=0)** - [Instructor] In this video, we're going to continue customizing our chat bot to finish our user experience.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=0)** - [Instructor] In this video, we're going to continue customizing our chat bot to finish our [[User Experience (UX)|user experience]].
 >
 > **[0:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=5)** We can continue from the file we had in the previous video, but let me show you how to import an exercise file.
 >
@@ -1933,11 +1911,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=142)** All right, that looks good, and let's keep scrolling down, and let's click on Security.
 >
-> **[2:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=151)** So in here, you'll see a privacy notice and an approved set of domains that we can use.
+> **[2:31](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=151)** So in here, you'll see a [[Privacy]] notice and an approved set of domains that we can use.
 >
 > **[2:39](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=159)** Now, from a security perspective, if you only want people to use your AI app on your website, you want to enter your domain.
 >
-> **[2:45](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=165)** In our case, because we're just prototyping, we're going to create a public application.
+> **[2:45](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=165)** In our case, because we're just [[Prototyping]], we're going to create a public application.
 >
 > **[2:50](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=170)** So let's go ahead and click on the settings.
 >
@@ -1995,7 +1973,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=294)** If you've never used this before, I'm here in Chrome's web console.
 >
-> **[4:57](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=297)** So here we can add some JavaScript or HTML code.
+> **[4:57](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=297)** So here we can add some [[JavaScript]] or [[HTML]] code.
 >
 > **[5:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=300)** Now, this won't change the website for everybody, only our local instance.
 >
@@ -2027,11 +2005,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=354)** And there we go, we built a customized AI app and in the next video, we're going to further customize our AI app.
 >
-> **[6:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=360)** We're going to implement some AI prompting logic to add even more power to our application.
+> **[6:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/customizing-your-chatbot?u=76281980&t=360)** We're going to implement some [[AI Prompting]] logic to add even more power to our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), api (2), next (2), [[Security]] (2), application (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1), [[Privacy]] (1), [[Prototyping]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (12), go to (4), scroll down (2), scroll up (1)
 > **Cross-References:** go back to (4), previous video (1), in the next (1)
 > **CLI Commands:** make (4)
@@ -2040,12 +2018,11 @@ created: 2026-05-02
 > **Code Identifiers:** bigstaricon (2)
 > **File Paths:** color.txt (1)
 
-#### Prompt chaining for your chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-for-your-chatbot?u=76281980)
+#### [Prompt chaining for your chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-for-your-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-for-your-chatbot?u=76281980&t=0)** - [Instructor] So far, we've learned to build an e-commerce app with just one prompt.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-for-your-chatbot?u=76281980&t=0)** - [Instructor] So far, we've learned to build an [[E-Commerce]] app with just one prompt.
 >
 > **[0:04](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/prompt-chaining-for-your-chatbot?u=76281980&t=4)** Today, we're going to learn how to build a multi-prompt chatbot.
 >
@@ -2183,7 +2160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), llm (4), hit (3), chatbot (2), ai (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2191,8 +2168,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating memory and knowledge into your AI app
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980)
+#### [Incorporating memory and knowledge into your AI app](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2210,7 +2186,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=35)** Hmm, none of them really do.
 >
-> **[0:37](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=37)** So let's say, "I like vanilla ice cream, which character would you recommend?"
+> **[0:37](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=37)** So let's say, "I like [[Vanilla]] ice cream, which character would you recommend?"
 >
 > **[0:48](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=48)** Okay, recommendation for Bubbles. That's pretty interesting.
 >
@@ -2224,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=67)** Now, how do we do this?
 >
-> **[1:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=69)** Now, if you remember from ChatGPT, or the OpenAI Playground, we have back and forth messages with the LLM.
+> **[1:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=69)** Now, if you remember from [[ChatGPT]], or the OpenAI Playground, we have back and forth messages with the LLM.
 >
 > **[1:14](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=74)** In Voiceflow and many other tools, you can enable memory by default.
 >
@@ -2254,7 +2230,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=123)** So the knowledge base is a way for the LLM to retrieve some information without keeping it in the prompt.
 >
-> **[2:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=129)** It uses a technique called RAG, or retrieval-augmented generation.
+> **[2:09](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=129)** It uses a technique called RAG, or [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[2:13](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/incorporating-memory-and-knowledge-into-your-ai-app?u=76281980&t=133)** Let's go ahead and see how this works.
 >
@@ -2322,7 +2298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), llm (5), prompt (4), hit (3), [[Vanilla]] (2)
+> **Frameworks & Libraries:** [[Vanilla]] (2), [[ChatGPT]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** llm (5), rag (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Cross-References:** go back to (2), previous video (1), in the next (1)
@@ -2330,14 +2306,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: A BigStarCollectibles chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980)
+#### [Challenge: A BigStarCollectibles chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980&t=0)** - [Instructor] Wow, we're almost at the end of this course.
 >
-> **[0:10](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980&t=10)** Let's put everything together that we've learned so far to make a full e-commerce chat bot.
+> **[0:10](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980&t=10)** Let's put everything together that we've learned so far to make a full [[E-Commerce]] chat bot.
 >
 > **[0:15](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/challenge-a-bigstarcollectibles-chatbot?u=76281980&t=15)** Your challenge is to continue improving on the project we've been working on.
 >
@@ -2357,13 +2332,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), ai (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: A BigStarCollectibles chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980)
+#### [Solution: A BigStarCollectibles chatbot](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2429,13 +2403,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980&t=126)** Awesome. We're ready to go.
 >
-> **[2:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980&t=128)** You've now learned how to build a full-scale AI agent using prompt chaining, memory, RAG, and the power of ChatGPT.
+> **[2:08](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980&t=128)** You've now learned how to build a full-scale AI agent using prompt chaining, memory, RAG, and the power of [[ChatGPT]].
 >
 > **[2:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/solution-a-bigstarcollectibles-chatbot?u=76281980&t=136)** We now have a full conversational assistant to power our Big Star Collectibles website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (1), hit (1), ai (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [fakeemail.com](https://fakeemail.com) (1)
 > **Env Vars:** rag (1)
@@ -2448,18 +2422,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=0)** - Thank you for joining me on this adventure to learn how to build an app with generative AI.
+> **[0:00](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=0)** - Thank you for joining me on this adventure to learn how to build an app with [[Generative AI]].
 >
-> **[0:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=5)** We started from scratch and learned about ChatGPT and now we can build a full e-commerce app.
+> **[0:05](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=5)** We started from scratch and learned about [[ChatGPT]] and now we can build a full [[E-Commerce]] app.
 >
 > **[0:11](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=11)** OpenAI has some great resources about ChatGPT, so you can check out their website at [openai.com](https://openai.com).
 >
-> **[0:18](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=18)** You can also follow me on LinkedIn where I share content about generative AI or watch some of my other nine courses like getting hands-on with GPT.
+> **[0:18](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=18)** You can also follow me on [[LinkedIn]] where I share content about generative AI or watch some of my other nine courses like getting hands-on with GPT.
 >
 > **[0:27](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980&t=27)** So let's keep learning about generative AI and building some cool GPT apps.
 

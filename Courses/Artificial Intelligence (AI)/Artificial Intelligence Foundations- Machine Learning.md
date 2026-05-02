@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI foundations: Machine learning course
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=76281980)
+#### [Introduction to AI foundations: Machine learning course](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,13 +121,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
 
-#### Reviewing the course scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980)
+#### [Reviewing the course scenarios](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980&t=39)** For your information, California is on the West Coast of the United States.
 >
-> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980&t=45)** We'll use a form of machine learning called supervised learning to solve a linear regression problem.
+> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980&t=45)** We'll use a form of machine learning called [[Supervised Learning]] to solve a [[Linear Regression]] problem.
 >
 > **[0:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-the-course-scenarios?u=76281980&t=53)** Don't let these new, fancy terms: supervised learning and linear regression, be off-putting.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Linear Regression]] (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Linear Regression]] (2)
 > **Speakers:** - i (1)
 
 
@@ -180,14 +177,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980)
+#### [Exploring machine learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=0)** - [Narrator] What is artificial intelligence, or AI, and how does it impact you?
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=0)** - [Narrator] What is [[Artificial Intelligence (AI)|artificial intelligence]], or AI, and how does it impact you?
 >
-> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=6)** Simply put, AI is the simulation of human intelligence by machines.
+> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=6)** Simply put, AI is the [[Simulation]] of human intelligence by machines.
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=12)** Well, how does this machine learning relate to AI?
 >
@@ -201,13 +197,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=55)** Models are often depicted as a brain because they are meant to simulate human intelligence.
 >
-> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=62)** Machine learning and the algorithms used in machine learning have been around since the 1950s, but suddenly, there's a mass resurgence.
+> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=62)** Machine learning and the [[Algorithms]] used in machine learning have been around since the 1950s, but suddenly, there's a mass resurgence.
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=72)** Why?
 >
 > **[1:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=73)** Where did this newfound excitement and buzz around machine learning come from?
 >
-> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=78)** Well, I call it the perfect storm, big data, which brings easier access to the large datasets needed to train machine learning models, and the cloud, which brings accessibility with easy-to-use machine learning services and access to powerful compute power, like GPUs at the click of a button.
+> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=78)** Well, I call it the perfect storm, [[Big Data]], which brings easier access to the large datasets needed to train machine learning models, and the cloud, which brings accessibility with easy-to-use machine learning services and access to powerful compute power, like GPUs at the click of a button.
 >
 > **[1:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=101)** Because of this perfect storm, the use of machine learning is widespread.
 >
@@ -233,15 +229,15 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=144)** First, you're thinking, "Wow, machine learning is widespread."
 >
-> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=149)** Next, you remember that I mentioned the word mathematics at least twice, and you know that math can be scary.
+> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=149)** Next, you remember that I mentioned the [[Microsoft Word|word]] mathematics at least twice, and you know that math can be scary.
 >
 > **[2:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=157)** Don't worry.
 >
-> **[2:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=158)** You don't need a PhD in mathematics to excel in machine learning.
+> **[2:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=158)** You don't need a PhD in mathematics to [[Microsoft Excel|excel]] in machine learning.
 >
-> **[2:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=162)** You'll do just fine if you understand linear algebra, basic equations and probability.
+> **[2:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=162)** You'll do just fine if you understand [[Linear Algebra]], basic equations and [[Probability]].
 >
-> **[2:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=170)** Basic knowledge of programming and Python will help you understand the hands-on labs, but have no fear.
+> **[2:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=170)** Basic knowledge of programming and [[Python (Programming Language)|Python]] will help you understand the hands-on labs, but have no fear.
 >
 > **[2:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980&t=177)** I'll show you widely used libraries that do the heavy lifting for you.
 >
@@ -249,20 +245,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Simulation]] (1), [[Algorithms]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Simulation]] (1), [[Algorithms]] (1), [[Big Data]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Examining how machines learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980)
+#### [Examining how machines learn](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=0)** - [Narrator] There are several ways machines learn, they're called techniques.
 >
-> **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=5)** Three common machine learning techniques are supervised learning, unsupervised learning, and reinforcement learning.
+> **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=5)** Three common machine learning techniques are [[Supervised Learning]], unsupervised learning, and [[Reinforcement Learning]].
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=12)** Do you recall in the case study video when I mentioned the term supervised learning?
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=126)** Clustering is a common unsupervised learning technique.
 >
-> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=130)** The hospitality industry often clusters, or segments customers which allows them to tailor their marketing strategy to gain loyal customers and a competitive advantage.
+> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=130)** The hospitality industry often clusters, or segments customers which allows them to tailor their [[Marketing Strategy]] to gain loyal customers and a competitive advantage.
 >
 > **[2:23](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-how-machines-learn?u=76281980&t=143)** The last technique we'll discuss today is reinforcement learning which allows the machine to learn through trial and error.
 >
@@ -316,30 +311,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (7), [[Reinforcement Learning]] (7), [[Marketing Strategy]] (1), ai (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (7), [[Reinforcement Learning]] (7), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why traditional ML still matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980)
+#### [Why traditional ML still matters](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=0)** - [Instructor] When most people hear artificial intelligence, they immediately think of large language models and generative AI.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=0)** - [Instructor] When most people hear [[Artificial Intelligence (AI)|artificial intelligence]], they immediately think of [[Large Language Models (LLM)|large language models]] and [[Generative AI]].
 >
 > **[0:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=8)** But before those big models took the spotlight, traditional machine learning was already transforming industries, and it's still doing that today.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=18)** Traditional machine learning techniques like regression, decision trees, random forests, and clustering are the steady engines that power real business value.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=18)** Traditional machine learning techniques like regression, [[Decision Trees]], random forests, and clustering are the steady engines that power real business value.
 >
 > **[0:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=29)** They're fast, reliable, and often exactly what's needed.
 >
-> **[0:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=35)** Think about fraud detection, customer churn prediction, inventory management, and demand forecasting.
+> **[0:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=35)** Think about fraud detection, customer churn prediction, inventory management, and demand [[Forecasting]].
 >
 > **[0:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=43)** These are problems where traditional machine learning shines because it's focused, efficient, and grounded in data-driven insights.
 >
-> **[0:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=54)** In many other cases, simpler models perform just as well, if not better than complex deep learning systems.
+> **[0:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=54)** In many other cases, simpler models perform just as well, if not better than complex [[Deep Learning]] systems.
 >
 > **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=62)** They train faster, costs less to maintain, and can be deployed almost anywhere.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=72)** With traditional machine learning, you can usually explain why a model made a specific prediction.
 >
-> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=79)** That's critical in industries that require transparency and accountability.
+> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=79)** That's critical in industries that require transparency and [[Accountability]].
 >
 > **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/why-traditional-ml-still-matters?u=76281980&t=85)** When you can open the model and walk someone through its reasoning, it builds confidence and trust.
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Generative AI]] (3), [[Deep Learning]] (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Decision Trees]] (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -382,22 +376,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking down the machine learning lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980)
+#### [Breaking down the machine learning lifecycle](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=0)** - Do you know the acronym, SDLC?
 >
-> **[0:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=3)** It stands for the Software Development Lifecycle.
+> **[0:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=3)** It stands for the [[Software Development]] Lifecycle.
 >
-> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=6)** It's a standard process that software engineers follow to produce the highest quality code in the shortest amount of time, with Agile being a popular methodology used during the SDLC.
+> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=6)** It's a standard process that software engineers follow to produce the highest quality code in the shortest amount of time, with [[Agile Development|Agile]] being a popular methodology used during the SDLC.
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=21)** Just like there's a standard process for software development, there's a machine learning lifecycle with standard stages developers follow to build machine learning systems.
 >
 > **[0:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=32)** Write down the stages, and take some notes as I walk you through them.
 >
-> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=37)** The stages are problem formation and understanding, data collection and preparation, model training and testing, and model deployment and maintenance.
+> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=37)** The stages are problem formation and understanding, [[Data Collection]] and preparation, model training and testing, and model deployment and maintenance.
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=48)** Let's start with problem formation and understanding.
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=189)** During training, multiple passes are made over the data to produce the model.
 >
-> **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=194)** You'll iterate during this process, experimenting, fine tuning, and evaluating your model until you land a well-performing model that you place in production during the model deployment and maintenance stage.
+> **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=194)** You'll iterate during this process, experimenting, [[Fine Tuning]], and evaluating your model until you land a well-performing model that you place in production during the model deployment and maintenance stage.
 >
 > **[3:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980&t=209)** Once your model is in production, you'll set up a cadence for retraining and monitoring overall performance.
 >
@@ -453,15 +446,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Software Development]] (2), [[Agile Development|Agile]] (1), business (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Software Development]] (2), [[Agile Development|Agile]] (1), [[Fine Tuning]] (1)
 > **Definitions:** is an  (2), stands for (1), is a  (1)
 > **Env Vars:** sdlc (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Analogies:** just like (1)
 > **Speakers:** - do (1)
 
-#### Framing machine learning problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980)
+#### [Framing machine learning problems](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=20)** If you can use simple rules, computations or predetermined steps to solve your problem then machine learning is not for you.
 >
-> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=30)** Start to think of a problem that you think machine learning could solve and make notes in a text editor or LinkedIn's notebook feature and we'll uncover together whether or not your idea would be a good candidate for machine learning.
+> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=30)** Start to think of a problem that you think machine learning could solve and make notes in a text editor or [[LinkedIn]]'s notebook feature and we'll uncover together whether or not your idea would be a good candidate for machine learning.
 >
 > **[0:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=46)** I've found that machine learning works best when you need to predict an outcome, uncover trends and patterns and data, have rules and predetermined steps that cannot be coded or your data set is too large to be processed by a human.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=186)** Let's say your favorite streaming service predicts a movie will get over 10 million views.
 >
-> **[3:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=193)** They'll probably make the decision to cache the movie to improve user experience.
+> **[3:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=193)** They'll probably make the decision to cache the movie to improve [[User Experience (UX)|user experience]].
 >
 > **[3:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/framing-machine-learning-problems?u=76281980&t=199)** Problem framing is also the time to define the metrics that will determine whether or not your implementation is successful.
 >
@@ -517,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (2), next (2), [[LinkedIn]] (1), aws (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
@@ -525,8 +517,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying a pre-built model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980)
+#### [Identifying a pre-built model](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +545,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=90)** This is useful because you leverage previous learnings and starting from scratch.
 >
-> **[1:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=96)** Transfer learning is like inheritance in the Java programming language.
+> **[1:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=96)** Transfer learning is like inheritance in the [[Java]] programming language.
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=100)** You gain preexisting functionality for reusability and efficiency.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=124)** Model Zoo curates pre-trained deep-learning models for various frameworks and domains.
 >
-> **[2:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=131)** You'll find pre-trained models on computer vision, natural language processing, audio and speech, and more.
+> **[2:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=131)** You'll find pre-trained models on [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], audio and speech, and more.
 >
 > **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=139)** Pre-trained models are available for educational purposes, transfer learning, and other uses.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=187)** Some are free while others require a one-time payment.
 >
-> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=192)** Lastly, Hugging Face, while not a pre-trained model catalog per se, does provide several pre-trained models for natural language processing that not only recognizes words, but understands the meaning and context of those words.
+> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=192)** Lastly, [[Hugging Face]], while not a pre-trained model catalog per se, does provide several pre-trained models for natural language processing that not only recognizes words, but understands the meaning and context of those words.
 >
 > **[3:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/identifying-a-pre-built-model?u=76281980&t=209)** There are pre-trained models for sentiment analysis, question and answer, language translation, tech summarization, and more.
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), aws (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Java]] (1), [[Computer Vision]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (2), find (2), aws (2), apache (1)
 > **Env Vars:** aws (2)
 > **Exercise Files:** source code (2)
@@ -598,8 +589,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding tools used to train a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980)
+#### [Understanding tools used to train a model](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,19 +603,19 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=19)** Once you have enough data and the needed compute processing power, you're ready to train a custom model.
 >
-> **[0:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=26)** Machine learning models often need hardware that can support computationally intensive processes; processes like making multiple passes over large data sets to find trends and patterns.
+> **[0:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=26)** Machine learning models often need [[Hardware]] that can support computationally intensive processes; processes like making multiple passes over large data sets to find trends and patterns.
 >
 > **[0:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=40)** For simple models, training can occur on your local machine using the normal CPU that every laptop has.
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=48)** However, for more complex training, like our flower classification scenario, GPUs are required for training.
 >
-> **[0:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=57)** This means training cannot be done on your laptop, so developers often turn to cloud providers like Amazon Web Services, AWS, because you have access to GPUs at the click of a button.
+> **[0:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=57)** This means training cannot be done on your laptop, so developers often turn to cloud providers like [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, because you have access to GPUs at the click of a button.
 >
 > **[1:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=71)** The hardware requirements are often dictated by the problem you're trying to solve, your chosen learning algorithm, and selected machine learning framework.
 >
 > **[1:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=82)** Training a custom model often requires writing code, although there are no code or low code options, which we'll discuss later in the course.
 >
-> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=92)** There are several programming language options: R, Python, and Java, with Python being the most popular.
+> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=92)** There are several programming language options: R, [[Python (Programming Language)|Python]], and [[Java]], with Python being the most popular.
 >
 > **[1:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=101)** Developers often ask me which language to choose and I recommend Python because it's an easy programming language to learn that can also be used outside of the machine learning domain.
 >
@@ -639,11 +629,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=139)** Jupyter Notebooks provide a collaborative development environment for writing your [[Python Data Analysis]], visualization, and training code.
 >
-> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=149)** Python-based data analytics tools include the Pandas and NumPy libraries.
+> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=149)** Python-based data analytics tools include the [[Pandas (Software)|Pandas]] and NumPy libraries.
 >
-> **[2:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=155)** Pandas allow you to work with solid data structures, N-dimensional matrices, and perform exploratory data analysis.
+> **[2:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=155)** Pandas allow you to work with solid [[Data Structures]], N-dimensional matrices, and perform exploratory data analysis.
 >
-> **[2:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=164)** What I love about Pandas is that it's very easy to read CSV, JSON, and TSV data files into a data frame for processing.
+> **[2:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=164)** What I love about Pandas is that it's very easy to read CSV, [[JSON]], and TSV data files into a data frame for processing.
 >
 > **[2:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=176)** NumPy allows you to do numerical computing.
 >
@@ -657,9 +647,9 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=205)** These libraries allow for generating production quality visualizations with just a few lines of code.
 >
-> **[3:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=213)** Machine learning frameworks provide easy-to-use libraries that contain learning algorithms and predefined functions that help you train a model.
+> **[3:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=213)** Machine learning frameworks provide easy-to-use libraries that contain learning [[Algorithms]] and predefined functions that help you train a model.
 >
-> **[3:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=223)** There are frameworks like scikit-learn, TensorFlow, MXNet, PyTorch, Keras, and more.
+> **[3:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=223)** There are frameworks like scikit-learn, [[TensorFlow]], MXNet, [[PyTorch]], Keras, and more.
 >
 > **[3:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-tools-used-to-train-a-model?u=76281980&t=232)** We'll use scikit-learn for training a custom model because it's easy to use and provides extensive documentation with helpful troubleshooting steps.
 >
@@ -667,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (4), [[Programming]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Pandas (Software)|Pandas]] (4), [[Hardware]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Java]] (1)
 > **CLI Commands:** python (10), find (3), aws (1)
 > **Env Vars:** cpu (1), aws (1), csv (1), json (1), tsv (1)
 > **Tools:** jupyter (3)
@@ -681,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Obtaining data
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980)
+#### [Obtaining data](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=46)** We'll use that to predict what that home will sell for.
 >
-> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=50)** We'll use a machine learning technique called supervised learning to predict the cost of the home, which is a linear regression problem.
+> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=50)** We'll use a machine learning technique called [[Supervised Learning]] to predict the cost of the home, which is a [[Linear Regression]] problem.
 >
 > **[0:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=59)** Do you remember the definition of supervised learning from chapter one?
 >
@@ -720,7 +709,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=103)** Regression models often predict a numeric value called the target, in our case, the cost of the home, based on understanding the relationships between independent variables, the features.
 >
-> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=115)** Linear regression is mostly used to find the relationship between variables and forecasting.
+> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=115)** Linear regression is mostly used to find the relationship between variables and [[Forecasting]].
 >
 > **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=122)** Let's take a closer look at the housing data set.
 >
@@ -778,11 +767,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=238)** This is the field that we want the machine to learn how to predict.
 >
-> **[4:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=244)** Now let's review the Python code.
+> **[4:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=244)** Now let's review the [[Python (Programming Language)|Python]] code.
 >
 > **[4:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=247)** The first step is to load the data set, and that's what we're doing here using this read_csv function.
 >
-> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=254)** I'm loading the CSV file data into a Pandas DataFrame.
+> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=254)** I'm loading the CSV file data into a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[4:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980&t=259)** After loading the data, I can now access it through this housing_df, which is the dataframe.
 >
@@ -790,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Supervised Learning]] (4), next (4), [[Linear Regression]] (3), feature (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Linear Regression]] (3), [[Forecasting]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (1), python (1)
 > **Code Identifiers:** read_csv (1), housing_df (1)
@@ -798,14 +787,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - data (1)
 
-#### Visualizing and understanding data
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980)
+#### [Visualizing and understanding data](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=0)** - [Instructor] When exploring your dataset, you'll need to visualize that data through plotting charts and graphs, so you better understand it.
 >
-> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=8)** Matplotlib and Seaborn are widely used Python-based 2D plotting libraries.
+> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=8)** Matplotlib and Seaborn are widely used [[Python (Programming Language)|Python]]-based 2D plotting libraries.
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=14)** These libraries allow for generating production-quality visualizations with just a few lines of code.
 >
@@ -833,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=109)** Median income is not expressed in US dollars, or USD.
 >
-> **[1:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=114)** The data collection team has pre-processed the data by scaling and capping at 15 for higher median incomes and 0.5 for lower median incomes.
+> **[1:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=114)** The [[Data Collection]] team has pre-processed the data by scaling and capping at 15 for higher median incomes and 0.5 for lower median incomes.
 >
 > **[2:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=127)** Now, these histograms tell us several things.
 >
@@ -879,11 +867,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=267)** Dimensionality reduction is the act of removing features to improve the runtime and effectiveness of your models.
 >
-> **[4:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=275)** Now that we understand our dataset, we are ready for feature engineering, a process that manipulates your data by adding, deleting, combining, and creating new features to improve training and prediction capabilities.
+> **[4:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/visualizing-and-understanding-data?u=76281980&t=275)** Now that we understand our dataset, we are ready for [[Feature Engineering]], a process that manipulates your data by adding, deleting, combining, and creating new features to improve training and prediction capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (5), [[Python (Programming Language)|Python]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Collection]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** usd (1)
 > **Versions:** 0.5 (1)
@@ -892,12 +880,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 
-#### Understanding feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980)
+#### [Understanding feature engineering](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=0)** - [Instructor] Feature engineering is a process that manipulates your data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=0)** - [Instructor] [[Feature Engineering]] is a process that manipulates your data.
 >
 > **[0:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=4)** Adding new features, removing highly correlated features and combining features to create new features.
 >
@@ -913,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=46)** There are several ways to handle missing data.
 >
-> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=50)** Delete rows with missing values, use machine learning to predict missing values, replace missing values with the mean or the average score, or use machine learning algorithms that handle missing data gracefully.
+> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=50)** Delete rows with missing values, use machine learning to predict missing values, replace missing values with the mean or the average score, or use machine learning [[Algorithms]] that handle missing data gracefully.
 >
 > **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=68)** We want to view the model data that is most relevant to predicting the median home value target variable with no overlapping features.
 >
@@ -923,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=89)** We've identified a strong correlation between total bedrooms to total rooms, population to households and households to total rooms.
 >
-> **[1:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=102)** The strategy is to create a relatively simple combination of the correlated features and drop the rest.
+> **[1:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=102)** The strategy is to create a relatively simple combination of the correlated features and drop the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-feature-engineering?u=76281980&t=110)** We'll also create a new feature combining longitude and latitude, as there is a negative correlation.
 >
@@ -965,12 +952,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), feature (6), [[Feature Engineering]] (3), next (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Performing feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980)
+#### [Demo: Performing feature engineering](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +1004,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980&t=178)** You'll notice here that there's high correlation.
 >
-> **[3:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980&t=182)** To deal with the high correlation, we'll create a relatively simple combination of the correlated features and drop the rest.
+> **[3:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980&t=182)** To deal with the high correlation, we'll create a relatively simple combination of the correlated features and drop the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-performing-feature-engineering?u=76281980&t=190)** We'll also create a feature that combines longitude and latitude as there is this negative correlation.
 >
@@ -1072,7 +1058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (7), feature (5), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** knn (5)
 > **UI Navigation:** scroll down (4)
 > **Tools:** jupyter (3)
@@ -1084,8 +1070,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding learning algorithms and model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980)
+#### [Understanding learning algorithms and model training](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,23 +1112,23 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=135)** The metric value is a key indicator of whether or not you need to tweak hyperparameters and start the training process again to improve performance.
 >
-> **[2:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=145)** You have several learning algorithms to choose from for training.
+> **[2:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=145)** You have several learning [[Algorithms]] to choose from for training.
 >
-> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=149)** Linear regression solves regression problems and is used to predict numeric values like the cost of a home.
+> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=149)** [[Linear Regression]] solves regression problems and is used to predict numeric values like the cost of a home.
 >
 > **[2:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=157)** A linear equation establishes a relationship between independent and dependent variables or features by fitting it to a regression line.
 >
-> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=167)** Logistic regression is solely used for classification problems, not regression.
+> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=167)** [[Logistic Regression]] is solely used for classification problems, not regression.
 >
 > **[2:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=173)** The name is misleading.
 >
-> **[2:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=175)** It is used to predict probability using binary values, like zero and one, true or false or yes or no based on a set of independent variables.
+> **[2:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=175)** It is used to predict [[Probability]] using binary values, like zero and one, true or false or yes or no based on a set of independent variables.
 >
 > **[3:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=188)** The output values lie between zero and one.
 >
 > **[3:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=191)** The closer to one, the better.
 >
-> **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=194)** Decision trees are used for classification and regression problems.
+> **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=194)** [[Decision Trees]] are used for classification and regression problems.
 >
 > **[3:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980&t=199)** Think of them like decision blocks in a flow chart, representing the decision making process which segregates the data based on features into a flow or decision making branch.
 >
@@ -1163,7 +1148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), [[Decision Trees]] (2), [[Linear Regression]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Decision Trees]] (2), [[Linear Regression]] (1), [[Logistic Regression]] (1), [[Probability]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** auc (1)
@@ -1171,14 +1156,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Exploring learning algorithms for classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980)
+#### [Exploring learning algorithms for classification](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=0)** - [Narrator] Let's solve a classification problem using the logistic regression learning algorithm.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=0)** - [Narrator] Let's solve a classification problem using the [[Logistic Regression]] learning algorithm.
 >
-> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=6)** If you recall, logistic regression is used for classification problems to predict probability using binary values, like zero or one, true or false, or yes or no, based on a set of independent variables.
+> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=6)** If you recall, logistic regression is used for classification problems to predict [[Probability]] using binary values, like zero or one, true or false, or yes or no, based on a set of independent variables.
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=21)** The output values lie between zero and one.
 >
@@ -1196,7 +1180,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=80)** The encoded gender, age, date, and ethnicity fields and coordinates.
 >
-> **[1:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=91)** To solve the public safety problem, we'll author our Python code in a Jupyter Notebook using Amazon SageMaker's XGBoost implementation for training.
+> **[1:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=91)** To solve the public safety problem, we'll author our [[Python (Programming Language)|Python]] code in a Jupyter Notebook using Amazon SageMaker's XGBoost implementation for training.
 >
 > **[1:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=102)** XGBoost stands for eXtreme Gradient Boosting and is a decision-tree-based, machine-learning algorithm.
 >
@@ -1244,11 +1228,11 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=255)** This means there is a 71% chance this stop will lead to an arrest.
 >
-> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=261)** Now that we've covered classification algorithms, let's learn more about regression algorithms.
+> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-learning-algorithms-for-classification?u=76281980&t=261)** Now that we've covered classification [[Algorithms]], let's learn more about regression algorithms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (2), [[Probability]] (2), [[Search]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Probability]] (2), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is called (2), stands for (1)
 > **Env Vars:** knn (1), aws (1), url (1), api (1)
 > **CLI Commands:** python (1), aws (1), docker (1)
@@ -1257,8 +1241,7 @@ created: 2026-05-02
 > **Code Identifiers:** extreme (1)
 > **Versions:** 0.71 (1)
 
-#### Reviewing learning algorithms for regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980)
+#### [Reviewing learning algorithms for regression](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=2)** If you recall, regression problems are used to predict numeric values like the cost of a home.
 >
-> **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=9)** We'll solve a regression problem using three common regression algorithms, linear regression, RandomForestRegressor, and XGBoost.
+> **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=9)** We'll solve a regression problem using three common regression [[Algorithms]], [[Linear Regression]], RandomForestRegressor, and XGBoost.
 >
 > **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=20)** If you're a homeowner, have you wondered what your home will sell for in the current market?
 >
@@ -1312,7 +1295,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=179)** We want this number to be closer to one or the model will perform badly on unseen data.
 >
-> **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=187)** Next we'll use the RandomForestRegressor learning algorithm, which is an ensemble of decision trees.
+> **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=187)** Next we'll use the RandomForestRegressor learning algorithm, which is an ensemble of [[Decision Trees]].
 >
 > **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/reviewing-learning-algorithms-for-regression?u=76281980&t=194)** The first step is to import the necessary libraries and then initialize the learning algorithm and store it in rf_model.
 >
@@ -1346,19 +1329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Linear Regression]] (5), next (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Linear Regression]] (5), [[Decision Trees]] (1)
 > **Code Identifiers:** reg_model (1), rf_model (1), xgb_model (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** xgb (1)
 > **Versions:** 0.56 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining additional learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980)
+#### [Examining additional learning algorithms](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=0)** - [Instructor] You've learned how to solve classification and regression problems with supervised learning using real world examples.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=0)** - [Instructor] You've learned how to solve classification and regression problems with [[Supervised Learning]] using real world examples.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=9)** Machines also learn using another machine learning technique called unsupervised learning.
 >
@@ -1400,9 +1382,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=154)** Once the groups are identified, marketing is tailored to a specific group.
 >
-> **[2:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=159)** This marketing strategy helps to gain loyal customers and a competitive advantage.
+> **[2:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=159)** This [[Marketing Strategy]] helps to gain loyal customers and a competitive advantage.
 >
-> **[2:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=166)** Text classification is another common, unsupervised learning technique that falls under the NLP, or Natural Language Processing, domain.
+> **[2:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=166)** Text classification is another common, unsupervised learning technique that falls under the NLP, or [[Natural Language Processing (NLP)|Natural Language Processing]], domain.
 >
 > **[2:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=178)** Text classification is used to categorize, organize, or structure many kinds of text, from complex documents to simple sentences.
 >
@@ -1416,7 +1398,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=220)** Word2Vec is a common learning algorithm used for text classification.
 >
-> **[3:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=225)** It creates word embeddings, which are vectorized representations of text.
+> **[3:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=225)** It creates [[Microsoft Word|word]] embeddings, which are vectorized representations of text.
 >
 > **[3:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=231)** Simply put, a single word is transformed into a numerical representation of that word, also called a vector.
 >
@@ -1424,27 +1406,26 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=243)** There are several popular implementations of Word2Vec, such as Amazon's Blazing Text algorithm, which is a highly optimized version.
 >
-> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=254)** There are many learning algorithms designed to solve different types of problems.
+> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=254)** There are many learning [[Algorithms]] designed to solve different types of problems.
 >
 > **[4:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/examining-additional-learning-algorithms?u=76281980&t=259)** Now, let's use one to train a custom machine learning model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (3), [[Supervised Learning]] (2), [[Marketing Strategy]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Supervised Learning]] (2), [[Marketing Strategy]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** knn (1), nlp (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training a custom machine learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980)
+#### [Training a custom machine learning model](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=0)** - [Speaker] You've seen multiple examples of training a machine learning model.
 >
-> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=4)** Libraries like Scikit-learn do the heavy lifting for you allowing you to spend your time on data preparation.
+> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=4)** Libraries like Scikit-learn do the heavy lifting for you allowing you to spend your time on [[Data Preparation]].
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=11)** To predict the cost of homes.
 >
@@ -1458,7 +1439,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=44)** Since we didn't set the hyper parameters, default values were automatically used.
 >
-> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=50)** Learning algorithms have default settings that generally work from most scenarios.
+> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=50)** Learning [[Algorithms]] have default settings that generally work from most scenarios.
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=55)** When you train a model using its default parameters, your results will on average be fair but the real game changer is going through a process called hyper parameter tuning.
 >
@@ -1472,7 +1453,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=94)** XGBoost is a tunable algorithm.
 >
-> **[1:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=98)** Unlike linear regression with several hyper parameters.
+> **[1:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=98)** Unlike [[Linear Regression]] with several hyper parameters.
 >
 > **[1:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/training-a-custom-machine-learning-model?u=76281980&t=104)** To see the hyper parameters available for your learning algorithm, use the get_params function.
 >
@@ -1542,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (4), [[Algorithms]] (2), game (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Preparation]] (1), [[Linear Regression]] (1)
 > **Versions:** 0.3 (2), 0.1 (1), 0.01 (1), 0.77 (1), 0.78 (1)
 > **Code Identifiers:** get_params (1), n_estimators (1)
 > **Definitions:** is a  (2)
@@ -1551,12 +1532,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [speaker] (1)
 
-#### Demo: Training a custom machine learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980)
+#### [Demo: Training a custom machine learning model](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=0)** - [Instructor] We've looked at training a machine learning model using Python code and Python-based data science libraries.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=0)** - [Instructor] We've looked at training a machine learning model using [[Python (Programming Language)|Python]] code and Python-based [[Data Science]] libraries.
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=7)** But did you know there are low-code and no-code options to train a machine learning model using Amazon SageMaker?
 >
@@ -1568,9 +1548,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=35)** The list goes on.
 >
-> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=37)** Image classification and machine learning falls under the computer vision umbrella, which allows machines to identify items, people, places, and things in an image or video.
+> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=37)** Image classification and machine learning falls under the [[Computer Vision]] umbrella, which allows machines to identify items, people, places, and things in an image or video.
 >
-> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=50)** More specifically, image classification is a supervised learning problem where labeled images are used to train a model to recognize those labels.
+> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=50)** More specifically, image classification is a [[Supervised Learning]] problem where labeled images are used to train a model to recognize those labels.
 >
 > **[1:01](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=61)** Our data contains images of five types of flowers, daisies, dandelions, roses, sunflowers, and tulips.
 >
@@ -1580,9 +1560,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=86)** It takes an image as input and outputs one or more labels assigned to that image.
 >
-> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=92)** Under the hood, it's a convolutional neural network, CNN, which is a network architecture for deep learning that learns directly from structured arrays of data like images.
+> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=92)** Under the hood, it's a convolutional neural network, CNN, which is a network architecture for [[Deep Learning]] that learns directly from structured arrays of data like images.
 >
-> **[1:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=105)** I encourage you to learn more about deep learning, which is the next step in your learning journey by coming up to speed on neural networks.
+> **[1:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=105)** I encourage you to learn more about deep learning, which is the next step in your learning journey by coming up to speed on [[Neural Networks]].
 >
 > **[1:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=114)** The algorithm needs to know the image labels since we're using supervised learning.
 >
@@ -1594,7 +1574,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=135)** There's also a tool that you can use to generate the files for you.
 >
-> **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=139)** I've included my LST files in the GitHub repo for your reference.
+> **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=139)** I've included my LST files in the [[GitHub]] repo for your reference.
 >
 > **[2:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=144)** LST file is a tab-separated file with three columns that contain the list of images.
 >
@@ -1648,7 +1628,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=291)** This is useful because you leverage previous learnings and avoid starting from scratch.
 >
-> **[4:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=297)** Transfer learning is like inheritance in the Java programming language.
+> **[4:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=297)** Transfer learning is like inheritance in the [[Java]] programming language.
 >
 > **[5:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-training-a-custom-machine-learning-model?u=76281980&t=302)** You gain preexisting functionality for reusability and efficiency.
 >
@@ -1706,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (3), [[Python (Programming Language)|Python]] (2), aws (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Python (Programming Language)|Python]] (2), [[Deep Learning]] (2), [[Data Science]] (1), [[Computer Vision]] (1)
 > **Env Vars:** lst (9), aws (2), rgb (1), cnn (1), iam (1)
 > **CLI Commands:** python (2), aws (2), find (2), make (2)
 > **UI Navigation:** scroll down (5), click on (1), select the (1), go to (1)
@@ -1720,8 +1700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring common classification metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-classification-metrics?u=76281980)
+#### [Exploring common classification metrics](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-classification-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,15 +1784,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** auc (3), roc (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 
-#### Understanding the confusion matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980)
+#### [Understanding the confusion matrix](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1818,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980&t=89)** These values help you determine metrics we've discussed before, like accuracy, precision, recall, and F1 score.
 >
-> **[1:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980&t=99)** Let's review the Python code to produce a confusion matrix for our public safety crime prediction model.
+> **[1:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980&t=99)** Let's review the [[Python (Programming Language)|Python]] code to produce a confusion matrix for our public safety crime prediction model.
 >
 > **[1:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-the-confusion-matrix?u=76281980&t=107)** Here is the confusion matrix.
 >
@@ -1882,8 +1859,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring common regression metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-regression-metrics?u=76281980)
+#### [Exploring common regression metrics](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-regression-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,7 +1951,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), feature (1)
 > **Env Vars:** mse (3), rmse (1), mae (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Code Identifiers:** y_xgb_pred_test (1)
@@ -1983,8 +1958,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining feature importance
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980)
+#### [Determining feature importance](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,7 +1990,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980&t=85)** I bet you're thinking that all sounds great, but how do I determine which features are the most important for training my model?
 >
-> **[1:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980&t=94)** Some algorithms have feature importance methods inherently built within the model.
+> **[1:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980&t=94)** Some [[Algorithms]] have feature importance methods inherently built within the model.
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/determining-feature-importance?u=76281980&t=100)** Tree-based models produced from Scikit-learn decision tree, random forest, and gradient boosting algorithms have feature importance embedded directly into them.
 >
@@ -2062,13 +2036,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), [[Algorithms]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combating bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980)
+#### [Combating bias](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,7 +2083,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980&t=144)** Bias can also show up in your selected algorithm.
 >
-> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980&t=147)** We experimented with various algorithms to select the one that performed the best.
+> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980&t=147)** We experimented with various [[Algorithms]] to select the one that performed the best.
 >
 > **[2:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/combating-bias?u=76281980&t=153)** We saw that XGBoost out-of-the-box outperformed other regression algorithms.
 >
@@ -2138,7 +2111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), business (1), power (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1), for example (1)
 > **UI Navigation:** select the (1)
@@ -2150,8 +2123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring a machine learning pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980)
+#### [Structuring a machine learning pipeline](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,7 +2133,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=14)** And the answer you're looking for is called a pipeline.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=18)** The data collection and preparation phase of machine learning consists of many steps, imputing missing data, handling outliers, understanding correlations, feature engineering, encoding, algorithm experimentation, and more.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=18)** The [[Data Collection]] and preparation phase of machine learning consists of many steps, imputing missing data, handling outliers, understanding correlations, [[Feature Engineering]], encoding, algorithm experimentation, and more.
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=36)** When training a model to predict the cost of homes, we did each step individually, and sometimes even repeated steps when experimenting with a different learning algorithm on the same dataset.
 >
@@ -2171,13 +2143,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=56)** Pipelines allow you to assemble all the steps of your machine learning workflow together.
 >
-> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=62)** This assembly helps to streamline the workflow by grouping and automating our data preparation, training, evaluation, tuning, and deployment steps.
+> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=62)** This assembly helps to streamline the workflow by grouping and automating our [[Data Preparation]], training, evaluation, tuning, and deployment steps.
 >
 > **[1:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=74)** There are many benefits to incorporating pipelines into your process.
 >
 > **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=79)** First, pipelines allow you to encapsulate your code for easy reuse.
 >
-> **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=85)** During the process of training a model to predict the cost of homes, we experimented with multiple learning algorithms, Linear Regression, RandomForestRegressor, and XGBoost to identify which one would perform better on our data set.
+> **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=85)** During the process of training a model to predict the cost of homes, we experimented with multiple learning [[Algorithms]], [[Linear Regression]], RandomForestRegressor, and XGBoost to identify which one would perform better on our data set.
 >
 > **[1:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980&t=102)** We called the fit function multiple times and executed each code block independently.
 >
@@ -2233,14 +2205,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), parallel (3), [[Linear Regression]] (2), [[Feature Engineering]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Linear Regression]] (2), [[Data Collection]] (1), [[Feature Engineering]] (1), [[Algorithms]] (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Demo: Designing and building a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980)
+#### [Demo: Designing and building a pipeline](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,11 +2225,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=22)** Then we go through the preparation process where we understand missing data, we impute that missing data, we use visualizations to understand the relationships, we use histograms, we also use heat maps to understand the correlation.
 >
-> **[0:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=44)** Then we did a bit of feature engineering to remove the highly correlated fields, then we encoded our categorical data, and then we trained the model.
+> **[0:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=44)** Then we did a bit of [[Feature Engineering]] to remove the highly correlated fields, then we encoded our categorical data, and then we trained the model.
 >
-> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=58)** And the most important piece that I want you to understand here, when we trained our model, we used three different learning algorithms.
+> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=58)** And the most important piece that I want you to understand here, when we trained our model, we used three different learning [[Algorithms]].
 >
-> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=68)** We had a section for linear regression, We trained the model, we ran the predictions, we evaluated the model, and then we had a section for using the Random Forest Regressor learning algorithm, and then we had a section further down for XG Boost.
+> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=68)** We had a section for [[Linear Regression]], We trained the model, we ran the predictions, we evaluated the model, and then we had a section for using the Random Forest Regressor learning algorithm, and then we had a section further down for XG Boost.
 >
 > **[1:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/demo-designing-and-building-a-pipeline?u=76281980&t=89)** For now, the code to pre-process your data, like imputing missing values, detecting outliers, using histograms, understanding correlations through heat maps, feature engineering and categorical encoding stays pretty much the same.
 >
@@ -2314,7 +2285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (5), [[Linear Regression]] (3), next (3), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Linear Regression]] (3), [[Feature Engineering]] (2)
 > **CLI Commands:** find (1)
 > **Versions:** 0.56 (1)
 > **UI Navigation:** navigate to (1)
@@ -2325,8 +2296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your machine learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980)
+#### [Your machine learning journey](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2342,7 +2312,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=34)** We started by understanding the foundations of machine learning and then learned how to frame machine learning problems.
 >
-> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=42)** Next, we explored the tools used to implement a machine learning system and data preparation steps.
+> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=42)** Next, we explored the tools used to implement a machine learning system and [[Data Preparation]] steps.
 >
 > **[0:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=49)** You learned that most of your time in the machine learning lifecycle is spent cleaning and processing raw data to put it in a format a machine can learn from.
 >
@@ -2358,7 +2328,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=97)** I've enjoyed our time together.
 >
-> **[1:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=99)** Please follow me on LinkedIn so that we can stay connected.
+> **[1:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=99)** Please follow me on [[LinkedIn]] so that we can stay connected.
 >
 > **[1:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980&t=103)** I enjoy speaking on the topic of AI and machine learning, so please consider me for your upcoming conference or event.
 >
@@ -2368,16 +2338,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), ai (2), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[LinkedIn]] (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - congratulations (1)
 
-#### Bridge to generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980)
+#### [Bridge to generative AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=0)** - [Instructor] Generative AI may seem like something completely new, but it's built on the same foundation as traditional machine learning.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] may seem like something completely new, but it's built on the same foundation as traditional machine learning.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=9)** The core principles, learning patterns from data, making predictions, and improving over time are the same ones you've been learning throughout this course.
 >
@@ -2393,7 +2362,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=50)** The biggest differences are the size of the models, the amount of data they use, and the complexity of what they produce.
 >
-> **[0:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=59)** Large language models like GPT, Claude, or Gemini are trained on massive data sets and use architectures such as transformers to understand and generate language.
+> **[0:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=59)** [[Large Language Models (LLM)|Large language models]] like GPT, Claude, or [[Gemini]] are trained on massive data sets and use architectures such as transformers to understand and generate language.
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=72)** But beneath all that complexity, they follow the same cycle you've already seen: collect data, train a model, evaluate results, and refine.
 >
@@ -2403,7 +2372,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=97)** The foundation provides the structure, reliability, and understanding needed to build more advanced models.
 >
-> **[1:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=106)** Without that base knowledge, data preparation, feature engineering, and model evaluation, generative AI wouldn't be possible.
+> **[1:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=106)** Without that base knowledge, [[Data Preparation]], [[Feature Engineering]], and model evaluation, generative AI wouldn't be possible.
 >
 > **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/bridge-to-generative-ai?u=76281980&t=115)** So as you explore the world of generative AI, remember that everything you've learned here still applies.
 >
@@ -2417,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), next (2), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1), [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** next chapter (1)

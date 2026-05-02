@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AI is transforming cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
+#### [How AI is transforming cybersecurity](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=0)** - Why should we even care about AI in cybersecurity?
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=0)** - Why should we even care about AI in [[Cybersecurity]]?
 >
 > **[0:03](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=3)** One of AI's greatest strengths is recognizing patterns.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=17)** It was able to identify a more refined pattern On seconds.
 >
-> **[0:21](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=21)** Since ChatGPT went viral, a wave of AI-powered tools have emerged, designed to be user friendly, even for those without a coding background.
+> **[0:21](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=21)** Since [[ChatGPT]] went viral, a wave of AI-powered tools have emerged, designed to be user friendly, even for those without a coding background.
 >
 > **[0:30](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=30)** But with all this talk about AI as the cybersecurity superhero, it raises an important question.
 >
@@ -106,11 +105,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=68)** I help organizations and security professionals like you detect and respond to threats, reducing risks and preventing costly breaches.
 >
-> **[1:16](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=76)** Join me in this course to learn how to lead the next generation of cybersecurity professionals, ones who leverage AI as a powerful copilot.
+> **[1:16](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980&t=76)** Join me in this course to learn how to lead the next generation of cybersecurity professionals, ones who leverage AI as a powerful [[Microsoft Copilot|copilot]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Cybersecurity]] (4), data (2), strengths (1), traffic (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - why (1)
 
@@ -119,18 +118,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt engineering and productivity tips for cybersecurity analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
+#### [Prompt engineering and productivity tips for cybersecurity analysts](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=0)** - [Instructor] Prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=0)** - [Instructor] [[Prompt Engineering]].
 >
 > **[0:01](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=1)** Doesn't it sound intimidating?
 >
 > **[0:04](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=4)** I'm excited to demystify prompt engineering in this video, so let's jump right in.
 >
-> **[0:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=9)** By the end, you'll be crafting prompts that make large language models or LLMs work for you, and that's not always easy.
+> **[0:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=9)** By the end, you'll be crafting prompts that make [[Large Language Models (LLM)|large language models]] or LLMs work for you, and that's not always easy.
 >
 > **[0:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=17)** What is prompt engineering?
 >
@@ -142,13 +140,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=38)** Before we dive into the details of prompt engineering, it's important to understand how LLMs work at a high level.
 >
-> **[0:44](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=44)** LLMs excel at understanding token relationships, a token being a word or character, and predicting the next token in a sequence.
+> **[0:44](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=44)** LLMs [[Microsoft Excel|excel]] at understanding token relationships, a token being a [[Microsoft Word|word]] or character, and predicting the next token in a sequence.
 >
 > **[0:51](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=51)** Because these models are trained on vast amounts of text, documents, and web pages, they essentially become advanced word completers.
 >
-> **[0:59](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=59)** For example, if you prompt a pre-train model with a simple phrase like prompt engineering, it might generate a list of questions or phrases similar to what you'd see in a Google Search Autocomplete.
+> **[0:59](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=59)** For example, if you prompt a pre-train model with a simple phrase like prompt engineering, it might generate a list of questions or phrases similar to what you'd see in a [[Google]] Search Autocomplete.
 >
-> **[1:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=69)** When I typed prompt engineering into Google, I get suggestions like prompt engineering jobs, prompt engineering courses, and prompt engineering for ChatGPT.
+> **[1:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=69)** When I typed prompt engineering into Google, I get suggestions like prompt engineering jobs, prompt engineering courses, and prompt engineering for [[ChatGPT]].
 >
 > **[1:18](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980&t=78)** Prompting a pre-trained LLM would have a similar result.
 >
@@ -198,19 +196,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (13), ai (7), prompt (6), data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (13), [[Microsoft Word|Word]] (2), [[Google]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Env Vars:** llm (1), rtf (1), ctf (1)
 > **Definitions:** stands for (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced prompt engineering and productivity tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980)
+#### [Advanced prompt engineering and productivity tips](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=0)** - [Instructor] Now if you want to take prompt engineering to the next level, understanding LLM parameters and hyper parameters will help you fine tune and master your prompts.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=0)** - [Instructor] Now if you want to take [[Prompt Engineering]] to the next level, understanding LLM parameters and hyper parameters will help you fine tune and master your prompts.
 >
 > **[0:08](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=8)** Here's some key parameters that influence AI responses.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=91)** Now let's look at Top-K and Top-P.
 >
-> **[1:34](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=94)** Another set of important hyper parameters are Top-K and Top-P, which helps shape the AI's word selection process.
+> **[1:34](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=94)** Another set of important hyper parameters are Top-K and Top-P, which helps shape the AI's [[Microsoft Word|word]] selection process.
 >
 > **[1:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=100)** Imagine you're playing a word guessing game and the AI is trying to complete your sentence.
 >
@@ -308,15 +305,15 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=214)** Keep in mind, not every AI tool gives you access to hyper parameters.
 >
-> **[3:38](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=218)** For example, Google AI Studio and LM Studio allow you to tweak these hyper parameters.
+> **[3:38](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=218)** For example, [[Google]] AI Studio and LM Studio allow you to tweak these hyper parameters.
 >
-> **[3:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=223)** However, ChatGPT's web interface does not.
+> **[3:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=223)** However, [[ChatGPT]]'s web interface does not.
 >
 > **[3:47](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/advanced-prompt-engineering-and-productivity-tips?u=76281980&t=227)** To leverage hyper parameters with ChatGPT, you need to use the OpenAI's API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), prompt (4), [[Microsoft Word|Word]] (4), data (3), [[Prompt Engineering]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Prompt Engineering]] (2), [[ChatGPT]] (2), [[Google]] (1)
 > **Analogies:** for example (4), imagine (1), think of it as (1)
 > **Env Vars:** llm (2), api (1)
 > **Versions:** 0.2 (1), 0.8 (1), 0.9 (1)
@@ -325,26 +322,25 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI ethically and securely in cybersecurity, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980)
+#### [Using AI ethically and securely in cybersecurity, part 1](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=0)** - [Instructor] How do we ensure that AI-powered cybersecurity systems aren't making existing biases worse?
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=0)** - [Instructor] How do we ensure that AI-powered [[Cybersecurity]] systems aren't making existing biases worse?
 >
 > **[0:06](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=6)** It's a complex issue, one that the cybersecurity community is actively grappling with right now.
 >
-> **[0:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=11)** The challenge is that AI algorithms are often trained on historical data, which may already contain biases.
+> **[0:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=11)** The challenge is that AI [[Algorithms]] are often trained on historical data, which may already contain biases.
 >
 > **[0:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=17)** If these biases go unchecked, AI can reinforce and amplify them in a way that negatively impacts cybersecurity decisions.
 >
-> **[0:25](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=25)** Let's say an AI security system is trained on historical cyber attack data.
+> **[0:25](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=25)** Let's say an [[AI Security]] system is trained on historical cyber attack data.
 >
 > **[0:29](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=29)** If that data shows that a higher percentage of attacks originated from a particular country, the AI may start flagging any activity from that country as suspicious, even if it's perfectly legitimate.
 >
 > **[0:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=40)** This could lead to incorrect profiling based on location, increased false positives causing unnecessary security alerts, and discrimination in threat detection, where some users are treated differently.
 >
-> **[0:51](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=51)** It's a real risk, and it highlights the need for transparency and accountability in AI development.
+> **[0:51](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=51)** It's a real risk, and it highlights the need for transparency and [[Accountability]] in AI development.
 >
 > **[0:57](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=57)** We must understand how AI systems make decisions, and ensure we have ways to challenge and correct those decisions if they're based on biased data.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=102)** But if AI makes decisions that humans can't follow or could cause harm, it becomes difficult to trust its effectiveness, identify potential errors, and fix vulnerabilities in the system.
 >
-> **[1:54](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=114)** A humorous yet serious example of how AI can generate a dangerous response is when Google's AI suggested adding Elmer's glue to cheese.
+> **[1:54](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=114)** A humorous yet serious example of how AI can generate a dangerous response is when [[Google]]'s AI suggested adding Elmer's glue to cheese.
 >
 > **[2:03](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-i?u=76281980&t=123)** It's believed that the AI misinterpreted a joke or comment on Reddit where users sarcastically suggested glue to keep cheese from sliding off pizza.
 >
@@ -378,14 +374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (7), [[Cybersecurity]] (6), [[Security]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Algorithms]] (1), [[AI Security]] (1), [[Accountability]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI ethically and securely in cybersecurity, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980)
+#### [Using AI ethically and securely in cybersecurity, part 2](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,9 +390,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=22)** Then on January 27th, the US stock market took a massive hit.
 >
-> **[0:27](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=27)** Fears that Deepseek and other Chinese AI companies could produce products faster and for less money triggered a $969 billion loss in value of US Tech stocks.
+> **[0:27](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=27)** Fears that Deepseek and other Chinese AI companies could produce [[Microsoft Products|products]] faster and for less money triggered a $969 billion loss in value of US Tech stocks.
 >
-> **[0:37](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=37)** By January 28th, the Deepseek mobile app had surged to the number one spot in both the Google Play and Apple App Store.
+> **[0:37](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=37)** By January 28th, the Deepseek mobile app had surged to the number one spot in both the [[Google]] Play and Apple App Store.
 >
 > **[0:44](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=44)** On January 29th, OpenAI raised concerns, alleging that Deepseek may have inappropriately leveraged OpenAI's data to build its model.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=67)** Deepseek proved that AI's theoretical risks can quickly become reality.
 >
-> **[1:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=71)** AI's rapid evolution can blindside security teams unless they stay agile, informed, and ready to act.
+> **[1:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=71)** AI's rapid evolution can blindside security teams unless they stay [[Agile Development|agile]], informed, and ready to act.
 >
 > **[1:19](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=79)** User input into AI tools could expose intellectual property and trade secrets to third parties.
 >
@@ -423,13 +418,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=122)** Worse, there's no easy way to opt out.
 >
-> **[2:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=125)** This actually happened when Zoom introduced AI features, catching many organizations off guard.
+> **[2:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=125)** This actually happened when [[Zoom]] introduced AI features, catching many organizations off guard.
 >
 > **[2:10](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=130)** And it's not stopping there.
 >
 > **[2:12](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=132)** More software vendors are jumping on the AI bandwagon.
 >
-> **[2:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=135)** So as a cybersecurity analyst, your job is to protect organizations from AI tools that could unintentionally expose sensitive data and ensure AI is used securely to enhance, not endanger your work.
+> **[2:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=135)** So as a [[Cybersecurity]] analyst, your job is to protect organizations from AI tools that could unintentionally expose sensitive data and ensure AI is used securely to enhance, not endanger your work.
 >
 > **[2:27](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/using-ai-ethically-and-securely-in-cybersecurity-part-ii?u=76281980&t=147)** Take a minute to pause the video and write down some ways you can help minimize AI risks within your organization.
 >
@@ -449,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (6), [[Security]] (5), hit (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1), [[Agile Development|Agile]] (1), [[Zoom]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** gpt (2), api (1)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** getting started (1), set up (1)
@@ -457,12 +452,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Running AI offline and locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980)
+#### [Running AI offline and locally](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=0)** - [Instructor] By now, I hope I've convinced you that AI can be a powerful copilot for cybersecurity analysts, but maybe you're concerned about data privacy, or perhaps your company's generative AI policy restricts tools like ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=0)** - [Instructor] By now, I hope I've convinced you that AI can be a powerful [[Microsoft Copilot|copilot]] for [[Cybersecurity]] analysts, but maybe you're concerned about [[Data Privacy]], or perhaps your company's [[Generative AI]] policy restricts tools like [[ChatGPT]].
 >
 > **[0:13](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=13)** If that's the case, running AI locally might be the answer.
 >
@@ -476,17 +470,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=38)** When you use tools like ChatGPT, you're interacting with cloud-based AI models over the internet.
 >
-> **[0:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=43)** While convenient, this raises concerns about privacy and security, but there's good news.
+> **[0:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=43)** While convenient, this raises concerns about [[Privacy]] and security, but there's good news.
 >
 > **[0:49](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=49)** You don't have to rely on online or paid AI tools as a cybersecurity analyst.
 >
 > **[0:54](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=54)** It's surprisingly easy to download a pre-trained LLM onto your laptop, a private server, or even a secure cloud instance.
 >
-> **[1:01](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=61)** Platforms like Hugging Face host thousands of open-source AI models that you can explore.
+> **[1:01](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=61)** Platforms like [[Hugging Face]] host thousands of open-source AI models that you can explore.
 >
 > **[1:07](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=67)** Open source LLMs are on the rise, and for good reason.
 >
-> **[1:10](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=70)** Take Llama 2 and Mistral for example.
+> **[1:10](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=70)** Take [[LLaMA]] 2 and Mistral for example.
 >
 > **[1:12](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=72)** These models are fast, multilingual, and design for high performance.
 >
@@ -502,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=99)** Once you've picked a model, you'll need to decide on the size, which refers to the number of parameters.
 >
-> **[1:45](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=105)** Generally, more parameters means better performance, but there's a catch hardware limitations.
+> **[1:45](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=105)** Generally, more parameters means better performance, but there's a catch [[Hardware]] limitations.
 >
 > **[1:50](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=110)** Pro tip, share your hardware specs with ChatGPT and ask which size model will run smoothly on your setup.
 >
@@ -524,15 +518,15 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=158)** Take a moment to pause the video and explore tools for running AI models locally.
 >
-> **[2:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=163)** Some of my favorites are Ollama and LM Studio.
+> **[2:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=163)** Some of my favorites are [[Ollama]] and LM Studio.
 >
 > **[2:47](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=167)** (bright music) By running AI locally, choosing the right model and leveraging RAG, you can unlock the power of AI capabilities all while keeping your data private.
 >
-> **[3:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=180)** Give it a try and let me know on LinkedIn what you discover.
+> **[3:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/running-ai-offline-and-locally?u=76281980&t=180)** Give it a try and let me know on [[LinkedIn]] what you discover.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (6), [[Cybersecurity]] (5), [[ChatGPT]] (3), rag (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[ChatGPT]] (3), [[Hardware]] (2), [[Microsoft Copilot|Copilot]] (1), [[Data Privacy]] (1)
 > **Env Vars:** rag (3), llm (1)
 > **Analogies:** for example (1), think of it as (1), just like (1)
 > **Prerequisites:** you'll need (1), setup (1)
@@ -541,12 +535,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Threat actors use of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980)
+#### [Threat actors use of AI](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=0)** - [Instructor] We've focused on using AI for good in cybersecurity, but what are the threat actors up to?
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=0)** - [Instructor] We've focused on using AI for good in [[Cybersecurity]], but what are the threat actors up to?
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=5)** They aren't just sitting back and letting us take the lead with AI.
 >
@@ -554,9 +547,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=15)** They're using AI against us.
 >
-> **[0:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=17)** For example, one of the biggest threats in cybersecurity is phishing, which accounted for 15% of all data breaches According to the Verizon's 2024 Data Breach and Investigation Report.
+> **[0:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=17)** For example, one of the biggest threats in cybersecurity is [[Phishing]], which accounted for 15% of all data breaches According to the Verizon's 2024 Data Breach and Investigation Report.
 >
-> **[0:28](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=28)** With AI tools like ChatGPT, attackers can now create incredibly convincing phishing emails that are personalized and almost impossible to distinguish from real messages.
+> **[0:28](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=28)** With AI tools like [[ChatGPT]], attackers can now create incredibly convincing phishing emails that are personalized and almost impossible to distinguish from real messages.
 >
 > **[0:37](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=37)** Creating a phishing campaign which used to be pretty time consuming for attackers, is now becoming much easier and more effective thanks to AI.
 >
@@ -568,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=68)** Another example of how threat actors are using AI is to generate malware.
 >
-> **[1:12](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=72)** Tools like GitHub Copilot, designed to assist developers can be exploited by attackers to create sophisticated malware, even without software development knowledge.
+> **[1:12](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=72)** Tools like [[GitHub Copilot]], designed to assist developers can be exploited by attackers to create sophisticated malware, even without [[Software Development]] knowledge.
 >
 > **[1:21](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-actors-use-of-ai?u=76281980&t=81)** So is AI ultimately going to make the cybersecurity landscape better or worse in the long run?
 >
@@ -590,14 +583,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Cybersecurity]] (4), [[Phishing]] (3), data (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Phishing]] (3), [[ChatGPT]] (1), [[GitHub Copilot]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1), kind of like (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Threat detection with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980)
+#### [Threat detection with AI](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=35)** A recent article found that AI-based threat detection systems achieved an average detection accuracy of 92.5% across various cyber threats, with a false positive rate of just 3.2%.
 >
-> **[0:47](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=47)** Machine learning algorithms also cut response times to cyberattacks by 40%, and AI-driven phishing prevention systems reached an impressive 95% effectiveness rate.
+> **[0:47](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=47)** Machine learning [[Algorithms]] also cut response times to cyberattacks by 40%, and AI-driven [[Phishing]] prevention systems reached an impressive 95% effectiveness rate.
 >
 > **[0:58](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=58)** But some people worry about relying too much on AI.
 >
@@ -643,13 +635,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=99)** AI establishes a baseline and flags anything that deviates from it.
 >
-> **[1:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=103)** This shifts cybersecurity from reactive to proactive.
+> **[1:43](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=103)** This shifts [[Cybersecurity]] from reactive to proactive.
 >
 > **[1:47](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=107)** Instead of responding to attacks after they happen, AI helps prevent them from occurring in the first place, and that's a game changer.
 >
-> **[1:55](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=115)** Even in high-stakes situations where fully-automated AI detection isn't an option, AI can still act as a threat detection copilot, providing valuable insights that speed up investigations.
+> **[1:55](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=115)** Even in high-stakes situations where fully-automated AI detection isn't an option, AI can still act as a threat detection [[Microsoft Copilot|copilot]], providing valuable insights that speed up investigations.
 >
-> **[2:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=125)** Years ago, before generative AI was widely accessible, I spent over three hours analyzing a complex and highly obfuscated PowerShell command from a client's logs.
+> **[2:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=125)** Years ago, before [[Generative AI]] was widely accessible, I spent over three hours analyzing a complex and highly obfuscated [[Powershell]] command from a client's logs.
 >
 > **[2:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/threat-detection-with-ai?u=76281980&t=135)** The attacker had used aliases, concatenation, whitespace, variable substitution, padding, and other evasion techniques to make analysis difficult.
 >
@@ -663,19 +655,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (2), [[Cybersecurity]] (2), [[Powershell]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Powershell]] (2), [[Algorithms]] (1), [[Phishing]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** it's like (1), think of it as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Versions:** 92.5 (1), 3.2 (1)
 > **Tools:** powershell (2)
 > **Speakers:** - [instructor] (1)
 
-#### Improve security reporting using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980)
+#### [Improve security reporting using AI](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=0)** - [Instructor] As a cybersecurity analyst, you're expected to create a variety of documents to support the organization.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=0)** - [Instructor] As a [[Cybersecurity]] analyst, you're expected to create a variety of documents to support the organization.
 >
 > **[0:06](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=6)** But let's be honest, writing reports isn't always the most exciting part of the job.
 >
@@ -685,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=13)** Let's look at some ways AI can make cybersecurity documentation easier and more effective.
 >
-> **[0:18](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=18)** It can be especially helpful when it comes to incident response and post-incident review documentation.
+> **[0:18](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=18)** It can be especially helpful when it comes to [[Incident Response]] and post-incident review documentation.
 >
 > **[0:24](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=24)** I've seen brilliant analysts dig through logs, find evidence and document technical details, but where many struggle is translating those findings into something business leaders can understand and act on.
 >
@@ -713,7 +704,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=89)** As a former virtual CISO, I spent hours customizing security policies.
 >
-> **[1:33](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=93)** Now, with AI and some smart prompt engineering, I can get to the final version much faster.
+> **[1:33](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=93)** Now, with AI and some smart [[Prompt Engineering]], I can get to the final version much faster.
 >
 > **[1:39](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=99)** For example, I could ask an AI chatbot generate an acceptable use policy for a healthcare company in California that aligns with ISO 27001 and HIPPA.
 >
@@ -753,11 +744,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=189)** That's a lot to digest.
 >
-> **[3:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=191)** I fed this update into ChatGPT and asked it to rewrite it for executives.
+> **[3:11](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=191)** I fed this update into [[ChatGPT]] and asked it to rewrite it for executives.
 >
 > **[3:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=195)** Here's what it gave me.
 >
-> **[3:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=197)** Our team identified and mitigated a targeted phishing attack, attempting to compromise employee's credentials.
+> **[3:17](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=197)** Our team identified and mitigated a targeted [[Phishing]] attack, attempting to compromise employee's credentials.
 >
 > **[3:22](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/improve-security-reporting-using-ai?u=76281980&t=202)** No sensitive data was accessed, and we're enhancing email security and employee training to reduce risk.
 >
@@ -769,20 +760,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Cybersecurity]] (4), [[Security]] (4), business (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Incident Response]] (1), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Phishing]] (1)
 > **Env Vars:** ciso (1), iso (1), hippa (1), xyz (1), spf (1)
 > **CLI Commands:** make (1), find (1), apt (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### AI-driven threat intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980)
+#### [AI-driven threat intelligence](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=0)** - [Narrator] Threat intelligence is useless unless you use it.
 >
-> **[0:04](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=4)** Last year I set a goal, read more business books to become a better cybersecurity leader.
+> **[0:04](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=4)** Last year I set a goal, read more business books to become a better [[Cybersecurity]] leader.
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=9)** So I bought the Harvard Business Review collection, 10 books covering topics like communication strategy, emotional intelligence, and conflict resolution.
 >
@@ -832,9 +822,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=95)** Instead of manually sifting through thousands of pages of intel reports, AI helps us extract complete, accurate, relevant, and timely information instantly.
 >
-> **[1:45](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=105)** Traditionally, Cyber Threat Intelligence or CTI relies on manual methods, analyzing data from threat feeds, reports, and raw indicators, but AI changes the game.
+> **[1:45](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=105)** Traditionally, [[Cyber Threat Intelligence (CTI)|Cyber Threat Intelligence]] or CTI relies on manual methods, analyzing data from threat feeds, reports, and raw indicators, but AI changes the game.
 >
-> **[1:56](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=116)** One of my favorite ways to process large volumes of threat intel is by feeding trusted sources into Notebook LM, a research and note-taking tool from Google Labs that uses AI, specifically Google Gemini, to let you understand complex topics, ask questions and get instant insights from your sources.
+> **[1:56](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=116)** One of my favorite ways to process large volumes of threat intel is by feeding trusted sources into Notebook LM, a research and note-taking tool from [[Google]] Labs that uses AI, specifically [[Google Gemini]], to let you understand complex topics, ask questions and get instant insights from your sources.
 >
 > **[2:14](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/ai-driven-threat-intelligence?u=76281980&t=134)** Google calls Notebook LM a virtual research assistant.
 >
@@ -854,14 +844,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (3), data (2), [[Google]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cybersecurity]] (1), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1), [[Google Gemini]] (1)
 > **Definitions:** stands for (4)
 > **Env Vars:** cart (1), cti (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### LLM-driven honeypots
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980)
+#### [LLM-driven honeypots](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +858,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=5)** I'm going to show you a fascinating way AI could take honeypots to the next level.
 >
-> **[0:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=9)** This is a perfect example of how creative you can get with AI as a cybersecurity analyst.
+> **[0:09](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=9)** This is a perfect example of how creative you can get with AI as a [[Cybersecurity]] analyst.
 >
 > **[0:15](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=15)** Honeypots serve two key purposes, collecting threat intelligence and high-fidelity threat detection.
 >
@@ -879,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=35)** These breadcrumbs help security teams prioritize defenses.
 >
-> **[0:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=40)** For threat detection, honeypots are deployed inside networks or as honey tokens, little traps that trigger alerts when attackers breach the system.
+> **[0:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=40)** For threat detection, honeypots are deployed inside networks or as honey [[Tokens]], little traps that trigger alerts when attackers breach the system.
 >
 > **[0:48](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=48)** The problem with traditional honeypots is that most of them don't fool attackers for long.
 >
@@ -897,7 +886,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=90)** But how do we know AI-powered honeypots actually work?
 >
-> **[1:33](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=93)** Meet shelLM, an LLM-driven, shell-based, honeypot designed to look and feel like a real Linux system.
+> **[1:33](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=93)** Meet shelLM, an LLM-driven, shell-based, honeypot designed to look and feel like a real [[Linux]] system.
 >
 > **[1:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/llm-driven-honeypots?u=76281980&t=100)** Researchers tested it by having 12 cybersecurity experts interact with shelLM and try to detect if it was fake.
 >
@@ -915,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (3), [[Security]] (2), teams (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Linux]] (2), [[Tokens]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** shellm (3)
 > **Env Vars:** llm (1)
@@ -929,14 +918,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of cybersecurity with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)
+#### [The future of cybersecurity with AI](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=1)** - Congratulations, you've reached the end of the course, but now you might be curious about what the future holds, what's coming down the pipeline in the next five to 10 years.
 >
-> **[0:10](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=10)** The future is always tough, but there are definitely some trends that I think will have major impact on cybersecurity.
+> **[0:10](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=10)** The future is always tough, but there are definitely some trends that I think will have major impact on [[Cybersecurity]].
 >
 > **[0:16](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=16)** One thing I'm already starting to see is the rise of AI powered security operation centers.
 >
@@ -946,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=34)** By completing this course, you're ready to be part of the future as an AI-driven cybersecurity analyst.
 >
-> **[0:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=40)** Threats in AI are moving quickly, so stay ahead by connecting with me on LinkedIn.
+> **[0:40](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=40)** Threats in AI are moving quickly, so stay ahead by connecting with me on [[LinkedIn]].
 >
 > **[0:45](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980&t=45)** Check out my other courses on threat hunting and cybersecurity, and if you have any questions, check out the Q&A section below.
 >
@@ -954,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Cybersecurity]] (3), next (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - congratulations (1)
 

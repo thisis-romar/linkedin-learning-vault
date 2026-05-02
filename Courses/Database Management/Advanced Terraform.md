@@ -90,12 +90,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Advanced Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
+#### [Introduction to Advanced Terraform](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=0)** - [Dave] Where are you in your journey learning Terraform?
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=0)** - [Dave] Where are you in your journey learning [[Terraform]]?
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=3)** If you've covered the basics and you're looking to learn more advanced use cases, then this is the course for you.
 >
@@ -105,9 +104,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=21)** We'll start with a very simple configuration that represents an existing web application running in a private data center.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=27)** We'll take on the role of a DevOps engineer tasked with improving and evolving the application infrastructure.
+> **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=27)** We'll take on the role of a [[DevOps]] engineer tasked with improving and evolving the application infrastructure.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=33)** When we're finished, our humble little application will have become a fully cloud-native software as a service application, all managed with Terraform.
+> **[0:33](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=33)** When we're finished, our humble little application will have become a fully cloud-native [[SaaS|software as a service]] application, all managed with Terraform.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980&t=42)** Hi, my name is Dave Swersky.
 >
@@ -119,24 +118,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), application (5), [[DevOps]] (2), web application (1), data (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[DevOps]] (2), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** terraform (5)
 > **Speakers:** - [dave] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced course so we'll be going beyond the basics of Terraform.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced course so we'll be going beyond the basics of [[Terraform]].
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=4)** You should already be comfortable with simple Terraform configurations, the Terraform CLI, and HashiCorp Configuration Language.
+> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=4)** You should already be comfortable with simple Terraform configurations, the Terraform [[CLI]], and HashiCorp Configuration Language.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=12)** We'll cover some intermediate concepts in this course.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=14)** Then, quickly move on to more advanced techniques.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=17)** The sample configurations are on GitHub, so if you'll be following along, it will help if you have some basic knowledge of Git and GitHub.
+> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=17)** The sample configurations are on [[GitHub]], so if you'll be following along, it will help if you have some basic knowledge of [[Git]] and GitHub.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=25)** All you really need is a GitHub account and the Git Command Line Tool installed.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=47)** I'll explain as I demonstrate.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=49)** Finally, Terraform is infrastructure as code, so you'll be able to apply any programming and software development experience you may have, to Terraform.
+> **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=49)** Finally, Terraform is [[Infrastructure as code (IaC)|infrastructure as code]], so you'll be able to apply any programming and [[Software Development]] experience you may have, to Terraform.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-terraform-18720794/what-you-should-know?u=76281980&t=58)** You certainly don't need software development experience, but a basic knowledge of programming, in any language, will give you a leg up.
 >
@@ -158,19 +156,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (10), [[GitHub]] (4), [[Git]] (3), [[Software Development]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (10), [[GitHub]] (4), [[Git]] (3), [[Software Development]] (3), [[CLI]] (1)
 > **CLI Commands:** terraform (10), git (3)
 > **Tools:** github (4), command line (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** cli (1), cicd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform review and terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980)
+#### [Terraform review and terminology](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=0)** - [Instructor] Let's review a few essential Terraform concepts and terminology.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=0)** - [Instructor] Let's review a few essential [[Terraform]] concepts and terminology.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=4)** A Terraform configuration defines resources, variables, and values.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=35)** Here's an example.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=37)** The source controlled exercises project in GitHub for this course is a collection of configurations.
+> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=37)** The source controlled exercises project in [[GitHub]] for this course is a collection of configurations.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=43)** It contains several configurations that we'll use to learn about Terraform.
 >
@@ -190,9 +187,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=50)** HashiCorp Configuration Language, or HCL, is a domain-specific language developed by HashiCorp.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=57)** By contrast with general purpose languages like Java and C#, HCL is focused on defining Terraform configurations.
+> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=57)** By contrast with general purpose languages like [[Java]] and C#, HCL is focused on defining Terraform configurations.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=65)** HashiCorp developed HCL because static data files such as YAML or JSON lacked the language features needed to make Terraform as versatile and adaptable as it needed to be.
+> **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=65)** HashiCorp developed HCL because static data files such as YAML or [[JSON]] lacked the language features needed to make Terraform as versatile and adaptable as it needed to be.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=76)** HCL supports basic language conventions such as variables, loops, and conditional operators.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=109)** Anything you can create in a platform is a resource.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=113)** The resource reserved word is used to declare resources that will be created in the target system such as a cloud environment.
+> **[1:53](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=113)** The resource reserved [[Microsoft Word|word]] is used to declare resources that will be created in the target system such as a cloud environment.
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=120)** When an operator executes Terraform Apply, Terraform executes a set of actions defined by a graph of resources.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=151)** Providers are declared in a configuration.
 >
-> **[2:33](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=153)** When declared, they make a provider-specific set of resources available to that configuration, for example, including the Google Cloud provider in a configuration allows you to declare GCP resources such as Compute instances, Cloud SQL databases, and Kubernetes Engine clusters.
+> **[2:33](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=153)** When declared, they make a provider-specific set of resources available to that configuration, for example, including the [[Google Cloud Platform (GCP)|Google Cloud]] provider in a configuration allows you to declare GCP resources such as Compute instances, Cloud [[SQL]] [[Databases]], and [[Kubernetes]] Engine clusters.
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-review-and-terminology?u=76281980&t=171)** A module is an isolated, reusable sub-configuration.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (15), cloud (5), data (2), [[GitHub]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (15), [[GitHub]] (1), [[Java]] (1), [[JSON]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** terraform (15), make (2)
 > **Env Vars:** hcl (4), yaml (1), json (1), gcp (1), sql (1)
 > **Analogies:** such as (5), for example (1)
@@ -248,12 +245,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored in a repository on GitHub.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored in a repository on [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=4)** If you don't have a GitHub account, you'll need to create one.
 >
@@ -261,11 +257,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=12)** You'll need that fork for some of the course exercises.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=15)** First, I'll show you how to create a fork, then you'll clone the fork to your local system or to the Google Cloud shell.
+> **[0:15](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=15)** First, I'll show you how to create a fork, then you'll clone the fork to your local system or to the [[Google Cloud Platform (GCP)|Google Cloud]] shell.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=22)** Create your GitHub account if you don't have one, then log in.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=26)** You can search for the exercise files by entering into the search bar here on the very top left LinkedIn Learning/Advanced-Terraform.
+> **[0:26](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=26)** You can search for the exercise files by entering into the search bar here on the very top left [[LinkedIn]] Learning/Advanced-[[Terraform]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=38)** You should see only the one listed here.
 >
@@ -275,13 +271,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=51)** Click Create Fork and your fork will be created.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=58)** The next thing we need to do is create a personal access token that the GI CLI will use to authenticate to GitHub.
+> **[0:58](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=58)** The next thing we need to do is create a personal access token that the GI [[CLI]] will use to authenticate to GitHub.
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=65)** Click your profile icon at the very top right here.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=68)** Go to Settings, and then scroll all the way down to developer settings.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=74)** Expand personal access tokens, and select fine-grained tokens, and then click Generate New Token.
+> **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=74)** Expand personal access [[Tokens]], and select fine-grained tokens, and then click Generate New Token.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=83)** Give it a name, I'll call it TF-Token.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=124)** Click Generate Token, and we have our token.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=131)** It's important that you copy it immediately and save it somewhere permanent and safe, like a text file on your local system or in a private cloud folder like Google Drive.
+> **[2:11](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=131)** It's important that you copy it immediately and save it somewhere permanent and safe, like a text file on your local system or in a private cloud folder like [[Google Drive]].
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=140)** This token is like a password.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=148)** Also, be sure not to add it to your repository at any point.
 >
-> **[2:31](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=151)** Secrets such as tokens should never be published to a Git repository.
+> **[2:31](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=151)** Secrets such as tokens should never be published to a [[Git]] repository.
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=156)** For security purposes, GitHub will never display this token again.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=254)** You should be in your home directory.
 >
-> **[4:15](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=255)** If not, execute CD space Tilda on a Mac or in Cloud Shell, or CDspace\ on a Windows machine.
+> **[4:15](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=255)** If not, execute CD space Tilda on a Mac or in Cloud Shell, or CDspace\ on a [[Windows]] machine.
 >
 > **[4:22](https://www.linkedin.com/learning/advanced-terraform-18720794/exercise-files?u=76281980&t=262)** Now, type in Git Clone and paste in the URL for your fork.
 >
@@ -391,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), [[Git]] (10), [[CLI]] (6), cloud (4), [[Terraform]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Git]] (10), [[CLI]] (6), [[Terraform]] (3), [[Tokens]] (3)
 > **CLI Commands:** git (10), make (4), terraform (3), cd (1), ls (1)
 > **Tools:** github (11), visual studio (3), terminal (3), command line (1)
 > **Env Vars:** cli (6), gcp (1), https (1), url (1)
@@ -405,12 +401,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practical Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
+#### [Practical Terraform](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=0)** - [Instructor] Real world Terraform configurations typically start as a simple representation of an existing resource deployment.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=0)** - [Instructor] Real world [[Terraform]] configurations typically start as a simple representation of an existing resource deployment.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=6)** That's where we'll start.
 >
@@ -420,9 +415,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=19)** Once that's done, we'll make changes to the infrastructure by modifying the Terraform configuration and redeploying it.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=26)** We'll see how we can version the changes in source control, execute Terraform commands to create deployment plans and apply them, and automate the whole process with a continuous integration and continuous delivery pipeline, just as we would with application code.
+> **[0:26](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=26)** We'll see how we can version the changes in source control, execute Terraform commands to create deployment plans and apply them, and automate the whole process with a [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] pipeline, just as we would with application code.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=40)** Our humble little web application is going to grow into a fully cloud-native software as a service platform for our customers.
+> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=40)** Our humble little web application is going to grow into a fully cloud-native [[SaaS|software as a service]] platform for our customers.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980&t=47)** So there's plenty to do.
 >
@@ -438,29 +433,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), cloud (5), application (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** terraform (5), make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Cloud and Terraform: Tools and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980)
+#### [Google Cloud and Terraform: Tools and setup](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=0)** - [Instructor] Terraform is infrastructure as code or IAC.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=0)** - [Instructor] [[Terraform]] is [[Infrastructure as code (IaC)|infrastructure as code]] or IAC.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=3)** IAC is all about configuring things so we need a thing to configure.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=7)** Our thing for this course will be Google Cloud platform, or GCP.
+> **[0:07](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=7)** Our thing for this course will be [[Google Cloud Platform (GCP)|Google Cloud platform]], or GCP.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=12)** You don't need any prior experience with GCP to complete this course.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=15)** We'll keep the focus on Terraform as much as possible, but hey, if you happen to learn a few things about cloud-native infrastructure along the way, that's not a bad thing, right?
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=24)** If you don't already have a Google Cloud account, your first step is to create one.
+> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=24)** If you don't already have a [[Google Cloud Platform (GCP)|Google Cloud]] account, your first step is to create one.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=28)** Go to cloud.[google.com](https://google.com) and create a new account.
+> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=28)** Go to cloud.[[[Google]].com](https://google.com) and create a new account.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=31)** You will be asked to use a credit card to open the account.
 >
@@ -492,7 +486,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=96)** As we discussed in the Exercise Files video, you have two options for following along.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=100)** The first is to run Visual Studio Code Terraform and the Google Cloud CLI on your local workstation.
+> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=100)** The first is to run Visual Studio Code Terraform and the Google Cloud [[CLI]] on your local workstation.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=106)** The other is to use the Google Cloud Shell and Cloud Editor from the GCP console.
 >
@@ -516,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=142)** If you're on a Mac, the Homebrew installer will take care of installing and making the binary executable.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=147)** The Windows Zip download is just the CLI executable.
+> **[2:27](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=147)** The [[Windows]] Zip download is just the CLI executable.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=150)** You'll need to download it, extract it, and put the executable somewhere on your path so you can execute it from any directory.
 >
@@ -586,13 +580,13 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=313)** If that's the case, you may need to fall back on Visual Studio.
 >
-> **[5:18](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=318)** If you don't already have a terminal open, you can go to Terminal, New Terminal, and then we'll go over into GitHub, and you'll need to find your fork, click Code, make sure HTTPS is selected, and click Copy.
+> **[5:18](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=318)** If you don't already have a terminal open, you can go to Terminal, New Terminal, and then we'll go over into [[GitHub]], and you'll need to find your fork, click Code, make sure HTTPS is selected, and click Copy.
 >
 > **[5:34](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=334)** Then return to Google Cloud.
 >
 > **[5:37](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=337)** At this point, you'll need to take a moment and find the personal access token that you generated during the Exercise Files video.
 >
-> **[5:44](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=344)** Now we can type in git clone and paste in the URL.
+> **[5:44](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=344)** Now we can type in [[Git]] clone and paste in the URL.
 >
 > **[5:52](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=352)** It'll prompt you for your username and password.
 >
@@ -614,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (14), cloud (10), [[Terraform]] (9), gcp (6), [[CLI]] (6)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (14), [[Terraform]] (9), [[CLI]] (6), [[GitHub]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Tools:** terminal (10), visual studio (7), gcp console (3), github (2)
 > **CLI Commands:** terraform (9), find (5), make (3), gcloud (3), git (1)
 > **Env Vars:** gcp (6), cli (6), iac (2), sdk (1), https (1)
@@ -623,8 +617,7 @@ created: 2026-05-02
 > **File Paths:** gcp_commands.md (1), gcpcommands.md (1)
 > **URLs:** [google.com](https://google.com) (1), [terraform.io](https://terraform.io) (1)
 
-#### Designing a cloud infrastructure in Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980)
+#### [Designing a cloud infrastructure in Terraform](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +631,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=12)** We'll need to map these resources as they exist today in our data center to cloud-based resources.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=18)** We'll use Google Cloud as our example, though the same ideas would apply to any public cloud, with differing product names, of course.
+> **[0:18](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=18)** We'll use [[Google Cloud Platform (GCP)|Google Cloud]] as our example, though the same ideas would apply to any public cloud, with differing product names, of course.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=25)** Let's see, first, we need a network.
 >
@@ -648,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=40)** We could delete that default VPC and define our own if we wanted, but we'll keep it simple for now.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=46)** We'll also need to define a subnet for the virtual machines we're going to create.
+> **[0:46](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=46)** We'll also need to define a subnet for the [[Virtual Machines]] we're going to create.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=50)** That will be defined as a child of the VPC.
 >
@@ -656,7 +649,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=60)** We'll need a firewall rule to allow public traffic to flow into the NGINX server.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=65)** Finally, we'll need to define four VMs, one NGINX load balancer and reverse proxy, three web servers, and one MySQL database server.
+> **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=65)** Finally, we'll need to define four VMs, one NGINX load balancer and reverse proxy, three [[Web Servers]], and one [[MySQL]] database server.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=74)** Here's our mapping of on-prem resources to their equivalent cloud-based resources.
 >
@@ -670,15 +663,15 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=94)** We need to modify this configuration, change it until it meets the requirements of a fully cloud native application.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=100)** That would be very tedious and error prone to do manually, poking buttons and filling out forms in the console.
+> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=100)** That would be very tedious and error prone to do manually, poking buttons and filling out [[Forms]] in the console.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=106)** Obviously, we're going to use Terraform.
+> **[1:46](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=106)** Obviously, we're going to use [[Terraform]].
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=108)** A cloud migration is all about application modernization.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=111)** This is a great opportunity to modernize not just the application and its infrastructure, but the way that infrastructure is defined and deployed.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=119)** I want to emphasize that we won't be deploying any application code or data to the compute or databases we deploy so that we can focus on Terraform.
+> **[1:59](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=119)** I want to emphasize that we won't be deploying any application code or data to the compute or [[Databases]] we deploy so that we can focus on Terraform.
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-terraform-18720794/designing-a-cloud-infrastructure-in-terraform?u=76281980&t=127)** Of course, you're free to experiment.
 >
@@ -686,19 +679,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (4), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Terraform]] (2), [[Virtual Machines]] (1), [[Web Servers]] (1), [[MySQL]] (1)
 > **Env Vars:** vpc (4), nginx (3), gcp (2)
 > **CLI Commands:** nginx (3), terraform (2), mysql (1), find (1), make (1)
 > **Definitions:** is a  (2), defined as (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform configuration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980)
+#### [Terraform configuration overview](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=0)** - Okay, Terraform engineer.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=0)** - Okay, [[Terraform]] engineer.
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=1)** We're ready to get our hands dirty and work with a real configuration.
 >
@@ -708,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=12)** Open your editor of choice to view the files.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=14)** Before we dig into the configuration, I'd like to draw your attention to the dot git ignore file.
+> **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=14)** Before we dig into the configuration, I'd like to draw your attention to the dot [[Git]] ignore file.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=19)** The dot git ignore file is a special file used to instruct git to ignore a set of files.
 >
@@ -724,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=52)** Open the main dot tf file.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=54)** The first section here is the Google Cloud provider.
+> **[0:54](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=54)** The first section here is the [[Google Cloud Platform (GCP)|Google Cloud]] provider.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=57)** This is what allows us to define GCP resources in this configuration.
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=66)** These groups are referred to as stanzas.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=68)** Later, when we execute terraform net this stanza will tell the Terraform CLI to download the GCP provider.
+> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=68)** Later, when we execute terraform net this stanza will tell the Terraform [[CLI]] to download the GCP provider.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=75)** The next section is all about networking.
 >
@@ -766,7 +758,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=151)** This rule will be used to open the ports needed on the public IP address of the EngineX reverse proxy VM, so it can accept HTTP traffic from the public internet.
 >
-> **[2:42](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=162)** The next four stanzas are all Google Compute engine VMs, one for the Engine X proxy, three web servers, and finally, one MySQL database VM.
+> **[2:42](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=162)** The next four stanzas are all [[Google]] Compute engine VMs, one for the Engine X proxy, three [[Web Servers]], and finally, one [[MySQL]] database VM.
 >
 > **[2:55](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-configuration-overview?u=76281980&t=175)** That's it for this configuration.
 >
@@ -782,7 +774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), [[Git]] (5), next (5), data (5), gcp (3)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Git]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[CLI]] (1), [[Google]] (1)
 > **CLI Commands:** terraform (9), git (5), find (1), mysql (1)
 > **Env Vars:** vpc (4), gcp (3), cli (1), http (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -791,8 +783,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Deploying the Terraform configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980)
+#### [Deploying the Terraform configuration](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=2)** Our first step with our configuration is to initialize it.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=5)** This command prepares a configuration for all other Terraform commands.
+> **[0:05](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=5)** This command prepares a configuration for all other [[Terraform]] commands.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=9)** Initializing, we'll download the GCP provider which is listed in the main.tf file.
 >
@@ -874,13 +865,13 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=204)** Let's suppose that you're collaborating over a configuration and you want to view the contents of a plan generated by someone else.
 >
-> **[3:31](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=211)** The .tfplan file is a binary file, so we need the Terraform CLI to view it.
+> **[3:31](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=211)** The .tfplan file is a binary file, so we need the Terraform [[CLI]] to view it.
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=216)** We can execute terraform show s1.tfplan and this will output to the console the same data that was displayed when the plan was generated.
 >
 > **[3:47](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=227)** This format is designed to be human readable.
 >
-> **[3:49](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=229)** We can also generate machine readable JSON, terraform show -json s1.tfplan.
+> **[3:49](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=229)** We can also generate machine readable [[JSON]], terraform show -json s1.tfplan.
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=241)** This is especially useful when integrating Terraform with other tools.
 >
@@ -926,7 +917,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=352)** Differences between the plan and the current state file become actions that Terraform take to converge the desired state represented by the plan and the actual state represented in the state data.
 >
-> **[6:03](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=363)** We should check our deployment in the Google Cloud console just to make sure everything looks as it should.
+> **[6:03](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=363)** We should check our deployment in the [[Google Cloud Platform (GCP)|Google Cloud]] console just to make sure everything looks as it should.
 >
 > **[6:08](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-the-terraform-configuration?u=76281980&t=368)** Let's keep going and do that next.
 >
@@ -936,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (28), [[JSON]] (4), cloud (3), data (3), gcp (2)
+> **Frameworks & Libraries:** [[Terraform]] (28), [[JSON]] (4), [[CLI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** terraform (28), make (2), find (1), cd (1)
 > **Env Vars:** json (3), gcp (2), vpc (2), cli (1)
 > **Definitions:** is a  (6), known as (1)
@@ -945,8 +936,7 @@ created: 2026-05-02
 > **URLs:** [webgraphviz.com](https://webgraphviz.com) (1)
 > **Cross-References:** as we saw (1)
 
-#### Review deployed resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/review-deployed-resources?u=76281980)
+#### [Review deployed resources](https://www.linkedin.com/learning/advanced-terraform-18720794/review-deployed-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +970,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (2), data (1)
 > **Env Vars:** vpc (5), gcp (2), ssh (1)
 > **UI Navigation:** go to (2), open the (1), click on (1), select the (1)
 > **CLI Commands:** nginx (1), ssh (1)
@@ -988,9 +977,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** refers to (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
-#### Destroying resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980)
+#### [Destroying resources](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980&t=3)** In the terminal, execute the following command.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980&t=6)** Terraform Destroy.
+> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980&t=6)** [[Terraform]] Destroy.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-terraform-18720794/destroying-resources?u=76281980&t=8)** Hit enter.
 >
@@ -1060,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (6), gcp (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[Terraform]] (6)
 > **CLI Commands:** terraform (6), make (1)
 > **Env Vars:** gcp (3), iam (1)
 > **Cross-References:** later in (1), next video (1)
@@ -1074,14 +1063,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Input variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
+#### [Input variables](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=0)** - [Instructor] Input variables are used to generalize a configuration so that it can be used in a variety of scenarios.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=6)** Terraform supports variables of several types, including a string, numerical values, a bool or boolean, lists and maps.
+> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=6)** [[Terraform]] supports variables of several types, including a string, numerical values, a bool or boolean, lists and maps.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=16)** We'll focus on strings and booleans for now.
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=34)** We can introduce variables to make it adaptable to a variety of scenarios.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=40)** Open your integrated terminal and execute git checkout 02_01 .
+> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=40)** Open your integrated terminal and execute [[Git]] checkout 02_01 .
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=48)** This will switch to the branch with the code for this chapter.
 >
@@ -1119,7 +1107,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=101)** The first variable declaration in variables.tf here is for the project-id.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=106)** This is about as simple as it gets for a variable declaration, the variable reserved word, the name of the variable, and its type.
+> **[1:46](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=106)** This is about as simple as it gets for a variable declaration, the variable reserved [[Microsoft Word|word]], the name of the variable, and its type.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=114)** The next declaration defines a region variable.
 >
@@ -1137,7 +1125,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=142)** Here we have several more variables.
 >
-> **[2:24](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=144)** We have a subnet-name, we have the subnet-cidr which is the IP address range for the subnet, and we have private_google_access which will determine how the subnet can access Google APIs.
+> **[2:24](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=144)** We have a subnet-name, we have the subnet-cidr which is the IP address range for the subnet, and we have private_google_access which will determine how the subnet can access [[Google]] APIs.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980&t=157)** Now let's take a look at the differences in main.tf.
 >
@@ -1213,7 +1201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (12), next (2), [[Git]] (1), [[Microsoft Word|Word]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Terraform]] (12), [[Git]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **CLI Commands:** terraform (12), make (2), git (1), find (1)
 > **Tools:** command line (4), visual studio (1), terminal (1)
 > **UI Navigation:** switch to (1), open the (1), select the (1)
@@ -1222,8 +1210,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using input variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980)
+#### [Using input variables](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1237,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=18)** (keyboard gently clicking) The fix is to throw away the changes in the current branch before you switch.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=27)** Here are the commands to do that: "git stash," and then "git stash drop."
+> **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=27)** Here are the commands to do that: "[[Git]] stash," and then "git stash drop."
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=35)** Now, you can go ahead and switch.
 >
@@ -1341,7 +1328,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=291)** So we've got "f1-micro" for dev, and then "e2-micro" for QA and staging, and then an "e2-medium" for production.
 >
-> **[4:59](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=299)** (keyboard gently clicking) We can see the effect of these changes by experimenting with Terraform Plan.
+> **[4:59](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=299)** (keyboard gently clicking) We can see the effect of these changes by experimenting with [[Terraform]] Plan.
 >
 > **[5:06](https://www.linkedin.com/learning/advanced-terraform-18720794/using-input-variables?u=76281980&t=306)** In your terminal, execute "terraform plan -out s1.tfplan
 >
@@ -1373,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), application (2), [[Terraform]] (2)
+> **Frameworks & Libraries:** [[Git]] (3), [[Terraform]] (2)
 > **CLI Commands:** make (4), git (3), terraform (2), find (1)
 > **Non-Speech:** (keyboard gently clicking) (7)
 > **Definitions:** is a  (4)
@@ -1382,14 +1369,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1)
 > **Speakers:** - so (1), - var (1)
 
-#### Output variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980)
+#### [Output variables](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=0)** - [Instructor] Computer programs typically have return values that report the status of an operation.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=5)** Terraform output variables are like the return values of a configuration.
+> **[0:05](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=5)** [[Terraform]] output variables are like the return values of a configuration.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=9)** Output values have a name and a value.
 >
@@ -1407,7 +1393,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=43)** There are many situations where we'll want to output some of those values to pass them on to later steps in an infrastructure deployment.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=51)** At this point, you can follow along with me, or just execute git checkout 02 03 to go to the results.
+> **[0:51](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=51)** At this point, you can follow along with me, or just execute [[Git]] checkout 02 03 to go to the results.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=62)** We can output data by defining output variables in the configuration.
 >
@@ -1435,7 +1421,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=143)** There is web one, and this should be our NGINX, here it is.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=150)** So the path will be Google compute instance.nginx instance, and then we'll come down to the network interface, .network interface, .access config, .nat ip, this is the public IP address.
+> **[2:30](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=150)** So the path will be [[Google]] compute instance.nginx instance, and then we'll come down to the network interface, .network interface, .access config, .nat ip, this is the public IP address.
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-terraform-18720794/output-variables?u=76281980&t=163)** So, we'll go ahead and enter that in.
 >
@@ -1499,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (13), web (2), [[Google]] (2), gcp (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (13), [[Google]] (2), [[Git]] (1)
 > **CLI Commands:** terraform (13), nginx (7), find (2), make (2), git (1)
 > **Env Vars:** nginx (4), gcp (1)
 > **Code Identifiers:** network_interface (1), nat_ip (1)
@@ -1508,12 +1494,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Sensitive data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980)
+#### [Sensitive data](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=0)** - [Instructor] The default behavior of Terraform is to include all variable values in Terraform plan, apply, and show commands.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=0)** - [Instructor] The default behavior of [[Terraform]] is to include all variable values in Terraform plan, apply, and show commands.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=6)** Variables often contain sensitive data like usernames and passwords.
 >
@@ -1521,13 +1506,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=14)** Terraform provides a feature that will mark input and output variables as sensitive.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=18)** Suppose we want to use Google Cloud SQL instead of our VM-based DB instance.
+> **[0:18](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=18)** Suppose we want to use [[Google Cloud Platform (GCP)|Google Cloud]] [[SQL]] instead of our VM-based DB instance.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=23)** The native user account from MySQL and Postgres databases require a username and password.
+> **[0:23](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=23)** The native user account from [[MySQL]] and [[PostgreSQL|Postgres]] [[Databases]] require a username and password.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=28)** Let's look at the code for this chapter.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=30)** Execute git checkout 02_04. (keyboard clicking) Now, execute gcloud space services space enable space sqladmin.[goodleapis.com](https://goodleapis.com).
+> **[0:30](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=30)** Execute [[Git]] checkout 02_04. (keyboard clicking) Now, execute gcloud space services space enable space sqladmin.[goodleapis.com](https://goodleapis.com).
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=42)** In case you want to deploy this, we'll need this to be able to create the Cloud SQL instance.
 >
@@ -1597,13 +1582,13 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=235)** Terraform can also integrate the secrets management systems like HashiCorp Vault.
 >
-> **[3:59](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=239)** Secrets management systems are specifically designed to secure secrets, ensuring that they're secure in transit and at rest.
+> **[3:59](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=239)** Secrets management systems are specifically designed to secure secrets, ensuring that they're secure in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-terraform-18720794/sensitive-data?u=76281980&t=246)** We'll see some of these techniques in use later in the course, so let's keep going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (13), [[SQL]] (5), cloud (4), data (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (13), [[SQL]] (5), [[Git]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[MySQL]] (1)
 > **CLI Commands:** terraform (13), git (2), mysql (1), gcloud (1), cd (1)
 > **Non-Speech:** (keyboard clicking) (10), (mouse clicking) (3)
 > **Env Vars:** sql (5)
@@ -1612,8 +1597,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** command line (1)
 
-#### Looping with count
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980)
+#### [Looping with count](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,11 +1611,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=14)** Other loops iterate over a collection of items.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=17)** Terraform and the HashiCorp Configuration Language support both these types of loops.
+> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=17)** [[Terraform]] and the HashiCorp Configuration Language support both these types of loops.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=22)** We have three nearly identical compute instances in this configuration, so let's use a loop to cut it down to size.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=29)** The only thing that differs between our three web servers are their names, which follow a web number convention, web1, web2, and web3.
+> **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=29)** The only thing that differs between our three [[Web Servers]] are their names, which follow a web number convention, web1, web2, and web3.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=36)** We can easily shorten this using the count meta-argument.
 >
@@ -1645,7 +1629,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=60)** If that doesn't work for any reason you'll need to return to the destroying resources video and follow the instructions to delete your resources manually.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=68)** Then execute git checkout 02_05.
+> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=68)** Then execute [[Git]] checkout 02_05.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=77)** Open main.tf and outputs.tf, and side by side by clicking, right-clicking, and going to Split Right.
 >
@@ -1709,7 +1693,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=243)** Remember, every attribute you see in a stanza has a type.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=246)** The type of web1 in this commented stanza here represents an object that represents a Google compute instance.
+> **[4:06](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=246)** The type of web1 in this commented stanza here represents an object that represents a [[Google]] compute instance.
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-count?u=76281980&t=254)** The type of web-instances in this new stanza is a list of compute instances.
 >
@@ -1791,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (16), [[Terraform]] (9), [[Git]] (6), [[Google]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Git]] (6), [[Web Servers]] (5), [[Google]] (2)
 > **CLI Commands:** terraform (9), git (6), make (4), gcloud (1), find (1)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** terminal (2), gcp console (1)
@@ -1800,8 +1784,7 @@ created: 2026-05-02
 > **Env Vars:** gcp (1)
 > **Cross-References:** later in (1)
 
-#### Looping with for_each
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980)
+#### [Looping with for_each](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,11 +1794,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=8)** Now let's look at a data-driven looping technique, for-each.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=12)** Execute git checkout 02_06, and we'll take a look at a change to main.tf.
+> **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=12)** Execute [[Git]] checkout 02_06, and we'll take a look at a change to main.tf.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=20)** So we'll scroll down here and we have some buckets.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=24)** A Google storage bucket is an object store for files.
+> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=24)** A [[Google]] storage bucket is an object store for files.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=27)** For this example, let's suppose we want to create a bucket for each environment.
 >
@@ -1861,7 +1844,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=157)** And this time we'll have the VMs created from the web map instances, and from the count technique that we used before.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=165)** And now we'll do Terraform apply.
+> **[2:45](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=165)** And now we'll do [[Terraform]] apply.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-terraform-18720794/looping-with-for-each?u=76281980&t=170)** And our deployment is finished, now we can go over to our web browser, and take a look at the resources that were deployed.
 >
@@ -1877,29 +1860,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Git]] (2), data (1), [[Google]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Google]] (1), [[Terraform]] (1)
 > **UI Navigation:** go to (2), scroll down (1), scroll up (1)
 > **CLI Commands:** git (2), terraform (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** environment_list (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expressions and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980)
+#### [Expressions and functions](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=0)** - [Instructor] Developing configurations in Terraform is similar to developing software.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=0)** - [Instructor] Developing configurations in [[Terraform]] is similar to developing software.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=4)** HashiCorp Configuration Language, or HCL, is a domain-specific language, or DSL.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=10)** DSLs are limited languages that share some but not all of the features of a fully featured language, like Java or C#.
+> **[0:10](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=10)** DSLs are limited languages that share some but not all of the features of a fully featured language, like [[Java]] or C#.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=16)** Fully featured languages support expressions and user-defined functions.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=21)** HCL supports expressions and a library of predefined functions.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=25)** An expression is a statement that can be evaluated by the Terraform CLI.
+> **[0:25](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=25)** An expression is a statement that can be evaluated by the Terraform [[CLI]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=29)** This can be a simple literal value, a mathematical or a conditional statement, and calling a Terraform function.
 >
@@ -1907,7 +1889,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=38)** Instead, Terraform includes a set of built-in functions.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=41)** Terraform functions allow for things like string manipulation, working with data structures, IP subnets, and more.
+> **[0:41](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=41)** Terraform functions allow for things like string manipulation, working with [[Data Structures]], IP subnets, and more.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=48)** We won't be deploying this configuration just yet, so you don't need to worry about setting up the .tfrs file.
 >
@@ -1923,7 +1905,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=74)** The loop is the prompt for the next input.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=77)** Our Linux command prompt is an example of a REPL, as is any interactive or shell program that accepts input in this way.
+> **[1:17](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=77)** Our [[Linux]] command prompt is an example of a REPL, as is any interactive or shell program that accepts input in this way.
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=84)** We can use Terraform Console to experiment with expressions and functions.
 >
@@ -2011,11 +1993,11 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=286)** We can try it again.
 >
-> **[4:47](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=287)** This time we'll do Google compute_firewall.default.
+> **[4:47](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=287)** This time we'll do [[Google]] compute_firewall.default.
 >
 > **[4:56](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=296)** Once again, everything the state contains for the firewall.
 >
-> **[4:59](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=299)** Notice again how the output of the state is formatted as a valid JSON.
+> **[4:59](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=299)** Notice again how the output of the state is formatted as a valid [[JSON]].
 >
 > **[5:03](https://www.linkedin.com/learning/advanced-terraform-18720794/expressions-and-functions?u=76281980&t=303)** This makes it easy to reason about the structure of the state and to write scripts or programs that can parse the state and use it for all sorts of purposes, like crafting complex configurations.
 >
@@ -2043,7 +2025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (14), [[CLI]] (2), prompt (2), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (14), [[CLI]] (2), [[Java]] (1), [[Data Structures]] (1), [[Linux]] (1)
 > **CLI Commands:** terraform (14)
 > **Env Vars:** repl (5), hcl (4), cli (2), dsl (1), json (1)
 > **Definitions:** is a  (4), is an  (2), stands for (1), is called (1)
@@ -2052,12 +2034,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Tools:** command prompt (1)
 
-#### Introduction to modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980)
+#### [Introduction to modules](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=0)** - [Instructor] A Terraform module is a self-contained, encapsulated set of resources.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=0)** - [Instructor] A [[Terraform]] module is a self-contained, encapsulated set of resources.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=4)** It's useful to think of a module as a sub configuration.
 >
@@ -2089,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=76)** There are several options for defining the location of modules where Terraform can find them.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=81)** The local file system, GitHub, a generic Git repository, HTTP URLs, and the Terraform Registry.
+> **[1:21](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=81)** The local file system, [[GitHub]], a generic [[Git]] repository, HTTP URLs, and the Terraform Registry.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=90)** The Terraform Registry is a free public registry of modules maintained by HashiCorp.
 >
@@ -2107,7 +2088,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=123)** Let's take a look at the module we'll be using in our exercise.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=126)** We can find the Google Supported Service account module by searching for it in the search bar.
+> **[2:06](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=126)** We can find the [[Google]] Supported Service account module by searching for it in the search bar.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-modules?u=76281980&t=133)** From here, we can select the GitHub repository where the module is hosted.
 >
@@ -2121,7 +2102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (11), [[GitHub]] (3), gcp (2), cloud (2), generic (1)
+> **Frameworks & Libraries:** [[Terraform]] (11), [[GitHub]] (3), [[Git]] (1), [[Google]] (1)
 > **CLI Commands:** terraform (11), find (2), git (1)
 > **Env Vars:** hcl (2), gcp (2), gke (1), http (1), readme (1)
 > **Tools:** github (3)
@@ -2130,18 +2111,17 @@ created: 2026-05-02
 > **URLs:** [terraform.io](https://terraform.io) (1)
 > **Cross-References:** later in (1)
 
-#### Using Terraform modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980)
+#### [Using Terraform modules](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=0)** - [Instructor] In this video, we're going to use the GCP service accounts module to demonstrate how to set up and use a module.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=6)** Execute git checkout 02_09 to switch to the branch.
+> **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=6)** Execute [[Git]] checkout 02_09 to switch to the branch.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=14)** Service accounts are non-user accounts used to authenticate system to system communications.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=19)** They're used to secure resources like APIs, databases, file objects, and other resources accessed by internal system processes.
+> **[0:19](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=19)** They're used to secure resources like APIs, [[Databases]], file objects, and other resources accessed by internal system processes.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=27)** We'll use the module to create one service account for each environment.
 >
@@ -2159,17 +2139,17 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=49)** So go ahead and open up the serviceaccounts.tf file.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=53)** And let's execute terraform init.
+> **[0:53](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=53)** And let's execute [[Terraform]] init.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=57)** This will tell the Terraform CLI to download this module.
+> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=57)** This will tell the Terraform [[CLI]] to download this module.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=61)** The service accounts module does a lot of work in a very few lines.
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=65)** The first line here tells Terraform where to find this module.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=68)** In this case, it's the Terraform Registry, which in turn points to a GitHub repository.
+> **[1:08](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=68)** In this case, it's the Terraform Registry, which in turn points to a [[GitHub]] repository.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=73)** The rest of these are attributes of the service accounts module.
+> **[1:13](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=73)** The [[Representational State Transfer (REST)|rest]] of these are attributes of the service accounts module.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=76)** These and all the other available attributes are input variables of the module.
 >
@@ -2217,7 +2197,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=185)** Now that it's deployed, we can go look at our service accounts in the GCP console.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=190)** From the Google Cloud console, click the hamburger.
+> **[3:10](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=190)** From the [[Google Cloud Platform (GCP)|Google Cloud]] console, click the hamburger.
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-terraform-18720794/using-terraform-modules?u=76281980&t=194)** Select IAM & Admin.
 >
@@ -2243,7 +2223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (7), gcp (2), next (2), [[Git]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (7), [[Git]] (1), [[Databases]] (1), [[CLI]] (1), [[GitHub]] (1)
 > **CLI Commands:** terraform (7), git (1), find (1), make (1)
 > **Code Identifiers:** environment_list (2), project_id (1), project_roles (1), objectviewer (1)
 > **Env Vars:** gcp (2), iam (2), cli (1)
@@ -2257,12 +2237,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyzing a module
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
+#### [Analyzing a module](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=0)** - [Instructor] So far, we've learned quite a few things about Terraform.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=0)** - [Instructor] So far, we've learned quite a few things about [[Terraform]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=3)** We've covered expressions, functions, looping and variables.
 >
@@ -2280,7 +2259,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=40)** If you haven't watched the video on using modules yet, you'll want to go back and watch that one first.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=46)** Public Terraform modules are listed in the Terraform Registry here but the code for them is listed on GitHub.
+> **[0:46](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=46)** Public Terraform modules are listed in the Terraform Registry here but the code for them is listed on [[GitHub]].
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=53)** So we can clone a module's repository and look at the code locally or just review it in the browser on GitHub.
 >
@@ -2302,7 +2281,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=98)** However, they're scoped only to this file.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=100)** Locals cannot be set from outside the configuration using .tfr's files, CLI commands or environment variables.
+> **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=100)** Locals cannot be set from outside the configuration using .tfr's files, [[CLI]] commands or environment variables.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=107)** These local values are used to perform conditional processing on the module's input variables.
 >
@@ -2414,15 +2393,15 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=414)** Don't worry if this doesn't make a 100% sense right now.
 >
-> **[6:57](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=417)** The goal here is to show you how Terraform can work with data structures and conditional logic.
+> **[6:57](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=417)** The goal here is to show you how Terraform can work with [[Data Structures]] and conditional logic.
 >
 > **[7:02](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=422)** You can use the console to model the behavior you see in a configuration to cement your understanding of how it works.
 >
 > **[7:08](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=428)** As you progress in your Terraform journey, you can refer back to this video and study other modules for guidance on these advanced features.
 >
-> **[7:15](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=435)** The rest of the Service Accounts Module is relatively straightforward.
+> **[7:15](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=435)** The [[Representational State Transfer (REST)|rest]] of the Service Accounts Module is relatively straightforward.
 >
-> **[7:19](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=439)** The Google service-account resource uses the for_each argument to iterate over the names list creating one account per name.
+> **[7:19](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=439)** The [[Google]] service-account resource uses the for_each argument to iterate over the names list creating one account per name.
 >
 > **[7:26](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980&t=446)** The Google Project IM Member resource is the account role mapping.
 >
@@ -2438,7 +2417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (10), next (4), data (3), product (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (10), [[GitHub]] (2), [[Google]] (2), [[CLI]] (1), [[Data Structures]] (1)
 > **CLI Commands:** terraform (10), make (1)
 > **Code Identifiers:** grant_billing_role (2), billing_account_id (2), for_each (2), service_accounts (1), account_billing (1)
 > **Env Vars:** true (4), blank (2), cli (1), set (1), xpn (1)
@@ -2447,8 +2426,7 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Warnings:** keep in mind (1)
 
-#### Custom modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980)
+#### [Custom modules](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2456,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=2)** Let's create one of our own.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=4)** Execute git checkout 03_02 to see the code for this video.
+> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=4)** Execute [[Git]] checkout 03_02 to see the code for this video.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=12)** In main.tf, scroll down to line 33.
 >
@@ -2498,7 +2476,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=101)** The main.tf of the webservers module is quite simple.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=104)** It has a provider, a local variable, and the Google Compute instance resource declaration.
+> **[1:44](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=104)** It has a provider, a local variable, and the [[Google]] Compute instance resource declaration.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=111)** The prefix local here may look familiar.
 >
@@ -2528,7 +2506,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=172)** The value of this output variable will be a list of strings containing the IP addresses of all of the instances created by module.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=180)** Before we run our plan, we need to run Terraform in it again.
+> **[3:00](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=180)** Before we run our plan, we need to run [[Terraform]] in it again.
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=184)** Pause the video, go ahead and try to run the plan apply cycle on your own.
 >
@@ -2542,7 +2520,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=205)** And now that we're finished, you should have the same outputs as we've seen in the past.
 >
-> **[3:30](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=210)** And voila, our module now creates all of our web servers in just 10 lines of code defined in the root module.
+> **[3:30](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=210)** And voila, our module now creates all of our [[Web Servers]] in just 10 lines of code defined in the root module.
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-terraform-18720794/custom-modules?u=76281980&t=216)** Pretty cool!
 >
@@ -2572,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (3), [[Git]] (1), [[Google]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Git]] (1), [[Google]] (1), [[Web Servers]] (1)
 > **Code Identifiers:** for_each (4), service_accounts (2), service_account (2), server_settings (1)
 > **CLI Commands:** terraform (3), git (1), find (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2581,12 +2559,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
 
-#### Terraform remote state overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980)
+#### [Terraform remote state overview](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=0)** - [Instructor] Using Terraform in a real world situation is very much like developing software.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=0)** - [Instructor] Using [[Terraform]] in a real world situation is very much like developing software.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=4)** It's a team effort.
 >
@@ -2600,7 +2577,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=21)** When a Terraform operator runs Terraform Apply, it creates two files, one for lock and one for state.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=28)** The lock file is used by Terraform to prevent two instances of the Terraform CLI from executing an apply operation simultaneously.
+> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=28)** The lock file is used by Terraform to prevent two instances of the Terraform [[CLI]] from executing an apply operation simultaneously.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=36)** The two apply operations would overlap, creating an unknown state in the target provider.
 >
@@ -2618,9 +2595,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=79)** A remote state store used by Terraform is called a backend.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=83)** Terraform supports several backends, including etcd, HashiCorp Consul, open source databases, and many others.
+> **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=83)** Terraform supports several backends, including etcd, HashiCorp Consul, open source [[Databases]], and many others.
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=91)** We are using Google Cloud platform to demonstrate Terraform, so we'll use the Google Cloud Storage backend.
+> **[1:31](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=91)** We are using [[Google Cloud Platform (GCP)|Google Cloud platform]] to demonstrate Terraform, so we'll use the [[Google Cloud Platform (GCP)|Google Cloud]] Storage backend.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-remote-state-overview?u=76281980&t=97)** The GCS backend uses a GCS bucket to store the state and lock file.
 >
@@ -2634,23 +2611,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (15), teams (1), feature (1), [[CLI]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (15), [[CLI]] (1), [[Databases]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** terraform (15)
 > **Env Vars:** gcs (4), cli (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying backend resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980)
+#### [Deploying backend resources](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=0)** - In this exercise, I'll demonstrate how to deploy the resources required by the Terraform GCS backend.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=0)** - In this exercise, I'll demonstrate how to deploy the resources required by the [[Terraform]] GCS backend.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=6)** When the plan and apply Terraform commands are executed.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=9)** the Terraform CLI evaluates the backend configuration before it generates a plan, or deploys resources.
+> **[0:09](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=9)** the Terraform [[CLI]] evaluates the backend configuration before it generates a plan, or deploys resources.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=16)** This means that the backend resource, the GCS bucket, cannot be deployed with a configuration that uses remote state.
 >
@@ -2682,7 +2658,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=99)** In the GCP console.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=101)** Click on the hamburger, go to cloud storage, and click on buckets.
+> **[1:41](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=101)** Click on the hamburger, go to [[Cloud Storage]], and click on buckets.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-backend-resources?u=76281980&t=107)** And here we have our GCS backend.
 >
@@ -2690,7 +2666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (8), gcp (3), [[CLI]] (2), cd (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (8), [[CLI]] (2), [[Cloud Storage]] (1)
 > **CLI Commands:** terraform (8), gcloud (1), cd (1)
 > **Env Vars:** gcs (5), gcp (3), cli (2)
 > **UI Navigation:** click on (3), switch to (1), open the (1), go to (1)
@@ -2699,8 +2675,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - in (1)
 
-#### Deploying a remote state configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980)
+#### [Deploying a remote state configuration](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2710,19 +2685,19 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=8)** The process is very much the same as we've seen before.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=10)** We'll initialize with Terraform init then plan and apply as usual.
+> **[0:10](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=10)** We'll initialize with [[Terraform]] init then plan and apply as usual.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=14)** There are a couple differences.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=15)** There's a small addition to the configuration and we'll run Terraform init a little differently.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=20)** Execute, git checkout 03_05 to see the code and then open backend.tf.
+> **[0:20](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=20)** Execute, [[Git]] checkout 03_05 to see the code and then open backend.tf.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=28)** This one stanza here is all we need to tell Terraform to use the GCS backend.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=33)** We could also set the bucket name here but we don't want to hard code that.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=37)** Terraform evaluates the backend before it evaluates the rest of the configuration.
+> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=37)** Terraform evaluates the backend before it evaluates the [[Representational State Transfer (REST)|rest]] of the configuration.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-a-remote-state-configuration?u=76281980&t=41)** So we can't use a variable for the bucket name.
 >
@@ -2794,7 +2769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (12), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[Git]] (1), feature (1)
+> **Frameworks & Libraries:** [[Terraform]] (12), [[Representational State Transfer (REST)|Rest]] (3), [[Git]] (1)
 > **CLI Commands:** terraform (12), git (1), cd (1)
 > **Env Vars:** gcs (4)
 > **Definitions:** is a  (1), is an  (1)
@@ -2808,8 +2783,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multiple environment configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
+#### [Multiple environment configurations](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2829,7 +2803,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=35)** Eventually, a group of changes is certified ready and promoted to a production environment where they serve users and other production systems.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=43)** Infrastructure as code defines resources as code, compute, network, storage, all the resources needed to operate an IT system.
+> **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=43)** [[Infrastructure as code (IaC)|Infrastructure as code]] defines resources as code, compute, network, storage, all the resources needed to operate an IT system.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=52)** Thus, these resources can benefit from the same delivery practices, source code management, and a managed deployment lifecycle.
 >
@@ -2841,11 +2815,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=73)** There must also be a way to merge changes made in lower environments to higher environments until those changes pass all tests and eventually make their way to production.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=83)** There are several approaches to organizing Terraform configurations for deployment to multiple environments.
+> **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=83)** There are several approaches to organizing [[Terraform]] configurations for deployment to multiple environments.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=89)** Each method comes with a set of trade-offs that should be considered.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=93)** Workspaces are a feature of the CLI that provides some separation between configurations with a common remote state backend.
+> **[1:33](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=93)** Workspaces are a feature of the [[CLI]] that provides some separation between configurations with a common remote state backend.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=100)** It can contribute to a CI/CD workflow, but it's not designed for environment separation, so we won't be covering it in this course.
 >
@@ -2861,13 +2835,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=134)** It's a reasonable compromise between learning curve, accessibility, and code reuse.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=139)** All you need is Git, which we're already using, and an essential understanding of how to use branching.
+> **[2:19](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=139)** All you need is [[Git]], which we're already using, and an essential understanding of how to use branching.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980&t=144)** This is the strategy we'll be using to demonstrate how to manage a Terraform CI/CD pipeline, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (3), ci (2), cd (2), functional (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[CLI]] (1), [[Git]] (1)
 > **CLI Commands:** terraform (3), cd (2), make (1), git (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** in the next (1)
@@ -2875,20 +2849,19 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform CI/CD options
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980)
+#### [Terraform CI/CD options](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=0)** - [Instructor] Continuous integration and continuous delivery or CICD is a practice that evolved over the last decade or so.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=0)** - [Instructor] [[Continuous Integration (CI)|Continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] or CICD is a practice that evolved over the last decade or so.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=7)** CICD is used to combine code from multiple contributors and automate the processes that prepare the code for deployment to an environment.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=15)** Continuous integration is a practice where code contributions from multiple developers are continuously integrated into a shared code repository.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=24)** The new additions are tested with the rest of the code base before they emerged with a release branch.
+> **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=24)** The new additions are tested with the [[Representational State Transfer (REST)|rest]] of the code base before they emerged with a release branch.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=29)** GIT has emerged as the defacto industry standard for source control.
+> **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=29)** [[Git]] has emerged as the defacto industry standard for source control.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=34)** Continuous delivery is the automation part of CICD.
 >
@@ -2896,9 +2869,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=43)** These steps typically include compilation and tests such as unit tests and functional tests.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=50)** CICD orchestration platforms such as Jenkins in GitLab are used to define and run a series of these steps collectively referred to as a pipeline.
+> **[0:50](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=50)** CICD orchestration platforms such as [[Jenkins]] in GitLab are used to define and run a series of these steps collectively referred to as a pipeline.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=60)** The end of a CICD pipeline usually results in the deployment of code or in the case of Terraform infrastructure to a target environment.
+> **[1:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=60)** The end of a CICD pipeline usually results in the deployment of code or in the case of [[Terraform]] infrastructure to a target environment.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=69)** A full pipeline run typically starts with code committed to a GIT repository.
 >
@@ -2912,7 +2885,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=99)** Each one has trade-offs in terms of code reuse and the effort required to build and maintain them.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=105)** Terraform plugins and templates are available for CICD systems, including Jenkins, GitLab Google Cloud Build, and GitHub Actions.
+> **[1:45](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=105)** Terraform plugins and templates are available for CICD systems, including Jenkins, GitLab [[Google Cloud Platform (GCP)|Google Cloud]] Build, and [[GitHub]] Actions.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=114)** HashiCorp also provides a complete CICD platform specifically designed to automate Terraform, Terraform Cloud.
 >
@@ -2920,7 +2893,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=133)** Terraform Cloud was built from the ground up to support CICD pipelines for Terraform.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=138)** It's a software as a service-based platform that supports a series of enterprise features, including role-based access control, multiple organizations and workspaces.
+> **[2:18](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=138)** It's a [[SaaS|software as a service]]-based platform that supports a series of enterprise features, including role-based access control, multiple organizations and workspaces.
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=148)** It manages state and it supports a Terraform specific orchestrated workflow that remotely executes plan and apply Terraform commands.
 >
@@ -2934,7 +2907,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=173)** A workspace in Terraform Cloud is like a local directory with a Terraform configuration stored in the cloud.
 >
-> **[2:59](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=179)** By the way, a Terraform Cloud workspace is not the same thing as a workspace in the Terraform CLI.
+> **[2:59](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=179)** By the way, a Terraform Cloud workspace is not the same thing as a workspace in the Terraform [[CLI]].
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-ci-cd-options?u=76281980&t=185)** Then we'll connect Terraform Cloud to GitHub so that Terraform Cloud can authenticate to GitHub to clone the repository containing the configuration to be deployed.
 >
@@ -2948,7 +2921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (23), cloud (14), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Git]] (3)
+> **Frameworks & Libraries:** [[Terraform]] (23), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Git]] (3), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **CLI Commands:** terraform (23), git (3), node (1)
 > **Env Vars:** cicd (12), git (3), gcp (2), cli (1)
 > **Tools:** github (6), gitlab (2)
@@ -2957,12 +2930,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform Cloud setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980)
+#### [Terraform Cloud setup](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=0)** - [Presenter] We're ready to take everything we've learned so far, and start building a complete CICD pipeline using Terraform Cloud and GitHub.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=0)** - [Presenter] We're ready to take everything we've learned so far, and start building a complete CICD pipeline using [[Terraform]] Cloud and [[GitHub]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=7)** We'll start by creating your Terraform Cloud account.
 >
@@ -2982,11 +2954,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=37)** Go ahead and click Create Workspace and we have some options here.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=43)** The version Control Workflow integrates GitHub or other enterprise Git repositories to trigger runs.
+> **[0:43](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=43)** The [[Version Control]] Workflow integrates GitHub or other enterprise [[Git]] repositories to trigger runs.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=49)** The CLI-driven Workflow triggers runs in Terraform Cloud from the Terraform CLI.
+> **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=49)** The [[CLI]]-driven Workflow triggers runs in Terraform Cloud from the Terraform CLI.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=54)** The API-driven workflow is used to integrate Terraform Cloud with a CICD orchestration system like Jenkins or GitLab or task runners like GitHub actions and Google Cloud Build.
+> **[0:54](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=54)** The API-driven workflow is used to integrate Terraform Cloud with a CICD orchestration system like [[Jenkins]] or GitLab or task runners like GitHub actions and [[Google Cloud Platform (GCP)|Google Cloud]] Build.
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=65)** We're going to select the version control workflow.
 >
@@ -3118,7 +3090,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=384)** So at this point in your terminal on a Mac, type in cat tf_sa_key.
 >
-> **[6:35](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=395)** On a Windows machine, enter type tf_sa_key.
+> **[6:35](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=395)** On a [[Windows]] machine, enter type tf_sa_key.
 >
 > **[6:40](https://www.linkedin.com/learning/advanced-terraform-18720794/terraform-cloud-setup?u=76281980&t=400)** Then hit enter and you'll get this text here.
 >
@@ -3206,7 +3178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (26), cloud (20), [[GitHub]] (20), [[Version Control]] (6), [[Git]] (3)
+> **Frameworks & Libraries:** [[Terraform]] (26), [[GitHub]] (20), [[Version Control]] (6), [[Git]] (3), [[CLI]] (3)
 > **CLI Commands:** terraform (26), git (3), make (2), ssh (1), cat (1)
 > **Tools:** github (20), terminal (4), gitlab (1), command line (1)
 > **Env Vars:** cli (3), vcs (3), cicd (2), url (2), api (1)
@@ -3215,12 +3187,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), you'll need (1), configure (1)
 > **URLs:** [github.com](https://github.com) (2), [terraform.io](https://terraform.io) (1)
 
-#### Deploying with Terraform Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980)
+#### [Deploying with Terraform Cloud](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=0)** - [Instructor] Terraform Cloud executes plans and applies in pairs.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=0)** - [Instructor] [[Terraform]] Cloud executes plans and applies in pairs.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=3)** These are called runs and are executed in the cloud rather than locally on a developer workstation.
 >
@@ -3256,7 +3227,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=80)** Click Queue destroy Plan, and we need to enter the name of the workspace and then click queue destroy Plan.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=88)** This is the same thing as running Terraform Destroy in the CLI and once the plan is generated, we'll scroll down here and click confirm and apply.
+> **[1:28](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=88)** This is the same thing as running Terraform Destroy in the [[CLI]] and once the plan is generated, we'll scroll down here and click confirm and apply.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-terraform-18720794/deploying-with-terraform-cloud?u=76281980&t=100)** And now the Destroy plan has been applied, we can return to the console here and refresh and we can see that the resources have been removed.
 >
@@ -3268,7 +3239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (7), cloud (6), gcp (1), [[CLI]] (1), ci (1)
+> **Frameworks & Libraries:** [[Terraform]] (7), [[CLI]] (1)
 > **CLI Commands:** terraform (7), cd (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Env Vars:** gcp (1), cli (1)
@@ -3277,12 +3248,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitOps CI/CD setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980)
+#### [GitOps CI/CD setup](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=0)** - [Instructor] In this video, we're going to deploy the resources to model a GitHub style, CI/CD pipeline using Terraform Cloud, Google Cloud, and GitHub.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=0)** - [Instructor] In this video, we're going to deploy the resources to model a [[GitHub]] style, CI/CD pipeline using [[Terraform]] Cloud, [[Google Cloud Platform (GCP)|Google Cloud]], and GitHub.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=9)** Here's what we're building.
 >
@@ -3330,7 +3300,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=119)** We'll be gathering data from Terraform Cloud, GitHub, and the GCP console to set some variable values in the Bootstrap configuration.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=127)** In your editor, execute git checkout 04_05, and then cd space cicd_bootstrap.
+> **[2:07](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=127)** In your editor, execute [[Git]] checkout 04_05, and then cd space cicd_bootstrap.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=137)** This is the location of our Bootstrap configuration.
 >
@@ -3360,7 +3330,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=192)** Click your user profile icon here and go to User Settings.
 >
-> **[3:17](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=197)** Down to tokens and click create API token.
+> **[3:17](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=197)** Down to [[Tokens]] and click create API token.
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-setup?u=76281980&t=201)** Give it a name.
 >
@@ -3514,7 +3484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (26), cloud (15), gcp (10), [[GitHub]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (4)
+> **Frameworks & Libraries:** [[Terraform]] (26), [[GitHub]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Tokens]] (2), [[Git]] (1)
 > **CLI Commands:** terraform (26), cd (3), find (2), make (1), git (1)
 > **UI Navigation:** go to (8), scroll down (3), switch to (2), dropdown (2), select the (2)
 > **Env Vars:** gcp (10), api (2), url (1)
@@ -3523,8 +3493,7 @@ created: 2026-05-02
 > **Code Identifiers:** cicd_bootstrap (3), tf_cloud_token (1), repo_hook (1), tf_cloud_workspaces (1), target_environment (1)
 > **Definitions:** is a  (2), means that (1)
 
-#### GitOps CI/CD with Terraform Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980)
+#### [GitOps CI/CD with Terraform Cloud](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3552,7 +3521,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=48)** We're going to add a memory store instance to our configuration.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=51)** Memory store is a GCP product based on Redis.
+> **[0:51](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=51)** Memory store is a GCP product based on [[Redis]].
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=55)** Redis is an in-memory key value store.
 >
@@ -3568,7 +3537,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=79)** We'll start in the dev branch.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=81)** In your editor, in the terminal, execute git checkout 04_06_dev.
+> **[1:21](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=81)** In your editor, in the terminal, execute [[Git]] checkout 04_06_dev.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=90)** Think of this branch as the main branch for the dev environment.
 >
@@ -3584,7 +3553,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=114)** This is a branch of the 0406 dev branch.
 >
-> **[1:58](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=118)** In a real world scenario, this would be the branch created and modified by you, the Terraform developer.
+> **[1:58](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=118)** In a real world scenario, this would be the branch created and modified by you, the [[Terraform]] developer.
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=123)** We can see that main.tf now does have a Redis resource.
 >
@@ -3592,7 +3561,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=132)** You'll also notice in variables.tf, I've removed the default value for environment instant settings and I've moved the values for that to terraform.auto.tfvars.
 >
-> **[2:25](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=145)** Terraform Cloud will use any file that ends in .auto.tfvars in the same way that the CLI uses Terraform .tfvars.
+> **[2:25](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=145)** Terraform Cloud will use any file that ends in .auto.tfvars in the same way that the [[CLI]] uses Terraform .tfvars.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=153)** The variable settings in terraform.auto.tfvars will be used by Terraform Cloud when it executes runs on this configuration.
 >
@@ -3606,7 +3575,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=178)** You've added the memory store resource to the configuration and tested it for correctness with Terraform validate.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=184)** Then you push the feature branch to GitHub.
+> **[3:04](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=184)** Then you push the feature branch to [[GitHub]].
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=186)** You're ready for the change to be merged into the main dev branch and deployed to the dev GCP project.
 >
@@ -3642,7 +3611,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=267)** The speculative plan is being run by the PR as a pre-commit check.
 >
-> **[4:31](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=271)** If the plan succeeds, we'll at least know that the configuration is syntactically valid and that Terraform Cloud was able to authenticate to Google Cloud to run the plan.
+> **[4:31](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=271)** If the plan succeeds, we'll at least know that the configuration is syntactically valid and that Terraform Cloud was able to authenticate to [[Google Cloud Platform (GCP)|Google Cloud]] to run the plan.
 >
 > **[4:40](https://www.linkedin.com/learning/advanced-terraform-18720794/gitops-ci-cd-with-terraform-cloud?u=76281980&t=280)** If there's an error for any reason the PR submitter will be notified.
 >
@@ -3748,7 +3717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (17), cloud (10), [[GitHub]] (10), [[Redis]] (6), application (4)
+> **Frameworks & Libraries:** [[Terraform]] (17), [[GitHub]] (10), [[Redis]] (6), [[Git]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **CLI Commands:** terraform (17), make (3), git (2)
 > **Tools:** github (10), terminal (1), gcp console (1)
 > **UI Navigation:** dropdown (4), go to (3), switch to (2), navigate to (1)
@@ -3757,14 +3726,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), setup (1), set up (1)
 > **Exercise Files:** exercise files (2)
 
-#### Deprecating resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980)
+#### [Deprecating resources](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=0)** - [Instructor] In this video, we're going to learn about deprecating resources.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=4)** Remember, that early in the course, in the destroying resources video, I mentioned that the Terraform destroy CLI command should never be used in a shared environment, especially higher environments like pre-prod and production.
+> **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=4)** Remember, that early in the course, in the destroying resources video, I mentioned that the [[Terraform]] destroy [[CLI]] command should never be used in a shared environment, especially higher environments like pre-prod and production.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=16)** That doesn't mean we can't remove resources from those environments.
 >
@@ -3774,15 +3742,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=29)** When resources in the state are removed from the configuration, the next plan command will include steps to remove those resources.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=37)** You'll need the resources from the GitHub's CICD video, deployed to your dev and QA environments to follow along.
+> **[0:37](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=37)** You'll need the resources from the [[GitHub]]'s CICD video, deployed to your dev and QA environments to follow along.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=44)** If you destroyed those resources, you can redeploy them in Terraform cloud, just by starting a run in both your dev and QA workspaces.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=53)** To make this a practical exercise, I've introduced another change to our configuration.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=57)** So far, the infrastructure has included web servers, an NGINX proxy, and a database VM.
+> **[0:57](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=57)** So far, the infrastructure has included [[Web Servers]], an NGINX proxy, and a database VM.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=63)** This is the lift and shift configuration we've been using, where the infrastructure in Google Cloud is a close match for the resources deployed in the on-prem data center.
+> **[1:03](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=63)** This is the lift and shift configuration we've been using, where the infrastructure in [[Google Cloud Platform (GCP)|Google Cloud]] is a close match for the resources deployed in the on-prem data center.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=71)** It works, but it's not optimized for the cloud.
 >
@@ -3800,7 +3768,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=102)** I'll include a link to a complete load balancer MIG sample configuration in the next steps resources, if you're looking for a challenge.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=109)** In your editor, execute git checkout 04_07.
+> **[1:49](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=109)** In your editor, execute [[Git]] checkout 04_07.
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=115)** Think of this branch as a new feature branch, as we discussed in the GitHub's video, the changes we're going to make, replacing our individual VMs with a managed instance group, are in this branch.
 >
@@ -3810,7 +3778,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=131)** You can see I've commented out the NGINX proxy, the custom web servers module that created our VMs, and the database VM.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=138)** We could replace the database VM with a cloud SQL instance, but they take a while to deploy, so we'll skip that.
+> **[2:18](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=138)** We could replace the database VM with a cloud [[SQL]] instance, but they take a while to deploy, so we'll skip that.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-terraform-18720794/deprecating-resources?u=76281980&t=144)** Feel free to add one yourself later if you'd like to experiment.
 >
@@ -3898,7 +3866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (7), [[GitHub]] (7), cloud (7), web (6), database (5)
+> **Frameworks & Libraries:** [[Terraform]] (7), [[GitHub]] (7), [[Web Servers]] (6), [[CLI]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** mig (8), gcp (5), nginx (3), cli (2), cicd (1)
 > **CLI Commands:** terraform (7), nginx (3), make (2), git (1), find (1)
 > **UI Navigation:** go to (6), switch to (2), dropdown (2), select the (1), scroll down (1)
@@ -3912,12 +3880,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=0)** - [David] Congratulations, you've just completed the next chapter in your journey with Terraform.
+> **[0:00](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=0)** - [David] Congratulations, you've just completed the next chapter in your journey with [[Terraform]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=4)** We've covered a lot of ground in this course.
 >
@@ -3929,15 +3896,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=13)** They grow and evolve over time, just like the applications they support.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=17)** Infrastructure as code is a proven technique for managing infrastructure evolution.
+> **[0:17](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=17)** [[Infrastructure as code (IaC)|Infrastructure as code]] is a proven technique for managing infrastructure evolution.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=22)** We've covered the internals of Terraform including the Terraform CLI, variables, functions, expressions, modules, and remote state.
+> **[0:22](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=22)** We've covered the internals of Terraform including the Terraform [[CLI]], variables, functions, expressions, modules, and remote state.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=32)** We've demonstrated how to automate Terraform.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=35)** Infrastructure can and should be developed and deployed using CI/CD pipelines.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=40)** There are many options for building CI/CD pipelines to work with Terraform, such as Jenkins, GitLab, Cloud Build, and GitHub Actions.
+> **[0:40](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=40)** There are many options for building CI/CD pipelines to work with Terraform, such as [[Jenkins]], GitLab, Cloud Build, and [[GitHub]] Actions.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=49)** Terraform Cloud is a great way to get started applying CI/CD to Terraform configurations.
 >
@@ -3951,7 +3918,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=70)** There are links here and in the exercise files to Terragrunt resources.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=74)** I've also included a full Terraform Cloud CI/CD bootstrap configuration, including instructions to provision Google Cloud projects with Terraform.
+> **[1:14](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=74)** I've also included a full Terraform Cloud CI/CD bootstrap configuration, including instructions to provision [[Google Cloud Platform (GCP)|Google Cloud]] projects with Terraform.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980&t=83)** I've also included some alternative CI/CD configurations based on GitHub Actions and Google Cloud Build.
 >
@@ -3965,7 +3932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (13), ci (5), cd (5), cloud (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (13), [[GitHub]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[CLI]] (1)
 > **CLI Commands:** terraform (13), cd (5)
 > **Tools:** github (2), gitlab (1)
 > **Cross-References:** next chapter (1), we discussed (1)

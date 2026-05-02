@@ -127,8 +127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze your data effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980)
+#### [Analyze your data effectively](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,20 +135,19 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=7)** Analyzing your organization's data effectively will help you assess situations accurately and make great decisions.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=13)** In this course, I will use real world examples to demonstrate how you can approach data analysis using techniques that you can implement in Excel.
+> **[0:13](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=13)** In this course, I will use real world examples to demonstrate how you can approach data analysis using techniques that you can implement in [[Microsoft Excel|Excel]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=22)** I'm Curt Frye.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=23)** Join me at LinkedIn Learning for an introduction to essential data analysis skills that will let you unlock the power of the data your company collects every day.
+> **[0:23](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980&t=23)** Join me at [[LinkedIn]] Learning for an introduction to essential data analysis skills that will let you unlock the power of the data your company collects every day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [curt] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,17 +159,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=15)** Data is laid out differently for every business, and the better that you're able to work with your own data, the more effective your analysis will be.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=24)** Also, you should know how to create formulas in Excel, specifically how to use relative and absolute references, that way when you copy formulas, some elements will change and some won't.
+> **[0:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=24)** Also, you should know how to create formulas in [[Microsoft Excel|Excel]], specifically how to use relative and absolute references, that way when you copy formulas, some elements will change and some won't.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=35)** You should also know how to create charts, specifically an XY scatter chart and also a histogram.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=43)** Finally, realize that Excel for Microsoft 365 updates regularly.
+> **[0:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=43)** Finally, realize that Excel for [[Microsoft 365]] updates regularly.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/what-you-should-know-before-starting-24044687?u=76281980&t=48)** What you see on your screen might be slightly different from what I show on mine, but be assured that everything is in the same place and you will have everything that you need to go ahead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), business (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -179,8 +177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate mean and median values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980)
+#### [Calculate mean and median values](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=19)** The dataset that I have in this workbook shows the number of days in transit for a number of shipments coming from overseas.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=29)** So you can see the first shipment arrived in 23 days, the next in 38, and the rest of the data shows the other days that were measured.
+> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=29)** So you can see the first shipment arrived in 23 days, the next in 38, and the [[Representational State Transfer (REST)|rest]] of the data shows the other days that were measured.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=39)** If you want to find the average or mean of that data, that would be the sum of all those values divided by the number of values.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=186)** One last thing about the median is that if you have an odd number of values, then the value in the middle of the sorted list is the median.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=195)** If you have an even number of values, then Excel takes the average of the two that are in the middle.
+> **[3:15](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=195)** If you have an even number of values, then [[Microsoft Excel|Excel]] takes the average of the two that are in the middle.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980&t=202)** So in A2 through A12, we have 11 values.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a12 (7), a13 (2)
 > **UI Navigation:** go to (7), select the (2)
 > **CLI Commands:** find (3), make (1)
@@ -287,8 +284,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Measure maximums, minimums, and other data characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/measure-maximums-minimums-and-other-data-characteristics-24046710?u=76281980)
+#### [Measure maximums, minimums, and other data characteristics](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/measure-maximums-minimums-and-other-data-characteristics-24046710?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +366,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Env Vars:** a40 (7), quartile (3), exc (2), a11 (2), inc (1)
 > **UI Navigation:** go to (3), scroll down (3)
 > **CLI Commands:** find (3), make (2)
@@ -378,8 +373,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze data using variance and standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980)
+#### [Analyze data using variance and standard deviation](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=81)** Press enter and I get 3,090 and we're rounding to whole numbers here.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=90)** Now I can copy that formula to the rest of the range.
+> **[1:30](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=90)** Now I can copy that formula to the [[Representational State Transfer (REST)|rest]] of the range.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=94)** So I'll click cell B4 and double click the fill handle at the bottom right corner of the cell and you can see that the formula has been copied down.
 >
@@ -485,13 +479,13 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=306)** And if I go down to cell F18 and type equal stdev.s again for the sample and A4 through A13, right parenthesis and tab, then we get a standard deviation of 2,666.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=324)** I wanted to show you the mechanics of how variants of standard deviation or calculated so you have an idea of what's going on when Excel makes those calculations for you.
+> **[5:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=324)** I wanted to show you the mechanics of how variants of standard deviation or calculated so you have an idea of what's going on when [[Microsoft Excel|Excel]] makes those calculations for you.
 >
 > **[5:36](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-data-using-variance-and-standard-deviation-24043677?u=76281980&t=336)** With variance of standard deviation in mind, you'll get a lot out of the rest of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a13 (3), c16 (3), c14 (2), b14 (1), c13 (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** find (1)
@@ -499,8 +493,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduce the central limit theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980)
+#### [Introduce the central limit theorem](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=44)** And you can see a curve of values on this graph.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=49)** And on the left, in the vertical axis, there is the probability of a specific value occurring.
+> **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=49)** And on the left, in the vertical axis, there is the [[Probability]] of a specific value occurring.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=54)** So you can see that the chance of getting exactly 100 is 2%.
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=117)** It doesn't mean they never occur, but it does mean that they are very rare.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=123)** To show you how this data works in practice, I will switch to an Excel workbook, which you can find in the exercise files collection to use a macro to generate random values and show you what it looks like in practice.
+> **[2:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=123)** To show you how this data works in practice, I will switch to an [[Microsoft Excel|Excel]] workbook, which you can find in the exercise files collection to use a macro to generate random values and show you what it looks like in practice.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-the-central-limit-theorem-24048666?u=76281980&t=135)** The workbook I'm using is 01_04_Central Limit Theorem.
 >
@@ -586,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), business (1), [[Probability]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Probability]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Versions:** 99.7 (1)
@@ -594,14 +587,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze a population using data samples
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980)
+#### [Analyze a population using data samples](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=0)** - [Instructor] When you gather data about your business, you will often analyze samples instead of an entire data set, and that's because gathering data can be very expensive, both in terms of money and time.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=13)** That said, you should gather as large a sample as you can, interview as many customers, review as many products to make sure that you have all the data that you need.
+> **[0:13](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=13)** That said, you should gather as large a sample as you can, interview as many customers, review as many [[Microsoft Products|products]] to make sure that you have all the data that you need.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=22)** More is better.
 >
@@ -641,7 +633,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=158)** If you can do it great, but 90 and 95% are much more common.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=163)** With all this in mind, let's switch over to Excel and calculate the margin of error for a data sample.
+> **[2:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=163)** With all this in mind, let's switch over to [[Microsoft Excel|Excel]] and calculate the margin of error for a data sample.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-population-using-data-samples-24044689?u=76281980&t=171)** I have switched over to Excel and my sample work book is 01_05 Margin of Error, and you can find it in the chapter one folder of the exercise files collection.
 >
@@ -671,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
 > **Versions:** 1.96 (3), 0.3 (2), 0.1 (2), 1.645 (1), 0.016 (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** sqrt (1)
@@ -680,12 +672,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify and minimize sources of error
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-and-minimize-sources-of-error-24049636?u=76281980)
+#### [Identify and minimize sources of error](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-and-minimize-sources-of-error-24049636?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-and-minimize-sources-of-error-24049636?u=76281980&t=0)** - [Instructor] Statistical analysis might seem like an exact science, but if you've ever tried to apply statistics to real life, you know that in fact, it is not.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-and-minimize-sources-of-error-24049636?u=76281980&t=0)** - [Instructor] [[Statistical Analysis]] might seem like an exact science, but if you've ever tried to apply [[Statistics]] to real life, you know that in fact, it is not.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-and-minimize-sources-of-error-24049636?u=76281980&t=9)** In this movie, I'd like to review a number of potential sources of error that might creep into your own analysis, because once you know what they are, you can do your best to avoid them.
 >
@@ -723,11 +714,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistical Analysis]] (1), [[Statistics]] (1), product (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Summarize and analyze business data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-summarize-and-analyze-business-data-24050667?u=76281980)
+#### [Challenge: Summarize and analyze business data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-summarize-and-analyze-business-data-24050667?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,15 +733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Summarize and analyze business data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-and-analyze-business-data-24048673?u=76281980)
+#### [Solution: Summarize and analyze business data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-and-analyze-business-data-24048673?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +827,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Versions:** 319.47 (1), 285.50 (1), 1072.25 (1), 569.75 (1), 1285.50 (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
@@ -851,8 +838,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Group data using histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980)
+#### [Group data using histograms](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980&t=16)** You can control the size of the bins and also the number, and you are able to select the bin count and size that works best for your data.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980&t=26)** Now let's switch over to Excel and I will show you how to create histograms in that program.
+> **[0:26](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980&t=26)** Now let's switch over to [[Microsoft Excel|Excel]] and I will show you how to create histograms in that program.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980&t=32)** My sample file is 02_01_Histogram, and you can find it in the Chapter Two folder of the Exercise Files collection.
 >
@@ -906,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** select the (2), scroll down (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
@@ -915,8 +901,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify relationships using XY scatter charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980)
+#### [Identify relationships using XY scatter charts](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980&t=22)** In this movie, I will show you how to create one.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980&t=25)** In the exercise files collection, you will find an Excel workbook called "O202 XY scatter," and that's an Excel workbook that contains the data that I will use in this movie.
+> **[0:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980&t=25)** In the exercise files collection, you will find an [[Microsoft Excel|Excel]] workbook called "O202 XY scatter," and that's an Excel workbook that contains the data that I will use in this movie.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/identify-relationships-using-xy-scatter-charts-24047700?u=76281980&t=36)** As you can see, I have two columns of data.
 >
@@ -954,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** o202 (1)
 > **UI Navigation:** go to (1)
@@ -963,8 +948,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize data using logarithmic scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980)
+#### [Visualize data using logarithmic scales](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980&t=25)** If you do need to work with data that contains extremely large values, then it makes sense to use logarithmic scales.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980&t=33)** And I will show you how to do that in a charge in Excel in this movie.
+> **[0:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980&t=33)** And I will show you how to do that in a charge in [[Microsoft Excel|Excel]] in this movie.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-data-using-logarithmic-scales-24047699?u=76281980&t=39)** My sample file is 0203 logarithmic scale, and you can find that in the chapter two folder of the exercise files collection.
 >
@@ -1062,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), power (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** a13 (1), b13 (1), b14 (1), b11 (1)
 > **Definitions:** means that (2), in other words (1), is a  (1)
 > **CLI Commands:** find (3)
@@ -1071,12 +1055,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructors] (1)
 
-#### Add trendlines to charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980)
+#### [Add trendlines to charts](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=0)** - [Instructor] Whenever you collect data in Microsoft Excel or another program, you should always examine it for trends.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=0)** - [Instructor] Whenever you collect data in [[Microsoft Excel]] or another program, you should always examine it for trends.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=6)** In this movie, I will show you how to examine your data visually by adding a trendline to a chart.
 >
@@ -1106,7 +1089,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=147)** If you want to change the format or appearance of your trendline, you can go to the Chart Elements control, point to Trendline, and then click the arrow that appears to the side and then click More Options.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=163)** That opens the Format Trendline task pane, and you can change elements of it, such as, for example, forecasting.
+> **[2:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=163)** That opens the Format Trendline task pane, and you can change elements of it, such as, for example, [[Forecasting]].
 >
 > **[2:51](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/add-trendlines-to-charts-24048668?u=76281980&t=171)** In this case, because we don't have time series data, it doesn't actually make sense to use a forecast for values outside of your data range.
 >
@@ -1120,7 +1103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel]] (1), [[Forecasting]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1129,8 +1112,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecast future results
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/forecast-future-results-24043682?u=76281980)
+#### [Forecast future results](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/forecast-future-results-24043682?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (1), next (1)
 > **UI Navigation:** select the (2), switch to (1), scroll down (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1255,8 +1236,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [presenter] (1)
 
-#### Calculate running averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980)
+#### [Calculate running averages](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1246,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=11)** You might collect sales broken down by month and then want to find a running total that is a total of all the months up to a particular month that is listed in the table.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=22)** In this movie, I will show you how to create Excel formulas that find running totals, running averages, and also three month running averages.
+> **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=22)** In this movie, I will show you how to create [[Microsoft Excel|Excel]] formulas that find running totals, running averages, and also three month running averages.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=32)** My sample file is an Excel workbook named 02_06_RunningAverage and you can find it in the chapter two folder of the exercise files collection.
 >
@@ -1290,7 +1270,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=91)** I want it to always look at B2 and then update the last cell in the column that's going to be included.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=99)** So I'll press F4 on Windows to make it an absolute reference with the dollar signs, then a colon and I'll type B2.
+> **[1:39](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=99)** So I'll press F4 on [[Windows]] to make it an absolute reference with the dollar signs, then a colon and I'll type B2.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-running-averages-24045729?u=76281980&t=109)** I will leave this reference relative so that it will change when I copy the formula.
 >
@@ -1370,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), next (2), [[Windows]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** c13 (2), average (1), e13 (1), b11 (1), b13 (1)
 > **Definitions:** is a  (1), is an  (1), in other words (1), refers to (1)
@@ -1379,8 +1359,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Summarize operational data visually
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-summarize-operational-data-visually-24050668?u=76281980)
+#### [Challenge: Summarize operational data visually](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-summarize-operational-data-visually-24050668?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1379,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1408,8 +1386,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Summarize operational data visually
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980)
+#### [Solution: Summarize operational data visually](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,7 +1408,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980&t=49)** So in D4, I'll type AVERAGE, and then I need to define my range of values, and I'll start in cell C4.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980&t=61)** I don't want this cell reference changing, so I'll press F4 on Windows.
+> **[1:01](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980&t=61)** I don't want this cell reference changing, so I'll press F4 on [[Windows]].
 >
 > **[1:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-summarize-operational-data-visually-24043678?u=76281980&t=66)** On the Mac, it would be Command + T.
 >
@@ -1503,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** average (1), c33 (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1517,12 +1494,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Formulate a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980)
+#### [Formulate a hypothesis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980&t=0)** - [Instructor] When you analyze your data using statistics, you should know what aspect of your data you want to test.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980&t=0)** - [Instructor] When you analyze your data using [[Statistics]], you should know what aspect of your data you want to test.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980&t=6)** The statement that embodies your test is called a hypothesis.
 >
@@ -1568,20 +1544,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (1), product (1), express (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret the results of your analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980)
+#### [Interpret the results of your analysis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=0)** - Businesses run on data, which is both good news and bad news.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=4)** The good news is that it has never been easier to collect data about your customers, products and sales.
+> **[0:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=4)** The good news is that it has never been easier to collect data about your customers, [[Microsoft Products|products]] and sales.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=10)** The bad news is that you still have to decide what all that data means.
 >
@@ -1599,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=55)** I've used the numbers I collected to calculate my standard error and what's called a Z-score.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=61)** The Z-score lets me calculate how likely it is my results were due to chance, and in this case, again, based on all my values, the probability is 2.35%.
+> **[1:01](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=61)** The Z-score lets me calculate how likely it is my results were due to chance, and in this case, again, based on all my values, the [[Probability]] is 2.35%.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-the-results-of-your-analysis-24046709?u=76281980&t=75)** And 2.35%, okay, is that good? Bad?
 >
@@ -1617,17 +1592,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (2), [[Microsoft Products|Products]] (1), web (1), business (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Products|Products]] (1)
 > **Versions:** 2.35 (3), 15.1 (1), 97.65 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - businesses (1)
 
-#### Consider the limits of hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980)
+#### [Consider the limits of hypothesis testing](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=0)** - [Narrator] As much as we'd like to think that statistics is an exact science, in fact, there's a lot of room for uncertainty.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=0)** - [Narrator] As much as we'd like to think that [[Statistics]] is an exact science, in fact, there's a lot of room for uncertainty.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=6)** In this movie, I want to go over some of the limits of hypothesis testing to give you some cautions about your data and your analysis.
 >
@@ -1635,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=24)** And if you've ever performed any type of analysis or even flipped a coin and gotten four or five tails in a row, then you know how likely it is that events can happen one out of 16, one out of 20, or even one out of 100 times.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=38)** Also, you might run into errors in data collection or analysis that can skew your results.
+> **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=38)** Also, you might run into errors in [[Data Collection]] or analysis that can skew your results.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/consider-the-limits-of-hypothesis-testing-24048669?u=76281980&t=44)** Some errors in data collection are not randomized in your samples or using old data, so make sure that your data is collected properly and that it isn't too old and that circumstances haven't changed to make the analysis invalid.
 >
@@ -1651,13 +1625,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Formulate and test a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-formulate-and-test-a-hypothesis-24043672?u=76281980)
+#### [Challenge: Formulate and test a hypothesis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-formulate-and-test-a-hypothesis-24043672?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1681,14 +1654,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Formulate and test a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-formulate-and-test-a-hypothesis-24045733?u=76281980)
+#### [Solution: Formulate and test a hypothesis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-formulate-and-test-a-hypothesis-24045733?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,7 +1695,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat entertaining music) (1)
@@ -1734,8 +1704,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980)
+#### [Use the normal distribution](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1730,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=60)** So that's 40 to 160.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=63)** To see how to work with these values in Excel, I'll switch over to our practice workbook.
+> **[1:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=63)** To see how to work with these values in [[Microsoft Excel|Excel]], I'll switch over to our practice workbook.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=68)** I've switched over to Excel and my sample file is 0401 normal, and you can find it in the chapter four folder of the exercise files collection.
 >
@@ -1769,7 +1738,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=85)** But let's ask some numerical questions of our data.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=88)** For example, we can calculate the probability of getting exactly 92.
+> **[1:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=88)** For example, we can calculate the [[Probability]] of getting exactly 92.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980&t=93)** So we have an average of 100, standard deviation of 20, 92 is close to the middle.
 >
@@ -1913,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (11), data (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (11), [[Microsoft Excel|Excel]] (2)
 > **Versions:** 34.46 (2), 65.54 (2), 74.37 (2), 99.7 (1), 1.84 (1)
 > **Definitions:** stands for (1), means that (1), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
@@ -1922,24 +1891,23 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use a uniform distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980)
+#### [Use a uniform distribution](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=0)** - [Presenter] Many business cases analyze events that are not equally likely.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=4)** Some products are more popular than others, and your website gets more visitors in certain parts of the day and less than others.
+> **[0:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=4)** Some [[Microsoft Products|products]] are more popular than others, and your website gets more visitors in certain parts of the day and less than others.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=11)** In this movie, I will show you how to generate random values when all of the events are equally likely, such as in a random drawing.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=19)** This is called the uniform distribution, and if there are four possible outcomes, values one through four, then in the uniform distribution, the probability of each would be 25%.
+> **[0:19](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=19)** This is called the uniform distribution, and if there are four possible outcomes, values one through four, then in the uniform distribution, the [[Probability]] of each would be 25%.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=31)** Now, over time, it is very unlikely that you will have the same number of values exactly, however, they will be close, and here is one case where I did a random generation of numbers from one to four, and here, you see the actual results.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=50)** So as with most things in life, theory and practice are often close, but do divert.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=56)** Now let's switch over to Excel, and I will show you how to work with values that are uniformly distributed.
+> **[0:56](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=56)** Now let's switch over to [[Microsoft Excel|Excel]], and I will show you how to work with values that are uniformly distributed.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-a-uniform-distribution-24043681?u=76281980&t=63)** The Excel workbook that I'm using is 04_02_Uniform, and you can find it in the chapter four folder of the exercise files collection.
 >
@@ -1997,7 +1965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** randbetween (3), b10 (3)
 > **Versions:** 0.166 (1), 0.33 (1), 0.666 (1), 0.81534 (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2006,16 +1974,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 
-#### Use the exponential distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980)
+#### [Use the exponential distribution](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=0)** - [Instructor] One of the most important pieces of information you can learn about your business operations is how long it takes to perform a specific task.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=0)** - [Instructor] One of the most important pieces of information you can learn about your [[Business Operations]] is how long it takes to perform a specific task.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=8)** For example, if you repair phone screens, you might find that the average time to repair is five minutes.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=16)** You can use the exponential distribution using that average of five, denoted here by LAMBDA, as part of the exponential distribution to determine the probability of a specific time.
+> **[0:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=16)** You can use the exponential distribution using that average of five, denoted here by LAMBDA, as part of the exponential distribution to determine the [[Probability]] of a specific time.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=30)** This is what the graph looks like, and it may seem odd that the average time of five only occurs about 7% of the time.
 >
@@ -2023,7 +1990,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=47)** However, those long duration repairs are offset by the much higher probability of having a repair taking one, two, three, four, or five minutes.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=58)** To see how this works in Excel, I will switch over to our sample workbook.
+> **[0:58](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=58)** To see how this works in [[Microsoft Excel|Excel]], I will switch over to our sample workbook.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=64)** I have opened our Excel sample file and that is 04_03_Exponential.
 >
@@ -2043,7 +2010,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=124)** So in cell B2, I'll type 1 divided by E1, and because I want this value to remain constant, the cell reference remain constant.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=136)** I'll press F4 on Windows, it's Command-T on the Mac, then a comma.
+> **[2:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=136)** I'll press F4 on [[Windows]], it's Command-T on the Mac, then a comma.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-exponential-distribution-24046706?u=76281980&t=144)** And I am looking for the probability density function or point probability.
 >
@@ -2097,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (11), [[Microsoft Excel|Excel]] (2), business (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Probability]] (11), [[Microsoft Excel|Excel]] (2), [[Business Operations]] (1), [[Windows]] (1)
 > **Env Vars:** lambda (7), expon (2), dist (2)
 > **Versions:** 30.22 (2), 0.1637 (1)
 > **CLI Commands:** find (2)
@@ -2106,14 +2073,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Use the Poisson distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980)
+#### [Use the Poisson distribution](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=0)** - [Instructor] If you analyze business data, and especially if you perform any kind of simulation, it's useful to know about the Poisson distribution.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=0)** - [Instructor] If you analyze business data, and especially if you perform any kind of [[Simulation]], it's useful to know about the Poisson distribution.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=9)** In this movie, I will describe the characteristics of that distribution and also show you how to use it in Excel.
+> **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=9)** In this movie, I will describe the characteristics of that distribution and also show you how to use it in [[Microsoft Excel|Excel]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=16)** The Poisson distribution uses an average, called Lambda, and it determines the amount of time between events occurring.
 >
@@ -2125,7 +2091,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=54)** And this distribution is called the Poisson distribution because it was created, or at least discovered, by a French mathematician by the name of Poisson.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=65)** The idea is that you want to calculate the probability of specific gaps between events, such as customers arriving.
+> **[1:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=65)** The idea is that you want to calculate the [[Probability]] of specific gaps between events, such as customers arriving.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=73)** I've already set up a worksheet with a number of values, and also my mean, or Lambda, which is seven.
 >
@@ -2149,7 +2115,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=116)** And I don't want that reference to change, so I'll press F4.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=120)** That's on Windows.
+> **[2:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=120)** That's on [[Windows]].
 >
 > **[2:02](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-poisson-distribution-24043680?u=76281980&t=122)** If you're on a Mac, it's Command+T.
 >
@@ -2215,7 +2181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (3), data (2), business (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (3), [[Simulation]] (1), [[Windows]] (1)
 > **UI Navigation:** double-click (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), such as (1)
@@ -2224,8 +2190,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 
-#### Use the binomial distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980)
+#### [Use the binomial distribution](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2237,13 +2202,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=26)** That is the number of customers who appear, and we can use those calculations to graph the likelihood of a specific number of customers signing up.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=37)** With that introduction, I'll switch over to Excel.
+> **[0:37](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=37)** With that introduction, I'll switch over to [[Microsoft Excel|Excel]].
 >
 > **[0:40](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=40)** My Excel sample file is 04_05_Binomial, and you can find it in the chapter four folder of the exercise files collection.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=49)** In this workbook, I have a worksheet with a graph that will show the signer percentage based on calculations we make in the table on the left.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=59)** We have the two pieces of information we need in column B, so in B1 which is already selected, I have the probability of success and we're assuming that a customer will be 35% likely to sign up for our company's mailing list if we present it to them, and we are going to work with 20 customers at a time.
+> **[0:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=59)** We have the two pieces of information we need in column B, so in B1 which is already selected, I have the [[Probability]] of success and we're assuming that a customer will be 35% likely to sign up for our company's mailing list if we present it to them, and we are going to work with 20 customers at a time.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-binomial-distribution-24044688?u=76281980&t=81)** And from there we can evaluate our data.
 >
@@ -2299,7 +2264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), data (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 0.35 (1), 96.97 (1), 99.995 (1)
 > **Definitions:** is called (1), is an  (1), in other words (1)
 > **CLI Commands:** find (1), make (1)
@@ -2307,8 +2272,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Model operational data using distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980)
+#### [Challenge: Model operational data using distributions](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2326,7 +2290,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980&t=38)** And you can see that I have a worksheet that tracks customers, so I have the interval between their arrivals, the arrival time, the service start, service time, the time the service is complete, and the wait time for the customer, if any.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980&t=54)** I won't go into the specifics of the lookup formulas but after you play with the worksheet and create the formulas to design a lookup table for both the Poisson and exponential distributions, when you recalculate your worksheet, you will see that we have essentially a simulation of customer arrivals and wait time at the end.
+> **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980&t=54)** I won't go into the specifics of the lookup formulas but after you play with the worksheet and create the formulas to design a lookup table for both the Poisson and exponential distributions, when you recalculate your worksheet, you will see that we have essentially a [[Simulation]] of customer arrivals and wait time at the end.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-model-operational-data-using-distributions-24043674?u=76281980&t=79)** This type of analysis is very useful for a business if you have a single station, in other words only one person or one group that can help customers.
 >
@@ -2338,15 +2302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Simulation]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Model operational data using distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980)
+#### [Solution: Model operational data using distributions](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,7 +2337,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=65)** You can see those highlighted over on the left.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=67)** Then a comma, and I do want to work with the cumulative distribution, so I'm looking for all the values below 119, not the point probability of getting 119 randomly.
+> **[1:07](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=67)** Then a comma, and I do want to work with the cumulative distribution, so I'm looking for all the values below 119, not the point [[Probability]] of getting 119 randomly.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=81)** So I'll do TRUE.
 >
@@ -2520,7 +2483,7 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=505)** This time we got 20 minutes of wait time, and you can see that we have a couple of cases with small intervals.
 >
-> **[8:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=513)** And even though we only had one long service time at the top, in fact it's the only one over 10, you can see how the backup went through the rest of the day.
+> **[8:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=513)** And even though we only had one long service time at the top, in fact it's the only one over 10, you can see how the backup went through the [[Representational State Transfer (REST)|rest]] of the day.
 >
 > **[8:43](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-model-operational-data-using-distributions-24046707?u=76281980&t=523)** So it goes to show, and I'm sure that you have experienced this in your own life that a small delay at the start of a day can lead to longer delays later.
 >
@@ -2530,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), data (2), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** norm (6), dist (5), true (5), inv (3), poisson (1)
 > **CLI Commands:** find (5), make (1)
 > **Versions:** 137.93 (1), 177.04 (1), 0.45 (1), 0.31 (1)
@@ -2544,8 +2507,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualize what covariance means
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-covariance-means-24048670?u=76281980)
+#### [Visualize what covariance means](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-covariance-means-24048670?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2593,14 +2555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate covariance between two columns of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-between-two-columns-of-data-24043679?u=76281980)
+#### [Calculate covariance between two columns of data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-between-two-columns-of-data-24043679?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2718,7 +2678,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** covariance (4), a11 (2), b11 (2), c12 (1), c11 (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 0.48 (2), 4.68 (1)
@@ -2726,9 +2685,9 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Calculate covariance among multiple pairs of columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980)
+#### [Calculate covariance among multiple pairs of columns](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2750,7 +2709,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980&t=42)** And I want to calculate the covariance of column 1 with itself.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980&t=49)** And no, this calculation doesn't make any sense in any real way, but what it will let us do is create formulas that we can copy to the rest of the cells in the worksheet.
+> **[0:49](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980&t=49)** And no, this calculation doesn't make any sense in any real way, but what it will let us do is create formulas that we can copy to the [[Representational State Transfer (REST)|rest]] of the cells in the worksheet.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-covariance-among-multiple-pairs-of-columns-24043675?u=76281980&t=60)** So in cell G2, I'll type an equal sign and I'll use covariance.s.
 >
@@ -2814,7 +2773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a11 (5), b11 (2), c11 (1), d11 (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** double-click (2), go to (2), select the (1)
@@ -2822,8 +2781,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize what correlation means
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980)
+#### [Visualize what correlation means](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2893,7 +2851,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980&t=186)** If your difference can be either positive or negative, then you have a two-tailed test.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980&t=192)** And then you look up the correlation value in a table, which you can find in statistics textbooks or online, and see what that looks like.
+> **[3:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980&t=192)** And then you look up the correlation value in a table, which you can find in [[Statistics]] textbooks or online, and see what that looks like.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-correlation-means-24043683?u=76281980&t=202)** And here is an example of a two-tailed correlation lookup table.
 >
@@ -2915,15 +2873,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), business (1), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** in other words (4), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
 > **Versions:** 0.1 (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate the correlation between two columns of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980)
+#### [Calculate the correlation between two columns of data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2975,7 +2932,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Versions:** 0.69 (3), 0.7 (1), 0.6948 (1), 0.1 (1), 0.05 (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** a12 (1), b12 (1)
@@ -2983,8 +2939,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate correlation among multiple pairs of columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980)
+#### [Calculate correlation among multiple pairs of columns](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3012,7 +2967,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=79)** And I want to make these references absolute or unchanging.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=84)** So I'll click in the middle of A3, press F4, that's on Windows.
+> **[1:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=84)** So I'll click in the middle of A3, press F4, that's on [[Windows]].
 >
 > **[1:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=88)** On the Mac, you would press Command T.
 >
@@ -3086,7 +3041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** a12 (8), correl (1), b12 (1), c12 (1), d12 (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (3)
@@ -3094,8 +3049,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculate correlations between  columns of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-calculate-correlations-between-columns-of-data-24048675?u=76281980)
+#### [Challenge: Calculate correlations between  columns of data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-calculate-correlations-between-columns-of-data-24048675?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3121,7 +3075,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** i10 (1)
 > **Cross-References:** in the next (1)
@@ -3130,8 +3083,7 @@ created: 2026-05-02
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Calculate correlations between columns of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980)
+#### [Solution: Calculate correlations between columns of data](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3179,7 +3131,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980&t=154)** So I'll start by clicking on cell G8.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980&t=158)** And I want to create a formula that will calculate the correlation of the customers column, column A with itself, and I'll be able to copy that formula throughout the rest of the grid and find correlations between every pair of columns.
+> **[2:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980&t=158)** And I want to create a formula that will calculate the correlation of the customers column, column A with itself, and I'll be able to copy that formula throughout the [[Representational State Transfer (REST)|rest]] of the grid and find correlations between every pair of columns.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-correlations-between-columns-of-data-24044690?u=76281980&t=174)** So in G8, I'll type = and then correl, C-O-R-R-E-L.
 >
@@ -3233,7 +3185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a12 (7), b12 (4), g10 (2), covariance (1), c12 (1)
 > **Versions:** 0.84 (2), 023.16 (1), 0.842 (1), 0.126 (1)
 > **CLI Commands:** find (2)
@@ -3247,12 +3199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate simple probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980)
+#### [Calculate simple probabilities](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=0)** - [Instructor] One thing you can do in Microsoft Excel when analyzing business scenarios is calculate the probability that something will happen.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=0)** - [Instructor] One thing you can do in [[Microsoft Excel]] when analyzing business scenarios is calculate the [[Probability]] that something will happen.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=8)** In this movie, I will give you a quick review of how to calculate simple probabilities.
 >
@@ -3270,21 +3221,20 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=66)** So the probability of success is 83.33%, and you can also think of that in terms of odds as five to one in your favor.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=76)** Calculating simple probabilities is fairly straightforward, and you can create simple Excel formulas in your worksheets to calculate those odds if need be.
+> **[1:16](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980&t=76)** Calculating simple probabilities is fairly straightforward, and you can create simple [[Microsoft Excel|Excel]] formulas in your worksheets to calculate those odds if need be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Excel]] (1), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 16.67 (1), 83.33 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate compound probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-compound-probabilities-24047696?u=76281980)
+#### [Calculate compound probabilities](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-compound-probabilities-24047696?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-compound-probabilities-24047696?u=76281980&t=0)** - [Instructor] In the previous movie, I described how to calculate simple probabilities, that is the probability of a single trial.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-compound-probabilities-24047696?u=76281980&t=0)** - [Instructor] In the previous movie, I described how to calculate simple probabilities, that is the [[Probability]] of a single trial.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-compound-probabilities-24047696?u=76281980&t=8)** In this movie, I will describe compound probabilities.
 >
@@ -3331,8 +3281,7 @@ created: 2026-05-02
 > **Definitions:** in other words (3), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate expected value
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980)
+#### [Calculate expected value](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3352,7 +3301,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=41)** You can then calculate the expected value for each of these scenarios.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=46)** To do that, you multiply the probability by the value.
+> **[0:46](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=46)** To do that, you multiply the [[Probability]] by the value.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=50)** So the expected value for scenario 1, which is 30% likely with a $5,000 value, is 30% times 5,000 equals 1500.
 >
@@ -3364,7 +3313,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=84)** So if you're evaluating an investment, this appears to be a good way to spend your money, unless you can find something better to do.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=91)** Now switch over to Excel so that we can see how to implement this in a worksheet.
+> **[1:31](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=91)** Now switch over to [[Microsoft Excel|Excel]] so that we can see how to implement this in a worksheet.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=97)** I have switched over to my Excel sample file, and that is 06_03_Expected Value.
 >
@@ -3394,14 +3343,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), business (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** alt (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate permutations without duplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980)
+#### [Calculate permutations without duplication](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3421,7 +3369,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980&t=46)** One question you can ask about permutations without duplication is how many unique orders are possible when choosing three out of eight people with no repeats?
 >
-> **[0:57](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980&t=57)** I'll switch over to Excel and show you how to set up this type of problem in your workbook.
+> **[0:57](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980&t=57)** I'll switch over to [[Microsoft Excel|Excel]] and show you how to set up this type of problem in your workbook.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-without-duplication-24046711?u=76281980&t=63)** I've switched over to Excel and I have opened the sample file for this movie.
 >
@@ -3451,7 +3399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (1), short for (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** find (1)
@@ -3460,8 +3408,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate permutations with duplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980)
+#### [Calculate permutations with duplication](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3485,7 +3432,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980&t=50)** So our question here is how do we calculate the number of unique orders that are possible when choosing three of eight people when repetition is allowed?
 >
-> **[0:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980&t=59)** To demonstrate the process, I will switch over to our Excel sample file.
+> **[0:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980&t=59)** To demonstrate the process, I will switch over to our [[Microsoft Excel|Excel]] sample file.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-permutations-with-duplication-24045731?u=76281980&t=64)** I'm now in Excel and I've opened our sample workbook, which is "06_05 Permutations With Duplication."
 >
@@ -3526,8 +3473,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [presenter] (1)
 
-#### Calculate combinations without duplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980)
+#### [Calculate combinations without duplication](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3535,7 +3481,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=10)** In this movie, I will describe combinations where order doesn't matter.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=14)** As an example, assume that you have five products and you draw from them to create gift baskets or samples for potential customers.
+> **[0:14](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=14)** As an example, assume that you have five [[Microsoft Products|products]] and you draw from them to create gift baskets or samples for potential customers.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=24)** So the question is, if you had five items and you take three and you do not allow duplication, how many possible different combinations do you have?
 >
@@ -3547,7 +3493,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=52)** So our goal is to calculate how many unique groups are possible when choosing three to five products without allowing repetition.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=62)** To demonstrate, I will switch over to Excel.
+> **[1:02](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=62)** To demonstrate, I will switch over to [[Microsoft Excel|Excel]].
 >
 > **[1:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-without-duplication-24048667?u=76281980&t=65)** I have opened this movie's Excel sample file, and it is oh 06_06_Combinations Without Duplication.
 >
@@ -3587,15 +3533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** combin (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate combinations with duplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980)
+#### [Calculate combinations with duplication](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3613,9 +3558,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=51)** So how are we going to approach this?
 >
-> **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=54)** Well, the idea is that we need to determine how many unique groups are possible when choosing three of five products when repetition is allowed.
+> **[0:54](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=54)** Well, the idea is that we need to determine how many unique groups are possible when choosing three of five [[Microsoft Products|products]] when repetition is allowed.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=64)** To demonstrate the process, I'll switch over to Excel.
+> **[1:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=64)** To demonstrate the process, I'll switch over to [[Microsoft Excel|Excel]].
 >
 > **[1:07](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-combinations-with-duplication-24050671?u=76281980&t=67)** I have switched over to this movie's Excel sample file.
 >
@@ -3660,8 +3605,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculate the expected value of a business scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-calculate-the-expected-value-of-a-business-scenario-24047697?u=76281980)
+#### [Challenge: Calculate the expected value of a business scenario](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-calculate-the-expected-value-of-a-business-scenario-24047697?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3681,14 +3625,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Calculate the expected value of a business scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980)
+#### [Solution: Calculate the expected value of a business scenario](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3696,7 +3638,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980&t=14)** And our goal is to calculate the expected value of each of the scenarios and then also for the entire project.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980&t=22)** So I'll start in cell D2, and the expected value of a particular scenario is the probability multiplied by the value.
+> **[0:22](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980&t=22)** So I'll start in cell D2, and the expected value of a particular scenario is the [[Probability]] multiplied by the value.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-calculate-the-expected-value-of-a-business-scenario-24044686?u=76281980&t=33)** So in D2, I'll type equal and I have B2 times C2 and Enter.
 >
@@ -3738,7 +3680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), business (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 23.5 (1)
 > **Definitions:** is a  (1)
@@ -3751,12 +3693,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce Bayesian analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980)
+#### [Introduce Bayesian analysis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=0)** - [Instructor] Previously, in this course, I have discussed what are known as descriptive statistics.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=0)** - [Instructor] Previously, in this course, I have discussed what are known as descriptive [[Statistics]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=5)** Descriptive statistics, as the name implies, provide facts about your data.
 >
@@ -3780,7 +3721,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=78)** We also have a base rate, which assumes that about 1% of the population actually has the flu at the time you take the test.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=88)** So the question is, what is the probability that you actually have the flu?
+> **[1:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=88)** So the question is, what is the [[Probability]] that you actually have the flu?
 >
 > **[1:33](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=93)** For this, we use Bayes' rule.
 >
@@ -3788,19 +3729,18 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=100)** So if 1% of the population has the flu and the test is 85% accurate, but there's also a 10% false-positive rate, a positive test means the probability that you actually have the flu is: 7.91%.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=120)** How we got to that number is the subject of the rest of this chapter.
+> **[2:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980&t=120)** How we got to that number is the subject of the [[Representational State Transfer (REST)|rest]] of this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), data (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), in other words (1)
 > **Analogies:** such as (1), for example (1)
 > **Versions:** 7.91 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze a sample problem: Kahneman’s Cabs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980)
+#### [Analyze a sample problem: Kahneman’s Cabs](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3822,7 +3762,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=66)** If there are any attorneys watching this video, don't worry, this is merely an example and it's not meant to be taken as a reflection of witness reliability in the real world.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=80)** So your question is, what is the probability that the cab involved in the accident was actually blue rather than green?
+> **[1:20](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=80)** So your question is, what is the [[Probability]] that the cab involved in the accident was actually blue rather than green?
 >
 > **[1:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=89)** So we're looking at the probabilities for blue versus green.
 >
@@ -3866,25 +3806,24 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=230)** So we have 0.12 divided by 0.12 plus 0.17, and that leads to a result of 0.41.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=239)** In the next movie, I will show you how to create what is called a classification matrix so we can get the values that we need to perform this calculation in Excel.
+> **[3:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-a-sample-problem-kahneman-s-cabs-24050670?u=76281980&t=239)** In the next movie, I will show you how to create what is called a classification matrix so we can get the values that we need to perform this calculation in [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Probability]] (2), hit (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.12 (5), 0.17 (3), 0.85 (2), 0.8 (1), 0.68 (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a classification matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980)
+#### [Create a classification matrix](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you a way to draw a graph that visualizes the way probability is combined to perform Bayesian analysis.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you a way to draw a graph that visualizes the way [[Probability]] is combined to perform Bayesian analysis.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980&t=9)** In this movie, I will show you how to create a classification matrix, which will take us one step closer to implementing this analysis in Excel.
+> **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980&t=9)** In this movie, I will show you how to create a classification matrix, which will take us one step closer to implementing this analysis in [[Microsoft Excel|Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/create-a-classification-matrix-24050674?u=76281980&t=17)** So let's review what we know about our base rates and our accuracy.
 >
@@ -3936,17 +3875,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.85 (1), 0.8 (1), 0.12 (1), 0.17 (1), 0.03 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate Bayesian probabilities in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980)
+#### [Calculate Bayesian probabilities in Excel](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=0)** - [Instructor] Microsoft Excel worksheets are very well suited to performing Bayesian analysis.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=0)** - [Instructor] [[Microsoft Excel]] worksheets are very well suited to performing Bayesian analysis.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=5)** In this movie, I will show you how to implement our analysis of the Kahneman's Cabs problem.
 >
@@ -3964,7 +3902,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=56)** So 80, and Enter.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=60)** Now we can find the probability cab is green or blue, and then the probability of the witness is correct or incorrect.
+> **[1:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=60)** Now we can find the [[Probability]] cab is green or blue, and then the probability of the witness is correct or incorrect.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-bayesian-probabilities-in-excel-24048672?u=76281980&t=67)** So in B6, we need the probability that the cab is actually green.
 >
@@ -4064,38 +4002,36 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Perform a Bayesian analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980)
+#### [Challenge: Perform a Bayesian analysis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=5)** - [Instructor] Throughout this chapter, I have shown you how to perform Bayesian analysis in Excel.
+> **[0:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=5)** - [Instructor] Throughout this chapter, I have shown you how to perform Bayesian analysis in [[Microsoft Excel|Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=10)** In this movie, I would like to challenge you to solve a problem on your own using the techniques that you learned earlier.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=17)** Let's assume that a museum is reviewing objects in a particular collection, and it has determined, unfortunately, that only about 70% of the items in that collection are genuine and the rest are counterfeit.
+> **[0:17](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=17)** Let's assume that a museum is reviewing objects in a particular collection, and it has determined, unfortunately, that only about 70% of the items in that collection are genuine and the [[Representational State Transfer (REST)|rest]] are counterfeit.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=32)** Also, it believes, based on this experience, that the appraisers and curators will be correcting their identification 90% of the time, whether an object is genuine or counterfeit.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=44)** So your goal is to fill in this worksheet and to determine the probability that an item is genuine when reported genuine, and also when it is reported counterfeit and actually counterfeit.
+> **[0:44](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=44)** So your goal is to fill in this worksheet and to determine the [[Probability]] that an item is genuine when reported genuine, and also when it is reported counterfeit and actually counterfeit.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-a-bayesian-analysis-24050669?u=76281980&t=59)** I hope you enjoy this problem, and I will come back in the next movie to show you how I would solve it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Probability]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Perform a Bayesian analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980)
+#### [Solution: Perform a Bayesian analysis](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=0)** - [Instructor] In the previous movie I described a problem where you will determine the probability an item is genuine when it's reported genuine and an item is counterfeit when reported counterfeit by museum appraisers and curators based on the base rate of genuine items comprising 70% of the collection and an appraiser accuracy rate of 90%.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=0)** - [Instructor] In the previous movie I described a problem where you will determine the [[Probability]] an item is genuine when it's reported genuine and an item is counterfeit when reported counterfeit by museum appraisers and curators based on the base rate of genuine items comprising 70% of the collection and an appraiser accuracy rate of 90%.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=27)** So let's go ahead and fill in the worksheet and perform our calculations.
 >
@@ -4193,7 +4129,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=302)** I hope you enjoyed this problem.
 >
-> **[5:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=304)** Bayesian analysis is very different from other types analysis that we typically do in Excel.
+> **[5:04](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=304)** Bayesian analysis is very different from other types analysis that we typically do in [[Microsoft Excel|Excel]].
 >
 > **[5:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-a-bayesian-analysis-24049635?u=76281980&t=309)** So don't worry if you didn't get it right on the first time.
 >
@@ -4213,8 +4149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-linear-regression?u=76281980)
+#### [Introduce linear regression](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4270,20 +4205,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **CLI Commands:** find (3)
 > **Versions:** 220.78 (2), 13.15 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable the Analysis ToolPak add-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980)
+#### [Enable the Analysis ToolPak add-in](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980&t=0)** - [Instructor] When you're ready to perform linear regression in Microsoft Excel, you need to install the Analysis ToolPak add-in, and in this movie I will show you how to do that.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980&t=0)** - [Instructor] When you're ready to perform [[Linear Regression]] in [[Microsoft Excel]], you need to install the Analysis ToolPak add-in, and in this movie I will show you how to do that.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980&t=11)** You don't need to use a sample file, so I've just opened a blank Excel workbook, and I will walk you through the process now.
+> **[0:11](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980&t=11)** You don't need to use a sample file, so I've just opened a blank [[Microsoft Excel|Excel]] workbook, and I will walk you through the process now.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/enable-the-analysis-toolpak-add-in?u=76281980&t=20)** To add the Analysis ToolPak add-in, go to the File tab, and then at the very bottom of the categories click Options.
 >
@@ -4309,19 +4242,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Linear Regression]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform linear regression on a single variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-linear-regression-on-a-single-variable?u=76281980)
+#### [Perform linear regression on a single variable](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-linear-regression-on-a-single-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-linear-regression-on-a-single-variable?u=76281980&t=0)** - [Instructor] When you have collected data that can be used for linear regression, you can analyze it using the data analysis tool pack add in in Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-linear-regression-on-a-single-variable?u=76281980&t=0)** - [Instructor] When you have collected data that can be used for [[Linear Regression]], you can analyze it using the data analysis tool pack add in in [[Microsoft Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-linear-regression-on-a-single-variable?u=76281980&t=10)** In this movie, I will show you how to do that.
 >
@@ -4381,7 +4313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Linear Regression]] (2), [[Microsoft Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Microsoft Excel]] (1)
 > **UI Navigation:** select the (3), scroll down (2), go to (1)
 > **Env Vars:** b32 (1), a32 (1)
 > **CLI Commands:** find (1)
@@ -4389,12 +4321,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret linear regression results
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980)
+#### [Interpret linear regression results](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=0)** - [Instructor] In the previous movie, we used the Analysis Toolpak's regression feature to perform linear regression on a set of variables.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=0)** - [Instructor] In the previous movie, we used the Analysis Toolpak's regression feature to perform [[Linear Regression]] on a set of variables.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=9)** We had an independent variable of the number of customers that came into a store and a dependent variable on the sales from those customers.
 >
@@ -4406,7 +4337,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=36)** The original data is still on Sheet1, which you can see here, and the results of the analysis are on Sheet2.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=46)** At the top, we have our regression statistics.
+> **[0:46](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=46)** At the top, we have our regression [[Statistics]].
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/interpret-linear-regression-results?u=76281980&t=50)** The first is multiple R, that's in cell B4.
 >
@@ -4460,7 +4391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (5), data (5), next (2), feature (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), [[Statistics]] (1)
 > **Definitions:** is a  (4), in other words (2)
 > **Versions:** 0.71 (1), 0.05 (1), 8.49 (1)
 > **CLI Commands:** find (1), make (1)
@@ -4468,12 +4399,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform multiple regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980)
+#### [Perform multiple regression](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=0)** - [Instructor] Earlier in this chapter, we used linear regression to examine two sets of data: an independent variable, the number of customers; and a dependent variable, sales for the day; which we believed was influenced at least in part by the number of customers.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=0)** - [Instructor] Earlier in this chapter, we used [[Linear Regression]] to examine two sets of data: an independent variable, the number of customers; and a dependent variable, sales for the day; which we believed was influenced at least in part by the number of customers.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=18)** In this movie, I will show you how to perform a similar analysis using two independent variables and how they affect sales, which, again, is our dependent variable.
 >
@@ -4539,7 +4469,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=252)** Now let's go down to our results down below and look at the effect of customers and postcards separately.
 >
-> **[4:23](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=263)** I'll start with customers, and here we look at the probability that customers are significant by examining the P-value.
+> **[4:23](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=263)** I'll start with customers, and here we look at the [[Probability]] that customers are significant by examining the P-value.
 >
 > **[4:32](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/perform-multiple-regression?u=76281980&t=272)** And here the P value is 3.03 times E to the minus 6, which is a very small result.
 >
@@ -4555,7 +4485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linear Regression]] (2), next (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Probability]] (1)
 > **UI Navigation:** go to (2), scroll down (2), scroll up (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** c32 (1), b32 (1)
@@ -4564,12 +4494,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Perform linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-linear-regression?u=76281980)
+#### [Challenge: Perform linear regression](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-linear-regression?u=76281980&t=0)** - [Instructor] In this chapter, I have demonstrated how to perform linear regression.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-linear-regression?u=76281980&t=0)** - [Instructor] In this chapter, I have demonstrated how to perform [[Linear Regression]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/challenge-perform-linear-regression?u=76281980&t=5)** In this movie, I would like to challenge you to perform linear regression on a new data set.
 >
@@ -4587,15 +4516,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (3), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Perform linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980)
+#### [Solution: Perform linear regression](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4607,7 +4535,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=25)** Then I'll click the add-ins category.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=29)** Bo all the way down to the bottom, and next to Manage, I should see Excel add-ins.
+> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=29)** Bo all the way down to the bottom, and next to Manage, I should see [[Microsoft Excel|Excel]] add-ins.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=35)** If I didn't, then I could click the down arrow and select it from the list, then click go.
 >
@@ -4665,7 +4593,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=252)** So I'll go down to row 18 where customers is and select the P value cell, which is E-18.
 >
-> **[4:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=261)** The P value for customers is 1.8 times E to the minus six, and in scientific notation, that means we have zero, then the decimal point, followed by six zeroes, followed by 1.8, and the rest of the numbers you see there.
+> **[4:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=261)** The P value for customers is 1.8 times E to the minus six, and in scientific notation, that means we have zero, then the decimal point, followed by six zeroes, followed by 1.8, and the [[Representational State Transfer (REST)|rest]] of the numbers you see there.
 >
 > **[4:39](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/solution-perform-linear-regression?u=76281980&t=279)** In general, the P value is considered to be significant if it is 0.05 or below.
 >
@@ -4677,7 +4605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 1.8 (2), 0.05 (2), 0.74 (1), 0.6 (1)
 > **UI Navigation:** go to (1), scroll down (1), checkbox (1), scroll up (1), select the (1)
@@ -4691,8 +4619,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4702,7 +4629,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=10)** I have three books in mind for you.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=12)** The first is "Statistics for People Who (Think They) Hate Statistics," by Neil Salkind, who is a professor at the University of Kansas.
+> **[0:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=12)** The first is "[[Statistics]] for People Who (Think They) Hate Statistics," by Neil Salkind, who is a professor at the University of Kansas.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=21)** It's a terrific book, and even though it's a little bit older, it's worth looking for.
 >
@@ -4710,15 +4637,15 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=31)** It's a terrific book that presents material visually, so it's a little bit different approach from Neil's book.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=38)** And finally, "Data Analysis and Business Modeling" by Wayne Winston, published by Microsoft Press.
+> **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=38)** And finally, "Data Analysis and Business Modeling" by Wayne Winston, published by [[Microsoft]] Press.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=45)** This book is available in several different editions, so if you're looking to save money, a used copy will do you just fine.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=53)** Thanks again for your interest in this course, and I hope you have fun analyzing data in Excel.
+> **[0:53](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980&t=53)** Thanks again for your interest in this course, and I hope you have fun analyzing data in [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (2), next (1), business (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 

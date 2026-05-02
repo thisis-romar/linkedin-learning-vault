@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
+#### [Getting started with trees](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,13 +96,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=20)** I mean literal hands-on work with trees.
 >
-> **[0:24](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=24)** Along the way, we'll be writing our own tree library in Python from scratch.
+> **[0:24](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=24)** Along the way, we'll be writing our own tree library in [[Python (Programming Language)|Python]] from scratch.
 >
-> **[0:28](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=28)** You'll gain an intuitive understanding of the algorithms that underpin one of the most commonly used trees in computer science, the binary search tree.
+> **[0:28](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=28)** You'll gain an intuitive understanding of the [[Algorithms]] that underpin one of the most commonly used trees in computer science, the binary search tree.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=36)** I'll walk you through adding, deleting, traversing, and searching nodes, inspecting, rotating, and rebalance entries.
 >
-> **[0:42](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=42)** By the end of this course, you'll have comprehensive knowledge that will allow you to work with and integrate these data structures into your own code.
+> **[0:42](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=42)** By the end of this course, you'll have comprehensive knowledge that will allow you to work with and integrate these [[Data Structures]] into your own code.
 >
 > **[0:49](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980&t=49)** So, if you haven't used them before or just want to refresher you're in for a treat.
 >
@@ -119,13 +118,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=22)** Logarithms, and exponents, and sets often come up with trees, here I've tried to keep things really concrete and only use or imply a particular equation when it's necessary.
 >
-> **[0:32](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=32)** And in such a way that it's understanding, isn't critical for the rest of the series.
+> **[0:32](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=32)** And in such a way that it's understanding, isn't critical for the [[Representational State Transfer (REST)|rest]] of the series.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=36)** And of course the jokes will be bad because I'm an engineer, not a comedian.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=68)** And if you get something out of the coding parts, that's cool too.
 >
-> **[1:11](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=71)** Maybe you'll be inspired to pick up a little Python by the end.
+> **[1:11](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=71)** Maybe you'll be inspired to pick up a little [[Python (Programming Language)|Python]] by the end.
 >
 > **[1:15](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=75)** But for everyone to get the most out of the series, you really going to want to know basic Python, have Python three installed on your machine and ready to go.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=96)** And that's about it.
 >
-> **[1:38](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=98)** Trees are what I like to think of as one of the simple or fundamental data structures of computer science, sort of like how mechanical engineering has the simple machines.
+> **[1:38](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=98)** Trees are what I like to think of as one of the simple or fundamental [[Data Structures]] of computer science, sort of like how mechanical engineering has the simple machines.
 >
 > **[1:48](https://www.linkedin.com/learning/python-data-structures-trees/what-you-should-know?u=76281980&t=108)** You know, the wedge, the screw, the pulley, in software engineering, we have the graph, the link list, the tree.
 >
@@ -177,16 +175,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), career (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### BSTs and other trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980)
+#### [BSTs and other trees](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=0)** - [Instructor] This section is perhaps the most crucial because it forms the absolute foundation of everything we're going to explore throughout this course.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=0)** - [Instructor] This section is perhaps the most crucial because it [[Forms]] the absolute foundation of everything we're going to explore throughout this course.
 >
 > **[0:07](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=7)** But it's also one of the easiest, just a few basic concepts to grasp.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=117)** And this is a special kind of tree called a trie.
 >
-> **[2:00](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=120)** And it's actually often used for things like word look-ups.
+> **[2:00](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=120)** And it's actually often used for things like [[Microsoft Word|word]] look-ups.
 >
 > **[2:04](https://www.linkedin.com/learning/python-data-structures-trees/bsts-and-other-trees?u=76281980&t=124)** But the kind of tree that we're going to be talking about is the binary search tree.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), data (5), [[Search]] (4), [[Forms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (13), make (4), find (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for example (3)
@@ -280,8 +277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a basic tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
+#### [Building a basic tree](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=146)** Okay.
 >
-> **[2:28](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=148)** We can run it with Python.
+> **[2:28](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=148)** We can run it with [[Python (Programming Language)|Python]].
 >
 > **[2:31](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=151)** Great, so this printed out the 15 and the 10,000.
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=175)** Trees are recursive, it's new trees all the way down.
 >
-> **[2:59](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=179)** So in order to avoid confusion around what we're considering to be an official tree, maybe add some metadata or helper functions.
+> **[2:59](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=179)** So in order to avoid confusion around what we're considering to be an official tree, maybe add some [[Metadata]] or helper functions.
 >
 > **[3:09](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980&t=189)** What we can do is make a really nice simple wrapper class called class tree.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (24), data (14), [[Search]] (2), [[Metadata]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (24), python (1), make (1)
 > **Code Identifiers:** mytree (2)
 > **Cross-References:** in the last (2)
@@ -390,8 +386,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Searching a tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980)
+#### [Searching a tree](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980&t=149)** It can't keep going, so it's just going to return none.
 >
-> **[2:32](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980&t=152)** Remember in Python, there's always an invisible return none at the end.
+> **[2:32](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980&t=152)** Remember in [[Python (Programming Language)|Python]], there's always an invisible return none at the end.
 >
 > **[2:36](https://www.linkedin.com/learning/python-data-structures-trees/searching-a-tree?u=76281980&t=156)** So let's just add a print statement, letting us know that it didn't find anything.
 >
@@ -495,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), node (10), data (7), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (10), find (3), make (1), python (1)
 > **UI Navigation:** go to (2)
 > **Versions:** node 10 (1)
@@ -503,8 +498,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traversing a tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980)
+#### [Traversing a tree](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +596,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980&t=309)** So there you have it.
 >
-> **[5:11](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980&t=311)** And if you think we're done with recursive algorithms on trees, think again.
+> **[5:11](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980&t=311)** And if you think we're done with recursive [[Algorithms]] on trees, think again.
 >
 > **[5:15](https://www.linkedin.com/learning/python-data-structures-trees/traversing-a-tree?u=76281980&t=315)** We're going to be doing something a little similar to this in the next section, looking at the heights of trees.
 >
@@ -610,15 +604,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (16), next (3), [[Search]] (1), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (16), find (1), make (1)
 > **Code Identifiers:** traverseinorder (4), traversepre (3), traversepostorder (2), traversepreorder (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting the maximum height of a tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980)
+#### [Getting the maximum height of a tree](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +679,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980&t=166)** So, there you go.
 >
-> **[2:47](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980&t=167)** Three lines of Python, just like I promised.
+> **[2:47](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980&t=167)** Three lines of [[Python (Programming Language)|Python]], just like I promised.
 >
 > **[2:50](https://www.linkedin.com/learning/python-data-structures-trees/getting-the-maximum-height-of-a-tree?u=76281980&t=170)** If you think it's too good to be true, let's try it out.
 >
@@ -716,14 +709,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (9), find (2), python (1), make (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting all nodes at a particular depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-all-nodes-at-a-particular-depth?u=76281980)
+#### [Getting all nodes at a particular depth](https://www.linkedin.com/learning/python-data-structures-trees/getting-all-nodes-at-a-particular-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +829,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (3), power (2), data (1)
 > **CLI Commands:** node (7), make (2), find (1)
 > **Code Identifiers:** getnodesatdepth (8), getnodesatdepth2 (1), getnodesatdepth3 (1)
 > **Analogies:** similar to (2), imagine (1)
@@ -845,8 +836,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Printing a tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/challenge-printing-a-tree?u=76281980)
+#### [Challenge: Printing a tree](https://www.linkedin.com/learning/python-data-structures-trees/challenge-printing-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,8 +866,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Printing a tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/solution-printing-a-tree?u=76281980)
+#### [Solution: Printing a tree](https://www.linkedin.com/learning/python-data-structures-trees/solution-printing-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +956,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), node (5), data (3), feature (1)
 > **CLI Commands:** node (5), make (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Prerequisites:** before you begin (1)
@@ -979,8 +967,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
+#### [Adding nodes](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,13 +1043,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), node (5), [[Search]] (3), functional (1)
 > **CLI Commands:** node (5), find (2), make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting nodes: Theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/deleting-nodes-theory?u=76281980)
+#### [Deleting nodes: Theory](https://www.linkedin.com/learning/python-data-structures-trees/deleting-nodes-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (14), next (1)
 > **CLI Commands:** node (14), find (4), make (3)
 > **Env Vars:** rtfm (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -1133,8 +1117,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting nodes: Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/deleting-nodes-code?u=76281980)
+#### [Deleting nodes: Code](https://www.linkedin.com/learning/python-data-structures-trees/deleting-nodes-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,7 +1241,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (3), next (1)
 > **CLI Commands:** find (5), make (4), node (3)
 > **Code Identifiers:** findmin (3), minvalue (3)
 > **Cross-References:** in the last (2), next video (1)
@@ -1267,8 +1249,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - okay (1)
 > **Analogies:** just like (1)
 
-#### Detecting unbalanced trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/detecting-unbalanced-trees?u=76281980)
+#### [Detecting unbalanced trees](https://www.linkedin.com/learning/python-data-structures-trees/detecting-unbalanced-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,15 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), next (2), [[Search]] (1)
 > **CLI Commands:** node (6), find (1), make (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Adding a balance indicator to the printed tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/challenge-adding-a-balance-indicator-to-the-printed-tree?u=76281980)
+#### [Challenge: Adding a balance indicator to the printed tree](https://www.linkedin.com/learning/python-data-structures-trees/challenge-adding-a-balance-indicator-to-the-printed-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,14 +1363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), next (2)
 > **Cross-References:** in the last (2), next chapter (1), in the next (1)
 > **CLI Commands:** node (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Adding a balance indicator to the printed tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980)
+#### [Solution: Adding a balance indicator to the printed tree](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980&t=9)** It shouldn't have been as hard as writing the print function in the first place.
 >
-> **[0:12](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980&t=12)** So I figured I'd give you a bit of a rest after getting through that last chapter.
+> **[0:12](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980&t=12)** So I figured I'd give you a bit of a [[Representational State Transfer (REST)|rest]] after getting through that last chapter.
 >
 > **[0:16](https://www.linkedin.com/learning/python-data-structures-trees/solution-adding-a-balance-indicator-to-the-printed-tree?u=76281980&t=16)** So I want the fairly simple root and I just added an asterisk after each node if the node is in balance.
 >
@@ -1437,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), data (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (6), make (1)
 > **Code Identifiers:** nodetochar (1)
 > **Cross-References:** next chapter (1)
@@ -1450,8 +1427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to rotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
+#### [Introduction to rotations](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1537,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Search]] (1), next (1)
 > **CLI Commands:** node (9)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** imagine (2)
@@ -1569,12 +1544,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rotating trees in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980)
+#### [Rotating trees in Python](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=0)** - [Instructor] In the last section we performed some tree rotations on the whiteboard, but now let's actually write them up in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=0)** - [Instructor] In the last section we performed some tree rotations on the whiteboard, but now let's actually write them up in [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=6)** So here I have examples of all four unbalanced trees left, left, right, right.
 >
@@ -1628,7 +1602,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=135)** We can actually make a rotate left function by literally copying and pasting this rotateRight.
 >
-> **[2:21](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=141)** And then changing every instance of the word, right to the word left.
+> **[2:21](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=141)** And then changing every instance of the [[Microsoft Word|word]], right to the word left.
 >
 > **[2:24](https://www.linkedin.com/learning/python-data-structures-trees/rotating-trees-in-python?u=76281980&t=144)** And every instance of the word left to the word right.
 >
@@ -1680,14 +1654,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Microsoft Word|Word]] (4), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** unbalancedleftleft (3), rotateleft (2), reattachnode (1), rotatrright (1), rotateright (1)
 > **CLI Commands:** node (7), python (1), make (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixing a tree with multiple points of imbalance
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/fixing-a-tree-with-multiple-points-of-imbalance?u=76281980)
+#### [Fixing a tree with multiple points of imbalance](https://www.linkedin.com/learning/python-data-structures-trees/fixing-a-tree-with-multiple-points-of-imbalance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,14 +1784,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (20)
 > **CLI Commands:** node (20), make (4)
 > **Code Identifiers:** fiximbalanceifexists (6), getleftrightheightdifference (5), rotateright (3), rotateleft (2), isbalanced (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Challenge: Smarter automated rebalancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/challenge-smarter-automated-rebalancing?u=76281980)
+#### [Challenge: Smarter automated rebalancing](https://www.linkedin.com/learning/python-data-structures-trees/challenge-smarter-automated-rebalancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1848,15 +1819,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), data (2)
 > **CLI Commands:** node (5), make (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Smarter automated rebalancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980)
+#### [Solution: Smarter automated rebalancing](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,13 +1861,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980&t=207)** So there you go.
 >
-> **[3:28](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980&t=208)** You've written a full featured self-balancing binary search tree completely from scratch in Python.
+> **[3:28](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980&t=208)** You've written a full featured self-balancing binary search tree completely from scratch in [[Python (Programming Language)|Python]].
 >
 > **[3:33](https://www.linkedin.com/learning/python-data-structures-trees/solution-smarter-automated-rebalancing?u=76281980&t=213)** So give yourself a pat on the back and head over to the next and sadly, last video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Search]] (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (7), make (3), python (1)
 > **Best Practices:** make sure to (2), don't forget (1)
 > **Env Vars:** avl (2)
@@ -1912,8 +1881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)
+#### [Next steps with data structures](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,7 +1903,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=36)** But where to go from here?
 >
-> **[0:38](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=38)** So, if you're looking for an overview of other data structures, particularly in Python, there are a lot of really great LinkedIn Learning videos.
+> **[0:38](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=38)** So, if you're looking for an overview of other [[Data Structures]], particularly in [[Python (Programming Language)|Python]], there are a lot of really great [[LinkedIn]] Learning videos.
 >
 > **[0:46](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=46)** I recommend the video on linked lists by Erin Allard as good preparation for this course.
 >
@@ -1943,7 +1911,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=56)** Another great data structure course is "Stacks, Queues, and Deques" also by Erin Allard.
 >
-> **[1:02](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=62)** And for a broader overview of data structures and algorithms check out Robin Andrews' "[[Python Data Structures and Algorithms]]."
+> **[1:02](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=62)** And for a broader overview of data structures and [[Algorithms]] check out Robin Andrews' "[[Python Data Structures and Algorithms]]."
 >
 > **[1:09](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980&t=69)** I particularly like his treatment of search algorithms.
 >
@@ -1957,7 +1925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (5), node (3), [[Search]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Structures]] (4), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** node (3), python (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)

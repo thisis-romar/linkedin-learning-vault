@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980)
+#### [Getting started with Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=0)** - [Robert] Windows Server 2022 is Microsoft's latest flagship operating system.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=0)** - [Robert] [[Windows Server]] 2022 is [[Microsoft]]'s latest flagship operating system.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=5)** It's available for servers, virtual machines, and Hyper-V in the Cloud at Microsoft Azure.
+> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=5)** It's available for servers, [[Virtual Machines]], and Hyper-V in the Cloud at [[Microsoft Azure]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=10)** Are you ready for the latest server upgrade?
 >
@@ -115,13 +114,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=23)** If you work as a sysadmin, IT administrator, or you aspire to work in this field, then you'll learn what you need to know in my course, "Windows Server 2022 Essential Training."
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=35)** In this course, you'll learn about the benefits of upgrading to Server 2022, how to automate installation, Active Directory installation and management, installation of many server roles and features, and how to install Server 2022 in the Azure environment.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=35)** In this course, you'll learn about the benefits of upgrading to Server 2022, how to automate installation, [[Active Directory]] installation and management, installation of many server roles and features, and how to install Server 2022 in the [[Microsoft Azure|Azure]] environment.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980&t=51)** Come join me in this essentials course to prepare you for the next great operating system from Microsoft.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Virtual Machines]] (1), cloud (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Virtual Machines]] (1), [[Microsoft Azure]] (1), [[Active Directory]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [robert] (1)
 
@@ -130,32 +129,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980)
+#### [Intro to Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=0)** - [Instructor] Windows Server 2022 is an operating system designed by Microsoft that supports many different operations.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=0)** - [Instructor] [[Windows Server]] 2022 is an operating system designed by [[Microsoft]] that supports many different operations.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=7)** This includes enterprise-level management through the use of Active Directory.
+> **[0:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=7)** This includes enterprise-level management through the use of [[Active Directory]].
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=12)** This allows the administrator to control users, computers, groups, and other objects to ensure security and production.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=20)** Data storage is used by Microsoft to make file sharing available to users through access control lists and share security along with other newer technologies such as Dynamic Access Control and SmartScreen.
+> **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=20)** [[Data Storage]] is used by Microsoft to make file sharing available to users through access control lists and share security along with other newer technologies such as Dynamic Access Control and SmartScreen.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=34)** This not only ensures authorization but also additional security practices.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=39)** Many organizations need to have applications installed on their Windows server, and there's no shortage of vendors that create them to run on Windows.
+> **[0:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=39)** Many organizations need to have applications installed on their Windows server, and there's no shortage of vendors that create them to run on [[Windows]].
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=48)** We also use the Windows Server environment to communicate with each other.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=52)** This can be done using email, SQL databases, SharePoint, and many others.
+> **[0:52](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=52)** This can be done using email, [[SQL]] [[Databases]], [[SharePoint]], and many others.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=57)** Some companies have decided to move these types of communication products to the cloud, while others prefer to keep them in house for better security control and lower cost.
+> **[0:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=57)** Some companies have decided to move these types of communication [[Microsoft Products|products]] to the cloud, while others prefer to keep them in house for better security control and lower cost.
 >
 > **[1:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=69)** We install built-in applications using Server Manager, which launches when we log into the server.
 >
-> **[1:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=76)** We can then install Server Roles, which are applications that serve users with products like Domain Name Service, Dynamic Host Control Protocol for automatic IP addressing, Domain Servers to install Active Directory, and so much more.
+> **[1:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=76)** We can then install Server Roles, which are applications that serve users with products like Domain Name Service, Dynamic Host Control Protocol for automatic [[IP Addressing]], Domain Servers to install Active Directory, and so much more.
 >
 > **[1:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=90)** We also use this way of installation for installing Features.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=99)** Features include Server Backup, Telnet Client, TFTP Server, and more.
 >
-> **[1:47](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=107)** We typically install Windows Server 2022 and previous versions on special server hardware that's made for a Windows server.
+> **[1:47](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=107)** We typically install Windows Server 2022 and previous versions on special server [[Hardware]] that's made for a Windows server.
 >
 > **[1:56](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980&t=116)** The Server operating system has specific drivers to work with the hardware that is designed for it.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (8), [[Security]] (4), [[Hardware]] (4), [[Microsoft]] (3), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (8), [[Hardware]] (4), [[Microsoft]] (3), [[Active Directory]] (2), [[Windows]] (2)
 > **Prerequisites:** install (6)
 > **Env Vars:** sql (1), tftp (1), ram (1)
 > **CLI Commands:** make (1)
@@ -196,20 +194,19 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changes to Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980)
+#### [Changes to Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=0)** - [Instructor] There's been many changes, especially to security in Windows Server 2022 over previous versions.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=0)** - [Instructor] There's been many changes, especially to security in [[Windows Server]] 2022 over previous versions.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=6)** Let's take a look at some of those upgrades.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=9)** Many of these are going to be security-related, starting with the Secured-core server.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=15)** The Secured-core server uses hardware, firmware, and driver capabilities to enable advanced Windows Server security features.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=15)** The Secured-core server uses [[Hardware]], firmware, and driver capabilities to enable advanced Windows Server security features.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=26)** Many of these features are available in Windows Secured-core PCs, but now they're also available with Secured-core server hardware and Windows Server 2022.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=26)** Many of these features are available in [[Windows]] Secured-core PCs, but now they're also available with Secured-core server hardware and Windows Server 2022.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=37)** Trusted Platform Module 2.0 secure crypto processor chips to provide a secure, hardware-based store for sensitive cryptographic keys, as well as data.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=120)** Virtualization-based security or VBS uses hardware virtualization features, and they create and isolate a secure region of memory from the normal operating system.
 >
-> **[2:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=132)** This protects your computer against an entire class of vulnerabilities used in cryptocurrency mining attacks, and VBS also allows for the use of credential guard.
+> **[2:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=132)** This protects your computer against an entire class of vulnerabilities used in [[Cryptocurrency]] mining attacks, and VBS also allows for the use of credential guard.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=143)** And this is where user credentials and secrets are stored in a virtual container that the operating system cannot access.
 >
@@ -251,7 +248,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=201)** Now data is encrypted before data placement and this leads to far less performance degradation.
 >
-> **[3:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=208)** SMB over QUIC updates the SMB 3.1.1 protocol in Windows Server 2022 Datacenter, as well as Azure Edition and supported Windows clients that use the QUIC protocol instead of TCP.
+> **[3:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=208)** SMB over QUIC updates the SMB 3.1.1 protocol in Windows Server 2022 Datacenter, as well as [[Microsoft Azure|Azure]] Edition and supported Windows clients that use the QUIC protocol instead of TCP.
 >
 > **[3:44](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=224)** QUIC can run over UDP which runs much faster.
 >
@@ -265,21 +262,21 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=262)** There's been many improvements to Windows Admin Center to manage Windows Server 2022, including capabilities to both report on the current state of the Secured-core features that I previously mentioned, which allows customers to enable those features.
 >
-> **[4:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=277)** Hotpatching is a new way to install updates on Windows Server Azure Edition virtual machines.
+> **[4:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=277)** Hotpatching is a new way to install updates on Windows Server Azure Edition [[Virtual Machines]].
 >
 > **[4:44](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=284)** And the advantage of this is it doesn't require a reboot after installation.
 >
-> **[4:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=289)** There are several platform improvements for Windows containers, including application compatibility and the Windows container experience using Kubernetes.
+> **[4:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=289)** There are several platform improvements for Windows containers, including application compatibility and the Windows container experience using [[Kubernetes]].
 >
 > **[4:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=299)** A major improvement includes reducing the Windows container image size by up to 40 percent.
 >
 > **[5:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=305)** And this can lead to a 30 percent faster startup time using better performance.
 >
-> **[5:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=311)** There are many more improvements to security and performance you can also find at docs.[microsoft.com](https://microsoft.com).
+> **[5:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=311)** There are many more improvements to security and performance you can also find at docs.[[[Microsoft]].com](https://microsoft.com).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (9), [[Security]] (8), [[Windows]] (7), data (6), [[Microsoft Azure|Azure]] (5)
+> **Frameworks & Libraries:** [[Windows Server]] (9), [[Windows]] (7), [[Microsoft Azure|Azure]] (5), [[Hardware]] (4), [[Cryptocurrency]] (1)
 > **Env Vars:** smb (6), quic (4), vbs (2), tls (2), tpm (1)
 > **Versions:** 2.0 (2), 1.3 (2), 3.1.1 (1)
 > **Definitions:** is a  (2), known as (1)
@@ -288,16 +285,15 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Versions and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980)
+#### [Versions and features](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=0)** - [Instructor] There are three editions of Windows Server 2022 that you'll find in the Enterprise.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=0)** - [Instructor] There are three editions of [[Windows Server]] 2022 that you'll find in the Enterprise.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=5)** The first is the Standard Edition.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=8)** Next is Datacenter, and last is Datacenter Azure Edition, and this edition is only going to be found if you sign up for it within Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=8)** Next is Datacenter, and last is Datacenter [[Microsoft Azure|Azure]] Edition, and this edition is only going to be found if you sign up for it within [[Microsoft Azure]].
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=20)** The Windows Server 2022 Standard Edition is the primary and most popular version of the three.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=33)** The storage replica option is available but it's limited to a two terabyte partition and it doesn't include Storage Spaces Direct.
 >
-> **[0:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=41)** It offers an option for two virtual machines plus one Hyper-V host per license along with the two isolated containers.
+> **[0:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=41)** It offers an option for two [[Virtual Machines]] plus one Hyper-V host per license along with the two isolated containers.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=49)** Host guardian support is not available in this version.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=109)** Hotpatching is a great feature and that lets admins apply patches without rebooting and SMB over QUIC.
 >
-> **[1:58](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=118)** The Admin Center includes a menu for Azure Hybrid Center, Azure Kubernetes Services, Azure Backup, Azure File Sync, Azure Monitor, and Azure Security Center.
+> **[1:58](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=118)** The Admin Center includes a menu for Azure Hybrid Center, Azure [[Kubernetes]] Services, Azure Backup, Azure File Sync, Azure Monitor, and Azure Security Center.
 >
 > **[2:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=129)** And of course, this version includes all the other features that Standard and Datacenter come with as well.
 >
@@ -337,18 +333,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Windows Server]] (4), [[Virtual Machines]] (3), feature (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Windows Server]] (4), [[Virtual Machines]] (3), [[Microsoft Azure]] (1), [[Kubernetes]] (1)
 > **Env Vars:** smb (1), quic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upgrading to Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980)
+#### [Upgrading to Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=0)** - [Instructor] If you decide upgrading from a previous version of Windows Server is a good idea, be sure to know ahead of time from which versions you can upgrade.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=0)** - [Instructor] If you decide upgrading from a previous version of [[Windows Server]] is a good idea, be sure to know ahead of time from which versions you can upgrade.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=9)** You can upgrade from Windows Server 2019, which is the previous version, to Windows Server 2022.
 >
@@ -376,23 +371,22 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=80)** You can convert your evaluation version to the same version you currently own.
 >
-> **[1:24](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=84)** This would mean downloading the evaluation from Microsoft, and then adding the key after purchase, and registering the product.
+> **[1:24](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=84)** This would mean downloading the evaluation from [[Microsoft]], and then adding the key after purchase, and registering the product.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=93)** You can still keep your Active Directory and installed programs by doing so.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=93)** You can still keep your [[Active Directory]] and installed programs by doing so.
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/upgrading-to-windows-server-2022?u=76281980&t=99)** Upgrades can have their limitations, but if you've done a lot of customization on your older version of Windows Server, it's a good time-saver to upgrade, rather than start from a formatted drive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), [[Microsoft]] (1), product (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **Env Vars:** dism (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated installation options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980)
+#### [Automated installation options](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=5)** The first is the manual installation from a formatted drive.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=9)** This means that there's no previous version of the Windows server installed and you'll need to manually choose each option during installation.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=9)** This means that there's no previous version of the [[Windows Server]] installed and you'll need to manually choose each option during installation.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=17)** For a single server, this isn't a bad option, but for many servers you may want to consider an automated one.
 >
@@ -420,15 +414,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=59)** The second is the System Center Configuration Option.
 >
-> **[1:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=62)** This uses a program from Microsoft to pre-create operating system images that you can deploy to a server and have it install including patches and software programs.
+> **[1:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=62)** This uses a program from [[Microsoft]] to pre-create operating system images that you can deploy to a server and have it install including patches and software programs.
 >
 > **[1:13](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=73)** It is a bit complicated to set up, but can be a time saver once you do.
 >
 > **[1:18](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=78)** If you're installing a virtual machine, then consider System Center Virtual Machine Manager.
 >
-> **[1:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=83)** This product is similar to Configuration Manager, but is designed for creating virtual machines very quickly after setup.
+> **[1:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=83)** This product is similar to Configuration Manager, but is designed for creating [[Virtual Machines]] very quickly after setup.
 >
-> **[1:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=91)** The last is Windows Deployment Services.
+> **[1:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=91)** The last is [[Windows]] Deployment Services.
 >
 > **[1:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/automated-installation-options?u=76281980&t=93)** This option uses a program that's free, built into a Windows server that allows you to pre-create an operating system image and then deploy when the computer boots up using the PXE environment.
 >
@@ -438,19 +432,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), data (1), [[Microsoft]] (1), product (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Windows]] (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1), setup (1)
 > **Env Vars:** usb (1), pxe (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Server 2022 installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980)
+#### [Windows Server 2022 installation](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=0)** - [Instructor] Let's take a look at how we can install Windows Server 2022 by booting off of the DVD.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=0)** - [Instructor] Let's take a look at how we can install [[Windows Server]] 2022 by booting off of the DVD.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=6)** You'll be presented with this screen that you see here and you can go ahead and choose your language, time, and keyboard and click next.
 >
@@ -472,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=64)** We want to make sure that we want to use the desktop experience.
 >
-> **[1:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=68)** If you don't choose that, you won't have a graphical user interface you'll just be presented with a PowerShell one.
+> **[1:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=68)** If you don't choose that, you won't have a graphical user interface you'll just be presented with a [[Powershell]] one.
 >
 > **[1:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=74)** Now, if that's all you wanted, that's great but if you want to have the full graphical interface, then go ahead and choose that.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=150)** I'm now presented with some options to customize Settings, such as adding in my password and then confirming it by default the user's going to be administrator.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=159)** Unlike Windows 10 or 11, you're going to be able to only use administrator to start with and then you can add additional users later.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=159)** Unlike [[Windows 10]] or 11, you're going to be able to only use administrator to start with and then you can add additional users later.
 >
 > **[2:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=168)** If your password isn't long enough or complex enough, then you will get an error when you go to click finish.
 >
@@ -516,7 +509,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=193)** And then it should launch Server Manager automatically where we can install programs, applications and do other types of maintenance.
 >
-> **[3:22](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=202)** Server Manager has loaded up and we see this option for installing Windows Admin Center.
+> **[3:22](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=202)** Server Manager has loaded up and we see this option for installing [[Windows]] Admin Center.
 >
 > **[3:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=208)** Windows Admin Center is a web graphical user interface application that you can log into using a web browser from any computer as long as you have the right credentials.
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=288)** I can minimize Server Manager and then go down to the start button and we can see a similar start menu that we see in Windows 10.
 >
-> **[4:58](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=298)** This may change over time as Microsoft decides to update it possibly to the same interface as Windows 11.
+> **[4:58](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=298)** This may change over time as [[Microsoft]] decides to update it possibly to the same interface as Windows 11.
 >
 > **[5:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-server-2022-installation?u=76281980&t=306)** Although Control Panel is still installed on Server 2022, many of the different changes that we can make for configuration are done in Settings.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (4), next (4), product (2), data (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (4), [[Windows 10]] (2), [[Microsoft]] (2), [[Powershell]] (1)
 > **Prerequisites:** install (8), configure (2), you need to have (1), setup (1)
 > **Env Vars:** dvd (3), iso (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -569,12 +562,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Tools:** powershell (1)
 
-#### Setting up IP addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980)
+#### [Setting up IP addressing](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=0)** - [Instructor] Our Windows 2022 server is up and running, and now what I want to do is I want to change the IP address.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=0)** - [Instructor] Our [[Windows]] 2022 server is up and running, and now what I want to do is I want to change the IP address.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=8)** So if I go to a command prompt by typing CMD, I can start a utility called ipconfig, which is short for IP configuration, and it shows me my IP address is 192, 168, 21.43.
 >
@@ -606,7 +598,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=129)** I'm going to go back to my command prompt and just confirm I'm not handing out an IP address that some other computer has.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=138)** I'd like to use 192.168.21.129, and I'm using the -a switch after the word ping to tell me if it resolves to any particular computer name, and we can see that it does not.
+> **[2:18](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=138)** I'd like to use 192.168.21.129, and I'm using the -a switch after the [[Microsoft Word|word]] ping to tell me if it resolves to any particular computer name, and we can see that it does not.
 >
 > **[2:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=156)** There's one other thing, however.
 >
@@ -620,9 +612,9 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=199)** Hit the subnet mask, which is going to be the exact same one that was in our command prompt earlier and also enter the same gateway.
 >
-> **[3:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=210)** As far as the DNS server is concerned, this computer's not a member of an active directory domain yet.
+> **[3:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=210)** As far as the DNS server is concerned, this computer's not a member of an [[Active Directory]] domain yet.
 >
-> **[3:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=216)** So I can use a public IP address, such as Google's DNS.
+> **[3:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=216)** So I can use a public IP address, such as [[Google]]'s DNS.
 >
 > **[3:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=220)** If it's a member of an active directory domain, you'll want to use the DNS server of the domain controller, and if you don't do that, then you may have issues trying to access internal resources.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=272)** So I'll need to go to the control panel and open up our firewall.
 >
-> **[4:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=277)** So I'll click on Windows Defender Firewall, and I'll click on Advanced settings, and I'll click on Inbound Rules.
+> **[4:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=277)** So I'll click on Windows [[Microsoft Defender|Defender]] Firewall, and I'll click on Advanced settings, and I'll click on Inbound Rules.
 >
 > **[4:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=288)** I'm going to scroll down to where it shows File and Printer Sharing Echo Request, and I'm going want to enable the echo request for ICMP version four because that's what we're using for IP.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), prompt (4), [[Windows]] (3), hit (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Active Directory]] (2), [[Google]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** dns (5), dhcp (3), icmp (2), cmd (1)
 > **UI Navigation:** go to (4), click on (4), right-click (1), double-click (1), scroll down (1)
 > **Versions:** 192.168.21 (3), 21.43 (1)
@@ -666,16 +658,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PowerShell commandlets
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980)
+#### [PowerShell commandlets](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=0)** - [Robert] PowerShell has been an important part of Windows Server for several versions.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=0)** - [Robert] [[Powershell]] has been an important part of [[Windows Server]] for several versions.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=5)** And that's no different with Windows Server 2022.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=8)** If I right-click on my Start menu, we automatically see Windows PowerShell for Admin or just Windows PowerShell.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=8)** If I right-click on my Start menu, we automatically see [[Windows]] PowerShell for Admin or just Windows PowerShell.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=15)** If you want to make significant changes, you'll want to choose the Admin option.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=169)** So typing in get-disk gives me information about my hard drive storage.
 >
-> **[2:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=177)** And since this is a virtual machine, you can see that the Friendly Name here is Microsoft Virtual Disk.
+> **[2:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=177)** And since this is a virtual machine, you can see that the Friendly Name here is [[Microsoft]] Virtual Disk.
 >
 > **[3:03](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=183)** The number is 0, which means the first disk in any computer is always going to be 0.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=234)** I'm going to clear the screen, and we can see that even though we're in PowerShell, a lot of the commands that work in a command prompt still work.
 >
-> **[4:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=244)** So for instance, I can type in the word ping.
+> **[4:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=244)** So for instance, I can type in the [[Microsoft Word|word]] ping.
 >
 > **[4:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980&t=247)** And that's because of aliases.
 >
@@ -805,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), hit (6), [[Windows]] (4), prompt (4), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Windows]] (4), [[Windows Server]] (2), [[Microsoft Word|Word]] (2), [[Microsoft]] (1)
 > **Tools:** powershell (12), command prompt (3)
 > **Analogies:** for instance (3), such as (3)
 > **UI Navigation:** right-click (1), go to (1), switch to (1)
@@ -814,12 +805,11 @@ created: 2026-05-02
 > **Env Vars:** pki (1)
 > **Exercise Files:** download the (1)
 
-#### Roles and features installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980)
+#### [Roles and features installation](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=0)** - [Instructor] Prior to Windows Server 2008, we would have to install our roles and features using the control panel, and a lot of the roles and features were already pre-installed, which added a lot of server storage and RAM usage as well as security vulnerabilities.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=0)** - [Instructor] Prior to [[Windows Server]] 2008, we would have to install our roles and features using the control panel, and a lot of the roles and features were already pre-installed, which added a lot of server storage and RAM usage as well as security vulnerabilities.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=17)** Starting with Windows Server 2008, we had the ability to add the roles and features manually by going into our Server Manager and choosing our Add roles and features.
 >
@@ -869,7 +859,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=174)** For instance, I may not want to have things like HTTP Redirection, so I don't have to have that box checked, but, then again, I might.
 >
-> **[3:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=184)** Under Security, I might want to add Windows Authentication, but I may want to uncheck Request Filtering.
+> **[3:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=184)** Under Security, I might want to add [[Windows]] Authentication, but I may want to uncheck Request Filtering.
 >
 > **[3:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=191)** And when I do that, you can see some other role services automatically uncheck as well.
 >
@@ -883,7 +873,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=224)** And installation feature time is going to vary based on how many different roles and features you install.
 >
-> **[3:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=231)** You can also do this in PowerShell, as well, and you can choose additional options that you may not see here in the console.
+> **[3:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=231)** You can also do this in [[Powershell]], as well, and you can choose additional options that you may not see here in the console.
 >
 > **[4:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/roles-and-features-installation?u=76281980&t=240)** My installation is complete, so I'll click Close.
 >
@@ -915,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), web (6), feature (3), [[Windows Server]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Windows]] (1), [[Powershell]] (1)
 > **Env Vars:** iis (5), ram (1), dfs (1), http (1), ftp (1)
 > **Analogies:** such as (3), for instance (3)
 > **Prerequisites:** install (4), set up (1)
@@ -924,16 +914,15 @@ created: 2026-05-02
 > **Code Identifiers:** iscsi (1)
 > **Versions:** version 6 (1)
 
-#### Computer Management and the Microsoft Management Console
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980)
+#### [Computer Management and the Microsoft Management Console](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=0)** - [Instructor] One of the more useful utilities that comes with every version of Windows Server, is Computer Management.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=0)** - [Instructor] One of the more useful utilities that comes with every version of [[Windows Server]], is Computer Management.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=5)** And we can get to that in Windows Server 2022 by going to tools and Computer Management.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=11)** Now, some of these features are now available in other parts of Windows Server but Microsoft kept this particular utility because it is widely used by SYS admins.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=11)** Now, some of these features are now available in other parts of Windows Server but [[Microsoft]] kept this particular utility because it is widely used by SYS admins.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=23)** If I expand this bar we can see all the different system tools that are included.
 >
@@ -957,7 +946,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=97)** Under System, this tells us whether or not we're having a problem with our operating system that could cause it or certain applications to shut down.
 >
-> **[1:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=106)** If we'd like to have our events forwarded to one location so we don't have to go into Windows logs on every individual server or computer, they can have them forwarded to just a single location, such as this one.
+> **[1:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=106)** If we'd like to have our events forwarded to one location so we don't have to go into [[Windows]] logs on every individual server or computer, they can have them forwarded to just a single location, such as this one.
 >
 > **[1:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=119)** If we expand the Microsoft folder, then you can see a lot more folders besides just the ones that come under Windows logs.
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=239)** And you're going to find that some of these logs have a lot more information than others.
 >
-> **[4:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=244)** I can also go to the find button that you see over here, click on find, and you can type in any word you want that you may be searching for.
+> **[4:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=244)** I can also go to the find button that you see over here, click on find, and you can type in any [[Microsoft Word|word]] you want that you may be searching for.
 >
 > **[4:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=252)** So I'll search for any errors and you can see that the errors come up and it's not just the error as the log level, you might see an error under warning and you might see an error under critical as well.
 >
@@ -1037,7 +1026,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=377)** Now, if you have the open file option using volume shadow service, then you can go ahead and let the users leave the files open and it will create a copy of those files before backing them up.
 >
-> **[6:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=388)** Under local users and groups, this is useful if you don't use active directory it's a non-domain controller, you can get a list of your users and you can add users if you'd like and you can also see your local groups as well.
+> **[6:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=388)** Under local users and groups, this is useful if you don't use [[Active Directory]] it's a non-domain controller, you can get a list of your users and you can add users if you'd like and you can also see your local groups as well.
 >
 > **[6:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=400)** You can then assign those users or groups to various different resources, such as a shared folder.
 >
@@ -1109,7 +1098,7 @@ created: 2026-05-02
 >
 > **[10:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=608)** I can also choose to open the services of another computer as well, as long as I have rights to it.
 >
-> **[10:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=614)** Here is routing and remote access.
+> **[10:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=614)** Here is [[Routing]] and remote access.
 >
 > **[10:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/computer-management-and-the-microsoft-management-console?u=76281980&t=616)** I can click OK and then I can manage those here.
 >
@@ -1121,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), [[Microsoft]] (5), [[Search]] (5), [[Windows Server]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Windows Server]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (2), [[Active Directory]] (1)
 > **CLI Commands:** find (7), snap (4), make (3)
 > **UI Navigation:** go to (7), click on (4), scroll down (1), open the (1)
 > **Analogies:** such as (9), for instance (1)
@@ -1130,14 +1119,13 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1), warning (1)
 > **Definitions:** is a  (1)
 
-#### Windows Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980)
+#### [Windows Admin Center](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=0)** - [Instructor] Windows Admin Center is a web-based utility that we can install either on a Windows server or client and we can manage all different types of clients or servers in our network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=0)** - [Instructor] [[Windows]] Admin Center is a web-based utility that we can install either on a [[Windows Server]] or client and we can manage all different types of clients or servers in our network.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=12)** We can also add resources, such as ones from Azure as well.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=12)** We can also add resources, such as ones from [[Microsoft Azure|Azure]] as well.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=16)** In order to install it on a server, we have to make sure under Tools that we're not already using the web server or our internet information server.
 >
@@ -1147,7 +1135,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=32)** And I'll type in Windows Admin Center download.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=36)** Now, I want to make sure that you get the one from Microsoft.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=36)** Now, I want to make sure that you get the one from [[Microsoft]].
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=40)** So check that it says [Microsoft.com](https://Microsoft.com) and that it's using a valid certificate that you see here.
 >
@@ -1201,7 +1189,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=179)** For instance, on this overview page, I can restart the server, shut it down and do other things as well.
 >
-> **[3:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=187)** I can also monitor things, such as the real-time protection, I can look at Ethernet traffic and RAM usage.
+> **[3:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=187)** I can also monitor things, such as the [[Real-Time]] protection, I can look at Ethernet traffic and RAM usage.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=197)** If I go down to Events, then we can see the Event Viewer.
 >
@@ -1211,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=221)** And I can also create a new user group if I'd like.
 >
-> **[3:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=226)** If I click on PowerShell, this is a quick way to get into PowerShell on a remote computer.
+> **[3:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=226)** If I click on [[Powershell]], this is a quick way to get into PowerShell on a remote computer.
 >
 > **[3:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=234)** So you don't have to open up PowerShell and choose the enter -ps session command.
 >
@@ -1239,7 +1227,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=303)** I can go to Advanced and make changes here.
 >
-> **[5:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=307)** I can go to Access and I can register this with Azure Active Directory if I'd like.
+> **[5:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=307)** I can go to Access and I can register this with [[Microsoft Entra ID|Azure Active Directory]] if I'd like.
 >
 > **[5:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=314)** I'm going to go back to my Windows Admin Center, and click on my server once again.
 >
@@ -1247,7 +1235,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=326)** But I can also connect this to Azure Backup.
 >
-> **[5:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=330)** I can use containers for Azure Kubernetes.
+> **[5:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=330)** I can use containers for Azure [[Kubernetes]].
 >
 > **[5:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=333)** And also see how I can configure this as a hybrid computer.
 >
@@ -1255,7 +1243,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=351)** A server cluster is where you take multiple different servers and then you add the failover cluster service and then they act as failovers for various different services, such as DNS, DHCP, and other popular services.
 >
-> **[6:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=368)** I can also create and add in Azure virtual machines as well.
+> **[6:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=368)** I can also create and add in Azure [[Virtual Machines]] as well.
 >
 > **[6:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=374)** Windows Admin Center is definitely the way Microsoft will be managing devices and services in the future.
 >
@@ -1263,7 +1251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), web (4), [[Microsoft Azure|Azure]] (4), [[Powershell]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft Azure|Azure]] (4), [[Powershell]] (4), [[Microsoft]] (3), [[Windows Server]] (1)
 > **UI Navigation:** click on (6), go to (3), scroll down (1)
 > **Analogies:** such as (4), for instance (2), just like (1)
 > **Prerequisites:** install (4), set up (1), configure (1)
@@ -1272,8 +1260,7 @@ created: 2026-05-02
 > **Tools:** powershell (4)
 > **Definitions:** is a  (2)
 
-#### EFS and drive encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980)
+#### [EFS and drive encryption](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=73)** If this certificate gets lost or damaged, I will not be able to decrypt any files inside this folder.
 >
-> **[1:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=80)** Now, if I add in a recovery certificate, which I can do through active directory, assuming that the server's a member of active directory, then I can create a certificate that will allow me to decryp the files, even if the administrator in this particular case, certificate is lost or damaged.
+> **[1:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=80)** Now, if I add in a recovery certificate, which I can do through [[Active Directory]], assuming that the server's a member of active directory, then I can create a certificate that will allow me to decryp the files, even if the administrator in this particular case, certificate is lost or damaged.
 >
 > **[1:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=100)** So I'm going to click, OK and then click OK again and when I open up shared data, we see there's a test file.
 >
@@ -1335,9 +1322,9 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=197)** I've added in a new partition, called it the E drive.
 >
-> **[3:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=200)** I'm going to click on ad rolls and features and we're going to install BitLocker, which is not installed by default on a Windows Server.
+> **[3:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=200)** I'm going to click on ad rolls and features and we're going to install BitLocker, which is not installed by default on a [[Windows Server]].
 >
-> **[3:29](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=209)** It is installed by default on Windows Clients, however.
+> **[3:29](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=209)** It is installed by default on [[Windows]] Clients, however.
 >
 > **[3:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=213)** I'm going to click on bit BitLocker drive encryption, click add features.
 >
@@ -1411,7 +1398,7 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=439)** So instead of just using the password, they'll have an option to decrypt using the recovery key.
 >
-> **[7:25](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=445)** This is also useful if you want to send this drive off to Microsoft Azure, where a lot of people do is if they have terabytes of information, instead of just copying up to Azure and then paying a fee for that copying bandwidth you're using, you can go ahead for $85 and mail the drive to Microsoft and send the key with it and then they will go ahead and decrypt it.
+> **[7:25](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=445)** This is also useful if you want to send this drive off to [[Microsoft Azure]], where a lot of people do is if they have terabytes of information, instead of just copying up to [[Microsoft Azure|Azure]] and then paying a fee for that copying bandwidth you're using, you can go ahead for $85 and mail the drive to [[Microsoft]] and send the key with it and then they will go ahead and decrypt it.
 >
 > **[7:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/efs-and-drive-encryption?u=76281980&t=468)** And then they will add that to your Azure storage.
 >
@@ -1419,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (4), [[Windows]] (3), [[Security]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Active Directory]] (2), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** go to (10), click on (10)
 > **Env Vars:** efs (3), usb (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1428,8 +1415,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote Desktop Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980)
+#### [Remote Desktop Services](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,7 +1461,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=113)** Virtual machine-based desktop requires a lot of additional licenses, and every individual user gets their own virtual machine, which is great for a school or a large organization, but for a small organization, the session-based desktop deployment works better because it's less expensive.
 >
-> **[2:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=129)** Now it also allows all the different users to share the same server rather than have individual virtual machines.
+> **[2:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=129)** Now it also allows all the different users to share the same server rather than have individual [[Virtual Machines]].
 >
 > **[2:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=137)** That means it's a little riskier security-wise.
 >
@@ -1493,7 +1479,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=179)** Now we're running through the installation.
 >
-> **[3:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=182)** Besides this we also need to make sure we have licenses from Microsoft.
+> **[3:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=182)** Besides this we also need to make sure we have licenses from [[Microsoft]].
 >
 > **[3:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=188)** Licenses are sold on concurrent users.
 >
@@ -1517,9 +1503,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=244)** There is a grace period, and you don't need a gateway.
 >
-> **[4:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=247)** A gateway is usually used if you're going to be connecting to it from outside your local area network, and it adds additional firewall rules.
+> **[4:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=247)** A gateway is usually used if you're going to be connecting to it from outside your [[Local Area Network (LAN)|local area network]], and it adds additional firewall rules.
 >
-> **[4:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=256)** I'm on a Windows 11 computer, and I'm going to open up the remote desktop connection, and type in the IP address for the server where I install remote desktop services, and I'll log in just to confirm that it works.
+> **[4:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=256)** I'm on a [[Windows]] 11 computer, and I'm going to open up the remote desktop connection, and type in the IP address for the server where I install remote desktop services, and I'll log in just to confirm that it works.
 >
 > **[4:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/remote-desktop-services?u=76281980&t=272)** And I'm now connected in using remote desktop into my server.
 >
@@ -1551,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), next (4), application (3), [[Security]] (2), concurrent (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Microsoft]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1)
 > **Prerequisites:** install (4), make sure you have (1), configure (1), setup (1)
 > **Definitions:** means that (3), is a  (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1565,12 +1551,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Domain and forest creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980)
+#### [Domain and forest creation](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=0)** - [Instructor] Active Directory is an extensible database to use for creating and utilizing users, groups, computers, and other objects.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=0)** - [Instructor] [[Active Directory]] is an extensible database to use for creating and utilizing users, groups, computers, and other objects.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=8)** Installing Active Directory is fairly straightforward as you'll see here.
 >
@@ -1616,13 +1601,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=111)** If you don't own the domain, it's possible that you may need a certificate at some point, and you won't be able to get issued one, because you don't own it.
 >
-> **[2:01](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=121)** Just for demonstration purposes, I'm going to put in LIL, for LinkedIn Learning, .int, because the int domain is not one that I know is being distributed across the world.
+> **[2:01](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=121)** Just for demonstration purposes, I'm going to put in LIL, for [[LinkedIn]] Learning, .int, because the int domain is not one that I know is being distributed across the world.
 >
 > **[2:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=132)** So let's go ahead and click Next.
 >
 > **[2:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=136)** Now we have the option to choose the Forest functional level, and the highest level you can get right now is 2016.
 >
-> **[2:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=143)** Microsoft hasn't increased it since 2016 since they came out with Azure Active Directory Domain Services.
+> **[2:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=143)** [[Microsoft]] hasn't increased it since 2016 since they came out with [[Microsoft Entra ID|Azure Active Directory]] Domain Services.
 >
 > **[2:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=150)** And although the goal for Microsoft is to move everyone to Azure Active Directory Domain Services so they can receive monthly payments for various different services, most companies have not gone to this service.
 >
@@ -1688,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (14), next (8), database (2), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (14), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[LinkedIn]] (1)
 > **Prerequisites:** install (4), configure (1), setup (1)
 > **Env Vars:** dhcp (1), lil (1), dns (1)
 > **UI Navigation:** click on (2)
@@ -1697,12 +1682,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [widgetllc.com](https://widgetllc.com) (1)
 
-#### AD management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980)
+#### [AD management tools](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=0)** - [Instructor] There are multiple ways that we can manage Active Directory using many of the different tools that we have in Server Manager.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=0)** - [Instructor] There are multiple ways that we can manage [[Active Directory]] using many of the different tools that we have in Server Manager.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=7)** When I click on tools, we can see the main five different active directory management tools.
 >
@@ -1760,7 +1744,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=204)** And there's my test user.
 >
-> **[3:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=206)** This is the only location where you can do this type of restoration other than PowerShell.
+> **[3:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=206)** This is the only location where you can do this type of restoration other than [[Powershell]].
 >
 > **[3:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=212)** I'm going to close Active Directory Administrative Center and go to where it says domains and trusts.
 >
@@ -1774,7 +1758,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=268)** Now, right now, we're already at the highest level we could go, which is 2016, even though we're in a 2022 server.
 >
-> **[4:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=275)** Another tool if we click on tools and go to active directory module for Windows PowerShell, it will go ahead and add in all the different tools that are needed to run Active Directory from PowerShell.
+> **[4:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=275)** Another tool if we click on tools and go to active directory module for [[Windows]] PowerShell, it will go ahead and add in all the different tools that are needed to run Active Directory from PowerShell.
 >
 > **[4:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/ad-management-tools?u=76281980&t=289)** Otherwise, we wouldn't have any options to do so.
 >
@@ -1826,7 +1810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (18), [[Powershell]] (7), [[Security]] (3), [[Windows]] (3), management (2)
+> **Frameworks & Libraries:** [[Active Directory]] (18), [[Powershell]] (7), [[Windows]] (3)
 > **UI Navigation:** go to (8), click on (7), scroll down (1)
 > **Tools:** powershell (7)
 > **Analogies:** for instance (4), such as (3)
@@ -1835,14 +1819,13 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Env Vars:** upn (1), nt4 (1)
 
-#### Adding a second domain controller or child domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980)
+#### [Adding a second domain controller or child domain](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=0)** - [Instructor] I have one domain controller in my domain and forest and I'd like to add a second one.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=5)** So I'm logged into a different Windows 2022 server.
+> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=5)** So I'm logged into a different [[Windows]] 2022 server.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=9)** One of the first things we need to do is to make sure the DNS is pointing to the other domain controller.
 >
@@ -1852,7 +1835,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=36)** Now I know my other server is 21.129.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=45)** Now I need to install the Active Directory domain services tools.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=45)** Now I need to install the [[Active Directory]] domain services tools.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=51)** So I'll go through the Add Roles and Features Wizard, and go to where it says Active Directory Domain Services, just like I did for creating the first domain controller.
 >
@@ -1868,7 +1851,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=87)** If I wanted to add a new domain to an existing forest then I could add in what's called a child domain.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=93)** A child domain is useful if you have a remote office where you have someone managing Active Directory and you don't want them to make any changes to the main office, but they can create users and change passwords for the office they're in.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=93)** A child domain is useful if you have a remote [[Microsoft Office|office]] where you have someone managing Active Directory and you don't want them to make any changes to the main office, but they can create users and change passwords for the office they're in.
 >
 > **[1:47](https://www.linkedin.com/learning/windows-server-2022-essential-training/adding-a-second-domain-controller-or-child-domain?u=76281980&t=107)** We can also create a tree domain.
 >
@@ -1924,7 +1907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), next (5), [[Microsoft Office|Office]] (3), [[Windows]] (1), dns (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft Office|Office]] (3), [[Windows]] (1)
 > **UI Navigation:** click on (5), go to (3)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dns (1), tcp (1), dsrm (1)
@@ -1933,12 +1916,11 @@ created: 2026-05-02
 > **Versions:** 21.129 (1)
 > **Warnings:** warning (1)
 
-#### Joining AD from a workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/joining-ad-from-a-workstation?u=76281980)
+#### [Joining AD from a workstation](https://www.linkedin.com/learning/windows-server-2022-essential-training/joining-ad-from-a-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/joining-ad-from-a-workstation?u=76281980&t=0)** - [Instructor] I'm on a Windows client computer, this is actually Windows 11, and I want to join the active directory domain.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/joining-ad-from-a-workstation?u=76281980&t=0)** - [Instructor] I'm on a [[Windows]] client computer, this is actually Windows 11, and I want to join the [[Active Directory]] domain.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/joining-ad-from-a-workstation?u=76281980&t=7)** Right now, I'm just part of a work group, so all I have to do is go into the system settings as you see here, and then scroll down to where it says about.
 >
@@ -1968,15 +1950,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3), dns (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dns (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### File sharing and drive mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980)
+#### [File sharing and drive mapping](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2033,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=187)** We gave all domain users full access, but we gave the domain users under Security everything except full control, so they can modify, read, and execute.
 >
-> **[3:18](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=198)** What it's going to happen is, Windows is going to take whichever one is most restrictive and apply that to the user.
+> **[3:18](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=198)** What it's going to happen is, [[Windows]] is going to take whichever one is most restrictive and apply that to the user.
 >
 > **[3:24](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=204)** And that's why it's okay to give full control to our domain users.
 >
@@ -2118,11 +2099,11 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=390)** We also have the option to create a share specifically for applications.
 >
-> **[6:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=394)** And if you look at it the right hand side, you can see it's made for Hyper-V virtual machine files, as well as certain databases such as SQL.
+> **[6:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=394)** And if you look at it the right hand side, you can see it's made for Hyper-V virtual machine files, as well as certain [[Databases]] such as [[SQL]].
 >
 > **[6:43](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=403)** Then we have the option for NFS.
 >
-> **[6:45](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=405)** NFS are for Linux and Unix shares that can be accessed on the Windows Server from a Linux or Unix or Macintosh computer.
+> **[6:45](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=405)** NFS are for [[Linux]] and Unix shares that can be accessed on the [[Windows Server]] from a Linux or Unix or Macintosh computer.
 >
 > **[6:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-sharing-and-drive-mapping?u=76281980&t=414)** In this case, we're just going to say SMB Quick and click Next.
 >
@@ -2198,7 +2179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), next (4), [[Windows]] (3), data (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (2), [[Databases]] (1), [[SQL]] (1), [[Windows Server]] (1)
 > **UI Navigation:** click on (12), go to (9), select the (2)
 > **Env Vars:** cis (3), nfs (2), dco1 (1), tasks (1), sql (1)
 > **CLI Commands:** make (3), find (1)
@@ -2207,8 +2188,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980)
+#### [Group Policy](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2238,7 +2218,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=81)** It's actually a shortcut, it's not a file that you would normally see, the object itself which is the file, is under the group policy objects folder.
 >
-> **[1:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=91)** Here's where we see the hide recycle bin as well as our other two default policies that come with our Windows server.
+> **[1:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=91)** Here's where we see the hide recycle bin as well as our other two default policies that come with our [[Windows Server]].
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=99)** So even if I delete to the hide recycle bin shortcut, I can bring it right back by right clicking and choose to link an existing group policy object highlight the hide recycle bin and click okay and now it's right back again.
 >
@@ -2294,7 +2274,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=277)** I recommend you only make changes to one or the other when they do have these overlapping settings.
 >
-> **[4:42](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=282)** Otherwise you may have all kinds of problems when you try to log in and Microsoft will make the decision for you as to which one it's going to apply.
+> **[4:42](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=282)** Otherwise you may have all kinds of problems when you try to log in and [[Microsoft]] will make the decision for you as to which one it's going to apply.
 >
 > **[4:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/group-policy?u=76281980&t=291)** I'm going to go to the user configuration and go to administrative templates.
 >
@@ -2352,7 +2332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1), [[Windows Server]] (1), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (8), click on (2)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1), basically means (1)
@@ -2361,12 +2341,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980)
+#### [DNS management](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=1)** - [Instructor] DNS management is very important for making Active Directory work.
+> **[0:01](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=1)** - [Instructor] [[DNS Management]] is very important for making [[Active Directory]] work.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=5)** Even if we don't have Active Directory, you still need a DNS server to resolve names to IP addresses for internet browsing.
 >
@@ -2506,7 +2485,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=363)** Now, I have the option for dynamic updates.
 >
-> **[6:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=366)** It's a good idea to only allow secure dynamic updates, but if you have other types of servers that are DNS servers, such as a Linux server, you may have to choose non-secure and secure, or to not allow them at all.
+> **[6:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=366)** It's a good idea to only allow secure dynamic updates, but if you have other types of servers that are DNS servers, such as a [[Linux]] server, you may have to choose non-secure and secure, or to not allow them at all.
 >
 > **[6:19](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=379)** I'll click Next and Finish.
 >
@@ -2560,13 +2539,13 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=487)** It resolved the name by pinging the IP with the minus A switch.
 >
-> **[8:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=496)** DNS management is crucial for making Active Directory work properly on all, rephrase, on all versions of Windows Server.
+> **[8:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=496)** DNS management is crucial for making Active Directory work properly on all, rephrase, on all versions of [[Windows Server]].
 >
 > **[8:25](https://www.linkedin.com/learning/windows-server-2022-essential-training/dns-management?u=76281980&t=505)** Setting it correctly can make a tremendous difference in speed and reliability on your network.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (13), [[Active Directory]] (8), next (7), management (2), prompt (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[DNS Management]] (2), [[Linux]] (1), [[Windows Server]] (1)
 > **Env Vars:** dns (13), lil (3), ptr (3), msdcs (1), soa (1)
 > **UI Navigation:** go to (4), right-click (2)
 > **Cross-References:** go back to (3)
@@ -2575,8 +2554,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **URLs:** [companya.com](https://companya.com) (1), [companyb.com](https://companyb.com) (1)
 
-#### DHCP installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980)
+#### [DHCP installation](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2590,7 +2568,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=37)** You can't have more than one DHCP server unless it's acting in failover mode with each other.
 >
-> **[0:43](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=43)** Otherwise, the Windows DHCP server will automatically shut down, and that's a good protection scheme in order to keep from having dueling DHCP servers handing out different subnets.
+> **[0:43](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=43)** Otherwise, the [[Windows]] DHCP server will automatically shut down, and that's a good protection scheme in order to keep from having dueling DHCP servers handing out different subnets.
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=56)** Installation is complete and now it's time to configure our DHCP service, so I'll click on tools, DHCP, and I'll go ahead and expand and create our scope.
 >
@@ -2600,7 +2578,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=88)** We'll give it a name, I'll just call it scope, and IP addresses.
 >
-> **[1:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=94)** So this has to be on the same subnet you are on if you want them to hand out to your local area network.
+> **[1:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=94)** So this has to be on the same subnet you are on if you want them to hand out to your [[Local Area Network (LAN)|local area network]].
 >
 > **[1:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=100)** So we'll need to go check that out.
 >
@@ -2634,7 +2612,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=218)** Then I need to put in the DNS name service.
 >
-> **[3:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=220)** Now, it's already added in what was in my IP configuration, and that is all correct, including the active directory domain.
+> **[3:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=220)** Now, it's already added in what was in my IP configuration, and that is all correct, including the [[Active Directory]] domain.
 >
 > **[3:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=228)** If I have any additional ones, I can put those in as well.
 >
@@ -2664,7 +2642,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=333)** Now I need a MAC address to go with it.
 >
-> **[5:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=336)** This is the hardware address that's built into the card.
+> **[5:36](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=336)** This is the [[Hardware]] address that's built into the card.
 >
 > **[5:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=339)** Now, I don't actually have one, so I'll just put in an example MAC address here.
 >
@@ -2704,7 +2682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), next (4), [[Windows]] (2), [[Active Directory]] (2), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Active Directory]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1)
 > **Env Vars:** dhcp (15), dns (10), mac (7), ipv4 (2), ipv6 (1)
 > **Prerequisites:** configure (3), install (2), set up (1), setup (1)
 > **UI Navigation:** go to (3), click on (2)
@@ -2718,12 +2696,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Backing up Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980)
+#### [Backing up Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=0)** - [Instructor] Windows Server Backup is a free built-in backup utility that we can add in using Server Manager Add Roles and Features.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=0)** - [Instructor] [[Windows Server]] Backup is a free built-in backup utility that we can add in using Server Manager Add Roles and Features.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=9)** When we click on Add Roles and Features, we're going to skip all the way until we get to Features and scroll down to the bottom and choose Windows Server Backup from the list.
 >
@@ -2769,7 +2746,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=134)** I'm just going to choose the once a day.
 >
-> **[2:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=136)** And I'm going to change the 9:00 PM down to 6:00 PM because that's when everybody's gone from my office.
+> **[2:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=136)** And I'm going to change the 9:00 PM down to 6:00 PM because that's when everybody's gone from my [[Microsoft Office|office]].
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=143)** Click next, and here's where you need to really choose carefully.
 >
@@ -2811,7 +2788,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=229)** However, the system state, this is going to include the state of the server itself.
 >
-> **[3:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=234)** In other words, if you have Active Directory on there, it'll back that up.
+> **[3:54](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=234)** In other words, if you have [[Active Directory]] on there, it'll back that up.
 >
 > **[3:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=237)** If you have any type of special partitions, it's going to back those up.
 >
@@ -2839,7 +2816,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=292)** However, if I uncheck that, then I can choose even individual folders if I'd like.
 >
-> **[4:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=297)** So I can choose, say, the Windows folder and all its sub-folders.
+> **[4:57](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=297)** So I can choose, say, the [[Windows]] folder and all its sub-folders.
 >
 > **[5:01](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980&t=301)** And I could choose the E drive.
 >
@@ -2921,7 +2898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (7), [[Windows Server]] (6), [[Microsoft Office|Office]] (1), management (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft Office|Office]] (1), [[Active Directory]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** efi (2), usb (1)
@@ -2930,12 +2907,11 @@ created: 2026-05-02
 > **Ports:** :00 (2)
 > **Code Identifiers:** iscsi (1)
 
-#### Volume Shadow Copy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/volume-shadow-copy?u=76281980)
+#### [Volume Shadow Copy](https://www.linkedin.com/learning/windows-server-2022-essential-training/volume-shadow-copy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/volume-shadow-copy?u=76281980&t=0)** - [Instructor] Turning on the Volume Shadow service allows us to recover a file without having to go into Windows Backup and choosing Recover.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/volume-shadow-copy?u=76281980&t=0)** - [Instructor] Turning on the Volume Shadow service allows us to recover a file without having to go into [[Windows]] Backup and choosing Recover.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/volume-shadow-copy?u=76281980&t=7)** What I've done is I've created a test file called Test 1 in the data folder on my C drive.
 >
@@ -2999,25 +2975,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** go to (8), click on (2)
 > **Cross-References:** go back to (3)
 > **Ports:** :00 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Event logs for troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980)
+#### [Event logs for troubleshooting](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=0)** - [Instructor] Understanding event logs is essential to understanding Windows server 2022.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=0)** - [Instructor] Understanding event logs is essential to understanding [[Windows Server]] 2022.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=5)** In my server manager, I'm going to go up to tools and choose event viewer.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=11)** Now there's lots of different logs that we can look at but the usual logs that most administrators find useful right away are going to be the application logs and the system logs.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=23)** Application logs tell us all about the applications running on our server and system tells us things about the operating system and some things about the hardware and let us know if there's any problem there.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=23)** Application logs tell us all about the applications running on our server and system tells us things about the operating system and some things about the [[Hardware]] and let us know if there's any problem there.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=33)** The security logs tells us who has logged into the server or who has attempted to log into the server.
 >
@@ -3029,7 +3004,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=59)** And what this tells us is if we have any specific roles or features installed that have log files associated with them, such as the DNS server, then we're going to get a special log file just for them.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=74)** Directory service means that we have active directory on our server, which I do.
+> **[1:14](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=74)** Directory service means that we have [[Active Directory]] on our server, which I do.
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=79)** And DFS replication can be either file replication to other servers or part of active directory replication, which uses distributed file system replication as you see here.
 >
@@ -3119,7 +3094,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=337)** There's another part to event logs that very few people know about.
 >
-> **[5:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=340)** And that is if I expand Microsoft and then expand Windows, and now we're going to see dozens of different logs.
+> **[5:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=340)** And that is if I expand [[Microsoft]] and then expand [[Windows]], and now we're going to see dozens of different logs.
 >
 > **[5:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/event-logs-for-troubleshooting?u=76281980&t=348)** And these are specific usually to certain services such as VPN or networking or hardware and not all the different logs actually have anything in them.
 >
@@ -3133,7 +3108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Hardware]] (2), [[Active Directory]] (2), [[Windows Server]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Active Directory]] (2), [[Windows Server]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (8), go to (1)
 > **Env Vars:** dfs (2), dns (1), lsa (1), srv (1), vpn (1)
 > **Analogies:** such as (3), for instance (3)
@@ -3142,8 +3117,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** basically means (1), means that (1), is a  (1)
 
-#### File server resource manager for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-server-resource-manager-for-security?u=76281980)
+#### [File server resource manager for security](https://www.linkedin.com/learning/windows-server-2022-essential-training/file-server-resource-manager-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3373,7 +3347,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (6), management (3), [[Security]] (1), application (1)
 > **UI Navigation:** go to (10), click on (7)
 > **Env Vars:** fsrm (9), xyz (2), smb (2), unc (2)
 > **Exercise Files:** template (8)
@@ -3381,15 +3354,15 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Warnings:** warning (2)
 > **Definitions:** known as (1)
+> **Analogies:** such as (1)
 
-#### Performance Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980)
+#### [Performance Monitor](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=0)** - [Instructor] Sys admins need to know about Performance Monitor.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=5)** Performance Monitor allows us to go in and see what's happening on the server at any moment with any application or any piece of hardware or other software.
+> **[0:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=5)** Performance Monitor allows us to go in and see what's happening on the server at any moment with any application or any piece of [[Hardware]] or other software.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=17)** After going to the tools, menu and server manager and opening up Performance Monitor, I can click on Performance Monitor and we see a graphical version of what Performance Monitor can do.
 >
@@ -3475,7 +3448,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=279)** This is also a good idea for creating what's called a baseline.
 >
-> **[4:43](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=283)** So when you first create your Windows 2022 server, you can go in and run one of these particular counters using your data collector set and then save it and then go back in at a future date and compare it and see if any of these particular monitors might be showing that the server is under stress that maybe it needs more resources like more ram or more hard drive space, or even faster, hard drives, maybe the hard drives you have on there aren't fast enough and things are getting bogged down.
+> **[4:43](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=283)** So when you first create your [[Windows]] 2022 server, you can go in and run one of these particular counters using your data collector set and then save it and then go back in at a future date and compare it and see if any of these particular monitors might be showing that the server is under stress that maybe it needs more resources like more ram or more hard drive space, or even faster, hard drives, maybe the hard drives you have on there aren't fast enough and things are getting bogged down.
 >
 > **[5:17](https://www.linkedin.com/learning/windows-server-2022-essential-training/performance-monitor?u=76281980&t=317)** I can even go in and right click and choose to create a new data collector set, and I can use a template or I can choose manual, and I can choose which types of logs I'd like to do, or I could choose a performance alert and add in one of these counters.
 >
@@ -3507,15 +3480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (1), [[Hardware]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Windows]] (1)
 > **Analogies:** for instance (4), such as (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** dropdown (2), click on (1), open the (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Task Manager and Resource Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/task-manager-and-resource-monitor?u=76281980)
+#### [Task Manager and Resource Monitor](https://www.linkedin.com/learning/windows-server-2022-essential-training/task-manager-and-resource-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3587,7 +3559,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Env Vars:** cpu (8), ram (6), cis (1), ssd (1)
 > **UI Navigation:** go to (5), click on (4), dropdown (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -3601,22 +3572,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Azure environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980)
+#### [The Azure environment](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=0)** - Organizations that have a desire to be in the cloud, may want to choose Microsoft Azure to install their Windows server 2022 data center version servers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=0)** - Organizations that have a desire to be in the cloud, may want to choose [[Microsoft Azure]] to install their [[Windows Server]] 2022 data center version servers.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=11)** They may also decide to go to Amazon Web Services as well.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=11)** They may also decide to go to [[Amazon Web Services (AWS)|Amazon Web Services]] as well.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=15)** However, the Azure cloud has some advantages such as Azure Active Directory.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=15)** However, the [[Microsoft Azure|Azure]] cloud has some advantages such as [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=20)** For instance, you can join your Windows 2022 servers, whether they're in the cloud or on-premises after creating a VPN tunnel to Microsoft Azure to Azure Active Directory.
+> **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=20)** For instance, you can join your [[Windows]] 2022 servers, whether they're in the cloud or on-premises after creating a VPN tunnel to Microsoft Azure to Azure Active Directory.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=32)** Now there's one step further, and that is Azure Active Directory Domain Services.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=37)** And what that is, it is mimicking the on premises it is mimicking the on premises Active Directory domain services that you may be used to already.
+> **[0:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=37)** And what that is, it is mimicking the on premises it is mimicking the on premises [[Active Directory]] domain services that you may be used to already.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=47)** I'll go ahead and type that into a search and choose Azure Active Directory Domain Services.
 >
@@ -3654,7 +3624,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=157)** One of those could be the storage area.
 >
-> **[2:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=160)** Storage allows you to create cloud storage, and then you can access it in your Windows 2022 server in Azure Windows 2022 server in Azure or your Windows 2022 server on premises or your Windows 2022 server on premises and you can share that data out with users.
+> **[2:40](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=160)** Storage allows you to create [[Cloud Storage]], and then you can access it in your Windows 2022 server in Azure Windows 2022 server in Azure or your Windows 2022 server on premises or your Windows 2022 server on premises and you can share that data out with users.
 >
 > **[2:55](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=175)** Networking is used to create the VPN tunnel to Azure.
 >
@@ -3686,11 +3656,11 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=248)** And it's deleting now.
 >
-> **[4:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=251)** Once you get familiar with running Windows Server 2022 in a virtual environment, you can take advantage of things like redundancy, scalability, and other great features of running Windows server in the Azure cloud.
+> **[4:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980&t=251)** Once you get familiar with running Windows Server 2022 in a virtual environment, you can take advantage of things like redundancy, [[Scalability]], and other great features of running Windows server in the Azure cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Microsoft Azure|Azure]] (9), cloud (7), [[Windows]] (7), [[Active Directory]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Microsoft Azure|Azure]] (9), [[Windows]] (7), [[Active Directory]] (4), [[Microsoft Azure]] (3)
 > **Env Vars:** vpn (3), dns (1), cis (1)
 > **URLs:** [azure.com](https://azure.com) (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -3699,20 +3669,19 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - organizations (1)
 
-#### Installing Windows Server 2022 in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980)
+#### [Installing Windows Server 2022 in Azure](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=0)** - Many organizations are moving to the cloud and they're using Windows Server 2022.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=0)** - Many organizations are moving to the cloud and they're using [[Windows Server]] 2022.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=6)** I'm logged into portal.[azure.com](https://azure.com).
+> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=6)** I'm logged into portal.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=9)** And from here, you can create any one of many different types of resources.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=13)** And one of those is a virtual machine.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=16)** If you don't see virtual machines in your list, you can go ahead and type it in the search box and then it will find it for you.
+> **[0:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=16)** If you don't see [[Virtual Machines]] in your list, you can go ahead and type it in the search box and then it will find it for you.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=22)** Now, when I go to create a virtual machine, it's going to give me several different options.
 >
@@ -3762,7 +3731,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=135)** And it's difficult to say exactly how much until you see your first bill unfortunately.
 >
-> **[2:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=141)** Although, Microsoft does have a calculator that can help you determine what that might be, but it's not always accurate.
+> **[2:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=141)** Although, [[Microsoft]] does have a calculator that can help you determine what that might be, but it's not always accurate.
 >
 > **[2:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=148)** Under these security type, standard is the one that comes up.
 >
@@ -3858,7 +3827,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=381)** And each one of those has an information bubble that you can choose to go ahead and figure out if that's something you want.
 >
-> **[6:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=388)** If you have Azure AD, you can choose to log in with credentials to Azure AD.
+> **[6:28](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=388)** If you have [[Microsoft Entra ID|Azure AD]], you can choose to log in with credentials to Azure AD.
 >
 > **[6:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=393)** I'm going to say, I don't have that.
 >
@@ -3914,7 +3883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows Server]] (3), next (3), [[Security]] (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows Server]] (3), [[Virtual Machines]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft]] (1)
 > **Env Vars:** ssd (3), http (2), https (2), ssh (2), rdp (2)
 > **CLI Commands:** make (4), ssh (2), find (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (1), dropdown (1)
@@ -3923,12 +3892,11 @@ created: 2026-05-02
 > **Ports:** port 3389 (2)
 > **Code Identifiers:** winadmin (1)
 
-#### Accessing the server in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980)
+#### [Accessing the server in the cloud](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=0)** - [Instructor] I've recently created a virtual machine, that's Windows Server 2022 Datacenter Azure Edition.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=0)** - [Instructor] I've recently created a virtual machine, that's [[Windows Server]] 2022 Datacenter [[Microsoft Azure|Azure]] Edition.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=6)** And we can see I'm logged into the portal.[azure.com](https://azure.com).
 >
@@ -3962,7 +3930,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=91)** Those take usually a minute or two, and then you'll be able to go ahead and use your new server.
 >
-> **[1:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=97)** When you first log in, it gives you the option to go ahead and download Windows Admin Center, which is the web-based version of managing your Windows Server, and it's a very good tool.
+> **[1:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=97)** When you first log in, it gives you the option to go ahead and download [[Windows]] Admin Center, which is the web-based version of managing your Windows Server, and it's a very good tool.
 >
 > **[1:47](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=107)** I'm not going to use it at this time.
 >
@@ -3976,13 +3944,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=147)** And some people choose to use this because it does increase their security.
 >
-> **[2:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=151)** However, if you're using a VPN to Microsoft Azure, then this is not necessary.
+> **[2:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=151)** However, if you're using a VPN to [[Microsoft Azure]], then this is not necessary.
 >
 > **[2:37](https://www.linkedin.com/learning/windows-server-2022-essential-training/accessing-the-server-in-the-cloud?u=76281980&t=157)** Connecting to our Azure Windows 2022 Datacenter Server gives us the cloud option of running and managing a Windows Server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows Server]] (3), [[Windows]] (3), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows Server]] (3), [[Windows]] (3), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** rdp (1), ssh (1), vpn (1)
 > **URLs:** [azure.com](https://azure.com) (2)
@@ -3990,16 +3958,15 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Active Directory synchronization
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980)
+#### [Azure Active Directory synchronization](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=0)** - [Instructor] When using Windows Server 2022 Active Directory, I can synchronize my users that are on-premises into the Azure cloud with Azure Active Directory.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=0)** - [Instructor] When using [[Windows Server]] 2022 [[Active Directory]], I can synchronize my users that are on-premises into the [[Microsoft Azure|Azure]] cloud with [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:10](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=10)** And I can do that by going to a web browser and typing in download Azure AD Connect.
+> **[0:10](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=10)** And I can do that by going to a web browser and typing in download [[Microsoft Entra ID|Azure AD]] Connect.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=16)** Make sure you're downloading it from a Microsoft site.
+> **[0:16](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=16)** Make sure you're downloading it from a [[Microsoft]] site.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=19)** So I'll go ahead and click on that.
 >
@@ -4013,9 +3980,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=46)** There are a lot of advantages to using Azure AD Connect.
 >
-> **[0:50](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=50)** Now we can have maybe Road Warriors or other remote users be able to use the resources without having to first VPN into the office, in order to connect to those Azure AD resources.
+> **[0:50](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=50)** Now we can have maybe Road Warriors or other remote users be able to use the resources without having to first VPN into the [[Microsoft Office|office]], in order to connect to those Azure AD resources.
 >
-> **[1:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=62)** And they can authenticate to Microsoft Azure Active Directory without having to use VPN.
+> **[1:02](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=62)** And they can authenticate to [[Microsoft Azure]] Active Directory without having to use VPN.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=68)** I'll agree to the license terms and click continue.
 >
@@ -4049,7 +4016,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=150)** Now I want to synchronize with my Active Directory.
 >
-> **[2:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=155)** It's adding in a SQL server, and then it's going to add in all the different connections needed.
+> **[2:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=155)** It's adding in a [[Microsoft SQL Server|SQL server]], and then it's going to add in all the different connections needed.
 >
 > **[2:42](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=162)** And then it's going to connect to my Azure Active Directory account.
 >
@@ -4063,7 +4030,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=187)** I'm back at Azure and if I scroll down, there's my test group.
 >
-> **[3:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=192)** So that one did synchronize and I'll go back to my LinkedIn videos, click on users and I should see my test user.
+> **[3:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=192)** So that one did synchronize and I'll go back to my [[LinkedIn]] videos, click on users and I should see my test user.
 >
 > **[3:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/azure-active-directory-synchronization?u=76281980&t=201)** And there's my test user.
 >
@@ -4073,7 +4040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Active Directory]] (6), [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Azure ad]] (3)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Env Vars:** vpn (2), url (1), sql (1)
 > **CLI Commands:** make (1)
@@ -4087,28 +4054,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going to the next level with Windows Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980)
+#### [Going to the next level with Windows Server 2022](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=0)** - [Robert] Thank you for joining me and my course on Windows Server 2022 Essential Training.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=0)** - [Robert] Thank you for joining me and my course on [[Windows Server]] 2022 Essential Training.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=6)** This series of videos taught many concepts, such as Windows Admin Center, Remote Desktop Services, Group Policy, Active Directory, and so much more.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=6)** This series of videos taught many concepts, such as [[Windows]] Admin Center, Remote Desktop Services, Group Policy, [[Active Directory]], and so much more.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=15)** You now know the various ways to install and upgrade to Server 2022.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=20)** You were shown demonstrations on using event logs, resource monitor, and other troubleshooting methods as well.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=26)** Virtual machines in Microsoft Azure can help you prepare for what's to come, and Windows Server 2022 can take you to that next level.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=26)** [[Virtual Machines]] in [[Microsoft Azure]] can help you prepare for what's to come, and Windows Server 2022 can take you to that next level.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=35)** If you would like to see additional Microsoft courses, please see my courses entitled Microsoft Endpoint Manager and Microsoft Teams Administration: Plan, Configure, and Deploy.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=35)** If you would like to see additional [[Microsoft]] courses, please see my courses entitled Microsoft Endpoint Manager and [[Microsoft Teams]] Administration: Plan, Configure, and Deploy.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980&t=46)** I look forward to bringing you more courses in the near future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft]] (2), [[Windows]] (1), [[Active Directory]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft]] (2), [[Windows]] (1), [[Active Directory]] (1), [[Virtual Machines]] (1)
 > **Prerequisites:** install (1), configure (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [robert] (1)

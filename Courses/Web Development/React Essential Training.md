@@ -114,35 +114,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building modern user interfaces with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
+#### [Building modern user interfaces with React](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=0)** - React is one of the most popular libraries for building user interfaces, and companies like Airbnb, PayPal, and Netflix use it to power their frontend experiences.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=0)** - [[React.js|React]] is one of the most popular libraries for building user interfaces, and companies like Airbnb, PayPal, and Netflix use it to power their frontend experiences.
 >
 > **[0:11](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=11)** Having a good command of the fundamentals will help you build projects of all sizes.
 >
-> **[0:16](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=16)** It'll also prepare you to work with React frameworks, like React Native, Vite and Next.js.
+> **[0:16](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=16)** It'll also prepare you to work with React frameworks, like [[React Native]], Vite and [[Next.js]].
 >
-> **[0:22](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=22)** In this course, we'll get hands-on experience with React's core concepts, and we'll also explore concepts like data fetching, routing, and React server components.
+> **[0:22](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=22)** In this course, we'll get hands-on experience with React's core concepts, and we'll also explore concepts like data fetching, [[Routing]], and React server components.
 >
 > **[0:32](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980&t=32)** So, let's get into it and start building some awesome composable apps with React.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), power (1), [[React Native]] (1), [[Next.js]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (1), [[Next.js]] (1), [[Routing]] (1)
 > **File Paths:** next.js (1)
 > **Speakers:** - react (1)
 
-#### How to use Codespaces and what you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980)
+#### [How to use Codespaces and what you should know](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=0)** - [Instructor] One of the ways that we can interact with the files in this course is to use GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=0)** - [Instructor] One of the ways that we can interact with the files in this course is to use [[GitHub]] Code Spaces.
 >
-> **[0:05](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=5)** You can just go to the GitHub repo for the course and add /codespaces to the end of it, and this will take you to a location where you can start to create your own code space.
+> **[0:05](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=5)** You can just go to the GitHub repo for the course and add /[[Codespaces]] to the end of it, and this will take you to a location where you can start to create your own code space.
 >
 > **[0:19](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=19)** You do that here with create code space on main.
 >
@@ -156,9 +154,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=57)** So let me show you an example.
 >
-> **[0:59](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=59)** If we wanted to check out the exact code state at the beginning of, let's say chapter four, video two, what we could do is run git check out O4_O2b, and then this is going to go to that state.
+> **[0:59](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=59)** If we wanted to check out the exact code state at the beginning of, let's say chapter four, video two, what we could do is run [[Git]] check out O4_O2b, and then this is going to go to that state.
 >
-> **[1:14](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=74)** So it will have the react project at the beginning of that video.
+> **[1:14](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=74)** So it will have the [[React.js|react]] project at the beginning of that video.
 >
 > **[1:19](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=79)** Same goes for, say, git checkout 04_02e.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=94)** CD React project.
 >
-> **[1:37](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=97)** You can run an NPMI or NPM install.
+> **[1:37](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=97)** You can run an NPMI or [[npm]] install.
 >
 > **[1:43](https://www.linkedin.com/learning/react-essential-training/how-to-use-codespaces-what-you-should-know?u=76281980&t=103)** This is going to install those dependencies in the background so that you can actually run your project.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[GitHub]] (2), [[Git]] (2), [[Codespaces]] (1), cd (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[GitHub]] (2), [[Git]] (2), [[Codespaces]] (1), [[npm]] (1)
 > **CLI Commands:** git (2), make (2), cd (1), npm (1)
 > **Tools:** github (2), vs code (1), terminal (1)
 > **Env Vars:** npmi (1), npm (1)
@@ -196,16 +194,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is React?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
+#### [What is React?](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=0)** - [Instructor] React is a JavaScript library that you can use to create user interfaces.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=0)** - [Instructor] [[React.js|React]] is a [[JavaScript]] library that you can use to create user interfaces.
 >
 > **[0:05](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=5)** It was created at Facebook and open sourced in March of 2013.
 >
-> **[0:09](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=9)** Since then, react has expanded beyond the web with React Native, a tool that allows you to create native mobile applications using React.
+> **[0:09](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=9)** Since then, react has expanded beyond the web with [[React Native]], a tool that allows you to create native mobile applications using React.
 >
 > **[0:18](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=18)** One of your best resources that you have at your disposal when learning React is the React documentation.
 >
@@ -213,28 +210,27 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=30)** You can check in with the community, and there's also a blog where you can see the latest announcements about the library.
 >
-> **[0:36](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=36)** React is a popular library with hundreds of thousands of stars on GitHub and is used in production by huge companies like PayPal, Netflix, and Microsoft.
+> **[0:36](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=36)** React is a popular library with hundreds of thousands of stars on [[GitHub]] and is used in production by huge companies like PayPal, Netflix, and [[Microsoft]].
 >
-> **[0:46](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=46)** But the point of using React is not just because it's popular, but because it's fun to use and because its component architecture makes it faster and easier to build amazing products for the web and even for native platforms.
+> **[0:46](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=46)** But the point of using React is not just because it's popular, but because it's fun to use and because its component architecture makes it faster and easier to build amazing [[Microsoft Products|products]] for the web and even for native platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), web (2), [[JavaScript]] (1), [[React Native]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[JavaScript]] (1), [[React Native]] (1), [[GitHub]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How React works
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980)
+#### [How React works](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=0)** - [Instructor] Before we get into the course, let's think a bit about how React works.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=0)** - [Instructor] Before we get into the course, let's think a bit about how [[React.js|React]] works.
 >
 > **[0:05](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=5)** The core building block of a React application is a React element.
 >
-> **[0:09](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=9)** An element describes what you see on the screen, like an HTML tag.
+> **[0:09](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=9)** An element describes what you see on the screen, like an [[HTML]] tag.
 >
 > **[0:14](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=14)** So, if I create an element using React .createElement, I'm creating an h1, I pass that as the first argument to that function, I pass null for the second because I don't want it to have any properties, and then any child elements of that like Hello World, I'm going to add as the third argument so that that displays when I come to the page.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=56)** Here, we're using a syntax called JSX.
 >
-> **[0:59](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=59)** This is a tag-based syntax that compiles to plain JavaScript before we run it in the browser.
+> **[0:59](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=59)** This is a tag-based syntax that compiles to plain [[JavaScript]] before we run it in the browser.
 >
 > **[1:05](https://www.linkedin.com/learning/react-essential-training/how-react-works?u=76281980&t=65)** We then create an app that is made up of a bunch of different components.
 >
@@ -272,19 +268,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (11), dom (2), data (2), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** dom (2), html (1), jsx (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1), make (1)
 > **Code Identifiers:** createelement (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the React compiler
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980)
+#### [Understanding the React compiler](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=0)** - [Instructor] The new React Compiler, which is code named React for Git, is one of the most anticipated features in React 19.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=0)** - [Instructor] The new [[React.js|React]] Compiler, which is code named React for [[Git]], is one of the most anticipated features in React 19.
 >
 > **[0:09](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=9)** And they built this playground that you can use to see how your React code goes from a component to a function that is really optimized for the browser to be as fast as possible.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=67)** So think of React as being a compiled language.
 >
-> **[1:10](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=70)** It's something that takes our React function that's written with JSX or JavaScript as XML, and it transforms it into something that is optimized for the browser.
+> **[1:10](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=70)** It's something that takes our React function that's written with JSX or [[JavaScript]] as XML, and it transforms it into something that is optimized for the browser.
 >
 > **[1:23](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=83)** If you've used previous versions of React, where we used useMemo and useCallback, these were hooks that we used to prevent unnecessary re-renders.
 >
@@ -325,12 +320,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keys clicking) (1)
 
-#### Setting up Chrome tools for React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/setting-up-chrome-tools-for-react?u=76281980)
+#### [Setting up Chrome tools for React](https://www.linkedin.com/learning/react-essential-training/setting-up-chrome-tools-for-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/setting-up-chrome-tools-for-react?u=76281980&t=0)** - [Instructor] To get ready to work on React Projects, a great place to start is to install the React Developer Tools.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/setting-up-chrome-tools-for-react?u=76281980&t=0)** - [Instructor] To get ready to work on [[React.js|React]] Projects, a great place to start is to install the React Developer Tools.
 >
 > **[0:06](https://www.linkedin.com/learning/react-essential-training/setting-up-chrome-tools-for-react?u=76281980&t=6)** These are available for both Chrome and Firefox.
 >
@@ -378,14 +372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), web (1), [[Search]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10)
 > **Tools:** firefox (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with VS Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980)
+#### [Working with VS Code](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=85)** While I'll be using VS Code, that's certainly not a requirement.
 >
-> **[1:29](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=89)** You can always go to the browser and go to react.new.
+> **[1:29](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=89)** You can always go to the browser and go to [[React.js|react]].new.
 >
 > **[1:33](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=93)** This will open up a new CodeSandbox that you can use to create your project.
 >
@@ -431,11 +424,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=112)** So you can go to the source and go to index.
 >
-> **[1:56](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=116)** From here, you can always collapse that background with command B, so that'll collapse all of your files and then you can zoom in and see the latest changes that you add.
+> **[1:56](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=116)** From here, you can always collapse that background with command B, so that'll collapse all of your files and then you can [[Zoom]] in and see the latest changes that you add.
 >
 > **[2:10](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=130)** So all of this is our code.
 >
-> **[2:13](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=133)** This is the window that's going to give us a preview of what that code looks like, and you can always sign in with GitHub, Google, or Apple to make sure that you hang on to those latest changes.
+> **[2:13](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=133)** This is the window that's going to give us a preview of what that code looks like, and you can always sign in with [[GitHub]], [[Google]], or Apple to make sure that you hang on to those latest changes.
 >
 > **[2:24](https://www.linkedin.com/learning/react-essential-training/working-with-vscode?u=76281980&t=144)** All right, so that is everything that we'll need to get started.
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[React.js|React]] (2), [[Zoom]] (1), [[GitHub]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Zoom]] (1), [[GitHub]] (1), [[Google]] (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Tools:** vs code (2), github (1)
 > **Prerequisites:** install (3)
@@ -457,14 +450,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initializing a project with Vite
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
+#### [Initializing a project with Vite](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=0)** - [Instructor] The tool that we're going to be using to set up our project is called Vite.
 >
-> **[0:04](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=4)** Vite is a tool that will allow us to generate a React application and have some built-in tooling set up for us.
+> **[0:04](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=4)** Vite is a tool that will allow us to generate a [[React.js|React]] application and have some built-in tooling set up for us.
 >
 > **[0:12](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=12)** So let's go to VS Code and make sure we're in the right directory.
 >
@@ -474,7 +466,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=25)** Next, I'm going to run the command that's going to create the Vite project.
 >
-> **[0:32](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=32)** So we'll type npm create vite@latest.
+> **[0:32](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=32)** So we'll type [[npm]] create vite@latest.
 >
 > **[0:37](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=37)** We'll call this react-project.
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=64)** And then I want to make sure that over here in 02_01b, I go to the React project.
 >
-> **[1:17](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=77)** So I want to go over here to 01_01b inside of the React project and I want to open the package JSON.
+> **[1:17](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=77)** So I want to go over here to 01_01b inside of the React project and I want to open the package [[JSON]].
 >
 > **[1:25](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=85)** So the package JSON has all of the dependencies that I'm using in this project.
 >
@@ -504,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=110)** and react-dom@rc.
 >
-> **[1:56](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=116)** Okay, so now that I've done that, this has installed the most recent versions of React, so React 19, the release candidate, and now I can run npm install to run the rest of the packages.
+> **[1:56](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=116)** Okay, so now that I've done that, this has installed the most recent versions of React, so React 19, the release candidate, and now I can run npm install to run the [[Representational State Transfer (REST)|rest]] of the packages.
 >
 > **[2:10](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980&t=130)** And then I can run based on these scripts that are here.
 >
@@ -526,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (14), [[npm]] (4), cd (2), hit (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (14), [[npm]] (4), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (4), make (2), cd (2)
 > **UI Navigation:** open the (4), go to (3)
 > **Prerequisites:** set up (2), install (2)
@@ -535,14 +527,13 @@ created: 2026-05-02
 > **Ports:** :5173 (2)
 > **Env Vars:** json (2)
 
-#### Creating React elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980)
+#### [Creating React elements](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=0)** - [Instructor] We've created our project using Vite, and I want to make some changes to the project so that it is rendering what I expect it to.
 >
-> **[0:08](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=8)** So over here in the REACT project, inside of the src directory, we want to open the file that says App.jsx.
+> **[0:08](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=8)** So over here in the [[React.js|REACT]] project, inside of the src directory, we want to open the file that says App.jsx.
 >
 > **[0:17](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=17)** So let's strip this way back and we're going to get rid of everything that's inside of the App component for the most part, and we'll just write an <h1> that says Hello React!
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=41)** Let's also open up the main.jsx file.
 >
-> **[0:44](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=44)** And just to take a look at this, what the main.jsx file is doing is it's selecting the getElementById("root"), in other words, it's going into this index.html file, It's finding the div that has the id of "root", and it's using the rules of JavaScript over here to inject whatever should be added to the page.
+> **[0:44](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=44)** And just to take a look at this, what the main.jsx file is doing is it's selecting the getElementById("root"), in other words, it's going into this index.[[HTML]] file, It's finding the div that has the id of "root", and it's using the rules of [[JavaScript]] over here to inject whatever should be added to the page.
 >
 > **[1:06](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=66)** So if we take a closer look at this, we can delete StrictMode for now.
 >
@@ -570,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=100)** So now if we open up localhost:5173, we need to make sure our project is running.
 >
-> **[1:47](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=107)** So from the react-project folder, we'll run npm run dev.
+> **[1:47](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=107)** So from the react-project folder, we'll run [[npm]] run dev.
 >
 > **[1:51](https://www.linkedin.com/learning/react-essential-training/creating-react-elements?u=76281980&t=111)** Then if we go to the browser, this is telling us that the project is working.
 >
@@ -594,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), [[HTML]] (1), [[JavaScript]] (1), [[npm]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[HTML]] (1), [[JavaScript]] (1), [[npm]] (1)
 > **File Paths:** main.jsx (3), app.jsx (1), index.html (1)
 > **CLI Commands:** make (3), find (1), npm (1)
 > **Env Vars:** react (4), jsx (1)
@@ -603,14 +594,13 @@ created: 2026-05-02
 > **Code Identifiers:** getelementbyid (1)
 > **URLs:** [localhost:5173](https://localhost:5173) (1)
 
-#### Working with JSX syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980)
+#### [Working with JSX syntax](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=0)** - [Instructor] Right now within this app function, we are returning a little blip of JSX.
 >
-> **[0:07](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=7)** So JSX or JavaScript is XML is a syntax that you can use to write HTML like syntax right here in a React component right here in a JavaScript file.
+> **[0:07](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=7)** So JSX or [[JavaScript]] is XML is a syntax that you can use to write [[HTML]] like syntax right here in a [[React.js|React]] component right here in a JavaScript file.
 >
 > **[0:20](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=20)** So not only can this handle hardcoded text, but it also can handle variables.
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=40)** I'll just replace World with an open and closed curly brace, and then I'll say language.
 >
-> **[0:47](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=47)** So now if I run this project again, npm run dev, this is going to take whatever that value is and dynamically insert it into that string, so that if I change it, it will change here too.
+> **[0:47](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=47)** So now if I run this project again, [[npm]] run dev, this is going to take whatever that value is and dynamically insert it into that string, so that if I change it, it will change here too.
 >
 > **[1:04](https://www.linkedin.com/learning/react-essential-training/working-with-jsx-syntax?u=76281980&t=64)** This works with all sorts of different things.
 >
@@ -648,19 +638,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[React.js|React]] (2), [[HTML]] (1), [[npm]] (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[React.js|React]] (2), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** jsx (3), xml (1), html (1)
 > **CLI Commands:** npm (1)
 > **Code Identifiers:** touppercase (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a React component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980)
+#### [Creating a React component](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=0)** - [Instructor] Now that we have an understanding of how to create our React elements, we want to create our first component from scratch.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=0)** - [Instructor] Now that we have an understanding of how to create our [[React.js|React]] elements, we want to create our first component from scratch.
 >
 > **[0:08](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=8)** Inside of this src folder, we have a file called App.jsx, and App is really our first component.
 >
@@ -678,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=44)** So a React component, all it is is a function that returns a little bit of UI.
 >
-> **[0:51](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=51)** These are JSX tags, but we can think about these as being little HTML tags to wrap around our content using the same syntax that we're familiar with.
+> **[0:51](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=51)** These are JSX tags, but we can think about these as being little [[HTML]] tags to wrap around our content using the same syntax that we're familiar with.
 >
 > **[1:02](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=62)** So now what I can do is within my App, I can take the contents of the Header and place them here inside of this component.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=94)** We're going to cd into the React project.
 >
-> **[1:38](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=98)** We're going to run npm run dev.
+> **[1:38](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=98)** We're going to run [[npm]] run dev.
 >
 > **[1:41](https://www.linkedin.com/learning/react-essential-training/creating-a-react-component?u=76281980&t=101)** This is going to spin up our Vite project here on 5173, and now we see, okay, we have our header here.
 >
@@ -728,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), application (1), [[HTML]] (1), cd (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[HTML]] (1), [[npm]] (1)
 > **CLI Commands:** make (1), cd (1), npm (1)
 > **Env Vars:** jsx (2), html (1)
 > **UI Navigation:** go to (2), right-click (1)
@@ -736,8 +725,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding component properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980)
+#### [Adding component properties](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980&t=72)** Let's just prove that it won't over here for good measure.
 >
-> **[1:16](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980&t=76)** Let's run npm run dev, and at 5173, we see 's Kitchen, which isn't quite what we're trying to pull off.
+> **[1:16](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980&t=76)** Let's run [[npm]] run dev, and at 5173, we see 's Kitchen, which isn't quite what we're trying to pull off.
 >
 > **[1:27](https://www.linkedin.com/learning/react-essential-training/adding-component-properties?u=76281980&t=87)** So instead, let's take a look at this.
 >
@@ -805,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[npm]] (1), business (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** npm (1), make (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Code Identifiers:** getfullyear (1)
@@ -814,8 +802,7 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **Definitions:** is a  (1)
 
-#### Destructuring component properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-component-properties?u=76281980)
+#### [Destructuring component properties](https://www.linkedin.com/learning/react-essential-training/destructuring-component-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +822,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -844,8 +830,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
+#### [Working with lists](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980&t=31)** 1, 2, 3.
 >
-> **[0:34](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980&t=34)** So, assuming my project is running with NPM Run Dev, I should see that on local host 5173, all of our list items are appearing.
+> **[0:34](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980&t=34)** So, assuming my project is running with [[npm]] Run Dev, I should see that on local host 5173, all of our list items are appearing.
 >
 > **[0:44](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980&t=44)** But this would be more fun if this was dynamic data.
 >
@@ -915,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[npm]] (1), application (1), css (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** npm (1), jsx (1), css (1)
 > **CLI Commands:** make (1), npm (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -923,8 +908,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding keys to list items
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980)
+#### [Adding keys to list items](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +920,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980&t=25)** A key is like an ID that helps you keep everything in sync.
 >
-> **[0:29](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980&t=29)** It's possible with React that things might get out of sync, particularly if something is added to the DOM at the beginning or the middle, instead of at the end of the list.
+> **[0:29](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980&t=29)** It's possible with [[React.js|React]] that things might get out of sync, particularly if something is added to the DOM at the beginning or the middle, instead of at the end of the list.
 >
 > **[0:40](https://www.linkedin.com/learning/react-essential-training/adding-keys-to-list-items?u=76281980&t=40)** So a quick way to fix this here on line 21 would be to add a key called I, some sort of value that we can assign here on line 22 so that every time we go through this little loop here, it's going to add this key dynamically.
 >
@@ -994,21 +978,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[React.js|React]] (2), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** dishobjects (4)
 > **Cross-References:** previous video (1), go back to (1)
 > **Env Vars:** dom (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying images with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980)
+#### [Displaying images with React](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=0)** - [Instructor] Now that we know how to add text to our React application, let's add an image.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=0)** - [Instructor] Now that we know how to add text to our [[React.js|React]] application, let's add an image.
 >
-> **[0:05](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=5)** This can feel a little confusing, but we can add them just like we would in an HTML file.
+> **[0:05](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=5)** This can feel a little confusing, but we can add them just like we would in an [[HTML]] file.
 >
 > **[0:11](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=11)** So to start, I want to point out that I have a new folder here called images.
 >
@@ -1050,7 +1033,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=114)** Okay, so from here, what we can do also, let's say I wanted to pass in the URL of a different image.
 >
-> **[2:01](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=121)** We're just going to use this little GitHub thing.
+> **[2:01](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=121)** We're just going to use this little [[GitHub]] thing.
 >
 > **[2:04](https://www.linkedin.com/learning/react-essential-training/displaying-images-with-react?u=76281980&t=124)** A tricky little fun thing you should know about GitHub is you can always grab your image by using whatever your GitHub name is .png.
 >
@@ -1070,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (1), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (1), [[HTML]] (1)
 > **Env Vars:** jsx (2), html (1), url (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
@@ -1079,8 +1062,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** don't forget (1)
 
-#### Using Fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980)
+#### [Using Fragments](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,13 +1072,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=18)** So welcome to this beautiful restaurant.
 >
-> **[0:26](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=26)** And if I'm being a good HTML-ian, I can wrap that in an H2.
+> **[0:26](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=26)** And if I'm being a good [[HTML]]-ian, I can wrap that in an H2.
 >
 > **[0:33](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=33)** So as soon as I do that, we notice a problem, because we see that squiggly underline.
 >
 > **[0:38](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=38)** But let's run our app to make sure that we understand why we see that.
 >
-> **[0:44](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=44)** So if we type NPM run dev, so we should see some sort of error.
+> **[0:44](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=44)** So if we type [[npm]] run dev, so we should see some sort of error.
 >
 > **[0:49](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=49)** And this is letting us know that adjacent JSX elements must be wrapped in an enclosing tag.
 >
@@ -1106,7 +1088,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=62)** And a JSX fragment exists to keep us from doing this.
 >
-> **[1:08](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=68)** In the old days of React before we had a JSX fragment, we would always be wrapping these adjoining tags in usually a div.
+> **[1:08](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=68)** In the old days of [[React.js|React]] before we had a JSX fragment, we would always be wrapping these adjoining tags in usually a div.
 >
 > **[1:21](https://www.linkedin.com/learning/react-essential-training/using-fragments?u=76281980&t=81)** So that would make all of this code work, but then that starts to clutter up the DOM with a bunch of extra divs.
 >
@@ -1148,7 +1130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), dom (3), [[HTML]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** jsx (8), dom (3), html (1), npm (1)
 > **CLI Commands:** make (2), npm (1)
 > **Speakers:** - [instructor] (1)
@@ -1158,12 +1140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Destructuring arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
+#### [Destructuring arrays](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=0)** - [Instructor] Before we start embarking on our state management journey with React, it's going to be useful to understand some syntax you'll be facing when working on these projects.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=0)** - [Instructor] Before we start embarking on our state management journey with [[React.js|React]], it's going to be useful to understand some syntax you'll be facing when working on these projects.
 >
 > **[0:11](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=11)** So we've already talked about destructuring in the context of the header here.
 >
@@ -1187,9 +1168,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=66)** We're going to get into the 04_01c/react-project.
 >
-> **[1:14](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=74)** We're going to run npm run dev, and then over here in our browser console, we should see the first item, giraffe.
+> **[1:14](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=74)** We're going to run [[npm]] run dev, and then over here in our browser console, we should see the first item, giraffe.
 >
-> **[1:24](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=84)** Now due to array destructuring, that's part of the ecma script spec, the JavaScript spec, we can actually handle this slightly differently.
+> **[1:24](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=84)** Now due to array destructuring, that's part of the ecma script spec, the [[JavaScript]] spec, we can actually handle this slightly differently.
 >
 > **[1:33](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980&t=93)** So I could say here on line five, I'll open and close a set of square brackets, and if I wanted to access the first item, I'll create a variable name for it.
 >
@@ -1217,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), management (1), [[npm]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Code Identifiers:** firstanimal (2)
 > **Documentation:** spec (2)
@@ -1226,12 +1207,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Understanding the useState hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/understanding-the-usestate-hook?u=76281980)
+#### [Understanding the useState hook](https://www.linkedin.com/learning/react-essential-training/understanding-the-usestate-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/understanding-the-usestate-hook?u=76281980&t=0)** - [Instructor] Managing state in a React application is really important, and the most modern way to handle state variables in an app is to use a function called useState.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/understanding-the-usestate-hook?u=76281980&t=0)** - [Instructor] Managing state in a [[React.js|React]] application is really important, and the most modern way to handle state variables in an app is to use a function called useState.
 >
 > **[0:11](https://www.linkedin.com/learning/react-essential-training/understanding-the-usestate-hook?u=76281980&t=11)** Let's take a look.
 >
@@ -1301,7 +1281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** usestate (6), setstatus (3), onclick (2), dishobjects (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1310,8 +1290,7 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **UI Navigation:** toggle (1)
 
-#### Toggling state with a button
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/toggling-state-with-a-button?u=76281980)
+#### [Toggling state with a button](https://www.linkedin.com/learning/react-essential-training/toggling-state-with-a-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1365,14 +1344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** click on (4), toggle (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** jsx (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling state with nested components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980)
+#### [Handling state with nested components](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980&t=8)** So we have header and we have main.
 >
-> **[0:11](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980&t=11)** A best practice that is often talked about in React is how we want as much as possible to lift state up in our application.
+> **[0:11](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980&t=11)** A best practice that is often talked about in [[React.js|React]] is how we want as much as possible to lift state up in our application.
 >
 > **[0:20](https://www.linkedin.com/learning/react-essential-training/handling-state-with-nested-components?u=76281980&t=20)** And what that means is we want it to be as high up in the tree as possible.
 >
@@ -1462,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** openstatus (5), onstatus (4), usestate (2), onclick (2), setstatus (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1471,14 +1448,13 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing state with useReducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980)
+#### [Managing state with useReducer](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980&t=0)** - [Instructor] Let's make some adjustments here to our App.jsx so that we can handle our state management in a slightly different way.
 >
-> **[0:09](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980&t=9)** So here we're going to import useReducer from React, and we will use that function.
+> **[0:09](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980&t=9)** So here we're going to import useReducer from [[React.js|React]], and we will use that function.
 >
 > **[0:18](https://www.linkedin.com/learning/react-essential-training/managing-state-with-usereducer?u=76281980&t=18)** This is just another hook that's supplied to us by the React library.
 >
@@ -1522,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), management (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** usereducer (6), usestate (1), onstatus (1), setstatus (1)
 > **UI Navigation:** toggle (3)
 > **File Paths:** app.jsx (1)
@@ -1531,12 +1507,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the useEffect hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-the-useeffect-hook?u=76281980)
+#### [Working with the useEffect hook](https://www.linkedin.com/learning/react-essential-training/working-with-the-useeffect-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/working-with-the-useeffect-hook?u=76281980&t=0)** - [Instructor] Another important hook that's part of the React library is useEffect.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/working-with-the-useeffect-hook?u=76281980&t=0)** - [Instructor] Another important hook that's part of the [[React.js|React]] library is useEffect.
 >
 > **[0:04](https://www.linkedin.com/learning/react-essential-training/working-with-the-useeffect-hook?u=76281980&t=4)** useEffect can feel a little tricky because it's typically used to manage side effects that aren't really related to a component's render.
 >
@@ -1598,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** useeffect (7), usereducer (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1608,16 +1583,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a project with Next.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
+#### [Creating a project with Next.js](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=0)** - [Instructor] If we take a look at 05_01b, you might notice that it's now an empty folder.
 >
-> **[0:06](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=6)** This is by design because we're going to be creating a new project inside of this folder using Next.js.
+> **[0:06](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=6)** This is by design because we're going to be creating a new project inside of this folder using [[Next.js]].
 >
-> **[0:14](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=14)** Next.js is one of the most common React frameworks out there, and it's one that's recommended by the official React team for creating your projects.
+> **[0:14](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=14)** Next.js is one of the most common [[React.js|React]] frameworks out there, and it's one that's recommended by the official React team for creating your projects.
 >
 > **[0:23](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=23)** So I want to show you this framework because within it is baked in a lot of those best practices in the world of React.
 >
@@ -1639,7 +1613,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=71)** You then can decide whether to use TypeScript.
 >
-> **[1:13](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=73)** I'm going to choose No for now. ESLint? I'll say No for now.
+> **[1:13](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=73)** I'm going to choose No for now. [[ESLint]]? I'll say No for now.
 >
 > **[1:17](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=77)** Let's go ahead and incorporate Tailwind.
 >
@@ -1653,7 +1627,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=95)** So from here, what I can do is migrate to that project, next-react-project.
 >
-> **[1:45](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=105)** So once I've done all of that installation, I'm going to run npm run dev.
+> **[1:45](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=105)** So once I've done all of that installation, I'm going to run [[npm]] run dev.
 >
 > **[1:50](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=110)** This is going to stand up a Next.js project at localhost:3000 So I can go back to the browser, go to localhost:3000, and this is going to pull this up.
 >
@@ -1667,7 +1641,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=144)** And this is going to allow us to create routes for different endpoints within our application.
 >
-> **[2:30](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=150)** If we look at the layout.js file, this is sort of the metadata of the project as well as the HTML.
+> **[2:30](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=150)** If we look at the layout.js file, this is sort of the [[Metadata]] of the project as well as the [[HTML]].
 >
 > **[2:38](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980&t=158)** So just like we injected our React code into the body of our V app, we're doing the same thing here.
 >
@@ -1695,7 +1669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), [[Next.js]] (8), next (4), application (2), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Next.js]] (8), [[ESLint]] (1), [[npm]] (1), [[Metadata]] (1)
 > **File Paths:** next.js (8), layout.js (1), page.js (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (3), in other words (1)
@@ -1704,16 +1678,15 @@ created: 2026-05-02
 > **Ports:** :3000 (3)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Using the App Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980)
+#### [Using the App Router](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=0)** - [Instructor] As I mentioned in the previous video, we're using Next.js, and specifically, we're using the App Router.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=0)** - [Instructor] As I mentioned in the previous video, we're using [[Next.js]], and specifically, we're using the App Router.
 >
 > **[0:06](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=6)** What this means is that within my project, my Next.js project, we have a folder called app that's going to create all of the different routes that are part of our application.
 >
-> **[0:17](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=17)** So, this is a file-based routing structure that we can use so that anytime I create a folder, like mountain, this is going to create a new route for me.
+> **[0:17](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=17)** So, this is a file-based [[Routing]] structure that we can use so that anytime I create a folder, like mountain, this is going to create a new route for me.
 >
 > **[0:30](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=30)** Within that mountain folder, I can create a new file called page.js, and the page.js file is going to display whatever content we want to see when I hit this route.
 >
@@ -1721,7 +1694,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=54)** Inside the main component, we'll add an h1, Lift Status Info.
 >
-> **[1:02](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=62)** So, within the next React project, we're going to run npm run dev, go to localhost:3000, and we see our homepage here, but we're here really to look for mountain, right?
+> **[1:02](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=62)** So, within the next [[React.js|React]] project, we're going to run [[npm]] run dev, go to localhost:3000, and we see our homepage here, but we're here really to look for mountain, right?
 >
 > **[1:15](https://www.linkedin.com/learning/react-essential-training/using-the-app-router?u=76281980&t=75)** And this is going to show our Lift Status Info.
 >
@@ -1783,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (3), next (2), application (1), [[Routing]] (1), hit (1)
+> **Frameworks & Libraries:** [[Next.js]] (3), [[Routing]] (1), [[React.js|React]] (1), [[npm]] (1)
 > **File Paths:** next.js (3), page.js (2)
 > **CLI Commands:** make (3), npm (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1792,18 +1765,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** previous video (1)
 
-#### Building a server component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980)
+#### [Building a server component](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=0)** - [Narrator] Within our React project here, within our next JS React project, to be specific, we have our app directory that's going to contain all of the files that we're going to render in the app.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=0)** - [Narrator] Within our [[React.js|React]] project here, within our next JS React project, to be specific, we have our app directory that's going to contain all of the files that we're going to render in the app.
 >
 > **[0:12](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=12)** So what's kind of hiding in plain sight here?
 >
 > **[0:15](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=15)** So if I run this app on localhost:3000, I can see that these routes are being created for mountain, for our home route, and then we have links in between them.
 >
-> **[0:28](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=28)** Anytime I create a component using Next.js, by default, this is a server component.
+> **[0:28](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=28)** Anytime I create a component using [[Next.js]], by default, this is a server component.
 >
 > **[0:35](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=35)** So think of a server component as a component that allows you to write some UI that can be rendered and optionally cached on the server.
 >
@@ -1811,7 +1783,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=57)** You're going to see a lot of these chunks, these pieces of the app that are being imported also at the end of the body because they want to make this as efficient as possible.
 >
-> **[1:10](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=70)** We want to render something and then load our JavaScript in the background.
+> **[1:10](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=70)** We want to render something and then load our [[JavaScript]] in the background.
 >
 > **[1:14](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=74)** All of this JavaScript is being rendered as this string.
 >
@@ -1827,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=121)** So this is why we're export default function Page, that is how we're creating this component so that it can be properly consumed.
 >
-> **[2:11](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=131)** So basically anything that's on the page is this interactive preview of HTML, and then anything that's interactive can be hydrated with that JavaScript.
+> **[2:11](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=131)** So basically anything that's on the page is this interactive preview of [[HTML]], and then anything that's interactive can be hydrated with that JavaScript.
 >
 > **[2:23](https://www.linkedin.com/learning/react-essential-training/building-a-server-component?u=76281980&t=143)** So let's go ahead and make a couple adjustments here.
 >
@@ -1891,7 +1863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (3), data (2), next (1), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (3), [[Next.js]] (1), [[HTML]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** page.js (2), next.js (1)
 > **Env Vars:** html (1), css (1)
@@ -1900,14 +1872,13 @@ created: 2026-05-02
 > **Code Identifiers:** classname (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 
-#### Challenge: Creating a route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980)
+#### [Challenge: Creating a route](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980&t=0)** - [Instructor] I have a little challenge here for you.
 >
-> **[0:07](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980&t=7)** Within the next React project, there is a README file with some instructions for a challenge.
+> **[0:07](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980&t=7)** Within the next [[React.js|React]] project, there is a README file with some instructions for a challenge.
 >
 > **[0:14](https://www.linkedin.com/learning/react-essential-training/challenge-creating-a-route?u=76281980&t=14)** I'd like you to create a new route at /contact.
 >
@@ -1925,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** readme (1)
 > **Cross-References:** in the next (1)
@@ -1934,8 +1905,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating a route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980)
+#### [Solution: Creating a route](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1951,9 +1921,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=31)** (keys clicking) And we export a component.
 >
-> **[0:37](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=37)** In React, we want to always make sure that our component name is capitalized.
+> **[0:37](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=37)** In [[React.js|React]], we want to always make sure that our component name is capitalized.
 >
-> **[0:41](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=41)** That is a React thing, not a Next.js thing necessarily.
+> **[0:41](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=41)** That is a React thing, not a [[Next.js]] thing necessarily.
 >
 > **[0:46](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=46)** Let's go ahead and return a main element, and we'll say, "Contact us!"
 >
@@ -1961,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=55)** So this should be exported from that route.
 >
-> **[0:58](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=58)** If I go to the correct folder, I make sure all of my node modules are installed, and I run "npm run dev."
+> **[0:58](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=58)** If I go to the correct folder, I make sure all of my node modules are installed, and I run "[[npm]] run dev."
 >
 > **[1:09](https://www.linkedin.com/learning/react-essential-training/solution-creating-a-route?u=76281980&t=69)** This should run.
 >
@@ -2003,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Next.js]] (1), node (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Next.js]] (1), [[npm]] (1)
 > **CLI Commands:** make (3), node (1), npm (1)
 > **UI Navigation:** go to (4), click on (1)
 > **File Paths:** next.js (1), layout.js (1)
@@ -2017,12 +1987,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fetching data in React applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
+#### [Fetching data in React applications](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=0)** - [Instructor] Whenever possible in a Next.js application, the best way to fetch data on the server is in a server component.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=0)** - [Instructor] Whenever possible in a [[Next.js]] application, the best way to [[Fetch]] data on the server is in a server component.
 >
 > **[0:07](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=7)** So what this is going to mean for us is that we're going to fetch and render data in the same location.
 >
@@ -2038,7 +2007,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=41)** You might have seen it in Node.
 >
-> **[0:43](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=43)** There's all these different types of fetches that you can do to ask a REST API for some data and to get it back.
+> **[0:43](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=43)** There's all these different types of fetches that you can do to ask a [[Representational State Transfer (REST)|REST]] API for some data and to get it back.
 >
 > **[0:52](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=52)** So just for the sake of clarity here, I want to say that this fetch is a Next.js wrapper around fetch, but it does much the same thing.
 >
@@ -2046,7 +2015,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=73)** So that's the location of this REST API.
 >
-> **[1:16](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=76)** So what I'll do is return response.json and that will take whatever the response is here and turn it into a JSON string.
+> **[1:16](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=76)** So what I'll do is return response.[[JSON]] and that will take whatever the response is here and turn it into a JSON string.
 >
 > **[1:26](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980&t=86)** So from here what I can do is fetch this data directly in the page.
 >
@@ -2116,7 +2085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Fetch]] (10), api (4), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (10), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[Next.js]] (2)
 > **Env Vars:** api (3), json (3), rest (2)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** next.js (2), response.json (1)
@@ -2125,14 +2094,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Passing data as props
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980)
+#### [Passing data as props](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=0)** - [Instructor] We've gotten to see how all of our components by default in an XJS application are server components.
 >
-> **[0:08](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=8)** This means that they're going to be server rendered as HTML, and then anything that is going to be interactive, we need to handle that in a slightly different way.
+> **[0:08](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=8)** This means that they're going to be server rendered as [[HTML]], and then anything that is going to be interactive, we need to handle that in a slightly different way.
 >
 > **[0:18](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=18)** So we're going to make some adjustments here specifically to our hotels component.
 >
@@ -2144,15 +2112,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=37)** So we're going to grab it like we did before.
 >
-> **[0:41](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=41)** So we'll say const res equals await fetch.
+> **[0:41](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=41)** So we'll say const res equals await [[Fetch]].
 >
 > **[0:47](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=47)** So our response is going to fetch from https, snowtooth-hotel-api.[fly.dev](https://fly.dev).
 >
-> **[0:59](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=59)** Okay, and once we do that, we can return response.json.
+> **[0:59](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=59)** Okay, and once we do that, we can return response.[[JSON]].
 >
 > **[1:06](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=66)** So make the request and return it as JSON.
 >
-> **[1:11](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=71)** Just like we did before, we are to use a $100,000 word, co-locating our request with our component.
+> **[1:11](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=71)** Just like we did before, we are to use a $100,000 [[Microsoft Word|word]], co-locating our request with our component.
 >
 > **[1:20](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=80)** So we are going to grab it here, getData.
 >
@@ -2170,7 +2138,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=120)** So let's make sure that we are in the right context here.
 >
-> **[2:04](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=124)** We're going to look in 06_02b/next-react-project.
+> **[2:04](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=124)** We're going to look in 06_02b/next-[[React.js|react]]-project.
 >
 > **[2:15](https://www.linkedin.com/learning/react-essential-training/passing-data-as-props?u=76281980&t=135)** Then we're going to run npn run dev.
 >
@@ -2268,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (3), [[HTML]] (2), [[Fetch]] (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[HTML]] (2), [[Fetch]] (2), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (2), json (2), xjs (1), jsx (1)
 > **Code Identifiers:** getdata (1), classname (1)
@@ -2277,16 +2245,15 @@ created: 2026-05-02
 > **File Paths:** response.json (1)
 > **URLs:** [fly.dev](https://fly.dev) (1)
 
-#### Creating a client component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980)
+#### [Creating a client component](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=0)** - [Instructor] Currently, we are rendering a few different components that are loading dynamic data from that REST API.
+> **[0:00](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=0)** - [Instructor] Currently, we are rendering a few different components that are loading dynamic data from that [[Representational State Transfer (REST)|REST]] API.
 >
-> **[0:08](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=8)** So within this component, we fetch some data, we populate it into the page, and then that passes data down to each one of these HotelBlocks.
+> **[0:08](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=8)** So within this component, we [[Fetch]] some data, we populate it into the page, and then that passes data down to each one of these HotelBlocks.
 >
-> **[0:17](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=17)** Now something that is an important thing to know about working with Next.js is the concept of client components.
+> **[0:17](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=17)** Now something that is an important thing to know about working with [[Next.js]] is the concept of client components.
 >
 > **[0:25](https://www.linkedin.com/learning/react-essential-training/creating-a-client-component?u=76281980&t=25)** We know that we fetch data most often in a server component, and that all of our components are by default server components when we're working in a Next application.
 >
@@ -2360,7 +2327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Next.js]] (3), next (3), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (3), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** next.js (3), hotelblock.js (1)
 > **Env Vars:** url (2), rest (1), api (1)
 > **CLI Commands:** make (3)
@@ -2369,8 +2336,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a form
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980)
+#### [Building a form](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2390,7 +2356,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=41)** There are a few attributes that we want to add.
 >
-> **[0:45](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=45)** So we're going to say HTML for email.
+> **[0:45](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=45)** So we're going to say [[HTML]] for email.
 >
 > **[0:49](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=49)** Then we're going to, in the input, create an ID of email, a type of email, a name email, and then we'll say that it's required.
 >
@@ -2436,7 +2402,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=177)** Let's add a style for our H1.
 >
-> **[2:59](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=179)** Remember, we always use class name instead of class and react unless we forget and then we have to go back and do it.
+> **[2:59](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=179)** Remember, we always use class name instead of class and [[React.js|react]] unless we forget and then we have to go back and do it.
 >
 > **[3:06](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=186)** But still, we should be doing that from the start.
 >
@@ -2498,7 +2464,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=346)** So that's looking good.
 >
-> **[5:47](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=347)** This is another benefit of working with Next.js.
+> **[5:47](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=347)** This is another benefit of working with [[Next.js]].
 >
 > **[5:51](https://www.linkedin.com/learning/react-essential-training/building-a-form?u=76281980&t=351)** We can configure it to work with Tailwind so that we can just jump in and we can start to add those classes to our elements.
 >
@@ -2508,7 +2474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (1), next (1), [[React.js|React]] (1), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[React.js|React]] (1), [[Next.js]] (1)
 > **Env Vars:** html (3)
 > **Prerequisites:** configure (2)
 > **File Paths:** next.js (1)
@@ -2516,8 +2482,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a server action
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980)
+#### [Creating a server action](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2579,7 +2544,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=181)** And then we're going to click send.
 >
-> **[3:03](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=183)** So sometimes when we're dealing with Next.js code, a quick hint here, we will look in the browser console for our contact us message, and we don't see it.
+> **[3:03](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=183)** So sometimes when we're dealing with [[Next.js]] code, a quick hint here, we will look in the browser console for our contact us message, and we don't see it.
 >
 > **[3:18](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=198)** So the place we actually want to look for this, because this is a server action.
 >
@@ -2595,11 +2560,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=232)** It's called submitForm, and we've wired it up to the form element by adding it as an attribute.
 >
-> **[3:59](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=239)** So whatever types of mutations or form submissions that you want to create, if you're working with Next.js in React, it's a good idea to take advantage of these server actions.
+> **[3:59](https://www.linkedin.com/learning/react-essential-training/creating-a-server-action?u=76281980&t=239)** So whatever types of mutations or form submissions that you want to create, if you're working with Next.js in [[React.js|React]], it's a good idea to take advantage of these server actions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (2), data (1), application (1), api (1), database (1)
+> **Frameworks & Libraries:** [[Next.js]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** submitform (3), formdata (2), formfields (2), useserver (1)
 > **File Paths:** next.js (2), page.js (1)
 > **Env Vars:** todo (1), api (1)
@@ -2613,20 +2578,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing performant apps with React Server Components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)
+#### [Designing performant apps with React Server Components](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=0)** - [Instructor] Well, we did it.
 >
-> **[0:01](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=1)** We built a couple different React applications first using Vites and second using Next.js to introduce the fundamentals of the React library.
+> **[0:01](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=1)** We built a couple different [[React.js|React]] applications first using Vites and second using [[Next.js]] to introduce the fundamentals of the React library.
 >
 > **[0:11](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=11)** Now from here, there are a couple different directions that you can go in, depending on what you most enjoy and what your work requirements are.
 >
-> **[0:20](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=20)** So I would definitely check out more on Next.js data storage options.
+> **[0:20](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=20)** So I would definitely check out more on Next.js [[Data Storage]] options.
 >
-> **[0:24](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=24)** So this would probably involve another tool on top of Next.js, but learning to store data in databases, REST APIs, even GraphQL APIs, all are different next steps that you can take as you're starting to build out your apps.
+> **[0:24](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=24)** So this would probably involve another tool on top of Next.js, but learning to store data in [[Databases]], [[Representational State Transfer (REST)|REST]] APIs, even [[GraphQL]] APIs, all are different next steps that you can take as you're starting to build out your apps.
 >
 > **[0:41](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980&t=41)** I would also recommend learning more about React server components.
 >
@@ -2644,7 +2608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (7), [[React.js|React]] (5), data (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (7), [[React.js|React]] (5), [[Data Storage]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** next.js (7)
 > **CLI Commands:** make (1)
 > **Env Vars:** rest (1)

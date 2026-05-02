@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is it important to be flexible?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980)
+#### [Why is it important to be flexible?](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,17 +98,17 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=63)** Well, talk about how to prepare for last minute changes, ways to properly set stakeholder expectations, how to maintain your flexibility, and why this flexibility may very well allow you to have a lot more fun along the way.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=78)** I'm Cory Lebson, author of the UX Careers Handbook and a long time UX Research consultant.
+> **[1:18](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=78)** I'm Cory Lebson, author of the UX Careers Handbook and a long time [[UX Research]] consultant.
 >
 > **[1:24](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=84)** Who's been advocating for flexible research practices for many years.
 >
 > **[1:29](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=89)** And who discovered along the way that no matter what surprises happen the research can continue to be a success.
 >
-> **[1:36](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=96)** Join me on LinkedIn Learning, and learn how you can become a flexible user researcher too.
+> **[1:36](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980&t=96)** Join me on [[LinkedIn]] Learning, and learn how you can become a flexible user researcher too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [cory] (1)
 
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What can go wrong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980)
+#### [What can go wrong?](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=4)** We plan, we act, we see success.
 >
-> **[0:08](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=8)** Your natural inclination may be to think that your UX research should also be perfect.
+> **[0:08](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=8)** Your natural inclination may be to think that your [[UX Research]] should also be perfect.
 >
 > **[0:14](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=14)** You plan.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=49)** Yet a delay in the overall product schedule may push the dates out.
 >
-> **[0:54](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=54)** A change in the product strategy may alter your research questions, and in fact, may impact the method you use as well.
+> **[0:54](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=54)** A change in the [[Product Strategy]] may alter your research questions, and in fact, may impact the method you use as well.
 >
 > **[1:03](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980&t=63)** Stakeholders may give you new information at the last-minute that throws is a wrench into your plans or messes up some of your study logistics.
 >
@@ -164,12 +162,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), ux (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Product Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexible scheduling and planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-scheduling-and-planning?u=76281980)
+#### [Flexible scheduling and planning](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-scheduling-and-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,14 +224,13 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [narrator] (1)
 
-#### Agile flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980)
+#### [Agile flexibility](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=1)** - [Instructor] Today, [[Agile Software Development]] has largely replaced a waterfall approach and certainly has a number of benefits for companies and development teams.
+> **[0:01](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=1)** - [Instructor] Today, [[[[Agile Software Development]]]] has largely replaced a waterfall approach and certainly has a number of benefits for companies and development teams.
 >
-> **[0:10](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=10)** By and large, most projects that I do represent some form of agile development.
+> **[0:10](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=10)** By and large, most projects that I do represent some form of [[Agile Development|agile]] development.
 >
 > **[0:16](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=16)** In some cases, it's flexible agile.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=33)** A standup may not really involve anyone standing up and may not occur every day.
 >
-> **[0:39](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=39)** Other times, teams are a bit more rigidly agile, and sometimes even use a safe agile approach, which applies an even more rigid standard to allow scalability.
+> **[0:39](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=39)** Other times, teams are a bit more rigidly agile, and sometimes even use a safe agile approach, which applies an even more rigid standard to allow [[Scalability]].
 >
 > **[0:50](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=50)** In these cases, development sprints are really two weeks, and the full scale of meetings, planning, and retrospectives are to the proper agile approach.
 >
@@ -270,13 +266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (3), [[Agile Software Development]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Agile Software Development]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare for last-minute changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/prepare-for-last-minute-changes?u=76281980)
+#### [Prepare for last-minute changes](https://www.linkedin.com/learning/ux-research-being-flexible/prepare-for-last-minute-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,13 +311,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), game (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexible travel plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-travel-plans?u=76281980)
+#### [Flexible travel plans](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-travel-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +351,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -367,8 +359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Properly set stakeholder expectations for surprises
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980)
+#### [Properly set stakeholder expectations for surprises](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980&t=88)** While this is certainly easier when you can talk in person between sessions, if you are remote, a quick reassuring text.
 >
-> **[1:35](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980&t=95)** Or better yet, a voice call between sessions could put suspected worry to rest.
+> **[1:35](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980&t=95)** Or better yet, a voice call between sessions could put suspected worry to [[Representational State Transfer (REST)|rest]].
 >
 > **[1:41](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980&t=101)** Also let stakeholder is know in advance which surprises may impact the budget.
 >
@@ -432,13 +423,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Baked-in flexibility in your research approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980)
+#### [Baked-in flexibility in your research approach](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +454,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980&t=100)** I also let them know that with our flexible research approach they welcome to suggest changes to the test plan, and I'll do the same if I think something isn't working.
 >
-> **[1:49](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980&t=109)** More generally, I remind stakeholders that this isn't a science experiment, but an opportunity to learn as much as we can to improve the products they are responsible for.
+> **[1:49](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980&t=109)** More generally, I remind stakeholders that this isn't a science experiment, but an opportunity to learn as much as we can to improve the [[Microsoft Products|products]] they are responsible for.
 >
 > **[2:01](https://www.linkedin.com/learning/ux-research-being-flexible/baked-in-flexibility-in-your-research-approach?u=76281980&t=121)** As such, it's about iteration.
 >
@@ -478,13 +468,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexible scripts and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-scripts-and-reports?u=76281980)
+#### [Flexible scripts and reports](https://www.linkedin.com/learning/ux-research-being-flexible/flexible-scripts-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,8 +528,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surprises with recruiting criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980)
+#### [Surprises with recruiting criteria](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980&t=57)** Encourage them to come to you with any possible question, not just toss a schedule over the virtual wall.
 >
-> **[1:03](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980&t=63)** Also set a real time Google Sheet or even ask for a list of names and participant characteristics emailed to you regularly, so you can see if you notice any flaws in the attributes you set up.
+> **[1:03](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980&t=63)** Also set a real time [[Google]] Sheet or even ask for a list of names and participant characteristics emailed to you regularly, so you can see if you notice any flaws in the attributes you set up.
 >
 > **[1:15](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-with-recruiting-criteria?u=76281980&t=75)** But even if the participant seem perfect to you and to the recruiter on paper, you'll still find glitches.
 >
@@ -580,8 +568,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surprises from participants who meet all the criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-from-participants-who-meet-all-the-criteria?u=76281980)
+#### [Surprises from participants who meet all the criteria](https://www.linkedin.com/learning/ux-research-being-flexible/surprises-from-participants-who-meet-all-the-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,15 +612,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), express (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Where can technology fail you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980)
+#### [Where can technology fail you?](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=91)** Sometimes the internet is just slow.
 >
-> **[1:35](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=95)** To anticipate internet related issues, I often do a bandwidth speed test immediately, which is as simple as typing the words, bandwidth speed test into Google.
+> **[1:35](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=95)** To anticipate internet related issues, I often do a bandwidth speed test immediately, which is as simple as typing the words, bandwidth speed test into [[Google]].
 >
 > **[1:45](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=105)** For internet issues, stay calm and see if waiting it out will do the trick.
 >
@@ -697,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Best Practices:** the key is (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -708,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be the best researcher you can be
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/be-the-best-researcher-you-can-be?u=76281980)
+#### [Be the best researcher you can be](https://www.linkedin.com/learning/ux-research-being-flexible/be-the-best-researcher-you-can-be?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +717,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

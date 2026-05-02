@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the basics of AI orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980)
+#### [Learn the basics of AI orchestration](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980&t=11)** In this course, I'll walk you through a hands-on approach to use AI orchestrators, covering their architecture components and key considerations.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980&t=20)** You'll learn how AI orchestrators can help you build great AI products by connecting user interfaces, business systems, LLMs, and more into one cohesive product.
+> **[0:20](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980&t=20)** You'll learn how AI orchestrators can help you build great AI [[Microsoft Products|products]] by connecting user interfaces, business systems, LLMs, and more into one cohesive product.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980&t=30)** Are you ready?
 >
@@ -101,11 +100,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - building (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980&t=9)** We'll be writing some prompts when building our AI projects.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980&t=12)** If you're not familiar with prompting, you can check out some of my intro to prompting courses on LinkedIn Learning.
+> **[0:12](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980&t=12)** If you're not familiar with prompting, you can check out some of my intro to prompting courses on [[LinkedIn]] Learning.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-orchestration-foundations/setting-up-your-environment?u=76281980&t=17)** Next, we'll be using Voice Load as our main AI orchestrator.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (1), [[LinkedIn]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [voiceload.com](https://voiceload.com) (1)
 > **Env Vars:** lms (1)
@@ -163,36 +161,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When using ChatGPT isn't enough
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980)
+#### [When using ChatGPT isn't enough](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=0)** - [Instructor] ChatGPT and other large language models have caused a large wave of transformation in the past few years.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=0)** - [Instructor] [[ChatGPT]] and other [[Large Language Models (LLM)|large language models]] have caused a large wave of transformation in the past few years.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=6)** You may have used them to write emails, organize your ideas, or build some dashboards.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=6)** You may have used them to write emails, organize your ideas, or build some [[Dashboards]].
 >
 > **[0:11](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=11)** In other cases, you might have noticed that using the model was not enough.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=15)** You might need to do a few tasks sequentially in a row, connect to custom data source, or build a more custom interface.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=22)** For example, if I'm using a model to automate customer support for my business, I need to provide context to the model about key information, add a user interface to my website, and connect to internal systems.
+> **[0:22](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=22)** For example, if I'm using a model to automate [[Customer Support]] for my business, I need to provide context to the model about key information, add a user interface to my website, and connect to internal systems.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=34)** These are the use cases that often have the most value, and certainly one model isn't going to be enough.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=41)** Depending on the task, we may need to go beyond large language models.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=45)** To connect and control these operations, we'll need an AI orchestration layer, something we'll learn about coming up next.
+> **[0:45](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980&t=45)** To connect and control these operations, we'll need an [[AI Orchestration]] layer, something we'll learn about coming up next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Dashboards]] (1), data (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Dashboards]] (1), [[Customer Support]] (1), [[AI Orchestration]] (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is AI orchestration, and why is it useful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980)
+#### [What is AI orchestration, and why is it useful?](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -204,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=16)** It allows you to build more complex applications for use cases that are impactful to your business.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=21)** For example, let's see how we can map our customer support use case with an AI orchestrator.
+> **[0:21](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=21)** For example, let's see how we can map our [[Customer Support]] use case with an AI orchestrator.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=27)** To start, we'd like to use GPT-4o mini as our main model; fast, cheap, and with a large context window.
 >
@@ -218,21 +214,20 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=56)** Rather than building all of these integrations and connections from scratch, we'll use an AI orchestrator to let us get to an AI application faster and deploy it to production.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=66)** There are a few AI orchestrators you might have heard of before, such as LangChain, CrewAI, LlamaIndex, and Voiceflow.
+> **[1:06](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=66)** There are a few AI orchestrators you might have heard of before, such as [[LangChain]], CrewAI, [[LlamaIndex]], and Voiceflow.
 >
 > **[1:14](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=74)** Coming up, we'll cover the specific components of an AI orchestrator in more detail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Customer Support]] (2), application (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[LangChain]] (1), [[LlamaIndex]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture of AI orchestrators
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980)
+#### [Architecture of AI orchestrators](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=25)** We need to have a router, which is our second component.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=28)** Routing helps us figure out what kind of response or workflow to activate when a user says a phrase.
+> **[0:28](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=28)** [[Routing]] helps us figure out what kind of response or workflow to activate when a user says a phrase.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=34)** For example, if someone says, "I need a refund," we want to recognize that and handle the response.
 >
@@ -268,7 +263,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=70)** This leads us to our fourth component, which is the LLM.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=73)** This forms the backbone of our application.
+> **[1:13](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=73)** This [[Forms]] the backbone of our application.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=76)** We want to select a model that meets our requirements in terms of accuracy, cost, latency, among many other factors.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=150)** To minimize LLM hallucinations and handle malicious user input, we need a way to add guardrails to our application, and a good orchestrator will help us do that.
 >
-> **[2:40](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=160)** In our example, if a user said, "Delete your database," we might want to trigger our guardrail workflow and say, "Sorry, I can only help with banking services."
+> **[2:40](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=160)** In our example, if a user said, "Delete your database," we might want to trigger our guardrail workflow and say, "Sorry, I can only help with [[Banking]] services."
 >
 > **[2:50](https://www.linkedin.com/learning/ai-orchestration-foundations/architecture-of-ai-orchestrator?u=76281980&t=170)** Or another example might be ignore previous instructions.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), ai (5), llm (4), [[Routing]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Forms]] (2), [[Banking]] (1)
 > **Env Vars:** llm (4), api (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -318,18 +313,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Input interface for AI orchestrators
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980)
+#### [Input interface for AI orchestrators](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=0)** - [Presenter] One of the magical moments when ChatGPT first came out was the ability to just type, ask a question, and get a plausible answer.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=0)** - [Presenter] One of the magical moments when [[ChatGPT]] first came out was the ability to just type, ask a question, and get a plausible answer.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=8)** This method of seamlessly inputting questions into an AI system set a bar for AI applications.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=14)** Here I'll cover the different input interfaces an AI orchestrator should support to enable the strong user experience.
+> **[0:14](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=14)** Here I'll cover the different input interfaces an AI orchestrator should support to enable the strong [[User Experience (UX)|user experience]].
 >
-> **[0:21](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=21)** Inputting information into an AI system can take many forms.
+> **[0:21](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=21)** Inputting information into an AI system can take many [[Forms]].
 >
 > **[0:25](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980&t=25)** It can be a voice conversation with a user expectation of millisecond latencies, or it can be a standard chat support with the expectation of seconds, or in an email support use cases, minutes might be an acceptable latency for users.
 >
@@ -351,14 +345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), application (2), [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Output interfaces for AI orchestrators
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980)
+#### [Output interfaces for AI orchestrators](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,11 +359,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=10)** To help deliver these strong responses, AI orchestrators should provide a solid foundation for building good outputs.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=16)** Just like inputs, outputs depend on the goal of the application, with voice and text responses being common, but richer outputs create a better user experience with things like buttons, links, emojis, cards and carousels and even custom interfaces helping to create a great user experience.
+> **[0:16](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=16)** Just like inputs, outputs depend on the goal of the application, with voice and text responses being common, but richer outputs create a better [[User Experience (UX)|user experience]] with things like buttons, links, emojis, cards and carousels and even custom interfaces helping to create a great user experience.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=36)** Depending on the application, these responses would be different.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=39)** A support application may concisely articulate the instructions that need to be followed, while an e-commerce store might have the images of the products being listed.
+> **[0:39](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=39)** A support application may concisely articulate the instructions that need to be followed, while an [[E-Commerce]] store might have the images of the [[Microsoft Products|products]] being listed.
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=48)** Our AI orchestrator should make it easy for us to get the input from a system passed to the model and then get the output to our users.
 >
@@ -378,21 +371,20 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=68)** We might also save certain parts of the output into a variable that we can reuse later in the conversation, such as giving our AI application memory.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=76)** Last but not least, when we return responses to a user, we can choose to return it all at once or stream it back like ChatGPT.
+> **[1:16](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=76)** Last but not least, when we return responses to a user, we can choose to return it all at once or stream it back like [[ChatGPT]].
 >
 > **[1:24](https://www.linkedin.com/learning/ai-orchestration-foundations/output-interfaces-for-ai-orchestrators?u=76281980&t=84)** Now that we've covered inputs and outputs, we'll learn more about building powerful AI applications with prompt chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), application (4), [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Orchestrating LLMs with prompt chaining
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980)
+#### [Orchestrating LLMs with prompt chaining](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=8)** To start, the most basic AI application will have an input, a model, and an output.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=15)** For example, if we think about [chatgpt.com](https://chatgpt.com) as an AI application, we provide an input as text, we select a model we want to use, and we generate a response.
+> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=15)** For example, if we think about [[[ChatGPT]].com](https://chatgpt.com) as an AI application, we provide an input as text, we select a model we want to use, and we generate a response.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=26)** In this case, counting to 10.
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=45)** Then we use a second prompt to generate the email using the previous output, and we can show that to the user.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=51)** I can manually do this in ChatGPT with two different windows.
+> **[0:51](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=51)** I can manually do this in ChatGPT with two different [[Windows]].
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=55)** I'm going to be using prompts from the Exercise Files located under 02_03.
 >
@@ -464,7 +456,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=163)** So this took one button click rather than a bunch of copy and pasting.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=167)** Now, prompt chaining also allows us to use multiple large language models or even small language models to get better results.
+> **[2:47](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=167)** Now, prompt chaining also allows us to use multiple [[Large Language Models (LLM)|large language models]] or even small language models to get better results.
 >
 > **[2:54](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=174)** As you can see here, under Generate Ideas, under the prompt setting, I'm using GPT-4o.
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), ai (5), [[ChatGPT]] (5), application (4), hit (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Windows]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (2), o2_03 (1), api (1)
 > **Exercise Files:** exercise files (3)
 > **Analogies:** for example (2), similar to (1)
@@ -487,14 +479,13 @@ created: 2026-05-02
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** click on (1)
 
-#### Calling APIs and connecting to databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980)
+#### [Calling APIs and connecting to databases](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=0)** - [Presenter] Making AI applications that are personalized unlocks a whole new level of user experiences.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=6)** To achieve personalization, we need to be able to connect with APIs and databases.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=6)** To achieve personalization, we need to be able to connect with APIs and [[Databases]].
 >
 > **[0:12](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=12)** API and database access allows us to pull user-specific information and allows the user to make real time changes.
 >
@@ -528,7 +519,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=123)** This would hopefully result in us getting the same results as we did with a deterministic workflow.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=128)** Now, what you might notice here is that tool use sometimes combines routing when selecting the tools and the planning phase.
+> **[2:08](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=128)** Now, what you might notice here is that tool use sometimes combines [[Routing]] when selecting the tools and the planning phase.
 >
 > **[2:14](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=134)** Now, the reason I said that hopefully the LLM would do the same actions as we would do in the deterministic phase is because LLMs are non-deterministic by nature.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=168)** However, they are less flexible and sometimes take longer to build these workflows.
 >
-> **[2:53](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=173)** Now with tool use, you get more flexibility and a lesser need to rebuild business logic, but the trade-off is that these systems are less deterministic and require having very good documentation and coding practices.
+> **[2:53](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=173)** Now with tool use, you get more flexibility and a lesser need to rebuild business logic, but the trade-off is that these systems are less deterministic and require having very good documentation and [[Coding Practices]].
 >
 > **[3:04](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=184)** Otherwise, the LLM cannot select the correct tool.
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=192)** Now, beyond direct API calls and tool use, you might have more advanced use cases, where you're actually reading and writing from multiple systems.
 >
-> **[3:20](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=200)** Going back to our e-commerce example, we might take in inputs from various different sources, such as user inputs, browsing histories, past orders, and our CRM in order to determine what we do next.
+> **[3:20](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=200)** Going back to our [[E-Commerce]] example, we might take in inputs from various different sources, such as user inputs, browsing histories, past orders, and our CRM in order to determine what we do next.
 >
 > **[3:33](https://www.linkedin.com/learning/ai-orchestration-foundations/calling-apis-and-connecting-to-databases?u=76281980&t=213)** Likewise, we save into multiple systems, as we discussed before.
 >
@@ -560,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), llm (8), ai (5), business (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Routing]] (1), [[Coding Practices]] (1), [[E-Commerce]] (1)
 > **Env Vars:** api (8), llm (8), crm (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (4)
@@ -569,8 +560,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [presenter] (1)
 
-#### AI workflows and agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980)
+#### [AI workflows and agents](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +594,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980&t=79)** Now, if we wanted to venture beyond the standardized process, we might allow our AI workflows to use tools and let the LMs create the logic on the fly.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980&t=88)** This gets closer to our automation dream of AI agents.
+> **[1:28](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980&t=88)** This gets closer to our automation dream of [[AI Agents]].
 >
 > **[1:31](https://www.linkedin.com/learning/ai-orchestration-foundations/ai-workflows-and-agents?u=76281980&t=91)** AI agents are one of those terms that have a different definition depending on who you ask.
 >
@@ -628,15 +618,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), api (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** api (2)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specialized large language models (LLMs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980)
+#### [Specialized large language models (LLMs)](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=8)** We can use this to our advantage by leveraging the right model for our tasks as we build the best AI application.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=15)** In this video, we'll cover what specialized large language models are and how we can benefit from using them in an AI orchestrator.
+> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=15)** In this video, we'll cover what specialized [[Large Language Models (LLM)|large language models]] are and how we can benefit from using them in an AI orchestrator.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=22)** Specialized LLMs can vary in a few different ways.
 >
@@ -664,17 +653,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=60)** Depending on the task, we can select a different model.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=64)** For example, we can use GPT-4o's Voice Mode when working with voice data, or Gemini Pro when working natively with PDFs.
+> **[1:04](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=64)** For example, we can use GPT-4o's Voice Mode when working with voice data, or [[Gemini]] Pro when working natively with PDFs.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=72)** Finally, there are fine-tuned models.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=75)** These models are trained on specific tasks or domains, such as being stronger in another language, like French, creating medical summaries or solving word problems.
+> **[1:15](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=75)** These models are trained on specific tasks or domains, such as being stronger in another language, like French, creating medical summaries or solving [[Microsoft Word|word]] problems.
 >
 > **[1:25](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=85)** These models might be commercially available or something that your company has developed in-house, using your proprietary information.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=92)** There are also many variations in the open-source community.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=95)** Now, using specific models allows us to build the best user experience, depending on their user workflow.
+> **[1:35](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=95)** Now, using specific models allows us to build the best [[User Experience (UX)|user experience]], depending on their user workflow.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=101)** For example, if we go back to our pizza order example, we might use Gemini Flash as our general router, ask the user for the number of pizzas and toppings, using GPT-4o mini.
 >
@@ -696,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), application (2), [[Gemini]] (2), llm (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** gpt (10), llm (1), vip (1)
 > **Analogies:** for example (5), such as (1)
 > **Versions:** 3.5 (1)
@@ -708,8 +697,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building low-code vs. code
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980)
+#### [Building low-code vs. code](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980&t=72)** Coding based AI orchestrators will also continue to benefit from the rising prominence of LM coding assistance where templating, editing and generating code will become even easier.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980&t=83)** You've likely heard of some coding AI orchestrators like LangChain, LlamaIndex, CrewAI and AutoGen.
+> **[1:23](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980&t=83)** You've likely heard of some coding AI orchestrators like [[LangChain]], [[LlamaIndex]], CrewAI and AutoGen.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980&t=90)** Now, what's interesting is that many AI orchestrators are moving towards a hybrid approach, providing a UI on top of core code experiences.
 >
@@ -757,13 +745,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), application (2), business (2), teams (2), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (1), [[LlamaIndex]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
-#### Visualizing an AI orchestration framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980)
+#### [Visualizing an AI orchestration framework](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +814,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=141)** We can go ahead and click on Save Idea to Airtable, and we can see the function is opening up.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=146)** This function is some JavaScript code that calls our Airtable database.
+> **[2:26](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=146)** This function is some [[JavaScript]] code that calls our Airtable database.
 >
 > **[2:31](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=151)** If you're not as familiar with coding, no problem, you'll just be able to use this function out of the box.
 >
@@ -837,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), hit (3), ai (2), next (2), cms (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** gpt (1), cms (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -846,8 +833,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a simple AI app
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980)
+#### [Building a simple AI app](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=45)** You can imagine that this file will be even bigger if we're using it for a real life use case.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=50)** If we head back to the Exercise Files, we also have team_onboarding_page.html.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=50)** If we head back to the Exercise Files, we also have team_onboarding_page.[[HTML]].
 >
 > **[0:56](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=56)** If we head back to our browser, we can click on the Welcome Page in the top right.
 >
@@ -917,7 +903,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=131)** Let's close this pop-up on the right hand side, and go ahead and go to the Integration page on the left hand side.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=137)** Here we'll see some JavaScript that will allow us to add our agent to our website.
+> **[2:17](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=137)** Here we'll see some [[JavaScript]] that will allow us to add our agent to our website.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-orchestration-foundations/building-a-simple-ai-app?u=76281980&t=142)** Let's go ahead and copy everything between the script tags.
 >
@@ -955,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), hit (3), application (3), [[HTML]] (2), database (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1)
 > **Exercise Files:** exercise files (4)
 > **File Paths:** team_knowledge.txt (1), team_onboarding_page.html (1)
@@ -964,8 +950,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Cross-References:** in the last (1)
 
-#### Implementing multiple AI workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/implementing-multiple-ai-workflows?u=76281980)
+#### [Implementing multiple AI workflows](https://www.linkedin.com/learning/ai-orchestration-foundations/implementing-multiple-ai-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,7 +1116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), prompt (8), ai (4), llm (2), cms (1)
 > **UI Navigation:** click on (13), scroll down (5), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** llm (2), cms (1)
@@ -1140,8 +1124,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding API calls to your AI app
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980)
+#### [Adding API calls to your AI app](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,7 +1200,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=141)** We're going to go to the right hand side, and we're going to click on builder hub.
 >
-> **[2:27](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=147)** In this case, on the left hand side, I'm going to click on personal access tokens, and then create a new token.
+> **[2:27](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=147)** In this case, on the left hand side, I'm going to click on personal access [[Tokens]], and then create a new token.
 >
 > **[2:34](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=154)** I'm going to call it 03_05, but you can name it anything.
 >
@@ -1285,11 +1268,11 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=270)** So there we have it.
 >
-> **[4:32](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=272)** We now have connected our AI agent to a database to be able to fetch the most recent results.
+> **[4:32](https://www.linkedin.com/learning/ai-orchestration-foundations/adding-api-calls-to-our-ai-app?u=76281980&t=272)** We now have connected our AI agent to a database to be able to [[Fetch]] the most recent results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), hit (5), ai (4), api (3), data (2)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Fetch]] (1)
 > **UI Navigation:** click on (7), go to (3)
 > **Env Vars:** api (3), tbl (1)
 > **CLI Commands:** make (2), find (1)
@@ -1298,8 +1281,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Building an AI coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/challenge-building-an-ai-coach?u=76281980)
+#### [Challenge: Building an AI coach](https://www.linkedin.com/learning/ai-orchestration-foundations/challenge-building-an-ai-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,15 +1301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** starter project (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building an AI coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/solution-building-an-ai-coach?u=76281980)
+#### [Solution: Building an AI coach](https://www.linkedin.com/learning/ai-orchestration-foundations/solution-building-an-ai-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,11 +1369,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ai-orchestration-foundations/solution-building-an-ai-coach?u=76281980&t=120)** So that's a sample solution to this challenge.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-orchestration-foundations/solution-building-an-ai-coach?u=76281980&t=123)** There are many ways to expand this, so if you have any interesting ideas, feel free to build them out and share them on LinkedIn.
+> **[2:03](https://www.linkedin.com/learning/ai-orchestration-foundations/solution-building-an-ai-coach?u=76281980&t=123)** There are many ways to expand this, so if you have any interesting ideas, feel free to build them out and share them on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), llm (1), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** vf_memory (1)
@@ -1407,16 +1387,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=1)** - Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=3)** By now, you've learned some AI orchestration key concepts, but keep in mind that the open source AI community is always rapidly evolving.
+> **[0:03](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=3)** By now, you've learned some [[AI Orchestration]] key concepts, but keep in mind that the open source AI community is always rapidly evolving.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=11)** You can follow me on LinkedIn where I share new models and case study techniques as they come out.
+> **[0:11](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=11)** You can follow me on [[LinkedIn]] where I share new models and case study techniques as they come out.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=16)** You can also watch my other courses, like Building Apps with AI Tools or AI Pricing: A Technical Breakdown of Cost and Revenue Opportunities to learn more.
 >
@@ -1424,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Orchestration]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[LinkedIn]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 

@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 2021 OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
+#### [2021 OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=9)** The best way to secure web applications is to find and fix security vulnerabilities.
 >
-> **[0:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=15)** OWASP stands for Open Web Applications Security Project and the top 10 list is a resource for any and everyone who is involved in building web applications.
+> **[0:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=15)** [[OWASP]] stands for Open Web Applications Security Project and the top 10 list is a resource for any and everyone who is involved in building web applications.
 >
 > **[0:26](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=26)** It helps us to understand the most common types of security vulnerabilities.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=41)** I'm Caroline Wong, Chief Strategy Officer at Cobalt.
 >
-> **[0:45](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=45)** I've worked in the cybersecurity field since 2005.
+> **[0:45](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=45)** I've worked in the [[Cybersecurity]] field since 2005.
 >
 > **[0:49](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980&t=49)** I've seen firsthand how security vulnerabilities get introduced into web applications.
 >
@@ -103,20 +102,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Security]] (5), [[OWASP]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [caroline] (1)
 
-#### OWASP Top 10 series
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980)
+#### [OWASP Top 10 series](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980&t=1)** - [Instructor] Here are a few things that may be helpful to know so that you can get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980&t=6)** First, this course covers the fifth and sixth categories in the 2021 OWASP Top 10.
+> **[0:06](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980&t=6)** First, this course covers the fifth and sixth categories in the 2021 [[OWASP]] Top 10.
 >
 > **[0:12](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/owasp-top-10-series?u=76281980&t=12)** I recommend watching my previous courses that cover the first few categories.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -140,8 +138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is security misconfiguration?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
+#### [What is security misconfiguration?](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,11 +174,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=132)** You know what are some of the easiest credentials to steal?
 >
-> **[2:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=135)** Default credentials that never get changed, like when the password to access an admin account is the word admin.
+> **[2:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=135)** Default credentials that never get changed, like when the password to access an admin account is the [[Microsoft Word|word]] admin.
 >
 > **[2:24](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=144)** Another really easy way to steal credentials is to find them just laying around for anyone who can access the public-facing internet to take.
 >
-> **[2:32](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=152)** An Amazon Web Services AWS S3 bucket is kind of like a file folder that's stored in the cloud on the internet.
+> **[2:32](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=152)** An [[Amazon Web Services (AWS)|Amazon Web Services]] AWS S3 bucket is kind of like a file folder that's stored in the cloud on the internet.
 >
 > **[2:41](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980&t=161)** If credentials are stored in an S3 bucket and that S3 bucket is not protected by proper authentication, then they're available for anyone to access, view, and compromise.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Security]] (2), data (2), [[Engineering]] (1), web application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** find (1), aws (1), make (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** just like (1), kind of like (1)
@@ -199,14 +196,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (theatrical music) (1)
 
-#### Example #1: 2020 SolarWinds data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980)
+#### [Example #1: 2020 SolarWinds data breach](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=0)** - [Narrator] The Solar Winds Breach of 2020 was described by ABC News as the biggest digital espionage campaign ever uncovered.
 >
-> **[0:09](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=9)** 18,000 global organizations had downloaded the malicious software update, including government agencies, hospitals, universities, and major companies, including Cisco, Intel, Deloitte, and Microsoft.
+> **[0:09](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=9)** 18,000 global organizations had downloaded the malicious software update, including government agencies, hospitals, universities, and major companies, including Cisco, Intel, Deloitte, and [[Microsoft]].
 >
 > **[0:24](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=24)** While the exact number of actively breached organizations is not known, it is estimated to have been in the hundreds.
 >
@@ -266,19 +262,18 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=203)** For the purpose of learning about this (indistinct) vulnerability category, our key takeaway is that the very first step of the Solar Winds attack took advantage of a simple security misconfiguration.
 >
-> **[3:36](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=216)** If this vulnerability had been identified and fixed or prevented in the first place, the rest of the breach might have been impossible for the attackers to carry out.
+> **[3:36](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-1-2020-solarwinds-data-breach?u=76281980&t=216)** If this vulnerability had been identified and fixed or prevented in the first place, the [[Representational State Transfer (REST)|rest]] of the breach might have been impossible for the attackers to carry out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), management (2), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** apt (2), abc (1)
 > **CLI Commands:** apt (2)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example #2: State of Pentesting Report
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980)
+#### [Example #2: State of Pentesting Report](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,25 +315,24 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=106)** and 2% were improper security controls.
 >
-> **[1:49](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=109)** This report also has pointers to strong resources for mitigating security misconfiguration including SANS White Papers on building an application vulnerability management program and web application design.
+> **[1:49](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=109)** This report also has pointers to strong resources for mitigating security misconfiguration including SANS White Papers on building an application vulnerability management program and [[Web Application Design]].
 >
-> **[2:03](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=123)** OWASP projects on mobile security, secure headers, insecure configuration management, secure deployment, and blocking brute force attacks, and others.
+> **[2:03](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=123)** [[OWASP]] projects on mobile security, secure headers, insecure [[Configuration Management]], secure deployment, and blocking brute force attacks, and others.
 >
 > **[2:14](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/example-2-state-of-pentesting-report?u=76281980&t=134)** All Cobalt State of Pentesting Research Reports are available for download at no cost.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (2), application (2), web (1), cloud (1)
+> **Frameworks & Libraries:** [[Web Application Design]] (1), [[OWASP]] (1), [[Configuration Management]] (1)
 > **Env Vars:** sans (1), owasp (1)
 > **Versions:** 30.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #1: Repeatable hardening
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980)
+#### [Prevention technique #1: Repeatable hardening](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=0)** - [Instructor What does the word Hardening mean when it comes to application security?
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=0)** - [Instructor What does the [[Microsoft Word|word]] Hardening mean when it comes to [[Application Security]]?
 >
 > **[0:04](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=4)** Hardening a web application means identifying all of the various components and adjusting the configurations of those components to a more secure setting.
 >
@@ -348,11 +342,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=36)** CIS, the Center for Internet Security, provides dozens of these standards, which they call benchmarks.
 >
-> **[0:43](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=43)** These are developed by a community of tens of thousands of volunteer cybersecurity professionals with experience in academia, government, and industry.
+> **[0:43](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=43)** These are developed by a community of tens of thousands of volunteer [[Cybersecurity]] professionals with experience in academia, government, and industry.
 >
 > **[0:53](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=53)** It's a truly amazing project.
 >
-> **[0:55](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=55)** Let's take a look at the CIS Benchmark for Amazon Web Services.
+> **[0:55](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=55)** Let's take a look at the CIS Benchmark for [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[1:00](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=60)** First of all, it's 215 pages long.
 >
@@ -368,15 +362,15 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=115)** It was pretty onerous.
 >
-> **[1:58](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=118)** Today, some things are easier thanks to virtual machines.
+> **[1:58](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=118)** Today, some things are easier thanks to [[Virtual Machines]].
 >
 > **[2:02](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=122)** In addition to the hardening benchmarks themselves, CIS also provides a set of virtual machine, VM, images, which are pre-hardened according to the benchmark recommendations.
 >
-> **[2:14](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=134)** These are also available for several common platforms, like AWS, Azure, Google Cloud, and Oracle Cloud.
+> **[2:14](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=134)** These are also available for several common platforms, like AWS, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]], and Oracle Cloud.
 >
 > **[2:23](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=143)** Today, organizations can simply use the already hardened virtual images provided by CIS.
 >
-> **[2:30](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=150)** Conveniently, these are recognized as secure configurations by PCI DSS, the Payment Card Industry Data Security Standard, HIPAA, the Health Insurance Portability and Accountability Act, FISMA, the US Federal Information Security Management Act, FedRAMP, the US Federal Risk and Authorization Management Program, and NIST, the US National Institute of Standards and Technology.
+> **[2:30](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=150)** Conveniently, these are recognized as secure configurations by PCI DSS, the Payment Card Industry [[Data Security]] Standard, HIPAA, the Health Insurance Portability and [[Accountability]] Act, FISMA, the US Federal [[Information Security Management]] Act, FedRAMP, the US Federal Risk and Authorization Management Program, and [[NIST]], the US National Institute of Standards and Technology.
 >
 > **[2:56](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-repeatable-hardening?u=76281980&t=176)** These already hardened virtual images are one of the great benefits and convenience of the Cloud for reducing cybersecurity risk.
 >
@@ -384,14 +378,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), cloud (5), aws (3), [[Cybersecurity]] (2), management (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Microsoft Word|Word]] (1), [[Application Security]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** cis (5), aws (3), pci (1), dss (1), hipaa (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor (1)
 
-#### Prevention technique #2: Minimal platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980)
+#### [Prevention technique #2: Minimal platform](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=6)** Simply put, if you build and operate your application with fewer components and features, then there's less that you need to harden and configure securely.
 >
-> **[0:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=15)** This use only what you need and eliminate the rest approach to managing risk associated with security misconfiguration is called minimal platform.
+> **[0:15](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=15)** This use only what you need and eliminate the [[Representational State Transfer (REST)|rest]] approach to managing risk associated with security misconfiguration is called minimal platform.
 >
 > **[0:27](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=27)** I like to think about minimal platform kind of like having a capsule wardrobe, or applying the Marie Condo tidying up methodology from her book, tier web app stack.
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=56)** Use those and discard the rest.
 >
-> **[0:59](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=59)** It sounds straightforward, but the reality of modern software development is that it's easier to leave things on, or fail to remove extraneous documentation as developers and operations folks respond to the high pressure of building new features and bringing them to market as fast as possible.
+> **[0:59](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=59)** It sounds straightforward, but the reality of modern [[Software Development]] is that it's easier to leave things on, or fail to remove extraneous documentation as developers and operations folks respond to the high pressure of building new features and bringing them to market as fast as possible.
 >
 > **[1:18](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-minimal-platform?u=76281980&t=78)** As with most security controls, the trade-off has to do with where you choose to invest your energy and your time.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Representational State Transfer (REST)|Rest]] (2), web (2), [[Software Development]] (2), feature (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Software Development]] (2)
 > **CLI Commands:** make (1), docker (1)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** cis (1)
@@ -456,8 +449,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prevention technique #3: Configuration review
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-configuration-review?u=76281980)
+#### [Prevention technique #3: Configuration review](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-configuration-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,11 +491,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-configuration-review?u=76281980&t=152)** These often lead to the most damaging security attacks and breaches.
 >
-> **[2:37](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-configuration-review?u=76281980&t=157)** A great way to manage security misconfiguration review in any type of web app security practice is to engage with a pen test as a service provider who provides on-demand manual security testing, as well as a platform to help you track findings and remediation.
+> **[2:37](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-configuration-review?u=76281980&t=157)** A great way to manage security misconfiguration review in any type of web app security practice is to engage with a pen test as a service provider who provides on-demand manual [[Security Testing]], as well as a platform to help you track findings and remediation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), web (3), next (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1)
 > **Env Vars:** cis (1), csat (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
@@ -514,8 +506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are vulnerable and outdated components?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
+#### [What are vulnerable and outdated components?](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980&t=39)** Each of my projects started with a blank slate and I single-handedly designed and developed each program from start to finish.
 >
-> **[0:47](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980&t=47)** This style of software development is sometimes called Greenfield.
+> **[0:47](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980&t=47)** This style of [[Software Development]] is sometimes called Greenfield.
 >
 > **[0:52](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980&t=52)** This is not how web applications are built in real life.
 >
@@ -545,13 +536,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), application (2), [[Software Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Real-world example #1: Equifax breach 2017
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-1-equifax-breach-2017?u=76281980)
+#### [Real-world example #1: Equifax breach 2017](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-1-equifax-breach-2017?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,15 +589,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** rce (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Real-world example #2: Target breach 2013
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980)
+#### [Real-world example #2: Target breach 2013](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,15 +613,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=32)** This means that the security, or lack thereof, of one software component can affect the risk profile of all the other connected digital assets.
 >
-> **[0:43](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=43)** In this case, malicious attackers were able to install malware on one part of Target's corporate network which then led to compromise of information throughout the rest of the network.
+> **[0:43](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=43)** In this case, malicious attackers were able to install malware on one part of Target's corporate network which then led to compromise of information throughout the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[0:54](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=54)** In November of 2013, hackers installed malware on one of Target's third-party vendors, a refrigeration contractor.
 >
-> **[1:02](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=62)** An employee at the refrigeration contractor clicked on a phishing email sent by the attackers and the malware collected login credentials for several internal Target software portals.
+> **[1:02](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=62)** An employee at the refrigeration contractor clicked on a [[Phishing]] email sent by the attackers and the malware collected login credentials for several internal Target software portals.
 >
 > **[1:14](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=74)** It's likely that the attackers had been performing recon activities to learn as much as they could about the interconnections of Target's network.
 >
-> **[1:23](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=83)** Several internal Windows servers were then compromised and the malware spread to Target's POS, point of sale systems.
+> **[1:23](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=83)** Several internal [[Windows]] servers were then compromised and the malware spread to Target's POS, point of sale systems.
 >
 > **[1:32](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/real-world-example-2-target-breach-2013?u=76281980&t=92)** This is where the credit and debit card data was stolen.
 >
@@ -643,14 +631,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Phishing]] (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Phishing]] (1), [[Windows]] (1)
 > **Env Vars:** pos (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #1: Remove unnecessary features
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980)
+#### [Prevention technique #1: Remove unnecessary features](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980&t=47)** When you remove something from a web application that is not necessary for it to work, whether that be a feature component, file, documentation, or dependency, then you also don't have to worry about keeping track of or managing risk for that unnecessary thing going forward.
 >
-> **[1:04](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980&t=64)** A couple of tools that can be used to check for unused dependencies include Depcheck and npm-check.
+> **[1:04](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980&t=64)** A couple of tools that can be used to check for unused dependencies include Depcheck and [[npm]]-check.
 >
 > **[1:12](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-1-remove-unnecessary-features?u=76281980&t=72)** Depcheck is described on [npmjs.com](https://npmjs.com) as a tool for analyzing the dependencies in a project to see how each dependency is used, which dependencies are useless, and which dependencies are missing.
 >
@@ -680,22 +667,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[Security]] (2), [[npm]] (2), web (1), feature (1)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **CLI Commands:** npm (2), find (1)
 > **URLs:** [npmjs.com](https://npmjs.com) (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - a (1)
 
-#### Prevention technique #2: Continuous inventory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980)
+#### [Prevention technique #2: Continuous inventory management](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=1)** - [Instructor] Let's talk about the silliest cybersecurity term I know, SBOM.
+> **[0:01](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=1)** - [Instructor] Let's talk about the silliest [[Cybersecurity]] term I know, SBOM.
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=6)** SBOM sounds scary, doesn't it?
 >
-> **[0:09](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=9)** Literally, it has the word bomb in it.
+> **[0:09](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=9)** Literally, it has the [[Microsoft Word|word]] bomb in it.
 >
 > **[0:12](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-2-continuous-inventory-management?u=76281980&t=12)** The funny thing is that SBOMs are actually not scary at all.
 >
@@ -727,14 +713,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), web application (2), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sbom (5)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique #3: Leverage virtual patching
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980)
+#### [Prevention technique #3: Leverage virtual patching](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +737,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=34)** If the software organization that built the software is no longer active or has decided not to make patches available for old software that is still in use, you won't be able to patch.
 >
-> **[0:44](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=44)** For organizations that completely outsource software development, fixing vulnerabilities often comes with additional cost and time that might not have been included in an original project plan or budget.
+> **[0:44](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=44)** For organizations that completely outsource [[Software Development]], fixing vulnerabilities often comes with additional cost and time that might not have been included in an original project plan or budget.
 >
 > **[0:57](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=57)** Even if your organization has a patch or update in-hand and complete control to deploy new code, installing a patch can take a lot of time, sometimes days, weeks, or months.
 >
@@ -782,11 +767,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=142)** You don't want to block legitimate input and you don't want to miss identification of malicious input.
 >
-> **[2:28](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=148)** If you'd like to dive deeper into this topic, I recommend checking out the latest OWASP best practice guides.
+> **[2:28](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/prevention-technique-3-leverage-virtual-patching?u=76281980&t=148)** If you'd like to dive deeper into this topic, I recommend checking out the latest [[OWASP]] best practice guides.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[Software Development]] (1), web (1), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[OWASP]] (1)
 > **Env Vars:** ips (1), waf (1), owasp (1)
 > **Prerequisites:** install (2), setup (1)
 > **CLI Commands:** make (1)
@@ -798,14 +783,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore more of the OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)
+#### [Explore more of the OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=1)** - [Instructor] And there you have it.
 >
-> **[0:02](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=2)** Items number five and six in the OWASP Top 10.
+> **[0:02](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=2)** Items number five and six in the [[OWASP]] Top 10.
 >
 > **[0:05](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=5)** Security misconfiguration and vulnerable and outdated components have been key information security concepts for decades now.
 >
@@ -813,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=23)** We have an opportunity to build more secure web applications in the future.
 >
-> **[0:28](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=28)** I hope you'll join me in my next course that covers the seventh and eighth vulnerability categories, identification and authentication failures and software and data integrity failures.
+> **[0:28](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=28)** I hope you'll join me in my next course that covers the seventh and eighth vulnerability categories, identification and authentication failures and software and [[Data Integrity]] failures.
 >
 > **[0:40](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980&t=40)** Similar to this course, we'll learn about each vulnerability category, dive into real life examples, and discuss prevention techniques.
 >
@@ -823,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (2), web (1), next (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Data Integrity]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)

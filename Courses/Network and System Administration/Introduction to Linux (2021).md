@@ -73,18 +73,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
+#### [Learning Linux](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=0)** - [Scott] Getting started with Linux can seem daunting.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=0)** - [Scott] Getting started with [[Linux]] can seem daunting.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=3)** It's a whole operating system, a whole culture, a lot of technical stuff and there are many choices to make large and small.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=11)** And when you're just getting started, it can be hard to even get a good idea of where to begin and to know what questions to ask.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=18)** I'm Scott Simpson and in this LinkedIn learning course, I'll introduce the basics of Linux and help you decide how to get started learning about Linux.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=18)** I'm Scott Simpson and in this [[LinkedIn]] learning course, I'll introduce the basics of Linux and help you decide how to get started learning about Linux.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980&t=26)** Many people have strong preferences about how Linux should be learned, used and taught.
 >
@@ -104,12 +103,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [scott] (1)
 
-#### What is Linux and where do I start?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980)
+#### [What is Linux and where do I start?](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=0)** - [Instructor] Linux is the name we give to operating systems that are built around the Linux kernel.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=0)** - [Instructor] [[Linux]] is the name we give to operating systems that are built around the Linux kernel.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=5)** There's no single Linux operating system, and operating systems that are based on the Linux kernel are referred to as Linux distributions.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=24)** The Linux world is enormous, and Linux can be used for everything from running huge global networks to controlling electronic projects like a Raspberry Pi.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=34)** Linux can be your everyday desktop environment at home or at school, your software development platform at work, and it even runs some of the world's largest and most powerful supercomputers.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=34)** Linux can be your everyday desktop environment at home or at school, your [[Software Development]] platform at work, and it even runs some of the world's largest and most powerful supercomputers.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=45)** All of these applications share the same basic components, a kernel, a user space, files and resources, and so on.
 >
@@ -131,9 +129,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=80)** My skillset in Linux revolves around setting up, configuring, and maintaining Linux systems that are intended to be used for specific purposes.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=89)** Many people work with the source code of the kernel directly as software developers or as hardware developers, to enable the kernel to work with new hardware and new technologies.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=89)** Many people work with the source code of the kernel directly as software developers or as [[Hardware]] developers, to enable the kernel to work with new hardware and new technologies.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=102)** Another large group of people who use Linux are developers who work outside the kernel, to create software for productivity, like office suites, image editors, chat apps, and more.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=102)** Another large group of people who use Linux are developers who work outside the kernel, to create software for productivity, like [[Microsoft Office|office]] suites, image editors, chat apps, and more.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=112)** Many software developers use Linux for their coding and programming work.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=186)** There aren't many prerequisites for this course, aside from having a general high-level understanding of how to use a computer.
 >
-> **[3:12](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=192)** If you have experience using Windows or macOS, those skills can transfer over to a Linux environment pretty easily.
+> **[3:12](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=192)** If you have experience using [[Windows]] or macOS, those skills can transfer over to a Linux environment pretty easily.
 >
 > **[3:20](https://www.linkedin.com/learning/introduction-to-linux-2021/what-is-linux-and-where-do-you-start?u=76281980&t=200)** We won't be installing Linux in this course, so you don't need to prepare your computer or set anything up.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (27), [[Software Development]] (2), [[Hardware]] (2), [[Microsoft Office|Office]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Linux]] (27), [[Software Development]] (2), [[Hardware]] (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **Exercise Files:** source code (2)
 > **Code Identifiers:** macos (1)
 > **Definitions:** means that (1)
@@ -175,12 +173,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The kernel
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
+#### [The kernel](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=0)** - [Narrator] While it's common to think about Linux as an operating system.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=0)** - [Narrator] While it's common to think about [[Linux]] as an operating system.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=3)** It's more precise to understand Linux as the kernel of an operating system.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=36)** And this has resulted in the Linux kernel being made available in a large variety of Linux distributions, which we'll talk about later on.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=44)** A kernel is software that communicates with the computer's hardware in order to give programs and therefore users access to these resources so they can do what they need to do.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=44)** A kernel is software that communicates with the computer's [[Hardware]] in order to give programs and therefore users access to these resources so they can do what they need to do.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980&t=56)** A kernel can run on its own, though it's not very useful without programs communicating with it.
 >
@@ -275,18 +272,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 
-#### Terminal and desktops
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980)
+#### [Terminal and desktops](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=0)** - [Instructor] There's two primary ways of using or interacting with a system that runs Linux.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=0)** - [Instructor] There's two primary ways of using or interacting with a system that runs [[Linux]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=5)** These are through a desktop environment and through a text-based shell.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=9)** Let's take a look at both.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=12)** When we use an operating system like Windows or macOS we'll often use a graphical desktop environment in order to run software, interact with files and do what we need to get done.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=12)** When we use an operating system like [[Windows]] or macOS we'll often use a graphical desktop environment in order to run software, interact with files and do what we need to get done.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-linux-2021/terminal-and-desktops?u=76281980&t=23)** On Linux, we have a variety of desktop environments to choose from, Ranging from very simple and straightforward environments to environments with the rich sets of features.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (17), [[Windows]] (4), web (2), feature (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (17), [[Windows]] (4)
 > **Tools:** terminal (6), command line (3), bash (2)
 > **Env Vars:** gnome (1), kde (1), mate (1), ssh (1)
 > **Prerequisites:** install (2), you'll need (1), getting started (1)
@@ -371,12 +367,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 
-#### Standard tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980)
+#### [Standard tools](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=0)** - [Instructor] Hardware running only a Linux kernel, isn't very useful to most people, so we'll need to use software that lets us use the computer for doing whatever we need to do.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=0)** - [Instructor] [[Hardware]] running only a [[Linux]] kernel, isn't very useful to most people, so we'll need to use software that lets us use the computer for doing whatever we need to do.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=11)** Linux distributions come with a set of tools that let users and software interact with the system.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=53)** Which give us a minimal operating set of utilities, and which are needed in order to customize the system, use it to get work done, and even to install and manage other software.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=64)** This slide shows the coreutils that are part of the Ubuntu desktop installation.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=64)** This slide shows the coreutils that are part of the [[Ubuntu]] desktop installation.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-linux-2021/standard-tools?u=76281980&t=68)** You don't need to write them down or anything like that, I just wanted to give you a look at how many there are.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (12), [[Hardware]] (2), [[Security]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (12), [[Hardware]] (2), [[Ubuntu]] (1)
 > **Tools:** command line (4), terminal (1)
 > **Env Vars:** gnu (4)
 > **CLI Commands:** cat (1), cp (1)
@@ -453,12 +448,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software and packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980)
+#### [Software and packages](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=0)** - [Narrator] In addition to the core utilities that come with nearly all Linux distributions, we'll usually want to run other software on our system as well, like games or productivity tools or anything really.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=0)** - [Narrator] In addition to the core utilities that come with nearly all [[Linux]] distributions, we'll usually want to run other software on our system as well, like games or productivity tools or anything really.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=10)** Depending on what we want to run on the distribution and in many cases on our own preferences.
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=32)** Using command line tools or graphical tools, we can search these large libraries of software.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=37)** We can indicate what we want to install and the package management software handles downloading and installing that software and any other necessary software it might require in order to run.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=37)** We can indicate what we want to install and the [[Package Management]] software handles downloading and installing that software and any other necessary software it might require in order to run.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=47)** These repositories are also where important software updates like security fixes come from, and many distributions have an automated task that checks for those and can install them automatically.
 >
@@ -490,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=105)** The software in these packages is built or compiled from source code, and we can also use source code to build software to use on our system if we want to.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=115)** To do that, we'd need to create or download source code, and we'll also need software development tools like a compiler that can take that source code and use it to create binaries or executable programs that the computer can run.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=115)** To do that, we'd need to create or download source code, and we'll also need [[Software Development]] tools like a compiler that can take that source code and use it to create binaries or executable programs that the computer can run.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-linux-2021/software-and-packages?u=76281980&t=128)** Once we compile software, we'll be able to run it and we can store it wherever is appropriate on our system.
 >
@@ -520,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Package Management]] (3), [[Search]] (1), [[Security]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Package Management]] (3), [[Software Development]] (1)
 > **Exercise Files:** source code (5)
 > **CLI Commands:** find (1), make (1), snap (1)
 > **Tools:** command line (2)
@@ -529,12 +523,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 
-#### The Linux file system
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980)
+#### [The Linux file system](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=0)** - [Instructor] To store data on a Linux system, we use files, and files are organized into directories or folders as they are on other operating systems.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=0)** - [Instructor] To store data on a [[Linux]] system, we use files, and files are organized into directories or folders as they are on other operating systems.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=10)** These files and directories make up the file system.
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=51)** On a Linux system, there's only one file system root.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=54)** Even if we plug in other storage devices, those become part of the overall file system and aren't represented as separate file systems, like we might be used to seeing on a Windows system with a C and D and other drives.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=54)** Even if we plug in other storage devices, those become part of the overall file system and aren't represented as separate file systems, like we might be used to seeing on a [[Windows]] system with a C and D and other drives.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=67)** You can think of the file system root kind of like the My Computer level on a Windows system rather than the C drive.
 >
@@ -574,13 +567,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=169)** Some directories defined by the Filesystem Hierarchy Standard aren't real directories at all.
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=174)** The dev, proc, and sys directories are created by the kernel to represent hardware available on the system, including all the systems hardware, processes that run programs, settings in the kernel, and so on.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=174)** The dev, proc, and sys directories are created by the kernel to represent [[Hardware]] available on the system, including all the systems hardware, processes that run programs, settings in the kernel, and so on.
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=188)** When we're getting started with Linux, we don't need to worry too much about these directories.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=193)** It's good to know what they are though, because as I mentioned, it can be overwhelming to see all this if you're new to Linux.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=201)** While the layout of the files and directories is called the file system, the term file system is also used to refer to different strategies or data structures for storing and representing file data and file metadata.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=201)** While the layout of the files and directories is called the file system, the term file system is also used to refer to different strategies or [[Data Structures]] for storing and representing file data and file [[Metadata]].
 >
 > **[3:34](https://www.linkedin.com/learning/introduction-to-linux-2021/the-linux-file-system?u=76281980&t=214)** Those are things like ext4, btrfs, ZFS, XFS, and so on, but we're not going to get into different file systems here because in most cases you'll choose one or another based on what you need your storage system to do, and that's something that's a bit more advanced than I want to go into here.
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (10), data (3), [[Windows]] (2), [[Hardware]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (10), [[Windows]] (2), [[Hardware]] (2), [[Data Structures]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** fhs (2), zfs (1), xfs (1)
 > **Prerequisites:** getting started (2)
@@ -604,14 +597,13 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### User and system security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980)
+#### [User and system security](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=0)** - [Instructor] Multi-user operating systems are normal these days.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=3)** Linux, Windows, and macOS are all multi-user, though it originally wasn't the case that computers could support more than one user.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=3)** [[Linux]], [[Windows]], and macOS are all multi-user, though it originally wasn't the case that computers could support more than one user.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=12)** There used to be just the user, and they could do whatever they wanted on the system.
 >
@@ -661,19 +653,19 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=209)** A desktop environment can make working with permissions a little bit easier, and to make changes at the command line, we'll use the chmod command and sometimes chown and chgrp.
 >
-> **[3:40](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=220)** These are covered in more depth in some of our system administration courses here at LinkedIn Learning.
+> **[3:40](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=220)** These are covered in more depth in some of our [[System Administration]] courses here at [[LinkedIn]] Learning.
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=225)** Another security aspect that I want to mention just briefly here are security packages like SELinux and AppArmor, which can provide very detailed security constraints and controls that applied to programs and users alike.
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=239)** Security is an important part of Linux, and it's a very deep field to get acquainted with.
 >
-> **[4:05](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=245)** When we're starting out with Linux, we'll only brush up against security management issues now and then, if at all.
+> **[4:05](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=245)** When we're starting out with Linux, we'll only brush up against [[Security Management]] issues now and then, if at all.
 >
 > **[4:11](https://www.linkedin.com/learning/introduction-to-linux-2021/user-and-system-security?u=76281980&t=251)** As with the details of the file system and the technical aspects of the kernel, at this point it's only important to know that there's a multi-user security system we're working within on a Linux system, and that it's an area that can be further explored should that be necessary for the work you need to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), [[Security]] (9), [[Windows]] (2), web (1), database (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Windows]] (2), [[System Administration]] (1), [[LinkedIn]] (1), [[Security Management]] (1)
 > **CLI Commands:** make (5), sudo (1), find (1), chmod (1), chown (1)
 > **Prerequisites:** install (1), getting started (1), you'll need (1)
 > **Code Identifiers:** macos (2)
@@ -681,12 +673,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing a Linux distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980)
+#### [Choosing a Linux distribution](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=0)** - [Instructor] We've spent some time looking at a few major components that determine how a Linux system operates, and now, it's time to take a moment to understand what Linux distributions are.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=0)** - [Instructor] We've spent some time looking at a few major components that determine how a [[Linux]] system operates, and now, it's time to take a moment to understand what Linux distributions are.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=10)** Distributions or distros are kind of like different flavors of a Linux operating system.
 >
@@ -728,17 +719,17 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=133)** An example of this is CentOS.
 >
-> **[2:15](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=135)** Some distributions are intended to run in embedded devices where they don't need to support any hardware other than the specific gear they're running on.
+> **[2:15](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=135)** Some distributions are intended to run in embedded devices where they don't need to support any [[Hardware]] other than the specific gear they're running on.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=144)** The operating systems available for the Raspberry Pi, like Fedora and Raspbian are examples of this, and many Distros strike a balance somewhere in the middle, with a fairly recent kernel version and a large amount of drivers for common hardware, and that's pretty common for distributions that are widely used on the desktop or are intended to be quite user friendly.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=164)** Ubuntu desktop, Linux Mint, openSUSE and other distros targeted at general desktop use are examples of this.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=164)** [[Ubuntu]] desktop, Linux Mint, openSUSE and other distros targeted at general desktop use are examples of this.
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=171)** Linux distros also come with core tools like we saw earlier and most come with additional software, which, again, will vary based on what a given distro is for.
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=181)** Some distros intended for servers come with just a minimal set of management tools and others intended for desktop use come with a wide array of productivity software, creative software in the desktop environment, all pre-installed and pre-configured.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=195)** Other choices that define distros are which package management solution they use, which system management or init system they use and how hardware is managed and configured.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=195)** Other choices that define distros are which [[Package Management]] solution they use, which system management or init system they use and how hardware is managed and configured.
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-linux-2021/choosing-a-linux-distribution?u=76281980&t=207)** Ubuntu distribution, for example, uses a system called Netplan to configure the network, while Fedora and Red Hat use NetworkManager instead.
 >
@@ -842,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (27), [[Ubuntu]] (13), [[Hardware]] (3), management (2), [[Package Management]] (1)
+> **Frameworks & Libraries:** [[Linux]] (27), [[Ubuntu]] (13), [[Hardware]] (3), [[Package Management]] (1)
 > **CLI Commands:** sudo (3), find (2), make (1), apt (1), dnf (1)
 > **Analogies:** for example (6), kind of like (1), such as (1), for instance (1), similar to (1)
 > **Env Vars:** suse (3), lts (1), apt (1), http (1)
@@ -851,12 +842,11 @@ created: 2026-05-02
 > **Tools:** command line (2), terminal (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 
-#### Planning your system
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980)
+#### [Planning your system](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=0)** - [Instructor] As you move forward and start to work with Linux on your own or as you follow instructional materials, you'll need to make a few decisions that will guide the setup of your Linux environment.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=0)** - [Instructor] As you move forward and start to work with [[Linux]] on your own or as you follow instructional materials, you'll need to make a few decisions that will guide the setup of your Linux environment.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=9)** You'll need to decide what you want to accomplish with your Linux system.
 >
@@ -864,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=23)** It's a good idea to think about your choice in terms of whether you'll need or want a desktop environment or whether you just need command line access, either in a console or through a remote shell.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=34)** If you need a desktop environment, as I mentioned before, I'd recommend starting out with Ubuntu Desktop Linux and seeing if that fits your needs.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=34)** If you need a desktop environment, as I mentioned before, I'd recommend starting out with [[Ubuntu]] Desktop Linux and seeing if that fits your needs.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=42)** Other good choices for distribution to try first are Debian Desktop, Fedora Desktop, and Linux Mint.
 >
@@ -882,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=91)** Usually, we'll run a distro that uses a desktop environment either in a virtual machine, as a native install, or sometimes from a live boot environment that's part of the installation disk.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=102)** Virtual machines provide the ability to run an operating system in a protected space on your computer, separate from your primary operating system.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=102)** [[Virtual Machines]] provide the ability to run an operating system in a protected space on your computer, separate from your primary operating system.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=111)** In a VM, we can install Linux and use it like it's a real computer but without affecting anything on the host system.
 >
@@ -890,23 +880,23 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=126)** There are a few software tools that let us run virtual machines.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=130)** VirtualBox is a free option for Windows and macOS systems, and Hyper-V is a free option on most versions of Windows.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=130)** VirtualBox is a free option for [[Windows]] and macOS systems, and Hyper-V is a free option on most versions of Windows.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=137)** There are also commercial products that offer other features, including VMware Workstation for Windows, VMware Fusion for macOS, and Parallels Desktop for macOS.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=137)** There are also commercial [[Microsoft Products|products]] that offer other features, including VMware Workstation for Windows, VMware Fusion for macOS, and Parallels Desktop for macOS.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=149)** If you plan to use a virtual machine I recommend you take a look at VirtualBox because it's free and works on all major operating systems.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=156)** We have courses here on LinkedIn Learning that cover these tools.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=156)** We have courses here on [[LinkedIn]] Learning that cover these tools.
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=162)** If you have a spare computer you can install Linux directly on that instead, replacing whatever information and operating system were on it before.
 >
 > **[2:50](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=170)** A machine that's dedicated to running Linux doesn't need to be all that modern or powerful unless you're planning to use it to do work that requires high performance, like video editing, audio work, photo manipulation or anything that's heavy on calculation.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=187)** Using a native or bare metal install on real hardware gives you the full performance of a system, though it does have the drawback of being less portable than a virtual machine.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=187)** Using a native or bare metal install on real [[Hardware]] gives you the full performance of a system, though it does have the drawback of being less portable than a virtual machine.
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=196)** If you have a home lab, a native installation might be what you want.
 >
-> **[3:20](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=200)** But if you need your Linux environment to go with you to the office, to school or to some other place, a virtual machine might be a better choice.
+> **[3:20](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=200)** But if you need your Linux environment to go with you to the [[Microsoft Office|office]], to school or to some other place, a virtual machine might be a better choice.
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=209)** We can mix and match though, too.
 >
@@ -932,9 +922,9 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=265)** Most live boot environments won't save any files you create though.
 >
-> **[4:29](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=269)** So if you write code or create documents, you'll need to use a web browser to store those on cloud storage or use some other method like an additional external disk to store your work.
+> **[4:29](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=269)** So if you write code or create documents, you'll need to use a web browser to store those on [[Cloud Storage]] or use some other method like an additional external disk to store your work.
 >
-> **[4:40](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=280)** Here at LinkedIn Learning, we have courses that can help you get started with the desktop version of Linux, including Learning Ubuntu Desktop Linux, Learning Fedora Linux, Learning CentOS Linux, and if you're interested in security research, Learning Kali Linux.
+> **[4:40](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=280)** Here at LinkedIn Learning, we have courses that can help you get started with the desktop version of Linux, including Learning Ubuntu Desktop Linux, Learning Fedora Linux, Learning CentOS Linux, and if you're interested in security research, Learning [[Kali Linux]].
 >
 > **[4:54](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=294)** They'll all walk you through installing a distribution and show you around the basics of using that distribution and its default desktop.
 >
@@ -946,7 +936,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=322)** But we can also use a cloud service to host a machine we can connect to remotely.
 >
-> **[5:27](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=327)** We can do this with a hosting service like Microsoft Azure, Amazon Web Services, Google Cloud, Linode, DigitalOcean or other providers.
+> **[5:27](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=327)** We can do this with a hosting service like [[Microsoft Azure]], [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud]], Linode, DigitalOcean or other providers.
 >
 > **[5:37](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=337)** While some of these have a free offering, others have a cost associated with them.
 >
@@ -966,7 +956,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=379)** To explore this further, take a look at Learning SSH.
 >
-> **[6:24](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=384)** Another option, if you have a Windows 10 computer, is to use Windows Subsystem for Linux and install one of the distros available for that environment.
+> **[6:24](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=384)** Another option, if you have a [[Windows 10]] computer, is to use Windows Subsystem for Linux and install one of the distros available for that environment.
 >
 > **[6:33](https://www.linkedin.com/learning/introduction-to-linux-2021/planning-your-system?u=76281980&t=393)** The WSL environment is generally targeted at developers who need a Linux system they can use through the command line.
 >
@@ -988,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (24), cloud (7), [[Ubuntu]] (5), [[Windows]] (5), [[Virtual Machines]] (4)
+> **Frameworks & Libraries:** [[Linux]] (24), [[Ubuntu]] (5), [[Windows]] (5), [[Virtual Machines]] (4), [[LinkedIn]] (4)
 > **Prerequisites:** install (7), you'll need (6), set up (4), setup (2)
 > **Env Vars:** ssh (2), gui (1), nuc (1), wsl (1)
 > **Definitions:** is a  (5)
@@ -1002,14 +992,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
+#### [Building your skills](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=0)** - [Instructor] When you're ready to get started expanding your skills with Linux, there are a lot of directions you can go.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=0)** - [Instructor] When you're ready to get started expanding your skills with [[Linux]], there are a lot of directions you can go.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=7)** You can use this web link, lnkd.in/learnlinux to see all the LinkedIn Learning Linux courses.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=7)** You can use this web link, lnkd.in/learnlinux to see all the [[LinkedIn]] Learning Linux courses.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=15)** And I'd like to take a few minutes to highlight some of them.
 >
@@ -1021,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=41)** You might also be interested to explore Linux, Bash Shell and Scripts or Learning Bash Scripting for a more detailed look at using the Bash shell to create programs to help you perform your tasks.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=52)** Once you're comfortable using the shell, you're ready to dive into topics that use the shell which covers pretty much everything about system administration.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=52)** Once you're comfortable using the shell, you're ready to dive into topics that use the shell which covers pretty much everything about [[System Administration]].
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=60)** I can't list all of our Linux courses here.
 >
@@ -1029,13 +1018,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=66)** A good place to start is our learning path called Become a Linux System Administrator.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=71)** And if you're more interested in using Linux at home, take a look at Building an Ubuntu Home Server.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=71)** And if you're more interested in using Linux at home, take a look at Building an [[Ubuntu]] Home Server.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=77)** Our Linux System Engineer series of courses focuses on getting you up to speed with Red Hat administration and the Practical Linux for Network Engineers series gives network administrators a look at what they need to know about Linux.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=92)** We also have courses focusing more on services than on particular distributions like Linux email services, Linux BIND and DNS, Linux kernels and logging for system administration and more.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=105)** And if you're interested in working with the Kernel directly take a look at courses like Advanced Linux: The Linux Kernel, Linux Performance Tuning and Linux Device Drivers.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=105)** And if you're interested in working with the Kernel directly take a look at courses like Advanced Linux: The Linux Kernel, Linux [[Performance Tuning]] and Linux Device Drivers.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=115)** For a regular stream of tips and tricks about Linux, take a look at my series here on LinkedIn Learning called Linux Tips Weekly.
 >
@@ -1051,9 +1040,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=156)** Start by following a few tutorials and then set a goal and learn how to accomplish your goal using what you've learned.
 >
-> **[2:43](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=163)** That might be setting up a web server or installing and using a programming language like Python to make a custom tool.
+> **[2:43](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=163)** That might be setting up a web server or installing and using a programming language like [[Python (Programming Language)|Python]] to make a custom tool.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=170)** You might branch out and start using a Linux home server or set up a remote system where you can host services like VPN, cloud storage, and more.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=170)** You might branch out and start using a Linux home server or set up a remote system where you can host services like VPN, [[Cloud Storage]], and more.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980&t=179)** The possibilities are limited only by what you want to learn.
 >
@@ -1067,7 +1056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (25), web (2), [[LinkedIn]] (2), [[System Administration]] (2), [[Ubuntu]] (2)
+> **Frameworks & Libraries:** [[Linux]] (25), [[LinkedIn]] (2), [[System Administration]] (2), [[Ubuntu]] (2), [[Performance Tuning]] (1)
 > **Tools:** bash (4), command line (2)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** bind (1), dns (1), vpn (1)
@@ -1075,12 +1064,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding and asking for help
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980)
+#### [Finding and asking for help](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=0)** - [Instructor] When you're just getting started with Linux, as with any new thing you set out to learn, it's easy to get stuck on some terminology or on a task that you haven't learned about yet.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=0)** - [Instructor] When you're just getting started with [[Linux]], as with any new thing you set out to learn, it's easy to get stuck on some terminology or on a task that you haven't learned about yet.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=11)** The system itself can provide you with a lot of information, should you need a little bit of help.
 >
@@ -1106,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=93)** If you come across a problem you can't solve using built-in help or an online course or tutorial there are forums online where you can ask a question and hope that kind strangers on the internet will reply with helpful advice.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=105)** Among these are forums dedicated to particular distributions like Ubuntu and Fedora as well as the Linux and Unix community on Stack Exchange and the Server Fault community.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=105)** Among these are forums dedicated to particular distributions like [[Ubuntu]] and Fedora as well as the Linux and Unix community on Stack Exchange and the Server Fault community.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-linux-2021/finding-and-asking-for-help?u=76281980&t=116)** Before you post a question be sure to spend some time searching to see if someone else has already asked or answered your question.
 >
@@ -1146,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (1), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (1)
 > **CLI Commands:** find (5), ls (1), cat (1)
 > **Tools:** command line (3)
 > **URLs:** [he.net](https://he.net) (1), [manpages.net](https://manpages.net) (1)
@@ -1160,12 +1148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980&t=0)** - With an introduction to the basic components of a Linux system behind us, and a plan for how to set up a Linux environment that meets our needs, we're ready to move on to other courses that focus on specific distributions, specific tasks and roles in various technologies.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980&t=0)** - With an introduction to the basic components of a [[Linux]] system behind us, and a plan for how to set up a Linux environment that meets our needs, we're ready to move on to other courses that focus on specific distributions, specific tasks and roles in various technologies.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980&t=16)** I encourage you to take some time to set up an environment in which to practice and to spend a while exploring it through introductory courses about your specific distro, the shell and basic administration tasks.
 >
@@ -1175,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - with (1)
 

@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/database-management
   - topic/cloud-computing
-course_count: 24
+course_count: 25
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Convolutional Neural Networks (CNN)
 
-> **Type:** Concept | **Courses:** 24 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Database Management]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 25 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Database Management]], [[Cloud Computing]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 2 mentions
 10. [[Deep Learning- Model Optimization and Tuning (2022)]] — 2 mentions
 
-> [!note]- See all 24 courses
+> [!note]- See all 25 courses
 > 11. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
 > 12. [[Cloud Computing Careers and Certifications]] — 1 mentions
 > 13. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
@@ -57,6 +57,7 @@ created: 2026-05-02
 > 22. [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]] — 1 mentions
 > 23. [[Deep Learning Getting Started]] — 1 mentions
 > 24. [[Training Neural Networks in Python]] — 1 mentions
+> 25. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
 
 ## Learning Paths
 

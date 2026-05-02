@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ransomware: The new cyber extortion
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
+#### [Ransomware: The new cyber extortion](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,13 +84,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980&t=17)** I'll also provide steps to help you and your security teams prevent these attacks.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980&t=23)** I'm Nicole Dove, a cybersecurity leader, podcast producer, and board member, and my career has been a 20-year journey of figuring out what can go wrong and how to prevent those things from happening.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980&t=23)** I'm Nicole Dove, a [[Cybersecurity]] leader, podcast producer, and board member, and my career has been a 20-year journey of figuring out what can go wrong and how to prevent those things from happening.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980&t=35)** So join me as I dig deeper into the world of ransomware.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), teams (1), [[Cybersecurity]] (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Speakers:** - ransomware (1)
 
 
@@ -99,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ransomware 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
+#### [Ransomware 101](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,15 +118,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=54)** Once the conference attendees inserted the disks into their personal computers, they were surprised to find that the disk didn't just contain a questionnaire, as they had been made to believe, but also a ransom demand of $189.
 >
-> **[1:09](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=69)** And because cell phones at that time didn't have instant money transfer apps like we do today, the targets were told to mail a check to the cyber criminal's post office box.
+> **[1:09](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=69)** And because cell phones at that time didn't have instant money transfer apps like we do today, the targets were told to mail a check to the cyber criminal's post [[Microsoft Office|office]] box.
 >
 > **[1:19](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=79)** And in case you're wondering, yes, the cyber criminal was caught.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=83)** As interconnectivity, technology, and the internet continued to evolve, ransomware attacks did, too, and as the attacks grew in complexity, the ransom demands grew just as quickly.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=95)** A recent Google study estimates that cyber criminals make over $1 million per month on ransomware attacks.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=95)** A recent [[Google]] study estimates that cyber criminals make over $1 million per month on ransomware attacks.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=103)** Many of them require payments be made using cryptocurrency to maintain the cyber criminal's anonymity because it's untraceable.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=103)** Many of them require payments be made using [[Cryptocurrency]] to maintain the cyber criminal's anonymity because it's untraceable.
 >
 > **[1:50](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980&t=110)** In fact, the same study estimates that more than 95% of ransomware attackers cashed out Bitcoin payments using Russia's now defunct BTCE Exchange.
 >
@@ -146,15 +144,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (1), [[Microsoft Office|Office]] (1), [[Google]] (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Google]] (1), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** fbi (1), btce (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Elements of ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980)
+#### [Elements of ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980&t=32)** But how does that malware make its way to someone's computer?
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980&t=36)** Ransomware efforts usually start with social engineering attacks that use psychological manipulation tactics like phishing.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980&t=36)** Ransomware efforts usually start with social engineering attacks that use psychological manipulation tactics like [[Phishing]].
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/elements-of-ransomware-attacks?u=76281980&t=43)** Phishing is a cyber attack that sends its targets emails that appear to be from a legitimate party but uses links to spoof sites or attachments to install malicious software.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), data (2), [[Engineering]] (1), [[Security]] (1), teams (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -218,8 +215,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - ransomware (1)
 
-#### Why cybercriminals prefer ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980)
+#### [Why cybercriminals prefer ransomware](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980&t=86)** Nearly $756 million.
 >
-> **[1:29](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980&t=89)** As payment methods, cyber criminals usually demand cryptocurrency.
+> **[1:29](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980&t=89)** As payment methods, cyber criminals usually demand [[Cryptocurrency]].
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/why-cybercriminals-prefer-ransomware?u=76281980&t=94)** That's because most cryptocurrencies are either anonymous or pseudonymous, which allow its users to create fictitious profiles if they require it at all.
 >
@@ -263,13 +259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), [[Cryptocurrency]] (1), next (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### The value of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980)
+#### [The value of data](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=29)** The first category of data is financial.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=33)** Financial data include things like account numbers and credit card details.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=33)** [[Financial Data]] include things like account numbers and credit card details.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=37)** This makes companies like banks, payroll providers, and credit card companies ripe targets.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=57)** Examples include things like social security numbers, street addresses, birthdays, and personal phone numbers.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=64)** Lots of organizations like governments, schools, and service providers have databases with vast amounts of PII.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=64)** Lots of organizations like governments, schools, and service providers have [[Databases]] with vast amounts of PII.
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=71)** Another type of data attackers find valuable are health records.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=84)** This can have fatal consequences.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=86)** If that wasn't enough, the medical industry is highly regulated when it comes to the privacy of patient health records, and ransomware attackers leverage the threat of hefty fines to their advantage.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=86)** If that wasn't enough, the medical industry is highly regulated when it comes to the [[Privacy]] of patient health records, and ransomware attackers leverage the threat of hefty fines to their advantage.
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-value-of-data?u=76281980&t=97)** Many hospitals were targeted during the pandemic.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (2), next (2), [[Financial Data]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Databases]] (1), [[Privacy]] (1)
 > **Env Vars:** pii (3)
 > **Cross-References:** earlier in (1), next chapter (1)
 > **CLI Commands:** find (1)
@@ -330,8 +325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Notable ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
+#### [Notable ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980&t=20)** This attack forced CNA to take its systems offline and stopped operations for days.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980&t=26)** The company was targeted by a ransomware group who used a variant of the ransomware strain known as Phoenix CryptoLocker that uses advanced encryption algorithms on the target's data.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980&t=26)** The company was targeted by a ransomware group who used a variant of the ransomware strain known as Phoenix CryptoLocker that uses advanced encryption [[Algorithms]] on the target's data.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980&t=37)** CNA Financial paid $40 million in ransom.
 >
@@ -387,14 +381,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Algorithms]] (1), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** cna (3), jbs (3)
 > **Versions:** 2.04 (1), 2.03 (1)
 > **Definitions:** known as (2)
 > **Speakers:** - by (1)
 
-#### The evolution of ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980)
+#### [The evolution of ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,13 +403,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=31)** In an earlier video, we talked about the first ransomware attack distributed by floppy discs mailed to targeted medical professionals who'd attended a conference.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=41)** A little after 2010, ransomware started spreading through email phishing campaigns and exploit kits, which allowed cyber criminals to infect large numbers of computers with a lot less effort.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=41)** A little after 2010, ransomware started spreading through email [[Phishing]] campaigns and exploit kits, which allowed cyber criminals to infect large numbers of computers with a lot less effort.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=53)** In 2013, the world saw its first major ransomware attack.
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=57)** The CryptoLocker attack infected over half a million computers.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=62)** The bad actors received over $3 million in ransom payments, but of course, cybersecurity teams started to improve their defense and prevention measures, which made ransomware more difficult to spread.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=62)** The bad actors received over $3 million in ransom payments, but of course, [[Cybersecurity]] teams started to improve their defense and prevention measures, which made ransomware more difficult to spread.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=73)** So the attackers involved their strategies too.
 >
@@ -430,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=105)** Some bad actors even go as far as setting up sites dedicated to leaking stolen data.
 >
-> **[1:50](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=110)** They're also advancing their encryption techniques and algorithms that are nearly impossible to crack without the key so that victims are more likely to pay ransoms.
+> **[1:50](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=110)** They're also advancing their encryption techniques and [[Algorithms]] that are nearly impossible to crack without the key so that victims are more likely to pay ransoms.
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/the-evolution-of-ransomware-attacks?u=76281980&t=119)** So yes, bad actors are constantly evolving their tools and methodologies.
 >
@@ -440,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Phishing]] (1), [[Cybersecurity]] (1), teams (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Cybersecurity]] (1), [[Algorithms]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - ransomware (1)
@@ -450,8 +443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unpacking ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
+#### [Unpacking ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980&t=16)** This initial intrusion is usually accomplished by vectors like social engineering, insider threats, brute force attacks, untrusted downloads, and vulnerability exploitation.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980&t=26)** The most successful of these is social engineering, which is the root cause of most cybersecurity attacks.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980&t=26)** The most successful of these is social engineering, which is the root cause of most [[Cybersecurity]] attacks.
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980&t=32)** Then we move on to command to control.
 >
@@ -511,14 +503,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), [[Engineering]] (2), [[Cybersecurity]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - over (1)
 
-#### Recovering from ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980)
+#### [Recovering from ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=25)** Next is business interruption.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=27)** Ransomware attacks usually disrupt normal business operations and cause significant downtime.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=27)** Ransomware attacks usually disrupt normal [[Business Operations]] and cause significant downtime.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=33)** This usually leads to a drop in employee productivity and missed deadlines.
 >
@@ -550,7 +541,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=61)** This can lead to customers losing trust in your company and legal liability.
 >
-> **[1:07](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=67)** There's also regulatory compliance.
+> **[1:07](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=67)** There's also [[Regulatory Compliance]].
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=69)** Companies might have regulatory penalties if they fail to protect sensitive data in accordance with industry regulations.
 >
@@ -564,7 +555,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=102)** Recovering from a ransomware attack requires a multifaceted response that addresses both the technical and business challenges associated with the incident.
 >
-> **[1:52](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=112)** It's important for cybersecurity teams to have a comprehensive incident response plan in place to help navigate these challenges and minimize the impact on their company and customers.
+> **[1:52](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=112)** It's important for [[Cybersecurity]] teams to have a comprehensive [[Incident Response]] plan in place to help navigate these challenges and minimize the impact on their company and customers.
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/recovering-from-ransomware-attacks?u=76281980&t=122)** But who wants to pay a ransom? Not me.
 >
@@ -572,12 +563,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), teams (2), next (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Regulatory Compliance]] (1), [[Cybersecurity]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - recovering (1)
 
-#### Preventing ransomware attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980)
+#### [Preventing ransomware attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,19 +583,19 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=34)** Managing vulnerabilities.
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=36)** Many cybersecurity attacks exploit unaddressed vulnerabilities, so now companies are implementing processes to identify, prioritize, and remediate vulnerabilities within their systems and applications.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=36)** Many [[Cybersecurity]] attacks exploit unaddressed vulnerabilities, so now companies are implementing processes to identify, prioritize, and remediate vulnerabilities within their systems and applications.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=49)** Companies are securing endpoints because malicious software is a key element of ransomware attacks.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=55)** Cybersecurity teams are deploying endpoint security solutions like anti-malware and antivirus software to protect company endpoints.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=55)** Cybersecurity teams are deploying [[Endpoint Security]] solutions like anti-malware and antivirus software to protect company endpoints.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=64)** They're also segmenting networks.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=66)** Separating key networks across the organization reduces the likelihood of successful lateral movement limiting the spread of malware during an attack.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=75)** Requiring multi-factor authentication to access critical systems and applications helps prevent unwanted access to critical data.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=75)** Requiring [[Multi-factor Authentication]] to access critical systems and applications helps prevent unwanted access to critical data.
 >
-> **[1:25](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=85)** Incident response planning is the ultimate cybersecurity fire drill.
+> **[1:25](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=85)** [[Incident Response]] planning is the ultimate cybersecurity fire drill.
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=89)** What good is having data backed up if you don't know how to restore it?
 >
@@ -613,7 +603,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=98)** and restoring backup data is important.
 >
-> **[1:41](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=101)** And last but certainly not least is security awareness training.
+> **[1:41](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=101)** And last but certainly not least is [[Security Awareness]] training.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/preventing-ransomware-attacks?u=76281980&t=105)** The biggest risks to the data we work hard to protect are the people who have rightful access to it.
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (6), [[Cybersecurity]] (4), teams (2), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security Awareness]] (2), [[Multi-factor Authentication]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - among (1)
 
@@ -640,8 +630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improving your security hygiene
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)
+#### [Improving your security hygiene](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,17 +642,17 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=16)** So as we all work together to prevent ransomware think about ways you can improve your security hygiene and best practices, your team can incorporate whether you work in security or not.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=28)** Being cautious when clicking on links, knowing where to send potential phishing emails and how to report incidents to your cybersecurity team goes such a long way.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=28)** Being cautious when clicking on links, knowing where to send potential [[Phishing]] emails and how to report incidents to your [[Cybersecurity]] team goes such a long way.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=38)** If you'd like to hear more from some of the security practitioners and the strategies they use to protect our technology ecosystems, check out my podcast Urban Girl Corporate World.
 >
-> **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=49)** You can also check out my other LinkedIn courses on becoming a business information security officer and preventing supply chain attacks.
+> **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=49)** You can also check out my other [[LinkedIn]] courses on becoming a business information security officer and preventing supply chain attacks.
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980&t=57)** Until next time, be great and be safe.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Phishing]] (1), [[Cybersecurity]] (1), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Cybersecurity]] (1), [[LinkedIn]] (1)
 > **Speakers:** - are (1)
 
 

@@ -80,16 +80,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Two great technologies together at last
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
+#### [Two great technologies together at last](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=0)** - Are you an Excel user that works with other data professionals, or a data scientist that shares information with Excel users?
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=0)** - Are you an [[Microsoft Excel|Excel]] user that works with other data professionals, or a data scientist that shares information with Excel users?
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=7)** Well, I have some great news for you.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=9)** You can now combine the power of Python with the ease of Excel and take your data processing to a new level, and collaborate with a wider range of data engineers and scientists with ease.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=9)** You can now combine the power of [[Python (Programming Language)|Python]] with the ease of Excel and take your [[Data Processing]] to a new level, and collaborate with a wider range of data engineers and scientists with ease.
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980&t=19)** Hi, I'm Joe Marini.
 >
@@ -103,22 +102,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Data Processing]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=0)** - [Instructor] There are a few things that you should already know in order to get the most out of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=4)** First, although this is an introductory course to using Python within Excel, it is not intended to be an introduction to Excel or Python themselves.
+> **[0:04](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=4)** First, although this is an introductory course to using [[Python (Programming Language)|Python]] within [[Microsoft Excel|Excel]], it is not intended to be an introduction to Excel or Python themselves.
 >
 > **[0:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=14)** I'm going to assume that you are already familiar with the very basics of Python programming.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=20)** You don't need to be an expert, but you do have to understand concepts such as using variables, working with basic data structures like lists and objects, writing functions, and so on.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=20)** You don't need to be an expert, but you do have to understand concepts such as using variables, working with basic [[Data Structures]] like lists and objects, writing functions, and so on.
 >
 > **[0:31](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/what-you-should-know?u=76281980&t=31)** If you need to get up to speed with Python, I suggest watching the "Learning Python" course first.
 >
@@ -132,20 +130,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Data Structures]] (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=0)** - [Joe] At the time this course is being recorded, the Python feature is only enabled for Excel on Windows.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=0)** - [Joe] At the time this course is being recorded, the [[Python (Programming Language)|Python]] feature is only enabled for [[Microsoft Excel|Excel]] on [[Windows]].
 >
-> **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=7)** Microsoft has indicated that it will be available for other platforms in the future, and by the time you're watching this, that might have already happened.
+> **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=7)** [[Microsoft]] has indicated that it will be available for other platforms in the future, and by the time you're watching this, that might have already happened.
 >
 > **[0:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=14)** In your version of Excel, go to the Formulas panel and see if there is a Python section.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=38)** For this course, I've provided example files that you can use to follow along with each video.
 >
-> **[0:44](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=44)** You can find the examples for this course in the associated GitHub repository, which is located at this link.
+> **[0:44](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=44)** You can find the examples for this course in the associated [[GitHub]] repository, which is located at this link.
 >
 > **[0:49](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/getting-set-up?u=76281980&t=49)** The examples are organized according to the chapter number in the course.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (3), feature (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (3), [[Windows]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (3), find (1), unzip (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Env Vars:** zip (1)
@@ -199,12 +196,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A simple example
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
+#### [A simple example](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=0)** - [Instructor] Let's begin with some simple examples to see how we can use Python within our Excel worksheet.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=0)** - [Instructor] Let's begin with some simple examples to see how we can use [[Python (Programming Language)|Python]] within our [[Microsoft Excel|Excel]] worksheet.
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=5)** And before we do that, let's get familiar with the Python tools that are in Excel.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=57)** And this shows me the current initialization code for the Python runtime environment.
 >
-> **[1:03](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=63)** And as you can see, Excel already includes several popular and useful Python libraries by default, such as NumPy and Pandas for data science, we've got matplotlib and seaborn for graphing and so on.
+> **[1:03](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=63)** And as you can see, Excel already includes several popular and useful Python libraries by default, such as NumPy and [[Pandas (Software)|Pandas]] for [[Data Science]], we've got matplotlib and seaborn for graphing and so on.
 >
 > **[1:17](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980&t=77)** Now at the moment, this initialization code is read-only.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (35), [[Microsoft Excel|Excel]] (10), next (2), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (35), [[Microsoft Excel|Excel]] (10), [[Pandas (Software)|Pandas]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (35), make (2), find (1)
 > **UI Navigation:** click on (6), select the (1), dropdown (1)
 > **Prerequisites:** initialization (3)
@@ -355,12 +351,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Python vs. Excel data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/python-vs-excel-data-types?u=76281980)
+#### [Python vs. Excel data types](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/python-vs-excel-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/python-vs-excel-data-types?u=76281980&t=0)** - [Instructor] Let's take a closer look at how Python and Excel values relate to each other.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/python-vs-excel-data-types?u=76281980&t=0)** - [Instructor] Let's take a closer look at how [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] values relate to each other.
 >
 > **[0:04](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/python-vs-excel-data-types?u=76281980&t=4)** So here in my workbook, named PyExcel_start from chapter one, I have some cells with different types of data in them.
 >
@@ -492,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Microsoft Excel|Excel]] (19), data (10), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Microsoft Excel|Excel]] (19)
 > **CLI Commands:** python (19), make (2), find (1)
 > **Env Vars:** e13 (2), rgb (2), c13 (1), c18 (1), g13 (1)
 > **UI Navigation:** scroll down (2), dropdown (2), click on (2), select the (1)
@@ -501,8 +496,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The xl() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980)
+#### [The xl() function](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,9 +504,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=3)** So let's take a closer look at how it works.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=5)** I've opened my xl_start workbook here in Excel, and you can see I have some cells with data already in them.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=5)** I've opened my xl_start workbook here in [[Microsoft Excel|Excel]], and you can see I have some cells with data already in them.
 >
-> **[0:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=14)** The xl function is what gives us access to the contents of our workbook cells within our Python code.
+> **[0:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=14)** The xl function is what gives us access to the contents of our workbook cells within our [[Python (Programming Language)|Python]] code.
 >
 > **[0:22](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=22)** So for example, I can use the xl function to combine the contents of cells D4 and D6 quite easily.
 >
@@ -582,7 +576,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=251)** And so now I've got a selection in this cell, which is a Python object.
 >
-> **[4:17](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=257)** And when I commit the change, Python creates a Pandas DataFrame to represent the content of that table.
+> **[4:17](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=257)** And when I commit the change, Python creates a [[Pandas (Software)|Pandas]] DataFrame to represent the content of that table.
 >
 > **[4:25](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/the-xl-function?u=76281980&t=265)** Now if you're already familiar with the Pandas library, then you're probably getting a little bit excited right now, right?
 >
@@ -622,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (6), data (6), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** python (12), make (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), dropdown (1)
 > **Cross-References:** later in (2), as we saw (1), previous video (1)
@@ -631,12 +625,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Code Identifiers:** xl_start (1)
 
-#### Understanding row-order execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/understanding-row-order-execution?u=76281980)
+#### [Understanding row-order execution](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/understanding-row-order-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/understanding-row-order-execution?u=76281980&t=0)** - [Instructor] Now that we've seen how to create and refer to variables in Python, there's an important rule that you need to understand regarding how Excel makes those variables accessible.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/understanding-row-order-execution?u=76281980&t=0)** - [Instructor] Now that we've seen how to create and refer to variables in [[Python (Programming Language)|Python]], there's an important rule that you need to understand regarding how [[Microsoft Excel|Excel]] makes those variables accessible.
 >
 > **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/understanding-row-order-execution?u=76281980&t=11)** So let's consider a worksheet with a Python cell in it that declares a variable named s that contains a string.
 >
@@ -704,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (3), feature (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (10), make (3)
 > **Analogies:** for example (6), such as (1)
 > **Definitions:** is a  (2), refers to (1), is called (1)
@@ -712,22 +705,21 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980)
+#### [Debugging](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=0)** - [Instructor] There's an old saying in software development or, you know, I don't know, maybe I just made it up, but it goes something like this.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=0)** - [Instructor] There's an old saying in [[Software Development]] or, you know, I don't know, maybe I just made it up, but it goes something like this.
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=6)** Where there's code, there's bound to be bugs.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=9)** We've advanced far enough that it's time to take a look at some of the features in Excel that you can use to debug and troubleshoot your code.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=9)** We've advanced far enough that it's time to take a look at some of the features in [[Microsoft Excel|Excel]] that you can use to debug and troubleshoot your code.
 >
 > **[0:16](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=16)** So I've opened my Debug workbook here in Chapter 1.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=20)** And let's take a look at some of the error conditions you might encounter while working with Python in Excel.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=20)** And let's take a look at some of the error conditions you might encounter while working with [[Python (Programming Language)|Python]] in Excel.
 >
-> **[0:26](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=26)** If you see the word #SPILL! in the cell, it's happening because the value in the cell is being interrupted by another cell.
+> **[0:26](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=26)** If you see the [[Microsoft Word|word]] #SPILL! in the cell, it's happening because the value in the cell is being interrupted by another cell.
 >
 > **[0:35](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=35)** So in this case, I have a list of Python values, and when I try to convert that to an Excel value, those values in the list would normally fill the cells below this one.
 >
@@ -793,7 +785,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=212)** The #CONNECT! error indicates that Excel is having trouble accessing the Python cloud service.
 >
-> **[3:39](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=219)** So, remember, Python in Excel actually executes on Microsoft's cloud.
+> **[3:39](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=219)** So, remember, Python in Excel actually executes on [[Microsoft]]'s cloud.
 >
 > **[3:44](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/debugging?u=76281980&t=224)** So if you see this error message, it means that the service can't be reached for some reason.
 >
@@ -817,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (5), cloud (2), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (5), [[Software Development]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **CLI Commands:** python (15), make (2)
 > **Env Vars:** spill (1), python (1), connect (1), busy (1)
 > **Warnings:** troubleshoot (2), warning (2)
@@ -826,16 +818,15 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **UI Navigation:** select the (1)
 
-#### Challenge: Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980)
+#### [Challenge: Basics](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=0)** - [Instructor] Okay, let's try a simple programming challenge using what we've learned so far in this chapter.
 >
-> **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=11)** We're going to use Python to combine the contents of two cells, and then put the result in a third cell, and then calculate some data about that content and put it in a fourth cell.
+> **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=11)** We're going to use [[Python (Programming Language)|Python]] to combine the contents of two cells, and then put the result in a third cell, and then calculate some data about that content and put it in a fourth cell.
 >
-> **[0:21](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=21)** So I'm going to show you my solution working here in Excel, and then you can give it a try.
+> **[0:21](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=21)** So I'm going to show you my solution working here in [[Microsoft Excel|Excel]], and then you can give it a try.
 >
 > **[0:26](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-basics?u=76281980&t=26)** So this is the challenge underscore finished workbook that contains my completed code.
 >
@@ -857,13 +848,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980)
+#### [Solution: Basics](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,9 +861,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=5)** - [Instructor] Let's take a look at my solution to this challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=7)** So remember that we needed to write some Python code to take the two values from separate cells, combine them together in reverse order, separated by a comma, and convert it to lowercase, and also calculate the length of the string.
+> **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=7)** So remember that we needed to write some [[Python (Programming Language)|Python]] code to take the two values from separate cells, combine them together in reverse order, separated by a comma, and convert it to lowercase, and also calculate the length of the string.
 >
-> **[0:21](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=21)** So my solutions code uses the Excel function.
+> **[0:21](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=21)** So my solutions code uses the [[Microsoft Excel|Excel]] function.
 >
 > **[0:25](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-basics?u=76281980&t=25)** So you can see here I've got my two source cells right here.
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (5), make (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
@@ -950,20 +940,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
+#### [Introduction to DataFrames](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=0)** - [Instructor] So far, we've seen how to work with basic Python code in our workbooks, and how to access content in workbooks using the XL function to get data into our Python logic.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=0)** - [Instructor] So far, we've seen how to work with basic [[Python (Programming Language)|Python]] code in our workbooks, and how to access content in workbooks using the XL function to get data into our Python logic.
 >
-> **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=11)** In this chapter, we're going to learn more about working with data using Python, and we're going to start by examining the pandas DataFrame.
+> **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=11)** In this chapter, we're going to learn more about working with data using Python, and we're going to start by examining the [[Pandas (Software)|pandas]] DataFrame.
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=19)** If you're already familiar with the basics of DataFrames, you can feel free to skip over this video.
 >
 > **[0:24](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=24)** A DataFrame is essentially a two-dimensional tabular data structure provided by the pandas library.
 >
-> **[0:30](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=30)** They are very similar to the data tables that Excel already provides, but they have a lot of built-in features that make them very well suited for performing data operations.
+> **[0:30](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=30)** They are very similar to the data tables that [[Microsoft Excel|Excel]] already provides, but they have a lot of built-in features that make them very well suited for performing data operations.
 >
 > **[0:39](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980&t=39)** Each row in a DataFrame represents an individual set of data content, while each column represents a variable or a feature of that data.
 >
@@ -999,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Env Vars:** api (1)
@@ -1007,12 +996,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring DataFrame content
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980)
+#### [Exploring DataFrame content](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=0)** - [Instructor] So now that we've learned a little bit about what dataframes are, let's take a look at how we can explore their content once we've created them in Excel.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=0)** - [Instructor] So now that we've learned a little bit about what dataframes are, let's take a look at how we can explore their content once we've created them in [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=8)** So I have my example file, Dfexplore_start open from chapter two, and you can see that here in cell A1, I have created a dataframe using the data in the Scores worksheet, which is this worksheet down here.
 >
@@ -1028,7 +1016,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=53)** So let me just add that in here for reference.
 >
-> **[0:56](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=56)** So I'll create a Python cell, and I'll write scores.describe, and let's go ahead and commit that.
+> **[0:56](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=56)** So I'll create a [[Python (Programming Language)|Python]] cell, and I'll write scores.describe, and let's go ahead and commit that.
 >
 > **[1:06](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=66)** You can see that that creates a dataframe and I'll just expand that to an Excel value.
 >
@@ -1164,13 +1152,13 @@ created: 2026-05-02
 >
 > **[7:48](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=468)** And now you can see that for each of the regions, right, I've got region 1, 4, 3, and 2, I can see how many data values are assigned to each of those categories.
 >
-> **[7:57](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=477)** So you can see how easy it is to inspect a dataframe and its content just by using the functions provided by the Pandas library.
+> **[7:57](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=477)** So you can see how easy it is to inspect a dataframe and its content just by using the functions provided by the [[Pandas (Software)|Pandas]] library.
 >
 > **[8:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/exploring-dataframe-content?u=76281980&t=485)** Of course, in practice, you'll want to manipulate the data in addition to viewing it, and we'll see how to do that in a separate video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (8), make (2)
 > **Env Vars:** d24 (2), e18 (1), h13 (1), g24 (1), d29 (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
@@ -1179,14 +1167,13 @@ created: 2026-05-02
 > **Code Identifiers:** value_counts (1)
 > **Versions:** 1.8 (1)
 
-#### Manipulating DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980)
+#### [Manipulating DataFrames](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=0)** - [Presenter] The data contained within dataframes can be manipulated in very flexible and powerful ways, and we'll see a few examples of how to do that in this video.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=9)** So I have the start version of my DFmanipulate example file from Chapter 2 here in Excel, and I want to point out a couple of things.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=9)** So I have the start version of my DFmanipulate example file from Chapter 2 here in [[Microsoft Excel|Excel]], and I want to point out a couple of things.
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=19)** So here in my bands data table, so I've got two tables.
 >
@@ -1206,11 +1193,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=74)** So I'm going to take this table and merge it into this one.
 >
-> **[1:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=79)** And when that process happens, pandas will match up the group name because that's common to both tables and then add the Members column to the singular table we're going to create.
+> **[1:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=79)** And when that process happens, [[Pandas (Software)|pandas]] will match up the group name because that's common to both tables and then add the Members column to the singular table we're going to create.
 >
 > **[1:31](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=91)** So let's go ahead and do that.
 >
-> **[1:32](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=92)** I'll make a Python cell and I'm going to create a new dataframe called bands, and I'm going to write bands1, that's the first table.
+> **[1:32](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=92)** I'll make a [[Python (Programming Language)|Python]] cell and I'm going to create a new dataframe called bands, and I'm going to write bands1, that's the first table.
 >
 > **[1:41](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=101)** I'm going to call the merge function, and I'm going to merge in bands2.
 >
@@ -1250,7 +1237,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=222)** So where things really start to get interesting is in how you can query the content of dataframes.
 >
-> **[3:48](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=228)** They're almost like little mini databases that you can execute queries on, so let's try out a few.
+> **[3:48](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=228)** They're almost like little mini [[Databases]] that you can execute queries on, so let's try out a few.
 >
 > **[3:55](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=235)** So first, let's use the query function to retrieve bands from the Alternative rock genre that have more than four members in them.
 >
@@ -1304,7 +1291,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=405)** So down here in L21, I'm going to create a new Python cell.
 >
-> **[6:52](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=412)** And for this query, I want to find all bands whose name starts with the word The.
+> **[6:52](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=412)** And for this query, I want to find all bands whose name starts with the [[Microsoft Word|word]] The.
 >
 > **[6:59](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/manipulating-dataframes?u=76281980&t=419)** So I'm going to write bands, and then inside bands I'm going to pass in, inside a function expression, I'm going to write bands.
 >
@@ -1348,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (3), [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **CLI Commands:** make (6), python (5), find (1)
 > **Analogies:** kind of like (1), for example (1), imagine (1)
 > **Code Identifiers:** sort_values (2)
@@ -1356,18 +1343,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Interoperating with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980)
+#### [Interoperating with Python](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=0)** - [Instructor] You've probably realized by now that an important part of working with data frames involves interoperating with Python.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=0)** - [Instructor] You've probably realized by now that an important part of working with data frames involves interoperating with [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=6)** So there's going to be times when you'll want to convert data frame types either directly to Python as well as from Python to data frames.
 >
-> **[0:16](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=16)** And some of the Python libraries available in the Excel environment do work directly on data frames, such as the graphing libraries, but many of the others require native Python data types.
+> **[0:16](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=16)** And some of the Python libraries available in the [[Microsoft Excel|Excel]] environment do work directly on data frames, such as the graphing libraries, but many of the others require native Python data types.
 >
-> **[0:29](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=29)** So in this example, I'll demonstrate some of the ways that Pandas make this possible.
+> **[0:29](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=29)** So in this example, I'll demonstrate some of the ways that [[Pandas (Software)|Pandas]] make this possible.
 >
 > **[0:33](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=33)** So let's start by creating a data frame.
 >
@@ -1433,7 +1419,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=216)** So Pandas actually supports some pretty sophisticated conversion types.
 >
-> **[3:40](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=220)** For example, I can directly convert a data frame straight to JSON by using the to JSON function.
+> **[3:40](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=220)** For example, I can directly convert a data frame straight to [[JSON]] by using the to JSON function.
 >
 > **[3:48](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/interoperating-with-python?u=76281980&t=228)** So let's go ahead and try that out.
 >
@@ -1517,15 +1503,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), [[Python (Programming Language)|Python]] (24), [[Pandas (Software)|Pandas]] (5), [[JSON]] (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (24), [[Pandas (Software)|Pandas]] (5), [[JSON]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (24), make (11)
 > **Env Vars:** json (4), df1 (1), df2 (1), df3 (1)
 > **Analogies:** for example (3), such as (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980)
+#### [Challenge: DataFrames](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1553,7 +1538,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980&t=67)** So you can see here in cell F4, I can enter a text string, and then my code will find the band names that contain that string.
 >
-> **[1:17](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980&t=77)** So right now, it's starting off with the word The, and you can see that all the bands that have The in the title are being listed.
+> **[1:17](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980&t=77)** So right now, it's starting off with the [[Microsoft Word|word]] The, and you can see that all the bands that have The in the title are being listed.
 >
 > **[1:23](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/challenge-dataframes?u=76281980&t=83)** Let me try a different string, I'll change this to ay.
 >
@@ -1577,14 +1562,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (3), feature (2), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980)
+#### [Solution: DataFrames](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,7 +1594,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980&t=53)** And I'll expand this out so we can see it.
 >
-> **[0:56](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980&t=56)** So my code uses the Excel function to get the search term from the cell F4.
+> **[0:56](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980&t=56)** So my code uses the [[Microsoft Excel|Excel]] function to get the search term from the cell F4.
 >
 > **[1:03](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/solution-dataframes?u=76281980&t=63)** So if that cell is empty and the value is none, then I just return all of the bands in the DataFrame.
 >
@@ -1666,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (2), [[Microsoft Excel|Excel]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1676,12 +1660,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fixing dates with dateutil
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
+#### [Fixing dates with dateutil](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980&t=0)** - [Instructor] At this point, we've learned how to include Python code in our Excel workbooks, parse data between the Python and Excel environments, and work with data frames and other data structures.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980&t=0)** - [Instructor] At this point, we've learned how to include [[Python (Programming Language)|Python]] code in our [[Microsoft Excel|Excel]] workbooks, parse data between the Python and Excel environments, and work with data frames and other [[Data Structures]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980&t=11)** In this chapter, we're going to take a look at how to apply what we've learned to some practical examples that demonstrate how to use Python to address some common challenges when working with data in Excel.
 >
@@ -1771,7 +1754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Python (Programming Language)|Python]] (11), data (11), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Python (Programming Language)|Python]] (11), [[Data Structures]] (1)
 > **CLI Commands:** python (11), make (4)
 > **Code Identifiers:** dateutil_start (1), dates_col (1)
 > **Tools:** anaconda (2)
@@ -1780,14 +1763,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate a random sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980)
+#### [Generate a random sequence](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980&t=0)** - [Instructor] Creating a random sample from a set of data is a common data science operation.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980&t=0)** - [Instructor] Creating a random sample from a set of data is a common [[Data Science]] operation.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980&t=5)** And it's very easy to accomplish using Python, together with Excel.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980&t=5)** And it's very easy to accomplish using [[Python (Programming Language)|Python]], together with [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/generate-a-random-sequence?u=76281980&t=8)** So here in my random underscore start example file from chapter three, I have a tab named BandsData, that contains information about a variety of musical groups, from different genres and years in which they were founded.
 >
@@ -1889,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (3), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (3), [[Data Science]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Cross-References:** previous video (1), earlier in (1)
 > **Code Identifiers:** bands_filt (1)
@@ -1898,8 +1880,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Scatter plot with Seaborn
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980)
+#### [Scatter plot with Seaborn](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1894,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980&t=19)** There's a lot of different ways to visualize data using this library.
 >
-> **[0:24](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980&t=24)** Seaborn is one of the modules that is included in the Python Initialization in Excel.
+> **[0:24](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980&t=24)** Seaborn is one of the modules that is included in the [[Python (Programming Language)|Python]] Initialization in [[Microsoft Excel|Excel]].
 >
 > **[0:29](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/scatter-plot-with-seaborn?u=76281980&t=29)** So let's jump back over to Excel.
 >
@@ -2011,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (7), python (4), find (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (1), right-click (1)
 > **Definitions:** is a  (3)
@@ -2020,18 +2001,17 @@ created: 2026-05-02
 > **Code Identifiers:** tick_params (1)
 > **Versions:** 0.25 (1)
 
-#### Create a Gantt chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980)
+#### [Create a Gantt chart](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=0)** - [Instructor] Excel has a lot of great chart types that it can create, but one of the ones that's missing and not built in is the Gantt chart.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a lot of great chart types that it can create, but one of the ones that's missing and not built in is the Gantt chart.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=7)** A Gantt chart is a horizontal bar chart that visually represents a project schedule over time.
 >
 > **[0:14](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=14)** It's a pretty common project management tool that is often used for planning, scheduling, and monitoring the process of a project.
 >
-> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=20)** So let's build one of these using Excel and Python.
+> **[0:20](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=20)** So let's build one of these using Excel and [[Python (Programming Language)|Python]].
 >
 > **[0:24](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/create-a-gantt-chart?u=76281980&t=24)** So here in my worksheet you can see that I have a table that represents a project I'm working on, and there are several milestones with associated dates.
 >
@@ -2203,7 +2183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (4), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** make (5), python (4)
 > **Code Identifiers:** set_title (2), set_xlabel (1), set_major_formatter (1)
 > **Env Vars:** b11 (1), plt (1)
@@ -2212,12 +2192,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extract data with regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/extract-data-with-regular-expressions?u=76281980)
+#### [Extract data with regular expressions](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/extract-data-with-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/extract-data-with-regular-expressions?u=76281980&t=0)** - [Instructor] This example really demonstrates the power that Python brings to the Excel environment.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/extract-data-with-regular-expressions?u=76281980&t=0)** - [Instructor] This example really demonstrates the power that [[Python (Programming Language)|Python]] brings to the [[Microsoft Excel|Excel]] environment.
 >
 > **[0:05](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/extract-data-with-regular-expressions?u=76281980&t=5)** Anyone who's ever worked with data has probably encountered a situation where the information is not exactly in the perfect form where you can easily process it.
 >
@@ -2331,7 +2310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (4), [[Microsoft Excel|Excel]] (2), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (12), make (1)
 > **Code Identifiers:** extract_nums (5), num_df (1), to_list (1)
 > **Env Vars:** b12 (1), c12 (1)
@@ -2345,14 +2324,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980&t=0)** - [Joe] Thanks so much for watching this course.
 >
-> **[0:02](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about the Python features in Excel.
+> **[0:02](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about the [[Python (Programming Language)|Python]] features in [[Microsoft Excel|Excel]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980&t=6)** Combining the power of Python with the features of Excel is sure to unlock whole new levels of productivity for people who work with data.
 >
@@ -2366,7 +2344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), power (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (3)
 > **Speakers:** - [joe] (1)
 

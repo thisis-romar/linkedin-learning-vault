@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Copilot in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980)
+#### [Copilot in PowerPoint](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -82,7 +81,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=4)** Asking yourself if you'll ever get this presentation finished?
 >
-> **[0:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=8)** Copilot in PowerPoint can help with that.
+> **[0:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=8)** [[Microsoft Copilot|Copilot]] in [[Microsoft PowerPoint|PowerPoint]] can help with that.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=11)** Copilot is a powerful AI assistant that can take your ideas from a prompt to a presentation and speed up that time between that blank slide and a finished deck.
 >
@@ -92,13 +91,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=34)** You'll even get a sneak peek of upcoming features.
 >
-> **[0:38](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=38)** I'm Julie Terberg, designer, author, and Microsoft MVP.
+> **[0:38](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=38)** I'm Julie Terberg, designer, author, and [[Microsoft]] MVP.
 >
 > **[0:42](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980&t=42)** If you're ready to take a hands-on approach by building and applying what you learn along the way, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), ai (1), prompt (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **Definitions:** is a  (1)
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new presentation starting from a blank file
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
+#### [Create a new presentation starting from a blank file](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=0)** We'll dive right in and prompt Copilot to create a new presentation, starting from a blank file.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=0)** We'll dive right in and prompt [[Microsoft Copilot|Copilot]] to create a new presentation, starting from a blank file.
 >
 > **[0:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=6)** We'll let Copilot choose the design direction.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=15)** I'll demo first, and then you'll follow by creating one of your own.
 >
-> **[0:20](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=20)** I've opened PowerPoint, and the first item in the New Themes gallery is Create with Copilot.
+> **[0:20](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=20)** I've opened [[Microsoft PowerPoint|PowerPoint]], and the first item in the New Themes gallery is Create with Copilot.
 >
 > **[0:25](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=25)** The same option appears when you select File New.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=163)** Copilot will choose a style for your new presentation.
 >
-> **[2:47](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=167)** From here, you can select one of the provided Microsoft templates, or you can choose a template from your organization here.
+> **[2:47](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=167)** From here, you can select one of the provided [[Microsoft]] templates, or you can choose a template from your organization here.
 >
 > **[2:55](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=175)** The next section below that is Image Preferences, where you can change the source for images in the new presentation.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=186)** If you leave this alone at Suggested, obviously Copilot will choose whatever style it wants to for your new presentation, or you can pick one of the other AI styles indicated here.
 >
-> **[3:20](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=200)** Other image sources include stock images from the Microsoft 365 library.
+> **[3:20](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=200)** Other image sources include stock images from the [[Microsoft 365]] library.
 >
 > **[3:26](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980&t=206)** For now, I'll leave it set at AI generated images and use the suggested style that Copilot picks.
 >
@@ -247,21 +245,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), ai (8), prompt (6), next (6), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Create a new presentation starting from a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980)
+#### [Create a new presentation starting from a template](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=0)** You just interacted with Copilot by choosing the Create with Copilot thumbnail.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=0)** You just interacted with [[Microsoft Copilot|Copilot]] by choosing the Create with Copilot thumbnail.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=4)** That launched the Narrative Creator UI or the Create with Copilot window.
 >
-> **[0:09](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=9)** There are a few other ways to launch and interact with Copilot in PowerPoint.
+> **[0:09](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=9)** There are a few other ways to launch and interact with Copilot in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:13](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=13)** I'll show them to you and explain the differences as we go along.
 >
@@ -297,13 +294,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=92)** As with other tasks in PowerPoint, there's more than one way to get started.
 >
-> **[1:37](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=97)** First off, you can begin with File, New, and scroll through the options from Microsoft in the gallery.
+> **[1:37](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=97)** First off, you can begin with File, New, and scroll through the options from [[Microsoft]] in the gallery.
 >
 > **[1:47](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=107)** You can even type a topic in the search bar if you like.
 >
-> **[1:51](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=111)** This gallery offers the widest selection of Microsoft Office templates.
+> **[1:51](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=111)** This gallery offers the widest selection of [[Microsoft Office]] templates.
 >
-> **[1:55](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=115)** If you have any saved templates on your system, they'll show up here under the Personal tab, or you may have templates shared in your company's Office Assets library, shown here as the GlobeBank Ink tab.
+> **[1:55](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=115)** If you have any saved templates on your system, they'll show up here under the Personal tab, or you may have templates shared in your company's [[Microsoft Office|Office]] Assets library, shown here as the GlobeBank Ink tab.
 >
 > **[2:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=127)** I'll open up the GlobeBank template.
 >
@@ -365,7 +362,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=291)** expose the notes and you see that Copilot has also included talking points for each one of the slides and the source for the image on the generated slide.
 >
-> **[5:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=300)** In this case, it's the Microsoft 365 Content Library.
+> **[5:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=300)** In this case, it's the [[Microsoft 365]] Content Library.
 >
 > **[5:05](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-template?u=76281980&t=305)** Now, Copilot has a partner tool on the Home ribbon.
 >
@@ -381,22 +378,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (24), [[Microsoft]] (3), hit (3), [[Microsoft PowerPoint|Powerpoint]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (24), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** select the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 
-#### Create a new presentation starting from an existing presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980)
+#### [Create a new presentation starting from an existing presentation](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=0)** There may be some cases where you don't have a template or can't locate the template, but you do have an existing presentation.
 >
-> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=7)** One that you want Copilot to use as the basis for a brand new presentation.
+> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=7)** One that you want [[Microsoft Copilot|Copilot]] to use as the basis for a brand new presentation.
 >
-> **[0:12](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=12)** Now I've opened up a sample file from Globe Bank in PowerPoint.
+> **[0:12](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=12)** Now I've opened up a sample file from Globe Bank in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:16](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-an-existing-presentation?u=76281980&t=16)** This file has 13 slides in it.
 >
@@ -468,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft PowerPoint|Powerpoint]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Exercise Files:** template (8)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
@@ -476,12 +472,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Create a new presentation from a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980)
+#### [Create a new presentation from a file](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=0)** With Copilot, you can create a new presentation from a document.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=0)** With [[Microsoft Copilot|Copilot]], you can create a new presentation from a document.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=4)** This can be a huge time saver and it's a perfect task for Copilot.
 >
@@ -493,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=28)** You can also choose reference files from this paper clip and reference files on this side of the prompt area.
 >
-> **[0:35](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=35)** Now, in the prompt, you can add up to five files and those file types include Word documents, PDFs, text files, Excel files, and loop pages.
+> **[0:35](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=35)** Now, in the prompt, you can add up to five files and those file types include [[Microsoft Word|Word]] documents, PDFs, text files, [[Microsoft Excel|Excel]] files, and loop pages.
 >
 > **[0:47](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=47)** I'll choose this one about Globe Bank International for now.
 >
@@ -509,15 +504,15 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=74)** I'll leave the tone as suggested for now, and scroll down to presentation style.
 >
-> **[1:21](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=81)** Now, under Presentation Style, you can choose from this smaller set of Microsoft templates.
+> **[1:21](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=81)** Now, under Presentation Style, you can choose from this smaller set of [[Microsoft]] templates.
 >
 > **[1:26](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=86)** These templates, though, have been optimized to work better with Copilot, and they're expanded to offer more variety of layouts.
 >
 > **[1:34](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=94)** In that same section, you can choose a template from your organization.
 >
-> **[1:39](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=99)** Your organization template or templates will show up here if they're properly set up on SharePoint.
+> **[1:39](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=99)** Your organization template or templates will show up here if they're properly set up on [[SharePoint]].
 >
-> **[1:45](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=105)** You can see the text article at the end of the course for links to learn more about setting up an Office Assets library.
+> **[1:45](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=105)** You can see the text article at the end of the course for links to learn more about setting up an [[Microsoft Office|Office]] Assets library.
 >
 > **[1:52](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-from-a-file?u=76281980&t=112)** I'll choose the Templates folder and select the GlobeBank template.
 >
@@ -545,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[SharePoint]] (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Best Practices:** don't forget (1)
@@ -556,12 +551,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add a slide about a specific subject
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980)
+#### [Add a slide about a specific subject](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980&t=0)** You can prompt Copilot to add new slides or a new topic to an existing presentation.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980&t=0)** You can prompt [[Microsoft Copilot|Copilot]] to add new slides or a new topic to an existing presentation.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980&t=7)** This can be helpful when you've received new insights about your topic, or when you're asked to include additional information.
 >
@@ -591,15 +585,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), prompt (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5)
 > **UI Navigation:** scroll down (1)
 
-#### Add a topic
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-topic?u=76281980)
+#### [Add a topic](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-topic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-topic?u=76281980&t=0)** You can also ask Copilot to add a topic to an existing presentation.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-topic?u=76281980&t=0)** You can also ask [[Microsoft Copilot|Copilot]] to add a topic to an existing presentation.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-topic?u=76281980&t=4)** Select the icon above the active slide area and then choose Add a Topic.
 >
@@ -633,7 +626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -644,14 +637,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rewrite slide text
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980)
+#### [Rewrite slide text](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=0)** When you're refining slides in a presentation, you can prompt Copilot to do some of the editing for you.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=0)** When you're refining slides in a presentation, you can prompt [[Microsoft Copilot|Copilot]] to do some of the editing for you.
 >
-> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=7)** Ask Copilot to rewrite text or generate new images directly within PowerPoint.
+> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=7)** Ask Copilot to rewrite text or generate new images directly within [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:13](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=13)** Editing text can be so time consuming.
 >
@@ -751,7 +743,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=237)** But note that you can't change fonts, colors, sizes, alignment, spacing, or any other visual characteristics using the Rewrite with Copilot feature.
 >
-> **[4:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=246)** As I've shown you here, try stacking those changes into one prompt, like changing it to sentence case and changing it to bold or italic, or maybe italicize the first word of each statement.
+> **[4:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=246)** As I've shown you here, try stacking those changes into one prompt, like changing it to sentence case and changing it to bold or italic, or maybe italicize the first [[Microsoft Word|word]] of each statement.
 >
 > **[4:18](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980&t=258)** Okay, it's your turn.
 >
@@ -769,21 +761,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), prompt (9), feature (2), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** select the (2), open the (1)
 > **Analogies:** for instance (3)
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
 
-#### Generate a new image
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980)
+#### [Generate a new image](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=0)** This slide is in the presentation about remote meetings, but the AI generated image is showing an in-person meeting.
 >
-> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=7)** Let's ask Copilot to generate a new image for this slide.
+> **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=7)** Let's ask [[Microsoft Copilot|Copilot]] to generate a new image for this slide.
 >
 > **[0:10](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=10)** First, I'm gonna delete this picture I don't want.
 >
@@ -845,19 +836,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), prompt (4), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9)
 > **Analogies:** picture (6)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
-#### Edit pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980)
+#### [Edit pictures](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980&t=0)** There's a new image editing feature in PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980&t=0)** There's a new image editing feature in [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:03](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980&t=3)** It's a partner to create with Copilot.
+> **[0:03](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980&t=3)** It's a partner to create with [[Microsoft Copilot|Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/edit-pictures?u=76281980&t=5)** When you select a picture, you'll see the edit picture button on the picture format ribbon.
 >
@@ -985,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Copilot|Copilot]] (2), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** picture (9), just like (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -996,14 +986,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980)
+#### [Summarize a presentation](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=0)** At times, you'll receive a large presentation and need to quickly retrieve some facts or information from the slides.
 >
-> **[0:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=6)** Copilot can save you time with that.
+> **[0:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=6)** [[Microsoft Copilot|Copilot]] can save you time with that.
 >
 > **[0:09](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=9)** You can use it to summarize the deck and retrieve specific information.
 >
@@ -1025,28 +1014,27 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=59)** There is a copy button below the text where you can copy the summary and paste it into a document or maybe onto a new slide.
 >
-> **[1:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=66)** And next to that, icons to submit feedback to Microsoft, followed by a speaker icon.
+> **[1:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=66)** And next to that, icons to submit feedback to [[Microsoft]], followed by a speaker icon.
 >
 > **[1:12](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=72)** You can have the summary read aloud.
 >
-> **[1:14](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=74)** These three dots offer a few other options, scheduling, share the response, open in Word.
+> **[1:14](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=74)** These three dots offer a few other options, scheduling, share the response, open in [[Microsoft Word|Word]].
 >
 > **[1:20](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980&t=80)** And then below those options, Copilot offers a few more prompt suggestions for additional insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (1), leadership (1), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Translate a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980)
+#### [Translate a presentation](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980&t=0)** Copilot makes it easy for you to translate your presentation into other languages.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980&t=0)** [[Microsoft Copilot|Copilot]] makes it easy for you to translate your presentation into other languages.
 >
-> **[0:05](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980&t=5)** Using the same Globe Bank presentation, this Banking Excellence deck, I'd like to translate this into Swedish.
+> **[0:05](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980&t=5)** Using the same Globe Bank presentation, this [[Banking]] Excellence deck, I'd like to translate this into Swedish.
 >
 > **[0:12](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/translate-a-presentation?u=76281980&t=12)** Select the Copilot icon above the slide and choose Translate this presentation.
 >
@@ -1072,16 +1060,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Retrieve information from a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980)
+#### [Retrieve information from a presentation](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=0)** Copilot can help you understand and retrieve information from a presentation.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=0)** [[Microsoft Copilot|Copilot]] can help you understand and retrieve information from a presentation.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=4)** You might want key takeaways or a summary of all the information about one specific topic.
 >
-> **[0:10](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=10)** I've opened the Banking Excellence presentation from Globe Bank, and now I'll press the Copilot button.
+> **[0:10](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=10)** I've opened the [[Banking]] Excellence presentation from Globe Bank, and now I'll press the Copilot button.
 >
 > **[0:16](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=16)** This will open up the Copilot chat experience.
 >
@@ -1111,31 +1098,30 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=88)** At the bottom here we can see all the results of sources that were used for the response.
 >
-> **[1:37](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=97)** Below that we can copy the response, submit feedback to Microsoft, have the results read aloud, and choose from more options like open in Word.
+> **[1:37](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=97)** Below that we can copy the response, submit feedback to [[Microsoft]], have the results read aloud, and choose from more options like open in [[Microsoft Word|Word]].
 >
 > **[1:48](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=108)** So try out Copilot Chat next time you receive a comprehensive presentation and experiment with prompting Copilot to retrieve exactly the information you need to know or act upon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Banking]] (3), prompt (2), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Banking]] (3), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 
 
 ### 5. Asking Copilot for Help
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ways that Copilot can help
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980)
+#### [Ways that Copilot can help](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=0)** Copilot in PowerPoint can create and edit slides and help you summarize or translate.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=0)** [[Microsoft Copilot|Copilot]] in [[Microsoft PowerPoint|PowerPoint]] can create and edit slides and help you summarize or translate.
 >
 > **[0:06](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=6)** It can generate new images and write talking points for your slides.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=11)** In an enterprise environment, it can pull data from other apps and from other internal documents.
 >
-> **[0:17](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=17)** Copilot can access your SharePoint asset library to suggest brand images and templates.
+> **[0:17](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=17)** Copilot can access your [[SharePoint]] asset library to suggest brand images and templates.
 >
 > **[0:22](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980&t=22)** But what if you're trying to accomplish something in PowerPoint and you're just not sure of the steps to take?
 >
@@ -1169,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft PowerPoint|Powerpoint]] (5), prompt (2), data (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft PowerPoint|Powerpoint]] (5), [[SharePoint]] (1)
 > **UI Navigation:** switch to (2), select the (1)
 > **CLI Commands:** find (2)
 
@@ -1178,14 +1164,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agent mode in Copilot Chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980)
+#### [Agent mode in Copilot Chat](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980&t=0)** I'm excited to show you a couple of features that are on the horizon for CoPilot and PowerPoint, Agent Mode and Creative Mode.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980&t=0)** I'm excited to show you a couple of features that are on the horizon for [[Microsoft Copilot|CoPilot]] and [[Microsoft PowerPoint|PowerPoint]], Agent Mode and Creative Mode.
 >
-> **[0:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980&t=8)** At the time of this recording, Agent Mode and Creative Mode are available in PowerPoint for Windows within the Frontier program or the Insiders beta channel.
+> **[0:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980&t=8)** At the time of this recording, Agent Mode and Creative Mode are available in PowerPoint for [[Windows]] within the Frontier program or the Insiders beta channel.
 >
 > **[0:18](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980&t=18)** Whether your organization has joined Frontier or you've switched to the beta channel, you get access to early builds of new features and updates before they're generally available.
 >
@@ -1259,23 +1244,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), prompt (6), [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** switch to (1), select the (1)
 > **Best Practices:** remember to (1)
 
-#### Create a new presentation with creative mode sneak peek
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980)
+#### [Create a new presentation with creative mode sneak peek](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=0)** Creative mode or creative style is part of the Frontier program and available with the Insiders or beta version of PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=0)** Creative mode or creative style is part of the Frontier program and available with the Insiders or beta version of [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=7)** I consider this an experimental feature as the results are quite unlike traditional slides.
 >
 > **[0:12](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=12)** Let me show you an example.
 >
-> **[0:13](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=13)** From the Copilot icon, I'll choose create a new presentation.
+> **[0:13](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=13)** From the [[Microsoft Copilot|Copilot]] icon, I'll choose create a new presentation.
 >
 > **[0:18](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-with-creative-mode-sneak-peek?u=76281980&t=18)** Underneath the prompt area where it says style default, I'll choose creative.
 >
@@ -1335,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), prompt (8), feature (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 
@@ -1344,14 +1328,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980&t=0)** Thank you for completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980&t=3)** I've shown you how to use Copilot and PowerPoint to create a new presentation, to refine your slides, and to understand presentation content.
+> **[0:03](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980&t=3)** I've shown you how to use [[Microsoft Copilot|Copilot]] and [[Microsoft PowerPoint|PowerPoint]] to create a new presentation, to refine your slides, and to understand presentation content.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980&t=11)** You applied what you learned to create a new presentation with Copilot, generated an AI image, and prompted Copilot to rewrite text.
 >
@@ -1365,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft PowerPoint|Powerpoint]] (2), next (2), ai (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft PowerPoint|Powerpoint]] (2)
 
 
 ## Instructor

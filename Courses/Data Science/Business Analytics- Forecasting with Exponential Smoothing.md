@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,13 +82,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=16)** Hi, my name is Conrad Carlberg.
 >
-> **[0:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=18)** I've been using the forecasting techniques that I describe in this series of lessons for more years than I care to think about.
+> **[0:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=18)** I've been using the [[Forecasting]] techniques that I describe in this series of lessons for more years than I care to think about.
 >
 > **[0:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=25)** In this course, I'll show you the rationale for exponential smoothing, including its self-correcting nature.
 >
 > **[0:31](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=31)** You'll also see how to get a sequence of forecasts going, and perhaps most important, you'll see how to assess the accuracy of your forecasts and how to improve them.
 >
-> **[0:41](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=41)** As you go through the lessons in this course, you'll find it helpful to be familiar with basic Excel data entry techniques, as well as how to enter formulas in an Excel worksheet.
+> **[0:41](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=41)** As you go through the lessons in this course, you'll find it helpful to be familiar with basic [[Microsoft Excel|Excel]] data entry techniques, as well as how to enter formulas in an Excel worksheet.
 >
 > **[0:51](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980&t=51)** The reason is that Excel is an ideal platform for learning how exponential smoothing works.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sas (1)
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Self-correcting forecasts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980)
+#### [Self-correcting forecasts](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=1)** - [Narrator] Many approaches to quantitative forecasting begin with this sort of data.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=1)** - [Narrator] Many approaches to quantitative [[Forecasting]] begin with this sort of data.
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=5)** Particularly the date, or time, in column A, and the quantity that you're forecasting in column B.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=15)** You apply the formulas to that baseline in order to generate your forecasts.
 >
-> **[0:21](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=21)** Formulas that you use in exponential smoothing take on one of two basic forms: error correction and smoothing.
+> **[0:21](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=21)** Formulas that you use in exponential smoothing take on one of two basic [[Forms]]: error correction and smoothing.
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980&t=29)** Those two forms are mathematically equivalent, and return precisely the same results.
 >
@@ -218,14 +216,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), product (3), [[Forecasting]] (2), [[Forms]] (2), data (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Forms]] (2)
 > **Versions:** 0.2 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### From error correction to smoothing
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980)
+#### [From error correction to smoothing](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,11 +266,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=135)** Because alpha is always a fraction between zero and one, alpha and one minus alpha always sum to 1.0.
 >
-> **[2:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=145)** The derivation just shown demonstrates that the two forms of the equation are mathematically equivalent.
+> **[2:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=145)** The derivation just shown demonstrates that the two [[Forms]] of the equation are mathematically equivalent.
 >
 > **[2:31](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=151)** Assuming no error in arithmetic, the two forms always return the same result.
 >
-> **[2:36](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=156)** The sole difference is that one form emphasizes the role played by forecasting error in calculating the next forecast while the smoothing form stresses the degree of weight given the prior observation versus the prior forecast.
+> **[2:36](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=156)** The sole difference is that one form emphasizes the role played by [[Forecasting]] error in calculating the next forecast while the smoothing form stresses the degree of weight given the prior observation versus the prior forecast.
 >
 > **[2:51](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/from-error-correction-to-smoothing?u=76281980&t=171)** If you read about exponential smoothing, you'll find that literature discusses both forms and it's useful to be familiar with both.
 >
@@ -281,13 +278,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Forms]] (3), [[Forecasting]] (2), product (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Forecasting]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exponentially declining influence of observations
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980)
+#### [Exponentially declining influence of observations](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980&t=102)** Conventionally, this simple approach uses the first observation, that is the observation made during period one as the forecast for period two.
 >
-> **[1:53](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980&t=113)** And because that period now has both an actual observation and a forecast, it's possible to continue through the rest of the baseline forecasting on the basis of the prior observation and the prior forecast.
+> **[1:53](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980&t=113)** And because that period now has both an actual observation and a forecast, it's possible to continue through the [[Representational State Transfer (REST)|rest]] of the baseline [[Forecasting]] on the basis of the prior observation and the prior forecast.
 >
 > **[2:06](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponentially-declining-influence-of-observations?u=76281980&t=126)** All of that is summarized by the fourth equation on the screen y hat sub two equals y sub one.
 >
@@ -367,15 +363,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), next (2), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Forecasting]] (1)
 > **Versions:** 0.9 (4), 0.81 (2), 0.1 (1), 1.0 (1)
 > **Env Vars:** b10 (1), b12 (1), b14 (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify the appropriate baseline
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980)
+#### [Identify the appropriate baseline](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +492,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=416)** It is useful, and the extra components that you add in order to manage trended or seasonal baselines, use the material discussed in this course as building blocks.
 >
-> **[7:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=427)** Furthermore, the level component, the component that this material forecasts, is an important part of forecasting, both trended and seasonal baselines.
+> **[7:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=427)** Furthermore, the level component, the component that this material forecasts, is an important part of [[Forecasting]], both trended and seasonal baselines.
 >
 > **[7:18](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=438)** One of the exercise files that accompany this course creates the correlograms on your behalf.
 >
@@ -505,7 +500,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=445)** Open the workbook named 0104ACF.xls.
 >
-> **[7:33](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=453)** Then, open an Excel workbook that contains your baseline.
+> **[7:33](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=453)** Then, open an [[Microsoft Excel|Excel]] workbook that contains your baseline.
 >
 > **[7:37](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/identify-the-appropriate-baseline?u=76281980&t=457)** It's important to open the workbooks in that particular order.
 >
@@ -531,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Forecasting]] (1)
 > **Versions:** 0.13 (2), 0.05 (2), 0.45 (1), 1.96 (1), 0.6 (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (4), is an  (1)
@@ -545,8 +540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dissect the error correction form
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980)
+#### [Dissect the error correction form](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=5)** The worksheet shows the date of each observation in column A and the observations themselves in column B.
 >
-> **[0:13](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=13)** Here we're recording and forecasting sales dollars.
+> **[0:13](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=13)** Here we're recording and [[Forecasting]] sales dollars.
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=16)** The forecasts appear in column C.
 >
@@ -634,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (2), next (2), product (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Env Vars:** c21 (5), c20 (2), d20 (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2)
@@ -642,14 +636,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dissect the smoothing form
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980)
+#### [Dissect the smoothing form](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=1)** - [Narrator] This worksheet shows the results of using the smoothing form of the exponential smoothing equation, rather than the error correction form of the equation, which was discussed in the prior lesson.
 >
-> **[0:12](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=12)** Recall that the two forms of the equation return precisely the same results, which means that the two sets of forecasts are identical.
+> **[0:12](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=12)** Recall that the two [[Forms]] of the equation return precisely the same results, which means that the two sets of forecasts are identical.
 >
 > **[0:20](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=20)** So, the choice of which form to use is strictly a matter of personal preference.
 >
@@ -707,28 +700,27 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=216)** The result is that each forecast precisely equals each prior observation.
 >
-> **[3:41](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=221)** There are times when that sort of forecasting turns out to be very useful.
+> **[3:41](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=221)** There are times when that sort of [[Forecasting]] turns out to be very useful.
 >
 > **[3:44](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=224)** And in fact, there's a term for it: naive forecasting.
 >
-> **[3:48](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=228)** Excel has an exponential smoothing tool.
+> **[3:48](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=228)** [[Microsoft Excel|Excel]] has an exponential smoothing tool.
 >
 > **[3:51](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-smoothing-form?u=76281980&t=231)** We'll look at that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), product (2), [[Forecasting]] (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Forecasting]] (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.0 (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exponential smoothing tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980)
+#### [Exponential smoothing tool](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=1)** - [Instructor] Microsoft Excel comes with two add-ins that you should know about if you want to do exponential smoothing.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=1)** - [Instructor] [[Microsoft Excel]] comes with two add-ins that you should know about if you want to do exponential smoothing.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=7)** Here's how to load the add-ins if you haven't done so already.
 >
@@ -736,7 +728,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=15)** And in the nav bar, choose Options at its very bottom.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=20)** And on the Excel Options dialog box, come down near the bottom of this nav bar and click Add Ins.
+> **[0:20](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=20)** And on the [[Microsoft Excel|Excel]] Options dialog box, come down near the bottom of this nav bar and click Add Ins.
 >
 > **[0:28](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/exponential-smoothing-tool?u=76281980&t=28)** And then at the bottom of that window, make sure that the drop down says Excel Add-ins.
 >
@@ -844,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2)
 > **UI Navigation:** checkbox (4), scroll down (1), select the (1)
 > **Env Vars:** c21 (2), c20 (1)
 > **Versions:** 0.8 (2), 0.2 (1)
@@ -853,8 +845,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 
-#### Initialize the forecasts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980)
+#### [Initialize the forecasts](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,7 +903,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980&t=199)** With backcasting, you turn the baseline around and us it to forecast into time period zero.
 >
-> **[3:26](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980&t=206)** This probably seems, at first, like a tricky way to obtain the first forecast but, in fact, it's the method recommended by Box and Jenkins in their seminal 1976 work on time series analysis.
+> **[3:26](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980&t=206)** This probably seems, at first, like a tricky way to obtain the first forecast but, in fact, it's the method recommended by Box and [[Jenkins]] in their seminal 1976 work on [[Time Series Analysis]].
 >
 > **[3:37](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/initialize-the-forecasts?u=76281980&t=217)** One the worksheet in columns A through C, notice that the data run for the most recent date of June tenth down to the earliest date of June first.
 >
@@ -940,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jenkins]] (1), [[Time Series Analysis]] (1), data (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Time Series Analysis]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -954,8 +945,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The absolute deviation approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980)
+#### [The absolute deviation approach](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,13 +971,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=91)** This worksheet has the same data as the first one you saw in columns A through E.
 >
-> **[1:37](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=97)** Column F uses Excel's ABS function to convert each deviation to a positive number.
+> **[1:37](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=97)** Column F uses [[Microsoft Excel|Excel]]'s ABS function to convert each deviation to a positive number.
 >
 > **[1:44](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=104)** ABS or A-B-S is Excel's abbreviation for absolute value.
 >
 > **[1:49](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=109)** Now you can take the average of the absolute deviations and wind up with a figure that really does express the average size of the deviations.
 >
-> **[1:57](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=117)** The average is termed the mean absolute deviation, or M-A-D, or MAD, and you see it used with some frequency in forecasting work.
+> **[1:57](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=117)** The average is termed the mean absolute deviation, or M-A-D, or MAD, and you see it used with some frequency in [[Forecasting]] work.
 >
 > **[2:06](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980&t=126)** It's a much better expression of the degree of inaccuracy in a forecast than is the total or average raw deviation.
 >
@@ -997,12 +987,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Microsoft Excel|Excel]] (2), data (1), [[Forecasting]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Forecasting]] (1)
 > **Env Vars:** abs (2), mad (2)
 > **Speakers:** - [instructor] (1)
 
-#### The least squares approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980)
+#### [The least squares approach](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1027,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=103)** I've set up the worksheet so that each step is called out exclusively, calculating the forecast error in column E, squaring the errors in column F, getting the mean squared error in cell G3, and getting the root mean squared error in cell H3.
 >
-> **[1:56](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=116)** If you prefer, you can use the formula shown in cell H6 which uses a couple of Excel worksheet functions to calculate the forecast errors, square them, and sum the squared errors.
+> **[1:56](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=116)** If you prefer, you can use the formula shown in cell H6 which uses a couple of [[Microsoft Excel|Excel]] worksheet functions to calculate the forecast errors, square them, and sum the squared errors.
 >
 > **[2:07](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=127)** You would still need to divide by the number of forecasts to get the mean squared error and then take the square root to return the root mean squared error.
 >
@@ -1056,13 +1045,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=180)** I also prefer R-M-S-E to M-A-D because it is closely related to a statistic called the standard error of estimate in regression analysis.
 >
-> **[3:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=189)** Regression analysis has been around for over a century and the properties of its underlying statistics have been thoroughly studied.
+> **[3:09](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=189)** Regression analysis has been around for over a century and the properties of its underlying [[Statistics]] have been thoroughly studied.
 >
 > **[3:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-least-squares-approach?u=76281980&t=196)** When I get an R-M-S-E that I don't expect, I usually know just where to look to understand it better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
@@ -1073,12 +1062,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solver
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980)
+#### [Solver](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980&t=1)** - [Instructor] Usually when you're using a financial, or otherwise numeric analysis package, such as Excel, you want to know the result of a series of inputs.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980&t=1)** - [Instructor] Usually when you're using a financial, or otherwise numeric analysis package, such as [[Microsoft Excel|Excel]], you want to know the result of a series of inputs.
 >
 > **[0:10](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980&t=10)** For example, your company might have four operating divisions, each of which returns a profit.
 >
@@ -1146,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -1154,8 +1142,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the smoothing formula for Solver
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980)
+#### [Set up the smoothing formula for Solver](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1226,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=259)** After a few seconds, solver displays a solve results dialogue box.
 >
-> **[4:24](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=264)** If you've specified the problem correctly and if the problem can be solved, then solver will display the message solver converged in probability to a global solution.
+> **[4:24](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=264)** If you've specified the problem correctly and if the problem can be solved, then solver will display the message solver converged in [[Probability]] to a global solution.
 >
 > **[4:35](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=275)** Choose to keep the solver solution option button if necessary and click OK.
 >
@@ -1253,11 +1240,11 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=316)** Obviously, it's up to you whether that forecast makes sense in terms of your business model.
 >
-> **[5:22](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=322)** Let's compare the solution returned by Excel to the one returned by the freeware statistical application R.
+> **[5:22](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/set-up-the-smoothing-formula-for-solver?u=76281980&t=322)** Let's compare the solution returned by [[Microsoft Excel|Excel]] to the one returned by the freeware statistical application R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Probability]] (1), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.1 (3), 1.0 (2), 0.9 (1), 0.328 (1)
 > **Env Vars:** grg (2), c22 (1), rmse (1)
 > **UI Navigation:** dropdown (2), checkbox (2)
@@ -1266,8 +1253,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980)
+#### [Solution in R](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1275,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980&t=12)** Of course, you'll need to have R installed on your computer.
 >
-> **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980&t=15)** I use Excel for a lot of preliminary analysis and it's convenient for me to import data directly into R from an open Excel workbook.
+> **[0:15](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980&t=15)** I use [[Microsoft Excel|Excel]] for a lot of preliminary analysis and it's convenient for me to import data directly into R from an open Excel workbook.
 >
 > **[0:25](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solution-in-r?u=76281980&t=25)** On the screen you see a worked out example of smoothing using Solver.
 >
@@ -1365,7 +1351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (10), application (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10)
 > **Prerequisites:** install (7), you'll need (2)
 > **Versions:** 690.095 (2), 0.2718683 (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -1379,8 +1365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,13 +1373,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980&t=6)** But the techniques are just as important when your baseline is not stationary.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980&t=10)** Forecasting the next level, which you learned about in this course, is a critical part of forecasting a trended, a seasonal, or a trended and seasonal baseline.
+> **[0:10](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980&t=10)** [[Forecasting]] the next level, which you learned about in this course, is a critical part of forecasting a trended, a seasonal, or a trended and seasonal baseline.
 >
 > **[0:19](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980&t=19)** As a next step, I'd recommend that you seek out material on Holt's method, and on Holt-Winters forecasts, and more recent work on damped trends that's taking the field in new directions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (2), next (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [conrad] (1)
 

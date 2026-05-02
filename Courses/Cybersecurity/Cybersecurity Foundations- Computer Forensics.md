@@ -123,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computer forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
+#### [Computer forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,15 +133,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=3)** Businesses are shut down due to ransomware attacks, and individuals are suffering from identity thefts.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=10)** The demand is high for computer forensics professionals who are at the forefront of bringing cyber criminals to justice.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=10)** The demand is high for [[Computer Forensics]] professionals who are at the forefront of bringing cyber criminals to justice.
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=18)** Hello, I'm Jungwoo Ryoo.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=20)** As a college professor, I've been teaching computer forensics many years.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=24)** I'm thrilled you've joined me in this course where you'll learn major computer forensics topics, such as investigation prep, write blocking and data acquisition.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=24)** I'm thrilled you've joined me in this course where you'll learn major computer forensics topics, such as investigation prep, write blocking and [[Data Acquisition]].
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=36)** You'll also have an opportunity to explore evidence analysis and reporting through hands-on demos in Windows and Linux.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=36)** You'll also have an opportunity to explore evidence analysis and reporting through hands-on demos in [[Windows]] and [[Linux]].
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980&t=44)** Let's get started.
 
@@ -152,20 +151,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - cyber (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=0)** - Let's talk about what you should know before taking this course.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=4)** My goal is to help you quickly learn essential digital forensics concepts and develop an overall understanding of the field.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=4)** My goal is to help you quickly learn essential [[Digital Forensics]] concepts and develop an overall understanding of the field.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=12)** So this course has no real prerequisites.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=16)** We'll be using both Windows and Linux operating systems, but don't worry if you don't have a Linux computer available, you can still sit back and watch the demos.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=16)** We'll be using both [[Windows]] and [[Linux]] operating systems, but don't worry if you don't have a Linux computer available, you can still sit back and watch the demos.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=27)** However, do keep in mind that many computer forensics investigations require using Linux, so it'll be good to get familiar with the OS.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=27)** However, do keep in mind that many [[Computer Forensics]] investigations require using Linux, so it'll be good to get familiar with the OS.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/what-you-should-know?u=76281980&t=38)** The software tools used in this course are free or available as trial versions.
 >
@@ -183,12 +181,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Definition and goals of computer forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
+#### [Definition and goals of computer forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980&t=0)** - [Instructor] The ultimate goal of computer forensics is to produce evidence for legal cases.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980&t=0)** - [Instructor] The ultimate goal of [[Computer Forensics]] is to produce evidence for legal cases.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980&t=7)** You need to keep four objectives in mind to achieve this goal.
 >
@@ -210,17 +207,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (3), data (3), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### History
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980)
+#### [History](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=0)** - [Presenter] Computer forensics originated from practical needs in the law enforcement community.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=0)** - [Presenter] [[Computer Forensics]] originated from practical needs in the law enforcement community.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=7)** Criminals started using computers to commit crimes and law enforcement officers in the trenches had to deal with the new phenomenon at the time.
 >
@@ -240,34 +236,33 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=111)** Cyber is a shorthand for cyberspace and refers to a virtual environment where information exchanges occur among computing devices.
 >
-> **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=123)** The word cybercrime emphasizes that computer crimes are no longer confined to a single, isolated machine, but touch on a collection of devices connected through a communications network like the internet.
+> **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=123)** The [[Microsoft Word|word]] cybercrime emphasizes that computer crimes are no longer confined to a single, isolated machine, but touch on a collection of devices connected through a communications network like the internet.
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=138)** The word cybercrime compliments the more conventional label, "computer crime."
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=145)** Therefore, we're increasingly seeing both computer and cyber used together in media, as in computer and cyber forensics.
 >
-> **[2:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=156)** You can also use digital forensics to cover both computer and cyber forensics because digital means anything using zeros and ones for representing data, which computers and cyberspaces do.
+> **[2:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=156)** You can also use [[Digital Forensics]] to cover both computer and cyber forensics because digital means anything using zeros and ones for representing data, which computers and cyberspaces do.
 >
 > **[2:53](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=173)** Since its humble beginning in the 1970s, computer forensics has seen explosive growth and continues to expand its scope.
 >
-> **[3:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=182)** Newly emerging technologies such as the Internet of Things, or IoT are constantly pushing the limits of the field.
+> **[3:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=182)** Newly emerging technologies such as the [[IoT|Internet of Things]], or [[IoT]] are constantly pushing the limits of the field.
 >
 > **[3:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/history?u=76281980&t=191)** I'm sure some future successor will soon replace IoT, which will help keep expanding the field of digital forensics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (3), data (2), [[Microsoft Word|Word]] (2), [[Digital Forensics]] (2), [[IoT]] (2)
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), [[Microsoft Word|Word]] (2), [[Digital Forensics]] (2), [[IoT]] (2), [[IoT|Internet of things]] (1)
 > **Env Vars:** iso (2), cart (1), fbi (1), fletc (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Types of investigations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/types-of-investigations?u=76281980)
+#### [Types of investigations](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/types-of-investigations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/types-of-investigations?u=76281980&t=0)** - [Instructor] There are two primary types of computer forensics investigations.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/types-of-investigations?u=76281980&t=0)** - [Instructor] There are two primary types of [[Computer Forensics]] investigations.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/types-of-investigations?u=76281980&t=5)** One is public and the other is private.
 >
@@ -303,18 +298,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (2), business (2)
+> **Frameworks & Libraries:** [[Computer Forensics]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980)
+#### [Tools](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980&t=0)** - [Instructor] There are many tools of the trade in computer forensics.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980&t=0)** - [Instructor] There are many tools of the trade in [[Computer Forensics]].
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980&t=4)** Some of these tools are software-based, others are hardware-based.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980&t=4)** Some of these tools are software-based, others are [[Hardware]]-based.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools?u=76281980&t=12)** Many computer forensics software tools exist in the form of a software suite.
 >
@@ -356,17 +350,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Hardware]] (3), feature (2), data (1), power (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Hardware]] (3)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Legal implications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980)
+#### [Legal implications](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=0)** - [Instructor] As a computer forensics investigator, you should be aware of the potential legal consequences of your action.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=0)** - [Instructor] As a [[Computer Forensics]] investigator, you should be aware of the potential legal consequences of your action.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=7)** If you conduct your computer forensics investigation improperly, the court could throw away all the evidence you provide.
 >
@@ -388,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=82)** You can accomplish this by following systematic procedures in your computer forensics investigations when collecting and analyzing data.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=92)** For example, using chain of custody forms and evidence lockers is critical to ensure there is little chance of tampering.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=92)** For example, using chain of custody [[Forms]] and evidence lockers is critical to ensure there is little chance of tampering.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/legal-implications?u=76281980&t=102)** Chain of custody forms allow you to track who handled your evidence, while evidence lockers are secure containers to store physical evidence.
 >
@@ -412,19 +405,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (5), data (3), [[Forms]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (5), [[Forms]] (2)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Current and future trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980)
+#### [Current and future trends](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=0)** - [Instructor] The good news for computer forensics professionals is that there are opportunities everywhere and there'll be even more because computer crimes are rising.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=0)** - [Instructor] The good news for [[Computer Forensics]] professionals is that there are opportunities everywhere and there'll be even more because computer crimes are rising.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=10)** The bad news is that criminals are getting more organized and sophisticated, making our job as investigators more challenging.
 >
@@ -434,13 +426,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=33)** Encryption is a huge challenge because it scrambles evidence and renders it useless.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=40)** All mainstream operating systems or OS vendors are providing advanced encryption capabilities for mobile devices and personal computers to protect the privacy of their customers.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=40)** All mainstream operating systems or OS vendors are providing advanced encryption capabilities for mobile devices and personal computers to protect the [[Privacy]] of their customers.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=52)** Users can quickly and easily turn encryption on without expert knowledge.
 >
-> **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=60)** Some of you may remember a controversy surrounding Apple not providing technical support for bypassing its encryption algorithm to help law enforcement.
+> **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=60)** Some of you may remember a controversy surrounding Apple not providing [[Technical Support]] for bypassing its encryption algorithm to help law enforcement.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=72)** Advances in hardware and software are always ongoing, presenting constant challenges.
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=72)** Advances in [[Hardware]] and software are always ongoing, presenting constant challenges.
 >
 > **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=79)** The sheer volume of data they generate alone is already too daunting to keep up with.
 >
@@ -448,7 +440,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=92)** Unless we accomplish comparable advances in search tools, forensic analysis attempts are bound to take longer.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=100)** Luckily, we are seeing an explosion in data science innovations, especially in the area of big data and artificial intelligence, and I'm hoping that these newly emerging data science solutions will help reduce the average turnaround time for computer forensics analysis reports.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=100)** Luckily, we are seeing an explosion in [[Data Science]] innovations, especially in the area of [[Big Data]] and [[Artificial Intelligence (AI)|artificial intelligence]], and I'm hoping that these newly emerging data science solutions will help reduce the average turnaround time for computer forensics analysis reports.
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/current-and-future-trends?u=76281980&t=120)** We are also storing more data in the cloud, and the ownership of data is not always clear, which could lead to custody disputes over potential evidence that a cloud service provider stores.
 >
@@ -466,23 +458,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (5), data (5), [[Hardware]] (2), cloud (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Computer Forensics]] (5), [[Hardware]] (2), [[Data Science]] (2), [[Privacy]] (1), [[Technical Support]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980)
+#### [Challenges](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=0)** - [Instructor] Working in computer forensics is challenging, partly due to the rapidly changing technology landscape.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=0)** - [Instructor] Working in [[Computer Forensics]] is challenging, partly due to the rapidly changing technology landscape.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=7)** Whether they're old or new, all the technologies also coexist while new software and hardware are constantly appearing.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=7)** Whether they're old or new, all the technologies also coexist while new software and [[Hardware]] are constantly appearing.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=17)** Take your PC, they continuously release new versions of the operating systems or OS.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=24)** Microsoft OS alone has a long list of upgrades from MS-DOS to the latest version of Windows OS.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=24)** [[Microsoft]] OS alone has a long list of upgrades from MS-DOS to the latest version of [[Windows]] OS.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=33)** Computer forensics professionals encounter many different technologies during an investigation.
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=154)** There are also other non-technical challenges.
 >
-> **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=157)** Privacy is one of them.
+> **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=157)** [[Privacy]] is one of them.
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenges?u=76281980&t=160)** To stay out of trouble, a forensic specialist should be crafty and able to navigate through private data while not violating a person's privacy.
 >
@@ -536,25 +527,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (3), [[Windows]] (2), data (2), [[Privacy]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (3), [[Windows]] (2), [[Privacy]] (2), [[Hardware]] (1), [[Microsoft]] (1)
 > **Env Vars:** dos (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anti-forensics techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980)
+#### [Anti-forensics techniques](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=0)** - [Instructor] There is an ongoing race between criminals and computer forensics professionals.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=0)** - [Instructor] There is an ongoing race between criminals and [[Computer Forensics]] professionals.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=6)** The lawbreakers are always seeking ways to evade the investigators.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=12)** Sometimes bad guys get unexpected help from operating systems or OS vendors.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=19)** To protect the privacy of its users, OS companies strengthened their encryption, which could keep good guys like investigators from doing their work.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=19)** To protect the [[Privacy]] of its users, OS companies strengthened their encryption, which could keep good guys like investigators from doing their work.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=29)** It's a delicate balance.
 >
@@ -570,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=70)** Therefore, to thrive in this ever-changing field, to override the section designated as deleted and make it permanently erased.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=81)** Metadata provides information on different aspects of data.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=81)** [[Metadata]] provides information on different aspects of data.
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=86)** If your data is a digital photo, its metadata includes facts like when the photo was taken and which device took it.
 >
@@ -594,7 +584,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=173)** A more general method to hide data is to put it in unreachable places, undetectable by computer forensics software.
 >
-> **[3:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=182)** A slack space, a leftover created when writing to a file system, is a popular choice for this.
+> **[3:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=182)** A [[Slack]] space, a leftover created when writing to a file system, is a popular choice for this.
 >
 > **[3:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/anti-forensics-sechniques?u=76281980&t=191)** More advanced techniques can destroy evidence once they detect and attempt to analyze a digital medium forensically.
 >
@@ -604,25 +594,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (5), [[Computer Forensics]] (3), [[Privacy]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (5), [[Computer Forensics]] (3), [[Privacy]] (1), [[Slack]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** slack (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance and forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980)
+#### [Compliance and forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=0)** - [Narrator] Computer forensics is essential to meeting compliance requirements.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=0)** - [Narrator] [[Computer Forensics]] is essential to meeting compliance requirements.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=5)** Organizations must comply with different rules and regulations, depending on the industry.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=12)** The Health Insurance Portability and Accountability Act, or HIPAA of 1996, stipulates protecting personally identifiable information, or PII, in the healthcare and insurance industries.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=12)** The Health Insurance Portability and [[Accountability]] Act, or HIPAA of 1996, stipulates protecting personally identifiable information, or PII, in the healthcare and insurance industries.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=29)** The National Institute of Standards and Technology, or NIST, is a non-regulatory agency of the US Department of Commerce.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=29)** The National Institute of Standards and Technology, or [[NIST]], is a non-regulatory agency of the US Department of Commerce.
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=40)** NIST SP 800-66 is a publication designed to help implement the HIPAA security rule.
 >
@@ -634,29 +623,28 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=72)** An audit trail is a chronological record that documents security-relevant events.
 >
-> **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=79)** Various log messages generated by software and hardware are an example of an audit trail.
+> **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=79)** Various log messages generated by software and [[Hardware]] are an example of an audit trail.
 >
-> **[1:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=87)** In handling credit card transactions, an organization is responsible for adhering to the Payment Card Industry Data Security Standard, or PCI DSS.
+> **[1:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=87)** In handling credit card transactions, an organization is responsible for adhering to the Payment Card Industry [[Data Security]] Standard, or PCI DSS.
 >
 > **[1:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=99)** PCI DSS imposes annual audit reports to ensure organizations take proper security precautions while processing customer credit card information.
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=111)** It mandates a process to provide a timely computer forensics investigation after a compromise occurs.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=120)** The Federal Information Security Management Act, or FSMA of 2002, requires federal organizations to generate and retain an immutable audit trail that enables a computer forensics investigation after a security incident.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=120)** The Federal [[Information Security Management]] Act, or FSMA of 2002, requires federal organizations to generate and retain an immutable audit trail that enables a computer forensics investigation after a security incident.
 >
-> **[2:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=139)** Computer forensics plays a crucial role in ensuring that an organization remains compliant with cybersecurity rules and regulations.
+> **[2:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=139)** Computer forensics plays a crucial role in ensuring that an organization remains compliant with [[Cybersecurity]] rules and regulations.
 >
 > **[2:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/compliance-and-forensics?u=76281980&t=149)** This is one more reason to learn about computer forensics if you're involved in any aspect of the cybersecurity industry.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (6), [[Security]] (5), [[NIST]] (3), [[Cybersecurity]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (6), [[NIST]] (3), [[Cybersecurity]] (2), [[Accountability]] (1), [[Hardware]] (1)
 > **Env Vars:** nist (3), hipaa (2), pci (2), dss (2), pii (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity and forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980)
+#### [Cybersecurity and forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=4)** We routinely hear news about data breaches and wonder whether criminals stole our data.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=12)** Cybersecurity is all about preventing and responding to cyber crimes, which requires the heavy use of computer forensics techniques.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=12)** [[Cybersecurity]] is all about preventing and responding to cyber crimes, which requires the heavy use of [[Computer Forensics]] techniques.
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=22)** Whenever there is a security incident such as unauthorized access to a server, it's crucial trace back to the source of the attack and to understand how it happened.
 >
@@ -676,9 +664,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=66)** Due to this close relationship between cybersecurity and computer forensics, professionals are paying more attention to developing additional skills specific to handling cyber crimes.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=78)** One expertise required to more effectively investigate a cyber crime is knowledge of computer networking, which is the study of connecting machines using various media, including radio signals, internet and fiber optics cables.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=78)** One expertise required to more effectively investigate a cyber crime is knowledge of [[Computer Networking]], which is the study of connecting machines using various media, including radio signals, internet and fiber optics cables.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=96)** As computer forensics workers who are seeking more specialization in cybersecurity regarding computer networking, they created an entirely new discipline called network forensics.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=96)** As computer forensics workers who are seeking more specialization in cybersecurity regarding computer networking, they created an entirely new discipline called [[Network Forensics]].
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cybersecurity-and-forensics?u=76281980&t=111)** This subfield of computer forensics focuses on violations and crimes occurring in the context of a computer network.
 >
@@ -686,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Cybersecurity]] (4), [[Computer Networking]] (3), data (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (7), [[Cybersecurity]] (4), [[Computer Networking]] (3), [[Network Forensics]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
@@ -697,14 +685,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Specializations in computer forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
+#### [Specializations in computer forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=0)** - [Instructor] As computer forensics expands into cyber and digital domains, specialization is essential because it's impossible for one person to know everything.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=0)** - [Instructor] As [[Computer Forensics]] expands into cyber and digital domains, specialization is essential because it's impossible for one person to know everything.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=11)** Investigations in cyber spaces require expertise in computer networking because monitoring, passing network traffic establishes evidence after a cyber crime happens.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=11)** Investigations in cyber spaces require expertise in [[Computer Networking]] because monitoring, passing network traffic establishes evidence after a cyber crime happens.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=25)** This involves looking for traces of crime and all the possible elements of what constitutes a computer network, including computers, switches, and routers.
 >
@@ -712,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=50)** Servers and clients can both be the origins and the destinations of computer network communications and should be subject to close scrutiny.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=62)** This emphasis on computer networking is why we collectively call the cyber crime-centric investigation techniques network forensics.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=62)** This emphasis on computer networking is why we collectively call the cyber crime-centric investigation techniques [[Network Forensics]].
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=72)** One of the conventional subfield of computer forensics is operating systems or OS forensics.
 >
@@ -724,7 +711,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=98)** I use a web client to check my emails.
 >
-> **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=102)** I edit my documents in Google Docs.
+> **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=102)** I edit my documents in [[Google]] Docs.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=105)** I watch videos on YouTube.
 >
@@ -732,21 +719,21 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=113)** Just because of the dominance of the web and its applications in our everyday lives, unique web-specific forensic approaches are necessary and are in high demand.
 >
-> **[2:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=126)** Cloud computing is another trend shaping our information technology adoption.
+> **[2:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=126)** [[Cloud Computing]] is another trend shaping our information technology adoption.
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=131)** The cloud now powers most of the applications we are accessing through the web.
 >
-> **[2:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=136)** Criminals have already started exploiting cloud users, which is why cloud forensics is becoming a major digital forensics subfield.
+> **[2:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=136)** Criminals have already started exploiting cloud users, which is why cloud forensics is becoming a major [[Digital Forensics]] subfield.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=147)** To compromise web and cloud security, criminals sponsor the development of malicious software or malware.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=147)** To compromise web and [[Cloud Security]], criminals sponsor the development of malicious software or malware.
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=157)** The complexity of malware is increasing as law breakers understand its value, and invest more resources in producing more sophisticated attack software.
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=170)** Expert knowledge is a must to address malware challenges in computer forensics effectively.
 >
-> **[2:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=177)** Mobile computing devices have software and hardware characteristics fundamentally different from desktop computers.
+> **[2:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=177)** Mobile computing devices have software and [[Hardware]] characteristics fundamentally different from desktop computers.
 >
-> **[3:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=186)** The form factors are different and so are the OSs, such as iOS and Android.
+> **[3:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=186)** The form factors are different and so are the OSs, such as iOS and [[Android]].
 >
 > **[3:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980&t=194)** Tablets and mobile phones are quickly becoming mainstream and we spend less and less time on our PCs.
 >
@@ -766,25 +753,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), cloud (5), [[Digital Forensics]] (5), [[Computer Forensics]] (3), [[Computer Networking]] (2)
+> **Frameworks & Libraries:** [[Digital Forensics]] (5), [[Computer Forensics]] (3), [[Computer Networking]] (2), [[Google]] (2), [[Network Forensics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ios (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980)
+#### [Network forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=0)** - [Instructor] Network forensics investigates crimes in cyberspace.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=0)** - [Instructor] [[Network Forensics]] investigates crimes in cyberspace.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=5)** It focuses on analyzing and monitoring network traffic data exchanged between computing devices with unique addresses.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=14)** To be able to conduct network forensics tasks, you need to develop significant knowledge in computer networking.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=14)** To be able to conduct network forensics tasks, you need to develop significant knowledge in [[Computer Networking]].
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=23)** Some of the topics to master include the roles of network hardware like switches, routers, and hosts, and various network layers such as physical, data link and application.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=23)** Some of the topics to master include the roles of network [[Hardware]] like switches, routers, and hosts, and various network layers such as physical, data link and application.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=39)** Others are concepts.
 >
@@ -798,9 +784,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=85)** They provide baseline networking capabilities that turn your application data into packets and then electrical or optical signals so that they can travel through copper wires or fiber optics cables.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=99)** Your OSs also allow you to configure your network settings to connect your computer to a local area network, or LAN.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=99)** Your OSs also allow you to configure your network settings to connect your computer to a [[Local Area Network (LAN)|local area network]], or LAN.
 >
-> **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=107)** If you're not already familiar with basic commands like ipconfig on Windows, or ifconfig on Linux, it's a good indicator that you lack qualifications as a network forensics investigator.
+> **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=107)** If you're not already familiar with basic commands like ipconfig on [[Windows]], or ifconfig on [[Linux]], it's a good indicator that you lack qualifications as a network forensics investigator.
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=123)** After developing proficiency with OSs, a natural next step is to study well-known software tools, Package snippers are one of them.
 >
@@ -808,42 +794,41 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=144)** There are numerous other software tools in computer networking.
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=148)** These are software firewall solutions, intrusion detection and prevention systems, security information and event management, or SIEM applications.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=148)** These are software firewall solutions, [[Intrusion Detection]] and prevention systems, security information and event management, or SIEM applications.
 >
 > **[2:41](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=161)** I hope you now have a good feel for what network forensics involves.
 >
-> **[2:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=166)** Several digital forensics software products have built-in features for network forensics tasks and require minimum networking knowledge, but much more is needed to dig deeper into the crime scenes in cyberspace.
+> **[2:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=166)** Several [[Digital Forensics]] software [[Microsoft Products|products]] have built-in features for network forensics tasks and require minimum networking knowledge, but much more is needed to dig deeper into the crime scenes in cyberspace.
 >
 > **[3:02](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/network-forensics?u=76281980&t=182)** If your career goal is to become a network forensics specialist, I recommend you do everything I've highlighted so far.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Forensics]] (7), data (4), [[Hardware]] (3), [[Computer Networking]] (2), application (2)
+> **Frameworks & Libraries:** [[Network Forensics]] (7), [[Hardware]] (3), [[Computer Networking]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1)
 > **Env Vars:** lan (1), siem (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operating system forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980)
+#### [Operating system forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=0)** - [Instructor] Operating systems, or OSs, are one of the most fundamental components of digital forensics.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=0)** - [Instructor] Operating systems, or OSs, are one of the most fundamental components of [[Digital Forensics]].
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=8)** We use OSs to control all the digital devices around us.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=14)** Take your mobile phones.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=16)** The prevalent OSs that drive their inner workings are Android and iOS.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=16)** The prevalent OSs that drive their inner workings are [[Android]] and iOS.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=23)** Your favorite digital watches also have OSs.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=27)** Windows, Linux, and Mac OS power most of the computers in the world.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=27)** [[Windows]], [[Linux]], and Mac OS power most of the computers in the world.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=33)** The diversity alone presents a considerable challenge.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=38)** Each type of hardware can potentially have its own OS, like your phone, watch, and computer.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=38)** Each type of [[Hardware]] can potentially have its own OS, like your phone, watch, and computer.
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=47)** Windows OS has so many versions and you cannot simply ignore its old versions because many of them are still in use.
 >
@@ -881,9 +866,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=177)** OSs also generate numerous log files with crucial information like time stamps and identities of users.
 >
-> **[3:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=187)** Other areas of OS forensics include virtualization and cloud computing.
+> **[3:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=187)** Other areas of OS forensics include virtualization and [[Cloud Computing]].
 >
-> **[3:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=194)** Many corporations no longer have their server room but outsource their IT to cloud service providers, which use virtual machines to install end users' OSs instead of physical PCs.
+> **[3:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=194)** Many corporations no longer have their server room but outsource their IT to cloud service providers, which use [[Virtual Machines]] to install end users' OSs instead of physical PCs.
 >
 > **[3:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/operating-system-forensics?u=76281980&t=209)** What I've discussed so far is just a highlight of the fascinating field of OS forensics.
 >
@@ -891,7 +876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), data (6), [[Digital Forensics]] (3), [[Linux]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Digital Forensics]] (3), [[Linux]] (2), [[Android]] (1), [[Hardware]] (1)
 > **Env Vars:** ram (5), fat (2), ntfs (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** stands for (1), is an  (1), we call this (1)
@@ -900,8 +885,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
-#### Web forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980)
+#### [Web forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=9)** We shop online using our web browsers.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=13)** Online banking is another area where we use web applications.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=13)** Online [[Banking]] is another area where we use web applications.
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=18)** We use web browsers on multiple platforms.
 >
@@ -919,11 +903,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=27)** We can also sync multiple instances of web browsers by signing on, which makes web forensics even more relevant.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=37)** Due to our heavy use of web browsers in our computing experience and on the internet, web forensics has become a significant subfield of digital forensics.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=37)** Due to our heavy use of web browsers in our computing experience and on the internet, web forensics has become a significant subfield of [[Digital Forensics]].
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=49)** One of the web forensics goals is to find sensitive information, such as usernames and passwords.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=56)** Password management has been a challenge in cybersecurity.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=56)** Password management has been a challenge in [[Cybersecurity]].
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=60)** Web browsers are trying to help mitigate the problem by allowing users to save their credentials in the cloud.
 >
@@ -937,15 +921,15 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=96)** A lot of what people do is also searching, and the query terms often provide clues to the mindset of a suspect.
 >
-> **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=106)** Although ultimately encrypted to be saved in the cloud, the confidential information; documents, images, videos; data entered into forms, scripts, and executable files linger in a temporary and less secure memory location called cache.
+> **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=106)** Although ultimately encrypted to be saved in the cloud, the confidential information; documents, images, videos; data entered into [[Forms]], scripts, and executable files linger in a temporary and less secure memory location called cache.
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=129)** Basically, examining web data alone can reveal ton of information on a user, including interests, preferences, beliefs, shopping habits, friends, family, and other social networks.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=147)** Because of the widespread use and the information-rich environment it provides, cyber criminals frequently launch their attacks against web browsers.
 >
-> **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=157)** You must have heard of cross-site scripting and SQL injection by now.
+> **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=157)** You must have heard of cross-site scripting and [[SQL]] injection by now.
 >
-> **[2:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=162)** Since these attacks occurred through web browsers, cybersecurity professionals can conduct a web forensics investigation to fulfill an incident response task.
+> **[2:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=162)** Since these attacks occurred through web browsers, cybersecurity professionals can conduct a web forensics investigation to fulfill an [[Incident Response]] task.
 >
 > **[2:55](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=175)** The dominance and popularity of web browsers in everyday computing also presents some challenges.
 >
@@ -953,7 +937,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=185)** There are several mainstream web browsers, and they continue to evolve.
 >
-> **[3:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=190)** Encryption and privacy features are others.
+> **[3:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=190)** Encryption and [[Privacy]] features are others.
 >
 > **[3:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/web-forensics?u=76281980&t=193)** By using an incognito mode, users can conceal their browsing history.
 >
@@ -965,18 +949,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (20), [[Digital Forensics]] (2), [[Cybersecurity]] (2), cloud (2), data (2)
+> **Frameworks & Libraries:** [[Digital Forensics]] (2), [[Cybersecurity]] (2), [[Banking]] (1), [[Forms]] (1), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980)
+#### [Cloud forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=0)** - [Instructor] Cloud computing used to be an emerging technology, but not anymore.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] used to be an emerging technology, but not anymore.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=5)** It's quickly taken over many aspects of our computing lives.
 >
@@ -986,21 +969,21 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=17)** I rarely store data locally.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=20)** This trend implies that digital forensics is no longer limited to local file systems, but must expand its scope to include cloud service products.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=20)** This trend implies that [[Digital Forensics]] is no longer limited to local file systems, but must expand its scope to include cloud service [[Microsoft Products|products]].
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=31)** There are three major types of cloud services.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=31)** There are three major types of [[Cloud Services]].
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=35)** We are most familiar with Software as a service, or SaaS, because of its end-user facing nature.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=35)** We are most familiar with [[SaaS|Software as a service]], or [[SaaS]], because of its end-user facing nature.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=43)** It offers software solutions in web applications like word processors and spreadsheets.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=43)** It offers software solutions in web applications like [[Microsoft Word|word]] processors and spreadsheets.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=50)** Platform as a service, or PaaS, allows a self-contained environment where users can develop and maintain their software services.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=50)** [[PaaS|Platform as a service]], or [[PaaS]], allows a self-contained environment where users can develop and maintain their software services.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=61)** Web servers, databases, and operating systems are frequently available in PaaS offerings.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=61)** [[Web Servers]], [[Databases]], and operating systems are frequently available in PaaS offerings.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=70)** Infrastructure-as-a-Service, or IaaS, is the most extensive cloud computing option and allows users to build their computing resources by providing virtual hardware.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=70)** Infrastructure-as-a-Service, or [[IaaS]], is the most extensive cloud computing option and allows users to build their computing resources by providing virtual [[Hardware]].
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=82)** Through IaaS, you can provide your virtual machines, virtual switches, and virtual routers, to name just a few.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=82)** Through IaaS, you can provide your [[Virtual Machines]], virtual switches, and virtual routers, to name just a few.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/cloud-forensics?u=76281980&t=92)** What's daunting to digital forensics investigators is that criminals also have access to all these different cloud capabilities.
 >
@@ -1030,12 +1013,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), data (2), [[Digital Forensics]] (2), web (2), [[PaaS]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Digital Forensics]] (2), [[PaaS]] (2), [[IaaS]] (2), [[Hardware]] (2)
 > **Env Vars:** frcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Malware forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/malware-forensics?u=76281980)
+#### [Malware forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/malware-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,14 +1083,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** source code (3)
 > **CLI Commands:** find (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980)
+#### [Mobile forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=10)** It's now common to confiscate mobile phones and tablets in a criminal investigation.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=18)** Mobile forensics is a subfield of digital forensics, focusing on finding evidence on mobile devices.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=18)** Mobile forensics is a subfield of [[Digital Forensics]], focusing on finding evidence on mobile devices.
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=26)** The diversity of mobile devices is overwhelming.
 >
@@ -1136,7 +1116,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=73)** This example highlights the importance of tool support for cases involving mobile devices.
 >
-> **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=80)** If a vendor can provide the universal kit with all the necessary hardware to get the data we need out of the proprietary hardware, the investigator's job will be much easier.
+> **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=80)** If a vendor can provide the universal kit with all the necessary [[Hardware]] to get the data we need out of the proprietary hardware, the investigator's job will be much easier.
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mobile-forensics?u=76281980&t=93)** Therefore, mobile forensics investigators must be proficient with specialized hardware and software tools to do their jobs effectively because having the right equipment or program can make a big difference.
 >
@@ -1160,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (6), [[Digital Forensics]] (2), data (2)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Digital Forensics]] (2)
 > **Env Vars:** usb (6), sim (1)
 > **Versions:** 2.0 (1), 3.0 (1), 3.1 (1), 4.0 (1)
 > **Definitions:** is a  (2)
@@ -1168,8 +1148,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Email forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980)
+#### [Email forensics](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,11 +1158,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=8)** They try to exploit our increasing dependence on email in our personal and business lives.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=17)** Take phishing that tries to lure you into visiting a fake website and giving up sensitive information like your social security number or SSN.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=17)** Take [[Phishing]] that tries to lure you into visiting a fake website and giving up sensitive information like your social security number or SSN.
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=27)** Emails are its primary attack vector or mechanism.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=31)** Phishing is a form of social engineering taking advantage of human mistakes in an overall cybersecurity context.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=31)** Phishing is a form of social engineering taking advantage of human mistakes in an overall [[Cybersecurity]] context.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=39)** Phishing emails can be as simple as someone impersonating your boss and asking for confidential information.
 >
@@ -1197,7 +1176,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=80)** One of the major tasks of an email forensic specialist is to find out the true identities of the senders and the receivers of an email and validate the authenticity of a message.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=93)** We can use metadata to do this.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=93)** We can use [[Metadata]] to do this.
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=96)** Assuming that our data is email, its metadata includes IP addresses, timestamps, headers, and email clients used.
 >
@@ -1225,27 +1204,26 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=197)** Therefore, email forensics investigation requires you to understand the server side of the SMTP too.
 >
-> **[3:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=205)** Since email systems rely heavily on computer networks and their software applications, including clients and servers, it doesn't hurt to develop knowledge in computer networking.
+> **[3:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=205)** Since email systems rely heavily on computer networks and their software applications, including clients and servers, it doesn't hurt to develop knowledge in [[Computer Networking]].
 >
-> **[3:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=218)** Although we treat it as an independent subfield of digital forensics, email forensics is closely related to network forensics.
+> **[3:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=218)** Although we treat it as an independent subfield of [[Digital Forensics]], email forensics is closely related to [[Network Forensics]].
 >
 > **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/email-forensics?u=76281980&t=228)** I would go so far as to say that email forensics is a further specialization of network forensics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), [[Metadata]] (2), data (2), [[Network Forensics]] (2), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Metadata]] (2), [[Network Forensics]] (2), [[Cybersecurity]] (1), [[Computer Networking]] (1)
 > **Env Vars:** smtp (3), ssn (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980)
+#### [Certifications](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=0)** - [Instructor] Obtaining a certification is an excellent way to increase your credibility as a digital forensics investigator.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=0)** - [Instructor] Obtaining a certification is an excellent way to increase your credibility as a [[Digital Forensics]] investigator.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=9)** There are mainly two different types of certifications out there.
 >
@@ -1255,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=26)** Let's look at the OpenText EnCase Certified Examiner, or EnCE, program first.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=35)** It requires 64 hours of authorized computer forensics training or 12 months of computer forensics work experience.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=35)** It requires 64 hours of authorized [[Computer Forensics]] training or 12 months of computer forensics work experience.
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/certifications?u=76281980&t=45)** Next is the certification provided by Exterro.
 >
@@ -1279,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Digital Forensics]] (1), next (1), data (1), career (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Digital Forensics]] (1)
 > **Env Vars:** ftk (1), ace (1), chfi (1), iacis (1), cfce (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
@@ -1289,14 +1267,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and knowledge requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
+#### [Tools and knowledge requirements](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980&t=0)** - [Instructor] There are some prerequisites to starting a digital forensics investigation.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980&t=0)** - [Instructor] There are some prerequisites to starting a [[Digital Forensics]] investigation.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980&t=5)** These include basic hardware and software tools, which require significant investments.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980&t=5)** These include basic [[Hardware]] and software tools, which require significant investments.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980&t=12)** Maintenance is an important aspect to consider.
 >
@@ -1328,19 +1305,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Digital Forensics]] (2), application (1), product (1), career (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Digital Forensics]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** tco (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980)
+#### [Hardware](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=0)** - [Narrator] There are some hardware tools you need as a digital forensics investigator to function effectively.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=0)** - [Narrator] There are some [[Hardware]] tools you need as a [[Digital Forensics]] investigator to function effectively.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=8)** One of the essential requirements for digital forensics hardware is efficiency, mainly in terms of speed.
 >
@@ -1370,9 +1346,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=109)** One of the major elements of the field kit is a laptop configured as a digital forensics workstation.
 >
-> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=117)** There are also some miscellaneous digital forensics hardware like flashlights, antistatic evidence bags, cameras, chain of custody forms, cables and screwdrivers.
+> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=117)** There are also some miscellaneous digital forensics hardware like flashlights, antistatic evidence bags, cameras, chain of custody [[Forms]], cables and screwdrivers.
 >
-> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=133)** Antistatic evidence bags are essential when handling sensitive electronics.
+> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=133)** Antistatic evidence bags are essential when handling sensitive [[Electronics]].
 >
 > **[2:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hardware?u=76281980&t=140)** Touching electronics with your bare hands can cause a short circuit, making the evidence useless.
 >
@@ -1384,17 +1360,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (11), [[Hardware]] (10), [[Electronics]] (2), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (11), [[Hardware]] (10), [[Electronics]] (2), [[Forms]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Software
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980)
+#### [Software](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=0)** - [Instructor] A huge part of becoming an effective digital forensics investigator, is to be familiar with all the major computer forensics software.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=0)** - [Instructor] A huge part of becoming an effective [[Digital Forensics]] investigator, is to be familiar with all the major [[Computer Forensics]] software.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=9)** There are well-known commercial digital forensics software tools out there, such as enCase, and Forensic Toolkit, or FTK.
 >
@@ -1402,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=28)** These include Autopsy, and SANS, Investigative Forensic Toolkit, or SIFT.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=40)** We can also categorize the digital forensics software products based on the comprehensiveness of the features they provide.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=40)** We can also categorize the digital forensics software [[Microsoft Products|products]] based on the comprehensiveness of the features they provide.
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=50)** When an application provides all, or most, of the features necessary for you to conduct a digital forensics investigation, we call it a digital forensics software suite.
 >
@@ -1416,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=99)** Hex Editors allow you to examine your file at a binary level.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=105)** What's really handy is packaging opensource and free forensics programs into a Linux operating system distribution.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=105)** What's really handy is packaging opensource and free forensics programs into a [[Linux]] operating system distribution.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/software?u=76281980&t=114)** This way you don't have to install anything and start using them out of box.
 >
@@ -1428,19 +1403,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Forensics]] (9), [[Computer Forensics]] (2), [[Microsoft Products|Products]] (1), application (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (9), [[Computer Forensics]] (2), [[Microsoft Products|Products]] (1), [[Linux]] (1)
 > **Env Vars:** ftk (3), sans (1), sift (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** encase (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding hexadecimal numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hexadecimal-numbers?u=76281980)
+#### [Understanding hexadecimal numbers](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hexadecimal-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hexadecimal-numbers?u=76281980&t=0)** - [Instructor] The knowledge of hexadecimal numbers is essential in the toolbox of a digital forensics investigator.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hexadecimal-numbers?u=76281980&t=0)** - [Instructor] The knowledge of hexadecimal numbers is essential in the toolbox of a [[Digital Forensics]] investigator.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hexadecimal-numbers?u=76281980&t=8)** One of the motivations for using hexadecimal numbers is that it's often necessary to investigate data at a binary level.
 >
@@ -1502,13 +1476,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Digital Forensics]] (4)
+> **Frameworks & Libraries:** [[Digital Forensics]] (4)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a hex editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980)
+#### [Using a hex editor](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,9 +1501,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=47)** Some of them are free and open source.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=50)** Others are commercial products.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=50)** Others are commercial [[Microsoft Products|products]].
 >
-> **[0:54](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=54)** There are essential hex editor features you need as a digital forensics investigator.
+> **[0:54](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=54)** There are essential hex editor features you need as a [[Digital Forensics]] investigator.
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=61)** These include abilities to open big files or local drives.
 >
@@ -1552,9 +1525,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=130)** Physical drives refer to hard drives, USB drives, or solid state drives.
 >
-> **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=138)** These are the tangible hardware components connected to your computer.
+> **[2:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=138)** These are the tangible [[Hardware]] components connected to your computer.
 >
-> **[2:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=143)** Logical drives refer to the partitions of a physical drive, which your operating system creates to allow end users to manage their data storage more effectively.
+> **[2:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=143)** Logical drives refer to the partitions of a physical drive, which your operating system creates to allow end users to manage their [[Data Storage]] more effectively.
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-hex-editor?u=76281980&t=157)** Because of this, a single physical drive can show up as multiple logical drives on an operating system.
 >
@@ -1568,18 +1541,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (1), [[Digital Forensics]] (1), feature (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Forensics]] (1), [[Hardware]] (1), [[Data Storage]] (1)
 > **Definitions:** in other words (1), short for (1), is an  (1), is a  (1), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding offset
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-offset?u=76281980)
+#### [Understanding offset](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-offset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-offset?u=76281980&t=0)** - [Instructor] Understanding the concept of offset is critical in analyzing and interpreting your data in digital forensics.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-offset?u=76281980&t=0)** - [Instructor] Understanding the concept of offset is critical in analyzing and interpreting your data in [[Digital Forensics]].
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-offset?u=76281980&t=10)** Offset is significant, especially in the context of locating a piece of information in your dataset.
 >
@@ -1609,17 +1581,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (1)
 > **Definitions:** is a  (1), short for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forensics OS distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980)
+#### [Forensics OS distributions](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=0)** - [Instructor] We talked about forensics Linux distributions.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=0)** - [Instructor] We talked about forensics [[Linux]] distributions.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=4)** Let's check them out.
 >
@@ -1633,7 +1604,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=39)** As you can see, there's so many out there.
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=44)** Kali is one of the Linux OS distributions specializing in digital forensics.
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=44)** Kali is one of the Linux OS distributions specializing in [[Digital Forensics]].
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensics-os-distributions?u=76281980&t=51)** It comes with Open Source and free digital forensic suites, such as Autopsy.
 >
@@ -1693,7 +1664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Digital Forensics]] (2), web (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Digital Forensics]] (2)
 > **Env Vars:** gui (2), sift (2), sans (1), fdisk (1), sata (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2)
@@ -1702,8 +1673,7 @@ created: 2026-05-02
 > **URLs:** [distrowatch.com](https://distrowatch.com) (1)
 > **Cross-References:** we talked about (1)
 
-#### Challenge: Hex editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hex-editor?u=76281980)
+#### [Challenge: Hex editor](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hex-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,8 +1702,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (kooky music) (1)
 
-#### Solution: Hex editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-hex-editor?u=76281980)
+#### [Solution: Hex editor](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-hex-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1780,20 +1749,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
+#### [Understanding file systems](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=0)** - [Instructor] Understanding how an operating system, or OS, stores files is critical in computer forensics because criminals use this knowledge to hide information.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=0)** - [Instructor] Understanding how an operating system, or OS, stores files is critical in [[Computer Forensics]] because criminals use this knowledge to hide information.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=12)** File systems determine how an OS stores data on a storage device.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=21)** One of the most widely used Windows file systems today is File Allocation Table, or FAT.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=21)** One of the most widely used [[Windows]] file systems today is File Allocation Table, or FAT.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=29)** There's a newer Windows file system called New Technology File System, or NTFS.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=38)** The main difference between FAT and NTFS is the file structure databases used to store file metadata and to keep track of the locations of the file data FAT uses file allocation table as a file structure database while NTFS uses master file table, or MFT.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=38)** The main difference between FAT and NTFS is the file structure [[Databases]] used to store file [[Metadata]] and to keep track of the locations of the file data FAT uses file allocation table as a file structure database while NTFS uses master file table, or MFT.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=64)** Let's go over some terminology here before we go any further.
 >
@@ -1813,7 +1781,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=114)** They consist of one or more sectors.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=118)** Although, they use drastically different hardware to store data, solid state drives still use the same naming convention, such as sectors, in operating systems.
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=118)** Although, they use drastically different [[Hardware]] to store data, solid state drives still use the same naming convention, such as sectors, in operating systems.
 >
 > **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=133)** Knowing the distinction between logical and physical file storage units is crucial, too.
 >
@@ -1841,7 +1809,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=214)** Next time your operating system stores a new file, it must start after the third cluster.
 >
-> **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=222)** Because of this, there is this unused space in cluster number three, as you can see in blue, and this unused wasted space is called a slack.
+> **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=222)** Because of this, there is this unused space in cluster number three, as you can see in blue, and this unused wasted space is called a [[Slack]].
 >
 > **[3:55](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=235)** When it comes to efficiency, NTFS is more efficient because it uses a smaller cluster size compared to FAT, which means it reduces the amount of select spaces resulting in less wasted spaces.
 >
@@ -1855,7 +1823,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=290)** Have you noticed that we only focused on Windows file systems in this lesson?
 >
-> **[4:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=297)** Linux and Mac OS file systems are entirely new topics.
+> **[4:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=297)** [[Linux]] and Mac OS file systems are entirely new topics.
 >
 > **[5:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980&t=303)** Of course, there are also many more things to learn about Windows.
 >
@@ -1863,21 +1831,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Windows]] (6), [[Metadata]] (3), [[Computer Forensics]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Metadata]] (3), [[Computer Forensics]] (1), [[Databases]] (1), [[Hardware]] (1)
 > **Env Vars:** ntfs (5), fat (4), mft (1)
 > **Definitions:** refers to (1), is called (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the boot sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980)
+#### [Understanding the boot sequence](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=0)** - [Instructor] Understanding the concept of boot sequence as a computer forensics investigator is mandatory because you often have to modify it to protect the integrity of your evidence.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=0)** - [Instructor] Understanding the concept of boot sequence as a [[Computer Forensics]] investigator is mandatory because you often have to modify it to protect the integrity of your evidence.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=14)** Some of the boot sequence related hardware include CMOS and BIOS.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=14)** Some of the boot sequence related [[Hardware]] include CMOS and BIOS.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=21)** CMOS is a volatile memory chip containing time and date information, as well as other configuration information.
 >
@@ -1905,7 +1872,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=123)** The best practice is to boot from a drive containing a specialized operating system with pre-installed computer forensics programs.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=134)** You can create a USB stick containing a forensic distribution of a Linux operating system.
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=134)** You can create a USB stick containing a forensic distribution of a [[Linux]] operating system.
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-boot-sequence?u=76281980&t=143)** All you have to do is plug the USB drive into your computer, which will provide an operating system for the machine you're investigating and not touch anything on your evidence drive.
 >
@@ -1917,21 +1884,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Hardware]] (4), semiconductor (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Hardware]] (4), [[Linux]] (1)
 > **Env Vars:** bios (5), cmos (4), usb (2), uefi (1)
 > **Definitions:** stands for (2), is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding disk/solid-state drives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980)
+#### [Understanding disk/solid-state drives](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980&t=0)** - [Instructor] Data storage drives provide a relatively cheap way of storing data.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980&t=0)** - [Instructor] [[Data Storage]] drives provide a relatively cheap way of storing data.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980&t=7)** As a computer forensics specialist, you recover data from various sources, such as solid state or hard disk drives.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980&t=7)** As a [[Computer Forensics]] specialist, you recover data from various sources, such as solid state or hard disk drives.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-disk-solid-state-drives?u=76281980&t=20)** Therefore, it's essential to understand how they work to do your job effectively.
 >
@@ -1969,14 +1935,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Computer Forensics]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Computer Forensics]] (1)
 > **Versions:** 1.6 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the master boot records (MBR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980)
+#### [Understanding the master boot records (MBR)](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980&t=50)** And it typically gives you options for different operating systems.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980&t=56)** For example, it could display a message that allows you to select either Windows or Linux operating system.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980&t=56)** For example, it could display a message that allows you to select either [[Windows]] or [[Linux]] operating system.
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-master-boot-records-mbr?u=76281980&t=65)** Your MBR is located in the first sector of a storage device.
 >
@@ -2012,8 +1977,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980)
+#### [Understanding Partitioning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980&t=49)** This way you can have various OS options during a boot process and choose to boot into a particular OS.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980&t=59)** A typical setup for this is a multiple system that allows you to boot into either Windows or Linux OS on the same computer.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980&t=59)** A typical setup for this is a multiple system that allows you to boot into either [[Windows]] or [[Linux]] OS on the same computer.
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-partitioning?u=76281980&t=69)** There are two types of partitions, primary and extended.
 >
@@ -2043,15 +2007,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (2), [[Linux]] (2), management (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), setup (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Partitioning a USB drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-partitioning-a-usb-drive?u=76281980)
+#### [Challenge: Partitioning a USB drive](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-partitioning-a-usb-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,8 +2042,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Partitioning a USB drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980)
+#### [Solution: Partitioning a USB drive](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,7 +2058,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980&t=31)** The final step is to create a logical partition in it.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980&t=37)** I'll format the new partition to be EXT4 so that I can install a Linux OS, and I'll label it Linux and click on add.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980&t=37)** I'll format the new partition to be EXT4 so that I can install a [[Linux]] OS, and I'll label it Linux and click on add.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-partitioning-a-usb-drive?u=76281980&t=49)** That's it.
 >
@@ -2116,8 +2078,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evidence preservation approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
+#### [Evidence preservation approaches](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2129,11 +2090,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=33)** The consequences are grave, because the court may not accept the compromised digital evidence you submit.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=42)** This possibility is why we have to do our best to keep our evidence as pristine as possible, which is the primary goal of data preservation in digital forensics.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=42)** This possibility is why we have to do our best to keep our evidence as pristine as possible, which is the primary goal of data preservation in [[Digital Forensics]].
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=56)** Luckily, we have well-established and concrete ways to preserve data.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=63)** The first option is using write-blockers when copying data from a source, such as a hard drive in your computer, a USB drive, or an external data storage device.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=63)** The first option is using write-blockers when copying data from a source, such as a hard drive in your computer, a USB drive, or an external [[Data Storage]] device.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=76)** As their name suggests, write-blockers prevent writing to an evidence drive.
 >
@@ -2145,7 +2106,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=111)** If the hash values don't match, the source and its copy are not identical.
 >
-> **[1:59](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=119)** Mounting and unmounting drives are also relevant to data preservation, especially in Linux and Unix operating systems.
+> **[1:59](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=119)** Mounting and unmounting drives are also relevant to data preservation, especially in [[Linux]] and Unix operating systems.
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980&t=131)** Mounting is a mechanism an operating system or OS uses to make a drive or partition visible.
 >
@@ -2157,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Digital Forensics]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Digital Forensics]] (1), [[Linux]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** usb (1)
@@ -2165,12 +2126,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the role of write blockers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980)
+#### [Understanding the role of write blockers](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=1)** - [Instructor] Computer forensics rule number one is not damaging your evidence.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=1)** - [Instructor] [[Computer Forensics]] rule number one is not damaging your evidence.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=7)** Here, the evidence refers to your evidence drive.
 >
@@ -2180,7 +2140,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=28)** There are primarily two different types of writeblockers.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=33)** The first type is hardware right blockers.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=33)** The first type is [[Hardware]] right blockers.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-the-role-of-write-blockers?u=76281980&t=38)** This picture shows what a hardware writeblocker looks like.
 >
@@ -2204,22 +2164,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Computer Forensics]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Computer Forensics]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** ftk (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a software write blocker
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980)
+#### [Using a software write blocker](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=0)** - [Instructor] Let's enable write blocking on Windows 10 so that the operating system is not able to write to a USB drive.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=0)** - [Instructor] Let's enable write blocking on [[Windows 10]] so that the operating system is not able to write to a USB drive.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=9)** To enable write blocking, we have to run a program called R-E-G-E-D-I-T, or Registry Editor.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=19)** To run this program, press the Windows key and R key together.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=19)** To run this program, press the [[Windows]] key and R key together.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=30)** Type regedit, as I did here.
 >
@@ -2275,23 +2234,22 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=211)** You don't need any special software.
 >
-> **[3:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=214)** If your operating system doesn't support this type of write blocking option, you'll need to have a special software program to enable write blocking For more serious forensics tasks, you'll need hardware write blockers.
+> **[3:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-a-software-write-blocker?u=76281980&t=214)** If your operating system doesn't support this type of write blocking option, you'll need to have a special software program to enable write blocking For more serious forensics tasks, you'll need [[Hardware]] write blockers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1), data (1), feature (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **UI Navigation:** right-click (3), click on (2), double-click (1), drag and drop (1)
 > **Env Vars:** usb (3), hkey_local_machine (1), system (1), dword (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using hardware write blockers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980)
+#### [Using hardware write blockers](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=0)** - [Presenter] Hardware write blockers come in many different forms.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=0)** - [Presenter] [[Hardware]] write blockers come in many different [[Forms]].
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=4)** Let's look at some popular solutions.
 >
@@ -2299,7 +2257,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=15)** Here you rely on software for write blocking.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=19)** The hardware simply provides a physical interface between your evidence drive and computer forensics workstation.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=19)** The hardware simply provides a physical interface between your evidence drive and [[Computer Forensics]] workstation.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=28)** A slightly more advanced solution is a hard drive docking station.
 >
@@ -2331,7 +2289,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=125)** They're fast and primarily plug and play.
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=129)** All you have to do is plug in your hard drive and then the duplicator will take care of the rest.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=129)** All you have to do is plug in your hard drive and then the duplicator will take care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/using-hardware-write-blockers?u=76281980&t=135)** Therefore, it provides an automated solution.
 >
@@ -2343,7 +2301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), [[Computer Forensics]] (2), [[Forms]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Computer Forensics]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** usb (2), cru (1)
 > **Definitions:** is a  (2)
 > **Versions:** 3.2 (1)
@@ -2351,12 +2309,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding hashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980)
+#### [Understanding hashing](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=0)** - [Instructor] Hashing plays a vital role in computer forensics.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=0)** - [Instructor] Hashing plays a vital role in [[Computer Forensics]].
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=5)** It ensures that a data copy you make remains identical to its source.
 >
@@ -2368,7 +2325,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=37)** This behavior makes it very easy to detect changes made to a file by accident or on purpose.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=46)** Hashing ensures data integrity, meaning no intended changes are made in the data.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=46)** Hashing ensures [[Data Integrity]], meaning no intended changes are made in the data.
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-hashing?u=76281980&t=54)** In the context of computer forensics, this means the evidence drive remains the same during your investigation.
 >
@@ -2380,19 +2337,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (4), data (3)
+> **Frameworks & Libraries:** [[Computer Forensics]] (4), [[Data Integrity]] (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980)
+#### [Hashing algorithms](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980&t=0)** - [Instructor] There are various implementations of hash algorithms.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980&t=0)** - [Instructor] There are various implementations of hash [[Algorithms]].
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980&t=4)** One of the well-known hash algorithms is MD5, which has been widely used in digital forensics.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980&t=4)** One of the well-known hash algorithms is MD5, which has been widely used in [[Digital Forensics]].
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hashing-algorithms?u=76281980&t=12)** However, it's proven to be vulnerable.
 >
@@ -2424,20 +2380,19 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case Study: Hashing in FTK Imager
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980)
+#### [Case Study: Hashing in FTK Imager](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=0)** - [Instructor] Many of the computer forensics tools available today come equipped with built-in hash functions.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=0)** - [Instructor] Many of the [[Computer Forensics]] tools available today come equipped with built-in hash functions.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=8)** The primary purpose of these built-in hash features is the verification and validation of your data you're working on in your computer forensics investigation.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=19)** For example, there's a tool called FTK Imager and it comes with both MD5 and SHA hash algorithms.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=19)** For example, there's a tool called FTK Imager and it comes with both MD5 and SHA hash [[Algorithms]].
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=31)** An alternative to using these built-in hash options is manually computing hash values.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=38)** As we saw in another lesson, you can use a Linux hash algorithm implementation such as MD5 Sum.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=38)** As we saw in another lesson, you can use a [[Linux]] hash algorithm implementation such as MD5 Sum.
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hashing-in-ftk-imager?u=76281980&t=47)** In this lesson, let's try the hash features of the FTK Imager.
 >
@@ -2505,7 +2460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Computer Forensics]] (2), data (1), [[Algorithms]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (2), [[Algorithms]] (1), [[Linux]] (1)
 > **Env Vars:** ftk (5), md5 (3), sha (2)
 > **UI Navigation:** click on (8), select the (1)
 > **CLI Commands:** make (2)
@@ -2514,8 +2469,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding mounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980)
+#### [Understanding mounting](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2523,7 +2477,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=5)** We already learned about partitioning in another lesson.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=10)** Mounting is the process of making a partition visible to an operating system, or OS, and eventually to an end user, especially on a Linux operating system.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=10)** Mounting is the process of making a partition visible to an operating system, or OS, and eventually to an end user, especially on a [[Linux]] operating system.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=24)** Unmounting is the opposite.
 >
@@ -2541,7 +2495,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=64)** What this means is that your OS picked up your USB drive.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=70)** This is probably the last thing you want in your computer forensics workstation because your OS could have written to your USB drive, which could be your evidence drive.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=70)** This is probably the last thing you want in your [[Computer Forensics]] workstation because your OS could have written to your USB drive, which could be your evidence drive.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=84)** The mounting happened because the operating system you're using is not a forensic copy.
 >
@@ -2559,7 +2513,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=134)** You cannot run your fdisk command directly because it requires administrator privilege to run, so that's why I type sudo in front.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=147)** This is equivalent to running a program as an administrator on a Windows operating system.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=147)** This is equivalent to running a program as an administrator on a [[Windows]] operating system.
 >
 > **[2:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-mounting?u=76281980&t=156)** Now I'm ready to press enter.
 >
@@ -2607,7 +2561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Forensics]] (2), next (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** usb (15), sdb (2), sda (1)
 > **CLI Commands:** sudo (3)
 > **Definitions:** refers to (2), is a  (1)
@@ -2615,12 +2569,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mounting manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980)
+#### [Mounting manually](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=0)** - [Instructor] A storage device connected to your computer is not mounted by default in a forensic copy of your Linux OS.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=0)** - [Instructor] A storage device connected to your computer is not mounted by default in a forensic copy of your [[Linux]] OS.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=9)** When you're not dealing with an evidence drive and want to mount the drive, here is how you do it.
 >
@@ -2702,11 +2655,11 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=228)** Now you see the files and the folders on the partition because the partition has been successfully mounted.
 >
-> **[3:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=237)** As a computer forensics investigator, it's nice to have a way to control when a drive is mounted and unmounted.
+> **[3:57](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/mounting-manually?u=76281980&t=237)** As a [[Computer Forensics]] investigator, it's nice to have a way to control when a drive is mounted and unmounted.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (4), [[Linux]] (1), [[Computer Forensics]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Computer Forensics]] (1)
 > **CLI Commands:** ls (4), cd (4), mkdir (1), sudo (1)
 > **Code Identifiers:** usb_mounted (6)
 > **Cross-References:** go back to (1)
@@ -2714,8 +2667,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Hashing in Kali
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980)
+#### [Challenge: Hashing in Kali](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2727,7 +2679,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980&t=12)** Type touch test.txt.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980&t=18)** The touch command creates a new empty file in Linux.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980&t=18)** The touch command creates a new empty file in [[Linux]].
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-hashing-in-kali?u=76281980&t=23)** Press Enter.
 >
@@ -2777,8 +2729,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful electronic music) (1)
 
-#### Solution: Hashing in Kali
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-hashing-in-kali?u=76281980)
+#### [Solution: Hashing in Kali](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-hashing-in-kali?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2816,16 +2767,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data acquisition approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
+#### [Data acquisition approaches](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=0)** - [Narrator] After taking essential precautions to preserve your evidence, you're finally ready to acquire your data.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=8)** There are many ways of acquiring data in computer forensics.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=8)** There are many ways of acquiring data in [[Computer Forensics]].
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=13)** Static acquisition is one of the most basic and common data acquisition methods.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=13)** Static acquisition is one of the most basic and common [[Data Acquisition]] methods.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980&t=19)** Static acquisition retrieves data from non-volatile sources, such as a hard drive or USB drive.
 >
@@ -2851,15 +2801,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Computer Forensics]] (1), [[Data Acquisition]] (1), power (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (1), [[Data Acquisition]] (1)
 > **Env Vars:** usb (1), ram (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Static acquisition with open-source tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980)
+#### [Static acquisition with open-source tools](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2873,7 +2822,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=31)** to refer to our USB drive.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=34)** We've already looked at finding out how a USB drive is recognized in a file system on Linux.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=34)** We've already looked at finding out how a USB drive is recognized in a file system on [[Linux]].
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=42)** The command to use for our imaging task is very simple.
 >
@@ -2927,13 +2876,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=186)** This means that the imaging process is going on successfully.
 >
-> **[3:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=193)** dd is one of the most basic tools out there you can use to get your simple imaging task done, but there are also more advanced tools for the imaging task you can use to make your job as a computer forensics investigator a little easier.
+> **[3:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=193)** dd is one of the most basic tools out there you can use to get your simple imaging task done, but there are also more advanced tools for the imaging task you can use to make your job as a [[Computer Forensics]] investigator a little easier.
 >
 > **[3:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-with-open-source-tools?u=76281980&t=212)** One of these tools is dcfldd, a forensic version of dd.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (2), [[Linux]] (1), next (1), prompt (1), [[Computer Forensics]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Computer Forensics]] (1)
 > **CLI Commands:** ls (3), sudo (2), make (1)
 > **Definitions:** stands for (3), is a  (1), means that (1)
 > **Env Vars:** usb (3)
@@ -2941,8 +2890,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static acquisition case study with dd
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980)
+#### [Static acquisition case study with dd](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2950,7 +2898,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980&t=6)** Fragmentation is sometimes necessary because you have to put the files on media with very limited capacities.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980&t=15)** To do this, we can use dd together with another Linux utility.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980&t=15)** To do this, we can use dd together with another [[Linux]] utility.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dd?u=76281980&t=21)** Type sudo space dd space input file equals sign forward slash dev forward slash sdb.
 >
@@ -2990,14 +2938,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** sudo (1), ls (1)
 > **Env Vars:** usb (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Static acquisition case study with dcfldd
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980)
+#### [Static acquisition case study with dcfldd](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3025,11 +2972,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=63)** Type ls, press Enter, and you can see the usbimage.dd file with the correct spelling.
 >
-> **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=84)** As you can tell, dcfldd has more computer forensics features compared to dd.
+> **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=84)** As you can tell, dcfldd has more [[Computer Forensics]] features compared to dd.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=92)** Plus, it's easier to use.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=95)** Although the dcfldd software is free, you may still have to install it to your favorite Linux distribution.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=95)** Although the dcfldd software is free, you may still have to install it to your favorite [[Linux]] distribution.
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/static-acquisition-case-study-with-dcfldd?u=76281980&t=106)** If you want to learn more about dcfldd, please check out this website.
 
@@ -3041,8 +2988,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Live acquisition case study with a commercial tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/live-acquisition-case-study-with-a-commercial-tool?u=76281980)
+#### [Live acquisition case study with a commercial tool](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/live-acquisition-case-study-with-a-commercial-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3068,14 +3014,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ftk (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Live acquisition with a memory dump file
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-live-acquisition-with-a-memory-dump-file?u=76281980)
+#### [Challenge: Live acquisition with a memory dump file](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/challenge-live-acquisition-with-a-memory-dump-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3091,14 +3035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: Live acquisition with a memory dump file
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-live-acquisition-with-a-memory-dump-file?u=76281980)
+#### [Solution: Live acquisition with a memory dump file](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-live-acquisition-with-a-memory-dump-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3118,11 +3060,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-live-acquisition-with-a-memory-dump-file?u=76281980&t=32)** Click find.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-live-acquisition-with-a-memory-dump-file?u=76281980&t=35)** As you can see, you can find every occurrence of the word password in your entire memory dump file like this, and you can keep going.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/solution-live-acquisition-with-a-memory-dump-file?u=76281980&t=35)** As you can see, you can find every occurrence of the [[Microsoft Word|word]] password in your entire memory dump file like this, and you can keep going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
@@ -3133,12 +3075,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Forensic data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
+#### [Forensic data analysis](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=0)** - [Instructor] Digital forensics investigators spend most of their time analyzing their data.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=0)** - [Instructor] [[Digital Forensics]] investigators spend most of their time analyzing their data.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=6)** Data analysis is the culmination of a forensics investigation process.
 >
@@ -3146,7 +3087,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=23)** Analyzing data involves lots of searching and indexing is a technique that helps accelerate the search process.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=33)** All major digital forensics products use indexing to improve their speed.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=33)** All major digital forensics [[Microsoft Products|products]] use indexing to improve their speed.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980&t=39)** Autopsy is an open source digital suite.
 >
@@ -3180,15 +3121,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Digital Forensics]] (4), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (4), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/indexing?u=76281980)
+#### [Indexing](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3210,22 +3150,21 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/indexing?u=76281980&t=81)** Indexing is sometimes referred to as preprocessing.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/indexing?u=76281980&t=86)** When you see the word preprocessing, you should associate that word with indexing.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/indexing?u=76281980&t=86)** When you see the [[Microsoft Word|word]] preprocessing, you should associate that word with indexing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980)
+#### [Searching](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=0)** - [Instructor] Having the ability to search is essential in digital forensics.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=0)** - [Instructor] Having the ability to search is essential in [[Digital Forensics]].
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=4)** Investigators always need to do their keyword searches tied to their investigations.
 >
@@ -3249,7 +3188,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=45)** And use case number 001.
 >
-> **[0:48](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=48)** You don't have to fill out the rest of the information.
+> **[0:48](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=48)** You don't have to fill out the [[Representational State Transfer (REST)|rest]] of the information.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=51)** Click on finish.
 >
@@ -3323,7 +3262,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=195)** Out of all the files we have on the disc image, only one file contains the name Bill.
 >
-> **[3:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=203)** This is a handy feature not only for conducting your computer forensics investigation, but also for anything you do daily.
+> **[3:23](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=203)** This is a handy feature not only for conducting your [[Computer Forensics]] investigation, but also for anything you do daily.
 >
 > **[3:32](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/searching?u=76281980&t=212)** You always need to look for a file according to a keyword.
 >
@@ -3333,7 +3272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Search]] (6), feature (3), [[Digital Forensics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Computer Forensics]] (1)
 > **UI Navigation:** click on (17)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** dreamcar (1)
@@ -3342,8 +3281,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating a Report
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980)
+#### [Generating a Report](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3351,7 +3289,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=6)** Investigators usually auto generate their reports and use them as a starting point.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=14)** We'll use Autopsy to demonstrate how you can auto generate a digital forensics report.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=14)** We'll use Autopsy to demonstrate how you can auto generate a [[Digital Forensics]] report.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=21)** We already loaded our image here.
 >
@@ -3379,7 +3317,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=77)** Choose generate report.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=81)** The default choice is fine, which is HTML report.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=81)** The default choice is fine, which is [[HTML]] report.
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/generating-a-rreport?u=76281980&t=87)** Click on next.
 >
@@ -3405,25 +3343,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), feature (2), [[HTML]] (2), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Digital Forensics]] (1)
 > **UI Navigation:** click on (7), go to (2)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case Study: Hex editor analysis of a file with a wrong extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980)
+#### [Case Study: Hex editor analysis of a file with a wrong extension](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=1)** - [Instructor] Criminals often simply change the extensions of files to mislead computer forensics investigators.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=1)** - [Instructor] Criminals often simply change the extensions of files to mislead [[Computer Forensics]] investigators.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=9)** With the wrong file extension, it's difficult to know exactly what the original file type was.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=16)** To find out the true file type, you could use a hex editor.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=21)** We have a mystery file here called secret.jpg, and now I'll try to open it with a built-in Windows Photos app.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=21)** We have a mystery file here called secret.jpg, and now I'll try to open it with a built-in [[Windows]] Photos app.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=36)** The Windows Photos app is complaining because this is not a picture file and that's our clue that something's not right with a file extension.
 >
@@ -3449,7 +3386,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=129)** You can find them on the internet.
 >
-> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=133)** Based on the file header signature, one of the possibilities is Microsoft Office Word file.
+> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=133)** Based on the file header signature, one of the possibilities is [[Microsoft Office]] [[Microsoft Word|Word]] file.
 >
 > **[2:21](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-hex-editor-analysis-of-a-file-with-a-wrong-extension?u=76281980&t=141)** Let's try to change the file extension of the image file and see what happens.
 >
@@ -3470,8 +3407,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hex editor analysis of a bit-shifted file
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hex-editor-analysis-of-a-bit-shifted-file?u=76281980)
+#### [Hex editor analysis of a bit-shifted file](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/hex-editor-analysis-of-a-bit-shifted-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3537,8 +3473,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case Study: Steganography
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980)
+#### [Case Study: Steganography](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3546,7 +3481,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980&t=6)** Just like any other files, we store pictures in zeros and ones on our computer.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980&t=13)** The smallest unit of an image file is a pixel, and a picture file stores its pixel information and binary numbers in a REST or file format.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980&t=13)** The smallest unit of an image file is a pixel, and a picture file stores its pixel information and binary numbers in a [[Representational State Transfer (REST)|REST]] or file format.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/case-study-steganography?u=76281980&t=25)** Assume that we use 24 bits to store a pixel.
 >
@@ -3606,7 +3541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (5), just like (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** find (2), make (1)
@@ -3620,8 +3555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3631,9 +3565,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=6)** If you're interested in taking your skills a step further, I suggest you check out my other courses.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=12)** Protecting Your Network with Open Source Software is an excellent introduction to network security, a newly emerging field of digital forensics.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=12)** Protecting Your Network with Open Source Software is an excellent introduction to [[Network Security]], a newly emerging field of [[Digital Forensics]].
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=22)** Another course I recommend is my Network Forensics course that builds on my network security course.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=22)** Another course I recommend is my [[Network Forensics]] course that builds on my network security course.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980&t=28)** When you're ready to advance your knowledge even more, I recommend my [[Operating System Forensics]] course.
 >
@@ -3643,7 +3577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (2), [[Digital Forensics]] (1), [[Network Forensics]] (1), next (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Digital Forensics]] (1), [[Network Forensics]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - thank (1)
 

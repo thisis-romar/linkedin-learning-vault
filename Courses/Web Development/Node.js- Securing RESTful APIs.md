@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing Node RESTful APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980)
+#### [Securing Node RESTful APIs](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980&t=32)** First, we'll look at the top web application threats and what are the main resources to learn more about them.
 >
-> **[0:38](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980&t=38)** Then, we'll give you an introduction on OWASP, one of the main resource on security.
+> **[0:38](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980&t=38)** Then, we'll give you an introduction on [[OWASP]], one of the main resource on security.
 >
 > **[0:44](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980&t=44)** Next, we'll take a look at what you need to put together to build your own node and Express secure API.
 >
@@ -107,19 +106,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), application (2), node (2), data (1), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** owasp (1), api (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980&t=0)** - As this course is an expiration of how to build secured APIs with a few libraries and node, some basic understanding of node, npm, and it's commands isn't a must, but will help you.
+> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980&t=0)** - As this course is an expiration of how to build secured APIs with a few libraries and node, some basic understanding of node, [[npm]], and it's commands isn't a must, but will help you.
 >
-> **[0:11](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980&t=11)** Next, experience with JavaScript, especially being familiar with the latest syntax, is essential for this course.
+> **[0:11](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980&t=11)** Next, experience with [[JavaScript]], especially being familiar with the latest syntax, is essential for this course.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/what-you-should-know?u=76281980&t=19)** As you'll see, I'm running on a Mac, but you can follow along on a PC, as the tools work exactly the same on both platforms.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[npm]] (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), npm (1)
 > **Tools:** vs code (1), terminal (1)
 > **Definitions:** is an  (1)
@@ -138,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the security threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980)
+#### [Overview of the security threats](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=7)** So beyond the scope of this course, you need to continue reading on the subject and looking at the common techniques and tools to prevent these issues.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=15)** OWASP, which I will introduce shortly, is a great place to start and where I always go to understand the latest threats and how to mitigate them.
+> **[0:15](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=15)** [[OWASP]], which I will introduce shortly, is a great place to start and where I always go to understand the latest threats and how to mitigate them.
 >
 > **[0:24](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=24)** Prevention should always be your number one priority over dealing with an attack after the fact.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=43)** The second one is broken authentication.
 >
-> **[0:46](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=46)** Often the implementation of the authentication is broken and therefore a great opportunity for attackers to get passwords, tokens, and more.
+> **[0:46](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=46)** Often the implementation of the authentication is broken and therefore a great opportunity for attackers to get passwords, [[Tokens]], and more.
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980&t=55)** The third one is sensitive data exposure.
 >
@@ -179,24 +176,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[OWASP]] (2), web (1), [[Security]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Tokens]] (1)
 > **Env Vars:** xml (3), owasp (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - there (1)
 
-#### Introduction to OWASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980)
+#### [Introduction to OWASP](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=0)** - [Instructor] If you are serious about security, OWASP is always a great place to get started in your research for potential threats and solutions.
+> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=0)** - [Instructor] If you are serious about security, [[OWASP]] is always a great place to get started in your research for potential threats and solutions.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=8)** It is called the Open Web Application Security Project, or OWASP, and includes a big community and many resources available to you.
+> **[0:08](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=8)** It is called the Open [[Web Application Security]] Project, or OWASP, and includes a big community and many resources available to you.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=17)** So go to www.[owasp.org](https://owasp.org).
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=21)** So first, if you are completely new to security and OWASP, head to the Social Media area and join the Facebook group, Slack channels, or any of the other potential community available.
+> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=21)** So first, if you are completely new to security and OWASP, head to the Social Media area and join the Facebook group, [[Slack]] channels, or any of the other potential community available.
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=36)** Then, if you want to get more information on any kind of attacks by name, go to the Reference area right here.
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[OWASP]] (4), web application (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Web Application Security]] (1), [[Slack]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -231,12 +227,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Definitions:** is called (1)
 
-#### Introduction to JWT
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980)
+#### [Introduction to JWT](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=0)** - [Instructor] JWT, or JSON Web Token, is an open standard that is used to securely transmit information in between parties.
+> **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=0)** - [Instructor] JWT, or [[JSON]] Web Token, is an open standard that is used to securely transmit information in between parties.
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=8)** The JSON object primarily consists of three items, a header, the payload, and the signature.
 >
@@ -246,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=28)** So the header has usually two parts, the type of token and the hashing algorithm used to encrypt the token.
 >
-> **[0:37](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=37)** Then, the payload consists of the metadata from the request party that is required from the server.
+> **[0:37](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=37)** Then, the payload consists of the [[Metadata]] from the request party that is required from the server.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-jwt?u=76281980&t=43)** Some typical information you'll see in the payload are issuer of the request, expiration, name, et cetera.
 >
@@ -272,15 +267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), web (2), [[Metadata]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Metadata]] (1)
 > **Env Vars:** jwt (4), json (2)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980)
+#### [Introduction to Postman](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,13 +284,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=12)** So go to [getpostman.com](https://getpostman.com) and then scroll to the button right here, and then click download the app, and then download the version for your OS.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=22)** This works on Mac and Windows as well.
+> **[0:22](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=22)** This works on Mac and [[Windows]] as well.
 >
-> **[0:25](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=25)** So you can actually use it for Linux as well, but I've never tried it, so I don't know if it's going to look the same, but feel free to do so if you are on Linux.
+> **[0:25](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=25)** So you can actually use it for [[Linux]] as well, but I've never tried it, so I don't know if it's going to look the same, but feel free to do so if you are on Linux.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=33)** Once you have this package, install it, it's fairly simple.
 >
-> **[0:37](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=37)** And then you need to connect it to either your Google account or sign up to connect all of your requests directly inside of the application.
+> **[0:37](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=37)** And then you need to connect it to either your [[Google]] account or sign up to connect all of your requests directly inside of the application.
 >
 > **[0:45](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=45)** So once you have it installed, it looks something like this.
 >
@@ -320,13 +314,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=111)** If you're using any other languages, so for example, C, C sharp, Go, and so on, so forth, you can get the snippets of code for those specific language.
 >
-> **[2:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=120)** So for example, java, you can click here and get the code for that particular language.
+> **[2:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=120)** So for example, [[Java]], you can click here and get the code for that particular language.
 >
 > **[2:07](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-postman?u=76281980&t=127)** So this is how you can use that application to make requests, and you can leave it open while we're doing this course, in case you need to make any tests with your application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (2), [[Linux]] (2), api (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Google]] (1), [[Java]] (1)
 > **CLI Commands:** make (4), node (1)
 > **Analogies:** for example (4)
 > **Env Vars:** api (1), url (1), crm (1)
@@ -340,16 +334,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Base project template intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980)
+#### [Base project template intro](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=0)** - [Instructor] Let's get started with building our node express project first.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=4)** So first, we'll initialize a new node project that installs some dependencies, and finally add the files from a project built in my node and express API course in the LinkedIn library.
+> **[0:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=4)** So first, we'll initialize a new node project that installs some dependencies, and finally add the files from a project built in my node and express API course in the [[LinkedIn]] library.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=16)** So before we get started with our base project, if you don't have MongoDB installed, please go to their website on [mongodb.com](https://mongodb.com) and install it, as we'll need it to run the new project.
+> **[0:16](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=16)** So before we get started with our base project, if you don't have [[MongoDB]] installed, please go to their website on [mongodb.com](https://mongodb.com) and install it, as we'll need it to run the new project.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=29)** If you need help installing it, go through their video on the subject in the same course I just mentioned.
 >
@@ -365,7 +358,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=74)** So eventually when we run our application, you're going to see the database that is related to that application appear on Compass.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=81)** You can also use a tool that I've used a lot in the past called Robo T, but Compass does the same job across Windows and Mac, so feel free to use Compass or any other tools that you use to test your database.
+> **[1:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=81)** You can also use a tool that I've used a lot in the past called Robo T, but Compass does the same job across [[Windows]] and Mac, so feel free to use Compass or any other tools that you use to test your database.
 >
 > **[1:34](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=94)** All right, so let's switch to VS Code now.
 >
@@ -381,7 +374,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=146)** And then let's go ahead and install the dependencies.
 >
-> **[2:29](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=149)** So what I'm going to do first is do an NPM in it, so I initialize a new project inside of that folder with node, and then I'm going to use the double ampersand to add the dependencies directly inside of our package.json file.
+> **[2:29](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=149)** So what I'm going to do first is do an [[npm]] in it, so I initialize a new project inside of that folder with node, and then I'm going to use the double ampersand to add the dependencies directly inside of our package.[[JSON]] file.
 >
 > **[2:45](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=165)** So the double ampersand, if you're not familiar with it, allows us to run a command first, and then once this command is executed, run the second one.
 >
@@ -393,7 +386,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=193)** And the ones that we need to install is first body parser, then we need to install express, mongoose, nodemon, and then let's do the double ampersand again, and we're going to install the dev dependencies, so let's do NPM install, or you can do the I for shortening the install if you want to.
 >
-> **[3:38](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=218)** And I'm going to do dash dash save dash dev, and these are the dependencies that I want to install on the dev side, the first one is babel dash CLI, then babel dash preset dash environment, so ENV.
+> **[3:38](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=218)** And I'm going to do dash dash save dash dev, and these are the dependencies that I want to install on the dev side, the first one is babel dash [[CLI]], then babel dash preset dash environment, so ENV.
 >
 > **[4:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=240)** The last one is babel dash preset dash stage dash zero.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=313)** If you don't, your system is not showing hidden files.
 >
-> **[5:18](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=318)** So if you don't see it, do a search in Google and find out how to show hidden files in your system.
+> **[5:18](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=318)** So if you don't see it, do a search in [[Google]] and find out how to show hidden files in your system.
 >
 > **[5:24](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980&t=324)** But make sure you copy this file, because if you don't, your project is not going to work.
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), node (5), express (3), [[MongoDB]] (3), [[npm]] (3)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[npm]] (3), [[Windows]] (2), [[JSON]] (2), [[LinkedIn]] (1)
 > **Prerequisites:** install (14), you need to have (1)
 > **CLI Commands:** node (5), make (3), npm (3), mongo (1), find (1)
 > **Tools:** vs code (5), terminal (3)
@@ -444,14 +437,13 @@ created: 2026-05-02
 > **File Paths:** package.json (2)
 > **URLs:** [mongodb.com](https://mongodb.com) (1)
 
-#### Finalize the setup for the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980)
+#### [Finalize the setup for the project](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=0)** - [Instructor] Let's finalize our base server by adding a few elements to our code and then test it to make sure it works.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=6)** So the first thing I'm going to do is add a start command inside our scripts in the package.json file.
+> **[0:06](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=6)** So the first thing I'm going to do is add a start command inside our scripts in the package.[[JSON]] file.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=12)** So if you don't have it open, click on package.json file and then we're going to reformat this particular script here.
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=47)** So let's do index.js.
 >
-> **[0:50](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=50)** And we're going to execute it with babel-node which will transpile the latest version of JavaScript into a readable code for the browser.
+> **[0:50](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=50)** And we're going to execute it with babel-node which will transpile the latest version of [[JavaScript]] into a readable code for the browser.
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=63)** And then use the command -e and look for js files.
 >
@@ -481,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=115)** Okay, so now that we've seen what's inside the code, let's run it.
 >
-> **[2:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=120)** So I'm going to do npm start and this is going to work because of what?
+> **[2:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=120)** So I'm going to do [[npm]] start and this is going to work because of what?
 >
 > **[2:03](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-the-setup-for-the-project?u=76281980&t=123)** Because of the command that we just created inside of our package.json file and as I do npm start, if the database is running in the background, you should see this command without any errors.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[JSON]] (3), node (2), [[npm]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (3), node (2), npm (2), mongo (2)
 > **Code Identifiers:** firstname (3), getcontacts (2), lastname (2), crmmodel (1)
 > **File Paths:** package.json (3), index.js (1)
@@ -556,8 +548,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** post (1)
 
-#### Create the user model
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/create-the-user-model?u=76281980)
+#### [Create the user model](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/create-the-user-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +608,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), api (1), application (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Tools:** vs code (1)
@@ -625,9 +615,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** don't forget (1)
+> **Prerequisites:** install (1)
 
-#### Add bcrypt password hashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980)
+#### [Add bcrypt password hashing](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=11)** So what we're going to do first is install bcrypt and while we're actually installing new packages, we'll also install jsonwebtoken.
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=20)** So let's go into NPM I, or you can do install bcrypt and then jsonwebtoken.
+> **[0:20](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=20)** So let's go into [[npm]] I, or you can do install bcrypt and then jsonwebtoken.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=30)** We'll use jsonwebtoken later on, but I wanted to install it all on this one pass.
 >
@@ -647,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=40)** So we can close the terminal for now.
 >
-> **[0:42](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=42)** And if you want to check, you can take a look at the package.json file, and you're going to see bcrypt installed and jsonwebtoken, so we're ready to go.
+> **[0:42](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=42)** And if you want to check, you can take a look at the package.[[JSON]] file, and you're going to see bcrypt installed and jsonwebtoken, so we're ready to go.
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-bcrypt-password-hashing?u=76281980&t=51)** So now what we need to do is import bcrypt, so let's go ahead and import bcrypt from bcrypt, like so.
 >
@@ -685,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), [[npm]] (1), hit (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JSON]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Prerequisites:** install (4)
 > **File Paths:** package.json (1)
@@ -699,8 +689,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add the handlers for loginRequired
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980)
+#### [Add the handlers for loginRequired](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +733,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980&t=170)** Otherwise, and this is where we're going to do else, return a response status of 401.
 >
-> **[3:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980&t=184)** And we'll add a message to that, which is a json message.
+> **[3:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980&t=184)** And we'll add a message to that, which is a [[JSON]] message.
 >
 > **[3:10](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980&t=190)** And the message will be unauthorized user.
 >
@@ -758,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (4), api (1), [[JSON]] (1), database (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** jwt (1), api (1)
 > **Definitions:** is a  (2)
 > **File Paths:** usercontrollers.js (1)
@@ -767,8 +756,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add the handlers for registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980)
+#### [Add the handlers for registration](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +810,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980&t=226)** So what we'll do is first, omit to add the password from the response because we don't want to pass back the password to the response, especially in any response you don't want to send a password back to the user or the front end because that could be used for hacking purpose and so on and so forth.
 >
-> **[4:11](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980&t=251)** So we are basically setting as undefined when we're passing back to the response and then we're returning a response with a JSON message which includes the user and again, the user password won't be set as the original request.
+> **[4:11](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980&t=251)** So we are basically setting as undefined when we're passing back to the response and then we're returning a response with a [[JSON]] message which includes the user and again, the user password won't be set as the original request.
 >
 > **[4:28](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-registration?u=76281980&t=268)** Okay.
 >
@@ -838,15 +826,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), next (1), data (1), api (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Code Identifiers:** hashpassword (3), newuser (2), hashsync (1)
 > **CLI Commands:** make (1), mongo (1)
 > **Env Vars:** api (1), json (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add the handlers for login
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980)
+#### [Add the handlers for login](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +857,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=87)** So if we get an error, we'll throw the error.
 >
-> **[1:36](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=96)** Then if if there's no user in the database, we're going to do a response of status 401 and we'll send a response in a json format as well, so we'll do a message that will say authentication failed.
+> **[1:36](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=96)** Then if if there's no user in the database, we're going to do a response of status 401 and we'll send a response in a [[JSON]] format as well, so we'll do a message that will say authentication failed.
 >
 > **[2:05](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=125)** No user found.
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=280)** So what I'm going to do in the token, I'm going to sign this user email, username, with the user.username.
 >
-> **[4:55](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=295)** Then also do the same, and let me just do a quick word wrap so we can see everything on the same page here.
+> **[4:55](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=295)** Then also do the same, and let me just do a quick [[Microsoft Word|word]] wrap so we can see everything on the same page here.
 >
 > **[5:05](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-login?u=76281980&t=305)** So let's go ahead do the score id that we'll get from this user and use user id.
 >
@@ -922,7 +909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), database (4), api (3), [[JSON]] (3), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[JSON]] (3)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** api (3)
 > **Code Identifiers:** findone (1)
@@ -930,8 +917,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instruction] (1)
 
-#### Finalize secured endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-secured-endpoints?u=76281980)
+#### [Finalize secured endpoints](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/finalize-secured-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,7 +999,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Code Identifiers:** loginrequired (6), usercontroller (2), crmroutes (1), getcontacts (1), getcontactwithid (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
@@ -1022,8 +1007,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add JWT setup into index
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980)
+#### [Add JWT setup into index](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=7)** So let's go into the index file right here and then what I'm going to do just Below the bodyParser setup, it doesn't matter where it is, I'm going to add the JWT setup.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=18)** And this is going to be used to pass a secret word and then take the headers and make sure that we match when we get the request and then pass it down to the controllers.
+> **[0:18](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=18)** And this is going to be used to pass a secret [[Microsoft Word|word]] and then take the headers and make sure that we match when we get the request and then pass it down to the controllers.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=27)** So let's go ahead and do JWT setup as the common.
 >
@@ -1059,11 +1043,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=104)** Authorization.
 >
-> **[1:49](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=109)** And then we're going to use a little bit of RegEx and functions with JavaScript to check for the keyword that we're going to need as the secret word.
+> **[1:49](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=109)** And then we're going to use a little bit of RegEx and functions with [[JavaScript]] to check for the keyword that we're going to need as the secret word.
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=124)** So let's go ahead and add JWT.
 >
-> **[2:16](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=136)** And then with JSON web token we're going to validate all this.
+> **[2:16](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=136)** And then with [[JSON]] web token we're going to validate all this.
 >
 > **[2:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-jwt-setup-into-index?u=76281980&t=141)** So we get the data.
 >
@@ -1125,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Word|Word]] (5), data (5), [[JSON]] (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JSON]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (17)
 > **Env Vars:** jwt (9), json (2), restful (1)
 > **Prerequisites:** setup (5)
@@ -1134,14 +1118,13 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Definitions:** is a  (1)
 
-#### Test the API with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980)
+#### [Test the API with Postman](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980&t=0)** - [Instructor] Now let's go ahead and test our implementation and do it in Postman.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980&t=5)** So the first thing we're going to do is make sure our server is running so I'm going to do npm start.
+> **[0:05](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980&t=5)** So the first thing we're going to do is make sure our server is running so I'm going to do [[npm]] start.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/test-the-api-with-postman?u=76281980&t=12)** And if you see any error messages because you made some typos or there's something that's missing, read the console for the error messages and go back to those videos just to make sure.
 >
@@ -1227,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (2), database (2), [[npm]] (1), node (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** api (4), post (3), jwt (3)
 > **CLI Commands:** make (4), npm (1), node (1)
 > **API Endpoints:** post  (2), get
@@ -1243,8 +1226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Alternatives for securing APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980)
+#### [Alternatives for securing APIs](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1252,11 +1234,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=4)** So let's explore a few of them.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=6)** First, you have cloud based data such as Firebase, where you can host APIs online and I'll be focused on the front-end or clients for the application.
+> **[0:06](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=6)** First, you have cloud based data such as [[Firebase]], where you can host APIs online and I'll be focused on the front-end or clients for the application.
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=16)** Firebase's team is constantly working on building a secure API offering.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=21)** Needless to say there are many other players offering similar services such as Microsoft Azure, Cloud MongoDB, AWS, and many others.
+> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=21)** Needless to say there are many other players offering similar services such as [[Microsoft Azure]], Cloud [[MongoDB]], AWS, and many others.
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=34)** Pick your favorite player or the one that offers the features you're looking for.
 >
@@ -1270,7 +1252,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=68)** And if you don't want to create users and management of those users, Auth0 is a great service you can use and easily integrate into your API.
 >
-> **[1:17](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=77)** So you take our note project and then instead of manually creating the user management you would connect it to a service like Auth0.
+> **[1:17](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=77)** So you take our note project and then instead of manually creating the [[User Management]] you would connect it to a service like Auth0.
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980&t=85)** With a few lines of code you can get a secure user management tool that allows or prevents access to areas of your application.
 >
@@ -1280,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Firebase]] (2), application (2), api (2), management (2)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[User Management]] (2), [[Microsoft Azure]] (1), [[MongoDB]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** api (2), aws (1)
 > **CLI Commands:** aws (1)
@@ -1292,8 +1274,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore and build your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980)
+#### [Explore and build your skills](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,13 +1290,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980&t=22)** Finally, keeping an eye out for all kinds of security threats and how to mitigate those threats is a must for any developer willing to build secure experiences for all of us.
 >
-> **[0:33](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980&t=33)** And OWASP should always be your first place to go for that type of information.
+> **[0:33](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980&t=33)** And [[OWASP]] should always be your first place to go for that type of information.
 >
 > **[0:38](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980&t=38)** Thanks very much for taking my course, and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), node (1), data (1), application (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
 > **Env Vars:** owasp (1)

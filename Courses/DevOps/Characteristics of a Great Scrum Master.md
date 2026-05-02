@@ -60,12 +60,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming a great scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
+#### [Becoming a great scrum master](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=1)** - The scrum master role has exploded on the scene with the introduction of Agile practices.
+> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=1)** - The [[Scrum]] master role has exploded on the scene with the introduction of [[Agile Development|Agile]] practices.
 >
 > **[0:06](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=6)** I found that those who are in the role are constantly trying to improve themselves.
 >
@@ -77,7 +76,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=27)** I've spent more than a decade coaching and training organizations, both large and small, using Agile principles and values.
 >
-> **[0:35](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=35)** During that time, I've coached many scrum masters, all wanting to be the best to help their organizations deliver outstanding products.
+> **[0:35](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=35)** During that time, I've coached many scrum masters, all wanting to be the best to help their organizations deliver outstanding [[Microsoft Products|products]].
 >
 > **[0:44](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980&t=44)** If you work for an organization who employs scrum masters, or are currently a scrum master, join me as we explore characteristics of a great scrum master.
 
@@ -91,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be an honest broker
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
+#### [Be an honest broker](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980&t=4)** It's disheartening particularly when you're not in the preferred group.
 >
-> **[0:08](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980&t=8)** For this reason, it's precisely why being an honest broker is so important to be a great scrum master.
+> **[0:08](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980&t=8)** For this reason, it's precisely why being an honest broker is so important to be a great [[Scrum]] master.
 >
 > **[0:14](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980&t=14)** What's an honest broker?
 >
@@ -154,12 +152,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (6), product (4), functional (1)
+> **Frameworks & Libraries:** [[Scrum]] (6)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Revealing root causes
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980)
+#### [Revealing root causes](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=12)** Inevitably, actionable experiments are not developed and everyone feels as though they've wasted time.
 >
-> **[0:19](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=19)** If this sounds like your team, let's explore a few ways great scrum masters help teams reveal root causes.
+> **[0:19](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=19)** If this sounds like your team, let's explore a few ways great [[Scrum]] masters help teams reveal root causes.
 >
 > **[0:26](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=26)** First, a great scrum master develops a shared pool of knowledge across the team.
 >
@@ -207,23 +204,22 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=129)** How can se get more clarity?
 >
-> **[2:12](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=132)** Revealing root causes remains a crucial tool to ensure one of the most important principles within Agile, continuous improvement.
+> **[2:12](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=132)** Revealing root causes remains a crucial tool to ensure one of the most important principles within [[Agile Development|Agile]], continuous improvement.
 >
 > **[2:20](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/revealing-root-causes?u=76281980&t=140)** So when another issue plaguing the team arises, how will you help reveal the root cause?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (8), teams (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (8), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Passionately coach scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980)
+#### [Passionately coach scrum](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=1)** - There's a saying in the Scrum community.
+> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=1)** - There's a saying in the [[Scrum]] community.
 >
 > **[0:02](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=2)** Scrum is simple, but hard to apply.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=20)** When it comes to coaching, great Scrum masters take three actions.
 >
-> **[0:24](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=24)** First, gain a deep understanding of Scrum and other Agile frameworks.
+> **[0:24](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=24)** First, gain a deep understanding of Scrum and other [[Agile Development|Agile]] frameworks.
 >
 > **[0:29](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/passionately-coach-scrum?u=76281980&t=29)** The team will look to you when questions arise.
 >
@@ -263,16 +259,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (9), application (2), [[Agile Development|Agile]] (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
 
-#### Doggedly remove obstacles
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/doggedly-remove-obstacles?u=76281980)
+#### [Doggedly remove obstacles](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/doggedly-remove-obstacles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/doggedly-remove-obstacles?u=76281980&t=0)** - One daily scrum after another, the team cites an impediment.
+> **[0:00](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/doggedly-remove-obstacles?u=76281980&t=0)** - One daily [[Scrum]] after another, the team cites an impediment.
 >
 > **[0:05](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/doggedly-remove-obstacles?u=76281980&t=5)** During every retrospective, the same anchors to success exist.
 >
@@ -326,13 +321,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (2), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
 
-#### Ensure safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980)
+#### [Ensure safety](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980&t=30)** In this context, safety describes an environment where curiosity, risk-taking, challenging norms, and injecting opinions are offered with respect.
 >
-> **[0:40](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980&t=40)** Then what is a scrum master's role to ensure safety?
+> **[0:40](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980&t=40)** Then what is a [[Scrum]] master's role to ensure safety?
 >
 > **[0:44](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/ensure-safety?u=76281980&t=44)** In short, each aspect of safety should be what a scrum master exudes through personality and interaction with team members.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (7), strengths (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - study (1)
 
@@ -405,12 +399,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)
+#### [Continue learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980&t=1)** - Becoming a great scrum master is a journey.
+> **[0:01](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980&t=1)** - Becoming a great [[Scrum]] master is a journey.
 >
 > **[0:03](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980&t=3)** The goal is to improve everyday.
 >

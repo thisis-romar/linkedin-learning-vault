@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
+#### [Mastering manual testing](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980&t=22)** They understand the goals and objectives of the product.
 >
-> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980&t=26)** Manual testing helps development teams understand more than just a pass-fail approach to test results.
+> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980&t=26)** [[Manual Testing]] helps development teams understand more than just a pass-fail approach to test results.
 >
 > **[0:33](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980&t=33)** I'm Mike Fine.
 >
@@ -94,17 +93,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Manual Testing]] (2), teams (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2)
 > **CLI Commands:** find (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [mike] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/understanding-manual-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/what-you-should-know?u=76281980&t=0)** - [Instructor] If you are new to quality, manual testing is the absolute best place to start your journey.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/what-you-should-know?u=76281980&t=0)** - [Instructor] If you are new to quality, [[Manual Testing]] is the absolute best place to start your journey.
 >
 > **[0:06](https://www.linkedin.com/learning/understanding-manual-testing/what-you-should-know?u=76281980&t=6)** It's where all the fundamentals of testing originate, and it's where you are going to be able to learn the entire process of how software is tested.
 >
@@ -154,16 +152,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (6), product (6), application (1), data (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (6)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### The argument: Automated vs. manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/the-argument-automated-vs-manual-testing?u=76281980)
+#### [The argument: Automated vs. manual testing](https://www.linkedin.com/learning/understanding-manual-testing/the-argument-automated-vs-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/the-argument-automated-vs-manual-testing?u=76281980&t=0)** - [Instructor] Before we dive any deeper into the details of manual testing, we need to address a common argument and misconception I've encountered in my career.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/the-argument-automated-vs-manual-testing?u=76281980&t=0)** - [Instructor] Before we dive any deeper into the details of [[Manual Testing]], we need to address a common argument and misconception I've encountered in my career.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-manual-testing/the-argument-automated-vs-manual-testing?u=76281980&t=9)** And you are bound to hear about.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (6), [[Automation]] (6), product (2), career (1), application (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (6)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -222,12 +219,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is manual testing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
+#### [What is manual testing?](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980&t=0)** - [Educator] The simple question of what is manual testing?
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980&t=0)** - [Educator] The simple question of what is [[Manual Testing]]?
 >
 > **[0:03](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980&t=3)** Has an equally simple answer.
 >
@@ -283,23 +279,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Manual Testing]] (7), [[Automation]] (3), data (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (7)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [educator] (1)
 
-#### Why is manual testing done?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980)
+#### [Why is manual testing done?](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=0)** - [Instructor] With daily advancements in all aspects of technology, it's good practice to ask why we continue to perform testing in what seems like an antiquated manner.
 >
-> **[0:13](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=13)** As I've noted, many see manual testing as an old process and unnecessary.
+> **[0:13](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=13)** As I've noted, many see [[Manual Testing]] as an old process and unnecessary.
 >
 > **[0:19](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=19)** The speed, number of defects, cost savings, and agility of automation deliver a huge value to a testing program.
 >
-> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=26)** It also aligns well with the agile processes for development.
+> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=26)** It also aligns well with the [[Agile Development|agile]] processes for development.
 >
 > **[0:30](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=30)** However, automation has its flaws.
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=50)** Most important, it's missing the most critical element, human interaction.
 >
-> **[0:55](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=55)** The fact is most products are designed for people, which means people need to be looking at it.
+> **[0:55](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=55)** The fact is most [[Microsoft Products|products]] are designed for people, which means people need to be looking at it.
 >
 > **[1:01](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=61)** Computers don't care about usability, intuitive design, aesthetics, and some aspects of performance.
 >
@@ -329,11 +324,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=96)** Manual testing often reveals things that work well from a functional standpoint, but don't deliver in many other ways.
 >
-> **[1:45](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=105)** Our Explore California team has noted that during their manual testing, they discovered that when entering search criteria into its built-in search engine, ads from the browser are preempting the algorithms results.
+> **[1:45](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=105)** Our Explore California team has noted that during their manual testing, they discovered that when entering search criteria into its built-in search engine, ads from the browser are preempting the [[Algorithms]] results.
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=119)** Testers search for a good place for breakfast but are seeing corporate advertisements for national restaurants rather than local California-based businesses.
 >
-> **[2:09](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=129)** While the automated testing of the search engine shows its functioning exactly as it's designed and the ads are the expected result, it's still impacting the user experience.
+> **[2:09](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=129)** While the automated testing of the search engine shows its functioning exactly as it's designed and the ads are the expected result, it's still impacting the [[User Experience (UX)|user experience]].
 >
 > **[2:20](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=140)** Moreover, everyone knows a California app placing preference on a national chain is not a good look.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=176)** It also functions exceptionally well in agile processes.
 >
-> **[3:00](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=180)** Additionally, manual testing is known for its flexibility in the software development life cycle.
+> **[3:00](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=180)** Additionally, manual testing is known for its flexibility in the [[Software Development]] life cycle.
 >
 > **[3:06](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=186)** Automation often has rigid requirements for the state and quality and type of software that can be tested.
 >
@@ -371,22 +366,21 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=243)** It's why even after decades of improvement in quality automation, manual testing remains an important and central part of the quality test process.
 >
-> **[4:12](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=252)** While artificial intelligence and machine learning continue to evolve, the human component of manual testing remains a valuable aspect that can't be replicated with automated tools.
+> **[4:12](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=252)** While [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning continue to evolve, the human component of manual testing remains a valuable aspect that can't be replicated with automated tools.
 >
 > **[4:24](https://www.linkedin.com/learning/understanding-manual-testing/why-is-manual-testing-done?u=76281980&t=264)** Well, at least not yet.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (12), [[Automation]] (5), [[Search]] (4), [[Agile Development|Agile]] (2), product (2)
+> **Frameworks & Libraries:** [[Manual Testing]] (12), [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), [[User Experience (UX)|User experience]] (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980)
+#### [Types of manual testing](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=0)** - [Instructor] Manual testing is a complicated system designed to assess every aspect of a product, from its concept to its ultimate release.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=0)** - [Instructor] [[Manual Testing]] is a complicated system designed to assess every aspect of a product, from its concept to its ultimate release.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=9)** Here we are reviewing the most typical types of manual testing.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=51)** There are dozens of kinds of functional tests that a manual tester will perform, but at their core, they all exist to ensure the software is functioning as it should.
 >
-> **[1:02](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=62)** Integration testing takes the functional testing and performs it on multiple components of the application to ensure the combined pieces haven't broken in the process of bringing it together.
+> **[1:02](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=62)** [[Integration Testing]] takes the functional testing and performs it on multiple components of the application to ensure the combined pieces haven't broken in the process of bringing it together.
 >
 > **[1:13](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=73)** Integration can be on a couple components or on multiple elements, in either instance, you are testing the various functions as a group and looking to ensure that they play nicely.
 >
@@ -420,13 +414,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=121)** It's about looking outside of the product and measuring whether it works in the environment it's designed to operate.
 >
-> **[2:07](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=127)** This could be the operating system, a browser, network, specific hardware, or even a smart device.
+> **[2:07](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=127)** This could be the operating system, a browser, network, specific [[Hardware]], or even a smart device.
 >
 > **[2:13](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=133)** It's just ensuring everything is compatible.
 >
 > **[2:16](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=136)** Moving past compatibility testing, things get a little trickier.
 >
-> **[2:20](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=140)** In end-to-end testing, you manually attempt to simulate a real world environment to see if the application is working.
+> **[2:20](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=140)** In [[End-to-end Testing]], you manually attempt to simulate a real world environment to see if the application is working.
 >
 > **[2:28](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=148)** It's a nuts and bolts tests of every piece assembled.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=234)** However, while I've presented them here in a serial order, it's very possible you may test them in a different sequence.
 >
-> **[4:01](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=241)** It's essential you learn all these different forms of testing and treat them as objects rather than as a process.
+> **[4:01](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=241)** It's essential you learn all these different [[Forms]] of testing and treat them as objects rather than as a process.
 >
 > **[4:07](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=247)** All these manual test types can be performed at any stage of development of the software.
 >
@@ -470,13 +464,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=258)** You may be working with teams assigned to different parts.
 >
-> **[4:21](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=261)** Agile processes may even have you performing a piece of all these types, in a short sprint.
+> **[4:21](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=261)** [[Agile Development|Agile]] processes may even have you performing a piece of all these types, in a short sprint.
 >
 > **[4:27](https://www.linkedin.com/learning/understanding-manual-testing/types-of-manual-testing?u=76281980&t=267)** These are simply tools in your toolbox to help ensure the product meets your quality goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), application (7), functional (6), [[Manual Testing]] (4), [[Integration Testing]] (3)
+> **Frameworks & Libraries:** [[Manual Testing]] (4), [[Integration Testing]] (3), [[Hardware]] (1), [[End-to-end Testing]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -487,12 +481,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test plans and use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
+#### [Test plans and use cases](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=0)** - [Instructor] Manual testing is simply a system for approaching a test.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=0)** - [Instructor] [[Manual Testing]] is simply a system for approaching a test.
 >
 > **[0:04](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=4)** It's a suite of skills designed to manually assess a product through its different stages of development.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=208)** There are very limited options when it comes to automating processes to see if a feature meets a user requirements.
 >
-> **[3:33](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=213)** In fact, manual testing is often specifically called out in a test plan when it comes to this aspect of products.
+> **[3:33](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=213)** In fact, manual testing is often specifically called out in a test plan when it comes to this aspect of [[Microsoft Products|products]].
 >
 > **[3:39](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980&t=219)** While a series of test cases may be documented loosely because of their granular approach, use case and user story testing will be specifically identified and the expected results clearly documented.
 >
@@ -562,14 +555,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Manual Testing]] (6), feature (3), teams (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (6), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### It's not all black and white: Box testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980)
+#### [It's not all black and white: Box testing](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980&t=5)** And while their view of the test world is somewhat antiquated, they remain steadfast tools to approaching a quality project.
 >
-> **[0:14](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980&t=14)** Moreover, both forms contain key procedures for manual testing in a project.
+> **[0:14](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980&t=14)** Moreover, both [[Forms]] contain key procedures for [[Manual Testing]] in a project.
 >
 > **[0:19](https://www.linkedin.com/learning/understanding-manual-testing/it-s-not-all-black-and-white-box-testing?u=76281980&t=19)** While both act is a framework, there are many specific techniques where a manual approach is necessary.
 >
@@ -631,14 +623,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (6), product (5), [[Automation]] (3), [[Forms]] (2), data (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (6), [[Forms]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bugs and the output of manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980)
+#### [Bugs and the output of manual testing](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980&t=22)** The byproduct of this effort are bugs.
 >
-> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980&t=26)** During manual testing, you'll be exploring every aspect of the software and as you move through this process you will encounter anomalies and behaviors that are unexpected, inconvenient, odd and often problematic.
+> **[0:26](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980&t=26)** During [[Manual Testing]], you'll be exploring every aspect of the software and as you move through this process you will encounter anomalies and behaviors that are unexpected, inconvenient, odd and often problematic.
 >
 > **[0:44](https://www.linkedin.com/learning/understanding-manual-testing/bugs-and-the-output-of-manual-testing?u=76281980&t=44)** Before you decide what these behaviors are, you need to understand what it means to call something a bug.
 >
@@ -702,23 +693,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Manual Testing]] (2), teams (2), data (2), web (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Documentation:** specification (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make manual testing work
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980)
+#### [Make manual testing work](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=0)** - [Educator] I know it seems late here in the course to be sharing how to perform manual testing.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=0)** - [Educator] I know it seems late here in the course to be sharing how to perform [[Manual Testing]].
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=5)** However, I feel like you need to understand where and when it's used before you take the steps to learn how.
 >
-> **[0:11](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=11)** Manual testing is a slower and more arduous process than other forms of testing.
+> **[0:11](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=11)** Manual testing is a slower and more arduous process than other [[Forms]] of testing.
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=16)** However, it does create the foundation of every good tester.
 >
@@ -726,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=24)** Manual testing begins with a product review.
 >
-> **[0:27](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=27)** Testing starts at the earliest stages of product development, which means you might not even have a complete product to test.
+> **[0:27](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=27)** Testing starts at the earliest stages of [[Product Development]], which means you might not even have a complete product to test.
 >
 > **[0:34](https://www.linkedin.com/learning/understanding-manual-testing/make-manual-testing-work?u=76281980&t=34)** Therefore it's important you begin by reviewing key documents that are used to build a product.
 >
@@ -790,7 +780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Manual Testing]] (7), [[Forms]] (1), [[Product Development]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (7), [[Forms]] (1), [[Product Development]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** specification (1)
@@ -801,12 +791,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where do you start?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)
+#### [Where do you start?](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=0)** - [Instructor] The overwhelming number of test techniques and skills required to become proficient at manual testing can be daunting to someone new to quality assurance.
+> **[0:00](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=0)** - [Instructor] The overwhelming number of test techniques and skills required to become proficient at [[Manual Testing]] can be daunting to someone new to [[Quality Assurance]].
 >
 > **[0:10](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=10)** Your mind races as you scrutinize the endless possibilities of things that need to be tested and wonder how you are going to accomplish at all.
 >
@@ -838,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=88)** Again, this is just a starting point to help you get oriented on what you'll be likely to encounter when you begin your manual testing.
 >
-> **[1:35](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=95)** It won't be identical because no two products are the same.
+> **[1:35](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=95)** It won't be identical because no two [[Microsoft Products|products]] are the same.
 >
 > **[1:40](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980&t=100)** Even small version changes are different, and those differences mean a lot.
 >
@@ -864,14 +853,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Manual Testing]] (2), [[Quality Assurance]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Quality Assurance]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Be an exceptional manual tester
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980)
+#### [Be an exceptional manual tester](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -879,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=2)** However, this is just the beginning.
 >
-> **[0:05](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=5)** We have learned that manual testing is an important foundational approach to learning the quality process and delivering a great product.
+> **[0:05](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=5)** We have learned that [[Manual Testing]] is an important foundational approach to learning the quality process and delivering a great product.
 >
 > **[0:14](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=14)** If you're a testing expert, I hope this course has helped clarify the distinct role manual testing plays in our modern automated test labs.
 >
@@ -887,13 +875,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=37)** Most importantly, I hope I've conveyed how critical manual testing is in delivering a great product.
 >
-> **[0:44](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=44)** This isn't the end, and I encourage you to learn more by exploring one of our other courses on LinkedIn Learning about quality testing to get more in depth knowledge.
+> **[0:44](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=44)** This isn't the end, and I encourage you to learn more by exploring one of our other courses on [[LinkedIn]] Learning about quality testing to get more in depth knowledge.
 >
 > **[0:54](https://www.linkedin.com/learning/understanding-manual-testing/be-an-exceptional-manual-tester?u=76281980&t=54)** Again, my name is Mike Fine, and thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (4), product (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (4), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [mike] (1)
 

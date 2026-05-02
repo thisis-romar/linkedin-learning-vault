@@ -98,18 +98,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
+#### [Hands-on data engineering](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=0)** - Have you ever struggled to integrate different datasets, or have you faced challenges in processing large volumes of data?
 >
-> **[0:07](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=7)** If so, this hands-on data engineering course is right for you.
+> **[0:07](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=7)** If so, this hands-on [[Data Engineering]] course is right for you.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=12)** You'll learn the skills to build and extend data pipelines, deploy a best in class open-source tool, and effectively apply the ETL framework.
+> **[0:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=12)** You'll learn the skills to build and extend [[Data Pipelines]], deploy a best in class open-source tool, and effectively apply the ETL framework.
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=21)** Hi, I'm Vinoo Ganesh, and I've spent my career building mission-critical data products for the healthcare, defense, and financial services industries.
+> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=21)** Hi, I'm Vinoo Ganesh, and I've spent my career building mission-critical data [[Microsoft Products|products]] for the healthcare, defense, and financial services industries.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980&t=31)** I've personally seen the challenges with operationalizing data and have directly applied the principles taught in this course.
 >
@@ -117,16 +116,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Data Engineering]] (1), open-source (1), etl (1), career (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Data Pipelines]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - have (1)
 
-#### Background knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980)
+#### [Background knowledge](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=0)** - [Narrator] Welcome to the wonderful world of data engineering.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=0)** - [Narrator] Welcome to the wonderful world of [[Data Engineering]].
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=4)** A data engineer is a modern enterprise Swiss army knife.
 >
@@ -136,13 +134,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=20)** That being said, before you begin on your data engineering journey, there's a bit of background that will help optimize your journey.
 >
-> **[0:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=27)** First, basic programming skills, especially in Python and SQL.
+> **[0:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=27)** First, basic programming skills, especially in [[Python (Programming Language)|Python]] and [[SQL]].
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=33)** Airflow, the predominant technology that we use in this course, is written in Python, so it's crucial to have a good understanding of the Python programming language.
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=42)** You should know basic data types, control structures, functions, and classes in Python.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=48)** Similarly, data is usually stored in databases.
+> **[0:48](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=48)** Similarly, data is usually stored in [[Databases]].
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=52)** Therefore, you should have a good understanding of SQL to write queries to extract, transform, and load data in your airflow pipelines.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=76)** We'll also do some work in some text editors as well.
 >
-> **[1:19](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=79)** Cloud computing.
+> **[1:19](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=79)** [[Cloud Computing]].
 >
 > **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/background-knowledge?u=76281980&t=81)** It may be helpful to know some of the principles behind scaling and cloud computing.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (3), cloud (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (3), [[SQL]] (2), [[Cloud Computing]] (2), [[Databases]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** sql (2)
 > **Tools:** bash (1)
@@ -174,8 +172,7 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [narrator] (1)
 
-#### The history of data in the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980)
+#### [The history of data in the enterprise](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,11 +210,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=115)** That means there's still a lot of work to be done using data efficiently and effectively.
 >
-> **[2:01](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=121)** The adoption of modern data platforms, such as data lakes and data cloud warehouses, has made it easier to analyze, manage, and access large amounts of data across the organization.
+> **[2:01](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=121)** The adoption of modern data platforms, such as [[Data Lakes]] and data cloud warehouses, has made it easier to analyze, manage, and access large amounts of data across the organization.
 >
-> **[2:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=133)** This has led to an increase in data literacy across different business functions with data being used to drive decisions in areas such as finance, marketing, and operations.
+> **[2:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=133)** This has led to an increase in [[Data Literacy]] across different business functions with data being used to drive decisions in areas such as finance, marketing, and operations.
 >
-> **[2:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=145)** This increase in data volume has also led to a new iteration of enterprise business intelligence processes.
+> **[2:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=145)** This increase in data volume has also led to a new iteration of enterprise [[Business Intelligence (BI)|business intelligence]] processes.
 >
 > **[2:32](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-history-of-data-in-the-enterprise?u=76281980&t=152)** Decisions are now backed by concrete data that has been analyzed through BI tools and data analysts.
 >
@@ -231,18 +228,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), cloud (1), business (1), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (1), [[Data Literacy]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2)
 > **Versions:** 19.3 (1)
 > **Speakers:** - before (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This course uses the GitHub Codespaces feature to bring a live hands-on and coding experience to the data engineering skillset.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This course uses the [[GitHub]] [[Codespaces]] feature to bring a live hands-on and coding experience to the [[Data Engineering]] skillset.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=9)** GitHub Codespaces allows you to author code and live deploy that code onto a running VM.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=52)** We'll talk a little bit about branch naming convention shortly.
 >
-> **[0:56](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=56)** LinkedIn Learning's use of GitHub Codespaces relies on exercises that are broken down on a per branch basis, with before and after states.
+> **[0:56](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=56)** [[LinkedIn]] Learning's use of GitHub Codespaces relies on exercises that are broken down on a per branch basis, with before and after states.
 >
 > **[1:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=66)** In the accompanying GitHub repository you'll find a number of branches.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=183)** That will start the process of setting up your codespace.
 >
-> **[3:07](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=187)** This course includes the installation and configuration of Apache Airflow as part of the teaching material.
+> **[3:07](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=187)** This course includes the installation and configuration of [[Apache Airflow]] as part of the teaching material.
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/how-to-use-github-codespaces-with-this-course?u=76281980&t=194)** So for many of the exercises in chapter three you will need to manually install and configure Airflow separately.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), feature (2), [[Data Engineering]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), [[Data Engineering]] (1), [[LinkedIn]] (1), [[Apache Airflow]] (1)
 > **Tools:** github (6)
 > **Prerequisites:** configure (3), setup (2), install (1)
 > **CLI Commands:** find (2), apache (1)
@@ -320,12 +316,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data engineering and data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
+#### [Data engineering and data pipelines](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=0)** - Welcome to the wonderful world of data engineering.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=0)** - Welcome to the wonderful world of [[Data Engineering]].
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=3)** You might be here because you've heard the phrase data engineering in the workplace, or you may have heard that it's one of the fastest growing jobs in the technology sector.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=137)** The term data pipeline is not actually a technical term as it can encompass a different number of methodologies and ideas, a few of which we'll discuss in this series.
 >
-> **[2:28](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=148)** Broadly though, modern data pipelines are responsible for ingesting data from some source system, transforming and cleaning that data and storing that data in a persistent medium.
+> **[2:28](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=148)** Broadly though, modern [[Data Pipelines]] are responsible for ingesting data from some source system, transforming and cleaning that data and storing that data in a persistent medium.
 >
 > **[2:40](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980&t=160)** The goal of most data pipelines is to ensure that the stored data is in a state that makes it straightforward to analyze.
 >
@@ -371,13 +366,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Data Engineering]] (6), business (4), [[Automation]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Data Pipelines]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - welcome (1)
 
-#### Orchestration: In the modern sense
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980)
+#### [Orchestration: In the modern sense](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=23)** Furthermore as the amount of work increases and organizations set their goals higher, the more work that can be automated in a fixed and scheduled way, the better.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=35)** The data engineering workflow is rooted in automation.
+> **[0:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=35)** The [[Data Engineering]] workflow is rooted in automation.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=40)** The best data engineers are able to take complex workflows and distill them into actionable and repeatable tasks.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=112)** These were focused on monitoring, tracking, scaling, and visualization.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=118)** One of the earliest of these was Apache Airflow, an open-source platform that allowed users to create and manage data pipelines as workflows.
+> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=118)** One of the earliest of these was [[Apache Airflow]], an open-source platform that allowed users to create and manage [[Data Pipelines]] as workflows.
 >
 > **[2:08](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=128)** Airflow provides a simple interface for defining the various stages of a pipeline and supports a wide range of data sources and destination.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=149)** Another popular orchestration platform is Apache NiFi which was initially developed by the US NSA.
 >
-> **[2:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=157)** NiFi provides a graphical interface for designing data pipelines and includes a wide range of built-in processors for data ingestion, transformation, and storage.
+> **[2:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=157)** NiFi provides a graphical interface for designing data pipelines and includes a wide range of built-in processors for [[Data Ingestion]], transformation, and storage.
 >
 > **[2:48](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=168)** NiFi is particular particularly well-suited to handling large volumes of streaming data and is currently used by organizations such as the US DOD and the National Oceanic and Atmospheric Administration.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=191)** These days however, the technology band orchestration has become much more cloud-based.
 >
-> **[3:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=197)** Solutions such as Amazon Web Service Step Functions and Google Cloud Composer have emerged as popular orchestration platforms.
+> **[3:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=197)** Solutions such as Amazon Web Service Step Functions and [[Google Cloud Platform (GCP)|Google Cloud]] Composer have emerged as popular orchestration platforms.
 >
 > **[3:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/orchestration-in-the-modern-sense?u=76281980&t=205)** These solutions allow users to create and manage data pipelines in the cloud and offer a range of features such as serverless execution, automatic scaling, and high availability.
 >
@@ -441,18 +435,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Orchestration]] (11), cloud (3), [[Data Engineering]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Data Pipelines]] (3), [[Data Engineering]] (2), [[Apache Airflow]] (1), [[Data Ingestion]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** apache (2), composer (1)
 > **Env Vars:** nsa (1), dod (1), mwaa (1)
 > **Speakers:** - let (1)
 
-#### Extract, transform, load (ETL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980)
+#### [Extract, transform, load (ETL)](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=0)** - The extract, transform, load pattern is a common approach to building pipelines in the field of data engineering.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=0)** - The [[Extract, Transform, Load (ETL)|extract, transform, load]] pattern is a common approach to building pipelines in the field of [[Data Engineering]].
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=7)** The ETL process involves extracting data from a source system, transforming it into a format that's suitable for analysis, and loading it into a target system such as a data warehouse or database.
 >
@@ -474,17 +467,17 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=69)** With the help of mainframe computers, banks were able to automate the process of processing financial transactions, which led to significant improvements in speed and accuracy.
 >
-> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=81)** In the 1980s and 1990s, the use of ETL became more widespread as organizations began to realize the value of data-driven decision making.
+> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=81)** In the 1980s and 1990s, the use of ETL became more widespread as organizations began to realize the value of [[Data-driven Decision Making]].
 >
 > **[1:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=91)** As data volumes grew, ETL solutions became more sophisticated with the introduction of tools such as iBM InfoSphere and Informatica PowerCenter.
 >
-> **[1:41](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=101)** Today, ETL continues to be a widely used approach to building data pipelines.
+> **[1:41](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=101)** Today, ETL continues to be a widely used approach to building [[Data Pipelines]].
 >
-> **[1:47](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=107)** One of the key advantages of ETL is that it allows organizations to integrate data from a variety of sources such as databases, files, and web services.
+> **[1:47](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=107)** One of the key advantages of ETL is that it allows organizations to integrate data from a variety of sources such as [[Databases]], files, and web services.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=118)** ETL also allows organizations to transform data into a format that's suitable for analysis which can include tasks such as data cleaning, data enrichment, and data aggregation.
+> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=118)** ETL also allows organizations to transform data into a format that's suitable for analysis which can include tasks such as [[Data Cleaning]], data enrichment, and data aggregation.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=130)** In recent years, however, there's a shift towards more modern approaches to data pipeline design such as stream processing and real-time data processing.
+> **[2:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=130)** In recent years, however, there's a shift towards more modern approaches to data pipeline design such as stream processing and [[Real-Time]] [[Data Processing]].
 >
 > **[2:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=140)** Furthermore, there are new operating models such as ELT that have recently emerged.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=170)** As mentioned, there are many ETL tools available today both open source and proprietary which can be used to build data pipelines.
 >
-> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=179)** Some of the popular ETL tools include Apache NiFi, Apache Airflow, Talend, and Microsoft [[SQL Server Integration Services]].
+> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=179)** Some of the popular ETL tools include Apache NiFi, [[Apache Airflow]], Talend, and [[Microsoft]] [[[[Microsoft SQL Server|SQL Server]] Integration Services]].
 >
 > **[3:09](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=189)** For these reasons, I perceive the real power of ETL to be in the structure of thinking.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), etl (16), [[Data Engineering]] (3), database (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Data Pipelines]] (3), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[Data-driven Decision Making]] (1), [[Databases]] (1)
 > **Env Vars:** etl (16), elt (2), sql (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** apache (2)
@@ -514,14 +507,13 @@ created: 2026-05-02
 > **Code Identifiers:** ibm (1)
 > **Speakers:** - the (1)
 
-#### Tasks, DAGs, and dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980)
+#### [Tasks, DAGs, and dependencies](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=0)** - Now that we understand the history of orchestration in ETL, let's talk about some of the terms that are directly applicable to our data engineering process, tasks, DAGs, and dependencies.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=0)** - Now that we understand the history of orchestration in ETL, let's talk about some of the terms that are directly applicable to our [[Data Engineering]] process, tasks, DAGs, and dependencies.
 >
-> **[0:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=13)** These are key concepts that are used to describe the structure and operation of data processing workflows.
+> **[0:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=13)** These are key concepts that are used to describe the structure and operation of [[Data Processing]] workflows.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=20)** A task in a data pipeline represents a discreet unit of work that needs to be performed, such as reading data from a file, applying a transformation, or writing data to a database.
 >
@@ -543,13 +535,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=98)** In summary tasks, DAGs, and dependencies are fundamental concepts in the field of data engineering, and are used to design, manage, and operate complex data processing workflows.
 >
-> **[1:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=112)** These concepts have a rich history in the field of computer science, and have evolved over time to support the growing demand for data-driven decision making in a wide range of industries.
+> **[1:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=112)** These concepts have a rich history in the field of computer science, and have evolved over time to support the growing demand for [[Data-driven Decision Making]] in a wide range of industries.
 >
 > **[2:03](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/tasks-dags-and-dependencies-22217570?u=76281980&t=123)** With this information, we have everything we need to begin our hands-on journey into data engineering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Data Engineering]] (3), [[Orchestration]] (1), etl (1), database (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Data Processing]] (2), [[Data-driven Decision Making]] (1)
 > **Env Vars:** dag (4), etl (1)
 > **CLI Commands:** node (1)
 > **Analogies:** such as (1)
@@ -560,16 +552,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
+#### [Introduction to Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=0)** - [Instructor] Apache Airflow is an open source project originally developed in 2014 by Airbnb.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=0)** - [Instructor] [[Apache Airflow]] is an open source project originally developed in 2014 by Airbnb.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=6)** It is a platform to programmatically author, schedule, and monitor workflows.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=12)** It is a tool for building and managing complex data pipelines, making it easier to orchestrate, automate, and monitor data processing tasks.
+> **[0:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=12)** It is a tool for building and managing complex [[Data Pipelines]], making it easier to orchestrate, automate, and monitor [[Data Processing]] tasks.
 >
 > **[0:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=21)** With Airflow, you can create workflows that include a variety of tasks, such as extracting data from sources, transforming it, and loading it into target systems.
 >
@@ -577,15 +568,15 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=39)** Airflow allows developers and data engineers to create, manage, and monitor complex workflows made up of multiple tasks called DAGs in a repeatable, monitored, and orchestrated way.
 >
-> **[0:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=52)** Airflow is written and developed in Python, making it an easily sensible and flexible solution.
+> **[0:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=52)** Airflow is written and developed in [[Python (Programming Language)|Python]], making it an easily sensible and flexible solution.
 >
 > **[0:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=59)** In fact, the power of Airflow is rooted largely in its extensibility.
 >
-> **[1:04](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=64)** Airflow exposes operators, which allow for the seamless and straightforward integration of a variety of tools, databases, and systems.
+> **[1:04](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=64)** Airflow exposes operators, which allow for the seamless and straightforward integration of a variety of tools, [[Databases]], and systems.
 >
 > **[1:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=73)** These operators are largely open source and allow DAG authors to integrate with external systems quickly and efficiently.
 >
-> **[1:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=80)** Given this flexibility, Airflow has emerged as one of the most heavily used tools in the data engineering ecosystem.
+> **[1:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=80)** Given this flexibility, Airflow has emerged as one of the most heavily used tools in the [[Data Engineering]] ecosystem.
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980&t=87)** As such, it is the focus of this series of videos.
 >
@@ -633,19 +624,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (2), [[Apache Airflow]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (2), [[Apache Airflow]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** dag (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** python (2), apache (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980)
+#### [Installing Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=0)** - [Narrator] Let's kick off our hands-on work by installing Apache Airflow.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=0)** - [Narrator] Let's kick off our hands-on work by installing [[Apache Airflow]].
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=5)** Airflow can be set up in a number of ways, but for our purposes, we're going to install it using pip.
 >
@@ -673,11 +663,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=83)** After that, we'll add a user to the Airflow database.
 >
-> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=87)** We will then configure Airflow to work in codespaces, and then disable CSRF.
+> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=87)** We will then configure Airflow to work in [[Codespaces]], and then disable CSRF.
 >
 > **[1:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=95)** We'll be deploying Airflow in codespaces for this video.
 >
-> **[1:39](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=99)** GitHub Codespaces has its own security constraints and will need to perform some workarounds to get things working properly in codespaces.
+> **[1:39](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=99)** [[GitHub]] Codespaces has its own security constraints and will need to perform some workarounds to get things working properly in codespaces.
 >
 > **[1:47](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=107)** Sometimes you may see a bad request error message in codespaces, or you may need to manually edit the URL.
 >
@@ -691,7 +681,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=136)** Now, let's look at the actual command necessary to install Airflow.
 >
-> **[2:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=140)** To get started working with Apache Airflow, we need to install it using Python's PIP package Installer.
+> **[2:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=140)** To get started working with Apache Airflow, we need to install it using [[Python (Programming Language)|Python]]'s PIP package Installer.
 >
 > **[2:28](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=148)** Here, you can see the generic command for installing Airflow.
 >
@@ -737,7 +727,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=270)** Airflow uses a relational database as its backend to store configuration data.
 >
-> **[4:36](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=276)** By default, this is a SQL light database, which will be stored in your home directory's Airflow/Airflow.db.
+> **[4:36](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=276)** By default, this is a [[SQL]] light database, which will be stored in your home directory's Airflow/Airflow.db.
 >
 > **[4:44](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/installing-airflow-23800633?u=76281980&t=284)** To initialize this database, we run the Airflow DB init command In production, we should use a more robust database than the SQL Light database.
 >
@@ -767,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Codespaces]] (7), [[Python (Programming Language)|Python]] (5), web (3), [[Apache Airflow]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[Python (Programming Language)|Python]] (5), [[Apache Airflow]] (2), [[GitHub]] (2), [[SQL]] (2)
 > **CLI Commands:** pip (5), python (5), make (3), apache (2), aws (1)
 > **Prerequisites:** install (11), set up (1), configure (1)
 > **Env Vars:** csrf (2), sql (2), url (1), pip (1), aws (1)
@@ -776,8 +766,7 @@ created: 2026-05-02
 > **Versions:** version 2 (1), 6.3 (1)
 > **Definitions:** is a  (2)
 
-#### Running the Airflow webserver and scheduler
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980)
+#### [Running the Airflow webserver and scheduler](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980&t=76)** Although it's possible to run the web server without the scheduler, it's not recommended.
 >
-> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980&t=81)** Now let's switch to Codespaces.
+> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980&t=81)** Now let's switch to [[Codespaces]].
 >
 > **[1:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/adjusting-airflow-configuration-settings?u=76281980&t=85)** To run the web server, you can execute the following command, "Airflow webserver."
 >
@@ -899,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (16), [[Codespaces]] (6), application (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6)
 > **Env Vars:** url (3), pid (3), csrf (2), http (1), wtf_csrf_enabled (1)
 > **UI Navigation:** open the (2), click on (2), switch to (1)
 > **CLI Commands:** make (3), find (1)
@@ -908,8 +897,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (2)
 > **Definitions:** is a  (2)
 
-#### Adjusting Airflow configuration settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/running-the-airflow-webserver-and-scheduler-24002396?u=76281980)
+#### [Adjusting Airflow configuration settings](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/running-the-airflow-webserver-and-scheduler-24002396?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +963,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), power (1), cloud (1), database (1), api (1)
 > **File Paths:** airflow.cfg (4)
 > **Env Vars:** airflow_home (2), api (1)
 > **Cross-References:** go back to (2)
@@ -984,8 +971,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a 1 Task DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980)
+#### [Build a 1 Task DAG](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,9 +981,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=17)** Our first task is to build and run a simple DAG in Airflow.
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=21)** This particular DAG will consist of a single node that create this file, .txt, with the contents, Hello, LinkedIn Learning.
+> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=21)** This particular DAG will consist of a single node that create this file, .txt, with the contents, Hello, [[LinkedIn]] Learning.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=31)** In Airflow DAGs are represented as Python scripts located within a specific directory.
+> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=31)** In Airflow DAGs are represented as [[Python (Programming Language)|Python]] scripts located within a specific directory.
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=37)** To create a new DAG, simply create a new Python script, and place it in this directory.
 >
@@ -1013,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=74)** This code space comes with an empty file called one_task_dag.py.
 >
-> **[1:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=80)** This file will define a basic OneNote DAG that uses a bash command to create a file with the text, Hello, LinkedIn Learning.
+> **[1:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=80)** This file will define a basic [[OneNote]] DAG that uses a bash command to create a file with the text, Hello, LinkedIn Learning.
 >
 > **[1:29](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-1-task-dag?u=76281980&t=89)** Let's open it up and start writing our DAG.
 >
@@ -1087,7 +1073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Python (Programming Language)|Python]] (3), next (2), node (1), [[OneNote]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Python (Programming Language)|Python]] (3), [[OneNote]] (1)
 > **Env Vars:** dag (25)
 > **CLI Commands:** python (3), make (3), node (1), cat (1)
 > **Tools:** bash (7)
@@ -1096,8 +1082,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1), make sure to (1)
 > **Definitions:** in other words (1)
 
-#### Build a 2 Task DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980)
+#### [Build a 2 Task DAG](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980&t=9)** Meaning there's a strict requirement that a directed edge between task one and task two means that task one must be executed before task two.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980&t=19)** Thus far, we've only created one Python file with one DAG and with one task.
+> **[0:19](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980&t=19)** Thus far, we've only created one [[Python (Programming Language)|Python]] file with one DAG and with one task.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/build-a-2-task-dag?u=76281980&t=26)** As you can imagine however, we can create one Python file with one DAG with multiple tasks.
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), power (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** dag (22), dags (1)
 > **CLI Commands:** python (4), find (1)
 > **Code Identifiers:** two_task_dag (2)
@@ -1185,14 +1170,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ETL in Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
+#### [ETL in Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980&t=0)** - [Presenter] Today we're going to be talking about the ETL paradigm and how it relates to Airflow.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980&t=5)** ETL stands for extract, transform, and load, and is used extensively in the data engineering world.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980&t=5)** ETL stands for extract, transform, and load, and is used extensively in the [[Data Engineering]] world.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980&t=13)** The ETL process involves extracting data from a source system, transforming that data, and then loading it into a final system.
 >
@@ -1234,15 +1218,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), etl (7), [[Data Engineering]] (5)
+> **Frameworks & Libraries:** [[Data Engineering]] (5)
 > **Env Vars:** etl (7), dag (3), elt (2)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [presenter] (1)
 
-#### A real-world data engineering task
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980)
+#### [A real-world data engineering task](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,13 +1237,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=20)** Your work often involves taking vague requests and turning them into repeatable workflows.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=25)** For example, analysts might ask for pipelines to perform healthcare analytics or understand population movement.
+> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=25)** For example, analysts might ask for pipelines to perform [[Healthcare Analytics]] or understand population movement.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=32)** Each of these tasks may differ in size, depth, or urgency, but they all share one common element.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=39)** They're able to be distilled into the ETL model.
 >
-> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=43)** To see this in practice, let's look at a real world data engineering example.
+> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=43)** To see this in practice, let's look at a real world [[Data Engineering]] example.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/a-real-world-data-engineering-task?u=76281980&t=48)** One day a business manager asks you, as a data engineer, the following.
 >
@@ -1296,15 +1279,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (5), etl (3), [[Healthcare Analytics]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Healthcare Analytics]] (1), [[Data Engineering]] (1)
 > **Env Vars:** etl (3), dag (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting data manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980)
+#### [Extracting data manually](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,7 +1318,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980&t=90)** We'll run through this whole process as though it's a one-off request.
 >
-> **[1:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980&t=95)** First, let's open up Codespaces.
+> **[1:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980&t=95)** First, let's open up [[Codespaces]].
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-manually?u=76281980&t=98)** Navigate to the directory where we'll do the manual work.
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (2), etl (1), database (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1)
 > **Env Vars:** etl (1), http (1), https (1), csv (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
 > **File Paths:** data.csv (1), manualextractdata.csv (1)
@@ -1389,8 +1371,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** set up (1)
 
-#### Extracting data with Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-with-airflow?u=76281980)
+#### [Extracting data with Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extracting-data-with-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1446,7 +1427,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Env Vars:** dag (14)
 > **CLI Commands:** wget (3), make (1)
 > **Code Identifiers:** extract_dag (3), extract_task (1)
@@ -1454,13 +1434,13 @@ created: 2026-05-02
 > **File Paths:** extract_dag.py (1), airflow-extract-data.csv (1)
 > **Tools:** bash (1)
 > **Best Practices:** best practice (1)
+> **Speakers:** - [instructor] (1)
 
-#### Transforming data manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980)
+#### [Transforming data manually](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=0)** - [Instructor] The process of transforming data is critical in the data engineering lifecycle.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=0)** - [Instructor] The process of transforming data is critical in the [[Data Engineering]] lifecycle.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=5)** Transforming is also known as the preparation or cleaning process, depending on the organization.
 >
@@ -1480,19 +1460,19 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=50)** Depending on the type, scale, and location of the data, data engineers employ a handful of tools to manipulate data.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=58)** Many use Spark, SQL, or Python, all of which come with a number of libraries to accelerate this process.
+> **[0:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=58)** Many use Spark, [[SQL]], or [[Python (Programming Language)|Python]], all of which come with a number of libraries to accelerate this process.
 >
-> **[1:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=66)** A leading library in this space is called pandas.
+> **[1:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=66)** A leading library in this space is called [[Pandas (Software)|pandas]].
 >
-> **[1:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=70)** Pandas is a powerful open-source data manipulation library built on top of Python.
+> **[1:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=70)** Pandas is a powerful open-source [[Data Manipulation]] library built on top of Python.
 >
-> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=75)** It provides easy-to-use and efficient data structures, such as dataframes and series that allow users to analyze, clean, and transform data.
+> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=75)** It provides easy-to-use and efficient [[Data Structures]], such as dataframes and series that allow users to analyze, clean, and transform data.
 >
 > **[1:25](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=85)** As such, it is a longtime favorite of data engineers.
 >
 > **[1:29](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=89)** Today, we'll use pandas to clean, manipulate, and transform the dataset that we previously extracted.
 >
-> **[1:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=97)** Let's switch to Codespaces and navigate to our manual directory.
+> **[1:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=97)** Let's switch to [[Codespaces]] and navigate to our manual directory.
 >
 > **[1:41](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-manually?u=76281980&t=101)** Pandas is already installed in our Python environment, but in the event that it isn't, it can be installed using pip.
 >
@@ -1536,7 +1516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), generic (6), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), business (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), [[Data Engineering]] (1), [[SQL]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **UI Navigation:** navigate to (2), switch to (1), open the (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
@@ -1545,22 +1525,21 @@ created: 2026-05-02
 > **Analogies:** such as (1), imagine (1)
 > **Warnings:** note that (1), warning (1)
 
-#### Transforming data with Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980)
+#### [Transforming data with Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=0)** - [Instructor] In Airflow, the repetitive tasks associated with data transformation can be automated.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=0)** - [Instructor] In Airflow, the repetitive tasks associated with [[Data Transformation]] can be automated.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=6)** Today we will create a DAG with a single transform task.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=10)** This task will read in the CSV that was written by the previous Extract dag, transform that data, and write that data back to disk.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=20)** We've discussed the power of Airflow operators, and we'll expand our toolkit to include the Python operator.
+> **[0:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=20)** We've discussed the power of Airflow operators, and we'll expand our toolkit to include the [[Python (Programming Language)|Python]] operator.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=27)** The Python operator is an Airflow operator that makes executing Python code straightforward and easy.
 >
-> **[0:34](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=34)** We will use this operator to execute our PANDAS-based transformation work.
+> **[0:34](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=34)** We will use this operator to execute our [[Pandas (Software)|PANDAS]]-based transformation work.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=39)** Let's first open up our dag.
 >
@@ -1612,13 +1591,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=175)** There are numerous operators that can help accelerate this process as well.
 >
-> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=179)** The transformation part of the data engineering workflows tend to be the bulk of where processing occurs.
+> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=179)** The transformation part of the [[Data Engineering]] workflows tend to be the bulk of where processing occurs.
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/transforming-data-with-airflow?u=76281980&t=186)** Ensuring this step is managed and monitored seamlessly is key to any successful data engineering project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (8), power (2), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (2), [[Data Engineering]] (2), [[Data Transformation]] (1)
 > **Env Vars:** dag (7), csv (5), pandas (2)
 > **CLI Commands:** python (8)
 > **File Paths:** dag.py (1)
@@ -1627,8 +1606,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980)
+#### [Loading data manually](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1644,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980&t=109)** So rather than scripting something that would save the files locally let's help the business out and instead load the files into a persistent storage medium.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980&t=118)** Let's switch back to Codespaces and navigate to our manual work directory.
+> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980&t=118)** Let's switch back to [[Codespaces]] and navigate to our manual work directory.
 >
 > **[2:04](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-manually?u=76281980&t=124)** As part of the Bootstrap process you'll find a file named manual-load-db.
 >
@@ -1722,7 +1700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (5), etl (3), business (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1)
 > **Env Vars:** etl (3), csv (2)
 > **CLI Commands:** sqlite3 (2), find (1), make (1)
 > **UI Navigation:** navigate to (1), select the (1), open the (1)
@@ -1731,8 +1709,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Warnings:** keep in mind (1)
 
-#### Loading data with Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980)
+#### [Loading data with Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1725,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=31)** In fact, this is one of the areas where the Airflow community has created a very comprehensive offering.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=37)** These operators allow for integration with Snowflake, Databricks, BigQuery, Redshift, MySQL, SQLite, and many others.
+> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=37)** These operators allow for integration with [[Snowflake]], Databricks, BigQuery, Redshift, [[MySQL]], SQLite, and many others.
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=46)** In this video, we'll orchestrate the loading process.
 >
@@ -1776,7 +1753,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=115)** That is because as a data engineer, we aim to use the best tool for the job given the environment.
 >
-> **[2:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=120)** In our Codespaces environment, basic Bash commands drive many of our workflows.
+> **[2:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=120)** In our [[Codespaces]] environment, basic Bash commands drive many of our workflows.
 >
 > **[2:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/loading-data-with-airflow?u=76281980&t=125)** For that reason, we use Bash Operator frequently.
 >
@@ -1830,7 +1807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (4), [[Codespaces]] (2), etl (1), business (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Snowflake]] (1), [[MySQL]] (1)
 > **Env Vars:** dag (10), etl (1), dags (1), csv (1), cmd (1)
 > **Tools:** bash (7), command line (1)
 > **UI Navigation:** select the (2), navigate to (1), switch to (1), click on (1), open the (1)
@@ -1839,8 +1816,7 @@ created: 2026-05-02
 > **CLI Commands:** mysql (1), find (1)
 > **Definitions:** is a  (1)
 
-#### Building an ETL DAG with Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980)
+#### [Building an ETL DAG with Airflow](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,7 +1844,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=73)** If we can tie each of our individual DAGs together into a larger ETL DAG, we will have achieved our goal.
 >
-> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=81)** Let's switch back to codespaces.
+> **[1:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=81)** Let's switch back to [[Codespaces]].
 >
 > **[1:24](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=84)** First, let's navigate to the Airflow DAGs directory.
 >
@@ -1888,7 +1864,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=133)** This looks like two greater-than signs back to back.
 >
-> **[2:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=137)** For example, to represent the ordering, Extract, Transform, Load, I can write, extract_task >> transform_task >> load_task.
+> **[2:17](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=137)** For example, to represent the ordering, [[Extract, Transform, Load (ETL)|Extract, Transform, Load]], I can write, extract_task >> transform_task >> load_task.
 >
 > **[2:29](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=149)** I can also use the left bit shift operator to express this similarly.
 >
@@ -1948,7 +1924,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=295)** This basic ETL pipeline can run every day at a fixed time in a monitored way.
 >
-> **[5:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=300)** It persists information to a database that our business user can easily run SQL commands against.
+> **[5:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=300)** It persists information to a database that our business user can easily run [[SQL]] commands against.
 >
 > **[5:06](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=306)** Most importantly, the fact that it's automated means it can run automatically, and that we, as data engineers, will only need to get involved if something breaks.
 >
@@ -1962,11 +1938,11 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=335)** Or even other potential systems that you haven't worked with simply because setting up the integration pipeline was too complex?
 >
-> **[5:42](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=342)** These are all great use cases and questions to guide us on our data engineering journey.
+> **[5:42](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/building-an-etl-dag-with-airflow?u=76281980&t=342)** These are all great use cases and questions to guide us on our [[Data Engineering]] journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (13), data (6), database (4), business (3), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[SQL]] (1), [[Data Engineering]] (1)
 > **Env Vars:** dag (20), etl (10), sql (1)
 > **UI Navigation:** click on (4), open the (2), select the (2), navigate to (1)
 > **Code Identifiers:** basic_etl_dag (3), extract_task (1), transform_task (1), load_task (1), top_level_domains (1)
@@ -1975,8 +1951,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Review ETL questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980)
+#### [Challenge: Review ETL questions](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=18)** Imagine this, your business analyst approaches you with the following request.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=23)** I'm doing some financial analysis on S&P 500 companies and would like to understand the aggregate number of companies in each sector in the S&P 500 on a daily basis.
+> **[0:23](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=23)** I'm doing some [[Financial Analysis]] on S&P 500 companies and would like to understand the aggregate number of companies in each sector in the S&P 500 on a daily basis.
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=36)** I need it in a SQLite database.
 >
@@ -1994,7 +1969,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=52)** Before you get started, here are some pointers.
 >
-> **[0:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=55)** Just as we have done, your final output should be a runnable Airflow DAG written in Python.
+> **[0:55](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=55)** Just as we have done, your final output should be a runnable Airflow DAG written in [[Python (Programming Language)|Python]].
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=61)** Don't worry about setting the schedule for now as that's easy to add in once everything is tested.
 >
@@ -2010,7 +1985,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=97)** Additionally, make sure you look at the schema of the challenge-load-db.db to format the final version of your transformed data correctly.
 >
-> **[1:47](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=107)** Let's quickly switch to Codespaces.
+> **[1:47](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=107)** Let's quickly switch to [[Codespaces]].
 >
 > **[1:49](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/challenge-review-etl-questions?u=76281980&t=109)** To get started on this challenge, you'll want to create a code space off of branch 03-11 as we've done here.
 >
@@ -2022,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), etl (2), [[Financial Analysis]] (1), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Python (Programming Language)|Python]] (1), [[Codespaces]] (1)
 > **Env Vars:** dag (3), etl (2)
 > **CLI Commands:** make (3), python (1)
 > **File Paths:** challenge_dag.py (1), install_and_run_airflow.sh (1)
@@ -2031,14 +2006,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **UI Navigation:** switch to (1)
 
-#### Solution: Solutions to ETL questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980)
+#### [Solution: Solutions to ETL questions](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=0)** - [Instructor] Congratulations on completing your first challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=8)** In this video, we'll review the solution to our data engineering challenge.
+> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=8)** In this video, we'll review the solution to our [[Data Engineering]] challenge.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=12)** As always, let's start with our business request.
 >
@@ -2062,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=48)** We now know which aspects of the ET&L process correspond to which parts of the business request.
 >
-> **[0:56](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=56)** Let's switch to Codespaces.
+> **[0:56](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=56)** Let's switch to [[Codespaces]].
 >
 > **[0:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=59)** First, we want to make sure we understand what the output of our ETL process will be.
 >
@@ -2072,7 +2046,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=80)** From there, select Open Database and open the challenge-load-db database.
 >
-> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=87)** The SQL Explorer will appear on the bottom left hand corner of your page.
+> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=87)** The [[SQL]] Explorer will appear on the bottom left hand corner of your page.
 >
 > **[1:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=91)** Let's open up the database.
 >
@@ -2116,7 +2090,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=196)** This function sets the date to today and reads in our extracted data.
 >
-> **[3:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=201)** We know that our business user is interested in the aggregate number of companies per sector, so we'll use the Pandas groupby function to get this information and use the reset_index function to give the aggregated counts a column header Count.
+> **[3:21](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=201)** We know that our business user is interested in the aggregate number of companies per sector, so we'll use the [[Pandas (Software)|Pandas]] groupby function to get this information and use the reset_index function to give the aggregated counts a column header Count.
 >
 > **[3:36](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/solution-solutions-to-etl-questions?u=76281980&t=216)** We'll also add in a column named Date that contains today's date as this is data from today.
 >
@@ -2174,7 +2148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (7), business (3), [[Data Engineering]] (2), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Codespaces]] (2), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** dag (9), etl (1), sql (1), csv (1)
 > **Code Identifiers:** challenge_dag (3), transform_data (3), extract_task (2), reset_index (1), transform_task (1)
 > **CLI Commands:** make (2), wget (2), cd (1)
@@ -2188,12 +2162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)
+#### [The future of data engineering](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=0)** - The field of data engineering has been rapidly evolving over the past few years and is likely to continue to do so in the future.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=0)** - The field of [[Data Engineering]] has been rapidly evolving over the past few years and is likely to continue to do so in the future.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=8)** As more and more companies rely on data to drive their decision making processes, the importance of data engineering will only increase.
 >
@@ -2201,19 +2174,19 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=23)** Understanding the direction and trajectory of these trends can better equip both you and your organization for the new developments.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=31)** With the proliferation of data, there's an increased focus in the topics of data governance and security.
+> **[0:31](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=31)** With the proliferation of data, there's an increased focus in the topics of [[Data Governance]] and security.
 >
-> **[0:38](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=38)** Data management, access control, cloud security, and operational readiness are all key topics and areas of responsibility for the modern data engineer.
+> **[0:38](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=38)** [[Data Management]], access control, [[Cloud Security]], and operational readiness are all key topics and areas of responsibility for the modern data engineer.
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=49)** Cloud deployment and adoption.
 >
-> **[0:51](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=51)** As many organizations continue their digital transformation processes, cloud-based offerings technologies and services have led the pack through their cost-effective, flexible, and easily scalable solutions.
+> **[0:51](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=51)** As many organizations continue their [[Digital Transformation]] processes, cloud-based offerings technologies and services have led the pack through their cost-effective, flexible, and easily scalable solutions.
 >
 > **[1:05](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=65)** As such, more data engineers are adopting and working with cloud-native offerings.
 >
-> **[1:11](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=71)** Real-time data.
+> **[1:11](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=71)** [[Real-Time]] data.
 >
-> **[1:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=72)** The ETL paradigm that we discussed was developed and tailored to a batch processing workflow.
+> **[1:12](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=72)** The ETL paradigm that we discussed was developed and tailored to a [[Batch Processing]] workflow.
 >
 > **[1:19](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=79)** As the demand for real-time data processes increases and as companies look to make data-driven decisions in real time, there is an emergence of real-time processing data technologies.
 >
@@ -2223,7 +2196,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=97)** Individuals and teams that previously did not use data as a fundamental part of their workflows, have begun adopting it.
 >
-> **[1:44](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=104)** As such, data engineering, data science, business intelligence, and strategy and operations are now collaborating in an unprecedented way.
+> **[1:44](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=104)** As such, data engineering, [[Data Science]], [[Business Intelligence (BI)|business intelligence]], and strategy and operations are now collaborating in an unprecedented way.
 >
 > **[1:54](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=114)** Opportunities for further collaboration in this space will continue and new tools and technologies will streamline this process.
 >
@@ -2231,17 +2204,17 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=124)** It's clear that the AI revolution has emerged in a powerful and meaningful way over the past year.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=130)** Democratized access to large language models have shown the power of ML and enterprises are primed to begin mass adoption.
+> **[2:10](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=130)** Democratized access to [[Large Language Models (LLM)|large language models]] have shown the power of ML and enterprises are primed to begin mass adoption.
 >
 > **[2:18](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=138)** As this begins, data engineers will be tasked to create the tools, systems, and pipelines to support the creation and deployment of AI and ML models.
 >
 > **[2:30](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=150)** The future of data engineers is bright and I'm excited to have you along for the journey.
 >
-> **[2:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=155)** Thank you for joining me for this Hands-on Data Engineering LinkedIn Learning course.
+> **[2:35](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980&t=155)** Thank you for joining me for this Hands-on Data Engineering [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Data Engineering]] (4), cloud (4), [[Real-Time]] (3), ai (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Real-Time]] (3), [[Data Governance]] (1), [[Data Management]] (1), [[Cloud Security]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
 > **Cross-References:** we discussed (1)

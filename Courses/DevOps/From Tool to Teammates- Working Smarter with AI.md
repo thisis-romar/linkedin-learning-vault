@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From tool to teammates: Welcome!
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
+#### [From tool to teammates: Welcome!](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,19 +98,18 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=21)** Along the way, we will discover concrete frameworks from connecting AI to our documents, to using voice dictation, to building our own custom agents.
 >
-> **[0:30](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=30)** I'm Bryce Chalamet, Head of AI Strategy and Adoption at OpenAI.
+> **[0:30](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=30)** I'm Bryce Chalamet, Head of [[AI Strategy]] and Adoption at OpenAI.
 >
-> **[0:35](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=35)** I can't wait to explore with you the opportunities offered by generative AI to redefine how we learn, get things done, and thrive.
+> **[0:35](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=35)** I can't wait to explore with you the opportunities offered by [[Generative AI]] to redefine how we learn, get things done, and thrive.
 >
 > **[0:44](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980&t=44)** So if you're ready to embark on a transformative journey, join me and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Search]] (1), business (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Generative AI]] (1)
 > **Cross-References:** go back to (1)
 
-#### Shifting from passive user to team orchestrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980)
+#### [Shifting from passive user to team orchestrator](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=64)** First, mindset, recovering from the search bar hangover and training AI as a thinking partner.
 >
-> **[1:11](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=71)** Second, habits, building durable skills like dictation, reverse questioning, and vibe coding.
+> **[1:11](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=71)** Second, habits, building durable skills like dictation, reverse questioning, and [[Vibe Coding]].
 >
 > **[1:17](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=77)** Third, the teammates, meeting the assistant, the expert, the coach, and the creative.
 >
@@ -149,17 +147,16 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=88)** By the end of the course, we will have gone from I know how to prompt to I know how to orchestrate AI to achieve what matters the most to me.
 >
-> **[1:38](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=98)** In the next video, we'll zoom out and talk about why this shift is happening now, and then we'll zoom right back in to get you ready to hit the ground running.
+> **[1:38](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=98)** In the next video, we'll [[Zoom]] out and talk about why this shift is happening now, and then we'll zoom right back in to get you ready to hit the ground running.
 >
 > **[1:47](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/shifting-from-passive-user-to-team-orchestrator?u=76281980&t=107)** So let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Zoom]] (2), [[Search]] (1), [[Vibe Coding]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Vibe Coding]] (1)
 > **Cross-References:** in the next (1)
 
-#### Setting up your voice-enabled AI workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980)
+#### [Setting up your voice-enabled AI workspace](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,9 +180,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=45)** AI is reinventing our relationship to knowledge just as the printing press did 500 years ago.
 >
-> **[0:51](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=51)** Now, let's zoom back in because to fully benefit from AI, we need to get properly set up.
+> **[0:51](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=51)** Now, let's [[Zoom]] back in because to fully benefit from AI, we need to get properly set up.
 >
-> **[0:55](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=55)** I'll be using ChatGPT for the demos, but the patterns we will discover apply equally to Cloud, Gemini, or any other major AI platform.
+> **[0:55](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=55)** I'll be using [[ChatGPT]] for the demos, but the patterns we will discover apply equally to Cloud, [[Gemini]], or any other major AI platform.
 >
 > **[1:04](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=64)** Here is your quick setup checklist.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=182)** So I can click here and add a document.
 >
-> **[3:04](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=184)** Maybe a screenshot, maybe a PowerPoint template.
+> **[3:04](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=184)** Maybe a screenshot, maybe a [[Microsoft PowerPoint|PowerPoint]] template.
 >
 > **[3:07](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=187)** Why not a PowerPoint template?
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=198)** and in the sources, I'm going to be offered to connect with a lot of different applications.
 >
-> **[3:23](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=203)** And here, I decide that I want to connect to GitHub, to Gmail, to my Dropbox, to Google Drive.
+> **[3:23](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=203)** And here, I decide that I want to connect to [[GitHub]], to Gmail, to my Dropbox, to [[Google Drive]].
 >
 > **[3:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-your-voice-enabled-ai-workspace?u=76281980&t=208)** This is the connectors.
 >
@@ -299,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (4), [[ChatGPT]] (3), [[Search]] (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Zoom]] (1), [[Gemini]] (1), [[GitHub]] (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** make (1), find (1)
@@ -308,8 +305,7 @@ created: 2026-05-02
 > **Env Vars:** jgpt (1)
 > **Tools:** github (1)
 
-#### Replacing short queries with voice dialogues
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980)
+#### [Replacing short queries with voice dialogues](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=6)** For decades now, we've been trained to type short queries into a dialog box.
 >
-> **[0:11](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=11)** Best Italian restaurant on Google, running shoes on Amazon, comedy movies on Netflix.
+> **[0:11](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=11)** Best Italian restaurant on [[Google]], running shoes on Amazon, comedy movies on Netflix.
 >
 > **[0:17](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=17)** We type keywords, hit enter, and expect a list of links.
 >
@@ -343,11 +339,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=68)** Then we read and edit it to fix names or details, and finally we send it.
 >
-> **[1:13](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=73)** To demonstrate that this is not just a ChatGPT trick, I will show you on two different AI interfaces, and it also works on most other AI models.
+> **[1:13](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=73)** To demonstrate that this is not just a [[ChatGPT]] trick, I will show you on two different AI interfaces, and it also works on most other AI models.
 >
-> **[1:22](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=82)** Starting here with ChatGPT, I click the mic, and then I'm going to do the same on Gemini.
+> **[1:22](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=82)** Starting here with ChatGPT, I click the mic, and then I'm going to do the same on [[Gemini]].
 >
-> **[1:29](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=89)** Hey, I want to introduce the learners on a LinkedIn course to the power of AI teammates and using AI not like a tool, but like a thinking partner.
+> **[1:29](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=89)** Hey, I want to introduce the learners on a [[LinkedIn]] course to the power of AI teammates and using AI not like a tool, but like a thinking partner.
 >
 > **[1:40](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/replacing-short-queries-with-voice-dialogues?u=76281980&t=100)** Why don't you say hello to them?
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Search]] (3), prompt (2), [[ChatGPT]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Google]] (1), [[Gemini]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 
 
@@ -397,8 +393,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delegating inbox triage to your assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
+#### [Delegating inbox triage to your assistant](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=32)** In this course, we are going to propose a different way to start the day.
 >
-> **[0:36](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=36)** Instead of opening Outlook or Gmail first, we open ChatGPT.
+> **[0:36](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=36)** Instead of opening [[Microsoft Outlook|Outlook]] or Gmail first, we open [[ChatGPT]].
 >
 > **[0:40](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=40)** If we have connected our e-mail, as we discussed in the setup, we don't need to search anymore.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=56)** Here, I can check in more my various connectors to apps and to data.
 >
-> **[1:02](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=62)** In ad sources, just in case it wasn't there, I can see my drive, but Gmail, Google Calendar, they're automatically connected.
+> **[1:02](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=62)** In ad sources, just in case it wasn't there, I can see my drive, but Gmail, [[Google]] Calendar, they're automatically connected.
 >
 > **[1:09](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=69)** So we're good here.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=117)** If we want to know more, we can click there, and we'll see on the side, I'm going to make this a little bit bigger for us, that the thinking goes through a number of steps, searching inbox in Gmail, finding my e-mail still in my inbox, reading them, handling back the truncation of the batch, which is the amount of emails it's considering, addressing the remaining emails.
 >
-> **[2:19](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=139)** And so step-by-step is going to go through the inbox, fetch the content, there's nothing going to be missing, and make sure that it understands what to do with each of them.
+> **[2:19](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=139)** And so step-by-step is going to go through the inbox, [[Fetch]] the content, there's nothing going to be missing, and make sure that it understands what to do with each of them.
 >
 > **[2:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=154)** So ChatGPT thought for three minutes, and we have three color codes, urgent, important, and safe to archive.
 >
@@ -462,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=167)** Another one is a flight that I'm about to take, and that's downright urgent to take care of.
 >
-> **[2:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=173)** Then I have important, a speaking opportunity, an invitation for an AI meetup, and oh, a nice e-mail from Margie Page from LinkedIn, welcoming me to the studios here.
+> **[2:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=173)** Then I have important, a speaking opportunity, an invitation for an AI meetup, and oh, a nice e-mail from Margie Page from [[LinkedIn]], welcoming me to the studios here.
 >
 > **[3:05](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=185)** So then we go to the last party category.
 >
@@ -474,7 +469,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=207)** Applied AI in reversal, AWS make it easier for our customers.
 >
-> **[3:31](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=211)** So lots of newsletters there that I don't need to keep in the inbox, but I'm glad that I know where they are, they are taken care of and I can archive seamlessly.
+> **[3:31](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=211)** So lots of [[Newsletters]] there that I don't need to keep in the inbox, but I'm glad that I know where they are, they are taken care of and I can archive seamlessly.
 >
 > **[3:40](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=220)** And there we are.
 >
@@ -484,7 +479,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=247)** We will call it surface intelligence.
 >
-> **[4:10](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=250)** Instead of digging through emails in our inbox, files and folders in Google Drive, OneDrive or SharePoint, we ask our assistant for the intelligence of our emails and documents.
+> **[4:10](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=250)** Instead of digging through emails in our inbox, files and folders in [[Google Drive]], [[Microsoft OneDrive|OneDrive]] or [[SharePoint]], we ask our assistant for the intelligence of our emails and documents.
 >
 > **[4:21](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980&t=261)** What changed in my project this week?
 >
@@ -504,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[ChatGPT]] (2), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Outlook|Outlook]] (1), [[Google]] (1), [[Fetch]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** aws (1), tldr (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -512,8 +507,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** setup (1)
 
-#### Teaching your assistant how you think
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980)
+#### [Teaching your assistant how you think](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=35)** Seven lenses like context, assets, roadblocks, followed by three sections on momentum.
 >
-> **[0:41](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=41)** I taught this structure to ChatGPT once and save it as a slash discover command.
+> **[0:41](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=41)** I taught this structure to [[ChatGPT]] once and save it as a slash discover command.
 >
 > **[0:46](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=46)** Now, whenever we type slash discover quantum computers, or slash discover GLP ones, our assistant searches the web and fills in those exact sections.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=112)** Let me try with a new prompt.
 >
-> **[1:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=113)** Let's say I do slash discover and quantum computing.
+> **[1:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=113)** Let's say I do slash discover and [[Quantum Computing]].
 >
 > **[2:03](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/teaching-your-assistant-how-you-think?u=76281980&t=123)** Thinking mode takes a few seconds, but gives a better answer and avoids unnecessary mistakes.
 >
@@ -635,15 +629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[ChatGPT]] (3), web (2), prompt (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Quantum Computing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** glp (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** getting started (1)
 
-#### Personalizing your AI with custom instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980)
+#### [Personalizing your AI with custom instructions](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980&t=20)** If we want AI teammates that feel like presidential staff, they can't stay generic, they need to know our name, our role, our style, and what we want to accomplish.
 >
-> **[0:30](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980&t=30)** In ChatGPT, that happens in one place, personalization.
+> **[0:30](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980&t=30)** In [[ChatGPT]], that happens in one place, personalization.
 >
 > **[0:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/personalizing-your-ai-with-custom-instructions?u=76281980&t=34)** First, custom instructions.
 >
@@ -697,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[ChatGPT]] (2), next (2), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
@@ -707,8 +700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting curated recommendations from the expert
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
+#### [Getting curated recommendations from the expert](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,15 +806,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (2), [[Search]] (1), prompt (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), switch to (1)
 > **Cross-References:** next video (1)
 > **Tools:** atom (1)
 > **Definitions:** is an  (1)
 
-#### Briefing the expert for high-stakes decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/briefing-the-expert-for-high-stakes-decisions?u=76281980)
+#### [Briefing the expert for high-stakes decisions](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/briefing-the-expert-for-high-stakes-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,13 +888,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), generic (2), data (2), prompt (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** picture (1)
 
-#### Letting the expert interview you for better advice
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980)
+#### [Letting the expert interview you for better advice](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,11 +918,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=45)** Do not give any advice yet.
 >
-> **[0:47](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=47)** Start by interviewing me.
+> **[0:47](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=47)** Start by [[Interviewing]] me.
 >
 > **[0:48](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=48)** Ask as many questions as you need, but ask them one at a time.
 >
-> **[0:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=53)** Before asking the next question, wait for my answer, and when we're ready I will write the word advice.
+> **[0:53](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=53)** Before asking the next question, wait for my answer, and when we're ready I will write the [[Microsoft Word|word]] advice.
 >
 > **[0:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=58)** For this I don't need extended thinking so I will go to light thinking and send.
 >
@@ -970,7 +958,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=134)** I absolutely do and I would love to know all the things we can do in physical presence together.
 >
-> **[2:20](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=140)** animations, the thinking in space, the sports events, the wellness part, sky is the limit.
+> **[2:20](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=140)** animations, the thinking in space, the sports events, the [[Wellness]] part, sky is the limit.
 >
 > **[2:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/letting-the-expert-interview-you-for-better-advice?u=76281980&t=148)** I want to open the doors and the art of the possible.
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), next (5), prompt (1), [[Interviewing]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Microsoft Word|Word]] (1), [[Wellness]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1047,8 +1035,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the framework for your coach project
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
+#### [Setting up the framework for your coach project](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1083,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=116)** We can also tell the coach what is off limits and what tone helps us most.
 >
-> **[2:00](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=120)** Some prefer supportive, others react better to challenging.
+> **[2:00](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=120)** Some prefer supportive, others [[React.js|react]] better to challenging.
 >
 > **[2:03](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=123)** You are the subject matter expert of your own reaction to help and advice.
 >
@@ -1118,7 +1105,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=174)** So there is a situation right now in my life where I would like to be my best self.
 >
-> **[2:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=178)** It is being an instructor for LinkedIn Learning about AI.
+> **[2:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=178)** It is being an instructor for [[LinkedIn]] Learning about AI.
 >
 > **[3:03](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980&t=183)** I want to come up with a sunshine smile.
 >
@@ -1168,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), next (3), [[LinkedIn]] (2), prompt (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), imagine (1)
@@ -1176,8 +1163,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** set up (1)
 
-#### Running an onboarding session for your coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980)
+#### [Running an onboarding session for your coach](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980&t=109)** What feels most present for you this month when you think about your life and work?
 >
-> **[1:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980&t=116)** The reason I chose that title is that being here in LinkedIn Learning makes me think of a new chapter in my life.
+> **[1:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980&t=116)** The reason I chose that title is that being here in [[LinkedIn]] Learning makes me think of a new chapter in my life.
 >
 > **[2:05](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/running-an-onboarding-session-for-your-coach?u=76281980&t=125)** For decades, I was learning.
 >
@@ -1287,15 +1273,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (2), [[LinkedIn]] (2), job description (1), prompt (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Journaling with AI to update your coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980)
+#### [Journaling with AI to update your coach](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,7 +1298,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=19)** Once a day, or whenever something significant happens, we tap the microphone in our coach project.
 >
-> **[0:25](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=25)** We speak freely for a few minutes, what happened, what mattered, how we felt, and when we're done, we simply dictate or type one word, ask.
+> **[0:25](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=25)** We speak freely for a few minutes, what happened, what mattered, how we felt, and when we're done, we simply dictate or type one [[Microsoft Word|word]], ask.
 >
 > **[0:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=34)** At that point, something interesting happens.
 >
@@ -1325,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=56)** Let me show you how this feels.
 >
-> **[0:57](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=57)** To make this easy for you, I have prepared a Reflective Journal prompt as a Google Doc.
+> **[0:57](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=57)** To make this easy for you, I have prepared a Reflective Journal prompt as a [[Google]] Doc.
 >
 > **[1:03](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=63)** We're going to use this very detailed prompt about AI coach for work and life, the Reflective Journal.
 >
@@ -1397,7 +1382,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=249)** It's an eight-page prompt.
 >
-> **[4:10](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=250)** And I'm indicating to the model that I expect it to follow the instructions, putting it in thinking mode so that it has the compute power the tokens to read the prompt and we're going to start journaling together.
+> **[4:10](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=250)** And I'm indicating to the model that I expect it to follow the instructions, putting it in thinking mode so that it has the compute power the [[Tokens]] to read the prompt and we're going to start journaling together.
 >
 > **[4:23](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=263)** So now it says whenever you're ready, type entry.
 >
@@ -1453,7 +1438,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=411)** My daughter is a very contemplative and artistic person.
 >
-> **[6:55](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=415)** She loves to work with me and that we draw together, we write poems together, we read poetry together and in this case we blended all the forms of artistry that she likes because there's the sign language, there's drawing, there's poetry, there's music, she's a guitar player and I think that this felt very much like what we do together and I was so grateful for that moment with her.
+> **[6:55](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=415)** She loves to work with me and that we draw together, we write poems together, we read poetry together and in this case we blended all the [[Forms]] of artistry that she likes because there's the sign language, there's drawing, there's poetry, there's music, she's a guitar player and I think that this felt very much like what we do together and I was so grateful for that moment with her.
 >
 > **[7:19](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=439)** So I'm checking, sending and I will get a second and last question because I ask for two follow-up questions every time I do journal entries.
 >
@@ -1495,7 +1480,7 @@ created: 2026-05-02
 >
 > **[9:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=574)** We need just enough data for the coach to see patterns and help you adjust.
 >
-> **[9:39](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=579)** The same framework can apply way beyond journaling and track progress on travel preparations, career moves, sports and wellness, and even relationships.
+> **[9:39](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=579)** The same framework can apply way beyond journaling and track progress on travel preparations, career moves, sports and [[Wellness]], and even relationships.
 >
 > **[9:48](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/journaling-with-ai-to-update-your-coach?u=76281980&t=588)** Formalizing prompts in a separate document or library is also an important best practice.
 >
@@ -1509,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (9), [[Microsoft Word|Word]] (3), power (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Google]] (2), [[Tokens]] (1), [[Forms]] (1), [[Wellness]] (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (3)
 > **Cross-References:** as you saw (1), in the next (1)
@@ -1522,8 +1507,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Co-creating ideas using the canvas interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
+#### [Co-creating ideas using the canvas interface](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1535,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=44)** In this case, I'm going to ask explicitly for the model to use it.
 >
-> **[0:48](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=48)** Open a new canvas titled Agile Quest of Sight, Ideas by Association.
+> **[0:48](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=48)** Open a new canvas titled [[Agile Development|Agile]] Quest of Sight, Ideas by Association.
 >
 > **[0:54](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=54)** For this, I will upload a file And this file is already a document about the offsite to share the initial ideas that we had during a meeting to prepare for it.
 >
@@ -1589,7 +1573,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=212)** I'm going to say prepare an interactive digital passport with generated images and text.
 >
-> **[3:49](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=229)** Okay, so we're missing the T-interactive which is a fantastic moment to tell you that if a human can understand what word you are meaning there, the AI can also.
+> **[3:49](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=229)** Okay, so we're missing the T-interactive which is a fantastic moment to tell you that if a human can understand what [[Microsoft Word|word]] you are meaning there, the AI can also.
 >
 > **[3:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980&t=238)** You never technically have to correct your own spelling ever with AI, but if you want to because you're a perfectionist, please feel free to.
 >
@@ -1669,15 +1653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (3), [[Agile Development|Agile]] (2), prompt (2), application (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** esn (2), jgpt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the menu (1), go to (1)
 > **Cross-References:** go back to (1)
 
-#### Training the creative on your voice and style
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980)
+#### [Training the creative on your voice and style](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,7 +1684,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=33)** Let's start with writing.
 >
-> **[0:35](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=35)** Let me give you an example with LinkedIn posts.
+> **[0:35](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=35)** Let me give you an example with [[LinkedIn]] posts.
 >
 > **[0:38](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=38)** They need to be formatted a certain way, short, dense, impactful, and engaging.
 >
@@ -1723,7 +1706,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=79)** And what we're going to do now is I'm going to copy a prompt that I'm going to get there in the exercise file.
 >
-> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=88)** put it in ChatGPT and telling it hey I am showing examples of my writing in two groups.
+> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=88)** put it in [[ChatGPT]] and telling it hey I am showing examples of my writing in two groups.
 >
 > **[1:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=94)** So the first group I'm going to upload is the positives and the second group is the negatives.
 >
@@ -1761,7 +1744,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=200)** As you can see, this is a very detailed style guide that the model learned from good and bad examples.
 >
-> **[3:27](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=207)** What I'm going to do now, I'm going to copy this, open a Google Doc.
+> **[3:27](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=207)** What I'm going to do now, I'm going to copy this, open a [[Google]] Doc.
 >
 > **[3:31](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/training-the-creative-on-your-voice-and-style?u=76281980&t=211)** And interestingly, if you can just paste from markdown, edit, paste from markdown, you're going to get every format in your own formatting style.
 >
@@ -1869,15 +1852,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), prompt (3), [[ChatGPT]] (2), generic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[ChatGPT]] (2), [[Google]] (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
 > **Exercise Files:** exercise file (2)
 > **Analogies:** for instance (2)
 > **Env Vars:** gpt (1)
 
-#### Building interactive apps without writing code
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980)
+#### [Building interactive apps without writing code](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=49)** I want an app.
 >
-> **[0:51](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=51)** So what I'm going to do now is I'm going to upload that image into ChatGPT.
+> **[0:51](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=51)** So what I'm going to do now is I'm going to upload that image into [[ChatGPT]].
 >
 > **[0:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=58)** And I'm going to dictate my instructions to create an app in Canvas that I can play with.
 >
@@ -1927,7 +1909,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=121)** Remember that every time you're seeing the thinking signal here, you can click on this and see how the thinking is progressing and what are the different steps of the thinking.
 >
-> **[2:25](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=145)** As we can see, here, on the right side, at some point, the model thought that it didn't need to use Canvas and could just put code HTML for simplicity, but then reasoned that no, it needs to use Canmore because I specifically requested to see the code in Canvas.
+> **[2:25](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=145)** As we can see, here, on the right side, at some point, the model thought that it didn't need to use Canvas and could just put code [[HTML]] for simplicity, but then reasoned that no, it needs to use Canmore because I specifically requested to see the code in Canvas.
 >
 > **[2:45](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/building-interactive-apps-without-writing-code?u=76281980&t=165)** So it understood my habit, but I can read its mind as it's going through hypothesis deduction.
 >
@@ -1973,7 +1955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), application (3), ai (2), prompt (2), web (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[HTML]] (1)
 > **Cross-References:** earlier in (2), we covered (1), we talked about (1)
 > **Env Vars:** html (1), jgpt (1), url (1)
 > **CLI Commands:** make (2)
@@ -1987,8 +1969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering the seven habits of orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
+#### [Mastering the seven habits of orchestration](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,7 +2013,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980&t=68)** We have now fully recovered from our search bar hangover and work in continuous iterative conversation.
 >
-> **[1:14](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980&t=74)** We ask for a draft, we react, we expand, or we direct.
+> **[1:14](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980&t=74)** We ask for a draft, we [[React.js|react]], we expand, or we direct.
 >
 > **[1:18](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980&t=78)** The quality of this back and forth drives the outcome.
 >
@@ -2078,14 +2059,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (4), [[Orchestration]] (1), [[Search]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Project: Automating a weekly news report
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980)
+#### [Project: Automating a weekly news report](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2125,7 +2105,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=85)** Now, let's see how the team executes the contract.
 >
-> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=88)** We need the assistant to go on the web and fetch information.
+> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=88)** We need the assistant to go on the web and [[Fetch]] information.
 >
 > **[1:33](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=93)** The first part is explaining your senior AI researcher, editorial analyst, and I want you to go to the web to find once a week all the information about AI.
 >
@@ -2153,7 +2133,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=185)** And we're going to build a story deck.
 >
-> **[3:07](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=187)** And you can see here that, then again, the expert has written a JSON block with all the elements retrieved for each article, the title, the publication date, with the format, the URL it's from so that I can check the sources.
+> **[3:07](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=187)** And you can see here that, then again, the expert has written a [[JSON]] block with all the elements retrieved for each article, the title, the publication date, with the format, the URL it's from so that I can check the sources.
 >
 > **[3:21](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=201)** This is really finely crafted work.
 >
@@ -2223,7 +2203,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=476)** The expert worked with us to design a ranking algorithm.
 >
-> **[7:59](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=479)** The coach ensured sustainability and the creative handled the presentation.
+> **[7:59](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=479)** The coach ensured [[Sustainability]] and the creative handled the presentation.
 >
 > **[8:04](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-automating-a-weekly-news-report?u=76281980&t=484)** Here's your next assignment.
 >
@@ -2235,7 +2215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), next (5), web (4), prompt (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Fetch]] (1), [[Sustainability]] (1)
 > **Env Vars:** json (2), url (1), gpt (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
@@ -2243,8 +2223,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Project: Building a custom curiosity GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980)
+#### [Project: Building a custom curiosity GPT](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,7 +2275,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=106)** In those instructions, I give indications about the role, your Curiosity GPT about the personas, the baby, the emotive, the cat, the journalist, we just talked about them.
 >
-> **[1:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=118)** Then I have this line that is going to fetch an image on Imgur and have it show up, pop up in the dialogue as we're asking the new questions from the curious persona.
+> **[1:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=118)** Then I have this line that is going to [[Fetch]] an image on Imgur and have it show up, pop up in the dialogue as we're asking the new questions from the curious persona.
 >
 > **[2:11](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=131)** This is a very neat trick that I didn't know I could even achieve, but it came out of a conversation with the expert.
 >
@@ -2358,7 +2337,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=274)** And we can go on and on with the journalist, Sherlock Holmes, Marco Polo, and the fortune teller.
 >
-> **[4:40](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=280)** And there we have them, the seven forms of curiosity and the complete report on the questions we don't even dare ask ourselves about the future of employment in the age of AI.
+> **[4:40](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=280)** And there we have them, the seven [[Forms]] of curiosity and the complete report on the questions we don't even dare ask ourselves about the future of employment in the age of AI.
 >
 > **[4:50](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-building-a-custom-curiosity-gpt?u=76281980&t=290)** At the end of the build, we switch back to the orchestrator.
 >
@@ -2388,15 +2367,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), product (2), [[Fetch]] (1), prompt (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Forms]] (1)
 > **Env Vars:** gpt (8), gpd (1)
 > **CLI Commands:** cat (4), find (2), make (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** previous video (1), go back to (1)
 > **Prerequisites:** configure (1)
 
-#### Project: Planning life events with your AI team
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-planning-life-events-with-your-ai-team?u=76281980)
+#### [Project: Planning life events with your AI team](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/project-planning-life-events-with-your-ai-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2518,7 +2496,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (3), game (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -2529,14 +2506,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evolving from AI user to digital product owner
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)
+#### [Evolving from AI user to digital product owner](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=0)** I want to finish this course with a story.
 >
-> **[0:02](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=2)** In one of my LinkedIn articles, I described two people at the same crossroads.
+> **[0:02](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=2)** In one of my [[LinkedIn]] articles, I described two people at the same crossroads.
 >
 > **[0:08](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=8)** One was a banker whose advisory role was challenged by the arrival of AI.
 >
@@ -2568,7 +2544,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=80)** We used AI to navigate parent-teacher conferences, proving that technology can actually help us be more present for our families.
 >
-> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=88)** Now, a word of caution.
+> **[1:28](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=88)** Now, a [[Microsoft Word|word]] of caution.
 >
 > **[1:30](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=90)** The specific interfaces, buttons, or models that I showed in this course will change.
 >
@@ -2606,11 +2582,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=178)** I will keep sharing new experiments and updates as the technology evolves, and I invite you to follow me on LinkedIn and comment on the posts to let me know how you are building.
 >
-> **[3:08](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=188)** You have the team of five, you have the orchestrator cadence, you now have the skills to shape this revolution, not just react to it, and I can't wait to discover what you will do with them.
+> **[3:08](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980&t=188)** You have the team of five, you have the orchestrator cadence, you now have the skills to shape this revolution, not just [[React.js|react]] to it, and I can't wait to discover what you will do with them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (2), product (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
 > **Env Vars:** gpt (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

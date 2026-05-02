@@ -87,24 +87,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User experience research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
+#### [User experience research](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=0)** - Do you want to get into UX research but don't know where to start?
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=0)** - Do you want to get into [[UX Research]] but don't know where to start?
 >
 > **[0:04](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=4)** Maybe you're looking to change jobs or just want to learn how to better incorporate user feedback in your current role.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=9)** Then my LinkedIn learning course is for you.
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=9)** Then my [[LinkedIn]] learning course is for you.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=13)** Hi, I'm Amanda Stockwell.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=15)** I've spent the last 15 years in UX research.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=18)** Getting to know the people who use your products and exploring solutions for them is the true power UX.
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=18)** Getting to know the people who use your [[Microsoft Products|products]] and exploring solutions for them is the true power UX.
 >
-> **[0:24](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=24)** After all, you can't call it user experience if you don't talk to any actual users.
+> **[0:24](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=24)** After all, you can't call it [[User Experience (UX)|user experience]] if you don't talk to any actual users.
 >
 > **[0:30](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980&t=30)** With my course, you'll be able to go from not knowing anything about UX research to having all the tools you need to get started.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), power (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (3), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - do (1)
 
 
@@ -122,14 +121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is user experience research important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
+#### [Why is user experience research important?](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=0)** - User experience, or UX, is all about catering the design of a product or service to fit the needs of its users.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=0)** - [[User Experience (UX)|User experience]], or UX, is all about catering the design of a product or service to fit the needs of its users.
 >
-> **[0:08](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=8)** UX research is all about thoroughly understanding those users.
+> **[0:08](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=8)** [[UX Research]] is all about thoroughly understanding those users.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=13)** It helps you get to know who they are, what they need, what their goals are, the context in which they'll interact with your product, how will you're serving their needs, and uncover opportunities to create something even better.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=208)** You can also evaluate your competitors to give you another perspective on what functions users find valuable or understand weaknesses in your space.
 >
-> **[3:37](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=217)** Some of the most successful products are not completely new ideas, but ones that have improved existing solutions.
+> **[3:37](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=217)** Some of the most successful [[Microsoft Products|products]] are not completely new ideas, but ones that have improved existing solutions.
 >
 > **[3:44](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980&t=224)** So remember, UX research saves you money, creates user satisfaction, and opens up new opportunities for you to improve.
 >
@@ -197,15 +195,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (7), product (5), business (2), [[User Experience (UX)|User experience]] (1), application (1)
+> **Frameworks & Libraries:** [[UX Research]] (6), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for instance (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - user (1)
 
-#### Methodology overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980)
+#### [Methodology overview](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980&t=10)** While this is by no means an exhaustive list, I'm providing an overview of the most common types of approaches, with brief examples and additional resources.
 >
-> **[0:19](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980&t=19)** You might use any combination of these UX research methods to achieve a variety of business goals.
+> **[0:19](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980&t=19)** You might use any combination of these [[UX Research]] methods to achieve a variety of business goals.
 >
 > **[0:24](https://www.linkedin.com/learning/ux-foundations-research-19417883/methodology-overview?u=76281980&t=24)** I've provided this same list and additional resources in the exercise files if you want to follow along and revisit later.
 >
@@ -227,16 +224,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), business (1)
+> **Frameworks & Libraries:** [[UX Research]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - there (1)
 
-#### Usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980)
+#### [Usability testing](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=0)** - Usability testing is one of the most often used approaches in UX research.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=0)** - [[Usability Testing]] is one of the most often used approaches in [[UX Research]].
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=5)** It evaluates how easy it is to use an interface or product.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=61)** You may want to record the session for posterity and capture their body language, facial expressions, and interactions with whatever you're testing.
 >
-> **[1:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=69)** For moderated remote sessions, I frequently use the screen sharing and video recording of video conference tools like Zoom.
+> **[1:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=69)** For moderated remote sessions, I frequently use the screen sharing and video recording of video conference tools like [[Zoom]].
 >
 > **[1:16](https://www.linkedin.com/learning/ux-foundations-research-19417883/usability-testing?u=76281980&t=76)** For unmoderated sessions, or more structured moderated sessions, some of the most common tools are [usertesting.com](https://usertesting.com) and UserZoom, which are merging, Maze, Loop11, dscout, UsabilityHub, and Userlytics.
 >
@@ -266,16 +262,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (2), product (2), ux (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (2), [[UX Research]] (1), [[Zoom]] (1)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Speakers:** - usability (1)
 
-#### Interviewing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980)
+#### [Interviewing](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=0)** - Interviewing is a widely used technique to gather qualitative information from participants.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=0)** - [[Interviewing]] is a widely used technique to gather qualitative information from participants.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=6)** Just as it sounds, you sit down with a participant and ask them open-ended questions about their needs, goals, and motivations.
 >
@@ -287,15 +282,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=34)** Either way, interviews are a powerful way to learn about your users and their beliefs.
 >
-> **[0:40](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=40)** Interviews are used to learn about different types of users, differences in the way they think, and to gauge their outlook or impressions on specific items.
+> **[0:40](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=40)** Interviews are used to learn about different types of users, differences in the way they think, and to gauge their [[Microsoft Outlook|outlook]] or impressions on specific items.
 >
 > **[0:49](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=49)** They're especially helpful as input into creating personas.
 >
-> **[0:52](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=52)** However, interviews should not be used to dig into behavior or evaluate products.
+> **[0:52](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=52)** However, interviews should not be used to dig into behavior or evaluate [[Microsoft Products|products]].
 >
 > **[0:57](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=57)** It can be helpful to use a tool like Calendly to set up times at work for you and allow participants to schedule themselves.
 >
-> **[1:04](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=64)** If you're performing remote sessions, it's helpful to have a remote conferencing tool that has embedded transcripts like Zoom.
+> **[1:04](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=64)** If you're performing remote sessions, it's helpful to have a remote conferencing tool that has embedded transcripts like [[Zoom]].
 >
 > **[1:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=72)** I like to record sessions when I can and usually use the recording feature within the conferencing tool I use.
 >
@@ -305,17 +300,16 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=87)** It creates transcripts of each session, offers tools to create and manage tags as you review, and allows you to live note take during the session so you can match tags and parse data quickly.
 >
-> **[1:38](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=98)** For more information, check out my other LinkedIn learning courses devoted to interviewing.
+> **[1:38](https://www.linkedin.com/learning/ux-foundations-research-19417883/interviewing?u=76281980&t=98)** For more information, check out my other [[LinkedIn]] learning courses devoted to interviewing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Zoom]] (1), feature (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Zoom]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - interviewing (1)
 
-#### Card sorts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/card-sorts?u=76281980)
+#### [Card sorts](https://www.linkedin.com/learning/ux-foundations-research-19417883/card-sorts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,8 +336,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - card (1)
 
-#### Eye tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980)
+#### [Eye tracking](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980&t=9)** This method uses equipment that creates a reflection in a participant's eyes and estimates the position and movement of their eyes.
 >
-> **[0:16](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980&t=16)** For detailed eye tracking, you'll need specialized equipment and software that is typically much more expensive than other UX research tools.
+> **[0:16](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980&t=16)** For detailed eye tracking, you'll need specialized equipment and software that is typically much more expensive than other [[UX Research]] tools.
 >
 > **[0:24](https://www.linkedin.com/learning/ux-foundations-research-19417883/eye-tracking?u=76281980&t=24)** The most well known and well respected is the Toby System.
 >
@@ -367,13 +360,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
+> **Frameworks & Libraries:** [[UX Research]] (1)
 > **Analogies:** for instance (1), picture (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - eye (1)
 
-#### Multivariate testing and A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/multivariate-testing-and-a-b-testing?u=76281980)
+#### [Multivariate testing and A/B testing](https://www.linkedin.com/learning/ux-foundations-research-19417883/multivariate-testing-and-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,18 +389,17 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ux-foundations-research-19417883/multivariate-testing-and-a-b-testing?u=76281980&t=53)** So choose what you measure carefully.
 >
-> **[0:56](https://www.linkedin.com/learning/ux-foundations-research-19417883/multivariate-testing-and-a-b-testing?u=76281980&t=56)** There are many online tools that you can use to automate this type of testing, such as Optimizely and Google Optimize.
+> **[0:56](https://www.linkedin.com/learning/ux-foundations-research-19417883/multivariate-testing-and-a-b-testing?u=76281980&t=56)** There are many online tools that you can use to automate this type of testing, such as Optimizely and [[Google]] Optimize.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** for instance (1), such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - multivariate (1)
 
-#### Desirability studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/desirability-studies?u=76281980)
+#### [Desirability studies](https://www.linkedin.com/learning/ux-foundations-research-19417883/desirability-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,12 +425,11 @@ created: 2026-05-02
 >
 > **Speakers:** - desirability (1)
 
-#### Expert reviews (heuristic reviews)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/expert-reviews-heuristic-reviews?u=76281980)
+#### [Expert reviews (heuristic reviews)](https://www.linkedin.com/learning/ux-foundations-research-19417883/expert-reviews-heuristic-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/expert-reviews-heuristic-reviews?u=76281980&t=0)** - Expert reviews are detailed assessments of an interface, service or product conducted by someone trained in current user experience best practices.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/expert-reviews-heuristic-reviews?u=76281980&t=0)** - Expert reviews are detailed assessments of an interface, service or product conducted by someone trained in current [[User Experience (UX)|user experience]] best practices.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/expert-reviews-heuristic-reviews?u=76281980&t=9)** There are a quick way to see how well an interface might match user expectations.
 >
@@ -459,37 +449,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), ux (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - expert (1)
 
-#### Surveys
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980)
+#### [Surveys](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=0)** - Surveys used in the UX research world are no different than other surveys.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=0)** - Surveys used in the [[UX Research]] world are no different than other surveys.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=5)** You craft a list of questions designed to gather certain facts or opinions from a targeted list of people.
 >
-> **[0:11](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=11)** Many user experience professionals integrate various types of questions into surveys, such as text questions about demographics or first click or desirability tests.
+> **[0:11](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=11)** Many [[User Experience (UX)|user experience]] professionals integrate various types of questions into surveys, such as text questions about demographics or first click or desirability tests.
 >
 > **[0:21](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=21)** You can quickly get data that is either quantitative or qualitative using surveys.
 >
 > **[0:25](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=25)** We'll talk more about the types of data, but you should know that surveys are best for gathering information like a user's intent, but not exploring behavior or context.
 >
-> **[0:35](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=35)** There are numerous digital survey tools that vary in complexity from free Google Forms to more sophisticated tools like SurveyMonkey, Typeform, or Qualtrics.
+> **[0:35](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=35)** There are numerous digital survey tools that vary in complexity from free [[Google]] [[Forms]] to more sophisticated tools like SurveyMonkey, Typeform, or Qualtrics.
 >
 > **[0:44](https://www.linkedin.com/learning/ux-foundations-research-19417883/surveys?u=76281980&t=44)** Some other combined tools like UsabilityHub and [UserTesting.com](https://UserTesting.com) also allow you to incorporate some survey questions into other studies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ux (1), [[User Experience (UX)|User experience]] (1), [[Google]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[User Experience (UX)|User experience]] (1), [[Google]] (1), [[Forms]] (1)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - surveys (1)
 
-#### Diary studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/diary-studies?u=76281980)
+#### [Diary studies](https://www.linkedin.com/learning/ux-foundations-research-19417883/diary-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,14 +501,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - diary (1)
 
-#### Participatory design workshops
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980)
+#### [Participatory design workshops](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980&t=49)** Participatory design sessions can also be done remotely but it takes a little bit more planning and you need to carefully consider how to make it easiest for each person to participate.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980&t=59)** Many use tools like Mural or Miro to predefine exercise spaces but you can also use things like shared Google Docs.
+> **[0:59](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980&t=59)** Many use tools like Mural or Miro to predefine exercise spaces but you can also use things like shared [[Google]] Docs.
 >
 > **[1:07](https://www.linkedin.com/learning/ux-foundations-research-19417883/participatory-design-workshops?u=76281980&t=67)** You could even have remote participants sketch on paper and upload their images to a shared space.
 >
@@ -546,13 +532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - participatory (1)
 
-#### Personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/personas?u=76281980)
+#### [Personas](https://www.linkedin.com/learning/ux-foundations-research-19417883/personas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,7 +561,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), business (2), product (2), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
@@ -587,12 +571,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting research goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
+#### [Setting research goals](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=0)** - The single most important step when running effective UX research is to define exactly what questions you're trying to answer and forming those questions into particular goals.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=0)** - The single most important step when running effective [[UX Research]] is to define exactly what questions you're trying to answer and forming those questions into particular goals.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=11)** Your specific goals will determine which methods to choose and guide your overall approach to planning.
 >
@@ -636,9 +619,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=127)** Sometimes it's helpful to conduct multiple kinds of efforts to examine a question thoroughly.
 >
-> **[2:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=133)** Let's imagine you're working on an e-commerce platform that is expanding their product line.
+> **[2:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=133)** Let's imagine you're working on an [[E-Commerce]] platform that is expanding their product line.
 >
-> **[2:17](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=137)** The team is considering adding a new category of products to their navigation structure.
+> **[2:17](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=137)** The team is considering adding a new category of [[Microsoft Products|products]] to their navigation structure.
 >
 > **[2:22](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980&t=142)** You might identify a handful of goals including: assess the current navigation system, determine the best way to integrate a new category, test various versions of a new navigation structure, and validate a final proposal.
 >
@@ -664,15 +647,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (3), next (2), ux (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[UX Research]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Qualitative vs. quantitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980)
+#### [Qualitative vs. quantitative data](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -682,13 +664,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=15)** Quantitative data is anything you collect that represents numeric information, such as the percentage of site visitors that fill out a form or users' perceived ease of use ratings.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=26)** Quantitative data is not based on opinion and serves as an objective input to decision-making.
+> **[0:26](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=26)** Quantitative data is not based on opinion and serves as an objective input to [[Decision-Making]].
 >
 > **[0:33](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=33)** It's best at capturing trends of what is happening.
 >
 > **[0:36](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=36)** You may even be able to get statistically relevant data, though keep in mind that you can misinterpret quantitative data if you are working with a small data set.
 >
-> **[0:45](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=45)** Common uses of quantitative data in UX research are calculating the percentage of support complaints that are about a particular feature or running an AB test to see which of two versions of a button gets more clicks.
+> **[0:45](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=45)** Common uses of quantitative data in [[UX Research]] are calculating the percentage of support complaints that are about a particular feature or running an AB test to see which of two versions of a button gets more clicks.
 >
 > **[0:58](https://www.linkedin.com/learning/ux-foundations-research-19417883/qualitative-vs-quantitative-data?u=76281980&t=58)** You can gather quantitative data from things like card sorts, surveys, usability studies, click tests and eye tracking studies.
 >
@@ -722,14 +704,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Decision-Making]] (1), ux (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[UX Research]] (1)
 > **Analogies:** such as (2), for example (1), for instance (1), picture (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - while (1)
 
-#### Behavioral vs. attitudinal research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980)
+#### [Behavioral vs. attitudinal research](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980&t=86)** That's not to say attitudinal research isn't helpful though.
 >
-> **[1:29](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980&t=89)** It's important for an organization to know when user's expectations don't match their behavior, how users perceive brands, how users expect something to work, or their outlook on potential features.
+> **[1:29](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980&t=89)** It's important for an organization to know when user's expectations don't match their behavior, how users perceive brands, how users expect something to work, or their [[Microsoft Outlook|outlook]] on potential features.
 >
 > **[1:41](https://www.linkedin.com/learning/ux-foundations-research-19417883/behavioral-vs-attitudinal-research?u=76281980&t=101)** For instance, you could conduct an attitudinal method like a survey and uncover that a big percentage of your user base has strict budget limitations that make it so that they have to cancel and resubscribe only when they need certain features.
 >
@@ -769,14 +750,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), ux (1), [[Microsoft Outlook|Outlook]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
 > **Definitions:** refers to (1)
 > **Speakers:** - to (1)
 
-#### Moderated vs. unmoderated research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/moderated-vs-unmoderated-research?u=76281980)
+#### [Moderated vs. unmoderated research](https://www.linkedin.com/learning/ux-foundations-research-19417883/moderated-vs-unmoderated-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +790,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), ux (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - when (1)
 
@@ -819,8 +798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### In-house vs. external
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
+#### [In-house vs. external](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,7 +832,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980&t=129)** You may also be less likely to have access to an existing customer base so there could be logistical challenges when finding and scheduling the right kind of participants.
 >
-> **[2:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980&t=138)** There are ways to get representative-enough users or recruit from existing databases which we'll discuss in more detail as well.
+> **[2:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980&t=138)** There are ways to get representative-enough users or recruit from existing [[Databases]] which we'll discuss in more detail as well.
 >
 > **[2:27](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980&t=147)** Being an external UX researcher also means that you need to pay attention and cater your working style to the existing structure in the organization.
 >
@@ -866,25 +844,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), teams (2), product (1), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - as (1)
 
-#### Agile vs. waterfall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980)
+#### [Agile vs. waterfall](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=0)** - Regardless of your role within an organization, their structure and approach to development can also impact how research is run.
 >
-> **[0:07](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=7)** Some organizations use a project management development model called Waterfall.
+> **[0:07](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=7)** Some organizations use a project [[Management Development]] model called Waterfall.
 >
-> **[0:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=12)** It has distinct stages for requirements gathering, design development, and testing, which do not overlap.
+> **[0:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=12)** It has distinct stages for [[Requirements Gathering]], design development, and testing, which do not overlap.
 >
 > **[0:19](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=19)** In this model, rigorous research is done in the requirements gathering and design phase, which is sometimes called discovery, and then again at the very end of development.
 >
-> **[0:28](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=28)** In contrast, many organizations have been turning to the Agile methodology.
+> **[0:28](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=28)** In contrast, many organizations have been turning to the [[Agile Development|Agile]] methodology.
 >
 > **[0:32](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=32)** It adopts rapid iterative cycles of launching, measuring, and pivoting as needed.
 >
@@ -902,13 +879,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=80)** Many companies are moving toward Agile-like practices, so it's helpful to understand the limitations.
 >
-> **[1:26](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=86)** Let's say that you're working on a new e-commerce platform for an existing brand.
+> **[1:26](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=86)** Let's say that you're working on a new [[E-Commerce]] platform for an existing brand.
 >
 > **[1:30](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=90)** In the Waterfall process, you'd be able to conduct exploratory research during the requirements gathering phase.
 >
 > **[1:37](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=97)** You may be able to utilize methods like extensive in-person interviews, focused on understanding goals, or ethnographic observations of existing customers' shopping experiences.
 >
-> **[1:47](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=107)** You could focus on gathering and analyzing all this information before any of the rest of the team starts designing or building anything.
+> **[1:47](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=107)** You could focus on gathering and analyzing all this information before any of the [[Representational State Transfer (REST)|rest]] of the team starts designing or building anything.
 >
 > **[1:56](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=116)** In traditional Waterfall, you then typically hand your insights to the design team, who then begins their work.
 >
@@ -938,21 +915,20 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=209)** Understanding the team processes and development cycles can help you best identify when and what kinds of research will make sense.
 >
-> **[3:36](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=216)** For a deeper dive, check out my LinkedIn learning course [[UX Research for Agile Teams]].
+> **[3:36](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=216)** For a deeper dive, check out my [[LinkedIn]] learning course [[[[UX Research]] for Agile Teams]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Requirements Gathering]] (3), [[E-Commerce]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Requirements Gathering]] (3), [[E-Commerce]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - regardless (1)
 
-#### Determining project or product stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980)
+#### [Determining project or product stage](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=0)** - Regardless of the development environment, one of the most important steps to determining research methodology is to examine what stage in the product development cycle you're in.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=0)** - Regardless of the development environment, one of the most important steps to determining research methodology is to examine what stage in the [[Product Development]] cycle you're in.
 >
 > **[0:10](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=10)** At a very high level, you're typically in one of three product stages.
 >
@@ -978,15 +954,15 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=101)** You'll want to focus on summarizing trends and uncovering opportunities.
 >
-> **[1:46](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=106)** You're likely to utilize quantitative behavioral research techniques, like AB tests or usage analytics, to understand trends and qualitative methods, such as interviews or usability testing, to uncover issues or gaps and find opportunities.
+> **[1:46](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=106)** You're likely to utilize quantitative behavioral research techniques, like AB tests or usage analytics, to understand trends and qualitative methods, such as interviews or [[Usability Testing]], to uncover issues or gaps and find opportunities.
 >
-> **[2:02](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=122)** Again, there is no exact formula when selecting the best UX research method at any given time.
+> **[2:02](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=122)** Again, there is no exact formula when selecting the best [[UX Research]] method at any given time.
 >
 > **[2:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-project-or-product-stage?u=76281980&t=129)** Understanding a product's development stage can help you narrow down your goals and the time constraints you're working under, which can help guide your decision.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Product Development]] (1), feature (1), [[Analytics]] (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Usability Testing]] (1), [[UX Research]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - regardless (1)
@@ -996,8 +972,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining the right participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
+#### [Determining the right participants](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1022,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=150)** For instance, you can't extrapolate that 60% of a whole audience type will experience the same issue, if you see that three of five usability test participants do.
 >
-> **[2:42](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=162)** Many user experience methods don't require statistical significance, though it can be helpful to calculate how many participants would be required to achieve it or calculate how confident you can be with the number of participants that you have.
+> **[2:42](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=162)** Many [[User Experience (UX)|user experience]] methods don't require statistical significance, though it can be helpful to calculate how many participants would be required to achieve it or calculate how confident you can be with the number of participants that you have.
 >
 > **[2:56](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=176)** In many cases, you won't have time or budget to reach as many people as recommended, but it can be helpful to set targets in budget.
 >
@@ -1055,11 +1030,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=186)** I particularly like those at [MeasuringU.com](https://MeasuringU.com).
 >
-> **[3:10](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=190)** Just remember that having high quality participants is more important UX research than quantity.
+> **[3:10](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980&t=190)** Just remember that having high quality participants is more important [[UX Research]] than quantity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), data (1), [[User Experience (UX)|User experience]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[UX Research]] (1)
 > **Analogies:** for instance (2), imagine (1), such as (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (2), required to (1)
@@ -1068,8 +1043,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 
-#### Finding and screening participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980)
+#### [Finding and screening participants](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,13 +1051,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=6)** Research participants are meant to represent your user.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=9)** While you might want your design to be easy enough to be used by any person, the whole point of user experience is to craft what you build for specific people who have particular sets of knowledge, experiences, and outlooks.
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=9)** While you might want your design to be easy enough to be used by any person, the whole point of [[User Experience (UX)|user experience]] is to craft what you build for specific people who have particular sets of knowledge, experiences, and outlooks.
 >
-> **[0:23](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=23)** If you don't include those particular folks in your research, you might still get some generic feedback but miss the nuances that will make your products stand out for your user base.
+> **[0:23](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=23)** If you don't include those particular folks in your research, you might still get some generic feedback but miss the nuances that will make your [[Microsoft Products|products]] stand out for your user base.
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=34)** Think back to the personas and the key attributes that distinguish each one.
 >
-> **[0:38](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=38)** With the expense tracking app example, you might have some users who are frequent business travelers who always want to upload their numerous receipts on the go, but there may also be office workers who only purchase software for the company and find it easiest to set aside one time each month to process everything.
+> **[0:38](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=38)** With the expense tracking app example, you might have some users who are frequent business travelers who always want to upload their numerous receipts on the go, but there may also be [[Microsoft Office|office]] workers who only purchase software for the company and find it easiest to set aside one time each month to process everything.
 >
 > **[0:57](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=57)** In order to ensure that the right types of users are represented, you'll have to create a screener that attempts to capture participants' roles and behaviors without making the desired trait too obvious.
 >
@@ -1105,7 +1079,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=127)** If you're working on a product that doesn't yet have users or you don't have access, you'll have to be a little bit more creative about finding the right participants.
 >
-> **[2:16](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=136)** If you have budget, there are participant recruiting firms you can hire or you can do things like post ads to relevant LinkedIn groups or Slack channels.
+> **[2:16](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=136)** If you have budget, there are participant recruiting firms you can hire or you can do things like post ads to relevant [[LinkedIn]] groups or [[Slack]] channels.
 >
 > **[2:25](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=145)** Regardless of whether your participants are existing or potential users, it's standard to offer monetary compensation for their time.
 >
@@ -1113,13 +1087,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=159)** Incentives range widely based on the complexity of the tasks, length of time involved, and the specificity of a persona type.
 >
-> **[2:47](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=167)** For instance, you might offer $10 for any 40 plus aged participant to take a quick survey, but offer $250 when you need to spend an hour interviewing and observing medical professionals.
+> **[2:47](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=167)** For instance, you might offer $10 for any 40 plus aged participant to take a quick survey, but offer $250 when you need to spend an hour [[Interviewing]] and observing medical professionals.
 >
 > **[2:59](https://www.linkedin.com/learning/ux-foundations-research-19417883/finding-and-screening-participants?u=76281980&t=179)** Finding the right participants and offering compelling incentives is a crucial step to getting the most out of your research effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), database (2), [[User Experience (UX)|User experience]] (1), generic (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Slack]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1128,14 +1102,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
 
-#### Scheduling participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980)
+#### [Scheduling participants](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=0)** - Scheduling participants seem straightforward, but I recommend carefully considering your schedule.
 >
-> **[0:06](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=6)** This step is often overlooked, but very crucial in performing successful UX research.
+> **[0:06](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=6)** This step is often overlooked, but very crucial in performing successful [[UX Research]].
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=12)** The first thing you need to consider is creating a schedule that will work well for your participants.
 >
@@ -1149,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=52)** You also need to think about how you'll be able to keep up with participants, and interact with stakeholders.
 >
-> **[0:58](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=58)** First of all, I recommend scheduling ample time, at least half an hour in between your sessions, so you can rest, take time to recap sessions, and redirect any efforts.
+> **[0:58](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=58)** First of all, I recommend scheduling ample time, at least half an hour in between your sessions, so you can [[Representational State Transfer (REST)|rest]], take time to recap sessions, and redirect any efforts.
 >
 > **[1:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/scheduling-participants?u=76281980&t=69)** This gives you a buffer in case a participant is early or late.
 >
@@ -1175,14 +1148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Ports:** :00 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - scheduling (1)
 
-#### Crafting the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/crafting-the-right-questions?u=76281980)
+#### [Crafting the right questions](https://www.linkedin.com/learning/ux-foundations-research-19417883/crafting-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,11 +1228,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ux-foundations-research-19417883/crafting-the-right-questions?u=76281980&t=233)** But in most cases, you'll still want to cap each session to about an hour.
 >
-> **[3:57](https://www.linkedin.com/learning/ux-foundations-research-19417883/crafting-the-right-questions?u=76281980&t=237)** Planning the questions that you need to ask to get the most out of your research is one of the most vital steps of any kind of user experience research.
+> **[3:57](https://www.linkedin.com/learning/ux-foundations-research-19417883/crafting-the-right-questions?u=76281980&t=237)** Planning the questions that you need to ask to get the most out of your research is one of the most vital steps of any kind of [[User Experience (UX)|user experience]] research.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (3), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for instance (3), such as (3), just like (1)
 > **Warnings:** be careful (2)
 > **CLI Commands:** find (1)
@@ -1268,8 +1240,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
 
-#### Practicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/practicing?u=76281980)
+#### [Practicing](https://www.linkedin.com/learning/ux-foundations-research-19417883/practicing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,8 +1296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying moderated research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
+#### [Applying moderated research](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,8 +1394,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Applying unmoderated research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980)
+#### [Applying unmoderated research](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1418,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980&t=65)** You should also pay attention to the flow of tasks and questions and prioritize ordering them in a way that will feel natural to participants.
 >
-> **[1:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980&t=73)** For instance, you wouldn't ask someone to assess the checkout process of an eCommerce site before asking them to try searching for products.
+> **[1:13](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980&t=73)** For instance, you wouldn't ask someone to assess the checkout process of an eCommerce site before asking them to try searching for [[Microsoft Products|products]].
 >
 > **[1:21](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-unmoderated-research?u=76281980&t=81)** Participants may give you faulty negative feedback if the flow of questions doesn't make sense.
 >
@@ -1465,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (2), just like (1)
 > **Code Identifiers:** ecommerce (1)
@@ -1476,8 +1445,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gathering and mining data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
+#### [Gathering and mining data](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1491,7 +1459,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980&t=12)** You need to tie all of the individual pieces of data together to create meaningful, actionable insights.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980&t=18)** It's the onus of the user experience researcher to not just report back facts but also synthesize data into information the team can use.
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980&t=18)** It's the onus of the [[User Experience (UX)|user experience]] researcher to not just report back facts but also synthesize data into information the team can use.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980&t=27)** The way that you analyze and synthesize data depends on the methodology, the type of data you collected, and your overall context.
 >
@@ -1555,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** picture (2)
 > **Cross-References:** coming up (1)
@@ -1563,8 +1531,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
 
-#### Synthesizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980)
+#### [Synthesizing data](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=17)** You might be looking for things like averages or percentages.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=21)** Most of the time you don't need rigorous statistical analysis in UX research contexts.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=21)** Most of the time you don't need rigorous [[Statistical Analysis]] in [[UX Research]] contexts.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=27)** Also, most quantitative tools have some built-in analysis and charting functions.
 >
@@ -1582,7 +1549,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=41)** While this information is valuable, you won't get the full picture if you stop there.
 >
-> **[0:46](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=46)** Let's say that you ask participants to rate their experience with an e-commerce site on a scale of one to seven.
+> **[0:46](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=46)** Let's say that you ask participants to rate their experience with an [[E-Commerce]] site on a scale of one to seven.
 >
 > **[0:52](https://www.linkedin.com/learning/ux-foundations-research-19417883/synthesizing-data?u=76281980&t=52)** Maybe the average is right in the middle at a 3.5, but every participant rated the site exceptionally well or exceptionally poorly to get to that average.
 >
@@ -1628,14 +1595,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (3), ux (2), [[E-Commerce]] (2), business (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Statistical Analysis]] (1), [[UX Research]] (1)
 > **Analogies:** for instance (3), picture (3)
 > **CLI Commands:** make (3), find (2)
 > **Versions:** 3.5 (1)
 > **Speakers:** - once (1)
 
-#### Presenting and incorporating results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980)
+#### [Presenting and incorporating results](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1677,7 +1643,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980&t=132)** Discuss what you observed, why it matters to the team, and what the team should do.
 >
-> **[2:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980&t=138)** As an example, if you found a key usability issue of a checkout flow on an e-commerce page, it's tempting to say something generic like, "It's difficult for users to enter their credit card information correctly."
+> **[2:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980&t=138)** As an example, if you found a key usability issue of a checkout flow on an [[E-Commerce]] page, it's tempting to say something generic like, "It's difficult for users to enter their credit card information correctly."
 >
 > **[2:30](https://www.linkedin.com/learning/ux-foundations-research-19417883/presenting-and-incorporating-results?u=76281980&t=150)** Giving additional context can be much more powerful.
 >
@@ -1697,7 +1663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[E-Commerce]] (1), generic (1), database (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1), such as (1)
 > **Warnings:** keep in mind (1)
@@ -1708,18 +1674,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=0)** - One of my favorite things about UX Research is that people from all different backgrounds can be successful and there is no one direct path.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=0)** - One of my favorite things about [[UX Research]] is that people from all different backgrounds can be successful and there is no one direct path.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=9)** Learning about the different methodologies and how to plan research efforts to gather accurate, unbiased data is the first and biggest step.
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=18)** This course has given you the initial tools to conduct research on your own.
 >
-> **[0:22](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=22)** You now understand the main benefits of performing user experience research, the different types of research methods, and the basics of how to plan, run, analyze, and report them.
+> **[0:22](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=22)** You now understand the main benefits of performing [[User Experience (UX)|user experience]] research, the different types of research methods, and the basics of how to plan, run, analyze, and report them.
 >
 > **[0:33](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=33)** Now that you know the fundamentals it will take some practice to apply these things in your own context.
 >
@@ -1727,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=45)** If you're feeling unsure a good first method is a usability test.
 >
-> **[0:49](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=49)** For more on how to run one check out the foundations of UX Usability Testing course or my deep dive on usability testing.
+> **[0:49](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=49)** For more on how to run one check out the foundations of UX [[Usability Testing]] course or my deep dive on usability testing.
 >
 > **[0:57](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980&t=57)** Thank you for letting me be a part of your UX journey.
 >
@@ -1735,7 +1700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[Usability Testing]] (2), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (2), [[UX Research]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 

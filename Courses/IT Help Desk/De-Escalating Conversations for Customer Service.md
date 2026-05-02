@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you've been unsuccessful with angry customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980)
+#### [Why you've been unsuccessful with angry customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980&t=75)** My name is Myra Golden, and for more than 20 years through my workshops, I've helped customer service professionals just like you.
 >
-> **[1:24](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980&t=84)** So join me in this LinkedIn Learning course and learn how to deescalate intense situations with your customers.
+> **[1:24](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980&t=84)** So join me in this [[LinkedIn]] Learning course and learn how to deescalate intense situations with your customers.
 
 > [!info]- Semantic Content
 >
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three reasons situations escalate and how to stop the cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980)
+#### [Three reasons situations escalate and how to stop the cycle](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=7)** So I want to take a minute with you and break down the three reasons this happens.
 >
-> **[0:12](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=12)** The number one reason customers escalate is they don't accept your word as final.
+> **[0:12](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=12)** The number one reason customers escalate is they don't accept your [[Microsoft Word|word]] as final.
 >
 > **[0:19](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=19)** Position yourself as the expert. Talk assertively.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=119)** - The status hasn't changed.
 >
-> **[2:01](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=121)** We're still waiting to hear back from the local office.
+> **[2:01](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=121)** We're still waiting to hear back from the local [[Microsoft Office|office]].
 >
 > **[2:04](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=124)** There's nothing we can do at this point but wait.
 >
@@ -229,13 +227,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Microsoft Word|Word]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Microsoft Word|Word]] (2)
 > **Speakers:** - i (3), - the (2), - fine (2), - if (1), - you (1)
 > **Definitions:** is a  (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Positive positioning with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980)
+#### [Positive positioning with customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=73)** And avoid words like unfortunately, as in, unfortunately the warranty doesn't cover this.
 >
-> **[1:20](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=80)** The word unfortunately carries a negative connotation and customers gear up for a challenge when they hear this word.
+> **[1:20](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=80)** The [[Microsoft Word|word]] unfortunately carries a negative connotation and customers gear up for a challenge when they hear this word.
 >
 > **[1:28](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=88)** And in general, try to use these positive words often, absolutely, definitely, and certainly.
 >
@@ -309,12 +306,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - we (1)
 
-#### The principle of don't push
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/the-principle-of-don-t-push-14474695?u=76281980)
+#### [The principle of don't push](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/the-principle-of-don-t-push-14474695?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,13 +390,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - i (4), - hi (2), - in (1), - sir (1), - can (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1)
 
-#### Manage expectations with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/manage-expectations-with-customers-14469723?u=76281980)
+#### [Manage expectations with customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/manage-expectations-with-customers-14469723?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,18 +464,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
 > **Warnings:** be careful (1), be aware (1)
 > **Speakers:** - recently (1)
 
-#### Be regretful, but direct with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980)
+#### [Be regretful, but direct with customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=0)** - A participant in one of my deescalation workshops shared his best advice for getting customers to accept his word as the final answer.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=0)** - A participant in one of my deescalation workshops shared his best advice for getting customers to accept his [[Microsoft Word|word]] as the final answer.
 >
 > **[0:09](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=9)** He was on the escalation team at his company, and told us he found that the best approach is to just say what needs to be said directly, and to show with your words and your tone, that you're sorry it has to be this way.
 >
@@ -551,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognize the customer's emotions
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/recognize-the-customer-s-emotions-14470751?u=76281980)
+#### [Recognize the customer's emotions](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/recognize-the-customer-s-emotions-14470751?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,8 +607,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Reframe the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/reframe-the-conversation-14475725?u=76281980)
+#### [Reframe the conversation](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/reframe-the-conversation-14475725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,17 +679,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), business (1)
 > **Ports:** :42 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Resolve the customer's issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980)
+#### [Resolve the customer's issue](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=0)** - A key to de-escalation is moving the conversation forward to closure.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=0)** - A key to [[De-escalation]] is moving the conversation forward to closure.
 >
 > **[0:05](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=5)** Moving the conversation forward means you're resolving the issue or you're offering an explanation for what comes next.
 >
@@ -711,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=39)** It's important that you sound confident and assertive when you tell the customer what you can't do.
 >
-> **[0:45](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=45)** Otherwise, some customers won't take your word as final.
+> **[0:45](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=45)** Otherwise, some customers won't take your [[Microsoft Word|word]] as final.
 >
 > **[0:49](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=49)** They'll push and ask to talk to someone higher up.
 >
@@ -729,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[De-escalation]] (1), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[De-escalation]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -738,8 +726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Listen with the intent to understand
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/listen-with-the-intent-to-understand-14471747?u=76281980)
+#### [Listen with the intent to understand](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/listen-with-the-intent-to-understand-14471747?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,14 +818,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Speakers:** - i (3), - the (2), - awesome (2), - there (1), - hi (1)
 > **CLI Commands:** make (3)
 > **Ports:** :06 (2)
 > **Env Vars:** ty3729 (2)
 
-#### Use partnering language with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/use-partnering-language-with-customers-14470750?u=76281980)
+#### [Use partnering language with customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/use-partnering-language-with-customers-14470750?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,8 +890,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
 
-#### Dealing with your own frustration
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-your-own-frustration-14474694?u=76281980)
+#### [Dealing with your own frustration](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-your-own-frustration-14474694?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,8 +964,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - a (1)
 
-#### Dealing with demanding customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980)
+#### [Dealing with demanding customers](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=58)** That is the second technique, silence.
 >
-> **[1:01](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=61)** When customers get enraged, don't interrupt, don't say a word.
+> **[1:01](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=61)** When customers get enraged, don't interrupt, don't say a [[Microsoft Word|word]].
 >
 > **[1:05](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=65)** This works over the phone and in person.
 >
@@ -1073,8 +1056,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When a customer asks for a manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-asks-for-a-manager-14471748?u=76281980)
+#### [When a customer asks for a manager](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-asks-for-a-manager-14471748?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,23 +1132,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Speakers:** - hi (2), - customers (1), - i (1), - you (1), - absolutely (1)
 > **Env Vars:** usa (4)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Best Practices:** it's best to (1)
 
-#### When a customer disagrees with your policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980)
+#### [When a customer disagrees with your policy](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=0)** - When customers don't think your policy is reasonable, they may push back, asking to talk to a supervisor or becoming difficult.
 >
-> **[0:10](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=10)** Because policies usually can't be changed, we have to learn the best approach to get customers to accept your word as final.
+> **[0:10](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=10)** Because policies usually can't be changed, we have to learn the best approach to get customers to accept your [[Microsoft Word|word]] as final.
 >
-> **[0:18](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=18)** One of my clients is an optometry office.
+> **[0:18](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=18)** One of my clients is an optometry [[Microsoft Office|office]].
 >
 > **[0:20](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=20)** And like all medical practices, this office is regulated by the FDA.
 >
@@ -1241,14 +1221,13 @@ created: 2026-05-02
 > **Env Vars:** fda (3)
 > **Definitions:** is an  (1)
 
-#### Yelling or cursing customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980)
+#### [Yelling or cursing customer](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=0)** - Some people use bait tactics to try to get what they want.
 >
-> **[0:05](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=5)** They'll say something just to get you to react.
+> **[0:05](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=5)** They'll say something just to get you to [[React.js|react]].
 >
 > **[0:08](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=8)** They're trying to take your power so that they're in control.
 >
@@ -1310,11 +1289,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - some (1)
 
-#### Customer's request is not possible
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/customer-s-request-is-not-possible-14474696?u=76281980)
+#### [Customer's request is not possible](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/customer-s-request-is-not-possible-14474696?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1360,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), express (1)
 > **Env Vars:** act (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
@@ -1392,8 +1369,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start, stop, continue exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/start-stop-continue-exercise-14472676?u=76281980)
+#### [Start, stop, continue exercise](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/start-stop-continue-exercise-14472676?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1403,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

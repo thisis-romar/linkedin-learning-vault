@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/devops
-course_count: 25
+course_count: 26
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Design Systems
 
-> **Type:** Concept | **Courses:** 25 | **Topics:** [[Web Development]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Data Science]], [[DevOps]]
+> **Type:** Concept | **Courses:** 26 | **Topics:** [[Web Development]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Data Science]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Design Thinking- Prototyping]] — 1 mentions
 10. [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]] — 1 mentions
 
-> [!note]- See all 25 courses
+> [!note]- See all 26 courses
 > 11. [[Software Architecture- Breaking a Monolith into Microservices]] — 1 mentions
 > 12. [[Tech Career Skills- Getting Promoted]] — 1 mentions
 > 13. [[Using Stark for Accessible Design Projects]] — 1 mentions
@@ -52,10 +52,11 @@ created: 2026-05-02
 > 19. [[Figma for UX Research- Presentations that Stand Out]] — 1 mentions
 > 20. [[CSS- Selectors]] — 1 mentions
 > 21. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
-> 22. [[JavaScript- Ajax and Fetch]] — 1 mentions
-> 23. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 24. [[C++ Design Patterns- Structural]] — 1 mentions
-> 25. [[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]] — 1 mentions
+> 22. [[Python For Data Science And Machine Learning Essential Training Part]] — 1 mentions
+> 23. [[JavaScript- Ajax and Fetch]] — 1 mentions
+> 24. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
+> 25. [[C++ Design Patterns- Structural]] — 1 mentions
+> 26. [[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]] — 1 mentions
 
 ## Learning Paths
 
@@ -64,11 +65,11 @@ created: 2026-05-02
 3. [[Exploring a Career in Interaction Design]] — 5 total mentions
 4. [[Design User Experiences with Figma]] — 4 total mentions
 5. [[Prepare for Digital Accessibility]] — 3 total mentions
-6. [[Getting Started with Agile Software Development]] — 3 total mentions
-7. [[ServiceNow IT Leadership Professional Certificate]] — 2 total mentions
-8. [[AI Regulations for Business Leaders- The EU AI Act and More]] — 2 total mentions
-9. [[Responsible AI at Work- Literacy, Ethics, and More]] — 2 total mentions
-10. [[Technical Literacy and Future Readiness for Senior Executives]] — 2 total mentions
+6. [[Become an AI Engineer]] — 3 total mentions
+7. [[Getting Started with Agile Software Development]] — 3 total mentions
+8. [[ServiceNow IT Leadership Professional Certificate]] — 2 total mentions
+9. [[AI Regulations for Business Leaders- The EU AI Act and More]] — 2 total mentions
+10. [[Responsible AI at Work- Literacy, Ethics, and More]] — 2 total mentions
 
 ---
 

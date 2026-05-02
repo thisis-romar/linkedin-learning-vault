@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framework of learning React
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980)
+#### [Framework of learning React](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,13 +103,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=5)** - Hello, I'm Alex Banks.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=7)** Welcome to Learning React Native.
+> **[0:07](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=7)** Welcome to Learning [[React Native]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=9)** In this class, we're going to build native applications that run on iOS and Android devices with React.
+> **[0:09](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=9)** In this class, we're going to build native applications that run on iOS and [[Android]] devices with [[React.js|React]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=14)** React Native is a popular framework for building native applications.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=18)** You built these applications using JavaScript.
+> **[0:18](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=18)** You built these applications using [[JavaScript]].
 >
 > **[0:20](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=20)** That's right, JavaScript.
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=77)** How to incorporate navigation that allows your users to navigate from screen to screen.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=81)** We're even going to build a bonus app that allows you to fetch and render data from the internet.
+> **[1:21](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=81)** We're even going to build a bonus app that allows you to [[Fetch]] and render data from the internet.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980&t=85)** I'm pretty excited to introduce you to React Native.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (3), data (3), [[Android]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (3), [[Android]] (1), [[React.js|React]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** open the (1)
@@ -156,14 +155,13 @@ created: 2026-05-02
 > **Speakers:** - hello (1)
 > **Non-Speech:** (offbeat uplifting music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=0)** - This course will introduce you to React Native, but React Native isn't exactly a beginner topic.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=0)** - This course will introduce you to [[React Native]], but React Native isn't exactly a beginner topic.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=5)** It assumes you know something about JavaScript and React.
+> **[0:05](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=5)** It assumes you know something about [[JavaScript]] and [[React.js|React]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=8)** Now you don't have to be a JavaScript or a React expert to take this course, but you do want to understand some of the fundamentals of both.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=50)** I'm going to introduce it in this course, but at some point, you might want to learn Flexbox end to end.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=55)** I recommend taking a course like "[[Advanced Responsive Layouts with CSS Flexbox]]" by Morten Rand-Hendriksen.
+> **[0:55](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=55)** I recommend taking a course like "[[Advanced Responsive Layouts with [[CSS Flexbox]]]]" by Morten Rand-Hendriksen.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=62)** Now if you're comfortable with JavaScript and you understand the basics of React, then you're ready for this course.
 >
@@ -201,14 +199,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (11), [[JavaScript]] (8), [[React Native]] (4), web (1), css (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[JavaScript]] (8), [[React Native]] (4), [[CSS Flexbox]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - this (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=30)** The finished solution for each lesson can be found in the finished folder.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=34)** You're also going to need Node.js and npm set up and ready to go.
+> **[0:34](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=34)** You're also going to need [[Node.js]] and [[npm]] set up and ready to go.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=37)** Sometimes if you jump to a start or a finished folder, you may need to install the dependencies to make your code work.
 >
@@ -246,11 +243,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=68)** Well, that's all we need to know for set up.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=70)** Let's go ahead and begin learning React Native.
+> **[1:10](https://www.linkedin.com/learning/learning-react-native/using-the-exercise-files?u=76281980&t=70)** Let's go ahead and begin learning [[React Native]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), application (1), next (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), [[React Native]] (1)
 > **CLI Commands:** npm (3), find (2), node (1), make (1)
 > **Prerequisites:** set up (3), install (3)
 > **Env Vars:** ide (2)
@@ -264,12 +261,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is React?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980)
+#### [What is React?](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=1)** - [Instructor] React is an open-source JavaScript library that is used to create user interfaces, or UI.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=1)** - [Instructor] [[React.js|React]] is an open-source [[JavaScript]] library that is used to create user interfaces, or UI.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=6)** It was started at Facebook.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=22)** The main reason for React's success is that it simplified the developer experience.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=26)** React allows developers to build small, reusable components, and then compose those components into larger components, and then compose those larger components into applications.
+> **[0:26](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=26)** React allows developers to build small, reusable components, and then [[Jetpack Compose|compose]] those components into larger components, and then compose those larger components into applications.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=35)** React is declarative.
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=63)** In the browser, the React-dom library is used to construct user interface using the browser's dom.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=68)** In a mobile application, react-native issues to construct the user interface using native components that are unique to iOS or Android.
+> **[1:08](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=68)** In a mobile application, react-native issues to construct the user interface using native components that are unique to iOS or [[Android]].
 >
 > **[1:15](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=75)** React-blessed allows you to create complicated terminal or console UI with React.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (2), [[Jetpack Compose|Compose]] (2), dom (2), open-source (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (2), [[Jetpack Compose|Compose]] (2), [[Android]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** osx (1)
@@ -319,12 +315,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is React Native?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980)
+#### [What is React Native?](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=1)** - [Instructor] React Native allows you to use React to build native applications for iOS or Android devices.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=1)** - [Instructor] [[React Native]] allows you to use [[React.js|React]] to build native applications for iOS or [[Android]] devices.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=6)** If you're familiar with using React in the browser, then you know that your React components contain elements that are specific to the browser.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=20)** This code defines a React component called Friend.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=22)** React components are JavaScript functions.
+> **[0:22](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=22)** React components are [[JavaScript]] functions.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=24)** The component returns a description for what the DOM should look like using JSX elements.
 >
@@ -362,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=72)** This is possible because of something called the bridge.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=75)** The bridge enables asynchronous communication between our React and JavaScript code and the native code environments, Objective C for iOS or Java for Android.
+> **[1:15](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=75)** The bridge enables asynchronous communication between our React and JavaScript code and the native code environments, Objective C for iOS or [[Java]] for Android.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-react-native/what-is-react-native?u=76281980&t=84)** For instance, the iOS bridge will use iOS components, like UI View, UI Text View, and UI Image.
 >
@@ -389,12 +384,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How React Native works?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980)
+#### [How React Native works?](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=0)** - [Instructor] I mentioned earlier that React Native doesn't work like other hybrid JavaScript frameworks that you may have used in the past.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=0)** - [Instructor] I mentioned earlier that [[React Native]] doesn't work like other hybrid [[JavaScript]] frameworks that you may have used in the past.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=6)** Let's take a look at why.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=17)** This means in order to get JavaScript to work within your application, you had to have the entirety of WebKit installed, along with your codebase.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=24)** And then your HTML, CSS, and JavaScript would all run in a single thread from that view.
+> **[0:24](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=24)** And then your [[HTML]], CSS, and JavaScript would all run in a single thread from that view.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=30)** More often than not, the JavaScript and HTML could not keep up with the user interaction, and it would cause jumpy rendering, buggy components, and sometimes even crash the app.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=46)** React Native, on the other hand, uses the native components and APIs from the device's native language.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=52)** These components are typically written in Objective-C or sometimes Swift for iOS and Java for Android.
+> **[0:52](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=52)** These components are typically written in Objective-C or sometimes [[Swift (Programming Language)|Swift]] for iOS and [[Java]] for [[Android]].
 >
 > **[0:58](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=58)** JavaScript runs on its own thread and is powered by the JavaScriptCore.
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=66)** They communicate asynchronously with JavaScript.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=70)** The result is smooth rendering, and the user experience feels like a native application because it uses the same components.
+> **[1:10](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=70)** The result is smooth rendering, and the [[User Experience (UX)|user experience]] feels like a native application because it uses the same components.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-react-native/how-react-native-works?u=76281980&t=77)** Another advantage to the approach that React Native takes is the ability to dynamically update applications.
 >
@@ -456,29 +450,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (13), [[React Native]] (8), application (8), web (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[React Native]] (8), [[HTML]] (2), [[Android]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** html (2), css (1), sdk (1)
 > **Code Identifiers:** ios (2)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Expo?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980)
+#### [What is Expo?](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=1)** - [Instructor] Expo is a framework and a platform that helps developers create, develop, and publish robust React Native applications.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=1)** - [Instructor] Expo is a framework and a platform that helps developers create, develop, and publish robust [[React Native]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=7)** Remember, React Native applications are Native applications.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=11)** They are written in their own native languages and they implement a bridge pattern that allows JavaScript to run in its own thread and communicate with the components that are native to the device.
+> **[0:11](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=11)** They are written in their own native languages and they implement a bridge pattern that allows [[JavaScript]] to run in its own thread and communicate with the components that are native to the device.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=20)** The code base for these applications are hybrids of JavaScript, Objective-C, SWIFT, and Java.
+> **[0:20](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=20)** The code base for these applications are hybrids of JavaScript, Objective-C, [[Swift (Programming Language)|SWIFT]], and [[Java]].
 >
-> **[0:25](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=25)** If you want to build an iOS app, you need an Apple Developer account and Xcode.
+> **[0:25](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=25)** If you want to build an iOS app, you need an [[Apple Developer]] account and [[Xcode]].
 >
-> **[0:30](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=30)** If you want to build an Android app, you're going to need the Android SDK, Android Studio, and you're going to need to know Java.
+> **[0:30](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=30)** If you want to build an [[Android]] app, you're going to need the Android SDK, Android Studio, and you're going to need to know Java.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=36)** Essentially, when working with React Native, you're still building a native app, so you're going to need to have a lot of computer books on your shelf.
 >
@@ -502,9 +495,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=82)** This is a client application that you install directly on your device that allows you to debug your applications that you're working on.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=88)** The Expo CLI is a command line tool that will help you create React Native projects, create project code, develop and test the code on devices, publish projects, and send builds for iOS and Android to the Expo servers.
+> **[1:28](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=88)** The Expo [[CLI]] is a command line tool that will help you create React Native projects, create project code, develop and test the code on devices, publish projects, and send builds for iOS and Android to the Expo servers.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=101)** Expo Snack is an in-browser IDE for prototyping, testing, and sharing React Native code, and finally, the Expo SDK is an entire kit of components and APIs for use with React Native.
+> **[1:41](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=101)** Expo Snack is an in-browser IDE for [[Prototyping]], testing, and sharing React Native code, and finally, the Expo SDK is an entire kit of components and APIs for use with React Native.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-react-native/what-is-expo?u=76281980&t=112)** So, Expo is the perfect tool for getting started.
 >
@@ -535,14 +528,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing the Expo client
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980)
+#### [Installing the Expo client](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=0)** - The best way to develop mobile applications is to test those apps directly on your phone.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=5)** Now, in the past getting a React native app on your phone was a bit of a painful process.
+> **[0:05](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=5)** Now, in the past getting a [[React Native]] app on your phone was a bit of a painful process.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=9)** Not anymore, thanks to Expo.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=24)** And the Client is a native app.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=26)** So it's either an iOS app or an Android app.
+> **[0:26](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=26)** So it's either an iOS app or an [[Android]] app.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980&t=29)** So in order to install the Client on my phone what I'm going to go ahead and do is go the App Store.
 >
@@ -582,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (2), [[Search]] (2), application (1), [[Android]] (1), next (1)
+> **Frameworks & Libraries:** [[React Native]] (2), [[Android]] (1)
 > **Prerequisites:** install (3)
 > **URLs:** [expo.io](https://expo.io) (2)
 > **Code Identifiers:** ios (1)
@@ -590,12 +582,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Creating a Snack
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980)
+#### [Creating a Snack](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=1)** - [Narrator] In this lesson, we're going to write our first React Native application using Expo Snack.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=1)** - [Narrator] In this lesson, we're going to write our first [[React Native]] application using Expo Snack.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=5)** So from this menu, I'm going to select Expo Snack.
 >
@@ -611,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=31)** In our preview menu, we're currently rendering this component using React Native Web.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=35)** I can also test this code in Android or IOS devices by selecting one of these tabs here.
+> **[0:35](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=35)** I can also test this code in [[Android]] or IOS devices by selecting one of these tabs here.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=40)** And when I click tap to play, this code is loaded into a device emulator.
 >
@@ -621,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=52)** Since we're new to React Native, I'd like to start with a blank file and type all of the code ourselves.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=57)** So first, we're going to import React from react.
+> **[0:57](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=57)** So first, we're going to import [[React.js|React]] from react.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=60)** Next, we're going to import two components from React Native, the text and the view component.
 >
@@ -655,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=136)** I could even test this code out on an Android device.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=139)** And even though we're using the same JavaScript code, both devices have different native elements.
+> **[2:19](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=139)** And even though we're using the same [[JavaScript]] code, both devices have different native elements.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-react-native/creating-a-snack?u=76281980&t=145)** So sometimes they might look a little bit different.
 >
@@ -667,22 +658,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (6), web (3), application (2), [[Android]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React Native]] (6), [[Android]] (2), [[React.js|React]] (2), [[JavaScript]] (1)
 > **Env Vars:** ios (4), url (1)
 > **URLs:** [expo.io](https://expo.io) (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a new project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980)
+#### [Creating a new project](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=0)** - [Instructor] In the last lesson, we created our first React Native application using Expo Snack.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=0)** - [Instructor] In the last lesson, we created our first [[React Native]] application using Expo Snack.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=5)** But typically, we want to build applications in our own environment.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=9)** In this lesson, we're going to learn how to set up a React Native project locally, using the Expo CLI.
+> **[0:09](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=9)** In this lesson, we're going to learn how to set up a React Native project locally, using the Expo [[CLI]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=15)** So let's start by opening up our terminal, and navigating to the documents folder, And then I'm going to create a new React Native app using Expo by running the command npx Expo init color catalog.
 >
@@ -712,7 +702,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=77)** I'm going to go back over to my Expo Snack and copy all of the code that I created in the last lesson, and then I'm going to overwrite all of the code within the AppJS with my code.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=86)** Running npm start within this folder, starts our Expo development server.
+> **[1:26](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=86)** Running [[npm]] start within this folder, starts our Expo development server.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=91)** So when we run npm start, we're actually starting a server that's running locally on port 19002.
 >
@@ -728,7 +718,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=120)** For now I'm going to run my app locally on an iOS simulator, by clicking on run on iOS simulator.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=126)** Now, you're not going to be able to run your code on an iOS simulator, unless you have Xcode installed, and an iOS simulator set up.
+> **[2:06](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=126)** Now, you're not going to be able to run your code on an iOS simulator, unless you have [[Xcode]] installed, and an iOS simulator set up.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=133)** If you don't have these things, don't worry, we'd actually prefer to test our applications directly on our device, and I'm going to show you how to do that in the next lesson.
 >
@@ -736,11 +726,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=146)** In chapter six, there's some bonus lessons, on how to set up and install simulators.
 >
-> **[2:30](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=150)** Specifically, chapter six lesson one, is how to set up Xcode and install the iOS simulator, and six two, is how to set up an Android simulator.
+> **[2:30](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=150)** Specifically, chapter six lesson one, is how to set up Xcode and install the iOS simulator, and six two, is how to set up an [[Android]] simulator.
 >
 > **[2:39](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=159)** You can take that step if you want to.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=161)** So the Expo development server, is creating our JavaScript bundle, and then it sends it to the Expo app on the simulator.
+> **[2:41](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=161)** So the Expo development server, is creating our [[JavaScript]] bundle, and then it sends it to the Expo app on the simulator.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-react-native/creating-a-new-project?u=76281980&t=169)** And that's what allows us to test our code locally.
 >
@@ -750,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), application (3), next (3), [[Xcode]] (3), [[CLI]] (2)
+> **Frameworks & Libraries:** [[React Native]] (4), [[Xcode]] (3), [[CLI]] (2), [[npm]] (2), [[Android]] (1)
 > **Prerequisites:** set up (5), install (3)
 > **Code Identifiers:** ios (6)
 > **Tools:** vs code (3), terminal (1), command line (1)
@@ -759,16 +749,15 @@ created: 2026-05-02
 > **Env Vars:** cli (2), dns (1)
 > **Exercise Files:** template (2)
 
-#### Running a project on a device
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980)
+#### [Running a project on a device](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=1)** - In the last lesson, we created our first project using the Expo CLI, we actually have the development environment for our project running locally on our computer.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=1)** - In the last lesson, we created our first project using the Expo [[CLI]], we actually have the development environment for our project running locally on our computer.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=9)** With Expo, we can still test this project directly on our device.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=13)** Which is the preferred way to test a React Native app.
+> **[0:13](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=13)** Which is the preferred way to test a [[React Native]] app.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=16)** And what we'll notice is that we have an Expo Development Server running on localhost 19002.
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=41)** And here we go.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=42)** We see our project building our JavaScript bundle.
+> **[0:42](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=42)** We see our project building our [[JavaScript]] bundle.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=46)** Once the JavaScript bundle is complete, we actually get to see our application running right here.
 >
@@ -792,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=56)** If we look down here at the connection, we can see a server running at my IP address.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=60)** So that's all in our local area network.
+> **[1:00](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=60)** So that's all in our [[Local Area Network (LAN)|local area network]].
 >
 > **[1:02](https://www.linkedin.com/learning/learning-react-native/running-a-project-on-a-device?u=76281980&t=62)** But check this out.
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[JavaScript]] (2), [[CLI]] (1), [[React Native]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[CLI]] (1), [[React Native]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** cli (1), dns (1)
@@ -862,8 +851,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Native components
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980)
+#### [Native components](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,9 +863,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=11)** We can see that I have Expo running, so, here, within the browser, we're taking a look at our Expo Metro Bundler, and our tunnel is currently working.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=20)** I also have a terminal window dedicated to this, so this is the terminal window where I originally ran npm-start.
+> **[0:20](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=20)** I also have a terminal window dedicated to this, so this is the terminal window where I originally ran [[npm]]-start.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=26)** All right, so now we're ready to take a look at some React Native components.
+> **[0:26](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=26)** All right, so now we're ready to take a look at some [[React Native]] components.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=30)** React Native comes with a set of UI components that we can use out of the box to start building applications.
 >
@@ -891,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=52)** I'll display it within my view.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=55)** It has a size attribute, so I'll set the size to large, and a color attribute, so this is the color hex for the React logo.
+> **[0:55](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=55)** It has a size attribute, so I'll set the size to large, and a color attribute, so this is the color hex for the [[React.js|React]] logo.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=63)** When I click save, we notice that our application has refreshed over here in the iOS simulator, and this little spinning wheel here, that's an ActivityIndicator.
 >
@@ -929,7 +917,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=156)** We'll also go ahead and add a timestamp to that, so you'll notice I created this string with back ticks.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=161)** That means it's a template string, so I can insert some JavaScript in here.
+> **[2:41](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=161)** That means it's a template string, so I can insert some [[JavaScript]] in here.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=166)** And what we'll go ahead and do is create a new date, which will give us a timestamp, and then we will convert that date to the local time string.
 >
@@ -947,13 +935,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=210)** I can go ahead and click the button a few more times, and we can go ahead and see our log with different timestamps, right here inside of our Metro Bundler.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=218)** I'm going to open a new browser tab and do a quick Google search for React Native docs.
+> **[3:38](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=218)** I'm going to open a new browser tab and do a quick [[Google]] search for React Native docs.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980&t=225)** Here, under the API tab, we have a complete list of all of the components that are available to us with React Native.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (2), [[npm]] (1), [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[React Native]] (6), [[JavaScript]] (2), [[npm]] (1), [[React.js|React]] (1), [[Google]] (1)
 > **Code Identifiers:** ios (3), onbuttonpress (1), onpress (1), iphone (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** warning (3)
@@ -962,8 +950,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Env Vars:** api (1)
 
-#### Native APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980)
+#### [Native APIs](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,11 +960,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=10)** It stands for Application Programmable Interface.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=13)** In this case, the React Native API gives us access to underlying features of the phone.
+> **[0:13](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=13)** In this case, the [[React Native]] API gives us access to underlying features of the phone.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=19)** Currently, when the user presses a button, we are logging the button press string along with a timestamp to the console.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=25)** Both iOS and Android have native UI for alerting the user.
+> **[0:25](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=25)** Both iOS and [[Android]] have native UI for alerting the user.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=29)** All I need to do is import the alert API, and instead of console logging this message, we can use the Alert.alert function.
 >
@@ -993,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=60)** That's because the dimensions aren't going to change.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=62)** So I only need to get that information once; as opposed to every single time the React component is rendered.
+> **[1:02](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=62)** So I only need to get that information once; as opposed to every single time the [[React.js|React]] component is rendered.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-react-native/native-apis?u=76281980&t=67)** Now I can import a text component.
 >
@@ -1055,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Android]] (7), application (3), [[React Native]] (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Android]] (7), [[React Native]] (3), [[React.js|React]] (1)
 > **Env Vars:** api (9)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is an  (2), is a  (1), stands for (1)
@@ -1064,12 +1051,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating style sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980)
+#### [Creating style sheets](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=1)** - [Instructor] React Native handles styling UI components with an abstraction that's based on CSS.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=1)** - [Instructor] [[React Native]] handles styling UI components with an abstraction that's based on CSS.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=7)** Let's take a look.
 >
@@ -1091,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=61)** In React Native all of the CSS style attributes are camelCase.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=66)** That means instead of margin hyphen top, marginTop is one word with a capital T.
+> **[1:06](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=66)** That means instead of margin hyphen top, marginTop is one [[Microsoft Word|word]] with a capital T.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-react-native/creating-style-sheets?u=76281980&t=71)** The same is true for backgroundColor, which is also one word where the C is capitalized.
 >
@@ -1133,21 +1119,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (5), css (5), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[React Native]] (5), [[Microsoft Word|Word]] (2)
 > **Env Vars:** css (5)
 > **Code Identifiers:** camelcase (1), margintop (1), backgroundcolor (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexbox layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980)
+#### [Flexbox layouts](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980&t=1)** - [Instructor] Layout and React Native is based upon Flexbox, a popular layout module for CSS.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980&t=1)** - [Instructor] Layout and [[React Native]] is based upon Flexbox, a popular layout module for CSS.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980&t=7)** Flexbox gives us the ability to compose styles that can position elements anywhere on a screen.
+> **[0:07](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980&t=7)** Flexbox gives us the ability to [[Jetpack Compose|compose]] styles that can position elements anywhere on a screen.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-react-native/flexbox-layouts?u=76281980&t=13)** In Flexbox, there are flex containers and flex elements.
 >
@@ -1205,15 +1190,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[React Native]] (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[React Native]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (1)
 > **URLs:** [css-tricks.com](https://css-tricks.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Image component
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/the-image-component?u=76281980)
+#### [The Image component](https://www.linkedin.com/learning/learning-react-native/the-image-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1243,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **Analogies:** picture (3), just like (1), for instance (1)
 > **Code Identifiers:** picbiscuit (1), picjungle (1), borderradius (1)
 > **Env Vars:** api (2)
@@ -1271,8 +1254,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responding to touches
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980)
+#### [Responding to touches](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1274,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980&t=29)** And for that, we're going to need to useState.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980&t=32)** useState is a special kind of function that ships with React.
+> **[0:32](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980&t=32)** useState is a special kind of function that ships with [[React.js|React]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980&t=35)** It's called a Hook.
 >
@@ -1344,14 +1326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** usestate (6), setbackgroundcolor (3), onpress (3), backgroundcolor (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - thus (1)
 
-#### Using a touchable highlight
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980)
+#### [Using a touchable highlight](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=30)** Under this touchable highlight I'll also add a view.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=32)** Within the view we'll display the word yellow inside of a text component.
+> **[0:32](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=32)** Within the view we'll display the [[Microsoft Word|word]] yellow inside of a text component.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=37)** We already have some styles in our stylesheet here for a button so I'm going to go ahead and add the button styles to our TouchableHighlight.
 >
@@ -1377,7 +1358,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=52)** Font size was supplied to TouchableHighlight.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=54)** So React Native doesn't use actual CSS.
+> **[0:54](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=54)** So [[React Native]] doesn't use actual CSS.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-react-native/using-a-touchable-highlight?u=76281980&t=57)** It's not a web browser.
 >
@@ -1433,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (2), css (2), [[Microsoft Word|Word]] (1), web (1)
+> **Frameworks & Libraries:** [[React Native]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** buttontext (3), textalign (2), onpress (1), flexdirection (1), underlaycolor (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1), stands for (1)
@@ -1441,12 +1422,11 @@ created: 2026-05-02
 > **Env Vars:** css (2)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting a custom component
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980)
+#### [Extracting a custom component](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=1)** - React allows us to isolate our code into reusable components.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=1)** - [[React.js|React]] allows us to isolate our code into reusable components.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=4)** In the last lesson, we composed several components to created a single color button.
 >
@@ -1466,7 +1446,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=44)** We'll get that from the prop.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=46)** Additionally I'm not going to display the word yellow.
+> **[0:46](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=46)** Additionally I'm not going to display the [[Microsoft Word|word]] yellow.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=49)** I'll display the value of the incoming background color property.
 >
@@ -1506,7 +1486,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=138)** Now I'll go ahead and add an on press property to our red color button and when the user presses this color button, we'll invoke set background color.
 >
-> **[2:26](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=146)** I'm going to go ahead and copy this property and add them to the rest of the buttons to make them work as well.
+> **[2:26](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=146)** I'm going to go ahead and copy this property and add them to the [[Representational State Transfer (REST)|rest]] of the buttons to make them work as well.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-react-native/extracting-a-custom-component?u=76281980&t=152)** Now we can see that all of our color buttons are pressable.
 >
@@ -1524,13 +1504,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Word|Word]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - react (1)
 
-#### Importing a custom component
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980)
+#### [Importing a custom component](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1559,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980&t=113)** One last little bit of cleanup.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980&t=115)** The only styles that are currently used by the App.js file are the container styles, so I'm going to go ahead and remove the rest.
+> **[1:55](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980&t=115)** The only styles that are currently used by the App.js file are the container styles, so I'm going to go ahead and remove the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:02](https://www.linkedin.com/learning/learning-react-native/importing-a-custom-component?u=76281980&t=122)** Now the Color Button has been isolated into its own file.
 >
@@ -1588,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** app.js (5), colorbutton.js (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** usestate (1)
@@ -1597,8 +1576,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a flat list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980)
+#### [Using a flat list](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1586,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=10)** If we take a look at our files, we'll notice that there's a data folder.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=14)** And inside the data folder, we have a JSON document for default colors.
+> **[0:14](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=14)** And inside the data folder, we have a [[JSON]] document for default colors.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=18)** So here we have an array of colors.
 >
@@ -1618,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=30)** Back in the app js file, we will import this JSON data into a variable called default colors.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=36)** And now to render this list of colors using React components, I'm going to use a special type of view, a flat list.
+> **[0:36](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=36)** And now to render this list of colors using [[React.js|React]] components, I'm going to use a special type of view, a flat list.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-react-native/using-a-flat-list?u=76281980&t=43)** The flat list is a scrollable view that you can use to render a list of content.
 >
@@ -1670,14 +1648,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JSON]] (2), [[React.js|React]] (2), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[React.js|React]] (2)
 > **Code Identifiers:** renderitem (3), justifycontent (1), alignitems (1), defaultcolors (1)
 > **Env Vars:** json (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a form
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980)
+#### [Creating a form](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,9 +1662,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=6)** Within our files, under the components folder I'm going to add a new file, called ColorForm.js.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=12)** Within this file, we'll go ahead and import react from react.
+> **[0:12](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=12)** Within this file, we'll go ahead and import [[React.js|react]] from react.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=16)** We'll also import a style sheet and the view and text components from react native.
+> **[0:16](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=16)** We'll also import a style sheet and the view and text components from [[React Native]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-react-native/creating-a-form?u=76281980&t=21)** Next, we'll create the colorform component, so we'll export default function colorform.
 >
@@ -1753,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), next (3), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1)
 > **CLI Commands:** make (4)
 > **File Paths:** colorform.js (2), app.js (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1761,8 +1738,7 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980)
+#### [Collecting input](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,7 +1748,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980&t=9)** We're going to create a controlled form component.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980&t=12)** And what that means is React is going to control the state of our form.
+> **[0:12](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980&t=12)** And what that means is [[React.js|React]] is going to control the state of our form.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-react-native/collecting-input?u=76281980&t=16)** So we'll need the useState hook.
 >
@@ -1896,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Code Identifiers:** setvalue (5), onnewcolor (4), usestate (2), useref (2), onchange (1)
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** app.js (1), colorform.js (1)
@@ -1905,12 +1881,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** don't forget (1)
 
-#### Creating a custom hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980)
+#### [Creating a custom hook](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=0)** - [Instructor] React hooks give us a way to isolate and separate presentation from functionality.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=0)** - [Instructor] [[React Hooks]] give us a way to isolate and separate presentation from functionality.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=5)** In the last lesson, we created the colorForm, which will collect a new color from the user and then pass it to the app js component via the on new color property.
 >
@@ -1930,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=39)** Now on line nine, I'm going to create a new function for adding colors.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=43)** All we have to do is send the color that we want to add to our list to this function and the function will do the rest.
+> **[0:43](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=43)** All we have to do is send the color that we want to add to our list to this function and the function will do the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:48](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=48)** So I'm going to go ahead and create a new color instance.
 >
@@ -1940,7 +1915,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=59)** I'm going to use a package called short ID So let's open up the terminal.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=63)** And npm install shortid.
+> **[1:03](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=63)** And [[npm]] install shortid.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-react-native/creating-a-custom-hook?u=76281980&t=66)** Short ID is used to generate unique identifiers.
 >
@@ -2012,7 +1987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[React Hooks]] (1), [[npm]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[React Hooks]] (1), [[npm]] (1)
 > **Code Identifiers:** addcolor (4), newcolor (2), usecolors (2), colorform (1), defaultcolors (1)
 > **CLI Commands:** npm (1)
 > **Cross-References:** in the last (1)
@@ -2026,8 +2001,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AsyncStorage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980)
+#### [Using AsyncStorage](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,7 +2021,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=29)** And we already have a useColors hook, that manages all of the functionality that has to do with colors.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=35)** So, first, let's go ahead and import AsyncStorage from react-native.
+> **[0:35](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=35)** So, first, let's go ahead and import AsyncStorage from [[React.js|react]]-native.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=42)** Next, we're going to need a function that we can use to load colors asynchronously, so we'll create an async function.
 >
@@ -2065,7 +2039,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=76)** Now maybe this is the very first time that you've loaded the app, and you don't actually have any color data, so we're going to to check for that using an if statement.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=83)** So if you do have color data, colorData is going to come back as a string, so I'm going to use JSON.parse to convert that string into an array of colors.
+> **[1:23](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=83)** So if you do have color data, colorData is going to come back as a string, so I'm going to use [[JSON]].parse to convert that string into an array of colors.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980&t=91)** Then we'll go ahead and replace our colors and state using setColors.
 >
@@ -2109,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), application (2), [[JSON]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** useeffect (6), getitem (3), colordata (2), loadcolors (2), usecolors (1)
 > **Env Vars:** json (2)
 > **File Paths:** hooks.js (1)
@@ -2117,12 +2091,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### React Navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980)
+#### [React Navigation](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=0)** - [Instructor] React Navigation is a library that we can use to add functionality that allows our users to navigate from screen to screen.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=0)** - [Instructor] [[React.js|React]] Navigation is a library that we can use to add functionality that allows our users to navigate from screen to screen.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=7)** In our case, we want to add a details screen for each color.
 >
@@ -2170,9 +2143,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=121)** Now, if we go take a look at the documentation at [reactnavigation.org](https://reactnavigation.org), we can get to the docs by clicking on Read docs.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=128)** And if we take a look at Getting started, we see that we need to install React Navigation using npm, but we also additionally have to install all of these other dependencies.
+> **[2:08](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=128)** And if we take a look at Getting started, we see that we need to install React Navigation using [[npm]], but we also additionally have to install all of these other dependencies.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=137)** Here's a little Expo install coming in for all of the other dependencies that we're going to need to make React Native work.
+> **[2:17](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=137)** Here's a little Expo install coming in for all of the other dependencies that we're going to need to make [[React Native]] work.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-react-native/react-navigation?u=76281980&t=143)** I'll go ahead and click this copy button and copy those dependencies to the clipboard.
 >
@@ -2260,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), application (2), [[npm]] (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[npm]] (1), [[React Native]] (1)
 > **CLI Commands:** make (5), npm (1)
 > **Prerequisites:** install (5), getting started (1)
 > **File Paths:** app.js (4), colorlist.js (1)
@@ -2269,12 +2242,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), the docs (1)
 > **URLs:** [reactnavigation.org](https://reactnavigation.org) (1)
 
-#### Navigating between screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/navigating-between-screens?u=76281980)
+#### [Navigating between screens](https://www.linkedin.com/learning/learning-react-native/navigating-between-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/navigating-between-screens?u=76281980&t=0)** - [Instructor] In the last lesson we created our stack of screens using react navigation, specifically, the stack navigator.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/navigating-between-screens?u=76281980&t=0)** - [Instructor] In the last lesson we created our stack of screens using [[React.js|react]] navigation, specifically, the stack navigator.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-react-native/navigating-between-screens?u=76281980&t=6)** And we have a home screen that renders the color list and a detailed screen that renders the color details.
 >
@@ -2354,7 +2326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), css (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **UI Navigation:** navigate to (2), click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -2362,8 +2334,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing the Color Details page
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980)
+#### [Completing the Color Details page](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2379,7 +2350,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980&t=27)** But the other thing that we want to do, is we want to display all sorts of information about this color.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980&t=31)** To do that, I'm going to use an npm package called Color.
+> **[0:31](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980&t=31)** To do that, I'm going to use an [[npm]] package called Color.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-react-native/completing-the-color-details-page?u=76281980&t=35)** So let me open up the terminal and we'll install the color package.
 >
@@ -2427,7 +2398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **CLI Commands:** npm (2), make (1), find (1)
 > **Env Vars:** hsl (1)
 > **Tools:** terminal (1)
@@ -2436,12 +2407,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** install (1)
 
-#### Fetching data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980)
+#### [Fetching data](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=1)** - [Instructor] Whenever you're building React Native applications you're going to need to be able to get information from the internet and send information to it.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=1)** - [Instructor] Whenever you're building [[React Native]] applications you're going to need to be able to get information from the internet and send information to it.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=8)** To demonstrate this we're going to build a new application that gets some information from the internet.
 >
@@ -2491,11 +2461,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=115)** Because loading data from the internet requires an asynchronous request it's just easiest to make the loadPet function an async function.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=122)** So where can I fetch information from?
+> **[2:02](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=122)** So where can I [[Fetch]] information from?
 >
 > **[2:04](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=124)** We're going to use a little API called the pet library.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=127)** So at pet-library.[moonhighway.com/api/randompet](https://moonhighway.com/api/randompet) and when you make a request of this route you're going to get a JSON object that contains details about a pet at random.
+> **[2:07](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=127)** So at pet-library.[moonhighway.com/api/randompet](https://moonhighway.com/api/randompet) and when you make a request of this route you're going to get a [[JSON]] object that contains details about a pet at random.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-react-native/fetching-data?u=76281980&t=138)** So that's what we want to do, we want to load this object within our application.
 >
@@ -2535,7 +2505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (4), [[Fetch]] (4), api (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[JSON]] (3), [[React Native]] (2)
 > **Env Vars:** api (2), json (2), ide (1), css (1), url (1)
 > **Code Identifiers:** useeffect (2), loadpet (2), usestate (1), ios (1)
 > **CLI Commands:** make (4)
@@ -2544,8 +2514,7 @@ created: 2026-05-02
 > **File Paths:** res.json (1)
 > **URLs:** [moonhighway.com](https://moonhighway.com) (1)
 
-#### Using RefreshControl
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980)
+#### [Using RefreshControl](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2591,17 +2560,17 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=105)** And I can do that, by going to our load pet function and on line 21, awaiting an image prefetch.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=111)** So this line tells JavaScript to pause, once the full image has completely loaded, we'll set the pet data, and we'll set the loading value to false.
+> **[1:51](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=111)** So this line tells [[JavaScript]] to pause, once the full image has completely loaded, we'll set the pet data, and we'll set the loading value to false.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=119)** So now, when we refetch each pet, we'll make sure the full image is loaded before rendering a new pet component.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=126)** We built this random pet generator pretty quickly using Expo Snack.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=130)** It shows us that we can load data into our applications by making fetch requests.
+> **[2:10](https://www.linkedin.com/learning/learning-react-native/using-refreshcontrol?u=76281980&t=130)** It shows us that we can load data into our applications by making [[Fetch]] requests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (3), [[JavaScript]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
 
@@ -2610,8 +2579,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing an iOS simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980)
+#### [Installing an iOS simulator](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2619,7 +2587,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=4)** If you don't have access to the device itself you can install simulators.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=8)** The IOS simulator comes with Xcode.
+> **[0:08](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=8)** The IOS simulator comes with [[Xcode]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=10)** So in order to install it we need it install Xcode.
 >
@@ -2627,7 +2595,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=19)** Once we find it we will simply click install and Xcode we'll be downloaded and installed on our MAC.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=25)** So with Xcode installed I'm going to come into our ColorCatalog application and run npm start.
+> **[0:25](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=25)** So with Xcode installed I'm going to come into our ColorCatalog application and run [[npm]] start.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980&t=30)** Doing so will start our Expo Bundler project and get our tunnel up and running and once our tunnel is ready you'll notice a button over here that says run on IOS simulator.
 >
@@ -2641,29 +2609,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (6), application (3), [[Search]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (6), [[npm]] (1)
 > **Env Vars:** ios (4), mac (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (2), npm (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - the (1)
 
-#### Installing an Android AVD for Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980)
+#### [Installing an Android AVD for Mac](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=1)** - [Instructor] The best way to test out a React Native application is to use an Android device.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=1)** - [Instructor] The best way to test out a [[React Native]] application is to use an [[Android]] device.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=5)** But if you don't have access to the device, you can use something called an AVD, an Android Virtual Device.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=10)** In this lesson, we'll show you how to set up Android Studio on a Mac and configure an Android virtual device.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=16)** The Android Studio is an IDE for developing Java applications that run on the Android platform.
+> **[0:16](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=16)** The Android Studio is an IDE for developing [[Java]] applications that run on the Android platform.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=21)** First, we need to download it.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=22)** So I can do a quick Google search for Android Studio.
+> **[0:22](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=22)** So I can do a quick [[Google]] search for Android Studio.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=25)** And the first link we see is, download Android Studio and SDK tools.
 >
@@ -2689,7 +2656,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=72)** So I don't have any configuration settings, so I'm not going to import them.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=76)** And I'll go ahead and send statistics to Google so they can improve this product.
+> **[1:16](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=76)** And I'll go ahead and send [[Statistics]] to Google so they can improve this product.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-mac?u=76281980&t=83)** Choose the standard setup for Android Studio, as well as set my default theme to light and Android Studio will run through its initial configuration.
 >
@@ -2733,7 +2700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (22), application (2), [[Google]] (2), next (2), [[React Native]] (1)
+> **Frameworks & Libraries:** [[Android]] (22), [[Google]] (2), [[React Native]] (1), [[Java]] (1), [[Statistics]] (1)
 > **Prerequisites:** configure (2), install (2), set up (1), setup (1)
 > **Env Vars:** avd (2), ide (1), sdk (1), dmg (1)
 > **CLI Commands:** find (2)
@@ -2741,18 +2708,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing an Android AVD for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980)
+#### [Installing an Android AVD for Windows](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=1)** - [Instructor] The best way to test out your application is to always use it directly on a device.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=5)** However, when you don't have access to a specific device, you can set up an Android Virtual Device in a Windows environment.
+> **[0:05](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=5)** However, when you don't have access to a specific device, you can set up an [[Android]] Virtual Device in a [[Windows]] environment.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=11)** In this lesson, I'm going to show you how to install Android Studio and set up an Android Virtual Device on Windows.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=17)** So let's go ahead and open the browser and do a Google search for Android Studio.
+> **[0:17](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=17)** So let's go ahead and open the browser and do a [[Google]] search for Android Studio.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=21)** The first link that you see is the link to download the Android Studio and SDK tools.
 >
@@ -2808,7 +2774,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=122)** We'll go ahead and let Google load on that emulator.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=129)** And now I can open up my command prompt and from the ColorCatalog folder, I'll go ahead and run an NPM start.
+> **[2:09](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=129)** And now I can open up my command prompt and from the ColorCatalog folder, I'll go ahead and run an [[npm]] start.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=135)** This will run an expo start and we will start up our expo host in our Metro Bundler.
 >
@@ -2816,13 +2782,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=147)** So we can see here's our emulator.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=151)** And we can see the JavaScript bundle is building.
+> **[2:31](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=151)** And we can see the [[JavaScript]] bundle is building.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-react-native/installing-an-android-avd-for-windows?u=76281980&t=156)** And finally, we have our ColorCatalog running in an Android Virtual Device.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (20), application (3), [[Windows]] (2), [[Google]] (2), next (2)
+> **Frameworks & Libraries:** [[Android]] (20), [[Windows]] (2), [[Google]] (2), [[npm]] (1), [[JavaScript]] (1)
 > **Prerequisites:** set up (3), install (2), configure (2)
 > **UI Navigation:** select the (3), open the (1), navigate to (1), click on (1)
 > **Env Vars:** sdk (1), avd (1), npm (1)
@@ -2831,12 +2797,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing your Expo project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980)
+#### [Publishing your Expo project](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=0)** - [Instructor] Most of the functionality for a React Native map is found within the Javascript bundle which is great because if you can update the JavaScript bundle, that means you can push application updates directly to your user's phone.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=0)** - [Instructor] Most of the functionality for a [[React Native]] map is found within the [[JavaScript]] bundle which is great because if you can update the JavaScript bundle, that means you can push application updates directly to your user's phone.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=12)** Expo already provides the infrastructure and the environment to do this.
 >
@@ -2854,7 +2819,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=39)** But we also have our production icon and our production splash image here so we want to make sure that Expo knows where to find those when creating our application.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=47)** The app.json is a file that Expo uses when it builds your application.
+> **[0:47](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=47)** The app.[[JSON]] is a file that Expo uses when it builds your application.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=51)** It contains important configuration details about the application.
 >
@@ -2876,7 +2841,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=89)** We also need to make sure to manage our application version within this file as well.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=93)** And for this particular app, I only want to build iOS or Android applications so I'm going to go ahead and remove the web from our Platforms array.
+> **[1:33](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=93)** And for this particular app, I only want to build iOS or [[Android]] applications so I'm going to go ahead and remove the web from our Platforms array.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=100)** All right.
 >
@@ -2900,7 +2865,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=133)** I'm going to go ahead and open up a terminal window right within VS Code.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=137)** And in order to publish our application I can use the Expo CLI.
+> **[2:17](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=137)** And in order to publish our application I can use the Expo [[CLI]].
 >
 > **[2:21](https://www.linkedin.com/learning/learning-react-native/publishing-your-expo-project?u=76281980&t=141)** All I need to do is run Expo Publish and Expo will build your iOS JavaScript bundle, your Android JavaScript bundle, as well as place all of your assets online.
 >
@@ -2922,7 +2887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), [[JavaScript]] (4), [[Android]] (3), web (2), [[React Native]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Android]] (3), [[React Native]] (1), [[JSON]] (1), [[CLI]] (1)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** png (1), cli (1), url (1)
@@ -2931,8 +2896,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 
-#### Building for iOS devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980)
+#### [Building for iOS devices](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2950,7 +2914,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=23)** So let's say we wanted to build an iOS app and add it to the simulator.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=27)** The first thing that we need to do is come into the app.json and add some specific build details to our iOS configuration.
+> **[0:27](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=27)** The first thing that we need to do is come into the app.[[JSON]] and add some specific build details to our iOS configuration.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=33)** Specifically, we need a key called bundle identifier.
 >
@@ -2962,11 +2926,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=52)** I then want to add my iOS build number here.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=57)** With those changes made to the app.json, we can go ahead and open up the terminal, and use the Expo CLI to run expo build:iOS.
+> **[0:57](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=57)** With those changes made to the app.json, we can go ahead and open up the terminal, and use the Expo [[CLI]] to run expo build:iOS.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=65)** And then this will kick off our iOS build.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=68)** What's happening is Expo is actually using Xcode in the iOS SDKs to build your application on their servers so that you don't have to.
+> **[1:08](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=68)** What's happening is Expo is actually using [[Xcode]] in the iOS SDKs to build your application on their servers so that you don't have to.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=76)** In order to submit an app to the App Store, you're going to need an account.
 >
@@ -2974,7 +2938,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=83)** So I'll go ahead and say yes, and I can put in my Apple ID.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=87)** Now Expo can talk to the Apple developer portal on my behalf.
+> **[1:27](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=87)** Now Expo can talk to the [[Apple Developer]] portal on my behalf.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-react-native/building-for-ios-devices?u=76281980&t=91)** We can also let Expo manage the process of building service keys for push notifications.
 >
@@ -3022,7 +2986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), [[Xcode]] (3), [[JSON]] (2), [[CLI]] (2), [[Apple Developer]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[JSON]] (2), [[CLI]] (2), [[Apple Developer]] (1)
 > **Code Identifiers:** ios (12)
 > **CLI Commands:** unzip (2), find (1), tar (1)
 > **Prerequisites:** install (3), set up (1)
@@ -3031,14 +2995,13 @@ created: 2026-05-02
 > **Env Vars:** cli (2)
 > **Tools:** terminal (2)
 
-#### Building for Android devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980)
+#### [Building for Android devices](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=1)** - [Instructor] We can use Expo to help us build our application for Android devices.
+> **[0:01](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=1)** - [Instructor] We can use Expo to help us build our application for [[Android]] devices.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=5)** This means that you don't have to install Android Studio, or the Android STK to build an application that you're ready to distribute to the Google Play Store.
+> **[0:05](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=5)** This means that you don't have to install Android Studio, or the Android STK to build an application that you're ready to distribute to the [[Google]] Play Store.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=14)** So here we can see the color organizer is up and running within an Android simulator.
 >
@@ -3046,13 +3009,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=24)** Let's go ahead and build an Android application that we can install directly on this simulator.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=29)** The first thing I need to do is go into the app.json file and provide Android with some configuration information that it can use during the build process.
+> **[0:29](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=29)** The first thing I need to do is go into the app.[[JSON]] file and provide Android with some configuration information that it can use during the build process.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=36)** Specifically I have to name the package.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=39)** So in this case, we're going to do com.moonhighway.colorcatalog for the name of our Android application.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=46)** Once I have that saved, I can open up the terminal and use the Expo CLI to run Expo build:Android.
+> **[0:46](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=46)** Once I have that saved, I can open up the terminal and use the Expo [[CLI]] to run Expo build:Android.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-react-native/building-for-android-devices?u=76281980&t=53)** So doing this, we'll get asked if we want to manage our own KeyStore.
 >
@@ -3100,7 +3063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (14), application (10), [[Google]] (2), [[JSON]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Android]] (14), [[Google]] (2), [[JSON]] (1), [[CLI]] (1)
 > **Env Vars:** apk (4), stk (1), cli (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (3)
@@ -3109,18 +3072,17 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** means that (1)
 
-#### Ejecting from Expo
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980)
+#### [Ejecting from Expo](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=0)** - [Instructor] You could easily eject your application from Expo which would give you access to both the iOS and Android source files.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=0)** - [Instructor] You could easily eject your application from Expo which would give you access to both the iOS and [[Android]] source files.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=7)** In this lesson, we're going to go ahead and take a look at how we can eject the color catalog from Expo.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=11)** So you'll notice, we don't have any iOS files specifically or Android files specifically within our file folder.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=18)** So I'm going to go ahead and open up the Terminal, and using the Expo CLI, I can run expo eject.
+> **[0:18](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=18)** So I'm going to go ahead and open up the Terminal, and using the Expo [[CLI]], I can run expo eject.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=25)** Now be careful.
 >
@@ -3148,13 +3110,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=67)** So you will notice that we now have an iOS folder.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=70)** This is where our iOS project is based, So I could open up this project directly in Xcode.
+> **[1:10](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=70)** This is where our iOS project is based, So I could open up this project directly in [[Xcode]].
 >
 > **[1:19](https://www.linkedin.com/learning/learning-react-native/ejecting-from-expo?u=76281980&t=79)** I also have access to the Android source files, so I can also take this folder and drag it over the Android Studio, and this opens up our application within the Android Studio.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Android]] (6), [[CLI]] (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Android]] (6), [[CLI]] (1), [[Xcode]] (1)
 > **Code Identifiers:** ios (4)
 > **Env Vars:** cli (1)
 > **Tools:** terminal (1)
@@ -3168,12 +3130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=0)** - Thank you for joining me for Learning React Native.
+> **[0:00](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=0)** - Thank you for joining me for Learning [[React Native]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=2)** I hope you enjoyed this course.
 >
@@ -3187,7 +3148,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=14)** Lay out working screens and navigation to each screen.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=17)** Build some successful forms.
+> **[0:17](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=17)** Build some successful [[Forms]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=19)** Visually display your data points.
 >
@@ -3207,13 +3168,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=43)** Challenge yourself.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=45)** Most of software development is research.
+> **[0:45](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=45)** Most of [[Software Development]] is research.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=47)** If there's a specific feature that you'd like to add to your app, you could probably find a component for that or an API for that already within the React Native docs.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=56)** If you can't find something there, there's probably something available within the Expo SDK.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=62)** Finally, there's a lot of cool stuff that you can find just by searching npm.
+> **[1:02](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=62)** Finally, there's a lot of cool stuff that you can find just by searching [[npm]].
 >
 > **[1:06](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980&t=66)** A lot of common interactive elements have already been created, so don't reinvent the wheel.
 >
@@ -3223,7 +3184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (2), feature (2), [[Forms]] (1), data (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[React Native]] (2), [[Forms]] (1), [[Software Development]] (1), [[npm]] (1)
 > **CLI Commands:** find (3), npm (1)
 > **Env Vars:** api (1), sdk (1)
 > **Speakers:** - thank (1)

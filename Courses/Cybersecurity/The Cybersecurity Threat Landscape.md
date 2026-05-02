@@ -103,18 +103,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examine the cybersecurity threat landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
+#### [Examine the cybersecurity threat landscape](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=0)** - [Marc] Modern cyber attacks are constantly evolving.
 >
-> **[0:03](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=3)** Not long ago, internet of things devices and deep fakes didn't even exist.
+> **[0:03](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=3)** Not long ago, [[IoT|internet of things]] devices and deep fakes didn't even exist.
 >
 > **[0:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=9)** Now they're emerging threats that shouldn't be ignored.
 >
-> **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=12)** This unpredictable change requires organizations to frequently survey the threat landscape and reassess the strength of their cybersecurity.
+> **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=12)** This unpredictable change requires organizations to frequently survey the threat landscape and reassess the strength of their [[Cybersecurity]].
 >
 > **[0:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980&t=20)** Based on the threats, your organization may need to invest in new technologies and implement new security controls.
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (2), [[Internet of Things (IoT)|Internet of things]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[IoT|Internet of things]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [marc] (1)
 
@@ -149,12 +148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of malware and ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
+#### [Explore the threat of malware and ransomware](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=0)** - [Instructor] Malware has been a serious cybersecurity threat to both individuals and organizations since the late 1980s.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=0)** - [Instructor] Malware has been a serious [[Cybersecurity]] threat to both individuals and organizations since the late 1980s.
 >
 > **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=8)** Ransomware has many of the same characteristics of malware, so it makes sense to examine them together.
 >
@@ -162,11 +160,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=16)** Malware is a catchall term for any software that is designed to gain unauthorized access to computers or network equipment with the goals of causing damage, extracting information, or making money for the attackers.
 >
-> **[0:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=30)** Malware can take on many forms, including viruses, worms, Trojans, rootkits, adware, and spyware.
+> **[0:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=30)** Malware can take on many [[Forms]], including viruses, worms, Trojans, rootkits, adware, and spyware.
 >
 > **[0:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=38)** A growing form of malware attack is known as cryptojacking.
 >
-> **[0:43](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=43)** This malware variant exploits a vulnerable computer and uses its resources to mine cryptocurrency.
+> **[0:43](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=43)** This malware variant exploits a vulnerable computer and uses its resources to mine [[Cryptocurrency]].
 >
 > **[0:50](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=50)** While there are many types of malware, the infection methods are often similar.
 >
@@ -174,13 +172,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=59)** The first is system vulnerabilities.
 >
-> **[1:02](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=62)** These are flaws in hardware or software that allow malware to get installed and function.
+> **[1:02](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=62)** These are flaws in [[Hardware]] or software that allow malware to get installed and function.
 >
 > **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=68)** Usually, patches exist to fix these vulnerabilities, but users and organizations don't always apply these patches in a timely manner, leaving themselves exposed.
 >
 > **[1:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=78)** And even old vulnerabilities are still targeted by malware attackers.
 >
-> **[1:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=82)** In 2020, a Microsoft vulnerability first identified back in 2012 was still included in the FBI's list of the top 10 most exploited security flaws.
+> **[1:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=82)** In 2020, a [[Microsoft]] vulnerability first identified back in 2012 was still included in the FBI's list of the top 10 most exploited security flaws.
 >
 > **[1:33](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=93)** The second most common way that systems get infected with malware is users falling prey to social engineering.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=173)** Although ransomware can use any of the malware attack techniques I mentioned earlier, one of the most common is the fake urgent email with a malicious link or attachment designed to trick users to click the link or open the attachment.
 >
-> **[3:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=188)** This is a phishing attack, which is another threat I'll cover in this course.
+> **[3:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=188)** This is a [[Phishing]] attack, which is another threat I'll cover in this course.
 >
 > **[3:13](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980&t=193)** Due to their success and huge ransom demands, ransomware attacks have generated a lot of dramatic headlines, like this one about Acer getting charged up to a $100 million to get their data back after a ransomware attack.
 >
@@ -216,15 +214,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Engineering]] (2), data (2), [[Forms]] (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Forms]] (1), [[Cryptocurrency]] (1), [[Hardware]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (3), known as (2)
 > **Env Vars:** fbi (2), ic3 (1)
 > **Versions:** 29.1 (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against malware and ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980)
+#### [Protect against malware and ransomware](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,11 +261,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=93)** Firewalls are designed to prevent unauthorized traffic from getting directly to your systems.
 >
-> **[1:39](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=99)** Many forms of malware attempt to exploit systems that are directly connected to the internet without a firewall.
+> **[1:39](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=99)** Many [[Forms]] of malware attempt to exploit systems that are directly connected to the internet without a firewall.
 >
 > **[1:45](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=105)** There are also types of malware that once installed, attempt to communicate with a command and control system outside of the infected network.
 >
-> **[1:53](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=113)** Hardware and software firewalls can block these malicious traffic flows.
+> **[1:53](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=113)** [[Hardware]] and software firewalls can block these malicious traffic flows.
 >
 > **[1:58](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-malware-and-ransomware?u=76281980&t=118)** Finally, install anti malware software.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (3), traffic (2), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (3)
 > **Speakers:** - [instructor] (1)
@@ -290,12 +287,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of phishing and smishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
+#### [Explore the threat of phishing and smishing](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=0)** - [Instructor] Phishing and smishing are social engineering attacks designed to trick users into sharing sensitive personal information, like usernames, passwords, and credit card details with attackers.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=0)** - [Instructor] [[Phishing]] and smishing are social engineering attacks designed to trick users into sharing sensitive personal information, like usernames, passwords, and credit card details with attackers.
 >
 > **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=12)** Let's take a look at what these threats are and how they work.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=81)** One of the keys to a successful phishing attack is making the emails look like they came from trusted sources.
 >
-> **[1:27](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=87)** So phishing attackers frequently co-op trusted brands like Microsoft, Apple, Google, Chase, and Amazon.
+> **[1:27](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=87)** So phishing attackers frequently co-op trusted brands like [[Microsoft]], Apple, [[Google]], Chase, and Amazon.
 >
 > **[1:36](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=96)** Phishing email subject lines often have a certain style.
 >
@@ -345,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=136)** Common smishing text messages often impersonate a bank with an urgent message about how your account has been locked due to suspicious activity, or a recent payment was made and the bank needs your confirmation.
 >
-> **[2:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=148)** Then there's usually a link to a malicious site designed to steal your online banking credentials.
+> **[2:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=148)** Then there's usually a link to a malicious site designed to steal your online [[Banking]] credentials.
 >
 > **[2:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=154)** Smishing scams can also include text messages about winning a prize that you have to redeem through a website.
 >
@@ -361,23 +357,22 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=191)** If you buy the cards, the attackers will ask you to send them the codes, which will allow them to instantly extract the money off the cards.
 >
-> **[3:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=199)** Because both phishing and smishing attacks are cheap, simple, and effective, we can expect that they will continue to be among the most common attacks on the cybersecurity threat landscape.
+> **[3:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980&t=199)** Because both phishing and smishing attacks are cheap, simple, and effective, we can expect that they will continue to be among the most common attacks on the [[Cybersecurity]] threat landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (13), [[Engineering]] (1), [[Security]] (1), [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (13), [[Microsoft]] (1), [[Google]] (1), [[Banking]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** ceo (2), ibm (1), sms (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against phishing and smishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980)
+#### [Protect against phishing and smishing](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=0)** - [Instructor] While phishing may be one of the most common forms of attack on the cybersecurity threat landscape, there are straightforward ways to protect against it.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=0)** - [Instructor] While [[Phishing]] may be one of the most common [[Forms]] of attack on the [[Cybersecurity]] threat landscape, there are straightforward ways to protect against it.
 >
 > **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=8)** Let's look at five steps you can take which can reduce your exposure to the threat of phishing.
 >
@@ -431,7 +426,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=151)** They should also be trained to never click on links in suspicious text messages, respond to suspicious text messages, or send money or make purchases based on text messages without confirming through some other method, like a phone call directly to a person or company.
 >
-> **[2:47](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=167)** If you get repeated unwanted text messages from the same number, those can be blocked in the phone settings for both iPhone and Android mobile phones.
+> **[2:47](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=167)** If you get repeated unwanted text messages from the same number, those can be blocked in the phone settings for both iPhone and [[Android]] mobile phones.
 >
 > **[2:56](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-phishing-and-smishing?u=76281980&t=176)** Also check to see if your smartphone has other settings options to filter or block texts from unknown senders.
 >
@@ -439,7 +434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (11), [[Security]] (3), [[Forms]] (1), [[Cybersecurity]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Forms]] (1), [[Cybersecurity]] (1), [[Android]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -453,8 +448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of business email compromise
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
+#### [Explore the threat of business email compromise](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=30)** Their goal is to trick employees into making large payments or changing the payment process to send funds to a scammer's bank account.
 >
-> **[0:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=40)** The most common way the email accounts are hacked is through a phishing attack.
+> **[0:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=40)** The most common way the email accounts are hacked is through a [[Phishing]] attack.
 >
 > **[0:44](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=44)** Since the BEC criminals are going after specific email accounts, this is considered spear phishing.
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=54)** So, BEC attackers typically combine phishing, social engineering, and financial fraud to pull off these scams.
 >
-> **[1:01](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=61)** And it's likely they'll soon add another technology to the mix; deepfake audio, generated by artificial intelligence to make the request even more convincing to the victim.
+> **[1:01](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=61)** And it's likely they'll soon add another technology to the mix; deepfake audio, generated by [[Artificial Intelligence (AI)|artificial intelligence]] to make the request even more convincing to the victim.
 >
 > **[1:11](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=71)** I cover deepfakes in another video in this course.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=95)** Variations of BEC attacks include the false invoice scam; tricking the finance team to send a vendor invoice payment to a fraudulent account.
 >
-> **[1:45](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=105)** Payroll diversion; tricking HR to change the direct deposit banking information for an employee to send salary payments to a fraudulent account.
+> **[1:45](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=105)** Payroll diversion; tricking HR to change the direct deposit [[Banking]] information for an employee to send salary payments to a fraudulent account.
 >
 > **[1:55](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=115)** CEO fraud; tricking the finance team to send an emergency wire transfer for the CEO, which goes to a fraudulent account.
 >
@@ -494,7 +488,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=133)** And home buyer fraud; tricking home buyers into transferring funds to a fraudulent account.
 >
-> **[2:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=140)** While BEC may not be the most common cybersecurity threat, it is easily the most costly type of cyber crime.
+> **[2:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=140)** While BEC may not be the most common [[Cybersecurity]] threat, it is easily the most costly type of cyber crime.
 >
 > **[2:27](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980&t=147)** According to the FBI, losses in the US alone to BEC scams in 2021 were nearly $2.4 billion.
 >
@@ -510,19 +504,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), business (2), [[Cybersecurity]] (2), teams (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Cybersecurity]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1)
 > **Env Vars:** bec (11), ceo (2), fbi (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.4 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - business (1)
 
-#### Protect against business email compromise
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980)
+#### [Protect against business email compromise](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=0)** - [Instructor] Because business email compromise, or BEC, has characteristics similar to phishing attacks, some of the ways to protect against it will overlap.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=0)** - [Instructor] Because business email compromise, or BEC, has characteristics similar to [[Phishing]] attacks, some of the ways to protect against it will overlap.
 >
 > **[0:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=9)** In this video, I'll cover these as well as some unique methods to protect against BEC attacks.
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=40)** For instance, DKIM can be used to reject emails where the displayed domain doesn't match the domain of the originating email server.
 >
-> **[0:48](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=48)** Mike Chapple gives a good overview of these protocols in his CompTIA Cybersecurity Analyst+ course on LinkedIn Learning.
+> **[0:48](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=48)** Mike Chapple gives a good overview of these protocols in his CompTIA [[Cybersecurity]] Analyst+ course on [[LinkedIn]] Learning.
 >
 > **[0:57](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=57)** Next, enable multifactor authentication, or MFA, especially on email accounts.
 >
@@ -542,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=69)** Once enabled, never disable MFA.
 >
-> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=72)** User security awareness training is another important protection against BEC attacks.
+> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=72)** User [[Security Awareness]] training is another important protection against BEC attacks.
 >
 > **[1:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=78)** Train users about these attacks and that they should be suspicious of urgent-sounding or unusual emails that request transferring funds.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=134)** In some cases, money transfers can be frozen or canceled.
 >
-> **[2:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=138)** Next, if you're in the US, report the crime to your local FBI field office.
+> **[2:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=138)** Next, if you're in the US, report the crime to your local FBI field [[Microsoft Office|office]].
 >
 > **[2:23](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-business-email-compromise?u=76281980&t=143)** If you're outside the US, contact your equivalent law enforcement agency.
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Phishing]] (2), [[Cybersecurity]] (2), next (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Security Awareness]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** bec (8), dkim (2), mfa (2), fbi (2), spf (1)
 > **Analogies:** similar to (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
@@ -587,8 +580,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of botnets and DDoS attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
+#### [Explore the threat of botnets and DDoS attacks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +588,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=8)** Let's take a look at botnets and DDoS attacks.
 >
-> **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=12)** A botnet is a collection of computers or internet of things devices, which have been infected by malware, allowing a malicious actor to take remote control of them.
+> **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=12)** A botnet is a collection of computers or [[IoT|internet of things]] devices, which have been infected by malware, allowing a malicious actor to take remote control of them.
 >
 > **[0:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=22)** Because so many systems can come under one attacker's control, botnets can become a serious force multiplier, allowing an attacker to inflict a lot more damage than they could accomplish on their own.
 >
@@ -630,18 +622,17 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=140)** The ever increasing number of poorly secured internet connected devices and the chance to use them to make money is driving the growth of botnets and DDoS attacks.
 >
-> **[2:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=150)** This is why we can expect botnets and DDoS attacks to continue playing a big role in the cybersecurity threat landscape for some time.
+> **[2:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980&t=150)** This is why we can expect botnets and DDoS attacks to continue playing a big role in the [[Cybersecurity]] threat landscape for some time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against botnets and DDoS threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980)
+#### [Protect against botnets and DDoS threats](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=64)** Third, consider using DDoS defense systems or service providers that specialize in protecting organizations from these attacks.
 >
-> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=72)** CloudFlare for instance provides a service that can absorb DDoS traffic and route only legitimate traffic to your web servers.
+> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=72)** CloudFlare for instance provides a service that can absorb DDoS traffic and route only legitimate traffic to your [[Web Servers]].
 >
 > **[1:21](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=81)** Next, a good network monitoring system will detect unusual internet traffic like a DDoS attack once it starts.
 >
@@ -695,7 +686,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=172)** Implement anti-spam controls on your email server.
 >
-> **[2:55](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=175)** Use web filtering to block access to sites that commonly host malware, and conduct regular user security awareness training and phishing training.
+> **[2:55](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=175)** Use web filtering to block access to sites that commonly host malware, and conduct regular user [[Security Awareness]] training and [[Phishing]] training.
 >
 > **[3:05](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-botnets-and-ddos-threats?u=76281980&t=185)** These may seem like basic security tasks, but they'll go a long way toward protecting your systems from becoming part of a botnet.
 >
@@ -707,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Security]] (5), web (2), next (2), web application (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Security Awareness]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
 > **Analogies:** for instance (1)
@@ -719,16 +710,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the threat of zero-day attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
+#### [Exploring the threat of zero-day attacks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=0)** - [Instructor] Zero-day attacks are one of the most feared threats in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=0)** - [Instructor] Zero-day attacks are one of the most feared threats in [[Cybersecurity]].
 >
 > **[0:04](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=4)** So what exactly is a zero-day attack?
 >
-> **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=8)** Essentially, it's an exploit that targets a vulnerability in software or hardware unknown to the vendor and users.
+> **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=8)** Essentially, it's an exploit that targets a vulnerability in software or [[Hardware]] unknown to the vendor and users.
 >
 > **[0:14](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980&t=14)** Because no one knows about the flaw, they haven't had a chance to patch it, leaving systems open to attacks.
 >
@@ -762,17 +752,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Hardware]] (2), data (2), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Hardware]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mitigating zero-day attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980)
+#### [Mitigating zero-day attacks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=0)** - [Presenter] Zero-day attacks are among the most challenging cybersecurity threats to defend against because they exploit unknown vulnerabilities.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=0)** - [Presenter] Zero-day attacks are among the most challenging [[Cybersecurity]] threats to defend against because they exploit unknown vulnerabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=8)** Let's explore how you can protect your organization from these elusive threats.
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=66)** Implement tools like security information and event management or SIEM systems that use machine learning and AI to detect unusual activities in your network.
 >
-> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=76)** SIEM systems analyze patterns and behaviors to spot anomalies, aggregate data from various sources and provide real-time threat detection.
+> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=76)** SIEM systems analyze patterns and behaviors to spot anomalies, aggregate data from various sources and provide [[Real-Time]] threat detection.
 >
 > **[1:24](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=84)** Regularly reviewing logs and conducting thorough audits can also help in early detection.
 >
@@ -806,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=98)** This includes isolating affected systems, conducting a detailed investigation, and communicating with stakeholders.
 >
-> **[1:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=106)** Ensure your incident response team is well-trained and conducts regular drills to stay repaired.
+> **[1:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=106)** Ensure your [[Incident Response]] team is well-trained and conducts regular drills to stay repaired.
 >
 > **[1:52](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks-24381111?u=76281980&t=112)** Employee training and awareness are also key components in your defense strategy.
 >
@@ -822,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), management (2), next (1), ai (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Real-Time]] (1), [[Incident Response]] (1)
 > **Env Vars:** siem (2), cisa (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -833,8 +822,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the threat of AI-based cyberattacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
+#### [Exploring the threat of AI-based cyberattacks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980&t=82)** The combination of realistic email and voice can be incredibly convincing and difficult to detect.
 >
-> **[1:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980&t=88)** AI can also be used to enhance phishing attacks.
+> **[1:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980&t=88)** AI can also be used to enhance [[Phishing]] attacks.
 >
 > **[1:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980&t=91)** AI-powered phishing emails can analyze past communications to craft messages that perfectly mimic the writing style of the person being impersonated, making these attacks even more believable and dangerous.
 >
@@ -874,17 +862,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Phishing]] (2), [[Engineering]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **Env Vars:** ceo (3), cgi (1), bec (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting against AI-based cyberattacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980)
+#### [Protecting against AI-based cyberattacks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=0)** - [Instructor] AI-based cyber attacks, including deep fakes and AI-powered phishing, are designed to be hard to detect, and this will only get more challenging as technology improves.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=0)** - [Instructor] AI-based cyber attacks, including deep fakes and AI-powered [[Phishing]], are designed to be hard to detect, and this will only get more challenging as technology improves.
 >
 > **[0:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=9)** But there are ways to protect yourself and your organization.
 >
@@ -908,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=93)** The best way to verify a request is face-to-face, but if that's not possible, call the person back at their official phone number to confirm the request and ask a test question that the person would know the answer to but attackers probably wouldn't.
 >
-> **[1:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=106)** For instance, their favorite sports team or a specific detail about their office.
+> **[1:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=106)** For instance, their favorite sports team or a specific detail about their [[Microsoft Office|office]].
 >
 > **[1:51](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-ai-based-cyberattacks?u=76281980&t=111)** Ensure the finance department has authorization processes to confirm transactions and payment changes which can't be done with a simple phone call or email.
 >
@@ -916,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Phishing]] (3), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Microsoft Office|Office]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
@@ -926,8 +913,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the threat of advanced persistent threats (APTs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
+#### [Exploring the threat of advanced persistent threats (APTs)](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=61)** The process usually begins with reconnaissance, where attackers gather as much information as possible about their target.
 >
-> **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=68)** Next, they move to the initial compromise stage, often gaining entry through phishing emails or exploiting known vulnerabilities.
+> **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=68)** Next, they move to the initial compromise stage, often gaining entry through [[Phishing]] emails or exploiting known vulnerabilities.
 >
 > **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=76)** Once inside, attackers establish a foothold, installing backdoors and malware to ensure they can return, even if discovered.
 >
@@ -967,7 +953,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=112)** These threats can lead to severe data breaches, financial losses, reputational damage, and even pose risks to national security.
 >
-> **[2:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=120)** For example, the healthcare industry has been a frequent target of APTs, with attackers aiming to steal patient data, which can be sold on the dark web for significant profit.
+> **[2:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=120)** For example, the [[Healthcare Industry]] has been a frequent target of APTs, with attackers aiming to steal patient data, which can be sold on the dark web for significant profit.
 >
 > **[2:10](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980&t=130)** Government agencies are also prime targets, with attackers seeking access to classified information that can be used for espionage or to disrupt national security.
 >
@@ -977,15 +963,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), next (3), [[Phishing]] (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Healthcare Industry]] (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** apt (1)
 > **Env Vars:** apt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting against advanced persistent threats (APTs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980)
+#### [Protecting against advanced persistent threats (APTs)](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,13 +982,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=15)** Staying informed about emerging threats is crucial.
 >
-> **[0:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=18)** By subscribing to threat intelligence feeds and connecting with the cybersecurity community, you can receive timely updates about new vulnerabilities and exploits.
+> **[0:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=18)** By subscribing to threat intelligence feeds and connecting with the [[Cybersecurity]] community, you can receive timely updates about new vulnerabilities and exploits.
 >
 > **[0:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=28)** For example, subscribing to notifications from the Cybersecurity and Infrastructure Security Agency or CISA, can provide valuable alerts and updates.
 >
 > **[0:36](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=36)** A multi-layered security approach is essential in defending against APTs.
 >
-> **[0:42](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=42)** This means implementing security measures like firewalls, intrusion detection systems, and antivirus software.
+> **[0:42](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=42)** This means implementing security measures like firewalls, [[Intrusion Detection]] systems, and antivirus software.
 >
 > **[0:49](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=49)** Additionally, regular software updates and patch management are crucial.
 >
@@ -1011,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=60)** Your employees play a key role in preventing APTs.
 >
-> **[1:03](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=63)** Regular security awareness training sessions are essential.
+> **[1:03](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=63)** Regular [[Security Awareness]] training sessions are essential.
 >
 > **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=68)** Educate your staff about security best practices and the importance of vigilance.
 >
@@ -1019,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=78)** Encourage them to report suspicious activities and ensure they understand their role in maintaining cybersecurity.
 >
-> **[1:25](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=85)** Finally, having a well-defined incident response plan is vital.
+> **[1:25](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=85)** Finally, having a well-defined [[Incident Response]] plan is vital.
 >
 > **[1:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protecting-against-advanced-persistent-threats-apts?u=76281980&t=90)** Your plan should detail the actions to take when an APT is detected.
 >
@@ -1033,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (3), [[Incident Response]] (2), [[Intrusion Detection]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Incident Response]] (2), [[Intrusion Detection]] (1), [[Security Awareness]] (1)
 > **Env Vars:** cisa (1), apt (1)
 > **CLI Commands:** apt (1)
 > **Analogies:** for example (1)
@@ -1044,12 +1029,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the risk of insider threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
+#### [Explore the risk of insider threats](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=0)** - [Instructor] When we think about the cybersecurity threat landscape, it's easy to focus on attackers coming from the outside but internal threats can sometimes be just as dangerous if not more dangerous than outside threats.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=0)** - [Instructor] When we think about the [[Cybersecurity]] threat landscape, it's easy to focus on attackers coming from the outside but internal threats can sometimes be just as dangerous if not more dangerous than outside threats.
 >
 > **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=12)** In this video, I'll cover what insider threats are and why we should be concerned about them.
 >
@@ -1063,13 +1047,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=64)** Types of malicious insider attacks include sabotage, where the goal is to damage systems or destroy data.
 >
-> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=72)** Fraud, which can come in many forms, but often involves criminal financial transactions.
+> **[1:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=72)** Fraud, which can come in many [[Forms]], but often involves criminal financial transactions.
 >
 > **[1:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=78)** Theft of sensitive data or intellectual property.
 >
 > **[1:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=82)** And espionage, where the attacker steals sensitive data to sell to competitors.
 >
-> **[1:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=88)** An example of a real world malicious insider attack was the case of a trusted software engineer at a cloud services provider who went rogue.
+> **[1:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=88)** An example of a real world malicious insider attack was the case of a trusted software engineer at a [[Cloud Services]] provider who went rogue.
 >
 > **[1:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980&t=98)** She hacked into one of their customers using a firewall vulnerability that she found.
 >
@@ -1095,11 +1079,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Cybersecurity]] (2), [[Security]] (2), business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Forms]] (1), [[Cloud Services]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against insider threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980)
+#### [Protect against insider threats](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,11 +1136,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=149)** Regularly review each user's privileges to make sure they're not excessive.
 >
-> **[2:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=154)** And use network segmentation to isolate the critical assets from the rest of the network.
+> **[2:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=154)** And use network segmentation to isolate the critical assets from the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[2:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=160)** This will help protect those assets from insider threats who shouldn't have access to those parts of the network.
 >
-> **[2:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=166)** Finally, user security awareness training can be an important way to protect against insider threats.
+> **[2:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=166)** Finally, user [[Security Awareness]] training can be an important way to protect against insider threats.
 >
 > **[2:52](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=172)** Teach users about the acceptable use of your organization's assets.
 >
@@ -1165,11 +1148,11 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=182)** And remind users to report any suspicious activity to the appropriate parties in your organization.
 >
-> **[3:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=189)** Although insider threats are a growing part of the cybersecurity threat landscape, you can take the steps I covered in this video to help protect your organization against them.
+> **[3:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-insider-threats?u=76281980&t=189)** Although insider threats are a growing part of the [[Cybersecurity]] threat landscape, you can take the steps I covered in this video to help protect your organization against them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), hr (2), business (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Security Awareness]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sim (2)
 > **Definitions:** is a  (1)
@@ -1180,16 +1163,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of unmanaged IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
+#### [Explore the threat of unmanaged IoT devices](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=0)** - [Instructor] The internet of Things, or IoT can be the source of major cybersecurity threats, including data leakage, distributed denial of service attacks, and any attack that can be launched from botnets.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=0)** - [Instructor] The [[IoT|internet of Things]], or [[IoT]] can be the source of major [[Cybersecurity]] threats, including data leakage, distributed denial of service attacks, and any attack that can be launched from botnets.
 >
 > **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=12)** Let's take a look at what the Internet of Things is and why it's part of the cybersecurity threat landscape.
 >
-> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=19)** More and more devices are being connected to the internet in the name of convenience and control, key drivers for the growth of IoT devices include the rise of cloud computing as the foundational technology for IoT, plummeting cost of IoT devices, common usage of smartphones and tablets to control IoT devices, and easy access to wifi.
+> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=19)** More and more devices are being connected to the internet in the name of convenience and control, key drivers for the growth of IoT devices include the rise of [[Cloud Computing]] as the foundational technology for IoT, plummeting cost of IoT devices, common usage of smartphones and tablets to control IoT devices, and easy access to wifi.
 >
 > **[0:44](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=44)** Practically any electronic device can be connected to the internet and become an IoT device.
 >
@@ -1229,20 +1211,19 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=199)** They're proposing minimum security standards for device manufacturers and labeling to raise the awareness of users about how secure their devices are.
 >
-> **[3:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=208)** These requirements are being enforced as laws like the IoT cybersecurity improvement act which was signed into US law in 2020, but with next generation internet capabilities like 5g dramatically increasing data speeds and throughput, we may see IoT devices continue being a key player on the cybersecurity threat landscape well into the future.
+> **[3:28](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=208)** These requirements are being enforced as laws like the IoT cybersecurity improvement act which was signed into US law in 2020, but with next generation internet capabilities like [[5G]] dramatically increasing data speeds and throughput, we may see IoT devices continue being a key player on the cybersecurity threat landscape well into the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (21), [[Security]] (5), [[Cybersecurity]] (4), [[Internet of Things (IoT)|Internet of things]] (2), data (2)
+> **Frameworks & Libraries:** [[IoT]] (21), [[Cybersecurity]] (4), [[IoT|Internet of things]] (2), [[Cloud Computing]] (1), [[5G]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against unmanaged IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980)
+#### [Protect against unmanaged IoT devices](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=0)** - [Instructor] The number of Internet of Things or IoT devices is growing rapidly and so are the related threats when they're deployed in an unsecure way.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=0)** - [Instructor] The number of [[IoT|Internet of Things]] or [[IoT]] devices is growing rapidly and so are the related threats when they're deployed in an unsecure way.
 >
 > **[0:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=9)** The good news is there are some straightforward steps you can take to protect your organization from the threat of unmanaged IoT devices.
 >
@@ -1252,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=29)** So we'll start by looking at a few effective security actions you can take at the network level even if the IoT devices themselves are hard to secure.
 >
-> **[0:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=38)** First, you should conduct an IT asset inventory, run network scans like Nmap to know which systems and devices are on your network.
+> **[0:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=38)** First, you should conduct an IT asset inventory, run network scans like [[Nmap]] to know which systems and devices are on your network.
 >
 > **[0:47](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=47)** This will help you identify IoT devices you may not have known about.
 >
@@ -1294,7 +1275,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=150)** They may include important security fixes that will help protect your IoT devices from attacks.
 >
-> **[2:36](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=156)** The Open Web Application Security Project or OWASP published the IoT top 10, which is a list of the key vulnerabilities to avoid when building, deploying, or managing IoT systems.
+> **[2:36](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=156)** The Open [[Web Application Security]] Project or [[OWASP]] published the IoT top 10, which is a list of the key vulnerabilities to avoid when building, deploying, or managing IoT systems.
 >
 > **[2:50](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-unmanaged-iot-devices?u=76281980&t=170)** If you're responsible for securing IoT devices, I recommend reviewing this list to make sure you've protected against all of these vulnerabilities.
 >
@@ -1302,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (17), [[Security]] (5), next (2), [[Internet of Things (IoT)|Internet of things]] (1), traffic (1)
+> **Frameworks & Libraries:** [[IoT]] (17), [[IoT|Internet of things]] (1), [[Nmap]] (1), [[Web Application Security]] (1), [[OWASP]] (1)
 > **Prerequisites:** install (2), configure (1)
 > **CLI Commands:** make (2)
 > **Ports:** port 23 (1)
@@ -1316,12 +1297,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the threat of shadow IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
+#### [Explore the threat of shadow IT](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=0)** - [Instructor] Most of the dangers on the cybersecurity threat landscape come from malicious actors outside of your organization.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=0)** - [Instructor] Most of the dangers on the [[Cybersecurity]] threat landscape come from malicious actors outside of your organization.
 >
 > **[0:07](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=7)** Shadow IT is different though because this threat comes from within your organization and many times it's not malicious.
 >
@@ -1329,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=17)** Let's take a look at Shadow IT and why it's part of the cybersecurity threat landscape.
 >
-> **[0:23](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=23)** Shadow IT refers to the unauthorized use of systems, software, personal devices, or cloud services by enterprise employees.
+> **[0:23](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=23)** Shadow IT refers to the unauthorized use of systems, software, personal devices, or [[Cloud Services]] by enterprise employees.
 >
 > **[0:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=34)** To best manage and secure IT systems, all technology purchases should be approved and budgeted by a shared services IT function, but users will sometimes go around IT and purchase technology with their own budget.
 >
@@ -1339,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=64)** There are many reasons behind the rise of Shadow IT but some of the most common are understaffed IT departments that can't support the IT needs of users.
 >
-> **[1:15](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=75)** The perception by users that IT is too slow or restrictive with technology deployments, and easy access to software as a service or SaaS solutions like Dropbox, Salesforce, or Amazon web services.
+> **[1:15](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=75)** The perception by users that IT is too slow or restrictive with technology deployments, and easy access to [[SaaS|software as a service]] or [[SaaS]] solutions like Dropbox, Salesforce, or [[Amazon Web Services (AWS)|Amazon web services]].
 >
 > **[1:29](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980&t=89)** Shadow IT can represent a large amount of spending in organizations.
 >
@@ -1371,13 +1351,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (4), [[Cybersecurity]] (3), cloud (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Cloud Services]] (1), [[SaaS]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against shadow IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980)
+#### [Protect against shadow IT](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1372,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=31)** If you don't have a current inventory of your sanctioned IT assets, you won't be able to identify shadow IT systems.
 >
-> **[0:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=38)** Run an Nmap scan or use a similar tool to get a baseline of systems currently on your network.
+> **[0:38](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=38)** Run an [[Nmap]] scan or use a similar tool to get a baseline of systems currently on your network.
 >
 > **[0:44](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=44)** Review the results to make sure all systems you found are authorized and deal with any that aren't.
 >
@@ -1407,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=68)** Finally, implement and enforce strong security policies that prohibit unauthorized deployment of IT systems or solutions.
 >
-> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=76)** Security policy should be approved by [[Executive Leadership]] and should clearly state what is allowed when it comes to IT deployments.
+> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=76)** Security policy should be approved by [[[[Executive Leadership]]]] and should clearly state what is allowed when it comes to IT deployments.
 >
 > **[1:24](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=84)** That way, you'll have an answer when asked why shadow IT systems need to be removed.
 >
@@ -1427,9 +1406,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=138)** Finally, consider using a cloud access security broker or CASB.
 >
-> **[2:24](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=144)** CASB is a technology that sits between users and the cloud services they try to use.
+> **[2:24](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=144)** CASB is a technology that sits between users and the [[Cloud Services]] they try to use.
 >
-> **[2:29](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=149)** CASBs can enforce security controls on the use of software as a service or SaaS applications.
+> **[2:29](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=149)** CASBs can enforce security controls on the use of [[SaaS|software as a service]] or [[SaaS]] applications.
 >
 > **[2:36](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=156)** They can also monitor your organization's network traffic to detect any cloud-based applications in use.
 >
@@ -1439,7 +1418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), cloud (3), next (2), [[SaaS]] (2), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Nmap]] (1), [[Executive Leadership]] (1), [[Cloud Services]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** nac (2), casb (2), siem (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1452,8 +1431,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The threat of supply chain attacks and third-party risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
+#### [The threat of supply chain attacks and third-party risks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,13 +1443,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=15)** This attack surface is also one of the most challenging to protect.
 >
-> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=19)** In this video, I'll cover what supply chain and third party risks are and why they're part of the cybersecurity threat landscape.
+> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=19)** In this video, I'll cover what supply chain and third party risks are and why they're part of the [[Cybersecurity]] threat landscape.
 >
 > **[0:27](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=27)** Every organization has suppliers.
 >
 > **[0:30](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=30)** They provide the needed resources for that organization to function.
 >
-> **[0:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=34)** These suppliers can be software as a service or other technology providers that are critical to your business.
+> **[0:34](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=34)** These suppliers can be [[SaaS|software as a service]] or other technology providers that are critical to your business.
 >
 > **[0:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=40)** And these suppliers have their own suppliers, and those suppliers have suppliers, and so on.
 >
@@ -1489,7 +1467,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=86)** On top of that, consider all the data your organization stores with third parties.
 >
-> **[1:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=91)** Cloud-based software as a service, or a SAS applications like Dropbox, Salesforce, and Google Drive can store some of your organization's most critical data.
+> **[1:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=91)** Cloud-based software as a service, or a SAS applications like Dropbox, Salesforce, and [[Google Drive]] can store some of your organization's most critical data.
 >
 > **[1:40](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=100)** And your organization may be storing its data with other third parties that aren't SAS apps.
 >
@@ -1507,7 +1485,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=138)** And opensource software can contain vulnerabilities or even malicious code.
 >
-> **[2:23](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=143)** For instance, and opensource Java logging library called LOG4J was used by software found on millions of servers around the world.
+> **[2:23](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=143)** For instance, and opensource [[Java]] logging library called LOG4J was used by software found on millions of servers around the world.
 >
 > **[2:32](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980&t=152)** But a zero day vulnerability was found in LOG4J which allowed remote code execution attacks that could be used to compromise these servers.
 >
@@ -1519,14 +1497,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (2), [[SaaS|Software as a service]] (2), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[SaaS|Software as a service]] (2), [[Google Drive]] (1), [[Java]] (1)
 > **Env Vars:** log4j (3), sas (2)
 > **Analogies:** for instance (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against supply chain attacks and third-party risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980)
+#### [Protect against supply chain attacks and third-party risks](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1570,7 +1547,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=132)** But no matter how you tackle it, a good TPRM is the best way to manage and reduce many supply chain and third-party risks.
 >
-> **[2:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=140)** When it comes to your software supply chain, here are some steps you can take to reduce the risk of vulnerable or malicious open-source software being included in your organization's code.
+> **[2:20](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=140)** When it comes to your software supply chain, here are some steps you can take to reduce the risk of vulnerable or malicious [[Open-Source Software]] being included in your organization's code.
 >
 > **[2:31](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=151)** First, you should conduct software code inventories or audits.
 >
@@ -1580,9 +1557,9 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=168)** SBOMs are like the list of ingredients on a food package, and they can identify where open-source software is used in your organization's code.
 >
-> **[2:57](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=177)** You can find more information about SBOMs, including how to generate them, on the National Telecommunications and Information Administration website at [ntia.gov/sbom](https://ntia.gov/sbom).
+> **[2:57](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=177)** You can find more information about SBOMs, including how to generate them, on the National [[Telecommunications]] and Information Administration website at [ntia.gov/sbom](https://ntia.gov/sbom).
 >
-> **[3:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=189)** There are also application security companies that can analyze your developers' code to generate SBOMs for you.
+> **[3:09](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=189)** There are also [[Application Security]] companies that can analyze your developers' code to generate SBOMs for you.
 >
 > **[3:15](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-supply-chain-attacks-and-third-party-risks?u=76281980&t=195)** Next, review the results of the SBOMs with your developers, focusing on the open-source software.
 >
@@ -1596,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), open-source (5), management (2), business (2), next (2)
+> **Frameworks & Libraries:** [[Open-Source Software]] (5), [[Telecommunications]] (1), [[Application Security]] (1)
 > **Env Vars:** tprm (4), mfa (1), siem (1), sbom (1)
 > **CLI Commands:** find (1)
 > **URLs:** [ntia.gov](https://ntia.gov) (1)
@@ -1609,12 +1586,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay up to date on cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)
+#### [Stay up to date on cybersecurity](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=0)** - [Instructor] In this course I've described some of the most common cybersecurity threats you're likely to encounter.
+> **[0:00](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=0)** - [Instructor] In this course I've described some of the most common [[Cybersecurity]] threats you're likely to encounter.
 >
 > **[0:06](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=6)** To best protect against them, your next step after watching these videos would be to figure out which of these threats apply to your organization.
 >
@@ -1632,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=44)** First, stay up to date with changes in the cybersecurity threat landscape.
 >
-> **[0:49](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=49)** I recommend subscribing to security newsletters like SANS NewBites and Bruce Schneier's Crypto-gram.
+> **[0:49](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=49)** I recommend subscribing to security [[Newsletters]] like SANS NewBites and Bruce Schneier's Crypto-gram.
 >
 > **[0:56](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=56)** There are a lot of weekly security podcasts that cover current cybersecurity threats like Security Weekly News and Defense in Depth.
 >
@@ -1644,15 +1620,15 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=82)** Conferences and seminars are also good ways to connect with security professionals who have firsthand knowledge of the latest cybersecurity threats and how they've dealt with them.
 >
-> **[1:33](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=93)** Finally, hire security professionals who specialize in cybersecurity threat simulation and management.
+> **[1:33](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=93)** Finally, hire security professionals who specialize in cybersecurity threat [[Simulation]] and management.
 >
-> **[1:39](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=99)** These include companies and consultants who conduct penetration tests, threat modeling, and DDoS simulations.
+> **[1:39](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=99)** These include companies and consultants who conduct penetration tests, [[Threat Modeling]], and DDoS simulations.
 >
 > **[1:46](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980&t=106)** I hope you use the knowledge you gain from this course to protect you and your organization from current and future cybersecurity threats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (8), next (2), [[Newsletters]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Newsletters]] (1), [[Simulation]] (1), [[Threat Modeling]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sans (1)
 > **Speakers:** - [instructor] (1)

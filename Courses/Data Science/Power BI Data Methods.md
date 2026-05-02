@@ -117,14 +117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data at the core of Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980)
+#### [The data at the core of Power BI](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980&t=0)** - The key to any data dashboard is the data itself, but handling that data can sometimes be a bit difficult.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980&t=6)** So in this course, I'll teach you how to handle your data more efficiently using Power BI.
+> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980&t=6)** So in this course, I'll teach you how to handle your data more efficiently using [[Microsoft Power BI|Power BI]].
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980&t=11)** Ultimately, you want to set up your data in a way that's sufficient, scalable, and repeatable.
 >
@@ -140,25 +139,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (2), bi (2), etl (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** etl (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=0)** - [Instructor] To maximize your learning and utilization from the content in this course, you should already be familiar with how to navigate and use Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=0)** - [Instructor] To maximize your learning and utilization from the content in this course, you should already be familiar with how to navigate and use [[Microsoft Power BI|Power BI]].
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=8)** You want to know how the workflow within Power BI works on a high level, which includes importing data through the Power Query editor, loading it into Power BI, and creating visuals with this data.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=8)** You want to know how the workflow within Power BI works on a high level, which includes importing data through the [[Microsoft Power Query|Power Query]] editor, loading it into Power BI, and creating visuals with this data.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=20)** We're going to focus on the data part of this process in this course, but if you would like to learn more about visuals within Power BI and other tools, I highly recommend checking out other courses in the library on these topics.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=33)** You'll also want to be comfortable using Excel, working with data in a tabular format and basic data types like dates, numbers, and strings, and how to switch between them.
+> **[0:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=33)** You'll also want to be comfortable using [[Microsoft Excel|Excel]], working with data in a tabular format and basic data types like dates, numbers, and strings, and how to switch between them.
 >
-> **[0:44](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=44)** And unfortunately, Power BI is only available on a Windows machine, so you'll need one of those as well.
+> **[0:44](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=44)** And unfortunately, Power BI is only available on a [[Windows]] machine, so you'll need one of those as well.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/what-you-should-know?u=76281980&t=51)** If you want to follow along, you'll need at least a Power BI pro account to test out loading and using the data.
 >
@@ -166,12 +164,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), data (6), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Course project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980)
+#### [Course project overview](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=5)** In addition to our marketing, let's also say that we want to help them figure out an optimal time to visit Southern California by analyzing weather trends.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=15)** Weather data sets are a great way to explore data methods for tools like Power BI.
+> **[0:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=15)** Weather data sets are a great way to explore data methods for tools like [[Microsoft Power BI|Power BI]].
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=20)** It's relevant to almost everyone, consistent over time and frequently updated.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=134)** If we want more information on the geographical locations of these stations, we can take a closer look at them on the map.
 >
-> **[2:22](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=142)** If we click on the hyperlink to view full details for the Santa Barbara Municipal Airport, we can see the metadata for that station.
+> **[2:22](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=142)** If we click on the hyperlink to view full details for the Santa Barbara Municipal Airport, we can see the [[Metadata]] for that station.
 >
 > **[2:32](https://www.linkedin.com/learning/power-bi-data-methods-23487089/course-project-overview?u=76281980&t=152)** This includes the date range of available daily data points that go back to 1941 and the percentage of data coverage over this time period.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Search]] (6), power (3), bi (3), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Metadata]] (1)
 > **Env Vars:** csv (5), cdo (3), pdf (3), nws (1), noaa (1)
 > **UI Navigation:** click on (6), dropdown (2), select the (1), checkbox (1)
 > **Cross-References:** go back to (2), later in (1)
@@ -287,20 +284,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980)
+#### [Working with Power Query](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=0)** - [Instructor] In the last few years, we've seen a surge in data volume and speed, as well as an increased demand to understand and analyze trends from this data.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=10)** Power BI allows us to scale up to this demand by creating models and reports that cater to business users and decision-makers.
+> **[0:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=10)** [[Microsoft Power BI|Power BI]] allows us to scale up to this demand by creating models and reports that cater to business users and decision-makers.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=19)** But before we get started with Power BI itself, let's talk about one of the most important functions built into Power BI, Power Query.
+> **[0:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=19)** But before we get started with Power BI itself, let's talk about one of the most important functions built into Power BI, [[Microsoft Power Query|Power Query]].
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=28)** Using Power Query enables us to connect to and transform data before we load it into our Power BI models.
 >
-> **[0:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=36)** Power Query Editor formulas share similarities with their Excel counterparts, so you should already be familiar with many of these commands, but there are a few key differences that are important to know.
+> **[0:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=36)** Power Query Editor formulas share similarities with their [[Microsoft Excel|Excel]] counterparts, so you should already be familiar with many of these commands, but there are a few key differences that are important to know.
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980&t=48)** First, Excel formulas are not case sensitive, while Power Query formulas are.
 >
@@ -330,21 +326,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (10), data (7), power (4), bi (4), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (10), [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (4)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The extract, transform, load (ETL) framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980)
+#### [The extract, transform, load (ETL) framework](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=0)** - [Instructor] To use Power Query effectively, you'll want to be familiar with the ETL framework.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=0)** - [Instructor] To use [[Microsoft Power Query|Power Query]] effectively, you'll want to be familiar with the ETL framework.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=5)** It's a must-know for working with any type of data intake framework, including working with Power BI.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=5)** It's a must-know for working with any type of data intake framework, including working with [[Microsoft Power BI|Power BI]].
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=11)** The acronym ETL stands for Extract, Transform, and Load.
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=23)** Extracting the data enables us to connect to a variety of built-in and other connectors directly within Power Query.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=30)** Power BI has over 100 data connectors available directly in the application, including connecting to both cloud and on-premises databases, web connections, and flat files stored either in a computer or online.
+> **[0:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=30)** Power BI has over 100 data connectors available directly in the application, including connecting to both cloud and on-premises [[Databases]], web connections, and flat files stored either in a computer or online.
 >
 > **[0:43](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=43)** Transforming the data enables us to take this initial data connection and transform it into a tabular data format that we can use in Power BI.
 >
@@ -360,13 +355,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=57)** This includes cleaning the data to remove unnecessary spaces, correcting spelling issues, and choosing the correct data types.
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=66)** Data enrichment involves adding columns to the queries or filtering our data, for example, Data integration includes changing the overall structure of our data by doing transformations, like transposing, pivoting, or grouping the data table.
+> **[1:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=66)** Data enrichment involves adding columns to the queries or filtering our data, for example, [[Data Integration]] includes changing the overall structure of our data by doing transformations, like transposing, pivoting, or grouping the data table.
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=84)** In the final ETL step, we load the shaped and transformed data tables into the Power BI interface.
 >
 > **[1:31](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=91)** This involves choosing the type of connection we want, like importing the data or using a direct connection, and connecting related tables together in a multi-dimensional model for our Power BI semantic layer.
 >
-> **[1:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=105)** From there, we can leverage capabilities such as creating DAX measures and data visualizations.
+> **[1:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=105)** From there, we can leverage capabilities such as creating [[DAX]] measures and data visualizations.
 >
 > **[1:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-extract-transform-load-etl-framework?u=76281980&t=111)** The entire ETL process does not and cannot change or affect anything in the original data source that we connect to because we're essentially making a copy of the data to import.
 >
@@ -382,24 +377,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), power (7), bi (7), etl (5), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft Power Query|Power query]] (2), [[Databases]] (1), [[Data Integration]] (1), [[DAX]] (1)
 > **Env Vars:** etl (5), dax (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Power Query objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980)
+#### [Power Query objects](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=0)** - [Instructor] A programming object contains variables, functions, and data structures.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=0)** - [Instructor] A programming object contains variables, functions, and [[Data Structures]].
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=5)** Power Query objects in M include tables, list records, values, binaries, functions, errors, and parameters.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=5)** [[Microsoft Power Query|Power Query]] objects in M include tables, list records, values, binaries, functions, errors, and parameters.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=14)** In Power Query, binary objects are files combined or read using other functions.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=20)** Examples of these include CSV and Excel files in our computers, images, and data stored online.
+> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=20)** Examples of these include CSV and [[Microsoft Excel|Excel]] files in our computers, images, and data stored online.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=28)** Once we connect to a binary object, we then need to read the data it contains.
 >
@@ -427,13 +421,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=132)** We can convert both lists and record objects into table objects from here.
 >
-> **[2:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=140)** Ultimately, in order to make our data useful in our Power BI model for doing algorithms, visualizations, and DAX calculations, once we load the data, our goal is to convert the queries we want to use in the Power BI model into tables before we load them into it.
+> **[2:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=140)** Ultimately, in order to make our data useful in our [[Microsoft Power BI|Power BI]] model for doing [[Algorithms]], visualizations, and [[DAX]] calculations, once we load the data, our goal is to convert the queries we want to use in the Power BI model into tables before we load them into it.
 >
 > **[2:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/power-query-objects?u=76281980&t=157)** List records, functions, and so on, are intermediaries along the way to get this done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (4), power (2), bi (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Power BI|Power bi]] (2), [[Data Structures]] (1), [[Microsoft Excel|Excel]] (1), [[Algorithms]] (1)
 > **Env Vars:** csv (1), dax (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
@@ -445,8 +439,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting to text files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980)
+#### [Connecting to text files](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=9)** Examples of these types of files include .txt, .csv, .tsv, and others.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=17)** While we would love to have our data already in a table structure when we read it into an application like Power Query, that's often not the case.
+> **[0:17](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=17)** While we would love to have our data already in a table structure when we read it into an application like [[Microsoft Power Query|Power Query]], that's often not the case.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=24)** Let's say we're reading a .txt file like this one.
 >
@@ -470,13 +463,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=59)** The official name for this data set is the Global Historical Climatology Network daily, or GHCNd for short.
 >
-> **[1:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=69)** We can access metadata for this data set on its homepage, which includes an inventory of the station locations which take these measurements.
+> **[1:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=69)** We can access [[Metadata]] for this data set on its homepage, which includes an inventory of the station locations which take these measurements.
 >
 > **[1:18](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=78)** This webpage is an online data repository of the individual NOAA weather station stored as a text file.
 >
 > **[1:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=85)** I downloaded it to the exercise files already as well.
 >
-> **[1:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=90)** In Power BI Desktop, let's first connect to this .txt file using the built-in data connector to text or CSV data.
+> **[1:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=90)** In [[Microsoft Power BI|Power BI]] Desktop, let's first connect to this .txt file using the built-in data connector to text or CSV data.
 >
 > **[1:39](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=99)** We'll then navigate to the data sources folder in the exercise files to open the ghcnd-stations.txt file.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=220)** To determine the number of rows in the query, let's first select column one to convert it into a list object.
 >
-> **[3:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=228)** We'll then use the statistics menu options to count the total items in this list.
+> **[3:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=228)** We'll then use the [[Statistics]] menu options to count the total items in this list.
 >
 > **[3:54](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980&t=234)** This returns 49,187 as the total rows.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (7), web (6), [[Metadata]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (7), [[Metadata]] (2), [[Microsoft Power BI|Power bi]] (1), [[Statistics]] (1)
 > **Env Vars:** noaa (3), url (3), csv (2), etl (1), gsn (1)
 > **UI Navigation:** navigate to (1), open the (1), scroll down (1), double-click (1)
 > **Exercise Files:** exercise files (2)
@@ -571,8 +564,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
-#### Connecting to CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980)
+#### [Connecting to CSV files](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,9 +580,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=43)** We can however see that viewing it this way is difficult for humans to interpret.
 >
-> **[0:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=49)** Excel for example can open CSV files but it only displays a million rows or so.
+> **[0:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=49)** [[Microsoft Excel|Excel]] for example can open CSV files but it only displays a million rows or so.
 >
-> **[0:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=55)** Although it makes it a lot easier to see the transformed tabular structure that we ultimately want to get within Power Query.
+> **[0:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=55)** Although it makes it a lot easier to see the transformed tabular structure that we ultimately want to get within [[Microsoft Power Query|Power Query]].
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=64)** Within Power Query, let's set up a new connection to this data using the text CSV data connector and pointing it to the location of the 2023 weather CSV file.
 >
@@ -660,13 +652,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=305)** The data now displays as a data table that we can use in our models.
 >
-> **[5:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=310)** This is a neat trick that I use all the time in Power BI and also Excel to easily unzip compressed files without having to download other applications.
+> **[5:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=310)** This is a neat trick that I use all the time in [[Microsoft Power BI|Power BI]] and also Excel to easily unzip compressed files without having to download other applications.
 >
 > **[5:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-csv-files?u=76281980&t=321)** We'll save this file as Santa Barbara weather and we'll continue to use this file in other examples of transformation functionalities throughout this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), web (5), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** csv (10), url (4), zip (2), ftp (2), noaa (1)
 > **UI Navigation:** navigate to (3), select the (1), right-click (1), click on (1), open the (1)
 > **CLI Commands:** unzip (2), make (1)
@@ -675,16 +667,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Connecting to Excel files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980)
+#### [Connecting to Excel files](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=0)** - [Instructor] Extracting data from an Excel workbook is more intensive than connecting to a text file because we first need to connect to the Excel file and then read the sheets or tables within it.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=0)** - [Instructor] Extracting data from an [[Microsoft Excel|Excel]] workbook is more intensive than connecting to a text file because we first need to connect to the Excel file and then read the sheets or tables within it.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=12)** I combined together the yearly weather data from the CSV files into a single Excel workbook called Santa Barbara Weather 2022-2024 with separate sheets for each year.
 >
-> **[0:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=25)** To get this data into Power Query, we'll use the Excel data connector to point to the folder location and file.
+> **[0:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=25)** To get this data into [[Microsoft Power Query|Power Query]], we'll use the Excel data connector to point to the folder location and file.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=33)** Once we make this initial connection, it prompts us to select the data table or tables that we want to use within it in the Navigator window.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=53)** If we choose more than one table or sheet, Excel will create a separate query for each of them.
 >
-> **[0:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=59)** The source step for both queries displays the same metadata for the Excel workbook connection, which includes the table and sheet names within that file.
+> **[0:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=59)** The source step for both queries displays the same [[Metadata]] for the Excel workbook connection, which includes the table and sheet names within that file.
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-excel-files?u=76281980&t=69)** The formula in this step uses the File.Contents function to return the binary of the path, then the Excel.Workbook function to read the contents of the file.
 >
@@ -732,24 +723,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), data (11), next (3), [[Metadata]] (3), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Metadata]] (3), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** select the (2), checkbox (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to online Excel files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980)
+#### [Connecting to online Excel files](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=0)** - [Instructor] We can also connect to an Excel workbook file online.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=0)** - [Instructor] We can also connect to an [[Microsoft Excel|Excel]] workbook file online.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=4)** For example, let's connect to an Excel file containing the NOA calculations for the sunrise and sunset times for a location.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=12)** We can see this example in the Microsoft Excel section on the left at the bottom for the year.
+> **[0:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=12)** We can see this example in the [[Microsoft Excel]] section on the left at the bottom for the year.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=20)** We can see what these solar calculations look like via Excel online when we open it up in an office apps.
+> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=20)** We can see what these solar calculations look like via Excel online when we open it up in an [[Microsoft Office|office]] apps.
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=27)** It displays charts for key calculations on the left side and the cells containing their formulas for each of the respective calculations for each day of the year for that location.
 >
@@ -757,11 +747,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=51)** Let's copy the URL to this webpage from the top.
 >
-> **[0:56](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=56)** Now, let's connect to it using Power Query through the web data connector, we can then choose to use an anonymous authentication because anyone can technically access it.
+> **[0:56](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=56)** Now, let's connect to it using [[Microsoft Power Query|Power Query]] through the web data connector, we can then choose to use an anonymous authentication because anyone can technically access it.
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=73)** When the query returns some view after we confirm our connection, we know that connection works, but is this the type of connection to the web file that we want to set up?
 >
-> **[1:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=83)** It displays this HTML code and we don't see any of the actual data in that or the display text.
+> **[1:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=83)** It displays this [[HTML]] code and we don't see any of the actual data in that or the display text.
 >
 > **[1:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=93)** So while online Excel viewing options are great for humans to see the data, they're not great for computers because they add extra layers of UI or user interface on top of the data.
 >
@@ -771,7 +761,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=115)** We'll right click on it and select copy link address.
 >
-> **[2:01](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=121)** Now, in Power BI, let's set up a web data connection again.
+> **[2:01](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=121)** Now, in [[Microsoft Power BI|Power BI]], let's set up a web data connection again.
 >
 > **[2:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-online-excel-files?u=76281980&t=126)** We'll paste in the URL we just copied, which ends with XLS, and we'll again use the anonymous connection for authentication.
 >
@@ -795,15 +785,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (7), web (5), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[HTML]] (1)
 > **Env Vars:** noa (2), url (2), html (1), xls (1)
 > **Analogies:** for example (2), just like (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to PDF files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980)
+#### [Connecting to PDF files](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,9 +802,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=9)** While they're easier for us as humans to read, they're also harder for computers to read because of the very spacing and formatting that make it easier for us to read it in the first place.
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=21)** When we open a PDF file for Santa Barbara Weather in 2023, we see that unlike Excel, the data tables aren't continuous, and instead span across many pages within the report.
+> **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=21)** When we open a PDF file for Santa Barbara Weather in 2023, we see that unlike [[Microsoft Excel|Excel]], the data tables aren't continuous, and instead span across many pages within the report.
 >
-> **[0:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=34)** In Power Query, let's choose the PDF data connector to point to the data sources folder storing our PDF file.
+> **[0:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=34)** In [[Microsoft Power Query|Power Query]], let's choose the PDF data connector to point to the data sources folder storing our PDF file.
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=48)** Let's then connect to the first table that we see listed in our navigator window.
 >
@@ -831,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=89)** We can also combine them together directly in the source step.
 >
-> **[1:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=94)** When we navigate back to the source step, we see the metadata for the tables and the pages within our PDF connection.
+> **[1:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=94)** When we navigate back to the source step, we see the [[Metadata]] for the tables and the pages within our PDF connection.
 >
 > **[1:43](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-pdf-files?u=76281980&t=103)** Notice the data field only contains rows of hyperlinks to tables.
 >
@@ -879,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (2), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (2), [[Metadata]] (1)
 > **Env Vars:** pdf (9)
 > **UI Navigation:** select the (3), scroll down (1), go to (1)
 > **CLI Commands:** make (2)
@@ -887,18 +876,17 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to images as data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980)
+#### [Connecting to images as data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=1)** - Images are data themselves that are stored in different formats than the tabular data we normally work with.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=6)** On a high level, this process first involves importing image data as a binary object into Power Query.
+> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=6)** On a high level, this process first involves importing image data as a binary object into [[Microsoft Power Query|Power Query]].
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=14)** We'll then convert it into a text bit map with the help of a few formulas.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=20)** Lastly, we'll load the bitmap into Power BI, and convert it back into image data by setting its data category as an image URL.
+> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=20)** Lastly, we'll load the bitmap into [[Microsoft Power BI|Power BI]], and convert it back into image data by setting its data category as an image URL.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=30)** Our course project focuses on California tourism, so let's bring our company Explore California logo into Power BI as an image.
 >
@@ -954,7 +942,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=238)** If you load your image data and you don't see the entire image, you'll want to resize it so it fits.
 >
-> **[4:04](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=244)** You can do this through applications like Microsoft Paint to make the image thumbnail sized.
+> **[4:04](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=244)** You can do this through applications like [[Microsoft]] Paint to make the image thumbnail sized.
 >
 > **[4:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-images-as-data?u=76281980&t=250)** Let's also save our file as image in our exercise files.
 >
@@ -964,7 +952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), power (5), bi (5), [[Microsoft Power Query|Power query]] (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft Power Query|Power query]] (4), [[Microsoft]] (1)
 > **Env Vars:** jpeg (3), url (2), png (2)
 > **UI Navigation:** select the (2), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
@@ -972,12 +960,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - images (1)
 
-#### Setting up folder connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980)
+#### [Setting up folder connection](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=0)** - [Instructor] Connecting to a folder of files in Power Query is immensely helpful because it streamlines a lot of the transformation processes and steps along the way.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=0)** - [Instructor] Connecting to a folder of files in [[Microsoft Power Query|Power Query]] is immensely helpful because it streamlines a lot of the transformation processes and steps along the way.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=9)** Receiving the same file every month in the same file type, we could spend our time importing them separately, or we could expedite the process by putting them in the same folder.
 >
@@ -985,11 +972,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=27)** And when we add a new file to the folder in the future or many files, we just have to refresh the query to update our data.
 >
-> **[0:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=35)** We can set a folder connections in Power Query to local computer folders or SharePoint and others.
+> **[0:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=35)** We can set a folder connections in Power Query to local computer folders or [[SharePoint]] and others.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=42)** Folder connections in Power Query can contain any file type.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=45)** The Power Query supports like connecting to CSV, JSON, Excel, and other files.
+> **[0:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=45)** The Power Query supports like connecting to CSV, [[JSON]], [[Microsoft Excel|Excel]], and other files.
 >
 > **[0:53](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=53)** Let's first create a new folder connection in Power Query that points to our Data Sources folder in the Exercise Files storing different data files in different formats like Excel, CSV, and image data.
 >
@@ -1007,7 +994,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=123)** Let's first select our images query and we'll choose to filter these items that are only in the Images folder.
 >
-> **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=134)** Next, let's set up the formulas within this folder connection to read the image data as text bitmaps that we can load into Power BI.
+> **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=134)** Next, let's set up the formulas within this folder connection to read the image data as text bitmaps that we can load into [[Microsoft Power BI|Power BI]].
 >
 > **[2:22](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=142)** Early in this chapter, we connected to image data, so let's use the same formula we did to read image data as a new column.
 >
@@ -1027,7 +1014,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=209)** We'll then rename this first field name.
 >
-> **[3:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=215)** We can then remove the rest of the metadata columns because we don't need them anymore.
+> **[3:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=215)** We can then remove the [[Representational State Transfer (REST)|rest]] of the [[Metadata]] columns because we don't need them anymore.
 >
 > **[3:47](https://www.linkedin.com/learning/power-bi-data-methods-23487089/setting-up-folder-connection?u=76281980&t=227)** Once we load the queries into Power BI, let's go to the images query, we'll then choose the image field, we'll convert the data category uncategorized into image URL, and then we'll add both these fields to a table visual to make sure we can see them.
 >
@@ -1081,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (8), power (4), bi (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (8), [[Microsoft Power BI|Power bi]] (4), [[Metadata]] (2), [[SharePoint]] (1)
 > **Env Vars:** csv (9), etl (1), json (1), url (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), previous video (1)
@@ -1090,12 +1077,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Connecting to HTML and XML
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980)
+#### [Connecting to HTML and XML](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=0)** - [Instructor] We can easily connect to markup languages like XML and HTML in Power Query.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=0)** - [Instructor] We can easily connect to markup languages like XML and [[HTML]] in [[Microsoft Power Query|Power Query]].
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=6)** Extensible Markup Language, or XML, is an older markup language for defining data definitions.
 >
@@ -1119,7 +1105,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=81)** Let's also rename this query with the prefix XML Latest Weather for the station name.
 >
-> **[1:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=88)** If we look through the columns in this table, we see there's a bit of metadata.
+> **[1:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=88)** If we look through the columns in this table, we see there's a bit of [[Metadata]].
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-html-and-xml?u=76281980&t=94)** We can remove some of these columns that we don't need in our new table to make it easier to read and less cluttered.
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), data (9), [[Microsoft Power Query|Power query]] (8), web (6), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Microsoft Power Query|Power query]] (8), [[Metadata]] (2)
 > **Env Vars:** xml (13), html (10), url (4), ksba (1)
 > **UI Navigation:** go to (2), click on (2), right-click (1), select the (1), checkbox (1)
 > **CLI Commands:** make (2), find (1)
@@ -1176,12 +1162,11 @@ created: 2026-05-02
 > **URLs:** [weather.gov](https://weather.gov) (1)
 > **Warnings:** troubleshoot (1)
 
-#### Connecting to JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980)
+#### [Connecting to JSON data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=0)** - [Instructor] JSON files are a common format for storing data, especially for computer generated data sources.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=0)** - [Instructor] [[JSON]] files are a common format for storing data, especially for computer generated data sources.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=7)** JSON data can be tricky for humans to read, but easy for computers to parse.
 >
@@ -1197,9 +1182,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=54)** It's important to note that records in JSON data appear in curly braces while lists appear in square brackets.
 >
-> **[1:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=67)** Power query object syntax doesn't match that of the JSON file, but the good news is that when we import the JSON data, it converts those structures into their appropriate power query objects.
+> **[1:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=67)** [[Microsoft Power Query|Power query]] object syntax doesn't match that of the JSON file, but the good news is that when we import the JSON data, it converts those structures into their appropriate power query objects.
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=79)** Power BI has a built-in connector for JSON data, so let's use it to connect to data from the Santa Barbara area over a two day period.
+> **[1:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=79)** [[Microsoft Power BI|Power BI]] has a built-in connector for JSON data, so let's use it to connect to data from the Santa Barbara area over a two day period.
 >
 > **[1:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=88)** As we see here, if our JSON file isn't saved with that extension, we can expand our file type options to all files, and we'll then choose our JSON text file.
 >
@@ -1213,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=123)** It first accesses the entire JSON file as a record object.
 >
-> **[2:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=129)** After it converts this JSON file into a table, we can see it consists of two high-level components, the metadata, which is stores as a record object and the data itself in the results, which it stores as a list.
+> **[2:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=129)** After it converts this JSON file into a table, we can see it consists of two high-level components, the [[Metadata]], which is stores as a record object and the data itself in the results, which it stores as a list.
 >
 > **[2:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-json-data?u=76281980&t=155)** It then expands the record object within the metadata as a result set, and then it expands the record within the results set metadata into separate columns.
 >
@@ -1239,13 +1224,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[JSON]] (15), [[Microsoft Power Query|Power query]] (4), [[Metadata]] (4), power (1)
+> **Frameworks & Libraries:** [[JSON]] (15), [[Microsoft Power Query|Power query]] (4), [[Metadata]] (4), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** json (15), noaa (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980)
+#### [Connecting to APIs](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=7)** They enable us to query data or subsets of it.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=11)** One way we can use APIs within Power BI is to get data to import into our model.
+> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=11)** One way we can use APIs within [[Microsoft Power BI|Power BI]] is to get data to import into our model.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=17)** We can then set up regular, frequent data refresh schedules to this API to ensure that we have the latest data measurements.
 >
@@ -1283,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=109)** If you want to look at another weather station, you can find it by searching the National Weather Service.
 >
-> **[1:54](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=114)** Some APIs like this one give us the option of the format of the results we want to return, which includes raw, JSON, and so on.
+> **[1:54](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=114)** Some APIs like this one give us the option of the format of the results we want to return, which includes raw, [[JSON]], and so on.
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=123)** I've used this API before, and I found that raw data, which returns text format data, most consistently works if we want to update the data frequently.
 >
@@ -1291,7 +1275,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=138)** We'll then input 1000 hours as the time periods we want to go back in the historical pass for data.
 >
-> **[2:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=144)** We'll leave the rest of the query parameter inputs blank.
+> **[2:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=144)** We'll leave the [[Representational State Transfer (REST)|rest]] of the query parameter inputs blank.
 >
 > **[2:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=148)** To see what the API request query will look like, let's choose to execute a query.
 >
@@ -1305,11 +1289,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=185)** Let's copy this get request URL query string so we can use it in Power BI.
 >
-> **[3:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=192)** In our web connection option, let's copy and paste the URL string from the API testing tool, into our URL input parameter.
+> **[3:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=192)** In our web connection option, let's copy and paste the URL string from the [[API Testing]] tool, into our URL input parameter.
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=201)** Once we confirm our web connection, we see the results.
 >
-> **[3:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=204)** Notice the Power Query split it into three columns.
+> **[3:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=204)** Notice the [[Microsoft Power Query|Power Query]] split it into three columns.
 >
 > **[3:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-apis?u=76281980&t=208)** This works because the station ID is four characters, and the UTC date time always has the same number of positions within it.
 >
@@ -1329,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), data (16), power (2), bi (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (1), [[API Testing]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** api (16), url (4), metar (3), utc (2), ksba (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** find (2)
@@ -1337,8 +1321,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to ODATA feeds
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980)
+#### [Connecting to ODATA feeds](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1360,7 +1343,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=48)** We can tell that we're connecting to an OData source because the URL denotes an OData connection within it.
 >
-> **[0:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=55)** Let's then copy it to use it in Power BI.
+> **[0:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=55)** Let's then copy it to use it in [[Microsoft Power BI|Power BI]].
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=58)** In Power BI, we can set up an OData connection directly through its built-in Power BI connector.
 >
@@ -1378,11 +1361,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=115)** Let's rename the Query OData Los Angeles Rainfall.
 >
-> **[2:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=120)** We see it formatted as a table object, and we can continue to transform it in Power Query before loading it into Power BI.
+> **[2:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-odata-feeds?u=76281980&t=120)** We see it formatted as a table object, and we can continue to transform it in [[Microsoft Power Query|Power Query]] before loading it into Power BI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (4), bi (4), api (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** url (3), api (2), csv (1)
 > **URLs:** [transportation.gov](https://transportation.gov) (2)
 > **UI Navigation:** open the (1)
@@ -1390,22 +1373,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980)
+#### [Connecting to GitHub](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=0)** - [Instructor] GitHub is a developer platform that enables us to create store and manage code.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=0)** - [Instructor] [[GitHub]] is a developer platform that enables us to create store and manage code.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=5)** It also enables version control and many facets of project management.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=5)** It also enables [[Version Control]] and many facets of project management.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=10)** Here's a GitHub account that we'll explore in this video containing data for the weather that we've been working on throughout this course.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=16)** This includes a CSV file containing data that we'll connect to from Power BI.
+> **[0:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=16)** This includes a CSV file containing data that we'll connect to from [[Microsoft Power BI|Power BI]].
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=23)** Within Power BI we can connect to GitHub in a few different ways.
 >
-> **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=27)** Let's first create a new connection by searching for GitHub in our Power Query connection options.
+> **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=27)** Let's first create a new connection by searching for GitHub in our [[Microsoft Power Query|Power Query]] connection options.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=33)** There is a GitHub connection.
 >
@@ -1421,7 +1403,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=65)** We'll then go to our GitHub page to get the information about how to connect.
 >
-> **[1:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=71)** The owner name here is LinkedIn Learning, and the repository name is the name that we see at the end of the URL.
+> **[1:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=71)** The owner name here is [[LinkedIn]] Learning, and the repository name is the name that we see at the end of the URL.
 >
 > **[1:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-github?u=76281980&t=83)** You might be asked to sign into your GitHub account depending on whether or not it's public or private.
 >
@@ -1477,7 +1459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (16), data (7), web (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[GitHub]] (16), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (2), [[Version Control]] (1), [[LinkedIn]] (1)
 > **Tools:** github (16)
 > **Env Vars:** csv (7), url (4)
 > **Definitions:** is a  (3), in other words (1)
@@ -1486,12 +1468,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** github repo (1)
 
-#### Using an R script connector
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980)
+#### [Using an R script connector](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=0)** - [Instructor] R is a programming language for statistical computing and graphics, which matches up with many of the undertakings we're trying to do in Power BI too.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=0)** - [Instructor] R is a programming language for statistical computing and graphics, which matches up with many of the undertakings we're trying to do in [[Microsoft Power BI|Power BI]] too.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=9)** We need to run R off our computer for Power BI Desktop when we input our script this way.
 >
@@ -1511,7 +1492,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=60)** I'm going to use the latest current version of R in this example, because it works to create the output that I want to use for an R script.
 >
-> **[1:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=69)** The built-in Power Query connections are very powerful and extraordinarily flexible.
+> **[1:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=69)** The built-in [[Microsoft Power Query|Power Query]] connections are very powerful and extraordinarily flexible.
 >
 > **[1:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=74)** However, they're not all encompassing, and they're examples of things they don't work well with, like creating date times and working with time zones.
 >
@@ -1533,7 +1514,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=131)** This opens a window where we'll input our R script that we copied.
 >
-> **[2:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=136)** I recommend testing it out in an IDE like RStudio to make sure the code runs.
+> **[2:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=136)** I recommend testing it out in an IDE like [[RStudio]] to make sure the code runs.
 >
 > **[2:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-an-r-script-connector?u=76281980&t=141)** I already know this runs for us, so we're just going to paste it in here.
 >
@@ -1559,7 +1540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (12), bi (12), [[Microsoft Power Query|Power query]] (5), data (4), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[Microsoft Power Query|Power query]] (5), [[RStudio]] (1)
 > **Env Vars:** ide (3), utc (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -1568,18 +1549,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a Python script connector
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980)
+#### [Using a Python script connector](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=0)** - [Instructor] Like R scripts, Python scripts are also useful for the few tasks in Power BI where the functionalities don't quite work to do what we want them to do within the interface.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=0)** - [Instructor] Like R scripts, [[Python (Programming Language)|Python]] scripts are also useful for the few tasks in [[Microsoft Power BI|Power BI]] where the functionalities don't quite work to do what we want them to do within the interface.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=10)** It can do many of the same things as R, but Python has a lot more capabilities where we can use it for things like integrations and connecting data within larger ecosystems of other applications.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=22)** To get Python to work in Power BI Desktop, you'll want to install it on your computer if you haven't already.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=28)** You'll also need to install Pandas and Matplotlib libraries or packages in order to have it to run.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=28)** You'll also need to install [[Pandas (Software)|Pandas]] and Matplotlib libraries or packages in order to have it to run.
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-a-python-script-connector?u=76281980&t=35)** Once we upload this to shared accounts like the Power BI service, Python will run off of the cloud instead.
 >
@@ -1617,7 +1597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), data (7), power (4), bi (4), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Power BI|Power bi]] (4), [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** python (15), make (2)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** visual studio (1), anaconda (1)
@@ -1625,8 +1605,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Getting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980)
+#### [Challenge: Getting data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=5)** - [Narrator] Now it's time for you to try these concepts out yourself.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=9)** The Bureau of Labor Statistics, or BLS for short, is a great public data source for US employment.
+> **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=9)** The Bureau of Labor [[Statistics]], or BLS for short, is a great public data source for US employment.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=16)** We're curious about the employment numbers in Santa Barbara, California.
 >
@@ -1646,25 +1625,24 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=34)** Here's your challenge.
 >
-> **[0:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=36)** Use Power Query to connect to these data and transform it into a table that looks like this with the year, period, month name, and employment numbers as appropriately set data types in each column.
+> **[0:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=36)** Use [[Microsoft Power Query|Power Query]] to connect to these data and transform it into a table that looks like this with the year, period, month name, and employment numbers as appropriately set data types in each column.
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=49)** Here's a hint.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=50)** If you get stuck on transforming the initial web connection, revisit the JSON data video.
+> **[0:50](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=50)** If you get stuck on transforming the initial web connection, revisit the [[JSON]] data video.
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-getting-data?u=76281980&t=57)** Good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (2), [[Statistics]] (1), [[Microsoft Power Query|Power query]] (1), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Power Query|Power query]] (1), [[JSON]] (1)
 > **Env Vars:** api (2), bls (1), url (1), json (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Getting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980)
+#### [Solution: Getting data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1682,11 +1660,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=27)** Going to click OK.
 >
-> **[0:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=29)** Now, this data doesn't really look like what we want to see, but we can transform it into the data table we want within the Power Query editor.
+> **[0:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=29)** Now, this data doesn't really look like what we want to see, but we can transform it into the data table we want within the [[Microsoft Power Query|Power Query]] editor.
 >
 > **[0:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=40)** Notice that these results look kind of odd, and the reason is we're not reading this data correctly.
 >
-> **[0:46](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=46)** If we look at that documentation in the Bureau of Labor Statistics API, this is supposed to be returned as a JSON file.
+> **[0:46](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=46)** If we look at that documentation in the Bureau of Labor [[Statistics]] API, this is supposed to be returned as a [[JSON]] file.
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-getting-data?u=76281980&t=55)** So let's see what happens if we remove the functions around the web.Contents function.
 >
@@ -1726,7 +1704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (4), [[JSON]] (3), web (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Power Query|Power query]] (1), [[Statistics]] (1)
 > **Env Vars:** api (4), json (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -1738,12 +1716,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cleaning text fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980)
+#### [Cleaning text fields](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=0)** - [Instructor] One key part of the transformation process is cleaning the data because it makes the rest of the steps much easier and smoother afterwards.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=0)** - [Instructor] One key part of the transformation process is cleaning the data because it makes the [[Representational State Transfer (REST)|rest]] of the steps much easier and smoother afterwards.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=9)** Examples of text cleaning include removing leading and trailing spaces and standardizing capitalization between values in a field.
 >
@@ -1751,7 +1728,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=27)** However, one challenge with fixed width splits or splitting by any number of characters is that it becomes easier to introduce leading or trailing spaces into the field, which are hard to spot often until they present a problem later.
 >
-> **[0:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=40)** Power Query is fantastic for many reasons, but especially because it makes repeating these steps easier by letting us clean the data in an easy and straightforward manner.
+> **[0:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=40)** [[Microsoft Power Query|Power Query]] is fantastic for many reasons, but especially because it makes repeating these steps easier by letting us clean the data in an easy and straightforward manner.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=51)** For the Data ID field, if we click into a value in the column, we see displays at the bottom of the query.
 >
@@ -1781,7 +1758,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=141)** Right now, they're all uppercase characters, which can make it difficult to read, so we'll select the Station Name and choose the Transformation options again.
 >
-> **[2:32](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=152)** We can make it lowercase, uppercase, or we can capitalize each word, which is what we'll select.
+> **[2:32](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=152)** We can make it lowercase, uppercase, or we can capitalize each [[Microsoft Word|word]], which is what we'll select.
 >
 > **[2:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980&t=160)** Now, if we go into the step, we see that it transformed the column, but we didn't have to create a new one.
 >
@@ -1791,19 +1768,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (2), right-click (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** noaa (1), gsn (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing or replacing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980)
+#### [Removing or replacing values](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=0)** - [Instructor] If we want to replace values in Power BI, we can do this with the replace values functionality.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=0)** - [Instructor] If we want to replace values in [[Microsoft Power BI|Power BI]], we can do this with the replace values functionality.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=6)** We can either replace one character with each time it occurs within a field with another one, or we can replace an entire matching string with something else.
 >
@@ -1829,7 +1805,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=77)** We can also replace an entire name in the station names or any other text field.
 >
-> **[1:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=83)** And in this case, we want it to match the whole field, so we'll say St. John's, and I'm going to replace it with, "This station name is a replacement."
+> **[1:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=83)** And in this case, we want it to match the whole field, so we'll say St. [[John the Ripper|John]]'s, and I'm going to replace it with, "This station name is a replacement."
 >
 > **[1:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=96)** And we see that wherever this matches, part of it, we see it replaced.
 >
@@ -1845,13 +1821,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=134)** Let's replace our values, and we'll say that we want to replace Inter, which is another airport name with international, now we see that we've run into another problem and that it replaces international, inter with international in the beginning of the string.
 >
-> **[2:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=157)** And then so we've got a word that doesn't make sense for international.
+> **[2:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=157)** And then so we've got a [[Microsoft Word|word]] that doesn't make sense for international.
 >
 > **[2:41](https://www.linkedin.com/learning/power-bi-data-methods-23487089/removing-or-replacing-values?u=76281980&t=161)** So a word of caution to be careful about how you replace values and look at methods in order to avoid problems like this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** for example (3)
 > **Warnings:** be careful (2), caution (1)
 > **Env Vars:** intl (2)
@@ -1860,8 +1836,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting and concatenating fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980)
+#### [Splitting and concatenating fields](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980&t=7)** Conversely, we can combine them together by going the other way with delimiters and formulas.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980&t=14)** Let's first split our station ID for the NOAA stations into their country and the rest of the ID field in our NOAA station list.
+> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980&t=14)** Let's first split our station ID for the NOAA stations into their country and the [[Representational State Transfer (REST)|rest]] of the ID field in our NOAA station list.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/splitting-and-concatenating-fields?u=76281980&t=24)** We see that the first two characters of the station ID represent the country code.
 >
@@ -1945,14 +1920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** pdf (3), noaa (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - we (1)
 
-#### Text formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980)
+#### [Text formulas](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,7 +1934,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980&t=6)** For example, we can take the leftmost end characters in a string, the rightmost end characters, the middle end characters starting at M, and add end placeholder characters to the text string M.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980&t=20)** Text formulas in Power Query let us create text expressions.
+> **[0:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980&t=20)** Text formulas in [[Microsoft Power Query|Power Query]] let us create text expressions.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/text-formulas?u=76281980&t=24)** We can use these expressions in columns, and we can also use them to create values by themselves.
 >
@@ -2028,7 +2002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** utc (6), metar (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2036,8 +2010,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering or removing duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980)
+#### [Filtering or removing duplicates](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2083,7 +2056,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980&t=154)** So once I have the station matching, I'm going to copy the station ID and update the Daily Weather query to make sure that it matches the location that I want to use.
 >
-> **[2:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980&t=171)** Notice how when we update the data, when we refresh it to use the other station ID, the rest of the steps repeat and we see the filtered data step run on the refreshed data table.
+> **[2:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980&t=171)** Notice how when we update the data, when we refresh it to use the other station ID, the [[Representational State Transfer (REST)|rest]] of the steps repeat and we see the filtered data step run on the refreshed data table.
 >
 > **[3:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filtering-or-removing-duplicates?u=76281980&t=185)** Let's also filter by dates.
 >
@@ -2117,15 +2090,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tmax (1), tavg (1), noaa (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filling up and filling down
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980)
+#### [Filling up and filling down](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2111,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980&t=16)** Let's explore a few examples of this in two existing queries that I put together.
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980&t=21)** We often see these type of formats in PivotTables in Excel, for example.
+> **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980&t=21)** We often see these type of formats in PivotTables in [[Microsoft Excel|Excel]], for example.
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/filling-up-and-filling-down?u=76281980&t=27)** I want to put the year in the first column so that it extends down until we see the next year start.
 >
@@ -2165,13 +2137,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (2), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming numerical fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transforming-numerical-fields?u=76281980)
+#### [Transforming numerical fields](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transforming-numerical-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,15 +2188,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a new column
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-add-a-new-column?u=76281980)
+#### [Challenge: Add a new column](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-add-a-new-column?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2241,13 +2210,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Add a new column
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-new-column?u=76281980)
+#### [Solution: Add a new column](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-new-column?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2285,7 +2252,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -2298,12 +2264,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dates functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980)
+#### [Dates functions](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=0)** - [Tutor] Understanding and using date functions effectively within Power BI and within Power Query can make a huge impact on our modeling process.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=0)** - [Tutor] Understanding and using date functions effectively within [[Microsoft Power BI|Power BI]] and within [[Microsoft Power Query|Power Query]] can make a huge impact on our modeling process.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=9)** We can use dates to build other parts of the EDL framework as dimensions for aggregating our data, and with many different calculations.
 >
@@ -2385,7 +2350,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=332)** And actually this one is Date.DayOfWeekName.
 >
-> **[5:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=342)** If we use the function Date.Weekday, it's important to note that it starts at 0 and goes through 6, which is different from Excel, which starts at 1 and goes through 7.
+> **[5:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=342)** If we use the function Date.Weekday, it's important to note that it starts at 0 and goes through 6, which is different from [[Microsoft Excel|Excel]], which starts at 1 and goes through 7.
 >
 > **[5:57](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980&t=357)** And this one is also the day of the week.
 >
@@ -2415,7 +2380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (3), data (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** utc (2), edl (1), pdf (1), etl (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -2424,12 +2389,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [tutor] (1)
 
-#### Creating a dates table
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/creating-a-dates-table?u=76281980)
+#### [Creating a dates table](https://www.linkedin.com/learning/power-bi-data-methods-23487089/creating-a-dates-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/creating-a-dates-table?u=76281980&t=0)** - [Instructor] Today, calendar tables are immensely useful in Power BI because we can use them as dimension tables in our model to connect data tables together and perform calculations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/creating-a-dates-table?u=76281980&t=0)** - [Instructor] Today, calendar tables are immensely useful in [[Microsoft Power BI|Power BI]] because we can use them as dimension tables in our model to connect data tables together and perform calculations.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-methods-23487089/creating-a-dates-table?u=76281980&t=10)** First, though, we need a dates table with contiguous dates in it.
 >
@@ -2503,15 +2467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), power (1), bi (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** utc (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with different time zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980)
+#### [Working with different time zones](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2543,7 +2506,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980&t=84)** And lastly, for our duration, we're going to input zero days, one hour and one hour between each one of these date time zones.
 >
-> **[1:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980&t=96)** However, as we go down the list, we might notice there's actually a problem with the way that we've set up this function, and it doesn't have anything to do with power query.
+> **[1:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980&t=96)** However, as we go down the list, we might notice there's actually a problem with the way that we've set up this function, and it doesn't have anything to do with [[Microsoft Power Query|power query]].
 >
 > **[1:47](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-different-time-zones?u=76281980&t=107)** The time zone changes from Pacific Standard Time on March 9th where it's eight hours behind and on 1 a.m.that day it goes forward an hour, so it's now seven hours behind UTC.
 >
@@ -2571,15 +2534,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Microsoft Power Query|Power query]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** utc (9)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a Date field
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-add-a-date-field?u=76281980)
+#### [Challenge: Add a Date field](https://www.linkedin.com/learning/power-bi-data-methods-23487089/challenge-add-a-date-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2597,13 +2559,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Add a Date field
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-date-field?u=76281980)
+#### [Solution: Add a Date field](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-date-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2627,11 +2587,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-date-field?u=76281980&t=88)** So if you did a different approach, that's great too.
 >
-> **[1:31](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-date-field?u=76281980&t=91)** Part of the fun of data modeling is that there's rarely just one solution.
+> **[1:31](https://www.linkedin.com/learning/power-bi-data-methods-23487089/solution-add-a-date-field?u=76281980&t=91)** Part of the fun of [[Data Modeling]] is that there's rarely just one solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Modeling]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2640,8 +2600,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using conditional functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980)
+#### [Using conditional functions](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2653,7 +2612,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980&t=19)** If none of the above conditions are met, then we return this alternative result.
 >
-> **[0:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980&t=25)** When we apply this logic to power query conditional formulas, these sections of the diagram match to our if then, else if then and so on until our final alternative catch all result of else.
+> **[0:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980&t=25)** When we apply this logic to [[Microsoft Power Query|power query]] conditional formulas, these sections of the diagram match to our if then, else if then and so on until our final alternative catch all result of else.
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980&t=38)** Like other formulas in Power Query, it's also case sensitive, so we need to write them out in lowercase letter clauses if we create conditional formulas manually.
 >
@@ -2737,7 +2696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (2), api (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** utc (12), metar (3), api (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), select the (1)
@@ -2746,14 +2705,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transposing tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980)
+#### [Transposing tables](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=0)** - [Instructor] Transposing is an incredibly useful transformation functionality that enables us to change a data table's orientation by switching its rows and columns.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=11)** In a live weather connection to an HTML page storing the Santa Barbara live weather, notice the orientation of the data table.
+> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=11)** In a live weather connection to an [[HTML]] page storing the Santa Barbara live weather, notice the orientation of the data table.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=19)** It's also important to note that your view may look different from mine if you update the data to use the latest weather measurements.
 >
@@ -2789,7 +2747,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=134)** Once we have the table transformed the way we want, let's promote the first row as headers, and we'll also change the name of the category field into years to represent its newly changed shape.
 >
-> **[2:26](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=146)** These types of transformations are quite useful in tables like financial statements summaries, where we often see the dates across the top and the labels within them in the rows in the first column.
+> **[2:26](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=146)** These types of transformations are quite useful in tables like [[Financial Statements]] summaries, where we often see the dates across the top and the labels within them in the rows in the first column.
 >
 > **[2:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/transposing-tables?u=76281980&t=157)** Once we transpose our data table, we can then continue on with any other transformation steps we want to include.
 >
@@ -2797,7 +2755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (2), generic (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Financial Statements]] (1)
 > **Env Vars:** html (2)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Definitions:** is an  (1)
@@ -2805,8 +2763,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping fields and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980)
+#### [Grouping fields and values](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2868,19 +2825,18 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980&t=201)** From here, we can continue our calculations like comparing the maximum and average high temperatures to their more granular, daily high temperature counterparts.
 >
-> **[3:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980&t=210)** Grouping enables us to access some calculations we could not otherwise do in Power Query as we see here.
+> **[3:30](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980&t=210)** Grouping enables us to access some calculations we could not otherwise do in [[Microsoft Power Query|Power Query]] as we see here.
 >
 > **[3:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/grouping-fields-and-values?u=76281980&t=216)** For large data tables, grouping helps us improve the efficiency and performance of the table, even though we might lose some granularity for some of the details along the way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tmax (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merging and appending data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980)
+#### [Merging and appending data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2896,7 +2852,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=36)** We see how this combines them together in a table with the same amount of columns, but more rows because we're stacking the rows on top of one another.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=45)** Let's first explore merging options in Power BI.
+> **[0:45](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=45)** Let's first explore merging options in [[Microsoft Power BI|Power BI]].
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=49)** We'll merge the METAR API, which contains the hourly weather data measurements with the date times states table we created with an R script.
 >
@@ -2920,9 +2876,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=117)** We can choose the join kind that we want to use.
 >
-> **[2:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=120)** I would choose either the left outer or the inner, much like we see in SQL queries.
+> **[2:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=120)** I would choose either the left outer or the inner, much like we see in [[SQL]] queries.
 >
-> **[2:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=127)** The relationship between the metadata UTC Datetime and the date times key is one-to-one.
+> **[2:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=127)** The relationship between the [[Metadata]] UTC Datetime and the date times key is one-to-one.
 >
 > **[2:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/merging-and-appending-data?u=76281980&t=134)** So we see that we have the same number of matches 129 for both of them.
 >
@@ -2972,7 +2928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (3), bi (3), [[SQL]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[SQL]] (2), [[Metadata]] (1)
 > **Env Vars:** utc (5), metar (2), sql (2), lax (2), api (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1), dropdown (1)
@@ -2981,8 +2937,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pivoting and unpivoting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980)
+#### [Pivoting and unpivoting data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3048,7 +3003,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980&t=229)** I will denote this as unpivoted.
 >
-> **[3:58](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980&t=238)** Unpivoting data is one of my favorite tricks in Power Query because it can save so much time.
+> **[3:58](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980&t=238)** Unpivoting data is one of my favorite tricks in [[Microsoft Power Query|Power Query]] because it can save so much time.
 >
 > **[4:03](https://www.linkedin.com/learning/power-bi-data-methods-23487089/pivoting-and-unpivoting-data?u=76281980&t=243)** Let's unpivot the table we just pivoted to display it in the same format as the original data table, but with different attribute labels, high temperature and low temperature, instead of their acronyms.
 >
@@ -3072,7 +3027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (1), [[Microsoft Power Query|Power query]] (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tmax (3), tmin (3)
 > **UI Navigation:** select the (1), open the (1), click on (1)
 > **CLI Commands:** find (1), make (1)
@@ -3080,8 +3035,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980)
+#### [Parameters](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3089,7 +3043,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=5)** They minimize reliance on outside files.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=8)** We can also use them in multiple queries within Power Query at the same time.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=8)** We can also use them in multiple queries within [[Microsoft Power Query|Power Query]] at the same time.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=13)** The term parameterized queries or functions involves passing the parameters into something else.
 >
@@ -3179,11 +3133,11 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=311)** So we see how to change these parameters into other queries like values.
 >
-> **[5:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=316)** It's also important to note that if we plan an uploading it to Power BI Pro or another service account, we can't change the parameters once we publish the report.
+> **[5:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/parameters?u=76281980&t=316)** It's also important to note that if we plan an uploading it to [[Microsoft Power BI|Power BI]] Pro or another service account, we can't change the parameters once we publish the report.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** noaa (2), url (1), lax (1)
 > **UI Navigation:** dropdown (2), select the (1), go to (1)
 > **Prerequisites:** set up (2)
@@ -3192,8 +3146,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980)
+#### [Custom functions](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3201,13 +3154,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=6)** Functions typically take one or more input parameters and return a result.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=11)** Like, many other facets of Power BI and Power Query, we can let the application do a lot of the work for us by tapping into built-in functionalities.
+> **[0:11](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=11)** Like, many other facets of [[Microsoft Power BI|Power BI]] and [[Microsoft Power Query|Power Query]], we can let the application do a lot of the work for us by tapping into built-in functionalities.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=21)** Let's explore how to set up a function by using an example where Power Query automatically writes the functions for us.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=28)** Let's connect to a folder of CSV files.
 >
-> **[0:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=40)** Once we make this folder connection, we see the metadata for this folder displayed in the columns.
+> **[0:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=40)** Once we make this folder connection, we see the [[Metadata]] for this folder displayed in the columns.
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=46)** However, we don't see the actual data.
 >
@@ -3249,7 +3202,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=166)** We then use this parameter one to read the file, promote the headers, and then each one of these files is passed in and the transformations performed.
 >
-> **[2:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=179)** We can then see how this integrates with the rest of the steps within the query.
+> **[2:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=179)** We can then see how this integrates with the [[Representational State Transfer (REST)|rest]] of the steps within the query.
 >
 > **[3:04](https://www.linkedin.com/learning/power-bi-data-methods-23487089/custom-functions?u=76281980&t=184)** The functions invoked in one step and there are still many other transformations that occur along the way.
 >
@@ -3309,7 +3262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (6), power (3), bi (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), [[Microsoft Power BI|Power bi]] (3), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** csv (10), noaa (3), lax (1)
 > **UI Navigation:** select the (1), dropdown (1), right-click (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3317,8 +3270,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding data types in M code
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980)
+#### [Adding data types in M code](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3360,7 +3312,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980&t=145)** We'll do the same for the minute as well.
 >
-> **[2:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980&t=147)** These are all numeric measurements that we're looking to have Power Query represent for us.
+> **[2:27](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980&t=147)** These are all numeric measurements that we're looking to have [[Microsoft Power Query|Power Query]] represent for us.
 >
 > **[2:34](https://www.linkedin.com/learning/power-bi-data-methods-23487089/adding-data-types-in-m-code?u=76281980&t=154)** And then once we've changed these, we see all three columns display with a whole number in them.
 >
@@ -3388,7 +3340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** utc (1)
 > **Cross-References:** later in (1)
@@ -3401,18 +3353,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980)
+#### [Working with relational databases](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=0)** - [Instructor] Databases are organized data stored in database management systems.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=0)** - [Instructor] [[Databases]] are organized data stored in [[Database Management]] systems.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=5)** One type of database is a relational database.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=8)** This consists of separate tables where we use SQL code to query data.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=8)** This consists of separate tables where we use [[SQL]] code to query data.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=13)** Relational database connections in Power BI include SQL server, Oracle, HANA, ODBC, and many others.
+> **[0:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=13)** Relational database connections in [[Microsoft Power BI|Power BI]] include [[Microsoft SQL Server|SQL server]], Oracle, HANA, ODBC, and many others.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=22)** In general, my own personal approach to working with large sets of data is to use a database where I can.
 >
@@ -3420,11 +3371,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=42)** SQL database connections also offer us an option for connecting to the data via Import or DirectQuery mode.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=50)** We've been using the Import connection mode for all our connections so far, but some relational databases give us the option of using DirectQuery.
+> **[0:50](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=50)** We've been using the Import connection mode for all our connections so far, but some [[Relational Databases]] give us the option of using DirectQuery.
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=59)** We use Import as the typical default connection type.
 >
-> **[1:02](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=62)** Microsoft recommends this method because it takes advantage of the high performance query engine and allows us to leverage the full range of options for working with data.
+> **[1:02](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=62)** [[Microsoft]] recommends this method because it takes advantage of the high performance query engine and allows us to leverage the full range of options for working with data.
 >
 > **[1:12](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980&t=72)** DirectQuery allows us to connect to data in its original source repository.
 >
@@ -3486,7 +3437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (13), [[SQL]] (7), power (5), bi (5)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Power BI|Power bi]] (5), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[Database Management]] (1)
 > **Env Vars:** sql (10), hana (1), odbc (1), etl (1), ide (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (3)
@@ -3495,20 +3446,19 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Query folding
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980)
+#### [Query folding](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=0)** - [Instructor] Databases store vast quantities of structured data that we can query and process efficiently through query languages, like SQL.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=0)** - [Instructor] [[Databases]] store vast quantities of structured data that we can query and process efficiently through query languages, like [[SQL]].
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=8)** To optimize query efficiency, we want to push as much work back to the database connection as we can.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=14)** One way we can do this is through query folding, which translates our Power Query extract and transformation steps into SQL commands that it pushes back to the database.
+> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=14)** One way we can do this is through query folding, which translates our [[Microsoft Power Query|Power Query]] extract and transformation steps into SQL commands that it pushes back to the database.
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=25)** In order for this functionality to work, the database we connect to must have a server with query folding capabilities.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=31)** Excel is not a database, and therefore, it doesn't support query folding.
+> **[0:31](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=31)** [[Microsoft Excel|Excel]] is not a database, and therefore, it doesn't support query folding.
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=37)** There are a number of query transformation steps that work with query folding.
 >
@@ -3516,7 +3466,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=42)** The best way to figure out which ones work is to walk through a series of ETL steps in Power Query and confirm whether or not they work along the way.
 >
-> **[0:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=51)** We'll first connect to SQL Server in a database that I stored on my computer.
+> **[0:51](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=51)** We'll first connect to [[Microsoft SQL Server|SQL Server]] in a database that I stored on my computer.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=60)** We'll first choose the import data connectivity mode.
 >
@@ -3544,7 +3494,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=145)** We'll then choose View Native Query from the dropdown menu.
 >
-> **[2:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=149)** This opens the window where we can see the SQL code that Power BI automatically wrote for us.
+> **[2:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=149)** This opens the window where we can see the SQL code that [[Microsoft Power BI|Power BI]] automatically wrote for us.
 >
 > **[2:37](https://www.linkedin.com/learning/power-bi-data-methods-23487089/query-folding?u=76281980&t=157)** We can check this step and any other applied step along the way as well.
 >
@@ -3582,35 +3532,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (7), data (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (9), etl (1), tavg (1), tmin (1), tmax (1)
 > **UI Navigation:** click on (4), dropdown (1)
 > **Prerequisites:** set up (2)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with multidimensional databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980)
+#### [Working with multidimensional databases](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=0)** - [Instructor] Multidimensional databases, like Analysis Services, work as predefined queries referencing databases where the user doesn't have to write a query to access the data, but rather, they connect to the model with the predefined dimensions and calculations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=0)** - [Instructor] Multidimensional [[Databases]], like Analysis Services, work as predefined queries referencing databases where the user doesn't have to write a query to access the data, but rather, they connect to the model with the predefined dimensions and calculations.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=15)** These tables are typically already joined together in the model, and we can use DAX or MDX queries to get data from them.
+> **[0:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=15)** These tables are typically already joined together in the model, and we can use [[DAX]] or MDX queries to get data from them.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=23)** It's important to emphasize that these aren't relational databases, and they work differently.
+> **[0:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=23)** It's important to emphasize that these aren't [[Relational Databases]], and they work differently.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=28)** We might see multidimensional databases that use relational databases as sources for their tables, but they're not the same thing, and we don't connect them in the same way or use the same languages, like SQL, to query them.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=28)** We might see multidimensional databases that use relational databases as sources for their tables, but they're not the same thing, and we don't connect them in the same way or use the same languages, like [[SQL]], to query them.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=42)** Instead, we use DAX or MDX queries.
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=46)** As we saw in the last video, relational databases support direct query and import connectivity modes.
 >
-> **[0:52](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=52)** Multidimensional databases also support the import connectivity mode, which allow for us to access and utilize the functionalities and features of Power Query.
+> **[0:52](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=52)** Multidimensional databases also support the import connectivity mode, which allow for us to access and utilize the functionalities and features of [[Microsoft Power Query|Power Query]].
 >
 > **[1:02](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=62)** There's also another option for connecting directly to the data called live connection Mode.
 >
-> **[1:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=67)** If we select this option, it will disable the rest of the queries, and Power BI will become a front end connection only.
+> **[1:07](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=67)** If we select this option, it will disable the [[Representational State Transfer (REST)|rest]] of the queries, and [[Microsoft Power BI|Power BI]] will become a front end connection only.
 >
 > **[1:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=75)** I set up a weather model using the data we're using throughout this course and uploaded it to a Power BI Premium Per User workspace.
 >
@@ -3646,7 +3595,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=218)** Like the SQL queries, I recommend testing it out in another application first.
 >
-> **[3:44](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=224)** I find that a lot of organizations like the security and scalability of these Analysis Services models.
+> **[3:44](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=224)** I find that a lot of organizations like the security and [[Scalability]] of these Analysis Services models.
 >
 > **[3:50](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-multidimensional-databases?u=76281980&t=230)** However, the live connection really limits model capabilities.
 >
@@ -3654,7 +3603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (6), [[DAX]] (5), power (5), bi (5)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (5), [[Databases]] (4), [[Microsoft Power Query|Power query]] (4), [[Relational Databases]] (3)
 > **Env Vars:** dax (5), mdx (3), sql (2), api (1), pbx (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** as we saw (1), in the last (1)
@@ -3667,20 +3616,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980)
+#### [Loading data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=0)** - [Instructor] As we're loading data into Power BI, we want to think about modeling components like table joins, connection modes, composite models, and so on.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=0)** - [Instructor] As we're loading data into [[Microsoft Power BI|Power BI]], we want to think about modeling components like table joins, connection modes, composite models, and so on.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=8)** If you're an Excel Power user, you can probably connect together disparate tables into a single consolidated table view in your sleep.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=8)** If you're an [[Microsoft Excel|Excel]] Power user, you can probably connect together disparate tables into a single consolidated table view in your sleep.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=16)** Within Power BI, however, we typically want to join the tables together after we load the data into the model, if we can.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=24)** Let's start with the Power BI model containing dates and weather data.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=28)** The weather data is the fact table connected to a SQL Server relational database table.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=28)** The weather data is the fact table connected to a [[Microsoft SQL Server|SQL Server]] relational database table.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=33)** I use the direct query connection mode here.
 >
@@ -3706,7 +3654,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=95)** Now let's load the remaining tables into Power BI.
 >
-> **[1:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=100)** We'll acknowledge the security risk and load our data.
+> **[1:40](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=100)** We'll acknowledge the [[Security Risk]] and load our data.
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=108)** Once the data loads, if we navigate to the data view, we can see the weather data table doesn't display because it directly queries the data source with a direct query.
 >
@@ -3714,7 +3662,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=123)** We can see the connectivity modes in the top left of each table.
 >
-> **[2:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=128)** I find they're much easier to find in the model view than they are in Power Query.
+> **[2:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=128)** I find they're much easier to find in the model view than they are in [[Microsoft Power Query|Power Query]].
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980&t=133)** The weather fact table uses a direct query and the days dimension uses an import.
 >
@@ -3764,19 +3712,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), power (8), bi (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Security Risk]] (1)
 > **UI Navigation:** dropdown (2), navigate to (2), select the (1), go to (1), click on (1)
 > **CLI Commands:** make (2), find (2)
 > **Warnings:** warning (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980)
+#### [Managing errors](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=0)** - [Instructor] When we build queries to load into Power BI, there are two types of errors that we'll run into.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=0)** - [Instructor] When we build queries to load into [[Microsoft Power BI|Power BI]], there are two types of errors that we'll run into.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=6)** Step level errors occur when the query editor's step cannot return the intended result for the entire function performed, or even the entire query.
 >
@@ -3812,7 +3759,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=118)** Fixing errors here after loading them can be a huge pain and slightly cumbersome, but once we fix them, we can then use these data fields in our model.
 >
-> **[2:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=128)** If we select view errors, this opens the Power Query editor again.
+> **[2:08](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=128)** If we select view errors, this opens the [[Microsoft Power Query|Power Query]] editor again.
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-data-methods-23487089/managing-errors?u=76281980&t=133)** Now in Power Query, we see our original data table and we see a new folder containing the errors that appear in these rows.
 >
@@ -3852,20 +3799,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (6), bi (6), [[Microsoft Power Query|Power query]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Power Query|Power query]] (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refreshing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980)
+#### [Refreshing data](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=0)** - [Instructor] We can think of Power BI Desktop as a design and development application.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=0)** - [Instructor] We can think of [[Microsoft Power BI|Power BI]] Desktop as a design and development application.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=5)** Well, the Power BI services where we share our work, are more for enterprise level scalability and shareability for working across an organization, I've created two Power BI models, one that refreshes in the Power BI service automatically and one that doesn't.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=5)** Well, the Power BI services where we share our work, are more for enterprise level [[Scalability]] and shareability for working across an organization, I've created two Power BI models, one that refreshes in the Power BI service automatically and one that doesn't.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=23)** The Power BI file, Weather 1, uses a custom function to call the station name for LAX and Santa Barbara.
 >
@@ -3901,7 +3847,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=149)** Now let's try publishing the Weather 2 Power BI model.
 >
-> **[2:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=153)** That includes the dependent tables joined together directly in the Power Query editor.
+> **[2:33](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=153)** That includes the dependent tables joined together directly in the [[Microsoft Power Query|Power Query]] editor.
 >
 > **[2:39](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=159)** We'll follow the same steps to publish it to our Power BI account and the same workspace.
 >
@@ -3913,7 +3859,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=195)** We see the section for updating the edit credentials.
 >
-> **[3:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=200)** We'll choose anonymous and I'm going to choose organizational as our privacy level.
+> **[3:20](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=200)** We'll choose anonymous and I'm going to choose organizational as our [[Privacy]] level.
 >
 > **[3:32](https://www.linkedin.com/learning/power-bi-data-methods-23487089/refreshing-data?u=76281980&t=212)** Now we're repeating this twice because we took two queries and we appended them together.
 >
@@ -3939,7 +3885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), power (17), bi (17), application (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (17), [[Scalability]] (1), [[Microsoft Power Query|Power query]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (3), select the (1), navigate to (1), go to (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** lax (2), url (1)
@@ -3953,18 +3899,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980)
+#### [Continuing on with Power BI](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=0)** - We've reached the end.
 >
-> **[0:02](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=2)** Thank you so much for learning about Data Methods and Power BI with me.
+> **[0:02](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=2)** Thank you so much for learning about Data Methods and [[Microsoft Power BI|Power BI]] with me.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=6)** We covered a lot here, and if you're interested in learning more about Power BI, check out other courses, including my own in the LinkedIn Learning Library.
+> **[0:06](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=6)** We covered a lot here, and if you're interested in learning more about Power BI, check out other courses, including my own in the [[LinkedIn]] Learning Library.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=14)** If you want to see more sample data visualizations and dashboards, check out my website, [helendatadesign.com](https://helendatadesign.com).
+> **[0:14](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=14)** If you want to see more sample data visualizations and [[Dashboards]], check out my website, [helendatadesign.com](https://helendatadesign.com).
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980&t=21)** You can also follow me on LinkedIn to see more of my contents and work.
 >
@@ -3972,7 +3917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), bi (2), [[LinkedIn]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[LinkedIn]] (2), [[Dashboards]] (1)
 > **URLs:** [helendatadesign.com](https://helendatadesign.com) (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)

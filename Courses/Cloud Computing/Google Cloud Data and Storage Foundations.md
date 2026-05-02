@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Cloud storage and databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980)
+#### [Google Cloud storage and databases](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980&t=0)** - Hey there, folks, my name's Mark Johnson, and I'm here today to talk to you about a brand new revised course on Google Cloud Data and Storage Foundations.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980&t=0)** - Hey there, folks, my name's Mark Johnson, and I'm here today to talk to you about a brand new revised course on [[Google Cloud Platform (GCP)|Google Cloud]] Data and Storage Foundations.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980&t=8)** Now, I understand there's a lot of different options you can choose from when it comes to data and storage within Google Cloud, but when would you use each one?
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Speakers:** - hey (1)
 
 
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your storage and database options
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980)
+#### [Understanding your storage and database options](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,15 +110,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=3)** Starting off with a brand new decision tree.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=6)** And this is really going to help you decide which storage option to use when you're setting up your Google Cloud application, or you're just trying to solve any type of database problem that you may have.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=6)** And this is really going to help you decide which storage option to use when you're setting up your [[Google Cloud Platform (GCP)|Google Cloud]] application, or you're just trying to solve any type of database problem that you may have.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=20)** Now, the first thing, and really the first question you really need to understand is, is your data structured?
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=26)** So when you're looking at that from the top, we have two options if you say no.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=31)** And that is Filestore, which is basically a network-attached storage, otherwise known as a NAS, and that's if you need to share files in a system similar to like a Windows file system.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=31)** And that is Filestore, which is basically a network-attached storage, otherwise known as a NAS, and that's if you need to share files in a system similar to like a [[Windows]] file system.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=44)** And then you also have Cloud Storage.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=44)** And then you also have [[Cloud Storage]].
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=47)** So if you don't have that use case, Cloud Storage is great for just dumping data into a big old blob store, a bucket.
 >
@@ -136,11 +134,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=80)** So that's where Bigtable comes into play.
 >
-> **[1:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=82)** And Bigtable's NoSQL, and it's a really good option for that.
+> **[1:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=82)** And Bigtable's [[NoSQL]], and it's a really good option for that.
 >
 > **[1:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=87)** But if you have relational data, BigQuery is a very good option as well when you need very high-speed reads.
 >
-> **[1:35](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=95)** And any type of data warehouse, you're doing a lot of SQL querying, BigQuery is a good option there.
+> **[1:35](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=95)** And any type of data warehouse, you're doing a lot of [[SQL]] querying, BigQuery is a good option there.
 >
 > **[1:42](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=102)** Staying on the same topic there, is your data relational?
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=135)** It's an enterprise solution, and we'll talk a little bit more about that later on in the course.
 >
-> **[2:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=140)** The next question, do you need global scalability?
+> **[2:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=140)** The next question, do you need global [[Scalability]]?
 >
 > **[2:25](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=145)** Well, if you do, that's where Cloud Spanner comes into play.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=166)** And then the last question you need to ask yourself, do you need any type of application caching?
 >
-> **[2:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=171)** And that's where Memorystore comes in and fits the need there because it's basically an in-memory, Redis database.
+> **[2:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=171)** And that's where Memorystore comes in and fits the need there because it's basically an in-memory, [[Redis]] database.
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=178)** And if you need very, very fast speeds and that type of performance, cache, all that good stuff, that's where Cloud Memorystore is really a good option.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=206)** Ultimately, this storage and decision tree is going to help you make decisions on what type of database to use in the cloud, and I'm going to go into a lot more detail coming up in these next videos.
 >
-> **[3:38](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=218)** This course is going to really tie into all of these Google Cloud online storage products that you see here on this website.
+> **[3:38](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=218)** This course is going to really tie into all of these Google Cloud online storage [[Microsoft Products|products]] that you see here on this website.
 >
 > **[3:46](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980&t=226)** And it's very extensive.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), database (7), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (3)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[NoSQL]] (2), [[SQL]] (2), [[Windows]] (1)
 > **Env Vars:** sql (2), htap (2), nas (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** similar to (1), picture (1)
@@ -205,8 +203,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What does object storage look like?
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980)
+#### [What does object storage look like?](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,9 +213,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=13)** But the first thing I want to ask you is what product or service could you build today if you had the ability to store data all around the world with the ability to have it backed up automatically?
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=26)** Because what I want you to do next is learn exactly what object storage is and how you can use it to store data, along with setting up a cloud storage bucket in GCP.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=26)** Because what I want you to do next is learn exactly what object storage is and how you can use it to store data, along with setting up a [[Cloud Storage]] bucket in GCP.
 >
-> **[0:39](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=39)** Setting up the cloud storage bucket, what we've done here is we've gone to the Google Cloud Storage website, and what we want to do is get a really good understanding of what the storage classes are and the different options you can choose from.
+> **[0:39](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=39)** Setting up the cloud storage bucket, what we've done here is we've gone to the [[Google Cloud Platform (GCP)|Google Cloud]] Storage website, and what we want to do is get a really good understanding of what the storage classes are and the different options you can choose from.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=55)** So we're going to scroll down here and look at these available storage classes.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=101)** And last but not least, we're going to help you decide on which one to use based on your use case or a problem you're trying to solve.
 >
-> **[1:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=110)** Okay, so for example, what I'd like to show you here is a very good use case of if you have a bunch of media files and you're trying to deliver media streaming capability to your clients, cloud storage gives you that capability because you could store all your media files in a cloud storage bucket as you see here in the middle of the screen, and your application can be running on compute engine, which is for virtual machines, and when you move the data into it, you batch load it all in.
+> **[1:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=110)** Okay, so for example, what I'd like to show you here is a very good use case of if you have a bunch of media files and you're trying to deliver media streaming capability to your clients, cloud storage gives you that capability because you could store all your media files in a cloud storage bucket as you see here in the middle of the screen, and your application can be running on compute engine, which is for [[Virtual Machines]], and when you move the data into it, you batch load it all in.
 >
 > **[2:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/what-does-object-storage-look-like?u=76281980&t=142)** And we're going to talk about a migration path a little bit later on in this course.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (7), gcp (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** gcp (2), cdn (1)
 > **Definitions:** is a  (2)
 > **Versions:** 99.99 (1)
@@ -256,14 +253,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Popular Google Cloud storage features
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980)
+#### [Popular Google Cloud storage features](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=0)** - [Presenter] Popular Google Cloud Storage Features.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=0)** - [Presenter] Popular [[Google Cloud Platform (GCP)|Google Cloud]] Storage Features.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=3)** Now, before we start talking about how you use the various features in cloud storage, the first thing I'd like you to think about is some ways you can currently improve or store information for your current or future application.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=3)** Now, before we start talking about how you use the various features in [[Cloud Storage]], the first thing I'd like you to think about is some ways you can currently improve or store information for your current or future application.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=22)** And the reason I want you to think about this is because with Google Cloud, you're going to have a lot of different options.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=210)** Now you have to do this from a command prompt.
 >
-> **[3:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=214)** So we're going to do gsutil and we're going to do versioning set on and then we're going to type in our bucket name and what this is going to do, think about Google Drive or think about Google Docs, if you ever deleted a file from there or you make a change to a document, what it does is it keeps a copy of the old one so that you can go back to it and that's exactly what this does.
+> **[3:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=214)** So we're going to do gsutil and we're going to do versioning set on and then we're going to type in our bucket name and what this is going to do, think about [[Google Drive]] or think about [[Google]] Docs, if you ever deleted a file from there or you make a change to a document, what it does is it keeps a copy of the old one so that you can go back to it and that's exactly what this does.
 >
 > **[4:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=244)** So if I have a picture and I upload something and then I delete it, I would be able to go back, and get that file and it would keep the old one.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=278)** So what we'll do, is we're going to run this command gsutil versioning, get on this storage bucket and we're going to see that it's now enabled.
 >
-> **[4:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=288)** And from this standpoint, the next thing we want to do, I'm going to go into my objects and let's just say I'm going to pick this file here, time-tracker.html.
+> **[4:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=288)** And from this standpoint, the next thing we want to do, I'm going to go into my objects and let's just say I'm going to pick this file here, time-tracker.[[HTML]].
 >
 > **[5:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/popular-google-cloud-storage-features?u=76281980&t=301)** So I'm going to hit delete on that and then once it's deleted, that's it, it's gone.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), hit (4), data (4), application (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Cloud Storage]] (5), [[Google Drive]] (1), [[Google]] (1), [[HTML]] (1)
 > **CLI Commands:** make (3), ls (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** such as (1), just like (1), picture (1)
@@ -362,12 +358,11 @@ created: 2026-05-02
 > **Env Vars:** gcp (1)
 > **Cross-References:** go back to (1)
 
-#### Optimizing Cloud Storage Costs with Autoclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/optimizing-cloud-storage-costs-with-autoclass?u=76281980)
+#### [Optimizing Cloud Storage Costs with Autoclass](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/optimizing-cloud-storage-costs-with-autoclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/optimizing-cloud-storage-costs-with-autoclass?u=76281980&t=0)** - [Instructor] Alright folks, so today we're going to talk about the latest Google Cloud storage option.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/optimizing-cloud-storage-costs-with-autoclass?u=76281980&t=0)** - [Instructor] Alright folks, so today we're going to talk about the latest [[Google Cloud Platform (GCP)|Google Cloud]] storage option.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/optimizing-cloud-storage-costs-with-autoclass?u=76281980&t=5)** And that feature is called autoclass.
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), feature (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **UI Navigation:** click on (4), checkbox (1)
 > **Cross-References:** we covered (1), earlier in (1), in the next (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -466,22 +461,21 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Migrating data in Cloud Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980)
+#### [Demo: Migrating data in Cloud Storage](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=0)** - [Tutor] In this session, we're going to demonstrate how to exactly migrate data into cloud storage.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=0)** - [Tutor] In this session, we're going to demonstrate how to exactly migrate data into [[Cloud Storage]].
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=8)** So the mystery we're going to be solving here is how we can migrate data very quickly using different tools.
 >
-> **[0:16](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=16)** So looking at this webpage here, this is Google Cloud's webpage on cloud data transfer, and you're going to see a lot of different options and we're going to cover some of these during our demo.
+> **[0:16](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=16)** So looking at this webpage here, this is [[Google Cloud Platform (GCP)|Google Cloud]]'s webpage on cloud data transfer, and you're going to see a lot of different options and we're going to cover some of these during our demo.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=28)** But first, since I want you to learn step by step on how we get to transferring data in the cloud storage, I want to show you how to create a project in GCP, which is what you'll need first before you do anything at all.
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=43)** So let's get started.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=44)** The first thing you want to do to get directly into GCP, if you go into the URL box and you just type in [console.cloud](https://console.cloud).[google.com](https://google.com), it's going to take you into GCP.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=44)** The first thing you want to do to get directly into GCP, if you go into the URL box and you just type in [console.cloud](https://console.cloud).[[[Google]].com](https://google.com), it's going to take you into GCP.
 >
 > **[0:57](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=57)** Now, from here, you may see you already have a project, like what we're seeing on my screen, but let's just say you don't, I'm going to show you how to create one.
 >
@@ -493,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=90)** Now this project ID can't be changed later.
 >
-> **[1:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=94)** It's something that goes across all of Google Cloud platform, but in this case, you can edit the project name, but the project ID stays the same.
+> **[1:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=94)** It's something that goes across all of [[Google Cloud Platform (GCP)|Google Cloud platform]], but in this case, you can edit the project name, but the project ID stays the same.
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=105)** So we're just going to hit Create.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=161)** You also can do it from the left hand side.
 >
-> **[2:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=164)** You could look through the different products and services here.
+> **[2:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=164)** You could look through the different [[Microsoft Products|products]] and services here.
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=167)** I will say that this list is ever growing, so it could be a little challenging to find what you're looking for if you don't know exactly what it is.
 >
@@ -571,13 +565,13 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=284)** And to show you, I'm going to click on these different ones.
 >
-> **[4:49](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=289)** I'll click on this one here, the results of the survey, this is HTML page I uploaded.
+> **[4:49](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=289)** I'll click on this one here, the results of the survey, this is [[HTML]] page I uploaded.
 >
 > **[4:56](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=296)** You see the actual link taking you right to the file.
 >
 > **[4:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=299)** If I click it, it will show up.
 >
-> **[5:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=303)** And you'll also see the date, time, and all good types of metadata that you can use to help you search and organize this information.
+> **[5:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=303)** And you'll also see the date, time, and all good types of [[Metadata]] that you can use to help you search and organize this information.
 >
 > **[5:12](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=312)** Okay, so for the next part of the migration tutorial, what we're going to do is we're going to show you exactly how you can move data into cloud storage using what's called GS util.
 >
@@ -623,7 +617,7 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=482)** And when we click on create transfer, what you're going to see is several different options that you can migrate data from.
 >
-> **[8:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=489)** So we have Google Cloud storage, we have a Amazon S3 bucket, Microsoft Azure storage container, and just plain URLs.
+> **[8:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=489)** So we have Google Cloud storage, we have a Amazon S3 bucket, [[Microsoft Azure]] storage container, and just plain URLs.
 >
 > **[8:19](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=499)** So for the purpose of this video, we're going to go from another Google Cloud storage bucket.
 >
@@ -675,11 +669,11 @@ created: 2026-05-02
 >
 > **[10:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=622)** So just like that, we did a migration from another Google Cloud storage bucket.
 >
-> **[10:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=627)** And keep in mind, you could use this to get data from AWS, Azure, websites anywhere, you can migrate it directly into GCP.
+> **[10:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=627)** And keep in mind, you could use this to get data from AWS, [[Microsoft Azure|Azure]], websites anywhere, you can migrate it directly into GCP.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), cloud (10), gcp (10), hit (9), [[Google Cloud Platform (GCP)|Google cloud]] (6)
+> **Frameworks & Libraries:** [[Cloud Storage]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (5), [[Microsoft Products|Products]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** gcp (10), png (3), url (1), html (1), gsu (1)
 > **UI Navigation:** click on (6), go to (3), dropdown (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1), ls (1), cp (1), aws (1)
@@ -693,8 +687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding relational database options on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980)
+#### [Understanding relational database options on GCP](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=4)** The question I'd like you to be able to answer at the end of this session is what are my relational database options on GCP, and why would I choose one over the other?
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=17)** So the first thing I'd like to do is we went to the Google Cloud resources website here and looking at this report from Gartner, who is a well-known research firm that does a lot of research on a lot of different cloud vendors, you could see that Google's one of the leaders in this area.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=17)** So the first thing I'd like to do is we went to the [[Google Cloud Platform (GCP)|Google Cloud]] resources website here and looking at this report from Gartner, who is a well-known research firm that does a lot of research on a lot of different cloud vendors, you could see that [[Google]]'s one of the leaders in this area.
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=35)** So I just wanted to kind of give you an idea of like what this space looks like.
 >
@@ -710,11 +703,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=46)** And with that being said, I'd like to jump over and look at some of the things in regards to database solutions.
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=54)** You could use relational databases that is, and what you see in Google is you have a bare metal solution, which is typically for your Oracle workloads.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=54)** You could use [[Relational Databases]] that is, and what you see in Google is you have a bare metal solution, which is typically for your Oracle workloads.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=66)** It's a rather new offering that Google came out within these past 18 months or so.
 >
-> **[1:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=71)** The next option here is Cloud SQL, which we're going to dive a little bit deeper into here shortly, which is your typical managed MySQL, PostgreSQL, and SQL Server.
+> **[1:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=71)** The next option here is Cloud [[SQL]], which we're going to dive a little bit deeper into here shortly, which is your typical managed [[MySQL]], [[PostgreSQL]], and [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=81)** And then the last one here is Cloud Spanner.
 >
@@ -726,7 +719,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=110)** And once we get in here, I'm just going to set up an instance, the beginning stages.
 >
-> **[1:55](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=115)** And the first thing that you see here is you have the different options of the MySQL, Postgres and Microsoft SQL Server.
+> **[1:55](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=115)** And the first thing that you see here is you have the different options of the MySQL, [[PostgreSQL|Postgres]] and [[Microsoft SQL Server]].
 >
 > **[2:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=123)** Now, you could say, okay, I could run three versions of SQL.
 >
@@ -744,7 +737,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=159)** So it's so great because you're going to see a lot of features here coming up here shortly in regards to how we can automate your backups, replication.
 >
-> **[2:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=168)** And then another key thing is there's a data migration service that Google offers that allows you to easily migrate production databases into GCP.
+> **[2:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=168)** And then another key thing is there's a data migration service that Google offers that allows you to easily migrate production [[Databases]] into GCP.
 >
 > **[3:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980&t=180)** So this is something that you definitely want to take advantage of because it can actually help you get up and running a lot quicker on the cloud when you're using some more of these automated services.
 >
@@ -774,7 +767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[SQL]] (10), [[Google]] (6), database (5), data (4)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Google]] (6), [[MySQL]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (12), gcp (3)
 > **CLI Commands:** mysql (3), make (1)
 > **Prerequisites:** set up (4)
@@ -783,18 +776,17 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise PostgreSQL with AlloyDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980)
+#### [Enterprise PostgreSQL with AlloyDB](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=0)** - [Instructor] All right, folks, so now we're going to talk about the latest relational database on GCP, and that's AlloyDB.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=7)** Now, AlloyDB for PostgreSQL, it's a fully managed PostgreSQL option, but check this out, it's only really for enterprise workloads, and that's demanding enterprise workloads.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=7)** Now, AlloyDB for [[PostgreSQL]], it's a fully managed PostgreSQL option, but check this out, it's only really for enterprise workloads, and that's demanding enterprise workloads.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=22)** So as we're looking at all these options and features here, you're seeing it's fully compatible with PostgreSQL.
 >
-> **[0:29](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=29)** The key differentiator is superior performance, four times faster than standard PostgreSQL, so if you find yourself hitting the limits of what Postgres can provide you, whether that be on a standard VM or using Cloud SQL, take a look at AlloyDB.
+> **[0:29](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=29)** The key differentiator is superior performance, four times faster than standard PostgreSQL, so if you find yourself hitting the limits of what [[PostgreSQL|Postgres]] can provide you, whether that be on a standard VM or using Cloud [[SQL]], take a look at AlloyDB.
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=44)** It could definitely be a good option for you.
 >
@@ -820,7 +812,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=121)** But let's go back to the HTAP.
 >
-> **[2:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=123)** Now, I'm looking at it right here on the Wikipedia page, and you could see right here in the middle of the page, it solves the issue of analytic latency by eliminating the need for multiple copies of the same data and requirement for data to be offloaded from operational databases to data warehouses via ETL processes.
+> **[2:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=123)** Now, I'm looking at it right here on the Wikipedia page, and you could see right here in the middle of the page, it solves the issue of analytic latency by eliminating the need for multiple copies of the same data and requirement for data to be offloaded from operational [[Databases]] to data warehouses via ETL processes.
 >
 > **[2:23](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=143)** So all that says is basically the how data is moving, the latency, the speed, as we've talked about earlier, if you want to dig deep into what HTAP is, you can do that here on this Wikipedia page.
 >
@@ -832,7 +824,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=167)** All right, so what we're going to do now, we're going to go ahead and create a cluster.
 >
-> **[2:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=171)** Now, when you're talking about cost, as I mentioned before, anytime you bring up that word cluster, expect to pay, okay?
+> **[2:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=171)** Now, when you're talking about cost, as I mentioned before, anytime you bring up that [[Microsoft Word|word]] cluster, expect to pay, okay?
 >
 > **[2:57](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=177)** That's just the the honest truth.
 >
@@ -890,11 +882,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=384)** I can add in new tabs.
 >
-> **[6:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=386)** There's also some AI components in here as well that you can use with Gemini, so there's a lot of cool things in here that you can take advantage of from the extensions and so forth, and it gives you that really cool explorer access to the database, and you can even switch users from this as well.
+> **[6:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=386)** There's also some AI components in here as well that you can use with [[Gemini]], so there's a lot of cool things in here that you can take advantage of from the extensions and so forth, and it gives you that really cool explorer access to the database, and you can even switch users from this as well.
 >
 > **[6:42](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=402)** So some cool stuff here.
 >
-> **[6:43](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=403)** If you ever need to take advantage of the studio where you can just do it all within the Google Cloud console, this is the place to go.
+> **[6:43](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=403)** If you ever need to take advantage of the studio where you can just do it all within the [[Google Cloud Platform (GCP)|Google Cloud]] console, this is the place to go.
 >
 > **[6:52](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/enterprise-postgresql-with-alloydb?u=76281980&t=412)** Now we're going to go look at the system insights, and in here, once again, this is more in depth from what I was showing you from the initial dashboard, so a lot of in depth info here as far as monitoring your cluster.
 >
@@ -918,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[PostgreSQL]] (8), cloud (7), data (5), [[SQL]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (8), [[SQL]] (3), [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), htap (3), gcp (1), sla (1), etl (1)
 > **UI Navigation:** click on (2), dropdown (1), go to (1), select the (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -927,8 +919,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Versions:** 99.999 (1)
 
-#### Relational databases: When to use Cloud SQL or Cloud Spanner
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980)
+#### [Relational databases: When to use Cloud SQL or Cloud Spanner](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,17 +927,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=4)** You got it.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=5)** Should I choose Cloud SQL instead of Cloud Spanner?
+> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=5)** Should I choose Cloud [[SQL]] instead of Cloud Spanner?
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=10)** Now, the first thing we want to know is, what value does Cloud Spanner provide over Cloud SQL, and then, when should I use it over Cloud SQL?
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=19)** And we're going to jump into that right now.
 >
-> **[0:21](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=21)** So, what we're going to do, is we're looking directly at Google Cloud Solutions' webpage here, and they have a very nice article here, and diagram, showing you how to store data in Google Cloud.
+> **[0:21](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=21)** So, what we're going to do, is we're looking directly at [[Google Cloud Platform (GCP)|Google Cloud]] Solutions' webpage here, and they have a very nice article here, and diagram, showing you how to store data in Google Cloud.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=36)** And since we're specifically talking about Cloud SQL versus Cloud Spanner, when you're looking at this decision tree, both of these are structured data, we're not talking about analytical, but we are talking about relational data.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=53)** And when you move over into horizontal scaling, and this is going to be the key difference between both of these products, is that Cloud SQL isn't horizontal, meaning it can't go all over the world, and as wide, and literally span across the world, where Cloud Spanner can.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=53)** And when you move over into horizontal scaling, and this is going to be the key difference between both of these [[Microsoft Products|products]], is that Cloud SQL isn't horizontal, meaning it can't go all over the world, and as wide, and literally span across the world, where Cloud Spanner can.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=73)** So, those are the main differences.
 >
@@ -956,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=96)** Now, the way to think about it is, Cloud Spanner is global.
 >
-> **[1:42](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=102)** Global, global, global is going to be Cloud Spanner, when you're talking about relational databases.
+> **[1:42](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=102)** Global, global, global is going to be Cloud Spanner, when you're talking about [[Relational Databases]].
 >
 > **[1:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=108)** And if I were to go in here and create an instance, what you're going to see is, when you get down to choose a configuration, I can choose between Regional or Multi-region.
 >
@@ -990,7 +981,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=214)** Now we're going to go over to Cloud SQL.
 >
-> **[3:37](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=217)** Now, when I click Cloud SQL, and we're just going to go with MySQL, the main difference you're going to see here is that you don't have those multiple regions and multiple zones all clustered together, you're just picking one region, you could pick a zone here.
+> **[3:37](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=217)** Now, when I click Cloud SQL, and we're just going to go with [[MySQL]], the main difference you're going to see here is that you don't have those multiple regions and multiple zones all clustered together, you're just picking one region, you could pick a zone here.
 >
 > **[3:56](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/relational-databases-when-to-use-cloud-sql-or-cloud-spanner?u=76281980&t=236)** I can also come down and choose my database version, of course.
 >
@@ -1008,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[SQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Products|Products]] (1), [[Relational Databases]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (9)
 > **CLI Commands:** node (2), mysql (1)
 > **Prerequisites:** set up (2)
@@ -1016,16 +1007,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### The benefits of using Cloud SQL and Cloud Spanner
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980)
+#### [The benefits of using Cloud SQL and Cloud Spanner](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=0)** - [Instructor] Okay, so for this next demo, we're going to set up a MySQL virtual machine, and then I'm going to show you how you can use Cloud SQL instead of using a MySQL virtual machine to just overall improve the reliability of your database and just take advantage of some of the perks of Cloud SQL in general.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=0)** - [Instructor] Okay, so for this next demo, we're going to set up a [[MySQL]] virtual machine, and then I'm going to show you how you can use Cloud [[SQL]] instead of using a MySQL virtual machine to just overall improve the reliability of your database and just take advantage of some of the perks of Cloud SQL in general.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=22)** So the first thing we want to do, and this is going to be the fastest way to do it, is we're going to go into the Google Cloud marketplace.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=22)** So the first thing we want to do, and this is going to be the fastest way to do it, is we're going to go into the [[Google Cloud Platform (GCP)|Google Cloud]] marketplace.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=31)** And in here we're going to see WordPress.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=31)** And in here we're going to see [[WordPress]].
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=34)** We're going to just click right on that.
 >
@@ -1059,7 +1049,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=119)** So we're going to go and hit deploy.
 >
-> **[2:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=121)** And what this is actually using to do this all for you is what's called Google Deployment Manager, which is a little bit out of the scope for this fundamental course.
+> **[2:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=121)** And what this is actually using to do this all for you is what's called [[Google]] Deployment Manager, which is a little bit out of the scope for this fundamental course.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=130)** But ultimately what this tool does for you is it allows you to write your whole infrastructure out in scripts.
 >
@@ -1099,7 +1089,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=285)** And then when you get down here to maintenance, you could choose a maintenance window.
 >
-> **[4:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=290)** So when you're talking about databases and maintenance and security patches, things of that nature, that's another thing that comes with Cloud SQL that's done for you.
+> **[4:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=290)** So when you're talking about [[Databases]] and maintenance and security patches, things of that nature, that's another thing that comes with Cloud SQL that's done for you.
 >
 > **[5:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=301)** And you could just choose a preferred window on when you want these things to happen.
 >
@@ -1145,11 +1135,11 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=433)** All right, so here we're going to go to where our files are installed.
 >
-> **[7:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=442)** And in here we're going to zoom in a little bit.
+> **[7:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=442)** And in here we're going to [[Zoom]] in a little bit.
 >
 > **[7:25](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=445)** I want you to really keep in mind or really just take note of the file we're going to edit here.
 >
-> **[7:32](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=452)** So we're going to use an editor, and it's this config PHP file.
+> **[7:32](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=452)** So we're going to use an editor, and it's this config [[PHP]] file.
 >
 > **[7:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/the-benefits-of-using-cloud-sql-and-cloud-spanner?u=76281980&t=460)** And in this PHP file, this contains all your configurations for your WordPress.
 >
@@ -1221,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), cloud (11), [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5)
+> **Frameworks & Libraries:** [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[WordPress]] (4), [[Google]] (2)
 > **Env Vars:** sql (11), gcp (2), php (2), cpu (1), hctps (1)
 > **CLI Commands:** mysql (9), php (2)
 > **Prerequisites:** set up (7), setup (1), configure (1)
@@ -1230,16 +1220,15 @@ created: 2026-05-02
 > **Ports:** :00 (3)
 > **Warnings:** keep in mind (3)
 
-#### Demo: Connecting to GCP from a WordPress app
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980)
+#### [Demo: Connecting to GCP from a WordPress app](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=0)** - [Instructor] Okay, so for this next demo, we're going to set up a MySQL virtual machine, and then I'm going to show you how you can use Cloud SQL instead of using a MySQL virtual machine to just overall improve the reliability of your database and just take advantage of some of the perks of Cloud SQL in general.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=0)** - [Instructor] Okay, so for this next demo, we're going to set up a [[MySQL]] virtual machine, and then I'm going to show you how you can use Cloud [[SQL]] instead of using a MySQL virtual machine to just overall improve the reliability of your database and just take advantage of some of the perks of Cloud SQL in general.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=22)** So the first thing we want to do, and this is going to be the fastest way to do it, is we're going to go into the Google Cloud Marketplace.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=22)** So the first thing we want to do, and this is going to be the fastest way to do it, is we're going to go into the [[Google Cloud Platform (GCP)|Google Cloud]] Marketplace.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=31)** And in here we're going to see WordPress.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=31)** And in here we're going to see [[WordPress]].
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=34)** We're going to just click right on that.
 >
@@ -1273,7 +1262,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=119)** So we're going to go and hit deploy.
 >
-> **[2:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=121)** And what this is actually using to do this all for you is what's called Google Deployment Manager, which is a little bit out of the scope for this fundamental course.
+> **[2:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=121)** And what this is actually using to do this all for you is what's called [[Google]] Deployment Manager, which is a little bit out of the scope for this fundamental course.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=130)** But ultimately what this tool does for you is it allows you to write your whole infrastructure out in scripts.
 >
@@ -1315,7 +1304,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=285)** And then when you get down here to maintenance, you could choose a maintenance window.
 >
-> **[4:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=290)** So when you're talking about databases and maintenance and security patches, things of that nature, that's another thing that comes with Cloud SQL that's done for you.
+> **[4:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=290)** So when you're talking about [[Databases]] and maintenance and security patches, things of that nature, that's another thing that comes with Cloud SQL that's done for you.
 >
 > **[5:01](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=301)** And you could just choose a preferred window on when you want these things to to happen.
 >
@@ -1363,11 +1352,11 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=433)** All right, so here, we're going to go to where our files are installed.
 >
-> **[7:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=442)** And in here we're going to zoom in a little bit.
+> **[7:22](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=442)** And in here we're going to [[Zoom]] in a little bit.
 >
 > **[7:25](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=445)** I want you to really keep in mind, or really just take note of the file we're going to edit here.
 >
-> **[7:32](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=452)** So we're going to use an editor, and it's this config.PHP file.
+> **[7:32](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=452)** So we're going to use an editor, and it's this config.[[PHP]] file.
 >
 > **[7:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-connecting-to-gcp-from-a-wordpress-app?u=76281980&t=460)** And in this PHP file, this contains all your configurations for your WordPress.
 >
@@ -1439,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), cloud (11), [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5)
+> **Frameworks & Libraries:** [[SQL]] (11), [[MySQL]] (9), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[WordPress]] (4), [[Google]] (2)
 > **Env Vars:** sql (11), gcp (2), php (2), cpu (1), https (1)
 > **CLI Commands:** mysql (9), php (2), ssh (1)
 > **Prerequisites:** set up (7), setup (1), configure (1)
@@ -1453,16 +1442,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding non-relational database options on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980)
+#### [Understanding non-relational database options on GCP](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=0)** - [Instructor] Understanding non-relational database options on GCP.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=5)** This is also called NoSQL, so if you see that term come up, you're in the right place.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=5)** This is also called [[NoSQL]], so if you see that term come up, you're in the right place.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=11)** Okay, so the first thing we want to do is we're going to go to the Google Cloud Database website.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=11)** Okay, so the first thing we want to do is we're going to go to the [[Google Cloud Platform (GCP)|Google Cloud]] Database website.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=17)** And just like we did when we looked at our relational database options, we're going to scroll down underneath that, and we're going to find that there's two options, Cloud Bigtable and Cloud Firestore.
 >
@@ -1478,11 +1466,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=59)** Also, think about a database that could scale horizontally.
 >
-> **[1:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=64)** And when you're talking about mobility, mobile apps, web development, server development, let's say you're building video games, things of that nature, it's really good for things like profile data, being able to push all that data into Google Cloud so it's accessible from devices all over the place.
+> **[1:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=64)** And when you're talking about mobility, mobile apps, [[Web Development]], server development, let's say you're building video games, things of that nature, it's really good for things like profile data, being able to push all that data into Google Cloud so it's accessible from devices all over the place.
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=83)** So it's really, really good for that, and it really is popular with a lot of mobile applications.
 >
-> **[1:30](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=90)** When we talk about Cloud Bigtable, on the other hand, if you were to think about it in a way that would be easy to explain or why you'd want to use it, think about large, big, big data, data over one terabyte or more.
+> **[1:30](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=90)** When we talk about Cloud Bigtable, on the other hand, if you were to think about it in a way that would be easy to explain or why you'd want to use it, think about large, big, [[Big Data]], data over one terabyte or more.
 >
 > **[1:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980&t=107)** Think about very fast or rapidly changing, like I mentioned earlier as far as streaming, you're trying to send things and data into a database constantly.
 >
@@ -1492,25 +1480,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), cloud (6), data (6), gcp (2), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[NoSQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Web Development]] (1), [[Big Data]] (1)
 > **Env Vars:** gcp (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Non-relational databases: When to use Cloud Firestore or Cloud Bigtable
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980)
+#### [Non-relational databases: When to use Cloud Firestore or Cloud Bigtable](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=0)** - [Instructor] When to use Cloud Firestore or Cloud Bigtable.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=5)** Now, I love this question because when you're looking at No SQL databases on GCP, there's a lot of different ways you can do things, but ultimately, in a lot of cases for a lot of customers, it really comes down to Cloud Firestore or Cloud Bigtable.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=5)** Now, I love this question because when you're looking at No [[SQL]] [[Databases]] on GCP, there's a lot of different ways you can do things, but ultimately, in a lot of cases for a lot of customers, it really comes down to Cloud Firestore or Cloud Bigtable.
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=23)** And I'm going to show you when and why you would use each one right now.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=27)** So looking at this decision tree right off the Google Cloud Solutions website, I really like looking at this because it can give you a really good visualization of when to use each database.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=27)** So looking at this decision tree right off the [[Google Cloud Platform (GCP)|Google Cloud]] Solutions website, I really like looking at this because it can give you a really good visualization of when to use each database.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=39)** And we talked about this earlier in the course when we talked about Cloud SQL and Spanner, but now we're going to talk about Cloud Bigtable and Cloud Firestore.
 >
@@ -1522,13 +1509,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=76)** That's what Cloud Bigtable is going to be a great use case for.
 >
-> **[1:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=80)** There's also cloud BigQuery, we'll talk about that a little bit later in the course, but when you're talking about streaming data, when you're talking about Internet of Things, those are those use cases for Cloud Bigtable, and where the low latency really comes into play.
+> **[1:20](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=80)** There's also cloud BigQuery, we'll talk about that a little bit later in the course, but when you're talking about streaming data, when you're talking about [[IoT|Internet of Things]], those are those use cases for Cloud Bigtable, and where the low latency really comes into play.
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=96)** Now, as we go down through this decision tree, we're looking at non-relational data, and then do we need any type of hierarchy to it?
 >
 > **[1:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=107)** And you may be asking, what do you mean by hierarchy?
 >
-> **[1:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=110)** Well, in Cloud Firestore, when we go to this website, it's right on Google's Firebase Firestore documentation site, it gives you a very good understanding of how these hierarchal data structures work.
+> **[1:50](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=110)** Well, in Cloud Firestore, when we go to this website, it's right on [[Google]]'s [[Firebase]] Firestore documentation site, it gives you a very good understanding of how these hierarchal [[Data Structures]] work.
 >
 > **[2:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=124)** And for an example here you just have a database set up where you have rooms, then you have roomA, the name of that room, and then roomB, and you just keep going down and you build out this collection.
 >
@@ -1536,7 +1523,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=144)** But I just want you to see what that looks like here in regards to making a decision for which type of No SQL database you need to use for your application or whatever problem you're trying to solve.
 >
-> **[2:37](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=157)** And all that to say if we keep going down this, if you don't need hierarchal and you don't need to have something really fast in memory, which is Cloud Memorystore, which we're not going to talk about in this course, but that's based off Redis, which is an open source database and memory option, Cloud Bigtable is a great choice.
+> **[2:37](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=157)** And all that to say if we keep going down this, if you don't need hierarchal and you don't need to have something really fast in memory, which is Cloud Memorystore, which we're not going to talk about in this course, but that's based off [[Redis]], which is an open source database and memory option, Cloud Bigtable is a great choice.
 >
 > **[2:57](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/non-relational-databases-when-to-use-cloud-firestore-or-cloud-bigtable?u=76281980&t=177)** So, and it basically goes down to once you say No Relational, well that's where you get No SQL from because we just say no, say no to hierarchy, and then we say no to in memory and that brings you down to Cloud Bigtable.
 >
@@ -1546,7 +1533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), [[SQL]] (5), database (4), data (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[IoT|Internet of things]] (1), [[Google]] (1)
 > **Env Vars:** sql (5), gcp (1)
 > **Cross-References:** we talked about (2), earlier in (1), later in (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1555,16 +1542,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Setting up a Firestore and Bigtable database
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980)
+#### [Demo: Setting up a Firestore and Bigtable database](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=0)** - [Instructor] Okay, so what we're going to do is we're going to set up a Cloud Firestore database.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=6)** And the whole purpose of this video is to show you how fast and quickly you can set up a NoSQL database with Firestore.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=6)** And the whole purpose of this video is to show you how fast and quickly you can set up a [[NoSQL]] database with Firestore.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=15)** And then we're also going to do the same thing with Cloud Bigtable and Cloud Bigtable, like I said earlier in this course, think of it when you think of big data, things like Gmail, Google Search, all those types of applications are built off of Bigtable and it's really, really fast.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=15)** And then we're also going to do the same thing with Cloud Bigtable and Cloud Bigtable, like I said earlier in this course, think of it when you think of [[Big Data]], things like Gmail, [[Google]] Search, all those types of applications are built off of Bigtable and it's really, really fast.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=34)** So that's the thing I want you to think about when you're thinking of Bigtable.
 >
@@ -1594,7 +1580,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=101)** And once we go ahead and do that, you're seeing there's a database, it's been created.
 >
-> **[1:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=107)** And to get a little bit more information on it, because it's so simple how to set this up, when you're looking at the Google Cloud website, it really tells you a really nice- There's some videos and some other things about it, but the bottom line is it's a NoSQL document-oriented database and there's no tables or rows, as you could see when we were just looking at it.
+> **[1:47](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=107)** And to get a little bit more information on it, because it's so simple how to set this up, when you're looking at the [[Google Cloud Platform (GCP)|Google Cloud]] website, it really tells you a really nice- There's some videos and some other things about it, but the bottom line is it's a NoSQL document-oriented database and there's no tables or rows, as you could see when we were just looking at it.
 >
 > **[2:08](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=128)** There's no tables or rows, it's just what's called key value pairs.
 >
@@ -1612,7 +1598,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=160)** It doesn't have to be in certain rows or columns.
 >
-> **[2:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=164)** And there's a lot more advanced information on this topic in general, but it's really designed for those who are doing a lot of web development, and you can see down here there's references to Swift, Objective-C, Java, Python, and all that stuff.
+> **[2:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=164)** And there's a lot more advanced information on this topic in general, but it's really designed for those who are doing a lot of [[Web Development]], and you can see down here there's references to [[Swift (Programming Language)|Swift]], Objective-C, [[Java]], [[Python (Programming Language)|Python]], and all that stuff.
 >
 > **[2:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=179)** So if you're doing a lot of web development and you need a serverless database, and that's the key thing with Cloud Firestore is it's serverless because you don't have to worry about setting up anything.
 >
@@ -1644,7 +1630,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=269)** Okay, we're right at the screen to set up a new Bigtable instance.
 >
-> **[4:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=274)** Now to keep in mind with Bigtable, really big data application, think about streaming, think about batch processing and think about Hadoop workloads, things like that.
+> **[4:34](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=274)** Now to keep in mind with Bigtable, really big data application, think about streaming, think about [[Batch Processing]] and think about [[Hadoop]] workloads, things like that.
 >
 > **[4:46](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=286)** It's really going to be able to take advantage of it.
 >
@@ -1690,7 +1676,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=432)** And while that's creating, and well, just like that, it created very quickly, just remember to think about why you would use something like this.
 >
-> **[7:19](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=439)** And I really want to push on the streaming and internet of things 'cause those are some really big applications you could use for this.
+> **[7:19](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=439)** And I really want to push on the streaming and [[IoT|internet of things]] 'cause those are some really big applications you could use for this.
 >
 > **[7:27](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=447)** But when you look in the interface, you're going to see it's going to be empty and bare bones because I don't have one terabyte nor a petabyte of data to throw in here to do any testing.
 >
@@ -1710,23 +1696,23 @@ created: 2026-05-02
 >
 > **[8:35](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=515)** And just like that, they're going to start updating and they just switch down to one node.
 >
-> **[8:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=520)** And lastly, I would just want to show you on the Google Cloud Bigtable website, there's a very nice use case under the financial analysis and it gives you some ideas to think about using Bigtable when you're talking about real time transactions or you're talking about stock market trading data, activity, all that good stuff, social media.
+> **[8:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=520)** And lastly, I would just want to show you on the Google Cloud Bigtable website, there's a very nice use case under the [[Financial Analysis]] and it gives you some ideas to think about using Bigtable when you're talking about real time transactions or you're talking about stock market trading data, activity, all that good stuff, social media.
 >
 > **[9:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=544)** And the bottom line is if you look at streaming here right at the bottom, it moves over into Dataflow, which actually controls the flow of your data.
 >
 > **[9:14](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=554)** You like that, right?
 >
-> **[9:15](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=555)** And from there, it's going to take it and it's going to put that data right into Bigtable, and from Bigtable, all these other Google Cloud products and services can tie right into that information and access it very quickly and you could do more things like analytics, you could do more processing, machine learning, all kinds of good stuff.
+> **[9:15](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=555)** And from there, it's going to take it and it's going to put that data right into Bigtable, and from Bigtable, all these other Google Cloud [[Microsoft Products|products]] and services can tie right into that information and access it very quickly and you could do more things like analytics, you could do more processing, machine learning, all kinds of good stuff.
 >
 > **[9:37](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=577)** It really just shows off ultimately the speed of Bigtable.
 >
-> **[9:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=581)** Once again, also, when you're looking at Dataflow, it's also controlling data going into BigQuery and Cloud Storage, which we talked about earlier.
+> **[9:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=581)** Once again, also, when you're looking at Dataflow, it's also controlling data going into BigQuery and [[Cloud Storage]], which we talked about earlier.
 >
 > **[9:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-setting-up-a-firestore-bigtable-database?u=76281980&t=591)** So you get the picture when you start really getting into big data, looking at things like Dataflow and how you're handling information that's being sent to your application is going to be very, very key.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (9), cloud (5), hit (5), application (4)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Big Data]] (3), [[NoSQL]] (2), [[Google]] (2), [[Web Development]] (2)
 > **CLI Commands:** node (4), make (3), python (1)
 > **Prerequisites:** set up (5), setup (2)
 > **UI Navigation:** click on (4)
@@ -1740,20 +1726,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using BigQuery as a data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980)
+#### [Using BigQuery as a data warehouse](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=0)** - [Instructor] Using BigQuery as a data warehouse.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=4)** Now, we reached the last section of this course, and to be honest, BigQuery is one of my favorite big data products in GCP.
+> **[0:04](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=4)** Now, we reached the last section of this course, and to be honest, BigQuery is one of my favorite [[Big Data]] [[Microsoft Products|products]] in GCP.
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=13)** And that's simply for the fact that it has no ops, meaning you don't have to do anything to really set it up.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=21)** And when you think about the value of this, it adds value like no other product does because looking at that slide right in the middle of the screen, you see you're going to have big data.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=33)** It's a good buzz word, everyone talks about it.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=33)** It's a good buzz [[Microsoft Word|word]], everyone talks about it.
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=35)** But the bottom line is once you have that data and you start analyzing it, that's when you really can start making some decisions.
 >
@@ -1763,13 +1748,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=56)** And that's where BigQuery really comes in.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=59)** So looking right at the Google Cloud website, what we're looking at here is, once again, no ops.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=59)** So looking right at the [[Google Cloud Platform (GCP)|Google Cloud]] website, what we're looking at here is, once again, no ops.
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=65)** You don't have to do anything to set this up.
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=67)** You are going to see that here in a minute.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=68)** You could just jump right in, start using SQL queries, serverless keyword here, serverless.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=68)** You could just jump right in, start using [[SQL]] queries, serverless keyword here, serverless.
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980&t=74)** But what I love, and this is one of my favorite things, is you all customers, you can do one terabyte in queries a month completely free.
 >
@@ -1783,18 +1768,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Big Data]] (2), [[Microsoft Products|Products]] (2), gcp (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Big Data]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** sql (3), gcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why use BigQuery instead of Cloud SQL or Cloud Spanner
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980)
+#### [Why use BigQuery instead of Cloud SQL or Cloud Spanner](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=0)** - [Instructor] Why would you use BigQuery instead of Cloud SQL or Cloud Spanner?
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=0)** - [Instructor] Why would you use BigQuery instead of Cloud [[SQL]] or Cloud Spanner?
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=6)** Now this is a great question, because all of these products here can analyze relational data with SQL.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=6)** Now this is a great question, because all of these [[Microsoft Products|products]] here can analyze relational data with SQL.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=14)** And the big question or the problem you need to solve really is going to come down to whether or not you are needing to analyze information or you're just looking to store it with some analyzing here and there.
 >
@@ -1808,7 +1792,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=60)** So we're going to open those up, and then when we scroll down, I'm going to keep on scrolling.
 >
-> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=69)** When you're talking about big data, we're going to see BigQuery.
+> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=69)** When you're talking about [[Big Data]], we're going to see BigQuery.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=73)** So jumping in between these, you see Spanner, like we mentioned before, global, fully managed relational database, all over the world at a global scale.
 >
@@ -1816,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=92)** But the cool thing about big queries you see here, this is just somewhere where you could just dump data into it, you could stream data into it, and it's really going to be good for those who are data scientists who want to learn about that information.
 >
-> **[1:45](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=105)** So the great thing about it is, is that you're going to pick this anytime you already have data, or you already have your databases up and running and you don't want to add any additional stress or add more resources to handle analytics, you could come and load the data right into BigQuery and start getting that information right away.
+> **[1:45](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=105)** So the great thing about it is, is that you're going to pick this anytime you already have data, or you already have your [[Databases]] up and running and you don't want to add any additional stress or add more resources to handle analytics, you could come and load the data right into BigQuery and start getting that information right away.
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=127)** So it's really cool, and that's why you would choose BigQuery over Cloud Spanner or Cloud SQL.
 >
@@ -1856,7 +1840,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=238)** Thing I want to do, let's go ahead and we have this dataset selected.
 >
-> **[4:02](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=242)** I'll just click on the top one here and I'm going to click COMPOSE NEW QUERY in the right hand corner.
+> **[4:02](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=242)** I'll just click on the top one here and I'm going to click [[Jetpack Compose|COMPOSE]] NEW QUERY in the right hand corner.
 >
 > **[4:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=249)** Now what I'm going to do is I'm going to use a query, I'm going to paste this from off the screen here.
 >
@@ -1930,13 +1914,13 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=449)** So hopefully this helps you make sense of how you could use BigQuery for some of your future projects.
 >
-> **[7:36](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=456)** Or maybe you want to learn more about data science and data analytics.
+> **[7:36](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=456)** Or maybe you want to learn more about [[Data Science]] and data analytics.
 >
 > **[7:40](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/why-use-bigquery-instead-of-cloud-sql-or-cloud-spanner?u=76281980&t=460)** So hopefully this helps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (10), cloud (5), [[Search]] (4), gcp (3)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Big Data]] (2), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** sql (10), gcp (3), ncaa (2), compose (1), query (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **CLI Commands:** find (3), make (1)
@@ -1945,26 +1929,25 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Demo: Creating an interactive report in Data Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980)
+#### [Demo: Creating an interactive report in Data Studio](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=0)** - [Instructor] Okay, we're at the last demo, but before we jump into it, I just want to talk about creating an interactive report in Data Studio.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=9)** Now, if you don't already know, Data Studio is a data visualization tool and it's really going to help us see all this information we've gathered and ran queries on within BigQuery or Cloud SQL or Spanner.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=9)** Now, if you don't already know, Data Studio is a data visualization tool and it's really going to help us see all this information we've gathered and ran queries on within BigQuery or Cloud [[SQL]] or Spanner.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=26)** Several data sources out there we could choose from, but the bottom line is we're going to be able to get some real visual insight on it, so it's easy to read and we can actually make some understanding of all the data we've been looking at.
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=41)** Now, going over to the Data Studio website, it does fall under the Marketing Platform.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=48)** But when you scrolling down and look at this, we're going to talk about dashboards a little bit, how you can explore it, helping your teams, you know, by sharing the knowledge, showing them different types of metrics.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=48)** But when you scrolling down and look at this, we're going to talk about [[Dashboards]] a little bit, how you can explore it, helping your teams, you know, by sharing the knowledge, showing them different types of metrics.
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=63)** And the main thing about it is, I'm just going to show you how easy it is.
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=67)** I'm just going to go ahead and jump right into it.
 >
-> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=69)** I'm just going to go to datastudio.[google.com](https://google.com).
+> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=69)** I'm just going to go to datastudio.[[[Google]].com](https://google.com).
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=72)** And from here, what we'll do, let's just take a little example report.
 >
@@ -2026,7 +2009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Google]] (3), cloud (1), [[SQL]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[SQL]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (4), go to (1), dropdown (1)
 > **Env Vars:** sql (1), csv (1)
@@ -2040,12 +2023,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980&t=0)** - [Instructor] Thank you for taking this course on Google Cloud Data and Storage Foundations, and I really hope you learned a lot from it.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980&t=0)** - [Instructor] Thank you for taking this course on [[Google Cloud Platform (GCP)|Google Cloud]] Data and Storage Foundations, and I really hope you learned a lot from it.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980&t=7)** But you may be wondering, "Where do I go next?"
 >
@@ -2085,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (4), database (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)

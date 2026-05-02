@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take pandas to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980)
+#### [Take pandas to the next level](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=0)** - [Brett] Python without Pandas is like skiing without skis.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=0)** - [Brett] [[Python (Programming Language)|Python]] without [[Pandas (Software)|Pandas]] is like skiing without skis.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=3)** You could do it, but it'd be a heck of a lot harder.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=20)** We'll be covering the most critical functions Pandas has to offer, from transforming data frames to advanced calculations, to techniques for rapid exploratory data analysis.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=31)** We'll also take a peek beyond Pandas for geospatial and big data processing.
+> **[0:31](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=31)** We'll also take a peek beyond Pandas for geospatial and [[Big Data]] processing.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980&t=37)** I want you to get the most out of your data.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), [[Python (Programming Language)|Python]] (1), next (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [brett] (1)
 
@@ -109,14 +108,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980)
+#### [Getting started with pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980&t=0)** - [Instructor] Import pandas as pd.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980&t=0)** - [Instructor] Import [[Pandas (Software)|pandas]] as pd.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980&t=2)** This is probably the single most common line of Python code you'll find in data science, and there's a reason for that.
+> **[0:02](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980&t=2)** This is probably the single most common line of [[Python (Programming Language)|Python]] code you'll find in [[Data Science]], and there's a reason for that.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980&t=9)** pandas is the easiest and most intuitive Python package for dealing with your data.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (5), data (3), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (5), [[Data Science]] (1)
 > **CLI Commands:** python (5), find (1), make (1), pip (1)
 > **Tools:** jupyter (2), command line (1), anaconda (1)
 > **Prerequisites:** install (3)
@@ -148,12 +146,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intro to DataFrames using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980)
+#### [Intro to DataFrames using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=0)** - [Instructor] The most fundamental aspect of pandas is the DataFrame.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=0)** - [Instructor] The most fundamental aspect of [[Pandas (Software)|pandas]] is the DataFrame.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=3)** This is how your data is stored, and it's a tabular format with rows and columns, as you'd find in a spreadsheet or a database table.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=17)** After importing pandas as pd, we're going to create a dictionary called scores.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=22)** Now, a dictionary is a Python structure which stores key-value pairs.
+> **[0:22](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=22)** Now, a dictionary is a [[Python (Programming Language)|Python]] structure which stores key-value pairs.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-pandas-29724107/intro-to-dataframes-using-pandas?u=76281980&t=27)** In this dictionary, the keys are name, city, and score, and the values are lists, as denoted by the square brackets, which map to their corresponding key.
 >
@@ -201,26 +198,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), python (1)
 > **Code Identifiers:** name_city (1)
 > **Speakers:** - [instructor] (1)
 
-#### Top functions using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980)
+#### [Top functions using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=0)** - [Instructor] As you use Pandas, you'll find there's certain functions that prove their worth time and time again.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=0)** - [Instructor] As you use [[Pandas (Software)|Pandas]], you'll find there's certain functions that prove their worth time and time again.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=6)** In this lesson, we'll cover some of the most important functions that you can use to get more from your data.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=12)** Pandas is very flexible in that you can import data from a wide variety of data sources, including CSVs, Excel files, JSONs, databases, parquet files, you name it.
+> **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=12)** Pandas is very flexible in that you can import data from a wide variety of data sources, including CSVs, [[Microsoft Excel|Excel]] files, JSONs, [[Databases]], parquet files, you name it.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=25)** For this lesson, we'll use Pandas' read CSV function to import the Iris data set as a data frame.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=32)** This is a common sample data set for practicing data science.
+> **[0:32](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=32)** This is a common sample data set for practicing [[Data Science]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=36)** Import Pandas as PD.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=167)** Using iloc, we can return the same value by referencing the same row index of three, but a column index of zero.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=182)** Often after you've done a whole host of data transformation with Pandas, you want to export your data frame for analysis or visualization.
+> **[3:02](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=182)** Often after you've done a whole host of [[Data Transformation]] with Pandas, you want to export your data frame for analysis or visualization.
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-pandas-29724107/top-functions-using-pandas?u=76281980&t=191)** A handy way to do this is the to CSV function.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Pandas (Software)|Pandas]] (9), [[Microsoft Excel|Excel]] (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Microsoft Excel|Excel]] (1), [[Databases]] (1), [[Data Science]] (1), [[Data Transformation]] (1)
 > **Env Vars:** csv (5)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** sepal_length (1)
@@ -284,12 +280,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring options using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/configuring-options-using-pandas?u=76281980)
+#### [Configuring options using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/configuring-options-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/configuring-options-using-pandas?u=76281980&t=0)** - [Instructor] So another Pandas feature I want you to take advantage of is to configure your own options.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/configuring-options-using-pandas?u=76281980&t=0)** - [Instructor] So another [[Pandas (Software)|Pandas]] feature I want you to take advantage of is to configure your own options.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/configuring-options-using-pandas?u=76281980&t=6)** Pandas has an option system which allows you to customize how the package works for you.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** float_format (1)
@@ -338,12 +333,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data type conversions using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980)
+#### [Data type conversions using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980&t=0)** - [Instructor] One area where you might encounter some hurdles with Pandas is dealing with data types.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980&t=0)** - [Instructor] One area where you might encounter some hurdles with [[Pandas (Software)|Pandas]] is dealing with data types.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980&t=5)** Pandas is generally pretty good at assigning proper data types, but nonetheless, you'll find many instances when you need to convert data types.
 >
@@ -391,19 +385,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Pandas (Software)|Pandas]] (6)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6)
 > **Env Vars:** csv (1), str (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with strings using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-strings-using-pandas?u=76281980)
+#### [Working with strings using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-strings-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-strings-using-pandas?u=76281980&t=0)** - [Instructor] Text data can be an incredibly rich source of data for analysis, and Pandas is well equipped for working with cleaning and processing text data in string format.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-strings-using-pandas?u=76281980&t=0)** - [Instructor] Text data can be an incredibly rich source of data for analysis, and [[Pandas (Software)|Pandas]] is well equipped for working with cleaning and processing text data in string format.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-strings-using-pandas?u=76281980&t=11)** Let's dive into some useful methods.
 >
@@ -449,18 +442,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with dates using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980)
+#### [Working with dates using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=0)** - [Instructor] Time series data is one of the most interesting and essential types of data that we work with, but dates can be tricky to deal with.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=8)** Thankfully, Pandas has some excellent methods that we can put to use.
+> **[0:08](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=8)** Thankfully, [[Pandas (Software)|Pandas]] has some excellent methods that we can put to use.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=12)** To get started, we're going to generate a series of dates.
 >
@@ -472,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=49)** One useful function when working with time series data is the diff function.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=54)** Diff will calculate the difference from a prior period, and in this sense, operates similar to a SQL lag function.
+> **[0:54](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=54)** Diff will calculate the difference from a prior period, and in this sense, operates similar to a [[SQL]] lag function.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-pandas-29724107/working-with-dates-using-pandas?u=76281980&t=62)** Let's see the difference from the prior date in our data.
 >
@@ -516,15 +508,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[SQL]] (2)
 > **Code Identifiers:** period_range (1), to_timestamp (1), dt_day_name (1)
 > **Env Vars:** sql (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with missing data using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980)
+#### [Dealing with missing data using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980&t=6)** How you proceed to treat your data will have important ramifications down the line in your analysis.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980&t=13)** Let's review some approaches to dealing with missing data in pandas.
+> **[0:13](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980&t=13)** Let's review some approaches to dealing with missing data in [[Pandas (Software)|pandas]].
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-pandas-29724107/dealing-with-missing-data-using-pandas?u=76281980&t=17)** First, we'll create a data frame with temperature measurements.
 >
@@ -612,18 +603,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the apply, map, and applymap functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/apply-map-applymap?u=76281980)
+#### [Using the apply, map, and applymap functions](https://www.linkedin.com/learning/advanced-pandas-29724107/apply-map-applymap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/apply-map-applymap?u=76281980&t=0)** - [Instructor] Python functions can be applied with great impact in pandas to alter data in your dataframes.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/apply-map-applymap?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] functions can be applied with great impact in [[Pandas (Software)|pandas]] to alter data in your dataframes.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/apply-map-applymap?u=76281980&t=6)** Thankfully, you don't have to create a for loop to iterate through every row in your data to do this.
 >
@@ -705,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), application (3), teams (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (1), is an  (1), is called (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -715,12 +705,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Groupby and aggregations using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980)
+#### [Groupby and aggregations using pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=0)** - [Instructor] Arguably, the most fundamental transformation you can perform in pandas is the groupby function.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=0)** - [Instructor] Arguably, the most fundamental transformation you can perform in [[Pandas (Software)|pandas]] is the groupby function.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=6)** Time and time again, this function proves it's worth.
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=120)** Now with the groupings configured, you can reference the groupings for aggregating and filtering your data.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=126)** The get_group function operates like a WHERE clause in SQL, filtering our data that is a part of the group you specify.
+> **[2:06](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=126)** The get_group function operates like a WHERE clause in [[SQL]], filtering our data that is a part of the group you specify.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980&t=134)** Let's return the setosa group.
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** sepal_length (3), sepal_width (1), get_group (1), petal_length (1)
 > **Env Vars:** sql (2), where (1), having (1)
 > **SQL:** where (1), having (1)
@@ -805,8 +794,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reshaping DataFrames with pivot or stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980)
+#### [Reshaping DataFrames with pivot or stack](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980&t=9)** Often, your data simply is not in the appropriate format or level of granularity needed to begin creating those snazzy visualizations or machine learning models.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980&t=20)** Luckily, pandas offers several easy to use and flexible functions for you to reshape your data.
+> **[0:20](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980&t=20)** Luckily, [[Pandas (Software)|pandas]] offers several easy to use and flexible functions for you to reshape your data.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-pandas-29724107/reshaping-dataframes-pivot-stack?u=76281980&t=30)** The first of these is called pivot.
 >
@@ -906,14 +894,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (2), teams (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merging (merge, join) and concatenating (concat) DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980)
+#### [Merging (merge, join) and concatenating (concat) DataFrames](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,11 +914,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=21)** Note the overlap between these two.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=24)** If you're familiar with SQL, you've heard of joins, specifically left joins versus inner joins versus right joins.
+> **[0:24](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=24)** If you're familiar with [[SQL]], you've heard of joins, specifically left joins versus inner joins versus right joins.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=32)** We'll start by performing a left join between our two data frames.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=37)** And the function to use in Pandas is called merge.
+> **[0:37](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=37)** And the function to use in [[Pandas (Software)|Pandas]] is called merge.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-pandas-29724107/merging-merge-join-and-concatenating-concat-dataframes?u=76281980&t=44)** To merge two data frames, start with your first data frame, a.k.a the left data frame.
 >
@@ -1021,19 +1008,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Pandas (Software)|Pandas]] (3), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[SQL]] (1)
 > **Definitions:** is called (1), is an  (1), refers to (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping variables into groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980)
+#### [Mapping variables into groups](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=0)** - [Instructor] Sure enough, pandas has loads of capabilities to create categories, labels, and buckets within your datasets, all with the goal of deriving insights from your qualitative data.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=0)** - [Instructor] Sure enough, [[Pandas (Software)|pandas]] has loads of capabilities to create categories, labels, and buckets within your datasets, all with the goal of deriving insights from your qualitative data.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=12)** Let's investigate a few options.
 >
@@ -1079,7 +1065,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=172)** Look at that, the data is now sorted from the highest return category to the lowest.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=180)** Another function which is especially useful for statistics and machine learning is get_dummies.
+> **[3:00](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=180)** Another function which is especially useful for [[Statistics]] and machine learning is get_dummies.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-pandas-29724107/mapping-variables-into-groups?u=76281980&t=187)** This allows us to take a categorical variable and perform what's called one-hot encoding, by which we create a column for each category and place a one if that is true or zero if not.
 >
@@ -1089,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** get_dummies (1)
 > **Definitions:** is called (1)
@@ -1100,12 +1086,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plotting with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980)
+#### [Plotting with pandas](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980&t=0)** - [Narrator] Pandas is not a data visualization library by any stretch of the imagination.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980&t=0)** - [Narrator] [[Pandas (Software)|Pandas]] is not a data visualization library by any stretch of the imagination.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980&t=5)** However, it does have built-in functionality to make use of map plot lib on the fly.
 >
@@ -1181,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 0.5 (1)
@@ -1189,14 +1174,13 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [narrator] (1)
 
-#### Correlations and statistical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980)
+#### [Correlations and statistical functions](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980&t=0)** - [Instructor] Long before machine learning and AI became the buzzwords of the century, the humble discipline of statistics established the foundation for drawing inference and insight from our data.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980&t=0)** - [Instructor] Long before machine learning and AI became the buzzwords of the century, the humble discipline of [[Statistics]] established the foundation for drawing inference and insight from our data.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980&t=12)** With pandas, you have several statistical functions right at your fingertips.
+> **[0:12](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980&t=12)** With [[Pandas (Software)|pandas]], you have several statistical functions right at your fingertips.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-pandas-29724107/correlations-and-statistical-functions?u=76281980&t=17)** Before we explore the statistics capabilities of pandas, let's import the iris dataset.
 >
@@ -1278,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (6), [[Statistics]] (3), ai (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Statistics]] (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** background_gradient (1)
 > **Definitions:** is a  (1)
@@ -1289,18 +1273,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate exploratory data analysis with pandas-profiling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980)
+#### [Accelerate exploratory data analysis with pandas-profiling](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=0)** - [Instructor] The popularity and usefulness of pandas has put it at the center of the [[Python Data Analysis]] universe, so it's no surprise that it spawned countless sister packages and dependencies throughout the Python ecosystem.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=0)** - [Instructor] The popularity and usefulness of [[Pandas (Software)|pandas]] has put it at the center of the [[[[Python (Programming Language)|Python]] Data Analysis]] universe, so it's no surprise that it spawned countless sister packages and dependencies throughout the Python ecosystem.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=14)** One related package, which I highly encourage you to use, particularly if you want to accelerate your exploratory data analysis, is pandas-profiling.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=23)** This simple and intuitive package will effectively take your data frame and output an interactive and highly-comprehensive profile for each variable in your data.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=33)** It surfaces the descriptive statistics for each variable, provides a correlation matrix, and assesses the data quality and more.
+> **[0:33](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=33)** It surfaces the descriptive [[Statistics]] for each variable, provides a correlation matrix, and assesses the [[Data Quality]] and more.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=41)** Much of the proceeding work in this course can more readily be done with pandas-profiling.
 >
@@ -1370,7 +1353,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=202)** Our dataset has one duplicate.
 >
-> **[3:25](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=205)** After reviewing your profile, you can output this as an easily shareable HTML file.
+> **[3:25](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=205)** After reviewing your profile, you can output this as an easily shareable [[HTML]] file.
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=214)** To do this, use the to_file function and name your HTML file.
 >
@@ -1378,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (7), [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Data Quality]] (1)
 > **CLI Commands:** python (2), pip (1), find (1)
 > **Code Identifiers:** sepal_length (2), sepal_width (1), to_file (1)
 > **Env Vars:** html (2)
@@ -1387,8 +1370,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore geographic data with GeoPandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980)
+#### [Explore geographic data with GeoPandas](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980&t=8)** It creates opportunities both for analysis and especially in data visualization to do something really cool.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980&t=15)** In this lesson, I want to introduce you to a sister package of Pandas called GeoPandas.
+> **[0:15](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980&t=15)** In this lesson, I want to introduce you to a sister package of [[Pandas (Software)|Pandas]] called GeoPandas.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-pandas-29724107/explore-geographic-data-with-geopandas?u=76281980&t=20)** As the name suggests, GeoPandas is an extension of Pandas that makes working with geospatial data simple and intuitive.
 >
@@ -1450,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (4), next (1), express (1), api (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** points_from_xy (1)
 > **Env Vars:** api (1)
@@ -1458,20 +1440,19 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Beyond pandas with Dask and Koalas (Spark)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980)
+#### [Beyond pandas with Dask and Koalas (Spark)](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=0)** - [Instructor] There may come a time when the volume of your data has become so large that you find using pandas to be constraining.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=0)** - [Instructor] There may come a time when the volume of your data has become so large that you find using [[Pandas (Software)|pandas]] to be constraining.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=7)** Thankfully, there have been rapid advancements in big data processing, and in this lesson, we will discuss two frameworks: Dask and Spark, that have proven to be especially useful.
+> **[0:07](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=7)** Thankfully, there have been rapid advancements in [[Big Data]] processing, and in this lesson, we will discuss two frameworks: Dask and Spark, that have proven to be especially useful.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=18)** We'll also see how pandas can be easily translated into these cutting-edge approaches.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=24)** So what is Dask?
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=26)** At a high level, Dask is a framework to speed up your Python workload using parallel computing.
+> **[0:26](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=26)** At a high level, Dask is a framework to speed up your [[Python (Programming Language)|Python]] workload using parallel computing.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=32)** So instead of running all tasks sequentially, the Dask scheduler allows for simultaneous computing.
 >
@@ -1487,11 +1468,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=71)** Generally speaking, this DataFrame will behave just like we're used to.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=76)** The next framework to learn about is Apache Spark.
+> **[1:16](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=76)** The next framework to learn about is [[Apache Spark]].
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=79)** Spark is written in a language called Scala and is easily called in Python using what's called PySpark.
+> **[1:19](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=79)** Spark is written in a language called [[Scala]] and is easily called in Python using what's called [[PySpark]].
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=86)** It's also optimized for big data and distributes computing across clusters of compute for fast data processing.
+> **[1:26](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=86)** It's also optimized for big data and distributes computing across clusters of compute for fast [[Data Processing]].
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-pandas-29724107/beyond-pandas-with-dask-and-koalas-spark?u=76281980&t=94)** To aid in the transition from pandas, there's a package cleverly named Koalas, which is the pandas API on top of Apache Spark.
 >
@@ -1513,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3), data (2), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3), [[Apache Spark]] (2), [[Scala]] (1)
 > **CLI Commands:** python (3), apache (2), find (1)
 > **Code Identifiers:** read_csv (1), from_pandas (1)
 > **Env Vars:** api (1)
@@ -1526,32 +1507,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your path forward using advanced pandas functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980)
+#### [Your path forward using advanced pandas functions](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=0)** - [Brett] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=1)** You've worked your way through Advanced Pandas, and we've covered a lot of material.
+> **[0:01](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=1)** You've worked your way through Advanced [[Pandas (Software)|Pandas]], and we've covered a lot of material.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=6)** As you continue to work with pandas, you'll find, as I have, that there's always something more to learn and to try out for yourself.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=14)** One way to hone your pandas skills is to have a textbook to work through in reference.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=19)** Wes McKinney's "Python for Data Analysis" is an excellent resource.
+> **[0:19](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=19)** Wes McKinney's "[[Python (Programming Language)|Python]] for Data Analysis" is an excellent resource.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=24)** And please feel free to reach out to me, Brett Vanderblock, and I'm happy to help you along the way.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=29)** Once you feel you've mastered pandas, rest assured there's plenty more still to learn.
+> **[0:29](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=29)** Once you feel you've mastered pandas, [[Representational State Transfer (REST)|rest]] assured there's plenty more still to learn.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=35)** For starters, you can work with geospatial data and GeoPandas, and definitely be sure to experiment with big data frameworks such as Dask and Spark.
+> **[0:35](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=35)** For starters, you can work with geospatial data and GeoPandas, and definitely be sure to experiment with [[Big Data]] frameworks such as Dask and Spark.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980&t=44)** I hope you've enjoyed this course, and happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (2), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

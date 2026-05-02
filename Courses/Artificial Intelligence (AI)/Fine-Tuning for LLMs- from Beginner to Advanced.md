@@ -102,31 +102,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning to fine-tune your LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980)
+#### [Beginning to fine-tune your LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=0)** - LLMs are great, but only if you can make them work for you.
 >
-> **[0:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=5)** Learning to fine tune LLMs is crucial for creating tailored, high performance AI solutions.
+> **[0:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=5)** Learning to fine tune LLMs is crucial for creating tailored, high performance [[AI Solutions]].
 >
 > **[0:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=13)** In this course, you'll master the art of customizing these models to fit your specific needs.
 >
-> **[0:20](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=20)** From learning prompt engineering patterns to transfer learning, or even learn fine tuning, this course empowers you to make a significant impact with AI.
+> **[0:20](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=20)** From learning [[Prompt Engineering]] patterns to transfer learning, or even learn [[Fine Tuning]], this course empowers you to make a significant impact with AI.
 >
-> **[0:32](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=32)** I am Axel Sirota, and if you are ready to master the art of fine tuning LLMs and make your mark in the world of artificial intelligence, you are in the right place.
+> **[0:32](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=32)** I am Axel Sirota, and if you are ready to master the art of fine tuning LLMs and make your mark in the world of [[Artificial Intelligence (AI)|artificial intelligence]], you are in the right place.
 >
 > **[0:43](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980&t=43)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Fine Tuning]] (2), [[Prompt Engineering]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[AI Solutions]] (1), [[Prompt Engineering]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - llms (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,15 +132,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=16)** Before we dive into the details, let's talk prerequisites.
 >
-> **[0:20](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=20)** This course is designed for learners with a foundational understanding of machine learning, natural language processing, and deep learning.
+> **[0:20](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=20)** This course is designed for learners with a foundational understanding of machine learning, [[Natural Language Processing (NLP)|natural language processing]], and [[Deep Learning]].
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=33)** If you feel you need a refresher, LinkedIn Learning offers excellent courses, like machine learning with Python, from linear models to deep learning, NLP with Python for machine Learning, essential Training and deep learning with NLP.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=33)** If you feel you need a refresher, [[LinkedIn]] Learning offers excellent courses, like machine learning with [[Python (Programming Language)|Python]], from linear models to deep learning, NLP with Python for machine Learning, essential Training and deep learning with NLP.
 >
-> **[0:53](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=53)** These will equip you with the necessary skills to not just follow but excel in this advanced course.
+> **[0:53](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=53)** These will equip you with the necessary skills to not just follow but [[Microsoft Excel|excel]] in this advanced course.
 >
 > **[1:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=65)** As for the skills you acquire, imagine being able to not only follow recipes, but also create your own dishes from scratch.
 >
-> **[1:16](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=76)** Throughout this course, you learn to fine tune LLMs to specific tasks, improve model efficiency, and even innovate with techniques like prompt engineering and few-shot learning.
+> **[1:16](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=76)** Throughout this course, you learn to fine tune LLMs to specific tasks, improve model efficiency, and even innovate with techniques like [[Prompt Engineering]] and few-shot learning.
 >
 > **[1:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=91)** You'll move from prepping basic dishes to crafting gourmet meals in the world of AI.
 >
@@ -150,31 +148,30 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=103)** You'll be equipped to apply these skills in various industries, from enhancing chatbots in customer service to developing sophisticated content generation tools.
 >
-> **[1:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=117)** Your new capabilities will allow you to tailor AI solutions to real world problems, making you a valuable asset in any tech-driven workspace.
+> **[1:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=117)** Your new capabilities will allow you to tailor [[AI Solutions]] to real world problems, making you a valuable asset in any tech-driven workspace.
 >
 > **[2:11](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=131)** To make the most out of this course, engage actively by trying to answer the questions, follow along in the demos on your laptops, and complete the suggested exercises.
 >
-> **[2:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=146)** Finally, stay curious, ask questions, and remember, every piece of knowledge is a step towards mastering the art of fine tuning LLMs.
+> **[2:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/getting-the-most-out-of-this-course?u=76281980&t=146)** Finally, stay curious, ask questions, and remember, every piece of knowledge is a step towards mastering the art of [[Fine Tuning]] LLMs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), nlp (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[LinkedIn]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** nlp (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - just (1)
 
-#### Version check
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980)
+#### [Version check](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=0)** - [Narrator] Let's do a quick version check of the versions used and applicable for this course.
 >
-> **[0:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=6)** This course uses the following versions, Python 3.10.12, Pandas 1.5.3, Scikit-learn 1.2.2, NumPy 1.23.5, TensorFlow 2.15, Keras 2.15, and a very important one, Transformers 4.35.2.
+> **[0:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=6)** This course uses the following versions, [[Python (Programming Language)|Python]] 3.10.12, [[Pandas (Software)|Pandas]] 1.5.3, Scikit-learn 1.2.2, NumPy 1.23.5, [[TensorFlow]] 2.15, Keras 2.15, and a very important one, Transformers 4.35.2.
 >
-> **[0:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=38)** These are the versions that are installed in Google Collaboratory, which is the platform we'll use for demos.
+> **[0:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=38)** These are the versions that are installed in [[Google]] Collaboratory, which is the platform we'll use for demos.
 >
 > **[0:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/version-check?u=76281980&t=48)** However, this course is applicable for any of the following versions.
 >
@@ -202,12 +199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LLMs: Revolutionizing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980)
+#### [LLMs: Revolutionizing AI](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=0)** - Today we are diving into how large language models or LLMs are revolutionizing artificial intelligence and impacting our daily lives.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=0)** - Today we are diving into how [[Large Language Models (LLM)|large language models]] or LLMs are revolutionizing [[Artificial Intelligence (AI)|artificial intelligence]] and impacting our daily lives.
 >
 > **[0:12](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=12)** As we explore this topic, imagine the intricate workings of a professional kitchen where every tool and ingredient has its purpose to create a masterpiece.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=28)** They are at the heart of technologies that understand and generate human-like text, making interactions with machines more natural than ever.
 >
-> **[0:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=38)** From Siri and Alexa in our homes, to customer support bots that assist us seamlessly, LLMS are behind the scenes, enhancing our experiences and making technology more accessible.
+> **[0:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=38)** From Siri and Alexa in our homes, to [[Customer Support]] bots that assist us seamlessly, LLMS are behind the scenes, enhancing our experiences and making technology more accessible.
 >
 > **[0:53](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980&t=53)** Now let's talk impact.
 >
@@ -247,24 +243,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Customer Support]] (1), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Customer Support]] (1)
 > **Env Vars:** llms (4), llm (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - today (1)
 
-#### The architecture of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980)
+#### [The architecture of LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=0)** - [Instructor] Now let's unpack the structure and inner workings of large language models, or LLMs, focusing on the revolutionary transformer architecture.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=0)** - [Instructor] Now let's unpack the structure and inner workings of [[Large Language Models (LLM)|large language models]], or LLMs, focusing on the revolutionary transformer architecture.
 >
 > **[0:15](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=15)** Imagine understanding the intricate design of a highly efficient modern kitchen.
 >
 > **[0:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=22)** That's what we are doing with LLMs today.
 >
-> **[0:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=27)** Transformers introduced by researchers at Google in 2017 are the backbone of most modern LLMs.
+> **[0:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=27)** Transformers introduced by researchers at [[Google]] in 2017 are the backbone of most modern LLMs.
 >
 > **[0:37](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=37)** They have radically changed how machines process language.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=168)** Think about it for 30 seconds.
 >
-> **[2:52](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=172)** LLMs use these transformer architectures to excel at tasks like translation, content creation, and more by effectively understanding and generating human-like text, Their ability to quickly process vast amounts of data and grasp complex patterns makes them invaluable across different fields.
+> **[2:52](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=172)** LLMs use these transformer architectures to [[Microsoft Excel|excel]] at tasks like translation, [[Content Creation]], and more by effectively understanding and generating human-like text, Their ability to quickly process vast amounts of data and grasp complex patterns makes them invaluable across different fields.
 >
 > **[3:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/the-architecture-of-llms?u=76281980&t=207)** To dive a bit deeper, each layer of a transformer can be thought as a mini brain, each making its own decisions about which parts of the text are important.
 >
@@ -306,13 +301,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), parallel (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1), [[Content Creation]] (1)
 > **Analogies:** imagine (1), picture (1), for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Applications of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980)
+#### [Applications of LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +330,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980&t=82)** These models provide instructions that help robots perform tasks that require a high degree of accuracy, from assembling delicate components to managing an entire production lines.
 >
-> **[1:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980&t=98)** And in the world of software development, LLMs simplifying coding by suggesting code snippets, reviewing code, and even writing entire programs based on developer prompts.
+> **[1:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980&t=98)** And in the world of [[Software Development]], LLMs simplifying coding by suggesting code snippets, reviewing code, and even writing entire programs based on developer prompts.
 >
 > **[1:54](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/applications-of-llms?u=76281980&t=114)** This is akin to having an expert guide every step of the cooking process, ensuring that every dish, or in this case, every piece of software, is crafted to perfection.
 >
@@ -350,13 +344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), ai (1), [[Software Development]] (1), llm (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - so (1)
 
-#### Ethical considerations in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980)
+#### [Ethical considerations in LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +381,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980&t=138)** Just as a chef must know and disclose the ingredients used in their dishes, especially when allergens are involved, developers must ensure transparency in how LLMs operate and make decisions.
 >
-> **[2:37](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980&t=157)** This is crucial for building trust and accountability, particularly in sectors like healthcare or law, where decisions can have profound impacts on people's lives.
+> **[2:37](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980&t=157)** This is crucial for [[Building Trust]] and [[Accountability]], particularly in sectors like healthcare or law, where decisions can have profound impacts on people's lives.
 >
 > **[2:53](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/ethical-considerations-in-llms?u=76281980&t=173)** Lastly, the role of regulation cannot be overlooked.
 >
@@ -402,14 +395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (1), llm (1), [[Building Trust]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Accountability]] (1)
 > **Analogies:** think of it as (1), for instance (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [presenter (1)
 
-#### Comparing LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980)
+#### [Comparing LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,11 +423,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=94)** Next, decoder-only models, like OpenAI's GPT series.
 >
-> **[1:39](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=99)** These models excel in generating text based on the input they receive.
+> **[1:39](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=99)** These models [[Microsoft Excel|excel]] in generating text based on the input they receive.
 >
-> **[1:47](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=107)** GPT-3, for example, uses an approach called autoregressive language modeling, where it predicts the next word in a sequence, learning from each word it has predicted.
+> **[1:47](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=107)** GPT-3, for example, uses an approach called autoregressive language modeling, where it predicts the next [[Microsoft Word|word]] in a sequence, learning from each word it has predicted.
 >
-> **[2:03](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=123)** Imagine a chef who dishes out course after course, each influenced by the last GPT-3 is a powerhouse in applications requiring content creation, from writing articles to composting emails.
+> **[2:03](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=123)** Imagine a chef who dishes out course after course, each influenced by the last GPT-3 is a powerhouse in applications requiring [[Content Creation]], from writing articles to composting emails.
 >
 > **[2:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=143)** It's akin to an innovative chef who creates new recipes based on a few given ingredients.
 >
@@ -447,9 +439,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=194)** T5 and similar models are versatile, suited for a range of applications across different languages and tasks, making them Swiss army knives of the LLM world.
 >
-> **[3:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=208)** Consider Meta's Llama 3 8B, an 8-billion parameter model.
+> **[3:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=208)** Consider Meta's [[LLaMA]] 3 8B, an 8-billion parameter model.
 >
-> **[3:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=216)** Hosting such a model for tasks like prompt engineering requires substantial computational resources.
+> **[3:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=216)** Hosting such a model for tasks like [[Prompt Engineering]] requires substantial computational resources.
 >
 > **[3:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=224)** Specifically, an 8-billion parameter model needs about 32 gigabytes of RAM just for the model weights.
 >
@@ -459,7 +451,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=261)** However, techniques like model distillation and quantization can reduce the computational load, making it feasible to deploy these powerful models in production environments.
 >
-> **[4:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=274)** These techniques, which we'll cover in detail in my other course related to AI chatbot development and deployment on LinkedIn Learning, will help streamline the models while maintaining their effectiveness.
+> **[4:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=274)** These techniques, which we'll cover in detail in my other course related to AI [[Chatbot Development]] and deployment on [[LinkedIn]] Learning, will help streamline the models while maintaining their effectiveness.
 >
 > **[4:54](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/comparing-llms?u=76281980&t=294)** To select the best LLM for your task, start by considering the nature of the task.
 >
@@ -483,15 +475,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), data (3), next (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (2), [[Microsoft Excel|Excel]] (1), [[Content Creation]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (4), bert (3), gpt (3), ram (1)
 > **Analogies:** such as (2), it's like (1), for example (1), imagine (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FLAN-T5 in focus
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980)
+#### [FLAN-T5 in focus](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +520,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980&t=164)** Integrating FLAN-T5 into applications is straightforward thanks to frameworks like high phase transformers library, where FLAN-T5 models are readily available.
 >
-> **[2:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980&t=177)** This accessibility allows developers to deploy powerful NLP tools quickly and efficiently, enhancing user interaction and data processing capabilities to get our answer.
+> **[2:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980&t=177)** This accessibility allows developers to deploy powerful NLP tools quickly and efficiently, enhancing user interaction and [[Data Processing]] capabilities to get our answer.
 >
 > **[3:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/flan-t5-in-focus?u=76281980&t=193)** And finally, to get our action.
 >
@@ -539,7 +530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), data (2), prompt (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Env Vars:** flan (12), nlp (2)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
@@ -550,12 +541,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980)
+#### [Basics of prompt engineering](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=0)** - Welcome to our session on the basics of prompt engineering, a crucial skill for anyone working with large language models or LLMs.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=0)** - Welcome to our session on the basics of [[Prompt Engineering]], a crucial skill for anyone working with [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[0:11](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=11)** Today, we'll break down what prompt engineering is, the key components of a prompt, and how you can effectively interact with LLMs in various environments.
 >
@@ -593,24 +583,23 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=159)** Experiment with different prompts, tweak your context, and see how your model's responses change.
 >
-> **[2:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=168)** It's like fine tuning a recipe until you get the perfect flavor.
+> **[2:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980&t=168)** It's like [[Fine Tuning]] a recipe until you get the perfect flavor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Prompt Engineering]] (3), [[Large Language Models (LLM)|Large language models]] (1), ai (1), llm (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1)
 > **Env Vars:** llm (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - welcome (1)
 
-#### Crafting effective prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980)
+#### [Crafting effective prompts](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980&t=0)** - [Instructor] Let's uncover common patterns for prompt design and key aspects to consider, ensuring your interactions with these AI models are both efficient and productive.
 >
-> **[0:14](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980&t=14)** Think of prompt engineering as crafting a key that unlocks the full potential of a sophisticated AI brain.
+> **[0:14](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980&t=14)** Think of [[Prompt Engineering]] as crafting a key that unlocks the full potential of a sophisticated AI brain.
 >
 > **[0:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/crafting-effective-prompts?u=76281980&t=23)** Prompt design is crucial because it directly influences the quality and relevance of the responses you receive from an LLM.
 >
@@ -664,20 +653,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), llm (6), ai (2), [[Prompt Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2)
 > **Env Vars:** llm (6)
 > **Analogies:** for example (3), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt engineering with FLAN-T5
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980)
+#### [Prompt engineering with FLAN-T5](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=0)** - [Instructor] Let's talk about how to utilize this versatile model for text summarization, translation and question answering using the Hugging Face transformers library and TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=0)** - [Instructor] Let's talk about how to utilize this versatile model for text summarization, translation and question answering using the [[Hugging Face]] transformers library and [[TensorFlow]].
 >
-> **[0:14](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=14)** This video is designed to help you fully leverage the potential of one of the most powerful tools in natural language processing.
+> **[0:14](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=14)** This video is designed to help you fully leverage the potential of one of the most powerful tools in [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=27)** Hugging Face is a platform that hosts a vast collection of pre-trained models, including FLAN-T5, which can be adapted to a wide array of text-based tasks.
 >
@@ -693,7 +681,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=83)** To do that, we're going to use the AutoTokenizer, which will process text into the format that the model that we use can work with.
 >
-> **[1:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=96)** We'll convert the sentences into a sequence of tokens or numerical representations.
+> **[1:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=96)** We'll convert the sentences into a sequence of [[Tokens]] or numerical representations.
 >
 > **[1:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=104)** On the other hand, the TFAutoModelForSeq2SeqLM is the model that will interpret these tokens and generate text based on them.
 >
@@ -707,7 +695,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=146)** Then we are going to pass it through the tokenizer.
 >
-> **[2:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=151)** return_tensors="tf" is very important, such that the tokenizer would output TensorFlow tensors because Hugging Face transformers library can work with TensorFlow and PyTorch.
+> **[2:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=151)** return_tensors="tf" is very important, such that the tokenizer would output TensorFlow tensors because Hugging Face transformers library can work with TensorFlow and [[PyTorch]].
 >
 > **[2:46](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/prompt-engineering-with-flan-t5?u=76281980&t=166)** So if we are not very careful, we might get PyTorch tensors, which would break everything.
 >
@@ -765,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (4), [[Tokens]] (3), prompt (3), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (4), [[Tokens]] (3), [[PyTorch]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** flan (9)
 > **Code Identifiers:** early_stopping (2), return_tensors (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -773,18 +761,17 @@ created: 2026-05-02
 > **CLI Commands:** go run (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Prompt engineering with FLAN-T5
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980)
+#### [Demo: Prompt engineering with FLAN-T5](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=0)** - [Instructor] Okay, welcome everybody to the first demo of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=5)** All of the demos in this course are going to be using Google Colaboratory.
+> **[0:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=5)** All of the demos in this course are going to be using [[Google]] Colaboratory.
 >
-> **[0:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=13)** Google Colab, for short, is a platform where we can put our notebook files, and it will connect us for free to an instance in Google Cloud platform where we can also connect a GPU.
+> **[0:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=13)** Google Colab, for short, is a platform where we can put our notebook files, and it will connect us for free to an instance in [[Google Cloud Platform (GCP)|Google Cloud platform]] where we can also connect a GPU.
 >
-> **[0:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=33)** This is very useful of course, especially for prototyping ideas.
+> **[0:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=33)** This is very useful of course, especially for [[Prototyping]] ideas.
 >
 > **[0:39](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=39)** The URL of Colab is colab.research.[google.com](https://google.com).
 >
@@ -814,7 +801,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=137)** It depends on availability since it's free.
 >
-> **[2:21](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=141)** So the first thing we have to do is install Transformers and TensorFlow, remember.
+> **[2:21](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=141)** So the first thing we have to do is install Transformers and [[TensorFlow]], remember.
 >
 > **[2:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=148)** There it is. We can see that it ended.
 >
@@ -838,13 +825,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=202)** Let me mention one second about these warnings.
 >
-> **[3:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=205)** So the first type of warning is just because I didn't authenticate with my user to huggingface, but it's super okay and it's normal.
+> **[3:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=205)** So the first type of warning is just because I didn't authenticate with my user to [[Hugging Face|huggingface]], but it's super okay and it's normal.
 >
 > **[3:35](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=215)** And we go down, it's going to tell you the second warning.
 >
 > **[3:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=221)** Again, it's okay, but you need to know about this.
 >
-> **[3:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=224)** It's going to tell you this model was actually trained as a PyTorch model and then they poached it, they means huggingface, to TensorFlow.
+> **[3:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=224)** It's going to tell you this model was actually trained as a [[PyTorch]] model and then they poached it, they means huggingface, to TensorFlow.
 >
 > **[3:55](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=235)** Okay?
 >
@@ -858,7 +845,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=271)** In T5, it is very important to put the actual task on a column at the start of the prompt.
 >
-> **[4:40](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=280)** In this case, summarize column, and then the rest of the text.
+> **[4:40](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=280)** In this case, summarize column, and then the [[Representational State Transfer (REST)|rest]] of the text.
 >
 > **[4:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=285)** In this case, the text will be studies show that eating carrots help improve vision and they start talking about carrots and how they contain vitamin A.
 >
@@ -890,7 +877,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=378)** The output will be ID, a tensor of IDs.
 >
-> **[6:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=382)** Each ID represents a word.
+> **[6:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=382)** Each ID represents a [[Microsoft Word|word]].
 >
 > **[6:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-prompt-engineering-with-flan-t5?u=76281980&t=384)** So the final step needs to pass through the tokenizer to decode to get back those IDs into words.
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), prompt (6), [[Google]] (4), [[TensorFlow]] (4), next (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[TensorFlow]] (4), [[Hugging Face|Huggingface]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Prototyping]] (1)
 > **Env Vars:** llm (6), gpu (4), url (1), ram (1)
 > **Definitions:** is a  (5), means that (2)
 > **Tools:** colab (3), jupyter (1)
@@ -957,8 +944,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Warnings:** warning (2)
 
-#### Demo: Using ICL and Patterns while prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980)
+#### [Demo: Using ICL and Patterns while prompting](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=21)** Perfect, I'm connected to a GPU.
 >
-> **[0:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=24)** Remember, first thing we need to install transformers and tensorflow.
+> **[0:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=24)** Remember, first thing we need to install transformers and [[TensorFlow]].
 >
 > **[0:30](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=30)** And there it is.
 >
@@ -1064,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[TensorFlow]] (1), llm (1), power (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1)
 > **Env Vars:** gpu (2), llm (1), gpt4 (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1073,12 +1059,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Prerequisites:** install (1)
 
-#### Case studies in prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980)
+#### [Case studies in prompt engineering](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=0)** - [Presenter] Now that we've seen how to use it, let's explore real world case studies where prompt engineering has significantly enhanced AI driven applications.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=0)** - [Presenter] Now that we've seen how to use it, let's explore real world case studies where [[Prompt Engineering]] has significantly enhanced AI driven applications.
 >
 > **[0:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=13)** From customer service to healthcare, companies are leveraging this technique to fine tune the performance of AI models, ensuring they deliver precise and useful results.
 >
@@ -1096,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=83)** "Welcome to company name support.
 >
-> **[1:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=85)** For faster assistance, please select the following options, account issue, technical support, or billing inquiry."
+> **[1:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=85)** For faster assistance, please select the following options, account issue, [[Technical Support]], or billing inquiry."
 >
 > **[1:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=93)** In the healthcare sector, IBM's Watson has been employed to assist with medical diagnosis.
 >
@@ -1108,7 +1093,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=138)** As you can see, it is clear, it is concise and goes to the point.
 >
-> **[2:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=145)** Moving to media, Google News uses AI to summarize news articles.
+> **[2:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=145)** Moving to media, [[Google]] News uses AI to summarize news articles.
 >
 > **[2:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=151)** Initially, the summaries were often misleading or missed critical information.
 >
@@ -1132,11 +1117,11 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=251)** These case studies demonstrate the transformative power of prompt engineering across various industries.
 >
-> **[4:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=259)** By crafting precise and contextually appropriate prompts, companies are not only improving the efficiency of their AI applications, but are also enhancing user experience and satisfaction.
+> **[4:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/case-studies-in-prompt-engineering?u=76281980&t=259)** By crafting precise and contextually appropriate prompts, companies are not only improving the efficiency of their AI applications, but are also enhancing [[User Experience (UX)|user experience]] and satisfaction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (5), [[Prompt Engineering]] (3), [[Google]] (2), generic (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Google]] (2), [[Technical Support]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
@@ -1144,8 +1129,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
 
-#### Solution: Designing a translation prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980)
+#### [Solution: Designing a translation prompt](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980&t=79)** We're going to use the CNN Daily Mail dataset.
 >
-> **[1:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980&t=82)** So if you searched CNN Daily Mail Hugging Face, you would basically get, this is the name of the dataset and the way to load it is with the load_dataset method.
+> **[1:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980&t=82)** So if you searched CNN Daily Mail [[Hugging Face]], you would basically get, this is the name of the dataset and the way to load it is with the load_dataset method.
 >
 > **[1:35](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-designing-a-translation-prompt?u=76281980&t=95)** So let's show one example.
 >
@@ -1263,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), cnn (3), ai (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Env Vars:** gpu (4), cnn (3), flan (1), ram (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), pip (1)
@@ -1277,12 +1261,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transfer learning in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980)
+#### [Transfer learning in LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=0)** - Let's dive into the fascinating world of machine learning techniques, focusing on transfer learning and fine-tuning within large language models.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=0)** - Let's dive into the fascinating world of machine learning techniques, focusing on transfer learning and fine-tuning within [[Large Language Models (LLM)|large language models]].
 >
 > **[0:11](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=11)** We'll start by introducing these concepts with an analogy, then explore how they are applied in AI, and understand when to use each method effectively.
 >
@@ -1302,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=91)** This is often done by adding a new component or head to the model that is specifically trained on the new task, while keeping most of the regional model's structure intact.
 >
-> **[1:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=105)** For instance, a pre-trained language model might get a new output layer to classify email sentiments, where only this new layer learns from the emails, while the rest of the model remains unchanged.
+> **[1:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=105)** For instance, a pre-trained language model might get a new output layer to classify email sentiments, where only this new layer learns from the emails, while the [[Representational State Transfer (REST)|rest]] of the model remains unchanged.
 >
 > **[2:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980&t=120)** Fine-tuning, however, involves adjusting the entire model and a new dataset.
 >
@@ -1326,14 +1309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1), management (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** imagine (2), similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lms (1)
 > **Speakers:** - let (1)
 
-#### Choosing models for transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/choosing-models-for-transfer-learning?u=76281980)
+#### [Choosing models for transfer learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/choosing-models-for-transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1401,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (2)
 > **Env Vars:** vgg (6), bert (5)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1), picture (1)
@@ -1427,8 +1408,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Transfer learning with FLAN-T5
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980)
+#### [Demo: Transfer learning with FLAN-T5](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1456,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=175)** Notice also something very important.
 >
-> **[2:58](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=178)** As this is a sequence to sequence model, then the decoder also needs an input, but that will just be the labels in a sense because remember that what the model needs to know is for each word it needs to compare if the correct next word predicted, it's exactly that word okay.
+> **[2:58](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=178)** As this is a sequence to sequence model, then the decoder also needs an input, but that will just be the labels in a sense because remember that what the model needs to know is for each [[Microsoft Word|word]] it needs to compare if the correct next word predicted, it's exactly that word okay.
 >
 > **[3:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=202)** Remember when we do any kind of sequence to sequence, this is a traditional pattern so the decoder input will also be the tokenizer of the target, and we put it into the model inputs as decoder input IDs.
 >
@@ -1492,7 +1472,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=292)** So we have all the elements needed on the train and test data sets to create our tensor flow data sets, which is the dataset input to the model that fit interfacing carers, remember.
 >
-> **[5:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=306)** So now we'll convert these dataset objects into TensorFlow datasets, and we're going to repeat this pattern throughout the whole course.
+> **[5:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=306)** So now we'll convert these dataset objects into [[TensorFlow]] datasets, and we're going to repeat this pattern throughout the whole course.
 >
 > **[5:15](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-transfer-learning-with-flan-t5?u=76281980&t=315)** The idea is always the same.
 >
@@ -1590,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[TensorFlow]] (4), [[Microsoft Word|Word]] (3), nlp (1), next (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Microsoft Word|Word]] (3)
 > **Definitions:** is a  (7), means that (3)
 > **Env Vars:** gpu (5), ram (2), nlp (1)
 > **CLI Commands:** pip (2), make (2)
@@ -1599,8 +1579,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **UI Navigation:** go to (1)
 
-#### Evaluating transfer learning outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980)
+#### [Evaluating transfer learning outcomes](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1637,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980&t=248)** It is important to mention that even though here we are talking about memorization, ROUGE and BLEU are both used as well in neural machine translation or question answering, or basically any text-to-text task.
 >
-> **[4:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980&t=266)** Let's look at practical applications with some code examples using the Hugging Face library.
+> **[4:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980&t=266)** Let's look at practical applications with some code examples using the [[Hugging Face]] library.
 >
 > **[4:32](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/evaluating-transfer-learning-outcomes?u=76281980&t=272)** So here, first we're going to load metric, and we're going to load ROUGE just because we want to, and we're going to compare the generated summaries against reference summaries.
 >
@@ -1682,7 +1661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1), ai (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Env Vars:** rouge (17), bleu (15)
 > **CLI Commands:** cat (7)
 > **Analogies:** such as (2), similar to (2), analogous to (1), imagine (1), for example (1)
@@ -1690,8 +1669,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Demo: Evaluating translations
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980)
+#### [Demo: Evaluating translations](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1681,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=29)** That means the pip installs.
 >
-> **[0:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=31)** Then loading FlanT5, loading the data set, doing the same processing we did before and creating the TensorFlow data sets.
+> **[0:31](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=31)** Then loading FlanT5, loading the data set, doing the same processing we did before and creating the [[TensorFlow]] data sets.
 >
 > **[0:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=44)** Finally, notice again, we are setting the first three layers of the model as non trainable, effectively doing transfer learning.
 >
@@ -1755,7 +1733,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=199)** And then for the BLEU score we use the sentence BLEU method.
 >
-> **[3:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=203)** And the important thing is that as BLEU needs the word tokenized, that means that it's split it into words instead of full sentences, we need to first tokenize them and then pass them as tokens.
+> **[3:23](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=203)** And the important thing is that as BLEU needs the [[Microsoft Word|word]] tokenized, that means that it's split it into words instead of full sentences, we need to first tokenize them and then pass them as [[Tokens]].
 >
 > **[3:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-evaluating-translations?u=76281980&t=216)** So we have our function, we're going to get a random batch from the test dataset.
 >
@@ -1797,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), [[TensorFlow]] (1), generic (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[TensorFlow]] (1), [[Tokens]] (1)
 > **Env Vars:** rouge (12), bleu (8), gpu (3), nltk (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** pip (1)
@@ -1805,8 +1783,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Enhancing translation with transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980)
+#### [Solution: Enhancing translation with transfer learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1852,7 +1829,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980&t=117)** And remember, always truncation=True, padding= max_length, and return_tensors='tf', very, very important.
 >
-> **[2:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980&t=125)** All the rest remains the same.
+> **[2:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980&t=125)** All the [[Representational State Transfer (REST)|rest]] remains the same.
 >
 > **[2:10](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-enhancing-translation-with-transfer-learning?u=76281980&t=130)** There we go, we have our datasets.
 >
@@ -1908,7 +1885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpu (2), pip (1), wmt16 (1)
 > **Code Identifiers:** max_length (1), return_tensors (1)
 > **CLI Commands:** pip (1)
@@ -1922,12 +1899,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to PEFT
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980)
+#### [Introduction to PEFT](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=0)** - We've talked about prompt engineering and transfer learning for fine-tuning.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=0)** - We've talked about [[Prompt Engineering]] and transfer learning for fine-tuning.
 >
 > **[0:04](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=4)** Now, we are going to explore parameter-efficient fine-tuning or PEFT.
 >
@@ -1965,7 +1941,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=127)** Adapters are lightweight modules inserted into a pre-trained model.
 >
-> **[2:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=133)** During training, only these adapters are updated while the rest of the model remains unchanged.
+> **[2:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=133)** During training, only these adapters are updated while the [[Representational State Transfer (REST)|rest]] of the model remains unchanged.
 >
 > **[2:20](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980&t=140)** This method significantly reduces the computational resources required and makes the training process faster and more efficient.
 >
@@ -1989,18 +1965,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1), ai (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** peft (10)
 > **Analogies:** similar to (2), imagine (1), it's like (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### LoRA adapters
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980)
+#### [LoRA adapters](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=0)** - [Instructor] Let's explore LoRa adapters, a powerful subset of parameter-efficient fine tuning, or PEFT, where we'll start with a high-level overview using our cooking analogy, and then we will dive deeper and deeper into the technical details.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=0)** - [Instructor] Let's explore LoRa adapters, a powerful subset of parameter-efficient [[Fine Tuning]], or PEFT, where we'll start with a high-level overview using our cooking analogy, and then we will dive deeper and deeper into the technical details.
 >
 > **[0:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=22)** Imagine you're a chef with a fantastic recipe.
 >
@@ -2058,7 +2033,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=264)** As we said, the main thing to keep in mind is that now the new weights that we are going to do our training will be some frozen pre-trained weights, W, plus the matrix multiplication of A and B, which are much, much smaller, okay?
 >
-> **[4:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=285)** Again, don't worry about the math if you are not familiar with linear algebra.
+> **[4:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=285)** Again, don't worry about the math if you are not familiar with [[Linear Algebra]].
 >
 > **[4:50](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-adapters?u=76281980&t=290)** Just take the important concept.
 >
@@ -2092,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Fine Tuning]] (2), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Linear Algebra]] (1)
 > **Env Vars:** peft (2), a100 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), means that (1)
@@ -2101,8 +2076,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### LoRA in depth: Technical analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980)
+#### [LoRA in depth: Technical analysis](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2164,7 +2138,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980&t=253)** A practical advice for parameter tuning includes starting with common default values, and using techniques like cross-validation to iteratively find the best settings.
 >
-> **[4:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980&t=266)** Monitoring validation loss and performance metrics helps guide these adjustments.
+> **[4:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980&t=266)** Monitoring validation loss and [[Performance Metrics]] helps guide these adjustments.
 >
 > **[4:33](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/lora-in-depth-technical-analysis?u=76281980&t=273)** In summary, implementing LoRA adapters involves careful consideration of overfitting versus generalizability, selecting the appropriate rank and fine-tuning parameters.
 >
@@ -2174,14 +2148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1)
 > **Analogies:** it's like (2), similar to (2), imagine (1), just like (1)
 > **CLI Commands:** make (3), find (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: LoRA fine-tuning on FLAN-T5
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980)
+#### [Demo: LoRA fine-tuning on FLAN-T5](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980&t=18)** As the time of this recording in 2024, LoRA is less than two years old.
 >
-> **[0:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980&t=25)** This means that you're going to learn something that not only is a state of the art, but also you will see that implementing it it'll be a little complex because there doesn't exist packages and support for LoRA, for Hugging Face, TensorFlow or PyTorch natively like doing something like LoRA.apply.
+> **[0:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980&t=25)** This means that you're going to learn something that not only is a state of the art, but also you will see that implementing it it'll be a little complex because there doesn't exist packages and support for LoRA, for [[Hugging Face]], [[TensorFlow]] or [[PyTorch]] natively like doing something like LoRA.apply.
 >
 > **[0:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-lora-fine-tuning-on-flan-t5?u=76281980&t=48)** We don't have that yet.
 >
@@ -2421,7 +2394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (2), [[PyTorch]] (1), prompt (1), parallel (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[TensorFlow]] (2), [[PyTorch]] (1)
 > **Env Vars:** gpu (9), ram (3), tft5 (2), peft (1), wmt16 (1)
 > **Definitions:** means that (3), is a  (2), is an  (2), we call this (1)
 > **Analogies:** for example (4)
@@ -2430,12 +2403,11 @@ created: 2026-05-02
 > **Versions:** 2.6 (1)
 > **Best Practices:** avoid doing (1)
 
-#### Implementing LoRA in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/implementing-lora-in-llms?u=76281980)
+#### [Implementing LoRA in LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/implementing-lora-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/implementing-lora-in-llms?u=76281980&t=0)** - [Instructor] Now let's walk through how to implement LoRA adapters in LLMs using Python, TensorFlow, and Keras.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/implementing-lora-in-llms?u=76281980&t=0)** - [Instructor] Now let's walk through how to implement LoRA adapters in LLMs using [[Python (Programming Language)|Python]], [[TensorFlow]], and Keras.
 >
 > **[0:09](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/implementing-lora-in-llms?u=76281980&t=9)** We'll start with snippets for each section and then combine all of them into a full working solution.
 >
@@ -2515,7 +2487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** from_pretrained (2)
 > **Env Vars:** bert (1), wmt16 (1)
@@ -2524,8 +2496,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Challenges in LoRA
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980)
+#### [Demo: Challenges in LoRA](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,7 +2512,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980&t=30)** And we're going to do the same preprocessing of the data.
 >
-> **[0:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980&t=34)** However, as the batch size will change, that means that the creation of the tensorflow dataset needs to be done at each part of the full loop.
+> **[0:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980&t=34)** However, as the batch size will change, that means that the creation of the [[TensorFlow]] dataset needs to be done at each part of the full loop.
 >
 > **[0:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-challenges-in-lora?u=76281980&t=44)** Let me show you what I mean.
 >
@@ -2631,7 +2602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1)
 > **Env Vars:** gpu (3), pip (1), ram (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** pip (1)
@@ -2640,8 +2611,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Solution: Fine-tuning FLAN-T5 for translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980)
+#### [Solution: Fine-tuning FLAN-T5 for translation](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2773,7 +2743,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980&t=341)** And finally we're going to print the average BLEU score on this validation set.
 >
-> **[5:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980&t=348)** Actually, it's going to be on one batch of the validation set and not the whole validation set because of what I told you, but if you run it with a for loop there, it will be on the whole validation set and the rest of the code just runs.
+> **[5:48](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980&t=348)** Actually, it's going to be on one batch of the validation set and not the whole validation set because of what I told you, but if you run it with a for loop there, it will be on the whole validation set and the [[Representational State Transfer (REST)|rest]] of the code just runs.
 >
 > **[6:01](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-fine-tuning-flan-t5-for-translation?u=76281980&t=361)** So this may take one minute or two, so don't worry.
 >
@@ -2801,7 +2771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bleu (6), gpu (2), wmt16 (2), eta (1), ram (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (2), pip (1)
@@ -2815,8 +2785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Fine-tuning the sentiment analysis model
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980)
+#### [Solution: Fine-tuning the sentiment analysis model](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2848,7 +2817,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=85)** And there we go.
 >
-> **[1:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=87)** So, as you know, what we need to do now is to tokenize the dataset and create the TensorFlow datasets.
+> **[1:27](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=87)** So, as you know, what we need to do now is to tokenize the dataset and create the [[TensorFlow]] datasets.
 >
 > **[1:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=94)** The tokenizer will come from distilbert and our token expansion will be much, much easier, because here, we just have sentences and we need to tokenize them to check their sentiment.
 >
@@ -2892,7 +2861,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=219)** And indeed, everything is nice.
 >
-> **[3:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=221)** 64 rows and 128 tokens.
+> **[3:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=221)** 64 rows and 128 [[Tokens]].
 >
 > **[3:46](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=226)** Both on input IDs and attention mask.
 >
@@ -2986,7 +2955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (4), [[TensorFlow]] (3), nlp (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Tokens]] (1)
 > **Env Vars:** gpu (4), sst2 (2), nlp (1), ram (1)
 > **Code Identifiers:** max_length (2), return_tensors (2), sparse_categorical_accuracy (1), save_pretrained (1)
 > **Definitions:** is a  (3), means that (2)
@@ -2995,8 +2964,7 @@ created: 2026-05-02
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
 
-#### Solution: Fine-tuning the Q&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980)
+#### [Solution: Fine-tuning the Q&A model](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3052,7 +3020,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=158)** Therefore, what we need to do is we need to, on the inputs, we need both the question and the context.
 >
-> **[2:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=165)** So we will use the zip function from Python, that will grab the batch of questions and the batch of contexts and the prompt that we're going to create is going to be context, then space, then the task marker space and then the question.
+> **[2:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=165)** So we will use the zip function from [[Python (Programming Language)|Python]], that will grab the batch of questions and the batch of contexts and the prompt that we're going to create is going to be context, then space, then the task marker space and then the question.
 >
 > **[3:04](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=184)** This is very important for the model to understand that we're doing question answering.
 >
@@ -3070,7 +3038,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=237)** This is also a new technique for you, so that's why I want you to explain it, in full.
 >
-> **[4:03](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=243)** The rest of the part is going to be the same.
+> **[4:03](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=243)** The [[Representational State Transfer (REST)|rest]] of the part is going to be the same.
 >
 > **[4:05](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=245)** The model inputs will be the same.
 >
@@ -3176,7 +3144,7 @@ created: 2026-05-02
 >
 > **[9:17](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=557)** So it's correct.
 >
-> **[9:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=558)** So the rouge1 has precision one, the rouge2, of course is zero, because it's only one word.
+> **[9:18](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=558)** So the rouge1 has precision one, the rouge2, of course is zero, because it's only one [[Microsoft Word|word]].
 >
 > **[9:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-q-a-model?u=76281980&t=564)** But if we got another random question, then we would get a rouge_scores.
 >
@@ -3184,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), chatbot (3), next (2), prompt (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** rouge_scorer (3), decoder_input_ids (2), input_ids (1), save_pretrained (1), reference_text (1)
 > **Definitions:** means that (5), is a  (3)
 > **CLI Commands:** pip (2), python (1)
@@ -3193,14 +3161,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Fine-tuning the summarization model
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980)
+#### [Solution: Fine-tuning the summarization model](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=0)** - [Instructor] Hey, how was that challenge?
 >
-> **[0:02](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=2)** In this final challenge, you were meant to do LoRA fine tuning to apply summarization on the CNN DailyMail dataset.
+> **[0:02](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=2)** In this final challenge, you were meant to do LoRA [[Fine Tuning]] to apply summarization on the CNN DailyMail dataset.
 >
 > **[0:15](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=15)** It is very important to be able to summarize, not only because maybe in your chatbot you're asked to do that, but normally when you implement chatbots, at the end of the conversation we want to create a summary of the whole conversation.
 >
@@ -3240,7 +3207,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=130)** And we're only going to take 500 examples for the test dataset.
 >
-> **[2:16](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=136)** After that, we're going to convert to TensorFlow dataset as we have always done.
+> **[2:16](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=136)** After that, we're going to convert to [[TensorFlow]] dataset as we have always done.
 >
 > **[2:22](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-summarization-model?u=76281980&t=142)** And the only thing I'm going to change here, I'm going to set this as true so it shuffles and we can get random batches at the end for the Rouge score.
 >
@@ -3310,7 +3277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cnn (3), data (3), chatbot (2), [[Fine Tuning]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[TensorFlow]] (1)
 > **Env Vars:** bleu (6), cnn (3), gpu (2)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** pip (1), make (1)
@@ -3318,8 +3285,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Integrating everything into our solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980)
+#### [Demo: Integrating everything into our solution](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3471,7 +3437,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980&t=484)** If you are interested in using text generation for chats, we have another course lining app, which is from me, which builds and deploys a chatbot from scratch.
 >
-> **[8:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980&t=499)** And there we are going to see how to configure Microsoft's Phi-3 model, which is the text generation decoder-only model that can be configured for chatting.
+> **[8:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980&t=499)** And there we are going to see how to configure [[Microsoft]]'s Phi-3 model, which is the text generation decoder-only model that can be configured for chatting.
 >
 > **[8:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-integrating-everything-into-our-solution?u=76281980&t=514)** Finally, if we run the reset, the whole conversation should be reset, and we should get the final summary of all of the conversation.
 >
@@ -3499,7 +3465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (17), prompt (2), llm (2), data (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Code Identifiers:** sentiment_model (3), qa_model (1), my_model_directory (1), summarization_model (1), generated_text (1)
 > **Env Vars:** gpu (2), gpt (2), llm (2), ss2 (1), listen (1)
 > **CLI Commands:** make (3), pip (1), grep (1)
@@ -3513,12 +3479,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course recap and key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980)
+#### [Course recap and key takeaways](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980&t=0)** - [Instructor] We've journeyed through the essential techniques and methods for fine-tuning large language models.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980&t=0)** - [Instructor] We've journeyed through the essential techniques and methods for fine-tuning [[Large Language Models (LLM)|large language models]].
 >
 > **[0:08](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980&t=8)** Let's take a moment to recap the key concepts and skills we've covered.
 >
@@ -3556,13 +3521,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bert (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced topics and future trends in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980)
+#### [Advanced topics and future trends in LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3578,7 +3542,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980&t=36)** Another exciting development is federated learning.
 >
-> **[0:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980&t=41)** This approach allows models to be trained across multiple decentralized devices or servers, enhancing privacy and reducing the need for data centralization.
+> **[0:41](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980&t=41)** This approach allows models to be trained across multiple decentralized devices or servers, enhancing [[Privacy]] and reducing the need for data centralization.
 >
 > **[0:54](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/advanced-topics-and-future-trends-in-llms?u=76281980&t=54)** It's especially relevant for sensitive applications like healthcare.
 >
@@ -3600,27 +3564,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), nlp (1), [[Privacy]] (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Leveraging LLMs for future projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980)
+#### [Leveraging LLMs for future projects](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=0)** - [Narrator] Staying updated in the rapidly evolving field of large language models is essential for any AI practitioner.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=0)** - [Narrator] Staying updated in the rapidly evolving field of [[Large Language Models (LLM)|large language models]] is essential for any AI practitioner.
 >
 > **[0:09](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=9)** Continuous learning isn't just a one-time effort, but a sustained journey.
 >
 > **[0:15](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=15)** Here are a few strategies to help you keep up.
 >
-> **[0:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=19)** First, subscribe to AI research journals and newsletters.
+> **[0:19](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=19)** First, subscribe to AI research journals and [[Newsletters]].
 >
 > **[0:24](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=24)** Publications like "arXiv" and "The Journal of Machine Learning Research" offer the latest findings and innovations.
 >
-> **[0:32](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=32)** Following AI influencers and researchers on social media platforms like LinkedIn or Twitter can also provide real-time insights and discussions.
+> **[0:32](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=32)** Following AI influencers and researchers on social media platforms like [[LinkedIn]] or Twitter can also provide [[Real-Time]] insights and discussions.
 >
 > **[0:45](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=45)** Secondly, participate in online courses and workshops.
 >
@@ -3628,13 +3591,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=57)** Engaging with these resources can deepen your understanding and introduce you to cutting-edge techniques.
 >
-> **[1:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=66)** Joining AI communities and forums, such as Reddit's "r/MachineLearning", "Stack Overflow" and specialized groups on Discord or Slack can be incredibly valuable.
+> **[1:06](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=66)** Joining AI communities and forums, such as Reddit's "r/MachineLearning", "Stack Overflow" and specialized groups on Discord or [[Slack]] can be incredibly valuable.
 >
 > **[1:21](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=81)** These communities offer peer support, knowledge sharing, and opportunities to collaborate on projects.
 >
 > **[1:30](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=90)** Finally, hands-on practice is crucial.
 >
-> **[1:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=94)** Regularly experiment with new models and techniques using platforms like Hugging Face and Kaggle.
+> **[1:34](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=94)** Regularly experiment with new models and techniques using platforms like [[Hugging Face]] and Kaggle.
 >
 > **[1:42](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/leveraging-llms-for-future-projects?u=76281980&t=102)** Practical experience not only solidifies your knowledge, but also hones your skills in real-world applications.
 >
@@ -3646,7 +3609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Newsletters]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Newsletters]] (1), [[Real-Time]] (1), [[Slack]] (1)
 > **Tools:** discord (1), slack (1)
 > **Code Identifiers:** arxiv (1)
 > **Env Vars:** nlp (1)
@@ -3654,12 +3617,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Continuous learning in the field of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/continuous-learning-in-the-field-of-llms?u=76281980)
+#### [Continuous learning in the field of LLMs](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/continuous-learning-in-the-field-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/continuous-learning-in-the-field-of-llms?u=76281980&t=0)** - As we wrap up this course on fine tuning large language models, I want to thank you, each of you, for staying and watching.
+> **[0:00](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/continuous-learning-in-the-field-of-llms?u=76281980&t=0)** - As we wrap up this course on [[Fine Tuning]] [[Large Language Models (LLM)|large language models]], I want to thank you, each of you, for staying and watching.
 >
 > **[0:08](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/continuous-learning-in-the-field-of-llms?u=76281980&t=8)** Your commitment to learning is truly commendable.
 >
@@ -3681,7 +3643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (2), llm (2), [[Large Language Models (LLM)|Large language models]] (1), chatbot (1), cloud (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)

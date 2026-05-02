@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The non-obvious skills data scientists should think about
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
+#### [The non-obvious skills data scientists should think about](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980&t=0)** - If you've chosen data science as a profession you're probably quite used to working away at a tough problem alone for hours at a time.
+> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980&t=0)** - If you've chosen [[Data Science]] as a profession you're probably quite used to working away at a tough problem alone for hours at a time.
 >
 > **[0:09](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980&t=9)** It's all part of the job.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **Speakers:** - if (1)
 
 
@@ -122,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data Science is about inference and prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
+#### [Data Science is about inference and prediction](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=9)** But what if you are an aspiring data scientist and just starting out?
 >
-> **[0:15](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=15)** I'm recording this new introductory chapter to allow me to briefly describe how most organizations have been utilizing their data science teams to orient you to what may be in store for you.
+> **[0:15](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=15)** I'm recording this new introductory chapter to allow me to briefly describe how most organizations have been utilizing their [[Data Science]] teams to orient you to what may be in store for you.
 >
 > **[0:29](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=29)** There's no consensus on what data science is, but I find the working definition of the Initiative for Analytics and Data Science Standards to be a helpful place to start, "Using data to achieve specified goals by designing or applying computational methods for inference or prediction."
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=105)** Prediction is different.
 >
-> **[1:47](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=107)** When management wants us to perform prediction, usually in the form of building a predictive analytics model, they are trying to use data to drive ongoing, day-to-day decisions.
+> **[1:47](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=107)** When management wants us to perform prediction, usually in the form of building a [[Predictive Analytics]] model, they are trying to use data to drive ongoing, day-to-day decisions.
 >
 > **[2:01](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=121)** We wear a machine learning hat when we tackle these problems.
 >
@@ -161,27 +159,26 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=155)** Still, ultimately, we're usually being asked to do one of these two things, help answer a strategic question with inference, or build a predictive model.
 >
-> **[2:49](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=169)** In this course, we're going to focus more on predictive modeling than on inference, but they are both important.
+> **[2:49](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=169)** In this course, we're going to focus more on [[Predictive Modeling]] than on inference, but they are both important.
 >
 > **[2:57](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980&t=177)** So in the next video, I'll give you specific advice to use when you are interacting with executives to help you know how to detect which you are being asked to do, inference or prediction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), teams (2), management (2), [[Analytics]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Predictive Analytics]] (1), [[Predictive Modeling]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 > **Speakers:** - hundreds (1)
 
-#### Diagnosing inference vs. prediction projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980)
+#### [Diagnosing inference vs. prediction projects](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=0)** - Most executives won't be exact with their requests.
 >
-> **[0:05](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=5)** They typically have a clear goal, but if they're seeking out help from the data science team, it's because most often they themselves are struggling with an ill-defined problem.
+> **[0:05](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=5)** They typically have a clear goal, but if they're seeking out help from the [[Data Science]] team, it's because most often they themselves are struggling with an ill-defined problem.
 >
 > **[0:17](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=17)** In fact, it's theme of the course that we'll discuss through several examples.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=69)** When you hear this, you know that you need a predictive model using your machine learning skills.
 >
-> **[1:17](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=77)** I walked through the modeling process step by step in Predictive Modeling Essentials: Data Mining.
+> **[1:17](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=77)** I walked through the modeling process step by step in [[Predictive Modeling]] Essentials: [[Data Mining]].
 >
 > **[1:24](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diagnosing-inference-versus-prediction-projects?u=76281980&t=84)** In this course, we talk about how to diagnose the problem and ensure project success in an organizational context, using your non-technical skills.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (1), [[Predictive Modeling]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Predictive Modeling]] (1), [[Data Mining]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
@@ -234,18 +231,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Confidently defending your turf
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
+#### [Confidently defending your turf](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=0)** - If your work title has phrases like data science, predictive analytics, or advanced analytics in it, you should realize that not everyone is going to define your role the same way.
+> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=0)** - If your work title has phrases like [[Data Science]], [[Predictive Analytics]], or advanced analytics in it, you should realize that not everyone is going to define your role the same way.
 >
 > **[0:11](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=11)** In fact, maybe your title was really quite vague, but you belong to a team with one of those phrases in its name.
 >
 > **[0:19](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=19)** In fact, very possibly, your role has a description that has never been reduced to writing.
 >
-> **[0:26](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=26)** The way your role was described to you during interviewing might not match the reality of what your role has become.
+> **[0:26](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=26)** The way your role was described to you during [[Interviewing]] might not match the reality of what your role has become.
 >
 > **[0:33](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=33)** Do any of these sound like issues that you might be facing at work?
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=141)** Now there is one way that you can risk going too far.
 >
-> **[2:24](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=144)** If you will only do the fanciest algorithms using the latest software, you aren't giving your boss much room for manoeuvre.
+> **[2:24](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=144)** If you will only do the fanciest [[Algorithms]] using the latest software, you aren't giving your boss much room for manoeuvre.
 >
 > **[2:32](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980&t=152)** But what is reasonable is to work on projects that showcase your analytical skills, focusing on projects where something is being predicted.
 >
@@ -295,17 +291,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (3), [[Interviewing]] (2), management (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Interviewing]] (2), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - if (1)
 
-#### Embracing ambiguity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980)
+#### [Embracing ambiguity](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=0)** - I've seen some aspects of data science change over the years, but one aspect of these projects that never changes is that you have to be prepared for the unexpected.
+> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=0)** - I've seen some aspects of [[Data Science]] change over the years, but one aspect of these projects that never changes is that you have to be prepared for the unexpected.
 >
 > **[0:08](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=8)** It's in some ways like being an inventor.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=46)** One thing that I like to point out to people is that the problem definition aspect of these projects is so important that it's critical to slow down at the beginning of a project.
 >
-> **[0:57](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=57)** So, if you're used to a more linear approach, let's say, I really encourage folks to read CRISP-DM, Cross Industry Standard Process for Data Mining.
+> **[0:57](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=57)** So, if you're used to a more linear approach, let's say, I really encourage folks to read [[CRISP-DM]], Cross Industry Standard Process for [[Data Mining]].
 >
 > **[1:06](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/embracing-ambiguity?u=76281980&t=66)** And it will remind you, you know, you've got business understanding, and you've got data understanding, and all these phases before you get to modeling.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[CRISP-DM]] (1), [[Data Mining]] (1)
 > **Non-Speech:** (mellow music) (8)
 > **CLI Commands:** find (2)
 > **Env Vars:** crisp (1)
@@ -409,12 +404,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Cognitive empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980)
+#### [Cognitive empathy](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=0)** - From time to time you'll read that cognitive science and psychology are complementary fields to data science.
+> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=0)** - From time to time you'll read that cognitive science and psychology are complementary fields to [[Data Science]].
 >
 > **[0:07](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=7)** And it's true.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=62)** Some years ago I was in a meeting with a half dozen analysts and IT professionals.
 >
-> **[1:08](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=68)** We were in a brainstorming session about feature engineering.
+> **[1:08](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=68)** We were in a brainstorming session about [[Feature Engineering]].
 >
 > **[1:12](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/cognitive-empathy?u=76281980&t=72)** It was a cellphone company and I had just visited one of the retail stores just to wander around and observe.
 >
@@ -480,13 +474,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Feature Engineering]] (2), traffic (1), database (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Feature Engineering]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - from (1)
 
-#### Skepticism
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980)
+#### [Skepticism](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980&t=133)** In fact, I began to believe that they kind of bounced around a band of scores, and that quite possibly they were never falling outside of a confidence interval.
 >
-> **[2:23](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980&t=143)** Now, a bit of statistics training helps you perceive this kind of thing but you know it's really more about the mindset.
+> **[2:23](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980&t=143)** Now, a bit of [[Statistics]] training helps you perceive this kind of thing but you know it's really more about the mindset.
 >
 > **[2:31](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/skepticism?u=76281980&t=151)** Remember that the numbers that you analyze could be indicating the truth or they could be distorted in your attempt to measure them.
 >
@@ -594,15 +587,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (2), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - sometimes (1)
 
-#### Curiosity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/curiosity?u=76281980)
+#### [Curiosity](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/curiosity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,18 +706,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (2)
 > **URLs:** [mint.com](https://mint.com) (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - years (1)
 
-#### Commitment to your craft
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980)
+#### [Commitment to your craft](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=0)** - The rapid rise of data science has produced an explosion of technologies.
+> **[0:00](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=0)** - The rapid rise of [[Data Science]] has produced an explosion of technologies.
 >
 > **[0:05](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=5)** And as a data scientist, that means you have to be in the know of what's out there.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=49)** I attend all three.
 >
-> **[0:51](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=51)** Examples of professional conferences include O'Reilly Strata, Predictive Analytics World, and TDWI.
+> **[0:51](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=51)** Examples of professional conferences include O'Reilly Strata, [[Predictive Analytics]] World, and TDWI.
 >
 > **[0:59](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=59)** In many cases, they may be a good place to start because they usually have good offerings for those early in their career, and being able to browse an expo might be quite interesting if you've never had the opportunity.
 >
@@ -785,11 +775,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=155)** By maintaining my relationship with experts, like product managers, I get a preview into where the technology is headed.
 >
-> **[2:43](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=163)** And my clients that use IBM products find that very valuable.
+> **[2:43](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=163)** And my clients that use IBM [[Microsoft Products|products]] find that very valuable.
 >
 > **[2:47](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=167)** Another reason to go is to learn something new.
 >
-> **[2:51](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=171)** I've been using KNIME for several years now.
+> **[2:51](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=171)** I've been using [[Knime]] for several years now.
 >
 > **[2:54](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/commitment-to-your-craft?u=76281980&t=174)** But when I attend KNIME conferences, I almost always attend a pre or post-conference training.
 >
@@ -817,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (3), [[Knime]] (2), [[Predictive Analytics]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Knime]] (2), [[Predictive Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ibm (2), knime (2), tdwi (1), kdd (1), h2o (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2)
@@ -825,8 +815,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Managing both up and down
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/managing-both-up-and-down?u=76281980)
+#### [Managing both up and down](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/managing-both-up-and-down?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +903,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), next (1), [[Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cmo (1), coo (1)
 > **Analogies:** for instance (2)
@@ -922,8 +910,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Being an effective analytics translator
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980)
+#### [Being an effective analytics translator](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,9 +930,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=53)** In short, you have to be prepared to be bilingual, speaking one language with your immediate team, and another language with everyone outside of your team.
 >
-> **[1:05](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=65)** If you are a new member of the analytics and data science team, you won't be expected to be an expert in all aspects of the business but you must show a curiosity and a willingness to learn.
+> **[1:05](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=65)** If you are a new member of the analytics and [[Data Science]] team, you won't be expected to be an expert in all aspects of the business but you must show a curiosity and a willingness to learn.
 >
-> **[1:19](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=79)** If you have a good analytics manager, they are there largely to translate from the language of predictive analytics to the language of the business.
+> **[1:19](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=79)** If you have a good analytics manager, they are there largely to translate from the language of [[Predictive Analytics]] to the language of the business.
 >
 > **[1:28](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=88)** At the start of the project, they have to translate from a business objective to a modeling objective.
 >
@@ -965,7 +952,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=153)** I don't mean a single algorithm as you might use more than one.
 >
-> **[2:38](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=158)** But if I were doing something that requires text mining, cluster analysis, and supervised learning all at once, I would strongly suggest that you make that three separate projects, meaning that each one has a project lead, a timeline and a budget.
+> **[2:38](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=158)** But if I were doing something that requires [[Text Mining]], cluster analysis, and [[Supervised Learning]] all at once, I would strongly suggest that you make that three separate projects, meaning that each one has a project lead, a timeline and a budget.
 >
 > **[2:56](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/being-an-effective-analytics-translator?u=76281980&t=176)** If you are alone on the team, and that happens, you might be the project lead for all three, but consider breaking them up sequentially.
 >
@@ -985,14 +972,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), business (6), management (3), data (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Predictive Analytics]] (1), [[Text Mining]] (1), [[Supervised Learning]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rmse (1), roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Diplomacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980)
+#### [Diplomacy](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,9 +994,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=40)** Conversations around this topic within organizations can get quite heated.
 >
-> **[0:46](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=46)** I remember listening to a department head describe his experience of data science in this way.
+> **[0:46](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=46)** I remember listening to a department head describe his experience of [[Data Science]] in this way.
 >
-> **[0:52](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=52)** "You know statistics, right?
+> **[0:52](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=52)** "You know [[Statistics]], right?
 >
 > **[0:53](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=53)** "Don't they say that you can get statistics "to say anything you want?"
 >
@@ -1038,7 +1024,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=127)** I was approach to build a lead scoring model by an insurance exec.
 >
-> **[2:12](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=132)** His sales team had the responsibility to visit independent insurance agencies and present them with new products.
+> **[2:12](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=132)** His sales team had the responsibility to visit independent insurance agencies and present them with new [[Microsoft Products|products]].
 >
 > **[2:19](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/diplomacy?u=76281980&t=139)** I wanted to speak to a couple of the sales reps.
 >
@@ -1086,12 +1072,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), business (2), database (1), management (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Science]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - organizational (1)
 
-#### Persuasion
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980)
+#### [Persuasion](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1120,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=88)** Questions like, why couldn't you get solid numbers on the estimates?
 >
-> **[1:32](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=92)** And, who's in charge of data quality?
+> **[1:32](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=92)** And, who's in charge of [[Data Quality]]?
 >
 > **[1:35](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=95)** My advice would be to avoid pointing fingers.
 >
@@ -1169,7 +1154,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=175)** And then the senior exec interrupted me and said, "Get node 21 on the phone."
 >
-> **[3:01](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=181)** I explained that the way that I set it up in the model, it can be rerun each month, and I can populate the executive dashboards with the information.
+> **[3:01](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=181)** I explained that the way that I set it up in the model, it can be rerun each month, and I can populate the executive [[Dashboards]] with the information.
 >
 > **[3:09](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/persuasion?u=76281980&t=189)** Or I could even send the information just to division managers, sending only the region that they're responsible for.
 >
@@ -1187,7 +1172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), node (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Dashboards]] (1)
 > **CLI Commands:** node (1)
 > **Versions:** node 21 (1)
 > **Analogies:** imagine (1)
@@ -1198,8 +1183,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,17 +1193,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=15)** A great way of continuing on your journey is checking out a course that's a bit of a companion course to this one.
 >
-> **[0:22](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=22)** My Essential Elements course is a high-level view of some of the strategy and theory behind doing these projects, including a detailed discussion of CRISP-DM.
+> **[0:22](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=22)** My Essential Elements course is a high-level view of some of the strategy and theory behind doing these projects, including a detailed discussion of [[CRISP-DM]].
 >
-> **[0:33](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=33)** If you're looking to get deeper into the technical side of data science, my intro to classification course is a gateway to some of the tools and techniques courses that I have in the library.
+> **[0:33](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=33)** If you're looking to get deeper into the technical side of [[Data Science]], my intro to classification course is a gateway to some of the tools and techniques courses that I have in the library.
 >
-> **[0:46](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=46)** I'm passionate about these courses, so I hope you'll consider following me on LinkedIn so that you'll be up to date on my latest work.
+> **[0:46](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=46)** I'm passionate about these courses, so I hope you'll consider following me on [[LinkedIn]] so that you'll be up to date on my latest work.
 >
 > **[0:54](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980&t=54)** Also, feel free to reach out in the Q and A section should you have any questions or comments regarding the content I presented in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CRISP-DM]] (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** crisp (1)
 > **Speakers:** - i (1)

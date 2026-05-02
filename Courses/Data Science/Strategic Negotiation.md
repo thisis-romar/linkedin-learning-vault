@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intentional negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
+#### [Intentional negotiation](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the context of the negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
+#### [Defining the context of the negotiation](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,13 +164,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - the (1)
 
-#### Understanding relationships in negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-relationships-in-negotiation?u=76281980)
+#### [Understanding relationships in negotiation](https://www.linkedin.com/learning/strategic-negotiation/understanding-relationships-in-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,14 +222,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - relationships (1)
 
-#### Choosing a negotiation style
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/choosing-a-negotiation-style?u=76281980)
+#### [Choosing a negotiation style](https://www.linkedin.com/learning/strategic-negotiation/choosing-a-negotiation-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,8 +298,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - you (1)
 
-#### Emotion and fairness in negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/emotion-and-fairness-in-negotiation?u=76281980)
+#### [Emotion and fairness in negotiation](https://www.linkedin.com/learning/strategic-negotiation/emotion-and-fairness-in-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,8 +365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding players and positions in negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
+#### [Understanding players and positions in negotiation](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=57)** The other party has goals.
 >
-> **[0:59](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=59)** You have to lay out what you think those goals are, and also understand if a deal goes away, how are they going to react?
+> **[0:59](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=59)** You have to lay out what you think those goals are, and also understand if a deal goes away, how are they going to [[React.js|react]]?
 >
 > **[1:08](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=68)** Last, what are the alternatives to the deal?
 >
@@ -419,12 +411,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - having (1)
 
-#### Structuring a deal in negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/structuring-a-deal-in-negotiation?u=76281980)
+#### [Structuring a deal in negotiation](https://www.linkedin.com/learning/strategic-negotiation/structuring-a-deal-in-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,14 +475,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), management (1), teams (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (2), npv (1)
 > **Analogies:** for example (1)
 > **Speakers:** - deal (1)
 
-#### Anchoring a deal in negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/anchoring-a-deal-in-negotiation?u=76281980)
+#### [Anchoring a deal in negotiation](https://www.linkedin.com/learning/strategic-negotiation/anchoring-a-deal-in-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +552,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - there (1)
@@ -573,8 +561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining your goals in a negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
+#### [Defining your goals in a negotiation](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,12 +617,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - before (1)
 
-#### Sequencing a deal in a negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/sequencing-a-deal-in-a-negotiation?u=76281980)
+#### [Sequencing a deal in a negotiation](https://www.linkedin.com/learning/strategic-negotiation/sequencing-a-deal-in-a-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,8 +659,7 @@ created: 2026-05-02
 > **CLI Commands:** make (4)
 > **Speakers:** - there (1)
 
-#### Negotiation techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/negotiation-techniques?u=76281980)
+#### [Negotiation techniques](https://www.linkedin.com/learning/strategic-negotiation/negotiation-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +725,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (2), career (1)
 > **Definitions:** is called (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -753,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing what happened in a negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
+#### [Assessing what happened in a negotiation](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,8 +797,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - throughout (1)
 
-#### Changing your approach in a negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/changing-your-approach-in-a-negotiation?u=76281980)
+#### [Changing your approach in a negotiation](https://www.linkedin.com/learning/strategic-negotiation/changing-your-approach-in-a-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,8 +857,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - during (1)
 
-#### Setting up for future deals
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/setting-up-for-future-deals?u=76281980)
+#### [Setting up for future deals](https://www.linkedin.com/learning/strategic-negotiation/setting-up-for-future-deals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,7 +911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1)
@@ -943,8 +922,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding common negotiation pitfalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)
+#### [Avoiding common negotiation pitfalls](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,13 +994,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Warnings:** pitfall (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Preparing for negotiation success
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/preparing-for-negotiation-success?u=76281980)
+#### [Preparing for negotiation success](https://www.linkedin.com/learning/strategic-negotiation/preparing-for-negotiation-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1038,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 

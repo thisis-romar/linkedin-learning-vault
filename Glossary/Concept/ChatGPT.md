@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
   - topic/devops
-course_count: 245
+course_count: 246
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # ChatGPT
 
-> **Type:** Concept | **Courses:** 245 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Network and System Administration]], [[DevOps]]
+> **Type:** Concept | **Courses:** 246 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Network and System Administration]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Become An Ai Powered People Manager]] — 77 mentions
 10. [[Prompting ChatGPT with Multimodal Techniques]] — 69 mentions
 
-> [!note]- See all 245 courses
+> [!note]- See all 246 courses
 > 11. [[ChatGPT and SQL]] — 67 mentions
 > 12. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 58 mentions
 > 13. [[Ai And Developer Productivity]] — 53 mentions
@@ -64,10 +64,10 @@ created: 2026-05-02
 > 31. [[OpenAI API- Code Interpreter and Advanced Data Analysis]] — 26 mentions
 > 32. [[Nano Tips for Using ChatGPT for Business with Rachel Woods]] — 25 mentions
 > 33. [[Using AI in the Design to Full-Stack Development Life Cycle]] — 25 mentions
-> 34. [[AI Productivity Hacks to Reimagine Your Workday and Career]] — 24 mentions
-> 35. [[Build with AI- Beyond Pair Programming with AI]] — 24 mentions
-> 36. [[Using AI as Your SEO Assistant]] — 24 mentions
-> 37. [[Leveraging AI for Security Testing]] — 24 mentions
+> 34. [[Leveraging AI for Security Testing]] — 25 mentions
+> 35. [[AI Productivity Hacks to Reimagine Your Workday and Career]] — 24 mentions
+> 36. [[Build with AI- Beyond Pair Programming with AI]] — 24 mentions
+> 37. [[Using AI as Your SEO Assistant]] — 24 mentions
 > 38. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 23 mentions
 > 39. [[Leveraging Generative AI in Finance and Accounting]] — 22 mentions
 > 40. [[Amplify Your Critical Thinking with Generative AI]] — 22 mentions
@@ -262,20 +262,21 @@ created: 2026-05-02
 > 229. [[Getting Started with the Google Gemini API]] — 1 mentions
 > 230. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
 > 231. [[AI Chat Prompts for Business Analysis]] — 1 mentions
-> 232. [[R for Data Science- Analysis and Visualization]] — 1 mentions
-> 233. [[Advanced Nlp With Python For Machine Learning]] — 1 mentions
-> 234. [[Advanced Python Projects- Build AI Applications]] — 1 mentions
-> 235. [[Business Acumen for Project Managers]] — 1 mentions
-> 236. [[IT Service Management Foundations- Change Management]] — 1 mentions
-> 237. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
-> 238. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
-> 239. [[Supercharge the Development Process with GitHub Extensions for Copilot Chat]] — 1 mentions
-> 240. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
-> 241. [[Hands-On AI- RAG using LlamaIndex]] — 1 mentions
-> 242. [[Advanced SQL Project- Design and Manage a Database]] — 1 mentions
-> 243. [[Practical GitHub Code Search]] — 1 mentions
-> 244. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 245. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
+> 232. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 233. [[R for Data Science- Analysis and Visualization]] — 1 mentions
+> 234. [[Advanced Nlp With Python For Machine Learning]] — 1 mentions
+> 235. [[Advanced Python Projects- Build AI Applications]] — 1 mentions
+> 236. [[Business Acumen for Project Managers]] — 1 mentions
+> 237. [[IT Service Management Foundations- Change Management]] — 1 mentions
+> 238. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 239. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
+> 240. [[Supercharge the Development Process with GitHub Extensions for Copilot Chat]] — 1 mentions
+> 241. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 242. [[Hands-On AI- RAG using LlamaIndex]] — 1 mentions
+> 243. [[Advanced SQL Project- Design and Manage a Database]] — 1 mentions
+> 244. [[Practical GitHub Code Search]] — 1 mentions
+> 245. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 246. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
 
 ## Learning Paths
 

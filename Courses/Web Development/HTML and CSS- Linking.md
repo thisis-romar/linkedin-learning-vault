@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hyperlinks: The glue connecting the World Wide Web
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
+#### [Hyperlinks: The glue connecting the World Wide Web](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980&t=6)** In this course we'll look in detail at the humble link.
 >
-> **[0:09](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980&t=9)** We'll use HTML to link within a page, between pages, to different websites, email, phone numbers, and to documents like PDFs.
+> **[0:09](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980&t=9)** We'll use [[HTML]] to link within a page, between pages, to different websites, email, phone numbers, and to documents like PDFs.
 >
 > **[0:18](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980&t=18)** We'll also make our links pretty with CSS, and look at link maintenance to make sure that they're up to date with the changing web.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[HTML]] (2), css (2), career (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - links (1)
@@ -112,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basic link
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
+#### [The basic link](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=0)** - [Instructor] In the first chapter of this course, we're going to be editing some HTML files inside of a text editor.
+> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=0)** - [Instructor] In the first chapter of this course, we're going to be editing some [[HTML]] files inside of a text editor.
 >
 > **[0:07](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=7)** And the text editor that I'm using is called Visual Studio Code or VSCode.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=17)** On the homepage, I've got a great big blue button here for downloading this on a Mac because that's what I'm using.
 >
-> **[0:24](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=24)** But you'll see here, it's also available for Windows and for Linux.
+> **[0:24](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=24)** But you'll see here, it's also available for [[Windows]] and for [[Linux]].
 >
 > **[0:28](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980&t=28)** So you are welcome to download the software and use it or any other text editor that you prefer to use for editing HTML files here in Chapter 1.
 >
@@ -229,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (1), [[Linux]] (1), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** html (2), url (2), css (1), vscode (1)
 > **Definitions:** is a  (3), stands for (2), is called (1)
 > **File Paths:** second.html (2), about.html (2), about/about.html (1)
@@ -238,8 +236,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), exercise files (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 
-#### Linking to offsite resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980)
+#### [Linking to offsite resources](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=11)** The best way to start this process is to visit the website that you want to link to.
 >
-> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=16)** In this case we're going to link to LinkedIn.
+> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=16)** In this case we're going to link to [[LinkedIn]].
 >
 > **[0:19](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=19)** And you want to pull that up inside of a browser window.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=36)** Highlight that web address that's up there at the top of the page and copy that URL at the top of the page.
 >
-> **[0:46](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=46)** And then you're going to come back to your text editor Here we're inside of the exercise files folder 01-02 inside of the begin folder looking at the file called links.html.
+> **[0:46](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=46)** And then you're going to come back to your text editor Here we're inside of the exercise files folder 01-02 inside of the begin folder looking at the file called links.[[HTML]].
 >
 > **[1:00](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=60)** And you'll see here on line 14, we have some text that we're going to visit the LinkedIn website.
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=189)** The last part of this equation is what in fact does the http versus the https do for you?
 >
-> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=197)** Well the S stands for secure and these days Google prefers to have your site in a secure environment like this with those type of link that starts with https.
+> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=197)** Well the S stands for secure and these days [[Google]] prefers to have your site in a secure environment like this with those type of link that starts with https.
 >
 > **[3:30](https://www.linkedin.com/learning/html-and-css-linking/linking-to-offsite-resources?u=76281980&t=210)** If you were to link to LinkedIn at http only, if LinkedIn is set up correctly, it will redirect you from the non-secure to the secure website automatically.
 >
@@ -311,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (9), web (5), [[Google]] (4), [[HTML]] (2), hit (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (9), [[Google]] (4), [[HTML]] (2)
 > **CLI Commands:** find (3), make (2)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **File Paths:** links.html (2)
@@ -320,8 +317,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** next video (1)
 
-#### Opening links in different windows and iframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980)
+#### [Opening links in different windows and iframes](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,11 +347,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=72)** Well, coding that is pretty straightforward.
 >
-> **[1:15](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=75)** Here on line 15, where I have my link to visit LinkedIn Learning.
+> **[1:15](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=75)** Here on line 15, where I have my link to visit [[LinkedIn]] Learning.
 >
 > **[1:19](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=79)** This is inside of your exercise files, folder 0103 in the Begin folder.
 >
-> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=84)** I'm looking at the file called link study HTML.
+> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=84)** I'm looking at the file called link study [[HTML]].
 >
 > **[1:27](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=87)** And here on line 15, just after the href with the LinkedIn URL, I will add target as my attribute= and the value here will be _blank.
 >
@@ -383,7 +379,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=145)** But before I leave this topic, I want to show you a reason that you might want to use one of the other values for target.
 >
-> **[2:34](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=154)** So we're going to come back to my links page here and I'm going to throw in just after the Google link down here.
+> **[2:34](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=154)** So we're going to come back to my links page here and I'm going to throw in just after the [[Google]] link down here.
 >
 > **[2:40](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=160)** I'm going to throw in another element here on this page.
 >
@@ -407,7 +403,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=227)** And when I click on it, it will tell me here in this iframe that Firefox can't open this page.
 >
-> **[3:53](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=233)** It's not going to be allowed to open in this page because I've got it embedded here in an iframe and Firefox sees this as a security risk.
+> **[3:53](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=233)** It's not going to be allowed to open in this page because I've got it embedded here in an iframe and Firefox sees this as a [[Security Risk]].
 >
 > **[4:01](https://www.linkedin.com/learning/html-and-css-linking/opening-links-in-different-windows-and-iframes?u=76281980&t=241)** You'll also see this fail in Chrome.
 >
@@ -443,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (9), [[HTML]] (2), web (1), [[Google]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (9), [[HTML]] (2), [[Google]] (1), [[Security Risk]] (1)
 > **UI Navigation:** click on (3), open the (2)
 > **Env Vars:** http (1), https (1), html (1), url (1)
 > **Tools:** firefox (3)
@@ -452,8 +448,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **File Paths:** second.html (1)
 
-#### Linking to PDF files and other documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980)
+#### [Linking to PDF files and other documents](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,15 +456,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=6)** You can link to PDFs within your website or you can link to PDFs on other websites.
 >
-> **[0:12](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=12)** The principles you use for linking PDFs is the same for linking any other kind of document including Microsoft Office documents.
+> **[0:12](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=12)** The principles you use for linking PDFs is the same for linking any other kind of document including [[Microsoft Office]] documents.
 >
 > **[0:20](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=20)** If the browser can't display a specific type of document then it will download the document instead.
 >
 > **[0:27](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=27)** So let's practice making some links to these other types of files.
 >
-> **[0:31](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=31)** As you'll see here on lines 19, 20 and 21 inside of link storage HTML located in your exercise files folder inside of folders 01 04 in the begin folder, you'll see that we are going to make links to a PDF on our site.
+> **[0:31](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=31)** As you'll see here on lines 19, 20 and 21 inside of link storage [[HTML]] located in your exercise files folder inside of folders 01 04 in the begin folder, you'll see that we are going to make links to a PDF on our site.
 >
-> **[0:47](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=47)** We'll make a link to a Word document and we're going to link to a PDF elsewhere on the internet in this video.
+> **[0:47](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=47)** We'll make a link to a [[Microsoft Word|Word]] document and we're going to link to a PDF elsewhere on the internet in this video.
 >
 > **[0:54](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=54)** So let's start with the first one here on line 19 linking to a PDF.
 >
@@ -487,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=99)** You'll see that it will very kindly open up this PDF here for me.
 >
-> **[1:44](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=104)** Now, is that good user experience?
+> **[1:44](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=104)** Now, is that good [[User Experience (UX)|user experience]]?
 >
 > **[1:46](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=106)** That's another great question.
 >
@@ -519,9 +514,9 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=191)** This time around.
 >
-> **[3:12](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=192)** As you see here, I'm linking to a Microsoft Word document.
+> **[3:12](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=192)** As you see here, I'm linking to a [[Microsoft Word]] document.
 >
-> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=197)** Now browsers don't support Microsoft Word documents or Excel documents or PowerPoints.
+> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=197)** Now browsers don't support Microsoft Word documents or [[Microsoft Excel|Excel]] documents or PowerPoints.
 >
 > **[3:22](https://www.linkedin.com/learning/html-and-css-linking/linking-to-pdf-files-and-other-documents?u=76281980&t=202)** So what had happened here is that when someone clicks on this link, it's definitely going to download.
 >
@@ -575,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (5), [[Microsoft Word|Word]] (4), [[HTML]] (2), web (2), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (5), [[Microsoft Word|Word]] (4), [[HTML]] (2), [[Microsoft Office]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** pdf (18), irs (4), html (2)
 > **UI Navigation:** click on (5), go to (2), toggle (1)
 > **Definitions:** is a  (5)
@@ -584,8 +579,7 @@ created: 2026-05-02
 > **Tools:** vs code (1), firefox (1)
 > **Warnings:** warning (1)
 
-#### Linking within the same document and top of page
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980)
+#### [Linking within the same document and top of page](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -639,7 +633,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980&t=138)** So it winds up looking like this, and this type of code still works.
 >
-> **[2:24](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980&t=144)** It's the original way that we did these types of links inside of HTML.
+> **[2:24](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980&t=144)** It's the original way that we did these types of links inside of [[HTML]].
 >
 > **[2:28](https://www.linkedin.com/learning/html-and-css-linking/linking-within-the-same-document-and-top-of-page?u=76281980&t=148)** If you save your page and we'll view this inside of a web browser, I narrowed up the text here with a little CSS so that you get the experience of scrolling down the page.
 >
@@ -707,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** html (2), css (1)
@@ -716,8 +710,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking phone numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980)
+#### [Linking phone numbers](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,11 +726,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=20)** But it's really the phone users that use this functionality a lot, and it's really handy to have it.
 >
-> **[0:27](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=27)** So since it's such a boost to the user experience, I'm of the opinion that any phone number that appears on your site ought to be clickable for those who want to click it and want to use it to make a phone call.
+> **[0:27](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=27)** So since it's such a boost to the [[User Experience (UX)|user experience]], I'm of the opinion that any phone number that appears on your site ought to be clickable for those who want to click it and want to use it to make a phone call.
 >
 > **[0:39](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=39)** So how do we go about coding a phone number link?
 >
-> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=42)** So here in your next exercise file, this is links.html, located inside the begin folder, inside of folder 01-06, in your Exercise Files folder, down here on line number 19 you'll see Call me at, and there's a phone number.
+> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=42)** So here in your next exercise file, this is links.[[HTML]], located inside the begin folder, inside of folder 01-06, in your Exercise Files folder, down here on line number 19 you'll see Call me at, and there's a phone number.
 >
 > **[0:59](https://www.linkedin.com/learning/html-and-css-linking/linking-phone-numbers?u=76281980&t=59)** How do we go about making this clickable?
 >
@@ -769,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[User Experience (UX)|User experience]] (1), next (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **File Paths:** links.html (1)
@@ -777,8 +770,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking to email addresses and email messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980)
+#### [Linking to email addresses and email messages](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,7 +780,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=18)** The only downside is that spammers like to scrape these email addresses from websites.
 >
-> **[0:23](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=23)** Some people use JavaScript to help mix up the email address to avoid these spammers.
+> **[0:23](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=23)** Some people use [[JavaScript]] to help mix up the email address to avoid these spammers.
 >
 > **[0:29](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=29)** That's a little bit beyond for this course, but making an email link is super helpful.
 >
@@ -796,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=37)** So let's go through how to write one of these.
 >
-> **[0:40](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=40)** So inside of your Exercise Files folder, so you'll find links dot HTML in the Begin folder in zero one dash zero seven.
+> **[0:40](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=40)** So inside of your Exercise Files folder, so you'll find links dot [[HTML]] in the Begin folder in zero one dash zero seven.
 >
 > **[0:50](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=50)** Go ahead and open that up and look at line 20 where I said, "Or send me an email."
 >
@@ -820,7 +812,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=109)** Click that link, and this is going to pull open your default email.
 >
-> **[1:54](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=114)** In my case, I used Gmail, and you can see here that this has started for me a new message going to info at two trees olive oil, and I can fill in the rest of the message from there.
+> **[1:54](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=114)** In my case, I used Gmail, and you can see here that this has started for me a new message going to info at two trees olive oil, and I can fill in the [[Representational State Transfer (REST)|rest]] of the message from there.
 >
 > **[2:05](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=125)** But that's not all there is to making an email link.
 >
@@ -832,7 +824,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=147)** So simply put a question mark after the email address and then put in subject equals olive oil quote, for example.
 >
-> **[2:41](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=161)** And if you save that one more time, go back to your web browser, refresh, click the email link again, this will open up, again, another tab in Google, and another message.
+> **[2:41](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=161)** And if you save that one more time, go back to your web browser, refresh, click the email link again, this will open up, again, another tab in [[Google]], and another message.
 >
 > **[2:55](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=175)** This time you see now it's going to info at two trees olive oil dot com, and the words olive oil quote are already pre-configured.
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=210)** Let me wrap that for you so you can see what's going on.
 >
-> **[3:35](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=215)** So see how this is all like one giant word with very few spaces, only spaces in the subject here.
+> **[3:35](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=215)** So see how this is all like one giant [[Microsoft Word|word]] with very few spaces, only spaces in the subject here.
 >
 > **[3:42](https://www.linkedin.com/learning/html-and-css-linking/linking-to-email-addresses-and-email-messages?u=76281980&t=222)** We've got question marks.
 >
@@ -878,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2), [[Google]] (2), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[JavaScript]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (2), as you saw (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), just like (1)
@@ -887,8 +879,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Using images as links
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980)
+#### [Using images as links](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=4)** If you're going to make an image into a link, you should also include where that link goes in your alt tag for accessibility purposes.
 >
-> **[0:13](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=13)** So I'm looking at my links.html document, it's inside of the begin folder inside of 01-08 in your EXERCISE FILES.
+> **[0:13](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=13)** So I'm looking at my links.[[HTML]] document, it's inside of the begin folder inside of 01-08 in your EXERCISE FILES.
 >
 > **[0:22](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=22)** And if you scroll down to line number 25, you'll see here that I have an img tag.
 >
@@ -950,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** exercise (1), files (1), url (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -959,14 +950,13 @@ created: 2026-05-02
 > **URLs:** [https://www.twotreesoliveoil.com](https://www.twotreesoliveoil.com) (1)
 > **Exercise Files:** exercise files (1)
 
-#### Including several links within an image using image maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980)
+#### [Including several links within an image using image maps](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=0)** - [Instructor] Next topic I want to look at, has to do with something called an image map, and the best way to describe this is just to show you what one looks like.
 >
-> **[0:09](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=9)** This is the Basic Link Page that we've been working with so far, and this is in the beginning state it's inside your exercise files folder inside a folder 01-09, inside of the begin folder, open up links.html and you should see this page.
+> **[0:09](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=9)** This is the Basic Link Page that we've been working with so far, and this is in the beginning state it's inside your exercise files folder inside a folder 01-09, inside of the begin folder, open up links.[[HTML]] and you should see this page.
 >
 > **[0:27](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=27)** And you'll see that, what I've posted here is a map of Southern New England.
 >
@@ -1002,7 +992,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=148)** So for the state of Connecticut, it happens to be that their website is located at portal.[ct.gov](https://ct.gov), I'm just going to highlight that text and copy it, paste that on in here it may ask us for a title, this will be the state of Connecticut's website.
 >
-> **[2:49](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=169)** And then you can assign a target like target equals blank, or target equals parent, whatever you want to do since we seem to be opening our external links in new windows or new tabs, I'm going to choose blank for this one.
+> **[2:49](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=169)** And then you can assign a target like target equals blank, or target equals parent, whatever you want to do since we seem to be opening our external links in new [[Windows]] or new tabs, I'm going to choose blank for this one.
 >
 > **[3:03](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=183)** And so now that I've configured that, now I can come into the state of Connecticut I'm going to click once to set this point kind of in the upper left-hand corner of Connecticut, and then I'm going to go down to the lower right-hand corner of Connecticut and it's going to draw me a nice little rectangle.
 >
@@ -1046,7 +1036,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=397)** And if you notice what's happening here is that the use map attribute is one that will connect the image map that's located here with the image on which to display that map.
 >
-> **[6:50](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=410)** And the map itself, if I turn on my word wrapping here so the state of Connecticut, that one is the one that's the rectangle you'll see here it just has four coordinates calling out the various corners of the state of Connecticut, and the shape is a rectangle.
+> **[6:50](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=410)** And the map itself, if I turn on my [[Microsoft Word|word]] wrapping here so the state of Connecticut, that one is the one that's the rectangle you'll see here it just has four coordinates calling out the various corners of the state of Connecticut, and the shape is a rectangle.
 >
 > **[7:06](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=426)** But then Rhode Island and Massachusetts, which have the polygon shape, they have a bunch of numbers here, and that is the clickable area for where they are.
 >
@@ -1058,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (2), web (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **URLs:** [mass.gov](https://mass.gov) (3), [image-map.net](https://image-map.net) (2), [ct.gov](https://ct.gov) (1), [ri.gov](https://ri.gov) (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Analogies:** kind of like (3), for example (1)
@@ -1067,8 +1057,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Exercise Files:** exercise files (2)
 
-#### Links in the <head> of the document
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980)
+#### [Links in the <head> of the document](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980&t=8)** This is a website for the Topsy Turvy cake design.
 >
-> **[0:11](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980&t=11)** And I originally built this website as part of the course, Learning Foundation Six, and then I used that website in a course called, HTML Metadata in the Head, and that is where we were focused on the head of the document and all of the millions of tags you can have in the head of your document.
+> **[0:11](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980&t=11)** And I originally built this website as part of the course, Learning Foundation Six, and then I used that website in a course called, [[HTML]] [[Metadata]] in the Head, and that is where we were focused on the head of the document and all of the millions of tags you can have in the head of your document.
 >
 > **[0:30](https://www.linkedin.com/learning/html-and-css-linking/2402958?u=76281980&t=30)** And what I'd like to use it for in this course is to once again, look at all of the kinds of links that we have here in the head of the document, and talk about them briefly.
 >
@@ -1124,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[HTML]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Metadata]] (1)
 > **Code Identifiers:** ios (1), ipad (1), iphone (1)
 > **Tools:** vs code (2), firefox (1)
 > **Definitions:** is a  (2)
@@ -1138,14 +1127,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Styling links and link states
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
+#### [Styling links and link states](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=0)** - [Instructor] In this second chapter of the course, I am moving into CodePen as my development environment rather than sticking with VS Code.
+> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=0)** - [Instructor] In this second chapter of the course, I am moving into [[CodePen]] as my development environment rather than sticking with VS Code.
 >
-> **[0:08](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=8)** The reason why is I really like CodePen for teaching because you can see the HTML and the CSS at the same time as well as seeing what the page looks like, which of course is incredibly helpful when working with CSS.
+> **[0:08](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=8)** The reason why is I really like CodePen for teaching because you can see the [[HTML]] and the CSS at the same time as well as seeing what the page looks like, which of course is incredibly helpful when working with CSS.
 >
 > **[0:22](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=22)** Inside of your exercise files folder for chapter 2, you will find a link that will take you to this page.
 >
@@ -1155,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=49)** On this page, I have links to two different websites.
 >
-> **[0:53](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=53)** LinkedIn, which I'm pretty sure you've visited before, like me and Harvard University, which you might not have visited.
+> **[0:53](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=53)** [[LinkedIn]], which I'm pretty sure you've visited before, like me and Harvard University, which you might not have visited.
 >
 > **[1:01](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980&t=61)** You might notice that there's different colors for these links.
 >
@@ -1267,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (2), css (2), [[LinkedIn]] (2), web (2)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (2), [[LinkedIn]] (2)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1276,18 +1264,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making exceptions to link styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980)
+#### [Making exceptions to link styling](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=0)** - [Instructor] In our last video, we styled all of the possible states for our links individually, as a group.
 >
-> **[0:06](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=6)** Now, maybe we want to style the Harvard link slightly differently than the LinkedIn link.
+> **[0:06](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=6)** Now, maybe we want to style the Harvard link slightly differently than the [[LinkedIn]] link.
 >
 > **[0:12](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=12)** There's a lot of possibilities for selectors to write this, but let's do what most people would do, most commonly, which is to add a class to the link, and then style accordingly.
 >
-> **[0:24](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=24)** So here inside of the HTML, I'm going to click inside of the tag here on line three, and I'm going to add a class of Harvard, because what else would we do?
+> **[0:24](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=24)** So here inside of the [[HTML]], I'm going to click inside of the tag here on line three, and I'm going to add a class of Harvard, because what else would we do?
 >
 > **[0:37](https://www.linkedin.com/learning/html-and-css-linking/making-exceptions-to-link-styling?u=76281980&t=37)** And then down here inside of my CSS these are generic styles for all of the links on the page.
 >
@@ -1337,20 +1324,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), [[LinkedIn]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[HTML]] (1)
 > **Definitions:** in other words (2), means that (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling a text link to look like a button
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980)
+#### [Styling a text link to look like a button](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=0)** - [Instructor] Buttons have a very semantic meaning associated with them.
 >
-> **[0:04](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=4)** And by default, buttons are programmed essentially to work inside of forms.
+> **[0:04](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=4)** And by default, buttons are programmed essentially to work inside of [[Forms]].
 >
 > **[0:09](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=9)** You have a form tag, there's a button inside of it.
 >
@@ -1362,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=20)** With HTML5, we got a button tag itself as opposed to an input, which is what buttons were before.
 >
-> **[0:27](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=27)** And buttons are now able to live outside of an HTML form tag, just like this button does right here.
+> **[0:27](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=27)** And buttons are now able to live outside of an [[HTML]] form tag, just like this button does right here.
 >
 > **[0:36](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=36)** But this button does absolutely nothing.
 >
@@ -1370,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=41)** It will do absolutely nothing.
 >
-> **[0:43](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=43)** We have to associate JavaScript with this button in order to make it do something whatever that something happens to be.
+> **[0:43](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=43)** We have to associate [[JavaScript]] with this button in order to make it do something whatever that something happens to be.
 >
 > **[0:50](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=50)** Now, often people want the look of a button but they want the functionality of a link.
 >
@@ -1382,7 +1368,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=81)** So that's what I'd like to do now.
 >
-> **[1:22](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=82)** I'm going to take this subscribe to LinkedIn Learning and let us make it look like a button.
+> **[1:22](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=82)** I'm going to take this subscribe to [[LinkedIn]] Learning and let us make it look like a button.
 >
 > **[1:29](https://www.linkedin.com/learning/html-and-css-linking/styling-a-text-link-to-look-like-a-button?u=76281980&t=89)** So I'm going to start by setting this up with the a tag and I'm using generic styles here because I have nothing else on my page.
 >
@@ -1460,7 +1446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Forms]] (1), css (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Forms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (12)
 > **Env Vars:** html (3), html5 (1), css (1), rem (1)
 > **UI Navigation:** click on (2), select the (1)
@@ -1469,12 +1455,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding proper navigation markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980)
+#### [Understanding proper navigation markup](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=0)** - [Instructor] I've really been shocked looking at HTML for navbars around the web these days.
+> **[0:00](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=0)** - [Instructor] I've really been shocked looking at [[HTML]] for navbars around the web these days.
 >
 > **[0:07](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=7)** If you're interested in semantic HTML mark up, the navbar is the easiest thing in the world because every navbar you will ever make from now on is going to have exactly the same mark up.
 >
@@ -1492,7 +1477,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=48)** It should have a nav tag around it.
 >
-> **[0:50](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=50)** So let's walk through exactly what the proper mark up for every navbar that you will ever write for the rest of your life looks like in detail.
+> **[0:50](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=50)** So let's walk through exactly what the proper mark up for every navbar that you will ever write for the [[Representational State Transfer (REST)|rest]] of your life looks like in detail.
 >
 > **[1:00](https://www.linkedin.com/learning/html-and-css-linking/understanding-proper-navigation-markup?u=76281980&t=60)** So here I am in my code pan.
 >
@@ -1566,14 +1551,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a simple vertical navigation bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980)
+#### [Creating a simple vertical navigation bar](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1589,7 +1573,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=40)** But, for now, in this course, I'm going to keep it brief, let's do just one vertical and one horizontal, that'll be the next video.
 >
-> **[0:47](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=47)** So, let's start, remembering that every HTML element is a box that you can leverage in creating a nav bar, and remembering exactly which box you're at and how large those boxes are and how much area they take up are really key to styling a good nav bar.
+> **[0:47](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=47)** So, let's start, remembering that every [[HTML]] element is a box that you can leverage in creating a nav bar, and remembering exactly which box you're at and how large those boxes are and how much area they take up are really key to styling a good nav bar.
 >
 > **[1:06](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=66)** So, let's just start by saying our body for this web page is going to have a margin of zero and a padding of zero, and the reason we do this is, this is going to get rid of that little white margin that goes around the edge of your web page.
 >
@@ -1623,7 +1607,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=191)** So remember that the a tag is an inline element, meaning that it's only as wide as its content.
 >
-> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=197)** So you see here that our clickable area is limited to the word.
+> **[3:17](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=197)** So you see here that our clickable area is limited to the [[Microsoft Word|word]].
 >
 > **[3:23](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-vertical-navigation-bar?u=76281980&t=203)** That's not a big deal if you're on a desktop computer using a mouse, but if you're using your finger on a mobile device, this reduces the size of the clickable area, we need to be a little bit more mindful of that.
 >
@@ -1667,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (3), web (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (3)
 > **Cross-References:** in the next (2), next video (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1676,8 +1660,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a simple horizontal navigation bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980)
+#### [Creating a simple horizontal navigation bar](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1686,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980&t=58)** And if you want, you can throw on a border on the bottom of one pixel solid gray.
 >
-> **[1:09](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980&t=69)** So that will give you a nice sharp line between your navigation bar and the rest of your page.
+> **[1:09](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980&t=69)** So that will give you a nice sharp line between your navigation bar and the [[Representational State Transfer (REST)|rest]] of your page.
 >
 > **[1:16](https://www.linkedin.com/learning/html-and-css-linking/creating-a-simple-horizontal-navigation-bar?u=76281980&t=76)** It's a nice effect.
 >
@@ -1801,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), css (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** css (2), efac2f (2), rem (1), loi (1)
 > **Definitions:** is a  (2)
@@ -1815,8 +1798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking sites for link rot and broken links
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
+#### [Checking sites for link rot and broken links](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1870,7 +1852,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=148)** So I am doing a check of the Harvard website at [harvard.edu](https://harvard.edu).
 >
-> **[2:33](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=153)** I tried going to LinkedIn and running a check with it.
+> **[2:33](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=153)** I tried going to [[LinkedIn]] and running a check with it.
 >
 > **[2:37](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=157)** However, it has some settings that do not permit a link checker robot to take a look at it.
 >
@@ -1964,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** w3c (2), url (2), http (1), https (1)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **CLI Commands:** find (2), make (2)
@@ -1973,8 +1955,7 @@ created: 2026-05-02
 > **Documentation:** w3c (2)
 > **Versions:** 108.82 (1)
 
-#### Redirecting links within a webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980)
+#### [Redirecting links within a webpage](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=39)** The second option is more useful to us here.
 >
-> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=42)** And I talk more about the meta redirect tag as well as other meta-tags and link tags, in my course, [[HTML- Metadata in the Head]].
+> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=42)** And I talk more about the meta redirect tag as well as other meta-tags and link tags, in my course, [[[[HTML]]- [[Metadata]] in the Head]].
 >
 > **[0:51](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=51)** I say that this is not necessarily the best way to do this because you have to create these individual pages, you have to code them with the meta refresh.
 >
@@ -2000,7 +1981,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=70)** But this methodology can be helpful if you have no other way of accessing your server in particular, to use some of the other link redirection methods, that I'll show you in some of these later videos.
 >
-> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=84)** So let's say we're going to work here on my links page, and I'm going to redirect this from here to the LinkedIn website.
+> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=84)** So let's say we're going to work here on my links page, and I'm going to redirect this from here to the [[LinkedIn]] website.
 >
 > **[1:32](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=92)** And so this is links.HTML, inside of folder 0302 in the exercise files folder.
 >
@@ -2046,7 +2027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[HTML]] (3), web (2), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[HTML]] (3), [[Metadata]] (1)
 > **Env Vars:** html (3), url (2), http (1)
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** links.html (1)
@@ -2055,8 +2036,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Redirecting links on the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980)
+#### [Redirecting links on the server](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,13 +2052,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=45)** In any case the goal is to redirect the old URL to the new URL, this can be done on a page by page basis, or it can be done on mass with a type of code called a regular expression.
 >
-> **[0:59](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=59)** Redirects may be configured in the .htaccess file of the website or in the server configuration files.
+> **[0:59](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=59)** Redirects may be configured in the .htaccess file of the website or in the [[Server Configuration]] files.
 >
-> **[1:06](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=66)** If you're working in a content management system like WordPress or Joomla, you may find redirect features inside of that CMS that will write this file for you.
+> **[1:06](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=66)** If you're working in a [[Content Management]] system like [[WordPress]] or Joomla, you may find redirect features inside of that CMS that will write this file for you.
 >
 > **[1:16](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=76)** If you do wind up writing redirects, there are tools online that can help, let me show you one of those.
 >
-> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=84)** When it comes time to write your htaccess file the easiest thing to do is just to Google for it and find some sort of help for writing these htaccess files.
+> **[1:24](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=84)** When it comes time to write your htaccess file the easiest thing to do is just to [[Google]] for it and find some sort of help for writing these htaccess files.
 >
 > **[1:34](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=94)** They tend to be kind a geeky in nature there's a lot of details that are easy to forget and they can be kind of hard to debug.
 >
@@ -2090,7 +2070,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=132)** Let's click on redirect page to page, and if you scroll on down here, it's going to ask you to enter the old page to your new page.
 >
-> **[2:22](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=142)** I just redesigned my website so let's say that I am going from about .PHP.
+> **[2:22](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=142)** I just redesigned my website so let's say that I am going from about .[[PHP]].
 >
 > **[2:29](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-on-the-server?u=76281980&t=149)** Okay So you start with the slash about .PHP, just like that.
 >
@@ -2116,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Google]] (2), [[PHP]] (2), [[Server Configuration]] (1), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[PHP]] (2), [[Server Configuration]] (1), [[Content Management]] (1), [[WordPress]] (1)
 > **Env Vars:** url (4), php (2), cms (1), https (1), www (1)
 > **CLI Commands:** find (5), php (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2125,14 +2105,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Content delivery networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980)
+#### [Content delivery networks](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980&t=0)** - [Instructor] Certain resources on your website tend to be used over and over.
 >
-> **[0:05](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980&t=5)** These include videos, images, JavaScript files, and more.
+> **[0:05](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980&t=5)** These include videos, images, [[JavaScript]] files, and more.
 >
 > **[0:09](https://www.linkedin.com/learning/html-and-css-linking/content-delivery-networks?u=76281980&t=9)** The larger those resources are, the longer they take to download and use.
 >
@@ -2174,13 +2153,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), traffic (2), css (2), web (1), business (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Env Vars:** cdn (4), css (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling which links search engines follow
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980)
+#### [Controlling which links search engines follow](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2166,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=7)** There's nothing special that you need to do to make this happen.
 >
-> **[0:10](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=10)** It will eventually happen if you wait for a while and you can read the latest instructions for Google and other search engines to speed up this process.
+> **[0:10](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=10)** It will eventually happen if you wait for a while and you can read the latest instructions for [[Google]] and other search engines to speed up this process.
 >
 > **[0:22](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=22)** However, occasionally you may want to prevent search engines from visiting all or part of your website.
 >
@@ -2246,7 +2224,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=234)** Are you trying to prevent specific crawlers from visiting your website?
 >
-> **[4:00](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=240)** Earlier in the course, for example, I mentioned that the W3C Link Checker was not able to crawl the LinkedIn website.
+> **[4:00](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=240)** Earlier in the course, for example, I mentioned that the W3C Link Checker was not able to crawl the [[LinkedIn]] website.
 >
 > **[4:09](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=249)** It may have in its robots.txt file a specific exclusion for that particular link checker and it would be done using this type of code here.
 >
@@ -2262,13 +2240,13 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=310)** It's very, very annoying.
 >
-> **[5:11](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=311)** So services like Wix and Blogger and Drupal and many others will give you an interface for blocking webpages from visitation, rather than having to work with this type of file and this type of code.
+> **[5:11](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=311)** So services like Wix and Blogger and [[Drupal]] and many others will give you an interface for blocking webpages from visitation, rather than having to work with this type of file and this type of code.
 >
 > **[5:24](https://www.linkedin.com/learning/html-and-css-linking/controlling-which-links-search-engines-follow?u=76281980&t=324)** Before you dive into making these edits to your robots.txt file, you may want to check your application to see if there's an easier method of managing what pages are viewable by search engines first.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), [[Google]] (8), web (1), [[LinkedIn]] (1), [[Drupal]] (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[LinkedIn]] (1), [[Drupal]] (1)
 > **File Paths:** robots.txt (11), sitemap.xml (1)
 > **Definitions:** is a  (3), in other words (3)
 > **CLI Commands:** make (2), find (2)
@@ -2282,8 +2260,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2291,13 +2268,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=1)** It's Jen Kramer.
 >
-> **[0:02](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=2)** Thank you so much for watching my course on HTML and CSS and Links.
+> **[0:02](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=2)** Thank you so much for watching my course on [[HTML]] and CSS and Links.
 >
 > **[0:08](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=8)** I hope you learned something new along the way.
 >
 > **[0:10](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=10)** If you're interested in learning more with me, there's a bunch of other courses here in the library that might be of interest to you.
 >
-> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=16)** First of all, [[HTML- Metadata in the Head]] talks a great deal about the meta refresh tag that I discussed in the course as well as some of the Link tags that I talked about as well.
+> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=16)** First of all, [[HTML- [[Metadata]] in the Head]] talks a great deal about the meta refresh tag that I discussed in the course as well as some of the Link tags that I talked about as well.
 >
 > **[0:27](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=27)** And you can learn more details here.
 >
@@ -2317,7 +2294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Metadata]] (1)
 > **Env Vars:** html (5), css (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** we covered (1)

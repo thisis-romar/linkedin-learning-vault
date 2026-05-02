@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The opportunity of digital disruption
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
+#### [The opportunity of digital disruption](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,27 +77,26 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=19)** Too late to pivot, they were bankrupt by 2012.
 >
-> **[0:24](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=24)** - Digital disruption is underway in every industry from banking to education to retail.
+> **[0:24](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=24)** - Digital disruption is underway in every industry from [[Banking]] to education to retail.
 >
 > **[0:30](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=30)** - Hi, I'm Anil Gupta, Michael Dingman Chair and Professor of Strategy and Globalization at the Smith School of Business at the University of Maryland at College Park.
 >
 > **[0:41](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=41)** - And I'm Haiyan Wang, Managing Partner of the China India Institute.
 >
-> **[0:45](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=45)** - Join us at LinkedIn Learning where we will encourage you to look at digital disruption as a gift, rather than as a problem.
+> **[0:45](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=45)** - Join us at [[LinkedIn]] Learning where we will encourage you to look at digital disruption as a gift, rather than as a problem.
 >
 > **[0:53](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=53)** - [Haiyan] We'll provide road maps and case studies to show you how to transform your core business with digital strategy.
 >
-> **[1:01](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=61)** - We will examine how to harness artificial intelligence, digitize your products and services, as well as all elements of the value chain.
+> **[1:01](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=61)** - We will examine how to harness [[Artificial Intelligence (AI)|artificial intelligence]], digitize your [[Microsoft Products|products]] and services, as well as all elements of the value chain.
 >
 > **[1:10](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980&t=70)** - Join us on this exciting journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Banking]] (1), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - join (2), - no (1), - eastman (1), - digital (1), - hi (1)
 
-#### Beware the “digital lipstick” syndrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980)
+#### [Beware the “digital lipstick” syndrome](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,9 +112,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=52)** Within a decade however, it will look completely different.
 >
-> **[0:58](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=58)** The disruptors, Tesla, Waymo, Google's sister unit, and Woober are all digital natives leading the charge with electric batteries, autonomous driving, and ride sharing.
+> **[0:58](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=58)** The disruptors, Tesla, Waymo, [[Google]]'s sister unit, and Woober are all digital natives leading the charge with electric batteries, autonomous driving, and ride sharing.
 >
-> **[1:15](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=75)** Similar disruption is underway in every industry, from banking to education to retail.
+> **[1:15](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=75)** Similar disruption is underway in every industry, from [[Banking]] to education to retail.
 >
 > **[1:23](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=83)** The disruption is profound in two ways.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=160)** Or, a bank that starts to use data analytics a bit more than it did historically.
 >
-> **[2:47](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=167)** Or, a manufacturer that starts to use cloud services rather than its own servers.
+> **[2:47](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=167)** Or, a manufacturer that starts to use [[Cloud Services]] rather than its own servers.
 >
 > **[2:53](https://www.linkedin.com/learning/digital-strategy/beware-the-digital-lipstick-syndrome?u=76281980&t=173)** Putting on a digital lipstick is easy to do for both you and your competitors.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (1), [[Google]] (1), [[Banking]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Banking]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -169,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rethinking strategy in the digital era
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
+#### [Rethinking strategy in the digital era](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980&t=156)** Greater shopping convenience, as the customer can shop at any time.
 >
-> **[2:41](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980&t=161)** An overwhelmingly larger mix of products to browse and choose from.
+> **[2:41](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980&t=161)** An overwhelmingly larger mix of [[Microsoft Products|products]] to browse and choose from.
 >
 > **[2:46](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980&t=166)** Lower prices, and greater logistics convenience, since the goods are delivered right to his or her door.
 >
@@ -242,12 +239,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (8), data (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - business (1)
 
-#### Think of digital disruption as a gift
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/think-of-digital-disruption-as-a-gift?u=76281980)
+#### [Think of digital disruption as a gift](https://www.linkedin.com/learning/digital-strategy/think-of-digital-disruption-as-a-gift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,12 +305,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (2), leadership (1), feature (1)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - companies (1)
 
-#### Start with customer obsession
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980)
+#### [Start with customer obsession](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +330,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=78)** New entrants face lower entry barriers and have no baggage of past business models.
 >
-> **[1:25](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=85)** On the other side, social media enables consumers to learn about new trends, products, and brands at hurricane's pace.
+> **[1:25](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=85)** On the other side, social media enables consumers to learn about new trends, [[Microsoft Products|products]], and brands at hurricane's pace.
 >
 > **[1:36](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=96)** Given these trends, customer centricity, indeed customer obsession, is becoming even more of an imperative.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=120)** Technology is making extreme alignment easier by the day.
 >
-> **[2:06](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=126)** New approaches to market research can reveal emerging micro trends by observing consumers' real behavior and scraping social media feeds.
+> **[2:06](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=126)** New approaches to [[Market Research]] can reveal emerging micro trends by observing consumers' real behavior and scraping social media feeds.
 >
 > **[2:17](https://www.linkedin.com/learning/digital-strategy/start-with-customer-obsession?u=76281980&t=137)** Online tools can enable each user to design the product to his or her unique tastes.
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), data (1), business (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Market Research]] (1)
 > **Analogies:** such as (1), analogous to (1), imagine (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
@@ -397,8 +391,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building purely digital products and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
+#### [Building purely digital products and services](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=63)** The takeaway?
 >
-> **[1:05](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=65)** We consume dozen of products and services everyday, personally and professionally.
+> **[1:05](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=65)** We consume dozen of [[Microsoft Products|products]] and services everyday, personally and professionally.
 >
 > **[1:12](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=72)** Very few, if any, would deserve a rating of nine to 10 on a one to 10 scale.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=198)** So much so that his little sister could use it to keep track of her high school papers.
 >
-> **[3:24](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=204)** Delighted users were only too willing to help spread the word virally.
+> **[3:24](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=204)** Delighted users were only too willing to help spread the [[Microsoft Word|word]] virally.
 >
 > **[3:31](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980&t=211)** Drew also knew that Dropbox could be copied easily.
 >
@@ -486,13 +479,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (2), [[Microsoft Products|Products]] (2), cloud (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mit (2), usb (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - dropbox (1)
 
-#### Digitizing existing products and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980)
+#### [Digitizing existing products and services](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=44)** Instead, focus on customer value.
 >
-> **[0:47](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=47)** Consider John Deere, the world's largest farm equipment company.
+> **[0:47](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=47)** Consider [[John the Ripper|John]] Deere, the world's largest farm equipment company.
 >
 > **[0:52](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=52)** In the early 2000s, Deere started incorporating GPS-guided self-steering into the machines.
 >
@@ -526,11 +518,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=77)** More recently, Deere has been attaching digital cameras inside combine harvesters.
 >
-> **[1:25](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=85)** Using machine learning, the computer vision system can analyze images of grain, and if they are being damaged, adjust the machine settings in real time.
+> **[1:25](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=85)** Using machine learning, the [[Computer Vision]] system can analyze images of grain, and if they are being damaged, adjust the machine settings in real time.
 >
 > **[1:36](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=96)** Benefit to the farmer, better yield.
 >
-> **[1:39](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=99)** Second, redesign the products and services by working backwards from consumer behavior.
+> **[1:39](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=99)** Second, redesign the [[Microsoft Products|products]] and services by working backwards from consumer behavior.
 >
 > **[1:47](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=107)** Every car company needs to provide navigation as well as audio services such as radio and music.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=175)** Both treat digitization as a never-ending journey.
 >
-> **[3:00](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=180)** The foundational technologies, AI, block chains, censors, quantum computing, 5G and others are evolving at a breakneck pace.
+> **[3:00](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=180)** The foundational technologies, AI, block chains, censors, [[Quantum Computing]], [[5G]] and others are evolving at a breakneck pace.
 >
 > **[3:10](https://www.linkedin.com/learning/digital-strategy/digitizing-existing-products-and-services?u=76281980&t=190)** New opportunities will keep emerging.
 >
@@ -580,14 +572,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (2), product (1), [[Microsoft Products|Products]] (1), ai (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Computer Vision]] (2), [[Microsoft Products|Products]] (1), [[Quantum Computing]] (1), [[5G]] (1)
 > **Env Vars:** gps (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - look (1)
 
-#### Digitizing your value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980)
+#### [Digitizing your value chain](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=70)** Thus, a two-space tube could be placed next to a board game and a kitchen blender.
 >
-> **[1:18](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=78)** Complete knowledge of what's where in which warehouse enables Amazon's algorithms to let a customer know right away when the goods ordered will be delivered to his or her door.
+> **[1:18](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=78)** Complete knowledge of what's where in which warehouse enables Amazon's [[Algorithms]] to let a customer know right away when the goods ordered will be delivered to his or her door.
 >
 > **[1:33](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=93)** Because of their demand-driven design, it's no wonder that Amazon prefers to call them fulfillment centers rather than warehouses.
 >
@@ -615,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=110)** What's true of Amazon's warehouses is starting to become true also of factory floors and retail operations.
 >
-> **[1:59](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=119)** Machines can figure out how to churn out customized components and products without being fed detailed instructions.
+> **[1:59](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=119)** Machines can figure out how to churn out customized components and [[Microsoft Products|products]] without being fed detailed instructions.
 >
 > **[2:09](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=129)** Fed with data on rejects at the end of production line using AI, the entire system can figure out fairly precisely where the root cause lies.
 >
@@ -639,17 +630,17 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=213)** Digitization is reshaping not just what happens inside a factory, a warehouse, or retail store but also how different companies in the supply chain collaborate.
 >
-> **[3:48](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=228)** A company such as P&G can combine real-time data from checkout scanners in a retail store with data on weather, income and unemployment levels, demographics, and other variables.
+> **[3:48](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=228)** A company such as P&G can combine [[Real-Time]] data from checkout scanners in a retail store with data on weather, income and unemployment levels, demographics, and other variables.
 >
 > **[4:04](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=244)** The result, far better understanding of the drivers of demand, variations in demand across locations, and better demand forecast.
 >
 > **[4:16](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=256)** Now, take your own company.
 >
-> **[4:19](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=259)** How might developments such as internet of things, 3D printing, robotics, and digital collaboration make your company's value chain more responsive as well as more efficient?
+> **[4:19](https://www.linkedin.com/learning/digital-strategy/digitizing-your-value-chain-2?u=76281980&t=259)** How might developments such as [[IoT|internet of things]], 3D printing, robotics, and digital collaboration make your company's value chain more responsive as well as more efficient?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), game (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - warehouses (1)
@@ -659,8 +650,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embracing the new era of ecosystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
+#### [Embracing the new era of ecosystems](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +700,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=183)** First, constantly assess how central you are in the network.
 >
-> **[3:08](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=188)** More central players such as Amazon, Apple, and Google are largely irreplaceable.
+> **[3:08](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=188)** More central players such as Amazon, Apple, and [[Google]] are largely irreplaceable.
 >
 > **[3:16](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=196)** However, non central players are much more vulnerable.
 >
@@ -736,7 +726,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=267)** It is partnering with Waymo, Google's sister company, for driverless car technology.
 >
-> **[4:34](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=274)** Like Intel and Microsoft and PCs there is a risk however that over time Waymo may end up siphoning most of the profits away from Ford.
+> **[4:34](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=274)** Like Intel and [[Microsoft]] and PCs there is a risk however that over time Waymo may end up siphoning most of the profits away from Ford.
 >
 > **[4:48](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980&t=288)** Analyze your own company.
 >
@@ -750,17 +740,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Search]] (1), product (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - 100 (1)
 
-#### Competing via or on platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980)
+#### [Competing via or on platforms](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=1)** - Airbnb, Uber, eBay, and Alibaba are well known examples of digital platforms in fields as diverse as lodging, transportation, and e-commerce.
+> **[0:01](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=1)** - Airbnb, Uber, eBay, and Alibaba are well known examples of digital platforms in fields as diverse as lodging, transportation, and [[E-Commerce]].
 >
 > **[0:13](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=13)** New platforms keep emerging, almost by the day.
 >
@@ -788,7 +777,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=104)** The iOS operating system on the iPhone is a closed platform since Apple does not license iOS to other companies.
 >
-> **[1:54](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=114)** In contrast, Android is an open platform since other companies can license it for free and even tweak it with Google's permission.
+> **[1:54](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=114)** In contrast, [[Android]] is an open platform since other companies can license it for free and even tweak it with [[Google]]'s permission.
 >
 > **[2:05](https://www.linkedin.com/learning/digital-strategy/competing-via-or-on-platforms?u=76281980&t=125)** Second, a platform's competitive advantage depends hugely on the strength of network effects.
 >
@@ -820,13 +809,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[E-Commerce]] (1), [[Android]] (1), [[Google]] (1), business (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Android]] (1), [[Google]] (1)
 > **Code Identifiers:** iphone (4), ios (2), ebay (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - airbnb (1)
 
-#### Harnessing the wisdom of crowds
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980)
+#### [Harnessing the wisdom of crowds](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +822,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=18)** For any maritime nation being able to pinpoint a ship's location at sea by knowing it's longtude was crucial for both economic and military supremacy.
 >
-> **[0:31](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=31)** The best solution came from John Harrison, a carpenter and clock maker with little formal education.
+> **[0:31](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=31)** The best solution came from [[John the Ripper|John]] Harrison, a carpenter and clock maker with little formal education.
 >
 > **[0:40](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=40)** As this historical event suggests novel solutions to complex problems often come not from the specialists within the field, but from those working in very different arenas.
 >
@@ -844,7 +832,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=77)** Examples include Wikipedia for reference manual on almost any topic.
 >
-> **[1:24](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=84)** The Linux operating system for computers, and the Netflix Prize in 2009, which helped the company substantially improve the accuracy of predictions about what movies a customer would enjoy.
+> **[1:24](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=84)** The [[Linux]] operating system for computers, and the Netflix Prize in 2009, which helped the company substantially improve the accuracy of predictions about what movies a customer would enjoy.
 >
 > **[1:41](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=101)** As these examples illustrate, the two major types of innovation crowdsourcing are contests and communities.
 >
@@ -864,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=167)** Three, consider if the contest should be designed as a multi-round event.
 >
-> **[2:53](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=173)** For example, Google's lunar X Prize aimed at privately funded teams to put a robotic spacecraft on the moon.
+> **[2:53](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=173)** For example, [[Google]]'s lunar X Prize aimed at privately funded teams to put a robotic spacecraft on the moon.
 >
 > **[3:03](https://www.linkedin.com/learning/digital-strategy/harnessing-the-wisdom-of-crowds?u=76281980&t=183)** First-round winners get a certain price, their solutions get shared with other winners and the contest moves on to the next round.
 >
@@ -896,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), power (2), [[Google]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[John the Ripper|John]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** refers to (1)
@@ -907,8 +895,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AI and where is it headed?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
+#### [What is AI and where is it headed?](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,11 +905,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=15)** Software programs are now starting to interpret some type of chest CT scans to detect lung cancer even better than board certified radiologists.
 >
-> **[0:27](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=27)** These software programs illustrate what we would call artificial intelligence, or AI.
+> **[0:27](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=27)** These software programs illustrate what we would call [[Artificial Intelligence (AI)|artificial intelligence]], or AI.
 >
-> **[0:34](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=34)** The term AI refers to software algorithms that can replicate, even if poorly, tasks that have historically required human intelligence.
+> **[0:34](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=34)** The term AI refers to software [[Algorithms]] that can replicate, even if poorly, tasks that have historically required human intelligence.
 >
-> **[0:46](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=46)** AI can exist in the form of a pure software program, for example, cancer detection systems, or a combination of hardware plus software, for example, drones.
+> **[0:46](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=46)** AI can exist in the form of a pure software program, for example, cancer detection systems, or a combination of [[Hardware]] plus software, for example, drones.
 >
 > **[0:59](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980&t=59)** AI applications are now becoming embedded in almost all our specs of economic, social and personal life.
 >
@@ -1004,19 +991,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (6), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (4)
 > **Env Vars:** ibm (1), agi (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - radiologists (1)
 
-#### Harnessing AI for competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980)
+#### [Harnessing AI for competitive advantage](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=1)** - Artificial intelligence algorithms learn from data.
+> **[0:01](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=1)** - [[Artificial Intelligence (AI)|Artificial intelligence]] [[Algorithms]] learn from data.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=5)** So, if you have data, you also have an opportunity to train and deploy AI to improve the quality of decisions.
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=150)** Historical accuracy of human decisions has been low.
 >
-> **[2:35](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=155)** For example, trying to predict fashion trends or what new food products will become a hit.
+> **[2:35](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=155)** For example, trying to predict fashion trends or what new food [[Microsoft Products|products]] will become a hit.
 >
 > **[2:44](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=164)** Because they can be trained on large, unstructured, and rapidly changing datasets, AI algorithms can make significantly better predictions in these situations.
 >
@@ -1082,7 +1068,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=249)** Finally, become obsessive about collecting data on almost everything.
 >
-> **[4:16](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=256)** It is obsession with data that has made Google smarter, not just at serving customers, for example, better search results, more relevant YouTube videos, but also at working with partners, such as advertisers and app developers, as well as managing inside.
+> **[4:16](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=256)** It is obsession with data that has made [[Google]] smarter, not just at serving customers, for example, better search results, more relevant YouTube videos, but also at working with partners, such as advertisers and app developers, as well as managing inside.
 >
 > **[4:38](https://www.linkedin.com/learning/digital-strategy/harnessing-ai-for-competitive-advantage?u=76281980&t=278)** For example, predicting with greater accuracy which software engineers are at higher risk of leaving the company.
 >
@@ -1094,20 +1080,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (11), [[Algorithms]] (4), business (3), power (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - artificial (1)
 
-#### Avoiding biases and other pitfalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980)
+#### [Avoiding biases and other pitfalls](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=1)** - Like all technologies, AI algorithms can also be misused or abused.
+> **[0:01](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=1)** - Like all technologies, AI [[Algorithms]] can also be misused or abused.
 >
-> **[0:07](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=7)** Foreign interference in the 2016 US elections is a well-documented case of abusing the power of artificial intelligence.
+> **[0:07](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=7)** Foreign interference in the 2016 US elections is a well-documented case of abusing the power of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:18](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=18)** There are at least three ways that well-meaning organizations can unintentionally misuse AI.
 >
@@ -1139,7 +1124,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=121)** Finally, conduct an audit of the algorithms before they are released for commercial use.
 >
-> **[2:09](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=129)** Second, because data is the raw material for training algorithms, it is easy for organizations to overlook the privacy rights of individuals.
+> **[2:09](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=129)** Second, because data is the raw material for training algorithms, it is easy for organizations to overlook the [[Privacy]] rights of individuals.
 >
 > **[2:22](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=142)** In one jurisdiction after another, California, the EU, India, governments are imposing tougher regulations to protect individuals' privacy rights and levying heavy fines on those who violate them.
 >
@@ -1151,7 +1136,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=189)** In certain contexts, such as meetings of the top management team or the board of directors, any attempt to do a video recording may damage the very dynamics of the discussions and prevent free and frank exchange of ideas.
 >
-> **[3:27](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=207)** As Cassie Kozyrkov, chief decision scientist at Google, has noted in an article for the Harvard Business Review, people can also suffer from the so-called Ikea effect.
+> **[3:27](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=207)** As Cassie Kozyrkov, chief decision scientist at [[Google]], has noted in an article for the Harvard Business Review, people can also suffer from the so-called Ikea effect.
 >
 > **[3:39](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=219)** Once people have put in a lot of effort to pull a database together, they may end up falling in love with it even if much of it is garbage.
 >
@@ -1161,7 +1146,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=264)** This is an important development as explainable AI would open the black box inside algorithms, thereby making it easier for users to make wiser choices about when to accept or reject them.
 >
-> **[4:40](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=280)** Explainable AI would also help human decision makers become smarter at their own decision-making processes.
+> **[4:40](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=280)** Explainable AI would also help human decision makers become smarter at their own [[Decision-Making]] processes.
 >
 > **[4:50](https://www.linkedin.com/learning/digital-strategy/avoiding-biases-and-other-pitfalls?u=76281980&t=290)** Take a look at your own organization.
 >
@@ -1173,7 +1158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (10), data (10), ai (9), [[Privacy]] (4), power (1)
+> **Frameworks & Libraries:** [[Algorithms]] (10), [[Privacy]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** open the (1)
@@ -1185,8 +1170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming an agile organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)
+#### [Becoming an agile organization](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1194,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=98)** The solution to these internal contradictions lies in relying on the following organizing principles.
 >
-> **[1:46](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=106)** First, decentralize decision-making authority closer to people who have the relevant information, insight and the ability to implement them.
+> **[1:46](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=106)** First, decentralize [[Decision-Making]] authority closer to people who have the relevant information, insight and the ability to implement them.
 >
 > **[1:59](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=119)** This would significantly increase the odds that the decisions are well-informed as well as made and implemented in a timely manner.
 >
@@ -1250,7 +1234,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=250)** Here are some questions to think about for your own organization.
 >
-> **[4:15](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=255)** On the one to 10 scale, how would you assess your organization on each of the five organizing principles of an agile organization that I just outlined?
+> **[4:15](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=255)** On the one to 10 scale, how would you assess your organization on each of the five organizing principles of an [[Agile Development|agile]] organization that I just outlined?
 >
 > **[4:28](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980&t=268)** Where are the biggest suboptimalities?
 >
@@ -1258,18 +1242,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Decision-Making]] (1), functional (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - given (1)
 
-#### The key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980)
+#### [The key takeaways](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=1)** - Today's digital technologies are like a hurricane that is disrupting the structure and dynamics of every industry, be it autos, banking, education, or retail.
+> **[0:01](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=1)** - Today's digital technologies are like a hurricane that is disrupting the structure and dynamics of every industry, be it autos, [[Banking]], education, or retail.
 >
 > **[0:14](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=14)** - Here are some of the key takeaways from this course on digital strategy.
 >
@@ -1281,7 +1264,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=32)** - Make customer obsession and growing customer value the most important guiding principle behind the development of your digital strategy.
 >
-> **[0:42](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=42)** - Look for opportunities to expand the digital content of your products and services, to build new, purely digital products and services, and to digitize every activity in your organization's value chain.
+> **[0:42](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=42)** - Look for opportunities to expand the digital content of your [[Microsoft Products|products]] and services, to build new, purely digital products and services, and to digitize every activity in your organization's value chain.
 >
 > **[0:58](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=58)** - Embrace the era of increasingly larger and more open ecosystems.
 >
@@ -1293,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=83)** Among all of the various digital technologies, AI is almost certainly the most powerful in terms of its ability to disrupt.
 >
-> **[1:34](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=94)** - Make the organization increasingly more agile.
+> **[1:34](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=94)** - Make the organization increasingly more [[Agile Development|agile]].
 >
 > **[1:38](https://www.linkedin.com/learning/digital-strategy/the-key-takeaways?u=76281980&t=98)** Move with speed while making mostly smart decisions.
 >
@@ -1307,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ai (2), [[Banking]] (1), power (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Banking]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - look (2), - make (2), - today (1), - here (1), - beware (1)
 > **CLI Commands:** make (3)
 

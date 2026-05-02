@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding how SQL injections work
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
+#### [Understanding how SQL injections work](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980&t=0)** - With the dominance of cloud and software as a service delivery web portals are now the dominant means of accessing applications and are often supported by a backend SQL server.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980&t=0)** - With the dominance of cloud and [[SaaS|software as a service]] delivery web portals are now the dominant means of accessing applications and are often supported by a backend [[Microsoft SQL Server|SQL server]].
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980&t=11)** With the prevalence of SQL, adversaries will look for every opportunity to take advantage of unprotected SQL based applications to gain access to our information and systems.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980&t=11)** With the prevalence of [[SQL]], adversaries will look for every opportunity to take advantage of unprotected SQL based applications to gain access to our information and systems.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980&t=21)** We need to protect our systems and that means understanding the basics of the SQL language and understanding how it can be used to penetrate our systems.
 >
@@ -100,47 +99,45 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), cloud (1), [[SaaS|Software as a service]] (1), web (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[SaaS|Software as a service]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (6)
 > **Speakers:** - with (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course and we'll be using Kali Linux-based tools to do testing, and we'll be using targets in the Offensive Security and Hack The Box online penetration testing labs.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course and we'll be using [[Kali Linux]]-based tools to do testing, and we'll be using targets in the Offensive Security and Hack The Box online [[Penetration Testing]] labs.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=12)** Where possible, I'll use the free subscription targets in these labs.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=16)** But some of the more complex targets will be in the main labs.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=19)** You should be competent in Windows and Unix host technologies.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=19)** You should be competent in [[Windows]] and Unix host technologies.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=23)** A good understanding of HTTP and the SQL language would be an advantage.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=23)** A good understanding of HTTP and the [[SQL]] language would be an advantage.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=28)** You'll need to have a good working knowledge of Kali and some hands-on experience of testing.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=34)** You should have a working knowledge of web testing tools, and you should have taken the Ethical Hacking: Web Servers and Applications course.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=34)** You should have a working knowledge of web testing tools, and you should have taken the [[Ethical Hacking]]: [[Web Servers]] and Applications course.
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-you-should-know?u=76281980&t=42)** And if you've taken the Advanced Web Testing course, that would be an advantage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Kali Linux]] (1), [[Security]] (1), [[Penetration Testing]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Penetration Testing]] (1), [[Windows]] (1), [[SQL]] (1), [[Ethical Hacking]] (1)
 > **Env Vars:** http (1), sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of advanced penetration testing courses.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of advanced [[Penetration Testing]] courses.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980&t=4)** And in addition to Kali Linux, it uses some third-party testing software.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980&t=4)** And in addition to [[Kali Linux]], it uses some third-party testing software.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-sql-injection/disclaimer?u=76281980&t=9)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these sites might not be compromised when you visit them.
 >
@@ -168,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
+#### [Starting with SQL](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=12)** There's still many of these applications around today in government and industry.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=16)** However, times moved on, and in the 1980s, a new form of data management emerged, called relational databases.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=16)** However, times moved on, and in the 1980s, a new form of [[Data Management]] emerged, called [[Relational Databases]].
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=23)** Relational databases consists of data held in records, as they were in ISAM, but designed in such a way as to have relational links between fields in one part of the database and key identification fields in another.
 >
@@ -191,11 +187,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=67)** There's a fair bit of theory around design of relational databases, but we won't be covering that in this course.
 >
-> **[1:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=73)** In order to understand SQL, we need to get hands-on.
+> **[1:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=73)** In order to understand [[SQL]], we need to get hands-on.
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=76)** So let's jump straight into it and start using SQL.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=80)** Carly comes with the MySQL server already loaded, so all we need to do is start it.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=80)** Carly comes with the [[MySQL]] server already loaded, so all we need to do is start it.
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=85)** We can do that by entering the command, service, MySQL, start, and we'll enter our root password.
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=111)** To be accurate Maria DB isn't MySQL, but it is a variant that's evolved from MySQL and for all intents and purposes they're the same.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=120)** We're in SQL now, so let's see what databases we can connect to.
+> **[2:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=120)** We're in SQL now, so let's see what [[Databases]] we can connect to.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980&t=124)** We use the show database command for that and terminate it with a semi-colon.
 >
@@ -251,19 +247,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (8), database (6), [[SQL]] (5), data (4), [[Relational Databases]] (3)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (5), [[Relational Databases]] (3), [[Databases]] (3), [[Data Management]] (1)
 > **Env Vars:** sql (5), isam (2), inodb (2), sys (2), cobol (1)
 > **CLI Commands:** mysql (8)
 > **Speakers:** - [instructor] (1), - u (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Creating a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/creating-a-mysql-database?u=76281980)
+#### [Creating a MySQL database](https://www.linkedin.com/learning/ethical-hacking-sql-injection/creating-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/creating-a-mysql-database?u=76281980&t=0)** - Let's now log into my SQL as our new user Marcus and create a database to use for this course.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/creating-a-mysql-database?u=76281980&t=0)** - Let's now log into my [[SQL]] as our new user Marcus and create a database to use for this course.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-sql-injection/creating-a-mysql-database?u=76281980&t=8)** My SQL minus you Marcus minus P and then to our password which is also Marcus.
 >
@@ -329,19 +324,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (3), data (3), power (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** int (5), sql (3)
 > **Definitions:** is an  (5), is a  (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - let (1)
 
-#### Using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980)
+#### [Using SQL](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=0)** - Now we've got our SQL database set up.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=0)** - Now we've got our [[SQL]] database set up.
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=2)** Let's see how we use it.
 >
@@ -375,7 +369,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=107)** I won't run these, but you can check them out yourself.
 >
-> **[1:49](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=109)** Another useful SQL command is the System command, which enables us to run Bash or Windows commands.
+> **[1:49](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=109)** Another useful SQL command is the System command, which enables us to run Bash or [[Windows]] commands.
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-sql?u=76281980&t=116)** For instance, we can do a folder listing by saying system LS minus AL, and we get the folder listing.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), database (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Windows]] (1)
 > **Env Vars:** sql (4)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** ls (1)
@@ -437,16 +431,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Finding the SQL password
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980)
+#### [Finding the SQL password](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=0)** - [Narrator] Before we get into SQL injection proper.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=0)** - [Narrator] Before we get into [[SQL]] injection proper.
 >
-> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=3)** Let's take a look at another way of accessing SQL databases.
+> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=3)** Let's take a look at another way of accessing SQL [[Databases]].
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=6)** If we have access to the service on port 3306, we can check that by running "nmap" on port 3306, and we can see it's open.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=6)** If we have access to the service on port 3306, we can check that by running "[[Nmap]]" on port 3306, and we can see it's open.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=16)** We'll use our local kali system on "127.0.0.1", but we could be doing the same attack on a remote server.
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=28)** We'll need a set of potential passwords, and we can use the standard kali "rockyou.txt".
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=34)** We'll use the hydro tool, to attempt to brute force our way in, "hydra,
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=34)** We'll use the hydro tool, to attempt to brute force our way in, "[[Hydra]],
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-sql-injection/finding-the-sql-password?u=76281980&t=41)** - l, Marcus,
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1), [[Nmap]] (1), [[Hydra]] (1)
 > **File Paths:** rockyou.txt (3), names.txt (2), catnames.txt (1)
 > **Env Vars:** sql (4)
 > **Ports:** port 3306 (3)
@@ -487,12 +480,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking out the Security Shepherd
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
+#### [Checking out the Security Shepherd](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=0)** - [Host] The OWASP folks have provided another training tool, which we can use for SQL injections.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=0)** - [Host] The [[OWASP]] folks have provided another training tool, which we can use for [[SQL]] injections.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=5)** It's the security shepherd, described on the website here.
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=35)** Okay.
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=37)** And I'll start burp suite.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=37)** And I'll start [[Burp Suite]].
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=41)** I'll switch off proxy interception, and I'll set the target scope to ten dot naught dot two dot nineteen.
 >
@@ -528,7 +520,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=120)** Now select the third one down, injections.
 >
-> **[2:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=125)** Let's run the first challenge, NoSQL injection one.
+> **[2:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=125)** Let's run the first challenge, [[NoSQL]] injection one.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980&t=131)** This is a Mongo DB NoSQL injection.
 >
@@ -598,37 +590,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Security]] (3), [[Burp Suite]] (2), [[NoSQL]] (2), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Burp Suite]] (2), [[NoSQL]] (2), [[OWASP]] (1)
 > **Env Vars:** sql (4), owasp (1), url (1)
 > **CLI Commands:** mongo (2), find (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [host] (1)
 
-#### Injecting Mutillidae
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980)
+#### [Injecting Mutillidae](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=0)** - [Instructor] Let's take a look at the Metasploitable server.
 >
-> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=3)** Before we get into SQL, we need to update the database details in Metasploitable.
+> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=3)** Before we get into [[SQL]], we need to update the database details in Metasploitable.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=8)** I've logged in and navigated to var/www/mutillidae and will sudo nano config.inc.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=16)** And I'll go down and change the database name from Metasploit to owasp10, and save that, and we're ready to start.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=16)** And I'll go down and change the database name from [[Metasploit]] to owasp10, and save that, and we're ready to start.
 >
-> **[0:31](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=31)** If we run an nmap against port 3306 on Metasploitable, nmap -PS -A 10.0.2.8 -p3306,
+> **[0:31](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=31)** If we run an [[Nmap]] against port 3306 on Metasploitable, nmap -PS -A 10.0.2.8 -p3306,
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=48)** we find it's open and running MySQL 5.0.51a.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=48)** we find it's open and running [[MySQL]] 5.0.51a.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=54)** The first thing we'll try to do now is access to the SQL server remotely with the default root account.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=54)** The first thing we'll try to do now is access to the [[Microsoft SQL Server|SQL server]] remotely with the default root account.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=61)** MySQL -h 10.0.2.8 -u root,
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=71)** and we get in.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=72)** We can now check the databases.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=72)** We can now check the [[Databases]].
 >
 > **[1:18](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=78)** Show databases.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=106)** Let's connect to Metasploitable and select Mutilidae.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=111)** And we can look at the OWASP top 10 injection extract data user information.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=111)** And we can look at the [[OWASP]] top 10 injection extract data user information.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=118)** We're presented with a login screen, and we can always try admin, admin, but that doesn't work.
 >
@@ -776,9 +767,9 @@ created: 2026-05-02
 >
 > **[10:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=617)** I've put the set of user password information into a file called dvpass.
 >
-> **[10:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=625)** Let's go crack them with John the Ripper.
+> **[10:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=625)** Let's go crack them with [[John the Ripper]].
 >
-> **[10:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=629)** john dvpass, and we'll tell John that the format is raw-MD5.
+> **[10:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=629)** [[John the Ripper|john]] dvpass, and we'll tell John that the format is raw-MD5.
 >
 > **[10:38](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-mutillidae?u=76281980&t=638)** Although John could work that out for himself.
 >
@@ -790,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[MySQL]] (5), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[John the Ripper|John]] (3), [[Nmap]] (2), [[Databases]] (2), [[John the Ripper]] (2)
 > **CLI Commands:** mysql (5), find (2), sudo (1)
 > **Env Vars:** sql (2), dvwa (2), owasp (1), md5 (1)
 > **Code Identifiers:** information_schema (3)
@@ -798,8 +789,7 @@ created: 2026-05-02
 > **Ports:** port 3306 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep diving the target with SQLi
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980)
+#### [Deep diving the target with SQLi](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980&t=109)** So the testing file has been created.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980&t=111)** This file can be script code, for example, a PHP file.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980&t=111)** This file can be script code, for example, a [[PHP]] file.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-sql-injection/deep-diving-the-target-with-sqli?u=76281980&t=115)** Of course we can't remotely execute PHP code from temp and we can't upload into a web folder from util. Now, what we really want is to be able to write executable strips into a remotely accessible web folder, which if we have a generally available upload folder, we may be able to do so.
 >
@@ -847,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), data (3), web (2)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **CLI Commands:** php (6), cat (2)
 > **Env Vars:** php (6)
 > **Ports:** port 2 (1)
@@ -855,12 +845,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Cracking the MySQL hash
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/cracking-the-mysql-hash?u=76281980)
+#### [Cracking the MySQL hash](https://www.linkedin.com/learning/ethical-hacking-sql-injection/cracking-the-mysql-hash?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/cracking-the-mysql-hash?u=76281980&t=0)** - Often our objective when doing an SQL injection is to obtain credentials.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/cracking-the-mysql-hash?u=76281980&t=0)** - Often our objective when doing an [[SQL]] injection is to obtain credentials.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/cracking-the-mysql-hash?u=76281980&t=5)** And just as often, the password is likely to be hashed.
 >
@@ -920,7 +909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6), nsm (1)
 > **CLI Commands:** cat (3), find (2)
 > **UI Navigation:** scroll down (1)
@@ -928,16 +917,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - often (1)
 
-#### Injecting Microsoft SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980)
+#### [Injecting Microsoft SQL Server](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=0)** - [Instructor] SQL server express comes as a free download for windows 10.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL server]] express comes as a free download for [[Windows 10]].
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=4)** I've got it installed on my windows 10 system, so let's go to the SQL server management studio.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=10)** I'll take the default, SQL express instance, which in my case is shuttle SQL express.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=10)** I'll take the default, [[SQL]] express instance, which in my case is shuttle SQL express.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=17)** And we now have access to the instance in the management console.
 >
@@ -949,7 +937,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=64)** Ignore the message about server agents and close the dialogue.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=67)** We can make a new database by right clicking databases and then entering the name Cleo.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=67)** We can make a new database by right clicking [[Databases]] and then entering the name Cleo.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=75)** New database, Cleo, okay.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=165)** I won't bother with keys so we can just click next and finish, and close.
 >
-> **[2:53](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=173)** Now we can use our windows command shell to execute transactional queries on the database.
+> **[2:53](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=173)** Now we can use our [[Windows]] command shell to execute transactional queries on the database.
 >
 > **[2:58](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-microsoft-sql-server?u=76281980&t=178)** We, the SQL command program to connect to the SQL instance.
 >
@@ -1041,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), express (5), database (5), [[Databases]] (5)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (5), [[Windows 10]] (2), [[Windows]] (1)
 > **Env Vars:** sql (12), sqlcmd (1), mssql (1), dmos (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), configure (2)
@@ -1049,14 +1037,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting Oracle SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980)
+#### [Injecting Oracle SQL Server](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=0)** - [Instructor] Another useful SQL system to look at is Oracle, and it too has a slightly different way of accessing database information.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=0)** - [Instructor] Another useful [[SQL]] system to look at is Oracle, and it too has a slightly different way of accessing database information.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=7)** Oracle XE is a free download for Windows and Linux and is available from the website shown here.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=7)** Oracle XE is a free download for [[Windows]] and [[Linux]] and is available from the website shown here.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=13)** I've already downloaded this, extracted the zip file and installed it.
 >
@@ -1066,7 +1053,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=27)** and we get the SQL prompt.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=29)** Oracle comes with a core database, and it also has the option for application-specific databases called pluggable containers.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=29)** Oracle comes with a core database, and it also has the option for application-specific [[Databases]] called pluggable containers.
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=37)** We can see the current database we're using by typing show con_name; which shows we're using the core database.
 >
@@ -1120,11 +1107,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=272)** where name='SYS'; and we get the entry for the sys.user where we see the 11G hash, shown with the S prefix, and the 12C hash, shown with the T prefix.
 >
-> **[4:48](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=288)** Oracle is a bit different to MySQL and SQL server, but it's still a target for SQL injections using similar techniques to those we've been looking at.
+> **[4:48](https://www.linkedin.com/learning/ethical-hacking-sql-injection/injecting-oracle-sql-server?u=76281980&t=288)** Oracle is a bit different to [[MySQL]] and [[Microsoft SQL Server|SQL server]], but it's still a target for SQL injections using similar techniques to those we've been looking at.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (4), [[Databases]] (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (2), [[Windows]] (1), [[Linux]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (5), sys (3), des (1), sha (1), concat (1)
 > **Code Identifiers:** table_name (2), con_name (1), all_tables (1), user_tables (1), password_versions (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1138,16 +1125,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inferring TRUE when blind
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
+#### [Inferring TRUE when blind](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=0)** - Sometimes we can try an SQL injection and all we see is an error message such as, username not known, and we have no idea whether the query ran or not.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=0)** - Sometimes we can try an [[SQL]] injection and all we see is an error message such as, username not known, and we have no idea whether the query ran or not.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=9)** It may have done, but we're blind as far as the results that came from it.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=13)** Let's see how we handle that using our MySQL user table.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=13)** Let's see how we handle that using our [[MySQL]] user table.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980&t=18)** Sudo, MySQL -U, root.
 >
@@ -1195,21 +1181,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[MySQL]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[MySQL]] (3)
 > **Env Vars:** sql (7)
 > **CLI Commands:** mysql (3), sudo (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - sometimes (1)
 
-#### Using prepared SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980)
+#### [Using prepared SQL queries](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=0)** - [Instructor] Let's think about how we might code SQL queries to understand the way in which we need to protect them.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=0)** - [Instructor] Let's think about how we might code [[SQL]] queries to understand the way in which we need to protect them.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=7)** We'll start with a simple Python program as shown here, nano sql1.py.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=7)** We'll start with a simple [[Python (Programming Language)|Python]] program as shown here, nano sql1.py.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=18)** All we do is open the SQL database, request the pharaoh ID, select the correct record, and then print the pharaoh's name, dynasty and tomb.
 >
@@ -1253,21 +1238,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), python3 (2), find (1), make (1)
 > **File Paths:** sql1.py (2), safesql1.py (2)
 > **Env Vars:** sql (4)
 > **UI Navigation:** open the (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting our first sqlmap injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980)
+#### [Getting our first sqlmap injection](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=0)** - One of the important pen testing tools for targets using SQL is SQL Map.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=0)** - One of the important pen testing tools for targets using [[SQL]] is SQL Map.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=5)** Let's take a look at how we approach the initial penetration of the Europa web server on the LinkedIn Learning Lab using SQL Map.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=5)** Let's take a look at how we approach the initial penetration of the Europa web server on the [[LinkedIn]] Learning Lab using SQL Map.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=13)** I've run an initial scan and we can see that it's ssh on port 22 on both http and https web services.
 >
@@ -1275,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=30)** Let's look at our end map scan again.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=32)** We can see the SSL certificate uses the subject name europacorp.htb with alternative names of www.europacorp.htb and admin-portal.europacorp.htb.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=32)** We can see the SSL certificate uses the subject name europacorp.[[HackTheBox|htb]] with alternative names of www.europacorp.htb and admin-portal.europacorp.htb.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=47)** Let's add admin-portal.europacorp.htb to our host file.
 >
@@ -1317,9 +1301,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=244)** Okay, we'll let SQL Map run to its natural conclusion and then come back and look at the results.
 >
-> **[4:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=250)** SQL Map hasn't found anything at this stage, but let's make it try harder by forcing it to focus on the mySQL database.
+> **[4:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=250)** SQL Map hasn't found anything at this stage, but let's make it try harder by forcing it to focus on the [[MySQL]] database.
 >
-> **[4:18](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=258)** We'll also give it the login PHP form directly.
+> **[4:18](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=258)** We'll also give it the login [[PHP]] form directly.
 >
 > **[4:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=265)** So login php and minus minus dbms=mysql.
 >
@@ -1327,7 +1311,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=279)** Okay, SQL Map is finished and we can now see that we've identified three ways to inject SQL.
 >
-> **[4:45](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=285)** Let's list out the databases.
+> **[4:45](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=285)** Let's list out the [[Databases]].
 >
 > **[4:48](https://www.linkedin.com/learning/ethical-hacking-sql-injection/getting-our-first-sqlmap-injection?u=76281980&t=288)** Minus minus dbs.
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (4), web (3), [[MySQL]] (2), database (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[HackTheBox|Htb]] (8), [[MySQL]] (2), [[PHP]] (2), [[Databases]] (2)
 > **Env Vars:** sql (9), ssl (1), php (1)
 > **CLI Commands:** mysql (2), php (2), ssh (1), apache (1), sudo (1)
 > **Ports:** port 22 (1), port 80 (1), port 443 (1)
@@ -1356,12 +1340,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - one (1)
 
-#### Sanitizing input to SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980)
+#### [Sanitizing input to SQL](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=0)** - [Instructor] Let's look at a more complex example where we have a general purpose execution function which handles both single and multiple SQL statements.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=0)** - [Instructor] Let's look at a more complex example where we have a general purpose execution function which handles both single and multiple [[SQL]] statements.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=9)** I've got one prepared.
 >
@@ -1383,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=58)** Now let's do a more extensive injection.
 >
-> **[1:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=63)** We'll terminate the query, and we'll use the MySQL database.
+> **[1:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=63)** We'll terminate the query, and we'll use the [[MySQL]] database.
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=73)** We'll select user and password from the user table, and then we'll revert back to our cleo database.
 >
@@ -1419,22 +1402,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), database (3), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (2)
 > **Env Vars:** sql (6)
 > **CLI Commands:** python3 (2), mysql (2), make (1)
 > **File Paths:** sql2.py (2), safesql2.py (2)
 > **Speakers:** - [instructor] (1)
 
-#### Inserting an SQL injection via Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980)
+#### [Inserting an SQL injection via Burp Suite](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=0)** - Before we leave Europa, let's go back to our burp suite capture and see what we can do with this. We'll right-click the post message and send it to the repeater.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=0)** - Before we leave Europa, let's go back to our [[Burp Suite]] capture and see what we can do with this. We'll right-click the post message and send it to the repeater.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=12)** And we'll go to the repeater tab.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=14)** We'll add our SQL injection into the email address, quote, and we'll use the plus for a space or plus one equals one.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=14)** We'll add our [[SQL]] injection into the email address, quote, and we'll use the plus for a space or plus one equals one.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inserting-an-sql-injection-via-burp-suite?u=76281980&t=26)** Plus we'll limit the output to one plus and we'll terminate.
 >
@@ -1454,16 +1436,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - before (1)
 
-#### Following up with a second injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980)
+#### [Following up with a second injection](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=0)** - Let's take a look at another SQL injection using SQL map using the rapid server on 10.10.10.71 We don't have this in the LinkedIn Lab.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=0)** - Let's take a look at another [[SQL]] injection using SQL map using the rapid server on 10.10.10.71 We don't have this in the [[LinkedIn]] Lab.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=10)** So if you want to follow this yourself, you'll have to use the main hack the box system.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=14)** Before we start we'll load Burp Suite and proxy through it.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=14)** Before we start we'll load [[Burp Suite]] and proxy through it.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=20)** (mouse clicking) We'll turn off interception and we'll add 10.10.10.71 to our scope.
 >
@@ -1499,7 +1480,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=149)** We can see the first entry is a blind SQL injection.
 >
-> **[2:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=153)** Let's take a look at it and we'll copy /user/share/exploitdb/exploits/phb/webapps/
+> **[2:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=153)** Let's take a look at it and we'll copy /user/share/[[Exploit-DB|exploitdb]]/exploits/phb/webapps/
 >
 > **[2:53](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=173)** 42968.txt to complain.txt
 >
@@ -1513,7 +1494,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=220)** That's our login.
 >
-> **[3:42](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=222)** We can see the message has the string PHP sesh ID.
+> **[3:42](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=222)** We can see the message has the string [[PHP]] sesh ID.
 >
 > **[3:47](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=227)** Let's copy that
 >
@@ -1521,7 +1502,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=245)** we'll paste that in here And we'll change the address to10.10.71:8080/complain.
 >
-> **[4:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=274)** We'll also add -dbs to get a list of databases.
+> **[4:34](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=274)** We'll also add -dbs to get a list of [[Databases]].
 >
 > **[4:41](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=281)** - - dbs.
 >
@@ -1555,13 +1536,13 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=372)** We find this empty 5 hash and the password is doradaybendita.
 >
-> **[6:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=377)** I won't run through the others, but if we did, we'd find that we failed to crack Zephon and Turel but we do find the rest. Okay.
+> **[6:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=377)** I won't run through the others, but if we did, we'd find that we failed to crack Zephon and Turel but we do find the [[Representational State Transfer (REST)|rest]]. Okay.
 >
 > **[6:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/following-up-with-a-second-injection?u=76281980&t=384)** We've run our SQL injection using SQL map and obtain credentials from the database and crack them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (2), [[LinkedIn]] (1), [[Burp Suite]] (1), web (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Databases]] (2), [[LinkedIn]] (1), [[Burp Suite]] (1), [[Exploit-DB|Exploitdb]] (1)
 > **Env Vars:** sql (8), rab (1), php (1)
 > **File Paths:** b.c (1), 42968.txt (1), complain.txt (1), complaint.txt (1), user/share/wordlists/rockyou.txt (1)
 > **CLI Commands:** find (4), php (1)
@@ -1570,8 +1551,7 @@ created: 2026-05-02
 > **Speakers:** - let (1), - t (1)
 > **UI Navigation:** go to (1)
 
-#### Defeating the WAF
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980)
+#### [Defeating the WAF](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1581,11 +1561,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=6)** We can navigate around a bit, but there's no active way to do anything.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=10)** However, if we go to the Rooms or Dining & Bar pages, we can click on an entry, and we see we have a PHP file with a parameter.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=10)** However, if we go to the Rooms or Dining & Bar pages, we can click on an entry, and we see we have a [[PHP]] file with a parameter.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=24)** If we add a quote to that, and enter, we get a very strange response from the website.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=33)** So maybe we should check this out with SQLMAP.
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=33)** So maybe we should check this out with [[SQLmap]].
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=37)** So, sqlmap http:// 10.10.10.
 >
@@ -1601,11 +1581,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=80)** Okay, now we're getting somewhere, and the site looks like it's vulnerable.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=84)** Let's check out its databases.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=84)** Let's check out its [[Databases]].
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=86)** We'll run that again, with the switch, --dbs.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=92)** And we have hotel, information_schema, MySQL and performance_schema.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=92)** And we have hotel, information_schema, [[MySQL]] and performance_schema.
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=97)** We're on familiar ground now.
 >
@@ -1617,7 +1597,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=121)** - T user, and let's dump it.
 >
-> **[2:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=130)** And we'll let MySQL try cracking the hashes and we'll give it user share word lists rock you dot text as its dictionary file.
+> **[2:10](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=130)** And we'll let MySQL try cracking the hashes and we'll give it user share [[Microsoft Word|word]] lists rock you dot text as its dictionary file.
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=152)** And we get, I miss you as the password.
 >
@@ -1631,13 +1611,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=186)** And we're in.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=187)** We can see that we have an SQL panel.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=187)** We can see that we have an [[SQL]] panel.
 >
 > **[3:11](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=191)** We can try select, user comma password from my SQL dot user and we press the go button and we can see we have DB admin and it's stash password.
 >
 > **[3:30](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=210)** So that worked after a bit of trial and error.
 >
-> **[3:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=213)** We found that we could write into the VAR www HTML folder.
+> **[3:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=213)** We found that we could write into the VAR www [[HTML]] folder.
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-sql-injection/defeating-the-waf?u=76281980&t=218)** We can now create a PHP shell.
 >
@@ -1649,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[MySQL]] (4), [[SQL]] (4), [[HTML]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[MySQL]] (4), [[SQL]] (4), [[SQLmap]] (3), [[HTML]] (2)
 > **Env Vars:** php (7), sql (4), html (2), sqlmap (1), var (1)
 > **CLI Commands:** php (7), mysql (4)
 > **Code Identifiers:** information_schema (1), performance_schema (1), phpmyadmin (1)
@@ -1658,8 +1638,7 @@ created: 2026-05-02
 > **Versions:** 10.10.10 (1)
 > **Cross-References:** go back to (1)
 
-#### Navigating a complex injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980)
+#### [Navigating a complex injection](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,13 +1650,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=16)** There's no particular areas of interest on the site, but when we carry out our reconnaissance, we find there's a number of additional pages including the CMS data login page.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=26)** Let's go and take a look at that, /cmsdata/login.php.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=26)** Let's go and take a look at that, /cmsdata/login.[[PHP]].
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=36)** We've got a login page here.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=38)** I won't go through the whole process.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=40)** But it turns out that this page isn't susceptible to SQL injection.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=40)** But it turns out that this page isn't susceptible to [[SQL]] injection.
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-sql-injection/navigating-a-complex-injection?u=76281980&t=44)** Next, we'll go to the forgot password page.
 >
@@ -1785,7 +1764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), cms (4), [[SQL]] (4), data (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PHP]] (1)
 > **URLs:** [b.com](https://b.com) (19)
 > **File Paths:** b.c (13), cmsdata/login.php (1)
 > **CLI Commands:** find (7), php (1)
@@ -1794,8 +1773,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Using request messages to inject SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980)
+#### [Using request messages to inject SQL](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,7 +1799,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=41)** We don't have any passwords currently, but let's see if we can find any additional users.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=46)** We can use Hydra for this.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=46)** We can use [[Hydra]] for this.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=47)** I checked the form to see that the two form fields are username and password.
 >
@@ -1829,11 +1807,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=55)** We're not trying to get a valid password, just identify users.
 >
-> **[0:59](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=59)** (computer keyboard clattering) Minus P. (computer keyboard clattering) Pass123, just to fix password, but we'll use the, list, file, user, share, word lists, rockyou.txt.
+> **[0:59](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=59)** (computer keyboard clattering) Minus P. (computer keyboard clattering) Pass123, just to fix password, but we'll use the, list, file, user, share, [[Microsoft Word|word]] lists, rockyou.txt.
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=79)** We're going to go to 10.10.10.73.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=84)** It's going to be an http. (computer keyboard clattering) Post-form and it's /login.php,
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=84)** It's going to be an http. (computer keyboard clattering) Post-form and it's /login.[[PHP]],
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=96)** colon, username equals, caret, USER, for the user from the file and,
 >
@@ -1849,9 +1827,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=137)** But in fact, when we do that, we don't find it.
 >
-> **[2:19](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=139)** So let's leave it and see what we can do with an SQL injection.
+> **[2:19](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=139)** So let's leave it and see what we can do with an [[SQL]] injection.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=145)** Let's start Burp Suite.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=145)** Let's start [[Burp Suite]].
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=149)** (computer mouse clicking) Let's turn off interception. (computer mouse clicking) And we'll add to our scope, 10.10.10.73.
 >
@@ -1877,7 +1855,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=242)** (computer keyboard clattering) Okay, we found an injection.
 >
-> **[4:09](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=249)** We can now run this with the minus, minus DBS switch to get the databases.
+> **[4:09](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=249)** We can now run this with the minus, minus DBS switch to get the [[Databases]].
 >
 > **[4:14](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-request-messages-to-inject-sql?u=76281980&t=254)** Minus, minus DBS.
 >
@@ -1907,7 +1885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Word|Word]] (1), [[PHP]] (1), [[Burp Suite]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (4), [[SQL]] (3), [[Microsoft Word|Word]] (1), [[PHP]] (1), [[Burp Suite]] (1)
 > **CLI Commands:** find (4), php (1), make (1)
 > **Env Vars:** sql (3), dbs (2), user (1)
 > **Non-Speech:** (computer mouse clicking) (5)
@@ -1916,14 +1894,13 @@ created: 2026-05-02
 > **Versions:** 10.10.10 (3)
 > **UI Navigation:** go to (2)
 
-#### Checking out SQLI Labs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980)
+#### [Checking out SQLI Labs](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=0)** - [Instructor] Before we finish the course, you may want to set up your own SQL injection lab to deep-dive more advanced SQL injections.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=0)** - [Instructor] Before we finish the course, you may want to set up your own [[SQL]] injection lab to deep-dive more advanced SQL injections.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=8)** There's an interesting set of PHP files which can be used to practice SQL injections, known as the SQLI labs.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=8)** There's an interesting set of [[PHP]] files which can be used to practice SQL injections, known as the SQLI labs.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=15)** These have been created by a user called Audi-1.
 >
@@ -1933,13 +1910,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=30)** Okay, let's install the files.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=33)** I'm in my var/www/html folder and I'll sudo git clone [https://github.com/skyblueee/sqli-labs-php7.git](https://github.com/skyblueee/sqli-labs-php7.git).
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=33)** I'm in my var/www/[[HTML]] folder and I'll sudo [[Git]] clone [https://[[GitHub]].com/skyblueee/sqli-labs-php7.git](https://github.com/skyblueee/sqli-labs-php7.git).
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=64)** And I'll change the folder name to SQLI for ease of use.
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=68)** Sudo mv sqli-labs-php7 sqli.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=82)** We can now start Apache and MySQL.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=82)** We can now start Apache and [[MySQL]].
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=87)** Service apache2 start && service mysql start.
 >
@@ -2023,7 +2000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (3), [[Git]] (2), database (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (3), [[Git]] (2), [[PHP]] (1), [[HTML]] (1)
 > **CLI Commands:** sudo (4), mysql (3), git (2), php (1), mv (1)
 > **Env Vars:** sql (5), sqli (3), php (1), null (1)
 > **Prerequisites:** set up (4), install (2)
@@ -2037,20 +2014,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=3)** I hope you enjoyed learning about how to run SQL injections.
+> **[0:03](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=3)** I hope you enjoyed learning about how to run [[SQL]] injections.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=7)** This course is an important step along your learning path, which leads to becoming a professional pen tester.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=12)** Web is a major attack surface, and SQL injections are one of the key web attacks used by cyber criminals and nation state attackers.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=21)** There's always something new in cybersecurity.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=21)** There's always something new in [[Cybersecurity]].
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=24)** And if you're interested in learning more, then check out the full security segment of the library where new courses are added regularly.
 >
@@ -2058,11 +2034,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=35)** I'd also invite you to go to my author page, where you can find some additional pen testing courses, as well as a wider coverage of cybersecurity.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=43)** If you want to get hands-on with Android, then do take a look at "Mobile Devices and Platforms," and "Securing Android Apps."
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=43)** If you want to get hands-on with [[Android]], then do take a look at "Mobile Devices and Platforms," and "Securing Android Apps."
 >
-> **[0:50](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=50)** If you're wanting to learn about security for the cloud, then "Cybersecurity for Cloud Computing" is for you.
+> **[0:50](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=50)** If you're wanting to learn about security for the cloud, then "Cybersecurity for [[Cloud Computing]]" is for you.
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=56)** You'll also find courses on the security aspects of wireless, websites, and the Internet of Things.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=56)** You'll also find courses on the security aspects of wireless, websites, and the [[IoT|Internet of Things]].
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=62)** Thanks again for joining me on this course.
 >
@@ -2070,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[SQL]] (2), web (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[SQL]] (2), [[Android]] (2), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)

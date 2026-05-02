@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network management in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
+#### [Network management in the cloud](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980&t=0)** - Network management changes as you begin that transition to the cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980&t=6)** Infrastructure as code and tools like HashiCorp Terraform, they take the place of CLIs and web interfaces.
+> **[0:06](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980&t=6)** [[Infrastructure as code (IaC)|Infrastructure as code]] and tools like HashiCorp [[Terraform]], they take the place of CLIs and web interfaces.
 >
 > **[0:13](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980&t=13)** Cloud practitioners have been using Terraform for years, but network engineers, they've been a little slower to adopt it and risk losing control of networking in the cloud without a practical understanding.
 >
@@ -97,13 +96,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Terraform]] (2), management (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), web (1)
+> **Frameworks & Libraries:** [[Terraform]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** terraform (2), make (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - network (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,15 +111,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=13)** What are we trying to achieve?
 >
-> **[0:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=15)** The primary goal is to arm network practitioners with the skills needed to operate networking and the cloud using industry standard automation practices and tools like HashiCorp Terraform.
+> **[0:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=15)** The primary goal is to arm network practitioners with the skills needed to operate networking and the cloud using industry standard automation practices and tools like HashiCorp [[Terraform]].
 >
-> **[0:30](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=30)** Also, this course would be valuable to existing cloud practitioners who are already writing infrastructure as code but want to enhance their expertise around the best practices of networking.
+> **[0:30](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=30)** Also, this course would be valuable to existing cloud practitioners who are already writing [[Infrastructure as code (IaC)|infrastructure as code]] but want to enhance their expertise around the best practices of networking.
 >
 > **[0:42](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=42)** There are a few things we want to have installed and set up before we continue.
 >
 > **[0:47](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=47)** All the links you see here will be included in the exercise files.
 >
-> **[0:52](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=52)** So since we're going to be working with AWS in the course we're going to need an AWS account and also a GitHub account.
+> **[0:52](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=52)** So since we're going to be working with AWS in the course we're going to need an AWS account and also a [[GitHub]] account.
 >
 > **[1:01](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=61)** You're also going to need some software installed locally on your machine, so of course we're going to need Terraform.
 >
@@ -131,13 +129,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=76)** I like using VS code because it's free and it's pretty extensible.
 >
-> **[1:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=81)** And last, you need Git running on your machine.
+> **[1:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=81)** And last, you need [[Git]] running on your machine.
 >
 > **[1:25](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-you-need-to-know?u=76281980&t=85)** Now that we have a clear vision of our goal for the course and we have the necessary accounts and software set up, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (3), cloud (2), aws (2), [[Automation]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[GitHub]] (1), [[Git]] (1)
 > **CLI Commands:** terraform (3), aws (2), make (1), git (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Env Vars:** aws (2)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Terraform's composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
+#### [Terraform's composition](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,15 +162,15 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=18)** Without knowing these things, you can imagine how much trouble you could get yourself into.
 >
-> **[0:24](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=24)** In this video, we're going to examine some of the basic mechanics of Terraform.
+> **[0:24](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=24)** In this video, we're going to examine some of the basic mechanics of [[Terraform]].
 >
 > **[0:30](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=30)** The road to success is always under construction.
 >
 > **[0:34](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=34)** So what is Terraform?
 >
-> **[0:37](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=37)** It's an open source tool used to build, modify, and version control infrastructure.
+> **[0:37](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=37)** It's an open source tool used to build, modify, and [[Version Control]] infrastructure.
 >
-> **[0:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=44)** Now, this infrastructure is defined using declarative human-readable configuration files, and Terraform interfaces with other platforms and services through application programming interfaces.
+> **[0:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=44)** Now, this infrastructure is defined using declarative human-readable configuration files, and Terraform interfaces with other platforms and services through [[Application Programming Interfaces (API)|application programming interfaces]].
 >
 > **[0:58](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=58)** Terraform has two main components, the first of which is Terraform Core, and this operates as an entry point for using Terraform.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=77)** Providers are developed using plug-ins, and these plug-ins are executed as a separate process and interact with the main Terraform binary using RPC, which is a method of building client server-based applications in distributed fashion.
 >
-> **[1:33](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=93)** You can go and check out the source code for both Terraform Core, and in this example, the AWS Terraform provider, at their respective GitHub repositories.
+> **[1:33](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=93)** You can go and check out the source code for both Terraform Core, and in this example, the AWS Terraform provider, at their respective [[GitHub]] repositories.
 >
 > **[1:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=104)** Now, these providers are published on Terraform Registry, and I want to dig in a little bit with Terraform Registry here.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=137)** I'm a network engineer and I deploy several virtual routers.
 >
-> **[2:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=141)** Once they're up, I connect to them and bang away at that CLI, getting things the way that I want it, or or maybe I even run a script or some tool that connects to them after the fact and modifies the configuration as needed.
+> **[2:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=141)** Once they're up, I connect to them and bang away at that [[CLI]], getting things the way that I want it, or or maybe I even run a script or some tool that connects to them after the fact and modifies the configuration as needed.
 >
 > **[2:35](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980&t=155)** Now, Terraform, on the other hand, takes a different approach, a declarative approach.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (16), [[Version Control]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), api (1), aws (1)
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Version Control]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[GitHub]] (1), [[CLI]] (1)
 > **CLI Commands:** terraform (16), aws (1)
 > **Env Vars:** api (1), rpc (1), aws (1), cli (1)
 > **Definitions:** is a  (1), means that (1)
@@ -216,8 +213,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Terraform state
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980)
+#### [Understanding Terraform state](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,11 +223,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=12)** Not only that, but what about the relationships that exist between all of these resources?
 >
-> **[0:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=18)** Lucky for us, Terraform does a swell job at handling this so we don't have to.
+> **[0:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=18)** Lucky for us, [[Terraform]] does a swell job at handling this so we don't have to.
 >
 > **[0:25](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=25)** "Once the business data has been centralized and integrated, the value of the database is greater than the sum of the preexisting parts."
 >
-> **[0:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=36)** When you provision infrastructure with Terraform, it keeps track of all the changes you make in a JSON file.
+> **[0:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=36)** When you provision infrastructure with Terraform, it keeps track of all the changes you make in a [[JSON]] file.
 >
 > **[0:45](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=45)** By default, this will get saved in your working directory as terraform.tfstate.
 >
@@ -247,13 +243,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=81)** This is great for learning and testing, but definitely not production.
 >
-> **[1:28](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=88)** As things get more serious in the real world and testing and prototyping becomes production, you need to store state files remotely.
+> **[1:28](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=88)** As things get more serious in the real world and testing and [[Prototyping]] becomes production, you need to store state files remotely.
 >
-> **[1:38](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=98)** Shared storage like Amazon S3 or Azure storage accounts are great for this.
+> **[1:38](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=98)** Shared storage like Amazon S3 or [[Microsoft Azure|Azure]] storage accounts are great for this.
 >
 > **[1:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=104)** And lastly, you may not want to think about managing state at all.
 >
-> **[1:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=109)** You can use a variety of products out there like Terraform Cloud, which can be used as a service to store and manage state files at scale.
+> **[1:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=109)** You can use a variety of [[Microsoft Products|products]] out there like Terraform Cloud, which can be used as a service to store and manage state files at scale.
 >
 > **[1:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/understanding-terraform-state?u=76281980&t=119)** How might we organize state files?
 >
@@ -295,21 +291,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (8), database (3), application (2), cloud (2), product (2)
+> **Frameworks & Libraries:** [[Terraform]] (8), [[JSON]] (1), [[Prototyping]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** terraform (8), make (3)
 > **Env Vars:** prod (2), json (1), uat (1)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manual exploration leads to good Terraform code
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980)
+#### [Manual exploration leads to good Terraform code](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=0)** - [Instructor] Jumping straight into automation with no thought or planning is a quick road to frustration.
 >
-> **[0:07](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=7)** The areas I'm going to cover in this particular video are exercises that I still do today even after using Terraform for many, many years.
+> **[0:07](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=7)** The areas I'm going to cover in this particular video are exercises that I still do today even after using [[Terraform]] for many, many years.
 >
 > **[0:17](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=17)** What we're going to do is we're going to explore, we're going to create a few resources manually, and learn the ins and outs of how they work.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=180)** Great.
 >
-> **[3:01](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=181)** So now as we explore the provider documentation, we can begin using what we learned in AWS Console to pick out important things that we can use when we build our infrastructure as code.
+> **[3:01](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=181)** So now as we explore the provider documentation, we can begin using what we learned in AWS Console to pick out important things that we can use when we build our [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[3:16](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/manual-exploration-leads-to-good-terraform-code?u=76281980&t=196)** Like VPC, we got to give it a CIDR range just like we did in the console.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Terraform]] (1), cloud (1), aws (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** vpc (15), cidr (7), aws (1)
 > **CLI Commands:** find (2), terraform (1), aws (1)
 > **Definitions:** is a  (3)
@@ -405,12 +400,11 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform configuration language basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980)
+#### [Terraform configuration language basics](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=0)** - [Instructor] Before we get to writing infrastructure as code, I want to go over a few things about the configuration language used to drive Terraform.
+> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=0)** - [Instructor] Before we get to writing [[Infrastructure as code (IaC)|infrastructure as code]], I want to go over a few things about the configuration language used to drive [[Terraform]].
 >
 > **[0:10](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=10)** This can be a deep topic, so I've selected some core areas that will give us a grounded baseline to build on through the duration of the course.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=117)** Next up, we have to define a provider block and set up authentication to the providers we wish to interact with.
 >
-> **[2:04](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=124)** In this course, I'm using AWS security credentials which are easy and good for basic testing, but in production scenarios, you would use identity and access management roles.
+> **[2:04](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=124)** In this course, I'm using [[AWS Security]] credentials which are easy and good for basic testing, but in production scenarios, you would use identity and access management roles.
 >
 > **[2:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-configuration-language-basics?u=76281980&t=135)** Now let's take a look at locals.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (16), next (3), data (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), application (1)
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[AWS Security]] (1)
 > **CLI Commands:** terraform (16), aws (1)
 > **Env Vars:** vpc (3), hcl (2), cidr (2), aws (1), dns (1)
 > **Analogies:** just like (2)
@@ -494,8 +488,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your Terraform Repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980)
+#### [Setting up your Terraform Repo](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,13 +496,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=9)** On the course page, you'll see a little blue box that says Get Files.
 >
-> **[0:16](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=16)** When you click on this box, it'll take you to the Git repository that holds the code.
+> **[0:16](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=16)** When you click on this box, it'll take you to the [[Git]] repository that holds the code.
 >
 > **[0:22](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=22)** Now, we're going to go ahead and fork this repo.
 >
 > **[0:27](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=27)** And this basically means we're just going to make a copy of it with you as the owner, and this disconnects it from the codebase and the previous maintainers.
 >
-> **[0:39](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=39)** And for the owner, you're just going to reference your GitHub account.
+> **[0:39](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=39)** And for the owner, you're just going to reference your [[GitHub]] account.
 >
 > **[0:43](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=43)** And then you're going to want to uncheck copy the main branch only because we want to get all the branches in the course.
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=201)** So there are a few ways to provide these values, and I'll add these options to the course notes.
 >
-> **[3:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=209)** And last thing, before we move on, for each video we run, just to show the power of Terraform and how it can handle the provisioning and destroying of infrastructure, I'll be building the infrastructure new for each video and tearing it down at the end of each video.
+> **[3:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=209)** And last thing, before we move on, for each video we run, just to show the power of [[Terraform]] and how it can handle the provisioning and destroying of infrastructure, I'll be building the infrastructure new for each video and tearing it down at the end of each video.
 >
 > **[3:48](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/setting-up-your-terraform-repo?u=76281980&t=228)** This is a really good habit to get into, especially when you're experimenting and learning, because it can save you money later on down the road.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Git]] (1), [[GitHub]] (1), [[Security]] (1), power (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[GitHub]] (1), [[Terraform]] (1)
 > **CLI Commands:** make (2), aws (2), git (1), terraform (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Env Vars:** aws (2)
@@ -595,8 +588,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a bare minimum VPC with Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
+#### [Creating a bare minimum VPC with Terraform](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980&t=17)** Okay, so what I want to do here is I want to build the infrastructure that we built by hand in that manual exploration video.
 >
-> **[0:26](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980&t=26)** So first we're just going to do a Terraform init, which is going to go out and find, download, and install the AWS provider that we marked as required.
+> **[0:26](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980&t=26)** So first we're just going to do a [[Terraform]] init, which is going to go out and find, download, and install the AWS provider that we marked as required.
 >
 > **[0:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980&t=36)** And now I want to run a Terraform plan.
 >
@@ -698,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), aws (3)
+> **Frameworks & Libraries:** [[Terraform]] (9)
 > **CLI Commands:** terraform (9), aws (3), make (2), find (1)
 > **Env Vars:** vpc (6), cidr (4), aws (3)
 > **UI Navigation:** go to (4)
@@ -706,14 +698,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looping over subnets with Terraform count
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980)
+#### [Looping over subnets with Terraform count](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=0)** - [Instructor] Every design out there is probably going to have more than one subnet.
 >
-> **[0:05](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=5)** Now I could just duplicate this block here, but instead of adding more unnecessary lines to our configuration files, in this video what we're going to look at is one of Terraform's meta-arguments called count and also a handy function in Terraform called cidrsubnet.
+> **[0:05](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=5)** Now I could just duplicate this block here, but instead of adding more unnecessary lines to our configuration files, in this video what we're going to look at is one of [[Terraform]]'s meta-arguments called count and also a handy function in Terraform called cidrsubnet.
 >
 > **[0:26](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=26)** So let's start out with the flow of information in.
 >
@@ -809,11 +800,11 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=250)** So now that we have some subnets to work with, let's do something with them.
 >
-> **[4:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=255)** In the next video, let's create some resources for testing things out, which will come in handy for the rest of the videos in the course.
+> **[4:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/looping-over-subnets-with-terraform-count?u=76281980&t=255)** In the next video, let's create some resources for testing things out, which will come in handy for the [[Representational State Transfer (REST)|rest]] of the videos in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), next (2), aws (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** terraform (5), aws (2), grep (1)
 > **Code Identifiers:** cidr_block (4), aws_vpc (1), cidr_blocks (1)
 > **Env Vars:** aws (2), vpc (1)
@@ -822,14 +813,13 @@ created: 2026-05-02
 > **URLs:** [aws_vpc.dev](https://aws_vpc.dev) (1)
 > **Cross-References:** in the next (1)
 
-#### Using Terraform to provision EC2 instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980)
+#### [Using Terraform to provision EC2 instances](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=0)** - [Instructor] As we start tweaking the network in later videos we're going to need a way to do reachability testing.
 >
-> **[0:06](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=6)** In this video, we're going to spin up two EC2 instances with Terraform, and the first step is generating some SSH keys.
+> **[0:06](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=6)** In this video, we're going to spin up two [[Amazon EC2|EC2]] instances with [[Terraform]], and the first step is generating some SSH keys.
 >
 > **[0:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=15)** I'm going to create a folder called Keys in my current working directory and generate the keys there.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=57)** You're going to get a lot of hours out of it.
 >
-> **[0:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=59)** And then we have the AMI ID for canonicals of Ubuntu.
+> **[0:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=59)** And then we have the AMI ID for canonicals of [[Ubuntu]].
 >
 > **[1:03](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=63)** And then for the instance names I followed the theme that we did for subnets, EC2 public, EC2 private.
 >
@@ -871,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=109)** And for the instance configuration, I'm going to use count in the same way that we did for the subnets in the last video.
 >
-> **[1:57](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=117)** And for the rest of these values I'm simply populating the AMI and instance type variables.
+> **[1:57](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=117)** And for the [[Representational State Transfer (REST)|rest]] of these values I'm simply populating the AMI and instance type variables.
 >
 > **[2:03](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-provision-ec2-instances?u=76281980&t=123)** And then I'm referencing the key name from the resource above.
 >
@@ -903,7 +893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Ubuntu]] (4), [[Terraform]] (3), aws (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Ubuntu]] (4), [[Terraform]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ec2 (4), ami (4), ssh (2), aws (1)
 > **CLI Commands:** terraform (3), ssh (2), aws (1), find (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -912,14 +902,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Building public subnets in AWS with Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980)
+#### [Building public subnets in AWS with Terraform](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=0)** - [Instructor] In the last video, we deployed a few EC2 instances and then tried to connect to the first one called EC2 Public with no success.
+> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=0)** - [Instructor] In the last video, we deployed a few [[Amazon EC2|EC2]] instances and then tried to connect to the first one called EC2 Public with no success.
 >
-> **[0:10](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=10)** In this video, we're going to take a look at the concept of public subnets in AWS and make a few adjustments to our Terraform so that we can reach our EC2 instance.
+> **[0:10](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=10)** In this video, we're going to take a look at the concept of public subnets in AWS and make a few adjustments to our [[Terraform]] so that we can reach our EC2 instance.
 >
 > **[0:22](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=22)** Now in AWS, a subnet that has a direct route to an internet gateway is known as a public subnet.
 >
@@ -951,7 +940,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=127)** And just to add some measure of security, I went ahead and created this public IP variable and this means that only traffic originating from my public IP is going to be allowed to talk to this instance just so the whole world doesn't get to see my public IP on screen here.
 >
-> **[2:27](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=147)** Instead of putting the public IP with the rest of our values here in terraform.tfvars I went ahead and already ran it as an environment variable and I will put the command syntax to do that in the readme with the branch corresponding to this video.
+> **[2:27](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=147)** Instead of putting the public IP with the [[Representational State Transfer (REST)|rest]] of our values here in terraform.tfvars I went ahead and already ran it as an environment variable and I will put the command syntax to do that in the readme with the branch corresponding to this video.
 >
 > **[2:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-public-subnets-in-aws-with-terraform?u=76281980&t=169)** So let's go ahead and run our terraform here.
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (6), [[Amazon EC2|Ec2]] (4), aws (3), [[Security]] (3), traffic (1)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Amazon EC2|Ec2]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** terraform (6), aws (3), make (2), ssh (1)
 > **Env Vars:** ec2 (4), igw (4), aws (3), ssh (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -998,18 +987,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Building private subnets in AWS with Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980)
+#### [Building private subnets in AWS with Terraform](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=0)** - [Instructor] We now have an EC2 instance in a public subnet that has the ability to egress to the internet but also allows incoming connections from the internet.
+> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=0)** - [Instructor] We now have an [[Amazon EC2|EC2]] instance in a public subnet that has the ability to egress to the internet but also allows incoming connections from the internet.
 >
 > **[0:12](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=12)** With our second instance, we're going to take a different approach by running it in a private subnet where it can egress to the internet only.
 >
 > **[0:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=21)** To do this, we're going to provision a NAT gateway, or NGW for short, to facilitate connectivity to the internet for instances in a private subnet.
 >
-> **[0:35](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=35)** I already applied the Terraform configuration, but before we do a little testing, let's go over some of the changes.
+> **[0:35](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=35)** I already applied the [[Terraform]] configuration, but before we do a little testing, let's go over some of the changes.
 >
 > **[0:43](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=43)** So for this configuration, I created a separate file, private_subnettf, and we're going to notice a few new resources in here.
 >
@@ -1041,7 +1029,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=126)** Now, the first thing we want to do is we want to check reachability from the public internet.
 >
-> **[2:11](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=131)** And what I'm going to do here is I'm going to use a tool called Nmap.
+> **[2:11](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=131)** And what I'm going to do here is I'm going to use a tool called [[Nmap]].
 >
 > **[2:15](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=135)** (keyboard clicks) So that's basically just going to say, "Hey, are you listening on this port over the public internet?"
 >
@@ -1081,7 +1069,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=265)** Now let's just make sure that we can reach the internet.
 >
-> **[4:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=269)** (keyboard clicks) I can reach [linkedin.com](https://linkedin.com), and we're all good.
+> **[4:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=269)** (keyboard clicks) I can reach [[[LinkedIn]].com](https://linkedin.com), and we're all good.
 >
 > **[4:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=276)** In this video, we set up a private subnet and used a NAT gateway to facilitate internet egress from our private EC2 instance.
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Security]] (2), [[Terraform]] (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Terraform]] (1), [[Nmap]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nat (3), ec2 (2), ngw (2), eip (2), vpc (1)
 > **CLI Commands:** make (2), terraform (1), ssh (1)
 > **Code Identifiers:** private_subnettf (1), depends_on (1)
@@ -1109,14 +1097,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Terraform to expand our infrastructure footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
+#### [Using Terraform to expand our infrastructure footprint](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=0)** - To begin chapter three we're going to provision an additional VPC, subnet and instance with Terraform.
+> **[0:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=0)** - To begin chapter three we're going to provision an additional VPC, subnet and instance with [[Terraform]].
 >
-> **[0:09](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=9)** This is going to set us up for the next few videos where we're going to look at some common options for routing between VPCs.
+> **[0:09](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=9)** This is going to set us up for the next few videos where we're going to look at some common options for [[Routing]] between VPCs.
 >
 > **[0:17](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=17)** In this video also I wanted to incorporate some different string functions.
 >
@@ -1196,7 +1183,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=221)** So now that I have all these defined here we can kind of jump over and with all the other Terraform that I've written here I'm just referencing those local variables.
 >
-> **[3:52](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=232)** So local.ec2 instance name, local. dot key pair name up here, local.security group name.
+> **[3:52](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=232)** So local.[[Amazon EC2|ec2]] instance name, local. dot key pair name up here, local.security group name.
 >
 > **[4:00](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980&t=240)** So all these are referenced a little more cleanly here.
 >
@@ -1214,7 +1201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (6), next (3), [[Routing]] (2), [[Amazon EC2|Ec2]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Routing]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (8), aws (1)
 > **CLI Commands:** terraform (6), find (1), aws (1)
 > **Cross-References:** in the next (2)
@@ -1222,8 +1209,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - to (1)
 
-#### Routing traffic between VPCs using Terraform and VPC peering
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980)
+#### [Routing traffic between VPCs using Terraform and VPC peering](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=21)** We know we can reference existing infrastructure by using individual data sources, but sometimes that can be a bit tedious.
 >
-> **[0:30](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=30)** One really cool data source in Terraform that I personally think is underused and underappreciated is the remote_state data source.
+> **[0:30](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=30)** One really cool data source in [[Terraform]] that I personally think is underused and underappreciated is the remote_state data source.
 >
 > **[0:41](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=41)** This allows me to reference resources in other state files and return their IDs, names, CIDR blocks, or whatever else that I can think of.
 >
@@ -1333,9 +1319,9 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=332)** There we go.
 >
-> **[5:33](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=333)** Our pings were successful, we have routing.
+> **[5:33](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=333)** Our pings were successful, we have [[Routing]].
 >
-> **[5:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=336)** And one last thing that I want to point out is remember with our security group for these EC2 instances, when we initially set up this security group for ingress we were only allowing access from my public IP address, and then in your case, your public IP address.
+> **[5:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=336)** And one last thing that I want to point out is remember with our security group for these [[Amazon EC2|EC2]] instances, when we initially set up this security group for ingress we were only allowing access from my public IP address, and then in your case, your public IP address.
 >
 > **[5:58](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/routing-traffic-between-vpcs-using-terraform-and-vpc-peering?u=76281980&t=358)** And that was set as an environment variable.
 >
@@ -1357,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Terraform]] (6), traffic (2), next (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Routing]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (16), vpcb (7), vpca (6), cidr (2), aws (1)
 > **CLI Commands:** terraform (6), aws (1)
 > **Code Identifiers:** remote_state (2)
@@ -1366,8 +1352,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** configure (1), set up (1)
 
-#### Scaling the network with Terraform and Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980)
+#### [Scaling the network with Terraform and Transit Gateway](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,11 +1360,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=12)** When it comes to scale, especially for the enterprise, transit gateway really shines.
 >
-> **[0:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=18)** I removed our configuration for VPC peering, and in this video, we're going to connect our VPCs with transit gateway using Terraform.
+> **[0:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=18)** I removed our configuration for VPC peering, and in this video, we're going to connect our VPCs with transit gateway using [[Terraform]].
 >
 > **[0:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=29)** And with our configuration, we're going to run with some of the defaults and propagate routes to the route table of the TGW.
 >
-> **[0:37](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=37)** This will let all of our VPCs talk in a full mesh type of scenario, and we're going to look at two different resources in particular.
+> **[0:37](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=37)** This will let all of our VPCs talk in a full [[Mesh]] type of scenario, and we're going to look at two different resources in particular.
 >
 > **[0:46](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=46)** First, we need to create the transit gateway itself, and then we're going to use a VPC attachment to connect both of our VPCs to the transit gateway.
 >
@@ -1401,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=108)** And last, we're just going to reference that ID that's generated once the TGW's created.
 >
-> **[1:55](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=115)** And what about routing?
+> **[1:55](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=115)** And what about [[Routing]]?
 >
 > **[1:58](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=118)** So let's hop over to our public subnet configuration file, and for this configuration, I want to be able to reach my RFC 19.18.10. range, and I'm using the TGW ID to get there, and then I have this Quad Zero still installed for the internet egress and ingress as well.
 >
@@ -1427,7 +1412,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=227)** So let's do a quick test.
 >
-> **[3:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=229)** I'm logged into an EC2 instance in VPC A and VPC B.
+> **[3:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=229)** I'm logged into an [[Amazon EC2|EC2]] instance in VPC A and VPC B.
 >
 > **[3:54](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/scaling-the-network-with-terraform-and-transit-gateway?u=76281980&t=234)** So let's just ping and make sure that we have reachability.
 >
@@ -1441,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (2), [[Mesh]] (2), next (2), [[Routing]] (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (2), [[Mesh]] (2), [[Routing]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (15), tgw (8), rfc (1), igw (1), nat (1)
 > **CLI Commands:** terraform (2), make (1)
 > **Versions:** 19.18.10 (1)
@@ -1449,8 +1434,7 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using segmentation with Transit Gateway and Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980)
+#### [Using segmentation with Transit Gateway and Terraform](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1450,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=55)** And let's say that non-prod and prod both need reachability to our shared services space.
 >
-> **[1:04](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=64)** Let's work through this design with Terraform and Transit Gateway.
+> **[1:04](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=64)** Let's work through this design with [[Terraform]] and Transit Gateway.
 >
 > **[1:09](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=69)** For this scenario, I have added two additional VPCs.
 >
@@ -1496,7 +1480,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=169)** So for the routes, I have a TF file created for non-prod, prod, and shared.
 >
-> **[2:56](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=176)** And if I zoom in on one of these, let's take a look.
+> **[2:56](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=176)** And if I [[Zoom]] in on one of these, let's take a look.
 >
 > **[2:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=179)** We have the same theme going on in each one.
 >
@@ -1510,7 +1494,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=205)** I have a list of the private IPs here and I'm going to do a little split screen action.
 >
-> **[3:31](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=211)** So I'm logged into an EC2 instance and each one of these VPCs, so the one that you see right here is dev 10.5.
+> **[3:31](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=211)** So I'm logged into an [[Amazon EC2|EC2]] instance and each one of these VPCs, so the one that you see right here is dev 10.5.
 >
 > **[3:40](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=220)** So with dev, we were supposed to be able to reach VPC-B test and VPC shared.
 >
@@ -1544,11 +1528,11 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=339)** Transit Gateway is a powerful resource to have in the toolbox.
 >
-> **[5:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=344)** Since transitive routing isn't available with native VPC configuration, this combination of resources can help control routing and segmentation for inter region and intra region routing.
+> **[5:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-segmentation-with-transit-gateway-and-terraform?u=76281980&t=344)** Since transitive [[Routing]] isn't available with native VPC configuration, this combination of resources can help control routing and segmentation for inter region and intra region routing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), [[Terraform]] (2), cloud (1), [[Zoom]] (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Terraform]] (2), [[Zoom]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (15), tgw (2), ec2 (1)
 > **CLI Commands:** terraform (2)
 > **Versions:** 10.5 (1)
@@ -1562,8 +1546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What comes next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)
+#### [What comes next?](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,7 +1582,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=93)** Most of the public cloud providers have a great free tier to experiment with.
 >
-> **[1:39](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=99)** On the automation side of things, the Terraform documentation is great.
+> **[1:39](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=99)** On the automation side of things, the [[Terraform]] documentation is great.
 >
 > **[1:44](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=104)** The more you use Terraform, the more time you're going to spend here.
 >
@@ -1607,13 +1590,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=113)** Check out the Terraform Registry specifically modules from top contributors.
 >
-> **[1:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=119)** Lastly, there is a plethora of LinkedIn learning courses around tooling and management that are great entry points.
+> **[1:59](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=119)** Lastly, there is a plethora of [[LinkedIn]] learning courses around tooling and management that are great entry points.
 >
 > **[2:08](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=128)** I'll have all of these linked in the course notes.
 >
 > **[2:11](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=131)** So much is available for learning right at your fingertips and most of it is open source and free.
 >
-> **[2:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=138)** In this course, we focused on AWS, but what about Azure?
+> **[2:18](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=138)** In this course, we focused on AWS, but what about [[Microsoft Azure|Azure]]?
 >
 > **[2:22](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980&t=142)** I have a challenge for you.
 >
@@ -1623,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Automation]] (4), [[Terraform]] (3), next (1), business (1)
+> **Frameworks & Libraries:** [[Terraform]] (3), [[LinkedIn]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (3), aws (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aws (1)

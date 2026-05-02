@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing mobile applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980)
+#### [Testing mobile applications](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,23 +106,22 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980&t=38)** I have over 25 years of hands-on experience working in testing, I'm an author on quality, and helped found a customer-validation software and services company, Centercode, in 2001.
 >
-> **[0:49](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980&t=49)** If you're about to embark on testing a new mobile application, revisit an app that needs some polishing, or simply want to learn ways to improve your quality process for mobile products, I invite you to join me on my LinkedIn Learning course as I go through how to prepare for a proper, thorough, and successful test for the mobile platform.
+> **[0:49](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980&t=49)** If you're about to embark on testing a new mobile application, revisit an app that needs some polishing, or simply want to learn ways to improve your quality process for mobile [[Microsoft Products|products]], I invite you to join me on my [[LinkedIn]] Learning course as I go through how to prepare for a proper, thorough, and successful test for the mobile platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), mobile application (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [mike] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=0)** - [Instructor] Whether you're a solo operation developing for mobile, or you're a seasoned quality expert testing a new mobile app, there are some core aspects of software testing you need to understand.
+> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=0)** - [Instructor] Whether you're a solo operation developing for mobile, or you're a seasoned quality expert testing a new mobile app, there are some core aspects of [[Software Testing]] you need to understand.
 >
 > **[0:11](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=11)** The first factor is a foundation in developing environments.
 >
-> **[0:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=16)** There are two mobile operating systems currently available, Android, produced by Google, and iOS, which is of course created by Apple.
+> **[0:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=16)** There are two mobile operating systems currently available, [[Android]], produced by [[Google]], and iOS, which is of course created by Apple.
 >
 > **[0:24](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=24)** While there are some legacy systems out there, these are the two most prevalent operating systems.
 >
@@ -141,11 +139,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=70)** Nobody likes to hear bad news, and getting bug after bug through testing can be exhausting.
 >
-> **[1:15](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=75)** Poor planning or poorly executed test plans result in poor products.
+> **[1:15](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=75)** Poor planning or poorly executed test plans result in poor [[Microsoft Products|products]].
 >
 > **[1:20](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=80)** Follow through and a desire to learn from the experience will play as much a part of the success of the product as will the functionality of the app itself.
 >
-> **[1:30](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=90)** Focusing on meeting release dates, launch windows, holidays, events are important.
+> **[1:30](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=90)** Focusing on meeting release dates, launch [[Windows]], holidays, events are important.
 >
 > **[1:37](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/what-you-should-know?u=76281980&t=97)** However, if your product doesn't work right, these things mean nothing.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), management (2), [[Software Testing]] (1), [[Android]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Android]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Windows]] (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -169,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tracking versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-versions?u=76281980)
+#### [Tracking versions](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +273,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (2), application (1)
 > **Versions:** 1.0 (2), 1.1 (1), 2.1.1 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -284,8 +280,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980)
+#### [Tracking issues](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=51)** It's not always in place.
 >
-> **[0:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=53)** Being properly prepared to discover, document, track, and change issues is essential to software testing.
+> **[0:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=53)** Being properly prepared to discover, document, track, and change issues is essential to [[Software Testing]].
 >
 > **[1:02](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=62)** You can't be expected to deliver a quality product unless you have an effective way to keep a handle on the bugs that existed and new bugs that are coming.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=127)** Test planning goes a lot smoother when you use a good bug tracking software to manage your issues.
 >
-> **[2:13](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=133)** In a large-scale setting, you might find a robust solution, such as JIRA, that offers email integration, project management, and collaboration with external tools.
+> **[2:13](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=133)** In a large-scale setting, you might find a robust solution, such as [[Jira]], that offers email integration, project management, and collaboration with external tools.
 >
 > **[2:25](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-issues?u=76281980&t=145)** However, if your project is small-scale, even a simple spreadsheet can be adequate.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Software Testing]] (1), [[Jira]] (1), management (1), web (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Jira]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for instance (1), such as (1)
 > **Env Vars:** jira (1)
@@ -380,12 +375,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to TestFlight
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-testflight-26548258?u=76281980)
+#### [Introduction to TestFlight](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-testflight-26548258?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-testflight-26548258?u=76281980&t=0)** - [Narrator] iOS is not like Android.
+> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-testflight-26548258?u=76281980&t=0)** - [Narrator] iOS is not like [[Android]].
 >
 > **[0:02](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-testflight-26548258?u=76281980&t=2)** It's very restricted and controlled.
 >
@@ -467,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (1), product (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **Prerequisites:** install (3), you'll need (1), before you begin (1), set up (1), required to (1)
 > **Code Identifiers:** ios (3), itunes (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -475,12 +469,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to Google Play
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980)
+#### [Introduction to Google Play](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=0)** - [Instructor] We know that TestFlight is the most effective way to plan for iOS apps, but what about Android?
+> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=0)** - [Instructor] We know that TestFlight is the most effective way to plan for iOS apps, but what about [[Android]]?
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=6)** Well, if you're developing for the Android world, you'll recognize things aren't as clearcut as they are for iOS users.
 >
@@ -488,13 +481,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=24)** To be blunt, it's a little bit of a mess for a quality tester.
 >
-> **[0:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=29)** As you can see, Android is a stark contrast to the rigid constraints of the iOS world.
+> **[0:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=29)** As you can see, Android is a [[Stark (Accessibility Software)|stark]] contrast to the rigid constraints of the iOS world.
 >
 > **[0:34](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=34)** While there are rules, your path to testing an app is really up to you.
 >
 > **[0:39](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=39)** For alpha testing, you can simply test your native Android APK file on your test phones and tablets.
 >
-> **[0:46](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=46)** It's easy to distribute and doesn't require Google's approval.
+> **[0:46](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=46)** It's easy to distribute and doesn't require [[Google]]'s approval.
 >
 > **[0:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=50)** Android starts with an open source design.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=115)** For example, if your company uses Google for your email, that works.
 >
-> **[1:59](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=119)** However, other email addresses like Yahoo, Outlook, et cetera, won't work.
+> **[1:59](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=119)** However, other email addresses like Yahoo, [[Microsoft Outlook|Outlook]], et cetera, won't work.
 >
 > **[2:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/introduction-to-google-play-26545254?u=76281980&t=125)** Google Play Console is a good system designed by Google for the platform.
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (12), [[Android]] (9), [[Security]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Google]] (12), [[Android]] (9), [[Stark (Accessibility Software)|Stark]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Code Identifiers:** ios (4), itunes (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** apk (2)
@@ -564,8 +557,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify your needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980)
+#### [Identify your needs](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=20)** Throughout the testing process, there are four key needs that you should be thinking about: your customer, your time, your dependencies, and the app itself.
 >
-> **[0:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=32)** Where you actually start isn't with the hardware, or even the software you are testing.
+> **[0:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=32)** Where you actually start isn't with the [[Hardware]], or even the software you are testing.
 >
 > **[0:38](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=38)** You start with your customer.
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=116)** These are the people, teams, resources, or even hardware and software you need to execute your test that are outside of your control.
 >
-> **[2:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=125)** If you have to depend on specific people or products to deliver, but you have little say in how they work, that is a big risk to successful testing.
+> **[2:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=125)** If you have to depend on specific people or [[Microsoft Products|products]] to deliver, but you have little say in how they work, that is a big risk to successful testing.
 >
 > **[2:15](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identify-your-needs?u=76281980&t=135)** Developers, product managers, tools, and services are all dependencies.
 >
@@ -651,13 +643,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), next (1), teams (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980)
+#### [Setting up your project](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=68)** You will also want to configure your bug tracking application prior to starting.
 >
-> **[1:13](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=73)** Setting up the appropriate fields, work flow for issue management, and making certain your system is ready for input is essential.
+> **[1:13](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=73)** Setting up the appropriate fields, work flow for [[Issue Management]], and making certain your system is ready for input is essential.
 >
 > **[1:21](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=81)** If you don't have a system in place, selecting an application to manage this is a process in itself and you'll want to have that done prior to starting your planning.
 >
@@ -699,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=107)** You won't need to configure the project yet, however you don't want to be chasing this down when you are ready to move from alpha to beta testing.
 >
-> **[1:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=114)** Hardware in your test environment needs to be clean for testing.
+> **[1:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=114)** [[Hardware]] in your test environment needs to be clean for testing.
 >
 > **[1:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=118)** This means clearing off old software and removing legacy pieces that could corrupt and confuse your app.
 >
@@ -715,7 +706,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=153)** Like hardware, having previously used configurations can create issues for you.
 >
-> **[2:38](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=158)** Applications like Jira, Centercode, iTunes Connect, and Google Play beta have lead times, licensing issues, and configuration requirements.
+> **[2:38](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=158)** Applications like [[Jira]], Centercode, iTunes Connect, and [[Google]] Play beta have lead times, licensing issues, and configuration requirements.
 >
 > **[2:47](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=167)** You don't want to be messing around with this kind of thing when you're ready to test.
 >
@@ -723,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=175)** You may need to have some official document, join a project team, or reach out to specific departments like legal or marketing to launch your project.
 >
-> **[3:03](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=183)** Because quality sits at then end of the software development life cycle, there may be resistance by some teams to begin work early, ignore them.
+> **[3:03](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=183)** Because quality sits at then end of the [[Software Development]] life cycle, there may be resistance by some teams to begin work early, ignore them.
 >
 > **[3:13](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/setting-up-your-project-2?u=76281980&t=193)** Prepping for these projects take time and getting started earlier is always better.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), [[Hardware]] (2), [[Issue Management]] (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Issue Management]] (1), [[Jira]] (1), [[Google]] (1), [[Software Development]] (1)
 > **Prerequisites:** setup (5), configure (2), set up (1), you need to have (1), getting started (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -801,8 +792,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for your alpha test
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980)
+#### [Preparing for your alpha test](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,13 +814,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=50)** This means that while you may have a schedule and plan to test only a single version, you will want to think long-term.
 >
-> **[0:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=58)** Unless this is a one off release, and your only mobile product, everything you prepare for in your alpha project will likely be used again for future versions, and even possibly for new products.
+> **[0:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=58)** Unless this is a one off release, and your only mobile product, everything you prepare for in your alpha project will likely be used again for future versions, and even possibly for new [[Microsoft Products|products]].
 >
 > **[1:09](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=69)** The preparation phase of alpha looks forward, and considers every dimension of the app you're going to test.
 >
 > **[1:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=76)** It's as much about learning what's coming, what's the same, what's changed, and what's completely new.
 >
-> **[1:23](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=83)** It's a chance to think about a test strategy, but also a product strategy.
+> **[1:23](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=83)** It's a chance to think about a test strategy, but also a [[Product Strategy]].
 >
 > **[1:27](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=87)** Prepping for alpha test is part brainstorming, and part leveraging past experience.
 >
@@ -856,7 +846,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=156)** You want your test to be comprehensive, because successfully passing the benchmark should suggest your product quality is excellent.
 >
-> **[2:43](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=163)** With app testing, there are obvious hardware choices for benchmarking, like types of phones, and mobile operating systems.
+> **[2:43](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=163)** With app testing, there are obvious [[Hardware]] choices for benchmarking, like types of phones, and mobile operating systems.
 >
 > **[2:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=170)** Depending on the app, there could be other hardware requirements, like accessories, communication, or networking tools.
 >
@@ -870,7 +860,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=201)** For example, here on the screen, I have a list of phone brands on top, versions of the operating system on the side.
 >
-> **[3:28](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=208)** You can see the beta version of the Android OS is failing in my test.
+> **[3:28](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=208)** You can see the beta version of the [[Android]] OS is failing in my test.
 >
 > **[3:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980&t=212)** However, earlier versions seem solid.
 >
@@ -906,14 +896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Product Strategy]] (1), [[Android]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using external testers for alpha
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980)
+#### [Using external testers for alpha](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=8)** However, if there are some important devices that are hard to find, you might consider soliciting outside testers to evaluate your software during the alpha phase.
 >
-> **[0:18](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=18)** Locating technically skilled external testers is a good compromise to dealing with limited resources or hardware constraints.
+> **[0:18](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=18)** Locating technically skilled external testers is a good compromise to dealing with limited resources or [[Hardware]] constraints.
 >
 > **[0:27](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=27)** External alpha testing follows the same methodical approach to meeting benchmarks as an internal alpha.
 >
@@ -981,20 +970,19 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=208)** External testers can be a valuable resource to help expand and improve an alpha program.
 >
-> **[3:33](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=213)** Many technical people out there like to contribute their technical skills to help improve products they like.
+> **[3:33](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=213)** Many technical people out there like to contribute their technical skills to help improve [[Microsoft Products|products]] they like.
 >
 > **[3:39](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/using-external-testers-for-alpha?u=76281980&t=219)** More important, they're an inexpensive resource compared to trying to locate the necessary hardware and software you need to test.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), data (1), teams (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risks in preparation for alpha
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980)
+#### [Risks in preparation for alpha](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1016,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980&t=71)** Another important risk to note in planning is the constantly changing mobile platform.
 >
-> **[1:17](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980&t=77)** Updates, releases, and new hardware could impact the viability of the product if they aren't incorporated into the test benchmarks.
+> **[1:17](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980&t=77)** Updates, releases, and new [[Hardware]] could impact the viability of the product if they aren't incorporated into the test benchmarks.
 >
 > **[1:25](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/risks-in-preparation-for-alpha?u=76281980&t=85)** However, some of these things may not even be available when you are preparing for your test.
 >
@@ -1078,14 +1066,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Hardware]] (2), teams (1), management (1), game (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying alpha topics and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-alpha-topics-and-goals?u=76281980)
+#### [Identifying alpha topics and goals](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-alpha-topics-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,15 +1190,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), feature (2), management (1), teams (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design the alpha test plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980)
+#### [Design the alpha test plan](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1274,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=226)** Your plan will also contain a section covering the topics and goals you have identified.
 >
-> **[3:51](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=231)** Your plan needs these for reference, for a system configuration and to ensure that they're completed as part of your quality project.
+> **[3:51](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=231)** Your plan needs these for reference, for a [[System Configuration]] and to ensure that they're completed as part of your quality project.
 >
 > **[3:59](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=239)** You may also want to tie your topic and goals to use cases so you can align them in how people will actually use the app.
 >
@@ -1307,7 +1292,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=275)** Your plan should include system specifications for achieving your testing goals.
 >
-> **[4:40](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=280)** Items like required hardware, mobile operating systems, and specific applications necessary for compatibility should be included to identify what is needed to be tested, as well as what needs to be supported at product release.
+> **[4:40](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=280)** Items like required [[Hardware]], mobile operating systems, and specific applications necessary for compatibility should be included to identify what is needed to be tested, as well as what needs to be supported at product release.
 >
 > **[4:56](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=296)** This could also include specific app-related functional testing.
 >
@@ -1319,7 +1304,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=321)** This becomes important as new hardware gets released and impacts the performance of your app.
 >
-> **[5:27](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=327)** A lot of what we have covered can be augmented by using artificial intelligence.
+> **[5:27](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=327)** A lot of what we have covered can be augmented by using [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[5:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/design-the-alpha-test-plan-26548260?u=76281980&t=332)** It's absolutely one of the most powerful resources available to us presently.
 >
@@ -1343,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Hardware]] (2), next (1), [[System Configuration]] (1), functional (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[System Configuration]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -1352,14 +1337,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Nailing down test resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980)
+#### [Nailing down test resources](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=0)** - [Instructor] Whether you run a quality team for a large company, or you're testing for yourself, you need resources to make your project successful.
 >
-> **[0:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=8)** Hardware, software, tools and time all require working with others both inside and outside your company to be properly coordinated and executed.
+> **[0:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=8)** [[Hardware]], software, tools and time all require working with others both inside and outside your company to be properly coordinated and executed.
 >
 > **[0:18](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=18)** You can't just assume these things will be in place when your test starts.
 >
@@ -1393,11 +1377,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=119)** Of course, you might have various apps you need to test the product.
 >
-> **[2:02](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=122)** You may also need access to developer accounts, test accounts for the platform, as well as subscription to things like iTunes Connect and Google Play.
+> **[2:02](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=122)** You may also need access to developer accounts, test accounts for the platform, as well as subscription to things like iTunes Connect and [[Google]] Play.
 >
 > **[2:12](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=132)** Software isn't limited just to the test devices.
 >
-> **[2:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=136)** You may also need to register infrastructure tools such as a bug tracking application like JIRA.
+> **[2:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=136)** You may also need to register infrastructure tools such as a bug tracking application like [[Jira]].
 >
 > **[2:22](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/nailing-down-test-resources?u=76281980&t=142)** And if you decided to incorporate outside resources, software like Centercode may need to be set up.
 >
@@ -1463,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), management (2), application (2), product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Google]] (1), [[Jira]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** itunes (1)
@@ -1472,12 +1456,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Executing your alpha schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980)
+#### [Executing your alpha schedule](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=0)** - [Instructor] The term slip is a scary word in development.
+> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=0)** - [Instructor] The term slip is a scary [[Microsoft Word|word]] in development.
 >
 > **[0:03](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=3)** It refers to something that impacts a schedule and causes the end date of a product release to move out.
 >
@@ -1487,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=26)** I have yet to meet a developer who could deliver an error-free product yet, quality teams are often given the blame for schedule issues.
 >
-> **[0:34](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=34)** By managing your alpha schedule carefully and allocating sufficient time for potential serious issues, you can put a rest on the finger pointing and actually anticipate potential scheduling issues.
+> **[0:34](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=34)** By managing your alpha schedule carefully and allocating sufficient time for potential serious issues, you can put a [[Representational State Transfer (REST)|rest]] on the finger pointing and actually anticipate potential scheduling issues.
 >
 > **[0:45](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=45)** Here are some best practices for properly designing a test schedule with time included for potentially serious issues, and a regular testing regimen.
 >
@@ -1541,7 +1524,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=171)** Your schedule has to have priority.
 >
-> **[2:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=174)** If you're working in an agile environment, align your schedule to work within the framework of the scrum team.
+> **[2:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=174)** If you're working in an [[Agile Development|agile]] environment, align your schedule to work within the framework of the [[Scrum]] team.
 >
 > **[3:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-alpha-schedule?u=76281980&t=180)** Scrum is a great way to keep your focus on the team's needs and your planned goals.
 >
@@ -1559,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Word|Word]] (3), [[Scrum]] (3), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Scrum]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3), refers to (1), means that (1)
 > **Best Practices:** remember to (2)
 > **Speakers:** - [instructor] (1)
@@ -1569,8 +1552,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating customer validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980)
+#### [Integrating customer validation](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,7 +1572,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980&t=40)** Customer validation is often called beta testing, but it can take a lot of different formats.
 >
-> **[0:46](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980&t=46)** Beta testing is only one flavor of testing that allows users to add their input into your product design.
+> **[0:46](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980&t=46)** Beta testing is only one flavor of testing that allows users to add their input into your [[Product Design]].
 >
 > **[0:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980&t=53)** While these other processes do exist, we will focus on the value of beta tests, and planning for them effectively.
 >
@@ -1638,15 +1620,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (3), next (1)
+> **Frameworks & Libraries:** [[Product Design]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying beta topics and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980)
+#### [Identifying beta topics and goals](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=98)** First the beta test goals should be based upon the results of your alpha test.
 >
-> **[1:42](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=102)** You will need to analyze what you learned and what areas you want to focus on as part of your mobile testing.
+> **[1:42](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=102)** You will need to analyze what you learned and what areas you want to focus on as part of your [[Mobile Testing]].
 >
 > **[1:48](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=108)** It makes little sense to channel the energy of testers in evaluating the areas of the product you have confidence in working right.
 >
@@ -1702,7 +1683,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=130)** It might even be helpful to select your topic areas as goals and just provide guidance on what they need to test.
 >
-> **[2:17](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=137)** Also there are significant differences to Android and IOS.
+> **[2:17](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=137)** Also there are significant differences to [[Android]] and IOS.
 >
 > **[2:20](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=140)** If you are testing both, you may have to formulate identical, yet slightly altered goals for each platform rather then assume testers can navigate their way through these differences.
 >
@@ -1716,15 +1697,15 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=174)** Goals for beta tests can focus on any area of your mobile product.
 >
-> **[2:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=178)** Unlike alpha tests, a beta goal can be a use case, an app, or a hardware interaction or even experiences.
+> **[2:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=178)** Unlike alpha tests, a beta goal can be a use case, an app, or a [[Hardware]] interaction or even experiences.
 >
-> **[3:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=185)** A beta test is about letting your customer interact with your product in measuring that can take a lot of different forms.
+> **[3:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=185)** A beta test is about letting your customer interact with your product in measuring that can take a lot of different [[Forms]].
 >
 > **[3:11](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=191)** Goals executed during the beta test help drive the release of the product.
 >
 > **[3:15](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=195)** The beta test phase is typically at the very end of the development cycle.
 >
-> **[3:20](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=200)** Feedback from the test is designed to act as a gateway for whether or not your app is ready to hit Google Play and the App Store.
+> **[3:20](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=200)** Feedback from the test is designed to act as a gateway for whether or not your app is ready to hit [[Google]] Play and the App Store.
 >
 > **[3:28](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/identifying-beta-topics-and-goals?u=76281980&t=208)** Your goal should address your biggest questions and concerns.
 >
@@ -1744,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Mobile Testing]] (1), next (1), [[Android]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Mobile Testing]] (1), [[Android]] (1), [[Hardware]] (1), [[Forms]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ios (1)
 > **UI Navigation:** select the (1)
@@ -1753,8 +1734,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - just (1)
 
-#### Designing your beta test plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980)
+#### [Designing your beta test plan](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1810,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=199)** Segmentations can also be based on how testers use your product.
 >
-> **[3:22](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=202)** Feedback some Android users might deliver is likely to be different than your iOS testers because your app approaches are featured differently.
+> **[3:22](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=202)** Feedback some [[Android]] users might deliver is likely to be different than your iOS testers because your app approaches are featured differently.
 >
 > **[3:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=212)** Segmentations aren't about balance.
 >
@@ -1840,7 +1820,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=223)** Beyond the demographics, you'll also need technical segmentations.
 >
-> **[3:48](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=228)** These are what people need to have to use your product, broken down by software and hardware necessary to cover your core demographics.
+> **[3:48](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=228)** These are what people need to have to use your product, broken down by software and [[Hardware]] necessary to cover your core demographics.
 >
 > **[3:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=234)** If you're testing both Android and iOS, that would be a natural segmentation.
 >
@@ -1848,7 +1828,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=243)** The point is there is a differentiating factor that could impact the results of the test.
 >
-> **[4:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=248)** When you are in this process, consider using artificial intelligence to assist in the process.
+> **[4:08](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=248)** When you are in this process, consider using [[Artificial Intelligence (AI)|artificial intelligence]] to assist in the process.
 >
 > **[4:14](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/designing-your-beta-test-plan-26541339?u=76281980&t=254)** It can accelerate your plan design and improve your output.
 >
@@ -1874,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (3), [[Android]] (2), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Code Identifiers:** ios (2), iphones (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
@@ -1882,8 +1862,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Recruiting users
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980)
+#### [Recruiting users](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1925,7 +1904,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=117)** Locating users isn't always easy.
 >
-> **[2:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=120)** However, a good place to start is with your company's social networking tools, Facebook, Twitter, LinkedIn, and even YouTube, all have methods for communicating with people who are interested in your products and who might be suitable beta candidates.
+> **[2:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=120)** However, a good place to start is with your company's social networking tools, Facebook, Twitter, [[LinkedIn]], and even YouTube, all have methods for communicating with people who are interested in your [[Microsoft Products|products]] and who might be suitable beta candidates.
 >
 > **[2:14](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=134)** If you maintain a support database, a marketing registration page, or sales website where you gather user data, these can be valuable resources for locating testers.
 >
@@ -1959,17 +1938,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributing your Android app
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980)
+#### [Distributing your Android app](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=0)** - [Instructor] When it's time to get your software into the hands of your testers, there's a lot of options on Android.
+> **[0:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=0)** - [Instructor] When it's time to get your software into the hands of your testers, there's a lot of options on [[Android]].
 >
 > **[0:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=5)** Each of them are functional, but some are easier than others.
 >
@@ -1981,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=26)** On Android, you can approach the issue in one of three ways.
 >
-> **[0:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=29)** The first is using Google's Play Console.
+> **[0:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=29)** The first is using [[Google]]'s Play Console.
 >
 > **[0:32](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-android-app-26545257?u=76281980&t=32)** The Play Beta tool allows you to create a link that you can distribute to users.
 >
@@ -2029,7 +2007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (5), [[Google]] (3), functional (1), application (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Android]] (5), [[Google]] (3)
 > **Env Vars:** apk (1), ftp (1), nda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), install (1)
@@ -2037,8 +2015,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributing your iOS app
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-ios-app-26548261?u=76281980)
+#### [Distributing your iOS app](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/distributing-your-ios-app-26548261?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,7 +2073,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), teams (1), web (1), [[Security]] (1)
 > **Code Identifiers:** itunes (3), ios (2), iphone (2), ipad (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** udid (1)
@@ -2104,8 +2080,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Executing your beta schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980)
+#### [Executing your beta schedule](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,7 +2106,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=60)** This is why it's so important to have a clear calendar prepared and shared with your team.
 >
-> **[1:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=65)** All that time, you should start working on configuration of important tools like customer validation software, like Centercode, your bug tracking system, and your app distribution products.
+> **[1:05](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=65)** All that time, you should start working on configuration of important tools like customer validation software, like Centercode, your bug tracking system, and your app distribution [[Microsoft Products|products]].
 >
 > **[1:17](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=77)** This is also an important time to engage company lawyers for your non-disclosure agreement and any licensing agreements.
 >
@@ -2167,7 +2142,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=168)** This will ensure they're all on board for the few weeks while you have their attention.
 >
-> **[2:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=173)** If your company uses an agile method, align your test plan with the team.
+> **[2:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=173)** If your company uses an [[Agile Development|agile]] method, align your test plan with the team.
 >
 > **[2:57](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=177)** Before the project is entering test, sit down with your plan and the project owner and make certain your test goals match up with the sprint goals.
 >
@@ -2177,7 +2152,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=196)** However, in Agile, you may be working alongside the team and making real time adjustments to ensure testing aligns with your most recent sprint goals.
 >
-> **[3:25](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=205)** Once the project starts, you'll want to make certain your tester feedback is part of your scrum deliverables that is shared every day with the team.
+> **[3:25](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=205)** Once the project starts, you'll want to make certain your tester feedback is part of your [[Scrum]] deliverables that is shared every day with the team.
 >
 > **[3:33](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/executing-your-beta-schedule-26545258?u=76281980&t=213)** Allow for wiggle room on the schedule and don't be stuck on particular dates.
 >
@@ -2189,7 +2164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (2), [[Scrum]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -2199,8 +2174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking feedback forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980)
+#### [Taking feedback forward](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2228,7 +2202,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=74)** You can do this by creating a document that covers the outstanding problems.
 >
-> **[1:19](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=79)** This document can be a spreadsheet, a Word document, or even an email.
+> **[1:19](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=79)** This document can be a spreadsheet, a [[Microsoft Word|Word]] document, or even an email.
 >
 > **[1:24](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=84)** Depending on the bug tracking system you have in place, you could also document it there.
 >
@@ -2248,7 +2222,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=143)** The document sets expectations that issues need to be addressed prior to entertaining a new version of the software.
 >
-> **[2:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=149)** In an Agile environment, the team may even take the data you share as part of the sprint and use it as exit criteria.
+> **[2:29](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=149)** In an [[Agile Development|Agile]] environment, the team may even take the data you share as part of the sprint and use it as exit criteria.
 >
 > **[2:37](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=157)** In this case, you should work with the product owner early on to set priorities for a post release sprint to address top issues and work it into an update strategy.
 >
@@ -2266,7 +2240,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=219)** Doing these tests gives you the confidence that the development team isn't simply sending through unchanged versions of the app and establishes confidence in your tests with developers.
 >
-> **[3:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=230)** Some quality teams don't have the authority to push back on products and regression testing is mandatory.
+> **[3:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=230)** Some quality teams don't have the authority to push back on [[Microsoft Products|products]] and regression testing is mandatory.
 >
 > **[3:56](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980&t=236)** They have to take every submission given to them.
 >
@@ -2276,13 +2250,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with common issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980)
+#### [Dealing with common issues](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2370,7 +2343,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=222)** If a product isn't solid enough to function during your test, it's not worth your time to spend your energy trying to make it work.
 >
-> **[3:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=230)** Quality's job is to test functional products, not make products functional.
+> **[3:50](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=230)** Quality's job is to test functional [[Microsoft Products|products]], not make products functional.
 >
 > **[3:55](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=235)** In beta, bad software can kill a project.
 >
@@ -2390,7 +2363,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=289)** You have a plan and you need to do your best to follow it.
 >
-> **[4:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=293)** Part of the experience of dealing with these problems is building trust with your development partners.
+> **[4:53](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=293)** Part of the experience of dealing with these problems is [[Building Trust]] with your development partners.
 >
 > **[4:58](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/dealing-with-common-issues?u=76281980&t=298)** When you handle these issues professionally and effectively, it promotes the relationship you have with these people.
 >
@@ -2402,14 +2375,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), functional (2), [[Microsoft Products|Products]] (2), feature (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Building Trust]] (1)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Riding the critical path
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980)
+#### [Riding the critical path](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,7 +2443,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=157)** You don't need to be a 100% accurate with your predictions, but what you say about what will happen in the future is important.
 >
-> **[2:45](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=165)** Forecasting how things are going in test and providing accurate predictions about results gives your partners confidence you understand the product and the process.
+> **[2:45](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=165)** [[Forecasting]] how things are going in test and providing accurate predictions about results gives your partners confidence you understand the product and the process.
 >
 > **[2:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=174)** Speak with data as your primary source of evidence.
 >
@@ -2491,7 +2463,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=227)** Try to avoid politics.
 >
-> **[3:49](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=229)** In an office environment, people can sometimes take sides.
+> **[3:49](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=229)** In an [[Microsoft Office|office]] environment, people can sometimes take sides.
 >
 > **[3:52](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/riding-the-critical-path?u=76281980&t=232)** Human beings place value on relationships, and sometimes people leverage those relationships to get what they want.
 >
@@ -2511,13 +2483,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), data (3), [[Forecasting]] (1), [[Microsoft Office|Office]] (1), teams (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1)
 
-#### Core values of test planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980)
+#### [Core values of test planning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2575,7 +2546,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=154)** Even the smallest bit of data from a past project that's useful to development or you is a big win.
 >
-> **[2:42](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=162)** Documentation can take a lot of forms, you might be sharing feedback about a tracking system, you may have created some notes for testing, you might have even taken the time to write instructions to use a product.
+> **[2:42](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=162)** Documentation can take a lot of [[Forms]], you might be sharing feedback about a tracking system, you may have created some notes for testing, you might have even taken the time to write instructions to use a product.
 >
 > **[2:54](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=174)** Whatever you do, keep a record of it because a lot of quality testing is done again and again.
 >
@@ -2597,7 +2568,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=225)** The quality team owns this part of the product and has to be an advocate for the customer during development.
 >
-> **[3:52](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=232)** The real goal of all quality testing is to build better products.
+> **[3:52](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=232)** The real goal of all quality testing is to build better [[Microsoft Products|products]].
 >
 > **[3:56](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/core-values-of-test-planning?u=76281980&t=236)** The mobile platform has a very easy onboarding experience and the uninstall process is even easier.
 >
@@ -2611,7 +2582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (5), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
@@ -2622,8 +2593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2649,7 +2619,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (1)
 > **Speakers:** - [narrator] (1)
 
 

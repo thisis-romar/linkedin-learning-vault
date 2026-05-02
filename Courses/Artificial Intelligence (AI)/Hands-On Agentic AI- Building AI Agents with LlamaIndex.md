@@ -85,18 +85,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=0)** - AI agents have the power to change the way you do business.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=0)** - [[AI Agents]] have the power to change the way you do business.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=5)** If you have wondered how to build one, this course is for you.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=9)** My name is Kumaran Ponnambalam.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=11)** In this course, we will go over the basics of building AI agents with LlamaIndex.
+> **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=11)** In this course, we will go over the basics of building AI agents with [[LlamaIndex]].
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980&t=17)** We will implement popular agentic patterns like planning, tool use, reflection, and multi-agent systems, using both pre-built templates and custom workflows.
 >
@@ -106,15 +105,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[LlamaIndex]] (2), power (1), business (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[LlamaIndex]] (2)
 > **Speakers:** - ai (1)
 
-#### Setting up codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980)
+#### [Setting up codespaces](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=0)** - [Instructor] The code for this course is available in the GitHub project "Hands-on Agentic AI: Building AI agents with LlamaIndex."
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=0)** - [Instructor] The code for this course is available in the [[GitHub]] project "Hands-on Agentic AI: Building [[AI Agents]] with [[LlamaIndex]]."
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=11)** To create a workspace, go to code and select Create Code Space on Main.
 >
@@ -124,19 +122,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=26)** The environment is set up now.
 >
-> **[0:29](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=29)** Open the notebook Code 01XX: A Basic Llama Agent.
+> **[0:29](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=29)** Open the notebook Code 01XX: A Basic [[LLaMA]] Agent.
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=36)** The first cell contains all the dependencies needed for the codes.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=40)** Run the cell.
 >
-> **[0:44](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=44)** It is recommended to use Python version 3.10 to run the exercises for this course.
+> **[0:44](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=44)** It is recommended to use [[Python (Programming Language)|Python]] version 3.10 to run the exercises for this course.
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/setting-up-codespaces-25227384?u=76281980&t=53)** Once the dependencies are successfully installed, we are ready to run with this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[GitHub]] (1), [[LlamaIndex]] (1), [[LLaMA]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[AI Agents]] (1), [[LlamaIndex]] (1), [[LLaMA]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** python (1)
 > **Versions:** version 3 (1)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agentic AI: A review
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980)
+#### [Agentic AI: A review](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=7)** What is agentic AI?
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=9)** This is generative AI that is designed to operate autonomously with minimal human intervention, make decisions, and take actions towards specific goals.
+> **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=9)** This is [[Generative AI]] that is designed to operate autonomously with minimal human intervention, make decisions, and take actions towards specific goals.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=20)** If you are not familiar with the concepts of a agentic AI, I highly recommend further reading before proceeding with this course.
 >
@@ -169,31 +166,30 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=46)** The tool use pattern is used to select the right tool from a tool set to solve a specific problem, then identify the inputs to the tool, invoke the tool, and return the results.
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=57)** The routing pattern is used to route a request to alternate destinations by analyzing the input and context of the request.
+> **[0:57](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=57)** The [[Routing]] pattern is used to route a request to alternate destinations by analyzing the input and context of the request.
 >
 > **[1:06](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=66)** The reflection pattern is used to review outputs, artifacts, or decisions, provide constructive feedback, and improve accuracy.
 >
-> **[1:15](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=75)** The multi-agent pattern is used to create applications, where multiple independent AI agents can work together to accomplish a complex task.
+> **[1:15](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=75)** The multi-agent pattern is used to create applications, where multiple independent [[AI Agents]] can work together to accomplish a complex task.
 >
 > **[1:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980&t=86)** We will be implementing examples for few of the patterns in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Routing]] (1), [[AI Agents]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents in LlamaIndex
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980)
+#### [AI agents in LlamaIndex](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=0)** - [Instructor] In this course, we will be building AI agents with LlamaIndex.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=0)** - [Instructor] In this course, we will be building [[AI Agents]] with [[LlamaIndex]].
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=5)** In this video, let's explore the capabilities that LlamaIndex provides for building AI agents.
 >
-> **[0:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=13)** LlamaIndex has become popular in the generative AI world for its capabilities and ease of use.
+> **[0:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=13)** LlamaIndex has become popular in the [[Generative AI]] world for its capabilities and ease of use.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=20)** It's an open-source framework that enables development of GenAI applications.
 >
@@ -201,9 +197,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=32)** It supports building blocks for building popular GenAI use cases.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=37)** It provides wrappers for integrating with most of the popular GenAI large language models, or LLMs, including OpenAI, Llama, Gemini, and Minstral.
+> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=37)** It provides wrappers for integrating with most of the popular GenAI [[Large Language Models (LLM)|large language models]], or LLMs, including OpenAI, [[LLaMA]], [[Gemini]], and Minstral.
 >
-> **[0:49](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=49)** It supports retrieval augmentation capabilities, including support for an array of vector databases, chunking techniques, embedding models, and retrieval strategies.
+> **[0:49](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=49)** It supports retrieval augmentation capabilities, including support for an array of [[Vector Databases]], chunking techniques, embedding models, and retrieval strategies.
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=61)** Recently, it has added support for AI agents, also.
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=71)** It has a few pre-built templates for quickly building AI agents.
 >
-> **[1:16](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=76)** The most popular of them is the React template, which we will use in this course.
+> **[1:16](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=76)** The most popular of them is the [[React.js|React]] template, which we will use in this course.
 >
 > **[1:22](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=82)** It has a vast array of community sources tools and tool specs.
 >
@@ -231,23 +227,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (6), ai (5), [[Generative AI]] (1), open-source (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (6), [[AI Agents]] (5), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Exercise Files:** template (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and toolspecs in LlamaIndex
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980)
+#### [Tools and toolspecs in LlamaIndex](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=0)** - [Instructor] LlamaIndex provides an extensive set of tools and tool specs as part of [LlamaHub.ai](https://LlamaHub.ai).
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=0)** - [Instructor] [[LlamaIndex]] provides an extensive set of tools and tool specs as part of [LlamaHub.ai](https://LlamaHub.ai).
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=7)** Let's explore [LlamaHub.ai](https://LlamaHub.ai) in this video.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=11)** This is a portal for community sources and tools that can be quickly used with the LlamaIndex framework for building generative AI capabilities, including AI agents.
+> **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=11)** This is a portal for community sources and tools that can be quickly used with the LlamaIndex framework for building [[Generative AI]] capabilities, including [[AI Agents]].
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=23)** For example, let's explore embeddings.
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=77)** A tool spec contains a group of related function calls to integrate with another service.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=84)** Let's explore such tools for Google.
+> **[1:24](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=84)** Let's explore such tools for [[Google]].
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=88)** On searching for Google, we see a number of tools and tool specs.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=117)** It's part of the LlamaIndex Tools Google package.
 >
-> **[2:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=123)** Let's click on the view on GitHub.
+> **[2:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=123)** Let's click on the view on [[GitHub]].
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/tools-and-toolspecs-in-llamaindex-25234295?u=76281980&t=127)** On clicking on examples, we see sample code on how to integrate with Gmail, Google Calendar, and Google search.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), ai (5), [[LlamaIndex]] (4), [[Search]] (4), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[LlamaIndex]] (4), [[AI Agents]] (3), [[Generative AI]] (1), [[GitHub]] (1)
 > **Documentation:** spec (5)
 > **URLs:** [llamahub.ai](https://llamahub.ai) (2)
 > **UI Navigation:** click on (2)
@@ -306,12 +301,11 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 
-#### Set up LLM and tools for a LlamaIndex agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980)
+#### [Set up LLM and tools for a LlamaIndex agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=0)** - [Instructor] Let's now get into building a small LlamaIndex agent.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=0)** - [Instructor] Let's now get into building a small [[LlamaIndex]] agent.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=4)** In this video, we will set up an LLM to use for the agent and also a few basic tools.
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=26)** LlamaIndex provides integrations to a variety of LLM implementations.
 >
-> **[0:32](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=32)** In this course, we will use Azure Open AI based GPT-4.0 model as our LLM.
+> **[0:32](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=32)** In this course, we will use [[Microsoft Azure|Azure]] Open AI based [[GPT-4]].0 model as our LLM.
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=38)** Let's first configure this model for use in our AI agent.
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=134)** Let's explore how the functions are set up.
 >
-> **[2:17](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=137)** We can make any Python function as a tool.
+> **[2:17](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=137)** We can make any [[Python (Programming Language)|Python]] function as a tool.
 >
 > **[2:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-llm-tools-for-a-llamindex-agent?u=76281980&t=140)** For this, it needs to follow certain conventions.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), [[Microsoft Azure|Azure]] (6), ai (5), [[LlamaIndex]] (4), [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LlamaIndex]] (4), [[GPT-4]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (10), gpt (2), apa (2), url (2)
 > **Prerequisites:** set up (5), configure (1), setup (1)
 > **CLI Commands:** find (4), make (1), python (1)
@@ -390,8 +384,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and execute a LlamaIndex agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980)
+#### [Create and execute a LlamaIndex agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980&t=15)** We can create the SUM tool and product tool by using this abstraction and applying it on the functions we created.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980&t=25)** For the agent, we use the prebuilt React agent available in LAMA Index.
+> **[0:25](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980&t=25)** For the agent, we use the prebuilt [[React.js|React]] agent available in LAMA Index.
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-a-llamaindex-agent?u=76281980&t=30)** We will discuss React concepts in the next chapter.
 >
@@ -449,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), llm (2), product (2), ai (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Env Vars:** llm (2), lama (2), sum (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -461,14 +454,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ReAct?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980)
+#### [What is ReAct?](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980&t=0)** - [Instructor] Before we proceed with the exercises, let's quickly discuss the ReAct framework, which we will use in these exercises later.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980&t=0)** - [Instructor] Before we proceed with the exercises, let's quickly discuss the [[React.js|ReAct]] framework, which we will use in these exercises later.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980&t=8)** The ReAct framework is a popular framework for building AI agents.
+> **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980&t=8)** The ReAct framework is a popular framework for building [[AI Agents]].
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980&t=13)** It was originally published as a paper and then adopted by popular agent frameworks.
 >
@@ -516,22 +508,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), [[React.js|React]] (5), next (3), prompt (2), ai (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[AI Agents]] (1)
 > **Env Vars:** llm (7)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Healthcare ReAct assistant: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980)
+#### [Healthcare ReAct assistant: Design](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=0)** - Let's now build a practical use case for AI agents.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=0)** - Let's now build a practical use case for [[AI Agents]].
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=4)** The healthcare assistant.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=6)** We will use this use case to demonstrate how an agent can be built using the React framework in LAMA Index.
+> **[0:06](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=6)** We will use this use case to demonstrate how an agent can be built using the [[React.js|React]] framework in LAMA Index.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/healthcare-react-assistant-design-25224598?u=76281980&t=13)** What are the functions of this healthcare assistant?
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[React.js|React]] (2), database (2), llm (2), ai (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[AI Agents]] (1)
 > **Env Vars:** lama (2), llm (2), rag (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** spec (2)
@@ -589,12 +580,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - let (1)
 
-#### Set up Wikipedia tools for healthcare assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980)
+#### [Set up Wikipedia tools for healthcare assistant](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=0)** - [Instructor] The implementation for the healthcare assistant is available in the exercise notebook code_02_XX, A Healthcare Assistant Agent with React.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=0)** - [Instructor] The implementation for the healthcare assistant is available in the exercise notebook code_02_XX, A Healthcare Assistant Agent with [[React.js|React]].
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=11)** Do note that this example is for illustrative purposes only and should not be used in healthcare environments without required regulatory guardrails.
 >
@@ -604,13 +594,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=32)** In addition for building a Vector database, we also need an embedding model.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=37)** We will use the text embedding three large model configured in the same Azure account as the LLM.
+> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=37)** We will use the text embedding three large model configured in the same [[Microsoft Azure|Azure]] account as the LLM.
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=45)** Do note that we are using the settings class to store these models.
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=50)** This is to enable them to be used during the vector database creation process.
 >
-> **[0:56](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=56)** To create the Wikipedia tools, we will use the Wikipedia tool spec available in Llama Hub.
+> **[0:56](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=56)** To create the Wikipedia tools, we will use the Wikipedia tool spec available in [[LLaMA]] Hub.
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-wikipedia-tools-for-healthcare-assistant-25227381?u=76281980&t=63)** We simply load the tool spec and create a list of tools out of it.
 >
@@ -626,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (4), llm (3), database (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Azure|Azure]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (3)
 > **Documentation:** spec (3)
 > **Warnings:** note that (2)
@@ -635,18 +625,17 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** similar to (1)
 
-#### Set up RAG for medications
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980)
+#### [Set up RAG for medications](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=0)** - [Instructor] Now we will proceed to create the medications tool using out of the box LlamaIndex capabilities to set up a vector database.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=0)** - [Instructor] Now we will proceed to create the medications tool using out of the box [[LlamaIndex]] capabilities to set up a vector database.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=9)** We will use an in-memory vector store provided by LlamaIndex natively.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=14)** For production implementations, it's recommended to use alternate vector databases like Pinecone or Milvus.
+> **[0:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=14)** For production implementations, it's recommended to use alternate [[Vector Databases]] like [[Pinecone]] or Milvus.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=23)** The list of medications and dosages are available in the medications and dosages.JSON file that is part of the exercise files under the datasets directory.
+> **[0:23](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=23)** The list of medications and dosages are available in the medications and dosages.[[JSON]] file that is part of the exercise files under the datasets directory.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=35)** This JSON file only contains a small list of popular medications for illustration purposes.
 >
@@ -670,11 +659,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=98)** We also provide a description of the tool that can be used by the LLM to understand its capabilities.
 >
-> **[1:46](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=106)** Now that the tools are ready, we will proceed to set up and execute a React agent in the next video.
+> **[1:46](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-rag-for-medications-25232389?u=76281980&t=106)** Now that the tools are ready, we will proceed to set up and execute a [[React.js|React]] agent in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (5), [[JSON]] (4), database (3), data (2), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (5), [[JSON]] (4), [[Vector Databases]] (1), [[Pinecone]] (1), [[React.js|React]] (1)
 > **Env Vars:** json (4), rag (1), llm (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** dosages.json (1)
@@ -683,12 +672,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up and execute the healthcare agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980)
+#### [Set up and execute the healthcare agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=0)** - [Instructor] Let's now use the tools we created to build a React agent.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=0)** - [Instructor] Let's now use the tools we created to build a [[React.js|React]] agent.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=4)** For the list of tools, we concatenate the Wikipedia tools list with the medication tool.
 >
@@ -698,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=19)** For this, we create a context with descriptions that contain the persona of the agent, the tools available, and how the tools should be used.
 >
-> **[0:30](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=30)** Then we create a React agent for the healthcare assistant with the prebuilt function in LlamaIndex.
+> **[0:30](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=30)** Then we create a React agent for the healthcare assistant with the prebuilt function in [[LlamaIndex]].
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=37)** We provide the list of tools, the LLM, and the context as inputs.
 >
@@ -708,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=57)** The LLM first goes through the thought process and decides that it needs to use the tool.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=62)** For this, the LLM chooses the query engine tool that is built on the medications JSON file.
+> **[1:02](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=62)** For this, the LLM chooses the query engine tool that is built on the medications [[JSON]] file.
 >
 > **[1:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-execute-the-healthcare-agent?u=76281980&t=69)** This is the action.
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), llm (4), [[LlamaIndex]] (2), prompt (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[LlamaIndex]] (2), [[JSON]] (1)
 > **Env Vars:** llm (4), json (1)
 > **Speakers:** - [instructor] (1)
 
@@ -733,12 +721,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarization agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980)
+#### [Summarization agent design](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980&t=0)** - [Instructor] In this chapter, we will explore how to implement the reflection pattern for agents with LlamaIndex.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980&t=0)** - [Instructor] In this chapter, we will explore how to implement the reflection pattern for agents with [[LlamaIndex]].
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980&t=8)** Reflection is the use of an LLM to review the output of another LLM or person, and use that feedback to improve the output.
 >
@@ -794,13 +781,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (5), llm (5), prompt (3), application (1), product (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (5)
 > **Env Vars:** llm (5)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the introspection agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-the-introspection-agent-25227382?u=76281980)
+#### [Create the introspection agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-the-introspection-agent-25227382?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +832,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), prompt (2), next (1)
 > **Code Identifiers:** self_reflection_agent_worker (2), main_agent_worker (2), llama_index (1), introspective_agent_worker (1), chat_history (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -854,8 +839,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the introspection agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-introspection-agent-25234291?u=76281980)
+#### [Execute the introspection agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-introspection-agent-25234291?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +895,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1)
 > **Code Identifiers:** introspective_agent (3), is_done (2), llama_index (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -922,14 +905,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to LlamaIndex workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980)
+#### [Intro to LlamaIndex workflows](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=0)** - [Instructor] A workflow is a sequence of steps or actions that are executed to accomplish a task.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=8)** LlamaIndex supports the concept of workflows, which can help in building custom and powerful AI agents.
+> **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=8)** [[LlamaIndex]] supports the concept of workflows, which can help in building custom and powerful [[AI Agents]].
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=16)** What is a LlamaIndex workflow?
 >
@@ -971,7 +953,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=105)** We will build a simple non-AI workflow later in the chapter.
 >
-> **[1:50](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=110)** Workflows can be used to build generative AI applications that can contain pre-processing steps.
+> **[1:50](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=110)** Workflows can be used to build [[Generative AI]] applications that can contain pre-processing steps.
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=116)** LLM calls, and post-processing steps.
 >
@@ -987,18 +969,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (7), ai (4), [[Programming]] (1), [[Generative AI]] (1), llm (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), [[AI Agents]] (2), [[Generative AI]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### LlamaIndex workflow components
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980)
+#### [LlamaIndex workflow components](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=0)** - [Instructor] Building a workflow in LlamaIndex requires a few building blocks.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=0)** - [Instructor] Building a workflow in [[LlamaIndex]] requires a few building blocks.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=5)** Let's explore what these building blocks are, and then review a sample workflow.
 >
@@ -1034,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=91)** The definition of the step specifies which events will trigger the step and which events can be emitted by the step.
 >
-> **[1:40](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=100)** A workflow step otherwise is a regular Python code that can perform any function, including computations, calling other functions or accessing third-party services.
+> **[1:40](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=100)** A workflow step otherwise is a regular [[Python (Programming Language)|Python]] code that can perform any function, including computations, calling other functions or accessing third-party services.
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/llamaindex-workflow-components-25232392?u=76281980&t=112)** The step, like a regular class member function, can access instance variables.
 >
@@ -1098,15 +1079,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (7), data (2), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (2), defined as (1)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing data in LlamaIndex workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980)
+#### [Managing data in LlamaIndex workflows](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980&t=30)** There are a few options that exist for managing data in a workflow.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980&t=35)** There are three options available for data sharing and management in workflows.
+> **[0:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980&t=35)** There are three options available for [[Data Sharing]] and management in workflows.
 >
 > **[0:41](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/managing-data-in-llamaindex-workflows-25228380?u=76281980&t=41)** First, there are instance variables.
 >
@@ -1150,17 +1130,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), management (1), ai (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### A simple LlamaIndex workflow: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980)
+#### [A simple LlamaIndex workflow: Design](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=0)** - [Instructor] Let's discuss the design of the simple workflow that we will build for utilizing LlamaIndex Workflow framework.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=0)** - [Instructor] Let's discuss the design of the simple workflow that we will build for utilizing [[LlamaIndex]] Workflow framework.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=8)** Let's begin by defining the requirements for this workflow.
 >
@@ -1174,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=29)** The goal for this exercise is to illustrate how workflows are created and executed in LlamaIndex.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=37)** We will utilize various building blocks that we discussed earlier, namely workflows, steps, events, and data management.
+> **[0:37](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=37)** We will utilize various building blocks that we discussed earlier, namely workflows, steps, events, and [[Data Management]].
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/a-simple-llamaindex-workflow-design-25227383?u=76281980&t=47)** Here is the simple workflow we want to build.
 >
@@ -1202,13 +1181,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (2), ai (2), data (1), management (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (2), [[Data Management]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build and execute a simple LlamaIndex workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980)
+#### [Build and execute a simple LlamaIndex workflow](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=9)** This essentially initializes the Async IO library for running workflows asynchronously.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=16)** This is not needed for notebooks, but if we are building Python executable services, then this is required.
+> **[0:16](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=16)** This is not needed for notebooks, but if we are building [[Python (Programming Language)|Python]] executable services, then this is required.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=24)** We begin by importing a set of classes from the workflow package.
 >
@@ -1278,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=173)** Inside the step, we read the current number of iterations from the event, the max number of iterations from the instance variable and the current result from the context.
 >
-> **[3:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=183)** We essentially exercise all three data management methods.
+> **[3:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=183)** We essentially exercise all three [[Data Management]] methods.
 >
 > **[3:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=188)** Then we check if the maximum number of iterations is reached.
 >
@@ -1290,7 +1268,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=205)** If this code appears disjointed, I recommend going through the design once again to understand how the steps and the events work together.
 >
-> **[3:34](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=214)** LlamaIndex provides a function, draw all possible flows to draw a picture of the workflow.
+> **[3:34](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=214)** [[LlamaIndex]] provides a function, draw all possible flows to draw a picture of the workflow.
 >
 > **[3:40](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=220)** This shows the actual workflow that was implemented.
 >
@@ -1318,11 +1296,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=281)** The debug messages show the steps being invoked and the events that are triggered at each step.
 >
-> **[4:47](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=287)** Now, we will proceed to implement an AI React agent using workflows in the next chapter.
+> **[4:47](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/build-execute-a-simple-llamaindex-workflow?u=76281980&t=287)** Now, we will proceed to implement an AI [[React.js|React]] agent using workflows in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), data (1), management (1), [[LlamaIndex]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Management]] (1), [[LlamaIndex]] (1), [[React.js|React]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1334,8 +1312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Doctor scheduling assistant: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980)
+#### [Doctor scheduling assistant: Design](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1355,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=35)** It also triggers an appointment request for the doctor.
 >
-> **[0:39](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=39)** In a real-life scenario, the system can actually set up an appointment by integrating with the scheduling system in the doctor's office.
+> **[0:39](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=39)** In a real-life scenario, the system can actually set up an appointment by integrating with the scheduling system in the doctor's [[Microsoft Office|office]].
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=48)** For the sake of this exercise, though, it will merely add a request record to a CSV file.
 >
@@ -1365,7 +1342,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=63)** First, we have a vector database about doctors.
 >
-> **[1:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=67)** This is created from a JSON file that contains a list of doctors, their specialty, and years of experience.
+> **[1:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=67)** This is created from a [[JSON]] file that contains a list of doctors, their specialty, and years of experience.
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980&t=74)** The doctor search tool is built over this vector database.
 >
@@ -1383,25 +1360,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), database (4), [[Microsoft Office|Office]] (1), [[JSON]] (1), llm (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[JSON]] (1)
 > **Env Vars:** csv (2), json (1), llm (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the doctor database tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980)
+#### [Set up the doctor database tool](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=0)** - [Instructor] The code for this chapter is in the notebook code_05_xx ReAct agent with Workflows.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=0)** - [Instructor] The code for this chapter is in the notebook code_05_xx [[React.js|ReAct]] agent with Workflows.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=7)** Similar to other exercises, we will start by setting up the LLM and the embedding models.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=14)** Now, we proceed to set up the Doctor database tool.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=20)** We have a JSON file Doctors database.json in the datasets folder with a list of 10 doctors, their specialisties, and years of experience.
+> **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=20)** We have a [[JSON]] file Doctors database.json in the datasets folder with a list of 10 doctors, their specialisties, and years of experience.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-database-tool-25230380?u=76281980&t=31)** This is a small sample and a real-life database will have many more doctors and more information about them.
 >
@@ -1421,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[JSON]] (3), llm (2), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[React.js|React]] (1)
 > **Env Vars:** llm (2), json (2)
 > **Code Identifiers:** llama_index (2), doctor_tool (1)
 > **File Paths:** database.json (1)
@@ -1430,8 +1406,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the doctor scheduling tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-scheduling-tool-25232391?u=76281980)
+#### [Set up the doctor scheduling tool](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-scheduling-tool-25232391?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,17 +1438,16 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-scheduling-tool-25232391?u=76281980&t=70)** It will return false otherwise We have a test code commanded out that can be used to test the function in isolation.
 >
-> **[1:18](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-scheduling-tool-25232391?u=76281980&t=78)** Next, we create a tool based on this function, using the function tool class in LlamaIndex.
+> **[1:18](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-doctor-scheduling-tool-25232391?u=76281980&t=78)** Next, we create a tool based on this function, using the function tool class in [[LlamaIndex]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LlamaIndex]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **Env Vars:** csv (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up custom events for scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980)
+#### [Set up custom events for scheduling](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980&t=4)** The embedded image shows the workflow that we will create for the exercise.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980&t=10)** This workflow can be considered a template for React Agents that utilize tools.
+> **[0:10](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980&t=10)** This workflow can be considered a template for [[React.js|React]] Agents that utilize tools.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-custom-events-for-scheduling-25224599?u=76281980&t=15)** We can of course customize this workflow as needed for our use case.
 >
@@ -1527,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), next (3), [[React.js|React]] (1), prompt (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** prepare_chat_history (2), handle_llm_input (1), handle_tool_call (1), handle_llm (1)
 > **Env Vars:** llm (4)
 > **Cross-References:** in the next (1)
@@ -1535,12 +1509,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom workflow for scheduling assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-a-custom-workflow-for-scheduling-assistant-25234294?u=76281980)
+#### [Create a custom workflow for scheduling assistant](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-a-custom-workflow-for-scheduling-assistant-25234294?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-a-custom-workflow-for-scheduling-assistant-25234294?u=76281980&t=0)** - [Instructor] Let's now implement the ReAct workflow for the doctor scheduling agent.
+> **[0:00](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-a-custom-workflow-for-scheduling-assistant-25234294?u=76281980&t=0)** - [Instructor] Let's now implement the [[React.js|ReAct]] workflow for the doctor scheduling agent.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-a-custom-workflow-for-scheduling-assistant-25234294?u=76281980&t=6)** The imports are pretty similar to the workflow we created in the earlier course.
 >
@@ -1652,7 +1625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (16), next (5), prompt (3), [[React.js|React]] (2), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Env Vars:** llm (16)
 > **Cross-References:** later in (1), in the next (1)
 > **Prerequisites:** set up (2)
@@ -1660,8 +1633,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and execute the scheduling agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980)
+#### [Create and execute the scheduling agent](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1693,9 +1665,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=57)** The LLM requests the use of query engine tool to find the doctors who are cardiologists.
 >
-> **[1:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=64)** This then results in a query to the vector database to fetch the lists of doctors.
+> **[1:04](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=64)** This then results in a query to the vector database to [[Fetch]] the lists of doctors.
 >
-> **[1:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=69)** It finds one doctor, namely Dr. John Smith.
+> **[1:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=69)** It finds one doctor, namely Dr. [[John the Ripper|John]] Smith.
 >
 > **[1:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/create-execute-the-scheduling-agent?u=76281980&t=73)** The LLM then generates a response and triggers the stop event.
 >
@@ -1737,7 +1709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), prompt (2), next (2), database (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Fetch]] (1)
 > **Env Vars:** llm (5), csv (4), csp (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -1749,8 +1721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multi-agent systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980)
+#### [Multi-agent systems](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,15 +1757,14 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980&t=98)** This can leverage existing best-of-breed agents, and minimize custom work.
 >
-> **[1:44](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980&t=104)** In this chapter, we will build a multi-agent system that also uses the routing pattern.
+> **[1:44](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980&t=104)** In this chapter, we will build a multi-agent system that also uses the [[Routing]] pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Speakers:** - [presenter] (1)
 
-#### Multi-agent hospital application: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980)
+#### [Multi-agent hospital application: Design](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,7 +1788,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980&t=63)** We will reuse the scheduling agent that we built in chapter five for this purpose.
 >
-> **[1:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980&t=68)** Note that one of them uses the prebuilt react agent, while another uses the custom agent.
+> **[1:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980&t=68)** Note that one of them uses the prebuilt [[React.js|react]] agent, while another uses the custom agent.
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-hospital-application-design-25234292?u=76281980&t=75)** The patient can send a request like find a neurologist, and request an appointment for Beth at the earliest.
 >
@@ -1830,14 +1800,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Search]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing agents in a multi-agent application
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980)
+#### [Importing agents in a multi-agent application](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1845,7 +1814,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=9)** There are many patterns available to integrate agents with a master agent.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=14)** The agents can be available as a service exposing a REST API.
+> **[0:14](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=14)** The agents can be available as a service exposing a [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=19)** They can also be built as packages that the master agent can import inside the application.
 >
@@ -1859,18 +1828,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=47)** These can be ignored.
 >
-> **[0:49](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=49)** In a production scenario, though, it's recommended to implement agents as microservices.
+> **[0:49](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/importing-agents-in-a-multi-agent-application-25230376?u=76281980&t=49)** In a production scenario, though, it's recommended to implement agents as [[Microservices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microservices]] (1)
 > **Env Vars:** rest (1), api (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the multi-agent application
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980)
+#### [Set up the multi-agent application](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1880,7 +1848,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=8)** For this, we need to convert these agents as tools.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=12)** The first agent, namely the healthcare agent, is built using the prebuilt react framework.
+> **[0:12](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=12)** The first agent, namely the healthcare agent, is built using the prebuilt [[React.js|react]] framework.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=18)** We can use the query engine tool to convert this agent into a healthcare agent tool.
 >
@@ -1900,7 +1868,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=72)** Here we use async IO to run the asynchronous function with the input.
 >
-> **[1:19](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=79)** Then we use the function tools featured in LlamaIndex to create the appointment scheduling tool.
+> **[1:19](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=79)** Then we use the function tools featured in [[LlamaIndex]] to create the appointment scheduling tool.
 >
 > **[1:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/set-up-the-multi-agent-application-25229360?u=76281980&t=86)** We then create the system prompt for the master agent.
 >
@@ -1914,15 +1882,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React.js|React]] (2), llm (2), prompt (2), [[LlamaIndex]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[LlamaIndex]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (2)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the multi-agent application
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980)
+#### [Execute the multi-agent application](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1901,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=17)** It then passes the request to this healthcare assistant.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=23)** That agent then goes through the ReAct process.
+> **[0:23](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=23)** That agent then goes through the [[React.js|ReAct]] process.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=26)** Here, it chooses its own query engine tool and returns the observation back to the master agent.
 >
@@ -1958,11 +1925,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=94)** We can see that this request is logged now in the Doctor appointment requests.csv file.
 >
-> **[1:42](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=102)** This completes our course on building AI agents with llama_index.
+> **[1:42](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/execute-the-multi-agent-application-25228379?u=76281980&t=102)** This completes our course on building [[AI Agents]] with llama_index.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[React.js|React]] (1), ai (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[AI Agents]] (1)
 > **Code Identifiers:** doctors_and_appointments (2), llama_index (1)
 > **File Paths:** requests.csv (1)
 > **CLI Commands:** find (1)
@@ -1975,8 +1942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/next-steps-25230379?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/next-steps-25230379?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1998,7 +1964,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (1), rag (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)

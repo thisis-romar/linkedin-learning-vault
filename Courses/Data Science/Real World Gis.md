@@ -117,14 +117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Need help with your GIS projects?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
+#### [Need help with your GIS projects?](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=0)** - Real world GIS projects are challenging and maybe you need some help.
 >
-> **[0:05](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=5)** In this course, I will show you real world GIS practices with data, with map projections and also online mapping and we'll do that with ArcGIS and ArcGIS Pro.
+> **[0:05](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=5)** In this course, I will show you real world GIS practices with data, with map projections and also online mapping and we'll do that with ArcGIS and [[ArcGIS Pro]].
 >
 > **[0:18](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=18)** I'll show you best practices to collect data using Survey123 and how to build online web maps and mapping applications using [arcgis.com](https://arcgis.com).
 >
@@ -132,23 +131,22 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=33)** I've been doing GIS for the last 30 years and I love helping students succeed in their professional work.
 >
-> **[0:40](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=40)** So if you're ready to get started, join me at LinkedIn Learning.
+> **[0:40](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980&t=40)** So if you're ready to get started, join me at [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (3), data (2), [[ArcGIS Pro]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (3)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Speakers:** - real (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980&t=0)** - [Instructor] There are no prerequisites in this course so if you're a beginner, you'll be able to excel.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980&t=0)** - [Instructor] There are no prerequisites in this course so if you're a beginner, you'll be able to [[Microsoft Excel|excel]].
 >
-> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980&t=6)** I will show you both ArcGIS, ArcMap, and ArcGIS Pro.
+> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980&t=6)** I will show you both ArcGIS, ArcMap, and [[ArcGIS Pro]].
 >
 > **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/what-you-should-know?u=76281980&t=11)** So some GIS experience in either will help you move faster through the course, but I try to assume everything is new, and there are exercise files with this course but you can use your own GIS data if you don't have access to them.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (3), data (3), [[Microsoft Excel|Excel]] (1), [[ArcGIS Pro]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[ArcGIS Pro]] (1)
 > **Env Vars:** gis (3)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -166,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where is the GIS data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
+#### [Where is the GIS data?](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,16 +180,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), gis (7)
 > **Env Vars:** gis (7)
 > **Speakers:** - [instructor] (1)
 
-#### How to consider the scale of GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980)
+#### [How to consider the scale of GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=0)** - [Instructor] GIS data come in different data forms.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=0)** - [Instructor] GIS data come in different data [[Forms]].
 >
 > **[0:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=3)** But one thing consistent with all GIS data is scale.
 >
@@ -216,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=81)** Here I've mapped by US state the percentage of people that have engaged with YouTube in the last 30 days.
 >
-> **[1:30](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=90)** The easiest way I found to get national data is from country statistical offices like a census bureau or a national statistics office.
+> **[1:30](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=90)** The easiest way I found to get national data is from country statistical offices like a census bureau or a national [[Statistics]] [[Microsoft Office|office]].
 >
 > **[1:41](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-consider-the-scale-of-gis-data?u=76281980&t=101)** So if you need that kind of data, do online searches first for those places in the country of your choice.
 >
@@ -236,14 +231,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), gis (8), [[Forms]] (1), [[Statistics]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Statistics]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gis (8)
 > **Cross-References:** in the last (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What spatial data are already in ArcGIS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980)
+#### [What spatial data are already in ArcGIS?](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=10)** And that's what I'm showing you here.
 >
-> **[0:12](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=12)** Inside these folders, we have a host of GIS data lots of GIS databases and layers that have a ton of attribute data.
+> **[0:12](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=12)** Inside these folders, we have a host of GIS data lots of GIS [[Databases]] and layers that have a ton of attribute data.
 >
 > **[0:23](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=23)** And so you'll use this most often in your workflows and in your projects that you do daily.
 >
@@ -291,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=128)** So we need to log in to do that.
 >
-> **[2:11](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=131)** Let me show you what that looks like in ArcGIS Pro.
+> **[2:11](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=131)** Let me show you what that looks like in [[ArcGIS Pro]].
 >
 > **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=135)** Here we are in ArcGIS Pro.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=226)** You can see that's the spatial scale that we're at.
 >
-> **[3:49](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=229)** If we zoom down, we can see an adjust.
+> **[3:49](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=229)** If we [[Zoom]] down, we can see an adjust.
 >
 > **[3:53](https://www.linkedin.com/learning/real-world-gis-22715766/what-spatial-data-are-already-in-arcgis?u=76281980&t=233)** A new spatial layer is now the county layer.
 >
@@ -349,14 +343,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), gis (7), [[Search]] (4), [[ArcGIS Pro]] (4), business (4)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (4), [[Databases]] (1), [[Zoom]] (1)
 > **Env Vars:** gis (7), usa (2), esri (1)
 > **CLI Commands:** find (4), cd (1)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [instructor] (1)
 
-#### How to get local and state GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980)
+#### [How to get local and state GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +357,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980&t=3)** So let me show you how to get it.
 >
-> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980&t=6)** If you live or work in an urban area, there could be a local GIS office that has data and it might even host it online.
+> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980&t=6)** If you live or work in an urban area, there could be a local GIS [[Microsoft Office|office]] that has data and it might even host it online.
 >
 > **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-local-and-state-gis-data?u=76281980&t=15)** My university work is in Grand Rapids, Michigan, so let me show you what I do in my town.
 >
@@ -418,15 +411,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (14), data (14), [[Search]] (6), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** gis (14)
 > **UI Navigation:** click on (6), scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to get the USA national map data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980)
+#### [How to get the USA national map data](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,11 +464,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=133)** So here's the geography that we're interested in.
 >
-> **[2:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=137)** Now what we need to do now that we have our geography set is click on search products in the upper-left here.
+> **[2:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=137)** Now what we need to do now that we have our geography set is click on search [[Microsoft Products|products]] in the upper-left here.
 >
 > **[2:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=145)** It looks like there is one image connected with the search address I used.
 >
-> **[2:31](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=151)** If I click on the footprint option and I zoom out a little bit, you can see the footprint of the geography where this image resides.
+> **[2:31](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=151)** If I click on the footprint option and I [[Zoom]] out a little bit, you can see the footprint of the geography where this image resides.
 >
 > **[2:39](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-the-usa-national-map-data?u=76281980&t=159)** It basically gives you the aerial extent of the image.
 >
@@ -502,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), gis (6), [[Search]] (5), [[Microsoft Products|Products]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Zoom]] (1)
 > **Env Vars:** gis (6), jpeg (2), usgs (1), kml (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **CLI Commands:** find (1)
@@ -510,8 +502,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to get census GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980)
+#### [How to get census GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=245)** I choose the thing that I want, in this case, P1, and then I click on Download.
 >
-> **[4:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=251)** Now I have to confirm what level I want since there are multiple data products linked to P1.
+> **[4:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=251)** Now I have to confirm what level I want since there are multiple data [[Microsoft Products|products]] linked to P1.
 >
 > **[4:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=257)** In this case, I can't get the 2020 census, but I can get the 2010 census, so I will select that for the Summary File, which is what I want.
 >
@@ -595,11 +586,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=272)** Great, so now we've collected the geographic file and the data file, and that's how you download data from the Census Bureau.
 >
-> **[4:40](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=280)** Now we can unzip those files and do a join within ArcGIS Pro, and we can then use those files to visualize our geographic entities, in this case, total population by block group in the state of Michigan.
+> **[4:40](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-census-gis-data?u=76281980&t=280)** Now we can unzip those files and do a join within [[ArcGIS Pro]], and we can then use those files to visualize our geographic entities, in this case, total population by block group in the state of Michigan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), gis (5), web (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[ArcGIS Pro]] (1)
 > **Env Vars:** gis (5), tiger (5), kml (1), download (1), csv (1)
 > **CLI Commands:** find (8), unzip (1)
 > **UI Navigation:** click on (5), scroll down (1)
@@ -608,8 +599,7 @@ created: 2026-05-02
 > **File Paths:** download.csv (1)
 > **Definitions:** stands for (1)
 
-#### How to get Earth Explorer data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980)
+#### [How to get Earth Explorer data](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +707,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=361)** Now if you want to access this particular site, that's fine, and you can download the data, but it does have a cost.
 >
-> **[6:08](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=368)** So for example, you know, looking at the metadata here, you can see that to scan this, it's $30 per frame.
+> **[6:08](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=368)** So for example, you know, looking at the [[Metadata]] here, you can see that to scan this, it's $30 per frame.
 >
 > **[6:16](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=376)** So I have actually purchased some of the different images on this particular data set.
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 >
 > **[12:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=733)** Typically what I'll do is if I'm unfamiliar with a data set, I'll use this to find out what the resolution is in the image.
 >
-> **[12:21](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=741)** In this case, it looks like we have a panchromatic image available at 15 by 15 meters and then the rest is at 30 meters by 30 meters.
+> **[12:21](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=741)** In this case, it looks like we have a panchromatic image available at 15 by 15 meters and then the [[Representational State Transfer (REST)|rest]] is at 30 meters by 30 meters.
 >
 > **[12:30](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-get-earth-explorer-data?u=76281980&t=750)** We also can find the projection information here.
 >
@@ -863,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (57), [[Search]] (5), [[Metadata]] (4), cloud (2), next (2)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gis (1), usgs (1), kml (1), avhrr (1), ikonos (1)
 > **UI Navigation:** click on (3), checkbox (2), dropdown (1), select the (1)
 > **CLI Commands:** find (2), make (1)
@@ -872,16 +862,15 @@ created: 2026-05-02
 > **Versions:** 6.5 (1), 1.1 (1)
 > **URLs:** [usgs.gov](https://usgs.gov) (1)
 
-#### How to bring hosted GIS data into ArcGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980)
+#### [How to bring hosted GIS data into ArcGIS](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=0)** - [Instructor] All of the GIS data sites we've looked at so far are basically download data portals, but there are other options.
 >
-> **[0:09](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=9)** ArcGIS servers use REST endpoint protocols through a browser to serve GIS data.
+> **[0:09](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=9)** ArcGIS servers use [[Representational State Transfer (REST)|REST]] endpoint protocols through a browser to serve GIS data.
 >
-> **[0:16](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=16)** So let's access one together and see how that works to bring it into ArcGIS Pro.
+> **[0:16](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=16)** So let's access one together and see how that works to bring it into [[ArcGIS Pro]].
 >
 > **[0:22](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=22)** Here, I'm going to do a search for National Map REST service.
 >
@@ -917,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=96)** So I'll click on Add.
 >
-> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=99)** And now let's zoom in and take a look to see what kind of data we've gotten.
+> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=99)** And now let's [[Zoom]] in and take a look to see what kind of data we've gotten.
 >
 > **[1:44](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-hosted-gis-data-into-arcgis?u=76281980&t=104)** It's got here to the west of the United States and there are our Topo sheets they have loaded in.
 >
@@ -933,13 +922,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (6), [[ArcGIS Pro]] (4), gis (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[ArcGIS Pro]] (4), [[Zoom]] (2)
 > **Env Vars:** rest (6), url (4), gis (2), usgs (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Get GIS data for a specific geography
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-gis-data-for-a-specific-geography?u=76281980)
+#### [Challenge: Get GIS data for a specific geography](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-gis-data-for-a-specific-geography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,15 +943,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (3), data (3)
 > **Env Vars:** gis (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Get GIS data for a specific geography
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980)
+#### [Solution: Get GIS data for a specific geography](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980&t=36)** And we will download this.
 >
-> **[0:38](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980&t=38)** Now let me go ahead and unzip the data and then visualize that in ArcGIS Pro.
+> **[0:38](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980&t=38)** Now let me go ahead and unzip the data and then visualize that in [[ArcGIS Pro]].
 >
 > **[0:46](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-gis-data-for-a-specific-geography?u=76281980&t=46)** Extract, (indistinct).
 >
@@ -1003,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (2), [[ArcGIS Pro]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2)
 > **Env Vars:** gis (2)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** unzip (1)
@@ -1015,14 +1001,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding GIS data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
+#### [Understanding GIS data types](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=0)** - [Instructor] GIS data typically tries to represent reality.
 >
-> **[0:04](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=4)** The re-presentation or representation of places as points or polygons or images acts as a metaphor for reality, and as the mapmaker or cartographer, you have the variety of symbology available to you in ArcMap and ArcGIS Pro to visualize and enable design options for your data.
+> **[0:04](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=4)** The re-presentation or representation of places as points or polygons or images acts as a metaphor for reality, and as the mapmaker or cartographer, you have the variety of symbology available to you in ArcMap and [[ArcGIS Pro]] to visualize and enable design options for your data.
 >
 > **[0:24](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=24)** There are two main GIS data types.
 >
@@ -1032,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=46)** The data types have developed since the advent of the 1960s emergence of GIS in Canada, in England, and the United States, and through the work of several people in analytical cartography, vector data and raster data types became the dominant vocabulary.
 >
-> **[1:04](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=64)** With the advent of the personal computer in the 1980s, ESRI focus was on software application development of ArcInfo.
+> **[1:04](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=64)** With the advent of the personal computer in the 1980s, ESRI focus was on software [[Application Development]] of ArcInfo.
 >
 > **[1:13](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980&t=73)** According to the ESRI website, they first developed ArcInfo in 1982 for microcomputers, and by 1986, a PC version was available and distributed.
 >
@@ -1062,7 +1047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), gis (6), [[ArcGIS Pro]] (3), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[Application Development]] (1)
 > **Env Vars:** gis (6), esri (6)
 > **Versions:** 10.8 (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1070,8 +1055,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mastering vector GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980)
+#### [Mastering vector GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=6)** So you are a master of vector GIS data.
 >
-> **[0:10](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=10)** Vector GIS data in ArcGIS and ArcGIS Pro is either in the georelational or the geodatabase model.
+> **[0:10](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=10)** Vector GIS data in ArcGIS and [[ArcGIS Pro]] is either in the georelational or the geodatabase model.
 >
 > **[0:18](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=18)** The georelational vector data model is structured with a separate file system of associated files and is non-object-oriented.
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=32)** Now the second model is the geodatabase model which has a contained file system and is object oriented and most readily associated with the geodatabase file.
 >
-> **[0:43](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=43)** You will find both of these vector data structures are widely present in the available data that you can download.
+> **[0:43](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=43)** You will find both of these vector [[Data Structures]] are widely present in the available data that you can download.
 >
 > **[0:51](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=51)** The coverage vector data model was introduced with Arcinfo and just like the software sounds, arc describes geometry objects like points, lines and polygons, whereas info describes attribute information about the arcs.
 >
@@ -1097,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=82)** So let's take a look at the coverage file together.
 >
-> **[1:25](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=85)** Any coverage file will have a common file extension in a .cov, and here in Windows I've navigated to the exercise file of the coverage, so we can see a complex file structure associated with one coverage.
+> **[1:25](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=85)** Any coverage file will have a common file extension in a .cov, and here in [[Windows]] I've navigated to the exercise file of the coverage, so we can see a complex file structure associated with one coverage.
 >
 > **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=99)** The initial design of the coverage layer has multiple files associated with it.
 >
@@ -1143,13 +1127,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=247)** Let's turn our attention now to the geodatabase model.
 >
-> **[4:11](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=251)** Introduced in ArcView 8 or ArcGIS 8, the geodatabase model is a contained file system and a true relational database with all the advantages associated with database management.
+> **[4:11](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=251)** Introduced in ArcView 8 or ArcGIS 8, the geodatabase model is a contained file system and a true relational database with all the advantages associated with [[Database Management]].
 >
 > **[4:24](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=264)** Instead of a flat file system, the geodatabase stores the geography as objects.
 >
-> **[4:29](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=269)** So you can apply structured query language or SQL functions and operators on the geodatabase.
+> **[4:29](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=269)** So you can apply structured query language or [[SQL]] functions and operators on the geodatabase.
 >
-> **[4:37](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=277)** Esri's first model started with the personal geodatabase which was based on the Microsoft Jet database engine.
+> **[4:37](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=277)** Esri's first model started with the personal geodatabase which was based on the [[Microsoft]] Jet database engine.
 >
 > **[4:44](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-vector-gis-data?u=76281980&t=284)** The personal geodatabase has a two gigabyte storage limit.
 >
@@ -1239,7 +1223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), feature (12), [[Windows]] (7), [[ArcGIS Pro]] (6), gis (5)
+> **Frameworks & Libraries:** [[Windows]] (7), [[ArcGIS Pro]] (6), [[SQL]] (2), [[Microsoft]] (2), [[Data Structures]] (1)
 > **Env Vars:** gis (5), sql (2)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** click on (2), go to (1), navigate to (1), open the (1)
@@ -1248,16 +1232,15 @@ created: 2026-05-02
 > **Versions:** 2.7 (1)
 > **Cross-References:** later in (1)
 
-#### Mastering raster GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980)
+#### [Mastering raster GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=0)** - [Narrator] Mastering raster GIS data fundamentals will enable advanced analysis and cartography.
 >
-> **[0:07](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=7)** And unlike complicated vector data structures, the raster data model has a simple and elegant structure.
+> **[0:07](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=7)** And unlike complicated vector [[Data Structures]], the raster data model has a simple and elegant structure.
 >
-> **[0:13](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=13)** To begin, I want to show you the kinds of raster data supported in ArcGIS and ArcGIS Pro.
+> **[0:13](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=13)** To begin, I want to show you the kinds of raster data supported in ArcGIS and [[ArcGIS Pro]].
 >
 > **[0:20](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-raster-gis-data?u=76281980&t=20)** So let's do a quick internet search with Esri's great help feature.
 >
@@ -1347,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[ArcGIS Pro]] (8), [[Search]] (4), gis (2), feature (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (8), [[Data Structures]] (1)
 > **UI Navigation:** click on (4), scroll down (1), dropdown (1)
 > **Definitions:** is a  (4), means that (1)
 > **Env Vars:** gis (2), dem (2)
@@ -1356,8 +1339,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 
-#### How to choose the right GIS data formats for Projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980)
+#### [How to choose the right GIS data formats for Projects](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1375,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980&t=123)** Of course, raster lines like this have some symbology constraints since it's locked into the raster grid.
 >
-> **[2:10](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980&t=130)** If I zoom out, the line practically just disappears.
+> **[2:10](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980&t=130)** If I [[Zoom]] out, the line practically just disappears.
 >
 > **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-choose-the-right-gis-data-formats-for-projects?u=76281980&t=135)** But if we wanted to convert this line to a polyline, a vector entity, then we could actually have the ability to thicken and scale it and change the colors.
 >
@@ -1439,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (8), [[Zoom]] (4), data (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **Env Vars:** gis (8)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (1), for example (1)
@@ -1447,8 +1429,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Vectorization vs. rasterization
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-vectorization-vs-rasterization?u=76281980)
+#### [Challenge: Vectorization vs. rasterization](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-vectorization-vs-rasterization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,12 +1443,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Vectorization vs. rasterization
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980)
+#### [Solution: Vectorization vs. rasterization](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,7 +1456,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980&t=21)** Here I'll click on the city of Grand Rapids Limits and then I will search for shape file.
 >
-> **[0:27](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980&t=27)** There we go, download, here we are, and now unzip this, and then I'll bring it into ArcGIS Pro, and then we will convert it from vector to raster and evaluate it together.
+> **[0:27](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980&t=27)** There we go, download, here we are, and now unzip this, and then I'll bring it into [[ArcGIS Pro]], and then we will convert it from vector to raster and evaluate it together.
 >
 > **[0:42](https://www.linkedin.com/learning/real-world-gis-22715766/solution-vectorization-vs-rasterization?u=76281980&t=42)** Okay, here I've added the layer in ArcGIS Pro.
 >
@@ -1511,7 +1490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (2), [[ArcGIS Pro]] (2)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2)
 > **CLI Commands:** unzip (1)
 > **UI Navigation:** click on (1)
 > **Warnings:** be aware (1)
@@ -1522,8 +1501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to understand the latitude, longitude, and scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
+#### [How to understand the latitude, longitude, and scale](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=6)** A graticule is just a geographic grid system.
 >
-> **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=11)** Here we are in Arcgis Pro and I've added different layers main graticule lines, and graticule.
+> **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=11)** Here we are in [[ArcGIS Pro]] and I've added different layers main graticule lines, and graticule.
 >
 > **[0:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=17)** You'll find both of these shape files in the grid folder for this chapter in the exercise files.
 >
@@ -1547,7 +1525,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=63)** For example, if we wanted to locate a feature like the Eiffel Tower in Paris, we could describe its location using latitude and longitude.
 >
-> **[1:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=73)** So let's go ahead and use the locate tool and zoom into that location.
+> **[1:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=73)** So let's go ahead and use the locate tool and [[Zoom]] into that location.
 >
 > **[1:18](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980&t=78)** Here I'm going to click on locate and I'll type in Eiffel Tower and we will find the Eiffel Tower together.
 >
@@ -1627,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (2), feature (1), [[Search]] (1), database (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[ArcGIS Pro]] (2)
 > **Versions:** 29.952 (2), 48.85832 (2), 51.4992 (1), 0.85832 (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1636,8 +1614,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### What is a developable surface?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980)
+#### [What is a developable surface?](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1652,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980&t=146)** Thus, we have cylindrical projections, conic projections, and azimuthal projections.
 >
-> **[2:32](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980&t=152)** We can move the developable surface around the globe too, to produce different forms or projections.
+> **[2:32](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980&t=152)** We can move the developable surface around the globe too, to produce different [[Forms]] or projections.
 >
 > **[2:39](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-a-developable-surface?u=76281980&t=159)** The transverse projection or the oblique angle projection are examples.
 >
@@ -1695,15 +1672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **Env Vars:** gis (1)
 > **Definitions:** we call this (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using geoids, spheroids, and datums in GIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/using-geoids-spheroids-and-datums-in-gis?u=76281980)
+#### [Using geoids, spheroids, and datums in GIS](https://www.linkedin.com/learning/real-world-gis-22715766/using-geoids-spheroids-and-datums-in-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,15 +1751,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (1)
 > **Env Vars:** nad27 (5), wgs84 (3), nad83 (2), grs80 (2), usgs (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mastering projections in GIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980)
+#### [Mastering projections in GIS](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,7 +1807,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=146)** The symbol representing a point on a reference globe with a unit radius is called a Tissot's indicatrix.
 >
-> **[2:33](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=153)** So let's look at that in our globe together within ArcGIS Pro.
+> **[2:33](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=153)** So let's look at that in our globe together within [[ArcGIS Pro]].
 >
 > **[2:38](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=158)** Here within ArcGIS Pro, I've added the layer for indicatrix circles and you'll find this in the Tissot's indicatrix folder within the exercise files of this chapter.
 >
@@ -2007,7 +1981,7 @@ created: 2026-05-02
 >
 > **[11:36](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=696)** So let me show you that now.
 >
-> **[11:37](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=697)** Here under tools and geoprocessing, we click on toolboxes and we can go down to data management tools, projections and transformations and then we can actually project one layer from one kind of projection into another kind of projection permanently.
+> **[11:37](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=697)** Here under tools and geoprocessing, we click on toolboxes and we can go down to [[Data Management]] tools, projections and transformations and then we can actually project one layer from one kind of projection into another kind of projection permanently.
 >
 > **[11:58](https://www.linkedin.com/learning/real-world-gis-22715766/mastering-projections-in-gis?u=76281980&t=718)** So if you're doing real world GIS, that means that you should be putting your layers into the same projection if you're conducting an analysis.
 >
@@ -2015,7 +1989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), data (3), gis (2), hit (2), management (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (3), [[Data Management]] (1)
 > **Definitions:** means that (4), is a  (4), is called (1), is an  (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **Analogies:** such as (4), for example (1), picture (1)
@@ -2024,8 +1998,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), earlier in (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: On-the-fly projection vs. project
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-on-the-fly-projection-vs-project?u=76281980)
+#### [Challenge: On-the-fly projection vs. project](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-on-the-fly-projection-vs-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2050,8 +2023,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat futuristic music) (1)
 
-#### Solution: On-the-fly projection vs. project
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-on-the-fly-projection-vs-project?u=76281980)
+#### [Solution: On-the-fly projection vs. project](https://www.linkedin.com/learning/real-world-gis-22715766/solution-on-the-fly-projection-vs-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,7 +2107,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **Env Vars:** utm (4), nad (2)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** make (1)
@@ -2147,12 +2118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Geospatial data collection basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
+#### [Geospatial data collection basics](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=0)** - [Narrator] When we consider the challenges associated with the geospatial data collection process, there are a few things you need to plan for to successfully complete your project.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=0)** - [Narrator] When we consider the challenges associated with the geospatial [[Data Collection]] process, there are a few things you need to plan for to successfully complete your project.
 >
 > **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=11)** Time and cost are variables that we're most interested in and they have sub components.
 >
@@ -2160,7 +2130,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=21)** In the planning process, time is one of the key considerations, and you can think of time as not only including the total amount of time it takes to complete the data collection, but also the cost in person hours to collect it.
 >
-> **[0:35](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=35)** Time takes on a variety of forms because of the interconnectedness of time to machines via persons.
+> **[0:35](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=35)** Time takes on a variety of [[Forms]] because of the interconnectedness of time to machines via persons.
 >
 > **[0:42](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=42)** And although it's difficult to plan for, the malfunction of machines and the data collection process always increases the total time, and it happens to me all the time.
 >
@@ -2168,7 +2138,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=65)** For my projects, I usually build in a 15% buffer into the total time needed to complete a project based on these variables that are often difficult to assess.
 >
-> **[1:16](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=76)** Now, for longer projects that take more than two or three weeks, that only include a handful of people or maybe just myself, I usually will call my IT department to see what updates they are planning, especially for the hardware updates that are coming.
+> **[1:16](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=76)** Now, for longer projects that take more than two or three weeks, that only include a handful of people or maybe just myself, I usually will call my IT department to see what updates they are planning, especially for the [[Hardware]] updates that are coming.
 >
 > **[1:32](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980&t=92)** Now, cost is the other variable to consider in the planning process.
 >
@@ -2182,18 +2152,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Hardware]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Hardware]] (2), [[Forms]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to create a spatial database from coordinates
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980)
+#### [How to create a spatial database from coordinates](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=0)** - [Instructor] One of the easiest ways to collect geospatial data, is from the world of online maps.
 >
-> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=6)** Let me show you two examples, first, with Google and then with online base maps, from Esri inside of ArcGIS Pro.
+> **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=6)** Let me show you two examples, first, with [[Google]] and then with online base maps, from Esri inside of [[ArcGIS Pro]].
 >
 > **[0:16](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=16)** So here we are in Google Maps, and let's build a geospatial database together.
 >
@@ -2201,7 +2170,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=35)** So here's how we're going to do that.
 >
-> **[0:36](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=36)** Here I've selected London for our location and I'm going to zoom in, let's say to the Tower Bridge.
+> **[0:36](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=36)** Here I've selected London for our location and I'm going to [[Zoom]] in, let's say to the Tower Bridge.
 >
 > **[0:43](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=43)** Yeah, let's go here.
 >
@@ -2225,7 +2194,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=110)** So now we're going to build that spatial data that I've copied from Google Maps.
 >
-> **[1:55](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=115)** Here I'm using Excel.
+> **[1:55](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=115)** Here I'm using [[Microsoft Excel|Excel]].
 >
 > **[1:56](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=116)** You could use Google Sheets or any other kind of spreadsheet software.
 >
@@ -2309,7 +2278,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=319)** All of our conversions from Excel spreadsheets have to go in to a geo-database and that's what's happening here.
 >
-> **[5:26](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=326)** So if you want it to go into a different geo-database outside of this project, or different databases that you've created within a project, you'll need to designate that here, in the Output Table location.
+> **[5:26](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=326)** So if you want it to go into a different geo-database outside of this project, or different [[Databases]] that you've created within a project, you'll need to designate that here, in the Output Table location.
 >
 > **[5:38](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=338)** We'll go ahead and use the default for this project of create spatial database geo-database.
 >
@@ -2369,7 +2338,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=478)** And so we can actually take this data and put it right into an Excel spreadsheet.
 >
-> **[8:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=483)** In fact, if you right click on a feature, you can copy the coordinates straight up, and even convert the coordinates to certain different kinds of forms like decimal degrees, degrees, minutes and seconds or even UTM coordinates if you need to.
+> **[8:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=483)** In fact, if you right click on a feature, you can copy the coordinates straight up, and even convert the coordinates to certain different kinds of [[Forms]] like decimal degrees, degrees, minutes and seconds or even UTM coordinates if you need to.
 >
 > **[8:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-create-a-spatial-database-from-coordinates?u=76281980&t=497)** And so this is a very nice quick way to just use ArcGIS Pro to do the same kind of database creation that I showed you in Google Maps.
 >
@@ -2377,7 +2346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), database (13), [[ArcGIS Pro]] (10), data (9), [[Google]] (8)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[ArcGIS Pro]] (10), [[Google]] (8), [[Zoom]] (2), [[Databases]] (1)
 > **Env Vars:** gis (5), wgs84 (1), utm (1)
 > **Versions:** 51.5 (1), 0.07 (1), 10.8 (1)
 > **UI Navigation:** click on (2), open the (1)
@@ -2386,8 +2355,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to add scanned map data and drone imagery to a spatial database
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980)
+#### [How to add scanned map data and drone imagery to a spatial database](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2433,7 +2401,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=123)** Here I'm going to always go from scan to control points.
 >
-> **[2:07](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=127)** In this case, I'm going to zoom into this area and get a closer view.
+> **[2:07](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=127)** In this case, I'm going to [[Zoom]] into this area and get a closer view.
 >
 > **[2:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=131)** I'm going to use my mouse scroll, press down on it to get the pan and pan this way to view those.
 >
@@ -2491,7 +2459,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=337)** I'm going to right-click on plan A, choose Properties, go to the source tab.
 >
-> **[5:42](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=342)** Let's build the statistics real quick.
+> **[5:42](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=342)** Let's build the [[Statistics]] real quick.
 >
 > **[5:45](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-add-scanned-map-data-and-drone-imagery-to-a-spatial-database?u=76281980&t=345)** And now here you can see as I scroll down and instead of saying unknown for the spatial reference, it's actually the Michigan south coordinate system.
 >
@@ -2759,7 +2727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (8), data (7), database (7), [[Zoom]] (5), next (5)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Statistics]] (1)
 > **UI Navigation:** right-click (10), click on (5), go to (3), open the (1), select the (1)
 > **CLI Commands:** make (7), find (3)
 > **Env Vars:** gis (4), rms (2)
@@ -2768,16 +2736,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### How to collect GIS data using ArcGIS Survey123
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980)
+#### [How to collect GIS data using ArcGIS Survey123](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=0)** - [Instructor] One of the most exciting software products developed by Esri is Survey123.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=0)** - [Instructor] One of the most exciting software [[Microsoft Products|products]] developed by Esri is Survey123.
 >
 > **[0:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=6)** This software is a powerful tool for collecting data in the field, but what is more powerful are the tools that let you build a survey instrument before you send your teams out to collect the data.
 >
-> **[0:18](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=18)** I want to show you how to use it for data collection and mapping.
+> **[0:18](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=18)** I want to show you how to use it for [[Data Collection]] and mapping.
 >
 > **[0:22](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=22)** Survey123 is an online Esri site where you can construct a survey for data collection.
 >
@@ -2803,7 +2770,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=96)** You will need to have an organizational account to log in.
 >
-> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=99)** Students at schools typically have this already set up for them, which is the same login that you'll use for ArcGIS Pro.
+> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=99)** Students at schools typically have this already set up for them, which is the same login that you'll use for [[ArcGIS Pro]].
 >
 > **[1:46](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=106)** If you don't have a login, sit back and let me show you what's possible and then you can decide if it's the best solution for your business.
 >
@@ -2813,7 +2780,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=123)** Now, let's create a project together.
 >
-> **[2:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=126)** Let's say that we're documenting trash cleanup on the coastal dunes and we want our dunes cleaned up for lots of reasons, but we also want to write a grant to support our coastal cleanup, so our map and statistics of trash locations on the dunes will help support that effort.
+> **[2:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=126)** Let's say that we're documenting trash cleanup on the coastal dunes and we want our dunes cleaned up for lots of reasons, but we also want to write a grant to support our coastal cleanup, so our map and [[Statistics]] of trash locations on the dunes will help support that effort.
 >
 > **[2:24](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=144)** So, I'm going to use this interactive web designer here on Survey123 to build our survey instrument.
 >
@@ -2917,7 +2884,7 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=462)** Now, by default the map just starts at a global view, but we can specify different places that we might want.
 >
-> **[7:52](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=472)** In this case, I'm going to go ahead and zoom down to the geography that my data collectors are actually going to be working in so that that is their default view when they start their project out in the field.
+> **[7:52](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=472)** In this case, I'm going to go ahead and [[Zoom]] down to the geography that my data collectors are actually going to be working in so that that is their default view when they start their project out in the field.
 >
 > **[8:07](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-collect-gis-data-using-arcgis-survey123?u=76281980&t=487)** So, here we're going to go to the West Michigan Dunes, and we are going to start right there.
 >
@@ -2987,7 +2954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), teams (3), [[ArcGIS Pro]] (2), web (2), next (2)
+> **Frameworks & Libraries:** [[Data Collection]] (7), [[ArcGIS Pro]] (2), [[Microsoft Products|Products]] (1), [[Statistics]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** picture (4), it's like (1)
@@ -2996,8 +2963,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Prerequisites:** you'll need (1), set up (1)
 
-#### Challenge: Georeference master
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-georeference-master?u=76281980)
+#### [Challenge: Georeference master](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-georeference-master?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3020,8 +2986,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Georeference master
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980)
+#### [Solution: Georeference master](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3035,7 +3000,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=40)** There we go.
 >
-> **[0:41](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=41)** Now I'm going to zoom down to Washington DC to the area of interest related to our 1874 scan.
+> **[0:41](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=41)** Now I'm going to [[Zoom]] down to Washington DC to the area of interest related to our 1874 scan.
 >
 > **[0:50](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=50)** Okay, that's pretty good.
 >
@@ -3131,7 +3096,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=237)** And now we've got a pretty good alignment.
 >
-> **[4:01](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=241)** Let's take a look at the rest of our map.
+> **[4:01](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=241)** Let's take a look at the [[Representational State Transfer (REST)|rest]] of our map.
 >
 > **[4:04](https://www.linkedin.com/learning/real-world-gis-22715766/solution-georeference-master?u=76281980&t=244)** All right.
 >
@@ -3197,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), gis (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Env Vars:** gis (1), jpeg (1)
@@ -3211,8 +3176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ArcGIS Online?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
+#### [What is ArcGIS Online?](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3242,7 +3206,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=95)** I'm going to click on Content here at the top.
 >
-> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=99)** My Content is the data management part of [arcgis.com](https://arcgis.com).
+> **[1:39](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=99)** My Content is the [[Data Management]] part of [arcgis.com](https://arcgis.com).
 >
 > **[1:45](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=105)** Notice, I have several layers of data that I'm using here and we have lots of different kinds of data.
 >
@@ -3322,7 +3286,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=317)** So let's click on Add, and now we have it added to our map.
 >
-> **[5:22](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=322)** Now that it's been added, we can zoom in or zoom out to this particular spatial layer.
+> **[5:22](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=322)** Now that it's been added, we can [[Zoom]] in or zoom out to this particular spatial layer.
 >
 > **[5:28](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=328)** We have, of course, a timeline that's given in this layer so it's time-enabled.
 >
@@ -3338,7 +3302,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=377)** If we wanted to, we could go through and add other layers such as from URLs.
 >
-> **[6:22](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=382)** Remember the map service REST endpoints that I talked about in a previous chapter dealing with the national map and getting data?
+> **[6:22](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=382)** Remember the map service [[Representational State Transfer (REST)|REST]] endpoints that I talked about in a previous chapter dealing with the national map and getting data?
 >
 > **[6:31](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=391)** Well here we could click on this and add the URLs from those REST endpoint services, or if we wanted to upload our own shapefiles or feature classes, we could do that right here.
 >
@@ -3364,13 +3328,13 @@ created: 2026-05-02
 >
 > **[7:40](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=460)** Now if I click on this, it takes me to a landing page.
 >
-> **[7:44](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=464)** Here is the landing page, and from this landing page, I can add in more details related to the metadata of this particular web map that I've created, or I could even add a new web app, so I could create a web app straight from this web map and I'll teach you how to do that in a later video.
+> **[7:44](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=464)** Here is the landing page, and from this landing page, I can add in more details related to the [[Metadata]] of this particular web map that I've created, or I could even add a new web app, so I could create a web app straight from this web map and I'll teach you how to do that in a later video.
 >
 > **[8:06](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980&t=486)** For now, what I want you to know is that [arcgis.com](https://arcgis.com) is a real game changer for interactive spatial data and is a powerful, powerful tool growing stronger in resources every day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), web (10), [[Search]] (4), feature (3), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Data Management]] (1), [[Metadata]] (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (8)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is an  (3), is a  (3)
@@ -3379,8 +3343,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
 
-#### How to bring data into ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980)
+#### [How to bring data into ArcGIS Online](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3400,7 +3363,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=54)** Now we're prompted to drag and drop our file into this window or search for it right here.
 >
-> **[1:01](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=61)** Here I have navigated in the Windows environment to my file so I'll grab it and drag it down.
+> **[1:01](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=61)** Here I have navigated in the [[Windows]] environment to my file so I'll grab it and drag it down.
 >
 > **[1:08](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=68)** First we deal with the fields.
 >
@@ -3480,7 +3443,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=265)** And now what I'll do is I'll choose save.
 >
-> **[4:27](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=267)** And now I'm going to zoom down into Grand Rapids where I am and take a look and see what we've got here.
+> **[4:27](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=267)** And now I'm going to [[Zoom]] down into Grand Rapids where I am and take a look and see what we've got here.
 >
 > **[4:34](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=274)** It looks like we have two different pockets actually, of hotspots.
 >
@@ -3500,11 +3463,11 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=333)** What kinds of interactive maps can you make?
 >
-> **[5:38](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=338)** And now let me show you how to take this data and bring it into Arcgis Pro to create a web map just like this.
+> **[5:38](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-bring-data-into-arcgis-online?u=76281980&t=338)** And now let me show you how to take this data and bring it into [[ArcGIS Pro]] to create a web map just like this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), web (5), next (3), [[Search]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Zoom]] (1), [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (8), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (2), [data.gov](https://data.gov) (1)
@@ -3513,12 +3476,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### How to build web maps from ArcGIS Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980)
+#### [How to build web maps from ArcGIS Pro](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=0)** - [Instructor] You can create powerful and effective web maps right inside of ArcGIS Pro because of the synergy of the software ecosystem created by Esri.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=0)** - [Instructor] You can create powerful and effective web maps right inside of [[ArcGIS Pro]] because of the synergy of the software ecosystem created by Esri.
 >
 > **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=11)** So let's jump in and make a web map together using ArcGIS Pro, export that to [arcgis.com](https://arcgis.com), and then view it together.
 >
@@ -3598,7 +3560,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=195)** Now, if we go into the table of the actual layer itself and update this, the table will be updated, but our geography will not.
 >
-> **[3:24](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=204)** I'll zoom to this layer.
+> **[3:24](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=204)** I'll [[Zoom]] to this layer.
 >
 > **[3:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=205)** And so essentially what will happen is the table will get updated, but this geography will not.
 >
@@ -3612,7 +3574,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=229)** What we'd like to do is we'd like to go ahead and get into this cell and actually update it, but double-clicking doesn't do anything.
 >
-> **[3:58](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=238)** And that's because text files, Excel files, and CSV files are considered read-only in ArcGIS Pro.
+> **[3:58](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=238)** And that's because text files, [[Microsoft Excel|Excel]] files, and CSV files are considered read-only in ArcGIS Pro.
 >
 > **[4:06](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=246)** So you have two options.
 >
@@ -3778,7 +3740,7 @@ created: 2026-05-02
 >
 > **[11:21](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=681)** Now, this is a folder location where you can place inside of [arcgis.com](https://arcgis.com), if you have a file folder structure already there, whatever you want.
 >
-> **[11:32](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=692)** In terms of the location of where this web map will be, remember, you're going to write this directly to [arcgis.com](https://arcgis.com) inside your Contents location, your data management area on [arcgis.com](https://arcgis.com).
+> **[11:32](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=692)** In terms of the location of where this web map will be, remember, you're going to write this directly to [arcgis.com](https://arcgis.com) inside your Contents location, your [[Data Management]] area on [arcgis.com](https://arcgis.com).
 >
 > **[11:46](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=706)** And so you could use the dropdown here to choose a particular folder.
 >
@@ -3974,7 +3936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (22), data (20), [[ArcGIS Pro]] (11), feature (6), hit (6)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (11), [[Zoom]] (2), [[Data Management]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (14), right-click (7), scroll down (6), go to (6), open the (2)
 > **Env Vars:** csv (7), gis (4), updated (4), wgs (3), dbf (3)
 > **CLI Commands:** make (11), find (6)
@@ -3983,8 +3945,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), previous video (1)
 > **Analogies:** similar to (2)
 
-#### How to make an online mapping application
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980)
+#### [How to make an online mapping application](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4008,7 +3969,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=70)** And now you can see I've got the same layer that I've served previously and it's loaded again.
 >
-> **[1:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=77)** So that's how we copied the rest service endpoint directly from the URL for that feature class that we created.
+> **[1:17](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=77)** So that's how we copied the [[Representational State Transfer (REST)|rest]] service endpoint directly from the URL for that feature class that we created.
 >
 > **[1:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=85)** Of course, I want to update some of the symbology here before I would save it and all of those things.
 >
@@ -4098,7 +4059,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=315)** So if we have lots of layers in our web mapping application by doing some of these options that we selected previously, we're giving our end user the ability to interact in our map.
 >
-> **[5:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=325)** Of course, they can go all around our map, and in fact, they can zoom out all the way to the world, right?
+> **[5:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=325)** Of course, they can go all around our map, and in fact, they can [[Zoom]] out all the way to the world, right?
 >
 > **[5:32](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=332)** And they can click on the home button and go right back to the view that we want them to see.
 >
@@ -4112,13 +4073,13 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=352)** Again, you could take any web maps that you create and build applications around them to give this wonderful, professional, sleek interface to the work that you do.
 >
-> **[6:04](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=364)** With so many templates and options for designing web mapping applications, Esri has truly built something special here in the synergy of moving between ArcGIS Pro and [arcgis.com](https://arcgis.com).
+> **[6:04](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=364)** With so many templates and options for designing web mapping applications, Esri has truly built something special here in the synergy of moving between [[ArcGIS Pro]] and [arcgis.com](https://arcgis.com).
 >
 > **[6:18](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-make-an-online-mapping-application?u=76281980&t=378)** So I hope you'll enjoy your next steps in building map applications which is my next challenge to you in the challenge video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (18), feature (7), application (6), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1), [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (6), scroll down (2), dropdown (1)
 > **Env Vars:** url (7)
 > **URLs:** [arcgis.com](https://arcgis.com) (3), [rgis.com](https://rgis.com) (1)
@@ -4127,8 +4088,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 
-#### Challenge: Make an online mapping application
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-an-online-mapping-application?u=76281980)
+#### [Challenge: Make an online mapping application](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-an-online-mapping-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4146,14 +4106,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2)
 > **CLI Commands:** make (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (enlightening music) (1)
 
-#### Solution: Make an online mapping application
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980)
+#### [Solution: Make an online mapping application](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4201,7 +4159,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=106)** Let me go grab one of those.
 >
-> **[1:49](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=109)** In this case, I'll choose the GeoJSON file which is a JavaScript file that contains spatial data and attribute data.
+> **[1:49](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=109)** In this case, I'll choose the GeoJSON file which is a [[JavaScript]] file that contains spatial data and attribute data.
 >
 > **[1:56](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=116)** So I'll download that and now I'll go back to my map interface, navigate to it.
 >
@@ -4385,7 +4343,7 @@ created: 2026-05-02
 >
 > **[9:20](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=560)** So I will select that, and there it is.
 >
-> **[9:25](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=565)** Now I'm going to zoom in just a little bit more to this particular Zoom level.
+> **[9:25](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=565)** Now I'm going to [[Zoom]] in just a little bit more to this particular Zoom level.
 >
 > **[9:30](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application?u=76281980&t=570)** That looks good to me.
 >
@@ -4417,7 +4375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), web (9), data (8), next (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[JavaScript]] (1)
 > **UI Navigation:** click on (7), go to (2), navigate to (1), select the (1), scroll down (1)
 > **Env Vars:** kml (3), csv (2), nebrh (2), gis (1), url (1)
 > **Cross-References:** go back to (2)
@@ -4431,8 +4389,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Get the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
+#### [Challenge: Get the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4440,25 +4397,24 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=9)** I will challenge you with a series of steps and then I will show you the solution I came up with.
 >
-> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=15)** I will show you both in ArcGIS and ArcGIS Pro.
+> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=15)** I will show you both in ArcGIS and [[ArcGIS Pro]].
 >
 > **[0:21](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=21)** This first challenge is to get the GIS data.
 >
-> **[0:24](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=24)** Here, I want you to focus on a search of GIS data in the city of Chicago, Illinois and I want you to try and download a text file like a CSV or an Excel spreadsheet and make sure that in that data there's location such as latitude and longitude.
+> **[0:24](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=24)** Here, I want you to focus on a search of GIS data in the city of Chicago, Illinois and I want you to try and download a text file like a CSV or an [[Microsoft Excel|Excel]] spreadsheet and make sure that in that data there's location such as latitude and longitude.
 >
 > **[0:46](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980&t=46)** And this challenge should take you about 15 minutes or less.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (2), [[ArcGIS Pro]] (1), [[Search]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gis (2), csv (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Get the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980)
+#### [Solution: Get the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4468,7 +4424,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980&t=12)** Here in my browser, I did a search for Chicago GIS, and I'm going to choose this first option here.
 >
-> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980&t=19)** Geographic Information Systems.
+> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980&t=19)** [[Geographic Information Systems (GIS)|Geographic Information Systems]].
 >
 > **[0:22](https://www.linkedin.com/learning/real-world-gis-22715766/solution-get-the-gis-data?u=76281980&t=22)** Here is the landing site for the city of Chicago and their GIS environment.
 >
@@ -4524,33 +4480,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), gis (4), [[Search]] (1), [[Geographic Information Systems (GIS)|Geographic information systems]] (1)
+> **Frameworks & Libraries:** [[Geographic Information Systems (GIS)|Geographic information systems]] (1)
 > **Env Vars:** gis (4), csv (3)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Challenge: Visualize the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980)
+#### [Challenge: Visualize the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980&t=0)** - [Instructor] Now that you have successfully downloaded your GIS data from the city of Chicago, let's go ahead and visualize that data in the software.
 >
-> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980&t=15)** Here you're going to bring that into either ArcGIS or ArcGIS Pro, and I'll show you both, and I want you to visualize that table data.
+> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980&t=15)** Here you're going to bring that into either ArcGIS or [[ArcGIS Pro]], and I'll show you both, and I want you to visualize that table data.
 >
 > **[0:25](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-visualize-the-gis-data?u=76281980&t=25)** This challenge should take you approximately 15 minutes or less.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (1), [[ArcGIS Pro]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Visualize the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980)
+#### [Solution: Visualize the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4558,7 +4512,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980&t=12)** First, we need to take a look at our data and make sure that our latitude and longitudes are inside that data set.
 >
-> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980&t=19)** So here I'm in Google Sheets and I'm going to open that CSV up and investigate it.
+> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980&t=19)** So here I'm in [[Google]] Sheets and I'm going to open that CSV up and investigate it.
 >
 > **[0:26](https://www.linkedin.com/learning/real-world-gis-22715766/solution-visualize-the-gis-data?u=76281980&t=26)** Here I'll go to file and import and upload.
 >
@@ -4640,7 +4594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), gis (3), hit (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** csv (4), wgs (4), gis (3)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), dropdown (1)
 > **Definitions:** is a  (2)
@@ -4649,8 +4603,7 @@ created: 2026-05-02
 > **Speakers:** - [speaker] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: GIS attribute data exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-gis-attribute-data-exploration?u=76281980)
+#### [Challenge: GIS attribute data exploration](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-gis-attribute-data-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4662,13 +4615,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (2), data (2)
 > **Env Vars:** gis (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: GIS attribute data exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-gis-attribute-data-exploration?u=76281980)
+#### [Solution: GIS attribute data exploration](https://www.linkedin.com/learning/real-world-gis-22715766/solution-gis-attribute-data-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4726,13 +4677,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **UI Navigation:** open the (1), click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Challenge: Isolate the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-isolate-the-gis-data?u=76281980)
+#### [Challenge: Isolate the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-isolate-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4744,13 +4693,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (2), data (2)
 > **Env Vars:** gis (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Isolate the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980)
+#### [Solution: Isolate the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4832,7 +4779,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980&t=160)** Now I've isolated only those libraries that open on Tuesday at noon.
 >
-> **[2:46](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980&t=166)** Now let's do the same thing in ArcGIS Pro.
+> **[2:46](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980&t=166)** Now let's do the same thing in [[ArcGIS Pro]].
 >
 > **[2:50](https://www.linkedin.com/learning/real-world-gis-22715766/solution-isolate-the-gis-data?u=76281980&t=170)** In this case, let's look at the layer.
 >
@@ -4862,7 +4809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (2), [[ArcGIS Pro]] (2), gis (1), database (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** is an  (2)
@@ -4871,8 +4818,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Construct new GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-construct-new-gis-data?u=76281980)
+#### [Challenge: Construct new GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-construct-new-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4886,13 +4832,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), gis (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light electronic music) (1)
 
-#### Solution: Construct new GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980)
+#### [Solution: Construct new GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4938,7 +4882,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980&t=85)** So let's work with that.
 >
-> **[1:28](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980&t=88)** Now let me show you how to do that in ArcGIS Pro.
+> **[1:28](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980&t=88)** Now let me show you how to do that in [[ArcGIS Pro]].
 >
 > **[1:32](https://www.linkedin.com/learning/real-world-gis-22715766/solution-construct-new-gis-data?u=76281980&t=92)** So here we are in ArcGIS Pro and Esri has not changed much with this particular feature.
 >
@@ -5014,7 +4958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (5), [[ArcGIS Pro]] (4), hit (2), database (2)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (4)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
 > **CLI Commands:** make (2)
 > **Warnings:** warning (2)
@@ -5023,8 +4967,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat pulsating music) (1)
 
-#### Challenge: Analyze the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980)
+#### [Challenge: Analyze the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5032,7 +4975,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980&t=5)** - [Instructor] Now let's analyze the GIS data.
 >
-> **[0:08](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980&t=8)** Your goal is to look at descriptive statistics of your subset or your larger set and I want you to generate something meaningful from the results.
+> **[0:08](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980&t=8)** Your goal is to look at descriptive [[Statistics]] of your subset or your larger set and I want you to generate something meaningful from the results.
 >
 > **[0:18](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-analyze-the-gis-data?u=76281980&t=18)** This will look different for all of us because we've all downloaded different GIS data and have different results.
 >
@@ -5040,13 +4983,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (2), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** gis (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Analyze the GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980)
+#### [Solution: Analyze the GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5056,7 +4998,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=11)** Let's start there.
 >
-> **[0:13](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=13)** Now, you may have gone over here to Arc Toolbox and looked for descriptive statistics or some sort of summary statistical analysis and that would've been great.
+> **[0:13](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=13)** Now, you may have gone over here to Arc Toolbox and looked for descriptive [[Statistics]] or some sort of summary [[Statistical Analysis]] and that would've been great.
 >
 > **[0:23](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=23)** I'm going to go ahead and open up the attribute table of this particular layer.
 >
@@ -5116,7 +5058,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=178)** So these six libraries are open on Tuesday at noon and there are two of them in the zip codes.
 >
-> **[3:07](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=187)** All of the rest of the zip codes there's only one library that does this.
+> **[3:07](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=187)** All of the [[Representational State Transfer (REST)|rest]] of the zip codes there's only one library that does this.
 >
 > **[3:12](https://www.linkedin.com/learning/real-world-gis-22715766/solution-analyze-the-gis-data?u=76281980&t=192)** So if we wanted to extend this analysis further we could bring in something like census data and take a look at the populations in these places where these libraries are.
 >
@@ -5134,7 +5076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (5), data (4), gis (3), [[Statistical Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Statistical Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gis (3), arc (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -5143,8 +5085,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Import GIS data into a geodatabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-import-gis-data-into-a-geodatabase?u=76281980)
+#### [Challenge: Import GIS data into a geodatabase](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-import-gis-data-into-a-geodatabase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5160,13 +5101,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (1), data (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Import GIS data into a geodatabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980)
+#### [Solution: Import GIS data into a geodatabase](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5226,7 +5165,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=151)** Now we have created feature classes inside this geodatabase.
 >
-> **[2:36](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=156)** Now let's do the same thing in ArcGIS Pro.
+> **[2:36](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=156)** Now let's do the same thing in [[ArcGIS Pro]].
 >
 > **[2:41](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=161)** Okay, let me go ahead and clean up some of this.
 >
@@ -5254,7 +5193,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=253)** Here you can see I hover over this geodatabase, and it is just a file geodatabase.
 >
-> **[4:20](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=260)** So if you want to take advantage of the structure that is available through a mobile geodatabase which is being utilized globally as an open source approach, especially for our databases available in mobile technologies, then you can do that here.
+> **[4:20](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=260)** So if you want to take advantage of the structure that is available through a mobile geodatabase which is being utilized globally as an open source approach, especially for our [[Databases]] available in mobile technologies, then you can do that here.
 >
 > **[4:39](https://www.linkedin.com/learning/real-world-gis-22715766/solution-import-gis-data-into-a-geodatabase?u=76281980&t=279)** I recommend right in the project folder to right click and choose new, and here you can choose mobile geodatabase.
 >
@@ -5274,15 +5213,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[ArcGIS Pro]] (2), gis (1), hit (1), data (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2), [[Databases]] (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gis (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Convert GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-convert-gis-data?u=76281980)
+#### [Challenge: Convert GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-convert-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5300,17 +5238,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (1), data (1), feature (1)
 > **Env Vars:** gis (1), utm (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Convert GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-convert-gis-data?u=76281980)
+#### [Solution: Convert GIS data](https://www.linkedin.com/learning/real-world-gis-22715766/solution-convert-gis-data?u=76281980)
 
-#### Challenge: Make a web map
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-a-web-map?u=76281980)
+#### [Challenge: Make a web map](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-a-web-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5322,15 +5257,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4)
 > **CLI Commands:** make (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Make a web map
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980)
+#### [Solution: Make a web map](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5346,7 +5279,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=30)** So in this case, if you're working with ArcMap, then probably we're going to need to bring in the CSV file or manipulate the CSV file to be exactly the way that some of our shape files were or our feature classes with something like adjusting for the particular places that are open on Tuesday at noon, for example.
 >
-> **[0:54](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=54)** Or if we're working with ArcGIS Pro, then we could convert it to a GeoJSON or KML.
+> **[0:54](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=54)** Or if we're working with [[ArcGIS Pro]], then we could convert it to a GeoJSON or KML.
 >
 > **[0:59](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=59)** So let's do that right now.
 >
@@ -5354,7 +5287,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=71)** Let's just say that we don't know.
 >
-> **[1:13](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=73)** We're going to work in Conversion Tools and deal with this JSON folder here.
+> **[1:13](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=73)** We're going to work in Conversion Tools and deal with this [[JSON]] folder here.
 >
 > **[1:17](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=77)** Let's just do a search just so we can see how that looks.
 >
@@ -5406,7 +5339,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=223)** Let's do that and I'll click Done and Done.
 >
-> **[3:49](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=229)** And now I'm going to zoom in one level and let's adjust the base map here.
+> **[3:49](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=229)** And now I'm going to [[Zoom]] in one level and let's adjust the base map here.
 >
 > **[3:55](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-a-web-map?u=76281980&t=235)** Over here on the left, let's adjust it to Imagery with the Hybrid view.
 >
@@ -5434,7 +5367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), feature (4), [[JSON]] (3), [[ArcGIS Pro]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[ArcGIS Pro]] (2), [[Zoom]] (1)
 > **Env Vars:** json (3), csv (2), wgs (2), kml (1), geo (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), navigate to (1), select the (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (4)
@@ -5443,8 +5376,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Make an online mapping application
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-an-online-mapping-application-22807278?u=76281980)
+#### [Challenge: Make an online mapping application](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-make-an-online-mapping-application-22807278?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5458,14 +5390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), web (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Make an online mapping application
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application-22814205?u=76281980)
+#### [Solution: Make an online mapping application](https://www.linkedin.com/learning/real-world-gis-22715766/solution-make-an-online-mapping-application-22814205?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5517,7 +5447,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), gis (1)
 > **Env Vars:** url (1), gis (1)
 > **CLI Commands:** find (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
@@ -5525,14 +5454,14 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 7. How to Land a GIS job?
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the different types of GIS jobs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
+#### [What are the different types of GIS jobs?](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5574,19 +5503,19 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=215)** Finally, the database manager position best describes your abilities to handle data and server details.
 >
-> **[3:42](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=222)** Positions in this type of GIS job require deeper IT and CS development, and often they are considered positions in data stewardship.
+> **[3:42](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=222)** Positions in this type of GIS job require deeper IT and CS development, and often they are considered positions in [[Data Stewardship]].
 >
 > **[3:52](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=232)** In my experience thus far, many of these positions are held by students with degrees in geography or and computer science, and sometimes those computer scientists have learned just some GIS.
 >
 > **[4:05](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=245)** However, the more powerful scenario is someone who's able to do both deeply.
 >
-> **[4:09](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=249)** Many data science majors take GIS with me and I also have computer science faculty teaching directly in my GIS program at the university.
+> **[4:09](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=249)** Many [[Data Science]] majors take GIS with me and I also have computer science faculty teaching directly in my GIS program at the university.
 >
-> **[4:19](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=259)** After all, geographic information systems is a subset of information system technology so there is a great potential for exchange between computer scientists and geographers like myself.
+> **[4:19](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=259)** After all, [[Geographic Information Systems (GIS)|geographic information systems]] is a subset of information system technology so there is a great potential for exchange between computer scientists and geographers like myself.
 >
 > **[4:30](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=270)** Focusing training usually in a geography department while at the university, is likely to allow you the greatest flexibility in employment but more it will give you the ability to expertly supervise the whole process of GIS development, analysis and maintenance.
 >
-> **[4:47](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=287)** Usually, my students are strongest in the areas having a solid understanding of programming and Python coding, and in our studio for statistical analysis.
+> **[4:47](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=287)** Usually, my students are strongest in the areas having a solid understanding of programming and [[Python (Programming Language)|Python]] coding, and in our studio for [[Statistical Analysis]].
 >
 > **[4:58](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980&t=298)** This training becomes even more important for those wanting to do development work using GIS servers.
 >
@@ -5600,15 +5529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (28), data (6), business (4), database (2), next (2)
+> **Frameworks & Libraries:** [[Data Stewardship]] (1), [[Data Science]] (1), [[Geographic Information Systems (GIS)|Geographic information systems]] (1), [[Python (Programming Language)|Python]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** gis (28)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** for example (2), think of it as (1), such as (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Where can you find GIS jobs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980)
+#### [Where can you find GIS jobs?](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5624,9 +5552,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=44)** In this case, we have 104 jobs all related to GIS and of course they are at the entry to senior position and you can find all kinds of different places where you might fit.
 >
-> **[0:58](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=58)** Private jobs are usually advertised in GIS portals with a quick Google search in an engine for GIS job portals or GIS employment will usually lend you a whole host of pages related to finding jobs in GIS.
+> **[0:58](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=58)** Private jobs are usually advertised in GIS portals with a quick [[Google]] search in an engine for GIS job portals or GIS employment will usually lend you a whole host of pages related to finding jobs in GIS.
 >
-> **[1:17](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=77)** Now, one of the best resources that I found that I can't recommend highly enough to my students is LinkedIn.
+> **[1:17](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=77)** Now, one of the best resources that I found that I can't recommend highly enough to my students is [[LinkedIn]].
 >
 > **[1:24](https://www.linkedin.com/learning/real-world-gis-22715766/where-can-you-find-gis-jobs?u=76281980&t=84)** I encourage all of my students to dedicate time to filling out their LinkedIn profile and start making connections.
 >
@@ -5650,7 +5578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (10), [[LinkedIn]] (7), [[Search]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Google]] (1)
 > **Env Vars:** gis (10), usa (1)
 > **CLI Commands:** find (4)
 > **URLs:** [usajobs.gov](https://usajobs.gov) (1)
@@ -5658,8 +5586,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can you master the GIS job interview? Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980)
+#### [How can you master the GIS job interview? Part 1](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5671,7 +5598,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=9)** I don't know how many of my former students, but it has been a lot, have said to me that once they got into the interview, they felt they were able to win it based on their preparation.
 >
-> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=19)** Anticipating the question or questions is one of the main ways to excel in the interview process.
+> **[0:19](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=19)** Anticipating the question or questions is one of the main ways to [[Microsoft Excel|excel]] in the interview process.
 >
 > **[0:25](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=25)** Preparation will give you more confidence, ability to answer hard questions, which will come, and help you articulate what you know in an effective and efficient manner.
 >
@@ -5683,7 +5610,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=50)** Now let's take a look at some general questions.
 >
-> **[0:53](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=53)** If it's possible to know who's doing the interviewing, you should find that out and then take a look at their profile on the website of the company.
+> **[0:53](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=53)** If it's possible to know who's doing the [[Interviewing]], you should find that out and then take a look at their profile on the website of the company.
 >
 > **[1:02](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-1?u=76281980&t=62)** If you're giving a presentation, make sure that it's flawless.
 >
@@ -5733,14 +5660,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), gis (2), [[Microsoft Excel|Excel]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gis (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### How can you master the GIS job interview? Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980)
+#### [How can you master the GIS job interview? Part 2](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5790,9 +5716,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=133)** They might challenge you on it.
 >
-> **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=135)** If you have no experience, then start getting some by watching courses on [linkedin.com](https://linkedin.com) for programming languages that the GIS industry uses, for example.
+> **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=135)** If you have no experience, then start getting some by watching courses on [[[LinkedIn]].com](https://linkedin.com) for programming languages that the GIS industry uses, for example.
 >
-> **[2:26](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=146)** In the Esri software, it's primarily using Python for scripting, but if you don't actually know Python, then don't say that you do.
+> **[2:26](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=146)** In the Esri software, it's primarily using [[Python (Programming Language)|Python]] for scripting, but if you don't actually know Python, then don't say that you do.
 >
 > **[2:35](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=155)** We teach Python and Python scripting and GIS at my university and there's a clear difference.
 >
@@ -5828,7 +5754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (17), [[Python (Programming Language)|Python]] (8), business (3), [[Programming]] (3), [[Scripting]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[LinkedIn]] (1)
 > **Env Vars:** gis (17), gps (1), gid (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** for example (2)
@@ -5841,20 +5767,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are your next steps in GIS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)
+#### [What are your next steps in GIS?](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980&t=0)** - Together, we've explored GIS data, map projections, and online web mapping, and you've learned how to do this through ArcGIS and ArcGIS Pro, and you've even completed a project from start to finish.
+> **[0:00](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980&t=0)** - Together, we've explored GIS data, map projections, and online web mapping, and you've learned how to do this through ArcGIS and [[ArcGIS Pro]], and you've even completed a project from start to finish.
 >
 > **[0:14](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980&t=14)** Great work.
 >
-> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980&t=15)** As you continue your next steps in GIS, continue seeking new opportunities here at LinkedIn Learning and beyond, and thank you for joining me for Real World GIS.
+> **[0:15](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980&t=15)** As you continue your next steps in GIS, continue seeking new opportunities here at [[LinkedIn]] Learning and beyond, and thank you for joining me for Real World GIS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (3), data (1), web (1), [[ArcGIS Pro]] (1), next (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gis (3)
 > **Speakers:** - together (1)
 

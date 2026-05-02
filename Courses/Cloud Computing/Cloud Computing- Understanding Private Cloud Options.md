@@ -115,16 +115,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980)
+#### [Understanding private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=0)** - The ability to consider all cloud computing resources, including the use of private cloud computing, is critical to successful cloud deployment.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=0)** - The ability to consider all [[Cloud Computing]] resources, including the use of private cloud computing, is critical to successful cloud deployment.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=8)** However, the challenge is that many enterprises don't understand the true purpose and value of private clouds, and thus overlook the potential value of leveraging this technology.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=8)** However, the challenge is that many enterprises don't understand the true purpose and value of [[Private Clouds]], and thus overlook the potential value of leveraging this technology.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=17)** This LinkedIn Learning course is a one-stop resource for those seeking a comprehensive guide to key considerations when utilizing private clouds for the first time.
+> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=17)** This [[LinkedIn]] Learning course is a one-stop resource for those seeking a comprehensive guide to key considerations when utilizing private clouds for the first time.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980&t=27)** I'll cover pragmatic examples, case studies, and in-depth processes to help you make a successful private cloud project work the first time.
 >
@@ -134,17 +133,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Private Clouds]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Private Clouds]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most from this course, you should have a basic understanding of cloud computing.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most from this course, you should have a basic understanding of [[Cloud Computing]].
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=6)** However, if you don't, we'll provide enough information for you to keep up.
 >
@@ -158,11 +156,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=34)** Just press pause and research anything you feel needs to be explained in greater detail.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=40)** Also, use the LinkedIn Learning tools available to you, including Notebook.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/what-you-should-know?u=76281980&t=40)** Also, use the [[LinkedIn]] Learning tools available to you, including Notebook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -171,22 +169,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Private versus public cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980)
+#### [Private versus public cloud](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=0)** - [Instructor] Public cloud is a type of cloud computing model where the cloud infrastructure and services are owned, managed, and operated by a third-party service provider.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=0)** - [Instructor] Public cloud is a type of [[Cloud Computing]] model where the [[Cloud Infrastructure]] and services are owned, managed, and operated by a third-party service provider.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=9)** In a public cloud, multiple organizations can share computing resources such as servers, storage, and applications over the internet, allowing for flexible and cost-efficient scaling of resources.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=21)** Examples of public cloud providers would be AWS or Amazon Web Services, Google Cloud platform, and Microsoft Azure.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=21)** Examples of public cloud providers would be AWS or [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud platform]], and [[Microsoft Azure]].
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=30)** The public cloud service provider is responsible for managing the hardware infrastructure, maintaining the software, and ensuring the availability and security of the services.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=30)** The public cloud service provider is responsible for managing the [[Hardware]] infrastructure, maintaining the software, and ensuring the availability and security of the services.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=41)** Customers can access and use these services on a pay-per-use basis or subscription model.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=47)** This eliminates the need for upfront capital investments, which are usually needed to leverage private clouds.
+> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=47)** This eliminates the need for upfront capital investments, which are usually needed to leverage [[Private Clouds]].
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980&t=54)** A private cloud is a cloud computing model that provides a dedicated and isolated computing environment exclusively for a single organization, such as a single company.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (2), [[Private Clouds]] (2), [[Cloud Infrastructure]] (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Private Clouds]] (2), [[Cloud Infrastructure]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
@@ -212,12 +209,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why we leverage private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980)
+#### [Why we leverage private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=0)** - [Instructor] Private clouds can be valuable to organizations for several reasons.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=0)** - [Instructor] [[Private Clouds]] can be valuable to organizations for several reasons.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=4)** Let's look at a few.
 >
@@ -253,26 +249,25 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=117)** In closing, private clouds are leveraged by organizations that require greater control, security, performance, and flexibility than public clouds can offer.
 >
-> **[2:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=128)** They're not always the right choice, but they do have their place in the world of cloud computing.
+> **[2:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-leverage-private-clouds?u=76281980&t=128)** They're not always the right choice, but they do have their place in the world of [[Cloud Computing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Private Clouds]] (10), data (4), [[Security]] (4), cloud (2), feature (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (10), [[Cloud Computing]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why we don't leverage private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980)
+#### [Why we don't leverage private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=0)** - [Instructor] Private clouds may not always be the best solution for your organization.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=0)** - [Instructor] [[Private Clouds]] may not always be the best solution for your organization.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=4)** Now, don't get me wrong.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=5)** Private clouds have their advantages, but they also have some serious drawbacks that you need to consider before jumping on the private cloud bandwagon.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=15)** First and foremost, private clouds require a significant investment in hardware, software, and personnel.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=15)** First and foremost, private clouds require a significant investment in [[Hardware]], software, and personnel.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-we-don-t-leverage-private-clouds?u=76281980&t=22)** You need to have the expertise and resources to design, deploy, and manage a private cloud environment, which can be a significant burden for smaller businesses or those with limited IT budgets.
 >
@@ -314,18 +309,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Private Clouds]] (12), cloud (6), [[Hardware]] (2), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (12), [[Hardware]] (2)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering costs and making the business case for private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980)
+#### [Considering costs and making the business case for private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=0)** - [Narrator] There's a strong business case to be made for using private clouds in your organization.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=0)** - [Narrator] There's a strong business case to be made for using [[Private Clouds]] in your organization.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=5)** While private clouds require a higher initial investment than public clouds, in some cases, they can provide significant cost savings and other benefits in the long run.
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=29)** First and foremost, private clouds can provide greater cost control, and predictability.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=33)** You're really just using your own hardware and software that you purchase and deploy.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=33)** You're really just using your own [[Hardware]] and software that you purchase and deploy.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-costs-and-making-the-business-case-for-private-clouds?u=76281980&t=38)** Thus, the costs are easy to predict.
 >
@@ -367,19 +361,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Private Clouds]] (14), business (3), [[Security]] (2), data (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (14), [[Hardware]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### The evolving private cloud market
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980)
+#### [The evolving private cloud market](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=0)** - [Instructor] The private cloud market is constantly evolving, and we've seen several trends in recent years that are worth mentioning here.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=8)** First, there is a growing demand for hybrid cloud solutions to integrate private and public cloud environments.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=8)** First, there is a growing demand for [[Hybrid Cloud]] solutions to integrate private and public cloud environments.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=15)** This means that organizations are looking for ways to take advantage of the scalability and flexibility of public clouds, while still maintaining control over their critical data and applications in private cloud environments.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=15)** This means that organizations are looking for ways to take advantage of the [[Scalability]] and flexibility of public clouds, while still maintaining control over their critical data and applications in private cloud environments.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=27)** Examples of this would be having all sales data consolidated on a public cloud provider while the customer data resides on a private cloud.
 >
@@ -391,19 +384,19 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=55)** Containerization provides a more lightweight and efficient way to deploy and manage applications in a private cloud environment, enabling organizations to maximize resource utilization and reduce cost.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=68)** As a result, we're seeing an increase in the adoption of containerized technologies like Docker and Kubernetes in private clouds.
+> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=68)** As a result, we're seeing an increase in the adoption of containerized technologies like Docker and [[Kubernetes]] in [[Private Clouds]].
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=76)** This includes container applications that are able to run across both private and public clouds are using a hybrid cloud deployment model.
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=84)** Thirdly, there is a growing interest in edge computing and the use of private clouds to support distributed computing environments.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=92)** With the proliferation of internet of things or IoT devices and the need for real-time data processing and analysis, organizations are looking for ways to leverage private clouds, to support edge computing environments, and reduce the latency and bandwidth issues associated with sending data back to centralized data centers.
+> **[1:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=92)** With the proliferation of [[IoT|internet of things]] or [[IoT]] devices and the need for [[Real-Time]] [[Data Processing]] and analysis, organizations are looking for ways to leverage private clouds, to support edge computing environments, and reduce the latency and bandwidth issues associated with sending data back to centralized data centers.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=112)** Finally, we're seeing a continued consolidation in the private cloud market with larger technology vendors acquiring smaller players and integrating their offerings into their broader cloud portfolios.
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=124)** Perhaps you can remember recently when this type of consolidation has occurred with providers you are dealing with.
 >
-> **[2:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=131)** This aggregation is enabling businesses to access a wider range of private cloud services and capabilities while also reducing complexity and integration challenges.
+> **[2:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=131)** This aggregation is enabling businesses to access a wider range of private [[Cloud Services]] and capabilities while also reducing complexity and integration challenges.
 >
 > **[2:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=141)** At least that's the objective.
 >
@@ -411,23 +404,22 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=145)** In other cases, not so much.
 >
-> **[2:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=148)** Private cloud technology will continue to evolve quickly as cloud computing itself evolves.
+> **[2:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=148)** Private cloud technology will continue to evolve quickly as [[Cloud Computing]] itself evolves.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/the-evolving-private-cloud-market?u=76281980&t=154)** While no longer on the same track as public cloud providers, private clouds are still a needed solution that businesses will deploy for some time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (7), [[Private Clouds]] (4), [[Hybrid Cloud]] (2), [[Containerization]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Hybrid Cloud]] (2), [[Scalability]] (1), [[Kubernetes]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** docker (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI's impact on private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980)
+#### [AI's impact on private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=1)** - [Narrator] Now that we've established the foundational reasons organizations turn to private clouds, let's take a closer look at the unique ways AI is accelerating the evolution of private clouds.
+> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=1)** - [Narrator] Now that we've established the foundational reasons organizations turn to [[Private Clouds]], let's take a closer look at the unique ways AI is accelerating the evolution of private clouds.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=11)** While security cost and customization remains central, today's private clouds also acts as a strategic staging ground for machine learning and AI-driven projects that demand both speed and confidentiality.
 >
@@ -435,17 +427,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=30)** Organizations that leverage private clouds find themselves in a position to consolidate datasets from across their enterprise, creating reliable environments for advanced analytics and model training.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=41)** This controlled aggregation directly supports enterprise-scale AI initiative where privacy and consistency of data access are crucial and often cannot be guaranteed in a public environment.
+> **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=41)** This controlled aggregation directly supports enterprise-scale AI initiative where [[Privacy]] and consistency of data access are crucial and often cannot be guaranteed in a public environment.
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=54)** Private clouds are also enabling new operational models for AI that go beyond internal innovation.
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=61)** With emerging architectures, companies can deploy AI inferencing close to the data source, supporting edge scenarios where latency is critical, such as in manufacturing or healthcare.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=73)** These use cases build on the cloud-native technologies we've covered in the previous videos, but take them further by vetting AI into business operations for real-time insights and automation.
+> **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=73)** These use cases build on the cloud-native technologies we've covered in the previous videos, but take them further by vetting AI into [[Business Operations]] for [[Real-Time]] insights and automation.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=86)** Another key development is the increasing integration of specialized hardware, such as GPUs and AI accelerators within private cloud infrastructures.
+> **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=86)** Another key development is the increasing integration of specialized [[Hardware]], such as GPUs and AI accelerators within private cloud infrastructures.
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=96)** While earlier courses in literature on this topic may have outlined the customization potential of private cloud environments, today's reality sees organizations optimizing their clouds to handle not just traditional IT workloads, but also the parallel processing demands of deep learning and cognitive services.
+> **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=96)** While earlier courses in literature on this topic may have outlined the customization potential of private cloud environments, today's reality sees organizations optimizing their clouds to handle not just traditional IT workloads, but also the parallel processing demands of [[Deep Learning]] and cognitive services.
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-s-impact-on-private-clouds?u=76281980&t=116)** AI is quickly expanding the value proposition of private clouds well beyond what was covered in previous videos.
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Private Clouds]] (7), data (3), cloud (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (7), [[Privacy]] (1), [[Business Operations]] (1), [[Real-Time]] (1), [[Hardware]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
@@ -465,12 +457,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980)
+#### [Types of private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=0)** - [Instructor] While any owned hardware system that can function as a cloud can be a private cloud, there are types of private clouds that are emerging, including traditional private clouds, device clouds, and edge clouds.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=0)** - [Instructor] While any owned [[Hardware]] system that can function as a cloud can be a private cloud, there are types of [[Private Clouds]] that are emerging, including traditional private clouds, device clouds, and edge clouds.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=14)** Here's a summary of each, but we'll cover each in more detail in the next three videos.
 >
@@ -494,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=64)** An edge cloud, also known as an edge computing infrastructure, is a type of private cloud that brings computational resources and services closer to the edge of the network.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=76)** An edge cloud typically consists of distributed computing resources that are located closer to the end users or endpoints, such as IoT, our Internet of Things devices, or mobile phones.
+> **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=76)** An edge cloud typically consists of distributed computing resources that are located closer to the end users or endpoints, such as [[IoT]], our [[IoT|Internet of Things]] devices, or mobile phones.
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980&t=90)** These resources can include servers, storage devices, and networking equipment, as well as software applications and services that can be deployed and run at the network edge.
 >
@@ -502,32 +493,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Private Clouds]] (5), [[Hardware]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (5), [[Hardware]] (2), [[IoT]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traditional private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980)
+#### [Traditional private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=0)** - [Instructor] A traditional private cloud is a type of cloud computing infrastructure that is dedicated to a single organization or entity, and is hosted within the organization's own data center or on-premise IT environment.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=0)** - [Instructor] A traditional private cloud is a type of [[Cloud Computing]] infrastructure that is dedicated to a single organization or entity, and is hosted within the organization's own data center or on-premise IT environment.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=15)** This is also the definition of a standard private cloud, which we covered in the last section of this course.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=22)** In a traditional private cloud, the organization maintains complete control over its computing resources, infrastructure, and data.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=31)** The private cloud infrastructure can be customized and optimized to meet the organization's specific needs and requirements.
+> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=31)** The private [[Cloud Infrastructure]] can be customized and optimized to meet the organization's specific needs and requirements.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=37)** This allows the organization to have greater control over security, compliance, and data privacy, as well as better performance availability.
+> **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=37)** This allows the organization to have greater control over security, compliance, and [[Data Privacy]], as well as better performance availability.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=48)** In a traditional private cloud, the organization is responsible for maintenance, management, and upgrades of its cloud infrastructure and services.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=58)** This requires a significant investment in hardware, software, and personnel, and can result in higher costs compared to other cloud deployment models such as public clouds.
+> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=58)** This requires a significant investment in [[Hardware]], software, and personnel, and can result in higher costs compared to other cloud deployment models such as public clouds.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=69)** When thinking about private clouds, this is the majority of what private cloud deployments are.
+> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=69)** When thinking about [[Private Clouds]], this is the majority of what private cloud deployments are.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/traditional-private-clouds?u=76281980&t=75)** Thus, this is how you'll engage with private cloud computing.
 >
@@ -535,20 +525,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (3), [[Cloud Infrastructure]] (2), [[Private Clouds]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Infrastructure]] (2), [[Private Clouds]] (2), [[Data Privacy]] (1), [[Hardware]] (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980)
+#### [IoT private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=1)** - [Person] Now that we've explored the fundamental drivers behind private cloud adoption, it's worth zeroing in on how private cloud technology is being purposely adapted to meet specific needs of IOT environments, or the Internet of things.
+> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=1)** - [Person] Now that we've explored the fundamental drivers behind private cloud adoption, it's worth zeroing in on how private cloud technology is being purposely adapted to meet specific needs of [[IoT]] environments, or the [[IoT|Internet of things]].
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=16)** With data from a rapidly-expanding array of connected devices, organizations are turning to private clouds as secure, scalable, and reliable platforms for managing the expansion of information IOT generates.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=16)** With data from a rapidly-expanding array of connected devices, organizations are turning to [[Private Clouds]] as secure, scalable, and reliable platforms for managing the expansion of information IOT generates.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=30)** Defining characteristics of IOT deployments is the need to collect, store and process massive volumes of data in consistent and predictable ways.
 >
@@ -560,9 +549,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=82)** Companies can tightly integrate device provisioning, monitoring and security policies directly into their private cloud environments, thereby eliminating complexity and the risk associated with using fragmented multi-provider solutions.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=98)** The result is cohesive and policy-driven IOT ecosystems that support both operational integrity and long-term scalability.
+> **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=98)** The result is cohesive and policy-driven IOT ecosystems that support both operational integrity and long-term [[Scalability]].
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=106)** As IOT use cases increasingly require real-time decision-making, like in manufacturing, control systems or healthcare device networks, private clouds are evolving to support edge computing paradigms.
+> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=106)** As IOT use cases increasingly require [[Real-Time]] [[Decision-Making]], like in manufacturing, control systems or healthcare device networks, private clouds are evolving to support edge computing paradigms.
 >
 > **[2:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/iot-private-clouds?u=76281980&t=120)** By deploying computation and storage close to where data originates, organizations can reduce latency and enhance responsiveness while maintaining the security, data sovereignty and compliance capabilities.
 >
@@ -572,52 +561,50 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (9), data (6), [[Private Clouds]] (5), cloud (4), management (3)
+> **Frameworks & Libraries:** [[IoT]] (9), [[Private Clouds]] (5), [[Real-Time]] (2), [[IoT|Internet of things]] (1), [[Scalability]] (1)
 > **Env Vars:** iot (9)
 > **Speakers:** - [person] (1)
 
-#### Edge private cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980)
+#### [Edge private cloud](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=1)** - [Instructor] The evolution of private cloud is not just about where resources are managed, but also about where they are physically located to maximize business value.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=11)** In recent years edge private clouds have emerged driven by the need to bring the capabilities of private clouds closer to where the data is generated and consumed.
+> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=11)** In recent years edge [[Private Clouds]] have emerged driven by the need to bring the capabilities of private clouds closer to where the data is generated and consumed.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=21)** Unlike traditional private clouds kept in centralized enterprise data centers, edge private clouds are deployed at or near the edge of the network, such as within branch offices, remote sites, or even within IoT environments.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=21)** Unlike traditional private clouds kept in centralized enterprise data centers, edge private clouds are deployed at or near the edge of the network, such as within branch offices, remote sites, or even within [[IoT]] environments.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=35)** The key driver for edge private clouds is a demand for low latency processing and immediate access to data.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=43)** In industries where real-time insights drive critical operations, such as manufacturing, healthcare, or logistics, having computing resources close to the action is essential.
+> **[0:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=43)** In industries where [[Real-Time]] insights drive critical operations, such as manufacturing, healthcare, or logistics, having computing resources close to the action is essential.
 >
-> **[0:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=55)** By deploying private cloud infrastructure at the edge, organizations can enable faster analytics, achieve immediate response times, and act on data without the delays or risks associated with routing all traffic back to a central location.
+> **[0:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=55)** By deploying private [[Cloud Infrastructure]] at the edge, organizations can enable faster analytics, achieve immediate response times, and act on data without the delays or risks associated with [[Routing]] all traffic back to a central location.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=71)** Edge private clouds retain the key advantage of traditional private cloud architecture like security, control, and customization.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=80)** However, they build on these strengths by extending policy enforcement, data sovereignty, and compliance to geographically distributed locations.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=90)** This supports organizations in meeting regulatory requirements and maintaining data privacy even as they operate across diverse regions or handle sensitive location-based information.
+> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=90)** This supports organizations in meeting regulatory requirements and maintaining [[Data Privacy]] even as they operate across diverse regions or handle sensitive location-based information.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=102)** Another emerging use for edge private clouds is as enablers for innovation at the local level.
 >
-> **[1:48](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=108)** By empowering branch sites and remote teams with localized compute resources, enterprises can support specialized applications, tailor services to local needs, and experiment with new digital solutions, all without sacrificing the consistency and governance of a unified private cloud strategy.
+> **[1:48](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=108)** By empowering branch sites and remote teams with localized compute resources, enterprises can support specialized applications, tailor services to local needs, and experiment with new digital solutions, all without sacrificing the consistency and governance of a unified private [[Cloud Strategy]].
 >
 > **[2:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=128)** Edge private clouds represent a strategic evolution of the private cloud concept.
 >
 > **[2:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=133)** They enable organizations to harness the power and control of private cloud platforms precisely where they're needed most, at the edge.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=141)** This not only extends the benefits of private cloud to new environments, but also supports faster, smarter, and more agile operations in today's highly distributed digital landscape.
+> **[2:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-cloud-devices-26296385?u=76281980&t=141)** This not only extends the benefits of private cloud to new environments, but also supports faster, smarter, and more [[Agile Development|agile]] operations in today's highly distributed digital landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Private Clouds]] (8), cloud (6), data (6), business (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (8), [[IoT]] (1), [[Real-Time]] (1), [[Cloud Infrastructure]] (1), [[Routing]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Private clouds as a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980)
+#### [Private clouds as a service](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=29)** So what is PCaaS?
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=31)** It's a cloud computing model where a managed service provider delivers secure, dedicated private cloud infrastructure and services to organizations on a subscription basis, combining the control of private clouds with the convenience and scalability of the cloud as a service approach.
+> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=31)** It's a [[Cloud Computing]] model where a managed service provider delivers secure, dedicated private [[Cloud Infrastructure]] and services to organizations on a subscription basis, combining the control of [[Private Clouds]] with the convenience and [[Scalability]] of the cloud as a service approach.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=49)** So what are the benefits?
 >
@@ -639,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=64)** PCaaS delivered via managed service providers or MSPs, changes this dynamic by providing access to private cloud resources on a subscription or pay-as-you-go basis.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=77)** The MSP manages the hardware, updates, platform security, and often compliance, eliminating the need for each business to invest in its own infrastructure and specialized operational teams.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=77)** The MSP manages the [[Hardware]], updates, platform security, and often compliance, eliminating the need for each business to invest in its own infrastructure and specialized operational teams.
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=92)** This centralization leads to better cost predictability and usually lower total costs over time as businesses pay for only what they use and benefit from the economies of scale that MSPs can achieve.
 >
@@ -659,34 +646,33 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=172)** At the same time, leveraging an MSP means less internal effort is needed to manage complex systems, allowing IT teams to focus on innovation and business value rather than infrastructure maintenance.
 >
-> **[3:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=185)** In short, PCaaS through MSPs represents a significant shift in how organizations consume private cloud services.
+> **[3:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=185)** In short, PCaaS through MSPs represents a significant shift in how organizations consume private [[Cloud Services]].
 >
 > **[3:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=194)** It provides a path to secure, compliant and highly customizable cloud environments without the burdensome capital outlays and operational overheads of the past.
 >
-> **[3:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=205)** This makes it a valued and strategic option for a wide range of companies seeking cost control, agility and specialized support in their digital transformation journeys.
+> **[3:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-clouds-as-a-service?u=76281980&t=205)** This makes it a valued and strategic option for a wide range of companies seeking cost control, agility and specialized support in their [[Digital Transformation]] journeys.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (4), [[Private Clouds]] (3), [[Security]] (2), teams (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (3), [[Cloud Computing]] (1), [[Cloud Infrastructure]] (1), [[Scalability]] (1), [[Hardware]] (1)
 > **Env Vars:** msp (3)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980)
+#### [AI private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=1)** - [Instructor] AI private clouds are specialized, secure environments set up inside a company's private cloud, dedicated to running and supporting artificial intelligence and machine learning workloads.
+> **[0:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=1)** - [Instructor] AI [[Private Clouds]] are specialized, secure environments set up inside a company's private cloud, dedicated to running and supporting [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning workloads.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=12)** Think of them as complete AI labs that are owned and operated by the organization rather than relying on the public cloud.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=20)** These AI private clouds typically include all of the resources necessary for AI.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=26)** For example, advanced GPU hardware, massive data storage, specialized software, and the networking to connect it all, allowing teams to build and train and run AI models entirely in-house.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=26)** For example, advanced GPU [[Hardware]], massive [[Data Storage]], specialized software, and the networking to connect it all, allowing teams to build and train and run AI models entirely in-house.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=39)** This approach is ideal for organizations that handle sensitive information, have strict privacy requirements, or want to maintain complete control over their data and intellectual property.
+> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=39)** This approach is ideal for organizations that handle sensitive information, have strict [[Privacy]] requirements, or want to maintain complete control over their data and intellectual property.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=52)** One of the most significant advantages is cost savings.
 >
@@ -696,23 +682,22 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=71)** Deciding if AI private clouds are the right fit depends on your organization's needs.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=77)** If you require the highest level of data security, must comply with regulations, or want to avoid unpredictable public cloud expenses, an AI private cloud could be ideal.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=77)** If you require the highest level of [[Data Security]], must comply with regulations, or want to avoid unpredictable public cloud expenses, an AI private cloud could be ideal.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=88)** However, if flexibility, rapid scaling, or avoiding managing infrastructure are your priorities, public cloud AI solutions may still be preferable.
+> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=88)** However, if flexibility, rapid scaling, or avoiding managing infrastructure are your priorities, public cloud [[AI Solutions]] may still be preferable.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/ai-private-clouds?u=76281980&t=99)** AI private clouds let organizations run advanced AI workloads in their own secure, cost-controllable environments, providing a strong option when data protection, compliance, and long-term savings are top priorities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), cloud (6), [[Private Clouds]] (5), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1), [[Data Storage]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpu (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980)
+#### [Multi-private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=22)** Let's discuss how multi-private architecture works.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=25)** In this setup, different private clouds can be built using varying technologies, vendors or platforms, but are connected through secure networks and often orchestrated using management tools or platforms.
+> **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=25)** In this setup, different [[Private Clouds]] can be built using varying technologies, vendors or platforms, but are connected through secure networks and often orchestrated using management tools or platforms.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=39)** This allows resources, data, and workloads to be moved between private clouds or managed under a unified policy, providing both flexibility and resilience.
 >
@@ -736,7 +721,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=77)** Risk mitigation or isolate failures or breaches to a single cloud.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=83)** Regulatory compliance or host data in specific regions for legal requirements.
+> **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=83)** [[Regulatory Compliance]] or host data in specific regions for legal requirements.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multi-private-clouds?u=76281980&t=89)** Negotiation power, or the ability to avoid vendor lock-in by using multiple providers or technologies.
 >
@@ -760,22 +745,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (3), management (3), business (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (2), [[Regulatory Compliance]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Emerging private cloud solutions for the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980)
+#### [Emerging private cloud solutions for the enterprise](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=0)** - [Instructor] Emerging private cloud solutions are gaining attention as organizations explore alternatives to traditional public cloud offerings.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=7)** This includes even repatriating applications and data from public clouds to private clouds.
+> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=7)** This includes even repatriating applications and data from public clouds to [[Private Clouds]].
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=13)** These solutions offer businesses greater control, security, and customization options for their cloud infrastructure.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=13)** These solutions offer businesses greater control, security, and customization options for their [[Cloud Infrastructure]].
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=21)** Let's take a look at a few examples of emerging private cloud solutions for the enterprise.
 >
@@ -787,11 +771,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=47)** Moreover, this technology provides a comprehensive set of tools and automation capabilities, making it easier to operate and manage private cloud infrastructure.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=58)** Microsoft Azure Stack.
+> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=58)** [[Microsoft Azure]] Stack.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=60)** We've already introduced this technology, but it's worth mentioning it here again.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=64)** Azure Stack is a private cloud solution offered by Microsoft that extends the Azure Cloud capabilities into an organization's data center, like a baby Azure Cloud.
+> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=64)** [[Microsoft Azure|Azure]] Stack is a private cloud solution offered by [[Microsoft]] that extends the Azure Cloud capabilities into an organization's data center, like a baby Azure Cloud.
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/emerging-private-cloud-solutions-for-the-enterprise?u=76281980&t=76)** Stack allows businesses to build and deploy Azure compatible applications on their infrastructure, providing a consistent and familiar development and management experience.
 >
@@ -817,13 +801,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (6), data (5), [[Cloud Infrastructure]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cloud Infrastructure]] (4), [[Private Clouds]] (1), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** ibm (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Picking the right solution for your enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980)
+#### [Picking the right solution for your enterprise](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=25)** This assessment will help you outline the essential features and capabilities you'll expect from a private cloud solution and is your single most critical task for success.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=38)** Evaluate Scalability and Flexibility: Consider the scalability and flexibility of the private cloud solution that meets your business demands.
+> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=38)** Evaluate [[Scalability]] and Flexibility: Consider the scalability and flexibility of the private cloud solution that meets your business demands.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=46)** Assess whether the solution can accommodate your organization's growth and seasonal spikes.
 >
@@ -869,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=158)** Analyze Vendor Support and Expertise: Evaluate the vendor's track records, support offering, and expertise in managing private cloud environments.
 >
-> **[2:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=166)** Consider factors like vendor reputation, customer reviews, service level agreements, or SLAs, and the availability of technical support.
+> **[2:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=166)** Consider factors like vendor reputation, customer reviews, service level agreements, or SLAs, and the availability of [[Technical Support]].
 >
 > **[2:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/picking-the-right-solution-for-your-enterprise?u=76281980&t=175)** Your technology partner should provide ongoing support and assistance, which is critical for a successful private cloud implementation.
 >
@@ -893,7 +876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Security]] (6), management (5), business (3), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Technical Support]] (1)
 > **Env Vars:** tco (2), hipaa (1), gdpr (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -901,8 +884,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: To private cloud or not to private cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980)
+#### [Challenge: To private cloud or not to private cloud](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +896,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980&t=17)** The company's IT infrastructure has been expanding rapidly, and they're now looking for an efficient cloud solution to meet their escalating needs.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980&t=26)** They're currently contemplating between implementing a private cloud or utilizing public cloud services.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980&t=26)** They're currently contemplating between implementing a private cloud or utilizing public [[Cloud Services]].
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-to-private-cloud-or-not-to-private-cloud?u=76281980&t=34)** What are the major issues that they should consider?
 >
@@ -924,13 +906,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: From requirements to solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980)
+#### [Solution: From requirements to solution](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +923,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=11)** XYZ Corporation carefully weighed the cost implications of private and public cloud options.
 >
-> **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=19)** Private clouds involve high investments in infrastructure setup, including services, servers, storage, and networking equipment.
+> **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=19)** [[Private Clouds]] involve high investments in infrastructure setup, including services, servers, storage, and networking equipment.
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=29)** Performance and reliability.
 >
@@ -958,15 +939,15 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=58)** Security and compliance.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=60)** Data security is a critical factor for XYZ Corporation, as they handle sensitive customer information and other intellectual property.
+> **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=60)** [[Data Security]] is a critical factor for XYZ Corporation, as they handle sensitive customer information and other intellectual property.
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=68)** A private cloud offers enhanced control over data security measures.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=73)** By maintaining complete ownership and control over their infrastructure, XYZ Corporation can ensure compliance with industry-specific regulations and implement bespoke security measures to protect their data.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=85)** After a detailed analysis, XYZ Corporation opted for a hybrid cloud solution.
+> **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=85)** After a detailed analysis, XYZ Corporation opted for a [[Hybrid Cloud]] solution.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=91)** They were able to take advantage of the cost efficiencies, scalability, and flexibility of public clouds for non-sensitive data and applications.
+> **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=91)** They were able to take advantage of the cost efficiencies, [[Scalability]], and flexibility of public clouds for non-sensitive data and applications.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203099?u=76281980&t=101)** They also leveraged the security and control offered by a private cloud for their critical systems and sensitive customer data.
 >
@@ -976,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Security]] (5), data (5), [[Hybrid Cloud]] (2), [[Private Clouds]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (2), [[Hybrid Cloud]] (2), [[Private Clouds]] (1), [[Scalability]] (1)
 > **Env Vars:** xyz (7)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -988,28 +969,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to private clouds within multiclouds and hybrid clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980)
+#### [Introduction to private clouds within multiclouds and hybrid clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=0)** - [Presenter] Multiclouds are leveraging more than a single cloud provider at the same time.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=5)** For instance, you may be using AWS, Microsoft, and Google to run different business applications and to store data.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=5)** For instance, you may be using AWS, [[Microsoft]], and [[Google]] to run different business applications and to store data.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=13)** This approach is usually leveraged to support best-of-breed technologies, considering that the best database, AI system, and business analytics systems exist on different clouds that are currently not a part of your cloud deployment.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=13)** This approach is usually leveraged to support best-of-breed technologies, considering that the best database, AI system, and [[Business Analytics]] systems exist on different clouds that are currently not a part of your cloud deployment.
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=29)** Adding that cloud to support a best-of-breed solution is how most enterprises support multicloud.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=35)** Although most of the focus is on public clouds within multicloud deployments, private clouds are often a part of that deployment as well.
+> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=35)** Although most of the focus is on public clouds within multicloud deployments, [[Private Clouds]] are often a part of that deployment as well.
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=45)** This is the reason we'll cover multicloud in this video.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=51)** Hybrid clouds were defined years ago by NIST, or the National Institute of Standards and Technology, as a paired public and private cloud deployment.
+> **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=51)** Hybrid clouds were defined years ago by [[NIST]], or the National Institute of Standards and Technology, as a paired public and private cloud deployment.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=62)** They are most often leveraged when enterprises want both a private cloud and a public cloud option, leveraging a private cloud for the reasons we've discussed in earlier videos.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=74)** So what are the reasons for leveraging private clouds and multicloud, and hybrid cloud deployment?
+> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=74)** So what are the reasons for leveraging private clouds and multicloud, and [[Hybrid Cloud]] deployment?
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=79)** Here are three of the most common.
 >
@@ -1021,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=103)** These are best used when data cannot exist outside the company for security and regulatory reasons.
 >
-> **[1:50](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=110)** Compliance and data governance.
+> **[1:50](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=110)** Compliance and [[Data Governance]].
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=113)** By incorporating a private cloud component to a multicloud or a hybrid cloud strategy, organizations can address compliance and data governance requirements by using platforms they have more direct control over.
 >
@@ -1033,23 +1013,22 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=147)** This flexibility allows for the customization of infrastructure, security policies, and performance parameters.
 >
-> **[2:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=153)** The end goal is to optimize application delivery and user experience.
+> **[2:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=153)** The end goal is to optimize application delivery and [[User Experience (UX)|user experience]].
 >
 > **[2:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=159)** As organizations seeks to extract maximum value from the cloud investments, the private cloud's role within a multicloud and hybrid cloud framework cannot be underestimated.
 >
-> **[2:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=171)** By embracing the private cloud alongside public cloud environments, enterprises can achieve a balance of control, scalability, and agility, enabling them to innovate faster.
+> **[2:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980&t=171)** By embracing the private cloud alongside public cloud environments, enterprises can achieve a balance of control, [[Scalability]], and agility, enabling them to innovate faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (6), [[Security]] (4), [[Private Clouds]] (3), [[Hybrid Cloud]] (3)
+> **Frameworks & Libraries:** [[Private Clouds]] (3), [[Hybrid Cloud]] (3), [[Data Governance]] (2), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** aws (1), nist (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Why do we build complex cloud deployments?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980)
+#### [Why do we build complex cloud deployments?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1036,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=11)** This is because we're dealing with more heterogeneous deployments.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=15)** This means more than a single cloud brand such as AWS, Microsoft, and Google, or a private cloud deployment such as OpenStack.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=15)** This means more than a single cloud brand such as AWS, [[Microsoft]], and [[Google]], or a private cloud deployment such as OpenStack.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=24)** It's this diversity that adds complexity to this deployment.
 >
@@ -1067,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=40)** First, you need to hire and/or train for different skill sets.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=45)** You need to hire and train so that your staff can support all platforms that are part of your multicloud or hybrid cloud deployments.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=45)** You need to hire and train so that your staff can support all platforms that are part of your multicloud or [[Hybrid Cloud]] deployments.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=53)** You also need to find a way to keep people around who understand a single platform.
 >
@@ -1077,9 +1056,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=69)** Similar to what we discussed around skills needed to support complex cloud deployments, you may have the same issues with operationalizing these deployments as well.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=79)** Management layers need to be built for each platform, and that adds to the work needed to operate multiclouds and hybrid clouds with private clouds.
+> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=79)** Management layers need to be built for each platform, and that adds to the work needed to operate multiclouds and hybrid clouds with [[Private Clouds]].
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=88)** Due to the complexity of the issue, we've created a course that addresses cloud complexity management for multicloud deployments here on LinkedIn learning.
+> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=88)** Due to the complexity of the issue, we've created a course that addresses cloud complexity management for multicloud deployments here on [[LinkedIn]] learning.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/why-do-we-build-complex-cloud-deployments?u=76281980&t=96)** It goes into greater detail on managing these kinds of deployments.
 >
@@ -1089,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (2), management (2), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[Hybrid Cloud]] (1), [[Private Clouds]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** aws (1)
@@ -1097,14 +1076,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business case for hybrid and multiclouds with private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980)
+#### [Business case for hybrid and multiclouds with private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=0)** - [Instructor] Using technology is only pragmatic if there is a valid business case for it.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=6)** In other words, the technology needs to return value to the business, and using multi-cloud and hybrid cloud is no different.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=6)** In other words, the technology needs to return value to the business, and using multi-cloud and [[Hybrid Cloud]] is no different.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=13)** Let's look at the primary business reasons for using multi-cloud and hybrid cloud.
 >
@@ -1122,9 +1100,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=55)** By strategically selecting this exemplary cloud service based on the workload requirements, organizations can optimize performance and cost efficiency.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=64)** For example, we use a public cloud for bursty workloads or workloads that are prone to peaking in capacity in private clouds for secure or performance-sensitive applications as we covered in other videos.
+> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=64)** For example, we use a public cloud for bursty workloads or workloads that are prone to peaking in capacity in [[Private Clouds]] for secure or performance-sensitive applications as we covered in other videos.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=77)** Sustainability and resource optimization.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=77)** [[Sustainability]] and resource optimization.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=80)** Multi-cloud and hybrid cloud architectures allow organizations to scale resources.
 >
@@ -1136,7 +1114,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=98)** By leveraging different cloud environments and services, organizations can tap into various cutting-edge technologies and tools offered by multiple cloud providers, including public and private clouds.
 >
-> **[1:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=111)** This promotes innovation by providing access to the latest achievements in artificial intelligence, machine learning and data analytics, and the internet of things.
+> **[1:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=111)** This promotes innovation by providing access to the latest achievements in [[Artificial Intelligence (AI)|artificial intelligence]], machine learning and data analytics, and the [[IoT|internet of things]].
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/business-case-for-hybrid-and-multiclouds-with-private-clouds?u=76281980&t=121)** Vendor risk diversification.
 >
@@ -1152,14 +1130,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Hybrid Cloud]] (6), business (5), [[Private Clouds]] (2), strengths (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (6), [[Private Clouds]] (2), [[Sustainability]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid clouds and private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980)
+#### [Hybrid clouds and private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,13 +1148,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=10)** There are also private and public clouds that may be offered by the same brand.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=15)** For instance, Microsoft Stack paired with Microsoft Azure.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=15)** For instance, [[Microsoft]] Stack paired with [[Microsoft Azure]].
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=19)** Hybrid clouds, which used to mean private and public clouds working together now include any on-premise system that can work with public clouds.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=30)** For example, you might have a Linux system running within a data center connected with Google Cloud.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=30)** For example, you might have a [[Linux]] system running within a data center connected with [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=36)** The difference is that on-premise systems typically are not private clouds, but the term hybrid still applies as a familiar concept.
+> **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=36)** The difference is that on-premise systems typically are not [[Private Clouds]], but the term hybrid still applies as a familiar concept.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/hybrid-clouds-and-private-clouds?u=76281980&t=44)** Confusing?
 >
@@ -1187,15 +1164,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), aws (1), [[Microsoft]] (1), [[Microsoft Azure]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Azure]] (1), [[Linux]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Private Clouds]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Multiclouds and private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980)
+#### [Multiclouds and private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,11 +1183,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=12)** Multiclouds are really just many cloud brands working together.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=16)** But for the most part, the term multicloud is used when there are more than one public cloud providers, such as AWS, or Amazon Web Services, Google and Microsoft.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=16)** But for the most part, the term multicloud is used when there are more than one public cloud providers, such as AWS, or [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google]] and [[Microsoft]].
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=27)** And they may or may not include a private cloud.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=31)** A few examples include AWS, Google Cloud Platform, and OpenStack private clouds, or Microsoft Azure, Microsoft Stack, and AWS.
+> **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=31)** A few examples include AWS, [[Google Cloud Platform (GCP)|Google Cloud Platform]], and OpenStack [[Private Clouds]], or [[Microsoft Azure]], Microsoft Stack, and AWS.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/multiclouds-and-private-clouds?u=76281980&t=41)** All together, they're called a multicloud.
 >
@@ -1221,27 +1197,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), aws (3), [[Microsoft]] (2), [[Private Clouds]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Private Clouds]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Future direction of private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980)
+#### [Future direction of private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=0)** - [Instructor] So where are private clouds going?
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=0)** - [Instructor] So where are [[Private Clouds]] going?
 >
 > **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=2)** Let's explore some of the the significant trends that many see coming.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=7)** First, they're normally playing a supporting role to public cloud providers.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=13)** As we look in this course, several cloud providers provide public cloud products and smaller downsized versions of public clouds.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=13)** As we look in this course, several cloud providers provide public cloud [[Microsoft Products|products]] and smaller downsized versions of public clouds.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=21)** Sometimes called edge clouds, examples include Microsoft Stack working with Microsoft Azure or AWS Outposts working with AWS Public Cloud.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=21)** Sometimes called edge clouds, examples include [[Microsoft]] Stack working with [[Microsoft Azure]] or AWS Outposts working with AWS Public Cloud.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=32)** These private clouds are designed to support the larger public cloud counterpart by providing on-premise services for those workloads and data sets customers desire to keep running within a private cloud data center.
 >
@@ -1261,13 +1236,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=88)** The idea is to create a complete private cloud platform that can run on very small but very powerful devices.
 >
-> **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=95)** This gives developers access to a larger array of features that private cloud may provide, such as tenant management, resource provisioning, serverless computing, and access to containers.
+> **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=95)** This gives developers access to a larger array of features that private cloud may provide, such as tenant management, resource provisioning, [[Serverless Computing]], and access to containers.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=109)** No matter where private clouds evolve, the concept will continue to be useful in cloud computing, albeit what a private cloud is, will evolve as well.
+> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/future-direction-of-private-clouds?u=76281980&t=109)** No matter where private clouds evolve, the concept will continue to be useful in [[Cloud Computing]], albeit what a private cloud is, will evolve as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Private Clouds]] (5), data (3), aws (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (5), [[Microsoft Products|Products]] (1), [[Microsoft]] (1), [[Microsoft Azure]] (1), [[Serverless Computing]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Definitions:** means that (1)
@@ -1279,18 +1254,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OpenStack compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980)
+#### [OpenStack compatibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=0)** - [Instructor] OpenStack is a widely adopted open source software platform for building and managing public and private cloud environments.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=7)** Albeit, it's mainly used for private clouds now, it still can function as a public cloud platform.
+> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=7)** Albeit, it's mainly used for [[Private Clouds]] now, it still can function as a public cloud platform.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=13)** Indeed, in the early days of cloud, when many public cloud providers existed, they often ran OpenStack on their public cloud platforms.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=21)** OpenStack provides a comprehensive set of cloud computing services that include compute, storage, networking, and other components necessary to create and manage cloud infrastructure.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=21)** OpenStack provides a comprehensive set of [[Cloud Computing]] services that include compute, storage, networking, and other components necessary to create and manage [[Cloud Infrastructure]].
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=32)** The goal of the OpenStack project is to provide organizations with the ability to deploy and manage their cloud infrastructure.
 >
@@ -1302,9 +1276,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=59)** It supports popular hypervisors including, but not limited to, KVM, Kernel-based Virtual Machine, VMware vSphere, Xen, and Hyper-V.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=72)** A hypervisor, also known as a virtual machine monitor, or VMM, it's software or firmware that enables virtualization of computing hardware.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=72)** A hypervisor, also known as a virtual machine monitor, or VMM, it's software or firmware that enables virtualization of computing [[Hardware]].
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=82)** It allows multiple virtual machines, or VMs, to run on a single physical machine by abstracting and allocating the underlying hardware resources.
+> **[1:22](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=82)** It allows multiple [[Virtual Machines]], or VMs, to run on a single physical machine by abstracting and allocating the underlying hardware resources.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=91)** The hypervisor creates a layer of abstraction that isolates and manages the computer's resources, including CPU, memory, storage, and networking for each virtual machine.
 >
@@ -1312,9 +1286,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=111)** Storage.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=112)** OpenStack integrates with various storage options, offering flexibility and scalability.
+> **[1:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=112)** OpenStack integrates with various storage options, offering flexibility and [[Scalability]].
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=117)** For data management, it supports a range of storage backends, including Ceph, a distributed storage system providing object block and file storage capabilities, Swift, the object storage service in OpenStack that enables storing and retrieving data at scale, Cinder, the block storage service that integrates with different backend storage technologies, such as Ceph, S-A-N or SAN, or NAS.
+> **[1:57](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=117)** For [[Data Management]], it supports a range of storage backends, including Ceph, a distributed storage system providing object block and file storage capabilities, [[Swift (Programming Language)|Swift]], the object storage service in OpenStack that enables storing and retrieving data at scale, Cinder, the block storage service that integrates with different backend storage technologies, such as Ceph, S-A-N or SAN, or NAS.
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=144)** Networking.
 >
@@ -1332,9 +1306,9 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=192)** Popular orchestration frameworks compatible with OpenStack include Heat, OpenStack's native orchestration service that enables and automates provisioning of infrastructure and applications.
 >
-> **[3:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=205)** Ansible, a powerful agentless automation tool that integrates well with OpenStack, facilitating infrastructure deployments and configuration management.
+> **[3:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=205)** [[Ansible]], a powerful agentless automation tool that integrates well with OpenStack, facilitating infrastructure deployments and [[Configuration Management]].
 >
-> **[3:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=215)** Terraform, an infrastructure's code tool enabling the creation and management of OpenStack resources through declarative configuration files.
+> **[3:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=215)** [[Terraform]], an infrastructure's code tool enabling the creation and management of OpenStack resources through declarative configuration files.
 >
 > **[3:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=224)** Management and monitoring.
 >
@@ -1350,7 +1324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), management (5), [[Orchestration]] (5), [[Cloud Infrastructure]] (3), [[Private Clouds]] (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (3), [[Private Clouds]] (2), [[Hardware]] (2), [[Cloud Computing]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** kvm (1), vmm (1), cpu (1), san (1), nas (1)
 > **CLI Commands:** ansible (1), terraform (1), make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1358,40 +1332,38 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenStack flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980)
+#### [OpenStack flexibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=0)** - [Instructor] OpenStack offers remarkable flexibility, allowing organizations to customize and tailor the cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=0)** - [Instructor] OpenStack offers remarkable flexibility, allowing organizations to customize and tailor the [[Cloud Infrastructure]].
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=7)** It uses a modular architecture that enables users to select specific services and integrate them as needed.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=15)** The OpenStack platform is Hypervisor Agnostics, supporting various options like KVM, VMware, Xen, and Hyper-V, as we covered in the last video.
 >
-> **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=24)** OpenStack provides multiple storage options to meet different performance and scalability requirements.
+> **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=24)** OpenStack provides multiple storage options to meet different performance and [[Scalability]] requirements.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=30)** The networking component, Neutron, supports software-defined networking, or SDN, and network function virtualization, or NFV.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=38)** This enables organizations to adopt various network management techniques.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=43)** OpenStack can be deployed on premise, in public-private clouds, or through services accommodating diverse deployment requirements.
+> **[0:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=43)** OpenStack can be deployed on premise, in public-[[Private Clouds]], or through services accommodating diverse deployment requirements.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=50)** Also, OpenStack integrates with third party tools and allows for customization through its open source nature and extensible APIs.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=59)** This flexibility empowers organizations to build a cloud infrastructure that aligns with their specific needs, integrates with their existing systems and applications.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=70)** OpenStack supports adaptability and scalability, making it at a highly flexible platform for cloud computing, perhaps the most flexible of all of the platforms that we'll cover in this course.
+> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=70)** OpenStack supports adaptability and scalability, making it at a highly flexible platform for [[Cloud Computing]], perhaps the most flexible of all of the platforms that we'll cover in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Scalability]] (2), [[Virtualization]] (1), management (1), [[Private Clouds]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Scalability]] (2), [[Private Clouds]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** kvm (1), sdn (1), nfv (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenStack security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980)
+#### [OpenStack security](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,15 +1383,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=48)** Additionally, OpenStack incorporates encryption capabilities.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=51)** It supports encryption at rest for stored data and encryption and transit for data communications between components such as databases to applications.
+> **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=51)** It supports encryption at [[Representational State Transfer (REST)|rest]] for stored data and encryption and transit for data communications between components such as [[Databases]] to applications.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=60)** Encryption provides an additional layer of protection against unauthorized access and eavesdropping since the information is not readable without a specific encryption key.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=70)** OpenStack also provides network security features as well.
+> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=70)** OpenStack also provides [[Network Security]] features as well.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=74)** This includes the networking component, neutron.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=77)** Neutron provides isolation and segmentation of network traffic, ensuring that different tenants and virtual machines remain separate and thus protected.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=77)** Neutron provides isolation and segmentation of network traffic, ensuring that different tenants and [[Virtual Machines]] remain separate and thus protected.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-security?u=76281980&t=87)** Neutron also supports security groups acting as virtual firewalls, controlling inbound and outbound traffic based on user-defined roles.
 >
@@ -1439,15 +1411,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (3), cloud (3), traffic (2), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Network Security]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** rbac (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenStack operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980)
+#### [OpenStack operations](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1430,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=25)** You'll need to plan and deploy OpenStack components based on their requirements.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=30)** Configuration means setting up networking, storage, and security parameters to create a well operating cloud infrastructure.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=30)** Configuration means setting up networking, storage, and security parameters to create a well operating [[Cloud Infrastructure]].
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=37)** Monitoring and proactive maintenance are needed to identify and address issues before they impact the system's operations.
 >
@@ -1473,7 +1444,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=72)** Automation is vital to OpenStack operations, allowing tasks to be streamlined and performed consistently.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=78)** This includes tools like Ansible, Puppet and Chef that can be utilized for automating deployment, configuration and management processes within OpenStack.
+> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=78)** This includes tools like [[Ansible]], Puppet and Chef that can be utilized for automating deployment, configuration and management processes within OpenStack.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-operations?u=76281980&t=89)** Continual learning and staying updated with the latest OpenStack releases and best practices are essential for efficient OpenStack operations or any cloud operations for that matter.
 >
@@ -1487,14 +1458,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), management (2), [[Security]] (2), [[Troubleshooting]] (2), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[Ansible]] (1)
 > **CLI Commands:** ansible (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenStack summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980)
+#### [OpenStack summary](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,17 +1472,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=8)** Firstly, assess your organization's technical expertise and available resources.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=13)** OpenStack requires a solid understanding of cloud computing concepts and skills that are specific to the platform.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=13)** OpenStack requires a solid understanding of [[Cloud Computing]] concepts and skills that are specific to the platform.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=20)** Adequately training skilled personnel is a necessity for effectively managing and maintaining the OpenStack infrastructure.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=29)** Make sure to consider your scalability and performance requirements.
+> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=29)** Make sure to consider your [[Scalability]] and performance requirements.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=32)** OpenStack's Modular Architecture allows you to customize the platform to meet your needs.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=38)** Ensure that it can scale to accommodate your anticipated growth and handle the desired workloads effectively.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=45)** You'll find that other commercial private clouds don't provide this.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=45)** You'll find that other commercial [[Private Clouds]] don't provide this.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-summary?u=76281980&t=49)** However, the downside of having the ability to customize OpenStack is that there is no formal support for this technology, and you'll have to rely on communities and some consulting firms to support your OpenStack deployment.
 >
@@ -1536,7 +1506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Security]] (2), [[Scalability]] (1), [[Private Clouds]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Scalability]] (1), [[Private Clouds]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
@@ -1544,8 +1514,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: When do I use OpenStack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-openstack?u=76281980)
+#### [Challenge: When do I use OpenStack?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-openstack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,12 +1530,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), cloud (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: From requirements to solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980)
+#### [Solution: From requirements to solution](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1578,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980&t=18)** Number one, OpenStack's open source nature appeals to organizations seeking vendor neutrality and avoiding vendor lock-in.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980&t=26)** Number two, OpenStack's modular architecture allows for a high degree of customization and flexibility, enabling organizations to architect their cloud infrastructure to suit their specific needs.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980&t=26)** Number two, OpenStack's modular architecture allows for a high degree of customization and flexibility, enabling organizations to architect their [[Cloud Infrastructure]] to suit their specific needs.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-19899105?u=76281980&t=37)** Number three, another reason is the massive and active OpenStack community.
 >
@@ -1594,7 +1561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Cloud Infrastructure]] (1), next (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
@@ -1606,24 +1573,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS Outposts compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980)
+#### [AWS Outposts compatibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=0)** - [Narrator] AWS Outposts is a fully managed service by AWS Web Services that brings AWS infrastructure and services to an on-premise facility, such as a data center you own.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=10)** This private cloud blends public cloud computing with onsite resources.
+> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=10)** This private cloud blends public [[Cloud Computing]] with onsite resources.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=14)** This allows you to run applications in a hybrid environment.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=18)** AWS Outposts is compatible with various AWS services, including EC2, S3, EBS, RDS, EKS, ECS, EMR and SageMaker among others.
+> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=18)** AWS Outposts is compatible with various AWS services, including [[Amazon EC2|EC2]], S3, EBS, RDS, EKS, ECS, EMR and SageMaker among others.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=31)** You can learn more about these services in our course on public clouds.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=34)** This range of AWS services ensures that businesses can deploy the components of AWS Cloud they need on-premise.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=41)** This means that they can build an application to run on their hardware using AWS Outposts, and then move that application to the AWS Public Cloud at some time in the future.
+> **[0:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=41)** This means that they can build an application to run on their [[Hardware]] using AWS Outposts, and then move that application to the AWS Public Cloud at some time in the future.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=52)** Considering traditional systems, AWS Outposts can integrate with on-premise networks through a local gateway that AWS supports.
 >
@@ -1633,7 +1599,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=76)** This provides space for businesses to utilize their current tools.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=79)** These third party software tools include popular choices in operating systems, databases, security applications and network infrastructure tools.
+> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=79)** These third party software tools include popular choices in operating systems, [[Databases]], security applications and network infrastructure tools.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980&t=89)** Maintenance is included as well.
 >
@@ -1651,21 +1617,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (21), cloud (10), application (2), [[Security]] (2), web (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Amazon EC2|Ec2]] (1), [[Hardware]] (1), [[Databases]] (1)
 > **Env Vars:** aws (21), ec2 (1), ebs (1), rds (1), eks (1)
 > **CLI Commands:** aws (21)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### AWS Outposts flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980)
+#### [AWS Outposts flexibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=0)** - [Narrator] AWS Outposts' flexibility is the core advantage of this technology.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=5)** It brings the power and scalability of Amazon Web Services to customers on-premises data centers, providing a flexible Hybrid Cloud experience.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=5)** It brings the power and [[Scalability]] of [[Amazon Web Services (AWS)|Amazon Web Services]] to customers on-premises data centers, providing a flexible [[Hybrid Cloud]] experience.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=15)** This homogenous solution using AWS in the Public Cloud and on on-premise makes operations and development much more accessible, since you're using the same skills and tools on both Private and Public Cloud.
 >
@@ -1677,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=51)** So you need to consider the trade-offs between the ease of homogeneity and the lack of some best of breed solutions.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=59)** The benefit is enhanced data privacy and security, reduce latency, and improve performance.
+> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=59)** The benefit is enhanced [[Data Privacy]] and security, reduce latency, and improve performance.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=64)** This does come at the cost of only supporting a single platform on both the Public and Private Cloud side of things.
 >
@@ -1689,27 +1654,26 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=94)** There are reasons to do this and reasons not to.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=98)** Also understand that these trade-offs are the same with Microsoft Stack, which we'll be covering in the next chapter.
+> **[1:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-flexibility?u=76281980&t=98)** Also understand that these trade-offs are the same with [[Microsoft]] Stack, which we'll be covering in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), aws (4), [[Scalability]] (2), data (2), [[Hybrid Cloud]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Hybrid Cloud]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Data Privacy]] (1), [[Microsoft]] (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### AWS Outposts security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980)
+#### [AWS Outposts security](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=0)** - [Instructor] AWS Outposts provides a comprehensive approach toward private cloud security.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=0)** - [Instructor] AWS Outposts provides a comprehensive approach toward private [[Cloud Security]].
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=6)** This includes extending the AWS security infrastructure to virtually any on-premise or edge location.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=6)** This includes extending the [[AWS Security]] infrastructure to virtually any on-premise or edge location.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=12)** Also, AWS Outposts ensures consistency in user experience with the same hardware services, APIs, and tools utilized on both on-premise and in the AWS regions.
+> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=12)** Also, AWS Outposts ensures consistency in [[User Experience (UX)|user experience]] with the same [[Hardware]] services, APIs, and tools utilized on both on-premise and in the AWS regions.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=25)** This hybrid security solution is designed with a focus on security beyond just having some hardware located in your data center.
 >
@@ -1717,7 +1681,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=49)** The SSM agent installed on Outposts instances allows for the management and operations of these instances.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=58)** Again, consistent across public and private clouds.
+> **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=58)** Again, consistent across public and [[Private Clouds]].
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=62)** To remain connected to the parent AWS service region or public cloud, Outposts requires a highly available network.
 >
@@ -1725,33 +1689,32 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=75)** Moreover, you do not need different APIs or third-party hardware support thanks to the AWS service consistency from private to public clouds.
 >
-> **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=84)** Through its security design, AWS Outposts provides data integrity and low-latency access to applications.
+> **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=84)** Through its security design, AWS Outposts provides [[Data Integrity]] and low-latency access to applications.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=91)** This provides a consistent hybrid experience to bolster your on-premise data and workload security.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=97)** Again, you'll find similar patterns with the Microsoft Stack hybrid cloud covered later in this course.
+> **[1:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-security?u=76281980&t=97)** Again, you'll find similar patterns with the [[Microsoft]] Stack [[Hybrid Cloud]] covered later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Security]] (6), cloud (4), data (4), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Cloud Security]] (1), [[AWS Security]] (1), [[User Experience (UX)|User experience]] (1), [[Private Clouds]] (1)
 > **Env Vars:** aws (11), ssm (2)
 > **CLI Commands:** aws (11), find (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Outposts operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980)
+#### [AWS Outposts operations](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=0)** - [Instructor] It's important to remember that AWS Outposts is a fully managed service that is able to extend Amazon's cloud infrastructure directly to your locale.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=0)** - [Instructor] It's important to remember that AWS Outposts is a fully managed service that is able to extend Amazon's [[Cloud Infrastructure]] directly to your locale.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=12)** This ensures a seamless bridge between on-premise and cloud offering the same programming interfaces and easy access to local compute and storage resources for lower latency.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=24)** Also, the same operational tools and processes.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=29)** The key components of AWS Outposts operations include deployment planning, installation, monitoring, maintenance, and troubleshooting.
+> **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=29)** The key components of AWS Outposts operations include [[Deployment Planning]], installation, monitoring, maintenance, and troubleshooting.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=37)** This is an operational framework in which businesses can integrate AWS Outposts into their existing infrastructure.
 >
@@ -1771,7 +1734,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=95)** AWS Outposts operations allows businesses to leverage the benefits of both cloud and on-premise infrastructure with unified operational approach.
 >
-> **[1:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=103)** This enables organizations to achieve flexibility, scalability, and agility in their hybrid cloud deployments.
+> **[1:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=103)** This enables organizations to achieve flexibility, [[Scalability]], and agility in their [[Hybrid Cloud]] deployments.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-operations?u=76281980&t=109)** However, you need to consider your existing platform that needs to work with Outposts, including how those operational tools integrate with this platform and hopefully not make our operational processes more complex.
 >
@@ -1779,7 +1742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), cloud (4), [[Cloud Infrastructure]] (1), [[Programming]] (1), [[Deployment Planning]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[Deployment Planning]] (1), [[Scalability]] (1), [[Hybrid Cloud]] (1)
 > **CLI Commands:** aws (8), make (1)
 > **Env Vars:** aws (8)
 > **Definitions:** is a  (1), is an  (1)
@@ -1787,8 +1750,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Outposts summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980)
+#### [AWS Outposts summary](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1798,9 +1760,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=8)** Assessing your infrastructure needs is paramount.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=11)** Determine if your organization requires a hybrid cloud solution that seamlessly integrates on-premise infrastructure with the AWS Cloud.
+> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=11)** Determine if your organization requires a [[Hybrid Cloud]] solution that seamlessly integrates on-premise infrastructure with the AWS Cloud.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=18)** Consider factors such as data privacy, latency, and specific compliance requirements that may require a private cloud.
+> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=18)** Consider factors such as [[Data Privacy]], latency, and specific compliance requirements that may require a private cloud.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=25)** Do we need consistent operational experience?
 >
@@ -1810,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=45)** However, as we discuss in another video, this trade-off is simplicity for best of breed, and you need to look out for that as well.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=54)** How critical is low latency and local data processing?
+> **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=54)** How critical is low latency and local [[Data Processing]]?
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=58)** Determine if your workload requires low latency access to data or benefits from local data processing.
 >
@@ -1822,7 +1784,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=91)** AWS outpost allows you to maintain control of sensitive data inside of your own data center while leveraging AWS services.
 >
-> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=100)** What is the long-term scalability plan?
+> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=100)** What is the long-term [[Scalability]] plan?
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outposts-summary?u=76281980&t=103)** Consider your organization's growth and scalability requirements over the next few years.
 >
@@ -1834,14 +1796,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), data (10), cloud (4), [[Scalability]] (3), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Data Processing]] (2), [[Hybrid Cloud]] (1), [[Data Privacy]] (1)
 > **CLI Commands:** aws (11), find (1)
 > **Env Vars:** aws (11)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: When do I use AWS Outposts?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-aws-outposts?u=76281980)
+#### [Challenge: When do I use AWS Outposts?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-aws-outposts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,15 +1832,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (2), aws (2)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: From requirements to solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980)
+#### [Solution: From requirements to solution](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1887,7 +1846,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=7)** Here are a few potential solutions, but certainly not all of them.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=11)** Data security and compliance.
+> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=11)** [[Data Security]] and compliance.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=13)** Retail organizations deal with sensitive customer data, including personal and financial information.
 >
@@ -1897,7 +1856,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=28)** Providing a seamless and responsive online shopping experience is critical for retail organizations.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=34)** Hybrid cloud flexibility.
+> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=34)** [[Hybrid Cloud]] flexibility.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution-20203102?u=76281980&t=36)** Many retailers already have existing on-premise infrastructure.
 >
@@ -1921,7 +1880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), data (4), cloud (4), [[Security]] (1), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Hybrid Cloud]] (1)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
 > **Analogies:** such as (1)
@@ -1934,12 +1893,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Stack compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980)
+#### [Microsoft Stack compatibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=0)** - [Instructor] Microsoft Azure Stack or Microsoft Stack for short is Microsoft's version of AWS Outpost and performs many of the same functions.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] Stack or [[Microsoft]] Stack for short is Microsoft's version of AWS Outpost and performs many of the same functions.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=10)** It's a scaled down version of Microsoft Azure public cloud, and can run within a private data center, working with the Microsoft Azure public cloud.
 >
@@ -1949,7 +1907,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=28)** Considering that this is a Microsoft product or service, it will be built to work with the Microsoft suite of technologies.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=38)** The Microsoft Azure Stack comprises of a collection of products such as Windows, Azure, Office 365, SQL Server, SharePoint, and more.
+> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=38)** The Microsoft Azure Stack comprises of a collection of [[Microsoft Products|products]] such as [[Windows]], [[Microsoft Azure|Azure]], [[Microsoft Office|Office]] 365, [[Microsoft SQL Server|SQL Server]], [[SharePoint]], and more.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=48)** These components work together to provide an ecosystem of software and services for enterprises to leverage for any business solution.
 >
@@ -1959,7 +1917,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=70)** You can expect consistent performance and compatibility with Microsoft software offering, which should not come in a surprise.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=77)** Microsoft Azure, the public cloud computing platform, plays a central role when considering compatibility.
+> **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=77)** Microsoft Azure, the public [[Cloud Computing]] platform, plays a central role when considering compatibility.
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=84)** Azure provides a unified environment enabling businesses to develop and deploy and manage their applications across various platforms, both Microsoft and non-Microsoft.
 >
@@ -1967,7 +1925,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=101)** Microsoft Azure Stack compatibility is integrating and compatibility between different software products.
 >
-> **[1:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=107)** For example, Office 365 and Azure Active Directory provide a unified identity and access management system.
+> **[1:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=107)** For example, Office 365 and [[Microsoft Entra ID|Azure Active Directory]] provide a unified identity and access management system.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980&t=115)** This allows users to access their applications, data, and resources securely regardless of the location or device.
 >
@@ -1983,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure]] (9), cloud (4), [[Windows]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure]] (9), [[Windows]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (1), sql (1), net (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
@@ -1991,34 +1949,33 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Stack flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980)
+#### [Microsoft Stack flexibility](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=0)** - [Instructor] Now just as we looked at the flexibility of AWS Outposts and OpenStack, let's look at the same things with Microsoft Azure Stack.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=0)** - [Instructor] Now just as we looked at the flexibility of AWS Outposts and OpenStack, let's look at the same things with [[Microsoft Azure]] Stack.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=10)** This public cloud platform, in this case used for a private cloud, provides scalability, reliability, and security necessary for businesses to create solutions for any business purpose.
+> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=10)** This public cloud platform, in this case used for a private cloud, provides [[Scalability]], reliability, and security necessary for businesses to create solutions for any business purpose.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=21)** This includes virtual machines and storage to artificial intelligence and machine learning capabilities.
+> **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=21)** This includes [[Virtual Machines]] and storage to [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning capabilities.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=27)** In short, Azure offers a good ecosystem for resources that cater to diverse business requirements.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=27)** In short, [[Microsoft Azure|Azure]] offers a good ecosystem for resources that cater to diverse business requirements.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=35)** A part of Azure is the Windows server operating system, which happens to be the cornerstone of Microsoft Azure Stack.
+> **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=35)** A part of Azure is the [[Windows Server]] operating system, which happens to be the cornerstone of Microsoft Azure Stack.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=43)** Windows Server provides a foundation for hosting applications and services, and Stack offers support for both on-premise and in the Azure public Cloud.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=54)** Its familiarity with existing Windows-based systems makes migration and integration more accessible, ensuring minimal disruption to business operations.
+> **[0:54](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=54)** Its familiarity with existing [[Windows]]-based systems makes migration and integration more accessible, ensuring minimal disruption to [[Business Operations]].
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=62)** Since you're dealing with the same operating system interfaces from platform to platform, from private to public cloud.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=69)** To further enhance flexibility, Microsoft Azure Stack integrates closely with productivity tools like Microsoft Office 365 and other collaboration platforms like Microsoft Teams.
+> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=69)** To further enhance flexibility, Microsoft Azure Stack integrates closely with productivity tools like [[Microsoft Office]] 365 and other collaboration platforms like [[Microsoft Teams]].
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=81)** This integration enables easier communications, document sharing and collaboration among team members.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=88)** Microsoft Azure SAC also supports various development frameworks, languages, and tools.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=93)** This includes traditional .NET development or more modern development technologies like No.js, Python, or Java.
+> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=93)** This includes traditional .NET development or more modern development technologies like No.js, [[Python (Programming Language)|Python]], or [[Java]].
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-flexibility?u=76281980&t=101)** This flexibility allows businesses to leverage existing skills and investments.
 >
@@ -2030,24 +1987,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (7), cloud (5), business (4), [[Microsoft Azure|Azure]] (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (7), [[Microsoft Azure|Azure]] (3), [[Windows Server]] (2), [[Scalability]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** aws (1), sac (1), net (1)
 > **CLI Commands:** aws (1), python (1)
 > **File Paths:** no.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Stack security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980)
+#### [Microsoft Stack security](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=0)** - [Instructor] Microsoft Azure Stack Security provides a comprehensive approach to ensure the safety and protection of its software stack.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] Stack Security provides a comprehensive approach to ensure the safety and protection of its software stack.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=7)** Let's review what some of these mechanisms are.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=10)** To enhance resilience, Microsoft incorporates security features into Stack.
+> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=10)** To enhance resilience, [[Microsoft]] incorporates security features into Stack.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=14)** This includes multi-factor authentication, encryption and threat intelligence, providing an additional layer of defense.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=14)** This includes [[Multi-factor Authentication]], encryption and threat intelligence, providing an additional layer of defense.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=21)** Microsoft Azure Stack Security also extends to the public cloud using Microsoft Azure.
 >
@@ -2059,15 +2015,15 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=44)** Encryption.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=45)** Microsoft Azure Stack uses encryption to protect data at rest and in transit.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=45)** Microsoft Azure Stack uses encryption to protect data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=49)** This ensures that sensitive information is securely stored and transmitted, making it more difficult for unauthorized parties to access the data.
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=58)** Threat intelligence.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=59)** Microsoft leverages threat intelligence sources and machine learning algorithms to detect and respond to threats it may see.
+> **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=59)** Microsoft leverages threat intelligence sources and machine learning [[Algorithms]] to detect and respond to threats it may see.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=66)** This provides proactive identification of potential security risk and is able to implement countermeasures.
+> **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=66)** This provides proactive identification of potential [[Security Risk]] and is able to implement countermeasures.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=72)** Security updates and patches.
 >
@@ -2079,13 +2035,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=88)** Compliance standards.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=90)** Microsoft Azure Stack follows compliance standards such as GDPR and ISO 27001, depending on the specific products and services and the industry that the enterprise is operating within.
+> **[1:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=90)** Microsoft Azure Stack follows compliance standards such as GDPR and ISO 27001, depending on the specific [[Microsoft Products|products]] and services and the industry that the enterprise is operating within.
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=104)** Advanced authentication methods.
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=106)** Besides multifactor authentication, Microsoft Azure Stack supports advanced authentication mechanisms, including biometrics and hardware-based security tokens.
+> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=106)** Besides multifactor authentication, Microsoft Azure Stack supports advanced authentication mechanisms, including biometrics and [[Hardware]]-based security [[Tokens]].
 >
-> **[1:56](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=116)** Security monitoring and incident response.
+> **[1:56](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=116)** Security monitoring and [[Incident Response]].
 >
 > **[1:59](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-security?u=76281980&t=119)** Microsoft Azure Stack provides security monitoring tools and practices to detect and respond to security incidents.
 >
@@ -2097,26 +2053,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Azure]] (8), cloud (4), [[Microsoft]] (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (8), [[Microsoft]] (3), [[Multi-factor Authentication]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gdpr (1), iso (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Stack operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980)
+#### [Microsoft Stack operations](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=0)** - [Instructor] Microsoft Operations Management Suite, or OMS for short, is at the core of Microsoft Azure Stack's operations technology.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=0)** - [Instructor] [[Microsoft]] Operations Management Suite, or OMS for short, is at the core of [[Microsoft Azure]] Stack's operations technology.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=9)** That centralized management platform allows organizations to monitor, analyze, and manage their IT infrastructure on Azure Stack.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=9)** That centralized management platform allows organizations to monitor, analyze, and manage their IT infrastructure on [[Microsoft Azure|Azure]] Stack.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=16)** OMS provides capabilities such as log analytics, performance monitoring, automation, and security insights.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=23)** It also enabled the IT teams to gain better visibility into their environment, identify issues, and proactively address them before they become too damaging.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=34)** In addition to OMS, Stack includes tools like Azure Monitor, providing real-time monitoring and actionable insights across application infrastructure and network resources.
+> **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=34)** In addition to OMS, Stack includes tools like Azure Monitor, providing [[Real-Time]] monitoring and actionable insights across application infrastructure and network resources.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=44)** Azure Automation facilitates the automation of repetitive tasks, freeing up IT resources and ensuring consistent processes.
 >
@@ -2126,7 +2081,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=63)** Also provided is Azure Backup, which ensures reliable data protection and disaster recovery.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=69)** Furthermore, Microsoft Azure Stack operations technology leverages DevOps practices to enable faster and more reliable software development and deployment.
+> **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=69)** Furthermore, Microsoft Azure Stack operations technology leverages [[DevOps]] practices to enable faster and more reliable [[Software Development]] and deployment.
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-operations?u=76281980&t=79)** This allows teams to build, test, and deploy applications more efficiently.
 >
@@ -2136,23 +2091,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (3), [[Automation]] (3), [[Security]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (3), [[Microsoft]] (2), [[Real-Time]] (1), [[DevOps]] (1)
 > **Env Vars:** oms (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Stack summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980)
+#### [Microsoft Stack summary](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=0)** - [Instructor] Microsoft Azure Stack incorporates a range of features to enhance the security and operations of its Software Stack.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] Stack incorporates a range of features to enhance the security and operations of its Software Stack.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=6)** The Security Stack features include secure coding practices to reduce vulnerabilities, regular security audits to identify and address potential weaknesses, multifactor authentication for additional login security, encryption to protect data at rest and in transit, threat intelligence to detect and respond to emerging threats, regular security updates and patches, compliance with various standards for data protection.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=6)** The Security Stack features include [[Secure Coding]] practices to reduce vulnerabilities, regular security audits to identify and address potential weaknesses, multifactor authentication for additional login security, encryption to protect data at [[Representational State Transfer (REST)|rest]] and in transit, threat intelligence to detect and respond to emerging threats, regular security updates and patches, compliance with various standards for data protection.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=33)** Some of the operational features include Microsoft Operations Management Suite or OMS for centralized management and monitoring, Azure monitoring for real-time monitoring and actionable insights, Azure Automation for automating repetitive tasks.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=33)** Some of the operational features include [[Microsoft]] Operations Management Suite or OMS for centralized management and monitoring, [[Microsoft Azure|Azure]] monitoring for [[Real-Time]] monitoring and actionable insights, Azure Automation for automating repetitive tasks.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=47)** Azure Security Center for Threat Detection and Response, Azure backup for reliable data protection and recovery, integration with DevOps practices for faster and more reliable development and deployment.
+> **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=47)** Azure Security Center for Threat Detection and Response, Azure backup for reliable data protection and recovery, integration with [[DevOps]] practices for faster and more reliable development and deployment.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=60)** These features allow you to monitor and manage the Microsoft Azure Stack Infrastructure more efficiently, enabling faster development and deployment.
 >
@@ -2160,7 +2114,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=76)** So when should you leverage Microsoft Azure Stack?
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=78)** Essentially, it's a good fit when you're focusing on Microsoft Software Development, both on traditional systems as well as on the Azure Public Cloud.
+> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=78)** Essentially, it's a good fit when you're focusing on Microsoft [[Software Development]], both on traditional systems as well as on the Azure Public Cloud.
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-summary?u=76281980&t=86)** This makes Stack an easy choice, considering that the look and feel of the tooling is much the same.
 >
@@ -2168,13 +2122,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Security]] (6), [[Microsoft Azure]] (4), cloud (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (4), [[Microsoft]] (2), [[Secure Coding]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** oms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: When do I use Microsoft Stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980)
+#### [Challenge: When do I use Microsoft Stack?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2182,7 +2135,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980&t=5)** - [Instructor] Welcome to the Chapter Six Challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980&t=7)** So when should you leverage Microsoft Azure Stack?
+> **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980&t=7)** So when should you leverage [[Microsoft Azure]] Stack?
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-when-do-i-use-microsoft-stack?u=76281980&t=10)** There are some reasons that you should be able to list.
 >
@@ -2192,31 +2145,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bouncy music) (1)
 
-#### Solution: From requirements to solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980)
+#### [Solution: From requirements to solution](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=0)** - [Instructor] Let's discuss the solution to our challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=8)** Here are a few examples of when Microsoft Azure Stack is a good fit.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=8)** Here are a few examples of when [[Microsoft Azure]] Stack is a good fit.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=12)** Organizations seeking an integrated solution, meaning if you require consolidated suite of software products, tools, and services that seamlessly work together, security centric environments, meaning that Microsoft Azure Stack is suitable for organizations with a strong focus on security.
+> **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=12)** Organizations seeking an integrated solution, meaning if you require consolidated suite of software [[Microsoft Products|products]], tools, and services that seamlessly work together, security centric environments, meaning that Microsoft Azure Stack is suitable for organizations with a strong focus on security.
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=29)** Stack incorporates good security features, regular updates, and compliance standards, making it reliable for ensuring data protection and mitigating security risks.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=40)** Cloud-based infrastructure is needed, in that Microsoft Azure Stack, particularly with Azure Public Cloud is well-suited for organizations looking to leverage cloud-based infrastructure solutions with a private cloud option.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=40)** Cloud-based infrastructure is needed, in that Microsoft Azure Stack, particularly with [[Microsoft Azure|Azure]] Public Cloud is well-suited for organizations looking to leverage cloud-based infrastructure solutions with a private cloud option.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=52)** Streamline operations and management, meaning that Azure Stack provides various tools and services designed to streamline IT operations.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=60)** This includes monitoring, automation, or managing infrastructure.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=65)** Development and deployment of applications, meaning if your organization focuses on application development and deployment, Microsoft Azure Stack provides tools like Azure DevOps, enabling continuous integration and delivery practices.
+> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=65)** Development and deployment of applications, meaning if your organization focuses on [[Application Development]] and deployment, Microsoft Azure Stack provides tools like Azure [[DevOps]], enabling [[Continuous Integration (CI)|continuous integration]] and delivery practices.
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-from-requirements-to-solution?u=76281980&t=79)** So how did you do?
 >
@@ -2226,7 +2178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Security]] (4), cloud (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1), [[Application Development]] (1), [[DevOps]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2237,8 +2189,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Should I leverage a private cloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980)
+#### [Should I leverage a private cloud?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2248,7 +2199,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=9)** Let's look at the whys.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=10)** A private cloud offers several advantages over public or hybrid cloud models, making it a compelling choice in certain scenarios, but you need to remember that it's not typically a one or the other situation, but rather, private clouds are more frequently leveraged as part of a more extensive deployment, such as a multi-cloud or hybrid cloud, which we covered earlier.
+> **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=10)** A private cloud offers several advantages over public or [[Hybrid Cloud]] models, making it a compelling choice in certain scenarios, but you need to remember that it's not typically a one or the other situation, but rather, [[Private Clouds]] are more frequently leveraged as part of a more extensive deployment, such as a multi-cloud or hybrid cloud, which we covered earlier.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=34)** First, the core reason that most enterprises leverage a private cloud, leveraging private cloud is often preferred when organizations have strict security and compliance requirements, By hosting data and applications on a in-house infrastructure, businesses have complete control over their security measures and can ensure adherence to industry specific regulations.
 >
@@ -2260,13 +2211,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=75)** If you choose the custom option, you get precisely what you want.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=79)** This level of control is particularly beneficial for applications with stringent latency or data processing requirements.
+> **[1:19](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=79)** This level of control is particularly beneficial for applications with stringent latency or [[Data Processing]] requirements.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=88)** Furthermore, high data privacy concerns or intellectual property protection may require a private cloud.
+> **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=88)** Furthermore, high [[Data Privacy]] concerns or intellectual property protection may require a private cloud.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=95)** By keeping data within the organization's network and infrastructure, companies can safeguard sensitive information.
 >
-> **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=101)** However, keep in mind that you can have poor security practices with a private cloud too, which could lead to compromised systems and other major cybersecurity issues.
+> **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=101)** However, keep in mind that you can have poor security practices with a private cloud too, which could lead to compromised systems and other major [[Cybersecurity]] issues.
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980&t=113)** Finally, private clouds may be preferred when legacy systems or applications must be migrated and consolidated.
 >
@@ -2280,15 +2231,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (6), [[Private Clouds]] (4), [[Security]] (4), [[Hybrid Cloud]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Hybrid Cloud]] (2), [[Data Privacy]] (2), [[Data Processing]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), it's like (1)
 > **Cross-References:** we covered (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting which private cloud to leverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980)
+#### [Selecting which private cloud to leverage](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2248,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980&t=9)** Define your requirements.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980&t=11)** This means identifying the specific needs of the enterprise and considering factors such as scalability, security, compliance, performance, integration capabilities, and support.
+> **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980&t=11)** This means identifying the specific needs of the enterprise and considering factors such as [[Scalability]], security, compliance, performance, integration capabilities, and support.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/selecting-which-private-cloud-to-leverage?u=76281980&t=23)** Research and short-list.
 >
@@ -2328,7 +2278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (2), [[Scalability]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
@@ -2336,8 +2286,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for private cloud deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980)
+#### [Preparing for private cloud deployment](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2357,13 +2306,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=27)** This means defining the number and configuration of servers, storage systems, network components, and security measures.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=33)** Planning for scalability and redundancy is essential to the step as well.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=33)** Planning for [[Scalability]] and redundancy is essential to the step as well.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=39)** Prepare infrastructure.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=40)** Ensure the underlying infrastructure is ready for deployment.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=44)** This may involve upgrading hardware, setting up virtualization platforms, and upgrading storage and networking resources.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=44)** This may involve upgrading [[Hardware]], setting up virtualization platforms, and upgrading storage and networking resources.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/preparing-for-private-cloud-deployment?u=76281980&t=51)** Define policies and procedures.
 >
@@ -2417,15 +2366,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (6), management (5), data (4), business (3)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Hardware]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering private cloud security and operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980)
+#### [Considering private cloud security and operations](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,7 +2385,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=20)** This includes implementing robust authentication mechanisms such as encryption protocols, and network segmentation, as well as regular security updates.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=30)** Additionally, organizations must have incident response plans and disaster recovery strategies in place to ensure continued operations.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=30)** Additionally, organizations must have [[Incident Response]] plans and disaster recovery strategies in place to ensure continued operations.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=38)** Operations in a private cloud focuses on managing and maintaining the infrastructure.
 >
@@ -2445,7 +2393,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=47)** So what does this involve?
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=49)** Regular monitoring, resource allocation, capacity planning, and proactive troubleshooting.
+> **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=49)** Regular monitoring, resource allocation, [[Capacity Planning]], and proactive troubleshooting.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/considering-private-cloud-security-and-operations-26299410?u=76281980&t=56)** Also, automation plays a critical role in streamlining operations.
 >
@@ -2465,15 +2413,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), cloud (3), data (3), [[Automation]] (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Capacity Planning]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What are the steps to a sound private cloud deployment?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-what-are-the-steps-to-a-sound-private-cloud-deployment?u=76281980)
+#### [Challenge: What are the steps to a sound private cloud deployment?](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/challenge-what-are-the-steps-to-a-sound-private-cloud-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2487,12 +2434,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Succeeding with private cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980)
+#### [Solution: Succeeding with private cloud](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2512,7 +2457,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=36)** Define policies and procedures.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=38)** Establish policies for resource allocation, user access, security, backup and recovery, and disaster management, document proceedings through a team management task, and troubleshooting.
+> **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=38)** Establish policies for resource allocation, user access, security, backup and recovery, and disaster management, document proceedings through a [[Team Management]] task, and troubleshooting.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=49)** Deploy and configure.
 >
@@ -2522,7 +2467,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=62)** Conduct testing to ensure all components are working correctly.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=65)** This means optimizing performance, security, and scalability based on the testing results.
+> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=65)** This means optimizing performance, security, and [[Scalability]] based on the testing results.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/solution-succeeding-with-private-cloud?u=76281980&t=71)** Train staff.
 >
@@ -2540,7 +2485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Security]] (4), management (3), data (2), business (1)
+> **Frameworks & Libraries:** [[Team Management]] (1), [[Scalability]] (1)
 > **Cross-References:** we covered (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2551,8 +2496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going deeper with private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980)
+#### [Going deeper with private clouds](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,11 +2504,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=2)** Here are some suggestions for what you can do next.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=5)** First, find a source of information that works for you regarding news around developments of private clouds.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=5)** First, find a source of information that works for you regarding news around developments of [[Private Clouds]].
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=12)** This can be podcasts, blogs, or videos that cover this topic.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=16)** They may cover the topic of cloud computing in general and private clouds as part of their coverage.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=16)** They may cover the topic of [[Cloud Computing]] in general and private clouds as part of their coverage.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980&t=21)** There are not very many sources that cover private clouds.
 >
@@ -2594,7 +2538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Private Clouds]] (7), next (1), business (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (7), [[Cloud Computing]] (5)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we covered (1)

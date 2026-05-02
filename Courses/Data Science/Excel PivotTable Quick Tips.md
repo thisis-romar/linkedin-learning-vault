@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze your data quickly with PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
+#### [Analyze your data quickly with PivotTables](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980&t=0)** - Did you know that learning how to use Excel pivot tables is a much less daunting and overwhelming task than you think it is?
+> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980&t=0)** - Did you know that learning how to use [[Microsoft Excel|Excel]] [[Pivot Tables]] is a much less daunting and overwhelming task than you think it is?
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980&t=6)** A pivot table is a power reporting tool, which can show you quick and valuable summaries and trends based on the data you have in your columns and rows.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - did (1)
 
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get data ready for an Excel PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
+#### [Get data ready for an Excel PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=8)** To get started, make sure each column header has a unique name that properly describes the data.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=15)** It is okay if those column headers have spaces in between each word, even though they don't hear.
+> **[0:15](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=15)** It is okay if those column headers have spaces in between each [[Microsoft Word|word]], even though they don't hear.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=22)** You'll also need to make sure that you have no blank cells.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=36)** You'll also want to make sure that your columns have the right cell format if you're using numbers and dates.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=49)** Finally, you can also create an Excel table.
+> **[0:49](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=49)** Finally, you can also create an [[Microsoft Excel|Excel]] table.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=52)** It's good practice.
 >
@@ -146,15 +144,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a basic Excel PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980)
+#### [Create a basic Excel PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=17)** Change to the insert ribbon tab and click PivotTable here on the left.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=24)** Excel will automatically select the data range for you.
+> **[0:24](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=24)** [[Microsoft Excel|Excel]] will automatically select the data range for you.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=29)** Click OK and you now have a new sheet.
 >
@@ -188,21 +185,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use a recommended PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980)
+#### [Use a recommended PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=1)** - [Instructor] It can be overwhelming to figure out how to make sense out of all of this line item transaction data.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=6)** Excel can make recommendations for you.
+> **[0:06](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=6)** [[Microsoft Excel|Excel]] can make recommendations for you.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=10)** Select one cell in your sheet, change to the Insert ribbon tab, and click Recommended Pivot Tables.
+> **[0:10](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=10)** Select one cell in your sheet, change to the Insert ribbon tab, and click Recommended [[Pivot Tables]].
 >
 > **[0:19](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=19)** Excel is going to show you different ways that you can view and analyze your data.
 >
@@ -216,19 +212,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create multiple PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980)
+#### [Create multiple PivotTables](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple pivot tables on the same sheet.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [[Pivot Tables]] on the same sheet.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=4)** Just like before, we'll place our cursor inside the dataset, change to the Insert tab and click PivotTable.
 >
@@ -257,8 +252,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rearrange a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
+#### [Rearrange a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,12 +284,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate values in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/calculate-values-in-a-pivottable?u=76281980)
+#### [Calculate values in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/calculate-values-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,13 +327,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Versions:** 0.01 (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize values in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/summarize-values-in-a-pivottable?u=76281980)
+#### [Summarize values in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/summarize-values-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,13 +367,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expand and collapse details in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/expand-and-collapse-details-in-a-pivottable?u=76281980)
+#### [Expand and collapse details in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/expand-and-collapse-details-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,8 +393,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Format data in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980)
+#### [Format data in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=22)** If you select outline form, it spaces everything out and removes the grid lines.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=28)** Also note that it displays the actual field name instead of the generic word roll label.
+> **[0:28](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=28)** Also note that it displays the actual field name instead of the generic [[Microsoft Word|word]] roll label.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=35)** If you change to tabular form, it adds back the grid lines.
 >
@@ -438,12 +425,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group data in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/group-data-in-a-pivottable?u=76281980)
+#### [Group data in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/group-data-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +455,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1)
 > **UI Navigation:** right-click (3), select the (2)
 > **Speakers:** - [instructor] (1)
 
@@ -478,8 +463,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filter data in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
+#### [Filter data in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,13 +485,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sort data in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/sort-data-in-a-pivottable?u=76281980)
+#### [Sort data in a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/sort-data-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,7 +505,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
@@ -532,8 +513,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply conditional formatting to a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
+#### [Apply conditional formatting to a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=6)** You can see trends or high or low data amounts quickly.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=11)** To apply conditional formatting, just like a regular Excel column or table, select the cells and on the Home ribbon tab, click Conditional Formatting.
+> **[0:11](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=11)** To apply conditional formatting, just like a regular [[Microsoft Excel|Excel]] column or table, select the cells and on the Home ribbon tab, click Conditional Formatting.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=23)** From here, you can choose the rules to apply.
 >
@@ -561,14 +541,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove conditional formatting from a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/remove-conditional-formatting-from-a-pivottable?u=76281980)
+#### [Remove conditional formatting from a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/remove-conditional-formatting-from-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,8 +575,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a basic PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
+#### [Create a basic PivotChart](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=17)** You can select your chart type and you can even refine that particular chart type.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=22)** When you've selected one, click OK, and your chart is created, just like a regular chart in Excel.
+> **[0:22](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=22)** When you've selected one, click OK, and your chart is created, just like a regular chart in [[Microsoft Excel|Excel]].
 >
 > **[0:31](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=31)** You can click the plus sign to add or remove chart elements.
 >
@@ -627,14 +605,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert slicers into a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/insert-slicers-into-a-pivottable?u=76281980)
+#### [Insert slicers into a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/insert-slicers-into-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +645,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -677,14 +653,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use GROUPBY to view data like a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
+#### [Use GROUPBY to view data like a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=1)** - [Narrator] If you're comfortable with using functions, instead of creating a pivot table in Excel, you can aggregate data easily using the new GROUPBY function.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=1)** - [Narrator] If you're comfortable with using functions, instead of creating a pivot table in [[Microsoft Excel|Excel]], you can aggregate data easily using the new GROUPBY function.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=10)** It's important to note that this function is only available for Microsoft 365, but the function can group and display your data just like a pivot table.
+> **[0:10](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=10)** It's important to note that this function is only available for [[Microsoft 365]], but the function can group and display your data just like a pivot table.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=23)** GROUPBY has three required elements.
 >
@@ -706,14 +681,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** groupby (2)
 > **Analogies:** just like (1), such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use PIVOTBY to view data with more columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980)
+#### [Use PIVOTBY to view data with more columns](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=4)** You can aggregate data and display it like a PivotTable.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=8)** It's also only available to Microsoft 365 users.
+> **[0:08](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=8)** It's also only available to [[Microsoft 365]] users.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=13)** PIVOTBY has one extra required field that GROUPBY didn't have, a specific column that you want to see the data for.
 >
@@ -747,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **Env Vars:** pivotby (4), groupby (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -758,8 +732,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PivotTable error messages: Field name not valid
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)
+#### [PivotTable error messages: Field name not valid](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +768,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -803,12 +775,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (dialog box chimes) (1)
 
-#### Refresh a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980)
+#### [Refresh a PivotTable](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980&t=1)** - [Narrator] If any of your source data changes, in this case, it's from the order sheet, even if it's in an Excel table, you need to refresh the PivotTable.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980&t=1)** - [Narrator] If any of your source data changes, in this case, it's from the order sheet, even if it's in an [[Microsoft Excel|Excel]] table, you need to refresh the PivotTable.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980&t=11)** Change to the PivotTable Analyze tab and click Refresh.
 >
@@ -820,11 +791,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### PivotTable error messages: Overlapping and make space
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-overlapping-and-make-space?u=76281980)
+#### [PivotTable error messages: Overlapping and make space](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-overlapping-and-make-space?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +832,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 

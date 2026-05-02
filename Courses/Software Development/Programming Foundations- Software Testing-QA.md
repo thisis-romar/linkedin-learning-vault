@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set the standard with quality assurance (QA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
+#### [Set the standard with quality assurance (QA)](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=1)** - Nothing is more frustrating than trying to use software that simply does not work.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=6)** Quality assurance exists to prevent these negative experiences, but have you ever wondered what quality assurance means, or what the role of a QA involves?
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=6)** [[Quality Assurance]] exists to prevent these negative experiences, but have you ever wondered what quality assurance means, or what the role of a QA involves?
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=18)** and show what skills are necessary to succeed in a career in quality assurance.
 >
@@ -100,46 +99,44 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=45)** I'm Meaghan Lewis, and I'm a QA engineer with nearly a decade of experience in the field.
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=49)** I am passionate about software testing and enjoy speaking, blogging, and teaching about the subject.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=49)** I am passionate about [[Software Testing]] and enjoy speaking, blogging, and teaching about the subject.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=55)** So join me on my LinkedIn learning course as we discover the foundation of quality assurance.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=55)** So join me on my [[LinkedIn]] learning course as we discover the foundation of quality assurance.
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980&t=57)** as we discover the foundation of quality assurance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (5), career (1), [[Software Testing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (5), [[Software Testing]] (1), [[LinkedIn]] (1)
 > **Speakers:** - nothing (1)
 
-#### What is quality assurance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980)
+#### [What is quality assurance?](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=1)** - The role of QA exists to prevent problems in an application so that users don't encounter bugs and crashes.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=8)** Quality Assurance, referred to simply as QA, is a systematic process used to determine whether a product meets specifications.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=8)** [[Quality Assurance]], referred to simply as QA, is a systematic process used to determine whether a product meets specifications.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=16)** An individual in this role can have many titles including QA, QA engineer or QA analyst, Software engineer in test, or Tester.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=26)** Throughout this course, you will hear me use these titles interchangeably.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=30)** An individual in the QA role constantly questions parts of the software development process to ensure the team is building the right product and building it correctly.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=30)** An individual in the QA role constantly questions parts of the [[Software Development]] process to ensure the team is building the right product and building it correctly.
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=39)** A QA's primary goal should be to help their team move quickly with confidence.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=44)** They establish and maintain standards for how to best test a software product.
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=49)** Having solid software testing practices is a huge asset to any team in order to produce a well functioning application.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/what-is-quality-assurance?u=76281980&t=49)** Having solid [[Software Testing]] practices is a huge asset to any team in order to produce a well functioning application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), application (2), [[Quality Assurance]] (1), [[Software Development]] (1), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Software Development]] (1), [[Software Testing]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
-#### How to ensure quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/how-to-ensure-quality?u=76281980)
+#### [How to ensure quality](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/how-to-ensure-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +168,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), product (2)
 > **Speakers:** - good (1)
 
 
@@ -179,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Roles and responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
+#### [Roles and responsibilities](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=13)** It helps to have skills cross functionally, and apply certain skills when needed.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=18)** These skills should include technical aptitude, business knowledge, DevOps principles, and process and release expertise.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=18)** These skills should include technical aptitude, business knowledge, [[DevOps]] principles, and process and release expertise.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=27)** Technical aptitude is needed for both manual and automated testing.
 >
@@ -206,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=63)** Here a QA can wear different hats such as business analyst, data analyst, product owner or product manager.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=71)** The DevOps principles needed will include being able to configure tooling, set up continuous integration, and automate processes like running tests, or deploying the application.
+> **[1:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=71)** The DevOps principles needed will include being able to configure tooling, set up [[Continuous Integration (CI)|continuous integration]], and automate processes like running tests, or deploying the application.
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=81)** Here a QA wears the hat of an infrastructure or platform engineer.
 >
@@ -218,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=103)** You may be thinking what hat do I wear?
 >
-> **[1:45](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=105)** Don't worry, while every skill is valuable, you won't need to excel in all of them.
+> **[1:45](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=105)** Don't worry, while every skill is valuable, you won't need to [[Microsoft Excel|excel]] in all of them.
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=111)** Identify your own strengths and For any team that you are going into, ask questions to understand what the role on your team will be, and what different hats you might need to wear.
 >
@@ -242,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=188)** At this company, there are cross functional product teams.
 >
-> **[3:12](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=192)** The QA team worked together to iterate on our existing processes for testing and release, automated more functionality, and performed manual testing.
+> **[3:12](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=192)** The QA team worked together to iterate on our existing processes for testing and release, automated more functionality, and performed [[Manual Testing]].
 >
 > **[3:21](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980&t=201)** At this company, the other QA and I were able to share responsibilities somewhat.
 >
@@ -280,19 +275,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), product (6), strengths (4), [[DevOps]] (3), management (3)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft Excel|Excel]] (1), [[Manual Testing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for instance (1), for example (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Get involved throughout the SDLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/get-involved-throughout-the-sdlc?u=76281980)
+#### [Get involved throughout the SDLC](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/get-involved-throughout-the-sdlc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/get-involved-throughout-the-sdlc?u=76281980&t=1)** - The software development lifecycle, referred to as the SDLC, is a process that processes high-quality software in the shortest amount of time.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/get-involved-throughout-the-sdlc?u=76281980&t=1)** - The [[Software Development]] lifecycle, referred to as the SDLC, is a process that processes high-quality software in the shortest amount of time.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/get-involved-throughout-the-sdlc?u=76281980&t=10)** The SDLC includes detailed steps for how to effectively develop, change, and maintain a software system, and is typically broken down into six parts:
 >
@@ -336,13 +330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), feature (3), [[Software Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Env Vars:** sdlc (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Collaborate with the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980)
+#### [Collaborate with the team](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,19 +369,18 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980&t=88)** Get creative and find the best ways to collaborate with your teammates across different phases of the SDLC.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980&t=95)** This will allow a QA to get more insight on how to do thorough testing, and will keep a team more in sync by creating a shared vision by creating a shared vision by building trust and accountability.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980&t=95)** This will allow a QA to get more insight on how to do thorough testing, and will keep a team more in sync by creating a shared vision by creating a shared vision by [[Building Trust]] and [[Accountability]].
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/collaborate-with-the-team?u=76281980&t=102)** by building trust and accountability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), business (3), [[Building Trust]] (2), [[Accountability]] (2), functional (1)
+> **Frameworks & Libraries:** [[Building Trust]] (2), [[Accountability]] (2)
 > **Env Vars:** sdlc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - it (1)
 
-#### Set expectations and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980)
+#### [Set expectations and goals](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980&t=60)** As you get up to speed, and start contributing to the project, make sure to regularly check in with your teammates.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980&t=67)** Constantly communicate what you are working on to the rest of the team, and don't be afraid to speak up if you see something wrong.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980&t=67)** Constantly communicate what you are working on to the [[Representational State Transfer (REST)|rest]] of the team, and don't be afraid to speak up if you see something wrong.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-expectations-and-goals?u=76281980&t=73)** If you need help, find someone who can answer your questions.
 >
@@ -446,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** be aware (1)
@@ -457,8 +449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a test strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
+#### [Create a test strategy](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,9 +495,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=108)** First up is tooling.
 >
-> **[1:50](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=110)** An example of tooling is, Jenkins is used to build test versions of the application and virtual machines are used to test the application in Windows.
+> **[1:50](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=110)** An example of tooling is, [[Jenkins]] is used to build test versions of the application and [[Virtual Machines]] are used to test the application in [[Windows]].
 >
-> **[2:00](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=120)** Then there are test environments which describe what environments are needed for exploratory and manual testing.
+> **[2:00](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=120)** Then there are test environments which describe what environments are needed for exploratory and [[Manual Testing]].
 >
 > **[2:08](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980&t=128)** An example of test environments is that manual testing will be done in environments created on-demand.
 >
@@ -542,14 +533,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (3), [[Windows]] (3), [[Manual Testing]] (2), data (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Manual Testing]] (2), [[Jenkins]] (1), [[Virtual Machines]] (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - for (1)
 
-#### Make a test plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980)
+#### [Make a test plan](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980&t=57)** Let's go through an example now.
 >
-> **[0:59](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980&t=59)** Say I'm working on a new feature for user management.
+> **[0:59](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980&t=59)** Say I'm working on a new feature for [[User Management]].
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/make-a-test-plan?u=76281980&t=62)** This feature provides the ability to add and delete users, or edit a user's profile.
 >
@@ -629,12 +619,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), [[User Management]] (2), application (2), next (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[User Management]] (2)
 > **Definitions:** is a  (7)
 > **Speakers:** - each (1)
 
-#### Write acceptance criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/write-acceptance-criteria?u=76281980)
+#### [Write acceptance criteria](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/write-acceptance-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,14 +677,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), application (2), product (1), business (1), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
-#### Identify when testing is complete
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-when-testing-is-complete?u=76281980)
+#### [Identify when testing is complete](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-when-testing-is-complete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,7 +716,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), product (1), [[Automation]] (1)
 > **Env Vars:** sdlc (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - it (1)
@@ -739,8 +725,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Box testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
+#### [Box testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,7 +743,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=38)** The focus with black box testing is to perform an action in the user interface and expect a certain result from that action.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=46)** Black box tests include manual testing and UI automation testing, both of which will help uncover issues with functionality and usability.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=46)** Black box tests include [[Manual Testing]] and UI automation testing, both of which will help uncover issues with functionality and usability.
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=56)** QA engineers are responsible for this level of testing.
 >
@@ -770,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=71)** It requires QA engineers to have a deeper understanding of the application.
 >
-> **[1:16](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=76)** Gray box tests include integration testing, which examines how components of the application work together.
+> **[1:16](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=76)** Gray box tests include [[Integration Testing]], which examines how components of the application work together.
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=83)** They can trigger some action in the UI and see how the code responds.
 >
@@ -786,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=114)** Developers are responsible for these type of tests and write them alongside development.
 >
-> **[1:59](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=119)** Take for example a shopping cart on an e-commerce web application, items can be added and removed from the shopping cart and a total is displayed based on the quantity of items in the cart.
+> **[1:59](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=119)** Take for example a shopping cart on an [[E-Commerce]] web application, items can be added and removed from the shopping cart and a total is displayed based on the quantity of items in the cart.
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980&t=132)** For this feature I'll want to think about the type of testing that can be done to ensure quality and confidence that the application works as expected.
 >
@@ -824,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), web (2), product (1), [[Manual Testing]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1), [[Integration Testing]] (1), [[E-Commerce]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** api (1)
@@ -832,12 +817,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - one (1)
 
-#### Manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/manual-testing?u=76281980)
+#### [Manual testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/manual-testing?u=76281980&t=0)** - Manual testing follows the steps as a user performing workflows in the application.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/manual-testing?u=76281980&t=0)** - [[Manual Testing]] follows the steps as a user performing workflows in the application.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/manual-testing?u=76281980&t=6)** The goal is to uncover any issues in the functionality and usability.
 >
@@ -881,17 +865,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Manual Testing]] (3), data (3), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - manual (1)
 
-#### UI automation testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/ui-automation-testing?u=76281980)
+#### [UI automation testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/ui-automation-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/ui-automation-testing?u=76281980&t=1)** - UI automation is like manual testing but uses a script to automate test scenarios.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/ui-automation-testing?u=76281980&t=1)** - UI automation is like [[Manual Testing]] but uses a script to automate test scenarios.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/ui-automation-testing?u=76281980&t=7)** The benefit of UI automation is that scenarios can be executed repeatedly by running a test script.
 >
@@ -925,20 +908,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), data (3), [[Search]] (3), feature (2), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ui (1)
 
-#### Integration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980)
+#### [Integration testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980&t=1)** - With the surface level of the application tested by manual and UI automation, a QA engineer might want to move on to test the application from another perspective.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980&t=11)** Integration testing focuses on the interaction between components at lower layers of the application.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980&t=11)** [[Integration Testing]] focuses on the interaction between components at lower layers of the application.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/integration-testing?u=76281980&t=17)** This level of testing covers similar scenarios as we've seen with manual and UI automation testing, but doesn't look at what's happening at the UI level as a result.
 >
@@ -964,14 +946,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Automation]] (3), feature (3), [[Integration Testing]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Integration Testing]] (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### Performance testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980)
+#### [Performance testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,9 +962,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=13)** because we test how the system operates under certain stress but don't have visibility into what's going on inside the system.
 >
-> **[0:20](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=20)** While manual, UI automation, and integration testing are the most common for software projects, performance testing is also very valuable.
+> **[0:20](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=20)** While manual, UI automation, and [[Integration Testing]] are the most common for [[Software Projects]], performance testing is also very valuable.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=30)** There are a few different types of performance testing Load testing checks the application's ability to perform under anticipated user loads.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=30)** There are a few different types of performance testing [[Load Testing]] checks the application's ability to perform under anticipated user loads.
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=40)** The objective is to identify the maximum operating capacity of an application by observing when bottlenecks occur.
 >
@@ -1007,7 +988,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=111)** And then there is stress testing.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=113)** Stress testing involves testing an application under extreme workloads, and seeing how it handles data processing.
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=113)** Stress testing involves testing an application under extreme workloads, and seeing how it handles [[Data Processing]].
 >
 > **[2:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=121)** The objective is to identify the breaking point of an application.
 >
@@ -1017,7 +998,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=149)** At what point does software fail and how does the software recover from failure?
 >
-> **[2:33](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=153)** From this you can understand In general, common performance problems include, long load time, poor response time, limited scalability, and bottlenecking in the system.
+> **[2:33](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=153)** From this you can understand In general, common performance problems include, long load time, poor response time, limited [[Scalability]], and bottlenecking in the system.
 >
 > **[2:49](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/performance-testing?u=76281980&t=169)** Doing performance testing can help identify and fix these problems to ensure confidence in a well-functioning application over time.
 >
@@ -1029,14 +1010,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Search]] (3), [[Load Testing]] (2), [[Automation]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[Load Testing]] (2), [[Integration Testing]] (1), [[Software Projects]] (1), [[Data Processing]] (1), [[Scalability]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - performance (1)
 
-#### Security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980)
+#### [Security testing](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=9)** or find ways to bring applications down.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=11)** Security testing is performed to reveal flaws or vulnerabilities that can be exposed by users.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=11)** [[Security Testing]] is performed to reveal flaws or vulnerabilities that can be exposed by users.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=17)** Manual UI automation, an integration test, focus more on functionality and confirming it works as expected.
 >
@@ -1054,7 +1034,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=41)** There are so many different ways to approach security testing because they are so many ways someone could try to hack an application.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=48)** SQL Injection is one of the most common types of attacks used by hackers to insert SQL database statements into any text field.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=48)** [[SQL]] Injection is one of the most common types of attacks used by hackers to insert SQL database statements into any text field.
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=56)** This can expose critical information and allow the system to be manipulated.
 >
@@ -1074,7 +1054,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=128)** Luckily, I can use software to scan my code to look for vulnerabilities.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=133)** GitHub has a feature which will automatically scan dependencies in a project and alert when there is a known security vulnerability.
+> **[2:13](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=133)** [[GitHub]] has a feature which will automatically scan dependencies in a project and alert when there is a known security vulnerability.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/security-testing?u=76281980&t=141)** This makes it quick to spot vulnerabilities and provides an easy way to update the harmful dependencies.
 >
@@ -1090,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), application (8), [[SQL]] (4), data (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Security Testing]] (6), [[SQL]] (4), [[GitHub]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -1103,8 +1083,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
+#### [Identify bugs](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,11 +1117,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5)
 > **Speakers:** - when (1)
 
-#### Report bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980)
+#### [Report bugs](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=18)** Some focus specifically on bug management, while others provide a variety of services to manage a software project.
 >
-> **[0:26](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=26)** Some popular options include Jira, Rally, GitHub, and Bugzilla to name a few.
+> **[0:26](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=26)** Some popular options include [[Jira]], Rally, [[GitHub]], and Bugzilla to name a few.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=33)** I recommend managing bugs within the same software you use to manage your project.
 >
@@ -1180,7 +1157,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=102)** A bug report should include details like the name of the bug, a description with steps to reproduce it, an expected and actual result, a picture, video, or screenshot, the browser or software version, and a log, when applicable.
 >
-> **[1:58](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=118)** Let's look at an example bug report for an E-commerce application where items are not added to the cart after pressing the Add to cart button.
+> **[1:58](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=118)** Let's look at an example bug report for an [[E-Commerce]] application where items are not added to the cart after pressing the Add to cart button.
 >
 > **[2:06](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/report-bugs?u=76281980&t=126)** The steps to reproduce are to go to the application homepage and select the first item and choose Add to cart.
 >
@@ -1200,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[GitHub]] (2), application (2), management (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[GitHub]] (2), [[E-Commerce]] (1)
 > **Tools:** jira (3), github (2)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** find (2), make (1)
@@ -1209,8 +1186,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - once (1)
 
-#### Triage bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980)
+#### [Triage bugs](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=56)** Bugs here are important to fix, While the bug might be very visible, it is not preventing users from completing any workflow.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=67)** For example, on an e-commerce site, during the checkout, there might be a glaring UI bug that breaks some HTML.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=67)** For example, on an [[E-Commerce]] site, during the checkout, there might be a glaring UI bug that breaks some [[HTML]].
 >
 > **[1:15](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=75)** While it is distracting, it is not preventing users from purchasing items.
 >
@@ -1244,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=86)** Bugs here cause major problems, but only under some circumstances.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=95)** using an outdated operating system such as Windows 7, In the upper right hand quadrant, there is high severity and high priority.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=95)** using an outdated operating system such as [[Windows]] 7, In the upper right hand quadrant, there is high severity and high priority.
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/triage-bugs?u=76281980&t=106)** Bugs here are major problems that affect most customers.
 >
@@ -1264,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[E-Commerce]] (1), [[HTML]] (1), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[HTML]] (1), [[Windows]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Best Practices:** don't forget (2)
 > **Prerequisites:** set up (2)
@@ -1272,8 +1248,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - you (1)
 
-#### Communicate bugs to the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/communicate-bugs-to-the-team?u=76281980)
+#### [Communicate bugs to the team](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/communicate-bugs-to-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,12 +1278,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), application (1)
 > **Analogies:** such as (1)
 > **Speakers:** - after (1)
 
-#### Getting bugs fixed
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/getting-bugs-fixed?u=76281980)
+#### [Getting bugs fixed](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/getting-bugs-fixed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,14 +1307,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - once (1)
 
-#### Have bug bashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980)
+#### [Have bug bashes](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1322,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980&t=12)** Taking one hour, have a group of teammates get together to test.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980&t=16)** They can either do exploratory testing of a specific feature to help uncover bugs, or they can do manual testing using a test plan.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980&t=16)** They can either do exploratory testing of a specific feature to help uncover bugs, or they can do [[Manual Testing]] using a test plan.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/have-bug-bashes?u=76281980&t=24)** This method is a bit more guided, and expects testing to follow the defined steps and scenarios.
 >
@@ -1369,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), feature (2), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** bash (1)
 > **Definitions:** is a  (1)
@@ -1385,14 +1356,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=1)** - Thank you so much for watching my course.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=3)** To continue to advance your skills with QA There are great books like Agile Testing and More Agile Testing, The Way of the Web Tester, and Lessons Learned in Software Testing.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=3)** To continue to advance your skills with QA There are great books like [[Agile Development|Agile]] Testing and More Agile Testing, The Way of the Web Tester, and Lessons Learned in [[Software Testing]].
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=17)** Online resources also come in handy.
 >
@@ -1400,11 +1370,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=25)** There's Software Testing Help, which is also a great resource with lots of tips, tutorials and courses for testing.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=33)** And Software Testing Pro, or STP, is another online community that provides lots of training Once you find tools you want to use for testing, like Selenium for example, look at the resources they have and get in touch with the community.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=33)** And Software Testing Pro, or STP, is another online community that provides lots of training Once you find tools you want to use for testing, like [[Selenium]] for example, look at the resources they have and get in touch with the community.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=48)** Attend testing events or conferences, such as Test Bash, STP, and Selenium.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=55)** And don't forget to check our library here on LinkedIn Learning.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=55)** And don't forget to check our library here on [[LinkedIn]] Learning.
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980&t=58)** If you'd like to get in touch I'd love hearing from you or answering any questions you might have about becoming a QA engineer.
 >
@@ -1420,7 +1390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (4), [[Agile Development|Agile]] (2), [[Selenium]] (2), [[LinkedIn]] (2), web (1)
+> **Frameworks & Libraries:** [[Software Testing]] (4), [[Agile Development|Agile]] (2), [[Selenium]] (2), [[LinkedIn]] (2)
 > **Env Vars:** stp (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)

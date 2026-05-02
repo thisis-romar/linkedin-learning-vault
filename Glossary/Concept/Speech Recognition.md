@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/cloud-computing
   - topic/security
-course_count: 52
+course_count: 53
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Speech Recognition
 
-> **Type:** Concept | **Courses:** 52 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 53 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Azure AI Services Essential Training]] — 3 mentions
 10. [[Rust for Data Engineering]] — 3 mentions
 
-> [!note]- See all 52 courses
+> [!note]- See all 53 courses
 > 11. [[Accessibility and AI- Bridging the Disability Divide]] — 2 mentions
 > 12. [[AI Fundamentals for Data Professionals]] — 2 mentions
 > 13. [[Responsible AI and Application Development]] — 2 mentions
@@ -55,34 +55,35 @@ created: 2026-05-02
 > 22. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
 > 23. [[The State of AI and Copyright]] — 1 mentions
 > 24. [[Executive Guide to Deploying, Monitoring, and Maintaining Models]] — 1 mentions
-> 25. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
-> 26. [[IT Security Foundations- Operating System Security]] — 1 mentions
-> 27. [[Digital Transformation Foundations]] — 1 mentions
-> 28. [[Migrating to Azure]] — 1 mentions
-> 29. [[Ux Foundations Interaction Design]] — 1 mentions
-> 30. [[Integrating Generative AI into JavaScript Web Projects]] — 1 mentions
-> 31. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
-> 32. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 1 mentions
-> 33. [[Python for Data Science and Machine Learning Essential Training Part 2]] — 1 mentions
-> 34. [[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]] — 1 mentions
-> 35. [[Building a Project with the ChatGPT API]] — 1 mentions
-> 36. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
-> 37. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
-> 38. [[Deep Learning Getting Started]] — 1 mentions
-> 39. [[Deep Learning with Python- Convolutional Neural Networks]] — 1 mentions
-> 40. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
-> 41. [[Azure AI for Developers- OpenAI Services and Generative AI Models]] — 1 mentions
-> 42. [[Azure AI for Developers- Azure AI Speech]] — 1 mentions
-> 43. [[Deep Learning- Model Optimization and Tuning (2022)]] — 1 mentions
-> 44. [[Training Neural Networks in Python]] — 1 mentions
-> 45. [[Learning AI for Business Analysis]] — 1 mentions
-> 46. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 1 mentions
-> 47. [[Threat Modeling for AI-ML Systems]] — 1 mentions
-> 48. [[Machine Learning Foundations- Linear Algebra]] — 1 mentions
-> 49. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
-> 50. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
-> 51. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 52. [[Data Science for Java Developers]] — 1 mentions
+> 25. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 26. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
+> 27. [[IT Security Foundations- Operating System Security]] — 1 mentions
+> 28. [[Digital Transformation Foundations]] — 1 mentions
+> 29. [[Migrating to Azure]] — 1 mentions
+> 30. [[Ux Foundations Interaction Design]] — 1 mentions
+> 31. [[Integrating Generative AI into JavaScript Web Projects]] — 1 mentions
+> 32. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 33. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 1 mentions
+> 34. [[Python for Data Science and Machine Learning Essential Training Part 2]] — 1 mentions
+> 35. [[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]] — 1 mentions
+> 36. [[Building a Project with the ChatGPT API]] — 1 mentions
+> 37. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
+> 38. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
+> 39. [[Deep Learning Getting Started]] — 1 mentions
+> 40. [[Deep Learning with Python- Convolutional Neural Networks]] — 1 mentions
+> 41. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
+> 42. [[Azure AI for Developers- OpenAI Services and Generative AI Models]] — 1 mentions
+> 43. [[Azure AI for Developers- Azure AI Speech]] — 1 mentions
+> 44. [[Deep Learning- Model Optimization and Tuning (2022)]] — 1 mentions
+> 45. [[Training Neural Networks in Python]] — 1 mentions
+> 46. [[Learning AI for Business Analysis]] — 1 mentions
+> 47. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 1 mentions
+> 48. [[Threat Modeling for AI-ML Systems]] — 1 mentions
+> 49. [[Machine Learning Foundations- Linear Algebra]] — 1 mentions
+> 50. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
+> 51. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
+> 52. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
+> 53. [[Data Science for Java Developers]] — 1 mentions
 
 ## Learning Paths
 

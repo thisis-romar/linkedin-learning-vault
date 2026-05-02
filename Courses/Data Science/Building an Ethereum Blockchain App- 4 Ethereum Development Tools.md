@@ -63,12 +63,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your Ethereum development toolbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)
+#### [Your Ethereum development toolbox](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=0)** - So now it's time to start building that Ethereum development toolbox.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=0)** - So now it's time to start building that [[Ethereum]] development toolbox.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=5)** We've talked about it for quite a bit, and now it's time to actually do it.
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=22)** We need the different tools because of several different reasons.
 >
-> **[0:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=27)** Number one, we want to work through the software development life cycle, which means we're going to develop code, then we're going to deploy it and run it locally, and then maybe on another test blockchain, and then to the main net.
+> **[0:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=27)** Number one, we want to work through the [[Software Development]] life cycle, which means we're going to develop code, then we're going to deploy it and run it locally, and then maybe on another test [[Blockchain]], and then to the main net.
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=42)** And we need tools to help us through all this process.
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=199)** And I'd recommend that you dig through some of these, it's great information.
 >
-> **[3:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=202)** And then we have some support of smart contract languages, and of course there's Solidity, which we're going to be using.
+> **[3:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=202)** And then we have some support of smart contract languages, and of course there's [[Solidity]], which we're going to be using.
 >
 > **[3:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980&t=210)** And if you scroll on down, there's lots of developer tools, and you'll recognize some of these.
 >
@@ -154,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (12), [[Software Development]] (1), [[Blockchain]] (1), product (1), feature (1)
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Software Development]] (1), [[Blockchain]] (1), [[Solidity]] (1)
 > **CLI Commands:** make (2), find (2)
 > **URLs:** [ethereum.org](https://ethereum.org) (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -163,22 +162,21 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
-#### Installing Geth lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980)
+#### [Installing Geth lab](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=1)** - The first tool that we're going to put into our toolbox is the Ethereum client, or the EVM.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=1)** - The first tool that we're going to put into our toolbox is the [[Ethereum]] client, or the EVM.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=8)** And we're going to use Go Ethereum, or Geth, it's often called, as the Ethereum client that we'll use.
 >
 > **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=16)** Geth is written in the Go language and it is a full Ethereum node.
 >
-> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=19)** So it actually gives us access to the entire blockchain.
+> **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=19)** So it actually gives us access to the entire [[Blockchain]].
 >
 > **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=23)** In fact, it downloads the entire blockchain and also runs a local copy of the EVM.
 >
-> **[0:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=29)** Further, it lets mine ether, it also lets us create transactions and smart contracts, because that's what the EVM does, and it gives us the access to the blockchain, allowing us to examine existing blocks.
+> **[0:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=29)** Further, it lets mine ether, it also lets us create transactions and [[Smart Contracts]], because that's what the EVM does, and it gives us the access to the blockchain, allowing us to examine existing blocks.
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=42)** So it's a full featured client for Ethereum. All right.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=62)** I'm going to choose Downloads, and it gets the latest version for each operating system that support it.
 >
-> **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=69)** So I'm going to download Geth for Windows, save my file, and as soon as it downloads, we're going to launch it and install it.
+> **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=69)** So I'm going to download Geth for [[Windows]], save my file, and as soon as it downloads, we're going to launch it and install it.
 >
 > **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=79)** And now it's downloaded.
 >
@@ -216,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=134)** So once you install Geth, you can't just click on it from the menu and run it, you actually have to run it from a command-line interface.
 >
-> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=140)** So we can run it either from the command prompt or PowerShell.
+> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=140)** So we can run it either from the command prompt or [[Powershell]].
 >
 > **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-geth-lab?u=76281980&t=143)** I'm going to use PowerShell.
 >
@@ -254,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (10), [[Blockchain]] (5), node (4), [[Powershell]] (4), cd (3)
+> **Frameworks & Libraries:** [[Ethereum]] (10), [[Blockchain]] (5), [[Powershell]] (4), [[Smart Contracts]] (1), [[Windows]] (1)
 > **CLI Commands:** node (4), make (4), cd (3)
 > **Prerequisites:** install (8)
 > **Tools:** powershell (4), command prompt (1)
@@ -263,18 +261,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **URLs:** [ethereum.org](https://ethereum.org) (1)
 
-#### Installing Ganache lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980)
+#### [Installing Ganache lab](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=0)** - So we just downloaded and installed our EVM, or our Ethereum client.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=0)** - So we just downloaded and installed our EVM, or our [[Ethereum]] client.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=6)** Now, keep in mind, even though it's a light node, the Ethereum is connected to Mainnet.
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=11)** That's really not what we want during development.
 >
-> **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=14)** So before we detach our client from Mainnet, we actually have to have another blockchain on our local computer for it to connect to.
+> **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=14)** So before we detach our client from Mainnet, we actually have to have another [[Blockchain]] on our local computer for it to connect to.
 >
 > **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=24)** So the next step is to download and install a test blockchain.
 >
@@ -290,7 +287,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=66)** Let's navigate to www.[trufflesuite.com/ganache](https://trufflesuite.com/ganache).
 >
-> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=73)** That's where we find Ganache and there's a Download for Windows button.
+> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=73)** That's where we find Ganache and there's a Download for [[Windows]] button.
 >
 > **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=77)** Click on that button, and we're going to save this file.
 >
@@ -314,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=109)** Okay, let's see, the reason is to install this app, enable sideload apps mode.
 >
-> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=113)** Ah, so this is a secure, or actually a new version of Windows that was installed with secure mode enabled, which basically says you cannot just install apps from anywhere, they have to come from the Microsoft Store.
+> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=113)** Ah, so this is a secure, or actually a new version of Windows that was installed with secure mode enabled, which basically says you cannot just install apps from anywhere, they have to come from the [[Microsoft]] Store.
 >
 > **[2:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=128)** So let's click on enable sideload apps.
 >
@@ -404,7 +401,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=344)** I can set certain values on the chain and there's some advanced things I can set a little bit later.
 >
-> **[5:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=350)** But the idea is it gives us an entire environment where we can connect to this blockchain and use it to run our tests for our smart contracts.
+> **[5:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=350)** But the idea is it gives us an entire environment where we can connect to this blockchain and use it to run our tests for our [[Smart Contracts]].
 >
 > **[6:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-ganache-lab?u=76281980&t=360)** So now we have a client, we have an Ethereum client, and we have a test blockchain.
 >
@@ -414,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Windows]] (3), [[Microsoft]] (3), node (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Windows]] (3), [[Microsoft]] (3), [[Smart Contracts]] (1)
 > **Prerequisites:** install (9)
 > **UI Navigation:** click on (4), navigate to (1), go to (1)
 > **Definitions:** is a  (4), means that (1)
@@ -423,12 +420,11 @@ created: 2026-05-02
 > **URLs:** [trufflesuite.com](https://trufflesuite.com) (1), [scan.io](https://scan.io) (1)
 > **Warnings:** keep in mind (1), warning (1)
 
-#### Installing Truffle lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980)
+#### [Installing Truffle lab](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=0)** - Let's take a brief minute to review the Ethereum software development life cycle.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=0)** - Let's take a brief minute to review the [[Ethereum]] [[Software Development]] life cycle.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=5)** Remember, we talked about planning.
 >
@@ -440,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=17)** But once we actually had the tools in place to develop our smart contract code, we need to test that.
 >
-> **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=24)** Now we just installed a test blockchain, but we really need to put a framework on top of it that makes it possible for us to conveniently move our smart contract code around, compile it, deploy it, and manage it, and take care of all the internals.
+> **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=24)** Now we just installed a test [[Blockchain]], but we really need to put a framework on top of it that makes it possible for us to conveniently move our smart contract code around, compile it, deploy it, and manage it, and take care of all the internals.
 >
 > **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=41)** So let's do that next.
 >
@@ -448,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=50)** And the one we've chosen is called Truffle.
 >
-> **[0:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=52)** You may have heard the word before, and you're going to recognize the website in just a moment.
+> **[0:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=52)** You may have heard the [[Microsoft Word|word]] before, and you're going to recognize the website in just a moment.
 >
 > **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=56)** It works very well with Ganache because it comes from the same people.
 >
@@ -470,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=94)** If not sure which one of these is, you can scroll down and see.
 >
-> **[1:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=98)** Truffle is smart contracts made sweeter.
+> **[1:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=98)** Truffle is [[Smart Contracts]] made sweeter.
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=101)** That's what we're going to get.
 >
@@ -484,11 +480,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=115)** How do we get it?
 >
-> **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=117)** Okay, so the way we install Truffle is we type this command: NPM install Truffle.
+> **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=117)** Okay, so the way we install Truffle is we type this command: [[npm]] install Truffle.
 >
 > **[2:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=122)** Oh, okay.
 >
-> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=124)** Let's go back into PowerShell.
+> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=124)** Let's go back into [[Powershell]].
 >
 > **[2:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=131)** All right, and let's type in this command.
 >
@@ -496,7 +492,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=138)** If I type in NPM, notice it tells me, I don't recognize this.
 >
-> **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=143)** That's because NPM is the Node.js package manager.
+> **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=143)** That's because NPM is the [[Node.js]] package manager.
 >
 > **[2:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=149)** In other words, it means that before we can install Truffle, we have to have Node.js installed.
 >
@@ -506,7 +502,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=163)** And from there, we can navigate to the download page.
 >
-> **[2:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=167)** So here we have the Windows Installer for Node.js.
+> **[2:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=167)** So here we have the [[Windows]] Installer for Node.js.
 >
 > **[2:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=170)** I'm going to click on that, and choose, Save File.
 >
@@ -534,7 +530,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=218)** I'm going to have to choose Yes for user account control.
 >
-> **[3:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=222)** Node.js is a development environment for the JavaScript language.
+> **[3:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=222)** Node.js is a development environment for the [[JavaScript]] language.
 >
 > **[3:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=226)** So it helps us, it actually provides a runtime for JavaScript, and NPM will install packages for the Node.js environment.
 >
@@ -562,7 +558,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=314)** This shows us that we have Truffle version 5.0.37 installed.
 >
-> **[5:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=319)** And notice that solc-js, that is the solidity compiler for JavaScript, was also installed.
+> **[5:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=319)** And notice that solc-js, that is the [[Solidity]] compiler for JavaScript, was also installed.
 >
 > **[5:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-truffle-lab?u=76281980&t=327)** And we have Node in web3 JS version.
 >
@@ -576,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (11), [[npm]] (7), next (4), [[Powershell]] (4), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[Node.js]] (11), [[npm]] (7), [[Powershell]] (4), [[JavaScript]] (4), [[Ethereum]] (2)
 > **CLI Commands:** node (13), npm (7), find (1), make (1)
 > **Prerequisites:** install (10), setup (2)
 > **File Paths:** node.js (11)
@@ -585,8 +581,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (3), scroll down (1), click on (1)
 > **Tools:** powershell (4)
 
-#### Installing Microsoft Visual Studio Code lab (IDE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980)
+#### [Installing Microsoft Visual Studio Code lab (IDE)](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=5)** This pulls everything together.
 >
-> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=8)** And that is the method or the tool set that we're going to use to actually enter code that will become smart contracts.
+> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=8)** And that is the method or the tool set that we're going to use to actually enter code that will become [[Smart Contracts]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=15)** Now, we can use a boring source code editor.
 >
@@ -612,13 +607,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=41)** It gives us automatic code completion, automatic syntax help or ready syntax help without having to go anywhere else.
 >
-> **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=49)** We've chosen one of the best IDEs out there, especially ones for free, called Microsoft Visual Studio Code.
+> **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=49)** We've chosen one of the best IDEs out there, especially ones for free, called [[Microsoft]] Visual Studio Code.
 >
 > **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=56)** Now, if you've used Visual Studio in the past, you may have looked at it as a commercial product.
 >
 > **[1:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=61)** And that's still out there.
 >
-> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=63)** But Visual Studio Code is a free product that's available not only for Windows but also for most operating systems.
+> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=63)** But Visual Studio Code is a free product that's available not only for [[Windows]] but also for most operating systems.
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=70)** So, download this IDE and install it and you'll find that running code is a whole lot more fun.
 >
@@ -664,7 +659,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=154)** So now we have Visual Studio Code installed.
 >
-> **[2:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=158)** But to really use the advantages for Solidity, we need to install at least one extension.
+> **[2:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=158)** But to really use the advantages for [[Solidity]], we need to install at least one extension.
 >
 > **[2:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/installing-microsoft-visual-studio-code-lab-ide?u=76281980&t=164)** So let's install the Solidity language extensions for Visual Studio Code and it'll make the IDE even that much more useful.
 >
@@ -722,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (5), [[Windows]] (3), product (2), [[Smart Contracts]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Windows]] (3), [[Smart Contracts]] (1), [[Microsoft]] (1)
 > **Tools:** visual studio (10), vs code (2)
 > **Env Vars:** ide (5)
 > **Prerequisites:** install (5)

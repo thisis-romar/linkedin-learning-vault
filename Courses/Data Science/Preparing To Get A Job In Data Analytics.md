@@ -79,16 +79,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data analytics: From initial interest to job interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980)
+#### [Data analytics: From initial interest to job interview](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=0)** - So you want to get into data analytics and you've started thinking about applying for jobs, but you don't know where to start.
 >
-> **[0:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=7)** In this LinkedIn Learning course, we'll talk about all of the components you need to prepare for an analytics interview.
+> **[0:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=7)** In this [[LinkedIn]] Learning course, we'll talk about all of the components you need to prepare for an analytics interview.
 >
-> **[0:13](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=13)** Things like what skills you need to have, both technical and soft skills, how to showcase those skills in a portfolio, and how to optimize your LinkedIn profile to stand out.
+> **[0:13](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=13)** Things like what skills you need to have, both technical and [[Soft Skills]], how to showcase those skills in a portfolio, and how to optimize your LinkedIn profile to stand out.
 >
 > **[0:25](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980&t=25)** I'm Jess Ramos.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), data (3), [[LinkedIn]] (3), [[Soft Skills]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Soft Skills]] (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - so (1)
 
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data analytics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980)
+#### [What is data analytics?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,15 +130,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=34)** To dig deeper, data analytics is the process of transforming messy, raw data into useful data assets that a company can draw insights from to make business decisions.
 >
-> **[0:47](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=47)** A data analyst is able to drive insights using a variety of methods and tools and clearly translate and communicate the insights to stakeholders using the appropriate business acumen.
+> **[0:47](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=47)** A data analyst is able to drive insights using a variety of methods and tools and clearly translate and communicate the insights to stakeholders using the appropriate [[Business Acumen]].
 >
-> **[0:57](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=57)** This can be in the form of analyses, metrics, reports, dashboards, or presentations built off of data from the database.
+> **[0:57](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=57)** This can be in the form of analyses, metrics, reports, [[Dashboards]], or presentations built off of data from the database.
 >
-> **[1:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=68)** Many popular tools used to accomplish this are SQL, Power BI, Tableau, Python, R, Excel, and many more.
+> **[1:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=68)** Many popular tools used to accomplish this are [[SQL]], [[Microsoft Power BI|Power BI]], [[Tableau]], [[Python (Programming Language)|Python]], R, [[Microsoft Excel|Excel]], and many more.
 >
 > **[1:19](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=79)** Don't worry about these just yet, we'll talk about them later.
 >
-> **[1:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=82)** You may have noticed that I mentioned a few key soft skills earlier, communication, translation, and business acumen.
+> **[1:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=82)** You may have noticed that I mentioned a few key [[Soft Skills]] earlier, communication, translation, and business acumen.
 >
 > **[1:31](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980&t=91)** The fancy tools and technical skills are a staple for data analytics, but without the soft skills of being able to communicate with stakeholders, the results are useless.
 >
@@ -164,14 +162,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Analytics]] (10), business (8), career (2), [[Soft Skills]] (2)
+> **Frameworks & Libraries:** [[Business Acumen]] (2), [[Soft Skills]] (2), [[Dashboards]] (1), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### What does a data analyst do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980)
+#### [What does a data analyst do?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,13 +208,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=89)** After coming up with a solution, it's a data analyst's job to translate the results to the stakeholder in a way that can be easily understood.
 >
-> **[1:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=97)** Most of the time, the final deliverable is a PowerPoint, a dashboard, a report, an Excel file, or even sometimes just a simple number or percentage.
+> **[1:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=97)** Most of the time, the final deliverable is a [[Microsoft PowerPoint|PowerPoint]], a dashboard, a report, an [[Microsoft Excel|Excel]] file, or even sometimes just a simple number or percentage.
 >
 > **[1:48](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=108)** It's vital that the final result not only informs the stakeholder of the solution, but also how to act on it.
 >
 > **[1:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=115)** Insights are great, but actionable insights are even better.
 >
-> **[2:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=121)** An average day as a data analyst involves collaborating with stakeholders to understand business needs, working with your peers and manager to iterate on a solution, writing queries in SQL, building visualizations in Power BI or Tableau, and driving decisions with your results.
+> **[2:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=121)** An average day as a data analyst involves collaborating with stakeholders to understand business needs, working with your peers and manager to iterate on a solution, writing queries in [[SQL]], building visualizations in [[Microsoft Power BI|Power BI]] or [[Tableau]], and driving decisions with your results.
 >
 > **[2:19](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-does-a-data-analyst-do?u=76281980&t=139)** Of course, technical skills in coding are a big part of analytics, but a lot of your time as a data analyst is spent in meetings working with stakeholders, framing problems and understanding the data in the context of the business, so don't underestimate this part of the job.
 >
@@ -231,15 +228,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (7), [[Analytics]] (5), product (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - i (1)
 
-#### What are the different types of data analytics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980)
+#### [What are the different types of data analytics?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,11 +287,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=165)** (gentle upbeat music) Another thing to consider is the level of technicality you are hoping to pursue in your next role.
 >
-> **[2:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=174)** Data analytics roles can vary in technicality and also in their overlap with data science and data engineering.
+> **[2:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=174)** Data analytics roles can vary in technicality and also in their overlap with [[Data Science]] and [[Data Engineering]].
 >
-> **[3:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=181)** Some roles, especially those with a business analytics title, have a larger emphasis on business and a lesser emphasis on coding and programming.
+> **[3:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=181)** Some roles, especially those with a [[Business Analytics]] title, have a larger emphasis on business and a lesser emphasis on coding and programming.
 >
-> **[3:09](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=189)** You may spend more time building visualizations and dashboards and less time querying the database.
+> **[3:09](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=189)** You may spend more time building visualizations and [[Dashboards]] and less time querying the database.
 >
 > **[3:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=195)** Some other roles, especially senior-level data analytics roles, may require more advanced analytics techniques, such as modeling and programming.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=216)** In the data analytics world, titles can mean different things across different companies and industries.
 >
-> **[3:41](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=221)** A data analytics role in a large traditional finance company can involve using mostly Excel, SAS, and Tableau, whereas a data analytics role in a small tech startup can involve using mostly SQL and Python.
+> **[3:41](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=221)** A data analytics role in a large traditional finance company can involve using mostly [[Microsoft Excel|Excel]], SAS, and [[Tableau]], whereas a data analytics role in a small tech startup can involve using mostly [[SQL]] and [[Python (Programming Language)|Python]].
 >
 > **[3:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-are-the-different-types-of-data-analytics?u=76281980&t=235)** There can be a lot of variation in the types of tools and work you do based on the company and industry expectations.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (23), data (16), business (11), product (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Data Engineering]] (1), [[Business Analytics]] (1), [[Dashboards]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** sas (1), sql (1)
@@ -326,8 +322,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Should you be a data analyst?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980)
+#### [Should you be a data analyst?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=36)** In data analytics courses you will generally work with clean cookie cutter data and everything just works out beautifully.
 >
-> **[0:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=43)** In the real world, data is messy, super messy, and a lot of the time analytics teams don't have the best data quality and support from leadership.
+> **[0:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=43)** In the real world, data is messy, super messy, and a lot of the time analytics teams don't have the best [[Data Quality]] and support from leadership.
 >
 > **[0:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=52)** There can be a lot of challenges to get good quality data and to convince leadership to trust and follow the insights you provide.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=68)** It's a field that takes constant learning and adapting.
 >
-> **[1:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=71)** You'll always be facing new challenges and Google will be your best friend.
+> **[1:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=71)** You'll always be facing new challenges and [[Google]] will be your best friend.
 >
 > **[1:16](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/should-you-be-a-data-analyst?u=76281980&t=76)** An average day of working in data analytics is being comfortable with not knowing everything and figuring it out as you go.
 >
@@ -395,14 +390,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Analytics]] (8), career (5), leadership (2), teams (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - after (1)
 
-#### How much work does it take to be a data analyst?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980)
+#### [How much work does it take to be a data analyst?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=19)** Depending on the amount of time you have to dedicate, becoming a data analyst from the ground up will likely take six months to a year of work, if not more.
 >
-> **[0:29](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=29)** Many people even choose to go to grad school and get degrees in analytics, business analytics, or data science to prepare for a role in data.
+> **[0:29](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=29)** Many people even choose to go to grad school and get degrees in analytics, [[Business Analytics]], or [[Data Science]] to prepare for a role in data.
 >
 > **[0:38](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=38)** Although there are many advantages to going to grad school such as increased starting salaries, structured learning, and more job opportunities, the cost and time commitment of grad school isn't the best option for everyone.
 >
@@ -424,9 +418,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=58)** Well, my friend, you are in the right place.
 >
-> **[1:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=60)** The rest of this course is focused on the three main parts of preparing for an interview in data analytics.
+> **[1:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=60)** The [[Representational State Transfer (REST)|rest]] of this course is focused on the three main parts of preparing for an interview in data analytics.
 >
-> **[1:06](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=66)** The first is up-skilling in relevant tools and skills like SQL, statistics, programming, and a business intelligence, or BI, visualization tool.
+> **[1:06](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=66)** The first is up-skilling in relevant tools and skills like [[SQL]], [[Statistics]], programming, and a [[Business Intelligence (BI)|business intelligence]], or BI, visualization tool.
 >
 > **[1:17](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=77)** Data analytics requires a specialized skillset, and you'll constantly be up-skilling throughout your career to grow and land more senior level roles.
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=96)** The second part of preparing for a data analytics interview is to level up your professional presence in online network.
 >
-> **[1:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=103)** This includes optimizing your LinkedIn profile to stand out to technical recruiters, building your network, and putting together an amazing resume.
+> **[1:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=103)** This includes optimizing your [[LinkedIn]] profile to stand out to technical recruiters, building your network, and putting together an amazing resume.
 >
 > **[1:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-much-work-does-it-take-to-be-a-data-analyst?u=76281980&t=112)** We're going to focus specifically on optimizing your LinkedIn profile, but I recommend checking out a resume course on LinkedIn Learning to optimize your resume as well.
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (8), [[LinkedIn]] (6), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Business Analytics]] (1), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
@@ -477,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Skills needed in data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980)
+#### [Skills needed in data analysis](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,9 +493,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=53)** If you're brand new to data analytics, you should customize your learning journey to fit your target role.
 >
-> **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=59)** For example, many entry level roles don't require Python or R, so maybe you don't want to focus all of your time there right away.
+> **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=59)** For example, many entry level roles don't require [[Python (Programming Language)|Python]] or R, so maybe you don't want to focus all of your time there right away.
 >
-> **[1:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=67)** Or maybe you're targeting a finance analyst position, that mostly uses Excel and Tableau, so you don't want to focus as much time on SQL.
+> **[1:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=67)** Or maybe you're targeting a finance analyst position, that mostly uses [[Microsoft Excel|Excel]] and [[Tableau]], so you don't want to focus as much time on [[SQL]].
 >
 > **[1:16](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980&t=76)** However, if you're already an established data analyst with some experience, you may want to target some roles that allow you to leverage your preexisting skillset.
 >
@@ -514,15 +507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (3), business (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), [[Tableau]] (1), [[SQL]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - before (1)
 
-#### How to learn statistics for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980)
+#### [How to learn statistics for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=35)** So let's talk about some of the basic concepts you should know, but we're definitely not going to talk about all of them.
 >
-> **[0:41](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=41)** In my experience, it's best to focus most of your time on two main areas, basic logic and statistics.
+> **[0:41](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=41)** In my experience, it's best to focus most of your time on two main areas, basic logic and [[Statistics]].
 >
 > **[0:49](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=49)** Without these skills, it'll be difficult to jump into coding and produce quality analyses.
 >
@@ -574,7 +566,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=159)** Once you've nailed down the basics, expand your knowledge into hypothesis testing, statistical significance, and regression.
 >
-> **[2:46](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=166)** If you need brushing up on any of these areas, check out LinkedIn Learning and identify a few courses on logic and statistics you want to take later on.
+> **[2:46](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=166)** If you need brushing up on any of these areas, check out [[LinkedIn]] Learning and identify a few courses on logic and statistics you want to take later on.
 >
 > **[2:56](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-statistics-for-data-analytics?u=76281980&t=176)** All of this math was a lot to digest in a short amount of time.
 >
@@ -600,13 +592,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (6), [[Programming]] (1), [[LinkedIn]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - maybe (1)
 
-#### How to learn basic data skills for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980)
+#### [How to learn basic data skills for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,11 +609,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=21)** It may also be helpful to learn about data dictionaries.
 >
-> **[0:24](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=24)** A data dictionary is a document or Excel sheet that outlines and defines a dataset by stating all relevant information about each column or variable, like the data type, allowed values, and definition.
+> **[0:24](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=24)** A data dictionary is a document or [[Microsoft Excel|Excel]] sheet that outlines and defines a dataset by stating all relevant information about each column or variable, like the data type, allowed values, and definition.
 >
 > **[0:38](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=38)** Being able to read and understand a data dictionary will give you a solid understanding of a dataset, and it'll help you understand different kinds of data types and recognize outliers and anomalies.
 >
-> **[0:50](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=50)** Once you understand the basics of a dataset, you can dig into the different types of analyses and forms of data presentation, like different visualization types, reports, and dashboards.
+> **[0:50](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=50)** Once you understand the basics of a dataset, you can dig into the different types of analyses and [[Forms]] of data presentation, like different visualization types, reports, and [[Dashboards]].
 >
 > **[1:02](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=62)** It's key to understand how each of these can be used by stakeholders and impact a business.
 >
@@ -640,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=112)** See what stories you can tell with the data.
 >
-> **[1:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=114)** Along the way, be sure to perform descriptive statistics, decide how to handle NULL values, identify outliers and anomalies, explore variable distributions, and analyze correlations between multiple variables.
+> **[1:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=114)** Along the way, be sure to perform descriptive [[Statistics]], decide how to handle NULL values, identify outliers and anomalies, explore variable distributions, and analyze correlations between multiple variables.
 >
 > **[2:09](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-basic-data-skills-for-data-analytics?u=76281980&t=129)** It's okay if you experiment and try something that doesn't work out.
 >
@@ -656,25 +647,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), business (5), next (2), [[Statistics]] (2), career (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel|Excel]] (1), [[Forms]] (1), [[Dashboards]] (1)
 > **Env Vars:** null (2), eda (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### How to learn Power BI and Tableau for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980)
+#### [How to learn Power BI and Tableau for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=0)** - One of the best places to start with learning technical skills for data analytics is data visualization, because it requires minimal coding and you can gain proficiency pretty quickly.
 >
-> **[0:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=11)** We'll go over the most popular options, Power BI and Tableau, at the end of this video, but first, let's talk about why these tools are important to analytics.
+> **[0:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=11)** We'll go over the most popular options, [[Microsoft Power BI|Power BI]] and [[Tableau]], at the end of this video, but first, let's talk about why these tools are important to analytics.
 >
-> **[0:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=20)** Business intelligence tools, also called BI tools, are the brains behind data visualization and dashboarding.
+> **[0:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=20)** [[Business Intelligence (BI)|Business intelligence]] tools, also called BI tools, are the brains behind data visualization and dashboarding.
 >
-> **[0:27](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=27)** BI tools can pull data from the database using SQL, which we'll talk about in the next video, Excel spreadsheets, CRMs, such as HubSpot and Salesforce, and more.
+> **[0:27](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=27)** BI tools can pull data from the database using [[SQL]], which we'll talk about in the next video, [[Microsoft Excel|Excel]] spreadsheets, CRMs, such as HubSpot and Salesforce, and more.
 >
 > **[0:38](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=38)** Most BI tools have drag-and-drop functionality that allow you to drag different fields onto the screen and they automatically recommend the best way to set up the visual.
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=84)** Being able to create and visualize metrics and key performance indicators, or KPIs, is an essential part of working with business stakeholders.
 >
-> **[1:33](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=93)** Some of the most useful deliverables for business stakeholders that come from BI tools are reports and dashboards.
+> **[1:33](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=93)** Some of the most useful deliverables for business stakeholders that come from BI tools are reports and [[Dashboards]].
 >
 > **[1:40](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=100)** Reports show a more in-depth analysis of what's going on, where dashboards show a high-level view of metrics and KPIs.
 >
@@ -714,9 +704,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=154)** It's better to learn one really well than to learn both with a surface-level understanding.
 >
-> **[2:40](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=160)** Many people seem to choose Tableau for their first BI tool, since it's a little easier to pick up and has a lower learning curve, but I'm actually a huge fan of Power BI, because it's more robust, more customizable, and it has the Power Query Editor, which is the backend developer side of Power BI that allows you to perform amazing data transformations.
+> **[2:40](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=160)** Many people seem to choose Tableau for their first BI tool, since it's a little easier to pick up and has a lower learning curve, but I'm actually a huge fan of Power BI, because it's more robust, more customizable, and it has the [[Microsoft Power Query|Power Query]] Editor, which is the backend developer side of Power BI that allows you to perform amazing data transformations.
 >
-> **[3:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=183)** If you choose Power BI, I highly recommend you follow some of our instructors who teach Power BI content here on LinkedIn.
+> **[3:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=183)** If you choose Power BI, I highly recommend you follow some of our instructors who teach Power BI content here on [[LinkedIn]].
 >
 > **[3:10](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-power-bi-and-tableau-for-data-analytics?u=76281980&t=190)** Regardless of which BI tool you choose, you will be set up for success.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (17), data (14), power (8), [[Tableau]] (5), business (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Tableau]] (5), [[Dashboards]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), eda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), imagine (1)
@@ -743,16 +733,15 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### How to learn SQL for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980)
+#### [How to learn SQL for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=0)** - Now that we've discussed the basics of analytics and BI visualization tools, the next natural question is where do you get the data from?
 >
-> **[0:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=8)** Sure, you can use Excel sheets while learning analytics, but Excel sheets all the time isn't super realistic unless you're working in consulting or finance.
+> **[0:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=8)** Sure, you can use [[Microsoft Excel|Excel]] sheets while learning analytics, but Excel sheets all the time isn't super realistic unless you're working in consulting or finance.
 >
-> **[0:18](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=18)** Most companies use databases and data warehouses to store data because they're much more scalable, automated, and agile, and they access it using my favorite language, SQL.
+> **[0:18](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=18)** Most companies use [[Databases]] and data warehouses to store data because they're much more scalable, automated, and [[Agile Development|agile]], and they access it using my favorite language, [[SQL]].
 >
 > **[0:31](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=31)** SQL, also called SQL, stands for structured query language.
 >
@@ -760,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=43)** Having database knowledge is super important for a career in analytics because you'll constantly be pulling your own data sets for analysis.
 >
-> **[0:51](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=51)** Sometimes, you might pull data from the database and export it to Excel for an ad hoc analysis or a one-time quick request from a stakeholder, and sometimes, you might be setting up a more long-term solution, like connecting to the database through Power BI or Tableau.
+> **[0:51](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=51)** Sometimes, you might pull data from the database and export it to Excel for an ad hoc analysis or a one-time quick request from a stakeholder, and sometimes, you might be setting up a more long-term solution, like connecting to the database through [[Microsoft Power BI|Power BI]] or [[Tableau]].
 >
 > **[1:06](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=66)** Either way, you'll be required to tell the database what data you want.
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=76)** Do you want to aggregate the data and categorize it into groups?
 >
-> **[1:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=80)** Or maybe you need to do some very heavy-duty data wrangling to reshape the data or combine multiple tables.
+> **[1:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=80)** Or maybe you need to do some very heavy-duty [[Data Wrangling]] to reshape the data or combine multiple tables.
 >
 > **[1:27](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=87)** Very rarely is data perfectly formatted and ready to go.
 >
@@ -790,7 +779,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=147)** Pause this video and research some integrated development environments, or IDEs, that support SQL and will allow you to practice learning.
 >
-> **[2:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=157)** I recommend DBeaver's Community edition and MySQL Workbench.
+> **[2:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=157)** I recommend DBeaver's Community edition and [[MySQL]] Workbench.
 >
 > **[2:42](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=162)** They are pretty easy to download and get started with.
 >
@@ -798,7 +787,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=171)** You'll learn all these concepts in a SQL course.
 >
-> **[2:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=175)** Writing SQL queries is an important skill in itself, but having a deep understanding of relational databases and data models will take your SQL to the next level.
+> **[2:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=175)** Writing SQL queries is an important skill in itself, but having a deep understanding of [[Relational Databases]] and data models will take your SQL to the next level.
 >
 > **[3:05](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-sql-for-data-analytics?u=76281980&t=185)** It will ensure that you understand the structure of the data well and are pulling the data you really need.
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (20), data (18), [[Analytics]] (5), database (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[SQL]] (20), [[Microsoft Excel|Excel]] (3), [[Databases]] (2), [[Agile Development|Agile]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (20), roi (1)
 > **CLI Commands:** make (1), mysql (1), find (1)
 > **Definitions:** stands for (1), is an  (1)
@@ -829,8 +818,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### How to learn programming in Python or R for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980)
+#### [How to learn programming in Python or R for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=3)** Now we're going to talk about a few tools that will help you take your analytics to the next level.
 >
-> **[0:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=8)** Python and R, a programming language like one of these will allow you to complete more advanced analyses and provide you with greater control to customize and speed up data processing.
+> **[0:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=8)** [[Python (Programming Language)|Python]] and R, a programming language like one of these will allow you to complete more advanced analyses and provide you with greater control to customize and speed up [[Data Processing]].
 >
 > **[0:21](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=21)** Before I dig in more, I'm going to address a few questions you might have.
 >
@@ -846,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=32)** The answer is no.
 >
-> **[0:34](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=34)** Plenty of roles out there stick to the basic skills like SQL and a BI tool.
+> **[0:34](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=34)** Plenty of roles out there stick to the basic skills like [[SQL]] and a BI tool.
 >
 > **[0:39](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=39)** However, many roles do require a programming language especially more senior level roles so having these skills will only help you stand out and open more opportunities.
 >
@@ -860,15 +848,15 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=77)** It's better to have a deep knowledge of one language than to have a surface level knowledge of two languages.
 >
-> **[1:23](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=83)** Similar to the Tableau and Power BI debate, if you know Python or R, it's a lot easier to translate those skills and learn another language.
+> **[1:23](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=83)** Similar to the [[Tableau]] and [[Microsoft Power BI|Power BI]] debate, if you know Python or R, it's a lot easier to translate those skills and learn another language.
 >
 > **[1:31](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=91)** This is because the underlying coding concepts and skills are the bread and butter to programming.
 >
-> **[1:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=97)** Once you put in the effort to master the underlying skills like data wrangling, data visualization, writing functions and loops and building models it's a lot easier to translate those into another language so don't sweat it if you don't know both Python and R, being able to speak to one of them will be your golden ticket in interviews.
+> **[1:37](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=97)** Once you put in the effort to master the underlying skills like [[Data Wrangling]], data visualization, writing functions and loops and building models it's a lot easier to translate those into another language so don't sweat it if you don't know both Python and R, being able to speak to one of them will be your golden ticket in interviews.
 >
 > **[1:57](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=117)** Although it doesn't really matter which one you learn, there are a few advantages of each that I'd like to point out.
 >
-> **[2:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=124)** First, R is geared more towards statistics, research and academia, and in my experience, it's a little more intuitive.
+> **[2:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=124)** First, R is geared more towards [[Statistics]], research and academia, and in my experience, it's a little more intuitive.
 >
 > **[2:13](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=133)** On the other hand, Python is a general purpose programming language and it offers greater capabilities for certain tasks like building web applications and handling large amounts of data.
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=162)** Some companies are already invested in one of the languages and will ask that you learn that one, but some will give you the flexibility to use either.
 >
-> **[2:50](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=170)** Keep this in mind as your job searching.
+> **[2:50](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=170)** Keep this in mind as your [[Job Searching]].
 >
 > **[2:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-learn-programming-in-python-or-r-for-data-analytics?u=76281980&t=172)** You can target companies that are looking to fill roles with your skillset, or you can upskill in the language that your dream company is looking for.
 >
@@ -890,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Analytics]] (7), [[Programming]] (7), data (6), bi (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Data Processing]] (1), [[SQL]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** python (9)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -903,14 +891,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LinkedIn profile: First impressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980)
+#### [LinkedIn profile: First impressions](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=0)** - Now, we are going to talk about one of my favorite things.
 >
-> **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=3)** How LinkedIn can be your biggest asset when searching for a job in Data Analytics.
+> **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=3)** How [[LinkedIn]] can be your biggest asset when searching for a job in Data Analytics.
 >
 > **[0:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=8)** I used to be someone who barely ever used LinkedIn, so I can totally relate if that's where you're at now.
 >
@@ -962,13 +949,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=120)** Don't make the mistake of not adding one, like you can see in Charlotte's profile picture here.
 >
-> **[2:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=128)** You can design a Cover Photo in Canva or another graphic design website.
+> **[2:08](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=128)** You can design a Cover Photo in [[Canva]] or another [[Graphic Design]] website.
 >
 > **[2:13](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=133)** Be sure to add elements of your personality and skills.
 >
 > **[2:16](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=136)** This will be instrumental in building your personal brand for analytics.
 >
-> **[2:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=140)** If you need some help with personal branding, check out some other courses here in the LinkedIn Learning library to get you started.
+> **[2:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=140)** If you need some help with [[Personal Branding]], check out some other courses here in the LinkedIn Learning library to get you started.
 >
 > **[2:28](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980&t=148)** After doing that, Charlotte's profile has a new Cover Photo and is starting to look much more professional.
 >
@@ -1006,7 +993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[LinkedIn]] (4), [[Analytics]] (3), career (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Canva]] (1), [[Graphic Design]] (1), [[Personal Branding]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), such as (1)
 > **Definitions:** is a  (1)
@@ -1014,8 +1001,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### LinkedIn profile: Skills, experience, and recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980)
+#### [LinkedIn profile: Skills, experience, and recommendations](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=15)** It's good to have all of your prior and current positions listed.
 >
-> **[0:18](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=18)** Add technical skills like SQL, Python, and Power BI, and bullet points under each role.
+> **[0:18](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=18)** Add technical skills like [[SQL]], [[Python (Programming Language)|Python]], and [[Microsoft Power BI|Power BI]], and bullet points under each role.
 >
 > **[0:24](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=24)** It's important to clearly explain your accomplishments in the role and the impact that they had on the company.
 >
@@ -1043,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=56)** You can also add those skills to the skills section.
 >
-> **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=59)** Be sure to not only add all of your technical skills like SQL and Python, but to also add soft skills like data storytelling and communication.
+> **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=59)** Be sure to not only add all of your technical skills like SQL and Python, but to also add [[Soft Skills]] like [[Data Storytelling]] and communication.
 >
 > **[1:09](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=69)** Pin your top technical skills to the top.
 >
@@ -1063,7 +1049,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=115)** Which profile would you click on if you were a data analytics recruiter?
 >
-> **[2:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=121)** As you can see, LinkedIn is vital for your job search and fine tuning your profile can help you stand out to recruiters and build a credible personal brand in the industry.
+> **[2:01](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=121)** As you can see, [[LinkedIn]] is vital for your job search and [[Fine Tuning]] your profile can help you stand out to recruiters and build a credible personal brand in the industry.
 >
 > **[2:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-skills-experience-and-recommendations?u=76281980&t=131)** If you're new to LinkedIn, don't worry, I was too at one point.
 >
@@ -1073,18 +1059,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Analytics]] (3), power (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Power BI|Power bi]] (2), [[LinkedIn]] (2), [[Soft Skills]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** sql (3)
 > **UI Navigation:** click on (1)
 > **Speakers:** - now (1)
 
-#### How to build a personal brand for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980)
+#### [How to build a personal brand for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=0)** - Think of your favorite content creator on LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=0)** - Think of your favorite content creator on [[LinkedIn]].
 >
 > **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=3)** If you don't have one, go look up my profile.
 >
@@ -1106,9 +1091,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=59)** What words came to mind?
 >
-> **[1:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=64)** If you're pursuing a career in analytics, you may want to consider curiosity, learning, SQL, data visualization, and similar themes to be part of your personal brand.
+> **[1:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=64)** If you're pursuing a career in analytics, you may want to consider curiosity, learning, [[SQL]], data visualization, and similar themes to be part of your personal brand.
 >
-> **[1:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=75)** For example, I post a lot about remote work, career stories, and tips on SQL, Python, and data.
+> **[1:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=75)** For example, I post a lot about remote work, career stories, and tips on SQL, [[Python (Programming Language)|Python]], and data.
 >
 > **[1:24](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-build-a-personal-brand-for-data-analytics?u=76281980&t=84)** The next step of building a personal brand is to add these elements to your LinkedIn profile through your profile picture, cover photo, and about section.
 >
@@ -1148,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LinkedIn]] (3), career (3), [[SQL]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[SQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1), picture (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -1157,12 +1142,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - think (1)
 
-#### How to maximize LinkedIn and network for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980)
+#### [How to maximize LinkedIn and network for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=0)** - Now let's talk all about how to use LinkedIn to build a network and gain visibility in the data analytics community.
+> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=0)** - Now let's talk all about how to use [[LinkedIn]] to build a network and gain visibility in the data analytics community.
 >
 > **[0:06](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=6)** Remember, your network is your net worth.
 >
@@ -1172,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=22)** Because of this, it's important to connect with other individuals in your industry and field.
 >
-> **[0:28](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=28)** I specialize in data science and analytics in FinTech, so I'm connected with a lot of data professionals at FinTech and financial services companies.
+> **[0:28](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=28)** I specialize in [[Data Science]] and analytics in FinTech, so I'm connected with a lot of data professionals at FinTech and financial services companies.
 >
 > **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-maximize-linkedin-and-network-for-data-analytics?u=76281980&t=36)** If you are planning to move to a new industry or field, you should connect with professionals in your target industry and role.
 >
@@ -1216,19 +1200,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[LinkedIn]] (5), [[Analytics]] (3), career (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Data Science]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (gentle upbeat music) (1)
 
-#### How to get interviews for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980)
+#### [How to get interviews for data analytics](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=0)** - Okay, so you've learned all the necessary skills, optimized your LinkedIn, and built a killer portfolio.
+> **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=0)** - Okay, so you've learned all the necessary skills, optimized your [[LinkedIn]], and built a killer portfolio.
 >
 > **[0:06](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=6)** So the interviews should be pouring in, right?
 >
@@ -1244,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=34)** It takes a while to find the perfect match.
 >
-> **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=36)** And remember, you are interviewing the company just as much as they are interviewing you.
+> **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=36)** And remember, you are [[Interviewing]] the company just as much as they are interviewing you.
 >
 > **[0:42](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-get-interviews-for-data-analytics?u=76281980&t=42)** Go into the job search knowing that you will get plenty of rejection letters, but you will eventually get a yes, so be patient.
 >
@@ -1292,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (7), [[Search]] (3), [[LinkedIn]] (2), [[Interviewing]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Interviewing]] (2)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
@@ -1303,8 +1286,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a data analytics portfolio?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980)
+#### [What is a data analytics portfolio?](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,13 +1302,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=16)** If you don't have experience, you can make your own.
 >
-> **[0:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=20)** Doing projects is the best way you can demonstrate your technical and soft skills, and is the closest thing you can get to real experience.
+> **[0:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=20)** Doing projects is the best way you can demonstrate your technical and [[Soft Skills]], and is the closest thing you can get to real experience.
 >
 > **[0:28](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=28)** A portfolio of those projects is extremely helpful to show off your skills, and it's even more helpful when landing your first role because you don't have tangible work experience to fall back on.
 >
-> **[0:40](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=40)** If you're targeting a data analytics role, I'd recommend starting with SQL queries and visualizations or dashboards in Power BI or Tableau.
+> **[0:40](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=40)** If you're targeting a data analytics role, I'd recommend starting with [[SQL]] queries and visualizations or [[Dashboards]] in [[Microsoft Power BI|Power BI]] or [[Tableau]].
 >
-> **[0:48](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=48)** You can also add Python projects as well, but this may be optional for some entry-level roles.
+> **[0:48](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=48)** You can also add [[Python (Programming Language)|Python]] projects as well, but this may be optional for some entry-level roles.
 >
 > **[0:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=54)** Be sure that you show a variety of skills and tools that are in line with your target role.
 >
@@ -1370,15 +1352,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Soft Skills]] (4), [[Analytics]] (3), business (3), power (2)
+> **Frameworks & Libraries:** [[Soft Skills]] (4), [[SQL]] (1), [[Dashboards]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1)
 > **Analogies:** for example (1), such as (1), it's like (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1), null (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### How and where to build a portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980)
+#### [How and where to build a portfolio](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,7 +1367,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=4)** First, consider where you want to store your projects.
 >
-> **[0:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=7)** Personally, I use GitHub, which is a code hosting platform that allows for version control and collaboration.
+> **[0:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=7)** Personally, I use [[GitHub]], which is a code hosting platform that allows for [[Version Control]] and collaboration.
 >
 > **[0:14](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=14)** Basically, it's a place where you can dump all of your code, track the different versions of files you publish, and collaborate with others on projects.
 >
@@ -1394,7 +1375,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=29)** You can create a different repository or project folder to store each project and all of its associated files.
 >
-> **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=36)** Some project files you may have are Excel files, SQL scripts, Python or R files, or photos.
+> **[0:36](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=36)** Some project files you may have are [[Microsoft Excel|Excel]] files, [[SQL]] scripts, [[Python (Programming Language)|Python]] or R files, or photos.
 >
 > **[0:44](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=44)** You can even create a README file that is a high-level summary of the whole project.
 >
@@ -1414,7 +1395,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=104)** Go research now and decide where you'd like to start building your portfolio.
 >
-> **[1:48](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=108)** One thing that is worth noting is that several analytics tools, such as Tableau, have the option to publish live dashboards publicly so that anyone can view them.
+> **[1:48](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=108)** One thing that is worth noting is that several analytics tools, such as [[Tableau]], have the option to publish live [[Dashboards]] publicly so that anyone can view them.
 >
 > **[1:57](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=117)** If this is a possibility, it's definitely a good idea to do so, but I also recommend putting the whole project into a repository in GitHub as well.
 >
@@ -1424,7 +1405,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=141)** Keep it simple for them.
 >
-> **[2:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=142)** Once you do build your portfolio in GitHub, you'll want to make sure it's public and add the link to your LinkedIn profile and resume.
+> **[2:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=142)** Once you do build your portfolio in GitHub, you'll want to make sure it's public and add the link to your [[LinkedIn]] profile and resume.
 >
 > **[2:30](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-and-where-to-build-a-portfolio?u=76281980&t=150)** You can even include it in emails to recruiters and hiring managers.
 >
@@ -1432,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Analytics]] (3), [[Version Control]] (1), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Version Control]] (1), [[Microsoft Excel|Excel]] (1), [[SQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (7)
 > **Env Vars:** readme (4), sql (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -1441,8 +1422,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### How to pick projects related to the role and industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980)
+#### [How to pick projects related to the role and industry](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=14)** Doing projects is good, but doing the right projects is even better.
 >
-> **[0:19](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=19)** You want to do projects that will show the hiring managers in your interviews that you are the perfect person to excel on their team.
+> **[0:19](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=19)** You want to do projects that will show the hiring managers in your interviews that you are the perfect person to [[Microsoft Excel|excel]] on their team.
 >
 > **[0:27](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=27)** Sure, you can do projects on the classic sample datasets like the Titanic dataset and the Iris dataset, but those can be a little cliche.
 >
@@ -1464,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=50)** First, think about the type of analytics role you want to land and what industry it's in.
 >
-> **[0:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=55)** Are you targeting a marketing analytics role in a social media company?
+> **[0:55](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=55)** Are you targeting a [[Marketing Analytics]] role in a social media company?
 >
 > **[0:59](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=59)** A product analytics role in a healthcare company?
 >
@@ -1480,7 +1460,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=101)** Pause this video and write down your top choices for the role you want and the industry you want to be in.
 >
-> **[1:47](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=107)** But are you targeting a role that requires a more specialized skillset like Python or R?
+> **[1:47](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=107)** But are you targeting a role that requires a more specialized skillset like [[Python (Programming Language)|Python]] or R?
 >
 > **[1:57](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=117)** There might be more advanced skills you need as well like statistical modeling, working with APIs, and building data models.
 >
@@ -1496,9 +1476,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=163)** Choose a project that will highlight your skills and solve relevant business problems for that industry.
 >
-> **[2:49](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=169)** If you want to be a business analyst in healthcare, build data models and dashboards with healthcare data using a BI tool such as Tableau or Power BI.
+> **[2:49](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=169)** If you want to be a business analyst in healthcare, build data models and [[Dashboards]] with healthcare data using a BI tool such as [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
-> **[2:58](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=178)** Or if you want to work in product analytics and tech, do a project creating product metrics in SQL and Python using software data.
+> **[2:58](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=178)** Or if you want to work in product analytics and tech, do a project creating product metrics in [[SQL]] and Python using software data.
 >
 > **[3:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=187)** See how you can choose projects related to your target role and industry?
 >
@@ -1508,7 +1488,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=200)** Be sure you don't only practice with clean and ready-to-go cookie cutter datasets.
 >
-> **[3:25](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=205)** Choose messy datasets sometimes as well so you can gain experience in data cleaning and transformation.
+> **[3:25](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=205)** Choose messy datasets sometimes as well so you can gain experience in [[Data Cleaning]] and transformation.
 >
 > **[3:32](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-pick-projects-related-to-the-role-and-industry?u=76281980&t=212)** After all, this is where data analysts spend a big chunk of their time.
 >
@@ -1516,7 +1496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (8), [[Analytics]] (5), product (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), [[Marketing Analytics]] (1), [[Dashboards]] (1), [[Tableau]] (1)
 > **CLI Commands:** find (2), python (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
@@ -1525,8 +1505,7 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### How to leverage a portfolio in interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980)
+#### [How to leverage a portfolio in interviews](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=64)** For the skills in the job description that you don't have experience in, you can speak about any transferable skills you do have.
 >
-> **[1:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=71)** For example, if the job description asks for Tableau, you can talk about your Power BI experience and express your excitement to leverage those skills to learn Tableau.
+> **[1:11](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=71)** For example, if the job description asks for [[Tableau]], you can talk about your [[Microsoft Power BI|Power BI]] experience and express your excitement to leverage those skills to learn Tableau.
 >
 > **[1:22](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=82)** Another example is if the job description asks for experience working with stakeholders but you haven't had that experience yet.
 >
@@ -1570,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=107)** It's also about demonstrating what you will be able to provide in the future.
 >
-> **[1:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=112)** It's your job to convince the hiring manager that you can excel in the role without a doubt.
+> **[1:52](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=112)** It's your job to convince the hiring manager that you can [[Microsoft Excel|excel]] in the role without a doubt.
 >
 > **[1:58](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/how-to-leverage-a-portfolio-in-interviews?u=76281980&t=118)** There are many ways to communicate your value in interviews.
 >
@@ -1588,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (8), business (3), [[Tableau]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** star (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
@@ -1599,20 +1578,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start upskilling, networking, and building a portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980)
+#### [Start upskilling, networking, and building a portfolio](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=0)** - You've reached the end of the course, congrats.
 >
-> **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=3)** By now, you're ready to get started interviewing for data analyst roles.
+> **[0:03](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=3)** By now, you're ready to get started [[Interviewing]] for data analyst roles.
 >
 > **[0:07](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=7)** Just remember to think about the three main areas.
 >
 > **[0:10](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=10)** First is upskilling, filling in the gaps between your skillset and target role.
 >
-> **[0:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=15)** If you identify some skills you need to learn, check out some courses here in the LinkedIn Learning Library.
+> **[0:15](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=15)** If you identify some skills you need to learn, check out some courses here in the [[LinkedIn]] Learning Library.
 >
 > **[0:21](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980&t=21)** Next, implement those skills to build a portfolio that will stand out in your industry.
 >
@@ -1642,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Interviewing]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Interviewing]] (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - you (1)
 

@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data accuracy and misuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980)
+#### [Data accuracy and misuse](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=0)** - Data misuse is becoming a huge challenge for many organizations.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=4)** Companies need to figure out the data ethics issues around buying and selling their data.
+> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=4)** Companies need to figure out the [[Data Ethics]] issues around buying and selling their data.
 >
 > **[0:10](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=10)** If you ignore these issues, then your company is in real danger of frustrating your own employees or finding yourself in the headlines.
 >
@@ -97,11 +96,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=40)** This course is designed for managers, directors, and developers who work with organizational data.
 >
-> **[0:47](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=47)** It'll give you a framework for how to make decisions about data ethics in a typical office meeting.
+> **[0:47](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=47)** It'll give you a framework for how to make decisions about data ethics in a typical [[Microsoft Office|office]] meeting.
 >
 > **[0:53](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=53)** First, we'll talk about the ethical challenges around data misuse.
 >
-> **[0:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=57)** Can your customers use your data in any way they see fit or should your data products reflect your organization's values?
+> **[0:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=57)** Can your customers use your data in any way they see fit or should your data [[Microsoft Products|products]] reflect your organization's values?
 >
 > **[1:05](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980&t=65)** Next, we'll go over the challenges around data accuracy.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Ethics]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are your ethical duties?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980)
+#### [What are your ethical duties?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,9 +135,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=12)** He believed that you could think through moral issues in a rational way then you could create well thought out rules to guide your behavior.
 >
-> **[0:20](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=20)** Kant was a philosopher within a branch of ethics called deontology.
+> **[0:20](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=20)** Kant was a philosopher within a branch of [[Ethics]] called deontology.
 >
-> **[0:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=26)** The term deontology comes from the Greek word for duty.
+> **[0:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=26)** The term deontology comes from the Greek [[Microsoft Word|word]] for duty.
 >
 > **[0:30](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=30)** The basic idea of deontology is that morality can be broken down into a series of rules that you must obey.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=85)** To help people understand their moral obligations, Kant created several formulations of categorical imperatives.
 >
-> **[1:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=93)** Two of these formulations are especially helpful when you're thinking about data ethics.
+> **[1:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=93)** Two of these formulations are especially helpful when you're thinking about [[Data Ethics]].
 >
 > **[1:38](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=98)** The first one is called the formula of the universal law of nature.
 >
@@ -203,7 +201,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=195)** So by leaving the offensive rant on your page, you might be limiting the autonomy of other people to use your site.
 >
-> **[3:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=202)** People might feel that your organization supports these views and so they might feel excluded from buying your products.
+> **[3:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=202)** People might feel that your organization supports these views and so they might feel excluded from buying your [[Microsoft Products|products]].
 >
 > **[3:28](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980&t=208)** So as you can see, even if you fully embraced deontology sometimes you have to balance your different duties against one another.
 >
@@ -211,14 +209,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (2), product (2), [[Microsoft Word|Word]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Microsoft Word|Word]] (1), [[Data Ethics]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (2)
 > **Analogies:** think of it as (1), imagine (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - immanuel (1)
 
-#### Do the ends justify the means?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980)
+#### [Do the ends justify the means?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,13 +227,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=20)** This data allows everyday people to participate in investigating crimes.
 >
-> **[0:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=26)** This type of crowdsourced data science is called open source intelligence, or OSINT for short.
+> **[0:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=26)** This type of crowdsourced [[Data Science]] is called open source intelligence, or OSINT for short.
 >
 > **[0:35](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=35)** These open source investigators use their own facial recognition software and gather up social media data to help the Federal Bureau of Investigation identify people in videos.
 >
 > **[0:49](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=49)** It's important to see the deontological argument here.
 >
-> **[0:53](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=53)** When everyday people use their own facial recognition software, it can diminish everyone's expectation of privacy.
+> **[0:53](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=53)** When everyday people use their own facial recognition software, it can diminish everyone's expectation of [[Privacy]].
 >
 > **[1:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=60)** Privacy is a form of liberty that shouldn't be taken away by anyone with a powerful enough computer.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=95)** In many ways, it's a reaction to Immanuel Kant and deontology.
 >
-> **[1:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=100)** Utilitarian philosophers like John Stuart Mill and Jeremy Bentham thought that the Kant rules-based approach was too rigid.
+> **[1:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=100)** Utilitarian philosophers like [[John the Ripper|John]] Stuart Mill and Jeremy Bentham thought that the Kant rules-based approach was too rigid.
 >
 > **[1:47](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=107)** They argued that there were times when you should break categorical imperatives.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=142)** In general, many technology companies like utilitarianism.
 >
-> **[2:27](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=147)** A company like Google can justify gathering up your personal data as a way to deliver more relevant advertisements.
+> **[2:27](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=147)** A company like [[Google]] can justify gathering up your personal data as a way to deliver more relevant advertisements.
 >
 > **[2:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=154)** Twitter can allow offensive tweets because it's the best way to keep the platform open to everyone.
 >
@@ -300,18 +297,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Privacy]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Google]] (2), [[Data Science]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Env Vars:** osint (1)
 > **Tools:** notion (1)
 > **Speakers:** - now (1)
 
-#### How to be a virtuous organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980)
+#### [How to be a virtuous organization](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=1)** - I once worked in an office with a small shared kitchen.
+> **[0:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=1)** - I once worked in an [[Microsoft Office|office]] with a small shared kitchen.
 >
 > **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=4)** In the kitchen, there were a dozen mugs that we all used for coffee.
 >
@@ -331,9 +327,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=37)** These rare individuals had many wonderful virtues.
 >
-> **[0:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=41)** The rest of us should aspire to be more like them.
+> **[0:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=41)** The [[Representational State Transfer (REST)|rest]] of us should aspire to be more like them.
 >
-> **[0:45](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=45)** This type of ethics is called virtue ethics.
+> **[0:45](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=45)** This type of [[Ethics]] is called virtue ethics.
 >
 > **[0:48](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-be-a-virtuous-organization?u=76281980&t=48)** It's about individuals and organizations modeling themselves after people in companies that have a lot of virtue.
 >
@@ -400,14 +396,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### Create an ethical contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980)
+#### [Create an ethical contract](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=1)** - Here in the United States, people often have a nostalgic view of the old frontier towns of the American West.
 >
-> **[0:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=8)** Movie stars like Clint Eastwood and John Wayne glorified a time when you could deliver justice with a quick-draw gun fight.
+> **[0:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=8)** Movie stars like Clint Eastwood and [[John the Ripper|John]] Wayne glorified a time when you could deliver justice with a quick-draw gun fight.
 >
 > **[0:15](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=15)** But if you think about it, living in that type of society would be terrible.
 >
@@ -475,7 +470,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=189)** In a sense, they've ignored what we owe each other.
 >
-> **[3:14](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=194)** A lot of data ethics challenges are hinged on this notion of what we owe each other.
+> **[3:14](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=194)** A lot of [[Data Ethics]] challenges are hinged on this notion of what we owe each other.
 >
 > **[3:19](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/create-an-ethical-contract?u=76281980&t=199)** And the answer to that is not entirely clear.
 >
@@ -483,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), data (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Data Ethics]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Analogies:** imagine (1)
@@ -494,8 +489,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data misuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980)
+#### [Data misuse](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,11 +503,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=21)** If your organization just tries to do whatever it can with their data, then they might be in danger of data misuse.
 >
-> **[0:29](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=29)** This challenge is part of the seven key data ethics issues for organizations.
+> **[0:29](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=29)** This challenge is part of the seven key [[Data Ethics]] issues for organizations.
 >
 > **[0:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=34)** You can think of them as the POTOMAC issues.
 >
-> **[0:37](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=37)** These are privacy, data ownership, decision traceability, objectivity, data misuse, accuracy and consent.
+> **[0:37](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=37)** These are [[Privacy]], data ownership, decision traceability, objectivity, data misuse, accuracy and consent.
 >
 > **[0:49](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=49)** You can think of data misuse in two different ways.
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=78)** So the data you're collecting might be very personal.
 >
-> **[1:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=82)** So here, your ethics issues will be around intrinsic data misuse.
+> **[1:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=82)** So here, your [[Ethics]] issues will be around intrinsic data misuse.
 >
 > **[1:27](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=87)** Your company owns the product, and doesn't give access to the underlying data.
 >
@@ -557,7 +551,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=146)** Your company created a perfectly acceptable way for your customers to share data but your customers are actually creating the support product.
 >
-> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=153)** Some of the largest data companies like Google and Facebook have to deal with intrinsic and extrinsic data misuse challenges all the time.
+> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=153)** Some of the largest data companies like [[Google]] and Facebook have to deal with intrinsic and extrinsic data misuse challenges all the time.
 >
 > **[2:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=162)** For example, Google won't allow customers to target certain racial groups for advertising.
 >
@@ -565,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=171)** It's their way of trying to keep other organizations from misusing the data that they control.
 >
-> **[2:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=177)** Facebook will take down posts that violate copyright law.
+> **[2:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=177)** Facebook will take down posts that violate [[Copyright Law]].
 >
 > **[3:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=181)** That's why you can't use Facebook to download pirated movies or unlicensed software.
 >
@@ -579,15 +573,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), product (6), [[Ethics]] (3), [[Google]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Google]] (2), [[Data Ethics]] (1), [[Privacy]] (1), [[Copyright Law]] (1)
 > **Definitions:** is an  (3)
 > **Analogies:** imagine (2), for example (1)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** potomac (1)
 > **Speakers:** - one (1)
 
-#### When your customer misuses the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980)
+#### [When your customer misuses the data](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,21 +652,20 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980&t=181)** So it might be tough for any amount of policing to turn a high crime area into a low crime area.
 >
-> **[3:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980&t=188)** If you're working on this data ethics task force what would you do to improve the system?
+> **[3:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980&t=188)** If you're working on this [[Data Ethics]] task force what would you do to improve the system?
 >
 > **[3:14](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/when-your-customer-misuses-the-data?u=76281980&t=194)** Is there a way to prevent crime without victimizing the very people the system is supposed to protect?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2)
 > **Env Vars:** ucla (1)
 > **Definitions:** means that (1)
 > **Speakers:** - imagine (1)
 
-#### Is it ethical to micro-target?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980)
+#### [Is it ethical to micro-target?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=36)** The data was also used to support political campaigns in the United States.
 >
-> **[0:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=41)** So let's think about some of the data ethics issues around this microtargeting.
+> **[0:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=41)** So let's think about some of the [[Data Ethics]] issues around this microtargeting.
 >
 > **[0:45](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=45)** The first deals with data provenance.
 >
@@ -729,13 +721,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Ethics]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Can you exploit human needs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980)
+#### [Can you exploit human needs?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=45)** The more engaged you are, the more advertising they can sell.
 >
-> **[0:50](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=50)** The data ethics challenge comes in when you start to think about how these platforms encourage engagement.
+> **[0:50](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=50)** The [[Data Ethics]] challenge comes in when you start to think about how these platforms encourage engagement.
 >
 > **[0:56](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=56)** Most of these platforms have learned how to manipulate their customers' emotions in subtle ways.
 >
@@ -769,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=86)** Now, imagine you work for an online retailer.
 >
-> **[1:28](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=88)** Your data science team created a new pricing algorithm.
+> **[1:28](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=88)** Your [[Data Science]] team created a new pricing algorithm.
 >
 > **[1:32](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=92)** This algorithm temporarily inflates the price and then lowers it to encourage people to buy.
 >
@@ -785,9 +776,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=128)** In a meeting, one of the product managers makes the classic utilitarianism argument.
 >
-> **[2:13](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=133)** The shoppers are getting a good deal and your company is selling more products.
+> **[2:13](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=133)** The shoppers are getting a good deal and your company is selling more [[Microsoft Products|products]].
 >
-> **[2:17](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=137)** Everyone's happier in this scenario, but a software developer makes a virtue ethics argument.
+> **[2:17](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=137)** Everyone's happier in this scenario, but a software developer makes a virtue [[Ethics]] argument.
 >
 > **[2:24](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=144)** This is a virtuous company and a virtuous person wouldn't manipulate people's weaknesses in order to sell more products.
 >
@@ -805,14 +796,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Ethics]] (3), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Microsoft Products|Products]] (2), [[Data Science]] (1), [[Ethics]] (1)
 > **Analogies:** picture (2), it's like (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
-#### How to ethically engage your customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980)
+#### [How to ethically engage your customer](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=6)** They want people to engage in their platforms so that you see more advertisements.
 >
-> **[0:11](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=11)** Since these are some of the largest companies in the world, they can afford to spend a huge amount of time, fine tuning how to increase your engagement.
+> **[0:11](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=11)** Since these are some of the largest companies in the world, they can afford to spend a huge amount of time, [[Fine Tuning]] how to increase your engagement.
 >
 > **[0:19](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=19)** Now engagement is a tricky thing.
 >
@@ -840,13 +830,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=66)** A search for the flu would lead to anti-vaccination videos but simple search on cooking would lead to conspiracy theories about the Titanic.
 >
-> **[1:16](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=76)** If you look at this from Google's perspective, these recommendations actually make a lot of sense.
+> **[1:16](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=76)** If you look at this from [[Google]]'s perspective, these recommendations actually make a lot of sense.
 >
 > **[1:22](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=82)** Think about how many people might drive under a billboard each day without looking up.
 >
 > **[1:27](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=87)** But car accidents almost always slow down traffic.
 >
-> **[1:30](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=90)** So YouTube's algorithms would always look for the video equivalent of a car accident to get more people to watch.
+> **[1:30](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=90)** So YouTube's [[Algorithms]] would always look for the video equivalent of a car accident to get more people to watch.
 >
 > **[1:39](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=99)** In general, people are much more engaged with content that is scary or even upsetting.
 >
@@ -860,7 +850,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=132)** And just a few weeks, the sales of your product have gone up 500%.
 >
-> **[2:16](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=136)** The data ethics around this are actually pretty tough call.
+> **[2:16](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=136)** The [[Data Ethics]] around this are actually pretty tough call.
 >
 > **[2:20](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/how-to-ethically-engage-your-customer?u=76281980&t=140)** If you look at it using deontology in a manual con then there's a pretty straightforward answer.
 >
@@ -882,15 +872,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), product (2), data (2), [[Ethics]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Fine Tuning]] (1), [[Google]] (1), [[Algorithms]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - many (1)
 
-#### Should you promote democracy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980)
+#### [Should you promote democracy?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,11 +897,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=33)** Apple said that since Hong Kong is now part of Mainland China, they're obligated to follow their local laws.
 >
-> **[0:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=40)** The Google app store also carry the HK Live app, but they made a completely different decision.
+> **[0:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=40)** The [[Google]] app store also carry the HK Live app, but they made a completely different decision.
 >
 > **[0:47](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=47)** They believed that there was nothing inherently illegal about an app that encourages protesters to avoid the police.
 >
-> **[0:54](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=54)** Both of these companies looked at the exact same data ethics challenge and came up with different conclusions.
+> **[0:54](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=54)** Both of these companies looked at the exact same [[Data Ethics]] challenge and came up with different conclusions.
 >
 > **[1:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=60)** The CEO of Apple Tim Cook said he was worried that the app would help commit acts of violence against the police.
 >
@@ -940,11 +929,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=141)** You'll also have a tough time with utilitarianism.
 >
-> **[2:23](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=143)** John Stuart Mill was one of the original philosophers behind utilitarianism.
+> **[2:23](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=143)** [[John the Ripper|John]] Stuart Mill was one of the original philosophers behind utilitarianism.
 >
 > **[2:28](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=148)** He wrote a book called On Liberty, which argued that free expression is a key part of a free society, so he would find it immoral for a company to side with the government against its own people.
 >
-> **[2:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=161)** Virtue ethics might go either way.
+> **[2:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=161)** Virtue [[Ethics]] might go either way.
 >
 > **[2:44](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=164)** You could argue that a virtuous company would be sure to follow the laws of the local government, but you could also argue that a virtuous company exists in a free society and so it should encourage those values in other places.
 >
@@ -956,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Ethics]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Data Ethics]] (2), [[John the Ripper|John]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** iphone (2)
 > **Env Vars:** ceo (1)
@@ -968,8 +957,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does it mean to be accurate?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980)
+#### [What does it mean to be accurate?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,11 +967,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=6)** But for organizations dealing with a large amount of user data, it can be very difficult to remain accurate.
 >
-> **[0:13](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=13)** This is one of the seven key data ethics issues for organizations.
+> **[0:13](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=13)** This is one of the seven key [[Data Ethics]] issues for organizations.
 >
 > **[0:18](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=18)** You can think of them as the POTOMAC issues.
 >
-> **[0:21](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=21)** These are privacy, data ownership, decision traceability, objectivity, data misuse, accuracy, and consent.
+> **[0:21](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=21)** These are [[Privacy]], data ownership, decision traceability, objectivity, data misuse, accuracy, and consent.
 >
 > **[0:32](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=32)** At the top of the 2016 presidential election, the top 20 stories from major news outlets had about 7 million responses from people on social media.
 >
@@ -1045,20 +1033,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (3), [[Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (1), [[Privacy]] (1)
 > **Env Vars:** potomac (1), fbi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - staying (1)
 
-#### Should you present the truth?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980)
+#### [Should you present the truth?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980&t=0)** - So far, we've seen that deontology focuses on reasoning.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980&t=4)** Utilitarianism and virtue ethics are about enhancing the common good.
+> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980&t=4)** Utilitarianism and virtue [[Ethics]] are about enhancing the common good.
 >
 > **[0:09](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-present-the-truth?u=76281980&t=9)** And contractualism is about creating your own morality through shared agreements.
 >
@@ -1126,13 +1113,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (3), power (1)
+> **Frameworks & Libraries:** [[Ethics]] (3)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
-#### What to do with fake news
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980)
+#### [What to do with fake news](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1156,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=89)** So do you have a moral obligation to do anything?
 >
-> **[1:32](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=92)** Do you have an epistemic responsibility to only sell products that have evidence of their effectiveness?
+> **[1:32](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=92)** Do you have an epistemic responsibility to only sell [[Microsoft Products|products]] that have evidence of their effectiveness?
 >
 > **[1:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=100)** If you look at this the same way as the CEO from Facebook, then he would argue you don't have any moral duty to make sure your customers hear the truth.
 >
@@ -1188,20 +1174,19 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=150)** And that just doesn't seem to be a good outcome.
 >
-> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=153)** As an online retailer, you have a serious data ethics challenge here.
+> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=153)** As an online retailer, you have a serious [[Data Ethics]] challenge here.
 >
 > **[2:38](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=158)** Do you look at it purely in terms of consequences or do you always have an objective duty to tell the truth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
-#### What to do if your customer spreads propaganda
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980)
+#### [What to do if your customer spreads propaganda](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,13 +1206,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=37)** It's someone sending propaganda to their peers in their social network.
 >
-> **[0:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=42)** The website Goop promotes products such as unmedicated stickers that claim to rebalance the frequency of your body.
+> **[0:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=42)** The website Goop promotes [[Microsoft Products|products]] such as unmedicated stickers that claim to rebalance the frequency of your body.
 >
 > **[0:50](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=50)** It's objectively false that stickers rebalance your energy frequencies, even if they did need rebalancing.
 >
 > **[0:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=57)** But most social media sites freely circulate these kinds of ideas.
 >
-> **[1:02](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=62)** There's also general agreement about false data regarding public health.
+> **[1:02](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=62)** There's also general agreement about false data regarding [[Public Health]].
 >
 > **[1:07](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=67)** Facebook and YouTube scaled back some of their anti-vaccine stories after an outbreak in the United States.
 >
@@ -1271,14 +1256,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Public Health]] (2), [[Microsoft Products|Products]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### The danger of too much accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980)
+#### [The danger of too much accuracy](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980&t=61)** If you go to a school where few of your classmates get into top universities, then it will be more difficult for you to get in.
 >
-> **[1:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980&t=68)** It's an unfortunate truth that the exam reflects this pattern, so the algorithms try to do the same.
+> **[1:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980&t=68)** It's an unfortunate truth that the exam reflects this pattern, so the [[Algorithms]] try to do the same.
 >
 > **[1:14](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/the-danger-of-too-much-accuracy?u=76281980&t=74)** But even though this scoring may have been accurate, it still struck people as unfair.
 >
@@ -1346,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
@@ -1358,8 +1342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are data models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980)
+#### [What are data models?](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1394,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980&t=101)** You have to optimize your model so it's wrong less often.
 >
-> **[1:46](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980&t=106)** A key data ethics issue is how your organization uses these models to predict people's behaviors.
+> **[1:46](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980&t=106)** A key [[Data Ethics]] issue is how your organization uses these models to predict people's behaviors.
 >
 > **[1:52](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980&t=112)** What you want to avoid is letting your model create that behavior.
 >
@@ -1443,13 +1426,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - no (1)
 
-#### Your customer could game the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980)
+#### [Your customer could game the system](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,7 +1471,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=95)** In just a few years, TCU's ranking jumped from 113 to 76.
 >
-> **[1:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=101)** So let's think about some of the data ethics challenges.
+> **[1:41](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=101)** So let's think about some of the [[Data Ethics]] challenges.
 >
 > **[1:44](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=104)** A magazine created its own model to rank universities.
 >
@@ -1513,7 +1495,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=158)** Do you think that the team's manipulating the model, or is it working as expected?
 >
-> **[2:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=162)** If you look at it through the lens of virtue ethics, it seems unethical to use financial aid to improve your ranking.
+> **[2:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=162)** If you look at it through the lens of virtue [[Ethics]], it seems unethical to use financial aid to improve your ranking.
 >
 > **[2:49](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/your-customer-could-game-the-system?u=76281980&t=169)** This type of aid is typically given to students who have trouble attending universities, but if you look at it in terms of utilitarianism, you might be improving the university for students who are already attending.
 >
@@ -1521,7 +1503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Ethics]] (3)
+> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Ethics]] (1)
 > **Env Vars:** tcu (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -1533,14 +1515,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=0)** - I hope you enjoyed this data ethics course on how to watch out for data misuse.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=0)** - I hope you enjoyed this [[Data Ethics]] course on how to watch out for data misuse.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=4)** You've now seen how data misuse can take on many different forms.
+> **[0:04](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=4)** You've now seen how data misuse can take on many different [[Forms]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=8)** Your organization can misuse your data or your customers might misuse your data.
 >
@@ -1564,11 +1545,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=61)** So be sure to search for other data ethics courses in the library.
 >
-> **[1:06](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=66)** Please feel free to follow me on LinkedIn for the latest in data ethics, and be sure to keep these challenges in mind the next time you're using or misusing your data.
+> **[1:06](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980&t=66)** Please feel free to follow me on [[LinkedIn]] for the latest in data ethics, and be sure to keep these challenges in mind the next time you're using or misusing your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Ethics]] (4), [[Forms]] (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (4), [[Forms]] (1), [[LinkedIn]] (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)

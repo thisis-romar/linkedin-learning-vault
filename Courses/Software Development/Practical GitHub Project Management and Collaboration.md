@@ -72,14 +72,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating projects for development
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
+#### [Creating projects for development](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980&t=0)** - Most developers begin writing code on their own, but real software work means collaborating and organizing as a team.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980&t=7)** GitHub has grown into a community of over 100 million developers because it provides powerful tools to manage projects.
+> **[0:07](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980&t=7)** [[GitHub]] has grown into a community of over 100 million developers because it provides powerful tools to manage projects.
 >
 > **[0:14](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980&t=14)** In this course, we'll create a project from scratch connected to a repository, and explore how issues, boards, and roadmaps keep work moving.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **Speakers:** - most (1)
 
@@ -98,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Projects vs. classic projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
+#### [Projects vs. classic projects](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980&t=0)** - [Ray] There are two versions of GitHub Projects.
+> **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980&t=0)** - [Ray] There are two versions of [[GitHub]] Projects.
 >
 > **[0:02](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980&t=2)** All new projects are created with the New GitHub Projects Experience.
 >
@@ -154,14 +152,13 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - [ray] (1)
 
-#### Starting your first project
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980)
+#### [Starting your first project](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=0)** - [Instructor] Let's create our first project and look at some of the options available.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=4)** I really want to encourage you to do this on your own and follow along with your own GitHub account.
+> **[0:04](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=4)** I really want to encourage you to do this on your own and follow along with your own [[GitHub]] account.
 >
 > **[0:09](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=9)** Now, projects live in a special section right here on this Projects tab.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=31)** It's a little bit like a spreadsheet view with rows and columns.
 >
-> **[0:35](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=35)** Boards are created in the style of kanban boards, a popular agile methodology structure that is really helpful for getting an overview of a project.
+> **[0:35](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=35)** Boards are created in the style of kanban boards, a popular [[Agile Development|agile]] methodology structure that is really helpful for getting an overview of a project.
 >
 > **[0:45](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-your-first-project?u=76281980&t=45)** Roadmaps are a more traditional project management view, where the timeline is visualized clearly.
 >
@@ -321,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[GitHub]] (3), data (2), [[Agile Development|Agile]] (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Agile Development|Agile]] (1)
 > **UI Navigation:** go to (4), drag and drop (1), open the (1), switch to (1), click on (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), means that (1)
@@ -330,8 +327,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Exercise Files:** template (1)
 
-#### Project settings and fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980)
+#### [Project settings and fields](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980&t=91)** Now there's also a way of adding custom fields or looking at the custom fields that are available in your project.
 >
-> **[1:39](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980&t=99)** By default, Github adds a status field and this is the one that you saw earlier.
+> **[1:39](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980&t=99)** By default, [[GitHub]] adds a status field and this is the one that you saw earlier.
 >
 > **[1:44](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-settings-and-fields?u=76281980&t=104)** The status can be set to to do, in progress and done and these are special field that will automatically get assigned depending on what you are doing.
 >
@@ -457,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Search]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Definitions:** is a  (2)
@@ -465,8 +461,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using view categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980)
+#### [Using view categories](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=51)** I'm just going to call them what they are right now.
 >
-> **[0:54](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=54)** I usually call this one kanban because I'm used to that name from Agile methodology.
+> **[0:54](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=54)** I usually call this one kanban because I'm used to that name from [[Agile Development|Agile]] methodology.
 >
 > **[0:59](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=59)** You can probably give them more descriptive names and sometimes you create different versions of the view as well by clicking right here and then duplicating the view to create an option.
 >
@@ -584,7 +579,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=276)** It'll scroll you back down to the date.
 >
-> **[4:39](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=279)** And here you can zoom in by different amounts.
+> **[4:39](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=279)** And here you can [[Zoom]] in by different amounts.
 >
 > **[4:43](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-view-categories?u=76281980&t=283)** You can say quarter view or month view which is what we're in right now.
 >
@@ -612,15 +607,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (1), [[Agile Development|Agile]] (1), [[Zoom]] (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting drafts to issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980)
+#### [Converting drafts to issues](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +622,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980&t=7)** Let's see how they work and are allowed to tie to our project.
 >
-> **[0:11](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980&t=11)** Now, GitHub issues are a way to track your work on GitHub.
+> **[0:11](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980&t=11)** Now, [[GitHub]] issues are a way to track your work on GitHub.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/converting-drafts-to-issues?u=76281980&t=15)** You don't really need projects to work with issues and you may be familiar with them already but they can have a real special relationship when you use them together in projects.
 >
@@ -758,7 +752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), hit (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7)
 > **Tools:** github (7)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -766,8 +760,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning items to collaborators
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980)
+#### [Assigning items to collaborators](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +812,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980&t=131)** So if I bring this back up you'll notice that she will not be available until she accepts the invitation.
 >
-> **[2:19](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980&t=139)** One of the things that's really important about working with GitHub is working with another person or a team.
+> **[2:19](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980&t=139)** One of the things that's really important about working with [[GitHub]] is working with another person or a team.
 >
 > **[2:27](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/assigning-items-to-collaborators?u=76281980&t=147)** So I really encourage you to take some time to actually find somebody that you can invite and invite them to a project to collaborate with you because especially with projects the experience is going to be a lot different.
 >
@@ -885,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[GitHub]] (2), next (2), node (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **UI Navigation:** click on (3), go to (2), dropdown (2)
 > **CLI Commands:** find (4), node (1), make (1)
 > **Env Vars:** readme (3)
@@ -894,8 +887,7 @@ created: 2026-05-02
 > **Documentation:** the readme (2)
 > **Tools:** github (2)
 
-#### Starting a project with an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980)
+#### [Starting a project with an issue](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,9 +903,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=31)** So I'm going to assign this as well.
 >
-> **[0:33](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=33)** So I'll say add a license to project and I'm going to assign this once again to me and Jojo I'll go ahead and fill out some of the rest of this stuff.
+> **[0:33](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=33)** So I'll say add a license to project and I'm going to assign this once again to me and Jojo I'll go ahead and fill out some of the [[Representational State Transfer (REST)|rest]] of this stuff.
 >
-> **[0:46](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=46)** So for projects, I will say this is GitHub projects, the one that I've been working on.
+> **[0:46](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=46)** So for projects, I will say this is [[GitHub]] projects, the one that I've been working on.
 >
 > **[0:52](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/starting-a-project-with-an-issue?u=76281980&t=52)** The milestone will still be set up because it is something related to that as well.
 >
@@ -1017,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), hit (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (8)
 > **UI Navigation:** go to (4)
 > **Env Vars:** mit (2)
@@ -1026,14 +1018,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Project items with pull requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980)
+#### [Project items with pull requests](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=0)** - [Instructor] Another popular way to work with issues is to use what's called a pull request, which is a way to communicate that you want to make a change to the project but maybe you'd like somebody to take a look at it.
 >
-> **[0:12](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=12)** So what I'll do here is I'm going to add a git ignore file, I'll create a new file.
+> **[0:12](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=12)** So what I'll do here is I'm going to add a [[Git]] ignore file, I'll create a new file.
 >
 > **[0:19](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=19)** And I'm going to say .gitignore.
 >
@@ -1079,7 +1070,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=198)** Now, I could have done this in the regular Git Hub interface.
 >
-> **[3:21](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=201)** This isn't a huge deal, but it's really nice to have Codespaces available to change anything in the project directly.
+> **[3:21](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=201)** This isn't a huge deal, but it's really nice to have [[Codespaces]] available to change anything in the project directly.
 >
 > **[3:29](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/project-items-with-pull-requests?u=76281980&t=209)** Once I make these changes, I'll need to go ahead and commit them and push them back.
 >
@@ -1115,7 +1106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), hit (2), web (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Codespaces]] (1)
 > **CLI Commands:** make (7), git (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** setup (2)
@@ -1124,8 +1115,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using saved replies
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-saved-replies?u=76281980)
+#### [Using saved replies](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-saved-replies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1155,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
@@ -1175,8 +1164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
+#### [Using labels](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,21 +1338,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Search]] (1)
 > **UI Navigation:** click on (7), go to (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
 
-#### Task lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980)
+#### [Task lists](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980&t=0)** - [Instructor] Task lists allow you to create a checklist of items inside an issue description.
 >
-> **[0:05](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980&t=5)** GitHub has a special way of letting you interact with these tasks once you've included them.
+> **[0:05](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980&t=5)** [[GitHub]] has a special way of letting you interact with these tasks once you've included them.
 >
 > **[0:11](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/task-lists?u=76281980&t=11)** So I can see that Jojo has already added a comment down here, and she's got some good points here.
 >
@@ -1560,7 +1546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), hit (5), next (2), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (5)
 > **CLI Commands:** make (5)
 > **Tools:** github (5)
 > **UI Navigation:** click on (4)
@@ -1569,14 +1555,13 @@ created: 2026-05-02
 > **File Paths:** index.md (2)
 > **Documentation:** the documentation (2)
 
-#### Slash commands and emojis
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980)
+#### [Slash commands and emojis](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=0)** - [Instructor] Software development is hard enough as it is.
+> **[0:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=0)** - [Instructor] [[Software Development]] is hard enough as it is.
 >
-> **[0:02](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=2)** So GitHub has some additional features that can help make your issues a bit easier and more fun to work with.
+> **[0:02](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=2)** So [[GitHub]] has some additional features that can help make your issues a bit easier and more fun to work with.
 >
 > **[0:09](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=9)** Now let's go ahead and edit this little comment that I made earlier, and I'll show you some of the features right here.
 >
@@ -1594,7 +1579,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=42)** You can see that it gives you a list of syntaxes you can use.
 >
-> **[0:45](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=45)** You can just go down through this, and I'm going to choose JavaScript, but notice that, what it's doing is just writing the markdown for a code block for you.
+> **[0:45](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=45)** You can just go down through this, and I'm going to choose [[JavaScript]], but notice that, what it's doing is just writing the markdown for a code block for you.
 >
 > **[0:54](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=54)** Maybe here we can do document right, and then hello world just to show you.
 >
@@ -1610,7 +1595,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=91)** And I'll just put Lorem Ipsum here for right now, and we'll hit the preview button, and notice that it gives you a way of taking a bunch of stuff and collapsing it down, so that you can create as many of those as you want and have a list of things that expand and collapse.
 >
-> **[1:50](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=110)** Again, this is actually sort of regular HTML, so this is just a paragraph tag.
+> **[1:50](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=110)** Again, this is actually sort of regular [[HTML]], so this is just a paragraph tag.
 >
 > **[1:55](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/slash-commands-and-emojis?u=76281980&t=115)** Markdown does allow you to do some HTML in it.
 >
@@ -1686,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Software Development]] (3), [[HTML]] (2), [[GitHub]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[HTML]] (2), [[GitHub]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (2)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -1695,8 +1680,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 
-#### Views and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980)
+#### [Views and filters](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1704,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980&t=64)** Maybe I want to add the "start" field and move that next to the "do" field, so just by clicking and dragging it, you can add a field and position it.
 >
-> **[1:15](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980&t=75)** Just like with Excel, you can move these things and make them different sizes.
+> **[1:15](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980&t=75)** Just like with [[Microsoft Excel|Excel]], you can move these things and make them different sizes.
 >
 > **[1:19](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/views-and-filters?u=76281980&t=79)** So I'm going to make some of these a little bit smaller, maybe a little bit more room for the label since that usually gets a little bit messy.
 >
@@ -1804,7 +1788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), just like (1)
@@ -1812,8 +1796,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980)
+#### [Insights](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,7 +1830,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980&t=94)** You can also, of course, duplicate or delete the chart, or configure right from here if you want to get into one of these custom charts.
 >
-> **[1:42](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980&t=102)** The default chart is pretty good, but there's a lot of options that allows you to control how it looks and there's some additional features, you get this thing called historical charts, but that's only available to GitHub team and GitHub Enterprise Cloud for organizations.
+> **[1:42](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980&t=102)** The default chart is pretty good, but there's a lot of options that allows you to control how it looks and there's some additional features, you get this thing called historical charts, but that's only available to [[GitHub]] team and GitHub Enterprise Cloud for organizations.
 >
 > **[2:00](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/insights?u=76281980&t=120)** I suspect that this is going to be an area of growth at some point in the future.
 >
@@ -1855,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[GitHub]] (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Env Vars:** url (2)
 > **Tools:** github (2)
 > **Prerequisites:** configure (2)

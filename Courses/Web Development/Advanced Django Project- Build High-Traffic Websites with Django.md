@@ -87,18 +87,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tackling projects with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980)
+#### [Tackling projects with Django](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=1)** - [Ryan] Django is in the back end of many high-traffic websites, such as Instagram, Pinterest, and Disqus.
+> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=1)** - [Ryan] [[Django]] is in the back end of many high-traffic websites, such as Instagram, Pinterest, and Disqus.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=6)** And is the framework of choice for open source foundations, like Mozilla, OpenStack, and the Open Knowledge Foundation.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=13)** It's also known as the web framework for perfectionists with deadlines, for very good reasons.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=18)** Its rapid development tools, pragmatically designed Python, and out-of-the-box functionality create secure, robust, and infinitely extendible web projects with just a few lines of code.
+> **[0:18](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=18)** Its rapid development tools, pragmatically designed [[Python (Programming Language)|Python]], and out-of-the-box functionality create secure, robust, and infinitely extendible web projects with just a few lines of code.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=28)** If you know where to place them.
 >
@@ -118,32 +117,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (5), web (5), traffic (1), [[Python (Programming Language)|Python]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [ryan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=0)** - [Presenter] Let's talk about what you should know before starting this course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=3)** Obviously you should know Python.
+> **[0:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=3)** Obviously you should know [[Python (Programming Language)|Python]].
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=5)** So Django is a Python web framework.
+> **[0:05](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=5)** So [[Django]] is a Python web framework.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=7)** We're going to be doing a lot of Python, and you may get lost easily if you're not familiar with the language.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=13)** The second thing you should know is Django.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=15)** So this is the advanced string, of course, this course is designed for Python developers who have some familiarity already with Django, or at the very least other similar web frameworks and content management systems.
+> **[0:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=15)** So this is the advanced string, of course, this course is designed for Python developers who have some familiarity already with Django, or at the very least other similar web frameworks and [[Content Management Systems (CMS)|content management systems]].
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=26)** With that said, familiarity with other web frameworks and CMS's isn't a great substitute for knowledge of Django in this course.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=32)** If you haven't already, I highly recommend you check out Caleb Smith's Learning Django before starting this course, or any of the other great interjectory LinkedIn Learning videos about Django.
+> **[0:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=32)** If you haven't already, I highly recommend you check out Caleb Smith's Learning Django before starting this course, or any of the other great interjectory [[LinkedIn]] Learning videos about Django.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/what-you-should-know?u=76281980&t=43)** So I'm a big fan of spiral learning.
 >
@@ -165,14 +163,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (4), web (3), [[LinkedIn]] (2), [[Content Management Systems (CMS)|Content management systems]] (1)
+> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (2), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** cms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980)
+#### [Project overview](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=33)** There are user accounts and businesses.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=36)** So user accounts are of course wrappers around the Django user model.
+> **[0:36](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=36)** So user accounts are of course wrappers around the [[Django]] user model.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=39)** They contain extra account information about the user.
 >
@@ -212,11 +209,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=74)** So let's take a look at the website.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=77)** All right. So I am obviously a graphic design genius.
+> **[1:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=77)** All right. So I am obviously a [[Graphic Design]] genius.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=81)** I'm just kidding.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=82)** I believe there are LinkedIn Learning classes about CSS, and obviously this is not one of them.
+> **[1:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=82)** I believe there are [[LinkedIn]] Learning classes about CSS, and obviously this is not one of them.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=87)** So here's the homepage.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=129)** So the first one is for chapter one, video three, then you navigate into that and then it's /friendsbook.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=136)** And then you run Python, manage.py runserver, just like in any Django project, you're going to go to the login page at your local host, /admin.
+> **[2:16](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=136)** And then you run [[Python (Programming Language)|Python]], manage.py runserver, just like in any Django project, you're going to go to the login page at your local host, /admin.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=146)** The username is Ryan all lowercase with the password password, again, all lowercase.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), business (4), next (1), [[Graphic Design]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Graphic Design]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** go back to (2)
@@ -270,22 +267,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The world of Python and Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980)
+#### [The world of Python and Django](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=0)** - [Instructor] There are so many backend web frameworks to choose from today.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=3)** Node.js alone has... what? Hundreds to choose from?
+> **[0:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=3)** [[Node.js]] alone has... what? Hundreds to choose from?
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=6)** So, why Python and Django?
+> **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=6)** So, why [[Python (Programming Language)|Python]] and [[Django]]?
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=9)** Let's talk a little bit about what makes this language great and the platform built on it, Django, even better for web development.
+> **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=9)** Let's talk a little bit about what makes this language great and the platform built on it, Django, even better for [[Web Development]].
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=17)** Django is owned and maintained by the Django Software Foundation, which is an entirely separate entity from the Python Software Foundation which maintains Python.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=26)** Although Django is an independent project not owned by the Python Software Foundation, the founders of Django had very similar philosophies when it came to programming and software design.
+> **[0:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=26)** Although Django is an independent project not owned by the Python Software Foundation, the founders of Django had very similar philosophies when it came to programming and [[Software Design]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=36)** If you open up a Python interface and type "Import this," you get an Easter egg known as the Zen of Python.
 >
@@ -311,13 +307,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=111)** If you have the same logic in multiple places, and that logic needs to change, it's really a pain in the butt.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=116)** You know, if you spent some time in software development, you've probably dealt with that before.
+> **[1:56](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=116)** You know, if you spent some time in [[Software Development]], you've probably dealt with that before.
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=120)** But the lack of redundancy in Django actually makes it extremely flexible and easy to use.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=126)** Explicit is better than implicit.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=129)** I love JavaScript, but occasionally you look at someone's JavaScript and you think, "Wait, how are they doing this?"
+> **[2:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=129)** I love [[JavaScript]], but occasionally you look at someone's JavaScript and you think, "Wait, how are they doing this?"
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980&t=135)** "How does this work?"
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (16), [[Python (Programming Language)|Python]] (14), [[Programming]] (3), [[JavaScript]] (2), web (1)
+> **Frameworks & Libraries:** [[Django]] (16), [[Python (Programming Language)|Python]] (14), [[JavaScript]] (2), [[Node.js]] (1), [[Web Development]] (1)
 > **CLI Commands:** python (14), node (1)
 > **Definitions:** is an  (2), known as (1), means that (1)
 > **Env Vars:** dry (3)
@@ -368,12 +364,11 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Analogies:** for example (1)
 
-#### Architecture of a Django project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980)
+#### [Architecture of a Django project](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=0)** - [Instructor] In Django, there are projects and applications, or apps.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=0)** - [Instructor] In [[Django]], there are projects and applications, or apps.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=4)** A project is a thing that you get when you run django-admin startproject.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=48)** And assuming those apps are well-written, they should just apply that feature seamlessly in the new project.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=53)** So you can think of apps a bit like WordPress widgets, if you've used WordPress before.
+> **[0:53](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=53)** So you can think of apps a bit like [[WordPress]] widgets, if you've used WordPress before.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=58)** Django follows the MVC design principle, just with a different name.
 >
@@ -419,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=87)** And the views sit in between containing the business logic and handling HTTP requests.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=92)** Ultimately, the job of all web frameworks is to handle requests and serve up some client-side data, whether that's HTML, JavaScript, JSON-formatted data, files, whatever.
+> **[1:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=92)** Ultimately, the job of all web frameworks is to handle requests and serve up some client-side data, whether that's [[HTML]], [[JavaScript]], [[JSON]]-formatted data, files, whatever.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=102)** So let's look at the flow of our web request in Django.
 >
@@ -465,7 +460,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=180)** It can handle just about any unexpected error, but it's going to immediately crash if the settings.py goes missing, for whatever reason.
 >
-> **[3:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=187)** The settings.py file also contain secrets that are important to protect if, say, you have your app on GitHub.
+> **[3:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=187)** The settings.py file also contain secrets that are important to protect if, say, you have your app on [[GitHub]].
 >
 > **[3:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/architecture-of-a-django-project?u=76281980&t=193)** So keep that in mind.
 >
@@ -475,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (13), data (5), feature (4), [[WordPress]] (2), web (2)
+> **Frameworks & Libraries:** [[Django]] (13), [[WordPress]] (2), [[HTML]] (1), [[JavaScript]] (1), [[JSON]] (1)
 > **File Paths:** urls.py (5), settings.py (5)
 > **Env Vars:** mvc (4), mtv (2), http (2), html (1), json (1)
 > **Definitions:** is a  (4), is an  (2), we call this (1)
@@ -484,14 +479,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 
-#### Running Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980)
+#### [Running Django](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=0)** - So you might be asking yourself, what's up with manage.py?
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=4)** We do it a lot in Django.
+> **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=4)** We do it a lot in [[Django]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=5)** Every command, manage.py this, manage.py that.
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=90)** No module named post.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=92)** And then if I run python manage.py shell, and then I do the same thing from post.models import Post, there, it works just fine.
+> **[1:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=92)** And then if I run [[Python (Programming Language)|python]] manage.py shell, and then I do the same thing from post.models import Post, there, it works just fine.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/running-django?u=76281980&t=104)** And actually the Django shell is super handy if you want to try out a line without running the whole server.
 >
@@ -567,8 +561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980)
+#### [Validations](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=93)** For instance, let's say that we don't want users submitting bad words in their posts.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=99)** So words like Java, waterfall, and enterprise.
+> **[1:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=99)** So words like [[Java]], waterfall, and enterprise.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=105)** So, just kidding about this, I love Java.
 >
@@ -614,7 +607,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=127)** That's the string that the user is trying to submit for that field.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=130)** So if any word in content dot lower for word in bad words,
+> **[2:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=130)** So if any [[Microsoft Word|word]] in content dot lower for word in bad words,
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980&t=142)** I lost my parentheses there, raise validation error, this post contains bad words.
 >
@@ -668,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (2), database (2), [[Microsoft Word|Word]] (2), web (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
@@ -676,12 +669,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Custom fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980)
+#### [Custom fields](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=0)** - [Instructor] So Django has a lot of different types of field objects that you can use out of the box.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=0)** - [Instructor] So [[Django]] has a lot of different types of field objects that you can use out of the box.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=4)** You can store text, dates, files, which we'll get into later, numbers, email addresses.
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=42)** It has a lot of information about how to take things out of the database and then put them back into the database.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=49)** Get prep value, so that value is coming from the database, turns it into a Python object.
+> **[0:49](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=49)** Get prep value, so that value is coming from the database, turns it into a [[Python (Programming Language)|Python]] object.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=54)** Here's some information about the form field.
 >
@@ -747,9 +739,9 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=181)** So that's all we need to store it.
 >
-> **[3:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=183)** Now, ordinarily, if you're writing this for a production, you might want to check that connection to see exactly what kind of database you're working with, 'cause not all databases recognize this or respect it, but because this is just an example, we're always just going to return that string.
+> **[3:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=183)** Now, ordinarily, if you're writing this for a production, you might want to check that connection to see exactly what kind of database you're working with, 'cause not all [[Databases]] recognize this or respect it, but because this is just an example, we're always just going to return that string.
 >
-> **[3:18](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=198)** We know we're working with SQL Lite.
+> **[3:18](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=198)** We know we're working with [[SQL]] Lite.
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-fields?u=76281980&t=200)** The next thing we want to do is from DB value.
 >
@@ -811,15 +803,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Python (Programming Language)|Python]] (8), [[Django]] (6), data (3), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Django]] (6), [[Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (9), python (8)
 > **Env Vars:** rgb (2), c0ffee (2), sql (1)
 > **File Paths:** manage.py (4)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### File management
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980)
+#### [File management](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +820,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=14)** We're backend developers, we can do that.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=17)** All right, so Django runs a pretty tight ship and it's web server doesn't allow anyone to just access files and its directory structure willy nilly.
+> **[0:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=17)** All right, so [[Django]] runs a pretty tight ship and it's web server doesn't allow anyone to just access files and its directory structure willy nilly.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=25)** So what we need to do is set up a media directory.
 >
@@ -847,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=69)** But first we need to PIP install Pillow.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=72)** So Pillow is a fork off of the Python imaging library or PIL, not sure exactly why they called it Pillow, but it's a fun name.
+> **[1:12](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=72)** So Pillow is a fork off of the [[Python (Programming Language)|Python]] imaging library or PIL, not sure exactly why they called it Pillow, but it's a fun name.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=81)** So you can do PIP install Pillow.
 >
@@ -871,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=130)** We also want to add the corresponding field to our edit form.
 >
-> **[2:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=135)** So that's going to be in forms right after favorite color.
+> **[2:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=135)** So that's going to be in [[Forms]] right after favorite color.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/file-management?u=76281980&t=139)** We can add profile photo.
 >
@@ -947,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (3), data (2), web (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Django]] (8), [[Python (Programming Language)|Python]] (3), [[Forms]] (1)
 > **Env Vars:** url (8), pip (2), pil (1), http (1), css (1)
 > **CLI Commands:** make (6), python (3), pip (2)
 > **UI Navigation:** click on (2), go to (2)
@@ -956,8 +947,7 @@ created: 2026-05-02
 > **URLs:** [django.com](https://django.com) (2)
 > **Analogies:** picture (1), just like (1)
 
-#### Generic relations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980)
+#### [Generic relations](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1009,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=137)** It's expecting the user account for starters.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=140)** And we basically just need to change the word user account to the word subject.
+> **[2:20](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=140)** And we basically just need to change the [[Microsoft Word|word]] user account to the word subject.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=147)** Now, one other thing is that only user accounts have posts.
 >
@@ -1051,7 +1041,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=225)** So this is the Ryan user account here, and then we save it.
 >
-> **[3:50](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=230)** I'm going to set the rest of these.
+> **[3:50](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=230)** I'm going to set the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[3:52](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/generic-relations?u=76281980&t=232)** Okay.
 >
@@ -1069,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Microsoft Word|Word]] (3), generic (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** boilerplate (1), template (1)
@@ -1077,8 +1067,7 @@ created: 2026-05-02
 > **Env Vars:** acme (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980)
+#### [Signals](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,9 +1081,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=27)** So situations like this, when you need to create additional models on the creation of one are pretty common.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=33)** There are technically a few ways to do it, but probably the easiest to use is Django signals.
+> **[0:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=33)** There are technically a few ways to do it, but probably the easiest to use is [[Django]] signals.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=39)** So Django has this concept of signals, kind of similar to JavaScript actions or hooks in other languages that you can use to implement this behavior.
+> **[0:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=39)** So Django has this concept of signals, kind of similar to [[JavaScript]] actions or hooks in other languages that you can use to implement this behavior.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/signals?u=76281980&t=47)** So when the model is saved, not just created, but for each save, Django will send out a signal to the application that can be received by any receivers or listeners that are listening for it.
 >
@@ -1166,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Django]] (6), web (1), [[JavaScript]] (1), application (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[JavaScript]] (1)
 > **Code Identifiers:** post_save (3), profile_user (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1180,14 +1169,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Raising exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980)
+#### [Raising exceptions](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980&t=0)** - [Instructor] So, so far, we've only dealt with views that return HTTP 200 status codes with some HTML.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980&t=0)** - [Instructor] So, so far, we've only dealt with views that return HTTP 200 status codes with some [[HTML]].
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980&t=6)** And this is the sort of happy path in Django.
+> **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980&t=6)** And this is the sort of happy path in [[Django]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980&t=9)** You find an object, you combine it with a template and then you return it to the user to create the webpage that they're looking for.
 >
@@ -1335,7 +1323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (8), [[HTML]] (2), web (2), css (1)
+> **Frameworks & Libraries:** [[Django]] (8), [[HTML]] (2)
 > **Env Vars:** http (6), html (1), debug (1), css (1)
 > **Exercise Files:** template (8)
 > **CLI Commands:** make (5), find (1)
@@ -1344,8 +1332,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** post_id (1)
 
-#### Class-based views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980)
+#### [Class-based views](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1355,7 +1342,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=14)** There's also a lot of the same lines, boilerplate code over and over again.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=19)** Class-based views in Django are designed to solve this problem.
+> **[0:19](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=19)** Class-based views in [[Django]] are designed to solve this problem.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=23)** So let's take a look at a simple class-based view to replace the post feed on the homepage.
 >
@@ -1403,7 +1390,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=134)** So let's add an argument paginate_by=2 and the template name, we just define it up here.
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=142)** I'm going to call it post_pagination.html, and you'll see that I've already included this in the code.
+> **[2:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=142)** I'm going to call it post_pagination.[[HTML]], and you'll see that I've already included this in the code.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/class-based-views?u=76281980&t=150)** So I just wrote this beforehand, notice that it has a page object passed in.
 >
@@ -1457,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[HTML]] (2), data (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[HTML]] (2)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** get_context_data (2), as_view (1), paginate_by (1), post_pagination (1)
 > **Exercise Files:** template (3), boilerplate (1)
@@ -1466,12 +1453,11 @@ created: 2026-05-02
 > **Analogies:** imagine (2)
 > **Cross-References:** go back to (1)
 
-#### QuerySets and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980)
+#### [QuerySets and filters](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=0)** - Whenever you retrieve a list of objects from the database with a line like this, or like on the profile page with the line like this, where you're filtering based on the author, you're using a Django QuerySet.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=0)** - Whenever you retrieve a list of objects from the database with a line like this, or like on the profile page with the line like this, where you're filtering based on the author, you're using a [[Django]] QuerySet.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=13)** So, Django QuerySets could be constructed, filtered, sliced.
 >
@@ -1479,7 +1465,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=23)** So, Djingo waits until the last possible moment when the query set is evaluated for it to actually make that database request.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=30)** So, database queries can be expensive and hold up site execution.
+> **[0:30](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=30)** So, [[Database Queries]] can be expensive and hold up site execution.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=34)** So, it's worth knowing what's going on under the hood with these. For instance, if I take this line here and then just turn this into a list, actually kind of seems like the same thing.
 >
@@ -1501,9 +1487,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=85)** In the first case, we're filtering using the query set object, right?
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=91)** All of the filtering is being done in the database where it's relatively efficient. Django, basically constructs an SQL query where this filtering is done.
+> **[1:31](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=91)** All of the filtering is being done in the database where it's relatively efficient. Django, basically constructs an [[SQL]] query where this filtering is done.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=101)** But in the second case, we're doing something kind of ridiculous and returning every post object, turning it into Python list and then filtering it on the Python server. This is going to be far less efficient.
+> **[1:41](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=101)** But in the second case, we're doing something kind of ridiculous and returning every post object, turning it into [[Python (Programming Language)|Python]] list and then filtering it on the Python server. This is going to be far less efficient.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=114)** Now, keep in mind, you're not always going to see the situation so nicely written on one line like this.
 >
@@ -1519,7 +1505,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=176)** And this is far more efficient.
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=178)** In fact, most databases, the length of the table is pre-calculated it's trashed somewhere.
+> **[2:58](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=178)** In fact, most [[Databases]], the length of the table is pre-calculated it's trashed somewhere.
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/querysets-and-filters?u=76281980&t=183)** It's just a simple lookup. Whereas in the first case, you're dumping the entire table and to your Python server's memory to get the exact same result.
 >
@@ -1553,7 +1539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (13), database (10), [[Python (Programming Language)|Python]] (5), [[Databases]] (2), hit (1)
+> **Frameworks & Libraries:** [[Django]] (13), [[Python (Programming Language)|Python]] (5), [[Databases]] (2), [[Database Queries]] (1), [[SQL]] (1)
 > **CLI Commands:** python (5), make (2)
 > **Warnings:** keep in mind (2), be aware (1), pitfall (1)
 > **Analogies:** for example (2), for instance (1)
@@ -1567,16 +1553,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deleting models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980)
+#### [Deleting models](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=0)** - [Instructor] Okay.
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=1)** Let's drill into a particular aspect of Django that's often glossed over, and that is the on delete attribute in model fields.
+> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=1)** Let's drill into a particular aspect of [[Django]] that's often glossed over, and that is the on delete attribute in model fields.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=8)** So if you've ever used object relational mappers, ORMs in programming or taken a deep dive into foreign keys in SQL, you'll likely be familiar with this concept.
+> **[0:08](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=8)** So if you've ever used object relational mappers, ORMs in programming or taken a deep dive into foreign keys in [[SQL]], you'll likely be familiar with this concept.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980&t=18)** And this attribute tells Django what to do with the object when its parent is deleted.
 >
@@ -1682,7 +1667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Programming]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[SQL]] (1)
 > **UI Navigation:** go to (7)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1691,12 +1676,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Custom object managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-object-managers?u=76281980)
+#### [Custom object managers](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-object-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-object-managers?u=76281980&t=0)** - [Instructor] You can build just about anything in Django without ever knowing or caring much about the existence of the manager.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-object-managers?u=76281980&t=0)** - [Instructor] You can build just about anything in [[Django]] without ever knowing or caring much about the existence of the manager.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-object-managers?u=76281980&t=6)** So the manager is the wizard behind the magic that makes everything work.
 >
@@ -1780,7 +1764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), database (2), business (2), data (1)
+> **Frameworks & Libraries:** [[Django]] (3)
 > **Definitions:** is a  (4), we call this (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** get_feed (2), feed_manager (2)
@@ -1788,14 +1772,13 @@ created: 2026-05-02
 > **File Paths:** managers.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fetching fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980)
+#### [Fetching fields](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=0)** - [Instructor] In chapter three, we introduced query sets and highlighted the importance of understanding database load, when things are executed, and making sure that you're using your database efficiently.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=9)** And in this video, we're going to talk about another way to optimize performance in Django that depends a lot on the specifics of what kind of database you're using, what kind of fields are in your model, and what the front end application requires.
+> **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=9)** And in this video, we're going to talk about another way to optimize performance in [[Django]] that depends a lot on the specifics of what kind of database you're using, what kind of fields are in your model, and what the front end application requires.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=21)** If you do it right, you can increase performance, but if you do it wrong, you can really decrease performance quite a bit.
 >
@@ -1827,7 +1810,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=98)** Some part of the code needs to access something other than the first name and the last name.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=103)** In which case it will go out, make another database request to fetch explicitly that thing that was required.
+> **[1:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=103)** In which case it will go out, make another database request to [[Fetch]] explicitly that thing that was required.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=110)** Okay, so there's a little bit of a warning there.
 >
@@ -1845,7 +1828,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=146)** So let's take a look at the database.
 >
-> **[2:31](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=151)** Okay, and we're using SQL Lite, but I'm going to talk about the database from the perspective of say mySQL or SQL Server or something like that.
+> **[2:31](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=151)** Okay, and we're using [[SQL]] Lite, but I'm going to talk about the database from the perspective of say [[MySQL]] or [[Microsoft SQL Server|SQL Server]] or something like that.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=161)** So table info, user account.
 >
@@ -1873,7 +1856,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=209)** And the way that works is that it will actually write the first 4k or eight K of this field alongside all the other fields so that it's loaded into memory alongside everything else.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=219)** But if this field gets too large, it actually just stores a pointer to the rest of the record.
+> **[3:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=219)** But if this field gets too large, it actually just stores a pointer to the [[Representational State Transfer (REST)|rest]] of the record.
 >
 > **[3:44](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/fetching-fields?u=76281980&t=224)** It says for the rest of it, go look somewhere else in memory.
 >
@@ -1907,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Fetch]] (3), [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[MySQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Django]] (1)
 > **CLI Commands:** make (2), mysql (2)
 > **Env Vars:** sql (3)
 > **Warnings:** be careful (2), warning (1)
@@ -1921,12 +1904,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Django template language
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980)
+#### [The Django template language](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=0)** - [Instructor] All right, the Django template language.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=0)** - [Instructor] All right, the [[Django]] template language.
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=2)** So far in this series we've seen and worked with some templates.
 >
@@ -1936,11 +1918,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=14)** So the Django template language is basically anything you're entering in between the template tags like these.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=20)** So anything outside of the curly braces has to be HTML or JavaScript, client-side code.
+> **[0:20](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=20)** So anything outside of the curly braces has to be [[HTML]] or [[JavaScript]], client-side code.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=26)** Anything inside of them is server-side code.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=29)** When we talk about the Django template language we're talking about the stuff inside of those braces, and this stuff is not Python.
+> **[0:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=29)** When we talk about the Django template language we're talking about the stuff inside of those braces, and this stuff is not [[Python (Programming Language)|Python]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980&t=36)** You can't start writing whatever Python code you want in here.
 >
@@ -2036,7 +2018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (11), [[HTML]] (7), [[Python (Programming Language)|Python]] (6), application (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Django]] (11), [[HTML]] (7), [[Python (Programming Language)|Python]] (6), [[JavaScript]] (1)
 > **Exercise Files:** template (12)
 > **CLI Commands:** python (6)
 > **Env Vars:** html (5), csrf (1)
@@ -2045,12 +2027,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** for instance (1)
 
-#### Humanize library
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980)
+#### [Humanize library](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=0)** - [Instructor] So we've seen a few things from the django.contrib collection of packages before.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=0)** - [Instructor] So we've seen a few things from the [[Django]].contrib collection of packages before.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=4)** For instance content type and generic foreign key classes.
 >
@@ -2058,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=11)** You can create a whole Django application without importing anything from contrib.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=15)** But the reason these packages exist is because of Django and Python's shared battery included philosophy.
+> **[0:15](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=15)** But the reason these packages exist is because of Django and [[Python (Programming Language)|Python]]'s shared battery included philosophy.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=22)** So you should be able to develop, just about any full featured project without needing to install third party libraries in order to do that.
 >
@@ -2160,7 +2141,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=222)** Okay.
 >
-> **[3:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=223)** And let's put this up with the rest of the load statements to keep things organized.
+> **[3:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=223)** And let's put this up with the [[Representational State Transfer (REST)|rest]] of the load statements to keep things organized.
 >
 > **[3:48](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/humanize-library?u=76281980&t=228)** And right around the birthday line, we're going to say, localize on.
 >
@@ -2182,7 +2163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (7), [[Python (Programming Language)|Python]] (2), generic (1), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (6)
 > **Code Identifiers:** get_seconds_since (2), seconds_since (2)
 > **CLI Commands:** python (2), make (1)
@@ -2191,12 +2172,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1), for example (1)
 > **Prerequisites:** install (1), setup (1)
 
-#### Custom tags and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980)
+#### [Custom tags and filters](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=0)** - [Teacher] So far, we've seen some cool filters that are provided by Django and the humanized library like intword here.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=0)** - [Teacher] So far, we've seen some cool filters that are provided by [[Django]] and the humanized library like intword here.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=6)** And so all filters are actually just functions.
 >
@@ -2266,7 +2246,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=212)** Like if they have five exclamation points in a row, we can give them three exclamation points in a row.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=219)** So just a little bit of Python string arithmetic there.
+> **[3:39](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=219)** So just a little bit of [[Python (Programming Language)|Python]] string arithmetic there.
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/custom-tags-and-filters?u=76281980&t=222)** And so let's go see what that looks like.
 >
@@ -2285,12 +2265,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Variables as templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/variables-as-templates?u=76281980)
+#### [Variables as templates](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/variables-as-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/variables-as-templates?u=76281980&t=0)** - [Instructor] So in most Django projects, templates are stored in a template file on the web server, like this one in the profile page.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/variables-as-templates?u=76281980&t=0)** - [Instructor] So in most [[Django]] projects, templates are stored in a template file on the web server, like this one in the profile page.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/variables-as-templates?u=76281980&t=7)** But what if they were more dynamic?
 >
@@ -2394,7 +2373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), web (1), database (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **Exercise Files:** template (19), exercise files (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), navigate to (1)
@@ -2408,14 +2387,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980)
+#### [Securing authentication](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=0)** - [Instructor] Let's talk about security.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=2)** In the section, we're going to be primarily working with the Auth App, that comes installed with the Django by default.
+> **[0:02](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=2)** In the section, we're going to be primarily working with the Auth App, that comes installed with the [[Django]] by default.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=7)** So you can see this in the settings.py file.
 >
@@ -2471,7 +2449,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=173)** And this will give us URLs to log in and log out, slash account.
 >
-> **[2:59](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=179)** So we'll also want a template for the login page, and I've included that at user account slash templates, registration, login.html, I just made a login form there.
+> **[2:59](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=179)** So we'll also want a template for the login page, and I've included that at user account slash templates, registration, login.[[HTML]], I just made a login form there.
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=192)** And then the other thing we'll want is in settings.py, we want to add a login-redirect URL.
 >
@@ -2489,7 +2467,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=230)** It looks like it's taking us to the Django admin-log-out page, but obviously you can add a template specifically for user log out, and it'll display that instead.
 >
-> **[3:59](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=239)** Now, one other thing that we need to take care of, if we go to the Vue for the post feed, what we want to do is redirect users to this login page if they're not logged in.
+> **[3:59](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=239)** Now, one other thing that we need to take care of, if we go to the [[Vue.js|Vue]] for the post feed, what we want to do is redirect users to this login page if they're not logged in.
 >
 > **[4:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980&t=250)** So if not, request.user.is_authenticated, return "redirect/account," that needs to be a string, "/login."
 >
@@ -2505,7 +2483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (7), [[Security]] (2), feature (1), [[HTML]] (1), [[Vue.js|Vue]] (1)
+> **Frameworks & Libraries:** [[Django]] (7), [[HTML]] (1), [[Vue.js|Vue]] (1)
 > **UI Navigation:** go to (7)
 > **File Paths:** settings.py (2), urls.py (1), login.html (1)
 > **Env Vars:** url (2)
@@ -2514,8 +2492,7 @@ created: 2026-05-02
 > **Code Identifiers:** is_authenticated (1)
 > **Cross-References:** go back to (1)
 
-#### Caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980)
+#### [Caching](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2527,7 +2504,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980&t=9)** How do you handle race conditions, all that stuff.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980&t=12)** Fortunately, Django has all of that figured out and wrapped up for us.
+> **[0:12](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980&t=12)** Fortunately, [[Django]] has all of that figured out and wrapped up for us.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/caching?u=76281980&t=16)** And all we have to worry about is the keys and the values.
 >
@@ -2607,7 +2584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (10), database (1)
+> **Frameworks & Libraries:** [[Django]] (10)
 > **Code Identifiers:** vary_on_cookie (4), django_cache (3)
 > **CLI Commands:** make (2), rm (1)
 > **Env Vars:** cache_middleware_key_prefix (1), url (1)
@@ -2616,12 +2593,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980)
+#### [Sessions](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=0)** - [Instructor] Sessions are a way of storing data and tying it to a website user, not necessarily to a user account like we've been thinking about users, so it's not tied to a Django user ID necessarily, but it's tied to your current web session.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=0)** - [Instructor] Sessions are a way of storing data and tying it to a website user, not necessarily to a user account like we've been thinking about users, so it's not tied to a [[Django]] user ID necessarily, but it's tied to your current web session.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=13)** And when you enable sessions in Django, it will put a session ID in the user's cookie, like this.
 >
@@ -2671,7 +2647,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=162)** The session object here is just a dictionary, which is really nice.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=165)** Json.loads, there's a little bit of decoding here because this data is sent over as bytes and then post content, okay.
+> **[2:45](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=165)** [[JSON]].loads, there's a little bit of decoding here because this data is sent over as bytes and then post content, okay.
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=178)** So this is what we're going to be sending over.
 >
@@ -2685,7 +2661,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=206)** I did kind of a sneaky thing here.
 >
-> **[3:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=209)** So obviously this is not a JavaScript course, but you should know what's going on.
+> **[3:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=209)** So obviously this is not a [[JavaScript]] course, but you should know what's going on.
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/sessions?u=76281980&t=213)** What happens is I call this function draft post every 2,000 milliseconds or two seconds, and every two seconds, it will hit that API that I've set up at draft post.
 >
@@ -2711,7 +2687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (8), [[Django]] (8), api (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Django]] (8), [[JavaScript]] (2), [[JSON]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), csrf (1)
 > **Prerequisites:** set up (2)
@@ -2720,16 +2696,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980)
+#### [Logging](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=0)** - [Instructor] In this section, I'm going to assume some familiarity with the Python logging package and also logging systems in general.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=0)** - [Instructor] In this section, I'm going to assume some familiarity with the [[Python (Programming Language)|Python]] logging package and also logging systems in general.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=6)** Different log levels, what they mean, why we want to use them, et cetera.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=10)** Django's logging system extends Python's logging package.
+> **[0:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=10)** [[Django]]'s logging system extends Python's logging package.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=13)** You know that thing you get when you type import logging.
 >
@@ -2809,7 +2784,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=222)** Okay, great.
 >
-> **[3:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=223)** So that's in our feed.html.
+> **[3:43](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=223)** So that's in our feed.[[HTML]].
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/logging?u=76281980&t=225)** And if we open up the terminal so we can see what's going on and go over to the website and refresh the page and head over to the logs.
 >
@@ -2833,7 +2808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (20), [[Python (Programming Language)|Python]] (5), application (2), [[Search]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (20), [[Python (Programming Language)|Python]] (5), [[HTML]] (1)
 > **Exercise Files:** template (13), source code (4)
 > **CLI Commands:** python (5), make (4), find (1)
 > **File Paths:** settings.py (2), logging.config (1), feed.html (1)
@@ -2847,14 +2822,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding and using third-party packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980)
+#### [Finding and using third-party packages](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=0)** - [Instructor] Let's talk about third-party packages.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=2)** There's a sort of hierarchy of packages when it comes to Django.
+> **[0:02](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=2)** There's a sort of hierarchy of packages when it comes to [[Django]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=6)** First, you have all the built-in things that are used with most Django projects, like, for example, validation errors imported from django.core.
 >
@@ -2888,17 +2862,17 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=90)** You can probably read the code yourself and understand what's going on.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=94)** So let's go over a few popular packages that are trusted, although you shouldn't take my word for it.
+> **[1:34](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=94)** So let's go over a few popular packages that are trusted, although you shouldn't take my [[Microsoft Word|word]] for it.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=100)** And the first is the Django REST framework.
+> **[1:40](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=100)** And the first is the Django [[Representational State Transfer (REST)|REST]] framework.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=102)** As we've seen, you can write some very nice HTTP APIs in Django just out of the box with views and URL endpoints.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=109)** However, the Django REST framework provides some nice features such as OAuth authentication, class-based views specifically for REST APIs, easy model serialization so you can just take your Django model and spit it out into an API endpoint.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=123)** There's even a LinkedIn Learning course that you can watch about it.
+> **[2:03](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=123)** There's even a [[LinkedIn]] Learning course that you can watch about it.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=126)** Next, we have the Django model Utils, so if you're familiar with the JavaScript, this is like the underscore library of Django.
+> **[2:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=126)** Next, we have the Django model Utils, so if you're familiar with the [[JavaScript]], this is like the underscore library of Django.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=133)** It has about every feature you'd want for your models without having to write it yourself.
 >
@@ -2910,7 +2884,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=152)** Honestly, you probably don't want a directory of profile image files sitting around on your web server in a large Django project.
 >
-> **[2:38](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=158)** Just a few additions to your settings.py file can let you automatically integrate your favorite cloud storage solution.
+> **[2:38](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=158)** Just a few additions to your settings.py file can let you automatically integrate your favorite [[Cloud Storage]] solution.
 >
 > **[2:44](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980&t=164)** So this works with just about everything.
 >
@@ -2926,7 +2900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (23), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[Microsoft Word|Word]] (1), api (1)
+> **Frameworks & Libraries:** [[Django]] (23), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1), [[JavaScript]] (1)
 > **Env Vars:** rest (3), http (1), url (1), api (1), pip (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** settings.py (2), setup.py (1), requirements.txt (1)
@@ -2935,12 +2909,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 
-#### Getting involved with the Django community
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980)
+#### [Getting involved with the Django community](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=0)** - [Instructor] Django has been around for 16 years and is definitely not showing its age.
+> **[0:00](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=0)** - [Instructor] [[Django]] has been around for 16 years and is definitely not showing its age.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=5)** It's an extremely well-maintained and well-documented project supported by the Django Software Foundation.
 >
@@ -2960,7 +2933,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=55)** Yes, just like in corporate America, open source projects have closely watched issue trackers.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=61)** You can learn more about this ticketing system and how to log in with your GitHub account on this page here.
+> **[1:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=61)** You can learn more about this ticketing system and how to log in with your [[GitHub]] account on this page here.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/getting-involved-with-the-django-community?u=76281980&t=66)** They have easy step-by-step instructions.
 >
@@ -3006,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (19), [[GitHub]] (3), web (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Django]] (19), [[GitHub]] (3)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -3019,8 +2992,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980)
+#### [Next steps with Django](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3028,19 +3000,19 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=1)** Auf Wiedersehen, adieu, goodbye.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=4)** But before you go, a few things to consider as you continue your Django journey, whether professionally or academically.
+> **[0:04](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=4)** But before you go, a few things to consider as you continue your [[Django]] journey, whether professionally or academically.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=11)** So advanced courses are always interesting because once you reach a certain level, every advanced topic is not always going to be useful to every learner.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=19)** You know, some users may not care that much about logins or forms, they might not need caching for their particular project.
+> **[0:19](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=19)** You know, some users may not care that much about logins or [[Forms]], they might not need caching for their particular project.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=24)** So really where do you go next to this point is likely going to be determined by what you need out of Django.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=29)** However, there are a few resources that LinkedIn Learning provides that I wanted to highlight here.
+> **[0:29](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=29)** However, there are a few resources that [[LinkedIn]] Learning provides that I wanted to highlight here.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=33)** And because these are all such fantastic courses that cover their topics in so much detail, in many cases, I actually left these topics out of this course so that all of these advanced Django courses in the LinkedIn Learning Library would be complimentary to each other.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=48)** And one of those topics that we didn't cover is test-Driven development.
+> **[0:48](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=48)** And one of those topics that we didn't cover is [[Test-Driven Development]].
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=52)** And this is a course taught by Nick Walter, a fantastic instructor who has a few Django courses out there.
 >
@@ -3056,9 +3028,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=84)** So if you're interested at all in how to build and customize forms, also controlling the relationships between models and forms, this course is for you.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=93)** I mentioned this course a little bit in the last video, but this course by Rudolf Olah, "Building RESTFUL APIs with Django" takes a deep dive into the Django REST framework, which is a third party package that is designed around building what else, but REST APIs.
+> **[1:33](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=93)** I mentioned this course a little bit in the last video, but this course by Rudolf Olah, "Building RESTFUL APIs with Django" takes a deep dive into the Django [[Representational State Transfer (REST)|REST]] framework, which is a third party package that is designed around building what else, but REST APIs.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=107)** So if you have a very client-side heavy JavaScript app, or you just need a lot of slick REST APIs for whatever reason, I would highly recommend checking out this course.
+> **[1:47](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=107)** So if you have a very client-side heavy [[JavaScript]] app, or you just need a lot of slick REST APIs for whatever reason, I would highly recommend checking out this course.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980&t=116)** Finally, what else but actually deploying your Django project.
 >
@@ -3074,7 +3046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (14), [[Forms]] (5), [[Representational State Transfer (REST)|Rest]] (3), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[Django]] (14), [[Forms]] (5), [[Representational State Transfer (REST)|Rest]] (3), [[LinkedIn]] (2), [[Test-Driven Development]] (1)
 > **Env Vars:** rest (3), restful (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)

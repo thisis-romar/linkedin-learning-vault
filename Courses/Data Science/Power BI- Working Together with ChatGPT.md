@@ -92,20 +92,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with Power BI and ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
+#### [Working with Power BI and ChatGPT](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=0)** Whether you like it or not, AI is here to stay.
 >
-> **[0:03](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=3)** Chatbot companions like ChatGPT have exploded in recent years, and make your workdays even more creative.
+> **[0:03](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=3)** Chatbot companions like [[ChatGPT]] have exploded in recent years, and make your workdays even more creative.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=13)** In this course, we'll explore how to tap into the wizardry of ChatGPT.
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=18)** We'll demonstrate how ChatGPT can assist with Power BI processes such as data preparation and also data manipulation.
+> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=18)** We'll demonstrate how ChatGPT can assist with [[Microsoft Power BI|Power BI]] processes such as [[Data Preparation]] and also [[Data Manipulation]].
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=28)** Finally, we'll touch on how ChatGPT can be used to generate ideas for storytelling and visualizations.
+> **[0:28](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=28)** Finally, we'll touch on how ChatGPT can be used to generate ideas for [[Storytelling]] and visualizations.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980&t=36)** I'm Joshua Rischin, and I've been working with Power BI since its inception.
 >
@@ -113,16 +112,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), power (3), bi (3), ai (1), chatbot (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Power BI|Power bi]] (3), [[Data Preparation]] (1), [[Data Manipulation]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=0)** In this course, we'll cover how ChatGPT can be effectively used to get the most from your Power BI experience.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=0)** In this course, we'll cover how [[ChatGPT]] can be effectively used to get the most from your [[Microsoft Power BI|Power BI]] experience.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=8)** So, before proceeding, make sure that you have access to ChatGPT.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=34)** The other thing that you'll need is access to Power BI Desktop.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=39)** Head on over to powerbi.[microsoft.com](https://microsoft.com) for more information on how to get started.
+> **[0:39](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=39)** Head on over to powerbi.[[[Microsoft]].com](https://microsoft.com) for more information on how to get started.
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=45)** And once again, the free version of this software is all you'll need for this course.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), power (3), bi (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1)
 > **Prerequisites:** you'll need (3), getting started (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [openai.com](https://openai.com) (1), [microsoft.com](https://microsoft.com) (1)
@@ -160,39 +158,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Power BI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
+#### [What is Power BI?](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=0)** Power BI is Microsoft's solution for data-driven storytelling.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=0)** [[Microsoft Power BI|Power BI]] is [[Microsoft]]'s solution for data-driven [[Storytelling]].
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=5)** Within literally seconds, even novice users can craft beautiful visualizations from an existing data set.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=12)** Even something as simple as an Excel spreadsheet can be used.
+> **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=12)** Even something as simple as an [[Microsoft Excel|Excel]] spreadsheet can be used.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=16)** Power BI can connect with pretty much any data source, meaning that you can break free from clunky charts and graphs that are often found in data centric apps.
 >
-> **[0:27](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=27)** With Power BI, you can easily mold and shape data to your liking using its companion called Power Query, which will be exploring later on in this course.
+> **[0:27](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=27)** With Power BI, you can easily mold and shape data to your liking using its companion called [[Microsoft Power Query|Power Query]], which will be exploring later on in this course.
 >
-> **[0:37](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=37)** But perhaps the best part of Power BI is its integration with the rest of the Microsoft suite of apps, meaning that you can easily share your stories and collaborate across teams.
+> **[0:37](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=37)** But perhaps the best part of Power BI is its integration with the [[Representational State Transfer (REST)|rest]] of the Microsoft suite of apps, meaning that you can easily share your stories and collaborate across teams.
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=50)** Other users can seamlessly interact with your projects and don't even need Power BI access themselves to do this.
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=58)** That'll do for now.
 >
-> **[1:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=60)** Let's now touch on what ChatGPT is all about.
+> **[1:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980&t=60)** Let's now touch on what [[ChatGPT]] is all about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (5), [[Microsoft]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft]] (2), [[Storytelling]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1)
 
-#### What is ChatGPT?
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980)
+#### [What is ChatGPT?](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=0)** Before I explain what ChatGPT is, let's just take 1 or 2 steps back.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=0)** Before I explain what [[ChatGPT]] is, let's just take 1 or 2 steps back.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=6)** Firstly, what is GPT?
 >
@@ -224,20 +220,19 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=89)** It's customized based on your experience.
 >
-> **[1:33](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=93)** So, how about we take a look at how ChatGPT can be used with Power BI?
+> **[1:33](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-chatgpt?u=76281980&t=93)** So, how about we take a look at how ChatGPT can be used with [[Microsoft Power BI|Power BI]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), power (1), bi (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** stands for (1), is an  (1)
 
-#### How can Power BI be used effectively with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980)
+#### [How can Power BI be used effectively with ChatGPT](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=0)** By now, you're probably starting to think about the endless opportunities of ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=0)** By now, you're probably starting to think about the endless opportunities of [[ChatGPT]].
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=6)** You may also have pondered that perhaps ChatGPT presents just as many risks as opportunities.
 >
@@ -249,13 +244,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=28)** So, rather than burying our heads in the sand and pretending that it doesn't exist, how about we take the time to learn about how we can safely use AI-enabled technologies as co-pilots to our creative minds?
 >
-> **[0:43](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=43)** Having spent a fair amount of time working together with Power BI, I decided to compile a list of pain points.
+> **[0:43](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=43)** Having spent a fair amount of time working together with [[Microsoft Power BI|Power BI]], I decided to compile a list of pain points.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=51)** The genesis of these frustrations has generally been a case of surely, there has to be an easier way to do this.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=60)** I'm talking about tasks such as navigating the user interface, or connecting with data sources that I'm unfamiliar with, and even creating basic code.
 >
-> **[1:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=70)** I mean, let's be honest, in a time-constrained world, who isn't going to Google how to change the background color of a text box?
+> **[1:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=70)** I mean, let's be honest, in a time-constrained world, who isn't going to [[Google]] how to change the background color of a text box?
 >
 > **[1:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=78)** Throughout this course, I'll be covering these and plenty of other scenarios, all the while reminding you that ChatGPT is not and should not be treated as a replacement for the human mind.
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=122)** Wow.
 >
-> **[2:04](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=124)** No need to watch the rest of this course.
+> **[2:04](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=124)** No need to watch the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[2:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/how-can-power-bi-be-used-effectively-with-chatgpt?u=76281980&t=126)** Just kidding.
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (3), power (3), bi (3), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Microsoft Power BI|Power bi]] (3), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (1)
 
 
@@ -291,12 +286,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data source troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
+#### [Data source troubleshooting](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=0)** The applications of ChatGPT are almost endless, even when it comes to working with Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=0)** The applications of [[ChatGPT]] are almost endless, even when it comes to working with [[Microsoft Power BI|Power BI]].
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=6)** So, whilst it isn't possible to cover every potential issue that you might come up against, I trust that you'll take away enough knowledge to apply these lessons to the unique challenges that you will face.
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=120)** And then, we need to find transform data, which is this icon just here.
 >
-> **[2:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=125)** What this does is open up the Power Query window where we can go ahead and update the file location.
+> **[2:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=125)** What this does is open up the [[Microsoft Power Query|Power Query]] window where we can go ahead and update the file location.
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980&t=133)** Now, how do we do this?
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), data (7), power (5), bi (5), [[Microsoft Power Query|Power query]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Microsoft Power BI|Power bi]] (5), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** click on (8), go to (2), dropdown (1), select the (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **CLI Commands:** find (1), make (1)
@@ -412,12 +406,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Types of data connectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980)
+#### [Types of data connectors](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=0)** In this video, I want to show you how to use ChatGPT to build knowledge and then guide you through the Power BI user interface, especially for data sources.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=0)** In this video, I want to show you how to use [[ChatGPT]] to build knowledge and then guide you through the [[Microsoft Power BI|Power BI]] user interface, especially for data sources.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=11)** Oh, and I suggest that for this movie, you start with a new chat in ChatGPT.
 >
@@ -435,9 +428,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=69)** Now, at this point, you might actually seek to deepen your knowledge even further.
 >
-> **[1:14](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=74)** For example, one question that I get quite a lot is whether or not Power BI can connect with lists that are hosted online, which is another Microsoft app.
+> **[1:14](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=74)** For example, one question that I get quite a lot is whether or not Power BI can connect with lists that are hosted online, which is another [[Microsoft]] app.
 >
-> **[1:26](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=86)** Can Power BI Desktop connect with lists in SharePoint?
+> **[1:26](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=86)** Can Power BI Desktop connect with lists in [[SharePoint]]?
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/types-of-data-connectors?u=76281980&t=94)** Love it.
 >
@@ -447,16 +440,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), data (5), [[ChatGPT]] (4), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[ChatGPT]] (4), [[Microsoft]] (1), [[SharePoint]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Connecting with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980)
+#### [Connecting with data](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=0)** Following on from the previous movie, say that you're relatively new to Power BI and want to get started with connecting to a list that's hosted in SharePoint.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=0)** Following on from the previous movie, say that you're relatively new to [[Microsoft Power BI|Power BI]] and want to get started with connecting to a list that's hosted in [[SharePoint]].
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=11)** Now, we already have the instruction set out in front of us, so let's give it a shot.
 >
@@ -464,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=24)** Alrighty.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=26)** ChatGPT is suggesting that we need to find something called SharePoint Online lists.
+> **[0:26](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=26)** [[ChatGPT]] is suggesting that we need to find something called SharePoint Online lists.
 >
 > **[0:32](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/connecting-with-data?u=76281980&t=32)** So, let's jump in to Power BI Desktop, and we can either try and find SharePoint online lists or start typing in SharePoint, and you'll see that it appears here.
 >
@@ -492,22 +484,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (6), [[ChatGPT]] (4), power (3), bi (3), data (1)
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[ChatGPT]] (4), [[Microsoft Power BI|Power bi]] (3)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (3)
 > **Env Vars:** url (1)
 > **Definitions:** is called (1)
 
-#### Challenge: Use ChatGPT to guide you on connecting with an Excel file
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980)
+#### [Challenge: Use ChatGPT to guide you on connecting with an Excel file](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=5)** Okay. Ready to take the ChatGPT Data Integration challenge? In your exercise file pack, you'll have a file called World Population Data.
+> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=5)** Okay. Ready to take the [[ChatGPT]] [[Data Integration]] challenge? In your exercise file pack, you'll have a file called World Population Data.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=15)** I want you to use ChatGPT to guide you on how to connect with this file.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=20)** But as an extra challenge, try and open up Power Query to apply a transformation before then loading the data into Power BI.
+> **[0:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=20)** But as an extra challenge, try and open up [[Microsoft Power Query|Power Query]] to apply a transformation before then loading the data into [[Microsoft Power BI|Power BI]].
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=30)** Once done, be sure to check out the solution video to see how you went.
 >
@@ -515,11 +506,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[ChatGPT]] (2), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Integration]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Exercise Files:** exercise file (1)
 
-#### Solution: Use ChatGPT to guide you on connecting with an Excel file
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980)
+#### [Solution: Use ChatGPT to guide you on connecting with an Excel file](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=7)** There are countless ways that you might have achieved the end result, but here's how I got there.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=12)** In ChatGPT, I asked the question, how do I connect Power BI Desktop to an Excel file?
+> **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=12)** In [[ChatGPT]], I asked the question, how do I connect [[Microsoft Power BI|Power BI]] Desktop to an [[Microsoft Excel|Excel]] file?
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=19)** And in a matter of moments, I was provided with this series of instructions.
 >
@@ -577,7 +567,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=131)** Now, if we go back to ChatGPT once more, you'll see that the load data option doesn't appear anymore.
 >
-> **[2:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=140)** So, in Power Query, we don't have the load data option.
+> **[2:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=140)** So, in [[Microsoft Power Query|Power Query]], we don't have the load data option.
 >
 > **[2:23](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-connecting-with-an-excel-file?u=76281980&t=143)** We need to get there a different way.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[ChatGPT]] (5), power (4), bi (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -609,18 +599,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use ChatGPT for data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
+#### [Why use ChatGPT for data manipulation](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=0)** Before we put ChatGPT to the test with data manipulation, you might be wondering why and how it can help.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=0)** Before we put [[ChatGPT]] to the test with [[Data Manipulation]], you might be wondering why and how it can help.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=7)** You see, in my experience, data manipulation is one of the most complex aspects of Power BI.
+> **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=7)** You see, in my experience, data manipulation is one of the most complex aspects of [[Microsoft Power BI|Power BI]].
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=14)** Now, don't get too excited.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=16)** ChatGPT can't actually do data transformation for you, but it can guide you through the process and even prepare generic code for complex transformations.
+> **[0:16](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=16)** ChatGPT can't actually do [[Data Transformation]] for you, but it can guide you through the process and even prepare generic code for complex transformations.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980&t=28)** In this chapter, we'll start small, but we'll gradually build up layers of knowledge.
 >
@@ -628,10 +617,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Manipulation]] (2), power (1), bi (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Manipulation]] (2), [[Microsoft Power BI|Power bi]] (1), [[Data Transformation]] (1)
 
-#### Changing field types
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980)
+#### [Changing field types](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,9 +633,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=20)** So, you'll notice that when I hover over one country at random, let's say Australia, that the country's population has been displayed, but in a format that makes it quite difficult to read.
 >
-> **[0:32](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=32)** So, let's see if ChatGPT can help us change this.
+> **[0:32](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=32)** So, let's see if [[ChatGPT]] can help us change this.
 >
-> **[0:36](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=36)** In a new chat window, let's ask the question. In Power BI desktop, how do I change a numerical field to comma format?
+> **[0:36](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=36)** In a new chat window, let's ask the question. In [[Microsoft Power BI|Power BI]] desktop, how do I change a numerical field to comma format?
 >
 > **[0:47](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/changing-field-types?u=76281980&t=47)** Excellent.
 >
@@ -667,20 +655,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), power (2), bi (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### Working with filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980)
+#### [Working with filters](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=0)** If you'd like to follow along, then have the exercise file open for this movie.
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=4)** Filters are one of the most popular features used in Power BI Desktop, but they often trip people up.
+> **[0:04](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=4)** Filters are one of the most popular features used in [[Microsoft Power BI|Power BI]] Desktop, but they often trip people up.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=12)** For example, check out these two map visuals.
 >
@@ -702,7 +689,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=67)** Now, we could always add another filter similar to the chart on the left, but there has to be an easier way, right?
 >
-> **[1:15](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=75)** Let's query ChatGPT.
+> **[1:15](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=75)** Let's query [[ChatGPT]].
 >
 > **[1:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-filters?u=76281980&t=78)** In Power BI Desktop, how do I apply a filter to every visualization on the same page?
 >
@@ -770,30 +757,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[ChatGPT]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[ChatGPT]] (5)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 
-#### Merging fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980)
+#### [Merging fields](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=0)** If you'd like to follow along with me, then have the exercise file open for this movie, with the Power Query window open.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=0)** If you'd like to follow along with me, then have the exercise file open for this movie, with the [[Microsoft Power Query|Power Query]] window open.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=7)** You should be pretty comfortable with how to do this by now.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=10)** What you're looking at is a random list of staff names, their salaries, and dates of birth.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=16)** All fictitious data by the way. However, one common pain point for Power BI users is having names split like this between first names and last names.
+> **[0:16](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=16)** All fictitious data by the way. However, one common pain point for [[Microsoft Power BI|Power BI]] users is having names split like this between first names and last names.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=26)** Wouldn't it be wonderful if these could be combined?
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=29)** Well, the good news is they can be.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=31)** And we can use ChatGPT to help guide us on how to do that step. With a new chat window open, let's ask the question. Using Power Query, how can I merge two columns?
+> **[0:31](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=31)** And we can use [[ChatGPT]] to help guide us on how to do that step. With a new chat window open, let's ask the question. Using Power Query, how can I merge two columns?
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/merging-fields?u=76281980&t=49)** Excellent.
 >
@@ -847,18 +833,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Power Query|Power query]] (3), power (2), data (1), bi (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Power Query|Power query]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** select the (2), right-click (2), click on (1)
 > **Exercise Files:** exercise file (1), sample code (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 
-#### Extracting part of a field
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980)
+#### [Extracting part of a field](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=0)** Starting with the exercise file open for this movie, go ahead and open up Power Query.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=0)** Starting with the exercise file open for this movie, go ahead and open up [[Microsoft Power Query|Power Query]].
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=6)** Down the track, say that we want to create a visual based on just the staff members year of birth.
 >
@@ -866,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=20)** So, how can we extract just the year from this field?
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=24)** Let's see if ChatGPT can help. With a new chat window open and it's going to be a rather long query. Using Power Query with Power BI Desktop, how can I extract just the year from a date column?
+> **[0:24](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=24)** Let's see if [[ChatGPT]] can help. With a new chat window open and it's going to be a rather long query. Using Power Query with [[Microsoft Power BI|Power BI]] Desktop, how can I extract just the year from a date column?
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/extracting-part-of-a-field?u=76281980&t=39)** Let's see how we go.
 >
@@ -898,18 +883,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[ChatGPT]] (2), power (2), bi (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[ChatGPT]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** select the (2), dropdown (1), click on (1)
 > **Env Vars:** dob (1)
 > **Exercise Files:** exercise file (1)
 > **Best Practices:** don't forget (1)
 
-#### Creating calculated fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980)
+#### [Creating calculated fields](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=0)** Starting with the exercise file open for this movie, let's go ahead and open up Power Query by selecting Transform Data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=0)** Starting with the exercise file open for this movie, let's go ahead and open up [[Microsoft Power Query|Power Query]] by selecting Transform Data.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=9)** Now, here in Australia, employers have to pay superannuation for permanent members of staff.
 >
@@ -919,9 +903,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=30)** In Power Query, this is called a custom column, and the process to create the calculation is relatively straightforward once you know how.
 >
-> **[0:40](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=40)** But let's see what advice we can get from ChatGPT.
+> **[0:40](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=40)** But let's see what advice we can get from [[ChatGPT]].
 >
-> **[0:44](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=44)** With a new chat window open let's ask the question. Using Power Query with Power BI Desktop, how can I create a calculation based on another column?
+> **[0:44](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=44)** With a new chat window open let's ask the question. Using Power Query with [[Microsoft Power BI|Power BI]] Desktop, how can I create a calculation based on another column?
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-calculated-fields?u=76281980&t=58)** Okay. This looks really, really promising.
 >
@@ -957,21 +941,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), power (2), bi (2), data (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Power BI|Power bi]] (2), [[ChatGPT]] (1)
 > **UI Navigation:** click on (2), select the (1), double-click (1)
 > **Versions:** 0.11 (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
 > **Best Practices:** don't forget (1)
 
-#### Challenge: Use ChatGPT to guide you on changing the format of a data field
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980)
+#### [Challenge: Use ChatGPT to guide you on changing the format of a data field](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=5)** Okay. Ready to take the ChatGPT Data Transformation Challenge?
+> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=5)** Okay. Ready to take the [[ChatGPT]] [[Data Transformation]] Challenge?
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=10)** In your exercise file pack, you'll have a Power BI file called O3 challenge.
+> **[0:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=10)** In your exercise file pack, you'll have a [[Microsoft Power BI|Power BI]] file called O3 challenge.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=17)** I want you to use ChatGPT to guide you on how to change the format of the superannuation field to currency format with zero decimal places.
 >
@@ -987,12 +970,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Transformation]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Transformation]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 
-#### Solution: Use ChatGPT to guide you on changing the format of a data field
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980)
+#### [Solution: Use ChatGPT to guide you on changing the format of a data field](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,9 +982,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=6)** How did you go?
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=7)** There are countless ways you might have achieved the end result, but here's how I got there. With a new ChatGPT window open, I asked chat the following.
+> **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=7)** There are countless ways you might have achieved the end result, but here's how I got there. With a new [[ChatGPT]] window open, I asked chat the following.
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=18)** I'm using Table View in Power BI Desktop and want to change the data format for a column.
+> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=18)** I'm using Table View in [[Microsoft Power BI|Power BI]] Desktop and want to change the data format for a column.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-changing-the-format-of-a-data-field?u=76281980&t=24)** And in a matter of moments, this is the series of instructions that were presented to me.
 >
@@ -1030,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), power (2), bi (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** dropdown (2), click on (1)
 
 
@@ -1038,12 +1020,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use ChatGPT for data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
+#### [Why use ChatGPT for data analysis](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980&t=0)** So far in this course, we've explored how ChatGPT can assist with navigating the Power BI desktop user interface and even prepared some basic code for us to use in Power Query.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980&t=0)** So far in this course, we've explored how [[ChatGPT]] can assist with navigating the [[Microsoft Power BI|Power BI]] desktop user interface and even prepared some basic code for us to use in [[Microsoft Power Query|Power Query]].
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980&t=13)** But did you know that it can also guide us on preparing visualizations and even ideas for generating insights?
 >
@@ -1055,20 +1036,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), power (1), bi (1), [[Microsoft Power Query|Power query]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Power Query|Power query]] (1)
 
-#### Creating visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980)
+#### [Creating visualizations](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=0)** Working with the exercise file for this movie, you should see a bubble map similar to mine.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=6)** Did you know that ChatGPT can assist you with creating visuals just like this from scratch?
+> **[0:06](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=6)** Did you know that [[ChatGPT]] can assist you with creating visuals just like this from scratch?
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=12)** So, say that I want to prepare a line graph that shows the trend of the world's population.
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=18)** Let's jump into ChatGPT and ask the question. In Power BI Desktop, how do I create a line graph?
+> **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=18)** Let's jump into ChatGPT and ask the question. In [[Microsoft Power BI|Power BI]] Desktop, how do I create a line graph?
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/creating-visualizations?u=76281980&t=29)** Excellent.
 >
@@ -1138,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), power (4), bi (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Power BI|Power bi]] (4)
 > **UI Navigation:** right-click (3), go to (1), click on (1), select the (1), drag and drop (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (2)
@@ -1146,12 +1126,11 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Exercise Files:** exercise file (1)
 
-#### Idea generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980)
+#### [Idea generation](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=0)** For this movie, we'll just be working with ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=0)** For this movie, we'll just be working with [[ChatGPT]].
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=4)** The reason for this is to demonstrate how we can continually refine our query based on the responses that come back.
 >
@@ -1175,11 +1154,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=56)** Okay. Now we're getting somewhere.
 >
-> **[1:01](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=61)** We've been given a list of ideas about how we can present data, including dashboards, infographics, and even animations.
+> **[1:01](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=61)** We've been given a list of ideas about how we can present data, including [[Dashboards]], [[Infographics]], and even animations.
 >
 > **[1:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=70)** But the thing that you might notice is that this is actually quite generic.
 >
-> **[1:15](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=75)** It doesn't tell us how to do this in a Power BI context, and that's pretty much because we haven't asked ChatGPT about Power BI.
+> **[1:15](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=75)** It doesn't tell us how to do this in a [[Microsoft Power BI|Power BI]] context, and that's pretty much because we haven't asked ChatGPT about Power BI.
 >
 > **[1:25](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/idea-generation?u=76281980&t=85)** Let's be a little bit more specific.
 >
@@ -1207,16 +1186,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[ChatGPT]] (6), power (5), bi (5), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Power BI|Power bi]] (5), [[Dashboards]] (1), [[Infographics]] (1)
 
-#### Challenge: Use ChatGPT to guide you on creating a card visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980)
+#### [Challenge: Use ChatGPT to guide you on creating a card visualization](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=5)** Okay. Ready to take the ChatGPT data analysis challenge?
+> **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=5)** Okay. Ready to take the [[ChatGPT]] data analysis challenge?
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=10)** In your exercise file pack, you'll have a file called O4 challenge, which is a Power BI Desktop file.
+> **[0:10](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=10)** In your exercise file pack, you'll have a file called O4 challenge, which is a [[Microsoft Power BI|Power BI]] Desktop file.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/challenge-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=18)** I'd like you to use ChatGPT to guide you on how to create a new card visual based on the number of mobile subscriptions, and then add a filter to ensure that you're just looking at the year 2014.
 >
@@ -1230,13 +1208,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), data (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Use ChatGPT to guide you on creating a card visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980)
+#### [Solution: Use ChatGPT to guide you on creating a card visualization](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,9 +1223,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=7)** Well, here's how I got there.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=9)** Firstly, I hope you remembered to start on a new report page in Power BI Desktop.
+> **[0:09](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=9)** Firstly, I hope you remembered to start on a new report page in [[Microsoft Power BI|Power BI]] Desktop.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=14)** With ChatGPT open, I asked the question using Power BI Desktop, how do I create a card visual?
+> **[0:14](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=14)** With [[ChatGPT]] open, I asked the question using Power BI Desktop, how do I create a card visual?
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/solution-use-chatgpt-to-guide-you-on-creating-a-card-visualization?u=76281980&t=22)** And this is the list of sequential steps that were presented back to me.
 >
@@ -1310,7 +1287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[ChatGPT]] (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[ChatGPT]] (4)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (2), drag and drop (1), dropdown (1)
 > **Warnings:** be careful (1), note that (1)
@@ -1321,18 +1298,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the next step with Copliot
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)
+#### [Take the next step with Copliot](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=0)** - [Instructor] Throughout this course, you might have wondered why I kept jumping from Power BI to ChatGPT and vice versa.
+> **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=0)** - [Instructor] Throughout this course, you might have wondered why I kept jumping from [[Microsoft Power BI|Power BI]] to [[ChatGPT]] and vice versa.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=9)** Well, AI is an evolutionary process, and, until recently, there was no alternative but to jump between the two services.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=19)** Nowadays, however, AI is continually being embedded into apps.
 >
-> **[0:25](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=25)** Microsoft's most recent incarnation of this technology is called Copilot.
+> **[0:25](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=25)** [[Microsoft]]'s most recent incarnation of this technology is called [[Microsoft Copilot|Copilot]].
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980&t=31)** Copilot leverages ChatGPT technology and assists users by automating tasks, generating content, and providing actionable insights.
 >
@@ -1360,19 +1336,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), power (4), bi (4), data (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Power BI|Power bi]] (4), [[ChatGPT]] (2), [[Microsoft]] (1)
 > **Definitions:** is called (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn how Copilot can make a difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/learn-how-copilot-can-make-a-difference?u=76281980)
+#### [Learn how Copilot can make a difference](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/learn-how-copilot-can-make-a-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/learn-how-copilot-can-make-a-difference?u=76281980&t=1)** - [Instructor] Let's take a brief look at what Copilot can do in Power BI Desktop.
+> **[0:01](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/learn-how-copilot-can-make-a-difference?u=76281980&t=1)** - [Instructor] Let's take a brief look at what [[Microsoft Copilot|Copilot]] can do in [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/learn-how-copilot-can-make-a-difference?u=76281980&t=5)** And if you'd like to follow along with me, then have the exercise file open for this movie.
 >
@@ -1434,7 +1409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), power (3), bi (3), data (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** click on (5), go to (1)
 > **Non-Speech:** (silence) (3)
 > **CLI Commands:** make (2)
@@ -1442,14 +1417,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to learn more about ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980)
+#### [Where to learn more about ChatGPT](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=0)** Thanks for taking the time to watch this course.
 >
-> **[0:03](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=3)** I trust you've had fun learning about the benefits of working together with Power BI and ChatGPT, and I'm sure you'll agree that working with ChatGPT in a Power BI context is both risky and rewarding.
+> **[0:03](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=3)** I trust you've had fun learning about the benefits of working together with [[Microsoft Power BI|Power BI]] and [[ChatGPT]], and I'm sure you'll agree that working with ChatGPT in a Power BI context is both risky and rewarding.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=17)** So, as I mentioned at the start of this course, make sure that you tread with some caution when it comes to working with AI-enabled tools.
 >
@@ -1465,7 +1439,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=67)** Head on over to chat.[openai.com](https://openai.com), open up a new chat window, and perhaps begin with how do I get started with a Power BI Desktop report?
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=79)** Finally, feel free to connect with me on LinkedIn.
+> **[1:19](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=79)** Finally, feel free to connect with me on [[LinkedIn]].
 >
 > **[1:23](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/where-to-learn-more-about-chatgpt?u=76281980&t=83)** I'd love to hear your feedback on this course.
 >
@@ -1473,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), power (4), bi (4), ai (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Power BI|Power bi]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Versions:** 3.5 (1)

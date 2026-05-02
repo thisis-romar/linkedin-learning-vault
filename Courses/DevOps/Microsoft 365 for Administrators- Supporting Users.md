@@ -95,18 +95,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administrators support Office 365 users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
+#### [Administrators support Office 365 users](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=0)** - [Sharon Bennett] Do you want to move into a help desk role?
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=3)** Or become more efficient using the various Office 365 apps?
+> **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=3)** Or become more efficient using the various [[Microsoft Office|Office]] 365 apps?
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=7)** Then this course is for you.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=9)** I'm Sharon Bennett, a certified Azure Solutions Architect expert and former MCSA on Office 365.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=9)** I'm Sharon Bennett, a certified [[Microsoft Azure|Azure]] Solutions Architect expert and former MCSA on Office 365.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=16)** And I'll be leading you through this Office 365 course.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=29)** Or to learn about Office 365 and the included applications for your own knowledge and productivity.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=35)** In this course we're going to explore the various Office 365 applications included in your Microsoft 365 subscription, including the popular Word and Excel applications, to new services, such as To Do and MyAnalytics.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=35)** In this course we're going to explore the various Office 365 applications included in your [[Microsoft 365]] subscription, including the popular [[Microsoft Word|Word]] and [[Microsoft Excel|Excel]] applications, to new services, such as To Do and MyAnalytics.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980&t=51)** If you're ready, grab your favorite beverage and let's dive into Office 365 Supporting Users.
 
@@ -125,16 +124,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [sharon (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=0)** - [Narrator] Before jumping into this course there are a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=4)** This course focuses on quick tips and common pain points of new Microsoft 365 users.
+> **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=4)** This course focuses on quick tips and common pain points of new [[Microsoft 365]] users.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=11)** It was designed for the level one administrator who is supporting their Office 365 users.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=11)** It was designed for the level one administrator who is supporting their [[Microsoft Office|Office]] 365 users.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/what-you-should-know?u=76281980&t=18)** And as a level one administrator you should be familiar with Microsoft 365.
 >
@@ -151,20 +149,19 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft 365]] (4)
 > **Speakers:** - [narrator] (1)
 
-#### Help desk role
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980)
+#### [Help desk role](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=0)** - [Presenter] Before jumping into the nuts and bolts of this course, let's first take a look at the help desk role and some of the skills that are required for this very important role within your organization.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=12)** First, you'll need a strong understanding of the Office 365 products.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=12)** First, you'll need a strong understanding of the [[Microsoft Office|Office]] 365 [[Microsoft Products|products]].
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=18)** That means that you'll need to be able to use and understand each of those products.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=22)** In addition, you may consider taking the certification exams to establish yourself as a Microsoft 365 authority.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=22)** In addition, you may consider taking the certification exams to establish yourself as a [[Microsoft 365]] authority.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=32)** Up until the fall of 2019, there were only two exams to qualify for the Microsoft Office 365 administrator certification.
+> **[0:32](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=32)** Up until the fall of 2019, there were only two exams to qualify for the [[Microsoft Office]] 365 administrator certification.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=43)** This has now been changed to the Microsoft 365 Certified Enterprise Administrator Expert, and it is now three exams.
 >
@@ -232,29 +229,28 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=217)** And having a designated Office 365 help desk increases the utilization of the Office 365 applications.
 >
-> **[3:45](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=225)** And all of this leads to a happy and productive user experience.
+> **[3:45](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/help-desk-role?u=76281980&t=225)** And all of this leads to a happy and productive [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Search]] (6), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Office]] (1), [[User Experience (UX)|User experience]] (1)
 > **Prerequisites:** you'll need (11), prerequisite (2)
 > **Analogies:** for example (1), such as (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Identify training resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980)
+#### [Identify training resources](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=0)** - [Narrator] As IT professionals, we know we have to keep up and keep current.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=5)** As Microsoft and others continually improve their offerings, part of our responsibilities is to understand these offerings and then be able to help our users.
+> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=5)** As [[Microsoft]] and others continually improve their offerings, part of our responsibilities is to understand these offerings and then be able to help our users.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=15)** Microsoft has several resources that we can leverage to help us keep current.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=20)** Let's go ahead and explore these resources, starting off with the Microsoft 365 Roadmap.
+> **[0:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=20)** Let's go ahead and explore these resources, starting off with the [[Microsoft 365]] Roadmap.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=26)** Here you can see what has recently launched, what features are currently rolling out, and what's in development.
 >
@@ -262,13 +258,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=42)** Well, we can filter this down a little bit.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=44)** Let's say we're only interested in Office 365.
+> **[0:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=44)** Let's say we're only interested in [[Microsoft Office|Office]] 365.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=48)** You'll notice the number of launched decreases.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=51)** We can filter that down even further.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=57)** I'm only interested in Microsoft Outlook.
+> **[0:57](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=57)** I'm only interested in [[Microsoft Outlook]].
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=60)** And we can see under launched, we're down to hundred and 57 items.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=85)** It's here you can learn about specific applications.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=90)** For example, let's go ahead and select Word.
+> **[1:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=90)** For example, let's go ahead and select [[Microsoft Word|Word]].
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=93)** Within each of these trainings, you'll find lessons to help you become familiar with a specific action.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=206)** Once you have your bookmark file, then you can distribute that file using various resources.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=213)** You can save it in OneDrive and share it.
+> **[3:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=213)** You can save it in [[Microsoft OneDrive|OneDrive]] and share it.
 >
 > **[3:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=216)** You could email it directly to your users and have them import it.
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=233)** The users and the IT support group will now have access to that file.
 >
-> **[3:58](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=238)** We could also distribute it via SharePoint if we wanted to do so.
+> **[3:58](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=238)** We could also distribute it via [[SharePoint]] if we wanted to do so.
 >
 > **[4:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/identify-training-resources?u=76281980&t=242)** In our example, we're going to put it in employee resources.
 >
@@ -365,12 +361,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training basics: Office 365 portal overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
+#### [Training basics: Office 365 portal overview](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=0)** - [Narrator] Let's start this course with a quick overview of the basics of the Office 365 portal.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=0)** - [Narrator] Let's start this course with a quick overview of the basics of the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=6)** Once you have logged into the portal as I have here, you'll have a screen that will look similar to mine.
 >
@@ -428,9 +423,9 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=151)** And that will take your local files, and move them into Office 365.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=156)** And at the bottom of the screen, we'll have our OneDrive folders that we have recently accessed.
+> **[2:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=156)** And at the bottom of the screen, we'll have our [[Microsoft OneDrive|OneDrive]] folders that we have recently accessed.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=162)** And then our SharePoint sites that we have frequently accessed, or the sites that we follow.
+> **[2:42](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=162)** And then our [[SharePoint]] sites that we have frequently accessed, or the sites that we follow.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980&t=170)** The office 365 portal is your one-stop shop to access your applications, as well as manage your files and SharePoint sites.
 
@@ -445,16 +440,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Training basics: Common elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980)
+#### [Training basics: Common elements](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=0)** [Instructor] Most of the applications in Office 365 have some common elements among them.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=0)** [Instructor] Most of the applications in [[Microsoft Office|Office]] 365 have some common elements among them.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=6)** No matter what application you open it will feel and look somewhat familiar.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=11)** Let's explore some of the common elements of these applications using Word Online.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=11)** Let's explore some of the common elements of these applications using [[Microsoft Word|Word]] Online.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=17)** When we open Word Online or some of the other applications within Office 365, we'll have a choice of opening a recent file, we can create a new blank document, or use a template.
 >
@@ -520,7 +514,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=199)** I like to think of this as the management of the document.
 >
-> **[3:23](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=203)** Let's click on the file tab and this opens what Microsoft calls the back stage view.
+> **[3:23](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=203)** Let's click on the file tab and this opens what [[Microsoft]] calls the back stage view.
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-common-elements?u=76281980&t=209)** It's from here we can save our document, we can print it, we can share it, et cetera.
 >
@@ -542,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Word|Word]] (4), next (3), application (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Word|Word]] (4), [[Microsoft]] (1)
 > **Analogies:** picture (3), for example (1)
 > **Env Vars:** url (1), pdf (1), odt (1)
 > **Exercise Files:** template (3)
@@ -550,8 +544,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Troubleshoot user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980)
+#### [Troubleshoot user accounts](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +552,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=2)** When this happens to your user accounts you can follow these simple troubleshooting techniques to get your users back on track.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=11)** The first thing you'll want to do is delete all cookies, temp files, history, saved passwords, and forms from all of the browsers that you have on the PC.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=11)** The first thing you'll want to do is delete all cookies, temp files, history, saved passwords, and [[Forms]] from all of the browsers that you have on the PC.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=21)** I have two examples here.
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=30)** You'll also want to delete all the temporary files from the PC.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=34)** On a Windows PC you'll find the temporary files in the Windows directory under temp.
+> **[0:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=34)** On a [[Windows]] PC you'll find the temporary files in the Windows directory under temp.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=40)** And this will be followed by deleting all the prefetch files from the PC.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=79)** And take a look in the Task Scheduler and delete all unwanted tasks.
 >
-> **[1:24](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=84)** And finally, check if the user account uses the same name as the Azure Active Directory account.
+> **[1:24](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=84)** And finally, check if the user account uses the same name as the [[Microsoft Entra ID|Azure Active Directory]] account.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-user-accounts?u=76281980&t=91)** You'll also want to delete the Adobe Updater file.
 >
@@ -601,18 +594,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (2), [[Forms]] (1), next (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Forms]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **CLI Commands:** find (2), rails (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot app startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980)
+#### [Troubleshoot app startup](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=0)** - [Instructor] There may be times when a Microsoft application will fail to start or throw an error.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=0)** - [Instructor] There may be times when a [[Microsoft]] application will fail to start or throw an error.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=6)** In these cases, your first line of defense is to ensure that both Windows and Office are up to date.
+> **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=6)** In these cases, your first line of defense is to ensure that both [[Windows]] and [[Microsoft Office|Office]] are up to date.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=12)** Let's first check Windows updates.
 >
@@ -622,11 +614,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=26)** At this point, I would go ahead, install these updates, reboot my system if required, and then try launching the Microsoft application that's giving me the error.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=36)** If that doesn't work, our next step is to ensure that our Microsoft Office applications are up to date.
+> **[0:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=36)** If that doesn't work, our next step is to ensure that our [[Microsoft Office]] applications are up to date.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=43)** To do so, launch an application that is not giving you an error.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=48)** In my example, I'm going to use Word.
+> **[0:48](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=48)** In my example, I'm going to use [[Microsoft Word|Word]].
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=51)** We don't need to open a document.
 >
@@ -644,11 +636,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=91)** To do so, use your Windows key, search for run, and select run.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=100)** I will now go ahead and open up Excel in Safe Mode by typing Excel/safe.
+> **[1:40](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=100)** I will now go ahead and open up [[Microsoft Excel|Excel]] in Safe Mode by typing Excel/safe.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=107)** If it was a problem with Word, I would use Winword/safe.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=111)** Outlook would be Outlook/safe.
+> **[1:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=111)** [[Microsoft Outlook|Outlook]] would be Outlook/safe.
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/troubleshoot-app-startup?u=76281980&t=114)** This will now launch Excel in Safe Mode.
 >
@@ -674,16 +666,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Windows]] (5), [[Microsoft Excel|Excel]] (5), [[Microsoft Office|Office]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft Excel|Excel]] (5), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Microsoft Word|Word]] (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repair Office apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980)
+#### [Repair Office apps](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=0)** - [Instructor] There may be times when you'll have to repair the Office 365 Applications.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=0)** - [Instructor] There may be times when you'll have to repair the [[Microsoft Office|Office]] 365 Applications.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=5)** To do so, you'll follow the following simple steps and your first step is to actually repair your installation.
 >
@@ -691,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=24)** Your version may look a little different than mine.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=28)** When you select your Microsoft Office 365 installation, two additional buttons will pop up, Modify and Uninstall.
+> **[0:28](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=28)** When you select your [[Microsoft Office]] 365 installation, two additional buttons will pop up, Modify and Uninstall.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=37)** Here you'll choose Modify.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=104)** And the Click-to-Run or streaming option is available through your Office 365 subscription.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=111)** To find out what type of installer you have, you'll have to open up one of your Office applications, it could be Word, Excel, PowerPoint, whichever you choose.
+> **[1:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=111)** To find out what type of installer you have, you'll have to open up one of your Office applications, it could be [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], whichever you choose.
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/repair-office-apps?u=76281980&t=121)** Select File and then Account.
 >
@@ -739,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Office]] (3), product (2), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Office]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** msi (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -747,16 +738,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uninstall Office
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980)
+#### [Uninstall Office](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=0)** - [Instructor] In the last lesson, we examined how to repair or update Office if things go astray.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=0)** - [Instructor] In the last lesson, we examined how to repair or update [[Microsoft Office|Office]] if things go astray.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=6)** Sometimes the repair or update will not fix an issue and your only option left will be to uninstall Office.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=13)** To uninstall Office from a Windows system, you can do so using Add Remove Programs from Settings.
+> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=13)** To uninstall Office from a [[Windows]] system, you can do so using Add Remove Programs from Settings.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=24)** Locate the installer and then select Uninstall and you will be prompted to hit Uninstall one last time, just to be sure.
 >
@@ -776,7 +766,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=72)** I'm going to click Yes to allow this app to make changes.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=76)** The tool will now find the products that can be uninstalled.
+> **[1:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=76)** The tool will now find the [[Microsoft Products|products]] that can be uninstalled.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/uninstall-office?u=76281980&t=81)** We're going to go ahead and select it.
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Windows]] (2), next (2), hit (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Windows]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** you'll need (1), setup (1)
 > **URLs:** [office.com](https://office.com) (1)
@@ -808,16 +798,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
+#### [Word](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=0)** - [Presenter] We briefly looked at Word Online in the Office basics lesson.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=0)** - [Presenter] We briefly looked at [[Microsoft Word|Word]] Online in the [[Microsoft Office|Office]] basics lesson.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=4)** Now, let's explore the desktop version of Word.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=8)** Personally, I like to use the online versions of the Microsoft apps for quick and dirty creates and edits.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=8)** Personally, I like to use the online versions of the [[Microsoft]] apps for quick and dirty creates and edits.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=15)** But when I need the full power of a word processor, then the desktop version of Word is my choice.
 >
@@ -875,7 +864,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=140)** In my case, I'm going to use Save As.
 >
-> **[2:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=142)** I'm going to save it in my Landon Hotel OneDrive Documents folder and provide a name.
+> **[2:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=142)** I'm going to save it in my Landon Hotel [[Microsoft OneDrive|OneDrive]] Documents folder and provide a name.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980&t=151)** This happens to be Revision Two.
 >
@@ -927,18 +916,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), business (3), [[Microsoft Office|Office]] (2), next (2), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Microsoft Office|Office]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is an  (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [presenter] (1)
 
-#### Create a PowerPoint presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980)
+#### [Create a PowerPoint presentation](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=0)** - [Instructor] PowerPoint is the go to application for presentations and it's available in both an online and desktop version.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] is the go to application for presentations and it's available in both an online and desktop version.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=8)** For our example, I'm going to use the desktop version, and we're going to create a simple presentation of the hotel locations.
 >
@@ -968,7 +956,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=89)** In this example, I am going to remove this title box.
 >
-> **[1:35](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=95)** I'm going to add in the word hospitality, and add in an image.
+> **[1:35](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=95)** I'm going to add in the [[Microsoft Word|word]] hospitality, and add in an image.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=105)** And I'm going to select one of the guest rooms.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=241)** Now that we're happy with our work, let's go ahead and save the presentation.
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=246)** Pop up to file, save as, I'm going to pop it into Documents in OneDrive.
+> **[4:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=246)** Pop up to file, save as, I'm going to pop it into Documents in [[Microsoft OneDrive|OneDrive]].
 >
 > **[4:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/create-a-powerpoint-presentation?u=76281980&t=257)** Ensure that it is a PowerPoint presentation and save it.
 >
@@ -1030,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (3), [[Microsoft OneDrive|Onedrive]] (2), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (3), go to (1), drag and drop (1)
 > **Analogies:** picture (4)
 > **Exercise Files:** template (3)
@@ -1039,12 +1027,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Record a PowerPoint presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980)
+#### [Record a PowerPoint presentation](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=0)** - [Instructor] In the last lesson we created a basic PowerPoint presentation.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=0)** - [Instructor] In the last lesson we created a basic [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=4)** In this lesson, I'm going to show you how to present that presentation, how to record that presentation, and how to export it.
 >
@@ -1110,9 +1097,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=169)** I also like to create handouts.
 >
-> **[2:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=172)** And these will generate your slides plus your notes in Word.
+> **[2:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=172)** And these will generate your slides plus your notes in [[Microsoft Word|Word]].
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=180)** And the last option is Publish to Microsoft Stream.
+> **[3:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=180)** And the last option is Publish to [[Microsoft]] Stream.
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=184)** When we use this option, we will publish to Microsoft Stream which is a component of Office365.
 >
@@ -1124,7 +1111,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=209)** As you just saw, PowerPoint is so much more than just boring slide decks.
 >
-> **[3:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=214)** For more information and to learn how you can do more with PowerPoint, see the PowerPoint Office training website and within our library there are several deep-dive courses on how to make your decks stand out.
+> **[3:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/record-a-powerpoint-presentation?u=76281980&t=214)** For more information and to learn how you can do more with PowerPoint, see the PowerPoint [[Microsoft Office|Office]] training website and within our library there are several deep-dive courses on how to make your decks stand out.
 
 > [!info]- Semantic Content
 >
@@ -1137,18 +1124,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980)
+#### [Excel](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=0)** - [Cecilia] Excel is the powerhouse of Office 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=0)** - [Cecilia] [[Microsoft Excel|Excel]] is the powerhouse of [[Microsoft Office|Office]] 365.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=4)** It's been the spreadsheet of choice for as long as I can remember.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=8)** When we need to crunch numbers, Excel is our go-to application.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=13)** And just like with Word and PowerPoint, there are two versions of Excel that you can leverage: the online or the desktop version.
+> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=13)** And just like with [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]], there are two versions of Excel that you can leverage: the online or the desktop version.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=21)** For our demonstration today, we're going to go ahead and work with the desktop version.
 >
@@ -1272,11 +1258,11 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=336)** We have barely scratched the surface of everything that you can do with Excel.
 >
-> **[5:42](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=342)** For more information, please refer to the Excel Training Center in the Microsoft documentation, or for in-depth courses in our library.
+> **[5:42](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/excel?u=76281980&t=342)** For more information, please refer to the Excel Training Center in the [[Microsoft]] documentation, or for in-depth courses in our library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), next (3), [[Microsoft Office|Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2)
 > **Exercise Files:** template (1)
@@ -1284,14 +1270,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [cecilia] (1)
 
-#### Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980)
+#### [Power BI](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=0)** - Power BI is one of those features in Office 365 that is a hidden gem.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=0)** - [[Microsoft Power BI|Power BI]] is one of those features in [[Microsoft Office|Office]] 365 that is a hidden gem.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=6)** Power BI provides business analytics to analyze data and share insights.
+> **[0:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=6)** Power BI provides [[Business Analytics]] to analyze data and share insights.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=11)** I'm going to go ahead and launch Power BI from the Office 365 portal.
 >
@@ -1323,9 +1308,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=90)** In this case, I'm going to bring in a file, but there are other options.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=97)** My file happens to be sitting on my local OneDrive.
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=97)** My file happens to be sitting on my local [[Microsoft OneDrive|OneDrive]].
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=101)** And the Excel file is in Productivity and is called 2015_2018 Sales by City v2.
+> **[1:41](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=101)** And the [[Microsoft Excel|Excel]] file is in Productivity and is called 2015_2018 Sales by City v2.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-bi?u=76281980&t=111)** I can now connect to that file and I have two options.
 >
@@ -1409,29 +1394,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (4), bi (4), [[Microsoft Office|Office]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Office|Office]] (2), [[Business Analytics]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - power (1)
 
-#### Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980)
+#### [Access](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=0)** - [Instructor] Access is a relational database that is perfect to collect and organize your data.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=5)** If you're finding your Excel spreadsheets are getting a little bit unwieldy to manage all your data, then it's time to move into Access.
+> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=5)** If you're finding your [[Microsoft Excel|Excel]] spreadsheets are getting a little bit unwieldy to manage all your data, then it's time to move into Access.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=13)** I've launched my local copy of Access, and instead of using a blank template, we're actually going to use a database that I've already been manipulating, called Landon Hotel Contacts.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=26)** I would highly recommend that you start off using the pre-configured templates, as you become familiar with Access.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=34)** You'll notice that these pre-configured templates already have our tables, forms, and reports created for us.
+> **[0:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=34)** You'll notice that these pre-configured templates already have our tables, [[Forms]], and reports created for us.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=41)** This gives us the opportunity to become familiar with the program, before we start designing our own databases.
+> **[0:41](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=41)** This gives us the opportunity to become familiar with the program, before we start designing our own [[Databases]].
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=47)** This popped open to the contact list.
 >
@@ -1451,7 +1435,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=77)** This isn't a bad way to enter data.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=80)** We could also do it using the contact details form and you'll notice here it's a much more intuitive user experience.
+> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=80)** We could also do it using the contact details form and you'll notice here it's a much more intuitive [[User Experience (UX)|user experience]].
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/access?u=76281980&t=89)** Also from here, I can pull up other records.
 >
@@ -1509,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (2), [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** double-click (1)
@@ -1518,8 +1502,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### OneNote
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980)
+#### [OneNote](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1510,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980&t=7)** Think of One Note as your digital notebook that's always available to you.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980&t=11)** And just like most of the other Office apps, there is both an online and desktop version.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980&t=11)** And just like most of the other [[Microsoft Office|Office]] apps, there is both an online and desktop version.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onenote?u=76281980&t=18)** We'll be working with the desktop version in this lesson.
 >
@@ -1663,7 +1646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (5), imagine (1), just like (1), for example (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), select the (1)
@@ -1672,14 +1655,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### MyAnalytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980)
+#### [MyAnalytics](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980&t=0)** - Do you use a fitness tracker to monitor your daily activity?
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980&t=4)** Well, MyAnalytics is your workplace daily activity monitor, and it's included in your Office 365 subscription.
+> **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980&t=4)** Well, MyAnalytics is your workplace daily activity monitor, and it's included in your [[Microsoft Office|Office]] 365 subscription.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/myanalytics?u=76281980&t=13)** This is a web based app, therefore you'll have to access it through the Office 365 portal.
 >
@@ -1729,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), web (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - do (1)
@@ -1739,12 +1721,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
+#### [Use Outlook](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=0)** - Outlook is the workhorse for many users.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=0)** - [[Microsoft Outlook|Outlook]] is the workhorse for many users.
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=3)** We can manage all of our email, schedule our work lives, and create tasks to help us keep on track.
 >
@@ -1764,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=44)** At this point I have a couple of options.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=46)** If I select the attachment, we'll see the document in the Word Viewer.
+> **[0:46](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=46)** If I select the attachment, we'll see the document in the [[Microsoft Word|Word]] Viewer.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=52)** This point, I could go ahead, open the document in Word or I could save it, I could upload it or even remove it.
 >
@@ -1836,7 +1817,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=232)** I'm going to take Boardroom A.
 >
-> **[3:57](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=237)** And finally, for those people who are not in the office, they can join the meeting using Teams.
+> **[3:57](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=237)** And finally, for those people who are not in the [[Microsoft Office|office]], they can join the meeting using Teams.
 >
 > **[4:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980&t=244)** That's it, I can go ahead and send this meeting invite.
 >
@@ -1848,19 +1829,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), hr (3), [[Search]] (2), [[Microsoft Word|Word]] (2), game (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** select the (3), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1), later in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - outlook (1)
 
-#### Configure Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980)
+#### [Configure Outlook](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=0)** - [Instructor] One of the responsibilities that you will have as a help desk technician is to set up the desktop version of Outlook for your users.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=0)** - [Instructor] One of the responsibilities that you will have as a help desk technician is to set up the desktop version of [[Microsoft Outlook|Outlook]] for your users.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=8)** The first time you launch Outlook you'll be prompted to configure it.
 >
@@ -1890,7 +1870,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=59)** I can also add additional accounts to Outlook.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=62)** And they don't have to be Microsoft accounts.
+> **[1:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=62)** And they don't have to be [[Microsoft]] accounts.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=64)** Let's go ahead and add in a Gmail account.
 >
@@ -1900,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=76)** Outlook realizes that this is a Gmail account.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=80)** And I'm going to finish filling out the information for our Google account.
+> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=80)** And I'm going to finish filling out the information for our [[Google]] account.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=86)** This happens to be an organizational account, therefor I'll select that.
 >
@@ -1918,7 +1898,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=117)** Depending on the type of account that you're adding, you may have to refer to the documentation for the step-by-step instructions.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=126)** For more information on how to set up an email account within Outlook, please refer to the Office training website.
+> **[2:06](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=126)** For more information on how to set up an email account within Outlook, please refer to the [[Microsoft Office|Office]] training website.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/configure-outlook?u=76281980&t=133)** As I've already mentioned, there are nuances between the different types of accounts that you can add into Outlook.
 
@@ -1930,16 +1910,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980)
+#### [Teams](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=0)** - [Instructor] Teams is your internal communication system, and you don't have to be in the office to use it.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=0)** - [Instructor] Teams is your internal communication system, and you don't have to be in the [[Microsoft Office|office]] to use it.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=5)** You can use it from your other devices including mobile devices and tablets.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=9)** If you've had an Office or Microsoft 365 subscription for some time, then you're already familiar with teams, or as it was previously known, Skype.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=9)** If you've had an Office or [[Microsoft 365]] subscription for some time, then you're already familiar with teams, or as it was previously known, Skype.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=20)** All new tenants will be using Teams moving forward.
 >
@@ -1961,7 +1940,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=74)** I can also change my status, for example, I have here that I'm working from home for the day.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=80)** If I was working from another location I could put that in there as well, and under settings we can configure our general settings, set our privacy, manipulate the type of notifications that we'll get when people try to reach us on Teams, and finally, how do we want to handle calls.
+> **[1:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=80)** If I was working from another location I could put that in there as well, and under settings we can configure our general settings, set our [[Privacy]], manipulate the type of notifications that we'll get when people try to reach us on Teams, and finally, how do we want to handle calls.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=103)** If we pop into activity, we'll see a lit of mentions and replies and other notifications if there were any, under Teams, we'll see a list of the teams that we belong to, and we can go ahead and create a new team.
 >
@@ -1971,7 +1950,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=138)** The team will be created, and we can go ahead and add members to this team.
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=145)** From Teams, we can also access our Outlook calendar.
+> **[2:25](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=145)** From Teams, we can also access our [[Microsoft Outlook|Outlook]] calendar.
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=148)** The two act as one.
 >
@@ -1985,7 +1964,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=171)** We'll start off by saying hi, I'm going to attach a file to this chat for Mark.
 >
-> **[3:01](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=181)** The file happens to be in OneDrive, and I'm going to send him the information on the charity baseball game.
+> **[3:01](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=181)** The file happens to be in [[Microsoft OneDrive|OneDrive]], and I'm going to send him the information on the charity baseball game.
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/teams?u=76281980&t=188)** Mark now has access to that file.
 >
@@ -1993,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (13), [[Microsoft Office|Office]] (3), web (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1), [[Privacy]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1)
@@ -2004,8 +1983,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visio
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
+#### [Visio](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2015,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=14)** I've already gone ahead and launched the desktop version of Visio.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=19)** And like all other Office 365 products, we can start with a blank template, use an existing template, or edit something we've currently been working on.
+> **[0:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=19)** And like all other [[Microsoft Office|Office]] 365 [[Microsoft Products|products]], we can start with a blank template, use an existing template, or edit something we've currently been working on.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=29)** We're going to create a very basic flowchart for my grading ops from on premises to cloud.
 >
@@ -2075,7 +2053,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=184)** I'm going to save it the documents of Landon Hotel, and I'm going to pop it right into Attachments.
 >
-> **[3:14](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=194)** Let's take a look at this in OneDrive to see the differences between the online version of Visio and the desktop version.
+> **[3:14](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=194)** Let's take a look at this in [[Microsoft OneDrive|OneDrive]] to see the differences between the online version of Visio and the desktop version.
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980&t=202)** I'm going to open this in OneDrive, and we can edit it from here in the browser.
 >
@@ -2091,7 +2069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (4), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (1), snap (1)
@@ -2099,8 +2077,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Project
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/project?u=76281980)
+#### [Project](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2184,7 +2161,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
@@ -2193,8 +2169,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Planner
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980)
+#### [Planner](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2202,7 +2177,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980&t=9)** We are going to go ahead and build out a plan for a new server migration.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980&t=13)** To start, we'll launch the Planner app from the Office 365 portal.
+> **[0:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980&t=13)** To start, we'll launch the Planner app from the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/planner?u=76281980&t=18)** First thing we need to do is create a new plan, provide a name and we can make this plan public or private.
 >
@@ -2291,8 +2266,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### To Do
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980)
+#### [To Do](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2300,9 +2274,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=2)** Or are you like me, I think it's too much work because it's such a manual process.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=8)** Well then, you haven't seen the new Microsoft to-do list.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=8)** Well then, you haven't seen the new [[Microsoft]] to-do list.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=12)** The big benefit of this to-do list is it ties into your Office applications.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=12)** The big benefit of this to-do list is it ties into your [[Microsoft Office|Office]] applications.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=17)** Let's take a look at this app in detail.
 >
@@ -2316,7 +2290,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=37)** I can add a new task to the email list.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=40)** For our example Cecilia needs to update the Board of Directors' PowerPoint presentation.
+> **[0:40](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=40)** For our example Cecilia needs to update the Board of Directors' [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=47)** And let's add some details for this task.
 >
@@ -2364,7 +2338,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=169)** Well it will show up here.
 >
-> **[2:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=172)** The to-do list also ties into Outlook.
+> **[2:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=172)** The to-do list also ties into [[Microsoft Outlook|Outlook]].
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/to-do?u=76281980&t=176)** Any of your flagged emails will also be listed.
 >
@@ -2388,21 +2362,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Office|Office]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - do (1)
 
-#### Forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980)
+#### [Forms](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=0)** - Data entry don't you just love it?
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=3)** Well, if you don't you can use the forms app to have data for surveys and quizzes captured automatically for you.
+> **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=3)** Well, if you don't you can use the [[Forms]] app to have data for surveys and quizzes captured automatically for you.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=11)** The first thing you'll need to do is launch the app from the Office 365 portal.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=11)** The first thing you'll need to do is launch the app from the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=16)** There are two types of forms that you can choose from.
 >
@@ -2466,7 +2439,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=140)** To drill into the responses, we can select view results and this will show us the users who have responded.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=149)** We can now open the results in excel.
+> **[2:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=149)** We can now open the results in [[Microsoft Excel|excel]].
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=153)** You can now manipulate the data as required.
 >
@@ -2478,7 +2451,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=175)** I'm going to provide my answers, and you'll notice here that we have some suggestions.
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=180)** I'm going to select Microsoft as option two.
+> **[3:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=180)** I'm going to select [[Microsoft]] as option two.
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/forms?u=76281980&t=185)** There are two distinct differences between forms and quizzes.
 >
@@ -2498,7 +2471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (6), data (4), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Forms]] (6), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (1), toggle (1), select the (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2507,30 +2480,29 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - data (1)
 
-#### Power Automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980)
+#### [Power Automate](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=0)** - [Instructor] I don't know about you but I hate doing the same task over and over again.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=5)** Or having to go fetch the same information over and over again.
+> **[0:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=5)** Or having to go [[Fetch]] the same information over and over again.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=8)** And with Power Automate I don't have to.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=11)** Power Automate which was initially called Microsoft Flow creates workflows for repetitive tasks.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=11)** Power Automate which was initially called [[Microsoft]] Flow creates workflows for repetitive tasks.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=19)** For example you could create a workflow that will automatically create a planner task from a flagged email.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=25)** Or a workflow that will email you when you are mentioned in a tweet.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=30)** The first thing you'll need to do is launch Power Automate from the Office 365 portal.
+> **[0:30](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=30)** The first thing you'll need to do is launch Power Automate from the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=36)** In our example we're going to take the response from the Form that we created in the last lesson to notify the Team who's responsible for the Summer Picnic Event.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=48)** And to make our lives a little bit easier we're going to use a template.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=53)** So I'm going to go ahead and search for Forms.
+> **[0:53](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=53)** So I'm going to go ahead and search for [[Forms]].
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/power-automate?u=76281980&t=56)** And just within the form search you can see there are several templates to choose from.
 >
@@ -2644,7 +2616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Forms]] (3), teams (3), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Fetch]] (1), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** select the (2)
@@ -2658,12 +2630,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
+#### [OneDrive](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=0)** - [Instructor] OneDrive is your file system in the Office 365 cloud, which means that you can access your files from anywhere on almost any device.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=0)** - [Instructor] [[Microsoft OneDrive|OneDrive]] is your file system in the [[Microsoft Office|Office]] 365 cloud, which means that you can access your files from anywhere on almost any device.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=9)** You can also install the OneDrive sync client to keep your local files synchronized with your Office 365 OneDrive account.
 >
@@ -2673,7 +2644,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=33)** Now, let's compare this to our files and folders on the local system.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=38)** And to make things a little easier, I'm going to rearrange these windows.
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=38)** And to make things a little easier, I'm going to rearrange these [[Windows]].
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980&t=43)** As you can clearly see, we have the same structure on our local system as we do in OneDrive.
 >
@@ -2741,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (17), [[Microsoft Office|Office]] (5), cloud (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (17), [[Microsoft Office|Office]] (5), [[Windows]] (1)
 > **Definitions:** is an  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** compare this to (1), for example (1)
@@ -2750,18 +2721,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980)
+#### [SharePoint](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=0)** - [Instructor] SharePoint is an intranet solution that a company uses to collaborate and share information internally.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=0)** - [Instructor] [[SharePoint]] is an intranet solution that a company uses to collaborate and share information internally.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=7)** I like to think of SharePoint as a central hub for a company.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=11)** It's the one stop shop for all of your company's needs.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=15)** You can access your company SharePoint site by clicking on SharePoint in the Office 365 portal.
+> **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=15)** You can access your company SharePoint site by clicking on SharePoint in the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=22)** The first thing you'll notice is we have news from other sites.
 >
@@ -2783,7 +2753,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=70)** We can easily create a new document by selecting new, selecting your document type.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=76)** This case will be a word document.
+> **[1:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=76)** This case will be a [[Microsoft Word|word]] document.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=79)** I'm going to add a little bit of text and provide a new name for the document.
 >
@@ -2813,7 +2783,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=149)** One of the other cool things that we can do in our team site is create lists.
 >
-> **[2:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=154)** These lists make it much easier for employees to find everything they need in one spot, instead of different lists and different excel documents.
+> **[2:34](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=154)** These lists make it much easier for employees to find everything they need in one spot, instead of different lists and different [[Microsoft Excel|excel]] documents.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=163)** Let's take a look at a list that's already been created.
 >
@@ -2855,11 +2825,11 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=255)** We have only touched on what SharePoint can do for you and your company.
 >
-> **[4:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=260)** For answers to popular questions and more information, see the Microsoft SharePoint training center and we have several in depth courses on SharePoint within the library.
+> **[4:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint?u=76281980&t=260)** For answers to popular questions and more information, see the [[Microsoft]] SharePoint training center and we have several in depth courses on SharePoint within the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** scroll down (1), select the (1), click on (1)
@@ -2867,12 +2837,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint team site administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980)
+#### [SharePoint team site administration](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=0)** - [Narrator] In the last lesson, we looked a team site in SharePoint.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=0)** - [Narrator] In the last lesson, we looked a team site in [[SharePoint]].
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=4)** Now let's take a peek behind the scenes, and create our own site.
 >
@@ -2892,13 +2861,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=44)** You'll notice that a group email address was created.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=47)** We can provide a description, and we can set the privacy settings as well.
+> **[0:47](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=47)** We can provide a description, and we can set the [[Privacy]] settings as well.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=52)** This is going to be a private site for the wedding planners only.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=55)** And I'm going to leave the language.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=58)** I can now add additional owners, which Microsoft does recommend, as well as members.
+> **[0:58](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=58)** I can now add additional owners, which [[Microsoft]] does recommend, as well as members.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=64)** I'm going to do this later.
 >
@@ -2916,7 +2885,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=91)** I'm going to add a new web part and this will be image.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=96)** And the image happens to be sitting on OneDrive.
+> **[1:36](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=96)** And the image happens to be sitting on [[Microsoft OneDrive|OneDrive]].
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=104)** Our image has now been added.
 >
@@ -2926,13 +2895,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=121)** You can create lists.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=122)** You can connect existing Microsoft Forms, Planner, People, et cetera.
+> **[2:02](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=122)** You can connect existing Microsoft [[Forms]], Planner, People, et cetera.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=128)** For our demonstration, we're just going to select the group calendar.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=133)** This way, the wedding planners can keep track of upcoming events.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=137)** In order to add the event, the wedding planner will have to add it in the group calendar in Outlook.
+> **[2:17](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=137)** In order to add the event, the wedding planner will have to add it in the group calendar in [[Microsoft Outlook|Outlook]].
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sharepoint-team-site-administration?u=76281980&t=144)** That looks good to me.
 >
@@ -2984,14 +2953,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft]] (3), web (3), [[Privacy]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft]] (3), [[Privacy]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [narrator] (1)
 
-#### Yammer
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980)
+#### [Yammer](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2999,7 +2967,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=3)** You can post your content, share it, contribute to conversations, and all within the safety and boundaries of your company.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=11)** Let's go ahead and launch Yammer from the Office 365 portal.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=11)** Let's go ahead and launch Yammer from the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=16)** Once in Yammer, you can see that we have two notifications and one inbox message.
 >
@@ -3039,7 +3007,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=120)** Selena has also mentioned that we should look at the attachments for details.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=125)** And we can select the file from SharePoint, we can select a file from another Yammer location.
+> **[2:05](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=125)** And we can select the file from [[SharePoint]], we can select a file from another Yammer location.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/yammer?u=76281980&t=130)** Or we can upload one directly from our computer, which is what I'm going to do.
 >
@@ -3055,7 +3023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), game (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[SharePoint]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3067,12 +3035,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Publisher
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
+#### [Publisher](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=0)** - [Instructor] Publisher is an easy to use and intuitive publishing application that you can use for your publishing needs, from your newsletters, and cards, and invitations, to calendars.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=0)** - [Instructor] Publisher is an easy to use and intuitive publishing application that you can use for your publishing needs, from your [[Newsletters]], and cards, and invitations, to calendars.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=11)** We are going to create a publication that highlights our wedding packages at the Landon Hotel in London.
 >
@@ -3168,13 +3135,13 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=290)** We have only scratched the surface of what you can do with Publisher.
 >
-> **[4:54](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=294)** For answers to popular questions, and additional information, please refer to the office training page.
+> **[4:54](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=294)** For answers to popular questions, and additional information, please refer to the [[Microsoft Office|office]] training page.
 >
 > **[5:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980&t=300)** In addition, refer to the library for courses that deal specifically with Publisher.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Newsletters]] (1), hit (1), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** select the (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -3183,18 +3150,17 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Prerequisites:** you'll need (1)
 
-#### Sway
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980)
+#### [Sway](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=0)** - [Instructor] Sway provides an easy way to create and share interactive reports, personal stories, presentations, and more.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=8)** I like to think of Sway as a visual representation of our static content, like newsletters.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=8)** I like to think of Sway as a visual representation of our static content, like [[Newsletters]].
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=15)** We're going to create a Sway to showcase the London Landon Hotel rooms.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=20)** Sway is web-based, therefore you'll need to launch it from the Office 365 portal.
+> **[0:20](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=20)** Sway is web-based, therefore you'll need to launch it from the [[Microsoft Office|Office]] 365 portal.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=27)** And just like the other Office 365 apps, we have a couple choices to help get us started.
 >
@@ -3222,7 +3188,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=87)** Now let's go ahead and include some images of our hotel rooms in our Sway.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=93)** Those are located in OneDrive, in featured guest rooms.
+> **[1:33](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=93)** Those are located in [[Microsoft OneDrive|OneDrive]], in featured guest rooms.
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/sway?u=76281980&t=98)** I'm simply going to drag an image onto the canvas and Sway will create an image card for us.
 >
@@ -3282,7 +3248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Search]] (2), [[Newsletters]] (1), web (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Newsletters]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** just like (1), picture (1)
@@ -3290,8 +3256,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980)
+#### [Stream](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3299,7 +3264,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980&t=7)** You can easily upload your how to, your training, and executive communication videos for your coworkers to view.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980&t=15)** You'll launch Stream through the Office 365 portal, and you'll notice that we have trending videos and popular channels.
+> **[0:15](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980&t=15)** You'll launch Stream through the [[Microsoft Office|Office]] 365 portal, and you'll notice that we have trending videos and popular channels.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/stream?u=76281980&t=23)** Trending videos are recently uploaded videos or popular videos.
 >
@@ -3361,16 +3326,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980&t=0)** - [Sharon] Now that you understand Office 365 a little better, and some of the Microsoft productivity applications you may want to dig a little deeper.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980&t=0)** - [Sharon] Now that you understand [[Microsoft Office|Office]] 365 a little better, and some of the [[Microsoft]] productivity applications you may want to dig a little deeper.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980&t=9)** There are several deep dive courses in the library that expand on the topics that we touched on in this course.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980&t=16)** And you can always refer to the Microsoft Office training website for more information.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980&t=16)** And you can always refer to the [[Microsoft Office]] training website for more information.
 
 > [!info]- Semantic Content
 >

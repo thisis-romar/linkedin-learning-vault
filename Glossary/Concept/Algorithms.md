@@ -104,18 +104,18 @@ created: 2026-05-02
 > 71. [[Removing Noise and Bias from Strategic Decision-Making]] — 9 mentions
 > 72. [[IT Security Foundations- Operating System Security]] — 9 mentions
 > 73. [[Intelligent Automation Foundations]] — 9 mentions
-> 74. [[Deep Learning- Model Optimization and Tuning (2022)]] — 9 mentions
-> 75. [[Practical Python for Algorithmic Trading]] — 9 mentions
-> 76. [[Responsible AI to the Rescue]] — 9 mentions
-> 77. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 9 mentions
-> 78. [[Complete Guide To C Plus Plus Programming Foundations]] — 9 mentions
-> 79. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 9 mentions
-> 80. [[Introduction to MLSecOps]] — 9 mentions
-> 81. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 8 mentions
-> 82. [[What Is Generative AI-]] — 8 mentions
-> 83. [[Data Science Foundations- Data Mining in R]] — 8 mentions
-> 84. [[ChatGPT and SQL]] — 8 mentions
-> 85. [[Azure Understanding The Big Picture]] — 8 mentions
+> 74. [[Azure Understanding The Big Picture]] — 9 mentions
+> 75. [[Deep Learning- Model Optimization and Tuning (2022)]] — 9 mentions
+> 76. [[Practical Python for Algorithmic Trading]] — 9 mentions
+> 77. [[Responsible AI to the Rescue]] — 9 mentions
+> 78. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 9 mentions
+> 79. [[Complete Guide To C Plus Plus Programming Foundations]] — 9 mentions
+> 80. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 9 mentions
+> 81. [[Introduction to MLSecOps]] — 9 mentions
+> 82. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 8 mentions
+> 83. [[What Is Generative AI-]] — 8 mentions
+> 84. [[Data Science Foundations- Data Mining in R]] — 8 mentions
+> 85. [[ChatGPT and SQL]] — 8 mentions
 > 86. [[Nail Your Java Interview]] — 8 mentions
 > 87. [[Artificial Intelligence Case Studies in Different Business Industries]] — 8 mentions
 > 88. [[Hands-On Natural Language Processing]] — 8 mentions

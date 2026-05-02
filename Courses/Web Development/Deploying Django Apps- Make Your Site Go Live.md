@@ -85,35 +85,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making your site go live
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980)
+#### [Making your site go live](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=0)** - [Instructor] Now that you have your Django project completed, how are you going to show it to the world?
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=0)** - [Instructor] Now that you have your [[Django]] project completed, how are you going to show it to the world?
 >
 > **[0:05](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=5)** We'll be deploying the same project to the four biggest providers so you can choose the one that's right for you.
 >
-> **[0:11](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=11)** We'll explore deploying to an Ubuntu server via DigitalOcean with Amazon's S3 bucket and AWS Beanstalk, through Heroku's simple command line interface, and advance security features with Azure's virtual machines.
+> **[0:11](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=11)** We'll explore deploying to an [[Ubuntu]] server via DigitalOcean with Amazon's S3 bucket and AWS Beanstalk, through Heroku's simple command line interface, and advance security features with [[Microsoft Azure|Azure]]'s [[Virtual Machines]].
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980&t=28)** Hi, I'm Nick and I love Django and mobile programming, let's begin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Ubuntu]] (1), aws (1), [[Security]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Ubuntu]] (1), [[Microsoft Azure|Azure]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=0)** - [Instructor] Now before we go ahead and get started, these are the things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=4)** The first is the basics of Python 3.
+> **[0:04](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=4)** The first is the basics of [[Python (Programming Language)|Python]] 3.
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=7)** We're going to be using Python 3.7 but if you know any of the recent versions of Python 3, you're going to do just fine.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=16)** Pip allows us to install Python packages.
 >
-> **[0:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=19)** Also, you need to know how to make a basic Django project.
+> **[0:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=19)** Also, you need to know how to make a basic [[Django]] project.
 >
 > **[0:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/what-you-should-know?u=76281980&t=23)** And connected with this, my previous course, [[Building a Personal Portfolio with Django]], walks you through from start to finish creating a very basic Django project.
 >
@@ -159,12 +157,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right deployment for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980)
+#### [Choosing the right deployment for you](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=0)** - When you've completed a Django project and you're ready to ploy it out for everybody to enjoy, there's a big question you ask yourself, "Where should I deploy my project?"
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=0)** - When you've completed a [[Django]] project and you're ready to ploy it out for everybody to enjoy, there's a big question you ask yourself, "Where should I deploy my project?"
 >
 > **[0:10](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=10)** Now in this course, I'm going to be showing you four different places that you can do that and you can pick which one you'd like to use, personally I'd recommend going through each so that you can personally see the pros and cons of each and decide which one's best for you but I'd like to show you the pros and cons of each platform and then you can decide if there's one specific one you want to jump to that you can do that.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=35)** One of the greatest pros about DigitalOcean is, it's a very hands-on option.
 >
-> **[0:40](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=40)** DigitalOcean gives you a virtual machine and we're going to fire up an Ubuntu linux server and rewrite all the code to make everything happen so we're going to get the postgres database up and running, we're going to use something called Gunicorn, to get our server working.
+> **[0:40](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=40)** DigitalOcean gives you a virtual machine and we're going to fire up an [[Ubuntu]] [[Linux]] server and rewrite all the code to make everything happen so we're going to get the [[PostgreSQL|postgres]] database up and running, we're going to use something called Gunicorn, to get our server working.
 >
 > **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=54)** You see how everything works and you're completely hands-on.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=206)** Also, just like AWS, you're completely in Heroku's control, everything that you do with your project is geared towards deploying with Heroku and pulling back to a more generalist sense is going to take some work if you need to move.
 >
-> **[3:42](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=222)** Finally, Microsoft's Azure, just like DigitalOcean, we're going to be working with a virtual machine so it's very hands-on, meaning that you can change whatever it is that you like, customize it, you see everything that's going on but moving into the cons, Azure, the platform is not simple like DigitalOcean.
+> **[3:42](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=222)** Finally, [[Microsoft]]'s [[Microsoft Azure|Azure]], just like DigitalOcean, we're going to be working with a virtual machine so it's very hands-on, meaning that you can change whatever it is that you like, customize it, you see everything that's going on but moving into the cons, Azure, the platform is not simple like DigitalOcean.
 >
 > **[4:02](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/choosing-the-right-deployment-for-you?u=76281980&t=242)** It's not as complex as AWS but there's a lot of different moving pieces and things can get a little bit tricky.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Microsoft Azure|Azure]] (3), [[Linux]] (2), database (2), [[Django]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Linux]] (2), [[Django]] (1), [[Ubuntu]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** aws (9), make (4)
 > **Env Vars:** aws (9)
 > **Tools:** command line (2)
@@ -225,14 +222,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital Ocean account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980)
+#### [Digital Ocean account](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980&t=0)** - [Instructor] Welcome to our DigitalOcean deployment.
 >
-> **[0:03](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980&t=3)** This is the first way that we're going to deploy our Django app.
+> **[0:03](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980&t=3)** This is the first way that we're going to deploy our [[Django]] app.
 >
 > **[0:06](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980&t=6)** Let's go ahead and open up a browser.
 >
@@ -292,15 +288,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Django]] (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [digitalocean.com](https://digitalocean.com) (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a droplet
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980)
+#### [Creating a droplet](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,11 +317,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=41)** But we need to create a Droplet.
 >
-> **[0:43](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=43)** So while Django Portfolio is selected, I'm going to go up to the top of the screen here and hit Create, and create a new Droplet.
+> **[0:43](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=43)** So while [[Django]] Portfolio is selected, I'm going to go up to the top of the screen here and hit Create, and create a new Droplet.
 >
 > **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=54)** Now it's going to ask you what kind of droplet or server it is that you want to create.
 >
-> **[0:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=59)** We want an Ubuntu Linux server and we want to specify the version here.
+> **[0:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=59)** We want an [[Ubuntu]] [[Linux]] server and we want to specify the version here.
 >
 > **[1:04](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/creating-a-droplet?u=76281980&t=64)** Now the way that Ubuntu manages their version numbers, the first number there is the year that it was created and so we want to go with the latest, 18, so that we can have something that was created in 2018 and this is actually good all the way until April 2023.
 >
@@ -386,15 +381,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Django]] (2), hit (2), data (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Django]] (2), [[Linux]] (1)
 > **Versions:** 18.04 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** starter project (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing your server
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980)
+#### [Securing your server](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,11 +456,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=197)** So here's the command to do that.
 >
-> **[3:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=199)** We're going to type out usermod, all one word, space, dash lower case a, capital G, space sudo, and then nick.
+> **[3:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=199)** We're going to type out usermod, all one [[Microsoft Word|word]], space, dash lower case a, capital G, space sudo, and then nick.
 >
 > **[3:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=213)** Again, if you didn't use the username Nick, make sure you replace Nick with whatever your name is.
 >
-> **[3:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=219)** Just remember for the rest of the video, that's going to be the case but just want to make sure you understand that.
+> **[3:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=219)** Just remember for the [[Representational State Transfer (REST)|rest]] of the video, that's going to be the case but just want to make sure you understand that.
 >
 > **[3:44](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/securing-your-server?u=76281980&t=224)** Then go ahead and hit enter.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), sudo (3), ssh (2)
 > **Tools:** terminal (4)
 > **Env Vars:** ssh (1), lnix (1)
@@ -495,14 +489,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Postgres setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980)
+#### [Postgres setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=0)** - [Instructor] For the rest of this chapter we're going to be utilizing a resource from DigitalOcean.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=0)** - [Instructor] For the [[Representational State Transfer (REST)|rest]] of this chapter we're going to be utilizing a resource from DigitalOcean.
 >
-> **[0:06](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=6)** This is a great guide showing you how to deploy your Django project on DigitalOcean and while I'm going to make some tweaks from what's written here, this is the core of what we're basing our deployment off of so it's a great resource to know and we're going to be copying and pasting some things from it.
+> **[0:06](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=6)** This is a great guide showing you how to deploy your [[Django]] project on DigitalOcean and while I'm going to make some tweaks from what's written here, this is the core of what we're basing our deployment off of so it's a great resource to know and we're going to be copying and pasting some things from it.
 >
 > **[0:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=23)** So go ahead and go to the following URL so that you can have access to this guide.
 >
@@ -532,13 +525,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=110)** So just go ahead and copy from sudo apt install, all the way to Nginx and curl.
 >
-> **[1:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=116)** Make show you using the one for Python 3, not Python 2.
+> **[1:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=116)** Make show you using the one for [[Python (Programming Language)|Python]] 3, not Python 2.
 >
 > **[2:01](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=121)** With that copied, move to our terminal, paste and hit enter.
 >
 > **[2:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=127)** Type Y to say yes we want to install all of these and the different things that we're installing here, this is the different code that we need to work with.
 >
-> **[2:16](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=136)** Postgres, this is Nginx which is going to be the engine that's going to be serving our website.
+> **[2:16](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=136)** [[PostgreSQL|Postgres]], this is Nginx which is going to be the engine that's going to be serving our website.
 >
 > **[2:22](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=142)** Just all the tools we need are being installed in one fell command here.
 >
@@ -548,13 +541,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=158)** Now in an earlier course that I worked on, and we had Postgres just running locally on our computer, it is very simple to just, in a UI, put in the database name that we wanted and the password.
 >
-> **[2:50](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=170)** Now without Ubuntu server, we're going to have to get a little bit technical with how we're going to work with it.
+> **[2:50](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=170)** Now without [[Ubuntu]] server, we're going to have to get a little bit technical with how we're going to work with it.
 >
 > **[2:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=176)** So, first we need to get into the Postgres command line so it's do that we're going to copy the following code here sudo postgres psql so let's go ahead and copy this, move back to terminal paste that and hit enter.
 >
 > **[3:12](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=192)** And you should see Postgres equals with the hash.
 >
-> **[3:15](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=195)** If you see that, that means you're ready to start running Postgres commands so we're no longer inside of the Linux machine, instead we're inside of the Postgres command line inside of our machine.
+> **[3:15](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=195)** If you see that, that means you're ready to start running Postgres commands so we're no longer inside of the [[Linux]] machine, instead we're inside of the Postgres command line inside of our machine.
 >
 > **[3:25](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/postgres-setup?u=76281980&t=205)** So if we move back to our guide, you can see they have some code to help us to create a new database and a user for that database, and we're going to work with different permissions.
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (13), database (11), hit (8), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (13), [[Python (Programming Language)|Python]] (2), [[Ubuntu]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1)
 > **CLI Commands:** sudo (7), make (4), apt (3), nginx (2), python (2)
 > **Tools:** terminal (5), command line (2)
 > **Prerequisites:** install (5)
@@ -607,8 +600,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1), python 2 (1)
 > **Env Vars:** url (1)
 
-#### Transferring code to the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980)
+#### [Transferring code to the server](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=33)** And I'm going to move to my desktop where I have the portfolio project that we're ready to deploy.
 >
-> **[0:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=39)** Now again, this portfolio project is created from a previous course that I have here on LinkedIn, where you can create a little information about yourself, and this is what we're going to be deploying.
+> **[0:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=39)** Now again, this portfolio project is created from a previous course that I have here on [[LinkedIn]], where you can create a little information about yourself, and this is what we're going to be deploying.
 >
 > **[0:51](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=51)** So if I go ahead and do and l-s here, you can see that I have this portfolio project.
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=179)** Now with this portfolio project, when it comes over you might get some weird permissions that come with the files that came up, and so we want to make sure that everything's in a place that we would like.
 >
-> **[3:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=189)** So we're going to do a C-H-MOD, all one word, dash capital R, then seven five five, and then space, the name of our project, which is portfolio project, again, you hit tab and you can get the autocomplete.
+> **[3:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=189)** So we're going to do a C-H-MOD, all one [[Microsoft Word|word]], dash capital R, then seven five five, and then space, the name of our project, which is portfolio project, again, you hit tab and you can get the autocomplete.
 >
 > **[3:24](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=204)** So we'll go ahead and hit enter with that.
 >
@@ -726,11 +718,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=292)** So now that we're here, we need to install the proper pieces for our project.
 >
-> **[4:57](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=297)** And so, if we go ahead and move back to our Django guide.
+> **[4:57](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=297)** And so, if we go ahead and move back to our [[Django]] guide.
 >
 > **[5:01](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=301)** We can scroll down a bit and get to following code that we need.
 >
-> **[5:06](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=306)** Here we go, so we need pip install, and it's going to get Django, Unicorn, the code that we need to connect to a postgres database.
+> **[5:06](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=306)** Here we go, so we need pip install, and it's going to get Django, Unicorn, the code that we need to connect to a [[PostgreSQL|postgres]] database.
 >
 > **[5:14](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-4?u=76281980&t=314)** We're also going to add some code here, so copy what we have.
 >
@@ -748,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Django]] (2), next (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (3), pip (3), sudo (1)
 > **Prerequisites:** install (4), make sure you have (1)
 > **Tools:** terminal (3)
@@ -757,8 +749,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Configuring settings files 
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980)
+#### [Configuring settings files ](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,13 +781,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=129)** So we'll just move down here in our file, down to where we get the database code, and we just need to make a few changes to make sure that we have the appropriate code.
 >
-> **[2:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=138)** Now first, in the engine here, instead of postgresql, we're going to change this and say postgresql underscore, and then we're going to add P-S-Y-C-O-P-G-2.
+> **[2:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=138)** Now first, in the engine here, instead of [[PostgreSQL]], we're going to change this and say postgresql underscore, and then we're going to add P-S-Y-C-O-P-G-2.
 >
 > **[2:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=153)** Remember that was what we just installed via Pip.
 >
 > **[2:36](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=156)** Next portfolio name, we named ours portfoliodb, so that's going to stay the same.
 >
-> **[2:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=161)** For user, instead of postgres, we're going to change this to portfoliouser, okay, if you used a different username, just whatever you used for postgres, make sure that you have that.
+> **[2:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=161)** For user, instead of [[PostgreSQL|postgres]], we're going to change this to portfoliouser, okay, if you used a different username, just whatever you used for postgres, make sure that you have that.
 >
 > **[2:55](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-3?u=76281980&t=175)** And then, we're going to have our password be whatever we created for use that.
 >
@@ -824,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), database (2), [[PostgreSQL]] (2), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** make (6), pip (1)
 > **Env Vars:** url (7)
 > **File Paths:** settings.py (1)
@@ -832,8 +823,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980)
+#### [Testing deployment](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980&t=29)** Then what we need to do now that we have a database up and running, we have the proper connection, let's go ahead and migrate that database.
 >
-> **[0:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980&t=37)** So we're just going to type out here, python manage.py and then migrate.
+> **[0:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980&t=37)** So we're just going to type out here, [[Python (Programming Language)|python]] manage.py and then migrate.
 >
 > **[0:43](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-4?u=76281980&t=43)** Go ahead and hit enter on that.
 >
@@ -943,7 +933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), database (5), [[Python (Programming Language)|Python]] (5), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (3), cd (1), ls (1), rm (1)
 > **File Paths:** manage.py (4)
 > **Ports:** port 8000 (3), :8000 (1)
@@ -952,8 +942,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** url (1)
 
-#### Gunicorn testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980)
+#### [Gunicorn testing](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +964,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980&t=91)** So, let's go ahead and move over to our guide here.
 >
-> **[1:34](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980&t=94)** There's going to be some code that we need to copy so go ahead and scroll down here, they are showing you how to create a new django project, so we need to sort of just move passed that, so keep scrolling down.
+> **[1:34](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980&t=94)** There's going to be some code that we need to copy so go ahead and scroll down here, they are showing you how to create a new [[Django]] project, so we need to sort of just move passed that, so keep scrolling down.
 >
 > **[1:47](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing?u=76281980&t=107)** You need to get back down all the way until it talks about working on a gunicorn service file.
 >
@@ -1045,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), next (2), [[Django]] (1), application (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **CLI Commands:** make (3), sudo (3), pip (1), systemctl (1)
 > **UI Navigation:** scroll down (4), go to (2)
 > **Ports:** port 8 (1), port 80 (1)
@@ -1054,8 +1043,7 @@ created: 2026-05-02
 > **Env Vars:** pip (1)
 > **Analogies:** just like (1)
 
-#### NGINX setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup?u=76281980)
+#### [NGINX setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), web (2), next (1), traffic (1)
 > **CLI Commands:** nginx (11), sudo (5), make (3)
 > **Env Vars:** nginx (10), ufw (2), ctl (1), url (1)
 > **UI Navigation:** scroll down (3)
@@ -1129,13 +1116,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
 > **Prerequisites:** set up (2)
+> **Ports:** port 8000 (1)
 
-#### Connecting your URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980)
+#### [Connecting your URL](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=0)** - [Instructor] At this point in time, our Django project is fully functional.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=0)** - [Instructor] At this point in time, our [[Django]] project is fully functional.
 >
 > **[0:04](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=4)** And it's up and running live.
 >
@@ -1153,7 +1140,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=48)** So lot's of different places that you can buy domain names.
 >
-> **[0:51](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=51)** I personally really like Google Domains.
+> **[0:51](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=51)** I personally really like [[Google]] Domains.
 >
 > **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=54)** I think they keep it very simple.
 >
@@ -1217,7 +1204,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=213)** We have successfully created a deployment using Digital Ocean.
 >
-> **[3:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=217)** Like I said, you have so much control with Digital Ocean in that you have a Linux server that you can do anything that you want on.
+> **[3:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=217)** Like I said, you have so much control with Digital Ocean in that you have a [[Linux]] server that you can do anything that you want on.
 >
 > **[3:44](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url?u=76281980&t=224)** The Digital Ocean setup is so simple you can notice that we just touched on it at the very beginning to make that droplet.
 >
@@ -1227,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Django]] (1), functional (1), dns (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Django]] (1), [[Linux]] (1)
 > **CLI Commands:** make (8), nginx (4), find (1)
 > **Env Vars:** nginx (3), url (3), dns (1)
 > **UI Navigation:** go to (2)
@@ -1241,24 +1228,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980)
+#### [AWS account](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=0)** - [Instructor] Now let's talk about how to deploy are Django project using AWS.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=0)** - [Instructor] Now let's talk about how to deploy are [[Django]] project using AWS.
 >
-> **[0:05](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=5)** Now, AWS is Amazon Web Services, and this is an absolute beast in the Cloud world.
+> **[0:05](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=5)** Now, AWS is [[Amazon Web Services (AWS)|Amazon Web Services]], and this is an absolute beast in the Cloud world.
 >
 > **[0:12](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=12)** They are definitely the largest provider out there, and they have awesome solutions at great prices, but it can be very complex.
 >
 > **[0:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=20)** So, I'm going to be walking you through everything, but just know of all the different services, this is definitely the most complex.
 >
-> **[0:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=26)** And what's interesting is as we just created our deployment using Digital Ocean, we can do a similar process here on AWS using one of their EC2 instances.
+> **[0:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=26)** And what's interesting is as we just created our deployment using Digital Ocean, we can do a similar process here on AWS using one of their [[Amazon EC2|EC2]] instances.
 >
 > **[0:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=38)** You can follow the same steps.
 >
-> **[0:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=39)** You essentially get a Linux server that you could create, and then deploy your project on.
+> **[0:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=39)** You essentially get a [[Linux]] server that you could create, and then deploy your project on.
 >
 > **[0:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980&t=45)** But for this we're going to be using AWS's Beanstalk because it allows us to create an app-centric deployment.
 >
@@ -1336,7 +1322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), hit (3), [[Django]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Amazon EC2|Ec2]] (1), [[Linux]] (1)
 > **CLI Commands:** aws (12), make (2), pip (2), pip3 (1)
 > **Env Vars:** aws (11), ec2 (1), url (1)
 > **Prerequisites:** install (4), setup (1)
@@ -1345,8 +1331,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **UI Navigation:** click on (1)
 
-#### Deploying to AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980)
+#### [Deploying to AWS](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1341,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=17)** Let's go ahead and move back to our terminal here.
 >
-> **[0:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=19)** The next thing that we need to do is list out everything that we've installed via pip and you know, we've gotten a couple things like Django and what not.
+> **[0:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=19)** The next thing that we need to do is list out everything that we've installed via pip and you know, we've gotten a couple things like [[Django]] and what not.
 >
 > **[0:27](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=27)** You can actually see that if you type, pip freeze.
 >
@@ -1382,7 +1367,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=127)** Once we're in there, we need to type out here, option_settings: then we're going to hit Enter and we want to hit Space two times.
 >
-> **[2:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=140)** And we're going to come over and say, aws: elasticbeanstalk: container: python:.
+> **[2:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=140)** And we're going to come over and say, aws: elasticbeanstalk: container: [[Python (Programming Language)|python]]:.
 >
 > **[2:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-to-aws?u=76281980&t=157)** So, this is saying, okay these are the different settings that we want.
 >
@@ -1466,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Python (Programming Language)|Python]] (5), [[Django]] (4), hit (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Django]] (4)
 > **CLI Commands:** aws (10), pip (5), python (5), ls (3), make (3)
 > **Env Vars:** aws (8), url (1), wsgi (1)
 > **File Paths:** requirements.txt (2), django.config (2), portfolio/wsgi.py (1), manage.py (1)
@@ -1475,8 +1460,7 @@ created: 2026-05-02
 > **Versions:** 3.6 (1), python 3 (1)
 > **Cross-References:** go back to (2)
 
-#### Testing your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980)
+#### [Testing your site](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1474,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=29)** It's going to ask you which application you would like to use, let's use the one that we just created, the portfolio-aws.
 >
-> **[0:35](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=35)** It's going to say, looks like you're using Python, yes, let's go ahead and use version 3.6, we'll go ahead and use that.
+> **[0:35](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=35)** It's going to say, looks like you're using [[Python (Programming Language)|Python]], yes, let's go ahead and use version 3.6, we'll go ahead and use that.
 >
 > **[0:43](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=43)** Do you want to set up SSH for your instances, go ahead and say yes to that, it's going to ask for the name of a key-pair, you can use the default aws-eb, that's totally fine.
 >
@@ -1500,7 +1484,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=72)** We're going to say eb create and then we have to make a name for our environment.
 >
-> **[1:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=78)** So I'm going to call this django-env.
+> **[1:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=78)** So I'm going to call this [[Django]]-env.
 >
 > **[1:22](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-your-site?u=76281980&t=82)** Go ahead and hit enter there, and this is going to take about five minutes 'cause essentially what's going on here is it's taking all the code that we have in our project here, and it's uploading it into AWS and it's spinning up all the appropriate resources here.
 >
@@ -1540,7 +1524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), application (2), [[Python (Programming Language)|Python]] (1), [[Django]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Django]] (1)
 > **Env Vars:** url (5), aws (2), ssh (1), cname (1)
 > **CLI Commands:** aws (4), make (2), python (1), ssh (1)
 > **Prerequisites:** set up (2)
@@ -1548,8 +1532,7 @@ created: 2026-05-02
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database connection and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980)
+#### [Database connection and setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=38)** Now we don't have a snapshot, a snapshot is if you had some sort of backup.
 >
-> **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=41)** But we do need to change this to be a postgres database, so we're going to change engine here to be postgres.
+> **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=41)** But we do need to change this to be a [[PostgreSQL|postgres]] database, so we're going to change engine here to be postgres.
 >
 > **[0:48](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=48)** Let us do it's settings.
 >
@@ -1595,7 +1578,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=107)** Kay, we've got capital False right there.
 >
-> **[1:50](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=110)** And then let's go ahead and move down to our databases, where we'll be working with this.
+> **[1:50](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=110)** And then let's go ahead and move down to our [[Databases]], where we'll be working with this.
 >
 > **[1:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=116)** So for our database here, we've just got to configure a few different things and what we're going to do here is instead of name just listing out portfoliodb, instead what we're going to use is environments from Amazon's instance variables.
 >
@@ -1649,7 +1632,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=317)** So in this situation, do our four spaces there, we're going to say all caps, DATABASES is equal to, and we'll do our opening curly bracket, and inside of here, we're going to do 'default' and we'll do the other ending quote there, colon, another curly bracket, all caps 'ENGINE':
 >
-> **[5:46](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=346)** this is where want single quote, 'django.db.backends.sqlite3'.
+> **[5:46](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=346)** this is where want single quote, '[[Django]].db.backends.sqlite3'.
 >
 > **[5:58](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-connection-and-setup?u=76281980&t=358)** Excellent, do a comma after that.
 >
@@ -1665,7 +1648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Databases]] (3), next (2), [[PostgreSQL|Postgres]] (2), aws (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[PostgreSQL|Postgres]] (2), [[Django]] (1)
 > **Env Vars:** rds_db_name (3), aws (1), rds_username (1), rds_password (1), rds_hostname (1)
 > **CLI Commands:** make (3), sqlite3 (2), aws (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1673,14 +1656,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Migrate
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980)
+#### [Migrate](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=0)** - [Instructor] So now that we've edited our settings, so that we can connect to our new database, we have to be able to apply some migrations to that database.
 >
-> **[0:08](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=8)** Now this is where Beanstock gets a little bit tricky because we don't have the power to just directly log in and run a command, like Python, Migrate, or Python Create Superuser.
+> **[0:08](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=8)** Now this is where Beanstock gets a little bit tricky because we don't have the power to just directly log in and run a command, like [[Python (Programming Language)|Python]], Migrate, or Python Create Superuser.
 >
 > **[0:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=18)** But we can tell Amazon to do those things for us, on our behalf.
 >
@@ -1726,7 +1708,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=123)** What we're going to do here is, echo and then a backslash, and then a double quote, so that we can escape it.
 >
-> **[2:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=129)** We're going to say from, and this is all lowercase, from django.contrib.auth.models, space.
+> **[2:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=129)** We're going to say from, and this is all lowercase, from [[Django]].contrib.auth.models, space.
 >
 > **[2:22](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/migrate?u=76281980&t=142)** We want to import User; then we want to say capital User.objects.create_superuser
 >
@@ -1794,7 +1776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Python (Programming Language)|Python]] (3), power (1), aws (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Django]] (1)
 > **CLI Commands:** make (4), python (3), aws (1)
 > **File Paths:** db-migrate.config (1), manage.py (1)
 > **Tools:** terminal (1), command line (1)
@@ -1803,8 +1785,7 @@ created: 2026-05-02
 > **Env Vars:** aws (1)
 > **Cross-References:** go back to (1)
 
-#### S3 storage setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980)
+#### [S3 storage setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1811,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980&t=81)** But we want to create a new and separate bucket from that and so let's go ahead and hit this create bucket button now we need to create a name for this and this needs to be absolutely unique like no one else has used this before.
 >
-> **[1:34](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980&t=94)** So I'm going to do something like Django dash and I want portfolio dash Nick 'kay but the thing is this has to be globally unique so if you try and do the same name as me it's going to be a little bit different so you could try dash Nick one or maybe instead of Nick doing your own name.
+> **[1:34](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980&t=94)** So I'm going to do something like [[Django]] dash and I want portfolio dash Nick 'kay but the thing is this has to be globally unique so if you try and do the same name as me it's going to be a little bit different so you could try dash Nick one or maybe instead of Nick doing your own name.
 >
 > **[1:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/s3-storage-setup?u=76281980&t=114)** But you need to have a unique name for your bucket here.
 >
@@ -1916,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Django]] (7), next (6), aws (2), database (1)
+> **Frameworks & Libraries:** [[Django]] (7)
 > **CLI Commands:** make (5), aws (2), find (1)
 > **Env Vars:** aws (2), iam (2), url (1), csv (1)
 > **UI Navigation:** go to (4), click on (2)
@@ -1925,8 +1906,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Exercise Files:** download the (1)
 
-#### Static and media files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980)
+#### [Static and media files](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1914,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=10)** So, in order to do this let's go ahead and first add a few different things that will help us be able to access this bucket, and so we're going to get back into our virtual environment, we'll say source../eb-virt/bin/activate.
 >
-> **[0:29](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=29)** we need to install a few things via pip so we're going to say pip, install, and we want django-storages, again these are different chunks of code that our going to help us read and write from S3, and also boto3.
+> **[0:29](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=29)** we need to install a few things via pip so we're going to say pip, install, and we want [[Django]]-storages, again these are different chunks of code that our going to help us read and write from S3, and also boto3.
 >
 > **[0:44](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=44)** Okay so go ahead and hit enter on that, get all those installed.
 >
@@ -2012,7 +1992,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=436)** So the information that we have here is the same information that we had just put inside of our settings file, so we're going to CTRL X and yes out of there.
 >
-> **[7:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=446)** Now with this new information this means that we're ready to actually move things up to the bucket, and to really prove that this can work, we're going to type out python.manage.pie, collect static and when we run this it will actually push it directly to our bucket.
+> **[7:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=446)** Now with this new information this means that we're ready to actually move things up to the bucket, and to really prove that this can work, we're going to type out [[Python (Programming Language)|python]].manage.pie, collect static and when we run this it will actually push it directly to our bucket.
 >
 > **[7:44](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files?u=76281980&t=464)** So if we go ahead and hit enter here it says do you want to do this I'll say yes.
 >
@@ -2042,7 +2022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Django]] (4), hit (3), database (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (7), pip (5), find (1), python (1)
 > **UI Navigation:** go to (5), scroll down (3), click on (1)
 > **Env Vars:** csv (2), aws_default_acl (1), staticfiles_ (1), ctrl (1), url (1)
@@ -2051,8 +2031,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), make sure you have (1)
 > **File Paths:** requirements.txt (2)
 
-#### Custom URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980)
+#### [Custom URL](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2074,7 +2053,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=45)** Look at that, pops up just like that.
 >
-> **[0:49](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=49)** Once we're inside of here, what we need to do is use our DNS management.
+> **[0:49](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=49)** Once we're inside of here, what we need to do is use our [[DNS Management]].
 >
 > **[0:55](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=55)** We're going to go down to our DNS management and say, get started now and what we want to do is use a hosted zone that's already picked for us here but we want to do, create hosted zone, and from here, what we want to do is we want to create our own domain name.
 >
@@ -2112,7 +2091,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=145)** With all of this in place, you may be wondering, okay, now how do I connect this to wherever I have my domain hosted?
 >
-> **[2:32](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=152)** Well the thing that you need to do is, for instance, I have my domain name over in Google Domains.
+> **[2:32](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=152)** Well the thing that you need to do is, for instance, I have my domain name over in [[Google]] Domains.
 >
 > **[2:37](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=157)** Need to go to your DNS and use the custom name servers that Route 53 is providing for us.
 >
@@ -2146,11 +2125,11 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=270)** Deploying your app via Amazon's beanstalk.
 >
-> **[4:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=273)** Again, if you ever wanted to, you can go to your services here, select EC2 and create a virtual machine just like you did with Digital Ocean but that is completely up to you.
+> **[4:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url?u=76281980&t=273)** Again, if you ever wanted to, you can go to your services here, select [[Amazon EC2|EC2]] and create a virtual machine just like you did with Digital Ocean but that is completely up to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), dns (4), aws (2), management (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[DNS Management]] (2), [[Google]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** dns (4), url (3), aws (2), ec2 (1)
 > **CLI Commands:** find (4), aws (2), make (2)
 > **Analogies:** just like (3), for instance (1), for example (1)
@@ -2164,12 +2143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Heroku account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980)
+#### [Heroku account](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=0)** - Now let's talk about how we can deploy our Django project using Heroku, and let me tell you, Heroku is a real blast.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=0)** - Now let's talk about how we can deploy our [[Django]] project using Heroku, and let me tell you, Heroku is a real blast.
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=7)** You'll see it's pretty different than any of our other deployments.
 >
@@ -2189,7 +2167,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=69)** If you can get to your main dashboard, that means that everything's good to go.
 >
-> **[1:14](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=74)** Now, we have a document that we're going to be basing a lot of our deployment off of, is this Getting Started with Heroku with Python.
+> **[1:14](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=74)** Now, we have a document that we're going to be basing a lot of our deployment off of, is this Getting Started with Heroku with [[Python (Programming Language)|Python]].
 >
 > **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980&t=81)** Inside of this, you can get the URL here, but as part of this, is we need download Heroku's command line interface.
 >
@@ -2243,7 +2221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), aws (2), hit (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (7), make (3), aws (2), python (1), ls (1)
 > **Prerequisites:** install (5), getting started (1)
 > **Tools:** terminal (3), command line (2)
@@ -2252,12 +2230,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Code Identifiers:** macos (1)
 
-#### Deploying on Heroku
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980)
+#### [Deploying on Heroku](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=0)** - [Instructor] Heroku is heavily integrated with Git, meaning that if we're ever going to push something or deploy with Heroku, we have to have a project, that is a Git project.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=0)** - [Instructor] Heroku is heavily integrated with [[Git]], meaning that if we're ever going to push something or deploy with Heroku, we have to have a project, that is a Git project.
 >
 > **[0:10](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=10)** So, what we're going to do inside of our project here, do an ls.
 >
@@ -2383,7 +2360,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=187)** is create something called a Procfile.
 >
-> **[3:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=189)** So, we're going to type out nano capital, So, we're going to type out nano capital, make sure it's capital, Procfile, all one word.
+> **[3:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=189)** So, we're going to type out nano capital, So, we're going to type out nano capital, make sure it's capital, Procfile, all one [[Microsoft Word|word]].
 >
 > **[3:11](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=191)** make sure it's capital, Procfile, all one word.
 >
@@ -2391,7 +2368,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=197)** to write two lines of code here.
 >
-> **[3:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=199)** So, the first one is release colon, So, the first one is release colon, space Python manage, space Python manage, dot py migrate.
+> **[3:19](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=199)** So, the first one is release colon, So, the first one is release colon, space [[Python (Programming Language)|Python]] manage, space Python manage, dot py migrate.
 >
 > **[3:27](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/deploying-on-heroku?u=76281980&t=207)** dot py migrate.
 >
@@ -2503,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (16), web (16), [[Python (Programming Language)|Python]] (8), next (7), database (5)
+> **Frameworks & Libraries:** [[Git]] (16), [[Python (Programming Language)|Python]] (8), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** git (16), make (12), python (8), ls (1)
 > **Analogies:** just like (3)
 > **Prerequisites:** set up (3)
@@ -2512,8 +2489,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database on Heroku
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980)
+#### [Database on Heroku](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2543,7 +2519,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=35)** we're going to click this configured add-ons button.
 >
-> **[0:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=38)** Once we have that, we need to move to Heroku Postgres, Once we have that, we need to move to Heroku Postgres, go ahead and click on that.
+> **[0:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=38)** Once we have that, we need to move to Heroku [[PostgreSQL|Postgres]], Once we have that, we need to move to Heroku Postgres, go ahead and click on that.
 >
 > **[0:42](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=42)** go ahead and click on that.
 >
@@ -2611,7 +2587,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=142)** we'll keep that all the same.
 >
-> **[2:24](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=144)** We'll do a control X, We'll do a control X, then once we've gone ahead and done that then once we've gone ahead and done that we need to because we've made a change, we need to because we've made a change, do a git add -A, git commit -m, we'll call this db changes do a git add -A, git commit -m, we'll call this db changes
+> **[2:24](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=144)** We'll do a control X, We'll do a control X, then once we've gone ahead and done that then once we've gone ahead and done that we need to because we've made a change, we need to because we've made a change, do a [[Git]] add -A, git commit -m, we'll call this db changes do a git add -A, git commit -m, we'll call this db changes
 >
 > **[2:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=159)** and then we'll do a git push heroku master.
 >
@@ -2641,7 +2617,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=202)** when, what makes it great is that we can run that command.
 >
-> **[3:25](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=205)** So let's go back to our terminal and here we're going to So let's go back to our terminal and here we're going to type heroku run python manage.py type heroku run python manage.py and then createsuperuser.
+> **[3:25](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=205)** So let's go back to our terminal and here we're going to So let's go back to our terminal and here we're going to type heroku run [[Python (Programming Language)|python]] manage.py type heroku run python manage.py and then createsuperuser.
 >
 > **[3:36](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=216)** and then createsuperuser.
 >
@@ -2661,7 +2637,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=233)** I don't want u58251, I'm going to choose Nick.
 >
-> **[3:57](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=237)** Now email address, I'll do my classic Now email address, I'll do my classic django one, two, three, four.
+> **[3:57](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=237)** Now email address, I'll do my classic Now email address, I'll do my classic [[Django]] one, two, three, four.
 >
 > **[3:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-on-heroku?u=76281980&t=239)** django one, two, three, four.
 >
@@ -2707,7 +2683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), next (7), [[Git]] (6), [[Django]] (6), web (3)
+> **Frameworks & Libraries:** [[Git]] (6), [[Django]] (6), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (2)
 > **Cross-References:** go back to (7), in the next (3)
 > **CLI Commands:** git (6), python (2)
 > **Tools:** terminal (8)
@@ -2716,8 +2692,7 @@ created: 2026-05-02
 > **File Paths:** manage.py (2)
 > **URLs:** [heroku.com](https://heroku.com) (2)
 
-#### Static and media files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980)
+#### [Static and media files](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2741,7 +2716,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=46)** Great, now that we're in that virtual environment, we're going to install some apps that are going to help us to save things inside of an Amazon S3 bucket.
 >
-> **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=54)** So we're going to do Django-storage.
+> **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=54)** So we're going to do [[Django]]-storage.
 >
 > **[0:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=59)** Storages-make sure you have the s, and then also boto3.
 >
@@ -2819,7 +2794,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=261)** And with this, now that have made the appropriate proper changes, we can go ahead and add this new code.
 >
-> **[4:28](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=268)** So we're going to say, git add-A git commit with the following message, added S3.
+> **[4:28](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=268)** So we're going to say, [[Git]] add-A git commit with the following message, added S3.
 >
 > **[4:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/static-and-media-files-2?u=76281980&t=278)** With that, we'll go ahead and enter that in.
 >
@@ -2845,7 +2820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Git]] (3), [[Django]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Django]] (2)
 > **CLI Commands:** aws (6), make (3), git (3), pip (2), find (1)
 > **Env Vars:** aws (6), pwd (1)
 > **File Paths:** requirements.txt (1), settings.py (1), portfolio/settings.py (1), custom_storage.py (1)
@@ -2854,8 +2829,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Analogies:** just like (1), for instance (1)
 
-#### Custom URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980)
+#### [Custom URL](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2915,7 +2889,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980&t=138)** Inside of this guide, if you go down to, let's scroll down here, Add a custom root domain, it has really good explanations.
 >
-> **[2:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980&t=146)** Unfortunately it doesn't have Google Domains, but I'm going to be walking you through that.
+> **[2:26](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980&t=146)** Unfortunately it doesn't have [[Google]] Domains, but I'm going to be walking you through that.
 >
 > **[2:32](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/custom-url-2?u=76281980&t=152)** If we move over to Google Domains here, I've got my nickwalter.info.
 >
@@ -2959,7 +2933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), hit (2), aws (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Env Vars:** add (2), url (1), aws (1), cname (1), ssl (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Tools:** command line (1), terminal (1)
@@ -2973,12 +2947,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980)
+#### [Azure account](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=0)** - (narrator) Here in this final chapter we're going to be deploying our project using Azure.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=0)** - (narrator) Here in this final chapter we're going to be deploying our project using [[Microsoft Azure|Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=4)** This is Microsofts' web solution, cloud solution.
 >
@@ -2988,7 +2961,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=18)** Step number one is going to [Azure.com](https://Azure.com) and creating a new account.
 >
-> **[0:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=33)** Microsoft will ask for a verification email, go ahead and grab the code and come back here and enter it.
+> **[0:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=33)** [[Microsoft]] will ask for a verification email, go ahead and grab the code and come back here and enter it.
 >
 > **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=41)** Go ahead and hit next.
 >
@@ -2996,17 +2969,17 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=54)** Once you've successfully created your account, verified everything, you want to go and move on to your portal.
 >
-> **[1:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=60)** So the portal is a place where everything sort of lives in Microsoft Azure, what we're going to be creating is a virtual machine.
+> **[1:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=60)** So the portal is a place where everything sort of lives in [[Microsoft Azure]], what we're going to be creating is a virtual machine.
 >
-> **[1:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=67)** So over here on the left side, you want to go ahead and click on virtual machines, hit the add button here, and with this it's going to ask you to create a new virtual machine.
+> **[1:07](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=67)** So over here on the left side, you want to go ahead and click on [[Virtual Machines]], hit the add button here, and with this it's going to ask you to create a new virtual machine.
 >
 > **[1:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=77)** So for the subscription let's stay within our free trial here.
 >
-> **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=81)** Inside of the resource group we need to create a new resource group, so we'll just go ahead and pick some sort of name here, we're going to call this maybe portfolio-django.
+> **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=81)** Inside of the resource group we need to create a new resource group, so we'll just go ahead and pick some sort of name here, we're going to call this maybe portfolio-[[Django]].
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=93)** Okay we'll go ahead and add that name.
 >
-> **[1:36](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=96)** Now we have to give a name to our virtual machine, so maybe call this one ubuntu-portfolio.
+> **[1:36](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=96)** Now we have to give a name to our virtual machine, so maybe call this one [[Ubuntu]]-portfolio.
 >
 > **[1:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980&t=105)** Ubuntu, there we go.
 >
@@ -3062,7 +3035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), hit (4), [[Microsoft Azure|Azure]] (3), next (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (2), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (3), ssh (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (3)
@@ -3071,8 +3044,7 @@ created: 2026-05-02
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Versions:** 18.04 (1)
 
-#### Database setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980)
+#### [Database setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3092,13 +3064,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=43)** So you can get the URL for that here.
 >
-> **[0:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=45)** But, once you have that URL, what we're going to do is we're going to scroll down here, and we're going to find here for Python 3, make sure it's Python 3, all these different packages that we're going to install.
+> **[0:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=45)** But, once you have that URL, what we're going to do is we're going to scroll down here, and we're going to find here for [[Python (Programming Language)|Python]] 3, make sure it's Python 3, all these different packages that we're going to install.
 >
 > **[0:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=56)** So let's go ahead and copy those.
 >
 > **[0:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=59)** And paste that in, and hit Yes, we want this to happen.
 >
-> **[1:02](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=62)** And it's going to go grab Postgres, and everything that we need in order to get our server to run.
+> **[1:02](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=62)** And it's going to go grab [[PostgreSQL|Postgres]], and everything that we need in order to get our server to run.
 >
 > **[1:08](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=68)** Nginx, all the different things that we need there.
 >
@@ -3112,7 +3084,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=95)** And there's actually great lines that we can copy and paste here from the guide.
 >
-> **[1:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=99)** We're going to come down first and create a database, and anywhere that you see red, you actually don't want to include the word that's there.
+> **[1:39](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=99)** We're going to come down first and create a database, and anywhere that you see red, you actually don't want to include the [[Microsoft Word|word]] that's there.
 >
 > **[1:46](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/database-setup?u=76281980&t=106)** You want to use what's unique to your project.
 >
@@ -3164,7 +3136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[PostgreSQL|Postgres]] (5), hit (4), next (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (4), make (2), apt (2), find (2), python (2)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** url (2)
@@ -3173,12 +3145,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
 
-#### Transferring code to the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980)
+#### [Transferring code to the server](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=0)** - [Speaker] Now that we have our servers set up with a PostgreSQL database we need to move the code from our local computer onto this server.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=0)** - [Speaker] Now that we have our servers set up with a [[PostgreSQL]] database we need to move the code from our local computer onto this server.
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=8)** While we are currently in the server, do a pwd to find out where our current home directory is and there you can see it's /home/nick.
 >
@@ -3192,7 +3163,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=72)** So if we go back to our other terminal tab we can copy this path exactly.
 >
-> **[1:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=77)** Go ahead and copy and paste that right at the end of that colon, hit enter, and what this is going to do, after we put in our password, of course, is it's going to upload every single file to our Azure server.
+> **[1:17](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=77)** Go ahead and copy and paste that right at the end of that colon, hit enter, and what this is going to do, after we put in our password, of course, is it's going to upload every single file to our [[Microsoft Azure|Azure]] server.
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=93)** So I'm going to go ahead and let this run it's course.
 >
@@ -3212,7 +3183,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=165)** It'll go and do it's work and then we can activate this virtual environment by saying source venv/bin/activate and then lets install the proper files that we'll need for our project.
 >
-> **[3:01](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=181)** So we're going to do pip install very important one django, gunicorn, that's going to be the server to run our code, we need p s y c o p g 2 /binary and we also need pillow.
+> **[3:01](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=181)** So we're going to do pip install very important one [[Django]], gunicorn, that's going to be the server to run our code, we need p s y c o p g 2 /binary and we also need pillow.
 >
 > **[3:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/transferring-code-to-the-server-2?u=76281980&t=200)** So go ahead and install all of those.
 >
@@ -3222,7 +3193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[PostgreSQL]] (1), database (1), [[Microsoft Azure|Azure]] (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[Microsoft Azure|Azure]] (1), [[Django]] (1)
 > **CLI Commands:** make (4), ls (2), find (1), chmod (1), sudo (1)
 > **Prerequisites:** install (4), set up (1)
 > **Tools:** terminal (4)
@@ -3231,8 +3202,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Configuring settings files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980)
+#### [Configuring settings files](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3266,7 +3236,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=78)** So first for our engine, we're going to change this slightly.
 >
-> **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=81)** So we're going to do this backends.postgresql and then we're going to do _psycopg and then two.
+> **[1:21](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=81)** So we're going to do this backends.[[PostgreSQL]] and then we're going to do _psycopg and then two.
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=93)** Okay, so that changes our engine.
 >
@@ -3274,7 +3244,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=98)** Remember that's the name that we use.
 >
-> **[1:40](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=100)** For the user, instead of postgres, it's now going to be portfoliouser.
+> **[1:40](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=100)** For the user, instead of [[PostgreSQL|postgres]], it's now going to be portfoliouser.
 >
 > **[1:45](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/configuring-settings-files-2?u=76281980&t=105)** Remember that's the name that we chose there.
 >
@@ -3302,19 +3272,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), cd (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (3), ls (2), cd (1), rm (1)
 > **Env Vars:** allowed_hosts (2), url (1)
 > **Ports:** port 5432 (1)
 > **Tools:** terminal (1)
 > **Speakers:** - now (1)
 
-#### Testing deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980)
+#### [Testing deployment](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=0)** - [Nick Walter] So now that we've properly configured our settings we have a database running, let's go ahead and migrate that database, so we're still inside our virtual environment, that means we can say python manage.py migrate By running this it's going to do all of our migrations, looks great and if we're going to be able to login to the admin side of things we've got to create a superuser.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=0)** - [Nick Walter] So now that we've properly configured our settings we have a database running, let's go ahead and migrate that database, so we're still inside our virtual environment, that means we can say [[Python (Programming Language)|python]] manage.py migrate By running this it's going to do all of our migrations, looks great and if we're going to be able to login to the admin side of things we've got to create a superuser.
 >
 > **[0:24](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=24)** So let's do python manage.py createsuperuser it's going to take us to the prompt nick I think is a good name don't need an email address I'll do my django1234 and django1234 for the passwords.
 >
@@ -3326,7 +3295,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=73)** So we're going to say sudo ufw allow, go ahead and just type in 8000, that means we're accepting things on port 8000.
 >
-> **[1:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=83)** Not only do we have to change that here, but also we need to go to our Azure portal and inside of our virtual machine here, you can see this is my Ubuntu-portfolio, we need to go to networking, and then we need to say add inbound port rule So here you have to specify that you want something coming in.
+> **[1:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=83)** Not only do we have to change that here, but also we need to go to our [[Microsoft Azure|Azure]] portal and inside of our virtual machine here, you can see this is my [[Ubuntu]]-portfolio, we need to go to networking, and then we need to say add inbound port rule So here you have to specify that you want something coming in.
 >
 > **[1:44](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/testing-deployment-2?u=76281980&t=104)** So leave all of these the same but here down for destination port we're going to change this to 8000, as far as the name goes, we can just call this like 8000 testing, telling that, you know, this thing should be living here.
 >
@@ -3344,7 +3313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), database (2), hit (2), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), [[Ubuntu]] (1)
 > **Ports:** port 8000 (6), :8000 (2)
 > **CLI Commands:** python (4), sudo (1), ssh (1)
 > **File Paths:** manage.py (4)
@@ -3353,12 +3322,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Env Vars:** ssh (1)
 
-#### Gunicorn testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing-2?u=76281980)
+#### [Gunicorn testing](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing-2?u=76281980&t=0)** - So we currently are serving up our project via the run server command built into Django.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing-2?u=76281980&t=0)** - So we currently are serving up our project via the run server command built into [[Django]].
 >
 > **[0:05](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/gunicorn-testing-2?u=76281980&t=5)** Now this is not ideal, there's more efficient servers out there.
 >
@@ -3472,7 +3440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (3), [[Django]] (2)
+> **Frameworks & Libraries:** [[Django]] (2)
 > **CLI Commands:** make (6), sudo (2), pip (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** terminal (1)
@@ -3480,8 +3448,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - so (1)
 
-#### NGINX setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980)
+#### [NGINX setup](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3587,7 +3554,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980&t=296)** and then another single quote.
 >
-> **[4:58](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980&t=298)** So with that in place, we've changed that but as you probably can remember we have to go back to our actual Azure instance and say okay let's go to networking.
+> **[4:58](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980&t=298)** So with that in place, we've changed that but as you probably can remember we have to go back to our actual [[Microsoft Azure|Azure]] instance and say okay let's go to networking.
 >
 > **[5:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/nginx-setup-2?u=76281980&t=309)** We no longer need eight thousand here so let's hit the little dots here and say delete no longer need that.
 >
@@ -3607,7 +3574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), hit (4), traffic (2), [[Microsoft Azure|Azure]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** nginx (10), make (5), sudo (4)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** debug (1), www (1)
@@ -3616,12 +3583,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Connecting your URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980)
+#### [Connecting your URL](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=0)** - [Instructor] All right, now that we have a functional server up and running, displaying our Django project in a beautiful fashion, you'll notice that the IP address isn't the greatest way to share this with people, right?
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=0)** - [Instructor] All right, now that we have a functional server up and running, displaying our [[Django]] project in a beautiful fashion, you'll notice that the IP address isn't the greatest way to share this with people, right?
 >
 > **[0:11](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=11)** You don't want to say, hey, go to 13.82 whatever to go see my website.
 >
@@ -3629,7 +3595,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=20)** So, in order to make this happen, you have to buy a domain name somewhere.
 >
-> **[0:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=23)** I really recommend Google Domains, I think they make it the simplest process possible.
+> **[0:23](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=23)** I really recommend [[Google]] Domains, I think they make it the simplest process possible.
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/connecting-your-url-2?u=76281980&t=28)** They don't fluff you with a bunch of up sales and things.; but no matter where you bought your domain, you need to go to the DNS settings for that domain, and you need to come down; I have some previous rules that I had set up before, so I'm going to delete these.
 >
@@ -3663,7 +3629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), functional (1), [[Django]] (1), [[Google]] (1), dns (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Google]] (1)
 > **CLI Commands:** make (7), nginx (2)
 > **UI Navigation:** go to (5)
 > **Env Vars:** nginx (2), dns (1), add (1)
@@ -3676,20 +3642,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=0)** - [Instructor] Thank you for walking through deploying Django apps with me.
+> **[0:00](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=0)** - [Instructor] Thank you for walking through deploying [[Django]] apps with me.
 >
 > **[0:03](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=3)** Hopefully, you learned a lot of new skills here, and feel confident about publishing your project live.
 >
 > **[0:09](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=9)** Now, if you'd like to learn more about Django, I've got some great course recommendations for you.
 >
-> **[0:14](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=14)** You can dive into Test-Driven Development in Django, where you'll learn to have more confidence in your code.
+> **[0:14](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=14)** You can dive into [[Test-Driven Development]] in Django, where you'll learn to have more confidence in your code.
 >
-> **[0:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=20)** You can also dive deep into Django: Forms, they are powerful and there's so much more than you find on the surface.
+> **[0:20](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=20)** You can also dive deep into Django: [[Forms]], they are powerful and there's so much more than you find on the surface.
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=28)** You can also learn to build a Paid Membership Site with Django.
 >
@@ -3697,17 +3662,17 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=36)** A great next step for you would be learning about Deployment Automation.
 >
-> **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=41)** All these steps that we took can be automated, so that when you want to release a new version of your site, you can simply type in one command and have automation handle the rest about uploading your new code, and if you have tests you can run those, as well.
+> **[0:41](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=41)** All these steps that we took can be automated, so that when you want to release a new version of your site, you can simply type in one command and have automation handle the [[Representational State Transfer (REST)|rest]] about uploading your new code, and if you have tests you can run those, as well.
 >
-> **[0:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=56)** The course that I recommend is Learning Ansible.
+> **[0:56](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=56)** The course that I recommend is Learning [[Ansible]].
 >
 > **[0:59](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=59)** Also, I'd love it if you'd connect with me.
 >
-> **[1:02](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=62)** You can find me both on LinkedIn and on Twitter.
+> **[1:02](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980&t=62)** You can find me both on [[LinkedIn]] and on Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (5), [[Automation]] (2), [[Test-Driven Development]] (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[Test-Driven Development]] (1), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Ansible]] (1)
 > **CLI Commands:** find (2), ansible (1)
 > **Speakers:** - [instructor] (1)
 

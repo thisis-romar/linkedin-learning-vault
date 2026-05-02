@@ -62,18 +62,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of flow in interaction design
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
+#### [The power of flow in interaction design](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=0)** - User experience is more than just interface design.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=0)** - [[User Experience (UX)|User experience]] is more than just interface design.
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=5)** It's about designing processes.
 >
 > **[0:08](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=8)** To make the invisible visible, we create diagrams to guide our design into an end to end experience flow.
 >
-> **[0:15](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=15)** Diagrams help us design systems and processes, organize our screens, while facilitating a common understanding of the big picture.
+> **[0:15](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=15)** Diagrams help us [[Design Systems]] and processes, organize our screens, while facilitating a common understanding of the big picture.
 >
 > **[0:23](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=23)** Hi, I'm Diane Cronenwett.
 >
@@ -83,11 +82,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=41)** We'll deep dive in a case study examples of user experience and map out the flows with granularity.
 >
-> **[0:47](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=47)** So please join me in this Interaction Design journey as we delve into the world of diagramming complex flows.
+> **[0:47](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980&t=47)** So please join me in this Interaction Design journey as we delve into the world of [[Diagramming]] complex flows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), ux (2), [[Design Systems]] (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Design Systems]] (1), [[Diagramming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - user (1)
@@ -98,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a user's flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
+#### [Defining a user's flow](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=86)** Next, we conduct a competitive analysis.
 >
-> **[1:29](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=89)** Competitive analysis in UX is benchmarking flows of other products and services.
+> **[1:29](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=89)** Competitive analysis in UX is benchmarking flows of other [[Microsoft Products|products]] and services.
 >
 > **[1:35](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=95)** The goal of a competitive analysis it to look for common paradigms and patterns that users might be familiar with and common activities.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=171)** Depending on your development process, this might be in the form of user scenarios and stories.
 >
-> **[2:56](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=176)** For more information, you can search LinkedIn Learning for videos on user stories.
+> **[2:56](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=176)** For more information, you can search [[LinkedIn]] Learning for videos on user stories.
 >
 > **[3:01](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980&t=181)** From these use cases, we can start to think about the design and organize the use cases into flows and discreet areas of focus.
 >
@@ -169,13 +167,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), product (2), next (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining interaction models
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980)
+#### [Defining interaction models](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=107)** In addition to business rules and technology inputs, your customers will also be an input.
 >
-> **[1:52](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=112)** Through interviewing and other data from customers, there will also be an input into the user interface flow and general requirements for the project.
+> **[1:52](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=112)** Through [[Interviewing]] and other data from customers, there will also be an input into the user interface flow and general requirements for the project.
 >
 > **[2:01](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=121)** Aside from these inputs, the project team will also inform product requirements with their own ideas.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=155)** If your goal is to enhance productivity, you might consider data-intensive views and a layout for users to compare datasets efficiently.
 >
-> **[2:44](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=164)** Interaction models are also informed by common design patterns and paradigms for your product or service.
+> **[2:44](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=164)** Interaction models are also informed by common [[Design Patterns]] and paradigms for your product or service.
 >
 > **[2:50](https://www.linkedin.com/learning/interaction-design-flow/defining-interaction-models?u=76281980&t=170)** You'll want to take into consideration how your user will interact with the product experience and work from there to iterate on different approaches.
 >
@@ -231,19 +228,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), product (4), data (2), [[Engineering]] (1), database (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Design Patterns]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - defining (1)
 
-#### The role of conditional logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-role-of-conditional-logic?u=76281980)
+#### [The role of conditional logic](https://www.linkedin.com/learning/interaction-design-flow/the-role-of-conditional-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-flow/the-role-of-conditional-logic?u=76281980&t=0)** - Flows can represent both the idealized user experience and the current experience.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-flow/the-role-of-conditional-logic?u=76281980&t=0)** - Flows can represent both the idealized [[User Experience (UX)|user experience]] and the current experience.
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-flow/the-role-of-conditional-logic?u=76281980&t=5)** Flows are a standard deliverable for UX designers.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), ux (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **Definitions:** refers to (1), defined as (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -306,14 +302,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use diagrams?
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
+#### [Why use diagrams?](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=0)** - We use diagrams in UX to help visualize and communicate user interaction to project stakeholders.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=6)** Diagrams used to communicate user experience are not technical, and we don't need to go deep into the technical aspects of the project.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=6)** Diagrams used to communicate [[User Experience (UX)|user experience]] are not technical, and we don't need to go deep into the technical aspects of the project.
 >
 > **[0:15](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=15)** In user experience, we organize our diagrams around the user and how they interact with the system, and are used for communicating user experience at various points of the design process.
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=120)** There are some variances to these diagrams, and sometimes the names of the diagrams are used interchangeably depending on the organization.
 >
-> **[2:07](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=127)** There are different ways to convey how users experience a flow and we can approach diagramming that in lots of different ways.
+> **[2:07](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=127)** There are different ways to convey how users experience a flow and we can approach [[Diagramming]] that in lots of different ways.
 >
 > **[2:14](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980&t=134)** When deciding to create a diagram, there are a few things you'll want to take into account.
 >
@@ -373,12 +368,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), ux (2), next (2), product (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), [[Diagramming]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - we (1)
 
-#### Diagrams in the design process
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/diagrams-in-the-design-process?u=76281980)
+#### [Diagrams in the design process](https://www.linkedin.com/learning/interaction-design-flow/diagrams-in-the-design-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,8 +423,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - in (1)
 
-#### Flow and process diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/flow-and-process-diagrams?u=76281980)
+#### [Flow and process diagrams](https://www.linkedin.com/learning/interaction-design-flow/flow-and-process-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,19 +481,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), product (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - ux (1)
 
-#### Components of a flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980)
+#### [Components of a flow diagram](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980&t=0)** - Diagrams can be created in design drawing tools like Sketch, Photoshop, or Illustrator.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980&t=6)** They can also be created in diagramming and prototyping tools like Axure or Lucidchart.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980&t=6)** They can also be created in [[Diagramming]] and [[Prototyping]] tools like Axure or Lucidchart.
 >
 > **[0:12](https://www.linkedin.com/learning/interaction-design-flow/components-of-a-flow-diagram?u=76281980&t=12)** It depends on your workflow and which tool works for you.
 >
@@ -569,8 +560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a flow map
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
+#### [Creating a flow map](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,12 +600,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1)
 > **Analogies:** picture (2), for example (1)
 > **Speakers:** - when (1)
 
-#### Identifying key tasks and activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/identifying-key-tasks-and-activities?u=76281980)
+#### [Identifying key tasks and activities](https://www.linkedin.com/learning/interaction-design-flow/identifying-key-tasks-and-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,12 +651,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - after (1)
 
-#### Constructing the flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/constructing-the-flow?u=76281980)
+#### [Constructing the flow](https://www.linkedin.com/learning/interaction-design-flow/constructing-the-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,13 +688,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), application (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - a (1)
 
-#### Designing the screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980)
+#### [Designing the screens](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980&t=61)** When all of the screens have been created, it's a good idea to prototype the flow.
 >
-> **[1:06](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980&t=66)** You can do this in Invision, or Axure, or any other prototyping tool by creating a simple click flow to make sure all the steps are in order, and the flow makes sense.
+> **[1:06](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980&t=66)** You can do this in Invision, or Axure, or any other [[Prototyping]] tool by creating a simple click flow to make sure all the steps are in order, and the flow makes sense.
 >
 > **[1:16](https://www.linkedin.com/learning/interaction-design-flow/designing-the-screens?u=76281980&t=76)** Once the basic flow has been created, you can go into more detail in some of the screen states.
 >
@@ -746,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
@@ -756,8 +740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering flow in UX
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)
+#### [Mastering flow in UX](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980&t=28)** I look forward to reading your thoughts and questions.
 >
-> **[0:31](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980&t=31)** You can check out my other LinkedIn Learning interaction design courses on prototyping and structure for more relevant material.
+> **[0:31](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980&t=31)** You can check out my other [[LinkedIn]] Learning interaction design courses on [[Prototyping]] and structure for more relevant material.
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980&t=38)** Also, feel free to follow me on LinkedIn or Twitter.
 >
@@ -779,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ux (2), [[LinkedIn]] (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Prototyping]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - thanks (1)
 

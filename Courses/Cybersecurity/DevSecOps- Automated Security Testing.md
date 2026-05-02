@@ -82,18 +82,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=0)** - [James] Hi, I'm James Wickett and I'm the Head of Research at Signal Sciences.
 >
-> **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=4)** Are you in the field of IT security and feeling out of touch in the DevOps era?
+> **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=4)** Are you in the field of IT security and feeling out of touch in the [[DevOps]] era?
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=8)** Or maybe you're a developer wanting to apply security testing in your software delivery pipeline.
+> **[0:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=8)** Or maybe you're a developer wanting to apply [[Security Testing]] in your software delivery pipeline.
 >
-> **[0:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=13)** I help DevOps and cloud-first teams defend web applications, microservices, and APIs.
+> **[0:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=13)** I help DevOps and cloud-first teams defend web applications, [[Microservices]], and APIs.
 >
 > **[0:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=18)** In this course you will see how security and DevOps fit together as well as some guidance on how to get started with automated security testing.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=33)** When you complete the course you will have a reusable library of tests that can be put in place immediately in your organization.
 >
-> **[0:39](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=39)** Towards the end of the course we will cover how to do security testing in a continuous integration and continuous delivery pipeline.
+> **[0:39](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=39)** Towards the end of the course we will cover how to do security testing in a [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
 > **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980&t=46)** There are a few tricks to getting this right.
 >
@@ -113,28 +112,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[DevOps]] (3), cloud (1), teams (1), web (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Security Testing]] (3), [[Microservices]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [james] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=0)** - [Instructor] This course walks you through building automated attacks that fit in a continuous delivery pipeline.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=0)** - [Instructor] This course walks you through building automated attacks that fit in a [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
-> **[0:05](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=5)** In the course we use Docker, Git, and work a lot on the command line.
+> **[0:05](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=5)** In the course we use Docker, [[Git]], and work a lot on the command line.
 >
 > **[0:09](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=9)** You don't have to be a pro at this, however, some familiarity with these concepts will be helpful for you.
 >
-> **[0:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=15)** Also, as you watch the course and you feel lost in continuous integration or continuous delivery concepts, I recommend checking out the DevOps foundation course in the library on that topic.
+> **[0:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=15)** Also, as you watch the course and you feel lost in [[Continuous Integration (CI)|continuous integration]] or continuous delivery concepts, I recommend checking out the [[DevOps]] foundation course in the library on that topic.
 >
-> **[0:25](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=25)** Additionally, if you find the portions of the course covering web applications security vulnerabilities, too fast or may even not deep enough, I recommend checking out programming foundations web security, right here, available in the library.
+> **[0:25](https://www.linkedin.com/learning/devsecops-automated-security-testing/what-you-should-know?u=76281980&t=25)** Additionally, if you find the portions of the course covering web applications security vulnerabilities, too fast or may even not deep enough, I recommend checking out [[Programming Foundations]] web security, right here, available in the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), web (2), [[Security]] (2), [[Git]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Git]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[DevOps]] (1), [[Programming Foundations]] (1)
 > **CLI Commands:** docker (1), git (1), find (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -144,8 +142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security and DevOps history in short
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980)
+#### [Security and DevOps history in short](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,13 +150,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=4)** Security is an outsider in most organizations.
 >
-> **[0:06](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=6)** Or, said another way, security is usually a silo much like operations was at the start of the DevOps movement.
+> **[0:06](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=6)** Or, said another way, security is usually a silo much like operations was at the start of the [[DevOps]] movement.
 >
 > **[0:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=12)** Now, you could pass over this statement and rush to implement solutions.
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=16)** However, that would be a mistake.
 >
-> **[0:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=18)** Instead, let's take a brief moment and build some understanding that will help us do the security testing in the modern context of software development.
+> **[0:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=18)** Instead, let's take a brief moment and build some understanding that will help us do the [[Security Testing]] in the modern context of [[Software Development]].
 >
 > **[0:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=27)** One of the reasons security worked itself into being a silo is that it was born out of the waterfall methodology for software development.
 >
@@ -203,11 +200,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=154)** In many organizations, security engineers have been tasked with passing the compliance standard for the organization.
 >
-> **[2:40](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=160)** While this is important work to pass audit, it often takes away from the day-to-day responsibilities of security engineering work.
+> **[2:40](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=160)** While this is important work to pass audit, it often takes away from the day-to-day responsibilities of [[Security Engineering]] work.
 >
 > **[2:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=167)** Compliance standards are hundreds of pages long and full of legalese and take months to complete.
 >
-> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=173)** This moves security away from providing actual security of the products and services the company provides, which is where the value is created.
+> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=173)** This moves security away from providing actual security of the [[Microsoft Products|products]] and services the company provides, which is where the value is created.
 >
 > **[3:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980&t=181)** Instead, security moves precious resources into passing audit and becoming lawyers.
 >
@@ -243,18 +240,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (32), management (4), [[DevOps]] (3), [[Software Development]] (2), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Security Testing]] (2), [[Software Development]] (2), [[Security Engineering]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Env Vars:** pci (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and DevOps for the first time
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980)
+#### [Security and DevOps for the first time](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=0)** - [Instructor] Security and DevOps working together has a lot of names, DevSecOps, DevOpsSec, Rugged DevOps.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=0)** - [Instructor] Security and [[DevOps]] working together has a lot of names, [[DevSecOps]], DevOpsSec, Rugged DevOps.
 >
 > **[0:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=8)** The important part is not the name.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=48)** Now that sounds good on paper, but it isn't as easy in practice.
 >
-> **[0:52](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=52)** One of the things I've seen work is to bring the security team together and ask, how can we help the overall software development pipeline go faster and be safer?
+> **[0:52](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=52)** One of the things I've seen work is to bring the security team together and ask, how can we help the overall [[Software Development]] pipeline go faster and be safer?
 >
 > **[1:02](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=62)** Once you have a list, find the lowest hanging fruit and use small projects to test out your ideas.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=135)** The next is develop, as you develop, are you writing tests for security?
 >
-> **[2:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=140)** Ask if you're writing tests for auth for handling tokens and for the OAuth top 10.
+> **[2:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=140)** Ask if you're writing tests for auth for handling [[Tokens]] and for the OAuth top 10.
 >
 > **[2:26](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=146)** Okay next is build, as you build your software, do you have security acceptance tests?
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=166)** Do you even know what is getting attacked?
 >
-> **[2:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=169)** This course is going to hone in on some of the middle sections of the pipeline in order to add automation to do security testing in a devops context.
+> **[2:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=169)** This course is going to hone in on some of the middle sections of the pipeline in order to add automation to do [[Security Testing]] in a devops context.
 >
 > **[2:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=177)** However, I want to stress that it is important to think from design to operation when evaluating the software supply chain.
 >
@@ -328,11 +324,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=191)** There are three main places I like to add feedback loops when getting started.
 >
-> **[3:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=195)** First is the Continuous Integration or Continuous Delivery system, CI or CD.
+> **[3:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=195)** First is the [[Continuous Integration (CI)|Continuous Integration]] or [[Continuous Delivery (CD)|Continuous Delivery]] system, CI or CD.
 >
 > **[3:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=200)** Sometimes it's referred to as the build system.
 >
-> **[3:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=203)** Popular CICD systems include Jenkins or Bamboo or SAS tools like Travis or CircleCI.
+> **[3:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=203)** Popular CICD systems include [[Jenkins]] or Bamboo or SAS tools like Travis or CircleCI.
 >
 > **[3:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=209)** If you're unfamiliar with these, there is a class I recorded with Ernest Mueller here in the library under the title [[DevOps Foundations- Continuous Delivery-Continuous Integration]] where we cover CICID in depth.
 >
@@ -358,7 +354,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=278)** Look for areas to instrument that allows you to have feedback to answer, am I under attack right now?
 >
-> **[4:44](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=284)** Using defensive tools like WAFTs or RASP for common web application security is a good start.
+> **[4:44](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=284)** Using defensive tools like WAFTs or RASP for common [[Web Application Security]] is a good start.
 >
 > **[4:50](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-for-the-first-time?u=76281980&t=290)** Adding instrumentation around authentication events like password resets and failed logins gives insight into account takeover attempts.
 >
@@ -372,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (5), next (5), ci (3), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Security Testing]] (3), [[DevSecOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **Env Vars:** cicd (2), sas (1), cicid (1), rasp (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (1), make (1), cd (1)
@@ -380,12 +376,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated security testing basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980)
+#### [Automated security testing basics](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=0)** - [Narrator] There is a parallel between Operations at the rise of DevOps and Security where it is today.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=0)** - [Narrator] There is a parallel between Operations at the rise of [[DevOps]] and Security where it is today.
 >
 > **[0:06](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=6)** When DevOps when first was starting there was some thinking that operations was going to go away as a discipline as developers took all the responsibility away from the operations team.
 >
@@ -437,7 +432,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=168)** I really like using Retire dot js in any web project that I work on.
 >
-> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=173)** It's simple to add and through my CI system it alerts me when I'm using a vulnerable version of JQuery or any other JavaScript library I might have bundled into my product.
+> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=173)** It's simple to add and through my CI system it alerts me when I'm using a vulnerable version of JQuery or any other [[JavaScript]] library I might have bundled into my product.
 >
 > **[3:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=181)** Now, there are several large commercial providers like: Sonatype, Black Duck, and Jfrog that plug in easily to source control and CI systems.
 >
@@ -461,13 +456,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=230)** Other times they run so long they end up crashing my laptop.
 >
-> **[3:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=233)** This is because most of them attempt to do all the phases of the penetration testing methodology.
+> **[3:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=233)** This is because most of them attempt to do all the phases of the [[Penetration Testing]] methodology.
 >
 > **[3:59](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=239)** They do Recon, Mapping, Discovery and Exploitation.
 >
 > **[4:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=244)** Dynamic tools can be run as a service through providers like Qualys or WhiteHat but I find them to be most useful when using open source attack tools and have them run on every code commit and every deploy.
 >
-> **[4:14](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=254)** Some open source tools to consider in this base, Arachni, Nikto and ZAP.
+> **[4:14](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=254)** Some open source tools to consider in this base, Arachni, [[Nikto]] and ZAP.
 >
 > **[4:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/automated-security-testing-basics?u=76281980&t=259)** We'll be using Arachni and others throughout this course.
 >
@@ -475,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[DevOps]] (4), application (4), ci (2), parallel (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[JavaScript]] (1), [[Penetration Testing]] (1), [[Nikto]] (1)
 > **CLI Commands:** find (4), grep (1)
 > **Env Vars:** sast (1), dast (1), iast (1), zap (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -484,12 +479,11 @@ created: 2026-05-02
 > **Warnings:** gotcha (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tips for security automation for DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980)
+#### [Tips for security automation for DevOps](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=0)** - [Instructor] Before we start writing tests, I want to cover four guiding principles that can help avoid a lot of the problems that can occur when doing security in a DevOps or Agile context.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=0)** - [Instructor] Before we start writing tests, I want to cover four guiding principles that can help avoid a lot of the problems that can occur when doing security in a [[DevOps]] or [[Agile Development|Agile]] context.
 >
 > **[0:09](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=9)** Let's get to them.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=16)** When it is slowed down or breaks, the team can't get work done or software released.
 >
-> **[0:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=22)** One of your key tasks is to instrument security testing without adding too much time to the build.
+> **[0:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=22)** One of your key tasks is to instrument [[Security Testing]] without adding too much time to the build.
 >
 > **[0:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=29)** How much time is too much?
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=143)** Expose as much security information as you can.
 >
-> **[2:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=147)** The ChatOps movement brought operational information from monitoring systems all the way to developers, via chat interfaces and Slack and HipChat or IRC.
+> **[2:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=147)** The ChatOps movement brought operational information from monitoring systems all the way to developers, via chat interfaces and [[Slack]] and HipChat or IRC.
 >
 > **[2:36](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=156)** Look for ways to expose discovered problems in your automated testing into the development communication platform of choice.
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=168)** If you end up using a CI system with security testing, then most of the setup work will be pretty easy.
 >
-> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=173)** Okay, on to the last word of advice.
+> **[2:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=173)** Okay, on to the last [[Microsoft Word|word]] of advice.
 >
 > **[2:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=177)** Have you ever had to fight with a library in Ruby?
 >
@@ -567,13 +561,13 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=203)** You're basically taking this off-the-shelf attack tooling and putting them inside of your testing environment.
 >
-> **[3:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=209)** It only makes sense to block these off from the rest of the system.
+> **[3:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=209)** It only makes sense to block these off from the [[Representational State Transfer (REST)|rest]] of the system.
 >
 > **[3:33](https://www.linkedin.com/learning/devsecops-automated-security-testing/tips-for-security-automation-for-devops?u=76281980&t=213)** With these tips, you can avoid a good portion of the common pitfalls that come with doing automated security testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), next (3), [[DevOps]] (1), [[Agile Development|Agile]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Security Testing]] (7), [[DevOps]] (1), [[Agile Development|Agile]] (1), [[Slack]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), ruby (1)
 > **Prerequisites:** before we start (1), setup (1)
 > **Env Vars:** irc (1)
@@ -587,8 +581,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the demo environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980)
+#### [Setting up the demo environment](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,13 +595,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=13)** If you have a Window's machine you can install Docker for Window's.
 >
-> **[0:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=16)** If you're running Linux then the docker community edition is what you want.
+> **[0:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=16)** If you're running [[Linux]] then the docker community edition is what you want.
 >
 > **[0:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=19)** And just follow the instructions for your distro.
 >
 > **[0:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=22)** Installation instructions and help are already available online at [docker.com](https://docker.com).
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=28)** This is a course on security testing and not on getting docker running.
+> **[0:28](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=28)** This is a course on [[Security Testing]] and not on getting docker running.
 >
 > **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=31)** We will continue on assuming you have docker installed already.
 >
@@ -620,9 +613,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=46)** In this video, we're going to set up our vulnerable web application Gruyere.
 >
-> **[0:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=51)** Gruyere is written in Python and is simple to get launched.
+> **[0:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=51)** Gruyere is written in [[Python (Programming Language)|Python]] and is simple to get launched.
 >
-> **[0:55](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=55)** In a browser I'm heading over to google-gruyere.[appspot.com](https://appspot.com).
+> **[0:55](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=55)** In a browser I'm heading over to [[Google]]-gruyere.[appspot.com](https://appspot.com).
 >
 > **[1:02](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=62)** One of the neat thing about gruyere is that you can run it for free online with no setup needed.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=79)** And you'll notice that if you go to googe-gruyere.[appspot.com/start](https://appspot.com/start) you will get your own version of gruyere running in Google appenger.
 >
-> **[1:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=89)** This starts a new instance with your own unique ID for you to discover application security vulernabilites inside of gruyere.
+> **[1:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=89)** This starts a new instance with your own unique ID for you to discover [[Application Security]] vulernabilites inside of gruyere.
 >
 > **[1:36](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=96)** Let's head over to the next page by clicking continue at the bottom of this one.
 >
@@ -644,9 +637,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=117)** In this class we won't be walking through this application but instead focus on creating automated security tests.
 >
-> **[2:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=123)** Our course has a main repo and you can access a zipped up version of it in the exercise files, or you can pull directly from the public git hub repo.
+> **[2:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=123)** Our course has a main repo and you can access a zipped up version of it in the exercise files, or you can pull directly from the public [[Git]] hub repo.
 >
-> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=132)** You can see it at [github.com/wicket/security-testing-class](https://github.com/wicket/security-testing-class).
+> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=132)** You can see it at [[[GitHub]].com/wicket/security-testing-class](https://github.com/wicket/security-testing-class).
 >
 > **[2:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=139)** I have git setup with by github keys and I'm switching to the terminal, and I'm just going to pull it down using git clone.
 >
@@ -722,11 +715,11 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=298)** Let me clear my screen here.
 >
-> **[5:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=301)** With these few commands you should be able to work with the rest of the labs.
+> **[5:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=301)** With these few commands you should be able to work with the [[Representational State Transfer (REST)|rest]] of the labs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), application (5), [[Git]] (5), [[Google]] (3), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[Git]] (5), [[Google]] (3), [[GitHub]] (3), [[Linux]] (2), [[Application Security]] (2)
 > **CLI Commands:** docker (17), make (8), git (5), python (1), find (1)
 > **Tools:** github (3), terminal (2), bash (2), command line (1)
 > **Prerequisites:** install (3), set up (2), setup (2), you'll need (1)
@@ -735,8 +728,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Web application security quick tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980)
+#### [Web application security quick tour](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,15 +766,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=59)** I'm clicking New Snippet.
 >
-> **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=61)** The site says it allows some HTML tags.
+> **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=61)** The site says it allows some [[HTML]] tags.
 >
 > **[1:05](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=65)** Hmm, this kind of looks like a good place to inject something if these Snippets get reflected back to the user.
 >
-> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=70)** Maybe we can bypass the filtering they have and insert a little JavaScript to get cross-site scripting working.
+> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=70)** Maybe we can bypass the filtering they have and insert a little [[JavaScript]] to get cross-site scripting working.
 >
 > **[1:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=76)** First, I'm just going to put in some plain HTML to see if that works.
 >
-> **[1:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=79)** I'm typing the HTML bold tag and the word test and we're just going to close that out.
+> **[1:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=79)** I'm typing the HTML bold tag and the [[Microsoft Word|word]] test and we're just going to close that out.
 >
 > **[1:24](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=84)** And we're going to see if this Snippet gets uploaded.
 >
@@ -848,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=219)** Inside Gruyere, there is also a command execution, information disclosure, privilege escalation, and much more.
 >
-> **[3:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=226)** I recommend spending some time working through some of the Codelab on Gruyere over at google-gruyere.[appspot.com](https://appspot.com).
+> **[3:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=226)** I recommend spending some time working through some of the Codelab on Gruyere over at [[Google]]-gruyere.[appspot.com](https://appspot.com).
 >
 > **[3:53](https://www.linkedin.com/learning/devsecops-automated-security-testing/web-application-security-quick-tour?u=76281980&t=233)** There's a complete guide with hints and solutions for finding all the vulnerabilities in Gruyere.
 >
@@ -856,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (8), [[HTML]] (7), [[JavaScript]] (4), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (4), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Env Vars:** html (7)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [localhost:8008](https://localhost:8008) (1), [appspot.com](https://appspot.com) (1)
@@ -865,8 +857,7 @@ created: 2026-05-02
 > **UI Navigation:** in the menu (1)
 > **Definitions:** is a  (1)
 
-#### Application security attack tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980)
+#### [Application security attack tools](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,11 +877,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=36)** Out of the box Arachni is a first class web application scanner.
 >
-> **[0:42](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=42)** It covers cross-site scripting, SQL injection, command execution, and more.
+> **[0:42](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=42)** It covers cross-site scripting, [[SQL]] injection, command execution, and more.
 >
 > **[0:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=47)** Let's take a look at it on the command line but to do this we need to get our Docket container built and ready to use.
 >
-> **[0:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=54)** Let's head over to [github.com](https://github.com) and look at the Gauntlt Docker repo.
+> **[0:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=54)** Let's head over to [[[GitHub]].com](https://github.com) and look at the Gauntlt Docker repo.
 >
 > **[0:58](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=58)** I'm typing [github.com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker) into my browser.
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=69)** Let's look at this Docker file.
 >
-> **[1:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=72)** Our Docker image uses Ubuntu.
+> **[1:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=72)** Our Docker image uses [[Ubuntu]].
 >
 > **[1:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=73)** It installs Ruby, and a bunch of other OS packages.
 >
@@ -914,7 +905,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=111)** I'll copy this statement here and head over to the command line.
 >
-> **[1:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=116)** Okay I'm typing git clone and then I'm pasting the line that I just copied.
+> **[1:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=116)** Okay I'm typing [[Git]] clone and then I'm pasting the line that I just copied.
 >
 > **[2:02](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=122)** Now that that's pulled down I'm ready to build my container.
 >
@@ -962,7 +953,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=229)** In fact I have another container gruyay running on 8008 also exported to localhost so they're able to talk across each other.
 >
-> **[3:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=236)** If you're using Windows there's a similar extension for Windows.
+> **[3:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=236)** If you're using [[Windows]] there's a similar extension for Windows.
 >
 > **[3:59](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=239)** It's docker.for.win.localhost.
 >
@@ -996,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (3), [[GitHub]] (3), web application (2), [[Windows]] (2), application (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Windows]] (2), [[SQL]] (1), [[Ubuntu]] (1), [[Git]] (1)
 > **CLI Commands:** docker (15), make (6), find (1), ruby (1), git (1)
 > **Tools:** command line (4), github (3)
 > **URLs:** [github.com](https://github.com) (3), [arachni-scanner.com](https://arachni-scanner.com) (1), [http://docker.for.mac.localhost:8008](http://docker.for.mac.localhost:8008) (1)
@@ -1005,8 +996,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Exercise Files:** clone the repo (1)
 
-#### Security test automation with Gauntlt
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980)
+#### [Security test automation with Gauntlt](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1074,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=138)** We call this the feature.
 >
-> **[2:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=140)** I like to split up my attack files into logical groupings around the purpose of the application and the types of security testing being worked on.
+> **[2:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=140)** I like to split up my attack files into logical groupings around the purpose of the application and the types of [[Security Testing]] being worked on.
 >
 > **[2:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=147)** A good feature in an attack file might read something like this feature.
 >
@@ -1118,7 +1108,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=204)** This is good practice as it makes it easy to add new scenarios later.
 >
-> **[3:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=209)** The stanza makes sure that the nmap is installed and it sets up a host variable.
+> **[3:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=209)** The stanza makes sure that the [[Nmap]] is installed and it sets up a host variable.
 >
 > **[3:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-test-automation-with-gauntlt?u=76281980&t=214)** Next, the scenario runs and it has a descriptor.
 >
@@ -1134,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), next (5), [[Security]] (3), open-source (1), teams (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[Nmap]] (1)
 > **CLI Commands:** ruby (3), make (1), find (1)
 > **Env Vars:** mit (1), xxs (1), url (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -1142,8 +1132,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Running your first automated attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980)
+#### [Running your first automated attack](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1144,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=17)** But for this course we are just going to use the docker version.
 >
-> **[0:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=20)** Throughout the rest of this course, you will see me call this as gauntlt-docker.
+> **[0:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=20)** Throughout the [[Representational State Transfer (REST)|rest]] of this course, you will see me call this as gauntlt-docker.
 >
 > **[0:25](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=25)** And if you installed via Ruby gems, just use it as gauntlt instead.
 >
@@ -1221,7 +1210,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=166)** I'm clearing my screen here.
 >
-> **[2:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=167)** I'm typing gauntlt-docker and then attacks, hello_world, hello-word.attack.
+> **[2:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=167)** I'm typing gauntlt-docker and then attacks, hello_world, hello-[[Microsoft Word|word]].attack.
 >
 > **[2:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/running-your-first-automated-attack?u=76281980&t=176)** Now we can see we have one scenario with one step and it passed.
 >
@@ -1283,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), generic (3), feature (2), [[Representational State Transfer (REST)|Rest]] (1), cd (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (14), make (2), ruby (2), cat (2), cd (1)
 > **Tools:** vim (2), command line (2)
 > **Code Identifiers:** hello_world (1)
@@ -1296,24 +1285,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application security vector: XSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980)
+#### [Application security vector: XSS](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=0)** - Cross-Site Scripting, shortened as XSS, is the perennial top vulnerability on the web-application security vulnerabilities list.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=0)** - Cross-Site Scripting, shortened as XSS, is the perennial top vulnerability on the web-[[Application Security]] vulnerabilities list.
 >
 > **[0:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=8)** Well, what is it?
 >
-> **[0:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=10)** OWASP provides this definition: Cross-Site Scripting attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted web sites.
+> **[0:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=10)** [[OWASP]] provides this definition: Cross-Site Scripting attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted web sites.
 >
 > **[0:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=20)** But what does that mean in practice?
 >
-> **[0:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=22)** It means that since the browser executes JavaScript, the attacker is trying to get their own JavaScript to run with the execution of the rest of the page.
+> **[0:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=22)** It means that since the browser executes [[JavaScript]], the attacker is trying to get their own JavaScript to run with the execution of the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[0:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=30)** The most simple XSS payloads is like this one here.
 >
-> **[0:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=34)** It opens inline script html tags, and fires an alert.
+> **[0:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=34)** It opens inline script [[HTML]] tags, and fires an alert.
 >
 > **[0:38](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=38)** When the attacker sees the alert return on their screen, they realize they have found a website that is vulnerable to Cross-Site Scripting.
 >
@@ -1331,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=76)** For reflected, they can be generated back to the user through search results or error messages.
 >
-> **[1:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=82)** Attackers will use links that reflect the malicious script back to their target, and this is a common approach for phishing campaigns through email.
+> **[1:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=82)** Attackers will use links that reflect the malicious script back to their target, and this is a common approach for [[Phishing]] campaigns through email.
 >
 > **[1:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980&t=90)** But you may be thinking, "Isn't this just JavaScript, and not really that big of a deal?"
 >
@@ -1371,18 +1359,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (12), [[JavaScript]] (6), web (3), application (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[OWASP]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[Phishing]] (1)
 > **Env Vars:** xss (2), owasp (2), dom (1)
 > **Definitions:** is a  (2), means that (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Speakers:** - cross (1)
 
-#### XSS attack automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980)
+#### [XSS attack automation](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=0)** - [Instructor] Security testing automation is a lot of fun, and now let's work with our first real automation test.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=0)** - [Instructor] [[Security Testing]] automation is a lot of fun, and now let's work with our first real automation test.
 >
 > **[0:06](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=6)** Here we'll use one of our scanners to test for cross-site scripting on our test site, Gruyere.
 >
@@ -1452,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=165)** I really prefer this approach to put the Gauntlet and all the tools that I want to use all in one container.
 >
-> **[2:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=171)** This makes it easy for Gauntlet to access everything it needs and adds isolation of these attack tools to the rest of our development system.
+> **[2:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=171)** This makes it easy for Gauntlet to access everything it needs and adds isolation of these attack tools to the [[Representational State Transfer (REST)|rest]] of our development system.
 >
 > **[2:59](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=179)** Okay, remember, the given step is all the assumptions for our test.
 >
@@ -1470,7 +1457,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=221)** And in this case we are talking to another docker container that is running the Gruyere application on port 8008 exposed on that host machine.
 >
-> **[3:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=229)** If you are using Windows, you would replace this with the host name docker.for.win.localhost.
+> **[3:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=229)** If you are using [[Windows]], you would replace this with the host name docker.for.win.localhost.
 >
 > **[3:56](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation?u=76281980&t=236)** You might have also noticed that I'm using some pipes here and I've got this table layout and I added some extra spacing and padding there.
 >
@@ -1540,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Scripting]] (3), [[Automation]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (7), make (5), mkdir (1), find (1)
 > **Ports:** port 8008 (2), :8008 (1)
 > **Definitions:** is a  (2)
@@ -1549,8 +1536,7 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Tools:** vim (1)
 
-#### XSS attack automation refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980)
+#### [XSS attack automation refactoring](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1644,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=232)** Okay, looks good.
 >
-> **[3:55](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=235)** Alright, now I get a JavaScript alert message showing that yes, indeed we found cross side scripting.
+> **[3:55](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=235)** Alright, now I get a [[JavaScript]] alert message showing that yes, indeed we found cross side scripting.
 >
 > **[4:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=241)** Now that we've used arachni and verified that it's a real cross side scripting problem, let's make sure to add this to our gauntlet attack.
 >
@@ -1666,7 +1652,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=252)** Let me clear my screen.
 >
-> **[4:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=253)** And we'll go back to our security testing class repo.
+> **[4:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=253)** And we'll go back to our [[Security Testing]] class repo.
 >
 > **[4:17](https://www.linkedin.com/learning/devsecops-automated-security-testing/xss-attack-automation-refactoring?u=76281980&t=257)** And I'm going to open up attacks, xss, xss.attack.
 >
@@ -1702,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (11), [[Security]] (3), web (2), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[JavaScript]] (1)
 > **Env Vars:** xss (7), url (3)
 > **CLI Commands:** make (3), docker (3), find (1)
 > **Definitions:** is a  (2)
@@ -1711,12 +1697,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Analogies:** imagine (1)
 
-#### SQLi attack automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980)
+#### [SQLi attack automation](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=0)** - [Instructor] SQL injection, often abbreviated SQLi, and pronounced as SQLeye, is a common web application vulnerability, that is probably not unknown to you.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=0)** - [Instructor] [[SQL]] injection, often abbreviated SQLi, and pronounced as SQLeye, is a common web application vulnerability, that is probably not unknown to you.
 >
 > **[0:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=10)** It occurs when a user is able to add or inject their own SQL into the application.
 >
@@ -1724,11 +1709,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=24)** When you see news articles with thousands or millions of records being dumped, SQLi is probably the attack vector behind the scenes.
 >
-> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=31)** [OWASP.org](https://OWASP.org) has several examples, but this is probably the easiest to look at, to get an idea for SQL injection.
+> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=31)** [[[OWASP]].org](https://OWASP.org) has several examples, but this is probably the easiest to look at, to get an idea for SQL injection.
 >
 > **[0:38](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=38)** Here we're seeing select everything from the items table, with a specific owner and a certain item name, and it's taking fields in from a form.
 >
-> **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=46)** When all of the items get selected, instead of just the intended one, this is because the single quote closed out with the SQL, and the rest devaluates to a true statement.
+> **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=46)** When all of the items get selected, instead of just the intended one, this is because the single quote closed out with the SQL, and the [[Representational State Transfer (REST)|rest]] devaluates to a true statement.
 >
 > **[0:55](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=55)** This could logically be represented as select everything from the items table.
 >
@@ -1742,9 +1727,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=81)** This brings us to testing for SQL injection.
 >
-> **[1:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=83)** There is a tool that is a favorite of security engineers, penetration testers and hackers alike, sqlmap.
+> **[1:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=83)** There is a tool that is a favorite of security engineers, penetration testers and hackers alike, [[SQLmap]].
 >
-> **[1:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=90)** Sqlmap is an open source tool written in Python, that automates looking for SQL injection flaws and taking over of database servers.
+> **[1:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=90)** Sqlmap is an open source tool written in [[Python (Programming Language)|Python]], that automates looking for SQL injection flaws and taking over of database servers.
 >
 > **[1:38](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=98)** We can spend days talking about sqlmap with the number of options it has.
 >
@@ -1772,7 +1757,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=147)** Next, you can see our feature.
 >
-> **[2:28](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=148)** The feature says, run sqlmap against our target and test any web forms found on the page.
+> **[2:28](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=148)** The feature says, run sqlmap against our target and test any web [[Forms]] found on the page.
 >
 > **[2:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=154)** And our scenario includes a given step, it says, given sqlmap is installed.
 >
@@ -1848,7 +1833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (15), database (6), [[Forms]] (4), next (3), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[SQLmap]] (16), [[SQL]] (15), [[Forms]] (4), [[OWASP]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (15), owasp (2), url (2), arachne (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** python (2), make (1), docker (1)
@@ -1856,8 +1841,7 @@ created: 2026-05-02
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating a fuzzer
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980)
+#### [Automating a fuzzer](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,7 +1859,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=52)** These are just a few scenarios of how fuzzers are used.
 >
-> **[0:58](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=58)** In this course, we are going to use the open source tool DIRB.
+> **[0:58](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=58)** In this course, we are going to use the open source tool [[Dirb]].
 >
 > **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=61)** DIRB is a fast, lightweight web fuzzer written in C.
 >
@@ -1905,7 +1889,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=122)** I also use the -f flag, which helps DIRB handle 404 pages a little more gracefully.
 >
-> **[2:07](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=127)** The other two most common flags I use are the -capital x, to add an extension for the application I'm testing, for example like a php extension, and there's also a -n flag, which you can use to say ignore certain HTTP codes, like 301s, or 500s.
+> **[2:07](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=127)** The other two most common flags I use are the -capital x, to add an extension for the application I'm testing, for example like a [[PHP]] extension, and there's also a -n flag, which you can use to say ignore certain HTTP codes, like 301s, or 500s.
 >
 > **[2:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=142)** At the bottom of this help output, there are a few examples for your reference.
 >
@@ -1947,7 +1931,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=248)** I'm typing cat and then ./vulns/test.txt.
 >
-> **[4:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=252)** This is a very short list, with variations of the word test, testing, and demo in English as well as in Spanish.
+> **[4:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=252)** This is a very short list, with variations of the [[Microsoft Word|word]] test, testing, and demo in English as well as in Spanish.
 >
 > **[4:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=260)** Now, I like this, because most organizations have a test portion of their application, or test data.
 >
@@ -1999,7 +1983,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=391)** Now, before you run this, make sure Gruyere is running.
 >
-> **[6:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=394)** You can do that by typing make space Gruyere -start from the main security testing class repo.
+> **[6:34](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=394)** You can do that by typing make space Gruyere -start from the main [[Security Testing]] class repo.
 >
 > **[6:39](https://www.linkedin.com/learning/devsecops-automated-security-testing/automating-a-fuzzer?u=76281980&t=399)** I already have it running for me, so let's just go ahead and run the attack.
 >
@@ -2011,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (3), cd (3), web (2), next (2)
+> **Frameworks & Libraries:** [[Dirb]] (20), [[PHP]] (1), [[Microsoft Word|Word]] (1), [[Security Testing]] (1)
 > **Env Vars:** dirb (19), http (1), url (1), iis (1)
 > **CLI Commands:** make (5), docker (3), cd (3), find (3), ls (2)
 > **File Paths:** common.txt (4), test.txt (2), vulns/test.txt (1), vuln/text.txt (1)
@@ -2020,8 +2004,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Tools:** vim (1)
 
-#### Network testing on the fly
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980)
+#### [Network testing on the fly](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,11 +2014,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=7)** An easy way to make sure you don't have regressions or new ports being opened up is through network validation.
 >
-> **[0:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=12)** Network validation is simple, and fun, with Nmap, an open source tool, which is short for Network mapper.
+> **[0:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=12)** Network validation is simple, and fun, with [[Nmap]], an open source tool, which is short for [[Nmap|Network mapper]].
 >
 > **[0:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=19)** Nmap is incredibly flexible, and able to do much more than check ports.
 >
-> **[0:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=23)** It can also identify operating systems, and can fingerprint loads of things, from a MySQL database to a WordPress instance.
+> **[0:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=23)** It can also identify operating systems, and can fingerprint loads of things, from a [[MySQL]] database to a [[WordPress]] instance.
 >
 > **[0:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=30)** It does this through the Nmap Scripting Engine, referred to as the NSE.
 >
@@ -2083,7 +2066,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=128)** Until now, we've been happily looking at our output using one-to-one matches.
 >
-> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=132)** But Gauntlt actually uses regex for any parsing step that has the word "match" in it.
+> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=132)** But Gauntlt actually uses regex for any parsing step that has the [[Microsoft Word|word]] "match" in it.
 >
 > **[2:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/network-testing-on-the-fly?u=76281980&t=138)** Let's change our output to regex.
 >
@@ -2157,7 +2140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[MySQL]] (1), database (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (17), [[Microsoft Word|Word]] (3), [[Nmap|Network mapper]] (1), [[MySQL]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (5), docker (2), cat (2), mysql (1), cd (1)
 > **Env Vars:** xml (3), nse (2)
 > **Ports:** port 443 (2), port 8008 (1), port 80 (1)
@@ -2166,28 +2149,27 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** vim (1)
 
-#### "Be mean to your code" in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980)
+#### ["Be mean to your code" in practice](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=0)** - [Instructor] So far, we've created automation to run attacks against our site.
 >
-> **[0:05](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=5)** These attacks have been through the use of tools like the network tester Nmap, and the application vulnerability scanner, Arachni.
+> **[0:05](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=5)** These attacks have been through the use of tools like the network tester [[Nmap]], and the application vulnerability scanner, Arachni.
 >
-> **[0:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=13)** We have automated a web fuzzer, and looked at several application vulnerability classes like cross edge scripting and SQL injection.
+> **[0:13](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=13)** We have automated a web fuzzer, and looked at several application vulnerability classes like cross edge scripting and [[SQL]] injection.
 >
 > **[0:20](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=20)** Along with all this, we've used Gauntlt to wrap these testing tools so they fit better in a testing workflow.
 >
 > **[0:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=27)** Gauntlt promotes the idea of "be mean to your code."
 >
-> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=31)** This harnesses application attack tooling inside of the software development life cycle.
+> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=31)** This harnesses application attack tooling inside of the [[Software Development]] life cycle.
 >
-> **[0:36](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=36)** In the recently released book, Agile Application Security, there's a dedicated chapter on this topic, and they cover Gauntlt.
+> **[0:36](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=36)** In the recently released book, [[Agile Development|Agile]] [[Application Security]], there's a dedicated chapter on this topic, and they cover Gauntlt.
 >
 > **[0:43](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=43)** Though not as in-depth as we've gotten here.
 >
-> **[0:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=47)** In the book, the authors share my sentiment on how to do security testing.
+> **[0:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=47)** In the book, the authors share my sentiment on how to do [[Security Testing]].
 >
 > **[0:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=51)** They write, "The goal should be to come up with "a set of automated tests that probe and check "security configurations and runtime system behavior "for security features that will execute "every time the system is built "and every time it is deployed."
 >
@@ -2263,7 +2245,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=226)** You can use this to emit formatted output.
 >
-> **[3:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=229)** Let's try it out and generate some HTML output.
+> **[3:49](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=229)** Let's try it out and generate some [[HTML]] output.
 >
 > **[3:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=234)** I'm going to call my hello_world attack here.
 >
@@ -2307,19 +2289,19 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=318)** The exercise files included with this course are one way to get started.
 >
-> **[5:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=322)** However, you can find more examples of attack files on github in two places.
+> **[5:22](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=322)** However, you can find more examples of attack files on [[GitHub]] in two places.
 >
 > **[5:26](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=326)** The Gauntlt main repo, and the Gauntlt demo repo.
 >
 > **[5:30](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=330)** These are linked in the course handout, as well.
 >
-> **[5:32](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=332)** You will find some of the tools we've already covered, but there are also attack files using SSLyze, Curl, custom Python scripts, and more.
+> **[5:32](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=332)** You will find some of the tools we've already covered, but there are also attack files using SSLyze, Curl, custom [[Python (Programming Language)|Python]] scripts, and more.
 >
 > **[5:39](https://www.linkedin.com/learning/devsecops-automated-security-testing/be-mean-to-your-code-in-practice?u=76281980&t=339)** Taking these and adding them to your own library is a good next step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), application (4), [[HTML]] (4), web (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Nmap]] (1), [[SQL]] (1), [[Software Development]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), docker (3), curl (1), python (1)
 > **Env Vars:** html (2), sql (1)
 > **Tools:** command line (2), github (1)
@@ -2333,16 +2315,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shift left and the DevOps way
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980)
+#### [Shift left and the DevOps way](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=0)** - [Instructor] Continuous delivery has made a huge impact on business today.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=0)** - [Instructor] [[Continuous Delivery (CD)|Continuous delivery]] has made a huge impact on business today.
 >
 > **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=4)** It seems everyone is working on delivering software faster.
 >
-> **[0:07](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=7)** Even though continuous delivery hit the scene after DevOps, it soon came to be one of the hallmarks of doing DevOps.
+> **[0:07](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=7)** Even though continuous delivery hit the scene after [[DevOps]], it soon came to be one of the hallmarks of doing DevOps.
 >
 > **[0:14](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=14)** At Signal Sciences, where I work, we deploy 10 to 15 times per day.
 >
@@ -2358,13 +2339,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=51)** But since we're a security company, how embarrassing would it be if we shipped something like cross site scripting out the door?
 >
-> **[0:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=57)** Security testing on every code commit and deploy is critical for us.
+> **[0:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=57)** [[Security Testing]] on every code commit and deploy is critical for us.
 >
 > **[1:02](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=62)** I helped build the deployment pipeline at Signal Sciences, and in it we have Gauntlt in a Docker container to run test just like the ones we've build in this course.
 >
 > **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=70)** This is shifting left.
 >
-> **[1:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=72)** In a waterfall software development life cycle, all the testing gets done at the far right.
+> **[1:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=72)** In a waterfall [[Software Development]] life cycle, all the testing gets done at the far right.
 >
 > **[1:17](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=77)** Moving tests closer to when the code is being written is the shift left.
 >
@@ -2372,11 +2353,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=87)** There is one issue here.
 >
-> **[1:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=89)** You might have noticed in each test we set up a profile and then added our special host name available from Docker, that's the Docker.for.mac.localhost, or if you're Windows it would be .win in there.
+> **[1:29](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=89)** You might have noticed in each test we set up a profile and then added our special host name available from Docker, that's the Docker.for.mac.localhost, or if you're [[Windows]] it would be .win in there.
 >
 > **[1:40](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=100)** That's fine for local development and testing, and working on my host machine.
 >
-> **[1:44](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=104)** However, your CICD system is probably a Linux system, so what do you do?
+> **[1:44](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=104)** However, your CICD system is probably a [[Linux]] system, so what do you do?
 >
 > **[1:50](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980&t=110)** Gauntlt has environment variables that you can set in the config.
 >
@@ -2402,7 +2383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (2), web (2), business (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (2), [[Security Testing]] (1), [[Software Development]] (1), [[Windows]] (1)
 > **File Paths:** cucumber.yml (4)
 > **Env Vars:** cicd (2), sas (1), target_host (1)
 > **CLI Commands:** docker (3)
@@ -2411,18 +2392,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security testing in CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980)
+#### [Security testing in CI/CD](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=0)** - [Instructor] For continuous integration for the course, I decided to go with Travis CI.
+> **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=0)** - [Instructor] For [[Continuous Integration (CI)|continuous integration]] for the course, I decided to go with Travis CI.
 >
-> **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=4)** Travis CI was the first to turn continuous integration into a software as a service offering, and I've used it for many years.
+> **[0:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=4)** Travis CI was the first to turn continuous integration into a [[SaaS|software as a service]] offering, and I've used it for many years.
 >
 > **[0:11](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=11)** I really like Travis CI as they're a software as a service offering, but they're free for open-source projects to use.
 >
-> **[0:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=18)** At Signal Sciences, we use a similar setup that I'm going to show here, but we do it all in Jenkins.
+> **[0:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=18)** At Signal Sciences, we use a similar setup that I'm going to show here, but we do it all in [[Jenkins]].
 >
 > **[0:23](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=23)** The actual CI system is not that important as long as it supports using Docker containers.
 >
@@ -2438,7 +2418,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=57)** This all looks great, but how is it all set up?
 >
-> **[1:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=60)** Let's head over to our security testing class repo in GitHub.
+> **[1:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=60)** Let's head over to our [[Security Testing]] class repo in [[GitHub]].
 >
 > **[1:04](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-testing-in-ci-cd?u=76281980&t=64)** This is at [github.com/wickett/securitytestingclass](https://github.com/wickett/securitytestingclass).
 >
@@ -2526,7 +2506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (13), [[Security]] (5), [[GitHub]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[SaaS|Software as a service]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[SaaS|Software as a service]] (2), [[Jenkins]] (2), [[Security Testing]] (2)
 > **CLI Commands:** docker (7), make (1)
 > **File Paths:** travis.yml (2), scripts/travis-config.sh (1), travis-config.sh (1), config/cucumber.yml (1)
 > **Tools:** github (3), command line (1)
@@ -2540,14 +2520,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start automating security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980)
+#### [Start automating security testing](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=0)** - Now you have the basics down, where do you go from here?
 >
-> **[0:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=3)** If security testing and automation was just about using a new fangled tool, then this would be easy.
+> **[0:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=3)** If [[Security Testing]] and automation was just about using a new fangled tool, then this would be easy.
 >
 > **[0:08](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=8)** However, this effort is a cultural shift, and requires engaging the teams responsible for building, and delivering your application.
 >
@@ -2561,13 +2540,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=43)** This all comes together with focusing on collaboration.
 >
-> **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=46)** Development, security and operations collaborate together on adding security to the software development life cycle, and delivery pipeline.
+> **[0:46](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=46)** Development, security and operations collaborate together on adding security to the [[Software Development]] life cycle, and delivery pipeline.
 >
 > **[0:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=54)** I find that most people doing the form of testing that I've recommended in this course, end up building a suite of tests inside their organization.
 >
-> **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=61)** These tests are often reusable between teams because the projects share development languages, data back-ins, and are deployed on the same cloud infrastructure.
+> **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=61)** These tests are often reusable between teams because the projects share development languages, data back-ins, and are deployed on the same [[Cloud Infrastructure]].
 >
-> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=70)** Often, these are even being employed by the same people as agile and dev-ops principles move developers to the work.
+> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=70)** Often, these are even being employed by the same people as [[Agile Development|agile]] and dev-ops principles move developers to the work.
 >
 > **[1:17](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980&t=77)** All of this lends itself favorably to a reusable suite of security tests.
 >
@@ -2639,7 +2618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), [[Automation]] (4), teams (4), application (4), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (7), [[Software Development]] (1), [[Cloud Infrastructure]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (8), make (2)
 > **Env Vars:** ssl (1), pdf (1)
 > **Definitions:** is a  (2)
@@ -2647,8 +2626,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - now (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,17 +2648,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=40)** My friend Shannon Lietz is fond of saying, safer software sooner.
 >
-> **[0:45](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=45)** Throughout the course, we have built up some automated security testing, and through the exercise files and the course handout you have resources available to dig deeper into many of the topics we've covered here.
+> **[0:45](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=45)** Throughout the course, we have built up some automated [[Security Testing]], and through the exercise files and the course handout you have resources available to dig deeper into many of the topics we've covered here.
 >
 > **[0:57](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=57)** One of the best ways to get automating is to spend time using the tools we worked with in the course but in new ways.
 >
 > **[1:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=63)** Using more of their features or scoping them to pinpoint issues that are relevant to your technology stack.
 >
-> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=70)** If you're new to DevOps I encourage you to look here in the library for some other resources.
+> **[1:10](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=70)** If you're new to [[DevOps]] I encourage you to look here in the library for some other resources.
 >
 > **[1:15](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=75)** Ernest Mueller and I have recorded several other courses on the subject of DevOps.
 >
-> **[1:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=79)** If you find yourself needing more help with CI/CD efforts, I encourage you to look at the course DevOps Foundations Continuous Delivery and Continuous Integration.
+> **[1:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=79)** If you find yourself needing more help with CI/CD efforts, I encourage you to look at the course DevOps Foundations [[Continuous Delivery (CD)|Continuous Delivery]] and [[Continuous Integration (CI)|Continuous Integration]].
 >
 > **[1:28](https://www.linkedin.com/learning/devsecops-automated-security-testing/next-steps?u=76281980&t=88)** If you need more of a primer on DevOps then be sure to check out DevOps Foundations.
 >
@@ -2692,7 +2670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[DevOps]] (6), next (1), ci (1), cd (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Security Testing]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** find (1), cd (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)

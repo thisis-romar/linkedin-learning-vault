@@ -105,18 +105,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAIOps foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
+#### [GenAIOps foundations](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=0)** - [Kumaran] Applications using generative AI are becoming increasingly popular.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=0)** - [Kumaran] Applications using [[Generative AI]] are becoming increasingly popular.
 >
 > **[0:05](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=5)** To build such applications in a systematic and efficient manner, we need GenAIOps.
 >
 > **[0:12](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=12)** I will take you through an overview of the concepts and elements of GenAIOps.
 >
-> **[0:18](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=18)** We will discuss the Gen AI application lifecycle and how it relates to DevOps and MLOps.
+> **[0:18](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=18)** We will discuss the Gen AI application lifecycle and how it relates to [[DevOps]] and [[MLOps]].
 >
 > **[0:25](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980&t=25)** We will then discuss the essential processes for building and deploying Gen AI applications.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (1), application (1), [[DevOps]] (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[DevOps]] (1), [[MLOps]] (1)
 > **Speakers:** - [kumaran] (1)
 
 
@@ -134,16 +133,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The machine learning lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
+#### [The machine learning lifecycle](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=0)** - [Narrator] Let's begin the course by reviewing the basic concepts of the machine learning lifecycle.
 >
-> **[0:07](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=7)** Machine learning is like software development.
+> **[0:07](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=7)** Machine learning is like [[Software Development]].
 >
-> **[0:10](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=10)** In software development, we go through a structured process of requirements analysis, design, development, testing, deployment, and operations.
+> **[0:10](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=10)** In software development, we go through a structured process of [[Requirements Analysis]], design, development, testing, deployment, and operations.
 >
 > **[0:22](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=22)** Similarly, machine learning also has a structured lifecycle that goes from concept to production.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=113)** Training data is collected from available resources.
 >
-> **[1:57](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=117)** Raw training data goes through feature engineering to get it ready for model training.
+> **[1:57](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=117)** Raw training data goes through [[Feature Engineering]] to get it ready for model training.
 >
 > **[2:02](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980&t=122)** Then model training kicks in.
 >
@@ -209,16 +207,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), application (6), [[Software Development]] (2), [[Feature Engineering]] (2), [[Requirements Analysis]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Feature Engineering]] (2), [[Requirements Analysis]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The advent of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980)
+#### [The advent of generative AI](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=0)** - [Instructor] The ML world has been revolutionized with the advent of generative AI, or GenAI for short.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=0)** - [Instructor] The ML world has been revolutionized with the advent of [[Generative AI]], or GenAI for short.
 >
 > **[0:07](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=7)** Generative AI is a subset of machine learning that deals with generating new content.
 >
@@ -230,15 +227,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=27)** GenAI models are driving a new class of applications, namely, GenAI applications.
 >
-> **[0:33](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=33)** These applications leverage large language models, or LLMs for short.
+> **[0:33](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=33)** These applications leverage [[Large Language Models (LLM)|large language models]], or LLMs for short.
 >
-> **[0:39](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=39)** They also leverage other GenAI technologies, like retrieval-augmented generation and agents, to build enterprise solutions.
+> **[0:39](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=39)** They also leverage other GenAI technologies, like [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] and agents, to build enterprise solutions.
 >
-> **[0:48](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=48)** The lifecycle of GenAI applications are similar to other software products.
+> **[0:48](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=48)** The lifecycle of GenAI applications are similar to other software [[Microsoft Products|products]].
 >
 > **[0:55](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=55)** There are, of course, key differences, which we will address in this course.
 >
-> **[1:00](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=60)** Building GenAI applications require multi-team collaboration, including data science, machine learning, and engineering.
+> **[1:00](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=60)** Building GenAI applications require multi-[[Team Collaboration]], including [[Data Science]], machine learning, and engineering.
 >
 > **[1:09](https://www.linkedin.com/learning/genaiops-foundations/the-advent-of-gen-ai?u=76281980&t=69)** A coordinated execution plan is needed to execute all facets of the application, including data, models, and software code.
 >
@@ -250,21 +247,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1), [[Team Collaboration]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### DevOps, MLOps and GenAIOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980)
+#### [DevOps, MLOps and GenAIOps](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=0)** - [Instructor] We hear the terms DevOps, MLOps, and GenAIOps when talking about processes for software engineering and machine learning.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=0)** - [Instructor] We hear the terms [[DevOps]], [[MLOps]], and GenAIOps when talking about processes for software engineering and machine learning.
 >
 > **[0:10](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=10)** Let's review the definitions and differences between them.
 >
-> **[0:14](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=14)** DevOps is the foundation for software development.
+> **[0:14](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=14)** DevOps is the foundation for [[Software Development]].
 >
 > **[0:18](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=18)** It is critical for organizations building software.
 >
@@ -284,13 +280,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=58)** DevOps improves efficiency of software development, deployment, and operations.
 >
-> **[1:05](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=65)** Machine learning operations, or MLOps for short, and generative AI operations or GenAIOps for short are built upon the foundations of machine learning.
+> **[1:05](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=65)** Machine learning operations, or MLOps for short, and [[Generative AI]] operations or GenAIOps for short are built upon the foundations of machine learning.
 >
 > **[1:17](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=77)** So what exactly are the differences between the three?
 >
 > **[1:22](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=82)** Let's begin with the list of software activities covered in DevOps.
 >
-> **[1:27](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=87)** DevOps deals with development of software integration between software functions, testing, automation, and deployment.
+> **[1:27](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=87)** DevOps deals with development of [[Software Integration]] between software functions, testing, automation, and deployment.
 >
 > **[1:35](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=95)** It also covers monitoring of deployed software, collecting tracers, and measuring metrics.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=109)** In addition, it also covers machine learning-specific activities.
 >
-> **[1:54](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=114)** This includes feature engineering for training data, automating ML with AutoML, data and model governance, experiment tracking, and model monitoring.
+> **[1:54](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=114)** This includes [[Feature Engineering]] for training data, automating ML with AutoML, data and model governance, experiment tracking, and model monitoring.
 >
 > **[2:07](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=127)** GenAIOps builds upon MLOps.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=135)** In addition, it covers GenAI-specific activities too.
 >
-> **[2:20](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=140)** This includes model fine-tuning, prompt engineering, synthetic data generation, chain and agent management, embeddings management, guardrails for GenAI, and integrating tools for agents.
+> **[2:20](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=140)** This includes model fine-tuning, [[Prompt Engineering]], synthetic data generation, chain and agent management, embeddings management, guardrails for GenAI, and integrating tools for agents.
 >
 > **[2:35](https://www.linkedin.com/learning/genaiops-foundations/devops-mlops-genaiops?u=76281980&t=155)** In this course, we will focus on the GenAI-specific activities.
 >
@@ -316,13 +312,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (12), [[MLOps]] (6), data (3), [[Software Development]] (2), management (2)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[MLOps]] (6), [[Software Development]] (2), [[Generative AI]] (1), [[Software Integration]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### The GenAIOps lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980)
+#### [The GenAIOps lifecycle](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=6)** This is the GenAI Lifecycle that drives GenAIOps.
 >
-> **[0:11](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=11)** As discussed in the previous video, the GenAIOps lifecycle depends upon the MLOps lifecycle.
+> **[0:11](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=11)** As discussed in the previous video, the GenAIOps lifecycle depends upon the [[MLOps]] lifecycle.
 >
 > **[0:19](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=19)** It adds unique capabilities and activities that are specific to Gen AI.
 >
@@ -338,13 +333,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=32)** Let's discuss the GenAIOps Lifecycle now.
 >
-> **[0:35](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=35)** Similar to machine learning, the GenAIOps lifecycle also starts with the requirements analysis for the application or project.
+> **[0:35](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=35)** Similar to machine learning, the GenAIOps lifecycle also starts with the [[Requirements Analysis]] for the application or project.
 >
 > **[0:44](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=44)** In most Gen AI Projects, pre-trained Gen AI models are used.
 >
 > **[0:49](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=49)** They need to be evaluated or fine tuned for the project.
 >
-> **[0:54](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=54)** We need data for such fine tuning and evaluation.
+> **[0:54](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=54)** We need data for such [[Fine Tuning]] and evaluation.
 >
 > **[0:58](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=58)** If real world data is not available or is limited, synthetic data generation is used to augment this data set.
 >
@@ -354,21 +349,21 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=83)** When the model's performance is found satisfactory, it is then promoted for application use.
 >
-> **[1:29](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=89)** Prompt engineering is a key activity in GenAIOps that is required to adapt the model to perform the tasks required by the Gen AI application.
+> **[1:29](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=89)** [[Prompt Engineering]] is a key activity in GenAIOps that is required to adapt the model to perform the tasks required by the Gen AI application.
 >
 > **[1:40](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=100)** In addition, applications may use knowledge bases.
 >
 > **[1:44](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=104)** Source data needs to be processed and embedding representations need to be created.
 >
-> **[1:50](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=110)** These are then stored in vector or graph databases for future use.
+> **[1:50](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=110)** These are then stored in vector or graph [[Databases]] for future use.
 >
-> **[1:55](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=115)** Similarly, AI agents may need to be developed for the specific use case.
+> **[1:55](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=115)** Similarly, [[AI Agents]] may need to be developed for the specific use case.
 >
 > **[2:01](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=121)** LLM chains may need to be built to execute workflows.
 >
 > **[2:05](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=125)** The model, databases, agents and chains are then integrated and deployed together as an application bundle.
 >
-> **[2:13](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=133)** To protect the application and ensure ethics and compliance, guardrails may need to be added to the deployment.
+> **[2:13](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=133)** To protect the application and ensure [[Ethics]] and compliance, guardrails may need to be added to the deployment.
 >
 > **[2:21](https://www.linkedin.com/learning/genaiops-foundations/the-genaiops-lifecycle?u=76281980&t=141)** The application, along with its models and data, is used for serving and processing user requests.
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), data (9), ai (7), [[Fine Tuning]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Databases]] (2), [[MLOps]] (1), [[Requirements Analysis]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
 > **Cross-References:** previous video (1)
@@ -394,14 +389,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning genAI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980)
+#### [Planning genAI projects](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=0)** - [Narrator] What does it take to plan GenAI projects?
 >
-> **[0:04](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=4)** Planning and execution of GenAI projects closely resembles that of regular software projects.
+> **[0:04](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=4)** Planning and execution of GenAI projects closely resembles that of regular [[Software Projects]].
 >
 > **[0:12](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=12)** There are some key special considerations that need to be implemented.
 >
@@ -423,25 +417,25 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=51)** Requirements for a probabilistic model need to consider the expected range of results and how errors, expectations, and unexpected behavior will be handled.
 >
-> **[1:02](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=62)** Executing a GenAI project needs a skillset that covers machine learning, data science, software engineering, and DevOps.
+> **[1:02](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=62)** Executing a GenAI project needs a skillset that covers machine learning, [[Data Science]], software engineering, and [[DevOps]].
 >
 > **[1:11](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=71)** Skill requirements need to be assessed and a team needs to be assembled with the required skills.
 >
-> **[1:18](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=78)** The user experience for GenAI applications is unique because it involves a lot of unstructured content.
+> **[1:18](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=78)** The [[User Experience (UX)|user experience]] for GenAI applications is unique because it involves a lot of unstructured content.
 >
 > **[1:26](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=86)** Chances of user errors are higher.
 >
 > **[1:29](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=89)** Results need to be presented in a usable manner.
 >
-> **[1:32](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=92)** GenAI projects use several third-party products.
+> **[1:32](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=92)** GenAI projects use several third-party [[Microsoft Products|products]].
 >
-> **[1:36](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=96)** This includes foundation models, ML hosting platforms, vector databases, and agentic tool integrations.
+> **[1:36](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=96)** This includes foundation models, ML hosting platforms, [[Vector Databases]], and agentic tool integrations.
 >
 > **[1:44](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=104)** Managing these third-party integrations, their use, and cost is a key part of GenAI project planning.
 >
-> **[1:52](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=112)** An enterprise GenAI project needs to conform to the responsible AI policies and processes of the enterprise.
+> **[1:52](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=112)** An enterprise GenAI project needs to conform to the [[Responsible AI]] policies and processes of the enterprise.
 >
-> **[2:00](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=120)** This includes abuse, ethics, and safety considerations.
+> **[2:00](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=120)** This includes abuse, [[Ethics]], and safety considerations.
 >
 > **[2:05](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=125)** GenAI planning needs to factor in these requirements and ensure that they are incorporated into project execution.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=148)** Similar to software projects, GenAI projects also have metrics.
 >
-> **[2:33](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=153)** This includes model metrics like perplexity, software metrics like latency, and business metrics like self-service rates.
+> **[2:33](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=153)** This includes model metrics like perplexity, software metrics like latency, and [[Business Metrics]] like self-service rates.
 >
 > **[2:42](https://www.linkedin.com/learning/genaiops-foundations/planning-gen-ai-projects?u=76281980&t=162)** These metrics need to be planned ahead and tracked during the project.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Projects]] (2), next (1), data (1), [[Engineering]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Software Projects]] (2), [[Data Science]] (1), [[DevOps]] (1), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -471,8 +465,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training phase in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
+#### [Training phase in generative AI](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980&t=140)** it starts with preparing datasets for evaluation and fine-tuning.
 >
-> **[2:25](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980&t=145)** This includes curating raw data, processing transformation, data labeling, and associated data governance.
+> **[2:25](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980&t=145)** This includes curating raw data, processing transformation, data labeling, and associated [[Data Governance]].
 >
 > **[2:33](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980&t=153)** Next, a candidate GenAI model is selected for fine-tuning.
 >
@@ -562,12 +555,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [presenter] (1)
 
-#### Data for evaluaton and fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980)
+#### [Data for evaluaton and fine-tuning](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +603,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=89)** There may be limitations on the type of content expected, including text, audio, and images.
 >
-> **[1:35](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=95)** There can be specific formats, like JSON or jpeg.
+> **[1:35](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=95)** There can be specific formats, like [[JSON]] or jpeg.
 >
 > **[1:39](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=99)** GenAI models may produce variable results for the same prompt.
 >
@@ -623,11 +615,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=122)** This is background information provided to the GenAI model, which is used to provide associated information.
 >
-> **[2:09](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=129)** The most used context is data retrieved from vector databases in retrieval-augmented generation use cases.
+> **[2:09](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=129)** The most used context is data retrieved from [[Vector Databases]] in [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] use cases.
 >
 > **[2:17](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=137)** History of the current conversation can also be provided to the model to handle follow up queries.
 >
-> **[2:24](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=144)** What is the workflow for data collection and processing for GenAI?
+> **[2:24](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=144)** What is the workflow for [[Data Collection]] and processing for GenAI?
 >
 > **[2:29](https://www.linkedin.com/learning/genaiops-foundations/data-for-evaluaton-and-finetuning?u=76281980&t=149)** Raw data is acquired from data sources for the specific use case.
 >
@@ -649,14 +641,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), prompt (9), application (1), [[JSON]] (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Vector Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Data Collection]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** json (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI automation pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980)
+#### [Generative AI automation pipelines](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=6)** Automation provides repeatability.
 >
-> **[0:09](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=9)** It is a key tool in DevOps, MLOps and in GenAIOps.
+> **[0:09](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=9)** It is a key tool in [[DevOps]], [[MLOps]] and in GenAIOps.
 >
 > **[0:14](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=14)** Building automated pipelines for evaluation and fine-tuning ensures repeatability of experiments.
 >
@@ -682,13 +673,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=56)** This script can perform several fine-tuning functions like parameter tuning, hyper parameter tuning, or parameter efficient tuning.
 >
-> **[1:05](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=65)** This can be run in a managed service like Kubernetes.
+> **[1:05](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=65)** This can be run in a managed service like [[Kubernetes]].
 >
 > **[1:09](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=69)** The fine-tuning script picks up a base model from a model registry.
 >
 > **[1:14](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=74)** The model registry stores and manages models and their versions.
 >
-> **[1:18](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=78)** The repository has version control, access control, and traceability of usage.
+> **[1:18](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=78)** The repository has [[Version Control]], access control, and traceability of usage.
 >
 > **[1:24](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-automation-pipelines?u=76281980&t=84)** After fine-tuning, the resulting new model version is also stored in the model repository.
 >
@@ -710,13 +701,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[DevOps]] (1), [[MLOps]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980)
+#### [Model lifecycle management](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=75)** The version of the model is marked as retired, and all artifacts related to this version of the model are archived.
 >
-> **[1:23](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=83)** The artifacts would include fine tuning details, evaluation results, and production use metrics.
+> **[1:23](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=83)** The artifacts would include [[Fine Tuning]] details, evaluation results, and production use metrics.
 >
 > **[1:30](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=90)** Let's also discuss some best practices for model lifecycle management.
 >
@@ -762,24 +752,23 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=111)** Today, popular machine learning platforms provide model registries and lifecycle management tracking.
 >
-> **[1:58](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=118)** These include top cloud providers like AWS SageMaker, Google Vertex AI, and Azure ML.
+> **[1:58](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=118)** These include top cloud providers like [[AWS SageMaker]], [[Google]] [[Vertex]] AI, and [[Microsoft Azure|Azure]] ML.
 >
-> **[2:05](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=125)** There are also open source frameworks available like QFlow and MLflow, which provide similar capabilities.
+> **[2:05](https://www.linkedin.com/learning/genaiops-foundations/model-lifecycle-management?u=76281980&t=125)** There are also open source frameworks available like QFlow and [[MLflow]], which provide similar capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), application (1), [[Fine Tuning]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[AWS SageMaker]] (1), [[Google]] (1), [[Vertex]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluation and finetuning tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980)
+#### [Evaluation and finetuning tracking](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=0)** - [Instructor] Let's discuss tracking, evaluation, and fine tuning experiments for Gen AI Ops in this video.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=0)** - [Instructor] Let's discuss tracking, evaluation, and [[Fine Tuning]] experiments for Gen AI Ops in this video.
 >
 > **[0:07](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=7)** As seen in the previous videos, fine tuning and evaluation are iterative processes.
 >
@@ -821,13 +810,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=102)** Changes during fine tuning, whether they are changes to hyper parameters or other settings need to be tracked.
 >
-> **[1:49](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=109)** The environment in which the fine tuning or evaluation is done should be along with the versions of hardware and software used.
+> **[1:49](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=109)** The environment in which the fine tuning or evaluation is done should be along with the versions of [[Hardware]] and software used.
 >
 > **[1:58](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=118)** How do we track evaluations and fine tuning?
 >
 > **[2:01](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=121)** To track experiments in machine learning, there are several open source and commercial software that are available.
 >
-> **[2:08](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=128)** This includes Weights&Biases, Neptune and MLflow.
+> **[2:08](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=128)** This includes Weights&Biases, Neptune and [[MLflow]].
 >
 > **[2:13](https://www.linkedin.com/learning/genaiops-foundations/evaluation-and-finetuning-tracking?u=76281980&t=133)** There are also tracking tools available on cloud platforms like AWS and GCP.
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (9), ai (2), next (2), data (1), prompt (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (9), [[Hardware]] (1), [[MLflow]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Best Practices:** recommended (1), good practice (1)
 > **CLI Commands:** aws (1)
@@ -850,8 +839,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The generative AI application stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
+#### [The generative AI application stack](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,15 +873,15 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=66)** There can be other classical models too.
 >
-> **[1:09](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=69)** Then there is the hardware infrastructure, like GPUs, that are needed to run the models.
+> **[1:09](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=69)** Then there is the [[Hardware]] infrastructure, like GPUs, that are needed to run the models.
 >
-> **[1:15](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=75)** AI agents can be part of the stack too for planning and reasoning.
+> **[1:15](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=75)** [[AI Agents]] can be part of the stack too for planning and reasoning.
 >
 > **[1:20](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=80)** There could be guardrails in the stack, like bias detectors and hallucination detectors to provide safety and security for ML.
 >
 > **[1:30](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=90)** Next comes the data elements related to AI.
 >
-> **[1:34](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=94)** There can be data pipelines that bring in raw data into the models and carry back outcomes of the models.
+> **[1:34](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=94)** There can be [[Data Pipelines]] that bring in raw data into the models and carry back outcomes of the models.
 >
 > **[1:41](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980&t=101)** There can be vector stores and graph stores used for retrieval augmented generation.
 >
@@ -913,13 +901,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (4), application (3), ai (3), prompt (2)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[AI Agents]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** cd (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt management
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/prompt-management?u=76281980)
+#### [Prompt management](https://www.linkedin.com/learning/genaiops-foundations/prompt-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,13 +946,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), application (2), business (1), management (1)
 > **Best Practices:** recommended (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
-#### Memory and embedding management
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980)
+#### [Memory and embedding management](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=107)** This memory can be used across multiple sessions for a given user.
 >
-> **[1:52](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=112)** Long-term memory is typically stored on disk, either as files or in document databases.
+> **[1:52](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=112)** Long-term memory is typically stored on disk, either as files or in document [[Databases]].
 >
 > **[1:58](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=118)** The length and amount of storage will determine the cost for such storage, so the expected use should be considered when determining the length and content for storage.
 >
@@ -1017,7 +1002,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=147)** Documents that are similar to each other have vectors that are closer to each other in the vector space.
 >
-> **[2:33](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=153)** Embeddings enable semantic search in retrieval-augmented generation applications to find documents similar to the user query.
+> **[2:33](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=153)** Embeddings enable [[Semantic Search]] in [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] applications to find documents similar to the user query.
 >
 > **[2:42](https://www.linkedin.com/learning/genaiops-foundations/memory-and-embedding-management?u=76281980&t=162)** Embedding models are used to convert documents to corresponding vector representations.
 >
@@ -1037,19 +1022,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), next (2), rag (2), prompt (2)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
 > **Analogies:** similar to (2)
 > **Speakers:** - [person] (1)
 
-#### Agents management
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980)
+#### [Agents management](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=0)** - [Instructor] AI agents are a key component of GenAI and they also need to be managed as part of GenAI ops.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=0)** - [Instructor] [[AI Agents]] are a key component of GenAI and they also need to be managed as part of GenAI ops.
 >
 > **[0:08](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=8)** What is an AI agent?
 >
@@ -1083,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=85)** This is similar to how software modules are built and tested before integrating them.
 >
-> **[1:31](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=91)** Once ready, the agent should go through integration testing along with the rest of the application stack.
+> **[1:31](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=91)** Once ready, the agent should go through [[Integration Testing]] along with the [[Representational State Transfer (REST)|rest]] of the application stack.
 >
 > **[1:38](https://www.linkedin.com/learning/genaiops-foundations/agents-management?u=76281980&t=98)** This ensures that their collaboration with other parts of the stack are working as expected.
 >
@@ -1103,29 +1087,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), application (2), business (1), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Definitions:** is an  (3)
 > **Analogies:** similar to (3)
 > **Best Practices:** recommended (3)
 > **Speakers:** - [instructor] (1)
 
-#### Agent tools integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980)
+#### [Agent tools integrations](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=0)** - [Instructor] Having discussed AI agents, let's now look at integrating agents with other systems using tools.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=0)** - [Instructor] Having discussed [[AI Agents]], let's now look at integrating agents with other systems using tools.
 >
 > **[0:07](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=7)** These tools provide integrations to other systems to read data, write transactions, and perform workflows.
 >
 > **[0:14](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=14)** What kinds of integrations do agent tools provide?
 >
-> **[0:19](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=19)** It could be to a database, like RDBMS, or vector databases to perform read and write operations.
+> **[0:19](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=19)** It could be to a database, like RDBMS, or [[Vector Databases]] to perform read and write operations.
 >
 > **[0:26](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=26)** It can integrate with enterprise business applications to execute business workflows, like placing a purchase request.
 >
-> **[0:34](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=34)** It can integrate with cloud SaaS services, like Salesforce, to read accounts and create orders.
+> **[0:34](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=34)** It can integrate with cloud [[SaaS]] services, like Salesforce, to read accounts and create orders.
 >
 > **[0:41](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=41)** Equipment like cameras, machinery, and appliances, can be integrated to agents using tools.
 >
@@ -1135,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=59)** Tools are used for integrations.
 >
-> **[1:02](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=62)** Robustness and resiliency of integrations is important for these tools.
+> **[1:02](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=62)** Robustness and [[Resiliency]] of integrations is important for these tools.
 >
 > **[1:07](https://www.linkedin.com/learning/genaiops-foundations/agent-tools-integrations?u=76281980&t=67)** This includes ensuring error handling in tools' code, having redundancy for integrating applications, and handling exceptions gracefully.
 >
@@ -1151,14 +1134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), ai (1), data (1), database (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Vector Databases]] (1), [[SaaS]] (1), [[Resiliency]] (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** rdbms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing generative AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980)
+#### [Testing generative AI applications](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,13 +1154,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=23)** We need to unit test individual building blocks, software modules, and agents.
 >
-> **[0:29](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=29)** We need to then assemble the entire app and perform integration testing to ensure that the building blocks can work together.
+> **[0:29](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=29)** We need to then assemble the entire app and perform [[Integration Testing]] to ensure that the building blocks can work together.
 >
-> **[0:37](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=37)** Usability testing is important if the GenAI app has a user interface like a chat bot.
+> **[0:37](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=37)** [[Usability Testing]] is important if the GenAI app has a user interface like a chat bot.
 >
 > **[0:43](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=43)** System testing ensures that the system is stable and reliable under stress and can scale without performance degradation.
 >
-> **[0:51](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=51)** These four types of testing are general software development practices.
+> **[0:51](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=51)** These four types of testing are general [[Software Development]] practices.
 >
 > **[0:56](https://www.linkedin.com/learning/genaiops-foundations/testing-gen-ai-applications?u=76281980&t=56)** Now let's look at GenAI specific testing that's needed.
 >
@@ -1200,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Integration Testing]] (2), prompt (2), [[Security]] (2), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Usability Testing]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1212,8 +1194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI deployment patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
+#### [GenAI deployment patterns](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1237,9 +1218,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=55)** However, it comes at a higher operations cost to run the application.
 >
-> **[1:00](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=60)** Some enterprises are willing to take on the additional cost as it provides more control over security and privacy.
+> **[1:00](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=60)** Some enterprises are willing to take on the additional cost as it provides more control over security and [[Privacy]].
 >
-> **[1:08](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=68)** Private clouds on cloud platforms like AWS GCP and Azure also fall into this category.
+> **[1:08](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=68)** [[Private Clouds]] on cloud platforms like AWS GCP and [[Microsoft Azure|Azure]] also fall into this category.
 >
 > **[1:15](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=75)** Even though the infrastructure is managed by the provider, the enterprise still manages the application stack.
 >
@@ -1247,7 +1228,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=86)** Here the application stack is built and deployed using services provided by providers like AWS GCP and Azure.
 >
-> **[1:34](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=94)** SaaS and serverless modes of deployment are used where the components for data and model are managed by the service provider.
+> **[1:34](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=94)** [[SaaS]] and serverless modes of deployment are used where the components for data and model are managed by the service provider.
 >
 > **[1:43](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980&t=103)** The enterprise has lower control on the deployment and operations of these serverless services.
 >
@@ -1273,13 +1254,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (7), application (6), [[Privacy]] (3), cloud (3)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Microsoft Azure|Azure]] (2), [[Private Clouds]] (1), [[SaaS]] (1)
 > **Env Vars:** aws (2), gcp (2), apa (1)
 > **CLI Commands:** aws (2)
 > **Speakers:** - [instructor] (1)
 
-#### Infrastructure planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980)
+#### [Infrastructure planning](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980&t=49)** Again, sizing estimates are needed for provisioning the right amount of resources.
 >
-> **[0:54](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980&t=54)** Hardware and software accelerators may also be needed to support the deployment of the self-hosted models.
+> **[0:54](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980&t=54)** [[Hardware]] and software accelerators may also be needed to support the deployment of the self-hosted models.
 >
 > **[1:01](https://www.linkedin.com/learning/genaiops-foundations/infrastructure-planning?u=76281980&t=61)** Serving frameworks may also be used for optimized deployment and management.
 >
@@ -1339,12 +1319,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), application (3), [[Hardware]] (1), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI deployment pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-pipelines?u=76281980)
+#### [Generative AI deployment pipelines](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,21 +1357,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Scaling generative AI deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980)
+#### [Scaling generative AI deployments](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=0)** - [Instructor] How do we scale GenAI deployments?
 >
-> **[0:03](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=3)** The best practices for scaling in MLOps also covers scaling for GenAIOps.
+> **[0:03](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=3)** The best practices for scaling in [[MLOps]] also covers scaling for GenAIOps.
 >
-> **[0:09](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=9)** Beyond these, the special considerations are for the GenAI models and its integration with the rest of the application stack.
+> **[0:09](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=9)** Beyond these, the special considerations are for the GenAI models and its integration with the [[Representational State Transfer (REST)|rest]] of the application stack.
 >
 > **[0:18](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=18)** What are some key techniques to scale GenAI models?
 >
@@ -1404,7 +1381,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=41)** This is, however, limited based on the model architecture and the use case.
 >
-> **[0:47](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=47)** Batch processing works very well to process multiple requests concurrently on GPUs, thereby scaling the system.
+> **[0:47](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=47)** [[Batch Processing]] works very well to process multiple requests concurrently on GPUs, thereby scaling the system.
 >
 > **[0:55](https://www.linkedin.com/learning/genaiops-foundations/scaling-gen-ai-deployments?u=76281980&t=55)** Streaming can also be used to scale with minimum latency for concurrent requests.
 >
@@ -1416,12 +1393,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[MLOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Batch Processing]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Batch Processing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Guardrails deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980)
+#### [Guardrails deployments](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,9 +1405,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=5)** GenAI guardrails are a vital building block for GenAI deployment.
 >
-> **[0:10](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=10)** Guardrails help implement responsible AI for the application.
+> **[0:10](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=10)** Guardrails help implement [[Responsible AI]] for the application.
 >
-> **[0:14](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=14)** They ensure safety, reliability, ethics, compliance, and control.
+> **[0:14](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=14)** They ensure safety, reliability, [[Ethics]], compliance, and control.
 >
 > **[0:20](https://www.linkedin.com/learning/genaiops-foundations/guardrails-deployments?u=76281980&t=20)** This ensures that the responses generated from the model are safe for consumption.
 >
@@ -1469,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), application (2), [[Ethics]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Ethics]] (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1478,8 +1454,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI monitoring pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
+#### [Generative AI monitoring pipelines](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980&t=50)** Latency for requests is also a key measure to track to ensure that users are getting their responses in time.
 >
-> **[0:58](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980&t=58)** For RAG use cases, the context retrieved using semantic search and any related metrics also need to be tracked.
+> **[0:58](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980&t=58)** For RAG use cases, the context retrieved using [[Semantic Search]] and any related metrics also need to be tracked.
 >
 > **[1:06](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980&t=66)** For agents, tool usage, including the inputs provided and the outputs obtained need to be tracked.
 >
@@ -1531,14 +1506,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), data (1), rag (1), [[Semantic Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **Env Vars:** llm (4), cpu (1), rag (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics for generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/metrics-for-gen-ai?u=76281980)
+#### [Metrics for generative AI](https://www.linkedin.com/learning/genaiops-foundations/metrics-for-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,14 +1550,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (1), application (1)
 > **Env Vars:** cpu (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI traces
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980)
+#### [Generative AI traces](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,7 +1571,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980&t=24)** They are collected for every request or prompt, typically by a GenAI gateway.
 >
-> **[0:30](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980&t=30)** It is usually structured in a JSON format, so it provides flexibility in storage and processing.
+> **[0:30](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980&t=30)** It is usually structured in a [[JSON]] format, so it provides flexibility in storage and processing.
 >
 > **[0:36](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-traces?u=76281980&t=36)** It is logged in the software services or in the GenAI gateway.
 >
@@ -1629,18 +1601,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (1), pii (1)
 > **Cross-References:** we discussed (2)
 > **Speakers:** - [instructor] (1)
 
-#### Agent trajectories
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/agent-trajectories?u=76281980)
+#### [Agent trajectories](https://www.linkedin.com/learning/genaiops-foundations/agent-trajectories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agent-trajectories?u=76281980&t=0)** - [Instructor] Like we have traces for Gen AI model usage, we have trajectories for AI agents.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/agent-trajectories?u=76281980&t=0)** - [Instructor] Like we have traces for Gen AI model usage, we have trajectories for [[AI Agents]].
 >
 > **[0:07](https://www.linkedin.com/learning/genaiops-foundations/agent-trajectories?u=76281980&t=7)** What is an agent trajectory?
 >
@@ -1664,14 +1635,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** llm (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting generative AI model behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/troubleshooting-gen-ai-model-behavior?u=76281980)
+#### [Troubleshooting generative AI model behavior](https://www.linkedin.com/learning/genaiops-foundations/troubleshooting-gen-ai-model-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1681,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Automation]] (1), [[Debugging]] (1), ai (1), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** troubleshoot (1)
@@ -1722,14 +1691,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethics and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
+#### [Ethics and compliance](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=0)** - [Presenter] In this chapter, we will discuss the responsible AI considerations for generative AI applications.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=0)** - [Presenter] In this chapter, we will discuss the [[Responsible AI]] considerations for [[Generative AI]] applications.
 >
-> **[0:07](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=7)** We begin with ethics and compliance.
+> **[0:07](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=7)** We begin with [[Ethics]] and compliance.
 >
 > **[0:10](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=10)** Implementation of ethics and compliance is a key responsibility of GenAIOps.
 >
@@ -1743,7 +1711,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=46)** Intellectual property copyrights on the training data and outputs is another key area where GenAIOps need to monitor for violations and escalate discrepancies.
 >
-> **[0:58](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=58)** Personal data protection is a key regulatory requirement for which GenAIOps need to provide guardrails.
+> **[0:58](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=58)** [[Personal Data Protection]] is a key regulatory requirement for which GenAIOps need to provide guardrails.
 >
 > **[1:06](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980&t=66)** Trade secrets of the company also need to be protected.
 >
@@ -1765,12 +1733,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (4), data (3), [[Responsible AI]] (1), [[Generative AI]] (1), [[Personal Data Protection]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (1), [[Generative AI]] (1), [[Personal Data Protection]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [presenter] (1)
 
-#### Protection against vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980)
+#### [Protection against vulnerabilities](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,9 +1745,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=4)** GenAIOps should provide a framework to monitor and protect the GenAI application, its artifacts, and data against potential vulnerabilities of GenAI.
 >
-> **[0:16](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=16)** Let's review the OWASP top 10 vulnerabilities for GenAI.
+> **[0:16](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=16)** Let's review the [[OWASP]] top 10 vulnerabilities for GenAI.
 >
-> **[0:20](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=20)** OWASP stands for Open Web Application Security Project.
+> **[0:20](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=20)** OWASP stands for Open [[Web Application Security]] Project.
 >
 > **[0:25](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=25)** This is a nonprofit organization that helps developers to build secure applications.
 >
@@ -1832,20 +1799,19 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=191)** Metrics for guardrails, like hallucination rate, need to be computed periodically.
 >
-> **[3:16](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=196)** Reports should be available through dashboards for users to observe performance.
+> **[3:16](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=196)** Reports should be available through [[Dashboards]] for users to observe performance.
 >
 > **[3:22](https://www.linkedin.com/learning/genaiops-foundations/protection-against-vulnerabilities?u=76281980&t=202)** Thresholds and alerts need to be supported in the tools, so when violations happen, required teams can be alerted to prevent further degradation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), application (4), prompt (3), [[OWASP]] (2), business (2)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1), [[Dashboards]] (1)
 > **Env Vars:** owasp (2), api (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Toxicity and bias in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980)
+#### [Toxicity and bias in generative AI](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,13 +1871,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=164)** How do we mitigate bias?
 >
-> **[2:45](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=165)** An enterprise needs to have responsible AI policies that sets the tone for how bias is handled.
+> **[2:45](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=165)** An enterprise needs to have [[Responsible AI]] policies that sets the tone for how bias is handled.
 >
 > **[2:53](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=173)** This identifies protected attributes and how biased content is handled in the applications.
 >
 > **[2:59](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=179)** This serves as the guidance for implementation in the application.
 >
-> **[3:04](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=184)** Training data lineage analysis is again required for bias mitigation.
+> **[3:04](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=184)** Training [[Data Lineage]] analysis is again required for bias mitigation.
 >
 > **[3:09](https://www.linkedin.com/learning/genaiops-foundations/toxicity-and-bias-in-gen-ai?u=76281980&t=189)** Debiasing is the process of analyzing the training or fine-tuning dataset for direct or indirect bias, and removing those samples that exhibit bias.
 >
@@ -1919,14 +1885,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), application (2), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Data Lineage]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hallucinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980)
+#### [Hallucinations](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,7 +1901,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=9)** GenAIOps plays a key role in automating detection of hallucination and ensuring trusted outcomes for the users.
 >
-> **[0:18](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=18)** What is hallucination in a generative AI context?
+> **[0:18](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=18)** What is hallucination in a [[Generative AI]] context?
 >
 > **[0:21](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=21)** Hallucination happens when the output of the GenAI model is not supported by facts.
 >
@@ -1972,7 +1937,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=119)** Some of these guardrails use a second generative model to check the accuracy of the first one.
 >
-> **[2:05](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=125)** Prompt engineering is, again, important to ensure that the model has enough information to synthesize and accurate response to the prompt.
+> **[2:05](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=125)** [[Prompt Engineering]] is, again, important to ensure that the model has enough information to synthesize and accurate response to the prompt.
 >
 > **[2:13](https://www.linkedin.com/learning/genaiops-foundations/hallucinations?u=76281980&t=133)** Finally, human feedback is essential to check if any hallucinations are introduced in the outputs.
 >
@@ -1980,19 +1945,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), prompt (2), [[Generative AI]] (1), business (1), rag (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy protection in genAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980)
+#### [Privacy protection in genAI](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=0)** - [Presenter] The final topic to discuss in this course is privacy in GenAI.
+> **[0:00](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=0)** - [Presenter] The final topic to discuss in this course is [[Privacy]] in GenAI.
 >
-> **[0:05](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=5)** Data privacy is a key customer and compliance requirement in GenAI.
+> **[0:05](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=5)** [[Data Privacy]] is a key customer and compliance requirement in GenAI.
 >
 > **[0:11](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=11)** This is one of the key factors that enterprises are concerned about while implementing GenAI.
 >
@@ -2004,7 +1968,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=37)** Similarly, confidential business data may also be exposed to the same areas.
 >
-> **[0:43](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=43)** Users may not realize about data classification when they provide it in their prompts or context.
+> **[0:43](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=43)** Users may not realize about [[Data Classification]] when they provide it in their prompts or context.
 >
 > **[0:50](https://www.linkedin.com/learning/genaiops-foundations/privacy-protection-in-gen-ai?u=76281980&t=50)** Models may accidentally expose private data when creating responses.
 >
@@ -2028,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Privacy]] (5), [[Data Classification]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (4), [[Data Classification]] (2), [[Privacy]] (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -2038,14 +2002,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980&t=0)** - [Instructor] We have reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980&t=3)** By now, you have an understanding of the key elements of GenAIOps and how they relate to DevOps and MLOps.
+> **[0:03](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980&t=3)** By now, you have an understanding of the key elements of GenAIOps and how they relate to [[DevOps]] and [[MLOps]].
 >
 > **[0:11](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980&t=11)** You can take your learning even further.
 >
@@ -2065,7 +2028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1), application (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

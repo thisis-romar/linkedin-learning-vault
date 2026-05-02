@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building advanced charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
+#### [Building advanced charts](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=9)** In this course, you will learn how to create a chart diagram and how to design alternative charts to bar chart and line chart.
 >
-> **[0:18](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=18)** At the end of the course, you will be able to create simple infographics, adding a different chart together, and also, you will learn how to add the notations.
+> **[0:18](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=18)** At the end of the course, you will be able to create simple [[Infographics]], adding a different chart together, and also, you will learn how to add the notations.
 >
 > **[0:29](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=29)** Hi, I'm Rita Giordano, a data visualization consultant and R practitioner.
 >
@@ -98,11 +97,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1)
 > **Speakers:** - [rita] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=3)** To follow along in this course, you need to know R quite well, especially the function from the base library and how to create a function yourself.
 >
-> **[0:13](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=13)** Also, good knowledge of the RStudio environment are important.
+> **[0:13](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=13)** Also, good knowledge of the [[RStudio]] environment are important.
 >
 > **[0:18](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=18)** For example, how to create a script, how to open a script, and how to run the code.
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=50)** Most of the library that we will use are based on ggplot2.
 >
-> **[0:54](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=54)** So, if you need a refresher on ggplot2, you can go on the library of LinkedIn Learning and here, you will find several course where you can refresh your knowledge.
+> **[0:54](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=54)** So, if you need a refresher on ggplot2, you can go on the library of [[LinkedIn]] Learning and here, you will find several course where you can refresh your knowledge.
 >
 > **[1:06](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=66)** And also, if you need something about Tidyverse, you can also explore the LinkedIn Learning library.
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980)
+#### [Using exercise files](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=0)** - [Instructor] All the codes I will use in this course are stored on a GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=0)** - [Instructor] All the codes I will use in this course are stored on a [[GitHub]] repository.
 >
 > **[0:06](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=6)** The codes are separated into branches for each video.
 >
@@ -161,9 +158,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=45)** To download the code on your machine, simply go on Code, then click on Download ZIP, and then proceed to the download into the folder on your local machine.
 >
-> **[0:57](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=57)** Another way is to use Rstudio.
+> **[0:57](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=57)** Another way is to use [[RStudio]].
 >
-> **[1:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=60)** So we can copy this, the link, and if we go in RStudio, we can create here a new project, and we will click on Version Control, we select Git, and here we paste the name of the repository, we select our folder and we create our repository.
+> **[1:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=60)** So we can copy this, the link, and if we go in RStudio, we can create here a new project, and we will click on [[Version Control]], we select [[Git]], and here we paste the name of the repository, we select our folder and we create our repository.
 >
 > **[1:24](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=84)** Now we are ready to start our course.
 
@@ -182,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Load and inspect your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
+#### [Load and inspect your data](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=5)** To help you with this course, I create a data set containing information about renewable energy across the world.
 >
-> **[0:14](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=14)** The data is already clean and the source is our word in data.
+> **[0:14](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=14)** The data is already clean and the source is our [[Microsoft Word|word]] in data.
 >
 > **[0:19](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=19)** Let's start to explore our data.
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=158)** And we see here that we have free column that are character and the other columns that are double numerical.
 >
-> **[2:51](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=171)** To have a quick statistics, we use the function summary and we type (ren) but this time we saw that the three variable are character.
+> **[2:51](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=171)** To have a quick [[Statistics]], we use the function summary and we type (ren) but this time we saw that the three variable are character.
 >
 > **[3:06](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=186)** So I only type from column 4 to column 9 because I wanted the summary only of the variables that are numeric.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Code Identifiers:** read_csv (1), show_col_types (1), geo_biomass_other (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -252,8 +248,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **UI Navigation:** scroll down (1)
 
-#### Exploratory charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/exploratory-charts?u=76281980)
+#### [Exploratory charts](https://www.linkedin.com/learning/build-advanced-charts-in-r/exploratory-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +312,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **Code Identifiers:** share_electricity (4), geom_freqpoly (2), geom_histogram (1), geom_line (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (2)
@@ -330,8 +324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to {circlize} package
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
+#### [Introduction to {circlize} package](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=162)** The ylim is the range on the y-axis, and that is equal to 15 and 100 because I want to span the value between 15 and 100.
 >
-> **[2:57](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=177)** This is sort of a simulation of the data that we saw in the previous chapter, but of course are not the real data.
+> **[2:57](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=177)** This is sort of a [[Simulation]] of the data that we saw in the previous chapter, but of course are not the real data.
 >
 > **[3:06](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=186)** Now, we can use the argument panel.fun, and when we use the parameter panel.fun I'll pass it to create the graphics for each cell.
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** cell_meta (2)
 > **Cross-References:** as we saw (1), previous chapter (1)
 > **CLI Commands:** make (1)
@@ -444,8 +437,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980)
+#### [Prepare your data](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=26)** So I run this data and score zero where I selected this data.
 >
-> **[0:32](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=32)** Now we can run a summary statistics for this dataset
+> **[0:32](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=32)** Now we can run a summary [[Statistics]] for this dataset
 >
 > **[0:42](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=42)** and we can see that in 2021, average share of electricity is 35%.
 >
@@ -535,14 +527,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** pivot_longer (2), pivot_wider (2), renewable_wider (1), country_code (1), str_remove (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a chord diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-chord-diagram?u=76281980)
+#### [Create a chord diagram](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-chord-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +637,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), functional (1), next (1)
 > **Versions:** 0.03 (1), 0.01 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -654,8 +644,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize your chord diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980)
+#### [Customize your chord diagram](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +692,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=199)** Now, we have to pass this function here after the small gap, and we use the parameter grid.col equal to our variable col_grid.
 >
-> **[3:40](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=220)** And for the rest, we don't need to add any other variable, because this is the same code of before.
+> **[3:40](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=220)** And for the [[Representational State Transfer (REST)|rest]], we don't need to add any other variable, because this is the same code of before.
 >
 > **[3:49](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=229)** So we run.
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** col_grid (2), source_color (1), source_palette (1)
 > **Versions:** 0.6 (1), 0.8 (1)
 > **CLI Commands:** find (1)
@@ -762,8 +751,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customization options
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/customization-options?u=76281980)
+#### [Customization options](https://www.linkedin.com/learning/build-advanced-charts-in-r/customization-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +907,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.01 (5), 1.2 (2), 0.15 (1), 0.1 (1), 0.02 (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
@@ -927,9 +914,9 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), as we saw (1)
 > **Code Identifiers:** nicefacing (1)
 > **Best Practices:** don't forget (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-function?u=76281980)
+#### [Create a function](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,8 +1000,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create advanced charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
+#### [Create advanced charts](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,14 +1038,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a sparkline chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-sparkline-chart?u=76281980)
+#### [Create a sparkline chart](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-sparkline-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1193,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Versions:** 0.3 (1), 1.5 (1), 0.5 (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -1217,9 +1200,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create a lollipop plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-lollipop-plot?u=76281980)
+#### [Create a lollipop plot](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-lollipop-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,7 +1286,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.5 (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (3)
@@ -1312,8 +1294,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a slope graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-slope-graph?u=76281980)
+#### [Create a slope graph](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-a-slope-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1436,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Versions:** 0.5 (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -1467,8 +1447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible color palettes
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
+#### [Accessible color palettes](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1527,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=315)** So yeah, we can see how the color change for the second and the third.
 >
-> **[5:20](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=320)** Now to test for colorblindness we have to convert to Xcode.
+> **[5:20](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=320)** Now to test for colorblindness we have to convert to [[Xcode]].
 >
 > **[5:25](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=325)** So, and we use the function rgb on the variable brand_sat.
 >
@@ -1576,8 +1555,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add charts on the same figure
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/add-charts-on-the-same-figure?u=76281980)
+#### [Add charts on the same figure](https://www.linkedin.com/learning/build-advanced-charts-in-r/add-charts-on-the-same-figure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,15 +1623,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (1), data (1)
 > **Versions:** 0.1 (2), 1.03 (1), 1.2 (1), 0.5 (1)
 > **CLI Commands:** cd (1)
 > **Code Identifiers:** readrds (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add annotations and backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/add-annotations-and-backgrounds?u=76281980)
+#### [Add annotations and backgrounds](https://www.linkedin.com/learning/build-advanced-charts-in-r/add-annotations-and-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,8 +1700,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Further annotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/further-annotation?u=76281980)
+#### [Further annotation](https://www.linkedin.com/learning/build-advanced-charts-in-r/further-annotation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1754,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.5 (2), 1.2 (1), 0.55 (1), 0.2 (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -1789,8 +1763,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1773,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=5)** Now, that you have taken this course so you can create a customized chart diagram.
 >
-> **[0:10](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=10)** You are also able to add the different charts to create the simple infographics.
+> **[0:10](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=10)** You are also able to add the different charts to create the simple [[Infographics]].
 >
 > **[0:14](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=14)** I hope that you find the course available and applicable to your work.
 >
@@ -1812,7 +1785,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=38)** And I also encourage you to apply the lesson you have learned to create more complex infographics using R.
 >
-> **[0:45](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=45)** If you are happy with the outcome please share it on LinkedIn.
+> **[0:45](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=45)** If you are happy with the outcome please share it on [[LinkedIn]].
 >
 > **[0:49](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=49)** You can tag me so I can comment on it and celebrate your achievements.
 >
@@ -1822,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infographics]] (2), [[LinkedIn]] (2), data (1)
+> **Frameworks & Libraries:** [[Infographics]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [rita] (1)
 

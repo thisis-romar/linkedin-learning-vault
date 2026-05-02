@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS animation advantages
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980)
+#### [CSS animation advantages](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,32 +108,31 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=33)** This course is for web designers and developers who have some experience with CSS and want to take their understanding of CSS animation to the next level.
 >
-> **[0:42](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=42)** I'll show you how CSS can be used to animate both HTML elements and SVG.
+> **[0:42](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=42)** I'll show you how CSS can be used to animate both [[HTML]] elements and SVG.
 >
 > **[0:47](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=47)** We'll also discuss how to get the best performance out of your animation, as well as tools that will help you build and troubleshoot your animation work.
 >
-> **[0:56](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=56)** Over the past few years, web animation has grown into a powerful option for enhancing the user experience on the web.
+> **[0:56](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=56)** Over the past few years, web animation has grown into a powerful option for enhancing the [[User Experience (UX)|user experience]] on the web.
 >
 > **[1:02](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980&t=62)** CSS animation is the perfect place to get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), css (6), power (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (6), html (1), svg (1)
 > **CLI Commands:** make (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - motion (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, Senior Staff Instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, Senior Staff Instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world, hands-on practice that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world, hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:20](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=20)** This course was created using GitHub Codespaces.
 >
@@ -202,7 +200,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=193)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:17](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index.html file right here.
+> **[3:17](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:25](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=205)** I'm going to go ahead and save that, and you can see that I've modified this file, because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -240,7 +238,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=330)** I'll hit OK.
 >
-> **[5:32](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run git fetch.
+> **[5:32](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:35](https://www.linkedin.com/learning/css-animation-14153685/using-github-codespaces-with-this-course?u=76281980&t=335)** That way it'll automatically sync with your forked repo.
 >
@@ -266,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **CLI Commands:** make (4), find (1), git (1)
 > **Tools:** github (4), visual studio (2)
@@ -280,8 +278,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS transform basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980)
+#### [CSS transform basics](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980&t=29)** I like to think of these as the yoga of CSS.
 >
-> **[0:33](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980&t=33)** We can use them to bend and twist those flat rectangular HTML objects into all sorts of configurations.
+> **[0:33](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980&t=33)** We can use them to bend and twist those flat rectangular [[HTML]] objects into all sorts of configurations.
 >
 > **[0:40](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980&t=40)** I'll use this robot image here to demonstrate some of the things that transforms can do.
 >
@@ -363,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (6), html (1)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (3)
@@ -372,8 +369,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple 3D transforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980)
+#### [Simple 3D transforms](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980&t=28)** I'll use this robot image to demonstrate.
 >
-> **[0:30](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980&t=30)** It's just an image sitting in a HTML page, but I can still apply 3D transforms to it.
+> **[0:30](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980&t=30)** It's just an image sitting in a [[HTML]] page, but I can still apply 3D transforms to it.
 >
 > **[0:37](https://www.linkedin.com/learning/css-animation-14153685/simple-3d-transforms?u=76281980&t=37)** In my CSS file, I'll add a transform rule to our robot image.
 >
@@ -447,13 +443,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (7), html (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSS transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-transitions?u=76281980)
+#### [CSS transitions](https://www.linkedin.com/learning/css-animation-14153685/css-transitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +530,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8)
 > **Versions:** 0.5 (3), 0.2 (2), 0.1 (2), 1.3 (1), 0.3 (1)
 > **Env Vars:** css (8)
 > **CLI Commands:** make (4)
@@ -543,9 +537,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
+> **Best Practices:** make sure to (1)
 
-#### Challenge: Adding a transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-a-transition?u=76281980)
+#### [Challenge: Adding a transition](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-a-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,8 +560,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Adding a transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-a-transition?u=76281980)
+#### [Solution: Adding a transition](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-a-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
 > **Versions:** 0.3 (1)
 > **Cross-References:** go back to (1)
@@ -600,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS keyframe animation fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980)
+#### [CSS keyframe animation fundamentals](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980&t=3)** In this lesson, we'll create a simple animation of tech scaling up into view with a little bit of an overshoot to demonstrate the main components of CSS keyframe animations.
 >
-> **[0:14](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980&t=14)** The HTML behind our example is pretty straightforward.
+> **[0:14](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980&t=14)** The [[HTML]] behind our example is pretty straightforward.
 >
 > **[0:17](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980&t=17)** Our text is in H2 sitting within our container div.
 >
@@ -681,15 +672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (9), html (1)
 > **Code Identifiers:** scalein (2)
 > **Versions:** 0.2 (1), 1.1 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### animation-delay and animation-fill-mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animation-delay-and-animation-fill-mode?u=76281980)
+#### [animation-delay and animation-fill-mode](https://www.linkedin.com/learning/css-animation-14153685/animation-delay-and-animation-fill-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,7 +721,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Cross-References:** go back to (1)
@@ -739,8 +728,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### A closer look at animation-fill-mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980)
+#### [A closer look at animation-fill-mode](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +766,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980&t=124)** Personally, I tend to use both most often.
 >
-> **[2:07](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980&t=127)** And I'll even assign it to all my animations when I'm prototyping something even if I'm not sure I need it yet.
+> **[2:07](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980&t=127)** And I'll even assign it to all my animations when I'm [[Prototyping]] something even if I'm not sure I need it yet.
 >
 > **[2:13](https://www.linkedin.com/learning/css-animation-14153685/a-closer-look-at-animation-fill-mode?u=76281980&t=133)** It saves me that extra step of wondering why things look funny and having to go back and add it in later.
 >
@@ -788,15 +776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** in other words (2), is a  (1)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### animation-direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animation-direction?u=76281980)
+#### [animation-direction](https://www.linkedin.com/learning/css-animation-14153685/animation-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,14 +849,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), power (1)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Timing functions and easing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/timing-functions-and-easing?u=76281980)
+#### [Timing functions and easing](https://www.linkedin.com/learning/css-animation-14153685/timing-functions-and-easing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1016,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), power (3), web (2), next (1)
 > **Env Vars:** css (13)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [cubic-bezier.com](https://cubic-bezier.com) (2), [easings.net](https://easings.net) (2)
@@ -1040,8 +1024,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 
-#### The steps() timing function
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980)
+#### [The steps() timing function](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1152,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
@@ -1177,9 +1159,9 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [tutor] (1)
 
-#### Challenge: Adding keyframes to an animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-keyframes-to-an-animation?u=76281980)
+#### [Challenge: Adding keyframes to an animation](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-keyframes-to-an-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,14 +1183,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Adding keyframes to an animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-keyframes-to-an-animation?u=76281980)
+#### [Solution: Adding keyframes to an animation](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-keyframes-to-an-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1218,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1247,8 +1226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Infinitely looping animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980)
+#### [Infinitely looping animations](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1238,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980&t=16)** Both our Binaryville logo and the clouds are images.
 >
-> **[0:19](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980&t=19)** And in our HTML, we have both the cloud images and the Binaryville images, and we've set them in different divs so we can absolutely position the clouds behind the Binaryville scene.
+> **[0:19](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980&t=19)** And in our [[HTML]], we have both the cloud images and the Binaryville images, and we've set them in different divs so we can absolutely position the clouds behind the Binaryville scene.
 >
 > **[0:29](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980&t=29)** In our CSS, we have rules to set that positioning and we can start to add some animation too.
 >
@@ -1324,15 +1302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), css (3), [[HTML]] (1), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pause and play with animation-play-state
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980)
+#### [Pause and play with animation-play-state](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1329,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=32)** We're using hover in this example, because it's an easy input event for CSS to access.
 >
-> **[0:37](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=37)** But you might find that changing the animation-play-state on events like click or scroll with the help of JavaScript to be even more useful.
+> **[0:37](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=37)** But you might find that changing the animation-play-state on events like click or scroll with the help of [[JavaScript]] to be even more useful.
 >
 > **[0:43](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=43)** I've already got the keyframes for the spinning animation here, and we just saw it in action a minute ago.
 >
@@ -1374,7 +1351,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=80)** So there'll be no speed changes while it's spinning.
 >
-> **[1:23](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=83)** This is one of those cases where linear easing actually looks better than some of the rest.
+> **[1:23](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=83)** This is one of those cases where linear easing actually looks better than some of the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:28](https://www.linkedin.com/learning/css-animation-14153685/pause-and-play-with-animation-play-state?u=76281980&t=88)** So let's move on to adding the play and pause functionality.
 >
@@ -1424,14 +1401,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Animating 3D transforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980)
+#### [Animating 3D transforms](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1443,9 +1419,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=17)** We'll be rotating each letter around the X axis, which is the axis that runs horizontal across the browser window.
 >
-> **[0:24](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=24)** In our HTML, we have each letter wrapped in its own span so we can target them individually.
+> **[0:24](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=24)** In our [[HTML]], we have each letter wrapped in its own span so we can target them individually.
 >
-> **[0:30](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=30)** There are helpful JavaScript libraries like Splitting JS and others that will do this wrapping of each letter in a span automatically for you at runtime.
+> **[0:30](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=30)** There are helpful [[JavaScript]] libraries like Splitting JS and others that will do this wrapping of each letter in a span automatically for you at runtime.
 >
 > **[0:38](https://www.linkedin.com/learning/css-animation-14153685/animating-3d-transforms?u=76281980&t=38)** But for the purposes of this example, adding them manually works just fine.
 >
@@ -1549,14 +1525,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (3), html (2), ams (1)
 > **Versions:** 0.2 (3), 0.4 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chaining multiple keyframe animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980)
+#### [Chaining multiple keyframe animations](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=20)** And the letters will end up hanging upside down.
 >
-> **[0:24](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=24)** Our HTML and CSS are the same as we left them in the last video.
+> **[0:24](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=24)** Our [[HTML]] and CSS are the same as we left them in the last video.
 >
 > **[0:28](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=28)** So let's head straight to our CSS to add in the second set of key frames for us to use.
 >
@@ -1634,7 +1609,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=257)** It's a great technique for creating slightly more complex effects or spacing out animations in time.
 >
-> **[4:23](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=263)** One word of advice, though, if you find yourself creating a chain of animations, that's more than three or four long in CSS, that's a good time to consider moving to JavaScript for your animation efforts.
+> **[4:23](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=263)** One [[Microsoft Word|word]] of advice, though, if you find yourself creating a chain of animations, that's more than three or four long in CSS, that's a good time to consider moving to [[JavaScript]] for your animation efforts.
 >
 > **[4:36](https://www.linkedin.com/learning/css-animation-14153685/chaining-multiple-keyframe-animations?u=76281980&t=276)** Managing all those delays in order can get really tedious in CSS.
 >
@@ -1642,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[JavaScript]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 2.75 (2), 0.2 (2), 0.275 (1), 2.95 (1), 3.15 (1)
 > **Env Vars:** css (5), html (1)
 > **Analogies:** just like (1), for example (1)
@@ -1651,8 +1626,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: Adding a third animation to the chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-a-third-animation-to-the-chain?u=76281980)
+#### [Challenge: Adding a third animation to the chain](https://www.linkedin.com/learning/css-animation-14153685/challenge-adding-a-third-animation-to-the-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,15 +1644,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music begins) (1)
 
-#### Solution: Adding a third animation to the chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-a-third-animation-to-the-chain?u=76281980)
+#### [Solution: Adding a third animation to the chain](https://www.linkedin.com/learning/css-animation-14153685/solution-adding-a-third-animation-to-the-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1694,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Versions:** 4.95 (1)
@@ -1734,12 +1705,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing an SVG for animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980)
+#### [Preparing an SVG for animation](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=0)** - [Instructor] Whether you're planning to use CSS or JavaScript to animate your SVG in the end, you'll want to make sure your SVG file is set up in a way that's going to be good for animation.
+> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=0)** - [Instructor] Whether you're planning to use CSS or [[JavaScript]] to animate your SVG in the end, you'll want to make sure your SVG file is set up in a way that's going to be good for animation.
 >
 > **[0:10](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=10)** There are many ways to draw shapes in SVG, and your ability to animate the shapes you see in a particular graphic depend on how the SVG was drawn.
 >
@@ -1771,7 +1741,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=106)** My second tip for checking your SVG is to name the layers or the paths, depending on how your file is set up, that you'll be animating so it's easier to find them later.
 >
-> **[1:56](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=116)** To animate an SVG, we need to have it inline in our HTML.
+> **[1:56](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=116)** To animate an SVG, we need to have it inline in our [[HTML]].
 >
 > **[2:00](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=120)** If we name the shapes we plan to use in our animation, it will be a lot easier to find them and target them with CSS rules when we're writing the animations.
 >
@@ -1779,7 +1749,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=149)** And I think you're getting the idea here.
 >
-> **[2:32](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=152)** I'll go through the rest of my layers now and make sure that everything I'm planning on using in my animation has a name so I can find it later.
+> **[2:32](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=152)** I'll go through the [[Representational State Transfer (REST)|rest]] of my layers now and make sure that everything I'm planning on using in my animation has a name so I can find it later.
 >
 > **[2:39](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980&t=159)** You don't need to worry about naming every single object though, just the ones you know you'll want to use in your animation.
 >
@@ -1787,7 +1757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[JavaScript]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** svg (10), css (2), html (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** for example (2)
@@ -1796,12 +1766,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### SVG exporting and optimization settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/svg-exporting-and-optimization-settings?u=76281980)
+#### [SVG exporting and optimization settings](https://www.linkedin.com/learning/css-animation-14153685/svg-exporting-and-optimization-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/svg-exporting-and-optimization-settings?u=76281980&t=0)** - [Instructor] To animate your SVG you'll need to have an inline in your HTML, so you'll want to take a slightly different approach to exporting and optimizing it than you might otherwise.
+> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/svg-exporting-and-optimization-settings?u=76281980&t=0)** - [Instructor] To animate your SVG you'll need to have an inline in your [[HTML]], so you'll want to take a slightly different approach to exporting and optimizing it than you might otherwise.
 >
 > **[0:09](https://www.linkedin.com/learning/css-animation-14153685/svg-exporting-and-optimization-settings?u=76281980&t=9)** You'll want the code to be readable and manageable while you're working on your animation.
 >
@@ -1897,7 +1866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), next (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** svg (25), css (8), html (1), svgomg (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), just like (1)
@@ -1906,8 +1875,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Animating SVG with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980)
+#### [Animating SVG with CSS](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1883,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=5)** We'll create this heart filling animation with this SVG heart to create an effect that you might see when liking a post or photo or something like that.
 >
-> **[0:15](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=15)** My SVG code is inline here in my HTML.
+> **[0:15](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=15)** My SVG code is inline here in my [[HTML]].
 >
 > **[0:19](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=19)** This is our SVG.
 >
@@ -2021,7 +1989,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=313)** Animating SVG with CSS is useful for small bits of animation.
 >
-> **[5:18](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=318)** But if you're planning on doing a lot of SVG animation, I highly recommend using a JavaScript solution like GreenSock or another JavaScript animation library.
+> **[5:18](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=318)** But if you're planning on doing a lot of SVG animation, I highly recommend using a [[JavaScript]] solution like GreenSock or another JavaScript animation library.
 >
 > **[5:27](https://www.linkedin.com/learning/css-animation-14153685/animating-svg-with-css?u=76281980&t=327)** JavaScript animation libraries and especially GreenSock are built to take care of the common quirks of animating SVG for you right out of the box.
 >
@@ -2029,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[JavaScript]] (3), [[HTML]] (2), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (2)
 > **Env Vars:** svg (22), css (7), html (2)
 > **Versions:** 0.25 (2), 0.1 (1), 1.25 (1), 0.8 (1), 0.4 (1)
 > **CLI Commands:** make (2)
@@ -2042,8 +2010,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a motion path for CSS with offset-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/creating-a-motion-path-for-css-with-offset-path?u=76281980)
+#### [Creating a motion path for CSS with offset-path](https://www.linkedin.com/learning/css-animation-14153685/creating-a-motion-path-for-css-with-offset-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,7 +2062,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** svg (9), css (4)
 > **CLI Commands:** make (1)
 > **Versions:** 219.99 (1)
@@ -2104,14 +2070,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Animating CSS motion path with offset-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980)
+#### [Animating CSS motion path with offset-path](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980&t=0)** - [Narrator] Now that we have our offset path assigned to our element, it's time to animate it.
 >
-> **[0:04](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980&t=4)** Just to recap, our robot is an image in our HTML and in our CSS we've assigned an offset path to our robot image.
+> **[0:04](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980&t=4)** Just to recap, our robot is an image in our [[HTML]] and in our CSS we've assigned an offset path to our robot image.
 >
 > **[0:13](https://www.linkedin.com/learning/css-animation-14153685/animating-css-motion-path-with-offset-path?u=76281980&t=13)** There are a few different properties that work along with the offset path property, but the two that are most useful for animation are the offset distance and the offset rotation.
 >
@@ -2161,7 +2126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), css (1), svg (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2169,8 +2134,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dynamic CSS animation with CSS variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980)
+#### [Dynamic CSS animation with CSS variables](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2184,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=27)** There are a number of things that make CSS variables different than, say, preprocessor variables that you might've used before.
 >
-> **[0:33](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=33)** But three things that really stand out are the fact that they can be changed at runtime, they follow the CSS cascade, and they can be easily accessed by JavaScript.
+> **[0:33](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=33)** But three things that really stand out are the fact that they can be changed at runtime, they follow the CSS cascade, and they can be easily accessed by [[JavaScript]].
 >
 > **[0:44](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=44)** When it comes to animation, we can use CSS variables both in our key frame definitions and when we're assigning animation properties to individual elements.
 >
@@ -2198,7 +2162,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=87)** That means when I go to preview our files so far, we'll see this, all four of my paragraphs animate in with the exact same animation and start and end in the exact same place.
 >
-> **[1:38](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=98)** Now if I wanted all four of these words to animate in in slightly different ways, I could write four different animations, one for each word, or I could use CSS variables to make my key frames more dynamic and adjust the animation slightly for each different word.
+> **[1:38](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=98)** Now if I wanted all four of these words to animate in in slightly different ways, I could write four different animations, one for each [[Microsoft Word|word]], or I could use CSS variables to make my key frames more dynamic and adjust the animation slightly for each different word.
 >
 > **[1:54](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=114)** And that's the route I'm going to take for this example.
 >
@@ -2286,7 +2250,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=433)** So for paragraph one, I'm going to give it a different duration of, say, 1.9 seconds.
 >
-> **[7:20](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=440)** It'll be a little bit faster than the rest.
+> **[7:20](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=440)** It'll be a little bit faster than the [[Representational State Transfer (REST)|rest]].
 >
 > **[7:23](https://www.linkedin.com/learning/css-animation-14153685/dynamic-css-animation-with-css-variables?u=76281980&t=443)** And I will give it a custom easing with the ease variable, and that will be a cubic Bezier.
 >
@@ -2318,7 +2282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (26), [[Microsoft Word|Word]] (3), [[JavaScript]] (2), web (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (26)
 > **CLI Commands:** make (7)
 > **Versions:** 1.5 (3), 1.9 (2), 1.75 (1), 0.5 (1)
@@ -2327,12 +2291,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** set up (2)
 
-#### Animating variable fonts with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980)
+#### [Animating variable fonts with CSS](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=0)** - [Instructor] Variable fonts are a game changer for web typography.
+> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=0)** - [Instructor] Variable fonts are a game changer for web [[Typography]].
 >
 > **[0:03](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=3)** A variable font is a font file that is able to store a continuous range of design variants and we can animate those variants with CSS.
 >
@@ -2408,7 +2371,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=246)** So we can save this and preview it in our browser, refresh.
 >
-> **[4:12](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=252)** And you can see we have our h1 that has the word hello in it animating through the variations of the axis we adjusted through our key frame animation.
+> **[4:12](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=252)** And you can see we have our h1 that has the [[Microsoft Word|word]] hello in it animating through the variations of the axis we adjusted through our key frame animation.
 >
 > **[4:21](https://www.linkedin.com/learning/css-animation-14153685/animating-variable-fonts-with-css?u=76281980&t=261)** There's so much potential in what we can do with animating variable fonts and they allow us to create animation effects that wouldn't be possible without them.
 >
@@ -2428,7 +2391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), css (2), game (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (2), vars (2), casl (1), crsv (1), wght (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -2442,8 +2405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using browser animation inspection tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/using-browser-animation-inspection-tools?u=76281980)
+#### [Using browser animation inspection tools](https://www.linkedin.com/learning/css-animation-14153685/using-browser-animation-inspection-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,7 +2487,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), web (4), css (2), next (1)
 > **UI Navigation:** go to (4), open the (3), click on (2)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** firefox (6)
@@ -2533,18 +2494,18 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
+> **Warnings:** note that (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Helpful online tools for CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980)
+#### [Helpful online tools for CSS](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=0)** - [Val] The web design community is full of helpful people.
+> **[0:00](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=0)** - [Val] The [[Web Design]] community is full of helpful people.
 >
 > **[0:03](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=3)** And because of that, we've got a lot of great online tools to help you create CSS animation.
 >
@@ -2562,7 +2523,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=50)** This is the browser-based version and you can also use other formats of it as well, but this one is my favorite.
 >
-> **[0:56](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=56)** And speaking of SVG, if you want to do more extensive SVG animation, I highly recommend using the JavaScript animation library, GreenSock.
+> **[0:56](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=56)** And speaking of SVG, if you want to do more extensive SVG animation, I highly recommend using the [[JavaScript]] animation library, GreenSock.
 >
 > **[1:04](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=64)** They have specialized plugins for SVG like Draw SVG and Morph SVG that can save you a whole lot of time.
 >
@@ -2576,13 +2537,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=99)** [Animistic.net](https://Animistic.net) is similar to those last two, but it also has a robust customization visualizer, which can be really useful for learning in addition to customizing the effect you want.
 >
-> **[1:51](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=111)** And last but not least, browsing [codepen.io](https://codepen.io) is a great place to find CSS animation inspiration, and pick up on some new coding techniques.
+> **[1:51](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=111)** And last but not least, browsing [[[CodePen]].io](https://codepen.io) is a great place to find CSS animation inspiration, and pick up on some new coding techniques.
 >
 > **[2:00](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=120)** I hope you'll find all of these sites useful in your CSS animation work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), web (1), power (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[JavaScript]] (1), [[CodePen]] (1)
 > **Env Vars:** svg (7), css (6)
 > **URLs:** [cubic-bezier.com](https://cubic-bezier.com) (2), [easings.net](https://easings.net) (2), [animxyz.com](https://animxyz.com) (1), [animistic.net](https://animistic.net) (1), [codepen.io](https://codepen.io) (1)
 > **CLI Commands:** find (2)

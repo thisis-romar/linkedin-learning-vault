@@ -17,59 +17,55 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[CSS Essential Training (2023)]]"
-    last_opened:
+  - course: '[[CSS Essential Training (2023)]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[JavaScript Essential Training]]"
-    last_opened:
+  - course: '[[JavaScript Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[HTML Essential Training]]"
-    last_opened:
+  - course: '[[HTML Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Search Techniques for Web Developers]]"
-    last_opened:
+  - course: '[[Search Techniques for Web Developers]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Learning ECMAScript 6+ (ES6+)]]"
-    last_opened:
+  - course: '[[Learning ECMAScript 6+ (ES6+)]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Git Essential Training]]"
-    last_opened:
+  - course: '[[Git Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[React Essential Training]]"
-    last_opened:
+  - course: '[[React Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Node Js Essential Training]]"
-    last_opened:
+  - course: '[[Node Js Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[SQL Essential Training]]"
-    last_opened:
+  - course: '[[SQL Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[NoSQL Essential Training]]"
-    last_opened:
+  - course: '[[NoSQL Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Learning Rest Apis]]"
-    last_opened:
+  - course: '[[Learning Rest Apis]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Devops Foundations]]"
-    last_opened:
+  - course: '[[Devops Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: devops-foundations-23454205
-    last_opened: 2026-05-02T20:34:13.259Z
-    open_count: 3
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Web%20Development/Learning%20Paths/Become%20a%20Full-Stack%20Web%20Developer.md)

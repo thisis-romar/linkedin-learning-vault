@@ -75,16 +75,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=0)** - I first fell in love with artificial intelligence when I was working in a neuroscience lab studying emotional learning and memory.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=0)** - I first fell in love with [[Artificial Intelligence (AI)|artificial intelligence]] when I was working in a neuroscience lab studying emotional learning and memory.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=8)** During my time in this lab, I would spend weeks collecting data for my experiments.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=13)** And while I love running experiments, manually collecting data took time, and I'm a bit of an impatient person, and that's when I discovered neural networks, a type of machine learning algorithm inspired by how the brain functions.
+> **[0:13](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=13)** And while I love running experiments, manually collecting data took time, and I'm a bit of an impatient person, and that's when I discovered [[Neural Networks]], a type of machine learning algorithm inspired by how the brain functions.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=29)** From then on, I was hooked on AI and wanted to create more machines capable of human-like intelligence.
 >
@@ -94,13 +93,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=48)** Next, we'll look at some popular tools and their uses.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=52)** We'll get hands-on with high level machine learning techniques, and wrap up by discussing project life cycles, ethics, and bias.
+> **[0:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=52)** We'll get hands-on with high level machine learning techniques, and wrap up by discussing project life cycles, [[Ethics]], and bias.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=60)** So if you're ready to take a deep dive into deep learning, then let's jump in.
+> **[1:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980&t=60)** So if you're ready to take a deep dive into [[Deep Learning]], then let's jump in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), [[Ethics]] (1), [[Deep Learning]] (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - i (1)
 
@@ -109,16 +108,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and machine learning overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
+#### [AI and machine learning overview](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=0)** - We're living in a world where machines can learn and act intelligently like humans.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=7)** Things like self-driving cars, personalized recommendations, and digital assistants, like Alexa, or even ChatGPT, have jumped off the pages of science-fiction, and have become a part of everyday life.
+> **[0:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=7)** Things like self-driving cars, personalized recommendations, and digital assistants, like Alexa, or even [[ChatGPT]], have jumped off the pages of science-fiction, and have become a part of everyday life.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=20)** This new and ever-changing world could only be a reality thanks to artificial intelligence and machine learning.
+> **[0:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=20)** This new and ever-changing world could only be a reality thanks to [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=28)** In this video, I'm going to provide an overview of AI and machine learning, so you understand the basics of these technologies.
 >
@@ -126,13 +124,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=38)** Artificial Intelligence, or AI, refers to a broad field of science focused on building smart machines capable of human-like intelligence.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=49)** The key idea is that by studying how the human brain works, we can engineer computer systems to mimic human cognitive functions, like problem-solving, pattern recognition, and even decision-making.
+> **[0:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=49)** The key idea is that by studying how the human brain works, we can engineer computer systems to mimic human cognitive functions, like problem-solving, pattern recognition, and even [[Decision-Making]].
 >
 > **[1:03](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=63)** But because AI encapsulates several concepts into one, it can get confusing when the term is used to discuss its more commonly used sub-fields.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=74)** For example, individuals may refer to AI when discussing robotics, and even Robotic Process Automation, RPA.
+> **[1:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=74)** For example, individuals may refer to AI when discussing robotics, and even [[Robotic Process Automation (RPA)|Robotic Process Automation]], RPA.
 >
-> **[1:22](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=82)** But for this course, and as data professionals, we're most interested in algorithms and the networks that power AI, which we refer to as machine learning.
+> **[1:22](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=82)** But for this course, and as data professionals, we're most interested in [[Algorithms]] and the networks that power AI, which we refer to as machine learning.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=94)** Machine learning is a subset of AI focused on algorithms that can learn from data, and as data professionals coming into this class, you have the key understanding of working with data, which is just what these algorithms do to create AI.
 >
@@ -144,13 +142,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=134)** The algorithm learns by identifying patterns and relationships in the data in order to make predictions, or decisions without explicitly programming.
 >
-> **[2:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=144)** For example, machine learning powers the recommendation engines used by Netflix and Amazon to suggest new movies, or products based on your viewing and purchase history.
+> **[2:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=144)** For example, machine learning powers the recommendation engines used by Netflix and Amazon to suggest new movies, or [[Microsoft Products|products]] based on your viewing and purchase history.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=157)** The more data they gather, the better their recommendations become.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=162)** Though the term is over 60 years old, AI and ML have taken off in this past decade due to new techniques, like deep learning, and the growth in computing power and data.
+> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=162)** Though the term is over 60 years old, AI and ML have taken off in this past decade due to new techniques, like [[Deep Learning]], and the growth in computing power and data.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=176)** Deep learning uses neural networks modeled after the human brain to process huge data sets and drive major leaps in capabilities like large language models, computer vision, and natural language processing.
+> **[2:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=176)** Deep learning uses [[Neural Networks]] modeled after the human brain to process huge data sets and drive major leaps in capabilities like [[Large Language Models (LLM)|large language models]], [[Computer Vision]], and [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[3:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980&t=191)** For example, deep learning enables a facial recognition algorithm to go from detecting faces to accurately identifying who a person is by analyzing thousands, or even millions of images.
 >
@@ -164,15 +162,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (4), [[Deep Learning]] (4)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (4), [[Deep Learning]] (4), [[ChatGPT]] (1), [[Decision-Making]] (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** rpa (1), ibm (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Types of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980)
+#### [Types of machine learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,13 +183,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=25)** While the basics of AI is machine learning, in this video, we're going to break that down even further into the three types.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=34)** Supervised learning, unsupervised learning, and reinforcement learning.
+> **[0:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=34)** [[Supervised Learning]], unsupervised learning, and [[Reinforcement Learning]].
 >
 > **[0:40](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=40)** Knowing the strengths of each will help you leverage machine learning more effectively in your own projects.
 >
 > **[0:47](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=47)** Let's start with the most common one. Supervised learning.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=51)** In supervised learning algorithms are trained on labeled data sets, meaning the data has been pre tagged with the right answers.
+> **[0:51](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=51)** In supervised learning [[Algorithms]] are trained on labeled data sets, meaning the data has been pre tagged with the right answers.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/types-of-machine-learning?u=76281980&t=60)** For example, you can feed an image recognition algorithm, hundreds of labeled cat and dog photos, so it learns to spot the visual patterns for each.
 >
@@ -236,15 +233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), [[Supervised Learning]] (4), [[Reinforcement Learning]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Reinforcement Learning]] (3), [[Algorithms]] (2)
 > **CLI Commands:** cat (1), find (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - machine (1)
 
-#### Popular AI and ML tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980)
+#### [Popular AI and ML tools](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=21)** In this video, we'll explore five indispensable AI and ML tools.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=27)** Note, I'm assuming you're comfortable with languages like Python and SQL.
+> **[0:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=27)** Note, I'm assuming you're comfortable with languages like [[Python (Programming Language)|Python]] and [[SQL]].
 >
 > **[0:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=33)** If you're not, do yourself a favor and get a strong Python foundation before diving into these awesome tools.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=50)** Well, think customer segmentation or predicting house prices.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=55)** scikit-learn is fantastic for classical ML algorithms like random forests, SVMs, and k-means clustering.
+> **[0:55](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=55)** scikit-learn is fantastic for classical ML [[Algorithms]] like random forests, SVMs, and [[k-means clustering]].
 >
 > **[1:04](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=64)** If you don't recognize some of these fancy terms, just think of them as tools that output predictive analysis from large datasets and other tools that check the outputs for accuracy.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=81)** Plus, it offers excellent tools for model evaluation, hyperparameter tuning, and feature selection.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=89)** Next up is PyTorch, the deep learning maverick.
+> **[1:29](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=89)** Next up is [[PyTorch]], the [[Deep Learning]] maverick.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=92)** If you're interested in advanced projects like autonomous driving, PyTorch is your friend.
 >
@@ -282,13 +278,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=108)** Whether you're a newbie or a pro, its dynamic computation graph is a lifesaver for debugging.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=116)** Keras, making neural networks a piece of cake.
+> **[1:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=116)** Keras, making [[Neural Networks]] a piece of cake.
 >
 > **[1:59](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=119)** Ever wanted to dabble in image or voice recognition?
 >
 > **[2:03](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=123)** Keras is designed for these kinds of neural network tasks.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=127)** Its high level API that can run on top of TensorFlow or PyTorch and simplifies building complex neural network architectures, ideal for fast prototyping and trying out multiple models.
+> **[2:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=127)** Its high level API that can run on top of [[TensorFlow]] or PyTorch and simplifies building complex neural network architectures, ideal for fast [[Prototyping]] and trying out multiple models.
 >
 > **[2:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=141)** Fourth is XGBoost, your go-to for boosted trees.
 >
@@ -298,11 +294,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=153)** Enter XGBoost.
 >
-> **[2:35](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=155)** It's designed for boosted-tree algorithms that combine multiple decision trees for accurate results.
+> **[2:35](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=155)** It's designed for boosted-tree algorithms that combine multiple [[Decision Trees]] for accurate results.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=162)** XGBoost can handle big data and still perform exceptionally well.
+> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=162)** XGBoost can handle [[Big Data]] and still perform exceptionally well.
 >
-> **[2:48](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=168)** And finally, Hugging Face, the NLP wizard.
+> **[2:48](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=168)** And finally, [[Hugging Face]], the NLP wizard.
 >
 > **[2:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/popular-ai-and-ml-tools?u=76281980&t=172)** For any text-based applications, like chatbots or sentiment analysis, look no further than Hugging Face.
 >
@@ -322,14 +318,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Python (Programming Language)|Python]] (4), [[PyTorch]] (4), [[Algorithms]] (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[PyTorch]] (4), [[Algorithms]] (2), [[Hugging Face]] (2), [[SQL]] (1)
 > **Env Vars:** nlp (2), sql (1), api (1), bert (1), gpt (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### AI applications and use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980)
+#### [AI applications and use cases](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,21 +340,21 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=30)** Where AI is being used to analyze medical scans and detect diseases earlier and more accurately.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=38)** Using convolutional neural networks, built with PyTorch or TensorFlow, AI systems can pinpoint signs of cancer, fractures and other issues by identifying visual patterns in scans.
+> **[0:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=38)** Using [[Convolutional Neural Networks (CNN)|convolutional neural networks]], built with [[PyTorch]] or [[TensorFlow]], AI systems can pinpoint signs of cancer, fractures and other issues by identifying visual patterns in scans.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=52)** One company, Enlitik, has a deep learning algorithm that interprets CT scans 50 times faster than a radiologist with 99% accuracy, a potential game changer for screening and treatment.
+> **[0:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=52)** One company, Enlitik, has a [[Deep Learning]] algorithm that interprets CT scans 50 times faster than a radiologist with 99% accuracy, a potential game changer for screening and treatment.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=70)** Next up is business where AI chatbots and virtual agents are transforming customer service through natural language processing.
+> **[1:10](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=70)** Next up is business where AI chatbots and virtual agents are transforming customer service through [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[1:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=79)** Tools like Hugging Face and natural language APIs enable bots to understand customer questions, then respond with relevant info.
+> **[1:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=79)** Tools like [[Hugging Face]] and natural language APIs enable bots to understand customer questions, then respond with relevant info.
 >
 > **[1:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=88)** 1-800-FLOWERS uses IBM Watson to provide gift suggestions based on occasion, answer questions, and even process orders.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=98)** Manufacturing is another area seeing gains.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=102)** Computer vision AI can automate quality control on assembly lines.
+> **[1:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=102)** [[Computer Vision]] AI can automate quality control on assembly lines.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=107)** Using image recognition and deep learning, AI systems can scan products to flag any defects or issues faster and more consistently than human inspectors.
+> **[1:47](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=107)** Using image recognition and deep learning, AI systems can scan [[Microsoft Products|products]] to flag any defects or issues faster and more consistently than human inspectors.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=120)** Nissan uses this visual AI at many of its plants to analyze thousands of images and spot microscopic manufacturing defects.
 >
@@ -369,13 +364,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=157)** Brainstorming use cases is a great way to expand your thinking on this transformative potential of AI.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=165)** The LinkedIn network is a great way to connect and learn from others in the field, so don't be shy.
+> **[2:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=165)** The [[LinkedIn]] network is a great way to connect and learn from others in the field, so don't be shy.
 >
 > **[2:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-applications-and-use-cases?u=76281980&t=172)** Post and share your ideas today, 'cause who knows, you might come up with the best new use case for AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Deep Learning]] (2), business (2), [[Microsoft Products|Products]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Microsoft Products|Products]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **Env Vars:** flowers (1), ibm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -386,8 +381,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data types and sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
+#### [Data types and sources](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,33 +389,33 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=6)** In this video, we'll explore the key data types and sources to power your AI and machine learning projects.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=14)** Understanding your options will help you build robust data pipelines.
+> **[0:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=14)** Understanding your options will help you build robust [[Data Pipelines]].
 >
 > **[0:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=19)** Let's start with the two main data formats, structured and unstructured.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=25)** Structured data has a predefined model like rows and columns in it or a SQL database.
+> **[0:25](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=25)** Structured data has a predefined model like rows and columns in it or a [[SQL]] database.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=31)** If you are a data professional, most likely you have experience working with SQL databases.
+> **[0:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=31)** If you are a data professional, most likely you have experience working with SQL [[Databases]].
 >
 > **[0:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=37)** This includes most customer info, product specs, operational metrics, and even quantitative data.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=45)** Structured data is crucial for training machine learning algorithms.
+> **[0:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=45)** Structured data is crucial for training machine learning [[Algorithms]].
 >
-> **[0:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=50)** The rigid structure allows the algorithms to map input data to outcomes for tasks like prediction, forecasting, and recommendations.
+> **[0:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=50)** The rigid structure allows the algorithms to map input data to outcomes for tasks like prediction, [[Forecasting]], and recommendations.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=59)** For structured data, SQL databases are particularly important.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=64)** SQL enables efficient querying, cleansing, and analysis of large data sets.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=71)** Most organizations will leverage SQL alongside tools like Python and Pandas when prepping data for ML.
+> **[1:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=71)** Most organizations will leverage SQL alongside tools like [[Python (Programming Language)|Python]] and [[Pandas (Software)|Pandas]] when prepping data for ML.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=79)** When it comes to volume, more data is better for your machine learning, and you'll see why in the next few lessons as we discuss splitting our data from training and testing, so please keep that in mind.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=93)** You often need thousands or millions of data points for accurate training, especially with deep neural networks.
+> **[1:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=93)** You often need thousands or millions of data points for accurate training, especially with deep [[Neural Networks]].
 >
-> **[1:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=101)** Conversely, unstructured data has no defined model like images, video, audio, or text.
+> **[1:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=101)** Conversely, [[Unstructured Data]] has no defined model like images, video, audio, or text.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=109)** This is common for computer vision and NLP tasks.
+> **[1:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=109)** This is common for [[Computer Vision]] and NLP tasks.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=113)** The algorithm extracts relevant patterns from pixels and words instead of columns values.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=155)** It's useful for augmenting small data sets or anonymizing sensitive data.
 >
-> **[2:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=161)** If you need niche hand-labeled data, you can either do it yourself, which is time consuming, or use one of the many contracting services for custom data annotation and taking.
+> **[2:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=161)** If you need niche hand-labeled data, you can either do it yourself, which is time consuming, or use one of the many contracting services for custom [[Data Annotation]] and taking.
 >
 > **[2:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980&t=173)** Blending data from multiple internal, external, public, and synthetic sources is often best.
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[SQL]] (5), ai (2), [[Databases]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (2), [[Algorithms]] (2), [[Unstructured Data]] (2), [[Computer Vision]] (2)
 > **Env Vars:** sql (5), nlp (1)
 > **CLI Commands:** make (1), python (1)
 > **Best Practices:** the key is (1), remember to (1)
@@ -463,8 +457,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - getting (1)
 
-#### Exploratory data analysis (EDA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980)
+#### [Exploratory data analysis (EDA)](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=41)** So let's explore some.
 >
-> **[0:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=43)** Descriptive statistics like mean, median, standard deviation and quartiles provide a numerical summary of your data.
+> **[0:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=43)** Descriptive [[Statistics]] like mean, median, standard deviation and quartiles provide a numerical summary of your data.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=53)** These measures allow you to grasp the central tendencies, dispersions, and even the shape of each variable.
 >
@@ -510,9 +503,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=125)** In our next lesson, we'll focus on addressing these issues such as inputting missing values and treating outliers to prepare your data for advanced analysis.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=135)** If you're looking for a good library to perform your exploratory data analysis in Python, I highly recommend libraries like Pandas or Map Plot Lib, which make EDA easier and more effective.
+> **[2:15](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=135)** If you're looking for a good library to perform your exploratory data analysis in [[Python (Programming Language)|Python]], I highly recommend libraries like [[Pandas (Software)|Pandas]] or Map Plot Lib, which make EDA easier and more effective.
 >
-> **[2:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=150)** The goal of EDA is finding key patterns and themes that will guide your model feature selection, feature engineering, and the data processing to best capture the relationships and trends for accurate predictions.
+> **[2:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=150)** The goal of EDA is finding key patterns and themes that will guide your model feature selection, [[Feature Engineering]], and the [[Data Processing]] to best capture the relationships and trends for accurate predictions.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/exploratory-data-analysis-eda?u=76281980&t=164)** EDA is an iterative process revisited as new questions come up during modeling, but thorough initial analysis ensures you know the data intricacies.
 >
@@ -524,15 +517,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), feature (2), [[Statistics]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Feature Engineering]] (1), [[Data Processing]] (1)
 > **Env Vars:** eda (6)
 > **Analogies:** such as (2), think of it as (1), for example (1), imagine (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - exploratory (1)
 
-#### Data preprocessing techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980)
+#### [Data preprocessing techniques](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +534,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=11)** And in today's video we'll dive deep into core data pre-processing techniques that will not only save you time, but also amp your model's performance.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=23)** When working with structured data, your first hurdle is data cleaning, a crucial aspect that covers missing values.
+> **[0:23](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=23)** When working with structured data, your first hurdle is [[Data Cleaning]], a crucial aspect that covers missing values.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=32)** You've got options.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=74)** It's all about rescaling features to a common range like zero to one.
 >
-> **[1:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=80)** This is a cornerstone for many machine learning algorithms.
+> **[1:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=80)** This is a cornerstone for many machine learning [[Algorithms]].
 >
 > **[1:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=84)** Dimensionality reduction, less is more.
 >
@@ -584,13 +576,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=134)** Time series data.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=136)** Resampling and smoothing are your friends when forecasting is on the menu.
+> **[2:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=136)** Resampling and smoothing are your friends when [[Forecasting]] is on the menu.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=142)** Text data, stemming, lemmatization and vectorization via TFIDF.
 >
 > **[2:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=150)** Get your text data model ready.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=153)** The Pandas library in Python is your trustee sidekick in this pre-processing journey.
+> **[2:33](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=153)** The [[Pandas (Software)|Pandas]] library in [[Python (Programming Language)|Python]] is your trustee sidekick in this pre-processing journey.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-preprocessing-techniques?u=76281980&t=160)** It's versatile, user-friendly, making most of these tasks a breeze.
 >
@@ -604,18 +596,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Algorithms]] (2), [[Pandas (Software)|Pandas]] (2), feature (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Pandas (Software)|Pandas]] (2), [[Data Cleaning]] (1), [[Forecasting]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** tfidf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - real (1)
 
-#### Feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980)
+#### [Feature engineering](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=0)** - Feature engineering is a crucial machine learning skill that transforms raw data into information features that help models capture key relationships and patterns.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=0)** - [[Feature Engineering]] is a crucial machine learning skill that transforms raw data into information features that help models capture key relationships and patterns.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=13)** Today we're diving deep into the best practices for feature engineering, and introducing some handy techniques you'll use time and time again.
 >
@@ -667,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=160)** Don't forget the scikit-learn library, which provides a ton of these techniques right out of the box.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=166)** Pandas, NumPy are also your friends here.
+> **[2:46](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=166)** [[Pandas (Software)|Pandas]], NumPy are also your friends here.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/feature-engineering?u=76281980&t=170)** Remember, investing time in feature engineering can make or break your model's performance.
 >
@@ -677,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (6), [[Feature Engineering]] (4), [[Pandas (Software)|Pandas]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -689,12 +680,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supervised learning overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
+#### [Supervised learning overview](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=0)** - Supervised learning is one of the most common and powerful branches of machine learning.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=0)** - [[Supervised Learning]] is one of the most common and powerful branches of machine learning.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=6)** In this video, we'll provide an overview of supervised learning fundamentals to help you build your skills.
 >
@@ -712,15 +702,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=53)** Supervised learning shines for prediction task.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=56)** With labeled training data, supervised algorithms uncover relationships between input features, like income, and the target variable, default status, to build predictive models.
+> **[0:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=56)** With labeled training data, supervised [[Algorithms]] uncover relationships between input features, like income, and the target variable, default status, to build predictive models.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=69)** Regression algorithms like linear regression excel at predicting continuous variables such as loan amounts.
+> **[1:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=69)** Regression algorithms like [[Linear Regression]] [[Microsoft Excel|excel]] at predicting continuous variables such as loan amounts.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=76)** Classification algorithms like logistic regression and support vector machines handle categorical outcomes, like default status.
+> **[1:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=76)** Classification algorithms like [[Logistic Regression]] and support vector machines handle categorical outcomes, like default status.
 >
 > **[1:26](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=86)** By learning from prior examples, they categorize new data points.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=91)** Neural networks are universal function approximators.
+> **[1:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=91)** [[Neural Networks]] are universal function approximators.
 >
 > **[1:35](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=95)** Capable of modeling complex non-linear relationships for either regression or classification, their flexibility makes them powerful predictors.
 >
@@ -736,7 +726,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=138)** Also, models may falsely infer correlations between meaningless inputs and targets overfitting the data.
 >
-> **[2:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=147)** Use cases like financial forecasting, medical diagnosis, spam detection, object recognition, speech recognition, and most analytical predictions benefit from supervised learning models of labeled examples.
+> **[2:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=147)** Use cases like [[Financial Forecasting]], medical diagnosis, spam detection, object recognition, [[Speech Recognition]], and most analytical predictions benefit from supervised learning models of labeled examples.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980&t=164)** In the next video, we will dive deeper into techniques for unlabeled data.
 >
@@ -756,18 +746,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (12), data (9), [[Algorithms]] (4), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (12), [[Algorithms]] (4), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1), [[Logistic Regression]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - supervised (1)
 
-#### Unsupervised learning overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980)
+#### [Unsupervised learning overview](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=0)** - Let's say you run an e-commerce site.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=0)** - Let's say you run an [[E-Commerce]] site.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=3)** You have data on customer purchases, product views, demographics, and more.
 >
@@ -783,11 +772,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=36)** Unsupervised learning finds hidden patterns and relationships in data without any labeling guidance, it's great for segmentation, association analysis, dimensionality reduction, and the discovering of intrinsic clusters.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=54)** In our e-commerce example, we can leverage clustering algorithms, a key unsupervised technique to segment customers into common groups based on attributes and behaviors.
+> **[0:54](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=54)** In our e-commerce example, we can leverage clustering [[Algorithms]], a key unsupervised technique to segment customers into common groups based on attributes and behaviors.
 >
 > **[1:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=67)** This provides actionable personas for marketing.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=71)** K-means clustering is an efficient algorithm that partitions data points into k clusters.
+> **[1:11](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=71)** [[k-means clustering]] is an efficient algorithm that partitions data points into k clusters.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=78)** defined by proximity and centroid centers.
 >
@@ -817,7 +806,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=163)** Use cases like customer segmentation, social network analysis, market basket analysis, and data compression play well into the strengths of unsupervised learning.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=176)** It shines when exploring unlabeled data, but for a prediction task or where target outcomes exist, supervised learning is preferable.
+> **[2:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=176)** It shines when exploring unlabeled data, but for a prediction task or where target outcomes exist, [[Supervised Learning]] is preferable.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/unsupervised-learning-overview?u=76281980&t=188)** Labeled data trains supervised models to directly optimize objective, predictive accuracy.
 >
@@ -827,17 +816,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[E-Commerce]] (3), product (2), [[Algorithms]] (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Algorithms]] (1), [[k-means clustering]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Reinforcement learning overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980)
+#### [Reinforcement learning overview](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=0)** - Reinforcement learning takes a unique approach to training AI models compared to supervised and unsupervised techniques.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=0)** - [[Reinforcement Learning]] takes a unique approach to training AI models compared to supervised and unsupervised techniques.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=10)** Rather than data examples or unlabeled data, reinforcement learning relies on experience gained through trial and error interactions with an environment.
 >
@@ -857,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=87)** Reinforcement learning problems are framed as Markov decision processes, consisting of states, actions, rewards, and policies.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=99)** Key algorithms include Monte Carlo methods, which sample many experiences, temporal difference learning, which accounts for future expectations and Deep Q-learning, which approximates the reward function.
+> **[1:39](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=99)** Key [[Algorithms]] include Monte Carlo methods, which sample many experiences, temporal difference learning, which accounts for future expectations and Deep Q-learning, which approximates the reward function.
 >
 > **[1:54](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=114)** In traditional reinforcement learning, the reward signal is generated automatically by the system based on predefined rules and objectives.
 >
@@ -865,25 +853,25 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=132)** In addition to traditional reinforcement learning, human feedback adds a valuable dynamic training signal by allowing real people to judge an AI agent's actions and provide subjective rewards or critiques.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=148)** Looking at OpenAI's chat bot, ChatGPT, we see reinforcement learning from human feedback.
+> **[2:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=148)** Looking at OpenAI's chat bot, [[ChatGPT]], we see reinforcement learning from human feedback.
 >
 > **[2:36](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=156)** This is where the AI agent converses with crowdsourced human trainers.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=162)** The trainers give real-time feedback on the agent's responses, rating whether they're harmless, helpful, and honest.
+> **[2:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=162)** The trainers give [[Real-Time]] feedback on the agent's responses, rating whether they're harmless, helpful, and honest.
 >
 > **[2:52](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=172)** This aligns the model with human values through reinforcement of ethical dialogue.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=179)** The agent learns conversing skills that minimize harm and dishonesty while maximizing usefulness determined by the average human trainer's rating.
 >
-> **[3:12](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=192)** Reinforcement learning from human feedback is particularly useful for training large language models.
+> **[3:12](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=192)** Reinforcement learning from human feedback is particularly useful for training [[Large Language Models (LLM)|large language models]].
 >
 > **[3:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=200)** The conversational nature of the reinforcement learning allows LLMs to efficiently align with beneficial dialogue behaviors.
 >
-> **[3:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=210)** Other companies like Facebook and Google also use human feedback for reinforcement learning.
+> **[3:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=210)** Other companies like Facebook and [[Google]] also use human feedback for reinforcement learning.
 >
 > **[3:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=217)** Showing AI assistants examples of unhelpful or inappropriate responses guides them towards better dialogue.
 >
-> **[3:46](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=226)** By closing the loop with human judgment and training, reinforcement learning powered by feedback better captures the nuances of communications, ethics, and the reasoning compared to fixed rewards.
+> **[3:46](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=226)** By closing the loop with human judgment and training, reinforcement learning powered by feedback better captures the nuances of communications, [[Ethics]], and the reasoning compared to fixed rewards.
 >
 > **[4:01](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=241)** A major benefit of reinforcement learning is the ability to learn optimal behavior independently.
 >
@@ -893,26 +881,25 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=261)** Some cases, like games, robotics, resource management, and control systems are ideal for reinforcement learning.
 >
-> **[4:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=270)** Whenever an agent can be trained through simulation or real world experience, it's a powerful approach.
+> **[4:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=270)** Whenever an agent can be trained through [[Simulation]] or real world experience, it's a powerful approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (12), ai (4), data (2), game (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (12), [[Algorithms]] (1), [[ChatGPT]] (1), [[Real-Time]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - reinforcement (1)
 
-#### Deep learning overview: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980)
+#### [Deep learning overview: Part 1](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=0)** - So far, we've learned the three major areas of machine learning: supervise, unsupervised, and reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=0)** - So far, we've learned the three major areas of machine learning: supervise, unsupervised, and [[Reinforcement Learning]].
 >
-> **[0:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=9)** But you may be wondering, how do these methods lead to exciting applications like computer vision, speech recognition, natural language processing, and more?
+> **[0:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=9)** But you may be wondering, how do these methods lead to exciting applications like [[Computer Vision]], [[Speech Recognition]], [[Natural Language Processing (NLP)|natural language processing]], and more?
 >
-> **[0:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=21)** This is where deep learning comes in.
+> **[0:21](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=21)** This is where [[Deep Learning]] comes in.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=24)** Deep learning is a type of machine learning based on artificial neural networks with multiple layers.
+> **[0:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=24)** Deep learning is a type of machine learning based on [[Artificial Neural Networks]] with multiple layers.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=31)** The deep refers to the multiple layers in the network.
 >
@@ -920,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=42)** So how does it do its magic?
 >
-> **[0:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=45)** Deep learning models primarily use multi-layered artificial neural networks, such as convolutional neural networks for image recognition or transformers for NLP.
+> **[0:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=45)** Deep learning models primarily use multi-layered artificial neural networks, such as [[Convolutional Neural Networks (CNN)|convolutional neural networks]] for image recognition or transformers for NLP.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=59)** But it can get even wilder with deep belief networks and deep Boltzmann machines.
 >
@@ -942,9 +929,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=114)** In natural language processing, NLP, deep learning could be useful for things like chatbots, capable of understanding and generating human-like texts.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=126)** All right, let's zoom into our NLP example.
+> **[2:06](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=126)** All right, let's [[Zoom]] into our NLP example.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=129)** This time we're talking about ChatGPT.
+> **[2:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=129)** This time we're talking about [[ChatGPT]].
 >
 > **[2:13](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=133)** Ever wonder how ChatGPT can engage in a conversation and answer your questions or even generate content?
 >
@@ -956,11 +943,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=163)** ChatGPT then uses this data to learn the ins and outs of human language, from basic grammar to complex sentence structure.
 >
-> **[2:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=173)** For a tech deep dive, most of these models are built using frameworks like TensorFlow or PyTorch.
+> **[2:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=173)** For a tech deep dive, most of these models are built using frameworks like [[TensorFlow]] or [[PyTorch]].
 >
 > **[3:01](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=181)** ChatGPT, in particular, leverages the transformer architecture.
 >
-> **[3:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=187)** Unlike older architectures like RNNs, transformers excel in handling long-range dependencies in texts, making them incredibly efficient for NLP tasks.
+> **[3:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=187)** Unlike older architectures like RNNs, transformers [[Microsoft Excel|excel]] in handling long-range dependencies in texts, making them incredibly efficient for NLP tasks.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-1?u=76281980&t=199)** It's like giving your model a superpower to grasp better context.
 >
@@ -988,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (10), [[ChatGPT]] (8), nlp (4), [[Computer Vision]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (10), [[ChatGPT]] (8), [[Computer Vision]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Neural Networks]] (2)
 > **Env Vars:** nlp (4)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
@@ -996,12 +983,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### Deep learning overview: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980)
+#### [Deep learning overview: Part 2](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=0)** - Switching gears, pun intended, let's talk about another fascinating application of deep learning, computer vision, particularly in self-driving cars.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=0)** - Switching gears, pun intended, let's talk about another fascinating application of [[Deep Learning]], [[Computer Vision]], particularly in self-driving cars.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=12)** Ever wonder how Tesla's autopilot or Waymo's vehicles can navigate through traffic, recognize pedestrians and obey road signs?
 >
@@ -1013,9 +999,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=37)** These data sets include a multitude of scenarios, pedestrians crossing, different weather conditions, and countless road signs.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=47)** Popular frameworks for computer vision tasks include OpenCV, TensorFlow, and PyTorch.
+> **[0:47](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=47)** Popular frameworks for computer vision tasks include OpenCV, [[TensorFlow]], and [[PyTorch]].
 >
-> **[0:55](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=55)** Neural networks specialize for image data, like convolutional neural networks, are often the go-to architecture.
+> **[0:55](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=55)** [[Neural Networks]] specialize for image data, like [[Convolutional Neural Networks (CNN)|convolutional neural networks]], are often the go-to architecture.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=63)** These networks can identify patterns and features in images that are crucial for tasks, like object recognition and classification.
 >
@@ -1035,7 +1021,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=127)** All right, friends, let's wrap this up.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=130)** We've gone on quite a journey in this chapter, from understanding the basics of machine learning, all the way to a deep dive into real world applications, like NLP with ChatGPT, and computer vision and self-driving cars.
+> **[2:10](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=130)** We've gone on quite a journey in this chapter, from understanding the basics of machine learning, all the way to a deep dive into real world applications, like NLP with [[ChatGPT]], and computer vision and self-driving cars.
 >
 > **[2:26](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=146)** In essence, deep learning is the jet fuel that's powering some of the most revolutionary advancements in technology today.
 >
@@ -1055,7 +1041,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=192)** While we've made huge strides, it's crucial to remember that these models are still a work in progress.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=198)** They need ongoing fine tuning and ethical oversight.
+> **[3:18](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=198)** They need ongoing [[Fine Tuning]] and ethical oversight.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/deep-learning-overview-part-2?u=76281980&t=203)** So what's next?
 >
@@ -1071,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Computer Vision]] (4), data (3), [[TensorFlow]] (2), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Computer Vision]] (4), [[TensorFlow]] (2), [[PyTorch]] (2), [[Neural Networks]] (1)
 > **Env Vars:** nlp (2), cnn (1)
 > **Speakers:** - switching (1)
 
@@ -1080,8 +1066,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model evaluation and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
+#### [Model evaluation and validation](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1076,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=13)** That's what we're here to discuss.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=16)** In supervised learning, we typically split our data into training and test sets.
+> **[0:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=16)** In [[Supervised Learning]], we typically split our data into training and test sets.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=22)** The training set is used to train the model and the test set is used to evaluate its performance.
 >
@@ -1115,15 +1100,15 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=87)** The elbow method helps determine the number of clusters.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=90)** And gap statistics compares the total inter-cluster variation for different values of K.
+> **[1:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=90)** And gap [[Statistics]] compares the total inter-cluster variation for different values of K.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=98)** For reinforcement learning, the model's performance is generally evaluated by letting it interact with an environment and observing how well it maximizes its rewards.
+> **[1:38](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=98)** For [[Reinforcement Learning]], the model's performance is generally evaluated by letting it interact with an environment and observing how well it maximizes its rewards.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=110)** Common tests used include total cumulative reward, which shows you the sum of all rewards gathered during an episode.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=120)** Policy comparison is where you compare the policy derived from the model to a known optimal policy.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=128)** Because deep learning encapsulates supervised, semi-supervised, or unsupervised models, it can use a variety of techniques, as listed above.
+> **[2:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=128)** Because [[Deep Learning]] encapsulates supervised, semi-supervised, or unsupervised models, it can use a variety of techniques, as listed above.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980&t=139)** However, some common metrics include mean absolute error for regression problems, categorical cross-entropy for classification problems, and intersection over union, commonly used in object detection.
 >
@@ -1145,14 +1130,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (1), [[Supervised Learning]] (1), [[Statistics]] (1), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Statistics]] (1), [[Reinforcement Learning]] (1), [[Deep Learning]] (1)
 > **Env Vars:** roc (1), auc (1), nlp (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
-#### AI project lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980)
+#### [AI project lifecycle](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=23)** This is where you define what you're trying to achieve.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=27)** Whether it's automating customer support with a chatbot or predicting stock prices, you need to pinpoint the problem and how AI can solve it.
+> **[0:27](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=27)** Whether it's automating [[Customer Support]] with a chatbot or predicting stock prices, you need to pinpoint the problem and how AI can solve it.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=37)** To do this, you first need to identify your key stakeholder roles.
 >
@@ -1178,7 +1162,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=49)** They're likely to assign a domain expert or someone who understands the ins and outs of the field you're operating in, and a data scientist who can advise on what's possible for the project.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=61)** The next phase is data collection and preparation.
+> **[1:01](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=61)** The next phase is [[Data Collection]] and preparation.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=65)** Now, you'll need to gather and clean the data that your model will train on.
 >
@@ -1190,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=94)** The data scientists or ML engineers will use the prepared data to train different models.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=100)** They'll tweak hyperparameters, try different algorithms, and maybe even swear a little.
+> **[1:40](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=100)** They'll tweak hyperparameters, try different [[Algorithms]], and maybe even swear a little.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=106)** It's an iterative and exciting process.
 >
@@ -1198,7 +1182,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=114)** This means integrating it into your existing systems so that it can start to solve real-world problems.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=122)** Oftentimes, it's the ML engineer or MLOps individual who will perform this step.
+> **[2:02](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=122)** Oftentimes, it's the ML engineer or [[MLOps]] individual who will perform this step.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=129)** But remember, an AI model isn't a set it and forget it solution.
 >
@@ -1206,7 +1190,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=144)** So just because the model is in production, you can't forget this crucial step of model maintenance.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=151)** Even after deployment, there's always room for improvement, whether it's tweaking the model or upgrading the hardware it runs on.
+> **[2:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=151)** Even after deployment, there's always room for improvement, whether it's tweaking the model or upgrading the [[Hardware]] it runs on.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-project-lifecycle?u=76281980&t=159)** Your ML engineers or MLOps team will be on the lookout for ways to make your model perform even better.
 >
@@ -1220,17 +1204,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (7), [[MLOps]] (2), [[Customer Support]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[MLOps]] (2), [[Customer Support]] (1), [[Data Collection]] (1), [[Algorithms]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - hey (1)
 
-#### AI ethics and bias: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980)
+#### [AI ethics and bias: Part 1](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=0)** - Today we're diving into a topic that should be at the forefront of every AI and ML project, ethics and bias.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=0)** - Today we're diving into a topic that should be at the forefront of every AI and ML project, [[Ethics]] and bias.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=9)** While AI technologies offer unprecedented advantages, they also present ethical dilemmas and can perpetuate or even exacerbate bias, if not properly managed.
 >
@@ -1250,7 +1233,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=64)** If that data is skewed, your model's predictions will be too.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=68)** Algorithmic Bias. Sometimes the algorithms themselves may inadvertently favor one group.
+> **[1:08](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=68)** Algorithmic Bias. Sometimes the [[Algorithms]] themselves may inadvertently favor one group.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=76)** Human Bias. Let's not forget that models are built and deployed by humans who bring their own unconscious bias to the table, this is when that happens.
 >
@@ -1282,9 +1265,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=164)** This lack of trust can be a roadblock in AI adoption.
 >
-> **[2:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=170)** Accountability. In case of errors or controversial outcomes, transparency is key to identifying what went wrong and who or what is responsible.
+> **[2:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=170)** [[Accountability]]. In case of errors or controversial outcomes, transparency is key to identifying what went wrong and who or what is responsible.
 >
-> **[3:02](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=182)** And finally, regulatory compliance.
+> **[3:02](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=182)** And finally, [[Regulatory Compliance]].
 >
 > **[3:06](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=186)** Certain industries require explanations for automated decisions.
 >
@@ -1294,7 +1277,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=202)** Interpretable Models.
 >
-> **[3:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=204)** Some algorithms like decision trees and linear regression are inherently easier to understand than say, deep neural networks.
+> **[3:24](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=204)** Some algorithms like [[Decision Trees]] and [[Linear Regression]] are inherently easier to understand than say, deep [[Neural Networks]].
 >
 > **[3:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-1?u=76281980&t=214)** Local Explanations.
 >
@@ -1316,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (6), [[Algorithms]] (2), next (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Ethics]] (1), [[Accountability]] (1), [[Regulatory Compliance]] (1), [[Decision Trees]] (1)
 > **Analogies:** it's like (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** lime (1)
@@ -1324,12 +1307,11 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - today (1)
 
-#### AI ethics and bias: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980)
+#### [AI ethics and bias: Part 2](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=0)** - Balancing transparency and performance is an important aspect of the ethics and bias problem, but here's the difficult part: often the most accurate models are the least interpretable.
+> **[0:00](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=0)** - Balancing transparency and performance is an important aspect of the [[Ethics]] and bias problem, but here's the difficult part: often the most accurate models are the least interpretable.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=16)** Is the extra accuracy of a complex model worth the trade-off in transparency?
 >
@@ -1361,7 +1343,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=105)** The challenge here is defining those values comprehensively.
 >
-> **[1:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=110)** Inverse reinforcement learning.
+> **[1:50](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=110)** Inverse [[Reinforcement Learning]].
 >
 > **[1:53](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-ethics-and-bias-part-2?u=76281980&t=113)** This is where the model observes human behavior to infer objectives and values, thereby learning what to optimize for regular audits and updates.
 >
@@ -1395,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Ethics]] (4), [[Programming]] (1), [[Reinforcement Learning]] (1), business (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Reinforcement Learning]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), known as (1)
 > **Prerequisites:** you'll need (1)
@@ -1406,8 +1388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bring it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)
+#### [Bring it all together](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,11 +1408,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=26)** There's something for everyone.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=28)** Whether it's machine learning ops, data engineering, or AI product management, there's a place that's just right for you.
+> **[0:28](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=28)** Whether it's machine learning ops, [[Data Engineering]], or AI product management, there's a place that's just right for you.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=37)** So let's figure out your coordinates on this vast AI map.
 >
-> **[0:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=43)** Was it natural language processing that caught your eye, or were you fascinated by the classification models in supervised learning?
+> **[0:43](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=43)** Was it [[Natural Language Processing (NLP)|natural language processing]] that caught your eye, or were you fascinated by the classification models in [[Supervised Learning]]?
 >
 > **[0:51](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=51)** Pinpoint these areas because they're your north star.
 >
@@ -1453,7 +1434,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=91)** Did a specific algorithm spark joy for you?
 >
-> **[1:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=94)** Maybe you're the next ensemble method guru or the go-to expert for neural networks.
+> **[1:34](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=94)** Maybe you're the next ensemble method guru or the go-to expert for [[Neural Networks]].
 >
 > **[1:41](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=101)** Project joy.
 >
@@ -1461,7 +1442,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=105)** Which part of our AI project made you lose track of time?
 >
-> **[1:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=109)** Was it sifting through the data, fine tuning the algorithm, or maybe the deployment process?
+> **[1:49](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=109)** Was it sifting through the data, [[Fine Tuning]] the algorithm, or maybe the deployment process?
 >
 > **[1:56](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980&t=116)** If you're drawing a blank on any of these, don't sweat it.
 >
@@ -1489,7 +1470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), next (3), data (2), [[Data Engineering]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Supervised Learning]] (1), [[Neural Networks]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** smart (1)
 > **Definitions:** is a  (1)

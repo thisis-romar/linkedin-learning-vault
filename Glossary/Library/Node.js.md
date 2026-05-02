@@ -68,23 +68,23 @@ created: 2026-05-02
 > 35. [[Learning JavaScript Debugging]] — 6 mentions
 > 36. [[JavaScript Essential Training]] — 5 mentions
 > 37. [[Developing Ci Cd Solutions With Azure Devops]] — 5 mentions
-> 38. [[Learning The Javascript Language]] — 5 mentions
-> 39. [[JavaScript- Test-Driven Development (ES6)]] — 5 mentions
-> 40. [[Learning npm- A Package Manager]] — 5 mentions
-> 41. [[Learning the Angular CLI]] — 4 mentions
-> 42. [[React.js- Building an Interface]] — 4 mentions
-> 43. [[Azure AI Services Essential Training]] — 4 mentions
-> 44. [[Learning Functional Programming with JavaScript ES6+]] — 4 mentions
-> 45. [[Building Monorepos On Github]] — 4 mentions
-> 46. [[Building Full-Stack Apps with React and Spring]] — 4 mentions
-> 47. [[Learning Graphql]] — 4 mentions
-> 48. [[Learning Vue Js]] — 4 mentions
-> 49. [[Redis Essential Training]] — 4 mentions
-> 50. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 4 mentions
-> 51. [[Building a Headless WordPress Site with Gatsby]] — 4 mentions
-> 52. [[C- Framework Design]] — 3 mentions
-> 53. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 3 mentions
-> 54. [[Azure Understanding The Big Picture]] — 3 mentions
+> 38. [[Azure Understanding The Big Picture]] — 5 mentions
+> 39. [[Learning The Javascript Language]] — 5 mentions
+> 40. [[JavaScript- Test-Driven Development (ES6)]] — 5 mentions
+> 41. [[Learning npm- A Package Manager]] — 5 mentions
+> 42. [[Learning the Angular CLI]] — 4 mentions
+> 43. [[React.js- Building an Interface]] — 4 mentions
+> 44. [[Azure AI Services Essential Training]] — 4 mentions
+> 45. [[Learning Functional Programming with JavaScript ES6+]] — 4 mentions
+> 46. [[Building Monorepos On Github]] — 4 mentions
+> 47. [[Building Full-Stack Apps with React and Spring]] — 4 mentions
+> 48. [[Learning Graphql]] — 4 mentions
+> 49. [[Learning Vue Js]] — 4 mentions
+> 50. [[Redis Essential Training]] — 4 mentions
+> 51. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 4 mentions
+> 52. [[Building a Headless WordPress Site with Gatsby]] — 4 mentions
+> 53. [[C- Framework Design]] — 3 mentions
+> 54. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 3 mentions
 > 55. [[Vanilla JavaScript- Web Performance Optimization APIs]] — 3 mentions
 > 56. [[Aws Essential Training For Developers]] — 3 mentions
 > 57. [[Succeeding in Web Development- Full Stack and Front End]] — 3 mentions

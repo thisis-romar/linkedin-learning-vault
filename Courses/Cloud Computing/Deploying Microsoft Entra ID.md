@@ -106,12 +106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
+#### [Cloud identity](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=2)** - [Instructor] Welcome to my LinkedIn Learning course on deploying Azure Active Directory.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=2)** - [Instructor] Welcome to my [[LinkedIn]] Learning course on deploying [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=8)** We'll start this course by talking about cloud identity.
 >
@@ -119,9 +118,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=15)** My name is Kunal D. Mehta.
 >
-> **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=17)** I'm an independent IT consultant, specializing in Microsoft Data Center and cloud technologies.
+> **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=17)** I'm an independent IT consultant, specializing in [[Microsoft]] Data Center and cloud technologies.
 >
-> **[0:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=24)** I'm really excited to have you join me in taking your Azure AD knowledge to the next level.
+> **[0:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=24)** I'm really excited to have you join me in taking your [[Microsoft Entra ID|Azure AD]] knowledge to the next level.
 >
 > **[0:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=30)** This course is going to be effective in helping you understand what day to day administrative tasks in an Azure AD environment look like immediately after you roll it out.
 >
@@ -133,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=55)** But things change a little when the environment is hybrid because you now have, in addition to native objects, synchronized users and groups coming in from AD Connect.
 >
-> **[1:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=67)** You also have hybrid joined devices alongside devices managed in Azure, plus on-premises applications.
+> **[1:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=67)** You also have hybrid joined devices alongside devices managed in [[Microsoft Azure|Azure]], plus on-premises applications.
 >
 > **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980&t=74)** By on-premises applications, I mean those that are either to be moved to the cloud or are authenticated and authorized by Azure AD.
 >
@@ -147,21 +146,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Entra ID|Azure ad]] (4), management (2), [[LinkedIn]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[LinkedIn]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=2)** - Here are the prerequisites you'll need to get the best use out of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=7)** I have published two Azure AD courses on LinkedIn learning, before this one.
+> **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=7)** I have published two [[Microsoft Entra ID|Azure AD]] courses on [[LinkedIn]] learning, before this one.
 >
 > **[0:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=12)** I would strongly insist you watch those two first and then continue onto this one, for a more thorough coverage, especially if you're new to Azure AD.
 >
-> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=22)** The first course was Azure Active Directory: Basics where I did a complete overview of Azure AD.
+> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=22)** The first course was [[Microsoft Entra ID|Azure Active Directory]]: Basics where I did a complete overview of Azure AD.
 >
 > **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=29)** Plus I explained the concept of standalone and hybrid environments.
 >
@@ -179,11 +177,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=84)** You'll still be able to understand everything we do here.
 >
-> **[1:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=90)** So, the target audience for this course is; Windows server administrators, Azure administrators and identity professionals who are familiar with the basic concepts of Azure AD.
+> **[1:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=90)** So, the target audience for this course is; [[Windows Server]] administrators, [[Microsoft Azure|Azure]] administrators and identity professionals who are familiar with the basic concepts of Azure AD.
 >
 > **[1:43](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=103)** In terms of the prior knowledge required, as I mentioned, having watched my previous courses, Azure Active Directory: Basics and Planning for Azure Active Directory is recommended.
 >
-> **[1:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=115)** Apart from that, a fundamental understanding of Azure Administration and Windows Server Active Directory would enhance your learning experience.
+> **[1:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=115)** Apart from that, a fundamental understanding of Azure Administration and Windows Server [[Active Directory]] would enhance your learning experience.
 >
 > **[2:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/prerequisites?u=76281980&t=125)** And if you want to do the demonstrations that you watch here on your own, you will need an Azure AD tenant, along with an hybrid infrastructure in place.
 >
@@ -196,8 +194,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - here (1)
 
-#### Roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980)
+#### [Roadmap](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980&t=5)** The topics in this course are going to be very straightforward.
 >
-> **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980&t=9)** We'll focus on the most common tasks you'll need to perform daily as an Azure AD administrator.
+> **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980&t=9)** We'll focus on the most common tasks you'll need to perform daily as an [[Microsoft Entra ID|Azure AD]] administrator.
 >
 > **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/roadmap?u=76281980&t=15)** That predominantly includes the CRUD operations, create, read, update, and delete for Azure AD objects.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Entra ID|Azure ad]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2)
 > **Cross-References:** in the next (1), previous chapter (1), next chapter (1)
 > **Env Vars:** crud (2)
 > **Prerequisites:** you'll need (1), configure (1)
@@ -248,24 +245,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
+#### [Types of user accounts](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=2)** - [Instructor] Let's talk about the first quintessential pillar of an Azure Active Directory environment, managing users.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=2)** - [Instructor] Let's talk about the first quintessential pillar of an [[Microsoft Entra ID|Azure Active Directory]] environment, managing users.
 >
 > **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=9)** A directory service cannot exist without its users and that's why this is the best place to begin.
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=16)** But before we dive into the chapter, let us quickly brush up on our knowledge on the types of user accounts.
 >
-> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=22)** If you have seen my previous courses or are familiar with the basic concepts of Azure AD, you would already know this.
+> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=22)** If you have seen my previous courses or are familiar with the basic concepts of [[Microsoft Entra ID|Azure AD]], you would already know this.
 >
 > **[0:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=30)** There are three types of user accounts that you can have in Azure AD, federated, synchronized, and cloud, or also known as cloud-only users.
 >
-> **[0:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=40)** A federated user originates in an on-premises environment with Windows Server Active Directory Domain Services and Federation Services.
+> **[0:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=40)** A federated user originates in an on-premises environment with [[Windows Server]] [[Active Directory]] Domain Services and Federation Services.
 >
-> **[0:49](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=49)** This user object is synchronized into Azure through the AD Connect tool.
+> **[0:49](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=49)** This user object is synchronized into [[Microsoft Azure|Azure]] through the AD Connect tool.
 >
 > **[0:53](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980&t=53)** The sign-in method used is AD FS sign-in, so the authentication happens on premises.
 >
@@ -287,12 +283,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2), [[Active Directory]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### User object overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980)
+#### [User object overview](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,15 +295,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=3)** Now, let's get an overview of a User Object in the cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=8)** Azure AD can have both Hybrid and Native user objects co-exist in one single tenant.
+> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=8)** [[Microsoft Entra ID|Azure AD]] can have both Hybrid and Native user objects co-exist in one single tenant.
 >
 > **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=14)** If you don't remember, a hybrid user has access to resources across on-prem and cloud environments.
 >
 > **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=20)** Whereas a cloud only user, typically has access to only cloud resources.
 >
-> **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=26)** Each user type whether hybrid or native, posses attributes from its original source that are required for it to be a valid object in Azure.
+> **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=26)** Each user type whether hybrid or native, posses attributes from its original source that are required for it to be a valid object in [[Microsoft Azure|Azure]].
 >
-> **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=36)** So hybrid users will have relevant attributes synchronized from the windows server environment into Azure.
+> **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=36)** So hybrid users will have relevant attributes synchronized from the [[Windows Server]] environment into Azure.
 >
 > **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-object-overview?u=76281980&t=42)** And native users will have associated attributes generated when they are created in the cloud.
 >
@@ -354,22 +349,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Directory roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980)
+#### [Directory roles](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=2)** - [Instructor] Now, let's talk about directory roles.
 >
-> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=5)** There are three types of roles in Azure AD.
+> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=5)** There are three types of roles in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=8)** A global administrator role, a user role and a limited administrator role.
 >
-> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=14)** If I had to compare this to the on-premise roles in windows server active directory, then global administrator in Azure AD is roughly equivalent to an enterprise administrator.
+> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=14)** If I had to compare this to the on-premise roles in [[Windows Server]] [[Active Directory]], then global administrator in Azure AD is roughly equivalent to an enterprise administrator.
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=26)** A simple user is equivalent to a domain user and the limited administrator is equivalent to other sub administrator roles we have.
 >
@@ -385,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=74)** Then, a user role in Azure AD, as you can imagine, is just a regular user with almost no administrative privileges kind of like domain users on prem.
 >
-> **[1:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=86)** By default, all new users in Azure, both hybrid and native will be assigned this role.
+> **[1:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=86)** By default, all new users in [[Microsoft Azure|Azure]], both hybrid and native will be assigned this role.
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=93)** If a person was an administrator on premises and that account was synchronized to Azure, this does not mean they will retain their administrative privileges in the cloud.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=161)** There are additional two other accounts that also have the same level of privilege.
 >
-> **[2:46](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=166)** One, the Microsoft account that was used for sign up of this Azure subscription so that has global privileges being the first account in the tenant.
+> **[2:46](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=166)** One, the [[Microsoft]] account that was used for sign up of this Azure subscription so that has global privileges being the first account in the tenant.
 >
 > **[2:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=176)** And then, the service account you created in Azure AD for AD connect synchronization.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=229)** After you create that custom role you can then use it and assign it to any user, just like other administrative roles.
 >
-> **[3:58](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=238)** The rest of the users simply remain standard users with little or no administrative privileges whatsoever.
+> **[3:58](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=238)** The [[Representational State Transfer (REST)|rest]] of the users simply remain standard users with little or no administrative privileges whatsoever.
 >
 > **[4:04](https://www.linkedin.com/learning/deploying-microsoft-entra-id/directory-roles?u=76281980&t=244)** That's usually the majority of the employees.
 
@@ -442,8 +436,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Assigning a directory role
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980)
+#### [Demo: Assigning a directory role](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,11 +444,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=7)** I'll start this demo with users that are already in the tenant from synchronization that I configured in my last course.
 >
-> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=14)** Here, I will assign the global administrator role to my own account from the Microsoft account I'm logged into currently.
+> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=14)** Here, I will assign the global administrator role to my own account from the [[Microsoft]] account I'm logged into currently.
 >
 > **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=22)** So let's jump in.
 >
-> **[0:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=27)** Here we are in our Azure AD tenant for [http://www.worldtraveler.tv](http://www.worldtraveler.tv).
+> **[0:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=27)** Here we are in our [[Microsoft Entra ID|Azure AD]] tenant for [http://www.worldtraveler.tv](http://www.worldtraveler.tv).
 >
 > **[0:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=32)** Before we begin this demo, let me quickly walk you through what we've done in the last two courses, so that you don't miss out on anything.
 >
@@ -469,11 +462,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=67)** Now that you're up to speed, let's continue on with this demo.
 >
-> **[1:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=72)** I'm going to close out of here, go to Azure Active Directory, then click on users.
+> **[1:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=72)** I'm going to close out of here, go to [[Microsoft Entra ID|Azure Active Directory]], then click on users.
 >
 > **[1:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=81)** Now here you can see this is the list of users that have been synchronized from our on premises environment, except for this user, and this user.
 >
-> **[1:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=90)** This is the Microsoft account, we used to sign up for this Azure subscription.
+> **[1:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=90)** This is the Microsoft account, we used to sign up for this [[Microsoft Azure|Azure]] subscription.
 >
 > **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-assigning-a-directory-role?u=76281980&t=95)** And this is the service account we made for enabling the synchronization.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Azure ad]] (3), next (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Azure ad]] (3), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), go to (3)
 > **Cross-References:** in the last (2), in the next (1)
 > **URLs:** [http://www.worldtraveler.tv](http://www.worldtraveler.tv) (2)
@@ -526,12 +519,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980)
+#### [Creating user accounts](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=2)** - [Illustrator] This is the start of the section where we discussed CRUD operations on user objects in Azure AD.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=2)** - [Illustrator] This is the start of the section where we discussed CRUD operations on user objects in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=9)** C-R-U-D, CRUD is an abbreviation for Create, Read, Update, and Delete.
 >
@@ -541,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=26)** We know there are three types of user accounts; Federated, Synchronized, and Cloud only.
 >
-> **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=33)** And we have two environment on premises Windows Server Active Directory, and Azure AD.
+> **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=33)** And we have two environment on premises [[Windows Server]] [[Active Directory]], and Azure AD.
 >
 > **[0:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-user-accounts?u=76281980&t=40)** Federated users and synchronized users are both created on premises.
 >
@@ -603,14 +595,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), cloud (4), [[Windows Server]] (3), [[Active Directory]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), [[Windows Server]] (3), [[Active Directory]] (3)
 > **Env Vars:** crud (2), csv (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Demo: Creating a new cloud user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980)
+#### [Demo: Creating a new cloud user account](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980&t=31)** No, I do not want to stay signed in.
 >
-> **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980&t=33)** Let's quickly jump to the Azure Active Directory tab over here.
+> **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980&t=33)** Let's quickly jump to the [[Microsoft Entra ID|Azure Active Directory]] tab over here.
 >
 > **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-cloud-user-account?u=76281980&t=37)** To confirm the fact that we are actually a global administrator now, you can see over here it says your role is the global administrator, and we are signed in with kurnal@ WorldTraveler.TV account.
 >
@@ -678,14 +669,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (2), scroll down (2), go to (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980)
+#### [Reading user accounts](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,22 +687,21 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=16)** As I've explained previously, hybrid objects have attributes from two environments.
 >
-> **[0:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=21)** It's point of origin Windows Server and those upended in Azure AD for cloud compatibility and readiness.
+> **[0:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=21)** It's point of origin [[Windows Server]] and those upended in [[Microsoft Entra ID|Azure AD]] for cloud compatibility and readiness.
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=28)** So if you want to read cloud attributes are those synchronized with the object from on-premises, you can do so in Azure AD.
 >
-> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=37)** But if you want to read attributes that are not by default synchronized to Azure, you will have to do so in Windows Server Active Directory on-premises.
+> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=37)** But if you want to read attributes that are not by default synchronized to [[Microsoft Azure|Azure]], you will have to do so in Windows Server [[Active Directory]] on-premises.
 >
 > **[0:47](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-user-accounts?u=76281980&t=47)** On the other hand as you may have guessed, cloud user attributes are only readable in the cloud and have no trace on-premises whatsoever.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Windows Server]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Reading a cloud user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980)
+#### [Demo: Reading a cloud user account](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=42)** And you can also see the most important aspect here.
 >
-> **[0:45](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=45)** The source says Azure Active Directory, which signifies this is a cloud only user.
+> **[0:45](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=45)** The source says [[Microsoft Entra ID|Azure Active Directory]], which signifies this is a cloud only user.
 >
 > **[0:51](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=51)** And then if I scroll down further a little bit, you can see the job title says, content creator, department, content team, no block sign-in, user's location, India.
 >
@@ -758,7 +747,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=118)** Let me click on Matt's account over here.
 >
-> **[2:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=122)** You can see all the similar details are there but in this case, the source here says Windows Server Active Directory.
+> **[2:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=122)** You can see all the similar details are there but in this case, the source here says [[Windows Server]] [[Active Directory]].
 >
 > **[2:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-cloud-user-account?u=76281980&t=128)** Now, if I scroll down the job info, the job title, all that information is filled in.
 >
@@ -786,23 +775,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), next (2), [[Windows Server]] (2), [[Active Directory]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Active Directory]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (6), scroll down (2), go to (2)
 > **Cross-References:** in the last (3), in the next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Updating user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980)
+#### [Updating user accounts](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=2)** - [Instructor] By now you're familiar with the grind, so let's talk about the third group operation, updating user accounts.
 >
-> **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=10)** Federated and Synchronized users are typically updated on Windows server because that's the source of authority.
+> **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=10)** Federated and Synchronized users are typically updated on [[Windows Server]] because that's the source of authority.
 >
-> **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=18)** The relevant changes then get synchronized to Azure AD through AD connect, this is for attributes that are synchronized.
+> **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=18)** The relevant changes then get synchronized to [[Microsoft Entra ID|Azure AD]] through AD connect, this is for attributes that are synchronized.
 >
 > **[0:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-user-accounts?u=76281980&t=27)** If you want to modify the Cloud attributes of hybrid users you do it in the Cloud which is Azure AD because Cloud attributes appended to the object on synchronization and are only available in the Cloud and not on-premises.
 >
@@ -828,11 +816,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Updating a cloud user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980)
+#### [Demo: Updating a cloud user account](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=19)** Scroll down, and remember I mentioned some of the information for his profile was missing, like the city, the email, the state, the zip code and country.
 >
-> **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=29)** Let's try to modify these attributes and populate them to Robert's profile in Azure AD.
+> **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=29)** Let's try to modify these attributes and populate them to Robert's profile in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:34](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=34)** Now, in order to do that, I'll scroll up and hit the edit button you see on the top.
 >
@@ -874,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=93)** Go back to users.
 >
-> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=95)** Click on Azure Active Directory and go to users.
+> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=95)** Click on [[Microsoft Entra ID|Azure Active Directory]] and go to users.
 >
 > **[1:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=99)** So you saw that we could modify the attributes of Robert's user account.
 >
@@ -890,7 +877,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=129)** The reason behind it is Matt is an on-premises user synchronized through AD Connect.
 >
-> **[2:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=134)** And because its source of authority is Windows Server Active Directory, these changes need to be made on-premises and not in the cloud.
+> **[2:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=134)** And because its source of authority is [[Windows Server]] [[Active Directory]], these changes need to be made on-premises and not in the cloud.
 >
 > **[2:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-cloud-user-account?u=76281980&t=142)** So these are the differences in updating users in Azure AD.
 >
@@ -898,15 +885,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), cloud (2), next (1), hit (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Windows Server]] (1), [[Active Directory]] (1)
 > **UI Navigation:** scroll down (2), click on (2), scroll up (1), go to (1)
 > **Env Vars:** upn (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980)
+#### [Deleting user accounts](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,13 +906,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=26)** Now here's a revelation.
 >
-> **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=28)** This is why it is strongly recommended that you enable Active Directory Recycle Bin in Windows server because if you're deleting an account on premises, you can only recover it back on premises.
+> **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=28)** This is why it is strongly recommended that you enable [[Active Directory]] Recycle Bin in [[Windows Server]] because if you're deleting an account on premises, you can only recover it back on premises.
 >
 > **[0:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=40)** If you don't have Active Directory Recycle Bin enabled and accidentally end up deleting a user account, there's no way to recover it.
 >
 > **[0:48](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=48)** It will be gone forever from both environments.
 >
-> **[0:51](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=51)** Azure AD cannot recover a hybrid account because it's not the source of authority.
+> **[0:51](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=51)** [[Microsoft Entra ID|Azure AD]] cannot recover a hybrid account because it's not the source of authority.
 >
 > **[0:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-user-accounts?u=76281980&t=57)** Understanding this is very critical.
 >
@@ -952,14 +938,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Active Directory]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1)
 > **Env Vars:** crud (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Deleting a cloud user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-cloud-user-account?u=76281980)
+#### [Demo: Deleting a cloud user account](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-cloud-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,8 +996,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Blocking user account sign-ins
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/blocking-user-account-sign-ins?u=76281980)
+#### [Blocking user account sign-ins](https://www.linkedin.com/learning/deploying-microsoft-entra-id/blocking-user-account-sign-ins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,16 +1018,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/blocking-user-account-sign-ins?u=76281980&t=42)** But, both pretty much do the same thing.
 >
-> **[0:46](https://www.linkedin.com/learning/deploying-microsoft-entra-id/blocking-user-account-sign-ins?u=76281980&t=46)** And it goes without saying, blocking a cloud user sign in has got nothing to do with Windows Server.
+> **[0:46](https://www.linkedin.com/learning/deploying-microsoft-entra-id/blocking-user-account-sign-ins?u=76281980&t=46)** And it goes without saying, blocking a cloud user sign in has got nothing to do with [[Windows Server]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Blocking a user account sign-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980)
+#### [Demo: Blocking a user account sign-in](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980&t=26)** No, I do not want to stay signed in.
 >
-> **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980&t=29)** And you can see he was successfully able to sign into Azure.
+> **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980&t=29)** And you can see he was successfully able to sign into [[Microsoft Azure|Azure]].
 >
 > **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-blocking-a-user-account-sign-in?u=76281980&t=33)** Now let me sign out again.
 >
@@ -1083,14 +1066,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### User settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980)
+#### [User settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=17)** These are called tenant level user settings.
 >
-> **[0:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=21)** Some of the things we can configure at this level are, managing access to the Azure AD admin portal.
+> **[0:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=21)** Some of the things we can configure at this level are, managing access to the [[Microsoft Entra ID|Azure AD]] admin portal.
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=28)** Well, to be specific managing access of non-administrators to the Azure AD admin portal.
 >
@@ -1128,13 +1110,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=98)** This setting allows you to configure which users are allowed to register custom applications for authentication with Azure AD.
 >
-> **[1:48](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=108)** Then you have a setting for managing LinkedIn account connections.
+> **[1:48](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=108)** Then you have a setting for managing [[LinkedIn]] account connections.
 >
 > **[1:53](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=113)** This is more of a social feature than a technical one.
 >
-> **[1:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=116)** Once this is enabled, users will be able to consent to the connection between Microsoft Azure and their LinkedIn profiles.
+> **[1:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=116)** Once this is enabled, users will be able to consent to the connection between [[Microsoft Azure]] and their LinkedIn profiles.
 >
-> **[2:04](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=124)** This will result in an enriched experience on LinkedIn and Microsoft apps and services.
+> **[2:04](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=124)** This will result in an enriched experience on LinkedIn and [[Microsoft]] apps and services.
 >
 > **[2:11](https://www.linkedin.com/learning/deploying-microsoft-entra-id/user-settings?u=76281980&t=131)** Next, you can also manage external user access from here.
 >
@@ -1158,18 +1140,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), application (3), [[LinkedIn]] (3), next (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), [[LinkedIn]] (3), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Configuring user settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980)
+#### [Demo: Configuring user settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=2)** - [Instructor] In the last and final demo of this chapter configuring user settings, we will walk through the tenant level user settings available in Azure AD and make changes that are relevant to other organization.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=2)** - [Instructor] In the last and final demo of this chapter configuring user settings, we will walk through the tenant level user settings available in [[Microsoft Entra ID|Azure AD]] and make changes that are relevant to other organization.
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=16)** Now let's configure user settings at the tenant level.
 >
@@ -1191,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=56)** You see the default setting is no, I want to enable this because right now I do not expect any users requiring access to the Azure AD admin portal.
 >
-> **[1:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=66)** Then the next setting is for LinkedIn account connections, I'll leave that to the default yes, and then you see, there are two links below that.
+> **[1:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=66)** Then the next setting is for [[LinkedIn]] account connections, I'll leave that to the default yes, and then you see, there are two links below that.
 >
 > **[1:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-user-settings?u=76281980&t=76)** Before we go to them, I'll save the settings we made so far by clicking on the save button on top, great.
 >
@@ -1267,7 +1248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Entra ID|Azure ad]] (3), [[LinkedIn]] (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), [[LinkedIn]] (1)
 > **UI Navigation:** click on (7), select the (1), go to (1), scroll down (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Prerequisites:** configure (2)
@@ -1280,16 +1261,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
+#### [Types of groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=2)** - Now let's talk about managing groups.
 >
-> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=5)** The second quintessential pillar often Azure active directory environment.
+> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=5)** The second quintessential pillar often [[Microsoft Entra ID|Azure active directory]] environment.
 >
-> **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=10)** There are two main types of groups in Azure AD, security groups and Microsoft 365 groups.
+> **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=10)** There are two main types of groups in [[Microsoft Entra ID|Azure AD]], security groups and [[Microsoft 365]] groups.
 >
 > **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=18)** Let's do a comparison of these two.
 >
@@ -1303,9 +1283,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=47)** After that, security groups are used to grant access to applications and resources to its members.
 >
-> **[0:54](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=54)** On the other hand Microsoft 365 groups are used to grant access to a shared mailbox, SharePoint site and teams channel to enable the collaboration I mentioned in the previous point.
+> **[0:54](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=54)** On the other hand Microsoft 365 groups are used to grant access to a shared mailbox, [[SharePoint]] site and teams channel to enable the collaboration I mentioned in the previous point.
 >
-> **[1:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=65)** Security groups can be from two origins in Azure AD, either doors that are synchronized from windows server or created within Azure AD.
+> **[1:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=65)** Security groups can be from two origins in Azure AD, either doors that are synchronized from [[Windows Server]] or created within Azure AD.
 >
 > **[1:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980&t=75)** But a Microsoft 365 group is cloud only, because there's no such thing on premises to synchronize to, to Azure AD.
 >
@@ -1359,29 +1339,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Security]] (8), [[Microsoft Entra ID|Azure ad]] (5), [[Microsoft Entra ID|Azure active directory]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Entra ID|Azure ad]] (5), [[Microsoft Entra ID|Azure active directory]] (1), [[SharePoint]] (1), [[Windows Server]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - now (1)
 
-#### Group object overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980)
+#### [Group object overview](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=2)** - [Instructor] Let's get an overview of the group object in Azure AD.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=2)** - [Instructor] Let's get an overview of the group object in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=6)** Similar to users, both hybrid and native groups can coexist in a single tenant.
 >
-> **[0:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=12)** They also possess attributes from their original source required for it to be valid objects in Azure.
+> **[0:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=12)** They also possess attributes from their original source required for it to be valid objects in [[Microsoft Azure|Azure]].
 >
-> **[0:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=19)** So hybrid groups will have relevant attributes synchronized from the Windows Server environment into Azure, and native groups will have the required attributes generated when they are created in the cloud.
+> **[0:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=19)** So hybrid groups will have relevant attributes synchronized from the [[Windows Server]] environment into Azure, and native groups will have the required attributes generated when they are created in the cloud.
 >
 > **[0:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=30)** In addition, hybrid objects are also appended with the necessary cloud attributes on synchronization to make it functional with features offered by Azure AD.
 >
-> **[0:41](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=41)** Security and Microsoft 365 groups can hold both type of users, hybrid or native, as its members.
+> **[0:41](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=41)** Security and [[Microsoft 365]] groups can hold both type of users, hybrid or native, as its members.
 >
 > **[0:48](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-object-overview?u=76281980&t=48)** There's no restriction on it.
 >
@@ -1403,36 +1382,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (3), [[Microsoft Entra ID|Azure ad]] (2), [[Security]] (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Windows Server]] (1), [[Microsoft 365]] (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980)
+#### [Creating groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=2)** - [Instructor] All right.
 >
-> **[0:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=3)** Let's start with crude operations on groups in Azure AD.
+> **[0:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=3)** Let's start with crude operations on groups in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=7)** Starting with creating groups.
 >
 > **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=10)** In this chapter we'll take a similar tabular approach we took in the last one with users.
 >
-> **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=16)** We have the two environments Windows Server On-premises and Azure AD.
+> **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=16)** We have the two environments [[Windows Server]] On-premises and Azure AD.
 >
 > **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=20)** And then we have the three varieties of groups in Azure AD.
 >
-> **[0:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=24)** Security groups synchronized from On-premises, security groups originating in the cloud, and Microsoft 365 groups.
+> **[0:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=24)** Security groups synchronized from On-premises, security groups originating in the cloud, and [[Microsoft 365]] groups.
 >
 > **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=33)** Security groups on premises are, this is easy to guess.
 >
-> **[0:38](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=38)** They are created On-premises in windows server active directory.
+> **[0:38](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=38)** They are created On-premises in windows server [[Active Directory]].
 >
-> **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=42)** They get synchronized through AD connect into Azure.
+> **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=42)** They get synchronized through AD connect into [[Microsoft Azure|Azure]].
 >
 > **[0:45](https://www.linkedin.com/learning/deploying-microsoft-entra-id/creating-groups?u=76281980&t=45)** Such groups retain all its members on synchronization.
 >
@@ -1498,17 +1476,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft 365]] (5), [[Microsoft Azure|Azure]] (5), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft 365]] (5), [[Microsoft Azure|Azure]] (5), [[Windows Server]] (3), [[Active Directory]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Creating a new Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980)
+#### [Demo: Creating a new Microsoft 365 group](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=2)** - [Instructor] It's time for the first demo of this chapter, creating a new Microsoft 365 group.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=2)** - [Instructor] It's time for the first demo of this chapter, creating a new [[Microsoft 365]] group.
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=8)** Because you already know how security groups work, I thought it'll be nice to see a Microsoft 365 group in action.
 >
@@ -1518,7 +1495,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=22)** Okay, so for this demo, there's one small minor change that I've made behind the scenes.
 >
-> **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=28)** I've upgraded my Azure AD license from the free version to the Premium P2 version because a Premium license is required for this demo to work.
+> **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=28)** I've upgraded my [[Microsoft Entra ID|Azure AD]] license from the free version to the Premium P2 version because a Premium license is required for this demo to work.
 >
 > **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=37)** So that's just one thing you need to keep in mind.
 >
@@ -1526,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=47)** Here are my list of groups that have been synchronized from on premises and some that were created by AD Connect.
 >
-> **[0:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=55)** Groups that we created are Content Team, the IT Team, Leadership Team, Sales and Marketing, and the Software Development Team.
+> **[0:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=55)** Groups that we created are Content Team, the IT Team, Leadership Team, Sales and Marketing, and the [[Software Development]] Team.
 >
 > **[1:04](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-creating-a-new-microsoft-365-group?u=76281980&t=64)** This other groups that you see over here were auto generated.
 >
@@ -1652,14 +1629,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Entra ID|Azure ad]] (2), cloud (2), [[Security]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Entra ID|Azure ad]] (2), [[Software Development]] (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980)
+#### [Reading groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,13 +1647,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=15)** But attributes that are not synchronized can only be read on-premises.
 >
-> **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=20)** That's because Windows Server is the source of authority here.
+> **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=20)** That's because [[Windows Server]] is the source of authority here.
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=26)** For cloud native security groups, all attributes are available to read in the cloud, and none on-premises.
 >
-> **[0:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=32)** Because the object source here is Azure AD.
+> **[0:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=32)** Because the object source here is [[Microsoft Entra ID|Azure AD]].
 >
-> **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=36)** And for Microsoft 365 Groups, all attributes are available to read in the cloud.
+> **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=36)** And for [[Microsoft 365]] Groups, all attributes are available to read in the cloud.
 >
 > **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/reading-groups?u=76281980&t=42)** But if you have an Exchange hybrid deployment, with group writeback enabled, then the group attributes will also be partly readable on-premises.
 >
@@ -1685,16 +1661,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Security]] (2), [[Windows Server]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Reading a Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980)
+#### [Demo: Reading a Microsoft 365 group](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=3)** Great let's see a demo, on reading a Microsoft 365 Group.
+> **[0:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=3)** Great let's see a demo, on reading a [[Microsoft 365]] Group.
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=8)** Here, we'll explore the attributes of the group we created in the last demo and compare it with the security group synchronized from on-premises.
 >
@@ -1744,7 +1719,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=139)** Let's open the content team by clicking here.
 >
-> **[2:23](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=143)** This is a group that was synchronized from windows server active directory.
+> **[2:23](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=143)** This is a group that was synchronized from [[Windows Server]] [[Active Directory]].
 >
 > **[2:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-reading-a-microsoft-365-group?u=76281980&t=147)** You can see the membership type is assigned.
 >
@@ -1768,13 +1743,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Security]] (2), cloud (2), [[Windows Server]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Windows Server]] (2), [[Active Directory]] (2)
 > **UI Navigation:** go to (4), click on (1), open the (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** in the last (1)
 
-#### Updating groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980)
+#### [Updating groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1790,22 +1764,21 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980&t=25)** For security groups synchronized from on premises, any modification would need to be made on premises and have it synchronized to the cloud through AD Connect because again, same concept, source of authority.
 >
-> **[0:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980&t=39)** Then for cloud native security groups, any changes needed are made within Azure AD because it has no trace on premises whatsoever.
+> **[0:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980&t=39)** Then for cloud native security groups, any changes needed are made within [[Microsoft Entra ID|Azure AD]] because it has no trace on premises whatsoever.
 >
-> **[0:49](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980&t=49)** Next for Microsoft 365 groups, all updates to its attributes need to be made in the cloud, which may then propagate to an on-premises environment if there is group writeback or else it stays within the confines of the cloud.
+> **[0:49](https://www.linkedin.com/learning/deploying-microsoft-entra-id/updating-groups?u=76281980&t=49)** Next for [[Microsoft 365]] groups, all updates to its attributes need to be made in the cloud, which may then propagate to an on-premises environment if there is group writeback or else it stays within the confines of the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Security]] (2), [[Microsoft Entra ID|Azure ad]] (1), next (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Updating a Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-microsoft-365-group?u=76281980)
+#### [Demo: Updating a Microsoft 365 group](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-microsoft-365-group?u=76281980&t=2)** - [Instructor] In this demo, Updating a Microsoft 365 Group, let us try to change the membership type of the group we created from Dynamic to Assigned and see what happens to its members.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-microsoft-365-group?u=76281980&t=2)** - [Instructor] In this demo, Updating a [[Microsoft 365]] Group, let us try to change the membership type of the group we created from Dynamic to Assigned and see what happens to its members.
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-updating-a-microsoft-365-group?u=76281980&t=16)** All right.
 >
@@ -1841,13 +1814,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980)
+#### [Deleting groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1857,7 +1829,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=10)** Deletion always happens at the source of authority of an object with no exceptions.
 >
-> **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=16)** So what that means is a security group synchronized to Azure AD will need to be deleted on premises.
+> **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=16)** So what that means is a security group synchronized to [[Microsoft Entra ID|Azure AD]] will need to be deleted on premises.
 >
 > **[0:23](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=23)** This change will then take effect in Azure AD through AD Connect.
 >
@@ -1865,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=31)** If you want to recover this object you have 180 days period to do that.
 >
-> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=37)** And of course that's assuming you have Active Directory Recycle Bin enabled in Windows Server Active Directory domain services.
+> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=37)** And of course that's assuming you have [[Active Directory]] Recycle Bin enabled in [[Windows Server]] Active Directory domain services.
 >
 > **[0:45](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=45)** If it's not enabled then you are out of luck.
 >
@@ -1877,7 +1849,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=61)** Pretty simple because there is nothing on premises.
 >
-> **[1:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=65)** And lastly, our Microsoft 365 group will have to be deleted in Azure AD.
+> **[1:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=65)** And lastly, our [[Microsoft 365]] group will have to be deleted in Azure AD.
 >
 > **[1:11](https://www.linkedin.com/learning/deploying-microsoft-entra-id/deleting-groups?u=76281980&t=71)** If this group was written back using Group Writeback its copy on premises will also vanish after deletion.
 >
@@ -1905,16 +1877,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (6), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft 365]] (4), [[Active Directory]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft 365]] (4), [[Active Directory]] (3), [[Windows Server]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Deleting a Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-microsoft-365-group?u=76281980)
+#### [Demo: Deleting a Microsoft 365 group](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-microsoft-365-group?u=76281980&t=2)** - [Instructor] In the last crude demo of this chapter deleting a Microsoft 365 group, let's delete the group we created in the first demo of this chapter, and then try to restore it back.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-microsoft-365-group?u=76281980&t=2)** - [Instructor] In the last crude demo of this chapter deleting a [[Microsoft 365]] group, let's delete the group we created in the first demo of this chapter, and then try to restore it back.
 >
 > **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-deleting-a-microsoft-365-group?u=76281980&t=14)** By now you should know how this process works.
 >
@@ -1968,16 +1939,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expiring groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980)
+#### [Expiring groups](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=2)** - [Instructor] Now that we are done with crude operations, Let's talk about another brand new feature in Azure (mumbles) Expiring groups.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=2)** - [Instructor] Now that we are done with crude operations, Let's talk about another brand new feature in [[Microsoft Azure|Azure]] (mumbles) Expiring groups.
 >
 > **[0:11](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=11)** In my opinion, this is a wonderful addition to groups, makes your life so much easier.
 >
-> **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=17)** This can be configured on Microsoft 365 groups, but unfortunately not security groups.
+> **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=17)** This can be configured on [[Microsoft 365]] groups, but unfortunately not security groups.
 >
 > **[0:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/expiring-groups?u=76281980&t=26)** The purpose of this feature is to automate the cleanup process and avoid group sprawls.
 >
@@ -2021,20 +1991,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft 365]] (3), data (3), feature (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Azure|Azure]] (1)
 > **Warnings:** warning (2), be careful (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Applying an expiration policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980)
+#### [Demo: Applying an expiration policy](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980&t=2)** - [Instructor] In this demo, applying an expiration policy.
 >
-> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980&t=5)** Let's apply an expiration policy to the same Microsoft 365 Group we've been playing with all along in this chapter.
+> **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980&t=5)** Let's apply an expiration policy to the same [[Microsoft 365]] Group we've been playing with all along in this chapter.
 >
 > **[0:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-applying-an-expiration-policy?u=76281980&t=13)** Applying an expiration policy to a group is again fairly simple.
 >
@@ -2066,13 +2035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2)
 > **UI Navigation:** click on (4), dropdown (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980)
+#### [Group settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,21 +2076,20 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980&t=86)** This setting allows you to choose if you want users in your tenant to be able to create new security groups of their own.
 >
-> **[1:34](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980&t=94)** Similarly, you can also delegate the creation of new Microsoft 365 groups.
+> **[1:34](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980&t=94)** Similarly, you can also delegate the creation of new [[Microsoft 365]] groups.
 >
 > **[1:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/group-settings?u=76281980&t=99)** So this setting will allow you to choose if you want users to be able to create new Microsoft 365 groups in the tenant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft 365]] (2), management (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Configuring group settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980)
+#### [Demo: Configuring group settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,7 +2115,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=52)** I want the users to be able to request membership to groups through the access panel page.
 >
-> **[0:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=57)** Then the next setting is users can create security groups in Azure.
+> **[0:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=57)** Then the next setting is users can create security groups in [[Microsoft Azure|Azure]].
 >
 > **[1:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=62)** Well, I don't want users to be able to do that.
 >
@@ -2156,7 +2123,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=73)** So this setting will be no.
 >
-> **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=74)** And similarly, I don't even want Microsoft 365 groups to be created by end-users.
+> **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=74)** And similarly, I don't even want [[Microsoft 365]] groups to be created by end-users.
 >
 > **[1:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-group-settings?u=76281980&t=80)** So I'm going to select no.
 >
@@ -2168,17 +2135,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Administrative units
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980)
+#### [Administrative units](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=2)** - [Instructor] Let's talk about administrative units in Azure AD.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=2)** - [Instructor] Let's talk about administrative units in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=6)** This feature was in preview for a long time and has just become generally available.
 >
@@ -2186,7 +2152,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=16)** So I decided to add a video for this within the groups chapter.
 >
-> **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=20)** Administrative units in Azure AD are similar to organizational units in Windows Server Active Directory.
+> **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=20)** Administrative units in Azure AD are similar to organizational units in [[Windows Server]] [[Active Directory]].
 >
 > **[0:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=28)** It is very critical to understand that the composition of existing organizational units on premises is not synchronized into administrative units in Azure AD.
 >
@@ -2208,7 +2174,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=92)** We know directory rules operate at the tenant level.
 >
-> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=95)** But, what if you wanted an administrator to have rights only over a selected group of objects and not the rest.
+> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=95)** But, what if you wanted an administrator to have rights only over a selected group of objects and not the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:43](https://www.linkedin.com/learning/deploying-microsoft-entra-id/administrative-units?u=76281980&t=103)** Administrative unit allow you to do that by logically segregating objects and defining their scope of management.
 >
@@ -2230,7 +2196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2), cloud (2), feature (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2239,12 +2205,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Device management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
+#### [Device management overview](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=2)** - [Instructor] Let's talk about managing devices, the third quintessential pillar of administering Azure AD.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=2)** - [Instructor] Let's talk about managing devices, the third quintessential pillar of administering [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=8)** In the previous chapters, we covered users and then groups.
 >
@@ -2252,7 +2217,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=16)** Here's a high-level overview of the device management strategies available in Azure AD and how it compares to existing strategies we already have in on-premises environments.
 >
-> **[0:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=27)** The most common way of managing a device on premises is to domain join it and apply Windows Server Active Directory Group Policy to it.
+> **[0:27](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=27)** The most common way of managing a device on premises is to domain join it and apply [[Windows Server]] [[Active Directory]] Group Policy to it.
 >
 > **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=36)** That's how most organizations do it.
 >
@@ -2264,13 +2229,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=61)** Now let's see what a cloud-managed device looks like in terms of the tools and techniques involved.
 >
-> **[1:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=68)** First of all, there's no Group Policy in Azure, but what we do have is Azure AD Conditional Access.
+> **[1:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=68)** First of all, there's no Group Policy in [[Microsoft Azure|Azure]], but what we do have is Azure AD Conditional Access.
 >
 > **[1:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=76)** I'm not saying this is a Group Policy replacement in the cloud.
 >
 > **[1:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=79)** Group Policy is way more comprehensive, but Conditional Access is new, modern, and continuously evolving.
 >
-> **[1:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=88)** And then, if you need a more advanced solution that integrates deeper into the devices, you have products like Microsoft Intune or the Microsoft Endpoint Configuration Manager.
+> **[1:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=88)** And then, if you need a more advanced solution that integrates deeper into the devices, you have [[Microsoft Products|products]] like [[Microsoft]] Intune or the Microsoft Endpoint Configuration Manager.
 >
 > **[1:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980&t=99)** If a device is using either one or a combination of these solutions, it is said to be managed in the cloud.
 >
@@ -2282,21 +2247,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), cloud (3), management (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Microsoft Products|Products]] (2), [[Microsoft]] (2), [[Windows Server]] (1), [[Active Directory]] (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid Entra ID join
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980)
+#### [Hybrid Entra ID join](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=2)** - [Instructor] The first method out of the three, for managing devices and Azure AD, is the Hybrid Azure AD Join.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=2)** - [Instructor] The first method out of the three, for managing devices and [[Microsoft Entra ID|Azure AD]], is the Hybrid Azure AD Join.
 >
 > **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=9)** Because it has hybrid in its name, you already may have gotten a rough idea of how this works.
 >
-> **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=15)** In this method, you start off with the device that's already domain joined to Windows Server Active Directory on premises.
+> **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=15)** In this method, you start off with the device that's already domain joined to [[Windows Server]] [[Active Directory]] on premises.
 >
 > **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=22)** Typically being used by an on premises user.
 >
@@ -2306,7 +2270,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=37)** Hybrid Azure AD Join is implemented through AD Connect.
 >
-> **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=42)** In addition to the domain join on premises, it also enrolls the device for the Hybrid Azure AD Join in Azure.
+> **[0:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=42)** In addition to the domain join on premises, it also enrolls the device for the Hybrid Azure AD Join in [[Microsoft Azure|Azure]].
 >
 > **[0:50](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=50)** If you need, you can then optionally configure conditional access policies and apply Intune settings on this device.
 >
@@ -2322,7 +2286,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=77)** It's not, let me convince you.
 >
-> **[1:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=80)** Our primary goal through Hybrid Azure AD Join, is not to complicate the device management process but is to primarily enable better security and accountability across on premises and cloud environments.
+> **[1:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=80)** Our primary goal through Hybrid Azure AD Join, is not to complicate the device management process but is to primarily enable better security and [[Accountability]] across on premises and cloud environments.
 >
 > **[1:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=93)** Configuring the Join is one part and deploying conditional access or Intune is another part.
 >
@@ -2344,7 +2308,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=148)** One, like I mentioned if the computer is already domain joined to on premises Active Directory.
 >
-> **[2:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=155)** Then two, it runs Windows 10 or even older operating systems like Windows 7 or Windows 8.1.
+> **[2:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=155)** Then two, it runs [[Windows 10]] or even older operating systems like [[Windows]] 7 or Windows 8.1.
 >
 > **[2:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/hybrid-azure-ad-join?u=76281980&t=162)** Windows Server 2008 R2 and above server operating systems are also supported.
 >
@@ -2364,23 +2328,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Microsoft Entra ID|Azure ad]] (6), management (5), [[Microsoft Azure|Azure]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Microsoft Azure|Azure]] (4), [[Windows]] (4), [[Windows Server]] (2), [[Active Directory]] (2)
 > **Prerequisites:** setup (2), configure (2)
 > **Env Vars:** sccm (2), msi (1)
 > **Versions:** 8.1 (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Implementing hybrid Entra ID join
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980)
+#### [Demo: Implementing hybrid Entra ID join](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=2)** - [Instructor] Let's see a demo on implementing Hybrid Azure AD Join.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=2)** - [Instructor] Let's see a demo on implementing Hybrid [[Microsoft Entra ID|Azure AD]] Join.
 >
-> **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=7)** I'll be configuring this on a Windows 10 device that's already domain joined on premises.
+> **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=7)** I'll be configuring this on a [[Windows 10]] device that's already domain joined on premises.
 >
-> **[0:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=13)** Before I demonstrate how to implement Hybrid Azure AD Join, I want to show you what we have here in the Azure portal.
+> **[0:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=13)** Before I demonstrate how to implement Hybrid Azure AD Join, I want to show you what we have here in the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:21](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=21)** If I scroll down and click on Devices, you will see it says no device found.
 >
@@ -2392,7 +2355,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=44)** If I open up the system properties, you will see the computer name is wttv-cl1, which stands for World Traveler TV, Client 1.
 >
-> **[0:53](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=53)** And also if you notice, this is already domain joined to our on-premises Active Directory.
+> **[0:53](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=53)** And also if you notice, this is already domain joined to our on-premises [[Active Directory]].
 >
 > **[0:59](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=59)** Let me minimize this, open up the command prompt.
 >
@@ -2464,7 +2427,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=189)** On this page, I can configure which device operating systems I want to be supported in the Azure AD tenant I have.
 >
-> **[3:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=196)** Do I want only Windows 10 and later devices or do I also want to support down-level devices that includes Windows 8.1 or even Windows 7?
+> **[3:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=196)** Do I want only Windows 10 and later devices or do I also want to support down-level devices that includes [[Windows]] 8.1 or even Windows 7?
 >
 > **[3:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=204)** Personally in my own environment, I only have Windows 10 computers.
 >
@@ -2480,11 +2443,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=235)** Wttv.local.
 >
-> **[3:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=237)** Select the authentication service, Azure Active Directory.
+> **[3:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=237)** Select the authentication service, [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[4:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=241)** On the previous pages, we already authenticated our credentials with Azure AD.
 >
-> **[4:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=246)** But we didn't do that for the on-premises Windows Server Active Directory.
+> **[4:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=246)** But we didn't do that for the on-premises [[Windows Server]] Active Directory.
 >
 > **[4:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-hybrid-azure-ad-join?u=76281980&t=250)** For that, we'll have to give our enterprise admin credentials also on this page.
 >
@@ -2578,7 +2541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (27), next (6), [[Windows 10]] (5), [[Active Directory]] (3), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (27), [[Windows 10]] (5), [[Active Directory]] (3), [[Windows]] (3), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (14), select the (3), scroll down (2), switch to (2), scroll up (1)
 > **Prerequisites:** configure (14)
 > **CLI Commands:** make (2)
@@ -2587,12 +2550,11 @@ created: 2026-05-02
 > **Env Vars:** scp (1)
 > **Versions:** 8.1 (1)
 
-#### Entra ID join
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980)
+#### [Entra ID join](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=2)** - [Instructor] Moving on to the second method for managing devices in Azure AD.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=2)** - [Instructor] Moving on to the second method for managing devices in [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=7)** The Azure AD Join.
 >
@@ -2606,7 +2568,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=33)** It operates as an independent entity in the cloud.
 >
-> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=37)** To manage this device, you use a combination of Conditional Access, Microsoft Intune and if necessary Endpoint Configuration Manager.
+> **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=37)** To manage this device, you use a combination of Conditional Access, [[Microsoft]] Intune and if necessary Endpoint Configuration Manager.
 >
 > **[0:47](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=47)** Which ones to use and to what extent will depend on your needs.
 >
@@ -2614,15 +2576,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=56)** I want to make sure that Azure AD remains the center of our attention and we don't drift away from that.
 >
-> **[1:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=63)** So the Conditional Access, Intune or ECM policies and settings you apply will in turn control the access of this device to Azure resources.
+> **[1:03](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=63)** So the Conditional Access, Intune or ECM policies and settings you apply will in turn control the access of this device to [[Microsoft Azure|Azure]] resources.
 >
 > **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=74)** So the question is, what's our primary goal here.
 >
-> **[1:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=77)** The primary goal here is management, security and accountability in the cloud.
+> **[1:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=77)** The primary goal here is management, security and [[Accountability]] in the cloud.
 >
 > **[1:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=84)** The scenario is where Azure AD Join is suitable ad if the computer is in a Workgroup configuration not influenced by any existing management solutions.
 >
-> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=95)** Next it runs Windows 10 and not an older operating system.
+> **[1:35](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=95)** Next it runs [[Windows 10]] and not an older operating system.
 >
 > **[1:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=100)** Then the device is corporate owned and is intended to be managed through the use of cloud solutions like Conditional Access, Intune and maybe Endpoint Configuration Manager.
 >
@@ -2634,26 +2596,25 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=139)** There's also a bulk add process in place.
 >
-> **[2:23](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=143)** Once this is implemented, you'll get a seamless single sign on experience in the cloud, Self Service Password Reset, Windows Hello and FIDO2 authentication support.
+> **[2:23](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=143)** Once this is implemented, you'll get a seamless single sign on experience in the cloud, Self Service Password Reset, [[Windows]] Hello and FIDO2 authentication support.
 >
 > **[2:34](https://www.linkedin.com/learning/deploying-microsoft-entra-id/azure-ad-join?u=76281980&t=154)** If you don't know what FIDO2 is, it's basically a latest set of authentication standards that facilitate password less signings next to generation stuff.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), cloud (6), management (4), next (2), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), [[Windows 10]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Accountability]] (1)
 > **Env Vars:** fido2 (2), ecm (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Implementing Entra ID join
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980)
+#### [Demo: Implementing Entra ID join](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=2)** - [Instructor] All right, let's see a demo on: Implementing Azure AD Join.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=2)** - [Instructor] All right, let's see a demo on: Implementing [[Microsoft Entra ID|Azure AD]] Join.
 >
-> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=8)** I'll be configuring this on a Windows 10 device in a workgroup configuration using the settings app.
+> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=8)** I'll be configuring this on a [[Windows 10]] device in a workgroup configuration using the settings app.
 >
 > **[0:15](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=15)** So now we're logged into our second client computer.
 >
@@ -2661,7 +2622,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=20)** If I open up the System Properties, you will see the computer name is wttv-cl2, which is World Traveller TV Client 2 but it is in a workgroup configuration.
 >
-> **[0:31](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=31)** It is not joined to the on-premises Windows Server Active Directory.
+> **[0:31](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=31)** It is not joined to the on-premises [[Windows Server]] [[Active Directory]].
 >
 > **[0:36](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=36)** Let me minimize this, open up the command prompt, and execute the same command we executed the last time, which is dsregcmd /status and hit on Enter.
 >
@@ -2671,7 +2632,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=55)** Let me minimize this.
 >
-> **[0:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=57)** Now to join this client computer to Azure Active Directory, I'll have to open the settings app.
+> **[0:57](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=57)** Now to join this client computer to [[Microsoft Entra ID|Azure Active Directory]], I'll have to open the settings app.
 >
 > **[1:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=62)** Here it is.
 >
@@ -2711,7 +2672,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=159)** That's fantastic.
 >
-> **[2:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=160)** Now let's switch to the Azure Portal and see if we are able to view this device in the Devices section.
+> **[2:40](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=160)** Now let's switch to the [[Microsoft Azure|Azure]] Portal and see if we are able to view this device in the Devices section.
 >
 > **[2:46](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-azure-ad-join?u=76281980&t=166)** I'm going to click on Done to exit out of here and then open up the Azure Portal.
 >
@@ -2727,7 +2688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows Server]] (2), [[Active Directory]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (7), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows Server]] (2), [[Active Directory]] (2), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (6), open the (1), go to (1), switch to (1)
 > **Tools:** azure portal (2), command prompt (1)
 > **Prerequisites:** configure (2)
@@ -2735,20 +2696,19 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Device registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980)
+#### [Device registration](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=1)** - [Instructor] Coming to the third and last device management method in Azure AD, device registration.
+> **[0:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=1)** - [Instructor] Coming to the third and last device management method in [[Microsoft Entra ID|Azure AD]], device registration.
 >
 > **[0:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=7)** This feature is intended to fill the gap where the previous two methods aren't really suitable.
 >
 > **[0:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=13)** And that's mainly bring your own device or BYOD scenarios.
 >
-> **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=18)** This Azure AD capability requires a device to be registered with Azure AD, and it supports a wide spectrum of devices and operating systems: Windows, macOS, Android, and iOS.
+> **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=18)** This Azure AD capability requires a device to be registered with Azure AD, and it supports a wide spectrum of devices and operating systems: [[Windows]], macOS, [[Android]], and iOS.
 >
-> **[0:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=32)** At the time of this recording, Linux computers are not supported yet, but that may change in the future.
+> **[0:32](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=32)** At the time of this recording, [[Linux]] computers are not supported yet, but that may change in the future.
 >
 > **[0:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=39)** Once the device is registered with Azure AD, you can then configure basic conditional access policies, and Intune enrollment for it.
 >
@@ -2760,13 +2720,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=72)** There needs to be a subtle balance, which is offered by this method and not the previous two.
 >
-> **[1:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=77)** Once configured, this in turn is used to control access of the device to Azure resources.
+> **[1:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=77)** Once configured, this in turn is used to control access of the device to [[Microsoft Azure|Azure]] resources.
 >
 > **[1:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=84)** By control, I mean enforce and check if the device has the minimum required compliance needed to get access.
 >
 > **[1:31](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=91)** So what's our primary goal here?
 >
-> **[1:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=93)** The primary goal here is accountability and security in the cloud.
+> **[1:33](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=93)** The primary goal here is [[Accountability]] and security in the cloud.
 >
 > **[1:38](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=98)** Scenarios where this is suitable are first and the foremost, if an employee's personal device has been used in a BYOD scenario.
 >
@@ -2778,7 +2738,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=133)** Then, the operating systems.
 >
-> **[2:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=136)** Device registration not only supports Windows 10, but also non-Microsoft operating systems like macOS, iOS and Android.
+> **[2:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=136)** Device registration not only supports [[Windows 10]], but also non-[[Microsoft]] operating systems like macOS, iOS and Android.
 >
 > **[2:24](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-registration?u=76281980&t=144)** Hybrid Azure AD join and Azure AD join only support Microsoft operating systems.
 >
@@ -2796,15 +2756,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (8), management (3), cloud (3), [[Windows]] (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (8), [[Windows]] (2), [[Android]] (2), [[Accountability]] (2), [[Microsoft]] (2)
 > **Code Identifiers:** macos (2), ios (2)
 > **Env Vars:** byod (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Implementing device registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980)
+#### [Demo: Implementing device registration](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2812,9 +2771,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=6)** Implementing device registration.
 >
-> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=8)** Here, I have a Windows 10 computer, which is acting as an employee's personal device.
+> **[0:08](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=8)** Here, I have a [[Windows 10]] computer, which is acting as an employee's personal device.
 >
-> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=14)** We'll see how to register this device with Azure AD.
+> **[0:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=14)** We'll see how to register this device with [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:19](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=19)** So here we are on a Windows 10 computer, which will be acting as my personal device for this demo.
 >
@@ -2848,7 +2807,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=85)** This is the point at which the demo becomes different.
 >
-> **[1:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=88)** Instead of clicking on this link at the bottom, where it says join to Azure Active Directory, you will just go through this wizard, which asks for your corporate email address.
+> **[1:28](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=88)** Instead of clicking on this link at the bottom, where it says join to [[Microsoft Entra ID|Azure Active Directory]], you will just go through this wizard, which asks for your corporate email address.
 >
 > **[1:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=97)** So I'm going to enter my corporate email address, which is kunal@worldtraveler.tv.
 >
@@ -2890,7 +2849,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=184)** Similarly, what we did for the previous demo was use Robert's credentials to Azure AD join his device, and that's why here it says the owner is Robert and this device is Azure AD joined.
 >
-> **[3:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=196)** In contrast, if I compare wttv-cl1, which was hybrid Azure AD joined does not have an owner because this was a device joined on-premises and synchronized through AD Connect into Azure.
+> **[3:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=196)** In contrast, if I compare wttv-cl1, which was hybrid Azure AD joined does not have an owner because this was a device joined on-premises and synchronized through AD Connect into [[Microsoft Azure|Azure]].
 >
 > **[3:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-implementing-device-registration?u=76281980&t=209)** The concept of device ownership is not synchronized through AD Connect.
 >
@@ -2900,7 +2859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (11), [[Windows 10]] (2), hit (2), management (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (11), [[Windows 10]] (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), go to (1), switch to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** wttv (1)
@@ -2909,18 +2868,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Device settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980)
+#### [Device settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=2)** - [Instructor] Coming to the last part of this chapter understanding device settings at the tenant level.
 >
-> **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=9)** If you remember joining a device to active directory on premises requires enterprise admin credentials.
+> **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=9)** If you remember joining a device to [[Active Directory]] on premises requires enterprise admin credentials.
 >
 > **[0:16](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=16)** That makes things a little difficult because an enterprise admin needs to be involved every time a device needs to be added to the domain.
 >
-> **[0:25](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=25)** But in Azure AD, thankfully things are a bit easier.
+> **[0:25](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=25)** But in [[Microsoft Entra ID|Azure AD]], thankfully things are a bit easier.
 >
 > **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-settings?u=76281980&t=29)** You can choose which users are allowed to join devices to Azure AD.
 >
@@ -2964,14 +2922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), data (3), [[Active Directory]] (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), [[Active Directory]] (1)
 > **Definitions:** refers to (3), is a  (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Configuring device settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980)
+#### [Demo: Configuring device settings](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2991,7 +2948,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=37)** So lets walk through them one by one.
 >
-> **[0:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=39)** The first setting says, users may join devices to Azure AD.
+> **[0:39](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=39)** The first setting says, users may join devices to [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:44](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=44)** The setting is currently set to all which means all users are authorized to join their devices to Azure AD using their credentials.
 >
@@ -3003,7 +2960,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=67)** I'll leave that also selected to all.
 >
-> **[1:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=70)** And then require multi-factor authentication to join devices.
+> **[1:10](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=70)** And then require [[Multi-factor Authentication]] to join devices.
 >
 > **[1:14](https://www.linkedin.com/learning/deploying-microsoft-entra-id/demo-configuring-device-settings?u=76281980&t=74)** Depending on your security needs you can set this to yes or no.
 >
@@ -3051,7 +3008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), next (2), [[Multi-factor Authentication]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Multi-factor Authentication]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Prerequisites:** configure (2)
 > **Cross-References:** in the next (1)
@@ -3063,8 +3020,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)
+#### [Key takeaways](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,11 +3044,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=55)** You can either use a built-in role or make your own custom directory role.
 >
-> **[1:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=61)** After that, we performed the create, read, update, and delete, or in short, CRUD operations, on users in Azure AD.
+> **[1:01](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=61)** After that, we performed the create, read, update, and delete, or in short, CRUD operations, on users in [[Microsoft Entra ID|Azure AD]].
 >
 > **[1:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=72)** Then we talked about temporarily blocking users from signing in and configured user settings at the tenant level.
 >
-> **[1:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=80)** In managing groups, we learned about security groups and Microsoft 365 groups, formerly known as Office 365 groups.
+> **[1:20](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=80)** In managing groups, we learned about security groups and [[Microsoft 365]] groups, formerly known as [[Microsoft Office|Office]] 365 groups.
 >
 > **[1:30](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=90)** We also got to understand their membership types: assigned user, dynamic user, and dynamic device.
 >
@@ -3100,7 +3056,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=102)** After that, we performed CRUD operations on groups, configured policy for expiration, walked through the tenant level settings, and got a conceptual overview of administrative units.
 >
-> **[1:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=116)** In the next chapter, managing devices, we understood the different approaches to device management using on-premises solutions, using tools in Azure, and weighed their pros and cons.
+> **[1:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=116)** In the next chapter, managing devices, we understood the different approaches to device management using on-premises solutions, using tools in [[Microsoft Azure|Azure]], and weighed their pros and cons.
 >
 > **[2:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980&t=129)** Then we got a deeper understanding of how hybrid Azure AD Join works, how Azure AD Join works, and how device registration works.
 >
@@ -3112,25 +3068,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), next (2), [[Microsoft Azure|Azure]] (2), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft 365]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** we talked about (2), in the next (1)
 > **Env Vars:** crud (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Your personal checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980)
+#### [Your personal checklist](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=2)** - [Instructor] Here are some important things you need to pay attention to while deploying Azure AD in your own production environment.
+> **[0:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=2)** - [Instructor] Here are some important things you need to pay attention to while deploying [[Microsoft Entra ID|Azure AD]] in your own production environment.
 >
 > **[0:09](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=9)** First of all, if you have a hybrid identity infrastructure, understand the behavior of both hybrid versus native objects and how they're different.
 >
 > **[0:18](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=18)** This difference in behavior will be tied to their Source of Authority.
 >
-> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=22)** So understand this concept well if an object's source is Windows Server or Azure.
+> **[0:22](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=22)** So understand this concept well if an object's source is [[Windows Server]] or [[Microsoft Azure|Azure]].
 >
 > **[0:29](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=29)** Next, just get comfortable performing basic CRUD operations on objects, both hybrid and native.
 >
@@ -3144,7 +3099,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=56)** Should the user be hybrid or cloud only?
 >
-> **[0:59](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=59)** Should the group be security or Microsoft 365?
+> **[0:59](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=59)** Should the group be security or [[Microsoft 365]]?
 >
 > **[1:02](https://www.linkedin.com/learning/deploying-microsoft-entra-id/your-personal-checklist?u=76281980&t=62)** And what should be its membership type?
 >
@@ -3170,13 +3125,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), cloud (3), management (2), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** crud (1), poc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3184,7 +3138,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=5)** Like I repeatedly keep telling in all my courses, there's nothing that can replace actual hands-on experience.
 >
-> **[0:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=12)** So spin up an Azure AD Tenant and start performing CRUD operations.
+> **[0:12](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=12)** So spin up an [[Microsoft Entra ID|Azure AD]] Tenant and start performing CRUD operations.
 >
 > **[0:17](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=17)** Then, follow the key takeaways and the personal checklist for outlining your own management strategy.
 >
@@ -3194,7 +3148,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=43)** That's it.
 >
-> **[0:44](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=44)** Thank you so much for watching this course, Deploying Azure Active Directory on LinkedIn Learning.
+> **[0:44](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=44)** Thank you so much for watching this course, Deploying [[Microsoft Entra ID|Azure Active Directory]] on [[LinkedIn]] Learning.
 >
 > **[0:50](https://www.linkedin.com/learning/deploying-microsoft-entra-id/next-steps?u=76281980&t=50)** Keep in touch, add me on LinkedIn.
 >
@@ -3210,7 +3164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1), management (1), next (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** crud (1)
 > **Speakers:** - [instructor] (1)
 

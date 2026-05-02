@@ -86,14 +86,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future is now: Intro to AI for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
+#### [The future is now: Intro to AI for data analytics](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=0)** - [Instructor] Before we dive into specific AI tools like ChatGPT and Google Bard, it's worth taking a step back and understanding the broader AI landscape.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=0)** - [Instructor] Before we dive into specific AI tools like [[ChatGPT]] and [[Google]] Bard, it's worth taking a step back and understanding the broader AI landscape.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=9)** Artificial intelligence is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence like decision-making, image recognition, self-driving cars, and more.
+> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=9)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence like [[Decision-Making]], image recognition, self-driving cars, and more.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=22)** Within the field of artificial intelligence lies machine learning.
 >
@@ -103,13 +102,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=36)** And that more data piece is critical in explaining why we've seen an explosion in AI and machine learning in the past few decades.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=44)** With the proliferation of the internet, mobile devices, internet of things, we're now generating more data than we ever have and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
+> **[0:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=44)** With the proliferation of the internet, mobile devices, [[IoT|internet of things]], we're now generating more data than we ever have and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
 >
-> **[0:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=58)** And within machine learning lies deep learning.
+> **[0:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=58)** And within machine learning lies [[Deep Learning]].
 >
-> **[1:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=60)** This is a very complex family of algorithms that's designed to mimic the human brain and learn almost exclusively without human intervention.
+> **[1:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=60)** This is a very complex family of [[Algorithms]] that's designed to mimic the human brain and learn almost exclusively without human intervention.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=69)** Large language models like ChatGPT and Google Bard fall within this category.
+> **[1:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=69)** [[Large Language Models (LLM)|Large language models]] like ChatGPT and Google Bard fall within this category.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=74)** And speaking of the human brain, there's still one area where these models are not able to approach what humans are able to do and that brings up the conversation between weak versus strong AI.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=133)** As of now, we haven't seen any strong AI systems implemented, but this is likely on the horizon and possibly within our lifetimes.
 >
-> **[2:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots in statistics.
+> **[2:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots in [[Statistics]].
 >
 > **[2:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=146)** A lot of the algorithms rely on statistical concepts, but there's one major philosophical difference between these fields.
 >
@@ -143,17 +142,16 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=192)** They're often picking up millions or billions of nuances and data that we really can't understand or detect.
 >
-> **[3:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=198)** But now let's take a look at generative AI specifically.
+> **[3:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980&t=198)** But now let's take a look at [[Generative AI]] specifically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Deep Learning]] (3), [[Google]] (2)
 > **Definitions:** is a  (3), defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980)
+#### [Setting expectations](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,15 +159,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=3)** First off, this course is designed to be an overview of how data professionals can use AI tools.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=9)** We'll introduce the broader AI landscape and tools like ChatGPT and we'll review practical use cases for data analysts, but we won't be diving deeply into how these large language models actually work or give an exhaustive list of everything that they're capable of.
+> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=9)** We'll introduce the broader AI landscape and tools like [[ChatGPT]] and we'll review practical use cases for data analysts, but we won't be diving deeply into how these [[Large Language Models (LLM)|large language models]] actually work or give an exhaustive list of everything that they're capable of.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=25)** Next, we'll be using the free versions of these AI tools for the course demos.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=30)** We'll quickly touch on some paid options and alternative tools, but the majority of what you see will be shown using the free versions of either ChatGPT or Google Bard.
+> **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=30)** We'll quickly touch on some paid options and alternative tools, but the majority of what you see will be shown using the free versions of either ChatGPT or [[Google]] Bard.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=41)** Perhaps most importantly, AI is a rapidly evolving field and these tools will change very, very quickly.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=49)** This technology is moving fast and that means that existing products are going to change, new vendors and tools will emerge, but hopefully, the core concepts and best practices you learn in this course will remain relevant.
+> **[0:49](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=49)** This technology is moving fast and that means that existing [[Microsoft Products|products]] are going to change, new vendors and tools will emerge, but hopefully, the core concepts and best practices you learn in this course will remain relevant.
 >
 > **[1:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=62)** Last but not least, this course is designed to be modular to fit your needs.
 >
@@ -177,9 +175,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=69)** It's where we'll talk about the AI landscape.
 >
-> **[1:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=71)** We'll introduce these different tools, talk about prompt engineering, best practices, and so on.
+> **[1:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=71)** We'll introduce these different tools, talk about [[Prompt Engineering]], best practices, and so on.
 >
-> **[1:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=77)** But the second half is structured so that you can focus specifically on the tools you use most as an analyst, Excel, Sheets, SQL, Power BI, or Python.
+> **[1:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=77)** But the second half is structured so that you can focus specifically on the tools you use most as an analyst, [[Microsoft Excel|Excel]], Sheets, [[SQL]], [[Microsoft Power BI|Power BI]], or [[Python (Programming Language)|Python]].
 >
 > **[1:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/setting-expectations?u=76281980&t=88)** Now of course, remember that what you see on our screens during the demos won't always match what you're seeing on yours, especially given how these AI tools actually work, but our goal is to give you some ideas and techniques that you can take and apply to your own work.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -200,8 +198,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why AI is a game-changer for data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
+#### [Why AI is a game-changer for data analysis](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=7)** The world is changing fast.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=10)** AI tools like ChatGPT, Google Bard, and others are just allowing people to do things that were really complicated and took lots of time in now, a matter of minutes, sometimes even seconds.
+> **[0:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=10)** AI tools like [[ChatGPT]], [[Google]] Bard, and others are just allowing people to do things that were really complicated and took lots of time in now, a matter of minutes, sometimes even seconds.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=21)** This technology is a total game changer.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=87)** The thing to understand is that the skills required to be an effective analyst are going to shift.
 >
-> **[1:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=93)** We call these three core skills the analytics trifecta: strategic thinking, technical proficiency, and communication skills.
+> **[1:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=93)** We call these three core skills the analytics trifecta: [[Strategic Thinking]], technical proficiency, and communication skills.
 >
 > **[1:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=101)** This is what separates a good analyst from one that's truly great, a real 10X analyst that can help take an organization to the next level.
 >
@@ -283,7 +280,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=211)** This is just the most recent tool.
 >
-> **[3:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=213)** There have been others before it like Tableau and Power BI coming in and becoming a very valuable skillset for the data world.
+> **[3:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=213)** There have been others before it like [[Tableau]] and [[Microsoft Power BI|Power BI]] coming in and becoming a very valuable skillset for the data world.
 >
 > **[3:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980&t=221)** There will be other tools in the future.
 >
@@ -291,14 +288,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (8), [[Strategic Thinking]] (4), career (3), business (3)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[ChatGPT]] (2), [[Google]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### AI use cases for data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980)
+#### [AI use cases for data analytics](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=34)** You can generate step-by-step tutorials.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=37)** You can ask for data visualization tips to help improve your data storytelling.
+> **[0:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=37)** You can ask for data visualization tips to help improve your [[Data Storytelling]].
 >
 > **[0:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=42)** And you can use it to automate tasks, research some specific technical topics, or even generate sample data.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=50)** These are just some of the most common and powerful use cases that we've explored.
 >
-> **[0:55](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=55)** We'll also show you videos where you can dive into Excel, Google Sheets, Power BI, SQL, and Python, and you can get some more specific walkthroughs of each of these different use cases in action.
+> **[0:55](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=55)** We'll also show you videos where you can dive into [[Microsoft Excel|Excel]], [[Google]] Sheets, [[Microsoft Power BI|Power BI]], [[SQL]], and [[Python (Programming Language)|Python]], and you can get some more specific walkthroughs of each of these different use cases in action.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ai-use-cases-for-data-analytics?u=76281980&t=67)** I hope you check those out.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (2), [[Analytics]] (1), [[Troubleshooting]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Microsoft Power BI|Power bi]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -352,14 +348,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AI landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
+#### [The AI landscape](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=0)** - [Host] Before we dive into specific AI tools like ChatGPT and Google Bard, it's worth taking a step back and understanding the broader AI landscape.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=0)** - [Host] Before we dive into specific AI tools like [[ChatGPT]] and [[Google]] Bard, it's worth taking a step back and understanding the broader AI landscape.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=9)** Artificial intelligence is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence, like decision-making, image recognition, self-driving cars, and more.
+> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=9)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a very broad term that relates to machines and computer systems that mimic functions associated with human intelligence, like [[Decision-Making]], image recognition, self-driving cars, and more.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=22)** Within the field of artificial intelligence lies machine learning.
 >
@@ -369,13 +364,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=37)** In that more data piece is critical in explaining why we've seen an explosion in AI and machine learning in the past few decades.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=44)** With the proliferation of the internet, mobile devices, internet of things, we're now generating more data than we ever have, and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
+> **[0:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=44)** With the proliferation of the internet, mobile devices, [[IoT|internet of things]], we're now generating more data than we ever have, and that's enabled machine learning to become more accurate than it ever could have been prior to some of these inventions.
 >
-> **[0:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=58)** And within machine learning lies deep learning.
+> **[0:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=58)** And within machine learning lies [[Deep Learning]].
 >
-> **[1:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=60)** This is a very complex family of algorithms that's designed to mimic the human brain and learn almost exclusively without human intervention.
+> **[1:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=60)** This is a very complex family of [[Algorithms]] that's designed to mimic the human brain and learn almost exclusively without human intervention.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=69)** Large language models like ChatGPT and Google Bard fall within this category.
+> **[1:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=69)** [[Large Language Models (LLM)|Large language models]] like ChatGPT and Google Bard fall within this category.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=74)** And speaking of the human brain, there's still one area where these models are not able to approach what humans are able to do.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=133)** As of now, we haven't seen any strong AI systems implemented, but this is likely on the horizon and possibly within our lifetimes.
 >
-> **[2:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots and statistics.
+> **[2:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=141)** And just in case you were wondering, both machine learning and deep learning have their roots and [[Statistics]].
 >
 > **[2:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=146)** A lot of the algorithms rely on statistical concepts, but there's one major philosophical difference between these fields.
 >
@@ -411,33 +406,32 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=192)** They're often picking up millions or billions of nuances and data that we really can't understand or detect.
 >
-> **[3:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=198)** But now let's take a look at generative AI specifically.
+> **[3:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980&t=198)** But now let's take a look at [[Generative AI]] specifically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (4), data (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Algorithms]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Deep Learning]] (3), [[Google]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
-#### Generative AI and large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980)
+#### [Generative AI and large language models](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=1)** - [Instructor] Generative AI systems are deep learning models capable of generating original text, images, and other types of media in response to user prompts.
+> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=1)** - [Instructor] [[Generative AI]] systems are [[Deep Learning]] models capable of generating original text, images, and other types of media in response to user prompts.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=9)** Large language models, which is what we're focused on in this course, are generative AI models focused on producing text output specifically.
+> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=9)** [[Large Language Models (LLM)|Large language models]], which is what we're focused on in this course, are generative AI models focused on producing text output specifically.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=17)** Other generative AI models include DALL-E and Midjourney, which are used to generate images.
+> **[0:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=17)** Other generative AI models include [[DALL-E]] and [[Midjourney]], which are used to generate images.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=22)** And if you haven't heard of these two tools yet, I highly suggest taking a look for Midjourney images on Google.
+> **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=22)** And if you haven't heard of these two tools yet, I highly suggest taking a look for Midjourney images on [[Google]].
 >
 > **[0:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=28)** You'll find some very interesting images that have been created by AI.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=32)** And so just to give us a little bit of insight into how complex these algorithms really are, let's take a look at a simple language model.
+> **[0:32](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=32)** And so just to give us a little bit of insight into how complex these [[Algorithms]] really are, let's take a look at a simple language model.
 >
-> **[0:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=39)** So maybe the first prototype of ChatGPT looks something like this.
+> **[0:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=39)** So maybe the first prototype of [[ChatGPT]] looks something like this.
 >
 > **[0:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=44)** I prompt the machine "The capital of France is", and we hope to see the capital of France is Paris in return.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=59)** The model doesn't know that Paris is the correct response but suggests the answer that it thinks is most probable in the given context.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=66)** So 99 times out of 100, when we see the capital of France is, the last word there will be Paris.
+> **[1:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=66)** So 99 times out of 100, when we see the capital of France is, the last [[Microsoft Word|word]] there will be Paris.
 >
 > **[1:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=73)** But this model has to compare Paris with thousands of words and determine that it had the strongest relationship with words like capital and France.
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=86)** But remember that the word capital has multiple meanings, that France has had other capitals historically, and that the blank could also be things like beautiful, a popular tourist destination, et cetera.
 >
-> **[1:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=97)** So even though we expect the answer to be Paris, these models have to rank the probability that Paris is the correct answer against thousands, if not hundreds of thousands, of other options that might have some probability of being correct.
+> **[1:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=97)** So even though we expect the answer to be Paris, these models have to rank the [[Probability]] that Paris is the correct answer against thousands, if not hundreds of thousands, of other options that might have some probability of being correct.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=110)** And when we take that a step further, our large language model has to do a lot more work.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=242)** And LLMs like ChatGPT are among the most sophisticated deep learning models ever built.
 >
-> **[4:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=248)** GPT-4, which currently powers premium versions of ChatGPT, cost over a hundred million dollars and took 11 months of computing to train with some of the most state-of-the-art compute available to us.
+> **[4:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=248)** [[GPT-4]], which currently powers premium versions of ChatGPT, cost over a hundred million dollars and took 11 months of computing to train with some of the most state-of-the-art compute available to us.
 >
 > **[4:20](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-and-large-language-models?u=76281980&t=260)** So these are incredibly complex and expensive algorithms that have unparalleled access to data and unparalleled complexity.
 >
@@ -507,18 +501,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), prompt (3), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Generative AI]] (4), [[Deep Learning]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Midjourney]] (2)
 > **Env Vars:** gpt (2), dall (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The road to ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980)
+#### [The road to ChatGPT](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=0)** - [Instructor] AI tools like ChatGPT became widely popular in late 2022, but they owe their success to more than 60 years of research and development in artificial intelligence systems.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=0)** - [Instructor] AI tools like [[ChatGPT]] became widely popular in late 2022, but they owe their success to more than 60 years of research and development in [[Artificial Intelligence (AI)|artificial intelligence]] systems.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=11)** Outside of AI research, we also saw massive surges in computing power, storage capabilities, data generation, and much more.
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=28)** So this chart here shows the increasing complexity of neural network models over time.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=33)** So on our X axis we have time, and on our Y axis we have the number of model parameters that specific neural networks had.
+> **[0:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=33)** So on our X axis we have time, and on our Y axis we have the number of model parameters that specific [[Neural Networks]] had.
 >
 > **[0:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=42)** And so the term artificial intelligence was only coined in 1955, and a few years later, the first neural network algorithm was implemented.
 >
@@ -544,7 +537,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=95)** AI research really started to pick back up again in the mid-'80s after a novel neural network architecture was created.
 >
-> **[1:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=102)** Multi-layer perceptrons, which helped solve the issues researchers found in the late '60s, as well as back propagation, which was a technique for allowing these algorithms to solve for their own errors better, were implemented in the same algorithm, and this made them much more powerful and opened up the door to new practical applications.
+> **[1:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=102)** Multi-layer perceptrons, which helped solve the issues researchers found in the late '60s, as well as back propagation, which was a technique for allowing these [[Algorithms]] to solve for their own errors better, were implemented in the same algorithm, and this made them much more powerful and opened up the door to new practical applications.
 >
 > **[2:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=122)** In the meantime, corporations were starting to get invested into the artificial intelligence game.
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=153)** This opened up the door to a widespread array of practical applications that had tremendous economic benefit, and we really started to see a lot more interest back in neural networks once again.
 >
-> **[2:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=164)** In the mid 2000s, the first neural network with deep learning capabilities was developed, and this is one of the most important breakthroughs that led to some of the AI tools we saw today.
+> **[2:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=164)** In the mid 2000s, the first neural network with [[Deep Learning]] capabilities was developed, and this is one of the most important breakthroughs that led to some of the AI tools we saw today.
 >
 > **[2:54](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=174)** And so just to point out, from about 1955 to about 2010, we saw about a two-year doubling in terms of the number of parameters that models had.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=190)** So every four months, these models are getting twice as complex as they were before.
 >
-> **[3:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=196)** We're not necessarily forecasting that this doubling is going to progress at the same rate.
+> **[3:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=196)** We're not necessarily [[Forecasting]] that this doubling is going to progress at the same rate.
 >
 > **[3:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=201)** It may increase, it may plateau as we see diminishing returns, but things moved extremely fast in the last decade.
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=243)** This was powered by deep learning, and Go was considered a much more challenging problem for computers to solve than chess, which was a little bit more predictable in terms of what players could do.
 >
-> **[4:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=253)** In 2017, researchers at Google published a paper on transformer layers, introducing them into neural networks.
+> **[4:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=253)** In 2017, researchers at [[Google]] published a paper on transformer layers, introducing them into neural networks.
 >
 > **[4:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=261)** Transformer layers were the last key piece of machine learning research necessary to create algorithms like ChatGPT.
 >
@@ -598,19 +591,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[Deep Learning]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Neural Networks]] (4), [[Deep Learning]] (3), [[Algorithms]] (2)
 > **Env Vars:** gpt4 (4), ibm (2), gpt1 (2), mit (1), eliza (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980)
+#### [Generative AI tools](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=0)** - [Narrator] The rate of adoption for modern AI tools is unprecedented.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=4)** ChatGPT became the fastest-growing online product in history, reaching one million users in only five days.
+> **[0:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=4)** [[ChatGPT]] became the fastest-growing online product in history, reaching one million users in only five days.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=11)** So if it felt like ChatGPT came out of nowhere, it sort of did.
 >
@@ -636,9 +628,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=73)** So we expect a lot of areas of traditional work to be transformed or augmented by these tools.
 >
-> **[1:20](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=80)** But in this course, we're going to be primarily focused on ChatGPT and Google Bard, which are two of the most popular GPT tools on the market.
+> **[1:20](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=80)** But in this course, we're going to be primarily focused on ChatGPT and [[Google]] Bard, which are two of the most popular GPT tools on the market.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=88)** ChatGPT was developed by OpenAI which has a close partnership with Microsoft and Bard was developed in-house at Google.
+> **[1:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=88)** ChatGPT was developed by OpenAI which has a close partnership with [[Microsoft]] and Bard was developed in-house at Google.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=95)** ChatGPT made headlines first releasing in November, 2022, but Google Bard released shortly thereafter in early 2023 and is a viable competitor.
 >
@@ -648,22 +640,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (5), [[Google]] (3), product (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Google]] (3), [[Microsoft]] (1)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Warning: Pitfalls of ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980)
+#### [Warning: Pitfalls of ChatGPT](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=0)** - [Instructor] Okay, so I've just spent the last several videos hyping up the achievements and capabilities of artificial intelligence, and while modern AI tools are certainly impressive and often very useful, they are by no means perfect tools, and so we need to be aware of some common pitfalls to get the most out of these tools and working with them.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=0)** - [Instructor] Okay, so I've just spent the last several videos hyping up the achievements and capabilities of [[Artificial Intelligence (AI)|artificial intelligence]], and while modern AI tools are certainly impressive and often very useful, they are by no means perfect tools, and so we need to be aware of some common pitfalls to get the most out of these tools and working with them.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=19)** The first and probably most concerning is that LLMs are known to hallucinate facts with total confidence.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=25)** There's a famous case circulating on social media where a user asked ChatGPT to perform some research on a medical topic.
+> **[0:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=25)** There's a famous case circulating on social media where a user asked [[ChatGPT]] to perform some research on a medical topic.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=32)** ChatGPT provided an extremely comprehensive response and cited a number of research papers and authors along the way.
 >
@@ -683,13 +674,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=98)** LLMs may not understand specific business context or the why behind the responses they produce.
 >
-> **[1:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=104)** So when I'm working with ChatGPT to help me with Python code, it tends to do very well with the what and how.
+> **[1:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=104)** So when I'm working with ChatGPT to help me with [[Python (Programming Language)|Python]] code, it tends to do very well with the what and how.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=110)** What function should I use to perform this analysis and how should I perform them?
 >
 > **[1:55](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=115)** But it struggles with the why.
 >
-> **[1:56](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=116)** If I need to filter some retail sales data down to a specific set of products, it will tell me how to do that, but it won't necessarily understand why I'm filtering down to a specific set of products.
+> **[1:56](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=116)** If I need to filter some retail sales data down to a specific set of [[Microsoft Products|products]], it will tell me how to do that, but it won't necessarily understand why I'm filtering down to a specific set of products.
 >
 > **[2:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/warning-pitfalls-of-chatgpt?u=76281980&t=128)** And finally, LLMs are not capable of common sense or human judgment.
 >
@@ -707,13 +698,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing ChatGPT and Google Bard
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980)
+#### [Accessing ChatGPT and Google Bard](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=6)** It's quite straightforward.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=7)** You can access ChatGPT for free at chat.[openai.com](https://openai.com).
+> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=7)** You can access [[ChatGPT]] for free at chat.[openai.com](https://openai.com).
 >
 > **[0:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=11)** Once you visit that site for the first time, you'll see a Create your account window pop up, and OpenAI currently allows anyone to sign up and use ChatGPT for free.
 >
@@ -729,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=29)** But we'll be using the free version in this course.
 >
-> **[0:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=31)** You can either create an account by using an email address or by connecting to an existing Microsoft or Google account.
+> **[0:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=31)** You can either create an account by using an email address or by connecting to an existing [[Microsoft]] or [[Google]] account.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=38)** And if you're curious about reading more from the OpenAI team on ChatGPT, you can go to their blog at [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt).
 >
@@ -745,11 +735,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=64)** Google made Bard available for free in May 2023 in most countries, and if you want to read more about Bard, you can go to bard.[google.com/faq](https://google.com/faq).
 >
-> **[1:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=73)** So if you want to get started with these tools and work alongside us, go ahead and take a few minutes to get set up, and you'll see John in the next section.
+> **[1:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/accessing-chatgpt-and-google-bard?u=76281980&t=73)** So if you want to get started with these tools and work alongside us, go ahead and take a few minutes to get set up, and you'll see [[John the Ripper|John]] in the next section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[ChatGPT]] (4), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[ChatGPT]] (4), [[Microsoft]] (1), [[John the Ripper|John]] (1)
 > **URLs:** [openai.com](https://openai.com) (2), [google.com](https://google.com) (2)
 > **UI Navigation:** go to (2)
 > **Cross-References:** in the next (1)
@@ -761,18 +751,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
+#### [Intro to prompt engineering](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=0)** - [Instructor] Hey everybody. In this video, we are going to talk about prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=0)** - [Instructor] Hey everybody. In this video, we are going to talk about [[Prompt Engineering]].
 >
 > **[0:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=4)** You may have heard the term prompt engineering in the context of AI tools, we're going to walk you through what that means, and then finish with some tips so that you can write great, effective prompts.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=14)** Don't worry, this is all pretty simple, and we'll walk you through it step by step.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=18)** So first, a prompt is a question or a set of instructions that is going to serve as the input for AI tools like ChatGPT or Google Bard.
+> **[0:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=18)** So first, a prompt is a question or a set of instructions that is going to serve as the input for AI tools like [[ChatGPT]] or [[Google]] Bard.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=28)** And prompt engineering is the practice of writing prompts that are going to generate the most effective and accurate responses.
 >
@@ -782,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=43)** It doesn't have to be a question, it could be some direction.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=46)** You could see the example, "Can you please explain how the OFFSET function works in Excel?"
+> **[0:46](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=46)** You could see the example, "Can you please explain how the OFFSET function works in [[Microsoft Excel|Excel]]?"
 >
 > **[0:51](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980&t=51)** And you'll get back a response like this.
 >
@@ -810,20 +799,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[Google]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** offset (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Be clear and specific
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980)
+#### [Prompt tip: Be clear and specific](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=0)** - [Presenter] Hey, everybody.
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=0)** In this video, we're going to go through our first tip for prompt engineering to get better results from your AI tools.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=0)** In this video, we're going to go through our first tip for [[Prompt Engineering]] to get better results from your AI tools.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=7)** And that tip is to be clear and specific.
 >
@@ -831,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=14)** So, let's go through an example.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=16)** Here, we've got a question, we're working in Excel and we want to know how to calculate year over year growth.
+> **[0:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=16)** Here, we've got a question, we're working in [[Microsoft Excel|Excel]] and we want to know how to calculate year over year growth.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-be-clear-and-specific?u=76281980&t=21)** The response that we get back is good, but it could be even better if we told the AI tool exactly what we are trying to do.
 >
@@ -857,17 +845,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Excel|Excel]] (3), data (2), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Prompt Engineering]] (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prompt tip: Provide context
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980)
+#### [Prompt tip: Provide context](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980&t=0)** - [Instructor] Hey everybody.
 >
-> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980&t=1)** In this video we've got another tip for prompt engineering to get better results from AI tools like ChatGPT and Google Bard.
+> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980&t=1)** In this video we've got another tip for [[Prompt Engineering]] to get better results from AI tools like [[ChatGPT]] and [[Google]] Bard.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-provide-context?u=76281980&t=8)** And that tip is to provide as much context as the AI tool needs to get you the exact result that you need to solve your problem.
 >
@@ -891,15 +878,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Establish roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-establish-roles?u=76281980)
+#### [Prompt tip: Establish roles](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-establish-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-establish-roles?u=76281980&t=0)** - [Instructor] In this video, we're going to give you our next prompt engineering tip to get better results from AI tools like ChatGPT and Google Bard, and that's to establish roles.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-establish-roles?u=76281980&t=0)** - [Instructor] In this video, we're going to give you our next [[Prompt Engineering]] tip to get better results from AI tools like [[ChatGPT]] and [[Google]] Bard, and that's to establish roles.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-establish-roles?u=76281980&t=8)** What that means is you can assign a role that the AI tool is going to play and you can also assign a role that you yourself, as the receiver of the information, is going to play.
 >
@@ -915,15 +901,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), [[ChatGPT]] (2), next (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Prompt Engineering]] (1), [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt tip: Set the tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-set-the-tone?u=76281980)
+#### [Prompt tip: Set the tone](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-set-the-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-set-the-tone?u=76281980&t=0)** - [Lecturer] In this video, we're going to walk you through another tip for prompt engineering to get better results from AI tools like ChatGPT and Google Bard.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-set-the-tone?u=76281980&t=0)** - [Lecturer] In this video, we're going to walk you through another tip for [[Prompt Engineering]] to get better results from AI tools like [[ChatGPT]] and [[Google]] Bard.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/prompt-tip-set-the-tone?u=76281980&t=8)** This time we're going to be talking about setting the tone which can have a major impact on what you see as a response.
 >
@@ -953,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), prompt (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [lecturer] (1)
 
@@ -962,20 +947,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to ChatGPT for Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
+#### [Intro to ChatGPT for Excel](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=0)** - [Instructor] All right, welcome to the ChatGPT for Excel section of the course.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=0)** - [Instructor] All right, welcome to the [[ChatGPT]] for [[Microsoft Excel|Excel]] section of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=4)** In this section, we'll be exploring some of the most common and powerful use cases for data professionals to use ChatGPT with Microsoft Excel, including things like generating formulas and functions, troubleshooting and diagnosing errors, explaining complex topics and much, much more.
+> **[0:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=4)** In this section, we'll be exploring some of the most common and powerful use cases for data professionals to use ChatGPT with [[Microsoft Excel]], including things like generating formulas and functions, troubleshooting and diagnosing errors, explaining complex topics and much, much more.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=21)** So here's a quick review of some of the topics and demos that we'll dig into.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=26)** We're going to use tools like ChatGPT and Bard to help explain complex formulas or topics to us as if it's our own personal tutor.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=34)** We'll also use these tools to generate brand new worksheet formulas as well as DAX measures and M Code.
+> **[0:34](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=34)** We'll also use these tools to generate brand new worksheet formulas as well as [[DAX]] measures and M Code.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=41)** We'll see how ChatGPT can help us automate tasks with VBA macros and custom scripts.
 >
@@ -983,15 +967,15 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=60)** And finally, we'll use these tools to actually generate industry specific sample data sets.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=66)** So our goals for this section, we're going to learn how to use ChatGPT and prompt engineering to help explain complex Excel formulas or concepts.
+> **[1:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=66)** So our goals for this section, we're going to learn how to use ChatGPT and [[Prompt Engineering]] to help explain complex Excel formulas or concepts.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=74)** We'll also generate new formulas based on either text descriptions or sample data that we provide.
 >
-> **[1:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=81)** We'll generate DAX, M, and VBA code for things like data modeling, analysis, and automation.
+> **[1:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=81)** We'll generate DAX, M, and VBA code for things like [[Data Modeling]], analysis, and automation.
 >
 > **[1:27](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=87)** We'll troubleshoot broken formulas or code.
 >
-> **[1:29](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=89)** And again, we'll use ChatGPT to actually provide us with step-by-step plans for data prep, quality assurance, exploratory analysis, and more.
+> **[1:29](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=89)** And again, we'll use ChatGPT to actually provide us with step-by-step plans for data prep, [[Quality Assurance]], exploratory analysis, and more.
 >
 > **[1:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980&t=99)** We've got a lot of really fun topics to dig into.
 >
@@ -999,21 +983,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), data (7), [[Microsoft Excel|Excel]] (2), [[DAX]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Excel|Excel]] (2), [[DAX]] (2), [[Microsoft Excel]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** dax (2), vba (2)
 > **Warnings:** troubleshoot (2)
 > **Speakers:** - [instructor] (1)
 
-#### Explain fundamental Excel concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980)
+#### [Explain fundamental Excel concepts](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=0)** - [Instructor] All right, let's kick off this section by talking about how we can use AI as our personal Excel tutor.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=0)** - [Instructor] All right, let's kick off this section by talking about how we can use AI as our personal [[Microsoft Excel|Excel]] tutor.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=5)** Now we're going to be focusing on two different themes of prompts here in this demo.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=10)** First is using ChatGPT to better understand general topics or concepts related to Excel.
+> **[0:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=10)** First is using [[ChatGPT]] to better understand general topics or concepts related to Excel.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=16)** And then we're going to dive deeper into a very common and powerful use case, which is better understanding specific formulas or functions.
 >
@@ -1031,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=48)** Here's some of the most common Excel shortcuts that can help you navigate and work more efficiently in Excel.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=54)** So that's great, but you might be wondering, you know why wouldn't I just google that information?
+> **[0:54](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=54)** So that's great, but you might be wondering, you know why wouldn't I just [[Google]] that information?
 >
 > **[0:59](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=59)** Which is a fair point and this is where that conversational nature of ChatGPT really sets it apart.
 >
@@ -1057,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=118)** Super helpful little cheat sheet breaking down each action or shortcut based on the PC and Mac syntax.
 >
-> **[2:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=124)** So this is information that you certainly could get from a tool like Google, but the fact that ChatGPT can kind of consolidate all this information in one place without you having to scrub through different search results, look at different forms or articles or videos that makes it really, really intuitive and really convenient as a research tool.
+> **[2:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=124)** So this is information that you certainly could get from a tool like Google, but the fact that ChatGPT can kind of consolidate all this information in one place without you having to scrub through different search results, look at different [[Forms]] or articles or videos that makes it really, really intuitive and really convenient as a research tool.
 >
 > **[2:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=145)** And then one more quick example with kind of this generic topic or concept approach, you might type something like this.
 >
@@ -1089,7 +1072,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=208)** So it's a powerful lookup and reference function.
 >
-> **[3:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=210)** It was introduced in Excel 365, Excel 2021 for Windows.
+> **[3:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=210)** It was introduced in Excel 365, Excel 2021 for [[Windows]].
 >
 > **[3:35](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=215)** Here's kind of a quick summary.
 >
@@ -1107,9 +1090,9 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=247)** But if I'm brand new to Excel or I'm still kind of in the beginner phases this still might be a bit over complicated, right?
 >
-> **[4:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=254)** It kind of sounds like I'm reading official Microsoft documentation here.
+> **[4:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=254)** It kind of sounds like I'm reading official [[Microsoft]] documentation here.
 >
-> **[4:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=257)** So let's do a little bit of prompt engineering here and add some follow-ups to really hone in on the type of response we're looking for.
+> **[4:17](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=257)** So let's do a little bit of [[Prompt Engineering]] here and add some follow-ups to really hone in on the type of response we're looking for.
 >
 > **[4:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/explain-fundamental-excel-concepts?u=76281980&t=265)** So this is a tip that I love to use all the time.
 >
@@ -1211,7 +1194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (21), [[ChatGPT]] (15), data (9), prompt (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (21), [[ChatGPT]] (15), [[Google]] (2), [[Prompt Engineering]] (2), [[Forms]] (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** mac (1), div (1), css (1)
 > **Analogies:** for instance (1), imagine (1)
@@ -1220,14 +1203,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate Excel formulas from descriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980)
+#### [Generate Excel formulas from descriptions](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=0)** - [Instructor] All right, next up, I've got a really fun demo for you.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=2)** We're going to talk about how to use AI to actually generate new Excel formulas based on descriptions that you provide.
+> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=2)** We're going to talk about how to use AI to actually generate new [[Microsoft Excel|Excel]] formulas based on descriptions that you provide.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=9)** So in this case we're going to use some sample data here in Excel.
 >
@@ -1235,7 +1217,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=21)** The first calculating the total number of items in the list, and the second, slightly more complicated, calculating the number of unique items only.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=29)** Now our goal is to see if ChatGPT can produce the exact formulas that we need to generate these two values.
+> **[0:29](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=29)** Now our goal is to see if [[ChatGPT]] can produce the exact formulas that we need to generate these two values.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=36)** Let's give it a shot.
 >
@@ -1333,7 +1315,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=246)** But this is a good point to pause and remind yourself that you're going to get potentially different responses every time you enter a new prompt even if the prompt is identical.
 >
-> **[4:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=256)** So I want to try a test here and copy this prompt, paste it word for word one more time and see what we get.
+> **[4:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=256)** So I want to try a test here and copy this prompt, paste it [[Microsoft Word|word]] for word one more time and see what we get.
 >
 > **[4:25](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=265)** So check this out.
 >
@@ -1365,11 +1347,11 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=349)** It's using COUNTA, it's using UNIQUE, and in fact, in this case, it's actually adding a filter argument which isn't entirely necessary but it certainly couldn't hurt here.
 >
-> **[5:59](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=359)** So again, good reminder of why prompt engineering is so important.
+> **[5:59](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=359)** So again, good reminder of why [[Prompt Engineering]] is so important.
 >
 > **[6:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=363)** And then last thing I want to do here is take that exact prompt I just wrote and test this in Bard to compare and contrast the outputs.
 >
-> **[6:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=371)** Alright, so here we are in Google Bard.
+> **[6:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=371)** Alright, so here we are in [[Google]] Bard.
 >
 > **[6:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=373)** I'm going to paste that exact same prompt and see what we get in this case.
 >
@@ -1393,7 +1375,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=424)** And then most importantly, I can't stress this enough, always validate the results and do a thorough QA.
 >
-> **[7:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=431)** ChatGPT isn't always right, and that's why it's critical to build a strong foundational skillset with these tools like Excel and SQL and Power BI and so on and use these AI tools as a supplement rather than a crutch.
+> **[7:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=431)** ChatGPT isn't always right, and that's why it's critical to build a strong foundational skillset with these tools like Excel and [[SQL]] and [[Microsoft Power BI|Power BI]] and so on and use these AI tools as a supplement rather than a crutch.
 >
 > **[7:24](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-excel-formulas-from-descriptions?u=76281980&t=444)** So overall, I think there's a ton of potential value in using ChatGPT for these types of cases.
 >
@@ -1403,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), [[ChatGPT]] (11), prompt (10), ai (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), [[ChatGPT]] (11), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (1), [[Google]] (1)
 > **Env Vars:** counta (7), b50 (6), unique (5), count (5), countif (3)
 > **Definitions:** is a  (3)
 > **Warnings:** important note (1), be careful (1), caution (1)
@@ -1412,14 +1394,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate DAX and M Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980)
+#### [Generate DAX and M Code](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=0)** - [Instructor] So we've talked about how to use tools, like ChatGPT and Bard, to generate or interpret Excel worksheet formulas.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=0)** - [Instructor] So we've talked about how to use tools, like [[ChatGPT]] and Bard, to generate or interpret [[Microsoft Excel|Excel]] worksheet formulas.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=7)** Now let's take it a step further and see if we can use those tools to generate DAX or M Code as well.
+> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=7)** Now let's take it a step further and see if we can use those tools to generate [[DAX]] or M Code as well.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=13)** So for this demo, what I've done is loaded up a simple movie table into Excel's data model.
 >
@@ -1493,7 +1474,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=161)** So really, really impressed with that use case.
 >
-> **[2:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=164)** Next up, let's see if we can actually produce this same value but this time, using M code inside of Power Query.
+> **[2:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=164)** Next up, let's see if we can actually produce this same value but this time, using M code inside of [[Microsoft Power Query|Power Query]].
 >
 > **[2:51](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-dax-and-m-code?u=76281980&t=171)** So to do that we're going to head to Data, Queries & Connections.
 >
@@ -1557,7 +1538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Microsoft Excel|Excel]] (4), [[DAX]] (4), data (4), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Microsoft Excel|Excel]] (4), [[DAX]] (4), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** imdb (10), dax (4), csv (1)
 > **Versions:** 6.36 (3)
 > **Cross-References:** go back to (1)
@@ -1566,14 +1547,13 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automate tasks with VBA macros
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980)
+#### [Automate tasks with VBA macros](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980&t=0)** - [Instructor] Next up, I've got a really fun demo for you.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980&t=2)** We're going to talk about how you can use ChatGPT to Automate Tasks in Excel By Generating VBA Scripts and Macros.
+> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980&t=2)** We're going to talk about how you can use [[ChatGPT]] to Automate Tasks in [[Microsoft Excel|Excel]] By Generating VBA Scripts and Macros.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/automate-tasks-with-vba-macros?u=76281980&t=10)** So for this demo, what I've got here is a list of some of the top earning movies of all time.
 >
@@ -1685,18 +1665,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Excel|Excel]] (4), [[Automation]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** pdf (11), vba (7), avba (2), imdb (1), f11 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate formulas from sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-formulas-from-sample-data?u=76281980)
+#### [Generate formulas from sample data](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-formulas-from-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-formulas-from-sample-data?u=76281980&t=0)** - [Instructor] All right, so for our next demo, what we're going to practice doing is actually pasting data directly into ChatGPT and seeing if it can use that sample data to help produce Excel formulas.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-formulas-from-sample-data?u=76281980&t=0)** - [Instructor] All right, so for our next demo, what we're going to practice doing is actually pasting data directly into [[ChatGPT]] and seeing if it can use that sample data to help produce [[Microsoft Excel|Excel]] formulas.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-formulas-from-sample-data?u=76281980&t=11)** So this will be a little bit of a shortcut, so that we don't have to necessarily describe our data set perfectly in words.
 >
@@ -1834,19 +1813,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[ChatGPT]] (8), [[Microsoft Excel|Excel]] (5), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** note that (1), caution (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ask for Excel data visualization advice
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980)
+#### [Ask for Excel data visualization advice](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=0)** - [Instructor] All right, so for our next demo, I'd like to explore how we might be able to use tools like ChatGPT for data visualization.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=0)** - [Instructor] All right, so for our next demo, I'd like to explore how we might be able to use tools like [[ChatGPT]] for data visualization.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=7)** Now, even though ChatGPT can't currently produce visual responses outside of code samples, at least not yet, I'm curious if we can use it to better understand data viz best practices, or have it recommend effective visuals based on some given context.
 >
@@ -1854,7 +1832,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=30)** So first prompt, I'm analyzing a sample of wine data and would like to understand the distribution of wines by price point.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=37)** What will be the best way to visualize this in Excel?
+> **[0:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=37)** What will be the best way to visualize this in [[Microsoft Excel|Excel]]?
 >
 > **[0:40](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/ask-for-excel-data-visualization-advice?u=76281980&t=40)** Now I'm being very deliberate about how I've written this prompt, specifically the use of this term distribution, right?
 >
@@ -1934,18 +1912,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[ChatGPT]] (7), prompt (5), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Produce step-by-step Excel tutorials
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980)
+#### [Produce step-by-step Excel tutorials](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=0)** - [Instructor] Alright, so for this next demo, what I want to do is see if we can use ChatGPT to generate clear step-by-step instructions or guidelines for conducting some sort of analysis in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=0)** - [Instructor] Alright, so for this next demo, what I want to do is see if we can use [[ChatGPT]] to generate clear step-by-step instructions or guidelines for conducting some sort of analysis in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=13)** I'm going to walk through two examples here, starting relatively simple with a basic PivotTable, and then we're going to try something a bit more advanced by creating a relational data model using Power Pivot.
 >
@@ -1963,13 +1940,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=61)** So what I'm actually going to do is copy a little sample of the data here, and now let's jump into ChatGPT.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=67)** Let's go ahead and paste that sample here, and I'm going to shift down, and add the rest of my prompt like so.
+> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=67)** Let's go ahead and paste that sample here, and I'm going to shift down, and add the [[Representational State Transfer (REST)|rest]] of my prompt like so.
 >
 > **[1:15](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=75)** All right, so we're saying I have an Excel table containing the following fields from the table we just looked at.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=81)** I need to create a PivotTable showing the average revenue for each order size formatted as currency, USD.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=88)** And then we're saying, please provide clear step-by-step instructions for creating the PivotTable using Excel for Office 365, and here's a sample of the first, in this case, I think it was 15 rows of data.
+> **[1:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=88)** And then we're saying, please provide clear step-by-step instructions for creating the PivotTable using Excel for [[Microsoft Office|Office]] 365, and here's a sample of the first, in this case, I think it was 15 rows of data.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=103)** Let's see how ChatGPT does with this one.
 >
@@ -2055,7 +2032,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=291)** And each of those tables has a primary key, in this case, customer ID.
 >
-> **[4:56](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=296)** For products, we have product ID to relate these tables back to our transactions and analyze all this information together using Power Pivot.
+> **[4:56](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=296)** For [[Microsoft Products|products]], we have product ID to relate these tables back to our transactions and analyze all this information together using Power Pivot.
 >
 > **[5:04](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=304)** So for this example, what I'm actually going to do is show you how I would approach this first as an expert, and then I'm going to provide a prompt to ChatGPT, and then compare my approach to how ChatGPT recommends tackling this type of task.
 >
@@ -2069,7 +2046,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=347)** So now I've effectively loaded all four of those tables into Excel's data model.
 >
-> **[5:53](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=353)** Didn't have to go through Power Query, didn't have to do any table imports or anything fancy.
+> **[5:53](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=353)** Didn't have to go through [[Microsoft Power Query|Power Query]], didn't have to do any table imports or anything fancy.
 >
 > **[5:57](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/produce-step-by-step-excel-tutorials?u=76281980&t=357)** Simply one click from that Power Pivot menu, and all my data's in here.
 >
@@ -2169,7 +2146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[ChatGPT]] (14), [[Microsoft Excel|Excel]] (14), power (11), product (6)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Microsoft Excel|Excel]] (14), [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Power Query|Power query]] (3)
 > **UI Navigation:** select the (2), go to (2), click on (1), dropdown (1), open the (1)
 > **Env Vars:** usd (2), f101 (1)
 > **Definitions:** is a  (3)
@@ -2178,12 +2155,11 @@ created: 2026-05-02
 > **Versions:** 8.49 (1)
 > **Cross-References:** go back to (1)
 
-#### Collaborate on data prep and EDA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980)
+#### [Collaborate on data prep and EDA](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=0)** - [Instructor] Alright, so one use case that I've been exploring that I'm really excited about and impressed with is using tools like ChatGPT and Bard to collaborate on things like data prep and exploratory analysis.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=0)** - [Instructor] Alright, so one use case that I've been exploring that I'm really excited about and impressed with is using tools like [[ChatGPT]] and Bard to collaborate on things like data prep and exploratory analysis.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=12)** It's such a great way to leverage the conversational nature of these tools and actually learn quite a bit along the way.
 >
@@ -2193,7 +2169,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=26)** "I just exported a raw CSV file containing web traffic data.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=30)** Could you please act like a data quality assurance engineer and give me a step-by-step plan to help me QA and prepare my data for analysis?"
+> **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=30)** Could you please act like a [[Data Quality]] assurance engineer and give me a step-by-step plan to help me QA and prepare my data for analysis?"
 >
 > **[0:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=39)** So you can see I'm really trying to set clear context here with this prompt.
 >
@@ -2207,7 +2183,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=63)** Here's a step-by-step plan that you can follow.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=67)** Understand the data, validate data integrity, follow these data cleaning steps for handling missing values, duplicates, got some data transformation steps here, like parsing or aggregating the data, look at data formatting, consistency and integrity, check for outliers, document the data.
+> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=67)** Understand the data, validate [[Data Integrity]], follow these [[Data Cleaning]] steps for handling missing values, duplicates, got some [[Data Transformation]] steps here, like parsing or aggregating the data, look at data formatting, consistency and integrity, check for outliers, document the data.
 >
 > **[1:26](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=86)** That's a nice one.
 >
@@ -2249,11 +2225,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=177)** And now let's take it kind of one step further, and say, all right, now my data's looking good.
 >
-> **[3:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=183)** Now, can you provide a plan for conducting some data profiling and exploratory analysis in Excel?
+> **[3:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=183)** Now, can you provide a plan for conducting some data profiling and exploratory analysis in [[Microsoft Excel|Excel]]?
 >
 > **[3:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=190)** It's going to give us another plan here.
 >
-> **[3:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=192)** It's going to talk about common data profiling tools, calculating summary statistics, like sums, averages, mins, max counts, some data visualization advice here, some tips for filtering and sorting, using relationships if you're working with multiple tables, validating the data, documenting.
+> **[3:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=192)** It's going to talk about common data profiling tools, calculating summary [[Statistics]], like sums, averages, mins, max counts, some data visualization advice here, some tips for filtering and sorting, using relationships if you're working with multiple tables, validating the data, documenting.
 >
 > **[3:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=213)** So again, really good tips.
 >
@@ -2321,7 +2297,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=336)** Little bit odd.
 >
-> **[5:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=337)** It's telling me use pivot tables, charts, analysis tool pack, use multiple methods, be iterative, again, get help from an expert.
+> **[5:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=337)** It's telling me use [[Pivot Tables]], charts, analysis tool pack, use multiple methods, be iterative, again, get help from an expert.
 >
 > **[5:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/collaborate-on-data-prep-and-eda?u=76281980&t=344)** Not really impressed with this output.
 >
@@ -2341,7 +2317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[ChatGPT]] (7), prompt (5), web (2), traffic (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Data Integrity]] (2), [[Microsoft Excel|Excel]] (2), [[Data Quality]] (1), [[Data Cleaning]] (1)
 > **Env Vars:** csv (2), eda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** remember to (1), you should always (1)
@@ -2350,12 +2326,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate sample datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980)
+#### [Generate sample datasets](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=0)** - [Instructor] All right, if you are a data analyst or an Excel user and you're looking for a fun way to use ChatGPT, here's a great demo for you.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=0)** - [Instructor] All right, if you are a data analyst or an [[Microsoft Excel|Excel]] user and you're looking for a fun way to use [[ChatGPT]], here's a great demo for you.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=8)** I'm going to show you how you can use ChatGPT to generate custom sample data sets that you can use to practice your skills.
 >
@@ -2365,7 +2340,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=19)** We're going to start with a prompt like this.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=21)** "I'm a recently hired web analyst for an e-commerce business, looking for sample data that I can use to apply my skills.
+> **[0:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=21)** "I'm a recently hired web analyst for an [[E-Commerce]] business, looking for sample data that I can use to apply my skills.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=28)** Can you please produce a sample data set in CSV format containing common fields that web analysts typically encounter on the job?"
 >
@@ -2383,7 +2358,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=63)** Timestamp, id, page_url, referral_source, device_type, product_category, quantity, transaction_id.
 >
-> **[1:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=70)** These are actually really, really accurate and relevant metrics for web analytics.
+> **[1:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=70)** These are actually really, really accurate and relevant metrics for [[Web Analytics]].
 >
 > **[1:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=76)** I actually spent about 10 years working in a web analyst role, and this is very representative of the types of data sets that we would analyze on the job.
 >
@@ -2429,7 +2404,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=190)** One thing that I really like to do is add a prompt, that sounds something like this.
 >
-> **[3:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=196)** "The data we normally deal with is pretty messy, so I'd like to practice my data cleaning skills as well."
+> **[3:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=196)** "The data we normally deal with is pretty messy, so I'd like to practice my [[Data Cleaning]] skills as well."
 >
 > **[3:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=202)** And now check this out.
 >
@@ -2461,7 +2436,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=276)** And now that's helpful in itself.
 >
-> **[4:38](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=278)** But the ability to inject realistic data quality issues was the icing on the cake for me.
+> **[4:38](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=278)** But the ability to inject realistic [[Data Quality]] issues was the icing on the cake for me.
 >
 > **[4:44](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generate-sample-datasets?u=76281980&t=284)** And this is really just scratching the surface of the types of prompts we could play with for this type of use case.
 >
@@ -2475,7 +2450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[ChatGPT]] (5), web (5), [[Microsoft Excel|Excel]] (4), prompt (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Excel|Excel]] (4), [[E-Commerce]] (1), [[Web Analytics]] (1), [[Data Cleaning]] (1)
 > **Code Identifiers:** visitor_id (1), page_url (1), referral_source (1), device_type (1), product_category (1)
 > **Env Vars:** csv (4)
 > **CLI Commands:** make (1)
@@ -2483,12 +2458,11 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single table analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980)
+#### [Single table analysis](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=0)** - [Instructor] Alright, so the demos I've shared up to this point have been using some of the earliest versions of ChatGPT, and since then, quite a bit has changed.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=0)** - [Instructor] Alright, so the demos I've shared up to this point have been using some of the earliest versions of [[ChatGPT]], and since then, quite a bit has changed.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=8)** These next few demos are designed to showcase some of ChatGPT's latest and greatest functionality, including the ability to upload files directly, to scrape data from the web, and collaborate on writing or coding tasks using a dedicated canvas view.
 >
@@ -2514,7 +2488,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=74)** Lower Manhattan, Hell's Kitchen, Astoria.
 >
-> **[1:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=78)** We also have information about products, ID, unit price, category, type, and detail.
+> **[1:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=78)** We also have information about [[Microsoft Products|products]], ID, unit price, category, type, and detail.
 >
 > **[1:24](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=84)** So let's see if we can load this up into ChatGPT and conduct some basic exploratory analysis.
 >
@@ -2528,7 +2502,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=114)** So let's do something like, please summarize this data set.
 >
-> **[1:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=118)** Conduct some basic profiling and QA to check for common data quality issues.
+> **[1:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=118)** Conduct some basic profiling and QA to check for common [[Data Quality]] issues.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=126)** And the other thing I love to do here is actually use ChatGPT to produce data dictionaries.
 >
@@ -2596,7 +2570,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=246)** Sorted descending by transactions, which is a nice touch.
 >
-> **[4:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=249)** Let's go ahead and jump into Excel and see if we can validate this output.
+> **[4:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=249)** Let's go ahead and jump into [[Microsoft Excel|Excel]] and see if we can validate this output.
 >
 > **[4:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=254)** So I can do here is just insert a pivot table on a new sheet.
 >
@@ -2694,7 +2668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[ChatGPT]] (14), product (3), [[Microsoft Excel|Excel]] (3), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (1), [[Data Quality]] (1)
 > **Ports:** :00 (10)
 > **Warnings:** keep in mind (2), note that (2), warning (1)
 > **Env Vars:** csv (3), gpt (1)
@@ -2703,30 +2677,29 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Multi-table analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980)
+#### [Multi-table analysis](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=0)** - [Instructor] Okay, so we just saw an example of how ChatGPT can analyze a single simple dataset.
+> **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=0)** - [Instructor] Okay, so we just saw an example of how [[ChatGPT]] can analyze a single simple dataset.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=5)** Now let's crank up the difficulty and try uploading multiple files.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=9)** For this example, we'll use data from Maven Electronics, a fictitious global retailer.
+> **[0:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=9)** For this example, we'll use data from Maven [[Electronics]], a fictitious global retailer.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=14)** And you can see from this data model here that we have a number of tables to work with.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=18)** We've got a sales table, this is our fact table containing transactional records.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=22)** We've got a bunch of dimension tables with details about stores, customers, exchange rates, products, subcategories, categories, and calendar fields.
+> **[0:22](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=22)** We've got a bunch of dimension tables with details about stores, customers, exchange rates, [[Microsoft Products|products]], subcategories, categories, and calendar fields.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=31)** And we also have a dedicated table with some measures that I've defined to calculate things like orders, revenue, and delivery time.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=39)** Now, in this case, I've already done all the hard work.
 >
-> **[0:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=41)** I've used Power Query, Power Pivot, and DAX to load up the data, create this relational model, and define the calculations and measures that I need.
+> **[0:41](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=41)** I've used [[Microsoft Power Query|Power Query]], Power Pivot, and [[DAX]] to load up the data, create this relational model, and define the calculations and measures that I need.
 >
-> **[0:50](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=50)** But instead of trying to feed this model into ChatGPT, let's actually try importing these tables as individual raw CSV files and see if ChatGPT can do the heavy lifting and conduct the same type of analysis that would normally require us to build a model like this using tools like Excel, SQL, or Power BI.
+> **[0:50](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=50)** But instead of trying to feed this model into ChatGPT, let's actually try importing these tables as individual raw CSV files and see if ChatGPT can do the heavy lifting and conduct the same type of analysis that would normally require us to build a model like this using tools like [[Microsoft Excel|Excel]], [[SQL]], or [[Microsoft Power BI|Power BI]].
 >
 > **[1:10](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=70)** All right, so back in ChatGPT, what I'm going to do is attach some files.
 >
@@ -2740,7 +2713,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=93)** And then as always, why don't we start with some high-level summarization and some basic profiling in QA?
 >
-> **[1:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=99)** Now, word of warning, I've run these prompts a few times.
+> **[1:39](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=99)** Now, [[Microsoft Word|word]] of warning, I've run these prompts a few times.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=103)** Sometimes ChatGPT gets it absolutely right on the first attempt.
 >
@@ -2768,7 +2741,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=148)** If you're curious, if you want to see the actual code that's running behind the scenes and the errors that are being thrown, click this icon that says View Analysis.
 >
-> **[2:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=156)** And in this case you can see it's writing all this Python code behind the scenes, and these are the errors that it's actually referencing here.
+> **[2:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=156)** And in this case you can see it's writing all this [[Python (Programming Language)|Python]] code behind the scenes, and these are the errors that it's actually referencing here.
 >
 > **[2:43](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/multi-table-analysis?u=76281980&t=163)** So it looks like it worked through them, and it gave me this dataset summary and QA check table.
 >
@@ -2942,21 +2915,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[ChatGPT]] (10), [[Microsoft Products|Products]] (3), prompt (3), power (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (2), [[Electronics]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** usd (9), csv (3), dax (1), sql (1)
 > **Versions:** 2.9 (1), 2.099 (1), 7.3 (1), 5.2 (1), 4.3 (1)
 > **CLI Commands:** find (2), make (2), python (1)
 > **Warnings:** warning (1), heads up (1), keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Canvas interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980)
+#### [The Canvas interface](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=0)** - [Presenter] All right, for this next demo, let's take a quick look at the new canvas feature, which is great for collaborative writing or editing code.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=7)** And, in this case, we'll pick up where we left off in our last demo where we analyzed multiple CSV files for our fictitious electronics retailer.
+> **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=7)** And, in this case, we'll pick up where we left off in our last demo where we analyzed multiple CSV files for our fictitious [[Electronics]] retailer.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=16)** And, remember, we wrapped up that analysis by visualizing average delivery times by year.
 >
@@ -2966,17 +2938,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=28)** I could either use this Edit in canvas button using this icon here, or I could drill into the Tools, select Canvas, and enter a prompt like, "Please summarize the code you used "for the delivery time analysis."
 >
-> **[0:45](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=45)** And when I submit that prompt, you'll see that ChatGPT is going to start producing code, and then it's automatically going to trigger this canvas interface here.
+> **[0:45](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=45)** And when I submit that prompt, you'll see that [[ChatGPT]] is going to start producing code, and then it's automatically going to trigger this canvas interface here.
 >
 > **[0:56](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=56)** And it's writing out, line by line, the exact code that it used to produce that portion of the analysis.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=63)** This is really nice formatted and commented code.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=67)** In this case, ChatGPT is writing Python code to do this, but there are so many cool things that you can do here inside of the canvas.
+> **[1:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=67)** In this case, ChatGPT is writing [[Python (Programming Language)|Python]] code to do this, but there are so many cool things that you can do here inside of the canvas.
 >
 > **[1:15](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=75)** One of my favorite things is to actually translate languages.
 >
-> **[1:19](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=79)** So, suppose you're not really familiar with Python, you could just say, "Convert this to SQL."
+> **[1:19](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=79)** So, suppose you're not really familiar with Python, you could just say, "Convert this to [[SQL]]."
 >
 > **[1:24](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=84)** And when you do that, watch this.
 >
@@ -3000,7 +2972,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=133)** "Here's exactly what it does, step by step."
 >
-> **[2:15](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=135)** And, of course, if we wanted to know how to reproduce these results in a tool like Excel, we could use this chat interface on the left and say, "How would I do this using Excel," and ChatGPT will give me a step-by-step set of instructions to do that using familiar Excel tools.
+> **[2:15](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=135)** And, of course, if we wanted to know how to reproduce these results in a tool like [[Microsoft Excel|Excel]], we could use this chat interface on the left and say, "How would I do this using Excel," and ChatGPT will give me a step-by-step set of instructions to do that using familiar Excel tools.
 >
 > **[2:33](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=153)** So some pretty amazing, really helpful functionality here.
 >
@@ -3016,20 +2988,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (4), prompt (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (4), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), [[Electronics]] (1)
 > **Env Vars:** sql (4), csv (1), cte (1)
 > **CLI Commands:** python (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### Scraping data from the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980)
+#### [Scraping data from the web](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980&t=0)** - [Instructor] All right, this next demo is a really fun one.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980&t=2)** We're going to see if we can use ChatGPT to scrape the web, produce a table of World Cup results that we can export to Excel, and then help us actually analyze and understand that data.
+> **[0:02](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980&t=2)** We're going to see if we can use [[ChatGPT]] to scrape the web, produce a table of World Cup results that we can export to [[Microsoft Excel|Excel]], and then help us actually analyze and understand that data.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/scraping-data-from-the-web?u=76281980&t=13)** So to do this, we're going to use ChatGPT's Search the web feature.
 >
@@ -3083,7 +3054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (5), web (4), [[Microsoft Excel|Excel]] (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** csv (2), fifa (1), cbs (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
@@ -3096,14 +3067,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)
+#### [Key takeaways and next steps](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=1)** So we just took a look at a ton of different ways analysts can use ChatGPT and Google Bard in their day-to-day work.
+> **[0:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=1)** So we just took a look at a ton of different ways analysts can use [[ChatGPT]] and [[Google]] Bard in their day-to-day work.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=7)** And some of the demos, ChatGPT and Bard performed amazingly well and gave us exactly what we needed.
 >
@@ -3115,7 +3085,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=30)** So we expect there to be more cases where they perform exceptionally well and fewer where they fall flat.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=36)** And so analysts who are able to leverage these tools will be able to stay competitive and excel in the age of AI.
+> **[0:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=36)** And so analysts who are able to leverage these tools will be able to stay competitive and [[Microsoft Excel|excel]] in the age of AI.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=43)** Analysts who shun these tools or stay out of the game will have a harder time keeping up with their colleagues that are AI augmented.
 >
@@ -3125,7 +3095,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=61)** And remember that you are ultimately responsible for verifying the accuracy of the model output.
 >
-> **[1:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=68)** Prompt engineering can dramatically improve response quality.
+> **[1:08](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=68)** [[Prompt Engineering]] can dramatically improve response quality.
 >
 > **[1:12](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=72)** If you want to get good results, you need to provide good input.
 >
@@ -3139,7 +3109,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=96)** In terms of revolutionizing the way analysts work, ChatGPT and Bard are only the beginning.
 >
-> **[1:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=102)** In just the handful of months it's been since ChatGPT was released, we've already heard major announcements from companies like Microsoft and Tableau on integrating AI tools into the software analysts use on a daily basis.
+> **[1:42](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=102)** In just the handful of months it's been since ChatGPT was released, we've already heard major announcements from companies like [[Microsoft]] and [[Tableau]] on integrating AI tools into the software analysts use on a daily basis.
 >
 > **[1:54](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=114)** So these AI tools are going to be increasingly integrated with our analytics work.
 >
@@ -3161,7 +3131,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=173)** So at Maven Analytics, we've always preached this but this has never been more important.
 >
-> **[2:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=178)** As tools like ChatGPT begin to automate more complex technical tasks, focus on developing your uniquely human skills like problem solving, strategic thinking, communication, and business acumen.
+> **[2:58](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=178)** As tools like ChatGPT begin to automate more complex technical tasks, focus on developing your uniquely human skills like problem solving, [[Strategic Thinking]], communication, and [[Business Acumen]].
 >
 > **[3:09](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980&t=189)** If you're able to continue to grow in these areas, then AI is only going to make you better at your job.
 >
@@ -3175,7 +3145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (7), [[Analytics]] (3), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Google]] (1), [[Microsoft Excel|Excel]] (1), [[Prompt Engineering]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as we saw (2)
 > **Analogies:** just like (1), picture (1)

@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital transformation of supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
+#### [Digital transformation of supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=17)** And in order to keep up with technology, we need to transform our supply chains.
 >
-> **[0:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=22)** So we need leaders who combine an understanding of technology with the business acumen to see where it can add value.
+> **[0:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=22)** So we need leaders who combine an understanding of technology with the [[Business Acumen]] to see where it can add value.
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=30)** Hi, my name is Daniel Stanton, but people call me Mr. Supply Chain.
 >
@@ -114,13 +113,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=48)** I've designed this course to give supply chain professionals, technology evangelists, and consultants a strong foundation, so that we can prepare our organizations for Industry 4.0.
 >
-> **[1:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=61)** Are you ready to take on the challenge of digital transformation in your supply chain?
+> **[1:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=61)** Are you ready to take on the challenge of [[Digital Transformation]] in your supply chain?
 >
 > **[1:06](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980&t=66)** Then let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1), [[Digital Transformation]] (1)
 > **Versions:** 4.0 (1)
 > **Speakers:** - what (1)
 
@@ -129,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for Supply Chain 4.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
+#### [Prepare for Supply Chain 4.0](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,13 +144,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=53)** And right now we're witnessing a fourth industrial revolution because there are a lot of powerful new technologies coming together around us that are transforming our society in huge ways.
 >
-> **[1:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=67)** These are technologies like 5G communications, sensors and the internet of things, artificial intelligence, gene sequencing, nanotechnology and more.
+> **[1:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=67)** These are technologies like [[5G]] communications, sensors and the [[IoT|internet of things]], [[Artificial Intelligence (AI)|artificial intelligence]], gene sequencing, nanotechnology and more.
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=80)** They're changing what's possible and they're changing our customers' expectations.
 >
 > **[1:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=86)** We're at the beginning of a new business era called industry 4.0 and our supply chains need to get ready for it.
 >
-> **[1:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=95)** Supply chain management isn't just about the movement of physical products.
+> **[1:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=95)** [[Supply Chain Management]] isn't just about the movement of physical [[Microsoft Products|products]].
 >
 > **[1:40](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=100)** It's about delivering all of the things that our customers value, which often includes services and digital products too.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=124)** The Singapore economic development board has developed a tool called the smart industry readiness index.
 >
-> **[2:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=132)** That explains four steps that companies need to take in order to undergo a digital transformation and prepare for industry 4.0.
+> **[2:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=132)** That explains four steps that companies need to take in order to undergo a [[Digital Transformation]] and prepare for industry 4.0.
 >
 > **[2:21](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980&t=141)** Learn key concepts and build a common language for alignment, evaluate the state of existing facilities and the company's readiness level for industry 4.0, architect a comprehensive transformation strategy and an implementation roadmap, and deliver impact and sustain transformation initiatives.
 >
@@ -176,17 +174,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), [[5G]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[5G]] (1), [[IoT|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Supply Chain Management]] (1)
 > **Versions:** 4.0 (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
-#### Track the information value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980)
+#### [Track the information value chain](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=1)** - One of the ways that I like to explain digital transformation is using a model called the information value chain.
+> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=1)** - One of the ways that I like to explain [[Digital Transformation]] is using a model called the information value chain.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=8)** Let me explain how it works.
 >
@@ -242,14 +239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Digital Transformation]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Analyze supply chain processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980)
+#### [Analyze supply chain processes](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=10)** Let's break down some of the common ways to analyze supply chain processes and find the best opportunities for automation.
 >
-> **[0:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=17)** Many companies use a tool called the Supply Chain Operations Reference Model to organize their supply chain processes into six categories: plan, source, make, deliver, return, and enable.
+> **[0:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=17)** Many companies use a tool called the [[Supply Chain Operations]] Reference Model to organize their supply chain processes into six categories: plan, source, make, deliver, return, and enable.
 >
 > **[0:32](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=32)** Every process is made up of tasks.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=131)** A VSM is similar to a flowchart, but it also includes information about the volume of material flowing through a process and the time required for each step.
 >
-> **[2:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=142)** To learn how to create a VSM with Excel, check out out Curt Frye's course.
+> **[2:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=142)** To learn how to create a VSM with [[Microsoft Excel|Excel]], check out out Curt Frye's course.
 >
 > **[2:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=148)** Now that we've covered process mapping, let's talk about automation.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=161)** Both kinds of tasks can be automated.
 >
-> **[2:44](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=164)** Physical tasks are activities like a assembling, packaging, and transporting products.
+> **[2:44](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=164)** Physical tasks are activities like a assembling, packaging, and transporting [[Microsoft Products|products]].
 >
 > **[2:50](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=170)** Information tasks are things like entering data, extracting data, and making decisions.
 >
@@ -317,29 +313,28 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=203)** These are called cobots.
 >
-> **[3:25](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=205)** We automate information tasks using artificial intelligence.
+> **[3:25](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=205)** We automate information tasks using [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:30](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=210)** A good example of this is software that can be trained to do data entry tasks often just by observing humans doing those tasks.
 >
-> **[3:39](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=219)** This is called robotic process automation, or RPA.
+> **[3:39](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=219)** This is called [[Robotic Process Automation (RPA)|robotic process automation]], or RPA.
 >
 > **[3:45](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=225)** Dr. Deming said that, "If you can't describe "what you're doing as a process, "you don't know what you're doing."
 >
-> **[3:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=231)** Understanding process flows and process mapping is critical to leading digital transformation.
+> **[3:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=231)** Understanding process flows and process mapping is critical to leading [[Digital Transformation]].
 >
 > **[3:57](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/analyze-supply-chain-processes?u=76281980&t=237)** Once we can clearly describe a process, it's much easier to choose the right automation tools to perform the physical and the information tasks that are key to making improvements in our supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), data (3), functional (2), [[Supply Chain Operations]] (1), business (1)
+> **Frameworks & Libraries:** [[Supply Chain Operations]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** vsm (2), uml (1), rpa (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - everything (1)
 
-#### Leverage big data and the Internet of Things into the supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980)
+#### [Leverage big data and the Internet of Things into the supply chain](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=4)** There's data in our manufacturing processes, data about our inventory and our shipments, data about customers and data about suppliers.
 >
-> **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=13)** As we focus on digital transformation of supply chains, we need to look at two closely related trends that are making data even more important: the Internet of Things, and big data.
+> **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=13)** As we focus on [[Digital Transformation]] of supply chains, we need to look at two closely related trends that are making data even more important: the [[IoT|Internet of Things]], and [[Big Data]].
 >
 > **[0:27](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=27)** Most of our supply chain data right now comes from the transactions in a system, like an enterprise resource planning system, a warehouse execution system or a transportation management system.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=44)** But we're also starting to collect a lot of additional data from automated devices, like cameras, thermometers and location trackers.
 >
-> **[0:54](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=54)** We call these Internet of Things or IoT devices.
+> **[0:54](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=54)** We call these Internet of Things or [[IoT]] devices.
 >
 > **[0:59](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=59)** The growth of transaction systems combined with the adoption of IoT devices is fueling a trend called big data.
 >
@@ -369,17 +364,17 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=89)** We also need to protect that data so that it doesn't get lost or damaged and no one gets unauthorized access.
 >
-> **[1:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=97)** That means we need to have backups of the data and redundant hardware and really good physical and cybersecurity.
+> **[1:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=97)** That means we need to have backups of the data and redundant [[Hardware]] and really good physical and [[Cybersecurity]].
 >
 > **[1:45](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=105)** It's also important to understand that there are different kinds of data.
 >
 > **[1:50](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=110)** Some data is neatly organized, like a spreadsheet that has numbers and rows and columns.
 >
-> **[1:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=116)** That's called structured data but then there's unstructured data, which is kind of messy.
+> **[1:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=116)** That's called structured data but then there's [[Unstructured Data]], which is kind of messy.
 >
 > **[2:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=124)** Videos, audio files and social media posts are all examples of unstructured data.
 >
-> **[2:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=132)** And we also need to think about the data that describes the data, the metadata.
+> **[2:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=132)** And we also need to think about the data that describes the data, the [[Metadata]].
 >
 > **[2:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=139)** For example, when we store a digital photo, we often store the date and the location the picture was taken.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=152)** We need to have the right infrastructure in place so that we can use big data to drive improvements in the supply chain.
 >
-> **[2:40](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=160)** For example, analyzing large volumes of structured data from transactions can help us create better production plans and inventory forecasts and looking at market data can help us understand how much we should be paying for the products and services that we purchase and how much we should be charging our customers.
+> **[2:40](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=160)** For example, analyzing large volumes of structured data from transactions can help us create better production plans and inventory forecasts and looking at market data can help us understand how much we should be paying for the [[Microsoft Products|products]] and services that we purchase and how much we should be charging our customers.
 >
 > **[3:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/leverage-big-data-and-the-internet-of-things-into-the-supply-chain?u=76281980&t=181)** Unstructured data can be valuable for supply chains too.
 >
@@ -401,12 +396,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Big Data]] (4), [[Unstructured Data]] (4), [[Digital Transformation]] (3), [[IoT]] (3)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Unstructured Data]] (4), [[Digital Transformation]] (3), [[IoT]] (3), [[IoT|Internet of things]] (2)
 > **Analogies:** for example (3), picture (1)
 > **Speakers:** - our (1)
 
-#### Optimize supply chains with advanced analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980)
+#### [Optimize supply chains with advanced analytics](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=38)** Descriptive analytics involves sorting and filtering data so that we can see patterns and describe what has happened in our supply chain.
 >
-> **[0:47](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=47)** When we perform descriptive analytics, we often use statistics.
+> **[0:47](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=47)** When we perform descriptive analytics, we often use [[Statistics]].
 >
 > **[0:52](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=52)** We could be looking at past sales records, production volumes, or inventory levels.
 >
@@ -440,9 +434,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=80)** Diagnostic analytics is useful for doing root cause analysis and implementing statistical process control.
 >
-> **[1:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=88)** So it's often combined with continuous process improvement approaches, such as Lean and Six Sigma.
+> **[1:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=88)** So it's often combined with continuous process improvement approaches, such as Lean and [[Six Sigma]].
 >
-> **[1:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=95)** Then there's predictive analytics.
+> **[1:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=95)** Then there's [[Predictive Analytics]].
 >
 > **[1:38](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=98)** With predictive analytics, we use the past to predict the future or in more technical terms, we use historical statistics to estimate future probabilities.
 >
@@ -452,9 +446,9 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=120)** An example of predictive analytics would be to project that there's a 20% chance of flooding next year.
 >
-> **[2:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=127)** Many supply chains are now going a step further and using artificial intelligence to implement prescriptive analytics.
+> **[2:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=127)** Many supply chains are now going a step further and using [[Artificial Intelligence (AI)|artificial intelligence]] to implement prescriptive analytics.
 >
-> **[2:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=137)** Prescriptive analytics combine historical data with real-time inputs to recommend actions.
+> **[2:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=137)** Prescriptive analytics combine historical data with [[Real-Time]] inputs to recommend actions.
 >
 > **[2:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=144)** You may hear this called a recommendation engine, because the system is actually giving suggestions to a human about what actions they should take.
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=169)** At the highest level, we have advanced analytics, where computers are able to make decisions autonomously.
 >
-> **[2:57](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=177)** That is the long-term goal for many digital transformation efforts.
+> **[2:57](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=177)** That is the long-term goal for many [[Digital Transformation]] efforts.
 >
 > **[3:03](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/optimize-supply-chains-with-advanced-analytics?u=76281980&t=183)** All five levels of supply chain analytics play a role in digital transformation.
 >
@@ -472,13 +466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (15), data (6), [[Predictive Analytics]] (4), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), [[Statistics]] (2), [[Digital Transformation]] (2), [[Six Sigma]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Apply artificial intelligence and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980)
+#### [Apply artificial intelligence and machine learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980&t=18)** The computer would win the game if the human evaluator couldn't tell whether they were talking to a person or a computer.
 >
-> **[0:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980&t=26)** The Turing test was one of the first attempts to measure artificial intelligence or the ability of computers to perform tasks that normally require human intelligence.
+> **[0:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980&t=26)** The Turing test was one of the first attempts to measure [[Artificial Intelligence (AI)|artificial intelligence]] or the ability of computers to perform tasks that normally require human intelligence.
 >
 > **[0:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/apply-artificial-intelligence-and-machine-learning?u=76281980&t=37)** Today, we interact with intelligent computers all the time.
 >
@@ -536,15 +529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), game (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Definitions:** is a  (1), is called (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - in (1)
 
-#### Cloud computing and edge computing to improve information flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980)
+#### [Cloud computing and edge computing to improve information flow](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,9 +560,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=57)** A server is a more robust computer that we use to store large amounts of data and to do serious processing.
 >
-> **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=65)** And On Prem server is one that's physically located on our premises, meaning it's located inside of an office building, distribution center, or factory.
+> **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=65)** And On Prem server is one that's physically located on our premises, meaning it's located inside of an [[Microsoft Office|office]] building, distribution center, or factory.
 >
-> **[1:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=77)** On Prem servers are part of our local area network or land.
+> **[1:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=77)** On Prem servers are part of our [[Local Area Network (LAN)|local area network]] or land.
 >
 > **[1:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/cloud-computing-and-edge-computing-to-improve-information-flow?u=76281980&t=82)** Cloud servers are located in a remote facility and are accessed over the internet.
 >
@@ -602,13 +594,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (2), [[Microsoft Office|Office]] (1), [[Local Area Network (LAN)|Local area network]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
-#### Exercise: Process mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980)
+#### [Exercise: Process mapping](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980&t=39)** Don't worry about making it perfect.
 >
-> **[0:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980&t=41)** This is just a chance to practice your process-mapping skills and to use a process map to highlight digital transformation opportunities.
+> **[0:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980&t=41)** This is just a chance to practice your process-mapping skills and to use a process map to highlight [[Digital Transformation]] opportunities.
 >
 > **[0:50](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-process-mapping?u=76281980&t=50)** Download the Swim Lane template from the exercise files or do it on a blank sheet of paper.
 >
@@ -636,14 +627,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Digital Transformation]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Exercise Files:** download the (1), template (1), exercise files (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
-#### Solution: Process mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980)
+#### [Solution: Process mapping](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,15 +647,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=33)** And, to go a bit deeper, notice that there are several steps in this process that could be good targets for automation.
 >
-> **[0:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=41)** For example, the decision about whether to approve the request could be performed by artificial intelligence, looking at factors such as the age of the user's current computer, and the technology budget for the department.
+> **[0:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=41)** For example, the decision about whether to approve the request could be performed by [[Artificial Intelligence (AI)|artificial intelligence]], looking at factors such as the age of the user's current computer, and the technology budget for the department.
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=56)** Your process map will certainly be different than this, and I'm sure that you can think of other ways to automate each task.
 >
-> **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=65)** No matter what supply chain process you're looking at, a swim lane like this one can help you identify the tasks where digital transformation will create the most impact.
+> **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-process-mapping?u=76281980&t=65)** No matter what supply chain process you're looking at, a swim lane like this one can help you identify the tasks where [[Digital Transformation]] will create the most impact.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Digital Transformation]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
@@ -675,18 +665,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artificial intelligence (AI) in the supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
+#### [Artificial intelligence (AI) in the supply chain](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=0)** - [Narrator] AI is revolutionizing supply chain management.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=0)** - [Narrator] AI is revolutionizing [[Supply Chain Management]].
 >
-> **[0:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=4)** Generative AI tools like ChatGPT, Copilot, and Gemini are transforming how we plan, optimize, and execute our operations.
+> **[0:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=4)** [[Generative AI Tools]] like [[ChatGPT]], [[Microsoft Copilot|Copilot]], and [[Gemini]] are transforming how we plan, optimize, and execute our operations.
 >
 > **[0:14](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=14)** One of the most important ways to understand AI's impact on supply chains is through the information value chain.
 >
-> **[0:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=20)** The information value chain helps us categorize tasks based on complexity, from simple data processing to advanced decision-making.
+> **[0:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=20)** The information value chain helps us categorize tasks based on complexity, from simple [[Data Processing]] to advanced [[Decision-Making]].
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=30)** AI is automating tasks at the lower levels of the information value chain, turning raw data into useful information.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=50)** That automates what used to be a time-consuming process.
 >
-> **[0:55](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=55)** Generative AI is also streamlining supplier communications.
+> **[0:55](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=55)** [[Generative AI]] is also streamlining supplier communications.
 >
 > **[0:59](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980&t=59)** Instead of manually reviewing contracts, AI can summarize key terms, flag risks, and suggest negotiation points.
 >
@@ -716,12 +705,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (4), [[Supply Chain Management]] (1), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Generative AI Tools]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adopt autonomous vehicles in the supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980)
+#### [Adopt autonomous vehicles in the supply chain](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980&t=13)** But for supply chains, autonomous vehicles and drones are already doing a lot of work behind the scenes.
 >
-> **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980&t=19)** In this video, we'll start with some basics about autonomous vehicles and then we'll examine where AVS fit into our digital transformation.
+> **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980&t=19)** In this video, we'll start with some basics about autonomous vehicles and then we'll examine where AVS fit into our [[Digital Transformation]].
 >
 > **[0:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/adopt-autonomous-vehicles-in-the-supply-chain?u=76281980&t=28)** An autonomous vehicle is a mobile robot that can travel without a human giving it real time instructions.
 >
@@ -771,8 +759,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Simulation, optimization, and digital twins in supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980)
+#### [Simulation, optimization, and digital twins in supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=46)** A digital twin is a file or a program that describes the important attributes of a physical product or process.
 >
-> **[0:54](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=54)** Simulation models show us how a supply chain process will behave given a certain set of conditions, and optimization models show us how we should configure a supply chain in order to achieve a particular result.
+> **[0:54](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=54)** [[Simulation]] models show us how a supply chain process will behave given a certain set of conditions, and optimization models show us how we should configure a supply chain in order to achieve a particular result.
 >
 > **[1:09](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=69)** Let's look at each of those more closely.
 >
@@ -816,13 +803,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=148)** We can use system dynamics to show how any of the different parts of a supply chain interact.
 >
-> **[2:34](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=154)** For example, system dynamics models can show how inventory moves through a supply chain and how changes in supplier demand at one place affect the whole rest of the chain.
+> **[2:34](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=154)** For example, system dynamics models can show how inventory moves through a supply chain and how changes in supplier demand at one place affect the whole [[Representational State Transfer (REST)|rest]] of the chain.
 >
 > **[2:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=166)** Building supply chain models can be a challenge.
 >
 > **[2:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=169)** They use mathematical equations and the complexity of the problem we're solving determines the best tools for us to use.
 >
-> **[2:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=176)** I've built a lot of simple models using spreadsheets like Excel, but sometimes we need specialized modeling software or we might even need to write our own code.
+> **[2:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=176)** I've built a lot of simple models using spreadsheets like [[Microsoft Excel|Excel]], but sometimes we need specialized modeling software or we might even need to write our own code.
 >
 > **[3:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=187)** Interpreting models can be a challenge too.
 >
@@ -830,19 +817,18 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=203)** Modeling can provide clarity about what happened in the past, what's happening today and what's likely to happen in the future.
 >
-> **[3:31](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=211)** So you can expect that digital twins, simulation and optimization models will play a key role in the digital transformation of your supply chain.
+> **[3:31](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/simulation-optimization-and-digital-twins-in-supply-chains?u=76281980&t=211)** So you can expect that digital twins, simulation and optimization models will play a key role in the [[Digital Transformation]] of your supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (7), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1), for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Additive manufacturing for supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980)
+#### [Additive manufacturing for supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=101)** And we can place 3D printers anywhere in the world, which gives us a lot of flexibility in terms of supply chain design.
 >
-> **[1:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=109)** And finally, 3D printing speeds up product development by making it easy to create prototypes that can be evaluated for fit and function.
+> **[1:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=109)** And finally, 3D printing speeds up [[Product Development]] by making it easy to create prototypes that can be evaluated for fit and function.
 >
 > **[1:59](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=119)** Now that we've talked about why 3D printing might be useful, let's look at a few things to keep in mind as we imagine the possibilities for 3D printing in the future.
 >
@@ -896,19 +882,18 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=183)** Additive manufacturing allows us to think differently about what we make, when we make it, and where we make it.
 >
-> **[3:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=191)** As we embrace digital transformation, 3D printing could play a huge role in making our supply chains more efficient, more flexible, and more resilient.
+> **[3:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/additive-manufacturing-for-supply-chains?u=76281980&t=191)** As we embrace [[Digital Transformation]], 3D printing could play a huge role in making our supply chains more efficient, more flexible, and more resilient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (1), power (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (10)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - michelangelo (1)
 
-#### Improve supply chain communication technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980)
+#### [Improve supply chain communication technology](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,13 +909,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=42)** A good example of short range wireless is radio frequency identification tags, which can be placed onto packages and pallets and containers.
 >
-> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=51)** RFID lets us track products moving through a supply chain.
+> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=51)** RFID lets us track [[Microsoft Products|products]] moving through a supply chain.
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=56)** Bluetooth is an example of a short range wireless technology that allows devices to communicate with one another.
 >
 > **[1:03](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=63)** For example, Bluetooth communications can be used to connect an RFID scanner to a nearby computer.
 >
-> **[1:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=71)** The next category is wireless mesh networks.
+> **[1:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=71)** The next category is wireless [[Mesh]] networks.
 >
 > **[1:15](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=75)** These are wifi networks that are spread out over a large distance so that you can connect to the same network as you move around.
 >
@@ -940,7 +925,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=101)** Next is fifth generation cellular technology.
 >
-> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=106)** Compared to the previous cellular technology, 5G allows 10 times more devices to send 100 times more data over the internet.
+> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=106)** Compared to the previous cellular technology, [[5G]] allows 10 times more devices to send 100 times more data over the internet.
 >
 > **[1:57](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=117)** Think about how useful that could be for drones that are doing last mile deliveries.
 >
@@ -956,15 +941,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Mesh]] (3), [[Microsoft Products|Products]] (1), [[5G]] (1), data (1)
+> **Frameworks & Libraries:** [[Mesh]] (3), [[Microsoft Products|Products]] (1), [[5G]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rfid (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - communication (1)
 
-#### Augmented reality in supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980)
+#### [Augmented reality in supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,13 +976,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=86)** What if an associate working on our loading dock could look at a truck and instantly see information about the shipments it was carrying and where it was headed?
 >
-> **[1:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=97)** Or what if a customer could look at one of our products and instantly see a list of all of the available accessories?
+> **[1:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=97)** Or what if a customer could look at one of our [[Microsoft Products|products]] and instantly see a list of all of the available accessories?
 >
-> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=106)** When it comes to virtual reality, I think a lot of the exciting opportunities are related to simulation modeling.
+> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=106)** When it comes to virtual reality, I think a lot of the exciting opportunities are related to [[Simulation]] modeling.
 >
 > **[1:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=113)** For example, we can create a VR version of an assembly line and walk through the entire facility virtually before investing in building out the physical infrastructure.
 >
-> **[2:06](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=126)** Virtual reality could also be used to model entire supply chains and allow us to zoom in and examine the parts that we need to study more closely.
+> **[2:06](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=126)** Virtual reality could also be used to model entire supply chains and allow us to [[Zoom]] in and examine the parts that we need to study more closely.
 >
 > **[2:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/augmented-reality-in-supply-chains?u=76281980&t=137)** Another good use case for virtual reality is in training.
 >
@@ -1010,13 +994,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Simulation]] (1), [[Zoom]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Simulation]] (1), [[Zoom]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - distance (1)
 
-#### Share and secure data with blockchains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980)
+#### [Share and secure data with blockchains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,15 +1007,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=10)** In this video, we'll talk about how blockchains could help us store and share supply chain data in a new way.
 >
-> **[0:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=17)** In practical terms, a blockchain is basically a database that can be shared by lots of different people.
+> **[0:17](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=17)** In practical terms, a [[Blockchain]] is basically a database that can be shared by lots of different people.
 >
 > **[0:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=24)** I think of a blockchain like a shared electronic log book, which, by the way, is why blockchains are sometimes called distributed ledger technology or DLTs.
 >
 > **[0:36](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=36)** Let's think about how that could be useful in a supply chain by examining what happens when a company places an order with their supplier.
 >
-> **[0:45](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=45)** It starts when the buyer generates some information, like a purchase order number and transportation routing instructions.
+> **[0:45](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=45)** It starts when the buyer generates some information, like a purchase order number and transportation [[Routing]] instructions.
 >
-> **[0:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=53)** At the same time, the supplier creates a sales order and tracks information like the lot numbers and the serial numbers of the products along with prices and scheduled shipment dates.
+> **[0:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=53)** At the same time, the supplier creates a sales order and tracks information like the lot numbers and the serial numbers of the [[Microsoft Products|products]] along with prices and scheduled shipment dates.
 >
 > **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=65)** The buyer and the seller are both tracking information about that same order, but they're doing it in completely different systems.
 >
@@ -1052,32 +1035,31 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=127)** Or if they're concerned about keeping the information secret, they can limit who can join the blockchain and what information they can see.
 >
-> **[2:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=136)** Another interesting feature of some blockchains is the ability to create smart contracts.
+> **[2:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=136)** Another interesting feature of some blockchains is the ability to create [[Smart Contracts]].
 >
 > **[2:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=142)** With smart contracts, you can create programs that execute automatically when certain things happen, like automatically paying an invoice when a shipment is received.
 >
 > **[2:33](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=153)** Blockchains can also be used to store digital property, like pictures or music, or they can store a digital twin of a physical object.
 >
-> **[2:43](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=163)** These are called non-fungible tokens or NFTs.
+> **[2:43](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=163)** These are called non-fungible [[Tokens]] or NFTs.
 >
 > **[2:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=169)** There's a growing trend to use NFTs to authenticate products to reduce the risk of counterfeits.
 >
-> **[2:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=176)** Of course, blockchains are also used for tracking cryptocurrencies like Bitcoin and Ethereum.
+> **[2:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=176)** Of course, blockchains are also used for tracking cryptocurrencies like Bitcoin and [[Ethereum]].
 >
 > **[3:03](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=183)** And these are growing in popularity as a way to pay for products and services.
 >
 > **[3:09](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=189)** From synchronizing data to implementing smart contracts, blockchains can help us solve some of the most common problems that we face in supply chains.
 >
-> **[3:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=199)** I think you'll find that the simplicity of storing, sharing, and securing data with blockchains is going to play an important role in enabling your digital transformation.
+> **[3:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/share-and-secure-data-with-blockchains?u=76281980&t=199)** I think you'll find that the simplicity of storing, sharing, and securing data with blockchains is going to play an important role in enabling your [[Digital Transformation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (7), data (4), [[Microsoft Products|Products]] (4), [[Smart Contracts]] (3), database (2)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Microsoft Products|Products]] (4), [[Smart Contracts]] (3), [[Routing]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - many (1)
 
-#### Quantum computing in supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980)
+#### [Quantum computing in supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=37)** That approach works really well for black and white problems but it isn't the most efficient way to solve complex problems when there's a lot of uncertainty or when we're looking at lots of different scenarios.
 >
-> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=51)** And that's what makes quantum computing so interesting.
+> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=51)** And that's what makes [[Quantum Computing]] so interesting.
 >
 > **[0:55](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=55)** With quantum computing, we replace the binary bits from our current computers with a new unit called qubits.
 >
@@ -1113,13 +1095,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=72)** That difference means that quantum computers are ideal for solving complex problems where there are lots of possible scenarios that need to be considered at the same time.
 >
-> **[1:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=84)** Things like network planning, routing and forecasting.
+> **[1:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=84)** Things like network planning, [[Routing]] and [[Forecasting]].
 >
 > **[1:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=88)** Rather than simulating each scenario independently, quantum computers will allow us to simulate all of the possible scenarios at the same time.
 >
 > **[1:40](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=100)** Quantum computers will also be very useful for protecting our technology infrastructure.
 >
-> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=106)** The way that we protect data from hackers is by using mathematical algorithms to encrypt the data.
+> **[1:46](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=106)** The way that we protect data from hackers is by using mathematical [[Algorithms]] to encrypt the data.
 >
 > **[1:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/quantum-computing-in-supply-chains?u=76281980&t=113)** If we want to have a higher level of protection, then we need to use more complex algorithms.
 >
@@ -1133,20 +1115,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (4), data (3), [[Algorithms]] (3), [[Routing]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (4), [[Algorithms]] (3), [[Routing]] (1), [[Forecasting]] (1)
 > **Definitions:** is called (2), means that (1)
 > **Speakers:** - all (1)
 
-#### Increase supply chain cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980)
+#### [Increase supply chain cybersecurity](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=1)** - Back in 2021, hackers took over the computers of a US company and for six days shut down a pipeline for gasoline, diesel and jet fuel.
 >
-> **[0:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=12)** Trucks and planes that deliver products couldn't be refueled, and tens of millions of people couldn't buy gas.
+> **[0:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=12)** Trucks and planes that deliver [[Microsoft Products|products]] couldn't be refueled, and tens of millions of people couldn't buy gas.
 >
-> **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=19)** That was a powerful lesson for all of us about why cybersecurity has to be a central part of our digital transformation.
+> **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=19)** That was a powerful lesson for all of us about why [[Cybersecurity]] has to be a central part of our [[Digital Transformation]].
 >
 > **[0:28](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=28)** So let's look at some of the threats that we need to prepare for and some strategies for dealing with them.
 >
@@ -1178,7 +1159,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=128)** Next are brought-in vulnerabilities, including viruses, malicious software or malware, and software configuration changes.
 >
-> **[2:18](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=138)** For these vulnerabilities, the best protections are software tools, like antivirus software, combined with educating our users about threats like phishing emails and limiting their ability to change settings and access sensitive files.
+> **[2:18](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=138)** For these vulnerabilities, the best protections are software tools, like antivirus software, combined with educating our users about threats like [[Phishing]] emails and limiting their ability to change settings and access sensitive files.
 >
 > **[2:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/increase-supply-chain-cybersecurity?u=76281980&t=155)** Finally, forced-in vulnerabilities are direct attacks by hackers, such as guessing passwords or by stealing a computer or breaking into a network.
 >
@@ -1196,18 +1177,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (3), [[Digital Transformation]] (2), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Digital Transformation]] (2), [[Microsoft Products|Products]] (1), [[Phishing]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - back (1)
 
-#### Combine technologies into supply chain solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980)
+#### [Combine technologies into supply chain solutions](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=1)** - One of the questions supply chain folks ask all the time is - where's my stuff?
 >
-> **[0:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=7)** With the disruptions that we've faced in the past few years, a lot of companies are trying to improve the track and trace processes for their inbound components and for their outbound products.
+> **[0:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=7)** With the disruptions that we've faced in the past few years, a lot of companies are trying to improve the track and trace processes for their inbound components and for their outbound [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=19)** In other words, they want to end-to-end visibility but there just isn't a one size fits all solution to that problem.
 >
@@ -1229,22 +1209,21 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=87)** And a third way to identify relevant technology innovations is by working with analysts, consultants and technology integrators.
 >
-> **[1:36](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=96)** Digital transformation is about integrating the right combination of technologies to solve problems.
+> **[1:36](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=96)** [[Digital Transformation]] is about integrating the right combination of technologies to solve problems.
 >
 > **[1:43](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=103)** It's not enough to study the features of a technology.
 >
-> **[1:47](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=107)** We also need to use business acumen to understand how to create meaningful benefits for our supply chain.
+> **[1:47](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/combine-technologies-into-supply-chain-solutions?u=76281980&t=107)** We also need to use [[Business Acumen]] to understand how to create meaningful benefits for our supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Business Acumen]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Exercise: Technology threats and opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-technology-threats-and-opportunities?u=76281980)
+#### [Exercise: Technology threats and opportunities](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/exercise-technology-threats-and-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,19 +1243,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (1), next (1)
 > **CLI Commands:** make (3)
 > **Versions:** 4.0 (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - we (1)
 
-#### Solution: Technology threats and opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980)
+#### [Solution: Technology threats and opportunities](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=0)** - When we think about digital transformation, it helps to think about how technologies can be threats or business opportunities.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=0)** - When we think about [[Digital Transformation]], it helps to think about how technologies can be threats or business opportunities.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=8)** Let me share an example of how three technologies are likely to pose a threat to our current supply chains and how they could create opportunities for innovative companies.
 >
@@ -1292,13 +1269,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=51)** Next is communications.
 >
-> **[0:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=53)** Companies that adopt technologies from RFID to 5G will have better visibility into their supply chains.
+> **[0:53](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=53)** Companies that adopt technologies from RFID to [[5G]] will have better visibility into their supply chains.
 >
 > **[1:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=61)** That will allow them to respond more quickly to changes and surprises.
 >
 > **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=65)** Companies that do not leverage these technologies will be more vulnerable to disruptions ranging from excess inventories to stockouts and lost sales.
 >
-> **[1:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=76)** The third technology that I'll look at is blockchain.
+> **[1:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=76)** The third technology that I'll look at is [[Blockchain]].
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/solution-technology-threats-and-opportunities?u=76281980&t=80)** While the future of blockchain is still not certain, there's a very real possibility that blockchains could become a standard tool for managing global business transactions and that cryptocurrencies could be used to pay for goods and services.
 >
@@ -1314,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Blockchain]] (4), [[Analytics]] (3), [[Digital Transformation]] (1), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Digital Transformation]] (1), [[5G]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rfid (1)
 > **Versions:** 4.0 (1)
@@ -1325,8 +1302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify new business models for supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
+#### [Identify new business models for supply chains](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=7)** So we need to be ready to adopt new business models throughout the supply chain.
 >
-> **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=13)** Let's look at five business models that are often enabled by a digital transformation.
+> **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=13)** Let's look at five business models that are often enabled by a [[Digital Transformation]].
 >
 > **[0:19](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=19)** The first one is automation where we take it a test that's normally done by people and develop a device or a piece of software that can do it better.
 >
@@ -1354,7 +1330,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=73)** A great example of this was the transition from CDs to streaming music.
 >
-> **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=80)** Digitalization eliminates the cost of manufacturing and distributing physical products and that makes it easier for any company to serve customers around the world.
+> **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=80)** Digitalization eliminates the cost of manufacturing and distributing physical [[Microsoft Products|products]] and that makes it easier for any company to serve customers around the world.
 >
 > **[1:32](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980&t=92)** As we look at the potential for the metaverse, the digital world will need to be supported by companies with digital supply chains.
 >
@@ -1380,18 +1356,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Digital Transformation]] (3), [[Automation]] (3), next (3), product (3)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebay (1)
 > **Analogies:** such as (1)
 > **Speakers:** - digital (1)
 
-#### Build a business case for digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980)
+#### [Build a business case for digital transformation](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=1)** - Digital transformation occurs through a series of projects.
+> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=1)** - [[Digital Transformation]] occurs through a series of projects.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=5)** And in order to lead a digital transformation project successfully, we have to start by clearly understanding three things.
 >
@@ -1423,7 +1398,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=78)** Now let's talk about the costs of a transformation project.
 >
-> **[1:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=82)** There might be one time cost upfront to buy hardware or software, and charges for customization called non-recurring engineering costs.
+> **[1:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=82)** There might be one time cost upfront to buy [[Hardware]] or software, and charges for customization called non-recurring engineering costs.
 >
 > **[1:31](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/build-a-business-case-for-digital-transformation?u=76281980&t=91)** Then there are costs for integration, testing, consultants, and training.
 >
@@ -1461,14 +1436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (7), business (3), management (1), [[Hardware]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (7), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** esg (1)
 > **Speakers:** - digital (1)
 
-#### Assemble a project team for supply chain digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980)
+#### [Assemble a project team for supply chain digital transformation](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1450,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=5)** If you want to go far, go together."
 >
-> **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=8)** That's really great advice, when it comes to digital transformation projects.
+> **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=8)** That's really great advice, when it comes to [[Digital Transformation]] projects.
 >
 > **[0:13](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=13)** In order to be successful, we need to have the right people along for the journey, and, we need to lead them effectively.
 >
@@ -1488,7 +1462,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=43)** We may also need folks who can integrate the technologies with one another, and with our existing systems.
 >
-> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=51)** Next, we need to have team members who understand our supply chain, and who have the business acumen, to align the project goals, with the priorities of the organization.
+> **[0:51](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=51)** Next, we need to have team members who understand our supply chain, and who have the [[Business Acumen]], to align the project goals, with the priorities of the organization.
 >
 > **[1:02](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/assemble-a-project-team-for-supply-chain-digital-transformation?u=76281980&t=62)** Every project is an investment.
 >
@@ -1522,17 +1496,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), teams (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Business Acumen]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - there (1)
 
-#### Position your digital transformation project
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/position-your-digital-transformation-project?u=76281980)
+#### [Position your digital transformation project](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/position-your-digital-transformation-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/position-your-digital-transformation-project?u=76281980&t=1)** - Digital transformation projects can attract a lot of attention.
+> **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/position-your-digital-transformation-project?u=76281980&t=1)** - [[Digital Transformation]] projects can attract a lot of attention.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/position-your-digital-transformation-project?u=76281980&t=5)** Sometimes that helps but sometimes it's a problem.
 >
@@ -1592,19 +1565,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), management (1), career (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - digital (1)
 
-#### Develop leadership skills for digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980)
+#### [Develop leadership skills for digital transformation](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=1)** - You may have heard the saying - leadership is about doing the right things, management is about doing things right.
 >
-> **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=8)** In this video, I'll share the simple but effective project leadership system that I use to make sure teams are working on the right things as they move forward towards digital transformation.
+> **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=8)** In this video, I'll share the simple but effective project leadership system that I use to make sure teams are working on the right things as they move forward towards [[Digital Transformation]].
 >
 > **[0:22](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=22)** Project leaders have six responsibilities and they form the acronym - DIRECT.
 >
@@ -1632,7 +1604,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=110)** And the last responsibility of a project leader is to help people transition from the current state to the future state.
 >
-> **[1:58](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=118)** For our end users and customers, we might need to provide training and technical support.
+> **[1:58](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=118)** For our end users and customers, we might need to provide training and [[Technical Support]].
 >
 > **[2:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/develop-leadership-skills-for-digital-transformation?u=76281980&t=124)** For our project team members, the transition could involve moving on to another project or a new job.
 >
@@ -1646,14 +1618,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), leadership (2), teams (2), management (1), business (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Technical Support]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** direct (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Measure digital transformation impact on sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980)
+#### [Measure digital transformation impact on sustainability](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=16)** One way to analyze the broader impacts of a supply chain is to think in terms of the trip bottom line, people, planet and profit.
 >
-> **[0:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=26)** Looking at the impacts your digital transformation has on people should consider the people who work in your organization and throughout your supply chain.
+> **[0:26](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=26)** Looking at the impacts your [[Digital Transformation]] has on people should consider the people who work in your organization and throughout your supply chain.
 >
 > **[0:35](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=35)** It should also include the communities in which you do business, as well as your customers.
 >
@@ -1671,13 +1642,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=49)** People impacts can include things like social justice, racial and gender equality, child labor, and modern day slavery.
 >
-> **[0:58](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=58)** The impacts that digital transformation has on the planet are related to environmental sustainability.
+> **[0:58](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=58)** The impacts that digital transformation has on the planet are related to [[Environmental Sustainability]].
 >
 > **[1:05](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=65)** From a supply chain perspective, this could include changing the materials that we use in a product.
 >
 > **[1:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=71)** Or changing the energy sources that support our operations.
 >
-> **[1:15](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=75)** It could also include changes to how we package and transport products.
+> **[1:15](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=75)** It could also include changes to how we package and transport [[Microsoft Products|products]].
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=80)** Or what happens to our products after our customers are done using them.
 >
@@ -1699,20 +1670,19 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=157)** When it comes to digital transformation, there's a lot more at stake in supply chains than just improving profitability or reducing our working capital requirements.
 >
-> **[2:48](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=168)** Identifying the impacts on environment, sustainability and governance paints a more complete picture of what we're doing.
+> **[2:48](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=168)** Identifying the impacts on environment, [[Sustainability]] and governance paints a more complete picture of what we're doing.
 >
 > **[2:56](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/measure-digital-transformation-impact-on-sustainability?u=76281980&t=176)** And can help us gain greater support from all of our stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (3), business (1), [[Environmental Sustainability]] (1), product (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (3), [[Environmental Sustainability]] (1), [[Sustainability]] (1)
 > **Env Vars:** esg (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Explore the convergence of technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980)
+#### [Explore the convergence of technologies](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1690,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=8)** This exercise will give you a chance to practice.
 >
-> **[0:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=12)** In order to lead a digital transformation, you need to have a plan that can help you tackle short-term challenges while making progress towards long-term goals.
+> **[0:12](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=12)** In order to lead a [[Digital Transformation]], you need to have a plan that can help you tackle short-term challenges while making progress towards long-term goals.
 >
 > **[0:23](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=23)** I call this plan a Supply Chain Transformation Roadmap, because it describes where we are today, where we're trying to go, and what milestones we'll need to pass in order to get there.
 >
@@ -1728,7 +1698,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=49)** In each square, you can think about how supply chains are changing.
 >
-> **[0:55](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=55)** For example, how will the Internet of Things change the way that we plan our supply chains?
+> **[0:55](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=55)** For example, how will the [[IoT|Internet of Things]] change the way that we plan our supply chains?
 >
 > **[1:02](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/explore-the-convergence-of-technologies?u=76281980&t=62)** How will analytics impact our manufacturing processes?
 >
@@ -1740,7 +1710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[IoT|Internet of things]] (1)
 > **Exercise Files:** download the (1), template (1), exercise files (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1752,18 +1722,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=1)** - This is an amazing time for supply chains.
 >
-> **[0:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=4)** Technology is changing the rules of the game for business, and helping us find entirely new ways to create and deliver products and services that our customers value.
+> **[0:04](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=4)** Technology is changing the rules of the game for business, and helping us find entirely new ways to create and deliver [[Microsoft Products|products]] and services that our customers value.
 >
 > **[0:16](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=16)** So every organization needs to have a digital strategy to stay aligned with the changing world around us.
 >
-> **[0:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=24)** Digital transformation can help us innovate, and take advantage of new opportunities at the same time that it protects us from being disrupted and becoming obsolete.
+> **[0:24](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=24)** [[Digital Transformation]] can help us innovate, and take advantage of new opportunities at the same time that it protects us from being disrupted and becoming obsolete.
 >
 > **[0:36](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980&t=36)** Professor Clayton Christensen said, "The strategies and plans that managers formulate for confronting disruptive technology change should be plans for learning and discovery rather than plans for execution."
 >
@@ -1791,7 +1760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2), game (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)

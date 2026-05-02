@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Human skills and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980)
+#### [Human skills and AI](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -74,13 +73,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980&t=11)** Because it turns out that our most valuable and resilient skills are those that are distinctly human: compassion, creativity, communication, courage, and curiosity.
 >
-> **[0:24](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980&t=24)** My name is Aneesh Raman, chief economic opportunity officer at LinkedIn.
+> **[0:24](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980&t=24)** My name is Aneesh Raman, chief economic opportunity officer at [[LinkedIn]].
 >
 > **[0:29](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980&t=29)** And today, we'll discuss the coming revolution in skills and how investing in your human skills is a competitive advantage that will help you tap into the new world of work that is emerging all around us as we speak.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -90,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What will make human skills valuable in the age of AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980)
+#### [What will make human skills valuable in the age of AI?](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=6)** Maybe you talked about them as people skills or durable skills or power skills.
 >
-> **[0:11](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=11)** For most of us, we talked about them as soft skills, and there's an issue with that.
+> **[0:11](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=11)** For most of us, we talked about them as [[Soft Skills]], and there's an issue with that.
 >
 > **[0:17](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=17)** For most of the history of work, we've been defined by our physical abilities, and then more recently by our intellectual acumen, and especially in our lifetimes, we've looked to people's skills, to human skills as soft skills as undervalued compared to those hard technical skills that have led to the biggest career success for people that went into computer science or accounting or finance.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=172)** As humans, we aren't just in possession of consciousness, we aren't just aware of who we are and that we are alive, we possess conscience.
 >
-> **[3:01](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=181)** Think about the great movements of human history, including the recent one around sustainability.
+> **[3:01](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=181)** Think about the great movements of human history, including the recent one around [[Sustainability]].
 >
 > **[3:06](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980&t=186)** Those are movements based on a moral, ethical framework for how we should leave the world better off than we found it.
 >
@@ -161,15 +159,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Soft Skills]] (2), power (1), career (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Sustainability]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - human (1)
 
-#### Understanding terms used in the AI discussion
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/understanding-terms-used-in-the-ai-discussion?u=76281980)
+#### [Understanding terms used in the AI discussion](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/understanding-terms-used-in-the-ai-discussion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,8 +204,7 @@ created: 2026-05-02
 >
 > **Speakers:** - before (1)
 
-#### What’s the “relationship economy”?
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980)
+#### [What’s the “relationship economy”?](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=77)** 'Cause the next phase that happens after jobs start to change is new categories of jobs emerge.
 >
-> **[1:24](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=84)** We do a list every year at LinkedIn called Jobs on the Rise.
+> **[1:24](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=84)** We do a list every year at [[LinkedIn]] called Jobs on the Rise.
 >
 > **[1:27](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=87)** 70% of this year's list did not exist 20 years ago.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=131)** But all of that was largely, for most workers, about our physical ability, to work on the field, to fasten on the assembly line.
 >
-> **[2:19](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=139)** For the past few generations, even few decades, we've been in what's called a knowledge economy fueled by big data, the computer, the internet, and that's brought intellectual labor more to the center of work.
+> **[2:19](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=139)** For the past few generations, even few decades, we've been in what's called a knowledge economy fueled by [[Big Data]], the computer, the internet, and that's brought intellectual labor more to the center of work.
 >
 > **[2:31](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-relationship-economy?u=76281980&t=151)** All the emails we send, all the meetings we attend and summarize, all the coding that happens at every organization.
 >
@@ -274,11 +270,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (3), [[LinkedIn]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Big Data]] (1)
 > **Speakers:** - we (1)
 
-#### Career changes brought about by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980)
+#### [Career changes brought about by AI](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,9 +293,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=48)** This time, as AI is starting to change work, we are able to understand it and to adjust around it in real time.
 >
-> **[0:56](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=56)** Platforms like LinkedIn make it possible for anyone, anywhere to come and learn about AI, about what's changing, about what skills they need to take on, about how jobs are going to change in the coming months and years, and start to think about how they want to adjust as a result.
+> **[0:56](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=56)** Platforms like [[LinkedIn]] make it possible for anyone, anywhere to come and learn about AI, about what's changing, about what skills they need to take on, about how jobs are going to change in the coming months and years, and start to think about how they want to adjust as a result.
 >
-> **[1:12](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=72)** So the first thing to do is just be grateful that you are alive at a time when the disruption is hitting alongside a labor market that is more agile than it's ever been before.
+> **[1:12](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=72)** So the first thing to do is just be grateful that you are alive at a time when the disruption is hitting alongside a labor market that is more [[Agile Development|agile]] than it's ever been before.
 >
 > **[1:23](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/career-changes-brought-about-by-ai?u=76281980&t=83)** The second thing is, don't ignore the inevitable.
 >
@@ -354,13 +349,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[LinkedIn]] (2), [[Agile Development|Agile]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** required to (1)
 > **Speakers:** - so (1)
 
-#### Industries and human skills evolving due to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980)
+#### [Industries and human skills evolving due to AI](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980&t=62)** And so those are the industries I'm looking to, to see how we can think more creatively about human potential, human capability, human skills, how to grow and nurture talent from within.
 >
-> **[1:13](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980&t=73)** How to think about internal mobility at organizations, how to think about organizational design and organizational psychology that is anchored in a pro-human way around the capabilities that we as humans uniquely bring to work.
+> **[1:13](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980&t=73)** How to think about [[Internal Mobility]] at organizations, how to think about organizational design and organizational psychology that is anchored in a pro-human way around the capabilities that we as humans uniquely bring to work.
 >
 > **[1:27](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/industries-and-human-skills-evolving-due-to-ai?u=76281980&t=87)** Those are the industries that we should look to, but all industries are going to have to start asking, what is possible for humans in the age of AI?
 >
@@ -394,12 +388,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), leadership (1), [[Internal Mobility]] (1), business (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - ai (1)
 
-#### The most helpful human skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/the-most-helpful-human-skills?u=76281980)
+#### [The most helpful human skills](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/the-most-helpful-human-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,8 +428,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - we (1)
 
-#### What are ways in which AI might strengthen human capabilities?
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-are-ways-in-which-ai-might-strengthen-human-capabilities?u=76281980)
+#### [What are ways in which AI might strengthen human capabilities?](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-are-ways-in-which-ai-might-strengthen-human-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,12 +506,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), career (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
 
-#### What’s the ideal collaboration between human skills and AI tools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-ideal-collaboration-between-human-skills-and-ai-tools?u=76281980)
+#### [What’s the ideal collaboration between human skills and AI tools?](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-s-the-ideal-collaboration-between-human-skills-and-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,12 +551,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - ai (1)
 
-#### How do we develop, validate, and demonstrate our human skills?
-> [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/how-do-we-develop-validate-and-demonstrate-our-human-skills?u=76281980)
+#### [How do we develop, validate, and demonstrate our human skills?](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/how-do-we-develop-validate-and-demonstrate-our-human-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +588,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - for (1)

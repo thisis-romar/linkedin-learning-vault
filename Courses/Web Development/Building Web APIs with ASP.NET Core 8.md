@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web APIs with ASP.NET Core 8
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
+#### [Web APIs with ASP.NET Core 8](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=14)** This is where a web API comes in, providing a uniform contract to talk to a service.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=21)** In my LinkedIn Learning Course, I will show you how to use [ASP.NET](https://ASP.NET) Core to build a powerful rest API that any client may use.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=21)** In my [[LinkedIn]] Learning Course, I will show you how to use [[[ASP.NET]]](https://ASP.NET) Core to build a powerful [[Representational State Transfer (REST)|rest]] API that any client may use.
 >
 > **[0:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=31)** You'll see what [ASP.NET](https://ASP.NET) Core offers and how it makes creating APIs a positive and productive experience.
 >
@@ -112,19 +111,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), api (2), [[ASP.NET Core]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), asp (2), net (2), http (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Speakers:** - [christian] (1)
 
-#### Why an API?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980)
+#### [Why an API?](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=0)** - [Christian] In this course, we will be creating APIs with .NET.
 >
-> **[0:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=5)** Well, with [ASP.NET](https://ASP.NET) Core to be specific.
+> **[0:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=5)** Well, with [[[ASP.NET]]](https://ASP.NET) Core to be specific.
 >
 > **[0:09](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=9)** Remember what was previously called .NET Core is now called .NET, but the web portion is still [ASP.NET](https://ASP.NET) Core.
 >
@@ -148,14 +146,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (3), web (3), api (3), data (2), [[ASP.NET]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (3), [[ASP.NET]] (1)
 > **Env Vars:** net (10), asp (4), api (3)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [christian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=123)** But still, if you know the details about HTTP, that's certainly helpful.
 >
-> **[2:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=130)** Also, if you have previously worked with the web stack of .NET, which is commonly called [ASP.NET](https://ASP.NET) core and includes, among other things, the web API stack that we will be using, but also web technologies or web frameworks like [ASP.NET](https://ASP.NET) Core MVC or [ASP.NET](https://ASP.NET) Core Razor Pages, you will recognize some or many of the things that we are about to show and discuss.
+> **[2:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=130)** Also, if you have previously worked with the web stack of .NET, which is commonly called [[[ASP.NET]]](https://ASP.NET) core and includes, among other things, the web API stack that we will be using, but also web technologies or web frameworks like [ASP.NET](https://ASP.NET) Core MVC or [ASP.NET](https://ASP.NET) Core Razor Pages, you will recognize some or many of the things that we are about to show and discuss.
 >
 > **[2:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=158)** On the other hand, if you don't, don't worry.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[ASP.NET Core]] (4), api (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4)
 > **Env Vars:** net (14), asp (4), api (2), http (2), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Definitions:** basically means (1)
@@ -214,16 +211,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
+#### [Prerequisites and setup](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=0)** - [Instructor] Let's get started and dive right into creating APIs with [ASP.NET](https://ASP.NET) Core.
+> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=0)** - [Instructor] Let's get started and dive right into creating APIs with [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=8)** Before we do that, we first have to pick the software we will be using to implement those APIs.
 >
-> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=20)** The first choice, and also at least usually my primary choice is Visual Studio by Microsoft.
+> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=20)** The first choice, and also at least usually my primary choice is Visual Studio by [[Microsoft]].
 >
 > **[0:30](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=30)** If you go to [visualstudio.com](https://visualstudio.com), that's the site here, and essentially a redirect to visualstudio.[microsoft.com](https://microsoft.com), you see further down below on their page the Visual Studio family.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=62)** On the left side we have the Visual Studio, the fully featured IDE, and you see the tiny logo here.
 >
-> **[1:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=72)** That's available on Windows only, which is not necessarily a problem, but we'll talk about other operating systems in a bit.
+> **[1:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=72)** That's available on [[Windows]] only, which is not necessarily a problem, but we'll talk about other operating systems in a bit.
 >
 > **[1:22](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=82)** Now, when you're interested in using Visual Studio, you can download it right here.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=196)** Once again, we can have a look at those logos here and we see the Windows logo, the Mac OS logo, and yes, that's a penguin.
 >
-> **[3:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=204)** So Linux is supported as well.
+> **[3:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=204)** So [[Linux]] is supported as well.
 >
 > **[3:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=206)** Visual Studio Code has, and I have to be blunt here, nothing to do with Visual Studio.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=226)** So Visual Studio Code is a text-based IDE, or as they call it here, a source code editor, but one that runs on a variety of operating systems, not only Windows, but also Mac OS and various Linux distributions.
 >
-> **[4:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=243)** Actually, Visual Studio Code is very popular with JavaScript developers and that might come as a surprise.
+> **[4:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=243)** Actually, Visual Studio Code is very popular with [[JavaScript]] developers and that might come as a surprise.
 >
 > **[4:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=251)** It is used to work on projects or on code that doesn't use any Microsoft or .NET technologies at all.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft]] (3), [[Linux]] (2), web (2), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft]] (3), [[Linux]] (2), [[ASP.NET Core]] (1), [[JavaScript]] (1)
 > **Tools:** visual studio (29), postman (3)
 > **Env Vars:** net (4), ide (4), net8 (2), htp (2), asp (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (2), [asp.net](https://asp.net) (1), [microsoft.com](https://microsoft.com) (1)
@@ -344,8 +340,7 @@ created: 2026-05-02
 > **Versions:** 17.8 (1), 17.9 (1)
 > **Exercise Files:** source code (1), exercise files (1)
 
-#### "Hello World," API style
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980)
+#### ["Hello World," API style](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=67)** So you can also filter by language.
 >
-> **[1:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=70)** And in the end, you will have a template called [ASP.NET](https://ASP.NET) Core Web API.
+> **[1:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=70)** And in the end, you will have a template called [[[ASP.NET]]](https://ASP.NET) Core Web API.
 >
 > **[1:15](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=75)** And that sets up an API for us.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=345)** I hit Execute, and then I get the response.
 >
-> **[5:50](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=350)** So that API gives us JSON bag, and that's basically an array with five entries with some random temperatures or random weather forecast.
+> **[5:50](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=350)** So that API gives us [[JSON]] bag, and that's basically an array with five entries with some random temperatures or random weather forecast.
 >
 > **[6:01](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=361)** Basically that's the example that's part of the Visual Studio template.
 >
@@ -485,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), web (6), application (4), [[ASP.NET Core]] (2), hit (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[JSON]] (1)
 > **Env Vars:** api (13), net (7), asp (2), sdk (1), https (1)
 > **Tools:** visual studio (6), postman (1)
 > **Exercise Files:** template (4)
@@ -494,8 +489,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **CLI Commands:** docker (1)
 
-#### "Hello World" with Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980)
+#### ["Hello World" with Visual Studio Code](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +549,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=184)** I have to say, okay, what kind of application is this?
 >
-> **[3:06](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=186)** Is this a Java application?
+> **[3:06](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=186)** Is this a [[Java]] application?
 >
 > **[3:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=188)** Do I want to do Java debugging or .NET MAUI?
 >
@@ -571,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=219)** The project is built, we have a terminal here that basically shows us what's happening, shows us the dotnet build call.
 >
-> **[3:47](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=227)** So that dotnet CLI that we have just been using has also been used in order to compile the project.
+> **[3:47](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=227)** So that dotnet [[CLI]] that we have just been using has also been used in order to compile the project.
 >
 > **[3:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-with-visual-studio-code?u=76281980&t=236)** And then after all has been said and done, once again the web browser will open.
 >
@@ -585,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), api (8), [[Debugging]] (4), application (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[CLI]] (2)
 > **Env Vars:** api (8), https (4), asp (2), cli (2), net (1)
 > **Tools:** visual studio (10), terminal (2), command line (1)
 > **CLI Commands:** dotnet (6)
@@ -594,8 +588,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Cross-References:** as you saw (1)
 
-#### Minimal APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980)
+#### [Minimal APIs](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,11 +596,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=5)** And it was disabled, and I enabled it.
 >
-> **[0:09](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=9)** And when using the .Net CLI to create a web API, that feature was also disabled, and I had to enable it when setting up the project.
+> **[0:09](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=9)** And when using the .Net [[CLI]] to create a web API, that feature was also disabled, and I had to enable it when setting up the project.
 >
 > **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=20)** Now, what happens if there is no checkbox, if I do not want to use controllers?
 >
-> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=29)** Controllers are the web API development approach that has been in place since the very beginning.
+> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=29)** Controllers are the web [[API Development]] approach that has been in place since the very beginning.
 >
 > **[0:37](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/minimal-apis?u=76281980&t=37)** We will be using something called controllers, and in those controllers, we have the implementation of the API.
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), feature (3), web (2), [[CLI]] (1), business (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[API Development]] (1)
 > **Env Vars:** api (5), cli (1)
 > **UI Navigation:** checkbox (3)
 > **Exercise Files:** boilerplate (1), template (1)
@@ -655,8 +648,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTTP in a nutshell
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980)
+#### [HTTP in a nutshell](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,7 +684,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=136)** The abstract section is actually pretty descriptive because it basically says HGP is a stateless protocol, a protocol for distributed collaborative hypermedia information systems.
 >
-> **[2:35](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=155)** So basically a protocol for, well, HTML based content, I would say.
+> **[2:35](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=155)** So basically a protocol for, well, [[HTML]] based content, I would say.
 >
 > **[2:41](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=161)** And it is stateless, which is actually the reason why later cookies have been invented.
 >
@@ -726,23 +718,23 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=315)** Typical API example, we have an API and the API sends data that doesn't define any format, right?
 >
-> **[5:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=323)** So when calling the API, we could say I'd like to have the data in JSON format, and then the server can send JSON, and next time we could say, ah, this time I would like to have the data in XML format, and the server then can send XML.
+> **[5:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=323)** So when calling the API, we could say I'd like to have the data in [[JSON]] format, and then the server can send JSON, and next time we could say, ah, this time I would like to have the data in XML format, and the server then can send XML.
 >
 > **[5:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=338)** So that's possible.
 >
 > **[5:40](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=340)** It's baked into HTTP.
 >
-> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=342)** It's also possible with [ASP.Net](https://ASP.Net) core web API, but I'm sorry, we will only work with JSON in this course because that's the defacto standard for APIs these days.
+> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=342)** It's also possible with [[[ASP.NET]]](https://ASP.Net) core web API, but I'm sorry, we will only work with JSON in this course because that's the defacto standard for APIs these days.
 >
 > **[5:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=356)** All you have to remember is that HTP is very well suited for usage within APIs.
 >
 > **[6:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=364)** Clients readily supported and most use cases for APIs can be done very easily with what HTTP has to offer.
 >
-> **[6:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=373)** We'll use some of the aspects of that specification and we will also use a concept called rest, which is actually hidden in that document here, and we'll talk about that next.
+> **[6:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=373)** We'll use some of the aspects of that specification and we will also use a concept called [[Representational State Transfer (REST)|rest]], which is actually hidden in that document here, and we'll talk about that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (5), web (3), [[JSON]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[HTML]] (2), [[ASP.NET Core]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (15), api (7), htp (5), json (3), hgp (2)
 > **Versions:** 1.1 (5), 1.0 (1)
 > **Documentation:** specification (5)
@@ -751,8 +743,7 @@ created: 2026-05-02
 > **CLI Commands:** dotnet (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 
-#### REST basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980)
+#### [REST basics](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=11)** Well, that Roy Fielding got his PhD from UCI in the year 2000 and his dissertation was called, "Architectural Styles and the Design of Network-based Software Architectures."
 >
-> **[0:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=26)** Chapter five of his thesis was called, "Representational State Transfer, or REST."
+> **[0:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=26)** Chapter five of his thesis was called, "[[Representational State Transfer (REST)|Representational State Transfer]], or [[Representational State Transfer (REST)|REST]]."
 >
 > **[0:32](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=32)** And you see the chapter introduction right here.
 >
@@ -846,7 +837,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=326)** It's one of the chapters in the HTTP specifications.
 >
-> **[5:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=331)** And also a layered system architecture, something that REST needs to support, but I think that's obvious.
+> **[5:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=331)** And also a layered [[System Architecture]], something that REST needs to support, but I think that's obvious.
 >
 > **[5:39](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=339)** We have several layers in a typical web application anyway, so I would say that's a no-brainer.
 >
@@ -858,7 +849,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=363)** Don't we have that concept already?
 >
-> **[6:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=365)** Yeah, JavaScript is something that actually does that.
+> **[6:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=365)** Yeah, [[JavaScript]] is something that actually does that.
 >
 > **[6:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/rest-basics?u=76281980&t=370)** Again, remember where Fielding is coming from.
 >
@@ -870,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (7), next (2), application (2), data (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[System Architecture]] (1), [[JavaScript]] (1)
 > **Env Vars:** http (11), rest (8), api (7), uri (2), uci (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
@@ -879,8 +870,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### API design basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980)
+#### [API design basics](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=11)** I do have my preferences when creating an API, but you may have developed your own.
 >
-> **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=18)** This course is on creating web APIs with .NET and [ASP.NET](https://ASP.NET) Core, so I do not want to force you to a specific style.
+> **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=18)** This course is on creating web APIs with .NET and [[[ASP.NET]]](https://ASP.NET) Core, so I do not want to force you to a specific style.
 >
 > **[0:27](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=27)** I would like you to learn how web APIs work with the .NET stack.
 >
@@ -918,7 +908,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=86)** So you pick something you like, and then you can put it into a shopping cart, and then later might want to order it.
 >
-> **[1:36](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=96)** And, in the API we will be developing, we are working with that list of products.
+> **[1:36](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=96)** And, in the API we will be developing, we are working with that list of [[Microsoft Products|products]].
 >
 > **[1:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=103)** So we won't have a shopping cart, and we also won't have all of these different sizes.
 >
@@ -928,7 +918,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=125)** When we set up the URIs that represent the resources in our shop, one common aspect that many agree upon is that we should use nouns, not verbs.
 >
-> **[2:19](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=139)** Verbs indicate an action, but actions in REST are usually denoted by the appropriate HTTP method, so we are using nouns.
+> **[2:19](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=139)** Verbs indicate an action, but actions in [[Representational State Transfer (REST)|REST]] are usually denoted by the appropriate HTTP method, so we are using nouns.
 >
 > **[2:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=149)** So how about this URL, or URI, to denote a list of all of the products that are available in the shop.
 >
@@ -992,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), product (9), api (8), web (3), [[ASP.NET Core]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[ASP.NET Core]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (6), http (6), net (4), uri (3), asp (2)
 > **API Endpoints:** post  (2), put  (2), get  (1), delete  (1)
 > **URLs:** [hplussport.com](https://hplussport.com) (3), [asp.net](https://asp.net) (2)
@@ -1001,8 +991,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for API testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980)
+#### [Tools for API testing](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=46)** So I can pick the HTTP method, I'm sticking with Get, and then I hit send and then I get the data back.
 >
-> **[0:55](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=55)** It's automatically detected as JSON, I see color coding.
+> **[0:55](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=55)** It's automatically detected as [[JSON]], I see color coding.
 >
 > **[1:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=60)** I can have a look at the HEP headers that have been sent.
 >
@@ -1052,9 +1041,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=158)** I can right click on that request.
 >
-> **[2:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=162)** And then for instance, I can copy the request as a fetch call.
+> **[2:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=162)** And then for instance, I can copy the request as a [[Fetch]] call.
 >
-> **[2:47](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=167)** So there's a JavaScript API, but I can also override headers for instance.
+> **[2:47](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=167)** So there's a [[JavaScript]] API, but I can also override headers for instance.
 >
 > **[2:53](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/tools-for-api-testing?u=76281980&t=173)** I can run the request again, I can save the request and then run it later.
 >
@@ -1090,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), hit (3), [[JSON]] (3), web (3), data (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[Fetch]] (1)
 > **Env Vars:** api (5), json (3), f12 (3), http (2), url (1)
 > **Tools:** postman (3), visual studio (1)
 > **Analogies:** for instance (3)
@@ -1104,16 +1093,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controllers and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
+#### [Controllers and actions](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=0)** - [Instructor] In this chapter, we will start implementing the API for HPlusSport with the probably easiest use case there is, retrieving data.
 >
-> **[0:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=12)** Remember what we've done so far, we've created a project using the [ASP.NET](https://ASP.NET) core Web API template.
+> **[0:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=12)** Remember what we've done so far, we've created a project using the [[[ASP.NET]]](https://ASP.NET) core Web API template.
 >
-> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=20)** And in that wizard, or alternatively when using the .NET CLI with the parameters the CLI provides us with, we made sure that we use controllers.
+> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=20)** And in that wizard, or alternatively when using the .NET [[CLI]] with the parameters the CLI provides us with, we made sure that we use controllers.
 >
 > **[0:34](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=34)** So I'd like to use controllers at first, and then later, we'll migrate over to minimal APIs.
 >
@@ -1217,7 +1205,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=364)** And then I have to pick a name.
 >
-> **[6:06](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=366)** Now we would like to provide an API for the products that HPlusSport provides.
+> **[6:06](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=366)** Now we would like to provide an API for the [[Microsoft Products|products]] that HPlusSport provides.
 >
 > **[6:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=373)** So the API will then be called something like this, API.[HPlusSport.com/products](https://HPlusSport.com/products).
 >
@@ -1255,7 +1243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), [[ASP.NET Core]] (3), web (3), [[CLI]] (3), application (3)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (3), [[CLI]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** api (16), net (6), http (4), asp (3), cli (3)
 > **URLs:** [asp.net](https://asp.net) (3), [hplussport.com](https://hplussport.com) (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -1264,12 +1252,11 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Cross-References:** in the next (2)
 
-#### Routing basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980)
+#### [Routing basics](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=0)** - [Instructor] One missing ingredient is routing, or routing depending on where you live.
+> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=0)** - [Instructor] One missing ingredient is [[Routing]], or routing depending on where you live.
 >
 > **[0:06](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=6)** That means which URL maps to which endpoint, to which method, or, as it's called, to which action method, and of course to which controller.
 >
@@ -1277,7 +1264,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=26)** Here is a simple example.
 >
-> **[0:28](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=28)** We have the route attribute, and we use it like this, Route, and then the ("/products"), and that's basically the URL to call a specific method.
+> **[0:28](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=28)** We have the route attribute, and we use it like this, Route, and then the ("/[[Microsoft Products|products]]"), and that's basically the URL to call a specific method.
 >
 > **[0:46](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=46)** So if you use [Route("/products")] or [Route("/products")], and then we have a path or URL fragment, that URL fragment will be routed to the method that follows.
 >
@@ -1343,7 +1330,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=338)** So what type of data do we get, text/plain.
 >
-> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=342)** So that is not JSON, that's just plain text because if our method returns a string, then it's considered just plain text.
+> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=342)** So that is not [[JSON]], that's just plain text because if our method returns a string, then it's considered just plain text.
 >
 > **[5:52](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/routing-basics?u=76281980&t=352)** If we return something else, structure, an object, something like that, it'll be turned into JSON.
 >
@@ -1353,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), api (8), [[Routing]] (3), application (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (15), [[Routing]] (3), [[JSON]] (2)
 > **Env Vars:** url (9), http (3), api (3), json (2)
 > **Definitions:** is a  (3), means that (1)
 > **API Endpoints:** get  (1), /api/products (1)
@@ -1361,8 +1348,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980)
+#### [Creating a data model](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1370,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=8)** So let's check the HPlusSport shop here.
 >
-> **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=11)** And in the shop, we have several categories, and those categories can have an arbitrary number of products.
+> **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=11)** And in the shop, we have several categories, and those categories can have an arbitrary number of [[Microsoft Products|products]].
 >
 > **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=18)** So let's just jump into one of those categories and let's pick a product.
 >
@@ -1382,7 +1368,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=40)** So the actual data model is a bit more complex than what we are doing.
 >
-> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=43)** But with those information so far, we can implement quite a bit with a [ASP.NET](https://ASP.NET) Core web API.
+> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=43)** But with those information so far, we can implement quite a bit with a [[[ASP.NET]]](https://ASP.NET) Core web API.
 >
 > **[0:52](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=52)** Note that the cross-back training tank here somehow doesn't show a price.
 >
@@ -1410,7 +1396,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=114)** So first of all, I will later be using Entity Framework Core for making sure that the data is persistent.
 >
-> **[2:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=123)** So we are using Entity Framework Core to talk to a data store without the need to write any custom SQL.
+> **[2:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=123)** So we are using Entity Framework Core to talk to a data store without the need to write any custom [[SQL]].
 >
 > **[2:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=132)** This, however, requires that each model class has an identifier.
 >
@@ -1472,7 +1458,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=296)** In the Product, I can point back to the Category.
 >
-> **[4:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=299)** In the Category, I can point back to the products, and therefore I might get an infinite loop and this is later serialized into JSON.
+> **[4:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=299)** In the Category, I can point back to the products, and therefore I might get an infinite loop and this is later serialized into [[JSON]].
 >
 > **[5:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=308)** And therefore, when this Product is converted into JSON, eventually, for usage in the API, I can use all of the data here.
 >
@@ -1486,7 +1472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (8), data (7), api (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[JSON]] (3), [[ASP.NET Core]] (1), [[SQL]] (1)
 > **Env Vars:** api (4), json (3), asp (1), net (1), sql (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (2)
@@ -1495,18 +1481,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using entity framework core
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980)
+#### [Using entity framework core](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=0)** - [Instructor] After creating the model classes, the next step will be to add Entity Framework Core to the project, we are using Microsoft's object relational mapper, or OR mapper, to talk to the database, which will provide us with an API to work with a data store, and we don't have to write any SQL ourselves.
+> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=0)** - [Instructor] After creating the model classes, the next step will be to add Entity Framework Core to the project, we are using [[Microsoft]]'s object relational mapper, or OR mapper, to talk to the database, which will provide us with an API to work with a data store, and we don't have to write any [[SQL]] ourselves.
 >
 > **[0:22](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=22)** Entity Framework Core does all of the magic.
 >
 > **[0:26](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=26)** And then, we just need to make sure that Entity Framework Core knows about our model classes, and then the OR mapper does everything automatically for us.
 >
-> **[0:37](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=37)** Please note that Entity Framework Core is beyond the scope of this course, so I'll tell you exactly what you need to know, but for any other questions that go more in depth, and for all of the background information, I can only refer you to the excellent Entity Framework Core content in the LinkedIn Learning Library.
+> **[0:37](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=37)** Please note that Entity Framework Core is beyond the scope of this course, so I'll tell you exactly what you need to know, but for any other questions that go more in depth, and for all of the background information, I can only refer you to the excellent Entity Framework Core content in the [[LinkedIn]] Learning Library.
 >
 > **[0:58](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=58)** But now, over to Visual Studio, where we could just go to Manage NuGet Packages, and then browse all available packages, and then install Entity Framework Core and anything else we need, see, it's even the first match here.
 >
@@ -1544,7 +1529,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=205)** So not much work I'm doing here.
 >
-> **[3:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=209)** It's getting more interesting when I configure the context, so, we later talk to the context, give us the products.
+> **[3:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=209)** It's getting more interesting when I configure the context, so, we later talk to the context, give us the [[Microsoft Products|products]].
 >
 > **[3:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-entity-framework-core?u=76281980&t=218)** And in turn, Entity Framework Core then issues a select statement to the data store, retrieving all of the products.
 >
@@ -1602,7 +1587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (7), [[Microsoft]] (5), database (5), data (5)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Microsoft]] (5), [[SQL]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (3), configure (3)
 > **Env Vars:** api (4), sql (1)
 > **Tools:** visual studio (2), command line (1)
@@ -1611,14 +1596,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 
-#### Returning a list of items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980)
+#### [Returning a list of items](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=0)** - [Instructor] It's now time to create our first real API endpoint, one that returns several items at once.
 >
-> **[0:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=7)** For instance, all of the categories we have in our system or all of the products we have in our system.
+> **[0:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=7)** For instance, all of the categories we have in our system or all of the [[Microsoft Products|products]] we have in our system.
 >
 > **[0:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=13)** There are different approaches to achieve that, and the first one that I think is the most intuitive one is this.
 >
@@ -1636,7 +1620,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=49)** Remember that the shop context had this products property and this will just retrieve the data.
 >
-> **[0:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=59)** The method returns the list and [ASP.NET](https://ASP.NET) core web API automatically serializes that into JSON.
+> **[0:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=59)** The method returns the list and [[[ASP.NET]]](https://ASP.NET) core web API automatically serializes that into [[JSON]].
 >
 > **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=67)** So let's go over to Visual Studio.
 >
@@ -1650,7 +1634,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=99)** You could also call it db, but that's the naming I like.
 >
-> **[1:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=103)** And then in the constructor, we use dependency injection for the ShopContext and then just set that property.
+> **[1:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=103)** And then in the constructor, we use [[Dependency Injection]] for the ShopContext and then just set that property.
 >
 > **[1:55](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=115)** And we have to do one more thing.
 >
@@ -1692,7 +1676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), data (5), api (4), database (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[JSON]] (3), [[Dependency Injection]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** api (3), json (3), asp (1), net (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -1701,8 +1685,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** for instance (1)
 
-#### Using ActionResult
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980)
+#### [Using ActionResult](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,11 +1709,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=60)** But later we might have implementations where we verify arguments or anything else, and in that specific case, there might be a path in the method that says we return HTTP, I don't know, 404 not found, or we return HTTP 200, and this flexibility is something we gain when using ActionResult.
 >
-> **[1:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=83)** For most of the HTTP status codes, there is a helper method that essentially returns that status code and data that then will be serialized into JSON.
+> **[1:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=83)** For most of the HTTP status codes, there is a helper method that essentially returns that status code and data that then will be serialized into [[JSON]].
 >
 > **[1:33](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=93)** For HTTP 200 OK, the method is called Ok as well.
 >
-> **[1:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=98)** So return Ok of products returns HTTP 200 plus the products then in serialized format.
+> **[1:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=98)** So return Ok of [[Microsoft Products|products]] returns HTTP 200 plus the products then in serialized format.
 >
 > **[1:48](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/using-actionresult?u=76281980&t=108)** Let's just take a quick look in Visual Studio.
 >
@@ -1748,21 +1731,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Microsoft Products|Products]] (3), data (2), product (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[JSON]] (1)
 > **Env Vars:** http (7), api (2), json (1)
 > **Definitions:** is a  (2), basically means (1), is an  (1), is called (1)
 > **UI Navigation:** go to (2)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning an item
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980)
+#### [Returning an item](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=0)** - [Instructor] When returning just one item, technically there doesn't seem to be a big difference.
 >
-> **[0:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=7)** We just return one product instead of a list of products.
+> **[0:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=7)** We just return one product instead of a list of [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=12)** However, we should probably tell the API which product we want.
 >
@@ -1780,7 +1762,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=65)** It's called id because that is the name of the placeholder we chose, and the value of that will be 42.
 >
-> **[1:14](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=74)** The alternative approach, of course, would be to not return an ActionResult but to return a product, but the rest of the syntax and the Routing attribute would be exactly the same.
+> **[1:14](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=74)** The alternative approach, of course, would be to not return an ActionResult but to return a product, but the [[Representational State Transfer (REST)|rest]] of the syntax and the [[Routing]] attribute would be exactly the same.
 >
 > **[1:28](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-an-item?u=76281980&t=88)** I, of course, prefer the ActionResult way, because what do we do if the product doesn't exist?
 >
@@ -1844,13 +1826,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (7), api (6), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
 > **Env Vars:** api (6), url (1), asp (1), net (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Handling errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980)
+#### [Handling errors](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1839,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=9)** And that absolutely makes sense, we were asking for the item with the ID 42, there is no such item, so there's nothing to server could have returned.
 >
-> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=20)** But remember that in the REST principle, the HTTP status codes are taken into account, and there is a status code for we can't find anything, that's HTTP 404 not found.
+> **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=20)** But remember that in the [[Representational State Transfer (REST)|REST]] principle, the HTTP status codes are taken into account, and there is a status code for we can't find anything, that's HTTP 404 not found.
 >
 > **[0:35](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=35)** So actually we should return that in those cases.
 >
@@ -1866,7 +1847,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=40)** Here's our implementation so far.
 >
-> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=43)** So we have our action method, it's finding a product and then it does return okay of product, which means HTTP status code 200 converted or serialized into JSON will be returned.
+> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=43)** So we have our action method, it's finding a product and then it does return okay of product, which means HTTP status code 200 converted or serialized into [[JSON]] will be returned.
 >
 > **[0:58](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/handling-errors?u=76281980&t=58)** But what if there is no such product?
 >
@@ -1900,7 +1881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), web (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** http (8), api (2), rest (1), json (1), url (1)
 > **Documentation:** specification (2)
 > **CLI Commands:** find (1)
@@ -1908,8 +1889,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the API asynchronous
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980)
+#### [Making the API asynchronous](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,7 +1901,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980&t=16)** So instead of public IEnumerable of product, we can do public async task of IEnumerable of product, and then we have to call await within that method whenever we have another asynchronous call.
 >
-> **[0:34](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980&t=34)** So for instance, if we call ToList on the products that we receive via Entity Framework Core, we could do this asynchronously because then when we call ToList, the data from data store is materialized so we can access it.
+> **[0:34](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980&t=34)** So for instance, if we call ToList on the [[Microsoft Products|products]] that we receive via Entity Framework Core, we could do this asynchronously because then when we call ToList, the data from data store is materialized so we can access it.
 >
 > **[0:52](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/making-the-api-asynchronous?u=76281980&t=52)** Entity Framework Core tries to do that as late as possible because anything we change in our query could change the sequel that is then sent to the data store.
 >
@@ -1949,22 +1929,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (3), [[Microsoft Products|Products]] (2), api (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** net (2), api (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with minimal APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980)
+#### [Working with minimal APIs](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=0)** - [Instructor] We have reached a first milestone with our controller-based API.
 >
-> **[0:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=4)** We can retrieve all products and a single product.
+> **[0:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=4)** We can retrieve all [[Microsoft Products|products]] and a single product.
 >
-> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=8)** Now how about we migrate this to minimal API so that you see the same thing, but using the alternative approach for creating APIs with [ASP.NET](https://ASP.NET) Core.
+> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=8)** Now how about we migrate this to minimal API so that you see the same thing, but using the alternative approach for creating APIs with [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=20)** In Program.cs, what we need to do is, we have to add several calls to app.Map and then Get, which basically maps a get request to an endpoint.
 >
@@ -1982,7 +1961,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=64)** How is that possible or feasible?
 >
-> **[1:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=65)** Well, what we can do is, we can use dependency injection again, and here's how that is working.
+> **[1:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=65)** Well, what we can do is, we can use [[Dependency Injection]] again, and here's how that is working.
 >
 > **[1:17](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=77)** We just get the ShopContext as a parameter here, automatically.
 >
@@ -2036,7 +2015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), api (8), product (2), database (2), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[ASP.NET Core]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** api (5), asp (1), net (1), http (1)
 > **API Endpoints:** /api/products (2)
 > **CLI Commands:** make (1)
@@ -2045,33 +2024,31 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Searching items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980)
+#### [Challenge: Searching items](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=0)** - [Narrator] Time for a quick coding challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=8)** Take the API as it is, but add a new endpoint and that endpoint should not return a list of all products, but only of those products that are in stock.
+> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=8)** Take the API as it is, but add a new endpoint and that endpoint should not return a list of all [[Microsoft Products|products]], but only of those products that are in stock.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=21)** So think about a good URI for that endpoint, and then implement it in a [ASP.NET](https://ASP.NET) core web API.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=21)** So think about a good URI for that endpoint, and then implement it in a [[[ASP.NET]]](https://ASP.NET) core web API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Microsoft Products|Products]] (2), [[ASP.NET Core]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** api (2), uri (1), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Searching items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980)
+#### [Solution: Searching items](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=0)** - [Instructor] Possibly the hardest part of this challenge was to find a good URI.
 >
-> **[0:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=10)** I would recommend /api/products/available.
+> **[0:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=10)** I would recommend /api/[[Microsoft Products|products]]/available.
 >
 > **[0:17](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=17)** So all of the available products will be returned, and if you would like to go down that route, no pun intended, then here's how this can be implemented.
 >
@@ -2095,7 +2072,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=91)** So app.MapGet, and then full URI, products/available.
 >
-> **[1:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=98)** And it's an async method that only needs the ShopContext coming in via dependency injection.
+> **[1:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=98)** And it's an async method that only needs the ShopContext coming in via [[Dependency Injection]].
 >
 > **[1:49](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-searching-items?u=76281980&t=109)** And then, what we are returning is results.Ok.
 >
@@ -2119,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (3), api (2), [[Dependency Injection]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Dependency Injection]] (1)
 > **Env Vars:** uri (2), api (1)
 > **CLI Commands:** find (1)
 > **API Endpoints:** /api/products/available (1)
@@ -2133,8 +2110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HTTP methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
+#### [HTTP methods](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2152,7 +2128,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980&t=58)** So far, the HTTP method we've been working with was GET, GET for reading data.
 >
-> **[1:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980&t=68)** Remember, in REST we have a representation of data, and the URI serves as that representation, whereas the HTTP method denotes what we would like to do with that data or that resource.
+> **[1:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980&t=68)** Remember, in [[Representational State Transfer (REST)|REST]] we have a representation of data, and the URI serves as that representation, whereas the HTTP method denotes what we would like to do with that data or that resource.
 >
 > **[1:25](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980&t=85)** That means we'd like to read it.
 >
@@ -2176,14 +2152,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), application (2), api (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (10), post (4), crud (3), uri (2), api (2)
 > **API Endpoints:** post  (4), get  (2), put  (2), delete  (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model binding
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980)
+#### [Model binding](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2198,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=114)** The next option is [FromRoute].
 >
-> **[1:57](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=117)** So if you have a routing template or routing template, and in the template you can have placeholders.
+> **[1:57](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=117)** So if you have a [[Routing]] template or routing template, and in the template you can have placeholders.
 >
 > **[2:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=125)** And we've seen that in Visual Studio just a few seconds ago, with the [FromRoute] attribute, you make clear that this parameter is taken from the route.
 >
@@ -2243,7 +2218,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=191)** So if you have parameters there, like, question mark, A equals B, then that parameter A can be a parameter for the action method.
 >
-> **[3:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=203)** In many cases, [ASP.NET](https://ASP.NET) Core web API is clever enough to take the correct source from where data is pulled.
+> **[3:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=203)** In many cases, [[[ASP.NET]]](https://ASP.NET) Core web API is clever enough to take the correct source from where data is pulled.
 >
 > **[3:33](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=213)** In other cases, there is an order of priorities which source is looked at first, but, and I've said this twice before, and I'll say it a third time now, be as explicit as possible because that will save you from some pain later on.
 >
@@ -2253,7 +2228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (3), next (2), [[Routing]] (2), [[ASP.NET Core]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[ASP.NET Core]] (2)
 > **Env Vars:** http (6), api (3), asp (2), net (2), uri (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
@@ -2262,8 +2237,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
 
-#### Adding an item with POST
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980)
+#### [Adding an item with POST](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2285,9 +2259,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=49)** That's the model binding we've just talked about.
 >
-> **[0:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=54)** [ASP.NET](https://ASP.NET) Core web API assembles a product out of the individual values that are sent as part of the HTTP request as you'll see in a minute.
+> **[0:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=54)** [[[ASP.NET]]](https://ASP.NET) Core web API assembles a product out of the individual values that are sent as part of the HTTP request as you'll see in a minute.
 >
-> **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=67)** In the implementation of that method, we have to access our database context, so DB or _context to, we were calling that and then .Products, which represents all of the products in our data store .Add.
+> **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=67)** In the implementation of that method, we have to access our database context, so DB or _context to, we were calling that and then .[[Microsoft Products|Products]], which represents all of the products in our data store .Add.
 >
 > **[1:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=81)** And then we can add the product.
 >
@@ -2305,7 +2279,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=128)** So we could just return HTTP 200 OK.
 >
-> **[2:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=133)** But remember when we talked about the principles of REST, we could, when we add something to the data store, provide an information including a URI that points to the newly added element in our data store.
+> **[2:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=133)** But remember when we talked about the principles of [[Representational State Transfer (REST)|REST]], we could, when we add something to the data store, provide an information including a URI that points to the newly added element in our data store.
 >
 > **[2:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=151)** We are saving a product and the product doesn't have an ID yet because that's automatically a signed, that's not provided when calling the API.
 >
@@ -2365,7 +2339,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=399)** And we will be able to use that later to see whether adding data to the data store works.
 >
-> **[6:45](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=405)** So now let's switch over to HTTP POST so we post to the endpoint, but when we do that, we are sending a payload and there is no entry for JSON here.
+> **[6:45](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=405)** So now let's switch over to HTTP POST so we post to the endpoint, but when we do that, we are sending a payload and there is no entry for [[JSON]] here.
 >
 > **[7:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=420)** So I'll just say raw so that we can enter raw data to send.
 >
@@ -2465,7 +2439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (28), data (18), api (7), [[JSON]] (7), [[Microsoft Products|Products]] (6)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Microsoft Products|Products]] (6), [[ASP.NET Core]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (12), api (6), json (5), asp (2), net (2)
 > **Definitions:** is a  (1), is an  (1), is called (1), means that (1)
 > **API Endpoints:** /api/products (1), get
@@ -2476,8 +2450,7 @@ created: 2026-05-02
 > **Tools:** postman (2)
 > **Cross-References:** we talked about (1)
 
-#### Model validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980)
+#### [Model validation](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2487,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=13)** There are other attributes apart from required as well, but that's beyond the scope of this course.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=21)** That's something baked into [ASP.NET](https://ASP.NET) Core.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=21)** That's something baked into [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=24)** However required is pretty useful.
 >
@@ -2567,7 +2540,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=247)** And now if I do that invalid code call again, I once again get bad request, but I don't get this information again, that I was lacking a description for my product.
 >
-> **[4:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=260)** So this time I was jumping into that method in our products controller and we were hitting that piece of code and we are just returning a bad request without any additional information.
+> **[4:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=260)** So this time I was jumping into that method in our [[Microsoft Products|products]] controller and we were hitting that piece of code and we are just returning a bad request without any additional information.
 >
 > **[4:36](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=276)** So that's how you can handle these things as well.
 >
@@ -2575,7 +2548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), product (2), [[ASP.NET Core]] (1), hit (1), data (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (4), http (2), asp (1), net (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is called (1)
@@ -2584,12 +2557,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Updating an item with PUT
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/updating-an-item-with-put?u=76281980)
+#### [Updating an item with PUT](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/updating-an-item-with-put?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/updating-an-item-with-put?u=76281980&t=0)** - [Instructor] When updating items, in our case products, we need to think about our strategy first.
+> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/updating-an-item-with-put?u=76281980&t=0)** - [Instructor] When updating items, in our case [[Microsoft Products|products]], we need to think about our strategy first.
 >
 > **[0:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/updating-an-item-with-put?u=76281980&t=7)** What kind of arguments do we provide to our action method?
 >
@@ -2719,7 +2691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (27), [[Microsoft Products|Products]] (7), api (5), database (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **Env Vars:** http (5), api (5), uri (3), url (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2), find (2)
@@ -2728,8 +2700,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Cross-References:** we discussed (1)
 
-#### Deleting an item with DELETE
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980)
+#### [Deleting an item with DELETE](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2743,7 +2714,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980&t=18)** It's just important that it starts with the name of the HTTP method, and I'm also using the appropriate attribute, HttpDelete.
 >
-> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980&t=29)** If I'm deleting the product with the id, say 42, then the URI will be /api/products/42.
+> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980&t=29)** If I'm deleting the product with the id, say 42, then the URI will be /api/[[Microsoft Products|products]]/42.
 >
 > **[0:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/deleting-an-item-with-delete?u=76281980&t=38)** So I'm using a route in the HttpDelete attribute.
 >
@@ -2829,7 +2800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), data (5), [[Microsoft Products|Products]] (4), api (3), database (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Env Vars:** http (6), crud (2), uri (2)
 > **API Endpoints:** /api/products/42 (1), /api/products (1), /api/products/34 (1)
 > **CLI Commands:** find (2)
@@ -2838,8 +2809,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Best Practices:** good practice (1)
 
-#### Migrating the code to Minimal APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980)
+#### [Migrating the code to Minimal APIs](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2863,7 +2833,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=56)** And then in the handler method, I of course expect the ID as an argument, but I also need the database context.
 >
-> **[1:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=64)** So I'm using dependency injection like this so that I can access it.
+> **[1:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=64)** So I'm using [[Dependency Injection]] like this so that I can access it.
 >
 > **[1:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=68)** And the remainder of the method is essentially the same.
 >
@@ -2885,7 +2855,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=141)** And then we have MAP post.
 >
-> **[2:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=144)** So we are doing a post request to slash products.
+> **[2:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=144)** So we are doing a post request to slash [[Microsoft Products|products]].
 >
 > **[2:28](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=148)** We get a product thanks to Model Binding, but we also get the database context and then well, we do the same things.
 >
@@ -2929,7 +2899,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=275)** How about a T-shirt description for fashionistas?
 >
-> **[4:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=282)** Is that a word?
+> **[4:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=282)** Is that a [[Microsoft Word|word]]?
 >
 > **[4:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/migrating-the-code-to-minimal-apis?u=76281980&t=283)** 999 sounds like a fair price.
 >
@@ -2967,13 +2937,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), api (11), hit (5), database (2), [[Dependency Injection]] (2)
+> **Frameworks & Libraries:** [[Dependency Injection]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (11), http (4), hcp (1), uri (1), url (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Deleting several items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-deleting-several-items?u=76281980)
+#### [Challenge: Deleting several items](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-deleting-several-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2987,23 +2956,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), product (1), data (1)
 > **Env Vars:** api (2), uri (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat rhythmic music) (1)
 
-#### Solution: Deleting several items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980)
+#### [Solution: Deleting several items](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=0)** - [Instructor] As it is often the case, there's more than one way to reach a solution.
 >
-> **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=11)** We could of course, just change our lead product method and make it accept, say, an array of ideas, but then that would mess up our routing.
+> **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=11)** We could of course, just change our lead product method and make it accept, say, an array of ideas, but then that would mess up our [[Routing]].
 >
 > **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=20)** So I recommend we add a new endpoint here with a pretty similar implementation.
 >
-> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=29)** There are a few changes, though, of course the HTTP method delete sounds like a good fit, but currently we are using a delete HTTP call to /products or /API/products/ID to delete that one item.
+> **[0:29](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=29)** There are a few changes, though, of course the HTTP method delete sounds like a good fit, but currently we are using a delete HTTP call to /[[Microsoft Products|products]] or /API/products/ID to delete that one item.
 >
 > **[0:47](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/solution-deleting-several-items?u=76281980&t=47)** We need something different for a list of products because we don't have an endpoint that represents a list of products.
 >
@@ -3099,7 +3066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), product (6), api (6), data (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (16), [[Routing]] (1)
 > **Env Vars:** http (3), api (2), url (1)
 > **API Endpoints:** /api/products/delete (2), /api/product/delete (2)
 > **CLI Commands:** make (2), find (1)
@@ -3113,8 +3080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3146,9 +3112,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=95)** Also, securing APIs is a big topic, and a topic with many, many different aspects.
 >
-> **[1:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=102)** For instance, enforcing HTTPS, or making the API friendly for JavaScript calls, because there are some security mechanisms in place, or using token-based authorization or authentication for your API.
+> **[1:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=102)** For instance, enforcing HTTPS, or making the API friendly for [[JavaScript]] calls, because there are some security mechanisms in place, or using token-based authorization or authentication for your API.
 >
-> **[1:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=116)** Lots of topics, which will be covered in the advanced [ASP.NET](https://ASP.NET) Core web API course.
+> **[1:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=116)** Lots of topics, which will be covered in the advanced [[[ASP.NET]]](https://ASP.NET) Core web API course.
 >
 > **[2:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=124)** So if you're interested in the things you see here, I can only recommend in watching that advanced course.
 >
@@ -3168,7 +3134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[ASP.NET Core]] (5), [[Security]] (4), web (3), data (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (5), [[JavaScript]] (1)
 > **Env Vars:** api (10), asp (5), net (5), https (1)
 > **URLs:** [asp.net](https://asp.net) (5)
 > **Analogies:** such as (1), imagine (1), for instance (1)

@@ -55,12 +55,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing AI products: Your path to success
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980)
+#### [Securing AI products: Your path to success](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=0)** - Welcome to the Building AI Products: Security Essentials Learning Path.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]]: Security Essentials Learning Path.
 >
 > **[0:04](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=4)** As AI transforms every industry, new threats are emerging, and technical leaders must adapt to new challenges in building and scaling secure AI products.
 >
@@ -68,17 +67,17 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=16)** Tasks once exclusive to machine learning engineers may now be handled by software developers or data analysts.
 >
-> **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=22)** This shift demands a comprehensive understanding of responsible AI development, deployment, and security.
+> **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=22)** This shift demands a comprehensive understanding of [[Responsible AI]] development, deployment, and security.
 >
 > **[0:30](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=30)** This learning path covers building and deploying secure AI systems, critical security considerations unique to AI, effective governance and security of AI data, and implementing AI defenses and responding to AI incidents.
 >
-> **[0:45](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=45)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your LinkedIn profile.
+> **[0:45](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=45)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile.
 >
-> **[0:52](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=52)** Let's begin building your expertise in AI product security.
+> **[0:52](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=52)** Let's begin building your expertise in AI [[Product Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (5), [[Microsoft Products|Products]] (2), data (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Responsible AI]] (1), [[LinkedIn]] (1), [[Product Security]] (1)
 > **Speakers:** - welcome (1)
 
 

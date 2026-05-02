@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving to management
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980)
+#### [Moving to management](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=17)** Whatever your reason, welcome.
 >
-> **[0:20](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=20)** Managing people in technology is a great way to increase the amount of impact you have on your company and on your products.
+> **[0:20](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=20)** Managing people in technology is a great way to increase the amount of impact you have on your company and on your [[Microsoft Products|products]].
 >
 > **[0:27](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=27)** But moving from a technical role as a sole contributor to managing people can be difficult at times.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=46)** In this course, we'll learn more about what skills you can develop to start out strong in management.
 >
-> **[0:52](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=52)** Together, we'll be covering fundamental management issues like ethics in management and advocating for your team.
+> **[0:52](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=52)** Together, we'll be covering fundamental management issues like [[Ethics]] in management and advocating for your team.
 >
 > **[0:58](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980&t=58)** We'll also learn about some of the tasks that would be part of your work as a new engineering manager such as holding effective 1:1s or holding reviews.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), career (1), [[Microsoft Products|Products]] (1), [[Ethics]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Ethics]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - hello (1)
@@ -138,8 +137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What do managers do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/what-do-managers-do?u=76281980)
+#### [What do managers do?](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/what-do-managers-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,12 +185,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Engineering]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - let (1)
 
-#### Skills and attributes you need as a manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/skills-and-attributes-you-need-as-a-manager?u=76281980)
+#### [Skills and attributes you need as a manager](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/skills-and-attributes-you-need-as-a-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,13 +244,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), business (2), career (2), management (2), teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - you (1)
 
-#### Holding one-on-one meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/holding-one-on-one-meetings?u=76281980)
+#### [Holding one-on-one meetings](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/holding-one-on-one-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,14 +374,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (1), teams (1)
 > **Speakers:** - one (1), - we (1), - great (1), - and (1), - oh (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 
-#### Agendas, note taking, and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/agendas-note-taking-and-documentation?u=76281980)
+#### [Agendas, note taking, and documentation](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/agendas-note-taking-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,13 +425,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
 
-#### Reviews and assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/reviews-and-assessments?u=76281980)
+#### [Reviews and assessments](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/reviews-and-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,14 +505,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shifting your mindset from coding to coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980)
+#### [Shifting your mindset from coding to coaching](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980&t=0)** - In my work coaching new engineering managers, one of the biggest challenges I see is getting former techies comfortable with letting go of the keyboard.
 >
-> **[0:08](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980&t=8)** As a manager, you have the potential to have a much bigger impact on your products and your projects than you would as a single contributor.
+> **[0:08](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980&t=8)** As a manager, you have the potential to have a much bigger impact on your [[Microsoft Products|products]] and your projects than you would as a single contributor.
 >
 > **[0:16](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980&t=16)** But this often comes at the cost of having to step back from working on development or design as part of your daily tasks.
 >
@@ -558,13 +547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Approach technical problems as a manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/approach-technical-problems-as-a-manager?u=76281980)
+#### [Approach technical problems as a manager](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/approach-technical-problems-as-a-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,12 +604,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - when (1)
 
-#### Managing junior developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-junior-developers?u=76281980)
+#### [Managing junior developers](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-junior-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,21 +725,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), bi (1)
 > **Speakers:** - i (5), - good (4), - yeah (3), - but (2), - and (2)
 > **Env Vars:** api (3)
 > **Documentation:** the documentation (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 
-#### Managing senior developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980)
+#### [Managing senior developers](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980&t=0)** - We've already learned about the rewards of managing junior technologists.
 >
-> **[0:04](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980&t=4)** But if people management is going to be part of your career plan, you should also be prepared to manage talent that may have very different strengths, and perhaps more technical skillsets than you have.
+> **[0:04](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980&t=4)** But if [[People Management]] is going to be part of your career plan, you should also be prepared to manage talent that may have very different strengths, and perhaps more technical skillsets than you have.
 >
 > **[0:14](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/managing-senior-developers?u=76281980&t=14)** This can be a challenge for many managers.
 >
@@ -835,13 +819,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[People Management]] (1), career (1), strengths (1), feature (1), parallel (1)
+> **Frameworks & Libraries:** [[People Management]] (1)
 > **Speakers:** - so (2), - sure (2), - we (1), - yes (1), - well (1)
 > **Env Vars:** soap (1), cto (1)
 > **Documentation:** the documentation (1)
 
-#### Assess tech skills outside your expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/assess-tech-skills-outside-your-expertise?u=76281980)
+#### [Assess tech skills outside your expertise](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/assess-tech-skills-outside-your-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,8 +874,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - with (1)
 
-#### Cross-team collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/cross-team-collaboration?u=76281980)
+#### [Cross-team collaboration](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/cross-team-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +920,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), leadership (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - we (1)
@@ -948,8 +929,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mentoring as an engineering manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980)
+#### [Mentoring as an engineering manager](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980&t=36)** Team members who are receiving mentorship, they gain new skills as they benefit from the experience of their mentors.
 >
-> **[0:42](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980&t=42)** Mentors have the opportunity to develop soft skills and people management skills that will benefit their day to day work with their peers.
+> **[0:42](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980&t=42)** Mentors have the opportunity to develop [[Soft Skills]] and [[People Management]] skills that will benefit their day to day work with their peers.
 >
 > **[0:50](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980&t=50)** The ability to preview management-like conversations and support can be especially valuable opportunities to sort of try out management without fully changing your work role, which are really rare opportunities outside of mentorship.
 >
@@ -995,14 +975,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Soft Skills]] (1), [[People Management]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[People Management]] (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - mentorship (1)
 
-#### Advocating for your direct reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/advocating-for-your-direct-reports?u=76281980)
+#### [Advocating for your direct reports](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/advocating-for-your-direct-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,12 +1025,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), management (1), leadership (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Ethical considerations in management
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980)
+#### [Ethical considerations in management](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=15)** When I was given the opportunity to present this course, I jumped at the chance, largely, because I wanted to talk to you about the ethical impact of your work as a manager.
 >
-> **[0:24](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=24)** While I often find myself talking to other managers about ethics in management.
+> **[0:24](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=24)** While I often find myself talking to other managers about [[Ethics]] in management.
 >
 > **[0:28](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=28)** I rarely find management ethics covered in professional development materials.
 >
@@ -1089,7 +1066,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=91)** I like to actively encourage new managers think about common ethical challenges that may arise in their workplace, and then consider how would you respond to this?
 >
-> **[1:42](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=102)** A good example might be to think about how you'd like to react if the needs of your business or your project began to directly conflict with the best interest of a team member.
+> **[1:42](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=102)** A good example might be to think about how you'd like to [[React.js|react]] if the needs of your business or your project began to directly conflict with the best interest of a team member.
 >
 > **[1:51](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/ethical-considerations-in-management?u=76281980&t=111)** As a manager, of course, you have an explicit contractual and fiduciary duty to your organization.
 >
@@ -1113,14 +1090,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (4), management (3), [[React.js|React]] (2), business (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[React.js|React]] (2)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Having difficult conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/having-difficult-conversations?u=76281980)
+#### [Having difficult conversations](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/having-difficult-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
@@ -1178,8 +1153,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintain and expand your technical skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/maintain-and-expand-your-technical-skills?u=76281980)
+#### [Maintain and expand your technical skills](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/maintain-and-expand-your-technical-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,14 +1213,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (1), next (1), open-source (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - moving (1)
 
-#### Growing your management skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980)
+#### [Growing your management skills](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,7 +1246,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980&t=65)** Any of the topics we've covered in this course might be a great place to invest more of your time.
 >
-> **[1:10](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980&t=70)** If you wanted to learn more about holding effective one-to-ones or ethics as a manager, there are a host of resources waiting for you, but don't limit yourself to the topics we've covered here.
+> **[1:10](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980&t=70)** If you wanted to learn more about holding effective one-to-ones or [[Ethics]] as a manager, there are a host of resources waiting for you, but don't limit yourself to the topics we've covered here.
 >
 > **[1:20](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/growing-your-management-skills?u=76281980&t=80)** You may find that you want to work on your communication skills or your conflict resolution skills next.
 >
@@ -1292,13 +1264,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), next (2), career (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Setting goals with your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980)
+#### [Setting goals with your team](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980&t=22)** You'll also need to set good goals for yourself.
 >
-> **[0:25](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980&t=25)** There's a lot of great courses on LinkedIn Learning about how to set goals.
+> **[0:25](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980&t=25)** There's a lot of great courses on [[LinkedIn]] Learning about how to set goals.
 >
 > **[0:29](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/setting-goals-with-your-team?u=76281980&t=29)** So today we're just going to look at some of the basics of goal setting, just to get you started.
 >
@@ -1364,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), [[LinkedIn]] (1), leadership (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** you'll need (2)
@@ -1376,8 +1347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tailoring your management journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980)
+#### [Tailoring your management journey](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980&t=61)** Be sure that you're also taking good care of yourself as you care for your team.
 >
-> **[1:06](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980&t=66)** If you want to keep in touch or you want to tell me which management resources you love, you can connect with me on LinkedIn or come find me on Twitter.
+> **[1:06](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980&t=66)** If you want to keep in touch or you want to tell me which management resources you love, you can connect with me on [[LinkedIn]] or come find me on Twitter.
 >
 > **[1:16](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980&t=76)** Managing people in technology is an exciting and challenging journey.
 >
@@ -1415,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)

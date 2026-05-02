@@ -52,14 +52,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your own powerful GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
+#### [Create your own powerful GPTs](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980&t=0)** - With a paid ChatGPT subscription, you can create your own custom GPTs.
+> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980&t=0)** - With a paid [[ChatGPT]] subscription, you can create your own [[Custom GPTs]].
 >
-> **[0:05](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980&t=5)** Using plain conversational language, you can create personalized versions of Chat GPTs to cater to your own unique tasks and goals, including configuring your GPT to access the web, or use DALL-E to generate images.
+> **[0:05](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980&t=5)** Using plain conversational language, you can create personalized versions of Chat GPTs to cater to your own unique tasks and goals, including configuring your GPT to access the web, or use [[DALL-E]] to generate images.
 >
 > **[0:19](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980&t=19)** You can even upload your own files to your GPT to have it reference those files and resources when assisting you.
 >
@@ -77,7 +76,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Custom GPTs]] (3), web (1), [[DALL-E]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Custom GPTs]] (3), [[DALL-E]] (1)
 > **Env Vars:** gpt (4), dall (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
@@ -88,18 +87,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze an archive of PDFs
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)
+#### [Analyze an archive of PDFs](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=0)** - [Instructor] One of the biggest strengths of custom GPTs is that you can upload and use your own content or data.
+> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=0)** - [Instructor] One of the biggest strengths of [[Custom GPTs]] is that you can upload and use your own content or data.
 >
 > **[0:06](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=6)** Rather than creating a tool solely around web searching or content that's available elsewhere, if you have files or documents specific to your work or interests, you can create a GPT assistant to help you manage, interpret, generate reports, or do just about anything else you can imagine doing with your files or data.
 >
-> **[0:24](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=24)** For example, here on my desktop, I have a folder of a year's worth of old newsletters in PDF format and I want to create a GPT to help me figure out what topics and information are covered in them and to be able to pull out specific information from this archive as needed.
+> **[0:24](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=24)** For example, here on my desktop, I have a folder of a year's worth of old [[Newsletters]] in PDF format and I want to create a GPT to help me figure out what topics and information are covered in them and to be able to pull out specific information from this archive as needed.
 >
-> **[0:39](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=39)** So we'll go back to ChatGPT through the web interface.
+> **[0:39](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=39)** So we'll go back to [[ChatGPT]] through the web interface.
 >
 > **[0:42](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=42)** Currently, you can't create custom GPTs through the desktop or mobile apps.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=210)** So I'll click the plus button here to browse for my files.
 >
-> **[3:35](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=215)** So you can see we can upload from Google Drive or Microsoft OneDrive if our files are online.
+> **[3:35](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=215)** So you can see we can upload from [[Google Drive]] or [[Microsoft OneDrive]] if our files are online.
 >
 > **[3:40](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=220)** But in this case, the files are on my computer, so I'll click upload from computer, and we'll browse out to the desktop.
 >
@@ -197,7 +195,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=321)** And in this case, I won't need to generate any graphics or presentation materials so I can uncheck Canvas.
 >
-> **[5:28](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=328)** And I probably also don't need it to generate images with DALL-E or to use the Code Interpreter, so we'll just uncheck that as well.
+> **[5:28](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=328)** And I probably also don't need it to generate images with [[DALL-E]] or to use the Code Interpreter, so we'll just uncheck that as well.
 >
 > **[5:35](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=335)** So with these items unchecked, the knowledge will come primarily from the files we've uploaded.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=354)** So it takes a moment, it looks through all the newsletters and gives me the summary.
 >
-> **[6:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=360)** Or I might ask something like, "What were some of the web design related topics mentioned?"
+> **[6:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=360)** Or I might ask something like, "What were some of the [[Web Design]] related topics mentioned?"
 >
 > **[6:13](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980&t=373)** And, again, we get a thorough summary, and it even asks me if I would like a list of the recurring tools or events in a downloadable format.
 >
@@ -253,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (7), web (4), [[Custom GPTs]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Newsletters]] (7), [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Google Drive]] (1), [[Microsoft OneDrive]] (1)
 > **Env Vars:** gpt (20), pdf (3), dall (1)
 > **Analogies:** for example (3), imagine (2)
 > **CLI Commands:** make (2), find (1)
@@ -262,8 +260,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Extract text from images
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980)
+#### [Extract text from images](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +316,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=153)** And we don't need to upload any files that the GPT needs to know about ahead of time in this case.
 >
-> **[2:40](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=160)** I probably also won't need web searching, Canvas, or DALL-E image generation.
+> **[2:40](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=160)** I probably also won't need web searching, Canvas, or [[DALL-E]] image generation.
 >
 > **[2:45](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=165)** I'll just leave them checked because we don't always have to uncheck these things if we don't need them.
 >
@@ -335,7 +332,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=185)** We have some bold text, some metallic text, and so on.
 >
-> **[3:09](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=189)** Let's see how ChatGPT does with this.
+> **[3:09](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=189)** Let's see how [[ChatGPT]] does with this.
 >
 > **[3:10](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/extract-text-from-images?u=76281980&t=190)** With it selected, I'll click Open and we'll send that.
 >
@@ -355,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), next (1), web (1), [[DALL-E]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[DALL-E]] (1)
 > **Env Vars:** gpt (11), dall (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
@@ -364,18 +361,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate images for social media posts
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980)
+#### [Generate images for social media posts](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=0)** - [Instructor] With DALL E built into ChatGPT, you can create custom GPTs to generate images around requirements specific to your needs.
+> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=0)** - [Instructor] With DALL E built into [[ChatGPT]], you can create [[Custom GPTs]] to generate images around requirements specific to your needs.
 >
 > **[0:07](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=7)** Now, of course, you can use ChatGPT to generate images at any time without the need for creating a custom GPT, but by creating a custom GPT, you can create and save specific instructions on how the images should look or be generated.
 >
 > **[0:21](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=21)** For example, maybe your organization uses a particular palette of colors in your communications, so you could instruct a GPT to always start from that color palette.
 >
-> **[0:29](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=29)** For this example, let's say I frequently post instructional articles to LinkedIn and I want to come up with some images to accompany my posts.
+> **[0:29](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=29)** For this example, let's say I frequently post instructional articles to [[LinkedIn]] and I want to come up with some images to accompany my posts.
 >
 > **[0:37](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=37)** So let's go to Explore GPTs and click Create.
 >
@@ -397,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=96)** Here's asking what kind of image styles or themes do you want to focus on or avoid.
 >
-> **[1:41](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=101)** In this case, I'll say this assistant is for generating images to accompany articles that cover a wide range of topics, but often around the subjects of education and lifelong learning.
+> **[1:41](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=101)** In this case, I'll say this assistant is for generating images to accompany articles that cover a wide range of topics, but often around the subjects of education and [[Lifelong Learning]].
 >
 > **[1:56](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/generate-images-for-social-media-posts?u=76281980&t=116)** It updates the GPT with this information.
 >
@@ -485,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[ChatGPT]] (4), [[Custom GPTs]] (2), [[Lifelong Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[ChatGPT]] (4), [[Custom GPTs]] (2), [[Lifelong Learning]] (1)
 > **Env Vars:** gpt (12), dall (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -494,14 +490,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Career coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980)
+#### [Career coach](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980&t=0)** - [Instructor] So far we've been building custom GPTs to take advantage of the ability to work with content that you provide, like images, PDFs, and articles.
+> **[0:00](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980&t=0)** - [Instructor] So far we've been building [[Custom GPTs]] to take advantage of the ability to work with content that you provide, like images, PDFs, and articles.
 >
-> **[0:08](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980&t=8)** But of course, chatGPT also has its own immense knowledge base and the entire web at its disposal to help you with your projects, tasks and goals.
+> **[0:08](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980&t=8)** But of course, [[ChatGPT]] also has its own immense knowledge base and the entire web at its disposal to help you with your projects, tasks and goals.
 >
 > **[0:17](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/career-coach?u=76281980&t=17)** You're not required to bring your own content to build GPTs.
 >
@@ -593,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (8), management (2), [[Custom GPTs]] (1), [[ChatGPT]] (1), web (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (14)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -602,8 +597,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### GPTs for feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980)
+#### [GPTs for feedback](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=78)** And again, you can answer the questions as they're provided to you, or if you already kind of know what you want, you can just type it into the prompt field.
 >
-> **[1:25](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=85)** I'll say, "The GPT should provide feedback on technical aspects of logo design, including color theory and typography.
+> **[1:25](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=85)** I'll say, "The GPT should provide feedback on technical aspects of logo design, including color theory and [[Typography]].
 >
 > **[1:32](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=92)** It should also consider whether the logo will be effective across multiple platforms and media, such as social media, print media, and video.
 >
@@ -647,7 +641,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=161)** And again, we can check out the name, description, and instructions.
 >
-> **[2:45](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=165)** But here I'm going to scroll all the way down under capabilities, and we must definitely want to make sure that web Search and DALL-E are enabled so the GPT can pull from the latest information as well as generate alternative logos for us.
+> **[2:45](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=165)** But here I'm going to scroll all the way down under capabilities, and we must definitely want to make sure that web Search and [[DALL-E]] are enabled so the GPT can pull from the latest information as well as generate alternative logos for us.
 >
 > **[2:57](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=177)** All right, let's try this out.
 >
@@ -669,7 +663,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=227)** And it gives me some other optional iterations that I might want to explore.
 >
-> **[3:53](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=233)** Now I can ask it questions, maybe something like, "How is it in terms of scalability?"
+> **[3:53](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=233)** Now I can ask it questions, maybe something like, "How is it in terms of [[Scalability]]?"
 >
 > **[4:06](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/gpts-for-feedback?u=76281980&t=246)** And it gives me its assessment telling me things like the fine lines of the spokes may become invisible or clutter when the logo is shrunk.
 >
@@ -713,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (2), [[Scalability]] (2), business (1), prompt (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[Scalability]] (2), [[Typography]] (1)
 > **Env Vars:** gpt (18), dall (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)

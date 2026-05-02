@@ -94,14 +94,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980&t=0)** - [Instructor] Hello, my name is Lisa Bock, and I'm a security ambassador.
 >
-> **[0:05](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980&t=5)** In this course, I'll begin with an overview of secure routing and switching, and I'll review the control, data, and management plane, along with router and switch security basics.
+> **[0:05](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980&t=5)** In this course, I'll begin with an overview of secure [[Routing]] and switching, and I'll review the control, data, and management plane, along with router and switch security basics.
 >
 > **[0:18](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980&t=18)** I'll then turn my attention to Layer Two attacks, and cover how to secure Cisco switches.
 >
@@ -115,13 +114,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Routing]] (2), data (1), management (1)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** arp (1), bpdu (1), vlan (1), ccna (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/what-you-need-to-know-23697136?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/what-you-need-to-know-23697136?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,18 +139,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packet Tracer and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/packet-tracer-and-exercise-files?u=76281980)
+#### [Packet Tracer and exercise files](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/packet-tracer-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/packet-tracer-and-exercise-files?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available at the Cisco Networking Academy, here at [netacad.com](https://netacad.com).
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/packet-tracer-and-exercise-files?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available at the [[Cisco Networking]] Academy, here at [netacad.com](https://netacad.com).
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/packet-tracer-and-exercise-files?u=76281980&t=13)** Get familiar with this site, as there is a lot of additional training available.
 >
@@ -170,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cisco Networking]] (1), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cisco Networking]] (1)
 > **Definitions:** is a  (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
 > **Env Vars:** ccna (1)
@@ -183,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure routing and switching: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980)
+#### [Secure routing and switching: Overview](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=26)** Each interface on a router represents a separate network.
 >
-> **[0:32](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=32)** Routers use a routing table to make a decision.
+> **[0:32](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=32)** Routers use a [[Routing]] table to make a decision.
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=36)** And routers generally only have two or four ports.
 >
@@ -224,14 +219,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** cam (1), dhcp (1), bpdu (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (2)
 > **Speakers:** - [narrator] (1)
 
-#### Control, data, and management planes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980)
+#### [Control, data, and management planes](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980&t=58)** Most consider out-of-band the most secure method and is generally preferred over in-band management.
 >
-> **[1:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980&t=66)** The control plane is responsible for routing protocols and routers that talk with one another.
+> **[1:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980&t=66)** The control plane is responsible for [[Routing Protocols]] and routers that talk with one another.
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/control-data-and-management-planes?u=76281980&t=72)** The control plane is where the device learns what action to take on the data.
 >
@@ -273,14 +267,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), management (8), [[Routing Protocols]] (2)
+> **Frameworks & Libraries:** [[Routing Protocols]] (2)
 > **Env Vars:** ftp (1), eigrp (1), igmp (1), icmp (1), arp (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Router and switch security basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/router-and-switch-security-basics?u=76281980)
+#### [Router and switch security basics](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/router-and-switch-security-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,12 +325,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layer 3 attacks: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980)
+#### [Layer 3 attacks: Overview](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980&t=0)** - [Instructor] The network layer, or layer three handles addressing and routing.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980&t=0)** - [Instructor] The network layer, or layer three handles addressing and [[Routing]].
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980&t=5)** Routers operate in layer three and some of the main functions of a router are path selection and packet forwarding.
 >
@@ -371,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), traffic (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Routing]] (4)
 > **Env Vars:** icmp (2), osi (1), ios (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
@@ -379,8 +371,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure the control plane
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980)
+#### [Secure the control plane](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,20 +409,19 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980&t=149)** Control plane protection is an extension of CoPP that allows for more refined control, and control plane logging logs packets that were dropped or permitted by CoPP.
 >
-> **[2:42](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980&t=162)** In addition to CoPP, you can use Cisco Auto Secure, which is a one-step lockdown feature along with routing protocol authentication, which defends against bogus updates from rogue devices.
+> **[2:42](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980&t=162)** In addition to CoPP, you can use Cisco Auto Secure, which is a one-step lockdown feature along with [[Routing]] protocol authentication, which defends against bogus updates from rogue devices.
 >
 > **[2:58](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-the-control-plane?u=76281980&t=178)** Control plane policing protects the control plane against attacks and defends the CPU so it's available to move, process, and route the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), traffic (11), management (2), express (1), feature (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** cpu (3), cef (2)
 > **Definitions:** is a  (2), is an  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examine privilege levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/examine-privilege-levels?u=76281980)
+#### [Examine privilege levels](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/examine-privilege-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,15 +479,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), hit (1)
 > **Env Vars:** exec (8)
 > **Tools:** command line (2), terminal (2)
 > **Code Identifiers:** ios (3)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** configure (2)
 
-#### Assign privilege levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/assign-privilege-levels?u=76281980)
+#### [Assign privilege levels](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/assign-privilege-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +575,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), database (1)
 > **Prerequisites:** configure (5)
 > **Tools:** terminal (3)
 > **Code Identifiers:** ios (1)
@@ -595,8 +582,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure IOS role-based CLI access
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980)
+#### [Configure IOS role-based CLI access](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980&t=27)** In a small organization, this could be possible but in a large shop providing access for everyone, can be complex.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980&t=36)** To overcome the limitations of assigning privilege levels, the administrator should use role-based CLI.
+> **[0:36](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980&t=36)** To overcome the limitations of assigning privilege levels, the administrator should use role-based [[CLI]].
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/configure-ios-role-based-cli-access?u=76281980&t=44)** That provides granular control by restricting what commands are available according to a specific role.
 >
@@ -679,8 +665,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement IOSR Resilient Configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-iosr-resilient-configuration?u=76281980)
+#### [Implement IOSR Resilient Configuration](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-iosr-resilient-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,15 +703,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** ios (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Routing update authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980)
+#### [Routing update authentication](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=5)** Without authentication, an attacker can spoof the router and send the wrong information.
 >
-> **[0:12](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=12)** In this segment, we'll review the importance of routing update authentication to defend against spoofing attacks.
+> **[0:12](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=12)** In this segment, we'll review the importance of [[Routing]] update authentication to defend against spoofing attacks.
 >
 > **[0:21](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=21)** Routers communicate with their neighbors to provide updates on route availability, bandwidth, and other metrics that are necessary for a router to make a routing decision.
 >
@@ -756,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=95)** However, RouterB checks, and if the password is not correct, it will not accept the update information.
 >
-> **[1:45](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=105)** Any of the following routing protocols can offer either a clear text or a hashed password, and you can use either MD5 or SHA-256.
+> **[1:45](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=105)** Any of the following [[Routing Protocols]] can offer either a clear text or a hashed password, and you can use either MD5 or SHA-256.
 >
 > **[1:56](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/routing-update-authentication-23700135?u=76281980&t=116)** However, Cisco recommends using SHA-256 if possible as it provides stronger security and integrity of the routing update.
 >
@@ -788,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (6), [[Security]] (2), [[Routing Protocols]] (1), data (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Routing Protocols]] (1)
 > **Env Vars:** sha (2), eigrp (1), md5 (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
@@ -796,8 +779,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: EIGRP authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/challenge-eigrp-authentication?u=76281980)
+#### [Challenge: EIGRP authentication](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/challenge-eigrp-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,8 +815,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (exciting music) (1)
 
-#### Solution: EIGRP authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/solution-eigrp-authentication?u=76281980)
+#### [Solution: EIGRP authentication](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/solution-eigrp-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +859,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 5.1.1 (4)
 > **UI Navigation:** go to (2)
 > **Env Vars:** eigrp (1)
@@ -890,8 +870,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layer 2 attacks: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980)
+#### [Layer 2 attacks: Overview](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,9 +878,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=4)** A security specialist should become familiar with the different tools that are available.
 >
-> **[0:10](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=10)** Although this is not part of the CCNA security, I wanted to make you aware of Kali Linux.
+> **[0:10](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=10)** Although this is not part of the CCNA security, I wanted to make you aware of [[Kali Linux]].
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=17)** Kali Linux is an advanced penetration testing tool, but it can also be used to launch an attack.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=17)** Kali Linux is an advanced [[Penetration Testing]] tool, but it can also be used to launch an attack.
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=25)** I'm at the web page and here is where you can download and install Kali Linux.
 >
@@ -939,7 +918,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=171)** Switches operate in layer two and the data link layers primary role is proper frame formation.
 >
-> **[2:59](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=179)** And the most commonly used frame on a local area network today is an ethernet two frame.
+> **[2:59](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=179)** And the most commonly used frame on a [[Local Area Network (LAN)|local area network]] today is an ethernet two frame.
 >
 > **[3:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=186)** We also see address resolution protocol which is a protocol that's underneath layer three.
 >
@@ -975,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Kali Linux]] (4), data (4), traffic (2), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (4), [[Penetration Testing]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (4), arp (3), mac (3), ccna (2), cdp (2)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **UI Navigation:** go to (2)
@@ -984,12 +963,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 
-#### Spanning-Tree Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/spanning-tree-protocol?u=76281980)
+#### [Spanning-Tree Protocol](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/spanning-tree-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/spanning-tree-protocol?u=76281980&t=0)** - [Instructor] Spanning Tree Protocol is used on a local area network because in most cases switches have redundant links for fault tolerance.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/spanning-tree-protocol?u=76281980&t=0)** - [Instructor] Spanning Tree Protocol is used on a [[Local Area Network (LAN)|local area network]] because in most cases switches have redundant links for fault tolerance.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/spanning-tree-protocol?u=76281980&t=11)** Spanning Tree Protocol maintains a loop-free network by pruning redundant links and monitors the state of the network and will change the pathways to fit the current link conditions in order to keep it operational.
 >
@@ -1035,14 +1013,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (2), [[Local Area Network (LAN)|Local area network]] (1), next (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** mac (3)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/stp-attacks?u=76281980)
+#### [STP attacks](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/stp-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,12 +1057,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), traffic (1)
 > **Env Vars:** bpdu (3), cam (1), vlan (1)
 > **Speakers:** - [narrator] (1)
 
-#### ARP spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980)
+#### [ARP spoofing](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=14)** Every device holds an ARP cache.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=17)** For example, if you went to the command-line interface on a Windows operating system, you can type arp-a to display the current ARP cache.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=17)** For example, if you went to the command-line interface on a [[Windows]] operating system, you can type arp-a to display the current ARP cache.
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=28)** If there's no entry in the ARP cache, an ARP broadcast is sent out to determine the MAC address of the destination device.
 >
@@ -1107,7 +1082,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=43)** And the device that has the IP address responds with its MAC address.
 >
-> **[0:49](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=49)** I'm in Wireshark, and in this packet capture, we see the tail end of a normal boot-up process.
+> **[0:49](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=49)** I'm in [[Wireshark]], and in this packet capture, we see the tail end of a normal boot-up process.
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=57)** I'll filter the traffic for bootp, and this displays the DHCP traffic.
 >
@@ -1167,18 +1142,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Windows]] (1), [[Wireshark]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Wireshark]] (1)
 > **Env Vars:** arp (25), mac (5), dhcp (3), arf (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - address (1)
 
-#### MAC spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980)
+#### [MAC spoofing](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=0)** - [Instructor] On a local area network, a device is identified by its MAC address.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=0)** - [Instructor] On a [[Local Area Network (LAN)|local area network]], a device is identified by its MAC address.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=6)** MAC spoofing changes or spoofs the MAC address on a network interface card to someone else's MAC address to allow an attacker to intercept traffic to launch a man-in-the-middle attack.
 >
@@ -1190,13 +1164,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=39)** When traffic is delivered, HostA and the attacker will receive the data.
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=45)** There are a number of different tools available to change your MAC address, and a number of different software products.
+> **[0:45](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=45)** There are a number of different tools available to change your MAC address, and a number of different software [[Microsoft Products|products]].
 >
 > **[0:53](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=53)** I'm here at this website where you can see MAC Address Changer, but if you type in the search bar, you will come up with a number of different options to change your MAC address.
 >
 > **[1:04](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=64)** A MAC address has several different naming conventions in order to identify that it is indeed the MAC address, all of which mean the same thing.
 >
-> **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=75)** I'm in a Windows virtual machine and I want to show you how you can change your MAC address.
+> **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=75)** I'm in a [[Windows]] virtual machine and I want to show you how you can change your MAC address.
 >
 > **[1:22](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=82)** First, we're going to open a Command Prompt, and we'll pull this over here and I'll get this set up.
 >
@@ -1236,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Windows]] (2), [[Local Area Network (LAN)|Local area network]] (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mac (20), apr (1), dhcp (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
@@ -1244,8 +1218,7 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### macof attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980)
+#### [macof attack](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,7 +1234,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980&t=41)** It's easy to launch a macof attack.
 >
-> **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980&t=43)** I'm in Kali Linux, and I'll show you how I can launch a macof attack by one simple step.
+> **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980&t=43)** I'm in [[Kali Linux]], and I'll show you how I can launch a macof attack by one simple step.
 >
 > **[0:50](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/macof-attack?u=76281980&t=50)** I'll go into a terminal, and I'm simply going to type macof.
 >
@@ -1277,14 +1250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), lan (1), [[Kali Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1)
 > **Env Vars:** mac (5), cam (4), lan (1)
 > **Tools:** terminal (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### CDP/LLDP reconnaissance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980)
+#### [CDP/LLDP reconnaissance](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1302,11 +1274,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=42)** Such as the software version, IP address, platform capabilities, and the native VLAN.
 >
-> **[0:50](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=50)** Attackers can easily use Wireshark or other networking analyzer software to sniff information about devices that use the discovery protocols that are sent across the network in the form of broadcast messages.
+> **[0:50](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=50)** Attackers can easily use [[Wireshark]] or other networking analyzer software to sniff information about devices that use the discovery protocols that are sent across the network in the form of broadcast messages.
 >
 > **[1:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=66)** Because CDP is unauthenticated, an attacker could craft bogus CDP packets to spoof other Cisco devices, or flood the neighbor table and cause a denial of service.
 >
-> **[1:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=80)** If the attacker can get access to the router via Telnet or SNMP, they can use the CDP information to discover the entire topology of your network at Layer 2 and 3, including all IOS levels, router and switch model, types, and IP addressing.
+> **[1:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=80)** If the attacker can get access to the router via Telnet or SNMP, they can use the CDP information to discover the entire topology of your network at Layer 2 and 3, including all IOS levels, router and switch model, types, and [[IP Addressing]].
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/cdp-lldp-reconnaissance?u=76281980&t=101)** The IOS software discovered would allow the attacker to research and determine whether there were any software vulnerabilities specific to that version of code.
 >
@@ -1318,15 +1290,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Wireshark]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[IP Addressing]] (1)
 > **Env Vars:** cdp (4), ios (2), ieee (1), vlan (1), snmp (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980)
+#### [DHCP spoofing](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,9 +1325,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=93)** For DHCP attack prevention there are a few best practices.
 >
-> **[1:38](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=98)** Authorizing DHCP servers in Active Directory, use VLAN access control lists, dynamic ARP inspection, and DHCP snooping.
+> **[1:38](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=98)** Authorizing DHCP servers in [[Active Directory]], use VLAN access control lists, dynamic ARP inspection, and DHCP snooping.
 >
-> **[1:50](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=110)** In a Windows environment active directory authorizes DHCP servers before they can start leasing addresses to clients.
+> **[1:50](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=110)** In a [[Windows]] environment active directory authorizes DHCP servers before they can start leasing addresses to clients.
 >
 > **[1:59](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=119)** A regular access control list resides on a router's interface and is used only for routed packets.
 >
@@ -1376,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), dns (1), traffic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (1)
 > **Env Vars:** dhcp (14), arp (4), vlan (2), dns (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1386,8 +1357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement DHCP snooping
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980)
+#### [Implement DHCP snooping](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,13 +1429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), traffic (4)
 > **Env Vars:** dhcp (31), mac (2), arp (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic ARP inspection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980)
+#### [Dynamic ARP inspection](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=15)** Traffic then goes to the spoofed machine instead of to the gateway.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=20)** I wanted to show you what this type of attack look like in Wireshark.
+> **[0:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=20)** I wanted to show you what this type of attack look like in [[Wireshark]].
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=25)** Now, what I'll do is filter by ARP and I only want to see the replies, so I'll apply a filter to see only the replies.
 >
@@ -1495,13 +1463,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** arp (9), mac (3), dhcp (2)
 > **Versions:** 192.168.47 (1), 47.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement port security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980)
+#### [Implement port security](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1513,7 +1480,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980&t=22)** The default mode is switchport mode dynamic desirable.
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980&t=27)** This mode can pose a security risk as it can fall victim to a VLAN hopping attack where a user spoofs a switch by making an end device act as a trunk port.
+> **[0:27](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980&t=27)** This mode can pose a [[Security Risk]] as it can fall victim to a VLAN hopping attack where a user spoofs a switch by making an end device act as a trunk port.
 >
 > **[0:40](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-port-security?u=76281980&t=40)** The best practice is to make sure all user ports are in access mode and any ports not in use are disabled.
 >
@@ -1557,7 +1524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), traffic (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **Env Vars:** mac (9), vlan (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -1566,8 +1533,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### BPDU guard, root guard, and loop guard
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980)
+#### [BPDU guard, root guard, and loop guard](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1579,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Security]] (1)
 > **Env Vars:** bpdu (6), dhcp (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -1625,18 +1590,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VLAN attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980)
+#### [VLAN attacks](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=0)** - [Instructor] A VLAN, or virtual local area network, removes the physical barrier and treats the host as if they were all part of the same subnet, while logically separating networks within networks.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=0)** - [Instructor] A VLAN, or virtual [[Local Area Network (LAN)|local area network]], removes the physical barrier and treats the host as if they were all part of the same subnet, while logically separating networks within networks.
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=13)** VLANs offer several advantages over traditional LANs.
 >
 > **[0:19](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=19)** By creating smaller broadcast domains and using switches instead of routers improves overall efficiency.
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=27)** VLANs can be used to restrict access and create virtual work groups in isolation.
+> **[0:27](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=27)** VLANs can be used to restrict access and create [[Virtual Work]] groups in isolation.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980&t=35)** We can implement wireless constraints by ensuring a user assigned to a specific VLAN will always connect to that VLAN regardless of their location.
 >
@@ -1676,14 +1640,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Virtual Work]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Virtual Work]] (1)
 > **Env Vars:** vlan (14), vtp (2)
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security implications of a PVLAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-pvlan?u=76281980)
+#### [Security implications of a PVLAN](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-pvlan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,13 +1674,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), traffic (1)
 > **Env Vars:** vlans (11), vlan (9)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security implications of a native VLAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980)
+#### [Security implications of a native VLAN](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1725,7 +1686,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980&t=7)** VLAN 1 is the only VLAN that exists, so this means that all ports are members of VLAN 1 by default.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980&t=17)** The native VLAN can be a security risk.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980&t=17)** The native VLAN can be a [[Security Risk]].
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/security-implications-of-a-native-vlan?u=76281980&t=20)** It isn't tagged by default.
 >
@@ -1767,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **Env Vars:** vlan (18)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
@@ -1779,14 +1740,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=0)** - [Lisa] Thank you for watching.
 >
-> **[0:02](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=2)** In this course I began with an overview of secure routing and switching.
+> **[0:02](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=2)** In this course I began with an overview of secure [[Routing]] and switching.
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=7)** I reviewed the control, data and management plane, along with router and switch security basics.
 >
@@ -1802,7 +1762,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=69)** If you want to learn how to protect yourself against ransomware, check out Learning Ransomware Countermeasures.
 >
-> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=76)** It's well worth your time to check out any course in the Ethical Hacking Series.
+> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=76)** It's well worth your time to check out any course in the [[Ethical Hacking]] Series.
 >
 > **[1:22](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=82)** If you'd like to learn more about Voice Over IP, check out my course, [[Learning Voip And Unified Communications]].
 >
@@ -1814,7 +1774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Routing]] (2), data (1), management (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Ethical Hacking]] (1)
 > **Env Vars:** vlan (4), dhcp (1), arp (1), bpdu (1)
 > **Analogies:** such as (2)
 > **Tools:** command line (1)

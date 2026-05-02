@@ -118,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Stable Diffusion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
+#### [What is Stable Diffusion?](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980&t=7)** In this course, we're going to take a look at the finer details of how to write a good prompt.
 >
-> **[0:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980&t=11)** But in Stable Diffusion, you are not limited to your prompt writing skills to get a good image.
+> **[0:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980&t=11)** But in [[Stable Diffusion]], you are not limited to your prompt writing skills to get a good image.
 >
 > **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980&t=16)** So we'll dig into image-to-image capabilities that let you start with a sketch, a photobash, or another AI rendering and use that as a prompt to get precisely the composition and image details that you want.
 >
@@ -141,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (4), prompt (3), ai (2), web (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4)
 > **Speakers:** - ai (1)
 
 
@@ -149,12 +148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What can you do with Stable Diffusion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
+#### [What can you do with Stable Diffusion?](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=0)** - You are going to learn how to use Stable Diffusion, an AI image generator.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=0)** - You are going to learn how to use [[Stable Diffusion]], an AI image generator.
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=5)** Does this now mean that you will quickly be producing any image that you can imagine to your precise specifications?
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=57)** So why go through it?
 >
-> **[0:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=59)** Because Stable Diffusion is an incredible piece of software and while it's not remotely intelligent, it does do a great simulation of intelligence when it comes to making images.
+> **[0:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=59)** Because Stable Diffusion is an incredible piece of software and while it's not remotely intelligent, it does do a great [[Simulation]] of intelligence when it comes to making images.
 >
 > **[1:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=70)** If you're running on a fast system, then Stable Diffusion can crank out pictures with astonishing speed.
 >
@@ -190,11 +188,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=114)** Even if none of these images are suitable for final use, the ability to crank them out so quickly and to such a customized degree means that you can work with placeholder images that have much more value than what you might be able to access any other way.
 >
-> **[2:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=128)** Character design for a video game or comic book, story boarding for a video production, Stable Diffusion can tackle these tasks.
+> **[2:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=128)** Character design for a video game or comic book, story boarding for a [[Video Production]], Stable Diffusion can tackle these tasks.
 >
 > **[2:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=135)** Maybe one of the best things you can do with Stable Diffusion is communicate better.
 >
-> **[2:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=140)** Perhaps you're an office manager who would like to convey some ideas for a new conference room.
+> **[2:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=140)** Perhaps you're an [[Microsoft Office|office]] manager who would like to convey some ideas for a new conference room.
 >
 > **[2:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980&t=144)** Stable Diffusion allows you to generate high quality visualizations that may not be perfect representations of the conference space you have, but that are close enough to allow you to convey ideas of mood, atmosphere, color treatments, and more.
 >
@@ -216,15 +214,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (14), ai (3), power (1), [[Simulation]] (1), game (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (14), [[Simulation]] (1), [[Video Production]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** hal (1)
 > **Speakers:** - you (1)
 
-#### What's different about Stable Diffusion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980)
+#### [What's different about Stable Diffusion?](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=24)** This AI imaging revolution is different.
 >
-> **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=28)** When digital tools first entered the world of graphic design, photography, audio production, film and video production, they provided digital versions of analog tools that professionals had always used.
+> **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=28)** When digital tools first entered the world of [[Graphic Design]], photography, audio production, film and [[Video Production]], they provided digital versions of analog tools that professionals had always used.
 >
 > **[0:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=40)** These new digital tools were faster, sometimes easier.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=71)** And what makes this a different kind of revolution is that you don't have to have any previous knowledge to get good results from these AI tools.
 >
-> **[1:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=79)** Yes, in this course, we're going to go through instruction on how to drive the Stable Diffusion interface.
+> **[1:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=79)** Yes, in this course, we're going to go through instruction on how to drive the [[Stable Diffusion]] interface.
 >
 > **[1:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=83)** And yes, it helps if you already know what a good image looks like, but these tools also come with aesthetics built in.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=98)** At the time of this shooting, there are three major AI imaging tools available for use.
 >
-> **[1:43](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=103)** DALL-E, Midjourney, and Stable Diffusion.
+> **[1:43](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=103)** [[DALL-E]], [[Midjourney]], and Stable Diffusion.
 >
 > **[1:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=106)** Adobe has announced their Firefly technology and open betas are available.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=123)** And in either case, it can be an image of something that no one has ever seen before.
 >
-> **[2:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=129)** Under the hood, there are differences in the algorithms that are used, but fundamentally they share some common traits.
+> **[2:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=129)** Under the hood, there are differences in the [[Algorithms]] that are used, but fundamentally they share some common traits.
 >
 > **[2:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=135)** They were all trained by analyzing huge quantities of images, and all four have very sophisticated human language processors in them.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=151)** There are some differences.
 >
-> **[2:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=152)** DALL-E and Midjourney both excel at photorealism, but Midjourney is also capable of a particular Midjourney look which skews towards atmospheric fantasy illustration.
+> **[2:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=152)** DALL-E and Midjourney both [[Microsoft Excel|excel]] at photorealism, but Midjourney is also capable of a particular Midjourney look which skews towards atmospheric fantasy illustration.
 >
 > **[2:43](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=163)** By default, Stable Diffusion sits somewhere between photorealism and illustration, but Stable Diffusion also allows you to swap out its core set of trained images, making it possible to give Stable Diffusion new imaging capabilities and entirely different looks.
 >
@@ -304,7 +301,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=224)** Firefly will likely see integration into Adobe's apps and there are already plug-ins and add-ons for integrating Stable Diffusion into Photoshop.
 >
-> **[3:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=233)** What's more, you can get standalone applications for the macOS and iOS that allow you to run Stable Diffusion as standalone apps or you can create your own Stable Diffusion server on a Mac, Windows, or Linux machine.
+> **[3:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=233)** What's more, you can get standalone applications for the macOS and iOS that allow you to run Stable Diffusion as standalone apps or you can create your own Stable Diffusion server on a Mac, [[Windows]], or [[Linux]] machine.
 >
 > **[4:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-different-about-stable-diffusion?u=76281980&t=247)** There are questions of morality around the practice of training data sets off of images that don't belong to you.
 >
@@ -342,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (22), [[Midjourney]] (7), [[DALL-E]] (6), data (6), ai (5)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (22), [[Midjourney]] (7), [[DALL-E]] (6), [[Graphic Design]] (1), [[Video Production]] (1)
 > **Env Vars:** dall (6)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** macos (1), ios (1)
@@ -351,12 +348,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### How can you access Stable Diffusion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980)
+#### [How can you access Stable Diffusion?](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=0)** - As mentioned in the last video Stable Diffusion is open source software.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=0)** - As mentioned in the last video [[Stable Diffusion]] is open source software.
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=5)** One of the practical upshots of that is that there are many different ways that you can access Stable Diffusion.
 >
@@ -368,9 +364,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=30)** In addition to access to the software that site includes a lot of very good tutorial information and background as well as technical details on how Stable Diffusion works.
 >
-> **[0:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=41)** Hugging Face is a name you're probably going to get more familiar with if you dig much deeper into Stable Diffusion.
+> **[0:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=41)** [[Hugging Face]] is a name you're probably going to get more familiar with if you dig much deeper into Stable Diffusion.
 >
-> **[0:47](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=47)** Hugging Face builds itself as a community and data science platform on a journey to advance and democratize AI through open source and open science.
+> **[0:47](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=47)** Hugging Face builds itself as a community and [[Data Science]] platform on a journey to advance and democratize AI through open source and open science.
 >
 > **[0:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=59)** Depending on how far you go, you may find yourself downloading a lot of code and models and libraries from Hugging Face.
 >
@@ -380,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=74)** They offer free access with some limitations.
 >
-> **[1:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=77)** You'll see ads and you won't be running on their fastest hardware.
+> **[1:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=77)** You'll see ads and you won't be running on their fastest [[Hardware]].
 >
 > **[1:21](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/how-can-you-access-stable-diffusion?u=76281980&t=81)** For a monthly fee, you can gain access to more features at various tiers.
 >
@@ -408,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (12), web (3), [[Hugging Face]] (3), data (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (12), [[Hugging Face]] (3), [[Hardware]] (2), [[Data Science]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **URLs:** [stablediffusionweb.com](https://stablediffusionweb.com) (2), [allthingsai.com](https://allthingsai.com) (1)
 > **CLI Commands:** node (1), find (1)
@@ -417,12 +413,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
 
-#### Installing Stable Diffusion locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980)
+#### [Installing Stable Diffusion locally](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=0)** - [Instructor] Installing Stable Diffusion on your own hardware offers a number of advantages, the most significant of which is speed.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=0)** - [Instructor] Installing [[Stable Diffusion]] on your own [[Hardware]] offers a number of advantages, the most significant of which is speed.
 >
 > **[0:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=6)** If you've got a fast video card then you can get extremely quick rendering times.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=57)** A distribution called AUTOMATIC1111 is the most popular and most widely supported.
 >
-> **[1:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=62)** It's available from a GitHub repository and you can find instructions there for installation or you can use the installation guide that I've written, which is available in the course notes or you can find all sorts of guides online.
+> **[1:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=62)** It's available from a [[GitHub]] repository and you can find instructions there for installation or you can use the installation guide that I've written, which is available in the course notes or you can find all sorts of guides online.
 >
 > **[1:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=75)** Installation does require the use of the command line, and it requires you to install a number of dependencies.
 >
@@ -470,9 +465,9 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=162)** All configuration and management is implemented through a web-based interface.
 >
-> **[2:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=166)** I have included PDFs with installation instructions for both AUTOMATIC1111 and Invoke AI on either the Mac or Windows.
+> **[2:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=166)** I have included PDFs with installation instructions for both AUTOMATIC1111 and Invoke AI on either the Mac or [[Windows]].
 >
-> **[2:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=174)** If you're a Linux user, you can also install both of these systems.
+> **[2:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=174)** If you're a [[Linux]] user, you can also install both of these systems.
 >
 > **[2:58](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=178)** Since the Mac OS is basically Unix, you should be able to follow the Mac's installation instructions with no problem.
 >
@@ -504,7 +499,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=282)** There's another option for running AUTOMATIC1111, and it's ideal if you don't have a fast video card.
 >
-> **[4:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=288)** Google Colab is a Google service that allows you to run Python applications on computers hosted by Google.
+> **[4:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=288)** [[Google]] Colab is a Google service that allows you to run [[Python (Programming Language)|Python]] applications on computers hosted by Google.
 >
 > **[4:58](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=298)** A lot of work has been done to make it very simple to get AUTOMATIC1111 running in what's called a Colab notebook.
 >
@@ -530,11 +525,11 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=387)** From time to time, you are going to see out in the world what profess to be new AI imaging tools but which, upon closer examination, you can recognize as just being re-skinned versions of Stable Diffusion.
 >
-> **[6:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=400)** Being able to recognize that will help you better understand if particular products are things that you actually want to investigate.
+> **[6:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-stable-diffusion-locally?u=76281980&t=400)** Being able to recognize that will help you better understand if particular [[Microsoft Products|products]] are things that you actually want to investigate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (12), ai (7), [[Google]] (6), [[Hardware]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (12), [[Google]] (6), [[Hardware]] (4), [[Windows]] (4), [[GitHub]] (1)
 > **Env Vars:** automatic1111 (12), lan (1)
 > **Tools:** colab (6), github (1), command line (1), terminal (1)
 > **CLI Commands:** find (5), make (2), python (1)
@@ -543,12 +538,11 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** in the last (1)
 
-#### Using Stable Diffusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980)
+#### [Using Stable Diffusion](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=0)** - We're finally ready to actually have Stable Diffusion make us a picture.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=0)** - We're finally ready to actually have [[Stable Diffusion]] make us a picture.
 >
 > **[0:04](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=4)** To do this, you're going to need access to Stable Diffusion.
 >
@@ -568,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=36)** Over on [stablediffusionweb.com](https://stablediffusionweb.com), I get a prompt box, the area where my image will appear, some example prompts, and an Advanced Options button that has some of the same things as mage.space but also some different things.
 >
-> **[0:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=50)** Because Stable Diffusion is running in a web browser, it's easy for these sites to customize the user experience to exactly what they want.
+> **[0:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=50)** Because Stable Diffusion is running in a web browser, it's easy for these sites to customize the [[User Experience (UX)|user experience]] to exactly what they want.
 >
 > **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=57)** And some sites opt to shield the user from too many options.
 >
@@ -578,7 +572,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=69)** As you can see, it's still in a web browser.
 >
-> **[1:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=71)** This is running on a Windows computer, which is hosting a URL that I can get to from anywhere.
+> **[1:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=71)** This is running on a [[Windows]] computer, which is hosting a URL that I can get to from anywhere.
 >
 > **[1:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=78)** This is what I'm going to be using throughout this course.
 >
@@ -606,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=155)** We're specifying the media we want.
 >
-> **[2:38](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=158)** The rest is pretty simple.
+> **[2:38](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=158)** The [[Representational State Transfer (REST)|rest]] is pretty simple.
 >
 > **[2:39](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-stable-diffusion?u=76281980&t=159)** Let's hit Generate and see what we get.
 >
@@ -648,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), [[Stable Diffusion]] (10), hit (4), web (2), ai (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (10), [[User Experience (UX)|User experience]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -662,20 +656,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does a prompt do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
+#### [What does a prompt do?](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=1)** - [Instructor] If you've played with the ChatGPT bot, then you know that there are very good AI language models out there.
+> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=1)** - [Instructor] If you've played with the [[ChatGPT]] bot, then you know that there are very good AI language models out there.
 >
 > **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=8)** They don't actually know any language.
 >
-> **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=9)** They're just statistical models that are very good at predicting what the next word should be in any given sentence.
+> **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=9)** They're just statistical models that are very good at predicting what the next [[Microsoft Word|word]] should be in any given sentence.
 >
 > **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=16)** There are also a critical part of an image generation tool because that prompt that you write in an image generator has to be interpreted somehow.
 >
-> **[0:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=23)** Like all machine learning tools, Stable Diffusion was trained on a dataset.
+> **[0:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=23)** Like all machine learning tools, [[Stable Diffusion]] was trained on a dataset.
 >
 > **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=28)** Specifically, it was trained on a dataset acquired from a company called LAION.
 >
@@ -705,7 +698,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=87)** We're going to come back to this in a minute.
 >
-> **[1:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=90)** An AI language model converts text into numbers, a process called tokenizing, because different bits of text end up represented by specific numeric tokens.
+> **[1:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=90)** An AI language model converts text into numbers, a process called tokenizing, because different bits of text end up represented by specific numeric [[Tokens]].
 >
 > **[1:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980&t=100)** I'm not talking about ASCII.
 >
@@ -751,18 +744,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[Tokens]] (7), data (5), prompt (3), ai (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[Tokens]] (7), [[ChatGPT]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** laion (1), ascii (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stable Diffusion seeds
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-seeds?u=76281980)
+#### [Stable Diffusion seeds](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-seeds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-seeds?u=76281980&t=0)** - [Instructor] As you saw in the last video, Stable Diffusion generates images by using numbers associated with text to identify specific data that can be used to diffuse an image out of a pattern of noise.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-seeds?u=76281980&t=0)** - [Instructor] As you saw in the last video, [[Stable Diffusion]] generates images by using numbers associated with text to identify specific data that can be used to diffuse an image out of a pattern of noise.
 >
 > **[0:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-seeds?u=76281980&t=13)** So one of the things that Stable Diffusion has to do when it generates an image is to create an initial field of noise.
 >
@@ -796,16 +788,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Stable Diffusion]] (3), data (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3)
 > **Cross-References:** as you saw (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stable Diffusion batches and pixel counts
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-batches-and-pixel-counts?u=76281980)
+#### [Stable Diffusion batches and pixel counts](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-batches-and-pixel-counts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-batches-and-pixel-counts?u=76281980&t=0)** - [Instructor] Before we dive into lots of image making, I want to say that if you're someone who has a tendency towards perfectionism or if you're someone who strives for great efficiency, then you might find yourself a little uncomfortable working with Stable Diffusion or any AI image generator.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-batches-and-pixel-counts?u=76281980&t=0)** - [Instructor] Before we dive into lots of image making, I want to say that if you're someone who has a tendency towards perfectionism or if you're someone who strives for great efficiency, then you might find yourself a little uncomfortable working with [[Stable Diffusion]] or any AI image generator.
 >
 > **[0:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/stable-diffusion-batches-and-pixel-counts?u=76281980&t=14)** The fact is there's a huge amount of trial and error and luck involved in using these systems.
 >
@@ -877,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (7), prompt (3), hit (3), ai (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (7)
 > **CLI Commands:** find (4)
 > **Env Vars:** ram (2), vram (1)
 > **URLs:** [calculateaspectratio.com](https://calculateaspectratio.com) (1)
@@ -886,8 +877,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980)
+#### [Prompt basics](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=13)** This is the module that allows you to enter a prompt and get an image.
 >
-> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=18)** If you're working in mage.space, [invoke.ai](https://invoke.ai), [playgroundai.com](https://playgroundai.com), or many other Stable Diffusion instances, you probably won't have this tabbed interface but you should have an obvious prompt box.
+> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=18)** If you're working in mage.space, [invoke.ai](https://invoke.ai), [playgroundai.com](https://playgroundai.com), or many other [[Stable Diffusion]] instances, you probably won't have this tabbed interface but you should have an obvious prompt box.
 >
 > **[0:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=32)** Also, Stable Diffusion allows you to change the data model or checkpoint that it uses when it's rendering an image, this is the data that it's searching through.
 >
@@ -917,7 +907,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=83)** That said, it's not going to easily fall into rendering lots of naked people or something, so I wouldn't worry too much about this.
 >
-> **[1:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=91)** For the rest of this chapter, we're going to be working with the 1.5 version of the default Stable Diffusion model which was based on the 1.4 model.
+> **[1:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=91)** For the [[Representational State Transfer (REST)|rest]] of this chapter, we're going to be working with the 1.5 version of the default Stable Diffusion model which was based on the 1.4 model.
 >
 > **[1:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=100)** Yours might have a different name but there should be 1.5 somewhere in the title.
 >
@@ -953,7 +943,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=186)** So let's say we want to start with an image of the real Stonehenge to establish some heritage and a sense of history with our product.
 >
-> **[3:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=195)** So I'm running Stable Diffusion on my Windows server.
+> **[3:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=195)** So I'm running Stable Diffusion on my [[Windows Server]].
 >
 > **[3:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=197)** I am accessing it here from my Macintosh, just in a normal browser window.
 >
@@ -1025,7 +1015,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=371)** In fact, most of the time it's better if you don't.
 >
-> **[6:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=373)** It's a better use of the limited number of tokens that you have.
+> **[6:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=373)** It's a better use of the limited number of [[Tokens]] that you have.
 >
 > **[6:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=376)** So I'm not going to try to write a description of the drama that I want, I'm just going to start adding some dramatic components.
 >
@@ -1155,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (15), prompt (12), data (3), product (3), business (3)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (15), [[Representational State Transfer (REST)|Rest]] (2), [[Windows Server]] (1), [[Tokens]] (1)
 > **Versions:** 1.4 (5), 1.5 (5), 2.0 (2)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (4), find (1)
@@ -1164,16 +1154,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Warnings:** be careful (1)
 
-#### Questions to answer when writing prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980)
+#### [Questions to answer when writing prompts](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=0)** - [Narrator] Working with an AI image generator can be a little weird because you set out to make an image and immediately find yourself facing a writing problem, namely the problem of trying to think of words that describe the scene that you want.
 >
-> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=12)** If you're someone who spends more time image making than word crafting, this can be a frustrating barrier.
+> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=12)** If you're someone who spends more time image making than [[Microsoft Word|word]] crafting, this can be a frustrating barrier.
 >
-> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=18)** Making all of this more difficult is the fact that the creators of Stable Diffusion have never published any documentation.
+> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=18)** Making all of this more difficult is the fact that the creators of [[Stable Diffusion]] have never published any documentation.
 >
 > **[0:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=23)** There is no list of keywords that were in the training set, and there are a lot of possible words out there in the world.
 >
@@ -1217,7 +1206,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=110)** If you were picturing a low angle, looking up at a subject, writing that specific thing into your prompt probably won't get it for you.
 >
-> **[1:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=117)** Don't spend too much time trying to compose your shot and set your camera angle using the prompt.
+> **[1:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=117)** Don't spend too much time trying to [[Jetpack Compose|compose]] your shot and set your camera angle using the prompt.
 >
 > **[2:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/questions-to-answer-when-writing-prompts?u=76281980&t=121)** It's very limited, and there are many other tools that give you precise control over composition, camera angle and framing.
 >
@@ -1297,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), [[Stable Diffusion]] (9), [[Microsoft Word|Word]] (3), product (2), web (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (9), [[Microsoft Word|Word]] (3), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
@@ -1306,8 +1295,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [narrator] (1)
 
-#### PNG information and saving
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980)
+#### [PNG information and saving](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,13 +1329,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=71)** So having this stuff in here means you don't have to be keeping detailed notes somewhere else.
 >
-> **[1:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=77)** A curious thing about this, if I drop this into Bridge or Photoshop or some other place that normally allows me to read metadata, none of this stuff is there.
+> **[1:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=77)** A curious thing about this, if I drop this into Bridge or Photoshop or some other place that normally allows me to read [[Metadata]], none of this stuff is there.
 >
 > **[1:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=85)** It's not in the, it's not in the IPTC data or anything.
 >
 > **[1:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=88)** I don't know where it's hidden away but you can get to it through this PNG info tab.
 >
-> **[1:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=93)** If you are using a different stable diffusion client, you're going to want to look around for something like this because it's really handy as you're iterating.
+> **[1:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=93)** If you are using a different [[Stable Diffusion]] client, you're going to want to look around for something like this because it's really handy as you're iterating.
 >
 > **[1:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=102)** But also just as a way to learn.
 >
@@ -1369,7 +1357,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=149)** This was its way to get around the face problem, which is clever, but really not what I was looking for.
 >
-> **[2:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=156)** I also experimented with adding the word closeup at the start of the prompt, which helped some, it gave me fewer really long shots, but I also ended up with a lot of shots of Stonehenge by itself.
+> **[2:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=156)** I also experimented with adding the [[Microsoft Word|word]] closeup at the start of the prompt, which helped some, it gave me fewer really long shots, but I also ended up with a lot of shots of Stonehenge by itself.
 >
 > **[2:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=168)** Some of them were quite nice, so they might be useful but obviously they don't fit my goal right now.
 >
@@ -1519,7 +1507,7 @@ created: 2026-05-02
 >
 > **[7:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=469)** During these prompt writing lessons, I want to encourage you to spend time playing on your own.
 >
-> **[7:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=473)** Since there's not a strict procedural process to prompt writing, you need to start working up your own experience and your own collections of phrases and tokens that yield things you like, both for regular prompts and negative prompts.
+> **[7:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=473)** Since there's not a strict procedural process to prompt writing, you need to start working up your own experience and your own collections of phrases and [[Tokens]] that yield things you like, both for regular prompts and negative prompts.
 >
 > **[8:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/png-information-and-saving?u=76281980&t=486)** Knowing of course that these things won't always yield what you like.
 >
@@ -1533,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), ai (4), [[Stable Diffusion]] (2), feature (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Metadata]] (1), [[Microsoft Word|Word]] (1), [[Tokens]] (1)
 > **Env Vars:** automatic1111 (4), png (4), cfg (1), iptc (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1542,14 +1530,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** you should never (1)
 
-#### Using CFG scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980)
+#### [Using CFG scale](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=0)** - [Instructor] Language is a slippery thing.
 >
-> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=1)** Different people can interpret the same sentence in multiple ways, and the AI in stable diffusion is no different.
+> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=1)** Different people can interpret the same sentence in multiple ways, and the AI in [[Stable Diffusion]] is no different.
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=7)** However, unlike that annoying coworker who always misinterprets you, stable diffusion allows you to specify how freely it should interpret your prompt.
 >
@@ -1575,7 +1562,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=74)** They describe it as how much to prioritize prompt over creativity.
 >
-> **[1:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=78)** I'm not crazy about this definition, because the AI is not actually creative, but maybe the best way to think about it is just this word guidance, which is not shown in AUTOMATIC1111, but CFG, Classifier Free Guidance Scale.
+> **[1:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=78)** I'm not crazy about this definition, because the AI is not actually creative, but maybe the best way to think about it is just this [[Microsoft Word|word]] guidance, which is not shown in AUTOMATIC1111, but CFG, Classifier Free Guidance Scale.
 >
 > **[1:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-cfg-scale?u=76281980&t=93)** If you mouse over it, it shows that to you.
 >
@@ -1701,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), ai (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** cfg (7), automatic1111 (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1710,8 +1697,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt weighting
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980)
+#### [Prompt weighting](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1717,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=41)** Woman in business casual clothing standing in front of Stonehenge.
 >
-> **[0:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=44)** That needs to come before hands on hips, but I can still lend weight to a particular token or set of tokens in my prompts so that Stable Diffusion will add more emphasis to it and possibly stand a better chance of putting it into my image.
+> **[0:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=44)** That needs to come before hands on hips, but I can still lend weight to a particular token or set of [[Tokens]] in my prompts so that [[Stable Diffusion]] will add more emphasis to it and possibly stand a better chance of putting it into my image.
 >
 > **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=57)** The syntax for that varies a lot, depending on which instance of stable diffusion you're using.
 >
@@ -1739,7 +1725,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=67)** And on the Mac, hold down the command key.
 >
-> **[1:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=70)** on Windows, hold down control, and just press the up and down arrow keys.
+> **[1:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=70)** on [[Windows]], hold down control, and just press the up and down arrow keys.
 >
 > **[1:15](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-weighting?u=76281980&t=75)** So you can see I'm adding more weight in in tenths of a unit increments.
 >
@@ -1871,7 +1857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Stable Diffusion]] (6), [[Tokens]] (2), business (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (6), [[Tokens]] (2), [[Windows]] (1)
 > **Versions:** 1.5 (2), 1.3 (1), 1.2 (1), 0.1 (1), 0.2 (1)
 > **Env Vars:** automatic1111 (3), cfg (2)
 > **CLI Commands:** make (3), rails (1)
@@ -1880,12 +1866,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [presenter] (1)
 
-#### Writing prompts for series 2 models
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980)
+#### [Writing prompts for series 2 models](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=1)** - [Instructor] In Stable Diffusion terms, a model is simply the set of trained data that serves as the basis for all imaging.
+> **[0:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=1)** - [Instructor] In [[Stable Diffusion]] terms, a model is simply the set of trained data that serves as the basis for all imaging.
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=7)** As I mentioned earlier Stable Diffusion models fall into two categories, version 1.X models and version 2.X models.
 >
@@ -1987,7 +1972,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=233)** There are keywords you can use that will kind of trick it into more photorealism.
 >
-> **[3:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=237)** If you find a 2.1 model that you want to use, I think it's really worth digging through a prompt engineering site and looking at what people are using for prompts.
+> **[3:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=237)** If you find a 2.1 model that you want to use, I think it's really worth digging through a [[Prompt Engineering]] site and looking at what people are using for prompts.
 >
 > **[4:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=247)** That's going to be the best way to find the keywords that yield particular results.
 >
@@ -1997,7 +1982,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=266)** Not a big change.
 >
-> **[4:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=267)** So I'm going to be sticking with one series models for the rest of this course.
+> **[4:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=267)** So I'm going to be sticking with one series models for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[4:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=273)** If you find a two series model that you really want to use because it has a feature that you like, it's going to take some study.
 >
@@ -2015,7 +2000,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=306)** So if you're working in an education environment, 2.0 models or two series models might be the best choice simply for that reason.
 >
-> **[5:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=313)** 2.0 models did not respond to celebrity tokens as well as one series models did.
+> **[5:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=313)** 2.0 models did not respond to celebrity [[Tokens]] as well as one series models did.
 >
 > **[5:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/writing-prompts-for-series-2-models?u=76281980&t=318)** 2.1 changed this a little, but if you want to render images of celebrities you might be better off using a one series model.
 >
@@ -2049,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), data (2), hit (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Prompt Engineering]] (1), [[Tokens]] (1)
 > **Versions:** 2.1 (9), 2.0 (8), 1.5 (7), version 2 (4), 1.4 (3)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2057,8 +2042,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt libraries and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980)
+#### [Prompt libraries and styles](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,7 +2052,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=7)** Where do you start?
 >
-> **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=8)** And by the way, Stable Diffusion does need to be in English.
+> **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=8)** And by the way, [[Stable Diffusion]] does need to be in English.
 >
 > **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=12)** The original dataset used English text pairings so that's how the model was trained.
 >
@@ -2080,7 +2064,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=35)** As for learning how Stable Diffusion responds to different ways of describing things you don't have to wallow around in the prompt box all on your own.
 >
-> **[0:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=42)** There are a number of sites out there that will help you with prompt engineering as it is being called in some circles.
+> **[0:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=42)** There are a number of sites out there that will help you with [[Prompt Engineering]] as it is being called in some circles.
 >
 > **[0:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-libraries-and-styles?u=76281980&t=48)** Lexia.art is a great place to start.
 >
@@ -2158,7 +2142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), [[Stable Diffusion]] (9), [[Search]] (4), hit (3), ai (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (9), [[Prompt Engineering]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (1), for example (1), just like (1)
@@ -2167,12 +2151,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [presenter] (1)
 
-#### Interrogating an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980)
+#### [Interrogating an image](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=0)** - [Narrator] Stable Diffusion is capable of taking text and turning it into an image, so it probably shouldn't surprise you that it can take an image and derive some text from it.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=0)** - [Narrator] [[Stable Diffusion]] is capable of taking text and turning it into an image, so it probably shouldn't surprise you that it can take an image and derive some text from it.
 >
 > **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=12)** Interrogating an image to see how Stable Diffusion understands it, what it recognizes in it, is a good way to learn a little bit more about prompting.
 >
@@ -2194,7 +2177,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=64)** Alan Davis, wide angle lens, a character portrait, precisionism."
 >
-> **[1:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=70)** That's not a word I've heard before.
+> **[1:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=70)** That's not a [[Microsoft Word|word]] I've heard before.
 >
 > **[1:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=72)** I didn't know who Alan Davis was, so I looked him up.
 >
@@ -2202,7 +2185,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=76)** Because I look so super heroic here, I think that's probably why it picked up on that.
 >
-> **[1:21](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=81)** So if these are the things that it notices, interrogating more images in this way may be a way for you to find some tokens and keywords that actually are effective for getting certain looks.
+> **[1:21](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=81)** So if these are the things that it notices, interrogating more images in this way may be a way for you to find some [[Tokens]] and keywords that actually are effective for getting certain looks.
 >
 > **[1:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/interrogating-an-image?u=76281980&t=91)** Interrogate DeepBooru yields a different set of words.
 >
@@ -2234,23 +2217,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Tokens]] (2), prompt (2), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Tokens]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** clip (5), automatic1111 (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Artist names and rendering styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980)
+#### [Artist names and rendering styles](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=0)** - There are currently a few prototype methods for creating animation in Stable Diffusion.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=0)** - There are currently a few prototype methods for creating animation in [[Stable Diffusion]].
 >
 > **[0:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=6)** More accurately, what you're seeing here is a form of rotoscoping using Stable Diffusion.
 >
-> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=10)** Video production is beyond the scope of this course, but keep an eye out for a course devoted to using Stable Diffusion for animation and 3D.
+> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=10)** [[Video Production]] is beyond the scope of this course, but keep an eye out for a course devoted to using Stable Diffusion for animation and 3D.
 >
 > **[0:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/artist-names-and-rendering-styles?u=76281980&t=19)** If you look at other prompt writing guides or at sample prompts that are out there on the web, you're going to see something that I haven't mentioned yet, and that is the practice of including a specific artist name in your prompt.
 >
@@ -2308,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Stable Diffusion]] (4), prompt (3), [[Video Production]] (1), web (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Video Production]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
@@ -2319,8 +2301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sampling and steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
+#### [Sampling and steps](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2356,7 +2337,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=53)** Instead of saying a woman in business casual clothing standing in front of Stonehenge, pulling this out to a separate thing saying Stonehenge in the background is giving me different results.
 >
-> **[1:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=62)** For one thing, it's taking the word standing out and if I have standing in there, Stable Diffusion wants to include feet and legs and so it was getting harder to get a closeup.
+> **[1:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=62)** For one thing, it's taking the [[Microsoft Word|word]] standing out and if I have standing in there, [[Stable Diffusion]] wants to include feet and legs and so it was getting harder to get a closeup.
 >
 > **[1:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=71)** That's not always true.
 >
@@ -2422,7 +2403,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=209)** The higher this sampling steps number is, the more you're going to be waiting.
 >
-> **[3:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=213)** So if you're on slow hardware you really don't want to be cranking up the steps.
+> **[3:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=213)** So if you're on slow [[Hardware]] you really don't want to be cranking up the steps.
 >
 > **[3:37](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=217)** This is why it's nice to figure out what are the least number of steps that you need to get an image that you like.
 >
@@ -2446,7 +2427,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=269)** We haven't talked about samplers yet.
 >
-> **[4:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=272)** It turns out there are many different algorithms that Stable Diffusion can use for removing noise from that initial noise field that it starts with.
+> **[4:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=272)** It turns out there are many different [[Algorithms]] that Stable Diffusion can use for removing noise from that initial noise field that it starts with.
 >
 > **[4:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980&t=280)** These are called sampling methods and most Stable Diffusion instances provide you with a choice of samplers.
 >
@@ -2522,7 +2503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), [[Stable Diffusion]] (7), business (2), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (7), [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** ddim (3), automatic1111 (1), plms (1)
 > **Cross-References:** we discussed (1), go back to (1), coming up (1)
@@ -2531,12 +2512,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic iterating
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980)
+#### [Automatic iterating](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=0)** - [Instructor] Hopefully by now you've seen that the key to getting anywhere with Stable Diffusion is iteration, trying lots of things.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=0)** - [Instructor] Hopefully by now you've seen that the key to getting anywhere with [[Stable Diffusion]] is iteration, trying lots of things.
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=7)** And trying lots of variations of lots of things.
 >
@@ -2578,7 +2558,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=106)** If you're a photographer, you may know the term bokeh.
 >
-> **[1:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=108)** Some people pronounce it bo-kay, it's a Japanese word that is used to describe the quality of unfocused areas in an image.
+> **[1:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=108)** Some people pronounce it bo-kay, it's a Japanese [[Microsoft Word|word]] that is used to describe the quality of unfocused areas in an image.
 >
 > **[1:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/automatic-iterating?u=76281980&t=116)** It usually equates to shallow depth of field, so I'm hoping that will skew the renderer towards shallow depth of field.
 >
@@ -2732,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (17), [[Stable Diffusion]] (3), business (3), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** automatic1111 (5), cfg (5), url (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2740,12 +2720,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing SD models
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980)
+#### [Changing SD models](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=0)** - [Instructor] One of Stable Diffusion's advantages over other AI imaging systems like Midjourney and DALL-E is that you can change its underlying data model.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=0)** - [Instructor] One of [[Stable Diffusion]]'s advantages over other AI imaging systems like [[Midjourney]] and [[DALL-E]] is that you can change its underlying data model.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=9)** The data model is everything that it learned during its training.
 >
@@ -2775,9 +2754,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=80)** The first thing you got to do is find one.
 >
-> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=82)** [HuggingFace.co](https://HuggingFace.co) is a good place to start.
+> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=82)** [[[Hugging Face|HuggingFace]].co](https://HuggingFace.co) is a good place to start.
 >
-> **[1:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=86)** Hugging Face is just a good Stable Diffusion resource in general, if you click here on the Models tab, you'll get a long list of possible models.
+> **[1:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=86)** [[Hugging Face]] is just a good Stable Diffusion resource in general, if you click here on the Models tab, you'll get a long list of possible models.
 >
 > **[1:35](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=95)** It's not the most visual site to browse, but still don't forget about this as a resource.
 >
@@ -2927,7 +2906,7 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=479)** So I'll just replace that here.
 >
-> **[8:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=483)** Papercut, one word.
+> **[8:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=483)** Papercut, one [[Microsoft Word|word]].
 >
 > **[8:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=486)** Okay, we kind of lost Stonehenge.
 >
@@ -2963,7 +2942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (8), prompt (6), data (4), ai (3), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[Midjourney]] (1), [[DALL-E]] (1), [[Hugging Face|Huggingface]] (1), [[Hugging Face]] (1)
 > **Definitions:** is a  (7), is an  (2)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** nsfw (3), dall (1), ckpt (1)
@@ -2972,12 +2951,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), go to (1), scroll down (1)
 > **URLs:** [huggingface.co](https://huggingface.co) (1), [c-i-v-i-t.ai](https://c-i-v-i-t.ai) (1)
 
-#### Using LoRA models
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980)
+#### [Using LoRA models](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=0)** - [Instructor] We've seen how you can install new models into Stable Diffusion, and we've seen that you can find those models on sites like Hugging Face or Civitai.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=0)** - [Instructor] We've seen how you can install new models into [[Stable Diffusion]], and we've seen that you can find those models on sites like [[Hugging Face]] or Civitai.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=9)** The models we've been looking at are entire data sets that Stable Diffusion uses.
 >
@@ -3035,7 +3013,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=131)** LoRA models can be really tiny.
 >
-> **[2:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=134)** From the page for this model, I see that there is a trigger word called Irene1.
+> **[2:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=134)** From the page for this model, I see that there is a trigger [[Microsoft Word|word]] called Irene1.
 >
 > **[2:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-lora-models?u=76281980&t=138)** That's how I will get her to appear in my prompt.
 >
@@ -3231,7 +3209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (5), [[Microsoft Word|Word]] (5), business (5), ai (3), data (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (5), [[Microsoft Word|Word]] (5), [[Hugging Face]] (1)
 > **Versions:** version 1 (2), 0.6 (2), 4.1 (1), 4.27 (1), 0.8 (1)
 > **Definitions:** is a  (3), is an  (2), stands for (1)
 > **CLI Commands:** find (4), make (1)
@@ -3240,14 +3218,13 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **UI Navigation:** click on (1)
 
-#### Using embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980)
+#### [Using embeddings](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980&t=0)** - [Instructor] We've seen custom checkpoints, we've seen LoRA models.
 >
-> **[0:04](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980&t=4)** There is a third way to introduce new styles and content into Stable Diffusion, and that is also available up here on CivitAI or Hugging Face.
+> **[0:04](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980&t=4)** There is a third way to introduce new styles and content into [[Stable Diffusion]], and that is also available up here on CivitAI or [[Hugging Face]].
 >
 > **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-embeddings?u=76281980&t=16)** If I go to the filter menu here and select Textual Inversion.
 >
@@ -3367,7 +3344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (3), business (3), [[Hugging Face]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Hugging Face]] (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.7 (1)
@@ -3375,12 +3352,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upscaling SD images
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980)
+#### [Upscaling SD images](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=0)** - [Instructor] We've already discussed how Stable Diffusion's rendering sizes are pretty small by any modern standard.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=0)** - [Instructor] We've already discussed how [[Stable Diffusion]]'s rendering sizes are pretty small by any modern standard.
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=5)** Even if you don't intend to print, 512 by 512 is still a low pixel count even for phone viewing.
 >
@@ -3466,7 +3442,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=199)** I have two upscalers that I can run.
 >
-> **[3:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=202)** Both of these menus provide the same set of algorithms.
+> **[3:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=202)** Both of these menus provide the same set of [[Algorithms]].
 >
 > **[3:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=206)** The idea is that I can run two different algorithms and then composite them together or actually Automatic 1111 will do that for me.
 >
@@ -3612,7 +3588,7 @@ created: 2026-05-02
 >
 > **[8:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=534)** It uploads it, you can download the result.
 >
-> **[8:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=537)** Another well regarded one which I have not tried, is SuperRes Diffusion which runs in a Google collab notebook, and there are many other options out there.
+> **[8:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=537)** Another well regarded one which I have not tried, is SuperRes Diffusion which runs in a [[Google]] collab notebook, and there are many other options out there.
 >
 > **[9:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/upscaling-sd-images?u=76281980&t=545)** So if you don't like your upscaling tools, if you don't have them, if you don't have access to upscaling tools, then there are plenty of free ones out there that will do a fine job of resizing your images.
 >
@@ -3620,7 +3596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (7), ai (4), hit (4), data (4), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (7), [[Algorithms]] (3), [[Google]] (1)
 > **Env Vars:** esrgan4x (1), jpeg (1), png (1), resrgan (1), ldsr (1)
 > **Definitions:** is a  (4), stands for (1)
 > **UI Navigation:** switch to (1), go to (1)
@@ -3629,14 +3605,13 @@ created: 2026-05-02
 > **URLs:** [replicate.com](https://replicate.com) (1)
 > **Versions:** 6.6 (1)
 
-#### Settings and extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980)
+#### [Settings and extensions](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=0)** - [Instructor] This movie is mostly going to only be immediately useful to those of you who are running AUTOMATIC1111 on your own either on your own hardware or on a cloud service like Google Colab or RunPods or Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=0)** - [Instructor] This movie is mostly going to only be immediately useful to those of you who are running AUTOMATIC1111 on your own either on your own [[Hardware]] or on a cloud service like [[Google]] Colab or RunPods or [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
-> **[0:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=14)** However, if you are using Stable Diffusion through an online service like Mage.Space or any of the others that we've talked about, there's still a lot for you to learn here, because what we're going to talk about is a way that you can enable additional functionality.
+> **[0:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=14)** However, if you are using [[Stable Diffusion]] through an online service like Mage.Space or any of the others that we've talked about, there's still a lot for you to learn here, because what we're going to talk about is a way that you can enable additional functionality.
 >
 > **[0:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=29)** So you might want to watch to get an idea of what additional functionality is out there for Stable Diffusion, because you might find you want to go look for a different service that offers one of these extensions that I'm going to talk about.
 >
@@ -3660,7 +3635,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=74)** By default, it is set to always save all generated images in PNG format and it has a default image file name pattern.
 >
-> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=82)** Here in the Stable Diffusion documentation on GitHub, you can find full documentations for how to use this field.
+> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=82)** Here in the Stable Diffusion documentation on [[GitHub]], you can find full documentations for how to use this field.
 >
 > **[1:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=89)** I'll put this link in the course notes.
 >
@@ -3686,7 +3661,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=150)** By default, Stable Diffusion saves text information about generation parameters as chunks within PNG files.
 >
-> **[2:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=156)** This is the metadata that we've been looking at with PNG info in AUTOMATIC1111.
+> **[2:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=156)** This is the [[Metadata]] that we've been looking at with PNG info in AUTOMATIC1111.
 >
 > **[2:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=162)** You can have it create a text file, a little sidecar file, for every image with the parameters stored in there.
 >
@@ -3750,7 +3725,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=344)** I'm going to grab the Find command in my browser.
 >
-> **[5:47](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=347)** I'm using Safari on the Mac, so that's CMD + F, I think that's true for most browsers, on Windows that would be CTRL + F.
+> **[5:47](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=347)** I'm using Safari on the Mac, so that's CMD + F, I think that's true for most browsers, on [[Windows]] that would be CTRL + F.
 >
 > **[5:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=353)** And I'm going to type aspect, and here we go.
 >
@@ -3822,11 +3797,11 @@ created: 2026-05-02
 >
 > **[8:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=526)** By the way, AUTOMATIC1111 also receives a lot of updates.
 >
-> **[8:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=530)** On your Windows server, you can check for them by going to your Stable Diffusion server.
+> **[8:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=530)** On your [[Windows Server]], you can check for them by going to your Stable Diffusion server.
 >
 > **[8:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=536)** Clicking up here in the navigation bar, typing CMD, hitting Return, that gets me a command line that is already set to the path of my AUTOMATIC1111 installation.
 >
-> **[9:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=547)** And here I just type git pull, hit Return, and it will check for an update.
+> **[9:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=547)** And here I just type [[Git]] pull, hit Return, and it will check for an update.
 >
 > **[9:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/settings-and-extensions?u=76281980&t=553)** If it's there, it will install it.
 >
@@ -3834,7 +3809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (15), hit (8), [[GitHub]] (3), [[Google]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (15), [[GitHub]] (3), [[Google]] (2), [[Hardware]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** automatic1111 (8), url (4), png (3), cmd (2), ctrl (1)
 > **CLI Commands:** find (8), make (2), git (1)
 > **Prerequisites:** install (8), configure (1)
@@ -3848,12 +3823,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### img2img basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
+#### [img2img basics](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=0)** - [Instructor] Let's say the word has just come down from the PR department that they want this image to be an Asian woman.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=0)** - [Instructor] Let's say the [[Microsoft Word|word]] has just come down from the PR department that they want this image to be an Asian woman.
 >
 > **[0:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=6)** This presentation is going to be multicultural and they've decided that in this image, for where it's going to be in the layout, they need an Asian woman.
 >
@@ -3909,7 +3883,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=134)** So now I'm really iterating.
 >
-> **[2:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=136)** Stable Diffusion is generating images and I'm feeding them back to Stable Diffusion so that it can refine them and build on them even more.
+> **[2:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=136)** [[Stable Diffusion]] is generating images and I'm feeding them back to Stable Diffusion so that it can refine them and build on them even more.
 >
 > **[2:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=144)** Let's see if we can get her to look at the camera.
 >
@@ -3961,7 +3935,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=243)** Now I've opened this up in Photoshop because I want to do a little work.
 >
-> **[4:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=246)** I'm going to zoom in.
+> **[4:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=246)** I'm going to [[Zoom]] in.
 >
 > **[4:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980&t=247)** The first thing I want to do is work on her eyes.
 >
@@ -4081,15 +4055,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Stable Diffusion]] (4), hit (2), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Env Vars:** cfg (2)
 > **Analogies:** just like (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### img2img options on hosted sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980)
+#### [img2img options on hosted sites](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4097,7 +4070,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980&t=2)** It's like I was generated in a barn.
 >
-> **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980&t=5)** In that last video, I jumped right into showing you image to image in automatic 1111 without first looking at how you get to image to image in some other instances of stable diffusion.
+> **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980&t=5)** In that last video, I jumped right into showing you image to image in automatic 1111 without first looking at how you get to image to image in some other instances of [[Stable Diffusion]].
 >
 > **[0:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-options-on-hosted-sites?u=76281980&t=19)** I'm sorry.
 >
@@ -4183,7 +4156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Stable Diffusion]] (3), prompt (2), ai (1), hit (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3)
 > **URLs:** [stable-diffusion-art.com](https://stable-diffusion-art.com) (1), [playgroundai.com](https://playgroundai.com) (1), [dezgo.com](https://dezgo.com) (1)
 > **Cross-References:** later in (1), in the last (1)
 > **CLI Commands:** find (1)
@@ -4192,12 +4165,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 
-#### Using a sketch in img2img
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980)
+#### [Using a sketch in img2img](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=0)** - [Instructor] Earlier, we generated an image by writing a prompt, letting Stable Diffusion generate an image, and then we sent that to image to image and began to refine it.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=0)** - [Instructor] Earlier, we generated an image by writing a prompt, letting [[Stable Diffusion]] generate an image, and then we sent that to image to image and began to refine it.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=9)** That's a very normal Stable Diffusion workflow, but you can start with any image.
 >
@@ -4205,7 +4177,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=17)** For example, I'm going to go right to the image to image tab.
 >
-> **[0:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=19)** Let's say the word has come down that they need another image for their fundraising proposal.
+> **[0:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=19)** Let's say the [[Microsoft Word|word]] has come down that they need another image for their fundraising proposal.
 >
 > **[0:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-sketch-in-img2img?u=76281980&t=25)** They're continuing with trying to just show basic people in rural settings, people who might need a pocket Stonehenge, so they want a farmer.
 >
@@ -4337,7 +4309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), feature (4), [[Stable Diffusion]] (3), product (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cfg (3), xt3 (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
@@ -4346,8 +4318,7 @@ created: 2026-05-02
 > **Versions:** 0.75 (1)
 > **Best Practices:** don't forget (1)
 
-#### Using a photobash with img2img
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980)
+#### [Using a photobash with img2img](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4367,7 +4338,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=69)** I'm not going to actually do any searches here and show you.
 >
-> **[1:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=72)** LinkedIn has a firm policy about not using stock photos of people in any of their educational content.
+> **[1:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=72)** [[LinkedIn]] has a firm policy about not using stock photos of people in any of their educational content.
 >
 > **[1:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=80)** I'm not trying to call them out on that, I'm saying that because, if you work for a large corporation, they may have a similar policy so it's very important to check into this sort of thing before you start freely visiting stock photo sites and grabbing assets and trying to use them.
 >
@@ -4397,7 +4368,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=162)** The larger your image, the more you start running the risk of overloading the RAM on the GPU in your computer or on the computer in whatever service you're working with.
 >
-> **[2:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=171)** So Stable Diffusion doesn't need a lot of data, work small.
+> **[2:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=171)** So [[Stable Diffusion]] doesn't need a lot of data, work small.
 >
 > **[2:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=174)** I then cut the barn out, threw it on a layer in my 512 by 512 document, and just started using the free transform command to get it scaled and moved.
 >
@@ -4419,7 +4390,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=248)** I've got Argentinian farmer in front of Red Barn, farmland and mountains and background, blue sky, photorealistic, Fuji XT3 8K.
 >
-> **[4:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=257)** I'm throwing the word "painterly" into the negative prompt in an effort to try to get this to look more photorealistic, I'm going to see if that does something for me.
+> **[4:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=257)** I'm throwing the [[Microsoft Word|word]] "painterly" into the negative prompt in an effort to try to get this to look more photorealistic, I'm going to see if that does something for me.
 >
 > **[4:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-a-photobash-with-img2img?u=76281980&t=266)** I've got a denoising strength of 0.75, a CFG scale of seven, my seed is random, let's see what we get.
 >
@@ -4445,7 +4416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[LinkedIn]] (1), [[Search]] (1), next (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Stable Diffusion]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cfg (3), pixnio (1), ram (1), gpu (1), xt3 (1)
 > **URLs:** [pixabay.com](https://pixabay.com) (1), [p-i-x-n-i-o.com](https://p-i-x-n-i-o.com) (1), [p-e-x-e-l-s.com](https://p-e-x-e-l-s.com) (1)
 > **Analogies:** picture (3)
@@ -4454,8 +4425,7 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Versions:** 0.75 (1)
 
-#### Changing aspect ratios with img2img
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980)
+#### [Changing aspect ratios with img2img](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4471,7 +4441,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=29)** So actually first, let's talk about this image.
 >
-> **[0:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=31)** Let's say that word came down from the art department that they wanted an image of an astronomer because they're still trying to put together, you know, who are the people who are going to use the pocket Stonehenge and astronomers need to know when the Equinox is.
+> **[0:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=31)** Let's say that [[Microsoft Word|word]] came down from the art department that they wanted an image of an astronomer because they're still trying to put together, you know, who are the people who are going to use the pocket Stonehenge and astronomers need to know when the Equinox is.
 >
 > **[0:45](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=45)** And yeah, sure, they could just use the calendar but you know, it's like listening to a vinyl record instead of listening to a CD.
 >
@@ -4493,7 +4463,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=91)** And then I said astronomer, telescope, and background.
 >
-> **[1:34](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=94)** And then the rest of this is from that Civitai page, as is the negative prompt.
+> **[1:34](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=94)** And then the [[Representational State Transfer (REST)|rest]] of this is from that Civitai page, as is the negative prompt.
 >
 > **[1:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=100)** Again, I'm using the Realistic Vision model.
 >
@@ -4575,7 +4545,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=257)** Just resize, latent upscale.
 >
-> **[4:21](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=261)** You're going to see the word latent a lot when talking about Stable Diffusion.
+> **[4:21](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=261)** You're going to see the word latent a lot when talking about [[Stable Diffusion]].
 >
 > **[4:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-aspect-ratios-with-img2img?u=76281980&t=265)** What it's referring to is the latent image data.
 >
@@ -4637,7 +4607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), data (3), [[Microsoft Word|Word]] (2), cd (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Stable Diffusion]] (1)
 > **CLI Commands:** make (7), cd (1), find (1)
 > **Env Vars:** automatic1111 (2), cfg (1), png (1)
 > **Analogies:** it's like (1), just like (1), think of it as (1)
@@ -4645,12 +4615,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing elements with inpainting
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980)
+#### [Removing elements with inpainting](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=0)** - [Instructor] There are a few different ways that you can edit an image that you've made inside of Stable Diffusion.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=0)** - [Instructor] There are a few different ways that you can edit an image that you've made inside of [[Stable Diffusion]].
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=5)** And one of those is called in-painting, wherein you select an area of an image and you give a prompt and only that selected area gets affected by the prompt.
 >
@@ -4750,7 +4719,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=288)** So instead I'm going to tell it to fill with latent noise.
 >
-> **[4:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=291)** Again, there's that latent word again, thinking of latent, meaning an image that's in the noise pattern, waiting to come out.
+> **[4:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=291)** Again, there's that latent [[Microsoft Word|word]] again, thinking of latent, meaning an image that's in the noise pattern, waiting to come out.
 >
 > **[4:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=297)** So now it will fill this area with noise and then diffuse from there.
 >
@@ -4796,7 +4765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), feature (4), [[Stable Diffusion]] (3), next (2), hit (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** automatic (2), png (1), cfg (1)
 > **Definitions:** is called (1), is a  (1)
@@ -4805,8 +4774,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 
-#### Adding objects with inpainting
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980)
+#### [Adding objects with inpainting](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4816,7 +4784,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=8)** And sure enough there are somebody holding an instrument of some kind.
 >
-> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=12)** Fact is stable diffusion has trouble drawing gear whether that's cameras or musical instruments.
+> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=12)** Fact is [[Stable Diffusion]] has trouble drawing gear whether that's cameras or musical instruments.
 >
 > **[0:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=19)** Things that you interact with with your hands can sometimes end up goofy looking.
 >
@@ -4902,7 +4870,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=173)** It's got some extra secret sauce in it.
 >
-> **[2:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=176)** If you really want to know what's going on it's not hard to google how these things work and find good descriptions.
+> **[2:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=176)** If you really want to know what's going on it's not hard to [[Google]] how these things work and find good descriptions.
 >
 > **[3:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/adding-objects-with-inpainting?u=76281980&t=182)** So I think I've got a random seed.
 >
@@ -5008,7 +4976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[Stable Diffusion]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Google]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** cfg (2), png (1)
 > **Definitions:** is a  (3)
@@ -5017,8 +4985,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** switch to (1)
 
-#### Outpainting
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980)
+#### [Outpainting](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5026,7 +4993,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980&t=5)** We are now going to add details outside of the image, a process called outpainting.
 >
-> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980&t=12)** Let's say word has come down from on high that some changes have been made to the layout and now this needs to be a rectangular image.
+> **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980&t=12)** Let's say [[Microsoft Word|word]] has come down from on high that some changes have been made to the layout and now this needs to be a rectangular image.
 >
 > **[0:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting?u=76281980&t=20)** It needs to have a landscape aspect ratio.
 >
@@ -5232,7 +5199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** png (3), cfg (3)
 > **CLI Commands:** make (3)
 > **Best Practices:** it's best to (2), don't forget (1)
@@ -5241,14 +5208,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 
-#### Using outpainting to resize an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980)
+#### [Using outpainting to resize an image](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=0)** - [Instructor] We're going to do some more outpainting.
 >
-> **[0:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=2)** Let's say the word has come down from on high that this image also needs to be wider, needs to be a landscape aspect ratio.
+> **[0:02](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=2)** Let's say the [[Microsoft Word|word]] has come down from on high that this image also needs to be wider, needs to be a landscape aspect ratio.
 >
 > **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=12)** As I said before, I could, because I can go into PNG info and get the prompt and the seed and all of the original parameters, I could re-render this at a wider size.
 >
@@ -5270,7 +5236,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=55)** I want only the left and right side.
 >
-> **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=57)** However, I can tell you that Stable Diffusion is not going to do a good job of adding to both sides simultaneously.
+> **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=57)** However, I can tell you that [[Stable Diffusion]] is not going to do a good job of adding to both sides simultaneously.
 >
 > **[1:04](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-outpainting-to-resize-an-image?u=76281980&t=64)** Even though they both need the same settings, even though they both need the same prompt, it's just better to do them separately.
 >
@@ -5440,15 +5406,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), hit (2), [[Microsoft Word|Word]] (1), [[Stable Diffusion]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Stable Diffusion]] (1)
 > **UI Navigation:** select the (3), go to (1)
 > **Env Vars:** png (1), cfg (1), automatic1111 (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving faces created by SD
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980)
+#### [Improving faces created by SD](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5492,7 +5457,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=115)** The best case scenario that I've seen is that it will change the face, but it will take out so much detail and leave it so soft looking that it just doesn't look real.
 >
-> **[2:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=123)** As with many things related to stable diffusion, it might be that restore faces works great with a particular sample add a particular denoising strength with a certain number of steps, and maybe you could find something that would consistently work.
+> **[2:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=123)** As with many things related to [[Stable Diffusion]], it might be that restore faces works great with a particular sample add a particular denoising strength with a certain number of steps, and maybe you could find something that would consistently work.
 >
 > **[2:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=136)** I'm just not interested in that because there are other ways to get around it.
 >
@@ -5578,7 +5543,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=345)** I find if I don't get the hair, I get faces that aren't merged well with the hair.
 >
-> **[5:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=350)** But the rest of my setting should be okay because I'm still set for Only masked inpaint area, filled with latent noise.
+> **[5:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=350)** But the [[Representational State Transfer (REST)|rest]] of my setting should be okay because I'm still set for Only masked inpaint area, filled with latent noise.
 >
 > **[5:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/improving-faces-created-by-sd?u=76281980&t=357)** And again, that means that it's starting with a field of noise just like it would with a brand new image.
 >
@@ -5636,7 +5601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (4), prompt (3), hit (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gfpgan (1), cfg (1)
 > **Versions:** 1.5 (2)
@@ -5645,8 +5610,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **Best Practices:** don't forget (1)
 
-#### Outpainting with openOutpaint
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980)
+#### [Outpainting with openOutpaint](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5658,7 +5622,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=14)** So if you don't have access to AUTOMATIC1111, you're not going to be able to use this.
 >
-> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=18)** I wanted to show it anyway both for those who do have their own server but also for those who don't because I think it's a great demonstration of the types of interfaces that we can expect to see in the future maybe for Stable Diffusion.
+> **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=18)** I wanted to show it anyway both for those who do have their own server but also for those who don't because I think it's a great demonstration of the types of interfaces that we can expect to see in the future maybe for [[Stable Diffusion]].
 >
 > **[0:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=32)** So though you may not be able to find this online now, you might eventually.
 >
@@ -5676,7 +5640,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=82)** So a couple things here for this to render properly on screen, I had to greatly expand the pixel dimensions of my screen.
 >
-> **[1:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=90)** So you may notice texts look smaller than it has looked in the rest of this course and that's because I've had to go to a bigger size.
+> **[1:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=90)** So you may notice texts look smaller than it has looked in the [[Representational State Transfer (REST)|rest]] of this course and that's because I've had to go to a bigger size.
 >
 > **[1:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=96)** I also had to switch here on the Mac from Safari to Chrome.
 >
@@ -5692,7 +5656,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=119)** It is very similar to InvokeAI which I have mentioned before.
 >
-> **[2:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=123)** That's another distribution that you can run on your own hardware.
+> **[2:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=123)** That's another distribution that you can run on your own [[Hardware]].
 >
 > **[2:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/outpainting-with-openoutpaint?u=76281980&t=126)** Personally, I use this for outpainting.
 >
@@ -5808,7 +5772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (3), prompt (3), hit (3), [[Representational State Transfer (REST)|Rest]] (2), business (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Hardware]] (1)
 > **Code Identifiers:** openoutpaint (5)
 > **Env Vars:** automatic1111 (4), cfg (1)
 > **CLI Commands:** find (3)
@@ -5817,8 +5781,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Cross-References:** go back to (1)
 
-#### Instruct pix2pix
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980)
+#### [Instruct pix2pix](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5864,7 +5827,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=109)** So we're going to go back to realistic vision and show you another trick I stumbled into the other day.
 >
-> **[1:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=116)** If I take my original image here and drag it up here into the prompt field, it will pull all of my parameter metadata so I can edit this other stuff.
+> **[1:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=116)** If I take my original image here and drag it up here into the prompt field, it will pull all of my parameter [[Metadata]] so I can edit this other stuff.
 >
 > **[2:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=125)** This is the steps and sampler and everything.
 >
@@ -6002,7 +5965,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=382)** So again, I could be playing with my image CFG scale and I may find that I want different amounts of image CFG scale, depending on what my prompt is.
 >
-> **[6:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=391)** And also as always, with stable diffusion, the prompt, the seed, the CFG scale, the denoising strength, all of that's going to affect the rest of the image as well.
+> **[6:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=391)** And also as always, with [[Stable Diffusion]], the prompt, the seed, the CFG scale, the denoising strength, all of that's going to affect the [[Representational State Transfer (REST)|rest]] of the image as well.
 >
 > **[6:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=400)** I can go very vague here.
 >
@@ -6064,7 +6027,7 @@ created: 2026-05-02
 >
 > **[8:38](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=518)** I'll include a link to where to get that model down below.
 >
-> **[8:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=522)** If you're not running AUTOMATIC1111, you can get to Instruct pix2pix at this hugging face page.
+> **[8:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=522)** If you're not running AUTOMATIC1111, you can get to Instruct pix2pix at this [[Hugging Face]] page.
 >
 > **[8:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/instruct-pix2pix?u=76281980&t=528)** Drop an image here, put in your prompt.
 >
@@ -6092,7 +6055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), hit (2), feature (1), [[Metadata]] (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Stable Diffusion]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hugging Face]] (1)
 > **Env Vars:** cfg (15), automatic1111 (5)
 > **CLI Commands:** make (11), find (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
@@ -6101,12 +6064,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), scroll down (1)
 > **Analogies:** for example (1), just like (1)
 
-#### Free handy resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980)
+#### [Free handy resources](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=0)** - [Instructor] By this point, you've seen a lot of what Stable Diffusion can do and I would like to pause here for a moment to give you the chance to remind yourself that this is incredible.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=0)** - [Instructor] By this point, you've seen a lot of what [[Stable Diffusion]] can do and I would like to pause here for a moment to give you the chance to remind yourself that this is incredible.
 >
 > **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=10)** I say that because we are the last generation that will be capable of remembering a time when computers could not create illustrations and photos and other kinds of imagery on their own.
 >
@@ -6168,9 +6130,9 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=270)** I think the real advantage for these, again, is education.
 >
-> **[4:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=272)** For a classroom that maybe can't afford a suite of Adobe Creative Cloud apps, you can throw some of these in there, find a free stable diffusion node, and you've got yourself an entirely free AI imaging system.
+> **[4:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=272)** For a classroom that maybe can't afford a suite of [[Adobe Creative Cloud]] apps, you can throw some of these in there, find a free stable diffusion node, and you've got yourself an entirely free AI imaging system.
 >
-> **[4:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=286)** NVIDIA, the people who make graphics cards, have a beta of a free download that's available for Windows and if you have the right graphics card, you can use this NVIDIA canvas application to create landscapes.
+> **[4:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=286)** NVIDIA, the people who make graphics cards, have a beta of a free download that's available for [[Windows]] and if you have the right graphics card, you can use this NVIDIA canvas application to create landscapes.
 >
 > **[5:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/free-handy-resources?u=76281980&t=300)** There's this simple tool palette over here that offers you mountains and oceans and forests and gravel and things like that and you just paint in this area to the left and as you paint it, re-render your stroke into whatever it was that the brush said it was going to be, so if I paint with the mountains brush, I get mountains, if I paint with the grassland brush, I get grasslands.
 >
@@ -6184,7 +6146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (10), ai (5), web (3), [[Adobe Creative Cloud]] (1), node (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (10), [[Adobe Creative Cloud]] (1), [[Windows]] (1)
 > **CLI Commands:** make (5), find (1), node (1)
 > **Definitions:** is a  (4), is an  (1)
 > **URLs:** [clipdrop.co](https://clipdrop.co) (1), [stability.ai](https://stability.ai) (1), [nero.com](https://nero.com) (1), [photopea.com](https://photopea.com) (1)
@@ -6198,8 +6160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
+#### [Introduction to ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6213,7 +6174,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=22)** And on the map, maybe there's some other instruments like a compass or a thermos or something, and a little pocket Stonehenge sitting there.
 >
-> **[0:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=30)** Now, if I try simply typing a prompt for that into Stable Diffusion, so I've got here a man looking at a map on the hood of his car, on the map is a tiny model of Stonehenge.
+> **[0:30](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=30)** Now, if I try simply typing a prompt for that into [[Stable Diffusion]], so I've got here a man looking at a map on the hood of his car, on the map is a tiny model of Stonehenge.
 >
 > **[0:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=41)** I'm back to writing sentences sort of, because I couldn't figure out a way to describe this complex choreography as just a list of words.
 >
@@ -6365,7 +6326,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=398)** A number of different good-looking wildernesses and I think they're well-integrated into the image.
 >
-> **[6:43](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=403)** Look, it even put it through the windows of the car and added some glass distortion.
+> **[6:43](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=403)** Look, it even put it through the [[Windows]] of the car and added some glass distortion.
 >
 > **[6:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=409)** The contrast is a little bit different there.
 >
@@ -6583,7 +6544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[Stable Diffusion]] (9), next (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (9), [[Windows]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** vram (2), hed (1), ram (1)
@@ -6592,8 +6553,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **Warnings:** be careful (1), note that (1)
 
-#### Installing ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980)
+#### [Installing ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6607,7 +6567,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=24)** I'm not going to try to tell you what it does to convince you that you need to install it.
 >
-> **[0:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=27)** I'm just going to go right in to installation because if you're using Stable Diffusion and you have your own server, you're silly to not be using ControlNet.
+> **[0:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=27)** I'm just going to go right in to installation because if you're using [[Stable Diffusion]] and you have your own server, you're silly to not be using ControlNet.
 >
 > **[0:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=36)** If you are looking for another instance to use if you don't have your own server, then you want to look for one that has ControlNet.
 >
@@ -6659,7 +6619,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=140)** Oops, models.
 >
-> **[2:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=142)** And that will bring up the ControlNet page on Hugging Face.
+> **[2:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=142)** And that will bring up the ControlNet page on [[Hugging Face]].
 >
 > **[2:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=147)** Model card, this is a description of what we got.
 >
@@ -6689,7 +6649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), hit (2), [[Search]] (2), web (2), ai (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Hugging Face]] (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** automatic1111 (4)
 > **UI Navigation:** go to (1), click on (1)
@@ -6698,8 +6658,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### OpenPose in ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980)
+#### [OpenPose in ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6719,7 +6678,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=35)** And composited it with a conference room.
 >
-> **[0:39](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=39)** I got the conference room by asking Stable Diffusion to render me a picture of a conference room, so it made the background.
+> **[0:39](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=39)** I got the conference room by asking [[Stable Diffusion]] to render me a picture of a conference room, so it made the background.
 >
 > **[0:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=46)** I used Photoshop to combine these two things together.
 >
@@ -6779,7 +6738,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=206)** I'm going to put this down to a quarter.
 >
-> **[3:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=209)** So with ControlNet having less influence, the rest of the inputs now have more sway.
+> **[3:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=209)** So with ControlNet having less influence, the [[Representational State Transfer (REST)|rest]] of the inputs now have more sway.
 >
 > **[3:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=216)** So our composition is not as rigorous.
 >
@@ -7039,7 +6998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (6), prompt (5), node (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Analogies:** picture (2), just like (1), kind of like (1)
 > **Env Vars:** cfg (3)
@@ -7048,12 +7007,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** iphone (1)
 
-#### Limitations using OpenPose
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980)
+#### [Limitations using OpenPose](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=0)** - [Instructor] ControlNet with OpenPose is probably going to become a pretty regular part of your Stable Diffusion process, but it does have some limitations.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=0)** - [Instructor] ControlNet with OpenPose is probably going to become a pretty regular part of your [[Stable Diffusion]] process, but it does have some limitations.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=9)** Let's take a look at some places where ControlNet maybe will fall down.
 >
@@ -7129,14 +7087,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using img2img and ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980)
+#### [Using img2img and ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7146,7 +7103,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=14)** There's not a real clear answer to that, but there are some differences.
 >
-> **[0:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=17)** At the end of chapter two you saw a video that I had rotoscoped with Stable Diffusion.
+> **[0:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=17)** At the end of chapter two you saw a video that I had rotoscoped with [[Stable Diffusion]].
 >
 > **[0:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=23)** Rotoscoping is the process of painting or drawing or applying computer graphics to live video.
 >
@@ -7244,7 +7201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), prompt (2), next (2), generic (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** sks (2), automatic1111 (1)
 > **Cross-References:** in the next (2)
@@ -7252,14 +7209,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing a ControlNet model
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980)
+#### [Choosing a ControlNet model](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=0)** - [Instructor] In ControlNet, this pre-processor menu and the corresponding model menu can be a little intimidating because there are so many options here.
 >
-> **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=8)** I can tell you right away that you don't need to understand any of the algorithms that are going on here and for the most part, you don't need to have some kind of general universal idea about most of these models.
+> **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=8)** I can tell you right away that you don't need to understand any of the [[Algorithms]] that are going on here and for the most part, you don't need to have some kind of general universal idea about most of these models.
 >
 > **[0:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=20)** I say most of them because there are some of these models that are intended for specific purposes and we've already seen that.
 >
@@ -7329,7 +7285,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=177)** HED is what I ended up using and let's just go ahead and do a full rendering with HED.
 >
-> **[3:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=185)** And if we preview that, you can see that my mouth doesn't have super fine detail but it's very separate from the mustache and beard and so stable diffusion had an easier time figuring out the shapes when I was using the HED processor.
+> **[3:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=185)** And if we preview that, you can see that my mouth doesn't have super fine detail but it's very separate from the mustache and beard and so [[Stable Diffusion]] had an easier time figuring out the shapes when I was using the HED processor.
 >
 > **[3:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=200)** So I dragged a couple of different frames in here, looked at the pre-processor data and could see that there was change happening.
 >
@@ -7387,13 +7343,13 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=357)** In fact, you don't need to install all of these if you want to save yourself the download and if you want to have a ControlNet menu that's not so confusing.
 >
-> **[6:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=365)** For the rest of this course, you're going to see me probably moving through either Canny, HED, and of course I'll be using openpose and maybe scribble.
+> **[6:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=365)** For the [[Representational State Transfer (REST)|rest]] of this course, you're going to see me probably moving through either Canny, HED, and of course I'll be using openpose and maybe scribble.
 >
 > **[6:13](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=373)** Otherwise, choosing a model is just dependent on what your image is and what result you're going for.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), prompt (1), [[Stable Diffusion]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Stable Diffusion]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mlsd (6), hed (5)
 > **Cross-References:** go back to (1), in the last (1)
 > **Prerequisites:** set up (1), install (1)
@@ -7402,8 +7358,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image size and ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/image-size-and-controlnet?u=76281980)
+#### [Image size and ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/image-size-and-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7467,14 +7422,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** find (1), node (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Other features in ControlNet
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980)
+#### [Other features in ControlNet](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7490,7 +7443,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=31)** These have to do with the fact that if you want, you can skip this pre-processor thing and generate an edge map on your own using some other kind of software.
 >
-> **[0:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=42)** Edge detection is a standard part of sharpening algorithms and lots of other things that you'll find in your image editor.
+> **[0:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=42)** Edge detection is a standard part of sharpening [[Algorithms]] and lots of other things that you'll find in your image editor.
 >
 > **[0:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=48)** Or if you're generating material in a 3D program, you may have the ability to create normal maps and depth maps on your own.
 >
@@ -7516,7 +7469,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=119)** So if I put it at 25 or 0.25, a quarter of the way in, ControlNet will start.
 >
-> **[2:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=126)** Until then, Stable Diffusion will be left on its own.
+> **[2:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=126)** Until then, [[Stable Diffusion]] will be left on its own.
 >
 > **[2:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=129)** Similarly, I can control when it comes out.
 >
@@ -7544,7 +7497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Algorithms]] (1), feature (1), [[Stable Diffusion]] (1), ai (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Stable Diffusion]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** rgb (1), bgr (1), cfg (1)
 > **CLI Commands:** find (1)
@@ -7553,8 +7506,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### OpenPose editors
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980)
+#### [OpenPose editors](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7592,7 +7544,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=92)** I could use 3D software to render an image of two figures playing text, any of that stuff could be used to generate a pose model.
 >
-> **[1:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=101)** If you go to the Extensions tab in Stable Diffusion, and look at the currently available extensions, and search for OpenPose, you'll find a couple of different things, including OpenPose Editor.
+> **[1:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=101)** If you go to the Extensions tab in [[Stable Diffusion]], and look at the currently available extensions, and search for OpenPose, you'll find a couple of different things, including OpenPose Editor.
 >
 > **[1:56](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=116)** After you install it, you will have this OpenPose Editor tab.
 >
@@ -7714,7 +7666,7 @@ created: 2026-05-02
 >
 > **[7:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=477)** And then if I click on one of the other joints, I get these rotation controls so I can fine tune.
 >
-> **[8:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=483)** So I can use this to go in, and build a very precise model, just like I was before, but, I've got the ability to see it from different perspectives, to zoom in and out, and so on and so forth.
+> **[8:03](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=483)** So I can use this to go in, and build a very precise model, just like I was before, but, I've got the ability to see it from different perspectives, to [[Zoom]] in and out, and so on and so forth.
 >
 > **[8:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=494)** When I'm done, I also have Send to txt2img and Send to img2img.
 >
@@ -7768,7 +7720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), hit (3), [[Stable Diffusion]] (2), [[Search]] (1), node (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **UI Navigation:** click on (3), switch to (2), go to (1)
 > **Definitions:** is a  (5)
@@ -7782,14 +7734,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using models to influence image style
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
+#### [Using models to influence image style](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=0)** - [Instructor] In chapter two, I recommended that you not put artists' names in your prompts.
 >
-> **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=5)** But if you're not going to do that how do you steer Stable Diffusion towards a particular style?
+> **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=5)** But if you're not going to do that how do you steer [[Stable Diffusion]] towards a particular style?
 >
 > **[0:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=11)** Well, these days, with the incredible proliferation of models that are out there, free models, models you can download anytime you want, you can easily get a style by simply picking a model that renders in the style that you want.
 >
@@ -7863,7 +7814,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=145)** Always remember to check the distributor of the model you're using to see what trigger words there might be.
 >
-> **[2:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=151)** We've got model shoot style, analog style, Midjourney style, style that gives us robots.
+> **[2:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=151)** We've got model shoot style, analog style, [[Midjourney]] style, style that gives us robots.
 >
 > **[2:35](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=155)** I'm going to stick model shoot style in here to see if that gives us a different look.
 >
@@ -7913,7 +7864,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=257)** Model shoot style is a trigger for this model.
 >
-> **[4:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=260)** I'm going to take the rest of this and replace it with what they suggested.
+> **[4:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=260)** I'm going to take the [[Representational State Transfer (REST)|rest]] of this and replace it with what they suggested.
 >
 > **[4:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=263)** I'm going to go back to my moody trigger because I think that was helping us.
 >
@@ -7951,7 +7902,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=348)** I could come down here to some samples and see what people are using.
 >
-> **[5:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=351)** But they do recommend the trigger word, synthwave style.
+> **[5:51](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=351)** But they do recommend the trigger [[Microsoft Word|word]], synthwave style.
 >
 > **[5:55](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980&t=355)** It's weirdly abbreviated.
 >
@@ -7989,7 +7940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Stable Diffusion]] (3), data (2), web (2), hit (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Midjourney]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1), we talked about (1)
 > **Best Practices:** recommended (1), remember to (1)
@@ -7998,8 +7949,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 
-#### Inpainting and upscaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980)
+#### [Inpainting and upscaling](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8067,9 +8017,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=147)** I'm at 300% here because these images are still 512 by 512.
 >
-> **[2:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=151)** So when I say more detail, I don't mean that we're going to zoom in and find super fine details of individual eyelashes and things but she does look different.
+> **[2:31](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=151)** So when I say more detail, I don't mean that we're going to [[Zoom]] in and find super fine details of individual eyelashes and things but she does look different.
 >
-> **[2:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=160)** You might be able to argue that this image looks better because the level of detail in her face better matches the level of detail in the rest of her body and her hands and so on and so forth.
+> **[2:40](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=160)** You might be able to argue that this image looks better because the level of detail in her face better matches the level of detail in the [[Representational State Transfer (REST)|rest]] of her body and her hands and so on and so forth.
 >
 > **[2:52](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=172)** Stonehenge is a little bit soft focus where these stones are soft focused so I expect them to look different, but everything on this plane should have the same kind of quality and it does.
 >
@@ -8117,21 +8067,20 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=310)** If you're doing something with more of a natural media style, this kind of stuff may not matter.
 >
-> **[5:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=314)** As you continue working with stable diffusion, trying different things, it's worth to consider where in your workflow you put that upscaling step.
+> **[5:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=314)** As you continue working with [[Stable Diffusion]], trying different things, it's worth to consider where in your workflow you put that upscaling step.
 >
 > **[5:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/inpainting-and-upscaling?u=76281980&t=322)** Because if you are going to do in painting it could make a difference.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Zoom]] (1), hit (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Zoom]] (1), [[Stable Diffusion]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refining with XYZ plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/refining-with-xyz-plot?u=76281980)
+#### [Refining with XYZ plot](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/refining-with-xyz-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8271,7 +8220,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), cloud (1), hit (1), prompt (1)
 > **Env Vars:** cfg (5), ddim (2), dpm (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
@@ -8279,24 +8227,22 @@ created: 2026-05-02
 > **Versions:** go 7 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Complete a Stable Diffusion workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/complete-a-stable-diffusion-workflow?u=76281980)
+#### [Complete a Stable Diffusion workflow](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/complete-a-stable-diffusion-workflow?u=76281980)
 
 
 ### 7. Customization and Model Training
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a custom model
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
+#### [Creating a custom model](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=0)** - [Instructor] If you've spent much time with stable diffusion, what I'm about to describe may sound familiar to you, you spend a lot of time using all of your skills.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=0)** - [Instructor] If you've spent much time with [[Stable Diffusion]], what I'm about to describe may sound familiar to you, you spend a lot of time using all of your skills.
 >
 > **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=8)** You're using control net, you're using your prompt writing skills, and after all that time, you come to the image that you wanted, and now you would like to take this woman, and put her on a school bus, but you can't do that because this woman does not actually exist in the data model anywhere.
 >
-> **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=28)** She has appeared here because it turns out that if you take all of the noise associated with all of these different tokens and diffuse all that noise, you happen to get this woman standing in front of Stonehenge.
+> **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=28)** She has appeared here because it turns out that if you take all of the noise associated with all of these different [[Tokens]] and diffuse all that noise, you happen to get this woman standing in front of Stonehenge.
 >
 > **[0:41](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=41)** But if I now say a woman on a school bus, she's pretty close, but she's different.
 >
@@ -8358,7 +8304,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=219)** I chose 23 because I had some questions about some of these.
 >
-> **[3:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=222)** They suggest the breakdown should be three full body shots, five shots from the waist up, and the rest should be closeups of your face.
+> **[3:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=222)** They suggest the breakdown should be three full body shots, five shots from the waist up, and the [[Representational State Transfer (REST)|rest]] should be closeups of your face.
 >
 > **[3:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=230)** Here's a full body, here's a full body, here's another one, here's one.
 >
@@ -8410,7 +8356,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=342)** There are websites that will crop images for you.
 >
-> **[5:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=344)** A Google search will find them.
+> **[5:44](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=344)** A [[Google]] search will find them.
 >
 > **[5:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980&t=346)** They suggest 512 by 512 images.
 >
@@ -8518,7 +8464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), ai (9), [[Stable Diffusion]] (8), web (3), business (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[Tokens]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [astria.ai](https://astria.ai) (4), [astria.com](https://astria.com) (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -8527,12 +8473,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Env Vars:** sks (1)
 
-#### Creating models with DreamBooth
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980)
+#### [Creating models with DreamBooth](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=0)** - [Instructor] If you're running your own installation of Automatic 1111 you might be able to install Dreambooth which will let you create your own models on your own hardware.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=0)** - [Instructor] If you're running your own installation of Automatic 1111 you might be able to install Dreambooth which will let you create your own models on your own [[Hardware]].
 >
 > **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=10)** This is a normal extension.
 >
@@ -8706,7 +8651,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=432)** That has not been my experience with this version of Dreambooth.
 >
-> **[7:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=436)** I'm on my Mac right now, but I'm connected to my Windows machine.
+> **[7:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=436)** I'm on my Mac right now, but I'm connected to my [[Windows]] machine.
 >
 > **[7:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=442)** That's where Dreambooth is running on that server.
 >
@@ -8718,7 +8663,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=467)** It still didn't work.
 >
-> **[7:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=469)** Finally it worked when I put it inside the Dreambooth folder that's inside the models folder, that's inside my Stable Diffusion web UI folder.
+> **[7:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=469)** Finally it worked when I put it inside the Dreambooth folder that's inside the models folder, that's inside my [[Stable Diffusion]] web UI folder.
 >
 > **[7:59](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-models-with-dreambooth?u=76281980&t=479)** Once I moved my images into there and copied and pasted that path into the dataset directory field, then things were working.
 >
@@ -8884,7 +8829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (6), hit (2), data (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1), [[Stable Diffusion]] (1)
 > **Definitions:** is a  (8), is an  (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** gpu (4), vram (1), ram (1)
@@ -8893,8 +8838,7 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Analogies:** just like (2)
 
-#### Merging models
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980)
+#### [Merging models](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8902,11 +8846,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=7)** So, if you watched Star Trek TV shows or movies in the '80s and '90s, you know that a Klingon has a particular look.
 >
-> **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=16)** The model Klingon diffusion lets you render images of Klingons in Stable Diffusion.
+> **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=16)** The model Klingon diffusion lets you render images of Klingons in [[Stable Diffusion]].
 >
 > **[0:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=22)** So, I'm going to say, I've called up the model Klingon diffusion.
 >
-> **[0:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=25)** I have to use the word keyword Klingon.
+> **[0:25](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=25)** I have to use the [[Microsoft Word|word]] keyword Klingon.
 >
 > **[0:28](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=28)** So, I'm going to say Klingon in the desert, and I end up with pretty good Klingons, got all the weird brow ridge stuff and the hair, and they even give me a lot of Klingon clothing and weapons and things that, because it's Stable Diffusion, when they're holding them, they point in funny directions.
 >
@@ -8986,7 +8930,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=204)** I can also choose whether I want a CKP file or a safetensors file.
 >
-> **[3:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=209)** I'm not planning on giving this model away, so I'm it, I'm not worried, it probably doesn't matter what I choose, and the rest of this, you can leave defaults.
+> **[3:29](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=209)** I'm not planning on giving this model away, so I'm it, I'm not worried, it probably doesn't matter what I choose, and the [[Representational State Transfer (REST)|rest]] of this, you can leave defaults.
 >
 > **[3:36](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=216)** Then you hit the Merge button When it's done, it installs the resulting model in your models folder and should update your menu.
 >
@@ -9042,7 +8986,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=365)** So, Checkpoint Mergers can also be used if you're looking to get a specific thing into a specific style.
 >
-> **[6:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=371)** Many of the models that you see on Civitai and Hugging Face are mergers that people have come up with.
+> **[6:11](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=371)** Many of the models that you see on Civitai and [[Hugging Face]] are mergers that people have come up with.
 >
 > **[6:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/merging-models?u=76281980&t=378)** They fine tune them by very carefully setting the multiplier and maybe adding some additional material.
 >
@@ -9054,7 +8998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), ai (2), hit (2), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hugging Face]] (1)
 > **Versions:** 0.05 (2), 0.95 (1), 0.75 (1), 0.25 (1), 0.6 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -9063,8 +9007,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training a model using an object
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980)
+#### [Training a model using an object](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9076,7 +9019,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=23)** So I trimmed the cardboard and filled in the extra cardboard, colored in the extra cardboard with a green Sharpie and then tightened up the edges with some black electrical tape.
 >
-> **[0:34](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=34)** Now this is not a great looking model but I'm not a professional model maker and my goal here is not necessarily to create a great model because I don't have the skillset for that, it's to find out can I get Stable Diffusion to model a thing.
+> **[0:34](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=34)** Now this is not a great looking model but I'm not a professional model maker and my goal here is not necessarily to create a great model because I don't have the skillset for that, it's to find out can I get [[Stable Diffusion]] to model a thing.
 >
 > **[0:50](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=50)** We've seen what it's like to model a person, so I took a bunch of pictures of it, being careful to have it in a different place with a different background for most every shot.
 >
@@ -9086,7 +9029,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=68)** With all those ready, I went straight into DreamBooth just as if I was going to model a person.
 >
-> **[1:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=74)** So for a prompt, I said photo of pocketstonehenge, all one word.
+> **[1:14](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=74)** So for a prompt, I said photo of pocketstonehenge, all one [[Microsoft Word|word]].
 >
 > **[1:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=78)** That will be my token that should summon this model.
 >
@@ -9172,7 +9115,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=282)** And I would want a mix of races and lots of clothing and so on and so forth.
 >
-> **[4:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=286)** But if you worked in an office, maybe that's not so complicated.
+> **[4:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=286)** But if you worked in an [[Microsoft Office|office]], maybe that's not so complicated.
 >
 > **[4:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=288)** So I'm going to try a different approach.
 >
@@ -9240,7 +9183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (3), prompt (3), [[Microsoft Word|Word]] (3), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (3), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** it's like (1), just like (1)
 > **Definitions:** is a  (1)
@@ -9251,12 +9194,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=0)** - I've authored a lot of courses here at LinkedIn Learning, and I have to say that this was one of the most difficult simply because Stable Diffusion is changing so quickly.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=0)** - I've authored a lot of courses here at [[LinkedIn]] Learning, and I have to say that this was one of the most difficult simply because [[Stable Diffusion]] is changing so quickly.
 >
 > **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=10)** When I started writing this course, ControlNet did not exist, which means Openpose editing did not exist and so on and so forth.
 >
@@ -9286,7 +9228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[LinkedIn]] (1)
 > **Versions:** 1.5 (4), version 3 (1)
 > **Speakers:** - i (1)
 

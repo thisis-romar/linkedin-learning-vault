@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project management: A priceless skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
+#### [Project management: A priceless skill](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,22 +107,21 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=6)** You can't avoid them if you're going to grow or improve your organization, and so this is an important subject to understand.
 >
-> **[0:14](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=14)** Project management is a transferable skill, so once you master it, you will have a skill that you can use anywhere for the rest of your life if you want to.
+> **[0:14](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=14)** Project management is a transferable skill, so once you master it, you will have a skill that you can use anywhere for the [[Representational State Transfer (REST)|rest]] of your life if you want to.
 >
 > **[0:24](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=24)** I'm going to show you everything you need to know to be able to run any project, any size, in any industry, so that you can deliver all of your projects on time and on budget.
 >
 > **[0:36](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=36)** My name's Chris Croft and I've been teaching project management for 25 years.
 >
-> **[0:41](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=41)** So I'd like to welcome you to my LinkedIn Learning course on the basics of project management.
+> **[0:41](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980&t=41)** So I'd like to welcome you to my [[LinkedIn]] Learning course on the basics of project management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - projects (1)
 
-#### Introduction to the 12-step process
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980)
+#### [Introduction to the 12-step process](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980&t=46)** You could see that project management is mostly about planning, so step two is to list all the tasks.
 >
-> **[0:55](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980&t=55)** These tasks form the raw material for the rest of the planning process.
+> **[0:55](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980&t=55)** These tasks form the raw material for the [[Representational State Transfer (REST)|rest]] of the planning process.
 >
 > **[1:00](https://www.linkedin.com/learning/project-management-simplified-2019/introduction-to-the-12-step-process-24303469?u=76281980&t=60)** Then step three is to get the tasks into the right order using post-it notes to make what are officially called critical path diagrams.
 >
@@ -211,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - every (1)
@@ -221,8 +219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a project?
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
+#### [What is a project?](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,11 +249,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Speakers:** - step (1)
 
-#### Define the Iron Triangle
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/define-the-iron-triangle-24306291?u=76281980)
+#### [Define the Iron Triangle](https://www.linkedin.com/learning/project-management-simplified-2019/define-the-iron-triangle-24306291?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,12 +297,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
-#### Plan before you commit
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/plan-before-you-commit-24307153?u=76281980)
+#### [Plan before you commit](https://www.linkedin.com/learning/project-management-simplified-2019/plan-before-you-commit-24307153?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,14 +376,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1), specification (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - when (1)
 
-#### Kick-off meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/kick-off-meetings-24304472?u=76281980)
+#### [Kick-off meetings](https://www.linkedin.com/learning/project-management-simplified-2019/kick-off-meetings-24304472?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,14 +435,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** find (1)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Key project drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/key-project-drivers-24307154?u=76281980)
+#### [Key project drivers](https://www.linkedin.com/learning/project-management-simplified-2019/key-project-drivers-24307154?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,7 +526,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -548,8 +536,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three ways to list all the project tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
+#### [Three ways to list all the project tasks](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,8 +603,7 @@ created: 2026-05-02
 > **Env Vars:** wbs (1)
 > **Speakers:** - step (1)
 
-#### Choose the level of granularity
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980)
+#### [Choose the level of granularity](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980&t=104)** So you'd have to granulate the trench to show when you can start laying the pipes.
 >
-> **[1:51](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980&t=111)** The third sign of a task being too large is the forbidden O-word, which is so bad that I can't even say it.
+> **[1:51](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980&t=111)** The third sign of a task being too large is the forbidden O-[[Microsoft Word|word]], which is so bad that I can't even say it.
 >
 > **[2:00](https://www.linkedin.com/learning/project-management-simplified-2019/choose-the-level-of-granularity-24306292?u=76281980&t=120)** Here it is on the screen.
 >
@@ -677,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -690,8 +676,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Post-its to plan the order of tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
+#### [Use Post-its to plan the order of tasks](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,15 +732,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - step (1)
 
-#### How to estimate durations
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-estimate-durations-24306290?u=76281980)
+#### [How to estimate durations](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-estimate-durations-24306290?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,13 +764,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - next (1)
 
-#### The importance of your project's critical path
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/the-importance-of-your-project-s-critical-path-24301533?u=76281980)
+#### [The importance of your project's critical path](https://www.linkedin.com/learning/project-management-simplified-2019/the-importance-of-your-project-s-critical-path-24301533?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +854,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** go back to (1)
@@ -886,8 +866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How much safety margin does a project need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
+#### [How much safety margin does a project need?](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,8 +934,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
-#### How to calculate and add contingency
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-calculate-and-add-contingency-24308116?u=76281980)
+#### [How to calculate and add contingency](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-calculate-and-add-contingency-24308116?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1020,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - some (1)
@@ -1052,8 +1029,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to speed up your plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
+#### [How to speed up your plan](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1117,8 +1093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create a Gantt chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
+#### [How to create a Gantt chart](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,11 +1117,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=48)** So always do the post-Its before you make your Gantt chart.
 >
-> **[0:52](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=52)** I'm going to show you how you can easily convert the post-it plan across into the Gantt chart using Excel.
+> **[0:52](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=52)** I'm going to show you how you can easily convert the post-it plan across into the Gantt chart using [[Microsoft Excel|Excel]].
 >
 > **[1:00](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=60)** I like Excel because everyone's got it and we all know how to use it already.
 >
-> **[1:04](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=64)** But you could also use Microsoft Project or one of many other project management software packages.
+> **[1:04](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=64)** But you could also use [[Microsoft]] Project or one of many other project management software packages.
 >
 > **[1:10](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980&t=70)** And the principles that I'm going to show you are the same whatever software you use.
 >
@@ -1200,14 +1175,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### A reason to love Gantt charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/a-reason-to-love-gantt-charts-24302493?u=76281980)
+#### [A reason to love Gantt charts](https://www.linkedin.com/learning/project-management-simplified-2019/a-reason-to-love-gantt-charts-24302493?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,12 +1235,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Set up a basic Gantt chart in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980)
+#### [Set up a basic Gantt chart in Excel](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=0)** - I like Excel best for making my Gantt charts, and I've used it even for 20-million-pound projects.
+> **[0:00](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=0)** - I like [[Microsoft Excel|Excel]] best for making my Gantt charts, and I've used it even for 20-million-pound projects.
 >
 > **[0:07](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=7)** It's quick and easy, as I'll show you now.
 >
@@ -1520,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (2)
@@ -1528,8 +1501,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - i (1)
 
-#### Add names and dates to your Gantt
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/add-names-and-dates-to-your-gantt-24308117?u=76281980)
+#### [Add names and dates to your Gantt](https://www.linkedin.com/learning/project-management-simplified-2019/add-names-and-dates-to-your-gantt-24308117?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,8 +1558,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add time and money to your Gantt
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980)
+#### [Add time and money to your Gantt](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1572,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=21)** She's going to spend a day a week googling and researching.
 >
-> **[0:26](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=26)** And let's suppose that Cody is going to have to have a four-hour meeting with the permit issuing office, and then he's going to have to wait.
+> **[0:26](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=26)** And let's suppose that Cody is going to have to have a four-hour meeting with the permit issuing [[Microsoft Office|office]], and then he's going to have to wait.
 >
 > **[0:37](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=37)** Now, I don't like the way it doesn't color in if there's a zero.
 >
@@ -1691,11 +1662,11 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=277)** And then I can keep my high-level Gantt nice and simple, and then I can drill into the details of getting the permit when I get to that task if I want to.
 >
-> **[4:48](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=288)** So there you are. That is a Gantt chart in Excel.
+> **[4:48](https://www.linkedin.com/learning/project-management-simplified-2019/add-time-and-money-to-your-gantt-24304475?u=76281980&t=288)** So there you are. That is a Gantt chart in [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1707,8 +1678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resource planning for one project
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
+#### [Resource planning for one project](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1770,13 +1740,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), parallel (1), hit (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - step (1)
 
-#### Resource planning for multiple projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-multiple-projects-24308119?u=76281980)
+#### [Resource planning for multiple projects](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-multiple-projects-24308119?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1834,7 +1802,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
@@ -1844,8 +1811,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create a Risk chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
+#### [How to create a Risk chart](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1903,7 +1869,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
@@ -1913,8 +1878,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to monitor project progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
+#### [How to monitor project progress](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,7 +1956,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - how (1)
@@ -2002,8 +1965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cost monitoring: The potential traps
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
+#### [Cost monitoring: The potential traps](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2087,8 +2049,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - i (1)
 
-#### The six combinations of progress and spend
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980)
+#### [The six combinations of progress and spend](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2166,20 +2127,19 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980&t=272)** So that's the thought process where you combine the actual and planned spend figures with the amount of progress made, which you can get from the Gantt chart and you keep half an eye on non-linear spend.
 >
-> **[4:45](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980&t=285)** Is the work that you've done or have not done or still have to do significantly more expensive than the rest of the job?
+> **[4:45](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980&t=285)** Is the work that you've done or have not done or still have to do significantly more expensive than the [[Representational State Transfer (REST)|rest]] of the job?
 >
 > **[4:55](https://www.linkedin.com/learning/project-management-simplified-2019/the-six-combinations-of-progress-and-spend-24304473?u=76281980&t=295)** The big point really is always check your Gantt chart when you're looking at financial information and the interpretation is then pretty much common sense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - step (1)
 
-#### How to forecast future cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-forecast-future-cost-24301538?u=76281980)
+#### [How to forecast future cost](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-forecast-future-cost-24301538?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2241,8 +2201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to re-adjust the plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
+#### [When to re-adjust the plan](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2295,8 +2254,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - at (1)
 
-#### What to do when your project is late or over budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-to-do-when-your-project-is-late-or-over-budget-24308118?u=76281980)
+#### [What to do when your project is late or over budget](https://www.linkedin.com/learning/project-management-simplified-2019/what-to-do-when-your-project-is-late-or-over-budget-24308118?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2346,7 +2304,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - it (1)
@@ -2356,8 +2313,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why people avoid reviewing projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
+#### [Why people avoid reviewing projects](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,14 +2377,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - every (1)
 
-#### How to review a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980)
+#### [How to review a project](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2474,7 +2428,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980&t=131)** Some project management systems don't allow project closure until a review form has been filled, and I like that.
 >
-> **[2:18](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980&t=138)** I generally don't like forms, but I do think that a Gantt chart is the number one essential for a project.
+> **[2:18](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980&t=138)** I generally don't like [[Forms]], but I do think that a Gantt chart is the number one essential for a project.
 >
 > **[2:24](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-review-a-project-24302495?u=76281980&t=144)** And number two is a review form.
 >
@@ -2484,7 +2438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
@@ -2493,8 +2447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the simple 12-step process
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)
+#### [Apply the simple 12-step process](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2516,7 +2469,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=27)** And it works for every project.
 >
-> **[0:29](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=29)** You can use it now for the rest of your life, whatever job you are doing.
+> **[0:29](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=29)** You can use it now for the [[Representational State Transfer (REST)|rest]] of your life, whatever job you are doing.
 >
 > **[0:33](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=33)** That's the great thing.
 >
@@ -2534,7 +2487,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=69)** You can dip back in whenever you need to if you need a refresher or if you can't remember all the details.
 >
-> **[1:16](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=76)** Good luck with all of your future projects, and please do link in to me and keep in touch via LinkedIn.
+> **[1:16](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=76)** Good luck with all of your future projects, and please do link in to me and keep in touch via [[LinkedIn]].
 >
 > **[1:22](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980&t=82)** I really would like to hear from you.
 >
@@ -2542,7 +2495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - well (1)
 

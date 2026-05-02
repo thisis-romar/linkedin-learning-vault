@@ -84,18 +84,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
+#### [Welcome to the course](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=0)** - Welcome to this course on Measures and Metrics.
 >
-> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=3)** In this course, you're going to receive a great overview of how to determine what to measure within your organization in order for you to drive decision-making for further growth and improvement.
+> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=3)** In this course, you're going to receive a great overview of how to determine what to measure within your organization in order for you to drive [[Decision-Making]] for further growth and improvement.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=13)** In addition to that, we're going to explore the different types of measures, measurement models and assessment methods that are commonly used in today's digital organizations around the world.
 >
-> **[0:22](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=22)** This course is designed for information technology, service management practitioners, managers, and executives, who are involved in the operation and oversight of products, services or transformation projects inside today's modern digital organizations.
+> **[0:22](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=22)** This course is designed for information technology, service management practitioners, managers, and executives, who are involved in the operation and oversight of [[Microsoft Products|products]], services or transformation projects inside today's modern digital organizations.
 >
 > **[0:35](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=35)** By the end of this course, you're going to be able to understand, not only what to measure, but also why you should measure inside your organization to ensure you aren't wasting your money by capturing unnecessary numbers, or your time by generating unnecessary reports.
 >
@@ -103,9 +102,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=53)** My name is Jason Dion, and I'm the lead instructor at Dion Training Solutions.
 >
-> **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=58)** I've been working in the it service management and cybersecurity field for over two decades for organizations, both large and small.
+> **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=58)** I've been working in the [[IT Service Management]] and [[Cybersecurity]] field for over two decades for organizations, both large and small.
 >
-> **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=65)** In all these organizations though, the common thread was always ITIL.
+> **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=65)** In all these organizations though, the common thread was always [[ITIL]].
 >
 > **[1:09](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=69)** When I talk about small organizations, I'm talking about organizations with less than about 20 people, like my own company, Dion Training.
 >
@@ -173,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (6), management (2), [[IT Service Management]] (2), [[Cybersecurity]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (6), [[IT Service Management]] (2), [[Cybersecurity]] (2), [[Decision-Making]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** itil (6), pdf (1)
 > **URLs:** [facebook.com](https://facebook.com) (1), [diontraining.com](https://diontraining.com) (1)
 > **UI Navigation:** click on (2)
@@ -182,12 +181,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** heads up (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-you-should-know?u=76281980&t=0)** - This course is designed for students who already have some experience with IT service management or the ITIL framework.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-you-should-know?u=76281980&t=0)** - This course is designed for students who already have some experience with [[IT Service Management]] or the [[ITIL]] framework.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-you-should-know?u=76281980&t=6)** Or you're probably going to find it easier to complete this course if you already have the ITIL 4 Foundation certification or have a technology background, that is not a requirement for this course.
 >
@@ -210,8 +208,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start with why
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
+#### [Start with why](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,13 +308,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Engineering]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** imac (1)
 > **Speakers:** - before (1)
 
-#### Vision and mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980)
+#### [Vision and mission](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980&t=97)** The reason this vision is so unattainable is because they want to be able to get everything available online.
 >
-> **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980&t=103)** Now, Amazon has a lot of products, but they don't have 100% of everything on the internet that's available to buy, and that is our ultimate vision.
+> **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980&t=103)** Now, Amazon has a lot of [[Microsoft Products|products]], but they don't have 100% of everything on the internet that's available to buy, and that is our ultimate vision.
 >
 > **[1:52](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/vision-and-mission?u=76281980&t=112)** So you could see how this vision is this bigger overarching thing that is constantly driving them towards that ultimate nirvana, but they're not quite there yet.
 >
@@ -445,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1), [[Microsoft Products|Products]] (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
@@ -453,8 +448,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### Cascading goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980)
+#### [Cascading goals](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980&t=90)** Well, maybe my overall purpose is to have happy customers.
 >
-> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980&t=94)** And one of the objectives we're going to have is to make happy customers by delivering products efficiently.
+> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980&t=94)** And one of the objectives we're going to have is to make happy customers by delivering [[Microsoft Products|products]] efficiently.
 >
 > **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/cascading-goals?u=76281980&t=100)** Then underneath that, we have indicators of that.
 >
@@ -614,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), teams (2), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** smart (7)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
@@ -627,8 +621,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measurements and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
+#### [Measurements and metrics](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=14)** Now, to do this we're going to need to collect a lot of data.
 >
-> **[0:17](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=17)** Now, data is collected on products, services, practices, value chain activities, teams, individuals, suppliers, partners, and the entire organization.
+> **[0:17](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=17)** Now, data is collected on [[Microsoft Products|products]], services, practices, value chain activities, teams, individuals, suppliers, partners, and the entire organization.
 >
 > **[0:27](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=27)** And by taking all of this information, we can then do some measurement and eventually report on it.
 >
@@ -654,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=45)** All those types of things.
 >
-> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=46)** Now that's the basic idea of a measurement, but in the IT world, you'll hear the word metric used a lot.
+> **[0:46](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=46)** Now that's the basic idea of a measurement, but in the IT world, you'll hear the [[Microsoft Word|word]] metric used a lot.
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=52)** A metric is simply a measurement or a calculation that is monitored or reported on for management and improvement.
 >
@@ -762,18 +755,17 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=284)** And is that a good thing for the organization or a bad thing.
 >
-> **[4:47](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=287)** In the rest of this section, we're going to dive deeper into what we measure, why we measure, the types of measurements and the effects of measuring on your organization.
+> **[4:47](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980&t=287)** In the [[Representational State Transfer (REST)|rest]] of this section, we're going to dive deeper into what we measure, why we measure, the types of measurements and the effects of measuring on your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (1), teams (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - measurements (1)
 
-#### What should you measure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-should-you-measure?u=76281980)
+#### [What should you measure?](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-should-you-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,13 +821,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - when (1)
 
-#### Why do you measure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980)
+#### [Why do you measure?](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,7 +877,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980&t=130)** We look at the metrics and we look at past performance.
 >
-> **[2:12](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980&t=132)** For instance, the whole reason that this course exists is because we were able to justify with the metrics that our previous ITIL courses were very popular.
+> **[2:12](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980&t=132)** For instance, the whole reason that this course exists is because we were able to justify with the metrics that our previous [[ITIL]] courses were very popular.
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/why-do-you-measure?u=76281980&t=141)** There's some of our most popular courses and therefore we should make more ITIL courses.
 >
@@ -933,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[ITIL]] (2)
+> **Frameworks & Libraries:** [[ITIL]] (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** itil (2), xyz (2)
 > **Analogies:** for instance (2), for example (1)
@@ -941,8 +931,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Five types of measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/five-types-of-measures?u=76281980)
+#### [Five types of measures](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/five-types-of-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,11 +1121,11 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/five-types-of-measures?u=76281980&t=427)** And so these types of things are all weighing against each other.
 >
-> **[7:10](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/five-types-of-measures?u=76281980&t=430)** And it becomes really important for us not only to consider these five types of measurements in isolation as part of our data collection efforts, but we also have to look at them holistically to ensure they're not at odds with each other and that they're all balanced out appropriately.
+> **[7:10](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/five-types-of-measures?u=76281980&t=430)** And it becomes really important for us not only to consider these five types of measurements in isolation as part of our [[Data Collection]] efforts, but we also have to look at them holistically to ensure they're not at odds with each other and that they're all balanced out appropriately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (3), [[Search]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** prince2 (3)
 > **Definitions:** is a  (2), known as (1)
@@ -1145,8 +1134,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** be careful (1)
 
-#### What is measured gets done
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-is-measured-gets-done?u=76281980)
+#### [What is measured gets done](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/what-is-measured-gets-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,17 +1252,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Success factors and KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980)
+#### [Success factors and KPIs](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=0)** - In this lesson, I'm going to use terminology that's used within the ITIL 4 framework, since it is the world's most popular IT service management framework, but the concepts are similar across most service management methodologies that you may choose to use in your organization.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=0)** - In this lesson, I'm going to use terminology that's used within the [[ITIL]] 4 framework, since it is the world's most popular [[IT Service Management]] framework, but the concepts are similar across most service management methodologies that you may choose to use in your organization.
 >
 > **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=14)** Whereas ITIL refers to these success factors under the nomenclature of practice success factors, other frameworks sometimes call them critical success factors, or CSFs, or simply success factors.
 >
@@ -1404,7 +1390,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=381)** You don't have to measure a percentage or a number, it can be measuring a yes or no.
 >
-> **[6:25](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=385)** Some organizations do this in terms of like cybersecurity.
+> **[6:25](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=385)** Some organizations do this in terms of like [[Cybersecurity]].
 >
 > **[6:28](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/success-factors-and-kpis?u=76281980&t=388)** A KPI might say, did a data breach occur this year?
 >
@@ -1434,7 +1420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (5), next (3), management (2), data (2), [[IT Service Management]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (5), [[IT Service Management]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** kpi (9), itil (5), psf (1)
 > **Definitions:** means that (3), is a  (2), refers to (1), known as (1), is an  (1)
 > **Analogies:** for example (5)
@@ -1443,8 +1429,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (2)
 > **Speakers:** - in (1)
 
-#### Utility, warranty, and experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980)
+#### [Utility, warranty, and experience](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1529,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980&t=268)** Now, the third type of metric we're going to look at is experience metrics.
 >
-> **[4:31](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980&t=271)** And experience metrics are increasingly being used inside of our SLAs because customer experience and user experience is so darn important to us.
+> **[4:31](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980&t=271)** And experience metrics are increasingly being used inside of our SLAs because customer experience and [[User Experience (UX)|user experience]] is so darn important to us.
 >
 > **[4:40](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/utility-warranty-and-experience?u=76281980&t=280)** Oftentimes you'll see SLA converted into XLA, which is the experience-level agreement just like a service-level agreement, but focused on experience.
 >
@@ -1578,7 +1563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), web (1), [[Security]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (4), known as (1), is an  (1), means that (1)
 > **Env Vars:** sla (4), xla (1)
 > **Cross-References:** in the last (1), we discussed (1), go back to (1)
@@ -1592,8 +1577,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measurement models
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
+#### [Measurement models](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,17 +1595,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Planning and evaluation model
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/planning-and-evaluation-model?u=76281980)
+#### [Planning and evaluation model](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/planning-and-evaluation-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/planning-and-evaluation-model?u=76281980&t=0)** - Measurements and metrics must align with higher level requirements including your organization's vision and mission, if they're going to be used effectively to drive decision-making and improvement.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/planning-and-evaluation-model?u=76281980&t=0)** - Measurements and metrics must align with higher level requirements including your organization's vision and mission, if they're going to be used effectively to drive [[Decision-Making]] and improvement.
 >
 > **[0:10](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/planning-and-evaluation-model?u=76281980&t=10)** In this lesson, we're going to focus on the planning and evaluation model.
 >
@@ -1773,15 +1755,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Decision-Making]] (1), next (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (3)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (2), for example (1)
 > **Speakers:** - measurements (1)
 
-#### Balanced scorecard
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980)
+#### [Balanced scorecard](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,7 +1778,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=28)** These are customer, financial, internal or business processes and innovation or learning and growth.
 >
-> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=34)** In terms of the balanced scorecard, the use of customer here is a generic term and it really is more closely linked to the term consumer in the ITIL 4 framework.
+> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=34)** In terms of the balanced scorecard, the use of customer here is a generic term and it really is more closely linked to the term consumer in the [[ITIL]] 4 framework.
 >
 > **[0:42](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=42)** Similar organizations consider their customer to be their shareholders.
 >
@@ -1807,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=58)** Often, this perspective is focused on what is important to our customers and our stakeholders.
 >
-> **[1:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=63)** And this is going to measure things for us, like the percentage of sales from new products, our on time delivery, our share of important customers purchases, and our ranking from our important customers.
+> **[1:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=63)** And this is going to measure things for us, like the percentage of sales from new [[Microsoft Products|products]], our on time delivery, our share of important customers purchases, and our ranking from our important customers.
 >
 > **[1:13](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=73)** Now, the financial perspective is going to focus on traditional management of finances that every organization needs to include within their scorecard.
 >
@@ -1819,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=96)** This can be a good leading indicator of future performance when you're developing your own metrics and indicators.
 >
-> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=101)** Often, this is going to ask the question of what must we excel at and measure things like our cycle time, our unit costs, our yield and our new product introductions.
+> **[1:41](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=101)** Often, this is going to ask the question of what must we [[Microsoft Excel|excel]] at and measure things like our cycle time, our unit costs, our yield and our new product introductions.
 >
 > **[1:50](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/balanced-scorecard?u=76281980&t=110)** Our fourth one is the innovation or learning and growth perspective.
 >
@@ -1885,14 +1866,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), business (3), product (3), [[Microsoft Products|Products]] (2), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[ITIL]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - the (1)
 
-#### Organizational improvement cascade
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980)
+#### [Organizational improvement cascade](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1902,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=64)** Then we're going to break those down into the different business units within our company.
 >
-> **[1:08](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=68)** Maybe we have decided that student satisfaction means that a student must not have any difficulties paying for their courses, so our finance department and our web development team might set up some metrics around the percentage of successful payments versus the percentage of unsuccessful payments.
+> **[1:08](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=68)** Maybe we have decided that student satisfaction means that a student must not have any difficulties paying for their courses, so our finance department and our [[Web Development]] team might set up some metrics around the percentage of successful payments versus the percentage of unsuccessful payments.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=82)** Now, we also know student satisfaction has to do with how quickly a student can get an email response when they ask a question.
 >
@@ -1932,7 +1912,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=96)** Now, we want to measure each team under the student support team.
 >
-> **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=99)** Maybe our ITIL team has one measurement and our PRINCE2 team has another.
+> **[1:39](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=99)** Maybe our [[ITIL]] team has one measurement and our PRINCE2 team has another.
 >
 > **[1:43](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=103)** Each team will have the same ones or they can have different ones.
 >
@@ -1942,7 +1922,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=113)** Then we can set some same or different metrics for each of the members of those teams.
 >
-> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=118)** Maybe John is going to have a 12-hour metric, but Susie might have a 20-hour metric.
+> **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=118)** Maybe [[John the Ripper|John]] is going to have a 12-hour metric, but Susie might have a 20-hour metric.
 >
 > **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/organizational-improvement-cascade?u=76281980&t=123)** Again, that really doesn't make much sense, but you could do that if you wanted to.
 >
@@ -1956,15 +1936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), [[Web Development]] (1), [[ITIL]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1), [[ITIL]] (1), [[John the Ripper|John]] (1)
 > **Env Vars:** itil (1), prince2 (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - organizational (1)
 
-#### Measuring outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980)
+#### [Measuring outcomes](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2002,7 +1981,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=109)** In a complicated environment, you need to clearly define your outcomes, and then use collaboration to get good measurements, and clearly map out the customer outcomes to be able to get the right things.
 >
-> **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=119)** Now, if you're in a complex environment, you're going to have to use experimentation and hypothesis testing in an agile manner.
+> **[1:59](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=119)** Now, if you're in a complex environment, you're going to have to use experimentation and hypothesis testing in an [[Agile Development|agile]] manner.
 >
 > **[2:06](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=126)** This way, you can set and check your key performance indicators during each sprint, and constantly change them until you get them right.
 >
@@ -2098,7 +2077,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=341)** So this is just another way of looking at things.
 >
-> **[5:43](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=343)** And this works a lot better on the service side, from the user experience and the customer experience, than looking at the Value Driver Model that we just talked about.
+> **[5:43](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=343)** And this works a lot better on the service side, from the [[User Experience (UX)|user experience]] and the customer experience, than looking at the Value Driver Model that we just talked about.
 >
 > **[5:51](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measuring-outcomes?u=76281980&t=351)** Now, as we start tracking our experience and satisfaction, we have to think about how do we measure the outcomes that can't be measured quantitatively?
 >
@@ -2134,7 +2113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), [[User Experience (UX)|User experience]] (2), [[Agile Development|Agile]] (1), hit (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
@@ -2145,14 +2124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
+#### [Assessments](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980&t=0)** - In this section of the course, we're going to cover a few different assessment methods that you can use within your company or organization.
 >
-> **[0:07](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980&t=7)** Now, in the last section, we focus on gathering data and information about the current state of our services and our products by using measurement models.
+> **[0:07](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980&t=7)** Now, in the last section, we focus on gathering data and information about the current state of our services and our [[Microsoft Products|products]] by using measurement models.
 >
 > **[0:15](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980&t=15)** But now we're going to analyze all of that data and information in order to assess its meaning and get a more accurate understanding of our current state.
 >
@@ -2174,13 +2152,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Gap analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980)
+#### [Gap analysis](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2224,21 +2201,20 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980&t=125)** Also, sometimes there's areas that are performing similar or duplicate functions, and these may not be included in the scope of an analysis.
 >
-> **[2:12](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980&t=132)** For instance, incident response teams that are performing change management may not be considered as part of incident response or change management, because they're not one or the other, they're both.
+> **[2:12](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980&t=132)** For instance, [[Incident Response]] teams that are performing change management may not be considered as part of incident response or change management, because they're not one or the other, they're both.
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/gap-analysis?u=76281980&t=141)** And this can also lead to an incomplete assessment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (2), management (2), product (1), teams (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - first (1)
 
-#### SWOT analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/swot-analysis?u=76281980)
+#### [SWOT analysis](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/swot-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,15 +2252,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (5), management (1), business (1), product (1)
 > **Env Vars:** swot (10)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
 
-#### Customer/user satisfaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980)
+#### [Customer/user satisfaction](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2308,7 +2282,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=62)** Now, there are several benefits to doing a customer or user satisfaction analysis.
 >
-> **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=66)** First, it can provide insight onto the value of the products or services and tell you if your customers and users have faith in your service provider's ability to meet its commitments.
+> **[1:06](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=66)** First, it can provide insight onto the value of the [[Microsoft Products|products]] or services and tell you if your customers and users have faith in your service provider's ability to meet its commitments.
 >
 > **[1:16](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=76)** Second, it can monitor the customer and user's perceptions of the organization's commitment to the service relationship.
 >
@@ -2338,7 +2312,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=149)** So if you call a customer to ask how they did, they may actually give you a happier answer than you really are doing because they just want you to go away.
 >
-> **[2:36](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=156)** So you need to be careful in how you design your customer and user experience metrics and how you're collecting them because those metrics and measurement models will affect the scores themselves that you're going to be assessing as part of your customer and user satisfaction analysis.
+> **[2:36](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/customer-user-satisfaction?u=76281980&t=156)** So you need to be careful in how you design your customer and [[User Experience (UX)|user experience]] metrics and how you're collecting them because those metrics and measurement models will affect the scores themselves that you're going to be assessing as part of your customer and user satisfaction analysis.
 
 > [!info]- Semantic Content
 >
@@ -2348,14 +2322,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Benchmarking
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980)
+#### [Benchmarking](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=0)** - The fourth assessment method we have is known as benchmarking.
 >
-> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=3)** Benchmarking is the act of measuring the performance of an organization's products, services, or practices against those of a similar organization.
+> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=3)** Benchmarking is the act of measuring the performance of an organization's [[Microsoft Products|products]], services, or practices against those of a similar organization.
 >
 > **[0:11](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=11)** So here you're comparing an organization to one that performs better, and this may highlight change initiatives that could yield tangible improvements.
 >
@@ -2367,7 +2340,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=52)** And so although benchmarking is generally done at the organizational level, it can also be done in specific areas of a high performing organization.
 >
-> **[1:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=60)** For example, a problem manager may want to understand what another organization with a lower major incident rate is doing in their problem management practice so they can benchmark against that practice and not the overall organization.
+> **[1:00](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=60)** For example, a problem manager may want to understand what another organization with a lower major incident rate is doing in their [[Problem Management]] practice so they can benchmark against that practice and not the overall organization.
 >
 > **[1:12](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/benchmarking?u=76281980&t=72)** Now, if you talk to counterparts in similar roles, this can provide you valuable insights which may lead to worthy improvement initiatives.
 >
@@ -2441,7 +2414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Problem Management]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Problem Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** known as (1)
@@ -2449,8 +2422,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - the (1)
 
-#### Maturity assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980)
+#### [Maturity assessments](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,7 +2476,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980&t=118)** Now, what I mean by this is there are lots of different maturity models, and they don't all align together.
 >
-> **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980&t=123)** So if you're a software development company, there is three or four or five different maturity models you can look at, and depending on the one you choose, you're going to go in one direction or the other.
+> **[2:03](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980&t=123)** So if you're a [[Software Development]] company, there is three or four or five different maturity models you can look at, and depending on the one you choose, you're going to go in one direction or the other.
 >
 > **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/maturity-assessments?u=76281980&t=131)** Also, mature organizations or processes can be costly.
 >
@@ -2522,14 +2494,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Software Development]] (1), hit (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### Reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980)
+#### [Reporting](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2555,7 +2526,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980&t=73)** These levels are all going to be interconnected.
 >
-> **[1:15](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980&t=75)** The service provider needs to try to map service performance metrics to the consumer process performance indicators, their strategic objectives, and the consumer's purposes.
+> **[1:15](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980&t=75)** The service provider needs to try to map service [[Performance Metrics]] to the consumer process performance indicators, their strategic objectives, and the consumer's purposes.
 >
 > **[1:25](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/reporting?u=76281980&t=85)** The customer needs to link the service level with its strategic objectives and analyze how well the service is contributing to a service consumer's purpose.
 >
@@ -2585,7 +2556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** myaxelos (1), myitil (1)
 > **Definitions:** is a  (2)
@@ -2597,8 +2568,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,7 +2598,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=77)** Where should I go from here?
 >
-> **[1:19](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=79)** Well, if you're working in IT service management and you haven't taken your ITIL 4 Foundation certification exam yet, I highly recommend you begin there.
+> **[1:19](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=79)** Well, if you're working in [[IT Service Management]] and you haven't taken your [[ITIL]] 4 Foundation certification exam yet, I highly recommend you begin there.
 >
 > **[1:27](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=87)** ITIL 4 Foundation is literally the world's most popular IT service management certification and framework for a really good reason.
 >
@@ -2640,7 +2610,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=117)** This intermediate level exam is going to focus on your ability to lead and manage at the executive level within your organization.
 >
-> **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=124)** In this course, we're going to dive deep into various idol practices such as continual improvement and organizational change management.
+> **[2:04](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=124)** In this course, we're going to dive deep into various idol practices such as continual improvement and [[Organizational Change Management]].
 >
 > **[2:11](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980&t=131)** Now, once again, congratulations on making it to the end of this course.
 >
@@ -2648,7 +2618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (9), [[IT Service Management]] (2), data (1), next (1), [[Organizational Change Management]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (9), [[IT Service Management]] (2), [[Organizational Change Management]] (1)
 > **Env Vars:** itil (9), swot (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **URLs:** [diontraining.com](https://diontraining.com) (1)

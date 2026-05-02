@@ -87,38 +87,36 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaboration at its finest with GitHub issues and projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980)
+#### [Collaboration at its finest with GitHub issues and projects](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=0)** - [Teresa Miller] Working in a collaborative team workspace can be difficult without the correct tools and implementation, especially with the plethora of issue tracking and organization solutions that exist today.
 >
-> **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=11)** In this course, we'll be looking at how to create an effortless and manageable collaboration within all types of teams using GitHub's issues and projects, which will include utilizing issues, task lists, templates, automation, layouts, and much more.
+> **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=11)** In this course, we'll be looking at how to create an effortless and manageable collaboration within all types of teams using [[GitHub]]'s issues and projects, which will include utilizing issues, task lists, templates, automation, layouts, and much more.
 >
 > **[0:28](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=28)** I'm Teresa Luz Miller and a community driven web developer who is a former GitHub campus expert.
 >
-> **[0:33](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=33)** I'm excited to share what I know about GitHub and offer you fun, easy to follow instructions that will enhance your technical skills while also strengthening your team collaboration.
+> **[0:33](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=33)** I'm excited to share what I know about GitHub and offer you fun, easy to follow instructions that will enhance your technical skills while also strengthening your [[Team Collaboration]].
 >
-> **[0:43](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=43)** If you're someone who wants to take your team to the next level in terms of large scale collaboration to include transparency that can support innovation, knowledge sharing, and community building, join me in my LinkedIn Learning course.
+> **[0:43](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=43)** If you're someone who wants to take your team to the next level in terms of large scale collaboration to include transparency that can support innovation, knowledge sharing, and community building, join me in my [[LinkedIn]] Learning course.
 >
 > **[0:54](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980&t=54)** Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), teams (1), [[Automation]] (1), web (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Team Collaboration]] (1), [[LinkedIn]] (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [teresa (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed for both beginner and intermediate learners.
 >
-> **[0:04](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980&t=4)** Although, it is assumed you have some basic knowledge of GitHub and have used it before, like creating repositories or pull requests.
+> **[0:04](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980&t=4)** Although, it is assumed you have some basic knowledge of [[GitHub]] and have used it before, like creating repositories or pull requests.
 >
 > **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/what-you-should-know?u=76281980&t=11)** If you need a refresher, we recommend navigating to GitHub's Quick Start Guide to get a high-level overview of GitHub and a recap of the fundamental features that will be utilized in this course.
 >
@@ -135,14 +133,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980)
+#### [Creating an issue](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=0)** - [Narrator] Track work and collaboration on GitHub where development happens.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=0)** - [Narrator] Track work and collaboration on [[GitHub]] where development happens.
 >
-> **[0:03](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=3)** The first step in this LinkedIn Learning course will focus on how to create an issue and the different methods on how to do so.
+> **[0:03](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=3)** The first step in this [[LinkedIn]] Learning course will focus on how to create an issue and the different methods on how to do so.
 >
 > **[0:09](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=9)** An issue can be conceptualized as a ticket or tracking tool for teams to communicate through with a concentration on a specific idea, work, and/or bugs without ever needing to leave GitHub.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=232)** There are a plethora of methods on how to create issues.
 >
-> **[3:56](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=236)** Provided to you are the four most common methods, but if you would like to know how to open issue through code scanning or the GitHub CLI, check out this resource to learn how.
+> **[3:56](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=236)** Provided to you are the four most common methods, but if you would like to know how to open issue through code scanning or the GitHub [[CLI]], check out this resource to learn how.
 >
 > **[4:05](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980&t=245)** Congratulations!
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[LinkedIn]] (1), teams (1), feature (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[LinkedIn]] (1), [[CLI]] (1)
 > **UI Navigation:** click on (11), navigate to (2), go to (1), select the (1)
 > **Tools:** github (5)
 > **Analogies:** such as (1), for example (1)
@@ -241,8 +238,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using task lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-task-lists?u=76281980)
+#### [Using task lists](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-task-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,14 +280,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), feature (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** checkbox (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding assignees
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980)
+#### [Adding assignees](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980&t=6)** You might be able to recall a time where you were mentioned in a comment or direct message about the status of a duty whose existence you weren't even aware of.
 >
-> **[0:14](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980&t=14)** Luckily, GitHub Issues contains the feature of being able to assign team members to specific issues to clarify who's responsible for a certain duty for moments like those.
+> **[0:14](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980&t=14)** Luckily, [[GitHub]] Issues contains the feature of being able to assign team members to specific issues to clarify who's responsible for a certain duty for moments like those.
 >
 > **[0:24](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/adding-assignees?u=76281980&t=24)** In a repository's landing page under the Issues tab, navigate to the issue that we want to assign a team member to.
 >
@@ -325,13 +319,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking pull requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980)
+#### [Linking pull requests](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -339,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980&t=6)** We can move a step forward in this direction by implementing the built-in feature of linking pull requests to issues to showcase what work has been completed in relation to an open issue.
 >
-> **[0:16](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980&t=16)** For those who need a recap of what a pull request is, it is a feature within GitHub where team members can split from the project's code base to make changes and allow those changes to be reviewed before joining back to the main code base.
+> **[0:16](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980&t=16)** For those who need a recap of what a pull request is, it is a feature within [[GitHub]] where team members can split from the project's code base to make changes and allow those changes to be reviewed before joining back to the main code base.
 >
 > **[0:28](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/linking-pull-requests?u=76281980&t=28)** You can refer to this documentation on GitHub pull requests for more information.
 >
@@ -377,19 +370,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), feature (2), teams (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **UI Navigation:** navigate to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Differences between an issue, a discussion, and a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/differences-between-an-issue-discussion-and-pull-request?u=76281980)
+#### [Differences between an issue, a discussion, and a pull request](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/differences-between-an-issue-discussion-and-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/differences-between-an-issue-discussion-and-pull-request?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the world of collaboration and explore the key differences between an issue, discussion, and pull request on GitHub.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/differences-between-an-issue-discussion-and-pull-request?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the world of collaboration and explore the key differences between an issue, discussion, and pull request on [[GitHub]].
 >
 > **[0:09](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/differences-between-an-issue-discussion-and-pull-request?u=76281980&t=9)** Whether you're new or a seasoned GitHub user, understanding these concepts well is crucial to effective teamwork while contributing to projects.
 >
@@ -431,19 +423,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), feature (4), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (6)
 > **Tools:** github (6)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-labels?u=76281980)
+#### [Managing labels](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-labels?u=76281980&t=0)** - [Instructor] A common problem that occurs within collaborative teams on a GitHub project is that as time progresses, the amount of issues that are created can become overwhelming especially when no form of organization is applied to them.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-labels?u=76281980&t=0)** - [Instructor] A common problem that occurs within collaborative teams on a [[GitHub]] project is that as time progresses, the amount of issues that are created can become overwhelming especially when no form of organization is applied to them.
 >
 > **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-labels?u=76281980&t=11)** GitHub Labels attempt to solve that problem.
 >
@@ -489,15 +480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), teams (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[GitHub]] (4)
 > **UI Navigation:** select the (4), checkbox (1)
 > **Tools:** github (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing milestones
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-milestones?u=76281980)
+#### [Managing milestones](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-milestones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,14 +531,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), select the (2), checkbox (1), dropdown (1)
 > **Analogies:** such as (1), picture (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980)
+#### [Using templates](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=8)** Issue templates are helpful to minimize that frustration and are used to assist in providing a clear outline for contributors asking for help to ensure that everyone is on the same page.
 >
-> **[0:18](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=18)** Using the template builder feature within GitHub Issues, you can specify a title and description for each template, add the template content, and either commit the template to the default branch or open a pull request in the repository.
+> **[0:18](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=18)** Using the template builder feature within [[GitHub]] Issues, you can specify a title and description for each template, add the template content, and either commit the template to the default branch or open a pull request in the repository.
 >
 > **[0:30](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=30)** The template builder automatically adds the yml front matter markup that is required for the template to show on the new issue page.
 >
@@ -602,19 +590,18 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=154)** We've now successfully created our first issues template.
 >
-> **[2:38](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=158)** Issue Templates will be extremely helpful when you want to provide guidance for opening issues and permit contributors to provide specific structured information when they open issues allowing for more efficient team collaboration.
+> **[2:38](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-templates?u=76281980&t=158)** Issue Templates will be extremely helpful when you want to provide guidance for opening issues and permit contributors to provide specific structured information when they open issues allowing for more efficient [[Team Collaboration]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[GitHub]] (1), teams (1), prompt (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Team Collaboration]] (1)
 > **Exercise Files:** template (21)
 > **UI Navigation:** click on (3), select the (2), navigate to (1), scroll down (1), dropdown (1)
 > **Prerequisites:** set up (1), setup (1), required to (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: DIY issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/challenge-diy-issue?u=76281980)
+#### [Challenge: DIY issue](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/challenge-diy-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,15 +615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: DIY issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980)
+#### [Solution: DIY issue](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980&t=19)** As mentioned in previous lessons, there are multiple ways to create an issue.
 >
-> **[0:23](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980&t=23)** You can choose the most convenient method for your workflow, but for this solution, we'll showcase how to do so via the GitHub user interface by starting with creating a template.
+> **[0:23](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980&t=23)** You can choose the most convenient method for your workflow, but for this solution, we'll showcase how to do so via the [[GitHub]] user interface by starting with creating a template.
 >
 > **[0:32](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-issue?u=76281980&t=32)** We can begin by going into our repo's setting tab and scrolling to the features section, and under issues, clicking the setup template button.
 >
@@ -736,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **UI Navigation:** click on (6), select the (3)
 > **Exercise Files:** template (8)
 > **CLI Commands:** make (3)
@@ -750,12 +735,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Marking duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980)
+#### [Marking duplicates](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980&t=0)** - [Instructor] Over time, a repository can become unorganized and messy, with duplicate GitHub issues, especially as your team grows.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980&t=0)** - [Instructor] Over time, a repository can become unorganized and messy, with duplicate [[GitHub]] issues, especially as your team grows.
 >
 > **[0:07](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980&t=7)** A maintainer, someone who's responsible for managing a repo, which can include tracking and closing issues, ensuring related documentation is up to date, and arranging content to be understandable for new collaborators, is recommended to have an expanding repositories.
 >
@@ -789,12 +773,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Closing and deleting an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/closing-and-deleting-an-issue?u=76281980)
+#### [Closing and deleting an issue](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/closing-and-deleting-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/closing-and-deleting-an-issue?u=76281980&t=0)** - [Narrator] To show that a development bug has been fixed, that work has stopped for an issue and will not be followed into completion, or that team member feedback has been acted on, we can close a GitHub issue.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/closing-and-deleting-an-issue?u=76281980&t=0)** - [Narrator] To show that a development bug has been fixed, that work has stopped for an issue and will not be followed into completion, or that team member feedback has been acted on, we can close a [[GitHub]] issue.
 >
 > **[0:10](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/closing-and-deleting-an-issue?u=76281980&t=10)** GitHub also has the ability to delete an issue in its entirety in the rare case where it is beneficial to do so, such as a security leak or a sensitive data has been shared publicly.
 >
@@ -840,19 +823,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Security]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **UI Navigation:** navigate to (1), scroll down (1), dropdown (1), click on (1)
 > **Tools:** github (2)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Pinning an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/pinning-an-issue?u=76281980)
+#### [Pinning an issue](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/pinning-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/pinning-an-issue?u=76281980&t=0)** - [Instructor] Efficiency is always one of the top goals when using GitHub.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/pinning-an-issue?u=76281980&t=0)** - [Instructor] Efficiency is always one of the top goals when using [[GitHub]].
 >
 > **[0:03](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/pinning-an-issue?u=76281980&t=3)** By pinning the most visited or important issues in our repository, we are minimizing time spent searching for that specific issue, which can be critical in a collaborative space.
 >
@@ -889,8 +871,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing all issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980)
+#### [Viewing all issues](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980&t=5)** We can use them to update items that have gone stale, close them, or keep track of where we've been mentioned across all repositories, including those we're not subscribed to.
 >
-> **[0:15](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980&t=15)** The main issues dashboard exists at the top of GitHub's navigation bar, where it is visible on any page.
+> **[0:15](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980&t=15)** The main issues dashboard exists at the top of [[GitHub]]'s navigation bar, where it is visible on any page.
 >
 > **[0:21](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/viewing-all-issues?u=76281980&t=21)** To view issues you've created, that are assigned to you, or in which you're mentioned, click the issues navigation tab.
 >
@@ -914,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -924,14 +905,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980)
+#### [Creating a project](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=0)** - [Instructor] As the number of issues in a standard repository grows, we will find that tracking the life cycle and progress of them increasingly difficult over time.
 >
-> **[0:09](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=9)** By using GitHub projects, we gain a customizable tracking solution, using an easy-to-understand spreadsheet style for issues that teams thrive using, while eliminating the stale aspect of many existing tracking solutions.
+> **[0:09](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=9)** By using [[GitHub]] projects, we gain a customizable tracking solution, using an easy-to-understand spreadsheet style for issues that teams thrive using, while eliminating the stale aspect of many existing tracking solutions.
 >
 > **[0:22](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=22)** To begin, we'll head to our profile page to create our new project.
 >
@@ -975,7 +955,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=151)** Depending on which method we would like to use, let's go ahead and open the command palette.
 >
-> **[2:37](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=157)** We can press Command + K for Mac users or Ctrl + K for Windows and Linux users to do so.
+> **[2:37](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=157)** We can press Command + K for Mac users or Ctrl + K for [[Windows]] and [[Linux]] users to do so.
 >
 > **[2:43](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980&t=163)** Here, we can then go ahead and type in show followed by repository.
 >
@@ -1019,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Windows]] (2), [[Linux]] (2), teams (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Windows]] (2), [[Linux]] (2)
 > **UI Navigation:** select the (4), click on (2), open the (2), toggle (1), dropdown (1)
 > **Tools:** github (5)
 > **Env Vars:** readme (4)
@@ -1028,12 +1008,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 
-#### Attaching and removing issues to and from a project board
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980)
+#### [Attaching and removing issues to and from a project board](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=0)** - [Instructor] GitHub projects can track a couple of different items besides just proposed issues, which includes draft issues and pull requests.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=0)** - [Instructor] [[GitHub]] projects can track a couple of different items besides just proposed issues, which includes draft issues and pull requests.
 >
 > **[0:07](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=7)** But in this video, we will specifically focus on tracking issues.
 >
@@ -1101,7 +1080,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=234)** It'll ask us to confirm, and if we go ahead and click on archive, it'll remove it from our view.
 >
-> **[4:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=240)** To select multiple items, we can press the command and click for Mac users, or control and click for Windows and Linux on each item, and then the shift arrow up or the shift arrow down to toggle more issues, like so.
+> **[4:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=240)** To select multiple items, we can press the command and click for Mac users, or control and click for [[Windows]] and [[Linux]] on each item, and then the shift arrow up or the shift arrow down to toggle more issues, like so.
 >
 > **[4:16](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=256)** To delete the selected items, press the delete key.
 >
@@ -1126,12 +1105,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Toggling view and layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980)
+#### [Toggling view and layout](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=0)** - [Instructor] Within GitHub projects, we have the capacity to quickly view specific aspects of a project.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=0)** - [Instructor] Within [[GitHub]] projects, we have the capacity to quickly view specific aspects of a project.
 >
 > **[0:06](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=6)** Each view is displayed on a separate tab in a project.
 >
@@ -1147,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=44)** Depending on what is desired to be shown, we can edit other information in the view by selecting the dropdown option within the view tab as shown.
 >
-> **[0:52](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=52)** Whether done manually or through the command palette, there are several options that our view can be configured by that range from assignees, status, labels, LinkedIn pull requests, reviewers, repository, milestones, iterations, and other project-specific categories.
+> **[0:52](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=52)** Whether done manually or through the command palette, there are several options that our view can be configured by that range from assignees, status, labels, [[LinkedIn]] pull requests, reviewers, repository, milestones, iterations, and other project-specific categories.
 >
 > **[1:08](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=68)** In the Table layout, you can group items by a custom field value.
 >
@@ -1183,7 +1161,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=156)** Alternatively, we can change the same settings through the command palette to easily navigate through our project without the mouse.
 >
-> **[2:43](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=163)** To open and use the command pallet, you can simply press command + K for Macs or control + K for Windows and Linux users.
+> **[2:43](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=163)** To open and use the command pallet, you can simply press command + K for Macs or control + K for [[Windows]] and [[Linux]] users.
 >
 > **[2:50](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/toggling-view-and-layout?u=76281980&t=170)** Here, I'm just going to go ahead and switch back to our view.
 >
@@ -1205,23 +1183,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), next (1), [[LinkedIn]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[LinkedIn]] (1), [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** toggle (3), dropdown (3), click on (3), select the (1), switch to (1)
 > **Analogies:** for example (2), similar to (1)
 > **Tools:** github (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing iterations
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980)
+#### [Managing iterations](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=0)** - [Instructor] There are several methodologies that teams use as development frameworks.
 >
-> **[0:04](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=4)** For example, Scrum, where sprints or time boxes are used to achieve a goal with similar deliverables.
+> **[0:04](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=4)** For example, [[Scrum]], where sprints or time boxes are used to achieve a goal with similar deliverables.
 >
-> **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=11)** GitHub projects allows us to target this methodology via iterations.
+> **[0:11](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=11)** [[GitHub]] projects allows us to target this methodology via iterations.
 >
 > **[0:15](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=15)** Iterations can be set to any length of time, can include breaks, and can be individually edited to modify a name and date range.
 >
@@ -1279,11 +1256,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=185)** So, as you can see, it's now filtered by the specific iteration.
 >
-> **[3:10](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=190)** Iteration set up within projects can be a powerful tool for teams that use iterative development, such as software development teams, project managers, design teams, and many more, which can be easily adjusted to cater to your specific team.
+> **[3:10](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/managing-iterations?u=76281980&t=190)** Iteration set up within projects can be a powerful tool for teams that use iterative development, such as [[Software Development]] teams, project managers, design teams, and many more, which can be easily adjusted to cater to your specific team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Scrum]] (1), [[GitHub]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[GitHub]] (1), [[Software Development]] (1)
 > **UI Navigation:** click on (7), dropdown (3), select the (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (1), such as (1)
@@ -1292,12 +1269,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
 
-#### Automation through workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/automation-through-workflows?u=76281980)
+#### [Automation through workflows](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/automation-through-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/automation-through-workflows?u=76281980&t=0)** - [Instructor] GitHub includes an important and useful tool to lessen the burden of maintenance and management within projects.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/automation-through-workflows?u=76281980&t=0)** - [Instructor] [[GitHub]] includes an important and useful tool to lessen the burden of maintenance and management within projects.
 >
 > **[0:06](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/automation-through-workflows?u=76281980&t=6)** It's called Workflows.
 >
@@ -1341,15 +1317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), management (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: DIY project
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/challenge-diy-project?u=76281980)
+#### [Challenge: DIY project](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/challenge-diy-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,14 +1336,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: DIY project
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980)
+#### [Solution: DIY project](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1367,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980&t=82)** So the second task was to add an issue, so we can either do this through the UI or the command palette using a keyboard shortcut.
 >
-> **[1:30](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980&t=90)** It depends on what you're comfortable with, but I'm going to go ahead and use the keyboard shortcuts, to do so for Macs, you can click on the Command + K, or for Windows and Linux users, you can do Control + K.
+> **[1:30](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980&t=90)** It depends on what you're comfortable with, but I'm going to go ahead and use the keyboard shortcuts, to do so for Macs, you can click on the Command + K, or for [[Windows]] and [[Linux]] users, you can do Control + K.
 >
 > **[1:42](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/solution-diy-project?u=76281980&t=102)** So if I do Control + K, and then add items, we can select which repo we want to work out of from here and then select the issues that we want to attach to our project.
 >
@@ -1494,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Windows]] (1), [[Linux]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** click on (6), select the (4), go to (2), toggle (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** readme (3), url (1)
@@ -1508,12 +1481,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using issues and projects for teamwork planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980)
+#### [Using issues and projects for teamwork planning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980&t=0)** - [Instructor] Now that we've covered the basics of GitHub issues and projects to equip anyone with the needed tools to create a collaborative workspace within a team, you may or may not be able to brainstorm the different ways you can implement these skills to best suit your own team dynamic.
+> **[0:00](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980&t=0)** - [Instructor] Now that we've covered the basics of [[GitHub]] issues and projects to equip anyone with the needed tools to create a collaborative workspace within a team, you may or may not be able to brainstorm the different ways you can implement these skills to best suit your own team dynamic.
 >
 > **[0:15](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980&t=15)** As shown throughout this course, we wanted to highlight that using issues and projects is not strictly for software developers only.
 >
@@ -1535,15 +1507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), teams (3), [[Analytics]] (1), product (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **Analogies:** such as (2), for example (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for managing issues and projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980)
+#### [Best practices for managing issues and projects](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1581,7 +1552,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=78)** No one wants to be bombarded with a large number of issues that are identical in regards to topics that have already been solved or reviewed in other issues.
 >
-> **[1:26](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=86)** Although duplication is bound to happen in a collaborative environment, it's always important to remember to use GitHub's built in search bar to filter through repository issues to ensure that an issue does not already exist.
+> **[1:26](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=86)** Although duplication is bound to happen in a collaborative environment, it's always important to remember to use [[GitHub]]'s built in search bar to filter through repository issues to ensure that an issue does not already exist.
 >
 > **[1:38](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=98)** By deleting found duplicates and limiting their occurrence, you are effectively making working together a better experience.
 >
@@ -1609,7 +1580,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=182)** Read mes support photos, videos, and gifts.
 >
-> **[3:05](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=185)** So feel free to include as many forms of media as needed.
+> **[3:05](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=185)** So feel free to include as many [[Forms]] of media as needed.
 >
 > **[3:08](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/best-practices-for-managing-issues-and-projects?u=76281980&t=188)** Use project views to look at your project from different angles.
 >
@@ -1647,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), feature (2), functional (1), [[Search]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Forms]] (1)
 > **Tools:** github (3)
 > **Best Practices:** remember to (2), best practice (1)
 > **CLI Commands:** make (1), find (1)
@@ -1660,8 +1631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980&t=25)** Next, gauge (indistinct) is required in your own team workspace by asking team members what is most valued and needed from an organizational standpoint.
 >
-> **[0:34](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980&t=34)** By gaining this understanding, you can begin to see how you can construct your own collaborative workspace with GitHub Issues and Projects.
+> **[0:34](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980&t=34)** By gaining this understanding, you can begin to see how you can construct your own collaborative workspace with [[GitHub]] Issues and Projects.
 >
 > **[0:41](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980&t=41)** A few ideas that might help get you started include searching online on how GitHub is used for other teams as a project management tool, browsing through existing team project boards on GitHub to see how they have it set up, and last but not least, to just start building your team's issues and projects right now.
 >
@@ -1685,7 +1655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), next (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (4)
 > **Tools:** github (4)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)

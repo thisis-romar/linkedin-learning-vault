@@ -106,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn object-oriented design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
+#### [Learn object-oriented design principles](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=3)** - As someone who loves writing code, as soon as I get a new idea for an application, I jump right to programming.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=11)** - And as someone who manages software development teams, I know that's the last thing you should be doing.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=11)** - And as someone who manages [[Software Development]] teams, I know that's the last thing you should be doing.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=17)** Good software starts with the design, so you can avoid wasting time going down the wrong path.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=30)** - It's what you should be doing to plan your program before writing a single line of code.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=35)** Object oriented programming languages have become the standard for everything from web development to running desktop applications.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=35)** Object oriented programming languages have become the standard for everything from [[Web Development]] to running desktop applications.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980&t=43)** With proper design, they enable you to create applications that are flexible, maintainable, and extensible.
 >
@@ -145,13 +144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Programming]] (2), [[Software Development]] (1), teams (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Web Development]] (1)
 > **Speakers:** - and (2), - as (1), - it (1), - [barron] (1), - now (1)
 > **Env Vars:** uml (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +185,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), application (1)
 > **Speakers:** - although (1), - if (1), - or (1), - this (1), - we (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
@@ -197,8 +194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object-oriented thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
+#### [Object-oriented thinking](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,11 +256,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=188)** If you take a computer science course, you might encounter logic programming languages, like Prolog.
 >
-> **[3:15](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=195)** Or functional programming languages, like Haskell.
+> **[3:15](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=195)** Or [[Functional Programming]] languages, like Haskell.
 >
 > **[3:18](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=198)** However, those both tend to live in very specialized environments.
 >
-> **[3:22](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=202)** For the practical, pragmatic world of creating web applications, mobile apps, desktop applications, or game development, you'll almost certainly be using object oriented programming languages.
+> **[3:22](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=202)** For the practical, pragmatic world of creating web applications, mobile apps, desktop applications, or [[Game Development]], you'll almost certainly be using object oriented programming languages.
 >
 > **[3:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=213)** In fact, all of the top high demand languages today are object oriented.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=227)** Your choice.
 >
-> **[3:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=229)** When I was first learning object oriented programming in college with Java, I found that most of the small classroom programs I had to write, would have been way quicker and easier to hack together using a procedural approach.
+> **[3:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=229)** When I was first learning object oriented programming in college with [[Java]], I found that most of the small classroom programs I had to write, would have been way quicker and easier to hack together using a procedural approach.
 >
 > **[4:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980&t=241)** The amount of object oriented code I had to write to get things working often felt bloated and way beyond the scope of those projects.
 >
@@ -282,14 +278,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (8), data (1), [[Functional Programming]] (1), web (1), [[Game Development]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Game Development]] (1), [[Java]] (1)
 > **Speakers:** - many (1), - right (1), - now (1), - one (1), - and (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
 
-#### Objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980)
+#### [Objects](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=155)** Identity, attributes, and behaviors.
 >
-> **[2:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=158)** Those are the three things that describe objects in an object-oriented programming language.
+> **[2:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=158)** Those are the three things that describe objects in an [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=164)** Every object in a computer program is self-contained so it has its own identity separate from other objects, its own attributes to describe its current state and its own behaviors, the things it can do.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=251)** Nouns aren't just physical things, but also people, places, and ideas or concepts.
 >
-> **[4:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=257)** As a simple test, if you were talking about it in a conversation, could you put the word the in front of it?
+> **[4:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=257)** As a simple test, if you were talking about it in a conversation, could you put the [[Microsoft Word|word]] the in front of it?
 >
 > **[4:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/objects?u=76281980&t=265)** The mug, the person, the document.
 >
@@ -423,12 +418,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Programming]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - but (3), - sure (2), - what (2), - well (2), - the (1)
 > **Analogies:** similar to (1), for example (1), think of it as (1)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=49)** You can't make round cookies without the circular cutter.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=53)** Now, there are three components that make up a class in object-oriented programming.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=53)** Now, there are three components that make up a class in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=58)** Each class has a name, literally what is it?
 >
@@ -530,15 +524,15 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=252)** These classes are defined and then gathered together into frameworks or libraries.
 >
-> **[4:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=257)** In Java, you have the Java Class Library with about 6,000 classes available to you.
+> **[4:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=257)** In [[Java]], you have the Java Class Library with about 6,000 classes available to you.
 >
 > **[4:23](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=263)** And the .NET Framework for C# and [VB.net](https://VB.net) has even more than that.
 >
-> **[4:28](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=268)** C++ has the C++ Standard Library, and Ruby also calls its default library The Standard Library, as does Python.
+> **[4:28](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/classes?u=76281980&t=268)** C++ has the C++ Standard Library, and Ruby also calls its default library The Standard Library, as does [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - objects (1), - classes (1), - remember (1), - what (1), - well (1)
 > **CLI Commands:** make (2), ruby (1), python (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -547,12 +541,11 @@ created: 2026-05-02
 > **Env Vars:** net (1)
 > **Cross-References:** we talked about (1)
 
-#### Abstraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstraction?u=76281980)
+#### [Abstraction](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstraction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstraction?u=76281980&t=0)** - There are four fundamental ideas in object-oriented programming to keep in mind when creating classes.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstraction?u=76281980&t=0)** - There are four fundamental ideas in [[Object-Oriented Programming (OOP)|object-oriented programming]] to keep in mind when creating classes.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstraction?u=76281980&t=7)** And they have the wonderful names Abstraction.
 >
@@ -616,13 +609,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
 
-#### Encapsulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980)
+#### [Encapsulation](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980&t=147)** So you can still use it.
 >
-> **[2:28](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980&t=148)** One of the main benefits with object orientation is that it allows us to more safely change the way the object works without changing the rest of the application.
+> **[2:28](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980&t=148)** One of the main benefits with object orientation is that it allows us to more safely change the way the object works without changing the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[2:39](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/encapsulation?u=76281980&t=159)** Perhaps, when I first wrote my cookie jar class, I represented the total number of cookies as a single value.
 >
@@ -716,14 +708,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - well (5), - it (3), - do (2), - the (1), - ow (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** general rule (1)
 
-#### Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980)
+#### [Inheritance](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,13 +772,13 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=204)** Changing code in one place is much easier then having to change it in three.
 >
-> **[3:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=209)** Now a few languages like Python, and C++, allow you to inherit from more then one super class.
+> **[3:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=209)** Now a few languages like [[Python (Programming Language)|Python]], and C++, allow you to inherit from more then one super class.
 >
 > **[3:36](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=216)** Bringing in attributes and behaviors from multiple other classes.
 >
 > **[3:40](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=220)** However, multiple inheritance can get confusing so it's much more common to see single inheritance where a subclass only inherits from one parent or superclass.
 >
-> **[3:50](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=230)** Languages like Java, C#, Swift, and Ruby enforce single inheritance with classes and that's what we'll be using in this course.
+> **[3:50](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/inheritance?u=76281980&t=230)** Languages like [[Java]], C#, [[Swift (Programming Language)|Swift]], and Ruby enforce single inheritance with classes and that's what we'll be using in this course.
 
 > [!info]- Semantic Content
 >
@@ -796,12 +787,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980)
+#### [Polymorphism](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=0)** - Our fourth and final object-oriented concept is polymorphism which is a complicated sounding word that simply means having many forms.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=0)** - Our fourth and final object-oriented concept is polymorphism which is a complicated sounding [[Microsoft Word|word]] that simply means having many [[Forms]].
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=10)** And appropriately enough, there are multiple forms of polymorphism.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=159)** The other common form of polymorphism is called static or compile-time polymorphism.
 >
-> **[2:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=164)** And it uses a feature of many object-oriented programming languages called method overloading, not to be confused with method overriding.
+> **[2:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=164)** And it uses a feature of many [[Object-Oriented Programming (OOP)|object-oriented programming]] languages called method overloading, not to be confused with method overriding.
 >
 > **[2:53](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/polymorphism?u=76281980&t=173)** Overloading allows you to implement multiple methods within a class that have the same name, but a different set of input parameters.
 >
@@ -881,17 +871,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Word|Word]] (1), feature (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** brew (15)
 > **Speakers:** - or (3), - now (2), - our (1), - i (1), - and (1)
 > **Definitions:** is a  (3), is called (1)
 
-#### Analysis, design, and programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/analysis-design-and-programming?u=76281980)
+#### [Analysis, design, and programming](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/analysis-design-and-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/analysis-design-and-programming?u=76281980&t=0)** - When you see the words object-oriented, there's usually another word right beside it, object oriented programming, object oriented design, or object oriented analysis.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/analysis-design-and-programming?u=76281980&t=0)** - When you see the words object-oriented, there's usually another [[Microsoft Word|word]] right beside it, object oriented programming, object oriented design, or object oriented analysis.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/analysis-design-and-programming?u=76281980&t=12)** These are all connected and refer to the idea that to develop any piece of software, you need to do three things, understand your problem, plan your solution, and finally, build it, or rather, analysis, design, and programming.
 >
@@ -945,16 +934,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Microsoft Word|Word]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - when (1), - conceptual (1), - what (1), - sure (1), - sketches (1)
 > **Definitions:** is a  (1)
 
-#### Unified modeling language (UML)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/unified-modeling-language-uml?u=76281980)
+#### [Unified modeling language (UML)](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/unified-modeling-language-uml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/unified-modeling-language-uml?u=76281980&t=0)** - Throughout this course, we'll be using a few common diagramming techniques for drawing classes and their interactions.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/unified-modeling-language-uml?u=76281980&t=0)** - Throughout this course, we'll be using a few common [[Diagramming]] techniques for drawing classes and their interactions.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/unified-modeling-language-uml?u=76281980&t=7)** These diagrams are from something called UML or the Unified Modeling Language.
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diagramming]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Diagramming]] (2)
 > **Env Vars:** uml (14)
 > **CLI Commands:** make (2)
 > **Versions:** 99.9 (1)
@@ -1015,8 +1003,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
+#### [Defining requirements](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=24)** In addition to those, there may also be non-functional requirements that place constraints on how the application should function.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=31)** For example, an application that handles banking transactions, or one that stores health care data, will likely have to comply with certain regulations.
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=31)** For example, an application that handles [[Banking]] transactions, or one that stores health care data, will likely have to comply with certain regulations.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=41)** There could be performance requirements such as response time, or how many users can be supported simultaneously.
 >
@@ -1054,7 +1041,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=85)** So the astronauts can have nice warm meals on their way to the moon.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=89)** Like many projects, creating a space microwave will involve both software and hardware elements but the process of writing requirements is a general skill that applies to all types of projects.
+> **[1:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=89)** Like many projects, creating a space microwave will involve both software and [[Hardware]] elements but the process of writing requirements is a general skill that applies to all types of projects.
 >
 > **[1:41](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=101)** - Normally if you're developing an application for a customer or client, you'll want to get as much information to understand the problem they want to solve.
 >
@@ -1106,7 +1093,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=258)** - It should be usable while wearing work gloves.
 >
-> **[4:20](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=260)** And it should be compatible with Windows, Mac, Linx, hold on a second.
+> **[4:20](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=260)** And it should be compatible with [[Windows]], Mac, Linx, hold on a second.
 >
 > **[4:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980&t=265)** That last requirement is a bit excessive.
 >
@@ -1130,15 +1117,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), functional (7), product (2), [[Banking]] (1), data (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Hardware]] (1), [[Windows]] (1)
 > **Speakers:** - well (2), - the (1), - if (1), - so (1), - we (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** common mistake (1)
 
-#### FURPS+ requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980)
+#### [FURPS+ requirements](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=99)** And finally, physical requirements.
 >
-> **[1:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=102)** Actual physical constraints related to the hardware the application will be deployed on.
+> **[1:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=102)** Actual physical constraints related to the [[Hardware]] the application will be deployed on.
 >
 > **[1:48](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=108)** Keep in mind that the purpose of FURPS plus is to prompt you to think about certain key requirement areas.
 >
@@ -1192,7 +1178,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=117)** As you go through the list, it's perfectly acceptable to have not applicable or to be determined for some of these categories.
 >
-> **[2:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=125)** Now, requirements analysis is an entire discipline that goes way beyond what we covered in this course.
+> **[2:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=125)** Now, [[Requirements Analysis]] is an entire discipline that goes way beyond what we covered in this course.
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/furps-plus-requirements?u=76281980&t=132)** If you need to dive deeper, there are lots of great books on the subject that provide formal processes that you can follow.
 >
@@ -1202,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), database (1), [[Hardware]] (1), prompt (1), [[Requirements Analysis]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Requirements Analysis]] (1)
 > **Env Vars:** furps (5)
 > **Definitions:** is an  (2), stands for (1), refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1211,8 +1197,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Jukebox requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-requirements?u=76281980)
+#### [Challenge: Jukebox requirements](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,13 +1231,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2)
 > **Speakers:** - now (2), - all (1), - but (1), - i (1), - [female (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** furps (1)
 
-#### Solution: Jukebox requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-requirements?u=76281980)
+#### [Solution: Jukebox requirements](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1317,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), functional (2)
 > **Speakers:** - and (2), - to (1), - let (1), - that (1), - there (1)
 > **Env Vars:** firbs (2)
 > **Definitions:** stands for (1)
@@ -1344,8 +1326,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
+#### [Use cases](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1396,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980&t=216)** Now, you can take it all the way to what's called a fully dressed use case by adding even more fields for post-conditions, secondary actors, stakeholders, and so on.
 >
-> **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980&t=227)** These often exist as a PDF or Word template that you can fill in.
+> **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980&t=227)** These often exist as a PDF or [[Microsoft Word|Word]] template that you can fill in.
 >
 > **[3:51](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980&t=231)** - That just went from simple to complicated real quick.
 >
@@ -1441,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), feature (1), generic (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - well (2), - that (2), - after (1), - a (1), - what (1)
 > **Warnings:** watch out (2)
 > **CLI Commands:** make (1)
@@ -1450,8 +1431,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 
-#### Identifying the actors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-actors?u=76281980)
+#### [Identifying the actors](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-actors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,14 +1501,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), game (1), prompt (1)
 > **Speakers:** - before (1), - sometimes (1), - however (1), - [man] (1), - now (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Identifying the scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980)
+#### [Identifying the scenarios](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1582,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=158)** Another common thing you may see, particularly from programmers, is too much detail or the start of describing the implementation.
 >
-> **[2:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=165)** So, "the system connects to the external pager system" "over HTTPS and uses JSON to format the text message" "to be transmitted, then waits for" "a delegated callback response."
+> **[2:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=165)** So, "the system connects to the external pager system" "over HTTPS and uses [[JSON]] to format the text message" "to be transmitted, then waits for" "a delegated callback response."
 >
 > **[2:56](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=176)** The goal here isn't to write pseudo-code.
 >
@@ -1624,7 +1602,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=209)** - After you've come up with your first set of use cases, how do you know if you've missed anything?
 >
-> **[3:34](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=214)** - Well, you can never know for sure, but questions that may prompt a new goal or actor are: Who does system administration?
+> **[3:34](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=214)** - Well, you can never know for sure, but questions that may prompt a new goal or actor are: Who does [[System Administration]]?
 >
 > **[3:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=222)** If this is a system that needs to be started and stopped, or backed up on weekends, or have software updates applied, who does that and how do they interact with the application?
 >
@@ -1636,19 +1614,18 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=239)** Well, the person who reacts to this may not be a classic user, they're certainly an actor.
 >
-> **[4:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=245)** And is anyone looking at performance metrics or system activity logs?
+> **[4:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=245)** And is anyone looking at [[Performance Metrics]] or system activity logs?
 >
 > **[4:10](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-scenarios?u=76281980&t=250)** These questions will often prompt a couple of fairly obvious actors for the application, particularly if it's being developed for internal use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), prompt (2), [[JSON]] (1), [[System Administration]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[System Administration]] (1), [[Performance Metrics]] (1)
 > **Speakers:** - well (3), - bingo (2), - like (2), - when (1), - so (1)
 > **Env Vars:** https (1), json (1)
 > **Definitions:** is a  (1)
 
-#### Diagramming use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980)
+#### [Diagramming use cases](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,7 +1639,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=24)** We definitely still need those.
 >
-> **[0:26](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=26)** Use case diagrams and written use cases are two distinct products that show different perspectives and compliment one another.
+> **[0:26](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=26)** Use case diagrams and written use cases are two distinct [[Microsoft Products|products]] that show different perspectives and compliment one another.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=33)** - We've finished brainstorming the actors and wrote a few casual use cases, so I think we're ready to draw our first use case diagram.
 >
@@ -1710,7 +1687,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=150)** We could use a stick figure, but since it's a nonhuman actor, I prefer to use a box instead.
 >
-> **[2:37](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=157)** Draw it over on the right side and write the word actor with two angle quotes to make it obvious what it is.
+> **[2:37](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=157)** Draw it over on the right side and write the [[Microsoft Word|word]] actor with two angle quotes to make it obvious what it is.
 >
 > **[2:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/diagramming-use-cases?u=76281980&t=165)** And finally, connect the line between the external system and the heat meal use case that interacts with it.
 >
@@ -1726,14 +1703,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), application (1), next (1), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - the (1), - we (1), - agreed (1)
 > **Env Vars:** uml (1)
 > **Analogies:** picture (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1793,7 +1769,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=164)** A use case on the other hand, can be regarded as a record of a conversation that has already happened detailing the steps of how a particular goal may or may not be achieved.
 >
-> **[2:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=175)** Now certain software development methodologies may favor one of these over the other, but use cases and user stories are not the direct competitors.
+> **[2:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=175)** Now certain [[Software Development]] methodologies may favor one of these over the other, but use cases and user stories are not the direct competitors.
 >
 > **[3:04](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=184)** Nor are they necessarily a replacement for writing functional requirements.
 >
@@ -1805,20 +1781,19 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=205)** However you do it, describing your system in plain language is incredibly useful to identify why we're building this application and those descriptions serve as input for the next stages of the analysis and design process.
 >
-> **[3:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=218)** If you want to learn more about the concise user story format, check out Mike Cohn's book, User Stories Applied for [[Agile Software Development]].
+> **[3:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=218)** If you want to learn more about the concise user story format, check out Mike Cohn's book, User Stories Applied for [[[[Agile Software Development]]]].
 >
-> **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=227)** It's a book you're likely to see recommended if you use a process like Scrum or Extreme Programming.
+> **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=227)** It's a book you're likely to see recommended if you use a process like [[Scrum]] or Extreme Programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Software Development]] (1), functional (1), next (1), [[Agile Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Agile Software Development]] (1), [[Scrum]] (1)
 > **Speakers:** - user (1), - here (1), - great (1), - how (1), - perfect (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you need to have (1)
 
-#### Challenge: Jukebox use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-use-cases?u=76281980)
+#### [Challenge: Jukebox use cases](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,8 +1826,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Speakers:** - it (1)
 
-#### Solution: Jukebox use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-use-cases?u=76281980)
+#### [Solution: Jukebox use cases](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1880,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - to (1), - play (1), - the (1), - for (1), - [olivia] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** abba (1)
@@ -1917,8 +1890,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
+#### [Identifying the objects](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1946,7 +1918,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980&t=53)** That may sound complex, but a conceptual model simply identifies the most important objects in the application and the relationship between them.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980&t=62)** Now, I'm using the word, object, loosely here.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980&t=62)** Now, I'm using the [[Microsoft Word|word]], object, loosely here.
 >
 > **[1:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980&t=65)** We're not worried about software objects quite yet, but more generically, what are the things in the application that we need to be aware of.
 >
@@ -2014,14 +1986,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), game (3), application (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Speakers:** - that (3), - [olivia] (3), - after (1), - good (1), - well (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
 
-#### Identifying class relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980)
+#### [Identifying class relationships](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2051,7 +2022,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980&t=69)** Now, optionally, it may be useful to add a short note to actually describe the relationship.
 >
-> **[1:14](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980&t=74)** It could be something as simple as the word uses, as in the spaceship uses the missile.
+> **[1:14](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980&t=74)** It could be something as simple as the [[Microsoft Word|word]] uses, as in the spaceship uses the missile.
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-relationships?u=76281980&t=80)** Or even better, spaceship fires missile.
 >
@@ -2077,13 +2048,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), game (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - once (1), - fine (1), - many (1)
 > **Env Vars:** uml (1)
 > **Analogies:** for example (1)
 
-#### Identifying class responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-responsibilities?u=76281980)
+#### [Identifying class responsibilities](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-class-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,7 +2135,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), game (2), [[Programming]] (2), application (2), prompt (1)
 > **Speakers:** - we (1), - looking (1), - something (1), - so (1), - figuring (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **CLI Commands:** make (2)
@@ -2173,8 +2142,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), common mistake (1)
 > **Cross-References:** go back to (1)
 
-#### CRC cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/crc-cards?u=76281980)
+#### [CRC cards](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/crc-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2241,8 +2209,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1)
 
-#### Challenge: Jukebox conceptual model
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-conceptual-model?u=76281980)
+#### [Challenge: Jukebox conceptual model](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-conceptual-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,8 +2264,7 @@ created: 2026-05-02
 > **Speakers:** - it (2)
 > **Non-Speech:** (techno music chord) (1)
 
-#### Solution: Jukebox conceptual model
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980)
+#### [Solution: Jukebox conceptual model](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,7 +2280,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=32)** I'll do the same process with one of our user stories which contains nouns like commander, ability, user, selection, disco, and the moon.
 >
-> **[0:43](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=43)** We should go through the same process with the rest of our use cases and user stories, but for simplicity, we'll stick with just those two for now.
+> **[0:43](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=43)** We should go through the same process with the [[Representational State Transfer (REST)|rest]] of our use cases and user stories, but for simplicity, we'll stick with just those two for now.
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=51)** That gives us a list of possible objects that we can begin cleaning up.
 >
@@ -2322,7 +2288,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=63)** The words disco and moon were colorful language from the user story but aren't really relevant to the functionality of the jukebox, so I'll cut those too.
 >
-> **[1:13](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=73)** I don't think the word ability belongs here as an object because what it's referring to is a behavior which we'll capture separately.
+> **[1:13](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=73)** I don't think the [[Microsoft Word|word]] ability belongs here as an object because what it's referring to is a behavior which we'll capture separately.
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-conceptual-model?u=76281980&t=81)** And I think the concept of a user's selection is captured by the song they select.
 >
@@ -2408,7 +2374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (2), next (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (2)
 > **Speakers:** - the (2), - i (2), - [woman] (2), - while (1), - great (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -2419,8 +2385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating class diagrams: Attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
+#### [Creating class diagrams: Attributes](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2468,13 +2433,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1)
 > **Code Identifiers:** callsign (1), shieldactive (1), shieldstrength (1)
 > **Env Vars:** uml (1)
 > **Speakers:** - all (1)
 
-#### Creating class diagrams: Behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-behaviors?u=76281980)
+#### [Creating class diagrams: Behaviors](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2532,19 +2495,18 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-behaviors?u=76281980&t=177)** Do a little work with the requirements, written descriptions, and the conceptional model, or CRC cards.
 >
-> **[3:02](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-behaviors?u=76281980&t=182)** Your focus should really be on what object do rather than just viewing them as data structures.
+> **[3:02](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-behaviors?u=76281980&t=182)** Your focus should really be on what object do rather than just viewing them as [[Data Structures]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Code Identifiers:** getshieldstrength (2), reduceshield (2), shieldstrength (1), setposition (1)
 > **Speakers:** - when (1), - now (1), - you (1), - we (1), - so (1)
 > **Env Vars:** crc (2), uml (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Converting class diagrams into code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980)
+#### [Converting class diagrams into code](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2566,7 +2528,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=46)** And it has two methods that are both public, fire missile, which returns a string and reduce shield, which returns nothing or at least that's what this class diagram says, but it does take an integer as input.
 >
-> **[1:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=61)** So, to turn this into Java code, we would use the words, public class spaceship, to actually create the class with opening and closing curly braces to wrap its contents.
+> **[1:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=61)** So, to turn this into [[Java]] code, we would use the words, public class spaceship, to actually create the class with opening and closing curly braces to wrap its contents.
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=74)** The first section containing instance variables is labeled with two forward slashes that represent the comment and these are variables that belong to an instance of this class.
 >
@@ -2588,7 +2550,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=137)** One called fire missile, that returns a string and one called reduce shield that takes an integer called, amount, and returns void, meaning that it returns nothing.
 >
-> **[2:27](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=147)** Swift is another curly braced formatted language, but it has some differences from Java and C#.
+> **[2:27](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=147)** [[Swift (Programming Language)|Swift]] is another curly braced formatted language, but it has some differences from Java and C#.
 >
 > **[2:34](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=154)** The syntax for declaring instance variables uses the keyword, var, and it specifies a type at the end of the statement.
 >
@@ -2596,7 +2558,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=169)** The symbols and syntax differ, but it has the same basic elements as its C# counterpart.
 >
-> **[2:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=175)** - If we make the jump to my favorite language, Python, we drop the curly braces because Python uses line spacing to indicate separate sections of code.
+> **[2:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=175)** - If we make the jump to my favorite language, [[Python (Programming Language)|Python]], we drop the curly braces because Python uses line spacing to indicate separate sections of code.
 >
 > **[3:05](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=185)** Another noticeable difference with Python is that our two instance variables are declared inside of a special method called, init, which gets called when we create an instance of this class.
 >
@@ -2614,13 +2576,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=236)** The at symbol in front of the variable names, call sign and shield strength, indicate that they're instance variables and Ruby's naming convention for variables uses an underscore between words rather than an uppercase letter.
 >
-> **[4:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=251)** Now, there are many more languages than we covered here and some have substantially different implementations of these ideas, such as JavaScript or Lua or Go.
+> **[4:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=251)** Now, there are many more languages than we covered here and some have substantially different implementations of these ideas, such as [[JavaScript]] or Lua or Go.
 >
 > **[4:21](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/converting-class-diagrams-into-code?u=76281980&t=261)** Those don't even have official classes, but the generic object oriented concepts that we're exploring here still apply.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Python (Programming Language)|Python]] (5), [[Programming]] (1), [[Swift (Programming Language)|Swift]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Python (Programming Language)|Python]] (5), [[Swift (Programming Language)|Swift]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (5), ruby (3), make (1)
 > **Speakers:** - if (2), - olivia (1), - yes (1), - finally (1)
 > **Definitions:** is a  (2)
@@ -2628,8 +2590,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)
 
-#### Instantiating classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980)
+#### [Instantiating classes](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2639,7 +2600,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=17)** And to do that, many object-oriented languages use the keyword new.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=23)** In Java, we'd say Spaceship then the variable name myShip equals new Spaceship with open and close parenthesis.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=23)** In [[Java]], we'd say Spaceship then the variable name myShip equals new Spaceship with open and close parenthesis.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=33)** And that instantiation line would be identical in C#.
 >
@@ -2651,7 +2612,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=55)** But not all languages use new.
 >
-> **[0:58](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=58)** In Python, it's simply myShip equals Spaceship, and Swift uses the keyword let to assign the newly instantiated Spaceship to the variable named myShip.
+> **[0:58](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=58)** In [[Python (Programming Language)|Python]], it's simply myShip equals Spaceship, and [[Swift (Programming Language)|Swift]] uses the keyword let to assign the newly instantiated Spaceship to the variable named myShip.
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/instantiating-classes?u=76281980&t=71)** When we use one of these instantiation statements, shown here in a typical Java or C# format, in the background, the computer will allocate a section of memory to hold the new object, including space for each of the variables in it.
 >
@@ -2691,7 +2652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), game (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** myship (4), callsign (2), shieldstrength (2)
 > **CLI Commands:** ruby (1), python (1), make (1)
 > **Env Vars:** uml (1)
@@ -2700,8 +2661,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - when (1)
 
-#### Class with multiple constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980)
+#### [Class with multiple constructors](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2713,13 +2673,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=16)** - Well, most languages will let us create multiple constructor methods through a process called overloading, which allows a class to have more than one method with the same name, but different sets of input parameters.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=30)** To do that in Java, we'll create a second method in this spaceship class, also called spaceship, but this one takes a parameter.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=30)** To do that in [[Java]], we'll create a second method in this spaceship class, also called spaceship, but this one takes a parameter.
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=38)** Just a string, which I've called name and that gets assigned to the callsign variable.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=43)** Now when we instantiate a spaceship object, we have two ways of doing it.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=48)** We can use the word new with no parameters, like before, which will call the first constructor method to give us the nameless ship, or, we can use the word new, along with a string parameter.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=48)** We can use the [[Microsoft Word|word]] new with no parameters, like before, which will call the first constructor method to give us the nameless ship, or, we can use the word new, along with a string parameter.
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/class-with-multiple-constructors?u=76281980&t=61)** When we include the string parameter, it's going to call the overloaded constructor, which sets those attributes to different values.
 >
@@ -2747,14 +2707,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1)
 > **Speakers:** - we (1), - well (1), - now (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** uml (1)
 
-#### Static attributes and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980)
+#### [Static attributes and methods](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,7 +2751,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=102)** I've always been told to avoid using global variables.
 >
-> **[1:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=105)** - Sort of, it's global amongst the spaceships but not the rest of the program.
+> **[1:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=105)** - Sort of, it's global amongst the spaceships but not the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[1:50](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=110)** We didn't just toss it into some global dumping ground for variables.
 >
@@ -2808,11 +2767,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=136)** As for the number of instance level variables, that can vary from run to run, depending on how many objects the program creates that time around.
 >
-> **[2:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=144)** As a basic example of how this is handled in code, if we're using a language like C Sharp or Java, we would include the word static in the line that declares the variable.
+> **[2:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=144)** As a basic example of how this is handled in code, if we're using a language like C Sharp or [[Java]], we would include the [[Microsoft Word|word]] static in the line that declares the variable.
 >
 > **[2:35](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=155)** Of course, other languages handle it differently.
 >
-> **[2:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=158)** Python doesn't use the static keyword.
+> **[2:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=158)** [[Python (Programming Language)|Python]] doesn't use the static keyword.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/static-attributes-and-methods?u=76281980&t=161)** Instead, variables that are declared within a class, but outside of a method, are considered static or class variables, and in Ruby, class variables are declared using two @ symbols instead of just one @ symbol for instance variables.
 >
@@ -2840,7 +2799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - well (2), - when (1), - what (1), - sounds (1), - but (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** python (1), ruby (1)
@@ -2848,8 +2807,7 @@ created: 2026-05-02
 > **Env Vars:** uml (1)
 > **Analogies:** for instance (1)
 
-#### Challenge: Jukebox class diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams?u=76281980)
+#### [Challenge: Jukebox class diagrams](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,8 +2840,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### Solution: Jukebox class diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980)
+#### [Solution: Jukebox class diagrams](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2935,7 +2892,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980&t=156)** With similar responsibilities to display and select.
 >
-> **[2:40](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980&t=160)** So, to create the library class diagram, we basically copied the class diagram for an album and replaced the word song with the word album.
+> **[2:40](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980&t=160)** So, to create the library class diagram, we basically copied the class diagram for an album and replaced the [[Microsoft Word|word]] song with the word album.
 >
 > **[2:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-diagrams?u=76281980&t=169)** Again, this is a simple implementation and it'll accomplish the library's responsibilities.
 >
@@ -2977,7 +2934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), cd (1), database (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - now (2), - let (1), - the (1), - we (1), - whether (1)
 > **Code Identifiers:** addsong (2), gettitles (1), getsong (1), getnextsong (1), removesong (1)
 > **Definitions:** is a  (6)
@@ -2990,8 +2947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying inheritance situations
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
+#### [Identifying inheritance situations](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3043,7 +2999,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=115)** These help us identify when they're might be some shared attributes between objects, and if we think about it, we can save some time and avoid reinventing the wheel.
 >
-> **[2:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=123)** - Where some people hit their first problem identifying inheritance, is when they start sketching out classes, picking the nouns from the written descriptions.
+> **[2:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=123)** - Where some people hit their first problem identifying inheritance, is when they start [[Sketching]] out classes, picking the nouns from the written descriptions.
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=132)** As they scan those objects, they can tell that there's some sort of relationship between cargo and cargo shuttle.
 >
@@ -3083,7 +3039,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=266)** A warp cruiser is a spaceship, and a spaceship is a vehicle.
 >
-> **[4:31](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=271)** - Now, a word of warning.
+> **[4:31](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=271)** - Now, a [[Microsoft Word|word]] of warning.
 >
 > **[4:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980&t=273)** It's common for new object orientated developers to overemphasize inheritance.
 >
@@ -3097,7 +3053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), power (1), hit (1), [[Sketching]] (1), next (1)
+> **Frameworks & Libraries:** [[Sketching]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cargo (19), make (2), find (2)
 > **Definitions:** is a  (14)
 > **Speakers:** - inheritance (1), - hey (1), - and (1), - ha (1), - i (1)
@@ -3105,8 +3061,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Warnings:** warning (1)
 
-#### Using inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980)
+#### [Using inheritance](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3114,15 +3069,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=9)** But don't worry about memorizing syntax here, this is just an overview.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=14)** If I wanted to find a new class called CargoShuttle that inherits from an existing Spaceship class, in Java I would use the keyword extend followed by the name of the class I wanted to inherit from.
+> **[0:14](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=14)** If I wanted to find a new class called CargoShuttle that inherits from an existing Spaceship class, in [[Java]] I would use the keyword extend followed by the name of the class I wanted to inherit from.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=27)** So CargoShuttle extends Spaceship.
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=30)** In c#, I would use a colon, which is a fairly common way to indicate that CargoShuttle inherits from Spaceship.
 >
-> **[0:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=38)** C++ and Swift both use a similar type of colon notation as well.
+> **[0:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=38)** C++ and [[Swift (Programming Language)|Swift]] both use a similar type of colon notation as well.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=42)** Now Python is a bit different.
+> **[0:42](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=42)** Now [[Python (Programming Language)|Python]] is a bit different.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=45)** Python puts the super class that the new subclass will inherit from in parentheses.
 >
@@ -3140,7 +3095,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=85)** For details on overriding, you'll need to refer to your chosen language.
 >
-> **[1:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=90)** That said, when common need is for code within the subclass, the new child class, to call a method that was originally defined in the superclass, its parent, and the word you'll see for that is super.
+> **[1:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=90)** That said, when common need is for code within the subclass, the new child class, to call a method that was originally defined in the superclass, its parent, and the [[Microsoft Word|word]] you'll see for that is super.
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/using-inheritance?u=76281980&t=104)** From within one of the methods of our CargoShuttle class, if I want to execute the setShield method that's defined in its superclass Spaceship, using Java I would call super dot and then the method name, so super.setShield.
 >
@@ -3167,8 +3122,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract and concrete classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980)
+#### [Abstract and concrete classes](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3192,7 +3146,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980&t=90)** But, if each type of ship moves in a different way then each subclass will need to implement its own unique move method. So, we'll declare an abstract move method in our spaceship class. Again, italics are used to indicate that it's abstract and that abstract method serves as a sort of placeholder for each of the subclasses to let them know that they'll need to individually implement it And of course, each of the subclasses are free to implement any additional methods that are unique to them.
 >
-> **[2:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980&t=121)** Some languages like Java or C sharp let you explicitly mark a class as abstract when declaring it which prevents the language from allowing that class to be instantiated.
+> **[2:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980&t=121)** Some languages like [[Java]] or C sharp let you explicitly mark a class as abstract when declaring it which prevents the language from allowing that class to be instantiated.
 >
 > **[2:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/abstract-and-concrete-classes?u=76281980&t=131)** You must inherit from it with another subclass, implement the abstract methods in that subclass and then you can use that subclass to actually instantiate an object.
 >
@@ -3204,13 +3158,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), game (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Speakers:** - and (2), - we (1)
 > **CLI Commands:** cargo (1)
 > **Definitions:** defined as (1)
 
-#### Interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980)
+#### [Interfaces](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3222,7 +3175,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980&t=18)** It's just a collection of method signatures to specify a service.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980&t=23)** For example, in Java an interface would be written like this, using the word interface instead of class.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980&t=23)** For example, in [[Java]] an interface would be written like this, using the [[Microsoft Word|word]] interface instead of class.
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/interfaces?u=76281980&t=30)** This interface is named Moveable and it declares one method called move.
 >
@@ -3304,15 +3257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), game (2), [[Java]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - interfaces (2), - that (2), - you (1), - [man] (1), - [woman] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), it's like (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** uml (1)
 
-#### Aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/aggregation?u=76281980)
+#### [Aggregation](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3370,8 +3322,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** uml (1)
 
-#### Composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/composition?u=76281980)
+#### [Composition](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3411,13 +3362,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Speakers:** - a (1), - it (1), - right (1), - or (1), - the (1)
 > **Env Vars:** uml (1)
 > **Analogies:** it's like (1)
 
-#### Challenge: Jukebox class relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-relationships?u=76281980)
+#### [Challenge: Jukebox class relationships](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3446,8 +3395,7 @@ created: 2026-05-02
 > **Env Vars:** uml (1)
 > **Speakers:** - congratulations (1)
 
-#### Solution: Jukebox class relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-relationships?u=76281980)
+#### [Solution: Jukebox class relationships](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/solution-jukebox-class-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3549,8 +3497,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OOP support in different languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
+#### [OOP support in different languages](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3564,9 +3511,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=18)** Many languages only allow single class inheritance, meaning, a derived class can only inherit from one class.
 >
-> **[0:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=25)** However, C++ and Python support multiple inheritance, where derived class inherits more than one base class, although Ruby doesn't support multiple inheritance, it does have a feature called mixins that allow you to combine objects, though some people see this as more of a form of composition.
+> **[0:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=25)** However, C++ and [[Python (Programming Language)|Python]] support multiple inheritance, where derived class inherits more than one base class, although Ruby doesn't support multiple inheritance, it does have a feature called mixins that allow you to combine objects, though some people see this as more of a form of composition.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=44)** And finally, JavaScript, which is informal compared to other object-oriented languages.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=44)** And finally, [[JavaScript]], which is informal compared to other object-oriented languages.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=49)** Because it doesn't even use the idea of classes, instead, JavaScript uses prototypes to define its objects, which allows it to be more dynamic.
 >
@@ -3600,7 +3547,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=137)** And there are even special variations that mix or combine some of them together.
 >
-> **[2:21](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=141)** For example, Jython is a variation of Python that can run on the Java platform, and TypeScript is a variation of JavaScript that allows statically typed variables.
+> **[2:21](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=141)** For example, Jython is a variation of Python that can run on the [[Java]] platform, and TypeScript is a variation of JavaScript that allows statically typed variables.
 >
 > **[2:31](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980&t=151)** You'll notice that different languages often use similar terminology.
 >
@@ -3612,14 +3559,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[Python (Programming Language)|Python]] (4), feature (1), [[Scripting]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Python (Programming Language)|Python]] (4), [[Java]] (1)
 > **CLI Commands:** python (4), ruby (2), make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - throughout (1)
 
-#### General development principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980)
+#### [General development principles](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3641,7 +3587,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980&t=68)** So if you want to learn more about them, check out some of the courses on programming principles.
 >
-> **[1:13](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980&t=73)** Another common principle that forms an acronym, but is much simpler to understand, is Don't Repeat Yourself or DRY.
+> **[1:13](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980&t=73)** Another common principle that [[Forms]] an acronym, but is much simpler to understand, is Don't Repeat Yourself or DRY.
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/general-development-principles?u=76281980&t=80)** You should avoid copying and pasting large sections of code without any changes because if you realize later that you made a mistake in one of those sections, you'll have to remember all of the places you've copied it and fix those too.
 >
@@ -3669,7 +3615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Forms]] (1), database (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** solid (2), dry (2), yagni (1), ide (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - there (1), - i (1), - however (1)
@@ -3677,8 +3623,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Software testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980)
+#### [Software testing](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3708,7 +3653,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=61)** How many digits should we allow the user to enter?
 >
-> **[1:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=63)** - 10 obviously, three for the area code, seven for the rest.
+> **[1:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=63)** - 10 obviously, three for the area code, seven for the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:07](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=67)** - Sure that works if we only have users in North America.
 >
@@ -3764,11 +3709,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=204)** As exciting as releasing software can be, developing and running a proper test system is just as important as developing he application itself.
 >
-> **[3:32](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=212)** I guess it's time I check out some other courses on LinkedIn Learning to learn more about software testing.
+> **[3:32](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/software-testing?u=76281980&t=212)** I guess it's time I check out some other courses on [[LinkedIn]] Learning to learn more about [[Software Testing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Representational State Transfer (REST)|Rest]] (2), application (2), power (1), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[LinkedIn]] (1), [[Software Testing]] (1)
 > **Speakers:** - well (2), - it (2), - [olivia] (2), - done (1), - did (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (2)
@@ -3777,8 +3722,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Non-Speech:** (keys clicking) (1)
 
-#### Design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980)
+#### [Design patterns](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3792,9 +3736,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=26)** This is where using a design pattern can be really useful.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=29)** Design patterns are common, repeatable solutions for creating software programs.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=29)** [[Design Patterns]] are common, repeatable solutions for creating software programs.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=34)** They define code architectures and best practices for solving common software design problems that occur again and again across all kinds of applications, from business apps to games.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=34)** They define code architectures and best practices for solving common [[Software Design]] problems that occur again and again across all kinds of applications, from business apps to games.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=45)** Now, design patterns aren't strict standards with exact lines of codes to use, rather they're templates to help structure your code in a smart way.
 >
@@ -3810,7 +3754,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=72)** So um, yeah, I'm going to need you to go ahead and fix that ASAP.
 >
-> **[1:16](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=76)** Quality assurance is ready to begin testing.
+> **[1:16](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=76)** [[Quality Assurance]] is ready to begin testing.
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=80)** (sighing)
 >
@@ -3860,11 +3804,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=206)** And the behavioral patterns are specifically concerned with the communication between objects as a program is running.
 >
-> **[3:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=213)** In addition to the Gang of Four book, Head First Design Patterns is another great resource that we highly recommend, but if you prefer watching videos over reading books there are plenty of courses available in LinkedIn Learning to learn more about design patterns.
+> **[3:33](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/design-patterns?u=76281980&t=213)** In addition to the Gang of Four book, Head First Design Patterns is another great resource that we highly recommend, but if you prefer watching videos over reading books there are plenty of courses available in [[LinkedIn]] Learning to learn more about design patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (7), game (5), feature (3), next (2), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Software Design]] (1), [[Quality Assurance]] (1), [[LinkedIn]] (1)
 > **Speakers:** - creating (1), - hello (1), - well (1), - thanks (1), - but (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** asap (1)
@@ -3882,12 +3826,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980&t=3)** - We've reached the end of this course, but there's still a ton more to learn and understand about object-oriented programming, analysis, and design.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980&t=3)** - We've reached the end of this course, but there's still a ton more to learn and understand about [[Object-Oriented Programming (OOP)|object-oriented programming]], analysis, and design.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980&t=11)** Now, many people first approach object orientation as a set of absolute rules and predefined structures, but as we've explored here, it's simply an approach that brings with it a variety of tools and techniques.
 >
@@ -3905,7 +3848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - we (1), - there (1), - finally (1), - happy (1)
 > **CLI Commands:** find (1)
 

@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your business analysis career
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
+#### [Transform your business analysis career](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,11 +109,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), ai (3)
 > **Speakers:** - the (1)
 
-#### AI's impact on business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980)
+#### [AI's impact on business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,13 +123,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=35)** First, let's touch on productivity.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=37)** I hope you are finding generative AI useful in helping you with things like preparing for meetings, research processes, and business domains, and better understand your business context at various levels.
+> **[0:37](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=37)** I hope you are finding [[Generative AI]] useful in helping you with things like preparing for meetings, research processes, and business domains, and better understand your business context at various levels.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=51)** Many are also using generative AI to trigger analysis thinking patterns, and help create visual analysis models.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=60)** Besides productivity, there will also be immense changes in how we collaborate as a team.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=67)** Many parts of a software development lifecycle are changing with AI.
+> **[1:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=67)** Many parts of a [[Software Development]] lifecycle are changing with AI.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=72)** This means the inputs, outputs, and collaboration points with others are changing.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=132)** Things like what are the various scenarios of each user task and what's the source of the data used in any user task?
 >
-> **[2:21](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=141)** It might be leveraging AI models, and how data is sourced and then used throughout the user experience.
+> **[2:21](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=141)** It might be leveraging AI models, and how data is sourced and then used throughout the [[User Experience (UX)|user experience]].
 >
 > **[2:29](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=149)** With these critical pieces of requirements information, we are set up for good analysis with the team.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=202)** It could be something completely new and innovative, something maybe they've imagined for a while, but was too expensive previously to do, or even something small.
 >
-> **[3:32](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=212)** Your impact on your team and organization in an AI world comes in many forms.
+> **[3:32](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=212)** Your impact on your team and organization in an AI world comes in many [[Forms]].
 >
 > **[3:38](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-s-impact-on-business-anlaysis?u=76281980&t=218)** For example, your productivity, your teamwork, and your work with business leaders to transform the organization.
 >
@@ -174,14 +171,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), ai (11), data (4), teams (3), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1), set up (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### The mindset of a business analyst with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-mindset-of-a-business-analyst-with-ai?u=76281980)
+#### [The mindset of a business analyst with AI](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-mindset-of-a-business-analyst-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,13 +209,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), ai (3), express (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### AI landscape and the urgency for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-landscape-and-the-urgency-for-change?u=76281980)
+#### [AI landscape and the urgency for change](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-landscape-and-the-urgency-for-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,13 +271,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### Transforming into an AI business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transforming-into-an-ai-business-analyst?u=76281980)
+#### [Transforming into an AI business analyst](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transforming-into-an-ai-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,13 +333,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), data (6), ai (5), teams (2), product (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - maybe (1)
 
-#### Understand the capabilities of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980)
+#### [Understand the capabilities of AI](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,15 +367,15 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=114)** Well, not only is the splash here, but it's a tidal wave, and the waves keep coming As these technologies continue to improve.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=124)** organizations are seeing the need to combine multiple artificial intelligence and digital capabilities to transform customer experiences and change their business models.
+> **[2:04](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=124)** organizations are seeing the need to combine multiple [[Artificial Intelligence (AI)|artificial intelligence]] and digital capabilities to transform customer experiences and change their business models.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=136)** Strategies in many organizations are jumping on the opportunity to take advantage of these capabilities, and to simply keep up with their competition and customers' expectations.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=148)** When we have a team that includes a business vision, customer experience focus, experiments, technical AI skills, and a business analyst who can connect the vision, user experience, data sources, data flow, and workflow to the technical concepts, we have a winning recipe for delivering value.
+> **[2:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=148)** When we have a team that includes a business vision, customer experience focus, experiments, technical AI skills, and a business analyst who can connect the vision, [[User Experience (UX)|user experience]], data sources, data flow, and workflow to the technical concepts, we have a winning recipe for delivering value.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=169)** Let's look at an example.
 >
-> **[2:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=171)** A team would like to use AI to improve the process of routing and replying to email inquiries.
+> **[2:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=171)** A team would like to use AI to improve the process of [[Routing]] and replying to email inquiries.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-ai-for-business-analysis/understand-the-capabilities-of-ai?u=76281980&t=178)** The business analyst helps the business leader craft a vision, and it ends up looking something like this.
 >
@@ -409,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (12), business (7), [[User Experience (UX)|User experience]] (2), teams (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Routing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - understanding (1)
@@ -419,12 +409,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
+#### [Generative AI for business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=0)** - What makes generative AI so important is that it's like a gateway to leveraging other artificial intelligence capabilities.
+> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=0)** - What makes [[Generative AI]] so important is that it's like a gateway to leveraging other [[Artificial Intelligence (AI)|artificial intelligence]] capabilities.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=9)** It's also providing opportunities to completely reimagine business processes and customer experiences.
 >
@@ -452,7 +441,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=121)** Next is the ability to connect this to various data sources.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=125)** The generative AI you may have first been exposed to, like ChatGPT, for example, started as a text-based AI tool trained on a large amount of general knowledge data from various sources like the World Wide Web.
+> **[2:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=125)** The generative AI you may have first been exposed to, like [[ChatGPT]], for example, started as a text-based AI tool trained on a large amount of general knowledge data from various sources like the World Wide Web.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=140)** Now ChatGPT, for example, has added more data sources and modalities like images and audio capabilities, and even more.
 >
@@ -462,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=160)** Perhaps it specializes in a very specific type of data, like a narrow set of financial market information.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=167)** You could use this with a general generative AI and discuss, predict and analyze financial market data, or how about knowledge and data about a specific sport and the statistics teams, players, and performance.
+> **[2:47](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=167)** You could use this with a general generative AI and discuss, predict and analyze financial market data, or how about knowledge and data about a specific sport and the [[Statistics]] teams, players, and performance.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980&t=184)** What these different generative AI models can do in specific situations will be dramatically different.
 >
@@ -476,19 +465,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (12), data (11), ai (5), business (3), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (12), [[ChatGPT]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistics]] (1)
 > **Analogies:** just like (2), for example (2), imagine (2), it's like (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - what (1)
 
-#### Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980)
+#### [Natural language processing](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=0)** - Natural language processing is a key capability in AI technologies.
+> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=0)** - [[Natural Language Processing (NLP)|Natural language processing]] is a key capability in AI technologies.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=5)** It's used in so many technologies we've actually been seeing for years.
 >
@@ -504,11 +492,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=48)** In our roles, we work to improve business processes and customer experiences.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=54)** Some examples of how organizations are using natural language processing are things like formal and informal written communications and reports, generating letters and forms, and creating text summaries of datasets.
+> **[0:54](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=54)** Some examples of how organizations are using natural language processing are things like formal and informal written communications and reports, generating letters and [[Forms]], and creating text summaries of datasets.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=70)** Also, things like product descriptions for inventory data, and financial portfolio summaries from account data.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=78)** How about creating dashboards and personalized customer recommendations and communications?
+> **[1:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=78)** How about creating [[Dashboards]] and personalized customer recommendations and communications?
 >
 > **[1:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=84)** Explaining charts and graphs into text is another.
 >
@@ -522,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=130)** In thinking about your business and system processes, identify where text-based writings, like reports, summaries, emails, write-ups and things that are currently manually generated, and identify where verbal responses or questions are used.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=147)** Also, text-based write-ups that may not be created due to lack of human resources, but would be helpful to improve the process and experience for customers and internal roles as well.
+> **[2:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=147)** Also, text-based write-ups that may not be created due to lack of [[Human Resources (HR)|human resources]], but would be helpful to improve the process and experience for customers and internal roles as well.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/natural-language-processing?u=76281980&t=160)** You might be thinking, "Well, if it's wrong, how do we monitor that?"
 >
@@ -536,13 +524,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), ai (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Forms]] (1), [[Dashboards]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - natural (1)
 
-#### Speech recognition and voice technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980)
+#### [Speech recognition and voice technologies](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +539,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=16)** We help the team see how these capabilities connect to real improvements through our analysis and collaboration.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=24)** Speech recognition and voice technology has come a long way.
+> **[0:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=24)** [[Speech Recognition]] and voice technology has come a long way.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=29)** Remember when it was hard to get a call system to even recognize you saying a single number, or when you said, "Operator?"
 >
@@ -564,7 +551,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=68)** Also, it's about converting text into speech, voice recognition, sentiment analysis, and more.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=77)** When speech AI is used together with natural language processing, machine learning, and more AI technologies, the use cases are endless.
+> **[1:17](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=77)** When speech AI is used together with [[Natural Language Processing (NLP)|natural language processing]], machine learning, and more AI technologies, the use cases are endless.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-ai-for-business-analysis/speech-recognition-and-voice-technologies?u=76281980&t=86)** These evolving AI technologies are making accents, speech styles, and intricacies of speech patterns much more natural, bringing us the quality we've wanted, but also along with risk and ethical considerations.
 >
@@ -600,17 +587,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (4), data (2), [[Speech Recognition]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Chatbots and virtual agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980)
+#### [Chatbots and virtual agents](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=0)** - Now that we have covered what generative AI, natural language processing, and speech AI is, we can see how chatbots are one of the most common AI implementations that organizations are using to improve customer service and reduce costs.
+> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=0)** - Now that we have covered what [[Generative AI]], [[Natural Language Processing (NLP)|natural language processing]], and speech AI is, we can see how chatbots are one of the most common AI implementations that organizations are using to improve customer service and reduce costs.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=17)** Many organizations have been using chatbots for many years, and the latest technology has the potential to create very sophisticated chatbots that save costs and make for a positive customer experience.
 >
@@ -622,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=53)** AI technologies are not implemented for the sake of AI.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=58)** They're usually implemented to make the user experience better and reduce costs.
+> **[0:58](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=58)** They're usually implemented to make the [[User Experience (UX)|user experience]] better and reduce costs.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/chatbots-and-virtual-agents?u=76281980&t=63)** Both are typically needed for an implementation to be successful.
 >
@@ -656,21 +642,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (3), chatbot (2), [[Generative AI]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (4)
 > **Documentation:** spec (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
 
-#### AI agents and roles for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980)
+#### [AI agents and roles for business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=0)** - Let's say you have a team of personal assistants to help you do things like research and plan your entertainment, manage your schedule, plan your route wherever you go, plan your grocery list and meals, and perhaps other things.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=15)** These could be human assistants or apps on your devices or an ecosystem of AI agents.
+> **[0:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=15)** These could be human assistants or apps on your devices or an ecosystem of [[AI Agents]].
 >
 > **[0:23](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=23)** When AI is involved, it's all about how the AI is used to create the magic that wasn't there before.
 >
@@ -710,13 +695,13 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=199)** We keep the user and business value as our guide while having these conversations.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=205)** For more information and to go deeper on AI agents, check out Charlene Li's course here on LinkedIn Learning called "[[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]."
+> **[3:25](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=205)** For more information and to go deeper on AI agents, check out Charlene Li's course here on [[LinkedIn]] Learning called "[[Transforming Business with AI Agents- Autonomous Efficiency and [[Decision-Making]]]]."
 >
 > **[3:39](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=219)** The technical team typically figures out how all these concepts will be implemented technically, and it takes tight collaboration to get it right and deliver the magic business leaders and users both want.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), business (10), data (3), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (7), [[LinkedIn]] (1), [[Decision-Making]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
@@ -726,8 +711,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI outside the bounds of traditional generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
+#### [AI outside the bounds of traditional generative AI](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980&t=13)** Capabilities that we have seen in sci-fi movies and now, are closer to and are now our reality.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980&t=22)** Generative AI is just one of many AI capabilities.
+> **[0:22](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980&t=22)** [[Generative AI]] is just one of many AI capabilities.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980&t=26)** So many AI capabilities exist beyond the realm of generative AI.
 >
@@ -773,14 +757,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Generative AI]] (4), data (2), next (2), business (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - for (1)
 
-#### Machine and deep learning: Business uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980)
+#### [Machine and deep learning: Business uses](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=42)** Or when to contact a customer to have the highest likelihood of making a sale.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=48)** Combining machine learning with other capabilities, like generative AI, biometrics, image analysis, and many others, makes this a powerful capability to completely change the way we do just about anything.
+> **[0:48](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=48)** Combining machine learning with other capabilities, like [[Generative AI]], biometrics, image analysis, and many others, makes this a powerful capability to completely change the way we do just about anything.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=63)** It especially should make us ponder how to solve problems and improve customer's experiences and operational efficiencies differently.
 >
@@ -816,7 +799,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=135)** This is powerful.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=138)** With the power of machine learning also comes the challenges of bad data, bias in the data, and other data quality issues.
+> **[2:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=138)** With the power of machine learning also comes the challenges of bad data, bias in the data, and other [[Data Quality]] issues.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/machine-and-deep-learning-business-uses?u=76281980&t=147)** Sometimes machine learning can help us identify bad data more quickly, but we do need to be looking for it.
 >
@@ -828,13 +811,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Programming]] (1), next (1), [[Generative AI]] (1), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Biometrics: Business uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980)
+#### [Biometrics: Business uses](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,19 +866,18 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980&t=165)** How about recognizing their facial expressions and emotions?
 >
-> **[2:50](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980&t=170)** Like many other artificial intelligence and digital capabilities, you will need to facilitate the group in determining where it's worth it to improve the process to meet bigger organizational goals.
+> **[2:50](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980&t=170)** Like many other [[Artificial Intelligence (AI)|artificial intelligence]] and digital capabilities, you will need to facilitate the group in determining where it's worth it to improve the process to meet bigger organizational goals.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-ai-for-business-analysis/biometrics-business-uses?u=76281980&t=184)** Biometrics have significant promise in making internal operations more efficient and customer experiences more pleasant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (3), [[Security]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sci (1)
 
-#### Video and image analysis: Business uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980)
+#### [Video and image analysis: Business uses](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,13 +885,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=9)** Now organizations are looking to improve their customer experience and create efficient operations using these technologies and tools.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=18)** And like others we've seen, it's not about the usage of its capability alone, but combining this with others that make the business operations and customer experience something special.
+> **[0:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=18)** And like others we've seen, it's not about the usage of its capability alone, but combining this with others that make the [[Business Operations]] and customer experience something special.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=29)** Some business use cases for image and video analysis include things like creating images and videos based on text input.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=38)** Simply describe an image or video you would like created in a text format, and these tools can create it for you.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=45)** Then have a conversation with generative AI to refine and iterate on the image or video to make it better.
+> **[0:45](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=45)** Then have a conversation with [[Generative AI]] to refine and iterate on the image or video to make it better.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=52)** And in the opposite direction, give an AI tool an image and ask it to analyze it, assign keywords to it, describe it, and even more.
 >
@@ -930,21 +911,20 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=136)** So being ready to facilitate these tough conversations is an important part of our role.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=143)** Leveraging image and video analysis with other artificial intelligence capabilities like biometrics, generative AI, and machine learning is where organizations are finding efficiencies and improvements to customer experiences.
+> **[2:23](https://www.linkedin.com/learning/learning-ai-for-business-analysis/video-and-image-analysis-business-uses?u=76281980&t=143)** Leveraging image and video analysis with other [[Artificial Intelligence (AI)|artificial intelligence]] capabilities like biometrics, generative AI, and machine learning is where organizations are finding efficiencies and improvements to customer experiences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), ai (4), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Business Operations]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - ai (1)
 
-#### Swarm intelligence for business process
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980)
+#### [Swarm intelligence for business process](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=1)** - What do bees and ants have to do with digital transformations and artificial intelligence?
+> **[0:01](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=1)** - What do bees and ants have to do with digital transformations and [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=7)** It's not a bad joke, I promise.
 >
@@ -952,7 +932,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=13)** Based on the ideas of crowdsourcing, it helps customers and organizations be more efficient in many ways.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=20)** Currently, organizations use a lot of data, surveys, and statistical analysis to understand where a problem lies with things like inventory, routing and logistics, customer feedback, marketing, and production.
+> **[0:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=20)** Currently, organizations use a lot of data, surveys, and [[Statistical Analysis]] to understand where a problem lies with things like inventory, [[Routing]] and logistics, customer feedback, marketing, and production.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=35)** Now, these data sets are great, but they don't provide solutions.
 >
@@ -966,7 +946,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=79)** It's in play with airport luggage logistics and other supply chains and best driving routes for trucks and cars, autonomous vehicles, and more.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=90)** Telecommunications and utilities are getting supply and demand balanced out this way too.
+> **[1:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=90)** [[Telecommunications]] and utilities are getting supply and demand balanced out this way too.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=96)** Imagine that a physical location like a store, a train station, or an airport could sense where people are and recommend routes to balance out the flow of people.
 >
@@ -978,7 +958,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=128)** So in a call center, this could be used to help route calls to be more efficient.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=133)** There's a growing number of algorithms being created for various uses in this space, and they enable organizations to implement rather than build this complex technology from scratch.
+> **[2:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=133)** There's a growing number of [[Algorithms]] being created for various uses in this space, and they enable organizations to implement rather than build this complex technology from scratch.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-ai-for-business-analysis/swarm-intelligence-for-business-process?u=76281980&t=146)** Let's look at how to identify where swarm intelligence might be useful in your work.
 >
@@ -996,18 +976,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistical Analysis]] (1), [[Routing]] (1), [[Telecommunications]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
-#### Blockchain: business uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/blockchain-business-uses?u=76281980)
+#### [Blockchain: business uses](https://www.linkedin.com/learning/learning-ai-for-business-analysis/blockchain-business-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/blockchain-business-uses?u=76281980&t=0)** - We hear about blockchain most often when discussing cryptocurrencies, but there is far more to it and more uses that are impacting our organizations and daily lives.
+> **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/blockchain-business-uses?u=76281980&t=0)** - We hear about [[Blockchain]] most often when discussing cryptocurrencies, but there is far more to it and more uses that are impacting our organizations and daily lives.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-ai-for-business-analysis/blockchain-business-uses?u=76281980&t=12)** Increasingly, businesses are finding more operational uses as well for blockchain.
 >
@@ -1047,13 +1026,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), business (4), [[Security]] (3), management (2), data (2)
+> **Frameworks & Libraries:** [[Blockchain]] (9)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Robotic process automation for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980)
+#### [Robotic process automation for business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=13)** Or is this an invisible robot?
 >
-> **[0:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=15)** It might be weird to think about what robotic process automation is and how it works.
+> **[0:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=15)** It might be weird to think about what [[Robotic Process Automation (RPA)|robotic process automation]] is and how it works.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=21)** Robotic process automation or RPA is meant to mimic the work humans do when interacting with a machine or system, but without the physical robot that we may picture from cartoons or movies, or maybe what we've seen today.
 >
@@ -1099,13 +1077,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=144)** So in thinking about your business and system processes, identify where there are processes where it's tedious, multi keystroke and steps that are repeatable or rules-driven.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=156)** So things like logging into various applications and filling out forms, opening emails or attachments and moving files around.
+> **[2:36](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=156)** So things like logging into various applications and filling out [[Forms]], opening emails or attachments and moving files around.
 >
 > **[2:45](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=165)** Also, if then decision logic and calculations, extracting or merging data into formats and reports.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=174)** RPA technologies may be useful in processes with older systems that don't integrate as well with the newer ones, but still have part of an end-to-end process.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=185)** Now, more recent and robust RPA tools can be used for API requests where a more end-to-end process can be enabled with access to many systems, databases, and services.
+> **[3:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=185)** Now, more recent and robust RPA tools can be used for API requests where a more end-to-end process can be enabled with access to many systems, [[Databases]], and services.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/robotic-process-automation-for-business-analysis?u=76281980&t=198)** So can you imagine a business analyst identifying and designing an RPA process to help a business unit you support?
 >
@@ -1113,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), rpa (8), business (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), ai (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Forms]] (1), [[Databases]] (1)
 > **Env Vars:** rpa (8), api (1)
 > **Analogies:** picture (1), for example (1), imagine (1)
 > **Prerequisites:** configure (2)
@@ -1122,8 +1100,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### AI and data analytics for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980)
+#### [AI and data analytics for business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,19 +1116,19 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=37)** First is descriptive analytics.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=40)** Descriptive data is typically found in reports and dashboards and tells us what has happened or is happening.
+> **[0:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=40)** Descriptive data is typically found in reports and [[Dashboards]] and tells us what has happened or is happening.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=49)** Business leaders request reports of this kind of data frequently as inputs to decisions and analytical thinking processes.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=58)** Customers also like to see this type of data, for example, to view their order history or payment history.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=65)** Next is predictive analytics.
+> **[1:05](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=65)** Next is [[Predictive Analytics]].
 >
 > **[1:08](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=68)** This is where AI is used to learn the data patterns and predict what will happen next.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=75)** Perhaps predicting next month sales and what customers will cancel their account soon, or predicting who the next largest customer will be.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=88)** Another use for this you may be familiar with is when an online retail store recommends products to you, predicting what you might be interested in buying next.
+> **[1:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=88)** Another use for this you may be familiar with is when an online retail store recommends [[Microsoft Products|products]] to you, predicting what you might be interested in buying next.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-and-data-analytics-for-business-analysis?u=76281980&t=99)** Business leaders could use this data to better plan and anticipate future needs for their business units.
 >
@@ -1167,19 +1144,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (7), next (7), ai (6), business (5)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Predictive Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (2)
 > **Speakers:** - data (1)
 
-#### AI agent to AI agent integration capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980)
+#### [AI agent to AI agent integration capabilities](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=0)** - To fully imagine AI's impact on business models and business processes, as well as the changes to customer experiences, we need to understand the concept of AI capabilities in an ecosystem of AI roles to augment or automate a business or user process.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=20)** Now, some call this agentic AI or AI agents.
+> **[0:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=20)** Now, some call this agentic AI or [[AI Agents]].
 >
 > **[0:25](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=25)** Now this can be a bit scary, and your business analysis skills are key to thinking through what aspects of users and system experiences should use AI and which should not.
 >
@@ -1215,19 +1191,19 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=188)** You can see here that we use traditional BA techniques like process models, decision tables, data flow diagrams, and more to communicate and analyze the various views of the requirements information for these AI agent roles and concepts.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=207)** The scope of this course does not teach all of these analysis techniques, but you'll find many of these taught in other courses to find here on LinkedIn.
+> **[3:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=207)** The scope of this course does not teach all of these analysis techniques, but you'll find many of these taught in other courses to find here on [[LinkedIn]].
 >
 > **[3:36](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=216)** For more information and going deeper on AI agents and the concepts of them, check out the course Transforming Business with AI Agents, Autonomous Efficiency and Decision Making.
 >
 > **[3:47](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=227)** It's a course taught by Charlene Lee here on LinkedIn Learning.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=231)** You'll also need a business analysis mindset of thinking through and facilitating the user experience changes and variations with business analysis skills.
+> **[3:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=231)** You'll also need a business analysis mindset of thinking through and facilitating the [[User Experience (UX)|user experience]] changes and variations with business analysis skills.
 >
-> **[4:02](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=242)** You'll be able to bring the right conversations about risk and ethics to the right people at the right time, and with the right focus.
+> **[4:02](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agent-to-ai-agent-integration-capabilities?u=76281980&t=242)** You'll be able to bring the right conversations about risk and [[Ethics]] to the right people at the right time, and with the right focus.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), business (13), next (2), data (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[LinkedIn]] (2), [[User Experience (UX)|User experience]] (1), [[Ethics]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
@@ -1238,8 +1214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linking AI capabilities together for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
+#### [Linking AI capabilities together for business analysis](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1232,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=54)** Though some may be tempted to use AI on anything and everything, getting value from AI is what's important.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=63)** The question really becomes, which are the right ones to automate and for what to create that user experience magic we all want?
+> **[1:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=63)** The question really becomes, which are the right ones to automate and for what to create that [[User Experience (UX)|user experience]] magic we all want?
 >
 > **[1:12](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=72)** Business analysts, we facilitate and lead the process in determining which capabilities and in which processes are worth the investment.
 >
@@ -1267,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=101)** Let's look at two dramatically different scenarios for the same process.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=106)** Okay. First, a customer calls into an organization and based on the number dialed from, the system identifies who the caller is, and using machine learning predicts what they're calling about, then uses generative AI virtual agent to ask the caller to confirm why they're calling.
+> **[1:46](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=106)** Okay. First, a customer calls into an organization and based on the number dialed from, the system identifies who the caller is, and using machine learning predicts what they're calling about, then uses [[Generative AI]] virtual agent to ask the caller to confirm why they're calling.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=127)** And then AI would listen to the call, deciphering the answers from the customer, and appropriately tagging the call.
 >
@@ -1285,7 +1260,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=176)** We could then use swarm intelligence to route the call to the available agent with the best skillset.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=183)** Once the call is with an agent, robotic process automation and generative AI could be used to help the agent quickly navigate to the customer records, and the knowledge bases, and to answer and resolve issues quickly.
+> **[3:03](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=183)** Once the call is with an agent, [[Robotic Process Automation (RPA)|robotic process automation]] and generative AI could be used to help the agent quickly navigate to the customer records, and the knowledge bases, and to answer and resolve issues quickly.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980&t=197)** Now, both of these examples leverage several AI technologies in different ways.
 >
@@ -1295,13 +1270,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), ai (6), [[Generative AI]] (3), career (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[User Experience (UX)|User experience]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### How are requirements similar for business analysis and AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-similar-for-business-analysis-and-ai?u=76281980)
+#### [How are requirements similar for business analysis and AI?](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-similar-for-business-analysis-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,15 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), ai (5), teams (3), data (1)
 > **Env Vars:** iiba (1), babok (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Versions:** version 3 (1)
 > **Speakers:** - i (1)
 
-#### How are requirements different for business analysis and AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980)
+#### [How are requirements different for business analysis and AI?](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1347,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=6)** First, more user and customer focus.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=10)** The end to end user experience becomes the focus, not a single system component or system interaction.
+> **[0:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=10)** The end to end [[User Experience (UX)|user experience]] becomes the focus, not a single system component or system interaction.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=18)** A more holistic and conceptual view of the work and context of the user experience.
 >
@@ -1415,7 +1387,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=210)** It helps teams with making sense of their assumptions, and it's a great way for BAs to bring clarity to the team when high levels of ambiguity exist.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=221)** Second is customer journey mapping.
+> **[3:41](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=221)** Second is [[Customer Journey Mapping]].
 >
 > **[3:44](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=224)** Many teams are using and leveraging this critical technique.
 >
@@ -1427,21 +1399,20 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=247)** This is a critical skill to facilitate, analyze, and define meaningful and small chunks of work, and to monitor if the outcome levers are moving in the right direction.
 >
-> **[4:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=260)** Mature agile teams may already be doing this well.
+> **[4:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=260)** Mature [[Agile Development|agile]] teams may already be doing this well.
 >
 > **[4:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=264)** Requirements work is changing, changing to be outcome over output driven in our AI-enabled world.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=273)** As BAs, our challenge is in changing our own mindsets, behaviors, and influencing others through our focus on outcomes, feedback loops, and extreme customer focus.
+> **[4:33](https://www.linkedin.com/learning/learning-ai-for-business-analysis/how-are-requirements-different-for-business-analysis-and-ai?u=76281980&t=273)** As BAs, our challenge is in changing our own mindsets, behaviors, and [[Influencing Others]] through our focus on outcomes, feedback loops, and extreme customer focus.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (5), teams (5), data (4), [[User Experience (UX)|User experience]] (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Customer Journey Mapping]] (1), [[Agile Development|Agile]] (1), [[Influencing Others]] (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - let (1)
 
-#### Linking digital work to business processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980)
+#### [Linking digital work to business processes](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1424,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=24)** All of this work leads us to creating high-quality structured requirements information.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=31)** When implementing AI solutions, we still use structured requirements information and business process skills, but with a bit of a different lens.
+> **[0:31](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=31)** When implementing [[AI Solutions]], we still use structured requirements information and business process skills, but with a bit of a different lens.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=42)** With AI implementations, we are focused on the users and customers viewpoint and the value to them.
 >
@@ -1467,7 +1438,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=70)** We need both for business outcomes.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=73)** First, we use techniques like customer journey mapping to understand and analyze the experience overall for the customer: looking at the customer touch points, where the customer's pain and frustration is, and which steps are adding value for the user.
+> **[1:13](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=73)** First, we use techniques like [[Customer Journey Mapping]] to understand and analyze the experience overall for the customer: looking at the customer touch points, where the customer's pain and frustration is, and which steps are adding value for the user.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=90)** Second, we use business process models and analysis to identify where in the process to leverage these technologies.
 >
@@ -1491,7 +1462,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=163)** We can start to analyze and discuss the customer frustrations holistically and where improvements in innovative technologies may help create a better customer experience overall.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=176)** Through this analysis, we may find that digital and artificial intelligence capabilities can help dramatically lessen the effort on the caller's behalf to get their question answered while lowering the cost to the organization.
+> **[2:56](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=176)** Through this analysis, we may find that digital and [[Artificial Intelligence (AI)|artificial intelligence]] capabilities can help dramatically lessen the effort on the caller's behalf to get their question answered while lowering the cost to the organization.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-digital-work-to-business-process?u=76281980&t=190)** Using business process analysis gives us a holistic point of view focused on the customer.
 >
@@ -1501,25 +1472,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), ai (4), data (2), [[Customer Journey Mapping]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1), [[Customer Journey Mapping]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - traditionally (1)
 
-#### AI projects with agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980)
+#### [AI projects with agile](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=1)** - AI technologies continue to bring us into a more complex, uncertain, and ambiguous environment, and this is especially true when implementing them into our business and customer processes.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=14)** Requirements almost seems like a silly word to use when there are so many unknowns.
+> **[0:14](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=14)** Requirements almost seems like a silly [[Microsoft Word|word]] to use when there are so many unknowns.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=20)** Can we ever really know what's required in a world changing in so many ways and so fast?
 >
 > **[0:27](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=27)** Changes are constant, and this is the new norm.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=31)** This means that the requirements process is suited to a more adaptive, nimble, and agile approach, where learning and feedback takes precedence over fixed, upfront requirements.
+> **[0:31](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=31)** This means that the requirements process is suited to a more adaptive, nimble, and [[Agile Development|agile]] approach, where learning and feedback takes precedence over fixed, upfront requirements.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-projects-with-agile?u=76281980&t=46)** Requirements work in these adaptive environments is all about facilitating the outcome we're looking for, defining small increments that will guide the way to these outcomes and planning for learning and feedback, all of this over focusing on a detailed predefined scope.
 >
@@ -1565,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (3), business (2), [[Agile Development|Agile]] (2), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1576,8 +1546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Experiments and hypothesis in AI business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
+#### [Experiments and hypothesis in AI business analysis work](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,11 +1580,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=82)** Second, we define the specific result we're looking to achieve with the test.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=88)** Third, we define the exact business metrics and measurements that we will track to.
+> **[1:28](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=88)** Third, we define the exact [[Business Metrics]] and measurements that we will track to.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=93)** Next, we define the experiments to test and learn about the hypothesis.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=100)** For this same example, we could set up an experiment to learn how a purchased AI product meant for call routing is using our data and in our environment.
+> **[1:40](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=100)** For this same example, we could set up an experiment to learn how a purchased AI product meant for call [[Routing]] is using our data and in our environment.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=111)** We would focus the experiment on keeping it small and focused on what we want to learn and track the learning objective process and results.
 >
@@ -1637,20 +1606,19 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=170)** Design your experiment to minimize impact outside of your precise learning area.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=176)** Experiments are powerful and can get the team's real-time information that shines a spotlight on the true needs and requirements of users.
+> **[2:56](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=176)** Experiments are powerful and can get the team's [[Real-Time]] information that shines a spotlight on the true needs and requirements of users.
 >
 > **[3:06](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980&t=186)** Experiment with experiments, find your blind spots, and give your team the clarity they need to make good decisions and work the hypothesis for clarity and better decision making.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (2), data (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (1), [[Routing]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - remember (1)
 
-#### Business measurements of success
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/business-measurements-of-success?u=76281980)
+#### [Business measurements of success](https://www.linkedin.com/learning/learning-ai-for-business-analysis/business-measurements-of-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,14 +1664,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), ai (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### The customer journey and user experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980)
+#### [The customer journey and user experience](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,7 +1695,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=80)** These would all have different journey maps.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=83)** If you are working on an AI implementation or a digital transformation that's more about the business operations and efficiency rather than a customer-facing touchpoint, there are a few things to keep in mind.
+> **[1:23](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=83)** If you are working on an AI implementation or a [[Digital Transformation]] that's more about the [[Business Operations]] and efficiency rather than a customer-facing touchpoint, there are a few things to keep in mind.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=97)** First, you can still use the concept of a customer journey map for internal users.
 >
@@ -1749,13 +1715,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=191)** And also think about the data analytics to measure the touchpoints on the customer journey and the journey as a whole.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=199)** If you want to learn more about journey mapping, I recommend checking out courses in the LinkedIn Learning Library.
+> **[3:19](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=199)** If you want to learn more about journey mapping, I recommend checking out courses in the [[LinkedIn]] Learning Library.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-ai-for-business-analysis/the-customer-journey-and-user-experience?u=76281980&t=206)** Customer journey maps help us move away from implementation of what the initial request was for and truly analyze what the customer and business really needs to get as a great result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (2), product (1), [[Digital Transformation]] (1), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Business Operations]] (1), [[LinkedIn]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -1763,8 +1729,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
 
-#### Monitoring the results of AI capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980)
+#### [Monitoring the results of AI capabilities](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1782,7 +1747,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=53)** First, defining the user and business measurements to monitor.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=57)** Second, setting up the monitoring processes and interventions to align to business metrics and indicators that move those metrics.
+> **[0:57](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=57)** Second, setting up the monitoring processes and interventions to align to [[Business Metrics]] and indicators that move those metrics.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=67)** And third, setting up checkpoints to discuss the results.
 >
@@ -1792,9 +1757,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=81)** We see what is and is not working and we can bring ideas to leaders on what to change based on real data.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=90)** Besides performance of the users and process, we also monitor for things like ethics, bias, and data quality.
+> **[1:30](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=90)** Besides performance of the users and process, we also monitor for things like [[Ethics]], bias, and [[Data Quality]].
 >
-> **[1:39](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=99)** Business analysts can play a large role in understanding and analyzing the quality of the processes and user experience.
+> **[1:39](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=99)** Business analysts can play a large role in understanding and analyzing the quality of the processes and [[User Experience (UX)|user experience]].
 >
 > **[1:48](https://www.linkedin.com/learning/learning-ai-for-business-analysis/monitoring-the-results-of-ai-capabilities?u=76281980&t=108)** Part of this monitoring will show us problems, not just successes.
 >
@@ -1822,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (5), ai (4), [[Ethics]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Business Metrics]] (1), [[Data Quality]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1833,8 +1798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with AI in business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)
+#### [Next steps with AI in business analysis work](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1822,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (1), teams (1), career (1)
 > **Speakers:** - ai (1)
 
 

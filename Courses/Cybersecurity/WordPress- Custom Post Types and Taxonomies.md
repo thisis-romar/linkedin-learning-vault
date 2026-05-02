@@ -108,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create better content
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980)
+#### [Create better content](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=0)** - [Joe] WordPress is a content management system that drives millions of websites, from blogs to E-commerce stores that process thousands of transactions per a day.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=0)** - [Joe] [[WordPress]] is a [[Content Management]] system that drives millions of websites, from blogs to [[E-Commerce]] stores that process thousands of transactions per a day.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=10)** By some estimates, it powers over 30% of the web.
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=18)** To create custom content and site functionality, you'll need a little extra.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=23)** Custom post types and taxonomies allow you to create your own content, which can better be organized and provide more useful data to search engines like Google.
+> **[0:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=23)** Custom post types and taxonomies allow you to create your own content, which can better be organized and provide more useful data to search engines like [[Google]].
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=33)** I'll show you how to extend WordPress by creating your own custom post types for content, and custom taxonomies for organizing that content.
 >
@@ -131,17 +130,16 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=52)** Hi, I'm Joe Casabona, a front end web developer and WordPress educator.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=58)** So join me in my LinkedIn Learning course about WordPress: Custom Post Types and Taxonomies.
+> **[0:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980&t=58)** So join me in my [[LinkedIn]] Learning course about WordPress: Custom Post Types and Taxonomies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), web (2), [[Content Management]] (1), [[E-Commerce]] (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Content Management]] (1), [[E-Commerce]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,13 +147,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=5)** We're going to build a plug-in, as well as modify a theme.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=9)** Because of that, you should be familiar with HTML, CSS and PHP, as well as how to create how to create WordPress child themes and plugins.
+> **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=9)** Because of that, you should be familiar with [[HTML]], CSS and [[PHP]], as well as how to create how to create [[WordPress]] child themes and plugins.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=18)** You should also have a local development environment that runs WordPress.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=24)** You also need to know how to use WordPress in general.
 >
-> **[0:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=27)** If this is your first WordPress course I recommend you take a look at Word Press 5 Essential Training.
+> **[0:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=27)** If this is your first WordPress course I recommend you take a look at [[Microsoft Word|Word]] Press 5 Essential Training.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=34)** You'll get to learn the ins and outs of how to use WordPress, the block editor, installing and activating themes and plugins and more.
 >
@@ -167,9 +165,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=67)** For local development I will be using Local by Flywheel.
 >
-> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=72)** Depending on your platform we have several courses on local WordPress development.
+> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=72)** Depending on your platform we have several courses on local [[Wordpress Development]].
 >
-> **[1:19](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=79)** While Local by Flywheel works on both Windows and Mac, you can use any development environment you like.
+> **[1:19](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=79)** While Local by Flywheel works on both [[Windows]] and Mac, you can use any development environment you like.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-you-should-know?u=76281980&t=86)** If you're looking for alternatives, for Windows, you can check out installing and running WordPress WAMP.
 >
@@ -179,13 +177,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), [[Windows]] (2), [[HTML]] (1), css (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[Windows]] (2), [[HTML]] (1), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (1), css (1), php (1), wamp (1), mamp (1)
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980&t=5)** In this course, we're going to create a simple business directory website.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980&t=12)** We'll create a custom post type called Business that uses all of the built-in features of WordPress without having to rely on any outside plug-in help or custom metafields.
+> **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980&t=12)** We'll create a custom post type called Business that uses all of the built-in features of [[WordPress]] without having to rely on any outside plug-in help or custom metafields.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/demo-project-overview?u=76281980&t=24)** Our businesses will have the standard content editor field as well as a featured image.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[WordPress]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
@@ -224,12 +221,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are custom post types?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980)
+#### [What are custom post types?](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=0)** - [Instructor] One of the most important additions to WordPress that helped it evolve from a single blogging platform to a full-fledged content management system is the addition of different types of data.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=0)** - [Instructor] One of the most important additions to [[WordPress]] that helped it evolve from a single blogging platform to a full-fledged [[Content Management]] system is the addition of different types of data.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=12)** Before we dive into the code, it's important that you understand what custom post types are.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=40)** These are most akin to blog articles.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=42)** They are normally organized in reverse-chronological order, so that the last post goes first in the index and then you see the rest of the posts below.
+> **[0:42](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=42)** They are normally organized in reverse-chronological order, so that the last post goes first in the index and then you see the [[Representational State Transfer (REST)|rest]] of the posts below.
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=52)** They are non-hierarchical, meaning posts do not have parent/child relationships.
 >
@@ -279,18 +275,17 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=188)** An easier way to think about them might be as custom content types.
 >
-> **[3:13](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=193)** Posts and pages are types of content and we can create our own content types like businesses, products, and more.
+> **[3:13](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980&t=193)** Posts and pages are types of content and we can create our own content types like businesses, [[Microsoft Products|products]], and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Content Management]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Content Management]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are custom taxonomies?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980)
+#### [What are custom taxonomies?](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,13 +299,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=27)** To give you a real-life example, we can take a look at one of my favorite websites, Pen Chalet.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=33)** It's got different types of products in the top navigation: fine pens, inks, accessories, and more.
+> **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=33)** It's got different types of [[Microsoft Products|products]] in the top navigation: fine pens, inks, accessories, and more.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=40)** These are akin to a product taxonomy but if we dig deeper and look at, say, fine pens there are different types of fine pens, a further taxonomy or classification.
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=55)** And if we click on fountain pens we'll see even more taxonomies for brand, type, price, and other ways that we can classify and organize these fountain pens.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=70)** In WordPress, we have two default taxonomies that we can use all the time.
+> **[1:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=70)** In [[WordPress]], we have two default taxonomies that we can use all the time.
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=77)** The first is categories, which are mandatory for posts.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=152)** Custom taxonomies can have custom indexes and archive templates, so you can display them differently from how you would display the category and tag indexes.
 >
-> **[2:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=163)** Custom taxonomies are usually displayed alongside categories and other metadata when you look at a post and, finally, custom taxonomies also allow for more advanced organization of your content.
+> **[2:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=163)** Custom taxonomies are usually displayed alongside categories and other [[Metadata]] when you look at a post and, finally, custom taxonomies also allow for more advanced organization of your content.
 >
 > **[2:57](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-taxonomies?u=76281980&t=177)** In our demo project we'll have two taxonomies.
 >
@@ -346,18 +341,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), data (1), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[WordPress]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where does the code belong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/where-does-the-code-belong?u=76281980)
+#### [Where does the code belong?](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/where-does-the-code-belong?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/where-does-the-code-belong?u=76281980&t=0)** - [Instructor] WordPress does an incredibly good job of separating form from function.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/where-does-the-code-belong?u=76281980&t=0)** - [Instructor] [[WordPress]] does an incredibly good job of separating form from function.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/where-does-the-code-belong?u=76281980&t=4)** Primarily WordPress is for adding and editing content.
 >
@@ -404,8 +398,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The no-code solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980)
+#### [The no-code solution](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980&t=32)** Custom Post Types UI and Pods.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980&t=36)** Both are popular choices and free from the WordPress Plugin repository, but we're going to use Custom Post Types UI for this video.
+> **[0:36](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980&t=36)** Both are popular choices and free from the [[WordPress]] Plugin repository, but we're going to use Custom Post Types UI for this video.
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980&t=46)** You can start by going to plugins, add new, and searching for Custom Post Types UI.
 >
@@ -437,8 +430,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom post types
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-types?u=76281980)
+#### [Creating custom post types](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,14 +466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Env Vars:** cpt (1), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom post type labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980)
+#### [Creating custom post type labels](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980&t=30)** There are a lot.
 >
-> **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980&t=32)** Luckily, if we don't define a label, WordPress is smart enough to use either the singular or plural label based on the context.
+> **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980&t=32)** Luckily, if we don't define a label, [[WordPress]] is smart enough to use either the singular or plural label based on the context.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-post-type-labels?u=76281980&t=40)** But in certain areas, or for certain post types, it might make sense to be a little more specific.
 >
@@ -527,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[WordPress]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** cptui (1)
 > **UI Navigation:** go to (1)
@@ -535,8 +525,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom post type capability settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980)
+#### [Custom post type capability settings](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,9 +545,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=51)** Show in Nav Menus let's us decide if we want users to add out post types to the menu areas.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=58)** Show in REST API will enable the REST API.
+> **[0:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=58)** Show in [[Representational State Transfer (REST)|REST]] API will enable the REST API.
 >
-> **[1:02](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=62)** This is necessary if you want to make the data accessible outside of WordPress.
+> **[1:02](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=62)** This is necessary if you want to make the data accessible outside of [[WordPress]].
 >
 > **[1:07](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-type-capability-settings?u=76281980&t=67)** As well if you want to use the block editor.
 >
@@ -616,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Representational State Transfer (REST)|Rest]] (4), api (3), business (3), next (2)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Representational State Transfer (REST)|Rest]] (4)
 > **Env Vars:** rest (3), api (3), css (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -624,8 +613,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying your post type on the front end
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980)
+#### [Displaying your post type on the front end](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=14)** This will look near exact to the post editor interface.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=18)** Since we have the REST API enabled, we see the block editor.
+> **[0:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=18)** Since we have the [[Representational State Transfer (REST)|REST]] API enabled, we see the block editor.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=22)** The main difference is our custom labels.
 >
@@ -649,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=47)** And then we'll click publish.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=50)** When we click View Business, you'll notice that our business uses the default single.php template for our theme.
+> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=50)** When we click View Business, you'll notice that our business uses the default single.[[PHP]] template for our theme.
 >
 > **[0:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-your-post-type-on-the-front-end?u=76281980&t=58)** We'll learn how to customize that later.
 >
@@ -673,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[PHP]] (1)
 > **Env Vars:** rest (1), api (1), url (1)
 > **File Paths:** single.php (1)
 > **CLI Commands:** php (1)
@@ -686,8 +674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating custom taxonomies
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980)
+#### [Creating custom taxonomies](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,11 +700,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=55)** Now let's attach our Taxonomy to a Post Type.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=60)** You can see that Posts, Pages and Media are all included in WordPress Core and then we have the businesses Custom Post Type that we created.
+> **[1:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=60)** You can see that Posts, Pages and Media are all included in [[WordPress]] Core and then we have the businesses Custom Post Type that we created.
 >
 > **[1:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=69)** Let's go ahead and check that now.
 >
-> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=72)** These are the only required settings so we can save now, leaving the rest of the options at their defaults.
+> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=72)** These are the only required settings so we can save now, leaving the [[Representational State Transfer (REST)|rest]] of the options at their defaults.
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980&t=79)** Let's go ahead and click Add Taxonomy.
 >
@@ -733,8 +720,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom taxonomy labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980)
+#### [Creating custom taxonomy labels](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,11 +732,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=27)** Let's walk through some of these.
 >
-> **[0:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=31)** Just like with post types, if we don't define a label, WordPress is smart enough to use an appropriate one.
+> **[0:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=31)** Just like with post types, if we don't define a label, [[WordPress]] is smart enough to use an appropriate one.
 >
 > **[0:38](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=38)** In some instances, that will be the singular or plural label.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=43)** It could also be the word tag or category based on how we characterize our taxonomy.
+> **[0:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=43)** It could also be the [[Microsoft Word|word]] tag or category based on how we characterize our taxonomy.
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomy-labels?u=76281980&t=52)** In the instance of our sizes taxonomy, we can generally use the singular or plural label everywhere.
 >
@@ -776,15 +762,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), business (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** cpt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing the taxonomies' settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980)
+#### [Customizing the taxonomies' settings](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=68)** We'll leave everything at the default here.
 >
-> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=72)** Rewrite is whether or not Word Press should use rewrites for this taxonomy, and the Custom Rewrite Slug is the custom portion of the URL we want to use.
+> **[1:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=72)** Rewrite is whether or not [[Microsoft Word|Word]] Press should use rewrites for this taxonomy, and the Custom Rewrite Slug is the custom portion of the URL we want to use.
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=82)** We are going to keep this at the default of size.
 >
@@ -822,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=94)** Let's set this to true.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=97)** Show in REST API allows us to expose the taxonomy information outside of Word Press, as well as makes it show up in the block editor.
+> **[1:37](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=97)** Show in [[Representational State Transfer (REST)|REST]] API allows us to expose the taxonomy information outside of Word Press, as well as makes it show up in the block editor.
 >
 > **[1:47](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-the-taxonomies-settings?u=76281980&t=107)** We'll leave the other REST API options at the default.
 >
@@ -842,15 +827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rest (2), api (2), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Importing and exporting your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980)
+#### [Importing and exporting your data](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980&t=4)** If we hover over CPT UI and click on Tools, you'll see we have the ability to Import and Export Post Types and Taxonomies.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980&t=15)** This Plug-in uses both JSON and PHP for exporting and JSON for importing.
+> **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980&t=15)** This Plug-in uses both [[JSON]] and [[PHP]] for exporting and JSON for importing.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/importing-and-exporting-your-data?u=76281980&t=22)** Both Post Types and Taxonomies have their own tabs.
 >
@@ -908,12 +892,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980)
+#### [Creating your plugin](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=0)** - [Instructor] As we write the code to add custom post types and taxonomies to our WordPress site, there are two tasks we need to accomplish.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=0)** - [Instructor] As we write the code to add custom post types and taxonomies to our [[WordPress]] site, there are two tasks we need to accomplish.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=8)** Add the code for our custom post types and taxonomies, and modify our theme to add templates for the newly created custom post types and taxonomies.
 >
@@ -923,15 +906,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=25)** This ensures that our code is theme agnostic, or at least the parts that can be.
 >
-> **[0:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=31)** Open up your favorite code editor and head over to /wpcontent/plugins in your WordPress development site.
+> **[0:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=31)** Open up your favorite code editor and head over to /wpcontent/plugins in your [[Wordpress Development]] site.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=41)** Now we're going to create a folder in the plugins folder called lil-post-types.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=50)** Anytime we need to prefix something, we'll use lil for LinkedIn Learning.
+> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=50)** Anytime we need to prefix something, we'll use lil for [[LinkedIn]] Learning.
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=56)** Inside of the lil-post-types folder, we're going to create a new file with the same name.
 >
-> **[1:02](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=62)** Lil-post-types.php.
+> **[1:02](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=62)** Lil-post-types.[[PHP]].
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980&t=68)** This will be the driver for our plugin.
 >
@@ -967,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (2), [[Wordpress Development]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (2), [[Wordpress Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (1), url (1), wpinc (1), lilpath (1)
 > **CLI Commands:** php (2), make (1)
 > **Exercise Files:** exercise files (2)
@@ -975,8 +958,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a basic custom post type
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980)
+#### [Building a basic custom post type](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=5)** First, we'll start with the basic definition of a custom post type, and then we'll move on to the settings and labels area.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=13)** One note is that if you're using the same WordPress install that you used with Custom Post Types UI for your own plugin, you should deactivate Custom Post Types UI in order to avoid conflict.
+> **[0:13](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=13)** One note is that if you're using the same [[WordPress]] install that you used with Custom Post Types UI for your own plugin, you should deactivate Custom Post Types UI in order to avoid conflict.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=27)** If you want to use it as a reference, make sure to grab that export or set up a completely different development site for the plugin and theme so we don't lose the work or avoid conflicts.
 >
@@ -994,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=53)** And inside that folder, we're going to create a new file called register.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=60)** Now before we start adding code to register.php, we're going to go back to lil-post-types.php, and we're going to add this line to the end of the file.
+> **[1:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=60)** Now before we start adding code to register.[[PHP]], we're going to go back to lil-post-types.php, and we're going to add this line to the end of the file.
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=71)** Require_once LILPATH, that's LILPATH in no quotes, that's the constant that we have defined in our plugin.
 >
@@ -1026,7 +1008,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=177)** So the key for the plural name is name, and then we're going to add the string that we want to use, which is going to be Businesses.
 >
-> **[3:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=188)** Notice here I'm wrapping our string in the internationalization function that's built in to WordPress.
+> **[3:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=188)** Notice here I'm wrapping our string in the [[Internationalization]] function that's built in to WordPress.
 >
 > **[3:17](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-post-type?u=76281980&t=197)** I'm also using the LILDOMAIN as the text domains.
 >
@@ -1062,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), [[PHP]] (6), business (2), [[Internationalization]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[PHP]] (6), [[Internationalization]] (1)
 > **CLI Commands:** php (6), make (5)
 > **Code Identifiers:** lil_register_business_type (2), register_post_type (2), require_once (1), add_action (1)
 > **Prerequisites:** set up (3), install (1), before we start (1), setup (1)
@@ -1071,8 +1053,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (2)
 
-#### Customizing your post type labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980)
+#### [Customizing your post type labels](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=20)** Let's first look at the labels we can customize.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=25)** We're going to head to the WordPress codex for the reference to register post type.
+> **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=25)** We're going to head to the [[WordPress]] codex for the reference to register post type.
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=30)** This website will be your best friend because it shows us exactly what we need to pass to the labels and arguments arrays.
 >
@@ -1094,7 +1075,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=55)** So if we go back to our code, let's start with customizing the featured image labels.
 >
-> **[1:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=64)** In the register.php function, we are going to start by setting up some new key value pairs.
+> **[1:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=64)** In the register.[[PHP]] function, we are going to start by setting up some new key value pairs.
 >
 > **[1:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=70)** The first is going to be featured image.
 >
@@ -1126,7 +1107,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=198)** Second, we don't see the featured image area or much of anything, and that's because those get passed to the arguments array, which we'll look at shortly.
 >
-> **[3:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=207)** But the other thing is, if we look at the top we see the word add new post here.
+> **[3:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=207)** But the other thing is, if we look at the top we see the [[Microsoft Word|word]] add new post here.
 >
 > **[3:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-labels?u=76281980&t=211)** So let's go back to our codex, and see how we can customize that text.
 >
@@ -1150,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[WordPress]] (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** scroll down (1), go to (1), in the menu (1)
@@ -1159,8 +1140,7 @@ created: 2026-05-02
 > **Code Identifiers:** add_new (1)
 > **Prerequisites:** set up (1)
 
-#### Customizing your post type settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980)
+#### [Customizing your post type settings](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,7 +1176,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980&t=132)** Again, if you ever need to reference any of the other arguments, or you want to read a little bit more about what we've added here, again you can always reference the codex.
 >
-> **[2:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980&t=143)** So if we save this, and then go back to our Word Press Dashboard, let's go ahead and refresh the screen.
+> **[2:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980&t=143)** So if we save this, and then go back to our [[Microsoft Word|Word]] Press Dashboard, let's go ahead and refresh the screen.
 >
 > **[2:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/customizing-your-post-type-settings?u=76281980&t=153)** So you could see the featured image area, which is properly labeled business logo, is showing up, but the label for set feature image is not.
 >
@@ -1212,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (2), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** has_front (2), has_archive (1), menu_icon (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1221,14 +1201,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 
-#### Activating the REST API on your post type
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980)
+#### [Activating the REST API on your post type](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980&t=0)** - One of the arguments we haven't set yet is for the REST API which should get some special attention.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980&t=0)** - One of the arguments we haven't set yet is for the [[Representational State Transfer (REST)|REST]] API which should get some special attention.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980&t=6)** Aside from allowing our post type data to be accessible from outside WordPress via an API, there's another crucial feature that the REST API turns on.
+> **[0:06](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980&t=6)** Aside from allowing our post type data to be accessible from outside [[WordPress]] via an API, there's another crucial feature that the REST API turns on.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-on-your-post-type?u=76281980&t=18)** If we look at the post edit screen for creating a new business right now, you'll see the classic editor.
 >
@@ -1258,7 +1237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), api (4), [[WordPress]] (2), feature (2), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[WordPress]] (2)
 > **Env Vars:** api (4), rest (3)
 > **Code Identifiers:** show_in_rest (4)
 > **Cross-References:** go back to (2)
@@ -1267,8 +1246,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - one (1)
 
-#### Creating a post with your post type
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980)
+#### [Creating a post with your post type](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980&t=33)** If we click Publish, we can then view the post, but notice that we're getting a 404, even though we just published.
 >
-> **[0:41](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980&t=41)** That's because we haven't told Wordpress to update the permalinks to include the rewrite rules we set in our custom post type settings.
+> **[0:41](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980&t=41)** That's because we haven't told [[WordPress]] to update the permalinks to include the rewrite rules we set in our custom post type settings.
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-post-with-your-post-type?u=76281980&t=50)** The way that we can do that is by forcing it on the permalinks page in the admin.
 >
@@ -1306,19 +1284,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create an events post type
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-create-an-events-post-type?u=76281980)
+#### [Challenge: Create an events post type](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-create-an-events-post-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-create-an-events-post-type?u=76281980&t=0)** - [Instructor] Now that you've watched how a custom post type is created within Word Press, it's your turn to create your own.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-create-an-events-post-type?u=76281980&t=0)** - [Instructor] Now that you've watched how a custom post type is created within [[Microsoft Word|Word]] Press, it's your turn to create your own.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-create-an-events-post-type?u=76281980&t=12)** Using what you've learned, I want you to create your own post type for events.
 >
@@ -1342,13 +1319,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create an events post type
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980)
+#### [Solution: Create an events post type](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1356,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980&t=82)** And then finally we will change register_post_type from business to event.
 >
-> **[1:28](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980&t=88)** The last thing we'll need to do here is go to our lil-post-types.php file and make sure we add our new function to the init action.
+> **[1:28](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980&t=88)** The last thing we'll need to do here is go to our lil-post-types.[[PHP]] file and make sure we add our new function to the init action.
 >
 > **[1:38](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-create-an-events-post-type?u=76281980&t=98)** So we'll copy the add_action line, and then we'll paste the copy below, and rename lil_register_business_type to lil_register_event_type.
 >
@@ -1392,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), [[PHP]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** lil_register_event_type (2), singular_name (1), add_new (1), add_new_item (1), has_archive (1)
 > **CLI Commands:** php (1), make (1)
 > **File Paths:** lil-post-types.php (1)
@@ -1401,8 +1377,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [narrator] (1)
 
-#### Extending post types with custom fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980)
+#### [Extending post types with custom fields](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=29)** Well, there are a few ways.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=33)** First, WordPress does have native support for custom metafields.
+> **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=33)** First, [[WordPress]] does have native support for custom metafields.
 >
 > **[0:38](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=38)** If you add that support to your post type via the support argument, you'll see a new metabox on the post edit page.
 >
@@ -1432,7 +1407,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=89)** Perhaps the most popular one of these is CMB2, or custom metaboxes two.
 >
-> **[1:35](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=95)** You would download this from github, include it in your plugin and then define the fields in code.
+> **[1:35](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=95)** You would download this from [[GitHub]], include it in your plugin and then define the fields in code.
 >
 > **[1:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/extending-post-types-with-custom-fields?u=76281980&t=100)** Finally, you'd associate them with your post types.
 >
@@ -1444,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[WordPress]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** cmb2 (2)
 > **Tools:** github (1)
@@ -1457,8 +1432,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a basic custom taxonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980)
+#### [Building a basic custom taxonomy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=6)** First, we'll get the basic definition of the taxonomy down, and then we'll move on to the more advanced customizable settings.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=15)** In our plugin lil-post-types, we're going to create a new directory called taxonomies, and inside that folder, we're going to create a new file called register.php.
+> **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=15)** In our plugin lil-post-types, we're going to create a new directory called taxonomies, and inside that folder, we're going to create a new file called register.[[PHP]].
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=32)** In lil-post-types.php, we're going to use the require_once function to grab that register file.
 >
@@ -1516,11 +1490,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=224)** So we'll write add_action init, and then we'll pass the name of our function, which is lil_register_size_taxonomy.
 >
-> **[3:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=238)** If we save this and then go to our WordPress dashboard, you can see we're looking at the business listings, so we'll refresh, and you'll see the Sizes taxonomy show up in the admin underneath Businesses.
+> **[3:58](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980&t=238)** If we save this and then go to our [[WordPress]] dashboard, you can see we're looking at the business listings, so we'll refresh, and you'll see the Sizes taxonomy show up in the admin underneath Businesses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), business (2), next (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1)
 > **Code Identifiers:** require_once (2), post_types (2), register_taxonomy (1), add_action (1), lil_register_size_taxonomy (1)
 > **CLI Commands:** php (3), make (2)
 > **Prerequisites:** set up (3)
@@ -1529,8 +1503,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 
-#### Creating an advanced custom taxonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980)
+#### [Creating an advanced custom taxonomy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,7 +1529,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980&t=70)** We'll add the key add new item and then we'll add the label Add New Size.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980&t=83)** We'll then include our text domain for internationalization, and that's the only label that we're going to customize here.
+> **[1:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980&t=83)** We'll then include our text domain for [[Internationalization]], and that's the only label that we're going to customize here.
 >
 > **[1:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-an-advanced-custom-taxonomy?u=76281980&t=92)** For the arguments, according to the Codex, many of the arguments that we would want to use are the default settings.
 >
@@ -1594,14 +1567,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Activating the REST API for your taxonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980)
+#### [Activating the REST API for your taxonomy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980&t=0)** - [Instructor] One of the options we haven't set yet is for the REST API.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980&t=0)** - [Instructor] One of the options we haven't set yet is for the [[Representational State Transfer (REST)|REST]] API.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980&t=4)** Aside from allowing our taxonomy data to be accessible from outside WordPress via an API, there's another crucial feature that the REST API turns on.
+> **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980&t=4)** Aside from allowing our taxonomy data to be accessible from outside [[WordPress]] via an API, there's another crucial feature that the REST API turns on.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/activating-the-rest-api-for-your-taxonomy?u=76281980&t=14)** And it's related to adding REST API support for our post type.
 >
@@ -1623,14 +1595,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Representational State Transfer (REST)|Rest]] (4), [[WordPress]] (2), business (2), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[WordPress]] (2)
 > **Env Vars:** api (5), rest (4)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** show_in_rest (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding taxonomy terms to your post types
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-taxonomy-terms-to-your-post-types?u=76281980)
+#### [Adding taxonomy terms to your post types](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-taxonomy-terms-to-your-post-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1637,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **UI Navigation:** click on (3), go to (3)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
@@ -1674,8 +1644,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Make location taxonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-make-location-taxonomy?u=76281980)
+#### [Challenge: Make location taxonomy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/challenge-make-location-taxonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,7 +1674,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), generic (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1713,8 +1681,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Make location taxonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980)
+#### [Solution: Make location taxonomy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1689,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980&t=11)** Since we have our register size taxonomy function here, we're going to copy that and use it a boiler plate for our location taxonomy.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980&t=20)** We'll go ahead and paste that right into the register.php file inside our taxonomies folder.
+> **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980&t=20)** We'll go ahead and paste that right into the register.[[PHP]] file inside our taxonomies folder.
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/solution-make-location-taxonomy?u=76281980&t=26)** Then we'll rename this function to lil_register_location_taxonomy.
 >
@@ -1764,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), business (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2), make (2)
 > **UI Navigation:** go to (2), click on (1)
 > **File Paths:** register.php (1), posttypes.php (1)
@@ -1777,12 +1744,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The WordPress template hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980)
+#### [The WordPress template hierarchy](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=0)** - [Instructor] WordPress has some pretty great fallbacks for new content.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=0)** - [Instructor] [[WordPress]] has some pretty great fallbacks for new content.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=4)** So we technically don't need to do anything to have our post types supported on the front-end.
 >
@@ -1794,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=23)** We'll work through this, left to right, but I do want to point out the entry all the way to the right.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=29)** Everything boils down to the index.php template.
+> **[0:29](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=29)** Everything boils down to the index.[[PHP]] template.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980&t=34)** This is the ultimate fallback.
 >
@@ -1852,7 +1818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), [[WordPress]] (4), business (3), front-end (1), css (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[WordPress]] (4)
 > **Exercise Files:** template (17)
 > **File Paths:** index.php (4), single-business.php (2), style.css (1), taxonomy-size-small.php (1), taxonomy.php (1)
 > **CLI Commands:** php (13)
@@ -1861,8 +1827,7 @@ created: 2026-05-02
 > **URLs:** [wphierarchy.com](https://wphierarchy.com) (1)
 > **Env Vars:** pdf (1)
 
-#### Setting up your child theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980)
+#### [Setting up your child theme](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=15)** If you're using a custom made theme, that is, one you developed, or had one developed for you, you can make modifications directly to the theme.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=25)** However, if you're using a theme that you got from a marketplace, or the WordPress theme repository, you'll risk losing any changes you make the next time that theme updates, so instead we'll need to make a child theme.
+> **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=25)** However, if you're using a theme that you got from a marketplace, or the [[WordPress]] theme repository, you'll risk losing any changes you make the next time that theme updates, so instead we'll need to make a child theme.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=40)** A child theme piggybacks off of the main, or parent theme, using any files from the parent, not specifically overwritten in the child.
 >
@@ -1896,7 +1861,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=140)** This value needs to match the folder name for the parent theme.
 >
-> **[2:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=147)** The next thing we're going to do is create a new file called functions.php, and in the functions.php file we are going to include our parent CSS.
+> **[2:27](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=147)** The next thing we're going to do is create a new file called functions.[[PHP]], and in the functions.php file we are going to include our parent CSS.
 >
 > **[2:44](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/setting-up-your-child-theme?u=76281980&t=164)** So there's two things that we'll need to do here.
 >
@@ -1946,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), css (7), next (3), [[PHP]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[PHP]] (2)
 > **Env Vars:** uri (4), css (4), url (1)
 > **CLI Commands:** make (5), php (2)
 > **Code Identifiers:** wp_enqueue_style (2), lil_child_enqueue_styles (1), get_template_directory_uri (1), get_stylesheet_directory_uri (1), add_action (1)
@@ -1955,14 +1920,13 @@ created: 2026-05-02
 > **Definitions:** means that (2), is a  (1)
 > **UI Navigation:** go to (2)
 
-#### Creating a single custom post template
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980)
+#### [Creating a single custom post template](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980&t=0)** - [Instructor] With our child theme created it's time to add our custom templates.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980&t=4)** We're going to start by building a single-business.php template to display individual businesses in our directory.
+> **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980&t=4)** We're going to start by building a single-business.[[PHP]] template to display individual businesses in our directory.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-single-custom-post-template?u=76281980&t=12)** And because everything is based off of twentynineteen, we're going to use that theme for guidance.
 >
@@ -2004,7 +1968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[PHP]] (9), front-end (1)
+> **Frameworks & Libraries:** [[PHP]] (9)
 > **CLI Commands:** php (9), make (2)
 > **Exercise Files:** template (11)
 > **File Paths:** single-business.php (4), single.php (2), content-single-business.php (2), content-single.php (1)
@@ -2013,8 +1977,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the single template header
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980)
+#### [Modifying the single template header](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2028,7 +1991,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980&t=25)** In the template parts directory, we need to create a new directory called header.
 >
-> **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980&t=32)** And, in the header directory, we're going to create a new file called entry-header-business.php
+> **[0:32](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980&t=32)** And, in the header directory, we're going to create a new file called entry-header-business.[[PHP]]
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/modifying-the-single-template-header?u=76281980&t=44)** Then, we'll copy 2019s template parts header entry-header and we'll paste that into our entry header business template.
 >
@@ -2088,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[PHP]] (4)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **Exercise Files:** template (12)
 > **CLI Commands:** php (4), make (3)
 > **File Paths:** header.php (2), entry-header-business.php (1)
@@ -2096,8 +2059,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 
-#### Creating a custom post archive template
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980)
+#### [Creating a custom post archive template](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2105,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=9)** You can see that it's pretty plain-looking, and it turns all of our logos blue, so let's make some changes.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=17)** Let's open up our code editor to the twentynineteen parent theme, and we're going to copy the archive.php file.
+> **[0:17](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=17)** Let's open up our code editor to the twentynineteen parent theme, and we're going to copy the archive.[[PHP]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=25)** Then, in our child theme, we're going to paste it and rename it archive-business.
 >
@@ -2119,9 +2081,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=53)** We'll actually copy that, and then we'll delete this entire php call in between the opening and closing header tags.
 >
-> **[1:01](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=61)** We'll paste the h1 tag, and then we will use the internationalization print function to print out the words All Businesses.
+> **[1:01](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=61)** We'll paste the h1 tag, and then we will use the [[Internationalization]] print function to print out the words All Businesses.
 >
-> **[1:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=74)** And we'll use the twentynineteen text domain, since that's what's used in the rest of the files.
+> **[1:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=74)** And we'll use the twentynineteen text domain, since that's what's used in the [[Representational State Transfer (REST)|rest]] of the files.
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-post-archive-template?u=76281980&t=82)** Then, we'll close our php tag and close the h1 tag.
 >
@@ -2169,7 +2131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[PHP]] (5), next (1), [[Internationalization]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Internationalization]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7), php (5), find (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -2178,14 +2140,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** css (1)
 
-#### Adding a custom taxonomy to a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980)
+#### [Adding a custom taxonomy to a template](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=0)** - [Instructor] One of the nice things that we can add to our new post templates is the custom taxonomy we created.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=8)** Since this taxonomy is not built into Wordpress core, we need to explicitly add the terms to our template.
+> **[0:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=8)** Since this taxonomy is not built into [[WordPress]] core, we need to explicitly add the terms to our template.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=15)** Luckily, Wordpress has a function that can help us out here, and it's called get the terms list.
 >
@@ -2201,7 +2162,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=64)** So I'm going to put this in a paragraph with the class "taxonomy-sizes".
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=75)** And then I'm going to open up the php tag and paste in our function call.
+> **[1:15](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=75)** And then I'm going to open up the [[PHP]] tag and paste in our function call.
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=82)** So the first call needs to be the ID of the post we're on.
 >
@@ -2225,7 +2186,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=140)** And that's because we made a small error.
 >
-> **[2:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=142)** Anytime that we see the word get in front of a Wordpress function, we should assume it's not being printed out.
+> **[2:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=142)** Anytime that we see the [[Microsoft Word|word]] get in front of a Wordpress function, we should assume it's not being printed out.
 >
 > **[2:28](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=148)** So we'll type echo, and then we should see our sizes show up.
 >
@@ -2251,7 +2212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), business (4), [[PHP]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1), click on (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** php (2), make (1)
@@ -2259,8 +2220,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom taxonomy template
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980)
+#### [Creating a custom taxonomy template](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2270,7 +2230,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=12)** This taxonomy template looks exactly like our business archive before we modified it, and that's because it is.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=20)** In fact, it's using the very same archive.php template to drive it.
+> **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=20)** In fact, it's using the very same archive.[[PHP]] template to drive it.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=25)** And that's good news for us.
 >
@@ -2288,7 +2248,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=78)** We know the original page was using the archive title.
 >
-> **[1:21](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=81)** Every Wordpress function like this also has a corresponding getter, so get the archive title is another function that exists.
+> **[1:21](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=81)** Every [[WordPress]] function like this also has a corresponding getter, so get the archive title is another function that exists.
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-taxonomy-template?u=76281980&t=90)** And if we reference the source code, which is here in the code reference for Get the Archive Title, we can scroll to the bottom and find a very helpful function to us.
 >
@@ -2306,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[PHP]] (3), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1)
 > **Exercise Files:** template (10), source code (1)
 > **CLI Commands:** php (3), find (1), make (1)
 > **Cross-References:** go back to (3)
@@ -2319,16 +2279,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom post types on the front page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980)
+#### [Custom post types on the front page](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=0)** - [Instructor] By default, the main query that's powering WordPress's front page will only return posts of the post type.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=0)** - [Instructor] By default, the main query that's powering [[WordPress]]'s front page will only return posts of the post type.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=9)** Here, we're going to add our businesses to the front page as well.
 >
-> **[0:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=14)** So let's go ahead and open up our code editor, and then open up our child themes functions.php file.
+> **[0:14](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=14)** So let's go ahead and open up our code editor, and then open up our child themes functions.[[PHP]] file.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980&t=22)** We'll start by adding an action.
 >
@@ -2380,7 +2339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), business (2), next (1), front-end (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2)
 > **CLI Commands:** make (4), php (2), find (2)
 > **Code Identifiers:** pre_get_posts (1), lil_add_business_to_query (1), add_action (1), is_home (1), is_main_query (1)
 > **File Paths:** functions.php (2)
@@ -2389,8 +2348,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** caveat (1)
 
-#### Organizing your child theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980)
+#### [Organizing your child theme](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2402,7 +2360,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980&t=26)** We've created template parts, specifically for our custom post types, and we've conditionally checked to see if our post type is being used, to change information on what data is shown within templates.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980&t=43)** You may have also noticed, throughout the code base that the authors of 2019 do the same thing within general templates, like content.php.
+> **[0:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980&t=43)** You may have also noticed, throughout the code base that the authors of 2019 do the same thing within general templates, like content.[[PHP]].
 >
 > **[0:54](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/organizing-your-child-theme?u=76281980&t=54)** We could of done the same thing for our business type.
 >
@@ -2436,14 +2394,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), business (3), [[Search]] (3), generic (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **Exercise Files:** template (9)
 > **CLI Commands:** php (3), make (1), find (1)
 > **File Paths:** search.php (2), content.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom loop for post types
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980)
+#### [Creating a custom loop for post types](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2455,7 +2412,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=23)** This requires a custom loop, which we'll create here.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=26)** Let's go to our Code Editor, and open up the functions.php file.
+> **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=26)** Let's go to our Code Editor, and open up the functions.[[PHP]] file.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=31)** At the end of the file, we're going to create a new function called lil_show_events().
 >
@@ -2483,7 +2440,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=112)** We're going to create a variable called $events, and then we'll write new WP_Query, note the capitalization, that's important here, and then we will pass it the $args array.
 >
-> **[2:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=128)** WP_Query is a object within WordPress, so this is going to return a WP_Query object, assign it to events, and the result of the query will be part of that object.
+> **[2:08](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=128)** WP_Query is a object within [[WordPress]], so this is going to return a WP_Query object, assign it to events, and the result of the query will be part of that object.
 >
 > **[2:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-a-custom-loop-for-post-types?u=76281980&t=142)** The object also has a set of functions that we can call.
 >
@@ -2557,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (1), database (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (1)
 > **Code Identifiers:** have_posts (3), the_post (3), apply_filters (2), wp_reset_query (2), lil_show_events (1)
 > **CLI Commands:** make (5), php (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2566,8 +2523,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** similar to (1)
 
-#### Displaying the custom loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980)
+#### [Displaying the custom loop](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2539,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980&t=40)** And then we will add our content.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980&t=42)** So we'll create a heading three tag, and we'll print out a heading using the internationalization function, so we'll open up our php tag, underscore e, upcoming events,
+> **[0:42](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980&t=42)** So we'll create a heading three tag, and we'll print out a heading using the [[Internationalization]] function, so we'll open up our [[PHP]] tag, underscore e, upcoming events,
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/displaying-the-custom-loop?u=76281980&t=59)** and then our text domain will be twentynineteen.
 >
@@ -2613,15 +2569,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[PHP]] (2), [[Internationalization]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Internationalization]] (1)
 > **CLI Commands:** php (2)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling your custom loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/styling-your-custom-loop?u=76281980)
+#### [Styling your custom loop](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/styling-your-custom-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2667,7 +2622,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (1), business (1)
 > **File Paths:** style.css (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
@@ -2680,12 +2634,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Warning: Custom post types in themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980)
+#### [Warning: Custom post types in themes](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980&t=0)** - [Instructor] A common strategy in the Wordpress development world for a long time was to bundle custom post types and other functionality with the themes.
+> **[0:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980&t=0)** - [Instructor] A common strategy in the [[Wordpress Development]] world for a long time was to bundle custom post types and other functionality with the themes.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980&t=10)** The idea was that themes essentially depended on these post types, and the post types depended on the theme for them to be viewed properly.
 >
@@ -2717,8 +2670,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding custom post types to themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980)
+#### [Adding custom post types to themes](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2728,7 +2680,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=20)** So we have a fully working plugin here in its own folder with its structure and organization.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=26)** We could copy all of the code from all of those files directly into our functions.php file and everything will work fine.
+> **[0:26](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=26)** We could copy all of the code from all of those files directly into our functions.[[PHP]] file and everything will work fine.
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=36)** But we like to keep things organized.
 >
@@ -2750,9 +2702,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=124)** That's our driver file.
 >
-> **[2:06](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=126)** So this is going to call in the driver file which is going to call in the rest of the plugin.
+> **[2:06](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=126)** So this is going to call in the driver file which is going to call in the [[Representational State Transfer (REST)|rest]] of the plugin.
 >
-> **[2:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=132)** If we save this and then go back to our WordPress installation and go to the dashboard, you'll see everything is working properly.
+> **[2:12](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=132)** If we save this and then go back to our [[WordPress]] installation and go to the dashboard, you'll see everything is working properly.
 >
 > **[2:22](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-custom-post-types-to-themes?u=76281980&t=142)** That's all we really need to do to include our plugin in our theme directory.
 >
@@ -2793,8 +2745,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Automatically flushing rewrite riles
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980)
+#### [Automatically flushing rewrite riles](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2816,7 +2767,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980&t=39)** We're going to copy this first block of text here, this first block of code, and we're going to paste it into our plugin.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980&t=50)** So, let's go to our plugins to LIL-postypes.php.
+> **[0:50](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980&t=50)** So, let's go to our plugins to LIL-postypes.[[PHP]].
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/automatically-flushing-rewrite-riles?u=76281980&t=55)** And at the bottom, below the other add actions, we'll paste this code.
 >
@@ -2874,7 +2825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Troubleshooting]] (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** make (4), php (3)
 > **Env Vars:** lil (4), url (1), cpt (1)
 > **File Paths:** functions.php (2), lil-postypes.php (1)
@@ -2888,8 +2839,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2897,17 +2847,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=4)** We've covered how to create our own custom post types and taxonomies with and without code.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=9)** We also took a look at the WordPress template hierarchy, how to create custom templates for post types for both single and archive, and even how to move our plugin code into a WordPress theme.
+> **[0:09](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=9)** We also took a look at the [[WordPress]] template hierarchy, how to create custom templates for post types for both single and archive, and even how to move our plugin code into a WordPress theme.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=24)** I would encourage you to dig deeper into the WordPress codex, and play with all of the customizations and types of data you can create.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=33)** You can also experiment in different ways to display that data on the front end.
 >
-> **[0:39](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=39)** LinkedIn Learning has lots of courses to help you even more.
+> **[0:39](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=39)** [[LinkedIn]] Learning has lots of courses to help you even more.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=43)** There's the continuously updated WordPress master class playlist that takes you all the way from novice to seasoned developer.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=51)** There's also a course on advanced custom fields, so you can add that metadata and custom fields to your brand new post types.
+> **[0:51](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=51)** There's also a course on advanced custom fields, so you can add that [[Metadata]] and custom fields to your brand new post types.
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980&t=60)** Finally, I'd love to hear from you about what kind of custom post types and taxonomies you're creating for your own WordPress sites and projects.
 >
@@ -2919,7 +2869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), data (2), [[LinkedIn]] (1), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[LinkedIn]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)

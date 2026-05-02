@@ -19,7 +19,7 @@ tags:
   - topic/software-development
   - topic/data-science
   - topic/security
-course_count: 126
+course_count: 127
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Microsoft Copilot
 
-> **Type:** Concept | **Courses:** 126 | **Topics:** [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Software Development]], [[Data Science]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 127 | **Topics:** [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Software Development]], [[Data Science]], [[Cybersecurity]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Software Testing Assistance with GitHub Copilot AI]] — 101 mentions
 10. [[Copilot in Word- Create and Refine Documents with AI]] — 99 mentions
 
-> [!note]- See all 126 courses
+> [!note]- See all 127 courses
 > 11. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 98 mentions
 > 12. [[Complete Guide to Excel Statistics with Copilot]] — 98 mentions
 > 13. [[AI Pair Programming with GitHub Copilot]] — 88 mentions
@@ -61,9 +61,9 @@ created: 2026-05-02
 > 26. [[UX for AI- Design Practices for AI Developers]] — 40 mentions
 > 27. [[Advanced Analysis Using Python in Excel Copilot]] — 39 mentions
 > 28. [[Outlook Essential Training (Microsoft 365)]] — 37 mentions
-> 29. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 33 mentions
-> 30. [[Building PHP Applications with Generative AI]] — 33 mentions
-> 31. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 33 mentions
+> 29. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 34 mentions
+> 30. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 33 mentions
+> 31. [[Building PHP Applications with Generative AI]] — 33 mentions
 > 32. [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]] — 30 mentions
 > 33. [[PowerPoint Essential Training (Microsoft 365)]] — 28 mentions
 > 34. [[Leveraging AI for Small and Medium Business Growth]] — 27 mentions
@@ -140,25 +140,26 @@ created: 2026-05-02
 > 105. [[Agile Software Development- Creating an Agile Culture]] — 1 mentions
 > 106. [[AI Productivity Hacks to Reimagine Your Workday and Career]] — 1 mentions
 > 107. [[Data Science Foundations- Fundamentals]] — 1 mentions
-> 108. [[Introduction to Agentic AI Governance]] — 1 mentions
-> 109. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
-> 110. [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]] — 1 mentions
-> 111. [[Prompt Engineering- How to Talk to the AIs]] — 1 mentions
-> 112. [[Integrating Generative AI into JavaScript Web Projects]] — 1 mentions
-> 113. [[Administrative Professional Foundations]] — 1 mentions
-> 114. [[Using AI in the Design to Full-Stack Development Life Cycle]] — 1 mentions
-> 115. [[Introduction to Generative AI with GPT]] — 1 mentions
-> 116. [[Cybersecurity for Executives]] — 1 mentions
-> 117. [[Executive Leadership]] — 1 mentions
-> 118. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
-> 119. [[Digital Transformation in Supply Chains]] — 1 mentions
-> 120. [[AI Cheat Sheet for Business Leaders]] — 1 mentions
-> 121. [[Test Automation Foundations]] — 1 mentions
-> 122. [[Threat Modeling for AI-ML Systems]] — 1 mentions
-> 123. [[Business Acumen for Project Managers]] — 1 mentions
-> 124. [[LLM Foundations- Building Effective Applications for Enterprises]] — 1 mentions
-> 125. [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 1 mentions
-> 126. [[Resume]] — 1 mentions
+> 108. [[Devops Foundations]] — 1 mentions
+> 109. [[Introduction to Agentic AI Governance]] — 1 mentions
+> 110. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
+> 111. [[The Future of Workforce Learning- AI-Powered Personalization for Skill Development]] — 1 mentions
+> 112. [[Prompt Engineering- How to Talk to the AIs]] — 1 mentions
+> 113. [[Integrating Generative AI into JavaScript Web Projects]] — 1 mentions
+> 114. [[Administrative Professional Foundations]] — 1 mentions
+> 115. [[Using AI in the Design to Full-Stack Development Life Cycle]] — 1 mentions
+> 116. [[Introduction to Generative AI with GPT]] — 1 mentions
+> 117. [[Cybersecurity for Executives]] — 1 mentions
+> 118. [[Executive Leadership]] — 1 mentions
+> 119. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
+> 120. [[Digital Transformation in Supply Chains]] — 1 mentions
+> 121. [[AI Cheat Sheet for Business Leaders]] — 1 mentions
+> 122. [[Test Automation Foundations]] — 1 mentions
+> 123. [[Threat Modeling for AI-ML Systems]] — 1 mentions
+> 124. [[Business Acumen for Project Managers]] — 1 mentions
+> 125. [[LLM Foundations- Building Effective Applications for Enterprises]] — 1 mentions
+> 126. [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 1 mentions
+> 127. [[Resume]] — 1 mentions
 
 ## Learning Paths
 

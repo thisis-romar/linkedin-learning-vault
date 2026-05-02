@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design reports that deliver insights with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980)
+#### [Design reports that deliver insights with Power BI](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=0)** - [Emma] Have you ever opened Power BI and felt overwhelmed?
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=0)** - [Emma] Have you ever opened [[Microsoft Power BI|Power BI]] and felt overwhelmed?
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=3)** So many buttons, so many features, but where do you start if your goal is clear, impactful reports?
 >
@@ -107,26 +106,25 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=21)** You'll learn which visuals to use and why, how to structure your report for clarity, and how to keep your audience in mind so your reports don't just look good, they actually communicate insights.
 >
-> **[0:34](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=34)** No complex data modeling, no complex formulas, just practical, beginner-friendly lessons to make your Power BI reports stand out.
+> **[0:34](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=34)** No complex [[Data Modeling]], no complex formulas, just practical, beginner-friendly lessons to make your Power BI reports stand out.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=42)** My name is Emma Saunders, and I've been designing and creating reports in Power BI for more than seven years.
 >
-> **[0:47](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=47)** If you're ready to go beyond the basics and design reports that people love to use, join me in my LinkedIn Learning course on Power BI Data Visualization.
+> **[0:47](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=47)** If you're ready to go beyond the basics and design reports that people love to use, join me in my [[LinkedIn]] Learning course on Power BI Data Visualization.
 >
 > **[0:56](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980&t=56)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (2), feature (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Data Modeling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [emma] (1)
 
-#### How to use the exercise files and course assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-use-the-exercise-files-and-course-assets?u=76281980)
+#### [How to use the exercise files and course assets](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-use-the-exercise-files-and-course-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-use-the-exercise-files-and-course-assets?u=76281980&t=0)** - [Narrator] To help you get hands on with Power BI, this course includes exercise files so you can follow along, practice and build confidence as you go.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-use-the-exercise-files-and-course-assets?u=76281980&t=0)** - [Narrator] To help you get hands on with [[Microsoft Power BI|Power BI]], this course includes exercise files so you can follow along, practice and build confidence as you go.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-use-the-exercise-files-and-course-assets?u=76281980&t=9)** If you're using a desktop, these exercise files can be found on the course page on a tab called Exercise Files under the video.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **Exercise Files:** exercise files (7), exercise file (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** pbix (1)
@@ -173,12 +171,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Differentiate Power BI Desktop and Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980)
+#### [Differentiate Power BI Desktop and Service](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=0)** - [Instructor] Did you know there are two versions of Power BI and you need both to unlock its full potential?
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=0)** - [Instructor] Did you know there are two versions of [[Microsoft Power BI|Power BI]] and you need both to unlock its full potential?
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=6)** These two tools are called Desktop and Service, and they're complimentary offerings.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=81)** It offers you model view where you can visualize relationships between fields and tables of data and change them.
 >
-> **[1:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=88)** You can create complex formula using something called DAX and Desktop also supports a wider variety of data sources and allows you to create advanced calculations.
+> **[1:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=88)** You can create complex formula using something called [[DAX]] and Desktop also supports a wider variety of data sources and allows you to create advanced calculations.
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=100)** You can define something called measures which aggregate your data into a single value, and you can insert calculated columns, which apply formally to create completely new fields, such as adding two columns together.
 >
@@ -226,13 +223,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=144)** If you want to share a desktop report, you have to attach it as a file and send it in an email.
 >
-> **[2:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=150)** With Service, you can publish to the web, you can embed it within a SharePoint or a different website, you can share via a Teams tab, You can export to PowerPoint.
+> **[2:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=150)** With Service, you can publish to the web, you can embed it within a [[SharePoint]] or a different website, you can share via a Teams tab, You can export to [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:40](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=160)** There are lots and lots of options.
 >
 > **[2:42](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=162)** You can also set permissions and governance in the Service.
 >
-> **[2:47](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=167)** Service also lets you build dashboards which can show real time data and trigger alerts and emails.
+> **[2:47](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=167)** Service also lets you build [[Dashboards]] which can show real time data and trigger alerts and emails.
 >
 > **[2:54](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980&t=174)** It lets you organize your reports into project areas called workspaces and bundle your dashboards and reports into applications.
 >
@@ -246,18 +243,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (6), bi (6), web (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Dashboards]] (2), [[DAX]] (1), [[SharePoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** imagine (2), such as (1)
 > **Env Vars:** dax (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Power BI licensing and using trial accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980)
+#### [Understanding Power BI licensing and using trial accounts](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=0)** - [Instructor] [[Getting Started With Power Bi]] can feel a bit overwhelming, especially when it comes to licensing.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=0)** - [Instructor] [[Getting Started With [[Microsoft Power BI|Power Bi]]]] can feel a bit overwhelming, especially when it comes to licensing.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=6)** Many of you may already have access through your organization.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=26)** For those of you who can't log in or don't have a corporate setup, you're going to need a license to access Power BI service.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=33)** Fortunately, Microsoft offers a free trial, which is the fastest way to get started.
+> **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=33)** Fortunately, [[Microsoft]] offers a free trial, which is the fastest way to get started.
 >
 > **[0:40](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=40)** To set up a trial account, log out of any existing accounts on Power BI Service, go to the Power BI website and click start free or try free if you're on a different pathway.
 >
@@ -289,17 +285,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), [[Microsoft]] (2), hit (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft]] (2)
 > **Prerequisites:** setup (2), getting started (1), set up (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discover Power BI Service within Microsoft Fabric
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980)
+#### [Discover Power BI Service within Microsoft Fabric](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=0)** - [Narrator] Now I've logged in to Power BI service and I want to talk to you about Microsoft Fabric.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=0)** - [Narrator] Now I've logged in to [[Microsoft Power BI|Power BI]] service and I want to talk to you about [[Microsoft]] Fabric.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=7)** Microsoft Fabric is an end-to-end data analytics platform.
 >
@@ -307,13 +302,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=13)** It has a lot of buzzwords in it, but what does it do?
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=16)** I think of Fabric as all the data processing that happens before we get to use Power BI.
+> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=16)** I think of Fabric as all the [[Data Processing]] that happens before we get to use Power BI.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=22)** It's the data ingestion, the engineering, the data science, and all the other clever stuff that creates the data you will use in your reports.
+> **[0:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=22)** It's the [[Data Ingestion]], the engineering, the [[Data Science]], and all the other clever stuff that creates the data you will use in your reports.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=30)** That's not the official Microsoft description.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=33)** Like a piece of cloth, Fabric ties together the threads of your data preparation all in one place.
+> **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=33)** Like a piece of cloth, Fabric ties together the threads of your [[Data Preparation]] all in one place.
 >
 > **[0:40](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=40)** If you use the Power BI service, that's this website we're looking at now, you cannot help but notice it's part of Fabric.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=76)** These two stand out as non Power BI for me.
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=79)** OneLake is a centralized data store and Monitor lets you keep an eye on data pipelines and other forms of data processing.
+> **[1:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=79)** OneLake is a centralized data store and Monitor lets you keep an eye on [[Data Pipelines]] and other [[Forms]] of data processing.
 >
 > **[1:27](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=87)** These are fabric territory.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=100)** Create, Browse, Apps, Metric, Learn, and Workspaces are in our remit for this course.
 >
-> **[1:49](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=109)** So, Home shows you recent reports, Dashboards and other resources.
+> **[1:49](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=109)** So, Home shows you recent reports, [[Dashboards]] and other resources.
 >
 > **[1:54](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=114)** Really, it just pulls together content from the next two tabs.
 >
@@ -371,22 +366,21 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=195)** It lets you organize your reports and data into projects.
 >
-> **[3:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=199)** So, we are now in the LinkedIn Learning project, so I shall click that there.
+> **[3:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=199)** So, we are now in the [[LinkedIn]] Learning project, so I shall click that there.
 >
 > **[3:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=204)** Hidden away down here, we have realtime and workloads.
 >
-> **[3:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=208)** These are Fabric buttons for realtime data tracking and resource organization respectively and they're outside the remit for the course.
+> **[3:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=208)** These are Fabric buttons for realtime [[Data Tracking]] and resource organization respectively and they're outside the remit for the course.
 >
 > **[3:36](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/discover-power-bi-service-within-microsoft-fabric?u=76281980&t=216)** So, hopefully now, we can navigate a bit better this left-hand panel within Power BI service because it looks a bit complicated but several of the buttons aren't for us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), power (9), bi (9), [[Microsoft]] (5), [[Dashboards]] (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft]] (5), [[Dashboards]] (5), [[Data Processing]] (2), [[Data Ingestion]] (1)
 > **Definitions:** is a  (2), is an  (1), defined as (1), known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Navigate a Power BI report in Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980)
+#### [Navigate a Power BI report in Desktop](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=81)** These symbols tell us the data type.
 >
-> **[1:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=84)** Date has a calendar symbol so Power BI recognizes this as a date type of data.
+> **[1:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=84)** Date has a calendar symbol so [[Microsoft Power BI|Power BI]] recognizes this as a date type of data.
 >
 > **[1:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=90)** And the one for Sales, for example, is a Greek sigma symbol, which is often used to mean sum.
 >
@@ -446,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=136)** Now in the same space, in the visualization panel, it just says Values.
 >
-> **[2:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=142)** The gap underneath the word Values are called data wells, and they are specific to each kind of visual.
+> **[2:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=142)** The gap underneath the [[Microsoft Word|word]] Values are called data wells, and they are specific to each kind of visual.
 >
 > **[2:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-a-power-bi-report-in-desktop?u=76281980&t=150)** See, this is context-dependent.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (3), bi (3), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), scroll down (1), drag and drop (1), checkbox (1)
 > **Definitions:** is a  (2), in other words (1), is called (1)
 > **Env Vars:** pbix (1)
@@ -523,12 +517,11 @@ created: 2026-05-02
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate the four views in Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980)
+#### [Navigate the four views in Desktop](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=0)** - [Instructor] A Power BI report is built across different views, report, data, model, and DAX query, which all contribute in different ways to creating a beautiful and functional report.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=0)** - [Instructor] A [[Microsoft Power BI|Power BI]] report is built across different views, report, data, model, and [[DAX]] query, which all contribute in different ways to creating a beautiful and functional report.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=13)** So far, we have only looked at the report view.
 >
@@ -542,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=45)** Up here it says new measure, new column.
 >
-> **[0:48](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=48)** A measure is a bit like a function in Visual Basic in the old days in Excel.
+> **[0:48](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=48)** A measure is a bit like a function in Visual Basic in the old days in [[Microsoft Excel|Excel]].
 >
 > **[0:53](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=53)** So a measure will output a single number, whereas a column gives you a whole new column with one value for each row.
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=162)** But in our case, we have static data, so refresh doesn't really do anything.
 >
-> **[2:46](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=166)** The other one is Power Query.
+> **[2:46](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=166)** The other one is [[Microsoft Power Query|Power Query]].
 >
 > **[2:49](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-four-views-in-desktop?u=76281980&t=169)** It looks like an ordinary button, but it takes you to a whole new world.
 >
@@ -628,15 +621,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[DAX]] (3), next (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[DAX]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (2), drag and drop (2), select the (1)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Env Vars:** dax (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate the format and analysis panes
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980)
+#### [Navigate the format and analysis panes](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980&t=20)** Now, by the way, dragging and dropping some data into this Values data well down here will create a visual.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980&t=28)** Power BI does its best to interpret the data, so you don't always have to begin by picking the visual first.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980&t=28)** [[Microsoft Power BI|Power BI]] does its best to interpret the data, so you don't always have to begin by picking the visual first.
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/navigate-the-format-and-analysis-panes?u=76281980&t=35)** Now, we've got no visual selected.
 >
@@ -772,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (2), bi (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (7)
 > **Env Vars:** cogs (3)
 > **UI Navigation:** go to (2), toggle (1)
@@ -781,8 +773,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create your own report using sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980)
+#### [Challenge: Create your own report using sample data](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,9 +781,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=5)** - [Instructor] It is time for our first challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=7)** Your challenge is to create your own report in Power BI Desktop.
+> **[0:07](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=7)** Your challenge is to create your own report in [[Microsoft Power BI|Power BI]] Desktop.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=13)** You should use the same financials data from Microsoft that I used in this chapter, so that's the sample data set.
+> **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=13)** You should use the same financials data from [[Microsoft]] that I used in this chapter, so that's the sample data set.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-your-own-report-using-sample-data?u=76281980&t=21)** Then when you've loaded that in, I want you to create one visual, any visual you like to go inside the report, and place a filter on the visual for country.
 >
@@ -808,14 +799,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft]] (2), power (1), bi (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create your own report using sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980)
+#### [Solution: Create your own report using sample data](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=8)** As a reminder, the challenge was to make your own report in Desktop.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=14)** You should have made the report with sample data from Microsoft, added one visual to your report, and filter that visual by country.
+> **[0:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=14)** You should have made the report with sample data from [[Microsoft]], added one visual to your report, and filter that visual by country.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=23)** So here's how I would approach the challenge.
 >
@@ -837,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=46)** If you open up Desktop and then you try and go back and press, Get data and try to navigate to the sample data that way, it's impossible or at least I've not found out how to do it.
 >
-> **[0:57](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=57)** So we've loaded the financial data, but it's fine if you loaded sheet one, not a problem.
+> **[0:57](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=57)** So we've loaded the [[Financial Data]], but it's fine if you loaded sheet one, not a problem.
 >
 > **[1:02](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-your-own-report-using-sample-data?u=76281980&t=62)** And then any kind of chart is fine to meet the brief.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -864,12 +854,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the publishing workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980)
+#### [Understanding the publishing workflow](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=0)** - [Instructor] When you use Power BI Desktop, you are always in Edit mode, but many viewers of your reports will only ever see reports in View mode via Power BI Service.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=0)** - [Instructor] When you use [[Microsoft Power BI|Power BI]] Desktop, you are always in Edit mode, but many viewers of your reports will only ever see reports in View mode via Power BI Service.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=10)** So, it's important to understand the distinction early.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=18)** We've created our basic reports and now we're going to publish it.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=22)** I press Publish and I select LinkedIn Learning, but you would either click My Workspace or this dialogue might not show for you at all actually if you've only got one workspace.
+> **[0:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=22)** I press Publish and I select [[LinkedIn]] Learning, but you would either click My Workspace or this dialogue might not show for you at all actually if you've only got one workspace.
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=35)** And it tells me it's publishing.
 >
@@ -903,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=95)** If we were to click on Workspaces, it gives us the option to toggle to any other workspaces to which we might have access.
 >
-> **[1:43](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=103)** Now, just to complete the workflow, if you wanted to publish this report to its end destination, you could go File, Embed Report, and you'd be given a series of options such as Publish to Web or to SharePoint or to website.
+> **[1:43](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=103)** Now, just to complete the workflow, if you wanted to publish this report to its end destination, you could go File, Embed Report, and you'd be given a series of options such as Publish to Web or to [[SharePoint]] or to website.
 >
 > **[2:02](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=122)** Be careful using Publish to Web if you are using sensitive data at all, because it really does get published globally instantly.
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=133)** You can share your report from Service in lots of other ways as well.
 >
-> **[2:18](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=138)** So, you can send somebody just the URL or we could export to PowerPoint or PDF or Excel.
+> **[2:18](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=138)** So, you can send somebody just the URL or we could export to [[Microsoft PowerPoint|PowerPoint]] or PDF or [[Microsoft Excel|Excel]].
 >
 > **[2:26](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980&t=146)** And now, of course, that we're on the web, we can share the URL easily using Teams or email.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (4), [[LinkedIn]] (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[LinkedIn]] (3), [[SharePoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** url (3), pdf (1), pbix (1)
 > **UI Navigation:** select the (2), click on (1), toggle (1)
 > **CLI Commands:** make (2)
@@ -958,14 +947,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Mastering bar charts in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980)
+#### [Mastering bar charts in Power BI](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=0)** - [Instructor] Did you know that you can compare multiple bar charts in one visual, or that you can sort your bars in descending alphabetical order?
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=9)** Bar charts in Power BI pack more functionality than you might expect.
+> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=9)** Bar charts in [[Microsoft Power BI|Power BI]] pack more functionality than you might expect.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=13)** Let's take a look.
 >
@@ -973,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=22)** Now our Sales by Discount Band chart, which is what we have here, shows the highest sales where we have highest discounts.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=31)** To check this across all products, we can use small multiples.
+> **[0:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=31)** To check this across all [[Microsoft Products|products]], we can use small multiples.
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-bar-charts-in-power-bi?u=76281980&t=37)** In the Visualizations pane, under where it says Y-axis, X-axis, Legend, we have Small multiples, and I'm going to drag and drop Product there.
 >
@@ -1087,19 +1075,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** drag and drop (1), go to (1), click on (1), switch to (1)
 > **Env Vars:** cogs (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drilling down line charts with date hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/drilling-down-line-charts-with-date-hierarchies?u=76281980)
+#### [Drilling down line charts with date hierarchies](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/drilling-down-line-charts-with-date-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/drilling-down-line-charts-with-date-hierarchies?u=76281980&t=0)** - [Emma] Power BI is a little bit too flexible.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/drilling-down-line-charts-with-date-hierarchies?u=76281980&t=0)** - [Emma] [[Microsoft Power BI|Power BI]] is a little bit too flexible.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/drilling-down-line-charts-with-date-hierarchies?u=76281980&t=3)** If we select our stacked chart and click line chart over here, we get a line chart even though we shouldn't.
 >
@@ -1227,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), power (4), bi (4), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Analogies:** such as (2)
@@ -1235,8 +1222,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [emma] (1)
 
-#### Display single numbers with KPIs, new card visuals, and gauges
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980)
+#### [Display single numbers with KPIs, new card visuals, and gauges](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1230,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980&t=7)** Let's see how to create some now.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980&t=9)** Power BI offers four KPI-related visuals.
+> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980&t=9)** [[Microsoft Power BI|Power BI]] offers four KPI-related visuals.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/display-single-numbers-with-kpis-new-card-visual-and-guages?u=76281980&t=13)** Let's make a bit of space for them.
 >
@@ -1388,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (4), bi (4), next (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **Env Vars:** kpi (10)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 11.99 (2), 118.73 (1)
@@ -1397,8 +1383,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Showcase proportion data with pies and treemaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980)
+#### [Showcase proportion data with pies and treemaps](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,7 +1485,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980&t=308)** And once again, we see Governments at the top.
 >
-> **[5:11](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980&t=311)** It looks like perhaps the Government are paying higher prices, but don't forget that Power BI sums by default.
+> **[5:11](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980&t=311)** It looks like perhaps the Government are paying higher prices, but don't forget that [[Microsoft Power BI|Power BI]] sums by default.
 >
 > **[5:17](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/showcase-proportion-data-with-pies-and-treemaps?u=76281980&t=317)** So it's summing a sale price, which isn't meaningful.
 >
@@ -1538,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cogs (2)
@@ -1547,14 +1532,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize distribution data with histograms and scatterplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980)
+#### [Visualize distribution data with histograms and scatterplots](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980&t=0)** - [Instructor] A distribution shows how your data is spread or grouped in a meaningful way.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980&t=5)** Power BI offers some well-hidden solutions to visualize this.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980&t=5)** [[Microsoft Power BI|Power BI]] offers some well-hidden solutions to visualize this.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/visualise-distribution-data-with-histograms-and-scatterplots?u=76281980&t=9)** There's a scatterplot that doubles as a bubble chart and a bar chart that doubles up as a histogram.
 >
@@ -1700,14 +1684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), power (2), bi (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (10)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use maps and choropleths with confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-maps-and-choropleths-with-confidence?u=76281980)
+#### [Use maps and choropleths with confidence](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-maps-and-choropleths-with-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1861,7 +1844,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (1), feature (1), rag (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (1), select the (1), go to (1)
 > **Analogies:** for example (3)
@@ -1870,12 +1852,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare table and matrix visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980)
+#### [Compare table and matrix visuals](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=0)** - [Instructor] Did you know that you can use Power BI to create a colored grid similar to this co-occurrence matrix?
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=0)** - [Instructor] Did you know that you can use [[Microsoft Power BI|Power BI]] to create a colored grid similar to this co-occurrence matrix?
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=6)** Matrices in Power BI let you drill down conditionally color and show cross-tabular data.
 >
@@ -1955,7 +1936,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=210)** Now, it's not obvious, I don't think, but you can actually just delete the 0, and that effectively gets rid of the first half of that and formula.
 >
-> **[3:39](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=219)** I know it's not obvious at all, I had to Google it to work it out myself.
+> **[3:39](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=219)** I know it's not obvious at all, I had to [[Google]] it to work it out myself.
 >
 > **[3:43](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/compare-table-and-matrix-visuals?u=76281980&t=223)** But now we're saying if the value is anything and it's less than 0, as a number, then please make it red.
 >
@@ -2023,25 +2004,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (5), bi (5), next (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Google]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (1), go to (1), drag and drop (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use custom visuals to solve unmet requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980)
+#### [Use custom visuals to solve unmet requirements](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=0)** - [Instructor] Sometimes the standard set of visuals just doesn't give you what you need in Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=0)** - [Instructor] Sometimes the standard set of visuals just doesn't give you what you need in [[Microsoft Power BI|Power BI]].
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=5)** What if you want a schematic diagram or a bar of arrows or tabs that filter with heat map coloring?
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=13)** For this, there is marketplace.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=16)** Appsource.[microsoft.com](https://microsoft.com).
+> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=16)** Appsource.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=19)** Once you have filtered for Power BI Visuals under Power Platform, you'll see that there are 700 custom visuals available to you.
 >
@@ -2103,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), bi (6), [[Microsoft]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft]] (4)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** truviz (2)
 > **Analogies:** for example (2)
@@ -2112,8 +2092,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a report showing trends in profitability
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980)
+#### [Challenge: Create a report showing trends in profitability](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2146,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980&t=109)** Your challenge is to determine, and visualize what is contributing to Amarillo's profitability.
 >
-> **[1:56](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980&t=116)** So you need to create one visual that shows that Amarillo's average profitability is highest among all the products.
+> **[1:56](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980&t=116)** So you need to create one visual that shows that Amarillo's average profitability is highest among all the [[Microsoft Products|products]].
 >
 > **[2:04](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-create-a-report-showing-trends-in-profitability?u=76281980&t=124)** And that should be obvious at a glance from looking at this visual.
 >
@@ -2195,7 +2174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** vtt (1)
@@ -2204,8 +2183,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Create a report showing trends in profitability
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980)
+#### [Solution: Create a report showing trends in profitability](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,7 +2191,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=6)** It was a tricky one.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=8)** As a reminder, the task here was to understand the data and then create a single visual to compare products on average profit and the drivers of average profit.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=8)** As a reminder, the task here was to understand the data and then create a single visual to compare [[Microsoft Products|products]] on average profit and the drivers of average profit.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=19)** Now, let's bear in mind some key rules.
 >
@@ -2229,7 +2207,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=75)** So let's show you how I dealt with this.
 >
-> **[1:18](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=78)** The first thing I did was to export the data into Excel.
+> **[1:18](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=78)** The first thing I did was to export the data into [[Microsoft Excel|Excel]].
 >
 > **[1:23](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=83)** Export data here, which you can do on any visual.
 >
@@ -2253,7 +2231,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=141)** Oh, I get a nice round number.
 >
-> **[2:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=144)** And actually that round number corresponds to this Count column, which was the count of rows in Power BI, the count number of transactions, in other words.
+> **[2:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=144)** And actually that round number corresponds to this Count column, which was the count of rows in [[Microsoft Power BI|Power BI]], the count number of transactions, in other words.
 >
 > **[2:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-create-a-report-showing-trends-in-profitability?u=76281980&t=155)** So this is the average profit per transaction.
 >
@@ -2337,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (2), next (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** cogs (3)
 > **Definitions:** in other words (1), is a  (1)
@@ -2351,12 +2329,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manipulating visuals within a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980)
+#### [Manipulating visuals within a report](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980&t=0)** - [Instructor] Did you know that resizing a visual in Power BI can cause axis labels to disappear or even hide parts of your data?
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980&t=0)** - [Instructor] Did you know that resizing a visual in [[Microsoft Power BI|Power BI]] can cause axis labels to disappear or even hide parts of your data?
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980&t=7)** Or that copying a visual between pages might not carry over custom settings, leaving your reporting complete?
 >
@@ -2496,19 +2473,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** scroll down (1), drag and drop (1), go to (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using new and old slicers to filter your visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/using-new-and-old-slicers-to-filter-your-visuals?u=76281980)
+#### [Using new and old slicers to filter your visuals](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/using-new-and-old-slicers-to-filter-your-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/using-new-and-old-slicers-to-filter-your-visuals?u=76281980&t=0)** - [Instructor] Filtering is Power BI's superpower.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/using-new-and-old-slicers-to-filter-your-visuals?u=76281980&t=0)** - [Instructor] Filtering is [[Microsoft Power BI|Power BI]]'s superpower.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/using-new-and-old-slicers-to-filter-your-visuals?u=76281980&t=3)** As you've seen, visuals filter each other by default.
 >
@@ -2608,14 +2584,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** dropdown (3), click on (2), go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevent frustration with layer order using Selection pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/prevent-frustration-with-layer-order-using-selection-pane?u=76281980)
+#### [Prevent frustration with layer order using Selection pane](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/prevent-frustration-with-layer-order-using-selection-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2666,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), next (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2700,12 +2674,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn how visuals filter each other by default and by design
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/learn-how-visuals-filter-each-other-by-default-and-by-design?u=76281980)
+#### [Learn how visuals filter each other by default and by design](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/learn-how-visuals-filter-each-other-by-default-and-by-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/learn-how-visuals-filter-each-other-by-default-and-by-design?u=76281980&t=0)** - [Instructor] By default, Power BI visuals highlight each other rather than filtering.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/learn-how-visuals-filter-each-other-by-default-and-by-design?u=76281980&t=0)** - [Instructor] By default, [[Microsoft Power BI|Power BI]] visuals highlight each other rather than filtering.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/learn-how-visuals-filter-each-other-by-default-and-by-design?u=76281980&t=5)** And we're going to look at the difference between these two things now and how to change it at a visual level and across the whole report, which can save you hours.
 >
@@ -2827,25 +2800,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), power (1), bi (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (11), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand dashboard design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980)
+#### [Understand dashboard design principles](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=0)** - [Instructor] Did you know that with Power BI you can set alerts.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=0)** - [Instructor] Did you know that with [[Microsoft Power BI|Power BI]] you can set alerts.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=3)** So if a number series exceeds a set threshold, you can receive an email or a Teams message.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=9)** You can use dashboards or reports to do this.
+> **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=9)** You can use [[Dashboards]] or reports to do this.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=11)** And dashboards also support real-time data.
+> **[0:11](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=11)** And dashboards also support [[Real-Time]] data.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=14)** This is partly because they work in power BI service and not desktop.
 >
@@ -3003,7 +2975,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=420)** And if we were now to go to the mobile view, by the way, by default the report page is not pinned, and generally speaking would not be a good idea to add this sort of layout to a mobile.
 >
-> **[7:12](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=432)** Would not be a good user experience to do that.
+> **[7:12](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=432)** Would not be a good [[User Experience (UX)|user experience]] to do that.
 >
 > **[7:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-dashboard-design-principles?u=76281980&t=436)** You can also add content directly from the dashboard using edit.
 >
@@ -3031,7 +3003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (6), power (5), bi (5), web (4), teams (3)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Microsoft Power BI|Power bi]] (5), [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** go to (4), click on (2), drag and drop (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** find (2)
@@ -3040,20 +3012,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
 
-#### Organizing your visuals with bookmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980)
+#### [Organizing your visuals with bookmarks](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=0)** - [Instructor] Bookmarks on a webpage let you navigate down to the right section.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=5)** Bookmarks in Power BI do a lot more.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=5)** Bookmarks in [[Microsoft Power BI|Power BI]] do a lot more.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=9)** Certainly they take you to the right place, but they can also remember the page settings and the filters that were in place when you created the bookmark.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=17)** As a result, they can be used to create dynamic navigation and interactivity.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=23)** Imagine you're planning a presentation and you want to show key insights you've found throughout your Power BI reports and dashboards.
+> **[0:23](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=23)** Imagine you're planning a presentation and you want to show key insights you've found throughout your Power BI reports and [[Dashboards]].
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=31)** Rather than risk forgetting which filters and which clicks to apply as you're working through with all these people looking at you, you can just create bookmarks and step through them one at a time.
 >
@@ -3113,7 +3084,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=209)** In this way, different use cases can trigger different reports using bookmarks.
 >
-> **[3:37](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=217)** Bookmarks can help with storytelling in Power BI in a number of advanced ways.
+> **[3:37](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=217)** Bookmarks can help with [[Storytelling]] in Power BI in a number of advanced ways.
 >
 > **[3:42](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/organising-your-visuals-with-bookmarks?u=76281980&t=222)** Do you remember that earlier we used drill throughs in the course with an area chart and we said it could actually be quite misleading?
 >
@@ -3135,13 +3106,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (4), bi (4), [[Dashboards]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Dashboards]] (1), [[Storytelling]] (1)
 > **UI Navigation:** click on (4), go to (4)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Improve your report using three new tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-improve-your-report-using-three-new-tools?u=76281980)
+#### [Challenge: Improve your report using three new tools](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-improve-your-report-using-three-new-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3171,8 +3141,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Improve your report using three new tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-improve-your-report-using-three-new-tools?u=76281980)
+#### [Solution: Improve your report using three new tools](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-improve-your-report-using-three-new-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3247,12 +3216,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand when to make a new tab
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980)
+#### [Understand when to make a new tab](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=0)** - [Instructor] Now that we've explored Power BI's features, the focus shifts to design, how to create reports that are both beautiful and functional.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=0)** - [Instructor] Now that we've explored [[Microsoft Power BI|Power BI]]'s features, the focus shifts to design, how to create reports that are both beautiful and functional.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=9)** Here we're going to look at report structure in terms of the number and definition of tabs.
 >
@@ -3272,7 +3240,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=57)** Users actually often miss them altogether.
 >
-> **[1:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=60)** If you look at statistics on page visits, the first tab to load gets the vast majority.
+> **[1:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=60)** If you look at [[Statistics]] on page visits, the first tab to load gets the vast majority.
 >
 > **[1:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=66)** So if you can fit your content onto one page without overloading it, this can be a good option.
 >
@@ -3312,7 +3280,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=161)** If the report is guiding users through a process or towards an action, perhaps it makes sense to create one tab per step.
 >
-> **[2:50](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=170)** If the report is simply to let users explore the data, you might create one tab per data object, for example, one tab on customers, one on stores, one on products.
+> **[2:50](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=170)** If the report is simply to let users explore the data, you might create one tab per data object, for example, one tab on customers, one on stores, one on [[Microsoft Products|products]].
 >
 > **[3:02](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=182)** But this isn't a good default.
 >
@@ -3342,7 +3310,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=264)** You can combine bookmarks, visibility and tabs to achieve a highly customized experience.
 >
-> **[4:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=271)** And you also have dashboards.
+> **[4:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=271)** And you also have [[Dashboards]].
 >
 > **[4:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980&t=273)** You can relegate your reports to being the detailed appendix, and use dashboards to tell your story.
 >
@@ -3350,15 +3318,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), power (1), bi (1), functional (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Power BI|Power bi]] (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to lay out your report page for maximum effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-lay-out-your-report-page-for-maximum-effect?u=76281980)
+#### [How to lay out your report page for maximum effect](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/how-to-lay-out-your-report-page-for-maximum-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3430,15 +3397,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), web (1), data (1), feature (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use color well for your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980)
+#### [Use color well for your audience](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3448,7 +3413,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=8)** Color is crucial in report design, from communicating the story in the data to harmonizing the experience.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=15)** Luckily, Power BI offers us some tools to help out, so we don't have to go into the Formatting pane for each and every visual.
+> **[0:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=15)** Luckily, [[Microsoft Power BI|Power BI]] offers us some tools to help out, so we don't have to go into the Formatting pane for each and every visual.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=24)** The first of these can be found under the View menu.
 >
@@ -3462,7 +3427,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=50)** But actually, there's a whole set of accessible themes here, and these are designed with colorblindness in mind.
 >
-> **[0:58](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=58)** The most common forms of colorblindness make it hard to distinguish red from green.
+> **[0:58](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=58)** The most common [[Forms]] of colorblindness make it hard to distinguish red from green.
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=63)** So notice here, for example, that two of the standout colors are blue and orange instead.
 >
@@ -3472,7 +3437,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=81)** So you can simply pick all the different colors that you like.
 >
-> **[1:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=84)** You can still upload a JSON file incidentally, where you can specify the font as well, which can be extremely useful.
+> **[1:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=84)** You can still upload a [[JSON]] file incidentally, where you can specify the font as well, which can be extremely useful.
 >
 > **[1:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-colour-well-for-your-audience?u=76281980&t=91)** So not just the font color.
 >
@@ -3594,7 +3559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[JSON]] (2), power (1), bi (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Microsoft Power BI|Power bi]] (1), [[Forms]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** json (2)
@@ -3603,8 +3568,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Warnings:** gotcha (1)
 
-#### Mastering responsive design for mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980)
+#### [Mastering responsive design for mobile](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3644,7 +3608,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=117)** So you're using the little space that they have more effectively.
 >
-> **[2:02](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=122)** Now, just a word here, you might need to enable field parameters, because it is still a preview feature.
+> **[2:02](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=122)** Now, just a [[Microsoft Word|word]] here, you might need to enable field parameters, because it is still a preview feature.
 >
 > **[2:12](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=132)** Under preview features, there we go, field parameters.
 >
@@ -3686,7 +3650,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=264)** Now something else to show you about the treemap field parameter.
 >
-> **[4:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=268)** Power BI has done some pretty clever stuff for us, actually.
+> **[4:28](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=268)** [[Microsoft Power BI|Power BI]] has done some pretty clever stuff for us, actually.
 >
 > **[4:31](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=271)** It's effectively created us a whole new table.
 >
@@ -3730,7 +3694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), power (2), bi (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (2)
 > **Cross-References:** go back to (1)
@@ -3738,8 +3702,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design a two tab report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980)
+#### [Challenge: Design a two tab report](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3757,7 +3720,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=33)** Your audience are regional sales managers, and they've got a meeting face-to-face next month.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=39)** I want you to create a two-tab report that identifies high-performing regions and products to help the sales managers guide future strategies.
+> **[0:39](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=39)** I want you to create a two-tab report that identifies high-performing regions and [[Microsoft Products|products]] to help the sales managers guide future strategies.
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=49)** Okay, so in this face-to-face meeting, they're going to use this tool live.
 >
@@ -3771,7 +3734,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=74)** You should apply consistent coloring and design across the two tabs.
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=79)** Now, you're not storytelling, okay?
+> **[1:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=79)** Now, you're not [[Storytelling]], okay?
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/challenge-design-a-two-tab-report?u=76281980&t=81)** So this is not a challenge that involves you finding all the exciting insights and laying them bare.
 >
@@ -3793,28 +3756,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Microsoft Products|Products]] (1), management (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Design a two tab report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-design-a-two-tab-report?u=76281980)
+#### [Solution: Design a two tab report](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/solution-design-a-two-tab-report?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next for Power BI success
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980)
+#### [What's next for Power BI success](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=0)** - [Lecturer] Congratulations on completing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=3)** You've learned how to design effective Power BI Reports, choosing the right visuals and structure your dashboards with your audience in mind.
+> **[0:03](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=3)** You've learned how to design effective [[Microsoft Power BI|Power BI]] Reports, choosing the right visuals and structure your [[Dashboards]] with your audience in mind.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=10)** But this is just the beginning.
 >
@@ -3822,9 +3783,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=21)** And don't forget, Power BI is always evolving.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=24)** There are plenty more courses on LinkedIn Learning such as 15 Skills-Building Analytics Exercises, Advanced Power BI Custom Visuals with D3.
+> **[0:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=24)** There are plenty more courses on [[LinkedIn]] Learning such as 15 Skills-Building Analytics Exercises, Advanced Power BI Custom Visuals with D3.
 >
-> **[0:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=35)** And there is also a number of Microsoft Learning Pathways and accreditations that you could consider.
+> **[0:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=35)** And there is also a number of [[Microsoft]] Learning Pathways and accreditations that you could consider.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=42)** Power BI is growing rapidly as a corporate reporting tool, so it's well worth your time investment.
 >
@@ -3832,7 +3793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[Dashboards]] (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Dashboards]] (1), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [lecturer] (1)

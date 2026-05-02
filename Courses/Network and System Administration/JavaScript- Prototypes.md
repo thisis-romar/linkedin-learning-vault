@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding prototypes in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
+#### [Understanding prototypes in JavaScript](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980&t=0)** - When I was learning JavaScript, I had a hard time understanding what prototypes were for and why the syntax seemed so complex.
+> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980&t=0)** - When I was learning [[JavaScript]], I had a hard time understanding what prototypes were for and why the syntax seemed so complex.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980&t=7)** So I created this course.
 >
@@ -96,8 +95,7 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - when (1)
 
-#### Exercise files and environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980)
+#### [Exercise files and environment setup](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,11 +109,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=22)** You'll be writing your code in the all.js file, which is in the js folder in the site subfolder.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=30)** The main HTML file for the site, index.html, is in the root folder.
+> **[0:30](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=30)** The main [[HTML]] file for the site, index.html, is in the root folder.
 >
 > **[0:36](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=36)** If you are working on a computer, you need three applications, a web browser, a code editor, and an HTTP server.
 >
-> **[0:45](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=45)** You undoubtedly already have a web browser installed in your machine, and any major modern browser, Chrome, Firefox, or Microsoft Edge, is fine for this course.
+> **[0:45](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=45)** You undoubtedly already have a web browser installed in your machine, and any major modern browser, Chrome, Firefox, or [[Microsoft]] Edge, is fine for this course.
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=56)** I'll be using Chrome in these videos, which is a popular choice among web developers because of the extensive and powerful developer tools it has built in.
 >
@@ -129,11 +127,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=96)** So if you have a code editor you like, such as Sublime Text or Atom, it's fine to use it.
 >
-> **[1:42](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=102)** I use Visual Studio Code in these videos, which is a version of Microsoft Visual Studio created specifically for web development.
+> **[1:42](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=102)** I use Visual Studio Code in these videos, which is a version of Microsoft Visual Studio created specifically for [[Web Development]].
 >
-> **[1:50](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=110)** Visual Studio Code is free and has Windows, Mac, and Linux releases.
+> **[1:50](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=110)** Visual Studio Code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[1:55](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=115)** The code is available on GitHub, and users can submit issues there as well.
+> **[1:55](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=115)** The code is available on [[GitHub]], and users can submit issues there as well.
 >
 > **[2:00](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=120)** I've customized my editor with one extension.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=148)** So if you don't have one installed at this point, use this as your excuse to install it.
 >
-> **[2:33](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=153)** I'm using http-server, which is a command line utility that runs under Node and is installed through the Node Package Manager, or NPM.
+> **[2:33](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=153)** I'm using http-server, which is a command line utility that runs under Node and is installed through the Node Package Manager, or [[npm]].
 >
 > **[2:42](https://www.linkedin.com/learning/javascript-prototypes/exercise-files-and-environment-setup-14318675?u=76281980&t=162)** You can install Node by downloading a GUI installer from [nodejs.org](https://nodejs.org).
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (3), node (3), [[Microsoft]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft]] (2), [[npm]] (2), [[Web Development]] (1), [[Windows]] (1)
 > **Tools:** visual studio (3), command line (2), firefox (1), safari (1), sublime (1)
 > **CLI Commands:** node (3), npm (2), sudo (2), make (1)
 > **Prerequisites:** install (5), set up (1), you'll need (1)
@@ -179,8 +177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create object literals
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
+#### [Create object literals](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=4)** So let's start with the fundamentals.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=6)** The most basic way to create an object in JavaScript is with object literal notation.
+> **[0:06](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=6)** The most basic way to create an object in [[JavaScript]] is with object literal notation.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=12)** To create an object literal, you simply create a variable and specify an object as its value.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=170)** Now, I want to log the name of the item in bold in the console just to make it stand out, and I can do that by starting with the string percent C and a plus, and this.name, and then a comma, and then a string that specifies the CSS formatting I want to apply here, and that's just going to be font-weight bold.
 >
-> **[3:14](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=194)** And so, the rest of what we're logging here is not going to be bold, so we just have those object names standing out and giving us a little bit of visual distinction in what's logged to the console.
+> **[3:14](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=194)** And so, the [[Representational State Transfer (REST)|rest]] of what we're logging here is not going to be bold, so we just have those object names standing out and giving us a little bit of visual distinction in what's logged to the console.
 >
 > **[3:26](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=206)** And then, we're going to use a for in statements.
 >
@@ -322,7 +319,7 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=525)** And so, I've navigated to the current folder and check that with PWD.
 >
-> **[8:50](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=530)** And so I'm in the start folder for video 01_01, so it's important to be in the start folder and not in the JS folder because we need the selected folder, the current folder to have that index.html file in it.
+> **[8:50](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=530)** And so I'm in the start folder for video 01_01, so it's important to be in the start folder and not in the JS folder because we need the selected folder, the current folder to have that index.[[HTML]] file in it.
 >
 > **[9:01](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980&t=541)** And so I'm going to type http-server, and that's showing me that on my local host, it's serving this content at port 8080.
 >
@@ -388,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JavaScript]] (1), product (1), css (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Code Identifiers:** dataobject (7), newitem (4), logitem (1)
 > **File Paths:** all.js (1), index.html (1)
 > **CLI Commands:** make (2)
@@ -397,8 +394,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Cross-References:** go back to (1)
 
-#### Create objects with a constructor function
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980)
+#### [Create objects with a constructor function](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=8)** If you're making multiple copies of similar objects, you're going to have to write redundant code and you also can't easily abstract out what you're doing for reuse.
 >
-> **[0:17](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=17)** For just these scenarios, JavaScript includes another way to create objects by creating a constructor function.
+> **[0:17](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=17)** For just these scenarios, [[JavaScript]] includes another way to create objects by creating a constructor function.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=25)** JavaScript include some built in constructor functions which you can use to create things as the name implies.
 >
@@ -448,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=166)** And we can look at our existing code to see what properties and methods we need.
 >
-> **[2:50](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=170)** So first, there's the type key with a value of floral, and so within the function, we can use the this key word with keys and values to add any key value pair that we want to the new object that's being created.
+> **[2:50](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=170)** So first, there's the type key with a value of floral, and so within the function, we can use the this key [[Microsoft Word|word]] with keys and values to add any key value pair that we want to the new object that's being created.
 >
 > **[3:05](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=185)** So this.type equals floral and likewise for the other properties.
 >
@@ -498,7 +494,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=384)** So name, quantity, and we'll set a default parameter of one, and color, and we'll set a default parameter there as well to default.
 >
-> **[6:36](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=396)** And we'll capitalize that because the rest of our stem colors are going to be initial caps as well.
+> **[6:36](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=396)** And we'll capitalize that because the [[Representational State Transfer (REST)|rest]] of our stem colors are going to be initial caps as well.
 >
 > **[6:42](https://www.linkedin.com/learning/javascript-prototypes/create-objects-with-a-constructor-function-14322568?u=76281980&t=402)** And then this function is going to set a key which will be this [Name], with a value equal to the result of calling the flower constructor, and to do that, we'll say new capital Flower, and passing in the quantity and color parameters that the flower constructor expects.
 >
@@ -558,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[JavaScript]] (2), product (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** dataobject (10), addstem (3), newitem (3), logitem (1), jquery (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **Analogies:** for instance (2), just like (2)
@@ -567,12 +563,11 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Best Practices:** best practice (1)
 
-#### Using CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/using-coderpad-challenges-29808092?u=76281980)
+#### [Using CoderPad challenges](https://www.linkedin.com/learning/javascript-prototypes/using-coderpad-challenges-29808092?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/using-coderpad-challenges-29808092?u=76281980&t=0)** - [Instructor] This course on JavaScript prototypes include some code challenges that use the CoderPad environment.
+> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/using-coderpad-challenges-29808092?u=76281980&t=0)** - [Instructor] This course on [[JavaScript]] prototypes include some code challenges that use the CoderPad environment.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-prototypes/using-coderpad-challenges-29808092?u=76281980&t=6)** Let's take a quick look at that workspace.
 >
@@ -627,8 +622,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the prototype property
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
+#### [Understand the prototype property](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980&t=31)** We could significantly reduce the size of our apps by removing that duplication, right?
 >
-> **[0:37](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980&t=37)** Well, the creators of JavaScript implemented a feature to address exactly this situation.
+> **[0:37](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980&t=37)** Well, the creators of [[JavaScript]] implemented a feature to address exactly this situation.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980&t=43)** And it's called a prototype.
 >
@@ -668,16 +662,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modify an object's prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/modify-an-object-s-prototype-14318674?u=76281980)
+#### [Modify an object's prototype](https://www.linkedin.com/learning/javascript-prototypes/modify-an-object-s-prototype-14318674?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/modify-an-object-s-prototype-14318674?u=76281980&t=0)** - [Instructor] You create a prototype in JavaScript by building out a constructor function.
+> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/modify-an-object-s-prototype-14318674?u=76281980&t=0)** - [Instructor] You create a prototype in [[JavaScript]] by building out a constructor function.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-prototypes/modify-an-object-s-prototype-14318674?u=76281980&t=4)** This constructor contains only the custom properties needed by each object that it creates.
 >
@@ -765,8 +758,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a prototype chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980)
+#### [Create a prototype chain](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=8)** But you may still experience some duplication in your code if you have multiple constructor functions that share properties and/or methods.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=16)** To further optimize your code, JavaScript allows you to base one prototype on another, inheriting keys and values from another prototype rather than creating and storing unique copies for each separate prototype.
+> **[0:16](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=16)** To further optimize your code, [[JavaScript]] allows you to base one prototype on another, inheriting keys and values from another prototype rather than creating and storing unique copies for each separate prototype.
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=30)** Building relationships between prototypes in this way is known as chaining or inheritance.
 >
@@ -818,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=177)** So now we have a generic item constructor whose prototype includes values for the type property and log item method.
 >
-> **[3:05](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=185)** And so now if we chain all the rest of our constructors to item, we don't have to duplicate either of those key value pairs in any of our other constructors.
+> **[3:05](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=185)** And so now if we chain all the [[Representational State Transfer (REST)|rest]] of our constructors to item, we don't have to duplicate either of those key value pairs in any of our other constructors.
 >
 > **[3:17](https://www.linkedin.com/learning/javascript-prototypes/create-a-prototype-chain-14319632?u=76281980&t=197)** So then we've identified these three categories and because arrangement and bouquet both share some common properties, I'm going to cut and paste arrangement and move it down to the bottom right before the end of our file.
 >
@@ -922,15 +914,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply prototypal inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/apply-prototypal-inheritance-14323480?u=76281980)
+#### [Apply prototypal inheritance](https://www.linkedin.com/learning/javascript-prototypes/apply-prototypal-inheritance-14323480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +955,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), http (1)
 > **UI Navigation:** go to (1)
@@ -976,12 +966,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand ES6 classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
+#### [Understand ES6 classes](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=0)** - [Instructor] Once you understand how to build and use prototypes in JavaScript code, they're relatively straightforward.
+> **[0:00](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=0)** - [Instructor] Once you understand how to build and use prototypes in [[JavaScript]] code, they're relatively straightforward.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=6)** However, traditional constructors and prototypes don't result in code that's particularly organized.
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=20)** Recent updates to JavaScript known as ES6 include a new syntax for building out classes with the class keyword.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=29)** Now, JavaScript is not a class-based language like Java for example.
+> **[0:29](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=29)** Now, JavaScript is not a class-based language like [[Java]] for example.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980&t=33)** In a class-based language, you build out objects using classes and each object receives set properties and behaviors from the class constructor.
 >
@@ -1026,8 +1015,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build prototypes using ES6 classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980)
+#### [Build prototypes using ES6 classes](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,7 +1055,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980&t=166)** One that I'm specifying a constructor that's inheriting from another class.
 >
-> **[2:51](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980&t=171)** And two, I want to use the this key word in the constructor.
+> **[2:51](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980&t=171)** And two, I want to use the this key [[Microsoft Word|word]] in the constructor.
 >
 > **[2:55](https://www.linkedin.com/learning/javascript-prototypes/build-prototypes-using-es6-classes-14322573?u=76281980&t=175)** Super is essentially fetching context from the parent class and then after the super call, I specify my properties, both the custom ones, so I can actually just copy my name, pot and quantity properties from above, paste those in here, take the comments out, fix my dense and I can also include the default one, which I was adding to the prototype itself, and then can simply save this, dot storage equals one.
 >
@@ -1137,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (1)
@@ -1151,20 +1139,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=0)** - [Instructor] Congrats.
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=1)** You've completed this course and you've learned how to implement prototypes in JavaScript.
+> **[0:01](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=1)** You've completed this course and you've learned how to implement prototypes in [[JavaScript]].
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=6)** If you want more experience with writing vanilla JavaScript code, check out my course on [[Learning App Building With Vanilla Javascript]].
+> **[0:06](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=6)** If you want more experience with writing [[Vanilla]] JavaScript code, check out my course on [[Learning App Building With Vanilla Javascript]].
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=13)** If you want to understand another tricky part of coding in JavaScript, take a look at my course on [[JavaScript- Closures]].
 >
-> **[0:19](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=19)** If you want more practice implementing prototypes, take a look at [[JavaScript Practice- Object-Oriented Programming]].
+> **[0:19](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=19)** If you want more practice implementing prototypes, take a look at [[JavaScript Practice- [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]].
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=27)** Now take your new skills and build something amazing.
 >

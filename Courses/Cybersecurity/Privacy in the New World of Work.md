@@ -70,20 +70,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy considerations in the age of COVID
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980)
+#### [Privacy considerations in the age of COVID](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=0)** - Hi, name is Kalinda Raina, and I'm the vice president of Global Privacy at LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=0)** - Hi, name is Kalinda Raina, and I'm the vice president of Global [[Privacy]] at [[LinkedIn]].
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=6)** I've been working in the field of privacy for over 19 years and have always believed that privacy is an important right that we all have a duty to protect, especially in this highly connected, data-driven world.
 >
-> **[0:18](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=18)** Today, governments, corporations, and nonprofit organizations are using common technologies, such as security cameras, our phones, even GPS devices, to track the virus and the people who carry it.
+> **[0:18](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=18)** Today, governments, corporations, and [[Nonprofit Organizations]] are using common technologies, such as security cameras, our phones, even GPS devices, to track the virus and the people who carry it.
 >
 > **[0:32](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=32)** And while this tracking can be useful to protect against the spread of COVID, it also has the potential to be used in ways that violate our right to keep data about our location, our health, and even our behaviors private.
 >
-> **[0:46](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=46)** By watching this course, you'll learn how to make decisions about your data privacy related to contact tracing apps, your privacy rights as an employee, and how to balance employee health concerns with employee privacy rights.
+> **[0:46](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=46)** By watching this course, you'll learn how to make decisions about your [[Data Privacy]] related to contact tracing apps, your privacy rights as an employee, and how to balance employee health concerns with employee privacy rights.
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980&t=60)** And finally, for those of you who are parents like me, I'll provide a few tips for managing children's privacy during COVID.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (8), data (3), [[LinkedIn]] (1), [[Nonprofit Organizations]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[LinkedIn]] (1), [[Nonprofit Organizations]] (1), [[Data Privacy]] (1)
 > **Env Vars:** covid (2), gps (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -103,16 +102,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the risk?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980)
+#### [What is the risk?](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=1)** - Over the past few months, our lives as citizens and employees, managers, and even as parents, have been fundamentally changed by COVID-19.
 >
-> **[0:10](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=10)** One of the most effective ways to stop the spread of this virus is public health surveillance, which serves the community at large, but threatens individual privacy.
+> **[0:10](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=10)** One of the most effective ways to stop the spread of this virus is [[Public Health]] surveillance, which serves the community at large, but threatens individual [[Privacy]].
 >
-> **[0:19](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=19)** In the past, public health surveillance was typically conducted by contact tracing, with healthcare workers privately interviewing individuals to determine their health status and trace their movements.
+> **[0:19](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=19)** In the past, public health surveillance was typically conducted by contact tracing, with healthcare workers privately [[Interviewing]] individuals to determine their health status and trace their movements.
 >
 > **[0:30](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=30)** Today, though, we have technology, and governments and other entities can use it to track the virus.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=92)** In addition to what governments are doing, private companies are also taking steps to track COVID.
 >
-> **[1:37](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=97)** One of the best-known examples is the contact tracing app developed by Apple and Google.
+> **[1:37](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=97)** One of the best-known examples is the contact tracing app developed by Apple and [[Google]].
 >
 > **[1:42](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980&t=102)** But there are many others out there, too.
 >
@@ -142,18 +140,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), data (4), [[Public Health]] (2), [[Interviewing]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Public Health]] (2), [[Interviewing]] (1), [[Google]] (1)
 > **Env Vars:** covid (5)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - over (1)
 
-#### What technologies are used to track us?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980)
+#### [What technologies are used to track us?](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=0)** - Contact tracing is seen as a key tool in the fight against COVID, but it has serious implications for individual privacy.
+> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=0)** - Contact tracing is seen as a key tool in the fight against COVID, but it has serious implications for individual [[Privacy]].
 >
 > **[0:08](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=8)** Today, technology and in particular, our cell phones, are seen as a key tool in the fight against COVID-19.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=25)** Some apps use location tracking, and they identify a person's contacts by tracking the phone's movements, for instance, using GPS or triangulation from nearby cell towers and looking for other phones that have spent time in the same location.
 >
-> **[0:40](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=40)** Some systems use proximity tracking in which phones swap encrypted tokens with any other nearby phones over Bluetooth.
+> **[0:40](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=40)** Some systems use proximity tracking in which phones swap encrypted [[Tokens]] with any other nearby phones over Bluetooth.
 >
 > **[0:48](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=48)** And it's easier to anonymize and generally considered better for privacy than location tracking.
 >
@@ -171,15 +168,15 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=65)** So users who test positive will then be able to notify others who have been in close contact for at least 15 minutes so they can self-isolate and seek treatment.
 >
-> **[1:15](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=75)** Finally, many apps will rely on the joint API that Apple and Google are developing.
+> **[1:15](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=75)** Finally, many apps will rely on the joint API that Apple and [[Google]] are developing.
 >
-> **[1:21](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=81)** And it lets iOS and Android phones communicate with each other over Bluetooth, and therefore allows developers to build a contact tracing app that will work for both.
+> **[1:21](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=81)** And it lets iOS and [[Android]] phones communicate with each other over Bluetooth, and therefore allows developers to build a contact tracing app that will work for both.
 >
 > **[1:31](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=91)** Later the two companies plan to build this directly into their operating systems.
 >
-> **[1:36](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=96)** Contact tracing apps based on Bluetooth or location are the most common forms of tracking being used by governments and others to try to prevent the spread of the virus.
+> **[1:36](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=96)** Contact tracing apps based on Bluetooth or location are the most common [[Forms]] of tracking being used by governments and others to try to prevent the spread of the virus.
 >
-> **[1:44](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=104)** And that puts each of us in a position to make the choice between our data privacy and the health and well-being of society at large.
+> **[1:44](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=104)** And that puts each of us in a position to make the choice between our [[Data Privacy]] and the health and well-being of society at large.
 >
 > **[1:52](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-technologies-are-used-to-track-us?u=76281980&t=112)** But it doesn't need to be an either/or choice.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), data (2), [[Tokens]] (1), api (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Tokens]] (1), [[Google]] (1), [[Android]] (1), [[Forms]] (1)
 > **Env Vars:** covid (3), gps (1), api (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
@@ -195,12 +192,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - contact (1)
 
-#### What can you do to protect your privacy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-can-you-do-to-protect-your-privacy?u=76281980)
+#### [What can you do to protect your privacy?](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-can-you-do-to-protect-your-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-can-you-do-to-protect-your-privacy?u=76281980&t=0)** - All of us really want to help stop the spread of COVID but some of the technologies being used to fight the pandemic raise important questions about public health concerns versus individual privacy.
+> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-can-you-do-to-protect-your-privacy?u=76281980&t=0)** - All of us really want to help stop the spread of COVID but some of the technologies being used to fight the pandemic raise important questions about [[Public Health]] concerns versus individual [[Privacy]].
 >
 > **[0:11](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-can-you-do-to-protect-your-privacy?u=76281980&t=11)** So before engaging with a contact tracing app, it's important to understand how these apps work and how your data will be used.
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (5), [[Public Health]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Public Health]] (3)
 > **Env Vars:** covid (7)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (2)
@@ -259,8 +255,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy risks and solutions for employees during COVID
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980)
+#### [Privacy risks and solutions for employees during COVID](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=71)** And the reality is, if you're using equipment provided by your employer, such as a cell phone, a laptop, a web camera, or your employer's network, an employer in the U.S. does have the right to monitor what you're doing and may have that right in other countries, as well, as long as they've put their employees on notice and obtained their consent.
 >
-> **[1:33](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=93)** So a good example of how company's may notify you of their monitoring practices is in your employee privacy policy.
+> **[1:33](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=93)** So a good example of how company's may notify you of their monitoring practices is in your employee [[Privacy]] policy.
 >
 > **[1:40](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=100)** So be sure to read that if your company has one.
 >
@@ -300,23 +295,22 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=163)** And finally, take the time to review your company's bring-your-own-device policy and do not use equipment such as laptops or phones provided by your company for your personal use.
 >
-> **[2:54](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=174)** Now when you get back to your at-home office, be thoughtful about ways you may be monitored and take steps I suggested to protect your privacy.
+> **[2:54](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980&t=174)** Now when you get back to your at-home [[Microsoft Office|office]], be thoughtful about ways you may be monitored and take steps I suggested to protect your privacy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), web (1), hr (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Office|Office]] (1)
 > **Env Vars:** covid (1), gps (1), byod (1)
 > **Analogies:** such as (3)
 > **Speakers:** - for (1)
 
-#### Protecting customer privacy when working from home
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980)
+#### [Protecting customer privacy when working from home](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=0)** - As many of us know all too well, our roommates, spouses and children are now the people we work alongside every day, rather than our bosses and coworkers.
 >
-> **[0:10](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=10)** No longer do we have the luxury of an office or conference room to conduct private conversations.
+> **[0:10](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=10)** No longer do we have the luxury of an [[Microsoft Office|office]] or conference room to conduct private conversations.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=16)** Instead, we are often sitting in our bedroom or at the kitchen table trying to conduct confidential meetings while other members of our household literally walk around us and listen in.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=33)** How do you ensure you're not doing something while working from home that puts that data at risk of exposure to others in your home, or even worse, a data breach?
 >
-> **[0:43](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=43)** Depending on your role in the company, you're likely coming into contact at different points in the day with personal data, such as a person's name, or addresses, phone numbers, credit card numbers, salaries, disciplinary actions, or even purchase history, and that means you have an added responsibility to make sure that you protect the privacy and confidentiality of the people whose data you're interacting with at home.
+> **[0:43](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=43)** Depending on your role in the company, you're likely coming into contact at different points in the day with personal data, such as a person's name, or addresses, phone numbers, credit card numbers, salaries, disciplinary actions, or even purchase history, and that means you have an added responsibility to make sure that you protect the [[Privacy]] and confidentiality of the people whose data you're interacting with at home.
 >
 > **[1:08](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-customer-privacy-when-working-from-home?u=76281980&t=68)** So, I'd like to share with you a few key tips for evaluating your home work environment, and making sure you are keeping privacy protections top-of-mind.
 >
@@ -364,21 +358,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Privacy]] (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (8)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - as (1)
 
-#### Keeping security in mind when working from home
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980)
+#### [Keeping security in mind when working from home](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=0)** - Now that you and your team are working from home, you may not have access to the same security protections you did when you were working from the office, and it's therefore helpful to keep in mind the following tips for trying to ensure that you and your team are taking steps to protect personal data from the risk of a privacy breach.
+> **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=0)** - Now that you and your team are working from home, you may not have access to the same security protections you did when you were working from the [[Microsoft Office|office]], and it's therefore helpful to keep in mind the following tips for trying to ensure that you and your team are taking steps to protect personal data from the risk of a [[Privacy]] breach.
 >
-> **[0:20](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=20)** First, remember to watch for phishing emails, right now disguised as alerts sent by the U.S. Centers for Disease Control and Prevention or even the World Health Organization.
+> **[0:20](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=20)** First, remember to watch for [[Phishing]] emails, right now disguised as alerts sent by the U.S. Centers for Disease Control and Prevention or even the World Health Organization.
 >
 > **[0:31](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=31)** Some criminals are using the concerns around COVID-19 as a way to get people to click and download malware.
 >
@@ -394,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=75)** If you don't have access to a secure WiFi connection, you can use your smartphone as a hotspot to lower the risk of strangers accessing your system.
 >
-> **[1:24](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=84)** And when you're dealing with sensitive or personal data, be sure to connect to your company's VPN, or virtual private network.
+> **[1:24](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=84)** And when you're dealing with sensitive or personal data, be sure to connect to your company's VPN, or [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[1:31](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=91)** A VPN creates a secure conduit for your computer or other devices to privately access your company's network.
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (3), [[Security]] (2), data (2), [[Phishing]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** vpn (3), covid (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** remember to (1), make sure to (1)
@@ -436,8 +429,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting your privacy when it's time to go back to the office
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980)
+#### [Protecting your privacy when it's time to go back to the office](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,13 +439,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=19)** So first let's tackle the health questions.
 >
-> **[0:22](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=22)** Most companies will conduct temperature scans on a daily basis before allowing employees back into office buildings, or distribution centers, or even factories.
+> **[0:22](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=22)** Most companies will conduct temperature scans on a daily basis before allowing employees back into [[Microsoft Office|office]] buildings, or distribution centers, or even factories.
 >
 > **[0:31](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=31)** And in the US, the Equal Opportunity Employment Commission has determined that, during the pandemic, employers can require employee temperature checks or testing without violating the Americans with Disabilities Act.
 >
 > **[0:45](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=45)** Employers may also combine temperature scans with more invasive health questions, though, such as whether an employee has a sick family member at home, or symptoms of the COVID such as a cough or the chills.
 >
-> **[0:59](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=59)** And some employers may even go as far as to use apps or web forms to ask you about underlying health conditions, how you travel to and from work, your weekend activities, or even about the people you live with.
+> **[0:59](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=59)** And some employers may even go as far as to use apps or web [[Forms]] to ask you about underlying health conditions, how you travel to and from work, your weekend activities, or even about the people you live with.
 >
 > **[1:13](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980&t=73)** Now, these questions, whether asked in an app or by a concerned manager, put employees in the uncomfortable position of sharing information about their private life in order to return to work.
 >
@@ -491,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Office|Office]] (3), web (1), [[Forms]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Forms]] (1)
 > **Env Vars:** covid (4)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -499,14 +491,13 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - while (1)
 
-#### Bringing people back to the office
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980)
+#### [Bringing people back to the office](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980&t=0)** - If you're a manager or setting policies for bringing employees back to work, you're probably trying to figure out what you can and can't ask employees about to assess their risk to others.
 >
-> **[0:11](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980&t=11)** So let's cover some basic principles to keep in mind to ensure you bring back your workforce in a safe manner that's also respectful of individual privacy.
+> **[0:11](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980&t=11)** So let's cover some basic principles to keep in mind to ensure you bring back your workforce in a safe manner that's also respectful of individual [[Privacy]].
 >
 > **[0:21](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/bringing-people-back-to-the-office?u=76281980&t=21)** So first and foremost, be transparent.
 >
@@ -558,15 +549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Privacy]] (4), hr (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4)
 > **Env Vars:** covid (4), ceo (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** good practice (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - if (1)
 
-#### Maintaining privacy once you are back in the office
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980)
+#### [Maintaining privacy once you are back in the office](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +564,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980&t=11)** Technologies, such as AI, location tracking, heat sensors, and video cameras will be used by employers to monitor the spread of COVID.
 >
-> **[0:19](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980&t=19)** And while these technologies can help protect workers from the spread of COVID, they also raise serious privacy concerns.
+> **[0:19](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980&t=19)** And while these technologies can help protect workers from the spread of COVID, they also raise serious [[Privacy]] concerns.
 >
 > **[0:27](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/maintaining-privacy-once-you-are-back-in-the-office?u=76281980&t=27)** It's therefore really important that employers use these new technologies in a way that's responsible and proportional and for the public good.
 >
@@ -606,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), [[Security]] (2), ai (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (7)
 > **CLI Commands:** make (3)
 > **Env Vars:** covid (3)
 > **Analogies:** such as (2), similar to (1)
@@ -618,16 +608,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about privacy in the age of COVID
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980)
+#### [Learning more about privacy in the age of COVID](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=0)** - Thank you for joining me during this course.
 >
-> **[0:03](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=3)** I hope you learned a few of the ways privacy can be threatened in the new work-from-home world, and gathered some tips for protecting yourself, your employees, and your kids.
+> **[0:03](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=3)** I hope you learned a few of the ways [[Privacy]] can be threatened in the new work-from-home world, and gathered some tips for protecting yourself, your employees, and your kids.
 >
-> **[0:13](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=13)** If you would like to learn more about data privacy, please check out other LinkedIn Learning courses on the topic, including my courses on Building a Culture of Privacy and GDPR.
+> **[0:13](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=13)** If you would like to learn more about [[Data Privacy]], please check out other [[LinkedIn]] Learning courses on the topic, including my courses on Building a Culture of Privacy and GDPR.
 >
 > **[0:24](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980&t=24)** And if you're interested in learning more about how you can help protect your kid's privacy online, check out my blog, Raising the Digital Future.
 >
@@ -635,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - thank (1)
 

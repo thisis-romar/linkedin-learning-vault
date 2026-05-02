@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to marketing manager roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/introduction-to-marketing-manager-roles?u=76281980)
+#### [Introduction to marketing manager roles](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/introduction-to-marketing-manager-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,17 +105,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Speakers:** - hi (1)
 
-#### Overview of marketing manager roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980)
+#### [Overview of marketing manager roles](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=0)** - In its simplest form, marketing is the process of sharing valuable, entertaining, and educational information in exchange for a person's attention.
 >
-> **[0:10](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=10)** The goal is to use this attention to build a connection with them as a potential customer and eventually drive sales to the company's products and services, which is what a marketing manager does on a daily basis.
+> **[0:10](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=10)** The goal is to use this attention to build a connection with them as a potential customer and eventually drive sales to the company's [[Microsoft Products|products]] and services, which is what a marketing manager does on a daily basis.
 >
 > **[0:24](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=24)** One of the most prevalent roles in the industry, a marketing manager is responsible for creating, managing, and measuring an organization's marketing campaigns, and programs.
 >
@@ -142,13 +139,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=125)** The expectation is that you're able to identify which data is relevant to a campaign, analyze it, and then take action based on these insights to improve the performance of your marketing.
 >
-> **[2:17](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=137)** And lastly, being well-versed in how to conduct market research is valuable as well, as you'll consistently need to investigate the motivations of your customers and competitors.
+> **[2:17](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=137)** And lastly, being well-versed in how to conduct [[Market Research]] is valuable as well, as you'll consistently need to investigate the motivations of your customers and competitors.
 >
 > **[2:29](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/overview-of-marketing-manager-roles?u=76281980&t=149)** Being able to confidently articulate these skills, showcase your passion for marketing, and incorporate your personality will greatly increase your chances of succeeding in an interview.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1), strengths (1), next (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - in (1)
 
@@ -157,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,12 +188,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (2), job description (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367072?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367072?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +221,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1), career (1)
 > **Speakers:** - [narrator] (1), - well (1), - straightforward (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -237,8 +230,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +260,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980&t=102)** And then to bring it all together, describe the impact of the campaign.
 >
-> **[1:47](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980&t=107)** Why you admire it as a marketer, and finally relate it to the company you're interviewing with.
+> **[1:47](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980&t=107)** Why you admire it as a marketer, and finally relate it to the company you're [[Interviewing]] with.
 >
 > **[1:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980&t=113)** Your interest in this initiative will help demonstrate your understanding of the marketing landscape and which aspects of a campaign you value the most.
 >
@@ -284,8 +276,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=11)** So it's a boutique hotel and they had a surprisingly effective campaign across Instagram and YouTube about their commitment to eco-friendly travel.
 >
-> **[0:21](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=21)** Now, this campaign really stood out to me, not just because it had a connection to a relevant social issue, but for its well-defined action plan to fight climate change.
+> **[0:21](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=21)** Now, this campaign really stood out to me, not just because it had a connection to a relevant social issue, but for its well-defined action plan to fight [[Climate Change]].
 >
 > **[0:32](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=32)** So it was catered to their target audience of affluent travelers.
 >
@@ -332,8 +323,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,17 +357,16 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980&t=109)** Listing your past responsibilities in chronological order or sharing a story of the time you turned a failing campaign into a successful activation in under a week.
 >
-> **[2:01](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980&t=121)** The latter because storytelling is going to help you answer the interviewer's question and stand out as a distinctive candidate that's creative, results-oriented, and experienced.
+> **[2:01](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980&t=121)** The latter because [[Storytelling]] is going to help you answer the interviewer's question and stand out as a distinctive candidate that's creative, results-oriented, and experienced.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - this (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,11 +404,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback?u=76281980&t=125)** The range of accomplishments they shared helps position them as a well-rounded marketer as they discussed the quantitative results of their campaigns like increasing search traffic as well as their accomplishments, pitching ideas to superiors to earn their buy-in and expand the scope of their responsibilities.
 >
-> **[2:24](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback?u=76281980&t=144)** At each part of their answer, they clarify their career outlook as a professional, positioning them as an experienced, strategic and capable marketer.
+> **[2:24](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback?u=76281980&t=144)** At each part of their answer, they clarify their career [[Microsoft Outlook|outlook]] as a professional, positioning them as an experienced, strategic and capable marketer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (4), career (3), [[Search]] (2), traffic (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** seo (4)
 > **Speakers:** - [presenter] (1), - so (1), - what (1)
 
@@ -428,8 +417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364085?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364085?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,14 +451,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), product (1), next (1), business (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - this (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=41)** Now, I might decide to make the value proposition the fact that our shoes are made of wool.
 >
-> **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=46)** That way we can focus our messaging around comfort and sustainability over other options.
+> **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=46)** That way we can focus our messaging around comfort and [[Sustainability]] over other options.
 >
 > **[0:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=53)** At that point, I'd select the formats that would best package that messaging for consumption and distribution like YouTube videos and Facebook ads.
 >
@@ -526,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Speakers:** - [instructor] (1), - sure (1), - that (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -537,8 +523,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980&t=77)** This is where they want to see growth.
 >
-> **[1:20](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980&t=80)** What's changed about your outlook as a marketer, which processes and strategies work for you now that didn't at first?
+> **[1:20](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980&t=80)** What's changed about your [[Microsoft Outlook|outlook]] as a marketer, which processes and strategies work for you now that didn't at first?
 >
 > **[1:29](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980&t=89)** Employers don't expect you to be perfect, especially in marketing where there's a greater margin for error, but repeating your mistakes is definitely a deal breaker.
 >
@@ -570,8 +555,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365097?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365097?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,7 +593,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [narrator] (1), - well (1), - i (1)
 
 
@@ -617,8 +600,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980&t=54)** This is an opportunity to share how you've learned to improve the skillset you're not as strong in, which can demonstrate your commitment to professional growth.
 >
-> **[1:03](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980&t=63)** And to wrap up your answer, relate both skillsets to the role you're interviewing for.
+> **[1:03](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980&t=63)** And to wrap up your answer, relate both skillsets to the role you're [[Interviewing]] for.
 >
 > **[1:09](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980&t=69)** This requires getting very familiar with the job description and listening to the interviewer to include some of what you've learned from them in your response.
 >
@@ -646,14 +628,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), job description (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - this (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,13 +648,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=20)** So while big picture thinking kind of comes more naturally to me, I feel that I'm always actively working to improve both of those skillsets to ensure that I'm as adaptable as possible.
 >
-> **[0:33](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=33)** From overhauling our email marketing, to discovering new channel opportunities, I'm always actively thinking about how my team can achieve its goals more strategically.
+> **[0:33](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=33)** From overhauling our [[Email Marketing]], to discovering new channel opportunities, I'm always actively thinking about how my team can achieve its goals more strategically.
 >
 > **[0:45](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=45)** In terms of being more detail-oriented, so I've been responsible for running the day-to-day email activities for my team for about six months, as well as making any technical changes for our SEO projects.
 >
 > **[1:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=60)** I also partner with my colleagues to ensure that each other's work is error-free.
 >
-> **[1:06](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=66)** Yeah, so this way, my detail heavy efforts are just as polished as my time spent on strategic thinking.
+> **[1:06](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=66)** Yeah, so this way, my detail heavy efforts are just as polished as my time spent on [[Strategic Thinking]].
 >
 > **[1:14](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=74)** So for this role, my ability to navigate big picture thinking will definitely help ensure that we are achieving our high level goals, while also balancing the key details of each initiative.
 >
@@ -683,13 +664,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=105)** I thought this response worked because it explained how the candidate has both skillsets, they understand the value of each, and they admit that one is stronger than the other.
 >
-> **[1:56](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=116)** Continuing with how they plan to improve upon the weaker skill shows they're a self-starter and willing to collaborate with others to excel.
+> **[1:56](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=116)** Continuing with how they plan to improve upon the weaker skill shows they're a self-starter and willing to collaborate with others to [[Microsoft Excel|excel]].
 >
 > **[2:05](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365095?u=76281980&t=125)** Ending with how these skills relate to the role they're applying for ensures the answer is as relevant as possible to the interviewer's needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (1), seo (1), [[Strategic Thinking]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Strategic Thinking]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [narrator] (1), - i (1), - what (1)
 > **Analogies:** picture (2)
 > **Env Vars:** seo (1)
@@ -700,8 +681,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364087?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364087?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,14 +725,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - do (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366068?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366068?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +768,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Speakers:** - [instructor] (1), - well (1), - that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
@@ -800,14 +777,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=0)** - Data is a marketer's best friend, especially before diving into a marketing campaign.
 >
-> **[0:06](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=6)** It can help you construct a more informed marketing strategy and justify your decision making to yourself and other collaborators at the company.
+> **[0:06](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=6)** It can help you construct a more informed [[Marketing Strategy]] and justify your decision making to yourself and other collaborators at the company.
 >
 > **[0:16](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=16)** When asking this question, the interviewer is looking to understand how you use different sources of data to inform a campaign's goals, structure and audience.
 >
@@ -815,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=36)** First and foremost, a strong starting point is reviewing internal data or first party data, as this is the customer data you have direct access to.
 >
-> **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=46)** You want to highlight where this data comes from, whether it's your CRM or Google analytics, and the unique benefits of referencing this data before launching a campaign.
+> **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=46)** You want to highlight where this data comes from, whether it's your CRM or [[Google]] analytics, and the unique benefits of referencing this data before launching a campaign.
 >
 > **[0:57](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980&t=57)** Another data source to discuss is gathering external data from publicly available sources like think tanks, consulting firms, surveys, customer interviews, and more.
 >
@@ -833,15 +809,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Marketing Strategy]] (1), [[Google]] (1), [[Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **Analogies:** picture (1)
 > **Speakers:** - data (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980&t=46)** Based on either set of data sources, you want to find useful patterns of behavior from existing or prospective customers that can help inform your campaigns.
 >
-> **[0:55](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980&t=55)** For example, after reviewing my company's Google analytics we noticed that a majority of our sales last quarter came from referral traffic from trade publications.
+> **[0:55](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980&t=55)** For example, after reviewing my company's [[Google]] analytics we noticed that a majority of our sales last quarter came from referral traffic from trade publications.
 >
 > **[1:05](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8367071?u=76281980&t=65)** So as a result of identifying that pattern we focused our next campaign on running sponsored content with these publishers and drove more sales than ever before.
 >
@@ -881,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (2), next (2), [[Google]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [narrator] (1), - well (1), - from (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** crm (1)
@@ -893,8 +868,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366072?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366072?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,13 +900,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1), traffic (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - analysis (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366067?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366067?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +934,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Analytics]] (1), data (1)
 > **Speakers:** - [narrator] (1), - a (1), - spot (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -972,16 +943,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=0)** - It's essential that you're held accountable for your actions as a marketer by your colleagues, and most of all, yourself, so you're able to justify your decisions.
 >
-> **[0:11](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=11)** This particular question is all about the interviewer trying to understand how you collaborate, communicate, and defend your decision-making.
+> **[0:11](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=11)** This particular question is all about the interviewer trying to understand how you collaborate, communicate, and defend your [[Decision-Making]].
 >
-> **[0:20](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=20)** They want to see how you react in this scenario, as it's common for a marketer to need to respectfully defend how they're spending their time and using company resources.
+> **[0:20](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=20)** They want to see how you [[React.js|react]] in this scenario, as it's common for a marketer to need to respectfully defend how they're spending their time and using company resources.
 >
 > **[0:31](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980&t=31)** I'd begin your answer by expressing your receptiveness to getting feedback from others.
 >
@@ -1010,12 +980,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365098?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365098?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365098?u=76281980&t=0)** - [Narrator] Let's listen in to hear how the candidate responds to criticism, and if they're able to strike the right balance between being open to feedback and confident in their decision-making.
+> **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365098?u=76281980&t=0)** - [Narrator] Let's listen in to hear how the candidate responds to criticism, and if they're able to strike the right balance between being open to feedback and confident in their [[Decision-Making]].
 >
 > **[0:12](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8365098?u=76281980&t=12)** - Great question.
 >
@@ -1051,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - [narrator] (1), - great (1), - this (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1063,12 +1032,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach this question
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980)
+#### [How to approach this question](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980&t=0)** - Embracing market research can greatly improve your effectiveness as a marketer.
+> **[0:00](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980&t=0)** - Embracing [[Market Research]] can greatly improve your effectiveness as a marketer.
 >
 > **[0:05](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980&t=5)** As a function of marketing, you're not expected to have advanced expertise in market research, but to be proficient in the fundamentals and able to navigate the process.
 >
@@ -1096,14 +1064,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), data (1)
+> **Frameworks & Libraries:** [[Market Research]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - embracing (1)
 
-#### Candidate answer and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980)
+#### [Candidate answer and feedback](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,9 +1096,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=88)** So after that, I would analyze the collective data and share my conclusions with my colleagues to kind of get their input and any type of additional takeaways from the findings.
 >
-> **[1:40](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=100)** So yeah, and then lastly I would take all of this information to better cater my company's products and marketing efforts to meet the needs of the consumers as well as stand out from all of the competitors.
+> **[1:40](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=100)** So yeah, and then lastly I would take all of this information to better cater my company's [[Microsoft Products|products]] and marketing efforts to meet the needs of the consumers as well as stand out from all of the competitors.
 >
-> **[1:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=113)** - Their answer was simplistic, easy to follow and demonstrated that they are well-versed in using market research to inform their marketing.
+> **[1:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=113)** - Their answer was simplistic, easy to follow and demonstrated that they are well-versed in using [[Market Research]] to inform their marketing.
 >
 > **[2:03](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8366071?u=76281980&t=123)** They were smart to mention their goals at each stage of the process ensuring their answer is particularly results focused.
 >
@@ -1143,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), product (1), [[Microsoft Products|Products]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1)
 > **Speakers:** - [narrator] (1), - that (1), - their (1)
 > **Analogies:** picture (1)
 
@@ -1152,8 +1119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to write a memorable thank-you note
-> [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980)
+#### [How to write a memorable thank-you note](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980&t=7)** Sending a thank you note to the hiring manager and anyone else you interviewed with at the company can act as a cherry on top of your performance in the interview.
 >
-> **[0:17](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980&t=17)** After you've finished interviewing, I highly recommend sending a thank you note over email within hours of the interview wrapping up.
+> **[0:17](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980&t=17)** After you've finished [[Interviewing]], I highly recommend sending a thank you note over email within hours of the interview wrapping up.
 >
 > **[0:25](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980&t=25)** It's an opportunity to drive home your interest in the role, gratitude for the interviewer's time, and most of all, it's one more chance to showcase your marketing skills in action.
 >
@@ -1199,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Speakers:** - the (1), - [tali] (1), - this (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1)

@@ -139,12 +139,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro and course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980)
+#### [Intro and course overview](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=5)** - Welcome to Intro to Snowflake for Data Engineers, Data Scientists, and App Developers.
+> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=5)** - Welcome to Intro to [[Snowflake]] for Data Engineers, Data Scientists, and App Developers.
 >
 > **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=15)** My name is Peter Olson.
 >
@@ -188,7 +187,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=157)** But I've come to realize that the builder term reflects a pretty significant conviction on Snowflake's part that the lines are blurring between data roles.
 >
-> **[2:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=166)** For data science and data engineering, those lines have long been blurry.
+> **[2:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=166)** For [[Data Science]] and [[Data Engineering]], those lines have long been blurry.
 >
 > **[2:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=170)** Data scientists often do data engineering tasks, and vice versa.
 >
@@ -196,9 +195,9 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=183)** You don't need to have prior experience with Snowflake to take this course, though if you already have some, you'll still benefit.
 >
-> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=189)** We do assume that those taking this course are somewhat familiar with SQL and Python.
+> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=189)** We do assume that those taking this course are somewhat familiar with [[SQL]] and [[Python (Programming Language)|Python]].
 >
-> **[3:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=194)** For example, you should be able to run basic SQL queries, think SELECT * FROM with the ORDER BY and GROUP BY keywords in there, and you should be able to import Python libraries, create and use a Python function, and do basic data manipulation with dataframes.
+> **[3:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=194)** For example, you should be able to run basic SQL queries, think SELECT * FROM with the ORDER BY and GROUP BY keywords in there, and you should be able to import Python libraries, create and use a Python function, and do basic [[Data Manipulation]] with dataframes.
 >
 > **[3:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=207)** If this doesn't sound like you, I recommend you do some introductory coursework on SQL and Python first.
 >
@@ -232,7 +231,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=284)** For those who want to go deeper on, say, data engineering with Snowflake, GenAI with Snowflake, applications with Snowflake, and more.
 >
-> **[4:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=292)** In this course, we're going to talk about lots of Snowflake products and features, including some that are still in preview as of the time of filming.
+> **[4:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=292)** In this course, we're going to talk about lots of Snowflake [[Microsoft Products|products]] and features, including some that are still in preview as of the time of filming.
 >
 > **[4:59](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=299)** It's challenging to make a course like this because Snowflake's functionality is changing and improving all the time.
 >
@@ -242,7 +241,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=315)** In this first part of the course, we'll learn about Snowflake's core objects and architecture.
 >
-> **[5:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=319)** Specifically, we'll learn about virtual warehouses, stages, databases, schemas, tables, views, semi-structured data, and the different Snowflake architectural layers.
+> **[5:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=319)** Specifically, we'll learn about virtual warehouses, stages, [[Databases]], schemas, tables, views, semi-structured data, and the different Snowflake architectural layers.
 >
 > **[5:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=330)** Okay, that's enough preamble.
 >
@@ -250,7 +249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (40), data (32), cloud (5), [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (40), [[Python (Programming Language)|Python]] (5), [[Data Engineering]] (4), [[SQL]] (4), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** python (5), make (2)
 > **Env Vars:** sql (4), select (1), order (1), group (1)
 > **SQL:** select (1), order by (1), group by (1)
@@ -264,16 +263,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Worksheets and a simple example: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980)
+#### [Worksheets and a simple example: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=0)** - In my opinion, the most efficient way to learn Snowflake is to see the product in action.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=0)** - In my opinion, the most efficient way to learn [[Snowflake]] is to see the product in action.
 >
-> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=5)** So in this video, I'm going to upload a SQL worksheet and start querying data, but be aware there are other ways to interact with Snowflake.
+> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=5)** So in this video, I'm going to upload a [[SQL]] worksheet and start querying data, but be aware there are other ways to interact with Snowflake.
 >
-> **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=11)** We could use Python worksheets or even Snowflake-native notebooks directly from the Snowflake web UI.
+> **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=11)** We could use [[Python (Programming Language)|Python]] worksheets or even Snowflake-native notebooks directly from the Snowflake web UI.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=16)** For now, I'll stick with the SQL worksheet, which will give us a starting point for thinking about Snowflake.
 >
@@ -395,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (12), [[SQL]] (9), data (9), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (12), [[SQL]] (9), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (9), warehouse (1), select (1), count (1)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** row_count (1), tasty_bytes_sample_data (1), raw_pos (1)
@@ -404,8 +402,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **SQL:** select (1)
 
-#### Worksheets and a simple example: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980)
+#### [Worksheets and a simple example: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +418,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=26)** Again, all of this Tasty Bytes data is fictitious.
 >
-> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=29)** We generated this dataset at Snowflake.
+> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=29)** We generated this dataset at [[Snowflake]].
 >
 > **[0:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=32)** It looks like we have data on how much the goods cost for a given food truck to provide and how much they're selling them for.
 >
@@ -441,7 +438,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=77)** SELECT TRUCK_BRAND_NAME, COUNT(*) FROM tasty_bytes_sample_data.raw_pos.menu GROUP BY 1 ORDER BY 2 DESC.
 >
-> **[1:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=84)** This isn't a course on SQL, but as a reminder, when we GROUP BY 1, it means group by the first column listed in the SELECT statement.
+> **[1:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=84)** This isn't a course on [[SQL]], but as a reminder, when we GROUP BY 1, it means group by the first column listed in the SELECT statement.
 >
 > **[1:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-ii?u=76281980&t=92)** So in this case, TRUCK_BRAND_NAME.
 >
@@ -487,7 +484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), [[Snowflake]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[SQL]] (1)
 > **Env Vars:** select (5), truck_brand_name (5), group (5), menu_type (5), order (4)
 > **SQL:** select (5), group by (5), order by (4)
 > **Code Identifiers:** tasty_bytes_sample_data (4), raw_pos (4), row_count (1)
@@ -501,8 +498,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virtual warehouses overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980)
+#### [Virtual warehouses overview](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +506,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=2)** We've learned about the fictional Tasty Bytes dataset, hopped into Snowsight, loaded a worksheet, queried some data, and created a new worksheet.
 >
-> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=10)** And now you've actually run a query in Snowflake on your own.
+> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=10)** And now you've actually run a query in [[Snowflake]] on your own.
 >
 > **[0:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=13)** Very fun.
 >
@@ -526,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=32)** I like it when things are concrete.
 >
-> **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=33)** So when I spin up a virtual warehouse, I think about the cluster I'm accessing from the Snowflake pool from AWS, GCP or Azure.
+> **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=33)** So when I spin up a virtual warehouse, I think about the cluster I'm accessing from the Snowflake pool from AWS, GCP or [[Microsoft Azure|Azure]].
 >
 > **[0:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=41)** In my mind's eye, I can see the machine and say the AWS Oregon West region, and I'm now in command of some CPU memory and temporary storage resources.
 >
@@ -536,13 +532,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=58)** Warehouses are fun, so let's get into it.
 >
-> **[1:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=61)** You use a warehouse for a couple of things, executing most SQL queries and also for DML commands, data manipulation language commands that update the data in some way, like deleting or inserting rows or copying data into a table.
+> **[1:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=61)** You use a warehouse for a couple of things, executing most [[SQL]] queries and also for DML commands, [[Data Manipulation]] language commands that update the data in some way, like deleting or inserting rows or copying data into a table.
 >
 > **[1:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=73)** So let's create a new virtual warehouse and do something real with it.
 >
 > **[1:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=77)** When you're working in Snowsight, again, that's Snowflake's browser-based UI, there are often two ways to do something.
 >
-> **[1:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=83)** You can click buttons in the UI itself or you can write code inside a SQL or Python worksheet or other S site interfaces that accept code.
+> **[1:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=83)** You can click buttons in the UI itself or you can write code inside a SQL or [[Python (Programming Language)|Python]] worksheet or other S site interfaces that accept code.
 >
 > **[1:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980&t=91)** Throughout this course, we'll often cover both the UI and the code-based ways of doing things.
 >
@@ -638,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (7), data (5), [[SQL]] (3), aws (2), gcp (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[SQL]] (3), [[Microsoft Azure|Azure]] (1), [[Data Manipulation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3), aws (2), gcp (1), cpu (1), dml (1)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
 > **CLI Commands:** aws (2), make (2), python (1)
@@ -647,8 +643,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), coming up (1)
 > **Warnings:** note that (1)
 
-#### Virtual warehouses scaling: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980)
+#### [Virtual warehouses scaling: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=17)** With a single line of code, you can scale up a virtual warehouse.
 >
-> **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=20)** This means you're temporarily laying claim to dramatically more compute resources from the Snowflake compute pool.
+> **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=20)** This means you're temporarily laying claim to dramatically more compute resources from the [[Snowflake]] compute pool.
 >
 > **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=26)** Then with another line of code, you can scale back down all within a single workflow.
 >
@@ -714,7 +709,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=187)** In this case, we're dealing with a tiny dataset, so the scaling up was not particularly helpful.
 >
-> **[3:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=192)** But in the next video, we'll deal with the sufficiently compute heavy data ingestion process that it will really save us time to scale up.
+> **[3:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=192)** But in the next video, we'll deal with the sufficiently compute heavy [[Data Ingestion]] process that it will really save us time to scale up.
 >
 > **[3:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-i?u=76281980&t=199)** To recap, in this video we learned about scaling vertically.
 >
@@ -724,15 +719,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Snowflake]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[Data Ingestion]] (1)
 > **Cross-References:** go back to (1), in the next (1), we talked about (1), coming up (1)
 > **UI Navigation:** click on (1), dropdown (1), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Virtual warehouses scaling: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980)
+#### [Virtual warehouses scaling: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=5)** So by default, a virtual warehouse consists of a single cluster of compute resources, and when you submit queries to the warehouse, the warehouse allocates resources to each query and begins executing the queries.
 >
-> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=16)** If there aren't enough resources to execute all the queries, Snowflake starts queuing the queries and you just have to wait for all of them to get handled sequentially.
+> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=16)** If there aren't enough resources to execute all the queries, [[Snowflake]] starts queuing the queries and you just have to wait for all of them to get handled sequentially.
 >
 > **[0:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=25)** Imagine there are three data engineers working with Tasty Bytes data at the same time, one submits a query that occupies the resources of the data warehouse.
 >
@@ -794,7 +788,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=147)** And sure enough, we have a warehouse_vino multi cluster warehouse once more.
 >
-> **[2:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=151)** And one last word on multi cluster warehouses, you could do the same things with a multi cluster warehouse that you can with a single cluster warehouse like resizing the warehouse, et cetera.
+> **[2:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=151)** And one last [[Microsoft Word|word]] on multi cluster warehouses, you could do the same things with a multi cluster warehouse that you can with a single cluster warehouse like resizing the warehouse, et cetera.
 >
 > **[2:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=161)** Okay, now let's explore two options we skipped a moment ago.
 >
@@ -822,7 +816,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=232)** So there's a balance here, and what's best for you will depend on your workload.
 >
-> **[3:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=236)** Okay, so let's hop over to our SQL worksheet and adjust the warehouse-warehouse so that it auto suspends after three minutes and does not auto resume.
+> **[3:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=236)** Okay, so let's hop over to our [[SQL]] worksheet and adjust the warehouse-warehouse so that it auto suspends after three minutes and does not auto resume.
 >
 > **[4:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-scaling-part-ii?u=76281980&t=247)** All we have to do is run an alter warehouse command.
 >
@@ -856,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Snowflake]] (1), concurrent (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
 > **UI Navigation:** toggle (2), go to (1), click on (1), open the (1), dropdown (1)
 > **Code Identifiers:** warehouse_vino (5)
 > **CLI Commands:** make (4)
@@ -870,18 +864,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stages and basic ingestion: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980)
+#### [Stages and basic ingestion: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=0)** - We now know a bunch about virtual warehouses, so let's put our knowledge to use to ingest some data.
 >
-> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=6)** If you have data that you want to load to a table in Snowflake, you do that by way of an intermediate object called a stage.
+> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=6)** If you have data that you want to load to a table in [[Snowflake]], you do that by way of an intermediate object called a stage.
 >
 > **[0:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=13)** Data on your local machine, you first create a stage object.
 >
-> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=16)** Data on external cloud storage, you'll first create a stage object.
+> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=16)** Data on external [[Cloud Storage]], you'll first create a stage object.
 >
 > **[0:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=19)** Only after making the stage object do you copy the data to a table.
 >
@@ -905,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=68)** Next, I'll create a database and a few different schemas.
 >
-> **[1:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=71)** We'll talk about databases and schemas in the next video.
+> **[1:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=71)** We'll talk about [[Databases]] and schemas in the next video.
 >
 > **[1:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=73)** The one thing I'll point out is that we have two raw schemas and then a cleaned up schema called harmonized.
 >
@@ -943,7 +936,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=157)** You don't get billed through Snowflake for the storage of that data, et cetera.
 >
-> **[2:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=160)** This means that when creating an external stage, we'll always add a reference to an external cloud data storage location, AWS S3 or storage in Google Cloud or Azure, plus credentials for accessing that bucket if necessary.
+> **[2:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=160)** This means that when creating an external stage, we'll always add a reference to an external cloud [[Data Storage]] location, AWS S3 or storage in [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure|Azure]], plus credentials for accessing that bucket if necessary.
 >
 > **[2:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980&t=175)** Here, credentials weren't necessary.
 >
@@ -979,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (5), next (5), database (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Cloud Storage]] (3), [[Databases]] (1), [[Data Storage]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** url (2), csv (1), aws (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
@@ -988,8 +981,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Best Practices:** best practice (1)
 
-#### Stages and basic ingestion: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980)
+#### [Stages and basic ingestion: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1049,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=167)** We'll run this whole section at once, including the command to drop the demo build warehouse once we're done with it.
 >
-> **[2:59](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=179)** If this hadn't worked, we'd have seen some errors, but if we're willing to wait a while up to an hour or two and we wanted to double check, we could use one of Snowflake's built-in observability features.
+> **[2:59](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=179)** If this hadn't worked, we'd have seen some errors, but if we're willing to wait a while up to an hour or two and we wanted to double check, we could use one of [[Snowflake]]'s built-in observability features.
 >
 > **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=189)** We just query the copy history view within the account usage schema within the Snowflake database, like this.
 >
@@ -1087,7 +1079,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=261)** Three, we learned how to explain the difference between an external stage and an internal stage.
 >
-> **[4:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=266)** Remember if there's a reference to a cloud storage bucket, it's an external stage.
+> **[4:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=266)** Remember if there's a reference to a [[Cloud Storage]] bucket, it's an external stage.
 >
 > **[4:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=270)** Four, we learned about the three types of internal stages, user. table, and named.
 >
@@ -1099,11 +1091,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=292)** You've successfully conquered this stage.
 >
-> **[4:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=294)** Soon we'll learn about databases, schemas, tables, and views.
+> **[4:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-ii?u=76281980&t=294)** Soon we'll learn about [[Databases]], schemas, tables, and views.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Snowflake]] (5), database (2), [[Analytics]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Cloud Storage]] (1), [[Databases]] (1)
 > **CLI Commands:** ls (1), make (1), find (1)
 > **Cross-References:** we covered (2), previous video (1)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1117,12 +1109,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Databases and schemas: Part I
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980)
+#### [Databases and schemas: Part I](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=0)** - In this video, we're going to learn about databases and schemas.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=0)** - In this video, we're going to learn about [[Databases]] and schemas.
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=4)** We already did a little bit with databases and schemas in the video where we discussed stages.
 >
@@ -1136,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=23)** If we scroll over to the side, we'll see four databases.
 >
-> **[0:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=27)** One of these, the Snowflake Database is automatically placed in every Snowflake account.
+> **[0:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=27)** One of these, the [[Snowflake]] Database is automatically placed in every Snowflake account.
 >
 > **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=33)** And if you click on it, you'll see a lot of different schemas with names like Account Usage and so on.
 >
@@ -1202,7 +1193,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=212)** When you create a database, it automatically has two schemas in it.
 >
-> **[3:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=216)** The public schema, which is the default schema for that database, and the information schema, which contains views and table functions that can be used for querying metadata about the objects in the database.
+> **[3:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=216)** The public schema, which is the default schema for that database, and the information schema, which contains views and table functions that can be used for querying [[Metadata]] about the objects in the database.
 >
 > **[3:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980&t=227)** So, if you're looking for some metadata about something in the database, like a list of all the tables, you can query the relevant table from the information schema.
 >
@@ -1224,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (27), [[Databases]] (14), [[Snowflake]] (4), data (3), [[Metadata]] (3)
+> **Frameworks & Libraries:** [[Databases]] (14), [[Snowflake]] (4), [[Metadata]] (3)
 > **UI Navigation:** click on (8), go to (1)
 > **Env Vars:** raw_pos (4), copy (1), into (1), select (1), database (1)
 > **Cross-References:** we discussed (1), in the last (1), coming up (1)
@@ -1233,12 +1224,11 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Analogies:** for example (1)
 
-#### Databases and schemas: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980)
+#### [Databases and schemas: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=0)** - In the last video, we started learning about databases and schemas.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=0)** - In the last video, we started learning about [[Databases]] and schemas.
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=4)** This would probably be a much more exciting and mysterious video if we were about to cover databases and schemes, but I think you'll find that schemas are exciting and mysterious in their own way.
 >
@@ -1260,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=65)** If we refresh our screen, we'll see it's gone.
 >
-> **[1:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=70)** We can do all of those things through commands in our SQL worksheets, so let's do that quickly.
+> **[1:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=70)** We can do all of those things through commands in our [[SQL]] worksheets, so let's do that quickly.
 >
 > **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=74)** Go back to worksheets and select databases and schemas.
 >
@@ -1276,9 +1266,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=105)** We can see that it's the current database.
 >
-> **[1:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=107)** And if we scroll over, we see that it's a standard database, whereas Snowflake sample data is imported.
+> **[1:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=107)** And if we scroll over, we see that it's a standard database, whereas [[Snowflake]] sample data is imported.
 >
-> **[1:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=115)** And Snowflake, the one with all the metadata, is of the kind application.
+> **[1:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=115)** And Snowflake, the one with all the [[Metadata]], is of the kind application.
 >
 > **[2:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-ii?u=76281980&t=123)** We can then drop our database by running the drop database command, followed by the database name.
 >
@@ -1354,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (44), [[Databases]] (10), data (3), [[Snowflake]] (3), next (3)
+> **Frameworks & Libraries:** [[Databases]] (10), [[Snowflake]] (3), [[SQL]] (2), [[Metadata]] (1)
 > **UI Navigation:** go to (3), click on (3), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -1368,12 +1358,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tables: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980)
+#### [Tables: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=0)** - If you query a table in Snowflake, assuming it's not empty, you'd see a result similar to what you'd see in lots of other data contexts.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=0)** - If you query a table in [[Snowflake]], assuming it's not empty, you'd see a result similar to what you'd see in lots of other data contexts.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=6)** Data organized into columns and rows.
 >
@@ -1385,7 +1374,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=29)** It probably won't surprise you at this point to learn that you can use the UI to make a table or run a command.
 >
-> **[0:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=35)** Let's start with the UI approach and go to Data, Databases, TEST-DATABASE, TEST_SCHEMA, and then go up to the right-hand side and click Create, Table, Standard.
+> **[0:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=35)** Let's start with the UI approach and go to Data, [[Databases]], TEST-DATABASE, TEST_SCHEMA, and then go up to the right-hand side and click Create, Table, Standard.
 >
 > **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=51)** It's worth pointing out that this experience is somewhat different from the one we've had up to this point in the course when we created other objects like databases and schemas, because with those, we'd specify the name and click Create, and the object would appear.
 >
@@ -1395,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=77)** You also need names and types for each column.
 >
-> **[1:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=80)** If you're more familiar with the Pandas Python world, the fact you have to specify all of this upfront might come as a bit of a surprise, but it's standard procedure in the database world.
+> **[1:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=80)** If you're more familiar with the [[Pandas (Software)|Pandas]] [[Python (Programming Language)|Python]] world, the fact you have to specify all of this upfront might come as a bit of a surprise, but it's standard procedure in the database world.
 >
 > **[1:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=91)** So let's talk about data types, since you can't make a table without knowing something about them.
 >
@@ -1417,7 +1406,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=149)** So why the duplication?
 >
-> **[2:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=150)** Well, for one thing, if you're familiar with code from another SQL dialect, it makes it easy for you to port that code over to Snowflake or make use of your existing knowledge.
+> **[2:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=150)** Well, for one thing, if you're familiar with code from another [[SQL]] dialect, it makes it easy for you to port that code over to Snowflake or make use of your existing knowledge.
 >
 > **[2:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=161)** I don't recommend memorizing all the data types.
 >
@@ -1441,7 +1430,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=215)** So specifying a smaller number of bytes in your table definition usually won't improve performance.
 >
-> **[3:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=220)** One exception is it can help improve the performance of some business intelligence BI tools, which allocate memory to the defined max when they load the data.
+> **[3:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=220)** One exception is it can help improve the performance of some [[Business Intelligence (BI)|business intelligence]] BI tools, which allocate memory to the defined max when they load the data.
 >
 > **[3:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980&t=231)** Let's open up our worksheet called Tables and query our table.
 >
@@ -1469,7 +1458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Snowflake]] (8), database (4), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Databases]] (2), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **Env Vars:** double (4), varchar (4), number (3), test (2), database (2)
 > **SQL:** varchar (4), select (2), integer (1), boolean (1), create table (1)
 > **CLI Commands:** make (7), python (1)
@@ -1478,8 +1467,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Tables: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980)
+#### [Tables: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=39)** We see the data we inserted.
 >
-> **[0:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=44)** Let's drop and undrop our table as we did in the previous video with databases and schemas.
+> **[0:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=44)** Let's drop and undrop our table as we did in the previous video with [[Databases]] and schemas.
 >
 > **[0:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=49)** It's simple, just drop table, followed by the fully qualified table name, which is the table name with the database and schema specified.
 >
@@ -1523,9 +1511,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=98)** If we just run a plane show tables, we'll see all our tables across all databases and schemas.
 >
-> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=104)** There's a bunch of great metadata here, including the number of rows and the bytes.
+> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=104)** There's a bunch of great [[Metadata]] here, including the number of rows and the bytes.
 >
-> **[1:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=109)** We could also get information about tables in our account by querying the table storage metrics view, in the account usage schema inside the Snowflake database.
+> **[1:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=109)** We could also get information about tables in our account by querying the table storage metrics view, in the account usage schema inside the [[Snowflake]] database.
 >
 > **[1:59](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-ii?u=76281980&t=119)** Remember, this one is created automatically for observability reasons.
 >
@@ -1581,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (5), [[Databases]] (4), [[Snowflake]] (4), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Snowflake]] (4), [[Metadata]] (2)
 > **Cross-References:** previous video (2), go back to (1)
 > **CLI Commands:** make (2)
 > **SQL:** varchar (2)
@@ -1595,8 +1583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Views: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980)
+#### [Views: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1591,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=6)** I'm talking about the very best kind of view, views in the land of data.
 >
-> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=10)** Anyway, learning about Snowflake views is important, because one, they're useful, and two, they pop up all the time.
+> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=10)** Anyway, learning about [[Snowflake]] views is important, because one, they're useful, and two, they pop up all the time.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=16)** So even if you're like, "Look, I'm a simple human with simple tastes, I don't need views in my life, basic tables suffice," you're still going to need to learn about them, because you'll run into them everywhere.
 >
@@ -1616,7 +1603,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=48)** Okay, so let's first look at an example of a standard view.
 >
-> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=51)** Let's open our SQL worksheet called Views, and take a look at the three views we created in our Stages and Basic Ingestion video.
+> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=51)** Let's open our [[SQL]] worksheet called Views, and take a look at the three views we created in our Stages and Basic Ingestion video.
 >
 > **[1:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=60)** At the time, we just ran this part of the code without worrying about what it was doing, but now we're coming back and processing what we did.
 >
@@ -1630,7 +1617,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=98)** Then you could see that it's populating the view with a select statement.
 >
-> **[1:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=101)** So it's going CREATE VIEW, view name, AS SELECT, and then it has the rest of a query including a bunch of JOINs.
+> **[1:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=101)** So it's going CREATE VIEW, view name, AS SELECT, and then it has the [[Representational State Transfer (REST)|rest]] of a query including a bunch of JOINs.
 >
 > **[1:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=108)** This thing we've created, this view acts like a table in some ways.
 >
@@ -1664,7 +1651,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=216)** Two, you can drop a view, but be careful.
 >
-> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=218)** Unlike with databases, schemes, and tables, you can't undrop a view.
+> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=218)** Unlike with [[Databases]], schemes, and tables, you can't undrop a view.
 >
 > **[3:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=221)** You'd need to recreate it.
 >
@@ -1680,7 +1667,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=260)** Then we run SHOW VIEWS, and we can see BRAND_NAMES listed in the HARMONIZED schema.
 >
-> **[4:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=267)** The SHOW command, as with SHOW DATABASES, SHOW SCHEMAS, and SHOW TABLES, will list all of the relevant objects across the databases we have access to, in this case, views, and give us some metadata on those.
+> **[4:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=267)** The SHOW command, as with SHOW DATABASES, SHOW SCHEMAS, and SHOW TABLES, will list all of the relevant objects across the databases we have access to, in this case, views, and give us some [[Metadata]] on those.
 >
 > **[4:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980&t=280)** Then if we run the DROP VIEW command to drop our new view, we should see that it successfully dropped.
 >
@@ -1704,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), data (2), [[Metadata]] (2), [[Snowflake]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Metadata]] (2), [[Snowflake]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** view (12), create (7), show (7), select (4), views (4)
 > **Code Identifiers:** frostbyte_tasty_bytes (6), brand_names (4), truck_brand_name (1), raw_pos (1)
 > **SQL:** select (4)
@@ -1713,8 +1700,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - now (1)
 
-#### Views: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980)
+#### [Views: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,7 +1710,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=15)** I don't want to belabor that point, but let's just run through it really quickly.
 >
-> **[0:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=18)** (screen whooshes) If we create a materialized view, it's the same syntax as creating a normal view, but with the word MATERIALIZED added after CREATE.
+> **[0:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=18)** (screen whooshes) If we create a materialized view, it's the same syntax as creating a normal view, but with the [[Microsoft Word|word]] MATERIALIZED added after CREATE.
 >
 > **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=28)** Here, let's create a materialized view called brand_names_materialized.
 >
@@ -1782,7 +1768,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=193)** They restrict you to having the view be of one table.
 >
-> **[3:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=196)** Second, if you've had prior exposure to Snowflake, you might have heard about a really cool object called a dynamic table, which is like a more flexible version of a materialized view.
+> **[3:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=196)** Second, if you've had prior exposure to [[Snowflake]], you might have heard about a really cool object called a dynamic table, which is like a more flexible version of a materialized view.
 >
 > **[3:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=206)** Among other differences, instead of updating automatically whenever the underlying data changes, dynamic tables can update on a refresh cadence of your choosing.
 >
@@ -1798,13 +1784,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=243)** We learned how to create, describe, show, and drop, both kinds of views, and we learned a little bit about why they're useful.
 >
-> **[4:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=250)** Now, onto a topic that's a personal favorite of mine, semi-structured data, which I love in part, because it's fun to see a JSON and say, "You think you're tough with your deeply nested hierarchical data.
+> **[4:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=250)** Now, onto a topic that's a personal favorite of mine, semi-structured data, which I love in part, because it's fun to see a [[JSON]] and say, "You think you're tough with your deeply nested hierarchical data.
 >
 > **[4:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-ii?u=76281980&t=259)** Bring it on JSON."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Orchestration]] (2), [[JSON]] (2), [[Microsoft Word|Word]] (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Microsoft Word|Word]] (1), [[Snowflake]] (1)
 > **Env Vars:** materialized (6), view (6), describe (4), create (2), select (2)
 > **Code Identifiers:** brand_names_materialized (4), frostbyte_tasty_bytes (4), truck_brand_name (1), raw_pos (1), is_materialized (1)
 > **CLI Commands:** make (2), find (1)
@@ -1818,8 +1804,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Semistructured data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980)
+#### [Semistructured data types](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1839,7 +1824,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=23)** First, we'll take a look at an example of semi-structured data, and then we'll talk about the definition of semi-structured data more generally.
 >
-> **[0:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=30)** Then we'll cover the snowflake data types that can hold semi-structured data and get you up to speed on one primary method of ingesting semi-structured data in Snowflake.
+> **[0:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=30)** Then we'll cover the [[Snowflake]] data types that can hold semi-structured data and get you up to speed on one primary method of ingesting semi-structured data in Snowflake.
 >
 > **[0:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=40)** In the following video, we'll practice manipulating each of those data types and practice a few ways to work with semi-structured data after you've got it in Snowflake.
 >
@@ -1853,7 +1838,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=66)** When we run this query, we see that for each menu item, we get a list of ingredients, and then a few health metrics, flags, is it dairy-free, et cetera.
 >
-> **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=74)** Each entry is an a JSON format, which is one of five semi-structured data formats that Snowflake accepts.
+> **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=74)** Each entry is an a [[JSON]] format, which is one of five semi-structured data formats that Snowflake accepts.
 >
 > **[1:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=80)** The others are Avro, ORC, Parquet, and XML.
 >
@@ -1861,15 +1846,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=88)** So what is semi-structured data?
 >
-> **[1:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=90)** If you think of structured data as tabular data, so data that usually has a schema and exists in a flat table, and you think of unstructured data as raw images or raw text, then semi-structured data is somewhere in the middle.
+> **[1:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=90)** If you think of structured data as tabular data, so data that usually has a schema and exists in a flat table, and you think of [[Unstructured Data]] as raw images or raw text, then semi-structured data is somewhere in the middle.
 >
 > **[1:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=102)** It has some sort of structure, some sort of meaningful organization to it, as you can see here.
 >
-> **[1:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=107)** But that structure can be hierarchical in a way that differentiates it from the straightforward tabular data, you often see in relational databases.
+> **[1:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=107)** But that structure can be hierarchical in a way that differentiates it from the straightforward tabular data, you often see in [[Relational Databases]].
 >
 > **[1:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=117)** Informally, you can think of it as data that can be flexibly represented, like a dictionary, so organized into key value pair mappings.
 >
-> **[2:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=124)** And the keys and values can take on very flexible forms.
+> **[2:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=124)** And the keys and values can take on very flexible [[Forms]].
 >
 > **[2:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=127)** They could be erased, et cetera.
 >
@@ -1901,7 +1886,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=208)** To make this more concrete, as a quick example, let's create a table with one column in it and make that column of the variant type, but put number data into it.
 >
-> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=217)** We haven't learned create table as select CTAs in this course, but if you're a SQL user, you're likely already familiar with them.
+> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=217)** We haven't learned create table as select CTAs in this course, but if you're a [[SQL]] user, you're likely already familiar with them.
 >
 > **[3:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=225)** The nice thing about them is, it lets you easily create a table from an existing table.
 >
@@ -1935,7 +1920,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=344)** An object is the second Snowflake data type you should know that comes up in the semi-structured data world.
 >
-> **[5:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=350)** It's like a dictionary in Python.
+> **[5:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=350)** It's like a dictionary in [[Python (Programming Language)|Python]].
 >
 > **[5:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980&t=353)** It always has a key value pair, but the value can be of the variant type.
 >
@@ -1967,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (50), [[Snowflake]] (11), [[JSON]] (7), [[Unstructured Data]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[JSON]] (7), [[Unstructured Data]] (1), [[Relational Databases]] (1), [[Forms]] (1)
 > **Code Identifiers:** frostbyte_tasty_bytes (9), raw_pos (9), test_menu (4), menu_item_health_metrics_obj (3), menu_item_id (1)
 > **Env Vars:** json (7), xml (2), obj (2), orc (1), sql (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
@@ -1976,16 +1961,15 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), it's like (1)
 > **Cross-References:** in the next (1)
 
-#### Semistructured data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980)
+#### [Semistructured data manipulation](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=0)** - In the previous video, we learned about the five semi-structured data formats Snowflake accepts.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=0)** - In the previous video, we learned about the five semi-structured data formats [[Snowflake]] accepts.
 >
 > **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=5)** We learned about Snowflake's variant, array, and object data types, and we learned about checking the data held inside a variant column using the TYPEOF function.
 >
-> **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=14)** In this video, we'll practice working with semi-structured data, JSON data.
+> **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=14)** In this video, we'll practice working with semi-structured data, [[JSON]] data.
 >
 > **[0:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=18)** To be specific, we'll look at our Tasty Bytes menu data, and pull out the first ingredient for each menu item.
 >
@@ -2133,7 +2117,7 @@ created: 2026-05-02
 >
 > **[9:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=576)** We're doing great.
 >
-> **[9:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=577)** We're approaching the end of this first module, and we've added knowledge of semi-structured data and views to our earlier learnings about virtual warehouses, stages, databases, schemas, and tables.
+> **[9:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=577)** We're approaching the end of this first module, and we've added knowledge of semi-structured data and views to our earlier learnings about virtual warehouses, stages, [[Databases]], schemas, and tables.
 >
 > **[9:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-manipulation?u=76281980&t=587)** Pretty soon we'll be getting into exciting Snowflake features like time travel, and cloning.
 >
@@ -2141,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[JSON]] (8), [[Snowflake]] (5), [[Analytics]] (3), next (2)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Snowflake]] (5), [[Databases]] (1)
 > **Env Vars:** select (19), raw_pos (17), frostbytes_tasty_bytes (16), lateral (9), flatten (9)
 > **Code Identifiers:** menu_item_health_metrics (15), menu_item_health_metrics_obj (3), frostbytes_tasty_bytes (3), raw_pos (2), menu_item_d (1)
 > **SQL:** select (19), create table (5)
@@ -2155,12 +2139,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake architecture overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980)
+#### [Snowflake architecture overview](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=0)** - Now that we've covered many of the core Snowflake objects, I think we're ready to zoom out for a moment and talk about the overall Snowflake architecture.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=0)** - Now that we've covered many of the core [[Snowflake]] objects, I think we're ready to [[Zoom]] out for a moment and talk about the overall Snowflake architecture.
 >
 > **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=7)** This video will differ a little bit from the others in that we'll mostly go over slides that will help us visualize the different parts of Snowflake's architecture.
 >
@@ -2174,7 +2157,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=31)** First off, it is four layers, as you can see here.
 >
-> **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=34)** Optimized storage, elastic multi-cluster compute, cloud services, and Snowgrid.
+> **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=34)** Optimized storage, elastic multi-cluster compute, [[Cloud Services]], and Snowgrid.
 >
 > **[0:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=40)** You'll notice that storage is separated from compute, which is something Snowflake pioneered.
 >
@@ -2196,7 +2179,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=87)** It lets you access your data all in one place.
 >
-> **[1:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=90)** You can store structured data, high-volume semi-structured JSON data, even unstructured data like PDFs or images.
+> **[1:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=90)** You can store structured data, high-volume semi-structured [[JSON]] data, even [[Unstructured Data]] like PDFs or images.
 >
 > **[1:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=97)** This layer is built on Blob Storage, which is great because that means you don't have to migrate your data as it grows.
 >
@@ -2218,7 +2201,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=142)** We saw this earlier when we learned about virtual warehouses.
 >
-> **[2:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=145)** We'll talk about this more later when we get to Snowpark, but Snowflake also lets you work in multiple languages, SQL, Python, or Java.
+> **[2:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=145)** We'll talk about this more later when we get to Snowpark, but Snowflake also lets you work in multiple languages, [[SQL]], [[Python (Programming Language)|Python]], or [[Java]].
 >
 > **[2:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=152)** The third layer is cloud services, which manages a lot of important tasks.
 >
@@ -2226,11 +2209,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=164)** Snowflake engineers constantly improve the performance of the platform, and this carries over to your Snowflake experience without you having to do anything extra.
 >
-> **[2:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=172)** The cloud services layer also manages files and file metadata, enabling asset transactions, query result caching, Time Travel, zero-copy cloning, which we'll learn about later, and high concurrency.
+> **[2:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=172)** The cloud services layer also manages files and file [[Metadata]], enabling asset transactions, query result caching, Time Travel, zero-copy cloning, which we'll learn about later, and high concurrency.
 >
 > **[3:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=185)** The fourth layer is Snowgrid, which lets businesses connect across regions and clouds.
 >
-> **[3:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=190)** And as we mentioned at the beginning of the course, Snowflake works on Amazon Web Services, Microsoft Azure, and Google Cloud.
+> **[3:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=190)** And as we mentioned at the beginning of the course, Snowflake works on [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[3:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=196)** Snowgrid makes data services and apps accessible.
 >
@@ -2238,9 +2221,9 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=209)** You're also able to maintain business continuity cross-region and cross-cloud.
 >
-> **[3:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=213)** You can replicate and synchronize databases, accounts, pipelines, and more.
+> **[3:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=213)** You can replicate and synchronize [[Databases]], accounts, pipelines, and more.
 >
-> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=218)** Snowgrid allows for resiliency, durability, and failover by choice, and it even lets you migrate between clouds as needed.
+> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=218)** Snowgrid allows for [[Resiliency]], durability, and failover by choice, and it even lets you migrate between clouds as needed.
 >
 > **[3:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980&t=225)** Okay, so that's it for our discussion of Snowflake's architecture.
 >
@@ -2260,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (18), data (12), cloud (6), [[Metadata]] (2), business (2)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[Cloud Services]] (5), [[Metadata]] (2), [[Zoom]] (1), [[JSON]] (1)
 > **Cross-References:** we talked about (4), we mentioned (1), we covered (1)
 > **Env Vars:** json (1), sql (1), etl (1), elt (1)
 > **Analogies:** for example (2), picture (1), imagine (1)
@@ -2269,28 +2252,27 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Wrap-up of Snowflake’s core objects and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980)
+#### [Wrap-up of Snowflake’s core objects and architecture](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=0)** - You know a fair amount about Snowflake at this point, which is awesome.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=0)** - You know a fair amount about [[Snowflake]] at this point, which is awesome.
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=4)** Let's quickly recap.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=6)** You've learned how to navigate Snowsight, the Snowflake UI.
 >
-> **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=9)** You've learned how to create and use SQL worksheets, which are just one way of interacting with Snowflake, but very useful, even for long-time users.
+> **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=9)** You've learned how to create and use [[SQL]] worksheets, which are just one way of interacting with Snowflake, but very useful, even for long-time users.
 >
 > **[0:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=17)** You've learned about Virtual warehouses, including how to scale them up by increasing the warehouse size, and how to scale them horizontally by turning them into multi-cluster warehouses.
 >
-> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=26)** You've learned about Databases, Schemas, and Tables.
+> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=26)** You've learned about [[Databases]], Schemas, and Tables.
 >
 > **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=28)** You know that Tables are contained in Schemas and Schemas are contained in Databases.
 >
 > **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=33)** You've learned about Views, both the standard kind, which are basically stored queries, and materialized views, which automatically run when the underlying table they're based on is updated.
 >
-> **[0:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=43)** You've learned about Semi-structured data and how to work with it in Snowflake, and you've learned about Snowflake's architecture, the four layers, storage, compute, cloud services, and Snowgrid.
+> **[0:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=43)** You've learned about Semi-structured data and how to work with it in Snowflake, and you've learned about Snowflake's architecture, the four layers, storage, compute, [[Cloud Services]], and Snowgrid.
 >
 > **[0:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-s-core-objects-and-architecture?u=76281980&t=53)** So, this is a good moment to check in.
 >
@@ -2308,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (5), [[Databases]] (2), [[SQL]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Databases]] (2), [[SQL]] (1), [[Cloud Services]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -2319,14 +2301,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Snowflake feature overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980)
+#### [Intro to Snowflake feature overview](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980&t=4)** (graphic twinkling)
 >
-> **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980&t=11)** - In the first part of the course, we covered Snowflake's core objects and architecture.
+> **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980&t=11)** - In the first part of the course, we covered [[Snowflake]]'s core objects and architecture.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980&t=16)** Now, in the second part of the course, we're going to take things to the next level and cover some of Snowflake's fundamental features, cloning, stored procedures, user-defined functions, Snowpark DataFrames, and more.
 >
@@ -2354,21 +2335,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3)
 > **Non-Speech:** (upbeat music) (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - in (1)
 
-#### Time travel: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980)
+#### [Time travel: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=0)** - We're about to learn about time travel in Snowflake, and I'll just give it to you straight.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=0)** - We're about to learn about time travel in [[Snowflake]], and I'll just give it to you straight.
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=4)** Time travel is a superpower.
 >
-> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=7)** I've had data science jobs before where some data would get messed up, and then we'd have to recreate our tables from raw data and it would take forever.
+> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=7)** I've had [[Data Science]] jobs before where some data would get messed up, and then we'd have to recreate our tables from raw data and it would take forever.
 >
 > **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=15)** And at the end, we wouldn't always be able to get back to the pre-corrupted state.
 >
@@ -2410,9 +2390,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=126)** It may surprise you to know that we've already used Snowflake's Time Travel functionality several times in this course.
 >
-> **[2:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=132)** When we learned to undrop databases, undrop schemas, and undrop tables, all of that was Time Travel and was only possible because of Snowflake's data retention feature.
+> **[2:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=132)** When we learned to undrop [[Databases]], undrop schemas, and undrop tables, all of that was Time Travel and was only possible because of Snowflake's data retention feature.
 >
-> **[2:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=141)** Also, we learned about seeing table metadata using show tables.
+> **[2:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=141)** Also, we learned about seeing table [[Metadata]] using show tables.
 >
 > **[2:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-i?u=76281980&t=145)** It turns out this list dropped tables if you're still within the retention period.
 >
@@ -2430,21 +2410,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), database (1), [[Databases]] (1), feature (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Data Science]] (1), [[Databases]] (1), [[Metadata]] (1)
 > **Cross-References:** in the last (2), go back to (1), in the next (1)
 > **Code Identifiers:** frostbyte_tasty (1), raw_pos (1), test_menu (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - we (1)
 
-#### Time travel: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980)
+#### [Time travel: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980&t=1)** - Welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980&t=2)** We just learned about retention time in Snowflake.
+> **[0:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980&t=2)** We just learned about retention time in [[Snowflake]].
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/time-travel-part-ii?u=76281980&t=4)** We learned how to check the retention time with show tables and to set a new retention time with alter table.
 >
@@ -2656,7 +2635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Snowflake]] (7), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7)
 > **Code Identifiers:** frostbyte_tasty_bytes (4), truck_dev (4), good_data_timestamp (4), raw_pos (3), good_data (3)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (2), click on (1)
@@ -2670,18 +2649,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Permanent, transient, and temporary tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980)
+#### [Permanent, transient, and temporary tables](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=1)** - In the last video, we talked about time travel and we mentioned that each table has a retention period.
 >
-> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=6)** Time travel also applies to databases and schemas, as you can probably guess from the fact that you can undrop databases and schemas.
+> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=6)** Time travel also applies to [[Databases]] and schemas, as you can probably guess from the fact that you can undrop databases and schemas.
 >
 > **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=14)** But we chose to focus on tables.
 >
-> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=16)** We haven't discussed this yet, but Snowflake also provides an additional seven day fail safe period after the retention period has elapsed during which Snowflake staff can help you recover historical data.
+> **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=16)** We haven't discussed this yet, but [[Snowflake]] also provides an additional seven day fail safe period after the retention period has elapsed during which Snowflake staff can help you recover historical data.
 >
 > **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=28)** But to use fail safe, you have to contact the Snowflake team directly and get their help.
 >
@@ -2711,7 +2689,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=82)** Create transient table, frostybyte_tasty_bytes.raw_pos, truck_transient clone, and then our truck table.
 >
-> **[1:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=89)** So we're creating a table and notice that we've included the word transient in there this time.
+> **[1:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=89)** So we're creating a table and notice that we've included the [[Microsoft Word|word]] transient in there this time.
 >
 > **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980&t=93)** So create transient table instead of our normal create table.
 >
@@ -2819,7 +2797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (5), data (4), [[Databases]] (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Databases]] (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** frostybyte_tasty_bytes (2), raw_pos (2), data_retention_time_in_days (2), truck_transient (1)
 > **Cross-References:** in the last (2), we talked about (1), we mentioned (1)
 > **CLI Commands:** make (2)
@@ -2832,12 +2810,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloning
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980)
+#### [Cloning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=0)** - In Snowflake, when you clone an object, you're creating a new version of it that is zero-copy.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=0)** - In [[Snowflake]], when you clone an object, you're creating a new version of it that is zero-copy.
 >
 > **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=7)** What this means is that at the time you create the clone, the clone relies on the same stored data, the same micro partitions, as the object you copied.
 >
@@ -2851,7 +2828,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=34)** If you're worried about messing up production data, you can near instantly clone that dataset and use the clone instead, whereas if you had to create a whole new copy that involved recreating the underlying data, your total storage would be much higher and it would take longer.
 >
-> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=48)** You can clone a lot of different Snowflake objects, databases, schemas, tables, dynamic tables, and more.
+> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=48)** You can clone a lot of different Snowflake objects, [[Databases]], schemas, tables, dynamic tables, and more.
 >
 > **[0:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=53)** But we're going to focus on databases, schemas, and tables.
 >
@@ -2925,7 +2902,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=262)** CREATE OR REPLACE DATABASE frostbyte tasty bytes clone, CLONE frostbyte tasty bytes.
 >
-> **[4:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=270)** My understanding is this takes a bit longer because even though it's zero-copy for the data itself, there's a lot of metadata to copy over.
+> **[4:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=270)** My understanding is this takes a bit longer because even though it's zero-copy for the data itself, there's a lot of [[Metadata]] to copy over.
 >
 > **[4:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980&t=279)** And again, if we refresh, we see the clone database frostbyte tasty bytes clone.
 >
@@ -2965,7 +2942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (6), [[Snowflake]] (5), [[Databases]] (4), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Databases]] (4), [[Metadata]] (1)
 > **Env Vars:** table (9), truck (6), clone (6), name (6), create (4)
 > **SQL:** select (4), where (3), create table (1), insert into (1)
 > **CLI Commands:** make (1)
@@ -2977,8 +2954,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resource monitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980)
+#### [Resource monitors](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2992,7 +2968,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=13)** That's kind of how I feel about resource monitors.
 >
-> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=15)** Resource monitors are Snowflake objects you can create to put limits on credit usage for an account or a specific warehouse.
+> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=15)** Resource monitors are [[Snowflake]] objects you can create to put limits on credit usage for an account or a specific warehouse.
 >
 > **[0:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=22)** Very flexible, really important, and you're happy once you've created them, but the topic isn't inherently awe inspiring.
 >
@@ -3002,7 +2978,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=43)** Let's start by using the UI to create a resource monitor.
 >
-> **[0:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=47)** If you go to the left-hand side of the screen, and click on admin, cost management, resource monitors, you'll see that there's a plus resource monitor button at the top-right of the screen.
+> **[0:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=47)** If you go to the left-hand side of the screen, and click on admin, [[Cost Management]], resource monitors, you'll see that there's a plus resource monitor button at the top-right of the screen.
 >
 > **[0:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980&t=58)** Let's click on that.
 >
@@ -3158,7 +3134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), hit (3), data (2), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Cost Management]] (2)
 > **Env Vars:** resource (8), show (5), monitors (5), drop (3), monitor (3)
 > **Code Identifiers:** tasty_test_rm (6), first_resource_monitor (1), tasty_de_wh (1)
 > **UI Navigation:** go to (5), click on (2)
@@ -3172,18 +3148,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User-defined functions (UDFs): Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980)
+#### [User-defined functions (UDFs): Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=0)** - Snowflake has a ton of built-in functions.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=0)** - [[Snowflake]] has a ton of built-in functions.
 >
 > **[0:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=2)** Think coalesce, date diff, count, et cetera.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=6)** But sometimes you need a custom function for a very specific use case.
 >
-> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=10)** Maybe you have some SQL code, you find yourself reusing a bunch, and it would be cleaner to just wrap it in a function.
+> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=10)** Maybe you have some [[SQL]] code, you find yourself reusing a bunch, and it would be cleaner to just wrap it in a function.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980&t=16)** To make this easy, Snowflake lets you create user-defined functions, which I'll usually refer to by their acronym, UDFs.
 >
@@ -3281,7 +3256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), next (3), database (3), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[SQL]] (1)
 > **Env Vars:** udf (6), abs (2), usd (2), sql (1)
 > **UI Navigation:** scroll down (2), dropdown (1)
 > **Analogies:** for example (1), imagine (1), similar to (1)
@@ -3290,16 +3265,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### User-defined functions (UDFs): Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980)
+#### [User-defined functions (UDFs): Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=1)** In the last video we created a SQL UDF that didn't take in any arguments.
+> **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=1)** In the last video we created a [[SQL]] UDF that didn't take in any arguments.
 >
-> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=6)** In this video, we'll get a little more sophisticated and create a UDF that takes in an argument and we'll also create a simple Python UDF.
+> **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=6)** In this video, we'll get a little more sophisticated and create a UDF that takes in an argument and we'll also create a simple [[Python (Programming Language)|Python]] UDF.
 >
 > **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=14)** It's going to be great. So let's get to it.
 >
@@ -3327,7 +3301,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=101)** If UDFs were just something you could write in SQL, that alone would make them very useful, but they're even better than that.
 >
-> **[1:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=108)** In addition to SQL, you can write them in Python, JavaScript, Java and Scala.
+> **[1:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=108)** In addition to SQL, you can write them in Python, [[JavaScript]], [[Java]] and [[Scala]].
 >
 > **[1:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=113)** So let's take a moment and write a Python UDF that we can then call from inside a SQL query.
 >
@@ -3347,7 +3321,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=150)** Here this function, which I'm calling winsorize, basically puts a ceiling and a floor on the values your data can take.
 >
-> **[2:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=158)** In statistics, you winsorize when you have outliers that you don't want to drop, but whose influence you do want to reduce.
+> **[2:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=158)** In [[Statistics]], you winsorize when you have outliers that you don't want to drop, but whose influence you do want to reduce.
 >
 > **[2:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=165)** For example, maybe you believe some of the values are truly large, just not as large as what's recorded.
 >
@@ -3383,7 +3357,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=245)** To recap, we learned about four things.
 >
-> **[4:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=247)** First, how to see a list of all of Snowflake's functions with the show functions command.
+> **[4:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=247)** First, how to see a list of all of [[Snowflake]]'s functions with the show functions command.
 >
 > **[4:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-ii?u=76281980&t=252)** Second, how to create a SQL UDF using create function.
 >
@@ -3395,7 +3369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[SQL]] (9), data (2), [[JavaScript]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[SQL]] (9), [[JavaScript]] (1), [[Java]] (1), [[Scala]] (1)
 > **Env Vars:** udf (10), sql (9), usd (5)
 > **CLI Commands:** python (10), make (2)
 > **Versions:** 1.35 (2), 28.35 (1)
@@ -3404,8 +3378,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
 
-#### User-defined table functions (UDTFs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980)
+#### [User-defined table functions (UDTFs)](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3471,7 +3444,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=151)** Select star from table menu prices above 15.
 >
-> **[2:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=155)** The Snowflake docs state that having this table function helps the SQL compiler recognize the table function as a source of rows.
+> **[2:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=155)** The [[Snowflake]] docs state that having this table function helps the [[SQL]] compiler recognize the table function as a source of rows.
 >
 > **[2:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=163)** So basically we're like, Hey, query compiler.
 >
@@ -3487,7 +3460,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=181)** You could then further filter your results if you wanted by adding a where clause on top of all of this.
 >
-> **[3:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=186)** For example, we could specify that we only want menu items with the word chicken in the name.
+> **[3:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=186)** For example, we could specify that we only want menu items with the [[Microsoft Word|word]] chicken in the name.
 >
 > **[3:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=190)** Select star from table menu prices above where item I like chicken.
 >
@@ -3495,9 +3468,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=200)** The world is your oyster.
 >
-> **[3:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=201)** And as with UDFs, you can have SQL, Python, Java, and JavaScript UDTFs.
+> **[3:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=201)** And as with UDFs, you can have SQL, [[Python (Programming Language)|Python]], [[Java]], and [[JavaScript]] UDTFs.
 >
-> **[3:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=207)** The one language difference is that you can't have Scala UDTFs.
+> **[3:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=207)** The one language difference is that you can't have [[Scala]] UDTFs.
 >
 > **[3:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-table-functions-udtfs?u=76281980&t=211)** Alright, that's all the user-defined table function material we're going to cover for now.
 >
@@ -3511,7 +3484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (1), [[Snowflake]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Snowflake]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** udtf (8), udf (5), sql (2), usd (1)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** in the last (1)
@@ -3525,8 +3498,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stored procedures: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980)
+#### [Stored procedures: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3566,17 +3538,17 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=93)** You can't do that with UDFs.
 >
-> **[1:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=95)** You can also run data manipulation language, DML commands, like insert or copy into.
+> **[1:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=95)** You can also run [[Data Manipulation]] language, DML commands, like insert or copy into.
 >
 > **[1:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=102)** You can't do that with UDFs.
 >
-> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=104)** Like UDFs, you can run SQL queries that perform calculations, but unlike UDFs, stored procedures aren't required to return a value.
+> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=104)** Like UDFs, you can run [[SQL]] queries that perform calculations, but unlike UDFs, stored procedures aren't required to return a value.
 >
 > **[1:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=113)** They can but they don't have to.
 >
-> **[1:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=116)** Like UDFs, you can write the internals of your stored procedure in multiple languages, Python, Java, JavaScript Scholar, or SQL, though with stored procedures.
+> **[1:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=116)** Like UDFs, you can write the internals of your stored procedure in multiple languages, [[Python (Programming Language)|Python]], [[Java]], [[JavaScript]] Scholar, or SQL, though with stored procedures.
 >
-> **[2:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=124)** This is an enhanced version of SQL called Snowflake scripting, which also lets use loops IF style branch even more.
+> **[2:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=124)** This is an enhanced version of SQL called [[Snowflake]] scripting, which also lets use loops IF style branch even more.
 >
 > **[2:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980&t=129)** At this point, you might be wondering why even have UDFs if stored procedures can do what UDFs do and then some.
 >
@@ -3622,7 +3594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Snowflake]] (2), data (1), database (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Snowflake]] (2), [[Data Manipulation]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** sql (4), udf (2), ddl (1), dml (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** in the next (1)
@@ -3631,8 +3603,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 
-#### Stored procedures: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980)
+#### [Stored procedures: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3680,7 +3651,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=114)** Awesome.
 >
-> **[1:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=115)** Now we're ready to write the SQL logic to pull all data older than 180 days, which we want to do because that's the data we're going to want to delete with a DELETE command inside the stored procedure we'll make it a moment.
+> **[1:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=115)** Now we're ready to write the [[SQL]] logic to pull all data older than 180 days, which we want to do because that's the data we're going to want to delete with a DELETE command inside the stored procedure we'll make it a moment.
 >
 > **[2:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=127)** Once we get this logic correct, making the stored procedure is easy.
 >
@@ -3694,7 +3665,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=157)** Great.
 >
-> **[2:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=159)** Okay, so there's one last thing we should cover before we make our stored procedure, and that's what a Snowflake scripting block is.
+> **[2:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=159)** Okay, so there's one last thing we should cover before we make our stored procedure, and that's what a [[Snowflake]] scripting block is.
 >
 > **[2:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=166)** As I mentioned before, Snowflake scripting is like an enhanced version of SQL that lets you use SQL alongside additional kinds of logic like if-else statements.
 >
@@ -3788,7 +3759,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=364)** Again, they're like scissors and there's a lot you can do with them.
 >
-> **[6:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=367)** For example, we didn't cover writing stored procedures in Python or JavaScript or anything like that.
+> **[6:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=367)** For example, we didn't cover writing stored procedures in [[Python (Programming Language)|Python]] or [[JavaScript]] or anything like that.
 >
 > **[6:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-ii?u=76281980&t=372)** But this isn't a course where we would lament what we didn't cover.
 >
@@ -3816,7 +3787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (4), [[Snowflake]] (4), [[Scripting]] (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Snowflake]] (4), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Env Vars:** order_header (10), select (9), order_ts (8), procedure (5), max (4)
 > **SQL:** select (9), where (2), delete from (1)
 > **Code Identifiers:** max_ts (5), cutoff_ts (3), delete_old (3)
@@ -3830,14 +3801,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Role-based access control (RBAC): Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980)
+#### [Role-based access control (RBAC): Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=0)** - [Speaker] Alright, now we're going to learn a bit about role-based access control, RBAC.
 >
-> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=5)** In Snowflake, which is a system that lets you control access to particular Snowflake objects by granting privileges to roles and then assigning those roles to users.
+> **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=5)** In [[Snowflake]], which is a system that lets you control access to particular Snowflake objects by granting privileges to roles and then assigning those roles to users.
 >
 > **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=14)** I'll just go out and say it.
 >
@@ -3845,11 +3815,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=20)** I have a healthy appreciation for many things that others would consider dry or boring.
 >
-> **[0:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=25)** I love technical documentation, I love math, I love poetry, but RBAC pushes even my limits.
+> **[0:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=25)** I love [[Technical Documentation]], I love math, I love poetry, but RBAC pushes even my limits.
 >
 > **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=29)** That said, it's very important to cover because one, there are few things more frustrating than not being able to take some action because you don't have the right privileges.
 >
-> **[0:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=40)** And two, good data governance helps you prevent both bad actors from intentionally messing with your data and good but fallible actors from inadvertently messing with your data.
+> **[0:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=40)** And two, good [[Data Governance]] helps you prevent both bad actors from intentionally messing with your data and good but fallible actors from inadvertently messing with your data.
 >
 > **[0:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=50)** The happy news is that role-based access is something that Snowflake handles vary elegantly.
 >
@@ -3907,7 +3877,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=212)** Yikes, who knew there were so many privileges one could grant and account admin has all of them.
 >
-> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=218)** I'm seeing hundreds and hundreds of rows, privileges like ownership of some databases, usage of some schemas, select on many tables and views.
+> **[3:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=218)** I'm seeing hundreds and hundreds of rows, privileges like ownership of some [[Databases]], usage of some schemas, select on many tables and views.
 >
 > **[3:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980&t=229)** Let's grant the role tasty_de to my username.
 >
@@ -3943,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (5), data (5), [[Technical Documentation]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Technical Documentation]] (1), [[Data Governance]] (1), [[Databases]] (1)
 > **Env Vars:** create (6), role (6), warehouse (5), rbac (3), peterintrotosnowflake (2)
 > **Code Identifiers:** tasty_de (18)
 > **CLI Commands:** make (2), find (1)
@@ -3952,8 +3922,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Role-based access control (RBAC): Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980)
+#### [Role-based access control (RBAC): Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3963,7 +3932,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=11)** An important thing to note is you can also assign roles to other roles, so you can have a hierarchy where the top roles inherit the privileges of roles lower down, but we're not going to show examples of that here.
 >
-> **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=23)** Now I want to talk about Snowflake's five other automatically generated roles in addition to account admin.
+> **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=23)** Now I want to talk about [[Snowflake]]'s five other automatically generated roles in addition to account admin.
 >
 > **[0:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=30)** These are org admin, security admin, user admin, sys admin, and public.
 >
@@ -3987,7 +3956,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=72)** Show Grants To Role sys admin.
 >
-> **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=74)** The sys admin is primarily able to create databases and warehouses.
+> **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=74)** The sys admin is primarily able to create [[Databases]] and warehouses.
 >
 > **[1:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-ii-tether?u=76281980&t=79)** Show Grants To Role public, and the public role is primarily able to run queries.
 >
@@ -4033,7 +4002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Snowflake]] (1), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[Databases]] (1)
 > **Env Vars:** rbac (3)
 > **Cross-References:** in the last (1), we talked about (1)
 > **CLI Commands:** find (1)
@@ -4047,14 +4016,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VS Code extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980)
+#### [VS Code extension](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=1)** - So far in this course, we've worked exclusively inside the Snowflake browser-based UI, Snowsight, but there are many other ways to experience Snowflake.
+> **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=1)** - So far in this course, we've worked exclusively inside the [[Snowflake]] browser-based UI, Snowsight, but there are many other ways to experience Snowflake.
 >
-> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=10)** For example, Snowflake provides a bunch of drivers, like JDBC, Node.js and the Snowflake connector for Python that you can use to access Snowflake from your preferred development environment and in your preferred language.
+> **[0:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=10)** For example, Snowflake provides a bunch of drivers, like [[Java Database Connectivity (JDBC)|JDBC]], [[Node.js]] and the Snowflake connector for [[Python (Programming Language)|Python]] that you can use to access Snowflake from your preferred development environment and in your preferred language.
 >
 > **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=23)** We're not going to spend time right now covering how to access Snowflake from a Jupyter Notebook or PyCharm or a whole host of other IDEs, but I do want to talk about Visual Studio Code, which I'll call VS Code going forward, because there's a Snowflake extension for VS Code that Snowflake maintains.
 >
@@ -4062,7 +4030,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=46)** And I'll be honest, I always feel pretty cool when I'm working in VS Code.
 >
-> **[0:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=50)** Not as hardcore as just living life in a text editor like Emacs or Vim and pushing code directly to GitHub from there, but still, pretty cool.
+> **[0:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=50)** Not as hardcore as just living life in a text editor like Emacs or Vim and pushing code directly to [[GitHub]] from there, but still, pretty cool.
 >
 > **[0:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=58)** Quick aside, it took me a long time in my tech journey to realize that VS Code, which is also known as Visual Studio Code, is different from Visual Studio.
 >
@@ -4074,7 +4042,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=85)** For me, that's the Mac version.
 >
-> **[1:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=88)** What one does after downloading the file depends on whether you're using a Mac, a PC, or a Linux machine.
+> **[1:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=88)** What one does after downloading the file depends on whether you're using a Mac, a PC, or a [[Linux]] machine.
 >
 > **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=93)** It's straightforward either way, but I'll share the Mac approach here.
 >
@@ -4092,7 +4060,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=123)** The second is a search bar that lets us search through open files or folders.
 >
-> **[2:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=127)** The third is the tab that makes it easy to use Git in VS Code for version control.
+> **[2:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=127)** The third is the tab that makes it easy to use [[Git]] in VS Code for [[Version Control]].
 >
 > **[2:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=132)** The fourth lets us run and debug a file.
 >
@@ -4126,7 +4094,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=210)** So let's go to file at the top of the screen and select new file.
 >
-> **[3:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=214)** Then click on Snowflake SQL file.
+> **[3:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=214)** Then click on Snowflake [[SQL]] file.
 >
 > **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980&t=217)** If we go over to the left side of the screen, we can see the database objects we've been working with so far in the course.
 >
@@ -4184,7 +4152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (25), database (5), [[Search]] (4), [[SQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (25), [[SQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Node.js]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** vs code (18), visual studio (4), jupyter (2), pycharm (1), emacs (1)
 > **UI Navigation:** go to (4), click on (2), select the (1), toggle (1)
 > **CLI Commands:** make (3), node (1), python (1), git (1), find (1)
@@ -4193,16 +4161,15 @@ created: 2026-05-02
 > **Prerequisites:** install (3), getting started (1)
 > **Analogies:** for example (2), just like (1)
 
-#### Snowpark DataFrames: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980)
+#### [Snowpark DataFrames: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=0)** - In this video, we're going to learn about Snowpark DataFrames.
 >
-> **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=4)** You've probably figured this out by now, but at Snowflake, we use lots of snow imagery.
+> **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=4)** You've probably figured this out by now, but at [[Snowflake]], we use lots of snow imagery.
 >
-> **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=9)** My hope is that as you move through this section and hear the word Snowpark, Snowpark, Snowpark again and again, you won't think of cold and ice and loneliness unless you live in a crowded, tropical country, in which case, maybe those sound desirable to you.
+> **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=9)** My hope is that as you move through this section and hear the [[Microsoft Word|word]] Snowpark, Snowpark, Snowpark again and again, you won't think of cold and ice and loneliness unless you live in a crowded, tropical country, in which case, maybe those sound desirable to you.
 >
 > **[0:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=21)** Instead, I hope you'll think of spending the day hugged by a warm coat, enjoying the crisp air.
 >
@@ -4212,7 +4179,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=38)** In any case, before we talk about spar DataFrames, I wanted to talk more about the term Snowpark, since we use it a bunch at Snowflake, and it's important to know how to interpret it when you hear it.
 >
-> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=48)** The best way to think about Snowpark is as a set of different non-SQL capabilities, so Python, et cetera, you can use in Snowflake.
+> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=48)** The best way to think about Snowpark is as a set of different non-[[SQL]] capabilities, so [[Python (Programming Language)|Python]], et cetera, you can use in Snowflake.
 >
 > **[0:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=56)** We actually covered or mentioned a few of these already in this course, Python UDFs, Python stored procedures, though I didn't call them out as falling under the Snowpark umbrella at the time.
 >
@@ -4226,7 +4193,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=100)** Snowpark DataFrames is a library that helps you transform data.
 >
-> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=104)** To contextualize this, it's good to think about data engineering works having three parts, ingestion, transformation, and delivery, ITD.
+> **[1:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=104)** To contextualize this, it's good to think about [[Data Engineering]] works having three parts, ingestion, transformation, and delivery, ITD.
 >
 > **[1:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=111)** Ingestion refers to gathering data, transformation refers to cleaning, changing, and preparing that data, and delivery refers to handing over a finished data product, dataset, et cetera, to a customer or system like an analyst or an app.
 >
@@ -4236,9 +4203,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=133)** I think there are a few answers to this.
 >
-> **[2:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=135)** One, if you're used to doing transformations with DataFrames like pandas, it's good to be aware that Snowflake has an expressive DataFrame API that's efficient and scales well.
+> **[2:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=135)** One, if you're used to doing transformations with DataFrames like [[Pandas (Software)|pandas]], it's good to be aware that Snowflake has an expressive DataFrame API that's efficient and scales well.
 >
-> **[2:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=145)** Two, if you're partial to manipulating data in a language other than SQL, like Python, Java, or Scala, you might prefer Snowpark DataFrames.
+> **[2:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=145)** Two, if you're partial to manipulating data in a language other than SQL, like Python, [[Java]], or [[Scala]], you might prefer Snowpark DataFrames.
 >
 > **[2:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-i?u=76281980&t=153)** And three, if you learn about them and decide you're not a big fan, it's still helpful to be familiar with them because you'll see them a bunch in the Snowflake ecosystem in code examples, et cetera, and it's good to have some sense of what you're looking at when you run into them.
 >
@@ -4332,7 +4299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Snowflake]] (8), [[SQL]] (5), data (5), database (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Snowflake]] (8), [[SQL]] (5), [[Pandas (Software)|Pandas]] (2), [[Java]] (2)
 > **CLI Commands:** python (18), make (2)
 > **Env Vars:** sql (5), itd (1), api (1), frostbyte_tasty_bytes (1), analytics (1)
 > **UI Navigation:** click on (3), scroll up (1), dropdown (1)
@@ -4341,18 +4308,17 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Warnings:** be aware (1)
 
-#### Snowpark DataFrames: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980)
+#### [Snowpark DataFrames: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=0)** - In the previous video, we talked about how to use Snowpark DataFrames in Python worksheets.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=0)** - In the previous video, we talked about how to use Snowpark DataFrames in [[Python (Programming Language)|Python]] worksheets.
 >
 > **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=5)** Now we're going to focus much more on the Snowpark DataFrames API.
 >
 > **[0:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=11)** Earlier, we used session.table to pull on a table from our database.
 >
-> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=15)** Another way to do that would've been to run session.sql and put in a SQL query.
+> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=15)** Another way to do that would've been to run session.[[SQL]] and put in a SQL query.
 >
 > **[0:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=22)** Let's try that instead, but this time, we'll add a limit so we can tell that we've made a change.
 >
@@ -4426,7 +4392,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=210)** We didn't cover group_by or how to handle missing values or allow data types or ordering or sampling.
 >
-> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=217)** So if this is exciting to you, I recommend you do some related tutorials or quick starts on the Snowflake website or read through the Snowflake docs.
+> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=217)** So if this is exciting to you, I recommend you do some related tutorials or quick starts on the [[Snowflake]] website or read through the Snowflake docs.
 >
 > **[3:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=223)** But I do want to cover one more thing, and that's how to take the work you've done and write it back to your database and schema as a table.
 >
@@ -4446,7 +4412,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=273)** To recap, here's what we learned across our two Snowpark DataFrame videos.
 >
-> **[4:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=279)** One, Snowflake provides DataFrame APIs called Snowpark DataFrames that you can use to do transformations in Python, Java, and Scala.
+> **[4:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=279)** One, Snowflake provides DataFrame APIs called Snowpark DataFrames that you can use to do transformations in Python, [[Java]], and [[Scala]].
 >
 > **[4:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-dataframes-part-ii?u=76281980&t=288)** Two, Python worksheets come pre-installed with Snowpark, so they're an easy way to start learning Snowpark DataFrames.
 >
@@ -4476,7 +4442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (4), database (4), data (4), [[Snowflake]] (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (4), [[Snowflake]] (3), [[Java]] (1), [[Scala]] (1)
 > **Env Vars:** select (3), truck_brand_name (3), menu_item_name (3), item_category (3), test_database (2)
 > **Code Identifiers:** df_table (4), save_as_table (3), group_by (1)
 > **File Paths:** session.sql (6)
@@ -4490,8 +4456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980)
+#### [Snowflake CLI](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4503,9 +4468,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=17)** You know, sprinkle a little rm here and there.
 >
-> **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=20)** I certainly feel cool when I'm using the terminal to make Git commits or clone Git repos, and if I successfully use Git rebase, I feel like I'm basically the next Neo from "The Matrix."
+> **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=20)** I certainly feel cool when I'm using the terminal to make [[Git]] commits or clone Git repos, and if I successfully use Git rebase, I feel like I'm basically the next Neo from "The Matrix."
 >
-> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=29)** So with all of that said, I'm feeling very legit that we're about to use Snowflake's command line interface, which I'll refer to as the Snowflake CLI from here on out.
+> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=29)** So with all of that said, I'm feeling very legit that we're about to use [[Snowflake]]'s command line interface, which I'll refer to as the Snowflake [[CLI]] from here on out.
 >
 > **[0:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=38)** To find out why this is useful and what it lets you do, let's jump into our terminal.
 >
@@ -4535,7 +4500,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=117)** The cd stands for change directory, and it lets me hop to the right location for the file.
 >
-> **[2:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=122)** This will work on a Windows machine as well.
+> **[2:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=122)** This will work on a [[Windows]] machine as well.
 >
 > **[2:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=125)** Then I type ls, which stands for list to see all the files in that folder.
 >
@@ -4557,7 +4522,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=175)** Now let's move down to the commands below.
 >
-> **[2:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=178)** I see a bunch of possible commands: app, connection, objects, snowpark, spcs, sql, and streamlit.
+> **[2:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=178)** I see a bunch of possible commands: app, connection, objects, snowpark, spcs, [[SQL]], and streamlit.
 >
 > **[3:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=184)** And then next to each is a description of what that one can do.
 >
@@ -4601,7 +4566,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=265)** And remember, Snowflake objects are what we've spent a lot of this course learning about.
 >
-> **[4:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=269)** They're warehouses, stages, databases, schemas, et cetera.
+> **[4:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=269)** They're warehouses, stages, [[Databases]], schemas, et cetera.
 >
 > **[4:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=273)** So I think you get the point.
 >
@@ -4617,13 +4582,13 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=300)** But you can manage your Streamlit in Snowflake web apps here.
 >
-> **[5:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=303)** (graphic swoosh) Okay, so we've covered a lot of material and it's time to zoom out for a moment.
+> **[5:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=303)** (graphic swoosh) Okay, so we've covered a lot of material and it's time to [[Zoom]] out for a moment.
 >
 > **[5:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=309)** We've seen that the Snowflake CLI, lets you manage apps, connections, objects, Snowpark, SPCS, and Streamlit, and it lets you execute SQL queries.
 >
 > **[5:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=319)** But why would you want to do this through a CLI?
 >
-> **[5:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=323)** For one thing, having the Snowflake CLI tool makes it easy for you to version control your Snowflake projects.
+> **[5:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=323)** For one thing, having the Snowflake CLI tool makes it easy for you to [[Version Control]] your Snowflake projects.
 >
 > **[5:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980&t=329)** Another benefit is that having a command line tool lets you customize lots of aspects of your workflows, which matters a lot to some builders.
 >
@@ -4647,7 +4612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (25), [[CLI]] (16), next (5), cd (4), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (25), [[CLI]] (16), [[SQL]] (4), [[Git]] (3), [[Windows]] (1)
 > **Env Vars:** cli (15), sql (2), spcs (1)
 > **Tools:** command line (9), terminal (4), vim (4)
 > **CLI Commands:** cd (4), make (3), git (3), pip (2), rm (1)
@@ -4656,8 +4621,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **File Paths:** config.toml (1)
 
-#### Wrap-up of Snowflake feature overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980)
+#### [Wrap-up of Snowflake feature overview](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4665,7 +4629,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=1)** Wow, we just covered a lot of material.
 >
-> **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=4)** Pretty soon we'll be unstoppable Snowflake juggernauts.
+> **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=4)** Pretty soon we'll be unstoppable [[Snowflake]] juggernauts.
 >
 > **[0:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=8)** We learned about many Snowflake features as well as a few more Snowflake objects that we can add to the list of building blocks we picked up in the first module of the course.
 >
@@ -4681,7 +4645,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=43)** And temporary tables only persist as long as your session lasts.
 >
-> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=48)** We learned about cloning tables, schemas, and databases.
+> **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=48)** We learned about cloning tables, schemas, and [[Databases]].
 >
 > **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=51)** Specifically that cloning is zero copy and Snowflake tracks subsequent changes.
 >
@@ -4693,15 +4657,15 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=81)** We also learned that stored procedures aren't required to return a value.
 >
-> **[1:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=84)** But like UDFs, you can write their internals in multiple languages like Python, Java, JavaScript Scholar, or SQL.
+> **[1:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=84)** But like UDFs, you can write their internals in multiple languages like [[Python (Programming Language)|Python]], [[Java]], [[JavaScript]] Scholar, or [[SQL]].
 >
 > **[1:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=92)** We learned about how simple it is to work with role-based access control in Snowflake.
 >
 > **[1:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=96)** We learned how to download VS code and connect to Snowflake through the Snowflake VS Code extension.
 >
-> **[1:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=103)** We learned how to use Snowpark Dataframes for data manipulation.
+> **[1:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=103)** We learned how to use Snowpark Dataframes for [[Data Manipulation]].
 >
-> **[1:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=106)** We learned that the Snowflake CLI enables us to do lots of Snowflake work through our command line, including a bunch of kinds of work we haven't learned about yet.
+> **[1:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=106)** We learned that the Snowflake [[CLI]] enables us to do lots of Snowflake work through our command line, including a bunch of kinds of work we haven't learned about yet.
 >
 > **[1:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-snowflake-feature-overview?u=76281980&t=116)** I think you should be proud.
 >
@@ -4717,7 +4681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), data (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[JavaScript]] (1)
 > **Tools:** vs code (2), command line (1)
 > **Env Vars:** sql (1), cli (1)
 > **CLI Commands:** python (1)
@@ -4730,8 +4694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to overview of builder workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980)
+#### [Intro to overview of builder workloads](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4741,7 +4704,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=14)** I think this is very exciting, both because you've come a long way.
 >
-> **[0:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=17)** I mean, you've learned about the Snowflake CLI, how cool are you?
+> **[0:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=17)** I mean, you've learned about the [[Snowflake]] [[CLI]], how cool are you?
 >
 > **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=20)** But also because you now know enough about the building blocks of Snowflake for us to get deeper into some of Snowflake's workloads.
 >
@@ -4753,9 +4716,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=48)** What does that mean?
 >
-> **[0:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=49)** You could think of Snowflake's platform as being made up of functionality that supports a bunch of different workloads, including applications, collaboration, data engineering, data lake, Unistore, which are are hybrid tables, so they're part transactional, part analytical.
+> **[0:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=49)** You could think of Snowflake's platform as being made up of functionality that supports a bunch of different workloads, including applications, collaboration, [[Data Engineering]], data lake, Unistore, which are are hybrid tables, so they're part transactional, part analytical.
 >
-> **[1:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=65)** AI/ML, data warehouse and cybersecurity.
+> **[1:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=65)** AI/ML, data warehouse and [[Cybersecurity]].
 >
 > **[1:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=69)** So when we take a workload specific approach, we focus on buckets of related features and tackle each bucket in turn.
 >
@@ -4811,15 +4774,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (16), data (10), ai (5), [[Data Engineering]] (4), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (16), [[Data Engineering]] (4), [[Cybersecurity]] (2), [[CLI]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** llm (2), cli (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Speakers:** - hooray (1)
 
-#### Snowflake data engineering overview: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980)
+#### [Snowflake data engineering overview: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4831,7 +4793,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=18)** I don't drink alcohol, but if I did and a data engineer were sitting right here next to me, I would raise my glass to that data engineer and say, "Data engineer, I dedicate this video to you."
 >
-> **[0:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=27)** So, it's with a great deal of respect that I now cover how Snowflake supports data engineering workloads.
+> **[0:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=27)** So, it's with a great deal of respect that I now cover how [[Snowflake]] supports [[Data Engineering]] workloads.
 >
 > **[0:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=32)** You might recall that in the video on Snowpark DataFrames, we talked very briefly about the ITD framework where the I, T, and D stand for ingestion, transformation and delivery.
 >
@@ -4905,7 +4867,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=210)** An important thing to know here, and something that confused me for a while is that there are a few different flavors of Snowpipe at Snowflake.
 >
-> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=217)** There's the Snowpipe streaming API, which you can access through the Java SDK, and there's regular Snowpipe.
+> **[3:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=217)** There's the Snowpipe streaming API, which you can access through the [[Java]] SDK, and there's regular Snowpipe.
 >
 > **[3:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=224)** We'll get into the details of regular Snowpipe in the next video, but we won't cover the Snowpipe streaming API in this course.
 >
@@ -4913,9 +4875,9 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=235)** Snowflake provides lots of ways to connect through other systems.
 >
-> **[3:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=238)** Through interfaces like Python, ODBC, SQLAlchemy.
+> **[3:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=238)** Through interfaces like [[Python (Programming Language)|Python]], ODBC, SQLAlchemy.
 >
-> **[4:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=242)** Snowflake also has native connectors to connect to ServiceNow and to pull raw or aggregated Google Analytics data, for example.
+> **[4:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=242)** Snowflake also has native connectors to connect to ServiceNow and to pull raw or aggregated [[Google]] Analytics data, for example.
 >
 > **[4:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=249)** If this is confusing to you, you don't know what ODBC is say?
 >
@@ -4923,7 +4885,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=255)** This is not the focus of this course, but I wanted to mention that these exist.
 >
-> **[4:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=259)** And finally, there's a whole world of data sharing that Snowflake supports.
+> **[4:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=259)** And finally, there's a whole world of [[Data Sharing]] that Snowflake supports.
 >
 > **[4:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=263)** You can share data from your account in a zero copy way, meaning they can access the data you've shared in a read-only fashion directly from the source, both in the Snowflake Data Marketplace and through direct shares.
 >
@@ -4943,7 +4905,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=314)** And down below is an example of creating a database from a share that another count has created.
 >
-> **[5:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=321)** So, we talked about some of the ways the Snowflake platform lets you do data ingestion.
+> **[5:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=321)** So, we talked about some of the ways the Snowflake platform lets you do [[Data Ingestion]].
 >
 > **[5:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-i?u=76281980&t=325)** And coming up, we'll cover transformation, orchestration, and observability.
 >
@@ -4953,7 +4915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Snowflake]] (15), next (3), [[Data Engineering]] (3), [[Orchestration]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[Java]] (1), [[Google]] (1)
 > **Env Vars:** copy (2), api (2), odbc (2), itd (1), sdk (1)
 > **Definitions:** refers to (4), means that (2), is an  (2)
 > **CLI Commands:** make (2), python (2)
@@ -4962,12 +4924,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Snowflake data engineering overview: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980)
+#### [Snowflake data engineering overview: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=0)** - In continuing our discussion about Snowflake data engineering, we're now going to cover data transformation, orchestration and observability.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=0)** - In continuing our discussion about [[Snowflake]] [[Data Engineering]], we're now going to cover [[Data Transformation]], orchestration and observability.
 >
 > **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=9)** First, let's talk about data transformation.
 >
@@ -4977,7 +4938,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=20)** We've also covered UDFs and UDTFs as well as stored procedures, which are useful tools as you try to convert your data from a raw state into a more usable final form.
 >
-> **[0:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=31)** And of course, SQL is a powerful tool for data transformation.
+> **[0:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=31)** And of course, [[SQL]] is a powerful tool for data transformation.
 >
 > **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=34)** It is a ton of built-in functions, and I want to include it here just so we don't overlook one of the most critical tools of them all just because it's so familiar to us.
 >
@@ -4989,7 +4950,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=69)** And crucially, dynamic tables can handle much more complex transformations with automated orchestration.
 >
-> **[1:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=75)** It only recently came together in my head that dynamic tables pair really well with streaming ingestion methods like Snowpipe because you can get really fast refresh rates for your data ingestion and really fast refresh rates for your downstream tables that depend on that data.
+> **[1:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=75)** It only recently came together in my head that dynamic tables pair really well with streaming ingestion methods like Snowpipe because you can get really fast refresh rates for your [[Data Ingestion]] and really fast refresh rates for your downstream tables that depend on that data.
 >
 > **[1:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=90)** And everything happens without your needing to set up and maintain a lot of other orchestration.
 >
@@ -5031,7 +4992,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=212)** So you can have a task that checks every once in a while for updates to another table by looking at the stream for that table, and then it can insert those newly updated rows into a downstream table or do something else with them.
 >
-> **[3:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=224)** A great structure for efficient incremental data processing.
+> **[3:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=224)** A great structure for efficient incremental [[Data Processing]].
 >
 > **[3:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=228)** Here's some code snippets that might make this more concrete.
 >
@@ -5063,7 +5024,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=295)** Snowflake also has logging functionality.
 >
-> **[4:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=298)** One convenient way to store and access logging is through Snowflake event tables, which lets you record messages like warnings or errors that are generated from UDFs stored procedures, et cetera, written in any one of multiple languages, Java, Python.
+> **[4:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=298)** One convenient way to store and access logging is through Snowflake event tables, which lets you record messages like warnings or errors that are generated from UDFs stored procedures, et cetera, written in any one of multiple languages, [[Java]], [[Python (Programming Language)|Python]].
 >
 > **[5:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=311)** Similarly, you can use event tables to store trace events, which can hold really flexible event types.
 >
@@ -5087,7 +5048,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=369)** I don't expect you to have internalized what we just discussed, but I'm hoping that you'll come away from this topic with a few high level takeaways.
 >
-> **[6:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=377)** First, Snowflake provides you with ways to handle ingestion, transformation, orchestration, and observability; second, Snowflake's platform natively supports both batch and streaming ingestion, and several of the major ingestion methods are Snowpipe auto ingest, copy, standard Snowpipe, Snowflake native connectors, and data shares; third, Snowflake lets you transform data with dynamic tables, Snowpark dataframes, stored procedures, UDFs and UDTFs, and SQL functions; fourth, Snowflake lets you do data orchestration with streams and tasks; fifth, Snowflake helps you monitor your data pipelines with alerts and notifications, logging and tracing with event tables and the task DAG.
+> **[6:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=377)** First, Snowflake provides you with ways to handle ingestion, transformation, orchestration, and observability; second, Snowflake's platform natively supports both batch and streaming ingestion, and several of the major ingestion methods are Snowpipe auto ingest, copy, standard Snowpipe, Snowflake native connectors, and data shares; third, Snowflake lets you transform data with dynamic tables, Snowpark dataframes, stored procedures, UDFs and UDTFs, and SQL functions; fourth, Snowflake lets you do data orchestration with streams and tasks; fifth, Snowflake helps you monitor your [[Data Pipelines]] with alerts and notifications, logging and tracing with event tables and the task DAG.
 >
 > **[7:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-data-engineering-overview-part-ii?u=76281980&t=422)** Now that we've done that whirlwind, high level overview, let's put our feet back on the ground and see what it takes to set up a standard Snowpipe to ingest some data.
 >
@@ -5095,7 +5056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (16), data (10), [[Orchestration]] (8), [[SQL]] (4), [[Data Transformation]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (16), [[SQL]] (4), [[Data Transformation]] (3), [[Data Engineering]] (1), [[Data Ingestion]] (1)
 > **Env Vars:** sql (4), create (3), dag (3), udf (2), procedure (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** earlier in (2)
@@ -5109,8 +5070,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowpipe: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980)
+#### [Snowpipe: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5126,7 +5086,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=21)** We're going to start all of this off in AWS because if we don't have data to ingest, then Snowpipe is not very interesting.
 >
-> **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=28)** And I'm picking AWS just because loss of people are familiar with S3, but I should note that this works with Cloud Storage, and GCP, and Azure as well.
+> **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=28)** And I'm picking AWS just because loss of people are familiar with S3, but I should note that this works with [[Cloud Storage]], and GCP, and [[Microsoft Azure|Azure]] as well.
 >
 > **[0:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=38)** For a long time, I was intimidated by the idea of logging directly into the AWS console.
 >
@@ -5136,7 +5096,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=63)** (air whooshing) So here's what I've already done.
 >
-> **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=66)** I've already created an S3 bucket called intro-to-snowflake-snowpipe, and I've put one file in that bucket called food.csv.
+> **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=66)** I've already created an S3 bucket called intro-to-[[Snowflake]]-snowpipe, and I've put one file in that bucket called food.csv.
 >
 > **[1:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=75)** It's just got two columns: one that lists a food name and the other that lists a tastiness score.
 >
@@ -5194,7 +5154,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=255)** It's because in my experience, the most challenging part of getting Snowpipe setup so you can ingest data is making sure you have the right permissions for it to access your external data.
 >
-> **[4:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=266)** The rest is pretty easy.
+> **[4:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=266)** The [[Representational State Transfer (REST)|rest]] is pretty easy.
 >
 > **[4:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980&t=267)** And a lot of that connecting has to be done through the console of your web provider, in this case AWS.
 >
@@ -5280,7 +5240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[Snowflake]] (20), data (5), next (3), cloud (2)
+> **Frameworks & Libraries:** [[Snowflake]] (20), [[Cloud Storage]] (1), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (22), iam (8), arn (7), gcp (1)
 > **CLI Commands:** aws (22), make (4), find (3)
 > **Code Identifiers:** listbucket (3), getbucketlocation (2), snowflake_access (2), describe_integration (2), snowflake_role_snowpipe (1)
@@ -5289,12 +5249,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1), stands for (1)
 
-#### Snowpipe: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980)
+#### [Snowpipe: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=0)** - We've learned how to create an access policy in AWS, how to create a role associated with that policy, how to create an integration in Snowflake and make it aware of our AWS role, and how to edit the AWS role to make it aware of our Snowflake integration.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=0)** - We've learned how to create an access policy in AWS, how to create a role associated with that policy, how to create an integration in [[Snowflake]] and make it aware of our AWS role, and how to edit the AWS role to make it aware of our Snowflake integration.
 >
 > **[0:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=19)** In this video, we'll actually create a Snow Pipe and see it in action.
 >
@@ -5366,9 +5325,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=177)** This style of syntax should look very familiar at this point.
 >
-> **[3:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=181)** Just like we create functions and databases and tables with create plus the object name, we create our pipe with create pipe.
+> **[3:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=181)** Just like we create functions and [[Databases]] and tables with create plus the object name, we create our pipe with create pipe.
 >
-> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=189)** And because we specified auto ingest equals true, we don't have to manually specify any other method for ingestion, like calling rest API, et cetera.
+> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=189)** And because we specified auto ingest equals true, we don't have to manually specify any other method for ingestion, like calling [[Representational State Transfer (REST)|rest]] API, et cetera.
 >
 > **[3:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=199)** So this is nice and easy.
 >
@@ -5420,7 +5379,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=345)** Here's what I hope you did take away.
 >
-> **[5:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=347)** One, in order to use Snow Pipe with cloud storage, you need to create a Snowflake integration object.
+> **[5:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=347)** One, in order to use Snow Pipe with [[Cloud Storage]], you need to create a Snowflake integration object.
 >
 > **[5:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=354)** Two, in order to make the integration object work, you need to give Snowflake the appropriate credentials to communicate with AWS and AWS the appropriate credentials to communicate with Snowflake.
 >
@@ -5432,19 +5391,19 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=394)** Six, you can show all of your pipes with show pipes.
 >
-> **[6:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=397)** Seven, you can get metadata about a given pipe with describe pipe followed by the name of the pipe.
+> **[6:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=397)** Seven, you can get [[Metadata]] about a given pipe with describe pipe followed by the name of the pipe.
 >
 > **[6:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=403)** Eight, you can drop a pipe with drop pipe followed by the name of the pipe.
 >
 > **[6:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=407)** Awesome, that's a lot.
 >
-> **[6:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=409)** If you're wildly confused, you should definitely take some of our Snowflake coursework on data engineering.
+> **[6:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=409)** If you're wildly confused, you should definitely take some of our Snowflake coursework on [[Data Engineering]].
 >
 > **[6:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-ii?u=76281980&t=414)** And if you're like, I've got this, and want to move your skills to the next level, you should still take some of our Snowflake coursework on data engineering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), aws (7), database (7), data (6), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Cloud Storage]] (2), [[Data Engineering]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (7), csv (3), url (2), api (1)
 > **CLI Commands:** aws (7), make (4)
 > **File Paths:** food.csv (3)
@@ -5458,12 +5417,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake genAI overview: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980)
+#### [Snowflake genAI overview: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=0)** - Snowflake embraces simplicity.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=0)** - [[Snowflake]] embraces simplicity.
 >
 > **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=3)** It's one of the major reasons I was excited to become an employee and I haven't been disappointed.
 >
@@ -5477,7 +5435,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=35)** So instead of looking at GenAI at Snowflake with a use case-based lens, we're going to look at GenAI on a spectrum from, you can deploy this in seconds to, you can deploy this in hours or days if what you're doing demands that kind of care.
 >
-> **[0:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=50)** I should note, I'm going to use the words AI and generative AI, GenAI, interchangeably because most of the Snowflake AI efforts we'll talk about here fit under the GenAI bucket.
+> **[0:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=50)** I should note, I'm going to use the words AI and [[Generative AI]], GenAI, interchangeably because most of the Snowflake AI efforts we'll talk about here fit under the GenAI bucket.
 >
 > **[1:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=62)** Though I recognize this is a bit sloppy.
 >
@@ -5497,7 +5455,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=98)** Use AI in Seconds, Apps in Minutes, Fully Custom in Hours.
 >
-> **[1:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=103)** We can see that three features are listed at the top: Document AI, Universal Search, and Snowflake Copilot, and then next to that is Streamlet, under the Apps in Minutes heading.
+> **[1:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=103)** We can see that three features are listed at the top: Document AI, Universal Search, and Snowflake [[Microsoft Copilot|Copilot]], and then next to that is Streamlet, under the Apps in Minutes heading.
 >
 > **[1:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=114)** We'll talk about what's on the right in a moment, but for now, let's keep focusing on the left.
 >
@@ -5519,7 +5477,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=187)** Universal Search is the next item here.
 >
-> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=189)** It lets you use natural language to search for a bunch of things: database objects in your account, data products in the Snowflake Marketplace, relevant Snowflake docs and community knowledge base articles and more.
+> **[3:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=189)** It lets you use natural language to search for a bunch of things: database objects in your account, data [[Microsoft Products|products]] in the Snowflake Marketplace, relevant Snowflake docs and community knowledge base articles and more.
 >
 > **[3:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=203)** You access it via a search bar in Snowsight.
 >
@@ -5529,7 +5487,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=220)** Next is Snowflake Copilot.
 >
-> **[3:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=222)** It's LLM-powered and generates SQL from natural language queries.
+> **[3:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=222)** It's LLM-powered and generates [[SQL]] from natural language queries.
 >
 > **[3:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=227)** It's accessible via the Snowsight UI as a side panel where you can ask your questions.
 >
@@ -5549,7 +5507,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=283)** So now let's talk about Streamlit.
 >
-> **[4:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=285)** We'll get into this in much more detail later in the course, but for now, I'll just say that Streamlit is a really sleek way to take Python scripts and deploy them as data apps.
+> **[4:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=285)** We'll get into this in much more detail later in the course, but for now, I'll just say that Streamlit is a really sleek way to take [[Python (Programming Language)|Python]] scripts and deploy them as data apps.
 >
 > **[4:55](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=295)** Streamlit has an awesome open source community, and Snowflake has also built out a Streamlit in Snowflake experience that you can access from within the Snowflake UI.
 >
@@ -5585,7 +5543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (30), ai (13), data (11), [[Search]] (8), [[Microsoft Copilot|Copilot]] (6)
+> **Frameworks & Libraries:** [[Snowflake]] (30), [[Microsoft Copilot|Copilot]] (6), [[SQL]] (2), [[Generative AI]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (5), sql (2), pdf (1), spcs (1)
 > **CLI Commands:** make (3), python (1)
 > **Cross-References:** later in (2)
@@ -5593,12 +5551,11 @@ created: 2026-05-02
 > **Speakers:** - snowflake (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Snowflake genAI overview: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980)
+#### [Snowflake genAI overview: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=0)** - Earlier we introduced Document AI, Universal Search, Snowflake Copilot, and Streamlet.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=0)** - Earlier we introduced Document AI, Universal Search, [[Snowflake]] [[Microsoft Copilot|Copilot]], and Streamlet.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=6)** We're going to pick up right where we left off by learning more about Snowflake Cortex.
 >
@@ -5608,7 +5565,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=22)** The Snowflake docs are more formal about it.
 >
-> **[0:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=24)** They say Snowflake Cortex is an intelligent, fully-managed service that offers machine learning and AI solutions to Snowflake users.
+> **[0:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=24)** They say Snowflake Cortex is an intelligent, fully-managed service that offers machine learning and [[AI Solutions]] to Snowflake users.
 >
 > **[0:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=32)** Here I want to focus specifically on the LLM functions that Snowflake Cortex provides.
 >
@@ -5620,9 +5577,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=61)** So there's a couple of things I want to call out about these LLM functions.
 >
-> **[1:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=65)** The first is that they take unstructured data, like text as an input.
+> **[1:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=65)** The first is that they take [[Unstructured Data]], like text as an input.
 >
-> **[1:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=69)** The second is that you can call them directly within your SQL workloads.
+> **[1:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=69)** The second is that you can call them directly within your [[SQL]] workloads.
 >
 > **[1:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=74)** You don't have to train a model, load it to a stage, et cetera.
 >
@@ -5714,7 +5671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (17), llm (12), ai (10), [[SQL]] (4), data (3)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[SQL]] (4), [[Microsoft Copilot|Copilot]] (2), [[Unstructured Data]] (2), [[AI Solutions]] (1)
 > **Env Vars:** llm (12), sql (4), summarize (2), sentiment (2), extract_answer (2)
 > **Cross-References:** in the next (2), we discussed (1)
 > **CLI Commands:** make (2)
@@ -5728,14 +5685,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake Cortex LLM functions: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980)
+#### [Snowflake Cortex LLM functions: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=0)** - Okay, so I'm really excited about this.
 >
-> **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=3)** We get to actually use a Snowflake Cortex LLM Function.
+> **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=3)** We get to actually use a [[Snowflake]] Cortex LLM Function.
 >
 > **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=7)** Woo woo!
 >
@@ -5793,7 +5749,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=131)** Now an important thing to know about LLMs is that under the hood, they're not exactly structured in the language you're feeding into them.
 >
-> **[2:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=138)** Instead, they convert your input into something called tokens and they work with those tokens and then they output tokens and convert them back to your original language.
+> **[2:18](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=138)** Instead, they convert your input into something called [[Tokens]] and they work with those tokens and then they output tokens and convert them back to your original language.
 >
 > **[2:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=146)** Now, you don't have to understand much about tokens to work with Snowflake Cortex LLM functions, but I wanted to mention it because when you read through function documentation, you'll see references to tokens.
 >
@@ -5807,7 +5763,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=177)** So earlier we used mistral 7b, but we could have picked from a bunch of models if we'd wanted to.
 >
-> **[3:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=183)** Each supported by Snowflake out of the box; mistral large, llama two 70B-chat, et cetera.
+> **[3:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=183)** Each supported by Snowflake out of the box; mistral large, [[LLaMA]] two 70B-chat, et cetera.
 >
 > **[3:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980&t=190)** Okay, so another important thing to know is that since this is working inside a select statement, it's easy to feed in a bunch of different prompts into Complete row wise and get a table of results all at once.
 >
@@ -5851,7 +5807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (15), llm (10), prompt (5), [[Tokens]] (5), data (1)
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[Tokens]] (5), [[LLaMA]] (1)
 > **Env Vars:** llm (10), snowflake (4), cortex (4), select (3), complete (3)
 > **SQL:** select (3)
 > **Cross-References:** we covered (1), in the last (1), coming up (1)
@@ -5860,12 +5816,11 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Snowflake Cortex LLM functions: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980)
+#### [Snowflake Cortex LLM functions: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=0)** - We just learned how to use Snowflake Cortex COMPLETE inside a select statement.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=0)** - We just learned how to use [[Snowflake]] Cortex COMPLETE inside a select statement.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=6)** Now we're going to cover how you can give the model context when you call COMPLETE, specifically, how you can feed in the past history of your prompts and the responses you got.
 >
@@ -5945,7 +5900,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=174)** The infrastructure is there for you.
 >
-> **[2:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=176)** But I love what we covered here because LLM functions lets you use LLMs in your normal SQL workflows, and they're all ready to go.
+> **[2:56](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=176)** But I love what we covered here because LLM functions lets you use LLMs in your normal [[SQL]] workflows, and they're all ready to go.
 >
 > **[3:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=185)** You don't have to find a model, load it, manage it, or anything like that.
 >
@@ -5955,7 +5910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), prompt (5), llm (4), ai (2), generic (1)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[SQL]] (1)
 > **Env Vars:** complete (12), llm (4), sql (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (1)
@@ -5967,8 +5922,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake ML overview: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980)
+#### [Snowflake ML overview: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5980,7 +5934,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=13)** That's what I want this to feel like.
 >
-> **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=14)** But instead of flying over the countryside, we're flying over the machine learning landscape at Snowflake, you gaze down and think, "Oh, look, what a beautiful set of ML functions.
+> **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=14)** But instead of flying over the countryside, we're flying over the machine learning landscape at [[Snowflake]], you gaze down and think, "Oh, look, what a beautiful set of ML functions.
 >
 > **[0:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=23)** Oh, look, what a charming model registry."
 >
@@ -6016,11 +5970,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=112)** Okay, so now let's really get started by digging into Snowflake Cortex ML functions.
 >
-> **[1:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=118)** So using Snowflake Cortex ML functions feels a lot like using the Snowflake Cortex LLM functions we've been talking about: translate, summarize, sentiment extract, and of course, complete, which you're now pretty familiar with, and you can use them all in SQL.
+> **[1:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=118)** So using Snowflake Cortex ML functions feels a lot like using the Snowflake Cortex LLM functions we've been talking about: translate, summarize, sentiment extract, and of course, complete, which you're now pretty familiar with, and you can use them all in [[SQL]].
 >
 > **[2:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=134)** But there are a few differences.
 >
-> **[2:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=136)** One is that under the hood, the models the ML functions rely on are machine learning models, not large language models.
+> **[2:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=136)** One is that under the hood, the models the ML functions rely on are machine learning models, not [[Large Language Models (LLM)|large language models]].
 >
 > **[2:23](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=143)** Another is that the LLMs underneath the LLM functions are all pre-trained, but for the ML functions, there's typically a step where you submit training data to them.
 >
@@ -6086,7 +6040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (20), llm (5), data (4), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (20), [[SQL]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (5), forecast (5), anomaly_detection (5), top_insights (4), classification (4)
 > **SQL:** select (3)
 > **Definitions:** is a  (3)
@@ -6095,12 +6049,11 @@ created: 2026-05-02
 > **CLI Commands:** node (1)
 > **Documentation:** the docs (1)
 
-#### Snowflake ML overview: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980)
+#### [Snowflake ML overview: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=0)** - We've talked about how you can do ML in seconds with the Snowflake Cortex ML functions.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=0)** - We've talked about how you can do ML in seconds with the [[Snowflake]] Cortex ML functions.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=6)** Now let's talk about how to do ML in minutes with Snowflake.
 >
@@ -6110,13 +6063,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=15)** Snowpark ML Modeling, the Snowflake Feature Store, and the Snowflake Model Registry all have APIs that are accessible from the unified Snowpark ML library.
 >
-> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=26)** You can access APIs for each of these three features by installing the Snowpark ML library in Python, and you can do this from your preferred notebook or IDE, including Snowflake notebooks, which we'll talk about in a second.
+> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=26)** You can access APIs for each of these three features by installing the Snowpark ML library in [[Python (Programming Language)|Python]], and you can do this from your preferred notebook or IDE, including Snowflake notebooks, which we'll talk about in a second.
 >
 > **[0:38](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=38)** A big part of Snowpark ML are the Snowpark ML modeling APIs, which are based on standard Python frameworks like scikit-learn and XGBoost.
 >
 > **[0:47](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=47)** You can see this code example on the side.
 >
-> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=51)** You can use Snowpark ML modeling APIs for pre-processing data, feature engineering, and training models inside Snowflake, which is great because that means you don't need to be moving data in and out of Snowflake to do ML.
+> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=51)** You can use Snowpark ML modeling APIs for pre-processing data, [[Feature Engineering]], and training models inside Snowflake, which is great because that means you don't need to be moving data in and out of Snowflake to do ML.
 >
 > **[1:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=63)** Another cool thing is that for common scikit-learn feature engineering and pre-processing functions or hyper parameter tuning in model training, Snowflake executes them in a distributed way.
 >
@@ -6138,13 +6091,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=129)** Let's talk about the Snowflake Model Registry.
 >
-> **[2:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=131)** The Snowflake Model Registry helps with model management, which is the ability to easily track versioned model artifacts and metadata.
+> **[2:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=131)** The Snowflake Model Registry helps with model management, which is the ability to easily track versioned model artifacts and [[Metadata]].
 >
 > **[2:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=139)** If you're training a bunch of models, it becomes really annoying to keep track of all the different versions.
 >
 > **[2:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=144)** So whether you use Snowflake Model Registry or something else, a model management tool is really helpful.
 >
-> **[2:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=151)** One thing I really like about the Snowflake Model Registry is that it lets you manage and execute models in Snowflake regardless of origin, so it can handle models built with the Snowpark modeling APIs, but also models built externally with tools from cloud providers like SageMaker, Azure ML, and Vertex AI, and even LLMs from Hugging Face.
+> **[2:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=151)** One thing I really like about the Snowflake Model Registry is that it lets you manage and execute models in Snowflake regardless of origin, so it can handle models built with the Snowpark modeling APIs, but also models built externally with tools from cloud providers like SageMaker, [[Microsoft Azure|Azure]] ML, and [[Vertex]] AI, and even LLMs from [[Hugging Face]].
 >
 > **[2:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=171)** In this example on the right, you can see that we're creating a scikit-learn model, training it, and then using registry.log_model to store it in the model registry.
 >
@@ -6162,7 +6115,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=221)** Now, let's talk about Snowflake notebooks.
 >
-> **[3:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=223)** A Snowflake notebook is a SQL, Python, and markdown cell-based development interface built into Snowsight, Snowflake's UI.
+> **[3:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=223)** A Snowflake notebook is a [[SQL]], Python, and markdown cell-based development interface built into Snowsight, Snowflake's UI.
 >
 > **[3:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=232)** If you used other notebooks before, Jupyter Notebooks, et cetera, this should feel familiar.
 >
@@ -6176,7 +6129,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=269)** We discussed Streamlit in our Gen AI overview, but I wanted to emphasize that it's also really useful in ML workflows.
 >
-> **[4:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=276)** With Streamlit in Snowflake, Python developers can turn data and ML models into interactive web apps without needing to do any front-end development.
+> **[4:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=276)** With Streamlit in Snowflake, Python developers can turn data and ML models into interactive web apps without needing to do any [[Front-End Development]].
 >
 > **[4:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=286)** With Streamlit in Snowflake, you can build apps using its component-rich, open source Python library.
 >
@@ -6192,7 +6145,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=326)** Snowpark Container Services lets you build custom ML models by letting you deploy, manage, and scale containerized workloads using Snowflake managed infrastructure.
 >
-> **[5:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=337)** These containers can include code in any programming language, for example, C or C++, Node.js, Python, R, React, et cetera, and can be executed using configurable hardware options, including CPUs and GPUs.
+> **[5:37](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=337)** These containers can include code in any programming language, for example, C or C++, [[Node.js]], Python, R, [[React.js|React]], et cetera, and can be executed using configurable [[Hardware]] options, including CPUs and GPUs.
 >
 > **[5:50](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=350)** So if you need to do some custom AIML work, Snowpark containers give you flexibility and save you the headache of having to manage, compute in clusters for containers.
 >
@@ -6202,7 +6155,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=370)** I hope you observed the following during our journey.
 >
-> **[6:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=373)** One, to do ML work very quickly, you can use Snowflake Cortex ML functions, forecasting, anomaly detection, et cetera.
+> **[6:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=373)** One, to do ML work very quickly, you can use Snowflake Cortex ML functions, [[Forecasting]], anomaly detection, et cetera.
 >
 > **[6:20](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=380)** Two, if your use case requires a little more care, you can use the Snowpark ML modeling APIs, which make it easy to use common Python ML frameworks from within Snowflake.
 >
@@ -6220,7 +6173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (36), data (10), [[Python (Programming Language)|Python]] (9), feature (8), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (36), [[Python (Programming Language)|Python]] (9), [[Feature Engineering]] (2), [[Metadata]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** python (9), make (5), node (1)
 > **Env Vars:** aiml (2), ide (1), sql (1)
 > **Cross-References:** next video (1), we discussed (1)
@@ -6234,8 +6187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowpark ML modeling: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980)
+#### [Snowpark ML modeling: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6265,7 +6217,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=51)** And luckily for you, we have 20 years of data you can look through to see if you can detect some patterns.
 >
-> **[0:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=57)** So you load that truck location history into Snowflake and you want to guess where your favorite food truck is going to be on any given day.
+> **[0:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=57)** So you load that truck location history into [[Snowflake]] and you want to guess where your favorite food truck is going to be on any given day.
 >
 > **[1:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=63)** You've heard that tree-based ML models are really good for making predictions.
 >
@@ -6275,7 +6227,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=86)** Okay, so here's how this will work.
 >
-> **[1:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=87)** I generated the data tracking this food truck's history of visits to different neighborhoods and I made the truck never deviate from a somewhat weird pattern.
+> **[1:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=87)** I generated the [[Data Tracking]] this food truck's history of visits to different neighborhoods and I made the truck never deviate from a somewhat weird pattern.
 >
 > **[1:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=95)** So first I'll show you how the food truck decides which neighborhood to visit, and then we'll see if we can use Snowpark ML to build a classification model that could predict the truck's next move.
 >
@@ -6329,7 +6281,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=234)** Notice that the import statement doesn't match the name of the package we PIP installed at the top.
 >
-> **[3:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=238)** Here, we're importing snowflake.snowpark, but we're only able to do this because we already PIP installed the Snowflake.snowpark Python package.
+> **[3:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=238)** Here, we're importing snowflake.snowpark, but we're only able to do this because we already PIP installed the Snowflake.snowpark [[Python (Programming Language)|Python]] package.
 >
 > **[4:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980&t=247)** Anyway, you'll notice that I also have this statement in there from credential import params.
 >
@@ -6395,7 +6347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Snowflake]] (11), next (3), cloud (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Data Tracking]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (3), make (2), python (1)
 > **Code Identifiers:** test_database (1), test_schema (1), df_clean (1), group_by (1)
 > **Env Vars:** pip (3), ide (1)
@@ -6404,8 +6356,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **File Paths:** credential.py (1)
 
-#### Snowpark ML modeling: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980)
+#### [Snowpark ML modeling: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6417,7 +6368,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=14)** Snowpark ML has a few parts to it, but we're going to focus here on Snowpark ML modeling.
 >
-> **[0:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=19)** If you look at the docs for Snowpark ML, you'll see that what it's actually doing is incorporating lots of the most important functions and methods for many of the most important open source Python ML libraries, likescikit-learn, XGBoost, and LightGBM, so that they're really easy to use in Snowflake.
+> **[0:19](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=19)** If you look at the docs for Snowpark ML, you'll see that what it's actually doing is incorporating lots of the most important functions and methods for many of the most important open source [[Python (Programming Language)|Python]] ML libraries, likescikit-learn, XGBoost, and LightGBM, so that they're really easy to use in [[Snowflake]].
 >
 > **[0:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=36)** One example of a way this is really helpful is that there are lots of moments where if you call one of these models in Snowflake, training that model happens in a distributed way automatically.
 >
@@ -6445,7 +6396,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=117)** The answer here would probably be yes, because neighborhood eight only appears in the second half of the year, but then it might try different cut points.
 >
-> **[2:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=125)** Do some neighborhoods come up more in the data in December than in the rest of the year?
+> **[2:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=125)** Do some neighborhoods come up more in the data in December than in the [[Representational State Transfer (REST)|rest]] of the year?
 >
 > **[2:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-ii?u=76281980&t=129)** And that will turn out to be a jackpot cut point because it will isolate neighborhood eight really cleanly.
 >
@@ -6511,7 +6462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Snowflake]] (4), [[Python (Programming Language)|Python]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** snowpark_df (4), withcolumn (2), input_cols (2), output_cols (2), snowpark_df_prepared (2)
 > **Env Vars:** neighboord2 (1), neighborhood2 (1), neighborhood (1)
 > **UI Navigation:** scroll up (2), go to (1)
@@ -6520,8 +6471,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), kind of like (1)
 > **Prerequisites:** set up (2)
 
-#### Snowpark ML modeling: Part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980)
+#### [Snowpark ML modeling: Part 3](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6539,7 +6489,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=45)** We'll set aside 10% of the data, so two of our 20 years worth of truck location data, for testing.
 >
-> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=51)** Great, now we'll use the write.mode.save_as_table method on the Snowpark data frame to save each of these as tables to our Snowflake instance.
+> **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=51)** Great, now we'll use the write.mode.save_as_table method on the Snowpark data frame to save each of these as tables to our [[Snowflake]] instance.
 >
 > **[1:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=60)** And if we go to Snow site, we'll see the tables pop up.
 >
@@ -6587,7 +6537,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=185)** We can buy an ice cream sandwich, or even better, multiple ice cream sandwiches every day.
 >
-> **[3:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=191)** Before I recap what we just covered, I want to note that we could have done this inside our SQL workflow using the Snowflake Cortex ML function classification.
+> **[3:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=191)** Before I recap what we just covered, I want to note that we could have done this inside our [[SQL]] workflow using the Snowflake Cortex ML function classification.
 >
 > **[3:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-iii?u=76281980&t=201)** But I wanted to do this using Snowpark ML since we've already covered Snowflake Cortex LLM functions and got a taste for how Snowflake Cortex's functions work.
 >
@@ -6621,7 +6571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (1), feature (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[SQL]] (1)
 > **Env Vars:** xgb (4), sql (1), llm (1)
 > **Code Identifiers:** save_as_table (2), input_cols (1), label_cols (1)
 > **CLI Commands:** make (1)
@@ -6635,8 +6585,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake applications overview: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980)
+#### [Snowflake applications overview: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6662,11 +6611,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=73)** The set of technologies is commonly referred to as the application stack.
 >
-> **[1:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=77)** So how and where exactly does Snowflake fit into this type of scenario where an application is built with a large and custom set of technologies?
+> **[1:17](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=77)** So how and where exactly does [[Snowflake]] fit into this type of scenario where an application is built with a large and custom set of technologies?
 >
 > **[1:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=85)** Snowflake supports several native programmatic interfaces, drivers, and connectors across many popular programming languages, which means it's easy to integrate Snowflake into a broader custom application stack.
 >
-> **[1:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=99)** For example, you can connect to Snowflake using the Snowflake Connector for Python, the Snowflake Node js driver, the PHP PDO driver for Snowflake, and more.
+> **[1:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=99)** For example, you can connect to Snowflake using the Snowflake Connector for [[Python (Programming Language)|Python]], the Snowflake Node js driver, the [[PHP]] PDO driver for Snowflake, and more.
 >
 > **[1:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=109)** This is not a comprehensive list I'm showing here, and if you have no idea what basically any of these are and you're feeling very lost and perhaps even a little overwhelmed, that's totally fine.
 >
@@ -6674,15 +6623,15 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=128)** If you were building an application with, say, a Python backend, you could use the Snowflake Connector for Python to power the application's backend logic.
 >
-> **[2:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=136)** The pattern for using these drivers and connectors is usually establish a connection to your snowflake instance using the driver or connector, execute SQL commands based on actions taken in the user interface.
+> **[2:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=136)** The pattern for using these drivers and connectors is usually establish a connection to your snowflake instance using the driver or connector, execute [[SQL]] commands based on actions taken in the user interface.
 >
-> **[2:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=147)** For example, manage databases, tables, schemas, managed compute resources, or run SQL queries using Select for Data Analysis or transformation.
+> **[2:27](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=147)** For example, manage [[Databases]], tables, schemas, managed compute resources, or run SQL queries using Select for Data Analysis or transformation.
 >
 > **[2:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=155)** You could extend this pattern to accommodate large, sophisticated applications where you tailor the SQL you execute, the backend logic, according to the interactions a user takes in the front end.
 >
 > **[2:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=166)** Snowflake also supports framework-specific connectors.
 >
-> **[2:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=169)** For example, there's the Django Snowflake Connector, which would be used if you were building a web application built with the Django web application framework.
+> **[2:49](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=169)** For example, there's the [[Django]] Snowflake Connector, which would be used if you were building a web application built with the Django web application framework.
 >
 > **[2:57](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=177)** Under the hood, the connector uses the Snowflake Connector for Python, but the Django Snowflake connector is tailored to work seamlessly with common Django application patterns.
 >
@@ -6694,7 +6643,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=214)** This means your application can be built for both workloads with even just a single database, Snowflake, and a single hybrid table if you really wanted to.
 >
-> **[3:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=222)** This helps you build scalable web applications that serve multiple use cases without needing to manage different backend technologies.
+> **[3:42](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=222)** This helps you build [[Scalable Web Applications]] that serve multiple use cases without needing to manage different backend technologies.
 >
 > **[3:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=228)** For example, one transactional database and one analytical database.
 >
@@ -6704,15 +6653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (18), application (12), [[Python (Programming Language)|Python]] (6), database (4), [[Django]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[Python (Programming Language)|Python]] (6), [[Django]] (4), [[SQL]] (3), [[PHP]] (1)
 > **CLI Commands:** python (6), node (1), php (1), make (1)
 > **Env Vars:** api (3), sql (3), php (1), pdo (1)
 > **Analogies:** for example (6)
 > **Speakers:** - we (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Snowflake applications overview: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980)
+#### [Snowflake applications overview: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6720,7 +6668,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=3)** We talked about app architecture concepts, especially frontend and backend.
 >
-> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=7)** We talked about Snowflake's drivers and connectors, we talked briefly about the Snowflake Python API, and we introduced hybrid tables, which support transactional workloads.
+> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=7)** We talked about [[Snowflake]]'s drivers and connectors, we talked briefly about the Snowflake [[Python (Programming Language)|Python]] API, and we introduced hybrid tables, which support transactional workloads.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=16)** In this video, we'll talk through some stylized app stacks that incorporates Snowflake to greater or lesser degrees.
 >
@@ -6740,21 +6688,21 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=66)** Here's one example.
 >
-> **[1:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=67)** If you have a JavaScript frontend like React, you could say, "You know what?
+> **[1:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=67)** If you have a [[JavaScript]] frontend like [[React.js|React]], you could say, "You know what?
 >
-> **[1:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=71)** This is a data-intensive app, and I really like Snowflake for its near unlimited scalability.
+> **[1:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=71)** This is a data-intensive app, and I really like Snowflake for its near unlimited [[Scalability]].
 >
 > **[1:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=75)** So when users interact with my app and their interaction data gets stored, I want that to be sent to Snowflake using a driver."
 >
-> **[1:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=82)** In this case, you'd probably use Node.js because you're already working in JavaScript.
+> **[1:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=82)** In this case, you'd probably use [[Node.js]] because you're already working in JavaScript.
 >
-> **[1:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=86)** In the next example, let's say you're a Python developer and you really like Django or open-source Streamlit.
+> **[1:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=86)** In the next example, let's say you're a Python developer and you really like [[Django]] or open-source Streamlit.
 >
 > **[1:32](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=92)** You could create your frontend using one of those.
 >
 > **[1:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=94)** And then you could say, "Connect to Snowflake using the Snowflake Connector for Python.
 >
-> **[1:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=99)** Execute some SQL using the connector right to a hybrid table, and also use the Python API to manage Snowpark Container Services and maybe tasks associated with that service all on Python."
+> **[1:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=99)** Execute some [[SQL]] using the connector right to a hybrid table, and also use the Python API to manage Snowpark Container Services and maybe tasks associated with that service all on Python."
 >
 > **[1:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=111)** Okay, so we've talked about how you could create an app built on Snowflake if you wanted to treat Snowflake as the backend.
 >
@@ -6764,7 +6712,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=128)** Maybe you have security or regulatory concerns.
 >
-> **[2:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=130)** Maybe you have less experience with traditional web development and you really like to shorten your time to market.
+> **[2:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=130)** Maybe you have less experience with traditional [[Web Development]] and you really like to shorten your time to market.
 >
 > **[2:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=135)** Maybe you care about scalability, high availability, or the reduced operational burden of working with Snowflake.
 >
@@ -6810,9 +6758,9 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=248)** We introduced the notion of an application, we introduced app architecture concepts, especially frontend and backend.
 >
-> **[4:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=255)** We introduced Snowflake's drivers and connectors, like the Snowflake JDBC Driver, the Snowflake Connector for Python, the Go Snowflake Driver.
+> **[4:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=255)** We introduced Snowflake's drivers and connectors, like the Snowflake [[Java Database Connectivity (JDBC)|JDBC]] Driver, the Snowflake Connector for Python, the Go Snowflake Driver.
 >
-> **[4:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=262)** We introduced the Python API, which lets you manipulate Snowflake objects, like databases, schemas, tables, warehouses, tasks, all from Python.
+> **[4:22](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=262)** We introduced the Python API, which lets you manipulate Snowflake objects, like [[Databases]], schemas, tables, warehouses, tasks, all from Python.
 >
 > **[4:30](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=270)** We introduced hybrid tables, which can support transactional workloads, but are still useful for analytics.
 >
@@ -6824,7 +6772,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=300)** We went through this at whirlwind speed, but I'm hoping it was still helpful no matter your background.
 >
-> **[5:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=305)** If this is the first time you've ever heard the word app, I'm hoping you have a slightly better sense of what that might mean and how Snowflake could be a part of your app architecture.
+> **[5:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=305)** If this is the first time you've ever heard the [[Microsoft Word|word]] app, I'm hoping you have a slightly better sense of what that might mean and how Snowflake could be a part of your app architecture.
 >
 > **[5:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-ii?u=76281980&t=312)** And if you're an experienced app developer, I'm hoping you have a better sense of what's possible with Snowflake.
 >
@@ -6842,7 +6790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (53), [[Python (Programming Language)|Python]] (11), application (10), data (6), api (4)
+> **Frameworks & Libraries:** [[Snowflake]] (53), [[Python (Programming Language)|Python]] (11), [[JavaScript]] (2), [[React.js|React]] (2), [[Scalability]] (2)
 > **CLI Commands:** python (11), make (2), node (1)
 > **Env Vars:** api (4), sql (2), jdbc (1)
 > **Cross-References:** we talked about (2), in the next (1), we covered (1)
@@ -6856,12 +6804,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streamlit in Snowflake: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980)
+#### [Streamlit in Snowflake: Part 1](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=0)** - At Snowflake, we have a photography Slack channel, where Snowflake employees share beautiful photographs they've taken.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=0)** - At [[Snowflake]], we have a photography [[Slack]] channel, where Snowflake employees share beautiful photographs they've taken.
 >
 > **[0:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=6)** Most of them are of landscapes or wildlife, some of architecture.
 >
@@ -6889,7 +6836,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=91)** While this is loading, let me tell you a bit about Streamlit.
 >
-> **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=93)** It's an open-source framework that lets you create dynamic data applications with just a few lines of Python code.
+> **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=93)** It's an open-source framework that lets you create dynamic data applications with just a few lines of [[Python (Programming Language)|Python]] code.
 >
 > **[1:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=99)** Okay, that's done.
 >
@@ -6899,11 +6846,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=108)** Streamlit is available natively within Snowflake's Snowsight UI.
 >
-> **[1:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=111)** We call this Streamlit in Snowflake and it lets you easily connect to any dataset you already have access to within your warehouse and deploy securely to the rest of your organization in one click.
+> **[1:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=111)** We call this Streamlit in Snowflake and it lets you easily connect to any dataset you already have access to within your warehouse and deploy securely to the [[Representational State Transfer (REST)|rest]] of your organization in one click.
 >
-> **[2:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=122)** Now, what's most impressive to me about Streamlit isn't that the final products are beautiful, there are lots of sleek apps in the world, but how easy they are to make.
+> **[2:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=122)** Now, what's most impressive to me about Streamlit isn't that the final [[Microsoft Products|products]] are beautiful, there are lots of sleek apps in the world, but how easy they are to make.
 >
-> **[2:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=130)** You don't have to go to a coding bootcamp and learn React to make an app this crisp.
+> **[2:10](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=130)** You don't have to go to a coding bootcamp and learn [[React.js|React]] to make an app this crisp.
 >
 > **[2:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=134)** You can do it with a simple Python script.
 >
@@ -6935,7 +6882,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=215)** If we hover over the line chart, we can see the total sum of the orders for that day.
 >
-> **[3:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=219)** We can also toggle the chart to see the raw data instead, so total order amounts per day, or we can see the SQL query that's providing this data.
+> **[3:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=219)** We can also toggle the chart to see the raw data instead, so total order amounts per day, or we can see the [[SQL]] query that's providing this data.
 >
 > **[3:48](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980&t=228)** You'll also notice that we can add in other cities through the city dropdown.
 >
@@ -6977,7 +6924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), data (6), [[Slack]] (3), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[Slack]] (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (9), python (2)
 > **UI Navigation:** click on (5), go to (2), dropdown (2), scroll up (1), toggle (1)
 > **Analogies:** picture (3), for example (1)
@@ -6986,14 +6933,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), we call this (1), is an  (1)
 > **Code Identifiers:** get_active_session (1)
 
-#### Streamlit in Snowflake: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980)
+#### [Streamlit in Snowflake: Part 2](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=0)** - We left off just when things were starting to get interesting.
 >
-> **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=3)** We were about to define the two functions that run the SQL queries to pull the data we need.
+> **[0:03](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=3)** We were about to define the two functions that run the [[SQL]] queries to pull the data we need.
 >
 > **[0:08](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=8)** Let's talk about that now.
 >
@@ -7003,7 +6949,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=28)** You can see city names, start year, and end year inside the curly brackets.
 >
-> **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=34)** Then it converts the result to pandas and returns that plus the text of the SQL query that you use to generate that data.
+> **[0:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=34)** Then it converts the result to [[Pandas (Software)|pandas]] and returns that plus the text of the SQL query that you use to generate that data.
 >
 > **[0:41](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=41)** The next function get unique cities is much simpler.
 >
@@ -7061,7 +7007,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=187)** And then we assign content to each tab, the Altair chart, the data frame, and the formatted SQL.
 >
-> **[3:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=195)** So I don't expect you to absorb all or even much of that, but I want to pause for a moment to reflect on the fact that in fewer than 100 lines of Python, including our import statements, we created this app.
+> **[3:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=195)** So I don't expect you to absorb all or even much of that, but I want to pause for a moment to reflect on the fact that in fewer than 100 lines of [[Python (Programming Language)|Python]], including our import statements, we created this app.
 >
 > **[3:28](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=208)** It has layouts that change dynamically if I narrow the window, it is a slider and a multi-select that the chart below dynamically takes as input to refresh.
 >
@@ -7079,7 +7025,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=233)** That Orders V view that we're querying has more than 690 million rows and we can generate these app results fast.
 >
-> **[4:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=242)** That's because the Streamlit code is integrated into Snowflake itself and Snowflake scales so well.
+> **[4:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=242)** That's because the Streamlit code is integrated into [[Snowflake]] itself and Snowflake scales so well.
 >
 > **[4:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-ii?u=76281980&t=247)** So cool.
 >
@@ -7107,7 +7053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (8), [[Snowflake]] (7), next (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Snowflake]] (7), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (8)
 > **UI Navigation:** dropdown (2), toggle (2)
 > **CLI Commands:** find (1), make (1), python (1)
@@ -7121,14 +7067,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980)
+#### [The data cloud](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980&t=0)** - Before we finish this module on builder workloads, I want to come back to an idea that we talked about in the very first video of the course, but I suspect might resonate more now than at the beginning.
 >
-> **[0:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980&t=12)** Here it is. Snowflake is the data cloud.
+> **[0:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980&t=12)** Here it is. [[Snowflake]] is the data cloud.
 >
 > **[0:16](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980&t=16)** If I had a mic, I'd drop it for effect.
 >
@@ -7218,7 +7163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Snowflake]] (9), cloud (9), teams (2), management (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (2)
 > **Cross-References:** we talked about (1)
@@ -7227,12 +7172,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - before (1)
 
-#### Wrap-up of overview of builder workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980)
+#### [Wrap-up of overview of builder workloads](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=0)** - If we just covered a massive amount of material, I'm a Snowflake employee, and it's my job to think about this every day, and even I end up thinking, "Wow, the Snowflake platform does a lot."
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=0)** - If we just covered a massive amount of material, I'm a [[Snowflake]] employee, and it's my job to think about this every day, and even I end up thinking, "Wow, the Snowflake platform does a lot."
 >
 > **[0:09](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=9)** If you're feeling overwhelmed, I hope you could take comfort as I do in the fact that no single one of these topics is super complicated.
 >
@@ -7240,7 +7184,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=25)** Okay, so here's a quick recap of what we covered.
 >
-> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=29)** At the beginning of the course, we learned about Snowflake's core objects and architecture, things like virtual warehouses, stages, basic ingestion databases, and more.
+> **[0:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=29)** At the beginning of the course, we learned about Snowflake's core objects and architecture, things like virtual warehouses, stages, basic ingestion [[Databases]], and more.
 >
 > **[0:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=39)** In the next part of our course, we learned about many Snowflake features and a few new objects as well.
 >
@@ -7248,7 +7192,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=52)** And in the series of videos we just completed, we ran through overviews of several builder workloads and tried out one feature from each of those workloads.
 >
-> **[1:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=62)** We talked about Snowflake's data engineering capabilities, and then tried out snowpipe.
+> **[1:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=62)** We talked about Snowflake's [[Data Engineering]] capabilities, and then tried out snowpipe.
 >
 > **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=66)** We talked about Snowflake's gen AI capabilities, and then tried out Snowflake cortex LLM functions.
 >
@@ -7272,7 +7216,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=135)** I don't think specialized roles will disappear, but I do believe in this builder vision, that as Snowflake becomes better and better at making one seamless set of tooling, distinct roles will find it easier and easier to build stuff against the same data that once would've been thought to be outside their domain.
 >
-> **[2:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=154)** I believe that it's only going to get easier for data engineers to incorporate ML into their pipelines and deploy the result as an app or for app developers to work further upstream and build out more of the data processing steps they're relying on for their data app or for data scientists to do more upstream pipeline work or simple app delivery.
+> **[2:34](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=154)** I believe that it's only going to get easier for data engineers to incorporate ML into their pipelines and deploy the result as an app or for app developers to work further upstream and build out more of the [[Data Processing]] steps they're relying on for their data app or for data scientists to do more upstream pipeline work or simple app delivery.
 >
 > **[2:53](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=173)** So I hope as you come out of this module that you feel not only ready and motivated to build something with Snowflake, but that you don't feel constrained to building just one type of thing.
 >
@@ -7286,7 +7230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (18), data (9), feature (3), [[Data Engineering]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[Data Engineering]] (2), [[Databases]] (1), [[Data Processing]] (1)
 > **Cross-References:** we talked about (5), we covered (2), in the next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1)
@@ -7295,8 +7239,7 @@ created: 2026-05-02
 > **Speakers:** - if (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980)
+#### [Course conclusion](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7306,7 +7249,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=4)** At the beginning of the course, I said that we had two main goals.
 >
-> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=7)** First, we wanted you to emerge from this course with a foundational mental map of what's possible with Snowflake.
+> **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=7)** First, we wanted you to emerge from this course with a foundational mental map of what's possible with [[Snowflake]].
 >
 > **[0:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=13)** Specifically, we wanted you to come away knowing four things.
 >
@@ -7316,7 +7259,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=21)** Three, fundamental Snowflake features, like time travel, user defined functions, et cetera, and how to use them.
 >
-> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=26)** And four, much of what Snowflake now lets you do with data engineering, applications, AI, and ML.
+> **[0:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=26)** And four, much of what Snowflake now lets you do with [[Data Engineering]], applications, AI, and ML.
 >
 > **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=33)** Second, we wanted you to come away equipped to take a bunch of other Snowflake coursework, if that was of interest to you.
 >
@@ -7356,7 +7299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (17), ai (3), [[Data Engineering]] (2), career (1), job description (1)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[Data Engineering]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)

@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980)
+#### [Defining social engineering](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980&t=7)** As a result, the black hat hackers seek to penetrate a softer target, the people in an organization by using social engineering.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980&t=17)** In this course, I'll explore another phase of ethical hacking, social engineering.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980&t=17)** In this course, I'll explore another phase of [[Ethical Hacking]], social engineering.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980&t=24)** I'll cover concepts such as how attackers visualize the victim.
 >
@@ -114,39 +113,37 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Ethical Hacking]] (2), [[Security]] (1), power (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [lisa (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=0)** - [Instructor] Ethical hacking social engineering is a basic course intended for IT security professionals, network administrators, students, teachers, or anyone with an interest in learning more about the social engineering phase of ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=0)** - [Instructor] [[Ethical Hacking]] social engineering is a basic course intended for IT security professionals, network administrators, students, teachers, or anyone with an interest in learning more about the social engineering phase of ethical hacking.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=18)** You'll see why it is important to test social engineering in an organization, as part of an overall security framework.
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=27)** Participants should have a basic understanding of security concepts, along with networking devices such as switches, routers, firewalls, and have an interest in the subject.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=40)** To better prepare and understand tools such as the Social Engineering Toolkit, participants should complete introduction to Kali Linux with Malcolm Shore.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=40)** To better prepare and understand tools such as the Social Engineering Toolkit, participants should complete introduction to [[Kali Linux]] with Malcolm Shore.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/what-you-should-know-14039178?u=76281980&t=51)** So that you can more easily follow along I've included a set of hyperlinks in the exercise files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), [[Security]] (3), [[Ethical Hacking]] (2), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Kali Linux]] (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-ethically?u=76281980&t=0)** - [Voiceover] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-ethically?u=76281980&t=0)** - [Voiceover] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-ethically?u=76281980&t=8)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [voiceover] (1)
 
 
@@ -166,8 +163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hacking the human
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980)
+#### [Hacking the human](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=56)** Cyber criminals use a variety of methods using human intervention, or technology, or sometimes a combination of both and include telephone, online or simple persuasion.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=69)** Social engineering tools include email, social media, webpages, phishing, and farming.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=69)** Social engineering tools include email, social media, webpages, [[Phishing]], and farming.
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=77)** And in most cases, there's some type of incentive that will prompt the victim to act.
 >
@@ -213,17 +209,16 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=153)** Organizations can thwart a social engineering attack many times by employing user education and strong spam filters to prevent deceiving emails from getting through to the employees.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=166)** Social engineering is one of the hardest threats to defend against and should be a part of every organization's ethical hacking exercise.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980&t=166)** Social engineering is one of the hardest threats to defend against and should be a part of every organization's [[Ethical Hacking]] exercise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (10), [[Security]] (1), management (1), [[Phishing]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
-#### Visualizing the victim
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980)
+#### [Visualizing the victim](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980&t=54)** Malicious actors also prey on our trusting nature.
 >
-> **[0:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980&t=58)** Most social engineers are extremely confident in their behavior, and if someone tells an individual that they're a certain person and appear genuine, there's a tendency to believe someone's word.
+> **[0:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980&t=58)** Most social engineers are extremely confident in their behavior, and if someone tells an individual that they're a certain person and appear genuine, there's a tendency to believe someone's [[Microsoft Word|word]].
 >
 > **[1:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/visualizing-the-victim?u=76281980&t=72)** In addition, social engineering works with some not-so-great qualities, such as someone taking shortcuts and cutting corners instead of validating someone's identity.
 >
@@ -283,15 +278,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), [[Microsoft Word|Word]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skills of a social engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980)
+#### [Skills of a social engineer](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +321,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980&t=106)** For example, being dressed up as a janitor and casually ask if they can empty the trash or clean the desk's surface.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980&t=113)** Many employees will say sure, and get out of the way, in order to get out of their office for a few minutes.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980&t=113)** Many employees will say sure, and get out of the way, in order to get out of their [[Microsoft Office|office]] for a few minutes.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/skills-of-a-social-engineer?u=76281980&t=120)** The social engineer may play the authority figure, or reference someone who gave them authority to act.
 >
@@ -359,14 +353,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Recognize an attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/recognize-an-attack?u=76281980)
+#### [Recognize an attack](https://www.linkedin.com/learning/ethical-hacking-social-engineering/recognize-an-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +455,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), node (2)
 > **Speakers:** - hi (4), - okay (4), - [voiceover] (3), - great (2), - hey (2)
 > **CLI Commands:** node (2), make (2)
 > **Warnings:** watch out (1)
@@ -472,8 +464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using charm, power, and influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980)
+#### [Using charm, power, and influence](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980&t=60)** She divorced her husband of 25 years 14 months ago and is now ready to dip her toe into the dating pool.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980&t=69)** With the help of her friend, she set up a profile on an online dating site and let the rest happen.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980&t=69)** With the help of her friend, she set up a profile on an online dating site and let the [[Representational State Transfer (REST)|rest]] happen.
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980&t=76)** Because she was very busy traveling and meeting suppliers, she really didn't spend much of the time on the site.
 >
@@ -585,7 +576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - oh (4), - [narrator] (3), - hey (3), - yeah (2), - that (2)
 > **Definitions:** is a  (4)
 > **Non-Speech:** (ominous music) (3), (alarm beeps) (1)
@@ -593,8 +584,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Prerequisites:** set up (1)
 
-#### Employing browsers for social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980)
+#### [Employing browsers for social engineering](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=10)** The technology that is the portal to the worldwide web to provide the bait and lure someone into revealing confidential information or download malware.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=22)** Even though users are aware of the ongoing security risk in browsers many still don't take steps to avoid the dangers.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=22)** Even though users are aware of the ongoing [[Security Risk]] in browsers many still don't take steps to avoid the dangers.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=31)** The best defense is to stay away from risky websites especially when endpoint protection warns you that the website has a bad reputation.
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=58)** There's Chromium which is open source and updates frequently.
 >
-> **[1:03](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=63)** Safari which is owned by Apple has many privacy settings and Microsoft Edge.
+> **[1:03](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=63)** Safari which is owned by Apple has many [[Privacy]] settings and [[Microsoft]] Edge.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=70)** This has improved as it's now Chromium based and updates frequently.
 >
@@ -638,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=116)** Firefox is quite secure.
 >
-> **[1:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=118)** It provides a lot of security features such as phishing protection, pop-up blocking and anti-fingerprint protection.
+> **[1:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=118)** It provides a lot of security features such as [[Phishing]] protection, pop-up blocking and anti-fingerprint protection.
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=128)** Whatever browser you use, you should use good security habits.
 >
@@ -660,7 +650,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=177)** It will prompt you to restart to update and then you're good to go.
 >
-> **[3:03](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=183)** Many people use Chrome on a desktop or laptop along with their Android devices.
+> **[3:03](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=183)** Many people use Chrome on a desktop or laptop along with their [[Android]] devices.
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/employing-browsers-for-social-engineering?u=76281980&t=188)** It's important to keep Chrome updated as well.
 >
@@ -682,15 +672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Privacy]] (4), [[Engineering]] (1), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Security Risk]] (1), [[Microsoft]] (1), [[Phishing]] (1), [[Android]] (1)
 > **Tools:** firefox (5), safari (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating add-ons and extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/evaluating-add-ons-and-extensions?u=76281980)
+#### [Evaluating add-ons and extensions](https://www.linkedin.com/learning/ethical-hacking-social-engineering/evaluating-add-ons-and-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,15 +723,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), web (1), product (1), [[Engineering]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Tools:** firefox (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploying mobile-based attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980)
+#### [Deploying mobile-based attacks](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +743,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=28)** Mobile internet is used on a number of different devices.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=32)** We see them on smartphones, iPads, car electronics, Kindles, gaming, and even home appliances.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=32)** We see them on smartphones, iPads, car [[Electronics]], Kindles, gaming, and even home appliances.
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=42)** Social engineers know that consumers are using mobile apps to access the internet on an average of four-and-a-half hours a day.
 >
@@ -786,11 +773,11 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=127)** Also, see if there's a healthy amount of downloads.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=131)** When banking, use only authorized apps supplied by your bank.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=131)** When [[Banking]], use only authorized apps supplied by your bank.
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=136)** Don't jailbreak your iPhone.
 >
-> **[2:18](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=138)** This removes the protective hardware restrictions and opens the operating system on Apple devices, leaving your phone vulnerable to numerous hacks.
+> **[2:18](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=138)** This removes the protective [[Hardware]] restrictions and opens the operating system on Apple devices, leaving your phone vulnerable to numerous hacks.
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-social-engineering/deploying-mobile-based-attacks?u=76281980&t=148)** Now, Apple tests iTunes' apps before release.
 >
@@ -816,15 +803,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Electronics]] (1), [[Search]] (1), [[Banking]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Banking]] (1), [[Hardware]] (1)
 > **Code Identifiers:** ipads (1), iphone (1), itunes (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating with social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980)
+#### [Manipulating with social media](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=148)** A single click can have serious consequences, such as enabling a webcam, downloading malware, or making their profile public.
 >
-> **[2:37](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=157)** A newer attack that leverages social media is angler phishing, whereby malicious actors pose as a legitimate company to lure individuals into providing sensitive information, or access malicious websites.
+> **[2:37](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=157)** A newer attack that leverages social media is angler [[Phishing]], whereby malicious actors pose as a legitimate company to lure individuals into providing sensitive information, or access malicious websites.
 >
 > **[2:53](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=173)** For example, we see a post here where someone needs to gain access to their account.
 >
@@ -888,7 +874,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=200)** Before responding to any customer service or support account, check to see if the account is verified and you should also call customer service directly, if that's possible.
 >
-> **[3:33](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=213)** Another attack that can be used on social media is a deepfake attack, which uses artificial intelligence to create a realistic video using someone else's image.
+> **[3:33](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=213)** Another attack that can be used on social media is a deepfake attack, which uses [[Artificial Intelligence (AI)|artificial intelligence]] to create a realistic video using someone else's image.
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=225)** Deepfake videos are difficult to distinguish from real ones and can be used to spread misinformation, defame an individual, or influence political or social events.
 >
@@ -900,7 +886,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=263)** Social media will most likely be with us for a long time.
 >
-> **[4:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=267)** To protect against social media attacks, individuals and organizations can use best practice techniques that include, educate users to use caution, employ strong spam filters and take advantage of the privacy settings that you can change in social media accounts.
+> **[4:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=267)** To protect against social media attacks, individuals and organizations can use best practice techniques that include, educate users to use caution, employ strong spam filters and take advantage of the [[Privacy]] settings that you can change in social media accounts.
 
 > [!info]- Semantic Content
 >
@@ -913,8 +899,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Prerequisites:** install (1)
 
-#### Disclosing private information
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980)
+#### [Disclosing private information](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=20)** Theoretically, someone could gather enough information to make an estimation of a social security number.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=27)** Algorithms have been written to estimate what someone's potential number would be.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=27)** [[Algorithms]] have been written to estimate what someone's potential number would be.
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=33)** Why? Well, the social security numbering scheme has three parts.
 >
@@ -976,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=162)** A large number of people are aware that cyber criminals target social networks.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=166)** However, only about half of the users take advantage of the methods the sites use to enact privacy settings and protect and limit how much and with whom they share the information.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=166)** However, only about half of the users take advantage of the methods the sites use to enact [[Privacy]] settings and protect and limit how much and with whom they share the information.
 >
 > **[2:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=178)** I'm on Facebook's website, and I will scroll down here to the bottom, and here we can see Privacy.
 >
@@ -984,7 +969,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=186)** I'll click here.
 >
-> **[3:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=188)** And here it talks a lot about data privacy, the policy, how are they using information.
+> **[3:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=188)** And here it talks a lot about [[Data Privacy]], the policy, how are they using information.
 >
 > **[3:15](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=195)** In addition, you'll want to take note as to the privacy policies on your own post to protect your information.
 >
@@ -1000,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Privacy]] (6), [[Algorithms]] (1), data (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Algorithms]] (1), [[Data Privacy]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** for example (2)
@@ -1008,8 +993,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Avoiding online dating scams
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/challenge-avoiding-online-dating-scams?u=76281980)
+#### [Challenge: Avoiding online dating scams](https://www.linkedin.com/learning/ethical-hacking-social-engineering/challenge-avoiding-online-dating-scams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,8 +1029,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Avoiding online dating scams
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/solution-avoiding-online-dating-scams?u=76281980)
+#### [Solution: Avoiding online dating scams](https://www.linkedin.com/learning/ethical-hacking-social-engineering/solution-avoiding-online-dating-scams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1089,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Analogies:** such as (1), picture (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -1120,8 +1102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Disgruntled employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disgruntled-employees?u=76281980)
+#### [Disgruntled employees](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disgruntled-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,13 +1182,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [voiceover] (4), - yeah (4), - hey (1), - wow (1), - hello (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 
-#### Steal an identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980)
+#### [Steal an identity](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=98)** Social engineers gather information from many sources.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=102)** A popular information gathering technique is using social media, such as Facebook, LinkedIn, or Twitter.
+> **[1:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=102)** A popular information gathering technique is using social media, such as Facebook, [[LinkedIn]], or Twitter.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=111)** Social media stores information and breadcrumbs about date and place of birth, where you've been, schools attended, and where you work.
 >
@@ -1271,7 +1250,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=196)** Although in some cases, you can ask for an introduction via third party, many times people will simply accept the invitation.
 >
-> **[3:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=206)** The best method to prevent Facebook cloning, is to make sure your privacy settings guard your personal details against anyone you don't know.
+> **[3:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=206)** The best method to prevent Facebook cloning, is to make sure your [[Privacy]] settings guard your personal details against anyone you don't know.
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=216)** If you find a cloned social media site, immediately report the bogus site.
 >
@@ -1281,7 +1260,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=242)** Any company involved in financial activity, such as banks, insurance companies, and credit card companies must send their customers privacy notices.
 >
-> **[4:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=252)** Companies share information so that they can market their products and services to you.
+> **[4:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=252)** Companies share information so that they can market their [[Microsoft Products|products]] and services to you.
 >
 > **[4:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=257)** Companies use privacy notices to let you know what personal financial information a company collects and what they do with this information.
 >
@@ -1309,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), [[Security]] (4), [[LinkedIn]] (1), [[Engineering]] (1), web (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (4)
 > **Warnings:** be aware (2), keep in mind (1)
@@ -1318,8 +1297,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Challenge: Monitoring your employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/challenge-monitoring-your-employees?u=76281980)
+#### [Challenge: Monitoring your employees](https://www.linkedin.com/learning/ethical-hacking-social-engineering/challenge-monitoring-your-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,8 +1325,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Monitoring your employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/solution-monitoring-your-employees?u=76281980)
+#### [Solution: Monitoring your employees](https://www.linkedin.com/learning/ethical-hacking-social-engineering/solution-monitoring-your-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,7 +1367,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), [[Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1399,12 +1375,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using email and websites in social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980)
+#### [Using email and websites in social engineering](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=0)** - [Presenter] Social engineering is at the root of many techniques, which can include phishing, popups and fake websites.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=0)** - [Presenter] Social engineering is at the root of many techniques, which can include [[Phishing]], popups and fake websites.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=8)** Phishing and pharming techniques send out massive emails.
 >
@@ -1450,7 +1425,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=121)** I used all the standards, and it sent me this code.
 >
-> **[2:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=127)** It provided easy installation instructions on how to embed this JavaScript in your page.
+> **[2:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=127)** It provided easy installation instructions on how to embed this [[JavaScript]] in your page.
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980&t=133)** It tells you where to place your code on your webpage.
 >
@@ -1502,7 +1477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), [[Security]] (2), [[JavaScript]] (2), [[Engineering]] (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[JavaScript]] (2)
 > **Env Vars:** irs (2)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** install (2)
@@ -1511,8 +1486,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [presenter] (1)
 
-#### In person and on the phone
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980)
+#### [In person and on the phone](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1534,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980&t=156)** They make you act quickly because of this.
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980&t=160)** In fear, people sometimes react without even thinking.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980&t=160)** In fear, people sometimes [[React.js|react]] without even thinking.
 >
 > **[2:44](https://www.linkedin.com/learning/ethical-hacking-social-engineering/in-person-and-on-the-phone?u=76281980&t=164)** The hacker can even spoof the phone number to seem as if it is coming from a bank.
 >
@@ -1614,15 +1588,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), product (1), [[React.js|React]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - [voiceover] (2), - hey (1), - um (1), - all (1), - i (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 
-#### Exploring the social engineering toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980)
+#### [Exploring the social engineering toolkit](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,9 +1603,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=9)** Malicious actors have many tools in their arsenal.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=12)** One of the tools you can use is the Social Engineering Toolkit or SET, an open-source tool aimed at penetration testing using social engineering.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=12)** One of the tools you can use is the Social Engineering Toolkit or SET, an open-source tool aimed at [[Penetration Testing]] using social engineering.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=26)** To get SET, you can either download the toolkit or use it within Kali Linux.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=26)** To get SET, you can either download the toolkit or use it within [[Kali Linux]].
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=31)** You use SET to craft an email and then you try to get the victim to click on a link, open a file, or go to a malicious website so they can install malware such as a rootkit, spyware, or keystroke logger, or you may want to obtain sensitive information such as a credit card or social security numbers.
 >
@@ -1640,7 +1613,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=60)** However, to complete the attack, you'll want to use Metaspolit and create the exploit.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=67)** The Social Engineering Toolkit has the ability to launch an attack that is in one of three main categories: phishing and spear phishing attacks, generating malicious files such as PDFs, Office documents, and executables, or we can create a malicious website.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=67)** The Social Engineering Toolkit has the ability to launch an attack that is in one of three main categories: [[Phishing]] and spear phishing attacks, generating malicious files such as PDFs, [[Microsoft Office|Office]] documents, and executables, or we can create a malicious website.
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=87)** And that is because generally, part of the attack is driving the victim to a malicious website.
 >
@@ -1650,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=106)** So I'll take take you to a couple websites so you can get started here.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=111)** Here we're at [trustedsec.com](https://trustedsec.com) and you can see the Social Engineering Toolkit is easily downloaded and I'll scroll down here and it shows you you can type the following in Linux or you can get it on GitHub.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=111)** Here we're at [trustedsec.com](https://trustedsec.com) and you can see the Social Engineering Toolkit is easily downloaded and I'll scroll down here and it shows you you can type the following in [[Linux]] or you can get it on [[GitHub]].
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-social-engineering/exploring-the-social-engineering-toolkit?u=76281980&t=126)** Then once you're in your Linux operating system, it will install it.
 >
@@ -1674,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (7), [[Phishing]] (4), [[Kali Linux]] (3), [[Linux]] (2), open-source (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Kali Linux]] (3), [[Linux]] (2), [[Penetration Testing]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Env Vars:** set (3)
 > **Analogies:** such as (3)
@@ -1683,12 +1656,11 @@ created: 2026-05-02
 > **URLs:** [trustedsec.com](https://trustedsec.com) (1)
 > **Tools:** github (1)
 
-#### Going phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/going-phishing?u=76281980)
+#### [Going phishing](https://www.linkedin.com/learning/ethical-hacking-social-engineering/going-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/going-phishing?u=76281980&t=0)** - [Presenter] Phishing is a type of cyber attack where a malicious actor attempts to trick a victim into providing confidential information such as login credentials or financial information by posing as a trustworthy entity.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/going-phishing?u=76281980&t=0)** - [Presenter] [[Phishing]] is a type of cyber attack where a malicious actor attempts to trick a victim into providing confidential information such as login credentials or financial information by posing as a trustworthy entity.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-social-engineering/going-phishing?u=76281980&t=15)** Malicious actors launch phishing attacks to a large number of recipients using any of the following, spam which uses email messages.
 >
@@ -1731,12 +1703,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [presenter] (1)
 
-#### Using the social engineering toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980)
+#### [Using the social engineering toolkit](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=0)** - [Instructor] Now that we've talked about the social engineering toolkit, let's take a look at it in Kali Linux.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=0)** - [Instructor] Now that we've talked about the social engineering toolkit, let's take a look at it in [[Kali Linux]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=7)** I'm going to type the password which is tour, which is the opposite of route, and I'm in Kali Linux.
 >
@@ -1756,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=54)** But when we take a look at this, you can see selecting from the menu some of the choices.
 >
-> **[0:59](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=59)** Social engineering attacks, fast-track penetration testing, third-party modules, update the social engineering toolkit, the set configuration help credits, and about.
+> **[0:59](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=59)** Social engineering attacks, fast-track [[Penetration Testing]], third-party modules, update the social engineering toolkit, the set configuration help credits, and about.
 >
 > **[1:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=72)** The one thing is that you probably want to do is update the set configuration.
 >
@@ -1768,7 +1739,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=100)** So if I went to select from the menu, as you can see here, number one, social engineering attacks, I'll just press one, and we'll get into that.
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=108)** So as you can see, selecting from the menu spear phishing attacks, website attacks, infectious media, create a payload and listener, and others.
+> **[1:48](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=108)** So as you can see, selecting from the menu spear [[Phishing]] attacks, website attacks, infectious media, create a payload and listener, and others.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=118)** Now, what I want to just do is select the spear phishing attack.
 >
@@ -1786,15 +1757,15 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=179)** All right, let's take a look at number two is website attack vectors.
 >
-> **[3:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=184)** Now in your website attack vectors, and there are a lot of choices here, but in that you can see that the Java applet attack method, in that case, that is really a very successful and fairly popular method for compromising a site.
+> **[3:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=184)** Now in your website attack vectors, and there are a lot of choices here, but in that you can see that the [[Java]] applet attack method, in that case, that is really a very successful and fairly popular method for compromising a site.
 >
 > **[3:19](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=199)** You can easily create the infected Java applet and then you can clone any site you want and quickly load that applet.
 >
-> **[3:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=207)** It's pretty popular because it's still able to be used on Windows, Linux, or Mac OS.
+> **[3:27](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=207)** It's pretty popular because it's still able to be used on [[Windows]], [[Linux]], or Mac OS.
 >
 > **[3:35](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=215)** When taking a look at the Java applet is really how to deliver this to properly trick our victims to get them to get it active.
 >
-> **[3:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=226)** So when we look there, number two, you can see the metasploit browser exploit method.
+> **[3:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=226)** So when we look there, number two, you can see the [[Metasploit]] browser exploit method.
 >
 > **[3:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-the-social-engineering-toolkit?u=76281980&t=231)** They have pre-built templates that build the exploit then integrate with metasploit.
 >
@@ -1826,7 +1797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (8), [[Kali Linux]] (3), [[Java]] (3), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Kali Linux]] (3), [[Java]] (3), [[Metasploit]] (3), [[Penetration Testing]] (2)
 > **UI Navigation:** scroll down (1), go to (1), select the (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1840,14 +1811,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defending against social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980)
+#### [Defending against social engineering](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=0)** - [Narrator] Defending against social engineering in an organization is difficult.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=4)** We cannot defend using hardware and software alone.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=4)** We cannot defend using [[Hardware]] and software alone.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=8)** Therefore, a successful defense requires effective information security policies, standards, and education.
 >
@@ -1883,7 +1853,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=81)** Have employees remove the identification when going out into the public.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=86)** Set privacy settings in your browser.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=86)** Set [[Privacy]] settings in your browser.
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=89)** Take a moment and read privacy policies.
 >
@@ -1925,9 +1895,9 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=184)** Use caution when giving out personal information.
 >
-> **[3:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=188)** Guide employees on how to spot phishing.
+> **[3:08](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=188)** Guide employees on how to spot [[Phishing]].
 >
-> **[3:11](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=191)** Train supervisors and managers in security awareness as they are your first line of defense.
+> **[3:11](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=191)** Train supervisors and managers in [[Security Awareness]] as they are your first line of defense.
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980&t=198)** Be able to answer questions and post documents on the company intranet.
 >
@@ -1949,15 +1919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Engineering]] (4), [[Privacy]] (2), [[Phishing]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Phishing]] (2), [[Hardware]] (1), [[Security Awareness]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding spam
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980)
+#### [Understanding spam](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1971,7 +1940,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980&t=30)** Nearly all abusive email has a fake sender address which is done to conceal the sender's true address.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980&t=38)** Malicious actor's use spoofed email to get into an organization via a phishing attack.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980&t=38)** Malicious actor's use spoofed email to get into an organization via a [[Phishing]] attack.
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/understanding-spam-19096693?u=76281980&t=45)** One way to combat spam is by using a reputation-based method that helps assure appropriate email traffic is delivered and abusive email is blocked.
 >
@@ -2017,19 +1986,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (1), traffic (1), cloud (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preventing spoofed email
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980)
+#### [Preventing spoofed email](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980&t=0)** - [Narrator] Administrators use a variety of techniques to prevent spam from getting into an organization.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980&t=7)** In this segment, we'll learn methods to detect and defend against phishing forgery by allowing administrators to validate inbound email.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980&t=7)** In this segment, we'll learn methods to detect and defend against [[Phishing]] forgery by allowing administrators to validate inbound email.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-spoofed-email?u=76281980&t=17)** First, let's start by explaining simple mail transfer protocol, which is the protocol that is used to deliver outgoing mail from one server to another.
 >
@@ -2067,14 +2035,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Preventing insider attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980)
+#### [Preventing insider attacks](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980&t=0)** - [Presenter] Organization spend a large portion of their security budget on protecting from external attacks such as phishing attacks, malware, botnets and root kits.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980&t=0)** - [Presenter] Organization spend a large portion of their security budget on protecting from external attacks such as [[Phishing]] attacks, malware, botnets and root kits.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980&t=12)** However, current and former employees pose the greatest cybersecurity threat to an organization.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980&t=12)** However, current and former employees pose the greatest [[Cybersecurity]] threat to an organization.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-social-engineering/preventing-insider-attacks?u=76281980&t=19)** An insider is someone on the inside of an organization such as an employee, a subcontractor or intern.
 >
@@ -2160,13 +2127,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Phishing]] (1), [[Cybersecurity]] (1), [[Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Cybersecurity]] (1)
 > **Analogies:** such as (5), for example (2)
 > **Definitions:** is a  (2), is an  (2)
 > **Speakers:** - [presenter] (1)
 
-#### Properly disposing of data and media
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/properly-disposing-of-data-and-media?u=76281980)
+#### [Properly disposing of data and media](https://www.linkedin.com/learning/ethical-hacking-social-engineering/properly-disposing-of-data-and-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2234,7 +2200,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -2246,12 +2211,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=0)** - [Lisa] Thank you for watching Ethical Hacking, Social Engineering.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=0)** - [Lisa] Thank you for watching [[Ethical Hacking]], Social Engineering.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=4)** I've covered an overview of social engineering.
 >
@@ -2263,15 +2227,15 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=35)** In addition, I cautioned as to why you should be wary of the disgruntled employee, insider attacks, and identity theft.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=45)** I covered the importance of conducting penetration testing for social engineering using email, websites, in person, and on the phone and an overview of the social engineering toolkit.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=45)** I covered the importance of conducting [[Penetration Testing]] for social engineering using email, websites, in person, and on the phone and an overview of the social engineering toolkit.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=57)** If you're interested in learning more, please check out the other courses in our library.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=63)** New courses are added every day.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=66)** If you're interested in learning about packet analysis, check out my Wireshark course.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=66)** If you're interested in learning about packet analysis, check out my [[Wireshark]] course.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=72)** If you're interested in learning about encryption, check out Essentials of Cryptography.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=72)** If you're interested in learning about encryption, check out Essentials of [[Cryptography]].
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980&t=77)** In addition, you might want to check out the Foundations of IT Security series.
 >
@@ -2281,7 +2245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), [[Ethical Hacking]] (1), power (1), [[Penetration Testing]] (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Penetration Testing]] (1), [[Wireshark]] (1), [[Cryptography]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 

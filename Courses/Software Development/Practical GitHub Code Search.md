@@ -63,16 +63,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating projects for development
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
+#### [Creating projects for development](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=0)** - GitHub hosts more than a hundred million developers and hundreds of millions of repositories, and that can add up to a lot of code, so finding what you need can quickly feel overwhelming.
+> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=0)** - [[GitHub]] hosts more than a hundred million developers and hundreds of millions of repositories, and that can add up to a lot of code, so finding what you need can quickly feel overwhelming.
 >
 > **[0:10](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=10)** So GitHub Code Search changes the way developers find and reuse code.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=15)** Built from the ground up in Rust, it lets you search billions of lines of code in milliseconds.
+> **[0:15](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=15)** Built from the ground up in [[Rust (Programming Language)|Rust]], it lets you search billions of lines of code in milliseconds.
 >
 > **[0:20](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980&t=20)** In this course, I'm going to show you how to build powerful queries, use qualifiers and operators, plus work with the new code view.
 >
@@ -84,13 +83,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Search]] (2), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Rust (Programming Language)|Rust]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - github (1)
 
-#### Using the slideshow
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/using-the-slideshow?u=76281980)
+#### [Using the slideshow](https://www.linkedin.com/learning/practical-github-code-search/using-the-slideshow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +110,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), web (1), next (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** slides_githubsearch (1)
@@ -120,24 +117,24 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 1. Regular Search Features
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub code search
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
+#### [GitHub code search](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=0)** - [Instructor] GitHub Code Search is a featuring GitHub that lets you find the code you're looking for faster and more efficiently.
+> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=0)** - [Instructor] [[GitHub]] Code Search is a featuring GitHub that lets you find the code you're looking for faster and more efficiently.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=6)** You can find more information on this website which is an overview of the features available through Code Search.
 >
 > **[0:14](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=14)** With it, you can quickly search through your own code, your team's code, or billions of lines of public code.
 >
-> **[0:21](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=21)** It was written from scratch in Rust and uses modern approaches like charting and delta and coding to allow you to search through terabytes of data and billions of lines of code in milliseconds.
+> **[0:21](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=21)** It was written from scratch in [[Rust (Programming Language)|Rust]] and uses modern approaches like charting and delta and coding to allow you to search through terabytes of data and billions of lines of code in milliseconds.
 >
 > **[0:31](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980&t=31)** You can learn more about the technology behind the improvements on this blog post right here.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[GitHub]] (6), feature (3), [[Rust (Programming Language)|Rust]] (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Rust (Programming Language)|Rust]] (1)
 > **Tools:** github (6)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** find (3)
@@ -180,8 +177,7 @@ created: 2026-05-02
 > **Env Vars:** ide (1), url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the search box and shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980)
+#### [Using the search box and shortcuts](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=26)** You can also use the command pallet to get to the search, which is "command+K" or "command+option+K" on a Mac, and "control+K" and "control+option+K" on a PC, although I think using the slash is a little bit easier and it seems to have better auto completion.
 >
-> **[0:42](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=42)** Just have to mention that if you are ever looking for shortcuts in GitHub, you can also hit the question mark key to get a list.
+> **[0:42](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=42)** Just have to mention that if you are ever looking for shortcuts in [[GitHub]], you can also hit the question mark key to get a list.
 >
 > **[0:51](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=51)** And then here you can see all of the shortcuts, plus even more down here in this link.
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=65)** So right now we are at just [github.com](https://github.com) and if I hit the slash, you'll notice that I can search for things and it gives you some hints down here.
 >
-> **[1:14](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=74)** So I'm going to type in "React," and I'm going to hit return, and notice that it's going to look for "React" in [github.com](https://github.com).
+> **[1:14](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=74)** So I'm going to type in "[[React.js|React]]," and I'm going to hit return, and notice that it's going to look for "React" in [github.com](https://github.com).
 >
 > **[1:24](https://www.linkedin.com/learning/practical-github-code-search/using-the-search-box-and-shortcuts?u=76281980&t=84)** So you can see that it lets you also filter by all these options here.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), hit (7), [[GitHub]] (3), [[React.js|React]] (2), web (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (2)
 > **Tools:** github (3)
 > **URLs:** [github.com](https://github.com) (2)
 > **UI Navigation:** click on (2)
@@ -229,8 +225,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search qualifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980)
+#### [Search qualifiers](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,13 +257,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=91)** So let's look at some of the examples.
 >
-> **[1:34](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=94)** So I'm going to come back here to the [github.com](https://github.com) page, and I'm going to try to search for something super simple.
+> **[1:34](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=94)** So I'm going to come back here to the [[[GitHub]].com](https://github.com) page, and I'm going to try to search for something super simple.
 >
 > **[1:40](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=100)** Notice that already when I click on the search box or I hit the Slash button, I get a lot of different options here.
 >
 > **[1:46](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=106)** So I can search for my latest repositories or I can search for a specific owners.
 >
-> **[1:52](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=112)** So it's going to give you some hints, but I'm just going to type in javascript here because it's going to be a pretty broad search.
+> **[1:52](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=112)** So it's going to give you some hints, but I'm just going to type in [[JavaScript]] here because it's going to be a pretty broad search.
 >
 > **[1:58](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=118)** When it gives me my search results, you can see some of the main qualifiers here on the left-hand side.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (27), [[JavaScript]] (5), hit (2), generic (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[GitHub]] (1)
 > **CLI Commands:** find (6), make (5)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (2), go to (1)
@@ -351,8 +346,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search results
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980)
+#### [Search results](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=5)** The UI and UX are some of the best I've seen in any application.
 >
-> **[0:09](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=9)** So to get there, I'm just going to hit the slash, and I'm going to start by typing org and then I'll choose Microsoft.
+> **[0:09](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=9)** So to get there, I'm just going to hit the slash, and I'm going to start by typing org and then I'll choose [[Microsoft]].
 >
 > **[0:17](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=17)** I'm going to hit return.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=116)** Now, one thing I did want to point out, look how quickly it's searching.
 >
-> **[1:59](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=119)** So I mentioned that this search engine is based on rust which is super fast, and they have done a lot of optimizations to make it super nice.
+> **[1:59](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=119)** So I mentioned that this search engine is based on [[Rust (Programming Language)|rust]] which is super fast, and they have done a lot of optimizations to make it super nice.
 >
 > **[2:08](https://www.linkedin.com/learning/practical-github-code-search/search-results?u=76281980&t=128)** Now notice that sometimes when you search for things you get this extra sidebar and this is sort of like a hints section of your code that encourages you, for example, to sponsor or it lets you give feedback and sometimes it'll give you even more things in here related to the type of things that you're doing.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Search]] (9), [[Microsoft]] (6), ux (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** go back to (3)
 > **Tools:** vs code (2), visual studio (1)
@@ -456,8 +450,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Syntax operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980)
+#### [Syntax operators](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,13 +472,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=48)** So let's take a look at some examples of this.
 >
-> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=51)** All right, so here I am back on [github.com](https://github.com).
+> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=51)** All right, so here I am back on [[[GitHub]].com](https://github.com).
 >
 > **[0:53](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=53)** You could just hit this little icon if you ever want to get to the main level here.
 >
 > **[0:57](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=57)** And I'm going to do a search right here.
 >
-> **[1:00](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=60)** So I'll hit the slash and I want to type in the word syntax.
+> **[1:00](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=60)** So I'll hit the slash and I want to type in the [[Microsoft Word|word]] syntax.
 >
 > **[1:06](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=66)** So I'm going to look for a syntax highlighter for my website.
 >
@@ -511,17 +504,17 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=121)** That's much better.
 >
-> **[2:02](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=122)** Now if I take a look at these, I can see that there's a lot of interesting stuff, but there's weird things like Postgres CLI without auto-completion and syntax highlighting.
+> **[2:02](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=122)** Now if I take a look at these, I can see that there's a lot of interesting stuff, but there's weird things like [[PostgreSQL|Postgres]] [[CLI]] without auto-completion and syntax highlighting.
 >
 > **[2:12](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=132)** That doesn't quite seem what I'm looking for.
 >
-> **[2:14](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=134)** Or a terminal client for MySQL.
+> **[2:14](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=134)** Or a terminal client for [[MySQL]].
 >
 > **[2:16](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=136)** And there's some other things in here.
 >
 > **[2:19](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=139)** So let's see what else we can do to narrow this down a little better.
 >
-> **[2:23](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=143)** I'm going to add language and I'll put JavaScript here.
+> **[2:23](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=143)** I'm going to add language and I'll put [[JavaScript]] here.
 >
 > **[2:28](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=148)** Now you can actually choose that from this list right here.
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=182)** So now I have nine results.
 >
-> **[3:03](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=183)** I've kind of gotten rid of that one and I think there's one here for Python or there's something here for Python.
+> **[3:03](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=183)** I've kind of gotten rid of that one and I think there's one here for [[Python (Programming Language)|Python]] or there's something here for Python.
 >
 > **[3:10](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=190)** So I'm going to add that here and I'll just say, or Python.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=334)** And that'll clear everything out.
 >
-> **[5:36](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=336)** So this time I'm going to look for React UI components and that might be something we put in quotes.
+> **[5:36](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=336)** So this time I'm going to look for [[React.js|React]] UI components and that might be something we put in quotes.
 >
 > **[5:42](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=342)** Let's see what we get when we just search for that.
 >
@@ -629,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), hit (4), [[Python (Programming Language)|Python]] (4), [[JavaScript]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[JavaScript]] (2), [[GitHub]] (1), [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** python (4), make (3), mysql (1), find (1)
 > **Tools:** github (1), terminal (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -643,12 +636,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding code
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
+#### [Finding code](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=0)** - [Lecturer] In this chapter, we're going to focus on how GitHub works when searching for code.
+> **[0:00](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=0)** - [Lecturer] In this chapter, we're going to focus on how [[GitHub]] works when searching for code.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=5)** It's a new way to not define things, but also navigate and even understand what's happening with the code you are looking for.
 >
@@ -708,7 +700,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=161)** All right, so that's 42 articles.
 >
-> **[2:43](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=163)** Now I'm going to try to put the word here, prototype, 'cause I know that's what we were talking about.
+> **[2:43](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=163)** Now I'm going to try to put the [[Microsoft Word|word]] here, prototype, 'cause I know that's what we were talking about.
 >
 > **[2:51](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=171)** And there it found the article that I was looking for.
 >
@@ -774,7 +766,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=334)** So if I ever update this newsletter article or code and I want to have a link through this version of the code, I can get a permalink which will always send me to this version of the code right here.
 >
-> **[5:49](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=349)** I can view a git blame which shows you who has worked or who has modified this code.
+> **[5:49](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=349)** I can view a [[Git]] blame which shows you who has worked or who has modified this code.
 >
 > **[5:55](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=355)** I know it's just me so this is not going to be too interesting, in which you can also get to blames right here in GitHub.
 >
@@ -790,7 +782,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=381)** Hey, Morten, remember this?
 >
-> **[6:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=382)** Or I could copy the entire contents of the page and then maybe feed it into ChatGPT and get a bunch of different post ideas.
+> **[6:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=382)** Or I could copy the entire contents of the page and then maybe feed it into [[ChatGPT]] and get a bunch of different post ideas.
 >
 > **[6:31](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980&t=391)** So learning to search for things is really important and it's also really easy.
 >
@@ -798,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), hit (6), [[Search]] (6), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Microsoft Word|Word]] (1), [[Git]] (1), [[ChatGPT]] (1)
 > **Tools:** github (7)
 > **URLs:** [github.io](https://github.io) (3), [raybo.org](https://raybo.org) (2), [github.com](https://github.com) (1)
 > **CLI Commands:** find (3), git (1)
@@ -807,8 +799,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Finding code to learn from
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980)
+#### [Finding code to learn from](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +813,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=16)** So usually those go in the dev container and I want to learn from what other people have done.
 >
-> **[0:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=22)** So I'm going to start by always resetting everything by hitting the GitHub icon.
+> **[0:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=22)** So I'm going to start by always resetting everything by hitting the [[GitHub]] icon.
 >
 > **[0:27](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=27)** This will take you back to [github.com](https://github.com) and if you are already in a repository, it'll kind of clear out the previous search.
 >
@@ -846,7 +837,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=78)** Now I noticed that some of these are in different places, right?
 >
-> **[1:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=82)** So here's a circleci, which is a platform for continuous integration.
+> **[1:22](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=82)** So here's a circleci, which is a platform for [[Continuous Integration (CI)|continuous integration]].
 >
 > **[1:27](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=87)** I'm really interested in something for a codespace.
 >
@@ -860,11 +851,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=112)** That'll just give me the Dockerfile.
 >
-> **[1:54](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=114)** Now some of these are in different places than I said, that I only won things in the dev container 'cause I'm assuming that it's related to how codespaces are put together.
+> **[1:54](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=114)** Now some of these are in different places than I said, that I only won things in the dev container 'cause I'm assuming that it's related to how [[Codespaces]] are put together.
 >
 > **[2:04](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=124)** So I'll click on this path and you can see everything changing up here.
 >
-> **[2:09](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=129)** And then I can take a look through this and I'm going to add a keyword to make sure that I'm only getting Python paths or Python Dockerfiles.
+> **[2:09](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=129)** And then I can take a look through this and I'm going to add a keyword to make sure that I'm only getting [[Python (Programming Language)|Python]] paths or Python Dockerfiles.
 >
 > **[2:20](https://www.linkedin.com/learning/practical-github-code-search/finding-code-to-learn-from?u=76281980&t=140)** So that gives me only Python Dockerfiles in the dev container with a language of Dockerfile to make sure that it's a Dockerfile that I'm talking about.
 >
@@ -922,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), hit (4), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (8), find (3), python (3), docker (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Tools:** github (2)
@@ -931,8 +922,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
-#### Code results
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980)
+#### [Code results](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=9)** They look so natural that you're really going to love it.
 >
-> **[0:11](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=11)** So I'm going to start off by once again being at just [github.com](https://github.com).
+> **[0:11](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=11)** So I'm going to start off by once again being at just [[[GitHub]].com](https://github.com).
 >
 > **[0:15](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=15)** Which you can get to it just by clicking on this Mona Lisa icon here.
 >
@@ -956,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=41)** So I'm going to do a try a path and for a path I could do like *.py or do some sort of regular expression if I want to.
 >
-> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=51)** So this is going to find all of my Python code and you can see that I don't code a ton in Python.
+> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=51)** So this is going to find all of my [[Python (Programming Language)|Python]] code and you can see that I don't code a ton in Python.
 >
 > **[0:57](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=57)** Most of these aren't even mine they're just sort of part of other packages.
 >
@@ -1048,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), hit (4), [[Python (Programming Language)|Python]] (4), [[GitHub]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (1)
 > **CLI Commands:** python (4), find (3)
 > **UI Navigation:** go to (5), click on (2)
 > **File Paths:** feed.py (2)

@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introductions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
+#### [Course introductions](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=0)** - Welcome to Mastering Large Language Models or LLM with Advanced RAG, retrieval augmented generation.
+> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=0)** - Welcome to Mastering [[Large Language Models (LLM)|Large Language Models]] or LLM with Advanced RAG, retrieval augmented generation.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=9)** My name is Guy Ernst, also known as The ML Guy, and I will be teaching this class.
 >
@@ -113,13 +112,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=142)** That is, it's not available from the outside and when we have a lot of internal knowledge, we have to build the RAG.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=148)** But sometimes our system can use mostly prompt engineering like knowledge extraction and classification and things like that because there is no much internal knowledge or data that is needed.
+> **[2:28](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=148)** But sometimes our system can use mostly [[Prompt Engineering]] like knowledge extraction and classification and things like that because there is no much internal knowledge or data that is needed.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=161)** Of course, there is more advanced topics where we need to fine tune the models, especially when the language that is used in our system, medical, legal or otherwise is more specific.
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=174)** It's not general and most people in the world don't write paper in it.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=180)** Therefore, we need to do some fine tuning.
+> **[3:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=180)** Therefore, we need to do some [[Fine Tuning]].
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=183)** In this course, we're not going to touch a lot about the other aspect.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=201)** It has the user asking a query.
 >
-> **[3:25](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=205)** The first step is to retrieve the relevant information for the query from some kind of a document database, usually using a vector index to have a semantic search.
+> **[3:25](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=205)** The first step is to retrieve the relevant information for the query from some kind of a document database, usually using a vector index to have a [[Semantic Search]].
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=218)** Then we take the retrieve documents, we rank them, we choose which of them we want to include in our prompt to the generation step using a large language model.
 >
@@ -143,7 +142,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=242)** And in this course we spend most of the time on improving the retrieval by improving the indexing process.
 >
-> **[4:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=251)** This diagram just added the jigsaw puzzle aspect, and I want you to think about building a system in a modular way.
+> **[4:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=251)** This diagram just added the [[Jigsaw]] puzzle aspect, and I want you to think about building a system in a modular way.
 >
 > **[4:19](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980&t=259)** It's not so important to choose the model now, the LLM model or the vector database or the embedding model and so on.
 >
@@ -173,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (12), llm (4), ai (4), data (3), database (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1), [[Fine Tuning]] (1), [[Semantic Search]] (1), [[Jigsaw]] (1)
 > **Env Vars:** rag (12), llm (4)
 > **Tools:** jupyter (1)
 > **Definitions:** known as (1)
@@ -181,8 +180,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - welcome (1)
 
-#### Understanding the basics of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980)
+#### [Understanding the basics of RAG](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=14)** We take the query, we try to find the most relevant documents from our document database.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=21)** Usually we're using a semantic search, therefore we're going to use some kind of a vector database that capture encode semantic content of which document.
+> **[0:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=21)** Usually we're using a [[Semantic Search]], therefore we're going to use some kind of a vector database that capture encode semantic content of which document.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=30)** Then we take the match documents from the retrieval process and send it to the second step of the augmentation, where we take a predefined prompt.
 >
@@ -236,7 +234,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=124)** You can go to the website itself.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=127)** You can see there are quite a lot of databases in this comparison.
+> **[2:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=127)** You can see there are quite a lot of [[Databases]] in this comparison.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=131)** Many, many columns and criteria you can filter.
 >
@@ -248,9 +246,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=147)** The same goes for the generation part.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=150)** The large language models can be also modular, so you can choose one from OpenAI, You can replace it with a different topic.
+> **[2:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=150)** The [[Large Language Models (LLM)|large language models]] can be also modular, so you can choose one from OpenAI, You can replace it with a different topic.
 >
-> **[2:38](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=158)** And then maybe Gemini is from Google, open source, and so on.
+> **[2:38](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=158)** And then maybe [[Gemini]] is from [[Google]], open source, and so on.
 >
 > **[2:42](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/understanding-the-basics-of-rag?u=76281980&t=162)** So you can really mix and match as needed to optimize your use case, your requirements, your budget, your performance requirement, and so on.
 >
@@ -272,21 +270,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), prompt (3), rag (3), application (2), [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Databases]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1), [[Google]] (1)
 > **Env Vars:** rag (3), llm (1), poc (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Building a simple RAG example
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980)
+#### [Building a simple RAG example](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=0)** - In this course we're going to use a set of Jupyter Notebooks that will allow us to run the code, see how it's working, examine the output, and so on.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=9)** You can use this GitHub repository with all the notebooks.
+> **[0:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=9)** You can use this [[GitHub]] repository with all the notebooks.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=14)** There are also some explanations, some diagram that you can explore, explanation of the different problems we're going to solve, and a quick setup.
 >
@@ -296,11 +293,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=41)** One is a traditional pip.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=43)** All the code is in Python.
+> **[0:43](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=43)** All the code is in [[Python (Programming Language)|Python]].
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=45)** Or you can use uv.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=47)** It's much faster using Rust, and Rust is a growing language now alongside Python.
+> **[0:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=47)** It's much faster using [[Rust (Programming Language)|Rust]], and Rust is a growing language now alongside Python.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=53)** And Qdrant, that we are going to use is written in Rust and so on.
 >
@@ -332,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=161)** Here for the simple example we'll use memory.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=166)** And the embedding, the embedding we will use the library from Hugging Face the sentence transformer.
+> **[2:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=166)** And the embedding, the embedding we will use the library from [[Hugging Face]] the sentence transformer.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=173)** We're going to dive much deeper into it in the second notebook, but for now we're going to load one of the popular models and use it as is.
 >
@@ -356,7 +353,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=228)** If you remember, the notes is the long textual part of which one of the records.
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=236)** And we're going to use that for our encoding and for our semantic search.
+> **[3:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=236)** And we're going to use that for our encoding and for our [[Semantic Search]].
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=241)** Once we finish this upload, it can take about a minute, it depends on the speed of your machine, we're going to see that we have the collection, it's green, it's ready for us to use.
 >
@@ -448,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), database (5), rag (5), [[Rust (Programming Language)|Rust]] (4), data (4)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Hugging Face]] (1), [[Semantic Search]] (1)
 > **Env Vars:** rag (5), llm (3), csv (1)
 > **CLI Commands:** python (3), make (3), pip (1), find (1)
 > **Tools:** github (2), jupyter (1), visual studio (1)
@@ -457,8 +454,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Analogies:** similar to (1)
 
-#### Issues with simple RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980)
+#### [Issues with simple RAG](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980&t=34)** Let's try to understand what do we mean by retrieval and the concept of recall and precision.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980&t=42)** These are common terms in machine learning and artificial intelligence, and we need to understand what we mean here.
+> **[0:42](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980&t=42)** These are common terms in machine learning and [[Artificial Intelligence (AI)|artificial intelligence]], and we need to understand what we mean here.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/issues-with-simple-rag?u=76281980&t=49)** This diagram may look overwhelming at the beginning, but we will go over that to understand those concept correctly.
 >
@@ -540,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), generic (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** make (1)
@@ -552,12 +548,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embedding introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
+#### [Embedding introduction](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=0)** - A core concept in large language models and RAG systems is the way that we encode our input.
+> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=0)** - A core concept in [[Large Language Models (LLM)|large language models]] and RAG systems is the way that we encode our input.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=7)** If our input is text, we use text encoding.
 >
@@ -565,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=12)** If you see this diagram, we are using the embedding in this stage where we encode all the documents that we want to retrieve and then we encode the query of the users and then we try to find the match between the queries and the documents so we can retrieve the right documents and generate the right replies.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=36)** To understand how encoding is working, we will use this nice visualization from the "Financial Times" that explains the transformer, which is the core of generative AI, and it will explain us how it works.
+> **[0:36](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=36)** To understand how encoding is working, we will use this nice visualization from the "Financial Times" that explains the transformer, which is the core of [[Generative AI]], and it will explain us how it works.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=51)** So when we get input like text, the machine doesn't read the text, it cannot read the characters and understand them.
 >
@@ -573,7 +568,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=63)** The first step will be to take the input and pass it into words or a token.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=73)** For simplicity, each word is a token, but later on we're going to see that some words have multiple tokens in it and so on.
+> **[1:13](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=73)** For simplicity, each [[Microsoft Word|word]] is a token, but later on we're going to see that some words have multiple [[Tokens]] in it and so on.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980&t=82)** We will use unsupervised method of taking examples, many, many sentences, paragraphs, and documents and let the machine try to find the context of each word when it can appear and when it can't appear.
 >
@@ -711,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), rag (2), game (2), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (6), make (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** rag (2)
@@ -719,8 +714,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Hands-on lab: Embedding tokenization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980)
+#### [Hands-on lab: Embedding tokenization](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,13 +736,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=58)** Let's dive to the end, and we can see that it's using one of their models.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=62)** The text embedding, the three small that we chose, it cost us some money of the input tokens, and there was some latency here.
+> **[1:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=62)** The text embedding, the three small that we chose, it cost us some money of the input [[Tokens]], and there was some latency here.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=69)** The small latency and the small cost is the price we need to pay, but I hope that you understand it.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=74)** If we look again on our diagram, we have the generation model, the LLM that is generating the output.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=82)** Once we have all the documents, this can use GPT from OpenAI or Claude from Anthropic or Gemini from Google, but the embedding model doesn't have to be the same one that we have here.
+> **[1:22](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=82)** Once we have all the documents, this can use GPT from OpenAI or Claude from Anthropic or [[Gemini]] from [[Google]], but the embedding model doesn't have to be the same one that we have here.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=92)** There is no relationship between the two.
 >
@@ -758,7 +752,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=116)** So this way we're going to use some open-source models here, which are open, therefore we can see what they do and then form their structure and understand better the concept.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=126)** So we'll use an open-source model from the Hugging Face Hub using the sentence-transform library.
+> **[2:06](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=126)** So we'll use an open-source model from the [[Hugging Face]] Hub using the sentence-transform library.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=131)** We're going to load the model.
 >
@@ -776,7 +770,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=156)** I chose those two because those are the ones that we had in our authorization a while ago.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=160)** And we have the same word, interest, appearing in both of them, but we know that semantic meaning of each one of the sentences is completely different, and we want to see if the embedded will capture that.
+> **[2:40](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=160)** And we have the same [[Microsoft Word|word]], interest, appearing in both of them, but we know that semantic meaning of each one of the sentences is completely different, and we want to see if the embedded will capture that.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=173)** We're going to tokenize the first sentence, and we can see that we have "I have no interest in politics," and we have 101, 1045, 2031, and so on.
 >
@@ -802,7 +796,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=228)** The second sentence is "The bank's interest rate rises."
 >
-> **[3:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=233)** Now we can understand the first token and the last tokens are control tokens, beginning and end of the sentence, and the rest are the words.
+> **[3:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=233)** Now we can understand the first token and the last tokens are control tokens, beginning and end of the sentence, and the [[Representational State Transfer (REST)|rest]] are the words.
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-tokenization?u=76281980&t=242)** We can see that most of the time the words are one-to-one, so the word interest is one token.
 >
@@ -810,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (4), open-source (3), llm (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (4), [[Gemini]] (1), [[Google]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1), gpt (1)
 > **UI Navigation:** go to (1)
@@ -818,8 +812,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - to (1)
 
-#### Hands-on lab: Embedding vocabulary
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980)
+#### [Hands-on lab: Embedding vocabulary](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +820,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=9)** So we're going to ask for the first model and the tokenizer to give us all the vocabulary that it has, all the items.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=16)** So we can see that we have 30,522 tokens, and if we randomly check 20 of those, you can see some words, some numbers, some controls, and some suffix, and so on.
+> **[0:16](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=16)** So we can see that we have 30,522 [[Tokens]], and if we randomly check 20 of those, you can see some words, some numbers, some controls, and some suffix, and so on.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=31)** This is a small selection of the tokens that we have in the vocabulary.
 >
@@ -835,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=38)** Let's focus on our interest.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=41)** Here we are sorting the items, and we are looking for the word interest, finding its index, and then printing out the words around it.
+> **[0:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=41)** Here we are sorting the items, and we are looking for the [[Microsoft Word|word]] interest, finding its index, and then printing out the words around it.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=49)** So with the 3037 is interest, but the 3036 is security, 3035 is queen, and so on.
 >
@@ -949,7 +942,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=352)** This is legend, and then let's create a visualization.
 >
-> **[5:57](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=357)** So musical theory here, is we can zoom in and zoom out and see the different tokens.
+> **[5:57](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=357)** So musical theory here, is we can [[Zoom]] in and zoom out and see the different tokens.
 >
 > **[6:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-vocabulary?u=76281980&t=363)** We can see that here on top we have a bunch of red ones, so all the control are quite similar to one another.
 >
@@ -983,7 +976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (20), [[Microsoft Word|Word]] (11), [[Zoom]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (20), [[Microsoft Word|Word]] (11), [[Zoom]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** find (1)
@@ -991,8 +984,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - so (1)
 
-#### Hands-on lab: Sentence embedding
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980)
+#### [Hands-on lab: Sentence embedding](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +992,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=8)** We will check the output encoding.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=10)** So now we are giving it the first sentence, and instead of getting eight tokens, we get only one.
+> **[0:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=10)** So now we are giving it the first sentence, and instead of getting eight [[Tokens]], we get only one.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=15)** This is the encoding of the sentence as a sequence of tokens.
 >
@@ -1016,7 +1008,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=47)** Remember, the difference between the previous heatmap and this one is this is the output after the context, while the previous one, where we had one here, was the input level before the context.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=58)** And not surprisingly, we can see that the word interest in the first sentence has a different semantic meaning from the world interest in the second sentence.
+> **[0:58](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=58)** And not surprisingly, we can see that the [[Microsoft Word|word]] interest in the first sentence has a different semantic meaning from the world interest in the second sentence.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-sentence-embedding?u=76281980&t=68)** So this is a much lower score than the one that we saw before, which we expected because of the different semantic meaning of the sentence.
 >
@@ -1051,8 +1043,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Hands-on lab: Content embedding
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980)
+#### [Hands-on lab: Content embedding](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=47)** The second thing is that it will calculate a contextual embedding based on some sample documents.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=53)** This is the best improvement over the naive embedding compared to a more complicated fine tuning process that we can do.
+> **[0:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=53)** This is the best improvement over the naive embedding compared to a more complicated [[Fine Tuning]] process that we can do.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=61)** We're going to load our transformers from from the hub.
 >
@@ -1148,7 +1139,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=238)** When it's over, after about two minutes, we have a dataset embeddings.
 >
-> **[4:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=243)** The 512 sample documents were calculated into a new embedding that now we can use it in our step two to embed the rest of the documents.
+> **[4:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=243)** The 512 sample documents were calculated into a new embedding that now we can use it in our step two to embed the [[Representational State Transfer (REST)|rest]] of the documents.
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=254)** Here we're not going to load all the documents, we're going to select a few of them.
 >
@@ -1158,7 +1149,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=267)** So here we are calling the second stage.
 >
-> **[4:31](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=271)** We are giving it document's tokens that we calculated here.
+> **[4:31](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=271)** We are giving it document's [[Tokens]] that we calculated here.
 >
 > **[4:35](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-embedding-content-embedding?u=76281980&t=275)** And we also passed the dataset embedding that we calculated in the previous stage, in stage one.
 >
@@ -1190,15 +1181,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Tokens]] (2), bi (1), data (1), prompt (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 0.5 (1), 0.6 (1)
 > **Env Vars:** gpu (1)
 > **Speakers:** - so (1)
 
-#### Embedding notebook summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-notebook-summary?u=76281980)
+#### [Embedding notebook summary](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-notebook-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,8 +1208,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chunking introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
+#### [Chunking introduction](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=80)** One of them is, if you remember from our second notebook where we took a look at the embedding model and we had this transformer, and we can see that in transformer, we have the maximum sequence length to be 256.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=95)** So if we input into our embedding longer token sequence, the rest will just be ignored.
+> **[1:35](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=95)** So if we input into our embedding longer token sequence, the [[Representational State Transfer (REST)|rest]] will just be ignored.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=103)** Nevertheless, it also makes a lot of sense that we have a very long document, we cannot squeeze it and code it into a single vector because there may be multiple topics in it.
 >
@@ -1259,7 +1248,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=128)** So this is an example of how we can split to this document.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=132)** We can do that by characters or by tokens.
+> **[2:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=132)** We can do that by characters or by [[Tokens]].
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=136)** A few sentences, few paragraphs, or semantic.
 >
@@ -1279,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=168)** You can see the document is split into chunks.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=172)** Sometimes it's in the middle of a word, in the middle of a sentence, the middle of a paragraph doesn't look that good.
+> **[2:52](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=172)** Sometimes it's in the middle of a [[Microsoft Word|word]], in the middle of a sentence, the middle of a paragraph doesn't look that good.
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980&t=178)** But nevertheless, this a strategy we can use.
 >
@@ -1315,14 +1304,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), rag (2), application (2), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5), is an  (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
 > **Speakers:** - let (1)
 
-#### Hands-on lab: Semantic chunking
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980)
+#### [Hands-on lab: Semantic chunking](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1332,13 +1320,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=14)** Then we're going to apply the statistical chunker on some of the documents.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=18)** Then we're going to add the metadata to the chunks, which is best practice in the RAG application.
+> **[0:18](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=18)** Then we're going to add the [[Metadata]] to the chunks, which is best practice in the RAG application.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=23)** Here there's some visual improvements so we can see the output a bit more easily, and we'll ignore warnings in our notebook.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=30)** So there is a dataset we are loading.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=33)** It's coming from the Hugging Face hub.
+> **[0:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=33)** It's coming from the [[Hugging Face]] hub.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=36)** It's archive documents, many, many papers on AI, machine learning, LLMs, which as you can see in the presentation before, they're quite complex and hard to index.
 >
@@ -1346,7 +1334,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=53)** Mostly we use the title and the content.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=55)** The rest are less relevant.
+> **[0:55](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=55)** The [[Representational State Transfer (REST)|rest]] are less relevant.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=56)** These are the where we have the text for our encoding.
 >
@@ -1386,7 +1374,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=141)** And let's run it on the documents in index 0 on our dataset.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=147)** We are not going to have those plots and statistics when we go over all the dataset, but for the couple of examples that we're going to have here to get some better understanding, we will have them.
+> **[2:27](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=147)** We are not going to have those plots and [[Statistics]] when we go over all the dataset, but for the couple of examples that we're going to have here to get some better understanding, we will have them.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=157)** So here is the plot.
 >
@@ -1404,7 +1392,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=191)** So this is a threshold that whenever we go under it, we create a chunk.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=196)** There are also a few chunks that were not split based on the threshold because we also have the limit of number of tokens and also those 490, 494, and so on.
+> **[3:16](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=196)** There are also a few chunks that were not split based on the threshold because we also have the limit of number of [[Tokens]] and also those 490, 494, and so on.
 >
 > **[3:26](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-semantic-chunking?u=76281980&t=206)** Most of the chunks were based on the statistical threshold.
 >
@@ -1488,7 +1476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (6), [[Statistics]] (3), rag (2), next (2), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (6), [[Statistics]] (3), [[Hugging Face]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (8)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** rag (2)
@@ -1497,14 +1485,13 @@ created: 2026-05-02
 > **Versions:** 0.27 (1)
 > **Speakers:** - to (1)
 
-#### Chunking overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980)
+#### [Chunking overview](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=0)** - The topic of chunking is important and we need to spend a few more minutes talking about it and see what other options we have there.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=7)** So we talk about the way to chunk it based on characters and tokens and sentences or paragraphs.
+> **[0:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=7)** So we talk about the way to chunk it based on characters and [[Tokens]] and sentences or paragraphs.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=12)** We saw the example of the notebook with semantic chunking, which is very popular, but we also started to talk about how do we add the context of the document.
 >
@@ -1514,7 +1501,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=26)** We saw in the previous example how we can add a title to the chunk.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=30)** It's a simple way to make sure that we don't lose the context altogether, so we can have it as part of the metadata.
+> **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=30)** It's a simple way to make sure that we don't lose the context altogether, so we can have it as part of the [[Metadata]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=36)** We saw the links that we can have for the previous and next document or the section that the chunk is part of.
 >
@@ -1540,7 +1527,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=127)** So to summarize the chunking model, we have multiple method.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=131)** We talked about the fixed-length, semantical, paragraph-based chunking, which are simpler and faster to calculate, and we can have the standing windows to have overlaps.
+> **[2:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=131)** We talked about the fixed-length, semantical, paragraph-based chunking, which are simpler and faster to calculate, and we can have the standing [[Windows]] to have overlaps.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=141)** So the encoding can capture the semantic co, the sentence and its surrounding.
 >
@@ -1576,21 +1563,20 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=234)** Keep the semantic relevancy and so on.
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=236)** So you can use in your prompt a lot of the instruction that you might otherwise put as parameters into any of the other algorithms and let the LLM do the splitting for you.
+> **[3:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=236)** So you can use in your prompt a lot of the instruction that you might otherwise put as parameters into any of the other [[Algorithms]] and let the LLM do the splitting for you.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-overview?u=76281980&t=246)** So now let's go and check the next example of how you can enrich your chunks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), next (4), [[Tokens]] (3), application (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Metadata]] (1), [[Windows]] (1), [[Algorithms]] (1)
 > **Env Vars:** llm (9)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the next (1), as we saw (1), we talked about (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - the (1)
 
-#### Hands-on lab: Contextual retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-contextual-retrieval?u=76281980)
+#### [Hands-on lab: Contextual retrieval](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-contextual-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,13 +1688,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), cloud (4), data (3), llm (2), ai (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** llm (2), xml (1)
 > **Speakers:** - to (1)
 
-#### Query document alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980)
+#### [Query document alignment](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,7 +1710,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=32)** When we index those documents, we index by the question, then we land in the cluster of the vector index.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=41)** It's a good time to remember that vector databases usually use some kind of approximation for the index.
+> **[0:41](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=41)** It's a good time to remember that [[Vector Databases]] usually use some kind of approximation for the index.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=48)** Remember that we don't go over each one of documents and we compare their similarity.
 >
@@ -1744,7 +1728,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=68)** So this is the happy path.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=69)** This is what we have in mind when we're using semantic search using a vector database.
+> **[1:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=69)** This is what we have in mind when we're using [[Semantic Search]] using a vector database.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=75)** But in real life it's not so easy.
 >
@@ -1756,7 +1740,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=95)** That can be much different than the one of the query itself.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=99)** It's a different format, different length, different terms, the probability of landing in different cluster and therefore we are not going to retrieve the right document is much higher.
+> **[1:39](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=99)** It's a different format, different length, different terms, the [[Probability]] of landing in different cluster and therefore we are not going to retrieve the right document is much higher.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/query-document-alignment?u=76281980&t=109)** So what do we do?
 >
@@ -1818,15 +1802,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[Vector Databases]] (1), [[Semantic Search]] (1), database (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Semantic Search]] (1), [[Probability]] (1)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** similar to (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - to (1)
 
-#### Hands-on lab: Reverse HyDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980)
+#### [Hands-on lab: Reverse HyDE](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1855,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=119)** So we have the text, the chunk, and the question that were generated by the LLM.
 >
-> **[2:05](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=125)** This next one is about Python and the American Civil War and the question that were generated for this chunk.
+> **[2:05](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=125)** This next one is about [[Python (Programming Language)|Python]] and the American Civil War and the question that were generated for this chunk.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=133)** So now we have the text and the question, and we can go and create a query.
 >
@@ -1884,7 +1867,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=150)** We will create an encoder this time.
 >
-> **[2:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=153)** The encoder is from the Hugging Face hub.
+> **[2:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=153)** The encoder is from the [[Hugging Face]] hub.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reverse-hyde?u=76281980&t=155)** And we will generate the collection by providing the embedding, as I mentioned, from our encoders.
 >
@@ -1924,7 +1907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), prompt (2), llm (2), database (2), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
 > **Versions:** 0.82 (2), 0.5 (2), 3.5 (1)
 > **Env Vars:** llm (2), gpt (1), api (1)
 > **Code Identifiers:** get_embedding (1), generate_reverse_hyde (1)
@@ -1937,12 +1920,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid search introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)
+#### [Hybrid search introduction](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=0)** - We talked a lot about the semantic search, and the ability to extract semantic meaning from documents and from queries, and find a match between the two.
+> **[0:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=0)** - We talked a lot about the [[Semantic Search]], and the ability to extract semantic meaning from documents and from queries, and find a match between the two.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=9)** But we also remember that in the past, we used to have other types of search where we searched for keywords and terms, and what we believe.
 >
@@ -1950,13 +1932,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=26)** So let's look at this diagram, and see what do we mean by the hybrid search.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=30)** So we have our document, the one that we saw before, and we have a query, and we can see that the word "cell" appears both in the query, and in the text multiple times.
+> **[0:30](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=30)** So we have our document, the one that we saw before, and we have a query, and we can see that the [[Microsoft Word|word]] "cell" appears both in the query, and in the text multiple times.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=42)** And the same for the word "energy."
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=43)** So we have a good feeling.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=45)** And if we had the ability to search by these terms, we increase the probability of retrieving those documents.
+> **[0:45](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=45)** And if we had the ability to search by these terms, we increase the [[Probability]] of retrieving those documents.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=51)** We're going to create two indexes.
 >
@@ -1964,7 +1946,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=64)** But at the same time, we take the text, and we'll send it to a sparse encoder.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=70)** The reason why we call it sparse, is because the dense encoder create a vector with hundreds and sometimes even thousands of numbers, while the sparse encoder on the output, few dozens, and even fewer tokens for each one of the documents.
+> **[1:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=70)** The reason why we call it sparse, is because the dense encoder create a vector with hundreds and sometimes even thousands of numbers, while the sparse encoder on the output, few dozens, and even fewer [[Tokens]] for each one of the documents.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980&t=86)** So here we see that encoding that we have for each token in which document and what is the score of this document.
 >
@@ -1982,13 +1964,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft Word|Word]] (2), [[Semantic Search]] (1), [[Probability]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Semantic Search]] (1), [[Probability]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
-#### Hands-on lab: Hybrid search
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980)
+#### [Hands-on lab: Hybrid search](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2002,7 +1983,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=14)** Here we're going to use a library called bm25s.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=17)** It's a Python implementation of the bm25 algorithm.
+> **[0:17](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=17)** It's a [[Python (Programming Language)|Python]] implementation of the bm25 algorithm.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=21)** We're going to build both the tokenizer, we're going to use a Stemmer.
 >
@@ -2018,7 +1999,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=55)** A Stemmer will remove s and ing and a few other prefix and suffix that we have in our language.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=62)** So we have from multiple words, we can have the same word.
+> **[1:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=62)** So we have from multiple words, we can have the same [[Microsoft Word|word]].
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=66)** And we're going to also use stop words, which remove words that we don't care about, like and and is and this and things that we don't want to search on.
 >
@@ -2028,13 +2009,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=85)** And we can update that and add other words that we know that are in the text that we don't care about, but for now we're going to use it as it is.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=93)** And now we're going to calculate the tokens from the corpus_text that we have.
+> **[1:33](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=93)** And now we're going to calculate the [[Tokens]] from the corpus_text that we have.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=99)** We're going to build the vocabulary and we care mostly about those ideas.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=102)** We're going to create the index using the bm25 in memory implementation.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=107)** Remember that most vector databases also have the sparse vector implementation, so we don't have to run it memory.
+> **[1:47](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=107)** Remember that most [[Vector Databases]] also have the sparse vector implementation, so we don't have to run it memory.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=114)** You can put it alongside the dense vectors.
 >
@@ -2124,7 +2105,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=343)** So we already saw those documents.
 >
-> **[5:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=346)** There are different documents because this is a semantic search.
+> **[5:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=346)** There are different documents because this is a [[Semantic Search]].
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=349)** And here we have ID 15 and ID four.
 >
@@ -2148,7 +2129,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=398)** So document 15 and four and so on with the merge score from those two dense and sparse scores.
 >
-> **[6:45](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=405)** Now we can take our top document and do what we did before called the generation part using the OpenAI ChatGPT 3.5, and we'll give it the search results from the hybrid search.
+> **[6:45](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=405)** Now we can take our top document and do what we did before called the generation part using the OpenAI [[ChatGPT]] 3.5, and we'll give it the search results from the hybrid search.
 >
 > **[6:57](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-hybrid-search?u=76281980&t=417)** And here is the response.
 >
@@ -2158,7 +2139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (15), [[Microsoft Word|Word]] (10), [[Tokens]] (5), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Tokens]] (5), [[Python (Programming Language)|Python]] (2), [[Vector Databases]] (1), [[Semantic Search]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 1.1 (1), 0.2 (1), 0.8 (1), 3.5 (1)
 > **CLI Commands:** python (2), make (1)
@@ -2167,8 +2148,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - here (1)
 
-#### Hands-on lab: Reranking
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980)
+#### [Hands-on lab: Reranking](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,7 +2170,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980&t=46)** So we're going to do the usual visual improvement so we can understand the outputs more easily.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980&t=52)** And we are going to load a model from the Hugging Face hub.
+> **[0:52](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980&t=52)** And we are going to load a model from the [[Hugging Face]] hub.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-reranking?u=76281980&t=56)** This one is a model that is a cross encoder that knows how to take those two inputs together.
 >
@@ -2252,15 +2232,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), llm (4), next (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Env Vars:** llm (4), gpt (1)
 > **Versions:** 7.1 (2), 5.0 (1), 3.3 (1), 3.5 (1)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - we (1)
 
-#### Multimodal retrieval introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980)
+#### [Multimodal retrieval introduction](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2274,13 +2253,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=46)** But in this lesson, we're going to talk about the more advanced and much better.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=50)** The performance is improved dramatically when we use this method, to use an encoding modal that is optimized for images, and some advanced methods of vector databases, like supporting multi-vectors and quantization.
+> **[0:50](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=50)** The performance is improved dramatically when we use this method, to use an encoding modal that is optimized for images, and some advanced methods of [[Vector Databases]], like supporting multi-vectors and quantization.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=63)** But overall, the flow is very similar.
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=65)** We just replaced encoder with the image encoder, and configured the database with some advanced configuration.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=72)** The rest will be the same.
+> **[1:12](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=72)** The [[Representational State Transfer (REST)|rest]] will be the same.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/multimodal-retrieval-introduction?u=76281980&t=73)** So the user will ask the query, the query will be encoded, the retrieval will go to the images, and the process will continue as before.
 >
@@ -2322,14 +2301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Vector Databases]] (1), database (1), [[Representational State Transfer (REST)|Rest]] (1), game (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ocr (1), p99 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - not (1)
 
-#### Hands-on lab: Multimodal PDF retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980)
+#### [Hands-on lab: Multimodal PDF retrieval](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,7 +2341,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=60)** So now let's say "download the image model", the "ColPali" model.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=64)** We are loading it is usually from the hugging face hub.
+> **[1:04](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=64)** We are loading it is usually from the [[Hugging Face]] hub.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=71)** Takes a few seconds to download all the parameters of the models.
 >
@@ -2383,7 +2361,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=114)** So we have a single document, one image.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=116)** We have more than 1000 tokens, and vector size is 188.
+> **[1:56](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=116)** We have more than 1000 [[Tokens]], and vector size is 188.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hands-on-lab-multimodal-pdf-retrieval?u=76281980&t=122)** Remember, so this is a single image, single document, and we didn't do any chunking.
 >
@@ -2565,7 +2543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Search]] (6), data (5), [[Hugging Face]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Tokens]] (1)
 > **Env Vars:** pdf (5), gpu (1), ram (1), llm (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 0.99 (1), 14.19 (1), 3.5 (1)

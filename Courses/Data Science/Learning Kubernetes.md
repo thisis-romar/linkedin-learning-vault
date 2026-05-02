@@ -100,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting sail on your Kubernetes voyage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
+#### [Setting sail on your Kubernetes voyage](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=0)** - Kubernetes is ubiquitous in the tech industry as the way to deploy and manage distributed software.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=0)** - [[Kubernetes]] is ubiquitous in the tech industry as the way to deploy and manage distributed software.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=8)** And you can find it heralded in conference talks, job descriptions, blog posts, and all over Twitter.
 >
@@ -125,25 +124,24 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=73)** I'm Kim Schlesinger, a tech educator, and Kubernetes enthusiast.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=78)** So join me in this LinkedIn Learning course as I guide you through this container orchestration platform.
+> **[1:18](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=78)** So join me in this [[LinkedIn]] Learning course as I guide you through this container orchestration platform.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980&t=84)** Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Orchestration]] (2), [[Security]] (1), [[Troubleshooting]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cern (1)
 > **Speakers:** - kubernetes (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=0)** - Before we begin, let's review what you'll need to know and be able to do in order to complete this course.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=7)** First, you'll need access to a computer running Windows, Linux, or macOS.
+> **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=7)** First, you'll need access to a computer running [[Windows]], [[Linux]], or macOS.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=14)** Second, you'll need internet access and a terminal application where you can run simple Unix commands like make directory, mkdir, and change directory, cd.
 >
@@ -151,15 +149,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=33)** Simply knowing a tiny bit about Docker or another container technology like Podman is more than enough, so if you want to quickly read the first paragraph of the Docker Wikipedia entry that will do.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=45)** If you'd like a more in-depth overview of containers, you can find several courses on Docker and microservices in the LinkedIn Learning Library.
+> **[0:45](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=45)** If you'd like a more in-depth overview of containers, you can find several courses on Docker and [[Microservices]] in the [[LinkedIn]] Learning Library.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=55)** Finally, you'll need a text editor like VS Code to view and edit the Kubernetes manifests we'll use in this course.
+> **[0:55](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=55)** Finally, you'll need a text editor like VS Code to view and edit the [[Kubernetes]] manifests we'll use in this course.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-you-should-know?u=76281980&t=63)** There's no need to be a tech expert to work through this course, so if you've got a terminal app, a text editor, a high-level understanding of Docker, and the desire to learn more about Kubernetes, you're ready, so let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (1), [[Linux]] (1), application (1), cd (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (1), [[Linux]] (1), [[Microservices]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (4), make (1), mkdir (1), cd (1), find (1)
 > **Prerequisites:** you'll need (4)
 > **Tools:** terminal (2), vs code (1)
@@ -171,22 +169,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Kubernetes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
+#### [What is Kubernetes?](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=0)** - Since it was launched as an open source project in 2015, Kubernetes has proven to be one of the most exciting and dynamic software projects of all time.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=0)** - Since it was launched as an open source project in 2015, [[Kubernetes]] has proven to be one of the most exciting and dynamic [[Software Projects]] of all time.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=10)** Kubernetes is eating the world and surveys of software engineers, DevOps professionals, and chief technology officers show us this is true.
+> **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=10)** Kubernetes is eating the world and surveys of software engineers, [[DevOps]] professionals, and chief technology officers show us this is true.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=20)** According to the official 2021 Cloud Native Computing Foundation survey, 96% of organizations are either using or evaluating Kubernetes and more than 5.6 million developers are using it today.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=36)** Kubernetes' release was announced by Google in 2014 and the system's design was influenced by Google's internal cluster management system called Borg.
+> **[0:36](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=36)** Kubernetes' release was announced by [[Google]] in 2014 and the system's design was influenced by Google's internal cluster management system called Borg.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=46)** Instead of keeping the idea to themselves, Google worked with the Linux Foundation to form a new organization called the Cloud Native Computing Foundation and donated Kubernetes as the first open source project under the purview of the CNCF.
+> **[0:46](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=46)** Instead of keeping the idea to themselves, Google worked with the [[Linux]] Foundation to form a new organization called the Cloud Native Computing Foundation and donated Kubernetes as the first open source project under the purview of the CNCF.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=61)** Kubernetes, also known as "Kates" or K8s, is Greek for the word pilot or helmsman of a ship.
+> **[1:01](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=61)** Kubernetes, also known as "Kates" or K8s, is Greek for the [[Microsoft Word|word]] pilot or helmsman of a ship.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=69)** Kubernetes has this name because it's a container orchestrator.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=201)** You can install Kubernetes on your own or you can use a managed Kubernetes service.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=206)** Google, Amazon, Microsoft, IBM, Red Hat, DigitalOcean, and other cloud providers offer Kubernetes as a service products that let you install Kubernetes with the click of a button and start deploying containerized applications fast.
+> **[3:26](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=206)** Google, Amazon, [[Microsoft]], IBM, Red Hat, DigitalOcean, and other cloud providers offer Kubernetes as a service [[Microsoft Products|products]] that let you install Kubernetes with the click of a button and start deploying containerized applications fast.
 >
 > **[3:43](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980&t=223)** There's a lot of buzz around Kubernetes and for good reason.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (24), cloud (4), [[Google]] (4), [[Software Projects]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (24), [[Google]] (4), [[Software Projects]] (2), [[Linux]] (2), [[DevOps]] (1)
 > **Env Vars:** cncf (2), ibm (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Prerequisites:** install (2)
@@ -242,22 +239,21 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - since (1)
 
-#### What are containers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980)
+#### [What are containers?](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=0)** - In our last video, we learned that Kubernetes is a container orchestration system, but what exactly are containers?
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=0)** - In our last video, we learned that [[Kubernetes]] is a container orchestration system, but what exactly are containers?
 >
 > **[0:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=9)** Let's review.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=11)** Pioneered and popularized by Docker, containers are a technology that bundle the code for an application and the configuration required to run the code itself in one unit.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=24)** Before container technology, different servers or virtual machines were required to run each instance of an application.
+> **[0:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=24)** Before container technology, different servers or [[Virtual Machines]] were required to run each instance of an application.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=32)** Building your applications using containers has several advantages.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=38)** First, containers are portable and can be run on any Linux, Windows or macOS machine as long as there is a container engine installed.
+> **[0:38](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=38)** First, containers are portable and can be run on any [[Linux]], [[Windows]] or macOS machine as long as there is a container engine installed.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=48)** Second, containers use less CPU and memory than a virtual machine or an application running on a server, so you can put more containers on fewer servers saving you or your company money.
 >
@@ -273,17 +269,17 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=99)** A container registry is a database that stores container images and these images can be available to the public or private to only those people or service accounts with permission.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=111)** Some examples of managed container registries are the Docker Hub, Quay or the Google Container Registry.
+> **[1:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=111)** Some examples of managed container registries are the Docker Hub, Quay or the [[Google]] Container Registry.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=119)** In this course, we'll be working with preexisting images, so you won't be directly building or altering containerized applications.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=127)** If this skill is something you want to learn more about, I recommend you check out the course, Learning Docker, in the LinkedIn Learning Library.
+> **[2:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=127)** If this skill is something you want to learn more about, I recommend you check out the course, Learning Docker, in the [[LinkedIn]] Learning Library.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=136)** What we will be doing is using Kubernetes to pull a container image from a registry, tell Kubernetes how many replicas of that container we'd like to run, and then Kubernetes, will use the container runtime interface to build and start the containers.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=151)** Docker is the most well known container technology, but there are alternatives like podman, containerd, rkt, and LXD, and there will certainly be more in the future.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=164)** A side note on something I really enjoy, the nautical themes used to communicate about Kubernetes and Docker, the logo for Kubernetes is the helm of a ship, because Kubernetes is the Greek word for ship's captain.
+> **[2:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=164)** A side note on something I really enjoy, the nautical themes used to communicate about Kubernetes and Docker, the logo for Kubernetes is the [[Helm]] of a ship, because Kubernetes is the Greek [[Microsoft Word|word]] for ship's captain.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-are-containers?u=76281980&t=178)** Docker uses shipping containers and whales to visually communicate what it does.
 >
@@ -297,37 +293,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), application (3), cloud (2), [[Orchestration]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Virtual Machines]] (1), [[Linux]] (1), [[Windows]] (1), [[Google]] (1)
 > **CLI Commands:** docker (7)
 > **Definitions:** is a  (5)
 > **Env Vars:** cpu (1), lxd (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - in (1)
 
-#### What is cloud native?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980)
+#### [What is cloud native?](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=0)** - The tech industry is full of terms that are loaded with meaning and here are a few that I often see agile, DevOps and cloud native.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=0)** - The tech industry is full of terms that are loaded with meaning and here are a few that I often see [[Agile Development|agile]], [[DevOps]] and cloud native.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=11)** I've even used some of these terms in this course.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=15)** In earlier videos, I alluded to the fact that Kubernetes is a cloud native technology but, what does that mean?
+> **[0:15](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=15)** In earlier videos, I alluded to the fact that [[Kubernetes]] is a cloud native technology but, what does that mean?
 >
 > **[0:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=24)** - [Narrator] Here's the official definition from the cloud native computing foundation.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=29)** Cloud native technologies empower organizations to build and run scalable applications in modern dynamic environments such as public, private, and hybrid clouds.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=42)** Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach that's really, dense.
+> **[0:42](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=42)** Containers, service meshes, [[Microservices]], immutable infrastructure, and declarative APIs exemplify this approach that's really, dense.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=54)** So, here's my definition, cloud native technologies are open-source projects designed to let technologists use cloud computing services to automatically deploy and scale applications.
+> **[0:54](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=54)** So, here's my definition, cloud native technologies are open-source projects designed to let technologists use [[Cloud Computing]] services to automatically deploy and scale applications.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=68)** - The cloud native approach to writing and deploying software is a paradigm shift from the approach to making software used in the 1990's and 2000's.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=79)** - [Narrator] Cloud native technology is built with the assumption that it is good to remove silos between sys admins, infrastructure engineers and software engineers so that code changes can be quickly and automatically tested and pushed to production instead of waiting for release dates at the end of the week, month, or quarter.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=100)** - The Cloud Native Computing Foundation or CNCF is part of the Linux Foundation and the organization's goal is to make cloud native computing ubiquitous.
+> **[1:40](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=100)** - The Cloud Native Computing Foundation or CNCF is part of the [[Linux]] Foundation and the organization's goal is to make cloud native computing ubiquitous.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=112)** The organization supports their community by organizing groups that write the code for cloud native software, including Kubernetes.
 >
@@ -343,13 +338,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=167)** - One reason why Kubernetes has become the defacto container orchestration platform is because it's heavily supported by the CNCF which means projects can grow through code commits, they benefit from good documentation and training materials and they compile case studies of companies successfully using Kubernetes.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=187)** - [Narrator] Kubernetes is one of many open source projects backed by the CNCF and as you move through your Kubernetes journey you'll encounter other projects like Helm, Prometheus and Linkerd.
+> **[3:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=187)** - [Narrator] Kubernetes is one of many open source projects backed by the CNCF and as you move through your Kubernetes journey you'll encounter other projects like [[Helm]], Prometheus and Linkerd.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-cloud-native?u=76281980&t=200)** - Now that we've had an overview of Kubernetes containers and the world of cloud native, it's time for us to dive in and spin up a Kubernetes cluster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Kubernetes]] (9), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Microservices]] (1), [[Cloud Computing]] (1)
 > **Speakers:** - [narrator] (4), - the (3), - one (1), - now (1)
 > **Env Vars:** cncf (5)
 > **Definitions:** is a  (2)
@@ -361,16 +356,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install Docker on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
+#### [Install Docker on Windows](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a Kubernetes cluster on our computer.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a [[Kubernetes]] cluster on our computer.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=6)** Let's find out how to install Docker on Windows 10.
+> **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=6)** Let's find out how to install Docker on [[Windows 10]].
 >
-> **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=10)** This is the install Docker desktop on Windows page in the Docker Docs.
+> **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=10)** This is the install Docker desktop on [[Windows]] page in the Docker Docs.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980&t=16)** I need to download Docker desktop.
 >
@@ -398,25 +392,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (2), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Windows]] (2), [[Windows 10]] (1)
 > **CLI Commands:** docker (7), find (1)
 > **Tools:** docker desktop (4)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Docker on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980)
+#### [Install Docker on Linux](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a Kubernetes cluster on our computer.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a [[Kubernetes]] cluster on our computer.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=6)** Let's find out how to install Docker on Linux.
+> **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=6)** Let's find out how to install Docker on [[Linux]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=10)** First, let's find out what Linux distribution and version I'm running, with lsb_release -a.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=22)** I'm running Ubuntu version 22.04.
+> **[0:22](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=22)** I'm running [[Ubuntu]] version 22.04.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-linux?u=76281980&t=27)** Next, let's follow along with the instructions titled "Install using the repository."
 >
@@ -458,7 +451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Kubernetes]] (2), [[Linux]] (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Linux]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** docker (6), find (2), sudo (2), apt (2), curl (1)
 > **Prerequisites:** install (3), set up (3)
 > **Code Identifiers:** lsb_release (1)
@@ -467,12 +460,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Docker on macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-macos?u=76281980)
+#### [Install Docker on macOS](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-macos?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a Kubernetes cluster on our computer.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-macos?u=76281980&t=0)** - [Instructor] Docker is the container engine that will help us spin up a [[Kubernetes]] cluster on our computer.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-macos?u=76281980&t=6)** Let's find out how to install Docker on macOS.
 >
@@ -510,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **CLI Commands:** docker (11), find (1)
 > **Tools:** docker desktop (3), terminal (1)
 > **UI Navigation:** open the (2), drag and drop (1)
@@ -518,14 +510,13 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **Speakers:** - [instructor] (1)
 
-#### Install minikube on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980)
+#### [Install minikube on Windows](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=0)** - Now that we have Docker desktop installed, let's download Minikube.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=5)** Minikube is software that lets you run a Kubernetes cluster using just your computer.
+> **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=5)** Minikube is software that lets you run a [[Kubernetes]] cluster using just your computer.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=11)** In order to use minikube, you need a way to run commands in your terminal and you need to install a container runtime like Docker or Podman.
 >
@@ -537,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=40)** All right, so we are on the minikube welcome page.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=44)** Let's figure out how to install minikube on Windows by going to the Get started section.
+> **[0:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=44)** Let's figure out how to install minikube on [[Windows]] by going to the Get started section.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-windows?u=76281980&t=51)** All right, we're going to scroll down.
 >
@@ -593,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), next (3), [[Kubernetes]] (2), cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Kubernetes]] (2)
 > **UI Navigation:** scroll down (3), click on (1), go to (1), select the (1)
 > **Prerequisites:** install (3), setup (2), required to (1)
 > **CLI Commands:** docker (3), make (1)
@@ -602,12 +593,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** just like (1)
 
-#### Install minikube on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980)
+#### [Install minikube on Linux](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=0)** - [Instructor] Minikube is software that lets you run a Kubernetes cluster using just your computer.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=0)** - [Instructor] Minikube is software that lets you run a [[Kubernetes]] cluster using just your computer.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=6)** In order to use minikube, you need a way to run commands in your terminal and you need to install a container runtime like Docker or Podman.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=23)** It's free because you are not required to pay a cloud provider for compute resources, but minikube is not fit for production clusters because it runs locally on your computer and lacks the security and networking capabilities offered by cloud providers.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=39)** Let's click on the Get Started section to install minikube on Linux.
+> **[0:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=39)** Let's click on the Get Started section to install minikube on [[Linux]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-linux?u=76281980&t=45)** So we're going to scroll down and here's the installation instructions.
 >
@@ -635,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), cloud (2), [[Linux]] (2), [[Security]] (1), hit (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Linux]] (2)
 > **CLI Commands:** docker (1), make (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Exercise Files:** download the (2)
@@ -644,12 +634,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install minikube on macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-macos?u=76281980)
+#### [Install minikube on macOS](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-macos?u=76281980&t=0)** - [Instructor] minikube is software that lets you run a Kubernetes cluster using just your computer.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-macos?u=76281980&t=0)** - [Instructor] minikube is software that lets you run a [[Kubernetes]] cluster using just your computer.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-minikube-on-macos?u=76281980&t=6)** In order to use minikube, you need to install a container runtime, like Docker or podman.
 >
@@ -687,14 +676,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), cloud (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3)
 > **CLI Commands:** docker (2), brew (1), kubectl (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spin up and explore a minikube cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980)
+#### [Spin up and explore a minikube cluster](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=49)** The minikube command helps you create a cluster from scratch, whereas cube control lets you interact with your cluster.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=56)** In the future, when you spin up a cluster using a cloud provider like AWS, Azure, or gcp, you'll use their command line tool to generate the cluster and cube control for the rest of your actions.
+> **[0:56](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=56)** In the future, when you spin up a cluster using a cloud provider like AWS, [[Microsoft Azure|Azure]], or gcp, you'll use their command line tool to generate the cluster and cube control for the [[Representational State Transfer (REST)|rest]] of your actions.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=69)** You will know minikube is done once you see this success message in your terminal.
 >
@@ -726,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=79)** Run the command, cube control cluster dash info.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=84)** You will see the IP address of your Kubernetes control plane.
+> **[1:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=84)** You will see the IP address of your [[Kubernetes]] control plane.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/spin-up-and-explore-a-minikube-cluster?u=76281980&t=88)** Since it's running on your computer, you'll see the local host address HTTPS one 27 dot zero dot zero dot one in a random port number.
 >
@@ -778,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), next (5), application (2), node (2), cloud (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (6), node (2), make (1), aws (1)
 > **Env Vars:** aws (1), https (1), dns (1)
 > **Tools:** docker desktop (1), command line (1), terminal (1)
@@ -792,32 +780,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading and writing YAML
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
+#### [Reading and writing YAML](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=0)** - [Instructor] Once you start working with Cloud Native Tech, you'll notice the terms Infrastructure as Code and GitOps all over the place.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=0)** - [Instructor] Once you start working with Cloud Native Tech, you'll notice the terms [[Infrastructure as code (IaC)|Infrastructure as Code]] and GitOps all over the place.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=9)** These two approaches are often paired with Kubernetes.
+> **[0:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=9)** These two approaches are often paired with [[Kubernetes]].
 >
-> **[0:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=12)** In Kubernetes, setting up your infrastructure with code and preparing yourself to deploy changes through a GitOps workflow require that you can save the desired state of your cluster in a set of files that you manage with a source control system like Git.
+> **[0:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=12)** In Kubernetes, setting up your infrastructure with code and preparing yourself to deploy changes through a GitOps workflow require that you can save the desired state of your cluster in a set of files that you manage with a source control system like [[Git]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=28)** In Kubernetes, the most commonly used format for these files are YAML manifests.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=35)** A quick note on the terms Infrastructure as Code and GitOps.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=39)** We won't go in depth on these terms in this course, but when you're ready to learn more, I recommend you check out the course called GitOps Foundations in the LinkedIn Learning Library.
+> **[0:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=39)** We won't go in depth on these terms in this course, but when you're ready to learn more, I recommend you check out the course called GitOps Foundations in the [[LinkedIn]] Learning Library.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=50)** YAML is a data serialization language often used for configuration files.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=57)** Data serialization languages provide a standard syntax for communicating information so that devices, operating systems and programming languages can easily share data with one another.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=70)** Examples of other data serialization languages are json and xml.
+> **[1:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=70)** Examples of other data serialization languages are [[JSON]] and xml.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=76)** Using a data serialization language makes your data portable.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=81)** Remember, we used that word to talk about containers earlier in the course.
+> **[1:21](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=81)** Remember, we used that [[Microsoft Word|word]] to talk about containers earlier in the course.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980&t=86)** Like a suitcase, YAML lets you package and pick up your data and take it to another location and unload it without requiring anything extra from the developer.
 >
@@ -885,7 +872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Kubernetes]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), next (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[LinkedIn]] (2), [[Git]] (1), [[JSON]] (1)
 > **Env Vars:** yaml (21), cpu (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
 > **CLI Commands:** git (1), make (1)
@@ -894,14 +881,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
 
-#### Create a namespace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980)
+#### [Create a namespace](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980&t=0)** - [Narrator] Kubernetes name spaces let you isolate and organize your workloads.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980&t=0)** - [Narrator] [[Kubernetes]] name spaces let you isolate and organize your workloads.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980&t=5)** When you use Kubernetes, you'll probably want to create different name spaces to organize your applications and microservices.
+> **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980&t=5)** When you use Kubernetes, you'll probably want to create different name spaces to organize your applications and [[Microservices]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/create-a-namespace?u=76281980&t=14)** For example, if you have your development and production environments running in the same Kubernetes cluster, you can separate your applications running in each environment by deploying them into a name space called development, and a different one called production.
 >
@@ -941,21 +927,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Microservices]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Microservices]] (2)
 > **CLI Commands:** kubectl (5)
 > **File Paths:** namespace.yaml (3)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploy an application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980)
+#### [Deploy an application](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=0)** - Kubernetes is designed to help make your applications highly available, meaning there are multiple replicas of your application running at the same time, so that if one stops working, there are at least two others accepting traffic.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=0)** - [[Kubernetes]] is designed to help make your applications highly available, meaning there are multiple replicas of your application running at the same time, so that if one stops working, there are at least two others accepting traffic.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=15)** Pods are the Kubernetes resource that run our applications and microservices, and one way to ensure that an application is highly available is to organize your Pods using a Kubernetes deployment.
+> **[0:15](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=15)** Pods are the Kubernetes resource that run our applications and [[Microservices]], and one way to ensure that an application is highly available is to organize your Pods using a Kubernetes deployment.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=28)** This is a YAML spec for a deployment.
 >
@@ -963,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=41)** The next pair is the kind of Kubernetes object we want to create, which is a deployment.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=47)** In the metadata section, we are naming our deployment "pod-info-deployment", specifying that our Pods should be in the development namespace and labeling all Pods in this group with the app name Pod info.
+> **[0:47](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=47)** In the [[Metadata]] section, we are naming our deployment "pod-info-deployment", specifying that our Pods should be in the development namespace and labeling all Pods in this group with the app name Pod info.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-kubernetes-16086900/deploy-an-application?u=76281980&t=62)** Next, we're going to make our application highly available.
 >
@@ -1029,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), application (3), next (3), traffic (2), api (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Microservices]] (1), [[Metadata]] (1)
 > **CLI Commands:** kubectl (7), make (3), docker (1)
 > **Env Vars:** api (2), yaml (1), pod_name (1), pod_namespace (1), pod_ip (1)
 > **File Paths:** namespace.yaml (2), deployment.yaml (1)
@@ -1038,8 +1023,7 @@ created: 2026-05-02
 > **Ports:** port 3000 (1)
 > **Cross-References:** in the next (1)
 
-#### Check the health of a pod by looking at the event logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980)
+#### [Check the health of a pod by looking at the event logs](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980&t=14)** Or a typo can cause the pod to start running, but suddenly stop.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980&t=19)** Kubernetes saves the event logs when a pod is created, and if you know how to view these, you can troubleshoot issues.
+> **[0:19](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980&t=19)** [[Kubernetes]] saves the event logs when a pod is created, and if you know how to view these, you can troubleshoot issues.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-the-health-of-a-pod-by-looking-at-the-event-logs?u=76281980&t=26)** The first step is to find the pod whose event logs you'd like to view.
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **CLI Commands:** kubectl (3), find (1)
 > **UI Navigation:** scroll up (1), scroll down (1)
 > **Env Vars:** yaml (1)
@@ -1095,18 +1079,17 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check that your application is working with BusyBox
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980)
+#### [Check that your application is working with BusyBox](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=0)** - [Instructor] Once you deploy something in your Kubernetes cluster, you want to verify that the application is working as expected.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=0)** - [Instructor] Once you deploy something in your [[Kubernetes]] cluster, you want to verify that the application is working as expected.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=8)** But how can you check?
 >
 > **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=10)** One way is to use a tool called BusyBox.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=14)** BusyBox is known as the Swiss Army Knife of embedded Linux, and it's a binary that contains many well-known Unix tools like Awk, Date, Who am I and Wget?
+> **[0:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=14)** BusyBox is known as the Swiss Army Knife of embedded [[Linux]], and it's a binary that contains many well-known Unix tools like Awk, Date, Who am I and Wget?
 >
 > **[0:27](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=27)** It's a good tool for debugging and troubleshooting issues in a Linux environment and Kubernetes runs on Linux.
 >
@@ -1158,7 +1141,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=190)** If you wanted to exec into a different pod, you would put its unique name there.
 >
-> **[3:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=194)** Finally, we need to specify the shell we'll use, Bash, vanilla Shell, Fish.
+> **[3:14](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=194)** Finally, we need to specify the shell we'll use, Bash, [[Vanilla]] Shell, Fish.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=200)** In our case, /bin/sh uses the executable shell.
 >
@@ -1188,11 +1171,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=289)** Hey, it looks like it worked.
 >
-> **[4:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=291)** And that Wget saved that info in a file called index.html.
+> **[4:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=291)** And that Wget saved that info in a file called index.[[HTML]].
 >
 > **[4:57](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=297)** Let's look in that file by running cat index.html.
 >
-> **[5:04](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=304)** All right, I see a JSON object of the environment variables we set in the deployment YAML, which is what this application does.
+> **[5:04](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=304)** All right, I see a [[JSON]] object of the environment variables we set in the deployment YAML, which is what this application does.
 >
 > **[5:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/check-that-your-application-is-working-with-busybox?u=76281980&t=312)** It shows you some info about your pod.
 >
@@ -1206,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Kubernetes]] (3), [[Linux]] (3), next (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Linux]] (3), [[HTML]] (2), [[Vanilla]] (1), [[JSON]] (1)
 > **CLI Commands:** wget (9), kubectl (7), make (4), find (2), awk (1)
 > **Env Vars:** yaml (2), http (2), ssh (1), json (1)
 > **Tools:** terminal (2), bash (1), command prompt (1)
@@ -1215,8 +1198,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** go back to (1)
 
-#### View your application logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/view-your-application-logs?u=76281980)
+#### [View your application logs](https://www.linkedin.com/learning/learning-kubernetes-16086900/view-your-application-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,13 +1226,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), next (1)
 > **CLI Commands:** kubectl (2), make (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/learning-kubernetes-16086900/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1288,7 +1268,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), next (1), application (1)
 > **File Paths:** quote.yaml (2)
 > **CLI Commands:** kubectl (1)
 > **Ports:** port 8080 (1)
@@ -1296,8 +1275,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=52)** The next requirement is to name the deployment and name the app label quote dash service.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=60)** So under metadata is the name of the deployment, so quote dash service, and then the app label.
+> **[1:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=60)** So under [[Metadata]] is the name of the deployment, so quote dash service, and then the app label.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=68)** I have three instances of it here.
 >
@@ -1409,7 +1387,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=282)** Oh, getting a different error.
 >
-> **[4:45](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=285)** It says connecting to that IP address at port 8080 w get can't open index dot html because the file already exists.
+> **[4:45](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=285)** It says connecting to that IP address at port 8080 w get can't open index dot [[HTML]] because the file already exists.
 >
 > **[4:53](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=293)** Okay, that makes sense.
 >
@@ -1425,7 +1403,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=324)** And so if I cat that index, dot html, hey, beautiful.
 >
-> **[5:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=328)** We see this JSON object, which is what the quote service does.
+> **[5:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=328)** We see this [[JSON]] object, which is what the quote service does.
 >
 > **[5:32](https://www.linkedin.com/learning/learning-kubernetes-16086900/solution?u=76281980&t=332)** It gives us the name of a server, it gives us a random quote, and then it gives us a timestamp.
 >
@@ -1435,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[HTML]] (5), data (3), prompt (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Metadata]] (1), [[JSON]] (1)
 > **Ports:** port 8080 (4), port 80 (1)
 > **CLI Commands:** docker (1), make (1), cat (1)
 > **Tools:** vs code (1), command prompt (1), command line (1)
@@ -1449,8 +1427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expose your application to the internet with a LoadBalancer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
+#### [Expose your application to the internet with a LoadBalancer](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=10)** How do you expose your application to the internet?
 >
-> **[0:13](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=13)** The answer is called a Kubernetes service.
+> **[0:13](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=13)** The answer is called a [[Kubernetes]] service.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=17)** A Kubernetes service is a load balancer that directs traffic from the internet to Kubernetes pods.
 >
@@ -1502,7 +1479,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=159)** Because minikube works only in our computer and not in a public cloud, we're not actually getting an IP address available on the internet.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=168)** If you create a load balancer service with Google Cloud, Azure, AWS, or any other cloud provider, they'll give you a public IP address available on the internet.
+> **[2:48](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=168)** If you create a load balancer service with [[Google Cloud Platform (GCP)|Google Cloud]], [[Microsoft Azure|Azure]], AWS, or any other cloud provider, they'll give you a public IP address available on the internet.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=179)** Let's try and access our application from that IP address.
 >
@@ -1514,7 +1491,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=196)** It looks like I need to enter my password to allow the service to work. Let's do that and try again in our browser One hundred, there we go.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=208)** It works! There's the JSON Object from our pod info app.
+> **[3:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=208)** It works! There's the [[JSON]] Object from our pod info app.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980&t=214)** Let's wrap this up. Go to the tab with minikube tunnel.
 >
@@ -1528,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), application (4), traffic (4), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
 > **CLI Commands:** kubectl (2), node (1), find (1), make (1), aws (1)
 > **Definitions:** is a  (3), is called (1), means that (1)
 > **Env Vars:** url (1), aws (1), json (1)
@@ -1537,12 +1514,11 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Cross-References:** next video (1)
 
-#### Add resource requests and limits to your pod
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/add-resource-requests-and-limits-to-your-pod?u=76281980)
+#### [Add resource requests and limits to your pod](https://www.linkedin.com/learning/learning-kubernetes-16086900/add-resource-requests-and-limits-to-your-pod?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/add-resource-requests-and-limits-to-your-pod?u=76281980&t=0)** - [Narrator] Well configured containers let Kubernetes know how much memory and CPU to reserve on a worker node.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/add-resource-requests-and-limits-to-your-pod?u=76281980&t=0)** - [Narrator] Well configured containers let [[Kubernetes]] know how much memory and CPU to reserve on a worker node.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/add-resource-requests-and-limits-to-your-pod?u=76281980&t=7)** In this video, you'll learn how to set CPU and memory requests and limits on the containers in your pods.
 >
@@ -1610,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Kubernetes]] (4), power (2), application (1), management (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4)
 > **CLI Commands:** node (7), make (2), kubectl (2)
 > **Env Vars:** cpu (6), yaml (1)
 > **File Paths:** deployment.yaml (2)
@@ -1618,8 +1594,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Delete your Kubernetes objects and tear down your cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980)
+#### [Delete your Kubernetes objects and tear down your cluster](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980&t=6)** Minikube is a resource-intensive application, so unless you want your computer to melt, it's best to clean up your cluster and stop it when you're not using it.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980&t=17)** The first thing we want to do is delete any Kubernetes resources we created.
+> **[0:17](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980&t=17)** The first thing we want to do is delete any [[Kubernetes]] resources we created.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-kubernetes-16086900/delete-your-kubernetes-objects-and-tear-down-your-cluster?u=76281980&t=22)** We'll do that using the YAML files.
 >
@@ -1655,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3)
 > **CLI Commands:** kubectl (6), make (1)
 > **Env Vars:** yaml (1)
 > **Cross-References:** in the next (1)
@@ -1668,12 +1643,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Kubernetes control plane
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
+#### [The Kubernetes control plane](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=0)** - Now, I want to take some time to go over the Kubernetes control plane.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=0)** - Now, I want to take some time to go over the [[Kubernetes]] control plane.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=5)** To start, let's learn some important vocabulary.
 >
@@ -1689,7 +1663,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=54)** Each Kubernetes object like pods, deployments, and the horizontal pod autoscaler have an API endpoint.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=62)** The Kubernetes API has a REST interface and kubectl and kubeadm are the command line tools that let us communicate with the Kubernetes API via HTTP requests.
+> **[1:02](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=62)** The Kubernetes API has a [[Representational State Transfer (REST)|REST]] interface and kubectl and kubeadm are the command line tools that let us communicate with the Kubernetes API via HTTP requests.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=75)** To see all the Kubernetes objects and their API version, run the command kubectl api-resources.
 >
@@ -1723,17 +1697,17 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=203)** The controller manager creates and checks several other things in a cluster.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=208)** The final component of the Kubernetes control plane is the cloud controller manager, which lets you connect your cluster with a cloud provider's API so you can use cloud resources from AWS, GCP, Azure, or any public cloud.
+> **[3:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=208)** The final component of the Kubernetes control plane is the cloud controller manager, which lets you connect your cluster with a cloud provider's API so you can use cloud resources from AWS, GCP, [[Microsoft Azure|Azure]], or any public cloud.
 >
-> **[3:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=224)** The Kubernetes control plane contains the components that manage a cluster and enable the resiliency and automation that make Kubernetes such a popular container orchestrator.
+> **[3:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=224)** The Kubernetes control plane contains the components that manage a cluster and enable the [[Resiliency]] and automation that make Kubernetes such a popular container orchestrator.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=234)** One note, if you're using a managed Kubernetes service like AWS's EKS or Google's GKE, you will not be able to see your control plane nodes using kubectl, those are hidden because the cloud provider handles all the maintenance of those components for you.
+> **[3:54](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=234)** One note, if you're using a managed Kubernetes service like AWS's EKS or [[Google]]'s GKE, you will not be able to see your control plane nodes using kubectl, those are hidden because the cloud provider handles all the maintenance of those components for you.
 >
 > **[4:13](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980&t=253)** In our next video, we'll learn about the second part of a cluster, the worker nodes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (18), api (13), node (5), cloud (5), next (4)
+> **Frameworks & Libraries:** [[Kubernetes]] (18), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1), [[Resiliency]] (1), [[Google]] (1)
 > **Env Vars:** api (12), aws (2), rest (1), http (1), gcp (1)
 > **CLI Commands:** node (5), kubectl (4), make (2), aws (2), find (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -1742,12 +1716,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Kubernetes worker nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-worker-nodes?u=76281980)
+#### [Kubernetes worker nodes](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-worker-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-worker-nodes?u=76281980&t=0)** - In the last video, we discussed the components of the Kubernetes control plane, and in this video we'll look at the components that make up Kubernetes worker nodes.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-worker-nodes?u=76281980&t=0)** - In the last video, we discussed the components of the [[Kubernetes]] control plane, and in this video we'll look at the components that make up Kubernetes worker nodes.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-worker-nodes?u=76281980&t=12)** If Kubernetes is like an airport, the control plane is like the air traffic control tower, and the worker nodes are like the busy terminals, where planes park and passengers board.
 >
@@ -1781,7 +1754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), node (3), next (2), traffic (1), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9)
 > **CLI Commands:** docker (4), node (3), make (1), aws (1)
 > **Env Vars:** cri (3), api (1), aws (1)
 > **Cross-References:** in the last (1), we discussed (1), in the next (1)
@@ -1789,12 +1762,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### How the control plane and nodes work together
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/how-the-control-plane-and-nodes-work-together?u=76281980)
+#### [How the control plane and nodes work together](https://www.linkedin.com/learning/learning-kubernetes-16086900/how-the-control-plane-and-nodes-work-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/how-the-control-plane-and-nodes-work-together?u=76281980&t=0)** - In this video, we will use a time sequence diagram to visualize how the Kubernetes control plane and a node work together to create a pod.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/how-the-control-plane-and-nodes-work-together?u=76281980&t=0)** - In this video, we will use a time sequence diagram to visualize how the [[Kubernetes]] control plane and a node work together to create a pod.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-kubernetes-16086900/how-the-control-plane-and-nodes-work-together?u=76281980&t=10)** A time sequence diagram shows the sequential order of actions as they occur.
 >
@@ -1840,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Kubernetes]] (8), node (8)
+> **Frameworks & Libraries:** [[Kubernetes]] (8)
 > **CLI Commands:** node (8), kubectl (3)
 > **Env Vars:** api (10)
 > **Definitions:** is a  (2), is an  (1)
@@ -1853,12 +1825,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ways to manage Kubernetes pods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
+#### [Ways to manage Kubernetes pods](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980&t=0)** - [Instructor] In this course, we've created pods using the Kubernetes deployment object.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980&t=0)** - [Instructor] In this course, we've created pods using the [[Kubernetes]] deployment object.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980&t=5)** There are other ways to manage groups of pods, and in this video we'll review deployments and learn about DaemonSets and jobs.
 >
@@ -1890,30 +1861,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), application (3), node (3), data (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (8)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running stateful workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980)
+#### [Running stateful workloads](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=0)** - [Instructor] Earlier in the course, we deployed a sample application which was stateless and didn't communicate with the database.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=7)** You might be wondering how do you handle data storage in Kubernetes?
+> **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=7)** You might be wondering how do you handle [[Data Storage]] in [[Kubernetes]]?
 >
 > **[0:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=12)** In this video, I'll discuss two ways.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=16)** The first option is to connect your application with a database that is running outside of your cluster.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=22)** For example, let's assume you have an application that uses Postgres for data persistence.
+> **[0:22](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=22)** For example, let's assume you have an application that uses [[PostgreSQL|Postgres]] for data persistence.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=28)** You can either build and maintain a SQL database on a server that is separate from your cluster, or you can use a managed database service like Azure SQL.
+> **[0:28](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=28)** You can either build and maintain a [[SQL]] database on a server that is separate from your cluster, or you can use a managed database service like [[Microsoft Azure|Azure]] SQL.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=38)** Amazon RDS, or Google Cloud SQL and configure it to communicate with Kubernetes.
+> **[0:38](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=38)** Amazon RDS, or [[Google Cloud Platform (GCP)|Google Cloud]] SQL and configure it to communicate with Kubernetes.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-kubernetes-16086900/running-stateful-workloads?u=76281980&t=44)** The second option is to use a Kubernetes Persistent Volume.
 >
@@ -1927,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), application (5), database (5), data (4), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Data Storage]] (3), [[SQL]] (3), [[PostgreSQL|Postgres]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (3), rds (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1936,16 +1906,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kubernetes security
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980)
+#### [Kubernetes security](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=0)** - [Narrator] Like any set of servers on the internet, Kubernetes is susceptible to attacks by malicious actors.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=0)** - [Narrator] Like any set of servers on the internet, [[Kubernetes]] is susceptible to attacks by malicious actors.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=7)** The kinds of threats against Kubernetes clusters are always changing, but there's a standard set of security best practices you can apply to your clusters, and in this video, I'll show you a few you can apply right away.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=21)** In targeting Kubernetes clusters, hackers are often hoping to achieve one of three things: To steal data from inside the cluster, to harness the computational power of the cluster to set up a cryptocurrency mining operation, or to cause a distributed denial of service or DDoS attack.
+> **[0:21](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=21)** In targeting Kubernetes clusters, hackers are often hoping to achieve one of three things: To steal data from inside the cluster, to harness the computational power of the cluster to set up a [[Cryptocurrency]] mining operation, or to cause a distributed denial of service or DDoS attack.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=43)** The first thing you can do to secure your Kubernetes cluster is to add some security context info to your pods.
 >
@@ -1967,9 +1936,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=115)** Another Kubernetes security practice you can start using right now is to scan your Kubernetes yaml manifest with a security tool like Snyk.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=124)** Snyk has a command line tool that will scan your infrastructure as code files, including Kubernetes manifests.
+> **[2:04](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=124)** Snyk has a command line tool that will scan your [[Infrastructure as code (IaC)|infrastructure as code]] files, including Kubernetes manifests.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=132)** Here, I'm going to use my CLI tool to scan my deployment dot yaml file.
+> **[2:12](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=132)** Here, I'm going to use my [[CLI]] tool to scan my deployment dot yaml file.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-kubernetes-16086900/kubernetes-security?u=76281980&t=139)** Snyk, IEC, test, and then deployment dot yaml.
 >
@@ -2047,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), [[Kubernetes]] (16), data (1), power (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Cryptocurrency]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[CLI]] (1)
 > **Env Vars:** iac (2), cli (1), iec (1), cve (1), nsa (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), we covered (1)
@@ -2061,12 +2030,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps on your Kubernetes voyage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)
+#### [Next steps on your Kubernetes voyage](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=0)** - Thanks for embarking on your Kubernetes journey with me.
+> **[0:00](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=0)** - Thanks for embarking on your [[Kubernetes]] journey with me.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=3)** Knowing how to set up a Kubernetes cluster, deploying applications and managing those applications with Kubernetes is an in demand skill that can help you land a job or get promoted at your current one.
 >
@@ -2074,11 +2042,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=24)** To keep up with what's new, I recommend following announcements about the project from the CNCF.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=30)** To dive more deeply into Kubernetes, I suggest you take a look at other LinkedIn Learning courses, especially those in the learning path called Master Cloud-Native Infrastructure with Kubernetes.
+> **[0:30](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=30)** To dive more deeply into Kubernetes, I suggest you take a look at other [[LinkedIn]] Learning courses, especially those in the learning path called Master Cloud-Native Infrastructure with Kubernetes.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=43)** Another way to learn more about Kubernetes is to watch talks from past CubeCon conferences, which you can find on YouTube.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=51)** An excellent way to practice working with a cluster is by taking one of the Linux Foundation's Kubernetes certification exams, like the Kubernetes and Cloud Native Associate exam, the Certified Kubernetes Application Developer exam or the Certified Kubernetes Administrator exam.
+> **[0:51](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=51)** An excellent way to practice working with a cluster is by taking one of the [[Linux]] Foundation's Kubernetes certification exams, like the Kubernetes and Cloud Native Associate exam, the Certified Kubernetes Application Developer exam or the Certified Kubernetes Administrator exam.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980&t=69)** These tests are tough, but they are worth it because studying for them will push you to learn more about how to use Kubernetes.
 >
@@ -2090,7 +2058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (14), cloud (3), [[LinkedIn]] (2), [[Linux]] (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (14), [[LinkedIn]] (2), [[Linux]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** cncf (1)

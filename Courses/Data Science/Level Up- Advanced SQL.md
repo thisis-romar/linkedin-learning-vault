@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced SQL code challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
+#### [Advanced SQL code challenges](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=0)** - We all know that data makes the world go round, so it's definitely worth leveling up your SQL skills.
+> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=0)** - We all know that data makes the world go round, so it's definitely worth leveling up your [[SQL]] skills.
 >
 > **[0:05](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=5)** In this advanced SQL Challenges course, we'll team up with Cars for All, a fictional dealership that has been selling high-quality used cars for over a hundred years.
 >
@@ -91,11 +90,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=20)** As we work through this course, we'll explore employee, customer, and sales data, and we'll cover some more advanced SQL techniques that we can use to answer questions.
 >
-> **[0:30](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=30)** I'm Jess Pomfret, my pronouns are she and her, and I've worked with SQL Server databases for over 10 years.
+> **[0:30](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=30)** I'm Jess Pomfret, my pronouns are she and her, and I've worked with [[Microsoft SQL Server|SQL Server]] [[Databases]] for over 10 years.
 >
-> **[0:35](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=35)** I'm a Microsoft MVP, and I also love PowerShell and automation.
+> **[0:35](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=35)** I'm a [[Microsoft]] MVP, and I also love [[Powershell]] and automation.
 >
-> **[0:39](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=39)** We'll use GitHub code spaces for this course, so open up the repo and follow along.
+> **[0:39](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=39)** We'll use [[GitHub]] code spaces for this course, so open up the repo and follow along.
 >
 > **[0:44](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980&t=44)** If you aren't familiar with code spaces, the next movie will get you up to speed.
 >
@@ -103,22 +102,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (2), business (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[Microsoft]] (1), [[Powershell]] (1)
 > **Env Vars:** sql (5), mvp (1)
 > **Tools:** powershell (1), github (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=8)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-advanced-sql/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -242,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -251,14 +249,13 @@ created: 2026-05-02
 > **Code Identifiers:** getfetch (1)
 > **Env Vars:** url (1)
 
-#### How to execute SQLite queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980)
+#### [How to execute SQLite queries](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=1)** Now we know all about Codespaces and how to get our environment set up, there is one final piece to the puzzle.
+> **[0:01](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=1)** Now we know all about [[Codespaces]] and how to get our environment set up, there is one final piece to the puzzle.
 >
 > **[0:06](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=6)** We need a database to execute our queries against.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=27)** Don't peek ahead of time, instead have a go yourself at solving the challenge and then you can review my answers as we go through them in the course videos.
 >
-> **[0:37](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=37)** The easiest way to start crafting your queries is to create a new SQL file.
+> **[0:37](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=37)** The easiest way to start crafting your queries is to create a new [[SQL]] file.
 >
 > **[0:41](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=41)** You can do this by navigating to the top left hand corner, choosing File, and then New File.
 >
@@ -284,7 +281,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=62)** You can also use the command palette, a really neat Visual Studio Code and therefore Codespaces feature.
 >
-> **[1:08](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=68)** Pressing Ctrl + Shift + P or F1 on Windows will bring up the command palette.
+> **[1:08](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=68)** Pressing Ctrl + Shift + P or F1 on [[Windows]] will bring up the command palette.
 >
 > **[1:14](https://www.linkedin.com/learning/level-up-advanced-sql/how-to-execute-sqlite-queries?u=76281980&t=74)** Then you can search for Create New file, and again enter the name and confirm the location.
 >
@@ -336,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Codespaces]] (3), [[SQL]] (2), feature (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[SQL]] (2), [[Windows]] (1)
 > **UI Navigation:** select the (3), dropdown (1)
 > **File Paths:** query.sql (1)
 > **Env Vars:** sql (1)
@@ -350,8 +347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a list of employees and their immediate managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
+#### [Create a list of employees and their immediate managers](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,20 +385,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Env Vars:** emp (2), mng (2)
 > **Non-Speech:** (bouncy playful music) (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - for (1)
 
-#### Find salespeople who have zero sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980)
+#### [Find salespeople who have zero sales](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980&t=0)** (digital music)
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980&t=9)** - [Instructor] For our next SQL challenge, Gabriela has tasked us with getting a list of salespeople with zero sales.
+> **[0:09](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980&t=9)** - [Instructor] For our next [[SQL]] challenge, Gabriela has tasked us with getting a list of salespeople with zero sales.
 >
 > **[0:14](https://www.linkedin.com/learning/level-up-advanced-sql/find-salespeople-who-have-zero-sales?u=76281980&t=14)** These folks are going to need some extra training, so we can boost sales across the entire Cars For All enterprise.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (2), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Non-Speech:** (digital music) (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** salesid (1)
@@ -444,8 +438,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### List all customers and their sales, even if some data is gone
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980)
+#### [List all customers and their sales, even if some data is gone](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980&t=54)** With the database cleanup we mentioned earlier, this inner join would filter out some of the data we're interested in seeing.
 >
-> **[1:00](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980&t=60)** In some flavors of SQL, for example, T-SQL and SQL Server there is a full outer join.
+> **[1:00](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980&t=60)** In some flavors of [[SQL]], for example, T-SQL and [[Microsoft SQL Server|SQL Server]] there is a full outer join.
 >
 > **[1:06](https://www.linkedin.com/learning/level-up-advanced-sql/list-all-customers-and-their-sales-even-if-some-data-is-gone?u=76281980&t=66)** This type of join allows you to bring in all the rows that match but also all rows from either table that don't have a matching row in the other tables.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4)
 > **Non-Speech:** (bright upbeat music) (2)
 > **Cross-References:** we mentioned (1)
@@ -524,8 +517,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How many cars have been sold per employee?
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
+#### [How many cars have been sold per employee?](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +567,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (2), next (2)
 > **Env Vars:** group (3), select (1), count (1), order (1)
 > **SQL:** group by (3), select (1), order by (1)
 > **Non-Speech:** (upbeat chiptune music) (2)
@@ -584,8 +575,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find the least and most expensive car sold by each employee
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/find-the-least-and-most-expensive-car-sold-by-each-employee?u=76281980)
+#### [Find the least and most expensive car sold by each employee](https://www.linkedin.com/learning/level-up-advanced-sql/find-the-least-and-most-expensive-car-sold-by-each-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,7 +625,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), database (1)
 > **Env Vars:** group (2), min (2), max (2), where (1)
 > **Code Identifiers:** salesamount (3), employeeid (1), firstname (1), lastname (1)
 > **Non-Speech:** (upbeat videogame music) (2), (videogame music) (1), (videogame cheerful music) (1)
@@ -643,9 +632,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** means that (1)
+> **Speakers:** - [narrator] (1)
 
-#### Display a report for employees who have sold more than five cars
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/display-a-report-for-employees-who-have-sold-at-least-five-cars?u=76281980)
+#### [Display a report for employees who have sold more than five cars](https://www.linkedin.com/learning/level-up-advanced-sql/display-a-report-for-employees-who-have-sold-at-least-five-cars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +680,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (1)
 > **Non-Speech:** (digital music) (2)
 > **Code Identifiers:** employeeid (1)
 > **Cross-References:** previous video (1)
@@ -703,8 +691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize sales per year by using a CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
+#### [Summarize sales per year by using a CTE](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,21 +737,20 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=109)** Running the query, you can see the results displayed showing our sales total per year.
 >
-> **[1:53](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=113)** It's worth noting that different SQL flavors allow different options for formatting.
+> **[1:53](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=113)** It's worth noting that different [[SQL]] flavors allow different options for formatting.
 >
 > **[1:58](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=118)** With SQLite, we can use this format pattern to add dollar signs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (1), [[Troubleshooting]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cte (7), sql (1)
 > **Non-Speech:** (computerized music) (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display the number of sales for each employee by month for 2021
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-sales-for-each-employee-by-month-for-2021?u=76281980)
+#### [Display the number of sales for each employee by month for 2021](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-sales-for-each-employee-by-month-for-2021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,13 +816,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (2)
 > **Non-Speech:** (techno sounds) (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find the sales of cars that are electric by using a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/find-the-sales-of-cars-that-are-electric-by-using-a-subquery?u=76281980)
+#### [Find the sales of cars that are electric by using a subquery](https://www.linkedin.com/learning/level-up-advanced-sql/find-the-sales-of-cars-that-are-electric-by-using-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), game (1), database (1)
 > **Non-Speech:** (bright music) (2), (video game beeping) (1)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** where (1)
@@ -900,8 +883,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### For each salesperson, rank the car models they've sold the most
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
+#### [For each salesperson, rank the car models they've sold the most](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=24)** A window function allows us to partition the results of a query and then apply analysis that just considers the rows within that window or partition.
 >
-> **[0:33](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=33)** Pause the video here and craft your query against the cars for all databases.
+> **[0:33](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=33)** Pause the video here and craft your query against the cars for all [[Databases]].
 >
 > **[0:36](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=36)** (screen drones) (upbeat 8-bit music) (screen drones) All right, let's dig into my solution.
 >
@@ -961,20 +943,19 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=136)** Running the final query, we can see that our first employee has sold two Bednar cars, so that is rank 1.
 >
-> **[2:22](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=142)** The rest of the models, they've sold only one car, and so those rank as 2.
+> **[2:22](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=142)** The [[Representational State Transfer (REST)|rest]] of the models, they've sold only one car, and so those rank as 2.
 >
 > **[2:26](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980&t=146)** Window functions are complicated but provide a lot of great options when we're reporting on our data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** order (2), select (1), group (1), partition (1)
 > **SQL:** order by (2), select (1), group by (1)
 > **Non-Speech:** (upbeat 8-bit music) (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create a report showing sales per month and an annual total
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980)
+#### [Create a report showing sales per month and an annual total](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=55)** The next step is to apply the grouping so that we aggregate this data by month.
 >
-> **[1:00](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=60)** As SQL processes the select statement before the group by statement, we can refer to the alias column names of sold year and sold month.
+> **[1:00](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=60)** As [[SQL]] processes the select statement before the group by statement, we can refer to the alias column names of sold year and sold month.
 >
 > **[1:08](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=68)** We'll then apply the sum function to the sales amount column.
 >
@@ -1024,14 +1005,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cte (2), sql (1)
 > **Non-Speech:** (bouncy playful music) (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - alright (1)
 
-#### Display the number of cars sold this month and last month
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980)
+#### [Display the number of cars sold this month and last month](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1061,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980&t=116)** So, in this case, I want to count the rows in the previous window.
 >
-> **[2:00](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980&t=120)** The second parameter is how many windows back.
+> **[2:00](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980&t=120)** The second parameter is how many [[Windows]] back.
 >
 > **[2:02](https://www.linkedin.com/learning/level-up-advanced-sql/display-the-number-of-cars-sold-this-month-and-last-month?u=76281980&t=122)** So, in this example, I want just the proceeding window, so I entered one.
 >
@@ -1097,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (2), database (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Code Identifiers:** calmonth (2)
 > **Non-Speech:** (upbeat electronic music) (2)
 > **Speakers:** - [instructor] (1)
@@ -1107,12 +1087,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)
+#### [Keep learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=0)** - [Jess] Well, folks, that brings us to the end of this advanced SQL Level-Up course.
+> **[0:00](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=0)** - [Jess] Well, folks, that brings us to the end of this advanced [[SQL]] Level-Up course.
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=4)** I hope the challenges presented have made you think, demonstrated some new techniques, and helped to improve your SQL skills.
 >
@@ -1128,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=28)** Also, as you complete the course make sure you share the certificate, and add the Level-Up SQL hashtag so we can keep in touch.
 >
-> **[0:35](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=35)** Finally, head over to the LinkedIn learning catalog, and look for your next adventure.
+> **[0:35](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=35)** Finally, head over to the [[LinkedIn]] learning catalog, and look for your next adventure.
 >
 > **[0:39](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980&t=39)** Thanks so much for watching.
 >
@@ -1136,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[LinkedIn]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)

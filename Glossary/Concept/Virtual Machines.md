@@ -55,14 +55,14 @@ created: 2026-05-02
 > 22. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 11 mentions
 > 23. [[Windows Server 2022 Essential Training]] — 11 mentions
 > 24. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 10 mentions
-> 25. [[Introduction to IT Automation]] — 9 mentions
-> 26. [[Azure Essential Training for Developers]] — 9 mentions
-> 27. [[Azure Storage Essential Training (2021)]] — 9 mentions
-> 28. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 9 mentions
-> 29. [[Google Cloud Security for Beginners- Tools and Services]] — 9 mentions
-> 30. [[Kubernetes- Your First Project (2021)]] — 9 mentions
-> 31. [[Kubernetes- Microservices]] — 9 mentions
-> 32. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 9 mentions
+> 25. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 10 mentions
+> 26. [[Introduction to IT Automation]] — 9 mentions
+> 27. [[Azure Essential Training for Developers]] — 9 mentions
+> 28. [[Azure Storage Essential Training (2021)]] — 9 mentions
+> 29. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 9 mentions
+> 30. [[Google Cloud Security for Beginners- Tools and Services]] — 9 mentions
+> 31. [[Kubernetes- Your First Project (2021)]] — 9 mentions
+> 32. [[Kubernetes- Microservices]] — 9 mentions
 > 33. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 8 mentions
 > 34. [[Amazon EC2 Essential Training]] — 7 mentions
 > 35. [[Controlling Cost with Azure Management and Billing]] — 7 mentions
@@ -86,25 +86,25 @@ created: 2026-05-02
 > 53. [[Building a Cloud Architecture Diagram]] — 4 mentions
 > 54. [[Server Administration Essential Training]] — 4 mentions
 > 55. [[Google Cloud Foundations]] — 4 mentions
-> 56. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 4 mentions
-> 57. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 4 mentions
-> 58. [[Complete Guide to AWS Software Deployment]] — 4 mentions
-> 59. [[Protecting Your Network with Open-Source Software]] — 4 mentions
-> 60. [[Cloud Computing- Understanding Private Cloud Options]] — 3 mentions
-> 61. [[Cloud Computing Careers and Certifications]] — 3 mentions
-> 62. [[Security Testing Essential Training (2022)]] — 3 mentions
-> 63. [[Static Application Security Testing]] — 3 mentions
-> 64. [[Ethical Hacking- Vulnerability Analysis]] — 3 mentions
-> 65. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
-> 66. [[Introduction to Terraform on Azure (2022)]] — 3 mentions
-> 67. [[Cloud Concepts Planning An Application Migration Strategy]] — 3 mentions
-> 68. [[Microsoft Azure- Security Concepts]] — 3 mentions
-> 69. [[Aws Essential Training For Developers]] — 3 mentions
-> 70. [[Succeeding in Web Development- Full Stack and Front End]] — 3 mentions
-> 71. [[Google Cloud Platform for Machine Learning Essential Training]] — 3 mentions
-> 72. [[Deploying Django Apps- Make Your Site Go Live]] — 3 mentions
-> 73. [[Learning SnowflakeDB]] — 3 mentions
-> 74. [[Azure Spark Databricks Essential Training]] — 3 mentions
+> 56. [[Azure Spark Databricks Essential Training]] — 4 mentions
+> 57. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 4 mentions
+> 58. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 4 mentions
+> 59. [[Complete Guide to AWS Software Deployment]] — 4 mentions
+> 60. [[Protecting Your Network with Open-Source Software]] — 4 mentions
+> 61. [[Cloud Computing- Understanding Private Cloud Options]] — 3 mentions
+> 62. [[Cloud Computing Careers and Certifications]] — 3 mentions
+> 63. [[Security Testing Essential Training (2022)]] — 3 mentions
+> 64. [[Static Application Security Testing]] — 3 mentions
+> 65. [[Ethical Hacking- Vulnerability Analysis]] — 3 mentions
+> 66. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
+> 67. [[Introduction to Terraform on Azure (2022)]] — 3 mentions
+> 68. [[Cloud Concepts Planning An Application Migration Strategy]] — 3 mentions
+> 69. [[Microsoft Azure- Security Concepts]] — 3 mentions
+> 70. [[Aws Essential Training For Developers]] — 3 mentions
+> 71. [[Succeeding in Web Development- Full Stack and Front End]] — 3 mentions
+> 72. [[Google Cloud Platform for Machine Learning Essential Training]] — 3 mentions
+> 73. [[Deploying Django Apps- Make Your Site Go Live]] — 3 mentions
+> 74. [[Learning SnowflakeDB]] — 3 mentions
 > 75. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 3 mentions
 > 76. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 3 mentions
 > 77. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 3 mentions

@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/data-science
   - topic/devops
-course_count: 40
+course_count: 41
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Code Review
 
-> **Type:** Concept | **Courses:** 40 | **Topics:** [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[DevOps]]
+> **Type:** Concept | **Courses:** 41 | **Topics:** [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Introduction To Career Skills In Software Development]] — 4 mentions
 10. [[Getting Hands-On with GPT Models- Tips and Tricks]] — 3 mentions
 
-> [!note]- See all 40 courses
+> [!note]- See all 41 courses
 > 11. [[Tech Career Skills- Getting Promoted]] — 2 mentions
 > 12. [[Trello Essential Training]] — 2 mentions
 > 13. [[DevOps Foundations- Your First Project]] — 2 mentions
@@ -54,23 +54,24 @@ created: 2026-05-02
 > 21. [[Agile Software Development]] — 1 mentions
 > 22. [[Cybersecurity with Cloud Computing]] — 1 mentions
 > 23. [[Developing Ci Cd Solutions With Azure Devops]] — 1 mentions
-> 24. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
-> 25. [[Planning and Releasing Software with Jira]] — 1 mentions
-> 26. [[Agile Software Development- Scrum for Developers]] — 1 mentions
-> 27. [[Refactoring with GitHub Copilot]] — 1 mentions
-> 28. [[Ai And Developer Productivity]] — 1 mentions
-> 29. [[Learning Jira Software]] — 1 mentions
-> 30. [[DevSecOps- Tips for Success]] — 1 mentions
-> 31. [[Aws Essential Training For Developers]] — 1 mentions
-> 32. [[Capstone- Building Production Features with Copilot]] — 1 mentions
-> 33. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 34. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
-> 35. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
-> 36. [[Learning Java Collections]] — 1 mentions
-> 37. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
-> 38. [[Jira- Managing Custom Workflows]] — 1 mentions
-> 39. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 1 mentions
-> 40. [[Node.js- Testing and Code Quality]] — 1 mentions
+> 24. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
+> 25. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
+> 26. [[Planning and Releasing Software with Jira]] — 1 mentions
+> 27. [[Agile Software Development- Scrum for Developers]] — 1 mentions
+> 28. [[Refactoring with GitHub Copilot]] — 1 mentions
+> 29. [[Ai And Developer Productivity]] — 1 mentions
+> 30. [[Learning Jira Software]] — 1 mentions
+> 31. [[DevSecOps- Tips for Success]] — 1 mentions
+> 32. [[Aws Essential Training For Developers]] — 1 mentions
+> 33. [[Capstone- Building Production Features with Copilot]] — 1 mentions
+> 34. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
+> 35. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
+> 36. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
+> 37. [[Learning Java Collections]] — 1 mentions
+> 38. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
+> 39. [[Jira- Managing Custom Workflows]] — 1 mentions
+> 40. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 1 mentions
+> 41. [[Node.js- Testing and Code Quality]] — 1 mentions
 
 ## Learning Paths
 

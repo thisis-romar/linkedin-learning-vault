@@ -109,12 +109,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Behavioral patterns improve software design
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980)
+#### [Behavioral patterns improve software design](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980&t=0)** - [Shaun] It's been said that object oriented programming without a basic knowledge of design patterns is like having a fully stocked refrigerator but no idea how to cook.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980&t=0)** - [Shaun] It's been said that object oriented programming without a basic knowledge of [[Design Patterns]] is like having a fully stocked refrigerator but no idea how to cook.
 >
 > **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980&t=8)** The basic raw materials are there, right?
 >
@@ -140,17 +139,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Design Patterns]] (3), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3)
 > **Speakers:** - [shaun] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course there were a few things that it would be helpful for you to know.
 >
-> **[0:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=5)** First of all it would be very helpful to have a basic knowledge of C++ and ideally also a basic knowledge of how object-oriented programming in C++ works.
+> **[0:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=5)** First of all it would be very helpful to have a basic knowledge of C++ and ideally also a basic knowledge of how [[Object-Oriented Programming (OOP)|object-oriented programming]] in C++ works.
 >
 > **[0:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=14)** If you haven't already worked with these things I'd highly recommend you take a look at one of the C++ essentials courses in our library first and then come back to this one.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=51)** I also highly recommend that you follow along with me as I write code but at the same time have included the start and finish state for all the code that I write in this course in the exercise files for your reference.
 >
-> **[1:03](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=63)** So, basically this course is intended for C++ developers who want to learn the ins and outs of design patterns and how they can help us write better more maintainable code.
+> **[1:03](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=63)** So, basically this course is intended for C++ developers who want to learn the ins and outs of [[Design Patterns]] and how they can help us write better more maintainable code.
 >
 > **[1:12](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-you-should-know?u=76281980&t=72)** If that sounds like something you're interested in then you've definitely come to the right place.
 
@@ -181,18 +179,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980)
+#### [What are design patterns?](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=0)** - [Instructor] So the first question that you probably have, which we've already touched on briefly in the intro for this course, is what exactly are design patterns and why should we use them?
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=0)** - [Instructor] So the first question that you probably have, which we've already touched on briefly in the intro for this course, is what exactly are [[Design Patterns]] and why should we use them?
 >
-> **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=10)** Well, the answer to this question is that design patterns are solutions to some very common problems that we run into in object-oriented programming.
+> **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=10)** Well, the answer to this question is that design patterns are solutions to some very common problems that we run into in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=18)** You may have noticed that when using an object-oriented approach to many programming problems, there are certain harmful patterns, or anti-patterns, as they're commonly called, that tend to pop up in our code.
 >
-> **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=29)** These anti-patterns tend to occur fairly regularly and they can get out of hand very quickly and negatively influence the rest of our code base if we're not careful.
+> **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=29)** These anti-patterns tend to occur fairly regularly and they can get out of hand very quickly and negatively influence the [[Representational State Transfer (REST)|rest]] of our code base if we're not careful.
 >
 > **[0:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980&t=38)** So design patterns then are the positive analogs to each of these anti-patterns.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -228,8 +225,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-chain-of-responsibility-pattern?u=76281980)
+#### [The Chain of Responsibility pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +315,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), application (4), express (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** uml (1)
@@ -327,8 +322,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - ok (1)
 
-#### Implementing the Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980)
+#### [Implementing the Chain of Responsibility pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980&t=66)** And since I'm on a Mac, I'm going to be using X code here.
 >
-> **[1:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980&t=68)** But if you're on Windows, feel free to use Visual Studio or whatever your preferred editor is.
+> **[1:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980&t=68)** But if you're on [[Windows]], feel free to use Visual Studio or whatever your preferred editor is.
 >
 > **[1:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-chain-of-responsibility-pattern?u=76281980&t=75)** And if you're on a Mac, the steps for setting up this project are going to be a little different.
 >
@@ -538,7 +532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (23), application (1), [[Windows]] (1), generic (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** click on (6), go to (4)
 > **CLI Commands:** make (6), find (1)
 > **Exercise Files:** exercise files (2), starter code (1)
@@ -547,8 +541,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1), set up (1)
 > **File Paths:** main.cpp (1)
 
-#### Create Chain of Responsibility handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980)
+#### [Create Chain of Responsibility handlers](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980&t=2)** The next thing we're going to do is start implementing actual handlers, right, concrete handlers that we're going to use.
 >
-> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980&t=8)** And the first one we're going to create, we're only going to manually create one and then what I'm going to do is actually have you copy and paste the rest of them since it takes quite a while to actually write these things out.
+> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980&t=8)** And the first one we're going to create, we're only going to manually create one and then what I'm going to do is actually have you copy and paste the [[Representational State Transfer (REST)|rest]] of them since it takes quite a while to actually write these things out.
 >
 > **[0:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/create-chain-of-responsibility-handlers?u=76281980&t=19)** And the first one we're going to create is a not empty validator.
 >
@@ -662,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1), is an  (1), in other words (1)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** make (3)
@@ -670,8 +663,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980)
+#### [The Command pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980&t=79)** The main problem with this kind of setup is that it couples pieces of our code together pretty uncomfortably, right?
 >
-> **[1:26](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980&t=86)** It forms tight coupling between different pieces of code since our buttons know about our canvas.
+> **[1:26](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980&t=86)** It [[Forms]] tight coupling between different pieces of code since our buttons know about our canvas.
 >
 > **[1:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-command-pattern?u=76281980&t=92)** So what is the command pattern then and how can it help us with the problem that I just outlined?
 >
@@ -743,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Forms]] (1), express (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Code Identifiers:** clearall (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -752,8 +744,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** setup (1)
 
-#### Implementing the Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-command-pattern?u=76281980)
+#### [Implementing the Command pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,15 +822,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1)
 > **Code Identifiers:** shapename (2), addshape (1), clearall (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Increasing code reuse with commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/increasing-code-reuse-with-commands?u=76281980)
+#### [Increasing code reuse with commands](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/increasing-code-reuse-with-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,13 +886,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
 
-#### The Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-mediator-pattern?u=76281980)
+#### [The Mediator pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +962,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), next (1), application (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Env Vars:** uml (2)
 > **CLI Commands:** make (1)
@@ -984,8 +970,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-mediator-pattern?u=76281980)
+#### [Implementing the Mediator pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1084,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Code Identifiers:** ismarried (6), submitbutton (4), nametextbox (4), spousesnametextbox (2), ismarriedcheckbox (2)
 > **UI Navigation:** checkbox (10), click on (1)
 > **Exercise Files:** starter code (1), exercise files (1)
@@ -1107,9 +1091,9 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
+> **Warnings:** note that (1)
 
-#### Using the Mediator from inside other classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-the-mediator-from-inside-other-classes?u=76281980)
+#### [Using the Mediator from inside other classes](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-the-mediator-from-inside-other-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,15 +1217,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** checkbox (7)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-observer-pattern?u=76281980)
+#### [The Observer pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,14 +1263,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** uml (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating publishers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-publishers?u=76281980)
+#### [Creating publishers](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-publishers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,15 +1384,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getname (3), groupname (3), remove_if (2), push_back (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating subscribers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-subscribers?u=76281980)
+#### [Creating subscribers](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-subscribers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,17 +1514,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** getname (3), publishername (2), username (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Create a group-chat program
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-group-chat-program?u=76281980)
+#### [Project: Create a group-chat program](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-group-chat-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-group-chat-program?u=76281980&t=0)** - [Instructor] Okay, so far, we've seen four design patterns as well as some individual examples of each one.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-group-chat-program?u=76281980&t=0)** - [Instructor] Okay, so far, we've seen four [[Design Patterns]] as well as some individual examples of each one.
 >
 > **[0:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-group-chat-program?u=76281980&t=5)** And what we're going to do now is take a look at an example that combines some of these patterns.
 >
@@ -1640,15 +1616,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Design Patterns]] (2), application (1), generic (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** sendmessagechain (1), sendmessagchain (1), setnext (1)
 > **Definitions:** is an  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Apply the Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-apply-the-command-pattern?u=76281980)
+#### [Challenge: Apply the Command pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-apply-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1674,11 +1649,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Apply the Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-apply-the-command-pattern?u=76281980)
+#### [Solution: Apply the Command pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-apply-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1747,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** getmessage (7), chatgroup (5), emptymessage (2), tooshortmessage (2), sendmessagechain (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -1787,8 +1759,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-interpreter-pattern?u=76281980)
+#### [The Interpreter pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,14 +1807,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (9)
 > **Analogies:** such as (3), for example (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [tutor] (1)
 
-#### Implementing the Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-interpreter-pattern?u=76281980)
+#### [Implementing the Interpreter pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,13 +1956,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Code Identifiers:** operatorsymbol (6), numberstring (5), lefthandside (3), righthandside (3)
 > **Tools:** terminal (2)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/applying-the-interpreter-pattern?u=76281980)
+#### [Applying the Interpreter pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/applying-the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2093,8 +2060,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - ok (1)
 
-#### The State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-state-pattern?u=76281980)
+#### [The State pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2136,21 +2102,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** imagine (1), for example (1)
 > **Code Identifiers:** ecommerce (1)
 > **Env Vars:** uml (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980)
+#### [Implementing the State pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980&t=0)** - Okay, so now that we've learned the basics of the state pattern, let's take a look at a concrete example of what this pattern might look like in code.
 >
-> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980&t=8)** For the example we're going to be looking at here, we're going to be using the situation we discussed earlier about allowing products on an e-commerce site to be in several different states and behave differently accordingly.
+> **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980&t=8)** For the example we're going to be looking at here, we're going to be using the situation we discussed earlier about allowing [[Microsoft Products|products]] on an [[E-Commerce]] site to be in several different states and behave differently accordingly.
 >
 > **[0:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-state-pattern?u=76281980&t=19)** So if we take a look at our starter code here, this is from the exercise files.
 >
@@ -2244,7 +2208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (17), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** starter code (1), exercise files (1)
 > **CLI Commands:** make (1)
@@ -2252,8 +2216,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - okay (1)
 
-#### Applying the State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/applying-the-state-pattern?u=76281980)
+#### [Applying the State pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/applying-the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,14 +2318,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), product (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980)
+#### [The Strategy pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2372,7 +2333,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980&t=15)** So an example of this might be if we were writing a program that had to sort a lot of different things.
 >
-> **[0:20](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980&t=20)** Now, as many of you know, while some sorting algorithms are generally considered more efficient than others, which one computes the result the fastest can often vary depending on certain situations.
+> **[0:20](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980&t=20)** Now, as many of you know, while some sorting [[Algorithms]] are generally considered more efficient than others, which one computes the result the fastest can often vary depending on certain situations.
 >
 > **[0:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-strategy-pattern?u=76281980&t=31)** So let's say that we wanted to take that into account and have our program use a different sorting algorithm depending on certain criteria.
 >
@@ -2406,20 +2367,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980)
+#### [Creating strategies](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980&t=0)** - [Narrator] All right, so now that we've learned the basics of the strategy pattern, let's take a look at an example of what it might look like in code.
 >
-> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980&t=7)** Now previously, we discussed the example of using the strategy pattern to choose between different sorting algorithms and that's absolutely possible to implement.
+> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980&t=7)** Now previously, we discussed the example of using the strategy pattern to choose between different sorting [[Algorithms]] and that's absolutely possible to implement.
 >
 > **[0:15](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-strategies?u=76281980&t=15)** But for our example here, we're going to do something just a little bit simpler.
 >
@@ -2477,15 +2437,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Exercise Files:** starter code (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Rewriting classes to use strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/rewriting-classes-to-use-strategies?u=76281980)
+#### [Rewriting classes to use strategies](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/rewriting-classes-to-use-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2559,7 +2518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -2567,8 +2525,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Template Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980)
+#### [The Template Method pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2580,7 +2537,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980&t=29)** An example of this would be if you were writing a program that's meant to load, format and consolidate data from a variety of sources.
 >
-> **[0:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980&t=38)** So you might be loading data from a JSON API, a database, text files, maybe even scraping web pages or something like that, and each of these different situations is going to involve pretty much the same steps, right?
+> **[0:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980&t=38)** So you might be loading data from a [[JSON]] API, a database, text files, maybe even scraping web pages or something like that, and each of these different situations is going to involve pretty much the same steps, right?
 >
 > **[0:50](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-template-method-pattern?u=76281980&t=50)** We're going to load the raw data, we're going to parse that data, maybe we have to format that data, we then have to filter it and finally, we store that in our database, something like that.
 >
@@ -2616,7 +2573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (6), [[JSON]] (4), api (3), web (2)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** json (4), api (3), uml (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1), make (1)
@@ -2625,8 +2582,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [announcer] (1)
 
-#### Creating template methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-template-methods?u=76281980)
+#### [Creating template methods](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-template-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2728,13 +2684,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), next (1)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (2)
 > **Speakers:** - okay (1)
 
-#### Modifying templates using subclasses
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/modifying-templates-using-subclasses?u=76281980)
+#### [Modifying templates using subclasses](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/modifying-templates-using-subclasses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2838,7 +2792,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), power (1)
 > **Exercise Files:** template (18), exercise files (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), just like (1)
@@ -2846,8 +2799,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### The Visitor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980)
+#### [The Visitor pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2865,7 +2817,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980&t=34)** In this situation, may be a single extra write to database method isn't so bad.
 >
-> **[0:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980&t=39)** But what about if we also need to be able to export instances of this class to a text file, or to a JSON string, or some other format, right?
+> **[0:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980&t=39)** But what about if we also need to be able to export instances of this class to a text file, or to a [[JSON]] string, or some other format, right?
 >
 > **[0:49](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-visitor-pattern?u=76281980&t=49)** Ultimately, all of these extra methods, none of which really has anything to do with the actual functioning of the classes themselves, these methods just end up adding a lot of extra code to our classes, and that's where the Visitor pattern can help us.
 >
@@ -2899,15 +2851,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[JSON]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** json (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** writetodatabase (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing visitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-visitors?u=76281980)
+#### [Implementing visitors](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-visitors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2949,19 +2900,18 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-visitors?u=76281980&t=251)** And the point here is really just to show that we have very different functionality, well, I mean, it's not that different here but it can be as different as we need it to be for each of these methods.
 >
-> **[4:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-visitors?u=76281980&t=263)** So we have our database visitor class now, if we wanted to also be able to do things like write our objects here to a text file or a PDF or something like that, we could do that like this, this isn't going to be too different from the database visitor class, because again, we're not actually writing things to files or to databases, but we'll just change this now to say writing person to file, writing landmark to file, and writing car to file.
+> **[4:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-visitors?u=76281980&t=263)** So we have our database visitor class now, if we wanted to also be able to do things like write our objects here to a text file or a PDF or something like that, we could do that like this, this isn't going to be too different from the database visitor class, because again, we're not actually writing things to files or to [[Databases]], but we'll just change this now to say writing person to file, writing landmark to file, and writing car to file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
 > **Env Vars:** pdf (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Allowing classes to accept visitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980)
+#### [Allowing classes to accept visitors](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2981,7 +2931,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=70)** Okay. And just to reiterate also this accept method is the only method we're ever going to have to actually add to these classes, right?
 >
-> **[1:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=78)** 'Cause now that we've added it. All that we have to do if we want to add some sort of extraneous functionality, like writing to a database, writing to a text file, writing to an Excel file, whatever we want to do.
+> **[1:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=78)** 'Cause now that we've added it. All that we have to do if we want to add some sort of extraneous functionality, like writing to a database, writing to a text file, writing to an [[Microsoft Excel|Excel]] file, whatever we want to do.
 >
 > **[1:29](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=89)** All we have to do is express that using this visitor interface. All right.
 >
@@ -2989,7 +2939,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=103)** So the way we're going to use these now, is like this.
 >
-> **[1:48](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=108)** We'll create a person. Person's name will be John.
+> **[1:48](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=108)** We'll create a person. Person's name will be [[John the Ripper|John]].
 >
 > **[1:52](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/allowing-classes-to-accept-visitors?u=76281980&t=112)** 40 years old. We'll create a landmark.
 >
@@ -3029,19 +2979,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (1), [[Microsoft Excel|Excel]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[John the Ripper|John]] (1)
 > **Code Identifiers:** visitorhandleperson (1), handleperson (1), handlelandmark (1), cityname (1), handlecar (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Create a greeting-card generator program
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-greeting-card-generator-program?u=76281980)
+#### [Project: Create a greeting-card generator program](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-greeting-card-generator-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-greeting-card-generator-program?u=76281980&t=0)** - [instructor] Okay so far we've seen five more design patterns as well as some individual examples of each one.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-greeting-card-generator-program?u=76281980&t=0)** - [instructor] Okay so far we've seen five more [[Design Patterns]] as well as some individual examples of each one.
 >
 > **[0:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-a-greeting-card-generator-program?u=76281980&t=6)** And what we're going to do now is just like in the previous chapter, we're going to take a look at an example that combines some of these patterns.
 >
@@ -3243,7 +3192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Design Patterns]] (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (2)
 > **Exercise Files:** template (32), exercise files (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -3251,8 +3200,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Modifying the card generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-modifying-the-card-generator?u=76281980)
+#### [Challenge: Modifying the card generator](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-modifying-the-card-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3298,13 +3246,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Modifying the card generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-modifying-the-card-generator?u=76281980)
+#### [Solution: Modifying the card generator](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-modifying-the-card-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3370,7 +3316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Definitions:** in other words (1)
@@ -3384,14 +3329,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980)
+#### [The Iterator pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=0)** - [Instructor] Okay, the next pattern we're going to look at is called the iterator pattern.
 >
-> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=4)** The iterator pattern is a way that we can allow ourselves to work with different collection data structures in an orderly way, right.
+> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=4)** The iterator pattern is a way that we can allow ourselves to work with different collection [[Data Structures]] in an orderly way, right.
 >
 > **[0:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=11)** Think of arrays, linked lists, graphs, trees and so on without caring about the underlying organization of that data.
 >
@@ -3415,7 +3359,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=98)** So here's what this'll look like in a UML diagram.
 >
-> **[1:40](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=100)** As I said, we generally start off by creating an iterator interface that the rest of the app can use to iterate through different structures, and this interface usually provides next and is finished methods, and sometimes the previous method as well, although that's usually more of a convenience than an actual necessity.
+> **[1:40](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=100)** As I said, we generally start off by creating an iterator interface that the [[Representational State Transfer (REST)|rest]] of the app can use to iterate through different structures, and this interface usually provides next and is finished methods, and sometimes the previous method as well, although that's usually more of a convenience than an actual necessity.
 >
 > **[1:59](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980&t=119)** And once we have this interface the other parts of our app can then use these methods to iterate through any collection, regardless of how the collection is actually organized behind the scenes.
 >
@@ -3433,7 +3377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (5), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1), is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -3441,8 +3385,7 @@ created: 2026-05-02
 > **Env Vars:** uml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-iterator-pattern?u=76281980)
+#### [Implementing the Iterator pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/implementing-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3564,12 +3507,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), generic (1), data (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Using iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-iterators?u=76281980)
+#### [Using iterators](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3647,13 +3588,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), bi (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### The Memento pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980)
+#### [The Memento pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3705,7 +3644,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980&t=141)** And this would be done here using some sort of restore state method of our canvas state class which we would then pass a memento as an argument.
 >
-> **[2:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980&t=151)** And lastly, the rest of the program, the history mechanism, for example, would only interact with these canvas state mementos through the memento interface we created.
+> **[2:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980&t=151)** And lastly, the [[Representational State Transfer (REST)|rest]] of the program, the history mechanism, for example, would only interact with these canvas state mementos through the memento interface we created.
 >
 > **[2:42](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-memento-pattern?u=76281980&t=162)** Right?
 >
@@ -3713,7 +3652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** uml (1)
@@ -3721,8 +3660,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Memento class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-a-memento-class?u=76281980)
+#### [Creating a Memento class](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-a-memento-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3780,14 +3718,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** starter code (1)
 > **Speakers:** - now (1)
 
-#### Using Memento classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-memento-classes?u=76281980)
+#### [Using Memento classes](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/using-memento-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3845,14 +3781,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** oldstates (12), previousstate (6), push_back (2), pop_back (2), addshape (1)
 > **Analogies:** just like (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Null Object pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980)
+#### [The Null Object pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3886,7 +3820,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980&t=99)** So in general, this situation occurs whenever it's possible that an object doesn't exist, right?
 >
-> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980&t=105)** If we're expecting that the object might be NULL, this logic generally makes its way into the rest of our logic for interacting with that object.
+> **[1:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980&t=105)** If we're expecting that the object might be NULL, this logic generally makes its way into the [[Representational State Transfer (REST)|rest]] of our logic for interacting with that object.
 >
 > **[1:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-null-object-pattern?u=76281980&t=113)** And the result of this is that you have at least one, you know, if object check somewhere in each piece of code that interacts with it.
 >
@@ -3902,15 +3836,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** null (3), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Null Object classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-null-object-classes?u=76281980)
+#### [Creating Null Object classes](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/creating-null-object-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3948,15 +3881,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), api (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** starter code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting null objects as the default
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980)
+#### [Setting null objects as the default](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3988,7 +3919,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980&t=73)** So we'll just say something like logs.txt, and then we'll have our SomeTask task three, which we'll use an API logger, and it'll send it to something like logging [site.com/api/logs](https://site.com/api/logs) something like that.
 >
-> **[1:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980&t=92)** Normally this would be where we put the address of our REST API.
+> **[1:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980&t=92)** Normally this would be where we put the address of our [[Representational State Transfer (REST)|REST]] API.
 >
 > **[1:37](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/setting-null-objects-as-the-default?u=76281980&t=97)** And last but not least, we're going to define a task without a logger which will be task four.
 >
@@ -4026,7 +3957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3), rest (1)
 > **File Paths:** logs.txt (1)
 > **CLI Commands:** make (1)
@@ -4034,12 +3965,11 @@ created: 2026-05-02
 > **API Endpoints:** /api/logs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Create an instant replay program
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-an-instant-replay-program?u=76281980)
+#### [Project: Create an instant replay program](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-an-instant-replay-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-an-instant-replay-program?u=76281980&t=0)** - [Instructor] Okay, well, we just learned about three more design patterns and we also saw some individual examples of each of them.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-an-instant-replay-program?u=76281980&t=0)** - [Instructor] Okay, well, we just learned about three more [[Design Patterns]] and we also saw some individual examples of each of them.
 >
 > **[0:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/project-create-an-instant-replay-program?u=76281980&t=6)** What we're going to do now, just like in the other sections, is take a look at an example that combines some of them.
 >
@@ -4247,7 +4177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Design Patterns]] (2), feature (1), management (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2)
 > **Code Identifiers:** oldstates (8), addstate (4), historyiterator (4), newstate (3), isfinished (2)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** exercise files (3)
@@ -4256,8 +4186,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Apply the Null Object pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-apply-the-null-object-pattern?u=76281980)
+#### [Challenge: Apply the Null Object pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/challenge-apply-the-null-object-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4285,13 +4214,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Apply the Null Object pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-apply-the-null-object-pattern?u=76281980)
+#### [Solution: Apply the Null Object pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/solution-apply-the-null-object-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4367,14 +4294,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=0)** - [Shaun] Well, we've come to the end of this course and we've covered quite a few topics.
 >
-> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=4)** We covered the 12 different behavioral design patterns in C++.
+> **[0:04](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=4)** We covered the 12 different behavioral [[Design Patterns]] in C++.
 >
 > **[0:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=8)** We learned how to apply each of them and we saw several examples that incorporated these patterns.
 >
@@ -4398,7 +4324,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=68)** Well, thank you so much for watching.
 >
-> **[1:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=70)** If you want to get in touch with me, please don't hesitate to connect with me on LinkedIn.
+> **[1:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=70)** If you want to get in touch with me, please don't hesitate to connect with me on [[LinkedIn]].
 >
 > **[1:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980&t=73)** I'm on LinkedIn quite often and would love to hear any questions or comments from you.
 >
@@ -4408,7 +4334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), next (3), [[Programming]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[LinkedIn]] (2)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)

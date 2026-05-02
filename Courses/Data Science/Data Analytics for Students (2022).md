@@ -81,20 +81,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data moves a business forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980)
+#### [Data moves a business forward](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=0)** - Data is everywhere.
 >
-> **[0:02](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=2)** For any business, you have information about your customers, your sales, your products.
+> **[0:02](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=2)** For any business, you have information about your customers, your sales, your [[Microsoft Products|products]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=8)** You probably hear a lot about how your business should be taking advantage of your data, but for most businesses, it's hard to know where to start or how you can even take advantage of your data to help grow your business and improve your overall operation.
 >
 > **[0:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=24)** That's what this course is all about.
 >
-> **[0:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=26)** My name is John David Ariansen, and I'm the host of the "How To Get an Analytics Job" podcast.
+> **[0:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=26)** My name is [[John the Ripper|John]] David Ariansen, and I'm the host of the "How To Get an Analytics Job" podcast.
 >
 > **[0:31](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980&t=31)** I have years of experience teaching analytics, both online and in-person at Greensboro College.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (6), [[Analytics]] (4), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
@@ -127,8 +126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the value of data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980)
+#### [What is the value of data?](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980&t=70)** Then use that data to better inform your marketing copy, getting the right message in front of the right person.
 >
-> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980&t=77)** Another form of data that can be useful in this situation would be Google Analytics.
+> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980&t=77)** Another form of data that can be useful in this situation would be [[Google]] Analytics.
 >
 > **[1:23](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980&t=83)** If these ideal customers are coming from your website, then you can look at this data to identify which channels or ways these people are visiting your website.
 >
@@ -174,13 +172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (2), [[Google]] (2), [[Analytics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### The risk of leaning too much on data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980)
+#### [The risk of leaning too much on data](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980&t=34)** This is very similar to if you're using only data to drive your decisions, you are essentially overfitting your model.
 >
-> **[0:45](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980&t=45)** You may run across data quality errors or mistakes within the data.
+> **[0:45](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980&t=45)** You may run across [[Data Quality]] errors or mistakes within the data.
 >
 > **[0:51](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-risk-of-leaning-too-much-on-data?u=76281980&t=51)** So what might be influencing your data that can lead you to the wrong conclusion?
 >
@@ -216,14 +213,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining data and intuition
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980)
+#### [Combining data and intuition](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,9 +231,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=39)** Your data can also be compromised by specific problems.
 >
-> **[0:43](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=43)** One specific thing is data collection errors.
+> **[0:43](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=43)** One specific thing is [[Data Collection]] errors.
 >
-> **[0:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=46)** If you don't have a solid data governance plan in place, you may be collecting your data in the wrong way, that can lead you to the wrong outcome.
+> **[0:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=46)** If you don't have a solid [[Data Governance]] plan in place, you may be collecting your data in the wrong way, that can lead you to the wrong outcome.
 >
 > **[0:55](https://www.linkedin.com/learning/data-analytics-for-students-2022/combining-data-and-intuition?u=76281980&t=55)** You also might have duplication, and this kind of duplication can skew your analysis and results.
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -262,8 +258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980)
+#### [Introduction to the framework](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=17)** Step two is to identify KPIs, also known as key performance indicators.
 >
-> **[0:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=24)** Step three is data governance.
+> **[0:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=24)** Step three is [[Data Governance]].
 >
 > **[0:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=26)** Step four is data analysis.
 >
@@ -317,9 +312,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=109)** Data analysis is the process of uncovering insights within your data sources.
 >
-> **[1:56](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=116)** Now, Excel is the most widely used tool for data analysis.
+> **[1:56](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=116)** Now, [[Microsoft Excel|Excel]] is the most widely used tool for data analysis.
 >
-> **[2:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=120)** But in more recent years, data visualization tools like Tableau and Power BI are now helping analysts start to visualize data, and visualizing data is a very effective way of communicating these insights.
+> **[2:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=120)** But in more recent years, data visualization tools like [[Tableau]] and [[Microsoft Power BI|Power BI]] are now helping analysts start to visualize data, and visualizing data is a very effective way of communicating these insights.
 >
 > **[2:16](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980&t=136)** And finally, we have data-informed decision making.
 >
@@ -333,14 +328,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (3), business (1), [[Security]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Microsoft Excel|Excel]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (4), known as (1), short for (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Define the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980)
+#### [Define the problem](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980&t=73)** But studying your sales trends can help you quickly identify that maybe one product is selling low, or that the marketing is not getting implemented.
 >
-> **[1:22](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980&t=82)** For example, within your design issues, you might uncover that you have hardware issues, software issues, or even poor user experience.
+> **[1:22](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980&t=82)** For example, within your design issues, you might uncover that you have [[Hardware]] issues, software issues, or even poor [[User Experience (UX)|user experience]].
 >
 > **[1:32](https://www.linkedin.com/learning/data-analytics-for-students-2022/define-the-problem?u=76281980&t=92)** But on the other hand, your subpar marketing might be a result of too low of budget, marketing at the wrong time, or even marketing at the wrong place.
 >
@@ -390,13 +384,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), product (1), [[Hardware]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Identify the key performance indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980)
+#### [Identify the key performance indicators](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=52)** A feedback rating is a solid KPI that is in fact quantifiable.
 >
-> **[0:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=57)** Taking a look at this data, you can very quickly assess the overall quality of your products.
+> **[0:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=57)** Taking a look at this data, you can very quickly assess the overall quality of your [[Microsoft Products|products]].
 >
 > **[1:03](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=63)** If it's below your liking, then it's time to roll up your sleeves and hit the drawing board, and draft up some product redesigns.
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=114)** Here's some examples of some solid KPIs.
 >
-> **[1:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=117)** Within sales analysis, total sales is the most obvious KPI.
+> **[1:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=117)** Within [[Sales Analysis]], total sales is the most obvious KPI.
 >
 > **[2:02](https://www.linkedin.com/learning/data-analytics-for-students-2022/identify-the-key-performance-indicators?u=76281980&t=122)** If your total sales are high, then your goals are probably looking pretty good.
 >
@@ -464,21 +457,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (5), [[Microsoft Products|Products]] (1), hit (1), [[Sales Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Sales Analysis]] (1)
 > **Env Vars:** kpi (5)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=0)** - [Instructor] The third step in this framework is to ensure that you are effectively collecting data.
 >
-> **[0:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=5)** This process is called data governance.
+> **[0:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=5)** This process is called [[Data Governance]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=8)** Are you tracking all of the data and the dimensions of the data that are relevant?
 >
@@ -502,7 +494,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=75)** At this point, you may be wondering why not collect all of the possible data?
 >
-> **[1:19](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=79)** Well, there is a trade-off in collecting very granular data that involves data storage costs.
+> **[1:19](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=79)** Well, there is a trade-off in collecting very granular data that involves [[Data Storage]] costs.
 >
 > **[1:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=86)** If your organization does over a billion dollars in sales, then collecting hyper granular data all of the time would incur some major data storage costs.
 >
@@ -510,13 +502,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=100)** A few years back, I had a client who sold furniture.
 >
-> **[1:44](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=104)** They brought me in to conduct some sales analysis and two of the dimensions that they collected were sales by state and sales by category.
+> **[1:44](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=104)** They brought me in to conduct some [[Sales Analysis]] and two of the dimensions that they collected were sales by state and sales by category.
 >
 > **[1:53](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=113)** After some very basic analysis, I was able to uncover that their rustic furniture category sold exceedingly well in Texas.
 >
 > **[2:01](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=121)** In fact, almost all of their sales in this category were coming just from this one state.
 >
-> **[2:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=127)** They then changed their marketing strategy for this one assortment from being a national campaign to targeting just Texas and they saw a huge explosion in their return on investment for their marketing budget within this category.
+> **[2:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=127)** They then changed their [[Marketing Strategy]] for this one assortment from being a national campaign to targeting just Texas and they saw a huge explosion in their return on investment for their marketing budget within this category.
 >
 > **[2:22](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-governance?u=76281980&t=142)** This is a concrete example of how dimensions can help uncover insights and inform better business decisions.
 >
@@ -524,19 +516,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Sales Analysis]] (1), [[Marketing Strategy]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Data Storage]] (2), [[Sales Analysis]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (4), is called (2), defined as (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980)
+#### [Data analysis](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=0)** - [Instructor] Once you've got your problem defined, identified your KPIs and gotten your data governance in place, it's now time to roll up your sleeves and dig into the analysis.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=0)** - [Instructor] Once you've got your problem defined, identified your KPIs and gotten your [[Data Governance]] in place, it's now time to roll up your sleeves and dig into the analysis.
 >
 > **[0:10](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=10)** You can breakdown this analysis into two specific tactics, explanatory and exploratory analysis.
 >
@@ -548,15 +539,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=36)** For example, you could create a dashboard with your KPIs clearly defined along the top.
 >
-> **[0:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=42)** Then have interactive visualizations of the various dimensions of your data populate the rest of the dashboard.
+> **[0:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=42)** Then have interactive visualizations of the various dimensions of your data populate the [[Representational State Transfer (REST)|rest]] of the dashboard.
 >
 > **[0:50](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=50)** The unfiltered dashboard is essentially explanatory analysis, but once you start to use the interactive components of your dashboard, you are now clearly in exploratory analysis territory.
 >
 > **[1:03](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=63)** There are a ton of different tools you can use to uncover insights.
 >
-> **[1:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=68)** Excel is the most widely used tool for analysis, but in recent years, data visualization tools like Tableau and Power BI have come on to the scene and made it easier than ever to uncover insights with just a few clicks of the mouse.
+> **[1:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=68)** [[Microsoft Excel|Excel]] is the most widely used tool for analysis, but in recent years, data visualization tools like [[Tableau]] and [[Microsoft Power BI|Power BI]] have come on to the scene and made it easier than ever to uncover insights with just a few clicks of the mouse.
 >
-> **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=84)** And if you have the resources, more advanced forms of analysis are possible as well, such as machine learning and optimization modeling.
+> **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=84)** And if you have the resources, more advanced [[Forms]] of analysis are possible as well, such as machine learning and optimization modeling.
 >
 > **[1:33](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-analysis?u=76281980&t=93)** This can get very confusing quite quickly.
 >
@@ -584,13 +575,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data to inform business decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980)
+#### [Using data to inform business decisions](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980&t=57)** I like to break up my decisions into three month sprints, and have a quarterly check-in meeting to see what the data is telling us about the strategy we developed.
 >
-> **[1:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980&t=67)** For this reason, getting proper data governance in place is very important.
+> **[1:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980&t=67)** For this reason, getting proper [[Data Governance]] in place is very important.
 >
 > **[1:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/using-data-to-inform-business-decisions?u=76281980&t=72)** There is a huge amount of value in tracking the data, both before and after you take action.
 >
@@ -638,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (2)
+> **Frameworks & Libraries:** [[Data Governance]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -648,14 +638,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three stages of analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980)
+#### [Three stages of analysis](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=0)** - [Instructor] There is a ton of hype and a ton of buzzwords surrounding data analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=6)** Big data, machine learning, predictive modeling, and optimization are a few that come to mind.
+> **[0:06](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=6)** [[Big Data]], machine learning, [[Predictive Modeling]], and optimization are a few that come to mind.
 >
 > **[0:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=12)** But for the average layperson, I think these terms are more confusing than helpful.
 >
@@ -679,13 +668,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=73)** There's no need to market yourself when there's no demand.
 >
-> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=77)** The second stage of analytics is predictive analytics and this phase is quite a bit more sophisticated than descriptive analytics.
+> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=77)** The second stage of analytics is [[Predictive Analytics]] and this phase is quite a bit more sophisticated than descriptive analytics.
 >
 > **[1:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=86)** Within this type of analysis, statistical modeling is leveraged to look forward into the future by creating out a forecast.
 >
 > **[1:35](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=95)** This builds off of descriptive analytics in that you need a solid data source with lots and lots of data to create an effective predictive model.
 >
-> **[1:45](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=105)** This form of analysis has made its way into human resources.
+> **[1:45](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=105)** This form of analysis has made its way into [[Human Resources (HR)|human resources]].
 >
 > **[1:50](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980&t=110)** Companies are now using data to predict how likely a candidate is to turn over by profiling potential candidates on key personal and professional details.
 >
@@ -707,20 +696,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (12), data (7), [[Predictive Modeling]] (3), [[Big Data]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (3), [[Big Data]] (1), [[Predictive Analytics]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** sku (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing data with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980)
+#### [Analyzing data with Excel](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=0)** - [Instructor] By far, the most widely-used analysis tool is Excel.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=0)** - [Instructor] By far, the most widely-used analysis tool is [[Microsoft Excel|Excel]].
 >
-> **[0:04](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=4)** It even comes standard with every Microsoft subscription.
+> **[0:04](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=4)** It even comes standard with every [[Microsoft]] subscription.
 >
 > **[0:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=7)** While this tool is often seen as a basic one, there are a ton of different features of Excel that are extremely valuable.
 >
@@ -734,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=45)** Historically, you would need a database administrator to handle this task, but now anyone with a small amount of Excel expertise can connect to a data source and clean it up.
 >
-> **[0:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=57)** This data governance step is key.
+> **[0:57](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=57)** This [[Data Governance]] step is key.
 >
 > **[0:59](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=59)** You can't conduct effective analysis unless you have clean, reliable data.
 >
@@ -760,19 +748,18 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=114)** You could even take this one step further by creating a pivot chart to visualize these relationships.
 >
-> **[2:01](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=121)** Excel is often looked down upon in the data science and data analysis world, but the true value of Excel is that it helps lower the barrier of entry and enables more people within your organization to conduct their own analysis.
+> **[2:01](https://www.linkedin.com/learning/data-analytics-for-students-2022/analyzing-data-with-excel?u=76281980&t=121)** Excel is often looked down upon in the [[Data Science]] and data analysis world, but the true value of Excel is that it helps lower the barrier of entry and enables more people within your organization to conduct their own analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (8), [[Microsoft]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft]] (1), [[Data Governance]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The value of data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980)
+#### [The value of data visualization](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,9 +791,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=74)** An effective data visualization turns this huge amount of information into a visual format that tells a narrative, not unlike a kid's picture book.
 >
-> **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=84)** I got my start using Tableau, which is a great tool to implement data visualization.
+> **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=84)** I got my start using [[Tableau]], which is a great tool to implement data visualization.
 >
-> **[1:30](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=90)** But in recent years, I've expanded into Power BI, Google Data Studio, and I've even done quite a bit of data visualization within Excel.
+> **[1:30](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=90)** But in recent years, I've expanded into [[Microsoft Power BI|Power BI]], [[Google]] Data Studio, and I've even done quite a bit of data visualization within [[Microsoft Excel|Excel]].
 >
 > **[1:39](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-data-visualization?u=76281980&t=99)** Now, the tools you use is secondary to your approach to visualizing data.
 >
@@ -834,18 +821,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (4), [[Tableau]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980)
+#### [Data modeling](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=0)** - [Instructor] Your organization has the potential to collect a ton of different types of data, but getting your data governance in place and collecting all the right data is only the first step in conducting effective analysis.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=0)** - [Instructor] Your organization has the potential to collect a ton of different types of data, but getting your [[Data Governance]] in place and collecting all the right data is only the first step in conducting effective analysis.
 >
 > **[0:13](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=13)** Once you have a rich set of data coming through multiple data sources, then it's time to create a data model.
 >
@@ -873,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=91)** Next, we have a many to one relationship, and this is where things start to get a little bit more interesting, as you can start to pull different types of data together.
 >
-> **[1:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=102)** For example, you may have a sales data source for all of your products, and also a separate survey data source that provides an overall feedback rating for all of your products.
+> **[1:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=102)** For example, you may have a sales data source for all of your [[Microsoft Products|products]], and also a separate survey data source that provides an overall feedback rating for all of your products.
 >
 > **[1:53](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=113)** In this situation, you would have one row for each product in your survey data sources.
 >
@@ -887,19 +873,18 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=145)** Finally, we have a many to many relationship, and there are some situations where you need to tie back multiple rows of one data source to multiple rows of another, but it is usually best practice to avoid these kinds of relationships, as they can create duplication that can cloud your analysis.
 >
-> **[2:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=166)** Data modeling is a fairly simple concept, but if you create an effective data model, then you can conduct analysis that spans multiple data sources.
+> **[2:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-modeling?u=76281980&t=166)** [[Data Modeling]] is a fairly simple concept, but if you create an effective data model, then you can conduct analysis that spans multiple data sources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Microsoft Products|Products]] (2), product (2), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Governance]] (1), [[Data Modeling]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### The value of a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980)
+#### [The value of a dashboard](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,9 +892,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=5)** What makes dashboarding so effective is that you can leverage the interactive components of most data visualization softwares out there in a way that empowers non-technical users to be able to slice through data, and thus, find insights.
 >
-> **[0:22](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=22)** There are various different tools that enable you to create interactive dashboards.
+> **[0:22](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=22)** There are various different tools that enable you to create interactive [[Dashboards]].
 >
-> **[0:27](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=27)** I have experience using both Tableau and Power BI, but other tools such as Clic, Google Data Studio and even Excel can also handle dashboarding.
+> **[0:27](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=27)** I have experience using both [[Tableau]] and [[Microsoft Power BI|Power BI]], but other tools such as Clic, [[Google]] Data Studio and even [[Microsoft Excel|Excel]] can also handle dashboarding.
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-for-students-2022/the-value-of-a-dashboard?u=76281980&t=38)** So how does dashboarding work?
 >
@@ -945,15 +930,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), business (2), [[Tableau]] (1), power (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2), such as (1), kind of like (1)
 > **Env Vars:** kpi (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building an analytics infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980)
+#### [Building an analytics infrastructure](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +953,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=42)** When I first interacted with this client, they were hiring interns to run reports on an ad hoc basis.
 >
-> **[0:49](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=49)** Essentially, they would hire an intern to conduct a line review in Excel.
+> **[0:49](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=49)** Essentially, they would hire an intern to conduct a line review in [[Microsoft Excel|Excel]].
 >
 > **[0:54](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=54)** This speaks to the mindset shift you need to have when thinking through how to build out an analytics infrastructure.
 >
@@ -977,7 +961,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=68)** The key to an effective reporting infrastructure is to proactively think through the data that you'll be using to drive your decisions.
 >
-> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=77)** Once you've thought through all the analysis that you'll be conducting on a yearly basis, then you can build out a series of dashboards that can help you quickly digest these insights.
+> **[1:17](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=77)** Once you've thought through all the analysis that you'll be conducting on a yearly basis, then you can build out a series of [[Dashboards]] that can help you quickly digest these insights.
 >
 > **[1:29](https://www.linkedin.com/learning/data-analytics-for-students-2022/building-an-analytics-infrastructure?u=76281980&t=89)** Proactively thinking through your analysis and building out reports ahead of time means you are taking a systems approach to analysis.
 >
@@ -1009,7 +993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (4), business (3), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -1019,8 +1003,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data source map
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980)
+#### [Data source map](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1077,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=181)** These are data sources that you are actively creating.
 >
-> **[3:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=185)** This means that data governance for these sources are your responsibility, so make sure you're tracking all of this data effectively.
+> **[3:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=185)** This means that [[Data Governance]] for these sources are your responsibility, so make sure you're tracking all of this data effectively.
 >
 > **[3:14](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=194)** And finally, we have competitive intelligence, which is an external data source.
 >
@@ -1102,9 +1085,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=204)** External data sources look out into the market.
 >
-> **[3:27](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=207)** You need to understand how you stack up against your competitors to create a sustainable business.
+> **[3:27](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=207)** You need to understand how you stack up against your competitors to create a [[Sustainable Business]].
 >
-> **[3:34](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=214)** Other forms of external data are market or industry reports which help you identify underserved niches out in the marketplace.
+> **[3:34](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=214)** Other [[Forms]] of external data are market or industry reports which help you identify underserved niches out in the marketplace.
 >
 > **[3:42](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980&t=222)** And you can identify these niches and pursue them actively.
 >
@@ -1114,14 +1097,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), business (5), next (1), [[Sustainable Business]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Sustainable Business]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2), is an  (1)
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Internal vs. external data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/internal-vs-external-data-sources?u=76281980)
+#### [Internal vs. external data sources](https://www.linkedin.com/learning/data-analytics-for-students-2022/internal-vs-external-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,24 +1173,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), business (4)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980)
+#### [Sales data](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=0)** - Sales analysis is arguably the most important kind of analysis that you can conduct.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=0)** - [[Sales Analysis]] is arguably the most important kind of analysis that you can conduct.
 >
 > **[0:06](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=6)** Understanding the inner workings of how your sales are occurring can help you grow your business and solve your business problems.
 >
 > **[0:13](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=13)** But before you can do any of that, you need to make sure that you're collecting your sales data accurately.
 >
-> **[0:20](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=20)** Now, if you're selling products directly to consumer, then you can automatically track details about each of your sales if you use the right payment processing system.
+> **[0:20](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=20)** Now, if you're selling [[Microsoft Products|products]] directly to consumer, then you can automatically track details about each of your sales if you use the right payment processing system.
 >
 > **[0:30](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=30)** Square and Clover are great examples of systems that track when, what, and how a purchase was made.
 >
@@ -1220,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=56)** CRM is short for Customer Relationship Management, and this is a system that can track how you are interacting with your customers.
 >
-> **[1:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=65)** The most common kind of data governance or data quality issue is that you can manually enter in data points.
+> **[1:05](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=65)** The most common kind of [[Data Governance]] or [[Data Quality]] issue is that you can manually enter in data points.
 >
 > **[1:13](https://www.linkedin.com/learning/data-analytics-for-students-2022/sales-data?u=76281980&t=73)** For example, you may have an industry data point that you want to collect.
 >
@@ -1252,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (3), [[Sales Analysis]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Sales Analysis]] (1), [[Microsoft Products|Products]] (1), [[Data Governance]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** crm (2)
 > **UI Navigation:** dropdown (2)
@@ -1260,8 +1240,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - sales (1)
 
-#### Marketing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980)
+#### [Marketing data](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,11 +1256,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=33)** Now there are three different types of marketing data that you should know about.
 >
-> **[0:36](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=36)** Website data, social media data, and lead generation.
+> **[0:36](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=36)** Website data, social media data, and [[Lead Generation]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=40)** A lot of people don't see the link between marketing and a website, but I'd argue that your website is your most valuable marketing tool.
 >
-> **[0:49](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=49)** If you install Google Analytics then you can track how potential customers are interacting with your website, which can give you a ton of ideas as to how to target those who are likely to buy.
+> **[0:49](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=49)** If you install [[Google]] Analytics then you can track how potential customers are interacting with your website, which can give you a ton of ideas as to how to target those who are likely to buy.
 >
 > **[1:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/marketing-data?u=76281980&t=60)** Also tracking this data can help you find bottlenecks or poor performing webpages which can help you fix your marketing problems.
 >
@@ -1305,14 +1284,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (2), [[Lead Generation]] (2), business (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (2), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cost data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980)
+#### [Cost data](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,7 +1298,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=8)** Understanding where your costs are coming from can help you set the appropriate goals.
 >
-> **[0:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=12)** For example, you may have to sell a certain volume of products just to break even.
+> **[0:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=12)** For example, you may have to sell a certain volume of [[Microsoft Products|products]] just to break even.
 >
 > **[0:18](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=18)** Knowing this number can help you set the appropriate sales goals.
 >
@@ -1358,11 +1336,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=135)** Depending on the size of your organization, you may use different tools to track your data.
 >
-> **[2:20](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=140)** If your organization is relatively small, then you can get away with tracking costs just within Excel.
+> **[2:20](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=140)** If your organization is relatively small, then you can get away with tracking costs just within [[Microsoft Excel|Excel]].
 >
 > **[2:27](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=147)** If you're incurring many different types of costs from various different vendors, then you may want to invest in some accounting software like QuickBooks.
 >
-> **[2:36](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=156)** Now, on the other hand, large organizations will often use databases to track cost data, as there might be many different types of costs coming from many different vendors.
+> **[2:36](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=156)** Now, on the other hand, large organizations will often use [[Databases]] to track cost data, as there might be many different types of costs coming from many different vendors.
 >
 > **[2:47](https://www.linkedin.com/learning/data-analytics-for-students-2022/cost-data?u=76281980&t=167)** You can't conduct business without incurring some kind of cost.
 >
@@ -1370,17 +1348,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Psychographic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980)
+#### [Psychographic data](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=0)** - [Narrator] Understanding how your customers or potential customers feel about your products can be a tough thing to measure.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=0)** - [Narrator] Understanding how your customers or potential customers feel about your [[Microsoft Products|products]] can be a tough thing to measure.
 >
 > **[0:07](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=7)** I'd say the best way to do this is through a survey.
 >
@@ -1406,13 +1383,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=66)** This kind of long-form written feedback can be tough to analyze, but there are certain analytics tools that you can deploy to digest these conversations.
 >
-> **[1:15](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=75)** An example of this is sentiment analysis, which leverages artificial intelligence to interpret large banks of texts.
+> **[1:15](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=75)** An example of this is sentiment analysis, which leverages [[Artificial Intelligence (AI)|artificial intelligence]] to interpret large banks of texts.
 >
 > **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=84)** A much more concrete form of psychographic analysis is to get your survey respondents to rate your product or aspects of your product on a number scale.
 >
 > **[1:33](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=93)** You can also ask open-ended questions that require the user to write feedback.
 >
-> **[1:39](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=99)** There are benefits to collecting data in both of these forms.
+> **[1:39](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=99)** There are benefits to collecting data in both of these [[Forms]].
 >
 > **[1:43](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=103)** For example, rating data is very much quantitative and it's easier to conduct analysis across different ratings.
 >
@@ -1422,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=124)** In my consulting work, I've had a number of different projects studying survey analysis.
 >
-> **[2:09](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=129)** You can pull this type of data into a data visualization software to build interactive dashboards that allow you to drill down on specific demographics.
+> **[2:09](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=129)** You can pull this type of data into a data visualization software to build interactive [[Dashboards]] that allow you to drill down on specific demographics.
 >
 > **[2:19](https://www.linkedin.com/learning/data-analytics-for-students-2022/psychographic-data?u=76281980&t=139)** This allows you to segment the data and understand the feelings of specific targeted demographics.
 >
@@ -1432,13 +1409,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (1), [[Analytics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forms]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Competitive intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980)
+#### [Competitive intelligence](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1442,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980&t=72)** We typically first look at the quality which is usually signaled by a feedback rating.
 >
-> **[1:18](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980&t=78)** After understanding your position to your competitors you can then dig in to a pricing strategy.
+> **[1:18](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980&t=78)** After understanding your position to your competitors you can then dig in to a [[Pricing Strategy]].
 >
 > **[1:24](https://www.linkedin.com/learning/data-analytics-for-students-2022/competitive-intelligence?u=76281980&t=84)** Next are industry reports.
 >
@@ -1492,7 +1468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (3), next (2), [[Pricing Strategy]] (1)
+> **Frameworks & Libraries:** [[Pricing Strategy]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1503,8 +1479,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your path forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980)
+#### [Your path forward](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,13 +1491,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=12)** My podcast is called "How to Get an Analytics Job," and we've interviewed over 100 analytics experts, hiring managers, and executives to date, offering you a behind-the-scenes look at what's going on within the analytics industry.
 >
-> **[0:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=26)** You can find our video podcast that include analytics portfolio reviews, mock interviews, and LinkedIn profile reviews on YouTube.
+> **[0:26](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=26)** You can find our video podcast that include analytics portfolio reviews, mock interviews, and [[LinkedIn]] profile reviews on YouTube.
 >
 > **[0:35](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=35)** You can also find the audio version on all the major podcasting platforms.
 >
 > **[0:39](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=39)** There's one specific video that I wanted to highlight, and it's actually the one right here.
 >
-> **[0:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=46)** In this podcast episode, Christina Stathopoulos, an analytics consultant who works for Google, gave a lecture at my Greensboro College analytics class.
+> **[0:46](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=46)** In this podcast episode, Christina Stathopoulos, an analytics consultant who works for [[Google]], gave a lecture at my Greensboro College analytics class.
 >
 > **[0:56](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980&t=56)** She dives deep into her career path, her approach to learning new skills, and also breaks down some common interview questions.
 >
@@ -1536,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), business (3), data (2), [[LinkedIn]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), find (2)
 > **URLs:** [silvertoneanalytics.com](https://silvertoneanalytics.com) (1)
 > **Definitions:** is called (1)

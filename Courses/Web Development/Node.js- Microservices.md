@@ -115,14 +115,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding how microservices are built and used
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
+#### [Understanding how microservices are built and used](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980&t=0)** - [Daniel] Are you ready to ride the microservices wave and dive into the fascinating world of distributor systems?
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980&t=0)** - [Daniel] Are you ready to ride the [[Microservices]] wave and dive into the fascinating world of distributor systems?
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980&t=6)** Let's unlock the secrets of modern software architecture using Node.js.
+> **[0:06](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980&t=6)** Let's unlock the secrets of modern [[Software Architecture]] using [[Node.js]].
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980&t=11)** In this course, we will embark on a journey with Node.js, creating a microservice architecture from scratch while exploring crucial concepts like service discovery, resilience, and decoupling.
 >
@@ -136,39 +135,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (3), [[Microservices]] (2), [[Software Architecture]] (1), power (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Microservices]] (2), [[Software Architecture]] (1)
 > **File Paths:** node.js (3)
 > **CLI Commands:** node (3)
 > **Speakers:** - [daniel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=0)** - This course is not for beginners.
 >
-> **[0:02](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=2)** If you're new to Express, start with my courses "[[Building a Website with Node.js and Express.js]]," and "Advanced Express," which you can find in the LinkedIn library.
+> **[0:02](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=2)** If you're new to Express, start with my courses "[[Building a Website with [[Node.js]] and [[Express.js]]]]," and "Advanced Express," which you can find in the [[LinkedIn]] library.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=11)** These courses will provide you with all the fundamentals you need.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=15)** To get the most out of this course, make sure you know JavaScript including variables, functions and callbacks.
+> **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=15)** To get the most out of this course, make sure you know [[JavaScript]] including variables, functions and callbacks.
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=20)** You'll also need to be familiar with the ES6 syntax, like classes, error functions, spread syntax, and objective structuring since they'll popup throughout the videos.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=30)** Plus, understanding promises and async await is important.
 >
-> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=36)** When it comes to Node.js, you should know how to install modules using npm and how to start an application.
+> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=36)** When it comes to Node.js, you should know how to install modules using [[npm]] and how to start an application.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=42)** You also need a good handle on Express and how HTTP works.
 >
-> **[0:46](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=46)** It will be super helpful if you have a basic understanding of REST and REST APIs.
+> **[0:46](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=46)** It will be super helpful if you have a basic understanding of [[Representational State Transfer (REST)|REST]] and REST APIs.
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=51)** You can find these topics covered in my courses that I mentioned earlier, but there are also dedicated courses for specific topics in the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[Node.js]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Express.js]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Express.js]] (1), [[LinkedIn]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), find (2), make (1), npm (1)
 > **Env Vars:** rest (2), es6 (1), http (1)
 > **File Paths:** node.js (2), express.js (1)
@@ -180,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Git, Node.js, and Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
+#### [Installing Git, Node.js, and Docker](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,13 +186,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=5)** See it, like a checklist to make sure you won't get stuck later.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=8)** So first of all, of course, we need Node.js and there I would just recommend installing the current LTS, means long-term supported version that you see here on the [nodejs.org](https://nodejs.org) website.
+> **[0:08](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=8)** So first of all, of course, we need [[Node.js]] and there I would just recommend installing the current LTS, means long-term supported version that you see here on the [nodejs.org](https://nodejs.org) website.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=22)** Then you will also need a Git client on your system to acquire the exercise files from GitHub.
+> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=22)** Then you will also need a [[Git]] client on your system to acquire the exercise files from [[GitHub]].
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=27)** And you see when you go to [git-scm.com](https://git-scm.com) that you will be presented with selections for your particular operating system.
 >
-> **[0:37](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=37)** As we will also use MongoDB and Redis and we will use Docker to run them.
+> **[0:37](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=37)** As we will also use [[MongoDB]] and [[Redis]] and we will use Docker to run them.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980&t=43)** You will need to have Docker installed on your system.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), next (1), [[Node.js]] (1), [[GitHub]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Node.js]] (1), [[GitHub]] (1), [[MongoDB]] (1), [[Redis]] (1)
 > **CLI Commands:** docker (4), git (3), node (2), make (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1), [git-scm.com](https://git-scm.com) (1), [docker.com](https://docker.com) (1)
 > **Tools:** github (1), terminal (1)
@@ -216,16 +213,15 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Env Vars:** lts (1)
 
-#### Getting the exercise files from GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980)
+#### [Getting the exercise files from GitHub](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=0)** - To download all the files to get started, you have to clone this Git repository and I will show you now how you can fetch all the branches.
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=0)** - To download all the files to get started, you have to clone this [[Git]] repository and I will show you now how you can [[Fetch]] all the branches.
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=8)** So I'm now in my system terminal and there in the desktop folder, you can choose freely where on your system you want the exercise files to live.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=16)** I will now create new folder node-microservices
+> **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=16)** I will now create new folder node-[[Microservices]]
 >
 > **[0:25](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=25)** and then I will change into this folder.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=35)** But bear with me.
 >
-> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=36)** First you have to type git clone --bare and now I'm pasting in the github URL that I got before and then I add blank end .git So that's important.
+> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=36)** First you have to type git clone --bare and now I'm pasting in the [[GitHub]] URL that I got before and then I add blank end .git So that's important.
 >
 > **[0:56](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-the-exercise-files-from-github?u=76281980&t=56)** It has to end on blank .git, and then I hit Return.
 >
@@ -253,21 +249,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), next (2), [[Fetch]] (1), node (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Fetch]] (1), [[Microservices]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (7), node (1)
 > **Tools:** terminal (1), github (1), visual studio (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** url (1)
 > **Speakers:** - to (1)
 
-#### Setting up Visual Studio Code, ESLint, and Prettier
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980)
+#### [Setting up Visual Studio Code, ESLint, and Prettier](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=0)** - [Instructor] In this course, I will be using Visual Studio Code as my IDE.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=4)** It's free and it comes with great Node.js support out of the box.
+> **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=4)** It's free and it comes with great [[Node.js]] support out of the box.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=7)** I highly recommend that you use it as well at least for this course.
 >
@@ -277,15 +272,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=19)** After installing it, you can open it right away and it'll present you with a welcome screen.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=24)** I will now go ahead and we'll just open the exercise file folder that we downloaded from GitHub before.
+> **[0:24](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=24)** I will now go ahead and we'll just open the exercise file folder that we downloaded from [[GitHub]] before.
 >
-> **[0:31](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=31)** So I go to File, Open Folder, and on my desktop, I find node microservices and I will just open it.
+> **[0:31](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=31)** So I go to File, Open Folder, and on my desktop, I find node [[Microservices]] and I will just open it.
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=41)** Visual Studio Code also comes with an integrated terminal that will open right away.
 >
-> **[0:45](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=45)** For that I go to View, Terminal and you see it's basically, a regular system terminal that lets me execute Command (indistinct) and it's important for instance to run NPM install.
+> **[0:45](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=45)** For that I go to View, Terminal and you see it's basically, a regular system terminal that lets me execute Command (indistinct) and it's important for instance to run [[npm]] install.
 >
-> **[0:57](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=57)** The sample project we will be working on, comes with a configuration for ESLint and Prettier.
+> **[0:57](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=57)** The sample project we will be working on, comes with a configuration for [[ESLint]] and Prettier.
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=63)** ESLint checks your code for errors as you type while Prettier can reformat your code to match some code conventions.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=101)** Prettier ESLint and here also I click on Install.
 >
-> **[1:49](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=109)** Now I can go back to my explorer and you already see that I have a vscode directory here and there I have a settings JSON.
+> **[1:49](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=109)** Now I can go back to my explorer and you already see that I have a vscode directory here and there I have a settings [[JSON]].
 >
 > **[1:58](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-visual-studio-code-eslint-and-prettier?u=76281980&t=118)** And this settings JSON, contains settings that are needed for Prettier ESLint to work properly.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (7), [[JSON]] (2), [[Node.js]] (1), [[GitHub]] (1), node (1)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[JSON]] (2), [[Node.js]] (1), [[GitHub]] (1), [[Microservices]] (1)
 > **Tools:** visual studio (6), terminal (3), github (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** go to (2), click on (2), open the (1)
@@ -330,8 +325,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Cross-References:** go back to (1)
 
-#### Launching MongoDB, Redis, and Jaeger in Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980)
+#### [Launching MongoDB, Redis, and Jaeger in Docker](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,9 +335,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=16)** You find them in resources, support, and there is a file snippets.md.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=24)** And if you scroll down a little bit, you see the commands for getting MongoDB.
+> **[0:24](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=24)** And if you scroll down a little bit, you see the commands for getting [[MongoDB]].
 >
-> **[0:28](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=28)** MongoDB is a NoSQL database and we will first run docker pull mongo.
+> **[0:28](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=28)** MongoDB is a [[NoSQL]] database and we will first run docker pull mongo.
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=34)** So I'm just copy pasting it now into my terminal.
 >
@@ -359,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=58)** And we have MongoDB running.
 >
-> **[1:01](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=61)** Next we want to get Redis.
+> **[1:01](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=61)** Next we want to get [[Redis]].
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=63)** So I run docker pull redis, and again, I will started now right away by copy pasting the command.
 >
@@ -379,11 +373,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=126)** Redis Commander is a tool that you can use to look into Redis.
 >
-> **[2:11](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=131)** So I just copied the npm install line for Redis Commander but we have to run it with sudo because we are installing globally.
+> **[2:11](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=131)** So I just copied the [[npm]] install line for Redis Commander but we have to run it with sudo because we are installing globally.
 >
 > **[2:18](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=138)** So I add sudo, that's now just a MAC thing.
 >
-> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=141)** If you're on Windows, you don't have to do this.
+> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=141)** If you're on [[Windows]], you don't have to do this.
 >
 > **[2:24](https://www.linkedin.com/learning/node-js-microservices-22685072/launching-mongodb-redis-and-jaeger-in-docker?u=76281980&t=144)** You don't have a sudo, but I have to do it.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (12), [[MongoDB]] (4), next (3), database (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Redis]] (12), [[MongoDB]] (4), [[npm]] (2), [[NoSQL]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (9), sudo (4), make (2), mongo (2), npm (2)
 > **Prerequisites:** install (5)
 > **UI Navigation:** click on (2), scroll down (1), open the (1)
@@ -422,16 +416,15 @@ created: 2026-05-02
 > **Tools:** terminal (1), visual studio (1), docker desktop (1)
 > **File Paths:** snippets.md (1)
 
-#### Installing MongoDB Compass
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980)
+#### [Installing MongoDB Compass](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=0)** - [Tutor] We need to install one more thing, and that's MongoDB Compass.
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=0)** - [Tutor] We need to install one more thing, and that's [[MongoDB]] Compass.
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=4)** MongoDB Compass is one UI for MongoDB, and we will just need it once during this course.
 >
-> **[0:10](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=10)** But again, like with Redis-Commander, it might help you to look at the data at some point to see what's going on under the hood.
+> **[0:10](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=10)** But again, like with [[Redis]]-Commander, it might help you to look at the data at some point to see what's going on under the hood.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-mongodb-compass?u=76281980&t=17)** So please, search for MongoDB Compass, and then when you end up on this page, just download and install it, and then we can run it already.
 >
@@ -449,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), [[Redis]] (1), data (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Redis]] (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** docker (1)
 > **Speakers:** - [tutor] (1)
@@ -459,8 +452,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up and exploring your sample application
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
+#### [Setting up and exploring your sample application](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,17 +468,17 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=20)** So in this folder, we will be working.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=22)** There is also a folder microservices, which is empty at this point.
+> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=22)** There is also a folder [[Microservices]], which is empty at this point.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=27)** And there is this shopper application.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=29)** So, the first thing I will do is I will cd into workspace and shopper.
 >
-> **[0:37](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=37)** And as for any Node.js application, the very first thing is that I run npm install.
+> **[0:37](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=37)** And as for any [[Node.js]] application, the very first thing is that I run [[npm]] install.
 >
-> **[0:46](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=46)** Because there you see we have this package.json file with all the dependencies.
+> **[0:46](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=46)** Because there you see we have this package.[[JSON]] file with all the dependencies.
 >
-> **[0:52](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=52)** We have a Redis client, MongoDB is loaded, a lot of stuff.
+> **[0:52](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=52)** We have a [[Redis]] client, [[MongoDB]] is loaded, a lot of stuff.
 >
 > **[0:56](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=56)** And also OpenTelemetry, we will talk about this a little bit later.
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=117)** You can log in.
 >
-> **[1:59](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=119)** And then there is some user management, and we will use that to create the user right away.
+> **[1:59](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=119)** And then there is some [[User Management]], and we will use that to create the user right away.
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=124)** So I create the user test at [test.com](https://test.com).
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=266)** So very simple list of items.
 >
-> **[4:30](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=270)** And if you wonder how I came up with these very funny item names, this was chatGPT.
+> **[4:30](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=270)** And if you wonder how I came up with these very funny item names, this was [[ChatGPT]].
 >
 > **[4:35](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980&t=275)** Now, I can also add items to my cart.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[JSON]] (4), [[MongoDB]] (3), [[Microservices]] (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[MongoDB]] (3), [[Microservices]] (2), [[Node.js]] (2), [[npm]] (2)
 > **CLI Commands:** node (3), npm (2), cd (1), find (1)
 > **Env Vars:** json (3), csv (1)
 > **File Paths:** node.js (2), package.json (1)
@@ -599,8 +591,7 @@ created: 2026-05-02
 > **Ports:** port 3000 (2)
 > **UI Navigation:** click on (2)
 
-#### Understanding the sample apps code
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980)
+#### [Understanding the sample apps code](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=74)** Everything else pretty normal.
 >
-> **[1:16](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=76)** Then we have two helper functions that do the connection to Mongoose and the connection to Redis.
+> **[1:16](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=76)** Then we have two helper functions that do the connection to Mongoose and the connection to [[Redis]].
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=82)** You can look into this, always when you just want to drill into something you can click on Command or Control, then follow this link that Visual Studio code gives you, then we configure the Redis client, and the maybe most interesting part is down here starting line 41, because here make sure that we first connect to Redis, and then connect to Mongoose, and only then we call server.listen to actually start the Express server.
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=162)** This is a middleware, and this middleware reads the user ID from the session, so when I login the user ID is stored into the session.
 >
-> **[2:51](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=171)** And here in the middleware we'll use the local UserService class to fetch this user and assign it also to res.local, which makes it available to our templates.
+> **[2:51](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=171)** And here in the middleware we'll use the local UserService class to [[Fetch]] this user and assign it also to res.local, which makes it available to our templates.
 >
 > **[3:04](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=184)** Additionally, now that we know the user down here, we also load the shopping cart.
 >
@@ -684,7 +675,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=297)** One more important thing is, and you see that in the CatalogService up here, we are loading the Item model, and this indicates that we are using Mongoose here.
 >
-> **[5:08](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=308)** So Mongoose is a database abstraction that we are using here and it connects to MongoDB, and just makes it a little bit easier to deal with the data that's stored in MongoDB.
+> **[5:08](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=308)** So Mongoose is a database abstraction that we are using here and it connects to [[MongoDB]], and just makes it a little bit easier to deal with the data that's stored in MongoDB.
 >
 > **[5:21](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-the-sample-apps-code?u=76281980&t=321)** These are the basic building blocks of our shop application.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (8), application (7), express (6), data (3), database (3)
+> **Frameworks & Libraries:** [[Redis]] (8), [[Fetch]] (2), [[MongoDB]] (2)
 > **File Paths:** app.js (2), index.js (2), start.js (1)
 > **Definitions:** is a  (4), is called (1)
 > **Prerequisites:** configure (2), set up (2), setup (1)
@@ -703,8 +694,7 @@ created: 2026-05-02
 > **Analogies:** for instance (3)
 > **Code Identifiers:** getall (2)
 
-#### Getting insights with OpenTelemetry and Jaeger
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980)
+#### [Getting insights with OpenTelemetry and Jaeger](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,13 +736,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=114)** What we see here.
 >
-> **[1:55](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=115)** Or the get all call to Redis needs one millisecond.
+> **[1:55](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=115)** Or the get all call to [[Redis]] needs one millisecond.
 >
 > **[2:00](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=120)** So that's a good way to understand what time is spent during a request.
 >
-> **[2:05](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=125)** What we are missing in this trace are the calls to MongoDB.
+> **[2:05](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=125)** What we are missing in this trace are the calls to [[MongoDB]].
 >
-> **[2:08](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=128)** This is because it did not install the respective plugin but we still see very much what's going on in our application and as we grow our microservice architecture, this page, the system architecture will also light up and will show us how services are connected to each other.
+> **[2:08](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=128)** This is because it did not install the respective plugin but we still see very much what's going on in our application and as we grow our microservice architecture, this page, the [[System Architecture]] will also light up and will show us how services are connected to each other.
 >
 > **[2:29](https://www.linkedin.com/learning/node-js-microservices-22685072/getting-insights-with-opentelemetry-and-jaeger?u=76281980&t=149)** To sum this up, imagine your application as a factory where several machines work together to create a product.
 >
@@ -778,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), product (4), cloud (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[Redis]] (1), [[MongoDB]] (1), [[System Architecture]] (1)
 > **CLI Commands:** find (4), make (1), docker (1)
 > **Analogies:** imagine (2), it's like (1), for instance (1)
 > **Env Vars:** cncf (2)
@@ -787,12 +777,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 
-#### Setting your mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980)
+#### [Setting your mission](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=0)** - [Instructor] We know that we want to turn our monolithic shop application into a set of microservices, but before we get technical and get started, why would we want to do this?
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=0)** - [Instructor] We know that we want to turn our monolithic shop application into a set of [[Microservices]], but before we get technical and get started, why would we want to do this?
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=11)** Let's first agree on some reasons why we even putting all the work into it.
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=33)** That said, I want to lead into this course with two simple goals.
 >
-> **[0:38](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=38)** First goal is I want to increase scalability.
+> **[0:38](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=38)** First goal is I want to increase [[Scalability]].
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-your-mission?u=76281980&t=42)** Monolithic applications can be challenging to scale.
 >
@@ -824,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (4), application (2), [[Scalability]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Scalability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
@@ -835,8 +824,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's your goal for this chapter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
+#### [What's your goal for this chapter?](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=6)** This is our application as it is right now.
 >
-> **[0:09](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=9)** We have an HTML Front End.
+> **[0:09](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=9)** We have an [[HTML]] Front End.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=11)** These are the rendered views we see in the browser.
 >
@@ -860,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=38)** We saw them before when we looked through the application.
 >
-> **[0:41](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=41)** The service classes for catalog, order, and user use MongoDB as its backend to store the data and cart uses Redis.
+> **[0:41](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=41)** The service classes for catalog, order, and user use [[MongoDB]] as its backend to store the data and cart uses [[Redis]].
 >
 > **[0:52](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=52)** And also for the sake of completeness, I will omit this from now on.
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=106)** It also comes with a set of routes and some service class that talks to the database.
 >
-> **[1:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=111)** These routes represent a so-called REST API.
+> **[1:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=111)** These routes represent a so-called [[Representational State Transfer (REST)|REST]] API.
 >
 > **[1:54](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980&t=114)** This is the HTTP interface that other applications can use to talk to our service.
 >
@@ -888,13 +876,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), business (3), [[Representational State Transfer (REST)|Rest]] (3), [[Redis]] (2), express (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Redis]] (2), [[HTML]] (1), [[MongoDB]] (1)
 > **Env Vars:** rest (3), api (2), html (1), http (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980)
+#### [Creating the service](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=15)** So, I'm opening the resources directory and there you find this _service_template.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=21)** I select it and select copy and we'll copy it into our workspace and there into the already prepared microservices folder.
+> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=21)** I select it and select copy and we'll copy it into our workspace and there into the already prepared [[Microservices]] folder.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=33)** So I'm pasting it in here and the first thing I will do is I will rename it to "catalog-service".
 >
@@ -914,9 +901,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=58)** If you do a CD and then just drag the folder into your terminal, it will copy the whole path into it and then you can just change into this path.
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=74)** As all note applications, the catalog service comes with a package json file.
+> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=74)** As all note applications, the catalog service comes with a package [[JSON]] file.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=81)** Let's look into it real quick and you'll see that we have a lot of dependencies here and these dependencies we will now install with NPM install and you also see that we are again using nodemon here, that's here on line eight.
+> **[1:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=81)** Let's look into it real quick and you'll see that we have a lot of dependencies here and these dependencies we will now install with [[npm]] install and you also see that we are again using nodemon here, that's here on line eight.
 >
 > **[1:37](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=97)** So we can now run MPM, run dev, and nodemon will automatically pick up all the changes we make and will restart the service automatically.
 >
@@ -964,7 +951,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=256)** So this is very much the same start file that you also had in the shop application.
 >
-> **[4:23](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=263)** So we bring in tracing the config and down here in line 17 and 18 you see that we also have this connect to mongoose and connect to redis in here because services will have to connect to either of them so, I already placed it here to save us some typing.
+> **[4:23](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=263)** So we bring in tracing the config and down here in line 17 and 18 you see that we also have this connect to mongoose and connect to [[Redis]] in here because services will have to connect to either of them so, I already placed it here to save us some typing.
 >
 > **[4:39](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=279)** We also have in the lib directory, those helper modules that make the connection.
 >
@@ -996,13 +983,13 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=368)** So, I will copy the port that we just have now on this service, but that I can simply open the browser and ahead to local host, enter port number, and you see it will respond with "Hello world."
 >
-> **[6:25](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=385)** So this is now working, but pretty limited rest service and it definitely isn't our catalog service.
+> **[6:25](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=385)** So this is now working, but pretty limited [[Representational State Transfer (REST)|rest]] service and it definitely isn't our catalog service.
 >
 > **[6:31](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service?u=76281980&t=391)** Before we move on, let's explain how rest API should look like.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (5), [[Redis]] (3), [[JSON]] (2), [[npm]] (2), application (2)
+> **Frameworks & Libraries:** [[Redis]] (3), [[JSON]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microservices]] (1)
 > **CLI Commands:** find (2), npm (2), make (2), cd (1), node (1)
 > **Tools:** terminal (4), visual studio (1)
 > **File Paths:** start.js (3)
@@ -1011,14 +998,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** template (2)
 
-#### Designing a REST API for the catalog service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980)
+#### [Designing a REST API for the catalog service](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=0)** - REST APIs are a key concept we'll use to design our microservice architecture.
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=0)** - [[Representational State Transfer (REST)|REST]] APIs are a key concept we'll use to design our microservice architecture.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=5)** REST stands for representational state transfer which is an architectural style for designing network applications.
+> **[0:05](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=5)** REST stands for [[Representational State Transfer (REST)|representational state transfer]] which is an architectural style for designing network applications.
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=15)** A Rest API uses HTTP to perform operations known as CRUD operations, create, read, update and delete on data.
 >
@@ -1026,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=34)** It's stateless, meaning each HTTP request should contain all the information needed to perform the operation.
 >
-> **[0:43](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=43)** This makes REST APIs very scalable and they're widely adopted in software development today.
+> **[0:43](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=43)** This makes REST APIs very scalable and they're widely adopted in [[Software Development]] today.
 >
 > **[0:50](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=50)** As mentioned before, the two important building blocks of any REST API are so-called HTTP verbs or methods and URLs.
 >
@@ -1040,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=75)** When you simply access a website in the browser, the verb for it is GET so the HTTP method is GET, and we also call this a GET request.
 >
-> **[1:25](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=85)** If you ever created HTML form, you for sure also know a POST request with the verb POST.
+> **[1:25](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=85)** If you ever created [[HTML]] form, you for sure also know a POST request with the verb POST.
 >
 > **[1:32](https://www.linkedin.com/learning/node-js-microservices-22685072/designing-a-rest-api-for-the-catalog-service?u=76281980&t=92)** It differs from a GET request as it can contain a body with a pedal, like for instance, some form data.
 >
@@ -1096,7 +1082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (9), api (5), data (5), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (9), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Software Development]] (1), [[HTML]] (1)
 > **Env Vars:** rest (8), http (7), api (5), post (5), put (3)
 > **API Endpoints:** get  (4), post  (2), put  (1), delete  (1)
 > **Code Identifiers:** itemid (3), getall (1), getone (1)
@@ -1105,24 +1091,23 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** for instance (1)
 
-#### Adding business logic and database access
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980)
+#### [Adding business logic and database access](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=0)** - I'm now back in my Visual Studio Code, and I have the catalog service open and running.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=5)** By the way, please make sure that from now on you have your MongoDB running, because this catalog service needs to connect to MongoDB.
+> **[0:05](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=5)** By the way, please make sure that from now on you have your [[MongoDB]] running, because this catalog service needs to connect to MongoDB.
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=13)** And we started it before in Docker, but maybe you restarted your computer in the meantime.
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=18)** So make sure that the Docker client is running.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=21)** And if you open the Docker desktop, you should see mongodb, jaeger, and redis running.
+> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=21)** And if you open the Docker desktop, you should see mongodb, jaeger, and [[Redis]] running.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=27)** If MongoDB is not running, please start it.
 >
-> **[0:32](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=32)** As we are migrating microservices, the business logic is already there.
+> **[0:32](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=32)** As we are migrating [[Microservices]], the business logic is already there.
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=36)** It's right now in our monolith.
 >
@@ -1160,7 +1145,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=135)** Let's see if Mongoose is already installed.
 >
-> **[2:18](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=138)** For that, open the package.json.
+> **[2:18](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=138)** For that, open the package.[[JSON]].
 >
 > **[2:20](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=140)** And there you see that I have already installed Mongoose and read it to the template that we used before to create the service, because I wanted to make it easier and not to have to reinstall stuff.
 >
@@ -1222,11 +1207,11 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=304)** So that's exactly how we want it.
 >
-> **[5:07](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=307)** The next video, we will now finally create the routes to make the business logic available via REST.
+> **[5:07](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-business-logic-and-database-access?u=76281980&t=307)** The next video, we will now finally create the routes to make the business logic available via [[Representational State Transfer (REST)|REST]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (12), database (5), express (3), [[Redis]] (2), business (2)
+> **Frameworks & Libraries:** [[MongoDB]] (12), [[Redis]] (2), [[Microservices]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), docker (4), find (1)
 > **UI Navigation:** open the (2), scroll up (2), scroll down (1)
 > **Tools:** visual studio (1), docker desktop (1)
@@ -1235,8 +1220,7 @@ created: 2026-05-02
 > **Code Identifiers:** mongooseconnection (1)
 > **Env Vars:** rest (1)
 
-#### Creating your first REST endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980)
+#### [Creating your first REST endpoint](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1260,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=98)** CatalogService.getAll.
 >
-> **[1:43](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=103)** And all I have to do now is to return this json object, by simply typing return response res.json and the items.
+> **[1:43](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=103)** And all I have to do now is to return this [[JSON]] object, by simply typing return response res.json and the items.
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=117)** Every time you see such a route with an async await and you don't see a try catch block, you should get suspicious.
 >
@@ -1318,13 +1302,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=230)** Yes, that's exactly what I wanted to see.
 >
-> **[3:52](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=232)** So we have now a functional rest endpoint that returns all the items in the database.
+> **[3:52](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=232)** So we have now a functional [[Representational State Transfer (REST)|rest]] endpoint that returns all the items in the database.
 >
 > **[3:58](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-your-first-rest-endpoint?u=76281980&t=238)** In the next video, we will create all the other endpoints for this service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[JSON]] (3), business (1), api (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (2), api (1)
 > **File Paths:** index.js (1), res.json (1)
 > **CLI Commands:** node (1)
@@ -1332,8 +1316,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980)
+#### [Completing the API](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1352,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=80)** So I will rename now this get function to post and in here I will now simply add const.
 >
-> **[1:30](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=90)** And I rename this now to new item await catalog service and catalog service has a method create and create simply takes now a json object with all the properties of the new item.
+> **[1:30](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=90)** And I rename this now to new item await catalog service and catalog service has a method create and create simply takes now a [[JSON]] object with all the properties of the new item.
 >
 > **[1:47](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=107)** And for that we can now use request of body and request body is the payload, the post request sends to our service.
 >
@@ -1407,7 +1390,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=244)** And we have one more route where we can apply this now.
 >
-> **[4:09](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=249)** Let's take this block and scroll up because also here where we fetch this one item, we can do the same here.
+> **[4:09](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=249)** Let's take this block and scroll up because also here where we [[Fetch]] this one item, we can do the same here.
 >
 > **[4:16](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=256)** So I will now copy this block in and if there is no item, then we return item not found.
 >
@@ -1433,11 +1416,11 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=356)** And with all these routes in place, now our catalog service is fully functional and able to handle all catalog related operations for the shop application.
 >
-> **[6:05](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=365)** In the next video, I will show you an awesome and easy way to test the rest API.
+> **[6:05](https://www.linkedin.com/learning/node-js-microservices-22685072/completing-the-api?u=76281980&t=365)** In the next video, I will show you an awesome and easy way to test the [[Representational State Transfer (REST)|rest]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JSON]] (2), [[Fetch]] (1), functional (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (4), url (2), api (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** getone (1)
@@ -1446,8 +1429,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 
-#### Testing REST endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980)
+#### [Testing REST endpoints](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=16)** I looked for an easy way and I found a Visual Studio Code extension that is just perfect for our purpose.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=22)** To install it, I will now click here on the right side on Extensions and search for rest.
+> **[0:22](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=22)** To install it, I will now click here on the right side on Extensions and search for [[Representational State Transfer (REST)|rest]].
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=31)** And the first one that shows up is already the right one, and I now install this REST Client.
 >
@@ -1529,7 +1511,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=258)** And this ID, maybe if you don't know that, that's not the sku, this is this _id.
 >
-> **[4:22](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=262)** And this _id is is a default field for MongoDB, so this is a unique ID that MongoDB automatically gives to each doc document.
+> **[4:22](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=262)** And this _id is is a default field for [[MongoDB]], so this is a unique ID that MongoDB automatically gives to each doc document.
 >
 > **[4:32](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=272)** And I copy that out now and I want to delete this item.
 >
@@ -1541,7 +1523,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=291)** And seems it has worked, so let's see if it really did.
 >
-> **[4:56](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=296)** For that, let's fetch all the items again, and you see that it's gone.
+> **[4:56](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=296)** For that, let's [[Fetch]] all the items again, and you see that it's gone.
 >
 > **[5:03](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-rest-endpoints?u=76281980&t=303)** Now let's try what happens if I want to query for this item ID.
 >
@@ -1559,7 +1541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Representational State Transfer (REST)|Rest]] (4), prompt (3), hit (2), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[MongoDB]] (2), [[Fetch]] (1)
 > **Env Vars:** rest (3), http (2), api (1), delete (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **API Endpoints:** get  (3)
@@ -1573,8 +1555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's your goal for this chapter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
+#### [What's your goal for this chapter?](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1596,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980&t=51)** There are other ways to make even this dynamic but from my experience, abstraction needs to end somewhere where things just get too complicated.
 >
-> **[0:59](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980&t=59)** Now, when a service starts up, it does a rest call to the service registry and registers itself with its name, its IP and its port.
+> **[0:59](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980&t=59)** Now, when a service starts up, it does a [[Representational State Transfer (REST)|rest]] call to the service registry and registers itself with its name, its IP and its port.
 >
 > **[1:08](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980&t=68)** The service registry now stores this information.
 >
@@ -1620,13 +1601,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [host] (1)
 
-#### Setting up the registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980)
+#### [Setting up the registry](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=2)** I am as well.
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=4)** To get started, I will first open the Workspace Directory, in there also the Microservices folder, and then I open the Resources folder, and in there you see that I already have prepared a Registry Service more or less template, and I can now simply take this folder and drag it into my Microservices directory.
+> **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=4)** To get started, I will first open the Workspace Directory, in there also the [[Microservices]] folder, and then I open the Resources folder, and in there you see that I already have prepared a Registry Service more or less template, and I can now simply take this folder and drag it into my Microservices directory.
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=28)** I click Move, and this is done.
 >
@@ -1642,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=35)** Next, I will open the terminal, and then I will move into the Service Registry directory by again just dragging the folder into the terminal, and it will copy the directory right in.
 >
-> **[0:50](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=50)** And in there I will now run npm install to install all the dependencies.
+> **[0:50](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=50)** And in there I will now run [[npm]] install to install all the dependencies.
 >
 > **[0:56](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=56)** And then already I can run npm run dev, and you see that the service greets us with a friendly log message.
 >
@@ -1704,7 +1684,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=264)** And if you wonder about the service version, you see the service version down here in the console already, right?
 >
-> **[4:29](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=269)** So we have here 0.0.1, that's the version we have in the package .json, and we want to have some versioning support for our services, so that's the reason why our service also registers itself with a version.
+> **[4:29](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=269)** So we have here 0.0.1, that's the version we have in the package .[[JSON]], and we want to have some versioning support for our services, so that's the reason why our service also registers itself with a version.
 >
 > **[4:41](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-registry?u=76281980&t=281)** This allows you to have different services with different versions used by different front-end services, also running on different services in one microservice infrastructure.
 >
@@ -1714,7 +1694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microservices]] (3), [[npm]] (2), [[JSON]] (1), front-end (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[npm]] (2), [[JSON]] (1)
 > **CLI Commands:** find (4), npm (2)
 > **UI Navigation:** open the (3)
 > **File Paths:** start.js (1), index.js (1)
@@ -1723,8 +1703,7 @@ created: 2026-05-02
 > **Ports:** port 3080 (1)
 > **Versions:** 0.0.1 (1)
 
-#### Registering services
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-services?u=76281980)
+#### [Registering services](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,14 +1847,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (1), data (1)
 > **File Paths:** registry.js (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and testing the registration route
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980)
+#### [Creating and testing the registration route](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1884,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980&t=125)** And I pass in the servicename, the serviceversion, the serviceip, and the serviceport.
 >
-> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980&t=141)** Then, in the end, I will just return res.json and I see the result is this key that we hopefully get back from our service.
+> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980&t=141)** Then, in the end, I will just return res.[[JSON]] and I see the result is this key that we hopefully get back from our service.
 >
 > **[2:35](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-and-testing-the-registration-route?u=76281980&t=155)** Now is a good time to test what we just created, and for that I will again head into Resources, support and there is my test-apis file, and in there I can scroll down and somewhere around line 39 you see this test router ID that I prepared.
 >
@@ -1941,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), express (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **File Paths:** index.js (2), res.json (1)
 > **Versions:** 127.0.0 (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -1950,8 +1927,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unregistering services
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980)
+#### [Unregistering services](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2033,7 +2009,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980&t=334)** That's why it's rather verbose.
 >
-> **[5:37](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980&t=337)** In the end, I will just return response to json, and the result should be the key.
+> **[5:37](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980&t=337)** In the end, I will just return response to [[JSON]], and the result should be the key.
 >
 > **[5:51](https://www.linkedin.com/learning/node-js-microservices-22685072/unregistering-services?u=76281980&t=351)** So that's it.
 >
@@ -2125,7 +2101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **UI Navigation:** scroll down (6), go to (2)
 > **CLI Commands:** make (4), find (3)
 > **Code Identifiers:** getkey (2), getrequestarguments (1)
@@ -2134,8 +2110,7 @@ created: 2026-05-02
 > **Analogies:** imagine (2)
 > **Env Vars:** ee6 (1)
 
-#### Querying the registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980)
+#### [Querying the registry](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2124,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=23)** As version scheme, we will use Semver.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=26)** This is also what NPM uses.
+> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=26)** This is also what [[npm]] uses.
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=28)** If you are unfamiliar with it, then now is a good time to look it up at [semver.org](https://semver.org).
 >
@@ -2261,7 +2236,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=371)** In any other case I will just return the object that we got from the registry.
 >
-> **[6:16](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=376)** So I do a return response.json and the service.
+> **[6:16](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=376)** So I do a return response.[[JSON]] and the service.
 >
 > **[6:23](https://www.linkedin.com/learning/node-js-microservices-22685072/querying-the-registry?u=76281980&t=383)** Now it's a good time to test this again.
 >
@@ -2319,7 +2294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[npm]] (2), parallel (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[JSON]] (1)
 > **CLI Commands:** find (3), npm (2), make (1)
 > **File Paths:** index.js (2), registry.js (1), response.json (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -2328,8 +2303,7 @@ created: 2026-05-02
 > **URLs:** [semver.org](https://semver.org) (1)
 > **Ports:** port 3003 (1)
 
-#### Removing expired services
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980)
+#### [Removing expired services](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,7 +2329,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=93)** So next we will do object keys to iterate over all the elements and keys of desktop services.
 >
-> **[1:43](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=103)** And for each of them, and for each is just a method on the JavaScript array.
+> **[1:43](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=103)** And for each of them, and for each is just a method on the [[JavaScript]] array.
 >
 > **[1:51](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=111)** For each of them I get a key and I will call a call back.
 >
@@ -2411,7 +2385,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=299)** For that there is a debug mode and we can enable that very easily.
 >
-> **[5:03](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=303)** First I stop my service and then I head into the package.json file of the registry service.
+> **[5:03](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=303)** First I stop my service and then I head into the package.[[JSON]] file of the registry service.
 >
 > **[5:12](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=312)** And in there I click on debug and I will debug using the dev mode with nodemon.
 >
@@ -2429,7 +2403,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=354)** So I click consent request and you see that we now end up, and for that let me close this window on the right, we end up at this break point and we see the variables that are right now in scope and they also see the registry.
 >
-> **[6:11](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=371)** And on the registry you see the rest is object services.
+> **[6:11](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=371)** And on the registry you see the [[Representational State Transfer (REST)|rest]] is object services.
 >
 > **[6:15](https://www.linkedin.com/learning/node-js-microservices-22685072/removing-expired-services?u=76281980&t=375)** And if you look into that, now let me open this up all the way, you see all the services and how they're stored with timestamp and all.
 >
@@ -2445,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), [[JavaScript]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), open the (1)
 > **File Paths:** console.lock (1), package.json (1)
@@ -2453,8 +2427,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Registering on service on start
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980)
+#### [Registering on service on start](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,7 +2443,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=25)** I will now add another terminal window by clicking on the plus sign up here.
 >
-> **[0:32](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=32)** Next, I will open in my workspace, microservices, the catalog-service, and I will also change into this folder using our trick by dragging and dropping this folder, cd.
+> **[0:32](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=32)** Next, I will open in my workspace, [[Microservices]], the catalog-service, and I will also change into this folder using our trick by dragging and dropping this folder, cd.
 >
 > **[0:45](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=45)** And now I'm in the service.
 >
@@ -2482,7 +2455,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=63)** And for that, I need some HTTP library, and I will use Axios for that, because it's a very common and popular one, and it's just right for our job.
 >
-> **[1:12](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=72)** So I will now install it by adding npm install -S axios.
+> **[1:12](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=72)** So I will now install it by adding [[npm]] install -S axios.
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=80)** Next, I will require this in this .js file right away, and I will do this after the tracing was initiated, because it's a good practice to always add the tracing first, so that it can as needed hook also into everything that happens downstream.
 >
@@ -2512,7 +2485,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=180)** And we know the port here, 3080, and I call register, so that's the route, and I pass in the serviceName and the serviceVersion.
 >
-> **[3:12](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=192)** And we already have this on the config object, because it's read from package.json in config, so it can now pass in serviceName.
+> **[3:12](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=192)** And we already have this on the config object, because it's read from package.[[JSON]] in config, so it can now pass in serviceName.
 >
 > **[3:21](https://www.linkedin.com/learning/node-js-microservices-22685072/registering-on-service-on-start?u=76281980&t=201)** I will copy paste it simply from the console info that we have done there, and paste it in here.
 >
@@ -2556,7 +2529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[npm]] (2), [[Microservices]] (1), cd (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Microservices]] (1), [[JSON]] (1)
 > **CLI Commands:** make (3), npm (2), cd (1), find (1)
 > **Env Vars:** http (4), es6 (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -2565,8 +2538,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), don't forget (1)
 > **Prerequisites:** install (2)
 
-#### Adding heartbeat and unregistering on shutdown
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980)
+#### [Adding heartbeat and unregistering on shutdown](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2574,7 +2546,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980&t=6)** We will now also have to add the heartbeat that make sure that the service does not timeout and is cleared from the registry.
 >
-> **[0:14](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980&t=14)** For that, JavaScript has something very handy for us.
+> **[0:14](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980&t=14)** For that, [[JavaScript]] has something very handy for us.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-heartbeat-and-unregistering-on-shutdown?u=76281980&t=17)** So I will now add right after register call in my start.js file const interval equals, and there is a function that is called set interval.
 >
@@ -2670,7 +2642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is called (3), is a  (1), we call this (1)
 > **CLI Commands:** make (3)
 > **File Paths:** start.js (1)
@@ -2683,14 +2655,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's your goal for this chapter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
+#### [What's your goal for this chapter?](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980&t=0)** - [Narrator] In this chapter, we will be closing the loop between our consumer application and an external service, the catalog service.
 >
-> **[0:07](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980&t=7)** For this we will create a little rest client that will take care of querying the registry and making the call to the service.
+> **[0:07](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980&t=7)** For this we will create a little [[Representational State Transfer (REST)|rest]] client that will take care of querying the registry and making the call to the service.
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980&t=14)** Then we will change the service class that previously handled the catalog to utilize the catalog service.
 >
@@ -2702,11 +2673,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating the service client
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980)
+#### [Creating the service client](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,7 +2708,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=65)** For that, I head into services and there I will create a new file and I call it ServiceClient.js.
 >
-> **[1:18](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=78)** And in there, I want to do a rest call.
+> **[1:18](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=78)** And in there, I want to do a [[Representational State Transfer (REST)|rest]] call.
 >
 > **[1:19](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=79)** This means we need again some HTTP client.
 >
@@ -2798,7 +2768,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=317)** I say const errorMessage equals and now I add error.response and.
 >
-> **[5:34](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=334)** And this is not just a JavaScript trick to be able to access a nested property on an object without getting an error message, if for instance error.response does not exist.
+> **[5:34](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=334)** And this is not just a [[JavaScript]] trick to be able to access a nested property on an object without getting an error message, if for instance error.response does not exist.
 >
 > **[5:46](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=346)** So I'm adding error.response and error.response.data and error.data.message.
 >
@@ -2848,7 +2818,7 @@ created: 2026-05-02
 >
 > **[8:46](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=526)** So we are extending this here.
 >
-> **[8:48](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=528)** Now ESLint is complaining because we are reassigning something and I will just disable this by clicking on the bulb, disabling this rule for this line because we want it to be exactly like that.
+> **[8:48](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=528)** Now [[ESLint]] is complaining because we are reassigning something and I will just disable this by clicking on the bulb, disabling this rule for this line because we want it to be exactly like that.
 >
 > **[9:03](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-service-client?u=76281980&t=543)** And now the call into axios is pretty simple.
 >
@@ -2864,7 +2834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (7), application (5), [[JavaScript]] (3), front-end (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[ESLint]] (1)
 > **Code Identifiers:** getservice (2), requestoptions (2), errormessage (1), requestoption (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** url (2), http (1)
@@ -2873,8 +2843,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **File Paths:** serviceclient.js (1)
 
-#### Using the catalog service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980)
+#### [Using the catalog service](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2896,7 +2865,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=54)** So I click here on rename symbol and we'll rename it to catalog client.
 >
-> **[1:03](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=63)** For completeness let's also change this comment up here and now when we start the shopper application npm run dev, we'll likely get an error because of course now the name changed.
+> **[1:03](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=63)** For completeness let's also change this comment up here and now when we start the shopper application [[npm]] run dev, we'll likely get an error because of course now the name changed.
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=75)** So let's see where this area is coming from and let's head right there.
 >
@@ -3004,7 +2973,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=392)** And if you're unfamiliar with the syntax, it's very much the same as if I would write data, call on data.
 >
-> **[6:38](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=398)** And this is automatically even replaced for you by eslint if you have something like that.
+> **[6:38](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=398)** And this is automatically even replaced for you by [[ESLint]] if you have something like that.
 >
 > **[6:43](https://www.linkedin.com/learning/node-js-microservices-22685072/using-the-catalog-service?u=76281980&t=403)** So this means I'm passing in the data in a property called data.
 >
@@ -3028,7 +2997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), application (3), business (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[ESLint]] (1)
 > **Env Vars:** url (4), http (1)
 > **CLI Commands:** npm (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3036,8 +3005,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the catalog service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-the-catalog-service?u=76281980)
+#### [Testing the catalog service](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-the-catalog-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3103,11 +3071,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-the-catalog-service?u=76281980&t=166)** And now, as we are not using Mongoose directly in shopper, we just get this plain ID.
 >
-> **[2:52](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-the-catalog-service?u=76281980&t=172)** And this points us to a very important topic for microservices, and this is data sanitation, and we will look at this in the next video.
+> **[2:52](https://www.linkedin.com/learning/node-js-microservices-22685072/testing-the-catalog-service?u=76281980&t=172)** And this points us to a very important topic for [[Microservices]], and this is data sanitation, and we will look at this in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microservices]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Env Vars:** sku (1), url (1)
 > **Tools:** visual studio (2)
 > **URLs:** [test.com](https://test.com) (1)
@@ -3116,12 +3084,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sanitizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980)
+#### [Sanitizing data](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=0)** - [Instructor] We just learned that when we access the Mongoose model directly, it mapped _id to id without underscore for convenience, but when we send it via JSON, this does not work anymore.
+> **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=0)** - [Instructor] We just learned that when we access the Mongoose model directly, it mapped _id to id without underscore for convenience, but when we send it via [[JSON]], this does not work anymore.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=12)** There would be ways to make such virtual properties for Mongoose work in this scenario as well, but this is just the tip of the iceberg.
 >
@@ -3139,7 +3106,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=69)** So there could be the Internet in between.
 >
-> **[1:11](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=71)** You may also decide that you want to create a React or Angular app and directly access the API from there, and suddenly, the payload contains all the data that you actually wanted to hide from your users.
+> **[1:11](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=71)** You may also decide that you want to create a [[React.js|React]] or [[Angular]] app and directly access the API from there, and suddenly, the payload contains all the data that you actually wanted to hide from your users.
 >
 > **[1:26](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=86)** In this case, a user would only need to look into the payload using Chrome developer tools and they would see exactly your purchase price, all the comments, and all that.
 >
@@ -3151,7 +3118,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=121)** So I open Visual Studio Code.
 >
-> **[2:04](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=124)** In my workspace, I go into microservices, open the catalog-service, and in routes, I have the index route.
+> **[2:04](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=124)** In my workspace, I go into [[Microservices]], open the catalog-service, and in routes, I have the index route.
 >
 > **[2:11](https://www.linkedin.com/learning/node-js-microservices-22685072/sanitizing-data?u=76281980&t=131)** (indistinct), before we declare the first route, I now add a function, just a helper.
 >
@@ -3229,7 +3196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (3), api (3), next (2), product (2)
+> **Frameworks & Libraries:** [[JSON]] (1), [[React.js|React]] (1), [[Angular]] (1), [[Microservices]] (1)
 > **Code Identifiers:** createresponse (5), updateditem (1)
 > **Env Vars:** api (3), json (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -3238,28 +3205,27 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
 
-#### Creating the CartService
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980)
+#### [Creating the CartService](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=0)** - [Instructor] In this video, we will now really quickly add the cart service and I prepared it already for you because it's so similar to the catalog service and I want to save you from endlessly typing the same things.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=12)** So when you look into Resources, you see there file "cart-service," and we will first move that into the Microservices folder.
+> **[0:12](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=12)** So when you look into Resources, you see there file "cart-service," and we will first move that into the [[Microservices]] folder.
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=23)** For that, I just click on it and drag it into Microservices.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=29)** Next, I open a new terminal by clicking on the plus icon down here, and I do CD, and again, drag and drop the folder into my console to change into it.
 >
-> **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=42)** Next, I run NPM Install and run NPM Run Dev, and with that, we have a functional cart service.
+> **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=42)** Next, I run [[npm]] Install and run NPM Run Dev, and with that, we have a functional cart service.
 >
 > **[0:52](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=52)** So let's have a quick look at the service itself to understand the differences.
 >
-> **[0:57](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=57)** So when I look into bin "start.js," you see that, instead of connecting to MongoDB," we are connecting to Redis because the cart service relies on Redis, so we connect to Redis and then the server starts to listen.
+> **[0:57](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=57)** So when I look into bin "start.js," you see that, instead of connecting to [[MongoDB]]," we are connecting to [[Redis]] because the cart service relies on Redis, so we connect to Redis and then the server starts to listen.
 >
 > **[1:10](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=70)** So that's the first thing.
 >
-> **[1:12](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=72)** In Routes, index.js," you find the Routes file, and it's pretty similar, so it's rest routes that called in the cart service and respective methods on the cart service.
+> **[1:12](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=72)** In Routes, index.js," you find the Routes file, and it's pretty similar, so it's [[Representational State Transfer (REST)|rest]] routes that called in the cart service and respective methods on the cart service.
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=85)** Let's look into the cart service as well.
 >
@@ -3271,7 +3237,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=99)** Let's look at that.
 >
-> **[1:41](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=101)** So ESLint is complaining because here, online, 27, because I have to return from my routes.
+> **[1:41](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=101)** So [[ESLint]] is complaining because here, online, 27, because I have to return from my routes.
 >
 > **[1:53](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-cartservice?u=76281980&t=113)** That does not harm your application.
 >
@@ -3313,7 +3279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (7), next (4), [[MongoDB]] (3), [[Microservices]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Redis]] (7), [[MongoDB]] (3), [[Microservices]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), npm (2), cd (1)
 > **UI Navigation:** click on (5), drag and drop (1)
 > **File Paths:** start.js (1), index.js (1)
@@ -3322,8 +3288,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Prerequisites:** install (1)
 
-#### Service monitoring with OpenTelemetry and Jaeger
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980)
+#### [Service monitoring with OpenTelemetry and Jaeger](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3363,7 +3328,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=84)** You also see the call into the cart service and there is the express middleware, everything what's going on in express.
 >
-> **[1:30](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=90)** And then you also see the call into Redis and you see that this call into Redis takes 1.4 milliseconds.
+> **[1:30](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=90)** And then you also see the call into [[Redis]] and you see that this call into Redis takes 1.4 milliseconds.
 >
 > **[1:37](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=97)** And you can also look into more details when you click into the respective areas.
 >
@@ -3373,7 +3338,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=126)** Or for instance, if you call the service registry or one service calls the other and somewhere is an error and you're not sure where this is, this would also show up somewhere here because all the errors are then marked, for instance, in red.
 >
-> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=141)** One more thing that you can do is also you can look at the system architecture and here click on the DAG and I mean, this does not win a beauty price, but after all you see very much what's going on.
+> **[2:21](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=141)** One more thing that you can do is also you can look at the [[System Architecture]] and here click on the DAG and I mean, this does not win a beauty price, but after all you see very much what's going on.
 >
 > **[2:33](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=153)** So we have here up a shop application and then you see that the number of requests that go into the registry service and also the requested are then subsequently done to the cart service and to the catalog service.
 >
@@ -3383,13 +3348,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=178)** So that's all there.
 >
-> **[3:00](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=180)** So this is a really good way to really understand what's going on in your services and I really recommend you to also understand observability and monitoring when you're working with microservices.
+> **[3:00](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=180)** So this is a really good way to really understand what's going on in your services and I really recommend you to also understand observability and monitoring when you're working with [[Microservices]].
 >
-> **[3:17](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=197)** I won't show much of that during the rest of the course but I invite you to have a look into Jaeger now and then if you're curious how things are working together in this microservice infrastructure.
+> **[3:17](https://www.linkedin.com/learning/node-js-microservices-22685072/service-monitoring-with-opentelemetry-and-jaeger?u=76281980&t=197)** I won't show much of that during the [[Representational State Transfer (REST)|rest]] of the course but I invite you to have a look into Jaeger now and then if you're curious how things are working together in this microservice infrastructure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), express (2), [[Redis]] (2), data (1), [[System Architecture]] (1)
+> **Frameworks & Libraries:** [[Redis]] (2), [[System Architecture]] (1), [[Microservices]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** hgetall (1), dag (1)
@@ -3403,8 +3368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### API authentication with JWT
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
+#### [API authentication with JWT](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3436,7 +3400,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=87)** In fact, if you put the catalog service out on the internet today, anyone could create a modify items as all the trust is on the caller.
 >
-> **[1:37](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=97)** There has to be a better way to secure endpoints and there is, it's called JSON Web Token, in short, JWT.
+> **[1:37](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=97)** There has to be a better way to secure endpoints and there is, it's called [[JSON]] Web Token, in short, JWT.
 >
 > **[1:45](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=105)** At its core, JWT is a token that can carry a payload which can be read by anyone but only created and validated using a secret.
 >
@@ -3456,7 +3420,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=157)** On the service, we will then decrypt and maybe also validate the token signature.
 >
-> **[2:44](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=164)** JWT tokens are not a solution to all problems and they come with limitations as well.
+> **[2:44](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=164)** JWT [[Tokens]] are not a solution to all problems and they come with limitations as well.
 >
 > **[2:48](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980&t=168)** Let's take a quick look.
 >
@@ -3482,7 +3446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), database (1), [[JSON]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Tokens]] (1)
 > **Env Vars:** jwt (8), api (1), json (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1), - anyone (1)
@@ -3490,18 +3454,17 @@ created: 2026-05-02
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Analogies:** for instance (1)
 
-#### Creating the user service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980)
+#### [Creating the user service](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=0)** - [Instructor] In this video, we will quickly create the user service.
 >
-> **[0:03](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=3)** Please note that I have my shopper application, my catalog service, my card service, my registry service running, and also in Docker, I have Redis, MongoDB, and Jaeger running.
+> **[0:03](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=3)** Please note that I have my shopper application, my catalog service, my card service, my registry service running, and also in Docker, I have [[Redis]], [[MongoDB]], and Jaeger running.
 >
-> **[0:14](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=14)** Next, I will open the workspace and open the resources folder and there, you find this pre-prepared user service, and I drag it into the microservices folder.
+> **[0:14](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=14)** Next, I will open the workspace and open the resources folder and there, you find this pre-prepared user service, and I drag it into the [[Microservices]] folder.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=26)** Then I open a new console window, cd into this directory user-service, and in user-service, I run npm install and npm run dev, so that's very similar to what we did before.
+> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=26)** Then I open a new console window, cd into this directory user-service, and in user-service, I run [[npm]] install and npm run dev, so that's very similar to what we did before.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=43)** You see it is listening now.
 >
@@ -3517,7 +3480,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=92)** So I'm, again, following this requireStack for my quick and dirty refactoring.
 >
-> **[1:36](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=96)** I just hit Command on my Mac or Ctrl on Windows and head into this file where the wrong file name is required.
+> **[1:36](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=96)** I just hit Command on my Mac or Ctrl on [[Windows]] and head into this file where the wrong file name is required.
 >
 > **[1:48](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=108)** I fix it here.
 >
@@ -3525,7 +3488,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=120)** And... The next one is in routes, user, index.js.
 >
-> **[2:09](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=129)** And this is also good exercise if you wonder to understand basically error messages in Node.js, as I said before, many folks seem to struggle to understand what's going on, but this requireStack really tells you exactly where the problem is, and this helps a lot if you ever run into a problem, just read the error message and it will tell you right away what's wrong.
+> **[2:09](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=129)** And this is also good exercise if you wonder to understand basically error messages in [[Node.js]], as I said before, many folks seem to struggle to understand what's going on, but this requireStack really tells you exactly where the problem is, and this helps a lot if you ever run into a problem, just read the error message and it will tell you right away what's wrong.
 >
 > **[2:32](https://www.linkedin.com/learning/node-js-microservices-22685072/creating-the-user-service?u=76281980&t=152)** And now we have a running service and I'm curious if everything still works, so I head into my shop application, I click on Manage Users, so at least it can already read the users because we have it here.
 >
@@ -3549,7 +3512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), application (3), [[npm]] (2), hit (2), [[Redis]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Redis]] (1), [[MongoDB]] (1), [[Microservices]] (1), [[Windows]] (1)
 > **CLI Commands:** npm (2), docker (1), find (1), cd (1), node (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **File Paths:** index.js (2), node.js (1)
@@ -3558,8 +3521,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Add JWT tokens to the user service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980)
+#### [Add JWT tokens to the user service](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3567,13 +3529,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=7)** For that, I open first my user service.
 >
-> **[0:09](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=9)** So I head into workspace, microservices, and user service, and there, I open routes index js.
+> **[0:09](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=9)** So I head into workspace, [[Microservices]], and user service, and there, I open routes index js.
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=16)** You also see on the terminal that I have the user service also here open, and I will now quit nodemon with Control C.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=26)** And then I will first install a module that gives us JSON web token.
+> **[0:26](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=26)** And then I will first install a module that gives us [[JSON]] web token.
 >
-> **[0:31](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=31)** And for that I type NPM install dash S and it's JSON Web token.
+> **[0:31](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=31)** And for that I type [[npm]] install dash S and it's JSON Web token.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/add-jwt-tokens-to-the-user-service?u=76281980&t=42)** And now I can right away, again, enter NPM run dev and start the user service again.
 >
@@ -3677,7 +3639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), application (4), web (3), [[npm]] (2), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[npm]] (2), [[Microservices]] (1)
 > **Env Vars:** json (6), jwt (5), npm (2)
 > **CLI Commands:** npm (2), make (1)
 > **Prerequisites:** install (2), before we start (1)
@@ -3686,8 +3648,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Make the front end use JWT authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980)
+#### [Make the front end use JWT authentication](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3753,7 +3714,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980&t=225)** And for that, we have to bring in JWT first.
 >
-> **[3:49](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980&t=229)** So, on my console I run NPM install dash S JSON web token, then I start my shop application again and on top of this file I will now bring in JWT.
+> **[3:49](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980&t=229)** So, on my console I run [[npm]] install dash S [[JSON]] web token, then I start my shop application again and on top of this file I will now bring in JWT.
 >
 > **[4:08](https://www.linkedin.com/learning/node-js-microservices-22685072/make-the-front-end-use-jwt-authentication?u=76281980&t=248)** So, const JWT equals require JSON web token.
 >
@@ -3817,7 +3778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (4), [[JSON]] (2), web (2), database (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (1)
 > **Env Vars:** jwt (13), json (2), npm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
@@ -3826,8 +3787,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Prerequisites:** install (1)
 
-#### Using bearer headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980)
+#### [Using bearer headers](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3899,15 +3859,15 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=224)** Next, we have to also of course update the catalog service so that it reads this token and validates that.
 >
-> **[3:52](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=232)** So for that, I had in to Microservices, Catalog Service and let's close now everything we have here and I will first now create the middleware that does this token validation.
+> **[3:52](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=232)** So for that, I had in to [[Microservices]], Catalog Service and let's close now everything we have here and I will first now create the middleware that does this token validation.
 >
 > **[4:07](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=247)** And for that I had into Lib.
 >
 > **[4:09](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=249)** And there I create a new file and I call it requireAdmin.js.
 >
-> **[4:20](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=260)** And I now need again JSON web token to do the validation.
+> **[4:20](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=260)** And I now need again [[JSON]] web token to do the validation.
 >
-> **[4:25](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=265)** So ahead into the console of the catalog service I stop the service and run npm install -S jsonwebtoken.
+> **[4:25](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=265)** So ahead into the console of the catalog service I stop the service and run [[npm]] install -S jsonwebtoken.
 >
 > **[4:40](https://www.linkedin.com/learning/node-js-microservices-22685072/using-bearer-headers?u=76281980&t=280)** Then I can start the service again.
 >
@@ -3973,7 +3933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microservices]] (1), [[JSON]] (1), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[JSON]] (1), [[npm]] (1)
 > **Code Identifiers:** requireadmin (3), authheader (3), sendstatus (2), isadmin (1)
 > **Env Vars:** jwt (4), crud (1), http (1), json (1)
 > **Definitions:** is a  (3), is called (1)
@@ -3982,8 +3942,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), npm (1)
 > **Prerequisites:** make sure you have (1), install (1)
 
-#### Protecting endpoints with JWT
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980)
+#### [Protecting endpoints with JWT](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4069,9 +4028,9 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=249)** And there are different means how to handle that.
 >
-> **[4:12](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=252)** For instance, creating a blocked list with tokens somewhere that is also consulted to check if a token is invalidated.
+> **[4:12](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=252)** For instance, creating a blocked list with [[Tokens]] somewhere that is also consulted to check if a token is invalidated.
 >
-> **[4:20](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=260)** JWT and endpoint security would be worth a course on its own.
+> **[4:20](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=260)** JWT and [[Endpoint Security]] would be worth a course on its own.
 >
 > **[4:25](https://www.linkedin.com/learning/node-js-microservices-22685072/protecting-endpoints-with-jwt?u=76281980&t=265)** So what I want you to take away from this chapter is that sensitive endpoints need to be protected, and JWT is a good way to do it.
 >
@@ -4079,7 +4038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), hit (1), management (1), database (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** jwt (3), crud (2), wrong (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
@@ -4093,8 +4052,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's your goal for this chapter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
+#### [What's your goal for this chapter?](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4114,15 +4072,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=40)** Let's get a little bit more formal overview before we continue.
 >
-> **[0:45](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=45)** So if we have multiple independent services, the probability of failure increases.
+> **[0:45](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=45)** So if we have multiple independent services, the [[Probability]] of failure increases.
 >
-> **[0:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=51)** There can be network issues, hardware failures, software bugs, everything can take down a service, and such a service outage can have a cascading effect on all other services.
+> **[0:51](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=51)** There can be network issues, [[Hardware]] failures, software bugs, everything can take down a service, and such a service outage can have a cascading effect on all other services.
 >
 > **[1:04](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=64)** Resilience helps the system to continue to function despite individual service failures.
 >
 > **[1:11](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=71)** So what does resilience really mean?
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=74)** We need to gracefully react to errors and also recover from failures.
+> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=74)** We need to gracefully [[React.js|react]] to errors and also recover from failures.
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980&t=78)** The goal is not to avoid failures, as such, but we want to respond to them effectively.
 >
@@ -4154,14 +4112,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (1), [[Probability]] (1), [[Hardware]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Hardware]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chaos testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/chaos-testing?u=76281980)
+#### [Chaos testing](https://www.linkedin.com/learning/node-js-microservices-22685072/chaos-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4259,7 +4216,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (3), express (2), next (1)
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -4267,8 +4223,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding caching to reduce load and bridge outages
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980)
+#### [Adding caching to reduce load and bridge outages](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4322,7 +4277,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980&t=138)** This has different implications.
 >
-> **[2:19](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980&t=139)** For instance, search engines, Google, for instance, will of course penalize you if the page is down and no items are shown maybe a whole weekend, yeah.
+> **[2:19](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980&t=139)** For instance, search engines, [[Google]], for instance, will of course penalize you if the page is down and no items are shown maybe a whole weekend, yeah.
 >
 > **[2:30](https://www.linkedin.com/learning/node-js-microservices-22685072/adding-caching-to-reduce-load-and-bridge-outages?u=76281980&t=150)** So with this measure, you are at least in the degraded but at least somewhat functional state.
 >
@@ -4330,7 +4285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1), management (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Code Identifiers:** allitemscache (4)
 > **Analogies:** for instance (2)
 > **Cross-References:** as you saw (1)
@@ -4338,8 +4293,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Using queues for decoupling
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980)
+#### [Using queues for decoupling](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4367,11 +4321,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=69)** In this case, this message will then be removed from the queue.
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=74)** There are several queuing systems available, and if you're on an infrastructure provider like AWS Azure or Google Cloud, they will come out of the box.
+> **[1:14](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=74)** There are several queuing systems available, and if you're on an infrastructure provider like AWS [[Microsoft Azure|Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]], they will come out of the box.
 >
 > **[1:22](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=82)** In this course, we will be using RabbitMQ to publish and consume order messages asynchronously.
 >
-> **[1:29](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=89)** RabbitMQ is available for all common operating systems and has a client library for Node.js.
+> **[1:29](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=89)** RabbitMQ is available for all common operating systems and has a client library for [[Node.js]].
 >
 > **[1:34](https://www.linkedin.com/learning/node-js-microservices-22685072/using-queues-for-decoupling?u=76281980&t=94)** As such, it's a good candidate for showing the basic functionality of queues in this course.
 >
@@ -4379,15 +4333,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), aws (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Node.js]] (1)
 > **CLI Commands:** aws (1), node (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing up RabbitMQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-up-rabbitmq?u=76281980)
+#### [Installing up RabbitMQ](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-up-rabbitmq?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4425,14 +4378,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** docker (2), find (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the order service
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980)
+#### [Setting up the order service](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4440,13 +4391,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=7)** This is the last service that is still in the monolith and for that, again, you might not even try it out on your own.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=15)** I head into workspace, microservices and I open the resources file and I will drag the order-service into microservices.
+> **[0:15](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=15)** I head into workspace, [[Microservices]] and I open the resources file and I will drag the order-service into microservices.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=27)** Then I open a new console again.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=29)** I cd into the order-service.
 >
-> **[0:33](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=33)** I run npm install, followed by npm run dev.
+> **[0:33](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=33)** I run [[npm]] install, followed by npm run dev.
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=41)** Now we have a running order-service and again, we have to also add the service client to our shopper main application.
 >
@@ -4460,7 +4411,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=73)** I go to server/routes/admin/orders/index.js But just following this link and here already see the error.
 >
-> **[1:19](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=79)** Maybe I have to mention that this also works only this way and you also see the error this clearly because we have ESLint on this.
+> **[1:19](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=79)** Maybe I have to mention that this also works only this way and you also see the error this clearly because we have [[ESLint]] on this.
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-the-order-service?u=76281980&t=89)** So this all comes together nicely here.
 >
@@ -4504,7 +4455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (3), [[npm]] (2), cd (1), application (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[npm]] (2), [[ESLint]] (1)
 > **UI Navigation:** open the (2), click on (2), go to (1)
 > **CLI Commands:** npm (2), cd (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1), [test.com](https://test.com) (1)
@@ -4513,8 +4464,7 @@ created: 2026-05-02
 > **Ports:** :3000 (1)
 > **Cross-References:** in the next (1)
 
-#### Producing orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980)
+#### [Producing orders](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4528,7 +4478,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=36)** So, we just pass in the user ID, the user email, and the items, and we want to change this create method now so that it uses the queue and not anymore this HTTP API that we have.
 >
-> **[0:50](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=50)** And for that, I open first this create method, follow this link, and then, of course, I also have to get the ANQP library, and for that I stop my shop application real quick and type npm install -s anqplib.
+> **[0:50](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=50)** And for that, I open first this create method, follow this link, and then, of course, I also have to get the ANQP library, and for that I stop my shop application real quick and type [[npm]] install -s anqplib.
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=73)** Then I can start my application again, and on the very top of this file I will now add const anqp.
 >
@@ -4552,7 +4502,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=168)** That's just a variable, so add const queue equals, and let's call this queue orders.
 >
-> **[2:55](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=175)** And then we can already compile the message, so this is now the message that we want to send into the queue, so add const message equals JSON.stringify,
+> **[2:55](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=175)** And then we can already compile the message, so this is now the message that we want to send into the queue, so add const message equals [[JSON]].stringify,
 >
 > **[3:11](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=191)** because what we do here is, we basically create a blob of JSON that we just throw into the queue, so we can just do a JSON stringify and we pass in the userId, so this is basically the arguments that we would usually send through HTTP, the email address, and the items.
 >
@@ -4574,7 +4524,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=286)** So I write X in brackets, Sent %s, message.
 >
-> **[4:57](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=297)** That's another way to use string interpolation in Node.js, and in the end, if there's an error, I will add console.error error.
+> **[4:57](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=297)** That's another way to use string interpolation in [[Node.js]], and in the end, if there's an error, I will add console.error error.
 >
 > **[5:13](https://www.linkedin.com/learning/node-js-microservices-22685072/producing-orders?u=76281980&t=313)** And with that, we should be ready to send messages to the queue already, so let's head back into the browser, and I add a few items to my cart, and then in the end, I click on buy now.
 >
@@ -4610,7 +4560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[JSON]] (3), api (2), application (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (1), [[Node.js]] (1)
 > **Env Vars:** http (3), json (3), api (2), anqp (1), dsm (1)
 > **CLI Commands:** make (2), find (1), npm (1), node (1), docker (1)
 > **Code Identifiers:** createchannel (1), userid (1), assertqueue (1), sendtoqueue (1)
@@ -4619,8 +4569,7 @@ created: 2026-05-02
 > **Ports:** port 15672 (1)
 > **Versions:** 127.0.0 (1)
 
-#### Consuming orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980)
+#### [Consuming orders](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4628,11 +4577,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=4)** Now we have to create the logic in the order service to consume these messages and create orders from it.
 >
-> **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=11)** For that, I will now open workspace microservices.
+> **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=11)** For that, I will now open workspace [[Microservices]].
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=16)** I open the order service, and I also head to the order service console.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=21)** And I stop the script real quick because I have to npm install dash s amqplib, because obviously we need to store as well.
+> **[0:21](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=21)** And I stop the script real quick because I have to [[npm]] install dash s amqplib, because obviously we need to store as well.
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=34)** And, I'm starting the script again.
 >
@@ -4716,7 +4665,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=304)** What we do now?
 >
-> **[5:05](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=305)** We do json.parse, and parse this payload back into a regular json object.
+> **[5:05](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=305)** We do [[JSON]].parse, and parse this payload back into a regular json object.
 >
 > **[5:13](https://www.linkedin.com/learning/node-js-microservices-22685072/consuming-orders?u=76281980&t=313)** If you remember correctly, we used json stringify before.
 >
@@ -4802,7 +4751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), next (3), application (2), [[Microservices]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Microservices]] (1), [[npm]] (1)
 > **Code Identifiers:** createchannel (1), assertqueue (1), tostring (1), userid (1), noack (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -4816,8 +4765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4833,17 +4781,17 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=20)** For instance, I also created a course that goes deeper on the architectural considerations when splitting up monoliths.
 >
-> **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=27)** You could also look deeper into REST APIs and how to secure them.
+> **[0:27](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=27)** You could also look deeper into [[Representational State Transfer (REST)|REST]] APIs and how to secure them.
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=30)** Also, knowing how to run your application on cloud providers like AWS, and broaden your DevOps knowledge is a good investment.
+> **[0:30](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=30)** Also, knowing how to run your application on cloud providers like AWS, and broaden your [[DevOps]] knowledge is a good investment.
 >
-> **[0:38](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=38)** Feel free to follow me here on LinkedIn, or reach out if you have any questions or feedback.
+> **[0:38](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=38)** Feel free to follow me here on [[LinkedIn]], or reach out if you have any questions or feedback.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980&t=43)** I'm Daniel Khan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Representational State Transfer (REST)|Rest]] (1), application (1), cloud (1), aws (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[DevOps]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** node (1), aws (1)
 > **Env Vars:** rest (1), aws (1)
 > **Definitions:** is a  (1)

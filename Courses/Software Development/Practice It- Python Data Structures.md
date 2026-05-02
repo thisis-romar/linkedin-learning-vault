@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice the Python data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
+#### [Practice the Python data structures](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980&t=0)** - [Kaylee] You can save yourself time and effort as well as make your code a lot more readable by using Python collections.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980&t=0)** - [Kaylee] You can save yourself time and effort as well as make your code a lot more readable by using [[Python (Programming Language)|Python]] collections.
 >
 > **[0:06](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980&t=6)** A lot of Python developers have heard of collections, maybe you have even used them.
 >
@@ -113,12 +112,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (2)
 > **Speakers:** - [kaylee] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,26 +128,25 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=14)** After each example, think about what class we used and other ways to solve the problem.
 >
-> **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=19)** I have configured a get GitHub CodeSpace for you to get started coding right away.
+> **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=19)** I have configured a get [[GitHub]] CodeSpace for you to get started coding right away.
 >
-> **[0:23](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=23)** If you're unfamiliar with CodeSpaces, let me invite LinkedIn staff instructor Ray Villalobos to show you how to get started in CodeSpaces.
+> **[0:23](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=23)** If you're unfamiliar with [[Codespaces]], let me invite [[LinkedIn]] staff instructor Ray Villalobos to show you how to get started in CodeSpaces.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Codespaces]] (2), [[GitHub]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[GitHub]] (1), [[LinkedIn]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -291,8 +288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try it: Count words from a paragraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
+#### [Try it: Count words from a paragraph](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,12 +314,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
-#### Check it: Count words from a paragraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980)
+#### [Check it: Count words from a paragraph](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,11 +331,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=12)** First, let's do a few simple things to normalize that data.
 >
-> **[0:16](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=16)** We will use "lower" to ensure that Python properly counts words as the same, even if they have different capitalizations.
+> **[0:16](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=16)** We will use "lower" to ensure that [[Python (Programming Language)|Python]] properly counts words as the same, even if they have different capitalizations.
 >
 > **[0:26](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=26)** Next, let's get rid of all punctuation.
 >
-> **[0:29](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=29)** If there is punctuation after the word, that might throw off the count.
+> **[0:29](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=29)** If there is punctuation after the [[Microsoft Word|word]], that might throw off the count.
 >
 > **[0:33](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=33)** Like here, "restaurant" might be counted separately from "restaurant" with the period attached.
 >
@@ -373,14 +367,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1)
 > **Non-Speech:** (technical blip noises) (1), (keyboard buttons clicking) (1)
 > **CLI Commands:** python (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Finding the most common products
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-finding-the-most-common-products?u=76281980)
+#### [Try it: Finding the most common products](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-finding-the-most-common-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,8 +394,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Finding the most common products
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980)
+#### [Check it: Finding the most common products](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=5)** So, let's import Counter again from collections.
 >
-> **[0:08](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=8)** (keys tapping) Then, we can get our dictionary of counts by using Counter on our products.
+> **[0:08](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=8)** (keys tapping) Then, we can get our dictionary of counts by using Counter on our [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=19)** (keys tapping) Counter has a very neat built in method called Most Common.
 >
@@ -438,8 +430,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Try it: Doing inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980)
+#### [Try it: Doing inventory](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=14)** First, you'll need to get the inventory into a counter object.
 >
-> **[0:17](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=17)** Then, when you need to subtract, you can use the subtraction method in Python.
+> **[0:17](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=17)** Then, when you need to subtract, you can use the subtraction method in [[Python (Programming Language)|Python]].
 >
 > **[0:21](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=21)** To add, I recommend using the update method provided by the counter.
 >
@@ -468,8 +459,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Doing inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-doing-inventory?u=76281980)
+#### [Check it: Doing inventory](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-doing-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +497,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -515,8 +504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try it: Storing a user's most recent food orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
+#### [Try it: Storing a user's most recent food orders](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=3)** - [Instructor] Imagine you want to keep track of the last five foods you ordered from Nadia, and only the last five foods.
 >
-> **[0:09](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=9)** How can you accomplish this with Python using collections?
+> **[0:09](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=9)** How can you accomplish this with [[Python (Programming Language)|Python]] using collections?
 >
 > **[0:13](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=13)** First, you will have to make a deque.
 >
@@ -548,8 +536,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Check it: Storing a user's most recent food orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-storing-a-user-s-most-recent-food-orders?u=76281980)
+#### [Check it: Storing a user's most recent food orders](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-storing-a-user-s-most-recent-food-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,8 +593,7 @@ created: 2026-05-02
 > **Non-Speech:** (beeping) (1), (typing clicks) (1)
 > **Speakers:** - [speaker] (1)
 
-#### Try it: Palindrome checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980)
+#### [Try it: Palindrome checker](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=13)** If Nadia was considering adding a Tacocat, that would be a palindrome.
 >
-> **[0:17](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=17)** The word is the same backwards and forward.
+> **[0:17](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=17)** The [[Microsoft Word|word]] is the same backwards and forward.
 >
 > **[0:20](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=20)** Think about how you can continually check on the equality of the first and last letter of a word using popleft() and pop().
 >
@@ -634,8 +620,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Palindrome checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980)
+#### [Check it: Palindrome checker](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=12)** I'm going to break "check_palindrome" out, into another function.
 >
-> **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=19)** This way, in "main", we can call "check_palindrome," after we choose our word.
+> **[0:19](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=19)** This way, in "main", we can call "check_palindrome," after we choose our [[Microsoft Word|word]].
 >
 > **[0:35](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=35)** In "check_palindrome," first, we need to make our deque, "d".
 >
@@ -677,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Code Identifiers:** check_palindrome (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -685,8 +670,7 @@ created: 2026-05-02
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (typing sound) (1)
 
-#### Try it: Scheduling tasks with Priority
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-scheduling-tasks-with-priority?u=76281980)
+#### [Try it: Scheduling tasks with Priority](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-scheduling-tasks-with-priority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,11 +696,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Scheduling tasks with priority
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-scheduling-tasks-with-priority?u=76281980)
+#### [Check it: Scheduling tasks with priority](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-scheduling-tasks-with-priority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,8 +769,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try it: Store driver details
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
+#### [Try it: Store driver details](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,11 +791,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Store driver details
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-store-driver-details?u=76281980)
+#### [Check it: Store driver details](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-store-driver-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,13 +857,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Non-Speech:** (keys clicking) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Reading CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-reading-csv-files?u=76281980)
+#### [Try it: Reading CSV files](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-reading-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,13 +885,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** csv (2)
 > **File Paths:** customer.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Reading CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-reading-csv-files?u=76281980)
+#### [Check it: Reading CSV files](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-reading-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,7 +929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** csv (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
@@ -964,8 +938,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try it: Cleaning up duplicate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
+#### [Try it: Cleaning up duplicate data](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=3)** - [Instructor] Let's talk about our last collections container, DefaultDict.
 >
-> **[0:06](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=6)** A DefaultDict is a subclass of Python's dictionary class.
+> **[0:06](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=6)** A DefaultDict is a subclass of [[Python (Programming Language)|Python]]'s dictionary class.
 >
 > **[0:10](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=10)** The only difference is that DefaultDict allows you to set a default value when a key is not present, instead of raising a key error.
 >
@@ -997,14 +970,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (low beeping) (1)
 
-#### Check it: Cleaning up duplicate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-cleaning-up-duplicate-data?u=76281980)
+#### [Check it: Cleaning up duplicate data](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-cleaning-up-duplicate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,8 +1039,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Calculating gain and loss
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-calculating-gain-and-loss?u=76281980)
+#### [Try it: Calculating gain and loss](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-calculating-gain-and-loss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,12 +1061,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (1)
 > **File Paths:** orderitems.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Calculating gain and loss
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980)
+#### [Check it: Calculating gain and loss](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,13 +1106,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=184)** It looks like DES 4 is the most popular item with 12 orders.
 >
-> **[3:09](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=189)** Thank you for practicing Python Collections with me.
+> **[3:09](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=189)** Thank you for practicing [[Python (Programming Language)|Python]] Collections with me.
 >
 > **[3:11](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=191)** I hope you find new creative ways to use collections now that you have a good handle on some of them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** csv (1), des (1)
 > **Speakers:** - [female (1)
@@ -1153,8 +1122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your Python data structures learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)
+#### [Next steps in your Python data structures learning journey](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=18)** Make sure to experiment and have fun.
 >
-> **[0:21](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=21)** Try using counter, deque, namedtuple, and defautdict as you develop your Python applications.
+> **[0:21](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=21)** Try using counter, deque, namedtuple, and defautdict as you develop your [[Python (Programming Language)|Python]] applications.
 >
 > **[0:26](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=26)** You might find that these come to mind a lot as you're going through your day-to-day life.
 >
@@ -1182,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2), find (2)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)

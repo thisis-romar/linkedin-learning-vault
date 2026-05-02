@@ -86,34 +86,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predict data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980)
+#### [Predict data in Python](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=0)** - Have you ever wondered how real estate websites come up with housing price estimates, or how insurance companies predict healthcare costs?
 >
-> **[0:10](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=10)** Well, this is done through predictive analytics.
+> **[0:10](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=10)** Well, this is done through [[Predictive Analytics]].
 >
 > **[0:13](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=13)** It helps programmers efficiently extract information from data to make an informed guess.
 >
-> **[0:20](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=20)** In this course, I'm going to show you how to use prebuilt Python libraries to make and evaluate predictive models for decision making.
+> **[0:20](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=20)** In this course, I'm going to show you how to use prebuilt [[Python (Programming Language)|Python]] libraries to make and evaluate predictive models for decision making.
 >
 > **[0:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=29)** You will learn how to prepare your data and know which models to use when, and apply these concepts in your own work.
 >
 > **[0:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=38)** I'm Dr. Isil Berkun, founder of [DigiFab.AI](https://DigiFab.AI).
 >
-> **[0:42](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=42)** I invite you to join me in my LinkedIn Learning course about applying predictive analytics with Python.
+> **[0:42](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980&t=42)** I invite you to join me in my [[LinkedIn]] Learning course about applying predictive analytics with Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (2), [[Python (Programming Language)|Python]] (2), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), python (2)
 > **URLs:** [digifab.ai](https://digifab.ai) (1)
 > **Speakers:** - have (1)
 
-#### What you should know and course road map
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980)
+#### [What you should know and course road map](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,9 +121,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=8)** In order to reach that goal, we will follow a roadmap.
 >
-> **[0:12](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=12)** This roadmap is based on the cross-industry standard process for data mining or CRISP-DM for short.
+> **[0:12](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=12)** This roadmap is based on the cross-industry standard process for [[Data Mining]] or [[CRISP-DM]] for short.
 >
-> **[0:22](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=22)** This is a very widely used method for planning data science projects.
+> **[0:22](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=22)** This is a very widely used method for planning [[Data Science]] projects.
 >
 > **[0:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=27)** In our roadmap, there are six stages, and I'll briefly describe what happens in each stage here.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=92)** After that, understanding the types of data is key, so you know how to process it for your predictions.
 >
-> **[1:41](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=101)** Then data preparation.
+> **[1:41](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=101)** Then [[Data Preparation]].
 >
 > **[1:43](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=103)** In this stage, it's important to make sure that the data is able to be processed by the prediction models.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=183)** Finally, the last stage is deployment.
 >
-> **[3:06](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=186)** All your hardware can be deployed because you found a successful model to solve your problem.
+> **[3:06](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=186)** All your [[Hardware]] can be deployed because you found a successful model to solve your problem.
 >
 > **[3:13](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/what-you-should-know-and-course-road-map?u=76281980&t=193)** A lot of times this map is not a straight one line trail.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (4), [[CRISP-DM]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[CRISP-DM]] (1), [[Data Science]] (1), [[Data Preparation]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** crisp (1), bmw (1)
 > **Cross-References:** in the next (1)
@@ -202,14 +200,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Codespaces and the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980)
+#### [How to use Codespaces and the exercise files](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=0)** - [Instructor] Well, I've got some great news.
 >
-> **[0:02](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=2)** In this course, we are leveraging GitHub Codespaces to give you a Cloud-powered development environment.
+> **[0:02](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=2)** In this course, we are leveraging [[GitHub]] [[Codespaces]] to give you a Cloud-powered development environment.
 >
 > **[0:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=9)** This tool makes coding more flexible and accessible than ever before.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=171)** Then, we have the output folder.
 >
-> **[2:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=174)** This output folder contains some of the images we create as a byproduct using the Python code.
+> **[2:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=174)** This output folder contains some of the images we create as a byproduct using the [[Python (Programming Language)|Python]] code.
 >
 > **[3:01](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=181)** Then, we have the core folder, which is the SRC source folder.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=196)** And structure is same in every module down below.
 >
-> **[3:21](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=201)** In some of the modules, you may see some Excel files that we take advantage of and work with.
+> **[3:21](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=201)** In some of the modules, you may see some [[Microsoft Excel|Excel]] files that we take advantage of and work with.
 >
 > **[3:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/how-to-use-codespaces-and-the-exercise-files?u=76281980&t=207)** So, if you see an Excel file in a module, you will click on it and then right-click, click Allow, and then you can go ahead and download it to work with it in your local computer.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), web (3), cloud (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** visual studio (7), github (3)
 > **UI Navigation:** click on (3), right-click (1)
 > **Prerequisites:** setup (2), set up (2)
@@ -304,8 +301,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the readme (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980&t=20)** These challenges are hosted by CoderPad and they appear in the same area of the course page when you watch the courses videos.
 >
-> **[0:28](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980&t=28)** We recommend using a desktop browser for your best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:28](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980&t=28)** We recommend using a desktop browser for your best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/coderpad-tour?u=76281980&t=38)** The code challenge has four areas: Instructions in the top left.
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -377,8 +373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Differentiate data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980)
+#### [Differentiate data types](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,25 +479,24 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980&t=334)** They need numbers.
 >
-> **[5:36](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980&t=336)** So, in order to work with predictive analytics, we will need to find ways to convert categorical data into numerical data.
+> **[5:36](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980&t=336)** So, in order to work with [[Predictive Analytics]], we will need to find ways to convert categorical data into numerical data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), business (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **Analogies:** for example (4), such as (2), similar to (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python libraries and data import
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980)
+#### [Python libraries and data import](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=0)** - [Instructor] Python libraries are collections of functions and methods that allow you to perform actions without writing the code from scratch.
+> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] libraries are collections of functions and methods that allow you to perform actions without writing the code from scratch.
 >
 > **[0:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=9)** It's a huge time saver so you aren't writing the same code over and over again.
 >
-> **[0:16](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=16)** Libraries are especially important for predictive analytics as they simplify tasks with prebuilt functions.
+> **[0:16](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=16)** Libraries are especially important for [[Predictive Analytics]] as they simplify tasks with prebuilt functions.
 >
 > **[0:25](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=25)** Think of libraries as tools for your toolkit.
 >
@@ -520,13 +514,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=65)** You can then call the library's functions as needed.
 >
-> **[1:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=69)** Throughout this course, we will use Visual Studio Code and Codespaces to write and run Python code.
+> **[1:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=69)** Throughout this course, we will use Visual Studio Code and [[Codespaces]] to write and run Python code.
 >
 > **[1:19](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=79)** Visual Studio Code is a free, powerful code editor and Codespaces allows us to work in a cloud-based environment.
 >
 > **[1:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=87)** This means everything is set up for you without additional installation.
 >
-> **[1:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=94)** The libraries we will use most often are pandas for data structures and analysis, NumPy for numerical computations, scikit-learn for data pre-processing and prediction, Matplotlib for plotting, and Seaborn for data visualization.
+> **[1:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=94)** The libraries we will use most often are [[Pandas (Software)|pandas]] for [[Data Structures]] and analysis, NumPy for numerical computations, scikit-learn for data pre-processing and prediction, Matplotlib for plotting, and Seaborn for data visualization.
 >
 > **[1:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/python-libraries-and-data-import?u=76281980&t=114)** These libraries are pre-installed in Codespaces, so you do not need to do anything additional for the purpose of this course.
 >
@@ -624,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (5), [[Codespaces]] (3), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (5), [[Codespaces]] (3), [[Predictive Analytics]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (7), pip (3), find (2), make (1)
 > **Prerequisites:** install (7), set up (1)
 > **Code Identifiers:** model_selection (1), train_test_split (1), read_csv (1)
@@ -633,20 +627,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1)
 
-#### Handling missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980)
+#### [Handling missing values](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=0)** - [Instructor] Looking at our roadmap, we scratched the surface of data understanding by looking at data types in previous videos.
 >
-> **[0:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=8)** Now we start the fun part, data preparation step, which is 80% of what data science is.
+> **[0:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=8)** Now we start the fun part, [[Data Preparation]] step, which is 80% of what [[Data Science]] is.
 >
 > **[0:15](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=15)** As they say, garbage in, garbage out if you are not careful during this step.
 >
 > **[0:21](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=21)** In real life, we rarely have complete datasets to work with.
 >
-> **[0:25](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=25)** In Python, missing values are represented as NaN, in other words, not a number.
+> **[0:25](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=25)** In [[Python (Programming Language)|Python]], missing values are represented as NaN, in other words, not a number.
 >
 > **[0:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=34)** Prediction methods cannot work with missing data, so we need to fix this.
 >
@@ -840,7 +833,7 @@ created: 2026-05-02
 >
 > **[10:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=627)** Now, let's go ahead and open up the distribution analysis and we can enlarge these by clicking on them and zooming in.
 >
-> **[10:36](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=636)** So I'm going to zoom in first to see the distribution of charges, which is the left pane.
+> **[10:36](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=636)** So I'm going to [[Zoom]] in first to see the distribution of charges, which is the left pane.
 >
 > **[10:44](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/handling-missing-values?u=76281980&t=644)** So I zoomed in a bit much, so I'm zooming out just a tiny bit to see the whole image.
 >
@@ -882,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (5), [[Zoom]] (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Python (Programming Language)|Python]] (2), [[Data Preparation]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (5), make (5), python (2)
 > **Env Vars:** bmi (5), src (1), enter (1)
 > **UI Navigation:** click on (2), scroll up (1), scroll down (1)
@@ -891,8 +884,7 @@ created: 2026-05-02
 > **Code Identifiers:** fit_transform (1)
 > **Versions:** 0.3 (1)
 
-#### Solution: Handling missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-handling-missing-values?u=76281980)
+#### [Solution: Handling missing values](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-handling-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,19 +944,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), hit (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** fit_transform (2)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Convert categorical data into numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980)
+#### [Convert categorical data into numbers](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=0)** - [Instructor] We are still at the data preparation step in our predictive analytics roadmap.
+> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=0)** - [Instructor] We are still at the [[Data Preparation]] step in our [[Predictive Analytics]] roadmap.
 >
 > **[0:06](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=6)** We need to convert categorical data into numbers because prediction models only accept numerical data.
 >
@@ -998,7 +988,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=93)** We place one where we satisfy the presence of that color, and zero where we don't.
 >
-> **[1:40](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=100)** This shows examples of how the pandas and sklearn Python libraries handle label encoding and one hot encoding.
+> **[1:40](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=100)** This shows examples of how the [[Pandas (Software)|pandas]] and sklearn [[Python (Programming Language)|Python]] libraries handle label encoding and one hot encoding.
 >
 > **[1:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/convert-categorical-data-into-numbers?u=76281980&t=110)** What about code?
 >
@@ -1192,19 +1182,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (14), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (4), [[Data Preparation]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (8), python (4), find (2)
 > **Code Identifiers:** reset_index (2), region_data (2), get_feature_names_out (1)
 > **Env Vars:** ohe (3), src (1)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Divide the data into test and train
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980)
+#### [Divide the data into test and train](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=0)** - [Instructor] We are still in the data preparation step of the predictive analytics roadmap.
+> **[0:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=0)** - [Instructor] We are still in the [[Data Preparation]] step of the [[Predictive Analytics]] roadmap.
 >
 > **[0:05](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=5)** At this stage, we need to divide the data into train and test datasets.
 >
@@ -1264,7 +1253,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=208)** So let's go ahead and do that next.
 >
-> **[3:31](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=211)** X_final we will call pandas.concat function and then insert what we want to concatenate.
+> **[3:31](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=211)** X_final we will call [[Pandas (Software)|pandas]].concat function and then insert what we want to concatenate.
 >
 > **[3:42](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/divide-the-data-into-test-and-train?u=76281980&t=222)** First we will call the numerical values that we have created up above, which is X_num, and then we will have region_data frame, data, sex.
 >
@@ -1344,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (4), [[Predictive Analytics]] (1), [[Pandas (Software)|Pandas]] (1), feature (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Predictive Analytics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** y_train (4), y_final (2), y_test (2), region_data (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** bmi (3), src (1)
@@ -1353,8 +1342,7 @@ created: 2026-05-02
 > **Versions:** 0.33 (1)
 > **UI Navigation:** go to (1)
 
-#### Feature scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980)
+#### [Feature scaling](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1388,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=120)** Let's go ahead and see how both methods work.
 >
-> **[2:04](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=124)** Let's start with feature scaling in Excel.
+> **[2:04](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=124)** Let's start with feature scaling in [[Microsoft Excel|Excel]].
 >
 > **[2:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=128)** So for that, please go to your coder pad environment and find the SRC folder.
 >
@@ -1488,7 +1476,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=338)** So what we did here is we normalized and standardized student ages in Excel.
 >
-> **[5:43](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=343)** Now let's go to the Python code and do the same exact thing in Python this time.
+> **[5:43](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=343)** Now let's go to the [[Python (Programming Language)|Python]] code and do the same exact thing in Python this time.
 >
 > **[5:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/feature-scaling?u=76281980&t=350)** So now let's go ahead and find the 01_08 begin Python code in the code spaces.
 >
@@ -1610,7 +1598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (7), next (5), [[Python (Programming Language)|Python]] (3), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (4), make (4), python (3)
 > **UI Navigation:** select the (4), go to (2), click on (1), scroll down (1)
 > **Code Identifiers:** s_scaler (3), n_scaler (1), standardscaler (1), fit_transform (1)
@@ -1619,8 +1607,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 
-#### Solution: Feature scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-feature-scaling?u=76281980)
+#### [Solution: Feature scaling](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-feature-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1667,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (2)
 > **Code Identifiers:** x_train (4), n_scaler (3), s_scaler (3), x_test (2), x_test_normalized (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -1694,8 +1680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to predictive models
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980)
+#### [Introduction to predictive models](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1688,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=5)** This is a very exciting milestone.
 >
-> **[0:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=8)** Remember, data preparation is where most engineers and data scientists spend the majority of their time and effort.
+> **[0:08](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=8)** Remember, [[Data Preparation]] is where most engineers and data scientists spend the majority of their time and effort.
 >
 > **[0:16](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=16)** So take a moment to celebrate.
 >
@@ -1713,11 +1698,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=33)** Prediction is essentially about using patterns in past data to estimate unknown outcomes.
 >
-> **[0:41](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=41)** Machine learning models generally fall into three categories: supervised, unsupervised, and reinforcement learning.
+> **[0:41](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=41)** Machine learning models generally fall into three categories: supervised, unsupervised, and [[Reinforcement Learning]].
 >
 > **[0:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=50)** Let's quickly define them and see how they differ.
 >
-> **[0:55](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=55)** Number one is supervised learning.
+> **[0:55](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=55)** Number one is [[Supervised Learning]].
 >
 > **[0:57](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=57)** These models work with labeled data where we already know the correct output.
 >
@@ -1765,7 +1750,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=197)** Each has its own strengths and weaknesses, and we will evaluate them based on the problem and data at hand.
 >
-> **[3:25](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=205)** In this course, we will explore some commonly used regression models, including linear regression, polynomial regression, support vector regression, decision tree regression, and random forest regression.
+> **[3:25](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=205)** In this course, we will explore some commonly used regression models, including [[Linear Regression]], polynomial regression, support vector regression, decision tree regression, and random forest regression.
 >
 > **[3:40](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=220)** These models predict numerical outcomes and are foundational tools in machine learning.
 >
@@ -1773,21 +1758,20 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=233)** If the predicted output is a number, you'll use regression.
 >
-> **[3:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=238)** This is where the magic of predictive analytics begins.
+> **[3:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=238)** This is where the magic of [[Predictive Analytics]] begins.
 >
 > **[4:03](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980&t=243)** In the next sections, we will explore each of these models in detail and learn how to evaluate their performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (4), [[Reinforcement Learning]] (2), [[Supervised Learning]] (2), strengths (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Reinforcement Learning]] (2), [[Supervised Learning]] (2), [[Linear Regression]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,11 +1781,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=6)** In other words, we predict numbers.
 >
-> **[0:10](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=10)** Let's start with simple linear regression.
+> **[0:10](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=10)** Let's start with simple [[Linear Regression]].
 >
 > **[0:13](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=13)** Simple linear regression is nothing, but explaining the dependent variable Y, with independent variable X.
 >
-> **[0:22](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=22)** We will use the word variable, and future, and dependent-variable, and target interchangeably throughout this course.
+> **[0:22](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=22)** We will use the [[Microsoft Word|word]] variable, and future, and dependent-variable, and target interchangeably throughout this course.
 >
 > **[0:31](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=31)** Imagine you are recovering from an injury and had a doctor's appointment.
 >
@@ -1813,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=50)** What happened to these Post-it notes, which were supposed to be on the wall?
 >
-> **[0:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=54)** No one would have expected that thunderstorm and you left the windows open.
+> **[0:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=54)** No one would have expected that thunderstorm and you left the [[Windows]] open.
 >
 > **[1:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=60)** Therefore, only half of your notes survived, 10 out of 20.
 >
@@ -1843,7 +1827,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=141)** While SSR, the sum of squares of residuals, measures the error left after filling the line, which is the linear line.
 >
-> **[2:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=149)** We will see this in more detail in Excel.
+> **[2:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=149)** We will see this in more detail in [[Microsoft Excel|Excel]].
 >
 > **[2:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=153)** R squared is calculated as 1 minus SSR divided by SST, showing the proportion of the total variation explained by the model.
 >
@@ -1869,7 +1853,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=249)** For simplicity, we will go and continue with our simple linear regression.
 >
-> **[4:14](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=254)** So let's go ahead and open up the Codespaces environment, find SRC and find your two by two folder, and grab the Begin Excel file, right click and click on Download.
+> **[4:14](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=254)** So let's go ahead and open up the [[Codespaces]] environment, find SRC and find your two by two folder, and grab the Begin Excel file, right click and click on Download.
 >
 > **[4:26](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=266)** And then go ahead and open that Excel file.
 >
@@ -1921,7 +1905,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=410)** Our X is the number of days, right?
 >
-> **[6:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=414)** Then we go ahead and type the rest of our formula.
+> **[6:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=414)** Then we go ahead and type the [[Representational State Transfer (REST)|rest]] of our formula.
 >
 > **[6:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=418)** 6500.4. Awesome.
 >
@@ -1983,7 +1967,7 @@ created: 2026-05-02
 >
 > **[9:52](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=592)** So this was an example for simple linear regression in Excel.
 >
-> **[9:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=598)** Now let's get to the code for multiple linear regression in Python using the original dataset, which we have been working with in the earlier modules.
+> **[9:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=598)** Now let's get to the code for multiple linear regression in [[Python (Programming Language)|Python]] using the original dataset, which we have been working with in the earlier modules.
 >
 > **[10:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/linear-regression?u=76281980&t=609)** So let's close that off.
 >
@@ -2033,7 +2017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (22), data (11), [[Microsoft Excel|Excel]] (8), next (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (22), [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **Env Vars:** ssr (4), sst (3), src (2), sum (2), d13 (2)
 > **CLI Commands:** find (5), make (2), python (2)
 > **Definitions:** in other words (4), is a  (3), means that (1)
@@ -2042,8 +2026,7 @@ created: 2026-05-02
 > **Code Identifiers:** y_train_prediction (1), y_test_pred (1), x_test (1)
 > **Analogies:** for example (2), imagine (1)
 
-#### Polynomial regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980)
+#### [Polynomial regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2065,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=39)** Suppose you want to calculate the bonus of the employees based on how many years of experience they have on the job.
 >
-> **[0:47](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=47)** So let's go to Codespaces, find src, find 02_03, and then open the Begin Excel file.
+> **[0:47](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=47)** So let's go to [[Codespaces]], find src, find 02_03, and then open the Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=54)** To open it, right click, and then go ahead and download it to your local computer and then open it up.
 >
@@ -2159,7 +2142,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=334)** So let's take a step back and review what we just did.
 >
-> **[5:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=338)** We fit the linear regression on the data here.
+> **[5:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=338)** We fit the [[Linear Regression]] on the data here.
 >
 > **[5:41](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=341)** Notice that we are still fitting a linear model, but the features are polynomial here.
 >
@@ -2173,11 +2156,11 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=367)** You may change the degree of polynomial fit and apply it again to explore different scenarios like we did for the Excel solution.
 >
-> **[6:15](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=375)** So let's keep in mind, in most examples, we may end up with a lot of features, which will then bring the necessity of feature engineering, transformation, and selection.
+> **[6:15](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=375)** So let's keep in mind, in most examples, we may end up with a lot of features, which will then bring the necessity of [[Feature Engineering]], transformation, and selection.
 >
 > **[6:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=387)** For instance, we may need to use feature A multiplied by feature B as a new feature and so on.
 >
-> **[6:35](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=395)** There are algorithms to automatically choose important features.
+> **[6:35](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=395)** There are [[Algorithms]] to automatically choose important features.
 >
 > **[6:39](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/polynomial-regression?u=76281980&t=399)** So we will not cover them in this course, but that's something you could keep in mind to explore as a future step.
 >
@@ -2191,7 +2174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (6), next (4), [[Microsoft Excel|Excel]] (3), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Codespaces]] (2), [[Linear Regression]] (1), [[Feature Engineering]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** poly_lr (4), y_train (2), y_test (1), y_final (1), test_size (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** go to (2), open the (2), click on (1), scroll up (1)
@@ -2200,8 +2183,7 @@ created: 2026-05-02
 > **Versions:** 38.027 (1)
 > **Analogies:** for instance (1)
 
-#### Solution: Polynomial regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980)
+#### [Solution: Polynomial regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2201,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980&t=34)** So, in order to fit the polynomial regression model, what we have to do is we are going to go ahead and say poly_lr equals to LinearRegression.
 >
-> **[0:46](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980&t=46)** Remember, in polynomial regression, we call the linear regression with polynomial features, right?
+> **[0:46](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980&t=46)** Remember, in polynomial regression, we call the [[Linear Regression]] with polynomial features, right?
 >
 > **[0:53](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-polynomial-regression?u=76281980&t=53)** So next, what we are going to do is we are going to say poly_lr.
 >
@@ -2255,7 +2237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Code Identifiers:** poly_lr (3), x_train (2), y_train (1), y_train_pred (1), y_test (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** scroll down (2)
@@ -2263,8 +2245,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Support Vector Regression (SVR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980)
+#### [Support Vector Regression (SVR)](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2304,7 +2285,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=86)** Note that we use the graphics for the support vector classifier for better visualization purposes.
 >
-> **[1:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=93)** The logic is similar in the regressor as well as the commonly used kernel functions and the application of the modeling In Python.
+> **[1:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=93)** The logic is similar in the regressor as well as the commonly used kernel functions and the application of the modeling In [[Python (Programming Language)|Python]].
 >
 > **[1:42](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=102)** Sometimes data is not linearly separable and it's not as simple as drawing a line between them.
 >
@@ -2322,7 +2303,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=148)** They are called kernel trick or kernel functions.
 >
-> **[2:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=153)** Let's go ahead and open up the Codespaces now.
+> **[2:33](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=153)** Let's go ahead and open up the [[Codespaces]] now.
 >
 > **[2:36](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/support-vector-regression-svr?u=76281980&t=156)** So in Codespaces, find the SRC folder.
 >
@@ -2382,7 +2363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (2), next (2), game (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Codespaces]] (2)
 > **Env Vars:** svr (6), rbf (1), src (1), bmi (1)
 > **CLI Commands:** find (3), python (2), make (2)
 > **Definitions:** is a  (3), is called (1), is an  (1)
@@ -2391,8 +2372,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** always make sure (1)
 
-#### Decision tree regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980)
+#### [Decision tree regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2412,7 +2392,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=29)** We would start with defining the most important factors or features for us to help our decision.
 >
-> **[0:37](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=37)** Decision trees were first used in classification algorithms for predicting categorical variables.
+> **[0:37](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=37)** [[Decision Trees]] were first used in classification [[Algorithms]] for predicting categorical variables.
 >
 > **[0:45](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=45)** A decision three is a tree where each node represents a feature or attribute, each link or branch represents the decision, also called a rule, and each leaf represents an outcome.
 >
@@ -2468,9 +2448,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=200)** After reviewing one classifier and one regressor tree example, let's get to the code and train a decision tree regressor.
 >
-> **[3:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=209)** Okay, we are in Codespaces.
+> **[3:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=209)** Okay, we are in [[Codespaces]].
 >
-> **[3:31](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=211)** Find your src folder, then find the folder 02_07 and click on begin python code.
+> **[3:31](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=211)** Find your src folder, then find the folder 02_07 and click on begin [[Python (Programming Language)|python]] code.
 >
 > **[3:39](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/decision-tree-regression?u=76281980&t=219)** So in here we import the libraries, load data set, fill missing values, encode categorical variables, prep the data, split the data, standardize the features.
 >
@@ -2516,7 +2496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Decision Trees]] (2), [[Algorithms]] (2), next (2), node (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Algorithms]] (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** x_train (2), y_train_pred (2), y_test_pred (2), y_train (1), x_test (1)
 > **CLI Commands:** find (2), node (1), make (1), python (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2525,8 +2505,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Random forest regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980)
+#### [Random forest regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,7 +2515,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=11)** There comes the wisdom of the crowd with the collective opinion of the trees as opposed to a single tree.
 >
-> **[0:17](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=17)** Random forest consists of multiple decision trees.
+> **[0:17](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=17)** Random forest consists of multiple [[Decision Trees]].
 >
 > **[0:21](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=21)** It's based on ensemble learning, which means multiple learning methods are working together as a team.
 >
@@ -2546,7 +2525,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=38)** In other words, the main difference between regression and classification trees are, in regression trees, We take the mean and in classification trees, we take the mode, which means the most occurring value when making a prediction.
 >
-> **[0:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=54)** This is one of the strongest algorithms among all.
+> **[0:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=54)** This is one of the strongest [[Algorithms]] among all.
 >
 > **[0:58](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=58)** So what makes this strong?
 >
@@ -2572,7 +2551,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=123)** It's another machine learning ensemble method primarily to reduce bias and variance.
 >
-> **[2:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=129)** Let's go ahead and apply this to Python code.
+> **[2:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=129)** Let's go ahead and apply this to [[Python (Programming Language)|Python]] code.
 >
 > **[2:12](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/random-forest-regression?u=76281980&t=132)** Let's go and open the code spaces environment.
 >
@@ -2660,7 +2639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), [[Decision Trees]] (1), [[Algorithms]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **Code Identifiers:** n_estimators (2), n_jobs (1), y_train (1), y_train_pred (1), y_test_pred (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -2669,8 +2648,7 @@ created: 2026-05-02
 > **URLs:** [scikit-learn.org](https://scikit-learn.org) (1)
 > **Tools:** terminal (1)
 
-#### Solution: Random forest regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-random-forest-regression?u=76281980)
+#### [Solution: Random forest regression](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-random-forest-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2708,15 +2686,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3)
 > **Code Identifiers:** x_train (2), n_estimators (1), random_state (1), n_jobs (1), y_train (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Evaluation of predictive models
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980)
+#### [Evaluation of predictive models](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2732,7 +2708,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=35)** Now, let's look at each model individually.
 >
-> **[0:39](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=39)** Linear regression has an advantage when there is a linear relationship between the independent variables and dependent variable.
+> **[0:39](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=39)** [[Linear Regression]] has an advantage when there is a linear relationship between the independent variables and dependent variable.
 >
 > **[0:48](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=48)** However, we need to keep in mind that this may become a disadvantage when we do not have a linear relationship between the independent variables and the dependent variable.
 >
@@ -2752,7 +2728,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=114)** However, it's very prone to overfitting, in other words, memorizing, especially with smaller datasets and yields lower scores in new data, in other words, test data.
 >
-> **[2:07](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=127)** Random forest regression is based on decision trees.
+> **[2:07](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=127)** Random forest regression is based on [[Decision Trees]].
 >
 > **[2:11](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=131)** This also does not need scaling and is resilient to outliers.
 >
@@ -2762,7 +2738,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=154)** It's important to keep in mind that in order to build a good model, we need to understand, prep, visualize, and analyze the data statistically, as well as study the relationship between variables to each other and to the target variable.
 >
-> **[2:53](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=173)** Understanding the advantages and disadvantages of each model will better equip you with the knowledge of when to use which model in your predictive analytics journey.
+> **[2:53](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=173)** Understanding the advantages and disadvantages of each model will better equip you with the knowledge of when to use which model in your [[Predictive Analytics]] journey.
 >
 > **[3:04](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/evaluation-of-predictive-models?u=76281980&t=184)** Finally, it's also important to note that this evaluation stage may not give you the scores you want from your model.
 >
@@ -2770,7 +2746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), strengths (1), [[Linear Regression]] (1), [[Decision Trees]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Decision Trees]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (1)
@@ -2778,8 +2754,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyperparameter optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980)
+#### [Hyperparameter optimization](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2813,7 +2788,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980&t=107)** Now, let's go ahead and open the code.
 >
-> **[1:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980&t=110)** Find the src folder, then find 2_12 as your folder, and then start on 2_12_Begin.python file.
+> **[1:50](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980&t=110)** Find the src folder, then find 2_12 as your folder, and then start on 2_12_Begin.[[Python (Programming Language)|python]] file.
 >
 > **[2:00](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/hyperparameter-optimization?u=76281980&t=120)** Let's scroll up a little bit and notice that we have initialized the parameter grid SVR for us.
 >
@@ -2873,7 +2848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (4), make (1), python (1)
 > **Env Vars:** svr (5)
 > **Code Identifiers:** y_train (2), x_train (1)
@@ -2882,8 +2857,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Hyperparameter optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-hyperparameter-optimization?u=76281980)
+#### [Solution: Hyperparameter optimization](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/solution-hyperparameter-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2955,7 +2929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (1)
 > **Code Identifiers:** param_grid_svr (2), svr_grid (2)
 > **Env Vars:** svr (4)
 > **CLI Commands:** find (1), make (1)
@@ -2969,8 +2942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in Python and predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980)
+#### [Next steps in Python and predictive analytics](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2978,19 +2950,19 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=3)** Thank you for the privilege of being your instructor and for surviving my metaphors.
 >
-> **[0:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=9)** This is just the beginning of a long and exciting journey into the world of predictive analytics.
+> **[0:09](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=9)** This is just the beginning of a long and exciting journey into the world of [[Predictive Analytics]].
 >
-> **[0:15](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=15)** We scratched the surface using Python with regression problems and I encourage you to find a data set at [kaggle.com](https://kaggle.com) and practice the steps you have learned during this class.
+> **[0:15](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=15)** We scratched the surface using [[Python (Programming Language)|Python]] with regression problems and I encourage you to find a data set at [kaggle.com](https://kaggle.com) and practice the steps you have learned during this class.
 >
 > **[0:27](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=27)** Practice, practice, practice.
 >
 > **[0:29](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=29)** Get your hands on as much data as you can.
 >
-> **[0:32](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=32)** I highly recommend watching the data analytics and Python classes we have here at LinkedIn Learning.
+> **[0:32](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=32)** I highly recommend watching the data analytics and Python classes we have here at [[LinkedIn]] Learning.
 >
-> **[0:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=38)** I also strongly recommend the book Hands-On Machine Learning with Scikit-Learn and TensorFlow.
+> **[0:38](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=38)** I also strongly recommend the book Hands-On Machine Learning with Scikit-Learn and [[TensorFlow]].
 >
-> **[0:44](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=44)** Once you have a few projects completed on regression, a good next step would be to move on to classification algorithms.
+> **[0:44](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=44)** Once you have a few projects completed on regression, a good next step would be to move on to classification [[Algorithms]].
 >
 > **[0:52](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980&t=52)** Read more on the Scikit-Learn website, which we referenced throughout this course.
 >
@@ -3000,7 +2972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Predictive Analytics]] (1), [[TensorFlow]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (2), find (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1), [digifab.ai](https://digifab.ai) (1)
 > **Speakers:** - congrats (1)

@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are block patterns and why are they important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
+#### [What are block patterns and why are they important?](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980&t=0)** - [Joe] A major feature that has come to the WordPress Block Editor is block patterns.
+> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980&t=0)** - [Joe] A major feature that has come to the [[WordPress]] Block Editor is block patterns.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980&t=5)** This feature allows theme and plugin developers to create pre-designed sets of blocks so that you can change the content.
 >
@@ -103,27 +102,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[WordPress]] (2), power (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=0)** - [Instructor] When it comes to block patterns, there are a few things you need to know.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=4)** The first is how to use WordPress and the block editor.
+> **[0:04](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=4)** The first is how to use [[WordPress]] and the block editor.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=7)** We'll be working primarily with the WordPress block editor.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=12)** If you're unfamiliar, you can check out the WordPress Essentials course in the LinkedIn Learning Library.
+> **[0:12](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=12)** If you're unfamiliar, you can check out the WordPress Essentials course in the [[LinkedIn]] Learning Library.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=18)** However, to create block patterns, you still need to add a bit of code.
 >
-> **[0:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=23)** While we won't go super deep, you should know a small amount of PHP.
+> **[0:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=23)** While we won't go super deep, you should know a small amount of [[PHP]].
 >
 > **[0:28](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-you-should-know?u=76281980&t=28)** My PHP for WordPress course should do the trick.
 >
@@ -133,13 +131,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), [[LinkedIn]] (1), css (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), [[LinkedIn]] (1)
 > **Env Vars:** php (2), css (1)
 > **CLI Commands:** php (2)
 > **Speakers:** - [instructor] (1)
 
-#### How this course works
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980)
+#### [How this course works](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980&t=24)** Finally, we'll improve and refactor the plugin so that it's ready for prime time.
 >
-> **[0:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980&t=30)** Some other important info, we'll be working exclusively with core blocks in WordPress.
+> **[0:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980&t=30)** Some other important info, we'll be working exclusively with core blocks in [[WordPress]].
 >
 > **[0:35](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-this-course-works?u=76281980&t=35)** No ad-ons or additional packs.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -173,8 +170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Block patterns vs. reusable blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
+#### [Block patterns vs. reusable blocks](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -220,16 +216,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding block patterns to WordPress sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980)
+#### [Adding block patterns to WordPress sites](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=0)** - [Instructor] When it comes to adding your own blocks to WordPress sites, there are a couple of ways to do it, and both involve code.
+> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=0)** - [Instructor] When it comes to adding your own blocks to [[WordPress]] sites, there are a couple of ways to do it, and both involve code.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=7)** The first is through your own theme.
 >
@@ -239,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=21)** Since you're familiar with the styles, you can create blocks that lend themselves well to templates you've created.
 >
-> **[0:27](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=27)** Both Twenty Twenty-One and Excel do this very well.
+> **[0:27](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=27)** Both Twenty Twenty-One and [[Microsoft Excel|Excel]] do this very well.
 >
 > **[0:32](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-block-patterns-to-wordpress-sites?u=76281980&t=32)** The second method is through a plugin.
 >
@@ -269,14 +263,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), css (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** css (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making block patterns without code
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980)
+#### [Making block patterns without code](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980&t=20)** So that's the one we'll go with.
 >
-> **[0:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980&t=22)** From your WordPress Dashboard, go to plugins, add new, then search for Block Pattern Builder.
+> **[0:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980&t=22)** From your [[WordPress]] Dashboard, go to plugins, add new, then search for Block Pattern Builder.
 >
 > **[0:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/making-block-patterns-without-code?u=76281980&t=30)** Once the search results come back, we're going to want the Block Pattern Builder plugin, built by BlockMeister, we'll click install, then activate.
 >
@@ -350,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[WordPress]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), rss (1)
 > **UI Navigation:** go to (2)
@@ -359,8 +352,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Coding block patterns overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980)
+#### [Coding block patterns overview](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,11 +362,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=9)** First, as noted earlier, there are two places you can add block patterns, in the theme and in the plugin.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=15)** If you are adding your block patterns to the theme, I like the format of the default WordPress theme.
+> **[0:15](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=15)** If you are adding your block patterns to the theme, I like the format of the default [[WordPress]] theme.
 >
 > **[0:24](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=24)** You create an inc or inc folder.
 >
-> **[0:28](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=28)** And in that have a block-patterns.php file where all of your block patterns will live.
+> **[0:28](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=28)** And in that have a block-patterns.[[PHP]] file where all of your block patterns will live.
 >
 > **[0:36](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=36)** In the functions.php file of your theme, use require_once to include the block-pattern.php file.
 >
@@ -392,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=90)** You can do this by selecting right-clicking and then choosing Copy from the menu or by pressing command-C or control-C depending on your operating system.
 >
-> **[1:42](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=102)** Once you select the blocks that are part of the pattern, you're going to want to use a JSON encoder to convert the markup to a PHP-friendly format.
+> **[1:42](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=102)** Once you select the blocks that are part of the pattern, you're going to want to use a [[JSON]] encoder to convert the markup to a PHP-friendly format.
 >
 > **[1:51](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/coding-block-patterns-overview?u=76281980&t=111)** We'll look at that in another video.
 >
@@ -404,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), css (2), [[WordPress]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (1), [[JSON]] (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** css (2), json (1), php (1)
 > **File Paths:** block-patterns.php (1), functions.php (1), block-pattern.php (1)
@@ -413,12 +405,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### What is a JSON encoder?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980)
+#### [What is a JSON encoder?](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=0)** - [Instructor] One crucial step in the process of creating our own block patterns is the JSON Encoder.
+> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=0)** - [Instructor] One crucial step in the process of creating our own block patterns is the [[JSON]] Encoder.
 >
 > **[0:06](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=6)** So, let's take a quick look at what that is and why it's so important.
 >
@@ -436,11 +427,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=55)** You can see, in the side by side, that all of the spaces have been replaced with a \n, like we see here, and the double quotes have been replaced by a \".
 >
-> **[1:09](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=69)** Now the block pattern code is ready to be used in PHP, or any other programming language.
+> **[1:09](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-is-a-json-encoder?u=76281980&t=69)** Now the block pattern code is ready to be used in [[PHP]], or any other programming language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), [[PHP]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[PHP]] (1)
 > **Env Vars:** json (4), php (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** php (1)
@@ -449,12 +440,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to style block patterns with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980)
+#### [How to style block patterns with CSS](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=0)** - When it comes to styling elements added to WordPress, you likely have to do some diving into the code to see what classes and styles are already being applied.
+> **[0:00](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=0)** - When it comes to styling elements added to [[WordPress]], you likely have to do some diving into the code to see what classes and styles are already being applied.
 >
 > **[0:09](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=9)** As we build out our block patterns, the cleanest way to style them is a two-pronged approach.
 >
@@ -486,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=79)** So I'll click customize and then click additional CSS.
 >
-> **[1:24](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=84)** And just to confirm our classes are being applied appropriately I'm going to use Google Chrome's web developer tools, specifically the inspector.
+> **[1:24](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=84)** And just to confirm our classes are being applied appropriately I'm going to use [[Google]] Chrome's web developer tools, specifically the inspector.
 >
 > **[1:32](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/how-to-style-block-patterns-with-css?u=76281980&t=92)** By right clicking on the pattern, then clicking inspect.
 >
@@ -540,15 +530,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[WordPress]] (1), [[Google]] (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Google]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - when (1)
 
-#### Block pattern categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980)
+#### [Block pattern categories](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,9 +567,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=63)** So if you have a columns block, that includes buttons that can go in the buttons and columns categories.
 >
-> **[1:11](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=71)** You can also add your own categories using the register block pattern category function in WordPress.
+> **[1:11](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=71)** You can also add your own categories using the register block pattern category function in [[WordPress]].
 >
-> **[1:19](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=79)** This could be useful when you want to group theme or plugin block patterns together like is done in 2021 and Excel, but I wouldn't recommend inventing a bunch of new categories for one-off blocks.
+> **[1:19](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=79)** This could be useful when you want to group theme or plugin block patterns together like is done in 2021 and [[Microsoft Excel|Excel]], but I wouldn't recommend inventing a bunch of new categories for one-off blocks.
 >
 > **[1:34](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-pattern-categories?u=76281980&t=94)** This could make finding blocks even more confusing.
 >
@@ -595,8 +584,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the block pattern plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980)
+#### [Setting up the block pattern plugin](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,13 +592,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=2)** Here we have it loosely defined and the file structure is created, but we will add some important aspects to it.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=10)** So first let's go through the structure real quick, we have a directory called LIL for LinkedIn learning dash block dash patterns.
+> **[0:10](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=10)** So first let's go through the structure real quick, we have a directory called LIL for [[LinkedIn]] learning dash block dash patterns.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=18)** This will be the folder our plugin lives in.
 >
 > **[0:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=22)** We have an ink folder and inside that ink folder is LIL dash BP dash styles dot CSS.
 >
-> **[0:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=30)** This is where our block pattern CSS will live, then we have patterns dot PHP, this is where all of our patterns will be.
+> **[0:30](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=30)** This is where our block pattern CSS will live, then we have patterns dot [[PHP]], this is where all of our patterns will be.
 >
 > **[0:40](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=40)** Then we have outside of the ink folder, the blocked dash patterns dot PHP file.
 >
@@ -622,7 +610,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=63)** We also have a set of lines here to make sure that this file is not called directly.
 >
-> **[1:10](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=70)** We want this to only be called within the framework of WordPress.
+> **[1:10](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=70)** We want this to only be called within the framework of [[WordPress]].
 >
 > **[1:15](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/setting-up-the-block-pattern-plugin?u=76281980&t=75)** We have a current plugin version, our prefix for our plugin will be LIL underscore BP or LIL dash BP, depending on the context and then we have the full plugin URL, including the trailing slash to make it easier to call some of our files.
 >
@@ -646,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[WordPress]] (4), [[PHP]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (3), [[LinkedIn]] (1)
 > **Env Vars:** lil (9), css (4), php (3), uri (3), url (3)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Exercise Files:** starter code (1), exercise files (1), zip file (1)
@@ -658,8 +646,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Call to action
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
+#### [Call to action](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980&t=163)** So now we've got our simple call to action here, and we will copy this.
 >
-> **[2:53](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980&t=173)** You can see I've already created a file here called 02-01-cta, paste that and save it, and then we'll go to the JSON formatter, paste that same text, click Escape, copy it, and then go to our plugin code.
+> **[2:53](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980&t=173)** You can see I've already created a file here called 02-01-cta, paste that and save it, and then we'll go to the [[JSON]] formatter, paste that same text, click Escape, copy it, and then go to our plugin code.
 >
 > **[3:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980&t=188)** So we'll add a new variable here called cta, we'll paste our encoded text, and then we will copy our register_block_pattern function, paste it here on line 17, and then we'll just change some of the information.
 >
@@ -719,8 +706,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pricing table
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980)
+#### [Pricing table](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -832,7 +818,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=245)** And then we'll call this $299 a year, and we'll call this the Pro package.
 >
-> **[4:13](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=253)** Access to community, weekly Q&A sessions, one private session per week, exclusive membership coin, and private Slack channel for Pros only.
+> **[4:13](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=253)** Access to community, weekly Q&A sessions, one private session per week, exclusive membership coin, and private [[Slack]] channel for Pros only.
 >
 > **[4:29](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=269)** Register today.
 >
@@ -852,7 +838,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=320)** and then we'll do the process.
 >
-> **[5:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=322)** So we'll go to JSON Formatter, paste the text, escape it, and then copy it, then go back to our plugin.
+> **[5:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=322)** So we'll go to [[JSON]] Formatter, paste the text, escape it, and then copy it, then go back to our plugin.
 >
 > **[5:32](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/pricing-table?u=76281980&t=332)** Click Patterns.
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1), [[Slack]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[JSON]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (2), json (1), cta (1)
 > **Definitions:** is a  (2)
@@ -887,8 +873,7 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **UI Navigation:** go to (1)
 
-#### Styling the pricing table
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/styling-the-pricing-table?u=76281980)
+#### [Styling the pricing table](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/styling-the-pricing-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -994,7 +979,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5)
 > **CLI Commands:** make (6)
 > **Env Vars:** css (5), lilbp (1)
 > **UI Navigation:** go to (2)
@@ -1002,8 +986,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Author bio box
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980)
+#### [Author bio box](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1018,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=125)** Again, we don't have to add the links to these right now.
 >
-> **[2:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=128)** We can if we want to, but I'll just get the buttons added, Instagram, YouTube, GitHub,
+> **[2:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=128)** We can if we want to, but I'll just get the buttons added, Instagram, YouTube, [[GitHub]],
 >
 > **[2:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=142)** and then an RSS feed for dealer's choice.
 >
@@ -1101,7 +1084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Search]] (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** css (4), cdn (1), rss (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
@@ -1110,8 +1093,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Contact info card
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980)
+#### [Contact info card](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,7 +1123,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=76)** And then we will add several paragraphs with information.
 >
-> **[1:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=83)** Address, 123 LinkedIn Lane, San Demas, California 91724.
+> **[1:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=83)** Address, 123 [[LinkedIn]] Lane, San Demas, California 91724.
 >
 > **[1:34](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=94)** This is all made up information, of course.
 >
@@ -1159,7 +1141,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=127)** So first let's copy it, full encode it.
 >
-> **[2:14](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=134)** Then in our patterns.PHP file we'll create a contact card variable, and then we will copy the previous register block pattern function call, call this one contact card, change the title, change the content.
+> **[2:14](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=134)** Then in our patterns.[[PHP]] file we'll create a contact card variable, and then we will copy the previous register block pattern function call, call this one contact card, change the title, change the content.
 >
 > **[2:49](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/contact-info-card?u=76281980&t=169)** This could stay in the same two categories.
 >
@@ -1221,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (2), [[LinkedIn]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (4), in the sidebar (1), scroll down (1)
 > **Env Vars:** css (3), php (1), url (1)
 > **CLI Commands:** make (3), php (1)
@@ -1230,8 +1212,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Posts listing with Query block
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980)
+#### [Posts listing with Query block](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1226,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=27)** We don't need to add a containing block because the query loop is its own container.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=33)** And you can see that I've pre-populated my WordPress installation with a few posts.
+> **[0:33](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=33)** And you can see that I've pre-populated my [[WordPress]] installation with a few posts.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=41)** So we are going to first set this to wide, and then add the custom class of lil-posts.
 >
@@ -1291,7 +1272,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=178)** If we wanted other styling options, we can change the text color or we can add CSS.
 >
-> **[3:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=187)** If we look at the options for the query loop, we can make the title a link if we want but that's about all we can do, aside from changing the typography.
+> **[3:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=187)** If we look at the options for the query loop, we can make the title a link if we want but that's about all we can do, aside from changing the [[Typography]].
 >
 > **[3:21](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=201)** Again, if we go up to the full loop, we don't have much there.
 >
@@ -1299,7 +1280,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=219)** That's okay, we have our query loop now.
 >
-> **[3:44](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=224)** It's a simple three-column loop but I think the big change that we did was add this two-column layout with the post metadata in it.
+> **[3:44](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=224)** It's a simple three-column loop but I think the big change that we did was add this two-column layout with the post [[Metadata]] in it.
 >
 > **[3:54](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/posts-listing-with-query-block?u=76281980&t=234)** And if we want it to stand out, again we could always add a custom background color here.
 >
@@ -1351,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[WordPress]] (2), css (1), [[Typography]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Typography]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (4)
 > **Exercise Files:** template (2)
@@ -1360,8 +1341,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Website masthead
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980)
+#### [Website masthead](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,7 +1381,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980&t=117)** Again, the tagline is going to be the default, but we can also change it right in line.
 >
-> **[2:03](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980&t=123)** So instead of just another WordPress site, we'll say, "build your block canvas."
+> **[2:03](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980&t=123)** So instead of just another [[WordPress]] site, we'll say, "build your block canvas."
 >
 > **[2:11](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/website-masthead?u=76281980&t=131)** And then on the right, we can add a couple of links.
 >
@@ -1491,7 +1471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3)
 > **Env Vars:** css (2)
@@ -1499,8 +1479,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Currently Listening To widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/currently-listening-to-widget?u=76281980)
+#### [Currently Listening To widget](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/currently-listening-to-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1609,8 +1588,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hero section
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/hero-section?u=76281980)
+#### [Hero section](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/hero-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,7 +1722,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (5), stands for (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -1752,9 +1729,9 @@ created: 2026-05-02
 > **Code Identifiers:** button_link (1)
 > **Analogies:** kind of like (1)
 > **Best Practices:** make sure to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Content upgrade
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980)
+#### [Content upgrade](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=21)** At this time, there is no form block in core, so we'll need a third party plugin.
 >
-> **[0:28](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=28)** I recommend Ninja Forms because it's free and easy to use, plus it integrates with just about every email service provider.
+> **[0:28](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=28)** I recommend Ninja [[Forms]] because it's free and easy to use, plus it integrates with just about every email service provider.
 >
 > **[0:36](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=36)** So we'll go to plugins, add new.
 >
@@ -1874,7 +1851,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=352)** Perfect, now, a couple of notes about connecting it to an ESP.
 >
-> **[5:57](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=357)** This form as is will email the site administrator and log the submission in the WordPress admin.
+> **[5:57](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=357)** This form as is will email the site administrator and log the submission in the [[WordPress]] admin.
 >
 > **[6:04](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/content-upgrade?u=76281980&t=364)** You'll need to connect to an ESP like MailChimp or ConvertKit to deliver the content upgrade, and in some cases that connection might cost some money.
 >
@@ -1882,7 +1859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[Search]] (1), css (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[WordPress]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** esp (2), pdf (1), css (1), cta (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1896,8 +1873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding your own block pattern category
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
+#### [Adding your own block pattern category](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,13 +1885,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=19)** Since the block patterns will be using the categories.
 >
-> **[0:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=22)** On line 33 of block-patterns.php, we'll add require_once and then inc/categories.php.
+> **[0:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=22)** On line 33 of block-patterns.[[PHP]], we'll add require_once and then inc/categories.php.
 >
 > **[0:36](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=36)** We'll save that file and now in our inc folder, we'll add a new file called categories.php, and we'll add the following code.
 >
 > **[0:48](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=48)** So we write our opening php tag, and then we'll create a function to register the block pattern categories.
 >
-> **[0:56](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=56)** So lil_bp_register_block_categories, and then we'll register too CTA, and one just called LinkedIn learning.
+> **[0:56](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=56)** So lil_bp_register_block_categories, and then we'll register too CTA, and one just called [[LinkedIn]] learning.
 >
 > **[1:10](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980&t=70)** So the first category, will be using register block pattern category for this.
 >
@@ -1957,8 +1933,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### A slightly clever refactor
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980)
+#### [A slightly clever refactor](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1968,7 +1943,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=20)** Let's get started.
 >
-> **[0:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=23)** So the first thing we'll do in ink is create a new file called patterns-content.php.
+> **[0:23](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=23)** So the first thing we'll do in ink is create a new file called patterns-content.[[PHP]].
 >
 > **[0:33](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=33)** And that is where all of our pattern's variables will live.
 >
@@ -2044,13 +2019,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=294)** We can add it in the format we have in the array.
 >
-> **[4:58](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=298)** So let's save this and now add it to our WordPress site, and see how everything looks.
+> **[4:58](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=298)** So let's save this and now add it to our [[WordPress]] site, and see how everything looks.
 >
 > **[5:07](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=307)** With our plugin uploaded, let's go ahead and check out our block inserter.
 >
 > **[5:13](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=313)** We can go to patterns and we see two new categories here.
 >
-> **[5:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=316)** One is LinkedIn Learning, and this includes all of our block patterns.
+> **[5:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=316)** One is [[LinkedIn]] Learning, and this includes all of our block patterns.
 >
 > **[5:21](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/a-slightly-clever-refactor?u=76281980&t=321)** Looks good.
 >
@@ -2066,7 +2041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), next (1), [[WordPress]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[WordPress]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (5), make (2)
 > **File Paths:** patterns-content.php (3), patterns.php (1)
 > **Code Identifiers:** register_block_pattern (4)
@@ -2080,8 +2055,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2089,9 +2063,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=1)** You've gotten a good look at block patterns and have even created your own library of patterns to use.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=8)** You can always continue to add your own and even submit some to the block patterns directory at [wordpress.org](https://wordpress.org).
+> **[0:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=8)** You can always continue to add your own and even submit some to the block patterns directory at [[[WordPress]].org](https://wordpress.org).
 >
-> **[0:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=16)** If you want to learn more about the block editor, you can check out our WordPress learning path, become a block developer with the Developing Blocks with Gutenberg course, or even learn all about full-site editing with the Full-Site Editing courses in the LinkedIn Learning Library.
+> **[0:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=16)** If you want to learn more about the block editor, you can check out our WordPress learning path, become a block developer with the Developing Blocks with Gutenberg course, or even learn all about full-site editing with the Full-Site Editing courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:33](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=33)** Finally, I'd love to hear from you what block patterns you've come up with.
 >
@@ -2103,7 +2077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [casabona.org](https://casabona.org) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [joe] (1)

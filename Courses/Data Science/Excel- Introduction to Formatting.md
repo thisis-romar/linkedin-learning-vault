@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save time with effective Excel formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
+#### [Save time with effective Excel formatting](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980&t=19)** We'll explore how you can save time with Cell styles and themes, and how to bring your reports to life and make them consumable at a glance with Conditional formatting.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980&t=29)** I'm Mynda Treacy and I've been working with Excel for more than 20 years and I've been a Microsoft MVP since 2014.
+> **[0:29](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980&t=29)** I'm Mynda Treacy and I've been working with [[Microsoft Excel|Excel]] for more than 20 years and I've been a [[Microsoft]] MVP since 2014.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980&t=36)** Along the way, I'll share the shortcuts it's taken me a lifetime of working in Excel to accumulate.
 >
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Formatting with fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
+#### [Formatting with fonts](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980&t=7)** You can use font formatting to draw attention to key information, to guide users, and to encode data. And done well, font formatting is unobtrusively helpful, and when done poorly, it can draw attention for all the wrong reasons and even be a hindrance.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980&t=23)** In this video, we're going to look at font formatting options in Excel, including where to find fonts and effects and what you should consider to ensure your files and reports clearly communicate your message.
+> **[0:23](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980&t=23)** In this video, we're going to look at font formatting options in [[Microsoft Excel|Excel]], including where to find fonts and effects and what you should consider to ensure your files and reports clearly communicate your message.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980&t=35)** I'll also show you some shortcuts for applying multiple formats at a time.
 >
@@ -189,15 +187,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Microsoft Excel|Excel]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** dropdown (4), click on (1), open the (1)
 > **Env Vars:** rgb (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Cell fill and borders
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980)
+#### [Cell fill and borders](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=87)** Unfortunately, I often see people color code cells to indicate a status.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=91)** For example, here I have a table of customers and let's say I wanted to color code the customers who have purchased products for us in green.
+> **[1:31](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=91)** For example, here I have a table of customers and let's say I wanted to color code the customers who have purchased [[Microsoft Products|products]] for us in green.
 >
 > **[1:41](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=101)** So we might apply a green cell fill color and prospective customers who might plan to purchase from us in orange.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=119)** Well, that's not strictly true.
 >
-> **[2:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=121)** If you're a VBA programmer, you can write some code that can count colors, but that's not the way Excel was intended to be used.
+> **[2:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=121)** If you're a VBA programmer, you can write some code that can count colors, but that's not the way [[Microsoft Excel|Excel]] was intended to be used.
 >
 > **[2:09](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/cell-fill-and-borders?u=76281980&t=129)** Now, the correct way to add information like this is to add a status column.
 >
@@ -323,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** dropdown (3), click on (1)
 > **Env Vars:** vba (1), countif (1)
@@ -332,14 +329,13 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Warnings:** keep in mind (1)
 
-#### Alignment options and what to avoid
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980)
+#### [Alignment options and what to avoid](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=1)** Alignment can encode data and help users interpret it more quickly.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=5)** Excel has various tools that enable you to manipulate font location in Excel.
+> **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=5)** [[Microsoft Excel|Excel]] has various tools that enable you to manipulate font location in Excel.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=10)** In this video, we'll cover merging, wrapping, and aligning, and identify what to avoid.
 >
@@ -403,7 +399,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=189)** We'll leave it at middle.
 >
-> **[3:11](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=191)** We can also angle text using the options in the dropdown here, although I'd avoid this unless absolutely necessary because it's not a nice user experience to have to turn your head to one side to read labels.
+> **[3:11](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=191)** We can also angle text using the options in the dropdown here, although I'd avoid this unless absolutely necessary because it's not a nice [[User Experience (UX)|user experience]] to have to turn your head to one side to read labels.
 >
 > **[3:24](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/alignment-options-and-what-to-avoid?u=76281980&t=204)** And lastly, we can wrap text.
 >
@@ -431,15 +427,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1), hit (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** select the (1), click on (1), dropdown (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Important number formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980)
+#### [Important number formats](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980&t=91)** And under the symbol dropdown, there are hundreds to choose from.
 >
-> **[1:36](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980&t=96)** Now a word of caution against currency formats.
+> **[1:36](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980&t=96)** Now a [[Microsoft Word|word]] of caution against currency formats.
 >
 > **[1:40](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/important-number-formats?u=76281980&t=100)** If you format the whole table or report with the same symbol, you're just going to add clutter.
 >
@@ -499,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** dropdown (3), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -512,8 +507,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom number formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
+#### [Custom number formats](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,13 +545,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/scaling?u=76281980)
+#### [Scaling](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,17 +621,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **UI Navigation:** select the (1), open the (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 
-#### Date and time formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/date-and-time-formats?u=76281980)
+#### [Date and time formats](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/date-and-time-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/date-and-time-formats?u=76281980&t=0)** Working with dates and times in Excel is an essential skill, and there are many ways to format date and time to make your data easy to interpret.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/date-and-time-formats?u=76281980&t=0)** Working with dates and times in [[Microsoft Excel|Excel]] is an essential skill, and there are many ways to format date and time to make your data easy to interpret.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/date-and-time-formats?u=76281980&t=10)** In this video, I'll explain how Excel works with date and time and the various custom formatting options.
 >
@@ -725,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (1), find (1)
 > **Ports:** :00 (2)
@@ -734,8 +724,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** yyyy (1)
 
-#### Symbols in formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/symbols-in-formats?u=76281980)
+#### [Symbols in formats](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/symbols-in-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,14 +820,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Warnings:** watch out (1), keep in mind (1)
 > **Best Practices:** don't forget (1)
 
-#### Conditional color formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980)
+#### [Conditional color formats](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +853,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980&t=78)** You can see that the custom number formats have flowed through, but I should point out that they only work for value labels.
 >
-> **[1:25](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980&t=85)** They don't work with value from cells as a bug, and I've reported it to Microsoft, but I don't expect it'll be fixed any time soon.
+> **[1:25](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980&t=85)** They don't work with value from cells as a bug, and I've reported it to [[Microsoft]], but I don't expect it'll be fixed any time soon.
 >
 > **[1:33](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-color-formats?u=76281980&t=93)** By the way, don't use labels on both the axes and the bars.
 >
@@ -926,22 +913,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **UI Navigation:** open the (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Leading and trailing characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980)
+#### [Leading and trailing characters](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=1)** Using leading and trailing characters will make your forms, tables of contents, and indexes more user-friendly.
+> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=1)** Using leading and trailing characters will make your [[Forms]], tables of contents, and indexes more user-friendly.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=8)** In this video, I'll share with you some little-known tricks to create leading and trailing lines that automatically expand and reduce as you change the width of the column.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=18)** If you create forms in Excel, you might like to give the user a location to sign and date with an underscore or dots to mark the area.
+> **[0:18](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=18)** If you create forms in [[Microsoft Excel|Excel]], you might like to give the user a location to sign and date with an underscore or dots to mark the area.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/leading-and-trailing-characters?u=76281980&t=26)** Now, instead of manually typing them in, we can use custom number formats to automatically fill the width of the cell.
 >
@@ -991,8 +977,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Default styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
+#### [Default styles](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,7 +991,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=32)** You'll find the built-in styles on the Home tab of the ribbon.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=36)** In earlier versions of Excel, you'll see the style gallery already expanded in the Home tab.
+> **[0:36](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=36)** In earlier versions of [[Microsoft Excel|Excel]], you'll see the style gallery already expanded in the Home tab.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=41)** But for 365 users, the dropdown reveals the gallery.
 >
@@ -1026,7 +1011,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=85)** If you use styles for models, it's a good idea to insert a style sheet in the file for your users that explains what each style represents.
 >
-> **[1:35](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=95)** Next, we have titles and headings, and you might be familiar with these from working with them in Word.
+> **[1:35](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=95)** Next, we have titles and headings, and you might be familiar with these from working with them in [[Microsoft Word|Word]].
 >
 > **[1:40](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980&t=100)** You can use them to quickly format this report.
 >
@@ -1056,15 +1041,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 
-#### Custom styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-styles?u=76281980)
+#### [Custom styles](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,8 +1123,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (2)
 > **CLI Commands:** make (1)
 
-#### Themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980)
+#### [Themes](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1195,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980&t=192)** I'll give it a name, and click "Save".
 >
-> **[3:16](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980&t=196)** Interestingly, Excel is finally caught up with my color theme and updated the charts.
+> **[3:16](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980&t=196)** Interestingly, [[Microsoft Excel|Excel]] is finally caught up with my color theme and updated the charts.
 >
 > **[3:22](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/themes?u=76281980&t=202)** So this appears to be a little bit buggy.
 >
@@ -1250,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** dropdown (3), click on (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -1261,12 +1244,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Built-in rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
+#### [Built-in rules](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980&t=1)** Excel conditional formatting is a powerful tool that allows you to dynamically format cells based on specified criteria.
+> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980&t=1)** [[Microsoft Excel|Excel]] conditional formatting is a powerful tool that allows you to dynamically format cells based on specified criteria.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980&t=9)** In this video, I'll cover applying formats based on numeric and text rules, which can help to highlight trends and patterns in data, identify outliers, or data anomalies.
 >
@@ -1338,13 +1320,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Data bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/data-bars?u=76281980)
+#### [Data bars](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/data-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,17 +1383,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
 
-#### Color scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/color-scales?u=76281980)
+#### [Color scales](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/color-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/color-scales?u=76281980&t=1)** Excel conditional formatting color scales are a useful tool for creating heat maps, allowing you to quickly identify patterns and trends in large data sets.
+> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/color-scales?u=76281980&t=1)** [[Microsoft Excel|Excel]] conditional formatting color scales are a useful tool for creating heat maps, allowing you to quickly identify patterns and trends in large data sets.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/color-scales?u=76281980&t=10)** In this video, we'll apply color scales to highlight the relative values of cells within a range.
 >
@@ -1472,14 +1451,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2), go to (1), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/icons?u=76281980)
+#### [Icons](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,12 +1509,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), traffic (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Conditional formatting formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-formatting-formulas?u=76281980)
+#### [Conditional formatting formulas](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/conditional-formatting-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,12 +1600,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** troubleshoot (1)
 
-#### Manage rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/manage-rules?u=76281980)
+#### [Manage rules](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/manage-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/manage-rules?u=76281980&t=0)** In this video, we're going to look at Excel's conditional formatting rules manager, where you can view, modify, and delete existing rules as well as rearrange the order of rules and apply Stop If True settings.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/manage-rules?u=76281980&t=0)** In this video, we're going to look at [[Microsoft Excel|Excel]]'s conditional formatting rules manager, where you can view, modify, and delete existing rules as well as rearrange the order of rules and apply Stop If True settings.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/manage-rules?u=76281980&t=13)** Currently, this file has one rule that highlights the rows where the unit cost is under $100.
 >
@@ -1711,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** toggle (1)
 > **Prerequisites:** set up (1)
 
@@ -1720,18 +1695,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)
+#### [Where to learn more](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=0)** Congratulations on completing my Introduction to Excel Formatting course.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=0)** Congratulations on completing my Introduction to [[Microsoft Excel|Excel]] Formatting course.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=5)** I'm sure you'll have realized that it was much more than just an introduction, and you're now equipped with skills and shortcuts that most Excel users never learn, skills that will help you stand out from the crowd.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=18)** One of the joys of Excel is there's so much to learn.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=23)** There are loads of courses on LinkedIn, or if you'd like to continue learning with me, please check out the courses on my website, [myonlinetraininghub.com](https://myonlinetraininghub.com).
+> **[0:23](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=23)** There are loads of courses on [[LinkedIn]], or if you'd like to continue learning with me, please check out the courses on my website, [myonlinetraininghub.com](https://myonlinetraininghub.com).
 >
 > **[0:32](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980&t=32)** And follow me on LinkedIn for my weekly tips and tricks.
 >

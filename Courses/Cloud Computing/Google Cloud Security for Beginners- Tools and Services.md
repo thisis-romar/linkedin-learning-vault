@@ -82,60 +82,58 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to course
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980)
+#### [Introduction to course](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=0)** - Are you venturing into the cloud for the first time or maybe you're eager to learn about security best practices for your data and assets?
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=8)** Throughout this course, we'll delve into the essentials of cloud computing and general security principles, providing you with a solid foundation to navigate the intricacies of Google Cloud.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=8)** Throughout this course, we'll delve into the essentials of [[Cloud Computing]] and general security principles, providing you with a solid foundation to navigate the intricacies of [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=20)** I'm Dominique West, a certified cloud security professional, and I'm here to facilitate your journey towards a deeper understanding of Google Cloud platform.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=20)** I'm Dominique West, a certified [[Cloud Security]] professional, and I'm here to facilitate your journey towards a deeper understanding of [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980&t=29)** I'm ready whenever you are, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Security]] (3), data (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Security]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Speakers:** - are (1)
 
-#### Overview of the Google Cloud Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980)
+#### [Overview of the Google Cloud Platform](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=0)** - [Narrator] Google Cloud Platform, or GCP, is a suite of cloud computing services offered by Google.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=0)** - [Narrator] [[Google Cloud Platform (GCP)|Google Cloud Platform]], or GCP, is a suite of [[Cloud Computing]] services offered by [[Google]].
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=7)** It provides various infrastructure and software services that enable users to build, deploy, and manage applications.
 >
-> **[0:16](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=16)** GCP offers a wide range of cloud services across different categories.
+> **[0:16](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=16)** GCP offers a wide range of [[Cloud Services]] across different categories.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=21)** Let's cover these categories and the services within them.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=26)** First, is the compute category.
 >
-> **[0:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=29)** This includes services like Google Compute Engine for virtual machines, Google Kubernetes Engine for containerized applications, and Google App Engine for building and hosting web applications.
+> **[0:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=29)** This includes services like Google Compute Engine for [[Virtual Machines]], Google [[Kubernetes]] Engine for containerized applications, and Google App Engine for building and hosting web applications.
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=43)** Second, is storage.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=45)** GCP provides scalable and durable storage solutions, such as Google Cloud Storage for object storage, Cloud SQL for managed relational databases, and Bigtable for NoSQL database storage.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=45)** GCP provides scalable and durable storage solutions, such as [[Google Cloud Platform (GCP)|Google Cloud]] Storage for object storage, Cloud [[SQL]] for managed [[Relational Databases]], and Bigtable for [[NoSQL]] database storage.
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=62)** Third, is the networking category.
 >
-> **[1:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=64)** GCP offers various networking services such as virtual private clouds, also known as VPC,s for creating isolated network environments.
+> **[1:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=64)** GCP offers various networking services such as virtual [[Private Clouds]], also known as VPC,s for creating isolated network environments.
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=75)** They also have services such as cloud load balancing for distributing incoming traffic across multiple instances, and Cloud DNS for domain name resolution.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=88)** The fourth category is big data and machine learning.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=88)** The fourth category is [[Big Data]] and machine learning.
 >
-> **[1:32](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=92)** GCP provides tools like BigQuery for big data analytics, Cloud Dataflow for real-time data processing, and an AI platform for building and deploying machine learning models.
+> **[1:32](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=92)** GCP provides tools like BigQuery for [[Big Data Analytics]], Cloud Dataflow for [[Real-Time]] [[Data Processing]], and an AI platform for building and deploying machine learning models.
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=105)** The last category is identity and security.
 >
 > **[1:48](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=108)** GCP offers identity and access management for managing user permissions and cloud identity for managing user identities.
 >
-> **[1:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=117)** Cloud Security Command Center is helpful for security monitoring and threat detection.
+> **[1:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=117)** [[Cloud Security]] Command Center is helpful for security monitoring and threat detection.
 >
 > **[2:03](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=123)** Next, let's cover regions and zones to better understand where you're able to deploy the services we just covered.
 >
@@ -157,17 +155,17 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=184)** It provides a graphical user interface, also known as a GUI, for performing various tasks.
 >
-> **[3:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=192)** The second way you can interact is through the Command-Line Interface, or CLI.
+> **[3:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=192)** The second way you can interact is through the Command-Line Interface, or [[CLI]].
 >
 > **[3:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=198)** Google CLI tool is called gcloud, which allows users to interact with services via the terminal.
 >
-> **[3:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=205)** Lastly, Google provides a set of APIs or software development kits for various programming languages, allowing developers to integrate GCP services into their applications.
+> **[3:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=205)** Lastly, Google provides a set of APIs or [[Software Development]] kits for various programming languages, allowing developers to integrate GCP services into their applications.
 >
 > **[3:40](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-the-google-cloud-platform?u=76281980&t=220)** It's important to understand the different services, the regions, and zones they can be deployed to, and how to interact with the platform in order to leverage the full power of the cloud platform for your projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (10), cloud (9), [[Google]] (6), [[Security]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2)
+> **Frameworks & Libraries:** [[Google]] (6), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[CLI]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** gcp (10), cli (2), sql (1), vpc (1), dns (1)
 > **Definitions:** is a  (3), known as (2), is an  (1), is called (1)
 > **Analogies:** such as (3), for example (1)
@@ -175,8 +173,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the shared security responsibility model
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980)
+#### [Understanding the shared security responsibility model](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,11 +181,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=10)** It ensures that both parties collaborate to secure the cloud environment effectively.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=17)** In this shared model, the cloud service provider is responsible for securing the underlying cloud infrastructure, including physical, network, and hypervisor security.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=17)** In this shared model, the cloud service provider is responsible for securing the underlying [[Cloud Infrastructure]], including physical, network, and hypervisor security.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=28)** Customers are responsible for securing their data, applications, identities, and access management within the cloud environment.
 >
-> **[0:37](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=37)** Let's go over some tips as you build your own projects and use cloud services.
+> **[0:37](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=37)** Let's go over some tips as you build your own projects and use [[Cloud Services]].
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=43)** Regarding data protection, you are responsible for ensuring data confidentiality, integrity, and availability.
 >
@@ -198,19 +195,19 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=74)** Be aware of industry-specific regulations and compliance standards that you may have to or want to adopt, so that way you can meet security and compliance requirements.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=88)** Set up continuous monitoring for security threats and vulnerabilities, and establish incident response procedures to mitigate security incidents effectively.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=88)** Set up [[Continuous Monitoring]] for security threats and vulnerabilities, and establish [[Incident Response]] procedures to mitigate security incidents effectively.
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=99)** Now, that we went over some tips, let's briefly review the different cloud service models to bring these concepts to life.
 >
-> **[1:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=107)** The first model is called Infrastructure as a Service and provides virtualized computing resources over the internet.
+> **[1:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=107)** The first model is called [[IaaS|Infrastructure as a Service]] and provides virtualized computing resources over the internet.
 >
-> **[1:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=115)** This allows users to deploy and manage virtual machines, storage, and networking infrastructure.
+> **[1:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=115)** This allows users to deploy and manage [[Virtual Machines]], storage, and networking infrastructure.
 >
-> **[2:03](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=123)** The second model is called Platform as a Service, and offers a platform for developing, deploying, and managing applications without the complexity of managing the underlying infrastructure.
+> **[2:03](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=123)** The second model is called [[PaaS|Platform as a Service]], and offers a platform for developing, deploying, and managing applications without the complexity of managing the underlying infrastructure.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=137)** Users can focus on developing applications, while the cloud provider manages the rest.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=137)** Users can focus on developing applications, while the cloud provider manages the [[Representational State Transfer (REST)|rest]].
 >
-> **[2:24](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=144)** The last model is called Software as a Service, and delivers software applications over the internet on a subscription basis.
+> **[2:24](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=144)** The last model is called [[SaaS|Software as a Service]], and delivers software applications over the internet on a subscription basis.
 >
 > **[2:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-shared-security-responsibility-model?u=76281980&t=153)** Users can access and use software applications hosted by the provider without worrying about installation, maintenance, or infrastructure management.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (7), data (3), management (2), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[Cloud Services]] (1), [[Continuous Monitoring]] (1), [[Incident Response]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Definitions:** is called (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** iam (1)
@@ -232,16 +229,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Cloud Security and IAM basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980)
+#### [Google Cloud Security and IAM basics](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=0)** - [Instructor] As more businesses move their operations to the cloud, securing your data and resources is of vital importance.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=7)** Google Cloud platform offers a set of security features designed to protect your information, and maintain the integrity of your operations.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=7)** [[Google Cloud Platform (GCP)|Google Cloud platform]] offers a set of security features designed to protect your information, and maintain the integrity of your operations.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=18)** One of the key pillars of security in Google Cloud is identity and access management, or IAM for short.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=18)** One of the key pillars of security in [[Google Cloud Platform (GCP)|Google Cloud]] is identity and access management, or IAM for short.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=26)** IAM is all about controlling who has access to what resources in your GCP environment.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=74)** As you can see here, this role is enabled in my project.
 >
-> **[1:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=79)** And will allow me full control to create and remove virtual machines.
+> **[1:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=79)** And will allow me full control to create and remove [[Virtual Machines]].
 >
 > **[1:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980&t=85)** However, as your project or organization grows and evolves, you'll need to manage access more granularly.
 >
@@ -281,25 +277,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (4), [[Security]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** iam (10), gcp (4), dcp (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with IAM in GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980)
+#### [Getting started with IAM in GCP](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=0)** - [Instructor] In this video, we're going to dive deeper into Google Cloud's platform, IAM service, and walk you through getting started with IAM in your own GCP projects.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=0)** - [Instructor] In this video, we're going to dive deeper into [[Google Cloud Platform (GCP)|Google Cloud]]'s platform, IAM service, and walk you through getting started with IAM in your own GCP projects.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=12)** Before we proceed, let's cover some fundamental concepts of IAM in Google Cloud platform.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=12)** Before we proceed, let's cover some fundamental concepts of IAM in [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=19)** In Google Cloud, a principal refers to an entity that can make a request for a resource.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=26)** Principals can be individual users, service accounts, or Google groups.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=26)** Principals can be individual users, service accounts, or [[Google]] groups.
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/getting-started-with-iam-in-gcp?u=76281980&t=32)** A role is a collection of permissions that define what actions a principal can perform on resources.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), gcp (2), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google]] (1)
 > **Env Vars:** iam (11), gcp (2)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
@@ -358,8 +353,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** gcp console (1)
 
-#### Managing IAM roles and policies in GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980)
+#### [Managing IAM roles and policies in GCP](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=45)** Now, let's talk about service accounts.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=47)** Service accounts are a special account used by applications and virtual machines to access GCP services.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=47)** Service accounts are a special account used by applications and [[Virtual Machines]] to access GCP services.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=55)** They can also be assigned IAM roles to grant them access to resources.
 >
@@ -383,9 +377,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=72)** Now, let's tie all of these concepts together with a real world example.
 >
-> **[1:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=78)** Imagine you're a DCP project manager for a software development team.
+> **[1:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=78)** Imagine you're a DCP project manager for a [[Software Development]] team.
 >
-> **[1:23](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=83)** Your project includes various resources like compute engine instances, cloud storage buckets, and BigQuery datasets.
+> **[1:23](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=83)** Your project includes various resources like compute engine instances, [[Cloud Storage]] buckets, and BigQuery datasets.
 >
 > **[1:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/managing-iam-roles-and-policies-in-gcp?u=76281980&t=93)** As the project administrator, you need to ensure that the team members have the appropriate level of access to these resources.
 >
@@ -413,15 +407,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), gcp (3), [[Security]] (3), cloud (2), application (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Virtual Machines]] (1), [[Software Development]] (1)
 > **Env Vars:** iam (6), gcp (3), dcp (2)
 > **Analogies:** similar to (1), imagine (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing GCP resources with IAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980)
+#### [Securing GCP resources with IAM](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980&t=34)** Next, leverage predefined roles wherever possible.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980&t=38)** Google Cloud provides a wide range of predefined roles tailored to some common use cases, reducing the need to create custom roles and simplifying role management.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980&t=38)** [[Google Cloud Platform (GCP)|Google Cloud]] provides a wide range of predefined roles tailored to some common use cases, reducing the need to create custom roles and simplifying role management.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-gcp-resources-with-iam?u=76281980&t=51)** Additionally, consider implementing IAM conditions for finer-grained access control.
 >
@@ -461,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), gcp (3), management (2), next (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** iam (11), gcp (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -471,26 +464,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of cloud infrastructure security
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980)
+#### [Overview of cloud infrastructure security](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=0)** - [Narrator] Let's start by discussing why cloud infrastructure security is so critical.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=0)** - [Narrator] Let's start by discussing why [[Cloud Infrastructure]] security is so critical.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=5)** Cloud environments offer scalability, flexibility, and cost efficiency, but they also present unique security challenges that differ from traditional on-premise data centers.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=5)** Cloud environments offer [[Scalability]], flexibility, and cost efficiency, but they also present unique security challenges that differ from traditional on-premise data centers.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=19)** One of the fundamental differences between on-premise and cloud security is the shift in responsibility.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=19)** One of the fundamental differences between on-premise and [[Cloud Security]] is the shift in responsibility.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=26)** In a traditional data center, the organization owns and manages all aspects of security from physical hardware to application level protection.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=26)** In a traditional data center, the organization owns and manages all aspects of security from physical [[Hardware]] to application level protection.
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=37)** However, in the cloud, this responsibility is now shared with the cloud service provider.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=43)** This brings us to the core of Google Cloud platform's approach to security, the shared responsibility model.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=43)** This brings us to the core of [[Google Cloud Platform (GCP)|Google Cloud platform]]'s approach to security, the shared responsibility model.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=51)** Under this model, Google managers certain aspects of security, while customers are responsible for others.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=51)** Under this model, [[Google]] managers certain aspects of security, while customers are responsible for others.
 >
-> **[0:58](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=58)** Understanding this division is important for implementing effective security measures in your Google Cloud environment.
+> **[0:58](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=58)** Understanding this division is important for implementing effective security measures in your [[Google Cloud Platform (GCP)|Google Cloud]] environment.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=66)** Google is responsible for the security of the cloud.
 >
@@ -504,11 +496,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=106)** And lastly, operational security, which includes monitoring and maintaining the platform to detect and respond to threats.
 >
-> **[1:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=115)** Google Security Operations team continuously monitors the platform using advanced threat intelligence and automated defenses to mitigate risks.
+> **[1:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=115)** Google [[Security Operations]] team continuously monitors the platform using advanced threat intelligence and automated defenses to mitigate risks.
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=127)** As a customer, you are responsible for security in the cloud.
 >
-> **[2:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=132)** This includes identity and access management, data protection, network security, and application security.
+> **[2:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=132)** This includes identity and access management, data protection, [[Network Security]], and [[Application Security]].
 >
 > **[2:21](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980&t=141)** We covered IAM in the last chapter, and I will go more in depth regarding the others in the upcoming chapters.
 >
@@ -522,23 +514,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Google]] (7), cloud (6), data (4), application (3)
+> **Frameworks & Libraries:** [[Google]] (7), [[Cloud Infrastructure]] (2), [[Hardware]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Scalability]] (1)
 > **Env Vars:** gcp (2), iam (2)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Securing compute resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980)
+#### [Securing compute resources](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=0)** - [Instructor] In this video, we'll explore best practices for securing virtual machines, containerized applications, and serverless environments in the Google Cloud platform.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=0)** - [Instructor] In this video, we'll explore best practices for securing [[Virtual Machines]], containerized applications, and serverless environments in the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=12)** Let's start with securing virtual machines.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=15)** Google Compute Engine offers various features to enhance the security of your virtual machine instances, also known as VMs.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=15)** [[Google]] Compute Engine offers various features to enhance the security of your virtual machine instances, also known as VMs.
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=24)** Some examples include utilizing shielded virtual machines and enabling Secure Boot.
 >
@@ -558,9 +549,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=83)** Using OS patch management tools, enabling automatic updates, and regularly reviewing security bulletins help ensure your instances remain secure.
 >
-> **[1:36](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=96)** A great example of a security bulletin will be the vulnerability summaries put out by CISA, the Cybersecurity and Infrastructure Agency.
+> **[1:36](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=96)** A great example of a security bulletin will be the vulnerability summaries put out by CISA, the [[Cybersecurity]] and Infrastructure Agency.
 >
-> **[1:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=107)** Next, let's talk about securing containerized applications using Google Kubernetes Engine, also known as GKE.
+> **[1:47](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=107)** Next, let's talk about securing containerized applications using Google [[Kubernetes]] Engine, also known as GKE.
 >
 > **[1:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/securing-compute-resources?u=76281980&t=117)** Containers are lightweight, portable, and self-sufficient environments that include everything needed to run a piece of software, including the code, runtime, libraries, and system settings.
 >
@@ -584,22 +575,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Virtual Machines]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google]] (2), [[Cybersecurity]] (1), [[Kubernetes]] (1)
 > **Env Vars:** cisa (1), gke (1), iam (1)
 > **Analogies:** such as (3)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data security and encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980)
+#### [Data security and encryption](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=0)** - [Instructor] Data security protects your sensitive information, guarantees compliance with various regulations, and maintains customer trust.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=0)** - [Instructor] [[Data Security]] protects your sensitive information, guarantees compliance with various regulations, and maintains customer trust.
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=9)** In the cloud, securing your data involves multiple layers of protection, including encryption and effectively managing encryption keys.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=19)** Google Cloud offers comprehensive encryption methods to protect data both at rest and in transit.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=19)** [[Google Cloud Platform (GCP)|Google Cloud]] offers comprehensive encryption methods to protect data both at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=27)** Encryption at rest protects data stored on physical media, while encryption in transit secures data as it moves across the network.
 >
@@ -609,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=51)** There are three main types of keys you can use.
 >
-> **[0:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=55)** The first are Google-managed keys.
+> **[0:55](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=55)** The first are [[Google]]-managed keys.
 >
 > **[0:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-and-encryption?u=76281980&t=57)** These are the default keys managed by Google.
 >
@@ -643,22 +633,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (3), gcp (3), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Data Security]] (3), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (3), cmek (1), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident response and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980)
+#### [Incident response and best practices](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=0)** - [Narrator] Incident response helps to minimize the impact of security incidents, provide quick recovery, and maintain business continuity.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=0)** - [Narrator] [[Incident Response]] helps to minimize the impact of security incidents, provide quick recovery, and maintain business continuity.
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=9)** Effective incident response involves proactive monitoring, timely detection, and a structured approach to managing and resolving incidents.
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=20)** To set up security monitoring in GCP, use Google Cloud's Operation Suite, formerly known as Stackdriver.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=20)** To set up security monitoring in GCP, use [[Google Cloud Platform (GCP)|Google Cloud]]'s Operation Suite, formerly known as Stackdriver.
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=29)** This suite includes tools for monitoring, logging, and alerting.
 >
@@ -690,7 +679,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=124)** Conduct regular drills so that way your team is always prepared.
 >
-> **[2:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=129)** Use a structured approach like the NIST incident response lifecycle, which includes preparation, detection and analysis, containment, eradication, and recovery.
+> **[2:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=129)** Use a structured approach like the [[NIST]] incident response lifecycle, which includes preparation, detection and analysis, containment, eradication, and recovery.
 >
 > **[2:22](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/incident-response-and-best-practices?u=76281980&t=142)** Let's take the steps we covered earlier in a real life example.
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (8), [[Security]] (8), gcp (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Incident Response]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[NIST]] (1)
 > **Env Vars:** gcp (2), nist (1), api (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** known as (1), is a  (1)
@@ -719,14 +708,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network security fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980)
+#### [Network security fundamentals](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=0)** - [Instructor] Cloud Networking involves hosting and managing network resources and services in a cloud environment.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=7)** Unlike traditional networking, Cloud Networking leverages the scalability, flexibility, and global reach of cloud infrastructures.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=7)** Unlike traditional networking, Cloud Networking leverages the [[Scalability]], flexibility, and global reach of cloud infrastructures.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=17)** Let's cover some Key Concepts in Cloud Networking.
 >
@@ -734,11 +722,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=29)** Subnets are segments within a VPC, allowing you to separate and manage different network segments.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=38)** IP addressing involves assigning IP addresses to your resources.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=38)** [[IP Addressing]] involves assigning IP addresses to your resources.
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=44)** Domain Name Systems, also known as DNS, translate domain names into IP addresses, enabling communication over the internet.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=56)** Google Cloud offers a range of networking services to help you build and manage your network infrastructure.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=56)** [[Google Cloud Platform (GCP)|Google Cloud]] offers a range of networking services to help you build and manage your network infrastructure.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=64)** Google Cloud VPC allows you to create and manage virtual networks, configure subnets to segment your network, and set up firewall rules to control traffic to and from your instances, enhancing security and organization.
 >
@@ -750,13 +738,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=120)** Yeah.
 >
-> **[2:02](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=122)** Lastly, Cloud Interconnect provides direct, high-speed, low-latency connections between your on-premise data centers and Google Cloud, which is ideal for hybrid cloud setups, where you need seamless integration between your on-premise and cloud environments.
+> **[2:02](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=122)** Lastly, Cloud Interconnect provides direct, high-speed, low-latency connections between your on-premise data centers and Google Cloud, which is ideal for [[Hybrid Cloud]] setups, where you need seamless integration between your on-premise and cloud environments.
 >
 > **[2:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980&t=140)** Leverage these tools we talked about to create durable, scalable, and secure network systems in Google Cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Google Cloud Platform (GCP)|Google cloud]] (4), traffic (3), [[Scalability]] (1), gcp (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Scalability]] (1), [[IP Addressing]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** vpc (3), gcp (1), dns (1), https (1), tcp (1)
 > **Definitions:** is a  (1), known as (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -764,16 +752,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a virtual private cloud (VPC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980)
+#### [Creating a virtual private cloud (VPC)](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=0)** - [Instructor] In this demonstration, I'll walk you through the steps to set up a virtual private cloud so you can create your own secure network environment.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=9)** First, let's access the Google Cloud console.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=9)** First, let's access the [[Google Cloud Platform (GCP)|Google Cloud]] console.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=13)** To do so, make sure you go to [console.cloud](https://console.cloud).[google.com](https://google.com).
+> **[0:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=13)** To do so, make sure you go to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com).
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=20)** From there, just enter your login credentials and you'll be good to go.
 >
@@ -783,7 +770,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=36)** Go ahead and click the one that says VPC network.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=43)** Alternatively, on the left-hand side, you can come to the navigation menu and you can either view all products and look for the VPC network, or if you're like me, you'll have VPC network pin and it's easy to navigate from there too.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=43)** Alternatively, on the left-hand side, you can come to the navigation menu and you can either view all [[Microsoft Products|products]] and look for the VPC network, or if you're like me, you'll have VPC network pin and it's easy to navigate from there too.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=61)** This will take you to the VPC networks overview page where you can view and manage your existing VPC networks or create a new one.
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=178)** For example, enabling allow RDP will allow any remote desktop connections from port 3389.
 >
-> **[3:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=189)** Lastly, you can choose between regional and global advanced dynamic routing configurations that will either have Google routers learn routes only in the region you created them in, or dynamically learn from all regions.
+> **[3:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=189)** Lastly, you can choose between regional and global advanced dynamic [[Routing]] configurations that will either have Google routers learn routes only in the region you created them in, or dynamically learn from all regions.
 >
 > **[3:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=205)** For the purpose, I'm going to leave it on regional.
 >
@@ -837,7 +824,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=238)** If you click, it'll give you an indication afterwards once it's done.
 >
-> **[4:03](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=243)** In this demo, we've walked through the steps to create a virtual private cloud in the Google Cloud platform.
+> **[4:03](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=243)** In this demo, we've walked through the steps to create a virtual private cloud in the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[4:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=248)** We configured some subnets and established some firewall rules.
 >
@@ -853,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Microsoft Products|Products]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (18), rdp (1)
 > **UI Navigation:** go to (3), click on (1), open the (1)
 > **Prerequisites:** setup (2), set up (1), configure (1)
@@ -862,8 +849,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Ports:** port 3389 (1)
 
-#### Scaling with cloud load balancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980)
+#### [Scaling with cloud load balancing](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=14)** By evenly distributing traffic, cloud load balancing helps maintain the responsiveness and reliability of your applications even during peak traffic times.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=26)** Google Cloud offers several types of load balancers to meet different needs.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=26)** [[Google Cloud Platform (GCP)|Google Cloud]] offers several types of load balancers to meet different needs.
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=31)** You have HTTP, which is ideal for web applications.
 >
@@ -945,7 +931,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=223)** GCP instructor bucket1.
 >
-> **[3:49](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=229)** Next, you need to choose your cloud storage bucket to associate this with.
+> **[3:49](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=229)** Next, you need to choose your [[Cloud Storage]] bucket to associate this with.
 >
 > **[3:54](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=234)** When you click the browse button, either you'll see a bucket for you to choose, or you can go ahead and create a new one.
 >
@@ -983,7 +969,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=360)** Once your load balancer is set up, you can monitor its performance using the Google Cloud console.
 >
-> **[6:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=366)** Check the traffic distribution and performance metrics to ensure your load balancer is operating as expected, and make sure to adjust your configurations as necessary to optimize performance over time.
+> **[6:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=366)** Check the traffic distribution and [[Performance Metrics]] to ensure your load balancer is operating as expected, and make sure to adjust your configurations as necessary to optimize performance over time.
 >
 > **[6:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/scaling-with-cloud-load-balancing?u=76281980&t=378)** Cloud load balancing helps you distribute traffic across multiple instances, ensuring high availability and performance for your applications.
 >
@@ -995,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), traffic (8), application (5), cloud (4), [[Google Cloud Platform (GCP)|Google cloud]] (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Cloud Storage]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** gcp (3), http (2), tcp (1), ssl (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (3)
@@ -1009,28 +995,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data security in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980)
+#### [Introduction to data security in the cloud](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=0)** - [Narrator] Data security involves safeguarding your data, whether it's stored, processed, or transmitted within cloud environments.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=0)** - [Narrator] [[Data Security]] involves safeguarding your data, whether it's stored, processed, or transmitted within cloud environments.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=8)** It's important to understand that data security isn't just about protecting data from theft, but also ensuring its confidentiality, integrity, and availability is intact for your users that need it the most.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=23)** Cloud computing presents unique challenges for data security due to its dynamic nature.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=23)** [[Cloud Computing]] presents unique challenges for data security due to its dynamic nature.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=28)** There's multi-tenancy and dependency on third party services.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=33)** Some of the most common challenges include data privacy, which is about ensuring confidentiality in environments where resources are shared amongst these multiple tenants, data integrity, which is about preventing unauthorized modifications, and making sure that data is accurate and consistent, data compliance, which covers how organizations meet regulatory requirements that mandate data protection standards.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=33)** Some of the most common challenges include [[Data Privacy]], which is about ensuring confidentiality in environments where resources are shared amongst these multiple tenants, [[Data Integrity]], which is about preventing unauthorized modifications, and making sure that data is accurate and consistent, data compliance, which covers how organizations meet regulatory requirements that mandate data protection standards.
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=60)** And lastly, data availability, which ensures uninterrupted access to data and services even in the event of failures or attacks.
 >
-> **[1:11](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=71)** Encryption is a critical component of data security and cloud environments, and involves protecting data at rest and in transit.
+> **[1:11](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=71)** Encryption is a critical component of data security and cloud environments, and involves protecting data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=80)** Encryption ensures that even if data is intercepted, it remains unreadable without the correct decryption key.
 >
-> **[1:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=89)** Continuous monitoring and logging are critical for detecting and responding to security threats in real time.
+> **[1:29](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=89)** [[Continuous Monitoring]] and logging are critical for detecting and responding to security threats in real time.
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980&t=96)** Monitoring is when you use tools to continuously monitor your network traffic, system performance, and your user activities.
 >
@@ -1048,13 +1033,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Security]] (6), cloud (5), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (4), [[Cloud Computing]] (2), [[Data Privacy]] (1), [[Data Integrity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### The importance of backups and disaster recovery services
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980)
+#### [The importance of backups and disaster recovery services](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=15)** Disaster recovery involves strategy and processes to quickly restore systems and data after a disaster.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=24)** Both backups and disaster recovery are essential for ensuring your data integrity, availability, and resiliency against unexpected events such as a hardware failure, a cyber attack, or natural disasters.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=24)** Both backups and disaster recovery are essential for ensuring your [[Data Integrity]], availability, and [[Resiliency]] against unexpected events such as a [[Hardware]] failure, a cyber attack, or natural disasters.
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=41)** Backups are your first line of defense against data loss.
 >
@@ -1090,15 +1074,15 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=113)** A well-designed disaster recovery plan helps your organization recover quickly and provide critical services even in the face of a major disruption.
 >
-> **[2:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=126)** The Google Cloud platform offers various tools and services to implement robust backup strategies.
+> **[2:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=126)** The [[Google Cloud Platform (GCP)|Google Cloud platform]] offers various tools and services to implement robust backup strategies.
 >
-> **[2:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=133)** These include cloud storage as a reliable and scalable storage solution for backups, cloud SQL backups, a feature for automated backups for your cloud SQL databases, and snapshots, which are point-in-time copies of disk volumes for quick recovery.
+> **[2:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=133)** These include [[Cloud Storage]] as a reliable and scalable storage solution for backups, cloud [[SQL]] backups, a feature for automated backups for your cloud SQL [[Databases]], and snapshots, which are point-in-time copies of disk volumes for quick recovery.
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=152)** Using these tools, you can create automated and manual backups so that way, your data is always protected.
 >
-> **[2:42](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=162)** Google also provides comprehensive disaster recovery solutions to ensure your IT environment can recover from any disaster.
+> **[2:42](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=162)** [[Google]] also provides comprehensive disaster recovery solutions to ensure your IT environment can recover from any disaster.
 >
-> **[2:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=171)** Two tools that you can add to your own plan include the Google Cloud Disaster Recovery Service that helps you implement disaster recover strategies, and utilizing multi-region deployments that can distribute your applications across multiple regions, which will enhance your resiliency.
+> **[2:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=171)** Two tools that you can add to your own plan include the [[Google Cloud Platform (GCP)|Google Cloud]] Disaster Recovery Service that helps you implement disaster recover strategies, and utilizing multi-region deployments that can distribute your applications across multiple regions, which will enhance your resiliency.
 >
 > **[3:11](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/the-importance-of-backups-and-disaster-recovery-services?u=76281980&t=191)** By leveraging these tools, you can create a resilient IT infrastructure that not only minimizes downtime, but also helps with business continuity.
 >
@@ -1128,27 +1112,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (3), [[Resiliency]] (2), business (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Resiliency]] (2), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Integrity]] (1), [[Hardware]] (1)
 > **Env Vars:** sql (2), iso (1), soc (1), rto (1), rpo (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980)
+#### [Data security best practices](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=0)** - [Instructor] Imagine data as the treasure chest 2 of your organization, 3 and security as the guardian protecting it 4 from unwanted individuals lurking on the internet. 5 Here are some resources you can add to your toolkit 6 to help you secure your environment. 7 They are encryption, 8 identity and access management, 9 multifactor authentication, 10 network security, 11 and logging and monitoring. 12 Next, let's connect the dots 13 of these security concepts into tangible tools 14 that you can implement in GCP today. 15 The first resource you can implement 16 is the Google Cloud Key Management Service, 17 which will allow your users to create, 18 use, rotate and destroy cryptographic keys 19 for data encryption, 20
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=0)** - [Instructor] Imagine data as the treasure chest 2 of your organization, 3 and security as the guardian protecting it 4 from unwanted individuals lurking on the internet. 5 Here are some resources you can add to your toolkit 6 to help you secure your environment. 7 They are encryption, 8 identity and access management, 9 multifactor authentication, 10 [[Network Security]], 11 and logging and monitoring. 12 Next, let's connect the dots 13 of these security concepts into tangible tools 14 that you can implement in GCP today. 15 The first resource you can implement 16 is the [[Google Cloud Platform (GCP)|Google Cloud]] Key Management Service, 17 which will allow your users to create, 18 use, rotate and destroy cryptographic keys 19 for data encryption, 20
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=51)** both at rest and in transit. 21 The second resource is identity-aware proxy. 22 This is a security service 23 that allows you to control access 24 to your web applications, 25 such as Compute Engine, 26 App Engine, and Kubernetes Engine. 27 Your third tool is a Cloud Security Command Center, 28 a comprehensive security management 29 and data risk platform 30 that offers centralized visibility, 31 control and insights 32 into the security posture of your cloud resources. 33 Next, utilize data loss prevention services, 34 such as data discovery 35 that scans your data repositories. 36 These scans help to identify 37 and classify sensitive information, 38
+> **[0:51](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=51)** both at [[Representational State Transfer (REST)|rest]] and in transit. 21 The second resource is identity-aware proxy. 22 This is a security service 23 that allows you to control access 24 to your web applications, 25 such as Compute Engine, 26 App Engine, and [[Kubernetes]] Engine. 27 Your third tool is a [[Cloud Security]] Command Center, 28 a comprehensive [[Security Management]] 29 and data risk platform 30 that offers centralized visibility, 31 control and insights 32 into the security posture of your cloud resources. 33 Next, utilize data loss prevention services, 34 such as data discovery 35 that scans your data repositories. 36 These scans help to identify 37 and classify sensitive information, 38
 >
-> **[1:39](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=99)** such as personally identifiable information, or PII, 39 financial data and intellectual property. 40 You can also utilize the feature for data classification 41 that can define classification rules 42 to tag data with labels, 43 indicating its sensitivity level, 44 allowing for granular control 45 over data handling and access. 46 Lastly, ensure you're implementing compliance 47 and governance tools, 48 ensuring you play by the rules 49 and stay on the right side of the law.
+> **[1:39](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/data-security-best-practices?u=76281980&t=99)** such as personally identifiable information, or PII, 39 [[Financial Data]] and intellectual property. 40 You can also utilize the feature for [[Data Classification]] 41 that can define classification rules 42 to tag data with labels, 43 indicating its sensitivity level, 44 allowing for granular control 45 over data handling and access. 46 Lastly, ensure you're implementing compliance 47 and governance tools, 48 ensuring you play by the rules 49 and stay on the right side of the law.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (6), management (3), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Kubernetes]] (1), [[Cloud Security]] (1)
 > **Analogies:** such as (3), imagine (1)
 > **Env Vars:** gcp (1), pii (1)
 > **Definitions:** is a  (2)
@@ -1159,14 +1142,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the Security Command Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980)
+#### [Understanding the Security Command Center](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=0)** - [Presenter] The Google Cloud platform offers security features designed to protect your data and applications.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=0)** - [Presenter] The [[Google Cloud Platform (GCP)|Google Cloud platform]] offers security features designed to protect your data and applications.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=6)** Central to this is the Security Command Center, an integrated security management and data risk platform.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=6)** Central to this is the Security Command Center, an integrated [[Security Management]] and data risk platform.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=14)** The Security Command Center helps you gain visibility into your cloud assets.
 >
@@ -1180,7 +1162,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=53)** If you're looking to get started using this service, you can do the following.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=57)** Navigate to your Google Cloud console, ensure that you are within an organization in your platform, and enable the Security Command Center based on the tier your organization is in.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=57)** Navigate to your [[Google Cloud Platform (GCP)|Google Cloud]] console, ensure that you are within an organization in your platform, and enable the Security Command Center based on the tier your organization is in.
 >
 > **[1:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980&t=69)** This could be standard, premium, or enterprise.
 >
@@ -1212,19 +1194,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), cloud (3), data (2), management (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Security Management]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **UI Navigation:** navigate to (1), click on (1), open the (1), scroll down (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** vpc (1)
 > **Speakers:** - [presenter] (1)
 
-#### Improving your cloud security posture
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980)
+#### [Improving your cloud security posture](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=0)** - [Narrator] The concept of a cloud security posture refers to the overall state of security in your cloud environment.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=0)** - [Narrator] The concept of a [[Cloud Security]] posture refers to the overall state of security in your cloud environment.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=7)** It includes the processes, controls, and technology you use to protect your data, applications, and infrastructure.
 >
@@ -1238,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=43)** Here's how you can establish a baseline for your cloud security posture.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=48)** First, identify all of your cloud resources, including your compute instances, your storage buckets, and databases.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=48)** First, identify all of your cloud resources, including your compute instances, your storage buckets, and [[Databases]].
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/improving-your-cloud-security-posture?u=76281980&t=56)** Next, check the configuration settings of your cloud resources against best practices and compliance requirements, such as the cloud security alliances, security trust assurance, and risk framework, also known as CSA STAR.
 >
@@ -1258,14 +1239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), cloud (11), data (2), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (7), [[Databases]] (1)
 > **Env Vars:** csa (1), star (1), iam (1)
 > **Definitions:** refers to (1), known as (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building a security checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980)
+#### [Building a security checklist](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,13 +1273,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=62)** Implement VPCs, firewalls, and subnets to segment and secure network traffic.
 >
-> **[1:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=69)** Use cloud KMS to manage encryption keys and ensure data is encrypted, both at rest and in transit.
+> **[1:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=69)** Use cloud KMS to manage encryption keys and ensure data is encrypted, both at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=78)** Make sure you have alignment with regulatory requirements like DDPR, HIPAA or SOC2.
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=86)** Enable and review cloud audit logs using cloud monitoring and cloud logging for insights.
 >
-> **[1:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=93)** And lastly, develop and test your incident response plans.
+> **[1:33](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=93)** And lastly, develop and test your [[Incident Response]] plans.
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=99)** Small businesses may have fewer resources, but you most definitely can maintain robust security.
 >
@@ -1311,19 +1291,19 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=124)** With smaller teams, permissions tend to be over permissive.
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=128)** It's a helpful strategy when trying to be agile, but can be detrimental as your organization grows.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=128)** It's a helpful strategy when trying to be [[Agile Development|agile]], but can be detrimental as your organization grows.
 >
 > **[2:15](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=135)** For networking, use simple network segmentation and basic firewall rules.
 >
 > **[2:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=140)** You can also utilize Cloud KMS to encrypt sensitive data.
 >
-> **[2:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=145)** As a small business, especially E-commerce organizations, you may have some relevant regulatory standards that are applicable to your business.
+> **[2:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=145)** As a small business, especially [[E-Commerce]] organizations, you may have some relevant regulatory standards that are applicable to your business.
 >
 > **[2:35](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=155)** Make sure you know which ones they are, and how to implement the necessary controls to meet those requirements.
 >
 > **[2:41](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=161)** Enable basic monitoring and logging just so you have visibility into your cloud environment.
 >
-> **[2:48](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=168)** Lastly, create a straightforward incident response plan, and make sure you train your teams on the common threats to small businesses, such as phishing attempts.
+> **[2:48](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=168)** Lastly, create a straightforward incident response plan, and make sure you train your teams on the common threats to small businesses, such as [[Phishing]] attempts.
 >
 > **[2:59](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/building-a-security-checklist?u=76281980&t=179)** Creating a security checklist involves planning, establishing a baseline, and leveraging tools in continuously improving your security posture, making sure that it's tailored to the size and needs of your organizations.
 >
@@ -1331,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), cloud (10), data (2), [[Incident Response]] (2), teams (2)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Development|Agile]] (1), [[E-Commerce]] (1), [[Phishing]] (1)
 > **Env Vars:** iam (2), kms (2), ddpr (1), hipaa (1), soc2 (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
@@ -1345,24 +1325,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=0)** - Congratulations, you made it to the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=4)** Time flies when you're having fun, or in our case, learning about security best practices in the Google Cloud platform.
+> **[0:04](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=4)** Time flies when you're having fun, or in our case, learning about security best practices in the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=10)** Same thing, right? (laughs) We covered a lot of ground, so let's recap the lessons we've gone over.
 >
-> **[0:16](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=16)** We began this course by introducing you to the Google Cloud platform, including the main categories of services within the Google Cloud, how to interact with the platform, and the levels of security responsibility depending on the cloud service model.
+> **[0:16](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=16)** We began this course by introducing you to the Google Cloud platform, including the main categories of services within the [[Google Cloud Platform (GCP)|Google Cloud]], how to interact with the platform, and the levels of security responsibility depending on the cloud service model.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=31)** We then went over identity and access management, infrastructure, data, network security, and lastly, security operations.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=31)** We then went over identity and access management, infrastructure, data, [[Network Security]], and lastly, [[Security Operations]].
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=40)** These topics were meant to be an opportunity for you to gain a foundational understanding of the Google Cloud platform and some of its services and how to secure them.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=50)** If you're interested in learning more, check out my other courses on hybrid cloud and cybersecurity as well as a day in the life of a security engineer.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=50)** If you're interested in learning more, check out my other courses on [[Hybrid Cloud]] and [[Cybersecurity]] as well as a day in the life of a security engineer.
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980&t=59)** I appreciate you taking the time to complete this course, and I hope you learned some valuable information.
 >
@@ -1370,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1), management (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Network Security]] (1), [[Security Operations]] (1), [[Hybrid Cloud]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)
 

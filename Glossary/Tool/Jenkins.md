@@ -37,7 +37,7 @@ created: 2026-05-02
 6. [[Software Design- From Requirements to Release]] — 26 mentions
 7. [[Continuous Integration- Tools]] — 23 mentions
 8. [[Devops Foundations Devsecops]] — 11 mentions
-9. [[Application Security in DevSecOps]] — 10 mentions
+9. [[Application Security in DevSecOps]] — 11 mentions
 10. [[DevSecOps- Building a Secure Continuous Delivery Pipeline]] — 7 mentions
 
 > [!note]- See all 50 courses
@@ -89,7 +89,7 @@ created: 2026-05-02
 3. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 68 total mentions
 4. [[Getting Started with DevOps]] — 51 total mentions
 5. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 47 total mentions
-6. [[Get Ahead in DevSecOps]] — 33 total mentions
+6. [[Get Ahead in DevSecOps]] — 34 total mentions
 7. [[Essential New Skills in Software Engineering]] — 26 total mentions
 8. [[Starting Your Career in Tech- DevOps]] — 8 total mentions
 9. [[Become a Programmer- Foundations]] — 5 total mentions

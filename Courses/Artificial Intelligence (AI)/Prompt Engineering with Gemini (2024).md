@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning prompt engineering with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980)
+#### [Learning prompt engineering with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - Gemini is Google's new Gen AI model with powerful multimodal capabilities and integrations.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - [[Gemini]] is [[Google]]'s new Gen AI model with powerful multimodal capabilities and integrations.
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=7)** In this course, we'll learn how to complete a variety of tasks through Gemini, like brainstorming ideas, writing emails, and summarizing your favorite YouTube videos.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2), ai (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2)
 > **Speakers:** - gemini (1)
 
 
@@ -118,18 +117,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enabling Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980)
+#### [Enabling Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the Gemini website at gemini.[google.com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the [[Gemini]] website at gemini.[[[Google]].com](https://google.com).
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=4)** Let's get started and chat with Gemini.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=6)** I'm going to go ahead and click on this Chat With Gemini button.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=9)** Now you can see here there's a terms and privacy agreement between you and Gemini Apps via Google.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=9)** Now you can see here there's a terms and [[Privacy]] agreement between you and Gemini Apps via Google.
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=15)** So please go ahead and read through this and make sure that you understand how your data is being used.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), data (3), [[Google]] (2), [[Privacy]] (1), hit (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Google]] (2), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** lms (1)
@@ -157,12 +155,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing your first prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/writing-your-first-prompt?u=76281980)
+#### [Writing your first prompt](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/writing-your-first-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/writing-your-first-prompt?u=76281980&t=0)** - [Instructor] One of the nice things about Gemini is that there are many sample prompts that you can use.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/writing-your-first-prompt?u=76281980&t=0)** - [Instructor] One of the nice things about [[Gemini]] is that there are many sample prompts that you can use.
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/writing-your-first-prompt?u=76281980&t=5)** A prompt is a way to have a large language model like Gemini fulfill a task for you.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Gemini]] (5), hit (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (5)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -231,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Brainstorming with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980)
+#### [Brainstorming with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=2)** You're trying to brainstorm some ideas, but nothing's coming up.
 >
-> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=5)** Let's consider using Gemini to help us out.
+> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=5)** Let's consider using [[Gemini]] to help us out.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=8)** So let's say I'm having an ice cream fundraiser for charity.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=87)** That's because Gemini generates different responses to prompts, even though it's the same prompt.
 >
-> **[1:32](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=92)** It's the nature of large language models.
+> **[1:32](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=92)** It's the nature of [[Large Language Models (LLM)|large language models]].
 >
 > **[1:35](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/brainstorming-with-gemini?u=76281980&t=95)** Okay, here we go. We have some options.
 >
@@ -316,18 +312,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), hit (3), prompt (2), game (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Large Language Models (LLM)|Large language models]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterating with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/iterating-with-gemini?u=76281980)
+#### [Iterating with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/iterating-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/iterating-with-gemini?u=76281980&t=0)** - [Instructor] I'm hosting an event about Gemini and LLMs, and I'd like some feedback from a colleague, but they're on vacation.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/iterating-with-gemini?u=76281980&t=0)** - [Instructor] I'm hosting an event about [[Gemini]] and LLMs, and I'd like some feedback from a colleague, but they're on vacation.
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/iterating-with-gemini?u=76281980&t=7)** So let's use Gemini to start.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (12), business (3), prompt (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (12)
 > **UI Navigation:** click on (1), dropdown (1), scroll up (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Ports:** :30 (1)
@@ -461,8 +456,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving your writing with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980)
+#### [Improving your writing with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=5)** So there might be some mistakes there.
 >
-> **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=7)** Today, we're going to talk about how we can use Gemini to help us rewrite some content that we wrote.
+> **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=7)** Today, we're going to talk about how we can use [[Gemini]] to help us rewrite some content that we wrote.
 >
 > **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=12)** We have this file in Exercise Files under Chapter 02 02_03.
 >
@@ -556,15 +550,15 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=179)** Now, an important thing to consider here is that you should review your company's or organization's policy on using Gemini for these kinds of communications.
 >
-> **[3:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=188)** Every company's a little bit different, and we should always make sure to reread everything that generative AI provides to us just to double check for any types of mistakes.
+> **[3:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=188)** Every company's a little bit different, and we should always make sure to reread everything that [[Generative AI]] provides to us just to double check for any types of mistakes.
 >
-> **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=197)** Large language models can make mistakes, so we need to double check.
+> **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=197)** [[Large Language Models (LLM)|Large language models]] can make mistakes, so we need to double check.
 >
 > **[3:21](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-your-writing-with-gemini?u=76281980&t=201)** In the next videos, we'll be going through how we can use some of the more powerful aspects of Gemini like browsing the web or using extensions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (11), hit (2), prompt (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (11), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (1), scroll up (1), scroll down (1)
 > **Definitions:** is a  (3)
@@ -573,12 +567,11 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Browsing the web with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/browsing-the-web-with-gemini?u=76281980)
+#### [Browsing the web with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/browsing-the-web-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/browsing-the-web-with-gemini?u=76281980&t=0)** - [Instructor] One of Gemini's advantages is the ability to leverage Google search.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/browsing-the-web-with-gemini?u=76281980&t=0)** - [Instructor] One of [[Gemini]]'s advantages is the ability to leverage [[Google]] search.
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/browsing-the-web-with-gemini?u=76281980&t=4)** In this video, we'll cover how to do that.
 >
@@ -628,18 +621,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (8), [[Google]] (5), [[Search]] (4), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Google]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Gemini extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980)
+#### [Introduction to Gemini extensions](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=0)** - [Instructor] Integrated natively into Gemini are extensions.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=0)** - [Instructor] Integrated natively into [[Gemini]] are extensions.
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=3)** Extensions are a way to interact with different services to get more customized information.
 >
@@ -653,7 +645,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=18)** So in here we can see that we have five different extension options.
 >
-> **[0:23](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=23)** Four of them are already enabled, like Google Flights, Hotels, Maps, and YouTube.
+> **[0:23](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=23)** Four of them are already enabled, like [[Google]] Flights, Hotels, Maps, and YouTube.
 >
 > **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=28)** So let's head back to Gemini and use one of these extensions.
 >
@@ -731,7 +723,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=196)** I'm going to hit Enable.
 >
-> **[3:18](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=198)** So the Google Workspace extensions has a separate policy, because you're enabling Gemini to access the data within your Google Drive.
+> **[3:18](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=198)** So the Google Workspace extensions has a separate policy, because you're enabling Gemini to access the data within your [[Google Drive]].
 >
 > **[3:26](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/introduction-to-gemini-extensions?u=76281980&t=206)** So make sure to read through these documents, but once you do, you can hit Connect.
 >
@@ -767,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (13), [[Gemini]] (12), hit (4), [[Search]] (4), [[Google Drive]] (3)
+> **Frameworks & Libraries:** [[Google]] (13), [[Gemini]] (12), [[Google Drive]] (3)
 > **UI Navigation:** click on (3), scroll down (2), go to (2)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (2), go back to (2)
@@ -776,12 +768,11 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), such as (1)
 > **Best Practices:** make sure to (1)
 
-#### Planning a vacation with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980)
+#### [Planning a vacation with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=0)** - [Instructor] In this video, we'll plan a Northern Lights vacation with Gemini.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=0)** - [Instructor] In this video, we'll plan a Northern Lights vacation with [[Gemini]].
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=3)** Let's start off by asking, where are the best places to see the Northern Lights?
 >
@@ -877,26 +868,25 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=213)** So this is great.
 >
-> **[3:33](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=213)** We used Google Flights and Google Hotels as extensions in Gemini to book our next vacation.
+> **[3:33](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=213)** We used [[Google]] Flights and Google Hotels as extensions in Gemini to book our next vacation.
 >
 > **[3:40](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/planning-a-vacation-with-gemini?u=76281980&t=220)** In the next video, we're going to do a challenge based on everything we've learned in this chapter to prompt Gemini to create an activewear store.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (4), hit (3), [[Google]] (2), next (2), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (2)
 > **Env Vars:** nyc (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Writing copy for your new activewear brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980)
+#### [Challenge: Writing copy for your new activewear brand](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980&t=0)** - [Instructor] Your challenge for this chapter is to use Gemini to help you write copy for a new website.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980&t=0)** - [Instructor] Your challenge for this chapter is to use [[Gemini]] to help you write copy for a new website.
 >
-> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980&t=10)** You're launching a new activewear e-commerce store.
+> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980&t=10)** You're launching a new activewear [[E-Commerce]] store.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-writing-copy-for-your-new-activewear-brand?u=76281980&t=13)** How exciting!
 >
@@ -910,21 +900,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (1), [[E-Commerce]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Writing copy for your new activewear brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980)
+#### [Solution: Writing copy for your new activewear brand](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=0)** - [Instructor] Now let's dive into a solution for this copywriting challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=9)** Let's head over to Gemini.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=9)** Let's head over to [[Gemini]].
 >
 > **[0:11](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=11)** So for my brand, I've chosen to focus on excitement.
 >
@@ -998,7 +987,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=155)** I'm thinking vests.
 >
-> **[2:37](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=157)** What are some names for vest products?
+> **[2:37](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=157)** What are some names for vest [[Microsoft Products|products]]?
 >
 > **[2:42](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-writing-copy-for-your-new-activewear-brand?u=76281980&t=162)** And hit Enter.
 >
@@ -1028,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), product (5), hit (2), [[Microsoft Products|Products]] (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** ecommerce (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1038,8 +1027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improving prompting with examples and quotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980)
+#### [Improving prompting with examples and quotes](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=7)** What is the most reliable car?
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=9)** So let's type that out in Gemini, "What is the most reliable car?"
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=9)** So let's type that out in [[Gemini]], "What is the most reliable car?"
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=15)** And hit enter.
 >
@@ -1059,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=35)** So Gemini is encouraging us to find more specific criteria to determine this.
 >
-> **[0:41](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=41)** Now, this is different than ChatGPT-4, for example, which will provide you a more opinionated list based on the data that it's using.
+> **[0:41](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=41)** Now, this is different than [[ChatGPT]]-4, for example, which will provide you a more opinionated list based on the data that it's using.
 >
 > **[0:48](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=48)** Okay, this is pretty good, but it's still pretty verbose.
 >
@@ -1097,7 +1085,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=120)** So this blurb at the end, we want to try to avoid this.
 >
-> **[2:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=123)** If you've used GPT-4 before, you might have noticed that this prompt might be a little bit shorter because GPT-4 follows content in a more specific way.
+> **[2:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=123)** If you've used [[GPT-4]] before, you might have noticed that this prompt might be a little bit shorter because GPT-4 follows content in a more specific way.
 >
 > **[2:11](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=131)** But that's okay.
 >
@@ -1111,7 +1099,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=143)** We don't have any additional information.
 >
-> **[2:25](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=145)** Now, sometimes when you run this, you might get a list of links because we did a Google search.
+> **[2:25](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=145)** Now, sometimes when you run this, you might get a list of links because we did a [[Google]] search.
 >
 > **[2:30](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/improving-prompting-with-examples-and-quotes?u=76281980&t=150)** So every time it's going to be a little bit different.
 >
@@ -1121,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), prompt (3), hit (2), [[GPT-4]] (2), power (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[GPT-4]] (2), [[ChatGPT]] (1), [[Google]] (1)
 > **Env Vars:** gpt (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -1130,12 +1118,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Using completion sequences and few-shot learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980)
+#### [Using completion sequences and few-shot learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=0)** - [Instructor] We want to use Gemini to help us classify a batch of reviews.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=0)** - [Instructor] We want to use [[Gemini]] to help us classify a batch of reviews.
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=4)** For this task, we want to make sure all the classifications are correct.
 >
@@ -1201,7 +1188,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=131)** It tried to provide the information in the clearest way possible to the user.
 >
-> **[2:15](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=135)** This is some of the differences between GPT-4 and Gemini is that, Gemini often in its chat version, which is the one we use on the website, provides additional formatting that we didn't ask for.
+> **[2:15](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=135)** This is some of the differences between [[GPT-4]] and Gemini is that, Gemini often in its chat version, which is the one we use on the website, provides additional formatting that we didn't ask for.
 >
 > **[2:27](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-completion-sequences-and-few-shot-learning?u=76281980&t=147)** So let's head back to our prompts and pick our fourth prompt, and let's paste it in.
 >
@@ -1225,7 +1212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), prompt (5), hit (3), next (3), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[GPT-4]] (1)
 > **Exercise Files:** exercise files (3)
 > **Cross-References:** go back to (1), next video (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1234,14 +1221,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using chain-of-thought reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980)
+#### [Using chain-of-thought reasoning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=0)** - [Instructor] In many schools, we are taught to explain our steps to get an answer.
 >
-> **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=4)** It turns out this technique is quite useful for LLMs, including Gemini.
+> **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=4)** It turns out this technique is quite useful for LLMs, including [[Gemini]].
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=9)** Today, we'll learn about a technique called chain of thought reasoning.
 >
@@ -1265,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=51)** So Gemini correctly calculated the number of legs for cows and chickens, but unfortunately, it ignored the information about tables.
 >
-> **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=59)** In this word problem, we assume that we want to count the legs of tables.
+> **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=59)** In this [[Microsoft Word|word]] problem, we assume that we want to count the legs of tables.
 >
 > **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/using-chain-of-thought-reasoning?u=76281980&t=63)** However, it did correctly ignore the information about ravens, since the raven is at your neighbor's place.
 >
@@ -1323,21 +1309,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (11), prompt (6), llm (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Gemini]] (11), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (3)
 > **Env Vars:** llm (1)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reformatting your data nicely
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980)
+#### [Reformatting your data nicely](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980&t=0)** - [Instructor] When we output data from Gemini, we may want to get it in a certain format.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980&t=0)** - [Instructor] When we output data from [[Gemini]], we may want to get it in a certain format.
 >
-> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980&t=5)** One way to structure data is in the JSON format, a descriptive way of storing and sending data that is popular in programming.
+> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980&t=5)** One way to structure data is in the [[JSON]] format, a descriptive way of storing and sending data that is popular in programming.
 >
 > **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/reformatting-your-data-nicely?u=76281980&t=12)** You can see here on the right we have a JSON object with a recipe name and a cooking time.
 >
@@ -1387,27 +1372,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), [[JSON]] (5), data (4), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[JSON]] (5)
 > **Env Vars:** json (5)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Give Gemini a tricky problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980)
+#### [Challenge: Give Gemini a tricky problem](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=0)** (techno music)
 >
-> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=5)** - [Instructor] Your challenge is to find a question that Gemini struggles with.
+> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=5)** - [Instructor] Your challenge is to find a question that [[Gemini]] struggles with.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=9)** I've typically found that word puzzles or counting problems can result in incorrect outputs.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=9)** I've typically found that [[Microsoft Word|word]] puzzles or counting problems can result in incorrect outputs.
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=14)** Then use a technique that we learned to get to the right answer.
 >
-> **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=18)** Large language models aren't perfect, so finding gaps in their capabilities is an important step to understanding them.
+> **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=18)** [[Large Language Models (LLM)|Large language models]] aren't perfect, so finding gaps in their capabilities is an important step to understanding them.
 >
 > **[0:24](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-give-gemini-a-tricky-problem?u=76281980&t=24)** Good luck.
 
@@ -1419,14 +1403,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno music) (1)
 
-#### Solution: Give Gemini a tricky problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980)
+#### [Solution: Give Gemini a tricky problem](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980&t=0)** - [Instructor] Let's review my solution for this problem.
 >
-> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980&t=8)** I chose a problem where we're going to ask Gemini to count letters.
+> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980&t=8)** I chose a problem where we're going to ask [[Gemini]] to count letters.
 >
 > **[0:11](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-give-gemini-a-tricky-problem?u=76281980&t=11)** There are many other problems that you could have chosen, but I chose this one.
 >
@@ -1470,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (4), prompt (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (4)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **CLI Commands:** cat (1)
@@ -1484,12 +1467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image recognition and augmentation with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980)
+#### [Image recognition and augmentation with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980&t=0)** - [Instructor] Gemini is a multimodal LLM, meaning you can input text, images, or videos.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980&t=0)** - [Instructor] [[Gemini]] is a multimodal LLM, meaning you can input text, images, or videos.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/image-recognition-and-augmentation-with-gemini?u=76281980&t=6)** Let's learn how we can leverage images and texts together.
 >
@@ -1533,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), prompt (4), llm (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (5)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** 0401.txt (1)
 > **CLI Commands:** find (1)
@@ -1542,12 +1524,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Creative image generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980)
+#### [Creative image generation](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=0)** - [Instructor] Gemini's image generation can be a great way to create creative gifts.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=0)** - [Instructor] [[Gemini]]'s image generation can be a great way to create creative gifts.
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=4)** In this video, let's make a card for a friend's birthday.
 >
@@ -1593,7 +1574,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=81)** So let's go ahead, and we can copy this image.
 >
-> **[1:25](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=85)** And I have a Google Doc ready here for a birthday card.
+> **[1:25](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=85)** And I have a [[Google]] Doc ready here for a birthday card.
 >
 > **[1:29](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/creative-image-generation?u=76281980&t=89)** So let's paste in this image.
 >
@@ -1613,25 +1594,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (3), prompt (1), hit (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing a multi-modal document with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980)
+#### [Analyzing a multi-modal document with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=0)** - [Instructor] PDFs can be complex documents.
 >
-> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=3)** Let's ask Gemini to help us analyze two PDFs.
+> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=3)** Let's ask [[Gemini]] to help us analyze two PDFs.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=6)** I have my Google Drive extensions enabled, as we can check here in the settings and extensions.
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=6)** I have my [[Google Drive]] extensions enabled, as we can check here in the settings and extensions.
 >
-> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=13)** And scroll down and see Google Workspaces.
+> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=13)** And scroll down and see [[Google]] Workspaces.
 >
 > **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/analyzing-a-multi-modal-document-with-gemini?u=76281980&t=17)** So I'm going to analyze two different files: one from Toronto and one from New York City.
 >
@@ -1727,7 +1707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (10), [[Google Drive]] (7), [[Google]] (3), hit (3), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (10), [[Google Drive]] (7), [[Google]] (3)
 > **Versions:** 1.9 (2), 2.3 (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1735,14 +1715,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching and summarizing a YouTube video with Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980)
+#### [Searching and summarizing a YouTube video with Gemini](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=0)** - [Lecturer] I'm interested in buying a new phone and like the contents from YouTube reviews, but I'm in a rush.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=6)** So, let's have Gemini help us out.
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=6)** So, let's have [[Gemini]] help us out.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=8)** I'm going to search for phone reviews on YouTube.
 >
@@ -1790,17 +1769,17 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=107)** All right, there we go.
 >
-> **[1:48](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=108)** We have the Google store, Amazon Best Buy, and other retailers.
+> **[1:48](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=108)** We have the [[Google]] store, Amazon Best Buy, and other retailers.
 >
 > **[1:54](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=114)** We just learned how we could search YouTube and the web to find comparisons between different phones.
 >
 > **[2:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=120)** We can do this to compare a number of different things on YouTube or just do a general YouTube search.
 >
-> **[2:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=125)** In the next video, we'll use our multimodal prompting to create a new artifact using the techniques we learned in this chapter.
+> **[2:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/searching-and-summarizing-a-youtube-video-with-gemini?u=76281980&t=125)** In the next video, we'll use our [[Multimodal Prompting]] to create a new artifact using the techniques we learned in this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Gemini]] (2), web (2), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Google]] (1), [[Multimodal Prompting]] (1)
 > **Code Identifiers:** iphone (3), iphones (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** s24 (1)
@@ -1808,31 +1787,29 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Challenge: Comparing two world wonders
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980)
+#### [Challenge: Comparing two world wonders](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=0)** - [Instructor] Your challenge is to use Gemini for a research project.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=0)** - [Instructor] Your challenge is to use [[Gemini]] for a research project.
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=9)** Find two interesting world wonders and put together a one-page report about them, including text, sources, and images.
 >
-> **[0:16](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=16)** You'll need to leverage your multimodal prompting skills and research skills.
+> **[0:16](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=16)** You'll need to leverage your [[Multimodal Prompting]] skills and research skills.
 >
-> **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=20)** You can start your research with Gemini and then work towards the finished product by using Google Docs.
+> **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=20)** You can start your research with Gemini and then work towards the finished product by using [[Google]] Docs.
 >
 > **[0:26](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/challenge-comparing-two-world-wonders?u=76281980&t=26)** Good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (2), [[Multimodal Prompting]] (1), product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Multimodal Prompting]] (1), [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Comparing two world wonders
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980)
+#### [Solution: Comparing two world wonders](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,13 +1833,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=59)** We have some information about these world wonders.
 >
-> **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=63)** Now let's ask Gemini to summarize them for me.
+> **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=63)** Now let's ask [[Gemini]] to summarize them for me.
 >
 > **[1:05](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=65)** Let's say, can you summarize this information into a table with three facts each, and hit enter.
 >
 > **[1:20](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=80)** All right, here we go, we have our information here.
 >
-> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=83)** Now, the cool thing that we can do with Gemini is we can actually export this into a Google sheet.
+> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=83)** Now, the cool thing that we can do with Gemini is we can actually export this into a [[Google]] sheet.
 >
 > **[1:27](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=87)** Let's go ahead and do that.
 >
@@ -1942,7 +1919,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=293)** Let's say that this report was generated with Gemini, so I'm going to type out the images, citations, and facts were generated with Gemini for this report.
 >
-> **[5:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=308)** And let's make that bold and let's zoom out a little bit to 50%.
+> **[5:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=308)** And let's make that bold and let's [[Zoom]] out a little bit to 50%.
 >
 > **[5:16](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/solution-comparing-two-world-wonders?u=76281980&t=316)** So there we have it.
 >
@@ -1960,7 +1937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (11), hit (4), [[Google]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (11), [[Google]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1), open the (1), scroll up (1)
 > **Definitions:** is a  (1)
@@ -1972,24 +1949,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your prompt engineering journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980)
+#### [Continuing your prompt engineering journey](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=1)** - Thanks for joining me to learn about Gemini.
+> **[0:01](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=1)** - Thanks for joining me to learn about [[Gemini]].
 >
-> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=3)** Google has some great resources on its website to continue your learning and keeping up to date.
+> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=3)** [[Google]] has some great resources on its website to continue your learning and keeping up to date.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=9)** You can also follow me on LinkedIn to stay up to date with gen AI updates.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=9)** You can also follow me on [[LinkedIn]] to stay up to date with gen AI updates.
 >
-> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=14)** You can also watch my other courses, like "Building AI-Powered Apps" or "Getting Hands-on with GPT-4."
+> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=14)** You can also watch my other courses, like "Building AI-Powered Apps" or "Getting Hands-on with [[GPT-4]]."
 >
 > **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=20)** Gen AI is continuing to evolve, so let's keep learning and building.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - thanks (1)
 

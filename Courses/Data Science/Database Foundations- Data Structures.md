@@ -118,20 +118,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing data in a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
+#### [Organizing data in a database](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=0)** - [Adam] The most important part of database development is building a solid framework for housing your valuable data.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=0)** - [Adam] The most important part of [[Database Development]] is building a solid framework for housing your valuable data.
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=7)** Poorly designed data tables can make a database inefficient or worse, it could completely compromise the integrity of your data and make the contents untrustworthy.
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=17)** By learning how to properly structure your data tables, you'll go a long way towards creating a database that protects your data and increases its utility.
 >
-> **[0:26](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=26)** Hi, my name is Adam Wilbert and I've been introducing people to the world of databases for well over a decade.
+> **[0:26](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=26)** Hi, my name is Adam Wilbert and I've been introducing people to the world of [[Databases]] for well over a decade.
 >
-> **[0:33](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=33)** In my second course of the LinkedIn Learning Database Foundation series, we're going to be covering the all-important data table from top to bottom.
+> **[0:33](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=33)** In my second course of the [[LinkedIn]] Learning Database Foundation series, we're going to be covering the all-important data table from top to bottom.
 >
 > **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980&t=42)** If you've ever wondered how to move from a spreadsheet to a relational database, then this is the course for you.
 >
@@ -141,12 +140,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[Database Development]] (1), [[Databases]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Database Development]] (1), [[Databases]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-foundations-data-structures/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,16 +154,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/database-foundations-data-structures/what-you-should-know?u=76281980&t=23)** If you feel comfortable with all of those topics, then you're ready to move forward here.
 >
-> **[0:27](https://www.linkedin.com/learning/database-foundations-data-structures/what-you-should-know?u=76281980&t=27)** If you need a refresher, on the other hand, or if you're looking at starting your journey in relational database development, then I'd suggest beginning with Database Foundation's Intro to Databases first before continuing on here.
+> **[0:27](https://www.linkedin.com/learning/database-foundations-data-structures/what-you-should-know?u=76281980&t=27)** If you need a refresher, on the other hand, or if you're looking at starting your journey in relational [[Database Development]], then I'd suggest beginning with Database Foundation's Intro to [[Databases]] first before continuing on here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), front-end (1), data (1), [[Database Development]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Database Development]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the most of the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980)
+#### [Making the most of the exercise files](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,9 +174,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=21)** Some of these are going to be plain text files that can be opened up in any text editor.
 >
-> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=25)** Other files have the .SQL extension, and they can be opened right inside of the RDBMS graphical interface application that we'll be using, Azure Data Studio.
+> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=25)** Other files have the .[[SQL]] extension, and they can be opened right inside of the RDBMS graphical interface application that we'll be using, [[Microsoft Azure|Azure]] Data Studio.
 >
-> **[0:35](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=35)** Some of these files were written specifically for a SQL server platform, and they'll have -SQLServer at the end of the file name, and other ones were written specifically for POST for SQL, and you'll see that in their name, as well.
+> **[0:35](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=35)** Some of these files were written specifically for a [[Microsoft SQL Server|SQL server]] platform, and they'll have -SQLServer at the end of the file name, and other ones were written specifically for POST for SQL, and you'll see that in their name, as well.
 >
 > **[0:48](https://www.linkedin.com/learning/database-foundations-data-structures/making-the-most-of-the-exercise-files?u=76281980&t=48)** Now if you don't have access to the exercise files, that's all right.
 >
@@ -187,19 +184,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), application (1), [[Microsoft Azure|Azure]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3), rdbms (1), post (1)
 > **Exercise Files:** exercise files (3), download the (1)
 > **CLI Commands:** find (2)
 > **API Endpoints:** post  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the database servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980)
+#### [Set up the database servers](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=0)** - [Instructor] If you followed along with the first course in this series, then you probably have a couple of database servers running in Docker containers and an Azure Data Studio environment that looks something like what I have here on the screen right now.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=0)** - [Instructor] If you followed along with the first course in this series, then you probably have a couple of database servers running in Docker containers and an [[Microsoft Azure|Azure]] Data Studio environment that looks something like what I have here on the screen right now.
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=13)** Now, if you're already at this point, then you can skip this movie and go straight into chapter one.
 >
@@ -211,11 +207,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=33)** So I'll right click on each server and choose Delete Connection and then press yes to the dialog message.
 >
-> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=38)** We'll do that for the Postgres server connection as well as this extra SQL Server connection that I have.
+> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=38)** We'll do that for the [[PostgreSQL|Postgres]] server connection as well as this extra [[Microsoft SQL Server|SQL Server]] connection that I have.
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=45)** Then we're not going to need the red Kinetico server group moving forward, so I'm going to right click on that and delete the group.
 >
-> **[0:52](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=52)** If you wanted to create your own SQL server and PostgreSQL groups, you would press this button that should appear right here, but in the current version of Azure Data Studio, for some reason, this icon is missing but the button is still there.
+> **[0:52](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=52)** If you wanted to create your own SQL server and [[PostgreSQL]] groups, you would press this button that should appear right here, but in the current version of Azure Data Studio, for some reason, this icon is missing but the button is still there.
 >
 > **[1:03](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=63)** Click on that button.
 >
@@ -259,15 +255,15 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=156)** For that, I'm going to go back into that text file and take a look at the commands here.
 >
-> **[2:42](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=162)** Now, there's different commands whether you're running this on a Windows PC or Mac OS.
+> **[2:42](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=162)** Now, there's different commands whether you're running this on a [[Windows]] PC or Mac OS.
 >
-> **[2:46](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=166)** And really the only difference is on Windows you'll use double quotation marks here, whereas on Mac OS or Linux, you'll use a single quotation mark.
+> **[2:46](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=166)** And really the only difference is on Windows you'll use double quotation marks here, whereas on Mac OS or [[Linux]], you'll use a single quotation mark.
 >
 > **[2:54](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=174)** The only other difference that we have here from what you've previously seen is we're using MSSQL_SQ_PASSWORD here to set the password for the SQL Server container.
 >
 > **[3:05](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=185)** Previously, we just used the variable name SA_PASSWORD.
 >
-> **[3:09](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=189)** Microsoft has recently changed this and just renamed it to MSSQL_SA_PASSWORD.
+> **[3:09](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=189)** [[Microsoft]] has recently changed this and just renamed it to MSSQL_SA_PASSWORD.
 >
 > **[3:15](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=195)** SA_PASSWORD is still going to work for the time being, but it's technically been depreciated.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=287)** The server is localhost.
 >
-> **[4:49](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=289)** We'll use the authentication type of SQL login, the username sa, and the password Adam123456 with a capital A.
+> **[4:49](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=289)** We'll use the authentication type of [[SQL]] login, the username sa, and the password Adam123456 with a capital A.
 >
 > **[5:00](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=300)** You might have used a different password when you created your own containers.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=337)** Press the connect button, and that should connect over here and place it over in the connection right there.
 >
-> **[5:43](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=343)** I can expand that and see the databases folder for that connection.
+> **[5:43](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=343)** I can expand that and see the [[Databases]] folder for that connection.
 >
 > **[5:46](https://www.linkedin.com/learning/database-foundations-data-structures/set-up-the-database-servers-19276081?u=76281980&t=346)** All right, let's close this tab, and we'll create one more connection to the PostgreSQL container.
 >
@@ -377,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[PostgreSQL]] (9), data (8), database (7), [[Microsoft Azure|Azure]] (7)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[PostgreSQL]] (9), [[Microsoft Azure|Azure]] (7), [[PostgreSQL|Postgres]] (4), [[Databases]] (4)
 > **CLI Commands:** docker (11), make (3), rm (2), find (1)
 > **Env Vars:** sql (10), sa_password (2), mssql_sa_password (2), mssql_sq_password (1)
 > **UI Navigation:** click on (6), scroll down (1), in the sidebar (1), go to (1)
@@ -386,8 +382,7 @@ created: 2026-05-02
 > **File Paths:** server_setup.txt (1)
 > **Ports:** port 1401 (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980&t=15)** These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the videos.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-data-structures/coderpad-tour?u=76281980&t=30)** Now, the code Challenge screen has three different areas.
 >
@@ -427,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** select (1), max (1)
 > **UI Navigation:** click on (2)
 > **SQL:** select (1)
@@ -439,12 +434,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data integrity concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
+#### [Data integrity concepts](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=0)** - [Instructor] Databases are built to store data.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=0)** - [Instructor] [[Databases]] are built to store data.
 >
 > **[0:02](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=2)** And when you go through all of the trouble of setting up a server and preparing a database, you want to ensure that the data that eventually goes in is trustworthy and that it has integrity.
 >
@@ -452,21 +446,21 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=17)** To me, it means that I can rely on the data being accurate, complete, and consistent.
 >
-> **[0:23](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=23)** With proper database design, we can build in a number of different systems that help maintain a trustworthy data repository.
+> **[0:23](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=23)** With proper [[Database Design]], we can build in a number of different systems that help maintain a trustworthy data repository.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=31)** To do so, we need to approach database design without a well-thought-through plan, a construction blueprint of sorts, and not just start putting pieces together on the fly.
 >
-> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=42)** By planning ahead and taking advantage of the technologies provided by modern relational database management systems, we can build a solid home for our data that protects it from becoming untrustworthy.
+> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=42)** By planning ahead and taking advantage of the technologies provided by modern relational [[Database Management]] systems, we can build a solid home for our data that protects it from becoming untrustworthy.
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=55)** So this is the overarching theme for this course, learning how to build a database that maintains the integrity of your valuable data.
 >
-> **[1:04](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=64)** The data structures that you create to house your data will go a long way to providing these kinds of protections.
+> **[1:04](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=64)** The [[Data Structures]] that you create to house your data will go a long way to providing these kinds of protections.
 >
 > **[1:10](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=70)** Let's take a look at some examples.
 >
 > **[1:13](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=73)** Accuracy describes how close a stored value is to its intended value.
 >
-> **[1:18](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=78)** In an ideal world, these would be exactly the same, but we've all made typos, accidentally misspelled a word, or typed in a number incorrectly.
+> **[1:18](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=78)** In an ideal world, these would be exactly the same, but we've all made typos, accidentally misspelled a [[Microsoft Word|word]], or typed in a number incorrectly.
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=87)** Automated sensors can have bugs or become uncalibrated and start recording incorrect measurements.
 >
@@ -518,24 +512,23 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=265)** Also, you can not store the results of calculations, but instead store the raw input values only, and rerun calculations whenever you need them.
 >
-> **[4:36](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=276)** With this kind of approach to database development, you can address and prevent many of the problems that make a dataset untrustworthy.
+> **[4:36](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=276)** With this kind of approach to [[Database Development]], you can address and prevent many of the problems that make a dataset untrustworthy.
 >
 > **[4:44](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980&t=284)** Databases that are thoughtfully designed are easier to full useful information from, easier to manage, and easier to maintain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (10), [[Databases]] (2), management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Design]] (2), [[Database Management]] (1), [[Data Structures]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### The role of data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980)
+#### [The role of data types](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=0)** - [Instructor] When we begin building databases, one of the first questions we'll need to answer is what kind of data will need to be stored.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=0)** - [Instructor] When we begin building [[Databases]], one of the first questions we'll need to answer is what kind of data will need to be stored.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=8)** Being specific about the type is the first line of defense in protecting the integrity of your data.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=57)** Finally, we come to the data type declarations for each of these columns.
 >
-> **[1:01](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=61)** This is really the only part of the CREATE TABLE command that requires a knowledge of relational database design.
+> **[1:01](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=61)** This is really the only part of the CREATE TABLE command that requires a knowledge of relational [[Database Design]].
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=68)** So let's focus on what all of this means and see how the decisions that you make at this point in the table-creation process can help maintain a trustworthy dataset.
 >
@@ -589,13 +582,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=179)** Choosing a data type that allows you to store just the date is almost certainly the better option here.
 >
-> **[3:05](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=185)** Every relational database management platform includes built-in data types, which can be grouped into a couple of different categories.
+> **[3:05](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=185)** Every relational [[Database Management]] platform includes built-in data types, which can be grouped into a couple of different categories.
 >
 > **[3:13](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=193)** We'll look at the details of each category throughout this chapter.
 >
 > **[3:16](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=196)** As with the other courses in this database foundation series, we're going to be using two different database platforms to explore these concepts.
 >
-> **[3:25](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=205)** SQL Server is a licensed, enterprise, great RDBMS from Microsoft, and PostgreSQL is an open source database platform that's popular in enterprise, academic, and scientific circles.
+> **[3:25](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=205)** [[Microsoft SQL Server|SQL Server]] is a licensed, enterprise, great RDBMS from [[Microsoft]], and [[PostgreSQL]] is an open source database platform that's popular in enterprise, academic, and scientific circles.
 >
 > **[3:38](https://www.linkedin.com/learning/database-foundations-data-structures/the-role-of-data-types?u=76281980&t=218)** Together, they represent two of the most popular platforms in use today.
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (7), product (4), business (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL]] (2), [[Databases]] (1), [[Database Design]] (1), [[Database Management]] (1)
 > **Env Vars:** create (2), table (2), sql (2), rdbms (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (2), just like (1)
@@ -612,14 +605,13 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Warnings:** keep in mind (1)
 
-#### Numeric data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980)
+#### [Numeric data types](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=0)** - [Instructor] The most common type of data stored in a database is almost certainly numeric values.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=6)** Everything from financial data to scientific measurements, to video game scores are recorded as numbers, and relational databases provide many different ways to store these values.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=6)** Everything from [[Financial Data]] to scientific measurements, to video game scores are recorded as numbers, and [[Relational Databases]] provide many different ways to store these values.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=18)** Now at first you might be thinking that numbers are numbers.
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=101)** In fact, each step up in a datatype scale represents an incremental step in the amount of storage required to accommodate all of those possible values.
 >
-> **[1:51](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=111)** In database design, everything is eventually dictated by the fundamentals of computing, and choosing the smallest datatype that will accommodate your needs will keep your file sizes down and access speeds up.
+> **[1:51](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=111)** In [[Database Design]], everything is eventually dictated by the fundamentals of computing, and choosing the smallest datatype that will accommodate your needs will keep your file sizes down and access speeds up.
 >
 > **[2:04](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=124)** If the range of numbers that you need to store will exceed those available in the smallint datatype, then you can move up to the standard four byte integer.
 >
@@ -707,33 +699,32 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=305)** Generally, you're going to stick with the exact integer or exact decimal datatypes for all of your number of storage needs.
 >
-> **[5:12](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=312)** While all relational database management platforms accept these datatypes, they may sometimes go by different names depending on the platform.
+> **[5:12](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=312)** While all relational [[Database Management]] platforms accept these datatypes, they may sometimes go by different names depending on the platform.
 >
 > **[5:21](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=321)** Some platforms even allow you to call the datatype by alternate names.
 >
 > **[5:26](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=326)** I've listed out the preferred names for each of the platforms that we'll work with in this course, and the alternate names in parentheses.
 >
-> **[5:33](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=333)** For instance, SQL server prefers the int datatype, but you can also create a table using the integer datatype, spelled out, as an acceptable alternative, and the database engine will understand that these are the same thing.
+> **[5:33](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=333)** For instance, [[Microsoft SQL Server|SQL server]] prefers the int datatype, but you can also create a table using the integer datatype, spelled out, as an acceptable alternative, and the database engine will understand that these are the same thing.
 >
 > **[5:46](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=346)** The PostgresSQL platform, on the other hand, prefers the term integer, but will also accept int or int4 as alternative names.
 >
 > **[5:55](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=355)** On SQL Server, you would typically use the decimal datatype, but could also specify numeric.
 >
-> **[6:02](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=362)** On PostgreSQL, you would normally do the opposite, with numeric being the preferred standard, but decimal is also acceptable.
+> **[6:02](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=362)** On [[PostgreSQL]], you would normally do the opposite, with numeric being the preferred standard, but decimal is also acceptable.
 >
 > **[6:10](https://www.linkedin.com/learning/database-foundations-data-structures/numeric-data-types?u=76281980&t=370)** So here and there you'll find slight differences in how each platform handles numeric data, but the fundamentals of how they work and the values that they'll store will be exactly the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (7), [[Relational Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Financial Data]] (1), [[Database Design]] (1), [[Database Management]] (1)
 > **Env Vars:** rdbms (2), sql (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Character data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980)
+#### [Character data types](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,9 +738,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=25)** In order to play longer words, you'll need more tiles.
 >
-> **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=28)** To play a shorter word, you'll need fewer tiles.
+> **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=28)** To play a shorter [[Microsoft Word|word]], you'll need fewer tiles.
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=32)** To store text in the database, the SQL standard defines two main data types, fixed length and variable length, and each of these are configurable to meet your needs.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=32)** To store text in the database, the [[SQL]] standard defines two main data types, fixed length and variable length, and each of these are configurable to meet your needs.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=43)** Char is a fixed length data type that'll store exactly the number of characters that you specify by replacing the letter N with your number in the parentheses.
 >
@@ -781,9 +772,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=143)** Columns that store things like a 16 character serial number, or a two letter state abbreviation, where you know for certain that every value in the column will have the same number of characters are good candidates for the fixed length data type char.
 >
-> **[2:39](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=159)** Some database management platforms, like SQL Server, will see a performance increase when using the char data type over varchar.
+> **[2:39](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=159)** Some [[Database Management]] platforms, like [[Microsoft SQL Server|SQL Server]], will see a performance increase when using the char data type over varchar.
 >
-> **[2:47](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=167)** Others, like PostgreSQL, will have no such performance benefit, so it's best to just choose based off of your data.
+> **[2:47](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=167)** Others, like [[PostgreSQL]], will have no such performance benefit, so it's best to just choose based off of your data.
 >
 > **[2:54](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=174)** If it's variable in nature, then use varchar, if it's not, then use char.
 >
@@ -831,11 +822,11 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=320)** The specific character sets used by char and varchar depend on the correlation settings of the database.
 >
-> **[5:26](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=326)** For databases that need to support multiple languages, say a mix of Arabic, Latin and Japanese characters, then you'll need to switch to the nchar and nvarchar variations.
+> **[5:26](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=326)** For [[Databases]] that need to support multiple languages, say a mix of Arabic, Latin and Japanese characters, then you'll need to switch to the nchar and nvarchar variations.
 >
 > **[5:38](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=338)** The letter N prefix in these names stands for the word national and this provides support for the full set of Unicode characters in the same data column.
 >
-> **[5:48](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=348)** Databases built on the PostgreSQL platform though, support Unicode with the standard char and varchar, so there's really no equivalent of this in Postgres.
+> **[5:48](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=348)** Databases built on the PostgreSQL platform though, support Unicode with the standard char and varchar, so there's really no equivalent of this in [[PostgreSQL|Postgres]].
 >
 > **[5:58](https://www.linkedin.com/learning/database-foundations-data-structures/character-data-types?u=76281980&t=358)** Finally, when we talk about text characters, we're not limiting ourselves to just letters.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), database (8), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (4), game (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (4), [[Microsoft Word|Word]] (2), [[Databases]] (2), [[SQL]] (1)
 > **Env Vars:** sql (5), rdbms (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -858,12 +849,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date and time data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980)
+#### [Date and time data types](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=0)** - [Instructor] Dates and times are another common type of data that you'll need to store in your relational databases, and the SQL language provides a number of different options, depending on the granularity that you require.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=0)** - [Instructor] Dates and times are another common type of data that you'll need to store in your [[Relational Databases]], and the [[SQL]] language provides a number of different options, depending on the granularity that you require.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=12)** You have the option of only storing a date without a time component, or just a time with no date component.
 >
@@ -873,9 +863,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=31)** For this, different RDBMS platforms will use a variety of different datatype names.
 >
-> **[0:36](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=36)** On PostgreSQL, you'll either use the timestamp or timestamp with time zone datatypes, depending on whether or not you want to include the time zone information as well.
+> **[0:36](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=36)** On [[PostgreSQL]], you'll either use the timestamp or timestamp with time zone datatypes, depending on whether or not you want to include the time zone information as well.
 >
-> **[0:48](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=48)** On SQL Server, the same values will be stored in columns with the datetime2, or datetimeoffset datatypes.
+> **[0:48](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=48)** On [[Microsoft SQL Server|SQL Server]], the same values will be stored in columns with the datetime2, or datetimeoffset datatypes.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=56)** There are additional options on each of these datatypes that allow you to customize the precision.
 >
@@ -883,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=84)** So, let's take a look at that on our database servers.
 >
-> **[1:28](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=88)** In Azure Data Studio, I'm going to select the two trees database that's in the SQL Server instance.
+> **[1:28](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=88)** In [[Microsoft Azure|Azure]] Data Studio, I'm going to select the two trees database that's in the SQL Server instance.
 >
 > **[1:34](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=94)** And then we'll come up to the file menu and choose open file.
 >
@@ -931,7 +921,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=193)** When entering in data, you're going to want to make sure that your dates and times get wrapped inside of single quotation marks.
 >
-> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=199)** The default value for dates follows the ISO standard of a four-digit year, a hyphen, a two-digit month, another hyphen and a two-digit day, but most database systems will also understand other formats, such as this one here that uses the abbreviation for January.
+> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=199)** The default value for dates follows the ISO standard of a four-digit year, a hyphen, a two-digit month, another hyphen and a two-digit day, but most [[Database Systems]] will also understand other formats, such as this one here that uses the abbreviation for January.
 >
 > **[3:37](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=217)** Depending on your computer's region settings, things can get a little bit confusing when using just numbers.
 >
@@ -959,7 +949,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=301)** Let's take a look at the PostgreSQL database now.
 >
-> **[5:04](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=304)** I'm going to select the two trees database in the PostgreS Server, and then come up to file and choose open file again.
+> **[5:04](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=304)** I'm going to select the two trees database in the [[PostgreSQL|PostgreS]] Server, and then come up to file and choose open file again.
 >
 > **[5:10](https://www.linkedin.com/learning/database-foundations-data-structures/date-and-time-data-types?u=76281980&t=310)** This time I'll choose date, time PostgreSQL, and press open.
 >
@@ -995,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), database (9), [[PostgreSQL]] (7), data (6), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[PostgreSQL]] (7), [[Relational Databases]] (1), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (13), rdbms (2), utc (1), iso (1)
 > **UI Navigation:** select the (2), scroll down (2)
 > **Analogies:** for instance (2), such as (1), just like (1)
@@ -1004,8 +994,7 @@ created: 2026-05-02
 > **Ports:** :25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional common types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980)
+#### [Additional common types](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,9 +1010,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=25)** This kind of data is often represented in user interfaces as a checkbox or a radio button where the value is either selected or not selected.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=34)** In PostgreSQL, you would use the Boolean data type for this.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=34)** In [[PostgreSQL]], you would use the Boolean data type for this.
 >
-> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=38)** But in SQL Server, it's called a bit data type.
+> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=38)** But in [[Microsoft SQL Server|SQL Server]], it's called a bit data type.
 >
 > **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=42)** When you want to store currency values, you'll add a money column to your tables.
 >
@@ -1047,9 +1036,9 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=116)** In PostgreSQL, this type of data uses the bytea type and in SQL Server, you would use the varbinary(max) data type.
 >
-> **[2:05](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=125)** Relational databases can also store information about geometry.
+> **[2:05](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=125)** [[Relational Databases]] can also store information about geometry.
 >
-> **[2:10](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=130)** Postgres supports separate data types for storing (x,y) coordinate pairs as points, lines, or polygons.
+> **[2:10](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=130)** [[PostgreSQL|Postgres]] supports separate data types for storing (x,y) coordinate pairs as points, lines, or polygons.
 >
 > **[2:18](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=138)** SQL Server bundles all of these together into a single geometry data type.
 >
@@ -1059,7 +1048,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=158)** And it's one of the ways that they try and differentiate their product from other servers on the market.
 >
-> **[2:44](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=164)** On the SQL Server side, Microsoft supports a type called tinyint.
+> **[2:44](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=164)** On the SQL Server side, [[Microsoft]] supports a type called tinyint.
 >
 > **[2:49](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=169)** This is an integer data type, but it has a very small range of numbers that you can store with it, only the numbers between 0 and 255.
 >
@@ -1085,7 +1074,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=236)** To store these kinds of values in SQL Server, you'd have to choose a standard character data type.
 >
-> **[4:01](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=241)** PostgreSQL has a data type specifically designed for storing JSON data files, which are commonly used on the web.
+> **[4:01](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=241)** PostgreSQL has a data type specifically designed for storing [[JSON]] data files, which are commonly used on the web.
 >
 > **[4:08](https://www.linkedin.com/learning/database-foundations-data-structures/additional-common-types?u=76281980&t=248)** SQL Server developers don't have an equivalent and you would need to use the more generic varchar(max) data type to do the same job.
 >
@@ -1115,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Microsoft SQL Server|Sql server]] (11), [[PostgreSQL]] (10), database (4), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[PostgreSQL]] (10), [[PostgreSQL|Postgres]] (2), [[Relational Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (11), rdbms (4), gps (1), cidr (1), json (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **UI Navigation:** checkbox (1), scroll down (1)
@@ -1124,8 +1113,7 @@ created: 2026-05-02
 > **Documentation:** reference guide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choosing data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980)
+#### [Challenge: Choosing data types](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980&t=17)** I'd like you to create a table in the Two Trees database to hold information about the company's employees.
 >
-> **[0:24](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980&t=24)** You'll need separate columns to store the following information, the employees first and last names, phone number, the cubicle or office number that they're assigned to, their hire date, and their annual salary.
+> **[0:24](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980&t=24)** You'll need separate columns to store the following information, the employees first and last names, phone number, the cubicle or [[Microsoft Office|office]] number that they're assigned to, their hire date, and their annual salary.
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-choosing-data-types?u=76281980&t=38)** Your goal is to think through the kinds of information that needs to be stored and choose an appropriate data type for each column.
 >
@@ -1153,13 +1141,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Choosing data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980)
+#### [Solution: Choosing data types](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=12)** Now, I didn't specify which server to perform this exercise on.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=16)** So you could have either chosen SQL Server or PostgreSQL.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=16)** So you could have either chosen [[Microsoft SQL Server|SQL Server]] or [[PostgreSQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=20)** I'm going to start this on PostgreSQL and we'll use the syntax conventions for that database platform.
 >
@@ -1229,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=136)** And for this, we'll do that as character again.
 >
-> **[2:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=139)** And for this, let's say that my office building uses three-digit numbers for the office numbers.
+> **[2:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=139)** And for this, let's say that my [[Microsoft Office|office]] building uses three-digit numbers for the office numbers.
 >
 > **[2:25](https://www.linkedin.com/learning/database-foundations-data-structures/solution-choosing-data-types?u=76281980&t=145)** So I could store this as a character three.
 >
@@ -1389,7 +1376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft SQL Server|Sql server]] (12), [[PostgreSQL]] (7), database (6), next (5)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[PostgreSQL]] (7), [[Microsoft Office|Office]] (3)
 > **Env Vars:** sql (12), table (2), create (1), values (1), insert (1)
 > **Code Identifiers:** first_name (3), phone_number (3), hire_date (3), annual_salary (3), office_number (2)
 > **CLI Commands:** make (3)
@@ -1398,8 +1385,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 
-#### Solution: Store data in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980)
+#### [Solution: Store data in a table](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,11 +1441,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=141)** So we can store the number of attendees for each venue as a small integer.
 >
-> **[2:26](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=146)** Now if you're on the SQL Server platform, there is another data type you could use called tinyint, and that would store numbers between zero and 255.
+> **[2:26](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=146)** Now if you're on the [[Microsoft SQL Server|SQL Server]] platform, there is another data type you could use called tinyint, and that would store numbers between zero and 255.
 >
 > **[2:38](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=158)** So that would be enough room to store the up to 250 people that each of these venues will allow.
 >
-> **[2:44](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=164)** But unfortunately that is different between SQL Server and the ANSI SQL Standard that we're using here in this challenge.
+> **[2:44](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=164)** But unfortunately that is different between SQL Server and the ANSI [[SQL]] Standard that we're using here in this challenge.
 >
 > **[2:51](https://www.linkedin.com/learning/database-foundations-data-structures/solution-store-data-in-a-table?u=76281980&t=171)** In ANSI SQL, the tinyint will store numbers between negative 128 up to positive 127.
 >
@@ -1513,7 +1499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (5), next (3), [[Microsoft SQL Server|Sql server]] (3), database (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (8), ansi (5), create (2), table (2)
 > **SQL:** create table (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1526,18 +1512,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect data integrity with normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
+#### [Protect data integrity with normalization](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=0)** - [Instructor] You won't get very far on the path of database development before you run across the term, database normalization.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=0)** - [Instructor] You won't get very far on the path of [[Database Development]] before you run across the term, database normalization.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=8)** Normalization is the process of removing redundancy from a database.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=12)** At the dawn of the computer sciences, the cost of storing data was far greater than it is today, so efficiencies were developed in order to maintain data in the least amount of space possible.
 >
-> **[0:24](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=24)** This led to the development of normalization rules, or what's referred to as normal forms.
+> **[0:24](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=24)** This led to the development of normalization rules, or what's referred to as normal [[Forms]].
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=31)** While the cost of storing and accessing data in a database have decreased dramatically in the past decades, the efficiencies of normalizing your tabular data are still important due to the sheer volume of data that's collected today.
 >
@@ -1547,13 +1532,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=60)** For instance, if a single customer can have multiple credit cards saved for an online store, or if a single product can have multiple suppliers.
 >
-> **[1:09](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=69)** Once you've gotten a clear picture for your data storage needs, the next step involves moving attributes or columns into separate tables.
+> **[1:09](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=69)** Once you've gotten a clear picture for your [[Data Storage]] needs, the next step involves moving attributes or columns into separate tables.
 >
 > **[1:17](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=77)** This process effectively takes a single wide table with many columns and breaks it down into multiple narrower tables with a few columns in each.
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=87)** At their core, the normalization guidelines provide the foundation for how the entire relational database model works.
 >
-> **[1:35](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=95)** Whenever you're thinking about how to divide your data into multiple tables, you'll return to the normal forms and use them as a guide for the best way to create your data structures.
+> **[1:35](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=95)** Whenever you're thinking about how to divide your data into multiple tables, you'll return to the normal forms and use them as a guide for the best way to create your [[Data Structures]].
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=105)** Their main purpose is to isolate information in a single place in the database, so that additions, modifications or deletions can be made in a single location.
 >
@@ -1565,7 +1550,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=140)** So what are these guidelines, or normal forms?
 >
-> **[2:23](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=143)** For most database applications, understanding and applying the first three normal forms to your data tables is sufficient for a well-organized system.
+> **[2:23](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=143)** For most [[Database Applications]], understanding and applying the first three normal forms to your data tables is sufficient for a well-organized system.
 >
 > **[2:33](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980&t=153)** In order to meet the requirements of the first normal form, or what's called 1NF, we'll need to eliminate repeating columns or groups of data.
 >
@@ -1595,15 +1580,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (9), [[Forms]] (6), next (3), [[Database Applications]] (2)
+> **Frameworks & Libraries:** [[Forms]] (6), [[Database Applications]] (2), [[Database Development]] (1), [[Data Storage]] (1), [[Data Structures]] (1)
 > **Analogies:** for instance (1), picture (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### First normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/first-normal-form?u=76281980)
+#### [First normal form](https://www.linkedin.com/learning/database-foundations-data-structures/first-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1669,12 +1653,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4)
 > **CLI Commands:** make (2), cat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Second normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/second-normal-form?u=76281980)
+#### [Second normal form](https://www.linkedin.com/learning/database-foundations-data-structures/second-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,14 +1720,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2), functional (1)
 > **CLI Commands:** find (8), make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Third normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/third-normal-form?u=76281980)
+#### [Third normal form](https://www.linkedin.com/learning/database-foundations-data-structures/third-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,16 +1785,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Denormalization considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980)
+#### [Denormalization considerations](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=0)** - [Instructor] The rules of good database design outlined as the three normal forms should be treated as guidelines that'll help you arrive at a solid foundation for your data tables.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=0)** - [Instructor] The rules of good [[Database Design]] outlined as the three normal [[Forms]] should be treated as guidelines that'll help you arrive at a solid foundation for your data tables.
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=10)** But they're not something that needs to be strictly adhered to in all circumstances.
 >
@@ -1856,11 +1834,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=137)** Denormalizing the table design back into a single table is probably the best option here.
 >
-> **[2:23](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=143)** Most relational databases are built following a normalized design pattern.
+> **[2:23](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=143)** Most [[Relational Databases]] are built following a normalized design pattern.
 >
 > **[2:28](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=148)** They're called OLTP systems, which stands for Online Transaction Processing.
 >
-> **[2:34](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=154)** These databases form the foundation of any system that needs to quickly store information.
+> **[2:34](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=154)** These [[Databases]] form the foundation of any system that needs to quickly store information.
 >
 > **[2:40](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=160)** For instance, an online storefront that's primarily concerned with allowing customers to put items into their shopping cart and quickly process their payment information needs to get that information stored into the database as quickly as possible.
 >
@@ -1880,13 +1858,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=219)** Then they convert those tables into an OLAP format later for creating detailed analysis reports and summaries.
 >
-> **[3:47](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=227)** By taking different approaches to the design of your data structures, you can create databases that are built to prioritize different types of usage patterns.
+> **[3:47](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=227)** By taking different approaches to the design of your [[Data Structures]], you can create databases that are built to prioritize different types of usage patterns.
 >
 > **[3:57](https://www.linkedin.com/learning/database-foundations-data-structures/denormalization-considerations?u=76281980&t=237)** Sometimes emphasizing transaction speed by reducing redundancy and using more table relationships, and other times prioritizing analysis performance by increasing redundancy in limiting the number of tables that need to be joined.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (6), [[Databases]] (5), [[Forms]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Database Design]] (2), [[Forms]] (2), [[Relational Databases]] (1), [[Data Structures]] (1)
 > **Env Vars:** olap (4), oltp (2), usa (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** stands for (2), is called (1)
@@ -1894,8 +1872,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Normalize a data table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-normalize-a-data-table?u=76281980)
+#### [Solution: Normalize a data table](https://www.linkedin.com/learning/database-foundations-data-structures/solution-normalize-a-data-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,7 +2000,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (5)
 > **Definitions:** is a  (5), is called (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2034,12 +2010,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose of a primary key
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
+#### [Purpose of a primary key](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=0)** - [Instructor] We've touched on the topic of primary key fields a couple of times now, and they're vitally important when creating a properly normalized database design.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=0)** - [Instructor] We've touched on the topic of primary key fields a couple of times now, and they're vitally important when creating a properly normalized [[Database Design]].
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=10)** They're the glue that holds all of your data together when it's spread out across related tables.
 >
@@ -2049,13 +2024,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=23)** The spreadsheet has built in column letters and row numbers so that I can refer specifically to whatever value is stored in cell A1, or make a reference to the value that's in cell D8.
 >
-> **[0:36](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=36)** Relational databases don't use these same row and column identifiers, so we need a slightly different approach.
+> **[0:36](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=36)** [[Relational Databases]] don't use these same row and column identifiers, so we need a slightly different approach.
 >
 > **[0:44](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=44)** In a relational database table, each column has a unique name, so that part is already taken care of, but the rows of data can appear in any order.
 >
 > **[0:54](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=54)** They can get filtered out of the results using SELECT queries or sorted into different sequences with an ORDER BY clause.
 >
-> **[1:02](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=62)** There is no row identifier built into the interface of a relational database management system like we have with a normal spreadsheet application, so we need to include one within the data itself.
+> **[1:02](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=62)** There is no row identifier built into the interface of a relational [[Database Management]] system like we have with a normal spreadsheet application, so we need to include one within the data itself.
 >
 > **[1:15](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=75)** This means that there needs to be some piece of information that I can give the system and have it return one very specific record or row from the data table.
 >
@@ -2069,7 +2044,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=125)** Both of these people have the same age, but I need to update one of them.
 >
-> **[2:10](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=130)** In a spreadsheet, you would just click on the cell that you want and make the change, but in a relational database, we need to use the SQL language to edit the value.
+> **[2:10](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=130)** In a spreadsheet, you would just click on the cell that you want and make the change, but in a relational database, we need to use the [[SQL]] language to edit the value.
 >
 > **[2:20](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980&t=140)** So I start to write out the command, UPDATE People SET Age = 33 WHERE, and this is where I run into an issue.
 >
@@ -2103,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (7), application (2), [[Relational Databases]] (1), management (1)
+> **Frameworks & Libraries:** [[Database Design]] (1), [[Relational Databases]] (1), [[Database Management]] (1), [[SQL]] (1)
 > **Env Vars:** select (2), order (1), sql (1), update (1), set (1)
 > **SQL:** select (2), order by (1), update (1), where (1)
 > **CLI Commands:** make (3)
@@ -2111,16 +2086,15 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish the table's primary key
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980)
+#### [Establish the table's primary key](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=0)** - [Instructor] There are several ways to establish a table's primary key using SQL commands.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=0)** - [Instructor] There are several ways to establish a table's primary key using [[SQL]] commands.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=6)** I currently have the file called PrimaryKey-SQLServer from the chapter three folder here opened up on my Azure Data Studio instance.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=6)** I currently have the file called PrimaryKey-SQLServer from the chapter three folder here opened up on my [[Microsoft Azure|Azure]] Data Studio instance.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=14)** If you're following along, make sure that you have the TwoTrees database in the SQL Server container selected before you open this file.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=14)** If you're following along, make sure that you have the TwoTrees database in the [[Microsoft SQL Server|SQL Server]] container selected before you open this file.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=22)** And then double-check that the connection type says TwoTrees here in this dropdown menu.
 >
@@ -2168,7 +2142,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=128)** Because we didn't specify otherwise, the key got a name with this unique serial number appended to it.
 >
-> **[2:14](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=134)** Now, the exact same commands that we just ran will also work on PostgreSQL in order to create the table and the primary key.
+> **[2:14](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=134)** Now, the exact same commands that we just ran will also work on [[PostgreSQL]] in order to create the table and the primary key.
 >
 > **[2:21](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=141)** But the display here in Azure Data Studio will be a little bit different.
 >
@@ -2198,7 +2172,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=194)** At the end of the whole thing, I make sure that I type in a comma here at the last column.
 >
-> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=199)** And then we have the key word, constraint.
+> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=199)** And then we have the key [[Microsoft Word|word]], constraint.
 >
 > **[3:21](https://www.linkedin.com/learning/database-foundations-data-structures/establish-the-table-s-primary-key?u=76281980&t=201)** This method allows us to name the constraint rather than getting an auto-assigned generic name for it.
 >
@@ -2298,7 +2272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), fv418 (3), dbo (1), wr421 (1)
 > **CLI Commands:** make (4), find (4)
 > **UI Navigation:** in the sidebar (3), scroll down (2), dropdown (1), right-click (1)
@@ -2307,8 +2281,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Natural keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980)
+#### [Natural keys](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2338,7 +2311,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980&t=83)** If not, then it's a good candidate for serving as the table's natural primary key.
 >
-> **[1:29](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980&t=89)** You have to be careful with this question though, in a small office, you might think that you can get away with having employee names be the unique identifier, but it's not uncommon for two people to share the same name and you never know who's going to be hired next week.
+> **[1:29](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980&t=89)** You have to be careful with this question though, in a small [[Microsoft Office|office]], you might think that you can get away with having employee names be the unique identifier, but it's not uncommon for two people to share the same name and you never know who's going to be hired next week.
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-data-structures/natural-keys?u=76281980&t=105)** It's also not unheard of for two employees to have the same birthday.
 >
@@ -2354,14 +2327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (2), [[Microsoft Office|Office]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Composite keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980)
+#### [Composite keys](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,9 +2349,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=34)** By establishing a composite key, that involves the check-in date and room number columns, we can guarantee that we don't double book a room.
 >
-> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=42)** Let's experiment with how that works by mocking it up in Azure Data Studio.
+> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=42)** Let's experiment with how that works by mocking it up in [[Microsoft Azure|Azure]] Data Studio.
 >
-> **[0:48](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=48)** I'm going to right-click on my twotrees database in the SQL Server instance and open up a new query window.
+> **[0:48](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=48)** I'm going to right-click on my twotrees database in the [[Microsoft SQL Server|SQL Server]] instance and open up a new query window.
 >
 > **[0:54](https://www.linkedin.com/learning/database-foundations-data-structures/composite-keys?u=76281980&t=54)** Let's first create a table to hold some hotel room booking information.
 >
@@ -2473,7 +2445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (5), next (2), [[Microsoft Azure|Azure]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** sql (1), drop (1), table (1)
 > **SQL:** drop table (1)
@@ -2481,8 +2453,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surrogate keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980)
+#### [Surrogate keys](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2508,9 +2479,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=64)** Your library card number, credit card number, driver's license number, all of these are just surrogate keys that were made up by some organization or government as an easy way to be able to uniquely identify you and your accounts.
 >
-> **[1:20](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=80)** In fact, surrogate keys are so common that most database management systems provide ways to create and assign them automatically.
+> **[1:20](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=80)** In fact, surrogate keys are so common that most [[Database Management]] systems provide ways to create and assign them automatically.
 >
-> **[1:28](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=88)** I want you to open up a new query window for my PostgreSQL, two trees database.
+> **[1:28](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=88)** I want you to open up a new query window for my [[PostgreSQL]], two trees database.
 >
 > **[1:33](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=93)** Then I can create a simple table that'll store information about different types of fruit.
 >
@@ -2546,7 +2517,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=201)** It started with the first row at number 100 and each successive row was incremented by 10.
 >
-> **[3:27](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=207)** SQL Server uses a very similar syntax, although it's a bit more concise.
+> **[3:27](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=207)** [[Microsoft SQL Server|SQL Server]] uses a very similar syntax, although it's a bit more concise.
 >
 > **[3:31](https://www.linkedin.com/learning/database-foundations-data-structures/surrogate-keys?u=76281980&t=211)** Let me scroll up to the top and I'm going to copy all of this to my clipboard, and then we'll start up a new query window inside of my SQL Server database.
 >
@@ -2570,15 +2541,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (4), [[PostgreSQL]] (4), [[Microsoft SQL Server|Sql server]] (4), management (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (4), [[Microsoft SQL Server|Sql server]] (4), [[Database Management]] (1)
 > **Env Vars:** sql (4), rdbms (2)
 > **UI Navigation:** scroll up (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a primary key to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980)
+#### [Challenge: Add a primary key to a table](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2590,7 +2560,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980&t=24)** Make use of the RDBMS IDENTITY functionality to automatically create and assign numbers to each employee.
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980&t=32)** To complete this challenge, you'll need to recall the SQL command for adding additional columns to an existing table.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980&t=32)** To complete this challenge, you'll need to recall the [[SQL]] command for adding additional columns to an existing table.
 >
 > **[0:39](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-a-primary-key-to-a-table?u=76281980&t=39)** We went over it in the previous course, but it may have been a while since you've last used it.
 >
@@ -2611,8 +2581,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add a primary key to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980)
+#### [Solution: Add a primary key to a table](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2620,9 +2589,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=12)** Let's walk through the solution together.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=14)** I'm going to start by taking a look inside of my TwoTrees database that I have on the SQL server instance.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=14)** I'm going to start by taking a look inside of my TwoTrees database that I have on the [[Microsoft SQL Server|SQL server]] instance.
 >
-> **[0:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=19)** You can do the same thing in the Postgre SQL database if you want it to.
+> **[0:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=19)** You can do the same thing in the Postgre [[SQL]] database if you want it to.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=22)** Some expand the tables folder.
 >
@@ -2634,7 +2603,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=40)** And so this is our starting point.
 >
-> **[0:41](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=41)** So we have first name, last name, phone number, office number, hire date, and the annual salary.
+> **[0:41](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=41)** So we have first name, last name, phone number, [[Microsoft Office|office]] number, hire date, and the annual salary.
 >
 > **[0:47](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=47)** Now, none of these columns are likely to be unique in a large table.
 >
@@ -2752,11 +2721,11 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=299)** And so that's how you would do this inside of SQL server.
 >
-> **[5:03](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=303)** The only difference if you are running this in PostgreSQL, is with the identity specification up here, instead of just saying identity 1000 comma one you would need to say generated, always has identity.
+> **[5:03](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=303)** The only difference if you are running this in [[PostgreSQL]], is with the identity specification up here, instead of just saying identity 1000 comma one you would need to say generated, always has identity.
 >
 > **[5:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=319)** And then inside of parentheses start with 1000, and then increment by one.
 >
-> **[5:27](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=327)** There's a little bit longer and Postgres SQL but this does exactly the same thing as the command identity.
+> **[5:27](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=327)** There's a little bit longer and [[PostgreSQL|Postgres]] SQL but this does exactly the same thing as the command identity.
 >
 > **[5:33](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-a-primary-key-to-a-table?u=76281980&t=333)** 1000 comma one, in SQL server.
 >
@@ -2770,7 +2739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (3), [[SQL]] (2), [[Microsoft Office|Office]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[SQL]] (2), [[Microsoft Office|Office]] (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (4)
 > **File Paths:** challengetwo-complete.txt (1)
@@ -2779,14 +2748,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Alter a table's design
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980)
+#### [Solution: Alter a table's design](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=0)** (upbeat bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=5)** - [Instructor] In this challenge, we're given a table that maintains a record of creative projects at a graphic design agency.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=5)** - [Instructor] In this challenge, we're given a table that maintains a record of creative projects at a [[Graphic Design]] agency.
 >
 > **[0:11](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=11)** But this table has a fatal flaw and it's that it doesn't have a primary key.
 >
@@ -2826,7 +2794,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=101)** Now, this is going to use the automatic key generation.
 >
-> **[1:46](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=106)** It's going to create a new key value that is an integer using the ANSI SQL standard.
+> **[1:46](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=106)** It's going to create a new key value that is an integer using the ANSI [[SQL]] standard.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-data-structures/solution-alter-a-table-s-design?u=76281980&t=112)** So we'll say ADD ProjectID, it's going to store an integer value.
 >
@@ -2952,7 +2920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Graphic Design]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[SQL]] (1)
 > **Env Vars:** projectname (2), clientname (2), alter (2), table (2), contactemail (1)
 > **SQL:** alter table (2), primary key (1), select (1)
 > **URLs:** [kinetico.com](https://kinetico.com) (1)
@@ -2966,8 +2934,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are foreign keys?
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
+#### [What are foreign keys?](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2981,7 +2948,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980&t=23)** These three tables were given a unique primary key column to identify every row in each of these tables.
 >
-> **[0:30](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980&t=30)** Now, in order to relate information together, we added two additional columns to the databases structure, one column in and the owners table that points to the related address information for each person, and we also had a column in the pets table that points to the related owner information for each pet.
+> **[0:30](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980&t=30)** Now, in order to relate information together, we added two additional columns to the [[Databases]] structure, one column in and the owners table that points to the related address information for each person, and we also had a column in the pets table that points to the related owner information for each pet.
 >
 > **[0:49](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980&t=49)** These columns are the foreign keys, and they're used to connect related rows back together again.
 >
@@ -3003,13 +2970,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a foreign key column to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980)
+#### [Add a foreign key column to a table](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3017,9 +2983,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=8)** Previously, we created a table for the TwoTrees customers Now we want to add a new table that will store order information that relates to those customers.
 >
-> **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=18)** I'm going to select the TwoTrees database in my SQL server instance and then come up to the file menu and choose open file.
+> **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=18)** I'm going to select the TwoTrees database in my [[Microsoft SQL Server|SQL server]] instance and then come up to the file menu and choose open file.
 >
-> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=25)** Then inside of the exercise files, chapter four folder, we're going to find a file called foreignkey.sql.
+> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=25)** Then inside of the exercise files, chapter four folder, we're going to find a file called foreignkey.[[SQL]].
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=31)** Let's go ahead and open that up.
 >
@@ -3047,7 +3013,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=85)** It'll also use the identity function in order to create new numbers that started a hundred and are incremented by one for every new row that's added to this table.
 >
-> **[1:35](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=95)** Now, again, if you're using PostgreSQL, you want to scroll over here to the right and use this syntax instead, generated always as identity start with 100 increment by one.
+> **[1:35](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=95)** Now, again, if you're using [[PostgreSQL]], you want to scroll over here to the right and use this syntax instead, generated always as identity start with 100 increment by one.
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-data-structures/add-a-foreign-key-column-to-a-table?u=76281980&t=105)** All right, let's go back here to the left.
 >
@@ -3119,7 +3085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), database (1), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Code Identifiers:** customer_id (5), order_date (2), order_id (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (1), fv418 (1), rdbms (1)
@@ -3128,8 +3094,7 @@ created: 2026-05-02
 > **File Paths:** foreignkey.sql (1)
 > **Versions:** 128.76 (1)
 
-#### Create a relationship between tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980)
+#### [Create a relationship between tables](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3137,13 +3102,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=5)** Now, we need to tell the RDBMS about the link between our orders and customers tables so that it can enforce the connection between rows.
 >
-> **[0:15](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=15)** Make sure that you have the two trees database selected in the SQL server instance, and then come up to file and open file.
+> **[0:15](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=15)** Make sure that you have the two trees database selected in the [[Microsoft SQL Server|SQL server]] instance, and then come up to file and open file.
 >
-> **[0:21](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=21)** In the chapter four folder, find the relationship dot SQL file and open it up.
+> **[0:21](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=21)** In the chapter four folder, find the relationship dot [[SQL]] file and open it up.
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=27)** Now, before we go on, you might have a number of red underlines that are appearing throughout this script.
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=32)** As your data studio keeps track of the object names that you've used in your databases so that it can help you write commands, but it sometimes needs to be manually updated.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=32)** As your data studio keeps track of the object names that you've used in your [[Databases]] so that it can help you write commands, but it sometimes needs to be manually updated.
 >
 > **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/create-a-relationship-between-tables?u=76281980&t=42)** Right click anywhere here on the main portion of the screen and choose command pallet from the pop-up menu.
 >
@@ -3275,7 +3240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (6), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** df399 (4), rdbms (2), sql (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (2)
@@ -3283,8 +3248,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### IDENTITY column sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980)
+#### [IDENTITY column sequences](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3312,20 +3276,19 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980&t=68)** So when you add a row and then delete the row, that identity value is also removed, and the database server will not use that number again.
 >
-> **[1:18](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980&t=78)** That's why you'll find gaps in the sequences like this, but rest assured there are no missing rows and everything is still functioning as it should.
+> **[1:18](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980&t=78)** That's why you'll find gaps in the sequences like this, but [[Representational State Transfer (REST)|rest]] assured there are no missing rows and everything is still functioning as it should.
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-data-structures/identity-column-sequences?u=76281980&t=87)** The only problem is that we, as human beings, like to find patterns of things that are actually insignificant to the operation of the database engine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** identity (1), rdbms (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a table constraint
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980)
+#### [Solution: Create a table constraint](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3339,7 +3302,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980&t=28)** So we have some information about our owners, we have Alex Johnson is owner one, Maria Lopez is two, and Sam Patel is three, and we have their phone number, so that is the owner information, but it doesn't tell us anything about their pets.
 >
-> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980&t=42)** And then, if I switch this over to select everything from the "Pets" table, and take a look at that one, we have pet information, we have their ID, the pet's name, their species, and the pet's birth date, but it doesn't tell us who owns them, and so, what we need to do is create a relationship between these two tables that will link everything together based on some information that we were able to gather from the people that worked in the office.
+> **[0:42](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980&t=42)** And then, if I switch this over to select everything from the "Pets" table, and take a look at that one, we have pet information, we have their ID, the pet's name, their species, and the pet's birth date, but it doesn't tell us who owns them, and so, what we need to do is create a relationship between these two tables that will link everything together based on some information that we were able to gather from the people that worked in the [[Microsoft Office|office]].
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-data-structures/solution-create-a-table-constraint?u=76281980&t=69)** Maybe they had things written down on a post-it note, or on a whiteboard, or however they had it, it was not in their database, so we need to add it into the database, and that is our challenge here.
 >
@@ -3381,7 +3344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** where (3), select (3), table (2), add (1), update (1)
 > **SQL:** where (3), select (3), update (1), alter table (1), inner join (1)
 > **Prerequisites:** required to (2), set up (1)
@@ -3395,8 +3358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### One-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
+#### [One-to-many relationships](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3450,13 +3412,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### One-to-one relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980)
+#### [One-to-one relationships](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3470,7 +3430,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=26)** Here's an example of when this might occur.
 >
-> **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=28)** In this human resources database, we've got one table to store common information about some employees like their name and the department that they work in.
+> **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=28)** In this [[Human Resources (HR)|human resources]] database, we've got one table to store common information about some employees like their name and the department that they work in.
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=38)** This information isn't very sensitive and it's made available to everyone in the company.
 >
@@ -3482,15 +3442,14 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=68)** And since the human resources information is sensitive, different security settings can be applied to the second table to ensure that only people with the proper permissions can read it.
 >
-> **[1:19](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=79)** Applying different security settings to portions of the data is the primary use of one-to-one relationships in relational databases.
+> **[1:19](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-one-relationships?u=76281980&t=79)** Applying different security settings to portions of the data is the primary use of one-to-one relationships in [[Relational Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (3), [[Security]] (2), database (1), data (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (3), [[Relational Databases]] (1)
 > **Analogies:** such as (1)
 
-#### Many-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980)
+#### [Many-to-many relationships](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3524,7 +3483,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980&t=102)** This allows you to see that Andrea is enrolled in both biology and physics.
 >
-> **[1:48](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980&t=108)** You can also go the other way to find out who is enrolled in calculus by finding its ID number, 503, taking that to the Student-Classes table to find student 101, and then to the Students table to find that Brandon is the only one in the calculus class.
+> **[1:48](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980&t=108)** You can also go the other way to find out who is enrolled in [[Calculus]] by finding its ID number, 503, taking that to the Student-Classes table to find student 101, and then to the Students table to find that Brandon is the only one in the calculus class.
 >
 > **[2:05](https://www.linkedin.com/learning/database-foundations-data-structures/many-to-many-relationships?u=76281980&t=125)** So that's how many-to-many relationships work.
 >
@@ -3532,13 +3491,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Calculus]] (2), data (1)
+> **Frameworks & Libraries:** [[Calculus]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Self-referencing relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/self-referencing-relationships?u=76281980)
+#### [Self-referencing relationships](https://www.linkedin.com/learning/database-foundations-data-structures/self-referencing-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3582,19 +3540,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cascade updates and deletes
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980)
+#### [Cascade updates and deletes](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980&t=0)** - [Instructor] When records in a table are modified, or deleted, it can have downstream effects on other tables that they're related to.
 >
-> **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980&t=8)** Relational database management systems have features, that can cascade changes to affected tables in order to maintain the integrity of the relationship.
+> **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980&t=8)** Relational [[Database Management]] systems have features, that can cascade changes to affected tables in order to maintain the integrity of the relationship.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/cascade-updates-and-deletes?u=76281980&t=18)** Let's see how this works by returning to the two trees, customers, and orders table.
 >
@@ -3690,15 +3646,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (3), management (1)
+> **Frameworks & Libraries:** [[Database Management]] (1)
 > **Env Vars:** wr421 (4), wr521 (3)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** scroll down (3)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Link tables with keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-link-tables-with-keys?u=76281980)
+#### [Challenge: Link tables with keys](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-link-tables-with-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3724,13 +3679,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy techy music) (1)
 
-#### Solution: Link tables with keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980)
+#### [Solution: Link tables with keys](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3738,7 +3691,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980&t=13)** Let's walk through the different steps in order to accomplish that goal.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980&t=16)** I'm going to right click on the two trees database in my SQL Server instance since that's the database server that I was working on earlier to create the employees table.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980&t=16)** I'm going to right click on the two trees database in my [[Microsoft SQL Server|SQL Server]] instance since that's the database server that I was working on earlier to create the employees table.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/solution-link-tables-with-keys?u=76281980&t=25)** So I right click there and just choose new query.
 >
@@ -3886,7 +3839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), next (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (1), just like (1)
 > **File Paths:** complete.txt (1)
@@ -3895,8 +3848,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 
-#### Solution: Build a relationship between tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-build-a-relationship-between-tables?u=76281980)
+#### [Solution: Build a relationship between tables](https://www.linkedin.com/learning/database-foundations-data-structures/solution-build-a-relationship-between-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4074,7 +4026,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), database (1)
 > **Env Vars:** key (22), table (13), primary (13), create (10), foreign (9)
 > **SQL:** primary key (13), create table (10), foreign key (8), alter table (1)
 > **Definitions:** is a  (5), is called (1)
@@ -4082,18 +4033,18 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Indexes
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Table indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
+#### [Table indexes](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=0)** - [Instructor] Databases are built to store data so that information is available at a later point in time.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=0)** - [Instructor] [[Databases]] are built to store data so that information is available at a later point in time.
 >
 > **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=6)** When you have a lot of stored data, it's important to be able to quickly locate the specific rows that you're after, and adding indexes to your tables can help the RDBMS in that search.
 >
@@ -4101,11 +4052,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=26)** Rather than page through the entire book from beginning to end, you can find a topic of interest listed alphabetically in the index, and it'll point you directly to the pages with the content that you're interested in.
 >
-> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=38)** Relational databases store data in the same way with index is made up of the key values from your tables.
+> **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=38)** [[Relational Databases]] store data in the same way with index is made up of the key values from your tables.
 >
-> **[0:45](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=45)** This allows the database engine to search the index, which will be point to the area on disk where the rest of the information for the row is actually stored.
+> **[0:45](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=45)** This allows the database engine to search the index, which will be point to the area on disk where the [[Representational State Transfer (REST)|rest]] of the information for the row is actually stored.
 >
-> **[0:55](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=55)** Database indexes can take several forms, but the most commonly used technique is called a B-tree index.
+> **[0:55](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=55)** Database indexes can take several [[Forms]], but the most commonly used technique is called a B-tree index.
 >
 > **[1:02](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980&t=62)** Indexes that use this method organize data into a branching tree like structure.
 >
@@ -4153,14 +4104,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), [[Search]] (3), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Relational Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **CLI Commands:** find (8)
 > **Definitions:** is called (2), is a  (2), means that (1)
 > **Env Vars:** rdbms (1), ace (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add indexes to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980)
+#### [Add indexes to a table](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4168,7 +4118,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=5)** First, you need to identify a situation, where an index would be helpful.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=10)** Let's take a look at the customer's table on the Two Trees database that's in the SQL server instance.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=10)** Let's take a look at the customer's table on the Two Trees database that's in the [[Microsoft SQL Server|SQL server]] instance.
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=16)** The primary key for this table is on the customer ID column.
 >
@@ -4180,7 +4130,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=43)** Any automated reporting system that pulls data and organizes it into groups based off of the state values or a dashboard that displays aggregate information across the state would also benefit from an index on this column.
 >
-> **[0:58](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=58)** To add one in, we run the SQL command CREATE INDEX.
+> **[0:58](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=58)** To add one in, we run the [[SQL]] command CREATE INDEX.
 >
 > **[1:02](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=62)** I have that written out starting on line five in the script.
 >
@@ -4196,7 +4146,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=98)** So, in this case, I'm naming it, IX_Customers_State.
 >
-> **[1:42](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=102)** PostgreSQL databases tend to flip that around and use the table name followed by the column name and then _IDX.
+> **[1:42](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=102)** [[PostgreSQL]] [[Databases]] tend to flip that around and use the table name followed by the column name and then _IDX.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-data-structures/add-indexes-to-a-table?u=76281980&t=112)** Either way, you can name your index whatever you want.
 >
@@ -4228,15 +4178,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (3), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[PostgreSQL]] (1), [[Databases]] (1)
 > **Env Vars:** sql (3), index (3), create (2), rdbms (1), drop (1)
 > **CLI Commands:** make (2), find (1)
 > **SQL:** index (3)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### View index statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980)
+#### [View index statistics](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4252,7 +4201,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=40)** So the specific techniques and commands will vary.
 >
-> **[0:44](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=44)** Let's take a look at PostgreSQL first, and then we'll look at some similar commands on SQL server.
+> **[0:44](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=44)** Let's take a look at [[PostgreSQL]] first, and then we'll look at some similar commands on [[Microsoft SQL Server|SQL server]].
 >
 > **[0:50](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=50)** I'm going to select the two trees database in my PostgreSQL server.
 >
@@ -4264,13 +4213,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=74)** When you do that, you're going to get back a lot of rows.
 >
-> **[1:17](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=77)** Most of these describe indexes that Postgres uses for its own internal purposes.
+> **[1:17](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=77)** Most of these describe indexes that [[PostgreSQL|Postgres]] uses for its own internal purposes.
 >
 > **[1:22](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=82)** It's best just to let the server manage these on its own.
 >
 > **[1:26](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=86)** There are two columns that are useful to us though: schema name and table name.
 >
-> **[1:31](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=91)** We can use these to filter the results to the indexes of interest to our own databases.
+> **[1:31](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=91)** We can use these to filter the results to the indexes of interest to our own [[Databases]].
 >
 > **[1:37](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=97)** For instance, I can locate all of the indexes where the table name is equal to customers.
 >
@@ -4278,7 +4227,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=105)** And you'll see that we don't have any indexes on that table.
 >
-> **[1:48](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=108)** If you're using schemas in your database design, you can find all of the indexes on all of the tables in a particular schema.
+> **[1:48](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=108)** If you're using schemas in your [[Database Design]], you can find all of the indexes on all of the tables in a particular schema.
 >
 > **[1:55](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=115)** We didn't set up any schemas in this course.
 >
@@ -4300,7 +4249,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=172)** So this lists out all of the indexes in the database.
 >
-> **[2:55](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=175)** To find out some statistics about these indexes, we have another catalog view called PG_stat_user_indexes.
+> **[2:55](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=175)** To find out some [[Statistics]] about these indexes, we have another catalog view called PG_stat_user_indexes.
 >
 > **[3:03](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=183)** Let's select everything out of that.
 >
@@ -4378,13 +4327,13 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=393)** So that's how you can check up on your index usage statistics in PostgreSQL and SQL server.
 >
-> **[6:39](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=399)** Every relational database management system is going to have a different set of commands that are useful in this area of database development.
+> **[6:39](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=399)** Every relational [[Database Management]] system is going to have a different set of commands that are useful in this area of [[Database Development]].
 >
 > **[6:48](https://www.linkedin.com/learning/database-foundations-data-structures/view-index-statistics?u=76281980&t=408)** So if you're working on a different platform, I'd encourage you to seek out the techniques that are available for similar kinds of index management on your platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[PostgreSQL]] (6), [[Microsoft SQL Server|Sql server]] (5), management (4), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), [[Microsoft SQL Server|Sql server]] (5), [[Statistics]] (3), [[PostgreSQL|Postgres]] (1), [[Databases]] (1)
 > **CLI Commands:** find (7), make (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **UI Navigation:** select the (2), scroll down (1)
@@ -4398,8 +4347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validate data with constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
+#### [Validate data with constraints](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4407,11 +4355,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=5)** This helps you specify the rules that each value must meet before it will be stored in the database.
 >
-> **[0:11](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=11)** You can think of constraints as a form of data validation.
+> **[0:11](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=11)** You can think of constraints as a form of [[Data Validation]].
 >
 > **[0:15](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=15)** When you establish the boundaries that values must fall within, you can have the database engine automatically reject any values that fall outside.
 >
-> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=25)** Doing so make sure that the values that actually make it past the constraint verification process will meet your expectations for data quality and completeness.
+> **[0:25](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=25)** Doing so make sure that the values that actually make it past the constraint verification process will meet your expectations for [[Data Quality]] and completeness.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980&t=35)** The addition of constraints to your table designs should be approached with care.
 >
@@ -4455,15 +4403,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5)
+> **Frameworks & Libraries:** [[Data Validation]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
 > **Tools:** notion (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Null constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980)
+#### [Null constraints](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4471,7 +4418,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=7)** You can determine whether a column will allow or not allow these empty cells called null values.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=14)** I've opened up the script called NullConstraints.sql and connected it to my SQL server container.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=14)** I've opened up the script called NullConstraints.[[SQL]] and connected it to my [[Microsoft SQL Server|SQL server]] container.
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=20)** Let's review the customer's table.
 >
@@ -4539,11 +4486,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=180)** Now I was able to tell the current status of each of these columns by reviewing the information presented in the connection sidebar over here on the left.
 >
-> **[3:09](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=189)** This works for SQL server databases.
+> **[3:09](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=189)** This works for SQL server [[Databases]].
 >
-> **[3:11](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=191)** But if you try the same thing with the Postgres server, you're going to find that you aren't given the same level of detail about each column.
+> **[3:11](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=191)** But if you try the same thing with the [[PostgreSQL|Postgres]] server, you're going to find that you aren't given the same level of detail about each column.
 >
-> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=199)** You're not always going to be working in a graphical interface like Azure Data Studio.
+> **[3:19](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=199)** You're not always going to be working in a graphical interface like [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[3:24](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=204)** So it's important to be able to get that information using SQL commands.
 >
@@ -4569,9 +4516,9 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=257)** This means that they will not accept null values.
 >
-> **[4:20](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=260)** The rest of the columns will.
+> **[4:20](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=260)** The [[Representational State Transfer (REST)|rest]] of the columns will.
 >
-> **[4:22](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=262)** We can get similar information from PostgreSQL using a different command.
+> **[4:22](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=262)** We can get similar information from [[PostgreSQL]] using a different command.
 >
 > **[4:26](https://www.linkedin.com/learning/database-foundations-data-structures/null-constraints?u=76281980&t=266)** And let's scroll down to the script here and I'll find it online 29 and 30.
 >
@@ -4601,7 +4548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (3), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (3), business (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **Code Identifiers:** sp_columns (2), information_schema (1), is_nullable (1)
@@ -4610,8 +4557,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
 
-#### Unique constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/unique-constraints?u=76281980)
+#### [Unique constraints](https://www.linkedin.com/learning/database-foundations-data-structures/unique-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4693,7 +4639,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3)
 > **Env Vars:** constraint (4), table (3), drop (3), unique (2), alter (2)
 > **CLI Commands:** find (5), make (4)
 > **SQL:** alter table (2), create table (1), index (1)
@@ -4702,24 +4647,23 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting default values
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980)
+#### [Setting default values](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=0)** - [Instructor] A default value can be automatically saved into a column when one isn't supplied during a row insert.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=7)** If we take a look at the customers table inside of the SQL Server version of the two trees database, we'll see that we have a couple of columns that we can use to store some address information.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=7)** If we take a look at the customers table inside of the [[Microsoft SQL Server|SQL Server]] version of the two trees database, we'll see that we have a couple of columns that we can use to store some address information.
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=18)** Let's suppose that most of our customers come from the state of California, we can have the RDBMS, automatically fill in the appropriate two letter state abbreviation for every new row.
 >
-> **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=31)** SQL Server and PostgreSQL take two different approaches to this when you're adding in the constraint to an existing column.
+> **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=31)** SQL Server and [[PostgreSQL]] take two different approaches to this when you're adding in the constraint to an existing column.
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=38)** In SQL Server, we need to alter the table customers, ADD CONSTRAINT, then we can name the constraint, followed by the default keyword, the value that we want inserted, and the two letter state abbreviation for California is CA, then the keyword, FOR, and finally, the column name that we want to apply the constraint on.
 >
 > **[0:59](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=59)** PostgreSQL takes a different approach, though, in PostgreSQL, you would alter the table customers, then alter the column, state, and set default and followed by the value.
 >
-> **[1:10](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=70)** This is because the Postgres RDBMS doesn't consider default values to be a constraint, they're just a default value on the column.
+> **[1:10](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=70)** This is because the [[PostgreSQL|Postgres]] RDBMS doesn't consider default values to be a constraint, they're just a default value on the column.
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-data-structures/setting-default-values?u=76281980&t=78)** That's why the implementation takes a slightly different syntax.
 >
@@ -4765,21 +4709,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3), database (1), [[PostgreSQL|Postgres]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (3), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (4), rdbms (4), add (1), constraint (1), create (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2)
 > **SQL:** create table (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980)
+#### [Check constraints](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980&t=0)** - [Instructor] The final type of constraint that you can add to your data tables is called a check constraint.
 >
-> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980&t=6)** This is the one that most closely resembles the data validation rules that you might be familiar with if you've used a spreadsheet application like Microsoft Excel.
+> **[0:06](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980&t=6)** This is the one that most closely resembles the [[Data Validation]] rules that you might be familiar with if you've used a spreadsheet application like [[Microsoft Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/check-constraints?u=76281980&t=17)** Check constraints allow you to specify a numeric range or other types of qualifications that new values must satisfy before there'll be stored in the database.
 >
@@ -4845,14 +4788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (2), business (2), application (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1), [[Microsoft Excel]] (1)
 > **Code Identifiers:** total_price (2)
 > **Env Vars:** rdbms (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add constraints to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980)
+#### [Challenge: Add constraints to a table](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4864,7 +4806,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980&t=18)** Your First and Last Name columns should not allow null values.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980&t=22)** The phone number should default to a main office number if a custom number isn't supplied.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980&t=22)** The phone number should default to a main [[Microsoft Office|office]] number if a custom number isn't supplied.
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-data-structures/challenge-add-constraints-to-a-table?u=76281980&t=28)** And finally, check that each employee's salary is not set below $30,000.
 >
@@ -4880,8 +4822,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat, techno music) (1)
 
-#### Solution: Add constraints to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980)
+#### [Solution: Add constraints to a table](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4889,7 +4830,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=10)** Let's walk through the different commands that we need to execute.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=13)** First. I'm going to find the two trees database in my SQL server instance, which is where I've been working on the employees table.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=13)** First. I'm going to find the two trees database in my [[Microsoft SQL Server|SQL server]] instance, which is where I've been working on the employees table.
 >
 > **[0:19](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=19)** Going to right click on that and choose new query.
 >
@@ -4949,7 +4890,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=166)** How about a phone number, 555-0001?
 >
-> **[2:49](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=169)** All right. That'll be the main office number for the company, and we specify for and the name of the column that we're specifying this on, that's the phone number is the name of the column, and that finishes the default value.
+> **[2:49](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=169)** All right. That'll be the main [[Microsoft Office|office]] number for the company, and we specify for and the name of the column that we're specifying this on, that's the phone number is the name of the column, and that finishes the default value.
 >
 > **[3:04](https://www.linkedin.com/learning/database-foundations-data-structures/solution-add-constraints-to-a-table?u=76281980&t=184)** All right, next, salaries are above $30,000.
 >
@@ -5055,7 +4996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (2), data (2), [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -5064,8 +5005,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Set additional constraints on the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980)
+#### [Solution: Set additional constraints on the data](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5105,7 +5045,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980&t=90)** The next one we're asked for is a unique constraint, and this is going to be on the application URL.
 >
-> **[1:37](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980&t=97)** So every job posting has to have a unique link that people can apply for that Java.
+> **[1:37](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980&t=97)** So every job posting has to have a unique link that people can apply for that [[Java]].
 >
 > **[1:43](https://www.linkedin.com/learning/database-foundations-data-structures/solution-set-additional-constraints-on-the-data?u=76281980&t=103)** And to speed things up, we are going to be doing a lot of different alter table statements.
 >
@@ -5289,7 +5229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (7), next (5), database (2), job description (2)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** alter (10), table (8), url (8), column (7), create (4)
 > **SQL:** create table (4), alter table (4), varchar (2)
 > **CLI Commands:** make (4), find (1)
@@ -5303,8 +5243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5314,15 +5253,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=8)** Before you go, I'd like to share a couple of additional courses that I think you might find helpful to expand on the database topics that we've learned so far.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=17)** In my course, [[Relational Databases Essential Training]], I walked through the steps of planning a database design from scratch and show how to draw out and organize the blueprint for your database using graphical diagramming software.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=17)** In my course, [[[[Relational Databases]] Essential Training]], I walked through the steps of planning a [[Database Design]] from scratch and show how to draw out and organize the blueprint for your database using graphical [[Diagramming]] software.
 >
-> **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=31)** For more in-depth content on the PostgreSQL RDBMS platform, take a look at my PostgresSQL Essential Training course.
+> **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=31)** For more in-depth content on the [[PostgreSQL]] RDBMS platform, take a look at my PostgresSQL Essential Training course.
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=40)** I've been Adam Wilbert, and I hope you have a fantastic day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Relational Databases]] (1), [[Diagramming]] (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Database Design]] (1), [[Diagramming]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rdbms (1)
 > **Speakers:** - [adam] (1)

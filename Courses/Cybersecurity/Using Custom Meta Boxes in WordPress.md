@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom fields without dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980)
+#### [Custom fields without dependency](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,40 +97,39 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=25)** It is one of the only plugin frameworks where you can include it as a library in your own theme or plugin.
 >
-> **[0:32](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=32)** And in this course, you will learn how to supercharge your custom WordPress work using this popular framework.
+> **[0:32](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=32)** And in this course, you will learn how to supercharge your custom [[WordPress]] work using this popular framework.
 >
-> **[0:40](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=40)** Hi, I'm Joe Casabona, a front-end web developer and educator who's been using PHP since 2003 and WordPress since 2004.
+> **[0:40](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=40)** Hi, I'm Joe Casabona, a front-end web developer and educator who's been using [[PHP]] since 2003 and WordPress since 2004.
 >
-> **[0:50](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=50)** So join me in my LinkedIn Learning course, where I will show you just about everything you need to know to start using CMB2.
+> **[0:50](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980&t=50)** So join me in my [[LinkedIn]] Learning course, where I will show you just about everything you need to know to start using CMB2.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), feature (1), front-end (1), web (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cmb2 (2), php (1)
 > **CLI Commands:** make (1), php (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=0)** - [Instructor] CMB2 is a developer's tool kit for building meta boxes, custom fields and forms for WordPress.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=0)** - [Instructor] CMB2 is a developer's tool kit for building meta boxes, custom fields and [[Forms]] for [[WordPress]].
 >
 > **[0:07](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=7)** So there are definitely a few things you should know before diving into this course.
 >
 > **[0:11](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=11)** On top of a familiarity with WordPress as a user, you should also be familiar with the common terms like posts, pages, meta fields and more.
 >
-> **[0:20](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=20)** If you're shaky on those terms or need a refresher, you can always check out the WordPress Essentials Training here in the LinkedIn Learning Library.
+> **[0:20](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=20)** If you're shaky on those terms or need a refresher, you can always check out the WordPress Essentials Training here in the [[LinkedIn]] Learning Library.
 >
-> **[0:29](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=29)** On top of that, you'll need to be familiar with PHP, particularly how it relates to WordPress development.
+> **[0:29](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=29)** On top of that, you'll need to be familiar with [[PHP]], particularly how it relates to [[Wordpress Development]].
 >
 > **[0:35](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=35)** After all, we'll be making a plugin.
 >
 > **[0:38](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=38)** The Learning PHP and PHP for WordPress courses can help you with that.
 >
-> **[0:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=44)** Finally, knowing HTML, CSS and JavaScript will be a big plus.
+> **[0:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=44)** Finally, knowing [[HTML]], CSS and [[JavaScript]] will be a big plus.
 >
 > **[0:49](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-you-should-know?u=76281980&t=49)** They won't be a focus of the course, but we will be displaying information on the screen and we'll need to format it.
 >
@@ -146,12 +144,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/demo-project-overview?u=76281980&t=0)** - [Instructor] When custom post types and meta fields were first introduced in WordPress, the possibilities for what WordPress could become seemed endless.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/demo-project-overview?u=76281980&t=0)** - [Instructor] When custom post types and meta fields were first introduced in [[WordPress]], the possibilities for what WordPress could become seemed endless.
 >
 > **[0:09](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/demo-project-overview?u=76281980&t=9)** Years later, those possibilities were actualized thanks in a big part to frameworks and libraries like CMB2.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), front-end (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** cmb2 (3)
 > **Speakers:** - [instructor] (1)
 
@@ -180,12 +177,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is CMB2 and how does it work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980)
+#### [What is CMB2 and how does it work?](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980&t=0)** - [Instructor] Custom fields in WordPress are key value pairs that allow us to store any information that WordPress doesn't natively store.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980&t=0)** - [Instructor] Custom fields in [[WordPress]] are key value pairs that allow us to store any information that WordPress doesn't natively store.
 >
 > **[0:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980&t=8)** Imagine for example you want to include a mood in your posts.
 >
@@ -213,20 +209,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), data (2)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** cmb2 (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### The difference between CMB2 and ACF
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980)
+#### [The difference between CMB2 and ACF](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980&t=0)** - [Instructor] Advanced Custom Fields is an industry leader in the WordPress plugin and custom field space.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980&t=0)** - [Instructor] Advanced Custom Fields is an industry leader in the [[WordPress]] plugin and custom field space.
 >
-> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980&t=6)** And in fact, there's a course on it in the LinkedIn learning library.
+> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980&t=6)** And in fact, there's a course on it in the [[LinkedIn]] learning library.
 >
 > **[0:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-difference-between-cmb2-and-acf?u=76281980&t=10)** So why should you use CNB2 instead?
 >
@@ -266,8 +261,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing CMB2 via the Plugin Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980)
+#### [Installing CMB2 via the Plugin Directory](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=8)** Let's take a look at how to do that now.
 >
-> **[0:11](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=11)** From your WordPress dashboard, go to Plugins, Add New.
+> **[0:11](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=11)** From your [[WordPress]] dashboard, go to Plugins, Add New.
 >
 > **[0:15](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=15)** Then search for CMB2 in the search field.
 >
@@ -287,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=31)** Now that's it, there's no UI or admin menus for us to interact with the plugin, that's all done through code.
 >
-> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=39)** So to test this, we'll grab the examples-functions.php file from the documentation website over at [github.com/CMB2/CMB2/wiki](https://github.com/CMB2/CMB2/wiki).
+> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=39)** So to test this, we'll grab the examples-functions.[[PHP]] file from the documentation website over at [[[GitHub]].com/CMB2/CMB2/wiki](https://github.com/CMB2/CMB2/wiki).
 >
 > **[0:53](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=53)** We'll click on examplefunctions.php then we'll click Raw and we'll copy all of this code.
 >
@@ -323,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[WordPress]] (3), [[Search]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[WordPress]] (3), [[GitHub]] (1)
 > **CLI Commands:** php (7), find (1)
 > **Env Vars:** cmb2 (6), php (1)
 > **File Paths:** functions.php (3), examplefunctions.php (2), examples-functions.php (1)
@@ -332,14 +326,13 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Setting up our project plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980)
+#### [Setting up our project plugin](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=0)** - [Instructor] When it comes to adding CMB2 as a library, you need a place to add it.
 >
-> **[0:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=5)** And in WordPress, that's either a theme or a plugin.
+> **[0:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=5)** And in [[WordPress]], that's either a theme or a plugin.
 >
 > **[0:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=8)** Now we could do either, but I'd strongly recommend against putting CMB2 in your theme in most cases.
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=37)** You can use whatever you'd like.
 >
-> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=39)** In the explorer here, I have the plugins folder for my local WordPress development environment.
+> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=39)** In the explorer here, I have the plugins folder for my local [[Wordpress Development]] environment.
 >
 > **[0:46](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=46)** And for that, I'm using Local, the application.
 >
@@ -363,13 +356,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=60)** You'll be able to find all of the code in the exercise files for this course.
 >
-> **[1:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=66)** Inside that folder, I will create another file called lil-cmb2.php.
+> **[1:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=66)** Inside that folder, I will create another file called lil-cmb2.[[PHP]].
 >
 > **[1:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=74)** This will be the driver or loader function.
 >
 > **[1:19](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=79)** The first thing we'll do is define the function, and I've copied the definition from the sample code, so I'll just paste that right in here.
 >
-> **[1:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=87)** And we'll call this LinkedIn Learning Podcast.
+> **[1:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=87)** And we'll call this [[LinkedIn]] Learning Podcast.
 >
 > **[1:31](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=91)** This is the standard WordPress plugin definition that includes the name, the description, and then the author information and the license information.
 >
@@ -389,7 +382,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=155)** So we'll call this 'LIL-CMB2_URL'.
 >
-> **[2:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=161)** We'll use the function, plugin_dir_url, and then it'll be for the current file which is underscore, underscore, the word FILE, underscore, underscore.
+> **[2:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=161)** We'll use the function, plugin_dir_url, and then it'll be for the current file which is underscore, underscore, the [[Microsoft Word|word]] FILE, underscore, underscore.
 >
 > **[2:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=174)** This is a builtin global variable and then the semicolon.
 >
@@ -397,11 +390,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=184)** This includes the trailing slash.
 >
-> **[3:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=188)** And that's it, we'll save this and we'll add the rest of the code as needed, starting with loading CMB2 as a library.
+> **[3:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/setting-up-our-project-plugin?u=76281980&t=188)** And that's it, we'll save this and we'll add the [[Representational State Transfer (REST)|rest]] of the code as needed, starting with loading CMB2 as a library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Wordpress Development]] (1), application (1), [[PHP]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Wordpress Development]] (1), [[PHP]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cmb2 (3), wpinc (1), lil_cmb2_version (1), url (1), lil (1)
 > **CLI Commands:** make (2), find (1), php (1)
 > **Exercise Files:** exercise files (1), sample code (1)
@@ -410,14 +403,13 @@ created: 2026-05-02
 > **Versions:** 1.0.0 (1)
 > **Tools:** vs code (1)
 
-#### CMB2 as a library for your plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980)
+#### [CMB2 as a library for your plugin](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=0)** - [Instructor] The second way to use CMB2 is the more preferable way as a library in your own plugin.
 >
-> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=6)** On the screen here, you see CMB2 from the WordPress Plugin Repository.
+> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=6)** On the screen here, you see CMB2 from the [[WordPress]] Plugin Repository.
 >
 > **[0:13](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=13)** This is where we will download the CMB2 library to then add to our plugin.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=54)** The thing that's going to load CMB2.
 >
-> **[0:57](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=57)** And to do that, we can go back to the CMB2 GitHub repository to the example-functions.php file.
+> **[0:57](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=57)** And to do that, we can go back to the CMB2 [[GitHub]] repository to the example-functions.[[PHP]] file.
 >
 > **[1:04](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=64)** So the first thing I'll do here is just copy the bootstrap, which is lines 18 to 22 in this file.
 >
@@ -439,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=77)** I'll save the file and now CMB2 is getting loaded.
 >
-> **[1:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=81)** Now, if you want to test this, we can do the same thing where we copy the example-functions.php file word for word, and paste it into our plugin, and then load the plugin.
+> **[1:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=81)** Now, if you want to test this, we can do the same thing where we copy the example-functions.php file [[Microsoft Word|word]] for word, and paste it into our plugin, and then load the plugin.
 >
 > **[1:33](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-as-a-library-for-your-plugin?u=76281980&t=93)** But we don't have to do that this time around.
 >
@@ -460,8 +452,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 
-#### The CMB2 documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980)
+#### [The CMB2 documentation](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980&t=10)** The documentation actually exists in two places.
 >
-> **[0:12](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980&t=12)** At cmb2, the number two, .io and in the GitHub wiki.
+> **[0:12](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980&t=12)** At cmb2, the number two, .io and in the [[GitHub]] wiki.
 >
 > **[0:18](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/the-cmb2-documentation?u=76281980&t=18)** We will be referencing the GitHub wiki because it's generally kept more up to date.
 >
@@ -496,16 +487,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Field types in CMB2
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980)
+#### [Field types in CMB2](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=0)** - [Instructor] The power behind CMB2, is that it takes a simple implementation.
 >
-> **[0:04](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=4)** The WordPress custom field being two text boxes and convert that into an area of endless possibilities for application development.
+> **[0:04](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=4)** The [[WordPress]] custom field being two text boxes and convert that into an area of endless possibilities for [[Application Development]].
 >
-> **[0:13](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=13)** Over on CMB2, github page, you could see a full list of the field types.
+> **[0:13](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=13)** Over on CMB2, [[GitHub]] page, you could see a full list of the field types.
 >
 > **[0:20](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/field-types-in-cmb2?u=76281980&t=20)** These are the fields that we can define by default using CMB2.
 >
@@ -531,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[WordPress]] (1), [[Application Development]] (1), [[GitHub]] (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Application Development]] (1), [[GitHub]] (1)
 > **Env Vars:** cmb2 (5)
 > **Tools:** github (1), safari (1)
 > **Code Identifiers:** jquery (1)
@@ -540,8 +530,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### CMB2 and the block editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980)
+#### [CMB2 and the block editor](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980&t=9)** Well, currently there is no explicit support for the Block Editor in CMB2, and the meta boxes are added the way any others are, as an extra section at the bottom of the Block Editor.
 >
-> **[0:23](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980&t=23)** There's no easy way to add custom fields to blocks without coding your own block, which you can learn how to do in the "Developing Blocks with Gutenberg" course from the LinkedIn Learning Library.
+> **[0:23](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980&t=23)** There's no easy way to add custom fields to blocks without coding your own block, which you can learn how to do in the "Developing Blocks with Gutenberg" course from the [[LinkedIn]] Learning Library.
 >
 > **[0:35](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/cmb2-and-the-block-editor?u=76281980&t=35)** In short, while CMB2 allows us to easily add flexible advanced meta boxes to our posts and post types support for modern features like the Block Editor and full site editing simply isn't there yet.
 
@@ -564,8 +553,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining our custom fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980)
+#### [Defining our custom fields](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980&t=98)** And for the transcript file, it will be a PDF only.
 >
-> **[1:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980&t=101)** The transcript itself we'll use the WYSIWYG Editor, which is the classic editor if you're using WordPress 5.0 or newer.
+> **[1:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980&t=101)** The transcript itself we'll use the WYSIWYG Editor, which is the classic editor if you're using [[WordPress]] 5.0 or newer.
 >
 > **[1:50](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980&t=110)** Then we'll map our sponsor fields.
 >
@@ -633,15 +621,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), data (2), front-end (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Env Vars:** mp3 (1), m4a (1), pdf (1), wysiwyg (1), url (1)
 > **Versions:** 5.0 (1), 5.8 (1)
 > **UI Navigation:** checkbox (1), select the (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating our meta boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980)
+#### [Creating our meta boxes](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +648,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=40)** So this is the metaboxes for all sponsors or for all episodes.
 >
-> **[0:45](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=45)** Then in our driver file, the lil-cmb2.php file will make two require calls.
+> **[0:45](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=45)** Then in our driver file, the lil-cmb2.[[PHP]] file will make two require calls.
 >
 > **[0:52](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=52)** So we'll say require once and then metaboxes/episodes-meta.php,
 >
@@ -721,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=224)** For a full list of all of the arguments for this function.
 >
-> **[3:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=228)** You can check the documentation at [github.com/cmb2/cmb2/wiki](https://github.com/cmb2/cmb2/wiki).
+> **[3:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=228)** You can check the documentation at [[[GitHub]].com/cmb2/cmb2/wiki](https://github.com/cmb2/cmb2/wiki).
 >
 > **[3:55](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=235)** Next is priority, and this will determine where on the admin screen our box will show up.
 >
@@ -737,7 +724,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=279)** So what I'm going to do now is I'm going to copy all of this code, move it over to sponsors-meta, and then just make some key changes here.
 >
-> **[4:49](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=289)** So I'm going to highlight the word episodes with VS code.
+> **[4:49](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=289)** So I'm going to highlight the [[Microsoft Word|word]] episodes with VS code.
 >
 > **[4:53](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=293)** I can press Command+D, and delete all instances of the same word and then replace it.
 >
@@ -759,7 +746,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=336)** So now we'll save all of this.
 >
-> **[5:37](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=337)** And if we go to our WordPress dashboard and refresh, and go to a new post, we'll see two new metaboxes here.
+> **[5:37](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=337)** And if we go to our [[WordPress]] dashboard and refresh, and go to a new post, we'll see two new metaboxes here.
 >
 > **[5:46](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=346)** One is episode information, and one is sponsor information.
 >
@@ -773,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (2), [[Microsoft Word|Word]] (2), [[GitHub]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (2), [[GitHub]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (4), php (3), find (1)
 > **Code Identifiers:** lil_episodes_meta (2), show_names (2), lil_sponsors_meta (2), episodes_metabox (1), sponsors_meta (1)
 > **UI Navigation:** go to (3), in the sidebar (1)
@@ -782,8 +769,7 @@ created: 2026-05-02
 > **Tools:** github (1), vs code (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Adding a the custom field type
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980)
+#### [Adding a the custom field type](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=22)** And we will call this custom-field-types.
 >
-> **[0:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=27)** So custom-field-types.php.
+> **[0:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=27)** So custom-field-types.[[PHP]].
 >
 > **[0:35](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=35)** And then in that file, we'll add some code.
 >
@@ -833,7 +819,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=149)** So this field type object is an actual object input, and then it will accept an array of arguments.
 >
-> **[2:38](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=158)** These are going to more or less map to the input attributes in HTML.
+> **[2:38](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=158)** These are going to more or less map to the input attributes in [[HTML]].
 >
 > **[2:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-the-custom-field-type?u=76281980&t=164)** So the first one we can add is class, and we'll call this cmb2 dash text dash small so that we know that the styling that cmb2 should add to it.
 >
@@ -892,8 +878,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - since (1)
 
-#### Adding fields to our meta boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980)
+#### [Adding fields to our meta boxes](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=101)** You can see there's now a new field here and it's saying number fields, so everything appears to be working properly.
 >
-> **[1:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=108)** With that let's go ahead and add the rest of our basic fields here.
+> **[1:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=108)** With that let's go ahead and add the [[Representational State Transfer (REST)|rest]] of our basic fields here.
 >
 > **[1:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=114)** Now, there are also a number of optional argument based on the type.
 >
@@ -929,7 +914,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=127)** So, now let's add a season number.
 >
-> **[2:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=130)** I'm just going to copy this add field call and paste it and then I will replace the word episode here with season number, and similarly in the ID, I will replace episode with season, but this is also going to be a text number.
+> **[2:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=130)** I'm just going to copy this add field call and paste it and then I will replace the [[Microsoft Word|word]] episode here with season number, and similarly in the ID, I will replace episode with season, but this is also going to be a text number.
 >
 > **[2:29](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-our-meta-boxes?u=76281980&t=149)** And then finally, I'll paste that block one more time and we want to add a transcript field, but we want this field to be the wysiwyg editor.
 >
@@ -951,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** lil_episode_number (1), lil_transcript (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** lil (1)
@@ -960,8 +945,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - now (1)
 
-#### Adding a file uploader
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980)
+#### [Adding a file uploader](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +955,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=14)** Let's start with the audio file.
 >
-> **[0:16](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=16)** In the episodes meta.PHP file right underneath the CMB2 box definition, I'm going to add a new field.
+> **[0:16](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=16)** In the episodes meta.[[PHP]] file right underneath the CMB2 box definition, I'm going to add a new field.
 >
 > **[0:26](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=26)** So we'll write episodes, arrow, add field, and then our array of arguments.
 >
@@ -1021,7 +1005,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=204)** So let's save this and make sure everything works properly.
 >
-> **[3:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=207)** We'll go to our WordPress dashboard to add new, and we do have an audio file so we can upload a file or we can paste a URL in here.
+> **[3:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=207)** We'll go to our [[WordPress]] dashboard to add new, and we do have an audio file so we can upload a file or we can paste a URL in here.
 >
 > **[3:38](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-a-file-uploader?u=76281980&t=218)** So now let's do the same thing for the transcript file.
 >
@@ -1047,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[PHP]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[WordPress]] (1)
 > **Env Vars:** url (8), pdf (7), cmb2 (2), mp3 (2), m4a (2)
 > **CLI Commands:** make (2), php (1)
 > **File Paths:** meta.php (1)
@@ -1056,8 +1040,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 
-#### Creating a repeatable field
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980)
+#### [Creating a repeatable field](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=16)** And it's actually not a field type, it an attribute that can be applied to most fields.
 >
-> **[0:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=21)** You can see which ones are supported and which ones are not at the github wiki for CMB2.
+> **[0:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=21)** You can see which ones are supported and which ones are not at the [[GitHub]] wiki for CMB2.
 >
 > **[0:28](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=28)** For example, if we wanted to have a custom field for the episodes top takeaways, we can make a repeatable field.
 >
@@ -1183,13 +1166,13 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=421)** So it'll be image GIF, image JPEG, image PNG and image WebP.
 >
-> **[7:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=430)** And again WebP is supported as of WordPress 5.8 All right and that's our sponsor information with the logo included so we'll save this.
+> **[7:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=430)** And again WebP is supported as of [[WordPress]] 5.8 All right and that's our sponsor information with the logo included so we'll save this.
 >
 > **[7:24](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=444)** We'll go back out to our admin and refresh this page looks like we have a parse error unexpected on line 16.
 >
 > **[7:33](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=453)** So let's troubleshoot that really quick.
 >
-> **[7:36](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=456)** It looks like we forgot the word array here.
+> **[7:36](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=456)** It looks like we forgot the [[Microsoft Word|word]] array here.
 >
 > **[7:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-repeatable-field?u=76281980&t=459)** So add the array, and then there's the options add this here and now we'll refresh.
 >
@@ -1201,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), next (1), [[WordPress]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[WordPress]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (4), cmb2 (2), gif (2), jpeg (1), png (1)
 > **Analogies:** for example (2), just like (2)
 > **CLI Commands:** make (2)
@@ -1210,12 +1193,11 @@ created: 2026-05-02
 > **Versions:** 5.8 (1)
 > **Tools:** github (1)
 
-#### How to get data from CMB2
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980)
+#### [How to get data from CMB2](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=0)** - One of the things that makes CMB2 so great, is that to get data to display, you can use the built-in WordPress function, get_post_meta.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=0)** - One of the things that makes CMB2 so great, is that to get data to display, you can use the built-in [[WordPress]] function, get_post_meta.
 >
 > **[0:09](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=9)** You can find more information about that, on the WordPress Developer doc, which you see on the screen.
 >
@@ -1273,11 +1255,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=167)** Now, if you want to go the extra mile, while it's outside the scope of this course, you could also create short codes, to embed in the WordPress editor, or a block.
 >
-> **[2:56](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=176)** Using what you could learn in the Developing Blocks for Gutenberg course, here in the LinkedIn library.
+> **[2:56](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/how-to-get-data-from-cmb2?u=76281980&t=176)** Using what you could learn in the Developing Blocks for Gutenberg course, here in the [[LinkedIn]] library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), data (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[LinkedIn]] (1)
 > **Env Vars:** url (5), cmb2 (2)
 > **Code Identifiers:** get_post_meta (3), lil_episode_number (2), lil_audio_file (1)
 > **Definitions:** is a  (3)
@@ -1286,12 +1268,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
 
-#### Adding our custom fields to the frontend
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980)
+#### [Adding our custom fields to the frontend](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=0)** - [Instructor] In order to add our fields to the content, we'll first create a new file called display.php in the root of our plug-in folder.
+> **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=0)** - [Instructor] In order to add our fields to the content, we'll first create a new file called display.[[PHP]] in the root of our plug-in folder.
 >
 > **[0:09](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=9)** So we'll add display.php.
 >
@@ -1359,7 +1340,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=171)** So validating our data, we'll be making sure we actually got stuff.
 >
-> **[2:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=174)** And then sanitizing, we'll be using the WordPress escape functions.
+> **[2:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=174)** And then sanitizing, we'll be using the [[WordPress]] escape functions.
 >
 > **[2:58](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=178)** So first let's up our output.
 >
@@ -1377,7 +1358,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=231)** And we'll use the function sprintf for this, which allows us to store a string that we want to format.
 >
-> **[3:58](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=238)** So the first argument here will be the HTML you want to output with placeholders.
+> **[3:58](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=238)** So the first argument here will be the [[HTML]] you want to output with placeholders.
 >
 > **[4:04](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-our-custom-fields-to-the-frontend?u=76281980&t=244)** So Season, and then we could say %s, which is a string placeholder.
 >
@@ -1523,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PHP]] (4), [[WordPress]] (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (2), [[HTML]] (1)
 > **Code Identifiers:** episode_info (6), is_null (5), transcript_info (5), get_post_meta (4), episode_number (4)
 > **CLI Commands:** php (4), make (3)
 > **Env Vars:** pdf (2), wysiwyg (2), php (1), html (1), url (1)
@@ -1532,8 +1513,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Warnings:** keep in mind (1)
 
-#### Displaying from a repeatable field
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980)
+#### [Displaying from a repeatable field](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,7 +1523,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=6)** We're also going to add some CSS to get the sponsors to look nice on the front end, but first to keep our filter functions clean, we'll create a separate function that sends the market back.
 >
-> **[0:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=17)** So in the bottom of our display.php file, we'll add a new function called lil_sponsor info.
+> **[0:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=17)** So in the bottom of our display.[[PHP]] file, we'll add a new function called lil_sponsor info.
 >
 > **[0:26](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=26)** Since this is a standalone function, it's not going to accept any arguments and we don't need to do a check on template either.
 >
@@ -1587,7 +1567,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=238)** and then this is going to be a key in the sponsor array so sponsor URL.
 >
-> **[4:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=245)** And then we'll repeat that for the logo, which is also URL so we'll say escape, URL, sponsor logo, and let's put this on a different line just so it's a little bit easier for us to read and then escape HTML here because this is just plain text name, and then we'll close out our function and then our loop.
+> **[4:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=245)** And then we'll repeat that for the logo, which is also URL so we'll say escape, URL, sponsor logo, and let's put this on a different line just so it's a little bit easier for us to read and then escape [[HTML]] here because this is just plain text name, and then we'll close out our function and then our loop.
 >
 > **[4:41](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/displaying-from-a-repeatable-field?u=76281980&t=281)** So the last thing we need to do is close the unordered list and UL and then return sponsor output.
 >
@@ -1641,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[PHP]] (3), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **Env Vars:** url (5), css (3), html (1), php (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Code Identifiers:** lil_sponsor (1), episode_info (1), audio_embed (1)
@@ -1655,8 +1635,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a post select box
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980)
+#### [Building a post select box](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1645,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=17)** In this case, we're going to use a CMB2 plugin or extension called Post Search Field.
 >
-> **[0:23](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=23)** So, the first thing we'll do is download the zip from GitHub, which you can find at [github.com/cmb2/cmb2-post-search-field](https://github.com/cmb2/cmb2-post-search-field).
+> **[0:23](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=23)** So, the first thing we'll do is download the zip from [[GitHub]], which you can find at [github.com/cmb2/cmb2-post-search-field](https://github.com/cmb2/cmb2-post-search-field).
 >
 > **[0:35](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=35)** We will go to the code button and click download zip.
 >
@@ -1684,7 +1663,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=69)** Once we do that, we want to add this to our plugin.
 >
-> **[1:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=74)** So, in LIL-CMB2, right under the CMB2 bootstrap we'll require the driver file for that area, which if we look at this, will be CMB2-post-search-field.php.
+> **[1:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=74)** So, in LIL-CMB2, right under the CMB2 bootstrap we'll require the driver file for that area, which if we look at this, will be CMB2-post-search-field.[[PHP]].
 >
 > **[1:34](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=94)** So, I'm just going to right click, and go to rename and then just copy this name here.
 >
@@ -1732,7 +1711,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=276)** The ID will also match.
 >
-> **[4:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=284)** They don't have to match, and we could change this back into dashes, 'cause this is just HTML reference, but we'll leave them the same.
+> **[4:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=284)** They don't have to match, and we could change this back into dashes, 'cause this is just [[HTML]] reference, but we'll leave them the same.
 >
 > **[4:53](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980&t=293)** Type.
 >
@@ -1770,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[GitHub]] (2), [[PHP]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[PHP]] (1), [[HTML]] (1)
 > **Env Vars:** cmb2 (11), lil (6), html (1)
 > **UI Navigation:** go to (5), select the (2), checkbox (1)
 > **CLI Commands:** find (1), unzip (1), make (1), php (1)
@@ -1779,8 +1758,7 @@ created: 2026-05-02
 > **File Paths:** cmb2-post-search-field.php (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Updating the content output
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980)
+#### [Updating the content output](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1826,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=118)** If empty related return content.
 >
-> **[2:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=125)** If you are getting mixed results with is null for some reason, depending on your PHP version, you could always change this to empty, because that's a little more explicit.
+> **[2:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=125)** If you are getting mixed results with is null for some reason, depending on your [[PHP]] version, you could always change this to empty, because that's a little more explicit.
 >
 > **[2:18](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=138)** And then we'll prepare the output.
 >
@@ -1854,7 +1832,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=225)** So now we can say foreach related as id.
 >
-> **[3:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=234)** I'm purposely calling this ID, because sometimes if you name something post, it conflicts with something going on in WordPress, there's usually a global post variable, and we want to avoid that.
+> **[3:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=234)** I'm purposely calling this ID, because sometimes if you name something post, it conflicts with something going on in [[WordPress]], there's usually a global post variable, and we want to avoid that.
 >
 > **[4:03](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/updating-the-content-output?u=76281980&t=243)** We'll say episode get_post id, and then related_output dot get sprintf format,
 >
@@ -1874,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), css (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1)
 > **Code Identifiers:** lil_related_episodes_output (2), add_filter (1), post_info_after (1), is_singular (1), get_post_meta (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1), php (1)
@@ -1888,8 +1866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bringing in taxonomies
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980)
+#### [Bringing in taxonomies](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980&t=50)** You can also create a multi check if you want.
 >
-> **[0:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980&t=54)** These will tap into built in taxonomies and taxonomies that you define separately through the taxonomy class in WordPress, but CMB2 also allows you to add custom fields to taxonomies.
+> **[0:54](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980&t=54)** These will tap into built in taxonomies and taxonomies that you define separately through the taxonomy class in [[WordPress]], but CMB2 also allows you to add custom fields to taxonomies.
 >
 > **[1:10](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980&t=70)** In the example of functions file, starting on line 601, you can see that this adds a custom metabox to the category and tag taxonomies, and then it adds two different fields.
 >
@@ -1935,18 +1912,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Frontend Meta Box support
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980)
+#### [Frontend Meta Box support](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=0)** - [Instructor] One interesting aspect of CMB2 is the ability to have front end metabox support.
 >
-> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=6)** CMB2 allows you to display any defined metabox on the front end using the CMB2 metabox form function, which is defined in the GitHub Wiki.
+> **[0:06](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=6)** CMB2 allows you to display any defined metabox on the front end using the CMB2 metabox form function, which is defined in the [[GitHub]] Wiki.
 >
-> **[0:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=17)** As they know, you'll need to change the cmb2_admin_init hook to cmb2_init instead so they could be added anywhere in WordPress, not just the admin.
+> **[0:17](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=17)** As they know, you'll need to change the cmb2_admin_init hook to cmb2_init instead so they could be added anywhere in [[WordPress]], not just the admin.
 >
-> **[0:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=27)** To do that in our code, we could go to the episodes-meta.php file and change that first hook to cmb2_init, giving us access to the episodes_metabox.
+> **[0:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=27)** To do that in our code, we could go to the episodes-meta.[[PHP]] file and change that first hook to cmb2_init, giving us access to the episodes_metabox.
 >
 > **[0:42](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=42)** Adding this support to a singular template where the post type is supported will create a form allowing people to submit that data.
 >
@@ -1992,11 +1968,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=185)** If I log out, and we go back to the front end, those fields are not available.
 >
-> **[3:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=194)** And while this is an interesting use case, depending on what you need, there may be better solutions by using form builders like Gravity Forms or WPForms.
+> **[3:14](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/frontend-meta-box-support?u=76281980&t=194)** And while this is an interesting use case, depending on what you need, there may be better solutions by using form builders like Gravity [[Forms]] or WPForms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub]] (1), [[WordPress]] (1), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub]] (1), [[WordPress]] (1), [[Forms]] (1)
 > **Code Identifiers:** episodes_metabox (3), current_user_can (2), add_filter (1), the_content (1), lil_fe_box (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** cmb2 (3)
@@ -2005,8 +1981,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Documentation:** the documentation (1)
 
-#### Creating a theme options page
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-theme-options-page?u=76281980)
+#### [Creating a theme options page](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-a-theme-options-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +2005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** get_post_meta (1)
 > **Env Vars:** cmb2 (1)
@@ -2038,8 +2012,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding fields to user profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-user-profiles?u=76281980)
+#### [Adding fields to user profiles](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/adding-fields-to-user-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,18 +2048,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=0)** - [Joe] Congratulations, you've gotten a good look at CMB2 and how to use it, as well as some extra features to explore on your own.
 >
-> **[0:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=8)** The CMB2 Wiki over at GitHub will serve as a great resource for you.
+> **[0:08](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=8)** The CMB2 Wiki over at [[GitHub]] will serve as a great resource for you.
 >
-> **[0:13](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=13)** If you want to continue your WordPress journey, you should check out the "Become a WordPress Developer" learning path.
+> **[0:13](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=13)** If you want to continue your [[WordPress]] journey, you should check out the "Become a WordPress Developer" learning path.
 >
-> **[0:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=21)** You can also check out the Learning PHP course to get a deeper understanding of PHP if you'd like.
+> **[0:21](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=21)** You can also check out the Learning [[PHP]] course to get a deeper understanding of PHP if you'd like.
 >
 > **[0:27](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980&t=27)** Finally, I'd love to hear from you about how you're using CMB2.
 >
@@ -2098,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (2), [[GitHub]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (2), [[GitHub]] (1)
 > **Env Vars:** cmb2 (3), php (2)
 > **CLI Commands:** php (2), find (1)
 > **Tools:** github (1)

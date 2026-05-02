@@ -113,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Present SQL data with Reporting Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980)
+#### [Present SQL data with Reporting Services](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980&t=0)** - [Adam] If you work with SQL Server, then you know that TQL Query results are not the best way to present information.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980&t=0)** - [Adam] If you work with [[Microsoft SQL Server|SQL Server]], then you know that TQL Query results are not the best way to present information.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980&t=7)** SQL Server Reporting Services offers a more effective way to communicate your data's story.
 >
@@ -132,19 +131,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), tql (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, I need to assume that you have some familiarity with SQL Server databases.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, I need to assume that you have some familiarity with [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980&t=6)** Specifically, you should feel comfortable with connecting and authenticating with a SQL Server instance, accessing individual databases, and the basics of writing transact SQL queries to retrieve records from the database.
+> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980&t=6)** Specifically, you should feel comfortable with connecting and authenticating with a SQL Server instance, accessing individual databases, and the basics of writing transact [[SQL]] queries to retrieve records from the database.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-you-should-know?u=76281980&t=18)** Since the majority of this course will cover formatting and presenting data in reports and not on the storage of data in a database server, a general understanding of relational database structures and table relationships will also be helpful.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (3), [[Databases]] (2), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[SQL]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
@@ -163,12 +161,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SQL Server Reporting Services (SSRS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980)
+#### [What is SQL Server Reporting Services (SSRS)?](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=0)** - [Instructor] When it comes time to present the data that you have stored in your SQL Server databases, you need a way to organize and visualize that data.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=0)** - [Instructor] When it comes time to present the data that you have stored in your [[Microsoft SQL Server|SQL Server]] [[Databases]], you need a way to organize and visualize that data.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=9)** This is what SQL Server Reporting Services does.
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=74)** The main component is called Report Builder.
 >
-> **[1:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=77)** This is a Windows application that works much like a regular Microsoft Office page layout program like Publisher or PowerPoint.
+> **[1:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=77)** This is a [[Windows]] application that works much like a regular [[Microsoft Office]] page layout program like Publisher or [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:25](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980&t=85)** With Report Builder, you'll be able to define the look and feel of your reports and pull up to the minute data from your SQL Server databases.
 >
@@ -218,18 +215,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Databases]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (2), [[Windows]] (1), [[Microsoft Office]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing SSRS
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980)
+#### [Installing SSRS](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=0)** - [Instructor] To get started, we first need to install the report server on our computer, and then we'll configure a database in a SQL Server instance that the report server will use to manage the reports.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=0)** - [Instructor] To get started, we first need to install the report server on our computer, and then we'll configure a database in a [[Microsoft SQL Server|SQL Server]] instance that the report server will use to manage the reports.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=11)** We'll start at the installation documentation page, and I'll scroll down a little bit to find the download link for SQL Server 2022 reporting services.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=101)** I'll press install.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=103)** I'll allow Windows to make changes to my computer, and that kicks off the process.
+> **[1:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=103)** I'll allow [[Windows]] to make changes to my computer, and that kicks off the process.
 >
 > **[1:47](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=107)** And once that's done, that takes care of the first step of getting reporting services installed.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=120)** Now, if you already have a SQL Server instance that you want to use, you can click on the configure report server button to move on to the next step.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=127)** However, if you need to install SQL Server, then I'll walk through those steps in the next video and we'll come back and launch the report Server Configuration Manager to move on to the configuration steps.
+> **[2:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=127)** However, if you need to install SQL Server, then I'll walk through those steps in the next video and we'll come back and launch the report [[Server Configuration]] Manager to move on to the configuration steps.
 >
 > **[2:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/installing-ssrs?u=76281980&t=139)** So I'll just press the close button now.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), next (7), database (3), product (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Windows]] (1), [[Server Configuration]] (1)
 > **Prerequisites:** install (7), configure (4), required to (1), set up (1)
 > **Env Vars:** sql (9)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -288,12 +284,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Install a SQL Server instance for the report server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980)
+#### [Install a SQL Server instance for the report server](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=0)** - [Instructor] Reporting services requires a SQL Server instance to house its report server database.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=0)** - [Instructor] Reporting services requires a [[Microsoft SQL Server|SQL Server]] instance to house its report server database.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=6)** Now you can use an existing instance if you have one already set up, or you can install a dedicated server exclusively for SSRS.
 >
@@ -317,7 +312,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=73)** But if you went through the custom installation, you might have a different name there.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=76)** The other thing you want to make note of is the SQL Administrator account, which should just be your Windows login account.
+> **[1:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=76)** The other thing you want to make note of is the [[SQL]] Administrator account, which should just be your [[Windows]] login account.
 >
 > **[1:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-a-sql-server-instance-for-the-report-server?u=76281980&t=82)** You want to verify that right there.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), management (2), web (2), database (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[SQL]] (1), [[Windows]] (1)
 > **Env Vars:** sql (10), ssms (4), mssql (2), ssrs (1)
 > **Prerequisites:** install (8), set up (1), configure (1)
 > **CLI Commands:** find (2), make (2)
@@ -352,16 +347,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 
-#### Configure the report server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980)
+#### [Configure the report server](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=0)** - [Instructor] With the Report Server now installed, we need to configure the connections to the SQL Server instance where the reporting database will be stored.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=0)** - [Instructor] With the Report Server now installed, we need to configure the connections to the [[Microsoft SQL Server|SQL Server]] instance where the reporting database will be stored.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=9)** Now, this doesn't need to be the same SQL Server instance where your actual data is stored, though.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=14)** In fact, in a production environment, it's often advantageous to have Reporting Services use a SQL Server instance that's on separate hardware from your main databases.
+> **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=14)** In fact, in a production environment, it's often advantageous to have Reporting Services use a SQL Server instance that's on separate [[Hardware]] from your main [[Databases]].
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=24)** As long as the SQL Server instance that houses Reporting Services can access the instance that houses your data across the network, everything will work out fine.
 >
@@ -371,15 +365,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=53)** To start the configuration process, you can either press the button at the bottom of the Reporting Services Installation window if you have that still open.
 >
-> **[1:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=61)** Or if you've closed that window like I have, you can come down to your Start menu, and you should find a program group for Microsoft SQL Server Reporting Services.
+> **[1:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=61)** Or if you've closed that window like I have, you can come down to your Start menu, and you should find a program group for [[Microsoft SQL Server]] Reporting Services.
 >
-> **[1:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=70)** And in there is a tool called Report Server Configuration Manager.
+> **[1:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=70)** And in there is a tool called Report [[Server Configuration]] Manager.
 >
 > **[1:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=74)** This is the tool that we'll use to connect our Report Server to SQL Server.
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=79)** Now, the first step is to find a SQL Server instance.
 >
-> **[1:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=82)** On my computer, I have a default SQL Server instance currently running on my machine, which is called WINDOWS 10-PC.
+> **[1:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=82)** On my computer, I have a default SQL Server instance currently running on my machine, which is called [[Windows 10]]-PC.
 >
 > **[1:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=90)** If you have a named instance of SQL Server or if it's on a remote computer, you would put the IP address or the server name here, just like you would when connecting using Management Studio.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=254)** Here, we specify the server name and provide the credentials to access that server.
 >
-> **[4:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=259)** You can use your Windows account or provide a SQL Server login account name and password.
+> **[4:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=259)** You can use your [[Windows]] account or provide a SQL Server login account name and password.
 >
 > **[4:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/configure-the-report-server?u=76281980&t=264)** Press the Test Connection button to make sure that the settings are correct.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[Microsoft SQL Server|Sql server]] (11), data (7), next (6), web (6)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[Databases]] (3), [[Hardware]] (2), [[Microsoft SQL Server]] (1), [[Server Configuration]] (1)
 > **Env Vars:** sql (12), url (6), windows (1), https (1)
 > **CLI Commands:** make (7), find (3)
 > **Prerequisites:** configure (4), set up (2), setup (1), you'll need (1)
@@ -508,16 +502,15 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the example database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980)
+#### [Set up the example database](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=0)** - [Instructor] To demonstrate how to build reports with SQL Server Reporting Services, we'll need some data to work with.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=0)** - [Instructor] To demonstrate how to build reports with [[Microsoft SQL Server|SQL Server]] Reporting Services, we'll need some data to work with.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=6)** For this course, I'll be using the sample database from Microsoft called Wide World Importers.
+> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=6)** For this course, I'll be using the sample database from [[Microsoft]] called Wide World Importers.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=12)** You can get your own copy from the GitHub project page at this URL.
+> **[0:12](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=12)** You can get your own copy from the [[GitHub]] project page at this URL.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=16)** Scroll down on the page until you find the link to the Wide World Importers-Full.bak file, and I'll go ahead and click on that link to download a copy of the backup file.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=27)** I'll go into my Downloads folder.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=29)** I'll cut it to my clipboard, and then I'll browse into my C Drive, Program Files, Microsoft SQL Server.
+> **[0:29](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=29)** I'll cut it to my clipboard, and then I'll browse into my C Drive, Program Files, [[Microsoft SQL Server]].
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=36)** Then we'll go into the folder for the server instance that we want to work with.
 >
@@ -541,7 +534,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=67)** Now we can go into Management Studio and restore that database backup.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=71)** I'll right click on the databases folder in the Object Explorer panel and choose Restore Database.
+> **[1:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=71)** I'll right click on the [[Databases]] folder in the Object Explorer panel and choose Restore Database.
 >
 > **[1:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/set-up-the-example-database-25001009?u=76281980&t=77)** Then our source is going to be from a device, and I'll click the ellipsis button on the right.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (2), data (1), [[Microsoft]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1), [[GitHub]] (1), [[Microsoft SQL Server]] (1), [[Databases]] (1)
 > **Env Vars:** sql (3), mssql (3), url (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), in the toolbar (1)
 > **CLI Commands:** find (2)
@@ -575,16 +568,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access the web portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980)
+#### [Access the web portal](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=0)** - [Instructor] In addition to creating the reporting services database on the SQL Server instance, the configuration process also created a web server that'll allow users to easily access the reports that we're going to create.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=0)** - [Instructor] In addition to creating the reporting services database on the [[Microsoft SQL Server|SQL Server]] instance, the configuration process also created a web server that'll allow users to easily access the reports that we're going to create.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=14)** If you accepted the default configurations, then you should be able to access it by opening up a web browser and going to http colon slash slash the name of your computer slash reports.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=27)** You can also specify the IP address of your machine or the word local host instead of the computer name.
+> **[0:27](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=27)** You can also specify the IP address of your machine or the [[Microsoft Word|word]] local host instead of the computer name.
 >
 > **[0:34](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=34)** Also, if you set up an SSL certificate, you may need to use HTTPS to create a secure connection instead of just HTTP, and if you decided to customize your connection port, you'll need to add that to the URL after the name of the computer.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=110)** If you set up a different port in the configuration manager, then obviously your firewall settings will need to be adjusted to match your custom setup.
 >
-> **[1:58](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=118)** I'm going to do a quick search here for Windows Firewall and open up the control panel for the Windows Defender.
+> **[1:58](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=118)** I'm going to do a quick search here for [[Windows]] Firewall and open up the control panel for the Windows [[Microsoft Defender|Defender]].
 >
 > **[2:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=125)** Then I'll click to advanced settings.
 >
@@ -654,7 +646,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=255)** I'll give the new group or username the same name that I'm using on my Windows computer.
 >
-> **[4:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=259)** That's Windows 10 dash PC back slash Adam.
+> **[4:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=259)** That's [[Windows 10]] dash PC back slash Adam.
 >
 > **[4:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=264)** Then I'll assign myself to all of the roles available.
 >
@@ -668,13 +660,13 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=283)** Now I'm connected using the administrator account, and it tells me that the folder is empty instead of giving me that error message.
 >
-> **[4:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=290)** So that's how you get access to the reporting Services web portal where you'll be able to access all of your reports and build custom dashboards around your data.
+> **[4:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=290)** So that's how you get access to the reporting Services web portal where you'll be able to access all of your reports and build custom [[Dashboards]] around your data.
 >
 > **[4:59](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/access-the-web-portal?u=76281980&t=299)** Feel free to bookmark this page for easy access.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), web (6), next (4), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Defender|Defender]] (2), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
 > **Env Vars:** tcp (3), sql (2), url (2), ssl (1), https (1)
 > **Prerequisites:** set up (2), you'll need (2), setup (1)
 > **CLI Commands:** make (2)
@@ -683,8 +675,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), just like (1)
 > **Ports:** port 80 (1)
 
-#### Install Report Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980)
+#### [Install Report Builder](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=11)** And you can get to the installation file from right inside the portal.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=15)** Unfortunately, the Report Builder is only available for Windows computers, so I'm going to be working on my PC for the rest of this course.
+> **[0:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=15)** Unfortunately, the Report Builder is only available for [[Windows]] computers, so I'm going to be working on my PC for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=24)** Up in the upper right hand corner of the Reporting Services web portal, click on the Download button and then choose Report Builder.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=63)** Now you can find the Report Builder in a couple of different ways.
 >
-> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=66)** You can either go down into your Program Files and you should see a new folder here for Microsoft Report Builder with the application right there.
+> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=66)** You can either go down into your Program Files and you should see a new folder here for [[Microsoft]] Report Builder with the application right there.
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=75)** But you can also get to it through the web portal.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=123)** Then I'll dismiss this button that says that we're opening up Report Builder.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=127)** Now at this point, we have SQL Server Reporting Services fully installed.
+> **[2:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=127)** Now at this point, we have [[Microsoft SQL Server|SQL Server]] Reporting Services fully installed.
 >
 > **[2:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/install-report-builder?u=76281980&t=131)** The database is configured, the web portal is up and running, and we have the application to build reports all set up and working together.
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), application (5), next (5), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (1), sql (1)
@@ -767,8 +758,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980)
+#### [Components of a report](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=39)** This component retrieves specific data from the database that you want to visualize in the report.
 >
-> **[0:45](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=45)** The dataset will be made up of table columns and data rows, and you'll pull them into report builder using standard transact SQL queries.
+> **[0:45](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=45)** The dataset will be made up of table columns and data rows, and you'll pull them into report builder using standard transact [[SQL]] queries.
 >
 > **[0:55](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=55)** Report Builder will allow you to either write out these queries manually, or you can use a graphical interface to build a query that gets to the information that you're interested in.
 >
@@ -804,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=104)** All of that will get placed on a piece of paper.
 >
-> **[1:48](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=108)** This step in constructing a report is very much like using a page layout program such as Publisher or making slides in PowerPoint.
+> **[1:48](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=108)** This step in constructing a report is very much like using a page layout program such as Publisher or making slides in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980&t=117)** You'll make use of a number of different objects, place them on the page where you want them, and configure and format them to bring them to life, and apply your own personal style.
 >
@@ -816,7 +806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), database (3), next (1), [[SQL]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** sql (1)
@@ -824,8 +814,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a report data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980)
+#### [Create a report data source](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=11)** Now, depending on the width of your browser window, you might just see the plus icon without the text New next to it.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=17)** The portal also scales with your web browser zoom level, so you might want to zoom out or in if the text is too large or too small for your liking.
+> **[0:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=17)** The portal also scales with your web browser [[Zoom]] level, so you might want to zoom out or in if the text is too large or too small for your liking.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=26)** Okay, go ahead and choose New and then Paginated Report.
 >
@@ -847,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=44)** The options presented in the Wizards will make a little bit more sense later on once we have a good idea of what's going on behind the scenes.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=52)** Now, the Report Builder application is organized like a typical Microsoft Office app, so if you're familiar with Word, or Excel, or Access, you should recognize the standard ribbon interface across the top of the screen.
+> **[0:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=52)** Now, the Report Builder application is organized like a typical [[Microsoft Office]] app, so if you're familiar with [[Microsoft Word|Word]], or [[Microsoft Excel|Excel]], or Access, you should recognize the standard ribbon interface across the top of the screen.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=65)** The File tab will give you access to options to create a new report, open existing reports, or save the current report.
 >
@@ -855,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=82)** The Insert tab includes all of the different components that we can add to the report, including tables, charts, and images.
 >
-> **[1:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=90)** And finally, the View tab simply includes a couple of interface windows that we can show or hide with these check boxes.
+> **[1:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=90)** And finally, the View tab simply includes a couple of interface [[Windows]] that we can show or hide with these check boxes.
 >
 > **[1:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=98)** Right now, I have the Report Data window open, which is this portion of the screen over here on the left.
 >
@@ -871,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=136)** This is the location where we're going to go to get the data that we want to display in the report.
 >
-> **[2:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=142)** Most often, this will be a connection to a specific SQL Server database.
+> **[2:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=142)** Most often, this will be a connection to a specific [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[2:27](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=147)** In the Report Data window on the left side of the screen, there's a number of folders that contain the different elements that make up the report.
 >
@@ -907,9 +896,9 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=231)** Again, this is typically going to be to a SQL Server instance, but you do have additional types that you can choose from.
 >
-> **[3:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=237)** For instance, if your data is stored on an Azure SQL database, or an Oracle database, or any of these other options, you can simply choose them from the list.
+> **[3:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=237)** For instance, if your data is stored on an [[Microsoft Azure|Azure]] [[SQL]] database, or an Oracle database, or any of these other options, you can simply choose them from the list.
 >
-> **[4:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=245)** I'll make sure that mine stays Microsoft SQL Server.
+> **[4:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=245)** I'll make sure that mine stays [[Microsoft SQL Server]].
 >
 > **[4:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=249)** Once you've chosen your type, you need to provide the connection string that'll give the Report Builder access to that database server.
 >
@@ -939,7 +928,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=337)** If this connection information is valid, you should now be able to use this dropdown menu to choose a database on the server to connect to.
 >
-> **[5:46](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=346)** You'll be allowed to choose from all of the databases that you can typically see on your own SQL Server instance.
+> **[5:46](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=346)** You'll be allowed to choose from all of the [[Databases]] that you can typically see on your own SQL Server instance.
 >
 > **[5:51](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-report-data-source?u=76281980&t=351)** I'll choose the WideWorldImporters database from the list.
 >
@@ -983,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (10), [[Microsoft SQL Server|Sql server]] (6), next (5), application (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Windows]] (4), [[Zoom]] (2), [[Databases]] (2), [[Microsoft Office]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** right-click (2), toggle (1), dropdown (1), double-click (1)
@@ -992,8 +981,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Prerequisites:** set up (1), you'll need (1)
 
-#### Create a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980)
+#### [Create a dataset](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1009,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=60)** Then we'll use the data source that we previously set up to connect to the Wide World Importers database.
 >
-> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=66)** And finally below is where we can type in the query that'll fetch the data that we're interested in viewing in our report.
+> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=66)** And finally below is where we can type in the query that'll [[Fetch]] the data that we're interested in viewing in our report.
 >
 > **[1:13](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=73)** If you feel comfortable writing TSQL queries, then you can have at it typing right into this window.
 >
@@ -1035,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=94)** Now, one thing you might notice is that the top level folders correspond to the schemas used in the database.
 >
-> **[1:40](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=100)** In the Wide World Importers database, tables, views, and stored procedures are all organized into schemas called application, data load simulation, integration, and so on.
+> **[1:40](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=100)** In the Wide World Importers database, tables, views, and stored procedures are all organized into schemas called application, data load [[Simulation]], integration, and so on.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=112)** So this tree structure might look a little bit different than what you're used to seeing in Management Studio.
 >
@@ -1059,7 +1047,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=179)** That'll place those selected fields over here on the right.
 >
-> **[3:02](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=182)** Now, if you'd like to review the syntax of the SQL query that's being built for us, you can press the edit as text button in the upper left hand corner.
+> **[3:02](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=182)** Now, if you'd like to review the syntax of the [[SQL]] query that's being built for us, you can press the edit as text button in the upper left hand corner.
 >
 > **[3:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dataset?u=76281980&t=191)** There should be no surprises here that it's pretty basic.
 >
@@ -1119,7 +1107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (12), application (5), [[SQL]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Fetch]] (1), [[Simulation]] (1)
 > **UI Navigation:** click on (4), open the (1), select the (1)
 > **Env Vars:** tsql (2), sql (2), ssms (1)
 > **CLI Commands:** find (2), make (1)
@@ -1128,8 +1116,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Add a data table with the wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980)
+#### [Add a data table with the wizard](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,7 +1144,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=58)** Then we need to arrange the fields into the table structure.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=62)** If you've ever built a pivot table in Excel, then this'll probably look pretty familiar.
+> **[1:02](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=62)** If you've ever built a pivot table in [[Microsoft Excel|Excel]], then this'll probably look pretty familiar.
 >
 > **[1:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=67)** On the left are the different columns that are coming out of our dataset.
 >
@@ -1251,7 +1238,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=303)** Let's go ahead and give it the name People.
 >
-> **[5:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=305)** I'll go ahead and press the Save button, and then I can close the Microsoft Report Builder application.
+> **[5:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=305)** I'll go ahead and press the Save button, and then I can close the [[Microsoft]] Report Builder application.
 >
 > **[5:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-data-table-with-the-wizard?u=76281980&t=311)** Back on the portal, I'll close this window that tells me that I'm opening Report Builder, which was a leftover from before.
 >
@@ -1267,20 +1254,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (4), database (2), web (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (6), drag and drop (1), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [adam] (1)
 
-#### Joining data tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980)
+#### [Joining data tables](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=0)** - [Adam] Most SQL Server databases break data up across multiple related data tables.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=0)** - [Adam] Most [[Microsoft SQL Server|SQL Server]] [[Databases]] break data up across multiple related data tables.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=6)** It's the configuration that makes relational databases relational.
+> **[0:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=6)** It's the configuration that makes [[Relational Databases]] relational.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=10)** Adding data to a report that spans across tables is simplified using the dataset graphical interface.
 >
@@ -1296,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=36)** Then, I'll embed the connection into the report, we'll connect to a SQL Server, and I'll press the Build button over here on the right.
 >
-> **[0:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=43)** The server name will be my PC, and I'll use Windows Authentication.
+> **[0:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=43)** The server name will be my PC, and I'll use [[Windows]] Authentication.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=48)** Then, using the dropdown menu, I'll select the WideWorldImporters database.
 >
@@ -1350,7 +1336,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=192)** I'll turn Auto Detect back on, which will discard any manually entered joins.
 >
-> **[3:18](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=198)** Now, we can make one additional sanity check by clicking on the Edit as Text button in the upper left-hand corner to view the T-SQL code to see that it indeed is the inner join that's being correctly created between the two tables.
+> **[3:18](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=198)** Now, we can make one additional sanity check by clicking on the Edit as Text button in the upper left-hand corner to view the T-[[SQL]] code to see that it indeed is the inner join that's being correctly created between the two tables.
 >
 > **[3:31](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=211)** Let me go ahead and expand it here, and we'll see that in the FROM clause.
 >
@@ -1396,7 +1382,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=304)** So that's actually looking pretty good, I actually got it all to line up, so that each row takes up just a single line.
 >
-> **[5:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=310)** So now, I can see that purchase order number 1, which represents these first three lines here, included three different products for these action figure packs.
+> **[5:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=310)** So now, I can see that purchase order number 1, which represents these first three lines here, included three different [[Microsoft Products|products]] for these action figure packs.
 >
 > **[5:20](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/joining-data-tables?u=76281980&t=320)** Let's go and press the Save icon up here in the upper left-hand corner, and I'll save this report to my dashboard, and I'll call it Purchase Orders.
 >
@@ -1410,15 +1396,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), next (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Relational Databases]] (1), [[Windows]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (3), select the (2), dropdown (1), toggle (1), go to (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [adam] (1)
 
-#### Format a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-a-report?u=76281980)
+#### [Format a report](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1593,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (4)
 > **CLI Commands:** make (15)
 > **UI Navigation:** select the (5), click on (2), switch to (2), double-click (1), dropdown (1)
 > **Definitions:** is a  (2)
@@ -1617,8 +1601,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing report properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/reviewing-report-properties?u=76281980)
+#### [Reviewing report properties](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/reviewing-report-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1752,15 +1735,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (1)
 > **UI Navigation:** click on (4), select the (4), scroll up (2), scroll down (2), dropdown (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### View, print, and export a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980)
+#### [View, print, and export a report](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1770,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980&t=11)** Then on the toolbar, you'll find the disk icon.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980&t=14)** This menu will allow you to export your report to a number of different formats, including Word, Excel, PowerPoint, PDF, you can save it as a TIFF image, or an XML, or a CSV text file.
+> **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980&t=14)** This menu will allow you to export your report to a number of different formats, including [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], PDF, you can save it as a TIFF image, or an XML, or a CSV text file.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/view-print-and-export-a-report?u=76281980&t=28)** Now, there's a bunch of different options for saving this data in whatever format you might want.
 >
@@ -1810,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** pdf (6), tiff (1), xml (1), csv (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (1)
@@ -1822,14 +1803,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a shared data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980)
+#### [Create a shared data source](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=0)** - [Instructor] Rather than embedding the data source connection information inside of each individual report, you can create shared data sources on the report server.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=9)** The reports can reference when it comes time for them to fetch data from a database.
+> **[0:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=9)** The reports can reference when it comes time for them to [[Fetch]] data from a database.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=14)** This makes management of the data sources easier.
 >
@@ -1855,9 +1835,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=52)** That way we can use it in our reports, and we'll scroll down to the connection details.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=57)** This is the type of connection that we want to make, whether it's to a SQL Server instance or Oracle, or some other type of database server.
+> **[0:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=57)** This is the type of connection that we want to make, whether it's to a [[Microsoft SQL Server|SQL Server]] instance or Oracle, or some other type of database server.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=64)** I'll leave mine to Microsoft SQL Server.
+> **[1:04](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=64)** I'll leave mine to [[Microsoft SQL Server]].
 >
 > **[1:07](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=67)** That brings us to the connection string.
 >
@@ -1897,7 +1877,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=189)** You can also choose the option to prompt the user for a username and password.
 >
-> **[3:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=194)** With this option, you can choose to accept either a Windows username and password or to use SQL Server authentication username and passwords.
+> **[3:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=194)** With this option, you can choose to accept either a [[Windows]] username and password or to use SQL Server authentication username and passwords.
 >
 > **[3:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980&t=203)** And finally, you can choose the option to not provide any credentials at all.
 >
@@ -1949,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), database (8), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), [[Fetch]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** scroll down (3), click on (3)
 > **CLI Commands:** make (4), find (1)
@@ -1957,8 +1937,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a shared dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-dataset?u=76281980)
+#### [Create a shared dataset](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2036,15 +2015,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (8), management (2), next (2), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980)
+#### [Filtering data](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2100,7 +2077,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980&t=132)** We can now filter this down to just a specific color.
 >
-> **[2:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980&t=135)** Let's say that I only wanted this report to display details about the yellow products.
+> **[2:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980&t=135)** Let's say that I only wanted this report to display details about the yellow [[Microsoft Products|products]].
 >
 > **[2:20](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/filtering-data?u=76281980&t=140)** Let's go back into Design view, then I'll expand the Datasets folder.
 >
@@ -2196,14 +2173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Products|Products]] (4), next (3), database (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **UI Navigation:** select the (7), click on (3), go to (2), double-click (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping data in a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980)
+#### [Grouping data in a report](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2267,7 +2243,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980&t=154)** On the left, we have each category of item that we carry in the warehouse.
 >
-> **[2:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980&t=158)** You can click the plus button to the left of each category name to dig into the individual products within.
+> **[2:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980&t=158)** You can click the plus button to the left of each category name to dig into the individual [[Microsoft Products|products]] within.
 >
 > **[2:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/grouping-data-in-a-report?u=76281980&t=164)** So, here are all of our clothing items.
 >
@@ -2299,13 +2275,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), product (1), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand matrixes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980)
+#### [Understand matrixes](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2351,7 +2326,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=112)** So we'll count up the number of items at the intersection of a specific color and group name, or we can sum up the values if we were working with numeric data in the values box, or find the average.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=125)** If you've worked with pivot tables in Excel or cross tab queries in an access database, then this concept might be familiar.
+> **[2:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=125)** If you've worked with [[Pivot Tables]] in [[Microsoft Excel|Excel]] or cross tab queries in an access database, then this concept might be familiar.
 >
 > **[2:12](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=132)** So even though I'm placing the stock item name in the values box, we won't actually see any names in the final matrix.
 >
@@ -2359,7 +2334,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=144)** You can see the list of aggregate calculations by clicking the down arrow to the right hand side of stock item name in the values box.
 >
-> **[2:31](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=151)** If you've worked with aggregate functions in transact-SQL queries, then these are all going to look familiar to you.
+> **[2:31](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=151)** If you've worked with aggregate functions in [[Transact-SQL (T-SQL)|transact-SQL]] queries, then these are all going to look familiar to you.
 >
 > **[2:37](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=157)** Since we're dealing with text values, the only one that really applies is going to be count or count distinct, and I'll just choose count.
 >
@@ -2411,7 +2386,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=277)** And there are summary totals at the bottom and the right side.
 >
-> **[4:40](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=280)** So for instance, it's easy to see that there are 130 black products, and you can see the breakdown of each one.
+> **[4:40](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=280)** So for instance, it's easy to see that there are 130 black [[Microsoft Products|products]], and you can see the breakdown of each one.
 >
 > **[4:47](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/understand-matrixes?u=76281980&t=287)** Within the clothing group, we have 42 black products computing novelties.
 >
@@ -2431,7 +2406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (6), next (4), product (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (3)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -2439,12 +2414,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980)
+#### [Use aggregate functions](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=0)** - [Instructor] The SQL aggregate functions that we saw when working with the matrix can also be applied in other areas of your reports, functions like count, sum, average, and so on, and in fact, the entire suite of TSQL Query functions can be used to provide useful summaries that'll help readers of your reports get more context about the range and size of the dataset that they're reviewing.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=0)** - [Instructor] The [[SQL]] aggregate functions that we saw when working with the matrix can also be applied in other areas of your reports, functions like count, sum, average, and so on, and in fact, the entire suite of TSQL Query functions can be used to provide useful summaries that'll help readers of your reports get more context about the range and size of the dataset that they're reviewing.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=23)** I want to modify the table that we built into the Stock Items by Group report.
 >
@@ -2464,7 +2438,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=83)** Also, notice that when a group name is collapsed, nothing will appear in column number two, since this cell is empty, and likewise when the group is expanded, nothing will appear next to each item name in the first column, because this cell is empty, We can populate these empty cells with information if it makes sense to do so.
 >
-> **[1:42](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=102)** One way would be to get a count of how many products appear in each group, and we can place the result of that calculation in the first cell of the second column.
+> **[1:42](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=102)** One way would be to get a count of how many [[Microsoft Products|products]] appear in each group, and we can place the result of that calculation in the first cell of the second column.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=112)** To do that, we'll click in the cell and make sure that the text box is selected over here in the properties.
 >
@@ -2516,13 +2490,13 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=257)** And since we're only displaying a single record for each product group, it's only displaying the first value.
 >
-> **[4:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=263)** The bottom of the window will help you explore all of the built-in functions that SQL server ships with, as well as any other query elements that we can incorporate into the expression above.
+> **[4:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=263)** The bottom of the window will help you explore all of the built-in functions that [[Microsoft SQL Server|SQL server]] ships with, as well as any other query elements that we can incorporate into the expression above.
 >
 > **[4:33](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=273)** Expand the common functions list and we have a number of categories.
 >
-> **[4:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=278)** These are just like the formula books that you might have used in Microsoft Excel spreadsheets.
+> **[4:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=278)** These are just like the formula books that you might have used in [[Microsoft Excel]] spreadsheets.
 >
-> **[4:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=283)** Inside of the aggregate functions, you'll see all the different aggregate functions from Transact-SQL.
+> **[4:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=283)** Inside of the aggregate functions, you'll see all the different aggregate functions from [[Transact-SQL (T-SQL)|Transact-SQL]].
 >
 > **[4:49](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=289)** Selecting one will give you a description and a number of examples of how to use it on the right.
 >
@@ -2594,7 +2568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (4), product (3), next (2), [[Transact-SQL (T-SQL)|Transact-sql]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** select the (7), click on (2), dropdown (1)
 > **CLI Commands:** make (5), find (4)
 > **Env Vars:** sql (4), tsql (1)
@@ -2608,12 +2582,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convert filters into parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980)
+#### [Convert filters into parameters](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=0)** - [Instructor] When I created the report that took a look at the warehouse products by color, I included two tables: one to display yellow products and one to display red products.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=0)** - [Instructor] When I created the report that took a look at the warehouse [[Microsoft Products|products]] by color, I included two tables: one to display yellow products and one to display red products.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=10)** The idea being is that if someone was only interested in products of a specific color, they could simply jump to that point in the report and quickly find what they're after.
 >
@@ -2687,7 +2660,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=188)** Now, in order to give the end user of the report the ability to customize the filter being applied to the data, all you need to do is check this box over here on the right that says Parameter.
 >
-> **[3:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=199)** If you review the T-SQL code by clicking the Edit as Text button and take a look at the query, you'll see in the WHERE clause that we have a parameter or a variable that's been put in called ColorName.
+> **[3:19](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=199)** If you review the T-[[SQL]] code by clicking the Edit as Text button and take a look at the query, you'll see in the WHERE clause that we have a parameter or a variable that's been put in called ColorName.
 >
 > **[3:31](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980&t=211)** So it says WHERE the Warehouse.Colors.ColorName is equal to @ColorName.
 >
@@ -2739,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), next (6), data (6), database (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[SQL]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** where (5), sql (2)
 > **SQL:** where (5)
@@ -2747,8 +2720,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Report parameter properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980)
+#### [Report parameter properties](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2802,7 +2774,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=145)** This option will go back to the database and see what colors are available, and then generate a list dynamically.
 >
-> **[2:32](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=152)** This will be helpful because, while maybe we don't have any pink products right now, if we added a pink product tomorrow, this list would automatically update to add that color to the available choices.
+> **[2:32](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=152)** This will be helpful because, while maybe we don't have any pink [[Microsoft Products|products]] right now, if we added a pink product tomorrow, this list would automatically update to add that color to the available choices.
 >
 > **[2:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=164)** If you create the list by specifying values, then you'd have to come back into the report to add pink to the list manually.
 >
@@ -2854,7 +2826,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=261)** To do that, I need to edit this query as text.
 >
-> **[4:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=264)** That'll allow me to manually enter the T-SQL code.
+> **[4:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=264)** That'll allow me to manually enter the T-[[SQL]] code.
 >
 > **[4:28](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-parameter-properties?u=76281980&t=268)** Then I'm going to actually get rid of the stock item ID field here in the select clause, and change it to select distinct.
 >
@@ -2932,7 +2904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), product (3), prompt (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SQL]] (1)
 > **UI Navigation:** dropdown (5), click on (3), checkbox (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -2940,8 +2912,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a dynamic report title
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980)
+#### [Make a dynamic report title](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2971,7 +2942,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=69)** In fact, I'm going to create a title that adds static text to the dynamic variable text.
 >
-> **[1:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=74)** I'll say [@ColorName] Products.
+> **[1:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=74)** I'll say [@ColorName] [[Microsoft Products|Products]].
 >
 > **[1:17](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=77)** Now the title will read "Yellow Products" or "Blue Products" depending on what's chosen.
 >
@@ -2987,14 +2958,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a parameter manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-parameter-manually?u=76281980)
+#### [Add a parameter manually](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-parameter-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3120,7 +3090,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (5), prompt (1)
 > **UI Navigation:** click on (5), dropdown (2), select the (1), checkbox (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
@@ -3128,8 +3097,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Report actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-actions?u=76281980)
+#### [Report actions](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/report-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3259,7 +3227,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (2), database (1), web (1)
 > **UI Navigation:** click on (6), go to (3), drag and drop (1), scroll up (1), select the (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (4)
@@ -3267,8 +3234,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort records in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/sort-records-in-a-table?u=76281980)
+#### [Sort records in a table](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/sort-records-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3416,7 +3382,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (1), next (1)
 > **UI Navigation:** click on (5), select the (4), go to (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -3429,8 +3394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980)
+#### [Introduction to charts](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3442,7 +3406,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980&t=21)** They come in a variety of formats that are suited to different understandings of the data.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980&t=26)** If you've worked with data in Excel, then you probably already know the basics.
+> **[0:26](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980&t=26)** If you've worked with data in [[Microsoft Excel|Excel]], then you probably already know the basics.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980&t=30)** Line charts are good for showing trends over time.
 >
@@ -3498,13 +3462,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** picture (1), just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Create a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-chart?u=76281980)
+#### [Create a chart](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3584,14 +3547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), database (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Add additional data series
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980)
+#### [Add additional data series](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3683,7 +3644,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980&t=215)** Now there is one problem and you might have spotted it already.
 >
-> **[3:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980&t=218)** Having the table built on the same dataset is efficient since the report only needs to make a single query to the database to fetch the data.
+> **[3:38](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980&t=218)** Having the table built on the same dataset is efficient since the report only needs to make a single query to the database to [[Fetch]] the data.
 >
 > **[3:46](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-additional-data-series?u=76281980&t=226)** But because we modified the filter, both years are now showing up in the table.
 >
@@ -3729,14 +3690,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (2), [[Fetch]] (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **UI Navigation:** click on (2), double-click (2), select the (2), go to (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Format charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980)
+#### [Format charts](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3764,7 +3724,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980&t=60)** First, I want to close the Properties window if it's open because we're going to need that extra space over on the right side of the screen.
 >
-> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980&t=66)** Everything that I need to change can be found in the pop-up Properties windows for each element, and it's a little bit better organized that way.
+> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980&t=66)** Everything that I need to change can be found in the pop-up Properties [[Windows]] for each element, and it's a little bit better organized that way.
 >
 > **[1:14](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/format-charts?u=76281980&t=74)** Feel free to explore the Properties window though to find alternate locations where these options can be set.
 >
@@ -3930,7 +3890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (5), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** right-click (12), select the (4), click on (1), in the menu (1), dropdown (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -3943,8 +3903,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gauges
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980)
+#### [Gauges](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4108,7 +4067,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=371)** So that's all I need to change here.
 >
-> **[6:13](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=373)** But feel free to spend a few moments going through some of the many options in this window, as well as the other three property windows to get a feel for the wealth of options available for customizing your gauge.
+> **[6:13](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=373)** But feel free to spend a few moments going through some of the many options in this window, as well as the other three property [[Windows]] to get a feel for the wealth of options available for customizing your gauge.
 >
 > **[6:25](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=385)** Press okay, and that returns us back into the report.
 >
@@ -4124,7 +4083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (9), database (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (8), find (3)
 > **UI Navigation:** dropdown (1), click on (1), select the (1)
 > **Analogies:** for instance (1), just like (1)
@@ -4132,8 +4091,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980)
+#### [Indicators](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4243,7 +4201,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), traffic (3), next (1)
 > **UI Navigation:** dropdown (3), click on (2), switch to (1), checkbox (1)
 > **Versions:** 3.9 (3), 3.6 (2)
 > **CLI Commands:** find (1), make (1)
@@ -4252,8 +4209,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/data-bars?u=76281980)
+#### [Data bars](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/data-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4345,7 +4301,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **Analogies:** just like (2), similar to (1)
@@ -4353,8 +4308,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a sparkline dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980)
+#### [Create a sparkline dataset](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4398,7 +4352,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980&t=108)** I'll create a new dataset and press next and select the Wide World Importers shared data source.
 >
-> **[1:54](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980&t=114)** Next, I will edit this query as text, and I'm going to paste in a SQL query that I have on my clipboard.
+> **[1:54](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980&t=114)** Next, I will edit this query as text, and I'm going to paste in a [[SQL]] query that I have on my clipboard.
 >
 > **[2:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-sparkline-dataset?u=76281980&t=121)** You'll find a copy of it in the course exercise files.
 >
@@ -4500,7 +4454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (9), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **UI Navigation:** go to (5), select the (4), click on (3), drag and drop (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -4509,8 +4463,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Display a sparkline
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/display-a-sparkline?u=76281980)
+#### [Display a sparkline](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/display-a-sparkline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4580,15 +4533,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** right-click (3), click on (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980)
+#### [Maps](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4630,13 +4581,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=83)** Many governmental organizations around the world provide shapefiles for their regions, so you might be able to find a shapefile that works for you to add your data to.
 >
-> **[1:33](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=93)** The last option is to pull spatial data from a SQL Server database if you have some stored.
+> **[1:33](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=93)** The last option is to pull spatial data from a [[Microsoft SQL Server|SQL Server]] database if you have some stored.
 >
 > **[1:39](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=99)** I'll choose the option to use the state map with the inset here, the USA state by inset map, and press Next.
 >
 > **[1:47](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=107)** Then, on this screen, we can position the map on the screen.
 >
-> **[1:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=110)** I'm going to zoom out just a little bit to fit the whole country into the bounding box area.
+> **[1:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=110)** I'm going to [[Zoom]] out just a little bit to fit the whole country into the bounding box area.
 >
 > **[1:55](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/maps?u=76281980&t=115)** On the bottom, we have the option to add in a Bing Maps layer to visualize the background.
 >
@@ -4748,7 +4699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), next (9), database (8), [[Microsoft SQL Server|Sql server]] (6), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Zoom]] (1)
 > **Env Vars:** sql (6), usa (2), esri (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (3)
@@ -4761,8 +4712,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Include header and footer details
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980)
+#### [Include header and footer details](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4914,7 +4864,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980&t=373)** Let me expand a couple of the stock list categories just to make the report a little bit taller, and then I can click the print layout button to see what it would look like printed to a piece of paper.
 >
-> **[6:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980&t=384)** If you want to, you can zoom into the page using this widget over here on the left, I'll change it to 75% to make it a little bit larger.
+> **[6:24](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980&t=384)** If you want to, you can [[Zoom]] into the page using this widget over here on the left, I'll change it to 75% to make it a little bit larger.
 >
 > **[6:32](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980&t=392)** So now we have the header section at the very top of the page that has the text wide world importers.
 >
@@ -4930,15 +4880,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), web (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** click on (3), go to (2), select the (2), scroll down (2), drag and drop (1)
 > **Env Vars:** url (1), pdf (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - most (1)
 
-#### Add graphics and logos
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-graphics-and-logos?u=76281980)
+#### [Add graphics and logos](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-graphics-and-logos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5002,7 +4951,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), database (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** png (2)
 > **UI Navigation:** dropdown (2)
@@ -5010,8 +4958,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Align page elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/align-page-elements?u=76281980)
+#### [Align page elements](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/align-page-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5052,8 +4999,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert page breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/insert-page-breaks?u=76281980)
+#### [Insert page breaks](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/insert-page-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5177,7 +5123,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (3), web (1)
 > **UI Navigation:** go to (3), click on (2), select the (1), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** means that (1)
@@ -5188,8 +5133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add a key performance indicator (KPI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980)
+#### [Add a key performance indicator (KPI)](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5215,7 +5159,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980&t=66)** That is our key performance indicator.
 >
-> **[1:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980&t=69)** I'm almost positive that you have the same kind of metrics that provide insight into your own business operations.
+> **[1:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980&t=69)** I'm almost positive that you have the same kind of metrics that provide insight into your own [[Business Operations]].
 >
 > **[1:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980&t=76)** To add a KPI to the portal, you'll just come to the New menu and choose KPI from the list.
 >
@@ -5285,7 +5229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), database (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Env Vars:** kpi (12), url (1)
 > **Definitions:** is called (1), is an  (1), in other words (1), is a  (1)
 > **CLI Commands:** make (3)
@@ -5294,8 +5238,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a dynamic KPI
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dynamic-kpi?u=76281980)
+#### [Create a dynamic KPI](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-dynamic-kpi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5397,7 +5340,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3), hit (1)
 > **Env Vars:** kpi (7), kpi_2016 (3)
 > **UI Navigation:** scroll down (3), dropdown (1), click on (1)
 > **Non-Speech:** (keyboard clicking) (2)
@@ -5405,9 +5347,9 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
-#### Organize the web portal with folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/organize-the-web-portal-with-folders?u=76281980)
+#### [Organize the web portal with folders](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/organize-the-web-portal-with-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5473,15 +5415,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), web (2), [[Search]] (2), next (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** scroll down (1), select the (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize the web portal branding
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980)
+#### [Customize the web portal branding](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5501,7 +5441,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=36)** The actual file that we'll upload, the brand package itself, is nothing more than a standard zip file that contains two or three files.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=44)** The first file that this zip contains is called metadata.xml.
+> **[0:44](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=44)** The first file that this zip contains is called [[Metadata]].xml.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=48)** Let me right click on that, and we'll open it in Notepad to see what it contains.
 >
@@ -5511,7 +5451,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=61)** Below, it describes the path to two other resources.
 >
-> **[1:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=65)** colors.json is required, and it's the file that'll define our custom colors.
+> **[1:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=65)** colors.[[JSON]] is required, and it's the file that'll define our custom colors.
 >
 > **[1:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/customize-the-web-portal-branding?u=76281980&t=70)** The logo.png file is optional.
 >
@@ -5587,7 +5527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), web (3), [[Metadata]] (3), functional (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Metadata]] (3)
 > **File Paths:** colors.json (3), metadata.xml (2)
 > **Env Vars:** https (2), http (1), json (1)
 > **CLI Commands:** find (2), make (1)
@@ -5596,8 +5536,7 @@ created: 2026-05-02
 > **URLs:** [0to255.com](https://0to255.com) (1)
 > **UI Navigation:** click on (1)
 
-#### Create an SSRS user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980)
+#### [Create an SSRS user account](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5623,7 +5562,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=43)** So what does this mean?
 >
-> **[0:45](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=45)** Well, every time that we've run a report, it uses the credentials of the logged in user to fetch the data from SQL Server because a subscription will require the report server to go and collect data on its own.
+> **[0:45](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=45)** Well, every time that we've run a report, it uses the credentials of the logged in user to [[Fetch]] the data from [[Microsoft SQL Server|SQL Server]] because a subscription will require the report server to go and collect data on its own.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=58)** Sometimes in the middle of the night when no users are awake, then it needs to have its own login account to use.
 >
@@ -5665,7 +5604,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=146)** Right click the server name at the top and choose properties.
 >
-> **[2:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=150)** Then switch over to the security page and enable SQL Server and Windows authentication modes.
+> **[2:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=150)** Then switch over to the security page and enable SQL Server and [[Windows]] authentication modes.
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-an-ssrs-user-account?u=76281980&t=156)** Press the OK button and you'll be prompted to restart the server.
 >
@@ -5683,14 +5622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), data (4), [[Security]] (4), database (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Fetch]] (1), [[Windows]] (1)
 > **Env Vars:** sql (5), ssrs (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), switch to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Subscribe to a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980)
+#### [Subscribe to a report](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5706,7 +5644,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=30)** Since this is embedded though, I have access to the credential properties right down below.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=35)** This is what Report Server is using to log into the SQL Server database to get the data.
+> **[0:35](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=35)** This is what Report Server is using to log into the [[Microsoft SQL Server|SQL Server]] database to get the data.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=41)** Right now, it's using the credentials of the person accessing the report.
 >
@@ -5740,7 +5678,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=110)** If your report server was set up with its own company email account, you'll have the option of delivering these subscriptions to recipients via email.
 >
-> **[1:59](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=119)** Otherwise, you can export the reports to a Windows file share.
+> **[1:59](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=119)** Otherwise, you can export the reports to a [[Windows]] file share.
 >
 > **[2:03](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/subscribe-to-a-report?u=76281980&t=123)** You'll need the UNC file path for the share, and any access credentials that Report Server needs to write those files.
 >
@@ -5762,7 +5700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (2), [[Windows]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1), ssrs (1), unc (1), pdf (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -5770,12 +5708,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save report snapshots with historical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/save-report-snapshots-with-historical-data?u=76281980)
+#### [Save report snapshots with historical data](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/save-report-snapshots-with-historical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/save-report-snapshots-with-historical-data?u=76281980&t=0)** - [Instructor] Every time a user views a report, the server will fetch updated information from the SQL Server database to fill in the most up-to-date data available.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/save-report-snapshots-with-historical-data?u=76281980&t=0)** - [Instructor] Every time a user views a report, the server will [[Fetch]] updated information from the [[Microsoft SQL Server|SQL Server]] database to fill in the most up-to-date data available.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/save-report-snapshots-with-historical-data?u=76281980&t=9)** This is great when you want to see the current state of your business, but it's also sometimes important to be able to go back in time to see historical information.
 >
@@ -5805,7 +5742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (3), [[Fetch]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -5814,18 +5751,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=0)** - [Adam] I'd like to thank you for joining me as we got to know SQL Server Reporting Services.
+> **[0:00](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=0)** - [Adam] I'd like to thank you for joining me as we got to know [[Microsoft SQL Server|SQL Server]] Reporting Services.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=5)** Communicating effectively with data is a skill that will exercise both the left and right hemispheres of your brain, and I find it to be really rewarding to develop report layouts that look as good as they function.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=16)** If you're doing any type of data communication through charts, then I would highly recommend that you take a look at a course called Data Visualization for Data Analysis and Analytics by Bill Shander.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=28)** This course is not about SQL Server or databases, but it's entirely focused on communicating clearly with charts and graphics.
+> **[0:28](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=28)** This course is not about SQL Server or [[Databases]], but it's entirely focused on communicating clearly with charts and graphics.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=35)** Everything that you learn in that course can be directly applied to making your reports and visualizations more impactful.
 >
@@ -5833,9 +5769,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=47)** If you want to learn more about working with SQL Server, then check out my Complete Guide to Advanced SQL Server.
 >
-> **[0:53](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=53)** It's a massive course that goes in-depth into a number of topics, such as creating automation systems with triggers, writing custom store procedures, working with Python scripts directly on the server, and much more.
+> **[0:53](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=53)** It's a massive course that goes in-depth into a number of topics, such as creating automation systems with triggers, writing custom store procedures, working with [[Python (Programming Language)|Python]] scripts directly on the server, and much more.
 >
-> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=66)** Or check out MySQL Server Integration Services Course.
+> **[1:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=66)** Or check out [[MySQL]] Server Integration Services Course.
 >
 > **[1:10](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980&t=70)** With SSIS, you'll learn how to create automated, extract, transform and load workflows that move data across systems.
 >
@@ -5843,7 +5779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (4), [[Analytics]] (1), [[Databases]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (4), ssis (1)
 > **CLI Commands:** find (1), python (1), mysql (1)
 > **Definitions:** is a  (1)

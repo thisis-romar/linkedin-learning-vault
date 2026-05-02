@@ -102,18 +102,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980)
+#### [Optimizing neural networks](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=0)** - [Kumaran] Deep learning has revolutionized how humans interact with machines today.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=0)** - [Kumaran] [[Deep Learning]] has revolutionized how humans interact with machines today.
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=5)** However, building deep learning models is not easy.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=8)** Data scientists spend weeks trying to tune their models to get desired accuracy and cost effectiveness.
 >
-> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=16)** Knowledge of the parameters available for tuning, the tuning process and best practices are essential for building effective models in agile timeframes.
+> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=16)** Knowledge of the parameters available for tuning, the tuning process and best practices are essential for building effective models in [[Agile Development|agile]] timeframes.
 >
 > **[0:26](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980&t=26)** My name is Kumaran Ponnambalam.
 >
@@ -127,17 +126,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), data (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Agile Development|Agile]] (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Prerequisites for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980)
+#### [Prerequisites for the course](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=0)** - [Instructor] Before we begin the course, let's go through the course objectives, scope and prerequisites.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=7)** Deep Learning is a vast domain with a variety of tools and technologies.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=7)** [[Deep Learning]] is a vast domain with a variety of tools and technologies.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=12)** This tool set is evolving rapidly.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=27)** Some courses covered this math in-depth, and some ignore them as tools take care of the implementation.
 >
-> **[0:33](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=33)** The same place to various tools use for Deep Learning as they take care of the implementation of algorithms and techniques.
+> **[0:33](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=33)** The same place to various tools use for Deep Learning as they take care of the implementation of [[Algorithms]] and techniques.
 >
 > **[0:41](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=41)** So what does this course cover?
 >
@@ -175,9 +173,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=95)** They should also be familiar with Deep Learning concepts.
 >
-> **[1:39](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=99)** They should be familiar with Python programming, and using Jupiter Notebooks.
+> **[1:39](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=99)** They should be familiar with [[Python (Programming Language)|Python]] programming, and using Jupiter Notebooks.
 >
-> **[1:43](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=103)** We do not cover the usage of Keras and TensorFlow.
+> **[1:43](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=103)** We do not cover the usage of Keras and [[TensorFlow]].
 >
 > **[1:46](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/prerequisites-for-the-course?u=76281980&t=106)** So it is recommended to compliment this course with those focusing on the use of Keras.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (13), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (13), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** getting started (2)
@@ -203,22 +201,21 @@ created: 2026-05-02
 > **Versions:** 2.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980)
+#### [Setting up exercise files](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=0)** - [Instructor] In this video, we will set up the exercise files and the environment to use in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=7)** All course exercises are built using Python 3.8.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=7)** All course exercises are built using [[Python (Programming Language)|Python]] 3.8.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=11)** We will be using Anaconda and Jupyter Notebooks, for these exercises.
 >
-> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website [anaconda.com/products/individual](https://anaconda.com/products/individual) for your specific operating system.
+> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website [anaconda.com/[[Microsoft Products|products]]/individual](https://anaconda.com/products/individual) for your specific operating system.
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=28)** Once downloaded, we will go to the Anaconda UI.
 >
-> **[0:32](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=32)** Here, we will create a new virtual environment called deep learning.
+> **[0:32](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=32)** Here, we will create a new virtual environment called [[Deep Learning]].
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=36)** By clicking the create button at the bottom and providing the name of the environment.
 >
@@ -236,9 +233,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=71)** Open the command prompt window.
 >
-> **[1:13](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=73)** Please note that if you're on Windows, you would want to use the Anaconda command prompt for the same.
+> **[1:13](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=73)** Please note that if you're on [[Windows]], you would want to use the Anaconda command prompt for the same.
 >
-> **[1:20](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=80)** The exercise files for this course have been downloaded to the folders users, LinkedIn, documents, exercise files.
+> **[1:20](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=80)** The exercise files for this course have been downloaded to the folders users, [[LinkedIn]], documents, exercise files.
 >
 > **[1:27](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=87)** Please download exercise files on your computer on a similar folder.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (6), prompt (4), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (6), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1), [[LinkedIn]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (6)
 > **Prerequisites:** set up (3), install (2)
@@ -274,18 +271,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is deep learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980)
+#### [What is deep learning?](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=0)** - [Instructor] Let's begin the course by reviewing the concept of deep learning.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=0)** - [Instructor] Let's begin the course by reviewing the concept of [[Deep Learning]].
 >
 > **[0:04](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=4)** What is deep learning?
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=7)** Deep learning is a field within machine learning that deals with building and using neural network models.
 >
-> **[0:14](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=14)** Neural networks with more than three layers are typically categorized as deep learning networks.
+> **[0:14](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=14)** [[Neural Networks]] with more than three layers are typically categorized as deep learning networks.
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=20)** Neural networks mimic the functioning of a human brain.
 >
@@ -293,11 +289,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=31)** Deep learning is a field that has seen exponential growth in the last few years.
 >
-> **[0:37](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=37)** While algorithms for neural networks have existed for some time, the advances in large scale data processing, as well as inference technologies, like GPUs, have spurred their popularity in real-world applications.
+> **[0:37](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=37)** While [[Algorithms]] for neural networks have existed for some time, the advances in large scale [[Data Processing]], as well as inference technologies, like GPUs, have spurred their popularity in real-world applications.
 >
-> **[0:52](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=52)** Deep learning has been extremely popular in natural language processing, as the neural network architectures are ideal for dealing with unstructured data.
+> **[0:52](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=52)** Deep learning has been extremely popular in [[Natural Language Processing (NLP)|natural language processing]], as the neural network architectures are ideal for dealing with [[Unstructured Data]].
 >
-> **[1:02](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=62)** For the same reason, they are also popular for speech recognition and synthesis applications.
+> **[1:02](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=62)** For the same reason, they are also popular for [[Speech Recognition]] and synthesis applications.
 >
 > **[1:09](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980&t=69)** Image recognition is another domain where deep learning has made inroads.
 >
@@ -311,19 +307,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (10), [[Neural Networks]] (3), data (2), [[Algorithms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (10), [[Neural Networks]] (3), [[Algorithms]] (1), [[Data Processing]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review of artificial neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980)
+#### [Review of artificial neural networks](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=0)** - [Instructor] Before we get into optimization and tuning, let's review the basic concepts of Artificial Neural Networks in this video.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=0)** - [Instructor] Before we get into optimization and tuning, let's review the basic concepts of [[Artificial Neural Networks]] in this video.
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=8)** An ANN is a network of perceptrons.
 >
@@ -385,11 +380,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=137)** As this process reaches the output layer, the final predictions will be derived.
 >
-> **[2:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=142)** I highly recommend watching the [[Deep Learning Getting Started]] course to discuss these concepts further if you have already not done so.
+> **[2:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=142)** I highly recommend watching the [[[[Deep Learning]] Getting Started]] course to discuss these concepts further if you have already not done so.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), next (3), [[Artificial Neural Networks]] (1), data (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** node (9)
 > **Env Vars:** ann (3)
 > **Definitions:** is a  (2), is called (1)
@@ -398,8 +393,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### An ANN model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/an-ann-model?u=76281980)
+#### [An ANN model](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/an-ann-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,13 +429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ann (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model optimization and tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980)
+#### [Model optimization and tuning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980&t=64)** In addition, we also want to optimize the training process.
 >
-> **[1:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980&t=68)** Training deep learning models with large amounts of data may take multiple iterations and long training times that may run for hours or days.
+> **[1:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980&t=68)** Training [[Deep Learning]] models with large amounts of data may take multiple iterations and long training times that may run for hours or days.
 >
 > **[1:17](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/model-optimization-and-tuning?u=76281980&t=77)** We want to lower the time to train a model so we can run more experiments in less time.
 >
@@ -483,13 +475,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Env Vars:** cpu (1)
 > **Warnings:** note that (1)
 > **Speakers:** - let (1)
 
-#### The deep learning tuning process
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980)
+#### [The deep learning tuning process](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980&t=42)** Multiple real-life use cases should be covered and production-like scenarios should be used for measuring model performance.
 >
-> **[0:50](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980&t=50)** What are the key levers available in a deep learning model that can be experimented with?
+> **[0:50](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980&t=50)** What are the key levers available in a [[Deep Learning]] model that can be experimented with?
 >
 > **[0:55](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/the-deep-learning-tuning-process?u=76281980&t=55)** We have the network architecture levers like layers, nodes and weights.
 >
@@ -557,15 +548,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Experiment setups for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980)
+#### [Experiment setups for the course](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=7)** We start with a notebook called common experiment functions.
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=12)** In this notebook, we will use the same model for iris flower identification, that we explored in the [[Deep Learning Getting Started]] course.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=12)** In this notebook, we will use the same model for iris flower identification, that we explored in the [[[[Deep Learning]] Getting Started]] course.
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=22)** We first need to install the required packages for the exercises if we have already not done so.
 >
@@ -611,7 +601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), feature (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (2)
 > **Prerequisites:** setup (1), getting started (1), install (1), set up (1)
 > **File Paths:** iris.csv (1)
 > **CLI Commands:** make (1)
@@ -623,8 +613,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Epoch and batch size tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-tuning?u=76281980)
+#### [Epoch and batch size tuning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,7 +659,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), parallel (1), next (1)
 > **Env Vars:** ann (1), gpu (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -679,14 +667,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Epoch and batch size experiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980)
+#### [Epoch and batch size experiment](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980&t=0)** - [Narrator] Let's run some experiments now.
 >
-> **[0:02](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980&t=2)** The code for this chapter is available in the notebook code-02-XX, Tuning the Deep Learning Network.
+> **[0:02](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980&t=2)** The code for this chapter is available in the notebook code-02-XX, Tuning the [[Deep Learning]] Network.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-experiment?u=76281980&t=9)** We first import the common experiments functions into this notebook.
 >
@@ -752,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Warnings:** be aware (1), warning (1)
 > **Versions:** 2.1 (1)
 > **Exercise Files:** template (1)
@@ -761,8 +748,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hidden layers tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/hidden-layers-tuning?u=76281980)
+#### [Hidden layers tuning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/hidden-layers-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +794,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), node (1)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** ebooks (1)
 > **Versions:** 2.3 (1)
@@ -816,8 +801,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [guide] (1)
 
-#### Determining nodes in a layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/determining-nodes-in-a-layer?u=76281980)
+#### [Determining nodes in a layer](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/determining-nodes-in-a-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,19 +845,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), node (1)
 > **CLI Commands:** node (1)
 > **Versions:** 2.4 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing activation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980)
+#### [Choosing activation functions](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=0)** - [Instructor] Activation functions play a key role in building effective, deep learning networks.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=0)** - [Instructor] Activation functions play a key role in building effective, [[Deep Learning]] networks.
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=5)** Let's explore the options available in this video.
 >
@@ -887,9 +869,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=25)** The choice can also impact the stability and speed of the gradient descent.
 >
-> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=30)** There are a number of algorithms available for activation functions.
+> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=30)** There are a number of [[Algorithms]] available for activation functions.
 >
-> **[0:34](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=34)** In general, rectified linear units work best for regular neural networks and convolutional neural networks.
+> **[0:34](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=34)** In general, rectified linear units work best for regular [[Neural Networks]] and [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[0:41](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/choosing-activation-functions?u=76281980&t=41)** Sigmoid works best for RNNs.
 >
@@ -923,8 +905,7 @@ created: 2026-05-02
 > **Versions:** 2.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initializing weights
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/initializing-weights?u=76281980)
+#### [Initializing weights](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/initializing-weights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,12 +949,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vanishing and exploding gradients
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980)
+#### [Vanishing and exploding gradients](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980&t=0)** - Building a stable and accurate deep learning model is reliant upon making steady progress during the backpropagation process, to achieve accurate results.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980&t=0)** - Building a stable and accurate [[Deep Learning]] model is reliant upon making steady progress during the backpropagation process, to achieve accurate results.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980&t=10)** In this chapter, we will explore various options to manage backpropagation.
 >
@@ -1031,14 +1011,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (2), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - building (1)
 
-#### Batch normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/batch-normalization?u=76281980)
+#### [Batch normalization](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/batch-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,8 +1059,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizers
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980)
+#### [Optimizers](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,17 +1073,17 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=26)** Limited training data, will also impact the speed of descent.
 >
-> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=30)** Optimizers are algorithms, that help speed up the training process.
+> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=30)** Optimizers are [[Algorithms]], that help speed up the training process.
 >
 > **[0:34](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=34)** Introduced during back propagation, they will adjust the delta values in each step, such that it prevents vanishing and exploding descent while inching the parameter adjustments, closer to the desired states.
 >
-> **[0:48](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=48)** There are a number of optimizers available in the deep learning world, and we can also write a custom optimizer.
+> **[0:48](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=48)** There are a number of optimizers available in the [[Deep Learning]] world, and we can also write a custom optimizer.
 >
 > **[0:54](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=54)** The most popular ones include SGD or stochastic gradient descent, RMSprop, Adam and Adagrad.
 >
 > **[1:02](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=62)** We are not going to discuss the internals informally for each of these algorithms in this course, but it's recommended for additional reading.
 >
-> **[1:10](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=70)** The deep learning libraries like Keras and TensorFlow, support these popular ones after the box.
+> **[1:10](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=70)** The deep learning libraries like Keras and [[TensorFlow]], support these popular ones after the box.
 >
 > **[1:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizers?u=76281980&t=76)** So, we simply need to provide the option during the training process.
 >
@@ -1113,14 +1091,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Deep Learning]] (2), cloud (1), data (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Deep Learning]] (2), [[TensorFlow]] (1)
 > **Env Vars:** sgd (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizer experiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizer-experiment?u=76281980)
+#### [Optimizer experiment](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizer-experiment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,14 +1125,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_optimizer (1), learning_rate (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning rate
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/learning-rate?u=76281980)
+#### [Learning rate](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/learning-rate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,13 +1162,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning rate experiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/learning-rate-experiment?u=76281980)
+#### [Learning rate experiment](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/learning-rate-experiment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,14 +1203,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overfitting in ANNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980)
+#### [Overfitting in ANNs](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=0)** - [Instructor] Overfitting is one of the main problems in building optimize models in machine learning.
 >
-> **[0:06](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=6)** In this chapter, we will explore various options in controlling overfitting while building deep learning networks.
+> **[0:06](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=6)** In this chapter, we will explore various options in controlling overfitting while building [[Deep Learning]] networks.
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=13)** What is overfitting?
 >
@@ -1247,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=22)** When overfitting happens, a model will perform with very high accuracy when predicting against the training samples also known as in sample testing, but when predicting against independent data samples that are not in the training data, the accuracy levels would be low.
 >
-> **[0:39](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=39)** Neural networks have a tendency to overfit when the models are too deep and have more than the required number of nodes.
+> **[0:39](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=39)** [[Neural Networks]] have a tendency to overfit when the models are too deep and have more than the required number of nodes.
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980&t=47)** How do we take care of overfitting?
 >
@@ -1273,23 +1245,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regularization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980)
+#### [Regularization](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=0)** - [Kumaran] Regularization is an important technique for managing overfitting in neural networks.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=0)** - [Kumaran] Regularization is an important technique for managing overfitting in [[Neural Networks]].
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=6)** Regularization controls overfitting during model training.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=10)** How does it work?
 >
-> **[0:11](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=11)** Regularization algorithms provide an adjustment to the model parameters after they are updated.
+> **[0:11](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=11)** Regularization [[Algorithms]] provide an adjustment to the model parameters after they are updated.
 >
 > **[0:17](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization?u=76281980&t=17)** The adjustment reduces the variance in the model by providing a penalty when overfitting increases.
 >
@@ -1305,13 +1276,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Neural Networks]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Regularization experiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980)
+#### [Regularization experiment](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980&t=26)** Let's run the experiment and review the results.
 >
-> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980&t=30)** L2 seems to perform better than other algorithms for this use case.
+> **[0:30](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980&t=30)** L2 seems to perform better than other [[Algorithms]] for this use case.
 >
 > **[0:35](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/regularization-experiment?u=76281980&t=35)** For the IDs dataset, the validation dataset is very small, so repeated runs may not have consistent results.
 >
@@ -1335,15 +1305,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** l1_l2 (1)
 > **Versions:** 4.3 (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dropouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/dropouts?u=76281980)
+#### [Dropouts](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/dropouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,14 +1338,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), next (2), feature (1), data (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dropout experiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/dropout-experiment?u=76281980)
+#### [Dropout experiment](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/dropout-experiment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,12 +1380,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tuning exercise: Problem statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980)
+#### [Tuning exercise: Problem statement](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=0)** - Having now discussed various tuning options available for deep learning networks, let's put them into practice to tune a neural network.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=0)** - Having now discussed various tuning options available for [[Deep Learning]] networks, let's put them into practice to tune a neural network.
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=9)** I would again like to caution that the results would vary based on the use case being executed, and consistency of results across multiple trends would be impacted by the amount of training data.
 >
@@ -1438,7 +1404,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=68)** The team wants to build a model that can predict root causes reported by customers based on telemetric, regenerated, and errors noticed.
 >
-> **[1:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=76)** They already have a system monitoring tool that tracks CPU, memory, and application latency characteristics of their servers.
+> **[1:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=76)** They already have a [[System Monitoring]] tool that tracks CPU, memory, and application latency characteristics of their servers.
 >
 > **[1:25](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980&t=85)** In addition, they also track errors reported by their applications.
 >
@@ -1486,7 +1452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Deep Learning]] (3), [[System Monitoring]] (1), application (1), feature (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[System Monitoring]] (1)
 > **Env Vars:** cpu (3), csv (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** caution (1), troubleshoot (1)
@@ -1495,8 +1461,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 
-#### Acquire and process data
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/acquire-and-process-data?u=76281980)
+#### [Acquire and process data](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/acquire-and-process-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1487,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Code Identifiers:** get_rca_data (1)
 > **Env Vars:** csv (1)
@@ -1530,8 +1494,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-the-network?u=76281980)
+#### [Tuning the network](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,15 +1528,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), node (1)
 > **Cross-References:** later in (1), earlier in (1)
 > **CLI Commands:** node (1)
 > **Env Vars:** hipo (1)
 > **Versions:** 5.3 (1)
 > **Speakers:** - we (1)
 
-#### Tuning backpropagation
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-backpropagation?u=76281980)
+#### [Tuning backpropagation](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-backpropagation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1603,14 +1564,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** sgd (1)
 > **Versions:** 0.001 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Avoiding overfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/avoiding-overfitting?u=76281980)
+#### [Avoiding overfitting](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/avoiding-overfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,12 +1593,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building the final model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/building-the-final-model?u=76281980)
+#### [Building the final model](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/building-the-final-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1669,7 +1626,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
@@ -1682,14 +1638,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your deep learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980)
+#### [Continuing your deep learning journey](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts and processes for optimizing deep learning models, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts and processes for optimizing [[Deep Learning]] models, you can take your learning even further.
 >
-> **[0:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980&t=8)** Explore additional topics in deep learning, including convolutional neural networks and recurrent neural networks.
+> **[0:08](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980&t=8)** Explore additional topics in deep learning, including [[Convolutional Neural Networks (CNN)|convolutional neural networks]] and recurrent [[Neural Networks]].
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980&t=15)** Analyze a deep learning problem in your work area and build a deep learning model to solve it.
 >
@@ -1703,7 +1658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [kumaran] (1)
 

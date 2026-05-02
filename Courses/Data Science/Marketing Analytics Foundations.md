@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting the stage for marketing analytics foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980)
+#### [Setting the stage for marketing analytics foundations](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,13 +83,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=5)** That's what marketers do when running campaigns without data.
 >
-> **[0:09](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=9)** Marketing analytics helps us chart our course, monitor goals, and evaluate outcomes.
+> **[0:09](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=9)** [[Marketing Analytics]] helps us chart our course, monitor goals, and evaluate outcomes.
 >
 > **[0:15](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=15)** Welcome to Marketing Analytics Foundations.
 >
 > **[0:18](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=18)** In this course, we'll explore core concepts of marketing measurement, and data usage.
 >
-> **[0:24](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=24)** From creating powerful KPIs, to strategizing impactful dashboards, you'll gain the skills to be a data-driven marketer.
+> **[0:24](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=24)** From creating powerful KPIs, to strategizing impactful [[Dashboards]], you'll gain the skills to be a data-driven marketer.
 >
 > **[0:34](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980&t=34)** I'll equip you with the info you'll need to make data-driven decisions, and set the pace for your organization's growth.
 >
@@ -98,19 +97,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Marketing Analytics]] (3), [[Dashboards]] (1), hit (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - have (1)
 
-#### Discovering the power of marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980)
+#### [Discovering the power of marketing analytics](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=0)** - Marketing metrics transform the way we plan, launch, and manage our marketing activities.
 >
-> **[0:08](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=8)** Marketing analytics and data are critical to marketing operations today, according to invests using data-driven marketing strategy leads to five to eight times more marketing ROI.
+> **[0:08](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=8)** [[Marketing Analytics]] and data are critical to marketing operations today, according to invests using data-driven [[Marketing Strategy]] leads to five to eight times more marketing ROI.
 >
 > **[0:21](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=21)** Nearly two-thirds of marketing executives think that data-driven marketing is important not just to their companies, but to the economy as a whole.
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=50)** Two-thirds of us don't think the data we gather about our customers is high quality.
 >
-> **[0:57](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=57)** To harness the full potential of marketing analytics, organizations must invest in robust tools and technologies that enable real-time data analysis and reporting.
+> **[0:57](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=57)** To harness the full potential of marketing analytics, organizations must invest in robust tools and technologies that enable [[Real-Time]] data analysis and reporting.
 >
 > **[1:10](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=70)** Marketers need more than ever to know everything we can about customer behavior preferences and trends.
 >
@@ -136,9 +134,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=129)** The good news is the marketing data you've been using all along to understand your consumers is already part of the AI revolution.
 >
-> **[2:19](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=139)** Predictive analytics to deliver tailored messages on your e-commerce site, targeted ads that present your offer to consumers ready to buy on Meta, Google, and other ad platforms.
+> **[2:19](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=139)** [[Predictive Analytics]] to deliver tailored messages on your [[E-Commerce]] site, targeted ads that present your offer to consumers ready to buy on Meta, [[Google]], and other ad platforms.
 >
-> **[2:31](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=151)** Even that handy send time calculator in your email tools are all using predictive modeling and machine learning, the building blocks of AI tools.
+> **[2:31](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=151)** Even that handy send time calculator in your email tools are all using [[Predictive Modeling]] and machine learning, the building blocks of AI tools.
 >
 > **[2:41](https://www.linkedin.com/learning/marketing-analytics-foundations/discovering-the-power-of-marketing-analytics?u=76281980&t=161)** If you are savvy at using data-driven tools, you are ready for the age of AI.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (5), [[Marketing Analytics]] (4), [[Marketing Strategy]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (4), [[Marketing Strategy]] (1), [[Real-Time]] (1), [[Predictive Analytics]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
@@ -173,8 +171,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the most important metrics to achieve your goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980)
+#### [Identifying the most important metrics to achieve your goals](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=11)** That way, you'll hit all the right turns and drive impact on your organization's growth, and avoid measuring metrics that cause confusion, set you off on the wrong path, or are just a plain waste of time.
 >
-> **[0:24](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=24)** So before you start any marketing analytics project, first step back and think about what your organization's goals are.
+> **[0:24](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=24)** So before you start any [[Marketing Analytics]] project, first step back and think about what your organization's goals are.
 >
 > **[0:33](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=33)** That can vary based on what type of organization you are, how mature your organization is, and your industry, and competitive landscape.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=94)** You would still want to measure your market share, but you haven't been around long enough to know how loyal your customers are going to be.
 >
-> **[1:41](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=101)** You are also not as well known as your competitors, so instead of measuring customer loyalty, you might want to measure word of mouth, brand awareness, and the reach of your marketing campaigns.
+> **[1:41](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=101)** You are also not as well known as your competitors, so instead of measuring customer loyalty, you might want to measure [[Microsoft Word|word]] of mouth, brand awareness, and the reach of your marketing campaigns.
 >
 > **[1:53](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980&t=113)** In this way, you are tailoring the metrics you measure to look at only those metrics that tell you whether your marketing efforts are helping the company achieve its goals.
 >
@@ -236,15 +233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Analytics]] (2), hit (1), business (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
-#### Navigating key marketing metrics for different organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980)
+#### [Navigating key marketing metrics for different organizations](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980&t=125)** For instance, on social media channels, track engagement rate, which is the percentage of people who saw a piece of social media content who chose to like it, comment on it, share it, or otherwise engage with it.
 >
-> **[2:18](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980&t=138)** In email marketing and marketing automation, track open rate, unsubscribe rate, and list growth.
+> **[2:18](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980&t=138)** In [[Email Marketing]] and marketing automation, track open rate, unsubscribe rate, and list growth.
 >
 > **[2:26](https://www.linkedin.com/learning/marketing-analytics-foundations/navigating-key-marketing-metrics-for-different-organizations?u=76281980&t=146)** So don't follow the crowd.
 >
@@ -290,13 +286,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - do (1)
 
-#### Selecting the most relevant metrics for your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980)
+#### [Selecting the most relevant metrics for your organization](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980&t=80)** Second, it focuses on the most integral kinds of performance.
 >
-> **[1:25](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980&t=85)** Not all performance metrics are equal.
+> **[1:25](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980&t=85)** Not all [[Performance Metrics]] are equal.
 >
 > **[1:28](https://www.linkedin.com/learning/marketing-analytics-foundations/selecting-the-most-relevant-metrics-for-your-organization?u=76281980&t=88)** Let's go back to our ice cream store example.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), web (2), data (2), [[Performance Metrics]] (1), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1)
 > **Analogies:** for example (3), for instance (2), such as (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **Env Vars:** kpi (3)
@@ -393,8 +388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the importance of setting KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980)
+#### [Understanding the importance of setting KPIs](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=5)** Now, why is this?
 >
-> **[0:06](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=6)** Why is it so important to set KPIs early in any marketing analytics process?
+> **[0:06](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=6)** Why is it so important to set KPIs early in any [[Marketing Analytics]] process?
 >
 > **[0:12](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=12)** KPIs are your total roadmap to understanding how well your marketing is performing in moving your organizational goals forward.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=83)** That's the way it is with key performance indicators.
 >
-> **[1:26](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=86)** The word here is key.
+> **[1:26](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=86)** The [[Microsoft Word|word]] here is key.
 >
 > **[1:28](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980&t=88)** It is something you absolutely have to measure in order to understand how well your organization is doing.
 >
@@ -454,8 +448,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - kpis (1)
 
-#### Defining actionable KPIs for your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980)
+#### [Defining actionable KPIs for your organization](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,23 +490,22 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=82)** What resources do they need?
 >
-> **[1:25](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=85)** Asking these questions will help us to identify not only KPIs that will give us important insights, but also those KPIs that will allow us to keep improving our marketing strategy.
+> **[1:25](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=85)** Asking these questions will help us to identify not only KPIs that will give us important insights, but also those KPIs that will allow us to keep improving our [[Marketing Strategy]].
 >
-> **[1:37](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=97)** Metrics only work when they help us to decide on courses of action, so actionable KPIs are essential to effective marketing analytics.
+> **[1:37](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=97)** Metrics only work when they help us to decide on courses of action, so actionable KPIs are essential to effective [[Marketing Analytics]].
 >
 > **[1:47](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-actionable-kpis-for-your-organization?u=76281980&t=107)** By anticipating how we can use data to optimize our marketing, we can set the most effective KPIs for long-term, marketing-driven growth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (1), [[Marketing Strategy]] (1), [[Marketing Analytics]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Marketing Analytics]] (1)
 > **Env Vars:** kpi (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Analyzing effective KPIs examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980)
+#### [Analyzing effective KPIs examples](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980&t=136)** This means for every dollar they spend on advertising, they earn $7 in return.
 >
-> **[2:24](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980&t=144)** Such a high ROAS underscores the effectiveness of their digital marketing strategy and their ability to drive significant online sales.
+> **[2:24](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980&t=144)** Such a high ROAS underscores the effectiveness of their digital [[Marketing Strategy]] and their ability to drive significant online sales.
 >
 > **[2:36](https://www.linkedin.com/learning/marketing-analytics-foundations/analyzing-effective-kpis-examples?u=76281980&t=156)** Finally, conversion rate.
 >
@@ -589,18 +581,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), game (1), [[Marketing Strategy]] (1), feature (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1)
 > **Env Vars:** cac (5), roas (5), kpi (2), roi (1)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Crafting a relevant KPI
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980)
+#### [Crafting a relevant KPI](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=1)** - When we start to dive into marketing analytics, we can struggle with stating our KPIs clearly.
+> **[0:01](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=1)** - When we start to dive into [[Marketing Analytics]], we can struggle with stating our KPIs clearly.
 >
 > **[0:07](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=7)** It's one thing to know what data we want to track, or even how it relates to organizational goals.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=58)** It can include data such as sales numbers, website traffic in a specific week, and monthly social media engagement.
 >
-> **[1:07](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=67)** The KPI is the umbrella under which specific metrics provide nuance and detail, as well as the accountability to allow us to know how we're doing and optimize each marketing activity.
+> **[1:07](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=67)** The KPI is the umbrella under which specific metrics provide nuance and detail, as well as the [[Accountability]] to allow us to know how we're doing and optimize each marketing activity.
 >
 > **[1:22](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=82)** To write a good KPI, we need to first identify what we want to achieve, then determine how we will measure progress towards that goal.
 >
@@ -664,18 +655,17 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=228)** Keep them sharp, relevant, and aligned with your goals, and watch your business thrive in the ever evolving landscape.
 >
-> **[3:57](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=237)** Stay agile, measure smart, and be specific, and your KPIs will guide you to new marketing impact.
+> **[3:57](https://www.linkedin.com/learning/marketing-analytics-foundations/crafting-a-relevant-kpi?u=76281980&t=237)** Stay [[Agile Development|agile]], measure smart, and be specific, and your KPIs will guide you to new marketing impact.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), traffic (2), [[Marketing Analytics]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (1), [[Accountability]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** kpi (9)
 > **Analogies:** for instance (2), such as (1), for example (1), picture (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - when (1)
 
-#### Aligning KPIs with organizational goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980)
+#### [Aligning KPIs with organizational goals](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +677,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980&t=20)** Why does your company or organization exist?
 >
-> **[0:25](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980&t=25)** If you are an e-commerce business, you exist to sell products online to people who could use them.
+> **[0:25](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980&t=25)** If you are an [[E-Commerce]] business, you exist to sell [[Microsoft Products|products]] online to people who could use them.
 >
 > **[0:31](https://www.linkedin.com/learning/marketing-analytics-foundations/aligning-kpis-with-organizational-goals?u=76281980&t=31)** If you are a nonprofit, you exist to fulfill a mission such as helping the environment or showcasing your community's history.
 >
@@ -755,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), leadership (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (5), for instance (2), picture (1)
 > **Env Vars:** kpi (4), roi (1), kkpi (1)
 > **Definitions:** in other words (1)
@@ -766,8 +756,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right tools for measuring marketing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980)
+#### [Choosing the right tools for measuring marketing metrics](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=42)** One way to determine if a full-powered enterprise data tool is necessary is by evaluating the level of analysis you do.
 >
-> **[0:53](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=53)** If your business requires complex data analysis and visualization, then full-powered tools with lots of data processing and analysis capabilities are a good choice.
+> **[0:53](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=53)** If your business requires complex data analysis and visualization, then full-powered tools with lots of [[Data Processing]] and analysis capabilities are a good choice.
 >
 > **[1:06](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=66)** However, if you only need basic tracking and reporting, pulling data from your tools into a simple dashboard is enough.
 >
@@ -795,17 +784,17 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=111)** However, for larger businesses with complex data needs, dedicated enterprise data tools may be necessary to effectively manage and analyze large volumes of data.
 >
-> **[2:04](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=124)** In these cases, investing in specialized data tools, such as Tableau, PowerBI, or SAP, can streamline processes.
+> **[2:04](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=124)** In these cases, investing in specialized data tools, such as [[Tableau]], PowerBI, or SAP, can streamline processes.
 >
-> **[2:14](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=134)** It will also allow you to use AI and predictive analytics in a customized way to mine your data for insights, provide more accurate targeting, and manage the flow of data to ensure everyone in your organization has access to insights.
+> **[2:14](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=134)** It will also allow you to use AI and [[Predictive Analytics]] in a customized way to mine your data for insights, provide more accurate targeting, and manage the flow of data to ensure everyone in your organization has access to insights.
 >
 > **[2:32](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=152)** So how do you decide on what tools to buy?
 >
 > **[2:36](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=156)** There is a gray area between the two types of tools.
 >
-> **[2:41](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=161)** Full featured data analysis and business intelligence tools all offer dashboards as part of their tool sets, while most dashboarding tools will do some number crunching.
+> **[2:41](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=161)** Full featured data analysis and [[Business Intelligence (BI)|business intelligence]] tools all offer [[Dashboards]] as part of their tool sets, while most dashboarding tools will do some number crunching.
 >
-> **[2:53](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=173)** For enterprise data tools, such as SAP or Tableau, an important factor to consider is the scalability of use.
+> **[2:53](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=173)** For enterprise data tools, such as SAP or Tableau, an important factor to consider is the [[Scalability]] of use.
 >
 > **[3:01](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=181)** Can you train enough people on your team or will you need to hire dedicated headcount to use the tools?
 >
@@ -817,7 +806,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=199)** Some standalone tools can be quite expensive.
 >
-> **[3:22](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=202)** However, they can provide comprehensive analysis with dashboarding, AI and predictive modeling built-in, so they will pay for themselves if you use all their capabilities.
+> **[3:22](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=202)** However, they can provide comprehensive analysis with dashboarding, AI and [[Predictive Modeling]] built-in, so they will pay for themselves if you use all their capabilities.
 >
 > **[3:34](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980&t=214)** For dashboards, integration is the key.
 >
@@ -841,15 +830,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Tableau]] (2), ai (2), [[Dashboards]] (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (2), [[Scalability]] (2), [[Data Processing]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** sap (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Creating impactful dashboards for different stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980)
+#### [Creating impactful dashboards for different stakeholders](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=10)** Now you need to communicate this information effectively to management.
 >
-> **[0:15](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=15)** For instance, if you found that social media campaigns yield a higher ROI than email marketing, this insight should be clearly conveyed.
+> **[0:15](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=15)** For instance, if you found that social media campaigns yield a higher ROI than [[Email Marketing]], this insight should be clearly conveyed.
 >
 > **[0:23](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=23)** Or if you are monitoring campaigns with variations like different visuals or target audiences, you need a streamlined process to keep track of all those variables.
 >
@@ -867,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=46)** So how do you streamline data analysis?
 >
-> **[0:50](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=50)** The solution for most organizations is using dashboards.
+> **[0:50](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=50)** The solution for most organizations is using [[Dashboards]].
 >
 > **[0:55](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=55)** Dashboards present data in simplified formats using graphs, tables, and charts, allowing quick insights.
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=152)** Effective dashboards should allow users to log in using familiar tools or those they can quickly learn.
 >
-> **[2:40](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=160)** For instance, if your team uses Google Suite frequently, consider a Google Looker Studio for dashboards as it integrates smoothly with other Google applications.
+> **[2:40](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=160)** For instance, if your team uses [[Google]] Suite frequently, consider a Google Looker Studio for dashboards as it integrates smoothly with other Google applications.
 >
 > **[2:49](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=169)** It's also crucial that the dashboard remains easily accessible to those who need it.
 >
@@ -915,13 +903,13 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=209)** Additionally, gather feedback from key stakeholders on how useful the dashboard is and if there are any improvements that can be made.
 >
-> **[3:37](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=217)** This will ensure that your dashboards remain an effective tool for communicating key marketing insights and driving informed decision-making within your organization.
+> **[3:37](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=217)** This will ensure that your dashboards remain an effective tool for communicating key marketing insights and driving informed [[Decision-Making]] within your organization.
 >
 > **[3:48](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=228)** Designing effective dashboards involves understanding users' informational needs and presenting this data in clear visuals.
 >
 > **[3:56](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=236)** Additionally, some technical knowledge is needed to transfer data from your existing tools into the dashboarding platform.
 >
-> **[4:04](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=244)** There are also courses here on LinkedIn Learning that can help you gain skills in a range of these and other tools.
+> **[4:04](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=244)** There are also courses here on [[LinkedIn]] Learning that can help you gain skills in a range of these and other tools.
 >
 > **[4:11](https://www.linkedin.com/learning/marketing-analytics-foundations/creating-impactful-dashboards-for-different-stakeholders?u=76281980&t=251)** Fortunately, once set up to automatically update data, dashboards are generally easy to maintain.
 >
@@ -929,15 +917,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Dashboards]] (10), management (3), [[Google]] (3), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (10), [[Google]] (3), [[Email Marketing]] (1), [[Decision-Making]] (1), [[LinkedIn]] (1)
 > **Analogies:** for instance (3), for example (2), such as (1)
 > **Env Vars:** roi (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### Defining your essential metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980)
+#### [Defining your essential metrics](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +940,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=53)** Typical metrics tracked in a dashboard include: aggregate numbers such as total web traffic and social media reach; conversion metrics such as click-through rate, conversion rate, cost per acquisition, and total sales and marketing qualified leads; awareness and engagement metrics such as the average duration of website visits, engagements with videos, social media reactions, and channel reach.
 >
-> **[1:21](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=81)** The challenge is in creating dashboards that only present the necessary data, omitting the clutter that can complicate the decision-making process.
+> **[1:21](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=81)** The challenge is in creating [[Dashboards]] that only present the necessary data, omitting the clutter that can complicate the [[Decision-Making]] process.
 >
 > **[1:32](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=92)** To achieve this, first, ensure you actively engage with your stakeholders while building your dashboards.
 >
@@ -985,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=174)** To address this, consider conducting regular data audits to identify overlooked data sources that could provide value.
 >
-> **[3:04](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=184)** Encourage open communication between departments to break down silos and enhance data sharing.
+> **[3:04](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=184)** Encourage open communication between departments to break down silos and enhance [[Data Sharing]].
 >
 > **[3:11](https://www.linkedin.com/learning/marketing-analytics-foundations/defining-your-essential-metrics?u=76281980&t=191)** By staying attuned to the evolving needs of your stakeholders and continuously refining your dashboards, you create a dynamic tool that adapts to the changing landscape of business challenges, which is what a dashboard should be.
 >
@@ -993,15 +980,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Dashboards]] (4), web (1), traffic (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Decision-Making]] (1), [[Data Sharing]] (1)
 > **Analogies:** such as (5), for instance (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1), roi (1), seo (1)
 > **Warnings:** pitfall (1), be aware (1)
 > **Speakers:** - to (1)
 
-#### Communicating data across the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980)
+#### [Communicating data across the organization](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,9 +1035,9 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=140)** Comprehensive detailed reports with in-depth analysis are right for periodic deep dives with the c-suite, with presentations pulling out the top insights for meetings.
 >
-> **[2:32](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=152)** And remember, the dashboards are a form of data communication.
+> **[2:32](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=152)** And remember, the [[Dashboards]] are a form of data communication.
 >
-> **[2:36](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=156)** They communicate real-time data for monitoring and quick decision-making.
+> **[2:36](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=156)** They communicate [[Real-Time]] data for monitoring and quick [[Decision-Making]].
 >
 > **[2:42](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=162)** Choose the medium that best fits the context and the needs of your audience.
 >
@@ -1065,9 +1051,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=185)** Rely on visuals.
 >
-> **[3:07](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=187)** Charts, graphs, and infographics can make data more accessible.
+> **[3:07](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=187)** Charts, graphs, and [[Infographics]] can make data more accessible.
 >
-> **[3:11](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=191)** Storytelling is critical.
+> **[3:11](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=191)** [[Storytelling]] is critical.
 >
 > **[3:13](https://www.linkedin.com/learning/marketing-analytics-foundations/communicating-data-across-the-organization?u=76281980&t=193)** Weave your data into a story that shows its impact.
 >
@@ -1087,7 +1073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), game (1), product (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Real-Time]] (1), [[Decision-Making]] (1), [[Infographics]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** roi (1)
@@ -1098,8 +1084,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing your marketing analytics strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980)
+#### [Implementing your marketing analytics strategy](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1092,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=13)** You need to create a systematic plan that makes analyzing data key to every marketing activity.
 >
-> **[0:21](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=21)** To create a marketing analytics plan means taking a step-by-step approach.
+> **[0:21](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=21)** To create a [[Marketing Analytics]] plan means taking a step-by-step approach.
 >
 > **[0:26](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=26)** Start by identifying the data that you are already collecting.
 >
@@ -1129,13 +1114,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=60)** At this stage, look to your KPIs to understand what you should be measuring, then check the results of your data audit to see if you are gathering all the data you need.
 >
-> **[1:12](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=72)** Note any gaps between your KPIs and your existing data collection.
+> **[1:12](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=72)** Note any gaps between your KPIs and your existing [[Data Collection]].
 >
 > **[1:18](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=78)** Once you've noted these gaps, create a plan to gather any missing data.
 >
 > **[1:23](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=83)** Along with this plan, you will want to assess whether the tools you have are equipped to collect and share it, or whether you need to invest in technology.
 >
-> **[1:34](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=94)** At the same time, assess your dashboards and communication to ascertain whether you're making the most use of your metrics.
+> **[1:34](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=94)** At the same time, assess your [[Dashboards]] and communication to ascertain whether you're making the most use of your metrics.
 >
 > **[1:43](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980&t=103)** With your data and communication gaps identified and your tool set evaluated, it's time to come up with a timeline, budget, and resources to bridge the gaps.
 >
@@ -1165,14 +1150,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Marketing Analytics]] (3), [[Dashboards]] (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (3), [[Dashboards]] (3), [[Data Collection]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** we call this (1), is a  (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - now (1)
 
-#### Next steps to succeed in marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980)
+#### [Next steps to succeed in marketing analytics](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,15 +1164,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=5)** Now you are better equipped to track the success of your marketing programs, communicate data effectively throughout your organization, and track the metrics that truly measure your success.
 >
-> **[0:18](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=18)** To continue learning, please check out my books, "Marketing Metrics: Leverage Analytics and Data to Optimize Marketing Strategies" from Kogan Page and "Marketing Analytics: A Comprehensive Guide" from FlatWorld.
+> **[0:18](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=18)** To continue learning, please check out my books, "Marketing Metrics: Leverage Analytics and Data to Optimize Marketing Strategies" from Kogan Page and "[[Marketing Analytics]]: A Comprehensive Guide" from FlatWorld.
 >
 > **[0:32](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=32)** You can get both at [marketingmetricsbook.com](https://marketingmetricsbook.com).
 >
-> **[0:37](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=37)** You can follow me on LinkedIn and get my newsletter at [thoughtlight.net](https://thoughtlight.net).
+> **[0:37](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=37)** You can follow me on [[LinkedIn]] and get my newsletter at [thoughtlight.net](https://thoughtlight.net).
 >
 > **[0:42](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=42)** Finally, join the Marketing Metrics Association at [marketingmetricsassociation.org](https://marketingmetricsassociation.org) to connect with like-minded marketers who use data, learn the latest best practices, and occasionally get some product discounts.
 >
-> **[0:59](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=59)** Marketing analytics have transformed marketing, allowing us to focus precisely on consumers who want to connect with our brands, get real-time insights on how well each element of our marketing is working, and communicate the value of marketing across our organizations.
+> **[0:59](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=59)** Marketing analytics have transformed marketing, allowing us to focus precisely on consumers who want to connect with our brands, get [[Real-Time]] insights on how well each element of our marketing is working, and communicate the value of marketing across our organizations.
 >
 > **[1:18](https://www.linkedin.com/learning/marketing-analytics-foundations/next-steps-to-succeed-in-marketing-analytics?u=76281980&t=78)** You are now part of this powerful transformation and have the skills you need to be a data-driven marketer.
 >
@@ -1200,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Marketing Analytics]] (2), [[Analytics]] (1), [[LinkedIn]] (1), product (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (2), [[LinkedIn]] (1), [[Real-Time]] (1)
 > **URLs:** [marketingmetricsbook.com](https://marketingmetricsbook.com) (1), [thoughtlight.net](https://thoughtlight.net) (1), [marketingmetricsassociation.org](https://marketingmetricsassociation.org) (1)
 > **Speakers:** - congratulations (1)
 

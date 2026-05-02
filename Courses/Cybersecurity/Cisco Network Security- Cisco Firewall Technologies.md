@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Allowing only authorized connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
+#### [Allowing only authorized connections](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,16 +122,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [lisa] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/discovering-resources?u=76281980&t=0)** - [Instructor] Cisco Network Security: Firewall Technologies is an intermediate-level course.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/discovering-resources?u=76281980&t=0)** - [Instructor] Cisco [[Network Security]]: Firewall Technologies is an intermediate-level course.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/discovering-resources?u=76281980&t=6)** The course is designed for network administrators, engineers, managers, students, and anyone with an interest in learning more about Cisco Network Security.
 >
@@ -168,12 +165,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Obtaining Packet Tracer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/obtaining-packet-tracer?u=76281980)
+#### [Obtaining Packet Tracer](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/obtaining-packet-tracer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/obtaining-packet-tracer?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available here at the Cisco Networking Academy.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/obtaining-packet-tracer?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available here at the [[Cisco Networking]] Academy.
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/obtaining-packet-tracer?u=76281980&t=9)** You'll sign up, and then you can get your own copy of Packet Tracer, along with the samples that are included.
 >
@@ -209,7 +205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Cisco Networking]] (1), [[Search]] (1), [[Automation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cisco Networking]] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -221,24 +217,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
+#### [Understanding firewalls](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=0)** - [Narrator] I'm here at this website, Kaspersky Cyber Threat real-time map, where we can see that cyber attacks occur in significant numbers every single minute of every single day.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=0)** - [Narrator] I'm here at this website, Kaspersky Cyber Threat [[Real-Time]] map, where we can see that cyber attacks occur in significant numbers every single minute of every single day.
 >
-> **[0:14](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=14)** If I go to statistics, I can see detections per second are staggering.
+> **[0:14](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=14)** If I go to [[Statistics]], I can see detections per second are staggering.
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=20)** Because of the amount of cyber attacks that occur on a daily basis, in most organizations, a firewall is used as a first line of defense.
 >
-> **[0:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=31)** A firewall is a hardware or software based method to control incoming and outgoing traffic.
+> **[0:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=31)** A firewall is a [[Hardware]] or software based method to control incoming and outgoing traffic.
 >
 > **[0:38](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=38)** Firewalls filter traffic using access control lists that either allow or deny traffic on a network or host based on a set of rules.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=48)** A firewall gives the administrator greater control over the types of traffic originating from inside and outside the protected network.
 >
-> **[0:57](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=57)** Today, there are many different types of firewalls, from software based, such as the Windows firewall, to dedicated appliances that defend an enterprise network.
+> **[0:57](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=57)** Today, there are many different types of firewalls, from software based, such as the [[Windows]] firewall, to dedicated appliances that defend an enterprise network.
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980&t=69)** On an enterprise network, you'll see some of the following types of firewalls.
 >
@@ -288,15 +283,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (12), application (2), [[Real-Time]] (1), [[Statistics]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Statistics]] (1), [[Hardware]] (1), [[Windows]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (2)
 > **Env Vars:** dns (1)
 > **Speakers:** - [narrator] (1)
 
-#### Recognizing security contexts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980)
+#### [Recognizing security contexts](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +298,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=11)** The Accounting department uses specialized proprietary software and needs an open connection to the vendor.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=18)** Marketing does a lot of work with social media, so they'll need access to Facebook, Twitter, and LinkedIn.
+> **[0:18](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=18)** Marketing does a lot of work with social media, so they'll need access to Facebook, Twitter, and [[LinkedIn]].
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=24)** But, concurrently, we don't want the Sales department to go to sites such as Facebook or YouTube.
 >
@@ -354,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), management (2), concurrent (2), application (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** asa (7), vpn (1), url (1)
 > **Analogies:** such as (3), imagine (1), for example (1)
 > **Prerequisites:** you'll need (2)
@@ -363,8 +357,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing CBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/reviewing-cbac?u=76281980)
+#### [Reviewing CBAC](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/reviewing-cbac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,7 +417,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), application (1)
 > **Env Vars:** tcp (3), udp (2), ftp (1), icmp (1), echo (1)
 > **Prerequisites:** configure (4)
 > **UI Navigation:** go to (3)
@@ -432,8 +424,7 @@ created: 2026-05-02
 > **Versions:** 172.30.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Configuring CBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980)
+#### [Challenge: Configuring CBAC](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=44)** To get this exercise, you'll go to File, and then Open Samples.
 >
-> **[0:52](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=52)** Then you'll go to Cybersecurity, ASA, and then select enable outside to inside.
+> **[0:52](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=52)** Then you'll go to [[Cybersecurity]], ASA, and then select enable outside to inside.
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=60)** Then you can rearrange the layout so that you can see the instructions.
 >
@@ -471,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=94)** The adaptive security appliance is a stateful firewall and keeps a connection table for all the connections which flow through the device.
 >
-> **[1:43](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=103)** Then you'll follow the rest of the instructions.
+> **[1:43](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=103)** Then you'll follow the [[Representational State Transfer (REST)|rest]] of the instructions.
 >
 > **[1:46](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-cbac?u=76281980&t=106)** So pause the video and complete the challenge.
 >
@@ -481,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Cybersecurity]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** asa (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -490,8 +481,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 
-#### Solution: Configuring CBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980)
+#### [Solution: Configuring CBAC](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,13 +525,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980&t=160)** Now, as you see, we're successful, so we'll do one more thing and we'll check the inspection on the edge router.
 >
-> **[2:48](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980&t=168)** So we'll go back in here, and once we issue show IP inspect statistics, we can see the information on what transpired during that session.
+> **[2:48](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980&t=168)** So we'll go back in here, and once we issue show IP inspect [[Statistics]], we can see the information on what transpired during that session.
 >
 > **[3:03](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-cbac?u=76281980&t=183)** I hope you enjoyed this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** tcp (2), asa (2)
 > **Versions:** 172.16.3 (1), 192.168.1 (1)
 > **Tools:** command line (2)
@@ -550,8 +540,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Employing Cisco AutoSecure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/employing-cisco-autosecure?u=76281980)
+#### [Employing Cisco AutoSecure](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/employing-cisco-autosecure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,7 +648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), feature (2), management (1), prompt (1), database (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** ssh (1), make (1)
 > **Warnings:** be careful (1), keep in mind (1)
@@ -667,14 +655,14 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** rule of thumb (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Compare Firewall Types
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
+#### [Filtering packets](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,14 +706,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), data (1), [[Security]] (1)
 > **Env Vars:** syn (3), osi (1), ack (1)
 > **Analogies:** for example (2)
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring the state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/monitoring-the-state?u=76281980)
+#### [Monitoring the state](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/monitoring-the-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,15 +767,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), application (1)
 > **Env Vars:** ack (3), osi (2), syn (2), fin (2), udp (1)
 > **Analogies:** such as (2), similar to (1)
 > **Definitions:** is an  (1), known as (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining the application layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980)
+#### [Examining the application layer](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980&t=26)** The application layer firewall is application-aware and examines the entire packet, not just the network address and port number.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980&t=36)** Being application-aware means that instead of treating all HTTP requests equally, the firewall is able to truly understand what is happening and evaluate all the different types of HTTP requests and the payload such as video, text, and HTML, or image.
+> **[0:36](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980&t=36)** Being application-aware means that instead of treating all HTTP requests equally, the firewall is able to truly understand what is happening and evaluate all the different types of HTTP requests and the payload such as video, text, and [[HTML]], or image.
 >
 > **[0:58](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/examining-the-application-layer?u=76281980&t=58)** A proxy firewall has its own IP address.
 >
@@ -833,14 +817,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), data (2), [[HTML]] (1), traffic (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** osi (2), http (2), html (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing modes of deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980)
+#### [Comparing modes of deployment](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980&t=37)** It provides a layer three boundary between zones and interfaces.
 >
-> **[0:42](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980&t=42)** And supports either static or dynamic routing using RIP, Open Shortest Path First, EIGRP, and BGP.
+> **[0:42](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980&t=42)** And supports either static or dynamic [[Routing]] using RIP, Open Shortest Path First, EIGRP, and BGP.
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-modes-of-deployment?u=76281980&t=51)** Forwarding is done with the destination IP address.
 >
@@ -908,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** asa (5), rip (1), eigrp (1), bgp (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
@@ -918,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
+#### [Understanding ACLs](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,15 +961,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3)
 > **Definitions:** is an  (3), is a  (2)
 > **Prerequisites:** configure (3), you'll need (1)
 > **Env Vars:** ios (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with IPv6 ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/working-with-ipv6-acls?u=76281980)
+#### [Working with IPv6 ACLs](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/working-with-ipv6-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,7 +1047,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), next (1)
 > **Analogies:** similar to (2), for example (1)
 > **Prerequisites:** configure (3)
 > **Env Vars:** sample (1)
@@ -1075,8 +1054,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Configuring IPv6 ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-ipv6-acls?u=76281980)
+#### [Challenge: Configuring IPv6 ACLs](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-ipv6-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,8 +1097,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution: Configuring IPv6 ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980)
+#### [Solution: Configuring IPv6 ACLs](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1197,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), prompt (3), web (2)
 > **Env Vars:** pc1 (5), pc2 (4), block_icmp (3), icmp (2), http (1)
 > **UI Navigation:** go to (8), scroll up (1), scroll down (1)
 > **Tools:** command prompt (3), command line (1)
@@ -1228,14 +1204,14 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Implement NAT on Cisco ASA
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
+#### [Understanding NAT](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,7 +1223,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=24)** Efforts to conserve address space began soon after the internet became public in 1992.
 >
-> **[0:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=31)** In 1996, RFC 1918 outlines a method called private IP addressing that became a standard way to provide IP addressing for inside a LAN.
+> **[0:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=31)** In 1996, RFC 1918 outlines a method called private [[IP Addressing]] that became a standard way to provide IP addressing for inside a LAN.
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=46)** The following are private IP addresses.
 >
@@ -1263,9 +1239,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=85)** ARIN registers IP addresses.
 >
-> **[1:28](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=88)** For example, if I wanted to know the IP address for [discordapp.com](https://discordapp.com), I can go here to the Google admin toolbox where it will present me with the information.
+> **[1:28](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=88)** For example, if I wanted to know the IP address for [discordapp.com](https://discordapp.com), I can go here to the [[Google]] admin toolbox where it will present me with the information.
 >
-> **[1:40](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=100)** We know that private IP addresses are only used on a local area network.
+> **[1:40](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=100)** We know that private IP addresses are only used on a [[Local Area Network (LAN)|local area network]].
 >
 > **[1:46](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980&t=106)** In order to get to the internet, a host on the inside of a LAN must go through a router and be translated into a public IP address.
 >
@@ -1293,7 +1269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (3), [[IP Addressing]] (2), [[Google]] (1), [[Local Area Network (LAN)|Local area network]] (1), prompt (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (2), [[Google]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** lan (3), arin (3), rfc (1)
 > **URLs:** [discordapp.com](https://discordapp.com) (1)
 > **Documentation:** rfc (1)
@@ -1302,8 +1278,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - while (1)
 
-#### Comparing types of NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-types-of-nat?u=76281980)
+#### [Comparing types of NAT](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/comparing-types-of-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,14 +1326,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), traffic (1), [[Search]] (1)
 > **Env Vars:** nat (17), pat (6), asa (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Configuring static NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-static-nat?u=76281980)
+#### [Challenge: Configuring static NAT](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-static-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,8 +1361,7 @@ created: 2026-05-02
 > **Speakers:** - let (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution: Configuring static NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980)
+#### [Solution: Configuring static NAT](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1397,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=97)** And there are no references that refer to NAT.
 >
-> **[1:41](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=101)** We also want to verify that the routing table doesn't contain entries referring to the IP addresses for either the PC or the laptop.
+> **[1:41](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=101)** We also want to verify that the [[Routing]] table doesn't contain entries referring to the IP addresses for either the PC or the laptop.
 >
 > **[1:50](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=110)** So that will be show IP route.
 >
@@ -1457,7 +1429,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=244)** Now we'll also do show IP NAT translations.
 >
-> **[4:10](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=250)** Okay, now we can see those, and the last thing we'll do is show IP NAT statistics.
+> **[4:10](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=250)** Okay, now we can see those, and the last thing we'll do is show IP NAT [[Statistics]].
 >
 > **[4:18](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-static-nat?u=76281980&t=258)** And here we can see where they're applied.
 >
@@ -1467,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), prompt (1), [[Routing]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Statistics]] (1)
 > **Env Vars:** nat (10), pdf (1)
 > **Versions:** 209.165.128 (1)
 > **Cross-References:** go back to (1)
@@ -1481,8 +1453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding zone-based firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
+#### [Understanding zone-based firewalls](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1473,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980&t=57)** Let's talk about how this works.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980&t=60)** In this graphic, we see a logical drawing of a network and some common zones: the outside network or internet, the inside or LAN, and we see the perimeter network where you might house essential services, such as mail and web servers that must have a public interface.
+> **[1:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980&t=60)** In this graphic, we see a logical drawing of a network and some common zones: the outside network or internet, the inside or LAN, and we see the perimeter network where you might house essential services, such as mail and [[Web Servers]] that must have a public interface.
 >
 > **[1:19](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980&t=79)** A zone-based firewall can take three possible actions: inspect, pass, and drop.
 >
@@ -1534,14 +1505,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Security]] (2), lan (1), web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** lan (1), icmp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing traffic between zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980)
+#### [Managing traffic between zones](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980&t=84)** Now let's talk about the self-zone.
 >
-> **[1:26](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980&t=86)** The self-zone is traffic traveling to the control plane of the router that carries routing and other protocols, such as secure shell and simple network management protocol.
+> **[1:26](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980&t=86)** The self-zone is traffic traveling to the control plane of the router that carries [[Routing]] and other protocols, such as secure shell and simple network management protocol.
 >
 > **[1:39](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-traffic-between-zones?u=76281980&t=99)** All interfaces on a router are automatically made part of the self-zone.
 >
@@ -1597,13 +1567,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (16), [[Security]] (7), [[Routing]] (1), management (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Configuring a ZBF
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-a-zbf?u=76281980)
+#### [Challenge: Configuring a ZBF](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-configuring-a-zbf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,7 +1674,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Security]] (3), feature (1), prompt (1), web (1)
 > **Env Vars:** net (5), class (5), map (5), zone (2), pmap (2)
 > **Versions:** 192.168.3 (2), 0.0.0 (1)
 > **Prerequisites:** configure (2)
@@ -1714,8 +1682,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (synth intro music) (1)
 
-#### Solution: Configuring a ZBF
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-a-zbf?u=76281980)
+#### [Solution: Configuring a ZBF](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-a-zbf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1744,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), traffic (2), prompt (1)
 > **Env Vars:** zone (4), zpair (2), pmap (2)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
@@ -1790,8 +1756,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing access on an ASA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
+#### [Managing access on an ASA](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,7 +1834,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **Env Vars:** exec (4), text (1)
 > **Code Identifiers:** ios (3)
 > **Tools:** terminal (2), command line (1)
@@ -1877,9 +1841,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
+> **Warnings:** warning (1)
 
-#### Logging onto the ASA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980)
+#### [Logging onto the ASA](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1883,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=93)** The device manager provides a graphical user interface.
 >
-> **[1:37](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=97)** And here we see the following dashboards that allow you easy access to the ASA.
+> **[1:37](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=97)** And here we see the following [[Dashboards]] that allow you easy access to the ASA.
 >
 > **[1:44](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=104)** Now, to use the adaptive security device manager, you'll need to enable the server and allow connections to the ASA.
 >
@@ -1931,7 +1895,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=139)** Now let's test your knowledge.
 >
-> **[2:21](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=141)** Your team lead has tasked you to access one of the branch office's ASA to update an access control list.
+> **[2:21](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=141)** Your team lead has tasked you to access one of the branch [[Microsoft Office|office]]'s ASA to update an access control list.
 >
 > **[2:29](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/logging-onto-the-asa?u=76281980&t=149)** What are your choices when accessing the ASA?
 >
@@ -1939,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (1), [[Dashboards]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** asa (9), ssh (2), https (1), http (1)
 > **Prerequisites:** you'll need (5), configure (2)
 > **CLI Commands:** ssh (2)
@@ -1947,8 +1911,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning security levels on the ASA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/assigning-security-levels-on-the-asa?u=76281980)
+#### [Assigning security levels on the ASA](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/assigning-security-levels-on-the-asa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1998,13 +1961,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), traffic (10), lan (1)
 > **Env Vars:** asa (5), lan (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Modular Policy Framework (MPF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-modular-policy-framework-mpf?u=76281980)
+#### [Understanding Modular Policy Framework (MPF)](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-modular-policy-framework-mpf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2054,13 +2015,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11)
 > **Env Vars:** tcp (1), udp (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing high availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980)
+#### [Implementing high availability](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2100,7 +2059,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980&t=152)** And with clustering, all ASAs are active in a cluster and you can use more than two ASAs in a cluster to provide redundancy.
 >
-> **[2:41](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980&t=161)** One key element is for failover configurations to be successful, all devices must have the same hardware and software components.
+> **[2:41](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980&t=161)** One key element is for failover configurations to be successful, all devices must have the same [[Hardware]] and software components.
 >
 > **[2:51](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/implementing-high-availability?u=76281980&t=171)** So in order to adhere to the rule of five nines, we use methods to ensure traffic will continue to flow in case of device failure.
 >
@@ -2114,7 +2073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Security]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** asa (4), ios (2)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2123,8 +2082,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grasping Hot Standby Router Protocol (HSRP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/grasping-hot-standby-router-protocol-hsrp?u=76281980)
+#### [Grasping Hot Standby Router Protocol (HSRP)](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/grasping-hot-standby-router-protocol-hsrp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2192,14 +2150,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** mac (3)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Hot Standby Router Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-hot-standby-router-protocol?u=76281980)
+#### [Challenge: Hot Standby Router Protocol](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/challenge-hot-standby-router-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,8 +2195,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Hot Standby Router Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-hot-standby-router-protocol?u=76281980)
+#### [Solution: Hot Standby Router Protocol](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-hot-standby-router-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,7 +2269,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** pc0 (4)
 > **Versions:** 1.1.1 (3), 4.1.1 (1)
 > **Cross-References:** go back to (3)
@@ -2328,12 +2282,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=0)** - [Instructor] Thank you for watching Cisco Network Security Firewall Technologies.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=0)** - [Instructor] Thank you for watching Cisco [[Network Security]] Firewall Technologies.
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=7)** In this course, we learned the core concepts of firewalls, including stateless, stateful, and application firewalls, and how they function in different security contexts.
 >
@@ -2343,9 +2296,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=49)** If you're interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[0:57](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=57)** If you're interested in learning about packet analysis, please check out my Wireshark courses.
+> **[0:57](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=57)** If you're interested in learning about packet analysis, please check out my [[Wireshark]] courses.
 >
-> **[1:05](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=65)** You might want to check out Securing the IoT Security Risks, and any course in the Cisco CyberOps series will be well worth your time.
+> **[1:05](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=65)** You might want to check out Securing the [[IoT]] Security Risks, and any course in the Cisco CyberOps series will be well worth your time.
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980&t=76)** For a complete list of courses, visit my author page.
 >
@@ -2355,7 +2308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Network Security]] (1), application (1), [[Wireshark]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Wireshark]] (1), [[IoT]] (1)
 > **Env Vars:** asa (1)
 > **Speakers:** - [instructor] (1)
 

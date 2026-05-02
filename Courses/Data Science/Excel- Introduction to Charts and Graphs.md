@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Craft engaging charts and graphs in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980)
+#### [Craft engaging charts and graphs in Excel](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980&t=0)** - [Dennis] Creating charts is one of Excel's most powerful yet easy to use features.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980&t=0)** - [Dennis] Creating charts is one of [[Microsoft Excel|Excel]]'s most powerful yet easy to use features.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980&t=4)** In this course, we'll be looking at the concepts underlying charts, getting you familiar with various terms, and the types available.
 >
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying chart elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980)
+#### [Identifying chart elements](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980&t=3)** Rarely will you see this many charts on the same sheet.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980&t=6)** And by the way, in Excel we use the word "chart".
+> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980&t=6)** And by the way, in [[Microsoft Excel|Excel]] we use the [[Microsoft Word|word]] "chart".
 >
 > **[0:09](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980&t=9)** In common usage these are often called graphs, but in Excel we talk about charts.
 >
@@ -252,19 +250,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (5), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (5), double-click (3), go to (1), open the (1), right-click (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), refers to (1), is a  (1)
 > **Analogies:** for example (2), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right chart type
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-the-right-chart-type?u=76281980)
+#### [Selecting the right chart type](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-the-right-chart-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-the-right-chart-type?u=76281980&t=1)** - [Instructor] Built into Excel are about 17 major chart types.
+> **[0:01](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-the-right-chart-type?u=76281980&t=1)** - [Instructor] Built into [[Microsoft Excel|Excel]] are about 17 major chart types.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-the-right-chart-type?u=76281980&t=5)** And as you work with charts, sometimes you'll be saying, "Which chart is best for the data I'm using?
 >
@@ -416,19 +413,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (5), data (4), product (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding chart sub-types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/understanding-chart-sub-types?u=76281980)
+#### [Understanding chart sub-types](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/understanding-chart-sub-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/understanding-chart-sub-types?u=76281980&t=0)** - [Instructor] In addition to the various chart types in Excel, remember, we've talked about in previous movies, column charts, line charts, pie charts, and a few other types as well, certain terms pop up.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/understanding-chart-sub-types?u=76281980&t=0)** - [Instructor] In addition to the various chart types in [[Microsoft Excel|Excel]], remember, we've talked about in previous movies, column charts, line charts, pie charts, and a few other types as well, certain terms pop up.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/understanding-chart-sub-types?u=76281980&t=10)** You should also be familiar with the idea of what we call a subtype.
 >
@@ -516,18 +512,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the chart design and format tabs
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-the-chart-design-and-format-tabs?u=76281980)
+#### [Using the chart design and format tabs](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-the-chart-design-and-format-tabs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-the-chart-design-and-format-tabs?u=76281980&t=0)** - [Instructor] When we click on a chart in Excel, as we select a chart, activate two additional elements in the ribbon menu system, chart design and format.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-the-chart-design-and-format-tabs?u=76281980&t=0)** - [Instructor] When we click on a chart in [[Microsoft Excel|Excel]], as we select a chart, activate two additional elements in the ribbon menu system, chart design and format.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-the-chart-design-and-format-tabs?u=76281980&t=9)** And these can be intimidating if you let them be.
 >
@@ -606,12 +601,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting data to display as a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980)
+#### [Selecting data to display as a chart](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980&t=0)** - [Instructor] An Excel chart is a depiction of numerical information.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980&t=0)** - [Instructor] An [[Microsoft Excel|Excel]] chart is a depiction of numerical information.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980&t=4)** If you don't have numbers, it's pretty hard to come up with a chart in Excel that would make any sense.
 >
@@ -667,15 +661,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating charts instantly with shortcuts and Quick Analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-instantly-with-shortcuts-and-quick-analysis?u=76281980)
+#### [Creating charts instantly with shortcuts and Quick Analysis](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-instantly-with-shortcuts-and-quick-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,19 +764,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
 > **CLI Commands:** make (2)
 > **Env Vars:** f11 (2)
 > **Cross-References:** we mentioned (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating charts with the Recommended Charts button
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-the-recommended-charts-button?u=76281980)
+#### [Creating charts with the Recommended Charts button](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-the-recommended-charts-button?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-the-recommended-charts-button?u=76281980&t=0)** - [Instructor] If you're relatively new in working with charts in Excel or if you're simply interested in getting a suggestion as to what kind of chart you might be using, there is a feature referred to, it's available on the insert tab, called recommended charts.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-the-recommended-charts-button?u=76281980&t=0)** - [Instructor] If you're relatively new in working with charts in [[Microsoft Excel|Excel]] or if you're simply interested in getting a suggestion as to what kind of chart you might be using, there is a feature referred to, it's available on the insert tab, called recommended charts.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-the-recommended-charts-button?u=76281980&t=14)** So imagine we want to create a chart based on the data that we're seeing in these cells right here.
 >
@@ -863,7 +854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (4), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Best Practices:** recommended (6)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** imagine (1), picture (1)
@@ -871,8 +862,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating charts with standard menu commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-standard-menu-commands?u=76281980)
+#### [Creating charts with standard menu commands](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/creating-charts-with-standard-menu-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +914,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -936,8 +925,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing a chart layout with Quick Layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/choosing-a-chart-layout-with-quick-layout?u=76281980)
+#### [Choosing a chart layout with Quick Layout](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/choosing-a-chart-layout-with-quick-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,15 +1025,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting a chart style
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980)
+#### [Selecting a chart style](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=19)** And don't ignore that button in the lower right corner.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=22)** At the moment, we're viewing a clustered column chart, one of the most common chart types in Excel, and we've got 14 different choices here.
+> **[0:22](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=22)** At the moment, we're viewing a clustered column chart, one of the most common chart types in [[Microsoft Excel|Excel]], and we've got 14 different choices here.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=30)** As we slide over these, and I'm not clicking, just slide over these, we see quite a few changes here.
 >
@@ -1103,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=101)** You like some of these displays.
 >
-> **[1:43](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=103)** Ultimately, when you get more involved in the fine tuning of some choices, you could start here and then make choices as you desire.
+> **[1:43](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=103)** Ultimately, when you get more involved in the [[Fine Tuning]] of some choices, you could start here and then make choices as you desire.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-a-chart-style?u=76281980&t=110)** Now, it's also possible to get to these in a different way, although I don't think it's nearly as efficient.
 >
@@ -1135,8 +1121,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the orientation of a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/change-the-orientation-of-a-chart?u=76281980)
+#### [Change the orientation of a chart](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/change-the-orientation-of-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,14 +1193,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), refers to (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [narrator] (1)
 
-#### Changing a chart's type
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980)
+#### [Changing a chart's type](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=94)** Change chart type, there are times when you're changing a chart.
 >
-> **[1:38](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=98)** For example here, I'm going to go back to one of the column charts and I've just gotten word that some of the other people are making a presentation.
+> **[1:38](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=98)** For example here, I'm going to go back to one of the column charts and I've just gotten [[Microsoft Word|word]] that some of the other people are making a presentation.
 >
 > **[1:49](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=109)** We'll be using column charts as well too.
 >
@@ -1267,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=113)** Do I want to use that stacked version or changing this again, do I want to use what we call the clustered version?
 >
-> **[2:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=120)** Keep in mind that when you are making changes in Excel and you say, I want to undo that, you can press Ctrl Z.
+> **[2:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=120)** Keep in mind that when you are making changes in [[Microsoft Excel|Excel]] and you say, I want to undo that, you can press Ctrl Z.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/changing-a-chart-s-type?u=76281980&t=126)** And if I press Ctrl Z, again, I'm undoing that and go moving backward in time with these changes.
 >
@@ -1289,15 +1272,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving, copying, and resizing charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/moving-copying-and-resizing-charts?u=76281980)
+#### [Moving, copying, and resizing charts](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/moving-copying-and-resizing-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,7 +1355,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (10)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -1383,12 +1364,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using column and bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980)
+#### [Using column and bar charts](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980&t=0)** - [Instructor] The most common chart type for many Excel users is a Column Chart.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980&t=0)** - [Instructor] The most common chart type for many [[Microsoft Excel|Excel]] users is a Column Chart.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980&t=4)** Also, Bar Charts are pretty common and think of them actually as Column Charts that have simply been rotated 90 degrees.
 >
@@ -1546,19 +1526,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with line charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980)
+#### [Working with line charts](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=0)** - [Instructor] One of the most commonly used chart types in Excel is a line chart, and it's generally agreed that a line chart is ideal for showing information over a time period to expose a trend or sometimes the lack of a trend.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=0)** - [Instructor] One of the most commonly used chart types in [[Microsoft Excel|Excel]] is a line chart, and it's generally agreed that a line chart is ideal for showing information over a time period to expose a trend or sometimes the lack of a trend.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=13)** In this worksheet called line chart in our chapter four file, the purple chart on the left is based on the data we see over in columns A and B.
 >
@@ -1592,7 +1571,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=143)** The chart below is unusually wide and you might be asking why that minimizes the idea that there's been some change.
 >
-> **[2:31](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=151)** Now, if instead of sales, if this is showing, let's say increased absenteeism at the office or something like that, and you want to hide that trend, this minimizes the look.
+> **[2:31](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=151)** Now, if instead of sales, if this is showing, let's say increased absenteeism at the [[Microsoft Office|office]] or something like that, and you want to hide that trend, this minimizes the look.
 >
 > **[2:41](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/working-with-line-charts?u=76281980&t=161)** Now, in all cases, you can always fall back on the idea that the numbers on the left tell the real story, but visually at impact that we get at first when we see a chart certainly can sway the audience one way or another.
 >
@@ -1614,14 +1593,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** be careful (1), keep in mind (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring other chart types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980)
+#### [Exploring other chart types](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980&t=62)** The 2D chart is less widely used, but nevertheless, at certain points, these are valuable charts.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980&t=67)** One thing to be aware of is if you use negative data, think of it, there's no such thing as a negative piece of pie, Excel seemingly treats the data as if it were positive.
+> **[1:07](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980&t=67)** One thing to be aware of is if you use negative data, think of it, there's no such thing as a negative piece of pie, [[Microsoft Excel|Excel]] seemingly treats the data as if it were positive.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/exploring-other-chart-types?u=76281980&t=77)** I'm going to change the February data here to be minus 130 instead of plus 130.
 >
@@ -1733,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), be careful (1)
 > **UI Navigation:** go to (1)
@@ -1744,24 +1722,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more about Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980)
+#### [Where to learn more about Excel](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=0)** - [Dennis] Congratulations, you've reached the end of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=3)** You now have the Excel knowledge you need to create and customize your own charts using this powerful spreadsheet program.
+> **[0:03](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=3)** You now have the [[Microsoft Excel|Excel]] knowledge you need to create and customize your own charts using this powerful spreadsheet program.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=10)** If you feel like you're ready to take things to the next level with Excel, LinkedIn Learning has you covered.
+> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=10)** If you feel like you're ready to take things to the next level with Excel, [[LinkedIn]] Learning has you covered.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=15)** Explore the library for greater depth on charts and graphs, and be sure to stay tuned to LinkedIn Learning for more advanced Excel courses to get you up to speed with advanced formulas and functions, pivot tables, and a whole lot more.
+> **[0:15](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=15)** Explore the library for greater depth on charts and graphs, and be sure to stay tuned to LinkedIn Learning for more advanced Excel courses to get you up to speed with advanced formulas and functions, [[Pivot Tables]], and a whole lot more.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980&t=28)** Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (2), next (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (2), [[Pivot Tables]] (1)
 > **Speakers:** - [dennis] (1)
 
 

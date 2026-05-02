@@ -70,16 +70,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How is AI reshaping the skills today's organizations need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980)
+#### [How is AI reshaping the skills today's organizations need?](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=0)** - Right now, most LinkedIn members are in jobs where they could automate at least a quarter of their routine tasks.
+> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=0)** - Right now, most [[LinkedIn]] members are in jobs where they could automate at least a quarter of their routine tasks.
 >
 > **[0:07](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=7)** I mean, think about the impact this has on productivity for you, your department, your business, creative and technical professionals, your whole organization.
 >
-> **[0:17](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=17)** - Yeah, and with the release of generative AI tools, AI is everywhere, as a result, one thing is for certain, we are witnessing a shift in skills, how we hire and how we define productivity.
+> **[0:17](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=17)** - Yeah, and with the release of [[Generative AI Tools]], AI is everywhere, as a result, one thing is for certain, we are witnessing a shift in skills, how we hire and how we define productivity.
 >
 > **[0:32](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980&t=32)** AI is changing the world right before our eyes.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (4), business (1), [[Generative AI Tools]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Generative AI Tools]] (1)
 > **Speakers:** - right (1), - yeah (1), - well (1), - we (1), - so (1)
 > **Cross-References:** in the next (1)
 
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your organization's AI upskilling opportunity
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980)
+#### [Your organization's AI upskilling opportunity](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,30 +133,29 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=73)** And then comes a question, so how ready are you?
 >
-> **[1:17](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=77)** What's your organization's AI readiness?
+> **[1:17](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=77)** What's your organization's [[AI Readiness]]?
 >
-> **[1:21](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=81)** Assessing AI readiness across the org is key to designing an AI strategy aligned to the three stages of AI adoption and implementation.
+> **[1:21](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=81)** Assessing AI readiness across the org is key to designing an [[AI Strategy]] aligned to the three stages of AI adoption and implementation.
 >
 > **[1:31](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=91)** Emerging, accelerating, and leading.
 >
 > **[1:35](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=95)** This could get overwhelming quickly, but it doesn't have to.
 >
-> **[1:39](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=99)** You can upskill your entire organization with LinkedIn.
+> **[1:39](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=99)** You can upskill your entire organization with [[LinkedIn]].
 >
 > **[1:42](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980&t=102)** We are your trusted partner with a wealth of resources and expertise to help guide you through it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Readiness]] (2), [[AI Strategy]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - investing (1)
 
-#### How LinkedIn’s AI content gives you an advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-linkedin-s-ai-content-gives-you-an-advantage-25362244?u=76281980)
+#### [How LinkedIn’s AI content gives you an advantage](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-linkedin-s-ai-content-gives-you-an-advantage-25362244?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-linkedin-s-ai-content-gives-you-an-advantage-25362244?u=76281980&t=0)** - At LinkedIn, our goal is to be your partner in upskilling your org on AI.
+> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-linkedin-s-ai-content-gives-you-an-advantage-25362244?u=76281980&t=0)** - At [[LinkedIn]], our goal is to be your partner in upskilling your org on AI.
 >
 > **[0:06](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-linkedin-s-ai-content-gives-you-an-advantage-25362244?u=76281980&t=6)** To do that, we are building the world's leading enterprise AI learning portfolio organized into an upskilling framework.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[LinkedIn]] (2), business (1), data (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Analogies:** picture (1)
 > **Speakers:** - at (1)
 
@@ -207,12 +204,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the LinkedIn AI Content Framework?
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980)
+#### [What is the LinkedIn AI Content Framework?](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=0)** - Every department in your organization is likely to be at a different level of AI readiness, which is why we've created the Upskilling Framework.
+> **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=0)** - Every department in your organization is likely to be at a different level of [[AI Readiness]], which is why we've created the Upskilling Framework.
 >
 > **[0:09](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=9)** No matter what state of the AI journey your organization is at, this framework will better serve every employee's AI learning journey because it is a journey, not a destination.
 >
@@ -220,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=34)** Organizations need the right AI skills content for the right people to facilitate learning.
 >
-> **[0:41](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=41)** And LinkedIn Learning's Upskilling Framework does this for you.
+> **[0:41](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=41)** And [[LinkedIn]] Learning's Upskilling Framework does this for you.
 >
 > **[0:45](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980&t=45)** This structured matrix-like learning model, provides custom curated content to upskill specific roles or skills in AI.
 >
@@ -262,14 +258,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[AI Readiness]] (3), [[LinkedIn]] (1)
 > **Env Vars:** lms (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
-#### AI Content Framework level 1: Understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980)
+#### [AI Content Framework level 1: Understanding](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980&t=39)** This level consists of courses, learning paths, and certificates.
 >
-> **[0:44](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980&t=44)** You'll find topics like what is AI, ethical and responsible AI, tools and software awareness, business strategy implications for leaders and managers, and how technology trends have business impact.
+> **[0:44](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980&t=44)** You'll find topics like what is AI, ethical and [[Responsible AI]], tools and software awareness, business strategy implications for leaders and managers, and how technology trends have business impact.
 >
 > **[0:59](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-1-understanding-fluency-and-awareness?u=76281980&t=59)** Regardless of role, this level upskills professionals from understanding the basics to building AI fluency.
 >
@@ -299,12 +294,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (4), [[Responsible AI]] (1), game (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - how (1)
 
-#### AI Content Framework level 2: Applying
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980)
+#### [AI Content Framework level 2: Applying](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,37 +312,36 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=35)** These courses meet learners where they're at and they show them how to work with AI and accelerate their work, leaving more time for critical human skills to drive transformation.
 >
-> **[0:46](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=46)** Level two courses teach foundational skills like prompt engineering and how to think critically using AI and cover how to apply AI for human skills like communication, conflict resolution, and resilience.
+> **[0:46](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=46)** Level two courses teach foundational skills like [[Prompt Engineering]] and how to think critically using AI and cover how to apply AI for human skills like communication, conflict resolution, and resilience.
 >
-> **[1:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=60)** And there is a wealth of content for those in leadership and strategy roles on everything from building collaborative team culture with AI to harnessing AI for business strategy.
+> **[1:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=60)** And there is a wealth of content for those in leadership and strategy roles on everything from building collaborative team culture with AI to harnessing [[AI for Business]] strategy.
 >
 > **[1:11](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=71)** We offer role-specific guidance.
 >
-> **[1:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=74)** In level two, you'll find courses like generative AI for project management, creating a collaborative team culture with AI, and building a GenAI tech strategy.
+> **[1:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=74)** In level two, you'll find courses like [[Generative AI]] for project management, creating a collaborative team culture with AI, and building a GenAI tech strategy.
 >
-> **[1:25](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=85)** And if your company uses Microsoft 365, we offer best-in-class coverage for Microsoft Copilot.
+> **[1:25](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=85)** And if your company uses [[Microsoft 365]], we offer best-in-class coverage for [[Microsoft Copilot]].
 >
-> **[1:32](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=92)** Plus, we offer tailored learning paths such as develop your prompt engineering skills, getting started with custom GPTs and building AI aptitude as an aspiring manager.
+> **[1:32](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=92)** Plus, we offer tailored learning paths such as develop your prompt engineering skills, getting started with [[Custom GPTs]] and building AI aptitude as an aspiring manager.
 >
 > **[1:44](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=104)** Our level two content helps your learners apply AI skills across multiple roles and boost productivity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Prompt Engineering]] (2), teams (1), leadership (1), business (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[AI for Business]] (1), [[Generative AI]] (1), [[Microsoft 365]] (1), [[Microsoft Copilot]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - level (1)
 
-#### AI Content Framework level 3: Building
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980)
+#### [AI Content Framework level 3: Building](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=0)** - Some people in your organization already have foundational AI skills.
 >
-> **[0:05](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=5)** They may even have experience with prompt engineering.
+> **[0:05](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=5)** They may even have experience with [[Prompt Engineering]].
 >
 > **[0:08](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=8)** They're ready to actually customize things, make things relevant for the business you're doing today.
 >
@@ -360,9 +353,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=27)** What skills will learners be honing?
 >
-> **[0:29](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=29)** Think APIs, including the OpenAI API, custom GPTs, tools like Hugging Face, Semantic Kernel, Gemini.
+> **[0:29](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=29)** Think APIs, including the [[OpenAI API]], [[Custom GPTs]], tools like [[Hugging Face]], [[Semantic Kernel]], [[Gemini]].
 >
-> **[0:39](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=39)** They may even dabble into databases.
+> **[0:39](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=39)** They may even dabble into [[Databases]].
 >
 > **[0:42](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-3-building-25365225?u=76281980&t=42)** We have options like our 11 course series on the OpenAI API, so developers can start working with leading tools today.
 >
@@ -386,13 +379,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[OpenAI API]] (2), [[Prompt Engineering]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (1), [[Custom GPTs]] (1), [[Hugging Face]] (1), [[Semantic Kernel]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** api (2)
 > **Speakers:** - some (1)
 
-#### AI Content Framework level 4: Training and maintaining models
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980)
+#### [AI Content Framework level 4: Training and maintaining models](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,25 +398,24 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=32)** Now, what can learners expect?
 >
-> **[0:34](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=34)** Aspiring machine learning engineers can explore foundational topics, like our five-course series, "Machine Learning with Python," or dive into AI specialties like "Deep Learning and Neural Networks."
+> **[0:34](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=34)** Aspiring machine learning engineers can explore foundational topics, like our five-course series, "Machine Learning with [[Python (Programming Language)|Python]]," or dive into AI specialties like "[[Deep Learning]] and [[Neural Networks]]."
 >
 > **[0:47](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=47)** They can hone their advanced skills for training, maintaining and optimizing models.
 >
-> **[0:52](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=52)** So for topics, think reinforcement learning, computer vision and popular machine learning libraries like PyTorch, TensorFlow and NumPy.
+> **[0:52](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=52)** So for topics, think [[Reinforcement Learning]], [[Computer Vision]] and popular machine learning libraries like [[PyTorch]], [[TensorFlow]] and NumPy.
 >
 > **[1:03](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=63)** And of course, we've built plenty of learning paths to guide you.
 >
-> **[1:07](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=67)** Now, whether your team wants to specialize in machine learning, deep learning or NLP, natural language processing, we've got you covered.
+> **[1:07](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-4-model-training-maintaining?u=76281980&t=67)** Now, whether your team wants to specialize in machine learning, deep learning or NLP, [[Natural Language Processing (NLP)|natural language processing]], we've got you covered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Deep Learning]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (1), [[Neural Networks]] (1), [[Reinforcement Learning]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - get (1)
 
-#### AI Content Framework level 5: Deeply specializing
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980)
+#### [AI Content Framework level 5: Deeply specializing](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,13 +423,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=4)** AI directly impacts deeply technical and specialized roles.
 >
-> **[0:08](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=8)** Think DevOps, data scientists, researchers.
+> **[0:08](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=8)** Think [[DevOps]], data scientists, researchers.
 >
-> **[0:12](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=12)** And the evolution of AI has brought in new, important terms like AIOps, MLOps, LLMOps.
+> **[0:12](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=12)** And the evolution of AI has brought in new, important terms like [[AIOps]], [[MLOps]], LLMOps.
 >
 > **[0:21](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=21)** We've got the alphabet soup covered for you.
 >
-> **[0:24](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=24)** Plus, we'll cover AI security and AI cloud solutions, including AWS Azure and Google Cloud platform.
+> **[0:24](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=24)** Plus, we'll cover [[AI Security]] and AI cloud solutions, including AWS [[Microsoft Azure|Azure]] and [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:33](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=33)** If your team is eyeing certifications, we're ready to prepare your learners for success.
 >
@@ -446,13 +437,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=51)** Have an employee aiming to add a shiny new certificate to their profile?
 >
-> **[0:55](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=55)** You'll find courses like Prepare for the AWS Certified Machine Learning Specialty Exam, as well as Prepare for the Google Cloud Professional Machine Learning Engineer Certificate, along with many more.
+> **[0:55](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=55)** You'll find courses like Prepare for the AWS Certified Machine Learning Specialty Exam, as well as Prepare for the [[Google Cloud Platform (GCP)|Google Cloud]] Professional Machine Learning Engineer Certificate, along with many more.
 >
 > **[1:10](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=70)** Now, what about those who aren't so certification-hungry?
 >
 > **[1:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=74)** For those learners, we've curated specific learning paths to guide them through their journey.
 >
-> **[1:20](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=80)** You'll find paths like Develop Your AI Skills with Google Gemini and Google Cloud Platform, Develop Your AI skills as a Cybersecurity Professional, or Foundational AI Skills for Azure Administration.
+> **[1:20](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=80)** You'll find paths like Develop Your AI Skills with [[Google Gemini]] and Google Cloud Platform, Develop Your AI skills as a [[Cybersecurity]] Professional, or Foundational AI Skills for Azure Administration.
 >
 > **[1:35](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-5-deep-specialization?u=76281980&t=95)** So whether your team is seeking to deepen their expertise in MLOps fortify their AI security knowledge, or prepare for certifications, our offerings will take care of everything.
 >
@@ -460,7 +451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[MLOps]] (2), [[Security]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (2), [[AI Security]] (2), [[Microsoft Azure|Azure]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[DevOps]] (1)
 > **CLI Commands:** find (3), aws (2), make (1)
 > **Env Vars:** aws (2)
 > **Prerequisites:** make sure you have (1)
@@ -471,8 +462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your AI upskilling strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-your-ai-up-skilling-strategy?u=76281980)
+#### [Build your AI upskilling strategy](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-your-ai-up-skilling-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,13 +516,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (3), functional (1), teams (1)
 > **Env Vars:** cto (1), cio (1), cdo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Build customized, role-based, AI learning journeys
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980)
+#### [Build customized, role-based, AI learning journeys](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=17)** Second, what is the industry vertical?
 >
-> **[0:21](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=21)** The needs are different if your organization is in the healthcare industry versus finance.
+> **[0:21](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=21)** The needs are different if your organization is in the [[Healthcare Industry]] versus finance.
 >
 > **[0:27](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=27)** Third, what job levels are you trying to serve?
 >
@@ -556,11 +544,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=41)** Fourth, what are the specific skills or tools your organization needs to learn?
 >
-> **[0:47](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=47)** Are you investing in tools, like a new copilot, and your organization's asking for help upskilling?
+> **[0:47](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=47)** Are you investing in tools, like a new [[Microsoft Copilot|copilot]], and your organization's asking for help upskilling?
 >
 > **[0:53](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=53)** If so, you'll need to find content to help them learn those specific tools.
 >
-> **[0:59](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=59)** Once you've pinpointed the key AI skills and roles, it's time to harness the power of LinkedIn learning.
+> **[0:59](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=59)** Once you've pinpointed the key AI skills and roles, it's time to harness the power of [[LinkedIn]] learning.
 >
 > **[1:06](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-customized-role-based-ai-learning-journeys?u=76281980&t=66)** Utilize the AI upskilling framework content mapping, provided in this course, to lay out a strategic plan to recommend courses and LinkedIn built learning paths to target specific groups.
 >
@@ -582,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (5), [[Healthcare Industry]] (1), [[Microsoft Copilot|Copilot]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Healthcare Industry]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
@@ -592,8 +580,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=14)** - Well, here's a recommendation on where to start, because oftentimes this is where the real work begins.
 >
-> **[0:20](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=20)** Start with an assessment of your organization's AI readiness.
+> **[0:20](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=20)** Start with an assessment of your organization's [[AI Readiness]].
 >
 > **[0:24](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=24)** This includes identifying what AI tools your organization will be leveraging.
 >
@@ -627,13 +614,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=78)** Lead your organization to AI mastery, one skill at a time.
 >
-> **[1:23](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=83)** Remember, LinkedIn is your partner in upskilling your entire organization.
+> **[1:23](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=83)** Remember, [[LinkedIn]] is your partner in upskilling your entire organization.
 >
 > **[1:29](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980&t=89)** We are here for you, and in it together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (1), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Readiness]] (1), [[LinkedIn]] (1)
 > **Speakers:** - now (1), - well (1), - by (1)
 
 

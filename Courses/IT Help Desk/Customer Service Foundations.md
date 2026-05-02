@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping your customers happy
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
+#### [Keeping your customers happy](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,12 +119,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - customer (1)
 
-#### Creating your customer service learning plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980)
+#### [Creating your customer service learning plan](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980&t=11)** First, it's good to know if this course is right for you.
 >
-> **[0:15](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980&t=15)** This is a foundational course that focuses on fundamental customer service skills, so it's ideal if you are just starting out in customer service and want to know the basics, or you are an experienced customer service professional who would like a refresher.
+> **[0:15](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980&t=15)** This is a foundational course that focuses on fundamental [[Customer Service Skills]], so it's ideal if you are just starting out in customer service and want to know the basics, or you are an experienced customer service professional who would like a refresher.
 >
 > **[0:31](https://www.linkedin.com/learning/customer-service-foundations-21620021/creating-your-customer-service-learning-plan?u=76281980&t=31)** The course is also a good resource if you are a customer service leader and you want a training program to share with your team.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Service Skills]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Customer Service Skills]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
@@ -177,8 +174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
+#### [Defining customer service](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980&t=59)** Customer service is also part of the overall customer experience.
 >
-> **[1:05](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980&t=65)** The Oxford English Dictionary defines customer service as the assistance and advice provided by a company to those people who buy or use its products or services.
+> **[1:05](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980&t=65)** The Oxford English Dictionary defines customer service as the assistance and advice provided by a company to those people who buy or use its [[Microsoft Products|products]] or services.
 >
 > **[1:16](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980&t=76)** In other words, customer service is helping people.
 >
@@ -272,8 +268,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 
-#### Identifying your customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980)
+#### [Identifying your customers](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980&t=18)** You probably have a group or groups of people you already refer to as customers, clients, or guests.
 >
-> **[0:26](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980&t=26)** These are generally people who buy your organization's products or services.
+> **[0:26](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980&t=26)** These are generally people who buy your organization's [[Microsoft Products|products]] or services.
 >
 > **[0:31](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-your-customers?u=76281980&t=31)** Now, some people don't serve external customers directly, but they provide service to other people who do.
 >
@@ -349,13 +344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), career (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - customer (1)
 
-#### Making a difference for customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980)
+#### [Making a difference for customers](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980&t=120)** As a third step to this exercise, make a list of benefits your organization receives when you provide outstanding customer service.
 >
-> **[2:09](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980&t=129)** Your list might include increased profits, retained customers, and positive word of mouth from customers who refer your company to others.
+> **[2:09](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980&t=129)** Your list might include increased profits, retained customers, and positive [[Microsoft Word|word]] of mouth from customers who refer your company to others.
 >
 > **[2:18](https://www.linkedin.com/learning/customer-service-foundations-21620021/making-a-difference-for-customers?u=76281980&t=138)** Customer service isn't always easy, but the important thing to remember is that you can choose to make a difference in other people's lives.
 >
@@ -419,8 +413,7 @@ created: 2026-05-02
 > **CLI Commands:** make (5)
 > **Speakers:** - think (1)
 
-#### Avoiding burnout by staying focused
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980)
+#### [Avoiding burnout by staying focused](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +471,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980&t=132)** Finally, read your thank you letter at the start of each day for three weeks and try to receive this feedback from a real customer.
 >
-> **[2:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980&t=141)** After I did this exercise, I asked a client to write a recommendation for my LinkedIn profile.
+> **[2:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980&t=141)** After I did this exercise, I asked a client to write a recommendation for my [[LinkedIn]] profile.
 >
 > **[2:27](https://www.linkedin.com/learning/customer-service-foundations-21620021/avoiding-burnout-by-staying-focused?u=76281980&t=147)** I didn't prompt my client with what to write, yet notice how my client's words are very similar to the letter that I wrote.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), prompt (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** apa (1)
 > **Speakers:** - burnout (1)
@@ -504,8 +497,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting rapport to outstanding service
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
+#### [Connecting rapport to outstanding service](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -517,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980&t=18)** Think about your favorite places to be a customer.
 >
-> **[0:20](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980&t=20)** Perhaps it's your hair salon or barbershop, maybe it's a coffee shop, a local hardware store, or the hotel where you spent your last vacation.
+> **[0:20](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980&t=20)** Perhaps it's your hair salon or barbershop, maybe it's a coffee shop, a local [[Hardware]] store, or the hotel where you spent your last vacation.
 >
 > **[0:29](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980&t=29)** How do employees make you feel whenever you go there?
 >
@@ -585,14 +577,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - building (1)
 
-#### Implementing techniques to build rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/implementing-techniques-to-build-rapport?u=76281980)
+#### [Implementing techniques to build rapport](https://www.linkedin.com/learning/customer-service-foundations-21620021/implementing-techniques-to-build-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,14 +675,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), next (1)
 > **Speakers:** - building (1), - oh (1), - hey (1), - well (1), - which (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** exercise file (2), download the (1)
 > **Analogies:** for instance (1)
 
-#### Starting a conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980)
+#### [Starting a conversation](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,11 +714,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=71)** Their answer will allow you to direct them to the appropriate department and even help them make their selection.
 >
-> **[1:17](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=77)** If you work in technical support, you might fill dead air while a device is rebooting by asking "How is everything else working?"
+> **[1:17](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=77)** If you work in [[Technical Support]], you might fill dead air while a device is rebooting by asking "How is everything else working?"
 >
 > **[1:24](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=84)** This prompts the customer to think of any other questions they might have about their software or equipment.
 >
-> **[1:29](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=89)** I want to leave you with one last word of caution.
+> **[1:29](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=89)** I want to leave you with one last [[Microsoft Word|word]] of caution.
 >
 > **[1:32](https://www.linkedin.com/learning/customer-service-foundations-21620021/starting-a-conversation?u=76281980&t=92)** Whenever you ask a customer a question, you had better make sure you care about their answer.
 >
@@ -761,13 +750,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), generic (1), [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **Warnings:** caution (1)
 > **Speakers:** - one (1)
 
-#### Enhancing your likability
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/enhancing-your-likability?u=76281980)
+#### [Enhancing your likability](https://www.linkedin.com/learning/customer-service-foundations-21620021/enhancing-your-likability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +865,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Speakers:** - thank (2), - customers (1), - good (1), - the (1), - now (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
@@ -887,8 +874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uncovering customer needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
+#### [Uncovering customer needs](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980&t=109)** The first step is to list a few of your major job responsibilities.
 >
-> **[1:53](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980&t=113)** Let's imagine someone who works in technical support as an example.
+> **[1:53](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980&t=113)** Let's imagine someone who works in [[Technical Support]] as an example.
 >
 > **[1:57](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980&t=117)** They might write that they help customers solve software issues, educate customers to help prevent future issues, and use customer feedback to identify bugs in the software.
 >
@@ -972,8 +958,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** be careful (1)
 
-#### Actively listening to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/actively-listening-to-customers?u=76281980)
+#### [Actively listening to customers](https://www.linkedin.com/learning/customer-service-foundations-21620021/actively-listening-to-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,14 +1074,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - yeah (2), - you (2), - customers (1), - hi (1), - yes (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 
-#### Identifying emotional needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-emotional-needs?u=76281980)
+#### [Identifying emotional needs](https://www.linkedin.com/learning/customer-service-foundations-21620021/identifying-emotional-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,14 +1143,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Analogies:** such as (2), for instance (2)
 > **Speakers:** - think (1), - i (1), - were (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### Managing expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980)
+#### [Managing expectations](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980&t=17)** Some of these problems are outside of your control.
 >
-> **[0:19](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980&t=19)** Late deliveries, defective products, or billing errors might all be caused by mistakes or accidents in other departments.
+> **[0:19](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980&t=19)** Late deliveries, defective [[Microsoft Products|products]], or billing errors might all be caused by mistakes or accidents in other departments.
 >
 > **[0:27](https://www.linkedin.com/learning/customer-service-foundations-21620021/managing-expectations?u=76281980&t=27)** Other unpleasant surprises happen because customers' expectations are simply in the wrong place.
 >
@@ -1255,15 +1236,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (2), for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - service (1)
 
-#### Going the extra mile
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/going-the-extra-mile?u=76281980)
+#### [Going the extra mile](https://www.linkedin.com/learning/customer-service-foundations-21620021/going-the-extra-mile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,7 +1341,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Speakers:** - okay (4), - yeah (2), - providing (1), - many (1), - here (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
@@ -1372,8 +1351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking ownership of problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
+#### [Taking ownership of problems](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,15 +1459,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - that (2), - let (2), - have (1), - i (1), - who (1)
 > **Analogies:** imagine (1), think of it as (1), for example (1), for instance (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Empathizing with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980)
+#### [Empathizing with customers](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1475,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=16)** Let's start by looking at a scene where empathy is important.
 >
-> **[0:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=21)** - I can't believe there are so many forms required.
+> **[0:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=21)** - I can't believe there are so many [[Forms]] required.
 >
 > **[0:24](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=24)** - Yep, there's a lot.
 >
@@ -1535,7 +1511,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=88)** Other times, empathy is a bit more difficult.
 >
-> **[1:31](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=91)** For example, a technical support rep may find it hard to relate to the frustration a customer feels because they can fix their own computer.
+> **[1:31](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=91)** For example, a [[Technical Support]] rep may find it hard to relate to the frustration a customer feels because they can fix their own computer.
 >
 > **[1:40](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=100)** Or a medical lab technician may have a hard time empathizing with a patient's nervousness if they've never had blood drawn to test for a potentially fatal disease.
 >
@@ -1553,7 +1529,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=136)** The receptionist might think about a time when he had to fill out a lot of paperwork himself.
 >
-> **[2:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=141)** Perhaps it was a rental application, a car loan, or at a new doctor's office.
+> **[2:21](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=141)** Perhaps it was a rental application, a car loan, or at a new doctor's [[Microsoft Office|office]].
 >
 > **[2:26](https://www.linkedin.com/learning/customer-service-foundations-21620021/empathizing-with-customers?u=76281980&t=146)** Recollecting that experience could help him understand that filling out a lot of paperwork is tedious and sometimes confusing.
 >
@@ -1569,7 +1545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), next (2), [[Technical Support]] (1), application (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Technical Support]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - i (3), - empathy (1), - yep (1), - that (1), - thanks (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (2)
@@ -1577,8 +1553,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 
-#### Preventing negative emotions
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/preventing-negative-emotions?u=76281980)
+#### [Preventing negative emotions](https://www.linkedin.com/learning/customer-service-foundations-21620021/preventing-negative-emotions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1651,8 +1626,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 
-#### Defusing angry customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980)
+#### [Defusing angry customers](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,7 +1680,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=111)** Your goal is just to avoid an argument.
 >
-> **[1:54](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=114)** Finally, refocus the conversation on a solution to help your customer shift to a more positive outlook.
+> **[1:54](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=114)** Finally, refocus the conversation on a solution to help your customer shift to a more positive [[Microsoft Outlook|outlook]].
 >
 > **[2:01](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=121)** Let's look at that same scene again, but this time the receptionist uses the acknowledge and refocus technique to help the customer feel better.
 >
@@ -1720,7 +1694,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=140)** - Not really. I just can't stand waiting.
 >
-> **[2:23](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=143)** I had to wait at the post office this morning, then I had to wait at the DMV and now I have to wait here.
+> **[2:23](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=143)** I had to wait at the post [[Microsoft Office|office]] this morning, then I had to wait at the DMV and now I have to wait here.
 >
 > **[2:28](https://www.linkedin.com/learning/customer-service-foundations-21620021/defusing-angry-customers?u=76281980&t=148)** - Wow, you've done a lot of waiting today.
 >
@@ -1760,15 +1734,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - this (2), - okay (2), - i (2), - in (1), - don (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dmv (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 
-#### Anchoring your own attitude
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/anchoring-your-own-attitude?u=76281980)
+#### [Anchoring your own attitude](https://www.linkedin.com/learning/customer-service-foundations-21620021/anchoring-your-own-attitude?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,14 +1815,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
 
-#### Expanding your influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980)
+#### [Expanding your influence](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1852,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980&t=92)** At one point, customers were waiting on hold for an hour.
 >
-> **[1:36](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980&t=96)** The technical support reps who answered these calls didn't cause these issues, but they were still able to use the expand your influence exercise to find a way to provide their customers with better service.
+> **[1:36](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980&t=96)** The [[Technical Support]] reps who answered these calls didn't cause these issues, but they were still able to use the expand your influence exercise to find a way to provide their customers with better service.
 >
 > **[1:48](https://www.linkedin.com/learning/customer-service-foundations-21620021/expanding-your-influence?u=76281980&t=108)** The reps started by drawing a circle on a piece of paper.
 >
@@ -1905,15 +1876,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1), [[Technical Support]] (1), next (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** download the (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - one (1)
 
-#### Becoming a customer advocate
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/becoming-a-customer-advocate?u=76281980)
+#### [Becoming a customer advocate](https://www.linkedin.com/learning/customer-service-foundations-21620021/becoming-a-customer-advocate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1993,7 +1963,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - you (1), - so (1), - okay (1), - great (1), - well (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1)
@@ -2004,8 +1973,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to build your customer service skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)
+#### [Continuing to build your customer service skills](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2041,7 +2009,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980&t=77)** You can sign up for free at [toistersolutions.com/tips](https://toistersolutions.com/tips).
 >
-> **[1:22](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980&t=82)** You can also follow me on LinkedIn where I frequently post discussion questions about customer service challenges.
+> **[1:22](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980&t=82)** You can also follow me on [[LinkedIn]] where I frequently post discussion questions about customer service challenges.
 >
 > **[1:28](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980&t=88)** Being great at customer service is a never ending process.
 >
@@ -2049,7 +2017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [toistersolutions.com](https://toistersolutions.com) (1)

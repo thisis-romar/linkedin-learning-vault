@@ -111,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create powerful LLM driven applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
+#### [Create powerful LLM driven applications](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,25 +123,25 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=15)** And it's all because of one specific advancement in machine learning.
 >
-> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=21)** Large language models or LLMs.
+> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=21)** [[Large Language Models (LLM)|Large language models]] or LLMs.
 >
 > **[0:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=24)** LLMs are at the forefront of a technological revolution.
 >
 > **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=28)** And as with any powerful tool, harnessing its potential requires a robust framework.
 >
-> **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=34)** Enter LangChain.
+> **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=34)** Enter [[LangChain]].
 >
 > **[0:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=36)** A orchestration framework that will give you the building blocks to create powerful LLM-driven applications.
 >
 > **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=43)** I designed this course to be a comprehensive introduction to LangChain.
 >
-> **[0:47](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=47)** I hope you're excited to embark on your journey into AI and prompt engineering.
+> **[0:47](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=47)** I hope you're excited to embark on your journey into AI and [[Prompt Engineering]].
 >
 > **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980&t=51)** Are you ready? Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Orchestration]] (1), llm (1), ai (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - hi (1)
 
@@ -151,8 +150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are language models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
+#### [What are language models?](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,11 +166,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=38)** These models learn patterns, structures, and nuances of a language.
 >
-> **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=43)** When given a word or a sequence, a language model predicts what might come next based on what it's learned.
+> **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=43)** When given a [[Microsoft Word|word]] or a sequence, a language model predicts what might come next based on what it's learned.
 >
 > **[0:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=50)** This is similar to how after hearing the phrase "peanut butter", and many of us might instinctively complete with "jelly".
 >
-> **[0:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=58)** In practice, a language model gives the probability of a certain word sequence being valid.
+> **[0:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=58)** In practice, a language model gives the [[Probability]] of a certain word sequence being valid.
 >
 > **[1:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=65)** It's important to note that validity here doesn't strictly refer to the grammatical correctness of the generated text, it's about understanding human language's nuances, its context and its intricacies.
 >
@@ -194,9 +192,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=132)** The biggest limitation for these probabilistic language models lies in their inability to capture deep context.
 >
-> **[2:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=141)** Neural network-based language models excel at predicting the next word in a sequence using mechanisms like attention for contextual understanding.
+> **[2:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=141)** Neural network-based language models [[Microsoft Excel|excel]] at predicting the next word in a sequence using mechanisms like attention for contextual understanding.
 >
-> **[2:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=151)** When referring to large language models, or LLMs, we're often talking about the transformer architecture, which is a type of deep neural network architecture.
+> **[2:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=151)** When referring to [[Large Language Models (LLM)|large language models]], or LLMs, we're often talking about the transformer architecture, which is a type of deep neural network architecture.
 >
 > **[2:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=164)** Transformers understand the contextual relationship of words in a sequence using a mechanism called self-attention.
 >
@@ -212,13 +210,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=210)** For example, GPT-3 can handle few-shot tasks through in-context learning, something its predecessor GPT-2 struggled with.
 >
-> **[3:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=220)** Accessing LLMs is primarily done through a prompting interface like the ChatGPT UI or the GPT-4 API from OpenAI.
+> **[3:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=220)** Accessing LLMs is primarily done through a prompting interface like the [[ChatGPT]] UI or the [[GPT-4]] API from OpenAI.
 >
 > **[3:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=231)** This means users need to understand how LLMs function and format your prompts appropriately.
 >
 > **[3:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=239)** Developing LLMs blurs the lines between peer research and engineering.
 >
-> **[4:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=244)** Training these models demands practical experience in large-scale data processing and distributed parallel training.
+> **[4:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=244)** Training these models demands practical experience in large-scale [[Data Processing]] and distributed parallel training.
 >
 > **[4:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980&t=253)** As we become increasingly reliant on AI assistance, a foundational grasp of language models equips us to better appreciate this technology's marvel.
 >
@@ -230,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (3), data (2), [[Large Language Models (LLM)|Large language models]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Probability]] (1), [[Microsoft Excel|Excel]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (4), bert (1), api (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** similar to (1), for instance (1), for example (1)
@@ -242,8 +240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do language models generate text?
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
+#### [How do language models generate text?](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=21)** Then you append that to the sequence and repeat the process until you've got the desired sequence.
 >
-> **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=27)** A token, in language models, is a piece or chunk of text, which can be as short as one character or as long as one word, or it could be punctuation, like parentheses, question marks, et cetera.
+> **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=27)** A token, in language models, is a piece or chunk of text, which can be as short as one character or as long as one [[Microsoft Word|word]], or it could be punctuation, like parentheses, question marks, et cetera.
 >
 > **[0:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=42)** Okay, but how exactly does the LLM generate text?
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=118)** The self-attention mechanism ensures that words are considered about each other, allowing for deeper comprehension and context-aware prediction.
 >
-> **[2:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=129)** The LLM uses a softmax layer to produce a probability distribution over the possible next words or sequences.
+> **[2:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=129)** The LLM uses a softmax layer to produce a [[Probability]] distribution over the possible next words or sequences.
 >
 > **[2:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=136)** A softmax is just a mathematical function that's going to convert a vector of numbers into a probability distribution.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=162)** The output sequence is generated one word at a time, with each new word being generated based on the previous words in the sequence.
 >
-> **[2:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=171)** The quality of the generated text depends on the size in terms of the number of parameters of the model and the amount and quality of training data that was used to train the model, as well as how many tokens were seen during training.
+> **[2:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=171)** The quality of the generated text depends on the size in terms of the number of parameters of the model and the amount and quality of training data that was used to train the model, as well as how many [[Tokens]] were seen during training.
 >
 > **[3:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=186)** I just want to take a moment to talk about randomness, variation and human influence in LLM outputs.
 >
@@ -339,13 +336,13 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=344)** We can balance creativity and control and their outputs by adjusting parameters like temperature, top-k and top-p.
 >
-> **[5:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=351)** These models play a crucial role in our digital world, from search engines to virtual assistants and continue to advance AI and natural language processing.
+> **[5:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=351)** These models play a crucial role in our digital world, from search engines to virtual assistants and continue to advance AI and [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[6:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980&t=361)** Having a little bit of an understanding of your workings is going to empower you to maximize their potential and evaluate their outputs effectively, which will shape the future of technology and communication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), [[Microsoft Word|Word]] (7), [[Probability]] (6), next (5), [[Tokens]] (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Probability]] (6), [[Tokens]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** llm (10)
 > **Analogies:** for instance (2)
 > **CLI Commands:** cat (1)
@@ -353,8 +350,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Base LLMs vs. instruction-tuned LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980)
+#### [Base LLMs vs. instruction-tuned LLMs](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +360,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=8)** One is, of course, you could download the Jupyter Notebook and run it locally on your own machine.
 >
-> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=14)** Or if you'd prefer, you can go to Google Colab and run the notebooks there.
+> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=14)** Or if you'd prefer, you can go to [[Google]] Colab and run the notebooks there.
 >
 > **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=18)** So you'll have to go to Colab.research.[google.com](https://google.com) if you choose to run it in Google Colab.
 >
@@ -384,13 +380,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=66)** So that's what we're going to go ahead and do here.
 >
-> **[1:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=68)** First thing we want to do is install the huggingface_hub and langchain.
+> **[1:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=68)** First thing we want to do is install the huggingface_hub and [[LangChain]].
 >
 > **[1:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=74)** We'll import a number of libraries that we need to be successful for this section.
 >
-> **[1:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=79)** Now, if you haven't already, you're going to need to sign up for a Hugging Face.
+> **[1:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=79)** Now, if you haven't already, you're going to need to sign up for a [[Hugging Face]].
 >
-> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=83)** So the way you could do that is just by going to [huggingface.co](https://huggingface.co).
+> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=83)** So the way you could do that is just by going to [[[Hugging Face|huggingface]].co](https://huggingface.co).
 >
 > **[1:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=89)** Just click on Sign Up, and you'll be prompted to enter some information here.
 >
@@ -400,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=102)** Go to Settings.
 >
-> **[1:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=104)** Scroll down to Access Tokens.
+> **[1:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=104)** Scroll down to Access [[Tokens]].
 >
 > **[1:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=106)** And then just go ahead and copy that access token, and you'll paste that here.
 >
@@ -422,7 +418,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=164)** So a base language model, these are essentially the starting point of the "process," right?
 >
-> **[2:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=171)** These base language models are designed to predict the next word in a sequence based on the training data they've been exposed to.
+> **[2:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=171)** These base language models are designed to predict the next [[Microsoft Word|word]] in a sequence based on the training data they've been exposed to.
 >
 > **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=177)** However, they're not tailored to answer questions, carry out conversations, or solve problems.
 >
@@ -446,7 +442,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=260)** Now let's see what happens within instruction tuned LLM.
 >
-> **[4:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=264)** So an instruction tuned LLM, they're developed from the base LLM through further training and what's called "fine tuning," to follow specific instructions that are provided in the input, rather than merely just, you know, predicting the next word in a token.
+> **[4:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=264)** So an instruction tuned LLM, they're developed from the base LLM through further training and what's called "[[Fine Tuning]]," to follow specific instructions that are provided in the input, rather than merely just, you know, predicting the next word in a token.
 >
 > **[4:41](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=281)** So they're specialized in answering questions or executing commands.
 >
@@ -490,7 +486,7 @@ created: 2026-05-02
 >
 > **[6:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=419)** And finally, there's the chat tuned LLMs.
 >
-> **[7:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=421)** You know, classic example of chat tuned LLM, of course, is ChatGPT.
+> **[7:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=421)** You know, classic example of chat tuned LLM, of course, is [[ChatGPT]].
 >
 > **[7:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=425)** And you can see the history that I have here with ChatGPT, where I ask to write a story, it writes a story with a lot of veracity, and then I can tell it, you know, "Actually, make it about a man named Harpreet."
 >
@@ -508,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), [[Hugging Face]] (6), [[Tokens]] (5), [[Google]] (4), next (4)
+> **Frameworks & Libraries:** [[Hugging Face]] (6), [[Tokens]] (5), [[Google]] (4), [[Microsoft Word|Word]] (3), [[ChatGPT]] (2)
 > **Env Vars:** llm (7), gpu (1), gt3 (1), gt2 (1)
 > **UI Navigation:** go to (6), click on (2), scroll down (1)
 > **Tools:** colab (4), jupyter (3)
@@ -517,16 +513,15 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1), [huggingface.co](https://huggingface.co) (1)
 > **Exercise Files:** download the (2)
 
-#### Training, fine-tuning, and in-context learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980)
+#### [Training, fine-tuning, and in-context learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=0)** - [Presenter] In the previous section, you heard me talk about base, instruction-tuned, and chat-tuned models.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=6)** When you're working with large language models, it's important that you familiarize yourself with key terms that are fundamental to understanding their functionality and development.
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=6)** When you're working with [[Large Language Models (LLM)|large language models]], it's important that you familiarize yourself with key terms that are fundamental to understanding their functionality and development.
 >
-> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=15)** These terms include pre-training, fine-tuning, in-context learning, and retrieval-augmented generation.
+> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=15)** These terms include pre-training, fine-tuning, in-context learning, and [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=22)** Understanding these concepts is crucial for anyone working with or studying large language models.
 >
@@ -538,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=43)** The text can come from books, website, or other written material.
 >
-> **[0:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=48)** The primary goal in this phase is to enable the model to recognize patterns in language, including grammar, word usage, and stylistic elements.
+> **[0:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=48)** The primary goal in this phase is to enable the model to recognize patterns in language, including grammar, [[Microsoft Word|word]] usage, and stylistic elements.
 >
 > **[0:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=58)** Through this pre-training process, the model is going to develop a base understanding of language, which it can use to generate coherent and contextually-appropriate responses.
 >
@@ -574,7 +569,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=204)** Then there's also retrieval-augmented generation, also known as RAG.
 >
-> **[3:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=208)** RAG is a hybrid approach that combines language models with traditional information retrieval techniques.
+> **[3:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=208)** RAG is a hybrid approach that combines language models with traditional [[Information Retrieval]] techniques.
 >
 > **[3:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/training-fine-tuning-and-in-context-learning?u=76281980&t=215)** So this is going to enhance a language model's responses using external data.
 >
@@ -594,19 +589,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), data (4), rag (4), [[Large Language Models (LLM)|Large language models]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Microsoft Word|Word]] (1), [[Information Retrieval]] (1)
 > **Env Vars:** rag (4), llm (1)
 > **Definitions:** refers to (1), known as (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980)
+#### [Prompt engineering](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=0)** - [Presenter] Prompt engineering and in-context learning are related, but distinct concepts.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=0)** - [Presenter] [[Prompt Engineering]] and in-context learning are related, but distinct concepts.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=6)** And in this module, you get a high-level overview of what prompt engineering is.
 >
@@ -636,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=106)** Thus, mastering prompt engineering is essential for anyone looking to leverage LLMs effectively.
 >
-> **[1:55](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=115)** Prompt engineering, which is the process of generating responses from large language models by providing them with specific inputs, has undergone significant advancements since its inception.
+> **[1:55](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=115)** Prompt engineering, which is the process of generating responses from [[Large Language Models (LLM)|large language models]] by providing them with specific inputs, has undergone significant advancements since its inception.
 >
 > **[2:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=127)** Initially, the main focus of prompt engineering was on formulating the right questions to extract the desired answers from a model.
 >
@@ -670,7 +664,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=245)** By providing examples paired with a rationale, LLMs can generate a rationale along with their answers, enhancing their reasoning performance.
 >
-> **[4:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=256)** LLMs can also be integrated with external databases to reduce errors and enhance the accuracy of responses.
+> **[4:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=256)** LLMs can also be integrated with external [[Databases]] to reduce errors and enhance the accuracy of responses.
 >
 > **[4:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=264)** This gives them a richer context and ensures that their information is relevant and accurate.
 >
@@ -686,13 +680,13 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=310)** As LLMs grow in complexity and capability, prompt engineering becomes even more critical.
 >
-> **[5:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=317)** LangChain, with this forward-thinking approach, an extensive toolkit, is poised to lead this change.
+> **[5:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=317)** [[LangChain]], with this forward-thinking approach, an extensive toolkit, is poised to lead this change.
 >
 > **[5:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-engineering?u=76281980&t=324)** By simplifying the development process and fostering a collaborative ecosystem, LangChain is shaping the future of prompt engineering and redefining how we interact with AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (15), prompt (6), llm (4), [[Large Language Models (LLM)|Large language models]] (4), ai (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (15), [[Large Language Models (LLM)|Large language models]] (4), [[LangChain]] (2), [[Databases]] (1)
 > **Env Vars:** llm (4), gpt (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -703,16 +697,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is LangChain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
+#### [What is LangChain?](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=0)** - [Instructor] Understanding and generating human-like text is a remarkable achievement, made possible by large language models like ChatGPT and GPT-4.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=0)** - [Instructor] Understanding and generating human-like text is a remarkable achievement, made possible by [[Large Language Models (LLM)|large language models]] like [[ChatGPT]] and [[GPT-4]].
 >
 > **[0:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=11)** These models offer many possibilities, from creating human-like text to understanding complex queries, and revolutionizing our interaction with machines.
 >
-> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=22)** However, utilizing these models in practical applications can be challenging, which is where LangChain comes in.
+> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=22)** However, utilizing these models in practical applications can be challenging, which is where [[LangChain]] comes in.
 >
 > **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=29)** It's a solid framework that's essential to harness the potential of these powerful tools.
 >
@@ -724,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=51)** Context can be prompt instructions, few short examples, or content to ground its response in.
 >
-> **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=59)** Whether you're integrating with a database, a cloud storage solution, or online repository, LangChain ensures the context is accessible and ready for processing.
+> **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=59)** Whether you're integrating with a database, a [[Cloud Storage]] solution, or online repository, LangChain ensures the context is accessible and ready for processing.
 >
 > **[1:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=70)** It also enables applications that are able to reason, meaning applications are relying on a large language model to reason about how to answer based on provided context, what actions to take, et cetera.
 >
@@ -734,11 +727,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=100)** The LangChain library consists of several packages including the core libraries, LangChain templates, LangServe, and LangSmith.
 >
-> **[1:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=110)** These products work together to make an entire application lifecycle simple and efficient.
+> **[1:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=110)** These [[Microsoft Products|products]] work together to make an entire application lifecycle simple and efficient.
 >
-> **[1:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=117)** In this course, we're going to focus on the LangChain Python library which offers composable tools and integrations for working with large language models.
+> **[1:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=117)** In this course, we're going to focus on the LangChain [[Python (Programming Language)|Python]] library which offers composable tools and integrations for working with large language models.
 >
-> **[2:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=126)** These components are modular and easy to use, whether you're using the rest of the LangChain framework or not.
+> **[2:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=126)** These components are modular and easy to use, whether you're using the [[Representational State Transfer (REST)|rest]] of the LangChain framework or not.
 >
 > **[2:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=134)** Additionally, built-in assemblages of components called Off-the-Shelf chains, allow you to easily accomplish higher level tasks.
 >
@@ -772,24 +765,23 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=256)** By simplifying the integration of LLMs into real-world applications, LangChain is paving the way for a future where our interactions with machines are more natural, intuitive, and productive.
 >
-> **[4:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=269)** As we stand at the cusp of a new era in human-machine interaction, LangChain and prompt engineering will undoubtedly play pivotal roles.
+> **[4:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=269)** As we stand at the cusp of a new era in human-machine interaction, LangChain and [[Prompt Engineering]] will undoubtedly play pivotal roles.
 >
 > **[4:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980&t=279)** For developers, businesses and curious minds, now is the time to dive deep into the fascinating world and framework of LangChain and really unlock the potential of large language models for your business and for your customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (22), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), [[Microsoft Products|Products]] (2), application (2)
+> **Frameworks & Libraries:** [[LangChain]] (22), [[Large Language Models (LLM)|Large language models]] (5), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[ChatGPT]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (4), python (1)
 > **Env Vars:** api (2), gpt (1), rest (1), llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### LangChain overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980)
+#### [LangChain overview](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=0)** - LangChain has several core modules.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=0)** - [[LangChain]] has several core modules.
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=3)** A module in LangChain is a reusable component that provides specific functionality for building AI systems.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=140)** It offers features such as basic retrieval and advanced techniques like retrieval augmented generation.
 >
-> **[2:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=147)** So this is a module that contains all the document loaders, transformers, text embeddings, vector stores, and retrievers that are all there to help you fetch relevant documents and improve the accuracy of generated answers.
+> **[2:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=147)** So this is a module that contains all the document loaders, transformers, text embeddings, vector stores, and retrievers that are all there to help you [[Fetch]] relevant documents and improve the accuracy of generated answers.
 >
 > **[2:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=163)** You can use a large language model in isolation for simple applications, however, chaining LLMs together with other components is a better solution for more complex applications.
 >
@@ -851,7 +843,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=202)** That way you can build more complex chains by combining multiple chains or chains with other components.
 >
-> **[3:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=210)** Agents module enables the creation of AI agents that can converse naturally and perform real-world actions using tools.
+> **[3:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=210)** Agents module enables the creation of [[AI Agents]] that can converse naturally and perform real-world actions using tools.
 >
 > **[3:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=218)** The module manages conversation flow, tool integration, and memory, and combines language model capabilities with executable tools.
 >
@@ -873,11 +865,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=278)** These modules collectively provide a powerful toolkit for building intelligent, context-aware applications.
 >
-> **[4:45](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=285)** And in the rest of this section, we are going to jump right into code and start seeing all of this in action.
+> **[4:45](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langchain-overview?u=76281980&t=285)** And in the [[Representational State Transfer (REST)|rest]] of this section, we are going to jump right into code and start seeing all of this in action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (9), prompt (4), application (3), llm (3), ai (2)
+> **Frameworks & Libraries:** [[LangChain]] (9), [[Fetch]] (1), [[AI Agents]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (3), api (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), such as (1), for instance (1)
@@ -885,15 +877,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - langchain (1)
 
-#### Model I/O: Interface with language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/model-i-o-interface-with-language-models?u=76281980)
+#### [Model I/O: Interface with language models](https://www.linkedin.com/learning/prompt-engineering-with-langchain/model-i-o-interface-with-language-models?u=76281980)
 
-#### Retrieval: Interface with application-specific data
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980)
+#### [Retrieval: Interface with application-specific data](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=0)** - [Instructor] Now that we know how to send data to a language model and parse that data, let's talk about another core component of LangChain.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=0)** - [Instructor] Now that we know how to send data to a language model and parse that data, let's talk about another core component of [[LangChain]].
 >
 > **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=10)** This component is called retrieval.
 >
@@ -903,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=24)** The document that we're downloading is the golden_hymns_of_epictetus.
 >
-> **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=28)** We're going to go ahead and just parse this text file to a Python object.
+> **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=28)** We're going to go ahead and just parse this text file to a [[Python (Programming Language)|Python]] object.
 >
 > **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=34)** That's pretty much all we're doing.
 >
@@ -911,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=38)** And you can see here that this is a document of 23,500 words.
 >
-> **[0:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=44)** So real quick, I want to give you a high-level overview of this task called retrieval-augmented generation.
+> **[0:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=44)** So real quick, I want to give you a high-level overview of this task called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[0:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=52)** So language models are trained on kind of a fixed dataset, right?
 >
@@ -957,9 +947,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=156)** So document loaders and LangChain are used to load data from various sources into what's called a LangChain document object.
 >
-> **[2:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=164)** A document is essentially a just a piece of text with some associated metadata.
+> **[2:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=164)** A document is essentially a just a piece of text with some associated [[Metadata]].
 >
-> **[2:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=168)** And document loaders give us a convenient way to fetch data from these sources, which could be text files, web pages, video transcripts, database.
+> **[2:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=168)** And document loaders give us a convenient way to [[Fetch]] data from these sources, which could be text files, web pages, video transcripts, database.
 >
 > **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=177)** It could be a wide number of things.
 >
@@ -1005,7 +995,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=289)** So a high-level overview of splitting, how it works is we are going to select the best separator to divide the text, and then it's going to continue to split any oversized chunks recursively.
 >
-> **[5:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=305)** We're going to look at the character count or tokens to size up those chunks.
+> **[5:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=305)** We're going to look at the character count or [[Tokens]] to size up those chunks.
 >
 > **[5:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=309)** Then we're going to allow for some overlap between chunks for some contextual continuity.
 >
@@ -1031,7 +1021,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=359)** We can see here, are these only the works of Providence within us?
 >
-> **[6:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=363)** What word suffice, so on and so forth.
+> **[6:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=363)** What [[Microsoft Word|word]] suffice, so on and so forth.
 >
 > **[6:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=365)** And so these are what these text chunks look like.
 >
@@ -1073,7 +1063,7 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=464)** For this course, that's all we're going to use is in-memory vector stores.
 >
-> **[7:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=468)** We're not going to use anything fancy like Weaviate or Pinecone or anything like that.
+> **[7:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=468)** We're not going to use anything fancy like [[Weaviate]] or [[Pinecone]] or anything like that.
 >
 > **[7:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=471)** I'm mostly going to stick to FAISS.
 >
@@ -1141,7 +1131,7 @@ created: 2026-05-02
 >
 > **[10:47](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=647)** Instantiate our large language model.
 >
-> **[10:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=649)** Just use gpt-4 in this case with the temperature of zero.
+> **[10:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=649)** Just use [[GPT-4]] in this case with the temperature of zero.
 >
 > **[10:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=652)** And then we're going to set up a RetrievalQA chain.
 >
@@ -1201,7 +1191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (19), data (16), prompt (12), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[LangChain]] (19), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Metadata]] (1)
 > **Code Identifiers:** similarity_search (3), length_function (2), golden_hymns_of_epictetus (1), chunk_size (1), max_marginal_relevant_search (1)
 > **CLI Commands:** make (4), python (3), snap (1)
 > **Exercise Files:** template (6)
@@ -1210,12 +1200,11 @@ created: 2026-05-02
 > **Analogies:** for example (2), similar to (1)
 > **Documentation:** the documentation (2)
 
-#### Chains: Construct sequences of calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980)
+#### [Chains: Construct sequences of calls](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=0)** - [Instructor] Let's talk about chains in LangChain.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=0)** - [Instructor] Let's talk about chains in [[LangChain]].
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=4)** So in one sentence, a chain is just an end-to-end wrapper around multiple individual components which are executed in some defined order.
 >
@@ -1247,7 +1236,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=95)** So let's start now with a LLMChain, right?
 >
-> **[1:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=99)** So now we know that we have the brand new GPT-4 model available to us.
+> **[1:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=99)** So now we know that we have the brand new [[GPT-4]] model available to us.
 >
 > **[1:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=103)** Let's go ahead and use that.
 >
@@ -1331,7 +1320,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=328)** We've got our song about wasabi flavored saki.
 >
-> **[5:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=333)** Now, let's go ahead and talk about routing in LangChain.
+> **[5:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=333)** Now, let's go ahead and talk about [[Routing]] in LangChain.
 >
 > **[5:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=337)** All right, so let's talk about routing in LangChain.
 >
@@ -1429,7 +1418,7 @@ created: 2026-05-02
 >
 > **[9:53](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=593)** So sometimes you might want a series of calls to a language model, and you might want to take the output from one call and use it as the input to another call.
 >
-> **[10:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=600)** So a sequential chain is going to allow you to connect multiple chains and compose them into pipelines that execute some specific scenario.
+> **[10:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=600)** So a sequential chain is going to allow you to connect multiple chains and [[Jetpack Compose|compose]] them into pipelines that execute some specific scenario.
 >
 > **[10:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chains-construct-sequences-of-calls?u=76281980&t=610)** So we're going to go ahead and see that in action here.
 >
@@ -1551,7 +1540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (26), [[LangChain]] (14), next (5), [[Routing]] (4), api (1)
+> **Frameworks & Libraries:** [[LangChain]] (14), [[Routing]] (4), [[GPT-4]] (1), [[Jetpack Compose|Compose]] (1)
 > **Exercise Files:** template (11)
 > **Code Identifiers:** prompt_template_one (2), literature_template (1), history_template (1), biology_template (1), philosophy_template (1)
 > **Env Vars:** gpt (2), api (1), llm (1)
@@ -1560,12 +1549,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Agents: Let chains choose tools based on high-level directives
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980)
+#### [Agents: Let chains choose tools based on high-level directives](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=0)** - [Instructor] Agents in LangChain are systems that use a language model to interact with tools.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=0)** - [Instructor] Agents in [[LangChain]] are systems that use a language model to interact with tools.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=6)** they could be used for tasks such as grounded question answering, interacting with APIs, or taking action.
 >
@@ -1667,7 +1655,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=292)** We're going to initialize the agent, we give it the tools, we give it the LLM.
 >
-> **[4:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=296)** And this agent right here, what we pass here is zero-shot-react-description, this is essentially the agent type.
+> **[4:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=296)** And this agent right here, what we pass here is zero-shot-[[React.js|react]]-description, this is essentially the agent type.
 >
 > **[5:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/agents-let-chains-choose-tools-based-on-high-level-directives?u=76281980&t=304)** And again, remember, it's nothing more than a prompt.
 >
@@ -1799,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (9), prompt (9), [[Search]] (7), llm (4), data (2)
+> **Frameworks & Libraries:** [[LangChain]] (9), [[React.js|React]] (1)
 > **Env Vars:** llm (4), api (2), ddg (1)
 > **CLI Commands:** make (2), find (2)
 > **Versions:** v0.2 (4)
@@ -1808,8 +1796,7 @@ created: 2026-05-02
 > **Code Identifiers:** chat_history (1), create_openai_functions_agent (1)
 > **Analogies:** such as (2)
 
-#### Memory: Persist application state between runs of a chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980)
+#### [Memory: Persist application state between runs of a chain](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1806,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=13)** You need a way to ensure your system doesn't pull a Dory.
 >
-> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=17)** Luckily, LangChain has a memory module that will help you out.
+> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=17)** Luckily, [[LangChain]] has a memory module that will help you out.
 >
 > **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=21)** So what is memory in LangChain?
 >
@@ -1859,7 +1846,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=124)** I'm going to show you right up front how to use memory with LangChain expression language.
 >
-> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=130)** And then the rest of the notebook, we're just going to use the legacy chain interface, but you should be able to abstract away quite easily.
+> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=130)** And then the [[Representational State Transfer (REST)|rest]] of the notebook, we're just going to use the legacy chain interface, but you should be able to abstract away quite easily.
 >
 > **[2:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=137)** So here we're just setting up the system message.
 >
@@ -1961,7 +1948,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=397)** This memory type is designed to keep track of all interactions that happened during a conversation, and it could be useful to only use the most recent ones.
 >
-> **[6:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=406)** So you would need to use conversation summary memory when you just want a concise representation of the conversation's history without using too many tokens.
+> **[6:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=406)** So you would need to use conversation summary memory when you just want a concise representation of the conversation's history without using too many [[Tokens]].
 >
 > **[6:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/memory-persist-application-state-between-runs-of-a-chain?u=76281980&t=416)** This is going to allow the model to understand the overall context and key points of the conversation, while not flooding the context window with excessive details.
 >
@@ -1995,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (7), prompt (7), next (3), llm (2), data (1)
+> **Frameworks & Libraries:** [[LangChain]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** llm (2)
@@ -2009,8 +1996,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
+#### [Prompt basics](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,7 +2046,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=95)** This is just extra background information that's going to refine the model's answer.
 >
-> **[1:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=99)** This can be inserted manually, or sourced from databases or APIs.
+> **[1:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=99)** This can be inserted manually, or sourced from [[Databases]] or APIs.
 >
 > **[1:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=104)** Three is input data.
 >
@@ -2082,18 +2068,17 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=132)** This ensures that the model will hone in on the task instead of just expanding on the background.
 >
-> **[2:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=138)** As you refine the art of prompt engineering, the guidelines I just presented are going to give you a reliable starting point for designing effective prompts.
+> **[2:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980&t=138)** As you refine the art of [[Prompt Engineering]], the guidelines I just presented are going to give you a reliable starting point for designing effective prompts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), llm (1), [[Databases]] (1), data (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Prompt Engineering]] (1)
 > **Definitions:** means that (2), essentially is (1), is a  (1), refers to (1)
 > **Env Vars:** llm (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles and tactics for prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980)
+#### [Principles and tactics for prompting](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,7 +2116,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=78)** After we instantiate our text to summarize and the template, you'll notice that I'm going to be constructing a prompt template.
 >
-> **[1:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=85)** When constructing this prompt template, you'll notice that I'm adding these tokens here.
+> **[1:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=85)** When constructing this prompt template, you'll notice that I'm adding these [[Tokens]] here.
 >
 > **[1:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=90)** The prefix and suffix tokens, these are special tokens that the model is going to use to know when the instruction starts and ends.
 >
@@ -2151,7 +2136,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=150)** So it's important that you define the format you need upfront.
 >
-> **[2:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=153)** If you're looking for data that could be easily parsed, then request outputs and formats like JSON or XML.
+> **[2:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=153)** If you're looking for data that could be easily parsed, then request outputs and formats like [[JSON]] or XML.
 >
 > **[2:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=159)** This is going to ensure that you get your output in a structured and organized manner.
 >
@@ -2243,7 +2228,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=395)** This is from a smaller model, it's a 7 billion parameter model.
 >
-> **[6:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=399)** But if you were past this prompt to GPT-4, it would do a excellent job at solving that question.
+> **[6:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=399)** But if you were past this prompt to [[GPT-4]], it would do a excellent job at solving that question.
 >
 > **[6:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/principles-and-tactics-for-prompting?u=76281980&t=406)** Finally, I want to talk about the importance of balancing context and clarity.
 >
@@ -2275,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), [[Tokens]] (4), next (3), llm (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[JSON]] (3), [[GPT-4]] (2)
 > **Env Vars:** json (3), api (2), llm (2), gpt (2), xml (1)
 > **Exercise Files:** template (7)
 > **CLI Commands:** find (3), make (1)
@@ -2289,12 +2274,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
+#### [Introduction to prompt templates](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=0)** - [Instructor] Prompt templates are a core concept and object in langchain.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=0)** - [Instructor] Prompt templates are a core concept and object in [[LangChain]].
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=5)** Before we get into prompt templates, just refresh your memory on the structure of a prompt.
 >
@@ -2406,7 +2390,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=294)** Awesome.
 >
-> **[4:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=296)** So you could use Python string manipulation to create a prompt, but prompt template is more legible and it works with any number of input variables.
+> **[4:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=296)** So you could use [[Python (Programming Language)|Python]] string manipulation to create a prompt, but prompt template is more legible and it works with any number of input variables.
 >
 > **[5:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980&t=307)** So here what we're going to do now is define a function.
 >
@@ -2436,7 +2420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (33), [[LangChain]] (4), llm (4), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[LangChain]] (4), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** template (34)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1), python (1)
@@ -2445,8 +2429,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-input prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/multi-input-prompt-templates?u=76281980)
+#### [Multi-input prompt templates](https://www.linkedin.com/learning/prompt-engineering-with-langchain/multi-input-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), llm (4), next (1)
 > **Exercise Files:** template (9)
 > **Env Vars:** llm (4)
 > **Code Identifiers:** from_template (1), llm_chain (1)
@@ -2568,8 +2550,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
-#### Chat prompt template
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980)
+#### [Chat prompt template](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,7 +2592,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980&t=127)** So the template itself has a attribute called messages and you can look at the message and this is what I was talking about when I said instance of a message prompt template.
 >
-> **[2:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980&t=138)** So when we initialize the chat prompt template like we did here using the tuples under the hood LangChain will go ahead and automatically convert it into the appropriate message prompt template.
+> **[2:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980&t=138)** So when we initialize the chat prompt template like we did here using the tuples under the hood [[LangChain]] will go ahead and automatically convert it into the appropriate message prompt template.
 >
 > **[2:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-template?u=76281980&t=153)** So in this case, I've got the system human and AI message prompt templates.
 >
@@ -2673,7 +2654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (24), ai (4), llm (4), [[LangChain]] (2), next (2)
+> **Frameworks & Libraries:** [[LangChain]] (2)
 > **Exercise Files:** template (18)
 > **Definitions:** is a  (7)
 > **Env Vars:** llm (4), api (1), gpt (1)
@@ -2682,18 +2663,17 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1)
 > **Analogies:** for example (1)
 
-#### Serializing prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980)
+#### [Serializing prompts](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=0)** - [Instructor] Serializing prompts in LangChain allows you to efficiently store and share your prompts.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=0)** - [Instructor] Serializing prompts in [[LangChain]] allows you to efficiently store and share your prompts.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=6)** So instead of relying solely on Python code, you can actually save prompts as files.
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=6)** So instead of relying solely on [[Python (Programming Language)|Python]] code, you can actually save prompts as files.
 >
 > **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=12)** This makes it much easier to version and distribute your prompts.
 >
-> **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=18)** Some key features of prompt serialization in LangChain is that it supports both the JSON and YAML formats.
+> **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=18)** Some key features of prompt serialization in LangChain is that it supports both the [[JSON]] and YAML formats.
 >
 > **[0:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/serializing-prompts?u=76281980&t=25)** These are human readable formats and they're popular and ideal for serialization.
 >
@@ -2749,19 +2729,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), [[LangChain]] (9), [[JSON]] (4), [[Python (Programming Language)|Python]] (1), management (1)
+> **Frameworks & Libraries:** [[LangChain]] (9), [[JSON]] (4), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** json (4), yaml (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zero-shot prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980)
+#### [Zero-shot prompts](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=0)** - [Instructor] Because large language models were trained on such a vast amount of data, they possess a surprising feature.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=0)** - [Instructor] Because [[Large Language Models (LLM)|large language models]] were trained on such a vast amount of data, they possess a surprising feature.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=8)** And that feature is the ability to do what's called zero shot learning.
 >
@@ -2821,7 +2800,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=191)** So this could spot and categorize names, places, companies, and more.
 >
-> **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=197)** It's great to quickly understand who, what and where without really reading every single word.
+> **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=197)** It's great to quickly understand who, what and where without really reading every single [[Microsoft Word|word]].
 >
 > **[3:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/zero-shot-prompts?u=76281980&t=203)** And this is great for sorting through documents to find the most important bits.
 >
@@ -2861,7 +2840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), data (3), ai (3), [[Large Language Models (LLM)|Large language models]] (2), feature (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (7)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** find (2)
@@ -2869,12 +2848,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980)
+#### [Custom prompt templates](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=0)** - [Instructor] Custom prompt templates in LangChain allow you to dynamically generate prompts tailored to your specific needs.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=0)** - [Instructor] Custom prompt templates in [[LangChain]] allow you to dynamically generate prompts tailored to your specific needs.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=8)** You might need a custom prompt template if you want to include unique instructions, examples, or context for your model, if you want to dynamically insert task-specific information into the prompt, or if you simply want full control over the prompt structure and formatting.
 >
@@ -2898,7 +2876,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=84)** So we're going to create a FunctionExplainerPromptTemplate.
 >
-> **[1:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=87)** And this class is going to be designed to take a function's name as a input, fetch its source code, and then format that into a prompt.
+> **[1:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=87)** And this class is going to be designed to take a function's name as a input, [[Fetch]] its source code, and then format that into a prompt.
 >
 > **[1:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/custom-prompt-templates?u=76281980&t=96)** So this class is a custom template that's going to take a function.
 >
@@ -3042,7 +3020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (30), llm (5), [[LangChain]] (3), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Fetch]] (1)
 > **Exercise Files:** template (16), source code (9)
 > **Code Identifiers:** get_source_code (4), algorithm_function (2), fn_explainer (1), function_name (1), prompt_type (1)
 > **Env Vars:** llm (5)
@@ -3050,8 +3028,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt pipelining
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980)
+#### [Prompt pipelining](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,7 +3046,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980&t=41)** You can also mix static text with templates that contain variables so that static text can provide structure while the templates can inject dynamic content.
 >
-> **[0:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980&t=52)** You could also compose chat prompts from message templates and static messages.
+> **[0:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980&t=52)** You could also [[Jetpack Compose|compose]] chat prompts from message templates and static messages.
 >
 > **[0:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-pipelining?u=76281980&t=57)** Each piece can get appended as a new message.
 >
@@ -3169,14 +3146,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (37), [[Jetpack Compose|Compose]] (1), parallel (1), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Exercise Files:** template (8)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chat prompt pipelining
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980)
+#### [Chat prompt pipelining](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3186,7 +3162,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980&t=7)** Recall that a chat prompt is made up of a list of messages.
 >
-> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980&t=10)** And for developer experience, LangChain has added a convenient way to create these prompts.
+> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980&t=10)** And for developer experience, [[LangChain]] has added a convenient way to create these prompts.
 >
 > **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chat-prompt-pipelining?u=76281980&t=17)** In pipelines, each new element is going to be a new message in the final prompt.
 >
@@ -3264,7 +3240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (19), [[LangChain]] (3), ai (3), llm (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (3)
 > **Cross-References:** previous video (1), in the next (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -3273,8 +3249,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Prompt composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-composition?u=76281980)
+#### [Prompt composition](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3376,23 +3351,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (29)
 > **Exercise Files:** template (10)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Few-shot prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980)
+#### [Few-shot prompt templates](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=0)** - [Instructor] Earlier in the course, we talked about the ability of large language models to perform tasks with zero-shot prompting, meaning they've never seen this example before and they weren't specifically trained on that task.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=0)** - [Instructor] Earlier in the course, we talked about the ability of [[Large Language Models (LLM)|large language models]] to perform tasks with zero-shot prompting, meaning they've never seen this example before and they weren't specifically trained on that task.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=13)** There's also a emergent ability in large language models called few-shot learning.
 >
 > **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=20)** So few-shot learning is just a form of in-context learning where in the prompt you're providing a few examples to help the language model perform on the tasks that you want it to.
 >
-> **[0:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=31)** LangChain offers a FewShotPromptTemplate that's going to allow you to provide a few examples to prime the model before your main prompt.
+> **[0:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=31)** [[LangChain]] offers a FewShotPromptTemplate that's going to allow you to provide a few examples to prime the model before your main prompt.
 >
 > **[0:41](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=41)** This is useful for providing relevant context and, quote, unquote, warming up the model on your task.
 >
@@ -3472,7 +3445,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=304)** And I'm going to do that using a dataset.
 >
-> **[5:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=306)** And the dataset we're going to be using here is from Hugging Face.
+> **[5:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=306)** And the dataset we're going to be using here is from [[Hugging Face]].
 >
 > **[5:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=309)** It's the intent classification dataset.
 >
@@ -3484,7 +3457,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=326)** So now I'm going to define a function, and this function is going to generate a prefix string for the prompt, and it's going to help guide the language model in the intent classification.
 >
-> **[5:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=336)** So it's going to take a dataset, which in this case is going to be a list of dictionaries or a Pandas DataFrame needs to have the text and the intent columns, and it's going to return a formatted string.
+> **[5:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=336)** So it's going to take a dataset, which in this case is going to be a list of dictionaries or a [[Pandas (Software)|Pandas]] DataFrame needs to have the text and the intent columns, and it's going to return a formatted string.
 >
 > **[5:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=348)** So let's go ahead and see what that looks like here.
 >
@@ -3524,7 +3497,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=433)** Obviously, I made a spelling error there.
 >
-> **[7:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=436)** You can go ahead and remove that belongs, but GPT-4 will be smart enough to know what I meant.
+> **[7:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=436)** You can go ahead and remove that belongs, but [[GPT-4]] will be smart enough to know what I meant.
 >
 > **[7:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates?u=76281980&t=441)** So each input is associated with a user intent.
 >
@@ -3548,7 +3521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (20), [[Large Language Models (LLM)|Large language models]] (2), [[LangChain]] (2), generic (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[LangChain]] (2), [[Hugging Face]] (1), [[Pandas (Software)|Pandas]] (1), [[GPT-4]] (1)
 > **Cross-References:** earlier in (1), we talked about (1), in the next (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2)
@@ -3557,8 +3530,7 @@ created: 2026-05-02
 > **Versions:** 0.1 (1)
 > **Analogies:** for example (1)
 
-#### Few-shot prompt templates for chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates-for-chat?u=76281980)
+#### [Few-shot prompt templates for chat](https://www.linkedin.com/learning/prompt-engineering-with-langchain/few-shot-prompt-templates-for-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3662,18 +3634,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), ai (5), power (2)
 > **Exercise Files:** template (5)
 > **Env Vars:** gpt (3)
 > **Versions:** 3.5 (3)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to example selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-example-selectors?u=76281980)
+#### [Introduction to example selectors](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-example-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-example-selectors?u=76281980&t=0)** - [Instructor] Example selectors in LangChain are classes that are responsible for selecting which examples to include in a prompt.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-example-selectors?u=76281980&t=0)** - [Instructor] Example selectors in [[LangChain]] are classes that are responsible for selecting which examples to include in a prompt.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-example-selectors?u=76281980&t=8)** They're useful when you have a large number of examples available, but need to select a subset of them to include in your prompt.
 >
@@ -3725,14 +3695,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[LangChain]] (2), generic (1)
+> **Frameworks & Libraries:** [[LangChain]] (2)
 > **Code Identifiers:** select_examples (3), add_example (1), select_example (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Length-based example selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/length-based-example-selector?u=76281980)
+#### [Length-based example selector](https://www.linkedin.com/learning/prompt-engineering-with-langchain/length-based-example-selector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3800,18 +3769,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14)
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Max marginal relevance example selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980)
+#### [Max marginal relevance example selector](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=0)** - [Instructor] Maximal marginal relevance, or MMR, is a technique often used in information retrieval to balance between the relevance of documents, or examples in this case, and the diversity among them.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=0)** - [Instructor] Maximal marginal relevance, or MMR, is a technique often used in [[Information Retrieval]] to balance between the relevance of documents, or examples in this case, and the diversity among them.
 >
 > **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=17)** The idea is to avoid redundancy in the selected set of documents or examples while ensuring that they're still relevant to the query.
 >
@@ -3843,7 +3810,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=109)** This process will continue until a stopping criteria is met, such as a predefined number of examples or until the MMR score falls below some threshold.
 >
-> **[2:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=121)** In LangChain, the MMR is implemented in the MaxMarginalRelevanceExampleSelector.
+> **[2:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=121)** In [[LangChain]], the MMR is implemented in the MaxMarginalRelevanceExampleSelector.
 >
 > **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=130)** And we can take a look at the examples that we have here in the example prompt.
 >
@@ -3863,7 +3830,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=203)** And then two other parameters for k and fetch_k.
 >
-> **[3:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=207)** Fetch_k is the number of examples to initially fetch before re-ranking them using the MMR algorithm.
+> **[3:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=207)** Fetch_k is the number of examples to initially [[Fetch]] before re-ranking them using the MMR algorithm.
 >
 > **[3:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/max-marginal-relevance-example-selector?u=76281980&t=214)** And k is the number of actual examples that we want to include in the prompt.
 >
@@ -3891,7 +3858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[LangChain]] (2), next (2), [[Information Retrieval]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Information Retrieval]] (1), [[Fetch]] (1)
 > **Env Vars:** mmr (13)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** example_selector (2), from_examples (1)
@@ -3900,8 +3867,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 
-#### N-gram overlap example selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/n-gram-overlap-example-selector?u=76281980)
+#### [N-gram overlap example selector](https://www.linkedin.com/learning/prompt-engineering-with-langchain/n-gram-overlap-example-selector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4001,7 +3967,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9)
 > **Versions:** 1.0 (3), 0.0 (1), 0.25 (1)
 > **UI Navigation:** toggle (1), select the (1)
 > **Exercise Files:** template (2)
@@ -4009,9 +3974,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Semantic similarity example selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/semantic-similarity-example-selector?u=76281980)
+#### [Semantic similarity example selector](https://www.linkedin.com/learning/prompt-engineering-with-langchain/semantic-similarity-example-selector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4069,19 +4034,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partial prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980)
+#### [Partial prompt templates](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=0)** - [Instructor] Partial prompt templates in LangChain offer a flexible way to work with prompt templates by allowing users to predefine a subset of required values.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=0)** - [Instructor] Partial prompt templates in [[LangChain]] offer a flexible way to work with prompt templates by allowing users to predefine a subset of required values.
 >
 > **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=12)** This is especially beneficial when some values are known beforehand.
 >
@@ -4133,9 +4096,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=165)** Hello Alice, hope you're enjoying your time at the Wonderland Resort chasing our white rabbits.
 >
-> **[2:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=172)** Using functions in partial prompt templates gives you a dynamic way to incorporate real-time data into your prompts.
+> **[2:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=172)** Using functions in partial prompt templates gives you a dynamic way to incorporate [[Real-Time]] data into your prompts.
 >
-> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=179)** This approach shines when you need to consistently fetch and update certain variables.
+> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=179)** This approach shines when you need to consistently [[Fetch]] and update certain variables.
 >
 > **[3:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/partial-prompt-templates?u=76281980&t=185)** A good example is when you're integrating real-time conditions like the current weather.
 >
@@ -4159,7 +4122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), [[LangChain]] (2), [[Real-Time]] (2), [[Fetch]] (2), next (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Real-Time]] (2), [[Fetch]] (2)
 > **Exercise Files:** template (11)
 > **Analogies:** such as (1), for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -4169,20 +4132,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chain of thought
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
+#### [Chain of thought](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=0)** - [Instructor] Before we get into chain-of-thought prompting, I just want to point out that for this notebook, you'll notice that we're using a T4 GPU.
 >
-> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=8)** This is a GPU that is available to you on the free tier of Google Colab.
+> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=8)** This is a GPU that is available to you on the free tier of [[Google]] Colab.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=13)** And we're using the T4, because we're going to make use of a embeddings model to embed a data set, and you'll see when we do that further along in this notebook.
 >
 > **[0:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=24)** But for now, let's go ahead and jump into chain-of-thought prompting.
 >
-> **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=28)** So chain-of-thought prompting was introduced by Wei et al. in a 2022 paper called, "Chain-of-Thought Prompting Elicits Reasoning "in Large Language Models."
+> **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=28)** So chain-of-thought prompting was introduced by Wei et al. in a 2022 paper called, "Chain-of-Thought Prompting Elicits Reasoning "in [[Large Language Models (LLM)|Large Language Models]]."
 >
 > **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=39)** Chain-of-thought prompting emerged from the need to enhance the reasoning capabilities of large language models when faced with complex tasks.
 >
@@ -4236,7 +4198,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=193)** So, here's what we're going to do.
 >
-> **[3:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=194)** We're going to download this data set from Hugging Face.
+> **[3:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=194)** We're going to download this data set from [[Hugging Face]].
 >
 > **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980&t=197)** This is a few chain-of-though collection data set.
 >
@@ -4334,7 +4296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), data (5), llm (3), [[Large Language Models (LLM)|Large language models]] (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Hugging Face]] (2), [[Google]] (1)
 > **Env Vars:** llm (3), gpu (2), nasa (1), bge (1), mmr (1)
 > **Definitions:** is a  (3)
 > **Versions:** 1.8 (1), 0.0 (1)
@@ -4343,12 +4305,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)
 
-#### Self-consistency
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980)
+#### [Self-consistency](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=0)** - [Instructor] Self-consistency prompting was introduced in the March 2022 paper, "Self-Consistency Improves Chain of Thought Reasoning in Large Language Models," by Wang, et al.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=0)** - [Instructor] Self-consistency prompting was introduced in the March 2022 paper, "Self-Consistency Improves Chain of Thought Reasoning in [[Large Language Models (LLM)|Large Language Models]]," by Wang, et al.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=13)** So what is self-consistency prompting?
 >
@@ -4414,7 +4375,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=205)** So first thing we need to do is follow the same pattern from the chain of thought lessons.
 >
-> **[3:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=210)** We're going to download the chain of thought prompt dataset from Hugging Face, download the embedding model from Hugging Face, create a prompt template for a chain of thought, create the example selector, and then, finally, construct the prompt.
+> **[3:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=210)** We're going to download the chain of thought prompt dataset from [[Hugging Face]], download the embedding model from Hugging Face, create a prompt template for a chain of thought, create the example selector, and then, finally, construct the prompt.
 >
 > **[3:44](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-consistency?u=76281980&t=224)** So that's what we're going to be doing here.
 >
@@ -4476,7 +4437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), llm (3), [[Hugging Face]] (2), [[Large Language Models (LLM)|Large language models]] (1), data (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (3), bge (1), mmr (1), gpt (1)
 > **Exercise Files:** download the (1), template (1)
 > **CLI Commands:** find (1)
@@ -4485,8 +4446,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Self-ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980)
+#### [Self-ask](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4522,9 +4482,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=115)** It's like the model is having an internal dialogue with itself to better understand and answer a question.
 >
-> **[2:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=121)** It breaks down a complex problem into smaller parts, addresses each part and it combines the answers to provide a comprehensive response, I've included a pseudocode implementation from the papers GitHub repo here for you to look at.
+> **[2:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=121)** It breaks down a complex problem into smaller parts, addresses each part and it combines the answers to provide a comprehensive response, I've included a pseudocode implementation from the papers [[GitHub]] repo here for you to look at.
 >
-> **[2:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=136)** The Python code that you'll see in this notebook has the main function self_ask, which starts with an initial question.
+> **[2:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=136)** The [[Python (Programming Language)|Python]] code that you'll see in this notebook has the main function self_ask, which starts with an initial question.
 >
 > **[2:24](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=144)** And if the model generates follow-up questions, the system tries to get an answer from an external source.
 >
@@ -4574,7 +4534,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=256)** And then get_answer is going to get an answer for the provided question from an external source, like a search engine.
 >
-> **[4:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=265)** You don't have to worry about implementing this code yourself because LangChain makes Self-Ask easy.
+> **[4:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=265)** You don't have to worry about implementing this code yourself because [[LangChain]] makes Self-Ask easy.
 >
 > **[4:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=271)** So we're going to go ahead and instantiate a large language model and search.
 >
@@ -4594,7 +4554,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=305)** And we're not going to use this exact prompt, but we are going to use this prompt as inspiration.
 >
-> **[5:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=311)** So let me show you the prompt we're actually going to use, we're going to use a prompt that's specific to deep learning type of questions.
+> **[5:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=311)** So let me show you the prompt we're actually going to use, we're going to use a prompt that's specific to [[Deep Learning]] type of questions.
 >
 > **[5:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=318)** So you can see here the examples I've come up with model the prompt template that we pulled from the hub where we have questions, see if there are follow-up questions needed.
 >
@@ -4652,7 +4612,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=476)** So I'm asking it a question called what is the RWKV architecture for LLM?
 >
-> **[8:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=481)** So this is a new architecture is definitely not in GPT-4 training data.
+> **[8:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=481)** So this is a new architecture is definitely not in [[GPT-4]] training data.
 >
 > **[8:04](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=484)** So this is definitely going to be something that the model has to look up.
 >
@@ -4744,13 +4704,13 @@ created: 2026-05-02
 >
 > **[11:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=679)** The reason we're including this in this course is because honestly agents are nothing more than a prompting strategy for language models.
 >
-> **[11:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=687)** So next up we're going to see a few different types of agents, but first we'll see the react agent followed by retrieve augmented generation and more interesting stuff.
+> **[11:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=687)** So next up we're going to see a few different types of agents, but first we'll see the [[React.js|react]] agent followed by retrieve augmented generation and more interesting stuff.
 >
 > **[11:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/self-ask?u=76281980&t=697)** So I'll see you in the next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), llm (13), [[Search]] (8), [[LangChain]] (4), data (2)
+> **Frameworks & Libraries:** [[LangChain]] (4), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1), [[GPT-4]] (1)
 > **Env Vars:** llm (13), rwkv (5), gpt (3), api (1), rlhf (1)
 > **Code Identifiers:** self_ask (1), call_gpt (1), get_last_line (1), extract_questions (1), get_answer (1)
 > **Definitions:** is a  (2), essentially is (1), stands for (1)
@@ -4759,12 +4719,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 
-#### ReAct
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980)
+#### [ReAct](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=0)** - [Instructor] The ReAct prompting framework was introduced in a 2022 paper by researchers at Google called ReAct: Synergizing Reasoning and Acting in Language Models.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=0)** - [Instructor] The [[React.js|ReAct]] prompting framework was introduced in a 2022 paper by researchers at [[Google]] called ReAct: Synergizing Reasoning and Acting in Language Models.
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=14)** ReAct stands for Reasoning and Acting.
 >
@@ -4802,7 +4761,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=134)** So ReAct does both simultaneously, so this is enhancing a model's capabilities.
 >
-> **[2:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=140)** Unlike models that solely rely on internal knowledge, ReAct can actively seek real-time information from external sources.
+> **[2:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=140)** Unlike models that solely rely on internal knowledge, ReAct can actively seek [[Real-Time]] information from external sources.
 >
 > **[2:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=148)** This could potentially reduce hallucinations.
 >
@@ -4810,7 +4769,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=158)** ReAct is an approach in language model prompting that merges internal reasoning with external data retrieval for more informed and reliable decision making.
 >
-> **[2:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=168)** So how do we implement ReAct in LangChain?
+> **[2:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=168)** So how do we implement ReAct in [[LangChain]]?
 >
 > **[2:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=172)** It's implemented as an agent type.
 >
@@ -4842,7 +4801,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=248)** The input variables are going to be the agent scratch pad, input tool's name and tools.
 >
-> **[4:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=254)** We'll go ahead and instantiate GPT-4 as our language model.
+> **[4:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=254)** We'll go ahead and instantiate [[GPT-4]] as our language model.
 >
 > **[4:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=258)** We're going to use the preferred way now, the new preferred way to create a ReAct agent, that's just creating it explicitly like so.
 >
@@ -4874,7 +4833,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=322)** There are a ton of tools that you can use.
 >
-> **[5:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=325)** You can always just go to GitHub, go to the source code, it's what I always recommend.
+> **[5:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=325)** You can always just go to [[GitHub]], go to the source code, it's what I always recommend.
 >
 > **[5:31](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=331)** Click on libs and you'll see LangChain community
 >
@@ -4896,7 +4855,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=375)** Again, remember, this is an agent, and an agent does nothing more than a prompting strategy.
 >
-> **[6:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=379)** I know it sounds science fiction-ish to use the word agent, but really that's all an agent is.
+> **[6:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=379)** I know it sounds science fiction-ish to use the [[Microsoft Word|word]] agent, but really that's all an agent is.
 >
 > **[6:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/react?u=76281980&t=385)** I do also encourage you to look into the source code to actually see what's happening under the hood of an agent.
 >
@@ -4914,7 +4873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (18), [[LangChain]] (9), [[Search]] (9), data (2), prompt (2)
+> **Frameworks & Libraries:** [[React.js|React]] (18), [[LangChain]] (9), [[GitHub]] (2), [[Google]] (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Exercise Files:** source code (4), template (1)
 > **Definitions:** is an  (2), stands for (1)
@@ -4923,16 +4882,15 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Documentation:** the documentation (1)
 
-#### RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980)
+#### [RAG](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=0)** - [Instructor] Retrieval Augmented Generation or RAG for short is a technique that's designed to enhance the capabilities of large language models by allowing them access to external knowledge sources.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=0)** - [Instructor] Retrieval Augmented Generation or RAG for short is a technique that's designed to enhance the capabilities of [[Large Language Models (LLM)|large language models]] by allowing them access to external knowledge sources.
 >
-> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=13)** This was a technique that was introduced by Meta AI in September of 2020 and emphasized the potential for language models to excel in knowledge intensive tasks.
+> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=13)** This was a technique that was introduced by Meta AI in September of 2020 and emphasized the potential for language models to [[Microsoft Excel|excel]] in knowledge intensive tasks.
 >
-> **[0:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=26)** In the original Meta paper, they combined an information retrieval component with a text generation model, allowing the LLM to access the latest information for generating reliable outputs.
+> **[0:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=26)** In the original Meta paper, they combined an [[Information Retrieval]] component with a text generation model, allowing the LLM to access the latest information for generating reliable outputs.
 >
 > **[0:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=38)** This approach was especially beneficial for knowledge intensive tasks where the model needs to provide accurate and up-to-date information.
 >
@@ -4988,7 +4946,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=246)** The vector store retrieval, you could think of this as a search engine of the system.
 >
-> **[4:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=251)** The vector store retriever is going to fetch relevant documents by comparing the vector similarities between the user query and what's in the vector database.
+> **[4:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=251)** The vector store retriever is going to [[Fetch]] relevant documents by comparing the vector similarities between the user query and what's in the vector database.
 >
 > **[4:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=261)** This way, it's fetching the most relevant document to be put into the context.
 >
@@ -5050,7 +5008,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=408)** These work together as an orchestrated flow that's going to transform a user's query into a texturally rich and accurate response.
 >
-> **[6:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=417)** So there are many, many document loaders in LangChain.
+> **[6:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=417)** So there are many, many document loaders in [[LangChain]].
 >
 > **[7:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=420)** I'm not going to go into every single one of them in this notebook, but by all means, check out the documentation here so you can get a good idea of all the different document loaders that you have available to you.
 >
@@ -5060,7 +5018,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=446)** So document loaders in LangChain, they're used to load data from the different sources, and these are going to be loaded in as document objects.
 >
-> **[7:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=454)** A document object is just a piece of text with some metadata.
+> **[7:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=454)** A document object is just a piece of text with some [[Metadata]].
 >
 > **[7:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/rag?u=76281980&t=457)** So document loaders give you a convenient way to fetch data from the different sources like text files, web pages, or transcripts of the videos.
 >
@@ -5302,7 +5260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), rag (15), prompt (13), [[LangChain]] (7), [[Search]] (6)
+> **Frameworks & Libraries:** [[LangChain]] (7), [[Fetch]] (5), [[Metadata]] (3), [[Microsoft Excel|Excel]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** rag (15), llm (3), faiss (1)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** such as (2), for example (2)
@@ -5311,8 +5269,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 
-#### FLARE
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980)
+#### [FLARE](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5320,7 +5277,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=6)** It's method that was introduced in a 2023 paper titled "Active Retrieval Augmented Generation".
 >
-> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=14)** The original implementation can be found in the paper's GitHub repo, which the LangChain implementation draws heavily from.
+> **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=14)** The original implementation can be found in the paper's [[GitHub]] repo, which the [[LangChain]] implementation draws heavily from.
 >
 > **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=22)** FLARE is a method that enhances the capabilities of a large language model by actively retrieving information from external sources during the generation process.
 >
@@ -5330,7 +5287,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=53)** So the basic idea is we start answering a question.
 >
-> **[0:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=57)** If the language model starts to generate tokens that it's uncertain about based on log probs, it's going to look up some relevant documents.
+> **[0:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=57)** If the language model starts to generate [[Tokens]] that it's uncertain about based on log probs, it's going to look up some relevant documents.
 >
 > **[1:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=66)** It'll then use those documents to continue generating, and it's going to repeat this process until it's finished.
 >
@@ -5380,13 +5337,13 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=241)** Other important parameters to consider is the max generation length parameter, which is the number of tokens to generate before stopping to check if the language model's uncertain.
 >
-> **[4:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=251)** And then also MinProb, so any tokens generated with a probability below this will be considered as uncertain.
+> **[4:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=251)** And then also MinProb, so any tokens generated with a [[Probability]] below this will be considered as uncertain.
 >
 > **[4:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=260)** So let's go ahead and import what we need, and that's what we're going to do here.
 >
 > **[4:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=266)** And it's the same kind of pattern as we saw in the rag lecture, so the language model, the embeddings.
 >
-> **[4:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=272)** In this case, we're going to fetch documents from archive.
+> **[4:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=272)** In this case, we're going to [[Fetch]] documents from archive.
 >
 > **[4:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/flare?u=76281980&t=276)** Rather ironically, I'm going to fetch the FLARE paper itself, instantiate a text splitter, set the chunk size, set the chunk overlap, split the documents, create that vector store, and then create the vector store retriever.
 >
@@ -5468,7 +5425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (10), next (4), [[Probability]] (4), prompt (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Probability]] (4), [[LangChain]] (2), [[Fetch]] (2), [[GitHub]] (1)
 > **Env Vars:** flare (15), llm (1)
 > **Definitions:** stands for (1), is a  (1), is called (1)
 > **Cross-References:** as we saw (1), coming up (1)
@@ -5477,12 +5434,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 
-#### Plan and execute
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980)
+#### [Plan and execute](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=0)** - [Instructor] Plan-and-Solve prompting was introduced in a May 2023 paper titled, "Plan-and-Solve Prompting: Improving Zero-shot Chain-of-Thought Reasoning in Large Language Models," by Lei Wang et al.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=0)** - [Instructor] Plan-and-Solve prompting was introduced in a May 2023 paper titled, "Plan-and-Solve Prompting: Improving Zero-shot Chain-of-Thought Reasoning in [[Large Language Models (LLM)|Large Language Models]]," by Lei Wang et al.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=13)** So what is Plan-and-Solve prompting?
 >
@@ -5544,7 +5500,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=230)** Despite manual demonstrations, the Plan-and-Solve Plus prompting actually outperforms 8-shot Chain-of-Thought prompting in arithmetic reasoning tasks.
 >
-> **[4:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=241)** In LangChain, Plan-and-Solve prompting is executed via the Plan-and-Execute agents.
+> **[4:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=241)** In [[LangChain]], Plan-and-Solve prompting is executed via the Plan-and-Execute agents.
 >
 > **[4:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=246)** So remember, an agent is really nothing more than a prompting strategy.
 >
@@ -5588,11 +5544,11 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=383)** So we're going to go ahead and define our agent.
 >
-> **[6:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=386)** In this case, let's actually use gpt-4-0125-preview.
+> **[6:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=386)** In this case, let's actually use [[GPT-4]]-0125-preview.
 >
 > **[6:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=393)** We're going to instantiate the math_chain.
 >
-> **[6:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=395)** So this is just a particular chain in LangChain where it'll make use of the Python interpreter to actually do some math calculations.
+> **[6:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=395)** So this is just a particular chain in LangChain where it'll make use of the [[Python (Programming Language)|Python]] interpreter to actually do some math calculations.
 >
 > **[6:45](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=405)** DuckDuckGoSearch, using this because it doesn't require an API key.
 >
@@ -5662,7 +5618,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=539)** Get some results.
 >
-> **[9:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=541)** It's outputting as a JSON, because in the prompt for the DuckDuckGo tool, it is asking it to respond in JSON.
+> **[9:01](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=541)** It's outputting as a [[JSON]], because in the prompt for the DuckDuckGo tool, it is asking it to respond in JSON.
 >
 > **[9:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/plan-and-execute?u=76281980&t=549)** So it does that.
 >
@@ -5726,7 +5682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), next (5), [[LangChain]] (5), [[Search]] (5), [[GPT-4]] (3)
+> **Frameworks & Libraries:** [[LangChain]] (5), [[GPT-4]] (3), [[Large Language Models (LLM)|Large language models]] (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (5), make (2), python (1)
 > **Env Vars:** gpt (2), json (2), api (1), dpo (1)
 > **Definitions:** is a  (3)
@@ -5740,12 +5696,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt management
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
+#### [Prompt management](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=0)** - [Instructor] As you've come to learn throughout this course, prompt engineering is an important part of working with large language models.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=0)** - [Instructor] As you've come to learn throughout this course, [[Prompt Engineering]] is an important part of working with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=7)** A well-crafted prompt can lead to insightful, accurate responses.
 >
@@ -5757,7 +5712,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=42)** This high sensitivity requires careful consideration with every element in the prompt.
 >
-> **[0:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=49)** We need to version control prompts the same way we version control code.
+> **[0:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=49)** We need to [[Version Control]] prompts the same way we version control code.
 >
 > **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=54)** As you've come to see throughout the course, finding the optimal prompt often involves a time-consuming process of trial and error.
 >
@@ -5771,7 +5726,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=92)** You need a way to examine and revisit previous versions or restore a previous version of a prompt using a prompt management tool.
 >
-> **[1:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=103)** Like software development, Prompt engineering needs a robust system for managing in version controlling prompts.
+> **[1:43](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=103)** Like [[Software Development]], Prompt engineering needs a robust system for managing in version controlling prompts.
 >
 > **[1:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=110)** This system should involve meticulously documenting each change to a prompt along with the corresponding outputs.
 >
@@ -5791,21 +5746,20 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=168)** Just like a jeweler or a librarian, precision and organization are keys to success in prompt engineering, and that's what this section is about.
 >
-> **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=177)** You're going to learn a prompt management system that comes built into LangChain called LangSmith.
+> **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980&t=177)** You're going to learn a prompt management system that comes built into [[LangChain]] called LangSmith.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), [[Prompt Engineering]] (4), management (4), [[Version Control]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Version Control]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Software Development]] (1), [[LangChain]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### LangSmith
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980)
+#### [LangSmith](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=0)** - LangChain gives you a streamlined approach to prototyping applications and agents using large language models.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=0)** - [[LangChain]] gives you a streamlined approach to [[Prototyping]] applications and agents using [[Large Language Models (LLM)|large language models]].
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=8)** But the journey from prototyping to deploying LLM applications requires extensive iteration on prompts, chains, and agents to attain high-quality outputs.
 >
@@ -5829,7 +5783,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=98)** So to sum it all up, LangSmith is a platform that's designed to streamline the development and deployment of LLM-based applications.
 >
-> **[1:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=109)** It includes tools for debugging, testing, and monitoring, and simplifies the transition from prototype to fully operational products.
+> **[1:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=109)** It includes tools for debugging, testing, and monitoring, and simplifies the transition from prototype to fully operational [[Microsoft Products|products]].
 >
 > **[1:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith?u=76281980&t=118)** LangSmith also facilitates extensive tweaking of prompts and components for optimal performance in production environments.
 >
@@ -5839,24 +5793,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[Prototyping]] (2), [[Debugging]] (2), application (2), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[LangChain]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - langchain (1)
 
-#### LangSmith walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980)
+#### [LangSmith walkthrough](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=0)** - [Instructor] In order to use LangSmith, you first have to sign up and obtain an API key.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=6)** You could do that by going to smith.[langchain.com](https://langchain.com).
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=6)** You could do that by going to smith.[[[LangChain]].com](https://langchain.com).
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=9)** And as you'll see, you've got multiple options to sign up.
 >
-> **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=12)** You can sign up with Discord, with your GitHub, with Google or with your email address.
+> **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=12)** You can sign up with Discord, with your [[GitHub]], with [[Google]] or with your email address.
 >
 > **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=18)** But once you've signed up for LangSmith, you'll be brought to a page that looks something like this.
 >
@@ -5912,7 +5865,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=160)** So let's go ahead and fill that out.
 >
-> **[2:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=162)** So this prompt name that we're going to use here, I'll put in LinkedIn Learning Example.
+> **[2:42](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=162)** So this prompt name that we're going to use here, I'll put in [[LinkedIn]] Learning Example.
 >
 > **[2:50](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=170)** Now you'll see there, apparently you can only use lowercase letters.
 >
@@ -5920,7 +5873,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=177)** Let's say LinkedIn Learning example.
 >
-> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=179)** Description, this is a prompt that we are using in the LangSmith section of the LinkedIn Learning course titled Prompt Engineering with LangChain.
+> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=179)** Description, this is a prompt that we are using in the LangSmith section of the LinkedIn Learning course titled [[Prompt Engineering]] with LangChain.
 >
 > **[3:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=201)** And we'll spell learning correctly.
 >
@@ -5952,7 +5905,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=250)** Alright, so we can come up with a template here.
 >
-> **[4:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=252)** For this one I'll say you're an expert in PyTorch Hugging Face and OpenAI.
+> **[4:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=252)** For this one I'll say you're an expert in [[PyTorch]] [[Hugging Face]] and OpenAI.
 >
 > **[4:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=262)** You're helping a user write code to complete their work.
 >
@@ -5988,7 +5941,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=325)** And go ahead, hit start.
 >
-> **[5:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=328)** And of course we need to enter a OpenAI API key.
+> **[5:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=328)** And of course we need to enter a [[OpenAI API]] key.
 >
 > **[5:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=330)** So that's where you would enter this information here.
 >
@@ -6002,7 +5955,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=348)** For example, you're expert in PyTorch, Hugging Face and OpenAI.
 >
-> **[5:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=352)** You know everything about prompt engineering and large language models, right?
+> **[5:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=352)** You know everything about prompt engineering and [[Large Language Models (LLM)|large language models]], right?
 >
 > **[6:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=363)** And then maybe you want to add a delimiter here, right?
 >
@@ -6020,7 +5973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), api (9), hit (8), [[LinkedIn]] (3), [[PyTorch]] (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[PyTorch]] (3), [[Hugging Face]] (3), [[LangChain]] (2), [[Prompt Engineering]] (2)
 > **Env Vars:** api (11), llm (2), gpt (2)
 > **CLI Commands:** make (3)
 > **Versions:** 3.5 (2)
@@ -6029,8 +5982,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 
-#### Prompt versioning in LangSmith
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980)
+#### [Prompt versioning in LangSmith](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6038,7 +5990,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=6)** For more stable and consistent deployments, it's advisable to use specific prompt versions.
 >
-> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=13)** LangChain Hub supports pulling prompts by their specific commit hash.
+> **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=13)** [[LangChain]] Hub supports pulling prompts by their specific commit hash.
 >
 > **[0:18](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=18)** This ensures that you're using the exact version of the prompt needed for your application.
 >
@@ -6046,7 +5998,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=28)** You simply just add the version tag to the prompt ID in the pull command.
 >
-> **[0:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=35)** Here's a Python snippet for reference.
+> **[0:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=35)** Here's a [[Python (Programming Language)|Python]] snippet for reference.
 >
 > **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=37)** Let's go ahead and load a prompt from the LangChain Hub.
 >
@@ -6056,7 +6008,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=57)** We will instantiate an LLM, because we want to do some generations with it.
 >
-> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=60)** The repo is going to be the Linkedin-learning-example, which is what this is called, and it's coming from my user.
+> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=60)** The repo is going to be the [[LinkedIn]]-learning-example, which is what this is called, and it's coming from my user.
 >
 > **[1:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=72)** And so we can see the prompt as so.
 >
@@ -6066,7 +6018,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=90)** All right, and you can see we've got the result here.
 >
-> **[1:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=92)** I simply just ask, "How do I generate text with a Hugging Face transformers model?"
+> **[1:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=92)** I simply just ask, "How do I generate text with a [[Hugging Face]] transformers model?"
 >
 > **[1:36](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=96)** And it goes on and it tells me exactly what it is I need to do.
 >
@@ -6220,7 +6172,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=478)** This flexibility is really going to give you a more dynamic environment for experimentation and for improvement.
 >
-> **[8:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=485)** Version control plays a crucial role in preventing the accidental deployment of untested or under-validated components.
+> **[8:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=485)** [[Version Control]] plays a crucial role in preventing the accidental deployment of untested or under-validated components.
 >
 > **[8:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=494)** So select versions of prompts that are proven.
 >
@@ -6228,17 +6180,17 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=503)** Prompt versioning also has an added benefit of just streamlining your development process.
 >
-> **[8:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=508)** This, you know, allows for agile development and iteration without risking your production environment.
+> **[8:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=508)** This, you know, allows for [[Agile Development|agile]] development and iteration without risking your production environment.
 >
 > **[8:34](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=514)** So incorporate prompt versioning into your LangChain workflow, not just because it's the best practice for stability and reliability, but because it's really a strategic approach to having more innovation and collaboration, but in a efficient manner.
 >
-> **[8:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=528)** So prompt versioning is key to prompt engineering.
+> **[8:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=528)** So prompt versioning is key to [[Prompt Engineering]].
 >
 > **[8:53](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-versioning-in-langsmith?u=76281980&t=533)** Treat your prompts like you would treat code and you will be in good shape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (37), [[LangChain]] (16), llm (3), application (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LangChain]] (16), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1), [[Version Control]] (1)
 > **Code Identifiers:** chain_new (2), langchain_community (2), langchain_core (2), output_parsers (1)
 > **Env Vars:** llm (3), api (2), pep8 (1)
 > **Analogies:** for example (2), just like (2)
@@ -6247,8 +6199,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Best Practices:** best practice (1)
 
-#### LangSmith deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980)
+#### [LangSmith deep dive](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6258,7 +6209,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=9)** I highly recommend you check out their YouTube channel for hands-down the best educational content on all things LLM and all things AI engineering.
 >
-> **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=19)** Be sure to connect with Chris Alexiuk and Greg Loughnane on LinkedIn.
+> **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=19)** Be sure to connect with Chris Alexiuk and Greg Loughnane on [[LinkedIn]].
 >
 > **[0:25](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=25)** I've learned so much from Chris and Greg about AI engineering and working with language models.
 >
@@ -6270,7 +6221,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=52)** This document loader is actually just a site map loader.
 >
-> **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=54)** So it's going to go through here, the site map for LangChain and just essentially it's loading in all the docs.
+> **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=54)** So it's going to go through here, the site map for [[LangChain]] and just essentially it's loading in all the docs.
 >
 > **[1:02](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=62)** So we can take a look at this once it's done.
 >
@@ -6298,7 +6249,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=127)** And you can just see it's just a chunk of text.
 >
-> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=130)** We've got the associated metadata with it as well.
+> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=130)** We've got the associated [[Metadata]] with it as well.
 >
 > **[2:13](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=133)** It's just text.
 >
@@ -6328,7 +6279,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=191)** That query will be embedded using the exact same embedding model that we used to embed all the vectors in this vectorstore.
 >
-> **[3:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=199)** It's going to fetch similar documents and inject that right into this prompt_template right here.
+> **[3:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=199)** It's going to [[Fetch]] similar documents and inject that right into this prompt_template right here.
 >
 > **[3:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=206)** So of course, we are familiar with prompt_templates.
 >
@@ -6416,7 +6367,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=379)** This will be saved here as well.
 >
-> **[6:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=381)** So you can see how many tokens we've used, cost 15 cents to do all this stuff.
+> **[6:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=381)** So you can see how many [[Tokens]] we've used, cost 15 cents to do all this stuff.
 >
 > **[6:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=387)** And you can see all these particular runs that are happening, right?
 >
@@ -6428,7 +6379,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=405)** You can see all the detail that we get from LangSmith.
 >
-> **[6:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=408)** So we get really full visibility into our application development.
+> **[6:48](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=408)** So we get really full visibility into our [[Application Development]].
 >
 > **[6:54](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-deep-dive?u=76281980&t=414)** Here, of course, if we want to do some more re-ranking, we could do that.
 >
@@ -6474,7 +6425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), ai (4), [[Metadata]] (4), llm (3), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Metadata]] (4), [[LinkedIn]] (1), [[Fetch]] (1), [[Tokens]] (1)
 > **UI Navigation:** click on (3), go to (2), navigate to (1)
 > **Code Identifiers:** chunk_size (1), chunk_overlap (1), split_documents (1), prompt_template (1), prompt_templates (1)
 > **Env Vars:** llm (3), api (2)
@@ -6483,12 +6434,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Documentation:** the docs (1)
 
-#### Managing prompt length for agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980)
+#### [Managing prompt length for agents](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=0)** - [Instructor] You've seen agents that work in LangChain and if you recall, agents use tools, but every time they call a tool, the result of that call is added back to the prompt so that the agent can go and plan the next action.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=0)** - [Instructor] You've seen agents that work in [[LangChain]] and if you recall, agents use tools, but every time they call a tool, the result of that call is added back to the prompt so that the agent can go and plan the next action.
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=14)** But depending on what tools are being used and how those tools are being called, the prompt for this agent can grow very large.
 >
@@ -6508,7 +6458,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=62)** You've been a research assistant to people like Yann LeCun Geoffry Hinton, and Francois Challet.
 >
-> **[1:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=68)** So I'm hinting to this particular system message that I want the model to help me with deep learning concepts.
+> **[1:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=68)** So I'm hinting to this particular system message that I want the model to help me with [[Deep Learning]] concepts.
 >
 > **[1:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=77)** Go ahead and instantiate an LLM in this case we'll use chat OpenAI.
 >
@@ -6540,7 +6490,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=128)** So let's go ahead and log into LangSmith here.
 >
-> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=130)** So I'll go ahead and resize the windows, right?
+> **[2:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=130)** So I'll go ahead and resize the [[Windows]], right?
 >
 > **[2:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=134)** So I've gone ahead and logged into LangSmith.
 >
@@ -6570,7 +6520,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=190)** So we can go ahead and actually see the error here.
 >
-> **[3:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=194)** The model is maximum context length is that many tokens, but we sent that many tokens.
+> **[3:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=194)** The model is maximum context length is that many [[Tokens]], but we sent that many tokens.
 >
 > **[3:20](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=200)** Of course, we can look at that in LangChain here.
 >
@@ -6618,7 +6568,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=322)** And of course we can see everything that is happening under the hood.
 >
-> **[5:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=328)** LangChain gives us that visibility and we can look at all the metadata can add feedback here as well.
+> **[5:28](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=328)** LangChain gives us that visibility and we can look at all the [[Metadata]] can add feedback here as well.
 >
 > **[5:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=335)** And let's go ahead and see if we get a final answer here from the language model.
 >
@@ -6628,7 +6578,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=353)** So it says here, deep learning works due to a combination of factors related to the model's architecture and the data it's trained on.
 >
-> **[5:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=359)** One important aspect is the universal approximation theorem, which states that the neural networks with a sufficient number of parameters can approximate any continuous function.
+> **[5:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=359)** One important aspect is the universal approximation theorem, which states that the [[Neural Networks]] with a sufficient number of parameters can approximate any continuous function.
 >
 > **[6:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/managing-prompt-length-for-agents?u=76281980&t=368)** And then unfortunately it cuts off here as the answer.
 >
@@ -6636,7 +6586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), [[Search]] (5), [[Tokens]] (5), [[LangChain]] (4), [[Deep Learning]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[LangChain]] (4), [[Deep Learning]] (3), [[Windows]] (1), [[Metadata]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), gpt (1)
 > **Versions:** 3.5 (1)
@@ -6649,20 +6599,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applications of language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)
+#### [Applications of language models](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=0)** - [Instructor] Large language models are revolutionizing various industries by powering smart virtual assistants, analyzing customer sentiment, and more.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=0)** - [Instructor] [[Large Language Models (LLM)|Large language models]] are revolutionizing various industries by powering smart virtual assistants, analyzing customer sentiment, and more.
 >
 > **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=10)** Let's discuss some of the use cases and applications of large language models.
 >
 > **[0:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=16)** LLM chatbots are being used to personalize customer interactions, to engage in natural language conversations, understand customer queries, and provide relevant responses.
 >
-> **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=27)** LLM-driven virtual assistants for automated customer support handle common customer inquiries, guide users, and offer real-time support.
+> **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=27)** LLM-driven virtual assistants for automated [[Customer Support]] handle common customer inquiries, guide users, and offer [[Real-Time]] support.
 >
-> **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=37)** They also analyze customer feedback to determine sentiment towards products or services, and they're even being used to communicate in multiple languages, breaking down language barriers, and providing a global reach for businesses.
+> **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=37)** They also analyze customer feedback to determine sentiment towards [[Microsoft Products|products]] or services, and they're even being used to communicate in multiple languages, breaking down language barriers, and providing a global reach for businesses.
 >
 > **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=51)** In social media, LLMs are being used to automate article writing.
 >
@@ -6684,13 +6633,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=111)** However, while LLMs promise efficiency, there's a need to ensure the authenticity and human touch in interactions.
 >
-> **[2:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=120)** Within finance, language models are being used for fraud detection and prevention because they can analyze financial data and detect and prevent fraud.
+> **[2:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=120)** Within finance, language models are being used for fraud detection and prevention because they can analyze [[Financial Data]] and detect and prevent fraud.
 >
-> **[2:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=128)** LLMs are also being used to analyze financial news and market data for investment decision-making.
+> **[2:08](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=128)** LLMs are also being used to analyze financial news and market data for investment [[Decision-Making]].
 >
 > **[2:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=135)** They're also being used to analyze customer data for loan underwriting and credit risk assessment.
 >
-> **[2:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=141)** But as with anything, the challenge lies in ensuring data security and accurate interpretation of complex financial data.
+> **[2:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=141)** But as with anything, the challenge lies in ensuring [[Data Security]] and accurate interpretation of complex financial data.
 >
 > **[2:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=149)** Marketing and advertising was one of the biggest first wins for language models, because they're used for content categorization for personalized recommendations.
 >
@@ -6700,7 +6649,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=176)** However, there is a potential risk of LLMs generating content that misrepresents a brand's voice or could be perceived as misleading.
 >
-> **[3:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=185)** Within cyber law, LLMs are being used to analyze privacy policies and ensure adherence to privacy laws.
+> **[3:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=185)** Within cyber law, LLMs are being used to analyze [[Privacy]] policies and ensure adherence to privacy laws.
 >
 > **[3:12](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980&t=192)** They're also being used to assist in legal research and case analysis within cyber law.
 >
@@ -6732,19 +6681,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Large Language Models (LLM)|Large language models]] (3), llm (3), [[Real-Time]] (2), product (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Real-Time]] (2), [[Financial Data]] (2), [[Decision-Making]] (2), [[Privacy]] (2)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### The LLM landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980)
+#### [The LLM landscape](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=0)** - [Instructor] Since the Transformer architecture was introduced in 2017 and the BERT model was introduced in 2019, both by Google, LLMs have revolutionized natural language processing, content generation and beyond.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=0)** - [Instructor] Since the Transformer architecture was introduced in 2017 and the BERT model was introduced in 2019, both by [[Google]], LLMs have revolutionized [[Natural Language Processing (NLP)|natural language processing]], content generation and beyond.
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=15)** The last few years have seen a surge in the development and deployment of LLMs.
 >
@@ -6760,7 +6708,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=56)** These open-source models encourage innovation, knowledge sharing, and collective development efforts.
 >
-> **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=63)** Models like Llama 2, Alpaca, and Falcon have carved niches for themselves, excelling in dialogue situations, instruction following tasks, and text generation respectively.
+> **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=63)** Models like [[LLaMA]] 2, Alpaca, and Falcon have carved niches for themselves, excelling in dialogue situations, instruction following tasks, and text generation respectively.
 >
 > **[1:16](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=76)** Llama and Llama 2 were developed by Meta AI.
 >
@@ -6770,7 +6718,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=93)** Falcon models are optimized for text generation and chatbot functionality.
 >
-> **[1:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=97)** Deci AI produces models that excel at fast inference while maintaining quality, resulting in efficiency and cost savings.
+> **[1:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=97)** Deci AI produces models that [[Microsoft Excel|excel]] at fast inference while maintaining quality, resulting in efficiency and cost savings.
 >
 > **[1:46](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=106)** There's a number of startups out there that are pumping out open-source models.
 >
@@ -6778,21 +6726,21 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=125)** The open-source ecosystem offers a number of benefits to developers.
 >
-> **[2:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=129)** One is that developers can tailor models to their specific needs from full fine-tuning to prompt engineering.
+> **[2:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=129)** One is that developers can tailor models to their specific needs from full fine-tuning to [[Prompt Engineering]].
 >
 > **[2:17](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=137)** While the initial setup might demand more resources, the long-term benefits, especially at scale, are undeniable.
 >
-> **[2:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=146)** With the ability to self-host businesses can ensure data privacy, which is paramount concern in today's digital landscape.
+> **[2:26](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=146)** With the ability to self-host businesses can ensure [[Data Privacy]], which is paramount concern in today's digital landscape.
 >
 > **[2:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=155)** Closed-source LLMs is the land of proprietary titans.
 >
 > **[2:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=160)** These closed-source LLMs are developed and maintained by organizations or companies that do not make their source code publicly available.
 >
-> **[2:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=169)** As a result, the specific details of their architecture, training data, and algorithms are usually not accessible to the public.
+> **[2:49](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=169)** As a result, the specific details of their architecture, training data, and [[Algorithms]] are usually not accessible to the public.
 >
-> **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=177)** These models are often created as commercial products that might require licenses or subscriptions to use.
+> **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=177)** These models are often created as commercial [[Microsoft Products|products]] that might require licenses or subscriptions to use.
 >
-> **[3:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=185)** A few models to watch in the closed-source space include OpenAI's GPT series, GPT-3.5, GPT-4, GPT-4 turbo have set new benchmarks in various tasks, excelling in text completion, translation, and question answering.
+> **[3:05](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=185)** A few models to watch in the closed-source space include OpenAI's GPT series, GPT-3.5, [[GPT-4]], GPT-4 turbo have set new benchmarks in various tasks, excelling in text completion, translation, and question answering.
 >
 > **[3:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=203)** Anthropic has a model called Claude, which is a cutting edge model that stands out in research, offering capabilities like editing, rewriting, summarizing, and more.
 >
@@ -6810,7 +6758,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=247)** It requires minimal expertise, so businesses can integrate these models into their applications easily.
 >
-> **[4:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=254)** These APIs offer a swift route for companies looking to deploy AI powered features quickly being proprietary.
+> **[4:14](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=254)** These APIs offer a [[Swift (Programming Language)|swift]] route for companies looking to deploy AI powered features quickly being proprietary.
 >
 > **[4:22](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=262)** These models often receive regular updates, which ensure that they remain at the forefront of the AI landscape.
 >
@@ -6834,11 +6782,11 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=332)** Whether you lean towards the open-source vanguard or those proprietary titans, one thing is clear.
 >
-> **[5:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=337)** Large language models are here to stay and they promise to redefine the future of AI powered applications.
+> **[5:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/the-llm-landscape?u=76281980&t=337)** [[Large Language Models (LLM)|Large language models]] are here to stay and they promise to redefine the future of AI powered applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (12), ai (6), data (5), [[LLaMA]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[LLaMA]] (3), [[Google]] (2), [[Microsoft Excel|Excel]] (2), [[Data Privacy]] (2), [[GPT-4]] (2)
 > **Env Vars:** gpt (4), bert (1), api (1), nlp (1), llm (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)

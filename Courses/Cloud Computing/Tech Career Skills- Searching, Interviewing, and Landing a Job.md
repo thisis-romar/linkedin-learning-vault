@@ -103,16 +103,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the Hiring Landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980)
+#### [Understanding the Hiring Landscape](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=0)** Efficiency, return to office, productivity, cash flow.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=0)** Efficiency, return to [[Microsoft Office|office]], productivity, cash flow.
 >
-> **[0:04](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=4)** These words are all over LinkedIn and many other career forums.
+> **[0:04](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=4)** These words are all over [[LinkedIn]] and many other career forums.
 >
-> **[0:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=7)** Generative AI, ChatGPT, LLMs.
+> **[0:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=7)** [[Generative AI]], [[ChatGPT]], LLMs.
 >
 > **[0:11](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980&t=11)** These technologies seem to shape all conversations around hiring.
 >
@@ -132,11 +131,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 
-#### How people are finding jobs now
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980)
+#### [How people are finding jobs now](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=62)** But these candidates are also proving to be adaptable to changing business needs.
 >
-> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=67)** For example, engineers with data analysis skills can use their data expertise to build complex business models using generative artificial intelligence or GenAI.
+> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=67)** For example, engineers with data analysis skills can use their data expertise to build complex business models using generative [[Artificial Intelligence (AI)|artificial intelligence]] or GenAI.
 >
 > **[1:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=77)** This involves building new skills as well as deploying existing skills for new business needs.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=127)** I'm also seeing full-time employees transitioning from long term roles to lucrative and more flexible consulting roles.
 >
-> **[2:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=134)** Finally, successful candidates are framing their career narrative by way of storytelling and evangelism.
+> **[2:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=134)** Finally, successful candidates are framing their career narrative by way of [[Storytelling]] and evangelism.
 >
 > **[2:21](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=141)** For too long, engineers have believed that their technical work speaks for itself.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Search]] (2), data (2), career (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -202,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The tech hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-tech-hiring-process?u=76281980)
+#### [The tech hiring process](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-tech-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,14 +266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), teams (2), [[Engineering]] (1), business (1), application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 
-#### Impact of hybrid/RTO on the hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/impact-of-hybrid-rto-on-the-hiring-process?u=76281980)
+#### [Impact of hybrid/RTO on the hiring process](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/impact-of-hybrid-rto-on-the-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,13 +335,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Search]] (1), next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** just like (1)
 
-#### Power dynamics during the hiring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/power-dynamics-during-the-hiring-process?u=76281980)
+#### [Power dynamics during the hiring process](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/power-dynamics-during-the-hiring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,12 +389,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), job description (1), data (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - let (1)
 
-#### Setting realistic expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980)
+#### [Setting realistic expectations](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,13 +452,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980&t=134)** Don't ever, ever, ever lose hope.
 >
-> **[2:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980&t=137)** We have so far emphasized the hiring process and how soft skills play into it.
+> **[2:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980&t=137)** We have so far emphasized the hiring process and how [[Soft Skills]] play into it.
 >
 > **[2:22](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-realistic-expectations?u=76281980&t=142)** In the next chapter, we will look at why these soft skills are so important and why technical candidates often lack those skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** warning (1)
@@ -478,12 +469,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical candidates need soft skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980)
+#### [Technical candidates need soft skills](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=0)** In this new era of lean teams and efficiency, soft skills have become even more critical for engineers.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=0)** In this new era of lean teams and efficiency, [[Soft Skills]] have become even more critical for engineers.
 >
 > **[0:06](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=6)** Let me explain.
 >
@@ -503,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=50)** This kind of behavior is often tolerated when the business is growing, and there is a talent shortage.
 >
-> **[0:55](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=55)** Companies have thought that smart engineers need more agency, since they generate the ideas and products that will help defeat the competition.
+> **[0:55](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=55)** Companies have thought that smart engineers need more agency, since they generate the ideas and [[Microsoft Products|products]] that will help defeat the competition.
 >
 > **[1:03](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980&t=63)** To be clear, I have never believed in this idea of the lone warrior or the brilliant jerk.
 >
@@ -545,14 +535,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Soft Skills]] (4), [[Engineering]] (3), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cto (1), ceo (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** in the next (1)
 
-#### The struggle for soft skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980)
+#### [The struggle for soft skills](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980&t=8)** The audience, made up mostly of non-engineers laughed loudly.
 >
-> **[0:13](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980&t=13)** I have shaped my entire career to disprove such stereotypes, but is it really true that engineers lack soft skills or am I just repeating a stereotype?
+> **[0:13](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980&t=13)** I have shaped my entire career to disprove such stereotypes, but is it really true that engineers lack [[Soft Skills]] or am I just repeating a stereotype?
 >
 > **[0:23](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-struggle-for-soft-skills?u=76281980&t=23)** The truth is somewhere between those two extremes.
 >
@@ -670,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (7), career (2), [[Engineering]] (2), product (2), business (2)
+> **Frameworks & Libraries:** [[Soft Skills]] (7)
 > **Definitions:** means that (3), is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -681,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid prejudging the role
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-prejudging-the-role?u=76281980)
+#### [Avoid prejudging the role](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-prejudging-the-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,14 +740,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpa (1)
 > **Analogies:** just like (1)
 > **Speakers:** - i (1)
 
-#### Avoid creating a laundry-list resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-creating-a-laundry-list-resume?u=76281980)
+#### [Avoid creating a laundry-list resume](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-creating-a-laundry-list-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,14 +771,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), teams (1), api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - interviews (1)
 
-#### Customize your presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980)
+#### [Customize your presentation](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=31)** In my intro, I mentioned that too many engineers focused on the what and the how.
 >
-> **[0:36](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=36)** Soft skills are about the why and the who.
+> **[0:36](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=36)** [[Soft Skills]] are about the why and the who.
 >
 > **[0:40](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=40)** Do not let this intimidate you.
 >
@@ -816,13 +800,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=45)** The next chapter will show you how.
 >
-> **[0:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=48)** Think of it this way, interviewing is a muscle, in order to build it you need to use it.
+> **[0:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=48)** Think of it this way, [[Interviewing]] is a muscle, in order to build it you need to use it.
 >
 > **[0:55](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/customize-your-presentation?u=76281980&t=55)** As you use it you first feel pain, then you start building strength.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Soft Skills]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[Interviewing]] (1)
 > **Cross-References:** in the next (1), next chapter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -832,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Different types of interviewers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/different-types-of-interviewers?u=76281980)
+#### [Different types of interviewers](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/different-types-of-interviewers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,12 +864,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - depending (1)
 
-#### Tech hiring roles: The recruiter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980)
+#### [Tech hiring roles: The recruiter](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +923,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=126)** All of these insights will help you customize your resume and your pitch for the real interview.
 >
-> **[2:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=132)** I mentioned earlier that the interviewing is a muscle.
+> **[2:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=132)** I mentioned earlier that the [[Interviewing]] is a muscle.
 >
 > **[2:16](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=136)** This conversation with the recruiter is like stretching before your workout.
 >
@@ -952,19 +933,18 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=152)** Use this low pressure opportunity to show that you care and gather information.
 >
-> **[2:38](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=158)** Also, remember that this exchange is an assessment of your soft skills much like the interview itself.
+> **[2:38](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=158)** Also, remember that this exchange is an assessment of your [[Soft Skills]] much like the interview itself.
 >
 > **[2:45](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-the-recruiter?u=76281980&t=165)** Low pressure is not the same as low stakes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1), [[Interviewing]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Soft Skills]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Tech hiring roles: Product and program
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980)
+#### [Tech hiring roles: Product and program](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,7 +958,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980&t=29)** Up close and functional relationships within engineering, product, and program management is critical to tactical execution and strategic planning.
 >
-> **[0:39](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980&t=39)** Here are the soft skills signals that product or program management would be looking for.
+> **[0:39](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980&t=39)** Here are the [[Soft Skills]] signals that product or program management would be looking for.
 >
 > **[0:44](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-product-and-program?u=76281980&t=44)** First, can this engineer communicate with someone not in the technical weeds?
 >
@@ -1024,14 +1004,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Soft Skills]] (4), [[Engineering]] (2), management (2), functional (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** pov (1)
 > **Documentation:** spec (1)
 > **Speakers:** - increasingly (1)
 
-#### Tech hiring roles: Policy, PR, and sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980)
+#### [Tech hiring roles: Policy, PR, and sales](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,25 +1048,24 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980&t=112)** Finally, I want them to check if the engineer can stand firm when required to ensure that technical considerations are not overruled without understanding the trade-offs.
 >
-> **[2:02](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980&t=122)** This is a critical examination of your soft skills.
+> **[2:02](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980&t=122)** This is a critical examination of your [[Soft Skills]].
 >
 > **[2:06](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-policy-pr-and-sales?u=76281980&t=126)** Please take it seriously.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Engineering]] (1), business (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Tech hiring roles: Engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980)
+#### [Tech hiring roles: Engineering](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=0)** - Most tech panels will have interviews that will examine your coding and design skills.
 >
-> **[0:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=5)** Since this course focuses on soft skills, I will not be offering advice on the technical aspects of the interview.
+> **[0:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=5)** Since this course focuses on [[Soft Skills]], I will not be offering advice on the technical aspects of the interview.
 >
 > **[0:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=12)** That said, you will have the need and the opportunity to demonstrate your soft skills even in the technical interviews.
 >
@@ -1111,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=63)** Do you consider that someone else may one day inherit your code and your work and may need to make changes?
 >
-> **[1:09](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=69)** If your panelists simply wanted a solution to a problem, they could just do it for themselves or Google it.
+> **[1:09](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=69)** If your panelists simply wanted a solution to a problem, they could just do it for themselves or [[Google]] it.
 >
 > **[1:15](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-engineering?u=76281980&t=75)** They're looking for credibility, thoughtfulness, and maturity.
 
@@ -1122,8 +1100,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - most (1)
 
-#### Tech hiring roles: Hiring manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-hiring-manager?u=76281980)
+#### [Tech hiring roles: Hiring manager](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tech-hiring-roles-hiring-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,16 +1144,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Tips for Remote Interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980)
+#### [Tips for Remote Interviews](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=0)** I realized that the debate around remote work and return to office is raging as we speak. Regardless of whether debate lands, remote interviews are here to stay for two reasons, one good and one maybe not so good.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=0)** I realized that the debate around remote work and return to [[Microsoft Office|office]] is raging as we speak. Regardless of whether debate lands, remote interviews are here to stay for two reasons, one good and one maybe not so good.
 >
 > **[0:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=12)** First, the good reason. Companies have expanded their hiring strategies to be more inclusive.
 >
@@ -1202,7 +1177,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=69)** These signals could mean that the interview is going off track.
 >
-> **[1:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=72)** Missing out on these signals could mean that the candidate cannot course correct in real-time.
+> **[1:12](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=72)** Missing out on these signals could mean that the candidate cannot course correct in [[Real-Time]].
 >
 > **[1:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=77)** Additionally, in-person interviews allow you to think out loud and bring the other person along with you as you build your ideas.
 >
@@ -1240,7 +1215,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=170)** But here is a tip, especially relevant to our times.
 >
-> **[2:53](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=173)** Explain your thinking and be more vocal to avoid ChatGPT concerns.
+> **[2:53](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=173)** Explain your thinking and be more vocal to avoid [[ChatGPT]] concerns.
 >
 > **[2:58](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/tips-for-remote-interviews?u=76281980&t=178)** Many interviewers are rightly concerned that the availability of tools like ChatGPT may enable candidates to cheat in remote interview settings.
 >
@@ -1264,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be aware (1)
@@ -1275,8 +1250,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The job description
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-job-description?u=76281980)
+#### [The job description](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-job-description?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,22 +1304,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (7), business (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
-#### Using LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980)
+#### [Using LinkedIn](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=0)** - With the exception of my first job way back in 2003, every single job I've ever gotten was via LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=0)** - With the exception of my first job way back in 2003, every single job I've ever gotten was via [[LinkedIn]].
 >
 > **[0:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=7)** However, LinkedIn is about more than just a job search tool.
 >
-> **[0:11](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=11)** You'd be wise to use LinkedIn's power to turbocharge your interview preparation as well.
+> **[0:11](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=11)** You'd be wise to use LinkedIn's power to turbocharge your [[Interview Preparation]] as well.
 >
 > **[0:16](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/using-linkedin?u=76281980&t=16)** There are several key insights you can glean from LinkedIn about the role, the team and the company.
 >
@@ -1395,13 +1367,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Search]] (1), power (1), [[Interview Preparation]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Interview Preparation]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - with (1)
 
-#### The company’s technical footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980)
+#### [The company’s technical footprint](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1421,7 +1392,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980&t=42)** Companies that are innovative and confident foster a culture of openness and candor.
 >
-> **[0:47](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980&t=47)** Such a culture helps lifelong learning.
+> **[0:47](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980&t=47)** Such a culture helps [[Lifelong Learning]].
 >
 > **[0:50](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-company-s-technical-footprint?u=76281980&t=50)** This is also a way for the company and the engineers to build their own brand as thought leaders.
 >
@@ -1439,12 +1410,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Troubleshooting]] (1), [[Lifelong Learning]] (1)
+> **Frameworks & Libraries:** [[Lifelong Learning]] (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - i (1)
 
-#### Online presence and branding
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980)
+#### [Online presence and branding](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,7 +1422,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=4)** As a technologist, you have two jobs: engineer and entrepreneur.
 >
-> **[0:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=8)** You are responsible for building technical tools, functional products and efficient processes.
+> **[0:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=8)** You are responsible for building technical tools, functional [[Microsoft Products|products]] and efficient processes.
 >
 > **[0:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=14)** That is what makes you a solid engineer.
 >
@@ -1462,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=21)** How did you make decisions?
 >
-> **[0:23](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=23)** How did you react to changes and challenges?
+> **[0:23](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=23)** How did you [[React.js|react]] to changes and challenges?
 >
 > **[0:25](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=25)** How did you help your businesses succeed?
 >
@@ -1492,7 +1462,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=78)** My advice to engineers on self promotion is just do it.
 >
-> **[1:22](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=82)** This is why, on LinkedIn, you often see companies highlighting employees new innovations and what it is like to work for that company.
+> **[1:22](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=82)** This is why, on [[LinkedIn]], you often see companies highlighting employees new innovations and what it is like to work for that company.
 >
 > **[1:30](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/online-presence-and-branding?u=76281980&t=90)** What these companies are doing is humanizing the experience and highlighting their culture.
 >
@@ -1534,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (3), career (2), functional (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (3), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Best Practices:** don't forget (1)
@@ -1544,8 +1514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting too tactical in a tech interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980)
+#### [Getting too tactical in a tech interview](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,13 +1526,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=17)** - So, tell me about your favorite engineering project.
 >
-> **[0:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=20)** - Okay, well I changed our architecture to go from run where we had an Apache reverse proxy and a Java application.
+> **[0:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=20)** - Okay, well I changed our architecture to go from run where we had an Apache reverse proxy and a [[Java]] application.
 >
 > **[0:26](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=26)** - Okay.
 >
-> **[0:27](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=27)** - Then I built an infrastructure behind a load balancer, a router, a central API, connected to several microservices.
+> **[0:27](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=27)** - Then I built an infrastructure behind a load balancer, a router, a central API, connected to several [[Microservices]].
 >
-> **[0:35](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=35)** - Okay, so - And then we had to work, with having service tokens so that our caches were not getting overloaded.
+> **[0:35](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=35)** - Okay, so - And then we had to work, with having service [[Tokens]] so that our caches were not getting overloaded.
 >
 > **[0:40](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=40)** - Okay, so, let me stop you there.
 >
@@ -1587,7 +1556,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=98)** This was an opportunity to demonstrate how an engineer can apply technical skills to identify a problem, devise solutions, and then execute.
 >
-> **[1:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=108)** Instead, the candidates response came across as a word salad.
+> **[1:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=108)** Instead, the candidates response came across as a [[Microsoft Word|word]] salad.
 >
 > **[1:52](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=112)** There is a gradual in nature to solving problems, coming up with proposals and identifying the best ones.
 >
@@ -1609,7 +1578,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=156)** Similarly, engineering is not about the number of tools, but how they played together.
 >
-> **[2:40](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=160)** Context is how they all fit together like the sauce holding the layers of lasagna, so explain, educate, listen, those are the soft skills that are critical when you go through design interviews, product prioritization and technical refactoring meetings.
+> **[2:40](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=160)** Context is how they all fit together like the sauce holding the layers of lasagna, so explain, educate, listen, those are the [[Soft Skills]] that are critical when you go through design interviews, product prioritization and technical refactoring meetings.
 >
 > **[2:57](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=177)** Technical interviews, evaluate these soft skills as much as they evaluate your actual problem solving skills.
 >
@@ -1641,7 +1610,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=254)** It had too many single points of failure.
 >
-> **[4:16](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=256)** It was creating a lot of downtime at critical moments and forces to incur hardware expenses, but I was part of a team.
+> **[4:16](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=256)** It was creating a lot of downtime at critical moments and forces to incur [[Hardware]] expenses, but I was part of a team.
 >
 > **[4:24](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980&t=264)** - Interesting, can you tell me more about the failure modes?
 >
@@ -1697,7 +1666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), api (3), [[Java]] (2), [[Microsoft Word|Word]] (2), [[Soft Skills]] (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (2), [[Soft Skills]] (2), [[Microservices]] (1), [[Tokens]] (1)
 > **Speakers:** - okay (6), - yeah (3), - so (2), - what (1), - then (1)
 > **CLI Commands:** make (2), apache (1)
 > **Env Vars:** api (3)
@@ -1705,8 +1674,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 
-#### Speaking negatively about your previous jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980)
+#### [Speaking negatively about your previous jobs](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,7 +1714,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=95)** In this scene, the candidate, Amos, is a bit too excited and a bit too confident and things don't go so well.
 >
-> **[1:42](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=102)** - So, I'd love to walk you through our DevOps process to see if we can optimize it for continuous delivery.
+> **[1:42](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=102)** - So, I'd love to walk you through our [[DevOps]] process to see if we can optimize it for [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:47](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=107)** - Well, at my current company we have a full soup to nuts process.
 >
@@ -1756,7 +1724,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=115)** Now-- - Well, in our system, we've got scripts, batch jobs and synthetic data.
 >
-> **[2:01](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=121)** Oh, we built a custom logging process, and our leaders in all key work streams, immutable infrastructure, infrastructure as data, microservices.
+> **[2:01](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=121)** Oh, we built a custom logging process, and our leaders in all key work streams, immutable infrastructure, infrastructure as data, [[Microservices]].
 >
 > **[2:16](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=136)** We're a lot further along than on the DevOps model than what you have, as far as I know.
 >
@@ -1812,7 +1780,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=248)** - Yeah, so we can install it remotely or locally in relation to the continuous server.
 >
-> **[4:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=254)** This will help with more continuous integration.
+> **[4:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=254)** This will help with more [[Continuous Integration (CI)|continuous integration]].
 >
 > **[4:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=257)** - But how would this expedite the deployment process?
 >
@@ -1826,7 +1794,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=279)** This creates a centralized storage for all the binaries used during a build.
 >
-> **[4:45](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=285)** So you've now simplified the dependency management and build processes.
+> **[4:45](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=285)** So you've now simplified the [[Dependency Management]] and build processes.
 >
 > **[4:50](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=290)** - Our SecOps teams have this on their roadmaps.
 >
@@ -1842,7 +1810,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=315)** The candidate was respectful and collaborative, and, dare I say, successful.
 >
-> **[5:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=320)** In an interview you need to treat your current job as a stepping stone, not the capstone.
+> **[5:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=320)** In an interview you need to treat your current job as a stepping stone, not the [[Capstone]].
 >
 > **[5:26](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=326)** The soft skill here is applying the skills you have at present to the needs of the future.
 >
@@ -1854,7 +1822,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=350)** Also notice how cleverly the candidate plugged her work in this area and made it applicable to the potential employer.
 >
-> **[5:57](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=357)** Your credentials with your present employer and previous employers are an asset, but you need to show the soft skills to leverage them effectively.
+> **[5:57](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=357)** Your credentials with your present employer and previous employers are an asset, but you need to show the [[Soft Skills]] to leverage them effectively.
 >
 > **[6:06](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/speaking-negatively-about-your-previous-jobs?u=76281980&t=366)** Before you interview, place your present and past in context as you look to the future.
 >
@@ -1864,14 +1832,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[DevOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Microservices]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Dependency Management]] (1)
 > **Speakers:** - okay (5), - so (4), - well (2), - yeah (2), - one (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), set up (1)
 
-#### Coming off as too desperate or arrogant
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980)
+#### [Coming off as too desperate or arrogant](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1903,7 +1870,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980&t=74)** First, self-marketing needs continuous training since you cannot build your skills or your brand overnight.
 >
-> **[1:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980&t=80)** And second, interviewing requires confidence and self-awareness so that you can bring your best to the interview itself.
+> **[1:20](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980&t=80)** And second, [[Interviewing]] requires confidence and self-awareness so that you can bring your best to the interview itself.
 >
 > **[1:27](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-too-desperate-or-arrogant?u=76281980&t=87)** Marketing yourself is not just about job hunting, it is about building skills and accomplishments and then using those to shape your brand continuously.
 >
@@ -1933,11 +1900,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Interviewing]] (1), career (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** find (1), make (1)
 
-#### Coming off as rusty and/or unprepared
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980)
+#### [Coming off as rusty and/or unprepared](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1985,7 +1951,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980&t=131)** Work with more junior engineers more than you normally would.
 >
-> **[2:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980&t=134)** Many interview questions center around topics like data structures and Big-O notations.
+> **[2:14](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980&t=134)** Many interview questions center around topics like [[Data Structures]] and Big-O notations.
 >
 > **[2:19](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/coming-off-as-rusty-and-or-unprepared?u=76281980&t=139)** These may not impact your daily work, but they do offer an objective method to assess your technical skills.
 >
@@ -1997,7 +1963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), game (1), data (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** make (1)
 
 
@@ -2005,8 +1971,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting the stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980)
+#### [Setting the stage](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +2007,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980&t=55)** The interviewer gave the candidate the opportunity to ask questions and the candidate grabbed it and was able to get some useful context about the role, the org, and, importantly, the interviewer himself.
 >
-> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980&t=67)** The key soft skills the candidate displayed were showing interest in the interviewer and their role in the recruiting process and the company; building a rapport and trying to simulate a working relationship; showing initiative by asking that key question right out of the gate; collecting information that can be used to assess how this stakeholder perceives the role.
+> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980&t=67)** The key [[Soft Skills]] the candidate displayed were showing interest in the interviewer and their role in the recruiting process and the company; building a rapport and trying to simulate a working relationship; showing initiative by asking that key question right out of the gate; collecting information that can be used to assess how this stakeholder perceives the role.
 >
 > **[1:28](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980&t=88)** This approach will help you, not only in a specific interview, but as the day progresses and your understanding of the role grows.
 >
@@ -2050,18 +2015,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **Speakers:** - how (1), - good (1), - same (1), - so (1), - sure (1)
 > **CLI Commands:** make (1)
 
-#### Answering technical questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980)
+#### [Answering technical questions](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980&t=0)** - Just as engineers often fear the behavioral interviews and overthink them, they often underthink the technical interviews, but here's the thing, though.
 >
-> **[0:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980&t=8)** These technical interviews are as much about communication and other soft skills as they're about your problem solving skills.
+> **[0:08](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980&t=8)** These technical interviews are as much about communication and other [[Soft Skills]] as they're about your problem solving skills.
 >
 > **[0:15](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/answering-technical-questions?u=76281980&t=15)** Here are some key tips on how to ace this interview.
 >
@@ -2113,14 +2077,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (1), business (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - just (1)
 
-#### Showing judgment and empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980)
+#### [Showing judgment and empathy](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2160,7 +2123,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=75)** Now why is empathy so important?
 >
-> **[1:18](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=78)** We saw earlier how academia and businesses both have created a context gap between engineering and the rest of society.
+> **[1:18](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=78)** We saw earlier how academia and businesses both have created a context gap between engineering and the [[Representational State Transfer (REST)|rest]] of society.
 >
 > **[1:26](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=86)** A direct outcome of this context gap is that the communication styles of engineers and non-engineers vary significantly.
 >
@@ -2196,18 +2159,17 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=176)** At a minimum you will show that you are listening and processing.
 >
-> **[3:01](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=181)** I can teach you JavaScript, but judgment you develop.
+> **[3:01](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/showing-judgment-and-empathy?u=76281980&t=181)** I can teach you [[JavaScript]], but judgment you develop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Demonstrating your desire for growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980)
+#### [Demonstrating your desire for growth](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2205,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980&t=85)** Leaving Intel then was a huge risk in the short-term.
 >
-> **[1:29](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980&t=89)** In the long run, however, it allowed me to build expertise in healthcare, Cloud computing, distributed computing, security, and privacy.
+> **[1:29](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980&t=89)** In the long run, however, it allowed me to build expertise in healthcare, [[Cloud Computing]], distributed computing, security, and [[Privacy]].
 >
 > **[1:38](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/demonstrating-your-desire-for-growth?u=76281980&t=98)** And today, more than 10 years later, all those skills are in high demand.
 >
@@ -2257,12 +2219,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), business (1), cloud (1), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - i (1)
 
-#### Acing the hiring manager interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980)
+#### [Acing the hiring manager interview](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,7 +2237,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=15)** Then I'll explain how to tailor your interview accordingly.
 >
-> **[0:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=17)** When I was starting software engineering in school, they taught us about hardware, software, networking, et cetera, but missed something crucial.
+> **[0:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=17)** When I was starting software engineering in school, they taught us about [[Hardware]], software, networking, et cetera, but missed something crucial.
 >
 > **[0:25](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=25)** How power dynamics work in complex organizations.
 >
@@ -2288,7 +2249,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=43)** We have already talked about the nature of the modern workplace as defined by three words.
 >
-> **[0:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=48)** Automated, several human actions are driven by algorithms and data.
+> **[0:48](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=48)** Automated, several human actions are driven by [[Algorithms]] and data.
 >
 > **[0:52](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=52)** Second, atomized.
 >
@@ -2348,7 +2309,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=179)** This gives you the ability to relate the role to your own goals and make that closing argument for your candidacy.
 >
-> **[3:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=185)** The results are useful to get from the hiring manager a sense of how the [[Executive Leadership]] values this team and their work.
+> **[3:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=185)** The results are useful to get from the hiring manager a sense of how the [[[[Executive Leadership]]]] values this team and their work.
 >
 > **[3:13](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=193)** Try and get a sense of what the [[Executive Leadership]] expects from the hiring manager.
 >
@@ -2378,7 +2339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), data (2), job description (2), [[Executive Leadership]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (2), [[Hardware]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -2388,8 +2349,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating with the recruiter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-recruiter?u=76281980)
+#### [Communicating with the recruiter](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-recruiter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2427,8 +2387,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - too (1)
 
-#### Communicating with the interview team
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-interview-team?u=76281980)
+#### [Communicating with the interview team](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-interview-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2459,8 +2418,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - sending (1)
 
-#### Communicating with the hiring manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-hiring-manager?u=76281980)
+#### [Communicating with the hiring manager](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-hiring-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,8 +2442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Closing thoughts and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980)
+#### [Closing thoughts and next steps](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2503,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980&t=24)** I also want to invite you to join me in this larger career journey since learning and upskilling does not begin or end with one course.
 >
-> **[0:31](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980&t=31)** My LinkedIn learning page is full of other courses to help your career, ranging from career-building to management principles, to skills around data governance and artificial intelligence.
+> **[0:31](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980&t=31)** My [[LinkedIn]] learning page is full of other courses to help your career, ranging from career-building to management principles, to skills around [[Data Governance]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:41](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980&t=41)** I also encourage you to download and share your certificate of completion and to submit questions using the course Q&A.
 >
@@ -2513,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[LinkedIn]] (2), management (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Governance]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 
 
 ## Instructor

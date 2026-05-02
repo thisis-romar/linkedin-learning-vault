@@ -63,16 +63,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time to govern intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980)
+#### [Time to govern intelligence](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=0)** - [Vidhi] 2024 sparked global conversations around AI agents.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=0)** - [Vidhi] 2024 sparked global conversations around [[AI Agents]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=5)** In 2025, those conversations are turning into action.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=10)** Gartner named agentic AI to be the top tech trend of the year, followed by AI governance platforms.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=10)** Gartner named agentic AI to be the top tech trend of the year, followed by [[AI Governance]] platforms.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980&t=17)** That says a lot.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), power (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[AI Governance]] (1)
 > **Speakers:** - [vidhi] (1)
 
 
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The evolving risks of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980)
+#### [The evolving risks of AI](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=19)** To put this into context, consider this.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=22)** I shared the foundations of AI governance on LinkedIn Learning just last year.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=22)** I shared the foundations of [[AI Governance]] on [[LinkedIn]] Learning just last year.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=27)** And here I am today extending that journey from AI governance to agentic AI governance.
 >
@@ -123,17 +121,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=66)** And when discussing risk, it's important to recognize that not all risks are equal.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=72)** To understand this, let's look at how the spectrum of risk has evolved from traditional AI systems to generative AI and now agentic ai, the new frontier that's catching everyone's attention these days.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=72)** To understand this, let's look at how the spectrum of risk has evolved from [[Traditional AI]] systems to [[Generative AI]] and now agentic ai, the new frontier that's catching everyone's attention these days.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=86)** But before we get into what makes agentic AI so different, it's worth stepping back to look at some of the risks we have been facing since the early days of AI, starting with data.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=98)** AI systems are built on data, and I cannot emphasize enough the importance of robust data governance measures.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=98)** AI systems are built on data, and I cannot emphasize enough the importance of robust [[Data Governance]] measures.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=106)** To start with, there is data security, which has long been a challenge.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=106)** To start with, there is [[Data Security]], which has long been a challenge.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=111)** Many organizations still struggle with preventing data leakage and unauthorized access to sensitive information.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=119)** Then there is data quality, which is often overload.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=119)** Then there is [[Data Quality]], which is often overload.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=124)** Poor quality data doesn't just impact model performance and accuracy, but can lead to biased and discriminatory outcomes.
 >
@@ -155,11 +153,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=202)** These systems can act autonomously, which increases the risk of unintended consequences, raising entirely new ethical concerns.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=212)** According to the failure mode analysis by Microsoft's AI Red Team, these novel failure modes are unique to agentic AI and arise from complex scenarios such as inter-agent communication within multi-agent systems.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=212)** According to the failure mode analysis by [[Microsoft]]'s AI Red Team, these novel failure modes are unique to agentic AI and arise from complex scenarios such as inter-agent communication within multi-agent systems.
 >
 > **[3:47](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=227)** Given the evolving nature of technology and the regulatory landscape, no one person or authority has all the answers, but I believe the journey to finding the right answers begins with asking the right questions.
 >
-> **[4:02](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=242)** In this course, I will walk you through the key risk, challenges and potential unintended consequences of AI agents, which will help us frame the right questions for the effective governance.
+> **[4:02](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=242)** In this course, I will walk you through the key risk, challenges and potential unintended consequences of [[AI Agents]], which will help us frame the right questions for the effective governance.
 >
 > **[4:15](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980&t=255)** An overview of which is coming up in the next video.
 >
@@ -167,20 +165,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (9), [[Traditional AI]] (2), [[Generative AI]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Governance]] (3), [[Traditional AI]] (2), [[Generative AI]] (2), [[LinkedIn]] (1), [[Data Governance]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### An overview of the governance landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980)
+#### [An overview of the governance landscape](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=0)** - [Vidhi Chugh] As you have likely seen, the risks are escalating fast from traditional AI systems to generative AI, and now to the more complex world of agent AI systems.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=0)** - [Vidhi Chugh] As you have likely seen, the risks are escalating fast from [[Traditional AI]] systems to [[Generative AI]], and now to the more complex world of agent AI systems.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=12)** With these rising concerns, I'm often asked, where do we even begin with AI governance?
+> **[0:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=12)** With these rising concerns, I'm often asked, where do we even begin with [[AI Governance]]?
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=18)** What are the best resources to guide this journey?
 >
@@ -192,21 +189,21 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=50)** Given the speed at which enterprises are building agent systems, many are leaning into self-governance.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=59)** Several major tech companies have published internal frameworks grounded in principles of transparency, safety, and accountability.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=59)** Several major tech companies have published internal frameworks grounded in principles of transparency, safety, and [[Accountability]].
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=69)** Recent initiatives such as OpenAI's Preparedness Framework, Google DeepMind's Frontier Safety Framework, and Anthropic's responsible scaling policy reflect the growing momentum toward proactive self-regulated AI governance at the frontier level.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=69)** Recent initiatives such as OpenAI's Preparedness Framework, [[Google]] DeepMind's Frontier Safety Framework, and Anthropic's responsible scaling policy reflect the growing momentum toward proactive self-regulated AI governance at the frontier level.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=87)** But the real question remains is this enough to ensure public safety?
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=94)** The AI Action Summit Report 2025 reinforces this concern, emphasizing that governance should not be left solely to private companies.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=105)** Beyond self-governance, we are also seeing the rise of soft laws that offer structured non-binding guidelines, such as the NIST AI Risk Management Framework, ISO/IEC 42001, OECD AI principles to mention a few.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=105)** Beyond self-governance, we are also seeing the rise of soft laws that offer structured non-binding guidelines, such as the [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]], ISO/IEC 42001, OECD AI principles to mention a few.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=122)** And finally, we have one of the most prominent binding frameworks, the EU AI Act.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=128)** It defines AI systems as a machine-based system designed to operate with varying levels of autonomy and may exhibit adaptiveness after deployment.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=139)** Given this definition and the autonomous high risk nature of AI agents, human oversight is critical to ensuring AI safety.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=139)** Given this definition and the autonomous high risk nature of [[AI Agents]], human oversight is critical to ensuring AI safety.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/an-overview-of-the-governance-landscape?u=76281980&t=149)** But here is the challenge.
 >
@@ -232,15 +229,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Traditional AI]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[AI Governance]] (2), [[Traditional AI]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Google]] (1)
 > **Env Vars:** nist (1), iso (1), iec (1), oecd (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [vidhi (1)
 
-#### The challenges of governing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980)
+#### [The challenges of governing AI](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=62)** And truthfully, few in the industry fully grasp where it's headed.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=67)** Before we even get to proactive regulation, we need a strong foundation of AI literacy.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=67)** Before we even get to proactive regulation, we need a strong foundation of [[AI Literacy]].
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=73)** All stakeholders involved in governance, whether they are policy makers, technologists, or business leaders, they must understand these emerging systems well enough to help shape effective safeguards and oversight.
 >
@@ -294,9 +290,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=163)** Today, nations are racing to lead in AI, and yet, the technologist in me wishes that AI safety were just as much a matter of urgency and competition.
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=175)** But the reality is global alignment on AI governance feels increasingly out of reach, let alone creating a unified framework that balances innovation, safety, and sovereignty.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=175)** But the reality is global alignment on [[AI Governance]] feels increasingly out of reach, let alone creating a unified framework that balances innovation, safety, and sovereignty.
 >
-> **[3:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=188)** And this lack of alignment leaves gap, gaps in oversight, accountability, and preparedness.
+> **[3:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=188)** And this lack of alignment leaves gap, gaps in oversight, [[Accountability]], and preparedness.
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=196)** In fact, within my own team, the same question keeps coming up.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=203)** Who is responsible? Who is liable?
 >
-> **[3:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=207)** These questions are hard enough with traditional AI.
+> **[3:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=207)** These questions are hard enough with [[Traditional AI]].
 >
 > **[3:31](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-challenges-of-governing-ai?u=76281980&t=211)** But in the world of agentic AI, they become even more complex.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), business (1), [[Accountability]] (1), [[Traditional AI]] (1), next (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (1), [[AI Governance]] (1), [[Accountability]] (1), [[Traditional AI]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Env Vars:** cxo (1)
 > **Definitions:** is an  (1)
@@ -324,14 +320,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is agentic AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980)
+#### [What is agentic AI?](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=0)** - [Instructor] Before we even begin to understand effective governance in the context of agentic AI, let's first consider the concept of agency itself.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=9)** Last year, Andrew Ang made an important distinction between agentic AI and AI agents, pointing out that agency isn't binary.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=9)** Last year, Andrew Ang made an important distinction between agentic AI and [[AI Agents]], pointing out that agency isn't binary.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=18)** It exists on a spectrum ranging from low agency systems like email auto-responders that follow predefined rules without adapting to new inputs or changing conditions, to assistive agents like Siri, which can make limited decisions or perform task within an narrow scope.
 >
@@ -349,17 +344,17 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=94)** They also strategize to achieve goals through planning, prioritization, or decision making, and can initiate actions proactively rather than waiting for instructions.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=106)** Today we see AI agents doing everything from booking travel and negotiating purchases to writing and debugging code, managing calendars, or coordinating with service providers.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=106)** Today we see AI agents doing everything from booking travel and negotiating purchases to writing and [[Debugging Code]], managing calendars, or coordinating with service providers.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=118)** This is exciting, but the success of such agentic systems hinges on governance by design.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=126)** It means building safeguards and accountability directly into the lifecycle of these systems, starting with the data they use.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=126)** It means building safeguards and [[Accountability]] directly into the lifecycle of these systems, starting with the data they use.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=137)** Consider an agent drafting an email on your behalf for which it might need to check your calendar, analyze past interactions, understand your tone and response habits, that is, how quickly you tend to respond, or whether you have even engaged with them before.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=155)** That is the context it would need to be genuinely helpful.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=159)** But there comes the need for a balance between utility and privacy, because that context comes from accessing sensitive data, your email history, contacts, calendar, and behavioral patterns, that can lead to concerns like, what if agents end up collecting more than necessary?
+> **[2:39](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=159)** But there comes the need for a balance between utility and [[Privacy]], because that context comes from accessing sensitive data, your email history, contacts, calendar, and behavioral patterns, that can lead to concerns like, what if agents end up collecting more than necessary?
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980&t=181)** And what about that feeling of always being watched or listened to?
 >
@@ -395,14 +390,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (6), [[Programming]] (1), [[Debugging Code]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Debugging Code]] (1), [[Accountability]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rtbf (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the agency of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980)
+#### [Understanding the agency of AI](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=16)** Much depends on the industry or domain in which they are being used.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=21)** Take the finance sector for instance, which needs strict regulatory audits, bias testing, and accountability mechanisms to prevent market manipulation.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=21)** Take the finance sector for instance, which needs strict regulatory audits, bias testing, and [[Accountability]] mechanisms to prevent market manipulation.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=32)** Now compare that to the media industry where the focus is more on copyright protection, misinformation control, and content authenticity.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=102)** However, when deployed in a political campaign, the same model could generate synthetic media, deepfakes, or misinformation that could sway public opinion.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=114)** Now so much gets covered in one single word context.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=114)** Now so much gets covered in one single [[Microsoft Word|word]] context.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=119)** That one-size-fits-all governance fails in the face of dynamic, self evolving AI systems.
 >
@@ -464,15 +458,15 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=189)** And the last one, how critical is the domain?
 >
-> **[3:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=192)** Think healthcare, finance, media, or e-commerce.
+> **[3:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=192)** Think healthcare, finance, media, or [[E-Commerce]].
 >
 > **[3:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=197)** These dimensions help us determine the right governance tier.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=201)** For instance, assistive system like Copilot may require human in the loop validation, clear action traceability.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=201)** For instance, assistive system like [[Microsoft Copilot|Copilot]] may require human in the loop validation, clear action traceability.
 >
 > **[3:28](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=208)** But as systems become fully autonomous, the governance burden increases significantly.
 >
-> **[3:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=216)** We now need to consider intent verification, sandboxed environments, continuous audits, red-teaming, and ethics reviews.
+> **[3:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=216)** We now need to consider intent verification, sandboxed environments, continuous audits, red-teaming, and [[Ethics]] reviews.
 >
 > **[3:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/understanding-the-agency-of-ai?u=76281980&t=226)** While this framework gives a strong starting point, governance decisions also require considering factors like data sensitivity, adaptive learning, and how users interact with the AI.
 >
@@ -484,13 +478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (1), [[Accountability]] (1), [[Microsoft Word|Word]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Microsoft Word|Word]] (1), [[E-Commerce]] (1), [[Microsoft Copilot|Copilot]] (1), [[Ethics]] (1)
 > **Analogies:** for instance (2), think of it like (1), for example (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### The urgency behind agentic AI governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-urgency-behind-agentic-ai-governance?u=76281980)
+#### [The urgency behind agentic AI governance](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-urgency-behind-agentic-ai-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), web (1), data (1), power (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -559,8 +551,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980)
+#### [Transparency](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,15 +563,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=27)** With that foundation, let's now move into one of the most important pillars of agentic AI: transparency.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=35)** It is a core principle of responsible AI development that enables us to understand how these systems make decisions, trace their behavior, and evaluate whether they align with human values and expectations.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=35)** It is a core principle of [[Responsible AI]] development that enables us to understand how these systems make decisions, trace their behavior, and evaluate whether they align with human values and expectations.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=49)** In this section, I will cover three key dimensions of transparency, transparency toward the user, transparency for human oversight, and regulatory transparency and disclosure.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=63)** Let us take a closer look at each dimension, starting with transparency toward the user.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=69)** In the age of large language models that can realistically communicate with humans, user facing transparency has become table stakes.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=69)** In the age of [[Large Language Models (LLM)|large language models]] that can realistically communicate with humans, user facing transparency has become table stakes.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=79)** Whether the system is recommending an investment, assisting in candidate screening or drafting customer support response, disclosure matters.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=79)** Whether the system is recommending an investment, assisting in candidate screening or drafting [[Customer Support]] response, disclosure matters.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=90)** It may not always be a legal requirement, but as AI systems take on roles that shape human decisions, users deserve to know whether they are engaging with a machine.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=177)** Additionally, companies must ensure that disclosures are clear, conspicuous, and easily understandable.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=184)** Similarly, China's new regulations effective September 1st 2025, require both explicit visible indicators and implicit metadata labels, such as the service provider's name and a content id.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=184)** Similarly, China's new regulations effective September 1st 2025, require both explicit visible indicators and implicit [[Metadata]] labels, such as the service provider's name and a content id.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=198)** Well, that's a lot for the first dimension.
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=247)** The final dimension addresses transparency through disclosures and documentation increasingly mandated by regulations.
 >
-> **[4:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=256)** For example, the EU AI Act requires documenting training data, system architecture, and intended purpose, and human oversight mechanisms.
+> **[4:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=256)** For example, the EU AI Act requires documenting training data, [[System Architecture]], and intended purpose, and human oversight mechanisms.
 >
 > **[4:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980&t=266)** Great, we have now walked through key dimensions of transparency.
 >
@@ -634,15 +625,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (2), [[Responsible AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Customer Support]] (1), [[Metadata]] (1), [[System Architecture]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI safety alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980)
+#### [AI safety alignment](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +650,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980&t=45)** They are hard to codify and even harder to optimize for at scale.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980&t=50)** One of the most widely adopted approaches to alignment so far is reinforcement learning from human feedback, called RLHF.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980&t=50)** One of the most widely adopted approaches to alignment so far is [[Reinforcement Learning]] from human feedback, called RLHF.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/ai-safety-alignment?u=76281980&t=59)** While it has helped guide model behavior in more desirable directions, it comes with fundamental limitations.
 >
@@ -720,20 +710,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Reinforcement Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1)
 > **Env Vars:** rlhf (2), ibm (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980)
+#### [Accountability](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=0)** - [Presenter] AI is evolving at a breakneck speed, but who bears the risk when things go wrong?
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=7)** I recently came across an interesting finding in McKenzey's State of AI report that links AI governance to executive level accountability, and that prompted a critical question that I want to pose to you today.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=7)** I recently came across an interesting finding in McKenzey's State of AI report that links [[AI Governance]] to executive level [[Accountability]], and that prompted a critical question that I want to pose to you today.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=21)** Is CEO oversight enough?
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=40)** They might understand the business impact, but often lack the technical depth to fully understand emerging risk.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=47)** And secondly, true accountability requires a structured cross-functional AI governance team, including legal, technical compliance, and ethics.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=47)** And secondly, true accountability requires a structured cross-functional AI governance team, including legal, technical compliance, and [[Ethics]].
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=58)** Without this integrated framework, expecting CEOs to bear full responsibility is unrealistic.
 >
@@ -761,7 +750,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=116)** Just as a bowler cannot control how the ball is played once it leaves their hand, foundational model providers don't control how their models are ultimately applied, but they still hold key responsibilities, ensuring safety, interpretability, and transparency, placing usage constraints, and continuously updating their models to manage emerging risk.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=139)** Now, think of the batsman as the AI product builders, the companies that take those foundational models and integrate them into real world products.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=139)** Now, think of the batsman as the AI product builders, the companies that take those foundational models and integrate them into real world [[Microsoft Products|products]].
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=151)** The batsman decides how to respond to the bowler's delivery, whether to defend, attack, or place the shot strategically.
 >
@@ -769,7 +758,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=164)** They decide on safety layers, UX design, monitoring tools, and how to disclose AI involvement.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=170)** Because their systems face end users directly, they bear primary responsibility for user safety, regulatory compliance, and transparency about limitations and risk.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=170)** Because their systems face end users directly, they bear primary responsibility for user safety, [[Regulatory Compliance]], and transparency about limitations and risk.
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/accountability?u=76281980&t=182)** Finally comes the third and most important group, the spectators, without whom the entire game would lack its purpose.
 >
@@ -789,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Accountability]] (5), game (3), product (2), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (5), [[AI Governance]] (3), [[Ethics]] (1), [[Microsoft Products|Products]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** ceo (1), aka (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [presenter] (1)
@@ -799,14 +788,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Best practices for documenting governance in agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980)
+#### [Best practices for documenting governance in agentic AI](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=0)** - [Instructor] Now that we have established the importance of transparency and accountability, the conversation naturally leads us to documentation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=0)** - [Instructor] Now that we have established the importance of transparency and [[Accountability]], the conversation naturally leads us to documentation.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=9)** Across the agentic AI lifecycle, right from data collection to deployment, there are multiple points where things can go wrong, and the fact that agency is often distributed across teams, systems, and even the AI agents themselves, accountability can easily become diluted and fragmented.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=9)** Across the agentic AI lifecycle, right from [[Data Collection]] to deployment, there are multiple points where things can go wrong, and the fact that agency is often distributed across teams, systems, and even the [[AI Agents]] themselves, accountability can easily become diluted and fragmented.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=30)** That is precisely the reason why everyone, from executives to end users, must understand their role.
 >
@@ -828,11 +816,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=125)** Talking about traceability, I particularly like how the Alan Turing Institute puts it in their report, AI Accountability in Practice.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=134)** Such documentation helps with due diligence, regulatory compliance, and responsible data governance, bringing in transparency and explainability across the AI system.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=134)** Such documentation helps with due diligence, [[Regulatory Compliance]], and responsible [[Data Governance]], bringing in transparency and explainability across the AI system.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=147)** One thing that comes out clearly from our discussion is that documentation is a living tool for reinforcing shared understanding and cross-functional accountability.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=158)** All right, let's make this a reality, starting with data sheets that focus on dataset provenance, aiming to ensure data quality, fairness and suitability for training and evaluating AI models.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=158)** All right, let's make this a reality, starting with data sheets that focus on dataset provenance, aiming to ensure [[Data Quality]], fairness and suitability for training and evaluating AI models.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980&t=172)** For documentation on model transparency, model cards outline a clear and comprehensive record of model characteristics, like what design choices were made, its intended use, architecture, training data, its limitations, and the performance evaluation methods.
 >
@@ -850,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Accountability]] (5), data (5), teams (1), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (5), [[Data Collection]] (1), [[AI Agents]] (1), [[Regulatory Compliance]] (1), [[Data Governance]] (1)
 > **Env Vars:** nsw (1), raci (1), iso (1), iec (1), dare (1)
 > **Definitions:** stands for (3), is a  (2)
 > **CLI Commands:** make (1), aws (1)
@@ -858,8 +846,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dimensions of agentic AI governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980)
+#### [Dimensions of agentic AI governance](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +902,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980&t=171)** When discussing scope, the next natural step is to sandbox, AKA start by deploying them in a controlled, low-risk environment.
 >
-> **[3:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980&t=180)** For example, in your initial building trust with agents face, limit their actions to non-critical task, like generating an internal report.
+> **[3:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980&t=180)** For example, in your initial [[Building Trust]] with agents face, limit their actions to non-critical task, like generating an internal report.
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/dimensions-of-agentic-ai-governance?u=76281980&t=191)** This allows you to safely observe agent behavior, test edge cases, and develop guardrails before full scale deployment.
 >
@@ -939,19 +926,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), next (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** aka (1)
 > **Speakers:** - [instructor] (1)
 
-#### The road ahead
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980)
+#### [The road ahead](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=0)** - [Instructor] When I set out to design this course, I was clear not to make this a theoretical course, but one that prepares you for the complex realities of the agentic AI era: the one that lays down the real cost, benefits, and trade-offs that come with building in this space, and that means working through tough questions: questions that may not have straightforward answers, but must still be asked.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=30)** To avoid regulating in hindsight, we need real-time oversight, but is that even possible when autonomous agents can act and adapt in milliseconds?
+> **[0:30](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=30)** To avoid regulating in hindsight, we need [[Real-Time]] oversight, but is that even possible when autonomous agents can act and adapt in milliseconds?
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=40)** If an agentic AI system has the ability to modify its objectives on the fly, how do we even begin to define intent?
 >
@@ -963,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=66)** With everything we have explored so far, it's time to take a look at the road ahead, the road that takes us towards building responsibly, where it asks us to invest as much in oversight, testing, and governance as we do in developing this technology in the first place.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=86)** This brings me to a common concern I often hear from executives when they begin their journey with responsible AI, that AI feels new, unfamiliar.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=86)** This brings me to a common concern I often hear from executives when they begin their journey with [[Responsible AI]], that AI feels new, unfamiliar.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=96)** How can we govern what we barely understand?
 >
@@ -1001,13 +987,13 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=229)** In the end, I know, the path to building responsible agentic AI at scale is far from easy, but it's possible.
 >
-> **[4:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=240)** As the paper "Lessons From Red Teaming 100 Generative AI Products" reminds us, the work of securing AI systems is never truly finished.
+> **[4:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=240)** As the paper "Lessons From [[Red Teaming]] 100 [[Generative AI]] [[Microsoft Products|Products]]" reminds us, the work of securing AI systems is never truly finished.
 >
 > **[4:11](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-road-ahead?u=76281980&t=251)** However, I sincerely hope that the foundations we have built together in this course have given you a compass to lead the way forward.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Real-Time]] (1), [[Responsible AI]] (1), [[Red Teaming]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Responsible AI]] (1), [[Red Teaming]] (1), [[Generative AI]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1019,12 +1005,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on taking a thoughtful step toward understanding the complexities of Agentic AI governance.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on taking a thoughtful step toward understanding the complexities of Agentic [[AI Governance]].
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980&t=8)** As this course concludes, I'm reminded of something Demis Hassabis once said, "The risk of AI must be openly discussed long before the technology reaches a point of real consequence, so we are prepared where it does."
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

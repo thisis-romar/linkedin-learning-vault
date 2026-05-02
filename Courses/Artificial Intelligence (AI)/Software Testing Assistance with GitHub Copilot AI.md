@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software testing assistance with GitHub Copilot AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980)
+#### [Software testing assistance with GitHub Copilot AI](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980&t=5)** Automated testing will change the way you write code, and there's no faster way to get started than with AI.
 >
-> **[0:11](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980&t=11)** We know AI isn't going anywhere, and adding GitHub Copilot to your tool belt is not hard.
+> **[0:11](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980&t=11)** We know AI isn't going anywhere, and adding [[GitHub Copilot]] to your tool belt is not hard.
 >
 > **[0:17](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980&t=17)** I was blown away by the GitHub Copilot technical preview.
 >
@@ -113,40 +112,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[GitHub Copilot]] (3)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3)
 > **Tools:** github (3)
 > **Speakers:** - would (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=0)** - [Narrator] To get the most value out of this course, there are a couple things you should keep in mind.
 >
-> **[0:04](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=4)** You should be a developer, in any language, with an interest in test-driven development.
+> **[0:04](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=4)** You should be a developer, in any language, with an interest in [[Test-Driven Development]].
 >
-> **[0:10](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=10)** My examples will be in PHP, but feel free to work in whatever language you prefer.
+> **[0:10](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=10)** My examples will be in [[PHP]], but feel free to work in whatever language you prefer.
 >
 > **[0:16](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=16)** Familiarity with writing AI prompts might also help, but it's definitely not a requirement.
 >
-> **[0:22](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=22)** The LinkedIn Learning library of AI courses is always expanding, and Programming Fundamentals is a great way to get started as a developer.
+> **[0:22](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-you-should-know?u=76281980&t=22)** The [[LinkedIn]] Learning library of AI courses is always expanding, and Programming Fundamentals is a great way to get started as a developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Test-Driven Development]] (1), [[PHP]] (1), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[PHP]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The files I use in this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The files I use in this course are stored on [[GitHub]].
 >
 > **[0:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/using-the-exercise-files?u=76281980&t=3)** There are branches for most videos in the format of chapter_video_B or underscore E, B for beginning state and E for end.
 >
@@ -173,16 +170,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub Copilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980)
+#### [What is GitHub Copilot?](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=0)** - [Narrator] GitHub Copilot is an AI coding assistant.
+> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=0)** - [Narrator] [[GitHub Copilot]] is an AI coding assistant.
 >
 > **[0:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=3)** By limiting scope to code, this AI is most useful for code completion, identifying bugs, and understanding code.
 >
-> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=12)** This is the [github.com](https://github.com) Copilot features page.
+> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=12)** This is the [[[GitHub]].com](https://github.com) [[Microsoft Copilot|Copilot]] features page.
 >
 > **[0:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=15)** There's some interesting screenshots, tons of stats, and examples of how amazing Copilot is.
 >
@@ -218,9 +214,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=113)** Another way to interact with Copilot is via chat.
 >
-> **[1:56](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=116)** In your IDE, you can ask Copilot to do things like explain this code, or change the snippet to another language, even things like create a data transfer object class from this JSON.
+> **[1:56](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=116)** In your IDE, you can ask Copilot to do things like explain this code, or change the snippet to another language, even things like create a data transfer object class from this [[JSON]].
 >
-> **[2:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=134)** One bonus that I really enjoy, GitHub CLI has a Copilot extension available.
+> **[2:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=134)** One bonus that I really enjoy, GitHub [[CLI]] has a Copilot extension available.
 >
 > **[2:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=140)** This allows you to create complex shell commands with the help of Copilot.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), ai (4), [[GitHub]] (4), [[GitHub Copilot]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[GitHub]] (4), [[GitHub Copilot]] (2), [[JSON]] (1), [[CLI]] (1)
 > **Tools:** github (6), command line (1), vs code (1)
 > **Env Vars:** ide (4), json (1), cli (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -241,12 +237,11 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Copilot for code completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980)
+#### [Copilot for code completion](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=0)** - [Instructor] Code completion is where you will interact with CoPilot the most.
+> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=0)** - [Instructor] Code completion is where you will interact with [[Microsoft Copilot|CoPilot]] the most.
 >
 > **[0:04](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=4)** Once installed, CoPilot will start suggesting code immediately.
 >
@@ -256,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=15)** Other times you can type a comment and CoPilot will attempt to infer your meaning and provide code for that.
 >
-> **[0:22](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=22)** Here's a simple example in PHP.
+> **[0:22](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=22)** Here's a simple example in [[PHP]].
 >
 > **[0:24](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=24)** I'll start a function and give it a simple name, alphabetize by last name and I'll type hint it as an array of names.
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=85)** Generally in this course, I'm not going to use frameworks, but for the purpose of this example, I think it's helpful.
 >
-> **[1:34](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=94)** This is a Laravel model for a blog post.
+> **[1:34](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=94)** This is a [[Laravel]] model for a blog post.
 >
 > **[1:38](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/copilot-for-code-completion?u=76281980&t=98)** It has title, content, and an author id.
 >
@@ -298,18 +293,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (2), [[PHP]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[PHP]] (1), [[Laravel]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chatting with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980)
+#### [Chatting with Copilot](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=0)** - [Instructor] Copilot Chat is a powerful feature for code explanation, generation, and insights.
+> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] Chat is a powerful feature for code explanation, generation, and insights.
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=6)** It allows you to harness Copilot in places external to the code base.
 >
@@ -339,11 +333,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=85)** With Copilot, I don't need to leave my IDE.
 >
-> **[1:28](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=88)** For example, "I can ask what is the Git command to select a single commit from another branch?"
+> **[1:28](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=88)** For example, "I can ask what is the [[Git]] command to select a single commit from another branch?"
 >
-> **[1:44](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=104)** Now, Google may or may not have answered that for me, but not only does Copilot remind me it's called cherry picking, but also the syntax for it.
+> **[1:44](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=104)** Now, [[Google]] may or may not have answered that for me, but not only does Copilot remind me it's called cherry picking, but also the syntax for it.
 >
-> **[1:54](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=114)** I'm using PHP for this course, so it would be logical to have to create classes, and pending PHP version, that can be somewhat verbose.
+> **[1:54](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=114)** I'm using [[PHP]] for this course, so it would be logical to have to create classes, and pending PHP version, that can be somewhat verbose.
 >
 > **[2:02](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=122)** So I'll ask Copilot to create a class that looks like a person.
 >
@@ -365,7 +359,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=195)** And there it is, and this should unlock a new line of thinking.
 >
-> **[3:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=200)** How would I write the highlighted code in Python or Ruby, in JavaScript, or AW3, or COBOL?
+> **[3:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=200)** How would I write the highlighted code in [[Python (Programming Language)|Python]] or Ruby, in [[JavaScript]], or AW3, or COBOL?
 >
 > **[3:32](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/chatting-with-copilot?u=76281980&t=212)** I don't really know the last two languages, so I can't confirm, but it's fair to say that Copilot knows many more languages than you or I, even really obscure stuff.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), feature (1), prompt (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[PHP]] (6), [[Git]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (6), git (1), python (1), ruby (1), make (1)
 > **Env Vars:** php (6), ide (1), aw3 (1), cobol (1)
 > **Versions:** php 8 (4)
@@ -412,8 +406,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated testing explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980)
+#### [Automated testing explained](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,13 +422,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=20)** To demonstrate this function, I'll just go to the end of this file and call add directly and I'll pass it five and two.
 >
-> **[0:29](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=29)** And Copilot really wants me to add a comment that shows that it's seven.
+> **[0:29](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=29)** And [[Microsoft Copilot|Copilot]] really wants me to add a comment that shows that it's seven.
 >
-> **[0:33](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=33)** When I run this through the php interpreter, the output is seven.
+> **[0:33](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=33)** When I run this through the [[PHP]] interpreter, the output is seven.
 >
 > **[0:39](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=39)** This is not revolutionary code, I realize.
 >
-> **[0:42](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=42)** I'm going to compose and install a package called phpunit.
+> **[0:42](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=42)** I'm going to [[Jetpack Compose|compose]] and install a package called phpunit.
 >
 > **[0:52](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/automated-testing-explained?u=76281980&t=52)** More on that in future videos, but the important thing to know is that phpunit is a test framework, meaning it provides the functionality you need to test your code.
 >
@@ -504,8 +497,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a test suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980)
+#### [Configuring a test suite](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=10)** At the end of the day, any tests are better than no tests.
 >
-> **[0:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=14)** In this course, I'm using PHP, so I'll use PHP unit as a starting point.
+> **[0:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=14)** In this course, I'm using [[PHP]], so I'll use PHP unit as a starting point.
 >
 > **[0:19](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=19)** But this video is not specifically about PHP, it's about how to think about tests and test configuration.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=38)** PHP will typically have a test directory with tests in it that are set up to match the directory structure of what is under test.
 >
-> **[0:46](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=46)** Taking that a step further, Laravel groups tests as feature and unit.
+> **[0:46](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=46)** Taking that a step further, [[Laravel]] groups tests as feature and unit.
 >
 > **[0:51](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/configuring-a-test-suite?u=76281980&t=51)** Again, I don't want to get too bogged down into what type of tests you're writing.
 >
@@ -583,21 +575,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), database (3), [[Laravel]] (2), feature (2), application (2)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (2)
 > **CLI Commands:** php (5), find (1)
 > **Env Vars:** php (5), aaa (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and automated testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980)
+#### [AI and automated testing](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980&t=0)** - [Instructor] This is the heart of this course.
 >
-> **[0:02](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980&t=2)** You know that you or your team probably don't write enough tests and Copilot can help.
+> **[0:02](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980&t=2)** You know that you or your team probably don't write enough tests and [[Microsoft Copilot|Copilot]] can help.
 >
 > **[0:08](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/ai-and-automated-testing?u=76281980&t=8)** To be clear, this is about using AI to support traditional automated testing.
 >
@@ -657,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6)
 > **CLI Commands:** composer (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ide (1)
@@ -669,8 +660,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying testable code
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980)
+#### [Identifying testable code](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +754,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=298)** and it has to extend TestCase, and I need my setUp function.
 >
-> **[5:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=315)** Very nice that Copilot figured out how to include the appropriate path.
+> **[5:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=315)** Very nice that [[Microsoft Copilot|Copilot]] figured out how to include the appropriate path.
 >
 > **[5:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=325)** And I'm going to add my first test here.
 >
@@ -844,11 +834,11 @@ created: 2026-05-02
 >
 > **[10:23](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=623)** Will it always stay that way? Probably not.
 >
-> **[10:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=627)** But that is the refactoring portion that we get out of test-driven development.
+> **[10:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980&t=627)** But that is the refactoring portion that we get out of [[Test-Driven Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), data (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Test-Driven Development]] (1)
 > **Code Identifiers:** link_array (7), generate_link_from_array (4), build_url (3), get_link_by_id (2), create_url (2)
 > **Env Vars:** url (15), filter_validate_url (1), tdd (1)
 > **CLI Commands:** make (2)
@@ -857,8 +847,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate your first tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980)
+#### [Generate your first tests](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +863,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=13)** In the opening chapter, I used a terrible example with these add and subtract functions.
 >
-> **[0:19](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=19)** I'm going to push the idea further in this video using a common function in PHP frameworks, slugify.
+> **[0:19](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=19)** I'm going to push the idea further in this video using a common function in [[PHP]] frameworks, slugify.
 >
 > **[0:26](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=26)** Generally speaking, the slugify function accepts a string and converts to a URL slug.
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=62)** To move forward with confidence, it should be tested.
 >
-> **[1:07](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=67)** First, I ask Copilot to create a test for this.
+> **[1:07](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=67)** First, I ask [[Microsoft Copilot|Copilot]] to create a test for this.
 >
 > **[1:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-your-first-tests?u=76281980&t=75)** And once that test is in place, I'll run it.
 >
@@ -974,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[PHP]] (3), database (2), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[PHP]] (3)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Env Vars:** php (3), url (1)
 > **Prerequisites:** setup (3), set up (1)
@@ -983,8 +972,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refactor with tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980)
+#### [Refactor with tests](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=41)** This prevents you from adding hidden regressions.
 >
-> **[0:44](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=44)** So I'm going to highlight this and ask Copilot to create tests for that.
+> **[0:44](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=44)** So I'm going to highlight this and ask [[Microsoft Copilot|Copilot]] to create tests for that.
 >
 > **[0:57](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=57)** Now, not only will it create the test, it's going to explain what's being tested.
 >
@@ -1022,7 +1010,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=109)** I haven't given them much review, but let's see what happens.
 >
-> **[1:59](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=119)** Now let me flag here that I'm testing something with header output in PHP, and PHP in it is complex, and it needs output buffering to solve this.
+> **[1:59](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=119)** Now let me flag here that I'm testing something with header output in [[PHP]], and PHP in it is complex, and it needs output buffering to solve this.
 >
 > **[2:09](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/refactor-with-tests?u=76281980&t=129)** So I'm going to leave this as is with a test that gives us no useful output because on redirect we're returning header and dying before any test can run.
 >
@@ -1082,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[PHP]] (4), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[PHP]] (4)
 > **CLI Commands:** make (4), php (4)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** php (4)
@@ -1090,22 +1078,21 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Copilot slash commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980)
+#### [Use Copilot slash commands](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=0)** - [Instructor] I touched on / commands earlier, but they are so powerful, they are worth revisiting here.
 >
-> **[0:05](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=5)** Copilot seems to add and remove / commands with regularity.
+> **[0:05](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=5)** [[Microsoft Copilot|Copilot]] seems to add and remove / commands with regularity.
 >
-> **[0:09](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=9)** In some cases, a single word works just as well.
+> **[0:09](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=9)** In some cases, a single [[Microsoft Word|word]] works just as well.
 >
 > **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=12)** There used to be a /doc / command, and the first one I would turn to when looking at a new code base.
 >
 > **[0:19](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=19)** Instead of using doc, I'll highlight a function and just type docblock.
 >
-> **[0:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=27)** These kind of updates are a simple way to practice Git flow on a new project, but second, the generated docs are similar to how GitHub explains code.
+> **[0:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=27)** These kind of updates are a simple way to practice [[Git]] flow on a new project, but second, the generated docs are similar to how [[GitHub]] explains code.
 >
 > **[0:41](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=41)** There definitely is a /explain command.
 >
@@ -1115,7 +1102,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=66)** These can lead you down a rabbit hole if you aren't careful, or they can give you just what you need.
 >
-> **[1:11](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=71)** In this case, Copilot knows that I'm recording a course about PHPUnit, so the prompt that it's asking me is how can I run unit tests for my PHP code using PHPUnit in Visual Studio Code?
+> **[1:11](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=71)** In this case, Copilot knows that I'm recording a course about PHPUnit, so the prompt that it's asking me is how can I run unit tests for my [[PHP]] code using PHPUnit in Visual Studio Code?
 >
 > **[1:23](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=83)** Not something pertinent to this conversation.
 >
@@ -1149,13 +1136,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=170)** To use the output of tests, you have to know how to run tests in a system.
 >
-> **[2:55](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=175)** If I were to test some WordPress code here, I'd have a hard time actually running it without things like WP Browser configured.
+> **[2:55](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=175)** If I were to test some [[WordPress]] code here, I'd have a hard time actually running it without things like WP Browser configured.
 >
 > **[3:02](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/use-copliot-slash-commands?u=76281980&t=182)** This is where writing testable code really pays off.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Git]] (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Git]] (2), [[Microsoft Word|Word]] (1), [[GitHub]] (1), [[PHP]] (1)
 > **CLI Commands:** git (2), php (1)
 > **Env Vars:** php (1), ide (1)
 > **Tools:** github (1), visual studio (1)
@@ -1168,8 +1155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write your tests to document business logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980)
+#### [Write your tests to document business logic](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=49)** In this case, I'm testing that certain keywords always redirect to an external site.
 >
-> **[1:01](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=61)** Now I'm using PHP unit, which is unit testing.
+> **[1:01](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=61)** Now I'm using [[PHP]] unit, which is [[Unit Testing]].
 >
 > **[1:05](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=65)** I don't have a test library to make a remote get request and observe the header response.
 >
@@ -1199,7 +1185,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=87)** Test should redirect.
 >
-> **[1:37](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=97)** And because it's a bool copilot has the context.
+> **[1:37](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=97)** And because it's a bool [[Microsoft Copilot|copilot]] has the context.
 >
 > **[1:40](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980&t=100)** So it suggests a pretty solid test.
 >
@@ -1255,14 +1241,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), business (3), [[PHP]] (1), [[Unit Testing]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[PHP]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate code from tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980)
+#### [Generate code from tests](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=113)** So I'll update the signature and add an empty array for redirects.
 >
-> **[2:01](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=121)** And then I was going to say, I'll check if it's empty, but Copilot will check if it's empty and get redirects from the function.
+> **[2:01](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=121)** And then I was going to say, I'll check if it's empty, but [[Microsoft Copilot|Copilot]] will check if it's empty and get redirects from the function.
 >
 > **[2:09](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=129)** And now I just need to remove that call.
 >
@@ -1330,7 +1315,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=201)** Now, this is just scratching the surface on how to use tests to generate code.
 >
-> **[3:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=205)** I'm going to take a chance to convert this procedural approach into an object-oriented programming approach.
+> **[3:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=205)** I'm going to take a chance to convert this procedural approach into an [[Object-Oriented Programming (OOP)|object-oriented programming]] approach.
 >
 > **[3:32](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/generate-code-from-tests?u=76281980&t=212)** I want to think of redirects as a value object.
 >
@@ -1372,18 +1357,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), next (1), bi (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update functionality by writing more tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980)
+#### [Update functionality by writing more tests](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=0)** - Copilot uses the context of the code you have open to generate code.
+> **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] uses the context of the code you have open to generate code.
 >
 > **[0:04](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=4)** So if the code you have open are tests, it gives copilot the info necessary to build up your code base.
 >
@@ -1447,7 +1431,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=196)** Query ARGs are, and the fragment is something.
 >
-> **[3:26](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=206)** This isn't a PHP course, but if it were, I'd call out that there's a common library for this kind of thing in PSR 18.
+> **[3:26](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=206)** This isn't a [[PHP]] course, but if it were, I'd call out that there's a common library for this kind of thing in PSR 18.
 >
 > **[3:35](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/update-functionality-by-writing-more-tests?u=76281980&t=215)** Most web languages or libraries have something similar to this.
 >
@@ -1485,7 +1469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[PHP]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[PHP]] (1)
 > **Env Vars:** url (2), php (1), psr (1), ide (1)
 > **CLI Commands:** make (2), php (1)
 > **Definitions:** is a  (2)
@@ -1498,8 +1482,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980)
+#### [Code quality](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,7 +1542,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980&t=142)** This course is about how to use AI for such things.
 >
-> **[2:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980&t=145)** So I'm just going to ask Copilot.
+> **[2:25](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980&t=145)** So I'm just going to ask [[Microsoft Copilot|Copilot]].
 >
 > **[2:29](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980&t=149)** Line 23 and 34 are the same.
 >
@@ -1599,13 +1582,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6)
 > **Env Vars:** url (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Running tests in CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980)
+#### [Running tests in CI/CD](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,9 +1597,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=6)** But they only work if they are run regularly, and that's where CI/CD comes in.
 >
-> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=12)** If you aren't familiar, CI/CD, continuous integration and continuous delivery, is a dev practice that enables shipping small changes quickly to production.
+> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=12)** If you aren't familiar, CI/CD, [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], is a dev practice that enables shipping small changes quickly to production.
 >
-> **[0:23](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=23)** There are many courses and videos about CI/CD here on LinkedIn Learning.
+> **[0:23](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=23)** There are many courses and videos about CI/CD here on [[LinkedIn]] Learning.
 >
 > **[0:28](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=28)** Now part of using CI/CD requires shipping bug-free code.
 >
@@ -1625,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=33)** I know that's not actually a thing, but there is an entire class of bugs we can avoid with automated testing, that is, new regressions.
 >
-> **[0:43](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=43)** I'm going to focus on GitHub Actions but only for syntax.
+> **[0:43](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=43)** I'm going to focus on [[GitHub]] Actions but only for syntax.
 >
 > **[0:46](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=46)** There are many CI/CD providers.
 >
@@ -1649,7 +1631,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=90)** GitHub Actions are always YAML files.
 >
-> **[1:34](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=94)** And I'll ask Copilot.
+> **[1:34](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=94)** And I'll ask [[Microsoft Copilot|Copilot]].
 >
 > **[1:39](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=99)** This is a GitHub Action file.
 >
@@ -1659,7 +1641,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=123)** It assumed pull requests to branches of main.
 >
-> **[2:08](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=128)** This is using an older version of PHP, and running PHP unit after composer install.
+> **[2:08](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=128)** This is using an older version of [[PHP]], and running PHP unit after composer install.
 >
 > **[2:18](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/running-tests-in-ci-cd?u=76281980&t=138)** This is pretty close to what I expected.
 >
@@ -1681,7 +1663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (7), cd (7), [[GitHub]] (5), [[PHP]] (3), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[PHP]] (3), [[Microsoft Copilot|Copilot]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cd (7), php (3), find (2), composer (1)
 > **Env Vars:** yaml (4), php (3)
 > **Tools:** github (5)
@@ -1689,8 +1671,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limiting risk by limiting exposure
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980)
+#### [Limiting risk by limiting exposure](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,7 +1687,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=27)** He's the originator of the idea.
 >
-> **[0:30](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=30)** In the first chapter of his book, he walks through an example on dealing with money in an e-commerce app.
+> **[0:30](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=30)** In the first chapter of his book, he walks through an example on dealing with money in an [[E-Commerce]] app.
 >
 > **[0:36](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=36)** One of the things that surprised me was how much structure was underlying the logic on the front end.
 >
@@ -1792,11 +1773,11 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=257)** Personally, I like to commit this list in the repo, but even keeping it in a local document is helpful.
 >
-> **[4:24](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=264)** I encourage you to go try and write some tests for this feature, or rather I encourage you to go ask Copilot to write some tests for this feature.
+> **[4:24](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/limiting-risk-by-limiting-exposure?u=76281980&t=264)** I encourage you to go try and write some tests for this feature, or rather I encourage you to go ask [[Microsoft Copilot|Copilot]] to write some tests for this feature.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[E-Commerce]] (1), hr (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdd (1)
 > **Analogies:** just like (1)
@@ -1807,26 +1788,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=0)** - You did it, way to go.
 >
-> **[0:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=3)** If you haven't already, install GitHub Copilot in your IDE and start writing code with the help of AI.
+> **[0:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=3)** If you haven't already, install [[GitHub Copilot]] in your IDE and start writing code with the help of AI.
 >
 > **[0:10](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=10)** Better yet, write automated tests first, then write code.
 >
-> **[0:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=14)** If PHP is your language of choice, check out my course, Writing and Refactoring Testable PHP.
+> **[0:14](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=14)** If [[PHP]] is your language of choice, check out my course, Writing and Refactoring Testable PHP.
 >
-> **[0:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=20)** If you prefer another language, there are tons of courses on test-driven development in the library.
+> **[0:20](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=20)** If you prefer another language, there are tons of courses on [[Test-Driven Development]] in the library.
 >
-> **[0:26](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=26)** I'd love to see the cool stuff you're building, so follow me on LinkedIn.
+> **[0:26](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980&t=26)** I'd love to see the cool stuff you're building, so follow me on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub Copilot]] (1), ai (1), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[GitHub Copilot]] (1), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (2), ide (1)
 > **CLI Commands:** php (2)
 > **Tools:** github (1)

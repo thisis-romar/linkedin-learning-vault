@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
+#### [Introduction to R](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980&t=2)** Employers are seeking professionals with R skills and this course helps you grow your knowledge of R.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980&t=9)** Hi, I'm Megan Silvey, a data science consultant, and I enjoy using data to solve real world problems.
+> **[0:09](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980&t=9)** Hi, I'm Megan Silvey, a [[Data Science]] consultant, and I enjoy using data to solve real world problems.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980&t=16)** I invite you to join me in this course where you'll use R to analyze sales data in a hands-on project.
 >
@@ -112,12 +111,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,13 +127,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980&t=19)** You'll also want to be familiar with how to use R Studio since this application is the one I will suggest you use to run your R code.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980&t=27)** Finally, you'll want to have a GitHub account to access the code and data used in this course.
+> **[0:27](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980&t=27)** Finally, you'll want to have a [[GitHub]] account to access the code and data used in this course.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-your-first-project-in-r/what-you-should-know?u=76281980&t=32)** In the next video, I will show you how to use R Studio.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
@@ -143,12 +141,11 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [narrator] (1)
 
-#### RStudio
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980)
+#### [RStudio](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=0)** - [Instructor] In this video, I will show you how to use GitHub and RStudio for this course.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=0)** - [Instructor] In this video, I will show you how to use [[GitHub]] and [[RStudio]] for this course.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=5)** Let's begin by explaining the GitHub repo for this course.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=174)** Sometimes it'll detect the version you need.
 >
-> **[2:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=176)** Other times it'll take you to this page, so you'll either need to download R for Linux, macOS, or Windows depending on what type of computer you are using.
+> **[2:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=176)** Other times it'll take you to this page, so you'll either need to download R for [[Linux]], macOS, or [[Windows]] depending on what type of computer you are using.
 >
 > **[3:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/rstudio?u=76281980&t=185)** For me, I'm using a Mac, so I will go down here, and generally the top option is the one you'll want to select.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[RStudio]] (8), [[Windows]] (3), [[Programming]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[RStudio]] (8), [[Windows]] (3), [[Linux]] (1)
 > **UI Navigation:** go to (8), click on (3), scroll down (1), select the (1)
 > **Exercise Files:** github repo (6), zip file (2), download the (2)
 > **Tools:** github (8), terminal (1)
@@ -302,8 +299,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Red30 Tech
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
+#### [Introducing Red30 Tech](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,13 +313,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=25)** Red30 Tech is a fictitious company that provides technology and business driven solutions to individuals and businesses alike.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=32)** The solutions they provide are focused in a variety of areas such as cloud computing, security, artificial intelligence, and migrations.
+> **[0:32](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=32)** The solutions they provide are focused in a variety of areas such as [[Cloud Computing]], security, [[Artificial Intelligence (AI)|artificial intelligence]], and migrations.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=41)** You can navigate to Red30 Tech's website by going to the URL [Red30tech.com](https://Red30tech.com).
 >
 > **[0:47](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=47)** Once you navigate to the website, you should see the homepage of Red30 Tech.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=51)** The homepage shows a few menu options to view their products, learn more about Red30 Tech, Red30 Tech AEC, a way to contact them and their new section.
+> **[0:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=51)** The homepage shows a few menu options to view their [[Microsoft Products|products]], learn more about Red30 Tech, Red30 Tech [[AEC]], a way to contact them and their new section.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=64)** If you look at the products, you'll see they have all the different products listed out, such as AI and machine learning, cloud computing, migrations, and so on.
 >
@@ -335,11 +331,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=99)** Take a minute to explore the product pages for the different technology and business products provided to Red30 Tech's customers.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=106)** Once you get yourself familiar with the company Red30 Tech, you're ready to explore the dataset you'll be analyzing and running machine learning algorithms on.
+> **[1:46](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980&t=106)** Once you get yourself familiar with the company Red30 Tech, you're ready to explore the dataset you'll be analyzing and running machine learning [[Algorithms]] on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), cloud (2), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Cloud Computing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[AEC]] (1), [[Algorithms]] (1)
 > **UI Navigation:** navigate to (3), click on (1), scroll down (1), go to (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** url (1), aec (1)
@@ -347,8 +343,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding Red30 Tech data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980)
+#### [Understanding Red30 Tech data](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=13)** You'll begin by using the function getwd to get your current working directory.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=19)** So if we run this code, you'll see my working directory is Users/LinkedIn/Documents/R Course Coding, and Chapter 1.
+> **[0:19](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=19)** So if we run this code, you'll see my working directory is Users/[[LinkedIn]]/Documents/R Course Coding, and Chapter 1.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=27)** This will be different for you depending on where R studio is pointing to on your computer and where your coding file is stored.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=123)** So with the Red 30 tech sales data, there's only one dataset that you'll be using in your analysis.
 >
-> **[2:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=130)** Since this data set is in an Excel file, you'll want to use the openxlsx package.
+> **[2:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=130)** Since this data set is in an [[Microsoft Excel|Excel]] file, you'll want to use the openxlsx package.
 >
 > **[2:17](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-red30-tech-data?u=76281980&t=137)** Please note that you may need to use the xlsx package if you use an older version of R.
 >
@@ -444,15 +439,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (5), [[Microsoft Excel|Excel]] (4), next (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[LinkedIn]] (1)
 > **Prerequisites:** install (9)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to perform basic descriptive analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980)
+#### [How to perform basic descriptive analysis](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +478,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980&t=83)** To begin your analysis, you will use the summary function on your data set, so you'll do summary and sales.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980&t=90)** What this method will do is provide you a set of descriptive statistics for your data, and note that this is just one method you can use, but this one is a very common one to use.
+> **[1:30](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980&t=90)** What this method will do is provide you a set of descriptive [[Statistics]] for your data, and note that this is just one method you can use, but this one is a very common one to use.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-perform-basic-descriptive-analysis?u=76281980&t=100)** So when you run this, you could see you have the basic descriptive statistics for your dataset for all those different columns.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Statistics]] (2), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Warnings:** note that (5)
 > **Prerequisites:** before you begin (2), install (2), you'll need (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -557,8 +551,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to find top customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980)
+#### [How to find top customers](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=23)** To do this, you could do the install packages and you want to install D-Pryer.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=31)** This package will be useful later on in the code to use it for data manipulation.
+> **[0:31](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=31)** This package will be useful later on in the code to use it for [[Data Manipulation]].
 >
 > **[0:37](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=37)** Once it is installed, you can import the package using the library and again, look at the DLI package to load in.
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=102)** You can copy and paste this code below, and change order total to be quantity.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=110)** When you run this and scroll over, you could see the top customers are Treutel Group, Walsh Inc, and Jenkins LLC.
+> **[1:50](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=110)** When you run this and scroll over, you could see the top customers are Treutel Group, Walsh Inc, and [[Jenkins]] LLC.
 >
 > **[1:57](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-find-top-customers?u=76281980&t=117)** If you scroll over a little bit more, you can again see the quantities are much higher and again, they tear down from there.
 >
@@ -650,14 +643,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Data Manipulation]] (2), business (1), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (2), [[Jenkins]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** llc (2), dli (1)
 > **Prerequisites:** install (2), make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to better understand customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980)
+#### [How to better understand customers](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980&t=186)** So when you run this, you'll see that California has the highest number of orders made with 386, and then there's Florida, Texas, and so on.
 >
-> **[3:18](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980&t=198)** Next, you will use the table function on the product category compared to other columns to see what kinds of customers are purchasing which products.
+> **[3:18](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980&t=198)** Next, you will use the table function on the product category compared to other columns to see what kinds of customers are purchasing which [[Microsoft Products|products]].
 >
 > **[3:26](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-better-understand-customers?u=76281980&t=206)** So we'll begin by using table and we want to look at the sales dataset and the CustomerType column and we'll compare this against the product category column.
 >
@@ -735,14 +727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (3), next (2), business (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Code Identifiers:** group_by (1), ebooks (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to analyze sales employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-analyze-sales-employees?u=76281980)
+#### [How to analyze sales employees](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-analyze-sales-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,11 +825,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-analyze-sales-employees?u=76281980&t=315)** When you run this, you'll notice that different sales titles tend to be grouped in kind of different regions, so there might be certain preferences to use these certain titles in those regions.
 >
-> **[5:25](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-analyze-sales-employees?u=76281980&t=325)** Now you should have a better understanding overall of the employees who sell products to RED30 Tech customers.
+> **[5:25](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-analyze-sales-employees?u=76281980&t=325)** Now you should have a better understanding overall of the employees who sell [[Microsoft Products|products]] to RED30 Tech customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (3), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** true (2), red30 (1)
 > **Code Identifiers:** group_by (1), mean_sales (1)
@@ -846,12 +837,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to determine the best product category
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-determine-the-best-product-category?u=76281980)
+#### [How to determine the best product category](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-determine-the-best-product-category?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-determine-the-best-product-category?u=76281980&t=0)** - [Instructor] Red30 Tech wants to know what their best product category is to know where to focus on adding future products.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-determine-the-best-product-category?u=76281980&t=0)** - [Instructor] Red30 Tech wants to know what their best product category is to know where to focus on adding future [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-determine-the-best-product-category?u=76281980&t=6)** Like with customers, there are a variety of ways you can determine what the best product category is.
 >
@@ -939,15 +929,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), data (4), next (3), [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** ebooks (8)
 > **CLI Commands:** make (3), cat (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Customer longevity analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-customer-longevity-analysis?u=76281980)
+#### [Challenge: Customer longevity analysis](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-customer-longevity-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,15 +974,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), business (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** dplyr (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Customer longevity analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-customer-longevity-analysis?u=76281980)
+#### [Solution: Customer longevity analysis](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-customer-longevity-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,7 +1042,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dli (1)
@@ -1067,12 +1053,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding classification analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
+#### [Understanding classification analysis](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=0)** - [Narrator] In this chapter, you'll focus on using classification machine learning algorithms to predict the payment status for red 30 text customers.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=0)** - [Narrator] In this chapter, you'll focus on using classification machine learning [[Algorithms]] to predict the payment status for red 30 text customers.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=8)** Let's begin by doing a quick lesson on classification analysis and the three algorithms you'll program throughout the following videos.
 >
@@ -1092,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=64)** You'll focus on classifying data with training and testing data to predict the payment status.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=70)** There are multiple algorithms that can be used for this, such as logistic regression, decision trees, random forests, support vector machines, and neural networks.
+> **[1:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=70)** There are multiple algorithms that can be used for this, such as [[Logistic Regression]], [[Decision Trees]], random forests, support vector machines, and [[Neural Networks]].
 >
 > **[1:21](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980&t=81)** The three algorithms you will use in this course to classify are decision trees, random forest, and support vector machines.
 >
@@ -1146,19 +1131,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (10), data (10), [[Decision Trees]] (7), node (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (10), [[Decision Trees]] (7), [[Logistic Regression]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** node (3), find (1)
 > **Definitions:** known as (2), is called (1), is a  (1)
 > **Env Vars:** svm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to prepare data for classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980)
+#### [How to prepare data for classification](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=0)** - [Instructor] To begin your classification analysis, you will need to do a few things to prepare the data for the machine learning algorithms.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=0)** - [Instructor] To begin your classification analysis, you will need to do a few things to prepare the data for the machine learning [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=8)** First, make sure you run the top section of your code to load in the data.
 >
@@ -1194,7 +1178,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=147)** For this project, you will only use a subset of the data to perform your classification.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=152)** It is common to not use a whole data set when classifying data, since there are often columns that are unnecessary or cumbersome to use in algorithms, I suggest you take time on your own to research feature engineering, which is a process used to narrow down which variables to use for machine learning.
+> **[2:32](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=152)** It is common to not use a whole data set when classifying data, since there are often columns that are unnecessary or cumbersome to use in algorithms, I suggest you take time on your own to research [[Feature Engineering]], which is a process used to narrow down which variables to use for machine learning.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-classification?u=76281980&t=166)** In this course, I have hand selected the columns you will use.
 >
@@ -1264,15 +1248,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Algorithms]] (4), next (2), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Feature Engineering]] (1)
 > **UI Navigation:** scroll down (4), select the (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** sales_subset (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to run a decision tree algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980)
+#### [How to run a decision tree algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,9 +1263,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=4)** Let's begin with making a decision_tree classification algorithm.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=8)** Begin by running the two blocks of code at the top of your data to load in your data and do all the data preparation you did in the previous video.
+> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=8)** Begin by running the two blocks of code at the top of your data to load in your data and do all the [[Data Preparation]] you did in the previous video.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=17)** Next, you'll be installing and loading three RStudio packages to create this decision_tree.
+> **[0:17](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=17)** Next, you'll be installing and loading three [[RStudio]] packages to create this decision_tree.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=23)** The first package you'll be loading and installing is the tidymodels package.
 >
@@ -1290,7 +1273,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=36)** The next package is going to be the rpart package.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=41)** This package can be used to run decision_tree algorithms.
+> **[0:41](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=41)** This package can be used to run decision_tree [[Algorithms]].
 >
 > **[0:46](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-decision-tree-algorithm?u=76281980&t=46)** Finally, you'll be loading in the rpart.plot package.
 >
@@ -1404,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (6), [[Algorithms]] (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Algorithms]] (2), [[RStudio]] (1)
 > **Code Identifiers:** decision_tree (14), df_recipe (2), tree_wf (2), predresults (2), test_pred_tree (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
@@ -1413,8 +1396,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 
-#### How to run a random forest algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980)
+#### [How to run a random forest algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1472,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980&t=219)** So when you run this, you can scroll all the way over to the right to again see the Payment.Status and the test_pred_rf columns and compare them to see how they are the same and how they differ from each other.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980&t=231)** Note that you don't plot random forest since they are composed of many decision trees and hence would be overwhelming to view.
+> **[3:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980&t=231)** Note that you don't plot random forest since they are composed of many [[Decision Trees]] and hence would be overwhelming to view.
 >
 > **[3:57](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-random-forest-algorithm?u=76281980&t=237)** So this is where we will stop with this algorithm.
 >
@@ -1498,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **Code Identifiers:** predresults (3), df_recipe (2), rand_forest (2), tree_rand_forest (2), test_pred_rf (2)
 > **Prerequisites:** you'll need (2), install (1)
 > **Cross-References:** previous video (1), in the last (1)
@@ -1507,8 +1489,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to run a support vector machine algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980)
+#### [How to run a support vector machine algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,11 +1527,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=104)** Other options are polynomial, which is a generalized version of the linear kernel radial, which is great for non-linear data.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=112)** And finally, sigmoid, which is preferred to be used for neural networks.
+> **[1:52](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=112)** And finally, sigmoid, which is preferred to be used for [[Neural Networks]].
 >
 > **[1:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=116)** So you run this to build your model, and again, like last time, you could get a summary of your classifier variable.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=125)** This one though, does give a little bit more information than the decision tree in random forest algorithms.
+> **[2:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=125)** This one though, does give a little bit more information than the decision tree in random forest [[Algorithms]].
 >
 > **[2:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-support-vector-machine-algorithm?u=76281980&t=130)** Here you could see some information about the algorithm with how it was built, along with the number of support vectors, and how many values it classified in each of the three categories, so that would be Current, Late, and Paid along with the three different classes.
 >
@@ -1570,21 +1551,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), next (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Neural Networks]] (1)
 > **Env Vars:** svm (4)
 > **Definitions:** is a  (2), known as (1)
 > **Code Identifiers:** test_pred_svm (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding summary metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980)
+#### [Understanding summary metrics](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980&t=0)** - [Narrator] Now that you know how to create decision trees, random force, and SVMs, it is time for you to learn how to evaluate them.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980&t=0)** - [Narrator] Now that you know how to create [[Decision Trees]], random force, and SVMs, it is time for you to learn how to evaluate them.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980&t=8)** You'll be creating confusion matrices and gathering summary metrics for each of the three algorithms.
+> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980&t=8)** You'll be creating confusion matrices and gathering summary metrics for each of the three [[Algorithms]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-summary-metrics?u=76281980&t=14)** Let's take a moment to understand these concepts.
 >
@@ -1630,18 +1610,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Algorithms]] (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Decision Trees]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to decide which algorithm is best
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-decide-which-algorithm-is-best?u=76281980)
+#### [How to decide which algorithm is best](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-decide-which-algorithm-is-best?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-decide-which-algorithm-is-best?u=76281980&t=0)** - [Instructor] Let's begin evaluating those different classification algorithms you made earlier.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-decide-which-algorithm-is-best?u=76281980&t=0)** - [Instructor] Let's begin evaluating those different classification [[Algorithms]] you made earlier.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-decide-which-algorithm-is-best?u=76281980&t=5)** First, you'll be running some different blocks of code, so you'll be loading and prepping the data, loading in your different packages and running the different algorithms you created earlier.
 >
@@ -1703,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), next (3)
+> **Frameworks & Libraries:** [[Algorithms]] (4)
 > **Code Identifiers:** test_pred_tree (2), dt_metrics (2), test_pred_rf (2), conf_mat (1), metric_set (1)
 > **Env Vars:** svm (4)
 > **Versions:** 0.704 (1), 0.6945 (1), 0.713 (1)
@@ -1712,12 +1691,11 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Analogies:** for example (1)
 
-#### How to improve the chosen algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980)
+#### [How to improve the chosen algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=0)** - [Instructor] It is customary to tune machine learning algorithms to see if they can be improved for better performance.
+> **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=0)** - [Instructor] It is customary to tune machine learning [[Algorithms]] to see if they can be improved for better performance.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=6)** There are multiple methods that can be used to tune algorithms in r, but I will show you one method in this course for the SVM algorithm.
 >
@@ -1739,7 +1717,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=71)** So for cost, you'll set the values to equal to c and then parentheses.
 >
-> **[1:15](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=75)** So what this will do is it will compose a list of values to use for cost.
+> **[1:15](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=75)** So what this will do is it will [[Jetpack Compose|compose]] a list of values to use for cost.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=80)** Let's use the values 1, 5, 10, 20, and 100.
 >
@@ -1789,7 +1767,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=226)** You'll be equaling this to the SVM function to build your SVM.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=231)** And again, you'll be running this on the payment status against the rest of the columns in your data.
+> **[3:51](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=231)** And again, you'll be running this on the payment status against the [[Representational State Transfer (REST)|rest]] of the columns in your data.
 >
 > **[3:57](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-improve-the-chosen-algorithm?u=76281980&t=237)** You'll have your data equal to your training data.
 >
@@ -1831,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** svm (10)
 > **Versions:** 0.01 (3), 0.1 (2), 0.5 (1)
 > **Code Identifiers:** new_classifier (1), f_meas (1)
@@ -1840,14 +1818,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Explore the chosen algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980)
+#### [Challenge: Explore the chosen algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980&t=0)** - [Instructor] It's time for another challenge.
 >
-> **[0:02](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980&t=2)** I want you to get some more practice tuning SVM algorithms while exploring the other kernels you can use.
+> **[0:02](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980&t=2)** I want you to get some more practice tuning SVM [[Algorithms]] while exploring the other kernels you can use.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-explore-the-chosen-algorithm?u=76281980&t=8)** In this challenge, you'll tune the SVM algorithm using the sigmoid kernel.
 >
@@ -1883,15 +1860,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** svm (3), obj (1)
 > **Versions:** 0.01 (1), 0.1 (1), 0.5 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Explore the chosen algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980)
+#### [Solution: Explore the chosen algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,7 +1915,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=181)** When you run this, you'll now have your new tuned SVM model.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=184)** Go ahead and run the rest of this code to get your different summary metrics and the confusion matrix.
+> **[3:04](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=184)** Go ahead and run the [[Representational State Transfer (REST)|rest]] of this code to get your different summary metrics and the confusion matrix.
 >
 > **[3:10](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=190)** So if you run this here, you'll see the results for the SVM algorithm that you made and how it classified the different current, late, and paid payment statuses.
 >
@@ -1961,11 +1937,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=266)** If you struggled or weren't able to get the code to run on your own, that is totally okay.
 >
-> **[4:31](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=271)** I encourage you to take time on your own to continue exploring how to create and tune classification algorithms.
+> **[4:31](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-explore-the-chosen-algorithm?u=76281980&t=271)** I encourage you to take time on your own to continue exploring how to create and tune classification [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Env Vars:** svm (8)
 > **Versions:** 0.01 (3), 0.1 (1), 0.5 (1)
 > **Code Identifiers:** test_pred_svm (1), test_pred_svm_new (1)
@@ -1979,14 +1955,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
+#### [Understanding cluster analysis](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=0)** - [Instructor] In this chapter, you'll perform a cluster analysis to evaluate the orders made from Red30 Tech.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=6)** Let's begin by doing a quick lesson on cluster analysis and the three algorithms you'll be using throughout the following videos.
+> **[0:06](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=6)** Let's begin by doing a quick lesson on cluster analysis and the three [[Algorithms]] you'll be using throughout the following videos.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=15)** Cluster analysis groups or clusters data based on similarities found in the data.
 >
@@ -2026,7 +2001,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=172)** The last algorithm is the Gaussian mixture model, also known as GMM.
 >
-> **[2:57](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=177)** GMM is a probabilistic model that generates probabilities for each data point and assigns each data point to the cluster with the highest probability value.
+> **[2:57](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=177)** GMM is a probabilistic model that generates probabilities for each data point and assigns each data point to the cluster with the highest [[Probability]] value.
 >
 > **[3:07](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980&t=187)** This algorithm will also need to have the number of clusters specified before running it.
 >
@@ -2052,7 +2027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Algorithms]] (8), next (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Probability]] (1)
 > **Env Vars:** aic (7), bic (6), wss (2), gmm (2)
 > **Definitions:** known as (5), is a  (4)
 > **Analogies:** such as (1), similar to (1), just like (1)
@@ -2060,8 +2035,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to prepare data for clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980)
+#### [How to prepare data for clustering](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2123,7 +2097,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980&t=230)** Finally, you will scale the data to have all values be between zero and one by using a normalization technique.
 >
-> **[3:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980&t=236)** This will ensure that algorithms do not put any weight on columns that have larger ranges of numeric values.
+> **[3:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980&t=236)** This will ensure that [[Algorithms]] do not put any weight on columns that have larger ranges of numeric values.
 >
 > **[4:03](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-prepare-data-for-clustering?u=76281980&t=243)** You'll use the caret package again with the pre-process function.
 >
@@ -2141,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Code Identifiers:** sales_subset (4), dummy_var (2), scaled_data (2), dummyvars (1)
 > **Prerequisites:** install (3), you'll need (1)
 > **CLI Commands:** make (2), find (1)
@@ -2150,8 +2124,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Warnings:** note that (1)
 
-#### How to run a k-means algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-k-means-algorithm?u=76281980)
+#### [How to run a k-means algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-k-means-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,15 +2230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (5)
 > **Versions:** 0.14 (2), 14.1 (1), 0.124 (1), 0.15 (1)
 > **Code Identifiers:** scaled_data (2), fviz_nbclust (1), fvis_silhouette (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to run a hierarchical clustering algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-hierarchical-clustering-algorithm?u=76281980)
+#### [How to run a hierarchical clustering algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-hierarchical-clustering-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2365,7 +2336,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15)
 > **Code Identifiers:** distance_matrix (2), scaled_data (2), sub_grp (2), distance_mat (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 0.15 (1), 0.12 (1)
@@ -2373,9 +2343,9 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
 
-#### How to run a GMM clustering algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980)
+#### [How to run a GMM clustering algorithm](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2455,13 +2425,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=230)** Again, it should be either 1, 2, or 3 because there are three clusters in the data.
 >
-> **[3:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=236)** Since this is not very easy to read or understand with the rest of the data, let's add it into the final data set.
+> **[3:56](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=236)** Since this is not very easy to read or understand with the [[Representational State Transfer (REST)|rest]] of the data, let's add it into the final data set.
 >
 > **[4:03](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=243)** To do this, you'll begin by converting gmm_cluster into a list.
 >
 > **[4:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=248)** You could do this and let's call it dt, and use data.table and use as.data.table on gmm_cluster.
 >
-> **[4:21](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=261)** And then you can have the keep.rownames="word".
+> **[4:21](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=261)** And then you can have the keep.rownames="[[Microsoft Word|word]]".
 >
 > **[4:30](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=270)** You can check the type of DT to make sure that it was converted appropriately, which it looks like when you run it, it's a list which is exactly what you need.
 >
@@ -2485,7 +2455,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=344)** It looks like these clusters are fairly evenly distributed with none of the clusters having a much larger or much smaller amount than the others.
 >
-> **[5:54](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=354)** Finally, let's get one last silhouette score to compare how well this algorithm did versus the k-means and hierarchical algorithms.
+> **[5:54](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=354)** Finally, let's get one last silhouette score to compare how well this algorithm did versus the k-means and hierarchical [[Algorithms]].
 >
 > **[6:02](https://www.linkedin.com/learning/complete-your-first-project-in-r/how-to-run-a-gmm-clustering-algorithm?u=76281980&t=362)** Like last time, you'll use the fviz_silhouette function and use the silhouette function.
 >
@@ -2513,7 +2483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (2), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gmm (10), bic (8), aic (4)
 > **Code Identifiers:** gmm_cluster (7), scaled_data (5), final_data (4), opt_gmm (1), fviz_silhouette (1)
 > **Versions:** 0.03 (1), 0.15 (1), 0.14 (1), 0.1 (1)
@@ -2522,8 +2492,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), similar to (1), compare this to (1)
 > **Cross-References:** in the next (1)
 
-#### Evaluating cluster results
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/evaluating-cluster-results?u=76281980)
+#### [Evaluating cluster results](https://www.linkedin.com/learning/complete-your-first-project-in-r/evaluating-cluster-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2609,7 +2578,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** kms (1)
@@ -2617,8 +2585,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Clustering late payment customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980)
+#### [Challenge: Clustering late payment customers](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2626,7 +2593,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980&t=5)** - [Instructor] Now you are ready for one last challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980&t=8)** Since you got some great practice running clustering algorithms, I will have you run a K-Means algorithm on the orders that have a late payment status.
+> **[0:08](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980&t=8)** Since you got some great practice running clustering [[Algorithms]], I will have you run a K-Means algorithm on the orders that have a late payment status.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-your-first-project-in-r/challenge-clustering-late-payment-customers?u=76281980&t=17)** This way, red 30 check can see if there are any certain patterns amongst orders who have a late payment status.
 >
@@ -2662,15 +2629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wss (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Clustering late payment customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980)
+#### [Solution: Clustering late payment customers](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2694,7 +2660,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980&t=49)** That is when you want to keep it in the data.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980&t=52)** Finally, make sure you add a comma at the end of this to make sure you keep the rest of the data with it.
+> **[0:52](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980&t=52)** Finally, make sure you add a comma at the end of this to make sure you keep the [[Representational State Transfer (REST)|rest]] of the data with it.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-your-first-project-in-r/solution-clustering-late-payment-customers?u=76281980&t=59)** When you run this, you'll see that there are only 714 rows of data left that have that late payment status.
 >
@@ -2764,7 +2730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** scaled_data (2), group_by (2), final_data (2), fviz_silhouette (1)
 > **Versions:** 0.15 (2), 13.3 (1), 0.16 (1)
 > **CLI Commands:** make (2)
@@ -2778,8 +2744,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2789,7 +2754,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980&t=12)** You can continue to analyze other data sets with R along with using machine learning techniques to classify and cluster data.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980&t=20)** You can post the project you completed in this course on your GitHub or LinkedIn to showcase your R skills to potential employers.
+> **[0:20](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980&t=20)** You can post the project you completed in this course on your [[GitHub]] or [[LinkedIn]] to showcase your R skills to potential employers.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980&t=27)** I would love to connect with you on LinkedIn and learn more about your experience with this course.
 >
@@ -2799,7 +2764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), data (3), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - that (1)

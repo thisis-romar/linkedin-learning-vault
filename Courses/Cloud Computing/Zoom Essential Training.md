@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay connected with Zoom meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
+#### [Stay connected with Zoom meetings](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980&t=0)** - Zoom video conferences give you and your team the ability to meet together from anywhere in the world where you have an internet connection.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980&t=0)** - [[Zoom]] video conferences give you and your team the ability to meet together from anywhere in the world where you have an internet connection.
 >
 > **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980&t=6)** Not only can you see and hear each other through Zoom meetings, but you can also share documents, present slideshows, and even record meetings so you can reference them later.
 >
@@ -110,12 +109,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access your account from the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
+#### [Access your account from the web](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980&t=0)** - [Instructor] As a member or employee of an organization that uses Zoom, your organization's administrator will create an account for you.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980&t=0)** - [Instructor] As a member or employee of an organization that uses [[Zoom]], your organization's administrator will create an account for you.
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980&t=7)** So let's start by taking a look at how to access your account and set up the Zoom software.
 >
@@ -145,19 +143,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (11), web (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (11)
 > **Prerequisites:** set up (2), you'll need (1), install (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** sso (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Download the desktop app
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980)
+#### [Download the desktop app](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=0)** - [Instructor] Okay, so we've seen how to log into your Zoom account through the web interface, but in order to join a meeting, you'll need to download a desktop app to your computer.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=0)** - [Instructor] Okay, so we've seen how to log into your [[Zoom]] account through the web interface, but in order to join a meeting, you'll need to download a desktop app to your computer.
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=7)** I'm going to open up another tab here and let's go to zoom.us/download.
 >
@@ -169,9 +166,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=23)** Now, the website automatically detected that I'm on a Mac.
 >
-> **[0:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=25)** If you're on Windows, you'll download the Windows version automatically, but here I'm downloading the Mac installer.
+> **[0:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=25)** If you're on [[Windows]], you'll download the Windows version automatically, but here I'm downloading the Mac installer.
 >
-> **[0:30](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=30)** Now, there are also mobile Zoom apps for iOS and Android phones and tablets, which you can download from the app store and the Google Play Store.
+> **[0:30](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=30)** Now, there are also mobile Zoom apps for iOS and [[Android]] phones and tablets, which you can download from the app store and the [[Google]] Play Store.
 >
 > **[0:37](https://www.linkedin.com/learning/zoom-essential-training-22160448/download-the-desktop-app?u=76281980&t=37)** If you don't download the Zoom app now, it'll download the first time you try to join a Zoom meeting.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (11), [[Windows]] (2), web (1), [[Android]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (11), [[Windows]] (2), [[Android]] (1), [[Google]] (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** install (2), you'll need (1)
 > **CLI Commands:** make (2)
@@ -218,18 +215,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 
-#### Check your video and audio settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980)
+#### [Check your video and audio settings](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=0)** - [Instructor] Now, it may seem obvious, but if you want to join or host a Zoom meeting, you'll need at least a microphone if you want to be heard and a camera, if it's a video meeting and you want to be seen as well.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=0)** - [Instructor] Now, it may seem obvious, but if you want to join or host a [[Zoom]] meeting, you'll need at least a microphone if you want to be heard and a camera, if it's a video meeting and you want to be seen as well.
 >
 > **[0:10](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=10)** Most laptops and many desktop computers have those built in.
 >
 > **[0:13](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=13)** And if you don't have them built in, you can connect an inexpensive USB webcam and that will add a camera and a microphone at the same time.
 >
-> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=20)** But it's a really good idea to test your system to make sure the camera, microphone, and other hardware are compatible and working with Zoom.
+> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=20)** But it's a really good idea to test your system to make sure the camera, microphone, and other [[Hardware]] are compatible and working with Zoom.
 >
 > **[0:27](https://www.linkedin.com/learning/zoom-essential-training-22160448/check-your-video-and-audio-settings?u=76281980&t=27)** And again, you should do this sort of thing well before you enter your first meeting, so you're not troubleshooting when you should be in your meeting.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[Hardware]] (1), [[Troubleshooting]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Hardware]] (1)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** select the (3)
 > **Analogies:** for example (3)
@@ -313,12 +309,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore virtual backgrounds and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980)
+#### [Explore virtual backgrounds and filters](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=0)** - [Instructor] In addition to the ability to enhance your appearance, Zoom also includes a virtual background feature, which allows you to place an image or even a video as your background during a meeting which can be useful when maybe you want to avoid letting other attendees see some clutter in the room behind you, or even if you just want to add some variety to your screen.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=0)** - [Instructor] In addition to the ability to enhance your appearance, [[Zoom]] also includes a virtual background feature, which allows you to place an image or even a video as your background during a meeting which can be useful when maybe you want to avoid letting other attendees see some clutter in the room behind you, or even if you just want to add some variety to your screen.
 >
 > **[0:17](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=17)** From here in the Zoom desktop app, we'll go into Settings and you select Background & Effects and here you'll find the selection of Zoom's built-in virtual backgrounds.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=77)** Now, there's also an option here to check if you have a green screen setup, which makes the virtual background work even better.
 >
-> **[1:23](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=83)** You can find small green screens that strapped to the back of office chairs for the purpose of using for virtual backgrounds.
+> **[1:23](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=83)** You can find small green screens that strapped to the back of [[Microsoft Office|office]] chairs for the purpose of using for virtual backgrounds.
 >
 > **[1:29](https://www.linkedin.com/learning/zoom-essential-training-22160448/explore-virtual-backgrounds-and-filters?u=76281980&t=89)** Now, you'll also find a video filters tab here, and in most cases, these are just for fun more than for use in business or professional meetings.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), business (2), feature (1), [[Microsoft Office|Office]] (1), express (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** go back to (1)
@@ -384,12 +379,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
+#### [Start a meeting](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=0)** - There are a couple of different ways to enter or join a Zoom meeting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=0)** - There are a couple of different ways to enter or join a [[Zoom]] meeting.
 >
 > **[0:03](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=3)** One way is to join a meeting that someone else has set up and invited you to.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=119)** And this is the meeting link that I can copy to my computer's clipboard.
 >
-> **[2:03](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=123)** And once that's copied, I could paste it into an email message or maybe through Teams or Slack if I use one of those services.
+> **[2:03](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=123)** And once that's copied, I could paste it into an email message or maybe through Teams or [[Slack]] if I use one of those services.
 >
 > **[2:10](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980&t=130)** Just so you can see what this looks like, I'm going to switch over to my text editing program and I'll just paste that in here and you can see what that address looks like.
 >
@@ -473,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), next (1), teams (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Slack]] (1)
 > **Speakers:** - there (1), - hi (1), - no (1), - all (1), - oh (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -482,12 +476,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 
-#### Join a meeting from your Zoom account
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980)
+#### [Join a meeting from your Zoom account](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=0)** - [Instructor] As a Zoom user, at some point, you'll probably be invited to join a meeting hosted by another Zoom user.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=0)** - [Instructor] As a [[Zoom]] user, at some point, you'll probably be invited to join a meeting hosted by another Zoom user.
 >
 > **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=6)** This invitation may come to you in one of several different ways, but essentially, what you need is either a web link or the meeting ID number for the meeting that you want to join.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=28)** Alternately, if you've been invited to join a meeting, you probably received an invitation in your email.
 >
-> **[0:32](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=32)** Just switch over to my Outlook inbox, and here I have this message from Nick inviting me to a meeting.
+> **[0:32](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=32)** Just switch over to my [[Microsoft Outlook|Outlook]] inbox, and here I have this message from Nick inviting me to a meeting.
 >
 > **[0:38](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-from-your-zoom-account?u=76281980&t=38)** If you use an online calendar system that your company has set up to integrate with Zoom, you may see an event on your online calendar as well with the same information.
 >
@@ -551,19 +544,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (12), web (4), [[Security]] (3), [[Microsoft Outlook|Outlook]] (2), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (12), [[Microsoft Outlook|Outlook]] (2)
 > **Prerequisites:** set up (6)
 > **Ports:** :30 (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join a meeting as a guest
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980)
+#### [Join a meeting as a guest](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=0)** - [Instructor] You don't need to have a Zoom account simply to join a Zoom meeting that someone else is hosting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=0)** - [Instructor] You don't need to have a [[Zoom]] account simply to join a Zoom meeting that someone else is hosting.
 >
 > **[0:04](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=4)** Maybe you're collaborating with people at an organization that uses Zoom and they need to include you in a video meeting.
 >
@@ -585,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=44)** I'll click open.
 >
-> **[0:46](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=46)** In this case, I'm prompted for the password, so I'll go back to Outlook, copy the password, and paste that in.
+> **[0:46](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=46)** In this case, I'm prompted for the password, so I'll go back to [[Microsoft Outlook|Outlook]], copy the password, and paste that in.
 >
 > **[0:58](https://www.linkedin.com/learning/zoom-essential-training-22160448/join-a-meeting-as-a-guest?u=76281980&t=58)** And at this point, I'll be led into the meeting if the host has already arrived, or I'll have to wait, like we see here, until the host starts the meeting.
 >
@@ -635,18 +627,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (10), [[Microsoft Outlook|Outlook]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (10), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Options during a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980)
+#### [Options during a meeting](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=0)** - [Instructor] In this video, I want to talk about some of the essential controls that you'll need to use during a Zoom meeting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=0)** - [Instructor] In this video, I want to talk about some of the essential controls that you'll need to use during a [[Zoom]] meeting.
 >
 > **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=5)** You can see that I already have a meeting active here with Jess and Nick and we just have everyone muted with their cameras off for this example, so we can focus on the controls I'm going to show you.
 >
@@ -710,13 +701,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=179)** For example, let's say that Jess walked away from her desk for a moment to answer the doorbell at her house and she accidentally left her camera on.
 >
-> **[3:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=185)** She's using Zoom on her phone, it's just pointing up at her ceiling now, maybe the microphone is on too and it's distracting the rest of the attendees.
+> **[3:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=185)** She's using Zoom on her phone, it's just pointing up at her ceiling now, maybe the microphone is on too and it's distracting the [[Representational State Transfer (REST)|rest]] of the attendees.
 >
 > **[3:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=192)** As the host, I can roll over her name and mute her microphone and I can disable her camera by clicking the More button and choosing Stop Video.
 >
 > **[3:22](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=202)** And now we can't see or hear anything from Jess again.
 >
-> **[3:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=205)** Now, although you can mute and turn off a participant's audio and video, you can never just turn them on without their permission, as that could be a big privacy issue.
+> **[3:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=205)** Now, although you can mute and turn off a participant's audio and video, you can never just turn them on without their permission, as that could be a big [[Privacy]] issue.
 >
 > **[3:33](https://www.linkedin.com/learning/zoom-essential-training-22160448/options-during-a-meeting?u=76281980&t=213)** So if I come back to the More menu, notice the option here is Ask to Start Video.
 >
@@ -808,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Zoom]] (3), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Privacy]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), switch to (1)
@@ -817,8 +808,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure your meeting with a Waiting Room
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980)
+#### [Secure your meeting with a Waiting Room](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980&t=31)** This feature is also very useful to keep out unwanted attendees by letting the host determine who can enter the meeting.
 >
-> **[0:36](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980&t=36)** Now, be aware that in some cases, your company's Zoom admin may set default security settings to enable or disable the waiting room for all accounts, so you might not be able to make the changes yourself.
+> **[0:36](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980&t=36)** Now, be aware that in some cases, your company's [[Zoom]] admin may set default security settings to enable or disable the waiting room for all accounts, so you might not be able to make the changes yourself.
 >
 > **[0:46](https://www.linkedin.com/learning/zoom-essential-training-22160448/secure-your-meeting-with-a-waiting-room?u=76281980&t=46)** But if you're permitted to do so, sign into the web portal, go to Settings, and right here at the top under Security, enable Waiting Room.
 >
@@ -908,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Zoom]] (4), [[Security]] (2), web (2), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **UI Navigation:** go to (2), checkbox (2), scroll down (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
@@ -917,18 +907,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share your screen and control screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980)
+#### [Share your screen and control screens](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=0)** - Zoom makes it easy to share your screen or just individual applications on your screen with the other participants of a meeting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=0)** - [[Zoom]] makes it easy to share your screen or just individual applications on your screen with the other participants of a meeting.
 >
-> **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=6)** This is especially useful if you need to share something like a PowerPoint presentation or maybe to demonstrate how a piece of software works.
+> **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=6)** This is especially useful if you need to share something like a [[Microsoft PowerPoint|PowerPoint]] presentation or maybe to demonstrate how a piece of software works.
 >
 > **[0:13](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=13)** So for example, right now I have a couple of different apps open.
 >
-> **[0:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=16)** I've got an Excel spreadsheet open, I've got a PowerPoint presentation, and I have a webpage open.
+> **[0:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=16)** I've got an [[Microsoft Excel|Excel]] spreadsheet open, I've got a PowerPoint presentation, and I have a webpage open.
 >
 > **[0:22](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=22)** Now I also have a Zoom meeting already in progress.
 >
@@ -994,7 +983,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=136)** This can be incredibly useful if you're helping someone troubleshoot a problem on their computer, instead of having to talk them through a series of steps, you can just take control and do it yourself.
 >
-> **[2:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=145)** So let's say for example that Nick was asking me about how to do something in Microsoft Word.
+> **[2:25](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=145)** So let's say for example that Nick was asking me about how to do something in [[Microsoft Word]].
 >
 > **[2:29](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=149)** Instead of trying to explain it over the phone or through text, it's much easier for me to just see what's happening on his screen.
 >
@@ -1006,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=167)** And as we saw earlier, Nick can choose to share his entire desktop or just a specific app.
 >
-> **[2:52](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=172)** In this case he's chosen to share just Word I believe, right?
+> **[2:52](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=172)** In this case he's chosen to share just [[Microsoft Word|Word]] I believe, right?
 >
 > **[2:55](https://www.linkedin.com/learning/zoom-essential-training-22160448/share-your-screen-and-control-screens?u=76281980&t=175)** - That's right.
 >
@@ -1066,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Word|Word]] (4), [[Zoom]] (3), [[Microsoft Excel|Excel]] (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Word|Word]] (4), [[Zoom]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word]] (1)
 > **Speakers:** - no (3), - all (3), - that (3), - right (3), - thanks (2)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** coming up (2), as we saw (1)
@@ -1074,12 +1063,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **UI Navigation:** switch to (1)
 
-#### Other sharing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980)
+#### [Other sharing options](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=0)** - [Instructor] In addition to sharing your screen or individual app windows, Zoom offers several other sharing options.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=0)** - [Instructor] In addition to sharing your screen or individual app [[Windows]], [[Zoom]] offers several other sharing options.
 >
 > **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=6)** Let's take a look at some of them by opening up the Share window again by clicking Share Screen.
 >
@@ -1111,7 +1099,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=113)** We also have a few options here under the Advanced tab.
 >
-> **[1:56](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=116)** The first option here allows you to use a PowerPoint presentation as a virtual background so I can choose that, upload a PowerPoint file.
+> **[1:56](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=116)** The first option here allows you to use a [[Microsoft PowerPoint|PowerPoint]] presentation as a virtual background so I can choose that, upload a PowerPoint file.
 >
 > **[2:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/other-sharing-options?u=76281980&t=127)** It takes a moment to do so.
 >
@@ -1135,18 +1123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), application (2), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[Windows]] (1)
 > **Code Identifiers:** iphone (4), ios (1), ipad (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Record and review meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/record-and-review-meetings?u=76281980)
+#### [Record and review meetings](https://www.linkedin.com/learning/zoom-essential-training-22160448/record-and-review-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/record-and-review-meetings?u=76281980&t=0)** - Sometimes it's useful to be able to record a Zoom meeting so you can review what was discussed in the meeting or for the benefit of people who weren't able to attend, but can then watch the meeting later.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/record-and-review-meetings?u=76281980&t=0)** - Sometimes it's useful to be able to record a [[Zoom]] meeting so you can review what was discussed in the meeting or for the benefit of people who weren't able to attend, but can then watch the meeting later.
 >
 > **[0:09](https://www.linkedin.com/learning/zoom-essential-training-22160448/record-and-review-meetings?u=76281980&t=9)** Recordings can be saved locally to the computer you're using for the meeting or you can have the meetings automatically save to the cloud in your Zoom account.
 >
@@ -1354,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Zoom]] (7), next (1), application (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (7)
 > **Speakers:** - [computer] (6), - and (3), - okay (3), - hello (2), - thanks (2)
 > **CLI Commands:** find (6)
 > **UI Navigation:** go to (5)
@@ -1367,8 +1354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Schedule a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
+#### [Schedule a meeting](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1362,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=9)** We touched on scheduling earlier but let's take a closer look now.
 >
-> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=12)** If you're logged into your account at [zoom.com](https://zoom.com), you can go to Meetings and here click Schedule a Meeting.
+> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=12)** If you're logged into your account at [[[Zoom]].com](https://zoom.com), you can go to Meetings and here click Schedule a Meeting.
 >
 > **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=20)** Alternately, we can go to the Zoom desktop app and here at the top select Meetings.
 >
@@ -1448,7 +1434,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=195)** Below that, you can choose what calendar type you'd like to add this meeting to or send the invite from.
 >
-> **[3:19](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=199)** We have Apple iCal, Google Calendar, Outlook or other calendars.
+> **[3:19](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=199)** We have Apple iCal, [[Google]] Calendar, [[Microsoft Outlook|Outlook]] or other calendars.
 >
 > **[3:24](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=204)** For this example, I'm going to choose Outlook.
 >
@@ -1508,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (8), next (5), [[Microsoft Outlook|Outlook]] (5), [[Security]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[Microsoft Outlook|Outlook]] (5), [[Google]] (1)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (2), open the (1)
@@ -1517,12 +1503,11 @@ created: 2026-05-02
 > **Code Identifiers:** ical (1)
 > **URLs:** [zoom.com](https://zoom.com) (1)
 
-#### Set co-host options
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/set-co-host-options?u=76281980)
+#### [Set co-host options](https://www.linkedin.com/learning/zoom-essential-training-22160448/set-co-host-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/set-co-host-options?u=76281980&t=0)** - [Presenter] Zoom gives you the ability to designate other participants as co-hosts in your meeting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/set-co-host-options?u=76281980&t=0)** - [Presenter] [[Zoom]] gives you the ability to designate other participants as co-hosts in your meeting.
 >
 > **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/set-co-host-options?u=76281980&t=5)** Your co-host can help you handle things like starting and stopping recordings, muting other participants.
 >
@@ -1580,7 +1565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), web (1), cloud (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
 > **Analogies:** just like (1), for example (1)
@@ -1591,8 +1576,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use non-verbal feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
+#### [Use non-verbal feedback](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,13 +1584,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=7)** It's tough to find the right moment to jump in when someone else is talking.
 >
-> **[0:11](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=11)** And oftentimes, someone else is waiting to get a word in, too, and you end up talking over each other, trying to figure out who should go next.
+> **[0:11](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=11)** And oftentimes, someone else is waiting to get a [[Microsoft Word|word]] in, too, and you end up talking over each other, trying to figure out who should go next.
 >
 > **[0:17](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=17)** Or the person speaking might ask the group something like, "Does everyone agree?"
 >
 > **[0:21](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=21)** and you end up with a bunch of people just nodding their heads in awkward silence.
 >
-> **[0:24](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=24)** So Zoom has a collection of useful tools that can be used to provide non-verbal feedback, letting the meeting host and other attendees know that you have something to say, and in this way, the host of the meeting can moderate responses and whose turn it is to talk without as many incidents of people trying to talk over each other.
+> **[0:24](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=24)** So [[Zoom]] has a collection of useful tools that can be used to provide non-verbal feedback, letting the meeting host and other attendees know that you have something to say, and in this way, the host of the meeting can moderate responses and whose turn it is to talk without as many incidents of people trying to talk over each other.
 >
 > **[0:39](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=39)** First, let's make sure the non-verbal tools are enabled.
 >
@@ -1644,7 +1628,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=137)** We also have buttons here to indicate to go slower or go faster.
 >
-> **[2:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=140)** And as we saw earlier, for times when participants want to react or respond to something the speaker is saying, but in a less formal way that doesn't require the host to clear the feedback, we have this top row of reactions, which briefly display these icons and emoji on the user's video area.
+> **[2:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=140)** And as we saw earlier, for times when participants want to [[React.js|react]] or respond to something the speaker is saying, but in a less formal way that doesn't require the host to clear the feedback, we have this top row of reactions, which briefly display these icons and emoji on the user's video area.
 >
 > **[2:34](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980&t=154)** And you can even click this three-dot or More button for an entire range of emoji.
 >
@@ -1670,7 +1654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (1), next (1), web (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1), open the (1)
 > **Analogies:** for example (3)
@@ -1679,14 +1663,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Poll your attendees
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980)
+#### [Poll your attendees](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=0)** - [Instructor] Sometimes during meetings, you want to ask some questions of your attendees, but it's often impractical to expect everyone in the meeting to verbally answer questions, especially if it's a large group, and it can also be time consuming.
 >
-> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=12)** So Zoom's polling tool can make it much easier to get an answer or opinion from everyone in the group, and it also allows everyone to see the results if you want.
+> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=12)** So [[Zoom]]'s polling tool can make it much easier to get an answer or opinion from everyone in the group, and it also allows everyone to see the results if you want.
 >
 > **[0:19](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=19)** On top of that, it can help to get responses from those who might not be completely comfortable speaking up in front of the entire meeting.
 >
@@ -1794,7 +1777,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=241)** Now another option we have here is to download the results.
 >
-> **[4:04](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=244)** That'll take me back to the Zoom web portal, where I can download the results as a CSV format if I wanted to place them into, say, an Excel spreadsheet.
+> **[4:04](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=244)** That'll take me back to the Zoom web portal, where I can download the results as a CSV format if I wanted to place them into, say, an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[4:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/poll-your-attendees?u=76281980&t=252)** So there's a lot you can do with polls here in Zoom.
 >
@@ -1802,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), web (2), feature (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), scroll down (1), open the (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** download the (2)
@@ -1811,8 +1794,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Create and use breakout rooms
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980)
+#### [Create and use breakout rooms](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1820,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980&t=9)** In real world meetings, you can send people off to different corners of the meeting room or to other smaller rooms with the tools they need to be productive.
 >
-> **[0:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980&t=16)** So similarly here in Zoom you can also create virtual breakout rooms.
+> **[0:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980&t=16)** So similarly here in [[Zoom]] you can also create virtual breakout rooms.
 >
 > **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/create-and-use-breakout-rooms?u=76281980&t=20)** You can then assign your attendees to specific rooms where they'll have access to all the audio, video, and screen sharing tools and they'll be able to collaborate with the other people in their room.
 >
@@ -1942,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1953,14 +1935,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chat outside of meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
+#### [Chat outside of meetings](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980&t=0)** - [Instructor] Zoom includes a chat feature that allows you to chat with others even when you're not in a meeting.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980&t=0)** - [Instructor] [[Zoom]] includes a chat feature that allows you to chat with others even when you're not in a meeting.
 >
-> **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980&t=5)** This feature is similar to other instant messaging services you may be familiar with like Slack or Microsoft Teams, and is a great way to keep in touch with and communicate with team members or other people when you need to discuss issues that don't necessarily require a live real-time meeting in Zoom.
+> **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980&t=5)** This feature is similar to other instant messaging services you may be familiar with like [[Slack]] or [[Microsoft Teams]], and is a great way to keep in touch with and communicate with team members or other people when you need to discuss issues that don't necessarily require a live [[Real-Time]] meeting in Zoom.
 >
 > **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980&t=20)** You'll find this team chat area here at the top of the Zoom desktop app.
 >
@@ -2074,7 +2055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), next (5), feature (2), [[Slack]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[Slack]] (1), [[Microsoft Teams]] (1), [[Real-Time]] (1)
 > **Analogies:** kind of like (1), for example (1), picture (1)
 > **CLI Commands:** find (2)
 > **Tools:** slack (1)
@@ -2082,12 +2063,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980)
+#### [Add attachments](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=0)** - [Instructor] Zoom Chat is a great way to send files to other Zoom users without having to rely on email attachments.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=0)** - [Instructor] [[Zoom]] Chat is a great way to send files to other Zoom users without having to rely on email attachments.
 >
 > **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=5)** You can send files that are up to 512 megabytes in size.
 >
@@ -2109,9 +2089,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=48)** Now, there are a couple of ways you can take a screenshot.
 >
-> **[0:51](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=51)** I have some Windows in other apps that I'll open.
+> **[0:51](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=51)** I have some [[Windows]] in other apps that I'll open.
 >
-> **[0:53](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=53)** For example, I have this window open here in my web browser and here's a Microsoft Word document and I'll bring Zoom back to the front.
+> **[0:53](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=53)** For example, I have this window open here in my web browser and here's a [[Microsoft Word]] document and I'll bring Zoom back to the front.
 >
 > **[1:02](https://www.linkedin.com/learning/zoom-essential-training-22160448/add-attachments?u=76281980&t=62)** So I'll click screenshot.
 >
@@ -2137,17 +2117,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (2), cloud (1), web (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (2), [[Microsoft Word]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize chats
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/organize-chats?u=76281980)
+#### [Organize chats](https://www.linkedin.com/learning/zoom-essential-training-22160448/organize-chats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/organize-chats?u=76281980&t=0)** - [Garrick] Zoom Chat provides a couple of options for keeping your chats organized so you can easily find and return to important conversations.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/organize-chats?u=76281980&t=0)** - [Garrick] [[Zoom]] Chat provides a couple of options for keeping your chats organized so you can easily find and return to important conversations.
 >
 > **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/organize-chats?u=76281980&t=6)** So far, I only have two chats here, one with Jess and one with Nick.
 >
@@ -2191,7 +2170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Zoom]] (2), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -2202,16 +2181,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of fostering inclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
+#### [The importance of fostering inclusion](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=0)** - [Instructor] I think it's safe to say that in the past two years or so, we've all used Zoom a lot more than we probably would've ever expected to.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=0)** - [Instructor] I think it's safe to say that in the past two years or so, we've all used [[Zoom]] a lot more than we probably would've ever expected to.
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=7)** When I recorded the first version of this course back in 2019, very few people had even heard of Zoom, but now Zoom has almost become a verb, and anyone who works in a business environment has spent plenty of time in Zoom or other digital meeting platforms.
 >
-> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=20)** And even as many companies have started bringing their employees back into the office, there are still a lot of people who may be uncomfortable going back full-time, and who prefer to continue taking advantage of the opportunity to work remotely from home or elsewhere, if their employer allows it.
+> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=20)** And even as many companies have started bringing their employees back into the [[Microsoft Office|office]], there are still a lot of people who may be uncomfortable going back full-time, and who prefer to continue taking advantage of the opportunity to work remotely from home or elsewhere, if their employer allows it.
 >
 > **[0:33](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=33)** This has created a new kind of hybrid work environment, with some employees on site and others remote, even when they're on the same teams.
 >
@@ -2219,7 +2197,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=53)** Being remote in a hybrid work environment has its own set of challenges.
 >
-> **[0:57](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=57)** Remote employees might feel isolated or marginalized when they call into a Zoom meeting where the rest of their colleagues are all in the same room.
+> **[0:57](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=57)** Remote employees might feel isolated or marginalized when they call into a Zoom meeting where the [[Representational State Transfer (REST)|rest]] of their colleagues are all in the same room.
 >
 > **[1:03](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980&t=63)** It can also be difficult for remote employees to find a place to speak during meetings when they're on Zoom and everyone else is talking face to face.
 >
@@ -2231,19 +2209,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), business (1), [[Microsoft Office|Office]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Helping remote employees feel seen and heard
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980)
+#### [Helping remote employees feel seen and heard](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980&t=0)** - [Instructor] So what are some strategies you can use to make sure remote employees can feel seen and heard during your meetings?
 >
-> **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980&t=6)** First of all, you can make sure each employee understands the Zoom tools we covered earlier which are intended to make it easier for each person to get the attention of the person running the meeting or other attendees.
+> **[0:06](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980&t=6)** First of all, you can make sure each employee understands the [[Zoom]] tools we covered earlier which are intended to make it easier for each person to get the attention of the person running the meeting or other attendees.
 >
 > **[0:16](https://www.linkedin.com/learning/zoom-essential-training-22160448/helping-remote-employees-feel-seen-and-heard?u=76281980&t=16)** So you'll want to make sure each a attendee is aware of the existence of the Raise hand tool.
 >
@@ -2289,8 +2266,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zoom-based icebreakers
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980)
+#### [Zoom-based icebreakers](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2274,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=7)** There are invisible hurdles in place in virtual meetings that aren't there or are at least less present in the meetings where everyone is in the same room.
 >
-> **[0:15](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=15)** For example, it's more difficult to interject when you're on Zoom because of the slight audio or video delays that might cause you to talk over someone else.
+> **[0:15](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=15)** For example, it's more difficult to interject when you're on [[Zoom]] because of the slight audio or video delays that might cause you to talk over someone else.
 >
 > **[0:22](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=22)** It can also be uncomfortable to interject over Zoom when everyone else is in a room together and no one has looked at the screen where the remote employees are.
 >
@@ -2306,7 +2282,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=38)** Now, some people like to play short icebreaking games or activities, but it doesn't even have to be something that involved.
 >
-> **[0:44](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=44)** By the way, you can do a Google search for Zoom icebreakers to find extensive lists of games and activities, but be aware that these sorts of things are themselves an uncomfortable interaction for many people.
+> **[0:44](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=44)** By the way, you can do a [[Google]] search for Zoom icebreakers to find extensive lists of games and activities, but be aware that these sorts of things are themselves an uncomfortable interaction for many people.
 >
 > **[0:54](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-based-icebreakers?u=76281980&t=54)** So keep your particular group in mind when choosing activities, but the idea is to help the meeting participants actually participate and interact with each other.
 >
@@ -2342,7 +2318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), [[Google]] (1), [[Search]] (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2354,12 +2330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enable live transcriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
+#### [Enable live transcriptions](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980&t=0)** - Zoom includes multiple options for creating closed captions or subtitles in real time during a meeting to assist participants with being better able to follow the conversation.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980&t=0)** - [[Zoom]] includes multiple options for creating closed captions or subtitles in real time during a meeting to assist participants with being better able to follow the conversation.
 >
 > **[0:10](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980&t=10)** During any meeting, the host or a participant assigned by the host can provide manual captions or integrate a third party closed captioning service or even enable automated captions also called live transcriptions.
 >
@@ -2465,7 +2440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), next (3), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **Speakers:** - great (2), - zoom (1), - hi (1), - so (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -2474,12 +2449,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Warnings:** note that (1)
 
-#### Multi-spotlight and multi-pinning
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/multi-spotlight-and-multi-pinning?u=76281980)
+#### [Multi-spotlight and multi-pinning](https://www.linkedin.com/learning/zoom-essential-training-22160448/multi-spotlight-and-multi-pinning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/multi-spotlight-and-multi-pinning?u=76281980&t=0)** - If you've spent some time in Zoom meetings that include a lot of participants, you might have noticed that there doesn't seem to be any particular logic to where someone appears in the grid when viewing the meeting in Gallery mode.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/multi-spotlight-and-multi-pinning?u=76281980&t=0)** - If you've spent some time in [[Zoom]] meetings that include a lot of participants, you might have noticed that there doesn't seem to be any particular logic to where someone appears in the grid when viewing the meeting in Gallery mode.
 >
 > **[0:10](https://www.linkedin.com/learning/zoom-essential-training-22160448/multi-spotlight-and-multi-pinning?u=76281980&t=10)** It can sometimes be difficult to see who's speaking even though a highlight appears around their video, and people might get shuffled around on screen as attendees enter and exit the meeting or turn their cameras on and off.
 >
@@ -2543,19 +2517,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
 
-#### Accessibility settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980)
+#### [Accessibility settings](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=0)** - [Speaker] Zoom includes many features and settings to help ensure that meetings are as accessible and inclusive to everyone as possible.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=0)** - [Speaker] [[Zoom]] includes many features and settings to help ensure that meetings are as accessible and inclusive to everyone as possible.
 >
 > **[0:07](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=7)** In addition to some of the features we've looked at already like live transcripts and pinning and spotlighting videos you can go into the desktop app settings and here on the left select the accessibility category.
 >
@@ -2569,7 +2542,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=37)** On the Mac it's command plus or minus.
 >
-> **[0:39](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=39)** On Windows, it's control plus or minus.
+> **[0:39](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=39)** On [[Windows]], it's control plus or minus.
 >
 > **[0:41](https://www.linkedin.com/learning/zoom-essential-training-22160448/accessibility-settings?u=76281980&t=41)** So you can use these keyboard commands during a meeting to adjust the size of text at any time.
 >
@@ -2601,7 +2574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Windows]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [speaker] (1)
@@ -2611,16 +2584,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Zoom meetings on mobile devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
+#### [Zoom meetings on mobile devices](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=0)** - [Instructor] So far, we've been looking at hosting and joining Zoom meetings entirely through the Zoom desktop app.
+> **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=0)** - [Instructor] So far, we've been looking at hosting and joining [[Zoom]] meetings entirely through the Zoom desktop app.
 >
-> **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=5)** But Zoom is also available on mobile devices, like Apple iOS iPhones and iPads or Android phones and tablets.
+> **[0:05](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=5)** But Zoom is also available on mobile devices, like Apple iOS iPhones and iPads or [[Android]] phones and tablets.
 >
-> **[0:11](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=11)** So you can host, join, and participate in a meeting even if you're away from your computer or out of your office or home.
+> **[0:11](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=11)** So you can host, join, and participate in a meeting even if you're away from your computer or out of your [[Microsoft Office|office]] or home.
 >
 > **[0:17](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980&t=17)** Now, I'm currently connected to a Zoom meeting on my iPad, and the controls you see here are going to be differently configured than the desktop app.
 >
@@ -2662,7 +2634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), [[Android]] (2), [[Microsoft Office|Office]] (1), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[Android]] (2), [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** ios (2), ipad (2), iphones (1), ipads (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -2675,14 +2647,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep learning about Zoom
-> [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)
+#### [Keep learning about Zoom](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980&t=0)** - [Garrick] And there you have it.
 >
-> **[0:01](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980&t=1)** Thanks for joining me for this course on using Zoom for meetings.
+> **[0:01](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980&t=1)** Thanks for joining me for this course on using [[Zoom]] for meetings.
 >
 > **[0:04](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980&t=4)** If you'd like to continue learning about Zoom with a focus on using its tools and capabilities effectively, be sure to check out the course called Zoom: Leading Effective and Engaging Calls, which goes in depth with tips and tricks for establishing virtual meeting expectations, managing time, using breakout rooms effectively, and many other techniques for running useful and engaging meetings over Zoom.
 >
@@ -2692,7 +2663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (5)
 > **Speakers:** - [garrick] (1)
 
 

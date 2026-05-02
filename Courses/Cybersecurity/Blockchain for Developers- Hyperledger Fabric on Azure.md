@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Entering blockchain as a developer
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980)
+#### [Entering blockchain as a developer](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=1)** - In 2017, Gartner Research predicted that blockchain will create $3.1 trillion of business value by the year 2030.
+> **[0:01](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=1)** - In 2017, Gartner Research predicted that [[Blockchain]] will create $3.1 trillion of business value by the year 2030.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=10)** With so much economic potential, can your organization afford not to get involved with this technology?
 >
 > **[0:17](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=17)** In this course, we explore the underlying differences and requirements between enterprise and public blockchains.
 >
-> **[0:24](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=24)** We'll take a look at the Hyperledger projects and together we will build a working application using Hyperledger Fabric in Azure.
+> **[0:24](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=24)** We'll take a look at the Hyperledger projects and together we will build a working application using Hyperledger Fabric in [[Microsoft Azure|Azure]].
 >
 > **[0:32](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=32)** Finally, we'll discuss why you or your organization may want to consider a cloud implementation for this technology.
 >
@@ -107,20 +106,19 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=48)** After completing this course, you should have a firm grasp on the fundamentals of enterprise blockchain.
 >
-> **[0:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=54)** So join me on my LinkedIn Learning course and let's dig deeper into blockchain and Azure.
+> **[0:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980&t=54)** So join me on my [[LinkedIn]] Learning course and let's dig deeper into blockchain and Azure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), business (2), [[Microsoft Azure|Azure]] (2), cloud (2), application (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (1)
 > **Versions:** 3.1 (1)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course it's important that you know the basics of Azure.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course it's important that you know the basics of [[Microsoft Azure|Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=4)** We will be using Golang for development and referencing Node, as we will be using certain packages.
 >
@@ -138,19 +136,18 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=31)** These can all be installed using a package manager.
 >
-> **[0:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=33)** Now since we're in Windows, I'm going to be using Chocolatey.
+> **[0:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=33)** Now since we're in [[Windows]], I'm going to be using Chocolatey.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-you-should-know?u=76281980&t=36)** Whichever platform that you're using, feel free to use the package manager that you're most comfortable with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), node (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Windows]] (1)
 > **CLI Commands:** node (2), docker (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### What we are going to build
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980)
+#### [What we are going to build](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,19 +157,19 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=15)** As they grow, they want to maintain that quality.
 >
-> **[0:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=18)** So, they've decided to record all components of their production process onto a blockchain.
+> **[0:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=18)** So, they've decided to record all components of their production process onto a [[Blockchain]].
 >
 > **[0:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=22)** As we go through this course, we will discuss how they will benefit from an enterprise grade blockchain, and why they may want to use a cloud implementation.
 >
 > **[0:31](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=31)** As part of this course, we will be creating the following business model, and the components related to it.
 >
-> **[0:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=37)** Additionally, we will also be creating smart contracts that interact with the network.
+> **[0:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=37)** Additionally, we will also be creating [[Smart Contracts]] that interact with the network.
 >
-> **[0:42](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=42)** By the end of this course, you will have a working solution in Azure and Hyperledger Fabric that will determine the grade of the olive oil based on inputs from various components in the production process.
+> **[0:42](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-we-are-going-to-build?u=76281980&t=42)** By the end of this course, you will have a working solution in [[Microsoft Azure|Azure]] and Hyperledger Fabric that will determine the grade of the olive oil based on inputs from various components in the production process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Blockchain]] (2), cloud (1), [[Smart Contracts]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Smart Contracts]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -181,12 +178,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980)
+#### [Blockchain landscape](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=0)** - [Instructor] Before beginning, it's important we understand the need for blockchain and how it came to be.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=0)** - [Instructor] Before beginning, it's important we understand the need for [[Blockchain]] and how it came to be.
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=5)** If we go back to 2008, you might remember of the global financial crisis.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=43)** "Banks must be trusted to hold our money "and transfer it electronically, "but they lend it out in waves of credit bubbles "with barely a fraction in reserve."
 >
-> **[0:53](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=53)** In essence, this technology proposed to replace traditional banking, where information was centralized and control remained with few organizations.
+> **[0:53](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=53)** In essence, this technology proposed to replace traditional [[Banking]], where information was centralized and control remained with few organizations.
 >
 > **[1:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=63)** As we can see from this quote, the trust in financial institutions was shaken.
 >
@@ -210,9 +206,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=78)** Since then, there have been a slew of other platforms introduced with this technology that have addressed problems in other areas.
 >
-> **[1:26](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=86)** The most popular being Ethereum, which consequently introduced smart contracts into this space.
+> **[1:26](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=86)** The most popular being [[Ethereum]], which consequently introduced [[Smart Contracts]] into this space.
 >
-> **[1:32](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=92)** Today, blockchain is a lot more than cryptocurrency.
+> **[1:32](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=92)** Today, blockchain is a lot more than [[Cryptocurrency]].
 >
 > **[1:35](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980&t=95)** It is a distributed system that contains verified and immutable records.
 >
@@ -229,14 +225,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public vs. private ledgers
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980)
+#### [Public vs. private ledgers](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=0)** - [Instructor] Let's review the benefits afforded to us through public blockchains.
 >
-> **[0:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=5)** The primary reason for using a blockchain network is to facilitate transactions in a system where you cannot trust the other party.
+> **[0:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=5)** The primary reason for using a [[Blockchain]] network is to facilitate transactions in a system where you cannot trust the other party.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=12)** The Byzantine General's problem is an example often cited in this space.
 >
@@ -286,7 +281,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=148)** If we review our course project, TwoTrees is going to require all of producers to update and provide data throughout the preparation process.
 >
-> **[2:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=157)** In order to guarantee this, the producers will be utilizing IOT devices to ensure storage, preparation, and delivery requirements are met.
+> **[2:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=157)** In order to guarantee this, the producers will be utilizing [[IoT]] devices to ensure storage, preparation, and delivery requirements are met.
 >
 > **[2:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=167)** Given the amount of devices connected to the network, we know there'll be a large amount of data coming in.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=194)** It is not in the enterprises interest that a large amount of computational power be wasted on transactions that simply won't be put onto the chain.
 >
-> **[3:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=203)** Now, lastly, privacy of the data on the network is a key requirement.
+> **[3:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=203)** Now, lastly, [[Privacy]] of the data on the network is a key requirement.
 >
 > **[3:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/public-vs-private-ledgers?u=76281980&t=208)** Only validated participants should have access to the data on the network, but that doesn't mean that we want people to be able to read everything on the network.
 >
@@ -310,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Blockchain]] (6), [[IoT]] (1), power (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[IoT]] (1), [[Privacy]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** iot (1)
@@ -321,8 +316,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hyperledger introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980)
+#### [Hyperledger introduction](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,13 +324,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=4)** Let's head over to [hyperledger.org](https://hyperledger.org) and take a look.
 >
-> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=7)** First thing I'm going to mention is that it's not actually a blockchain framework.
+> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=7)** First thing I'm going to mention is that it's not actually a [[Blockchain]] framework.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=11)** And I know what you're thinking, "What?
 >
 > **[0:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=13)** "Then why am I wasting my time here?"
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=15)** You're not, it's actually an initiative comprising of open source blockchains and tools that are supported by the Linux Foundation.
+> **[0:15](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=15)** You're not, it's actually an initiative comprising of open source blockchains and tools that are supported by the [[Linux]] Foundation.
 >
 > **[0:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=23)** Now, all of these are under the Apache 2.0 license.
 >
@@ -362,13 +356,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=94)** Let's first dive into Hyperledger Burrow.
 >
-> **[1:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=97)** Now of the frameworks, this one was created based off Ethereum.
+> **[1:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=97)** Now of the frameworks, this one was created based off [[Ethereum]].
 >
 > **[1:41](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=101)** So it's based off of the Ethereum virtual machine specification.
 >
 > **[1:45](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=105)** What does this mean to us?
 >
-> **[1:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=106)** What it means is users can execute Ethereum smart contracts.
+> **[1:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=106)** What it means is users can execute Ethereum [[Smart Contracts]].
 >
 > **[1:52](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=112)** You have the ability to migrate smart contracts that you already wrote on Ethereum onto this framework.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=168)** Now, what does that mean?
 >
-> **[2:49](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=169)** It was built using C++ and PostgreSQL.
+> **[2:49](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=169)** It was built using C++ and [[PostgreSQL]].
 >
 > **[2:52](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980&t=172)** It provides us fast query times out of the box for digital asset management and identity management use case scenarios.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Ethereum]] (4), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (4), [[Blockchain]] (2), [[Smart Contracts]] (2), [[Linux]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** ibm (1), sap (1)
 > **CLI Commands:** apache (1)
 > **URLs:** [hyperledger.org](https://hyperledger.org) (1)
@@ -425,8 +419,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 
-#### Hyperledger Fabric network
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980)
+#### [Hyperledger Fabric network](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,13 +447,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=67)** Now, Fabric allows us to maintain sensitive and restricted data through channels.
 >
-> **[1:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=72)** The default channel may include information as to when products were shipped and stages of delivery.
+> **[1:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=72)** The default channel may include information as to when [[Microsoft Products|products]] were shipped and stages of delivery.
 >
-> **[1:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=78)** Whereas we may decide the production and delivery departments of Two Trees will have a unique channel so that they can maintain privacy to the general network and still share data internally for health to review.
+> **[1:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=78)** Whereas we may decide the production and delivery departments of Two Trees will have a unique channel so that they can maintain [[Privacy]] to the general network and still share data internally for health to review.
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=91)** Now, another concern for Two Trees is whether the network will be able to handle the sheer amount of data.
 >
-> **[1:38](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=98)** As we discussed earlier, Two Trees will have IoT devices updating the ledger.
+> **[1:38](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=98)** As we discussed earlier, Two Trees will have [[IoT]] devices updating the ledger.
 >
 > **[1:44](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=104)** The network needs to provide low latency.
 >
@@ -512,9 +505,9 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=235)** Now we have chain code.
 >
-> **[3:56](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=236)** Chain code is the same as smart contracts.
+> **[3:56](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=236)** Chain code is the same as [[Smart Contracts]].
 >
-> **[3:59](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=239)** If you've ever looked at Ethereum, Ethereum has popularized smart contracts.
+> **[3:59](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=239)** If you've ever looked at [[Ethereum]], Ethereum has popularized smart contracts.
 >
 > **[4:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-network?u=76281980&t=244)** But at the end of the day, what it does is it's how we inject business logic into our transactions.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), management (2), [[Smart Contracts]] (2), [[Ethereum]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (2), [[Ethereum]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[IoT]] (1)
 > **Env Vars:** ibm (2)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** we discussed (1)
@@ -558,8 +551,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing identity in Fabric
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/managing-identity-in-fabric?u=76281980)
+#### [Managing identity in Fabric](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/managing-identity-in-fabric?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,20 +597,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980)
+#### [Smart contracts](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=0)** - [Instructor] We've discussed smart contracts several times in this course already, but we need to understand the importance of them.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=0)** - [Instructor] We've discussed [[Smart Contracts]] several times in this course already, but we need to understand the importance of them.
 >
-> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=7)** They were popularized by Ethereum.
+> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=7)** They were popularized by [[Ethereum]].
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=9)** Prior to that point, if you had a transaction in Bitcoin, you wouldn't be able to specify conditions on the transactions.
 >
@@ -656,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=111)** It allows peers to query the ledger or manage ledger state with propose transactions by various apps.
 >
-> **[1:58](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=118)** The great thing about chaincode is that it can be written in JavaScript, Golang or Java.
+> **[1:58](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=118)** The great thing about chaincode is that it can be written in [[JavaScript]], Golang or [[Java]].
 >
 > **[2:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/smart-contracts?u=76281980&t=124)** Unlike Ethereum, where the code is dependent on the Ethereum virtual machine, chaincode runs in its own Docker container outside of the endorsing peers.
 >
@@ -700,15 +690,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (5), [[Smart Contracts]] (4), business (1), [[JavaScript]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Smart Contracts]] (4), [[JavaScript]] (1), [[Java]] (1)
 > **UI Navigation:** go to (1), navigate to (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to reach consensus
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980)
+#### [How to reach consensus](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=20)** When compared to other blockchains.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=22)** To get a better handle of the consensus process we're going to review how it works for a public blockchain such as Ethereum.
+> **[0:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=22)** To get a better handle of the consensus process we're going to review how it works for a public [[Blockchain]] such as [[Ethereum]].
 >
 > **[0:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=30)** Now, keep in mind most blockchains use this method or a variation of it.
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=91)** The order of the transactions matter because we do not want to double spend.
 >
-> **[1:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=94)** So let's take this scenario where we have John who owes Sally five ether.
+> **[1:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=94)** So let's take this scenario where we have [[John the Ripper|John]] who owes Sally five ether.
 >
 > **[1:40](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=100)** He requests those funds be allocated to Sally's wallet.
 >
@@ -760,13 +749,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=147)** There are a few issues with this process.
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=150)** It can be a bottleneck to high performance and scalability.
+> **[2:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=150)** It can be a bottleneck to high performance and [[Scalability]].
 >
 > **[2:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=153)** The miner is responsible for ordering and executing the transaction.
 >
 > **[2:37](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=157)** So all the lifting is done by a single node.
 >
-> **[2:41](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=161)** Now, in the case of Ethereum and other public blockchains this also means any node can participate in consensus and depend on the probability to determine the next block.
+> **[2:41](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=161)** Now, in the case of Ethereum and other public blockchains this also means any node can participate in consensus and depend on the [[Probability]] to determine the next block.
 >
 > **[2:52](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=172)** Unfortunately, this also can cause forks as nodes may have divergent ledgers.
 >
@@ -800,7 +789,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=256)** It just wouldn't update the world state.
 >
-> **[4:19](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=259)** You might remember I had mentioned earlier that fabric has pluggable consensus algorithms and you do have several options.
+> **[4:19](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=259)** You might remember I had mentioned earlier that fabric has pluggable consensus [[Algorithms]] and you do have several options.
 >
 > **[4:26](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/how-to-reach-consensus?u=76281980&t=266)** One of them is a single ordering peer.
 >
@@ -826,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (4), application (3), [[Blockchain]] (2), node (2), next (2)
+> **Frameworks & Libraries:** [[Ethereum]] (4), [[Blockchain]] (2), [[John the Ripper|John]] (2), [[Scalability]] (1), [[Probability]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** gas (2)
 > **Cross-References:** earlier in (1), we discussed (1)
@@ -835,8 +824,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 
-#### What's new in HLF 2.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980)
+#### [What's new in HLF 2.0](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=57)** This then opens up possibilities of setting up chain code as an external service.
 >
-> **[1:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=63)** One of the most common questions around blockchain implementations is around managing private data.
+> **[1:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=63)** One of the most common questions around [[Blockchain]] implementations is around managing private data.
 >
 > **[1:08](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=68)** In version one, one way to do this was to create channels, but it fits a subset of data.
 >
@@ -882,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=101)** In Fabric 2.0, we have peer cache on Couch DB to reduce latency.
 >
-> **[1:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=106)** Also the Docker images now use Alpine Linux, which is lightweight equating to faster startup time.
+> **[1:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=106)** Also the Docker images now use Alpine [[Linux]], which is lightweight equating to faster startup time.
 >
 > **[1:53](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=113)** Now most of the points we've discussed are beyond the scope of this course.
 >
@@ -898,9 +886,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=141)** We'll be covering the new tool sets in detail later.
 >
-> **[2:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=145)** Finally, let's quickly discuss the changes that have happened in Azure.
+> **[2:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=145)** Finally, let's quickly discuss the changes that have happened in [[Microsoft Azure|Azure]].
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=150)** The new process uses Kubernetes to deploy Hyperledger Fabric and I think it's a much better process.
+> **[2:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=150)** The new process uses [[Kubernetes]] to deploy Hyperledger Fabric and I think it's a much better process.
 >
 > **[2:35](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/what-s-new-in-hlf-2-0?u=76281980&t=155)** We're able to decide how, and when we want to scale our systems and even open the doors to coordinating with peers that may be deployed in other clouds, I do want to mention at the time of recording version 1.4.8 is deployed in Azure.
 >
@@ -912,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Azure|Azure]] (2), [[Blockchain]] (1), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Blockchain]] (1), [[Linux]] (1), [[Kubernetes]] (1)
 > **Versions:** 2.0 (4), 1.0 (1), version 1 (1), 4.8 (1)
 > **CLI Commands:** docker (2), composer (1)
 > **Tools:** vs code (1)
@@ -926,22 +914,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hyperledger Fabric on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980)
+#### [Hyperledger Fabric on Azure](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=0)** - [Instructor] In this video, we talk about the cloud.
 >
-> **[0:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=3)** Specifically, why would you want to deploy a Hyperledger Fabric network on Azure?
+> **[0:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=3)** Specifically, why would you want to deploy a Hyperledger Fabric network on [[Microsoft Azure|Azure]]?
 >
-> **[0:08](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=8)** Now, the benefits of the cloud aren't unique to blockchain, but the combination of blockchain networks and cloud implementations can be very powerful.
+> **[0:08](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=8)** Now, the benefits of the cloud aren't unique to [[Blockchain]], but the combination of blockchain networks and cloud implementations can be very powerful.
 >
-> **[0:17](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=17)** First and foremost, we get the benefit of scalability.
+> **[0:17](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=17)** First and foremost, we get the benefit of [[Scalability]].
 >
 > **[0:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=20)** We can grow to match the demand of our network.
 >
-> **[0:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=23)** Now, one of the components we often don't think about scalability is cost management.
+> **[0:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=23)** Now, one of the components we often don't think about scalability is [[Cost Management]].
 >
 > **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=28)** This means we can reduce resources if our network just doesn't need it at the moment.
 >
@@ -957,13 +944,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=74)** Another benefit we see is the reduction in time in disaster recovery scenarios.
 >
-> **[1:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=80)** So we've mentioned previously with the number of regions available in Azure, we can rest assured our system can withstand natural disasters.
+> **[1:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=80)** So we've mentioned previously with the number of regions available in Azure, we can [[Representational State Transfer (REST)|rest]] assured our system can withstand natural disasters.
 >
 > **[1:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=88)** Security can be a major decision factor towards cloud implementations.
 >
-> **[1:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=94)** With Azure, we get security and cumulative updates for platform as a service and software as a service offerings.
+> **[1:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=94)** With Azure, we get security and cumulative updates for [[PaaS|platform as a service]] and [[SaaS|software as a service]] offerings.
 >
-> **[1:42](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=102)** There are an array of regulatory compliance offerings by region, government, and industry.
+> **[1:42](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=102)** There are an array of [[Regulatory Compliance]] offerings by region, government, and industry.
 >
 > **[1:48](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=108)** By default, the security architecture of Azure is quite robust.
 >
@@ -975,9 +962,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=132)** In the case of our fabric solution, we may need to expose it via web or mobile interfaces, and we can reduce time by using predefined APIs and packages.
 >
-> **[2:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=143)** Another scenario might be Two Trees decides in the future that they want to have real-time data processing from multiple sources, including the blockchain network.
+> **[2:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=143)** Another scenario might be Two Trees decides in the future that they want to have [[Real-Time]] [[Data Processing]] from multiple sources, including the blockchain network.
 >
-> **[2:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=154)** They may want to implement machine learning on the datasets to aid in decision-making.
+> **[2:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=154)** They may want to implement machine learning on the datasets to aid in [[Decision-Making]].
 >
 > **[2:38](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=158)** All of these services can be provided in the cloud and are industry-wide standard solutions that can help you achieve your goals in a shorter timeframe.
 >
@@ -991,7 +978,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=198)** So let's take a look at the deployment options and speak to how these components can be set up in the cloud.
 >
-> **[3:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=205)** Our first option is to deploy using virtual machines.
+> **[3:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=205)** Our first option is to deploy using [[Virtual Machines]].
 >
 > **[3:29](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=209)** Now, using this deployment process, we would be responsible for setting up the machine, the fabric network and maintenance of the VM.
 >
@@ -999,11 +986,11 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=223)** This can be a very tedious process.
 >
-> **[3:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=226)** Now, the other option we have is to deploy via Kubernetes.
+> **[3:46](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=226)** Now, the other option we have is to deploy via [[Kubernetes]].
 >
 > **[3:50](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=230)** So we could load our Docker images for the network into various pods.
 >
-> **[3:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=234)** This can be done manually or via a package management solution, such as Helm.
+> **[3:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=234)** This can be done manually or via a [[Package Management]] solution, such as [[Helm]].
 >
 > **[4:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=240)** It reduces some of our overhead, but we still have to manage Kubernetes.
 >
@@ -1011,7 +998,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=248)** Finally, we can look at blockchain as a service option available from Azure.
 >
-> **[4:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=253)** The blockchain as a service option has multiple frameworks including Hyperledger Fabric, Ethereum, amongst many others.
+> **[4:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=253)** The blockchain as a service option has multiple frameworks including Hyperledger Fabric, [[Ethereum]], amongst many others.
 >
 > **[4:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980&t=260)** When we are creating our network, we just have to define the requirements and the service takes care of creating the network to our specifications.
 >
@@ -1023,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), cloud (6), [[Blockchain]] (6), [[Security]] (4), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Blockchain]] (6), [[Scalability]] (2), [[Virtual Machines]] (2), [[Kubernetes]] (2)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
@@ -1031,12 +1018,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Production vs. development differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980)
+#### [Production vs. development differences](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=0)** - [Instructor] We've decided to deploy a Hyperledger fabric consortium network on Azure.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=0)** - [Instructor] We've decided to deploy a Hyperledger fabric consortium network on [[Microsoft Azure|Azure]].
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=6)** Now, as we are deploying a development environment, many of the configurations are inadequate for a production deployment.
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=61)** It also means that ordering service doesn't need to go through a consensus process, since we only have one node.
 >
-> **[1:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=67)** Naturally, as a part of this deployment, we don't get high availability or even scalability.
+> **[1:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=67)** Naturally, as a part of this deployment, we don't get high availability or even [[Scalability]].
 >
 > **[1:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=73)** Now with the production deployment, we can choose any number of peers to be involved in the ordering service.
 >
@@ -1074,11 +1060,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=98)** And we can do that independently of the other VMs that are installed in our network.
 >
-> **[1:43](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=103)** Lastly, the ordering service, in this type of setup, uses Apache Kafka for high throughput and low latency messaging.
+> **[1:43](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=103)** Lastly, the ordering service, in this type of setup, uses [[Apache Kafka]] for high throughput and low latency messaging.
 >
 > **[1:51](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=111)** Another area to consider is persistence.
 >
-> **[1:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=114)** Now all databases in a fabric setup are NoSQL.
+> **[1:54](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=114)** Now all [[Databases]] in a fabric setup are [[NoSQL]].
 >
 > **[1:58](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/production-vs-development-differences?u=76281980&t=118)** so we have the option between LevelDB and CouchDB.
 >
@@ -1124,19 +1110,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), node (3), [[Scalability]] (1), [[Apache Kafka]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Scalability]] (1), [[Apache Kafka]] (1), [[Databases]] (1), [[NoSQL]] (1)
 > **Prerequisites:** setup (10), set up (1)
 > **CLI Commands:** node (3), apache (1)
 > **Definitions:** is an  (1), means that (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyperledger tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980)
+#### [Hyperledger tools](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=0)** - [Instructor] If you remember, when I introduced Hyperledger, I mentioned it was a set of frameworks and tools that supported enterprise blockchain scenarios.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=0)** - [Instructor] If you remember, when I introduced Hyperledger, I mentioned it was a set of frameworks and tools that supported enterprise [[Blockchain]] scenarios.
 >
 > **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=7)** We've discussed the frameworks, now let's talk about some of the tools and libraries that can benefit us.
 >
@@ -1184,7 +1169,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=123)** Then we can integrate additional networks based on our business requirements.
 >
-> **[2:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=127)** Lastly, we have Avalon which allows us to scale by offloading work orders to the enterprise Ethereum blockchain.
+> **[2:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=127)** Lastly, we have Avalon which allows us to scale by offloading work orders to the enterprise [[Ethereum]] blockchain.
 >
 > **[2:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=133)** So those are the set of tools available to us.
 >
@@ -1202,13 +1187,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=164)** And Aries focuses on the lifecycle of digital credential.
 >
-> **[2:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=167)** Now, we won't be using any of these in the rest of this course.
+> **[2:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=167)** Now, we won't be using any of these in the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[2:50](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-tools?u=76281980&t=170)** But as you can keep on working with Hyperledger projects, these can save you a ton of time down the road.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), web (1), application (1), business (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Ethereum]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
@@ -1220,14 +1205,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Development environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980)
+#### [Development environment setup](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=0)** - [Instructor] Let's take a look at the setup of our development environment.
 >
-> **[0:02](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=2)** You'll be happy to know the development of this course is done entirely in Azure.
+> **[0:02](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=2)** You'll be happy to know the development of this course is done entirely in [[Microsoft Azure|Azure]].
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=6)** That being said it's quite useful to have a local setup.
 >
@@ -1235,19 +1219,19 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=14)** We'll be using cloud shell for scripting.
 >
-> **[0:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=16)** So you don't need Azure CLI installed locally.
+> **[0:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=16)** So you don't need Azure [[CLI]] installed locally.
 >
-> **[0:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=18)** I'm going to do my installations on windows.
+> **[0:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=18)** I'm going to do my installations on [[Windows]].
 >
-> **[0:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=20)** If you're following along on a Mac or Linux machine the process will be a little bit different.
+> **[0:20](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=20)** If you're following along on a Mac or [[Linux]] machine the process will be a little bit different.
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=25)** I will be using a package manager for installations named Chocolatey.
 >
 > **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=28)** It's similar to Homebrew for Mac.
 >
-> **[0:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=30)** So let's go ahead and open PowerShell as an administrator.
+> **[0:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=30)** So let's go ahead and open [[Powershell]] as an administrator.
 >
-> **[0:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=33)** First, we want to check if we had node and NPM installed.
+> **[0:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=33)** First, we want to check if we had node and [[npm]] installed.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=36)** So I'm going to check for the version here and same thing for NPM.
 >
@@ -1263,11 +1247,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=68)** So let's go ahead and check for that too.
 >
-> **[1:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=72)** So I'm going to just check the version here and I want to do the same thing for Docker Compose.
+> **[1:12](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=72)** So I'm going to just check the version here and I want to do the same thing for Docker [[Jetpack Compose|Compose]].
 >
 > **[1:19](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=79)** Okay, so we have both.
 >
-> **[1:21](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=81)** Next, we're going to set up some git configurations specific to windows.
+> **[1:21](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=81)** Next, we're going to set up some [[Git]] configurations specific to windows.
 >
 > **[1:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=85)** If you're on a Mac, this doesn't apply.
 >
@@ -1303,11 +1287,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=131)** If you haven't used this command to actually install it.
 >
-> **[2:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=134)** At the time of recording, if you're looking to do local development this is the version that works best with IBM Blockchain Platform which is the extension that we're going to be using.
+> **[2:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=134)** At the time of recording, if you're looking to do local development this is the version that works best with IBM [[Blockchain]] Platform which is the extension that we're going to be using.
 >
 > **[2:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=142)** So since I already have this, I'm just going to go ahead and open up VS code.
 >
-> **[2:27](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=147)** We're going to be using the IBM Blockchain Platform to develop our smart contracts.
+> **[2:27](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=147)** We're going to be using the IBM Blockchain Platform to develop our [[Smart Contracts]].
 >
 > **[2:32](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980&t=152)** So let's search for that in our extensions and install it.
 >
@@ -1325,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), cloud (3), [[npm]] (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (2), [[Blockchain]] (2), [[CLI]] (1)
 > **CLI Commands:** node (4), npm (3), docker (2), curl (2), make (2)
 > **Prerequisites:** install (9), setup (2)
 > **Env Vars:** npm (3), ibm (2), cli (1), ssl (1)
@@ -1334,16 +1318,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Development environment for Fabric on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980)
+#### [Development environment for Fabric on Azure](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=0)** - [Instructor] There's a significant number of components needed to deploy the development environment.
 >
-> **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=4)** We'll cover those before beginning the setup in Azure.
+> **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=4)** We'll cover those before beginning the setup in [[Microsoft Azure|Azure]].
 >
-> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=7)** The template we're working with in Azure is based on AKS, their Kubernetes service.
+> **[0:07](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=7)** The template we're working with in Azure is based on AKS, their [[Kubernetes]] service.
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-for-fabric-on-azure?u=76281980&t=11)** Onto this, we're going to deploy our resources.
 >
@@ -1373,18 +1356,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Exercise Files:** template (2)
 > **Env Vars:** aks (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy Hyperledger Fabric on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980)
+#### [Deploy Hyperledger Fabric on Azure](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=0)** - [Instructor] We're finally going to create our consortium in Azure.
+> **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=0)** - [Instructor] We're finally going to create our consortium in [[Microsoft Azure|Azure]].
 >
 > **[0:03](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=3)** As you can see, we're in the portal.
 >
@@ -1410,9 +1392,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=44)** Next, let's go back to our portal and create the resource.
 >
-> **[0:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=47)** So I'm going to select Create a Resource here and under Azure Marketplace, I want to select Blockchain.
+> **[0:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=47)** So I'm going to select Create a Resource here and under Azure Marketplace, I want to select [[Blockchain]].
 >
-> **[0:53](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=53)** From here, we're going to select Hyperledger Fabric on Azure Kubernetes Service Preview.
+> **[0:53](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=53)** From here, we're going to select Hyperledger Fabric on Azure [[Kubernetes]] Service Preview.
 >
 > **[0:58](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploy-hyperledger-fabric-on-azure?u=76281980&t=58)** The first thing we want to do here is create a new resource group.
 >
@@ -1506,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Blockchain]] (2), node (2), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Blockchain]] (2), [[Kubernetes]] (1)
 > **Env Vars:** hlf (3), aks (2), hlfc (1)
 > **CLI Commands:** node (2), make (1), az (1)
 > **Cross-References:** go back to (1), previous video (1)
@@ -1515,14 +1497,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Connect to network
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980)
+#### [Connect to network](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=0)** - [Instructor] Let's begin by covering what the script will be provisioning.
 >
-> **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=4)** We're going to use the Azure Hyperledger fabric tool setup script to make it easier to deploy our environment.
+> **[0:04](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=4)** We're going to use the [[Microsoft Azure|Azure]] Hyperledger fabric tool setup script to make it easier to deploy our environment.
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=9)** On line one, we have our subscription ID.
 >
@@ -1576,7 +1557,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=105)** We can see all the files in here.
 >
-> **[1:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=107)** Next, we need to run NPM install on this directory.
+> **[1:47](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=107)** Next, we need to run [[npm]] install on this directory.
 >
 > **[1:51](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/connect-to-network?u=76281980&t=111)** This can take a few moments.
 >
@@ -1620,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), cloud (2), next (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[npm]] (1)
 > **Env Vars:** orderer_org_name (1), peer_org_name (1), msp (1), hlf (1), npm (1)
 > **Prerequisites:** set up (3), setup (1), install (1)
 > **CLI Commands:** curl (2), make (1), npm (1)
@@ -1629,8 +1610,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** navigate to (1)
 
-#### Create development project
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980)
+#### [Create development project](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,13 +1618,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=6)** It's useful to review the packaging that is provided out of the box.
 >
-> **[0:10](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=10)** So let's go ahead and select the IBM blockchain platform extension.
+> **[0:10](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=10)** So let's go ahead and select the IBM [[Blockchain]] platform extension.
 >
 > **[0:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=14)** We have four sections here: Environments contains the locations where we will be deploying.
 >
 > **[0:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=18)** If you're going to do local development you would create an environment here.
 >
-> **[0:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=23)** Now, we can also choose to create a JSON file here to connect our azure environment, but for the purposes of this course we'll be deploying via shell.
+> **[0:23](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=23)** Now, we can also choose to create a [[JSON]] file here to connect our [[Microsoft Azure|azure]] environment, but for the purposes of this course we'll be deploying via shell.
 >
 > **[0:31](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=31)** The gateway works on behalf of our application to communicate with the network, so application focuses on business logic not network topology.
 >
@@ -1660,7 +1640,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=62)** For our purposes, we're going to use the default contract.
 >
-> **[1:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=66)** Now we get a few options here: Java, JavaScript, TypeScript, or Golang.
+> **[1:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=66)** Now we get a few options here: [[Java]], [[JavaScript]], TypeScript, or Golang.
 >
 > **[1:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/create-development-project?u=76281980&t=71)** We'll be using JavaScript for our setup.
 >
@@ -1702,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), application (2), [[JavaScript]] (2), api (2), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[JavaScript]] (2), [[Blockchain]] (1), [[Microsoft Azure|Azure]] (1), [[Java]] (1)
 > **Env Vars:** api (2), ibm (1), json (1)
 > **File Paths:** index.js (1), package.json (1)
 > **UI Navigation:** select the (1), navigate to (1)
@@ -1715,8 +1695,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/build-the-network?u=76281980)
+#### [Build the network](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/build-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,13 +1747,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), next (2)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examine application structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980)
+#### [Examine application structure](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1790,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=24)** Instead using contract API, which is actually easier to use.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=28)** But since Azure is on version 14.6, we need to reference it.
+> **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=28)** But since [[Microsoft Azure|Azure]] is on version 14.6, we need to reference it.
 >
 > **[0:33](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=33)** For the purposes of our example, we measure a batch from farm to production.
 >
@@ -1840,7 +1817,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=125)** And on line 74, we define our new batch.
 >
-> **[2:10](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=130)** We use JSON Marshall to convert our data into bites on line 76.
+> **[2:10](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=130)** We use [[JSON]] Marshall to convert our data into bites on line 76.
 >
 > **[2:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/examine-application-structure?u=76281980&t=133)** And finally put that back onto the network on line 81.
 >
@@ -1848,7 +1825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), api (1), [[Microsoft Azure|Azure]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
 > **Env Vars:** api (1), json (1)
 > **Versions:** 2.0 (1), version 14 (1)
 > **Prerequisites:** setup (2)
@@ -1857,8 +1834,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add readings
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980)
+#### [Add readings](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,7 +1900,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980&t=138)** And it is of typed Batch.
 >
-> **[2:21](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980&t=141)** And were going to use json.Urmarshall, passing the batchJSON value.
+> **[2:21](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980&t=141)** And were going to use [[JSON]].Urmarshall, passing the batchJSON value.
 >
 > **[2:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/add-readings?u=76281980&t=150)** And we're going to put that right back into selected batch.
 >
@@ -1990,13 +1966,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Code Identifiers:** batchjson (1), selectedbatchasjson (1), selectedbatchasjsonbytes (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying chaincode to network
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980)
+#### [Deploying chaincode to network](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2008,7 +1983,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980&t=16)** There are additional ones that we will use later on in the course, but for the purposes of this video, these are the ones that we're looking at primarily.
 >
-> **[0:24](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980&t=24)** So let's head over to the Azure portal.
+> **[0:24](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980&t=24)** So let's head over to the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:27](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/deploying-chaincode-to-network?u=76281980&t=27)** I already have a session of cloud shell open here.
 >
@@ -2078,7 +2053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Azure|Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b01 (1)
 > **Tools:** azure portal (1)
@@ -2087,8 +2062,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Determine oil grade
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980)
+#### [Challenge: Determine oil grade](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2104,7 +2078,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980&t=35)** When we're looking at acidity, we will determine based off the percentage.
 >
-> **[0:39](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980&t=39)** So, it could be anything from virgin to extra-virgin to delicate extra-virgin or beauty products.
+> **[0:39](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980&t=39)** So, it could be anything from virgin to extra-virgin to delicate extra-virgin or beauty [[Microsoft Products|products]].
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/challenge-determine-oil-grade?u=76281980&t=45)** Now, the reason behind this is Two Trees wants to automate based on pre-defined conditions so people cannot tamper with the actual labeling.
 >
@@ -2120,8 +2094,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Determine oil grade
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980)
+#### [Solution: Determine oil grade](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2233,7 +2206,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=246)** We're going to call it Virgin.
 >
-> **[4:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=251)** And finally we have for beauty products.
+> **[4:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=251)** And finally we have for beauty [[Microsoft Products|products]].
 >
 > **[4:14](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=254)** So it's anything higher than that.
 >
@@ -2293,7 +2266,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=361)** Now, one thing you'll notice here is I've chaincode date.
 >
-> **[6:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=365)** One of the issues that the Azure tool has AC HLF tool, at the time of according it doesn't upgrade the chaincode you'd actually have to use the peer lifecycle commands.
+> **[6:05](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=365)** One of the issues that the [[Microsoft Azure|Azure]] tool has AC HLF tool, at the time of according it doesn't upgrade the chaincode you'd actually have to use the peer lifecycle commands.
 >
 > **[6:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/solution-determine-oil-grade?u=76281980&t=376)** And for the purpose of this course, that's out of scope.
 >
@@ -2347,7 +2320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Products|Products]] (2), cloud (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** querybatch (1)
 > **Env Vars:** hlf (1)
@@ -2361,8 +2334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Teardown
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980)
+#### [Teardown](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2370,7 +2342,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980&t=9)** What I'm going to do is I'm just going to delete the resource groups here.
 >
-> **[0:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980&t=11)** I've opened up Azure Cloud Shell.
+> **[0:11](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980&t=11)** I've opened up [[Microsoft Azure|Azure]] Cloud Shell.
 >
 > **[0:13](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980&t=13)** And this will allow us to delete the various components.
 >
@@ -2386,14 +2358,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** hlf (2)
 > **CLI Commands:** az (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,15 +2378,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=16)** You could get information on here on how to query the ledger and further information on access control lists.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=22)** Finally, in terms of Azure, we've just scratched the surface.
+> **[0:22](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=22)** Finally, in terms of [[Microsoft Azure|Azure]], we've just scratched the surface.
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=25)** You might want to look at some of these other areas that are coming up.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=28)** For instance, Azure, blockchain workbench.
+> **[0:28](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=28)** For instance, Azure, [[Blockchain]] workbench.
 >
 > **[0:30](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=30)** There's a lot of new stuff happening here and it's useful to be aware of it.
 >
-> **[0:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=34)** Finally, you can always go to the LinkedIn learning library as we're always adding new content.
+> **[0:34](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=34)** Finally, you can always go to the [[LinkedIn]] learning library as we're always adding new content.
 >
 > **[0:40](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/next-steps?u=76281980&t=40)** Again, thank you for watching.
 >

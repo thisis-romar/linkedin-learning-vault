@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying LLMs for production
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980)
+#### [Deploying LLMs for production](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980&t=17)** This course is designed to pull back the curtain on what it really takes to bring these models to life in the real world.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980&t=25)** We will explore LLM deployment options, handling API limitations and advanced deployment architectures including vector databases, agents and chains.
+> **[0:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980&t=25)** We will explore LLM deployment options, handling API limitations and advanced deployment architectures including [[Vector Databases]], agents and chains.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980&t=37)** You will learn performance monitoring techniques, addressing hallucinations and prompt management.
 >
@@ -117,28 +116,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), llm (1), api (1), [[Vector Databases]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1)
 > **Env Vars:** llm (1), api (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working in Google Colab
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980)
+#### [Working in Google Colab](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=0)** - [Instructor] We hope we got you excited to start learning about building generative AI applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=0)** - [Instructor] We hope we got you excited to start learning about building [[Generative AI]] applications.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=6)** In this course, you will have the opportunity to implement the concepts you are going to learn by doing exercises.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=15)** The exercises will be done in Google Colab.
+> **[0:15](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=15)** The exercises will be done in [[Google]] Colab.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=18)** Colab is a Jupyter Notebook-like development environment, where you can write, edit, and run code.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=27)** Colab notebooks run online, which means that you do not need to worry about installing Python or setting up a new development environment in your local machine.
+> **[0:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=27)** Colab notebooks run online, which means that you do not need to worry about installing [[Python (Programming Language)|Python]] or setting up a new development environment in your local machine.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=37)** Let's see how they work.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=40)** First, you will need to navigate to GitHub repository for this course.
+> **[0:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=40)** First, you will need to navigate to [[GitHub]] repository for this course.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=46)** You will see that the repository has folders for each chapter.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=109)** From here, you can either browse the solution in the GitHub repo, or you can open it in the notebook and run the code.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=119)** Now that you know how Colab notebooks work, we hope you're excited to try some of the exercises and run some large language models.
+> **[1:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/working-in-google-colab?u=76281980&t=119)** Now that you know how Colab notebooks work, we hope you're excited to try some of the exercises and run some [[Large Language Models (LLM)|large language models]].
 
 > [!info]- Semantic Content
 >
@@ -182,8 +180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of deployment options
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980)
+#### [Overview of deployment options](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,11 +194,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=31)** Let's start with the first deployment technique: using LLM API providers.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=37)** This approach provides access to powerful large language models without the significant overhead of managing the infrastructure yourself.
+> **[0:37](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=37)** This approach provides access to powerful [[Large Language Models (LLM)|large language models]] without the significant overhead of managing the infrastructure yourself.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=47)** It is particularly beneficial for startups and pilot projects due to its low initial cost.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=54)** Industry leaders like OpenAI, Cohere, and Anthropic offer these services with a pay-as-you-go pricing model, which is cost-effective based on your usage in terms of input and output tokens.
+> **[0:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=54)** Industry leaders like OpenAI, Cohere, and Anthropic offer these services with a pay-as-you-go pricing model, which is cost-effective based on your usage in terms of input and output [[Tokens]].
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=70)** Continuing with LLM API providers, it is essential to understand when and why using these APIs is cost-effective.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=87)** As your user growth increases, and so does the complexity, the cost follows.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=94)** We'll discuss how to perform a break-even analysis to compare the cost of API usage versus self-hosting.
+> **[1:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=94)** We'll discuss how to perform a [[Break-even Analysis]] to compare the cost of API usage versus self-hosting.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=103)** Additionally, monitoring your usage and adjusting as needed can help optimize efficiency.
 >
@@ -223,17 +220,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=149)** Our third deployment technique involves crafting custom LLMs.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=154)** This method offers comprehensive control from data processing to model training, which is crucial for handling complex, specific user requests.
+> **[2:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=154)** This method offers comprehensive control from [[Data Processing]] to model training, which is crucial for handling complex, specific user requests.
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=166)** We will discuss the benefits of developing these models to overcome the limitation of pre-trained LLMs and how to manage the complexity and resources needed for end-to-end development.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=182)** Next, we will learn about the stages of building an LLM-powered application.
 >
-> **[3:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=188)** The initial stage of application development using LLM often involves creating simple applications with prompt-based wrappers.
+> **[3:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=188)** The initial stage of [[Application Development]] using LLM often involves creating simple applications with prompt-based wrappers.
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=198)** These can quickly provide solutions by leveraging pre-built models and are easily deployed using API providers.
 >
-> **[3:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=207)** We'll also discuss integrating current personalized information to enhance user experiences, using vector databases and complex prompts for richer interactions.
+> **[3:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=207)** We'll also discuss integrating current personalized information to enhance user experiences, using [[Vector Databases]] and complex prompts for richer interactions.
 >
 > **[3:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=220)** As we advance the focus shifts to implementing more complex workflows, this involves using chains of LLM for diverse, automated tasks and interfacing with external APIs for tasks like publishing and social media management.
 >
@@ -241,25 +238,24 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=252)** As we wrap up this particular lesson, remember that the success of deploying these technologies hinges on thoughtful planning and execution across multiple stages.
 >
-> **[4:26](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=266)** Whether you choose API providers, self-hosting, or custom LLM development, each approach requires careful consideration of cost, scalability, and specific needs.
+> **[4:26](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=266)** Whether you choose API providers, self-hosting, or custom LLM development, each approach requires careful consideration of cost, [[Scalability]], and specific needs.
 >
-> **[4:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=280)** Moving forward, keeping in mind the importance of continuous integration and maintenance to adapt and refine your LLM's solutions.
+> **[4:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980&t=280)** Moving forward, keeping in mind the importance of [[Continuous Integration (CI)|continuous integration]] and maintenance to adapt and refine your LLM's solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), api (6), business (1), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1), [[Break-even Analysis]] (1), [[Data Processing]] (1), [[Application Development]] (1)
 > **Env Vars:** llm (10), api (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying via APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980)
+#### [Deploying via APIs](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=0)** - [Instructor] Welcome to this lesson on LLM API deployment.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=4)** Today we'll explore how API based LLM application development simplifies the setup process, allowing us to bypass traditional AI infrastructure.
+> **[0:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=4)** Today we'll explore how API based LLM [[Application Development]] simplifies the setup process, allowing us to bypass [[Traditional AI]] infrastructure.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=17)** We will also cover how automatic updates done by API providers get us access to the latest LLM models enhancing efficiency.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=84)** This means that the system can adapt seamlessly as the number of users grow.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=90)** And finally, APIs allow for real-time processing, which is critical for applications that require immediate feedback such as chatbots.
+> **[1:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=90)** And finally, APIs allow for [[Real-Time]] processing, which is critical for applications that require immediate feedback such as chatbots.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=103)** However, using APIs has some downsides, especially cost at scale and rate limitations.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=313)** This transition not only addresses the need for customization, but also reduces reliance on third party providers.
 >
-> **[5:22](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=322)** Enhancing data security and compliance.
+> **[5:22](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=322)** Enhancing [[Data Security]] and compliance.
 >
 > **[5:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-via-apis?u=76281980&t=325)** Continuous innovation and adaption to new LLM technologies remain essential, ensuring that the solutions remain cutting edge and tailored to specific enterprise needs.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (13), api (8), data (4), application (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Application Development]] (1), [[Traditional AI]] (1), [[Data Security]] (1)
 > **Env Vars:** llm (13), api (8)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -336,8 +332,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using fine-tuned models for deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980)
+#### [Using fine-tuned models for deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,13 +340,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=5)** Today we will focus on the advantages of tailoring LLMs to your unique requirements.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=12)** Fine tuning models enhances the performance of the model for your specific domain.
+> **[0:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=12)** [[Fine Tuning]] models enhances the performance of the model for your specific domain.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=19)** Deploying the LLM in-house also ensures that all data remains within your control, addressing privacy and security concerns with sending data to an external API.
+> **[0:19](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=19)** Deploying the LLM in-house also ensures that all data remains within your control, addressing [[Privacy]] and security concerns with sending data to an external API.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=33)** You are also not constrained by the rate limits typically imposed by API providers, allowing your application to scale up and down with usage.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=45)** And finally, although the initial setup might be expensive, in the long term, it could be cost effective, since you are not billed by tokens, you are only paying for hosting the LLM and not for how much you use it.
+> **[0:45](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=45)** And finally, although the initial setup might be expensive, in the long term, it could be cost effective, since you are not billed by [[Tokens]], you are only paying for hosting the LLM and not for how much you use it.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=63)** Transitioning our discussion to the challenges, let's examine the realities of in-house deployment.
 >
@@ -379,7 +374,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=177)** Let's delve a little deeper into what greater control and customization really mean when you decide to deploy an LLM in-house.
 >
-> **[3:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=189)** The biggest benefit of an in-house training deployment is data privacy and security.
+> **[3:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=189)** The biggest benefit of an in-house training deployment is [[Data Privacy]] and security.
 >
 > **[3:15](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=195)** You can also use customization to your model for specific requirements of your domains.
 >
@@ -397,20 +392,19 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=247)** Finally, as an AI engineer, you need to be prepared to learn and integrate emerging technologies that promise to simplify deployment while deepening the level of customization.
 >
-> **[4:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=260)** I want to wrap up this lesson by inspiring you to stay agile in a fast-paced technological landscape.
+> **[4:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=260)** I want to wrap up this lesson by inspiring you to stay [[Agile Development|agile]] in a fast-paced technological landscape.
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/using-fine-tuned-models-for-deployment?u=76281980&t=267)** Remember that personalization, ease of deployment and model customization will define the next generation of LLM applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (13), data (6), [[Fine Tuning]] (4), [[Privacy]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[Privacy]] (1), [[Tokens]] (1), [[Data Privacy]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** llm (13), api (2)
 > **Prerequisites:** setup (1), required to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom models: Building and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980)
+#### [Custom models: Building and deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,9 +418,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=35)** Training from scratch allows you to tailor the model to specific domains or applications, potentially achieving better performance for niche or specialized tasks.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=47)** For instance, the Bloomberg GPT showed that a custom-trained LLM on financial data performs better than ChatGPT.
+> **[0:47](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=47)** For instance, the Bloomberg GPT showed that a custom-trained LLM on [[Financial Data]] performs better than [[ChatGPT]].
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=57)** You can also have complete control over the data used for training, which can be crucial for applications where misinformation is harmful or there are privacy concerns.
+> **[0:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=57)** You can also have complete control over the data used for training, which can be crucial for applications where misinformation is harmful or there are [[Privacy]] concerns.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=72)** And finally, developing a proprietary model can give your company a competitive advantage over others.
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=101)** This can be expensive to hire.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=104)** Moreover, training a model from scratch can take considerable amount of time from data collection and preparation to actual training and optimization, it can take six months to a year to train an LLM.
+> **[1:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=104)** Moreover, training a model from scratch can take considerable amount of time from [[Data Collection]] and preparation to actual training and optimization, it can take six months to a year to train an LLM.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=119)** The data itself can be a bottleneck.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=185)** It's performance on financial data is better than GPT.
 >
-> **[3:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=189)** Another example of a custom LLM is Met-PalM2 from Google Research.
+> **[3:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=189)** Another example of a custom LLM is Met-PalM2 from [[Google]] Research.
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/custom-models-building-and-deployment?u=76281980&t=196)** It was designed for the healthcare sector and demonstrates how custom LMS can be safer and perform better on domain specific tasks.
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (15), data (6), [[Financial Data]] (2), [[ChatGPT]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (2), [[ChatGPT]] (1), [[Privacy]] (1), [[Data Collection]] (1), [[Google]] (1)
 > **Env Vars:** llm (15), gpt (2), lms (1), api (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -480,14 +474,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding API limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980)
+#### [Understanding API limitations](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=0)** - [Instructor] In the last chapter, you learned about the different deployment strategies for Generative AI Applications, starting from APIs to self-hosted LLMs.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=0)** - [Instructor] In the last chapter, you learned about the different deployment strategies for [[Generative AI]] Applications, starting from APIs to self-hosted LLMs.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=11)** Since APIs are the easiest and cheapest way to get started, you will often find yourself building Proof of Concept apps and simple products with them.
+> **[0:11](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=11)** Since APIs are the easiest and cheapest way to get started, you will often find yourself building Proof of Concept apps and simple [[Microsoft Products|products]] with them.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=23)** This is why it is important to be aware of LLM API Limitations and how you can navigate them.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=93)** Even if an API is available, you may see delays in performance degradation during peak hours.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=102)** Manning chain keys effectively is crucial for maintaining a good user experience and application stability.
+> **[1:42](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=102)** Manning chain keys effectively is crucial for maintaining a good [[User Experience (UX)|user experience]] and application stability.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=112)** Implementing error handling protocols and establishing fallback procedures are essential to mitigate these risks.
 >
@@ -517,13 +510,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=128)** Latency is the time it takes for an LLM API to process a request and return a response.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=136)** An increase in latency can be critical of facing applications where immediate feedback is expected, such as chatbots or real-time content generation tools.
+> **[2:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=136)** An increase in latency can be critical of facing applications where immediate feedback is expected, such as chatbots or [[Real-Time]] content generation tools.
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=149)** Throughput is the number of requests an API can handle simultaneously.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=155)** High demand on an LLM API can lead to drop in throughput, especially during peak usage times.
 >
-> **[2:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=164)** This can limit the scalability of your applications.
+> **[2:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=164)** This can limit the [[Scalability]] of your applications.
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=169)** Unfortunately, you depend on the LLM API provider to maintain a reasonable latency and throughput.
 >
@@ -531,9 +524,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=189)** Finally, LLM API providers are responsible for training and updating their models.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=196)** Data collection must stop at some point to allow for training.
+> **[3:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=196)** [[Data Collection]] must stop at some point to allow for training.
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=201)** For instance, GPT-3.5's data ends in September, 2021 and GPT-4's in January, 2022.
+> **[3:21](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=201)** For instance, GPT-3.5's data ends in September, 2021 and [[GPT-4]]'s in January, 2022.
 >
 > **[3:32](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980&t=212)** This means they might not provide the latest information.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), api (12), next (2), data (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Real-Time]] (1), [[Scalability]] (1)
 > **Env Vars:** llm (12), api (12), gpt (2), sla (1)
 > **Analogies:** such as (2), just like (1), for instance (1)
 > **Cross-References:** in the next (2), in the last (1)
@@ -558,8 +551,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies to handle endpoint uptime limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980)
+#### [Strategies to handle endpoint uptime limitations](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,13 +571,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=57)** In this lesson, we will learn about some of the techniques that you can use to ensure that your product doesn't stop working, even if the LLM endpoint you are using is down.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=70)** Continuously monitoring the health and performance of LLM API endpoints is critical when building real-time application.
+> **[1:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=70)** Continuously monitoring the health and performance of LLM API endpoints is critical when building [[Real-Time]] application.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=81)** Set up alerts to notify your team of any issues or performance degradations, allowing for swift action to resolve problems before they affect users.
+> **[1:21](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=81)** Set up alerts to notify your team of any issues or performance degradations, allowing for [[Swift (Programming Language)|swift]] action to resolve problems before they affect users.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=93)** The next step is to implement backup API endpoints in case the primary endpoint goes down.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=101)** This could be a different model from the same API provider, for instance, shifting from GPT-4 to GPT-3.5, or a different API provider as well.
+> **[1:41](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=101)** This could be a different model from the same API provider, for instance, shifting from [[GPT-4]] to GPT-3.5, or a different API provider as well.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-to-handle-endpoint-uptime-limitations?u=76281980&t=114)** The switch to the backup endpoint needs to happen automatically to minimize service disruption.
 >
@@ -613,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (22), llm (13), application (5), next (2), product (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Swift (Programming Language)|Swift]] (1), [[GPT-4]] (1)
 > **Env Vars:** api (22), llm (13), gpt (2)
 > **Cross-References:** in the last (1), we discussed (1), we talked about (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -622,8 +614,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 
-#### Mitigating latency issues in LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980)
+#### [Mitigating latency issues in LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,7 +624,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=13)** Latency is the delay between sending a request to the LLM API and receiving the result.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=20)** Both latency and uptime issues affect the user experience and the perceived reliability of your LLM generative AI product.
+> **[0:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=20)** Both latency and uptime issues affect the [[User Experience (UX)|user experience]] and the perceived reliability of your LLM [[Generative AI]] product.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=30)** A slow response time or high latency can make it seem as if your app is not working, similar to actual downtime.
 >
@@ -671,9 +662,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=159)** Secondly, you can consider using API providers that have lower latencies.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=166)** For instance, Groq is an LLM API provider that has developed custom hardware to reduce latency and increased throughput.
+> **[2:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=166)** For instance, Groq is an LLM API provider that has developed custom [[Hardware]] to reduce latency and increased throughput.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=176)** For some models, you can expect responses to be generated with a throughput of 400 tokens per second.
+> **[2:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=176)** For some models, you can expect responses to be generated with a throughput of 400 [[Tokens]] per second.
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/mitigating-latency-issues-in-llm-deployment?u=76281980&t=185)** Caching is another technique for reducing latency.
 >
@@ -695,7 +686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), llm (8), product (2), [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1), [[Hardware]] (1), [[Tokens]] (1)
 > **Env Vars:** api (10), llm (8)
 > **Definitions:** is an  (2), means that (1)
 > **Analogies:** for instance (2), similar to (1)
@@ -703,8 +694,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: API limitations for LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980)
+#### [Challenge: API limitations for LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,9 +720,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=56)** First, you need to create an account on Groq and create an API token.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=62)** Next, you will write a Python code to query their API.
+> **[1:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=62)** Next, you will write a [[Python (Programming Language)|Python]] code to query their API.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=68)** After that, we will measure the number of tokens that Groq processed and the time it took to send us the response.
+> **[1:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=68)** After that, we will measure the number of [[Tokens]] that Groq processed and the time it took to send us the response.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-api-limitations-for-llm-deployment?u=76281980&t=76)** We can calculate Groq's throughput by dividing these total tokens with the processing time.
 >
@@ -748,15 +738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), application (3), next (2), [[Tokens]] (2), llm (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (9), llm (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (catchy music) (1)
 
-#### Solution: API limitations for LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980)
+#### [Solution: API limitations for LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,11 +775,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=95)** We can loop through each model, generating text using the generate text function.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=103)** For each model, we calculate the throughput, which is the number of tokens processed per unit of time.
+> **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=103)** For each model, we calculate the throughput, which is the number of [[Tokens]] processed per unit of time.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=112)** You can see Groq's throughput can get as high as 900 tokens per second.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=119)** Now, let's switch to calculating openAI's throughput for the GPT-4 turbo model.
+> **[1:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=119)** Now, let's switch to calculating openAI's throughput for the [[GPT-4]] turbo model.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-api-limitations-for-llm-deployment?u=76281980&t=126)** You can see that the throughput for the GPT-4 is about 22 tokens per second, which is far lower than Groq's throughput.
 >
@@ -798,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Tokens]] (3), prompt (2), [[GPT-4]] (2), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[GPT-4]] (2)
 > **Env Vars:** api (6), gpt (2), llm (1)
 > **Code Identifiers:** openai (1)
 > **URLs:** [groq.com](https://groq.com) (1)
@@ -812,14 +801,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vector databases for LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980)
+#### [Vector databases for LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=0)** - [Instructor] Welcome to our chapter on vector databases for LLM deployment.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=0)** - [Instructor] Welcome to our chapter on [[Vector Databases]] for LLM deployment.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=5)** Today, we will dive into how vector databases are transforming the deployment of large language models.
+> **[0:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=5)** Today, we will dive into how vector databases are transforming the deployment of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=13)** In the last chapters, you learned about the different ways to deploy LLMs and some challenges in deploying LLM-powered applications.
 >
@@ -831,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=48)** We begin with a basic structure.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=50)** Deploying the LLM on servers like Triton or FastAPI, setting up a user-friendly frontend, and ensuring our backend handles all essential functions like logging and prompt engineering.
+> **[0:50](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=50)** Deploying the LLM on servers like Triton or FastAPI, setting up a user-friendly frontend, and ensuring our backend handles all essential functions like logging and [[Prompt Engineering]].
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=64)** But as we lay this foundation, think about its limitation.
 >
@@ -847,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=93)** Firstly, our LLM may be trained on outdated data, which means that it' will not be able to write content on current trends.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=103)** This can be fixed by fine tuning the model with the latest data.
+> **[1:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=103)** This can be fixed by [[Fine Tuning]] the model with the latest data.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=108)** However, fine tuning takes time and the model will always lag behind.
 >
@@ -859,7 +847,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=145)** In this chapter, we will look at the different architectures to solve some of these issues, and in this video, we will see how we can use vector databases to build a retrieval augmented generation architecture to retrieve relevant content and pass that as context to the LLM while it is generating text.
 >
-> **[2:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=168)** Unlike traditional databases, vector databases store vectors instead of files or tabular data.
+> **[2:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=168)** Unlike traditional [[Databases]], vector databases store vectors instead of files or tabular data.
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980&t=176)** Each vector in the database corresponds to some data, usually in the form of text.
 >
@@ -903,19 +891,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), data (10), database (9), [[Vector Databases]] (6), chatbot (4)
+> **Frameworks & Libraries:** [[Vector Databases]] (6), [[Fine Tuning]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1), [[Databases]] (1)
 > **Env Vars:** llm (12), rag (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agents in LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980)
+#### [Agents in LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=0)** - In the last video, you saw how we can use vector databases to build a rag architecture.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=0)** - In the last video, you saw how we can use [[Vector Databases]] to build a rag architecture.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=7)** In this lesson, we will see how we can extend our LLM apps functionalities by making it do tasks for us autonomously.
 >
@@ -947,7 +934,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=96)** Well, first, we need to store the generated content.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=100)** In this case, we can store it in a traditional SQL database.
+> **[1:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=100)** In this case, we can store it in a traditional [[SQL]] database.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/agents-in-llm-deployment?u=76281980&t=105)** To generate the summaries, we can then pass the whole generated article as context to the LLM in the prompt.
 >
@@ -977,15 +964,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (13), next (2), data (2), database (2), prompt (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[SQL]] (1)
 > **Env Vars:** llm (13), llmapi (1), sql (1), llms (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
-#### Chains in LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980)
+#### [Chains in LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1015,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=179)** Let us look at some of the advantages of LLM chains.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=184)** Specialization allows LLMs to excel in their respective tasks, thereby increasing the overall effectiveness of our applications.
+> **[3:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=184)** Specialization allows LLMs to [[Microsoft Excel|excel]] in their respective tasks, thereby increasing the overall effectiveness of our applications.
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=194)** The modular nature of LLM chains allow for easy introduction of new models, or modifications of existing ones to tackle additional requirements or optimize outcome.
 >
@@ -1037,13 +1023,13 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=213)** This helps us optimize resource utilization and reduce operational cost.
 >
-> **[3:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=220)** This scalability is essential for managing varying load and is particularly advantageous in systems where different tasks have different resource requirements.
+> **[3:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=220)** This [[Scalability]] is essential for managing varying load and is particularly advantageous in systems where different tasks have different resource requirements.
 >
 > **[3:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=232)** However, LLM chains have many engineering challenges.
 >
-> **[3:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=237)** One of the biggest challenges is ensuring smooth data transition between the models while maintaining data integrity.
+> **[3:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=237)** One of the biggest challenges is ensuring smooth data transition between the models while maintaining [[Data Integrity]].
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=246)** Proper data management is crucial to prevent the data loss and ensure that each model receives the correct information needed for processing.
+> **[4:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=246)** Proper [[Data Management]] is crucial to prevent the data loss and ensure that each model receives the correct information needed for processing.
 >
 > **[4:17](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=257)** Errors can cascade through the chain with each model potentially amplifying an initial mistake.
 >
@@ -1053,9 +1039,9 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=275)** Each additional model in the chain can add to the total processing time impacting performance.
 >
-> **[4:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=283)** This is why LLM chains should be kept short in real-time application.
+> **[4:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=283)** This is why LLM chains should be kept short in [[Real-Time]] application.
 >
-> **[4:49](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=289)** However, latency is not a concern for offline or batch processing applications like our content generation app.
+> **[4:49](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=289)** However, latency is not a concern for offline or [[Batch Processing]] applications like our content generation app.
 >
 > **[4:58](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/chains-in-llm-deployment?u=76281980&t=298)** Now you know about how to build LLM systems.
 >
@@ -1063,15 +1049,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (20), data (5), chatbot (3), application (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Scalability]] (1), [[Data Integrity]] (1), [[Data Management]] (1), [[Real-Time]] (1)
 > **Env Vars:** llm (20)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Deploy a simple RAG application using an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980)
+#### [Challenge: Deploy a simple RAG application using an API](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980&t=40)** To complete this challenge, you will have to do the following steps.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980&t=44)** First, you will need to create a Graphlit account and fetch your API tokens.
+> **[0:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980&t=44)** First, you will need to create a Graphlit account and [[Fetch]] your API [[Tokens]].
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-deploy-a-simple-rag-application-using-an-api?u=76281980&t=50)** Next, you need to ingest a webpage.
 >
@@ -1113,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), rag (4), application (3), database (3), data (2)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (5), rag (4), api (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
@@ -1121,8 +1106,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright uptempo music) (1)
 
-#### Solution: Deploying a simple RAG application using an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980)
+#### [Solution: Deploying a simple RAG application using an API](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=56)** Now we can start writing functions for each task.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=60)** The create_feed function creates a data ingestion feed in Graphlit, it takes the graphlit instance and a URI as parameters.
+> **[1:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=60)** The create_feed function creates a [[Data Ingestion]] feed in Graphlit, it takes the graphlit instance and a URI as parameters.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=70)** It creates a FeedInput object with the provided URI and other properties, and then uses the Graphlit client create_feed method to create the feed.
 >
@@ -1152,7 +1136,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=102)** A specification is a set of LLM configurations that define the behavior of the LLM in our RAG application.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=112)** We define a specification input object with various properties such as name, type, service type, search type, and model properties like temperature, probability, and completion token limit.
+> **[1:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=112)** We define a specification input object with various properties such as name, type, service type, search type, and model properties like temperature, [[Probability]], and completion token limit.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-deploying-a-simple-rag-application-using-an-api?u=76281980&t=131)** (keyboard tapping)
 >
@@ -1190,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), data (4), rag (3), llm (3), api (2)
+> **Frameworks & Libraries:** [[Data Ingestion]] (1), [[Probability]] (1)
 > **Env Vars:** rag (3), uri (3), llm (3), api (2)
 > **Code Identifiers:** create_feed (3), organization_id (1), environment_id (1), jwt_secret (1), feed_id (1)
 > **Documentation:** specification (7)
@@ -1204,12 +1188,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to LLM performance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980)
+#### [Introduction to LLM performance monitoring](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=0)** - [Instructor] In the last chapter, we learned about generative AI deployment architectures and the complexities of integrating LLMs into production applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=0)** - [Instructor] In the last chapter, we learned about [[Generative AI]] deployment architectures and the complexities of integrating LLMs into production applications.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=12)** However, deploying these models is only the first step.
 >
@@ -1221,7 +1204,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=41)** Even though LLMs are very capable models, deploying them to production comes with inherent risks and imperfections.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=51)** They are susceptible to several issues like hallucination, prompt injection, and other security challenges that can affect their functionality and user experience.
+> **[0:51](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=51)** They are susceptible to several issues like hallucination, prompt injection, and other security challenges that can affect their functionality and [[User Experience (UX)|user experience]].
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=64)** In this lesson, we will learn about monitoring LLM apps in production and how to address challenges like hallucination.
 >
@@ -1253,13 +1236,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=198)** It helps you track user behaviors so you can improve your application and ensure your application is secure, reliable, and beneficial to all users.
 >
-> **[3:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=210)** In the next lesson, we will learn about how specific monitoring challenges such as hallucinations and AI security.
+> **[3:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=210)** In the next lesson, we will learn about how specific monitoring challenges such as hallucinations and [[AI Security]].
 >
 > **[3:39](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980&t=219)** We will also learn the tools needed to evaluate LLM performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), application (6), [[Generative AI]] (4), [[Security]] (2), data (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[User Experience (UX)|User experience]] (1), [[AI Security]] (1)
 > **Env Vars:** llm (6), cpu (1)
 > **Definitions:** is an  (2), is called (1)
 > **Analogies:** such as (3)
@@ -1267,14 +1250,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing hallucinations in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980)
+#### [Addressing hallucinations in LLMs](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=0)** - [Instructor] When LLMs are not given enough context or are asked to provide responses outside the training data, they tend to generate false, irrelevant, or inaccurate outputs.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=16)** This is known as LLM hallucinations and it is one of the biggest challenges of deploying generative AI applications.
+> **[0:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=16)** This is known as LLM hallucinations and it is one of the biggest challenges of deploying [[Generative AI]] applications.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=25)** Broadly, there are two types of hallucinations, factual hallucination, and faithfulness hallucinations.
 >
@@ -1290,7 +1272,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=81)** Frequent inaccuracies can also reduce your users' trust in your tool, which can reduce the adoption of your generative AI applications.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=92)** And finally, when LLMs are used in sectors like healthcare, law, financial forecasting, where reliability and accuracy is important, hallucinations can pose operational and financial risks.
+> **[1:32](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=92)** And finally, when LLMs are used in sectors like healthcare, law, [[Financial Forecasting]], where reliability and accuracy is important, hallucinations can pose operational and financial risks.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=108)** So how do we mitigate hallucinations in our applications?
 >
@@ -1310,9 +1292,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=177)** Similarly, having a cache of human-verified answers that the LLM can leverage can also help reduce hallucinations.
 >
-> **[3:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=187)** You can also use prompt engineering techniques that we have covered in our previous courses, like few-short prompting, chain of thought prompting, prompting the LLM to think step by step and to respond with, I don't know, when it does not have information, can help reduce hallucinations.
+> **[3:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=187)** You can also use [[Prompt Engineering]] techniques that we have covered in our previous courses, like few-short prompting, chain of thought prompting, prompting the LLM to think step by step and to respond with, I don't know, when it does not have information, can help reduce hallucinations.
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=208)** And finally, fine tuning the LLM on your own data and edge cases can help identify and mitigate hallucinations.
+> **[3:28](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=208)** And finally, [[Fine Tuning]] the LLM on your own data and edge cases can help identify and mitigate hallucinations.
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/addressing-hallucinations-in-llms?u=76281980&t=218)** In conclusion, while LLM hallucinations are a huge challenge for LLM deployments, they can be easily mitigated.
 >
@@ -1320,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (14), data (3), [[Generative AI]] (2), rag (2), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Financial Forecasting]] (1), [[Prompt Engineering]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** llm (14), rag (2)
 > **Versions:** 0.1 (1), 0.2 (1)
 > **Cross-References:** in the next (2)
@@ -1333,16 +1315,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt management for LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980)
+#### [Prompt management for LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=0)** - [Instructor] In the previous course, we learned about prompt engineering and how a prompt structure, wording, and comprehensiveness can influence the quality and relevance of the model's output.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=0)** - [Instructor] In the previous course, we learned about [[Prompt Engineering]] and how a prompt structure, wording, and comprehensiveness can influence the quality and relevance of the model's output.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=14)** Since prompts are the primary interface with the LLMs, it is vital that we manage and version our prompts and evaluate their efficacy.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=24)** In this lesson, we will discuss a typical prompt engineering workflow when building a generative AI product and how you should manage and evaluate your prompts.
+> **[0:24](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=24)** In this lesson, we will discuss a typical prompt engineering workflow when building a [[Generative AI]] product and how you should manage and evaluate your prompts.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=36)** Remember that prompts are vital as they control how the model responds to a query.
 >
@@ -1360,7 +1341,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=79)** This gives the LLM more information to use to respond.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=84)** It can contain previous user interactions, user metadata, and details about the topic of discussion.
+> **[1:24](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=84)** It can contain previous user interactions, user [[Metadata]], and details about the topic of discussion.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=91)** The context will change based on how the user is interacting with your app.
 >
@@ -1374,7 +1355,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=134)** As a prompt engineer, you will have to figure out the best system prompt and the context to answer user queries.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=143)** Effective prompting not only improves the user experience, but it also reduces the need for extensive post-processing and enhances the efficiency of interactions with the LLM.
+> **[2:23](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=143)** Effective prompting not only improves the [[User Experience (UX)|user experience]], but it also reduces the need for extensive post-processing and enhances the efficiency of interactions with the LLM.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=157)** A typical prompt engineering workflow involves several steps.
 >
@@ -1400,7 +1381,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=239)** With each prompt, you will learn something new and better understand what works and doesn't work.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=246)** This is why keeping a structured record of prompt versions and their performance metrics is essential.
+> **[4:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=246)** This is why keeping a structured record of prompt versions and their [[Performance Metrics]] is essential.
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980&t=254)** Versioning prompts similar to software versioning is crucial because it helps prompt engineers to understand what changes have been made, why they were made, and who made them.
 >
@@ -1414,20 +1395,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (24), llm (5), [[Prompt Engineering]] (4), next (3), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Generative AI]] (1), [[Metadata]] (1), [[User Experience (UX)|User experience]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** llm (5)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating LLMs in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980)
+#### [Evaluating LLMs in production](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=0)** - [Instructor] In the last lesson, we discussed how changing prompts can affect the LLM's response.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=7)** This is why LLM evaluations are essential as they ensure that our generative AI apps are accurate, reliable, and context aware before they are deployed.
+> **[0:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=7)** This is why LLM evaluations are essential as they ensure that our [[Generative AI]] apps are accurate, reliable, and context aware before they are deployed.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=19)** In this lesson, we will explore evaluation for LLMs and evaluation metrics for RAG applications.
 >
@@ -1439,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=48)** These benchmarks help us understand a model's strength and weaknesses.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=54)** For instance, MMLU tests how good a LMS knowledge is across wide range of subjects like mathematics and history to more specialized areas like law and ethics.
+> **[0:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=54)** For instance, MMLU tests how good a LMS knowledge is across wide range of subjects like mathematics and history to more specialized areas like law and [[Ethics]].
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=67)** However, model evals do not tell us how well a model might perform at this specialized task we are doing.
 >
@@ -1455,7 +1435,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=108)** It ensures that we correctly prompt the model to lead to the desired responses.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=115)** Since each LLM is trained differently, the same prompt may not work when changing the model or after fine tuning your existing model.
+> **[1:55](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=115)** Since each LLM is trained differently, the same prompt may not work when changing the model or after [[Fine Tuning]] your existing model.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/evaluating-llms-in-production?u=76281980&t=125)** Therefore, you should evaluate your prompts after changing the model as well.
 >
@@ -1491,14 +1471,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (11), rag (5), [[Generative AI]] (3), next (3), prompt (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Ethics]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** llm (11), rag (5), mmlu (2), glue (1), lms (1)
 > **Cross-References:** in the last (1), we discussed (1), in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Evaluating LLM systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980)
+#### [Challenge: Evaluating LLM systems](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980&t=69)** As a bonus, you can also try to change the prompt or the contextual data, then generate new answers and measure the metrics again.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980&t=80)** This will help you guide your prompt engineering process.
+> **[1:20](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980&t=80)** This will help you guide your [[Prompt Engineering]] process.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-evaluating-llm-systems?u=76281980&t=83)** By the end of this challenge, you will be well-equipped to evaluate RAG applications, allowing you to confidently return LLM-generated answers to your end users.
 >
@@ -1530,15 +1509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (6), next (3), application (2), data (2), ai (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1)
 > **Env Vars:** rag (6), gpt (1), llm (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Evaluating LLM systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980)
+#### [Solution: Evaluating LLM systems](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980&t=41)** Next, from Ragas, we will import the four metrics, as well as the evaluate class.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980&t=52)** Next, we set up an OpenAI API key using the getpass model.
+> **[0:52](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980&t=52)** Next, we set up an [[OpenAI API]] key using the getpass model.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-evaluating-llm-systems?u=76281980&t=60)** Now we are ready to load our dataset.
 >
@@ -1576,7 +1554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), application (2), next (2), data (2), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1)
 > **Env Vars:** rag (2), api (1)
 > **Code Identifiers:** fiqa_eval (1)
 > **Definitions:** is a  (1)
@@ -1589,20 +1567,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security considerations for LLMs in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980)
+#### [Security considerations for LLMs in production](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=0)** - [Instructor] In the last chapter, we talked about the importance of evaluating LLM outputs, especially for real-time rag applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=0)** - [Instructor] In the last chapter, we talked about the importance of evaluating LLM outputs, especially for [[Real-Time]] rag applications.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=9)** While evaluations test the quality of the output of LLMs, they do not test whether LLM outputs are safe and are not leaking sensitive or private data.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=22)** Moreover, elements can be prone to malicious actors trying to attack them to get them to generate harmful or incorrect outputs.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=34)** This could result in the spread of misinformation, damaging content, craft, phishing emails, and so on.
+> **[0:34](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=34)** This could result in the spread of misinformation, damaging content, craft, [[Phishing]] emails, and so on.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=43)** In this chapter, we will learn about some of the safety concerns of LLMS in production and what you can do to protect your generative AI application.
+> **[0:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=43)** In this chapter, we will learn about some of the safety concerns of LLMS in production and what you can do to protect your [[Generative AI]] application.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=56)** First, let's take a look at some of the safety concerns and attack vectors of LLMs in production.
 >
@@ -1610,7 +1587,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=69)** It involves manipulating and LLM by providing inputs that cause it to perform unintended actions.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=78)** People have used prompt injection attacks to get discounts for products through support chatbots.
+> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=78)** People have used prompt injection attacks to get discounts for [[Microsoft Products|products]] through support chatbots.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=85)** Have LLMs output hurtful comments, and even reveal internal company data.
 >
@@ -1618,7 +1595,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=104)** LLM systems, especially those that are agent-based and have access to tools, may reveal sensitive data in their output.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=115)** This can lead to unauthorized data access, privacy violations, and security breaches.
+> **[1:55](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=115)** This can lead to unauthorized data access, [[Privacy]] violations, and security breaches.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=122)** It is crucial to implement data sanitization and to enforce strict access policies for the tools that LLMs use.
 >
@@ -1626,7 +1603,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=155)** Finally, a fine-tuned LLM can unintentionally expose sensitive information it was trained on.
 >
-> **[2:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=164)** This would create data privacy issues and may leak PII information.
+> **[2:44](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=164)** This would create [[Data Privacy]] issues and may leak PII information.
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=171)** This is known model inversion attack.
 >
@@ -1636,7 +1613,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=184)** For instance, an LLM can generate biased or discriminatory outputs, and LLM can also respond aggressively or rudely.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=196)** This is a huge concern in customer support chatbots, where a harmful response can cause reputational damage and customer dissatisfaction.
+> **[3:16](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=196)** This is a huge concern in [[Customer Support]] chatbots, where a harmful response can cause reputational damage and customer dissatisfaction.
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980&t=208)** Now, let us look at some of the mitigation strategies to make your AI systems safe and secure.
 >
@@ -1662,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (15), data (8), prompt (3), [[Security]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Phishing]] (1), [[Generative AI]] (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Env Vars:** llm (15), llms (1), pii (1)
 > **CLI Commands:** make (1), rails (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -1670,12 +1647,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Balancing costs and performance in LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980)
+#### [Balancing costs and performance in LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=0)** - [Instructor] So far, we have been mostly discussing real-time deployment architectures.
+> **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=0)** - [Instructor] So far, we have been mostly discussing [[Real-Time]] deployment architectures.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=6)** In a real-time system.
 >
@@ -1693,7 +1669,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=55)** The first step companies usually take when building an AI product is to use LLM API by providers, like Anthropic or OpenAI.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=68)** With APIs, the primary cost factor is related to consumption of tokens.
+> **[1:08](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=68)** With APIs, the primary cost factor is related to consumption of [[Tokens]].
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=74)** Tokens are essentially units of texts, or pieces of words, processed by the model.
 >
@@ -1717,7 +1693,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=173)** LLM APIs and dedicated servers are essential for applications that require real-time responses, like chat bots.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=182)** For applications that do not require real-time processing, batch processing can be a cost-effective solution.
+> **[3:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=182)** For applications that do not require real-time processing, [[Batch Processing]] can be a cost-effective solution.
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=190)** A batch processing system runs at a scheduled time on a backlog of requests.
 >
@@ -1733,7 +1709,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=247)** This process reduces the model's memory footprint, and speeds up its computation, albeit at the potential cost of a slight decrease in LLM's quality, metrics accuracy, F1 score, or perplexity.
 >
-> **[4:28](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=268)** However, quantized models can run faster and on less powerful hardware, which can be cheaper, enabling more efficient use of resources and lower costs.
+> **[4:28](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=268)** However, quantized models can run faster and on less powerful [[Hardware]], which can be cheaper, enabling more efficient use of resources and lower costs.
 >
 > **[4:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/balancing-costs-and-performance-in-llm-deployment?u=76281980&t=280)** The choice of GPU can also affect the performance of LLMs.
 >
@@ -1747,15 +1723,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (11), [[Real-Time]] (5), api (5), [[Tokens]] (5), ai (3)
+> **Frameworks & Libraries:** [[Real-Time]] (5), [[Tokens]] (5), [[Batch Processing]] (3), [[Hardware]] (1)
 > **Env Vars:** llm (11), api (5), gpu (2), a100 (1), h100 (1)
 > **Prerequisites:** you need to have (1), required to (1), setup (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies for cost-effective LLM deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980)
+#### [Strategies for cost-effective LLM deployment](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,25 +1738,25 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=5)** So by giving your framework for how to choose the LLM deployment methodology for your application.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=13)** Applications using large language models transition from an experimental phase to a more mature product, serving a large user piece.
+> **[0:13](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=13)** Applications using [[Large Language Models (LLM)|large language models]] transition from an experimental phase to a more mature product, serving a large user piece.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=23)** During this process, its underlying LLM architecture typically evolves through several stages.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=31)** This evolution is driven by changing needs, such as requirement for customization, scalability, and control over the data and model.
+> **[0:31](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=31)** This evolution is driven by changing needs, such as requirement for customization, [[Scalability]], and control over the data and model.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=43)** At first, the deployment uses a third party API like Open AI's GPT.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=50)** This requires minimal setup and maintenance, and it is ideal for prototyping or for small-scale applications.
+> **[0:50](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=50)** This requires minimal setup and maintenance, and it is ideal for [[Prototyping]] or for small-scale applications.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=58)** However, as the user base grows, the reliance on external APIs may become limiting due to cost, latency, and rate limits.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=70)** Moreover, as the application becomes more complex, a need for customizability also emerges.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=78)** While this can be handled at first by prompt engineering and vector databases, eventually you want to use a model fine-tuned for your domain.
+> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=78)** While this can be handled at first by [[Prompt Engineering]] and [[Vector Databases]], eventually you want to use a model fine-tuned for your domain.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=90)** At this stage, you will want to use your own LLM-deployed base models like Llama or Mistral.
+> **[1:30](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=90)** At this stage, you will want to use your own LLM-deployed base models like [[LLaMA]] or Mistral.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=98)** By deploying on your own servers, you have more control over the deployment environment and the data security.
+> **[1:38](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=98)** By deploying on your own servers, you have more control over the deployment environment and the [[Data Security]].
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/strategies-for-cost-effective-llm-deployment?u=76281980&t=106)** You can also get better performance that is not limited by your API provider.
 >
@@ -1805,20 +1780,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), application (5), data (4), api (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Scalability]] (1), [[Prototyping]] (1), [[Prompt Engineering]] (1), [[Vector Databases]] (1)
 > **Env Vars:** llm (8), api (2), gpt (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Estimating costs of an LLM API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980)
+#### [Challenge: Estimating costs of an LLM API](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=0)** - [Instructor] We have talked about the costs associated with deploying LLM applications.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=12)** When you use an LLM API, you typically pay based on tokens.
+> **[0:12](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=12)** When you use an LLM API, you typically pay based on [[Tokens]].
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=18)** OpenAI charges differently for input and output tokens.
 >
@@ -1834,7 +1808,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=67)** Here are the steps you need to do.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=69)** First, you will have to write a script that can call the OpenAI API and get the response.
+> **[1:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=69)** First, you will have to write a script that can call the [[OpenAI API]] and get the response.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/challenge-estimating-costs-of-an-llm-api?u=76281980&t=77)** Next, we'll measure how many tokens were used in the input and output prompts.
 >
@@ -1846,13 +1820,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), llm (4), api (4), application (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[OpenAI API]] (1)
 > **Env Vars:** api (5), llm (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Estimating costs of an LLM API
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980)
+#### [Solution: Estimating costs of an LLM API](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=26)** Here you can see the current costs.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=29)** Remember that OpenAI charges differently for input and output tokens, so you need to specify their costs separately.
+> **[0:29](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=29)** Remember that OpenAI charges differently for input and output [[Tokens]], so you need to specify their costs separately.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=38)** Now, let's write a function to calculate the cost.
 >
@@ -1896,7 +1869,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=149)** First, you need to download the tiktoken package.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=155)** To use tiktoken, we first fetch the encoding for the model.
+> **[2:35](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=155)** To use tiktoken, we first [[Fetch]] the encoding for the model.
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/solution-estimating-costs-of-an-llm-api?u=76281980&t=160)** Next, we can use the encode method to encode any text.
 >
@@ -1910,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (11), next (2), prompt (2), api (1), product (1)
+> **Frameworks & Libraries:** [[Tokens]] (11), [[Fetch]] (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
@@ -1922,8 +1895,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,7 +1907,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=22)** Remember, choosing the right deployment strategy is crucial.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=27)** Whether you're deploying via APIs or custom models, it is essential to ensure scalability and flexibility.
+> **[0:27](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=27)** Whether you're deploying via APIs or custom models, it is essential to ensure [[Scalability]] and flexibility.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=36)** Fine tune models can be particularly beneficial for specific tasks, enhancing overall performance.
 >
@@ -1945,11 +1917,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=54)** Monitoring endpoint uptime is critical, always be prepared for potential down times.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=62)** Implement strategies to mitigate latency issues to ensure a smooth user experience.
+> **[1:02](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=62)** Implement strategies to mitigate latency issues to ensure a smooth [[User Experience (UX)|user experience]].
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=69)** Understand the limitations of your choosing API and plan accordingly to avoid unexpected challenges.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=78)** In chapter three, we went into advanced deployment architectures, leveraging vector databases.
+> **[1:18](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=78)** In chapter three, we went into advanced deployment architectures, leveraging [[Vector Databases]].
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=86)** Leveraging vector databases can significantly improve retrieval and storage efficiency.
 >
@@ -1991,13 +1963,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=226)** For more insights and updates, subscribe to our newsletter@tinyml.[substack.com](https://substack.com).
 >
-> **[3:53](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=233)** Keep learning, keep innovating, and best of luck with your LLM products.
+> **[3:53](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=233)** Keep learning, keep innovating, and best of luck with your LLM [[Microsoft Products|products]].
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980&t=239)** Thank you for participating in LLMOps part two.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Security]] (3), [[Scalability]] (2), api (2), [[Vector Databases]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Vector Databases]] (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (4), api (2)
 > **Cross-References:** we discussed (1), we covered (1)
 > **URLs:** [substack.com](https://substack.com) (1)

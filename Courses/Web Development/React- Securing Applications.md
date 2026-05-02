@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing React applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
+#### [Securing React applications](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=0)** - [Emmanuel] Have you ever been faced with a security issue or had your application attacked?
 >
-> **[0:05](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=5)** Do you seek knowledge on security for React applications?
+> **[0:05](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=5)** Do you seek knowledge on security for [[React.js|React]] applications?
 >
 > **[0:09](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=9)** If so, you have come to the right place.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=26)** It's my pleasure to teach you some of the latest ways to secure your React application.
 >
-> **[0:31](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=31)** First, we'll set up our base project using a few tools and best coding practices to get us up and running quickly with a good template.
+> **[0:31](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=31)** First, we'll set up our base project using a few tools and best [[Coding Practices]] to get us up and running quickly with a good template.
 >
 > **[0:40](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980&t=40)** Then we'll go through some of the major security threats and how to address them within our React application.
 >
@@ -113,26 +112,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[React.js|React]] (6), application (5), [[Coding Practices]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Coding Practices]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** api (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of advanced concepts with React, some experience with React is a must.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of advanced concepts with [[React.js|React]], some experience with React is a must.
 >
 > **[0:07](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=7)** If you aren't familiar with creating React components using props and importing modules, I suggest that you take a basic React course, such as our [[React Essential Training]].
 >
-> **[0:18](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=18)** Also, experience with JavaScript, especially ES6 syntax or above is a must for this course, as this is the basis of a React programmer.
+> **[0:18](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=18)** Also, experience with [[JavaScript]], especially ES6 syntax or above is a must for this course, as this is the basis of a React programmer.
 >
 > **[0:27](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=27)** In this course, I use the ES2015 version of the syntax.
 >
-> **[0:32](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=32)** Next, being familiar with terminal commands and npm isn't a must, but will definitely help you when we use these tools.
+> **[0:32](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=32)** Next, being familiar with terminal commands and [[npm]] isn't a must, but will definitely help you when we use these tools.
 >
 > **[0:39](https://www.linkedin.com/learning/react-securing-applications-2/what-you-should-know?u=76281980&t=39)** As you'll see, I'm running on the Mac, but you can follow along on the PC as well, as the tools work exactly the same on both platforms.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), [[JavaScript]] (1), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[JavaScript]] (1), [[npm]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **Env Vars:** es6 (1), es2015 (1)
 > **Definitions:** is a  (2)
@@ -155,12 +153,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initial setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
+#### [Initial setup](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=0)** - [Instructor] For setting up our React project I really want to get started where most of you start when developing a React application and that is with the create-react-app CLI tool, better known as the CRA.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=0)** - [Instructor] For setting up our [[React.js|React]] project I really want to get started where most of you start when developing a React application and that is with the create-react-app [[CLI]] tool, better known as the CRA.
 >
 > **[0:11](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=11)** Then we'll add what we need to be properly set with our base setup.
 >
@@ -174,11 +171,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=33)** So now that I have that, what I am going to bring is my terminal, so I'm going to click on View, Terminal, and then what I'm going to use is npx.
 >
-> **[0:42](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=42)** So if you're not familiar with npx it's basically npm without having the tool installed locally to your system.
+> **[0:42](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=42)** So if you're not familiar with npx it's basically [[npm]] without having the tool installed locally to your system.
 >
 > **[0:49](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=49)** So it's going to download the tool, create the new application, and then remove it.
 >
-> **[0:54](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=54)** So it's a great tool to use any Angular or React tool without having them installed locally.
+> **[0:54](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=54)** So it's a great tool to use any [[Angular]] or React tool without having them installed locally.
 >
 > **[1:01](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=61)** So let's go ahead and do npx create-react-app and I'm going to call this one secure.
 >
@@ -198,11 +195,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=129)** Once you have that, you want to make sure that you copy the Index from the Public 'cause I actually have some libraries that are installed with the Index.
 >
-> **[2:17](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=137)** So let's go to Public and remove the index.html and then Option + Click or Command or Control + C and then Command or Control + V.
+> **[2:17](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=137)** So let's go to Public and remove the index.[[HTML]] and then Option + Click or Command or Control + C and then Command or Control + V.
 >
 > **[2:30](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=150)** And that should do it for the files that we have to copy from the Exercise Files.
 >
-> **[2:34](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=154)** So once we have this, I'm supposed to have all of this open like we had before, I'm going to simply drag and drop the folder inside of Visual Studio Code or on Windows you can right click and open in Visual Studio Code.
+> **[2:34](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=154)** So once we have this, I'm supposed to have all of this open like we had before, I'm going to simply drag and drop the folder inside of Visual Studio Code or on [[Windows]] you can right click and open in Visual Studio Code.
 >
 > **[2:48](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=168)** So now I have my project in here.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=192)** And what we need to install is react-router-dom.
 >
-> **[3:19](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=199)** So if you want to see if everything is good in the package.json file, we should see react-router-dom appear in the dependencies shortly.
+> **[3:19](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=199)** So if you want to see if everything is good in the package.[[JSON]] file, we should see react-router-dom appear in the dependencies shortly.
 >
 > **[3:28](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980&t=208)** Perfect.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), application (7), [[npm]] (4), dom (3), [[CLI]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[npm]] (4), [[CLI]] (1), [[Angular]] (1), [[HTML]] (1)
 > **CLI Commands:** npm (4), npx (3), make (3)
 > **Tools:** visual studio (4), terminal (4)
 > **UI Navigation:** open the (3), click on (2), go to (1), drag and drop (1)
@@ -241,8 +238,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), setup (1)
 > **File Paths:** index.html (1), package.json (1)
 
-#### Set up flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980)
+#### [Set up flow](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=18)** I'm going to leave my application running here, and I'm going to bring a brand new terminal by clicking on the plus here, like so.
 >
-> **[0:25](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=25)** Make sure that I'm in the right directory, so the security where I have the package.json here, like so and then what I'm going to do is do npm install, or i.
+> **[0:25](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=25)** Make sure that I'm in the right directory, so the security where I have the package.[[JSON]] here, like so and then what I'm going to do is do [[npm]] install, or i.
 >
 > **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=36)** That's the shortcut for install, if you don't know.
 >
@@ -310,11 +306,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=179)** Let me just delete that, save it.
 >
-> **[3:04](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=184)** As you can see, we can keep working on our files here, and we'll explore the security threats for React in the following videos.
+> **[3:04](https://www.linkedin.com/learning/react-securing-applications-2/set-up-flow?u=76281980&t=184)** As you can see, we can keep working on our files here, and we'll explore the security threats for [[React.js|React]] in the following videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[npm]] (4), next (3), [[Security]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (2), [[React.js|React]] (1)
 > **CLI Commands:** npm (4), make (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** package.json (2), app.js (1)
@@ -323,12 +319,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### Set up ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/set-up-eslint?u=76281980)
+#### [Set up ESLint](https://www.linkedin.com/learning/react-securing-applications-2/set-up-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/set-up-eslint?u=76281980&t=0)** - As you may or may not be aware, ESLint is already installed with React when creating an application with CRA.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/set-up-eslint?u=76281980&t=0)** - As you may or may not be aware, [[ESLint]] is already installed with [[React.js|React]] when creating an application with CRA.
 >
 > **[0:06](https://www.linkedin.com/learning/react-securing-applications-2/set-up-eslint?u=76281980&t=6)** So you could literally keep working on your app without setting anything up.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (5), application (5), [[React.js|React]] (1), [[Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (5), [[React.js|React]] (1)
 > **Env Vars:** npx (2), eslint (2), cra (1), mpm (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** npx (2), make (2)
@@ -444,14 +439,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OWASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
+#### [Introduction to OWASP](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=0)** - [Instructor] If you are serious about security, OWASP is always a great place to get started in your research for potential threats and solutions.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=0)** - [Instructor] If you are serious about security, [[OWASP]] is always a great place to get started in your research for potential threats and solutions.
 >
-> **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=8)** It is called the Open Web Application Security Project, or OWASP, and includes a big community and many resources available to you.
+> **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=8)** It is called the Open [[Web Application Security]] Project, or OWASP, and includes a big community and many resources available to you.
 >
 > **[0:16](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=16)** So, go to [owasp.org](https://owasp.org) and once you get to this page, you're going to see that it's structured a little bit differently than in the past if you've seen the previous version of this course or if you've been to this site before.
 >
@@ -473,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=99)** For example here.
 >
-> **[1:41](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=101)** The next thing that I would do is go back to the Cheat Sheet Series and then scroll down until you see the Slack channel here on the right.
+> **[1:41](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=101)** The next thing that I would do is go back to the Cheat Sheet Series and then scroll down until you see the [[Slack]] channel here on the right.
 >
 > **[1:48](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980&t=108)** So, what I would recommend is that you join the Slack channel because there's a whole bunch of engineers like you and me that can discuss and share tips and tricks and so on so forth.
 >
@@ -493,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[OWASP]] (4), [[Slack]] (2), [[Search]] (2), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Slack]] (2), [[Web Application Security]] (1)
 > **UI Navigation:** go to (3), click on (3), scroll down (1)
 > **Env Vars:** owasp (2), sxs (1)
 > **Analogies:** for example (3)
@@ -502,32 +496,31 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 
-#### Cross-site scripting (XSS) attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980)
+#### [Cross-site scripting (XSS) attacks](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=0)** - [Instructor] Cross-site scripting attacks is when a malicious script is injected into a trusted site.
 >
-> **[0:05](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=5)** For example, add JavaScript code into an unsuspecting input in a form, and then use this to do all kinds of no good.
+> **[0:05](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=5)** For example, add [[JavaScript]] code into an unsuspecting input in a form, and then use this to do all kinds of no good.
 >
-> **[0:12](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=12)** Some example of attacks have been pulling data from cookies, session tokens, and all kinds of sensitive information.
+> **[0:12](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=12)** Some example of attacks have been pulling data from cookies, session [[Tokens]], and all kinds of sensitive information.
 >
 > **[0:18](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=18)** Let me demonstrate an example of cross-site scripting.
 >
-> **[0:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=22)** So go to [google.com/about/appsecurity/learning/xss](https://google.com/about/appsecurity/learning/xss) and once you get to this website, scroll down until you see this window here.
+> **[0:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=22)** So go to [[[Google]].com/about/appsecurity/learning/xss](https://google.com/about/appsecurity/learning/xss) and once you get to this website, scroll down until you see this window here.
 >
 > **[0:34](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=34)** And then click on show demo.
 >
 > **[0:37](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=37)** So basically, how you do cross scripting is to add code inside of a form, so right now if I just do a search text, you're going to see that test is basically what we're searching for and the results are basically what we expect.
 >
-> **[0:52](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=52)** But if we refresh that page and then go back to the demo, and then do that again but insert code with it, so if I did underline, and this is HTML by the way, and I did test and then close my tag like so, and then I click search.
+> **[0:52](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=52)** But if we refresh that page and then go back to the demo, and then do that again but insert code with it, so if I did underline, and this is [[HTML]] by the way, and I did test and then close my tag like so, and then I click search.
 >
 > **[1:11](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=71)** You're going to see that right now I'm actually underlining test.
 >
 > **[1:15](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=75)** So that's not good, that means I can place code inside of the form, so that's what cross-site scripting is.
 >
-> **[1:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=82)** Okay, so now that we've seen what it is, how do we prevent this type of security issue with React?
+> **[1:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=82)** Okay, so now that we've seen what it is, how do we prevent this type of security issue with [[React.js|React]]?
 >
 > **[1:28](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=88)** Well, React by default is preventing this type of behavior, and I'll show you how it does it.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (6), [[HTML]] (4), [[React.js|React]] (4), application (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[React.js|React]] (4), [[JavaScript]] (1), [[Tokens]] (1), [[Google]] (1)
 > **Code Identifiers:** innerhtml (3), createmarkup (2), dangerouslysetinnerhtml (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (2), find (1)
@@ -598,8 +591,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Warnings:** warning (2), be careful (1)
 
-#### Cross-site request forgery (CSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980)
+#### [Cross-site request forgery (CSRF)](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=56)** So how do we prevent these types of attacks or implement such a system into our application?
 >
-> **[1:02](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=62)** We can through the use of JWT tokens.
+> **[1:02](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=62)** We can through the use of JWT [[Tokens]].
 >
 > **[1:04](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=64)** And we'll implement this type of authentication security with AuthO, which is a popular cloud-based authentication service that does a lot of the hard work for us.
 >
@@ -631,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=83)** Needless to say that by using a tool like AuthO we're also adding prevention measures against other threats such as cross-site scripting.
 >
-> **[1:32](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=92)** So you might say, "Well, there must be other threats "that React developers need to think about."
+> **[1:32](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=92)** So you might say, "Well, there must be other threats "that [[React.js|React]] developers need to think about."
 >
 > **[1:37](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=97)** You are correct as you should always get updated information about security threats.
 >
@@ -647,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[React.js|React]] (4), application (2), next (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Tokens]] (1)
 > **Env Vars:** csrf (1), http (1), url (1), jwt (1)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** general rule (1), you should always (1)
@@ -655,12 +647,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to JSON Web Token (JWT) and what it solves
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980)
+#### [Introduction to JSON Web Token (JWT) and what it solves](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=0)** - [Instructor] JWT or JSON Web Token is an open standard that is used to securely transmit information in between parties.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=0)** - [Instructor] JWT or [[JSON]] Web Token is an open standard that is used to securely transmit information in between parties.
 >
 > **[0:07](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=7)** The JSON object currently consists of three items, a header, the payload, and the signature.
 >
@@ -670,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=28)** So the header has usually two parts, the type of token, and the hashing algorithm used to encrypt the token, as you can see here.
 >
-> **[0:38](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=38)** Then the payload consists of the metadata from the request party that is required from the server.
+> **[0:38](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=38)** Then the payload consists of the [[Metadata]] from the request party that is required from the server.
 >
 > **[0:44](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-json-web-token-jwt-and-what-it-solves?u=76281980&t=44)** Some typical information you'll see in the payload are issuer of the request, expiration, name, et cetera.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), web (2), [[Metadata]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Metadata]] (1)
 > **Env Vars:** jwt (4), json (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
@@ -710,12 +701,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initial setup of your server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
+#### [Initial setup of your server](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=0)** - [Instructor] So the first thing we need to do in order to build a proper example where our react front end connects to a back end with authentication.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=0)** - [Instructor] So the first thing we need to do in order to build a proper example where our [[React.js|react]] front end connects to a back end with authentication.
 >
 > **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=8)** We need to build our back end with some API inputs.
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=86)** And you're inside of the server.
 >
-> **[1:28](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=88)** All right, so the first thing we need to do is initialize the package.Json files or we're going to do NPM init like so.
+> **[1:28](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=88)** All right, so the first thing we need to do is initialize the package.[[JSON]] files or we're going to do [[npm]] init like so.
 >
 > **[1:35](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=95)** And then enter, enter, enter, enter until we get to the end.
 >
@@ -763,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=114)** And by the way, when I say install and I type i, it's just a shortened version.
 >
-> **[1:59](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=119)** And then what am I going to do is do babel dash CLI and then do babel dash precept dash environment and then do one more precept dash stage zero.
+> **[1:59](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=119)** And then what am I going to do is do babel dash [[CLI]] and then do babel dash precept dash environment and then do one more precept dash stage zero.
 >
 > **[2:14](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980&t=134)** And then I'm going to use the double ampersand so I can do a second command with the same command basically.
 >
@@ -867,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), next (3), [[JSON]] (3), [[npm]] (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (3), [[React.js|React]] (2), [[CLI]] (1)
 > **Env Vars:** npm (3), jwt (3), jwks (2), api (1), cli (1)
 > **CLI Commands:** npm (3), make (2), node (2), cd (1)
 > **Prerequisites:** install (5), set up (1)
@@ -876,8 +866,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), open the (1)
 > **Cross-References:** in the next (1)
 
-#### Create your API endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980)
+#### [Create your API endpoints](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=95)** And we'll do that after the array.
 >
-> **[1:37](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=97)** So, when we close the array here, I'm going to do response JSON, and then pass the courses to it.
+> **[1:37](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=97)** So, when we close the array here, I'm going to do response [[JSON]], and then pass the courses to it.
 >
 > **[1:46](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=106)** So, that will be the response.
 >
@@ -941,7 +930,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=134)** Or what you could do to get faster to that folder is do a right click on the folder, and then open in Terminal.
 >
-> **[2:21](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=141)** And I'm going to do an npm start.
+> **[2:21](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=141)** And I'm going to do an [[npm]] start.
 >
 > **[2:25](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=145)** So, what we are missing right now is a script to start our server.
 >
@@ -955,7 +944,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=168)** So, this is the startup file.
 >
-> **[2:51](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=171)** And then we're going to make sure it goes through Babel, to use the latest version of JavaScript, like so.
+> **[2:51](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=171)** And then we're going to make sure it goes through Babel, to use the latest version of [[JavaScript]], like so.
 >
 > **[3:00](https://www.linkedin.com/learning/react-securing-applications-2/create-your-api-endpoints?u=76281980&t=180)** Alright, let's save this.
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[JSON]] (2), api (1), [[npm]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (1), [[JavaScript]] (1)
 > **Tools:** terminal (2), vs code (1), postman (1)
 > **CLI Commands:** make (2), npm (1)
 > **Env Vars:** json (2), api (1)
@@ -998,12 +987,11 @@ created: 2026-05-02
 > **File Paths:** data.txt (1)
 > **Cross-References:** go back to (1)
 
-#### Initial Auth0 setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980)
+#### [Initial Auth0 setup](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=0)** - [Instructor] Okay, so now that we have our application, so the server done and the client done, let's go ahead and secure our react application.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=0)** - [Instructor] Okay, so now that we have our application, so the server done and the client done, let's go ahead and secure our [[React.js|react]] application.
 >
 > **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=8)** So what we're going to do now is go to Auth0.
 >
@@ -1013,7 +1001,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=22)** And then click here, and then log in.
 >
-> **[0:29](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=29)** And then log in with GitHub or whichever one you want to log in, inside of Auth0.
+> **[0:29](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=29)** And then log in with [[GitHub]] or whichever one you want to log in, inside of Auth0.
 >
 > **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/initial-auth0-setup?u=76281980&t=36)** And once you're logged in, all you have to do at this point is go ahead and create an application.
 >
@@ -1057,15 +1045,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[React.js|React]] (5), [[GitHub]] (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[GitHub]] (1)
 > **UI Navigation:** go to (1), select the (1), click on (1), scroll down (1)
 > **Ports:** port 3000 (1)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding the files and code from Auth0
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980)
+#### [Adding the files and code from Auth0](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,9 +1068,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=27)** So the first few that we need are in the source folder, as well in the login, so let's click on source.
 >
-> **[0:33](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=33)** And it's the same whether you're on a Mac or Windows.
+> **[0:33](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=33)** And it's the same whether you're on a Mac or [[Windows]].
 >
-> **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=36)** And then, what we're going to do is grab the auth config dot JSON, so this is the file that we need that contains your information.
+> **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=36)** And then, what we're going to do is grab the auth config dot [[JSON]], so this is the file that we need that contains your information.
 >
 > **[0:45](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=45)** So, we're going to grab this file here.
 >
@@ -1119,7 +1106,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=124)** And you can go to view, and open up the terminal like so, or use the control grab, a little shortcut that we have in here.
 >
-> **[2:12](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=132)** But because we are in the main directory, this is not going to work if we go NPM start, so you want to be in the server directory.
+> **[2:12](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=132)** But because we are in the main directory, this is not going to work if we go [[npm]] start, so you want to be in the server directory.
 >
 > **[2:20](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=140)** So let's go and do CD server, like so.
 >
@@ -1145,11 +1132,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=206)** So now we have Auth0, we have axios, and everything else that we need, perfect.
 >
-> **[3:31](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=211)** So now that we have all the dependencies that we need and the files transferred from the actual files that we downloaded from Auth0, we are ready to make some changes to the code so we can secure react.
+> **[3:31](https://www.linkedin.com/learning/react-securing-applications-2/adding-the-files-and-code-from-auth0?u=76281980&t=211)** So now that we have all the dependencies that we need and the files transferred from the actual files that we downloaded from Auth0, we are ready to make some changes to the code so we can secure [[React.js|react]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), next (2), [[JSON]] (2), cd (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), [[Windows]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (7), npm (3), cd (2)
 > **Env Vars:** npm (3), json (2)
 > **UI Navigation:** open the (2), click on (2), go to (1)
@@ -1158,8 +1145,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update index for Auth0 integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980)
+#### [Update index for Auth0 integration](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=3)** And what we're going to do is run the application and as we start working on the index, we're going to see a bunch of errors show up and we're going to fix them as we actually work on the files.
 >
-> **[0:14](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=14)** So let's go ahead and do an npm-start.
+> **[0:14](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=14)** So let's go ahead and do an [[npm]]-start.
 >
 > **[0:17](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=17)** You want to make sure you're on the client.
 >
@@ -1175,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=24)** So once you have the application running, you see that right away we have in there.
 >
-> **[0:29](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=29)** So this is from the dangerously set inner HTML error.
+> **[0:29](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=29)** So this is from the dangerously set inner [[HTML]] error.
 >
 > **[0:33](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=33)** So let's go ahead and fix that right away.
 >
@@ -1237,7 +1223,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=176)** So let me explain what's happening here.
 >
-> **[2:58](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=178)** So the first thing we're doing is we're using React Router in this application here and we start to actually provide some security inside of this application.
+> **[2:58](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=178)** So the first thing we're doing is we're using [[React.js|React]] Router in this application here and we start to actually provide some security inside of this application.
 >
 > **[3:08](https://www.linkedin.com/learning/react-securing-applications-2/update-index-for-auth0-integration?u=76281980&t=188)** So we haven't AuthoProvider and now it grabs all the information from your file and I'm not going to show it on screen, but there's the App configure tracing file, which contains your information.
 >
@@ -1265,7 +1251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), css (2), [[npm]] (1), [[HTML]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[HTML]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (4), npm (1), find (1)
 > **Env Vars:** css (2), html (1)
 > **File Paths:** index.css (2)
@@ -1274,8 +1260,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** configure (1)
 
-#### Add connections to server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980)
+#### [Add connections to server](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1274,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980&t=29)** Perfect.
 >
-> **[0:30](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980&t=30)** Now, we're going to also import, useAuthO from react-auth-spa, like so, and then we'll also import our history, there's a lot of stuff that's going to happen directly inside of app that's why we're focusing only on that one for now.
+> **[0:30](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980&t=30)** Now, we're going to also import, useAuthO from [[React.js|react]]-auth-spa, like so, and then we'll also import our history, there's a lot of stuff that's going to happen directly inside of app that's why we're focusing only on that one for now.
 >
 > **[0:54](https://www.linkedin.com/learning/react-securing-applications-2/add-connections-to-server?u=76281980&t=54)** And now we're going to import our history file, like so, 'cause we're going to need it with our react router.
 >
@@ -1355,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), next (2), dom (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **CLI Commands:** make (4)
 > **Env Vars:** http (1), url (1), svg (1)
 > **File Paths:** app.js (2)
@@ -1364,8 +1349,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** click on (1)
 
-#### Finalize menu with login
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980)
+#### [Finalize menu with login](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1363,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=24)** So let's go ahead and do that.
 >
-> **[0:26](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=26)** So I'm going to useAuth0 from react-auth0-spa, like so.
+> **[0:26](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=26)** So I'm going to useAuth0 from [[React.js|react]]-auth0-spa, like so.
 >
 > **[0:37](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=37)** And then what we'll do is start coding a few elements inside of our component.
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=267)** So let's click on it, and now this is going to bring me to the React application log in on Auth0, so I can log in anyway I want.
 >
-> **[4:38](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=278)** So let's go ahead and log in with Google.
+> **[4:38](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=278)** So let's go ahead and log in with [[Google]].
 >
 > **[4:45](https://www.linkedin.com/learning/react-securing-applications-2/finalize-menu-with-login?u=76281980&t=285)** And now I'm logged in, and it's showing me my menu.
 >
@@ -1463,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[React.js|React]] (3), hit (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Google]] (1)
 > **Code Identifiers:** loginwithredirect (3), useauth0 (2), isauthenticated (2), onclick (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2)
@@ -1476,8 +1460,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React considerations for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
+#### [React considerations for security](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1468,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980&t=4)** It's always something to keep an eye on, especially when you're dealing with user data.
 >
-> **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980&t=8)** So as a general rule, always go back to the documentation to see the latest updates to React syntax and how it impacts your application and security.
+> **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980&t=8)** So as a general rule, always go back to the documentation to see the latest updates to [[React.js|React]] syntax and how it impacts your application and security.
 >
 > **[0:17](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980&t=17)** The React team spends a lot of time improving the code of the library so it is more reliable, secure, and easy to implement in your application.
 >
@@ -1515,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), [[Security]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** you should never (1), general rule (1), make sure to (1)
 > **Definitions:** is a  (2)
@@ -1524,8 +1507,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 
-#### Strict mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980)
+#### [Strict mode](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=36)** And again, am on I'm the Client, this is not something that works on the server.
 >
-> **[0:40](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=40)** So this is with React, And basically what I'm going to do is turn Strict Mode on by simply adding a Component which is already available to you.
+> **[0:40](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=40)** So this is with [[React.js|React]], And basically what I'm going to do is turn Strict Mode on by simply adding a Component which is already available to you.
 >
 > **[0:50](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=50)** So you don't have to import anything.
 >
@@ -1563,7 +1545,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=86)** So let's open up our Terminal, View Terminal.
 >
-> **[1:31](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=91)** And right now, I don't have anything on, so let's go in, start with the Server and NPM start.
+> **[1:31](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=91)** And right now, I don't have anything on, so let's go in, start with the Server and [[npm]] start.
 >
 > **[1:41](https://www.linkedin.com/learning/react-securing-applications-2/strict-mode?u=76281980&t=101)** Once this is on, you can start the Client.
 >
@@ -1581,7 +1563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[React.js|React]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (2)
 > **CLI Commands:** npm (2), make (1)
 > **Tools:** terminal (3)
 > **Env Vars:** npm (2)
@@ -1595,12 +1577,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Best practices update
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)
+#### [Best practices update](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=0)** - [Instructor] Let's update our knowledge on securing React applications with the latest best practices.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=0)** - [Instructor] Let's update our knowledge on securing [[React.js|React]] applications with the latest best practices.
 >
 > **[0:05](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=5)** Security is a moving target and staying informed is key to keeping your app safe.
 >
@@ -1620,11 +1601,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=36)** Be cautious with third-party libraries.
 >
-> **[0:39](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=39)** Audit them regularly using tools like NPM Audit or Snyk and don't forget to set secure HTTP headers to protect your app from common attacks and vulnerabilities.
+> **[0:39](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=39)** Audit them regularly using tools like [[npm]] Audit or Snyk and don't forget to set secure HTTP headers to protect your app from common attacks and vulnerabilities.
 >
 > **[0:52](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=52)** React helps prevent cross-site scripting attacks out of the box by escaping strings in JSX, but you can bolster your defenses.
 >
-> **[1:01](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=61)** Sanitize user input, if you're using dangerously set inner HTML or, better yet, avoid it when possible.
+> **[1:01](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=61)** Sanitize user input, if you're using dangerously set inner [[HTML]] or, better yet, avoid it when possible.
 >
 > **[1:09](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980&t=69)** Implement a robust content security policy to control the sources from which you can lower resources and stay up to date on patches from React and your app's dependencies.
 >
@@ -1634,19 +1615,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), [[Security]] (3), data (3), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[npm]] (1), [[HTML]] (1)
 > **Env Vars:** https (1), npm (1), http (1), jsx (1), html (1)
 > **CLI Commands:** make (1), npm (1)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=0)** - [Instructor] This course was an introduction to the major security threats and how to prevent them with a React application and the integration of 0-O.
+> **[0:00](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=0)** - [Instructor] This course was an introduction to the major security threats and how to prevent them with a [[React.js|React]] application and the integration of 0-O.
 >
 > **[0:08](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=8)** But as you know, security threats are constantly evolving as attacks become more sophisticated.
 >
@@ -1656,7 +1636,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=26)** Don't stop learning.
 >
-> **[0:28](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=28)** As we discussed in the course, the OWASP site is a great resource for more information on all major threats, as well as cheat sheets for best practices.
+> **[0:28](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=28)** As we discussed in the course, the [[OWASP]] site is a great resource for more information on all major threats, as well as cheat sheets for best practices.
 >
 > **[0:37](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=37)** I recommend that you subscribe to their newsletter to get updates on the latest threats before you become a victim.
 >
@@ -1670,7 +1650,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=78)** A great place to start is the OWASP site.
 >
-> **[1:21](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=81)** In the Social Media section, you will find their Slack channel, meetup links, social links, and more.
+> **[1:21](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=81)** In the Social Media section, you will find their [[Slack]] channel, meetup links, social links, and more.
 >
 > **[1:27](https://www.linkedin.com/learning/react-securing-applications-2/next-steps?u=76281980&t=87)** If you run into any issues or have questions, this should be the first place to go.
 >
@@ -1680,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), application (4), [[React.js|React]] (2), [[OWASP]] (2), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[OWASP]] (2), [[Slack]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** owasp (2), api (1)
 > **Definitions:** is a  (2)

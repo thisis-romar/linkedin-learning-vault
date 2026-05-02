@@ -86,22 +86,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore advanced features of Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
+#### [Explore advanced features of Power BI](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=0)** Do you want to spend more time analyzing data than cleaning it?
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=4)** We can build efficient Power BI data models that streamline analytics, ask what-if questions, and enable better insights into data trends.
+> **[0:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=4)** We can build efficient [[Microsoft Power BI|Power BI]] data models that streamline analytics, ask what-if questions, and enable better insights into data trends.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=12)** This course is what I wish I knew about semantic modeling and DAX formulas in Power BI when I started applying data modeling to real-world problems myself.
+> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=12)** This course is what I wish I knew about semantic modeling and [[DAX]] formulas in Power BI when I started applying [[Data Modeling]] to real-world problems myself.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980&t=22)** Let's begin!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Analytics]] (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1)
 > **Env Vars:** dax (1)
 
 
@@ -109,18 +108,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DAX intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
+#### [DAX intro](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=0)** DAX is a formula language that lets us build expressions for tables, columns, and, the magic of Power BI, measures.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=0)** [[DAX]] is a formula language that lets us build expressions for tables, columns, and, the magic of [[Microsoft Power BI|Power BI]], measures.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=8)** We can create these formulas using DAX syntax and functions.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=12)** You can see a comprehensive overview of all these functions in the Microsoft documentation.
+> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=12)** You can see a comprehensive overview of all these functions in the [[Microsoft]] documentation.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=17)** You'll recognize many of them if you work a lot in Excel.
+> **[0:17](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=17)** You'll recognize many of them if you work a lot in [[Microsoft Excel|Excel]].
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980&t=22)** We can choose the Enter Data option to input data tables directly into Power BI.
 >
@@ -170,16 +168,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (6), data (4), power (3), bi (3), next (2)
+> **Frameworks & Libraries:** [[DAX]] (6), [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** dax (6)
 > **Definitions:** is a  (1)
 
-#### Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980)
+#### [Variables](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=0)** We can use variables in DAX formulas to streamline and reuse our calculated steps and to better structure and document our formulas.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=0)** We can use variables in [[DAX]] formulas to streamline and reuse our calculated steps and to better structure and document our formulas.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=8)** We use the var keyword to create variable names that we set equal to DAX expressions.
 >
@@ -247,18 +244,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (7), data (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[DAX]] (7)
 > **Env Vars:** dax (7)
 > **Code Identifiers:** addcolumns (1), countrows (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### GENERATESERIES
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generateseries?u=76281980)
+#### [GENERATESERIES](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generateseries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generateseries?u=76281980&t=0)** If we want to efficiently create calculated tables, it's helpful to tap into specific DAX table manipulation functions.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generateseries?u=76281980&t=0)** If we want to efficiently create calculated tables, it's helpful to tap into specific [[DAX]] table manipulation functions.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generateseries?u=76281980&t=8)** Generate Series allows us to create a single column table of equidistant values where we specify the starting and ending values, including the interval between them.
 >
@@ -289,12 +285,11 @@ created: 2026-05-02
 > **Code Identifiers:** generateseries (1)
 > **Env Vars:** dax (1)
 
-#### GENERATE and ROW
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980)
+#### [GENERATE and ROW](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=0)** The Cartesian product is a set theory concept in mathematics that we can also apply to data modeling.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=0)** The Cartesian product is a set theory concept in mathematics that we can also apply to [[Data Modeling]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=6)** Let's say that we have a table with two sets, denoted as Set A and Set B.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=85)** Let's then use generateSeries() to create a single column of discrete contiguous values between 1 and 800.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=98)** Once we confirm this table result, let's use the generate() function to create a single table representing the Cartesian product of two separate tables within the same DAX expression.
+> **[1:38](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=98)** Once we confirm this table result, let's use the generate() function to create a single table representing the Cartesian product of two separate tables within the same [[DAX]] expression.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=109)** The first function input parameter is the rows for the output table and the second function input parameter is for the columns.
 >
@@ -336,18 +331,17 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=165)** Our final calculated table uses Generate Series to create a single column table with the value field that the row function then adds the columns to.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=175)** Creating these calculated tables can ultimately help our Power BI models become more dynamic, especially if these states can potentially change in the future.
+> **[2:55](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/generate-and-row?u=76281980&t=175)** Creating these calculated tables can ultimately help our [[Microsoft Power BI|Power BI]] models become more dynamic, especially if these states can potentially change in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (1), [[DAX]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1), [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** generateseries (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 
-#### Measure groups and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980)
+#### [Measure groups and folders](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980&t=12)** We'll rename this table Calculations, then load it into our model without entering any data.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980&t=23)** Notice how this new table has a different icon next to it than the other tables because as we imported it into the model instead of creating it as DAX calculated table.
+> **[0:23](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980&t=23)** Notice how this new table has a different icon next to it than the other tables because as we imported it into the model instead of creating it as [[DAX]] calculated table.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/measure-groups-and-folders?u=76281980&t=33)** Your icon for the table might look slightly different than mine.
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dax (1)
 
@@ -400,8 +394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DAX measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
+#### [DAX measures](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=37)** This includes states or categories, but numbers can also be dimensions depending on how we configure them in our visuals.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=45)** We can create measures with DAX aggregation functions like sum, average, count, max, or min.
+> **[0:45](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=45)** We can create measures with [[DAX]] aggregation functions like sum, average, count, max, or min.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=53)** I find it helpful to build visuals with the desired dimensions in them, then add measures directly for testing.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=66)** Let's add the interest rate field to both of them.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=71)** By default, Power BI aggregates numerical fields as sums.
+> **[1:11](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=71)** By default, [[Microsoft Power BI|Power BI]] aggregates numerical fields as sums.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980&t=75)** It returns the same results for the rates by date because we only have one rate for each date.
 >
@@ -477,13 +470,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[DAX]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
 
-#### X functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/x-functions?u=76281980)
+#### [X functions](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/x-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,13 +531,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sumx (4), averagex (2), maxx (1), minx (1), productx (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### POWER DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/power-dax-function?u=76281980)
+#### [POWER DAX function](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/power-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,12 +585,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** pmt (1)
 
-#### Parameter harvesting formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parameter-harvesting-formulas?u=76281980)
+#### [Parameter harvesting formulas](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parameter-harvesting-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,20 +654,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **Env Vars:** max (2), ipmt (1), ppmt (1)
 > **Cross-References:** go back to (1), in the last (1)
 
-#### Filtering and evaluating measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980)
+#### [Filtering and evaluating measures](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=0)** We can think of Power BI filter levels as a hierarchy.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=0)** We can think of [[Microsoft Power BI|Power BI]] filter levels as a hierarchy.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=4)** The filters from the report level impact the page-level filter, and the page-level filters impact the visual ones.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=11)** Filters also impact calculations like DAX measures.
+> **[0:11](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=11)** Filters also impact calculations like [[DAX]] measures.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-and-evaluating-measures?u=76281980&t=16)** In the Filters pane, we can filter the fields already in the visual, and we can add additional filters to the visual page and report level.
 >
@@ -737,11 +723,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[DAX]] (5), power (3), bi (3), next (1)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (3)
 > **Env Vars:** dax (5)
 
-#### CALCULATE DAX function including filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980)
+#### [CALCULATE DAX function including filters](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,7 +746,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=54)** We use the CALCULATE function to set the product field of the data table equal to bananas.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=63)** We can set filtering conditions using equalities like this as well as inequalities and other DAX functions.
+> **[1:03](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=63)** We can set filtering conditions using equalities like this as well as inequalities and other [[DAX]] functions.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=70)** This filters the table to only the rows with this product label.
 >
@@ -779,7 +764,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=112)** Conversely, if we add this new measure to a visual just containing the locations as the dimensions, it splits the bananas total out by each location.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=124)** If we add it to a visual containing the products instead, the result overrides the context of the product dimension values in the visuals table rows.
+> **[2:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=124)** If we add it to a visual containing the [[Microsoft Products|products]] instead, the result overrides the context of the product dimension values in the visuals table rows.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculate-dax-function-including-filters?u=76281980&t=135)** When the filter is already in the pivot coordinates, CALCULATE overrides the context that it evaluates the results at.
 >
@@ -829,14 +814,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), [[DAX]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** calculate (5), dax (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### SELECTEDVALUE
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/selectedvalue?u=76281980)
+#### [SELECTEDVALUE](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/selectedvalue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +874,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -901,14 +884,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CALENDAR and CALENDARAUTO
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
+#### [CALENDAR and CALENDARAUTO](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=0)** Calendars in DAX are immensely helpful because they create contiguous date ranges.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=0)** Calendars in [[DAX]] are immensely helpful because they create contiguous date ranges.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=5)** This enables many different built-in time intelligence calculations and analytics options for forecasting and anomaly detection.
+> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=5)** This enables many different built-in time intelligence calculations and analytics options for [[Forecasting]] and anomaly detection.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=14)** Our interest rate data has weekly measurements starting in April 1971 and continuing until the beginning of 2026.
 >
@@ -916,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=32)** We're using a standard calendar, so we'll leave the function's one optional input parameter blank.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=40)** CalendarAuto implicitly references the date fields already in Power BI to determine the starting date.
+> **[0:40](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=40)** CalendarAuto implicitly references the date fields already in [[Microsoft Power BI|Power BI]] to determine the starting date.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980&t=47)** It then starts on January 1st of that year, and the ending date is on December 31st of the last year of data.
 >
@@ -964,18 +946,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (3), bi (3), [[DAX]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[DAX]] (2), [[Forecasting]] (1)
 > **Env Vars:** utc (3), dax (2), today (1), time (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### FIRSTDATE and LASTDATE
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980)
+#### [FIRSTDATE and LASTDATE](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=0)** We can think of DAX time intelligence calculations along a ruler.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=0)** We can think of [[DAX]] time intelligence calculations along a ruler.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=4)** The first date function moves us to the beginning of the ruler, while the last date moves us to the end.
 >
@@ -999,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=111)** We can also use Advanced Time Intelligence calendars for these calculations.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=116)** If you don't see this option available in your version of Power BI, you'll need to first enable it through the Preview Feature menu options.
+> **[1:56](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=116)** If you don't see this option available in your version of [[Microsoft Power BI|Power BI]], you'll need to first enable it through the Preview Feature menu options.
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/firstdate-and-lastdate?u=76281980&t=124)** When we use these calendars in the Time Intelligence functions, we'll refer to the name of the calendar that we set up.
 >
@@ -1009,13 +990,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[DAX]] (1), power (1), bi (1), feature (1)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** dax (1)
 > **Warnings:** note that (1)
 
-#### START or END period
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/start-or-end-period?u=76281980)
+#### [START or END period](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/start-or-end-period?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,11 +1029,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 
-#### DATEADD
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980)
+#### [DATEADD](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980&t=13)** We use DateAdd to filter a date field and move it by the specified number of units using the day, week, month, quarter, or year as the intervals.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980&t=22)** Like other DAX filtering functions, DateAdd isn't a stand-alone function within a measure calculation, but instead it needs to work in conjunction with an aggregation.
+> **[0:22](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980&t=22)** Like other [[DAX]] filtering functions, DateAdd isn't a stand-alone function within a measure calculation, but instead it needs to work in conjunction with an aggregation.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dateadd?u=76281980&t=33)** Let's use the DateAdd function to determine the average interest rate for the previous week.
 >
@@ -1091,12 +1069,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (1), data (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **Env Vars:** dax (1), datad (1)
 > **Definitions:** is an  (1)
 
-#### PARALLELPERIOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980)
+#### [PARALLELPERIOD](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1085,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980&t=18)** Let's use Parallel Period on the average rate to expand it across an entire week.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980&t=24)** Weekly calculation options are a new part of the advanced time intelligence DAX options available in Power BI.
+> **[0:24](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980&t=24)** Weekly calculation options are a new part of the advanced time intelligence [[DAX]] options available in [[Microsoft Power BI|Power BI]].
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/parallelperiod?u=76281980&t=32)** I've already configured the calendar that we'll use in these time intelligence calculations in the model.
 >
@@ -1152,12 +1129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (4), data (2), [[DAX]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 
-#### Dates period to date
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980)
+#### [Dates period to date](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980&t=31)** We need to expand the filter range so we can calculate the average total interest rate from the first state in the year to the current date in the pivot coordinates in our visual.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980&t=42)** Like other filter functions in DAX measures, we want to use these states within an aggregation function.
+> **[0:42](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980&t=42)** Like other filter functions in [[DAX]] measures, we want to use these states within an aggregation function.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dates-period-to-date?u=76281980&t=48)** We can calculate the average interest rate as a running average for the year using the dates YTD function inside Calculate.
 >
@@ -1193,18 +1169,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (1), next (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **Env Vars:** dax (1), ytd (1)
 > **Code Identifiers:** datesytd (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 
-#### DATEBETWEEN
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datebetween?u=76281980)
+#### [DATEBETWEEN](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datebetween?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datebetween?u=76281980&t=0)** If we want to expand the filter context for DAX calculations to a customized date range instead of a standardized one like year-to-date calculations, DAX offers several useful, efficient time intelligence functions for this purpose.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datebetween?u=76281980&t=0)** If we want to expand the filter context for [[DAX]] calculations to a customized date range instead of a standardized one like year-to-date calculations, DAX offers several useful, efficient time intelligence functions for this purpose.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datebetween?u=76281980&t=16)** DatesBetween lets us expand the date range on a date field between a specified start and end date.
 >
@@ -1264,13 +1239,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (3), next (1)
+> **Frameworks & Libraries:** [[DAX]] (3)
 > **Env Vars:** dax (3), calculate (2), sumx (1), averagex (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### PREVIOUS or NEXT period
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/previous-or-next-period?u=76281980)
+#### [PREVIOUS or NEXT period](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/previous-or-next-period?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,11 +1282,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), game (1), business (1)
 > **Definitions:** is a  (1)
 
-#### EOMONTH and EDATE
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/eomonth-and-edate?u=76281980)
+#### [EOMONTH and EDATE](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/eomonth-and-edate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,11 +1318,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), parallel (1), data (1)
 > **Code Identifiers:** omonth (2), edate (1)
 
-#### DATEDIFF DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datediff-dax-function?u=76281980)
+#### [DATEDIFF DAX function](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/datediff-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1370,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** datedif (2), pivot (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -1410,8 +1379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ALL and ALLSELECTED DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
+#### [ALL and ALLSELECTED DAX function](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1403,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=98)** The All function on the entire table returns the same result for each pivot coordinate, regardless of the visual's dimensions.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=106)** If the location dimension is already in the visual, then applying all on this field means that all the products within that location return the same result, regardless of whether the product is already in the visual.
+> **[1:46](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=106)** If the location dimension is already in the visual, then applying all on this field means that all the [[Microsoft Products|products]] within that location return the same result, regardless of whether the product is already in the visual.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=119)** Conversely, if all removes the filters on the product dimension, then it will use the location as the pivot coordinates, but it removes the filters on this product field.
 >
@@ -1453,7 +1421,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=193)** Regardless of whether we remove the filters for the entire table or just its single loan period column, the measure still returns the same results for each loan period as the payment amount.
 >
-> **[3:27](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=207)** DAX doesn't understand what we're trying to calculate over all the loan periods.
+> **[3:27](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=207)** [[DAX]] doesn't understand what we're trying to calculate over all the loan periods.
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980&t=213)** There's no sum aggregation already present in the payment formula.
 >
@@ -1473,16 +1441,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (4), [[DAX]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** allselected (2), calculate (2), dax (2), sumx (2)
 > **Definitions:** means that (1)
 
-#### FILTER DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filter-dax-function?u=76281980)
+#### [FILTER DAX function](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filter-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filter-dax-function?u=76281980&t=0)** Filter is another table manipulation function that lets us filter tables in DAX for more complex scenarios like where a column equals a measure, formula, or another column or when a measure equals another measure, formula, or a fixed value.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filter-dax-function?u=76281980&t=0)** Filter is another table manipulation function that lets us filter tables in [[DAX]] for more complex scenarios like where a column equals a measure, formula, or another column or when a measure equals another measure, formula, or a fixed value.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filter-dax-function?u=76281980&t=16)** The mortgage rate data only comes out once a week, so if we select a date from the contiguous date field that's not a measurement date in the slicer, it returns a blank interest rate.
 >
@@ -1534,16 +1501,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[DAX]] (2)
+> **Frameworks & Libraries:** [[DAX]] (2)
 > **Env Vars:** dax (2), min (1)
 > **Definitions:** is a  (1)
 
-#### BLANK and ISBLANK DAX functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980)
+#### [BLANK and ISBLANK DAX functions](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=0)** We can use functions like blank and isBlank as part of the control flow process for empty values.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=0)** We can use functions like blank and isBlank as part of the [[Control Flow]] process for empty values.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=6)** Let's first create a blank measure that will set equal to the function blank, which requires parentheses but doesn't have any inputs in them.
 >
@@ -1553,7 +1519,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=28)** But blank really returns a null and how it works can seem a bit confusing at first.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=33)** Let's use another measure to combine the blank function with the word hello using an ampersand.
+> **[0:33](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=33)** Let's use another measure to combine the blank function with the [[Microsoft Word|word]] hello using an ampersand.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/blank-and-isblank-dax-functions?u=76281980&t=43)** Blank returns a null value but it doesn't behave as an empty string.
 >
@@ -1591,11 +1557,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** isblank (1)
 
-#### IF
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/if?u=76281980)
+#### [IF](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,12 +1624,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### DIVIDE DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/divide-dax-function?u=76281980)
+#### [DIVIDE DAX function](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/divide-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/divide-dax-function?u=76281980&t=0)** DAX has a powerful suite of financial functions that we can use to calculate things like the outstanding balance for a loan.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/divide-dax-function?u=76281980&t=0)** [[DAX]] has a powerful suite of financial functions that we can use to calculate things like the outstanding balance for a loan.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/divide-dax-function?u=76281980&t=7)** However, there are limitations to these functions.
 >
@@ -1736,14 +1700,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (1), data (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **Env Vars:** dax (1), rdnr (1)
 > **Code Identifiers:** datedef (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 
-#### SWITCH
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980)
+#### [SWITCH](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1751,7 +1714,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=7)** We could use nested if statements, but that can get messy quite fast.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=12)** We can also use the switch function to solve this control flow challenge.
+> **[0:12](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=12)** We can also use the switch function to solve this [[Control Flow]] challenge.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=17)** We can test for different conditional scenarios within switch.
 >
@@ -1791,7 +1754,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=119)** Because we're testing for multiple conditions here, we want the first input of our switch function to be true.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=129)** Now notice that true is a key word in the DAX formula language.
+> **[2:09](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=129)** Now notice that true is a key [[Microsoft Word|word]] in the [[DAX]] formula language.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/switch?u=76281980&t=134)** Now let's test for our first condition.
 >
@@ -1811,20 +1774,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1), [[DAX]] (1), next (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Microsoft Word|Word]] (1), [[DAX]] (1)
 > **Versions:** 0.05 (2), 0.10 (2), 0.1 (1)
 > **UI Navigation:** switch to (2)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 
-#### Filtering between disconnected tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980)
+#### [Filtering between disconnected tables](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980&t=0)** One of the most powerful concepts in Power BI is working with disconnected tables.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980&t=0)** One of the most powerful concepts in [[Microsoft Power BI|Power BI]] is working with disconnected tables.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980&t=5)** This means the model tables in the calculations aren't intentionally connected, but instead utilize DAX formulas to link them up indirectly.
+> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980&t=5)** This means the model tables in the calculations aren't intentionally connected, but instead utilize [[DAX]] formulas to link them up indirectly.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/filtering-between-disconnected-tables?u=76281980&t=15)** In order for this concept to work, we actually have to sever the relationship between any tables we want to work with, otherwise the filters might not work as expected.
 >
@@ -1872,7 +1834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** dax (1)
 
@@ -1881,14 +1843,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TMDL View
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
+#### [TMDL View](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980&t=0)** TMDL, or Tabular Model Definition Language, is the code behind the entire semantic model.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980&t=7)** The TMDL view in Power BI contains model components like table and column names, relationships between model tables, queries in Power Query, measure formulas, and field formatting that we can update directly via these scripts.
+> **[0:07](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980&t=7)** The TMDL view in [[Microsoft Power BI|Power BI]] contains model components like table and column names, relationships between model tables, queries in [[Microsoft Power Query|Power Query]], measure formulas, and field formatting that we can update directly via these scripts.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980&t=23)** Let's say that we have a Power BI model for a 30-year mortgage loan.
 >
@@ -1926,15 +1887,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[Microsoft Power Query|Power query]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tmdl (5)
 
-#### Field parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/field-parameters?u=76281980)
+#### [Field parameters](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/field-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/field-parameters?u=76281980&t=0)** Numeric and field parameters let us ask what-if questions about our Power BI models.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/field-parameters?u=76281980&t=0)** Numeric and field parameters let us ask what-if questions about our [[Microsoft Power BI|Power BI]] models.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/field-parameters?u=76281980&t=5)** We can create field parameters with our model fields using dimensions and measures.
 >
@@ -1976,16 +1936,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 
-#### Calculation groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980)
+#### [Calculation groups](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=0)** Let's say that we have measures for the interest rates for 15-year and 30-year loans.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=5)** We can think of these interest rates as individual variables stored in the function Selected Measure within a calculation group in our Power BI model.
+> **[0:05](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=5)** We can think of these interest rates as individual variables stored in the function Selected Measure within a calculation group in our [[Microsoft Power BI|Power BI]] model.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=14)** For each of these interest rates, we want to calculate the payments, interest, principal, and outstanding balance.
 >
@@ -2051,21 +2010,20 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=261)** While calculation groups have drawbacks, like making it harder to specifically name measures, see in this example.
 >
-> **[4:31](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=271)** They're also a great way to make DAX measures more efficient and scalable as we
+> **[4:31](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calculation-groups?u=76281980&t=271)** They're also a great way to make [[DAX]] measures more efficient and scalable as we
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pmt (1), dax (1)
 > **Prerequisites:** set up (1)
 
-#### User-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980)
+#### [User-defined functions](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=0)** User-defined functions, or UDFs, let us create custom functions within our semantic model using DAX syntax and logic that we can then call in other DAX formulas like measures.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=0)** User-defined functions, or UDFs, let us create custom functions within our semantic model using [[DAX]] syntax and logic that we can then call in other DAX formulas like measures.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=11)** To create a function, we'll give it a name using only alphanumeric characters, underscores, or periods, and no spaces.
 >
@@ -2121,7 +2079,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=182)** Once we create this function and run it we're going to update our model with these changes.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=190)** In the model view, we see our new function added to our Power BI semantic model.
+> **[3:10](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=190)** In the model view, we see our new function added to our [[Microsoft Power BI|Power BI]] semantic model.
 >
 > **[3:15](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/user-defined-functions?u=76281980&t=195)** We can add user-defined functions from the model view as well, but I personally prefer to use the DAX query view because I can test them and evaluate to make sure that the calculation works.
 >
@@ -2137,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (6), power (3), data (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (6), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2147,20 +2105,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=0)** If you'd like to continue learning about DAX modeling, I encourage you to apply the concepts in this course in your own work.
+> **[0:00](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=0)** If you'd like to continue learning about [[DAX]] modeling, I encourage you to apply the concepts in this course in your own work.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=8)** There are a lot of great free public data sources out there to practice on including more datasets on the FRED website.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=15)** I love exploring their data.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=18)** Please check out other Power BI courses in the library if you want to learn more about the amazing capabilities of this tool.
+> **[0:18](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=18)** Please check out other [[Microsoft Power BI|Power BI]] courses in the library if you want to learn more about the amazing capabilities of this tool.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=25)** Follow me on LinkedIn if you would like to see current content on Power BI, AI, and data analytics, other tools like Python, R, SQL, and Excel, as well as the courses and projects that I'll be working on in the future.
+> **[0:25](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=25)** Follow me on [[LinkedIn]] if you would like to see current content on Power BI, AI, and data analytics, other tools like [[Python (Programming Language)|Python]], R, [[SQL]], and [[Microsoft Excel|Excel]], as well as the courses and projects that I'll be working on in the future.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980&t=38)** Never stop learning.
 >
@@ -2168,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), bi (2), [[DAX]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **Env Vars:** dax (1), fred (1), sql (1)
 > **CLI Commands:** python (1)
 

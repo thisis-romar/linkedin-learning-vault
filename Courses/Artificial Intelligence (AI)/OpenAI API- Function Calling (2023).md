@@ -59,8 +59,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Function calling with the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980)
+#### [Function calling with the OpenAI API](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -70,13 +69,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980&t=13)** OpenAI's API offers function calling as a core part of its service.
 >
-> **[0:18](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980&t=18)** Function calling with the OpenAI API opens a whole new range of capabilities for AI integration into existing apps, and in this course, I'll walk you through how it works and how to use it.
+> **[0:18](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980&t=18)** Function calling with the [[OpenAI API]] opens a whole new range of capabilities for AI integration into existing apps, and in this course, I'll walk you through how it works and how to use it.
 >
 > **[0:29](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980&t=29)** Let's get cracking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), api (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - imagine (1)
@@ -86,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding function calling with the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980)
+#### [Understanding function calling with the OpenAI API](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=0)** - Let's start at the very top by stating the obvious.
 >
-> **[0:03](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=3)** Large language models like GPT are really chatty.
+> **[0:03](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=3)** [[Large Language Models (LLM)|Large language models]] like GPT are really chatty.
 >
-> **[0:06](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=6)** So when you interact with the OpenAI API out of the box, you get a conversational exchange, similar to what you get with ChatGPT.
+> **[0:06](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=6)** So when you interact with the [[OpenAI API]] out of the box, you get a conversational exchange, similar to what you get with [[ChatGPT]].
 >
 > **[0:14](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=14)** You input human language prompts, and the system provides a human language response, which is useful if you're looking for a human language response, but not very useful if you're trying to build software around the response because the AI response is unstructured language and non-deterministic, meaning it'll be different every time.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=62)** So in the exercise files for this course, I've added in three different examples that show how this work.
 >
-> **[1:08](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=68)** The exercise files are available from GitHub and the easiest way to use them is to open them in Codespaces.
+> **[1:08](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=68)** The exercise files are available from [[GitHub]] and the easiest way to use them is to open them in [[Codespaces]].
 >
 > **[1:14](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=74)** So go to the GitHub page, open code here, and go to Codespaces.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=93)** But for all of these to work, you need to set up one more thing.
 >
-> **[1:37](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=97)** So in this Codespace, I've activated the REST client extension for VS Code that allows us to use VS Code as a REST client.
+> **[1:37](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=97)** So in this Codespace, I've activated the [[Representational State Transfer (REST)|REST]] client extension for VS Code that allows us to use VS Code as a REST client.
 >
 > **[1:45](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=105)** That way we can send REST requests to the OpenAI API and get responses right inside VS Code.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=157)** Go back to your files, open the VS Code folder.
 >
-> **[2:40](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=160)** Inside you'll find settings.json, and here you scroll down to the bottom.
+> **[2:40](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=160)** Inside you'll find settings.[[JSON]], and here you scroll down to the bottom.
 >
 > **[2:45](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=165)** This is where we have the REST client environment set up.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=263)** If you want to change the model, you just change the name.
 >
-> **[4:24](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=264)** So if you want GPT-4, you just say GPT-4, but I'm going to use 3.5 Turbo.
+> **[4:24](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=264)** So if you want [[GPT-4]], you just say GPT-4, but I'm going to use 3.5 Turbo.
 >
 > **[4:30](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=270)** Then you can set up a series of messages.
 >
@@ -211,7 +209,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=295)** These are all the default settings, so you don't need to change them, or you can just remove this if you don't want to clutter your code.
 >
-> **[5:02](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=302)** But here we can set the temperature, the max tokens, that's how much information you want back, the top P frequency penalty and the presence penalty if you want to.
+> **[5:02](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=302)** But here we can set the temperature, the max [[Tokens]], that's how much information you want back, the top P frequency penalty and the presence penalty if you want to.
 >
 > **[5:13](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980&t=313)** Now like I said, if you don't want to mess with these, you can just delete them and you get the default values.
 >
@@ -469,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[OpenAI API]] (7), api (7), data (6), [[Representational State Transfer (REST)|Rest]] (5)
+> **Frameworks & Libraries:** [[OpenAI API]] (7), [[Representational State Transfer (REST)|Rest]] (5), [[ChatGPT]] (4), [[Tokens]] (4), [[JSON]] (3)
 > **Env Vars:** api (13), gpt (11), rest (5), json (2), iso (1)
 > **UI Navigation:** go to (5), scroll down (5), open the (2), click on (1)
 > **Definitions:** is a  (9), is called (1)

@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,25 +122,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (5), career (2), power (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ebitda (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - have (1)
 
-#### The top 10 AI prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980)
+#### [The top 10 AI prompts](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=0)** - I've got something pretty special for you today.
 >
-> **[0:03](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=3)** I'm sharing the top 10 AI prompts that people have been asking for, and when I say asking for, I mean really asking for, I ran a survey on LinkedIn that got hundreds of responses, and the results were fascinating.
+> **[0:03](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=3)** I'm sharing the top 10 AI prompts that people have been asking for, and when I say asking for, I mean really asking for, I ran a survey on [[LinkedIn]] that got hundreds of responses, and the results were fascinating.
 >
 > **[0:18](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=18)** The thing that surprised me the most was how unanimous everyone was on their choice of prompts.
 >
-> **[0:24](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=24)** The top five prompts absolutely dominated the rest of the field, and there were some tasks that languished at the bottom with very few votes maybe 'cause people just love doing them themselves.
+> **[0:24](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=24)** The top five prompts absolutely dominated the [[Representational State Transfer (REST)|rest]] of the field, and there were some tasks that languished at the bottom with very few votes maybe 'cause people just love doing them themselves.
 >
 > **[0:35](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=35)** Actually, I've seen what they are, and that's definitely not the reason, we are going to be doing a countdown of the top 10 because I grew up watching music shows in the '70s and '80s and old habits die hard, for each example, I'll walk you through the prompt itself and the thinking behind it.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=78)** Good.
 >
-> **[1:19](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=79)** I've tested these prompts across all the main tools, Chat GPT, Claude, Gemini, and Copilot using their pro versions.
+> **[1:19](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=79)** I've tested these prompts across all the main tools, Chat GPT, Claude, [[Gemini]], and [[Microsoft Copilot|Copilot]] using their pro versions.
 >
 > **[1:27](https://www.linkedin.com/learning/top-ten-ai-prompts/the-top-10-most-requested-prompts?u=76281980&t=87)** But don't worry if you're not using those, if you're using the free versions, in most cases they should work just fine.
 >
@@ -177,14 +174,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), prompt (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Gemini]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### What makes a good prompt?
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/what-makes-a-good-prompt?u=76281980)
+#### [What makes a good prompt?](https://www.linkedin.com/learning/top-ten-ai-prompts/what-makes-a-good-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,7 +242,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (4), teams (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -258,8 +253,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to draft a business plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
+#### [Using AI to draft a business plan](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,14 +325,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), business (7), ai (5), next (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - well (1)
 
-#### Demo of using AI to draft a business plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980)
+#### [Demo of using AI to draft a business plan](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,13 +338,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=4)** I'll be mixing up as I do them.
 >
-> **[0:06](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=6)** We're going to start here using Google Gemini.
+> **[0:06](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=6)** We're going to start here using [[Google Gemini]].
 >
 > **[0:09](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=9)** Now, you have to understand that these tools might look different when you use them because they're being updated all the time.
 >
 > **[0:17](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=17)** The interface is changing, the models are changing.
 >
-> **[0:19](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=19)** In fact, here, if you look at the top here, you might be able to see that we're using Gemini Advanced 1.5 Pro.
+> **[0:19](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=19)** In fact, here, if you look at the top here, you might be able to see that we're using [[Gemini]] Advanced 1.5 Pro.
 >
 > **[0:27](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=27)** That's the current default model.
 >
@@ -402,11 +394,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=169)** So here are the sections I'm looking at.
 >
-> **[2:51](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=171)** If we scroll down here, company description is one, organization and management, products and services.
+> **[2:51](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=171)** If we scroll down here, company description is one, organization and management, [[Microsoft Products|products]] and services.
 >
 > **[3:00](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=180)** So it's going to ask us questions to be able to fill in all of these.
 >
-> **[3:03](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=183)** Market analysis, marketing and sales strategy, operational plan.
+> **[3:03](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=183)** Market analysis, marketing and [[Sales Strategy]], operational plan.
 >
 > **[3:12](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=192)** And then it does, last of all, once it's got all of that information, it will summarize it in an executive summary, and that's the bit that we then put at the front of the document usually, the executive summary.
 >
@@ -452,7 +444,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=313)** (static buzzing) And now it's giving us our operational plan.
 >
-> **[5:18](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=318)** (static buzzing) Now you can see here that actually it says that we operate from a central office location in the UK to manage core business functions, including marketing, sales, administration.
+> **[5:18](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=318)** (static buzzing) Now you can see here that actually it says that we operate from a central [[Microsoft Office|office]] location in the UK to manage core business functions, including marketing, sales, administration.
 >
 > **[5:28](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-training-material?u=76281980&t=328)** For this business, I wouldn't want an office.
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), prompt (10), ai (2), [[Microsoft Products|Products]] (2), [[Sales Strategy]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sales Strategy]] (2), [[Microsoft Office|Office]] (2), [[Google Gemini]] (1), [[Gemini]] (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **Versions:** 1.5 (2), version 2 (1), 7.3 (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
@@ -515,8 +507,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Using AI to analyze a financial report
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-a-data-analysis-report?u=76281980)
+#### [Using AI to analyze a financial report](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-a-data-analysis-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,19 +567,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), prompt (4), next (2), business (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Demo of using AI to analyze a financial report
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980)
+#### [Demo of using AI to analyze a financial report](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=0)** - So for this demo, we're going to be using ChatGPT here.
+> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=0)** - So for this demo, we're going to be using [[ChatGPT]] here.
 >
 > **[0:04](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=4)** We're going to paste in the prompt and we are going to attach a document.
 >
@@ -600,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=19)** Once it's uploaded, we will put it in.
 >
-> **[0:21](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=21)** Now these calculations that we are doing at the moment, if you are going to rely on these to make business decisions, please double check them, because these are large language models, not large mathematical models.
+> **[0:21](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=21)** Now these calculations that we are doing at the moment, if you are going to rely on these to make business decisions, please double check them, because these are [[Large Language Models (LLM)|large language models]], not large mathematical models.
 >
 > **[0:34](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-data-analysis-report?u=76281980&t=34)** So I want you to check first of all that the information it's got from the document is correct, that the calculations are correct and its analysis of those calculations are correct.
 >
@@ -698,12 +687,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (2), business (2), next (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Speakers:** - so (1)
 
-#### Using AI to create a SWOT analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-optimise-a-process?u=76281980)
+#### [Using AI to create a SWOT analysis](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-optimise-a-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,15 +749,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), prompt (2), career (1), generic (1), next (1)
 > **Env Vars:** swot (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - time (1)
 
-#### Demo of using AI to create a SWOT analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980)
+#### [Demo of using AI to create a SWOT analysis](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=26)** So curly brackets, "information".
 >
-> **[0:29](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=29)** And what we're going to do here is we're going to give the information saying that, "Coca-Cola is launching a new range of fizzy milk products for the Japanese market", and we're going to ask it to come up with a SWOT analysis for that.
+> **[0:29](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=29)** And what we're going to do here is we're going to give the information saying that, "Coca-Cola is launching a new range of fizzy milk [[Microsoft Products|products]] for the Japanese market", and we're going to ask it to come up with a SWOT analysis for that.
 >
 > **[0:45](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=45)** So let's enter this.
 >
@@ -793,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=71)** And then once I'm happy with it, ask if I would like a web visualization."
 >
-> **[1:16](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=76)** So it'll create an HTML document that's interactive of a SWOT analysis with the quadrants.
+> **[1:16](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=76)** So it'll create an [[HTML]] document that's interactive of a SWOT analysis with the quadrants.
 >
 > **[1:23](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=83)** And you click on it, it'll give you more information.
 >
@@ -921,7 +907,7 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=400)** So isn't that great?
 >
-> **[6:42](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=402)** That it's not just given us a bunch of list items that you'd copy and paste into a Word document.
+> **[6:42](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=402)** That it's not just given us a bunch of list items that you'd copy and paste into a [[Microsoft Word|Word]] document.
 >
 > **[6:48](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-optimise-a-process?u=76281980&t=408)** It's giving us something that is visual and it's interactive and people can use to get a much better understanding of it.
 >
@@ -933,15 +919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), strengths (4), prompt (2), [[Microsoft Products|Products]] (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** swot (4), html (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (2), cat (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
 
-#### Using AI to get career coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-summarize-a-research-paper?u=76281980)
+#### [Using AI to get career coaching](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-summarize-a-research-paper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,13 +964,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), prompt (4), next (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
-#### Demo of using AI to get career coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980)
+#### [Demo of using AI to get career coaching](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980&t=83)** What is your current job title and what are your main responsibilities in your role?"
 >
-> **[1:28](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980&t=88)** Now another thing is, I'm going to do this by talking, Claude doesn't have a speech recognition thing built into it, but I'm going to use my computer's speech recognition.
+> **[1:28](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980&t=88)** Now another thing is, I'm going to do this by talking, Claude doesn't have a [[Speech Recognition]] thing built into it, but I'm going to use my computer's speech recognition.
 >
 > **[1:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-summarize-a-research-paper?u=76281980&t=100)** On my Mac, I just double click the Ctrl key and it then will give me the option to be able to talk, as you're seeing here, into the prompt box.
 >
@@ -1077,7 +1060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), prompt (4), [[Speech Recognition]] (2), ai (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Documentation:** spec (1)
@@ -1085,8 +1068,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Using AI to write a project proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980)
+#### [Using AI to write a project proposal](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1088,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980&t=50)** So, I've written this prompt to help you do your idea justice, making sure that you articulate all the benefits in the right way for the audience, and it formats it in a handy proposal document that's designed to increase the chance of them saying a big, loud, "Heck, yeah!"
 >
-> **[1:09](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980&t=69)** It works by interviewing you to get all the information it needs to write the proposal.
+> **[1:09](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980&t=69)** It works by [[Interviewing]] you to get all the information it needs to write the proposal.
 >
 > **[1:13](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-prepare-for-your-annual-review?u=76281980&t=73)** So, the results that you get are entirely dependent on the quality of your interaction at this stage.
 >
@@ -1140,19 +1122,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), ai (2), [[Interviewing]] (1), next (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### Demo of using AI to write a project proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980)
+#### [Demo of using AI to write a project proposal](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=0)** - Right, so let's write a project proposal with the help of Gemini.
+> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=0)** - Right, so let's write a project proposal with the help of [[Gemini]].
 >
 > **[0:05](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=5)** Now, this prompt that I'm going to paste in here, there's two ways of using this prompt.
 >
@@ -1226,7 +1207,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=156)** Because this is what I like to do, is this response, how can we improve this response?
 >
-> **[2:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=160)** It says that we can add specific data or statistics.
+> **[2:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=160)** It says that we can add specific data or [[Statistics]].
 >
 > **[2:43](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-prepare-for-your-annual-review?u=76281980&t=163)** Consider adding a section on the impact of this problem on the environment.
 >
@@ -1320,7 +1301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), next (4), ai (2), [[Gemini]] (1), business (1)
+> **Frameworks & Libraries:** [[Gemini]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -1328,8 +1309,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - right (1)
 
-#### Using AI to prepare for your annual review
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980)
+#### [Using AI to prepare for your annual review](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980&t=28)** You're welcome.
 >
-> **[0:30](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980&t=30)** The prompt works by interviewing you about your role, your achievements, your boss' expectations, your goals and your targets, and how you hope to progress.
+> **[0:30](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980&t=30)** The prompt works by [[Interviewing]] you about your role, your achievements, your boss' expectations, your goals and your targets, and how you hope to progress.
 >
 > **[0:40](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-write-a-project-proposal?u=76281980&t=40)** Obviously, the more you share, the better the response you'll get.
 >
@@ -1377,17 +1357,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), next (3), career (1), [[Interviewing]] (1), ai (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### Demo of using AI to prepare for your annual review
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-write-a-project-proposal?u=76281980)
+#### [Demo of using AI to prepare for your annual review](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-write-a-project-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-write-a-project-proposal?u=76281980&t=0)** - So let's see if ChatGPT here can help with my fictional annual review.
+> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-write-a-project-proposal?u=76281980&t=0)** - So let's see if [[ChatGPT]] here can help with my fictional annual review.
 >
 > **[0:06](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-write-a-project-proposal?u=76281980&t=6)** I'm going to pretend to be a recruitment executive.
 >
@@ -1563,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), leadership (2), next (2), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - so (1), - [chatgpt] (1), - yes (1)
 > **Cross-References:** in the last (2)
@@ -1571,12 +1550,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Analogies:** such as (1)
 
-#### Using AI to summarize a research paper
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-get-career-coaching?u=76281980)
+#### [Using AI to summarize a research paper](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-get-career-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-get-career-coaching?u=76281980&t=1)** - Summarizing is a task that AI tools excel at.
+> **[0:01](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-get-career-coaching?u=76281980&t=1)** - Summarizing is a task that AI tools [[Microsoft Excel|excel]] at.
 >
 > **[0:05](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-get-career-coaching?u=76281980&t=5)** They can keep their attention on even the most dull and badly written document, documents that would turn the likes of you and me into drooling zombies within a paragraph and then they'll condense it into a collection of neat little bullet points so that you can sound informed in your next meeting.
 >
@@ -1614,14 +1592,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (2), prompt (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - summarizing (1)
 
-#### Demo of using AI to summarize a research paper
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-get-career-coaching?u=76281980)
+#### [Demo of using AI to summarize a research paper](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-get-career-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,15 +1714,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), next (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** mdck (3), pdf (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - we (1)
 
-#### Using AI to optimize a process
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-a-swot-analysis?u=76281980)
+#### [Using AI to optimize a process](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-create-a-swot-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1795,16 +1770,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), prompt (2), next (2), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - hey (1)
 
-#### Demo of using AI to optimize a process
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980)
+#### [Demo of using AI to optimize a process](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=0)** - We're now going to use Microsoft Copilot to see if it can help us with the next issue.
+> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=0)** - We're now going to use [[Microsoft Copilot]] to see if it can help us with the next issue.
 >
 > **[0:05](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=5)** And the next issue is using AI to help optimize a process.
 >
@@ -1836,7 +1809,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=79)** So here we go.
 >
-> **[1:20](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=80)** We're going to put this in and see exactly what Copilot gives us.
+> **[1:20](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=80)** We're going to put this in and see exactly what [[Microsoft Copilot|Copilot]] gives us.
 >
 > **[1:25](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=85)** Now, there is a button here which says that you can get it to think deeper.
 >
@@ -1876,7 +1849,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=176)** So some things there that don't feel as if they're that difficult to implement really.
 >
-> **[3:03](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=183)** Then considerations for actions: costs, disruption, human resources.
+> **[3:03](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=183)** Then considerations for actions: costs, disruption, [[Human Resources (HR)|human resources]].
 >
 > **[3:07](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=187)** A lot of that is what we're going to find for a lot of changes.
 >
@@ -1914,7 +1887,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=267)** Legacy system: Many banks operate on legacy systems.
 >
-> **[4:31](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=271)** Regulatory compliance: Financial institutions must comply with various regulations and standards, particularly internationally.
+> **[4:31](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=271)** [[Regulatory Compliance]]: Financial institutions must comply with various regulations and standards, particularly internationally.
 >
 > **[4:38](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=278)** Cost of implementation, risk management.
 >
@@ -1922,7 +1895,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=283)** A vested interest.
 >
-> **[4:44](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=284)** In some cases, existing processes may benefit certain stakeholders within the banking ecosystem.
+> **[4:44](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=284)** In some cases, existing processes may benefit certain stakeholders within the [[Banking]] ecosystem.
 >
 > **[4:49](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-a-swot-analysis?u=76281980&t=289)** For example, correspondent banks might gain from the fees associated with processing international checks.
 >
@@ -1940,7 +1913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Copilot]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Microsoft Copilot]] (1), [[Human Resources (HR)|Human resources]] (1), [[Regulatory Compliance]] (1), [[Banking]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -1949,8 +1922,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - we (1)
 
-#### Using AI to create a data analysis report
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-analyze-a-financial-report?u=76281980)
+#### [Using AI to create a data analysis report](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-analyze-a-financial-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,17 +1978,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), prompt (4), ai (2), next (2), business (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - it (1)
 
-#### Demo of using AI to create a data analysis report
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980)
+#### [Demo of using AI to create a data analysis report](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=0)** - We are back here with Gemini to see how it can deal with some data, we want it to analyze some data.
+> **[0:00](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=0)** - We are back here with [[Gemini]] to see how it can deal with some data, we want it to analyze some data.
 >
 > **[0:06](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=6)** So, it's going to create a data analysis report based on the information we give it.
 >
@@ -2170,7 +2140,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=398)** But, this is really useful.
 >
-> **[6:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=400)** I've used this here to analyze things like my web stats, even like, LinkedIn stats as well.
+> **[6:40](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=400)** I've used this here to analyze things like my web stats, even like, [[LinkedIn]] stats as well.
 >
 > **[6:48](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-analyze-a-financial-report?u=76281980&t=408)** So it can take some of those, and sort of work outs where patterns are, what's happening.
 >
@@ -2182,7 +2152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), prompt (5), web (2), [[Gemini]] (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** csv (1)
 > **Versions:** 44.382 (1)
@@ -2190,8 +2160,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - we (1)
 
-#### Using AI to create training material
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-draft-a-business-plan?u=76281980)
+#### [Using AI to create training material](https://www.linkedin.com/learning/top-ten-ai-prompts/using-ai-to-draft-a-business-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2255,12 +2224,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), hr (1), hit (1), ai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - and (1)
 
-#### Demo of using AI to create training material
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980)
+#### [Demo of using AI to create training material](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2402,7 +2369,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980&t=285)** Okay, first minute, the evolution of conformity.
 >
-> **[4:51](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980&t=291)** Next one and a half minutes, the modern office tribe, A case study, the formal versus creative department dress codes.
+> **[4:51](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980&t=291)** Next one and a half minutes, the modern [[Microsoft Office|office]] tribe, A case study, the formal versus creative department dress codes.
 >
 > **[4:57](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-draft-a-business-plan?u=76281980&t=297)** All right.
 >
@@ -2462,7 +2429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), business (3), ai (2), power (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - this (1)
 
@@ -2471,8 +2438,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2492,9 +2458,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=43)** First, I admire your ambition, and second, you're in luck.
 >
-> **[0:48](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=48)** I've got a bunch of other courses on LinkedIn Learning.
+> **[0:48](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=48)** I've got a bunch of other courses on [[LinkedIn]] Learning.
 >
-> **[0:51](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=51)** If you want to improve your prompt writing, I recommend a course called How to Research and Write Using Generative AI Tools, that gives you a solid framework for writing effective prompts, plus a bag of extra prompts with it.
+> **[0:51](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=51)** If you want to improve your prompt writing, I recommend a course called How to Research and Write Using [[Generative AI Tools]], that gives you a solid framework for writing effective prompts, plus a bag of extra prompts with it.
 >
 > **[1:04](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=64)** You'll also find courses about using AI for SEO, productivity, project management, creativity, and a few other topics.
 >
@@ -2502,7 +2468,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=79)** But before you dash off to become a prompt writing prodigy, consider subscribing to my LinkedIn newsletter, "Experiments in Intelligence," or following me on LinkedIn.
 >
-> **[1:29](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=89)** I promise to keep things interesting, or at least more interesting than those corporate newsletters about synergizing workplace paradigms, pooh.
+> **[1:29](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=89)** I promise to keep things interesting, or at least more interesting than those corporate [[Newsletters]] about synergizing workplace paradigms, pooh.
 >
 > **[1:38](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980&t=98)** If you found this useful, and I hope those nods weren't just you falling asleep, consider sharing it with others who might benefit, your colleagues, friends, and even that person at work who still thinks that AI is all about robots taking over the world.
 >
@@ -2514,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), prompt (3), ai (3), business (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Generative AI Tools]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** swot (1), seo (1)
 > **UI Navigation:** click on (1)

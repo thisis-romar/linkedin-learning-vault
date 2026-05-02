@@ -95,12 +95,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build powerful data models with DAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980)
+#### [Build powerful data models with DAX](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980&t=0)** - [Narrator] DAX or Data Analysis Expressions is the language that's used to create formulas for Power BI that extend our data model.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980&t=0)** - [Narrator] [[DAX]] or Data Analysis Expressions is the language that's used to create formulas for [[Microsoft Power BI|Power BI]] that extend our data model.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980&t=10)** DAX gives us the ability to create additional information at runtime so that we can quickly and easily generate new information beyond the information that's in our model already.
 >
@@ -112,31 +111,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (5), data (3), power (3), bi (3), next (1)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (3)
 > **Env Vars:** dax (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you'll need
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/what-you-ll-need?u=76281980)
+#### [What you'll need](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/what-you-ll-need?u=76281980)
 
 
 ### 1. Set Up the Data Model
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data modeling: The basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/data-modeling-the-basics?u=76281980)
+#### [Data modeling: The basics](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/data-modeling-the-basics?u=76281980)
 
-#### Get data for your model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/get-data-for-your-model?u=76281980)
+#### [Get data for your model](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/get-data-for-your-model?u=76281980)
 
-#### Check relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980)
+#### [Check relationships](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=0)** - [Instructor] This is the model, or as many people think of, the Relationships view in Power BI Desktop for the Contoso Sales sample.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=0)** - [Instructor] This is the model, or as many people think of, the Relationships view in [[Microsoft Power BI|Power BI]] Desktop for the Contoso Sales sample.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=8)** Here, we see tables and the relationships between them, and there are a few things I'd like to point out to you here in this particular view.
 >
@@ -156,9 +151,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=37)** They're called lookup tables.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=39)** And so if I want to know information about the store that something was purchased in, it'll be in the Stores table: the products, what category those products are in, that's out here on this branch.
+> **[0:39](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=39)** And so if I want to know information about the store that something was purchased in, it'll be in the Stores table: the [[Microsoft Products|products]], what category those products are in, that's out here on this branch.
 >
-> **[0:51](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=51)** When I add data into a model, several tables, for example, from SQL Server or any other data sources that are related, Power BI Desktop tends to lay them out like this, a star or a snowflake arrangement with our fact table, our main table in the center, and the lookup tables around it.
+> **[0:51](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=51)** When I add data into a model, several tables, for example, from [[Microsoft SQL Server|SQL Server]] or any other data sources that are related, Power BI Desktop tends to lay them out like this, a star or a [[Snowflake]] arrangement with our fact table, our main table in the center, and the lookup tables around it.
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=69)** There is another equally valid way to lay these out, if you wish, and that is to lay them out with the lookup tables on the top.
 >
@@ -172,9 +167,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=100)** Hopefully, one of these two methods seems intuitive to you.
 >
-> **[1:43](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=103)** It might depend on whether you were working previously with relational databases.
+> **[1:43](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=103)** It might depend on whether you were working previously with [[Relational Databases]].
 >
-> **[1:48](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=108)** That usually will mean you'll favor the star layout, or if you've mostly worked with files from a more flat file world, or people who have worked with SharePoint, I think, often say that they like this because they understand how lookups work in SharePoint.
+> **[1:48](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=108)** That usually will mean you'll favor the star layout, or if you've mostly worked with files from a more flat file world, or people who have worked with [[SharePoint]], I think, often say that they like this because they understand how lookups work in SharePoint.
 >
 > **[2:01](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=121)** And there's also this sort of built in mnemonic, right?
 >
@@ -192,11 +187,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=168)** You've added a table to the model that's not related, but has columns with the same name as another table, and therefore there's a relationship that gets created that's not correct.
 >
-> **[2:59](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=179)** Before you begin transforming your data, shaping your data using DAX with your data, make sure that your relationships between the tables in your data model are correct and are arranged in a way that's going to work.
+> **[2:59](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-relationships?u=76281980&t=179)** Before you begin transforming your data, shaping your data using [[DAX]] with your data, make sure that your relationships between the tables in your data model are correct and are arranged in a way that's going to work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), bi (2), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Products|Products]] (2), [[SharePoint]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Snowflake]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (1), dax (1)
 > **UI Navigation:** double-click (1)
@@ -204,8 +199,7 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save your data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980)
+#### [Save your data model](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +209,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980&t=15)** And all you need to do to do that is choose File and Save.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980&t=20)** And you'll see the file name, Contoso Sales Sample for Power BI Desktop, and you can put this wherever you wish.
+> **[0:20](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980&t=20)** And you'll see the file name, Contoso Sales Sample for [[Microsoft Power BI|Power BI]] Desktop, and you can put this wherever you wish.
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/save-your-data-model?u=76281980&t=27)** I'm going to leave this in my Documents folder, but for now, you could save this anywhere you wish to save it.
 >
@@ -225,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** pbix (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -235,40 +229,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a measure with SUM
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-sum?u=76281980)
+#### [Create a measure with SUM](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-sum?u=76281980)
 
-#### Understanding DAX syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understanding-dax-syntax?u=76281980)
+#### [Understanding DAX syntax](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understanding-dax-syntax?u=76281980)
 
-#### Display the measure in a matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/display-the-measure-in-a-matrix?u=76281980)
+#### [Display the measure in a matrix](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/display-the-measure-in-a-matrix?u=76281980)
 
-#### Format a measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/format-a-measure?u=76281980)
+#### [Format a measure](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/format-a-measure?u=76281980)
 
-#### Create measures with COUNT functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-measures-with-count-functions?u=76281980)
+#### [Create measures with COUNT functions](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-measures-with-count-functions?u=76281980)
 
-#### Delete or edit a measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/delete-or-edit-a-measure?u=76281980)
+#### [Delete or edit a measure](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/delete-or-edit-a-measure?u=76281980)
 
-#### Check your data with COUNTBLANK
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-your-data-with-countblank?u=76281980)
+#### [Check your data with COUNTBLANK](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/check-your-data-with-countblank?u=76281980)
 
-#### Create a measure with DISTINCTCOUNT
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-distinctcount?u=76281980)
+#### [Create a measure with DISTINCTCOUNT](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-distinctcount?u=76281980)
 
 
 ### 3. Measures and Calculated Columns
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add a calculated column
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/add-a-calculated-column?u=76281980)
+#### [Add a calculated column](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/add-a-calculated-column?u=76281980)
 
-#### Understand explicit and implicit measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980)
+#### [Understand explicit and implicit measures](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980&t=28)** I have the same value, few more decimal places.
 >
-> **[0:32](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980&t=32)** And since some recent changes to Power BI, I can even rename this.
+> **[0:32](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980&t=32)** And since some recent changes to [[Microsoft Power BI|Power BI]], I can even rename this.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/understand-explicit-v-implicit-measures?u=76281980&t=36)** I can rename this sales amount, so it says Total Sales, and it will look just like this.
 >
@@ -320,40 +304,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** scroll down (1), drag and drop (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a measure with operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-operators?u=76281980)
+#### [Create a measure with operators](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-operators?u=76281980)
 
-#### Create a measure with DIVIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-divide?u=76281980)
+#### [Create a measure with DIVIDE](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-divide?u=76281980)
 
-#### Iterators and row context: SUMX
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/iterators-and-row-context-sumx?u=76281980)
+#### [Iterators and row context: SUMX](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/iterators-and-row-context-sumx?u=76281980)
 
-#### Basic DAX date and time functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/basic-dax-date-and-time-functions?u=76281980)
+#### [Basic DAX date and time functions](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/basic-dax-date-and-time-functions?u=76281980)
 
 
 ### 4. DAX Logical and Filter Functions
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use FIND
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-find?u=76281980)
+#### [Use FIND](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-find?u=76281980)
 
-#### Use IF
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-if?u=76281980)
+#### [Use IF](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-if?u=76281980)
 
-#### Use OR to handle case sensitivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980)
+#### [Use OR to handle case sensitivity](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=0)** - [Narrator] We have a calculated column in our data model that uses find to determine the position of the word mouse within a product name and then uses if to place the word mouse in our calculated column if there is indeed, a mouse in the product name.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=0)** - [Narrator] We have a calculated column in our data model that uses find to determine the position of the [[Microsoft Word|word]] mouse within a product name and then uses if to place the word mouse in our calculated column if there is indeed, a mouse in the product name.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=19)** The problem when you're using find is that find is case sensitive, and there are two different ways you can deal with that.
 >
@@ -391,7 +368,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=143)** Our or function says either find upper or lowercase mouse.
 >
-> **[2:27](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=147)** But unlike Excel, where I'm dealing with specific cell addresses and saying, "Look in this cell address and see if it's this or this," here in DAX in Power BI, it's a lot more verbose.
+> **[2:27](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=147)** But unlike [[Microsoft Excel|Excel]], where I'm dealing with specific cell addresses and saying, "Look in this cell address and see if it's this or this," here in [[DAX]] in [[Microsoft Power BI|Power BI]], it's a lot more verbose.
 >
 > **[2:41](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-or-to-handle-case-sensitivity?u=76281980&t=161)** I'm not simply saying, "Look."
 >
@@ -405,29 +382,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2), [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (8)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use CALCULATE to create a simple filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-calculate-to-create-a-simple-filter?u=76281980)
+#### [Use CALCULATE to create a simple filter](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-calculate-to-create-a-simple-filter?u=76281980)
 
-#### Use SWITCH
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-switch?u=76281980)
+#### [Use SWITCH](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-switch?u=76281980)
 
 
 ### 5. Using DAX Time-Intelligence Functions
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DAX time-intelligence functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980)
+#### [DAX time-intelligence functions](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=0)** - [Instructor] Power BI includes built-in time intelligence functions.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] includes built-in time intelligence functions.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=5)** Time intelligence functions are used to be able to manipulate data using time periods, to filter results based on a particular time period, and to build calculations to compare results from one period to another.
 >
@@ -489,26 +463,23 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=185)** Total year to date and its companion functions, total quarter to date and month to date are used to evaluate the value of the expression in your function for the dates that fall in that year, quarter, or month.
 >
-> **[3:19](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=199)** Microsoft provides abundant help on the syntax and uses of all of these functions.
+> **[3:19](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=199)** [[Microsoft]] provides abundant help on the syntax and uses of all of these functions.
 >
 > **[3:25](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980&t=205)** The important thing is that you know that they exist, and we'll use a couple of them in the movies that follow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), power (1), bi (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** datesqtd (1), datesmtd (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize year-to-date information with DATESYTD
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/summarize-year-to-date-with-datesytd?u=76281980)
+#### [Summarize year-to-date information with DATESYTD](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/summarize-year-to-date-with-datesytd?u=76281980)
 
-#### Visualize cumulative YTD data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/visualize-cumulative-ytd-data?u=76281980)
+#### [Visualize cumulative YTD data](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/visualize-cumulative-ytd-data?u=76281980)
 
-#### Compare totals with SAMEPERIODLASTYEAR
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/compare-totals-with-sameperiodlastyear?u=76281980)
+#### [Compare totals with SAMEPERIODLASTYEAR](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/compare-totals-with-sameperiodlastyear?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +541,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Analogies:** for example (2)
 > **Env Vars:** calculate (1)
 > **Definitions:** is called (1)
@@ -581,8 +551,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/next-steps?u=76281980)
 
 
 ## Instructor

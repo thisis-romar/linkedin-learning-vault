@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to operational excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
+#### [Welcome to operational excellence](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,13 +93,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=10)** Do you need things to be done better, faster, and cheaper?
 >
-> **[0:15](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=15)** By addressing these questions, you've taken a great first step towards operational excellence.
+> **[0:15](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=15)** By addressing these questions, you've taken a great first step towards [[Operational Excellence]].
 >
 > **[0:22](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=22)** To be operationally excellent means everyone in your organization wants to, and is able to, be effective and efficient in delivering value in their daily work.
 >
 > **[0:33](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=33)** Hi, I'm Dr. Richard Chua.
 >
-> **[0:35](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=35)** I'm an operational excellence trainer and consultant, certified Lean Six Sigma Master Black Belt, author and professor.
+> **[0:35](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=35)** I'm an operational excellence trainer and consultant, certified Lean [[Six Sigma]] Master Black Belt, author and professor.
 >
 > **[0:44](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=44)** Over the past 25 years, I have worked with CEOs and trained thousands of executives, managers, and project leaders in Fortune 500 and multinational companies.
 >
@@ -114,11 +113,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=99)** I'll address how all of this translates to your management and control of daily work.
 >
-> **[1:45](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=105)** By understanding operational excellence, you can do your part to improve not only your daily work but also your organization's processes, products, and services for competitive advantage.
+> **[1:45](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980&t=105)** By understanding operational excellence, you can do your part to improve not only your daily work but also your organization's processes, [[Microsoft Products|products]], and services for competitive advantage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Operational Excellence]] (4), [[Six Sigma]] (3), management (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (4), [[Six Sigma]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - do (1)
 
@@ -127,8 +126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is operational excellence?
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
+#### [What is operational excellence?](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=20)** Surprise, surprise, your name is nowhere to be found.
 >
-> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=23)** So now, you have to go into the rental car office, hoping to speak to someone at the gold preferred counter.
+> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=23)** So now, you have to go into the rental car [[Microsoft Office|office]], hoping to speak to someone at the gold preferred counter.
 >
 > **[0:29](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=29)** But that counter is closed for the night.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=83)** Better.
 >
-> **[1:24](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=84)** Better quality of products and services, better processes, and better user experience, and better value.
+> **[1:24](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=84)** Better quality of [[Microsoft Products|products]] and services, better processes, and better [[User Experience (UX)|user experience]], and better value.
 >
 > **[1:32](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=92)** Better in whatever's relevant and important.
 >
@@ -196,17 +194,17 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=130)** Cheaper means being more efficient in the use of resources and improved performance on metrics in the cost dimension.
 >
-> **[2:18](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=138)** To achieve operational excellence, organizations needs to have processes that are effective and efficient in delivering value.
+> **[2:18](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=138)** To achieve [[Operational Excellence]], organizations needs to have processes that are effective and efficient in delivering value.
 >
 > **[2:26](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=146)** Processes need to be well-designed, capable, and consistent.
 >
 > **[2:30](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=150)** Where people perform the work are capable and have the means of knowing what's important, what to do, when to take action, and what actions to take.
 >
-> **[2:41](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=161)** They have the necessary process authority, responsibility, and accountability.
+> **[2:41](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=161)** They have the necessary process authority, responsibility, and [[Accountability]].
 >
 > **[2:47](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=167)** Organizations also need to have the tools and techniques for design, improvement, and control.
 >
-> **[2:53](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=173)** For example, for design, there's Design for Six Sigma.
+> **[2:53](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=173)** For example, for design, there's Design for [[Six Sigma]].
 >
 > **[2:57](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980&t=177)** For improvement, there's Six Sigma and Lean.
 >
@@ -234,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (2), business (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** vip (1)
@@ -246,8 +244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Process stakeholders and SIPOC
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
+#### [Process stakeholders and SIPOC](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980&t=157)** These process stakeholder roles come with responsibilities.
 >
-> **[2:41](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980&t=161)** Responsibilities are prerequisites for operational excellence.
+> **[2:41](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980&t=161)** Responsibilities are prerequisites for [[Operational Excellence]].
 >
 > **[2:46](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980&t=166)** As a supplier you are responsible for knowing what's important and critical to your customers.
 >
@@ -333,14 +330,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Operational Excellence]] (2)
+> **Frameworks & Libraries:** [[Operational Excellence]] (2)
 > **Definitions:** is a  (3), in other words (2)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - whether (1)
 
-#### Voice of the customer, CTQs, and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/voice-of-the-customer-ctqs-and-metrics?u=76281980)
+#### [Voice of the customer, CTQs, and metrics](https://www.linkedin.com/learning/operational-excellence-foundations/voice-of-the-customer-ctqs-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,15 +406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Env Vars:** voc (3), ctq (2)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Kano model and Its Implications
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980)
+#### [Kano model and Its Implications](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980&t=14)** Definitely not.
 >
-> **[0:16](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980&t=16)** These quality attributes describe different aspects of the experience, service, or products, and they are indeed different, and should be treated as such.
+> **[0:16](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980&t=16)** These quality attributes describe different aspects of the experience, service, or [[Microsoft Products|products]], and they are indeed different, and should be treated as such.
 >
 > **[0:25](https://www.linkedin.com/learning/operational-excellence-foundations/kano-model-and-its-implications?u=76281980&t=25)** But wait, there is a model to help you do just that.
 >
@@ -504,13 +498,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - when (1)
 
-#### Variation
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980)
+#### [Variation](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980&t=129)** In other words, variation impacts quality.
 >
-> **[2:13](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980&t=133)** There are specifications for services and products.
+> **[2:13](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980&t=133)** There are specifications for services and [[Microsoft Products|products]].
 >
 > **[2:16](https://www.linkedin.com/learning/operational-excellence-foundations/variation?u=76281980&t=136)** These specifications are expressed as specification limits.
 >
@@ -618,15 +611,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Documentation:** specification (5)
 > **Definitions:** in other words (3), is a  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - a (1)
 
-#### Quality at the source
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980)
+#### [Quality at the source](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980&t=49)** The principle of quality at the source means that quality is assured at the source where work is performed so that no defects are passed down to the next step or to subsequent processes.
 >
-> **[1:01](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980&t=61)** The source can be a person, such as a waiter taking an order, a workstation in a factory or a call center, a department processing a transaction, or, externally, a supplier who supplies products and services.
+> **[1:01](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980&t=61)** The source can be a person, such as a waiter taking an order, a workstation in a factory or a call center, a department processing a transaction, or, externally, a supplier who supplies [[Microsoft Products|products]] and services.
 >
 > **[1:14](https://www.linkedin.com/learning/operational-excellence-foundations/quality-at-the-source?u=76281980&t=74)** Quality at the source can be achieved in one or more of the following ways: quality by design, quality by process monitoring and control, and quality by self-checks and verification.
 >
@@ -702,13 +694,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (3), management (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is called (1)
 > **Speakers:** - how (1)
 
-#### Error-proofing or poka-yoke
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980)
+#### [Error-proofing or poka-yoke](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980&t=19)** To avoid inadvertent error or human error.
 >
-> **[0:22](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980&t=22)** Wouldn't it be useful to error proof or mistake proof your processes, products, and services?
+> **[0:22](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980&t=22)** Wouldn't it be useful to error proof or mistake proof your processes, [[Microsoft Products|products]], and services?
 >
 > **[0:27](https://www.linkedin.com/learning/operational-excellence-foundations/error-proofing-or-poka-yoke?u=76281980&t=27)** Let's discuss the basic principles of error proofing and how they can be applied.
 >
@@ -788,14 +779,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), application (1), management (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** warning (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Lean principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980)
+#### [Lean principles](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=36)** Value is what customers need and expect and are willing to pay for.
 >
-> **[0:41](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=41)** This includes receiving the right products and services at a specified price, time, and place.
+> **[0:41](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=41)** This includes receiving the right [[Microsoft Products|products]] and services at a specified price, time, and place.
 >
 > **[0:47](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=47)** For example, if you see an extra charge in your invoice because warehouse personnel spent five hours to look at your item, would you want to pay for that?
 >
@@ -823,7 +813,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=60)** Waste is anything that is of no value or adds no value for customers.
 >
-> **[1:05](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=65)** Waste comes in many forms.
+> **[1:05](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=65)** Waste comes in many [[Forms]].
 >
 > **[1:08](https://www.linkedin.com/learning/operational-excellence-foundations/lean-principles?u=76281980&t=68)** Eight types of waste have been identified.
 >
@@ -887,15 +877,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), management (2), [[Forms]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Forms]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** timwoods (2)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - remember (1)
 
-#### Process mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980)
+#### [Process mapping](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +936,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980&t=137)** So if you have a cross functional process, map it using a swimlane process map.
 >
-> **[2:22](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980&t=142)** Another type of process map that has gained popularity with lean and operational excellence is the value stream map.
+> **[2:22](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980&t=142)** Another type of process map that has gained popularity with lean and [[Operational Excellence]] is the value stream map.
 >
 > **[2:30](https://www.linkedin.com/learning/operational-excellence-foundations/process-mapping?u=76281980&t=150)** A value stream map is a diagram that shows the major steps involved in getting a product or service from supplier to customer.
 >
@@ -975,13 +964,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), data (2), [[Operational Excellence]] (1), product (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (1)
 > **Analogies:** picture (2), such as (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - they (1)
 
-#### FMEA: Failure modes and effects analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/fmea-failure-modes-and-effects-analysis?u=76281980)
+#### [FMEA: Failure modes and effects analysis](https://www.linkedin.com/learning/operational-excellence-foundations/fmea-failure-modes-and-effects-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,14 +1039,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1)
 > **Env Vars:** fmea (12), rpn (1)
 > **Definitions:** is called (3), is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - take (1)
 
-#### Process control and the control plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-control-and-the-control-plan?u=76281980)
+#### [Process control and the control plan](https://www.linkedin.com/learning/operational-excellence-foundations/process-control-and-the-control-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Analogies:** such as (2), for example (1)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
@@ -1134,12 +1119,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key roles in operational excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
+#### [Key roles in operational excellence](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=1)** - So your company wants to pursue operational excellence.
+> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=1)** - So your company wants to pursue [[Operational Excellence]].
 >
 > **[0:05](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=5)** What are the key roles of executives, managers, and process owners?
 >
@@ -1175,9 +1159,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=117)** For ongoing day-to-day operations, ensure that employees are capable, have the right skills and training.
 >
-> **[2:05](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=125)** Enable employees to excel by providing them with the means to know what's important, what to do, when to take action, and what actions to take in order to deliver value to customers.
+> **[2:05](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=125)** Enable employees to [[Microsoft Excel|excel]] by providing them with the means to know what's important, what to do, when to take action, and what actions to take in order to deliver value to customers.
 >
-> **[2:17](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=137)** Ensure they have sufficient authority that's consistent with their responsibility and personal accountability.
+> **[2:17](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=137)** Ensure they have sufficient authority that's consistent with their responsibility and personal [[Accountability]].
 >
 > **[2:24](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=144)** There will be some processes that are poorly designed and/or performed inconsistently.
 >
@@ -1217,7 +1201,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=263)** Provide resources and training in the relevant operational excellence tools and techniques.
 >
-> **[4:28](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=268)** For example, for design projects, it's Design for Six Sigma.
+> **[4:28](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=268)** For example, for design projects, it's Design for [[Six Sigma]].
 >
 > **[4:33](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980&t=273)** For improvement projects, Six Sigma and Lean.
 >
@@ -1231,14 +1215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Operational Excellence]] (8), management (5), [[Six Sigma]] (2), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (8), [[Six Sigma]] (2), [[Microsoft Excel|Excel]] (1), [[Accountability]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** dna (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Alignment for operational excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980)
+#### [Alignment for operational excellence](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=45)** Should I rush through a call, or should I take the time and effort to resolve a customer problem?
 >
-> **[0:52](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=52)** Unfortunately, this confusion is all too common, regardless of whether you're working in the front office in customer-facing jobs, in back office operations, in manufacturing, or support functions such as IT and HR.
+> **[0:52](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=52)** Unfortunately, this confusion is all too common, regardless of whether you're working in the front [[Microsoft Office|office]] in customer-facing jobs, in back office operations, in manufacturing, or support functions such as IT and HR.
 >
 > **[1:08](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=68)** To add to that, employees get mixed messages.
 >
@@ -1272,7 +1255,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=124)** We may ask, "What's wrong with that?"
 >
-> **[2:06](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=126)** Well, customizations and the proliferation of products or SKUs is a nightmare for other functions, such as manufacturing and supply chain.
+> **[2:06](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=126)** Well, customizations and the proliferation of [[Microsoft Products|products]] or SKUs is a nightmare for other functions, such as manufacturing and supply chain.
 >
 > **[2:17](https://www.linkedin.com/learning/operational-excellence-foundations/alignment-for-operational-excellence?u=76281980&t=137)** Cost per unit goes up.
 >
@@ -1298,18 +1281,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), hr (1), hit (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (4), such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Choose the right methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980)
+#### [Choose the right methodology](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=1)** - When there is a need to identify efforts for operational excellence, which approach or methodology is appropriate?
+> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=1)** - When there is a need to identify efforts for [[Operational Excellence]], which approach or methodology is appropriate?
 >
 > **[0:07](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=7)** Well first, we may need to ask, what are the various types of projects and methodologies for operational excellence?
 >
@@ -1337,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=89)** In other cases, the root causes of problems or drivers of performance are unknown.
 >
-> **[1:35](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=95)** For this, select six sigma D-M-A-I-C, or DMAIC, projects.
+> **[1:35](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=95)** For this, select [[Six Sigma]] D-M-A-I-C, or DMAIC, projects.
 >
 > **[1:41](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=101)** DMAIC is an acronym for the five phases of the project methodology.
 >
@@ -1369,7 +1351,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=192)** When does the process end?
 >
-> **[3:14](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=194)** When the package is delivered to the receiving dock of a factory or office building?
+> **[3:14](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=194)** When the package is delivered to the receiving dock of a factory or [[Microsoft Office|office]] building?
 >
 > **[3:19](https://www.linkedin.com/learning/operational-excellence-foundations/choose-the-right-methodology?u=76281980&t=199)** Or does it end when the recipient gets the package at his or her desk?
 >
@@ -1391,15 +1373,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), product (3), [[Operational Excellence]] (2), [[Six Sigma]] (2), next (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (2), [[Six Sigma]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dmaic (3), sipoc (3), dmadv (1)
 > **Definitions:** is an  (2), is a  (1), stands for (1), short for (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - when (1)
 
-#### Process or value stream management
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980)
+#### [Process or value stream management](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,11 +1410,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=60)** And they need to know that they have the responsibility and authority to make things right.
 >
-> **[1:07](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=67)** Authority must be commensurate or consistent with responsibility and accountability.
+> **[1:07](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=67)** Authority must be commensurate or consistent with responsibility and [[Accountability]].
 >
 > **[1:12](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=72)** Next, control plans should be implemented to enable employees to be in control of the process.
 >
-> **[1:18](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=78)** The control plan is an organizing tool and comes in various forms.
+> **[1:18](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=78)** The control plan is an organizing tool and comes in various [[Forms]].
 >
 > **[1:22](https://www.linkedin.com/learning/operational-excellence-foundations/process-or-value-stream-management?u=76281980&t=82)** For example, a checklist or table.
 >
@@ -1537,15 +1518,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), management (2), functional (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Forms]] (1)
 > **Analogies:** for example (4), imagine (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - as (1)
 
-#### Lean event, Kaizen, or workout
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980)
+#### [Lean event, Kaizen, or workout](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,7 +1563,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980&t=194)** The right people are usually operators, stakeholders, and customers of the process or value stream.
 >
-> **[3:22](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980&t=202)** During a kaizen event, participants work under the guidance of a facilitator who is trained in operational excellence.
+> **[3:22](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980&t=202)** During a kaizen event, participants work under the guidance of a facilitator who is trained in [[Operational Excellence]].
 >
 > **[3:30](https://www.linkedin.com/learning/operational-excellence-foundations/lean-event-kaizen-or-workout?u=76281980&t=210)** More specifically in lean tools.
 >
@@ -1615,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** downtime (1), tim (1), woods (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -1624,8 +1604,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - have (1)
 
-#### Six Sigma DMAIC
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980)
+#### [Six Sigma DMAIC](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1618,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980&t=18)** And what if you have no idea what's causing the problem?
 >
-> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980&t=23)** That's when Six Sigma DMAIC projects are required.
+> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980&t=23)** That's when [[Six Sigma]] DMAIC projects are required.
 >
 > **[0:27](https://www.linkedin.com/learning/operational-excellence-foundations/six-sigma-dmaic?u=76281980&t=27)** Six Sigma DMAIC projects are what you need when you don't know the root causes, factors, or drivers of performance.
 >
@@ -1755,7 +1734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (9), data (6), management (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (9)
 > **Definitions:** is a  (4), in other words (3)
 > **Env Vars:** dmaic (6)
 > **CLI Commands:** make (1)
@@ -1764,8 +1743,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### DMADV: Design for Six Sigma
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980)
+#### [DMADV: Design for Six Sigma](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1773,9 +1751,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=5)** Or why do people buy services from one company instead of its competitor just around the corner?
 >
-> **[0:11](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=11)** Because the winning company provides the products, services, and experience that customers want and are willing to pay for.
+> **[0:11](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=11)** Because the winning company provides the [[Microsoft Products|products]], services, and experience that customers want and are willing to pay for.
 >
-> **[0:19](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=19)** Having a design that provides the right features that work as required is what design for Six Sigma is all about.
+> **[0:19](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=19)** Having a design that provides the right features that work as required is what design for [[Six Sigma]] is all about.
 >
 > **[0:26](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=26)** Design for Six Sigma, or DFSS, is a systematic methodology for the design or redesign of products, processes, and services.
 >
@@ -1809,7 +1787,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=123)** This phase establishes the reason for the design effort and helps keep the team focused.
 >
-> **[2:09](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=129)** Next, in the measure phase, VOC, or voice of the customer analysis, is tear down.
+> **[2:09](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=129)** Next, in the measure phase, VOC, or voice of the [[Customer Analysis]], is tear down.
 >
 > **[2:16](https://www.linkedin.com/learning/operational-excellence-foundations/dmadv-design-for-six-sigma?u=76281980&t=136)** Customer needs are identified, prioritized, and translated into measurable requirements called critical to quality requirements, or CTQs.
 >
@@ -1845,7 +1823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Six Sigma]] (6), [[Microsoft Products|Products]] (2), next (2), functional (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (6), [[Microsoft Products|Products]] (2), [[Customer Analysis]] (1)
 > **Env Vars:** dfss (4), dmadv (2), voc (2), dmaic (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** find (1), make (1)
@@ -1853,12 +1831,11 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - why (1)
 
-#### Implementation challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/implementation-challenges?u=76281980)
+#### [Implementation challenges](https://www.linkedin.com/learning/operational-excellence-foundations/implementation-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/implementation-challenges?u=76281980&t=1)** - There are many challenges in implementing and sustaining operational excellence.
+> **[0:01](https://www.linkedin.com/learning/operational-excellence-foundations/implementation-challenges?u=76281980&t=1)** - There are many challenges in implementing and sustaining [[Operational Excellence]].
 >
 > **[0:06](https://www.linkedin.com/learning/operational-excellence-foundations/implementation-challenges?u=76281980&t=6)** Here are some common implementation challenges.
 >
@@ -1944,13 +1921,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Operational Excellence]] (3), data (1), business (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Audits to sustain operational excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980)
+#### [Audits to sustain operational excellence](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,7 +1936,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=20)** Well, there's always next year.
 >
-> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=23)** But you do not want this to happen to operational excellence.
+> **[0:23](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=23)** But you do not want this to happen to [[Operational Excellence]].
 >
 > **[0:28](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=28)** Operational excellence is not a slogan or rallying cry for excellent performance, nor should it ever be.
 >
@@ -1986,7 +1962,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=104)** Know when to intervene and what actions to take.
 >
-> **[1:48](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=108)** Verify that employees in key roles have the necessary process authority, responsibility, and accountability.
+> **[1:48](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=108)** Verify that employees in key roles have the necessary process authority, responsibility, and [[Accountability]].
 >
 > **[1:58](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=118)** Audit to ensure that managers and process owners have access, either directly or indirectly, to resources, tools, and techniques for design, improvement, and control.
 >
@@ -2004,7 +1980,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=179)** Verify that process metrics and KPIs are supportive of CTQs, or critical-to-quality requirements.
 >
-> **[3:06](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=186)** Audit performance metrics and rewards to verify that they are aligned to the organization's annual goals and strategic priorities.
+> **[3:06](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=186)** Audit [[Performance Metrics]] and rewards to verify that they are aligned to the organization's annual goals and strategic priorities.
 >
 > **[3:14](https://www.linkedin.com/learning/operational-excellence-foundations/audits-to-sustain-operational-excellence?u=76281980&t=194)** Verify that KPIs, or key performance indicators, are indeed key and are limited to the vital few.
 >
@@ -2026,24 +2002,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Operational Excellence]] (3), management (2), next (1), [[Accountability]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (3), [[Accountability]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** dna (1), dmaic (1), dmadv (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
 
-#### Leveraging AI to drive operational excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980)
+#### [Leveraging AI to drive operational excellence](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=0)** - Better, faster, cheaper.
 >
-> **[0:03](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=3)** Artificial intelligence or AI can definitely help companies drive operational excellence.
+> **[0:03](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=3)** [[Artificial Intelligence (AI)|Artificial intelligence]] or AI can definitely help companies drive [[Operational Excellence]].
 >
 > **[0:08](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=8)** And there are many, many use cases and examples of success.
 >
-> **[0:11](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=11)** But a note here for decision makers and executives, don't get too enamored with AI solutions that you forget the basics.
+> **[0:11](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=11)** But a note here for decision makers and executives, don't get too enamored with [[AI Solutions]] that you forget the basics.
 >
 > **[0:19](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=19)** The foundational operational excellence principles still apply, and that means focusing on alignment.
 >
@@ -2051,7 +2026,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=30)** Where are your operational performance gaps?
 >
-> **[0:33](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=33)** For example, is your forecasting inaccurate?
+> **[0:33](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=33)** For example, is your [[Forecasting]] inaccurate?
 >
 > **[0:37](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=37)** Or are quality inspections not accurate or quick enough?
 >
@@ -2069,7 +2044,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=78)** Well, we can leverage AI for that.
 >
-> **[1:22](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=82)** AI-powered natural language processing or NLP tools can be used to process and analyze large amounts of customer feedback, survey responses, and call transcripts to extract customer pain points and prioritize key issues.
+> **[1:22](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=82)** AI-powered [[Natural Language Processing (NLP)|natural language processing]] or NLP tools can be used to process and analyze large amounts of customer feedback, survey responses, and call transcripts to extract customer pain points and prioritize key issues.
 >
 > **[1:37](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=97)** Now, how often have you heard operations and production managers complaining about inaccurate sales forecast and demand planning?
 >
@@ -2083,17 +2058,17 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=133)** How about supply chain optimization?
 >
-> **[2:16](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=136)** Yes, AI can be used to process real-time data to anticipate trends, optimize logistics, routing, and procurement while automating workflows for better visibility.
+> **[2:16](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=136)** Yes, AI can be used to process [[Real-Time]] data to anticipate trends, optimize logistics, [[Routing]], and procurement while automating workflows for better visibility.
 >
 > **[2:28](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=148)** This helps to minimize disruptions, streamline operations, and enhance end-to-end transparency.
 >
 > **[2:37](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=157)** Within operations itself, predictive maintenance of equipment is now enabled with AI.
 >
-> **[2:43](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=163)** AI can be used to analyze IoT sensor data and historical records to predict equipment failures and schedule proactive maintenance.
+> **[2:43](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=163)** AI can be used to analyze [[IoT]] sensor data and historical records to predict equipment failures and schedule proactive maintenance.
 >
 > **[2:53](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=173)** For example, Toshiba's use of machine learning improved equipment performance and cut energy use.
 >
-> **[3:01](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=181)** In quality control, companies can train AI on historical data to detect defects using computer vision, sensors, or drones and identify issues faster than humans.
+> **[3:01](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=181)** In quality control, companies can train AI on historical data to detect defects using [[Computer Vision]], sensors, or drones and identify issues faster than humans.
 >
 > **[3:13](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=193)** AI-powered statistical process control, or SPC, can detect anomalies and special cause variation in real-time.
 >
@@ -2101,21 +2076,21 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=208)** NLP and machine learning can analyze large sets of quality incident reports, complaints, or audit logs to identify recurring issues.
 >
-> **[3:38](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=218)** For example, Audi uses deep learning to inspect wells, saving labor, and ensuring high standards.
+> **[3:38](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=218)** For example, Audi uses [[Deep Learning]] to inspect wells, saving labor, and ensuring high standards.
 >
-> **[3:46](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=226)** In the area of customer service, we have seen AI chatbots and virtual assistants used for 24/7 customer support, resolving common issues, and analyzing interactions for improvements.
+> **[3:46](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=226)** In the area of customer service, we have seen AI chatbots and virtual assistants used for 24/7 [[Customer Support]], resolving common issues, and analyzing interactions for improvements.
 >
 > **[3:58](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=238)** For example, you and I have seen these AI chatbots and virtual assistants when we try to book a flight or a hotel room online.
 >
 > **[4:06](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=246)** In training and workforce development, AI can be used to provide around-the-clock assistance, simulations via virtual reality, and personalized learning to upskill employees.
 >
-> **[4:17](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=257)** A good example is LinkedIn Learning, in which a customized list of causes are recommended for you to upskill based on goals learners input themselves.
+> **[4:17](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=257)** A good example is [[LinkedIn]] Learning, in which a customized list of causes are recommended for you to upskill based on goals learners input themselves.
 >
-> **[4:27](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=267)** Robotic Process Automation, or RPA, is an exciting area.
+> **[4:27](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=267)** [[Robotic Process Automation (RPA)|Robotic Process Automation]], or RPA, is an exciting area.
 >
 > **[4:32](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=272)** RPA can be used to automate routine tasks like data entry, invoice processing, and compliance reporting.
 >
-> **[4:41](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=281)** AI Intelligent Automation extends RPA by handling unstructured data found in emails, images, and voice recordings.
+> **[4:41](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=281)** AI Intelligent Automation extends RPA by handling [[Unstructured Data]] found in emails, images, and voice recordings.
 >
 > **[4:51](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=291)** The use of digital twins is another exciting area.
 >
@@ -2123,13 +2098,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=305)** AI-enabled optimization models can recommend optimal resource allocation, scheduling, and inventory management strategies.
 >
-> **[5:14](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=314)** On the executive side, there are advanced analytics dashboards where AI is used to prioritize KPIs, detect trends, and recommend corrective actions.
+> **[5:14](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=314)** On the executive side, there are advanced analytics [[Dashboards]] where AI is used to prioritize KPIs, detect trends, and recommend corrective actions.
 >
 > **[5:24](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=324)** We will not forget IT.
 >
 > **[5:26](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=326)** Companies can automate IT workflows, identify patterns in data, and resolve issues quickly.
 >
-> **[5:32](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=332)** Examples include automated incident response and intelligent resolution for quick issue handling, proactive problem management to spot trends, intelligent routing of ticket assignments, and chat-enabled interactions for customer insights.
+> **[5:32](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=332)** Examples include automated [[Incident Response]] and intelligent resolution for quick issue handling, proactive [[Problem Management]] to spot trends, intelligent routing of ticket assignments, and chat-enabled interactions for customer insights.
 >
 > **[5:48](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=348)** For example, Electrolux cut IT issue fixes from three weeks down to one hour.
 >
@@ -2141,7 +2116,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=375)** Zara uses AI for inventory and demand forecasting with RFID tags.
 >
-> **[6:21](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=381)** And Google Health uses AI to enhance ultrasound accuracy to minimize diagnostic errors.
+> **[6:21](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=381)** And [[Google]] Health uses AI to enhance ultrasound accuracy to minimize diagnostic errors.
 >
 > **[6:29](https://www.linkedin.com/learning/operational-excellence-foundations/leveraging-ai-to-drive-operational-excellence-29920320?u=76281980&t=389)** AI is exciting and is still advancing.
 >
@@ -2157,7 +2132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (32), data (6), [[Operational Excellence]] (3), rpa (3), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Operational Excellence]] (3), [[Forecasting]] (2), [[Real-Time]] (2), [[Routing]] (2), [[Computer Vision]] (2)
 > **Env Vars:** rpa (3), nlp (2), voc (1), spc (1), rfid (1)
 > **Analogies:** for example (5), just like (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2169,8 +2144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2178,7 +2152,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=2)** You have made it to the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=4)** Operational excellence is all about getting work done better, faster, cheaper, while delivering superior value to customers.
+> **[0:04](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=4)** [[Operational Excellence]] is all about getting work done better, faster, cheaper, while delivering superior value to customers.
 >
 > **[0:12](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=12)** Just a review.
 >
@@ -2186,7 +2160,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=33)** And enterprise wide alignment of strategies, priorities, and decisions.
 >
-> **[0:40](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=40)** If you are interested in learning more, I recommend watching my courses on [[Six Sigma Foundations]], Six Sigma: Green Belt, and Six Sigma: Black Belt.
+> **[0:40](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=40)** If you are interested in learning more, I recommend watching my courses on [[[[Six Sigma]] Foundations]], Six Sigma: Green Belt, and Six Sigma: Black Belt.
 >
 > **[0:51](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=51)** These courses provide a deeper dive into many of the concepts, tools, and techniques we have discussed.
 >
@@ -2198,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (3), data (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (5), [[Six Sigma]] (3)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - congratulations (1)
 

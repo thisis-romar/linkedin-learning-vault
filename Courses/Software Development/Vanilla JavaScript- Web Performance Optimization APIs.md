@@ -89,20 +89,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize APIs with JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980)
+#### [Optimize APIs with JavaScript](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=0)** - [Instructor] Hello, my name is Maximiliano Firtman and I will be your instructor in this course on Vanilla JavaScript Web Performance APIs.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=0)** - [Instructor] Hello, my name is Maximiliano Firtman and I will be your instructor in this course on [[Vanilla]] [[JavaScript]] Web Performance APIs.
 >
-> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=10)** I've been working with web performance for more than 10 years, and I'm happy to be here sharing with you my experience on getting metrics, real user metrics, from real devices on real networks, and make some decisions to improve the user experience.
+> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=10)** I've been working with web performance for more than 10 years, and I'm happy to be here sharing with you my experience on getting metrics, real user metrics, from real devices on real networks, and make some decisions to improve the [[User Experience (UX)|user experience]].
 >
 > **[0:28](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=28)** Without any framework, we will be applying these APIs on a real website.
 >
 > **[0:34](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=34)** We are going to get information, and we are going to see everything that we can do to improve and keep a consistent experience across different context.
 >
-> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=43)** Not matter if the user is on a desktop computer on a wifi connection, or if the user is on a very cheap Android device on a bad 2G connection.
+> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=43)** Not matter if the user is on a desktop computer on a wifi connection, or if the user is on a very cheap [[Android]] device on a bad 2G connection.
 >
 > **[0:54](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=54)** We will try to keep the experience consistent using reactive web performance techniques, and we will also see how to execute code efficiently, understanding the browsers, frame management and the new APIs available for us.
 >
@@ -110,16 +109,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Vanilla]] (1), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/what-you-should-know?u=76281980&t=0)** - [Instructor] To participate in this course, you only need to know basics of HTML, CSS and JavaScript, and how the browser works.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/what-you-should-know?u=76281980&t=0)** - [Instructor] To participate in this course, you only need to know basics of [[HTML]], CSS and [[JavaScript]], and how the browser works.
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/what-you-should-know?u=76281980&t=8)** Such as understanding what that HTTP request is, and what the HTTP response is.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[JavaScript]] (2), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** http (2), html (1), css (1), es6 (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -147,8 +145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for web performance APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980)
+#### [The need for web performance APIs](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,9 +183,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=110)** For example, the user may be on an iPhone X on a Wi-Fi connection, or it can be a laptop using 3G, there are laptops with cellular connections.
 >
-> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=120)** We can be a Moto G, an Android device, 4th generation, so let's say two to three years old, and it's currently on a bad LTE connection, so it's a 4G, but it's not working properly with that connection, because the user can be on a bath.
+> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=120)** We can be a Moto G, an [[Android]] device, 4th generation, so let's say two to three years old, and it's currently on a bad LTE connection, so it's a 4G, but it's not working properly with that connection, because the user can be on a bath.
 >
-> **[2:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=135)** It can be a Google Pixel 3, so a very modern Android device, but it's on roaming, and it's on 2G, or it can be an Android Go, so, low CPU, low memory, but on 4G.
+> **[2:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=135)** It can be a [[Google]] Pixel 3, so a very modern Android device, but it's on roaming, and it's on 2G, or it can be an Android Go, so, low CPU, low memory, but on 4G.
 >
 > **[2:27](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=147)** So, different contexts, and we still need to achieve all our goals, but it's not possible within a static analysis to get and achieve the same goals on every context.
 >
@@ -198,11 +195,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=178)** Most of those measurements can change how we apply techniques later, statically, for a future version.
 >
-> **[3:07](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=187)** So, we need real user metrics, and for that, we're going to use client side JavaScript APIs.
+> **[3:07](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=187)** So, we need real user metrics, and for that, we're going to use client side [[JavaScript]] APIs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Android]] (3), [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (3), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** lte (1), cpu (1)
 > **Analogies:** for example (2)
@@ -211,8 +208,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Summary of what we can do
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980)
+#### [Summary of what we can do](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=9)** The information that we can get from those APIs sometimes can also be shared with our server.
 >
-> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=16)** It can be shared automatically with a flag that we set somewhere in the browser, or it can be shared manually, such as sending that data using a fetch request or adding that data to HTTP headers manually on each fetch or using a service worker.
+> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=16)** It can be shared automatically with a flag that we set somewhere in the browser, or it can be shared manually, such as sending that data using a [[Fetch]] request or adding that data to HTTP headers manually on each fetch or using a service worker.
 >
 > **[0:34](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=34)** As most of the APIs in the browser, compatibility is not the same on every version of every browser.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=56)** Typically, today, we can measure all the timings for the current navigation.
 >
-> **[1:01](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=61)** That means DNS, TCP connection, SSL, timings for HTTP request, and HTTP response for the main navigation documents through the HTML and also for each of the resources that we are currently using.
+> **[1:01](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=61)** That means DNS, TCP connection, SSL, timings for HTTP request, and HTTP response for the main navigation documents through the [[HTML]] and also for each of the resources that we are currently using.
 >
 > **[1:18](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=78)** So for example, in that case, we can see, we are loading resources from different CDNs which one is faster.
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=145)** With that information, we can guess which kind of device the user is actually using.
 >
-> **[2:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=151)** For example, if it's a cheap Android phone or a high-end Android phone, if it's a tablet or desktop.
+> **[2:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=151)** For example, if it's a cheap [[Android]] phone or a high-end Android phone, if it's a tablet or desktop.
 >
 > **[2:39](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/summary-of-what-we-can-do?u=76281980&t=159)** We can also measure our own custom metrics so we can achieve our own goals.
 >
@@ -270,14 +266,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Fetch]] (2), [[Android]] (2), web (1), dns (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Android]] (2), [[HTML]] (1)
 > **Env Vars:** http (3), cpu (3), dns (1), tcp (1), ssl (1)
 > **Analogies:** for example (5), such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real user monitoring (RUM) and reactive web performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980)
+#### [Real user monitoring (RUM) and reactive web performance](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=32)** We can improve the experience of every user based on that data.
 >
-> **[0:37](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=37)** And also we can prove and create that stats on our servers and local testing environments to create conditions for simulation that are closer to real ones.
+> **[0:37](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=37)** And also we can prove and create that stats on our servers and local testing environments to create conditions for [[Simulation]] that are closer to real ones.
 >
 > **[0:51](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=51)** And after, we gather some data, we can start applying some reactive web performance techniques.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=91)** So we need to change the idea that we sometimes have as web developers, oh it's not my fault.
 >
-> **[1:38](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=98)** On my IPhone or Android, I'm in a big city, it's fast.
+> **[1:38](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=98)** On my IPhone or [[Android]], I'm in a big city, it's fast.
 >
 > **[1:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=103)** So I can't help the user if the user has an old Android device or if the user is in 2G.
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=118)** So we need to change our mind from it's not my fault to let's do something about it.
 >
-> **[2:05](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=125)** Because I'm responsible for the user experience on my website.
+> **[2:05](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=125)** Because I'm responsible for the [[User Experience (UX)|user experience]] on my website.
 >
 > **[2:10](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=130)** So reactive web performance is a set of on the fly optimizations that we apply to keep a consistent user experience based on real user metrics.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=169)** But the movie never stops.
 >
-> **[2:52](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=172)** To make it work, we are going to read current context with the APIs that we will cover during the rest of the course.
+> **[2:52](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=172)** To make it work, we are going to read current context with the APIs that we will cover during the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[2:58](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=178)** And then also listen to changes because we know the user is on the move and the connection status might change.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), web (5), [[User Experience (UX)|User experience]] (3), [[Android]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Android]] (2), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** rum (1), http (1)
@@ -383,12 +378,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure time
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980)
+#### [Measure time](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=0)** - [Instructor] When we are working with time in JavaScript, typically we get the metrics with a timestamp.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=0)** - [Instructor] When we are working with time in [[JavaScript]], typically we get the metrics with a timestamp.
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=8)** For example, if we execute new Date ().getTime, we will get a timestamp.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=44)** Probably you are thinking, what?
 >
-> **[0:47](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=47)** So if you have ever played with times in any language, probably you are used to these timestamps, or even databases, but it's a number that looks like this.
+> **[0:47](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=47)** So if you have ever played with times in any language, probably you are used to these timestamps, or even [[Databases]], but it's a number that looks like this.
 >
 > **[0:57](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=57)** In this case, this particular number can be converted into, let's say, human readable dates in our Gregorian dates, and in that case, in this case, that number is October 21st, 2015 at 7:28.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=124)** And I've been doing this like during the '90s.
 >
-> **[2:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=126)** When I started doing web development, I was measuring time with this.
+> **[2:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=126)** When I started doing [[Web Development]], I was measuring time with this.
 >
 > **[2:11](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measure-time?u=76281980&t=131)** The problem with this is that taking the calendar and creating a date will take time.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), api (2), [[Databases]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Databases]] (1), [[Web Development]] (1)
 > **Code Identifiers:** timeorigin (2), gettime (1), navigationstart (1)
 > **Ports:** :00 (2), :28 (1)
 > **Env Vars:** api (2), utc (1)
@@ -471,14 +465,13 @@ created: 2026-05-02
 > **Versions:** 3.16 (1)
 > **Speakers:** - [instructor] (1)
 
-#### High-resolution timings
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980)
+#### [High-resolution timings](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980&t=0)** - [Instructor] When we are measuring performance in an web app or web site, sometimes having the resolution in milliseconds is not enough, because sometimes we have processes that are faster than one millisecond.
 >
-> **[0:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980&t=14)** So in JavaScript, the time that we are getting from these APIs, it's a number.
+> **[0:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980&t=14)** So in [[JavaScript]], the time that we are getting from these APIs, it's a number.
 >
 > **[0:21](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/high-resolution-timings?u=76281980&t=21)** So that's always a float value.
 >
@@ -518,7 +511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (3), [[JavaScript]] (2), api (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Definitions:** known as (4)
 > **Env Vars:** api (2), w3c (1)
 > **Documentation:** w3c (1), spec (1)
@@ -530,8 +523,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigation Timing Level 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980)
+#### [Navigation Timing Level 1](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,9 +531,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=8)** This API is currently available on every browser including IE so Internet Explorer.
 >
-> **[0:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=15)** It's basically creating a global object with the name performance available in the window so that's inside normal java script context and it's also available in web workers.
+> **[0:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=15)** It's basically creating a global object with the name performance available in the window so that's inside normal [[Java]] script context and it's also available in web workers.
 >
-> **[0:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=26)** The API is also the base for all the rest of measurement specs available.
+> **[0:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=26)** The API is also the base for all the [[Representational State Transfer (REST)|rest]] of measurement specs available.
 >
 > **[0:32](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=32)** So the interface that this API is offering to us will also be useful for other performance APIs.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), web (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (7), url (1)
 > **Code Identifiers:** timeorigin (2), timeorgin (1), redirectcount (1), rediectcount (1)
 > **URLs:** [facebook.com](https://facebook.com) (3)
@@ -587,8 +579,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understand timings available
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980)
+#### [Understand timings available](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=71)** In that case, you will see that, also, there are a couple of optional timings where you're going to see some information such as unloadEventStart, unloadEventEnd, redirectStart, and redirectEnd.
 >
-> **[1:24](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=84)** After that's done, now the browser is ready to start the actual fetch for the new page that you want to visit.
+> **[1:24](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=84)** After that's done, now the browser is ready to start the actual [[Fetch]] for the new page that you want to visit.
 >
 > **[1:34](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=94)** In that case, fetchStart is fired, so we will get the timing for fetchStart at that point.
 >
@@ -626,11 +617,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=114)** After DNS, we have TCP connection because now we have the IP address of the server, so we need to start the TCP connection, so there is a connectStart, but of course, will have its own connectEnd.
 >
-> **[2:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=128)** After opening the TCP on modern web development, the next step is typically go into HTTPs.
+> **[2:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=128)** After opening the TCP on modern [[Web Development]], the next step is typically go into HTTPs.
 >
 > **[2:17](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=137)** So, there is a need for a negotiation on SSL.
 >
-> **[2:22](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=142)** In that case, we have a secureConnectionStart, and for privacy reasons, we won't get information about secure connection and only the start.
+> **[2:22](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=142)** In that case, we have a secureConnectionStart, and for [[Privacy]] reasons, we won't get information about secure connection and only the start.
 >
 > **[2:33](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=153)** After the handshaking of SSL, the clients or the browser is ready to send an HTTP request.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=189)** Remember all these timings are just timestamps of numbers that we can use navigation timing API.
 >
-> **[3:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=196)** First the HTTP response, that's typically the HTML because we are loading a document.
+> **[3:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=196)** First the HTTP response, that's typically the [[HTML]] because we are loading a document.
 >
 > **[3:21](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=201)** ResponseEnd will mean that the browser has all the HTML in memory.
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=210)** In this process, also the browser might be executing or downloading and executing blocking a script.
 >
-> **[3:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=216)** So if you have a JavaScript code in the middle of the HTML, and it's not the defer or async, then that execution will be part of this HTML parsing phase.
+> **[3:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=216)** So if you have a [[JavaScript]] code in the middle of the HTML, and it's not the defer or async, then that execution will be part of this HTML parsing phase.
 >
 > **[3:48](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-timings-available?u=76281980&t=228)** So downloading expire, and when it's done, we have domInteractive.
 >
@@ -682,7 +673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), next (4), [[JavaScript]] (4), css (3), api (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (4), [[Fetch]] (1), [[Web Development]] (1), [[Privacy]] (1)
 > **Code Identifiers:** dominteractive (3), fetchstart (2), domcontentloaded (2), navigationstart (1), unloadeventstart (1)
 > **Env Vars:** html (5), tcp (3), css (3), api (2), dns (2)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -690,8 +681,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate milestones in the timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980)
+#### [Calculate milestones in the timeline](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980&t=82)** If we take response to start and response end we can know and calculate based on the size of the file we can calculate the speed of downloading that file over the downstream.
 >
-> **[1:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980&t=96)** Other useful information that we can get is the domLoad time and that is taking the domInteractive and calculating the difference with fetchStart after the HTML is from the client we have parsing and rendering times and that is a web designers responsibility or web developers responsibility.
+> **[1:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980&t=96)** Other useful information that we can get is the domLoad time and that is taking the domInteractive and calculating the difference with fetchStart after the [[HTML]] is from the client we have parsing and rendering times and that is a web designers responsibility or web developers responsibility.
 >
 > **[1:57](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/calculate-milestones-in-the-timeline?u=76281980&t=117)** So if you want to know all the timings that have to do with the design phase for the rendering you need to calculate the difference between downloading and load event end.
 >
@@ -727,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), api (1), dns (1), [[HTML]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** fetchstart (3), responsestart (1), domload (1), dominteractive (1), domcomplete (1)
 > **Env Vars:** api (1), dns (1), tcp (1), ssl (1), html (1)
 > **CLI Commands:** make (2)
@@ -735,8 +725,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Performance Timeline interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980)
+#### [The Performance Timeline interface](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980&t=14)** On the screen now, we are seeing some of the APIs available today for web performance.
 >
-> **[0:20](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980&t=20)** Most of the APIs that we will cover in the rest of the videos.
+> **[0:20](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980&t=20)** Most of the APIs that we will cover in the [[Representational State Transfer (REST)|rest]] of the videos.
 >
 > **[0:23](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-performance-timeline-interface?u=76281980&t=23)** And we can see that all of them are going to use the high-resolution time spec that we already covered, on something known as the performance timeline.
 >
@@ -842,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), web (4), generic (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (9), url (1), adi (1)
 > **Analogies:** for example (7), such as (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -851,8 +840,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigation Timing Level 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980)
+#### [Navigation Timing Level 2](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,11 +888,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=164)** So, here is the deal.
 >
-> **[2:45](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=165)** If you're downloading an html file, typically it's zip, so transferSize, we have the information in bytes of the whole response, including headers.
+> **[2:45](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=165)** If you're downloading an [[HTML]] file, typically it's zip, so transferSize, we have the information in bytes of the whole response, including headers.
 >
 > **[2:57](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=177)** EncodedBodySize was the transfer package without headers and decodedBodySize is the amount of bytes after it was decoded, so that means it was unzipped.
 >
-> **[3:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=194)** But it's not just zipped, because now you can also have brotli and other encoding algorithms.
+> **[3:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=194)** But it's not just zipped, because now you can also have brotli and other encoding [[Algorithms]].
 >
 > **[3:19](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=199)** So basically, we are talking about encoded and decoded.
 >
@@ -912,11 +900,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=209)** In that case, workerStart will give us zero if there is no service worker.
 >
-> **[3:35](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=215)** And if there is a service worker with a fetch event handler, then workerStart will give us a timestamp exactly before the fetch event in the service worker was fired.
+> **[3:35](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-2?u=76281980&t=215)** And if there is a service worker with a [[Fetch]] event handler, then workerStart will give us a timestamp exactly before the fetch event in the service worker was fired.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Fetch]] (2), web (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[HTML]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** workerstart (3), dominteractive (2), transfersize (2), decodedbodysize (2), getentriesbytype (1)
 > **Env Vars:** api (7), url (1), htp2 (1)
 > **Analogies:** for example (5)
@@ -930,8 +918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring our websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980)
+#### [Measuring our websites](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,13 +928,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=17)** And to see this in action, we are going to open this in a server.
 >
-> **[0:21](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=21)** I'm going to use a Node.js-based server, but any server will work.
+> **[0:21](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=21)** I'm going to use a [[Node.js]]-based server, but any server will work.
 >
 > **[0:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=26)** In this case, I already have Node.js installed.
 >
 > **[0:29](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=29)** I'm in a Mac, so I'm going to request root permission.
 >
-> **[0:33](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=33)** If you are in Windows, you don't need to add sudo, npm install -g serve.
+> **[0:33](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=33)** If you are in [[Windows]], you don't need to add sudo, [[npm]] install -g serve.
 >
 > **[0:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=43)** This is going to install a very simple web server.
 >
@@ -961,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=65)** It has some API calls here.
 >
-> **[1:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=66)** So if I re-load, you can see that the weather is coming through some AJAX code through a web service.
+> **[1:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=66)** So if I re-load, you can see that the weather is coming through some [[AJAX]] code through a web service.
 >
 > **[1:13](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980&t=73)** And we're going to our web performance API support for this.
 >
@@ -1035,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (4), web (3), css (3), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Windows]] (1), [[npm]] (1), [[AJAX]] (1)
 > **Env Vars:** api (4), ajax (1), es6 (1)
 > **CLI Commands:** node (2), sudo (1), npm (1), make (1)
 > **File Paths:** node.js (2), app.js (1)
@@ -1044,8 +1031,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
 
-#### Add the Navigation Timing API
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980)
+#### [Add the Navigation Timing API](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,7 +1059,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980&t=84)** The name of the property we want to show.
 >
-> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980&t=86)** We can show anything that we have here, for example, we can take fetch-start, and we're going to take the entry, and we're going to take fetch.Start.
+> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980&t=86)** We can show anything that we have here, for example, we can take [[Fetch]]-start, and we're going to take the entry, and we're going to take fetch.Start.
 >
 > **[1:40](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-the-navigation-timing-api?u=76281980&t=100)** So here in this entry, we have all the objects that we have seen for the navigation type in API.
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Fetch]] (4), data (1)
+> **Frameworks & Libraries:** [[Fetch]] (4)
 > **Code Identifiers:** fetchstart (3), getentriesbytype (2), responsestart (1), naventries (1)
 > **Env Vars:** api (7)
 > **Analogies:** for example (4)
@@ -1146,16 +1132,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** spec (1)
 
-#### Use the Resource Timing API
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980)
+#### [Use the Resource Timing API](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=0)** - [Instructor] Do you remember that we saw this diagram with all the available timings for a document load?
 >
-> **[0:07](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=7)** What happens with each resource, each JavaScript file, CSS file, webfont, image, SVG, or any document that you are loading?
+> **[0:07](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=7)** What happens with each resource, each [[JavaScript]] file, CSS file, webfont, image, SVG, or any document that you are loading?
 >
-> **[0:19](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=19)** We do have an additional API known as Resource Timing API, and in this case, we have a simplified version of the diagram because there is no HTML, there is no parsing, where we can also get the information per resource.
+> **[0:19](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=19)** We do have an additional API known as Resource Timing API, and in this case, we have a simplified version of the diagram because there is no [[HTML]], there is no parsing, where we can also get the information per resource.
 >
 > **[0:35](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/use-the-resource-timing-api?u=76281980&t=35)** So let's see this in action.
 >
@@ -1237,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), css (5), [[JavaScript]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** api (7), css (5), cdn (3), url (2), svg (1)
 > **Code Identifiers:** resentries (1), getentriesbytype (1), foreach (1), initiatortype (1), getentriesbyname (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1246,8 +1231,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Create custom user timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980)
+#### [Create custom user timing](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,7 +1261,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=100)** Mark receives just a name, for example, we can say, weatherStart.
 >
-> **[1:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=106)** It's just my custom name, and then we need to mark the rest, this case, because it's Promise.all, Promise.all will execute the .then with all the promises in this case, with all the weathers are coming, so we can also do performance.mark weatherEnd.
+> **[1:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=106)** It's just my custom name, and then we need to mark the [[Representational State Transfer (REST)|rest]], this case, because it's Promise.all, Promise.all will execute the .then with all the promises in this case, with all the weathers are coming, so we can also do performance.mark weatherEnd.
 >
 > **[2:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=126)** So, we already set those marks.
 >
@@ -1303,7 +1287,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=254)** So, if I save this, go to the browser, and refresh, we can see, now, the mark weatherStart and the time, and weatherEnd, with the time.
 >
-> **[4:28](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=268)** Every time you make a change in the JavaScript file, remember that if you're using a server, there's cache in file, you can use shift reload, so you make sure you have the latest version of the JavaScript file.
+> **[4:28](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=268)** Every time you make a change in the [[JavaScript]] file, remember that if you're using a server, there's cache in file, you can use shift reload, so you make sure you have the latest version of the JavaScript file.
 >
 > **[4:40](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/create-custom-user-timing?u=76281980&t=280)** With a user timing API, you can also create measures, and the measure is pretty simple.
 >
@@ -1321,7 +1305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** weatherstart (4), weatherend (4), entrytype (2), starttime (2), getentriesbytype (1)
 > **Env Vars:** api (9)
 > **Analogies:** for example (6), such as (1)
@@ -1330,8 +1314,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **File Paths:** weather.js (1), app.js (1)
 
-#### Get paint timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/get-paint-timing?u=76281980)
+#### [Get paint timing](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/get-paint-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1408,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), web (1)
 > **Env Vars:** api (8)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (1), known as (1), is an  (1)
@@ -1433,8 +1415,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Detect long tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980)
+#### [Detect long tasks](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=42)** We going to create the long task observer.
 >
-> **[0:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=46)** It's a new performance observer that we receive a list and we're going to first try to observe on that observer and in this case, the entry type is Longtask, one word.
+> **[0:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=46)** It's a new performance observer that we receive a list and we're going to first try to observe on that observer and in this case, the entry type is Longtask, one [[Microsoft Word|word]].
 >
 > **[1:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=75)** We need the catch, and we're going to observe here for now.
 >
@@ -1462,7 +1443,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=105)** (mumbles) If I go to the browser and refresh, it's difficult to find this in action if I don't have a lot of transcript.
 >
-> **[1:56](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=116)** Let's make a barcode just to prove that the API is working, I will go to my index html and anywhere, for example at the bottom I will line a script tag.
+> **[1:56](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=116)** Let's make a barcode just to prove that the API is working, I will go to my index [[HTML]] and anywhere, for example at the bottom I will line a script tag.
 >
 > **[2:10](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-long-tasks?u=76281980&t=130)** Then I'm going to create the code that I will execute every, for example, three seconds.
 >
@@ -1484,15 +1465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), web (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Analogies:** for example (2), such as (1), similar to (1), it's like (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Detect frame rate drops
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-frame-rate-drops?u=76281980)
+#### [Detect frame rate drops](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-frame-rate-drops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,11 +1510,11 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-frame-rate-drops?u=76281980&t=121)** Duration will be in milliseconds, duration between the two frames that typically is going to be greater than 16 milliseconds, because with 16 milliseconds, you can achieve 60 frames per second.
 >
-> **[2:17](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-frame-rate-drops?u=76281980&t=137)** We can't see this in action yet, but when your browser will start supporting this, you will start receiving report of every time that you have a frame drop so you can try to adjust what you're doing to increase performance and increase consistency in you user experience.
+> **[2:17](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/detect-frame-rate-drops?u=76281980&t=137)** We can't see this in action yet, but when your browser will start supporting this, you will start receiving report of every time that you have a frame drop so you can try to adjust what you're doing to increase performance and increase consistency in you [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), css (1), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (4), w3c (1), css (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** frameobserver (1), entrytypes (1)
@@ -1543,8 +1523,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add server timing information
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980)
+#### [Add server timing information](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,9 +1533,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=15)** The whole idea here is that we can also send metrics about the performance of the server to the API, and we need to do that from the server.
 >
-> **[0:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=26)** If you open the project, you will find the same web project that we were working on but now we also have a server.js file that is using Express.js to just set a web server with Node.js, and it's also using a library, known as server-timing, that will let us set metrics and send those metrics to the client.
+> **[0:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=26)** If you open the project, you will find the same web project that we were working on but now we also have a server.js file that is using [[Express.js]] to just set a web server with [[Node.js]], and it's also using a library, known as server-timing, that will let us set metrics and send those metrics to the client.
 >
-> **[0:51](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=51)** Of course, you can use PHP, .NET, Java or any server side architectural language.
+> **[0:51](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=51)** Of course, you can use [[PHP]], .NET, [[Java]] or any server side architectural language.
 >
 > **[0:57](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=57)** The metrics are being sent using http headers.
 >
@@ -1564,7 +1543,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=68)** So let's see this in action.
 >
-> **[1:11](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=71)** I'm going to start my project, and before that we need to install dependencies, so in the terminal I will just type npm install, and now npm start.
+> **[1:11](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=71)** I'm going to start my project, and before that we need to install dependencies, so in the terminal I will just type [[npm]] install, and now npm start.
 >
 > **[1:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=85)** That will open a server in the port 4000.
 >
@@ -1580,7 +1559,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=117)** And we can see that now we also have a serverTiming property with the information like db, duration, description, that the server has sent.
 >
-> **[2:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=129)** Also, if you are using Chrome in Dev Tools in the Network tab, when you clock on the html you can see several tabs here, and the last one is Timing.
+> **[2:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=129)** Also, if you are using Chrome in Dev Tools in the Network tab, when you clock on the [[HTML]] you can see several tabs here, and the last one is Timing.
 >
 > **[2:22](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/add-server-timing-information?u=76281980&t=142)** And if you scroll down, you will find also your Server Timing information in this panel.
 >
@@ -1612,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), web (3), [[npm]] (2), database (2), data (2)
+> **Frameworks & Libraries:** [[npm]] (2), [[Express.js]] (1), [[Node.js]] (1), [[PHP]] (1), [[Java]] (1)
 > **Code Identifiers:** servertiming (4), getentriesbytype (2), foreach (2)
 > **CLI Commands:** find (2), npm (2), node (1), php (1), make (1)
 > **Env Vars:** api (5), php (1), net (1)
@@ -1626,12 +1605,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read network information
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980)
+#### [Read network information](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=0)** - [Instructor] Now that we know how to track and get all the available performance timeline information, it's time to see some APIs that will help us into making decisions about the current situation to improve user experience.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=0)** - [Instructor] Now that we know how to track and get all the available performance timeline information, it's time to see some APIs that will help us into making decisions about the current situation to improve [[User Experience (UX)|user experience]].
 >
 > **[0:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=16)** Let's start talking about the Network Information API.
 >
@@ -1641,7 +1619,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=25)** Let's say, a 90% of the browsers supporting this API are currently using the latest spec, but we might have users with older spec, so we need to create some conditionals there.
 >
-> **[0:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=36)** It's available in the navigator object, that means it's on Windows, so in the normal context, and also in web workers context.
+> **[0:36](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=36)** It's available in the navigator object, that means it's on [[Windows]], so in the normal context, and also in web workers context.
 >
 > **[0:44](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=44)** It's using decimal units to get the information about the current bandwidth, for example.
 >
@@ -1715,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[User Experience (UX)|User experience]] (2), [[Windows]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Windows]] (1)
 > **Analogies:** for example (6), such as (3)
 > **Definitions:** is a  (3), means that (2), known as (2)
 > **Documentation:** spec (5)
@@ -1724,8 +1702,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
 
-#### Read device memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980)
+#### [Read device memory](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980&t=47)** And typically the minimum value that we will get it's 0.25 gibibytes.
 >
-> **[0:53](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980&t=53)** Then if we have one or less than one it means it's a low-end device like a very cheap or old android.
+> **[0:53](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980&t=53)** Then if we have one or less than one it means it's a low-end device like a very cheap or old [[Android]].
 >
 > **[1:01](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-device-memory?u=76281980&t=61)** From one to two gibibytes it's a mid-end device.
 >
@@ -1771,7 +1748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Android]] (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **Env Vars:** api (4), ram (2)
 > **CLI Commands:** make (2)
 > **Versions:** 0.5 (1), 0.25 (1)
@@ -1780,8 +1757,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save data for your users
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980)
+#### [Save data for your users](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1795,21 +1771,21 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=31)** The idea here is that this is a flyer to tell us hey developer be careful with the data that you are consuming from the network because the user or the current conditions are ideal for saving data to improve performance.
 >
-> **[0:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=46)** Today, for example, on Chrome on Android the user can go to Settings enable the Data Saver.
+> **[0:46](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=46)** Today, for example, on Chrome on [[Android]] the user can go to Settings enable the Data Saver.
 >
 > **[0:53](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=53)** If the user uses Data Saver then the flag will be on.
 >
 > **[0:58](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=58)** And for example future versions of Chrome are making some decisions such as if the user is in 2G.
 >
-> **[1:05](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=65)** And also has the saveData flag on, then for example it's not going to execute any JavaScript code.
+> **[1:05](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=65)** And also has the saveData flag on, then for example it's not going to execute any [[JavaScript]] code.
 >
-> **[1:13](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=73)** It's just plain HTML, because we need to save data because in 2G, and also it's a very low end device so we don't want to execute or download any chance of code.
+> **[1:13](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=73)** It's just plain [[HTML]], because we need to save data because in 2G, and also it's a very low end device so we don't want to execute or download any chance of code.
 >
 > **[1:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/save-data-for-your-users?u=76281980&t=85)** You can do also things like that and be in charge of what will happen when your website is reloaded and they're these extreme conditions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (2), [[Android]] (1), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** api (2), html (1)
 > **Code Identifiers:** savedata (2)
@@ -1818,8 +1794,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Receive client hints on the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980)
+#### [Receive client hints on the server](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1837,7 +1812,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=54)** Well, let's send that version.
 >
-> **[0:56](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=56)** Another user, oh, this is an Android?
+> **[0:56](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=56)** Another user, oh, this is an [[Android]]?
 >
 > **[0:58](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=58)** It's on 4G, and it has different resolution, and only has two gigabytes of memory.
 >
@@ -1857,7 +1832,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=97)** Let's see how it works.
 >
-> **[1:39](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=99)** So, we have the browser requesting an HTML.
+> **[1:39](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=99)** So, we have the browser requesting an [[HTML]].
 >
 > **[1:42](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/receive-client-hints-on-the-server?u=76281980&t=102)** The web server in their response will opt in for client-hints.
 >
@@ -1921,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), web (7), [[HTML]] (5), next (4), api (3)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Android]] (1)
 > **Env Vars:** html (5), api (3), http (3), dpr (3), ect (3)
 > **Analogies:** such as (6), for example (5), picture (1)
 > **CLI Commands:** make (4)
@@ -1935,16 +1910,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Send low-priority requests with beacons
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980)
+#### [Send low-priority requests with beacons](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=0)** - [Instructor] It's time to see some modern APIs available in vanilla JavaScript to execute our code more efficiently.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=0)** - [Instructor] It's time to see some modern APIs available in [[Vanilla]] [[JavaScript]] to execute our code more efficiently.
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=8)** We're going to start talking about the Beacon API; that has nothing to do with Bluetooth beacons.
 >
-> **[0:13](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=13)** So, this is useful for analytics, trackers, or state updates that you are currently sending over AJAX or typical fetch requests.
+> **[0:13](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=13)** So, this is useful for analytics, trackers, or state updates that you are currently sending over [[AJAX]] or typical [[Fetch]] requests.
 >
 > **[0:24](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=24)** We are going to use this API when waiting for a response is not really important.
 >
@@ -1964,22 +1938,21 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=76)** It's a very simple API: navigator.sendBeacon, we set a URL, and we can send optional data.
 >
-> **[1:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=85)** It can be, for example, an option, or a JSON syntax option.
+> **[1:25](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=85)** It can be, for example, an option, or a [[JSON]] syntax option.
 >
 > **[1:30](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=90)** And that's all!
 >
-> **[1:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=91)** So, the browser will send that beacon, even if the user is not on that page anymore, if the user is on a different page, or even if the tab is closed, and that request will be low-priority, so we know for sure that we will not be harming the performance of the rest of our app.
+> **[1:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980&t=91)** So, the browser will send that beacon, even if the user is not on that page anymore, if the user is on a different page, or even if the tab is closed, and that request will be low-priority, so we know for sure that we will not be harming the performance of the [[Representational State Transfer (REST)|rest]] of our app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[JavaScript]] (2), [[Analytics]] (2), [[Vanilla]] (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Vanilla]] (1), [[AJAX]] (1), [[Fetch]] (1), [[JSON]] (1)
 > **Env Vars:** api (4), url (2), ajax (1), json (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** sendbeacon (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand frame rate execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980)
+#### [Understand frame rate execution](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,7 +1978,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980&t=50)** In that case, the browser will start processing your input demands.
 >
-> **[0:53](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980&t=53)** So if you have an on click handler, on scroll, or something like that, after you do some changes, there might be some new HTML that needs to be parsed.
+> **[0:53](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980&t=53)** So if you have an on click handler, on scroll, or something like that, after you do some changes, there might be some new [[HTML]] that needs to be parsed.
 >
 > **[1:02](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/understand-frame-rate-execution?u=76281980&t=62)** The browser will calculate the styles, the layout, new CSS that you have changed in the input events, and then the browser will calculate and do the paint and composite.
 >
@@ -2073,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[HTML]] (1), css (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), css (1), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
@@ -2081,8 +2054,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Execute animation control code
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/execute-animation-control-code?u=76281980)
+#### [Execute animation control code](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/execute-animation-control-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,7 +2080,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), api (1)
 > **Env Vars:** html5 (2), api (1)
 > **Code Identifiers:** requestanimationframe (1)
 > **Cross-References:** in the next (1)
@@ -2116,8 +2087,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute background tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/execute-background-tasks?u=76281980)
+#### [Execute background tasks](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/execute-background-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2169,15 +2139,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), api (3)
 > **Env Vars:** api (3), w3c (1)
 > **Analogies:** such as (2), for example (1)
 > **Documentation:** w3c (1), spec (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Efficient script yielding
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/efficient-script-yielding?u=76281980)
+#### [Efficient script yielding](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/efficient-script-yielding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,7 +2167,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), web (1)
 > **Code Identifiers:** settimeout (3), setimmediate (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
@@ -2209,16 +2176,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=0)** - [Maximiliano] Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=2)** We have covered a lot that should help you now increasing the performance of your website and also gathering information from your real users in terms of timings, goals, and metrics that will increase your user experience.
+> **[0:02](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=2)** We have covered a lot that should help you now increasing the performance of your website and also gathering information from your real users in terms of timings, goals, and metrics that will increase your [[User Experience (UX)|user experience]].
 >
-> **[0:18](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=18)** We have been covering the Performance Timeline API and all the APIs available in Vanilla JavaScript without any framework in most modern browsers.
+> **[0:18](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=18)** We have been covering the Performance Timeline API and all the APIs available in [[Vanilla]] [[JavaScript]] without any framework in most modern browsers.
 >
 > **[0:29](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=29)** We know how to calculate milestones in that timeline, how to check information about navigation, research timing, your custom code, paint timings, and also how to detect frame rate drops and long tasks.
 >
@@ -2226,7 +2192,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=54)** It's time now to move forward and now you can continue your learning with one of my two books on web performance: High Performance Mobile Web and Hacking Web Performance both published by O'Reilly Media.
 >
-> **[1:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=66)** And you can also find a lot of content from myself and other great authors in LinkedIn Learning about web performance, web workers, and service workers.
+> **[1:06](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=66)** And you can also find a lot of content from myself and other great authors in [[LinkedIn]] Learning about web performance, web workers, and service workers.
 >
 > **[1:17](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980&t=77)** You can also follow me on Twitter.
 >
@@ -2238,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[User Experience (UX)|User experience]] (1), api (1), [[Vanilla]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Vanilla]] (1), [[JavaScript]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)

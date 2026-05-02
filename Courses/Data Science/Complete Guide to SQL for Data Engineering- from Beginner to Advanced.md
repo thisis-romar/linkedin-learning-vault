@@ -152,20 +152,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980)
+#### [SQL for data engineering](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=0)** - Do you want to become a data engineer?
 >
-> **[0:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=2)** Then, SQL is the most important skills to have.
+> **[0:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=2)** Then, [[SQL]] is the most important skills to have.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=6)** This course is designed to prepare you to develop the SQL skills needed to become a successful data engineer.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=14)** You will learn SQL basics, DDL, DML operations, window functions, index performance, and data security, along with practical examples.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=14)** You will learn SQL basics, DDL, DML operations, window functions, index performance, and [[Data Security]], along with practical examples.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=25)** Hi, I'm Deepak Goyal, a senior certified Microsoft Solution architect and trainer.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=25)** Hi, I'm Deepak Goyal, a senior certified [[Microsoft]] Solution architect and trainer.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980&t=31)** Join me to accelerate your career in data world.
 >
@@ -173,16 +172,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3), [[Security]] (1), [[Microsoft]] (1), career (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (3), ddl (1), dml (1)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=0)** - [Deepak] It is important to understand that, what is the prerequisite knowledge needed to learn this SQL for Data Engineering course?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=0)** - [Deepak] It is important to understand that, what is the prerequisite knowledge needed to learn this [[SQL]] for [[Data Engineering]] course?
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=9)** The good news is that you don't need any prerequisite knowledge as such, either about the SQL, or about the data engineering.
 >
@@ -192,31 +190,30 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=42)** From the data engineering side also, we try to cover the basics of data engineering whenever and wherever needed throughout the course, as this course is not just a theory, but a practical-driven course.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=60)** So for this, we are going to need the PostgreSQL.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=60)** So for this, we are going to need the [[PostgreSQL]].
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=65)** If you have any idea about the PostgreSQL, it will be good.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=70)** And if you are hearing this term in itself for the first time, then rest assured, we have covered how you can download and set up PostgreSQL right from the basics, and we have a quick tour of explaining how you can use that tool for practicing your SQL.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=70)** And if you are hearing this term in itself for the first time, then [[Representational State Transfer (REST)|rest]] assured, we have covered how you can download and set up PostgreSQL right from the basics, and we have a quick tour of explaining how you can use that tool for practicing your SQL.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=92)** There is also the option to follow along using GitHub Codespaces, if you prefer.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=92)** There is also the option to follow along using [[GitHub]] [[Codespaces]], if you prefer.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-you-should-know?u=76281980&t=98)** I will go over codespaces in the next movie.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Data Engineering]] (5), [[PostgreSQL]] (3), [[Codespaces]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Engineering]] (5), [[PostgreSQL]] (3), [[Codespaces]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (5)
 > **Prerequisites:** prerequisite (2), set up (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Speakers:** - [deepak] (1)
 
-#### Using Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-codespaces?u=76281980)
+#### [Using Codespaces](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-codespaces?u=76281980&t=0)** - [Instructor] This code takes the advantage of GitHub Codespaces to make the learning experience more interactive and practical.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-codespaces?u=76281980&t=0)** - [Instructor] This code takes the advantage of [[GitHub]] [[Codespaces]] to make the learning experience more interactive and practical.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-codespaces?u=76281980&t=8)** With GitHub Codespaces, you get to code and immediately see your code in action on a virtual machine.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2)
 > **Prerequisites:** set up (2), setup (2), configure (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
@@ -262,16 +259,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SQL and why learn it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980)
+#### [What is SQL and why learn it?](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=0)** - [Instructor] Whenever you want to share thoughts with your loved ones or you want to communicate with them, you use your own native language.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=9)** Similarly, whenever you want to communicate with database, the language for communication is SQL, which stands for structured query language.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=9)** Similarly, whenever you want to communicate with database, the language for communication is [[SQL]], which stands for structured query language.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=22)** It allows you to talk to databases, to store information, retrieve information, and perform powerful operations on your data.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=22)** It allows you to talk to [[Databases]], to store information, retrieve information, and perform powerful operations on your data.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=35)** To appreciate what SQL brings to the table, I thought we should delve into a bit of history as to how we used to store and retrieve the data before it came into picture.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=71)** You started with simple spreadsheet.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=74)** Maybe you are using Microsoft Excel to put all your order, product, all those information into an Excel.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=74)** Maybe you are using [[Microsoft Excel]] to put all your order, product, all those information into an [[Microsoft Excel|Excel]].
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=83)** But as your store is growing, it's become a nightmare to keep track of everything in terms of an Excel.
 >
@@ -301,13 +297,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=146)** That means it's a very human friendly.
 >
-> **[2:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=149)** It is not as complex as writing the programming language, for example, C, C++, Java.
+> **[2:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=149)** It is not as complex as writing the programming language, for example, C, C++, [[Java]].
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=157)** So SQL, it's quite easy to comprehend.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=162)** SQL serves as standard database language for many relational database management systems.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=162)** SQL serves as standard database language for many relational [[Database Management]] systems.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=169)** For example, MySQL, MS Access, Oracle, and many more.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=169)** For example, [[MySQL]], MS Access, Oracle, and many more.
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=176)** Now as the name comes in, RBDMS, a question might have popped up in your brain that what does this RBDMS stands for?
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=287)** The best part with the SQL is SQL is not a database specific, as we saw in the previous slide.
 >
-> **[4:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=295)** That SQL is common for multiple databases, whether it is MS SQL, or either MySQL or IBM Db2 or Postgres.
+> **[4:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=295)** That SQL is common for multiple databases, whether it is MS SQL, or either MySQL or IBM Db2 or [[PostgreSQL|Postgres]].
 >
 > **[5:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=309)** So SQL is quite similar everywhere.
 >
@@ -361,7 +357,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=391)** SQL is the language that facilitates that seamless connections between applications and databases and making it essential for the developers and IT professionals.
 >
-> **[6:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=405)** Another reason could be is scalability.
+> **[6:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=405)** Another reason could be is [[Scalability]].
 >
 > **[6:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=409)** As the data volumes grows, the importance of having the scalable solution is important.
 >
@@ -369,19 +365,19 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=431)** Last but not the least, it helps in the job opportunities.
 >
-> **[7:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=436)** Many job roles in the field of data analysis, business intelligence, web development, and software engineering, all of them requires SQL proficiency.
+> **[7:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=436)** Many job roles in the field of data analysis, [[Business Intelligence (BI)|business intelligence]], [[Web Development]], and software engineering, all of them requires SQL proficiency.
 >
 > **[7:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=449)** Learning SQL opens up a wide range of career opportunities and enhances your marketability in the job market.
 >
 > **[7:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=459)** So by now you have understood the very important role of the SQL.
 >
-> **[7:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=465)** Now in the next session, we are going to deep dive into an importance of SQL in the world of the data engineering.
+> **[7:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=465)** Now in the next session, we are going to deep dive into an importance of SQL in the world of the [[Data Engineering]].
 >
 > **[7:54](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980&t=474)** And we will see how SQL can play a significant role in making your career in data engineering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (30), data (21), database (11), [[Databases]] (9), management (3)
+> **Frameworks & Libraries:** [[SQL]] (30), [[Databases]] (9), [[Database Management]] (3), [[Microsoft Excel|Excel]] (2), [[MySQL]] (2)
 > **Env Vars:** sql (30), rbdms (4), rdbms (1), ibm (1)
 > **Definitions:** is a  (6), stands for (3), is called (1)
 > **Analogies:** for example (4), imagine (2), picture (1)
@@ -389,18 +385,17 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role of SQL in data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980)
+#### [Role of SQL in data engineering](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=0)** - [Instructor] Before understanding the use of SQL in data engineering, we first need to understand what is the role of data engineer, why it is important for them.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=0)** - [Instructor] Before understanding the use of [[SQL]] in [[Data Engineering]], we first need to understand what is the role of data engineer, why it is important for them.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=13)** So let's understand the day in, day out responsibilities of the data engineer.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=19)** The first and foremost important role of a data engineer is to finding the key insights.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=27)** Data engineers are expected to find the insights from the data which is available to them in the form of databases.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=27)** Data engineers are expected to find the insights from the data which is available to them in the form of [[Databases]].
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=37)** They have to write a queries to get the analytics out of it.
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=102)** Another important role of a data engineer is to design the ETL process.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=109)** Now, when the word comes ETL process, a question pops up in the mind, what is ETL?
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=109)** Now, when the [[Microsoft Word|word]] comes ETL process, a question pops up in the mind, what is ETL?
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=115)** You might have heard of it, this ETL, or aware of it, but let's have our quick revision of what is this ETL process.
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=175)** That entire process is called as ETL.
 >
-> **[3:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=181)** There are a lot of ETL tools available in the market, for example, Informatica, SSIS, Azure Data Factory.
+> **[3:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=181)** There are a lot of ETL tools available in the market, for example, Informatica, SSIS, [[Microsoft Azure|Azure]] Data Factory.
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=190)** SQL is the backbone of the data engineers.
 >
@@ -448,11 +443,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=231)** So again, they will use the SQL to design this database solution.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=238)** Sometimes they have to do the data ingestion.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=238)** Sometimes they have to do the [[Data Ingestion]].
 >
 > **[4:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=241)** It's not always that the source is your SQL system.
 >
-> **[4:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=246)** Sometimes they have a variety of different system, maybe CSV file, maybe JSON file, maybe data from SFTP server.
+> **[4:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=246)** Sometimes they have a variety of different system, maybe CSV file, maybe [[JSON]] file, maybe data from SFTP server.
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=255)** How you can ingest the data into the database from this variety of data sources?
 >
@@ -464,7 +459,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=273)** For example, you have a normal table and they might have to create another table, which is of an aggregated form.
 >
-> **[4:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=281)** For example, you have a sales table, which has the sales for every day, but you want to showcase the sales on a monthly basis, so you might going to do the data transformation where you aggregate the data.
+> **[4:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=281)** For example, you have a sales table, which has the sales for every day, but you want to showcase the sales on a monthly basis, so you might going to do the [[Data Transformation]] where you aggregate the data.
 >
 > **[4:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=297)** Sometimes they have to integrate the data from variety of sources, or they might have to do the performance optimization so that the queries which is running in the system might run faster.
 >
@@ -474,11 +469,11 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=330)** In the next session, we are going to start installing our test environment where we can go and play with our SQL.
 >
-> **[5:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=340)** If you are using GitHub Codespaces, you can skip the next two movies in the course and move directly to the chapter two, Introduction to the Database and Tables.
+> **[5:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/role-of-sql-in-data-engineering?u=76281980&t=340)** If you are using [[GitHub]] [[Codespaces]], you can skip the next two movies in the course and move directly to the chapter two, Introduction to the Database and Tables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), [[SQL]] (12), etl (10), database (5), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Databases]] (2), [[Data Engineering]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (12), etl (10), ssis (1), csv (1), json (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
@@ -487,8 +482,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the SQL environment: Install PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980)
+#### [Setting up the SQL environment: Install PostgreSQL](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,21 +490,21 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=6)** To do so, you'll definitely need a kitchen set up.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=10)** Similarly, for mastering SQL, you need a LocalDB setup to practice.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=10)** Similarly, for mastering [[SQL]], you need a LocalDB setup to practice.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=19)** Postgres is an free open source database system that supports both relational SQL as well as it supports a non-relational JSON queries also.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=19)** [[PostgreSQL|Postgres]] is an free open source database system that supports both relational SQL as well as it supports a non-relational [[JSON]] queries also.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=33)** Postgres is a backend database for a dynamic websites and web application, quite popular.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=41)** Postgres also supports multiple programming languages, for example, Python, Java, C, C++, C#, Node.js, and many more.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=41)** Postgres also supports multiple programming languages, for example, [[Python (Programming Language)|Python]], [[Java]], C, C++, C#, [[Node.js]], and many more.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=55)** So for this entire course, we are going to use PostgreSQL as our database to practice and learn our SQL for data engineering.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=55)** So for this entire course, we are going to use [[PostgreSQL]] as our database to practice and learn our SQL for [[Data Engineering]].
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=68)** Now let's just go to the browser and see how we can download the PostgreSQL software and how we can install it.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=78)** For this purpose, I'm using a Microsoft Windows machine.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=78)** For this purpose, I'm using a [[Microsoft]] [[Windows]] machine.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=84)** Now go to the [google.com](https://google.com) and search PostgreSQL download.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=84)** Now go to the [[[Google]].com](https://google.com) and search PostgreSQL download.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=90)** Now click on the first link.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=96)** Now based upon the type of machine you have in the operating system it has, you can pick the installer based upon that.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=105)** For example, if you have a Linux machine, you could choose this first option.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=105)** For example, if you have a [[Linux]] machine, you could choose this first option.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=111)** If you have a Apple machine, you can choose this macOS version.
 >
@@ -586,7 +580,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=268)** So that interface is pgAdmin4.
 >
-> **[4:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=271)** Now if you have earlier worked into the SQL server, there also you have seen a UI-based interface.
+> **[4:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=271)** Now if you have earlier worked into the [[Microsoft SQL Server|SQL server]], there also you have seen a UI-based interface.
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=279)** That is the SSMS.
 >
@@ -664,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (13), next (11), database (7), [[Windows]] (5), [[PostgreSQL|Postgres]] (4)
+> **Frameworks & Libraries:** [[PostgreSQL]] (13), [[Windows]] (5), [[PostgreSQL|Postgres]] (4), [[SQL]] (3), [[JSON]] (1)
 > **UI Navigation:** click on (7), go to (2), select the (1)
 > **Prerequisites:** install (5), setup (3), set up (1), getting started (1)
 > **Env Vars:** sql (4), json (1), edb (1), gui (1), ssms (1)
@@ -673,12 +667,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (3)
 > **CLI Commands:** python (1), node (1)
 
-#### Walkthrough: PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980)
+#### [Walkthrough: PostgreSQL](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=0)** - [Instructor] In the previous movie, we have installed the PostgreSQL server, along with pgAdmin 4.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=0)** - [Instructor] In the previous movie, we have installed the [[PostgreSQL]] server, along with pgAdmin 4.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=7)** That is the UI interface.
 >
@@ -690,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=28)** If you click on this server, it's asking you the password.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=33)** Now here you can see that it is asking the password for the user postgres and to connect to the PostgreSQL 16.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=33)** Now here you can see that it is asking the password for the user [[PostgreSQL|postgres]] and to connect to the PostgreSQL 16.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=43)** Remember, this password is the same password which you have given at the time of the installation.
 >
@@ -702,7 +695,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=70)** Now, once you log in, you start seeing the information.
 >
-> **[1:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=75)** Here on the top you can see that this PostgreSQL 16 is your server name and under the server, you have the databases.
+> **[1:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=75)** Here on the top you can see that this PostgreSQL 16 is your server name and under the server, you have the [[Databases]].
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=86)** This is login/group roles, so it contains all the users, and this is Tablespaces.
 >
@@ -722,7 +715,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=148)** Or, for example, you're already onto this database.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=152)** When you select this database, and on the top, if you call this Query Tool, Query Tool will open up a window where you can write the SQL query.
+> **[2:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=152)** When you select this database, and on the top, if you call this Query Tool, Query Tool will open up a window where you can write the [[SQL]] query.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=163)** For example, if you have any SQL query, if you understand the SQL query, like select * from table, if you give your table name, then this will try to pull the data out of this table.
 >
@@ -752,7 +745,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=266)** All this is coming to you automatically.
 >
-> **[4:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=269)** If you want to see some more statistics about the database, you can find it here.
+> **[4:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=269)** If you want to see some more [[Statistics]] about the database, you can find it here.
 >
 > **[4:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=273)** If you have a dependencies, which you want to identify for all your objects, you can find it here.
 >
@@ -788,7 +781,7 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=400)** So when we were installing the server, that time, it has created this user and we have logged in right now with this user only.
 >
-> **[6:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=408)** So if you want to see some information about this user, you can click on this and in the dashboards, you will see the information related to this user.
+> **[6:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=408)** So if you want to see some information about this user, you can click on this and in the [[Dashboards]], you will see the information related to this user.
 >
 > **[6:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/walkthough-postgresql?u=76281980&t=418)** For example, if you click on the SQL, you'll see the query for the creation of this Postgres role for you.
 >
@@ -798,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[PostgreSQL|Postgres]] (6), [[SQL]] (6), [[Search]] (6), [[PostgreSQL]] (5)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (6), [[SQL]] (6), [[PostgreSQL]] (5), [[Databases]] (5), [[Statistics]] (1)
 > **UI Navigation:** click on (15), go to (3), select the (1)
 > **Env Vars:** sql (6), ddl (1), gui (1)
 > **CLI Commands:** find (7)
@@ -811,8 +804,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to databases and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980)
+#### [Introduction to databases and tables](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=72)** Tables is used to organize your data in a relational manner.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=79)** Here, imagine that you have a different products.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=79)** Here, imagine that you have a different [[Microsoft Products|products]].
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=83)** For example, you have fruit juice, you have electronic items, you have clothes, you have toys.
 >
@@ -932,7 +924,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=347)** It's character varying is equal to varchar.
 >
-> **[5:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=350)** So if you have any exposure to any of the databases, a varchar is here.
+> **[5:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=350)** So if you have any exposure to any of the [[Databases]], a varchar is here.
 >
 > **[5:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=355)** You can represent it like character varying.
 >
@@ -990,17 +982,17 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=516)** That is OrangeJuice and the AppleJuice.
 >
-> **[8:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=520)** So that's how you can create the tables, create the databases, and insert the rows into our PostgreSQL database server.
+> **[8:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=520)** So that's how you can create the tables, create the databases, and insert the rows into our [[PostgreSQL]] database server.
 >
-> **[8:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=532)** This forms the foundation of data storage in SQL.
+> **[8:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=532)** This [[Forms]] the foundation of [[Data Storage]] in [[SQL]].
 >
-> **[8:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=536)** Let's dive into the basic SQL syntax and how to write queries to fetch data in the next video.
+> **[8:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=536)** Let's dive into the basic SQL syntax and how to write queries to [[Fetch]] data in the next video.
 >
 > **[9:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980&t=544)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (8), [[Security]] (2), [[Databases]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[Microsoft Products|Products]] (1), [[PostgreSQL]] (1), [[Forms]] (1)
 > **Analogies:** imagine (3), for example (3), it's like (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (5)
@@ -1009,12 +1001,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### SQL syntax and basic queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980)
+#### [SQL syntax and basic queries](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=0)** - [Instructor] It's important to understand the SQL syntaxes and write some few queries.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=0)** - [Instructor] It's important to understand the [[SQL]] syntaxes and write some few queries.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=6)** Now before moving forward, we need to set our stage.
 >
@@ -1022,9 +1013,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=17)** Let's have some meaningful tables get created.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=20)** Inside this database, we'll have a table like categories, which will store the type of products.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=20)** Inside this database, we'll have a table like categories, which will store the type of [[Microsoft Products|products]].
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=29)** For example, it could be electronics, it could be clothing, it could be household stuff, something like that.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=29)** For example, it could be [[Electronics]], it could be clothing, it could be household stuff, something like that.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=37)** Then we create one more table that is for product.
 >
@@ -1268,7 +1259,7 @@ created: 2026-05-02
 >
 > **[11:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=665)** When you run that, you will see the information in the category table.
 >
-> **[11:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=670)** Similarly, let's just quickly see in the rest of the table.
+> **[11:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=670)** Similarly, let's just quickly see in the [[Representational State Transfer (REST)|rest]] of the table.
 >
 > **[11:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=675)** In the orders table, in the customer table, and in our products table.
 >
@@ -1288,7 +1279,7 @@ created: 2026-05-02
 >
 > **[11:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=709)** Now you must be thinking that every time, it doesn't make sense to pull out all the data.
 >
-> **[11:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=715)** You are not looking to fetch all the data all the time.
+> **[11:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=715)** You are not looking to [[Fetch]] all the data all the time.
 >
 > **[11:59](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-syntax-and-basic-queries?u=76281980&t=719)** You are completely right.
 >
@@ -1296,7 +1287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (19), data (11), [[Microsoft Products|Products]] (5), database (3), [[Electronics]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Electronics]] (3), [[SQL]] (2), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** category_id (9), product_id (6), customer_id (5), customer_name (1), phone_number (1)
 > **Definitions:** is a  (8), means that (1)
 > **Env Vars:** sql (2), foreign (2), key (2), insert (1)
@@ -1305,8 +1296,7 @@ created: 2026-05-02
 > **Versions:** 20.5 (1), 20.6 (1)
 > **UI Navigation:** click on (2)
 
-#### Selecting and filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980)
+#### [Selecting and filtering data](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=34)** Or maybe you are looking for all the items which start with some specific name.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=42)** In those cases, you can utilize the power of the SQL by using the filtration.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=42)** In those cases, you can utilize the power of the [[SQL]] by using the filtration.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=51)** Let us just see how we can use it.
 >
@@ -1392,11 +1382,11 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=308)** How would you do it?
 >
-> **[5:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=309)** In the next video, we talk about how we can fetch the records from the tables in an orderly manner.
+> **[5:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/selecting-and-filtering-data?u=76281980&t=309)** In the next video, we talk about how we can [[Fetch]] the records from the tables in an orderly manner.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[SQL]] (2), business (1), power (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Fetch]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** sql (2)
@@ -1405,20 +1395,19 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Sorting data with ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980)
+#### [Sorting data with ORDER BY](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=0)** - [Instructor] Your inventory might get a bit messy sometimes.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=5)** Sorting data is like arranging your products on the shelf in logical order.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=5)** Sorting data is like arranging your [[Microsoft Products|products]] on the shelf in logical order.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=11)** For example, assume that in your e-commerce store, you want to identify all the product based on their prices.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=11)** For example, assume that in your [[E-Commerce]] store, you want to identify all the product based on their prices.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=21)** Maybe you are interested into finding the product which are most expensive and products which are most affordable.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=31)** In that case, probably you are looking for and help from the SQL to get this order using the order by.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=31)** In that case, probably you are looking for and help from the [[SQL]] to get this order using the order by.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sorting-data-with-order-by?u=76281980&t=41)** Let's just go to our pgAdmin 4 and see how we can achieve this business use case in SQL using the order by.
 >
@@ -1528,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (5), [[SQL]] (3), data (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[SQL]] (3), [[E-Commerce]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** customer_name (3), pgadmin (1)
@@ -1537,8 +1526,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
 
-#### Combining conditions with AND and OR
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980)
+#### [Combining conditions with AND and OR](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1536,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=19)** Now this is nothing but a situation of a logical conditioning.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=25)** Exactly, many times in your business you get into those conditioning and at that time, SQL can help you to retrieve the data based on those conditions.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=25)** Exactly, many times in your business you get into those conditioning and at that time, [[SQL]] can help you to retrieve the data based on those conditions.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=40)** And it can be done using logical operators.
 >
@@ -1568,7 +1556,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=108)** OR operator says that it will become true if even one of a condition is true.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=117)** For example, imagine that you have a situation where you will say, I will go to the office on weekend only if my manager calls me or my team member calls me.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=117)** For example, imagine that you have a situation where you will say, I will go to the [[Microsoft Office|office]] on weekend only if my manager calls me or my team member calls me.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=135)** If any one of them calls me, I will go to the office.
 >
@@ -1596,7 +1584,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=238)** If there is any possible option which is matching this condition, you will see the result.
 >
-> **[4:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=247)** We have a products table, so it was just a typo.
+> **[4:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=247)** We have a [[Microsoft Products|products]] table, so it was just a typo.
 >
 > **[4:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=250)** Let's just rerun this.
 >
@@ -1654,7 +1642,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=425)** There is a lot to more learn.
 >
-> **[7:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=427)** In the next video we are going to talk about an interesting thing in the SQL that is the data manipulation.
+> **[7:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=427)** In the next video we are going to talk about an interesting thing in the SQL that is the [[Data Manipulation]].
 >
 > **[7:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/combining-conditions-with-and-or?u=76281980&t=434)** So far we are just trying to retrieve the information.
 >
@@ -1662,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), product (4), [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3), [[Data Manipulation]] (2)
 > **Env Vars:** sql (8)
 > **Analogies:** imagine (4), for example (2)
 > **UI Navigation:** go to (4), click on (1)
@@ -1671,8 +1659,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Combine filter and ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-combine-filter-order-by?u=76281980)
+#### [Challenge: Combine filter and ORDER BY](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-combine-filter-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,8 +1673,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Combine filter and ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-combine-filter-order-by?u=76281980)
+#### [Solution: Combine filter and ORDER BY](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-combine-filter-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,16 +1700,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980)
+#### [Introduction to data manipulation](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=0)** - [Instructor] Data manipulation is an art of altering and playing with the data within your database.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=0)** - [Instructor] [[Data Manipulation]] is an art of altering and playing with the data within your database.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=8)** We use it to add, update, or delete the records, which gives us the power to keep our database dynamic and responsive to changing needs.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=22)** Let's take a very real world example of our e-commerce store.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=22)** Let's take a very real world example of our [[E-Commerce]] store.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=27)** Imagine a situation.
 >
@@ -1735,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=53)** Or maybe taking another situation.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=55)** A guy who is entering all the products available into your warehouse.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=55)** A guy who is entering all the [[Microsoft Products|products]] available into your warehouse.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=62)** By mistake, he has entered the product two times.
 >
@@ -1743,7 +1728,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=72)** So there are a lot of real world situation where you want to make changes in your database.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=80)** Hence, it's very critical to have the data manipulation power with you, and that's come with the SQL.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=80)** Hence, it's very critical to have the data manipulation power with you, and that's come with the [[SQL]].
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=91)** Basically, there are three main data manipulation work you do.
 >
@@ -1771,7 +1756,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=164)** This can easily be done by using the SQL delete statement.
 >
-> **[2:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=171)** Hence, the data manipulation is a pretty important step and plays a very vital role in your database management system.
+> **[2:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=171)** Hence, the data manipulation is a pretty important step and plays a very vital role in your [[Database Management]] system.
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980&t=182)** Mastering this technique of data manipulation in database world will make you a smart SQL guy.
 >
@@ -1781,7 +1766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Data Manipulation]] (5), database (5), [[SQL]] (4), data (2)
+> **Frameworks & Libraries:** [[Data Manipulation]] (5), [[SQL]] (4), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (4)
 > **Analogies:** imagine (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -1789,8 +1774,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inserting data into tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980)
+#### [Inserting data into tables](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1784,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=9)** Either you use the pgAdmin 4 GUI or you can write the command.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=17)** Majorly writing through a SQL command is the most popular way of inserting the records, and as a data engineer, it is expected out of you that you must be aware of managing this insertion SQL command.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=17)** Majorly writing through a [[SQL]] command is the most popular way of inserting the records, and as a data engineer, it is expected out of you that you must be aware of managing this insertion SQL command.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=35)** Let's just go to our pgAdmin and see how we can do it.
 >
@@ -1810,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=49)** A new product has arrived.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=52)** Now we want to add this new product into our inventory of products.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=52)** Now we want to add this new product into our inventory of [[Microsoft Products|products]].
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=58)** How we can do that?
 >
@@ -1848,7 +1832,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=179)** I call it like, let's say Ipad.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=184)** And the price for this Ipad is, let's say a hundred dollars description is 'high performance ipad for professionals', the tag is electronics, which I kept electronics, portable, tech, and category is category ID here.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=184)** And the price for this Ipad is, let's say a hundred dollars description is 'high performance ipad for professionals', the tag is [[Electronics]], which I kept electronics, portable, tech, and category is category ID here.
 >
 > **[3:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=203)** Now remember this category ID 1 is basically the foreign key, you remember?
 >
@@ -1890,7 +1874,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=351)** Execute.
 >
-> **[5:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=352)** Here you can see at the end, ID also get automatically added because we have made it like a serial primary key and rest of the information goes as we have added here in the insert statement.
+> **[5:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=352)** Here you can see at the end, ID also get automatically added because we have made it like a serial primary key and [[Representational State Transfer (REST)|rest]] of the information goes as we have added here in the insert statement.
 >
 > **[6:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inserting-data-into-tables?u=76281980&t=367)** So remember, whenever you want to insert the data into any table, you going to use the INSERT command.
 >
@@ -1958,7 +1942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (3), [[SQL]] (2), [[Electronics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (2), [[Electronics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** insert (3), sql (2), into (2), gui (1)
 > **Analogies:** for example (5), imagine (2)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -1967,8 +1951,7 @@ created: 2026-05-02
 > **SQL:** insert into (1)
 > **Cross-References:** in the next (1)
 
-#### Updating existing records
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980)
+#### [Updating existing records](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1976,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=2)** Sometimes you have the records available in your table and you don't want to insert the entirely new record, but you want to change some specific column value for some specific rules.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=17)** In that case, you can do the updation or you can use the power of update statement in SQL.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=17)** In that case, you can do the updation or you can use the power of update statement in [[SQL]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=28)** Let's just go to our pgAdmin and see how we can do that.
 >
@@ -1994,7 +1977,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=79)** So you say update, you give the table name.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=83)** So here the table name is products, and then you use another keyword called set, and then you give the column name.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=83)** So here the table name is [[Microsoft Products|products]], and then you use another keyword called set, and then you give the column name.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/updating-existing-records?u=76281980&t=95)** For example, here, just want to change the price column only.
 >
@@ -2112,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), next (3), data (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (1)
 > **Code Identifiers:** ipad (7), pgadmin (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), imagine (1)
@@ -2121,8 +2104,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** sql (1)
 
-#### Deleting records from tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980)
+#### [Deleting records from tables](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,7 +2122,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=46)** So you will say delete from and then you will use table name.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=52)** Now the table name here is Products.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=52)** Now the table name here is [[Microsoft Products|Products]].
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=57)** Now if you just execute this specific statement, what it will do is it will try to delete all the items from the table or all the records from the table.
 >
@@ -2256,19 +2238,19 @@ created: 2026-05-02
 >
 > **[8:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=493)** It means that this record is actually deleted, but it's a soft delete.
 >
-> **[8:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=500)** So by this, we have finished our data manipulation strategies.
+> **[8:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=500)** So by this, we have finished our [[Data Manipulation]] strategies.
 >
 > **[8:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=506)** We have covered insertion, updation, and deletion, and you have got the power to play with your database and make it clean and healthy.
 >
 > **[8:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=519)** Now the time has come to shift the gears.
 >
-> **[8:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=522)** In the next video, we are going to step you into the advanced part of this SQL.
+> **[8:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=522)** In the next video, we are going to step you into the advanced part of this [[SQL]].
 >
 > **[8:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/deleting-records-from-tables?u=76281980&t=529)** There, we are going to talk about the joins.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Microsoft Products|Products]] (1), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Manipulation]] (1), [[SQL]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** make (3)
@@ -2277,8 +2259,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **API Endpoints:** delete  (1)
 
-#### Challenge: Delete records
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-delete-records?u=76281980)
+#### [Challenge: Delete records](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-delete-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,8 +2273,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Delete records
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-delete-records?u=76281980)
+#### [Solution: Delete records](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-delete-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,8 +2294,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980)
+#### [Introduction to joins](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=8)** It can be pretty tricky to keep the big picture when everything's scattered, right?
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=15)** Well, in the world of handling information, SQL joins are like our best friends that help us bring all the puzzle pieces together in one neat picture.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=15)** Well, in the world of handling information, [[SQL]] joins are like our best friends that help us bring all the puzzle pieces together in one neat picture.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=28)** Let's understand with a real-world example.
 >
@@ -2379,9 +2358,9 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=203)** By combining the data from multiple tables, you will get the detailed analysis and get the deeper insights of the business.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=214)** Join helps in establishing the relationship between different tables in the databases, which is crucial for maintaining the data integrity and understanding how different data element interact with each other.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=214)** Join helps in establishing the relationship between different tables in the [[Databases]], which is crucial for maintaining the [[Data Integrity]] and understanding how different data element interact with each other.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=231)** Joins improve the efficiency of the database queries as well.
+> **[3:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=231)** Joins improve the efficiency of the [[Database Queries]] as well.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=235)** Imagine that if you want to retrieve the data by joining the two tables together and without using the join, if let's say you are using some form of a query or some form of sub-query, or maybe you are fir multiple queries and then joining in some custom way, probably that might not be an efficient solution.
 >
@@ -2389,7 +2368,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=265)** Last but not the least, real-world application.
 >
-> **[4:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=269)** Joins are widely used in real-world applications, such as generating reports, combining user data with transaction data in e-commerce or in insurance company, or you can take any use case.
+> **[4:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=269)** Joins are widely used in real-world applications, such as generating reports, combining user data with transaction data in [[E-Commerce]] or in insurance company, or you can take any use case.
 >
 > **[4:44](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980&t=284)** This can be applicable almost in all the industry examples.
 >
@@ -2399,21 +2378,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (3), business (2), power (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1), [[Data Integrity]] (1), [[Database Queries]] (1), [[E-Commerce]] (1)
 > **Analogies:** picture (2), imagine (2), such as (1)
 > **Env Vars:** sql (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inner join explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980)
+#### [Inner join explained](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=0)** - [Instructor] An inner join is like a selective friend who introduce you to the people only if they have common interest with you.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=11)** In the world of databases, it connects two tables but only share the information where there is match in both of them.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=11)** In the world of [[Databases]], it connects two tables but only share the information where there is match in both of them.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=22)** If a row in table A has no matching record in table B, that data won't make it to the final table created by inner join.
 >
@@ -2451,7 +2429,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=140)** You can see on the left-hand side order tables have order ID, customer ID, product ID, and further columns.
 >
-> **[2:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=149)** So let's say we want to find out what are the products which has been bought?
+> **[2:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=149)** So let's say we want to find out what are the [[Microsoft Products|products]] which has been bought?
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/inner-join-explained?u=76281980&t=156)** Now if any product which has been bought, it means that the product ID, which is available in the Product table, should match with the product ID which is available in the Orders table, because when we combine Orders table and Product table, then we can get to know that for these product IDs, the order has been placed.
 >
@@ -2521,7 +2499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (5), data (4), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Databases]] (1)
 > **Env Vars:** join (6), inner (4)
 > **CLI Commands:** find (7), make (1)
 > **Code Identifiers:** product_id (3), customer_id (2), total_amount (1), customer_name (1)
@@ -2530,8 +2508,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** imagine (2)
 
-#### Left and right joins explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980)
+#### [Left and right joins explained](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2547,7 +2524,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=60)** Right join has a biasing towards the right-hand side.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=64)** Right join will try to fetch all the records, which is matching on both the side of the table and it has a biasing towards right.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=64)** Right join will try to [[Fetch]] all the records, which is matching on both the side of the table and it has a biasing towards right.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=75)** So it pulls all the record of the right-hand side table as well, irrespective of whether it is matching on the left-hand side or not.
 >
@@ -2615,7 +2592,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=314)** And let's give the alias as well.
 >
-> **[5:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=316)** So I give the o for orders and p for products, and I will say right join on p.product_id is equal to o.product_id, and that's it.
+> **[5:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=316)** So I give the o for orders and p for [[Microsoft Products|products]], and I will say right join on p.product_id is equal to o.product_id, and that's it.
 >
 > **[5:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/left-and-right-joins-explained?u=76281980&t=334)** Now, if I just go and execute this, you can see I got all the products and I can see the total quantity which has been sold for all of these product.
 >
@@ -2647,7 +2624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (3), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Fetch]] (1)
 > **Code Identifiers:** customer_name (2), total_amount (2), customer_id (2), total_quantity (2), product_id (2)
 > **Analogies:** imagine (3)
 > **Cross-References:** go back to (1), next video (1)
@@ -2655,8 +2632,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Full outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980)
+#### [Full outer joins](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2734,7 +2710,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=247)** Now whatever is coming on after this result, I'm doing an another join.
 >
-> **[4:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=252)** Then I will say this, whatever be the output is coming again, we do full outer join on full outer join with the product p, and p on, we'll say it's products, p on p.product_id is equal to o.product_id.
+> **[4:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=252)** Then I will say this, whatever be the output is coming again, we do full outer join on full outer join with the product p, and p on, we'll say it's [[Microsoft Products|products]], p on p.product_id is equal to o.product_id.
 >
 > **[4:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=289)** Now if I try to run this query, there is a small typo of this customer_name.
 >
@@ -2824,7 +2800,7 @@ created: 2026-05-02
 >
 > **[10:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=622)** That's it.
 >
-> **[10:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=623)** By this we have covered one of the most interesting functionality in the SQL world that is the join.
+> **[10:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=623)** By this we have covered one of the most interesting functionality in the [[SQL]] world that is the join.
 >
 > **[10:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/full-outer-joins?u=76281980&t=632)** But life doesn't stop here.
 >
@@ -2834,7 +2810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (5), [[Microsoft Products|Products]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SQL]] (1)
 > **Code Identifiers:** product_id (9), total_quantity (6), customer_id (5), customer_name (4), product_name (2)
 > **Analogies:** imagine (3), for example (3)
 > **Warnings:** be aware (4), keep in mind (2)
@@ -2843,24 +2819,23 @@ created: 2026-05-02
 > **Env Vars:** sql (1), union (1)
 > **Cross-References:** go back to (1)
 
-#### Using the UNION operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980)
+#### [Using the UNION operator](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=0)** - [Presenter] You have learned how to combine different tables using JOINs in our previous videos.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=7)** Now, isn't it amazing to see we can combine results set of different SQL queries as well?
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=7)** Now, isn't it amazing to see we can combine results set of different [[SQL]] queries as well?
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=16)** We can do that using the UNION operator, with which if you have more than one query, you can get the result of these queries as a single result.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=31)** Now you must be thinking what could be the use case.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=35)** Let's say the use case says, imagine you have a lot of products in your product table which belongs to a specific category.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=35)** Let's say the use case says, imagine you have a lot of [[Microsoft Products|products]] in your product table which belongs to a specific category.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=47)** Let's say you want to find out all the records which belongs to a specific category.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=55)** Let's say I want to find out all the products from the electronics category.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=55)** Let's say I want to find out all the products from the [[Electronics]] category.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-union-operator?u=76281980&t=61)** Plus I also wanted to find out all the product which has been sold in more than 10 quantity.
 >
@@ -2990,7 +2965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), [[Electronics]] (5), [[SQL]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Electronics]] (5), [[SQL]] (3)
 > **Env Vars:** union (16), join (7), sql (3)
 > **SQL:** join (7)
 > **Code Identifiers:** product_id (2), pgadmin (1), category_id (1), total_quantity (1)
@@ -2999,8 +2974,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 
-#### Using the CASE statement for conditional logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980)
+#### [Using the CASE statement for conditional logic](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3010,7 +2984,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=18)** Now we are diving into the magic of the case statements.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=23)** In SQL, the case statement is like a decision-making tool that allows you to perform conditional logic within your queries.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=23)** In [[SQL]], the case statement is like a [[Decision-Making]] tool that allows you to perform conditional logic within your queries.
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=34)** It's similar to a switch statement in the programming language.
 >
@@ -3048,7 +3022,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=166)** Now let's take a very real world example.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=169)** Assume that we have our product table, which we have seen so far in that there are a lot of products.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=169)** Assume that we have our product table, which we have seen so far in that there are a lot of [[Microsoft Products|products]].
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-case-statement-for-conditional-logic?u=76281980&t=176)** Some product might be cheap, some product might be affordable, some product might be very costly.
 >
@@ -3124,7 +3098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (2), [[Programming]] (2), [[Microsoft Products|Products]] (2), power (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Decision-Making]] (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Code Identifiers:** pgadmin (1)
 > **Env Vars:** sql (1)
@@ -3132,8 +3106,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GROUP BY to aggregate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980)
+#### [Using GROUP BY to aggregate data](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3163,13 +3136,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=103)** Sometimes you don't want to know the entire data or you're not looking for the entire information, you are looking for the concise or the summarize information.
 >
-> **[1:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=116)** In those cases, Group By can help you to summarize the data and it'll help you to report your data or do the data reporting in a very effective manner.
+> **[1:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=116)** In those cases, Group By can help you to summarize the data and it'll help you to report your data or do the [[Data Reporting]] in a very effective manner.
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=131)** There are a lot of aggregation functions which exist or works along with the Group By.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=138)** Some of them are like count, max, min sum, average.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=146)** Let's just go back to our PG admin and see how we can apply a Group By on basic SQL queries.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=146)** Let's just go back to our PG admin and see how we can apply a Group By on basic [[SQL]] queries.
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=156)** Let me reopen the new SQL sheet.
 >
@@ -3193,7 +3166,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=268)** So sometimes this Group By is very useful when you go into the data visualization part.
 >
-> **[4:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=275)** The very practical aspect of Group By would come when you create kind of a dashboards.
+> **[4:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=275)** The very practical aspect of Group By would come when you create kind of a [[Dashboards]].
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-group-by-to-aggregate-data?u=76281980&t=281)** So when you create some kind of a dashboards, there, you want to show the summarized data and when you want to show the summarized data, then Group By would be very effective because it summarizes data based on some grouping and then it'll showcase the data to you.
 >
@@ -3261,7 +3234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), product (4), [[SQL]] (2), [[Dashboards]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Dashboards]] (2), [[Data Reporting]] (1)
 > **Analogies:** for example (5), imagine (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -3269,8 +3242,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common aggregation functions: SUM, AVG, COUNT, etc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980)
+#### [Common aggregation functions: SUM, AVG, COUNT, etc.](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3386,15 +3358,15 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=366)** You can use them as per your need.
 >
-> **[6:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=371)** This is all about aggregation function in SQL.
+> **[6:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=371)** This is all about aggregation function in [[SQL]].
 >
-> **[6:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=374)** These functions are critical for data analysis and for data engineering in SQL.
+> **[6:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=374)** These functions are critical for data analysis and for [[Data Engineering]] in SQL.
 >
 > **[6:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-aggregation-functions-sum-avg-count-etc?u=76281980&t=382)** In our next video, we're going to deep dive into a having clause, which is going to use to filter the GROUP BY result to achieve the specific data summarization and analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[Data Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Engineering]] (1)
 > **Env Vars:** group (4), count (2), sql (2), sum (1), average (1)
 > **Code Identifiers:** total_amount (6), customer_id (4), pgadmin (1)
 > **CLI Commands:** find (4)
@@ -3403,12 +3375,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 
-#### Filtering GROUP BY results with the HAVING clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980)
+#### [Filtering GROUP BY results with the HAVING clause](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=0)** - [Instructor] The HAVING clause in SQL is used to filter the groups of a data written by the GROUP BY operation.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=0)** - [Instructor] The HAVING clause in [[SQL]] is used to filter the groups of a data written by the GROUP BY operation.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=9)** Think like that.
 >
@@ -3484,7 +3455,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=279)** I will say that: "select name, category.Id from categories c join",
 >
-> **[4:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=292)** our products table, on, let's give an alliance to products, "SP", "on c.category.id equal to p.category.id."
+> **[4:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=292)** our [[Microsoft Products|products]] table, on, let's give an alliance to products, "SP", "on c.category.id equal to p.category.id."
 >
 > **[5:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=308)** And then we say once you join this, we'll say group by based on category ID.
 >
@@ -3504,7 +3475,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=392)** You can see that for home and kitchen, the product category count is one.
 >
-> **[6:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=396)** For electronics, it's three.
+> **[6:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=396)** For [[Electronics]], it's three.
 >
 > **[6:38](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/filtering-group-by-results-with-the-having-clause?u=76281980&t=398)** And for clothing, it's one.
 >
@@ -3528,7 +3499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (8), [[SQL]] (2), [[Microsoft Products|Products]] (2), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (2), [[Electronics]] (1)
 > **Env Vars:** having (12), group (11), where (9), sql (2)
 > **SQL:** having (12), group by (11), where (9)
 > **CLI Commands:** find (5)
@@ -3537,31 +3508,29 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (2)
 
-#### Challenge: Joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-joins?u=76281980)
+#### [Challenge: Joins](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-joins?u=76281980&t=5)** - [Instructor] This time, the challenge is in front of you to find out all the product name with their IDs and the condition is they have to belong to a very specific category that is electronics and we are doing this exercise because a sale is about to come and we have a summer special offer we have to put for this electronic item.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-joins?u=76281980&t=5)** - [Instructor] This time, the challenge is in front of you to find out all the product name with their IDs and the condition is they have to belong to a very specific category that is [[Electronics]] and we are doing this exercise because a sale is about to come and we have a summer special offer we have to put for this electronic item.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-joins?u=76281980&t=30)** So help the team to find out all these product IDs along with their name.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980)
+#### [Solution: Joins](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=0)** - [Instructor] Now, to find out all the product name along with the category, what we need to do is we need to do a join between the product table and the category table.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=17)** So for now, I just say select star from products P, join category C on p.category_id is equal to c.category_id,
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=17)** So for now, I just say select star from [[Microsoft Products|products]] P, join category C on p.category_id is equal to c.category_id,
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=34)** and our condition was where the c.category name is equal to electronics.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=34)** and our condition was where the c.category name is equal to [[Electronics]].
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-joins?u=76281980&t=46)** And also one thing, I don't want to get all the items from this table.
 >
@@ -3581,7 +3550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Electronics]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (3), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** category_id (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3592,8 +3561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to SQL functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980)
+#### [Introduction to SQL functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3637,7 +3605,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=141)** So function brings in the maintainability in your code.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=146)** There are a lot of built in functions there in the SQL world.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=146)** There are a lot of built in functions there in the [[SQL]] world.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=150)** Like any programming language, when you want to do something related to the mathematics, there are mathematical functions there, for example, radians, absolute, many more.
 >
@@ -3669,11 +3637,11 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=249)** I know by hearing all of these variety of functions, you might feeling excited and willing to implement all of that in your pgAdmin.
 >
-> **[4:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=260)** So in the next session, we go and we'll see how you can implement all these functions in your PostgreSQL.
+> **[4:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980&t=260)** So in the next session, we go and we'll see how you can implement all these functions in your [[PostgreSQL]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[SQL]] (2), next (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[PostgreSQL]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (2), imagine (1), it's like (1)
 > **Env Vars:** sql (2)
@@ -3681,12 +3649,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using mathematical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-mathematical-functions?u=76281980)
+#### [Using mathematical functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-mathematical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-mathematical-functions?u=76281980&t=0)** - [Instructor] Mathematical function in SQL are like magical tools that help you perform various calculation on numeric data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-mathematical-functions?u=76281980&t=0)** - [Instructor] Mathematical function in [[SQL]] are like magical tools that help you perform various calculation on numeric data.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-mathematical-functions?u=76281980&t=10)** Some of the most common numerical functions are like, ABS, CEIL, FLOOR, ROUND, SQRT.
 >
@@ -3774,7 +3741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), abs (1), ceil (1), floor (1), round (1)
 > **Versions:** 2.6 (3), 2.3 (2), 2.7 (1), 2.34 (1), 2.35 (1)
 > **Analogies:** for example (4)
@@ -3783,8 +3750,7 @@ created: 2026-05-02
 > **Code Identifiers:** pgadmin (1)
 > **Cross-References:** in the next (1)
 
-#### Working with date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980)
+#### [Working with date functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3912,7 +3878,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=409)** This specific format tells that the string is of this format and that helps to convert string into the date.
 >
-> **[6:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=418)** In the real world scenarios, in the data engineering world, this is a pretty important function because many times you read the file and the file has some date column.
+> **[6:58](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=418)** In the real world scenarios, in the [[Data Engineering]] world, this is a pretty important function because many times you read the file and the file has some date column.
 >
 > **[7:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=428)** Now when you read the file, you probably push it as a string.
 >
@@ -3930,7 +3896,7 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=466)** For example, I want to see in this specific format, DD/MM/YY.
 >
-> **[7:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=473)** Now my date will be printed in this specific format because I word date into a string format using to_char function.
+> **[7:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=473)** Now my date will be printed in this specific format because I [[Microsoft Word|word]] date into a string format using to_char function.
 >
 > **[8:03](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-date-functions?u=76281980&t=483)** So there are a lot of functions available around the date and we have seen most of the function, which you're going to use as a data engineer.
 >
@@ -3956,7 +3922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Data Engineering]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (7), is called (2)
 > **Analogies:** for example (7), imagine (1), similar to (1)
 > **Code Identifiers:** current_date (2), to_char (2), date_trunc (1), to_date (1)
@@ -3965,8 +3931,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with time functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-time-functions?u=76281980)
+#### [Working with time functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/working-with-time-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4094,7 +4059,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **Code Identifiers:** order_timestamp (5), current_timestamp (3), current_time (2), delivery_timestamp (2), date_truncate (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), imagine (2), similar to (1)
@@ -4102,8 +4066,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### String functions: Concatenation and trimming
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-concatenation-and-trimming?u=76281980)
+#### [String functions: Concatenation and trimming](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-concatenation-and-trimming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4201,15 +4164,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (1), next (1)
 > **Definitions:** is a  (3), is called (3)
 > **Analogies:** for example (3)
 > **Env Vars:** pia (1), xxx (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### String functions: Changing case and extracting substrings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980)
+#### [String functions: Changing case and extracting substrings](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4217,7 +4178,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=5)** Some titles are in all uppercase to grab your attention while others are in lowercase to make you feel more relaxed.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=16)** We can change the text case and extract a surface string using lot of string functions available in the SQL.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=16)** We can change the text case and extract a surface string using lot of string functions available in the [[SQL]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=28)** Let's just go back to pgAdmin and see how we can play with these strings.
 >
@@ -4241,7 +4202,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=94)** Lower will be too lower.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=95)** You want something like an init cap where you want every first word of your string would be of capital and rest, all the letters of that word would be spawn.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=95)** You want something like an init cap where you want every first [[Microsoft Word|word]] of your string would be of capital and [[Representational State Transfer (REST)|rest]], all the letters of that word would be spawn.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/string-functions-changing-case-and-extracting-substrings?u=76281980&t=109)** In that case, you can use select init cap.
 >
@@ -4327,7 +4288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** pgadmin (1), customer_name (1)
 > **Env Vars:** sql (2)
@@ -4336,8 +4297,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** initialization (1)
 
-#### Challenge: Play with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-play-with-strings?u=76281980)
+#### [Challenge: Play with strings](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-play-with-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4355,19 +4315,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bubbly electronic music) (1)
 
-#### Solution: Play with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980)
+#### [Solution: Play with strings](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=0)** - [Instructor] Let's first see how the tags looks like.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=8)** I will say select * from products.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=8)** I will say select * from [[Microsoft Products|products]].
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=13)** And it specifically, let's say, select tags from the products.
 >
@@ -4379,7 +4337,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=33)** So there is a function called initcap that will make the first letter as a capital one.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=39)** Now, if I execute this again, you will see Electronics, Portable, Tech, all the words' first letter is coming as capital.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-play-with-strings?u=76281980&t=39)** Now, if I execute this again, you will see [[Electronics]], Portable, Tech, all the words' first letter is coming as capital.
 
 > [!info]- Semantic Content
 >
@@ -4394,18 +4352,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to analytical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980)
+#### [Introduction to analytical functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=0)** - [Instructor] As you are managing an e-commerce platform, now imagine you want to analyze the performance of each customer by comparing their order amounts with an average order amount within a specific timeframe.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=0)** - [Instructor] As you are managing an [[E-Commerce]] platform, now imagine you want to analyze the performance of each customer by comparing their order amounts with an average order amount within a specific timeframe.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=16)** Here's where SQL analytical functions come into the play.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=16)** Here's where [[SQL]] analytical functions come into the play.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=22)** By leveraging analytical functions, you can gain deeper insights into customer behavior, identify trends, and make data-driven decision in your e-commerce business.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=35)** Analytical, which also known as window functions in SQL, are powerful tools that provide advanced data manipulation capabilities.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=35)** Analytical, which also known as window functions in SQL, are powerful tools that provide advanced [[Data Manipulation]] capabilities.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=46)** Let just see all them in more detail.
 >
@@ -4427,7 +4384,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=127)** For example, calculating the moving average or finding the cumulative sums with window function can be faster than if you do the same thing using either the cell join or some other subquery way.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=145)** Scalability.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=145)** [[Scalability]].
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=147)** Analytical function often improves scalability as well.
 >
@@ -4439,7 +4396,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=181)** These analytical functions, for example, like RANK, DENSE_RANK, they can leverage the windowing capability by providing you insights that are not just row specific, but make you a specific set of rows or based on some context.
 >
-> **[3:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=201)** They allow you to divide your results set into logical segments or the partitions, which we sometimes call as windows, and then you can perform the calculation on those segment of the data.
+> **[3:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=201)** They allow you to divide your results set into logical segments or the partitions, which we sometimes call as [[Windows]], and then you can perform the calculation on those segment of the data.
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980&t=216)** These are some of the most common analytical functions.
 >
@@ -4477,7 +4434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (6), [[E-Commerce]] (2), [[Data Manipulation]] (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[E-Commerce]] (2), [[Data Manipulation]] (2), [[Scalability]] (2), [[Windows]] (1)
 > **Env Vars:** sql (6), rank (4), dense_rank (3), row_number (2), sum (2)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **CLI Commands:** make (3)
@@ -4485,18 +4442,17 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the RANK() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980)
+#### [Using the RANK() function](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=0)** - [Instructor] RANK function in PostgreSQL is a window function that assigns a rank to each row within a partition of a result set.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=0)** - [Instructor] RANK function in [[PostgreSQL]] is a window function that assigns a rank to each row within a partition of a result set.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=11)** The rank of a row is one plus the number of ranks that comes before it.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=18)** For example, like in an school, or in your college when you have an exam and the exam results go out, based on the marks every student get, there is a rank assigned to each of these student.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=33)** Similarly, in the SQL world also, when you are trying to analyze something and based on your need, you want to rank something, there a RANK function can be utilized.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=33)** Similarly, in the [[SQL]] world also, when you are trying to analyze something and based on your need, you want to rank something, there a RANK function can be utilized.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=46)** It is particularly useful in the scenarios where you want to compare items across some ordered groups.
 >
@@ -4516,7 +4472,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=108)** So for example, let's say we have a product price one, then two product has like a same price.
 >
-> **[1:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=115)** So we'll say rank one for the product one and for rest of the two product, it will be rank two, two, but the next product rank would become four.
+> **[1:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=115)** So we'll say rank one for the product one and for [[Representational State Transfer (REST)|rest]] of the two product, it will be rank two, two, but the next product rank would become four.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=124)** So you will find that there is the gap.
 >
@@ -4614,7 +4570,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=399)** So whatever be the real amount come, we want it to be decreasing order so that the highest amount will get the rank one and subsequent will get the lower rank.
 >
-> **[6:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=410)** This kind of query is useful in business when you're trying to identify your top performing products or you wanted to identify the top orders or you wanted to make some business decision based on it.
+> **[6:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=410)** This kind of query is useful in business when you're trying to identify your top performing [[Microsoft Products|products]] or you wanted to identify the top orders or you wanted to make some business decision based on it.
 >
 > **[7:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-rank-function?u=76281980&t=426)** In the next video, we're going to talk about the DENSE_RANK and then we'll see how this gap in the rank problem can be solved.
 >
@@ -4622,7 +4578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), next (8), business (2), [[PostgreSQL]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** customer_id (10), total_amount (6), pgadmin (1), order_rank (1)
 > **Env Vars:** rank (9), sql (1), dense_rank (1)
 > **Analogies:** for example (4), imagine (1), it's like (1)
@@ -4631,12 +4587,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the DENSE_RANK() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-dense-rank-function?u=76281980)
+#### [Using the DENSE_RANK() function](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-dense-rank-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-dense-rank-function?u=76281980&t=0)** - [Instructor] DENSE_RANK function in PostgreSQL assign a rank to each row within a partition of a result set.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-dense-rank-function?u=76281980&t=0)** - [Instructor] DENSE_RANK function in [[PostgreSQL]] assign a rank to each row within a partition of a result set.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-the-dense-rank-function?u=76281980&t=9)** The most important thing is it provides no gaps in the ranking values.
 >
@@ -4702,7 +4657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[PostgreSQL]] (1), data (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1)
 > **Env Vars:** dense_rank (9), desc (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -4710,8 +4665,7 @@ created: 2026-05-02
 > **Versions:** 120.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the ROW_NUMBER() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980)
+#### [Exploring the ROW_NUMBER() function](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4721,9 +4675,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=12)** Each person is assigned a unique number, determining when they get to board the plane.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=19)** In the world of databases, the SQL function row number serves a similar purpose, providing a distinctive identifier to each row within your result set.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=19)** In the world of [[Databases]], the [[SQL]] function row number serves a similar purpose, providing a distinctive identifier to each row within your result set.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=34)** The row number function in PostgreSQL is a window function that assigns a unique number to each row in the result set according to the specified order.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=34)** The row number function in [[PostgreSQL]] is a window function that assigns a unique number to each row in the result set according to the specified order.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/exploring-the-row-number-function?u=76281980&t=48)** Unlike the rank and the dense rank function, row number function does not assign the same value for duplicate rows.
 >
@@ -4811,7 +4765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Databases]] (1), [[SQL]] (1), [[PostgreSQL]] (1), product (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Analogies:** imagine (2), such as (1)
 > **Code Identifiers:** pgadmin (1), order_timestamp (1)
@@ -4820,12 +4774,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the LAG() and LEAD() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980)
+#### [Understanding the LAG() and LEAD() functions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=0)** - [Instructor] Considering our e-commerce database, imagine if we want to analyze whether the demand for a specific product is increasing or decreasing or it is kind of unstable.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=0)** - [Instructor] Considering our [[E-Commerce]] database, imagine if we want to analyze whether the demand for a specific product is increasing or decreasing or it is kind of unstable.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=15)** It can be understand by analyzing the change in total quantity of our successive or the consecutive orders.
 >
@@ -4841,7 +4794,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=81)** LAG get you the previous one, LEAD gets you the next one.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=87)** So imagine that you have a sales data and maybe you are trying to forecasting these sales for the next period that could be using through the LEAD.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=87)** So imagine that you have a sales data and maybe you are trying to [[Forecasting]] these sales for the next period that could be using through the LEAD.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-the-lag-and-lead-functions?u=76281980&t=100)** Let's take our e-commerce database an example.
 >
@@ -4935,7 +4888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), data (4), [[E-Commerce]] (2), database (2), product (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Forecasting]] (1)
 > **Env Vars:** lag (13), lead (12)
 > **Code Identifiers:** order_timestamp (7), customer_id (3), order_id (1), next_order (1)
 > **Analogies:** imagine (2), for example (1)
@@ -4944,8 +4897,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 
-#### Running totals with SUM() OVER()
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980)
+#### [Running totals with SUM() OVER()](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4979,7 +4931,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=80)** It's like keeping a running tally of your expenses, and showing you how your budget is being used over a time.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=90)** In the world of SQL in databases, running total using SUM and OVER function work exactly in similar way.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=90)** In the world of [[SQL]] in [[Databases]], running total using SUM and OVER function work exactly in similar way.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=100)** They provide a running sum of specific column as you go through the dataset.
 >
@@ -5029,7 +4981,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=274)** Imagine that you have a dashboard, where you are showcasing a specific customer journey.
 >
-> **[4:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=280)** Then you can have this specific running total function, which could play a very crucial role in presenting that customer journey of how much he has spent on our e-commerce portal so far.
+> **[4:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=280)** Then you can have this specific running total function, which could play a very crucial role in presenting that customer journey of how much he has spent on our [[E-Commerce]] portal so far.
 >
 > **[4:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/running-totals-with-sum-over?u=76281980&t=296)** On a similar lines, let's take another example.
 >
@@ -5077,7 +5029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), next (4), data (3), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1), [[E-Commerce]] (1)
 > **Code Identifiers:** order_timestamp (2), product_id (2), customer_id (1), order_id (1), total_amount (1)
 > **Env Vars:** sum (2), sql (1)
 > **Analogies:** imagine (2), it's like (1)
@@ -5086,8 +5038,7 @@ created: 2026-05-02
 > **Versions:** 120.50 (1)
 > **Definitions:** is a  (1)
 
-#### Calculating moving averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980)
+#### [Calculating moving averages](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5129,7 +5080,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=144)** It is commonly used in various fields, which includes finance, economics, signal processing, insurance, and many more, where to identify the trends and patterns in time series is important.
 >
-> **[2:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=163)** Let's take a one real-world use case from our e-commerce system.
+> **[2:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=163)** Let's take a one real-world use case from our [[E-Commerce]] system.
 >
 > **[2:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=168)** Assume that you want to analyze the trend of order amounts over time for a specific product or category to understand the sales performance.
 >
@@ -5205,7 +5156,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=433)** Otherwise, moving average is an awesome functionality for doing this trend analysis.
 >
-> **[7:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=440)** That's how we have covered the most popular analytical function in the SQL world as far as the data engineering is concerned.
+> **[7:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=440)** That's how we have covered the most popular analytical function in the [[SQL]] world as far as the [[Data Engineering]] is concerned.
 >
 > **[7:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/calculating-moving-averages?u=76281980&t=449)** In the next video, we're going to talk about the views.
 >
@@ -5213,7 +5164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[E-Commerce]] (1), product (1), [[SQL]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[SQL]] (1), [[Data Engineering]] (1)
 > **Code Identifiers:** customer_id (2), order_timestamp (2), order_id (1), total_amount (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Versions:** 76.5 (1), 77.67 (1)
@@ -5222,8 +5173,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 
-#### Challenge: Find out the sum
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-find-out-the-sum?u=76281980)
+#### [Challenge: Find out the sum](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-find-out-the-sum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5237,13 +5187,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Find out the sum
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-find-out-the-sum?u=76281980)
+#### [Solution: Find out the sum](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-find-out-the-sum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5273,8 +5221,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to views
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980)
+#### [Introduction to views](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5294,7 +5241,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=40)** Using view is like putting together your puzzle without starting from scratch each time.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=47)** In the context of the relational databases and SQL, a view is a virtual table derived from the result of SELECT query.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=47)** In the context of the [[Relational Databases]] and [[SQL]], a view is a virtual table derived from the result of SELECT query.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=57)** It doesn't store data by itself, but gives a way to look at the data in more organized and simple manner.
 >
@@ -5334,11 +5281,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=212)** In short, using views in the SQLs offer a range of benefits from simplifying queries and enhancing security to promoting code reusability and performance.
 >
-> **[3:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=226)** These advantages contribute to a better data management and make it easier to work with complex database structure.
+> **[3:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=226)** These advantages contribute to a better [[Data Management]] and make it easier to work with complex database structure.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=235)** Now, we have understood the views.
 >
-> **[3:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=237)** Now, it's time to see how you can create the views in the real-time environments.
+> **[3:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=237)** Now, it's time to see how you can create the views in the [[Real-Time]] environments.
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980&t=244)** Let's dive in into the next session where we're going to see how to create the views.
 >
@@ -5346,7 +5293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (2), database (2), [[Relational Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[SQL]] (1), [[Data Management]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** it's like (2), imagine (2), picture (1)
 > **Env Vars:** sql (1), select (1)
@@ -5354,8 +5301,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using views
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980)
+#### [Creating and using views](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5363,7 +5309,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=4)** The syntax for view creation is, you use create view as a keyword.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=9)** You give the name of the view and then AS and after that you have a SQL query, whatever you want it to generate the view upon.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=9)** You give the name of the view and then AS and after that you have a [[SQL]] query, whatever you want it to generate the view upon.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=21)** Now let's go back to what pgAdmin 4 and have a one real world use case and see how we can create there.
 >
@@ -5467,7 +5413,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=398)** This can affect the performance further wherever you have the large data set.
 >
-> **[6:44](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=404)** However, PostgreSQL offers the materialized view, as we saw.
+> **[6:44](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=404)** However, [[PostgreSQL]] offers the materialized view, as we saw.
 >
 > **[6:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-using-views?u=76281980&t=410)** You can use that.
 >
@@ -5491,7 +5437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (4), [[PostgreSQL]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PostgreSQL]] (1)
 > **Code Identifiers:** customer_id (3), customer_order_summary (2), pgadmin (1), order_id (1), total_amount (1)
 > **Env Vars:** sql (4)
 > **Cross-References:** go back to (1), as we saw (1), in the next (1)
@@ -5500,8 +5446,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Introduction to stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980)
+#### [Introduction to stored procedures](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5523,13 +5468,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=47)** It's like having a chef who gets faster and more efficient with every cooking session.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=55)** Stored procedures are prepared SQL code that you save so you can reuse it over and over again.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=55)** Stored procedures are prepared [[SQL]] code that you save so you can reuse it over and over again.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=63)** So if you have any SQL query that you write over and over again, you can save it as a stored procedure and call it to run whenever needed.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=74)** It's quite similar to the functions which you see in the programming world.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=80)** Stored procedures are created to perform one or more data manipulation operations on databases.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=80)** Stored procedures are created to perform one or more [[Data Manipulation]] operations on [[Databases]].
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=89)** It is nothing but a group of SQL statement that accepts some input in the form of parameters and perform some task and may or may not return a value.
 >
@@ -5573,7 +5518,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=258)** In nutshell, stored procedures are the database objects that offer efficiency, security, and adaptability.
 >
-> **[4:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=268)** They provide a level of abstraction, allowing developers to work with modular and reusable code, ensuring data integrity and optimization.
+> **[4:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=268)** They provide a level of abstraction, allowing developers to work with modular and reusable code, ensuring [[Data Integrity]] and optimization.
 >
 > **[4:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-stored-procedures?u=76281980&t=282)** Theory is done.
 >
@@ -5585,7 +5530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Security]] (3), database (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Manipulation]] (1), [[Databases]] (1), [[Data Integrity]] (1)
 > **Analogies:** it's like (2), imagine (1), similar to (1), just like (1)
 > **Env Vars:** sql (3), alter (1)
 > **Definitions:** is called (2)
@@ -5593,8 +5538,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and executing stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980)
+#### [Creating and executing stored procedures](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5604,7 +5548,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=9)** To create the stored procedure, we need to write create procedure, and we need to give the name of the procedure.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=20)** For the time being, let's understand that we have products, categories, customers, and orders.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=20)** For the time being, let's understand that we have [[Microsoft Products|products]], categories, customers, and orders.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=27)** Let's have a procedure where we're going to call this procedure which will insert a new record into my category table.
 >
@@ -5622,9 +5566,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=81)** Whenever you create the procedure, you have to define the language.
 >
-> **[1:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=85)** There are multiple types of languages there, like an SQL, Programmable SQL, and another one here, which is popular is PL/pgSQL.
+> **[1:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=85)** There are multiple types of languages there, like an [[SQL]], Programmable SQL, and another one here, which is popular is PL/pgSQL.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=97)** That is Programmable PostgreSQL.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=97)** That is Programmable [[PostgreSQL]].
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-executing-stored-procedures?u=76281980&t=100)** So we are using this language.
 >
@@ -5706,7 +5650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL]] (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL]] (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** add_category (2), cat_id (2), cat_name (2), pgadmin (1), pgsql (1)
 > **Env Vars:** sql (3), begin (2), end (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5714,8 +5658,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Select via view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-select-via-view?u=76281980)
+#### [Challenge: Select via view](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-select-via-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5727,12 +5670,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Solution: Select via view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980)
+#### [Solution: Select via view](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5740,7 +5681,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980&t=5)** - [Lecturer] To get the product name along with the category name, we need to do the join again.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980&t=10)** I will say p.name, c.name from products p join categories c and I will doing this join ON p.category_id =c.category_id.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980&t=10)** I will say p.name, c.name from [[Microsoft Products|products]] p join categories c and I will doing this join ON p.category_id =c.category_id.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-select-via-view?u=76281980&t=35)** Now if you just see the result, this looks like name for product and name for categories coming fine.
 >
@@ -5768,7 +5709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** category_id (2), prod_cat (2)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat synth music) (1)
@@ -5778,8 +5719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980)
+#### [Introduction to indexes](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5799,7 +5739,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=65)** An index acts like a categorized menu, making it easy for the waiter to quickly locate and serve the dish you ordered.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=76)** In SQL, an index do the exactly the same purpose.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=76)** In [[SQL]], an index do the exactly the same purpose.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=82)** An index in database structure provides a quick and efficient way to look up and retrieve the data from a table.
 >
@@ -5807,7 +5747,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=107)** An index helps you to organize the data, accelerate the data retrieval, and improves the overall efficiency of searching for a specific information within a large dataset.
 >
-> **[2:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=122)** It helps the database quickly pinpoint the desired information, making data retrieval faster and enhancing the user experience.
+> **[2:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=122)** It helps the database quickly pinpoint the desired information, making data retrieval faster and enhancing the [[User Experience (UX)|user experience]].
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=134)** Let's dive into the types of the indexes.
 >
@@ -5839,21 +5779,20 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=232)** In nutshell, an index in a SQL acts as a performance optimization tool, which allows the database engine to quickly locate and retrieve specific data from a table, especially when dealing with a large data set.
 >
-> **[4:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=251)** It plays a crucial role in enhancing the overall speed and efficiency of database queries.
+> **[4:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=251)** It plays a crucial role in enhancing the overall speed and efficiency of [[Database Queries]].
 >
 > **[4:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980&t=261)** Let's deep dive into creating and managing these indexes in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (4), [[SQL]] (2), [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[User Experience (UX)|User experience]] (1), [[Database Queries]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980)
+#### [Creating and managing indexes](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5865,7 +5804,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=30)** Let's just go to our pgAdmin and see how we can create these indexes.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=36)** Let's take in a real-world example In our e-commerce application, customer often log in using their email address.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=36)** Let's take in a real-world example In our [[E-Commerce]] application, customer often log in using their email address.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=46)** Create an index on email column of the customer table can speed up these login operations.
 >
@@ -5895,11 +5834,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=134)** So I say prod_ca, and then I say on my product table and my column name would be category_id.
 >
-> **[2:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=148)** Now, this will going to create a index on the products table based on this category_id column.
+> **[2:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=148)** Now, this will going to create a index on the [[Microsoft Products|products]] table based on this category_id column.
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=157)** There is another type of index there, which is unique index.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=162)** To prevent the duplicate entries and ensure the data integrity for all the products, you can create a unique index on the name column of the product table.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=162)** To prevent the duplicate entries and ensure the [[Data Integrity]] for all the products, you can create a unique index on the name column of the product table.
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-and-managing-indexes?u=76281980&t=175)** Let's say we call it create unique index, and then I provide the index name, idx_prod_name,
 >
@@ -5957,7 +5896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), application (2), [[Search]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), [[Data Integrity]] (1)
 > **Code Identifiers:** category_id (2), pgadmin (1), idx_customer_email (1), prod_ca (1), idx_prod_name (1)
 > **Env Vars:** create (2), index (2)
 > **SQL:** index (2)
@@ -5966,8 +5905,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding query performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980)
+#### [Understanding query performance](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5977,17 +5915,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=21)** Today we are not just going to understand query performance.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=27)** We are going to supercharge it, ensuring that your SQL queries moves at the speed of your favorite fast food drive-through.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=27)** We are going to supercharge it, ensuring that your [[SQL]] queries moves at the speed of your favorite fast food drive-through.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=39)** Assessing SQL query optimization in PostgreSQL is crucial for optimizing your database queries and ensure efficient data retrieval.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=39)** Assessing SQL query optimization in [[PostgreSQL]] is crucial for optimizing your [[Database Queries]] and ensure efficient data retrieval.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=51)** Let's explore the essential steps to assess and enhance SQL query performance.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=60)** The first step would be enable query execution statistics.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=60)** The first step would be enable query execution [[Statistics]].
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=66)** In PostgreSQL, you can enable the collection of query execution statistics by setting the track_activities and track_counts parameters in postgresql.conf file.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=81)** You can find the Postgres configuration file under the PostgreSQL folder on which you have install your PostgreSQL.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=81)** You can find the [[PostgreSQL|Postgres]] configuration file under the PostgreSQL folder on which you have install your PostgreSQL.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=93)** There you go into your version, and data, and there you see a file like postgresql.conf.
 >
@@ -6043,7 +5981,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=284)** Now, this pgBadger is specific to the PostgreSQL.
 >
-> **[4:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=289)** Similarly, other databases has some different log analysis tools out there.
+> **[4:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=289)** Similarly, other [[Databases]] has some different log analysis tools out there.
 >
 > **[4:54](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=294)** You can choose the tool based on your database.
 >
@@ -6065,7 +6003,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=343)** You can see that it will tell you what are the different indexes out there on this table, and what are the different usage of this indexes has been done.
 >
-> **[5:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=357)** You can see you have a customer order, an order index, and then you can have a last index scan, timestamp, last index read, fetch, et cetera.
+> **[5:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=357)** You can see you have a customer order, an order index, and then you can have a last index scan, timestamp, last index read, [[Fetch]], et cetera.
 >
 > **[6:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=370)** So you can see that when this index has been utilized.
 >
@@ -6093,13 +6031,13 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=476)** This could also enhance your query performance.
 >
-> **[8:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=481)** These are some basic tip, but in the next video, we're going to deep dive and talk about some specific performance tuning technique.
+> **[8:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=481)** These are some basic tip, but in the next video, we're going to deep dive and talk about some specific [[Performance Tuning]] technique.
 >
 > **[8:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-query-performance?u=76281980&t=491)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (9), [[SQL]] (4), data (4), [[Statistics]] (3), database (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (9), [[SQL]] (4), [[Statistics]] (3), [[Fetch]] (2), [[Database Queries]] (1)
 > **Code Identifiers:** track_activities (3), track_counts (2), pgbadger (2), pgadmin (1), order_id (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (4)
@@ -6108,8 +6046,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Basic performance tuning techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980)
+#### [Basic performance tuning techniques](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6117,9 +6054,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=10)** Think of your menu as a database.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=13)** Just like the customers want to find their favorite dishes quickly, database queries need to locate data efficiently.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=13)** Just like the customers want to find their favorite dishes quickly, [[Database Queries]] need to locate data efficiently.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=24)** Optimizing SQL queries in PostgreSQL involves various strategies to enhance the performance and ensure efficient data retrieval.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=24)** Optimizing [[SQL]] queries in [[PostgreSQL]] involves various strategies to enhance the performance and ensure efficient data retrieval.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=36)** Here are some key ways to optimize your SQL queries.
 >
@@ -6209,7 +6146,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=378)** Make it easier to understand and maintain.
 >
-> **[6:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=383)** Scalability.
+> **[6:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=383)** [[Scalability]].
 >
 > **[6:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=385)** The optimized query may scales better.
 >
@@ -6225,13 +6162,13 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=428)** In the next video, we are going to talk about the database security.
 >
-> **[7:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=434)** We'll also understand how we can do the user management.
+> **[7:14](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=434)** We'll also understand how we can do the [[User Management]].
 >
 > **[7:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=438)** See you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), [[SQL]] (2), [[Security]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Database Queries]] (1), [[PostgreSQL]] (1), [[Scalability]] (1), [[User Management]] (1)
 > **Env Vars:** cte (5), sql (2)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), just like (1), imagine (1)
@@ -6240,8 +6177,7 @@ created: 2026-05-02
 > **Best Practices:** avoid doing (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-indexes?u=76281980)
+#### [Challenge: Indexes](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6257,12 +6193,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-indexes?u=76281980)
+#### [Solution: Indexes](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6282,7 +6216,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** order_timestamp (4), order_idx (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -6292,16 +6225,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to database security
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980)
+#### [Introduction to database security](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=0)** - [Instructor] Imagine your PostgreSQL database as a secret vault where you store all your valuable information.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=0)** - [Instructor] Imagine your [[PostgreSQL]] database as a secret vault where you store all your valuable information.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=10)** Now just like you wouldn't want unauthorized people getting into your secret vault, you need to secure your PostgreSQL database to keep your data safe and sound.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=23)** Or you can also assume your SQL database is like a VIP club and each user is a guest.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=23)** Or you can also assume your [[SQL]] database is like a VIP club and each user is a guest.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=32)** You decide who gets an invitation.
 >
@@ -6335,7 +6267,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=159)** In the data world, availability ensures that your information is accessible when you need it.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=166)** For example, you want e-commerce website to always load swiftly so customer can purchase data without delays or maybe you want to ensure that this website is available 24 across seven.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=166)** For example, you want [[E-Commerce]] website to always load swiftly so customer can purchase data without delays or maybe you want to ensure that this website is available 24 across seven.
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=186)** Here are the benefits of the database security, protecting the sensitive information.
 >
@@ -6353,7 +6285,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=245)** However, there are people who is low into the hierarchy should not have an privilege to go and see the information or change the information.
 >
-> **[4:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=257)** Maintaining data integrity.
+> **[4:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=257)** Maintaining [[Data Integrity]].
 >
 > **[4:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980&t=260)** Database security safeguards against tampering, deletion or corruption, preserving the accurate information.
 >
@@ -6381,7 +6313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (15), [[Security]] (10), [[PostgreSQL]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[SQL]] (2), [[Data Integrity]] (2), [[E-Commerce]] (1)
 > **Analogies:** for example (4), imagine (3), just like (1)
 > **Env Vars:** sql (2), vip (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -6389,12 +6321,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding users and roles in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980)
+#### [Understanding users and roles in SQL](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=0)** - [Instructor] Users and roles are the key to controlling who gets in and what they can do in your SQL database.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=0)** - [Instructor] Users and roles are the key to controlling who gets in and what they can do in your [[SQL]] database.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=9)** Imagine users are like individual employees, each with a unique digital identity, such as user IDs, your employee IDs like that.
 >
@@ -6432,7 +6363,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=152)** The granular access control.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=155)** If you have users and roles, then you can have a very granular level of access to the databases.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=155)** If you have users and roles, then you can have a very granular level of access to the [[Databases]].
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=163)** You can give a very specific permission to a specific user, what he can do and what he cannot.
 >
@@ -6446,7 +6377,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=206)** Simplified user administration.
 >
-> **[3:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=209)** User and roles make it easy to add new user or change access for a group, keeping user management pretty straightforward.
+> **[3:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=209)** User and roles make it easy to add new user or change access for a group, keeping [[User Management]] pretty straightforward.
 >
 > **[3:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-users-and-roles-in-sql?u=76281980&t=220)** It also helps to enhance the security.
 >
@@ -6472,7 +6403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[SQL]] (4), [[Security]] (3), management (2), data (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1), [[User Management]] (1)
 > **Analogies:** for example (3), imagine (2), such as (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
@@ -6480,12 +6411,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating users and assigning roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980)
+#### [Creating users and assigning roles](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=0)** - [Lecturer] In SQL, creating a user is essentially about creating a new role with login capabilities.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=0)** - [Lecturer] In [[SQL]], creating a user is essentially about creating a new role with login capabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=8)** There are several ways to create users depending upon the specific need such as the privileges and the access control you want to assign.
 >
@@ -6525,7 +6455,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=133)** We can create the role something like this.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=137)** We can say create role John, and we can say it has a login capability by saying with login.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=137)** We can say create role [[John the Ripper|John]], and we can say it has a login capability by saying with login.
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/creating-users-and-assigning-roles?u=76281980&t=148)** We also assign a one password to it, just a default password, and we can say that this will be a user who has all the access.
 >
@@ -6619,21 +6549,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (2), [[Security]] (1), parallel (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[John the Ripper|John]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Granting and revoking permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980)
+#### [Granting and revoking permissions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=0)** - [Instructor] Granting permissions are like giving keys to specific doors in a building while revoking the permissions is like taking back the keys from someone who no longer needs access.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=15)** In SQL, permissions control what action users or role can perform on specific database objects.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=15)** In [[SQL]], permissions control what action users or role can perform on specific database objects.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=25)** There are multiple types of permissions available in the SQL world.
 >
@@ -6699,7 +6628,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=209)** So I say customer and then I say two and then I have to give the role name.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=216)** For example, I want to give this permission to John1, so I will say, grant select on customer to John one.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=216)** For example, I want to give this permission to John1, so I will say, grant select on customer to [[John the Ripper|John]] one.
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/granting-and-revoking-permissions?u=76281980&t=226)** Now you can see that the select permission has been granted to user John1 on customer table.
 >
@@ -6789,7 +6718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (9), [[SQL]] (4)
 > **Analogies:** for example (3), such as (1), imagine (1), it's like (1), just like (1)
 > **Env Vars:** sql (4)
 > **Cross-References:** go back to (1), previous video (1), in the next (1)
@@ -6798,14 +6727,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using roles for permission management
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980)
+#### [Using roles for permission management](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=0)** - [Instructor] Rules in SQL are powerful entities that combine the concept of user accounts and groups from traditional database systems.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=0)** - [Instructor] Rules in [[SQL]] are powerful entities that combine the concept of user accounts and groups from traditional [[Database Systems]].
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=11)** They are pivotal in managing permissions efficiently, especially in complex databases like an e-commerce store.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=11)** They are pivotal in managing permissions efficiently, especially in complex [[Databases]] like an [[E-Commerce]] store.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=22)** Let's understand how we can create these rules.
 >
@@ -6867,7 +6795,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=228)** Now, let's say if you hire a new admins, you can assign them the role as an admins, so automatically all those employee will get these privileges.
 >
-> **[3:59](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=239)** The basic advantage of having these kind of a role management is it gives you this scalability.
+> **[3:59](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=239)** The basic advantage of having these kind of a role management is it gives you this [[Scalability]].
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/using-roles-for-permission-management?u=76281980&t=247)** It makes the things easier to manage even you have a large team.
 >
@@ -6909,7 +6837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[SQL]] (2), database (2), [[E-Commerce]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[E-Commerce]] (2), [[Scalability]] (2), [[Database Systems]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -6917,12 +6845,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for managing roles and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980)
+#### [Best practices for managing roles and permissions](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=0)** - Managing rules and permission in SQL, or any database system, is critical for ensuring database security, maintaining efficient access control, and ensuring that user have the appropriate level of access needed for their task.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=0)** - Managing rules and permission in [[SQL]], or any database system, is critical for ensuring database security, maintaining efficient access control, and ensuring that user have the appropriate level of access needed for their task.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=20)** Here are some detailed best practices for managing roles and permissions.
 >
@@ -7000,7 +6927,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=315)** You don't want everyone to have the full access.
 >
-> **[5:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=319)** This could have a significant security risk.
+> **[5:19](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=319)** This could have a significant [[Security Risk]].
 >
 > **[5:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/best-practices-for-managing-roles-and-permissions?u=76281980&t=324)** Utilize application-specific roles.
 >
@@ -7028,7 +6955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (9), product (4), [[SQL]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Security Risk]] (1)
 > **Env Vars:** sql (3), noinherit (2), pii (1)
 > **Best Practices:** best practice (4)
 > **Analogies:** for example (2), imagine (1)
@@ -7037,8 +6964,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - managing (1)
 
-#### Challenge: Create a role
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-create-role?u=76281980)
+#### [Challenge: Create a role](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/challenge-create-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7052,12 +6978,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bubbly electronic music) (1)
 
-#### Solution: Create a role
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-create-role?u=76281980)
+#### [Solution: Create a role](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/solution-create-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7077,7 +7001,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -7086,14 +7009,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding SQL syntax errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980)
+#### [Understanding SQL syntax errors](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=0)** - [Instructor] Assume you are instructing a chef to prepare a complex recipe and you need to provide step-by-step instructions.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=10)** SQL syntax error can be exactly similar to a kind of having a miscommunication or mistake in those instructions that results in confusion or inability to carry out the cooking process correctly.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=10)** [[SQL]] syntax error can be exactly similar to a kind of having a miscommunication or mistake in those instructions that results in confusion or inability to carry out the cooking process correctly.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=29)** Similarly, understanding SQL syntax error is crucial for anyone working with the database as these are the common mistakes or issues, which arises when you write and execute SQL queries.
 >
@@ -7195,7 +7117,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=352)** The first important thing, which you can do is seeing the error message.
 >
-> **[5:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=357)** Most of the time, SQL databases system provides you a detailed error message that you can see and that gives you the clue about where and what the syntax error problem it could be.
+> **[5:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=357)** Most of the time, SQL [[Databases]] system provides you a detailed error message that you can see and that gives you the clue about where and what the syntax error problem it could be.
 >
 > **[6:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=372)** For example, now here, if you see this error, what this error is saying?
 >
@@ -7245,7 +7167,7 @@ created: 2026-05-02
 >
 > **[9:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=547)** And lastly, you can have a syntax reference from the database itself.
 >
-> **[9:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=552)** So maybe let's say you are using PostgreSQL.
+> **[9:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=552)** So maybe let's say you are using [[PostgreSQL]].
 >
 > **[9:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980&t=557)** You can have the PostgreSQL documentation with you to verify the syntax.
 >
@@ -7253,7 +7175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (22), data (5), database (2), [[PostgreSQL]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (22), [[PostgreSQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (22), varchar (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (3)
@@ -7262,12 +7184,11 @@ created: 2026-05-02
 > **SQL:** varchar (2)
 > **Documentation:** the documentation (1)
 
-#### Logical errors in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980)
+#### [Logical errors in SQL](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=0)** - [Instructor] Logical error in SQL are mistakes that happen when your instruction to the database don't achieve what you intended.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=0)** - [Instructor] Logical error in [[SQL]] are mistakes that happen when your instruction to the database don't achieve what you intended.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=10)** It's like telling someone to make a sandwich, but instead of putting the peanut butter and jelly together, they put peanut butter and the mayonnaise.
 >
@@ -7323,7 +7244,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=245)** So if you have done any of the condition based on the NULL, you need to ensure that you are using proper NULL handling, like using IS NULL, IS NOT NULL, or the functions like COALESCE or NVL.
 >
-> **[4:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=262)** Assuming data integrity without considering the impact of the constraint, like foreign key, unique key, or some constraint, can also lead to the problem of logical errors.
+> **[4:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=262)** Assuming [[Data Integrity]] without considering the impact of the constraint, like foreign key, unique key, or some constraint, can also lead to the problem of logical errors.
 >
 > **[4:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/logical-errors-in-sql?u=76281980&t=277)** So you need to ensure that whatever be the primary key, foreign key, or unique key that you are assuming is exactly like that as per the schema also.
 >
@@ -7373,7 +7294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (7), database (2), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Data Integrity]] (1)
 > **Env Vars:** null (10), sql (8), join (4), group (4), where (4)
 > **SQL:** group by (4), where (4), join (3), having (3), left join (1)
 > **CLI Commands:** make (2), find (1)
@@ -7382,12 +7303,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Best Practices:** best practice (1)
 
-#### Debugging NULL values
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980)
+#### [Debugging NULL values](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=0)** - [INstructor] Debugging null values in SQL is a crucial aspect of database management.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=0)** - [INstructor] Debugging null values in [[SQL]] is a crucial aspect of [[Database Management]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=7)** It is important because null represent the absence of a value in a column.
 >
@@ -7399,7 +7319,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=35)** Let's go back to over PG admin and see how we can handle the null values.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=42)** Let's say I want to find out all the products for which the price is null.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=42)** Let's say I want to find out all the [[Microsoft Products|products]] for which the price is null.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/debugging-null-values?u=76281980&t=49)** If I say something like that, select start from products where price equal to null and I do this.
 >
@@ -7495,7 +7415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Debugging]] (3), data (3), [[Microsoft Products|Products]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Products|Products]] (2), [[Database Management]] (1)
 > **Env Vars:** sql (4), coalesce (3), nullif (1)
 > **Analogies:** for example (3), just like (1), for instance (1)
 > **CLI Commands:** find (1), make (1)
@@ -7504,12 +7424,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical example: Debugging real SQL issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980)
+#### [Practical example: Debugging real SQL issues](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=0)** - [Instructor] Let's walk through a practical example of debugging a real SQL issue using our e-commerce database.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=0)** - [Instructor] Let's walk through a practical example of debugging a real [[SQL]] issue using our [[E-Commerce]] database.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=9)** Let's just move to our pgAdmin.
 >
@@ -7577,7 +7496,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=195)** So do the same thing here again.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=197)** This time we'll say select * from our products table, and we have to check where the price is null.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=197)** This time we'll say select * from our [[Microsoft Products|products]] table, and we have to check where the price is null.
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/practical-example-debugging-real-sql-issues?u=76281980&t=209)** Now, when you execute this, you will find that there are two product IDs, ID one, and ID four, which is coming out as null.
 >
@@ -7629,7 +7548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[SQL]] (4), [[Microsoft Products|Products]] (2), next (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **Env Vars:** sql (4), sum (2), join (2), group (1), etl (1)
 > **Code Identifiers:** product_id (4), total_quantity (3), pgadmin (1), order_month (1)
 > **CLI Commands:** find (3)
@@ -7643,18 +7562,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ETL and its importance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980)
+#### [What is ETL and its importance](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=0)** - [Lecturer] ETL stands for extract, transform, and load.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=5)** This concept is at the heart of data warehousing, business intelligence and data integration strategies across the industries.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=5)** This concept is at the heart of [[Data Warehousing]], [[Business Intelligence (BI)|business intelligence]] and [[Data Integration]] strategies across the industries.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=15)** Today let's explore what ETL is and why it's crucial and how it empowers businesses to make informed decisions.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=27)** ETL is a three step process used in the database management systems and data warehousing world.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=27)** ETL is a three step process used in the [[Database Management]] systems and data warehousing world.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=37)** Let's understand each one of them.
 >
@@ -7666,7 +7584,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=51)** It could be CRM system.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=53)** It could be CSV file, JSON file.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=53)** It could be CSV file, [[JSON]] file.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=57)** It could be SFTP.
 >
@@ -7690,17 +7608,17 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=138)** So the idea is you pull the data from your data sources.
 >
-> **[2:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=143)** That could be generally your old TP databases or CRM system or those kind of different sources.
+> **[2:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=143)** That could be generally your old TP [[Databases]] or CRM system or those kind of different sources.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=151)** You extract, you transform, and then you load it into data warehousing, all the OLAP systems.
 >
-> **[2:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=161)** And later on, the data analyst, your BI team or your SQL analyst folks will query this data warehouse to get some meaningful information.
+> **[2:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=161)** And later on, the data analyst, your BI team or your [[SQL]] analyst folks will query this data warehouse to get some meaningful information.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=177)** Let's understand the importance of the ETL process.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=182)** ETL is more than just a data processing pipeline.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=182)** ETL is more than just a [[Data Processing]] pipeline.
 >
-> **[3:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=187)** It is a foundational component for effective data management.
+> **[3:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=187)** It is a foundational component for effective [[Data Management]].
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=193)** It is important for data consolidation.
 >
@@ -7708,7 +7626,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=208)** This helps you to form a unified view, which is sometimes very important when you are doing the comprehensive analysis and reporting.
 >
-> **[3:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=220)** ETL is important to improve the data quality as well.
+> **[3:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=220)** ETL is important to improve the [[Data Quality]] as well.
 >
 > **[3:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=225)** The transformational step in the ETL world try to make your data more cleaner and more meaningful to the business.
 >
@@ -7726,7 +7644,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=280)** This process enables businesses to store historical data very efficiently.
 >
-> **[4:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=288)** This is historical perspective is important when you are doing some kind of a trend analysis or forecasting or you might be doing some strategic planning.
+> **[4:48](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=288)** This is historical perspective is important when you are doing some kind of a trend analysis or [[Forecasting]] or you might be doing some strategic planning.
 >
 > **[5:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980&t=302)** ETL process are common across multiple industries.
 >
@@ -7748,15 +7666,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), etl (19), business (5), management (3), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Warehousing]] (4), [[Data Management]] (2), [[Data Quality]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Integration]] (1)
 > **Env Vars:** etl (19), crm (2), rdbms (1), csv (1), json (1)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [lecturer] (1)
 
-#### ETL process flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980)
+#### [ETL process flow](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7774,7 +7691,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=23)** These data sources could be of any type, and it could be of any format.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=29)** For example, the data could be the relational data from the RDBMS databases or the data source could be something like a file type, where the data might be in CSV, JSON, Parquet or any other file format.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=29)** For example, the data could be the relational data from the RDBMS [[Databases]] or the data source could be something like a file type, where the data might be in CSV, [[JSON]], Parquet or any other file format.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=47)** The primary goal here is to accurately and efficiently extract the required data without compromising its integrity.
 >
@@ -7822,7 +7739,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=229)** Now, when you try to do this loading of data into the target data source, it could also be of a variety type.
 >
-> **[3:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=237)** It could also be of a batch loading, or it could be kind of a real-time loading.
+> **[3:57](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=237)** It could also be of a batch loading, or it could be kind of a [[Real-Time]] loading.
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/etl-process-flow?u=76281980&t=244)** The batch loading is where data is loaded in a batches at a scheduled intervals.
 >
@@ -7848,7 +7765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), etl (6), business (3), [[Real-Time]] (3), next (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Databases]] (1), [[JSON]] (1)
 > **Env Vars:** etl (6), rdbms (1), csv (1), json (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -7856,8 +7773,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Common ETL tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980)
+#### [Common ETL tools](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7869,7 +7785,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=26)** It helps to extract data from variety of sources, helps to transforming it according to the business tools and requirement and helps to loading it into a destination, like a data warehouse for analysis.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=46)** The choice of a ETL tools can significantly impact the efficiency of your data operations, the scalability of data process, and ultimately the insights which you can derive from the data.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=46)** The choice of a ETL tools can significantly impact the efficiency of your data operations, the [[Scalability]] of data process, and ultimately the insights which you can derive from the data.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=62)** If you talk there are broadly, ETL tools can be divided into three categories.
 >
@@ -7877,7 +7793,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=72)** Now, as the name suggests, these are the little older ones and mostly works at on premises environment.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=80)** These are something which is installed and run on your organization hardware.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=80)** These are something which is installed and run on your organization [[Hardware]].
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=87)** They offer some robust features but may require some significant upfront investment and maintenance.
 >
@@ -7903,7 +7819,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=188)** The most important thing you need in your ETL tool is the connectivity option available for your choice of data sources.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=197)** For example, if you are trying to move the data from Dynamic 365 or SQL server and you try to store the data into Azure Data Lake storage, or maybe you want to store this data in some SFTP server or FTP server, ideally you should choose an ETL tool which provides the connectivity to all these source and destination data source.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=197)** For example, if you are trying to move the data from Dynamic 365 or [[Microsoft SQL Server|SQL server]] and you try to store the data into [[Microsoft Azure|Azure]] Data Lake storage, or maybe you want to store this data in some SFTP server or FTP server, ideally you should choose an ETL tool which provides the connectivity to all these source and destination data source.
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=226)** Another important feature you probably need is transformation capability.
 >
@@ -7917,7 +7833,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=274)** As your data size grows, this ETL tool should be smart enough to handle that huge load and still performs better.
 >
-> **[4:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=285)** Data quality feature is also the something which you should look for because you have to manage your data quality.
+> **[4:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=285)** [[Data Quality]] feature is also the something which you should look for because you have to manage your data quality.
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=293)** And if you have a ETL tool which support this along with the monitoring and logging, that will make your life much easier.
 >
@@ -7925,7 +7841,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=309)** The first one is Informatica PowerCenter.
 >
-> **[5:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=313)** Informatica PowerCenter is a robust traditional ETL tool, which is known for its extensive features and it is very popular for strong data integration capabilities.
+> **[5:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=313)** Informatica PowerCenter is a robust traditional ETL tool, which is known for its extensive features and it is very popular for strong [[Data Integration]] capabilities.
 >
 > **[5:28](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=328)** Another tool is Talend.
 >
@@ -7935,13 +7851,13 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=345)** AWS Glue, this is fully managed, cloud-based ETL service that makes it easy to prepare and load data for analytics.
 >
-> **[5:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=356)** Similar to the AWS Glue, you also have an Azure Data Factory ETL tool, which is coming from the Microsoft Azure Cloud.
+> **[5:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=356)** Similar to the AWS Glue, you also have an Azure Data Factory ETL tool, which is coming from the [[Microsoft Azure]] Cloud.
 >
 > **[6:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=367)** This is also a fully managed cloud-based ETL service and it has a very smooth integration with lots of data sources and Azure ecosystem.
 >
-> **[6:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=378)** In the Google Cloud, you have the Google Cloud Dataflow ETL service.
+> **[6:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=378)** In the [[Google Cloud Platform (GCP)|Google Cloud]], you have the Google Cloud Dataflow ETL service.
 >
-> **[6:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=383)** It is also a type of cloud service, which is managed service for stream and batch processing.
+> **[6:23](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=383)** It is also a type of cloud service, which is managed service for stream and [[Batch Processing]].
 >
 > **[6:31](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/common-etl-tools?u=76281980&t=391)** This seamlessly integrate with all the variety of Google Cloud services and ecosystem.
 >
@@ -7959,7 +7875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), etl (28), cloud (8), feature (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Microsoft Azure|Azure]] (3), [[Data Quality]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Hardware]] (1)
 > **Env Vars:** etl (28), aws (2), sql (1), sftp (1), ftp (1)
 > **CLI Commands:** aws (2), make (1), apache (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -7971,8 +7887,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project: Insurance claims analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980)
+#### [Final project: Insurance claims analysis](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7984,7 +7899,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980&t=13)** Now let's understand what are the objectives of this project?
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980&t=18)** The main objective of these projects are creating database schema for our insurance data, populating the databases with sample insurance data, analyzing the claim data for insights, creating index for better performance, and setting up rules and permission for database security.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980&t=18)** The main objective of these projects are creating database schema for our insurance data, populating the [[Databases]] with sample insurance data, analyzing the claim data for insights, creating index for better performance, and setting up rules and permission for database security.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980&t=41)** Now let's understand our each and every task in more detail.
 >
@@ -8020,14 +7935,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (3), [[Databases]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **SQL:** where (1)
 > **Env Vars:** where (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final project solution: Insurance claims analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-solution-insurance-claims-analysis?u=76281980)
+#### [Final project solution: Insurance claims analysis](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-solution-insurance-claims-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8271,7 +8185,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), next (3), [[Security]] (1)
 > **Env Vars:** insert (5), create (3), into (2), group (2), role (2)
 > **SQL:** insert into (2), group by (2), select (2), varchar (1), order by (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -8285,14 +8198,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=0)** - [Instructor] And that's a wrap.
 >
-> **[0:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=2)** You have done a solid job picking up SQL for data engineering.
+> **[0:02](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=2)** You have done a solid job picking up [[SQL]] for [[Data Engineering]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=7)** Remember, we have just dipped our toes into the vast ocean of data.
 >
@@ -8300,9 +8212,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=18)** I urge you to keep pushing, keep learning.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=22)** And why not jump into my next live course which is "Mission 100 Azure Data Engineer."
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=22)** And why not jump into my next live course which is "Mission 100 [[Microsoft Azure|Azure]] Data Engineer."
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=29)** You will find all the details about this on my LinkedIn page.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=29)** You will find all the details about this on my [[LinkedIn]] page.
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980&t=34)** Once again, I'm Deepak Goyal, and teaching you SQL for data engineering has been a real privilege and joy for me.
 >
@@ -8310,7 +8222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Data Engineering]] (2), data (2), next (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Engineering]] (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

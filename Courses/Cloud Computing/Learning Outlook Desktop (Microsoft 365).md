@@ -73,20 +73,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay organized and collaborate with Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
+#### [Stay organized and collaborate with Outlook](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=0)** - Do you need to learn how to use Microsoft Outlook quickly?
+> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=0)** - Do you need to learn how to use [[Microsoft Outlook]] quickly?
 >
-> **[0:03](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=3)** Maybe you're a beginner, or perhaps you used Outlook before, but did you just go from a job that was using Gmail and now you need a quick refresher?
+> **[0:03](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=3)** Maybe you're a beginner, or perhaps you used [[Microsoft Outlook|Outlook]] before, but did you just go from a job that was using Gmail and now you need a quick refresher?
 >
 > **[0:11](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=11)** I've got you covered.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=13)** One last question: do you have a lunch break coming up?
 >
-> **[0:16](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=16)** In my LinkedIn Learning course, I can get you through reading and organizing emails, composing, replying, working with attachments and contacts and using the calendar, and creating meetings.
+> **[0:16](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=16)** In my [[LinkedIn]] Learning course, I can get you through reading and organizing emails, composing, replying, working with attachments and contacts and using the calendar, and creating meetings.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980&t=27)** My name is Jess Stratton, and I'm here to tell you that it's okay.
 >
@@ -98,18 +97,17 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - do (1)
 
-#### What can you do with Outlook?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980)
+#### [What can you do with Outlook?](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=0)** - [Instructor] Outlook is a complete personal and professional organizer.
+> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] is a complete personal and professional organizer.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=4)** It's part of the Microsoft Office Suite.
+> **[0:04](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=4)** It's part of the [[Microsoft Office]] Suite.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=7)** You can add multiple email addresses that you have.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=10)** In this case, I have a Microsoft 365 account that I've added and I also have a Gmail account down here.
+> **[0:10](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=10)** In this case, I have a [[Microsoft 365]] account that I've added and I also have a Gmail account down here.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/what-can-you-do-with-outlook?u=76281980&t=16)** I can switch back and forth between both accounts very easily.
 >
@@ -151,14 +149,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add an email account
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
+#### [Add an email account](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=0)** - [Instructor] I already have an email account in Outlook, but let's add another one.
+> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=0)** - [Instructor] I already have an email account in [[Microsoft Outlook|Outlook]], but let's add another one.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=4)** Here is my Office 365 account, but I'd like to add my Gmail account.
+> **[0:04](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=4)** Here is my [[Microsoft Office|Office]] 365 account, but I'd like to add my Gmail account.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=9)** You can add multiple accounts to Outlook.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=72)** Outlook is going to try to determine the mail settings.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=75)** Now, I previously added my Gmail account to Outlook before so I didn't have to put the password in again, but most likely you'll be prompted for the password and you may also be prompted by Google to give Outlook permission to access your Gmail account.
+> **[1:15](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=75)** Now, I previously added my Gmail account to Outlook before so I didn't have to put the password in again, but most likely you'll be prompted for the password and you may also be prompted by [[Google]] to give Outlook permission to access your Gmail account.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980&t=91)** In that case, you would have to click "allow."
 >
@@ -196,17 +193,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft Office|Office]] (1), prompt (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (instructor typing on keyboard) (1)
 
-#### Navigate the interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980)
+#### [Navigate the interface](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=0)** - [Instructor] Let's go over how to navigate Microsoft Outlook so that you can become more familiar with it throughout this course.
+> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=0)** - [Instructor] Let's go over how to navigate [[Microsoft Outlook]] so that you can become more familiar with it throughout this course.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=6)** At the very top of the screen is the ribbon.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=20)** For example, we're in Mail right now, but if I click on Calendar, we would have completely different tabs here with completely different options.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=28)** If I click File on the top left-hand side, this is where I can get into my Outlook options, such as customizing Outlook, and adding an additional email account.
+> **[0:28](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=28)** If I click File on the top left-hand side, this is where I can get into my [[Microsoft Outlook|Outlook]] options, such as customizing Outlook, and adding an additional email account.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=40)** I'll click the arrow on the top left-hand side of the screen to go back.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=197)** Outlook puts all the mail considers important in this Focused tab.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=203)** Clicking the other tab will bring me to the rest of my mail such as social media updates and newsletters.
+> **[3:23](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=203)** Clicking the other tab will bring me to the [[Representational State Transfer (REST)|rest]] of my mail such as social media updates and [[Newsletters]].
 >
 > **[3:30](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-interface?u=76281980&t=210)** On the right hand side of my mail is the body text.
 >
@@ -320,8 +316,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read your mail
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
+#### [Read your mail](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,11 +338,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=50)** That's because of the focused inbox system.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=53)** Microsoft will put all of your important mail in this tabbed focused inbox.
+> **[0:53](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=53)** [[Microsoft]] will put all of your important mail in this tabbed focused inbox.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=58)** Everything else goes in the other folder.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=61)** That is social media updates, newsletters, potential junk mail, things like that.
+> **[1:01](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=61)** That is social media updates, [[Newsletters]], potential junk mail, things like that.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=67)** Here's the message, and I can click on it to read it.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=75)** You may find that while you're reading messages, some of the images appear broken.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=80)** At the top of the screen, I can read that Outlook has prevented automatic downloading of some of the pictures in this message.
+> **[1:20](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=80)** At the top of the screen, I can read that [[Microsoft Outlook|Outlook]] has prevented automatic downloading of some of the pictures in this message.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980&t=88)** Click on that message, and you can either choose to add the sender to the safe sender's list, meaning your messages will always be downloaded correctly from that sender, or you can do it on a one-time basis, if you trust the contents of the email, by clicking download pictures.
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft]] (1), [[Newsletters]] (1), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Newsletters]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -398,8 +393,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize your mail
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/organize-your-mail?u=76281980)
+#### [Organize your mail](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/organize-your-mail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,11 +497,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/organize-your-mail?u=76281980&t=278)** I'll go back to my inbox.
 >
-> **[4:40](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/organize-your-mail?u=76281980&t=280)** So remember, and you might want to add this to your notebook in LinkedIn Learning so that you can remember it later, the three Fs for organizing: follow up, filtering, and filing.
+> **[4:40](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/organize-your-mail?u=76281980&t=280)** So remember, and you might want to add this to your notebook in [[LinkedIn]] Learning so that you can remember it later, the three Fs for organizing: follow up, filtering, and filing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Search]] (2), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (7), select the (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -515,18 +509,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search your mail
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980)
+#### [Search your mail](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=0)** - [Instructor] If you have a large inbox with Outlook, it's very easy to search to find what you're looking for.
+> **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=0)** - [Instructor] If you have a large inbox with [[Microsoft Outlook|Outlook]], it's very easy to search to find what you're looking for.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=6)** The easiest and quickest way to get started is to click your mouse right at the top of the screen where it says Search.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=13)** You'll notice that when you put your cursor in there, a dialogue box pops up with some recent searches that you may have made, people whose emails you might like to see, some recently used actions, if you've typed anything in there before, and some suggested actions.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=27)** For example, you can filter your email right from here but I'm going to get started by simply putting in a word that I'm looking for.
+> **[0:27](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=27)** For example, you can filter your email right from here but I'm going to get started by simply putting in a [[Microsoft Word|word]] that I'm looking for.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=36)** In this case, Jenny.
 >
@@ -570,14 +563,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Microsoft Word|Word]] (3), hit (3), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create, reply to, and forward an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980)
+#### [Create, reply to, and forward an email](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +643,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980&t=212)** You can also attach a file to an email from the ribbon tab.
 >
-> **[3:35](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980&t=215)** Look for the paperclip icon, click the down arrow, and from here you can choose from recent items that you've accessed, you can browse web location, such as OneDrive, and you can also browse this PC to choose a file directly from your PC.
+> **[3:35](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980&t=215)** Look for the paperclip icon, click the down arrow, and from here you can choose from recent items that you've accessed, you can browse web location, such as [[Microsoft OneDrive|OneDrive]], and you can also browse this PC to choose a file directly from your PC.
 >
 > **[3:51](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-reply-to-and-forward-an-email?u=76281980&t=231)** In this case, I'll choose something from OneDrive.
 >
@@ -663,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (1), hit (1), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** bcc (2)
 > **UI Navigation:** click on (2)
@@ -671,8 +663,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980)
+#### [Work with attachments](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,9 +687,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=48)** If instead of saving them to your computer you'd rather save them in the cloud, you can choose upload.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=54)** Because I've signed in to my Microsoft 365 account it's automatically connected me to my OneDrive account.
+> **[0:54](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=54)** Because I've signed in to my [[Microsoft 365]] account it's automatically connected me to my [[Microsoft OneDrive|OneDrive]] account.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=60)** You also may have a SharePoint site listed here too and just like saving them, if you want to save them and upload them all at the same time you can click, upload all attachments.
+> **[1:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=60)** You also may have a [[SharePoint]] site listed here too and just like saving them, if you want to save them and upload them all at the same time you can click, upload all attachments.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=72)** In this case, I'll just choose one.
 >
@@ -746,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), cloud (2), [[Microsoft 365]] (2), [[SharePoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft 365]] (2), [[SharePoint]] (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -757,8 +748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
+#### [Create a new contact](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980&t=99)** In the pop-up box that appears.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980&t=101)** Click the three dots and from here, click add to Outlook Contacts.
+> **[1:41](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980&t=101)** Click the three dots and from here, click add to [[Microsoft Outlook|Outlook]] Contacts.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980&t=109)** It's going to create the same contact card.
 >
@@ -837,8 +827,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a contact group
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980)
+#### [Create a contact group](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980&t=33)** There's three choices here.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980&t=35)** We can choose to add somebody who's already in our Outlook contacts, that is the contacts that we created in the previous video.
+> **[0:35](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980&t=35)** We can choose to add somebody who's already in our [[Microsoft Outlook|Outlook]] contacts, that is the contacts that we created in the previous video.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-contact-group?u=76281980&t=43)** We can also choose contacts from our company address book or a new email contact, somebody that's not currently in any contact list.
 >
@@ -914,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), next (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **UI Navigation:** click on (5)
 > **Cross-References:** previous video (1), go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -924,8 +913,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate the calendar
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
+#### [Navigate the calendar](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980&t=57)** And now I'm going to go all the way over to the left-hand side of the screen and show you that you can show and hide any calendar that you've added by placing check marks beside them.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980&t=69)** In my more detailed "Outlook Essential Training" course, I do go into great detail as to how you can add additional calendars and share them out.
+> **[1:09](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980&t=69)** In my more detailed "[[Microsoft Outlook|Outlook]] Essential Training" course, I do go into great detail as to how you can add additional calendars and share them out.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980&t=78)** So if you do want to learn how to work with them, I suggest watching that entire course.
 >
@@ -998,8 +986,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an appointment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-an-appointment?u=76281980)
+#### [Create an appointment](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-an-appointment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1070,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1)
@@ -1091,8 +1077,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980)
+#### [Create a meeting](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1133,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980&t=173)** If I look down at the bottom of the screen, I can see that this gray bar means it's outside of Devin's working hours.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980&t=179)** This is a little close to when he's scheduled to come back to the office so I can move this to a time when everybody's available with no problems.
+> **[2:59](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980&t=179)** This is a little close to when he's scheduled to come back to the [[Microsoft Office|office]] so I can move this to a time when everybody's available with no problems.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-meeting?u=76281980&t=187)** I can take the bar and click and drag it to a different time slot.
 >
@@ -1188,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** just like (2), such as (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -1196,8 +1181,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to a meeting invitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980)
+#### [Respond to a meeting invitation](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,7 +1225,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980&t=103)** Here I can see the subject, it's an invitation to a weekly one-on-one check-in.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980&t=108)** Outlook has also given me a mini calendar, so I can see where this falls directly on my schedule for the day.
+> **[1:48](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980&t=108)** [[Microsoft Outlook|Outlook]] has also given me a mini calendar, so I can see where this falls directly on my schedule for the day.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/respond-to-a-meeting-invitation?u=76281980&t=115)** In fact, I can scroll up and down and see my entire day.
 >
@@ -1273,24 +1257,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more features of Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)
+#### [Learn more features of Outlook](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=0)** - My name is Jess Stratton and I hope you're able to take what you learned and get started at your job right away.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=6)** If you find that you have some extra time and want to go in depth, Outlook is so powerful and can do a lot more than I covered.
+> **[0:06](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=6)** If you find that you have some extra time and want to go in depth, [[Microsoft Outlook|Outlook]] is so powerful and can do a lot more than I covered.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=13)** You can watch some of my other courses on Outlook, such as the full length "Outlook Essential Training."
 >
-> **[0:19](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=19)** I have one for both Windows and Mac.
+> **[0:19](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=19)** I have one for both [[Windows]] and Mac.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=22)** I go into detail for mail rules in "Outlook: Automating Your Email with Mail Rules" and calendars in "Outlook: Working with Multiple Calendars."
 >
 > **[0:31](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=31)** This is useful if you do a lot of scheduling.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=33)** I even briefly cover the mobile version of Outlook in "Office for iPad and iPhone Essential Training."
+> **[0:33](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=33)** I even briefly cover the mobile version of Outlook in "[[Microsoft Office|Office]] for iPad and iPhone Essential Training."
 >
 > **[0:39](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980&t=39)** If you have any questions or comments you can find me on Twitter, @NerdGirlJess.
 

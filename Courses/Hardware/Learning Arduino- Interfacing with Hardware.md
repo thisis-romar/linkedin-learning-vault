@@ -97,27 +97,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open up your digital world with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980)
+#### [Open up your digital world with Arduino](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980&t=0)** - When you learn about Arduino, 2 you may want to bring your Arduino projects 3 to the next level by connecting different hardware, 4 displays, and interactive interfaces. 5 In this course, I'll show you how 6 to connect the Arduino board 7 to three common hardware components, 8 LCD screen, seven-segment LED, and a keypad. 9 I'll explore each component separately 10 and go through the wiring and the coding 11 to get them working, like displaying randomized numbers, 12 looping through an LED pattern, 13 and accepting input from the keypad. 14 At the end, we'll combine the three components together, 15 where we apply all the knowledge learned within the course. 16 I'm Zara Khalil, I am an engineering instructor, 17 and I enjoy teaching courses covering engineering topics, 18
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980&t=0)** - When you learn about [[Arduino]], 2 you may want to bring your Arduino projects 3 to the next level by connecting different [[Hardware]], 4 displays, and interactive interfaces. 5 In this course, I'll show you how 6 to connect the Arduino board 7 to three common hardware components, 8 LCD screen, seven-segment LED, and a keypad. 9 I'll explore each component separately 10 and go through the wiring and the coding 11 to get them working, like displaying randomized numbers, 12 looping through an LED pattern, 13 and accepting input from the keypad. 14 At the end, we'll combine the three components together, 15 where we apply all the knowledge learned within the course. 16 I'm Zara Khalil, I am an engineering instructor, 17 and I enjoy teaching courses covering engineering topics, 18
 >
 > **[0:50](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980&t=50)** so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2), [[Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2)
 > **Env Vars:** led (2), lcd (1)
 > **Speakers:** - when (1)
 
-#### What you should know before watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980)
+#### [What you should know before watching](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be a little familiar with how Arduino works, using the digital I/O pins, and the basics commands, like, for example, programming a simple LED output.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be a little familiar with how [[Arduino]] works, using the digital I/O pins, and the basics commands, like, for example, programming a simple LED output.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=12)** I'm going to use an Arduino MEGA 2560 board, but you can use any other board that you have.
 >
@@ -127,9 +125,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=28)** You can check out the Learning Arduino course in the library to get you prepared for this course if needed.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=34)** I'll cover the wiring needed for this course, but if you'd like a refresher on hardware components throughout this course, I would recommend referring to the [[Electronics Foundations- Fundamentals]].
+> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=34)** I'll cover the wiring needed for this course, but if you'd like a refresher on [[Hardware]] components throughout this course, I would recommend referring to the [[[[Electronics]] Foundations- Fundamentals]].
 >
-> **[0:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=45)** During this course, I'll cover some programming concepts like for loops, if statements, and arrays.
+> **[0:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=45)** During this course, I'll cover some [[Programming Concepts]] like for loops, if statements, and arrays.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=51)** I'll go briefly through each one as we do the coding.
 >
@@ -137,15 +135,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (2), [[Troubleshooting]] (1), [[Hardware]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Hardware]] (1), [[Electronics]] (1), [[Programming Concepts]] (1)
 > **Env Vars:** led (1), mega (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The devices used
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980)
+#### [The devices used](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980&t=30)** Connecting wires.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980&t=34)** And finally, the Arduino Board.
+> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980&t=34)** And finally, the [[Arduino]] Board.
 
 > [!info]- Semantic Content
 >
@@ -176,14 +173,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the liquid crystal display (LCD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980)
+#### [Introduction to the liquid crystal display (LCD)](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=0)** - [Instructor] LCD stands for liquid-crystal display.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=4)** LCD is one of the components that can be used with Arduino board to show text or graphics.
+> **[0:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=4)** LCD is one of the components that can be used with [[Arduino]] board to show text or graphics.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=11)** The principle behind LCD is to energize a series of crystals to appear either opaque or transparent against a lighted background.
 >
@@ -218,14 +214,13 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding HD4470 controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980)
+#### [Understanding HD4470 controller](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=0)** - [Instructor] So now let's try to understand how LCD works.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=3)** Most LCD's that are compatible with Arduino uses the HD Controller to manage the LCD.
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=3)** Most LCD's that are compatible with [[Arduino]] uses the HD Controller to manage the LCD.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=9)** The HD44780, is referred to as dot matrix, liquid crystal display controller and driver.
 >
@@ -261,17 +256,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** lcd (9), hd44780 (1), hitachi (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### The LCD interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980)
+#### [The LCD interface](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=0)** - [Narrator] Now let's take a look at how to interface the 16x2 LCD with Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=0)** - [Narrator] Now let's take a look at how to interface the 16x2 LCD with [[Arduino]] board.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=7)** So as mentioned previously, the HD controller chip uses a series of 16 interface pins.
 >
@@ -331,20 +325,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (3), data (2)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** lcd (9), vss (1), vdd (1), ascii (1), led (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Wire up the LCD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980)
+#### [Wire up the LCD](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=0)** - [Narrator] I'm going to do the wiring of the LCD, according to this table.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=4)** So here is the LCD pin numbers and the corresponding Arduino pins that I'm going to connect them too.
+> **[0:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=4)** So here is the LCD pin numbers and the corresponding [[Arduino]] pins that I'm going to connect them too.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=12)** So let's go ahead and do the wiring for each pin.
 >
@@ -426,8 +419,7 @@ created: 2026-05-02
 > **Env Vars:** lcd (9)
 > **Speakers:** - [narrator] (1)
 
-#### Coding the LCD interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980)
+#### [Coding the LCD interface](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,7 +471,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=213)** And then I place any sentence I would like to see it on the LCD.
 >
-> **[3:37](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=217)** So here I'm going to use Arduino is fun.
+> **[3:37](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=217)** So here I'm going to use [[Arduino]] is fun.
 >
 > **[3:44](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=224)** Okay, we use a quotation mark when we want to place the sentence.
 >
@@ -499,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** lcd (15)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -508,8 +500,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Optional review: Understanding "for" loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-for-loops?u=76281980)
+#### [Optional review: Understanding "for" loops](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,15 +550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Prerequisites:** initialization (5)
 > **Analogies:** for example (2)
 > **Env Vars:** lcd (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optional review: Understanding arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980)
+#### [Optional review: Understanding arrays](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,18 +592,17 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=110)** So the array element is different than the array index.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=116)** So if you'd like to learn more about the array and how to access the array, you can check the website that's provided by Arduino.
+> **[1:56](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=116)** So if you'd like to learn more about the array and how to access the array, you can check the website that's provided by [[Arduino]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** myarray (1)
 > **Env Vars:** lcd (1)
 > **Speakers:** - so (1)
 
-#### Displaying random numbers and scrolling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980)
+#### [Displaying random numbers and scrolling](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=168)** So go ahead and upload the program and see how this code behaves.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=174)** So as you can see now, random numbers are getting generated starting from the first row and the rest of them are showing in the second row.
+> **[2:54](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=174)** So as you can see now, random numbers are getting generated starting from the first row and the [[Representational State Transfer (REST)|rest]] of them are showing in the second row.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=183)** Notice here that we can only see up to 16 characters.
 >
@@ -704,12 +692,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the 7-segment LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980)
+#### [Overview of the 7-segment LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=0)** - [Instructor] Now, in this part of the course, I'm going to use the seven-segment LED with Arduino.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=0)** - [Instructor] Now, in this part of the course, I'm going to use the seven-segment LED with [[Arduino]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=5)** I'll be doing this in three parts.
 >
@@ -719,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=22)** Finally, we're going to use the seven-segment LED with the shift register.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=28)** We'll be covering some programming concepts like loops and arrays and when we are using the shift register.
+> **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=28)** We'll be covering some [[Programming Concepts]] like loops and arrays and when we are using the shift register.
 
 > [!info]- Semantic Content
 >
@@ -727,8 +714,7 @@ created: 2026-05-02
 > **Env Vars:** led (4)
 > **Speakers:** - [instructor] (1)
 
-#### The 7-segment LED component
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-7-segment-led-component?u=76281980)
+#### [The 7-segment LED component](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-7-segment-led-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,14 +748,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** led (9), leds (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [woman] (1)
 
-#### 7-segment LED display types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/7-segment-led-display-types?u=76281980)
+#### [7-segment LED display types](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/7-segment-led-display-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,14 +787,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Env Vars:** led (6), vcc (2)
 > **Definitions:** is an  (1), means that (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Checking a 7-segment LED type
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/checking-a-7-segment-led-type?u=76281980)
+#### [Checking a 7-segment LED type](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/checking-a-7-segment-led-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,17 +826,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** led (8)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Wiring up the 7-segment LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980)
+#### [Wiring up the 7-segment LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] So now in this section, we're going to go through the wiring of the seven segment LED to the Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] So now in this section, we're going to go through the wiring of the seven segment LED to the [[Arduino]] board.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=7)** Since the seven segment LED has seven LEDs so we need the resistor when we connect the seven segment LED to Arduino.
 >
@@ -866,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=42)** So for example, for the seven segment LED pin a, which is pin seven, is going to be connected to pin two, to the digital IO in the Arduino board.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=54)** Pin b, which is pin six in the seven segment LED, is going to be connected to pin three, and so on for the rest of them.
+> **[0:54](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=54)** Pin b, which is pin six in the seven segment LED, is going to be connected to pin three, and so on for the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=61)** So let's go ahead and do the wiring for the seven segment.
 >
@@ -920,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (10), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (10), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** led (13), vcc (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
@@ -928,8 +908,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cycle through each LED directly
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980)
+#### [Cycle through each LED directly](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=9)** So in the Pin A I'll add it as a constant integer.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=13)** And then I'll name it as ledPinA, and this one is connected to Pin 2 in the Arduino board.
+> **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=13)** And then I'll name it as ledPinA, and this one is connected to Pin 2 in the [[Arduino]] board.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=22)** I'll do the same thing for the other pin, so constant integer ledPinB, and it's connected to Pin 3 in the Arduino board.
 >
@@ -965,7 +944,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=96)** And then I identify this as an OUTPUT.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=101)** So I'll do the same thing for the rest of the pins.
+> **[1:41](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=101)** So I'll do the same thing for the [[Representational State Transfer (REST)|rest]] of the pins.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=108)** Okay, and then just change the pin.
 >
@@ -1017,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Arduino]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Arduino]] (3)
 > **Env Vars:** led (14), low (2), output (1), leds (1), high (1)
 > **Code Identifiers:** digitalwrite (2), ledpina (1), ledpinb (1), pinmode (1), ledpin (1)
 > **CLI Commands:** make (2)
@@ -1026,14 +1005,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cycle through LEDs with a for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980)
+#### [Cycle through LEDs with a for loop](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=0)** - So in the previous video, we kind of copy and paste a lot of the code so let's try to use a for loop in order to reduce the code that we tried in the previous example.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=10)** Since we did the wiring for the Arduino board, from two all the way to eight, so we can take advantage of using a for loop where we can start from two all the way to eight.
+> **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=10)** Since we did the wiring for the [[Arduino]] board, from two all the way to eight, so we can take advantage of using a for loop where we can start from two all the way to eight.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=19)** So let's see how we can do that in the coding parts.
 >
@@ -1091,8 +1069,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - so (1)
 
-#### Understanding the 7-segment LED truth table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980)
+#### [Understanding the 7-segment LED truth table](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=26)** If we want to make one of the LEDs turn on, then we need to set the anode side to one, high.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=34)** So for example, if we want to show one, then the LED, the segments B and C, need to be on and the rest of the LEDs should be off.
+> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=34)** So for example, if we want to show one, then the LED, the segments B and C, need to be on and the [[Representational State Transfer (REST)|rest]] of the LEDs should be off.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=45)** The same thing applies if you want to show number 2.
 >
@@ -1140,15 +1117,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Env Vars:** led (5), vcc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Coding 7-segment display showing numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-7-segment-display-showing-numbers?u=76281980)
+#### [Coding 7-segment display showing numbers](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-7-segment-display-showing-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1176,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** led (4)
 > **Exercise Files:** exercise file (1), download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1210,14 +1185,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the shift register
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980)
+#### [Understanding the shift register](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=0)** - [Narrator] In the previous example, we used seven digital pins for the seven-segment LED.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=5)** As you can imagine, this may lead to you running out of pins on your Arduino board.
+> **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=5)** As you can imagine, this may lead to you running out of pins on your [[Arduino]] board.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=11)** One of the ways you can deal with this is by using a shift register.
 >
@@ -1269,18 +1243,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), next (2), [[Arduino]] (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### MC74HC595A shift register overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980)
+#### [MC74HC595A shift register overview](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980&t=0)** - [Instructor] Let's take a look at how to wire up our shift register to Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980&t=0)** - [Instructor] Let's take a look at how to wire up our shift register to [[Arduino]] board.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980&t=5)** The shift register we're using is MC74HC595A, which is a serial-in, parallel-out shift register.
 >
@@ -1300,19 +1273,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Arduino]] (2), parallel (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** mc74hc595a (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wire up the input and clock signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980)
+#### [Wire up the input and clock signals](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=0)** - Okay, so let's give it a start.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=2)** Let's start connecting pin number 14 in the shift register, which is the data serial in, and you are going to connect it to the Arduino board pin number eight.
+> **[0:02](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=2)** Let's start connecting pin number 14 in the shift register, which is the data serial in, and you are going to connect it to the [[Arduino]] board pin number eight.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=13)** Alright so the way to note the numbers within the shift register is by using the indication, the dot over here.
 >
@@ -1342,11 +1314,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Arduino]] (4)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Speakers:** - okay (1)
 
-#### Wire up the signals for VCC and GND
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-signals-for-vcc-and-gnd?u=76281980)
+#### [Wire up the signals for VCC and GND](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-signals-for-vcc-and-gnd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,13 +1369,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vcc (5), perl (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Wire up the 7-segment LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980)
+#### [Wire up the 7-segment LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1383,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=9)** So on top, you can see the pin letter and the pin number of the shift register and the corresponding pin letter and the pin number of the seven-segment LED on the bottom.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=19)** So you can choose to connect the seven segment differently but you need to consider this, in programming the Arduino board, so the most significant bit and the least significant bit.
+> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=19)** So you can choose to connect the seven segment differently but you need to consider this, in programming the [[Arduino]] board, so the most significant bit and the least significant bit.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=28)** This wiring is for the most significant bit first.
 >
@@ -1440,14 +1409,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (6), dcc (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Initializing pins for the shift register
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980)
+#### [Initializing pins for the shift register](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=15)** So, the very first thing that we need to do, is we need to identify the three pins that we connected to the shift register.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=22)** So, the very first one is constant integer, is the dataPin and we connected that to pin number eight in our Arduino board.
+> **[0:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=22)** So, the very first one is constant integer, is the dataPin and we connected that to pin number eight in our [[Arduino]] board.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=35)** The second one is constant int, the latchPin that lives in pin number 10.
 >
@@ -1489,7 +1457,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=134)** So, pinMode latchpin and it's an output.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=143)** And I'll do the same for the rest of the pins.
+> **[2:23](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=143)** And I'll do the same for the [[Representational State Transfer (REST)|rest]] of the pins.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=163)** Alright, so, we've got the pins initialized, the array including the numbers tat we want to show, and then we set up the pin modes.
 >
@@ -1497,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Arduino]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** datapin (1), latchpin (1), clockpin (1), pinmode (1)
 > **Exercise Files:** starter project (1), exercise files (1), exercise file (1)
 > **Env Vars:** led (2)
@@ -1506,8 +1474,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The shiftOut command
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980)
+#### [The shiftOut command](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,13 +1526,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=183)** And then that's it.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=184)** We've done the coding for the shift register, so go ahead and download the program to Arduino board and see how it works.
+> **[3:04](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=184)** We've done the coding for the shift register, so go ahead and download the program to [[Arduino]] board and see how it works.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=192)** Okay, so you can see the number showing on the seven segment LED and using only three output from the Arduino board.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Code Identifiers:** shiftout (6), datapin (2), clockpin (2), bitorder (1), digitalwrite (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** led (2)
@@ -1578,12 +1545,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the keypad interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980)
+#### [Introduction to the keypad interface](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=0)** - [Narrator] A keypad is a common hardware interface so let's see how we can set up one with our Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=0)** - [Narrator] A keypad is a common [[Hardware]] interface so let's see how we can set up one with our [[Arduino]] board.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=7)** The keypad type we're using is four by three which means four rows and three columns.
 >
@@ -1641,12 +1607,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Wiring up the keypad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980)
+#### [Wiring up the keypad](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=0)** - [Instructor] Alright, so let's do the wiring of the keypad to Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=0)** - [Instructor] Alright, so let's do the wiring of the keypad to [[Arduino]] board.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=5)** So, we are going to use the pins, two to five, in order to reserve for the rows, and then six, seven, eight, for the columns.
 >
@@ -1676,13 +1641,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optional review: IF statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-if-statement?u=76281980)
+#### [Optional review: IF statement](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-if-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,14 +1684,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** digitalwrite (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optional review: The switch...case statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980)
+#### [Optional review: The switch...case statement](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,7 +1697,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=3)** If you are familiar with the concept, you can skip this video, but if you want to refresh your memory about what the concept is, I'm going to go through the concept briefly.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=13)** So one of the structure commands used within Arduino is a switch...case statement.
+> **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=13)** So one of the structure commands used within [[Arduino]] is a switch...case statement.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=18)** Oftentimes, we might need to compare a variable against several possible values.
 >
@@ -1770,8 +1732,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding two-dimensional arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-two-dimensional-arrays?u=76281980)
+#### [Understanding two-dimensional arrays](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-two-dimensional-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,16 +1782,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setup the keypad library
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980)
+#### [Setup the keypad library](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=0)** - [Instructor] Often times when you use the keypad component, you need to include the library in the Arduino software.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=0)** - [Instructor] Often times when you use the keypad component, you need to include the library in the [[Arduino]] software.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=7)** In order to check if you have the library or not, you go to Sketch, Include Library, and then look around if you see the keypad library.
 >
@@ -1866,15 +1825,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** unzip (1)
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### HelloKeypad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980)
+#### [HelloKeypad](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1904,7 +1862,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=69)** The reason why we select the byte is that we know that the rows and columns values will be between zero and 255.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=77)** There is a way to minimize their memory usage within the Arduino software.
+> **[1:17](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=77)** There is a way to minimize their memory usage within the [[Arduino]] software.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=82)** On line 14 is where we're identifying the two dimensional array of the key pad we are using.
 >
@@ -1977,8 +1935,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the keypad with LEDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/using-the-keypad-with-leds?u=76281980)
+#### [Using the keypad with LEDs](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/using-the-keypad-with-leds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,14 +2025,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Env Vars:** led (9)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine the keypad and 7-segment LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980)
+#### [Combine the keypad and 7-segment LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2153,7 +2108,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=296)** And just set the large pin to pi after the shiftOut command.
 >
-> **[5:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=307)** So now we've done the coding part, so go ahead and upload this into the Arduino board in order to see how the program works.
+> **[5:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=307)** So now we've done the coding part, so go ahead and upload this into the [[Arduino]] board in order to see how the program works.
 >
 > **[5:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=318)** Okay, so let's give it a start.
 >
@@ -2167,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** shiftout (3), toint (1), dataarray (1), digitalwrite (1), latchpin (1)
 > **Env Vars:** led (3), low (1)
 > **UI Navigation:** open the (1), toggle (1)
@@ -2176,8 +2131,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine them all: LCD + keypad + LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980)
+#### [Combine them all: LCD + keypad + LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,7 +2139,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=9)** So, we are going to keep the same wiring for the seven-segment LED, the same wiring for the LCD, and the same wiring for the keypad.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=18)** The only difference, however, is that so the shift clock, which is in pin eleven, the shift register, is going to be connected in pin nine in the Arduino board over here.
+> **[0:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=18)** The only difference, however, is that so the shift clock, which is in pin eleven, the shift register, is going to be connected in pin nine in the [[Arduino]] board over here.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=28)** And it was previously connected to pin eleven, but I used pin eleven to connect it to the LCD.
 >
@@ -2269,12 +2223,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about Arduino you can check out the library for my other Arduino courses like [[Learning Arduino- Interfacing with Analog Devices]],
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about [[Arduino]] you can check out the library for my other Arduino courses like [[Learning Arduino- Interfacing with Analog Devices]],
 
 > [!info]- Semantic Content
 >

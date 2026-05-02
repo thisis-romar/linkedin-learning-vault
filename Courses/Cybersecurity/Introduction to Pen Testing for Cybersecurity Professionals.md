@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing an organization's defenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980)
+#### [Testing an organization's defenses](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980&t=9)** But take a moment and ask yourself, have you done enough to defend your company?
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980&t=15)** In this course, we'll learn reasons why an organization needs to conduct a thorough penetration testing exercise.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980&t=15)** In this course, we'll learn reasons why an organization needs to conduct a thorough [[Penetration Testing]] exercise.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980&t=23)** Hello, my name is Lisa Bock, and I'm a security ambassador.
 >
@@ -119,17 +118,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/getting-the-most-out-of-this-course-25860098?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/getting-the-most-out-of-this-course-25860098?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/getting-the-most-out-of-this-course-25860098?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for security professionals, network administrators, managers, students, teachers, or anyone with an interest in learning more about the penetration testing process.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/getting-the-most-out-of-this-course-25860098?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for security professionals, network administrators, managers, students, teachers, or anyone with an interest in learning more about the [[Penetration Testing]] process.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/getting-the-most-out-of-this-course-25860098?u=76281980&t=17)** I cover a lot of information, but I've provided some files for you.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -159,12 +157,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding penetration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980)
+#### [Understanding penetration testing](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=0)** - [Instructor] Penetration testing or pen testing is a proactive security assessment.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=0)** - [Instructor] [[Penetration Testing]] or pen testing is a proactive security assessment.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=6)** But why is this an important exercise for any organization?
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=34)** I'm sure that's true.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=36)** Network and security specialists actively keep up with patch and configuration management constantly monitor system defenses, and ensure that they have securely configured all operating systems and applications.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=36)** Network and security specialists actively keep up with patch and [[Configuration Management]] constantly monitor system defenses, and ensure that they have securely configured all operating systems and applications.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=52)** And all employees are trained not to fall victim to a social engineering attack.
 >
@@ -186,13 +183,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=78)** Let's talk about how this works.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=80)** Pen testing or ethical hacking is a proactive security assessment that tests internal and external systems by simulating attacks.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=80)** Pen testing or [[Ethical Hacking]] is a proactive security assessment that tests internal and external systems by simulating attacks.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=91)** During testing, ethical hackers examine the ways a breach can occur.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=96)** Many times they use the same tools and techniques of a malicious actor.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=102)** Security assessments can include testing network devices, email, web interfaces, wireless networks, applications and databases.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=102)** Security assessments can include testing network devices, email, web interfaces, wireless networks, applications and [[Databases]].
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980&t=113)** Using a systemic approach, the ethical hacker will go through the system to locate and exploit vulnerabilities, to test the strength of a system's security defenses against attacks by hackers and other intruders.
 >
@@ -228,14 +225,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Engineering]] (2), [[Penetration Testing]] (1), [[Configuration Management]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Configuration Management]] (1), [[Ethical Hacking]] (1), [[Databases]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Auditing security mechanisms
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980)
+#### [Auditing security mechanisms](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=37)** Today's networks have many attack surfaces or areas of exposure.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=42)** Attack surfaces can include software, hardware, network, and the users.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=42)** Attack surfaces can include software, [[Hardware]], network, and the users.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=48)** Auditing can be done voluntarily, but in most cases, it's required as part of a compliance regulation, such as HIPAA, PCI DSS, or Sarbanes-Oxley.
 >
@@ -265,13 +261,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=99)** Software many times includes evaluating application software, specifically web and mobile platform testing.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=108)** On the network, we check the devices, such as firewalls, intrusion detection, intrusion prevention systems, and logging and alert capabilities, along with configuration and authentication methods, and visible network services.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=108)** On the network, we check the devices, such as firewalls, [[Intrusion Detection]], intrusion prevention systems, and logging and alert capabilities, along with configuration and authentication methods, and visible network services.
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=125)** We also check the users.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=127)** Using social engineering techniques, we see if we can gain access into the building.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=133)** The ethical hacker will attempt tailgating or piggybacking, and phishing attacks using email, instant messaging, and social media to get employees to click on a link to release malware or download a rootkit.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=133)** The ethical hacker will attempt tailgating or piggybacking, and [[Phishing]] attacks using email, instant messaging, and social media to get employees to click on a link to release malware or download a rootkit.
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=148)** Auditing is not a spot check, it's a complete evaluation of the security posture of an organization.
 >
@@ -289,15 +285,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Hardware]] (1), business (1), dns (1), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Intrusion Detection]] (1), [[Phishing]] (1)
 > **Env Vars:** pci (2), dss (2), hipaa (1), dns (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
 
-#### Managing risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980)
+#### [Managing risk](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980&t=28)** Tangible assets include anything you can touch, such as printers or computers.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980&t=34)** Intangible assets include trade secrets, databases, or company records.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980&t=34)** Intangible assets include trade secrets, [[Databases]], or company records.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/managing-risk?u=76281980&t=40)** So how do we assess risk?
 >
@@ -371,22 +366,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), business (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980)
+#### [Analyzing risk](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=0)** - [Instructor] Organizations use risk analysis as an important first step in reducing risk.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=7)** In this segment, we'll outline the steps taken during a security risk assessment.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=7)** In this segment, we'll outline the steps taken during a [[Security Risk]] assessment.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=13)** Conducting a thorough ethical hacking exercise will identify the threats and weaknesses that can represent a security risk to the organization.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=13)** Conducting a thorough [[Ethical Hacking]] exercise will identify the threats and weaknesses that can represent a security risk to the organization.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=23)** Once identified, the organization will proactively implement ways to manage the risks and reduce the potential for harm.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=43)** And you can read through this, but let's briefly talk about each step.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=48)** The first step is to list and prioritize the assets such as software, hardware, and data.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=48)** The first step is to list and prioritize the assets such as software, [[Hardware]], and data.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=55)** This answers the question, what are we trying to protect?
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=70)** We then recognize the vulnerabilities that include configuration errors or outdated software.
 >
-> **[1:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=77)** The team will need to review the controls that are in place, such as firewalls and intrusion detection systems.
+> **[1:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=77)** The team will need to review the controls that are in place, such as firewalls and [[Intrusion Detection]] systems.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/analyzing-risk?u=76281980&t=85)** After providing the details of the threats, vulnerabilities, and existing controls, the team will need to determine the likelihood of an incident.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (2), [[Ethical Hacking]] (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Security Risk]] (6), [[Ethical Hacking]] (1), [[Hardware]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** for example (5), such as (3)
 > **Env Vars:** hipaa (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -467,8 +461,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing the attack surface
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980)
+#### [Recognizing the attack surface](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980&t=32)** Let's break down each of these concepts.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980&t=36)** An Attack Vector is a way or method used to gain access to a system and can include phishing attacks or exploiting a vulnerability.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980&t=36)** An Attack Vector is a way or method used to gain access to a system and can include [[Phishing]] attacks or exploiting a vulnerability.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/recognizing-the-attack-surface?u=76281980&t=46)** An Attack Surface is the total number of attack vectors a malicious actor can use, and can include Software, Networks, and the Users.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Phishing]] (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -534,8 +527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing different environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/comparing-different-environments?u=76281980)
+#### [Comparing different environments](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/comparing-different-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,14 +593,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Security]] (1), application (1)
 > **Exercise Files:** source code (6)
 > **Analogies:** such as (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking from the outside in
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980)
+#### [Checking from the outside in](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=19)** In this graphic, we see a typical network configuration with a LAN, perimeter network, and the internet.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=27)** Common attack points from the outside looking in includes applications in the perimeter network, such as DNS, mail, and web servers.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=27)** Common attack points from the outside looking in includes applications in the perimeter network, such as DNS, mail, and [[Web Servers]].
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=37)** Attacks on these systems include denial of service, malware, and cache poisoning.
 >
@@ -638,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=106)** Attacks on applications are possible because many web developers are not aware of the vulnerabilities that exist.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=113)** Many times organizations can reduce the risk by using proper coding practices and techniques, such as input validation to ensure that only properly formed data is entering the workflow.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=113)** Many times organizations can reduce the risk by using proper [[Coding Practices]] and techniques, such as input validation to ensure that only properly formed data is entering the workflow.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-from-the-outside-in?u=76281980&t=126)** For example, in this visual, we see input validation that will check for a valid email address.
 >
@@ -670,14 +660,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), data (3), application (2), [[Security]] (2), lan (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Coding Practices]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** lan (1), dns (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looking inside the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980)
+#### [Looking inside the organization](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,15 +704,15 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=143)** Let's check out a few.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=145)** For this Easter egg, I've opened Word and I typed =rand(5, 10) and then I'll press ENTER, which will generate random text.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=145)** For this Easter egg, I've opened [[Microsoft Word|Word]] and I typed =rand(5, 10) and then I'll press ENTER, which will generate random text.
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=156)** For this Easter egg, we'll open up Firefox and type about robots where you can learn all about robots.
 >
-> **[2:45](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=165)** And for our last Easter egg, we'll open up a search and in Google, we'll type do a barrel roll.
+> **[2:45](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=165)** And for our last Easter egg, we'll open up a search and in [[Google]], we'll type do a barrel roll.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=172)** And this makes the page rotate through a complete 360 degrees.
 >
-> **[2:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=178)** Known environment testing can uncover numerous threats, however, it's only effective when conducted by skilled, trusted analysts with strong programming skills and an understanding of secure coding practices.
+> **[2:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=178)** Known environment testing can uncover numerous threats, however, it's only effective when conducted by skilled, trusted analysts with strong programming skills and an understanding of [[Secure Coding]] practices.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/looking-inside-the-organization?u=76281980&t=194)** Now let's test your knowledge.
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Search]] (1), [[Google]] (1), [[Programming]] (1), [[Secure Coding]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Google]] (1), [[Secure Coding]] (1)
 > **Env Vars:** rat (1), enter (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -741,16 +730,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining testing methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980)
+#### [Determining testing methods](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=0)** - [Instructor] Part of an ethical hacking exercise is to scan and evaluate an organization's systems for security weaknesses, and malicious activity.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=0)** - [Instructor] Part of an [[Ethical Hacking]] exercise is to scan and evaluate an organization's systems for security weaknesses, and malicious activity.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=10)** The team has choices in how to test a system.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=14)** That includes using either automated or manual testing, along with announced or unannounced testing.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=14)** That includes using either automated or [[Manual Testing]], along with announced or unannounced testing.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=21)** Let's first compare automated versus manual testing.
 >
@@ -790,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=146)** Now, you'll want to use unannounced testing carefully as it may cause a service interruption.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=153)** When deciding on the type of testing, keep in mind that unannounced tests are the more powerful option from the analyst point of view since they simulate the kind of real-world conditions and the team can watch for an agile response when a threat occurs.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=153)** When deciding on the type of testing, keep in mind that unannounced tests are the more powerful option from the analyst point of view since they simulate the kind of real-world conditions and the team can watch for an [[Agile Development|agile]] response when a threat occurs.
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/determining-testing-methods?u=76281980&t=171)** As a result, it might be a good approach to begin with a planned announced test and then move into unannounced testing.
 >
@@ -808,18 +796,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Ethical Hacking]] (1), [[Security]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Ethical Hacking]] (1), [[Agile Development|Agile]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering pen testing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980)
+#### [Discovering pen testing tools](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=0)** - [Instructor] In every pen tester's arsenal, there are several tools that help complete the job.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=6)** In this segment, we'll outline some of the tools, such as reconnaissance apps, scanners, and password crackers that are used during pen tests, and we'll take a brief look at Kali Linux, a powerful all-in-one pen testing tool.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=6)** In this segment, we'll outline some of the tools, such as reconnaissance apps, scanners, and password crackers that are used during pen tests, and we'll take a brief look at [[Kali Linux]], a powerful all-in-one pen testing tool.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=23)** When the pen testing team begins outlining a plan for the assessments, some of the considerations are deciding what tools are best to complete the job.
 >
@@ -829,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=45)** Now, I'm here at this website where you can learn more about pen testing, and I'll scroll down.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=51)** Now, on the right, you'll see a complete list of all of their suggestions for pen testing tools, but first, let's talk about reconnaissance, as this is the first phase of ethical hacking.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=51)** Now, on the right, you'll see a complete list of all of their suggestions for pen testing tools, but first, let's talk about reconnaissance, as this is the first phase of [[Ethical Hacking]].
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=66)** Now, during this phase, we obtain as much information about the target as possible using passive or active methods.
 >
@@ -839,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=90)** theHarvester gathers emails, domains, and subdomains from public sources.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=97)** Shodan is a search engine for discovering internet-connected devices and their vulnerabilities, and FOCA extracts metadata and hidden information from documents on public websites.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=97)** Shodan is a search engine for discovering internet-connected devices and their vulnerabilities, and FOCA extracts [[Metadata]] and hidden information from documents on public websites.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=111)** Now, after completing the reconnaissance phase, the team can then move on to the scanning phase, where we scan for weaknesses, and during this phase, the team also has plenty of choices on what tools they can use to scan.
 >
@@ -847,13 +834,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=130)** Now, when scanning, the tool will display the results, and then the analyst will interpret the results and assign a priority, so let's talk about some of the tools.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=143)** Now, one open source tool commonly used for network discovery and security auditing is Nmap.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=143)** Now, one open source tool commonly used for network discovery and security auditing is [[Nmap]].
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=150)** Now, we can learn more about Nmap here, as there is plenty of documentation, and you can select the latest Nmap for your system.
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=161)** So I downloaded it and installed it.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=164)** Now, when you download it, it also includes Zenmap, which is a graphical user interface that you can use on a Windows machine, and then I ran a scan, so let's take a look.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=164)** Now, when you download it, it also includes Zenmap, which is a graphical user interface that you can use on a [[Windows]] machine, and then I ran a scan, so let's take a look.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=179)** Now, here, I'm in Zenmap, and up in the upper left hand corner, we see the target.
 >
@@ -881,7 +868,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=294)** Now, Kali Linux is an all-inclusive ethical hacking tool.
 >
-> **[4:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=298)** Now, if you'd like to try out Kali Linux and to see what it could do for you, you can find pre-made virtual machines for either VMware or VirtualBox here at [osboxes.org](https://osboxes.org), and I'll scroll down, and it gives you a little bit more information about what it has available.
+> **[4:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=298)** Now, if you'd like to try out Kali Linux and to see what it could do for you, you can find pre-made [[Virtual Machines]] for either VMware or VirtualBox here at [osboxes.org](https://osboxes.org), and I'll scroll down, and it gives you a little bit more information about what it has available.
 >
 > **[5:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=317)** Now, I selected VirtualBox, where you can go here to download VirtualBox.
 >
@@ -905,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (8), [[Ethical Hacking]] (2), web (1), [[Search]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (8), [[Nmap]] (7), [[Ethical Hacking]] (2), [[Metadata]] (1), [[Windows]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1)
 > **UI Navigation:** scroll down (5), select the (1)
 > **URLs:** [nmap.com](https://nmap.com) (2), [osboxes.org](https://osboxes.org) (2)
@@ -914,8 +901,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** find (1)
 
-#### Challenge: Explain the NIST framework's five core functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980)
+#### [Challenge: Explain the NIST framework's five core functions](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,15 +909,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=14)** Now in providing recommendations on how to better secure your organization, there's help.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=20)** One of the resources is NIST.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=20)** One of the resources is [[NIST]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=23)** The NIST Special Publications 800 series are developed to address and support the security and privacy needs of US federal government information and information systems.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=23)** The NIST Special Publications 800 series are developed to address and support the security and [[Privacy]] needs of US federal government information and information systems.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=37)** They're freely available and can provide a ton of valuable information.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=43)** Now you can learn more here at this website, and you can scroll down to see all of the articles that you can download.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=53)** Now for this challenge, you'll obtain the NIST Cybersecurity Framework, and I've included the link in the links and challenges document.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=53)** Now for this challenge, you'll obtain the NIST [[Cybersecurity]] Framework, and I've included the link in the links and challenges document.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/challenge-explain-the-nist-five-framework-core-functions-25855697?u=76281980&t=62)** Now once you open it, you want to scroll down to section two where you can learn more about the cybersecurity framework core.
 >
@@ -945,18 +931,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (3), [[Security]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (3), [[Privacy]] (1)
 > **Env Vars:** nist (4)
 > **UI Navigation:** scroll down (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Explain the NIST framework's five core functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/solution-explain-the-nist-five-framework-core-functions-25856703?u=76281980)
+#### [Solution: Explain the NIST framework's five core functions](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/solution-explain-the-nist-five-framework-core-functions-25856703?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/solution-explain-the-nist-five-framework-core-functions-25856703?u=76281980&t=0)** - [Narrator] In this challenge, you were to briefly explain the core functions of the NIST cybersecurity framework.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/solution-explain-the-nist-five-framework-core-functions-25856703?u=76281980&t=0)** - [Narrator] In this challenge, you were to briefly explain the core functions of the [[NIST]] [[Cybersecurity]] framework.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/solution-explain-the-nist-five-framework-core-functions-25856703?u=76281980&t=13)** Let's start with the govern function.
 >
@@ -1010,7 +995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), business (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (1)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1022,8 +1007,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Following a structured plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/following-a-structured-plan?u=76281980)
+#### [Following a structured plan](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/following-a-structured-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,7 +1051,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Security]] (1), web (1), [[Scripting]] (1)
 > **Best Practices:** it's best to (2), the key is (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (2)
@@ -1075,8 +1058,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Planning the pen test
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980)
+#### [Planning the pen test](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,11 +1078,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=47)** Involving managers early in the process will help ensure a successful outcome.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=53)** - I have the outline for the proposed penetration testing so let's get into the details as to what we would like to achieve.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=53)** - I have the outline for the proposed [[Penetration Testing]] so let's get into the details as to what we would like to achieve.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=60)** - I have a question.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=61)** You listed a phishing test for our employees in HR and customer service.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=61)** You listed a [[Phishing]] test for our employees in HR and customer service.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/planning-the-pen-test?u=76281980&t=64)** We did phishing training last year and it went really well.
 >
@@ -1134,15 +1116,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (7), [[Security]] (4), [[Penetration Testing]] (1), hr (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Penetration Testing]] (1)
 > **Speakers:** - [instructor] (2), - i (2), - you (1)
 > **Analogies:** such as (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Footprinting the target
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980)
+#### [Footprinting the target](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1145,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980&t=84)** Now, keep in mind information gathering is both passive and active.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980&t=90)** In addition, footprinting uses low tech methods such as Google hacking, along with tools and utilities such as Maltego and Nmap.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980&t=90)** In addition, footprinting uses low tech methods such as [[Google]] hacking, along with tools and utilities such as Maltego and [[Nmap]].
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/footprinting-the-target?u=76281980&t=101)** It's very important to document your findings.
 >
@@ -1182,15 +1163,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Nmap]] (1)
 > **Analogies:** such as (5), picture (4)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Escalating privileges
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980)
+#### [Escalating privileges](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1200,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980&t=87)** Once full local access is granted, the team will need to see what services are running, and whether or not they have any root privileges.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980&t=97)** One way the team can escalate privileges is by taking advantage of the preset user accounts and groups, such as the administrator and guest accounts in a Windows operating system.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980&t=97)** One way the team can escalate privileges is by taking advantage of the preset user accounts and groups, such as the administrator and guest accounts in a [[Windows]] operating system.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/escalating-privileges?u=76281980&t=109)** Most likely, the administrator account is the more protected account.
 >
@@ -1240,14 +1220,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attacking the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980)
+#### [Attacking the system](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1264,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980&t=118)** Several laws are designed to ensure the security and confidentiality of client information.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980&t=124)** Laws include Gramm-Leach-Bliley Act, Driver's Privacy Protection Act, and the HIPAA Privacy Rule.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980&t=124)** Laws include Gramm-Leach-Bliley Act, Driver's [[Privacy Protection]] Act, and the HIPAA [[Privacy]] Rule.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/attacking-the-system?u=76281980&t=132)** Therefore, during the planning meeting the organizer should inform everyone about any restrictions, and they should monitor activity to ensure compliance.
 >
@@ -1297,13 +1276,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), [[Engineering]] (1), business (1), application (1)
+> **Frameworks & Libraries:** [[Privacy Protection]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - during (1)
 
-#### Delivering the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980)
+#### [Delivering the results](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,7 +1303,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=39)** There'll be the technical details along with remediation suggestions.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=44)** Now, after the main meeting with the stakeholders, the ethical hacking team should have a breakout meeting with the IT staff and possibly the software developers to discuss the results.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=44)** Now, after the main meeting with the stakeholders, the [[Ethical Hacking]] team should have a breakout meeting with the IT staff and possibly the software developers to discuss the results.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=57)** Now, this is where the technical details come into play as it will have multiple sections that outline the details of the threats that the team discovered.
 >
@@ -1335,7 +1313,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=72)** Was this an internal or external threat?
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=75)** The probability of exploitation, the impact of exposure, such as loss of money, goodwill, customer confidence or service interruption, and then recommendations to mitigate the threat.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=75)** The [[Probability]] of exploitation, the impact of exposure, such as loss of money, goodwill, customer confidence or service interruption, and then recommendations to mitigate the threat.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/delivering-the-results?u=76281980&t=90)** At this point, be specific and prescriptive.
 >
@@ -1369,14 +1347,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Ethical Hacking]] (1), [[Probability]] (1), management (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Probability]] (1)
 > **Analogies:** such as (2)
 > **Best Practices:** it's best to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - once (1)
 
-#### Outlining remediation strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980)
+#### [Outlining remediation strategies](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1391,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=164)** Another site is OpenVAS online scan.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=168)** Now here, you can try this for free, and I scanned scanme.[nmap.org](https://nmap.org), which is a site designed to be scanned for you for testing, and I selected Scan Now and I let it run.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=168)** Now here, you can try this for free, and I scanned scanme.[[[Nmap]].org](https://nmap.org), which is a site designed to be scanned for you for testing, and I selected Scan Now and I let it run.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=183)** Now, keep in mind it might take a while to run a scan on your site depending on how involved your site is.
 >
@@ -1434,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (3), management (1)
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** pci (2), dss (2)
 > **URLs:** [example.com](https://example.com) (2), [nmap.org](https://nmap.org) (1)
@@ -1448,8 +1425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking physical security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980)
+#### [Checking physical security](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,7 +1455,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=95)** Now, what methods are in place to stop a would-be attacker from simply entering the building?
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=100)** Take a look and see how high off the ground are the windows.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=100)** Take a look and see how high off the ground are the [[Windows]].
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=104)** Could someone get in through the window?
 >
@@ -1509,7 +1485,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=182)** Are there any exposed network jacks found in public places?
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=187)** In addition to a physical assessment, you'll want to review documentation, such as incident response plans.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=187)** In addition to a physical assessment, you'll want to review documentation, such as [[Incident Response]] plans.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=194)** Make sure the employees have a clear direction and what steps to take after discovering an obvious breach.
 >
@@ -1525,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (3), [[Windows]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** wps (1), eps (1)
 > **CLI Commands:** make (1)
@@ -1533,8 +1509,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying wireless vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980)
+#### [Identifying wireless vulnerabilities](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,7 +1531,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=42)** A cable doesn't tether the signal.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=44)** Radio waves carry the signal and can pass through the air that surrounds us, and through walls and windows.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=44)** Radio waves carry the signal and can pass through the air that surrounds us, and through walls and [[Windows]].
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=51)** Anyone within range could potentially eavesdrop on the traffic flowing across your organization.
 >
@@ -1602,14 +1577,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), traffic (2), [[Windows]] (1), business (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing the website
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980)
+#### [Testing the website](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,23 +1599,23 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=50)** And then once identified, focus efforts to test that data.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=55)** Application testing should include input validation of form information along with common vulnerabilities, such as cross-site scripting, SQL injection and buffer overflow attacks.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=55)** Application testing should include input validation of form information along with common vulnerabilities, such as cross-site scripting, [[SQL]] injection and buffer overflow attacks.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=70)** Now, the next step is to attempt to exploit the vulnerabilities to see how far the team can get into the network.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=78)** The goal is to get to a command line prompt on a target computer, and then once in, the ethical hacker escalates privilege until he or she has full control in order to install backdoor access.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=94)** Now, during the assessment, the team will test all applications to ensure that no one can breach the databases in an organization, including web, network and end user applications that run on end user devices and remote systems.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=94)** Now, during the assessment, the team will test all applications to ensure that no one can breach the [[Databases]] in an organization, including web, network and end user applications that run on end user devices and remote systems.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=112)** Well, how can malicious actors gain access to your system and get in?
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=117)** Well, weak and stolen credentials is a low-hanging fruit and can account for many data breaches.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=123)** A malicious actor can obtain a username and password in many ways by keylogging, malware or phishing attacks.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=123)** A malicious actor can obtain a username and password in many ways by keylogging, malware or [[Phishing]] attacks.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=132)** But let's take a look at the top 10 web application security risks.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=132)** But let's take a look at the top 10 [[Web Application Security]] risks.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=138)** And I'm here at OWASP and this keeps track of all the common vulnerabilities, and every couple years, they're readjusted in what is the most prevalent.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=138)** And I'm here at [[OWASP]] and this keeps track of all the common vulnerabilities, and every couple years, they're readjusted in what is the most prevalent.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-the-website?u=76281980&t=149)** And here we can see that in 2021, the top one is broken access control, but there's others that you really want to take a look at, and those are the ones that malicious actors will target because of the fact they're commonly vulnerable.
 >
@@ -1661,7 +1635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (2), database (1), cnn (1), application (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1), [[Phishing]] (1), [[Web Application Security]] (1), [[OWASP]] (1)
 > **Env Vars:** cnn (1), sql (1), owasp (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (2)
@@ -1669,8 +1643,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leaking data via email or VoIP
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980)
+#### [Leaking data via email or VoIP](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1659,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980&t=37)** Hackers use all types of ploys to introduce malicious activity into an organization.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980&t=42)** One way is email and can include spam, spoofing, phishing, or farming, and is another way to leak confidential data, either as an attachment or in the message.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980&t=42)** One way is email and can include spam, spoofing, [[Phishing]], or farming, and is another way to leak confidential data, either as an attachment or in the message.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/leaking-data-via-email-or-voip?u=76281980&t=55)** So, if we talk about some of the email threats, there are several.
 >
@@ -1746,16 +1719,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Phishing]] (3), [[Security]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (3)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safeguarding cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980)
+#### [Safeguarding cloud services](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=0)** - [Educator] Cloud computing has become extremely popular in the past decade, as it represents a flexible and dynamic option for provisioning resources.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=0)** - [Educator] [[Cloud Computing]] has become extremely popular in the past decade, as it represents a flexible and dynamic option for provisioning resources.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=10)** With cloud computing, an organization can access and manage data and applications from any host anywhere in the world.
 >
@@ -1769,11 +1741,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=44)** We also have to be aware of the increased attack surface.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=49)** Cloud computing has become popular and results in cloud and virtualization sprawl where incidents of virtual machines and containers become unmanageable.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=49)** Cloud computing has become popular and results in cloud and virtualization sprawl where incidents of [[Virtual Machines]] and containers become unmanageable.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=60)** There's also a lack of visibility.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=63)** Unlike locally-hosted hardware and applications, the cloud providers have full control over their infrastructure layer which is largely hidden from the customer.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=63)** Unlike locally-hosted [[Hardware]] and applications, the cloud providers have full control over their infrastructure layer which is largely hidden from the customer.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=74)** And poorly managing secrets such as passwords, certificates, and API keys can lead to a costly breach.
 >
@@ -1789,7 +1761,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=133)** Now, I found a resource that gives us an example of how we would go about securing the cloud.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=139)** Some of these guidelines you might not be familiar with but they're embedded in regulations such as PCI DSS, that is, Payment Card Industry Data Security Standard.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=139)** Some of these guidelines you might not be familiar with but they're embedded in regulations such as PCI DSS, that is, Payment Card Industry [[Data Security]] Standard.
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=151)** Now, here are their granular references on how we secure our environments when dealing with card holder data.
 >
@@ -1801,19 +1773,19 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=183)** Now, I've drilled down, and what I want to show you is Appendix A1, where additional PCI DSS Requirements for Multi-Tenant Service Providers, and that would be your cloud environment.
 >
-> **[3:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=197)** And if you scroll down a little more, it provides more details and additional requirements for that environment, such as protecting and separating all customer environments and data and facilitate logging an incident response for all customers.
+> **[3:17](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=197)** And if you scroll down a little more, it provides more details and additional requirements for that environment, such as protecting and separating all customer environments and data and facilitate logging an [[Incident Response]] for all customers.
 >
-> **[3:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=214)** So you can read a little bit more about this, but a lot of these are good practice and things that you would do in a Local Area Network as well.
+> **[3:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=214)** So you can read a little bit more about this, but a lot of these are good practice and things that you would do in a [[Local Area Network (LAN)|Local Area Network]] as well.
 >
 > **[3:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=224)** Now let's test your knowledge.
 >
-> **[3:45](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=225)** What are three good practice activities when dealing with cloud services?
+> **[3:45](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=225)** What are three good practice activities when dealing with [[Cloud Services]]?
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=231)** You can record your answer on the challenge worksheet.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (4), [[Virtualization]] (4), management (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Virtual Machines]] (1), [[Hardware]] (1), [[Data Security]] (1), [[Incident Response]] (1)
 > **Env Vars:** pci (3), dss (3), api (1), lan (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1822,8 +1794,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Warnings:** be aware (1)
 
-#### Assessing the mobile infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980)
+#### [Assessing the mobile infrastructure](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,12 +1838,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), cloud (1), [[Security]] (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking the human
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980)
+#### [Hacking the human](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,7 +1861,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=66)** But since we're dealing with people, there are a few things to complete before testing begins.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=71)** Management should provide clear written instructions before any testing and approved by all stakeholders and human resources as you're dealing with employees.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=71)** Management should provide clear written instructions before any testing and approved by all stakeholders and [[Human Resources (HR)|human resources]] as you're dealing with employees.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=82)** That includes activities such as dumpster diving, or walking out of the building with equipment you took as part of the exercise.
 >
@@ -1906,23 +1875,23 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=147)** Use caution when creating a story, for example, do not use a bad accident as a story, as it may gravely upset someone or cause someone to overreact.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=158)** When using a phishing attack, do not run an exploit, the clicked email will be enough proof.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=158)** When using a [[Phishing]] attack, do not run an exploit, the clicked email will be enough proof.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=164)** You can then use the results to drill down on user education.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=169)** And because anyone can be a victim, let's talk about ways to avoid a social engineering attack.
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=175)** Have employees wear appropriate identification while in the building, use antivirus, anti malware and anti exploit protection, lockdown privacy settings on social media accounts, and use strong, complex passwords and change them often.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=175)** Have employees wear appropriate identification while in the building, use antivirus, anti malware and anti exploit protection, lockdown [[Privacy]] settings on social media accounts, and use strong, complex passwords and change them often.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=194)** Now, let's test your knowledge.
 >
-> **[3:16](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=196)** Discuss why social engineering should be a part of every ethical hacking exercise.
+> **[3:16](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=196)** Discuss why social engineering should be a part of every [[Ethical Hacking]] exercise.
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hacking-the-human?u=76281980&t=202)** You can record your answer on the challenge worksheet.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), [[Security]] (2), management (1), [[Human Resources (HR)|Human resources]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Phishing]] (1), [[Privacy]] (1), [[Ethical Hacking]] (1)
 > **Analogies:** for example (3), such as (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** caution (1)
@@ -1933,8 +1902,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Contracting the pen test
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/contracting-the-pen-test?u=76281980)
+#### [Contracting the pen test](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/contracting-the-pen-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,12 +1960,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Defining the project scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980)
+#### [Defining the project scope](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,7 +2013,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=171)** In addition, testers should know when to stop testing, meaning the ethical hacker doesn't have to demonstrate a complete hack in order to classify the vulnerability to the organization as a risk.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=186)** In many cases, an organization must ensure customer privacy because of regulatory compliance requirements.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=186)** In many cases, an organization must ensure customer [[Privacy]] because of [[Regulatory Compliance]] requirements.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=194)** That means the company must prevent any personal information, such as social security and credit card information, addresses, and more, from being exposed through data leakage, either intentionally or from a breach.
 >
@@ -2055,7 +2021,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=213)** Now, once all stakeholders determine the scope and objectives of the testing, the project manager will share the information with the team.
 >
-> **[3:43](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=223)** This will ensure that everyone has a focus and sense of purpose when performing the ethical hacking exercise.
+> **[3:43](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=223)** This will ensure that everyone has a focus and sense of purpose when performing the [[Ethical Hacking]] exercise.
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/defining-the-project-scope?u=76281980&t=231)** Now let's test your knowledge.
 >
@@ -2067,15 +2033,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), data (2), teams (1), business (1), database (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Regulatory Compliance]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiring consultants
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980)
+#### [Hiring consultants](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2103,7 +2068,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980&t=99)** You'll want to talk with them and make sure that they're willing to work with your ISP and communicate with them about the large number of external scans they might do during testing and this also applies to any cloud resources.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980&t=116)** For example, here I'm at this website where we see specifications on what pen testing can be performed in Amazon Web Services and I scroll down a little further and here it outlines exactly what they can do and the team will need to adhere to these restrictions.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980&t=116)** For example, here I'm at this website where we see specifications on what pen testing can be performed in [[Amazon Web Services (AWS)|Amazon Web Services]] and I scroll down a little further and here it outlines exactly what they can do and the team will need to adhere to these restrictions.
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/hiring-consultants?u=76281980&t=136)** Spell out all requirements and agree on the terms before testing begins and make sure that they'll be flexible as in some circumstances, the testers may have to alter pre-planned assessments.
 >
@@ -2143,15 +2108,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1), cloud (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** isp (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agreeing on terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980)
+#### [Agreeing on terms](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,11 +2137,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=44)** For example, under the column Detection, if after running a test, a device is flagged, or your activity is alerted, you would try to figure out how.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=54)** And, for example, you enter NIDS for a network intrusion detection system.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=54)** And, for example, you enter NIDS for a network [[Intrusion Detection]] system.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=59)** - [Instructor] Outline all details of the testing prior to any activity.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=64)** You do not want to find out that testing went too far, possibly violating client privacy.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=64)** You do not want to find out that testing went too far, possibly violating client [[Privacy]].
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=71)** The pen testing team should understand that, if during the assessment, they're able to breach the client database, they should stop the test and notify the compliance officer before going any further.
 >
@@ -2189,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=104)** In addition, they should check and confirm the environment matches the pen test inventory.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=110)** For example, if the inventory lists that all operating systems are Microsoft and several Linux systems are in place, the team will need to decide on whether they have enough expertise to test the systems.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=110)** For example, if the inventory lists that all operating systems are [[Microsoft]] and several [[Linux]] systems are in place, the team will need to decide on whether they have enough expertise to test the systems.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/agreeing-on-terms?u=76281980&t=124)** Managers must outline the restrictions of the testing, such as time of day and testing methods, to limit the impact on mission-critical systems.
 >
@@ -2205,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Security]] (1), [[Intrusion Detection]] (1), [[Privacy]] (1), database (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Privacy]] (1), [[Microsoft]] (1), [[Linux]] (1)
 > **Speakers:** - [instructor] (2), - next (1), - for (1), - well (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** pci (1), nids (1)
@@ -2213,8 +2177,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 
-#### Creating the contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/creating-the-contracts?u=76281980)
+#### [Creating the contracts](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/creating-the-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2215,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), application (1), next (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2261,8 +2223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2278,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=34)** I described what you should include while testing, such as physical and wireless security.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=40)** We covered the importance of testing the website and databases and assessing whether your company is leaking data via email or voice-over-IP.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=40)** We covered the importance of testing the website and [[Databases]] and assessing whether your company is leaking data via email or voice-over-IP.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=51)** We finished with a discussion on best practices for outsourcing the pen test.
 >
@@ -2286,9 +2247,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=63)** If you're interested in learning more, please check out the IT segment of the library, where we add new courses all the time.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=72)** If you want to learn more about encryption, check out my course "Learning Cryptography and Network Security".
+> **[1:12](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=72)** If you want to learn more about encryption, check out my course "Learning [[Cryptography]] and [[Network Security]]".
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=80)** To learn about the billions of devices attached to the Internet of Things, check out my course "Securing the IoT: Introduction" and any course in the Cisco CyberOps series will be well worth your time.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=80)** To learn about the billions of devices attached to the [[IoT|Internet of Things]], check out my course "Securing the [[IoT]]: Introduction" and any course in the Cisco CyberOps series will be well worth your time.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980&t=95)** For a complete list of courses, check out my author page.
 >
@@ -2298,7 +2259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Databases]] (1), data (1), [[Cryptography]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Cryptography]] (1), [[Network Security]] (1), [[IoT|Internet of things]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** we covered (1)
 > **Best Practices:** it's best to (1)

@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ITIL® 4 in the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980)
+#### [ITIL® 4 in the real world](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=0)** - [Dave] ITIL 4 updates the world's most popular IT service management guidance to include practices fit for today's agile and lean organizations and cloud technologies.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=0)** - [Dave] [[ITIL]] 4 updates the world's most popular [[IT Service Management]] guidance to include practices fit for today's [[Agile Development|agile]] and lean organizations and cloud technologies.
 >
 > **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=9)** The ITIL 4 Foundation course explains these concepts, but additional guidance is needed to apply them.
 >
@@ -112,20 +111,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=24)** I'm Dave Pultorak, and I've contributed to ITIL, and have been teaching people ITIL concepts, and helping them to apply them for 20 years now.
 >
-> **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=32)** If you're ready to take your ITIL skills to the next level, then come join me in my LinkedIn Learning course, and learn how to apply ITIL 4 Foundation concept.
+> **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980&t=32)** If you're ready to take your ITIL skills to the next level, then come join me in my [[LinkedIn]] Learning course, and learn how to apply ITIL 4 Foundation concept.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (7), [[IT Service Management]] (1), [[Agile Development|Agile]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[ITIL]] (7), [[IT Service Management]] (1), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **Env Vars:** itil (7)
 > **Speakers:** - [dave] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-you-should-know-23394683?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-you-should-know-23394683?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-you-should-know-23394683?u=76281980&t=0)** - [Instructor] You should've taken an ITIL 4 Foundation course.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-you-should-know-23394683?u=76281980&t=0)** - [Instructor] You should've taken an [[ITIL]] 4 Foundation course.
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-you-should-know-23394683?u=76281980&t=3)** Have those materials handy, including the ITIL 4 Foundation exam specification or syllabus and the ITIL 4 glossary to refer to, as we'll reference but not replicate the topics they cover when we cover how to apply them.
 
@@ -141,12 +139,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What your  ITIL® Foundation course covered
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980)
+#### [What your  ITIL® Foundation course covered](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980&t=0)** - [Instructor] ITIL Foundation covers 19 key concepts of service management, four dimensions of service management, the five components of the service value system, the six activities of the service value chain, seven guiding principles, and 18 of the 34 ITIL management practices.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980&t=0)** - [Instructor] [[ITIL]] Foundation covers 19 key concepts of service management, four dimensions of service management, the five components of the service value system, the six activities of the service value chain, seven guiding principles, and 18 of the 34 ITIL management practices.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980&t=17)** Let's review quickly before we dive in.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (8), management (7)
+> **Frameworks & Libraries:** [[ITIL]] (8)
 > **Env Vars:** itil (8)
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
@@ -200,14 +197,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Seven ways to apply service management
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980)
+#### [Seven ways to apply service management](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=0)** - [Instructor] Adopting and adapting ITIL need not be a heavyweight top down affair layered on top of existing work as extra work to do, like rolling a giant boulder up a hill.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=0)** - [Instructor] Adopting and adapting [[ITIL]] need not be a heavyweight top down affair layered on top of existing work as extra work to do, like rolling a giant boulder up a hill.
 >
-> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=10)** A lighter weight approach is possible, and I'd argue better suited to today's lean, agile, and DevOps-oriented individuals, teams, and organizations.
+> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=10)** A lighter weight approach is possible, and I'd argue better suited to today's lean, [[Agile Development|agile]], and [[DevOps]]-oriented individuals, teams, and organizations.
 >
 > **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=18)** Service management began leaning lightweight based on Jan Carlson's conception of moments of truth.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=32)** Sounds like the agile manifestos people over process, doesn't it?
 >
-> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=36)** In fact, in early ITIL books, the word process was used interchangeably with discipline.
+> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=36)** In fact, in early ITIL books, the [[Microsoft Word|word]] process was used interchangeably with discipline.
 >
 > **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980&t=41)** I like discipline a whole lot more because a discipline is something individuals and teams must apply themselves to learn.
 >
@@ -247,21 +243,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (5), [[Agile Development|Agile]] (3), teams (3), management (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[ITIL]] (5), [[Agile Development|Agile]] (3), [[DevOps]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** itil (5)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enact outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980)
+#### [Enact outcomes](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980&t=0)** - [Instructor] Now let's look at the approaches I've come to rely on.
 >
-> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980&t=3)** I hope you'll find them refreshing and helpful and better-suited to today's work environment and agile lean practices.
+> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980&t=3)** I hope you'll find them refreshing and helpful and better-suited to today's work environment and [[Agile Development|agile]] lean practices.
 >
 > **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enact-outcomes-23398571?u=76281980&t=10)** The first way is enacting and enabling outcomes.
 >
@@ -317,14 +312,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (2), [[Agile Development|Agile]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980)
+#### [Enable outcomes](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980&t=61)** The idea is to produce the best outcome through mechanization.
 >
-> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980&t=65)** Next, we have adaptive, which should be increasingly familiar to you as these are the practices in Agile, where we have buckets of activities and patterns and practices, so we're not simply winging it, but our aim is adaptability to produce the best outcome in response to a changing situation.
+> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980&t=65)** Next, we have adaptive, which should be increasingly familiar to you as these are the practices in [[Agile Development|Agile]], where we have buckets of activities and patterns and practices, so we're not simply winging it, but our aim is adaptability to produce the best outcome in response to a changing situation.
 >
 > **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enable-outcomes-23400020?u=76281980&t=80)** Emergent practices are for completely new-to-you situations, like the first time you do container orchestration, there's no precedent.
 >
@@ -368,14 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), next (1), [[Agile Development|Agile]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ita (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enlighten and empower people
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980)
+#### [Enlighten and empower people](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=31)** Today, systems are so complex that no one person can have them all in mind.
 >
-> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=36)** So for example, if I'm a change manager, there can only be so much expectation that I can know and make the right choice around changes for Python or MongoDB, or Chef, or Puppet and so on.
+> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=36)** So for example, if I'm a change manager, there can only be so much expectation that I can know and make the right choice around changes for [[Python (Programming Language)|Python]] or [[MongoDB]], or Chef, or Puppet and so on.
 >
 > **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=48)** What I really should be good at is facilitation and to rely on others to bring the knowledge forward for their patch.
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=84)** This is the engineer and enforce approach.
 >
-> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=86)** In situations like regulatory compliance, this approach is unavoidable and necessary, but even then, true success comes with people getting and getting along with the outcomes.
+> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=86)** In situations like [[Regulatory Compliance]], this approach is unavoidable and necessary, but even then, true success comes with people getting and getting along with the outcomes.
 >
 > **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=97)** The better way is to enlighten and empower people to ensure that they know the outcomes to drive towards, and then to help them do it.
 >
@@ -413,19 +406,18 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=118)** In this view, your job is to ensure that people grasp and drive towards outcomes and to ensure they have the right skills, knowledge, mindset, and tools to succeed.
 >
-> **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=128)** As shown in this model adopted from John Kotter, if people want to drive towards outcomes, they may still be barriers to them doing so or a lack of enablers to help them along.
+> **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=128)** As shown in this model adopted from [[John the Ripper|John]] Kotter, if people want to drive towards outcomes, they may still be barriers to them doing so or a lack of enablers to help them along.
 >
 > **[2:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/enlighten-and-empower-people-23388947?u=76281980&t=138)** Empowering people is about removing or reducing barriers to acting and providing or amplifying enablers for action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Python (Programming Language)|Python]] (1), [[MongoDB]] (1), business (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[MongoDB]] (1), [[Regulatory Compliance]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reduce barriers and increase enablers
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980)
+#### [Reduce barriers and increase enablers](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980&t=5)** With force field analysis being the key technique here, the beauty of this approach is that individuals, teams, and organizations can take action on whatever the blockers are to outcomes, making individuals, teams, and organizations more responsive in changing conditions.
 >
-> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980&t=19)** Lowering barriers and increasing enablers is a key technique in lean, agile, and DevOps organizations because it allows for flexibility in the unanticipated.
+> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980&t=19)** Lowering barriers and increasing enablers is a key technique in lean, [[Agile Development|agile]], and [[DevOps]] organizations because it allows for flexibility in the unanticipated.
 >
 > **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reduce-barriers-and-increase-enablers-23396559?u=76281980&t=29)** It is our approach for improving things, for solving problems, and pursuing opportunities wherever we find them, like between people's ears, and key moments of truth, and in the settings they take place in.
 >
@@ -471,14 +463,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), teams (2), [[Agile Development|Agile]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **Env Vars:** swot (5)
 > **Definitions:** is a  (3), stands for (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Improve moments of truth
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980)
+#### [Improve moments of truth](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,11 +481,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=15)** He orchestrated a turnaround at SAS Airlines by focusing everyone on improving moments of truth.
 >
-> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=20)** This approach, focused on making key microtransactions great stands in stark contrast to the end-to-end process re-engineering thinking and approach.
+> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=20)** This approach, focused on making key microtransactions great stands in [[Stark (Accessibility Software)|stark]] contrast to the end-to-end process re-engineering thinking and approach.
 >
-> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=29)** This lean and agile approach to service management prominent at service management's inception got displaced in the re-engineering era by a more heavy handed end-to-end process engineering approach.
+> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=29)** This lean and [[Agile Development|agile]] approach to service management prominent at service management's inception got displaced in the re-engineering era by a more heavy handed end-to-end process engineering approach.
 >
-> **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=41)** The pendulum is now swinging the other direction back to lightweight, lean, agile and DevOps approaches.
+> **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=41)** The pendulum is now swinging the other direction back to lightweight, lean, agile and [[DevOps]] approaches.
 >
 > **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/improve-moments-of-truth-23394685?u=76281980&t=48)** The fourth way, improving moments of truth, takes up Jan's idea, focusing on what people do.
 >
@@ -538,15 +529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Engineering]] (3), [[Agile Development|Agile]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[DevOps]] (1)
 > **Env Vars:** cab (4), sas (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bring the first four ways together
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980)
+#### [Bring the first four ways together](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980&t=55)** I'm recapping these here now to highlight how different this approach is and why we value it over engineering and enforcing end-to-end process activities.
 >
-> **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980&t=64)** I've laid out the seven ways here in the style of the agile manifesto because it contrasts them with other approaches in use in organizations that are either overused or used exclusively and that often don't work so well.
+> **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980&t=64)** I've laid out the seven ways here in the style of the [[Agile Development|agile]] manifesto because it contrasts them with other approaches in use in organizations that are either overused or used exclusively and that often don't work so well.
 >
 > **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/bring-the-first-four-ways-together-23398573?u=76281980&t=77)** The manifesto format helps us see what we value and over what as a basis for how we work together.
 >
@@ -582,13 +572,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Root out variation
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-variation-23397554?u=76281980)
+#### [Root out variation](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-variation-23397554?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,18 +619,17 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-variation-23397554?u=76281980&t=128)** If you learn nothing else from this course, but take this back on the job and apply it, you'll get a lot of value out of the course.
 >
-> **[2:14](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-variation-23397554?u=76281980&t=134)** DevOps practitioners have a metaphor for this, they call it pets versus cattle.
+> **[2:14](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-variation-23397554?u=76281980&t=134)** [[DevOps]] practitioners have a metaphor for this, they call it pets versus cattle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), management (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Root out dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980)
+#### [Root out dependency](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,11 +655,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=32)** What we want is cattle.
 >
-> **[0:34](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=34)** Everything looks the same, as with the cloud and infrastructure as code where the question how is it unique isn't needed, as each is the same.
+> **[0:34](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=34)** Everything looks the same, as with the cloud and [[Infrastructure as code (IaC)|infrastructure as code]] where the question how is it unique isn't needed, as each is the same.
 >
-> **[0:42](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=42)** Reducing unnecessary variation and dependencies is key to successfully applying ITIL, as their presence in development and delivery erodes product and service quality.
+> **[0:42](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=42)** Reducing unnecessary variation and dependencies is key to successfully applying [[ITIL]], as their presence in development and delivery erodes product and service quality.
 >
-> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=52)** This includes variations and dependencies in skills and knowledge and how practices are performed in terminology, hardware, and software.
+> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=52)** This includes variations and dependencies in skills and knowledge and how practices are performed in terminology, [[Hardware]], and software.
 >
 > **[0:59](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/root-out-dependency-23397555?u=76281980&t=59)** Practices must be repeatable and artifacts standardized for high quality and value at high velocity.
 >
@@ -711,13 +699,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[ITIL]] (1), product (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[ITIL]] (1), [[Hardware]] (1)
 > **Env Vars:** itil (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lower transaction costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980)
+#### [Lower transaction costs](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,15 +736,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=69)** Our capability to do so is a function of our tooling and culture.
 >
-> **[1:12](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=72)** While tooling and culture affect each other, tools can make an agile culture possible.
+> **[1:12](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=72)** While tooling and culture affect each other, tools can make an [[Agile Development|agile]] culture possible.
 >
-> **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=77)** For example, if we have continuous integration and delivery and blue/green deployment, we can have a much faster time to value in quality because transaction costs are lower.
+> **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=77)** For example, if we have [[Continuous Integration (CI)|continuous integration]] and delivery and blue/green deployment, we can have a much faster time to value in quality because transaction costs are lower.
 >
 > **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=87)** Transaction costs of, for example, introducing a new feature or feature set or a release or returning to a known good prior state.
 >
 > **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=94)** So in general, my advice in implementing idle concepts is to find a way to lower transaction costs in services, processes, moments of truth, and so on.
 >
-> **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=105)** This idea is based on Ronald Coase's theorem of transaction costs, which really forms the basis of agile service management as well as Lean, Agile, Scrum, and DevOps.
+> **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=105)** This idea is based on Ronald Coase's theorem of transaction costs, which really [[Forms]] the basis of agile service management as well as Lean, Agile, [[Scrum]], and [[DevOps]].
 >
 > **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/lower-transaction-costs-23396556?u=76281980&t=115)** One way of lowering transaction costs is to make things more ready to hand.
 >
@@ -775,18 +762,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Agile Development|Agile]] (3), feature (2), cloud (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Continuous Integration (CI)|Continuous integration]] (1), [[Forms]] (1), [[Scrum]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Reflect and act
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reflect-and-act-23394689?u=76281980)
+#### [Reflect and act](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reflect-and-act-23394689?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reflect-and-act-23394689?u=76281980&t=0)** - [Instructor] Many ITIL adaptations are top-down organizational-level efforts only, or mostly.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reflect-and-act-23394689?u=76281980&t=0)** - [Instructor] Many [[ITIL]] adaptations are top-down organizational-level efforts only, or mostly.
 >
 > **[0:06](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/reflect-and-act-23394689?u=76281980&t=6)** Actions taken mimic downloading and trying to install processes like software.
 >
@@ -842,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (3), teams (3), management (2)
+> **Frameworks & Libraries:** [[ITIL]] (3)
 > **Env Vars:** itil (3), oem (1), dml (1), idle (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
@@ -855,8 +841,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply key service management concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980)
+#### [Apply key service management concepts](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980&t=95)** For the sixth way, lower transaction costs, you want to understand what's hard now and why in the delivery and supportive services.
 >
-> **[1:42](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980&t=102)** This includes what's hard for consumers, customer and user experience, that's CX and UX, as well as what is hard internally, what's called EX, or employee experience.
+> **[1:42](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980&t=102)** This includes what's hard for consumers, customer and [[User Experience (UX)|user experience]], that's CX and UX, as well as what is hard internally, what's called EX, or employee experience.
 >
 > **[1:53](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980&t=113)** And finally, for the seventh way, individual team and organizational reflection and action, you'll want, for sure, to be able to articulate who your services and consumers are in your role as an individual contributor, provider and consumer of services, as well as for your team.
 >
@@ -894,17 +879,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[User Experience (UX)|User experience]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Services and service management
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980)
+#### [Services and service management](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980&t=0)** - [Narrator] Here we see the definition of a service.
 >
-> **[0:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980&t=2)** Note that ITIL defines value as the perceived benefit, usefulness, and importance of something.
+> **[0:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980&t=2)** Note that [[ITIL]] defines value as the perceived benefit, usefulness, and importance of something.
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/services-and-service-management-23388946?u=76281980&t=8)** Since stakeholders perceive value, it follows that value resides in the mind of stakeholders.
 >
@@ -982,19 +966,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[ITIL]] (2), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (2)
 > **Warnings:** warning (3), note that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create value with services
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/create-value-with-services-23398574?u=76281980)
+#### [Create value with services](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/create-value-with-services-23398574?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/create-value-with-services-23398574?u=76281980&t=0)** - [Instructor] Here we see the ITIL definitions of value and value co-creation, the modern idea that value flows multidirectionally amongst stakeholders, not just from provider to consumer unidirectionally.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/create-value-with-services-23398574?u=76281980&t=0)** - [Instructor] Here we see the [[ITIL]] definitions of value and value co-creation, the modern idea that value flows multidirectionally amongst stakeholders, not just from provider to consumer unidirectionally.
 >
 > **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/create-value-with-services-23398574?u=76281980&t=10)** How do we apply the ITIL concept of value?
 >
@@ -1086,15 +1069,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (4), next (2), data (1)
+> **Frameworks & Libraries:** [[ITIL]] (4)
 > **Env Vars:** itil (4)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-relationships-23400021?u=76281980)
+#### [Service relationships](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-relationships-23400021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1130,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1157,11 +1138,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the four dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-four-dimensions-23394691?u=76281980)
+#### [Apply the four dimensions](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-four-dimensions-23394691?u=76281980)
 
-#### Organizations and information dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980)
+#### [Organizations and information dimensions](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980&t=52)** Brainstorm ideas for quick wins in issue areas.
 >
-> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980&t=56)** The information and technology dimension includes information management challenges, like security and regulatory compliance.
+> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980&t=56)** The information and technology dimension includes information management challenges, like security and [[Regulatory Compliance]].
 >
 > **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/organizations-and-information-dimensions-23393787?u=76281980&t=63)** Information is the information and knowledge used to deliver services and to manage all aspects of the service value system.
 >
@@ -1231,19 +1210,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (2), [[Security]] (2), [[Regulatory Compliance]] (2)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Partners and process dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980)
+#### [Partners and process dimensions](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=0)** - [Instructor] ITIL defines partners as third party providers of goods and services, and suppliers as stakeholders responsible for providing services used.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=0)** - [Instructor] [[ITIL]] defines partners as third party providers of goods and services, and suppliers as stakeholders responsible for providing services used.
 >
-> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=8)** Relationships between partners and suppliers and a provider can include flexible partnerships, formal agreements, and contracts for delivery of goods or services like hardware, software, network, telecommunications, and outsource services.
+> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=8)** Relationships between partners and suppliers and a provider can include flexible partnerships, formal agreements, and contracts for delivery of goods or services like [[Hardware]], software, network, [[Telecommunications]], and outsource services.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=23)** Let's apply this dimension with a second way, enlightening and empowering people.
 >
@@ -1263,7 +1241,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=62)** Use these questions to start enlightening and empowering.
 >
-> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=65)** ITIL defines a value stream as a set of steps an organization takes to create and deliver products and services to consumers.
+> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=65)** ITIL defines a value stream as a set of steps an organization takes to create and deliver [[Microsoft Products|products]] and services to consumers.
 >
 > **[1:12](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/partners-and-process-dimensions-23397556?u=76281980&t=72)** It's a combination of the organization's value chain activities, consisting of both value and non-value added activity.
 >
@@ -1295,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (2), [[Hardware]] (1), [[Telecommunications]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Hardware]] (1), [[Telecommunications]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** itil (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1305,14 +1283,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply service value system
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980)
+#### [Apply service value system](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980&t=0)** - [Instructor] For service management to function properly, it has to work as a system.
 >
-> **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980&t=4)** That's why ITIL Foundation covers the ITIL Service Value System or SVS with its five components shown here.
+> **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980&t=4)** That's why [[ITIL]] Foundation covers the ITIL Service Value System or SVS with its five components shown here.
 >
 > **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980&t=11)** The SVS describes how all components and activities of the organization work together as a system to enable value creation.
 >
@@ -1360,16 +1337,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (3), management (1), business (1), next (1)
+> **Frameworks & Libraries:** [[ITIL]] (3)
 > **Env Vars:** itil (3), svs (2)
 > **Speakers:** - [instructor] (1)
 
-#### Apply service value system components
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980)
+#### [Apply service value system components](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=0)** - [Instructor] The first component of the SVS is the Seven ITIL Guiding Principles.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=0)** - [Instructor] The first component of the SVS is the Seven [[ITIL]] Guiding Principles.
 >
 > **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=4)** They're recommendations that can guide an organization in all circumstances regardless of changes in its goals, strategies, type of work, management structure, and so on.
 >
@@ -1403,7 +1379,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=79)** The service value chain is a set of interconnected activities that an organization performs to deliver a valuable product or service to its consumers.
 >
-> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=88)** It facilitates value realization, and it's also an operating model for service providers that covers all key activities to effectively manage products and services.
+> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=88)** It facilitates value realization, and it's also an operating model for service providers that covers all key activities to effectively manage [[Microsoft Products|products]] and services.
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=98)** Let's apply with the sixth way.
 >
@@ -1423,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=135)** For each, list a key moment of truth.
 >
-> **[2:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=137)** For example, the CAB meeting for change control, a post problem review for problem management, or a major incident review for incident management.
+> **[2:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=137)** For example, the CAB meeting for change control, a post problem review for [[Problem Management]], or a major incident review for incident management.
 >
 > **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-components-23400019?u=76281980&t=146)** For each, list one concrete way you can improve the interaction and one concrete way you can improve the setting it takes place in.
 >
@@ -1465,7 +1441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (3), management (3), [[Microsoft Products|Products]] (2), product (1), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (3), [[Microsoft Products|Products]] (2), [[Problem Management]] (1)
 > **Env Vars:** itil (3), svs (1), stlc (1), cab (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1477,12 +1453,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the  ITIL® guiding principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980)
+#### [Apply the  ITIL® guiding principles](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980&t=0)** - [Instructor] Here we see the seven ITIL guiding principles.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980&t=0)** - [Instructor] Here we see the seven [[ITIL]] guiding principles.
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980&t=3)** Recall that these are recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure, as they're universal and enduring.
 >
@@ -1506,12 +1481,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (1), management (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply guiding principles, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980)
+#### [Apply guiding principles, part 1](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,7 +1499,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=24)** Focusing on people's skills, knowledge and mindsets, and empowering them for action.
 >
-> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=29)** ITIL says to apply this first principle successfully, we must know and do the things on the left on the table shown here.
+> **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=29)** [[ITIL]] says to apply this first principle successfully, we must know and do the things on the left on the table shown here.
 >
 > **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=36)** To apply, review this list and ask the questions on the right.
 >
@@ -1561,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=109)** The fourth principle, collaborate and promote visibility is about working together across boundaries for more buy-in and success, sharing information and building understanding and trust, and making work and consequences visible.
 >
-> **[2:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=122)** This echoes DevOps, agile, and lean practices of visible management, communication and collaboration, breaking down silos and driving towards shared objectives.
+> **[2:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=122)** This echoes [[DevOps]], [[Agile Development|agile]], and lean practices of visible management, communication and collaboration, breaking down silos and driving towards shared objectives.
 >
 > **[2:12](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-1-23393785?u=76281980&t=132)** We can apply this principle with a third way, lowering barriers and increasing enablers.
 >
@@ -1575,16 +1549,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (5), teams (1), [[DevOps]] (1), [[Agile Development|Agile]] (1), management (1)
+> **Frameworks & Libraries:** [[ITIL]] (5), [[DevOps]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** itil (5)
 > **Speakers:** - [instructor] (1)
 
-#### Apply guiding principles, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-2-23398570?u=76281980)
+#### [Apply guiding principles, part 2](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-2-23398570?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-2-23398570?u=76281980&t=0)** - [Instructor] Think and work holistically is the fifth ITIL guiding principle.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-2-23398570?u=76281980&t=0)** - [Instructor] Think and work holistically is the fifth [[ITIL]] guiding principle.
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-guiding-principles-part-2-23398570?u=76281980&t=3)** Work on the service, not just its parts, integrate information technology, organization, people, practices, partners, and agreements.
 >
@@ -1628,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (4), [[Automation]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (4)
 > **Env Vars:** itil (4)
 > **Speakers:** - [instructor] (1)
 
@@ -1637,8 +1610,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the  ITIL® service value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980)
+#### [Apply the  ITIL® service value chain](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,9 +1618,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=11)** It's an operating model for service providers.
 >
-> **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=14)** It covers all key activities to effectively manage and produce services and products.
+> **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=14)** It covers all key activities to effectively manage and produce services and [[Microsoft Products|products]].
 >
-> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=19)** Here are some ways you might apply the second ITIL foundation concept of the service value chain.
+> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=19)** Here are some ways you might apply the second [[ITIL]] foundation concept of the service value chain.
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980&t=24)** The first way, enacting and enabling outcomes.
 >
@@ -1682,18 +1654,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** itil (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply value chain activities, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-1-23394688?u=76281980)
+#### [Apply value chain activities, part 1](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-1-23394688?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-1-23394688?u=76281980&t=0)** - [Instructor] The purpose of the plan value chain activity is to ensure a shared understanding of the vision, status, and improvement direction for all four dimensions and products and services across the organization.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-1-23394688?u=76281980&t=0)** - [Instructor] The purpose of the plan value chain activity is to ensure a shared understanding of the vision, status, and improvement direction for all four dimensions and [[Microsoft Products|products]] and services across the organization.
 >
 > **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-1-23394688?u=76281980&t=11)** Let's apply this activity using this second way, enlightening and empowering people.
 >
@@ -1739,25 +1710,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply value chain activities, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980)
+#### [Apply value chain activities, part 2](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=0)** - [Instructor] The purpose of this value chain activity is to ensure that products and services continually meet stakeholder expectations for quality, costs and time to market.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=0)** - [Instructor] The purpose of this value chain activity is to ensure that [[Microsoft Products|products]] and services continually meet stakeholder expectations for quality, costs and time to market.
 >
 > **[0:09](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=9)** For the design and transition activity of the service value chain, we'll apply using the fifth way, root out variation and dependency.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=17)** Here's how.
 >
-> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=18)** Examine the inputs and outputs of this activity in your ITIL Foundation materials.
+> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=18)** Examine the inputs and outputs of this activity in your [[ITIL]] Foundation materials.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-value-chain-activities-part-2-23399020?u=76281980&t=23)** For example, one input is service components from obtain/build, and one output is requirements and specification from obtain/build.
 >
@@ -1808,12 +1778,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply  ITIL® management practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980)
+#### [Apply  ITIL® management practices](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980&t=0)** - [Instructor] Recall that ITIL*4 defines a practice as a set of organizational resources designed for performing work or accomplishing an objective.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980&t=0)** - [Instructor] Recall that [[ITIL]]*4 defines a practice as a set of organizational resources designed for performing work or accomplishing an objective.
 >
 > **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980&t=8)** While ITIL*4 includes the 34 practices shown here, Foundation covers the purpose for 18 of them, the ones shown here in bold, and covers further details for seven of them, the ones highlighted here.
 >
@@ -1839,20 +1808,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (3), management (1)
+> **Frameworks & Libraries:** [[ITIL]] (3)
 > **Env Vars:** itil (3)
 > **Speakers:** - [instructor] (1)
 
-#### Apply general management practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980)
+#### [Apply general management practices](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=0)** - [Instructor] Continual improvement is the practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=0)** - [Instructor] Continual improvement is the practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of [[Microsoft Products|products]] and services.
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=13)** Let's apply the concept of continual improvement methods, models and techniques, using the second way, enlightening and empowering people.
 >
-> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=20)** ITIL says, to apply this principle, we must know and do the things on the left, on the table shown here.
+> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=20)** [[ITIL]] says, to apply this principle, we must know and do the things on the left, on the table shown here.
 >
 > **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=26)** Review this list and ask the questions on the right.
 >
@@ -1882,7 +1850,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=122)** How do you ask them to improve?
 >
-> **[2:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=124)** How do you identify themes and which ones to focus on, Outcomes, metrics, accountability and follow up?
+> **[2:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=124)** How do you identify themes and which ones to focus on, Outcomes, metrics, [[Accountability]] and follow up?
 >
 > **[2:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-general-management-practices-23399021?u=76281980&t=131)** Supplier management is the practice of ensuring your suppliers and their performance are managed appropriately to support seamless quality products and services.
 >
@@ -1912,14 +1880,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), business (3), [[Microsoft Products|Products]] (3), [[ITIL]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[ITIL]] (2), [[Accountability]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
 > **Speakers:** - [instructor] (1)
 
-#### Service management practices, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980)
+#### [Service management practices, part 1](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,7 +1896,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980&t=13)** Let's apply the availability management practice using the second way, enlighten and empower people.
 >
-> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980&t=18)** ITIL cites the availability related metrics shown here.
+> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980&t=18)** [[ITIL]] cites the availability related metrics shown here.
 >
 > **[0:21](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-1-23393784?u=76281980&t=21)** Which of these do you track as an individual?
 >
@@ -2015,13 +1982,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[ITIL]] (4), cloud (1)
+> **Frameworks & Libraries:** [[ITIL]] (4)
 > **Env Vars:** itil (4)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Service management practices, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980)
+#### [Service management practices, part 2](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2033,7 +1999,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980&t=18)** Let's use way number four, Improve moments of truth to apply here.
 >
-> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980&t=22)** ITIL has the advice shown here for incident management.
+> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980&t=22)** [[ITIL]] has the advice shown here for incident management.
 >
 > **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-2-23397553?u=76281980&t=25)** List these pieces of advice on a whiteboard.
 >
@@ -2105,14 +2071,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[ITIL]] (3), feature (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[ITIL]] (3)
 > **Env Vars:** itil (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service management practices, part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980)
+#### [Service management practices, part 3](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,7 +2115,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980&t=87)** Then, for each of the top five tasks, brainstorm ways to reduce or eliminate manual effort.
 >
-> **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980&t=94)** Problem management is the practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents and managing workarounds and known errors.
+> **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980&t=94)** [[Problem Management]] is the practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents and managing workarounds and known errors.
 >
 > **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-3-23395632?u=76281980&t=105)** Let's apply this concept using the second way, enlightening and empowering people.
 >
@@ -2184,14 +2149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Problem Management]] (2), next (1), [[Automation]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service management practices, part 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980)
+#### [Service management practices, part 4](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2231,7 +2195,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=85)** Would it be useful if you could?
 >
-> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=88)** Service configuration management is the practice of ensuring that accurate and reliable information about the configuration of services and the configuration items that support them is available when and where needed.
+> **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=88)** Service [[Configuration Management]] is the practice of ensuring that accurate and reliable information about the configuration of services and the configuration items that support them is available when and where needed.
 >
 > **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=99)** This includes information on how the items are configured and the relationships among configuration items.
 >
@@ -2263,7 +2227,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=176)** For your most critical service, what's the best and cheapest way to list each dependency for that service?
 >
-> **[3:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=182)** How can you determine in real-time the configuration of each component?
+> **[3:02](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=182)** How can you determine in [[Real-Time]] the configuration of each component?
 >
 > **[3:08](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-4-23394687?u=76281980&t=188)** How does that map to what you're actually doing?
 >
@@ -2275,13 +2239,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), cloud (3), next (2), [[Configuration Management]] (2), ci (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (2), [[Real-Time]] (1)
 > **Env Vars:** itl (3)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service management practices, part 5
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980)
+#### [Service management practices, part 5](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2291,7 +2254,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980&t=14)** Let's apply this practice using the second way, enlightening and empowering people.
 >
-> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980&t=18)** ITIL distinguishes service continuity and business continuity management as shown here.
+> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980&t=18)** [[ITIL]] distinguishes service continuity and business continuity management as shown here.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-5-23399018?u=76281980&t=23)** Do you make this distinction?
 >
@@ -2339,14 +2302,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (4), management (3), business (1), cloud (1)
+> **Frameworks & Libraries:** [[ITIL]] (4)
 > **Env Vars:** itil (4), bcm (2), scm (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service management practices, part 6
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980)
+#### [Service management practices, part 6](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2356,7 +2318,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980&t=16)** Let's apply the service level management practice using the second way, enlightening and empowering people.
 >
-> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980&t=22)** ITIL specifies how service level management provides end-to-end visibility into services as shown here.
+> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980&t=22)** [[ITIL]] specifies how service level management provides end-to-end visibility into services as shown here.
 >
 > **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/service-management-practices-part-6-23394684?u=76281980&t=28)** Is this what you do?
 >
@@ -2428,20 +2390,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[ITIL]] (5), business (3), [[Automation]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (5)
 > **Env Vars:** itil (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply the deployment management practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980)
+#### [Apply the deployment management practice](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=0)** - [Instructor] Deployment management is the practice of moving new or changed hardware, software, processes, documentation, or other service components to the live and testing and staging environments.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=0)** - [Instructor] Deployment management is the practice of moving new or changed [[Hardware]], software, processes, documentation, or other service components to the live and testing and staging environments.
 >
-> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=11)** Continuous integration and continuous delivery, or CI/CD, is an integrated set of practices and tools to merge code into build, test, package resulting software to be ready for deployment.
+> **[0:11](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=11)** [[Continuous Integration (CI)|Continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], or CI/CD, is an integrated set of practices and tools to merge code into build, test, package resulting software to be ready for deployment.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=23)** Let's apply the deployment management practice using the fourth way, improving moments of truth.
 >
@@ -2491,7 +2452,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=93)** Another way to apply the deployment management practice is with the sixth way, lowering transaction costs.
 >
-> **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=99)** Assume service X is our production e-commerce site.
+> **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=99)** Assume service X is our production [[E-Commerce]] site.
 >
 > **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-deployment-management-practice-23398569?u=76281980&t=103)** You'll want dev, test, and production instances of the service, but can you further evolve production into more deployment rings so you can learn?
 >
@@ -2515,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[E-Commerce]] (2), [[Hardware]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Hardware]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Env Vars:** prod (1)
 > **Cross-References:** in the next (1)
@@ -2527,12 +2488,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=0)** - [Instructor] We've covered seven ways to apply each of the topics covered in ITIL Foundation.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=0)** - [Instructor] We've covered seven ways to apply each of the topics covered in [[ITIL]] Foundation.
 >
 > **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=4)** I hope I've removed some of the mystery on how to get started applying these concepts in ways that produce value for you, your team, and your organization.
 >
@@ -2540,7 +2500,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=17)** Here are some great resources to begin with.
 >
-> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=20)** On enlightening and empowering people, see John Kotter's book, Leading Change, and for the concept of acting within your circle of influence, see Stephen Covey's book, the Seven Habits of Highly Effective People.
+> **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=20)** On enlightening and empowering people, see [[John the Ripper|John]] Kotter's book, Leading Change, and for the concept of acting within your circle of influence, see Stephen Covey's book, the Seven Habits of Highly Effective People.
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980&t=32)** Well, that's it, I know from personal experience how making seemingly small changes in thinking and action can make a big difference for individuals, teams, and organizations.
 >
@@ -2548,7 +2508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (2), teams (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** itil (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)

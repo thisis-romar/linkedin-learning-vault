@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/introduction-to-the-course-25231480?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/introduction-to-the-course-25231480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,29 +110,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), business (1)
 > **Speakers:** - aa (1)
 
-#### Setting up GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980)
+#### [Setting up GitHub Codespaces](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=0)** - [Instructor] The code for this course is available in the repository build-ai-agents-and-chatbots-with-langgraph.
 >
-> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=9)** To open up Codespaces, go to Code and then hit Create Codespace on Main.
+> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=9)** To open up [[Codespaces]], go to Code and then hit Create Codespace on Main.
 >
 > **[0:16](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=16)** This will open up the IDE and will start setting up the required software.
 >
 > **[0:22](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=22)** The IDE is now ready.
 >
-> **[0:25](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=25)** Now go and open the notebook code_O2_XX Basic React Agent in LangGraph.
+> **[0:25](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=25)** Now go and open the notebook code_O2_XX Basic [[React.js|React]] Agent in LangGraph.
 >
 > **[0:33](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=33)** The first cell in this notebook has all the dependency packages that are required for the exercises in this course.
 >
 > **[0:40](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=40)** Go ahead and run these dependency installation.
 >
-> **[0:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=47)** Choose a Python environment.
+> **[0:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=47)** Choose a [[Python (Programming Language)|Python]] environment.
 >
 > **[0:49](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setting-up-codespaces-25230461?u=76281980&t=49)** For this course, it is recommended to use Python 3.10.
 >
@@ -141,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), ai (1), [[Codespaces]] (1), hit (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1), [[React.js|React]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** ide (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -154,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI chatbots: A review
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980)
+#### [AI chatbots: A review](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=12)** If you are not familiar with these concepts, I highly recommend additional reading before starting this course, as mentioned in the prerequisites, Let's begin with chatbots.
 >
-> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=24)** Chatbots are built upon conversational AI.
+> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=24)** Chatbots are built upon [[Conversational AI]].
 >
 > **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=28)** What is conversational AI?
 >
@@ -177,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=53)** They interact with humans, understand their intentions and respond to their queries.
 >
-> **[0:58](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=58)** Behind the scenes, they use systems and technologies for natural language processing and generation.
+> **[0:58](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=58)** Behind the scenes, they use systems and technologies for [[Natural Language Processing (NLP)|natural language processing]] and generation.
 >
 > **[1:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=65)** What are some key characteristics of Chatbots?
 >
@@ -203,17 +199,16 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=123)** Chatbots have been deployed for a wide variety of use cases across several industries.
 >
-> **[2:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=129)** This includes customer support, e-commerce, healthcare, financial services, travel, hospitality, education and training, human resources, marketing, personal productivity and government services.
+> **[2:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=129)** This includes [[Customer Support]], [[E-Commerce]], healthcare, financial services, travel, hospitality, education and training, [[Human Resources (HR)|human resources]], marketing, personal productivity and government services.
 >
 > **[2:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980&t=144)** If you are not familiar with chatbots, I highly recommend additional reading before proceeding with this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Conversational AI]] (5), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Customer Support]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Conversational AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Customer Support]] (1), [[E-Commerce]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - this (1)
 
-#### Agentic AI: A review
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980)
+#### [Agentic AI: A review](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=5)** What is agentic AI?
 >
-> **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=7)** This is generative AI that is designed to operate autonomously with minimal human intervention, make decisions, and take actions towards specific goals.
+> **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=7)** This is [[Generative AI]] that is designed to operate autonomously with minimal human intervention, make decisions, and take actions towards specific goals.
 >
 > **[0:17](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=17)** If you are not familiar with the concepts of agentic AI, I highly recommend further reading before proceeding with this course.
 >
@@ -233,23 +228,22 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=49)** Then, identify the inputs to the tool, invoke the tool, and return results.
 >
-> **[0:55](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=55)** The routing pattern is used to route a request to alternate destinations by analyzing the input and context of the request.
+> **[0:55](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=55)** The [[Routing]] pattern is used to route a request to alternate destinations by analyzing the input and context of the request.
 >
 > **[1:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=64)** The reflection pattern is used to review outputs, artifacts or decisions, and then provide constructive feedback to improve accuracy.
 >
-> **[1:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=74)** The multi-agent pattern is used to create applications where multiple independent AI agents can work together to accomplish a complex task.
+> **[1:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=74)** The multi-agent pattern is used to create applications where multiple independent [[AI Agents]] can work together to accomplish a complex task.
 >
 > **[1:26](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-ai-a-review-25234396?u=76281980&t=86)** We will be implementing chatbots for each of these patterns in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Routing]] (1), [[AI Agents]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agentic chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980)
+#### [Agentic chatbots](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980&t=11)** Agentic chatbots provide the best of both worlds.
 >
-> **[0:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980&t=14)** They combine the autonomy and decision-making capabilities of agents with the conversational capabilities of chatbots.
+> **[0:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980&t=14)** They combine the autonomy and [[Decision-Making]] capabilities of agents with the conversational capabilities of chatbots.
 >
 > **[0:22](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/agentic-chatbots-25234393?u=76281980&t=22)** This helps create near human-like user experiences that deliver efficiency and effectiveness for enterprises.
 >
@@ -297,11 +291,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (9), ai (3), power (1), [[Decision-Making]] (1), application (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### State and memory in chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/state-and-memory-in-chatbots-25230458?u=76281980)
+#### [State and memory in chatbots](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/state-and-memory-in-chatbots-25230458?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,14 +378,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), chatbot (12), llm (2), data (2), next (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### LangGraph for agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980)
+#### [LangGraph for agentic AI](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,9 +393,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=7)** What is LangGraph?
 >
-> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=9)** It is a framework developed in LangChain.
+> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=9)** It is a framework developed in [[LangChain]].
 >
-> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=12)** LangChain is a popular framework for Generative AI.
+> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=12)** LangChain is a popular framework for [[Generative AI]].
 >
 > **[0:15](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-for-agentic-ai-25231479?u=76281980&t=15)** It's recommended to learn about LangChain if you are not already familiar with it.
 >
@@ -448,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), [[Generative AI]] (1), [[Orchestration]] (1), power (1), prompt (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Generative AI]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** node (1)
 > **Cross-References:** later in (1)
@@ -461,16 +452,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ReAct?
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980)
+#### [What is ReAct?](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=0)** - [Instructor] We will be building an agentic chatbot using the ReAct framework in this chapter.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=0)** - [Instructor] We will be building an agentic chatbot using the [[React.js|ReAct]] framework in this chapter.
 >
 > **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=6)** Before we get there, let's quickly review what the ReAct framework is.
 >
-> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=12)** The ReAct framework is a popular framework for building AI agents.
+> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=12)** The ReAct framework is a popular framework for building [[AI Agents]].
 >
 > **[0:17](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980&t=17)** It was originally published as a paper and then adopted by popular agent frameworks.
 >
@@ -518,18 +508,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), [[React.js|React]] (6), next (3), prompt (2), chatbot (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[AI Agents]] (1)
 > **Env Vars:** llm (7)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic ReAct agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/basic-react-agent-design-25232481?u=76281980)
+#### [Basic ReAct agent design](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/basic-react-agent-design-25232481?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/basic-react-agent-design-25232481?u=76281980&t=0)** - [Instructor] Let's now create our first basic ReAct agent.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/basic-react-agent-design-25232481?u=76281980&t=0)** - [Instructor] Let's now create our first basic [[React.js|ReAct]] agent.
 >
 > **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/basic-react-agent-design-25232481?u=76281980&t=4)** We will discuss this ReAct agent design in this video.
 >
@@ -561,14 +550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), product (1), llm (1), chatbot (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** find_sum (1), find_product (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding function tools for ReAct agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980)
+#### [Adding function tools for ReAct agent](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,11 +564,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=4)** We will learn LangGraph usage as part of this exercise.
 >
-> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=9)** The code for this chapter is available in the notebook code_O2_XX Basic ReAct Agent in LangGraph.
+> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=9)** The code for this chapter is available in the notebook code_O2_XX Basic [[React.js|ReAct]] Agent in LangGraph.
 >
 > **[0:17](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=17)** In this video, let's set up the function tools for the ReAct agent.
 >
-> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=24)** We begin by importing the tool package from LangChain.
+> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=24)** We begin by importing the tool package from [[LangChain]].
 >
 > **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/adding-function-tools-for-react-agent-25228459?u=76281980&t=28)** The first tool that we will create is the find_sum tool.
 >
@@ -606,21 +594,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[LangChain]] (1), llm (1), product (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[LangChain]] (1)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** find_sum (1), find_product (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a basic ReAct agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980)
+#### [Create a basic ReAct agent](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=0)** - [Instructor] Let's now proceed to create the basic ReAct math agent.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=0)** - [Instructor] Let's now proceed to create the basic [[React.js|ReAct]] math agent.
 >
-> **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=4)** We will use Azure OpenAI models for the exercises in this course.
+> **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=4)** We will use [[Microsoft Azure|Azure]] OpenAI models for the exercises in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=9)** First, we will set up the models.
 >
@@ -628,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=19)** Please replace these values with those specific to your account.
 >
-> **[0:23](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=23)** Alternatively, you can use any of the other Langchain supported models, too, instead of Azure OpenAI.
+> **[0:23](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=23)** Alternatively, you can use any of the other [[LangChain]] supported models, too, instead of Azure OpenAI.
 >
 > **[0:30](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=30)** Please refer to Langchain documentation on how to create model references for other models.
 >
@@ -672,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), llm (3), [[React.js|React]] (2), [[LangChain]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[React.js|React]] (2), [[LangChain]] (2)
 > **Code Identifiers:** create_react_agent (2), system_prompt (2), agent_tools (1), find_sum (1), find_product (1)
 > **Env Vars:** apa (3), llm (3), gpt (1)
 > **Prerequisites:** set up (4)
@@ -680,8 +667,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the basic ReAct agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-basic-react-agent-25232479?u=76281980)
+#### [Execute the basic ReAct agent](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-basic-react-agent-25232479?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,14 +743,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), next (3), ai (2), prompt (2)
 > **Env Vars:** llm (5)
 > **Code Identifiers:** agent_graph (2), find_sum (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging agents in Langchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/debugging-agents-in-langchain-25232480?u=76281980)
+#### [Debugging agents in Langchain](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/debugging-agents-in-langchain-25232480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +786,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), llm (2), application (1), [[Troubleshooting]] (1)
 > **Code Identifiers:** agent_graph (1), find_sum (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (1)
@@ -814,14 +797,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product Q&A chatbot design
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980)
+#### [Product Q&A chatbot design](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=0)** - [Instructor] In this chapter, we will build a production-grade agentic chatbot.
 >
-> **[0:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=5)** The use case here is to build an agentic chatbot that can answer questions about products.
+> **[0:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=5)** The use case here is to build an agentic chatbot that can answer questions about [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=12)** In this case, it's a fictional company, selling laptops that wants to have a self-service chatbot to answer user questions about these laptops.
 >
@@ -833,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=35)** It uses an RDBMS behind the scenes to keep track of laptop prices.
 >
-> **[0:41](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=41)** For our specific illustration, instead of an RDBMS database, we will use an in-memory PANDAS data frame.
+> **[0:41](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=41)** For our specific illustration, instead of an RDBMS database, we will use an in-memory [[Pandas (Software)|PANDAS]] data frame.
 >
 > **[0:50](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=50)** In real world situations, this can access any database, or API, to find the prices.
 >
@@ -841,7 +823,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=62)** This tool is built using a PDF file that contains descriptions of the laptops.
 >
-> **[1:08](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=68)** Embeddings for this PDF are created and stored in a chroma vector database.
+> **[1:08](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=68)** Embeddings for this PDF are created and stored in a [[ChromaDB|chroma]] vector database.
 >
 > **[1:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980&t=74)** The retriever tool retrieves passages from the document, based on the input query.
 >
@@ -859,13 +841,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (8), database (3), [[Microsoft Products|Products]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Pandas (Software)|Pandas]] (1), [[ChromaDB|Chroma]] (1)
 > **Env Vars:** rdbms (2), pdf (2), pandas (1), api (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Add a function tool to the product Q&A chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980)
+#### [Add a function tool to the product Q&A chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980&t=43)** This is under the data folder in the exercise files.
 >
-> **[0:52](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980&t=52)** We load this file into a Pandas dataframe.
+> **[0:52](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980&t=52)** We load this file into a [[Pandas (Software)|Pandas]] dataframe.
 >
 > **[0:55](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-function-tool-to-product-q-a-chatbot-25229435?u=76281980&t=55)** We will use this data frame to mimic an RDBMS.
 >
@@ -909,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (2), [[Pandas (Software)|Pandas]] (2), next (2), chatbot (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** llm (1), rdbms (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** pricing.csv (1)
@@ -918,20 +899,19 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add a retriever tool to the product Q&A chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980)
+#### [Add a retriever tool to the product Q&A chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=0)** - [Instructor] Now, let's proceed to add a retriever tool to the agent.
 >
-> **[0:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=5)** First, we need to create a vector database based on products descriptions.
+> **[0:05](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=5)** First, we need to create a vector database based on [[Microsoft Products|products]] descriptions.
 >
 > **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=10)** The Laptop product descriptions.pdf file under the data directory contains these fictional laptop descriptions.
 >
-> **[0:19](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=19)** For imports, we need to additionally import the pysqlite3 package and map it to the sqlite3 package for Chroma DB to work.
+> **[0:19](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=19)** For imports, we need to additionally import the pysqlite3 package and map it to the sqlite3 package for [[ChromaDB|Chroma]] DB to work.
 >
-> **[0:29](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=29)** We first load the PDF file up using the PyPDFLoader available in the langchain-community package.
+> **[0:29](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=29)** We first load the PDF file up using the PyPDFLoader available in the [[LangChain]]-community package.
 >
 > **[0:37](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/add-a-retriever-tool-to-product-q-a-chatbot-25231484?u=76281980&t=37)** Then, we chunk this document using the recursive character text splitter with a chunk size of 1,024.
 >
@@ -953,19 +933,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[ChromaDB|Chroma]] (4), product (2), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (4), [[Microsoft Products|Products]] (1), [[LangChain]] (1)
 > **CLI Commands:** sqlite3 (1), make (1)
 > **Env Vars:** pdf (1), llm (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the product Q&A chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-product-q-a-chatbot-25232477?u=76281980)
+#### [Set up the product Q&A chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-product-q-a-chatbot-25232477?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-product-q-a-chatbot-25232477?u=76281980&t=0)** - [Instructor] To set up the agent, we will continue to use the pre-built React agent for this example.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-product-q-a-chatbot-25232477?u=76281980&t=0)** - [Instructor] To set up the agent, we will continue to use the pre-built [[React.js|React]] agent for this example.
 >
 > **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-product-q-a-chatbot-25232477?u=76281980&t=6)** This pre-built function doubles as both the agent and the chat bot.
 >
@@ -1017,15 +996,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), product (2), next (2), prompt (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Code Identifiers:** pretty_print (1), get_laptop_price (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the product Q&A chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980)
+#### [Execute the product Q&A chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,13 +1071,13 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980&t=163)** We see that the chatbot answers about the features for both the laptops correctly to the corresponding users, then for the follow-up question, it uses the conversation memory to correctly identify the laptop that each user is asking and prints their price.
 >
-> **[3:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980&t=180)** This completes our example for creating a React chatbot using pre-built functions.
+> **[3:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980&t=180)** This completes our example for creating a [[React.js|React]] chatbot using pre-built functions.
 >
 > **[3:06](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-product-q-a-chatbot-25228457?u=76281980&t=186)** In the next chapter, we will create a custom chatbot using LangGraph.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (13), next (4), prompt (3), product (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** qna (1)
@@ -1111,8 +1089,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LangGraph concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-concepts-25230460?u=76281980)
+#### [LangGraph concepts](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-concepts-25230460?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,15 +1159,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), data (3), llm (2), next (2), chatbot (1)
 > **CLI Commands:** node (12)
 > **Env Vars:** llm (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### LangGraph orders agent and chatbot design
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980)
+#### [LangGraph orders agent and chatbot design](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=22)** It has an RDBMS that stores details for all laptop orders.
 >
-> **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=28)** For our example, though, we will simply use a Pandas Data Frame to represent a table.
+> **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=28)** For our example, though, we will simply use a [[Pandas (Software)|Pandas]] Data Frame to represent a table.
 >
 > **[0:34](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=34)** The first function tool we have is get_order_details.
 >
@@ -1254,7 +1229,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=159)** The order tool nodes reach the tool to execute and the parameters for that tool from the agent state.
 >
-> **[2:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=167)** It will execute the tool, fetch results, and write those results back to the agent state.
+> **[2:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=167)** It will execute the tool, [[Fetch]] results, and write those results back to the agent state.
 >
 > **[2:53](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-orders-agent-chatbot-design-25231485?u=76281980&t=173)** The control then moves back to the orders LLM.
 >
@@ -1276,15 +1251,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), chatbot (5), next (5), node (5), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Fetch]] (1)
 > **Env Vars:** llm (10), rdbms (1), ord (1)
 > **CLI Commands:** node (5)
 > **Code Identifiers:** get_order_details (1), update_quantity (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Set up tools for the orders agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980)
+#### [Set up tools for the orders agent](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,11 +1268,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=14)** We begin by setting up the LLM model for the custom orders agent.
 >
-> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=18)** As before, we will use Azure OpenAI GPT-4o model for this purpose.
+> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=18)** As before, we will use [[Microsoft Azure|Azure]] OpenAI GPT-4o model for this purpose.
 >
 > **[0:26](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=26)** For setting up the laptop orders database, we have a list of orders in the data/Laptop Orders.csv file.
 >
-> **[0:35](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=35)** We will load this file into a pandas DataFrame and print its contents.
+> **[0:35](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=35)** We will load this file into a [[Pandas (Software)|pandas]] DataFrame and print its contents.
 >
 > **[0:41](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=41)** The first tool we will create is the get order details tool.
 >
@@ -1326,14 +1300,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[Microsoft Azure|Azure]] (1), database (1), data (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **Prerequisites:** set up (2), setup (1)
 > **File Paths:** orders.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the LangGraph orders agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-langgraph-orders-agent-25231483?u=76281980)
+#### [Set up the LangGraph orders agent](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-langgraph-orders-agent-25231483?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1454,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), llm (7), next (4), prompt (2), ai (1)
 > **Code Identifiers:** orders_llm (5), system_prompt (4), tool_calls (4), call_llm (2), orders_tools (2)
 > **CLI Commands:** node (11)
 > **Env Vars:** llm (7), end (1)
@@ -1489,9 +1461,9 @@ created: 2026-05-02
 > **Prerequisites:** set up (3), setup (1)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **Exercise Files:** template (2)
+> **Warnings:** note that (1)
 
-#### Set up and execute the LangGraph chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-execute-the-langgraph-chatbot-25231482?u=76281980)
+#### [Set up and execute the LangGraph chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-execute-the-langgraph-chatbot-25231482?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,7 +1503,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** llm (1)
 > **Cross-References:** previous video (1)
@@ -1543,8 +1514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reflection-based summary agent: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/reflection-based-summary-agent-design-25231481?u=76281980)
+#### [Reflection-based summary agent: Design](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/reflection-based-summary-agent-design-25231481?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,14 +1574,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), llm (5), chatbot (4)
 > **CLI Commands:** node (6)
 > **Env Vars:** llm (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Engineer prompts for reflection
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980)
+#### [Engineer prompts for reflection](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,15 +1615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), next (2), llm (2), chatbot (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** llm (2), gpt (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the summarize-and-review agent with LangGraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-summarize-and-review-agent-with-langgraph-25231487?u=76281980)
+#### [Set up the summarize-and-review agent with LangGraph](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-summarize-and-review-agent-with-langgraph-25231487?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,15 +1687,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), llm (4), node (2), next (2)
 > **Code Identifiers:** should_continue (2), generate_summary (2), review_summary (1)
 > **Prerequisites:** set up (4), setup (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** node (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the summarize-and-review chatbot with LangGraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setup-the-summarize-and-review-chatbot-with-langgraph-25230462?u=76281980)
+#### [Set up the summarize-and-review chatbot with LangGraph](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/setup-the-summarize-and-review-chatbot-with-langgraph-25230462?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1757,15 +1721,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), data (1), next (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the summarize-and-review chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-summarize-and-review-chatbot-25231486?u=76281980)
+#### [Execute the summarize-and-review chatbot](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-summarize-and-review-chatbot-25231486?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1829,8 +1791,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multi-agent systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980)
+#### [Multi-agent systems](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,19 +1827,18 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980&t=99)** This can leverage existing best-of-breed agents and minimize custom work.
 >
-> **[1:45](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980&t=105)** In this chapter, we will build a multi-agent system that also uses the routing pattern.
+> **[1:45](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980&t=105)** In this chapter, we will build a multi-agent system that also uses the [[Routing]] pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing agent design in LangGraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/routing-agent-design-in-langgraph-25234394?u=76281980)
+#### [Routing agent design in LangGraph](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/routing-agent-design-in-langgraph-25234394?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/routing-agent-design-in-langgraph-25234394?u=76281980&t=0)** - [Instructor] Let's now design the routing-based multi-agent chatbot.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/routing-agent-design-in-langgraph-25234394?u=76281980&t=0)** - [Instructor] Let's now design the [[Routing]]-based multi-agent chatbot.
 >
 > **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/routing-agent-design-in-langgraph-25234394?u=76281980&t=4)** We will leverage two other agents we created in the earlier chapter for this example.
 >
@@ -1932,18 +1892,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), node (6), chatbot (4), product (4), llm (2)
+> **Frameworks & Libraries:** [[Routing]] (9)
 > **CLI Commands:** node (6)
 > **Env Vars:** llm (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using agents as LangGraph nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980)
+#### [Using agents as LangGraph nodes](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=0)** - [Instructor] Let's now set up the product Q&A agent and the orders agent as nodes for the routing agent graph.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=0)** - [Instructor] Let's now set up the product Q&A agent and the orders agent as nodes for the [[Routing]] agent graph.
 >
 > **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=7)** The code for this chapter is in the notebook, code_06_XX multi-agent chatbots with routing.
 >
@@ -1983,7 +1942,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=109)** This method returns a partial function that can be used subsequently.
 >
-> **[1:54](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=114)** If you are not familiar with this method, I recommend reading up about this in Python Documentation.
+> **[1:54](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=114)** If you are not familiar with this method, I recommend reading up about this in [[Python (Programming Language)|Python]] Documentation.
 >
 > **[2:01](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/using-agents-as-langgraph-nodes-25234397?u=76281980&t=121)** The partial function sets up the agent node, but does not execute it until it's actually called from within the workflow.
 >
@@ -1991,15 +1950,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Routing]] (3), product (1), llm (1), application (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (5), python (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the routing agent and chatbot in LangGraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980)
+#### [Set up the routing agent and chatbot in LangGraph](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2013,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980&t=21)** Then we define the router agent class.
 >
-> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980&t=24)** For this class, in addition to routing, we also want this agent to handle small talk conversations like greetings and goodbyes.
+> **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980&t=24)** For this class, in addition to [[Routing]], we also want this agent to handle small talk conversations like greetings and goodbyes.
 >
 > **[0:32](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-the-routing-agent-chatbot-in-langgraph-25228454?u=76281980&t=32)** So we have the routing system prompt and the small talk prompt as inputs.
 >
@@ -2079,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), prompt (7), [[Routing]] (6), llm (6), product (2)
+> **Frameworks & Libraries:** [[Routing]] (6)
 > **CLI Commands:** node (9)
 > **Code Identifiers:** call_llm (2), respond_smalltalk (2), find_route (2), router_agent (1)
 > **Env Vars:** llm (6), end (1)
@@ -2088,8 +2046,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the routing chatbot in LangGraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980)
+#### [Execute the routing chatbot in LangGraph](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2096,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980&t=110)** Finally, the agent uses the small talk method to answer the bye message.
 >
-> **[1:55](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980&t=115)** This example demonstrates the routing pattern as well as the multi-agent pattern.
+> **[1:55](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980&t=115)** This example demonstrates the [[Routing]] pattern as well as the multi-agent pattern.
 >
 > **[2:00](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/execute-the-routing-chatbot-in-langgraph-25227466?u=76281980&t=120)** We were able to reuse two other agents in the workflow.
 >
@@ -2147,7 +2104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), next (2), prompt (2), ai (1), llm (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** qna (4), llm (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2157,8 +2114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2168,7 +2124,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980&t=12)** If you want to start integrating this further, here are some recommendations for your learning journey.
 >
-> **[0:19](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980&t=19)** First, learn about agentic AI capabilities in frameworks like LlamaIndex and AutoGen.
+> **[0:19](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980&t=19)** First, learn about agentic AI capabilities in frameworks like [[LlamaIndex]] and AutoGen.
 >
 > **[0:25](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980&t=25)** Next, try some agents with a few tools like RAG and third-party integrations.
 >
@@ -2182,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[LlamaIndex]] (1), next (1), rag (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - we (1)

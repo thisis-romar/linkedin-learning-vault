@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose wisely
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
+#### [Choose wisely](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980&t=10)** But doing data visualization well is about a lot more than that.
 >
-> **[0:13](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980&t=13)** Now, that being said, when you're visualizing data, you often do end up evaluating standard chart options and thinking about how to display your data in those forms.
+> **[0:13](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980&t=13)** Now, that being said, when you're visualizing data, you often do end up evaluating standard chart options and thinking about how to display your data in those [[Forms]].
 >
 > **[0:22](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980&t=22)** This course will help you think about how to choose different charts for different types of data and different data analytics and communications goals, because that's why you're creating that chart, to understand your data and/or communicate something about it to someone else, right?
 >
@@ -105,11 +104,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forms]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Speakers:** - i (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Speakers:** - [instructor] (1)
 
 
@@ -133,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the KWYs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
+#### [What are the KWYs?](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980&t=8)** Maybe there's too much to present or not enough time to present it, or your audience isn't knowledgeable enough about the subject matter to dive right in.
 >
-> **[0:17](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980&t=17)** Thankfully, picking the right chart for your data begins with the same three steps as every data storytelling and visualization project.
+> **[0:17](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980&t=17)** Thankfully, picking the right chart for your data begins with the same three steps as every [[Data Storytelling]] and visualization project.
 >
 > **[0:25](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980&t=25)** These three steps will help you solve for these and other challenges and are your keys to success.
 >
@@ -204,14 +200,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1)
 > **Definitions:** stands for (3), is a  (1)
 > **Env Vars:** kwydis (1), kwyanth (1), kwyrwts (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting to KWYs
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980)
+#### [Getting to KWYs](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980&t=316)** "Can we expect them to sustain that price?
 >
-> **[5:18](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980&t=318)** "How can we react?
+> **[5:18](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980&t=318)** "How can we [[React.js|react]]?
 >
 > **[5:19](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/getting-to-kwys?u=76281980&t=319)** "We know their pricing is already creeping up "and there's no way they can sustain it.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), business (1), hit (1), game (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** kwy (4), ceo (2)
 > **Analogies:** for instance (3)
@@ -383,8 +378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chart categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
+#### [Chart categories](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,15 +426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), express (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparisons: Bars and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-bars-and-columns?u=76281980)
+#### [Comparisons: Bars and columns](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-bars-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,15 +534,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), express (1), next (1)
 > **Analogies:** for instance (3), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** usa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparisons: Beyond bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980)
+#### [Comparisons: Beyond bars](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980&t=293)** And it's better than last year when we had still a good result.
 >
-> **[4:57](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980&t=297)** This nuance wouldn't be available in some of the other chart forms.
+> **[4:57](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980&t=297)** This nuance wouldn't be available in some of the other chart [[Forms]].
 >
 > **[5:00](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/comparisons-beyond-bars?u=76281980&t=300)** As I mentioned, these are just some of the charts that can be shown to make comparisons between numbers.
 >
@@ -682,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), express (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for instance (5), just like (2)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** make (3)
@@ -690,8 +680,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trends: Line charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980)
+#### [Trends: Line charts](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980&t=104)** Small multiples of line charts have their own special names, sparklines.
 >
-> **[1:48](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980&t=108)** This term was coined by Edward Tufte who referred to them as data-intense, design-simple, word-sized graphics.
+> **[1:48](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980&t=108)** This term was coined by Edward Tufte who referred to them as data-intense, design-simple, [[Microsoft Word|word]]-sized graphics.
 >
 > **[1:56](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-line-charts?u=76281980&t=116)** As you can see, you can easily distinguish between the trends these different lines represent.
 >
@@ -753,14 +742,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trends: Beyond the line
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-beyond-the-line?u=76281980)
+#### [Trends: Beyond the line](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/trends-beyond-the-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +862,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Definitions:** is a  (6), is called (2)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (2)
@@ -882,8 +869,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
 
-#### Proportions: Pie charts and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/proportions-pie-charts-and-more?u=76281980)
+#### [Proportions: Pie charts and more](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/proportions-pie-charts-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,15 +969,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Warnings:** caution (2), be aware (1)
 > **Env Vars:** fyi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proportions: Beyond the circle
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/proportions-beyond-the-circle?u=76281980)
+#### [Proportions: Beyond the circle](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/proportions-beyond-the-circle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1067,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** kwy (2)
 > **Versions:** 34.5 (2)
 > **Analogies:** for instance (2)
@@ -1091,8 +1074,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relationships: Correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-correlation?u=76281980)
+#### [Relationships: Correlation](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,15 +1226,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1), parallel (1)
 > **Definitions:** is a  (5), known as (1), is an  (1), is called (1)
 > **Analogies:** just like (2), for instance (2), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [male (1)
 
-#### Relationships: Hierarchical and network
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-hierarchical-and-network?u=76281980)
+#### [Relationships: Hierarchical and network](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-hierarchical-and-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1324,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (2)
 > **CLI Commands:** node (2), make (1)
 > **Env Vars:** fyi (1), url (1), quai (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1353,8 +1332,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relationships: Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-flow?u=76281980)
+#### [Relationships: Flow](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/relationships-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,14 +1406,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), node (1), data (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (3), similar to (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [narrator] (1)
 
-#### Distribution: Histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/distribution-histograms?u=76281980)
+#### [Distribution: Histograms](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/distribution-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1461,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sat (1)
@@ -1493,8 +1468,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distribution: Beyond histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/distribution-beyond-histograms?u=76281980)
+#### [Distribution: Beyond histograms](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/distribution-beyond-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1602,15 +1576,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** imagine (1), such as (1), for instance (1), just like (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980)
+#### [Deviation](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1630,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=89)** Now you can use a chart like this to show not just change, but also deviation from a norm or average or index or a target.
 >
-> **[1:36](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=96)** For instance, let's say we know the sales targets for each of these products.
+> **[1:36](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=96)** For instance, let's say we know the sales targets for each of these [[Microsoft Products|products]].
 >
 > **[1:40](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=100)** We can use labels or marks to indicate where the target is, allowing us to see the deviation from that target pretty clearly.
 >
@@ -1716,7 +1688,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=238)** If you do a properly designed column chart with this data, you can't really see the difference between these two values on the right hand side.
 >
-> **[4:06](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=246)** So the chart on the right doesn't serve any purpose unless you zoom in on it.
+> **[4:06](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=246)** So the chart on the right doesn't serve any purpose unless you [[Zoom]] in on it.
 >
 > **[4:10](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/deviation?u=76281980&t=250)** So maybe rather than showing the absolute values, you show the difference from a norm or change over time or something else.
 >
@@ -1732,7 +1704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Products|Products]] (3), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Zoom]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** kwy (3)
 > **Analogies:** such as (1), for instance (1), it's like (1)
@@ -1740,8 +1712,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Geographic
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980)
+#### [Geographic](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=2)** I could spend hours staring at a map, exploring the topography, roads, waterways, while imagining being on the ground and experiencing a location first hand.
 >
-> **[0:11](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=11)** Maps are one of the oldest forms of information design, having been around for about 25 thousand years, believe it or not.
+> **[0:11](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=11)** Maps are one of the oldest [[Forms]] of information design, having been around for about 25 thousand years, believe it or not.
 >
 > **[0:17](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=17)** So, we have a lot more experience interpreting and creating maps than we do charts and graphs.
 >
@@ -1821,7 +1792,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=225)** But again, only if your audience knows the area well.
 >
-> **[3:48](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=228)** We've all seen maps like this depicting imports and exports or products or migration flows.
+> **[3:48](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=228)** We've all seen maps like this depicting imports and exports or [[Microsoft Products|products]] or migration flows.
 >
 > **[3:53](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/geographic?u=76281980&t=233)** Once again, this data could be depicted without a map, but if the geography itself is central to the idea being communicated, you can't beat a map to make your point.
 >
@@ -1849,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** qwhy (2), pdf (1)
@@ -1862,8 +1833,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### To cumulative or not cumulative?
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
+#### [To cumulative or not cumulative?](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,7 +1903,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980&t=165)** While we know they're actually closely correlated.
 >
-> **[2:47](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980&t=167)** As usual, you're quai and your data integrity and confidence in your understanding of the statistics involved, will drive your choice of the chart that best illustrates the truth, right?
+> **[2:47](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980&t=167)** As usual, you're quai and your [[Data Integrity]] and confidence in your understanding of the [[Statistics]] involved, will drive your choice of the chart that best illustrates the truth, right?
 >
 > **[2:57](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980&t=177)** Because if they were 100% correlated, the ratio would always be exactly the same.
 >
@@ -2001,15 +1971,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (1), for instance (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [male (1)
 
-#### Outside the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/outside-the-box?u=76281980)
+#### [Outside the box](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/outside-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2141,7 +2110,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), traffic (1), next (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (2), imagine (1)
@@ -2152,8 +2120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrapping it up
-> [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)
+#### [Wrapping it up](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2134,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980&t=31)** Don't forget these chart selection guides, which can come in really handy when you are thinking about selecting charts.
 >
-> **[0:39](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980&t=39)** If you want ongoing inspiration, check out my other courses here on LinkedIn Learning where I have a lot of additional content about data storytelling and visualization and other related topics, and follow me here on LinkedIn to get a steady stream of good examples and interesting ideas about this field.
+> **[0:39](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980&t=39)** If you want ongoing inspiration, check out my other courses here on [[LinkedIn]] Learning where I have a lot of additional content about [[Data Storytelling]] and visualization and other related topics, and follow me here on LinkedIn to get a steady stream of good examples and interesting ideas about this field.
 >
 > **[0:55](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980&t=55)** Not to mention I love hearing from people who take my courses.
 >
@@ -2177,7 +2144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[LinkedIn]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Storytelling]] (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [bill] (1)
 

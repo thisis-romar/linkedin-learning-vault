@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging and PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
+#### [Debugging and PHP](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980&t=6)** Especially when we are debugging unfamiliar code or old code.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980&t=10)** PHP being interpreted, provides tons of useful information for debugging.
+> **[0:10](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980&t=10)** [[PHP]] being interpreted, provides tons of useful information for debugging.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980&t=15)** Sometimes it feels like too much.
 >
@@ -106,23 +105,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[PHP]] (3), feature (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [gary (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is for PHP developers and is designed to help you debug faster.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is for [[PHP]] developers and is designed to help you debug faster.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=4)** It will be most helpful to PHP developers that have some experience in a code base or programmers coming from another language.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=11)** You should be relatively comfortable with PHP syntax.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=14)** Many of the examples will be in WordPress and Laravel.
+> **[0:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=14)** Many of the examples will be in [[WordPress]] and [[Laravel]].
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-you-should-know?u=76281980&t=17)** You don't need to be an expert in either of those frameworks, but should have some familiarity.
 
@@ -138,14 +136,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring PHP errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
+#### [Exploring PHP errors](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=0)** - When we think about debugging the first thing we think about is errors.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=3)** The PHP interpreter can log a lot of helpful information about the code that it runs.
+> **[0:03](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=3)** The [[PHP]] interpreter can log a lot of helpful information about the code that it runs.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=7)** Being able to understand what the log files are telling us can help us quickly hone in on issues.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=159)** With fatal errors, sometimes the issue is apparent in the first few words call to undefined method, WP post, get ID.
 >
-> **[2:47](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=167)** Lower I have an example of a Laravel fatal error.
+> **[2:47](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=167)** Lower I have an example of a [[Laravel]] fatal error.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980&t=170)** In this case, it runs from line 13 all the way down to 75.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[Debugging]] (1), next (1), application (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Laravel]] (1)
 > **CLI Commands:** php (7)
 > **Env Vars:** php (6)
 > **Definitions:** is a  (4), is an  (1)
@@ -253,8 +250,7 @@ created: 2026-05-02
 > **URLs:** [php.net](https://php.net) (1)
 > **Speakers:** - when (1)
 
-#### Default logging in popular frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980)
+#### [Default logging in popular frameworks](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=16)** Then I would write my fix and confirm the issue was no longer showing up in the debug log.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=21)** To set up WordPress for logging we need to edit a few settings in our WP config file.
+> **[0:21](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=21)** To set up [[WordPress]] for logging we need to edit a few settings in our WP config file.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=25)** By default, debugging is not enabled.
 >
@@ -284,13 +280,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=82)** Because WP debug display defaults to true when this is active, errors will be displayed in browser.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=88)** A word of warning though, don't rely exclusively on WP debug display as notices and warnings in Ajax, Cron, pretty much any NaN browser visible execution will not be visible to you.
+> **[1:28](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=88)** A [[Microsoft Word|word]] of warning though, don't rely exclusively on WP debug display as notices and warnings in [[AJAX]], Cron, pretty much any NaN browser visible execution will not be visible to you.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=99)** WP debug log can be a bool or a file path, when it is true, the default location is WP content debug log.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=109)** But you can pass a string if you'd like to store the file elsewhere.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=112)** Let's switch gears to Laravel, similar to WordPress, enabling debug in Laravel is a config setting.
+> **[1:52](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=112)** Let's switch gears to [[Laravel]], similar to WordPress, enabling debug in Laravel is a config setting.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/default-logging-in-popular-frameworks?u=76281980&t=119)** For local development, Laravel should have an app debug set to true.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (8), [[WordPress]] (3), [[Debugging]] (2), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[WordPress]] (3), [[Microsoft Word|Word]] (1), [[AJAX]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Documentation:** rfc (1), spec (1)
 > **Best Practices:** best practice (1), you should always (1)
@@ -327,8 +323,7 @@ created: 2026-05-02
 > **Env Vars:** rfc (1)
 > **Analogies:** similar to (1)
 
-#### Configuring PHP error reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980)
+#### [Configuring PHP error reporting](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=4)** Most local development environments are pre-configured but there may be times you want to adjust what is logged so you can capture very few errors, extremely verbose errors, or anything in between.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=14)** To see the configuration files in use, you can type php--ini.
+> **[0:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=14)** To see the configuration files in use, you can type [[PHP]]--ini.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=22)** We see listed here a handful of INI files.
 >
@@ -374,7 +369,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=99)** They are processed after the initial php.ini file.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=102)** Also, we don't see it here, but it is pretty common to prefix INI files with an integer, something like 10-mysql.ini, or 20opcache.ini This is because these files are parsed in alpha numeric order.
+> **[1:42](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=102)** Also, we don't see it here, but it is pretty common to prefix INI files with an integer, something like 10-[[MySQL]].ini, or 20opcache.ini This is because these files are parsed in alpha numeric order.
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/configuring-php-error-reporting?u=76281980&t=115)** There is an error log INI file listed there.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), web (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[MySQL]] (1)
 > **Env Vars:** ini (8), php (4), fpm (3), e_all (1)
 > **CLI Commands:** php (8), mysql (1)
 > **File Paths:** php.ini (2), 10-mysql.ini (1), 20opcache.ini (1)
@@ -419,12 +414,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - in (1)
 
-#### What to log
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-to-log?u=76281980)
+#### [What to log](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-to-log?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-to-log?u=76281980&t=0)** - [Instructor] We know how PHP categorizes errors, and we know where logs are stored.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-to-log?u=76281980&t=0)** - [Instructor] We know how [[PHP]] categorizes errors, and we know where logs are stored.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-to-log?u=76281980&t=4)** Often context specific to our code would be useful to help reduce time sifting through debug logs.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Debugging]] (2), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), find (1)
 > **Code Identifiers:** var_dump (4)
 > **Env Vars:** php (4)
@@ -488,12 +482,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging errors to file
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980)
+#### [Logging errors to file](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=0)** - [Instructor] Knowing that PHP has different levels of messages, it's not surprising that we have a few core functions available to work with.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=0)** - [Instructor] Knowing that [[PHP]] has different levels of messages, it's not surprising that we have a few core functions available to work with.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=6)** Let's dig in and see what we can do.
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=262)** Sometimes it would be helpful to view our messages apart from the messages that the full app is throwing.
 >
-> **[4:26](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=266)** So if we're writing a WordPress plugin or providing a package or service to other devs that the default log file may have a lot of noise.
+> **[4:26](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=266)** So if we're writing a [[WordPress]] plugin or providing a package or service to other devs that the default log file may have a lot of noise.
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-file?u=76281980&t=273)** In these cases you can ini_set error log some file.
 >
@@ -615,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), data (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[WordPress]] (1)
 > **Env Vars:** php (7), ide (1)
 > **CLI Commands:** php (7)
 > **Warnings:** warning (5), note that (2)
@@ -624,12 +617,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Logging errors to other locations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980)
+#### [Logging errors to other locations](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=0)** - [Instructor] We've explored the PHP error log directly.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=0)** - [Instructor] We've explored the [[PHP]] error log directly.
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=2)** And in some situations, it's just not reasonable to capture to the log.
 >
@@ -659,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=45)** Here's an example creating a database table logging those four values.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=50)** In a framework like WordPress or Laravel, it's easy enough to create a model or custom post type to capture the error.
+> **[0:50](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=50)** In a framework like [[WordPress]] or [[Laravel]], it's easy enough to create a model or custom post type to capture the error.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=56)** In many cases, you'll be working with an app that is backed by a database.
 >
@@ -705,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=166)** You can start to tease out patterns and update your logging conditional to support more explicit situations.
 >
-> **[2:51](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=171)** In this example, I'm searching where the message contains the word thing and it's happened in the last day.
+> **[2:51](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=171)** In this example, I'm searching where the message contains the [[Microsoft Word|word]] thing and it's happened in the last day.
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/logging-errors-to-other-locations?u=76281980&t=176)** Whether database table is the correct location is not the question.
 >
@@ -713,19 +705,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[PHP]] (3), [[WordPress]] (1), [[Laravel]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1), [[Laravel]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** do_action (3), error_level (2), debug_log (1), first_letter_is (1), post_title (1)
 > **CLI Commands:** php (3), find (2)
 > **Env Vars:** php (3)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding back traces
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980)
+#### [Understanding back traces](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=0)** - [Presenter] PHP error messages fall into a few categories.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=0)** - [Presenter] [[PHP]] error messages fall into a few categories.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=3)** Sometimes we end up with a stack trace or backtrace that is hundreds of lines long, but this wall of text contains a ton of useful information.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=20)** You can imagine it as a stack of cards, a card either goes on top or gets taken from the top.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=25)** Looking at line 7 to 15 here we see a WordPress backtrace and you notice number zero through six are the list of functions that were called and the data that was passed to them.
+> **[0:25](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=25)** Looking at line 7 to 15 here we see a [[WordPress]] backtrace and you notice number zero through six are the list of functions that were called and the data that was passed to them.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=35)** As your app calls a function the interpreter puts the function on the stack.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=53)** The card on the bottom was the first card stored.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=56)** On my screen now starting at line 17 is a Laravel stack trace.
+> **[0:56](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=56)** On my screen now starting at line 17 is a [[Laravel]] stack trace.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/understanding-back-traces?u=76281980&t=60)** So, let's look at what that means.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), data (2), next (2), [[WordPress]] (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1), [[Laravel]] (1)
 > **Code Identifiers:** debug_backtrace (4), debug_print_backtrace (3), foo_print_redirection (2), show_mask (1), foo_print_masked (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** php (3), debug_backtrace_ignore_args (1)
@@ -863,12 +854,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### var_dump() debugging: Blue-collar debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
+#### [var_dump() debugging: Blue-collar debugging](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=0)** - I want you to think back to some of the first PHP script you wrote.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=0)** - I want you to think back to some of the first [[PHP]] script you wrote.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=4)** Once you supply the correct syntax, you likely ran into the problem of your script not doing what you wanted.
 >
@@ -912,7 +902,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=92)** var export is a super useful tool for working with arrays.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=95)** I specifically find myself using it in WordPress where many core components except an array of ARGs as a parameter, but VX export is really cool when paired with objects.
+> **[1:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=95)** I specifically find myself using it in [[WordPress]] where many core components except an array of ARGs as a parameter, but VX export is really cool when paired with objects.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980&t=105)** Check out this output.
 >
@@ -974,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[WordPress]] (1)
 > **CLI Commands:** php (3), make (3), find (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** php (3)
@@ -983,8 +973,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - i (1)
 
-#### What tools are available
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980)
+#### [What tools are available](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,13 +985,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=13)** The first tools I want to talk about are interactive shells.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=16)** PHP ships with an interactive shell that is helpful for testing some really lightweight ideas.
+> **[0:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=16)** [[PHP]] ships with an interactive shell that is helpful for testing some really lightweight ideas.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=21)** This is great, but sometimes a framework specific tool can add more specific context.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=26)** (keyboard clicking)
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=35)** WP CLI is a command line interface for working with WordPress.
+> **[0:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=35)** WP [[CLI]] is a command line interface for working with [[WordPress]].
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=39)** One of the available commands is WP shell.
 >
@@ -1014,7 +1003,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=55)** Any WordPress functions you ordinarily would use are available to you.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=60)** In the Laravel space we have artisan commands, and for interactive debugging we have tinker.
+> **[1:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=60)** In the [[Laravel]] space we have artisan commands, and for interactive debugging we have tinker.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available?u=76281980&t=64)** Much like the WP CLI shell command, we can manipulate stored data.
 >
@@ -1108,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[WordPress]] (5), data (4), [[Laravel]] (3), next (3)
+> **Frameworks & Libraries:** [[PHP]] (5), [[WordPress]] (5), [[Laravel]] (3), [[CLI]] (2)
 > **CLI Commands:** php (5), composer (3), find (1), make (1)
 > **Env Vars:** php (5), cli (2), ide (1)
 > **Definitions:** is a  (4), is called (1), known as (1)
@@ -1117,18 +1106,17 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Warnings:** be careful (1)
 
-#### WordPress CLI shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980)
+#### [WordPress CLI shell](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=0)** - Local debugging can sometimes mean interactively trying out things.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=4)** We can use WP-CLI Shell and interactively test code, either before adding to the code base, or to confirm a bug.
+> **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=4)** We can use WP-[[CLI]] Shell and interactively test code, either before adding to the code base, or to confirm a bug.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=11)** Now you're probably wondering why WP Shell and not PHP-a .
+> **[0:11](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=11)** Now you're probably wondering why WP Shell and not [[PHP]]-a .
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=15)** WP Shell loads WordPress up to the point that plugins and themes are loaded.
+> **[0:15](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=15)** WP Shell loads [[WordPress]] up to the point that plugins and themes are loaded.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/wordpress-cli-shell?u=76281980&t=24)** Here we can see that the init action has run.
 >
@@ -1194,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Debugging]] (1), [[CLI]] (1), [[WordPress]] (1), application (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[CLI]] (1), [[WordPress]] (1)
 > **Env Vars:** wpdb (3), php (2), repl (2), cli (1), ide (1)
 > **CLI Commands:** php (2)
 > **Tools:** bash (1)
@@ -1202,14 +1190,13 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - local (1)
 
-#### Laravel artisan tinker
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980)
+#### [Laravel artisan tinker](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=0)** - When we need to test things, interactive debugging is the way to go.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=3)** Laravel includes an artisan command for this purpose.
+> **[0:03](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=3)** [[Laravel]] includes an artisan command for this purpose.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=6)** Tinker.
 >
@@ -1231,7 +1218,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=67)** We are in a loop that is paused.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=69)** We add some code, it evals it in the PHP interpreter and prints and waits for more and starts the loop again.
+> **[1:09](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=69)** We add some code, it evals it in the [[PHP]] interpreter and prints and waits for more and starts the loop again.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=74)** Often I find myself working with an external API.
 >
@@ -1239,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=95)** Tinker will format method returns as make sense.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=101)** View body, we see the long Json string.
+> **[1:41](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=101)** View body, we see the long [[JSON]] string.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/laravel-artisan-tinker?u=76281980&t=106)** By using Response Json we get a much easier to read object output.
 >
@@ -1269,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (3), [[Debugging]] (2), [[PHP]] (2), api (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[PHP]] (2), [[JSON]] (2)
 > **CLI Commands:** find (3), make (2), php (2)
 > **Env Vars:** php (2), api (2), repl (1)
 > **Tools:** terminal (1)
@@ -1278,8 +1265,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Installing and using whoops
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980)
+#### [Installing and using whoops](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1277,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=13)** In this example, we are dealing with an exception.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=16)** In the upper left section, the actual exception is listed underneath our search icons, Google, DuckDuckGo and Stack Overflow along with a copy button.
+> **[0:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=16)** In the upper left section, the actual exception is listed underneath our search icons, [[Google]], DuckDuckGo and Stack Overflow along with a copy button.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=26)** Underneath that is the Stack frame.
 >
@@ -1299,7 +1285,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=30)** It shows the file and line number.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=33)** (computer mouse clicking) Whoops tagline is PHP errors for cool kids.
+> **[0:33](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=33)** (computer mouse clicking) Whoops tagline is [[PHP]] errors for cool kids.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=39)** And to me, the right 2/3 of the browser is where it starts.
 >
@@ -1351,13 +1337,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=149)** A handler.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=150)** This one that we view in the browser is called pretty page handler but both a plain text and JSON handler included in as well.
+> **[2:30](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=150)** This one that we view in the browser is called pretty page handler but both a plain text and [[JSON]] handler included in as well.
 >
 > **[2:39](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-whoops?u=76281980&t=159)** If you find yourself working in a lightweight, unfamiliar code base, whoops provides a great way to format and display debug info in an easily digestible way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Search]] (1), [[Google]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** psr (3), php (2), ide (2), http (1), json (1)
 > **CLI Commands:** php (2), composer (1), find (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -1366,12 +1352,11 @@ created: 2026-05-02
 > **Documentation:** stack overflow (1)
 > **UI Navigation:** toggle (1)
 
-#### Installing and using PHP DebugBar
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980)
+#### [Installing and using PHP DebugBar](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=0)** - Some old PHP projects are hard to understand especially when chasing a performance problem.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=0)** - Some old [[PHP]] projects are hard to understand especially when chasing a performance problem.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=5)** Debug bar is a great tool to add a ton of helpful context very quickly.
 >
@@ -1379,13 +1364,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=14)** The problem is it's awfully slow, almost four seconds to list this page.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=18)** Now this app is built on Lumen, a Laravel micro-framework.
+> **[0:18](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=18)** Now this app is built on Lumen, a [[Laravel]] micro-framework.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=22)** But the point is really not the framework.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=24)** We're going to look at what debug bar is useful for.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=27)** Generally, we know we shouldn't write code like this but there are a ton of legacy products that have a similar idea.
+> **[0:27](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=27)** Generally, we know we shouldn't write code like this but there are a ton of legacy [[Microsoft Products|products]] that have a similar idea.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=31)** Each page includes the header and the footer markup And this class is just plain gross.
 >
@@ -1427,25 +1412,24 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=140)** Now this is obviously contrived example and we could have easily solved this had we just jumped into the ugly class and read through what was happening.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=149)** I really like debug bar when working on an older code base that has a lot of HTML partials mixed with global function calls.
+> **[2:29](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=149)** I really like debug bar when working on an older code base that has a lot of [[HTML]] partials mixed with global function calls.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/installing-and-using-php-debugbar?u=76281980&t=155)** If you're working on old legacy code with lots of misdirection, give debug bar a try.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), application (1), [[Laravel]] (1), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (1), [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **CLI Commands:** php (2), composer (1)
 > **Env Vars:** php (2), html (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - some (1)
 
-#### Query Monitor for WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/query-monitor-for-wordpress?u=76281980)
+#### [Query Monitor for WordPress](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/query-monitor-for-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/query-monitor-for-wordpress?u=76281980&t=0)** - [Narrator] Some of the success of WordPress must be attributed to the huge library of plugins and themes.
+> **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/query-monitor-for-wordpress?u=76281980&t=0)** - [Narrator] Some of the success of [[WordPress]] must be attributed to the huge library of plugins and themes.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/query-monitor-for-wordpress?u=76281980&t=5)** While these are immensely helpful they can mask bugs and performance issues.
 >
@@ -1517,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), api (4), game (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Env Vars:** api (4), http (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (1), you'll need (1)
@@ -1526,8 +1510,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Ray: Dump debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980)
+#### [Ray: Dump debugging](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,9 +1522,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=13)** Before we dive into features, let's look at [myray.app](https://myray.app), and specifically the docs.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=20)** Ray works with many frameworks, as well as some non PHP projects.
+> **[0:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=20)** Ray works with many frameworks, as well as some non [[PHP]] projects.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=24)** This is a laravel app and this command is used to create some donut models.
+> **[0:24](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=24)** This is a [[Laravel]] app and this command is used to create some donut models.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/ray-dump-debugging?u=76281980&t=28)** I'm going to add a Ray function with just a simple string to show that we have executed the command in our terminal, we can run PHP, artisan, make donuts and see in Ray that we get the output we expected.
 >
@@ -1603,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Laravel]] (3), [[PHP]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[PHP]] (2)
 > **Non-Speech:** (typing) (7)
 > **CLI Commands:** make (3), php (2)
 > **Definitions:** is a  (5)
@@ -1612,14 +1595,13 @@ created: 2026-05-02
 > **URLs:** [myray.app](https://myray.app) (1)
 > **Documentation:** the docs (1)
 
-#### Xdebug: Step debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980)
+#### [Xdebug: Step debugging](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=0)** - [Instructor] Imagine how well you'd understand code.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=2)** if you could walk through every line as the PHP interpreter executes them.
+> **[0:02](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=2)** if you could walk through every line as the [[PHP]] interpreter executes them.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=5)** This is what Xdebug does and using it is a game changer.
 >
@@ -1671,7 +1653,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=91)** In our terminal, we'll run php artisan.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=94)** We're not even going to throw in the rest of the command and our IDE takes away focus.
+> **[1:34](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=94)** We're not even going to throw in the [[Representational State Transfer (REST)|rest]] of the command and our IDE takes away focus.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/xdebug-step-debugging?u=76281980&t=98)** And we have this new view in the bottom half.
 >
@@ -1759,7 +1741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[PHP]] (3), feature (2), game (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (3), make (3), docker (1)
 > **Env Vars:** php (2), ide (2), pecl (1)
 > **Prerequisites:** setup (2), install (1), configure (1), you'll need (1)
@@ -1773,8 +1755,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What tools are available
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
+#### [What tools are available](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1805,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980&t=93)** Remember, your goal is to get enough information so you can start replicating locally and fix it.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980&t=98)** This is all fine, but you might be tempted to add some debug output directly to a page, either within HTML comments, or only displayed when a get parameter is present.
+> **[1:38](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980&t=98)** This is all fine, but you might be tempted to add some debug output directly to a page, either within [[HTML]] comments, or only displayed when a get parameter is present.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980&t=106)** I want to encourage you not to take this approach, if at all possible.
 >
@@ -1838,14 +1819,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Debugging]] (1), traffic (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** html (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safety concerns and precautions on remote servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980)
+#### [Safety concerns and precautions on remote servers](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1847,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=30)** However, load times were much slower than we planned.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=32)** We were running multiple PHP servers with one shared file system.
+> **[0:32](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=32)** We were running multiple [[PHP]] servers with one shared file system.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=36)** And because this was production, we had disabled error logs.
 >
@@ -1887,11 +1867,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=81)** I learned a lot from that experience.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=83)** There are many takeaways from the story but this isn't a DevOps conversation.
+> **[1:23](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=83)** There are many takeaways from the story but this isn't a [[DevOps]] conversation.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=87)** So as a developer, first, don't edit files on production.
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=91)** Bad syntax could render the site unusable and you've circumvented your own version control system.
+> **[1:31](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=91)** Bad syntax could render the site unusable and you've circumvented your own [[Version Control]] system.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/safety-concerns-and-precautions-on-remote-servers?u=76281980&t=96)** Future dev helpers will not be able to find context of before and after.
 >
@@ -1907,13 +1887,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Debugging]] (1), dns (1), [[PHP]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[DevOps]] (1), [[Version Control]] (1)
 > **CLI Commands:** php (1), find (1), make (1)
 > **Env Vars:** dns (1), php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Monolog
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980)
+#### [Using Monolog](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1902,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=8)** Monolog is useful as it provides contracts and ideas on how to handle and direct log data.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=13)** In addition, Monolog implements the "PSR-3" from the PHP Framework Interoperability Group.
+> **[0:13](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=13)** In addition, Monolog implements the "PSR-3" from the [[PHP]] Framework Interoperability Group.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=20)** PHP standard recommendations, PSRs, are often really well discussed interfaces to common problems.
 >
@@ -1979,7 +1958,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=136)** There's tons of handlers available.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=140)** And many to log to databases.
+> **[2:20](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=140)** And many to log to [[Databases]].
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/using-monolog?u=76281980&t=143)** So putting all this together.
 >
@@ -1997,14 +1976,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PHP]] (2), [[Debugging]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Databases]] (1)
 > **Env Vars:** psr (2), php (2), rfc (1)
 > **CLI Commands:** php (2), find (1)
 > **Documentation:** rfc (1)
 > **Speakers:** - sometimes (1)
 
-#### Paid products
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980)
+#### [Paid products](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1990,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=4)** We might call all that data, noise.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=6)** There are quite a few commercial products that can help us sift through that noise.
+> **[0:06](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=6)** There are quite a few commercial [[Microsoft Products|products]] that can help us sift through that noise.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=9)** The first type of product I want to highlight is log file management.
 >
@@ -2030,7 +2008,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=38)** The next service I want to point to helps identify trends.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=41)** In APM, or application performance monitor, aggregates all requests and can display performance trends, error rate, perceived user experience, and more.
+> **[0:41](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=41)** In APM, or application performance monitor, aggregates all requests and can display performance trends, error rate, perceived [[User Experience (UX)|user experience]], and more.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/paid-products?u=76281980&t=50)** New Relic is one of the better known APMs and some hosting services offer New Relic as part of their plan.
 >
@@ -2052,7 +2030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1), product (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** apm (2)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
@@ -2063,14 +2041,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, we've reached the end of our walkthrough of our debugging techniques.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980&t=5)** We learned about built-in PHP tools that are available anywhere you run PHP.
+> **[0:05](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980&t=5)** We learned about built-in [[PHP]] tools that are available anywhere you run PHP.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980&t=9)** We examined different utilities for local debugging.
 >
@@ -2088,7 +2065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[PHP]] (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1)

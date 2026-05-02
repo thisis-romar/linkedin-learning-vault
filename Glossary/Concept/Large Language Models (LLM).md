@@ -81,23 +81,23 @@ created: 2026-05-02
 > 46. [[Predictive Analytics Essential Training For Executives]] — 4 mentions
 > 47. [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]] — 4 mentions
 > 48. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 4 mentions
-> 49. [[Advanced RAG Applications with Vector Databases]] — 4 mentions
-> 50. [[Building a Project with the ChatGPT API]] — 4 mentions
-> 51. [[Google Cloud Platform for Machine Learning Essential Training]] — 4 mentions
-> 52. [[Vector Databases in Practice- Deep Dive]] — 4 mentions
-> 53. [[The Data Science Of Economics Banking And Finance]] — 4 mentions
-> 54. [[Advanced Nlp With Python For Machine Learning]] — 4 mentions
-> 55. [[AI Orchestration- Foundations]] — 4 mentions
-> 56. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 4 mentions
-> 57. [[RAG for Cybersecurity- Use Cases and Implementation]] — 4 mentions
-> 58. [[Design Thinking- Prototyping]] — 3 mentions
-> 59. [[Generative AI, Recruiting, and Talent Acquisition]] — 3 mentions
-> 60. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — 3 mentions
-> 61. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 3 mentions
-> 62. [[Integrating Generative AI into JavaScript Web Projects]] — 3 mentions
-> 63. [[AI Orchestration- Planning and Orchestrating for Observability]] — 3 mentions
-> 64. [[Complete Guide to Data Lakes and Lakehouses]] — 3 mentions
-> 65. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 3 mentions
+> 49. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 4 mentions
+> 50. [[Advanced RAG Applications with Vector Databases]] — 4 mentions
+> 51. [[Building a Project with the ChatGPT API]] — 4 mentions
+> 52. [[Google Cloud Platform for Machine Learning Essential Training]] — 4 mentions
+> 53. [[Vector Databases in Practice- Deep Dive]] — 4 mentions
+> 54. [[The Data Science Of Economics Banking And Finance]] — 4 mentions
+> 55. [[Advanced Nlp With Python For Machine Learning]] — 4 mentions
+> 56. [[AI Orchestration- Foundations]] — 4 mentions
+> 57. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 4 mentions
+> 58. [[RAG for Cybersecurity- Use Cases and Implementation]] — 4 mentions
+> 59. [[Design Thinking- Prototyping]] — 3 mentions
+> 60. [[Generative AI, Recruiting, and Talent Acquisition]] — 3 mentions
+> 61. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — 3 mentions
+> 62. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 3 mentions
+> 63. [[Integrating Generative AI into JavaScript Web Projects]] — 3 mentions
+> 64. [[AI Orchestration- Planning and Orchestrating for Observability]] — 3 mentions
+> 65. [[Complete Guide to Data Lakes and Lakehouses]] — 3 mentions
 > 66. [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — 3 mentions
 > 67. [[ChatGPT- Perfecting Your Output with Templates in Prompts]] — 3 mentions
 > 68. [[Introduction to Generative AI with GPT]] — 3 mentions
@@ -229,7 +229,7 @@ created: 2026-05-02
 2. [[Building Generative AI Skills for Developers]] — 102 total mentions
 3. [[Understanding Generative AI for Tech Leaders]] — 101 total mentions
 4. [[Master Retrieval-Augmented Generation (RAG)]] — 88 total mentions
-5. [[Become an AI Engineer]] — 82 total mentions
+5. [[Become an AI Engineer]] — 83 total mentions
 6. [[Data Science Professional Certificate by KNIME]] — 67 total mentions
 7. [[Build AI Products Using Azure AI Services in Your Development Lifecycle]] — 64 total mentions
 8. [[Building AI Literacy]] — 52 total mentions

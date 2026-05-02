@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get prepped for ethical hacking cloud computing certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
+#### [Get prepped for ethical hacking cloud computing certification](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=0)** - [Dan] The primary focus of this course is to make you think like an attacker attempting to compromise a cloud computing environment so that you can protect cloud computing environments.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=0)** - [Dan] The primary focus of this course is to make you think like an attacker attempting to compromise a [[Cloud Computing]] environment so that you can protect cloud computing environments.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=11)** This is going to be done by us talking about cloud characteristics, models, and threats to cloud services.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=11)** This is going to be done by us talking about cloud characteristics, models, and threats to [[Cloud Services]].
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=17)** This is important as a starting point so that we can then apply the hacking process to cloud computing.
 >
@@ -113,16 +112,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=55)** Hi, I'm Dan Lachance.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=57)** Over the years I've done IT work in the form of authoring tech books, programming, network administration, teaching classes, and security management in on-premises and cloud environments.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980&t=57)** Over the years I've done IT work in the form of authoring tech books, programming, [[Network Administration]], teaching classes, and [[Security Management]] in on-premises and cloud environments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (1), [[Programming]] (1), [[Network Administration]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cloud Services]] (1), [[Network Administration]] (1), [[Security Management]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,29 +132,29 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=22)** And so before we get into how to secure cloud resources, there are some key items that you should already be familiar with.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=29)** You don't have to be an expert, but you should have a general sense of the concept of virtual machines.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=29)** You don't have to be an expert, but you should have a general sense of the concept of [[Virtual Machines]].
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=35)** If you have experience deploying or managing virtual machines in any environment, that is always helpful.
 >
-> **[0:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=42)** You should have a general sense of how to manage a Windows computer both at the command line level and the GUI level.
+> **[0:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=42)** You should have a general sense of how to manage a [[Windows]] computer both at the command line level and the GUI level.
 >
-> **[0:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=50)** You should have a general sense of how to work at the Linux command line.
+> **[0:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=50)** You should have a general sense of how to work at the [[Linux]] command line.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=54)** You should be able to use Windows Remote Desktop Protocol or RDP to remotely manage a Windows host.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=61)** You should be able to use Secure Shell or SSH for Linux remote host management.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=67)** You should also have a general understanding of network concepts such as IP addressing, subnets, and routing.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=67)** You should also have a general understanding of network concepts such as [[IP Addressing]], subnets, and [[Routing]].
 >
-> **[1:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=74)** And at the cloud level, you should have some general experience moving around in Amazon Web Services or AWS as well as Microsoft Azure.
+> **[1:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=74)** And at the cloud level, you should have some general experience moving around in [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS as well as [[Microsoft Azure]].
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=85)** The reason is because some of the demos I will be going through will be using both Amazon Web Services and Microsoft Azure.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=93)** So you do not need to be an expert in these things, but having some experience with them will help you along if you're going through the demos and want to further your knowledge of how to secure cloud services.
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/what-you-should-know?u=76281980&t=93)** So you do not need to be an expert in these things, but having some experience with them will help you along if you're going through the demos and want to further your knowledge of how to secure [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Windows]] (3), [[Security]] (2), [[Virtual Machines]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Virtual Machines]] (2), [[Linux]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Microsoft Azure]] (2)
 > **Env Vars:** gui (1), rdp (1), ssh (1), aws (1)
 > **CLI Commands:** ssh (1), aws (1)
 > **Tools:** command line (2)
@@ -168,14 +166,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud computing characteristics and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
+#### [Cloud computing characteristics and security](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=0)** - [Instructor] Cloud computing presents IT services over a network and those IT services run on somebody else's equipment, specifically the cloud service provider's equipment.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] presents IT services over a network and those IT services run on somebody else's equipment, specifically the cloud service provider's equipment.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=11)** This video focuses on identifying the NIST characteristics of cloud computing, where NIST stands for the National Institute of Standards and Technology.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=11)** This video focuses on identifying the [[NIST]] characteristics of cloud computing, where NIST stands for the National Institute of Standards and Technology.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=22)** We're going to apply a security twist as we talk about these cloud computing characteristics.
 >
@@ -183,13 +180,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=39)** Let's dive into each of these in detail, beginning with Measured Service.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=44)** What we're really talking about here is metered usage of the consumption of cloud services.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=44)** What we're really talking about here is metered usage of the consumption of [[Cloud Services]].
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=50)** The same way that you would incur charges at home based on the amount of electricity or water that you use, charges are based on consumption.
 >
-> **[0:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=59)** Now this applies to all categories of cloud services, whether you're talking about cloud storage, compute, which would be virtual machines running in the cloud, or network configurations in the cloud, including internet gateways, routing, firewalls, and so on.
+> **[0:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=59)** Now this applies to all categories of cloud services, whether you're talking about [[Cloud Storage]], compute, which would be [[Virtual Machines]] running in the cloud, or network configurations in the cloud, including internet gateways, [[Routing]], firewalls, and so on.
 >
-> **[1:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=75)** Now, from a security perspective, we have to think about malicious users that might be able to somehow compromise a cloud admin account and then starts deploying services that we are paying for, such as deploying virtual machines in the cloud that might be used for cryptocurrency mining, while the organization that is the victim is paying the tab for that.
+> **[1:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=75)** Now, from a security perspective, we have to think about malicious users that might be able to somehow compromise a cloud admin account and then starts deploying services that we are paying for, such as deploying virtual machines in the cloud that might be used for [[Cryptocurrency]] mining, while the organization that is the victim is paying the tab for that.
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=96)** The other characteristic is Broad Network Access.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=162)** What this really means is that due to the economies of scale, which means, because cloud service providers have so many customers, it's very easy for them to provide numerous cloud services at a cheap cost.
 >
-> **[2:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=174)** So it doesn't take much for them to buy the underlying hardware to support cloud services.
+> **[2:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=174)** So it doesn't take much for them to buy the underlying [[Hardware]] to support cloud services.
 >
 > **[3:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=180)** We have to remember that in the cloud we have multi-tenancy, which means multiple customers, and they're kept isolated from one another.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=194)** Now, from a security perspective, because all of this hardware, the underlying hardware, resides in the data center owned by a cloud service provider, if we have a data center physical security breach that could lead to access to the equipment in racks.
 >
-> **[3:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=211)** And of course, when you have physical access to computing equipment, a lot of security mechanisms will go out the door, and that's one of the reasons why we want to make sure that we encrypt data at rest.
+> **[3:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=211)** And of course, when you have physical access to computing equipment, a lot of security mechanisms will go out the door, and that's one of the reasons why we want to make sure that we encrypt data at [[Representational State Transfer (REST)|rest]].
 >
 > **[3:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=222)** So bear in mind that cloud service providers, at least on the internet, public ones, are considered a larger target for attackers.
 >
@@ -249,15 +246,15 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=323)** On-Demand Self-Service is also a cloud computing characteristic.
 >
-> **[5:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=327)** This means that the cloud user or customer can provision resources, like virtual machines, and storage, and databases, and so on.
+> **[5:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=327)** This means that the cloud user or customer can provision resources, like virtual machines, and storage, and [[Databases]], and so on.
 >
-> **[5:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=336)** And they can do this using a GUI environment, where they can just make a few clicks, or from a developer's perspective, making API calls to expose cloud service APIs, or using command line tools, including Microsoft PowerShell.
+> **[5:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=336)** And they can do this using a GUI environment, where they can just make a few clicks, or from a developer's perspective, making API calls to expose cloud service APIs, or using command line tools, including [[Microsoft]] [[Powershell]].
 >
 > **[5:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980&t=350)** So we're really talking about the cloud user being able to provision or deprovision resources without the assistance of an IT technician.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (31), [[Virtual Machines]] (8), [[Security]] (7), [[Hardware]] (3), data (3)
+> **Frameworks & Libraries:** [[Virtual Machines]] (8), [[Cloud Services]] (7), [[Cloud Computing]] (6), [[Hardware]] (3), [[NIST]] (2)
 > **Env Vars:** nist (2), ram (1), cpu (1), gui (1), api (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **Analogies:** such as (2), for example (2)
@@ -266,12 +263,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud deployment and service models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980)
+#### [Cloud deployment and service models](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=0)** - [Instructor] Have you ever wondered how hackers managed to get into cloud computing environments?
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=0)** - [Instructor] Have you ever wondered how hackers managed to get into [[Cloud Computing]] environments?
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=5)** Well, if you can imagine them breaking into a single organization's network or even into your personal computer or smartphone, then you're on your way to understanding how hackers break into cloud computing.
 >
@@ -295,13 +291,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=71)** However, anybody potentially can subscribe to that public cloud provider to use their services.
 >
-> **[1:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=77)** So examples of public clouds would include Amazon Web Services, Microsoft Azure, Google Cloud Platform, to name just a few.
+> **[1:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=77)** So examples of public clouds would include [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], [[Google Cloud Platform (GCP)|Google Cloud Platform]], to name just a few.
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=86)** A community cloud is designed to serve organizations that have similar cloud computing needs, perhaps for an industry like the medical industry or at the government department level.
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=97)** An example of which would be the Microsoft Azure for government cloud which meets security standards required by US government agencies.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=106)** Continuing, there are other cloud deployment models, including a hybrid cloud which combines various clouds, for example, public and private clouds together, or a distributed cloud, which presents itself as a single unified cloud, but consists of multiple cloud deployment models or a poly cloud, where a poly cloud means that we are actually using multiple cloud providers.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=106)** Continuing, there are other cloud deployment models, including a [[Hybrid Cloud]] which combines various clouds, for example, public and [[Private Clouds]] together, or a distributed cloud, which presents itself as a single unified cloud, but consists of multiple cloud deployment models or a poly cloud, where a poly cloud means that we are actually using multiple cloud providers.
 >
 > **[2:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=130)** Why would we do that?
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=152)** Now, generally speaking, under one big umbrella, we have XaaS.
 >
-> **[2:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=157)** This stands for anything as a service, and what we're talking about when we discuss this type of thing, service deployment models, we're talking about managed services that run in the cloud on cloud provider hardware.
+> **[2:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=157)** This stands for anything as a service, and what we're talking about when we discuss this type of thing, [[Service Deployment]] models, we're talking about managed services that run in the cloud on cloud provider [[Hardware]].
 >
 > **[2:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=170)** And depending on what exactly you are using will determine how much you have to configure of the underlying servers or underlying software.
 >
@@ -321,23 +317,23 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=184)** And metered usage means that we pay for what we use.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=187)** For example, you might be charged by the hour or even by the minute for running virtual machines in the cloud.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=187)** For example, you might be charged by the hour or even by the minute for running [[Virtual Machines]] in the cloud.
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=194)** Let's talk about some specific service models, starting with infrastructure as a service or IaaS, I-A-A-S.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=194)** Let's talk about some specific service models, starting with [[IaaS|infrastructure as a service]] or [[IaaS]], I-A-A-S.
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=202)** So what this refers to is the underlying infrastructure that supports IT services, things like storage, networking, and virtual machines.
 >
-> **[3:32](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=212)** The next thing to consider are other cloud service models like platform as a service or PaaS, P-A-A-S.
+> **[3:32](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=212)** The next thing to consider are other cloud service models like [[PaaS|platform as a service]] or [[PaaS]], P-A-A-S.
 >
-> **[3:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=219)** This would include things like databases and custom functions that software developers can build and host in the cloud.
+> **[3:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=219)** This would include things like [[Databases]] and custom functions that software developers can build and host in the cloud.
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=225)** The beauty here is that the setting up of the underlying servers and software is already taken care of for us.
 >
-> **[3:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=232)** Desktop as a service or DaaS, D-A-A-S, allows us to have user desktops, whether they're Linux or Windows-based, hosted in the cloud.
+> **[3:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=232)** Desktop as a service or DaaS, D-A-A-S, allows us to have user desktops, whether they're [[Linux]] or [[Windows]]-based, hosted in the cloud.
 >
 > **[4:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=240)** Users would use a device to make a remote connection as if they were sitting at a desktop computer somewhere.
 >
-> **[4:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=247)** Software as a service or SaaS, S-A-A-S, examples of which would include Microsoft 365, Google Docs.
+> **[4:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=247)** [[SaaS|Software as a service]] or [[SaaS]], S-A-A-S, examples of which would include [[Microsoft 365]], [[Google]] Docs.
 >
 > **[4:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=256)** Then mobile backend is a service or MBaaS.
 >
@@ -365,13 +361,13 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=329)** I'll leave you with this.
 >
-> **[5:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=329)** As a security technician, how would you approach securing cloud services that you might be using within an organization?
+> **[5:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=329)** As a security technician, how would you approach securing [[Cloud Services]] that you might be using within an organization?
 >
 > **[5:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=337)** It's now possible approaches would include seeking cloud service deployment documentation.
 >
 > **[5:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=343)** You need to know how things were deployed, how they're configured in order to properly secure them.
 >
-> **[5:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=348)** You might determine if there are any data privacy laws or regulations that apply to any data and what you should do about it, such as enabling encryption for data at rest.
+> **[5:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=348)** You might determine if there are any [[Data Privacy]] laws or regulations that apply to any data and what you should do about it, such as enabling encryption for data at [[Representational State Transfer (REST)|rest]].
 >
 > **[5:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-deployment-and-service-models?u=76281980&t=359)** You should also consider that cloud-based data can also reside locally in on-premises devices that might synchronize with the cloud.
 >
@@ -379,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (43), data (5), [[Security]] (4), [[Microsoft Azure]] (2), next (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (9), [[Microsoft Azure]] (2), [[Service Deployment]] (2), [[Virtual Machines]] (2), [[PaaS|Platform as a service]] (2)
 > **Definitions:** stands for (1), means that (1), refers to (1), is a  (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Cross-References:** we discussed (2)
@@ -387,14 +383,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud services and the hacking process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980)
+#### [Cloud services and the hacking process](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=0)** - [Instructor] Thinking like a malicious user can help IT technicians prevent security breaches against the use of cloud computing.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=0)** - [Instructor] Thinking like a malicious user can help IT technicians prevent security breaches against the use of [[Cloud Computing]].
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=8)** This video focuses on cloud computing and its relationship to the five phases of ethical hacking.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=8)** This video focuses on cloud computing and its relationship to the five phases of [[Ethical Hacking]].
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=14)** The five phases of ethical hacking begin with reconnaissance, followed by enumeration, followed by gaining access and maintaining access, and the covering of tracks.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=38)** In the end, the more that an attacker knows about a potential target or victim that's using cloud computing, the better off they are to mount and execute an attack that will succeed.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=49)** Now, that means finding out a lot of things such as the cloud service provider used by an organization, which cloud services are being used, how they're being used, and also using technical techniques to learn of things like DNS names of hosts and IP addresses, capturing network traffic with packet capturing tools to examine both packet headers and the contents within the payload of a packet.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=49)** Now, that means finding out a lot of things such as the cloud service provider used by an organization, which [[Cloud Services]] are being used, how they're being used, and also using technical techniques to learn of things like DNS names of hosts and IP addresses, capturing network traffic with packet capturing tools to examine both packet headers and the contents within the payload of a packet.
 >
 > **[1:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=72)** You can learn a lot about a network that way.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=95)** Next, we have the cloud enumeration phase.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=98)** This means enumerating or listing things in the cloud that have been deployed, like virtual networks, virtual machines, databases that have been deployed, and also enumerating lists of users, groups and security principals in a centralized network directory.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=98)** This means enumerating or listing things in the cloud that have been deployed, like virtual networks, [[Virtual Machines]], [[Databases]] that have been deployed, and also enumerating lists of users, groups and security principals in a centralized network directory.
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=116)** Security principal you can think of, it's kind of a dummy user account, it allows software entities or software components to have access permissions to other resources, such as a web component having access to read from a backend database.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=162)** And of course, there's always tricking people into clicking on or downloading malware which can then run from inside of the network.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=171)** Now pictured on the screen we have an example of how to mitigate user account brute force attacks in the Microsoft Azure Cloud.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=171)** Now pictured on the screen we have an example of how to mitigate user account brute force attacks in the [[Microsoft Azure]] Cloud.
 >
 > **[2:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-services-and-the-hacking-process?u=76281980&t=179)** This is using a feature called smart lockout.
 >
@@ -466,23 +461,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Security]] (4), [[Ethical Hacking]] (4), next (3), dns (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Ethical Hacking]] (4), [[Cloud Services]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** dns (1), vpn (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common cloud computing threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980)
+#### [Common cloud computing threats](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=0)** - [Instructor] Some traditional threats that apply to on-premises computing and software development also apply to the cloud.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=0)** - [Instructor] Some traditional threats that apply to on-premises computing and [[Software Development]] also apply to the cloud.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=8)** Take a moment to think about past security incidents that might have occurred in your on-premises network environment.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=15)** How could those incidents be applied to your organization's use of cloud computing?
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=15)** How could those incidents be applied to your organization's use of [[Cloud Computing]]?
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=21)** Because usually we have lessons learned from security incidents and how they were handled to either reduce their impact in the future or to ensure they don't happen again, and that's the stance or the perspective we want to approach this discussion from.
 >
@@ -492,9 +486,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=46)** You would be correct in thinking that.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=48)** First of all, internet visibility of cloud services.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=48)** First of all, internet visibility of [[Cloud Services]].
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=51)** Let's say you deploy a Linux virtual machine in the cloud.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=51)** Let's say you deploy a [[Linux]] virtual machine in the cloud.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=55)** If you give that machine a public IP address and it's listening on port 22 for SSH remote management sessions, that could be a vulnerability because it's exposed to the internet.
 >
@@ -502,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=74)** The other thing to think about is not implementing storage encryption.
 >
-> **[1:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=78)** We need to encrypt data at rest where appropriate, such as to be compliant with certain data privacy regulations.
+> **[1:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=78)** We need to encrypt data at [[Representational State Transfer (REST)|rest]] where appropriate, such as to be compliant with certain [[Data Privacy]] regulations.
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=85)** A lack of IT personnel cloud training.
 >
@@ -516,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=128)** As the saying goes, the devil is in the details when it comes to securing these things.
 >
-> **[2:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=133)** Pictured on the screen we've got a screenshot of a storage bucket in the Amazon Web Services cloud.
+> **[2:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=133)** Pictured on the screen we've got a screenshot of a storage bucket in the [[Amazon Web Services (AWS)|Amazon Web Services]] cloud.
 >
 > **[2:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=140)** Notice that there's a note here that says "Publicly accessible" in our screenshot, which means what it says.
 >
@@ -550,9 +544,9 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=260)** And so what happens then is that malware might be programmed to periodically go out to the internet from inside the cloud to retrieve commands on what it should be doing, and that traffic, that command and control, or C2 traffic as it's called, can be disguised as legitimate traffic such as DNS client query traffic.
 >
-> **[4:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=279)** Another type of attack is the Instance Metadata Service or the IMDS attack.
+> **[4:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=279)** Another type of attack is the Instance [[Metadata]] Service or the IMDS attack.
 >
-> **[4:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=284)** This is specific to AWS virtual machines which are otherwise called EC2 instances.
+> **[4:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=284)** This is specific to AWS [[Virtual Machines]] which are otherwise called [[Amazon EC2|EC2]] instances.
 >
 > **[4:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=290)** They run a service that will return details about themselves, such as any roles that are assigned to the VM, so that the VM has access to other things like maybe storage buckets.
 >
@@ -562,7 +556,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=313)** You might have different users in the organization with different access keys that allow them to authenticate programmatically to AWS.
 >
-> **[5:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=321)** Another common cloud attack is a Content Delivery Network or CDN cache poisoning attack where a CDN is really a copy of data from origin web servers, for example, and we have a copy of it because it's stored strategically in a region near users that will request it, thereby reducing the amount of time it takes to deliver that content to users.
+> **[5:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=321)** Another common cloud attack is a Content Delivery Network or CDN cache poisoning attack where a CDN is really a copy of data from origin [[Web Servers]], for example, and we have a copy of it because it's stored strategically in a region near users that will request it, thereby reducing the amount of time it takes to deliver that content to users.
 >
 > **[5:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=344)** Now, what's the attack here then?
 >
@@ -572,9 +566,9 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=370)** We've also got Golden Security Assertion Markup Language, or SAML types of attacks.
 >
-> **[6:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=376)** What this does is compromises an identity provider private key that is then used by the attacker to forge authentication tokens.
+> **[6:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=376)** What this does is compromises an identity provider private key that is then used by the attacker to forge authentication [[Tokens]].
 >
-> **[6:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=385)** When it comes to security and cryptography, public and private keys can be issued to entities like identity providers.
+> **[6:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=385)** When it comes to security and [[Cryptography]], public and private keys can be issued to entities like identity providers.
 >
 > **[6:32](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=392)** The public key can be shared with anybody, that's why it's called public, but the private key must be kept private.
 >
@@ -590,7 +584,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=426)** So software developers then can focus on writing code when it comes to this type of environment, a serverless environment, instead of the developers spending their time installing servers.
 >
-> **[7:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=436)** So examples of software developer environments with serverless-based solutions include AWS Lambda, Azure Functions, Google Cloud Functions, so there are plenty of options available out there.
+> **[7:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=436)** So examples of software developer environments with serverless-based solutions include AWS Lambda, [[Microsoft Azure|Azure]] Functions, [[Google Cloud Platform (GCP)|Google Cloud]] Functions, so there are plenty of options available out there.
 >
 > **[7:30](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=450)** Also, the other thing about this that makes it very attractive to software developers is that auto-scaling can be enabled when code requests get busy.
 >
@@ -602,13 +596,13 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=482)** What security advice would you impart to your team?
 >
-> **[8:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=487)** Well, one of them might be to follow secure coding guidelines, since we're talking about software developers, not hard coding credentials into code like database connection strings, and also using built-in solutions to protect these items.
+> **[8:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=487)** Well, one of them might be to follow [[Secure Coding]] guidelines, since we're talking about software developers, not hard coding credentials into code like database connection strings, and also using built-in solutions to protect these items.
 >
 > **[8:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/common-cloud-computing-threats?u=76281980&t=502)** As an example, using the AWS Web Application Firewall to protect Lambda functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), [[Security]] (6), traffic (4), aws (4), data (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Linux]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Virtual Machines]] (2), [[Software Development]] (1)
 > **Env Vars:** aws (4), cdn (3), ssh (1), sms (1), dns (1)
 > **Analogies:** such as (5), for example (1), imagine (1)
 > **CLI Commands:** aws (4), ssh (1), find (1)
@@ -622,8 +616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud identity management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
+#### [Cloud identity management](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +624,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=11)** It involves identifying users or software that requires specific privileges in order to get things done.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=18)** Now, think about your cloud computing environment.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=18)** Now, think about your [[Cloud Computing]] environment.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=21)** How are users authenticated?
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=39)** Cloud users can be created directly in the cloud account that you happen to be using.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=44)** What this means is that if you're using AWS, Amazon Web Services, for example, you could go into Identity and Access Management, or IAM, within AWS and create user accounts there.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=44)** What this means is that if you're using AWS, [[Amazon Web Services (AWS)|Amazon Web Services]], for example, you could go into Identity and Access Management, or IAM, within AWS and create user accounts there.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=57)** Of course, the process will differ depending on the cloud provider that you're working with.
 >
@@ -651,7 +644,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=67)** Users in an on-premises directory service can be linked to the cloud.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=71)** Imagine that you have Microsoft Active Directory being used in an on-premises network environment where you've got an Active Directory Domain with a bunch of user accounts.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=71)** Imagine that you have [[Microsoft]] [[Active Directory]] being used in an on-premises network environment where you've got an Active Directory Domain with a bunch of user accounts.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=82)** Well, you can link that to the cloud so that users can continue to use their familiar on-premises credentials to access cloud-based applications.
 >
@@ -659,7 +652,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=97)** Think of things like when you sign into a web app online.
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=101)** You might sometimes be prompted, instead of creating a user account, to sign in with your existing Google, Facebook, or Apple account.
+> **[1:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=101)** You might sometimes be prompted, instead of creating a user account, to sign in with your existing [[Google]], Facebook, or Apple account.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=109)** That's identity federation, where you have a trusted third party that can be used for authenticating to apps.
 >
@@ -691,7 +684,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=212)** In Amazon Web Services, or AWS, that's called an IAM role.
 >
-> **[3:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=217)** In the Microsoft Azure cloud environment, similarly, we have what are called managed identities.
+> **[3:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=217)** In the [[Microsoft Azure]] cloud environment, similarly, we have what are called managed identities.
 >
 > **[3:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=223)** Again, this might be associated with a virtual machine that needs to have access to read cloud-stored data, as just one of many potential examples.
 >
@@ -713,7 +706,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=288)** And really, that role just contains the permissions required, in this case, to allow logging into a virtual machine as an admin.
 >
-> **[4:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=295)** So in Azure, these roles are collections of permissions that get assigned to security principles.
+> **[4:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=295)** So in [[Microsoft Azure|Azure]], these roles are collections of permissions that get assigned to security principles.
 >
 > **[5:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=301)** The security principle might be a user account, it might be a group, it might be a managed identity.
 >
@@ -721,15 +714,15 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=312)** From a security, malicious-actor perspective, sometimes, if a cloud environment is breached, malicious attackers might kind of add a user to a role that otherwise should not be done and that can be hard to track down if you're not conducting periodic security audits.
 >
-> **[5:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=329)** Another aspect of cloud security and identity management is attackers trying to enumerate cloud accounts and roles to see what's there, because the more that they know, the more that they have when they try to attack a cloud environment.
+> **[5:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=329)** Another aspect of [[Cloud Security]] and identity management is attackers trying to enumerate cloud accounts and roles to see what's there, because the more that they know, the more that they have when they try to attack a cloud environment.
 >
 > **[5:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=342)** We have a couple of simple examples here of how to enumerate cloud accounts at the command line.
 >
-> **[5:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=347)** You don't have to memorize this, but for example in PowerShell, in a Microsoft Azure environment, we could create a variable called $role and we could run the PowerShell cmdlet called Get-AzureADDirectoryRole, pipe that to Where-Object, which is a filtering mechanism, where we want to look for a display name equal to Company Administrator.
+> **[5:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=347)** You don't have to memorize this, but for example in [[Powershell]], in a Microsoft Azure environment, we could create a variable called $role and we could run the PowerShell cmdlet called Get-AzureADDirectoryRole, pipe that to Where-Object, which is a filtering mechanism, where we want to look for a display name equal to Company Administrator.
 >
-> **[6:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=369)** So, this might be one way that attackers get a list of admin accounts if they can get to the point where they can even read Azure Active Directory.
+> **[6:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=369)** So, this might be one way that attackers get a list of admin accounts if they can get to the point where they can even read [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[6:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=379)** The other thing here that we can do is using the Azure CLI, the command line interface.
+> **[6:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=379)** The other thing here that we can do is using the Azure [[CLI]], the command line interface.
 >
 > **[6:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=383)** We would use commands like az, for Azure, ad, for Active Directory, user list.
 >
@@ -739,7 +732,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=405)** We've also got AWS, Amazon Web Services, permissions policies.
 >
-> **[6:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=409)** So, a policy is a collection of related resource permissions such as S3ReadOnly which has the permissions to allow read-only access to S3 storage buckets in the AWS cloud, or EC2FullAccess to allow full access to manage EC2 instances, which are virtual machines.
+> **[6:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=409)** So, a policy is a collection of related resource permissions such as S3ReadOnly which has the permissions to allow read-only access to S3 storage buckets in the AWS cloud, or EC2FullAccess to allow full access to manage [[Amazon EC2|EC2]] instances, which are [[Virtual Machines]].
 >
 > **[7:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=429)** You can always create custom policies if you need to and policies can be attached to user accounts, so IAM users, groups, or roles.
 >
@@ -759,7 +752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (33), [[Security]] (8), management (5), aws (5), [[Microsoft Azure]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (5), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Active Directory]] (3), [[Microsoft Azure|Azure]] (3), [[Cloud Computing]] (2)
 > **Env Vars:** aws (5), iam (3), mfa (3), vpn (1), rbac (1)
 > **Analogies:** such as (4), for example (3), similar to (2), imagine (1)
 > **CLI Commands:** aws (5), az (1), make (1)
@@ -768,14 +761,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
-#### Create cloud users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980)
+#### [Create cloud users and groups](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=0)** - [Instructor] One important management aspect of cloud security is correctly managing cloud user accounts and cloud groups to ensure, for example, that they only have permissions to the resources that they should have.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=0)** - [Instructor] One important management aspect of [[Cloud Security]] is correctly managing cloud user accounts and cloud groups to ensure, for example, that they only have permissions to the resources that they should have.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=13)** So in this demo, what we're going to be doing is using the Amazon web services or AWS management console, the GUI management tool to work with cloud-based users and groups.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=13)** So in this demo, what we're going to be doing is using the [[Amazon Web Services (AWS)|Amazon web services]] or AWS management console, the GUI management tool to work with cloud-based users and groups.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=24)** To get started here in the console, I'll click in the search field at the top, and I will search for IAM which stands for Identity and Access Management.
 >
@@ -891,7 +883,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=320)** So, I could give it a name, let's say, we'll just call it device one.
 >
-> **[5:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=325)** And down below we have a number of ways that users could use MFA to sign in with an authenticator app installed on their smartphone with a security key like a YubiKey device that you physically plug into a USB port on a device like a laptop or could be some kind of hardware time-based token.
+> **[5:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=325)** And down below we have a number of ways that users could use MFA to sign in with an authenticator app installed on their smartphone with a security key like a YubiKey device that you physically plug into a USB port on a device like a laptop or could be some kind of [[Hardware]] time-based token.
 >
 > **[5:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/create-cloud-users-and-groups?u=76281980&t=342)** So, we have that available as well.
 >
@@ -901,7 +893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), cloud (6), aws (5), [[Security]] (4), next (4)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Hardware]] (1)
 > **Env Vars:** aws (5), iam (5), mfa (3), gui (1), usb (1)
 > **Definitions:** is a  (4), is an  (2), stands for (1), refers to (1), means that (1)
 > **CLI Commands:** aws (5), make (2)
@@ -910,18 +902,17 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** configure (1)
 
-#### Enable MFA for cloud users
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980)
+#### [Enable MFA for cloud users](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=0)** - [Instructor] Multi-factor authentication, or MFA, can greatly enhance users sign in security.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=0)** - [Instructor] [[Multi-factor Authentication]], or MFA, can greatly enhance users sign in security.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=6)** This is because, instead of an attacker only needing to know a name and a password, an additional factor, such as the possession of a device displaying a pin is required to complete authentication.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=19)** In this video, you'll learn how to enable MFA, multi-factor authentication, for Microsoft Azure user accounts.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=19)** In this video, you'll learn how to enable MFA, multi-factor authentication, for [[Microsoft Azure]] user accounts.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=27)** So, here in the Azure portal, I'm going to begin by clicking on the button on the upper left to open the navigator, and going down and clicking on Azure Active directory where users exist.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=27)** So, here in the [[Microsoft Azure|Azure]] portal, I'm going to begin by clicking on the button on the upper left to open the navigator, and going down and clicking on [[Microsoft Entra ID|Azure Active directory]] where users exist.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=38)** I'll click on the users view on the left.
 >
@@ -931,7 +922,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=45)** To do that, over on the far upper right, I'll click on more and I'll choose multi-factor authentication.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=51)** That opens up a new window and it's going to show us a list of our Azure AD user accounts and the status for each one for multi-factor authentication.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=51)** That opens up a new window and it's going to show us a list of our [[Microsoft Entra ID|Azure AD]] user accounts and the status for each one for multi-factor authentication.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=61)** Currently it's disabled.
 >
@@ -945,7 +936,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=81)** So what we're going to do is sign in as that user account and we're going to examine the process now that MFA is enabled for that account.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=91)** To test this, I'm signing into my apps.[microsoft.com](https://microsoft.com), and I'm going to connect with our user account.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=91)** To test this, I'm signing into my apps.[[[Microsoft]].com](https://microsoft.com), and I'm going to connect with our user account.
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=97)** And I will specify the password for the account and click sign in.
 >
@@ -993,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** mfa (7)
 > **UI Navigation:** click on (2), open the (1)
 > **Tools:** azure portal (2)
@@ -1002,16 +993,15 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure resource permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980)
+#### [Azure resource permissions](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=0)** - [Instructor] Policies and role-based access control can be used to limit cloud resource management for cloud technicians.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=7)** In this video, you'll see how to do just that in a Microsoft Azure environment.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=7)** In this video, you'll see how to do just that in a [[Microsoft Azure]] environment.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=12)** Here in the Azure portal, in the top center bar, I'm going to search for the word sub and I'm going to choose subscriptions.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=12)** Here in the [[Microsoft Azure|Azure]] portal, in the top center bar, I'm going to search for the [[Microsoft Word|word]] sub and I'm going to choose subscriptions.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=19)** What I'm going to do is assign a role for a group at the subscription level.
 >
@@ -1025,9 +1015,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=64)** So I'm going to type in V, I, R, and I'm going to choose the virtual machine contributor built-in role.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=70)** Now a role is a collection of related permissions that in this case, will allow the management of virtual machines in the Microsoft Azure Cloud.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=70)** Now a role is a collection of related permissions that in this case, will allow the management of [[Virtual Machines]] in the Microsoft Azure Cloud.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=79)** Now down below, I'm going to select an existing Azure Active Directory group named East_Admins.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=79)** Now down below, I'm going to select an existing [[Microsoft Entra ID|Azure Active Directory]] group named East_Admins.
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=86)** So members of this group will have the permissions for the virtual machine contributor role.
 >
@@ -1127,11 +1117,11 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=327)** So I'm going to click to open that up so we can see details such as which virtual machines are non-compliant, which ones do not have disk encryption enabled?
 >
-> **[5:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=336)** So we've got one non-compliant resource and if I scroll all the way down, I can see, it's actually my Windows serv 2016 virtual machine.
+> **[5:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/azure-resource-permissions?u=76281980&t=336)** So we've got one non-compliant resource and if I scroll all the way down, I can see, it's actually my [[Windows]] serv 2016 virtual machine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Virtual Machines]] (7), management (4), [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (5), scroll up (1), select the (1)
 > **Env Vars:** iam (4), rg1 (1), rbac (1)
 > **Analogies:** for example (2), for instance (2), such as (2)
@@ -1139,18 +1129,17 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS resource permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980)
+#### [AWS resource permissions](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to take a look at how to configure AWS resource permissions.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=7)** So if you're using a cloud computing solution, think about the resources that might need protection.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=7)** So if you're using a [[Cloud Computing]] solution, think about the resources that might need protection.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=13)** Do you have any databases deployed in the cloud?
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=13)** Do you have any [[Databases]] deployed in the cloud?
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=16)** Are you running any web applications or virtual machines in the cloud?
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=16)** Are you running any web applications or [[Virtual Machines]] in the cloud?
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=20)** These are important things to know in order to properly secure a cloud computing environment.
 >
@@ -1188,7 +1177,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=134)** Well, what we can do is use it in the following manner.
 >
-> **[2:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=137)** So if I were to search for EC2, that's the Elastic Compute Cloud that stands for virtual machines basically running in the AWS cloud.
+> **[2:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=137)** So if I were to search for [[Amazon EC2|EC2]], that's the Elastic Compute Cloud that stands for virtual machines basically running in the AWS cloud.
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=147)** If I go into the EC2 console and go to the Instances view, I've got an instance running here, it's a virtual machine, it's called App1WindowsServer.
 >
@@ -1218,7 +1207,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=216)** Give this a name, let's say App1BucketRole1.
 >
-> **[3:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=223)** And the actual JSON representation of those permissions are shown below, which is fine.
+> **[3:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=223)** And the actual [[JSON]] representation of those permissions are shown below, which is fine.
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/aws-resource-permissions?u=76281980&t=228)** I'm okay with that.
 >
@@ -1258,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), aws (6), [[Virtual Machines]] (4), [[Amazon EC2|Ec2]] (3), management (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Amazon EC2|Ec2]] (3), [[Cloud Computing]] (2), [[Databases]] (1), [[JSON]] (1)
 > **Env Vars:** aws (6), iam (6), ec2 (3), json (1)
 > **CLI Commands:** aws (6), make (1), find (1)
 > **UI Navigation:** go to (2)
@@ -1272,8 +1261,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud service high availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
+#### [Cloud service high availability](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1275,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=25)** The first thing to do is to identify assets.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=28)** For example it could be an e-commerce website that generates hundreds of thousands of dollars per day in revenue for the organization.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=28)** For example it could be an [[E-Commerce]] website that generates hundreds of thousands of dollars per day in revenue for the organization.
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=37)** So the asset would be the functioning of that system and the database that stores customer information and transaction information.
 >
@@ -1311,13 +1299,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=132)** So we can replicate files that are stored in the cloud to alternate regions.
 >
-> **[2:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=136)** You can also replicate databases.
+> **[2:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=136)** You can also replicate [[Databases]].
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=138)** You can create database replicas.
 >
-> **[2:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=140)** You can also replicate virtual machines and the app workloads that they are running.
+> **[2:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=140)** You can also replicate [[Virtual Machines]] and the app workloads that they are running.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=145)** Now the idea is that we can have this replicated to alternate regions geographically so that in the event of a regional outage we still have the data elsewhere but the thing to keep in mind is regulatory compliance.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=145)** Now the idea is that we can have this replicated to alternate regions geographically so that in the event of a regional outage we still have the data elsewhere but the thing to keep in mind is [[Regulatory Compliance]].
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=159)** Think about the legal jurisdiction as well based on the location of data that has been replicated.
 >
@@ -1337,7 +1325,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=225)** We might be bound by contracts or laws or regulations that stipulate how long back data needs to be kept available.
 >
-> **[3:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=234)** Finally, we have to consider application resiliency to make sure that an important application remains available.
+> **[3:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=234)** Finally, we have to consider application [[Resiliency]] to make sure that an important application remains available.
 >
 > **[4:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980&t=241)** Now we could do this through load balancing.
 >
@@ -1353,27 +1341,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (8), next (4), business (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Virtual Machines]] (2), [[Databases]] (1), [[Regulatory Compliance]] (1), [[Resiliency]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** rpo (2), aes (1), rto (1), dns (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security recommendation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980)
+#### [Cloud security recommendation tools](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=0)** - [Instructor] Having a trusted advisor helps with informed decision making.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=4)** In this video, you'll learn about cloud services that can be used to analyze cloud deployments.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=4)** In this video, you'll learn about [[Cloud Services]] that can be used to analyze cloud deployments.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=10)** Looking for security deficiencies.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=12)** Here in Microsoft Azure, we can do that in the portal by opening up the navigator in the upper left, and then scrolling down and clicking on Security Center.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=12)** Here in [[Microsoft Azure]], we can do that in the portal by opening up the navigator in the upper left, and then scrolling down and clicking on Security Center.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=22)** The Azure Security Center is an automatic tool, meaning that you don't have to populate it with data.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=22)** The [[Microsoft Azure|Azure]] Security Center is an automatic tool, meaning that you don't have to populate it with data.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=29)** So based on the cloud resources you deploy and how they're configured will determine what shows up here in the Security Center by default.
 >
@@ -1397,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=81)** We can see it tells us monitoring agent health issues should be resolved on your machines.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=86)** This is within virtual machines.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=86)** This is within [[Virtual Machines]].
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=87)** We see we've got one virtual machine that doesn't have health monitoring installed within it, so we can click on that item to get more details.
 >
@@ -1423,7 +1410,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=139)** So we can see if we scroll down a little bit here, we've got an issue with one subnet.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=144)** The subnet needs to be associated with the network security group.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=144)** The subnet needs to be associated with the [[Network Security]] group.
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=146)** Once again, I can click on that item to read detail about what they're referring to.
 >
@@ -1449,14 +1436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), cloud (5), next (4), [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[Cloud Services]] (1), [[Microsoft Azure]] (1), [[Network Security]] (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Env Vars:** pci (2), dss (2), iso (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying cloud firewall solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980)
+#### [Deploying cloud firewall solutions](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1458,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=20)** Well, let's start by exploring cloud virtual networking and then we will evolve the discussion to get into firewalling.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=27)** So let's start here in Amazon Web Services.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=27)** So let's start here in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=30)** I've already signed into my account and so I'm in the AWS management console.
 >
@@ -1492,7 +1478,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=67)** Now imagine that you're doing this on premises.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=69)** What do you do to control traffic to things like virtual machines deployed to Subnet1?
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=69)** What do you do to control traffic to things like [[Virtual Machines]] deployed to Subnet1?
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=76)** Well, one thing you would think about is firewall.
 >
@@ -1506,7 +1492,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=100)** If I click here, I can get a list of existing ones I can manage or I could create a new network ACL.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=106)** I'm going to call this Windows Standard.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=106)** I'm going to call this [[Windows]] Standard.
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-cloud-firewall-solutions?u=76281980&t=110)** I'm going to tie this to VPC1, my virtual network, and then I'm going to choose create network ACL.
 >
@@ -1562,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), cloud (7), [[Security]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (2), management (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Virtual Machines]] (2), [[Windows]] (2)
 > **Env Vars:** acl (5), vpc1 (4), vpc (3), rdp (3), nacl (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
@@ -1571,22 +1557,21 @@ created: 2026-05-02
 > **Ports:** port 3389 (1)
 > **Versions:** 0.0.0 (1)
 
-#### Cloud data residency
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980)
+#### [Cloud data residency](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=0)** - [Narrator] Laws and regulations can influence how cloud services are used by an organization.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=0)** - [Narrator] Laws and regulations can influence how [[Cloud Services]] are used by an organization.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=5)** After watching this video, you'll be able to recognize how compliance can have a direct impact on cloud service configurations.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=13)** The first thing to keep in mind is what type of data the organization is storing in the cloud, whether it's individual files or databases, virtual machine disks or backups stored in the cloud.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=13)** The first thing to keep in mind is what type of data the organization is storing in the cloud, whether it's individual files or [[Databases]], virtual machine disks or backups stored in the cloud.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=25)** Now, after we've identified that, we then have to think about where that data resides.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=29)** Are we replicating any of that data to different geographical regions supported by the cloud service provider?
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=35)** Now, you would do that to increase availability in case of a regional outage of some kind, but you also have to think about how your data is stored and whether or not you are being compliant with the appropriate regulations, such as perhaps requiring encryption for data at rest, even in the cloud.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=35)** Now, you would do that to increase availability in case of a regional outage of some kind, but you also have to think about how your data is stored and whether or not you are being compliant with the appropriate regulations, such as perhaps requiring encryption for data at [[Representational State Transfer (REST)|rest]], even in the cloud.
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=52)** Then you have to think about the potential legal implications based on where data is stored.
 >
@@ -1600,7 +1585,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=98)** So when you're looking at cloud service providers, one thing to do is to take a look at compliance reports to see if they're compliant with any regulations that might apply to your organization's needs, such as whether or not the cloud service provider is GDPR compliant.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=113)** The payment card industry data security standard, otherwise called PCI DSS is not an active legislation.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=113)** The payment card industry [[Data Security]] standard, otherwise called PCI DSS is not an active legislation.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=120)** Instead, it's an industry security standard, and it really is all about the safekeeping of credit card holder data, whether it's Visa, MasterCard, or American Express for example.
 >
@@ -1608,9 +1593,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=138)** But when you look at PCI DSS documentation, what you'll notice is that, there are very general statements regarding how to secure something.
 >
-> **[2:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=147)** In other words, there are no specific implementation details provided that's left to the security professional or the cloud security analyst to determine.
+> **[2:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=147)** In other words, there are no specific implementation details provided that's left to the security professional or the [[Cloud Security]] analyst to determine.
 >
-> **[2:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=158)** Picture on the screen, we see a PCI DSS certification message on the Amazon Web Services or AWS website that states that Amazon Web Services is PCI DSS certified.
+> **[2:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=158)** Picture on the screen, we see a PCI DSS certification message on the [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS website that states that Amazon Web Services is PCI DSS certified.
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=171)** Now, you can actually read the compliance reports, and determine which third-party ideally independent auditing team conducted this assessment.
 >
@@ -1620,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (11), [[Security]] (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Cloud Services]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Security]] (1)
 > **Env Vars:** pci (6), dss (6), gdpr (3), aws (1)
 > **Analogies:** such as (4), for example (1), picture (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1629,16 +1614,15 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud storage replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980)
+#### [Cloud storage replication](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=0)** - [Instructor] Replicating cloud stored data provides a backup, as well as an alternate copy of data in case disaster strikes.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=7)** After watching this video, you'll have acquired the skills necessary to configure cloud storage replication.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=7)** After watching this video, you'll have acquired the skills necessary to configure [[Cloud Storage]] replication.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=14)** Here in the Azure portal, I'm going to start by opening up the navigator in the upper left, then I'm going to go down and click on Storage accounts.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=14)** Here in the [[Microsoft Azure|Azure]] portal, I'm going to start by opening up the navigator in the upper left, then I'm going to go down and click on Storage accounts.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=22)** In the Azure cloud a storage account is a storage location for cloud files.
 >
@@ -1678,11 +1662,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=107)** That sounds perfect.
 >
-> **[1:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=109)** So now that we've got that option made available, we can rest assured that we have a secondary copy of the data for files stored in this Azure storage account.
+> **[1:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-storage-replication?u=76281980&t=109)** So now that we've got that option made available, we can [[Representational State Transfer (REST)|rest]] assured that we have a secondary copy of the data for files stored in this Azure storage account.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (4), [[Microsoft Azure|Azure]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Cloud Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Cross-References:** go back to (1)
 > **Tools:** azure portal (1)
@@ -1690,16 +1674,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud virtual machine replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980)
+#### [Cloud virtual machine replication](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=0)** - [Instructor] Replicating Cloud virtual machines, provides a backup as well as an alternate copy of the virtual machine in case disaster strikes.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=0)** - [Instructor] Replicating Cloud [[Virtual Machines]], provides a backup as well as an alternate copy of the virtual machine in case disaster strikes.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=8)** After watching this video, you'll have acquired the skills necessary to configure cloud virtual machine replication.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=16)** Here, in the Microsoft Azure portal, I'm going to start by opening up the navigator on the left and clicking on the virtual machine's view.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=16)** Here, in the [[Microsoft Azure]] portal, I'm going to start by opening up the navigator on the left and clicking on the virtual machine's view.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=23)** I've got a single virtual machine named Winds Serve 2016, click to open up its properties.
 >
@@ -1709,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=47)** So if we scroll down here, the source region, which is blue here, is Canada East, and we've got a number of available target regions here listed in green.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=57)** And the selected target region that was automatically selected by Azure and suggested is Canada Central.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=57)** And the selected target region that was automatically selected by [[Microsoft Azure|Azure]] and suggested is Canada Central.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-virtual-machine-replication?u=76281980&t=63)** Because it's reasonably close yet, it still provides high availability because it's a different region.
 >
@@ -1737,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Virtual Machines]] (1), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** scroll down (1), dropdown (1), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1745,8 +1728,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure cloud load balancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980)
+#### [Configure cloud load balancing](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,11 +1744,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=44)** So, let's get started with this.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=46)** Here in Amazon Web Services, I'm going to begin in the console by searching for EC2.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=46)** Here in [[Amazon Web Services (AWS)|Amazon Web Services]], I'm going to begin in the console by searching for [[Amazon EC2|EC2]].
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=51)** And I'll click on EC2.
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=53)** That will give me the ability to view my virtual machines, my instances.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=53)** That will give me the ability to view my [[Virtual Machines]], my instances.
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=58)** If I go to the Instances view, I've got two app servers here, and they're both in a running state.
 >
@@ -1816,7 +1798,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=165)** That's all fine.
 >
-> **[2:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=167)** Then I have to configure listeners and routing.
+> **[2:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=167)** Then I have to configure listeners and [[Routing]].
 >
 > **[2:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/configure-cloud-load-balancing?u=76281980&t=170)** So, basically I'm going to allow a listener to be created on TCP Port 80.
 >
@@ -1916,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), application (4), [[Virtual Machines]] (3), dns (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Amazon EC2|Ec2]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Routing]] (1)
 > **Env Vars:** tcp (4), dns (3), ec2 (2), vpc1 (2), url (1)
 > **CLI Commands:** make (5)
 > **Ports:** port 80 (3), port 443 (1)
@@ -1925,12 +1907,11 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1), go back to (1)
 > **Definitions:** is a  (2)
 
-#### Application containers and clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980)
+#### [Application containers and clusters](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=0)** - [Instructor] Modern day software developers will often use application containers and even clusters to support busy applications when it comes to software development.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=0)** - [Instructor] Modern day software developers will often use application containers and even clusters to support busy applications when it comes to [[Software Development]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=10)** Imagine that your organization has a custom web app and that some security changes are needed.
 >
@@ -1948,7 +1929,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=52)** So in our diagram at the bottom we've got the host operating system.
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=56)** That could be Windows-based it could be a Linux or a Unix variant.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=56)** That could be [[Windows]]-based it could be a [[Linux]] or a Unix variant.
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=60)** But on top of the host OS you would need to have a container engine running software.
 >
@@ -1988,7 +1969,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=187)** Now, if you're thinking, well, I would probably take the same steps I would to harden any application.
 >
-> **[3:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=195)** Make sure software developers adhere to secure coding guidelines.
+> **[3:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=195)** Make sure software developers adhere to [[Secure Coding]] guidelines.
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=198)** Apply the latest updates, make sure only the required network ports are open, have a firewall controlling traffic.
 >
@@ -2040,7 +2021,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=350)** A lot of these tools are legitimate tools used by security specialists, but if they're used in the wrong hands, in the wrong ways, they can be used to start attacks.
 >
-> **[6:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=360)** The enumeration of Kubernetes ETCD.
+> **[6:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=360)** The enumeration of [[Kubernetes]] ETCD.
 >
 > **[6:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=364)** Kubernetes is a container cluster environment.
 >
@@ -2048,7 +2029,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=376)** You could have multiple containers spread out across the cluster.
 >
-> **[6:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=380)** You'll find that happens quite a lot if you're doing big data analysis and that type of thing.
+> **[6:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=380)** You'll find that happens quite a lot if you're doing [[Big Data]] analysis and that type of thing.
 >
 > **[6:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=385)** Now the ETCD is a Damon, a running service that contains cluster state data to protect it from attackers.
 >
@@ -2072,11 +2053,11 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=444)** If you're thinking restricted network access host hardening, requiring user login, PKI certificates for encrypting network connections, these are all important.
 >
-> **[7:34](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=454)** Now, if you want to learn more about containers look for other titles in the LinkedIn library such as "Learning Docker".
+> **[7:34](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/application-containers-and-clusters?u=76281980&t=454)** Now, if you want to learn more about containers look for other titles in the [[LinkedIn]] library such as "Learning Docker".
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[Security]] (9), [[Kubernetes]] (5), management (4), cloud (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Windows]] (2), [[Linux]] (2), [[Software Development]] (1), [[Secure Coding]] (1)
 > **CLI Commands:** docker (10), make (7), find (1)
 > **Env Vars:** ccat (2), etcd (2), pki (2), http (1), api (1)
 > **Definitions:** is a  (6)
@@ -2090,49 +2071,47 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
+#### [Cloud auditing](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=0)** - [Instructor] Auditing can provide a means of determining if suspicious activity exists in a cloud computing environment.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=0)** - [Instructor] Auditing can provide a means of determining if suspicious activity exists in a [[Cloud Computing]] environment.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=7)** After watching this video, you will have experience viewing cloud-based logs and audit trails.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=13)** To get started here in the Microsoft Azure portal I'm going to click in the upper left to open up the navigation bar, then I'll click on all resources.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=13)** To get started here in the [[Microsoft Azure]] portal I'm going to click in the upper left to open up the navigation bar, then I'll click on all resources.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=22)** In the Azure Cloud, you can create a log analytics workspace which I've already done.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=22)** In the [[Microsoft Azure|Azure]] Cloud, you can create a log analytics workspace which I've already done.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=28)** Let's click to open it up.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=29)** Now you can think of this as a centralized log collection type of service, but you have to configure it.
 >
-> **[0:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=36)** If I scroll down under workspace data sources I can click on virtual machines, and I'll have a list of virtual machines that I can click on to either connect or disconnect to or from this workspace.
+> **[0:36](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=36)** If I scroll down under workspace data sources I can click on [[Virtual Machines]], and I'll have a list of virtual machines that I can click on to either connect or disconnect to or from this workspace.
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=49)** Now you want to connect virtual machines to the workspace if you want their logged information centrally available here.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=56)** You can also do the same types of things with other cloud resources like storage accounts.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=61)** Now I'm going to open up a demo provided by Microsoft where there's plenty of sample data already made available in a log analytics workspace.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980&t=61)** Now I'm going to open up a demo provided by [[Microsoft]] where there's plenty of sample data already made available in a log analytics workspace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Virtual Machines]] (3), [[Analytics]] (2), data (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Cloud Computing]] (1), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Tools:** azure portal (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable cloud alert notification
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980)
+#### [Enable cloud alert notification](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=0)** - [Instructor] Timing is crucial in thwarting network attacks.
 >
-> **[0:03](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=3)** After watching this video, you'll know how to configure alert notifications in Microsoft Azure that could indicate suspicious activity.
+> **[0:03](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=3)** After watching this video, you'll know how to configure alert notifications in [[Microsoft Azure]] that could indicate suspicious activity.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=12)** To get started here in the Azure Portal, in the top-center search field, I'm going to search for monitor and I'm going to select the Monitor service.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=12)** To get started here in the [[Microsoft Azure|Azure]] Portal, in the top-center search field, I'm going to search for monitor and I'm going to select the Monitor service.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=20)** Now in the Monitor service, over on the left, I'm going to click on Alerts.
 >
@@ -2208,7 +2187,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=220)** So I can filter here.
 >
-> **[3:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=222)** Let's say I want to filter, well, I can even type in virt for virtual machines.
+> **[3:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=222)** Let's say I want to filter, well, I can even type in virt for [[Virtual Machines]].
 >
 > **[3:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=226)** So I'll choose Virtual Machines.
 >
@@ -2222,7 +2201,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=241)** Now, what is it that we're interested in being alerted about those?
 >
-> **[4:05](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=245)** Let's say it's high CPU utilization, which could be indicative of some kind of an attack or the machine having been compromised and perhaps being used as a cryptocurrency minor, which is very processor-intensive.
+> **[4:05](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=245)** Let's say it's high CPU utilization, which could be indicative of some kind of an attack or the machine having been compromised and perhaps being used as a [[Cryptocurrency]] minor, which is very processor-intensive.
 >
 > **[4:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-cloud-alert-notification?u=76281980&t=259)** So down under Condition, I'm going to click Add and I'll just choose Percentage CPU.
 >
@@ -2252,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Search]] (2), cloud (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (3), [[Microsoft Azure]] (1), [[Cryptocurrency]] (1)
 > **Env Vars:** cpu (4), sms (3)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
 > **Analogies:** for example (1), for instance (1)
@@ -2261,8 +2240,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** azure portal (1)
 
-#### Encryption and the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980)
+#### [Encryption and the cloud](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2270,13 +2248,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=4)** In this video, you'll learn about the various ways that you can enable encryption for cloud stored data.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=11)** Here in the Microsoft Azure portal, I'm going to begin by clicking Create a resource.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=11)** Here in the [[Microsoft Azure]] portal, I'm going to begin by clicking Create a resource.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=16)** Now what I need to do is create what's called a key vault.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=19)** So I'm going to search for Key, and I'll choose Key Vault, then I'll click Create.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=23)** The key vault is a centralized cloud storage location in which you can create, or even import existing keys.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=23)** The key vault is a centralized [[Cloud Storage]] location in which you can create, or even import existing keys.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=31)** So I'm going to specify a subscription here in Microsoft Azure I want to tie this to and a resource group.
 >
@@ -2318,7 +2296,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=117)** I'm not going to do that, I'm going to make sure the key is enabled, and I'll click Create.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=122)** So now I want to use this key with an Azure storage account.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=122)** So now I want to use this key with an [[Microsoft Azure|Azure]] storage account.
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/encryption-and-the-cloud?u=76281980&t=126)** I want to use my own managed key, which I've just created.
 >
@@ -2342,7 +2320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), cloud (2), [[Microsoft Azure]] (2), [[Search]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Cloud Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** kv17234 (3), kv1 (1), rsa (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** make (1)
@@ -2351,16 +2329,15 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Force HTTPS for cloud-hosted web applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980)
+#### [Force HTTPS for cloud-hosted web applications](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=0)** - [Instructor] HTTPS-enabled web applications use PKI certificates to secure HTTP network connections.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=8)** In this video, you'll learn how to force HTTPS connectivity for a Microsoft Azure-hosted web application.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=8)** In this video, you'll learn how to force HTTPS connectivity for a [[Microsoft Azure]]-hosted web application.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=16)** To get started here in the Azure portal, I've already got a web application, or App Service, deployed.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=16)** To get started here in the [[Microsoft Azure|Azure]] portal, I've already got a web application, or App Service, deployed.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=23)** It's called webappsample172.
 >
@@ -2434,7 +2411,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=269)** That's the public name I want my web app to be known by.
 >
-> **[4:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=273)** I'm going to accept the rest of the defaults and click Create to create the certificate.
+> **[4:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=273)** I'm going to accept the [[Representational State Transfer (REST)|rest]] of the defaults and click Create to create the certificate.
 >
 > **[4:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/force-https-for-cloud-hosted-web-applications?u=76281980&t=277)** Okay, so that's happening now.
 >
@@ -2490,7 +2467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), web application (7), [[Microsoft Azure]] (6), dns (6), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (6), [[Microsoft Azure|Azure]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** https (8), dns (6), cname (6), ssl (3), pki (2)
 > **UI Navigation:** click on (4), go to (4), scroll down (2)
 > **URLs:** [lachanceit3.com](https://lachanceit3.com) (7), [azurewebsites.net](https://azurewebsites.net) (1)
@@ -2499,16 +2476,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** known as (1), is an  (1)
 
-#### Deploying a cloud jump box
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980)
+#### [Deploying a cloud jump box](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=0)** - [Instructor] Allowing public access to manage cloud-based virtual machines directly can present unnecessary risk.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=0)** - [Instructor] Allowing public access to manage cloud-based [[Virtual Machines]] directly can present unnecessary risk.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=8)** After watching this video, you'll know how to configure a jumpbox virtual machine as a single public point for administrative access to cloud-based virtual machines.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=19)** So to get started here in the Azure portal, I'm already in the Virtual machines view where I already have a virtual machine named WinSrv2019-2.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=19)** So to get started here in the [[Microsoft Azure|Azure]] portal, I'm already in the Virtual machines view where I already have a virtual machine named WinSrv2019-2.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=30)** If I click on it to open up its details, we can then click on Networking to check out its network config.
 >
@@ -2524,7 +2500,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=81)** Now I can add a virtual machine using any type of operating system image that I'm comfortable with.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=85)** In this case, it's going to be Windows based.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=85)** In this case, it's going to be [[Windows]] based.
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=89)** So I'll deploy this virtual machine into an existing resource group named RG1.
 >
@@ -2532,7 +2508,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=98)** I'm going to specify the geographical location where I want that to be deployed, in this case, Canada East, because it's near where I will be administering from physically.
 >
-> **[1:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=107)** And for the image, let's say I'm going to choose a Windows variant, let's say Windows Server 2019 Datacenter.
+> **[1:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=107)** And for the image, let's say I'm going to choose a Windows variant, let's say [[Windows Server]] 2019 Datacenter.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/deploying-a-cloud-jump-box?u=76281980&t=115)** I'm okay with the sizing here, so it's got 1 VCPU 3.5 gigabytes of RAM, that's fine for what this will be used for, and I'll specify some credentials to connect to this virtual machine.
 >
@@ -2602,7 +2578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (2), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft Azure|Azure]] (2), [[Windows]] (2), [[Windows Server]] (1)
 > **Env Vars:** rdp (3), rg1 (1), vcpu (1), ram (1)
 > **UI Navigation:** click on (3), go to (3)
 > **Versions:** 10.0.0 (3), 3.5 (1)
@@ -2611,14 +2587,13 @@ created: 2026-05-02
 > **Ports:** port 3389 (1)
 > **Tools:** azure portal (1)
 
-#### Cloud artificial intelligence and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980)
+#### [Cloud artificial intelligence and machine learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=0)** - [Presenter] Artificial intelligence, and more specifically, machine learning, are all the rage in a cloud computing environment.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=0)** - [Presenter] [[Artificial Intelligence (AI)|Artificial intelligence]], and more specifically, machine learning, are all the rage in a [[Cloud Computing]] environment.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=7)** It works well in the cloud, because the cloud has the ability to easily provision clusters of virtual machines that support this type of functionality.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=7)** It works well in the cloud, because the cloud has the ability to easily provision clusters of [[Virtual Machines]] that support this type of functionality.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=16)** Now, if we take a look at what the definition of artificial intelligence, or AI is, it would look like this.
 >
@@ -2626,7 +2601,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=27)** Now, if we look at the definition of machine learning or ML, it's a bit more specific.
 >
-> **[0:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=31)** Essentially, we use algorithms to teach software models to make decisions and predictions, based on ingested data.
+> **[0:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=31)** Essentially, we use [[Algorithms]] to teach software models to make decisions and predictions, based on ingested data.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=41)** That means that the ingested data has to be accurate and trustworthy.
 >
@@ -2634,7 +2609,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=46)** The machine learning data flow begins with the ingestion of data.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=51)** Now, the ingestion of data, for example, might come from a series of IOT devices that support environmental control for buildings, or it might be a number of x-ray details.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=51)** Now, the ingestion of data, for example, might come from a series of [[IoT]] devices that support environmental control for buildings, or it might be a number of x-ray details.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=63)** So that might be used by machine learning algorithms to come up with some kind of insightful outcome, a prediction, identification of a trend, or making some kind of an intelligent decision.
 >
@@ -2642,25 +2617,25 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=84)** The next consideration is how AI actually gets used.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=89)** Now in the cloud, we could use this for medical diagnosis, based on ingested x-rays, or for looking at the performance metrics, such as speed and tire pressure, and the amount of fuel, in self-driving cars.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=89)** Now in the cloud, we could use this for medical diagnosis, based on ingested x-rays, or for looking at the [[Performance Metrics]], such as speed and tire pressure, and the amount of fuel, in self-driving cars.
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=102)** AI is also used for facial recognition, as well as for host and network behavioral analysis.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=109)** So from the security side, we can ingest vast amounts of network activity, so network captures, host logs, and start making intelligent decisions about what might look suspicious.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=121)** So the detection of phishing mail messages can also be used to automate system hardening, if we see systems that are deviating from a preconfigured baseline for security configuration.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=121)** So the detection of [[Phishing]] mail messages can also be used to automate system hardening, if we see systems that are deviating from a preconfigured baseline for security configuration.
 >
-> **[2:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=133)** In the public cloud, we have options such as Microsoft Azure Sentinel, or Amazon Guard Duty for Amazon Web Services.
+> **[2:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=133)** In the public cloud, we have options such as [[Microsoft Azure]] Sentinel, or Amazon Guard Duty for [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=141)** These are enterprise security analytics tools or services that ingest data related to users, devices, and apps, and the related network activity.
 >
-> **[2:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=153)** The idea is that these cloud services can detect potential security threats, and even be configured with automated responses.
+> **[2:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=153)** The idea is that these [[Cloud Services]] can detect potential security threats, and even be configured with automated responses.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=161)** And again, because the cloud scales well, it's very easy to make this happen at a cheap cost, as opposed to having to make an upfront capital expenditure, or investment in clusters of equipment that would support this type of data ingestion and analysis.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-artificial-intelligence-and-machine-learning?u=76281980&t=161)** And again, because the cloud scales well, it's very easy to make this happen at a cheap cost, as opposed to having to make an upfront capital expenditure, or investment in clusters of equipment that would support this type of [[Data Ingestion]] and analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (8), [[Security]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Cloud Computing]] (1), [[Virtual Machines]] (1), [[IoT]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** iot (1)
@@ -2668,16 +2643,15 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Cloud DDoS protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980)
+#### [Cloud DDoS protection](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=0)** - [Instructor] Distributed denial of service, or DDoS attacks, can prevent legitimate access to a cloud-based web application.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=8)** This video focuses on DDoS mitigation techniques in the cloud, specifically using Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=8)** This video focuses on DDoS mitigation techniques in the cloud, specifically using [[Microsoft Azure]].
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=15)** To get started here, we're going to take a look at the DDoS protection plan options in the Azure Cloud.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=15)** To get started here, we're going to take a look at the DDoS protection plan options in the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-ddos-protection?u=76281980&t=22)** So in the portal, in the top center, I'm going to search for DDoS.
 >
@@ -2721,22 +2695,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Microsoft Azure|Azure]] (3), traffic (2), web application (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pen testing and the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980)
+#### [Pen testing and the cloud](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=0)** - [Narrator] Penetration tests identify and attempt to exploit discovered network and host vulnerabilities.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=7)** In this video, you'll learn about pen testing in the context of cloud computing.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=7)** In this video, you'll learn about pen testing in the context of [[Cloud Computing]].
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=13)** The first thing I've done here, is gone to the "penetration testing rules of engagement" webpage for the "Microsoft Azure Cloud".
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=13)** The first thing I've done here, is gone to the "[[Penetration Testing]] rules of engagement" webpage for the "[[Microsoft Azure]] Cloud".
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=20)** Public Cloud service providers always have a disclaimer and some documentation related to what is and what is not allowed when it comes to pen testing cloud resources.
 >
@@ -2744,7 +2717,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=39)** So, it includes "Microsoft Azure" services.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=43)** Now, as I scroll further down, it talks about reporting security issues that you might inadvertently discover related to the "Microsoft cloud" computing platform.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=43)** Now, as I scroll further down, it talks about reporting security issues that you might inadvertently discover related to the "[[Microsoft]] cloud" computing platform.
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=52)** It's not required, but ideally you would fill out a form and report the security vulnerability to Microsoft; there are links to do that.
 >
@@ -2752,7 +2725,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=63)** First of all, it says here that as of June 15th, 2017, Microsoft no longer requires pre-approval to conduct a penetration test.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=71)** Well, that's fine if you're an "Azure" customer, but make sure you look into it if you're using any other type of public cloud provider.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=71)** Well, that's fine if you're an "[[Microsoft Azure|Azure]]" customer, but make sure you look into it if you're using any other type of public cloud provider.
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=79)** Then the rules of engagement.
 >
@@ -2766,13 +2739,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=102)** You cannot perform any kind of denial of service testing.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=105)** So if you want to test your app's resiliency against denial of service attacks you won't be able to do it here.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=105)** So if you want to test your app's [[Resiliency]] against denial of service attacks you won't be able to do it here.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=111)** It's not allowed.
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=113)** So it's important to make sure that you are well-versed in the pen testing rules of engagement for your cloud provider.
 >
-> **[1:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=119)** Now, if you are going to conduct pen testing, you can use any tools you might normally use even on-premises such as "Kali Linux", which we're going to deploy here through the "Azure" portal.
+> **[1:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=119)** Now, if you are going to conduct pen testing, you can use any tools you might normally use even on-premises such as "[[Kali Linux]]", which we're going to deploy here through the "Azure" portal.
 >
 > **[2:09](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=129)** So I'm going to click "create a resource" in the upper left.
 >
@@ -2780,7 +2753,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=140)** There's "Kali Linux".
 >
-> **[2:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=142)** "Kali Linux" is a Linux distribution that contains hundreds of tools for security analysts.
+> **[2:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=142)** "Kali Linux" is a [[Linux]] distribution that contains hundreds of tools for security analysts.
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=148)** So I'm going to go ahead and click "create", to create this.
 >
@@ -2810,7 +2783,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=231)** So, I'm going to go ahead and save both the public and the private keys.
 >
-> **[3:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=236)** Now I've opened up the public key file I just saved in "WordPad" and we can see we've got this public key information, which I'm going to select and copy to my Windows clipboard.
+> **[3:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=236)** Now I've opened up the public key file I just saved in "WordPad" and we can see we've got this public key information, which I'm going to select and copy to my [[Windows]] clipboard.
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=247)** Back here in the Azure portal, I want to paste that in the SSH public key field.
 >
@@ -2864,13 +2837,13 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=366)** So if I type "clear", we can see that I am at the command prompt in Kali Linux and we are now ready to use any of the available tools that we might want to use.
 >
-> **[6:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=375)** For example, using the "Hydra brute force tool", here we can see the help screens for it.
+> **[6:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=375)** For example, using the "[[Hydra]] brute force tool", here we can see the help screens for it.
 >
 > **[6:20](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/pen-testing-and-the-cloud?u=76281980&t=380)** So we're ready to begin our pen testing in alignment with what's allowed with our cloud provider.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Kali Linux]] (7), [[Microsoft Azure|Azure]] (5), [[Security]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Kali Linux]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (3), [[Linux]] (3), [[Microsoft Azure]] (2)
 > **CLI Commands:** ssh (5), make (3)
 > **Env Vars:** ssh (5), vpn (2), gui (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -2879,8 +2852,7 @@ created: 2026-05-02
 > **Ports:** port 22 (1)
 > **Definitions:** is a  (1)
 
-#### Cloud hacking tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980)
+#### [Cloud hacking tools](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2888,7 +2860,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=6)** Let's take a few minutes to talk about cloud hacking tools, which are interesting because the same tool might be used legitimately by security auditors and pen testers, and those same tools might also be used by malicious actors for attacking a network or resources within a cloud-based network.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=24)** The January 3rd, 2020 article in Forbes Magazine includes a very interesting quote from Martin Giles stating that nation state hackers are now the biggest threat to cloud security.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=24)** The January 3rd, 2020 article in Forbes Magazine includes a very interesting quote from Martin Giles stating that nation state hackers are now the biggest threat to [[Cloud Security]].
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=37)** Why is this relevant?
 >
@@ -2896,7 +2868,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=48)** Now we are talking about potentially hostile nations that have very deep pockets that are funding some of these types of attacks.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=57)** So it means we really need to be on our guard and we really need to secure resources carefully, especially when it comes to the use of cloud computing.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=57)** So it means we really need to be on our guard and we really need to secure resources carefully, especially when it comes to the use of [[Cloud Computing]].
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=64)** The first thing we'll get into here is network sniffing.
 >
@@ -2910,7 +2882,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=117)** Now, there are many tools that can be used for a network sniffing.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=120)** Things like Wireshark, TCPdump, which is a built-in command in many Linux distributions, NetworkMiner, even in the cloud, the Azure Network Watcher tool for network monitoring can be used.
+> **[2:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=120)** Things like [[Wireshark]], TCPdump, which is a built-in command in many [[Linux]] distributions, NetworkMiner, even in the cloud, the [[Microsoft Azure|Azure]] Network Watcher tool for network monitoring can be used.
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=133)** Here I'm using the free open source Wireshark tool.
 >
@@ -2918,7 +2890,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=143)** Now, when you view an individual packet capture, it shows up as one row here in Wireshark, and when you select it in the center part of the screen, you can break down all of the different parts or headers of that transmission.
 >
-> **[2:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=157)** For example, the ethernet two header has source and destination hardware or MAC address information.
+> **[2:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=157)** For example, the ethernet two header has source and destination [[Hardware]] or MAC address information.
 >
 > **[2:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=164)** We have the internet protocol or IP version four header, which includes many fields, but it also includes things like the source and destination IP addresses.
 >
@@ -2930,7 +2902,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=214)** Now, this is easy to spot because the traffic has not been encrypted.
 >
-> **[3:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=218)** So the lesson here is not only should we be encrypting sensitive data that's stored, data at rest, but also data in transit being sent over a network.
+> **[3:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=218)** So the lesson here is not only should we be encrypting sensitive data that's stored, data at [[Representational State Transfer (REST)|rest]], but also data in transit being sent over a network.
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=228)** Some other common attacks we should be aware of, and this one is related primarily to a web app, is a server side request forgery, otherwise called an SSRF.
 >
@@ -2942,19 +2914,19 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=261)** But this is where the vulnerability really resides in that the app doesn't properly validate the URL.
 >
-> **[4:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=268)** It simply follows the instructions in the URL, such as to fetch a resource from another location like a URL on an internal server, on an internal network.
+> **[4:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=268)** It simply follows the instructions in the URL, such as to [[Fetch]] a resource from another location like a URL on an internal server, on an internal network.
 >
 > **[4:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=278)** And so our attackers can then use that vulnerable server essentially as a proxy or a jump server that they use to go through to get to internal resources.
 >
 > **[4:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=287)** The requests to internal servers would appear to have come from the vulnerable server, which in fact they would have.
 >
-> **[4:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=294)** So software developers need to adhere to secure coding guidelines to treat all supplied user data as untrusted, and then to validate it to make sure it is legitimate.
+> **[4:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=294)** So software developers need to adhere to [[Secure Coding]] guidelines to treat all supplied user data as untrusted, and then to validate it to make sure it is legitimate.
 >
 > **[5:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=307)** Now, there are a number of different cloud hacking techniques and tools.
 >
 > **[5:10](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=310)** Let's take a look at a couple of them here.
 >
-> **[5:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=313)** Google Cloud Platform, GCPBucketBrute, and also the AWS S3 bucket exploitation tool.
+> **[5:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=313)** [[Google Cloud Platform (GCP)|Google Cloud Platform]], GCPBucketBrute, and also the AWS S3 bucket exploitation tool.
 >
 > **[5:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=321)** These are tools that are designed to attack cloud-based storage.
 >
@@ -2964,7 +2936,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=351)** The AWS pwn tool, PWN.
 >
-> **[5:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=355)** This is actually a suite or a collection of hacking tools for specifically getting into AWS environments, such as restarting EC2 instances, which are virtual machines, by having them restart with custom injected user code, which of course would be malicious in this context.
+> **[5:55](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=355)** This is actually a suite or a collection of hacking tools for specifically getting into AWS environments, such as restarting [[Amazon EC2|EC2]] instances, which are [[Virtual Machines]], by having them restart with custom injected user code, which of course would be malicious in this context.
 >
 > **[6:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=373)** It also contains tools that are designed to remove the attacker's tracks, remove audit trail events that are related to security compromises.
 >
@@ -2990,7 +2962,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=442)** This one again, is related to AWS.
 >
-> **[7:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=445)** It's designed as a vulnerability scanner to detect any security misconfigurations, such as EC2 instances or virtual machines, which might allow some of their data, their metadata, so data about the virtual machines configuration to be downloaded.
+> **[7:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=445)** It's designed as a vulnerability scanner to detect any security misconfigurations, such as EC2 instances or virtual machines, which might allow some of their data, their [[Metadata]], so data about the virtual machines configuration to be downloaded.
 >
 > **[7:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-hacking-tools?u=76281980&t=462)** The idea being that the more that attackers know, the more that they can use that information to potentially break in.
 >
@@ -3002,7 +2974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Security]] (11), aws (10), traffic (9), data (6)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Virtual Machines]] (3), [[Amazon EC2|Ec2]] (2), [[Cloud Security]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** aws (10), url (6), tcp (2), http (2), ec2 (2)
 > **CLI Commands:** aws (10), make (2)
 > **Analogies:** for example (4), such as (4)
@@ -3010,16 +2982,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980)
+#### [Cloud security best practices](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=0)** - [Instructor] Okay, so at this point we've covered a lot of cloud security, potential vulnerabilities and how you might mitigate their impacts.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=0)** - [Instructor] Okay, so at this point we've covered a lot of [[Cloud Security]], potential vulnerabilities and how you might mitigate their impacts.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=7)** Let's focus now on cloud security best practices.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=11)** As we're going through this discussion, I'd like you to think about how your organization is using cloud computing services and how some of the things that we will be talking about could apply, in terms of hardening those cloud services.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=11)** As we're going through this discussion, I'd like you to think about how your organization is using [[Cloud Computing]] services and how some of the things that we will be talking about could apply, in terms of hardening those [[Cloud Services]].
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=25)** Let's start with the cloud access security broker, CASB, otherwise just pronounced CASB.
 >
@@ -3033,13 +3004,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=42)** Well, it can mean data loss prevention.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=44)** In other words, we want to make sure we limit data ex-filtration possibilities, sensitive data being taken out of the organization, such as from cloud services, like databases, or storage buckets.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=44)** In other words, we want to make sure we limit data ex-filtration possibilities, sensitive data being taken out of the organization, such as from cloud services, like [[Databases]], or storage buckets.
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=56)** Cloud governance, which means that we want to make sure the use of cloud IT services adheres to the appropriate regulations, laws, data privacy standards.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=56)** Cloud governance, which means that we want to make sure the use of cloud IT services adheres to the appropriate regulations, laws, [[Data Privacy]] standards.
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=66)** You can go to a public cloud provider's webpage documentation for their site and read up on their compliance with regulations, like GDPR for the European Union, or PCI DSS for credit and debit cards.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=81)** So examples of CASBs include Microsoft Defender for Cloud, in the Microsoft Azure environment, the use of Microsoft Azure conditional access policies, where numerous conditions would have to be met before allowing access to resources, such as cloud-based apps.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=81)** So examples of CASBs include [[Microsoft Defender]] for Cloud, in the [[Microsoft Azure]] environment, the use of Microsoft Azure conditional access policies, where numerous conditions would have to be met before allowing access to resources, such as cloud-based apps.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=99)** Or using tools like Cisco Cloud Lock or AWS IAM policies.
 >
@@ -3051,17 +3022,17 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=114)** In Microsoft Azure, as per our screenshot, that's called Bastion.
 >
-> **[1:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=119)** Now, the idea is that we have a jump box, a server, a virtual machine, that has a public interface, so it's reachable from the internet, but it also has a private interface connecting to an internal cloud network where virtual machines with only private IP addresses reside.
+> **[1:59](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=119)** Now, the idea is that we have a jump box, a server, a virtual machine, that has a public interface, so it's reachable from the internet, but it also has a private interface connecting to an internal cloud network where [[Virtual Machines]] with only private IP addresses reside.
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=136)** So what this means is we do not want our virtual machines to have public IPs and thus be reachable directly from the internet, for security reasons.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=145)** So in this example, what's happening is the Microsoft Azure Portal, the web GUI, is being used where the credentials are being specified to sign in to a Linux virtual machine.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=145)** So in this example, what's happening is the Microsoft Azure Portal, the web GUI, is being used where the credentials are being specified to sign in to a [[Linux]] virtual machine.
 >
-> **[2:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=155)** And this is all being done through the Azure Portal.
+> **[2:35](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=155)** And this is all being done through the [[Microsoft Azure|Azure]] Portal.
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=159)** You don't have to use some other tool that would require a direct connection to the virtual machine.
 >
-> **[2:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=165)** The other thing to think about is serverless computing.
+> **[2:45](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=165)** The other thing to think about is [[Serverless Computing]].
 >
 > **[2:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=167)** What this really means is that there are still servers being used for given services, but those are underlying servers that are managed by the cloud service provider, including the updating of the software in those servers, the OS, and any apps that are installed.
 >
@@ -3077,7 +3048,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=213)** Well, you can do some of the things you would do on premises that would be just as effective in the cloud, such as limiting network access, determining who can be on the network in the first place.
 >
-> **[3:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=223)** And that is done in a number of ways, such as with proper firewall configurations and also enabling things like multi-factor authentication to make it hard to sign in.
+> **[3:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=223)** And that is done in a number of ways, such as with proper firewall configurations and also enabling things like [[Multi-factor Authentication]] to make it hard to sign in.
 >
 > **[3:52](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=232)** Not just to sign into an app, to sign in to even gain access to the network in the first place.
 >
@@ -3089,13 +3060,13 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=252)** It means on-premises, it means in a content delivery network environment.
 >
-> **[4:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=257)** With on-premises configurations, we can have a hardware appliance provided by the cloud provider, or it could be a software appliance, which really just means it's a virtual machine that you can download from the cloud provider that runs on-prem.
+> **[4:17](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=257)** With on-premises configurations, we can have a [[Hardware]] appliance provided by the cloud provider, or it could be a software appliance, which really just means it's a virtual machine that you can download from the cloud provider that runs on-prem.
 >
 > **[4:30](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=270)** And what it would do is do some kind of local processing, maybe anonymizing data, and that can even be customized.
 >
 > **[4:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=277)** The other thing to think about is the examples of where that would be used.
 >
-> **[4:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=281)** So ask yourself, are we using Amazon Web Services Lambda Functions?
+> **[4:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=281)** So ask yourself, are we using [[Amazon Web Services (AWS)|Amazon Web Services]] Lambda Functions?
 >
 > **[4:46](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=286)** And if so, are those functions running on the edge, such as in a content delivery network, a CDN.
 >
@@ -3153,11 +3124,11 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=436)** Finally, you should consider using security profiles to control what application containers can do.
 >
-> **[7:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=443)** You can do this using things like, Security Enhanced, or SELinux, or software products like AppArmor.
+> **[7:23](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=443)** You can do this using things like, Security Enhanced, or SELinux, or software [[Microsoft Products|products]] like AppArmor.
 >
 > **[7:30](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=450)** So take a minute and think about how your organization might be using application containers and ideally make a list of these types of hardening options for the containers and make sure that they are being adhered to.
 >
-> **[7:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=463)** The last thing we'll cover here is the OWASP Top 10.
+> **[7:43](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=463)** The last thing we'll cover here is the [[OWASP]] Top 10.
 >
 > **[7:47](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=467)** And the OWASP Top 10 lists the top 10 security vulnerabilities for web apps.
 >
@@ -3165,11 +3136,11 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=476)** Item two is cryptographic failures.
 >
-> **[7:58](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=478)** We're not going to go through the entire list in detail because there are other LinkedIn Library courses that focus on web application security, as well as the OWASP Top 10, but it's important to be aware of it.
+> **[7:58](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=478)** We're not going to go through the entire list in detail because there are other [[LinkedIn]] Library courses that focus on [[Web Application Security]], as well as the OWASP Top 10, but it's important to be aware of it.
 >
 > **[8:11](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=491)** Whether the web app runs on-premises or in the cloud makes no difference.
 >
-> **[8:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=495)** A lot of this boils down to software developers adhering to secure coding guidelines.
+> **[8:15](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=495)** A lot of this boils down to software developers adhering to [[Secure Coding]] guidelines.
 >
 > **[8:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=501)** All right, so we've covered cloud security best practices as they relate to various cloud service deployments.
 >
@@ -3181,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (29), [[Security]] (11), data (6), application (5), [[Microsoft Azure]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Cloud Security]] (3), [[Cloud Services]] (3), [[OWASP]] (3), [[Cloud Computing]] (2)
 > **Env Vars:** casb (4), owasp (3), cdn (2), gdpr (1), pci (1)
 > **CLI Commands:** make (10), aws (1)
 > **Analogies:** such as (5), imagine (1), for example (1)
@@ -3195,8 +3166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3204,7 +3174,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980&t=8)** Well, the next thing to consider is to track cloud provider security updates.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980&t=13)** So if your cloud provider is Amazon Web Services, or Google Cloud Platform, or Microsoft Azure make sure to check constantly to see if there are any updates, or improvements from a security perspective to existing cloud services.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980&t=13)** So if your cloud provider is [[Amazon Web Services (AWS)|Amazon Web Services]], or [[Google Cloud Platform (GCP)|Google Cloud Platform]], or [[Microsoft Azure]] make sure to check constantly to see if there are any updates, or improvements from a security perspective to existing [[Cloud Services]].
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980&t=28)** This also means adhering to security best practices for each cloud service.
 >
@@ -3220,7 +3190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Security]] (4), next (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)

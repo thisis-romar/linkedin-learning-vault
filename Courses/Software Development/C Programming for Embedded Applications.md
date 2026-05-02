@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started in embedded systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
+#### [Getting started in embedded systems](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,9 +117,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=30)** In this course, you'll learn about several complications that aren't a concern in traditional operating system applications like limited Ram or a low-end CPU.
 >
-> **[0:42](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=42)** So you'll learn several techniques like working with a microcontroller that doesn't have a floating point unit, working with an optimizing compiler without getting hurt and manipulating single bits in a hardware friendly way.
+> **[0:42](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=42)** So you'll learn several techniques like working with a microcontroller that doesn't have a floating point unit, working with an optimizing compiler without getting hurt and manipulating single bits in a [[Hardware]] friendly way.
 >
-> **[0:57](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=57)** We'll showcase all of these techniques using an Arduino UNO, mainly because it has a very limited CPU.
+> **[0:57](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=57)** We'll showcase all of these techniques using an [[Arduino]] UNO, mainly because it has a very limited CPU.
 >
 > **[1:04](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980&t=64)** So you'll get to see how to make the best out of this very basic piece of hardware.
 >
@@ -130,13 +129,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), game (1), [[Programming]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Arduino]] (1)
 > **Env Vars:** cpu (2), uno (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980&t=20)** We will focus on important concepts for designing better embedded solutions, but please be aware that we will not cover the basics of C and we will not implement an embedded project from scratch.
 >
-> **[0:35](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980&t=35)** Although you are not required to follow along with the examples in this course, you may do so, in which case you'll need an Arduino Uno board, which you can buy at virtually any electronics online store, including the Arduino store.
+> **[0:35](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980&t=35)** Although you are not required to follow along with the examples in this course, you may do so, in which case you'll need an [[Arduino]] Uno board, which you can buy at virtually any [[Electronics]] online store, including the Arduino store.
 >
 > **[0:50](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/what-you-should-know?u=76281980&t=50)** You'll also need the Arduino IDE, which you may download from the Arduino website.
 >
@@ -160,15 +158,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (1), data (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (4), [[Electronics]] (1)
 > **Env Vars:** mdk (4), ide (1)
 > **Prerequisites:** before we start (1), required to (1), you'll need (1)
 > **Exercise Files:** download the (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,11 +183,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/using-the-exercise-files?u=76281980&t=57)** The extension for these files is uvproj.
 >
-> **[1:01](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/using-the-exercise-files?u=76281980&t=61)** Just remember that you need to have legacy support for Keil version 4 projects and for Arduino projects, just open the .ino file.
+> **[1:01](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/using-the-exercise-files?u=76281980&t=61)** Just remember that you need to have legacy support for Keil version 4 projects and for [[Arduino]] projects, just open the .ino file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** zip file (1), exercise files (1)
 > **Versions:** version 4 (1)
@@ -204,8 +201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applications: OS vs. embedded
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
+#### [Applications: OS vs. embedded](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=83)** And this is where we need to pay special attention to the typical parameters.
 >
-> **[1:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=87)** Embedded systems normally have a specific purpose, which is digital control of hardware.
+> **[1:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=87)** Embedded systems normally have a specific purpose, which is digital control of [[Hardware]].
 >
 > **[1:34](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=94)** Embedded systems tend to have much less memory available.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=152)** The first is a simple main function with an endless loop, which is known as a bare metal application.
 >
-> **[2:38](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=158)** And the second would be a real-time operating system, or RTOS, which is not a traditional operating system like Android, Windows or Linux at all.
+> **[2:38](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=158)** And the second would be a [[Real-Time]] operating system, or RTOS, which is not a traditional operating system like [[Android]], [[Windows]] or [[Linux]] at all.
 >
 > **[2:49](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=169)** An RTOS is really the least necessary framework for basic multi-threading.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=197)** The reality of an embedded application is quite different from a desktop computer.
 >
-> **[3:22](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=202)** Throughout the rest of the course, I will refer to five aspects we care about in embedded systems.
+> **[3:22](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=202)** Throughout the [[Representational State Transfer (REST)|rest]] of the course, I will refer to five aspects we care about in embedded systems.
 >
 > **[3:29](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980&t=209)** Keep an eye out for these icons as these are the means by which we can achieve our design goals.
 >
@@ -281,15 +277,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), application (3), [[Engineering]] (2), [[Hardware]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Real-Time]] (1), [[Android]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** cpu (2), rtos (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980)
+#### [Memory](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=81)** Finally, we have the AT mega 328P by microchip.
 >
-> **[1:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=86)** This is the one on the Arduino Uno.
+> **[1:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=86)** This is the one on the [[Arduino]] Uno.
 >
 > **[1:28](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=88)** This one has 2K of RAM, which is less than a text file.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=103)** They both stand for random access memory and they are both volatile.
 >
-> **[1:48](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=108)** However, in traditional, always based systems like windows or Android, the term RAM usually means the so-called main memory in a scheme called a memory hierarchy, where the CPU is only able to access a very small but fast memory called a cache.
+> **[1:48](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=108)** However, in traditional, always based systems like [[Windows]] or [[Android]], the term RAM usually means the so-called main memory in a scheme called a memory hierarchy, where the CPU is only able to access a very small but fast memory called a cache.
 >
 > **[2:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=127)** The cache contains the most popular memory blocks stored in the next level of the hierarchy, which is the main memory or RAM.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=150)** This is an advanced computer architecture for getting the largest, cheapest and fastest memory possible.
 >
-> **[2:37](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=157)** The microprocessor chip usually contains some of the cache and the rest is external in a motherboard.
+> **[2:37](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=157)** The microprocessor chip usually contains some of the cache and the [[Representational State Transfer (REST)|rest]] is external in a motherboard.
 >
 > **[2:46](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/memory?u=76281980&t=166)** Now in embedded bare metal systems, the term RAM means something different.
 >
@@ -359,21 +354,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Arduino]] (1), [[Windows]] (1), [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1), [[Windows]] (1), [[Android]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ram (9), cpu (5), arm (2), nxp (1), stm32f (1)
 > **Definitions:** is an  (2), is a  (2), means that (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980)
+#### [Storage](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=0)** - [Instructor] Just like RAM, non-volatile memory for storage is also very limited in embedded systems.
 >
-> **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=7)** This is also done on purpose because digital control uses simple algorithms that require short programs.
+> **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=7)** This is also done on purpose because digital control uses simple [[Algorithms]] that require short programs.
 >
 > **[0:16](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=16)** So we get the same benefits of a small RAM.
 >
@@ -399,18 +393,17 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=93)** In fact, it is a common practice to select a specific microcontroller based on the expected program size rather than selecting the largest.
 >
-> **[1:43](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=103)** To put this in perspective, a simple Windows program, say, Notepad, is 240 kilobytes, nearly twice all the flash memory in the largest microcontroller we just saw.
+> **[1:43](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/storage?u=76281980&t=103)** To put this in perspective, a simple [[Windows]] program, say, Notepad, is 240 kilobytes, nearly twice all the flash memory in the largest microcontroller we just saw.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Windows]] (1)
 > **Env Vars:** ram (5), rom (2), nxp (1), stm32f (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Energy consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980)
+#### [Energy consumption](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980&t=63)** The typology of the code is very straightforward.
 >
-> **[1:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980&t=66)** The main function simply calls an initialization function for the hardware it uses.
+> **[1:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980&t=66)** The main function simply calls an initialization function for the [[Hardware]] it uses.
 >
 > **[1:12](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/energy-consumption?u=76281980&t=72)** Then it goes into an endless loop that calls two functions over and over.
 >
@@ -452,15 +445,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), application (2), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Prerequisites:** you'll need (1), initialization (1)
 > **Code Identifiers:** sleep_ms (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Processing power
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980)
+#### [Processing power](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=10)** Once more, this is done on purpose because low-end MCUs consume less energy.
 >
-> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=17)** The algorithms for digital control are so simple, that they don't require a very powerful CPU.
+> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=17)** The [[Algorithms]] for digital control are so simple, that they don't require a very powerful CPU.
 >
 > **[0:24](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=24)** Less processing power usually means low cost.
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=55)** This is an 8-bit CPU.
 >
-> **[0:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=58)** Just like the Arduino Uno, the MSP 430 architecture by Texas Instruments, also has an 8-bit CPU.
+> **[0:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=58)** Just like the [[Arduino]] Uno, the MSP 430 architecture by Texas Instruments, also has an 8-bit CPU.
 >
 > **[1:08](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/processing-power?u=76281980&t=68)** Today, ARM Cortex-Microcontrollers are everywhere.
 >
@@ -494,18 +486,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Algorithms]] (1), [[Arduino]] (1), semiconductor (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Arduino]] (1)
 > **Env Vars:** cpu (4), arm (2), so8 (1), nxp (1), msp (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Hardware awareness
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/hardware-awareness?u=76281980)
+#### [Hardware awareness](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/hardware-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/hardware-awareness?u=76281980&t=0)** - [Instructor] In embedded applications, we care about the hardware, because, well, first, embedded systems are all about digital control.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/hardware-awareness?u=76281980&t=0)** - [Instructor] In embedded applications, we care about the [[Hardware]], because, well, first, embedded systems are all about digital control.
 >
 > **[0:09](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/hardware-awareness?u=76281980&t=9)** So we are ultimately dealing with hardware that is reading sensor data and controlling devices, such as motors, speakers, and lights.
 >
@@ -547,18 +538,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (9), data (3), parallel (2)
+> **Frameworks & Libraries:** [[Hardware]] (9)
 > **Env Vars:** cpu (2), hvac (1)
 > **Analogies:** such as (1), for example (1), picture (1)
 > **Versions:** 3.44 (1)
 > **Speakers:** - [instructor] (1)
 
-#### C vs. Embedded C
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980)
+#### [C vs. Embedded C](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=0)** - [Instructor] You may be wondering about the difference between regular C and Embedded C.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=0)** - [Instructor] You may be wondering about the difference between regular C and [[Embedded C]].
 >
 > **[0:05](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=5)** So let me tell you a bit about both.
 >
@@ -566,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=13)** It's specified in the ISO/IEC TR 18037 standard.
 >
-> **[0:19](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=19)** These extensions contemplate common elements in embedded systems, like support for fixed point arithmetic, named address spaces, access to machine registers, and basic hardware I/O addressing.
+> **[0:19](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=19)** These extensions contemplate common elements in embedded systems, like support for fixed point arithmetic, named address spaces, access to machine registers, and basic [[Hardware]] I/O addressing.
 >
 > **[0:32](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=32)** There are several coding styles, like MISRA C and CERT C, which are regarded as Embedded C.
 >
@@ -580,13 +570,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=84)** Speaking of which, these techniques apply for the most part to C and C++, despite being two different programming languages.
 >
-> **[1:34](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=94)** This is the case for the Arduino IDE, for example, which uses a C++ compiler.
+> **[1:34](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=94)** This is the case for the [[Arduino]] IDE, for example, which uses a C++ compiler.
 >
 > **[1:40](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/c-vs-embedded-c?u=76281980&t=100)** But the language is often used without objects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Embedded C]] (5), [[Programming]] (2), [[Hardware]] (1), [[Security]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Embedded C]] (5), [[Hardware]] (1), [[Arduino]] (1)
 > **Env Vars:** iso (1), iec (1), misra (1), cert (1), arm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -597,8 +587,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integral types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
+#### [Integral types](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980&t=54)** These three details apply to any computing system, but remember that the are especially important in embedded applications.
 >
-> **[1:03](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980&t=63)** Finally, being specific on the size of variable types is important to the hardware.
+> **[1:03](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980&t=63)** Finally, being specific on the size of variable types is important to the [[Hardware]].
 >
 > **[1:09](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980&t=69)** There are memory map registers that control the supporting hardware, and those registers need to be treated exclusively with their exact size.
 >
@@ -686,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Hardware]] (2), power (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2)
 > **File Paths:** stdint.h (1)
@@ -694,8 +683,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Floating-point types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/floating-point-types?u=76281980)
+#### [Floating-point types](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/floating-point-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +791,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), power (2), [[Programming]] (1)
 > **Env Vars:** fpu (15), m4f (3), cpu (3), ieee (1), mc4 (1)
 > **Definitions:** is a  (5), known as (3), stands for (2), means that (1)
 > **CLI Commands:** make (3)
@@ -811,13 +798,13 @@ created: 2026-05-02
 > **Versions:** 0.1 (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
 
-#### A quick analysis of memory usage with Keil
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-quick-analysis-of-memory-usage-with-keil?u=76281980)
+#### [A quick analysis of memory usage with Keil](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-quick-analysis-of-memory-usage-with-keil?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-quick-analysis-of-memory-usage-with-keil?u=76281980&t=0)** - [Instructor] Now, let me show you a quick demo on how data types have a real impact on the hardware platform we are using.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-quick-analysis-of-memory-usage-with-keil?u=76281980&t=0)** - [Instructor] Now, let me show you a quick demo on how data types have a real impact on the [[Hardware]] platform we are using.
 >
 > **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-quick-analysis-of-memory-usage-with-keil?u=76281980&t=7)** You can find this code in the exercise files folder, if you'd like to play around with it.
 >
@@ -925,7 +912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), application (5), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** ram (3), stm32f303 (1), sdm32f303 (1), stm32 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
@@ -934,12 +921,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** in the last (1)
 
-#### Checking memory usage with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/checking-memory-usage-with-arduino?u=76281980)
+#### [Checking memory usage with Arduino](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/checking-memory-usage-with-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/checking-memory-usage-with-arduino?u=76281980&t=0)** - [Instructor] Let's see another version of the same demo now in the Arduino platform so that you can see the differences between these two.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/checking-memory-usage-with-arduino?u=76281980&t=0)** - [Instructor] Let's see another version of the same demo now in the [[Arduino]] platform so that you can see the differences between these two.
 >
 > **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/checking-memory-usage-with-arduino?u=76281980&t=7)** You can find this code in the exercise files folder and I encourage you to reproduce it and play around with it.
 >
@@ -1007,7 +993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), data (5), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Env Vars:** ram (1), sdb (1), ide (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1020,8 +1006,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Masking
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
+#### [Masking](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=11)** For example, an integers to hold numbers between one and 12 to represent the month in a date, well, this would only take four bits.
 >
-> **[0:21](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=21)** Second bit manipulation is a must to deal with the hardware, especially because the in chip supporting hardware communicates with the CPU in a bit wise manner.
+> **[0:21](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=21)** Second bit manipulation is a must to deal with the [[Hardware]], especially because the in chip supporting hardware communicates with the CPU in a bit wise manner.
 >
 > **[0:33](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=33)** Let's see three Bitwise operations we can perform by means of bit masking.
 >
@@ -1103,7 +1088,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=292)** First, masking is a safe way to only deal with the bits of interest.
 >
-> **[4:57](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=297)** The rest of the bits are ignored and unchanged.
+> **[4:57](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=297)** The [[Representational State Transfer (REST)|rest]] of the bits are ignored and unchanged.
 >
 > **[5:02](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980&t=302)** Second, if you decide to use masks in your code, you are expected to make it easy to read.
 >
@@ -1115,19 +1100,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **Env Vars:** cpu (3), ccs (1), so8 (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bit masking with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-masking-with-arduino?u=76281980)
+#### [Bit masking with Arduino](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-masking-with-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-masking-with-arduino?u=76281980&t=0)** - Now let's see the technique of bit masking working on an Arduino UNO.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-masking-with-arduino?u=76281980&t=0)** - Now let's see the technique of bit masking working on an [[Arduino]] UNO.
 >
 > **[0:05](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-masking-with-arduino?u=76281980&t=5)** This application will simply blink the onboard LED of the Arduino UNO, which happens to be at port B bit five.
 >
@@ -1187,15 +1171,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6), application (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (6)
 > **Env Vars:** uno (4), led (4), ddrb (4)
 > **Definitions:** stands for (1), is a  (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - now (1)
 
-#### Bit fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980)
+#### [Bit fields](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,9 +1186,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=5)** This is a construct readily available in the C programming language.
 >
-> **[0:09](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=9)** These bits can be accessed for reading or writing exclusively, without effecting other bits in the byte or word.
+> **[0:09](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=9)** These bits can be accessed for reading or writing exclusively, without effecting other bits in the byte or [[Microsoft Word|word]].
 >
-> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=17)** Bit fields are useful for controlling the hardware, as many vendor provided libraries use them.
+> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=17)** Bit fields are useful for controlling the [[Hardware]], as many vendor provided libraries use them.
 >
 > **[0:25](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=25)** Up to this point, bits fields seem to have the same application as masking, but bit fields are also useful for making a better use of the memory because they allow us to work with data that is smaller than eight bits.
 >
@@ -1219,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=71)** This code shows a typical data structure with bit fields that allows the programmer to easily treat one byte as a whole C language structure.
 >
-> **[1:21](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=81)** These data structures are almost always unions because we are usually interested in referring to data in more than one way.
+> **[1:21](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=81)** These [[Data Structures]] are almost always unions because we are usually interested in referring to data in more than one way.
 >
 > **[1:30](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=90)** The code shows a type definition of a union called weekdays.
 >
@@ -1239,7 +1222,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=150)** So, for example, to read the monday field, the syntax would be active_days.days.monday.
 >
-> **[2:40](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=160)** You may freely read it in an if statement or you can write one or zero to it, and you may rest assured that this will only have an effect on the monday field.
+> **[2:40](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=160)** You may freely read it in an if statement or you can write one or zero to it, and you may [[Representational State Transfer (REST)|rest]] assured that this will only have an effect on the monday field.
 >
 > **[2:53](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/bit-fields?u=76281980&t=173)** Also notice that the first field to be specified takes up the lowest ordered bits, and the next fields are assigned to subsequent bits.
 >
@@ -1249,15 +1232,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (2), [[Programming]] (1), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[Data Structures]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** active_days (2), byte_sized (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - a (1)
 
-#### A bit field example with Keil
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980)
+#### [A bit field example with Keil](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,9 +1249,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=13)** This is a structure for a timer status and control register.
 >
-> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=17)** This eight bit register is used to configure the operation of a hardware timer module, which is useful for keeping track of time.
+> **[0:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=17)** This eight bit register is used to configure the operation of a [[Hardware]] timer module, which is useful for keeping track of time.
 >
-> **[0:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=26)** Notice that here we have two fields that are longer than one bit each, PS and CLKS, and the rest are one bit long.
+> **[0:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=26)** Notice that here we have two fields that are longer than one bit each, PS and CLKS, and the [[Representational State Transfer (REST)|rest]] are one bit long.
 >
 > **[0:35](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=35)** Let's see the code to implement this data structure.
 >
@@ -1287,7 +1269,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=66)** This one is called Bits, and it's defined in lines seven through 16.
 >
-> **[1:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=71)** Take a moment to pause the video and notice the names of the individual bits, including the bits that compose the multibit fields, PS and CLKS.
+> **[1:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=71)** Take a moment to pause the video and notice the names of the individual bits, including the bits that [[Jetpack Compose|compose]] the multibit fields, PS and CLKS.
 >
 > **[1:23](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/a-bit-field-example-with-keil?u=76281980&t=83)** Also notice that I declared these fields as uint8 type, but again, their length is specified by the number on the right.
 >
@@ -1351,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), hit (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** clks (3), soa (1), nxp (1), ps0 (1), ps1 (1)
 > **Definitions:** is a  (4), is called (3)
 > **Exercise Files:** exercise files (1)
@@ -1365,8 +1347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The volatile qualifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
+#### [The volatile qualifier](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1355,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980&t=7)** So being specific about variables has an impact on memory and storage because qualifiers determine whether a variable will be stored in RAM or ROM.
 >
-> **[0:19](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980&t=19)** The hardware has access to some variables and the software can be made aware of this with qualifiers.
+> **[0:19](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980&t=19)** The [[Hardware]] has access to some variables and the software can be made aware of this with qualifiers.
 >
 > **[0:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980&t=27)** Finally, this may have an effect on undesired compiler optimizations.
 >
@@ -1456,15 +1437,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (4)
 > **Env Vars:** cpu (6), ram (1), rom (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The const qualifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980)
+#### [The const qualifier](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1452,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980&t=6)** Both define a constant for the digital pin where some LED is to be connected.
 >
-> **[0:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980&t=11)** This is an Arduino example, so pin 13 is a valid option.
+> **[0:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980&t=11)** This is an [[Arduino]] example, so pin 13 is a valid option.
 >
 > **[0:16](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-const-qualifier?u=76281980&t=16)** The first one uses the const qualifier in a variable definition.
 >
@@ -1574,7 +1554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), parallel (1), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** rom (7), ram (2), led (1), uno (1), progmem (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Analogies:** for example (2)
@@ -1582,8 +1562,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect variables using volatile
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/protect-variables-using-volatile?u=76281980)
+#### [Protect variables using volatile](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/protect-variables-using-volatile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1678,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
@@ -1707,9 +1685,9 @@ created: 2026-05-02
 > **File Paths:** main.c (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
+> **Analogies:** for example (1)
 
-#### Don't let the optimizer remove your while loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980)
+#### [Don't let the optimizer remove your while loop](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1755,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980&t=195)** What this means is that it's taking less than one millisecond to complete each of the iterations of the loop function, which contains five codes to the wait function.
 >
-> **[3:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980&t=206)** Looking at the Arduino, you may see that the LED is blinking rapidly, but don't worry.
+> **[3:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980&t=206)** Looking at the [[Arduino]], you may see that the LED is blinking rapidly, but don't worry.
 >
 > **[3:32](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/don-t-let-the-optimizer-remove-your-while-loop?u=76281980&t=212)** The loop is indeed taking less than one millisecond.
 >
@@ -1789,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (8)
 > **UI Navigation:** go to (1), toggle (1), open the (1)
 > **CLI Commands:** find (2)
@@ -1803,8 +1781,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lookup tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
+#### [Lookup tables](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1832,7 +1809,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=65)** Some calculators have lookup tables to implement expensive functions like logarithms and roots.
 >
-> **[1:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=71)** The idea is to have those hard-to-calculate values already stored in ROM so that instead of a lengthy function call, we only have to fetch a value from memory.
+> **[1:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=71)** The idea is to have those hard-to-calculate values already stored in ROM so that instead of a lengthy function call, we only have to [[Fetch]] a value from memory.
 >
 > **[1:22](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=82)** Let's see an example.
 >
@@ -1870,7 +1847,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=197)** Take this sine function, for example, there's no need to store values other than those for a domain angle between zero and 90 degrees.
 >
-> **[3:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=207)** The rest of the function is easy to adapt by manipulating the angle and sine of the result.
+> **[3:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=207)** The [[Representational State Transfer (REST)|rest]] of the function is easy to adapt by manipulating the angle and sine of the result.
 >
 > **[3:33](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980&t=213)** Even the cosine function wouldn't be necessary, because we could just add 90 degrees to the angle.
 >
@@ -1896,7 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rom (3), cpu (2), ram (2)
 > **Definitions:** means that (2), is called (1), is an  (1)
 > **File Paths:** math.h (1)
@@ -1904,8 +1881,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Macro functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/macro-functions?u=76281980)
+#### [Macro functions](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/macro-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1989,7 +1965,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (2), product (1)
 > **Definitions:** is an  (1), means that (1), is called (1), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** source code (2)
@@ -1997,8 +1972,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instruction] (1)
 
-#### Inline functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/inline-functions?u=76281980)
+#### [Inline functions](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/inline-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,14 +2038,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1), next (1), ai (1), [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### LUT vs. function example in Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980)
+#### [LUT vs. function example in Arduino](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2107,7 +2079,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980&t=110)** I use doubles because I'm about to compare this to the log10 function in math.h, which returns a double.
 >
-> **[1:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980&t=118)** For the Arduino UNO, however, the double type is the same as the float type, so they are both binary 32.
+> **[1:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980&t=118)** For the [[Arduino]] UNO, however, the double type is the same as the float type, so they are both binary 32.
 >
 > **[2:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-arduino?u=76281980&t=126)** As you may imagine, this will take up a lot of room in non-volatile memory.
 >
@@ -2211,7 +2183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), next (2), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Env Vars:** uno (5), use_log (3), progmem (3), rom (3), use_lut (2)
 > **Definitions:** is called (2), is a  (2), in other words (1), is an  (1)
 > **Versions:** 18.8 (2), 29.2 (1), 4.84 (1)
@@ -2220,8 +2192,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
 
-#### LUT vs. function example in Keil
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980)
+#### [LUT vs. function example in Keil](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,9 +2200,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=8)** As usual, you can find this in the exercise files folder.
 >
-> **[0:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=11)** The code is pretty much the same as the Arduino example we just saw.
+> **[0:11](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=11)** The code is pretty much the same as the [[Arduino]] example we just saw.
 >
-> **[0:15](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=15)** So I'd like to focus on two things, how the const qualifiers sends the lookup table to ROM and a simulation to make a performance comparison.
+> **[0:15](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=15)** So I'd like to focus on two things, how the const qualifiers sends the lookup table to ROM and a [[Simulation]] to make a performance comparison.
 >
 > **[0:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=26)** In line 29, we have the logarithm lookup table.
 >
@@ -2283,7 +2254,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=198)** So let me start the simulation and stop it when we can see several cycles in the analyzer.
 >
-> **[3:28](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=208)** Now I will adjust the zoom until we can see exactly one cycle to make the best use of the screen resolution.
+> **[3:28](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=208)** Now I will adjust the [[Zoom]] until we can see exactly one cycle to make the best use of the screen resolution.
 >
 > **[3:38](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=218)** Notice that the signal seems to stay high most of the time, and it goes low periodically, very briefly, just as we would expect from the code.
 >
@@ -2309,7 +2280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (5), data (4), [[Arduino]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), [[Arduino]] (2), [[Zoom]] (1)
 > **Env Vars:** rom (3), ram (3), arm (2), uno (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 57.6 (2), 7.53 (1)
@@ -2318,8 +2289,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### Inline function example in Keil
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/inline-function-example-in-keil?u=76281980)
+#### [Inline function example in Keil](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/inline-function-example-in-keil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2395,8 +2365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software implementation of float
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
+#### [Software implementation of float](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2420,7 +2389,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=62)** The difference between these types is the number of bits in the exponent and significant.
 >
-> **[1:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=67)** To work with these numbers, the software or hardware has to extract these three parts and translate them into numbers.
+> **[1:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=67)** To work with these numbers, the software or [[Hardware]] has to extract these three parts and translate them into numbers.
 >
 > **[1:15](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=75)** A one in the sign bit means negative, and a zero means positive.
 >
@@ -2444,7 +2413,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=142)** And finally, we have comparison routines.
 >
-> **[2:25](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=145)** These are necessary for useful algorithms, and these help determine if two numbers are equal, one greater than the other, one less than the other and their combinations.
+> **[2:25](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=145)** These are necessary for useful [[Algorithms]], and these help determine if two numbers are equal, one greater than the other, one less than the other and their combinations.
 >
 > **[2:37](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=157)** So here are the key points to remember so far.
 >
@@ -2454,7 +2423,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=174)** This translates to overall slower applications.
 >
-> **[2:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=178)** Finally, a word of caution.
+> **[2:58](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=178)** Finally, a [[Microsoft Word|word]] of caution.
 >
 > **[3:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980&t=180)** Even if you have a microcontroller with an FPU, your compiler may decide to use these software libraries for some reason.
 >
@@ -2462,14 +2431,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Hardware]] (1), data (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cpu (4), fpu (4), ram (1), rom (1), ieee (1)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Warnings:** caution (1), common mistake (1), be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fixed-point math
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980)
+#### [Fixed-point math](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,7 +2445,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=7)** They're just not adequate for every situation or application.
 >
-> **[0:10](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=10)** Take banking for instance, did you know that you just can't add 100 million to one with 32-bit floats?
+> **[0:10](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=10)** Take [[Banking]] for instance, did you know that you just can't add 100 million to one with 32-bit floats?
 >
 > **[0:19](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=19)** Feel free to try it, just make sure you're using 32-bit floats.
 >
@@ -2521,7 +2489,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=186)** As you can see, the radix point is located exactly at the middle of the number.
 >
-> **[3:12](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=192)** Signed-Q encoded numbers use two's complement sign integers so the encoding remains the same with the sign encoded in their most significant bit, and the rest just like the Q encoding for unsigned numbers.
+> **[3:12](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=192)** Signed-Q encoded numbers use two's complement sign integers so the encoding remains the same with the sign encoded in their most significant bit, and the [[Representational State Transfer (REST)|rest]] just like the Q encoding for unsigned numbers.
 >
 > **[3:27](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/fixed-point-math?u=76281980&t=207)** Thus, the encoding shown in the figure is now signed Q7.8, that's seven bits for the integer, and eight bits for the fractional part.
 >
@@ -2535,7 +2503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Banking]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ieee (1)
@@ -2543,12 +2511,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Float-point vs. fixed-point example
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-vs-fixed-point-example?u=76281980)
+#### [Float-point vs. fixed-point example](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-vs-fixed-point-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-vs-fixed-point-example?u=76281980&t=0)** - [Instructor] In this practical Arduino demo, we'll do pretty much the same thing we've been doing in the last exercises.
+> **[0:00](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-vs-fixed-point-example?u=76281980&t=0)** - [Instructor] In this practical [[Arduino]] demo, we'll do pretty much the same thing we've been doing in the last exercises.
 >
 > **[0:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-vs-fixed-point-example?u=76281980&t=7)** That is observe how long it takes to iterate through a lot of calculations with fixed point numbers as compared to the same calculations with floating point numbers.
 >
@@ -2632,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ide (1), use_fixed_point (1), cpu (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -2641,8 +2608,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the last (1)
 
-#### Float-point unit example in Keil
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980)
+#### [Float-point unit example in Keil](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2652,7 +2618,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=18)** So here's a code demo you can find in the exercise files folder to see some important details about the floating point unit.
 >
-> **[0:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=26)** This is the same code we solve for the fixed point numbers example in the Arduino UNO, except this time we are only using floats.
+> **[0:26](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=26)** This is the same code we solve for the fixed point numbers example in the [[Arduino]] UNO, except this time we are only using floats.
 >
 > **[0:35](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=35)** So in line 32, we have the usual loop with a bunch of calculations with three floats.
 >
@@ -2660,7 +2626,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=46)** So now I'm about to show you how the assembly code looks when we decide not to use the floating point unit.
 >
-> **[0:53](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=53)** For this, let me click on the magic wand button and at the right, I'll make sure the dropdown that reads floating point hardware is set to not used.
+> **[0:53](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=53)** For this, let me click on the magic wand button and at the right, I'll make sure the dropdown that reads floating point [[Hardware]] is set to not used.
 >
 > **[1:07](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/float-point-unit-example-in-keil?u=76281980&t=67)** Now let's build the application and open the debugger.
 >
@@ -2736,7 +2702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Arduino]] (1), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Arduino]] (1)
 > **Env Vars:** cpu (3), arm (2), sdm32f303k8 (1), m4f (1), uno (1)
 > **UI Navigation:** go to (3), click on (2), dropdown (2), open the (2)
 > **Definitions:** means that (1), is an  (1), stands for (1), is a  (1)
@@ -2750,8 +2716,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2759,9 +2724,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=1)** You made it to the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=3)** I hope you enjoyed getting to know some of the special details of working with hardware for digital control for either professional applications or just for fun as a hobby.
+> **[0:03](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=3)** I hope you enjoyed getting to know some of the special details of working with [[Hardware]] for digital control for either professional applications or just for fun as a hobby.
 >
-> **[0:14](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=14)** So as next steps, if you liked the Arduino examples, I'd like to encourage you to consider further courses in our library.
+> **[0:14](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=14)** So as next steps, if you liked the [[Arduino]] examples, I'd like to encourage you to consider further courses in our library.
 >
 > **[0:22](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980&t=22)** Arduino Pulse Width Modulation or Learning Arduino.
 >
@@ -2779,7 +2744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), next (2), [[Hardware]] (1), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1)
 > **Env Vars:** ide (1), arm (1)
 > **URLs:** [mbed.com](https://mbed.com) (1)
 > **Definitions:** is a  (1)

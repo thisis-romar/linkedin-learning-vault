@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The innovation imperative
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
+#### [The innovation imperative](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), business (1)
 > **Analogies:** such as (1)
 
 
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why organizations often fail at innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
+#### [Why organizations often fail at innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980&t=123)** The third is following customer feedback too closely.
 >
-> **[2:08](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980&t=128)** Clearly, it would be foolhardy to not ask customers what they think of current products and what else they might need.
+> **[2:08](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980&t=128)** Clearly, it would be foolhardy to not ask customers what they think of current [[Microsoft Products|products]] and what else they might need.
 >
 > **[2:18](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980&t=138)** It's also dangerous to assume that customers always know what they might need or want.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (2), [[Microsoft Products|Products]] (2), power (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** iphone (3)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
@@ -208,8 +205,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** the key is (1)
 
-#### The core logic of innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980)
+#### [The core logic of innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=60)** This variety makes things novel and drives innovation.
 >
-> **[1:06](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=66)** In Silicon Valley, we see this in a large variety of ideas pursued by startups in each and every space: medical devices, mobile gaming or artificial intelligence, you name it.
+> **[1:06](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=66)** In Silicon Valley, we see this in a large variety of ideas pursued by startups in each and every space: medical devices, mobile gaming or [[Artificial Intelligence (AI)|artificial intelligence]], you name it.
 >
 > **[1:22](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=82)** The second step is the brutal competition for survival.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=140)** As the survivors among the baby lions grow up, the stronger ones get to mate more often and spread their genes at a broader and faster pace.
 >
-> **[2:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=151)** An identical process occurs in Silicon Valley. After killing off Inktomi, Ask Jeeves and other search engines, Google grew rapidly to become the giant in internet search.
+> **[2:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=151)** An identical process occurs in Silicon Valley. After killing off Inktomi, Ask Jeeves and other search engines, [[Google]] grew rapidly to become the giant in internet search.
 >
 > **[2:47](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=167)** Similarly, after killing off of Friendster, Myspace, and other social media upstarts, Facebook became the social media giant that we know today.
 >
@@ -259,9 +255,9 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=217)** Google is a massively successful company.
 >
-> **[3:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=220)** It is also where the key ideas behind today's large language models, or LLMs, were invented.
+> **[3:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=220)** It is also where the key ideas behind today's [[Large Language Models (LLM)|large language models]], or LLMs, were invented.
 >
-> **[3:49](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=229)** Yet OpenAI are less than ten year old startup is now giving Google a run for the money in the generative AI space.
+> **[3:49](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=229)** Yet OpenAI are less than ten year old startup is now giving Google a run for the money in the [[Generative AI]] space.
 >
 > **[4:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=240)** If you are the leader of a company or a unit within it, the implications are clear.
 >
@@ -277,18 +273,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
-#### What AI means for innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980)
+#### [What AI means for innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=0)** AI is one of the most powerful technologies ever invented by mankind.
 >
-> **[0:06](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=6)** Google CEO, Sundar Pichai, has even called AI more profound than fire or electricity.
+> **[0:06](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=6)** [[Google]] CEO, Sundar Pichai, has even called AI more profound than fire or electricity.
 >
 > **[0:15](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=15)** AI is already beginning to transform every function in every industry.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=34)** Let's start with the impact of AI on product innovation.
 >
-> **[0:39](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=39)** As an excellent example of how a company can embed AI into products and services in order to make them smarter, take John Deere, the world's largest farm machinery company.
+> **[0:39](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=39)** As an excellent example of how a company can embed AI into [[Microsoft Products|products]] and services in order to make them smarter, take [[John the Ripper|John]] Deere, the world's largest farm machinery company.
 >
 > **[0:53](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=53)** Deere has embedded AI capabilities into several of its product lines.
 >
@@ -316,9 +311,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=122)** AI assisted design tools helped optimize the ergonomic shape of the AirPods, ensuring a comfortable fit for a wide range of users.
 >
-> **[2:14](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=134)** Machine learning algorithms are embedded in AirPods for adaptive noise cancellation and sound quality enhancement based on the user's environment.
+> **[2:14](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=134)** Machine learning [[Algorithms]] are embedded in AirPods for adaptive noise cancellation and sound quality enhancement based on the user's environment.
 >
-> **[2:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=146)** AI also powers features like automatic ear detection and seamless switching between Apple devices, enhancing the overall user experience.
+> **[2:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=146)** AI also powers features like automatic ear detection and seamless switching between Apple devices, enhancing the overall [[User Experience (UX)|user experience]].
 >
 > **[2:38](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=158)** Let's now look at how AI is powering innovation in organizational processes.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=173)** The input always includes résumé information, but may also include asynchronous video interviews.
 >
-> **[3:01](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=181)** Companies can also look at the candidates social media posts and government databases such as police records.
+> **[3:01](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=181)** Companies can also look at the candidates social media posts and government [[Databases]] such as police records.
 >
 > **[3:10](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=190)** AI models play a crucial role in screening this information and determining the extent of a match between the applicant and job requirements.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=221)** And the sooner you can detect a defect, the sooner you can stop the machine and fix the problem, thereby avoiding wasted output.
 >
-> **[3:50](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=230)** Cameras connected to computer vision models can do an incomparably more accurate job in real time than manual inspectors could ever do.
+> **[3:50](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=230)** Cameras connected to [[Computer Vision]] models can do an incomparably more accurate job in real time than manual inspectors could ever do.
 >
 > **[4:02](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/what-ai-means-for-innovation?u=76281980&t=242)** As another example, take Walmart. A major logistics operation at Walmart, it's the loading of trucks in distribution centers so that the right assortment of goods is sent to each retail store.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), product (4), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[John the Ripper|John]] (1), [[Algorithms]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), imagine (1)
 > **Env Vars:** ceo (1)
@@ -367,16 +362,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fostering creativity without losing control
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
+#### [Fostering creativity without losing control](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=0)** For many years since its founding, Google championed an 80/20 rule.
+> **[0:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=0)** For many years since its founding, [[Google]] championed an 80/20 rule.
 >
 > **[0:06](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=6)** Every Googler was allowed to spend 20% of their time on a project of their choice, without needing approval from their supervisor.
 >
-> **[0:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=17)** Gmail, Google AdSense, and Google Talk are some of the products that resulted from such bottom up innovation.
+> **[0:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=17)** Gmail, Google AdSense, and Google Talk are some of the [[Microsoft Products|products]] that resulted from such bottom up innovation.
 >
 > **[0:27](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=27)** Now that Google is a colossal giant, the policy has evolved towards a more leadership directed innovation model.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=288)** You may learn something or a lot from them, you may want to partner with, invest in or even acquire some of them.
 >
-> **[4:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=298)** Google's, YouTube and Android businesses started out as acquisitions.
+> **[4:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=298)** Google's, YouTube and [[Android]] businesses started out as acquisitions.
 >
 > **[5:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=303)** The same is true for Meta's, WhatsApp and Instagram businesses.
 >
@@ -444,15 +438,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), business (2), [[Microsoft Products|Products]] (1), leadership (1), game (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Microsoft Products|Products]] (1), [[Android]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 
-#### The lean startup process
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980)
+#### [The lean startup process](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980&t=112)** There are basically two ways.
 >
-> **[1:55](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980&t=115)** One is to conduct tons of market research.
+> **[1:55](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980&t=115)** One is to conduct tons of [[Market Research]].
 >
 > **[1:59](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-lean-startup-process?u=76281980&t=119)** Prepare a well thought through business plan and then launch.
 >
@@ -534,13 +527,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Market Research]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980)
+#### [Design thinking](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=17)** Did the experience touch your brain as well as your heart?
 >
-> **[0:22](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=22)** Welcome to the concept of design thinking.
+> **[0:22](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=22)** Welcome to the concept of [[Design Thinking]].
 >
 > **[0:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=26)** Design thinking is a process to come up with creative solutions to problems as diverse as designing a course in math, a voting machine, or even a city.
 >
@@ -620,16 +612,15 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=242)** They were not just highly functional devices, they were cool objects of desire.
 >
-> **[4:09](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=249)** It's critical to iterate with various design prototypes until your solution can get as close to the user's life as possible given today's technologies. Even Steve Jobs, the magician, kept tinkering with Apple products and the retail store until the very last minute.
+> **[4:09](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/design-thinking?u=76281980&t=249)** It's critical to iterate with various design prototypes until your solution can get as close to the user's life as possible given today's technologies. Even Steve Jobs, the magician, kept tinkering with Apple [[Microsoft Products|products]] and the retail store until the very last minute.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Design Thinking]] (3), functional (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Code Identifiers:** iphone (1), iphones (1)
 
-#### Collaborative innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980)
+#### [Collaborative innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,9 +638,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=55)** More recently, Tesla has also been collaborating with the Chinese EV battery company, Catl, to develop and supply lithium iron phosphate, or LFP batteries, for its vehicles produced in China.
 >
-> **[1:13](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=73)** LFP batteries are known for their lower cost and longer lifespan compared to lithium ion batteries. Like Tesla, a growing number of companies are now embracing collaborative innovation, also called open innovation.
+> **[1:13](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=73)** LFP batteries are known for their lower cost and longer lifespan compared to lithium ion batteries. Like Tesla, a growing number of companies are now embracing collaborative innovation, also called [[Open Innovation]].
 >
-> **[1:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=91)** It refers to the development of new technologies, products and processes in partnership with other independent entities.
+> **[1:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=91)** It refers to the development of new technologies, [[Microsoft Products|products]] and processes in partnership with other independent entities.
 >
 > **[1:41](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/collaborative-innovation?u=76281980&t=101)** The innovation partners could be universities, government labs, other companies or even individuals.
 >
@@ -699,15 +690,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (2), strengths (1), [[Open Innovation]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Open Innovation]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **Env Vars:** lfp (2), oled (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** iphone (1)
 
-#### Accelerating innovation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980)
+#### [Accelerating innovation with AI](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=22)** AI can accelerate the innovation process by enabling a rapid fire analysis of hundreds of thousands or millions of possible combinations.
 >
-> **[0:33](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=33)** Let's look at how McCormick, a company in a very old industry, food industry, is using AI to accelerate the development of new products.
+> **[0:33](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=33)** Let's look at how McCormick, a company in a very old industry, food industry, is using AI to accelerate the development of new [[Microsoft Products|products]].
 >
 > **[0:47](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=47)** McCormick is the world's largest, the company in the seasonings, sauces and condiments business.
 >
@@ -743,11 +733,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=136)** Could they develop an intelligent platform to create product formulas, one that learns and it gets better with experience?
 >
-> **[2:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=146)** In 2019, McCormick signed a formal collaboration with IBM to explore the use of AI for new product development.
+> **[2:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=146)** In 2019, McCormick signed a formal collaboration with IBM to explore the use of AI for new [[Product Development]].
 >
 > **[2:37](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=157)** The collaboration has proved highly successful, and the company's now has several hundred new products in the market conceived entirely by AI.
 >
-> **[2:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=168)** McCormick started by training the AI algorithms on historical data about recipes and their ingredients.
+> **[2:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=168)** McCormick started by training the AI [[Algorithms]] on historical data about recipes and their ingredients.
 >
 > **[2:59](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=179)** The company's database included over 400,000 formulations prepared from over 14,000 ingredients, many in different languages and spread across countries.
 >
@@ -767,7 +757,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=236)** What defines a success?
 >
-> **[3:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=238)** Which suggestion has the highest probability of success?
+> **[3:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=238)** Which suggestion has the highest [[Probability]] of success?
 >
 > **[4:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/accelerating-innovation-with-ai?u=76281980&t=243)** Based on learning from the vast database the AI models are able to generate several formulations with a high probability of success.
 >
@@ -787,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), product (10), [[Microsoft Products|Products]] (3), data (3), database (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Algorithms]] (2), [[Probability]] (2), [[Product Development]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ibm (1)
@@ -798,8 +788,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rethinking the target customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
+#### [Rethinking the target customer](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=56)** Obviously Jobs and Wozniak thought otherwise.
 >
-> **[1:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=60)** The rest is history.
+> **[1:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=60)** The [[Representational State Transfer (REST)|rest]] is history.
 >
 > **[1:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=63)** Apple has gone on to become one of the most valuable companies.
 >
@@ -825,9 +814,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=72)** Consider a more recent but also compelling example of rethinking the target customer.
 >
-> **[1:21](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=81)** In 2017, Google scientists published a paper on the transformer architecture, which is core to all large language models or LLMs, including chatbots such as ChatGPT.
+> **[1:21](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=81)** In 2017, [[Google]] scientists published a paper on the transformer architecture, which is core to all [[Large Language Models (LLM)|large language models]] or LLMs, including chatbots such as [[ChatGPT]].
 >
-> **[1:38](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=98)** Until OpenAI released ChatGPT in November 2022, AI companies thought of engineers as the primary customers for machine learning algorithms and models.
+> **[1:38](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=98)** Until OpenAI released ChatGPT in November 2022, AI companies thought of engineers as the primary customers for machine learning [[Algorithms]] and models.
 >
 > **[1:53](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=113)** In contrast, the leaders of OpenAI wonder what would happen if they added a conversational user interface to the underlying LLM.
 >
@@ -843,7 +832,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=178)** So how might you be able to do something similar?
 >
-> **[3:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=183)** First, start by identifying a number of currently unserved markets for your industries, mainstream products and services.
+> **[3:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=183)** First, start by identifying a number of currently unserved markets for your industries, mainstream [[Microsoft Products|products]] and services.
 >
 > **[3:13](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980&t=193)** Perhaps one of them might emerge as a viable option. If you currently sell to businesses, could they also be opportunities in the consumer space or vice versa?
 >
@@ -885,14 +874,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), llm (3), [[Microsoft Products|Products]] (2), product (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[Algorithms]] (1)
 > **Env Vars:** llm (3), dec (2), ibm (1), ceo (1), mit (1)
 > **Code Identifiers:** edx (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### Reimagining customer value
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980)
+#### [Reimagining customer value](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,17 +894,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=30)** Voila!
 >
-> **[0:32](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=32)** Spanx, the creator of effortless body shaping pantyhose, was born. In the early 1990s, the dominant word processing software was WordPerfect.
+> **[0:32](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=32)** Spanx, the creator of effortless body shaping pantyhose, was born. In the early 1990s, the dominant [[Microsoft Word|word]] processing software was WordPerfect.
 >
 > **[0:45](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=45)** The dominant spreadsheet?
 >
 > **[0:47](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=47)** Lotus 1-2-3. The dominant presentation tool?
 >
-> **[0:52](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=52)** Harvard Graphics. Within a few years, all would be pushed aside by Microsoft Office.
+> **[0:52](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=52)** Harvard Graphics. Within a few years, all would be pushed aside by [[Microsoft Office]].
 >
-> **[1:01](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=61)** Microsoft Word, Excel and PowerPoint were not particularly better than these leading products.
+> **[1:01](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=61)** [[Microsoft Word]], [[Microsoft Excel|Excel]] and [[Microsoft PowerPoint|PowerPoint]] were not particularly better than these leading [[Microsoft Products|products]].
 >
-> **[1:10](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=70)** So what was Microsoft's secret sauce? Developing and marketing them as an integrated bundle.
+> **[1:10](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=70)** So what was [[Microsoft]]'s secret sauce? Developing and marketing them as an integrated bundle.
 >
 > **[1:20](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=80)** The integration made it easier for the user to copy and paste content from one application to another.
 >
@@ -958,7 +946,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=269)** Also, explore whether there is an opportunity to offer a more complete solution to the customers, rather than simply discrete products and services.
 >
-> **[4:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=280)** This is the approach Microsoft took when developing the Office suites.
+> **[4:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=280)** This is the approach Microsoft took when developing the [[Microsoft Office|Office]] suites.
 >
 > **[4:46](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reimagining-customer-value?u=76281980&t=286)** Finally, consider how you might be able to tailor your products and services to each customer's unique needs at scale.
 >
@@ -974,14 +962,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft Office]] (2), [[Microsoft]] (2), application (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft Office]] (2), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
 > **Env Vars:** crm (2)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
 
-#### Reengineering the value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980)
+#### [Reengineering the value chain](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1006,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980&t=144)** Also look at Uber and Airbnb, which have upended the taxicab and hotel industries.
 >
-> **[2:32](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980&t=152)** And a Zoom video, which has dramatically reduced the need for people to travel for high quality, interactive, face to face meetings. Spurred by the imperative during the Covid pandemic, Zoom video has also helped usher in the era of remote work.
+> **[2:32](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980&t=152)** And a [[Zoom]] video, which has dramatically reduced the need for people to travel for high quality, interactive, face to face meetings. Spurred by the imperative during the Covid pandemic, Zoom video has also helped usher in the era of remote work.
 >
 > **[2:53](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/reengineering-the-value-chain?u=76281980&t=173)** So how would you explore similar opportunities in your current business or in a new venture if you're looking to start one?
 >
@@ -1049,15 +1036,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), [[Engineering]] (2), business (2), management (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **Env Vars:** led (1), co2 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ebooks (1)
 > **Analogies:** such as (1)
 
-#### Social innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980)
+#### [Social innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1105,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980&t=264)** Second, design a novel solution. Like the Embrace Incubator or Khan Academy, you almost always need to look at technology as the basis for a groundbreaking solution.
 >
-> **[4:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980&t=280)** A collaborative team from the Environmental Defense Fund, Google, Harvard, and the Smithsonian is working on applying machine learning to interpret satellite data in order to identify and map the sources of methane emissions in real time.
+> **[4:40](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980&t=280)** A collaborative team from the Environmental Defense Fund, [[Google]], Harvard, and the Smithsonian is working on applying machine learning to interpret satellite data in order to identify and map the sources of methane emissions in real time.
 >
 > **[5:02](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/social-innovation?u=76281980&t=302)** The idea is that it's hard to take corrective action without knowing where the emissions are coming from.
 >
@@ -1143,7 +1129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), career (2), [[Google]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is an  (2)
 > **Analogies:** it's like (1), such as (1)
 
@@ -1152,8 +1138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of leaders in driving innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
+#### [The role of leaders in driving innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=43)** Jeff Bezos illustrates the importance of vision starkly.
 >
-> **[0:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=48)** When he founded Amazon, he picked this corporate name to signal that the company's e-commerce pipeline would be like the mighty river through which practically everything could flow.
+> **[0:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=48)** When he founded Amazon, he picked this corporate name to signal that the company's [[E-Commerce]] pipeline would be like the mighty river through which practically everything could flow.
 >
 > **[1:01](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=61)** Selling books online was merely the beginning.
 >
@@ -1179,9 +1164,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=91)** The innovation will be so incremental that it will hardly matter.
 >
-> **[1:36](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=96)** Satya Nadella, Microsoft CEO, illustrates the value of deep domain knowledge.
+> **[1:36](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=96)** Satya Nadella, [[Microsoft]] CEO, illustrates the value of deep domain knowledge.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=104)** A software engineer by training, Nadella spent years in the company's nascent cloud services business before being tapped for the CEO role.
+> **[1:44](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=104)** A software engineer by training, Nadella spent years in the company's nascent [[Cloud Services]] business before being tapped for the CEO role.
 >
 > **[1:55](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=115)** This background made it easy for Nadella to start shifting Microsoft's center of gravity away from operating systems and towards cloud based software and services.
 >
@@ -1221,7 +1206,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=249)** Companies cannot be free for all anarchists either.
 >
-> **[4:13](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=253)** As illustrated by Google's 80/20 rule, the ideal situation is one where people are free to conduct lots of experiments, but within guardrails.
+> **[4:13](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=253)** As illustrated by [[Google]]'s 80/20 rule, the ideal situation is one where people are free to conduct lots of experiments, but within guardrails.
 >
 > **[4:26](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980&t=266)** Fifth, other leaders good role models?
 >
@@ -1235,20 +1220,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), cloud (2), power (1), [[E-Commerce]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[E-Commerce]] (1), [[Cloud Services]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 
-#### Cultivating an innovation culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980)
+#### [Cultivating an innovation culture](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=0)** Letter collaboration matters because all innovation results from a novel combination of previously unconnected ideas.
 >
-> **[0:11](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=11)** A growing number of new products require an integration of multiple technologies, typically being developed by different organizations.
+> **[0:11](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=11)** A growing number of new [[Microsoft Products|products]] require an integration of multiple technologies, typically being developed by different organizations.
 >
 > **[0:21](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=21)** Moderna's Covid vaccine was designed with the aid of AI.
 >
@@ -1272,11 +1256,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=105)** Elon Musk, the founder of Tesla, SpaceX and other radically innovative companies, is a master at setting stretch goals for himself and everyone else in the organization.
 >
-> **[2:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=120)** Second, put in place the right set of performance metrics.
+> **[2:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=120)** Second, put in place the right set of [[Performance Metrics]].
 >
 > **[2:05](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=125)** An exclusive emphasis on profits and cash flow, where almost always drive a focus on the short term, on cost reduction and on efficiency.
 >
-> **[2:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=137)** While these measures are important, the metrics that drive the overall organization must also include marketplace success as measured by growth in revenues, growth in market share, new product development and new service features.
+> **[2:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=137)** While these measures are important, the metrics that drive the overall organization must also include marketplace success as measured by growth in revenues, growth in market share, new [[Product Development]] and new service features.
 >
 > **[2:37](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/cultivating-an-innovation-culture?u=76281980&t=157)** Winning external market battles is impossible without ongoing innovation.
 >
@@ -1318,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), ai (2), [[Performance Metrics]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Performance Metrics]] (1), [[Product Development]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** ceo (1), b2c (1), b2b (1)
 > **Analogies:** similar to (1)
@@ -1328,8 +1312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Balancing order and chaos in innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)
+#### [Balancing order and chaos in innovation](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=10)** Consistency in processes enables you to learn how to accomplish the same task better, faster, and perhaps cheaper.
 >
-> **[0:19](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=19)** Consistency in products and services also gives customers the assurance that they will have the same experience, whether it's at the same or a different location.
+> **[0:19](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=19)** Consistency in [[Microsoft Products|products]] and services also gives customers the assurance that they will have the same experience, whether it's at the same or a different location.
 >
 > **[0:30](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=30)** Yet in our dynamic world, taken to the extreme, consistency can also be the shortest path to an organization's debt.
 >
@@ -1395,9 +1378,9 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=248)** Fifth, if the interlinkages between various units are weak, consider separating them organizationally.
 >
-> **[4:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=257)** Look at Alphabet Inc, Google's parent.
+> **[4:17](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=257)** Look at Alphabet Inc, [[Google]]'s parent.
 >
-> **[4:20](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=260)** Alphabet is a collection of companies such as Google with its own subunits, search, advertising, maps, YouTube, and Android.
+> **[4:20](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=260)** Alphabet is a collection of companies such as Google with its own subunits, search, advertising, maps, YouTube, and [[Android]].
 >
 > **[4:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980&t=271)** Waymo, self-driving cars.
 >
@@ -1411,13 +1394,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2), business (1), [[Search]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2), [[Android]] (1)
 > **Analogies:** such as (2), imagine (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=24)** Assess your organization's ability to innovate.
 >
-> **[0:29](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=29)** Do you apply the tenets of design thinking and zero distance to everything that the organization does?
+> **[0:29](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=29)** Do you apply the tenets of [[Design Thinking]] and zero distance to everything that the organization does?
 >
 > **[0:36](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=36)** Do you engage in relentless experimentation?
 >
@@ -1445,13 +1427,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=48)** Launch innovation projects to discover how you might change the rules of the game by reimagining the target customer, by redefining customer value, and by re-engineering the value chain.
 >
-> **[1:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=63)** As AI continues to make its way into all functions and all industries, keep asking yourself how you can use AI technologies to tailor your products and services for every customer.
+> **[1:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=63)** As AI continues to make its way into all functions and all industries, keep asking yourself how you can use AI technologies to tailor your [[Microsoft Products|products]] and services for every customer.
 >
 > **[1:18](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=78)** Expand your reach, move faster and become more responsive and more efficient.
 >
 > **[1:25](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=85)** Finally, step three. Make innovation a lifelong journey.
 >
-> **[1:30](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=90)** Microsoft, Apple, Google, Amazon, Nvidia, Meta, OpenAI and Moderna are some of the most innovative companies on earth.
+> **[1:30](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=90)** [[Microsoft]], Apple, [[Google]], Amazon, Nvidia, Meta, OpenAI and Moderna are some of the most innovative companies on earth.
 >
 > **[1:42](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/next-steps?u=76281980&t=102)** You may find it useful to keep track of what they are up to.
 >
@@ -1467,7 +1449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), ai (2), [[Microsoft]] (2), next (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft]] (2), [[Design Thinking]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (2)
 

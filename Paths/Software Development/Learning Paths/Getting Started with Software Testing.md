@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-software-testi
 course_count: 12
 linkedin_topics:
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development

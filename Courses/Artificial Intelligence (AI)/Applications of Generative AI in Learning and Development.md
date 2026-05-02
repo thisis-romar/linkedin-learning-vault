@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover the power of generative AI for learning and development
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development?u=76281980)
+#### [Discover the power of generative AI for learning and development](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (1)
 > **Speakers:** - gen (1)
 
 
@@ -107,18 +105,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating needs assessments with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980)
+#### [Creating needs assessments with generative AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=0)** - Designing and updating learning plans to keep up with the evolution of work and changing business dynamics can be overwhelming and daunting without leveraging the transformative power of generative AI.
+> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=0)** - Designing and updating learning plans to keep up with the evolution of work and changing business dynamics can be overwhelming and daunting without leveraging the transformative power of [[Generative AI]].
 >
 > **[0:12](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=12)** This evolving technology not only streamlines L&D processes but also enhances efficiency and can scale program development, making it more accessible and impactful for your organization.
 >
 > **[0:24](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=24)** In this video, I introduce the step of leveraging GenAI to assess learning needs.
 >
-> **[0:29](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=29)** Let's say you need to create a new leadership development program for 30 sales leaders aimed at building adaptability and future-focused decision-making capabilities in a mid-sized organization with limited HR resources and/or technical infrastructure.
+> **[0:29](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=29)** Let's say you need to create a new [[Leadership Development]] program for 30 sales leaders aimed at building adaptability and future-focused [[Decision-Making]] capabilities in a mid-sized organization with limited HR resources and/or technical infrastructure.
 >
 > **[0:43](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=43)** The first step is to assess learning needs.
 >
@@ -126,13 +123,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=50)** In analyzing performance data, you can start with the most recent data on leadership effectiveness.
 >
-> **[0:55](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=55)** If you're confident in the data quality and redact confidential information, you can extract and organize the data in a spreadsheet format, including columns for metrics like complex problem solving, strategic decision making, adaptability, and communication.
+> **[0:55](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=55)** If you're confident in the [[Data Quality]] and redact confidential information, you can extract and organize the data in a spreadsheet format, including columns for metrics like complex problem solving, strategic decision making, adaptability, and communication.
 >
 > **[1:11](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=71)** Be sure to include ratings, and carefully select qualitative feedback.
 >
 > **[1:15](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=75)** Also include other key data points like tenure, role, department, and even year-over-year sales growth.
 >
-> **[1:21](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=81)** Next, upload the spreadsheet to a GenAI platform like ChatGPT, and create a prompt like, "I have performance data from 30 sales leaders in our organization, including leadership effectiveness scores and qualitative feedback.
+> **[1:21](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=81)** Next, upload the spreadsheet to a GenAI platform like [[ChatGPT]], and create a prompt like, "I have performance data from 30 sales leaders in our organization, including leadership effectiveness scores and qualitative feedback.
 >
 > **[1:35](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980&t=95)** I need you to one, analyze the data to identify common skill gaps.
 >
@@ -176,14 +173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), leadership (8), [[Leadership Development]] (3), next (3), prompt (3)
+> **Frameworks & Libraries:** [[Leadership Development]] (3), [[Generative AI]] (1), [[Decision-Making]] (1), [[Data Quality]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - designing (1)
 
-#### Aligning learning objectives with strategic goals using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/aligning-learning-objectives-with-strategic-goals-using-ai?u=76281980)
+#### [Aligning learning objectives with strategic goals using AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/aligning-learning-objectives-with-strategic-goals-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (3), prompt (2), leadership (1), power (1)
 > **CLI Commands:** make (2)
 > **URLs:** [trainingindustry.com](https://trainingindustry.com) (1)
 > **Definitions:** is an  (1)
@@ -263,8 +258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crafting a program structure with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980)
+#### [Crafting a program structure with generative AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=25)** GenAI is an excellent tool for helping you do this more efficiently.
 >
-> **[0:29](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=29)** Continuing with the futures thinking leadership development scenario, keep in mind that while you need to maintain focus on learning objectives and strategic alignment with business goals, you must also ensure that the program architecture and delivery methods are centered around different leadership levels, they're learning preferences, and that you are flexible with the modalities for time and length considerations.
+> **[0:29](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=29)** Continuing with the futures thinking [[Leadership Development]] scenario, keep in mind that while you need to maintain focus on learning objectives and strategic alignment with business goals, you must also ensure that the program architecture and delivery methods are centered around different leadership levels, they're learning preferences, and that you are flexible with the modalities for time and length considerations.
 >
 > **[0:51](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=51)** Research suggests that shorter programs are very effective, particularly for leaders.
 >
@@ -286,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=74)** It can help you develop a strategy for identifying and embedding learning preferences and experiences across leadership levels.
 >
-> **[1:21](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=81)** It can help you create structured modules that clearly align with the learning objectives of developing adaptability, problem-solving, decision-making, and future thinking capabilities.
+> **[1:21](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=81)** It can help you create structured modules that clearly align with the learning objectives of developing adaptability, problem-solving, [[Decision-Making]], and future thinking capabilities.
 >
 > **[1:31](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=91)** It can help you develop an approach for combining in-person, virtual, synchronous, and asynchronous modalities.
 >
@@ -304,7 +298,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=138)** "I'm designing the architecture for a five-day future thinking leadership development program aimed at mid-level managers.
 >
-> **[2:25](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=145)** The program should align with key learning objectives of developing adaptability, improving problem-solving and decision-making, and building futures thinking skills.
+> **[2:25](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=145)** The program should align with key learning objectives of developing adaptability, improving problem-solving and decision-making, and building futures [[Thinking Skills]].
 >
 > **[2:35](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980&t=155)** Please create a detailed five-day program structure that includes the following, module titles, module descriptions, learning outcomes, progression, interactive learning activities, and practical applications."
 >
@@ -318,15 +312,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4), [[Decision-Making]] (4), [[Leadership Development]] (3), prompt (3), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Leadership Development]] (3), [[Thinking Skills]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining training with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980)
+#### [Outlining training with generative AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980&t=76)** You can create a prompt like this.
 >
-> **[1:19](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980&t=79)** I need to create a detailed content outline for day one of a Futures Thinking Leadership Development program aimed at mid-level managers.
+> **[1:19](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980&t=79)** I need to create a detailed content outline for day one of a Futures Thinking [[Leadership Development]] program aimed at mid-level managers.
 >
 > **[1:26](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/outlining-training-with-genai?u=76281980&t=86)** The module is titled, Introduction to Futures Thinking for Adaptive Leadership, focusing on Developing Adaptability and Leadership Roles.
 >
@@ -376,7 +369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), prompt (4), next (2), power (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -385,14 +378,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and curating content with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980)
+#### [Creating and curating content with generative AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=0)** - [Instructor] Generative AI is a powerful tool for creating learning content.
+> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] is a powerful tool for creating learning content.
 >
-> **[0:04](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=4)** However, most L and D leaders are not fully aware of how it can supercharge content creation and elevate learning experiences across text, video, image, and audio modalities.
+> **[0:04](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=4)** However, most L and D leaders are not fully aware of how it can supercharge [[Content Creation]] and elevate learning experiences across text, video, image, and audio modalities.
 >
 > **[0:16](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=16)** In the last video, we created a content outline.
 >
@@ -400,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=29)** First, we'll generate a 10 slide presentation.
 >
-> **[0:31](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=31)** Perhaps you use a prompt like this, "Create a 10 slide presentation titled Introduction to Futures Thinking for a leadership development program."
+> **[0:31](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=31)** Perhaps you use a prompt like this, "Create a 10 slide presentation titled Introduction to Futures Thinking for a [[Leadership Development]] program."
 >
 > **[0:41](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=41)** The presentation is aimed at mid-level managers learning to apply futures thinking and adaptive leadership.
 >
@@ -412,7 +404,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=63)** This provides a great start for you to fine tune and contextualize.
 >
-> **[1:07](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=67)** There are a host of gen AI tools outside of ChatGPT that can help you build presentations.
+> **[1:07](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=67)** There are a host of gen AI tools outside of [[ChatGPT]] that can help you build presentations.
 >
 > **[1:13](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980&t=73)** I'll provide a list of additional resources at the end of the course.
 >
@@ -460,19 +452,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (4), [[Leadership Development]] (2), [[Generative AI]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (2), [[Generative AI]] (1), [[Content Creation]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating exercises, simulations, and role plays
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980)
+#### [Creating exercises, simulations, and role plays](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=0)** - [Instructor] Generative AI tools can enable you to create dynamic and engaging learning experiences by simulating real-world scenarios and providing learners with environments that allow them to practice decision-making, problem-solving, and other essential skills in a risk-free learning environment.
+> **[0:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=0)** - [Instructor] [[Generative AI Tools]] can enable you to create dynamic and engaging learning experiences by simulating real-world scenarios and providing learners with environments that allow them to practice [[Decision-Making]], problem-solving, and other essential skills in a risk-free learning environment.
 >
 > **[0:16](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=16)** However, you may have trepidation about using Gen AI to embed exercises and simulations into learning programs, perhaps due to a lack of familiarity with Gen AI tools, or perhaps you believe it requires expertise beyond your current capacity.
 >
@@ -502,7 +493,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=122)** It aligns learning objectives, focuses on practical application, and is interactive and action-oriented.
 >
-> **[2:09](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=129)** Now, let's try a prompt to create a learning simulation.
+> **[2:09](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=129)** Now, let's try a prompt to create a learning [[Simulation]].
 >
 > **[2:12](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=132)** You can create a prompt like, please develop a set of immersive leadership simulations for the module titled, Introduction to Future Thinking for Adaptive Leadership, the simulation should align with the module's content and reinforce the following learning outcomes.
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=193)** As you can see, this prompt is designed to create immersive, realistic, and highly interactive scenarios that directly reinforce the core principles of futures thinking, and ensures that the simulations will be relevant, interactive, and practical.
 >
-> **[3:26](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=206)** The prompt creates scenarios for face-to-face learning, and if you want to see how the learner would experience the scenario in a step-by-step, personalized conversational interface, you could generate a prompt like, how would this simulation play out if the learner experienced it as a role play in ChatGPT as opposed to a face-to-face learning environment?
+> **[3:26](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=206)** The prompt creates scenarios for face-to-face learning, and if you want to see how the learner would experience the scenario in a step-by-step, personalized conversational interface, you could generate a prompt like, how would this simulation play out if the learner experienced it as a role play in [[ChatGPT]] as opposed to a face-to-face learning environment?
 >
 > **[3:47](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-exercises-simulations-and-role-plays?u=76281980&t=227)** This approach would enable you to create a personalized experience for the learner that adapts the scenario dynamically based on their decisions.
 >
@@ -528,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), leadership (9), [[Simulation]] (5), ai (3), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Simulation]] (5), [[Decision-Making]] (2), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -537,8 +528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing assessment tools with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980)
+#### [Designing assessment tools with generative AI](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +542,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=25)** Continuing with the example of the day one module, Foundations of Futures Thinking and Leadership, first, I'll show you how to create a couple of prompts to generate assessments for the day one module.
 >
-> **[0:35](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=35)** Next, I'll show you how to leverage GenAI to evaluate the results and effectiveness of the entire five day Futures Thinking Leadership Development Program using the Kirkpatrick Model.
+> **[0:35](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=35)** Next, I'll show you how to leverage GenAI to evaluate the results and effectiveness of the entire five day Futures Thinking [[Leadership Development]] Program using the Kirkpatrick Model.
 >
 > **[0:44](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=44)** Let's start with a quiz.
 >
@@ -590,7 +580,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=163)** As you can see, GenAI is an excellent tool for developing competency-based assessments that are relevant, realistic, and customized.
 >
-> **[2:50](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=170)** You should explore how GenAI can help you develop other forms of assessments, such as case studies, role plays, gamified simulations, projects, and participant interviews, and as a bonus, you can even use GenAI to create leadership action plans aligned with learning objectives for each module to guide leaders to drive action around desired behaviors.
+> **[2:50](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=170)** You should explore how GenAI can help you develop other [[Forms]] of assessments, such as case studies, role plays, gamified simulations, projects, and participant interviews, and as a bonus, you can even use GenAI to create leadership action plans aligned with learning objectives for each module to guide leaders to drive action around desired behaviors.
 >
 > **[3:11](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=191)** The Kirkpatrick model is one of the most effective methods for evaluating learning results and effectiveness once training is completed.
 >
@@ -600,13 +590,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=224)** Before moving on, take a moment to review the cheat sheet I've provided in the exercise files for this course.
 >
-> **[3:50](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=230)** Next, you'll see that I've compiled a curated list of GenAI tools that span content creation, presentations, imagery, video, audio, and e-learning platforms.
+> **[3:50](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=230)** Next, you'll see that I've compiled a curated list of GenAI tools that span [[Content Creation]], presentations, imagery, video, audio, and e-learning platforms.
 >
 > **[4:00](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980&t=240)** Exploring these cutting-edge resources can empower you to elevate your L&D initiatives, drive deeper engagement, and stay ahead of the future of learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (8), prompt (4), application (3), next (2), data (2)
+> **Frameworks & Libraries:** [[Leadership Development]] (1), [[Forms]] (1), [[Content Creation]] (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -617,8 +607,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980&t=23)** Please connect with me as a partner in helping you move your organization into the future.
 >
-> **[0:28](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980&t=28)** I also encourage you to check out my other courses on generative AI in the LinkedIn Learning Library.
+> **[0:28](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980&t=28)** I also encourage you to check out my other courses on [[Generative AI]] in the [[LinkedIn]] Learning Library.
 >
 > **[0:34](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980&t=34)** I wish you the best and a future full of possibilities.
 >

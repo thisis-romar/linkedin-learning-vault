@@ -96,12 +96,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of a common AI language
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980)
+#### [The benefits of a common AI language](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=0)** - Just about everything you do today is touched behind the scenes by artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=0)** - Just about everything you do today is touched behind the scenes by [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:06](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=6)** Whether it is doing a simple search on the web, assisting your grammar, or engaging directly with AI by training your AI agent.
 >
@@ -111,13 +110,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=32)** Hi, my name is Lyron.
 >
-> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=35)** In addition to working as a cybersecurity advisor and engineer for the last three and a half decades, I am a certified artificial intelligence management system implementer.
+> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=35)** In addition to working as a [[Cybersecurity]] advisor and engineer for the last three and a half decades, I am a certified artificial intelligence management system implementer.
 >
 > **[0:46](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980&t=46)** So if you'd like to learn more about these concepts, join me in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (1), web (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cybersecurity]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - just (1)
 
@@ -126,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of AI concepts (Clause 5.1)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980)
+#### [Overview of AI concepts (Clause 5.1)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=0)** - Artificial intelligence or AI has transformed the way machines perform tasks that used to require human intelligence, but how do these systems work?
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] or AI has transformed the way machines perform tasks that used to require human intelligence, but how do these systems work?
 >
 > **[0:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=12)** In this video, I will discuss the foundations of AI, which are the basis of this course.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=127)** AI is also contextual.
 >
-> **[2:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=130)** It can analyze both structured data like numbers and text, and unstructured data such as video and sensory inputs.
+> **[2:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=130)** It can analyze both structured data like numbers and text, and [[Unstructured Data]] such as video and sensory inputs.
 >
 > **[2:19](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980&t=139)** This ability allows AI to draw information from multiple sources to make informed decisions.
 >
@@ -185,15 +183,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unstructured Data]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unstructured Data]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** iso (2), iec (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - artificial (1)
 
-#### Strong, weak, general, and narrow AI (Clause 5-5.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980)
+#### [Strong, weak, general, and narrow AI (Clause 5-5.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=89)** Imagine narrow AI as a group of specialist doctors who do not cross over into other practices.
 >
-> **[1:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=98)** A cardiologist doesn't cross over into the role of a neurologist, in like manner, narrow AI systems excel at specific tasks, sometimes even better than humans.
+> **[1:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=98)** A cardiologist doesn't cross over into the role of a neurologist, in like manner, narrow AI systems [[Microsoft Excel|excel]] at specific tasks, sometimes even better than humans.
 >
 > **[1:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=109)** For instance, narrow AI can diagnose certain diseases from medical images with astounding accuracy, yet that same AI system cannot write your blog.
 >
@@ -235,9 +232,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=134)** General AI would be capable of performing any intellectual task a human can across various fields and situations.
 >
-> **[2:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=144)** It's the kind of AI that can learn a language, solve complex mathematical problems, compose music, and understand emotions, all at once.
+> **[2:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=144)** It's the kind of AI that can learn a language, solve complex mathematical problems, [[Jetpack Compose|compose]] music, and understand emotions, all at once.
 >
-> **[2:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=155)** A third age of artificial intelligence is not mentioned in ISO/IEC 22989.
+> **[2:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=155)** A third age of [[Artificial Intelligence (AI)|artificial intelligence]] is not mentioned in ISO/IEC 22989.
 >
 > **[2:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/strong-weak-general-and-narrow-ai-clause-5-5-2?u=76281980&t=163)** This is artificial super intelligence.
 >
@@ -251,18 +248,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), next (2), [[Microsoft Excel|Excel]] (1), [[Jetpack Compose|Compose]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Jetpack Compose|Compose]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (2), it's like (1), for instance (1), picture (1)
 > **Env Vars:** iso (1), iec (1), agi (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - imagine (1)
 
-#### AI agents (Clause 5.3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-agents-clause-5-3?u=76281980)
+#### [AI agents (Clause 5.3)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-agents-clause-5-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-agents-clause-5-3?u=76281980&t=0)** - The core idea behind artificial intelligence is simulating human intelligence and behavior.
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-agents-clause-5-3?u=76281980&t=0)** - The core idea behind [[Artificial Intelligence (AI)|artificial intelligence]] is simulating human intelligence and behavior.
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-agents-clause-5-3?u=76281980&t=7)** This is accomplished by programming artificial intelligent agents with human prescribed goals which they can independently choose the best course of action to meet.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), game (2), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (4), for instance (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -338,8 +334,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### AI knowledge (Clause 5.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-knowledge-clause-5-4?u=76281980)
+#### [AI knowledge (Clause 5.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-knowledge-clause-5-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,15 +382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), next (1)
 > **Env Vars:** ascii (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### Cognitive, semantic, and soft computing (Clause 5.5-5.7)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980)
+#### [Cognitive, semantic, and soft computing (Clause 5.5-5.7)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=65)** The results create a human-like experience with AI.
 >
-> **[1:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=69)** Cognitive capabilities are related to upcoming topics that I will share, including machine learning, speech recognition, natural language processing, computer vision, and human interfaces.
+> **[1:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=69)** Cognitive capabilities are related to upcoming topics that I will share, including machine learning, [[Speech Recognition]], [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and human interfaces.
 >
 > **[1:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=81)** Semantic computing bridges human meaning, context, and intention to computer cognition by describing information through representations.
 >
@@ -425,7 +418,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=110)** Symantec computing is active whenever you engage AI that enriches, summarizes, compares, or deconflicts any of the artifacts I just mentioned.
 >
-> **[2:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=124)** It is what happens when you feed text into ChatGPT and request a summarization or a more precise explanation.
+> **[2:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=124)** It is what happens when you feed text into [[ChatGPT]] and request a summarization or a more precise explanation.
 >
 > **[2:13](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=133)** Deconfliction occurs when the AI system identifies similar data across multiple sources to reduce unnecessary redundancies for efficiency.
 >
@@ -453,9 +446,9 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=232)** An example of the applicability of where fuzzy logic can assist would be natural language processing with speech recognition.
 >
-> **[4:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=242)** Human language is inherently ambiguous and context-dependent, so making the best effort to guest what was said allows the system to learn and identify new instances of the pronunciation of a word from people with different accents.
+> **[4:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=242)** Human language is inherently ambiguous and context-dependent, so making the best effort to guest what was said allows the system to learn and identify new instances of the pronunciation of a [[Microsoft Word|word]] from people with different accents.
 >
-> **[4:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=258)** Evolutionary computing is a broader category encompassing various algorithms that mimic biological evolution and survival of the fittest to find solutions.
+> **[4:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=258)** Evolutionary computing is a broader category encompassing various [[Algorithms]] that mimic biological evolution and survival of the fittest to find solutions.
 >
 > **[4:30](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cognitive-semantic-and-soft-computing-clause-5-5-5-7?u=76281980&t=270)** Additional tools such as genetic algorithms, a subset of evolutionary computation, and symbolic and subsymbolic approaches address uncertainty and imprecise cognition of data, information, and knowledge.
 >
@@ -463,18 +456,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Algorithms]] (2), [[Computer Vision]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980)
+#### [Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=0)** - There is no form of AI that more accurately reflects organic life forms than genetic algorithms.
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=0)** - There is no form of AI that more accurately reflects organic life [[Forms]] than genetic [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=8)** Genetic algorithms are optimization algorithms inspired by the process of natural selection.
 >
@@ -494,9 +486,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=96)** We will discuss hyper parameters later.
 >
-> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=100)** Scheduling and routing, solving the traveling salesman problem, and vehicle routing, and other combinatorial optimization problems.
+> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=100)** Scheduling and [[Routing]], solving the traveling salesman problem, and vehicle routing, and other combinatorial optimization problems.
 >
-> **[1:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=111)** Game development in AI, in creating agents with adaptive behavior in complex games, or optimizing parameters in game design.
+> **[1:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=111)** [[Game Development]] in AI, in creating agents with adaptive behavior in complex games, or optimizing parameters in game design.
 >
 > **[2:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=123)** Symbolic AI, also known as rule-based AI or good old fashioned AI, relies on explicit symbols and rules to represent knowledge and perform reasoning.
 >
@@ -504,7 +496,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=149)** Applications of symbolic AI include knowledge-based systems, medical diagnosis systems, legal reasoning, or financial decision systems.
 >
-> **[2:39](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=159)** Natural language processing is also included in the use cases for symbolic systems as it's used for symbolic grammar to parse sentences.
+> **[2:39](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=159)** [[Natural Language Processing (NLP)|Natural language processing]] is also included in the use cases for symbolic systems as it's used for symbolic grammar to parse sentences.
 >
 > **[2:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=170)** A use case for robotics is for planning and path finding systems in early robotics.
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=187)** Instead, it represents knowledge implicitly, often as patterns or distributed structures.
 >
-> **[3:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=196)** Neural networks and deep learning and other connectionist models are examples of sub-symbolic approaches.
+> **[3:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=196)** [[Neural Networks]] and [[Deep Learning]] and other connectionist models are examples of sub-symbolic approaches.
 >
 > **[3:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=204)** These systems learn to represent data through training rather than explicit programming.
 >
@@ -524,34 +516,33 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=234)** Reasoning is another part of sub-symbolic systems as they rely on statistical learning, pattern recognition, and generalization from data rather than logical rules and interpretability.
 >
-> **[4:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=248)** The application of sub-symbolic AI includes image and speech recognition, deep learning models in computer vision and speech recognition use sub-symbolic approaches.
+> **[4:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=248)** The application of sub-symbolic AI includes image and [[Speech Recognition]], deep learning models in [[Computer Vision]] and speech recognition use sub-symbolic approaches.
 >
-> **[4:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=261)** Natural language understanding uses sub-symbolic methods like word embedding and transformer models as they capture the context and meaning of words in nuanced ways and also in robotics, neural networks are used in modern robotics for a task such as object recognition, sensor fusion, and autonomous navigation.
+> **[4:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=261)** Natural language understanding uses sub-symbolic methods like [[Microsoft Word|word]] embedding and [[Transformer Models]] as they capture the context and meaning of words in nuanced ways and also in robotics, neural networks are used in modern robotics for a task such as object recognition, sensor fusion, and autonomous navigation.
 >
 > **[4:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/genetic-symbolic-subsymbolic-algorithms-clause-5-8-5-9?u=76281980&t=285)** Next up, we will consider the centrality of data in AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Algorithms]] (5), data (3), [[Routing]] (2), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Routing]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Speech Recognition]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** node (1)
 > **Definitions:** known as (1)
 > **Speakers:** - there (1)
 
-#### Data (Clause 5.10)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980)
+#### [Data (Clause 5.10)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=0)** - No matter what your mode of transportation was today, whether it was your feet, your bike, a car, a plane, or a train, it all needed an engine and some fuel.
 >
-> **[0:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=10)** If artificial intelligence represents a mode of transportation to take you from where you are to where you want to be, then the engine of that vehicle is machine learning and its fuel is data.
+> **[0:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=10)** If [[Artificial Intelligence (AI)|artificial intelligence]] represents a mode of transportation to take you from where you are to where you want to be, then the engine of that vehicle is machine learning and its fuel is data.
 >
 > **[0:23](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=23)** Generally, data can be in both a structured and unstructured state.
 >
 > **[0:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=29)** Structured data can be organized in columns and rows as you would find in a database table.
 >
-> **[0:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=34)** Unstructured data can be in the form of capture from text, visual or audio artifacts.
+> **[0:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=34)** [[Unstructured Data]] can be in the form of capture from text, visual or audio artifacts.
 >
 > **[0:42](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=42)** Let's define the components of machine learning data in relationship to machine learning.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=97)** This will be the foundation for concepts I reveal later in the course.
 >
-> **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=103)** Data acquisition involves obtaining data from within and outside an organization.
+> **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=103)** [[Data Acquisition]] involves obtaining data from within and outside an organization.
 >
 > **[1:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=111)** Potential biases, suitability, and representation need to be assessed to determine whether the expected outcome will be achieved.
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=135)** Data annotations support adding additional information to data in the form of labels to assist in guiding training outcomes.
 >
-> **[2:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=145)** Data preparation puts data in a form that is ready for use in the AI system, which will include filtering that removes unwanted data, but must be done with care to avoid inadvertently introducing bias and other inaccuracies.
+> **[2:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=145)** [[Data Preparation]] puts data in a form that is ready for use in the AI system, which will include filtering that removes unwanted data, but must be done with care to avoid inadvertently introducing bias and other inaccuracies.
 >
 > **[2:42](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-clause-5-10?u=76281980&t=162)** Normalization adjust data values to a standard scale for mathematical comparison.
 >
@@ -619,7 +610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), ai (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unstructured Data]] (1), [[Data Acquisition]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **Cross-References:** later in (1)
@@ -631,8 +622,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980)
+#### [Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,13 +634,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=16)** Going back to our analogy of AI being a vehicle and machine learning being the engine of that vehicle, we are now going to focus on what is the composite of the machine learning engine.
 >
-> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=35)** Artificial intelligence is a significant capability or subfield in the AI family, which includes a very popular Gen AI as a subset.
+> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=35)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a significant capability or subfield in the AI family, which includes a very popular Gen AI as a subset.
 >
 > **[0:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=45)** Machine learning allows the computer to learn without explicit programming.
 >
 > **[0:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=51)** In this video, we will focus on the three sub capabilities of machine learning: supervised, unsupervised, and semi-supervised models.
 >
-> **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=63)** Supervised learning models have labels or tags like a name, type, or number.
+> **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=63)** [[Supervised Learning]] models have labels or tags like a name, type, or number.
 >
 > **[1:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=71)** The label contains data that includes binary, categorical, structured objects like sequences, images, data trees, or graphs.
 >
@@ -660,7 +650,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=98)** An essential capability in unsupervised learning is clustering.
 >
-> **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=103)** Clustering is an extensively used family of data science capabilities that allows the recognition of groups of abstract objects into classes or similar objects.
+> **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=103)** Clustering is an extensively used family of [[Data Science]] capabilities that allows the recognition of groups of abstract objects into classes or similar objects.
 >
 > **[1:54](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=114)** Generically, similar characteristics within a cluster are called high inter-similarity or dissimilar characteristics within a cluster are called low intra-similarity.
 >
@@ -702,14 +692,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Programming]] (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Supervised Learning]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - just (1)
 
-#### Additional training processes (Clause 5.11.4-5.11.8)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980)
+#### [Additional training processes (Clause 5.11.4-5.11.8)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=4)** Was it a new technology process or a procedure?
 >
-> **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=7)** The steps you took to learn consisted of multiple methods, including reinforcement learning, transfer learning, and potentially taking a test to demonstrate competency.
+> **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=7)** The steps you took to learn consisted of multiple methods, including [[Reinforcement Learning]], transfer learning, and potentially taking a test to demonstrate competency.
 >
 > **[0:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=18)** Machine learning uses the same.
 >
@@ -729,7 +718,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=43)** The agent must be trained and learn from the AI developer.
 >
-> **[0:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=47)** There are various forms of learning to use.
+> **[0:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=47)** There are various [[Forms]] of learning to use.
 >
 > **[0:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=50)** The first on the list is reinforcement learning.
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=120)** Or, unsupervised learning, where unlabeled data can be utilized.
 >
-> **[2:06](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=126)** Let's say another AI project in your company trained in agent to identify whether their software code was matching business requirements using the learning data from that scenario to train an agent in the malware detection scenario would be inductive, as the two scenarios are dissimilar.
+> **[2:06](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=126)** Let's say another AI project in your company trained in agent to identify whether their software code was matching business requirements using the learning data from that scenario to train an agent in the [[Malware Detection]] scenario would be inductive, as the two scenarios are dissimilar.
 >
 > **[2:27](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=147)** The center of all learning is the training data.
 >
@@ -777,7 +766,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=235)** Output includes not just the results of the model calculation, but also the format used for presentation.
 >
-> **[4:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=243)** Comparisons can be made against other similar models or historical backtesting and version control.
+> **[4:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=243)** Comparisons can be made against other similar models or historical backtesting and [[Version Control]].
 >
 > **[4:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/additional-training-processes-clause-5-11-4-5-11-8?u=76281980&t=252)** AI developers will also include tuning hyper parameters to create a validation path.
 >
@@ -803,14 +792,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (4), [[Reinforcement Learning]] (2), next (2), [[Malware Detection]] (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Malware Detection]] (2), [[Forms]] (1), [[Version Control]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
-#### Retraining ML models (Clause 5.11.9)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980)
+#### [Retraining ML models (Clause 5.11.9)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,9 +824,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=94)** That would be an example of catastrophic forgetting.
 >
-> **[1:39](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=99)** Most AI models are completed in the same way that standard software development happens where the system is developed and tested prior to deployment.
+> **[1:39](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=99)** Most AI models are completed in the same way that standard [[Software Development]] happens where the system is developed and tested prior to deployment.
 >
-> **[1:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=108)** To avoid problems with forgetting, developers and data scientists employ continuous learning, also known as lifelong learning.
+> **[1:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=108)** To avoid problems with forgetting, developers and data scientists employ continuous learning, also known as [[Lifelong Learning]].
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=119)** Instead of only training the system during the development process, AI systems that use continuous learning implement incremental updates as the system remains in production mode.
 >
@@ -848,26 +836,25 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=168)** The system doesn't need to be taken off of production, but it's actually being in production that allows the system to be a lifelong learner.
 >
-> **[3:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=181)** Are you ready to dive into the underlying algorithms that guide AI behavior with static and dynamic retraining?
+> **[3:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=181)** Are you ready to dive into the underlying [[Algorithms]] that guide AI behavior with static and dynamic retraining?
 >
 > **[3:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/retraining-ml-models-clause-5-11-9?u=76281980&t=189)** Join me in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (5), [[Software Development]] (1), [[Lifelong Learning]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Lifelong Learning]] (1), [[Algorithms]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - have (1)
 
-#### Machine learning algorithms, part one (Clause 5.12-5.12.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980)
+#### [Machine learning algorithms, part one (Clause 5.12-5.12.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=0)** - Following the analogy of AI as a vehicle and machine learning as the engine, we can assume that the machine learning algorithm is the steering wheel.
 >
-> **[0:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=12)** In this video, I will introduce various machine learning algorithms that will set the stage for the following four videos.
+> **[0:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=12)** In this video, I will introduce various machine learning [[Algorithms]] that will set the stage for the following four videos.
 >
 > **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=21)** The algorithm is formed in a neural network that contains mathematics that imitates the behavior of neurons in the brain.
 >
@@ -879,17 +866,17 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=55)** This is in fact the essence of the self-propelling component of machine learning.
 >
-> **[1:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=61)** Neural networks learn by using known data inputs, comparing them to expected outputs, and then adjusting the weights accordingly.
+> **[1:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=61)** [[Neural Networks]] learn by using known data inputs, comparing them to expected outputs, and then adjusting the weights accordingly.
 >
 > **[1:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=70)** The connections that provide correct answers are given more prominent weight, and the connections with incorrect answers are given lesser weight.
 >
-> **[1:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=80)** When you hear the term deep learning, you should associate it with the representation of neural networks in this hierarchical layered approach.
+> **[1:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=80)** When you hear the term [[Deep Learning]], you should associate it with the representation of neural networks in this hierarchical layered approach.
 >
-> **[1:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=92)** This approach generates increasingly refined outputs based on the automatic learning process, reducing the feature engineering workload.
+> **[1:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=92)** This approach generates increasingly refined outputs based on the automatic learning process, reducing the [[Feature Engineering]] workload.
 >
 > **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=103)** Various neural network architectures exist.
 >
-> **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=107)** The ISO/IEC22989 document focuses on a few types and subtypes with high level descriptions known as artificial neural networks.
+> **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=107)** The ISO/IEC22989 document focuses on a few types and subtypes with high level descriptions known as [[Artificial Neural Networks]].
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=119)** In the following four videos, I will discuss artificial neural networks that include feed forward neural networks, recurrent neural networks, long, short-term memory, and convolution neural networks.
 >
@@ -925,11 +912,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=243)** This saves company time and money.
 >
-> **[4:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=247)** Feed forward networks are helpful for natural language processing and AI systems and analyzing sentiment in texts.
+> **[4:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=247)** Feed forward networks are helpful for [[Natural Language Processing (NLP)|natural language processing]] and AI systems and analyzing sentiment in texts.
 >
 > **[4:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=255)** They're also good at using statistical methods to predict a continuous variable based on the relationship between input and output variables or regression analysis.
 >
-> **[4:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=268)** In feed forward networks, learning doesn't happen in real-time, and that can be potentially problematic in high velocity environments.
+> **[4:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=268)** In feed forward networks, learning doesn't happen in [[Real-Time]], and that can be potentially problematic in high velocity environments.
 >
 > **[4:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-1-clause-5-12-5-12-2?u=76281980&t=278)** Recurrent neural networks are designed to handle that shortcoming.
 >
@@ -937,15 +924,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (6), data (3), ai (2), [[Artificial Neural Networks]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Artificial Neural Networks]] (2), [[Algorithms]] (1), [[Deep Learning]] (1), [[Feature Engineering]] (1)
 > **Definitions:** known as (3)
 > **CLI Commands:** cat (1), find (1)
 > **Env Vars:** iso (1), iec22989 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - following (1)
 
-#### Machine learning algorithms, part two (Clause 5.12.1.3-5.12.1.3.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980)
+#### [Machine learning algorithms, part two (Clause 5.12.1.3-5.12.1.3.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=9)** You and your environment undergo so much change that without learning day to day, you would not be equipped to make good decisions or take adequate actions.
 >
-> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=20)** That is the potential problem with feed-forward neural networks.
+> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=20)** That is the potential problem with feed-forward [[Neural Networks]].
 >
 > **[0:26](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=26)** In this video, we will discuss the remedy to that problem by examining recurrent neural networks, along with an extraordinary subcategory, called long short-term memory.
 >
@@ -963,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=63)** Instead of just passing forward with data through layers, like a feed-forward neural network, RNNs can loop information back into the network.
 >
-> **[1:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=75)** As seen here, the sentence and word order must be remembered to answer this request to translate text from English to French.
+> **[1:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=75)** As seen here, the sentence and [[Microsoft Word|word]] order must be remembered to answer this request to translate text from English to French.
 >
 > **[1:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=85)** When you read a sentence, the meaning of each word depends on the words that came before.
 >
@@ -973,7 +959,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=107)** So when do RNNs show up as most useful?
 >
-> **[1:52](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=112)** If you've ever used Google Translate, an RNN or a variation like LSTM is working in the background.
+> **[1:52](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=112)** If you've ever used [[Google]] Translate, an RNN or a variation like LSTM is working in the background.
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=119)** It reads a sentence in one language, remembers the context of the whole sentence, then translates it into another language.
 >
@@ -1005,7 +991,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=235)** Because they can remember context over long sequences, they can produce more coherent and natural sentences.
 >
-> **[4:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=241)** When you engage in [[Prompt Engineering with ChatGPT]] and refine the responses, it can remove elements of a response you don't prefer and forget that in its follow-up responses.
+> **[4:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=241)** When you engage in [[[[Prompt Engineering]] with [[ChatGPT]]]] and refine the responses, it can remove elements of a response you don't prefer and forget that in its follow-up responses.
 >
 > **[4:13](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=253)** You will also see LSTMs that are key in creating complex music compositions and other art and even fraud detection.
 >
@@ -1015,14 +1001,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Microsoft Word|Word]] (3), next (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Microsoft Word|Word]] (3), [[Google]] (1), [[Prompt Engineering]] (1), [[ChatGPT]] (1)
 > **Env Vars:** rnn (3), lstm (2), rnns (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Machine learning algorithms, part three (Clause 5.12.1.4 – 5.12.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980)
+#### [Machine learning algorithms, part three (Clause 5.12.1.4 – 5.12.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=11)** In an updated adaptation, Sherlock could be an AI system, and Holmes could be his human counterpart.
 >
-> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=20)** In this video, we will discuss convolution neural networks and Bayesian networks, and it may become quickly evident why AI would play Sherlock.
+> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=20)** In this video, we will discuss convolution [[Neural Networks]] and Bayesian networks, and it may become quickly evident why AI would play Sherlock.
 >
 > **[0:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=32)** It is interesting to contemplate how the combined fields of x-rays, MRIs, and CT scans utilizing AI may soon make training to read these images as a technician unnecessary.
 >
@@ -1078,21 +1063,20 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=244)** Bayesian networks are most helpful in environments that are heavy with uncertainty.
 >
-> **[4:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=251)** If you are attempting to predict the occurrence of a phenomenon, you'll engage in classification and regression-based algorithms.
+> **[4:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=251)** If you are attempting to predict the occurrence of a phenomenon, you'll engage in classification and regression-based [[Algorithms]].
 >
 > **[4:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-3-clause-5-12-1-4-5-12-2?u=76281980&t=260)** In the final video of this four-part discussion of machine learning, I will share the definition and applicability of regression and classification along with the final two algorithms that are part of the family.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (6), ai (4), data (3), [[Algorithms]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Algorithms]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Analogies:** kind of like (1), for example (1)
 > **Env Vars:** mri (1)
 > **Speakers:** - in (1)
 
-#### Machine learning algorithms, part four (Clause 5.12.3 – 5.12.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980)
+#### [Machine learning algorithms, part four (Clause 5.12.3 – 5.12.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1110,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=26)** Some are critical, like, "Should I cross the street "without waiting for the walk sign?"
 >
-> **[0:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=33)** In this video, we will discuss the final two AI algorithms, decision trees and support vector machines.
+> **[0:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=33)** In this video, we will discuss the final two AI [[Algorithms]], [[Decision Trees]] and support vector machines.
 >
 > **[0:44](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=44)** Both are widely used for classification and regression.
 >
@@ -1164,7 +1148,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=199)** The bank can decide if a person is likely to repay the loan or to default.
 >
-> **[3:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=204)** It's also really good with supply chain management.
+> **[3:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=204)** It's also really good with [[Supply Chain Management]].
 >
 > **[3:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=208)** Here, it could be useful to decide where to best utilize resources for large-scale shipping schemes.
 >
@@ -1208,7 +1192,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=342)** SVMs are great at sorting through text data and categorizing it.
 >
-> **[5:46](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=346)** For instance, in email filtering, an SVM can be trained to classify emails as either spam or not spam by learning patterns in the text and metadata.
+> **[5:46](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=346)** For instance, in email filtering, an SVM can be trained to classify emails as either spam or not spam by learning patterns in the text and [[Metadata]].
 >
 > **[5:56](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-4-clause-5-12-3-5-12-4?u=76281980&t=356)** Bioinformatics is another place where you can use biology and medicine SVMs to classify different types of data, such as identify whether a DNA sequence is more likely to be associated with a particular disease or predicting the function of a protein based on its structure.
 >
@@ -1222,7 +1206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Decision Trees]] (4), node (4), [[Algorithms]] (3), ai (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[Algorithms]] (3), [[Supply Chain Management]] (1), [[Metadata]] (1)
 > **CLI Commands:** node (4), make (2), find (2)
 > **Definitions:** is a  (4), is an  (2)
 > **Analogies:** imagine (2), for example (1), picture (1), for instance (1), such as (1)
@@ -1234,8 +1218,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Autonomy, heteronomy, and automation (Clause 5.13)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980)
+#### [Autonomy, heteronomy, and automation (Clause 5.13)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=43)** It is equipped to navigate roads, avoid obstacles, and follow traffic rules without needing a human driver.
 >
-> **[0:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=51)** Autonomy is all about self-governance and decision-making based on internal rules or programming.
+> **[0:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=51)** Autonomy is all about self-governance and [[Decision-Making]] based on internal rules or programming.
 >
 > **[0:57](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=57)** An example of autonomy is in robotics where an autonomous robot can explore its environment, adjust to changes, and make decisions without constant human intervention.
 >
@@ -1297,24 +1280,23 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=208)** This is because they are governed by the programming that initiated their state.
 >
-> **[3:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=212)** Let's see how this is true in the IoT and cyber-physical systems space.
+> **[3:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980&t=212)** Let's see how this is true in the [[IoT]] and cyber-physical systems space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), ai (3), [[Programming]] (2), traffic (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[IoT]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), refers to (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### Internet of things and CPS (Clause 5.14)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980)
+#### [Internet of things and CPS (Clause 5.14)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=0)** - The term Internet of Things was coined in 1999 by Kevin Ashton, a British technology pioneer.
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=0)** - The term [[IoT|Internet of Things]] was coined in 1999 by Kevin Ashton, a British technology pioneer.
 >
-> **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=7)** In this video, we will discuss IoT and adjacent technologies.
+> **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=7)** In this video, we will discuss [[IoT]] and adjacent technologies.
 >
 > **[0:13](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=13)** IoT refers to a network of physical objects and devices, sensors, and applications that can be connected to the internet and can communicate with each other.
 >
@@ -1324,7 +1306,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=49)** Two other terms associated with IoT include IIoT or Industrial Internet of Things, which is a subset of the Internet of Things that connects machines and devices in industrial settings.
 >
-> **[1:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=62)** And then there's OT, or operational technology, which refers to the hardware and software that monitors and controls industrial equipment and processes.
+> **[1:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=62)** And then there's OT, or operational technology, which refers to the [[Hardware]] and software that monitors and controls industrial equipment and processes.
 >
 > **[1:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=74)** Think about a smart home.
 >
@@ -1338,9 +1320,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=119)** So IoT is about connecting physical devices to the internet to collect data and enable better automation and control.
 >
-> **[2:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=129)** Convolution neural networks and cameras are also another connection point in the IoT world.
+> **[2:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=129)** Convolution [[Neural Networks]] and cameras are also another connection point in the IoT world.
 >
-> **[2:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=138)** Think for a moment about some of the AI algorithms we discuss and how they may behave when integrated with IoT devices.
+> **[2:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=138)** Think for a moment about some of the AI [[Algorithms]] we discuss and how they may behave when integrated with IoT devices.
 >
 > **[2:26](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=146)** For example, the convolution neural algorithm.
 >
@@ -1364,17 +1346,17 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=218)** The car doesn't just collect data, it processes it in real time to control its movements and to take actions to do things for the safety and welfare of the passengers.
 >
-> **[3:52](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=232)** Some other examples of CPS include smart grids, where energy supply and demands are dynamically balanced by integrating sensors, power systems, and computational control, medical systems like robotic surgery, where a precise real-time control is essential, and things like autonomous drones or robots that need to sense, compute and act and sync with their physical surroundings.
+> **[3:52](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=232)** Some other examples of CPS include smart grids, where energy supply and demands are dynamically balanced by integrating sensors, power systems, and computational control, medical systems like robotic surgery, where a precise [[Real-Time]] control is essential, and things like autonomous drones or robots that need to sense, compute and act and sync with their physical surroundings.
 >
 > **[4:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=261)** What are the machine learning algorithms that you can think that might work well with CPS?
 >
-> **[4:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=269)** Well, think about the Bayesian networks and decision trees as a way of interacting with CPS worlds.
+> **[4:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=269)** Well, think about the Bayesian networks and [[Decision Trees]] as a way of interacting with CPS worlds.
 >
 > **[4:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=278)** So to sum it up, IoT is about connecting physical devices to the internet to exchange data and automate tasks, often in simpler systems.
 >
 > **[4:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=289)** CPS is about real-time integration of the digital and physical worlds, where computational systems tightly control and interact with physical processes.
 >
-> **[4:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=299)** While IoT is more about connectivity and data sharing, CPS adds a layer of intelligence and control in real time, often more complex in critical environments.
+> **[4:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=299)** While IoT is more about connectivity and [[Data Sharing]], CPS adds a layer of intelligence and control in real time, often more complex in critical environments.
 >
 > **[5:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/internet-of-things-and-cps-clause-5-14?u=76281980&t=311)** If you cannot trust the output of an AI system, then the function is meaningless.
 >
@@ -1384,15 +1366,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (14), data (8), [[Internet of Things (IoT)|Internet of things]] (3), ai (3), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[IoT]] (14), [[IoT|Internet of things]] (3), [[Algorithms]] (3), [[Real-Time]] (2), [[Hardware]] (1)
 > **Env Vars:** cps (9)
 > **Definitions:** refers to (2), is a  (2)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - the (1)
 
-#### Trustworthiness, verification, and validation (Clause 5.15-5.16)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980)
+#### [Trustworthiness, verification, and validation (Clause 5.15-5.16)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1413,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=120)** AI resilience defines the AI system's ability to recover operationally in a reasonable manner following an incident.
 >
-> **[2:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=130)** Fault-tolerant hardware and software architecture and planning enable stakeholders' expected service levels and operations when disruptions and degradation occur.
+> **[2:10](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=130)** Fault-tolerant [[Hardware]] and [[Software Architecture]] and planning enable stakeholders' expected service levels and operations when disruptions and degradation occur.
 >
 > **[2:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=144)** AI trustworthiness is built on controllability, which enables an external agent or an operator to take control over the system.
 >
@@ -1444,9 +1425,9 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=184)** Explainability is especially important when the decision's results directly affect a human's access to resource, as with the loan decision.
 >
-> **[3:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=194)** Explainability can be more challenging with more complex systems like deep learning neural networks and the decisions that come from the hidden layer functions.
+> **[3:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=194)** Explainability can be more challenging with more complex systems like [[Deep Learning]] [[Neural Networks]] and the decisions that come from the hidden layer functions.
 >
-> **[3:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=205)** Rule-based algorithms like symbolic methods or decision trees are more readily explainable.
+> **[3:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=205)** Rule-based [[Algorithms]] like symbolic methods or [[Decision Trees]] are more readily explainable.
 >
 > **[3:31](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=211)** AI predictability is the alignment of stakeholder assumptions with the AI output.
 >
@@ -1468,7 +1449,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=299)** With AI bias and fairness, it is essential to first distinguish between bias as part of a training model and bias against humans.
 >
-> **[5:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=308)** Bias in the model training process is imperative for an AI system to discern differences in the appropriate weights and decision-making that needs to take place.
+> **[5:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=308)** Bias in the model training process is imperative for an AI system to discern differences in the appropriate weights and [[Decision-Making]] that needs to take place.
 >
 > **[5:19](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/trustworthiness-verification-and-validation-clause-5-15-5-16?u=76281980&t=319)** Bias as expressed toward humans is the unfair treatment that has contributed to significant bad will and mistreatment in society.
 >
@@ -1492,15 +1473,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), data (10), [[Algorithms]] (2), generic (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Hardware]] (1), [[Software Architecture]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (3), refers to (1), in other words (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Speakers:** - what (1)
 
-#### Jurisdictional issues and societal impact (Clause 5.17-5.18)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980)
+#### [Jurisdictional issues and societal impact (Clause 5.17-5.18)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,17 +1518,16 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980&t=129)** The ethical relevance of the operating area must also be taken into account.
 >
-> **[2:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980&t=134)** An organization needs to develop appropriate risk profiles for specific implementations of AI solutions and their corresponding operating environments.
+> **[2:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980&t=134)** An organization needs to develop appropriate risk profiles for specific implementations of [[AI Solutions]] and their corresponding operating environments.
 >
 > **[2:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/jurisdictional-issues-and-societal-impact-clause-5-17-5-18?u=76281980&t=144)** Next, let's consider our last administrative AI control tied to stakeholder roles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (4), power (2), data (1), next (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1)
 > **Speakers:** - the (1)
 
-#### AI stakeholder roles (Clause 5.19-5.19.7)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980)
+#### [AI stakeholder roles (Clause 5.19-5.19.7)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,9 +1551,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=58)** This is true of an AI provider role as well.
 >
-> **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=63)** A few examples of AI platform providers include well-known players like NVIDIA, Microsoft, AWS, Google, and IBM.
+> **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=63)** A few examples of AI platform providers include well-known players like NVIDIA, [[Microsoft]], AWS, [[Google]], and IBM.
 >
-> **[1:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=76)** They provide products and services like DGX, OpenAI, TensorFlow, and SageMaker.
+> **[1:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=76)** They provide [[Microsoft Products|products]] and services like DGX, OpenAI, [[TensorFlow]], and SageMaker.
 >
 > **[1:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=85)** These products and services can be consumed directly from the provider of origin or by other entities and organizations that build upon these platforms and resell derivatives of the products.
 >
@@ -1604,7 +1583,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=215)** The data subject can include data regarding organizations and individual humans used to train AI systems.
 >
-> **[3:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=223)** For individual humans, this can raise critical privacy issues.
+> **[3:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=223)** For individual humans, this can raise critical [[Privacy Issues]].
 >
 > **[3:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-stakeholder-roles-clause-5-19-5-19-7?u=76281980&t=228)** Other subjects include individuals and organizations that come into contact with AI product directly or indirectly, such as passengers in a driverless car or interacting with an application that could call an AI service.
 >
@@ -1622,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), [[Microsoft Products|Products]] (6), data (5), product (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft]] (1), [[Google]] (1), [[TensorFlow]] (1), [[Privacy Issues]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** nvidia (1), aws (1), ibm (1), dgx (1)
 > **CLI Commands:** aws (1)
@@ -1635,8 +1614,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI system lifecycle overview (Clause 6.1)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980)
+#### [AI system lifecycle overview (Clause 6.1)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,7 +1626,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=16)** One was clocked at 11,000 years old!
 >
-> **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=21)** While life is deeply diverse in its various forms and duration, the one thing common to all is that there is a beginning and an end in what we call a lifecycle.
+> **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=21)** While life is deeply diverse in its various [[Forms]] and duration, the one thing common to all is that there is a beginning and an end in what we call a lifecycle.
 >
 > **[0:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=33)** This is true of many non-organic lives, such as the inception and decommissioning of a project.
 >
@@ -1662,13 +1640,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=95)** That's the Organization for Economic Cooperation and Development.
 >
-> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=100)** Considerations that should be included when devising a lifecycle should be governance implications related to the development and use of AI systems, privacy and security tied to the increased volume and sensitivity of data, security threats that come from system development data and the transparency and explainability elements of the AI system, including things like data provenance, where the data came from, or its origin in history.
+> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=100)** Considerations that should be included when devising a lifecycle should be governance implications related to the development and use of AI systems, [[Privacy]] and security tied to the increased volume and sensitivity of data, security threats that come from system development data and the transparency and explainability elements of the AI system, including things like data provenance, where the data came from, or its origin in history.
 >
 > **[2:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=132)** Another consideration when selecting or developing a lifecycle is the AI systems differ from other types of systems in that traditional programs are designed to behave based on specific responses to specific inputs.
 >
 > **[2:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=148)** Traditional software is primarily predictable and more easily verifiable.
 >
-> **[2:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=154)** AI systems also produce at a more rapid level, so this is going to put a demand on data management concerns and dimensionality related to the acquisition, the sampling, the augmentation, and the annotating of data.
+> **[2:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=154)** AI systems also produce at a more rapid level, so this is going to put a demand on [[Data Management]] concerns and dimensionality related to the acquisition, the sampling, the augmentation, and the annotating of data.
 >
 > **[2:53](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980&t=173)** The primary phases that ISO/IEC 22989 states are necessary to include, are inception, design, development, verification, validation, deployment, operations, and monitoring, and continuous validation.
 >
@@ -1680,14 +1658,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (6), [[Security]] (2), [[Forms]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Privacy]] (1), [[Data Management]] (1)
 > **Env Vars:** iso (5), iec (5), oecd (2), nxa (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Lifecycle stages and processes (Clause 6.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980)
+#### [Lifecycle stages and processes (Clause 6.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=75)** Developing a policy for the use and expectation of AI outcomes is also necessary.
 >
-> **[1:22](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=82)** Policy and compliance guide transparency, accountability, resource management, cost, and funding management.
+> **[1:22](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=82)** Policy and compliance guide transparency, [[Accountability]], resource management, cost, and funding management.
 >
 > **[1:30](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=90)** A feasibility study along with proof of concept should be done to ensure the project addresses the defined problem, a business opportunity, and meets capabilities and attributes.
 >
@@ -1719,7 +1696,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=108)** The design and development stage produces an AI system that should be verified, validated, and insured to meet the business objectives.
 >
-> **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=119)** It involves selecting an approach that includes deciding if both software and hardware are needed or if it will be developed in-house via open-source methods or purchased as a completed product or service.
+> **[1:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=119)** It involves selecting an approach that includes deciding if both software and [[Hardware]] are needed or if it will be developed in-house via open-source methods or purchased as a completed product or service.
 >
 > **[2:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/lifecycle-stages-and-processes-clause-6-2?u=76281980&t=132)** Architecture would be the technology agnostic behavior description of the AI system.
 >
@@ -1779,13 +1756,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (8), business (5), management (5), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Accountability]] (1)
 > **Env Vars:** iso (1), iec (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
-#### AI data, information, knowledge, and learning (Clause 7-7.3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980)
+#### [AI data, information, knowledge, and learning (Clause 7-7.3)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,7 +1779,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=50)** The knowledge that machine learning utilizes is machine readable.
 >
-> **[0:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=55)** It comes in two forms, declarative and procedural.
+> **[0:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=55)** It comes in two [[Forms]], declarative and procedural.
 >
 > **[0:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=59)** Declarative knowledge is the kind of knowledge you can state or declare.
 >
@@ -1841,7 +1817,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=158)** The developer use human knowledge or experts to inform the system of reasonable rules for AI behavior.
 >
-> **[2:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=165)** When you see heuristics as part of malware detection, you depend on the static knowledge of experts to alert your system or you to a potential infection.
+> **[2:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=165)** When you see heuristics as part of [[Malware Detection]], you depend on the static knowledge of experts to alert your system or you to a potential infection.
 >
 > **[2:56](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-data-information-knowledge-and-learning-clause-7-7-3?u=76281980&t=176)** As we've discussed, machine learning based systems look for the best approximation of behavior given a particular environment and the previous training they've received.
 >
@@ -1851,14 +1827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (3), [[Forms]] (1), [[Malware Detection]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Malware Detection]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
 
-#### AI predictions to actions (Clause 7.4-7.4.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980)
+#### [AI predictions to actions (Clause 7.4-7.4.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,13 +1865,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=99)** These problems can stem from the tools, processes, or data that were used to build the AI system.
 >
-> **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=107)** Both the AI system designer and the user need to recognize that errors can happen and they should be aware of the accountability and potential consequences of incorrect predictions.
+> **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=107)** Both the AI system designer and the user need to recognize that errors can happen and they should be aware of the [[Accountability]] and potential consequences of incorrect predictions.
 >
 > **[2:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=120)** Next is the decision phase.
 >
 > **[2:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=123)** When the AI system selects actions to take, a decision can result from human interaction after receiving AI results within the system.
 >
-> **[2:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=132)** An AI malware detection system could decide to hold a suspicious file in quarantine with a risk score for you to decide on a conclusive action, or it could decide to delete or remove the file based on strong indicators of its maliciousness.
+> **[2:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=132)** An AI [[Malware Detection]] system could decide to hold a suspicious file in quarantine with a risk score for you to decide on a conclusive action, or it could decide to delete or remove the file based on strong indicators of its maliciousness.
 >
 > **[2:31](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-predictions-to-actions-clause-7-4-7-4-4?u=76281980&t=151)** The action comes after the decision and the effects can be determined.
 >
@@ -1914,7 +1889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (2), data (1), [[Accountability]] (1), [[Malware Detection]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Malware Detection]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
@@ -1924,8 +1899,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI ecosystem and function with ML (Clause 8-8.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980)
+#### [AI ecosystem and function with ML (Clause 8-8.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,11 +1907,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=7)** If one element is eliminated or faulty, then all elements can be affected or stop functioning.
 >
-> **[0:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=14)** Deforestation is a stark example of this effect.
+> **[0:14](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=14)** Deforestation is a [[Stark (Accessibility Software)|stark]] example of this effect.
 >
 > **[0:19](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=19)** This all in one graphic should help envision the AI ecosystem.
 >
-> **[0:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=24)** Beginning at the foundation of this notional AI ecosystem, it should be noted that all technological services must consume hardware resources such as network compute and storage.
+> **[0:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=24)** Beginning at the foundation of this notional AI ecosystem, it should be noted that all technological services must consume [[Hardware]] resources such as network compute and storage.
 >
 > **[0:37](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=37)** This is even more true for AI workloads.
 >
@@ -1957,7 +1931,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=93)** Above the technology service layers, we make contact with the AI functions which abstract the technology into services that align with business requirements.
 >
-> **[1:44](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=104)** Here's where reasoning occurs related to what we discussed, like Bayesian algorithms or what are known as spatial ontology and temporal reasoners.
+> **[1:44](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=104)** Here's where reasoning occurs related to what we discussed, like Bayesian [[Algorithms]] or what are known as spatial ontology and temporal reasoners.
 >
 > **[1:57](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=117)** Spatial reasoners focus on where things are in space.
 >
@@ -1967,7 +1941,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=141)** This leads to actions carried out in the AI system layers that the user interfaces with through some specialized application and delivered to a specific business sector.
 >
-> **[2:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=153)** Examples could be computer vision, natural language processing, machine translation, and speech recognition.
+> **[2:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=153)** Examples could be [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], machine translation, and [[Speech Recognition]].
 >
 > **[2:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980&t=160)** We will discuss these more later in the course.
 >
@@ -1975,15 +1949,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Hardware]] (3), cloud (2), [[Engineering]] (2), data (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Stark (Accessibility Software)|Stark]] (1), [[Algorithms]] (1), [[Computer Vision]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), later in (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - an (1)
 
-#### AI engineering (Clause 8.5-8.5.3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980)
+#### [AI engineering (Clause 8.5-8.5.3)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2025,20 +1998,19 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=145)** The problems are solved in the same way with logic functions.
 >
-> **[2:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=149)** It's easy to update the rules and the facts of what you're looking for, and it's a great way of integrating previous technology with an artificial intelligence system.
+> **[2:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=149)** It's easy to update the rules and the facts of what you're looking for, and it's a great way of integrating previous technology with an [[Artificial Intelligence (AI)|artificial intelligence]] system.
 >
-> **[2:42](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=162)** An essential way of managing resources is to feed all AI systems with big data.
+> **[2:42](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=162)** An essential way of managing resources is to feed all AI systems with [[Big Data]].
 >
 > **[2:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-engineering-clause-8-5-8-5-3?u=76281980&t=168)** Let's review that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Programming]] (3), [[Engineering]] (1), data (1), strengths (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Big Data]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - ai (1)
 
-#### Big data (Clause 8.6-8.6.1)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980)
+#### [Big data (Clause 8.6-8.6.1)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2024,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=16)** All machine learning types need data just as all engine types need fuel.
 >
-> **[0:23](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=23)** A specific fuel type called Big Data powers machine learning today and has been around for years.
+> **[0:23](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=23)** A specific fuel type called [[Big Data]] powers machine learning today and has been around for years.
 >
 > **[0:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=32)** Big Data is a massive representation of data sets characterized by the intuitively named 4Vs, sometimes called 3Vs.
 >
@@ -2072,7 +2044,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=87)** Sources and methods of gathering the data should be well understood and explainable to help discover harmful biases that may be exacerbated by machine learning training.
 >
-> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=100)** Gleaning the most insight from Big Data known as knowledge discovery or data analysis has required sophisticated technologies like Hadoop, MongoDB, and others.
+> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=100)** Gleaning the most insight from Big Data known as knowledge discovery or data analysis has required sophisticated technologies like [[Hadoop]], [[MongoDB]], and others.
 >
 > **[1:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/big-data-clause-8-6-8-6-1?u=76281980&t=111)** Further insights can be gathered by using Big Data in training endeavors of machine learning.
 >
@@ -2094,25 +2066,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Big Data]] (6), ai (2), [[Hadoop]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (6), [[Hadoop]] (1), [[MongoDB]] (1)
 > **Definitions:** is a  (1), refers to (1), is called (1)
 > **Env Vars:** gps (1), pii (1)
 > **Cross-References:** earlier in (1), next video (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - earlier (1)
 
-#### Cloud and edge computing (Clause 8.6.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980)
+#### [Cloud and edge computing (Clause 8.6.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=0)** - Sometimes people describe the cloud as just someone else's computer.
 >
-> **[0:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=5)** To capture the full impact of the cloud, the word just should be removed from that description.
+> **[0:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=5)** To capture the full impact of the cloud, the [[Microsoft Word|word]] just should be removed from that description.
 >
 > **[0:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=12)** It's so much more.
 >
-> **[0:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=15)** Cloud computing is an essential resource in the machine learning and big data world.
+> **[0:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=15)** [[Cloud Computing]] is an essential resource in the machine learning and [[Big Data]] world.
 >
 > **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=21)** In most cases, you can meet end to end service requirements for your complete AI ecosystem stack through cloud provisioning.
 >
@@ -2120,7 +2091,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=48)** A constraint that cloud consuming organizations may have to face is the latency experience from accessing remote resources in the cloud.
 >
-> **[0:57](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=57)** Organizations can deal with this latency by establishing a direct connection with their cloud service provider that is essentially the same speed as their local area network connection.
+> **[0:57](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=57)** Organizations can deal with this latency by establishing a direct connection with their cloud service provider that is essentially the same speed as their [[Local Area Network (LAN)|local area network]] connection.
 >
 > **[1:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=68)** Depending on the bandwidth and speed needs, this could be a costly solution billed by the hour and potentially the amount of data transfer and applications using the local system for most intensive processing.
 >
@@ -2130,7 +2101,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=108)** Let's consider those.
 >
-> **[1:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=110)** Model training in the cloud means that the compute and resource demanding processes that include training, data storage, and acquisition feedback for reinforcement learning and other machine learning training are completed in the cloud.
+> **[1:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=110)** Model training in the cloud means that the compute and resource demanding processes that include training, [[Data Storage]], and acquisition feedback for [[Reinforcement Learning]] and other machine learning training are completed in the cloud.
 >
 > **[2:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=129)** Once completed, updates of the train model are sent back to run in production on the edge system.
 >
@@ -2144,7 +2115,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=174)** When cloud training is done in both the cloud and edge, it's described as hybrid.
 >
-> **[3:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=181)** In some cases, cloud services prepare the initial trained model that is then deployed at the edge.
+> **[3:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=181)** In some cases, [[Cloud Services]] prepare the initial trained model that is then deployed at the edge.
 >
 > **[3:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/cloud-and-edge-computing-clause-8-6-2?u=76281980&t=188)** In other cases, the edge systems train their local models based on their local environment and keep that data locally.
 >
@@ -2154,12 +2125,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), data (4), [[Microsoft Word|Word]] (1), [[Big Data]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Cloud Computing]] (1), [[Big Data]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Data Storage]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - sometimes (1)
 
-#### Resource pools and ASIC (Clause 8.7-8.7.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980)
+#### [Resource pools and ASIC (Clause 8.7-8.7.2)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=11)** For instance, a graphic processing unit or a GPU is a processor designed originally for rendering graphics and images, especially in games.
 >
-> **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=21)** However, because of its architecture, a GPU is also great for parallel processing, performing many calculations at the same time, which makes it idea for tasks like machine learning, deep learning, and scientific simulations.
+> **[0:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=21)** However, because of its architecture, a GPU is also great for parallel processing, performing many calculations at the same time, which makes it idea for tasks like machine learning, [[Deep Learning]], and scientific simulations.
 >
 > **[0:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=40)** A neural processing unit is a specialized processor designed specifically for neural network computations, while a GPU can handle general parallel processing.
 >
@@ -2175,7 +2145,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=68)** It's best for running machine learning and deep learning models, especially in real time applications like smart phones, autonomous vehicles, and edge computing.
 >
-> **[1:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=81)** A field programmable processor is a flexible hardware that can be reprogrammed after manufacturing to perform a specific task.
+> **[1:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=81)** A field programmable processor is a flexible [[Hardware]] that can be reprogrammed after manufacturing to perform a specific task.
 >
 > **[1:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=92)** Depending on the need, you can design the FPGA to behave like different kinds of processors, making it highly versatile and customizable.
 >
@@ -2187,17 +2157,17 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=122)** ASICs are used in applications where high efficiency and performance are crucial.
 >
-> **[2:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=128)** ASICs are best for tasks that require maximum efficiency and performance, such as cryptocurrency, mining, or some other high speed networking activity.
+> **[2:08](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=128)** ASICs are best for tasks that require maximum efficiency and performance, such as [[Cryptocurrency]], mining, or some other high speed networking activity.
 >
 > **[2:19](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=139)** ASICs can be configured as co-processor to provide data pre and post-processing functions for AI tasks such as image cropping and resizing transforming, noise reduction and sensing data fusion.
 >
-> **[2:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=155)** We've considered various AI platforms, algorithms and processes that should allow your organization to have a common language and approach to AI consumption.
+> **[2:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=155)** We've considered various AI platforms, [[Algorithms]] and processes that should allow your organization to have a common language and approach to AI consumption.
 >
 > **[2:46](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/resource-pools-and-asic-clause-8-7-8-7-2?u=76281980&t=166)** If you believe you haven't yet used AI, let's review a few often used AI implementations where you probably have.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Deep Learning]] (3), parallel (2), data (2), cloud (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Hardware]] (1), [[Cryptocurrency]] (1), [[Algorithms]] (1)
 > **Env Vars:** gpu (3), npu (1), fpga (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for instance (1)
@@ -2208,28 +2178,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computer vision and image recognition (Clause 9.1)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980)
+#### [Computer vision and image recognition (Clause 9.1)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=0)** - In the summer of 1966 at MIT, Seymour Par started the vision project to be able to recognize objects in a picture by a computer, thus begin the path of computer vision, which is what I will discuss in this video.
+> **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=0)** - In the summer of 1966 at MIT, Seymour Par started the vision project to be able to recognize objects in a picture by a computer, thus begin the path of [[Computer Vision]], which is what I will discuss in this video.
 >
 > **[0:17](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=17)** Computer vision is an AI field that enables computers to interpret and make decisions based on visual data, such as images and videos.
 >
 > **[0:26](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=26)** The goal of computer vision is to teach machines to see and understand the world in a way that's similar to how humans do.
 >
-> **[0:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=34)** Computer vision uses various techniques to process and analyze images, including pattern recognition, deep learning, and feature extraction.
+> **[0:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=34)** Computer vision uses various techniques to process and analyze images, including pattern recognition, [[Deep Learning]], and feature extraction.
 >
 > **[0:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=45)** A key aspect is enabling machines to interpret visual data from cameras, images, or sensors, and make decisions based on that information.
 >
 > **[0:54](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=54)** Use cases for computer vision includes self-driving cars that use computer vision to detect pedestrians, other vehicles, traffic signs, and road conditions.
 >
-> **[1:06](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=66)** In the healthcare industry, medical imaging systems use computer vision to identify tumors and X-rays, CT scans, or MRIs.
+> **[1:06](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=66)** In the [[Healthcare Industry]], medical imaging systems use computer vision to identify tumors and X-rays, CT scans, or MRIs.
 >
 > **[1:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=75)** Security systems use computer vision for facial recognition and detecting unusual activity.
 >
-> **[1:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=81)** And in manufacturing, it is a great quality control capability to inspect products on assembly lines for defects.
+> **[1:21](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=81)** And in manufacturing, it is a great quality control capability to inspect [[Microsoft Products|products]] on assembly lines for defects.
 >
 > **[1:30](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=90)** Image recognition is a subset of computer vision.
 >
@@ -2239,7 +2208,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=108)** This is a car.
 >
-> **[1:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=110)** That is John.
+> **[1:50](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=110)** That is [[John the Ripper|John]].
 >
 > **[1:51](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=111)** This is a beach.
 >
@@ -2269,21 +2238,20 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=217)** If image recognition models are trained on bias data, more images of a specific demographic than others, they may produce biases and incorrect results.
 >
-> **[3:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=229)** Real-time processing is another application where you process large amounts of video data are high resolution images in real-time.
+> **[3:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=229)** [[Real-Time]] processing is another application where you process large amounts of video data are high resolution images in real-time.
 >
-> **[3:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=239)** Next up, we'll talk about natural language processing as another heavily used capability of AI.
+> **[3:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980&t=239)** Next up, we'll talk about [[Natural Language Processing (NLP)|natural language processing]] as another heavily used capability of AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (14), data (4), ai (2), [[Security]] (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Computer Vision]] (14), [[Real-Time]] (2), [[Deep Learning]] (1), [[Healthcare Industry]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4), is an  (1), refers to (1), in other words (1)
 > **Analogies:** picture (2), such as (2), similar to (1)
 > **CLI Commands:** make (2), snap (1), find (1)
 > **Env Vars:** mit (1)
 > **Speakers:** - in (1)
 
-#### Natural language processing (Clause 9.2-9.2.1)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980)
+#### [Natural language processing (Clause 9.2-9.2.1)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2291,7 +2259,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=9)** The system understood most of my objectives until I asked it to do something that was outside of its trained parameters to accomplish and understand.
 >
-> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=20)** In this video, we will discuss the domain of natural language processing, which is the ability of a system to understand natural language via text or speech and generate natural language.
+> **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=20)** In this video, we will discuss the domain of [[Natural Language Processing (NLP)|natural language processing]], which is the ability of a system to understand natural language via text or speech and generate natural language.
 >
 > **[0:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=32)** These systems can identify concepts, entities, keywords, relationships, emotions, and other characteristics that allow them to glean insights from audio and written content.
 >
@@ -2299,7 +2267,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=64)** The polysemic, or capable of having multiple meanings, nature of words presents challenges that must be addressed.
 >
-> **[1:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=72)** For example, the word "with" can mean aligned to, like they are with each other, or it can mean that they fight with each other.
+> **[1:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=72)** For example, the [[Microsoft Word|word]] "with" can mean aligned to, like they are with each other, or it can mean that they fight with each other.
 >
 > **[1:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=84)** NLP analyzes text to extract meaningful information.
 >
@@ -2315,40 +2283,39 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=132)** Use cases of NLP include text generation, which involves creating human-like text from data or prompts.
 >
-> **[2:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=138)** For instance, systems like ChatGPT, which you interact with can generate coherent responses to questions or prompts.
+> **[2:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=138)** For instance, systems like [[ChatGPT]], which you interact with can generate coherent responses to questions or prompts.
 >
 > **[2:27](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=147)** It can write essays or summarize information.
 >
-> **[2:31](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=151)** Another example of NLP is speech recognition, also known as speech to text, which involves converting spoken language into written words.
+> **[2:31](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=151)** Another example of NLP is [[Speech Recognition]], also known as speech to text, which involves converting spoken language into written words.
 >
-> **[2:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=160)** Systems like Siri, Google Assistant, or Amazon Alexa can take voice commands and turn them into actionable instructions.
+> **[2:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=160)** Systems like Siri, [[Google]] Assistant, or Amazon Alexa can take voice commands and turn them into actionable instructions.
 >
 > **[2:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=169)** Summarization involves shortening long pieces of text while keeping the main ideas intact.
 >
 > **[2:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=175)** So abstract summarization generates new sentences while extractive summarization pulls key phrases directly from the text.
 >
-> **[3:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=185)** If you've used Grammarly, which helps you write more precisely and concisely, then you're using a system trained in NLP algorithms.
+> **[3:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=185)** If you've used Grammarly, which helps you write more precisely and concisely, then you're using a system trained in NLP [[Algorithms]].
 >
 > **[3:15](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=195)** One last example is machine translation, which converts text from one language to another like Google Translate.
 >
 > **[3:23](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=203)** This means utilizing a source language like English and selecting a target language like Spanish.
 >
-> **[3:30](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=210)** The ability for NLP to function begins with adequate data acquisition for practical machine learning training.
+> **[3:30](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=210)** The ability for NLP to function begins with adequate [[Data Acquisition]] for practical machine learning training.
 >
 > **[3:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=218)** Many of the data acquisition processes predate the modern AI surge.
 >
-> **[3:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=223)** One of these is data mining.
+> **[3:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/natural-language-processing-clause-9-2-9-2-1?u=76281980&t=223)** One of these is [[Data Mining]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (6), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Google]] (2), [[Data Acquisition]] (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Google]] (2), [[Data Acquisition]] (2), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
 > **Env Vars:** nlp (6), nlu (1), ner (1), jpl (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** known as (1)
 > **Speakers:** - i (1)
 
-#### Data mining and planning (Clause 9.3-9.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980)
+#### [Data mining and planning (Clause 9.3-9.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2356,15 +2323,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=5)** After some time passes, you go back and reread it with more attention to detail, catching so many things that you miss that you are so glad you came back to reread it.
 >
-> **[0:17](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=17)** Data mining assumes the same premise.
+> **[0:17](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=17)** [[Data Mining]] assumes the same premise.
 >
 > **[0:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=20)** The information has already been cataloged in some repository, even within a database.
 >
 > **[0:26](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=26)** Now, the intent is to repurpose that data to discover additional insights beyond what is already known.
 >
-> **[0:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=33)** It is an algorithmic element of the knowledge discovery in databases process.
+> **[0:33](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=33)** It is an algorithmic element of the knowledge discovery in [[Databases]] process.
 >
-> **[0:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=40)** It includes techniques we've previously considered earlier in this course that would be part of decision trees, clustering, and classification.
+> **[0:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=40)** It includes techniques we've previously considered earlier in this course that would be part of [[Decision Trees]], clustering, and classification.
 >
 > **[0:49](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=49)** The stages of knowledge discovery in databases include the data selection phase, which is the process that begins with selecting the relevant data from the available dataset.
 >
@@ -2372,13 +2339,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=69)** Data preprocessing is the next stage, and this, after selecting the data, the data needs to be cleaned to remove noise and handle missing values and resolve inconsistencies.
 >
-> **[1:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=84)** Then you move on to the data transformation stage.
+> **[1:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=84)** Then you move on to the [[Data Transformation]] stage.
 >
 > **[1:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=88)** Here, this step involves transforming the data into a suitable format for mining.
 >
 > **[1:34](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=94)** So these are techniques like normalization, aggregation, and feature extraction.
 >
-> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=100)** Data mining, the core step of KDD, is where algorithms are applied to extract patterns from the data.
+> **[1:40](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=100)** Data mining, the core step of KDD, is where [[Algorithms]] are applied to extract patterns from the data.
 >
 > **[1:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=107)** Classification clustering, association rule mining, and anomaly detection are standard techniques used in this phase.
 >
@@ -2392,7 +2359,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=136)** Finally, the discovered patterns are presented in a human-understandable form.
 >
-> **[2:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=140)** This could be in the form of reports, visualization, or dashboards to help decision makers act on the discovered knowledge.
+> **[2:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=140)** This could be in the form of reports, visualization, or [[Dashboards]] to help decision makers act on the discovered knowledge.
 >
 > **[2:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=149)** In data mining planning, you begin with an initial state.
 >
@@ -2418,7 +2385,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=224)** Planning is always necessary regardless of the industry.
 >
-> **[3:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=228)** In some industries, the imperative is more significant than others, such as defense, healthcare, cybersecurity, governmental, infrastructure, and others.
+> **[3:48](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=228)** In some industries, the imperative is more significant than others, such as defense, healthcare, [[Cybersecurity]], governmental, infrastructure, and others.
 >
 > **[3:59](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/data-mining-and-planning-clause-9-3-9-4?u=76281980&t=239)** Planning sets the guardrails for the AI systems' actions along with the expectations, requirements, and performance measures.
 >
@@ -2426,23 +2393,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Databases]] (2), ai (2), database (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Databases]] (2), [[Decision Trees]] (1), [[Data Transformation]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** kdd (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - have (1)
 
-#### Application of AI systems (Clause 10-10.4)
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980)
+#### [Application of AI systems (Clause 10-10.4)](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=0)** - Pick any sector, and you can be sure, it is, or will be affected by AI.
 >
-> **[0:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=9)** Did you think of education, energy, law, manufacturing, media and entertainment, security, space tech, telecommunications, agriculture, and farming?
+> **[0:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=9)** Did you think of education, energy, law, manufacturing, media and entertainment, security, space tech, [[Telecommunications]], agriculture, and farming?
 >
-> **[0:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=18)** Let's double click on an example of banking and finance.
+> **[0:18](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=18)** Let's double click on an example of [[Banking]] and finance.
 >
 > **[0:24](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=24)** A significant focus of the banking and finance industry is fraud detection.
 >
@@ -2452,7 +2418,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=47)** The list of fraudulent activities that can affect you and your banking and financial institution is endless.
 >
-> **[0:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=55)** Let's zoom in on a specific organization for a real example of machine learning being used to counteract fraud.
+> **[0:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=55)** Let's [[Zoom]] in on a specific organization for a real example of machine learning being used to counteract fraud.
 >
 > **[1:03](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=63)** Let's see if you can identify AI concepts that we considered in this course.
 >
@@ -2462,7 +2428,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=89)** Well, they train their models on NVIDIA's machine learning platform to detect fraud.
 >
-> **[1:36](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=96)** They utilized a combination of hardware and software solutions to accomplish this.
+> **[1:36](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=96)** They utilized a combination of [[Hardware]] and software solutions to accomplish this.
 >
 > **[1:43](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=103)** The results are noteworthy.
 >
@@ -2488,15 +2454,15 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=177)** Automated self-driving cars are another marquee use of machine learning.
 >
-> **[3:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=182)** Camera-based perception systems utilizing computer vision harness the power of convolution neural networks to process visual data like lane markings, traffic signs, pedestrians, and other vehicles, to make real-time environmental interactions take place.
+> **[3:02](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=182)** Camera-based perception systems utilizing [[Computer Vision]] harness the power of convolution [[Neural Networks]] to process visual data like lane markings, traffic signs, pedestrians, and other vehicles, to make [[Real-Time]] environmental interactions take place.
 >
-> **[3:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=200)** The belief is that the planning and decision-making capabilities will refine to the point that automated cars carry less risk than human drivers.
+> **[3:20](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=200)** The belief is that the planning and [[Decision-Making]] capabilities will refine to the point that automated cars carry less risk than human drivers.
 >
 > **[3:28](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=208)** That's still yet to be.
 >
 > **[3:32](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=212)** Here is an all-in-one view of the continuing growth of AI use cases.
 >
-> **[3:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=218)** With each of these, we've previously discussed the data model and algorithms that support the development of them.
+> **[3:38](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=218)** With each of these, we've previously discussed the data model and [[Algorithms]] that support the development of them.
 >
 > **[3:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/application-of-ai-systems-clause-10-10-4?u=76281980&t=225)** Unfortunately, there is, as always, with new technology, a growing enterprise with criminality.
 >
@@ -2504,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), [[Banking]] (3), power (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (3), [[Telecommunications]] (1), [[Zoom]] (1), [[Hardware]] (1), [[Computer Vision]] (1)
 > **Env Vars:** nvidia (4), lstm (2), gpu (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -2516,14 +2482,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your AI journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980)
+#### [Continue your AI journey](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980&t=1)** - Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980&t=4)** Please download and share your certificate of completion with the LinkedIn community.
+> **[0:04](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980&t=4)** Please download and share your certificate of completion with the [[LinkedIn]] community.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980&t=9)** Recall that the age of AI we are currently in is known as narrow intelligence, which means AI is only task specific.
 >
@@ -2545,7 +2510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (2), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - congratulations (1)

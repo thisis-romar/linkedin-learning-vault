@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals 
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
+#### [Fundamentals ](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980&t=0)** - [Allen Thorn] Greetings and welcome to Unity Fundamentals, presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980&t=0)** - [Allen Thorn] Greetings and welcome to [[Unity]] Fundamentals, presented by [[LinkedIn]] Learning.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980&t=6)** This is an introductory course where you get to know the Unity engine practically.
 >
@@ -112,17 +111,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (10), career (2), [[LinkedIn]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (10), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [allen (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=0)** - [Instructor] This course is about learning the fundamentals of the Unity engine for making games, visualizations and other kinds of interactive products.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=0)** - [Instructor] This course is about learning the fundamentals of the [[Unity]] engine for making games, visualizations and other kinds of interactive [[Microsoft Products|products]].
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=9)** It comes with exercise files and throughout the videos of this course, these files will be referenced and called out, so you know which files I am using.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=35)** They're divided into different folders.
 >
-> **[0:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=37)** And fundamentally we have the Assets To Import folder which contains a texture and a mesh that we'll be using in one of the videos and three projects that you can open up to see how they work and we'll be using and completing those projects as we proceed through the course.
+> **[0:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/companion-files?u=76281980&t=37)** And fundamentally we have the Assets To Import folder which contains a texture and a [[Mesh]] that we'll be using in one of the videos and three projects that you can open up to see how they work and we'll be using and completing those projects as we proceed through the course.
 
 > [!info]- Semantic Content
 >
@@ -147,12 +145,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Unity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
+#### [Introducing Unity](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=0)** - [Instructor] In this movie, I want to introduce you to the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=0)** - [Instructor] In this movie, I want to introduce you to the [[Unity]] engine.
 >
 > **[0:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=4)** It might be that you already know what the Unity engine is.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=183)** I'm using a Mac here, so it's found the Mac installer for me.
 >
-> **[3:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=187)** If you're using the Windows platform, that will automatically identify the Windows installer to download that to your computer.
+> **[3:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=187)** If you're using the [[Windows]] platform, that will automatically identify the Windows installer to download that to your computer.
 >
 > **[3:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980&t=195)** The Unity Hub application is not the Unity engine itself.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (21), application (2), business (2), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Unity]] (21), [[Windows]] (2)
 > **CLI Commands:** find (3)
 > **Prerequisites:** setup (2), install (1)
 > **URLs:** [unity.com](https://unity.com) (2)
@@ -223,12 +220,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Exercise Files:** download the (1)
 
-#### Installing Unity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980)
+#### [Installing Unity](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=0)** - [Narrator] In the previous movie, we went to the unity website and downloaded the unity hub installer.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=0)** - [Narrator] In the previous movie, we went to the [[Unity]] website and downloaded the unity hub installer.
 >
 > **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=7)** When you download and install that to your computer and then run the unity hub.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=290)** Just move to the three dotted ellipsis symbol here, click on that dropdown and then choose add modules.
 >
-> **[4:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=297)** So for example, if you later choose that you're going to be building games or content for mobile platforms like Android devices, you're going to need to enable the Android build support option here at the top, a similar thing for IOS a similar thing for iOS and for other kinds of platforms, and then choose next to download those to your computer and unity will automatically add those components to your installation.
+> **[4:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=297)** So for example, if you later choose that you're going to be building games or content for mobile platforms like [[Android]] devices, you're going to need to enable the Android build support option here at the top, a similar thing for IOS a similar thing for iOS and for other kinds of platforms, and then choose next to download those to your computer and unity will automatically add those components to your installation.
 >
 > **[5:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/installing-unity?u=76281980&t=326)** So that's how you can go ahead and use unity hub to install unity to your computer.
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (27), next (4), [[Android]] (2), application (1)
+> **Frameworks & Libraries:** [[Unity]] (27), [[Android]] (2)
 > **Prerequisites:** install (9)
 > **Versions:** 2020.1.5 (3), 0.1 (2), 0.5 (2)
 > **Env Vars:** lts (1), ios (1)
@@ -343,12 +339,11 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Cross-References:** in the next (1)
 
-#### Creating projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980)
+#### [Creating projects](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=0)** - [Instructor] When you are ready to create a completely new Unity project, you want to head on over to the Unity hub application that will be installed to your computer.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=0)** - [Instructor] When you are ready to create a completely new [[Unity]] project, you want to head on over to the Unity hub application that will be installed to your computer.
 >
 > **[0:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=10)** This is the launch pad for creating new projects here inside Unity.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=130)** But that quality comes at a price.
 >
-> **[2:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=132)** The high definition render pipeline is not designed for mobile devices and older hardware such as legacy hardware.
+> **[2:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=132)** The high definition render pipeline is not designed for mobile devices and older [[Hardware]] such as legacy hardware.
 >
 > **[2:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-projects?u=76281980&t=139)** It's really for newer, more high powered devices.
 >
@@ -508,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (29), game (7), hit (6), [[Hardware]] (2), application (1)
+> **Frameworks & Libraries:** [[Unity]] (29), [[Hardware]] (2)
 > **UI Navigation:** click on (2), double-click (2), select the (1), navigate to (1), toggle (1)
 > **Env Vars:** fps (6)
 > **CLI Commands:** make (3), find (1)
@@ -517,12 +512,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Render pipelines 
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980)
+#### [Render pipelines ](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=0)** - Whenever you create a new project inside Unity, you'll do so from the project creation screen that I've launched from Unity hub.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=0)** - Whenever you create a new project inside [[Unity]], you'll do so from the project creation screen that I've launched from Unity hub.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=9)** On this screen, you have a range of different templates that you can use to initially set up and configure your project.
 >
@@ -540,9 +534,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=47)** Well, it depends.
 >
-> **[0:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=48)** If your aim is to create a project, a game, for example or an architectural visualization that is going to run on the widest number of hardware and devices possible mobile for example, web browsers, consoles, PCs, if you want your project on a lot of different types of devices, then your best option is to choose the Universal Render Pipeline.
+> **[0:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=48)** If your aim is to create a project, a game, for example or an architectural visualization that is going to run on the widest number of [[Hardware]] and devices possible mobile for example, web browsers, consoles, PCs, if you want your project on a lot of different types of devices, then your best option is to choose the Universal Render Pipeline.
 >
-> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=72)** The word universal in that title represents the fact that by creating your project, using that template it can run on a wide range of hardware.
+> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=72)** The [[Microsoft Word|word]] universal in that title represents the fact that by creating your project, using that template it can run on a wide range of hardware.
 >
 > **[1:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/render-pipelines?u=76281980&t=81)** Now that comes at the expense of graphical quality.
 >
@@ -588,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), [[Hardware]] (4), next (2), game (1), web (1)
+> **Frameworks & Libraries:** [[Unity]] (8), [[Hardware]] (4), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** urp (3), dna (1)
 > **Cross-References:** in the next (2)
@@ -596,12 +590,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - whenever (1)
 
-#### Working with the interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980)
+#### [Working with the interface](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=0)** - [Instructor] In this movie, I'm going to present a general overview of the unity interface, and the basic paradigm that you'll be working within when you create unity projects.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=0)** - [Instructor] In this movie, I'm going to present a general overview of the [[Unity]] interface, and the basic paradigm that you'll be working within when you create unity projects.
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=12)** In this instance, I've just created a universal render pipeline project.
 >
@@ -727,7 +720,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=397)** And just to confirm that this is indeed a folder on your hard drive, you can move your mouse cursor over this project panel, right click, and from the menu, if you're using a Mac computer, you can choose reveal in Finder.
 >
-> **[6:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=412)** If you're on Windows, it will instead say show in Explorer.
+> **[6:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=412)** If you're on [[Windows]], it will instead say show in Explorer.
 >
 > **[6:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=417)** But by choosing that option, it will display the contents of the folder.
 >
@@ -761,7 +754,7 @@ created: 2026-05-02
 >
 > **[8:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=498)** And by hovering your cursor over it, and on the keyboard pressing Shift Space bar, you can maximize that panel to occupy the entirety of your view.
 >
-> **[8:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=508)** So if you want to zoom in and take a closer look at your world, and your objects, you can do that by hitting the key combination Shift Space on the keyboard.
+> **[8:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=508)** So if you want to [[Zoom]] in and take a closer look at your world, and your objects, you can do that by hitting the key combination Shift Space on the keyboard.
 >
 > **[8:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=519)** But of course, once I've zoomed into it, how do I get back out of it.
 >
@@ -781,15 +774,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (14), next (1), data (1), [[Windows]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (14), [[Windows]] (1), [[Zoom]] (1)
 > **UI Navigation:** select the (4), click on (4), toggle (3)
 > **Analogies:** for example (8)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Scene vs. game mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980)
+#### [Scene vs. game mode](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=29)** If you don't have that project open, it's not critical.
 >
-> **[0:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=32)** You can use pretty much any unity project to see the distinction between the scene and the game tab.
+> **[0:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=32)** You can use pretty much any [[Unity]] project to see the distinction between the scene and the game tab.
 >
 > **[0:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=39)** The distinction is one of project creation and the stage that you're at.
 >
@@ -853,7 +845,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=215)** That will give you control back of your mouse cursor and you can press the play button again, to stop playback and restore the unity editor back to its normal state.
 >
-> **[3:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=226)** You can also enter and stop play mode by using the keyboard shortcut Control + P on a Windows PC or Command + P on a Mac.
+> **[3:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=226)** You can also enter and stop play mode by using the keyboard shortcut Control + P on a [[Windows]] PC or Command + P on a Mac.
 >
 > **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=237)** Command + P begins playback of the game and Command + P again stops playback of the game.
 >
@@ -865,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (18), [[Unity]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[Windows]] (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -877,12 +869,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding and removing GameObjects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
+#### [Adding and removing GameObjects](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=0)** - [Narrator] In this chapter of the course, I'm going to look at the level design features that unity has to offer.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=0)** - [Narrator] In this chapter of the course, I'm going to look at the level design features that [[Unity]] has to offer.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=6)** The range of different features that let us build believable worlds here inside the unity engine.
 >
@@ -934,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=168)** That's pretty close.
 >
-> **[2:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=170)** So I'm going to roll my middle mouse wheel just to zoom out a little bit.
+> **[2:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=170)** So I'm going to roll my middle mouse wheel just to [[Zoom]] out a little bit.
 >
 > **[2:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=174)** You can see here the cube has actually been created underneath the floor.
 >
@@ -960,7 +951,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=238)** They're not sophisticated meshes at all.
 >
-> **[4:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=241)** I'm going to select the mesh, the sphere mesh here, right-click, choose delete and roll my middle mouse wheel bringing the view back to where it was previously so I can see the world in more detail.
+> **[4:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=241)** I'm going to select the [[Mesh]], the sphere mesh here, right-click, choose delete and roll my middle mouse wheel bringing the view back to where it was previously so I can see the world in more detail.
 >
 > **[4:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980&t=255)** So there are other types of objects that we can add to.
 >
@@ -1014,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), [[Unity]] (4), [[Mesh]] (2), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Mesh]] (2), [[Zoom]] (1)
 > **UI Navigation:** select the (4), double-click (3), click on (3), right-click (2)
 > **Env Vars:** fps (6), unt (1)
 > **Analogies:** for example (3)
@@ -1022,8 +1013,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Viewing in the Scene Tab
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980)
+#### [Viewing in the Scene Tab](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1059,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=120)** So by holding down the middle mouse button on your mouse and then dragging your mouse around, just by moving it left and right or up or down, you are accessing the pan tool.
 >
-> **[2:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=133)** The next thing that you can do with the mouse is you can zoom in and zoom out, just by rolling the middle mouse wheel.
+> **[2:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=133)** The next thing that you can do with the mouse is you can [[Zoom]] in and zoom out, just by rolling the middle mouse wheel.
 >
 > **[2:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=141)** So I can roll the wheel up to zoom in, and I can roll the wheel down to zoom out.
 >
@@ -1115,7 +1105,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=270)** That's really easy to do as well.
 >
-> **[4:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=272)** What you need to do is, you need to hold down the alt key on the keyboard, that is alt on a Windows PC.
+> **[4:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=272)** What you need to do is, you need to hold down the alt key on the keyboard, that is alt on a [[Windows]] PC.
 >
 > **[4:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=280)** If you're using a Mac computer, you want to hold down the option key.
 >
@@ -1185,7 +1175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), next (3), game (1), [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Windows]] (1)
 > **Analogies:** for example (8)
 > **UI Navigation:** click on (3), double-click (3)
 > **Env Vars:** fps (2), wasd (1)
@@ -1194,8 +1184,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming game objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980)
+#### [Transforming game objects](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,11 +1214,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=64)** You can see that a cube has been added over here.
 >
-> **[1:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=67)** I'm going to zoom in by pressing the F key on the keyboard to frame it.
+> **[1:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=67)** I'm going to [[Zoom]] in by pressing the F key on the keyboard to frame it.
 >
 > **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=72)** And just roll my middle mouse wheel.
 >
-> **[1:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=75)** You can see that what Unity has done here is it's added a new cube to the scene.
+> **[1:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=75)** You can see that what [[Unity]] has done here is it's added a new cube to the scene.
 >
 > **[1:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=80)** But it's certainly not where I would want it to be.
 >
@@ -1473,7 +1462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Zoom]] (3), [[Unity]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Unity]] (2)
 > **CLI Commands:** make (10)
 > **Analogies:** for example (4)
 > **Versions:** 0.5 (3)
@@ -1482,14 +1471,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object Inspector and components 
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980)
+#### [Object Inspector and components ](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=0)** - [Instructor] In this movie, we're going to explore game objects, components, and the object inspector.
 >
-> **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=6)** We'll be looking at what make objects work as they should do here inside Unity.
+> **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=6)** We'll be looking at what make objects work as they should do here inside [[Unity]].
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=11)** It's critical to understand the anatomy of a game object so that when you're building your own worlds and your own objects, your scenes will behave as you expect them to.
 >
@@ -1501,7 +1489,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=46)** Every single item that is listed here inside the hierarchy panel is classified as a game object and that's Unity terminology.
 >
-> **[0:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=55)** In some 3D software on engines, they might be called nodes or actors, but here in Unity, the word is game object.
+> **[0:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=55)** In some 3D software on engines, they might be called nodes or actors, but here in Unity, the [[Microsoft Word|word]] is game object.
 >
 > **[1:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=64)** Now, when you select a game object, you will see its properties listed here inside the hierarchy panel.
 >
@@ -1539,7 +1527,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=147)** But when I select that cube, you can see that we have a transform component controlling its position, rotation and scale.
 >
-> **[2:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=155)** But beneath that, we have a mesh filter component.
+> **[2:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=155)** But beneath that, we have a [[Mesh]] filter component.
 >
 > **[2:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/object-inspector-and-components?u=76281980&t=158)** We have a mesh renderer component and we have a box collider component.
 >
@@ -1735,7 +1723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (29), game (16), [[Unity]] (6), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Mesh]] (29), [[Unity]] (6), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (10), click on (2), dropdown (1), scroll down (1)
 > **Analogies:** for example (5), just like (1)
 > **CLI Commands:** make (4)
@@ -1744,14 +1732,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980)
+#### [Hierarchies](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=0)** - [Instructor] In this movie, we're going to talk about object hierarchies and why they are really really important for organizing and grouping together different elements of your scene.
 >
-> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=11)** If you take a look at the project open in front of us here, this is the main scene of the micro game FPS project here created in signed Unity.
+> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=11)** If you take a look at the project open in front of us here, this is the main scene of the micro game FPS project here created in signed [[Unity]].
 >
 > **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=20)** You'll find in the hierarchy panel, we've got a complete list of the different objects inside the scene.
 >
@@ -1907,7 +1894,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=401)** Click and drag to the room alter and release my mouse.
 >
-> **[6:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=406)** And lastly, I'm going to grab the wall window mesh, which is on this side, and drag and drop to the room alter and release my mouse.
+> **[6:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=406)** And lastly, I'm going to grab the wall window [[Mesh]], which is on this side, and drag and drop to the room alter and release my mouse.
 >
 > **[6:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=417)** Now, when I select the room alter, the parent object, selecting the whole thing.
 >
@@ -2019,7 +2006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (8), [[Unity]] (2), next (2), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Mesh]] (1)
 > **UI Navigation:** select the (8), drag and drop (3), switch to (2), double-click (1), click on (1)
 > **Analogies:** for example (10)
 > **CLI Commands:** make (6), find (3)
@@ -2028,8 +2015,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Versions:** 2.47 (1)
 
-#### Snapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980)
+#### [Snapping](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2049,7 +2035,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=56)** I'm going to open up the Walls folder so you can see different wall elements that we have here.
 >
-> **[1:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=61)** I'll be using the window area to tile windows along this section of the floor.
+> **[1:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=61)** I'll be using the window area to tile [[Windows]] along this section of the floor.
 >
 > **[1:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=68)** So I'll drag and drop a window into the environment looking pretty good.
 >
@@ -2069,7 +2055,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=137)** And by using the Move tool I can move this window off to the edge here selected a game and Control+D or Command-D to duplicate that and move that off to the edge, Command-D to duplicate that and then effectively use the Duplicate option to repeat these windows along the length of the floor.
 >
-> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=159)** But if I zoom in, you will begin to see what the problem is.
+> **[2:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=159)** But if I [[Zoom]] in, you will begin to see what the problem is.
 >
 > **[2:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=163)** You'll notice that between this window and this window we have this spacing here and then the same again on this side and then on this side.
 >
@@ -2095,7 +2081,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=231)** To do that I'm going to select the object that I want to move, in this case, the window.
 >
-> **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=237)** And with this object selected I'm going to hold down the V key, the V key on the keyboard for Vertex Snap, and in holding down the V key on the keyboard and still holding down the V key.
+> **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=237)** And with this object selected I'm going to hold down the V key, the V key on the keyboard for [[Vertex]] Snap, and in holding down the V key on the keyboard and still holding down the V key.
 >
 > **[4:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=251)** As I move my mouse cursor around you will see that the cursor is actually snapping to different corner points on this object.
 >
@@ -2107,7 +2093,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=276)** I'm left-clicking and holding my mouse.
 >
-> **[4:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=279)** And as I do that, I'm going to begin to move my mouse around and I'm going to move it to the corner here which will precisely align this mesh this corner point to this corner point on the floor.
+> **[4:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=279)** And as I do that, I'm going to begin to move my mouse around and I'm going to move it to the corner here which will precisely align this [[Mesh]] this corner point to this corner point on the floor.
 >
 > **[4:53](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=293)** Let's try that again.
 >
@@ -2181,18 +2167,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (5), [[Windows]] (3), game (1), [[Zoom]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Windows]] (3), [[Zoom]] (1), [[Mesh]] (1)
 > **CLI Commands:** snap (11), make (1), find (1)
 > **UI Navigation:** drag and drop (3), select the (3)
 > **Env Vars:** fps (4)
 > **Speakers:** - [instructor] (1)
 
-#### Play Mode tint
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/play-mode-tint?u=76281980)
+#### [Play Mode tint](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/play-mode-tint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/play-mode-tint?u=76281980&t=0)** - [Instructor] Now let's take a look at a really strange problem that many, many people encounter when they get started with Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/play-mode-tint?u=76281980&t=0)** - [Instructor] Now let's take a look at a really strange problem that many, many people encounter when they get started with [[Unity]].
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/play-mode-tint?u=76281980&t=9)** You've put together a level, things are looking good.
 >
@@ -2288,7 +2273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), [[Unity]] (3), power (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** double-click (3), drag and drop (3), click on (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -2302,18 +2287,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
+#### [Packages](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=0)** - [Instructor] This chapter of the course focuses on importing content into Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=0)** - [Instructor] This chapter of the course focuses on importing content into [[Unity]].
 >
 > **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=5)** This includes content that will feature in your games or visualizations such as animated characters, buildings, props, weapons, animations, music, textures and sound but it also includes expansions to the Unity interface itself.
 >
 > **[0:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=22)** The addition of new features, options, buttons and tools that can make you use Unity more effectively.
 >
-> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=29)** In this movie specifically, we'll see the Unity package manager and how we're going to turn Unity into a mesh editing program.
+> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=29)** In this movie specifically, we'll see the Unity package manager and how we're going to turn Unity into a [[Mesh]] editing program.
 >
 > **[0:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=38)** Now I've created a new 3D project.
 >
@@ -2429,7 +2413,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=323)** But notice that we also have these three additional buttons here.
 >
-> **[5:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=328)** Let's begin with the first one, which is vertex selection.
+> **[5:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=328)** Let's begin with the first one, which is [[Vertex]] selection.
 >
 > **[5:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980&t=332)** When I activate vertex selection, you'll notice that the corner points of the mesh are highlighted.
 >
@@ -2509,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (17), [[Mesh]] (14), [[Vertex]] (5), feature (3), game (1)
+> **Frameworks & Libraries:** [[Unity]] (17), [[Mesh]] (14), [[Vertex]] (5)
 > **Analogies:** for example (7), such as (1)
 > **UI Navigation:** scroll down (2), select the (2), click on (2), dropdown (1)
 > **Definitions:** is a  (4), means that (1)
@@ -2518,12 +2502,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Asset Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980)
+#### [Asset Store](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=0)** - [Narrator] If you're looking for a really quick and easy way to get ready to use content directly into your project, whether it's a game, visualization, whatever it is you're making, if you need meshes, textures, characters, animations that you just want to drag and drop into your games or your projects, then take a look at the Unity Asset Store.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=0)** - [Narrator] If you're looking for a really quick and easy way to get ready to use content directly into your project, whether it's a game, visualization, whatever it is you're making, if you need meshes, textures, characters, animations that you just want to drag and drop into your games or your projects, then take a look at the [[Unity]] Asset Store.
 >
 > **[0:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=23)** It's an online marketplace full of add ons and assets.
 >
@@ -2539,7 +2522,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=63)** But some of the assets are commercial, meaning that you need to buy them to use them.
 >
-> **[1:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=69)** I'm going to search for an example asset here, I'm going to be importing a mesh.
+> **[1:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=69)** I'm going to search for an example asset here, I'm going to be importing a [[Mesh]].
 >
 > **[1:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=74)** I'll search the Asset Store to find that mesh, and then import that into my project.
 >
@@ -2549,7 +2532,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=88)** Now, this isn't necessarily related to cars at all, it's just a promotional product.
 >
-> **[1:33](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=93)** But if you scroll down a little bit further, you'll see that we get a selection of products that we can download.
+> **[1:33](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=93)** But if you scroll down a little bit further, you'll see that we get a selection of [[Microsoft Products|products]] that we can download.
 >
 > **[1:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=100)** You'll see that some have a price tag, and some are completely free of charge.
 >
@@ -2623,7 +2606,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=347)** And I can simply create duplicates, as many as I need, and begin to set dress and build up the level.
 >
-> **[5:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=355)** We can still use the vertex snapping tools that we've seen before too, if I wanted to extend the road section.
+> **[5:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=355)** We can still use the [[Vertex]] snapping tools that we've seen before too, if I wanted to extend the road section.
 >
 > **[6:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/asset-store?u=76281980&t=361)** I can select the road piece here, duplicate with Ctrl + D, move the road apart, and then use the vertex snapping by holding the V key, clicking the edges to vertex snap that into place and to create a new section of the road.
 >
@@ -2633,7 +2616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (12), [[Search]] (4), [[Mesh]] (3), product (3), [[Vertex]] (3)
+> **Frameworks & Libraries:** [[Unity]] (12), [[Mesh]] (3), [[Vertex]] (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** scroll down (3), select the (3), switch to (1)
 > **CLI Commands:** find (1), make (1), snap (1)
 > **Prerequisites:** you'll need (2)
@@ -2642,12 +2625,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Importing assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980)
+#### [Importing assets](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=0)** - Over the previous two movies, we've seen two different ways of importing content into the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=0)** - Over the previous two movies, we've seen two different ways of importing content into the [[Unity]] engine.
 >
 > **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=7)** The first method is by using the package manager.
 >
@@ -2661,7 +2643,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=42)** But of course the third method that we haven't seen is how to import your own custom created content.
 >
-> **[0:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=49)** Let's imagine that you've been making your own mesh in your own modeling software and you want to bring that into unity.
+> **[0:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=49)** Let's imagine that you've been making your own [[Mesh]] in your own modeling software and you want to bring that into unity.
 >
 > **[0:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=56)** We're going to see how we can import our own meshes, and our own textures right here in unity.
 >
@@ -2685,7 +2667,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=109)** You can create FBX files using 3D modeling programs like Meyer, 3D S max, and the amazing blender which is available completely free from [blender.org](https://blender.org).
 >
-> **[2:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=120)** If you want to check out the details of how to use 3D modeling software, do check out the range of learning content we have here at LinkedIn learning.
+> **[2:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=120)** If you want to check out the details of how to use 3D modeling software, do check out the range of learning content we have here at [[LinkedIn]] learning.
 >
 > **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=128)** So I'm going to be importing these two custom created meshes.
 >
@@ -2723,7 +2705,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=257)** That may not always be how you want that mesh to look but just be aware that that option is there.
 >
-> **[4:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=263)** You can just grab a texture drag and drop it onto an object and unity does the rest.
+> **[4:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=263)** You can just grab a texture drag and drop it onto an object and unity does the [[Representational State Transfer (REST)|rest]].
 >
 > **[4:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/importing-assets-2?u=76281980&t=268)** So this is a really easy way in which you can bring in your own textures your own materials, just by dragging and dropping them to the project panel and then later applying them to the scene.
 >
@@ -2731,7 +2713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (11), [[Mesh]] (10), [[LinkedIn]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Unity]] (11), [[Mesh]] (10), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fbx (4), png (2)
 > **Definitions:** is a  (3), is an  (2)
 > **UI Navigation:** drag and drop (3)
@@ -2740,8 +2722,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 
-#### Folders and organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980)
+#### [Folders and organization](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2753,7 +2734,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=14)** One critical skill for any games developer is that as you're working in your projects you need to be organized.
 >
-> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=21)** And to demonstrate organization in Unity and some tips and techniques for being organized I've opened up the FPS Microgame project which as you'll recall we created way back at the beginning of this course.
+> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=21)** And to demonstrate organization in [[Unity]] and some tips and techniques for being organized I've opened up the FPS Microgame project which as you'll recall we created way back at the beginning of this course.
 >
 > **[0:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=37)** So the Microgame FPS project contains a scene with a game inside it's a first person to shooter game.
 >
@@ -2795,11 +2776,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=205)** You can simply reorganize things by grabbing, for example this file and dragging and dropping it into another folder.
 >
-> **[3:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=212)** And Unity is smart enough to keep track of all the different places you might be reorganizing things so it's totally fine to take a mesh or a texture and to drag and drop that into a different folder it's not going to break your game.
+> **[3:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=212)** And Unity is smart enough to keep track of all the different places you might be reorganizing things so it's totally fine to take a [[Mesh]] or a texture and to drag and drop that into a different folder it's not going to break your game.
 >
 > **[3:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=228)** But in addition to simply housing things inside folders let's have a look at a different example and some additional features that Unity offers us for keeping track of our items.
 >
-> **[3:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=239)** So I'm going to move to the mod assets folder that we've seen before go to the model's folder and you know, let's take a look at food props anything with the word food in it is good by me so I'm going to choose food.
+> **[3:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=239)** So I'm going to move to the mod assets folder that we've seen before go to the model's folder and you know, let's take a look at food props anything with the [[Microsoft Word|word]] food in it is good by me so I'm going to choose food.
 >
 > **[4:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/folders-and-organization-2?u=76281980&t=252)** And we have a lot of delectable treats in this folder, cookies, doughnuts, gummy bears, licorice and of course the amazing lollypop.
 >
@@ -2895,7 +2876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Unity]] (8), game (7), [[Mesh]] (6), [[Microsoft Word|Word]] (5)
+> **Frameworks & Libraries:** [[Unity]] (8), [[Mesh]] (6), [[Microsoft Word|Word]] (5)
 > **CLI Commands:** find (12), make (1)
 > **UI Navigation:** drag and drop (3), select the (3), go to (1), click on (1)
 > **Analogies:** for example (5)
@@ -2909,12 +2890,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
+#### [Creating a project](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980&t=0)** - [Instructor] In this chapter of the course, we're going to be creating a complete Unity project together from the start to the end.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980&t=0)** - [Instructor] In this chapter of the course, we're going to be creating a complete [[Unity]] project together from the start to the end.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980&t=9)** It's going to be a simple first person exploration game.
 >
@@ -2996,7 +2976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (7), game (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Unity]] (7)
 > **Cross-References:** earlier in (1), in the next (1)
 > **UI Navigation:** dropdown (1), scroll down (1)
 > **Prerequisites:** install (2)
@@ -3005,14 +2985,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980)
+#### [Adding controls](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=0)** - [Instructor] In the previous movie, we created our universal render pipeline project for our first person exploration game.
 >
-> **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=8)** And it's brought us into unity with this completely empty scene.
+> **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=8)** And it's brought us into [[Unity]] with this completely empty scene.
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=12)** Not quite completely empty because if you check out the hierarchy panel, you can see we've got a camera and we have a directional light, both of which are going to end up getting removed, only not yet.
 >
@@ -3086,7 +3065,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=246)** It turns out that this is a bug with pro builder that applies to unity 2020.1.5, which is the version I'm using.
 >
-> **[4:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=254)** And you can tell that this is associated with pro builder because when I select the cube, you can see PB prefix on the front of the mesh, meaning pro builder.
+> **[4:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=254)** And you can tell that this is associated with pro builder because when I select the cube, you can see PB prefix on the front of the [[Mesh]], meaning pro builder.
 >
 > **[4:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-controls?u=76281980&t=264)** Now this cube was automatically generated as soon as I imported the first person control asset.
 >
@@ -3154,7 +3133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), game (6), feature (1), hit (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Unity]] (8), [[Mesh]] (1)
 > **UI Navigation:** drag and drop (2), click on (1), select the (1), go to (1), switch to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** fps (1), aio (1)
@@ -3163,8 +3142,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a scene
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980)
+#### [Building a scene](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3200,7 +3178,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980&t=102)** So I'm going to select flip normals, when I do that, you can see we've got floors, walls, all of these already connected.
 >
-> **[1:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980&t=109)** Now we don't see the walls or the ceilings that's nearest to us, that's not because they're not there, it's just because Unity doesn't show them to us.
+> **[1:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980&t=109)** Now we don't see the walls or the ceilings that's nearest to us, that's not because they're not there, it's just because [[Unity]] doesn't show them to us.
 >
 > **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-a-scene?u=76281980&t=118)** If I rotate my view around you can see that actually they are there, they appear completely black and again, that's not an aberration, it's simply because they're facing away from the directional light in the scene.
 >
@@ -3324,15 +3302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Unity]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** select the (6), switch to (2), drag and drop (1), click on (1), double-click (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Testing and prefabs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980)
+#### [Testing and prefabs](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3354,7 +3331,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=44)** That means the colliders for these meshes are working.
 >
-> **[0:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=47)** Unity is recognizing these objects as solid objects and that's great.
+> **[0:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=47)** [[Unity]] is recognizing these objects as solid objects and that's great.
 >
 > **[0:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=52)** I can walk through this room here along the corridor I made.
 >
@@ -3522,7 +3499,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=475)** So I could add more of these balls inside of the environment, drag and drop them.
 >
-> **[8:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=480)** And the great thing about all of these balls is if I select one of them and I grab, for example the matte red material, that's assigned to the mesh renderer by left clicking on it.
+> **[8:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=480)** And the great thing about all of these balls is if I select one of them and I grab, for example the matte red material, that's assigned to the [[Mesh]] renderer by left clicking on it.
 >
 > **[8:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/testing-and-prefabs?u=76281980&t=491)** I can grab the matte red, for example and begin to change the color of these and the changes propagate to all of the balls simultaneously.
 >
@@ -3554,7 +3531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), next (2), product (1), game (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[Mesh]] (1)
 > **UI Navigation:** drag and drop (5), select the (2), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -3562,12 +3539,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Post-processing with volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/post-processing-with-volumes?u=76281980)
+#### [Post-processing with volumes](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/post-processing-with-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/post-processing-with-volumes?u=76281980&t=0)** - [Instructor] In this movie we're going to enhance the visual appeal of our environment by using a volume component, which is part of Unity's post-processing system.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/post-processing-with-volumes?u=76281980&t=0)** - [Instructor] In this movie we're going to enhance the visual appeal of our environment by using a volume component, which is part of [[Unity]]'s post-processing system.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/post-processing-with-volumes?u=76281980&t=11)** It allows us to enhance the renders taken by our scene camera on the first person controller.
 >
@@ -3681,7 +3657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Unity]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **UI Navigation:** select the (4), switch to (2), toggle (1)
 > **Versions:** 0.3 (1), 1.6 (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -3690,12 +3666,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980)
+#### [Building and deployment](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=0)** - [Instructor] When you finish creating your games, your experiences, your visualizations here inside Unity whether you're using one scene, 10 scenes or 10,000 scenes, there is going to come a time when you want to finalize and build your project.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=0)** - [Instructor] When you finish creating your games, your experiences, your visualizations here inside [[Unity]] whether you're using one scene, 10 scenes or 10,000 scenes, there is going to come a time when you want to finalize and build your project.
 >
 > **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=15)** And in the world of Unity building a project means wrapping it up into a complete standalone package that you could upload to an asset store that you could hand to your friend or a colleague, and they can run that experience without needing to have Unity installed on their computer and without their needing to know a thing about how Unity works.
 >
@@ -3747,9 +3722,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=144)** In this case, I'm going to be building a version for my system here, which is a Mac computer.
 >
-> **[2:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=150)** So I want to select the top option, PC Mac and Linux standalone and from the target platform option, I want to make sure on this drop down list, it says Mac OSX.
+> **[2:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=150)** So I want to select the top option, PC Mac and [[Linux]] standalone and from the target platform option, I want to make sure on this drop down list, it says Mac OSX.
 >
-> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=161)** If you choose a different platform, for example, if you choose the Android platform, it may say to you that you need to install with Unity hub.
+> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=161)** If you choose a different platform, for example, if you choose the [[Android]] platform, it may say to you that you need to install with Unity hub.
 >
 > **[2:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=169)** This simply means that way back when you installed Unity you did not install the Android module.
 >
@@ -3781,7 +3756,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=256)** And when I choose save Unity will process through our project and build the final game that we can run as an independent project.
 >
-> **[4:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=264)** Now, when the build process is completed Unity will open a Windows Explorer or Mac finder window and present you with the final build which where I'm hovering my cursor which you can double click to launch as a standalone application here.
+> **[4:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=264)** Now, when the build process is completed Unity will open a [[Windows]] Explorer or Mac finder window and present you with the final build which where I'm hovering my cursor which you can double click to launch as a standalone application here.
 >
 > **[4:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=280)** So now this is my game running just as before but this time it's running as a standalone application.
 >
@@ -3797,7 +3772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (11), game (9), application (4), [[Android]] (2), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (11), [[Android]] (2), [[Linux]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (2), go to (1), drag and drop (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -3811,18 +3786,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on reaching the end of this course exploring the fundamentals of using the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on reaching the end of this course exploring the fundamentals of using the [[Unity]] engine.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=8)** In reaching this far, you've seen the basics on how to create projects in Unity and how to manage the assets imported into those projects.
 >
 > **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=17)** We've seen how to import assets from a range of different sources, including the Package Manager, the Asset Store, and also our own custom assets made for meshes and textures.
 >
-> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=29)** We've seen how to compose those assets into a scene and how to add functionality like first-person controls.
+> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=29)** We've seen how to [[Jetpack Compose|compose]] those assets into a scene and how to add functionality like first-person controls.
 >
 > **[0:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=37)** And we've seen the full workflow for building a project from start to end.
 >
@@ -3834,13 +3808,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=77)** It's been a delight having you here with me and I look forward to seeing you again in the future very, very soon.
 >
-> **[1:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=84)** I've been Alan Thorn, this has been presented by LinkedIn Learning.
+> **[1:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=84)** I've been Alan Thorn, this has been presented by [[LinkedIn]] Learning.
 >
 > **[1:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980&t=88)** Thank you very much.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), [[Jetpack Compose|Compose]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Jetpack Compose|Compose]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 

@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,8 +90,7 @@ created: 2026-05-02
 >
 > **Speakers:** - hello (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-you-should-know-22863228?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-you-should-know-22863228?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,17 +98,16 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-you-should-know-22863228?u=76281980&t=11)** While we won't be writing code, we will be walking through some concepts around object oriented programming, API design and general code maintenance.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-you-should-know-22863228?u=76281980&t=21)** Finally, you should have some experience with version control to help keep your project safe before attempting to perform any sort of refactoring on your own after the course.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-you-should-know-22863228?u=76281980&t=21)** Finally, you should have some experience with [[Version Control]] to help keep your project safe before attempting to perform any sort of refactoring on your own after the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), api (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1)
 > **Env Vars:** ide (1), api (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is refactoring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-is-refactoring-22862986?u=76281980)
+#### [What is refactoring?](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/what-is-refactoring-22862986?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +131,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
@@ -145,8 +141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a baseline
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
+#### [Create a baseline](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,8 +179,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incremental steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980)
+#### [Incremental steps](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +209,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980&t=88)** The next thing is to automate as much testing as possible.
 >
-> **[1:33](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980&t=93)** There are lots of ways you can do this, unit testing is just one of them.
+> **[1:33](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980&t=93)** There are lots of ways you can do this, [[Unit Testing]] is just one of them.
 >
 > **[1:37](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/incremental-steps-22862984?u=76281980&t=97)** You can also write automated scripts that go through the program and act out certain user events in order to see what the results are.
 >
@@ -251,13 +245,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Unit Testing]] (2), application (2)
+> **Frameworks & Libraries:** [[Unit Testing]] (2)
 > **CLI Commands:** make (5)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove unused code
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980)
+#### [Remove unused code](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980&t=16)** Over time, a project collects technical debt.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980&t=20)** Technical debt is a concept in software development that reflects the implied cost of additional work or rework caused by choosing an easy solution now instead of using a better approach that would take longer.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980&t=20)** Technical debt is a concept in [[Software Development]] that reflects the implied cost of additional work or rework caused by choosing an easy solution now instead of using a better approach that would take longer.
 >
 > **[0:33](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/remove-unused-code-22865180?u=76281980&t=33)** Refactoring allows you to remove unused parts of the code base and keep the core code clean and easier to maintain.
 >
@@ -310,8 +303,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improve performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/improve-performance-22862985?u=76281980)
+#### [Improve performance](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/improve-performance-22862985?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +413,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), next (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** roi (1)
@@ -434,20 +425,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
+#### [Use version control](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=0)** - [Instructor] Whenever it comes to refactoring, I can't stress this enough.
 >
-> **[0:04](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=4)** Make sure you use version control.
+> **[0:04](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=4)** Make sure you use [[Version Control]].
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=6)** Before you attempt to do any kind of refactoring on your own code, make sure that it's backed up and under version control.
 >
-> **[0:14](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=14)** Now, when creating C# projects, there's usually two forms of version control you'll find.
+> **[0:14](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=14)** Now, when creating C# projects, there's usually two [[Forms]] of version control you'll find.
 >
-> **[0:18](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=18)** Either Team Foundation Server or Git.
+> **[0:18](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=18)** Either Team Foundation Server or [[Git]].
 >
 > **[0:22](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980&t=22)** I prefer Git because it's what I've used on my own projects and it's what I've used for years now.
 >
@@ -479,13 +469,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (2), [[Forms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (2), [[Forms]] (1)
 > **CLI Commands:** make (2), find (2), git (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refactor in branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/refactor-in-branches-22865179?u=76281980)
+#### [Refactor in branches](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/refactor-in-branches-22865179?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,13 +516,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980)
+#### [Tools for refactoring](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980&t=4)** Depending on which editor you're using, you'll have several options for refactoring your code automatically, or you can do it manually by hand.
 >
-> **[0:13](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980&t=13)** Each of these examples will work in Visual Studio on Mac or on Windows.
+> **[0:13](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980&t=13)** Each of these examples will work in Visual Studio on Mac or on [[Windows]].
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/tools-for-refactoring-22866155?u=76281980&t=18)** The first tool is Rename.
 >
@@ -605,7 +592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (1), api (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** ide (3), api (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
@@ -617,8 +604,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify problem areas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
+#### [Identify problem areas](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +654,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), application (1), data (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
@@ -676,9 +661,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** before you begin (1)
+> **Speakers:** - [instructor] (1)
 
-#### Common optimizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/common-optimizations-22869079?u=76281980)
+#### [Common optimizations](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/common-optimizations-22869079?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,15 +729,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Programming]] (1), next (1), hit (1), data (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.5 (1)
 > **Best Practices:** avoid doing (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inlining code
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980)
+#### [Inlining code](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +773,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=125)** Normally, this is negligible.
 >
-> **[2:08](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=128)** In object-oriented programming, it's best to have reusable code logic.
+> **[2:08](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=128)** In [[Object-Oriented Programming (OOP)|object-oriented programming]], it's best to have reusable code logic.
 >
 > **[2:12](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=132)** But for performance, you may need to manually inline code like this.
 >
@@ -804,7 +787,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=160)** Since that type of calculation requires division and modulus, it's a very expensive calculation.
 >
-> **[2:46](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=166)** And in game development, it's a common thing that I use throughout the tile map, all the way to rendering sprites.
+> **[2:46](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=166)** And in [[Game Development]], it's a common thing that I use throughout the tile map, all the way to rendering sprites.
 >
 > **[2:54](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/inlining-code-22865178?u=76281980&t=174)** Because I use it everywhere, I've made that method static and I use it as a utility.
 >
@@ -824,8 +807,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code readability
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
+#### [Code readability](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,20 +853,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Extract methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980)
+#### [Extract methods](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=0)** - [Instructor] As I've mentioned earlier, extracting methods is a very powerful tool when it comes to refactoring your code base.
 >
-> **[0:07](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=7)** One of the strengths of object-oriented programming is being able to extend classes and create new logic by overriding methods with new code.
+> **[0:07](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=7)** One of the strengths of [[Object-Oriented Programming (OOP)|object-oriented programming]] is being able to extend classes and create new logic by overriding methods with new code.
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=17)** Here are some tips for writing smaller methods.
 >
@@ -892,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=24)** Two, think ahead of how a class could be extended and what methods should be marked as virtual.
 >
-> **[0:31](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=31)** Three, balance the trade-off of performance with scalability.
+> **[0:31](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=31)** Three, balance the trade-off of performance with [[Scalability]].
 >
 > **[0:36](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/extract-methods-22866156?u=76281980&t=36)** And four, not every problem requires a hammer.
 >
@@ -950,14 +930,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Scalability]] (1), business (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Scalability]] (1)
 > **CLI Commands:** cat (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create clean APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980)
+#### [Create clean APIs](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1002,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980&t=168)** Here's a simple class called Workspace.
 >
-> **[2:51](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980&t=171)** The Workspace is designed to create and update a config file that's used by the rest of our application.
+> **[2:51](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980&t=171)** The Workspace is designed to create and update a config file that's used by the [[Representational State Transfer (REST)|rest]] of our application.
 >
 > **[2:58](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-clean-apis-22866157?u=76281980&t=178)** At the top of our Workspace class, we have a field where we get a reference to the file system.
 >
@@ -1059,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), web (2), business (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1072,8 +1051,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)
 
 > [!transcript]- Transcript
 >

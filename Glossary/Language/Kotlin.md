@@ -7,17 +7,17 @@ linkedin_topics:
   - Software Development
   - Mobile Development
   - DevOps
+  - Data Science
   - Web Development
-  - Cloud Computing
 tags:
   - glossary
   - type/language
   - topic/software-development
   - topic/mobile-development
   - topic/devops
+  - topic/data-science
   - topic/web-development
-  - topic/cloud-computing
-course_count: 15
+course_count: 16
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Kotlin
 
-> **Type:** Language | **Courses:** 15 | **Topics:** [[Software Development]], [[Mobile Development]], [[DevOps]], [[Web Development]], [[Cloud Computing]]
+> **Type:** Language | **Courses:** 16 | **Topics:** [[Software Development]], [[Mobile Development]], [[DevOps]], [[Data Science]], [[Web Development]]
 
 ## Courses
 
@@ -37,15 +37,16 @@ created: 2026-05-02
 6. [[Continuous Integration- Tools]] — 6 mentions
 7. [[Programming Foundations Fundamentals]] — 2 mentions
 8. [[Scala Essential Training]] — 1 mentions
-9. [[Building Monorepos On Github]] — 1 mentions
-10. [[Continuous Delivery for Cloud Native Java Apps]] — 1 mentions
+9. [[Python for Health Sciences and Healthcare]] — 1 mentions
+10. [[Building Monorepos On Github]] — 1 mentions
 
-> [!note]- See all 15 courses
-> 11. [[Programming with the Gemini Flash API]] — 1 mentions
-> 12. [[Developer Career Paths and Certifications]] — 1 mentions
-> 13. [[Spring 6 Design Patterns]] — 1 mentions
-> 14. [[Spring Framework in Depth]] — 1 mentions
-> 15. [[Advanced Spring- Effective Integration Testing with Spring Boot]] — 1 mentions
+> [!note]- See all 16 courses
+> 11. [[Continuous Delivery for Cloud Native Java Apps]] — 1 mentions
+> 12. [[Programming with the Gemini Flash API]] — 1 mentions
+> 13. [[Developer Career Paths and Certifications]] — 1 mentions
+> 14. [[Spring 6 Design Patterns]] — 1 mentions
+> 15. [[Spring Framework in Depth]] — 1 mentions
+> 16. [[Advanced Spring- Effective Integration Testing with Spring Boot]] — 1 mentions
 
 ## Learning Paths
 

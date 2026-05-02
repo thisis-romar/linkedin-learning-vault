@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing data in transit
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
+#### [Securing data in transit](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980&t=56)** Hello, my name is Lisa Bock and I'm a security ambassador.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980&t=60)** I am super excited to bring you this series on CCNA network security and this section on VPN technology so that you can improve your skills and configuration and maintenance of Cisco devices.
+> **[1:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980&t=60)** I am super excited to bring you this series on CCNA [[Network Security]] and this section on VPN technology so that you can improve your skills and configuration and maintenance of Cisco devices.
 >
 > **[1:15](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980&t=75)** Are you ready?
 >
@@ -113,18 +112,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (3), [[Security]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** vpn (3), sec (2), ssh (1), ssl (1), ccna (1)
 > **CLI Commands:** ssh (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [lisa] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-resources?u=76281980&t=0)** - [Narrator] This course is an intermediate level course for network administrators, engineers, managers, students and anyone with an interest in learning more about Cisco Network Security.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-resources?u=76281980&t=0)** - [Narrator] This course is an intermediate level course for network administrators, engineers, managers, students and anyone with an interest in learning more about Cisco [[Network Security]].
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-resources?u=76281980&t=14)** Participants should have a solid knowledge of networking fundamentals, devices, cables, along with various topologies, and have completed CCNA training prior to starting this course.
 >
@@ -154,12 +152,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Packet Tracer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980)
+#### [Using Packet Tracer](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=1)** - [Instructor] During this course, I'll demonstrate some of the concepts using Packet Tracer, an application made available through Cisco Networking Academy.
+> **[0:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=1)** - [Instructor] During this course, I'll demonstrate some of the concepts using Packet Tracer, an application made available through [[Cisco Networking]] Academy.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=11)** Packet Tracer lets us configure common networking equipment.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=62)** But there's lots you can do to personalize your own interface.
 >
-> **[1:07](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=67)** View, where you can zoom in or zoom out, or go to specific views.
+> **[1:07](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=67)** View, where you can [[Zoom]] in or zoom out, or go to specific views.
 >
 > **[1:13](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=73)** Tools.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=176)** And then once done, I'll go back to the Select tool, and now we'll go over to the lower right-hand corner.
 >
-> **[3:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=182)** Now on the right-hand side, we'll see the Realtime and Simulation bar.
+> **[3:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=182)** Now on the right-hand side, we'll see the Realtime and [[Simulation]] bar.
 >
 > **[3:07](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=187)** Now, I'll most likely be in Realtime, but you can go into Simulation if you want to.
 >
@@ -251,7 +248,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=233)** And there are different categories.
 >
-> **[3:56](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=236)** I'll select Cybersecurity, and then I'll go to AAA, and then I'll select Simple Authentication, and then I'll open it.
+> **[3:56](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=236)** I'll select [[Cybersecurity]], and then I'll go to AAA, and then I'll select Simple Authentication, and then I'll open it.
 >
 > **[4:06](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/obtaining-packet-tracer?u=76281980&t=246)** Now, once it's open, you can move the instructions over.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), application (2), [[Cisco Networking]] (2), [[Zoom]] (2), hit (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Cisco Networking]] (2), [[Zoom]] (2), [[Cybersecurity]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** for example (2), it's like (1)
 > **CLI Commands:** make (1), find (1)
@@ -274,8 +271,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** configure (1)
 
-#### Enrolling in Cisco Network Academy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980)
+#### [Enrolling in Cisco Network Academy](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980&t=60)** Let's take a look.
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980&t=62)** I'll select explore, and then I'll scroll down, where we can see many subject areas, such as cybersecurity, networking, programming, and information technology, but here's the one I want you to select, Cisco Packet Tracer, and here is where we'll see a few self-paced courses, and I'll select this one.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980&t=62)** I'll select explore, and then I'll scroll down, where we can see many subject areas, such as [[Cybersecurity]], networking, programming, and information technology, but here's the one I want you to select, Cisco Packet Tracer, and here is where we'll see a few self-paced courses, and I'll select this one.
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/enrolling-in-cisco-network-academy?u=76281980&t=85)** Now, to get your own copy of Packet Tracer, you'll need to sign up, and then you'll need to enroll in one of the self-paced courses.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** ccna (3)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
@@ -315,8 +311,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing a VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
+#### [Describing a VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,13 +319,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=5)** In most cases, we must transport data over an insecure network such as the internet.
 >
-> **[0:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=12)** In this segment, we'll learn how a virtual private network can secure communications and provide confidentiality, authentication, and integrity.
+> **[0:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=12)** In this segment, we'll learn how a [[Virtual Private Network (VPN)|virtual private network]] can secure communications and provide confidentiality, authentication, and integrity.
 >
-> **[0:23](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=23)** We access resources in the cloud or remote office, on a mobile device or laptop, in an airport, or even another country.
+> **[0:23](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=23)** We access resources in the cloud or remote [[Microsoft Office|office]], on a mobile device or laptop, in an airport, or even another country.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=35)** As a result, many businesses and consumers use virtual private network technology to transmit data.
 >
-> **[0:43](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=43)** The history of VPN began in the late 1990s when a software engineer at Microsoft developed a secure way for a client to connect to a server.
+> **[0:43](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=43)** The history of VPN began in the late 1990s when a software engineer at [[Microsoft]] developed a secure way for a client to connect to a server.
 >
 > **[0:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=54)** The engineer developed Point-to-Point Tunneling Protocol, which is the forerunner of today's VPNs.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=69)** However, during that time, only businesses were using VPN technology.
 >
-> **[1:14](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=74)** Eventually, home users started to embrace the idea of protecting their data, and e-commerce sites began to use SSL VPNs to secure credit card transactions.
+> **[1:14](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=74)** Eventually, home users started to embrace the idea of protecting their data, and [[E-Commerce]] sites began to use SSL VPNs to secure credit card transactions.
 >
 > **[1:27](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980&t=87)** Concurrently, businesses expanded the use of VPN technology to protect communications of the growing number of remote workers.
 >
@@ -364,15 +359,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (10), data (4), [[Virtual Private Network (VPN)|Virtual private network]] (3), [[Microsoft]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), [[E-Commerce]] (1)
 > **Env Vars:** vpn (10), ssl (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating types of VPNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980)
+#### [Evaluating types of VPNs](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,13 +400,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=123)** SSL/TLS VPNs provide encryption and reliability for the upper layers of the OSI model.
 >
-> **[2:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=132)** We use an SSL/TLS VPN for transmitting sensitive information, such as banking or credit card information to a server using HTTPS..
+> **[2:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=132)** We use an SSL/TLS VPN for transmitting sensitive information, such as [[Banking]] or credit card information to a server using HTTPS..
 >
 > **[2:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=144)** Businesses will most likely use an SSL certificate to reassure clients.
 >
 > **[2:30](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=150)** Unlike SSH, it doesn't require any authentication and typically uses port 443 to make a connection.
 >
-> **[2:39](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=159)** Multi-protocol label switching includes various methods for creating VPNs, using MPLS, and it provides a flexible way to route traffic through an MPLS network.
+> **[2:39](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=159)** Multi-protocol label switching includes various methods for creating VPNs, using [[Multiprotocol Label Switching (MPLS)|MPLS]], and it provides a flexible way to route traffic through an MPLS network.
 >
 > **[2:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-types-of-vpns?u=76281980&t=174)** Now, there are other solutions as well.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (10), data (3), [[Security]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), application (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Banking]] (1)
 > **Env Vars:** vpn (10), ssl (6), tls (5), osi (2), https (2)
 > **Ports:** port 22 (2), port 443 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -441,8 +435,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Prerequisites:** install (1)
 
-#### Recognizing VPN topologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980)
+#### [Recognizing VPN topologies](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=26)** A classic concept of a VPN is a remote access VPN, which allows users to have the ability to securely access internal resources.
 >
-> **[0:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=37)** When using a remote access VPN, users must be part of the corporate network and the network administrator invites mobile and small office/home office employees to join by setting up a VPN so they can access the corporate network anytime, anywhere.
+> **[0:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=37)** When using a remote access VPN, users must be part of the corporate network and the network administrator invites mobile and small [[Microsoft Office|office]]/home office employees to join by setting up a VPN so they can access the corporate network anytime, anywhere.
 >
 > **[0:56](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=56)** And intranet is either a confined private network within the LAN, or it may be globally interconnected LANs that use WAN technologies to communicate.
 >
@@ -472,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=111)** With business-to-business communication, we see that Scorpion Paint, Silver Star Leather, and Fireball Engines access resources using an extranet.
 >
-> **[2:04](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=124)** Physical topologies include hub and spoke, mesh, and hybrid configuration.
+> **[2:04](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=124)** Physical topologies include hub and spoke, [[Mesh]], and hybrid configuration.
 >
 > **[2:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=131)** A common configuration is the hub and spoke topology.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=208)** Large multinational companies may have a hybrid formation that combines hub and spoke with a partial-mesh topology.
 >
-> **[3:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=217)** Here we see Boston and Paris using hub and spoke topology, and the rest of the network is using a partial-mesh topology.
+> **[3:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=217)** Here we see Boston and Paris using hub and spoke topology, and the [[Representational State Transfer (REST)|rest]] of the network is using a partial-mesh topology.
 >
 > **[3:47](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/recognizing-vpn-topologies?u=76281980&t=227)** A VPN topology defines the way we configure devices to support the VPN.
 >
@@ -504,15 +497,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (15), [[Mesh]] (9), business (5), [[Microsoft Office|Office]] (4), lan (1)
+> **Frameworks & Libraries:** [[Mesh]] (9), [[Microsoft Office|Office]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vpn (15), lan (1), wan (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing the main types of VPNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980)
+#### [Comparing the main types of VPNs](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,13 +528,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=77)** This includes checking authentication and authorization conditions along with any accounting policies.
 >
-> **[1:25](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=85)** Health policies assess the health of a device prior to joining the network, includes the status of a client's Windows updates and possible malware.
+> **[1:25](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=85)** Health policies assess the health of a device prior to joining the network, includes the status of a client's [[Windows]] updates and possible malware.
 >
 > **[1:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=97)** Network policies include the set of conditions, constraints, and settings that allow clients to join according to parameters, such as time of day, geolocation, and how long they can be on the network.
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=113)** A site-to-site VPN connects entire networks.
 >
-> **[1:57](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=117)** For example, a hub and spoke topology, where the hub is the central office and the remote offices are the spokes.
+> **[1:57](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=117)** For example, a hub and spoke topology, where the hub is the central [[Microsoft Office|office]] and the remote offices are the spokes.
 >
 > **[2:05](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-the-main-types-of-vpns?u=76281980&t=125)** When using a site-to-site VPN, the individual hosts do not have client software.
 >
@@ -570,15 +562,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (24), [[Security]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** vpn (24), ssl (4), tcp (1), tls (1), asa (1)
 > **Analogies:** such as (3), for example (1)
 > **Prerequisites:** configure (2), install (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dissecting VPN components
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980)
+#### [Dissecting VPN components](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=10)** Today, the market has multiple VPN choices and the networking team must ensure the best possible solution for the organization.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=20)** Now, there are a number of key components to ensure an effective VPN and those include the VPN platform, either hardware or software, and the cryptographic techniques that ensure confidentiality, integrity and authentication and key exchange so that both parties have the same shared key.
+> **[0:20](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=20)** Now, there are a number of key components to ensure an effective VPN and those include the VPN platform, either [[Hardware]] or software, and the cryptographic techniques that ensure confidentiality, integrity and authentication and key exchange so that both parties have the same shared key.
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=41)** One of the key components is the platform and you have a choice whether to select a hardware or software VPN.
 >
@@ -604,9 +595,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=106)** At the heart of a VPN are the cryptographic techniques that ensure confidentiality, integrity, and authentication.
 >
-> **[1:55](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=115)** For data confidentiality, we use symmetric encryption algorithms that include AES and AES cipher block chaining mode.
+> **[1:55](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=115)** For data confidentiality, we use symmetric encryption [[Algorithms]] that include AES and AES cipher block chaining mode.
 >
-> **[2:05](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=125)** For data integrity, we use hash algorithms that include SHA-224 and SHA-256.
+> **[2:05](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=125)** For [[Data Integrity]], we use hash algorithms that include SHA-224 and SHA-256.
 >
 > **[2:13](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=133)** And for data authentication, we can either use a pre shared key or the asymmetric encryption algorithm RSA.
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=165)** Whatever solution you decide on, make sure the platform is in line with the most secure cryptographic algorithms available.
 >
-> **[2:53](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=173)** And I'm here at this website where we can learn more about next generation cryptography.
+> **[2:53](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=173)** And I'm here at this website where we can learn more about next generation [[Cryptography]].
 >
 > **[2:59](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/dissecting-vpn-components?u=76281980&t=179)** And now if we drill down the document, we can see some recommendations for cryptographic algorithms.
 >
@@ -630,19 +621,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (13), [[Hardware]] (5), data (4), [[Algorithms]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Algorithms]] (4), [[Data Integrity]] (1), [[Cryptography]] (1)
 > **Env Vars:** vpn (13), aes (2), sha (2), rsa (2), ike (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering the Cisco ASA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980)
+#### [Discovering the Cisco ASA](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=0)** - Throughout the CCNA Network Security coursework we reference the different types of equipment network administrators can use to secure their organization.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=0)** - Throughout the CCNA [[Network Security]] coursework we reference the different types of equipment network administrators can use to secure their organization.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=11)** One of the devices is the Cisco Adaptive Security Appliance.
 >
@@ -682,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=136)** I'll go to File and Open Samples.
 >
-> **[2:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=141)** And here you can see a list of several folders including Networking, (mouse clicking) Cybersecurity, (mouse clicking) and programming among others.
+> **[2:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=141)** And here you can see a list of several folders including Networking, (mouse clicking) [[Cybersecurity]], (mouse clicking) and programming among others.
 >
 > **[2:31](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/discovering-the-cisco-asa?u=76281980&t=151)** And I encourage you to take a look at those samples as they're a brief way to get familiar with a specific topic.
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (1), [[Security]] (1), vpn (1), cloud (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** asa (9), ccna (1), vpn (1)
 > **Non-Speech:** (mouse clicking) (3)
 > **UI Navigation:** go to (2)
@@ -705,12 +695,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 
-#### Using the Cisco ASDM
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980)
+#### [Using the Cisco ASDM](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=0)** - [Instructor] When working through the Cisco network security curriculum, many students use Packet Tracer, which is simulation software to learn basic device configuration.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=0)** - [Instructor] When working through the Cisco [[Network Security]] curriculum, many students use Packet Tracer, which is [[Simulation Software]] to learn basic device configuration.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=12)** The ASA on Packet Tracer is a simulated device and supports a limited number of features.
 >
@@ -732,7 +721,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=88)** The View menu lets you display parts of the user interface where you can customize the layout of the dashboard.
 >
-> **[1:36](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=96)** The Windows menu allows you to move between the different windows in the Adaptive Security Device Manager.
+> **[1:36](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=96)** The [[Windows]] menu allows you to move between the different windows in the Adaptive Security Device Manager.
 >
 > **[1:43](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-cisco-asdm?u=76281980&t=103)** And the Tools menu allows you to work with a number of different tools, such as command-line interface, ping, traceroute, and also Packet Tracer, which is a function that allows you to trace a packet from a source address and interface to a destination.
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Search]] (2), [[Windows]] (2), [[Network Security]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Network Security]] (1), [[Simulation Software]] (1)
 > **Env Vars:** asa (6), vpn (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4), similar to (1)
@@ -778,8 +767,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing IPsec
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
+#### [Summarizing IPsec](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,13 +779,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=26)** If we take a look at our diagram on security tools in the TCP/IP stack, we see that IPsec provides security at the network layer and can protect a much wider range of applications than SSL.
 >
-> **[0:41](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=41)** IPsec has four main components: the security protocols, key management, security associations, and the algorithms.
+> **[0:41](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=41)** IPsec has four main components: the security protocols, key management, security associations, and the [[Algorithms]].
 >
 > **[0:52](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=52)** We'll start with the security protocols.
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=55)** The security protocols include the authentication header.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=60)** Now this provides support for data integrity and authentication of IP packets.
+> **[1:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=60)** Now this provides support for [[Data Integrity]] and authentication of IP packets.
 >
 > **[1:06](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980&t=66)** And the encapsulating security payload provides a combination encryption and authentication of IP packets.
 >
@@ -839,15 +827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Algorithms]] (7), management (3), lan (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[Data Integrity]] (1)
 > **Env Vars:** lan (1), tcp (1), ssl (1), ike (1), aes (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing IPsec components
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980)
+#### [Reviewing IPsec components](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=18)** IPsec provides many services.
 >
-> **[0:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=21)** It provides confidentiality using encryption, integrity using hash algorithms, authentication using key exchange, and secure key exchange using Diffie-Hellman.
+> **[0:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=21)** It provides confidentiality using encryption, integrity using hash [[Algorithms]], authentication using key exchange, and secure key exchange using Diffie-Hellman.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=35)** The network administrator has flexibility in the way they can configure IPsec.
 >
@@ -877,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=110)** Now, today, you wouldn't use group 2, it's been deprecated, but that goes to speak to what we should use is the most recent and current cryptographic techniques.
 >
-> **[2:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=122)** So we'll take you to this document here where it talks about next-generation cryptography.
+> **[2:02](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=122)** So we'll take you to this document here where it talks about next-generation [[Cryptography]].
 >
 > **[2:07](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/reviewing-ipsec-components?u=76281980&t=127)** Now if you scroll down, you'll see a chart that provides recommendations for cryptographic algorithms.
 >
@@ -915,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Algorithms]] (4), vpn (3), management (3), traffic (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Cryptography]] (1)
 > **Env Vars:** vpn (3), aes (3), isakmp (2), sha (2), ike (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -924,12 +911,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the IPsec AH
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980)
+#### [Using the IPsec AH](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=0)** - [Educator] The IPsec Authentication Header provides connectionless support for data integrity and authentication along with protection against a replay attack.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=0)** - [Educator] The IPsec Authentication Header provides connectionless support for [[Data Integrity]] and authentication along with protection against a replay attack.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=12)** The Authentication Header authenticates as much of the IP header as possible along with any upper-layer protocols.
 >
@@ -945,7 +931,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=57)** Let's talk about the three key fields.
 >
-> **[1:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=61)** The Security Parameter Index is an essential part of IPsec as it distinguishes between the traffic streams that use different encryption rules and algorithms.
+> **[1:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=61)** The Security Parameter Index is an essential part of IPsec as it distinguishes between the traffic streams that use different encryption rules and [[Algorithms]].
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/using-the-ipsec-ah?u=76281980&t=72)** The security association defines the Security Parameter Index and therefore only has local significance between the two entities.
 >
@@ -979,14 +965,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (3), [[Algorithms]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[Algorithms]] (2)
 > **Definitions:** is an  (4), is a  (2)
 > **Env Vars:** sha (2), aes (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [educator] (1)
 
-#### Outlining the IPsec ESP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980)
+#### [Outlining the IPsec ESP](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=24)** During IPsec conversations, IPsec creates a security association that provides the necessary attributes for the Encapsulating Security Payload.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=36)** The device adds the Security Parameter Index to the IP header, and that differentiates between the traffic streams using different encryption rules and algorithms.
+> **[0:36](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=36)** The device adds the Security Parameter Index to the IP header, and that differentiates between the traffic streams using different encryption rules and [[Algorithms]].
 >
 > **[0:47](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=47)** You can use the encryption-only feature to provide for confidentiality with the Encapsulating Security Payload.
 >
@@ -1028,7 +1013,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=172)** The network administrator may choose to apply the Encapsulating Security Payload alone or in combination with the authentication header in a nested fashion.
 >
-> **[3:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=183)** I've opened up Wireshark, where here we see both the authentication header and the Encapsulating Security Payload.
+> **[3:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=183)** I've opened up [[Wireshark]], where here we see both the authentication header and the Encapsulating Security Payload.
 >
 > **[3:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/outlining-the-ipsec-esp?u=76281980&t=191)** As you can see here, is the frame header, the IP header, authentication header, and the Encapsulating Security Payload.
 >
@@ -1050,14 +1035,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (22), data (6), [[Algorithms]] (3), traffic (2), feature (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Wireshark]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** nat (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating operating modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980)
+#### [Evaluating operating modes](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1053,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980&t=16)** In this mode, only the data portion of each packet is encrypted, leaving the header unencrypted.
 >
-> **[0:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980&t=24)** Transport Mode is more efficient and uses less overhead, making it ideal for scenarios where devices like firewalls or NAT devices need to access the source and destination addresses for routing or network address translation.
+> **[0:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980&t=24)** Transport Mode is more efficient and uses less overhead, making it ideal for scenarios where devices like firewalls or NAT devices need to access the source and destination addresses for [[Routing]] or network address translation.
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/evaluating-operating-modes?u=76281980&t=43)** After passing through the firewall or NAT device, the packet typically transitions to Tunnel Mode before being sent out onto the internet.
 >
@@ -1111,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (3), vpn (1), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** nat (2), vpn (1), wan (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1120,8 +1104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting with an always-on VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
+#### [Connecting with an always-on VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,18 +1162,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (17), traffic (4), [[Security]] (3), web (2), lan (1)
 > **Env Vars:** vpn (17), asa (2), lan (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Comparing hairpin vs. split tunnel
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-hairpin-vs-split-tunnel?u=76281980)
+#### [Comparing hairpin vs. split tunnel](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-hairpin-vs-split-tunnel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-hairpin-vs-split-tunnel?u=76281980&t=1)** - [Announcer] When you establish an always-on remote access VPN from home to the office, the network administrator has additional configuration options so that the client can access resources outside the corporate network and can select either a hairpin or split-tunnel VPN.
+> **[0:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-hairpin-vs-split-tunnel?u=76281980&t=1)** - [Announcer] When you establish an always-on remote access VPN from home to the [[Microsoft Office|office]], the network administrator has additional configuration options so that the client can access resources outside the corporate network and can select either a hairpin or split-tunnel VPN.
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/comparing-hairpin-vs-split-tunnel?u=76281980&t=22)** A hairpin connection is when traffic enters a gateway and the device immediately reroutes the traffic to the internet or another company site, such as in a hub and spoke configuration.
 >
@@ -1230,21 +1211,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (20), vpn (10), [[Microsoft Office|Office]] (6), [[Security]] (1), lan (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6)
 > **Env Vars:** vpn (10), lan (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** we call this (1)
 > **Speakers:** - [announcer] (1)
 
-#### Translating the network address
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980)
+#### [Translating the network address](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980&t=1)** - [Instructor] Any visible company on the internet requires a public IP address.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980&t=6)** Internally, organizations use private IP addressing.
+> **[0:06](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980&t=6)** Internally, organizations use private [[IP Addressing]].
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/translating-the-network-address?u=76281980&t=11)** As a result, many organizations use Network Address Translation.
 >
@@ -1290,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), traffic (2), [[IP Addressing]] (1), [[Search]] (1), vpn (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1)
 > **Env Vars:** nat (9), pat (4), napt (1), vpn (1)
 > **Versions:** 10.10.20 (2), 145.44.68 (1)
 > **Definitions:** is a  (1)
@@ -1298,8 +1278,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traversing through a NAT device
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980)
+#### [Traversing through a NAT device](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,11 +1300,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=59)** NAT Traversal is a feature that allows IPSec traffic to pass through a NAT or PAT device and addresses several issues that can occur when using IPSec.
 >
-> **[1:13](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=73)** So now let's talk about how the IPSec authentication header and the encapsulating security payload react when using network address translation and port address translation.
+> **[1:13](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=73)** So now let's talk about how the IPSec authentication header and the encapsulating security payload [[React.js|react]] when using network address translation and port address translation.
 >
 > **[1:28](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=88)** Let's cover the authentication header first.
 >
-> **[1:32](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=92)** The authentication header provides connectionless support for data integrity and authentication of packets.
+> **[1:32](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=92)** The authentication header provides connectionless support for [[Data Integrity]] and authentication of packets.
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=101)** The authentication header authenticates the source and destination IP addresses and other fixed parts of the IP header using a cryptographic hash.
 >
@@ -1345,7 +1324,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=183)** Using the native encapsulating security payload without encapsulation can cause issues as it does not have a TCP or UDP port, and this makes it difficult for PAT to handle the translation.
 >
-> **[3:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=201)** So next, let's talk about how this works in Wireshark.
+> **[3:21](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=201)** So next, let's talk about how this works in [[Wireshark]].
 >
 > **[3:26](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/traversing-through-a-nat-device?u=76281980&t=206)** To follow along, you can grab this capture found on CloudShark, and I'll put the link in the document.
 >
@@ -1423,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Wireshark]] (4), traffic (3), vpn (2), feature (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[React.js|React]] (1), [[Data Integrity]] (1)
 > **Env Vars:** nat (17), pat (9), udp (9), isakmp (4), vpn (2)
 > **Ports:** port 4500 (4), port 500 (4)
 > **UI Navigation:** go to (5)
@@ -1436,8 +1415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Clientless SSL VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
+#### [Challenge: Clientless SSL VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1459,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980&t=138)** So once you open the file, I suggest you save it locally so you preserve the sample.
 >
-> **[2:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980&t=144)** So to get the sample, go to File, Open Samples, and then once there go to Cybersecurity, ASA and select ASA Clientless VPN.
+> **[2:24](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980&t=144)** So to get the sample, go to File, Open Samples, and then once there go to [[Cybersecurity]], ASA and select ASA Clientless VPN.
 >
 > **[2:38](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980&t=158)** And then complete the instructions.
 >
@@ -1489,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (12), web (1), dns (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** vpn (12), ssl (6), asa (6), http (1), dns (1)
 > **UI Navigation:** go to (3), open the (1)
 > **Prerequisites:** configure (2), you'll need (1)
@@ -1497,8 +1475,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Clientless SSL VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-clientless-ssl-vpn?u=76281980)
+#### [Solution: Clientless SSL VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-clientless-ssl-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1561,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), vpn (1)
 > **Env Vars:** asa (11), pc0 (3), url (1), pc1 (1), ssl (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Cross-References:** go back to (2)
@@ -1593,8 +1569,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Employing an AnyConnect SSL VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980)
+#### [Employing an AnyConnect SSL VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1583,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980&t=35)** Cisco AnyConnect identifies and monitors the devices that are accessing the corporate network for unusual or suspicious behavior and defends the network against malware along with safeguarding web browsing sessions.
 >
-> **[0:50](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980&t=50)** The AnyConnect Posture Module connects the Host Scan package, pre-login assessment, and can detect virtual machines or keystroke loggers in the end device, and remediate devices across wired, wireless, and VPN environments.
+> **[0:50](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980&t=50)** The AnyConnect Posture Module connects the Host Scan package, pre-login assessment, and can detect [[Virtual Machines]] or keystroke loggers in the end device, and remediate devices across wired, wireless, and VPN environments.
 >
 > **[1:07](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/employing-an-anyconnect-ssl-vpn?u=76281980&t=67)** To configure AnyConnect, we first configure the ASA for AnyConnect.
 >
@@ -1624,13 +1599,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), web (3), vpn (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1)
 > **Env Vars:** vpn (2), ssl (2), asa (2)
 > **Prerequisites:** configure (3)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing endpoint posture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980)
+#### [Assessing endpoint posture](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=9)** Clients include outside sales staff and teleworkers that need access.
 >
-> **[0:15](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=15)** When allowing access to the corporate network, we must keep in mind that a network device without appropriate protection, such as updated patches, antimalware protection, and an active firewall compose a significant risk to the corporate network.
+> **[0:15](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=15)** When allowing access to the corporate network, we must keep in mind that a network device without appropriate protection, such as updated patches, antimalware protection, and an active firewall [[Jetpack Compose|compose]] a significant risk to the corporate network.
 >
 > **[0:32](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=32)** Therefore, when using a Remote Access VPN, it's important to assess the health of the client's device before they join the network so they will not pose a risk to the infrastructure.
 >
@@ -1656,13 +1630,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=110)** Some of the information can be obtained by the initial request where the ASA can detect the geolocation using the IP address and also the operating system by using the HTTP header.
 >
-> **[2:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=123)** I'll go up here, I'm in Wireshark, and I have a precaptured packet and I'll type HTTP.
+> **[2:03](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=123)** I'll go up here, I'm in [[Wireshark]], and I have a precaptured packet and I'll type HTTP.
 >
 > **[2:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=131)** This is just to show you what you would see in a header.
 >
 > **[2:14](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=134)** If I right-click and I say Follow the TCP Stream, here you can see information as to what the user agent is, what the operating system, and other information that it could use to evaluate the system.
 >
-> **[2:29](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=149)** In addition to identifying the IP address, operating system certificates, and other attributes on the endpoint, the Host Scan can complete a more comprehensive search to detect keystroke loggers or virtual machines on the end device.
+> **[2:29](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=149)** In addition to identifying the IP address, operating system certificates, and other attributes on the endpoint, the Host Scan can complete a more comprehensive search to detect keystroke loggers or [[Virtual Machines]] on the end device.
 >
 > **[2:46](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/assessing-endpoint-posture?u=76281980&t=166)** Once the ASA gathers enough information to match the policy, it will either allow or deny the connection.
 >
@@ -1674,7 +1648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (3), [[Jetpack Compose|Compose]] (1), [[Wireshark]] (1), [[Search]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Wireshark]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** vpn (3), asa (3), http (2), tcp (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** right-click (1)
@@ -1686,8 +1660,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensuring Perfect Forward Secrecy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
+#### [Ensuring Perfect Forward Secrecy](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,11 +1674,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=37)** During the course of exchanging encrypted traffic, it's essential to protect the server's private key.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=44)** If disclosed, an attacker can have access to the transmitted data, which poses a serious risk to data security.
+> **[0:44](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=44)** If disclosed, an attacker can have access to the transmitted data, which poses a serious risk to [[Data Security]].
 >
 > **[0:52](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=52)** Well, how can this happen?
 >
-> **[0:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=54)** Cybercriminals work hard to get into systems and steal information and have created several malware variants that can steal both private keys and digital certificates from Windows certificate doors by exploiting the operating systems's functionality.
+> **[0:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=54)** Cybercriminals work hard to get into systems and steal information and have created several malware variants that can steal both private keys and digital certificates from [[Windows]] certificate doors by exploiting the operating systems's functionality.
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980&t=72)** Some variants include Trojan.Zbot, Downloader.Parshell, and Trojan.Spyeye.
 >
@@ -1741,12 +1714,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), vpn (3), traffic (2), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Windows]] (1)
 > **Env Vars:** vpn (3)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an IPsec site-to-site VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980)
+#### [Setting up an IPsec site-to-site VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1738,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980&t=71)** In addition, configure the pre-shared key.
 >
-> **[1:15](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980&t=75)** Within the ISAKMP configuration mode, configure the following: Encryption, Hash, Authentication algorithms, Diffie-Hellman Group and Lifetime.
+> **[1:15](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980&t=75)** Within the ISAKMP configuration mode, configure the following: Encryption, Hash, Authentication [[Algorithms]], Diffie-Hellman Group and Lifetime.
 >
 > **[1:28](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/setting-up-an-ipsec-site-to-site-vpn?u=76281980&t=88)** The result in commands will look like this.
 >
@@ -1810,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (7), traffic (5), [[Security]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** vpn (7), isakmp (2), hmac (2), iso (1)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** make (1)
@@ -1819,8 +1791,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Configure a site-to-site VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980)
+#### [Challenge: Configure a site-to-site VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1813,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=40)** On the left hand side we see the instructions, and we can do a couple of things with this.
 >
-> **[0:45](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=45)** I can undock it so it floats, but I'll put it back, and I can right click to zoom in and make the font larger or zoom out to make it smaller.
+> **[0:45](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=45)** I can undock it so it floats, but I'll put it back, and I can right click to [[Zoom]] in and make the font larger or zoom out to make it smaller.
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=55)** I can also print to PDF if I want to print out the instructions.
 >
@@ -1856,7 +1827,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=82)** We see that hash algorithm is MD5 or SHA-1.
 >
-> **[1:27](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=87)** Understand we normally wouldn't use those algorithms, as they have been deprecated and they're not secure.
+> **[1:27](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=87)** Understand we normally wouldn't use those [[Algorithms]], as they have been deprecated and they're not secure.
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=93)** But for this exercise we'll use those as the parameters.
 >
@@ -1870,7 +1841,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=118)** And now we'll go into PC-A to the desktop and the command prompt, where we'll type ping 192 dot 168 dot 3 dot 3.
 >
-> **[2:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=132)** The devices are all configured with routing, and the ping did succeed.
+> **[2:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=132)** The devices are all configured with [[Routing]], and the ping did succeed.
 >
 > **[2:16](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-configure-a-site-to-site-vpn?u=76281980&t=136)** So we'll close that.
 >
@@ -1942,7 +1913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), vpn (3), [[Security]] (3), [[Zoom]] (2), next (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Algorithms]] (1), [[Routing]] (1)
 > **Env Vars:** vpn (3), lan (2), pdf (1), md5 (1), sha (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (3), you'll need (1)
@@ -1951,8 +1922,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Configure a site-to-site VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980)
+#### [Solution: Configure a site-to-site VPN](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,7 +2018,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980&t=293)** So we're going to ping pcc and that will be our interesting traffic.
 >
-> **[4:59](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980&t=299)** So we'll ping 192.168.3.3 Now remember, a Windows operating system will try four times to get through, and it did.
+> **[4:59](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980&t=299)** So we'll ping 192.168.3.3 Now remember, a [[Windows]] operating system will try four times to get through, and it did.
 >
 > **[5:12](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/solution-configure-a-site-to-site-vpn?u=76281980&t=312)** So now we've created interesting traffic.
 >
@@ -2078,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), vpn (7), [[Security]] (4), [[Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** vpn (7)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** make (2)
@@ -2092,12 +2062,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching Cisco Network Security VPN Technologies.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching Cisco [[Network Security]] VPN Technologies.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=6)** In this course, I covered VPN concepts and outlined how VPNs ensure data confidentiality, integrity, and authentication.
 >
@@ -2113,7 +2082,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=51)** New courses are added every day.
 >
-> **[0:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=54)** If you want to learn more about encryption, check out my course "Learn Cryptography and Network Security."
+> **[0:54](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=54)** If you want to learn more about encryption, check out my course "Learn [[Cryptography]] and Network Security."
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980&t=61)** Any course in the Cisco CyberOps Series will be well worth your time.
 >
@@ -2123,7 +2092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (4), [[Network Security]] (2), data (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cryptography]] (1)
 > **Env Vars:** vpn (4), ssl (1), nat (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)

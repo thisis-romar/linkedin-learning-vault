@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artificial intelligence: From everyday tasks to global challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
+#### [Artificial intelligence: From everyday tasks to global challenges](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980&t=33)** I am the director of the United Nations University and an Undersecretary General of the United Nations.
 >
-> **[0:39](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980&t=39)** I have been researching artificial intelligence for the past 28 years, beginning with a PhD in AI at the University of Cambridge.
+> **[0:39](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980&t=39)** I have been researching [[Artificial Intelligence (AI)|artificial intelligence]] for the past 28 years, beginning with a PhD in AI at the University of Cambridge.
 >
 > **[0:48](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980&t=48)** I have authored over 30 books on artificial intelligence.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** make (1)
 
 
@@ -123,12 +122,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI: The basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
+#### [AI: The basics](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=0)** What is artificial intelligence?
+> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=0)** What is [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=3)** In this introduction, we will explore what artificial intelligence, often referred to as AI, really means.
 >
@@ -172,13 +170,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=192)** they do not have awareness.
 >
-> **[3:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=195)** Instead, they predict the most likely next word in a sentence based on patterns seen in training data.
+> **[3:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=195)** Instead, they predict the most likely next [[Microsoft Word|word]] in a sentence based on patterns seen in training data.
 >
 > **[3:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=205)** This allows them to answer questions, provide translations, or assist with writing.
 >
 > **[3:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=212)** It is important to know that AI does not think, feel, or make decisions like people.
 >
-> **[3:39](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=219)** It is driven by data, mathematics, and algorithms.
+> **[3:39](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=219)** It is driven by data, mathematics, and [[Algorithms]].
 >
 > **[3:44](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=224)** The quality of the data it uses and the way it is trained has a significant influence on how accurate or helpful the AI can be.
 >
@@ -194,9 +192,9 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=279)** It only takes a few minutes, and all you need is a web browser.
 >
-> **[4:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=283)** Open Microsoft Copilot.
+> **[4:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=283)** Open [[Microsoft Copilot]].
 >
-> **[4:45](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=285)** You can find it at copilot.[microsoft.com](https://microsoft.com).
+> **[4:45](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=285)** You can find it at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=290)** In the text box, type the following prompt.
 >
@@ -232,18 +230,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), prompt (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (3), cat (2), find (1)
 > **Definitions:** refers to (2), is a  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** llm (1)
 
-#### AI in everyday life
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980)
+#### [AI in everyday life](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=0)** We will explore how artificial intelligence is already a part of your everyday life, often in ways you may not even realize.
+> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=0)** We will explore how [[Artificial Intelligence (AI)|artificial intelligence]] is already a part of your everyday life, often in ways you may not even realize.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=9)** From your phone to your favorite apps, we will look at real-world examples that show how AI supports daily routines and decisions.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=75)** Streaming services use AI to analyze your viewing habits and suggest shows, movies or songs that match your preferences.
 >
-> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=86)** Have you ever used voice assistants like Siri, Google Assistant, or Alexa?
+> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=86)** Have you ever used voice assistants like Siri, [[Google]] Assistant, or Alexa?
 >
 > **[1:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=92)** AI powers them too.
 >
@@ -281,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=138)** If you have used a map that suggests the fastest route, that is AI again.
 >
-> **[2:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=145)** It takes real-time traffic data and lands, which roads are faster or slower.
+> **[2:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=145)** It takes [[Real-Time]] traffic data and lands, which roads are faster or slower.
 >
 > **[2:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-life?u=76281980&t=152)** AI also helps farmers check the health of their crops, helps banks detect fraud, and supports teachers in offering more personalized lessons to students.
 >
@@ -303,17 +300,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 
-#### A brief history of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980)
+#### [A brief history of AI](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=0)** A brief history of AI.
 >
-> **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=3)** We'll take a brief look at the history of artificial intelligence from early theories and setbacks to the breakthroughs that shaped today's powerful systems.
+> **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=3)** We'll take a brief look at the history of [[Artificial Intelligence (AI)|artificial intelligence]] from early theories and setbacks to the breakthroughs that shaped today's powerful systems.
 >
 > **[0:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=15)** Artificial intelligence may seem like a recent development, but the idea has been around for decades, long before smartphones.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=54)** This marked the beginning of research into machine learning.
 >
-> **[1:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=60)** 1956, the term artificial intelligence was officially coined at a conference at Dartmouth College in the United States by Professor John McCarthy.
+> **[1:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=60)** 1956, the term artificial intelligence was officially coined at a conference at Dartmouth College in the United States by Professor [[John the Ripper|John]] McCarthy.
 >
 > **[1:19](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=79)** Scientists there believed that machines could eventually learn and solve problems just like humans.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=111)** Funding was cut, the period became known as an AI winter.
 >
-> **[1:59](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=119)** In the 1980s, AI saw a revival thanks to expert systems, programs designed to mimic human decision-making in specific fields like medicine or engineering.
+> **[1:59](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=119)** In the 1980s, AI saw a revival thanks to expert systems, programs designed to mimic human [[Decision-Making]] in specific fields like medicine or engineering.
 >
 > **[2:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=135)** These systems followed sets of rules provided by experts.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=202)** I was a PhD student working in machine learning from 1997 to 2000.
 >
-> **[3:33](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=213)** And much of the algorithms that I saw then are still relevant now.
+> **[3:33](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=213)** And much of the [[Algorithms]] that I saw then are still relevant now.
 >
 > **[3:41](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=221)** But what has changed?
 >
@@ -373,25 +369,25 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=256)** It showed that machines could outperform humans in specific intellectual tasks.
 >
-> **[4:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=262)** In 2012, a breakthrough in deep learning drew global attention.
+> **[4:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=262)** In 2012, a breakthrough in [[Deep Learning]] drew global attention.
 >
 > **[4:27](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=267)** A neural network trained on thousands of images could recognize objects with surprising accuracy.
 >
-> **[4:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=278)** This was the first, the start of a new AI boom powered by big data, faster computers, and improved algorithms.
+> **[4:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=278)** This was the first, the start of a new AI boom powered by [[Big Data]], faster computers, and improved algorithms.
 >
 > **[4:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=290)** From there, the rise was rapid.
 >
-> **[4:53](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=293)** In 2016, Google's AI system AlphaGo beat a world champion at the complex board game Go, something many had thought was decades away.
+> **[4:53](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=293)** In 2016, [[Google]]'s AI system AlphaGo beat a world champion at the complex board game Go, something many had thought was decades away.
 >
 > **[5:06](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=306)** AI systems began generating text, composing music, and even creating realistic images.
 >
-> **[5:16](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=316)** The most recent shift involves generative AI tools that go beyond pattern recognition to generate new content.
+> **[5:16](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=316)** The most recent shift involves [[Generative AI Tools]] that go beyond pattern recognition to generate new content.
 >
 > **[5:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=326)** Systems like ChedGPT or DALL.E can write stories, translate text or draw pictures, all based on what they have learned from huge amount of information.
 >
 > **[5:46](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=346)** And this is actually quite important because it means whatever is generated actually is based on the data in which the AI system was trained on.
 >
-> **[6:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=365)** Which means even the most advanced of generative AI is ultimately based on the rearrangement of the information that already exists and was used to train it.
+> **[6:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=365)** Which means even the most advanced of [[Generative AI]] is ultimately based on the rearrangement of the information that already exists and was used to train it.
 >
 > **[6:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-brief-history-of-ai?u=76281980&t=385)** Today, AI is evolving rapidly, but it is built on decades of ideas, failures and breakthroughs.
 >
@@ -399,14 +395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), [[Algorithms]] (2), power (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (2), [[John the Ripper|John]] (1), [[Decision-Making]] (1), [[Deep Learning]] (1)
 > **Env Vars:** ibm (1), dall (1)
 > **Analogies:** just like (1), such as (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** known as (1)
 
-#### The limitations of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980)
+#### [The limitations of AI](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=3)** For us to understand the limitations of AI, we need to understand the components of AI.
 >
-> **[0:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=9)** AI is basically data, algorithms, computing, and applications.
+> **[0:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=9)** AI is basically data, [[Algorithms]], computing, and applications.
 >
 > **[0:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=18)** Now, if your data is not representative enough, then that AI system is going to discriminate discriminate against people whose data is not included in that database.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=72)** And that is the issue that we need to also deal with, quite important.
 >
-> **[1:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=78)** So this means, now, for large language models that we see, co-pilots, for example, that they have to be augmented by search.
+> **[1:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=78)** So this means, now, for [[Large Language Models (LLM)|large language models]] that we see, co-pilots, for example, that they have to be augmented by search.
 >
 > **[1:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=92)** Instead of estimating an essay, the skill to be able to look very carefully at what has been generated and verify becomes very, very important.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=241)** Let's put what you've just learned into practice.
 >
-> **[4:04](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=244)** Open Microsoft Copilot at copilot.[microsoft.com](https://microsoft.com).
+> **[4:04](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=244)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=249)** In the text box, type the following prompt.
 >
@@ -498,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (7), [[Algorithms]] (4), prompt (2), database (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -510,8 +505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI accuracy vs. truth
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
+#### [AI accuracy vs. truth](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980&t=138)** In mathematical terms, we say accuracy is continuous while truth is discrete.
 >
-> **[2:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980&t=146)** The whole mathematics of deep learning is based on the branch of mathematics called differential calculus.
+> **[2:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980&t=146)** The whole mathematics of [[Deep Learning]] is based on the branch of mathematics called differential [[Calculus]].
 >
 > **[2:37](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980&t=157)** And differential calculus assumes that you are operating in the continuous spaces rather than the discrete spaces.
 >
@@ -577,14 +571,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (3), ai (2), [[Deep Learning]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Calculus]] (3), [[Deep Learning]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Cross-border data flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980)
+#### [Cross-border data flows](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +625,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=200)** So the issue of cross-border data flow is very important.
 >
-> **[3:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=205)** It is even more important when you are dealing with issues of climate change, because we need to know what is happening in other parts of the world.
+> **[3:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=205)** It is even more important when you are dealing with issues of [[Climate Change]], because we need to know what is happening in other parts of the world.
 >
 > **[3:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=218)** I come from Africa.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=224)** It flows between 11 different countries, starting somewhere in Uganda, all the way to the Mediterranean Sea through Egypt.
 >
-> **[4:02](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=242)** It is clear that if we are to regulate from environmental sustainability perspective, that river, the data about what is happening to that river in one country must also be accessible in another country.
+> **[4:02](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=242)** It is clear that if we are to regulate from [[Environmental Sustainability]] perspective, that river, the data about what is happening to that river in one country must also be accessible in another country.
 >
 > **[4:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/cross-border-data-flows?u=76281980&t=262)** This is what we call data flow, free data flow across borders.
 >
@@ -658,14 +651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), vpn (2), [[Climate Change]] (1), [[Environmental Sustainability]] (1), ai (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[Environmental Sustainability]] (1)
 > **Env Vars:** vpn (2), covid (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
 
-#### Bias in AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980)
+#### [Bias in AI systems](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +727,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980&t=249)** So that bias towards much more representation of wife-husband relationship versus grandmother-grandson relationship is another source of bias.
 >
-> **[4:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980&t=266)** It's an algorithmic bias, because algorithms will not work well for such cases.
+> **[4:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980&t=266)** It's an algorithmic bias, because [[Algorithms]] will not work well for such cases.
 >
 > **[4:35](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/bias-in-ai-systems?u=76281980&t=275)** And of course, I have emphasized what algorithmic bias is.
 >
@@ -749,13 +741,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (2), database (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** picture (2), such as (1)
 > **Definitions:** basically means (1), is a  (1)
 > **CLI Commands:** make (1)
 
-#### The geography of AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-geography-of-ai-development?u=76281980)
+#### [The geography of AI development](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-geography-of-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,11 +770,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), teams (1)
 > **Definitions:** is a  (2)
 
-#### The global digital divide
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-global-digital-divide?u=76281980)
+#### [The global digital divide](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-global-digital-divide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,11 +802,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2)
 > **Versions:** 2.6 (1)
 
-#### Synthetic data in AI training
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980)
+#### [Synthetic data in AI training](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=40)** They have never existed.
 >
-> **[0:42](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=42)** You don't have to worry about privacy and so on and so forth.
+> **[0:42](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=42)** You don't have to worry about [[Privacy]] and so on and so forth.
 >
 > **[0:48](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=48)** But there is another use of synthetic data.
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=92)** But this idea of creating synthetic data can be dangerous.
 >
-> **[1:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=98)** We have heard of synthetic data being used where a person who is running for political office, A synthetic version of him or her is generated, and they say things that they have never said before to undermine election success.
+> **[1:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=98)** We have heard of synthetic data being used where a person who is running for political [[Microsoft Office|office]], A synthetic version of him or her is generated, and they say things that they have never said before to undermine election success.
 >
 > **[2:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/synthetic-data-in-ai-training?u=76281980&t=121)** This is bad.
 >
@@ -859,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (3), [[Privacy]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -869,8 +856,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI for Global goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
+#### [AI for Global goals](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,19 +896,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15)
 > **Env Vars:** sdg (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### AI governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980)
+#### [AI governance](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=0)** AI must be governed so that we can be able to maximize its benefits and minimize its risks.
 >
-> **[0:10](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=10)** Today, there are many AI governance models across the world.
+> **[0:10](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=10)** Today, there are many [[AI Governance]] models across the world.
 >
 > **[0:15](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-governance?u=76281980&t=15)** There is no one AI governance.
 >
@@ -964,10 +948,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (1), application (1)
+> **Frameworks & Libraries:** [[AI Governance]] (2)
 
-#### UN and UNESCO frameworks on AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980)
+#### [UN and UNESCO frameworks on AI](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980&t=104)** It is not transparent.
 >
-> **[1:46](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980&t=106)** And what needs to be done is that when we are approaching AI governance, we need to balance this.
+> **[1:46](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980&t=106)** And what needs to be done is that when we are approaching [[AI Governance]], we need to balance this.
 >
 > **[1:53](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/un-and-unesco-frameworks-on-ai?u=76281980&t=113)** Where do we want to put the governance in between transparency and safety?
 >
@@ -1041,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), application (2)
+> **Frameworks & Libraries:** [[AI Governance]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1052,8 +1035,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
+#### [Types of machine learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,11 +1069,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=104)** The more examples and feedback it gets, the better its predictions become.
 >
-> **[1:52](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=112)** This approach is called supervised learning, where the model learns from labeled data with inputs and outputs.
+> **[1:52](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=112)** This approach is called [[Supervised Learning]], where the model learns from labeled data with inputs and outputs.
 >
 > **[2:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=123)** There is also unsupervised learning, where the machine looks for patterns in data without labels.
 >
-> **[2:12](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=132)** Reinforcement learning, where the system learns through trial and error, guided by rewards and penalties.
+> **[2:12](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=132)** [[Reinforcement Learning]], where the system learns through trial and error, guided by rewards and penalties.
 >
 > **[2:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=142)** Reinforcement learning did not start in machine learning.
 >
@@ -1111,7 +1093,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=207)** Here is another example.
 >
-> **[3:28](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=208)** When you type a message and your device suggests the next word, that is machine learning.
+> **[3:28](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=208)** When you type a message and your device suggests the next [[Microsoft Word|word]], that is machine learning.
 >
 > **[3:35](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=215)** The system has processed millions of sentences and predicts likely next words.
 >
@@ -1123,7 +1105,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=233)** But biased or poor quality data can lead to wrong results.
 >
-> **[3:58](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=238)** That is why responsible AI design is very important.
+> **[3:58](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=238)** That is why [[Responsible AI]] design is very important.
 >
 > **[4:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980&t=243)** In short, machine learning can learn, but only from what we provide.
 >
@@ -1135,13 +1117,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Reinforcement Learning]] (3), ai (2), next (2), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Supervised Learning]] (1), [[Microsoft Word|Word]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** imagine (1), picture (1)
 > **Definitions:** is called (1)
 
-#### Neural networks and data learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980)
+#### [Neural networks and data learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=7)** Through a structure called a neural network, you will see how machines process data, respond to feedback, and gradually improve without diving too deep into technical details.
 >
-> **[0:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=25)** Artificial intelligence may seem complex, but at its core, it relies on learning from data.
+> **[0:25](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=25)** [[Artificial Intelligence (AI)|Artificial intelligence]] may seem complex, but at its core, it relies on learning from data.
 >
 > **[0:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=32)** Let us begin with a simple question, what is learning?
 >
@@ -1185,7 +1166,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=129)** It is based on trial and error.
 >
-> **[2:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=133)** Neural networks are especially good at finding patterns in data, in images, text, and sound.
+> **[2:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=133)** [[Neural Networks]] are especially good at finding patterns in data, in images, text, and sound.
 >
 > **[2:23](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/neural-networks-and-data-learning?u=76281980&t=143)** but they don't truly understand content as humans do.
 >
@@ -1211,12 +1192,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Analogies:** imagine (1)
 
-#### Gradient descent and model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/gradient-descent-and-model-training?u=76281980)
+#### [Gradient descent and model training](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/gradient-descent-and-model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,20 +1228,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (6)
 > **Definitions:** is called (2)
 > **UI Navigation:** select the (1)
 
-#### Big data and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980)
+#### [Big data and AI](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=0)** Big data and AI.
+> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=0)** [[Big Data]] and AI.
 >
-> **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=3)** We will explore how AI relies on big data, what it is, why it matters, and how data quality and diversity shape the way AI systems learn and perform.
+> **[0:03](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=3)** We will explore how AI relies on big data, what it is, why it matters, and how [[Data Quality]] and diversity shape the way AI systems learn and perform.
 >
-> **[0:17](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=17)** Artificial intelligence might seem complex at times, but at its core, it is powered by something foundational, data, and not just a small amount of data, we are talking about big data, large-scale collections of information.
+> **[0:17](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=17)** [[Artificial Intelligence (AI)|Artificial intelligence]] might seem complex at times, but at its core, it is powered by something foundational, data, and not just a small amount of data, we are talking about big data, large-scale collections of information.
 >
 > **[0:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=38)** Big data refers to massive, complex collections of information that are too large or fast-moving for traditional tools to handle.
 >
@@ -1303,7 +1281,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=220)** Otherwise, it risks becoming biased, treating some groups unfairly or making wrong assumptions.
 >
-> **[3:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=230)** And then there is privacy.
+> **[3:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=230)** And then there is [[Privacy]].
 >
 > **[3:52](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/big-data-and-ai?u=76281980&t=232)** As AI systems gather more and more data, protecting people's information becomes essential.
 >
@@ -1319,18 +1297,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (15), [[Big Data]] (5), [[Privacy]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Privacy]] (2), [[Data Quality]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** cat (1)
 > **Env Vars:** gps (1)
 > **Definitions:** refers to (1)
 
-#### Introduction to generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980)
+#### [Introduction to generative AI](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=1)** Generative AI Explained.
+> **[0:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=1)** [[Generative AI]] Explained.
 >
 > **[0:04](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=4)** We'll take a closer look at generative AI, how it works, what it can produce, and why it is transforming the way people write, design, and develop new ideas.
 >
@@ -1340,11 +1317,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=33)** So what exactly is generative AI?
 >
-> **[0:37](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=37)** In simplest term, it is a type of artificial intelligence designed to generate new content rather than just analyzing existing data.
+> **[0:37](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=37)** In simplest term, it is a type of [[Artificial Intelligence (AI)|artificial intelligence]] designed to generate new content rather than just analyzing existing data.
 >
 > **[0:49](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=49)** It is therefore very, very important to understand that Despite the fact that it is generating new concepts, it is still based on existing data.
 >
-> **[1:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=65)** And in a way, it is a technology that allows one to generate new information using algorithms
+> **[1:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=65)** And in a way, it is a technology that allows one to generate new information using [[Algorithms]]
 >
 > **[1:20](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=80)** and existing information.
 >
@@ -1356,7 +1333,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=103)** We start by training it on thousands of examples, poems that vary in length, style, and mood.
 >
-> **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=111)** The AI does not memorize them word for word.
+> **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=111)** The AI does not memorize them [[Microsoft Word|word]] for word.
 >
 > **[1:56](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=116)** Instead, it learns the underlying patterns, how poems are structured, the types of language they use, their rhythm and tone.
 >
@@ -1378,13 +1355,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=187)** Image generation tools create visuals from text prompts.
 >
-> **[3:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=193)** AI music applications compose background tracks videos, games, and more.
+> **[3:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=193)** AI music applications [[Jetpack Compose|compose]] background tracks videos, games, and more.
 >
 > **[3:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=202)** Designers, students, writers, and everyday people are using it to work faster and get inspired.
 >
 > **[3:30](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=210)** But how does it work?
 >
-> **[3:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=212)** Most generative AI models are powered by neural networks, mathematical systems that detect patterns in data.
+> **[3:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=212)** Most generative AI models are powered by [[Neural Networks]], mathematical systems that detect patterns in data.
 >
 > **[3:42](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/introduction-to-generative-ai?u=76281980&t=222)** Many use transformer architectures which are particularly effective at generating sequences, such as text or audio, with high fluency and coherence.
 >
@@ -1402,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), data (6), ai (5), [[Microsoft Word|Word]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** cat (1)
@@ -1412,12 +1389,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible AI tools for beginners
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)
+#### [Accessible AI tools for beginners](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=0)** Artificial intelligence might sound complex, something reserved for programmers, data scientists, or large tech companies.
+> **[0:00](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=0)** [[Artificial Intelligence (AI)|Artificial intelligence]] might sound complex, something reserved for programmers, data scientists, or large tech companies.
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=11)** But today, AI is more accessible than ever.
 >
@@ -1429,9 +1405,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=30)** In this video, we will explore practical, easy-to-use AI tools that anyone can try, even without a technical background.
 >
-> **[0:42](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=42)** Let's just begin with Microsoft CoPilot.
+> **[0:42](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=42)** Let's just begin with [[Microsoft Copilot]].
 >
-> **[0:47](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=47)** CoPilot is Microsoft's unified AI assistant, available at [copilotmicrosoft.com](https://copilotmicrosoft.com), and integrated into apps like Word, Excel, and PowerPoint.
+> **[0:47](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=47)** [[Microsoft Copilot|CoPilot]] is [[Microsoft]]'s unified AI assistant, available at [copilotmicrosoft.com](https://copilotmicrosoft.com), and integrated into apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:06](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=66)** In Word, it can draft documents or improve your writing.
 >
@@ -1451,9 +1427,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=118)** and does not require a subscription.
 >
-> **[2:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=121)** There are many products available.
+> **[2:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=121)** There are many [[Microsoft Products|products]] available.
 >
-> **[2:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=125)** JetGPT is a conversational AI that helps you brainstorm, explain concepts or write content.
+> **[2:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=125)** JetGPT is a [[Conversational AI]] that helps you brainstorm, explain concepts or write content.
 >
 > **[2:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=133)** You simply type your question and it responds in natural language.
 >
@@ -1489,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=218)** Also, be mindful of what information you share.
 >
-> **[3:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=223)** Avoid entering confidential or personal data unless you trust the platform's privacy policies.
+> **[3:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=223)** Avoid entering confidential or personal data unless you trust the platform's [[Privacy]] policies.
 >
 > **[3:53](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980&t=233)** Getting started with AI is like learning any new skill.
 >
@@ -1537,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Microsoft Copilot|Copilot]] (4), [[Search]] (4), prompt (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft]] (3), [[Microsoft Copilot]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [copilotmicrosoft.com](https://copilotmicrosoft.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
@@ -1545,8 +1521,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Prerequisites:** getting started (1)
 
-#### AI in everyday apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980)
+#### [AI in everyday apps](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,17 +1549,17 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=81)** The goal is to practice how to structure information.
 >
-> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=86)** Now upload this data into a spreadsheet platform like Excel or Google Sheets, both of which now offer built-in AI features.
+> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=86)** Now upload this data into a spreadsheet platform like [[Microsoft Excel|Excel]] or [[Google]] Sheets, both of which now offer built-in AI features.
 >
 > **[1:36](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=96)** For example, using natural language queries, you can ask which days show the highest surplus, or when are certain items usually overstocked.
 >
-> **[1:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=110)** If you want to go further, try GPT or Microsoft copilot to generate insights, write summaries, or propose messaging for a food sharing campaign.
+> **[1:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=110)** If you want to go further, try GPT or [[Microsoft Copilot]] to generate insights, write summaries, or propose messaging for a food sharing campaign.
 >
 > **[2:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=125)** You can also simulate social media posts or draft a message for the local food bank.
 >
 > **[2:12](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=132)** These tools can help generate multiple options quickly, making it easier to adapt communication for different audiences.
 >
-> **[2:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=142)** Then turn to visual platforms like Canva or Power BI to design a poster or infographic.
+> **[2:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=142)** Then turn to visual platforms like [[Canva]] or [[Microsoft Power BI|Power BI]] to design a poster or infographic.
 >
 > **[2:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=152)** AI-powered assistants can help you choose layouts, icons, or headlines that make your message clear and appealing.
 >
@@ -1594,7 +1569,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=175)** This hands-on inquiry reflects a constructivist approach to digital education, encouraging learners to co-create meaning through active engagement.
 >
-> **[3:08](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=188)** When paired with generative AI, it fosters a hybrid space where machine support meets human reasoning.
+> **[3:08](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=188)** When paired with [[Generative AI]], it fosters a hybrid space where machine support meets human reasoning.
 >
 > **[3:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-in-everyday-apps-36031056?u=76281980&t=198)** And while the tools are powerful, the most critical part is defining meaningful goals.
 >
@@ -1610,14 +1585,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), next (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Microsoft Copilot]] (1), [[Canva]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### A real-world AI mini project
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980)
+#### [A real-world AI mini project](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,17 +1619,17 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=81)** The goal is to practice how to structure information.
 >
-> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=86)** Now upload this data into a spreadsheet platform like Excel or Google Sheets, both of which now offer built-in AI features.
+> **[1:26](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=86)** Now upload this data into a spreadsheet platform like [[Microsoft Excel|Excel]] or [[Google]] Sheets, both of which now offer built-in AI features.
 >
 > **[1:36](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=96)** For example, using natural language queries, you can ask which days show the highest surplus, or when are certain items usually overstocked.
 >
-> **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=111)** If you want to go further, try GPT or Microsoft Copilot to generate insights, write summaries, or propose messaging for a food sharing campaign.
+> **[1:51](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=111)** If you want to go further, try GPT or [[Microsoft Copilot]] to generate insights, write summaries, or propose messaging for a food sharing campaign.
 >
 > **[2:05](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=125)** You can also simulate social media posts or draft a message for the local food bank.
 >
 > **[2:13](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=133)** These tools can help generate multiple options quickly, making it easier to adapt communication for different audiences.
 >
-> **[2:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=142)** Then turn to visual platforms like Canva or Power BI to design a poster or infographic.
+> **[2:22](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=142)** Then turn to visual platforms like [[Canva]] or [[Microsoft Power BI|Power BI]] to design a poster or infographic.
 >
 > **[2:32](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=152)** AI-powered assistants can help you choose layouts, icons, or headlines that make your message clear and appealing.
 >
@@ -1669,7 +1643,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=176)** This hands-on inquiry reflects a constructivist approach to digital education, encouraging learners to co-create meaning through active engagement.
 >
-> **[3:08](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=188)** When paired with generative AI, it fosters a hybrid space where machine support meets human reasoning.
+> **[3:08](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=188)** When paired with [[Generative AI]], it fosters a hybrid space where machine support meets human reasoning.
 >
 > **[3:18](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/a-real-world-ai-mini-project?u=76281980&t=198)** And while the tools are powerful, the most critical part is defining meaningful goals.
 >
@@ -1685,7 +1659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), next (1), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Microsoft Copilot]] (1), [[Canva]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)

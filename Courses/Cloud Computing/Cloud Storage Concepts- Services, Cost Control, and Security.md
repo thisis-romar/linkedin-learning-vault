@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
+#### [Understanding cloud storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=0)** - [David] Cloud storage is foundational to most cloud computing systems.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=0)** - [David] [[Cloud Storage]] is foundational to most [[Cloud Computing]] systems.
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=3)** Information needs to be stored so that it's persistent beyond just the login sessions of users or systems.
 >
@@ -106,22 +105,21 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=20)** Hi, I'm David Linthicum, internationally known cloud expert and consultant.
 >
-> **[0:24](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=24)** In this LinkedIn Learning course, we'll use pragmatic examples and relevant case studies to help you understand how cloud storage works and how you and your business can benefit from this technology.
+> **[0:24](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=24)** In this [[LinkedIn]] Learning course, we'll use pragmatic examples and relevant case studies to help you understand how cloud storage works and how you and your business can benefit from this technology.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980&t=35)** I wish you luck and good learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Cloud Computing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have a basic understanding of cloud computing.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have a basic understanding of [[Cloud Computing]].
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=6)** However, if you don't, we'll provide enough information for you to keep up.
 >
@@ -137,11 +135,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=36)** Just press pause and research anything you feel needs to be better understood.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=40)** Also, use the LinkedIn Learning tools available to you, including Notebook.
+> **[0:40](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/what-you-should-know?u=76281980&t=40)** Also, use the [[LinkedIn]] Learning tools available to you, including Notebook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -151,24 +149,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud storage types
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
+#### [Cloud storage types](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=0)** - [Instructor] Getting right into what cloud storage is and how we think about it.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=0)** - [Instructor] Getting right into what [[Cloud Storage]] is and how we think about it.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=4)** Storage generally put is any technology that can store any data, file, or document.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=11)** It also includes mechanisms for holding and managing electronic data.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=15)** These data, file, and documents might be accessed by users directly such as leveraging a database management tool, or also by applications that interact with cloud storage systems using programmatic interfaces or APIs.
+> **[0:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=15)** These data, file, and documents might be accessed by users directly such as leveraging a [[Database Management]] tool, or also by applications that interact with cloud storage systems using programmatic interfaces or APIs.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=31)** We use storage every day from our email systems to store and receive our messages, image storage on our smartphones, even the server that streams this course directly to you.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=43)** Cloud storage, including how cloud providers work and how cloud storage is deployed, is foundational to most types of computing.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=52)** In the world of cloud computing, storage exists as systems that provide specific type of storage services depending on the storage service that you need for a specific use case.
+> **[0:52](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=52)** In the world of [[Cloud Computing]], storage exists as systems that provide specific type of storage services depending on the storage service that you need for a specific use case.
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=63)** This includes types of cloud and computing storage systems that include block storage, file storage, and object storage.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=87)** Indeed, it may have been paired up with a file storage system, which was able to maintain a file hierarchy structure but using an object storage system for the actual storage of the files.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=99)** Moreover, databases provide a structured way to leverage these types of storage systems as well.
+> **[1:39](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=99)** Moreover, [[Databases]] provide a structured way to leverage these types of storage systems as well.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=105)** Most object databases leverage object storage systems on their backend to carry out the actual storage operations.
 >
@@ -186,20 +183,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=127)** Thus, one of the more important things to learn here is that the types of storage are all interrelated.
 >
-> **[2:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=135)** It's important to understand the types of storage systems that you can leverage directly or can be leveraged through some other cloud services.
+> **[2:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980&t=135)** It's important to understand the types of storage systems that you can leverage directly or can be leveraged through some other [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (4), database (2), [[Databases]] (2), management (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Databases]] (2), [[Database Management]] (1), [[Cloud Computing]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Block storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980)
+#### [Block storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=0)** - [Instructor] Block storage is the oldest and simplest form of data storage.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=0)** - [Instructor] Block storage is the oldest and simplest form of [[Data Storage]].
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=4)** Although cloud providers may vary in how they charge for block storage services it's typically cheaper than the other types of storage, such as object storage.
 >
@@ -207,9 +203,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=20)** Blocks are much like shoe boxes that you have leverage when you were younger, where all the boxes are the same size and can hold different items and amounts of items.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=30)** Block storage is just a way that cloud computing platforms can store and organize data.
+> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=30)** Block storage is just a way that [[Cloud Computing]] platforms can store and organize data.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=35)** We'll see that object and file storage, two more types of cloud storage, also provides storage mechanisms but do so in different ways.
+> **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=35)** We'll see that object and file storage, two more types of [[Cloud Storage]], also provides storage mechanisms but do so in different ways.
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=42)** We'll cover those next.
 >
@@ -225,11 +221,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=77)** The address is only identifying part of a block.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=81)** Thus, there is no metadata associated with each block.
+> **[1:21](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=81)** Thus, there is no [[Metadata]] associated with each block.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=85)** This structure leads to faster performance when the application and storage systems are co-located, but can lead to more latency when they're apart.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=94)** The fine grain control that block storage provides makes it a good fit for applications that require high performance, such as applications that support transactions or database applications.
+> **[1:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=94)** The fine grain control that block storage provides makes it a good fit for applications that require high performance, such as applications that support transactions or [[Database Applications]].
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/block-storage?u=76281980&t=105)** What you need to understand about block storage is that it's a more primitive form of storage but has its own advantages for use.
 >
@@ -241,25 +237,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (3), application (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Cloud Computing]] (1), [[Cloud Storage]] (1), [[Metadata]] (1), [[Database Applications]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** scsi (2)
 > **Definitions:** short for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980)
+#### [Object storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=1)** - [Instructor] Compared to block storage, object storage is the newer technology.
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=5)** Object storage bundles data with customizable metadata that is a unique identifier to form objects.
+> **[0:05](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=5)** Object storage bundles data with customizable [[Metadata]] that is a unique identifier to form objects.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=13)** Objects exist in a flat address space and there is no limit on the number of objects stored.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=18)** Thus providing natural scalability or the ability to expand as needed with virtually no limitations.
+> **[0:18](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=18)** Thus providing natural [[Scalability]] or the ability to expand as needed with virtually no limitations.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=24)** This makes it a natural fit for cloud-based applications where scaling is often a sought after attribute.
 >
@@ -279,20 +274,19 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=72)** For unstructured objects, object storage is the way to go.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=75)** The flexible search capabilities and unlimited growth make object storage ideal for unstructured data.
+> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=75)** The flexible search capabilities and unlimited growth make object storage ideal for [[Unstructured Data]].
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=82)** Object storage is the only option that can effectively store this data at scale and thus is popular for use on cloud computing systems.
+> **[1:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/object-storage?u=76281980&t=82)** Object storage is the only option that can effectively store this data at scale and thus is popular for use on [[Cloud Computing]] systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Metadata]] (3), cloud (2), [[Search]] (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Scalability]] (1), [[Unstructured Data]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### File storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980)
+#### [File storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=34)** Often, this is the easiest way to store and retrieve information.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=39)** The larger cloud providers offer file storage as a service, such as Amazon Web Services or AWS, Microsoft, and Google.
+> **[0:39](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=39)** The larger cloud providers offer file storage as a service, such as [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS, [[Microsoft]], and [[Google]].
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=48)** However, you can use cloud providers such as Dropbox and [Box.net](https://Box.net) that just offer file storage services.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=90)** This means that we can place them in purpose created buckets that typically relates to their purpose.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=97)** For example, having all of your word processing documents in a document directory.
+> **[1:37](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=97)** For example, having all of your [[Microsoft Word|word]] processing documents in a document directory.
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=103)** When using file systems, sharing is also possible.
 >
@@ -334,13 +328,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=122)** While file storage should be the most familiar to you, it's a matter of finding the right type of storage for the right purposes.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=129)** You'll find that all three of these types of cloud storage systems have specific advantages and disadvantages that make them the right fit for specific use cases.
+> **[2:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=129)** You'll find that all three of these types of [[Cloud Storage]] systems have specific advantages and disadvantages that make them the right fit for specific use cases.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/file-storage?u=76281980&t=140)** Thus, it's helpful to understand what storage options are available to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1), [[Microsoft Word|Word]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), means that (1)
@@ -348,12 +342,11 @@ created: 2026-05-02
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning your storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980)
+#### [Planning your storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=0)** - [David] The steps for deploying cloud storage are not unlike steps to build and deploy applications, databases, or any other system or system components that will live in a public cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=0)** - [David] The steps for deploying [[Cloud Storage]] are not unlike steps to build and deploy applications, [[Databases]], or any other system or system components that will live in a public cloud.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=10)** This includes define, develop, test, and operate.
 >
@@ -375,11 +368,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=94)** Finally, operate refers to the fact that we need to monitor and tweak the functioning of the storage system over a long period of time.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=102)** Thus, what processes and procedures need to be followed to perform basic storage system operations such as backup and recovery, performance tuning and any process that maintains the storage system over time and ensure that it's able to meet the needs of the business.
+> **[1:42](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=102)** Thus, what processes and procedures need to be followed to perform basic storage system operations such as backup and recovery, [[Performance Tuning]] and any process that maintains the storage system over time and ensure that it's able to meet the needs of the business.
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=118)** Keep in mind that this is only part of the overall cloud architecture process.
 >
-> **[2:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=122)** If you want to understand more about how cloud storage fits into the larger cloud computing architecture process it's a good idea to take a course on basic cloud computing architecture.
+> **[2:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=122)** If you want to understand more about how cloud storage fits into the larger [[Cloud Computing]] architecture process it's a good idea to take a course on basic cloud computing architecture.
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/planning-your-storage?u=76281980&t=134)** Here's one that you may want to consider.
 >
@@ -387,19 +380,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), business (2), [[Databases]] (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (5), [[Cloud Computing]] (2), [[Databases]] (1), [[Performance Tuning]] (1)
 > **Definitions:** means that (2), defined as (1), refers to (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [david] (1)
 
-#### Creating the business case for cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980)
+#### [Creating the business case for cloud storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=0)** - [Instructor] A business case, simply put, is looking at the business value that the use of any technology will create, in this case, cloud storage.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=0)** - [Instructor] A business case, simply put, is looking at the business value that the use of any technology will create, in this case, [[Cloud Storage]].
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=9)** For our purposes, we're only looking at cloud storage, but in most use cases, we're looking at cloud storage with a number of other technologies that are brought together to create a common solution that provides the business value.
 >
@@ -417,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=62)** To come to our conclusion, we need to focus on the problems and objectives we're defining in the define phase of our planning.
 >
-> **[1:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=71)** For example, if we're storing images in an object storage system that's able to provide better product descriptions for e-commerce websites, that may generate more sales.
+> **[1:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=71)** For example, if we're storing images in an object storage system that's able to provide better product descriptions for [[E-Commerce]] websites, that may generate more sales.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/creating-the-business-case-for-cloud-storage?u=76281980&t=81)** The sales generated are the value that's returned for the use of that cloud object storage system.
 >
@@ -427,14 +419,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (7), product (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (7), [[E-Commerce]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Which type of storage should you leverage?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980)
+#### [Challenge: Which type of storage should you leverage?](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,20 +445,19 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=47)** As you can tell, this often becomes confusing.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=50)** Indeed, a common complaint is that the tool sent looks nothing like the photo online which has resulted in returns of products and you have to absorb the shipping costs for the return.
+> **[0:50](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=50)** Indeed, a common complaint is that the tool sent looks nothing like the photo online which has resulted in returns of [[Microsoft Products|products]] and you have to absorb the shipping costs for the return.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=62)** A better approach would be for your website to use a cloud-based storage system where the product data and the images are stored together, thus avoiding confusion of storing the data and the images in two different places.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=75)** So what cloud storage system would you leverage?
+> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-which-type-of-storage-should-you-leverage?u=76281980&t=75)** So what [[Cloud Storage]] system would you leverage?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), business (2), product (2), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Cloud Storage]] (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: How to think about storage types
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980)
+#### [Solution: How to think about storage types](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=7)** What would you suggest as a way to improve this technology solution?
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=11)** It's rather obvious to pick a cloud object storage system as a storage system of choice that is able to store unstructured data, such as an image, as well as structured data, such as product information including a product ID and a product description.
+> **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=11)** It's rather obvious to pick a cloud object storage system as a storage system of choice that is able to store [[Unstructured Data]], such as an image, as well as structured data, such as product information including a product ID and a product description.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=28)** So if that's what you were thinking, that's a correct type of storage system you need to leverage.
 >
@@ -485,13 +475,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=47)** Block storage could be a better solution if structured data was to be stored and images did not need to be processed.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=54)** Block storage is an older and cheaper type of cloud storage.
+> **[0:54](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=54)** Block storage is an older and cheaper type of [[Cloud Storage]].
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=58)** Thus, if you end up storing a great deal of information, you're likely to save money, but there can be limits on growth, and performance can be an issue if not structured correctly.
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=69)** That said, it may be a better fit considering the cost efficiencies and the use case.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=75)** As we'll discuss later in this course, while the types of cloud storage systems are good to understand, in many instances, you'll find that you'll leverage these storage systems through other systems, such as databases.
+> **[1:15](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=75)** As we'll discuss later in this course, while the types of cloud storage systems are good to understand, in many instances, you'll find that you'll leverage these storage systems through other systems, such as [[Databases]].
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-how-to-think-about-storage-types?u=76281980&t=87)** These are systems that assist you in organizing both structured and unstructured data on different types of storage systems.
 >
@@ -501,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (3), product (3), [[Unstructured Data]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Unstructured Data]] (2), [[Databases]] (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
@@ -514,20 +504,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
+#### [Cloud databases](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=0)** - [Instructor] This section of the course will focus on higher-level cloud storage services which use lower level services for basic functions of storage.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=0)** - [Instructor] This section of the course will focus on higher-level [[Cloud Storage]] services which use lower level services for basic functions of storage.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=8)** Simply put, this means that there are many cloud services that store data and other information for you.
+> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=8)** Simply put, this means that there are many [[Cloud Services]] that store data and other information for you.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=14)** Using the underlying storage services are often called primitive services.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=19)** This makes it easier to deal with native cloud storage types and services, such as object storage, block storage, file storage since the complexities of those services are hidden from you.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=30)** You can think of cloud storage types as being primitive to higher-level storage management services, such as databases, backup and recovery services, and other systems that must store information as part of their core functionality.
+> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=30)** You can think of cloud storage types as being primitive to higher-level [[Storage Management]] services, such as [[Databases]], backup and recovery services, and other systems that must store information as part of their core functionality.
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=45)** Indeed, it's more likely that you'll leverage primitive cloud storage services through these types of higher-level services.
 >
@@ -535,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=59)** A database is perhaps the most used of all of these higher-level services.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=65)** These are systems, as the name implies, that provide data storage, data management, and data retrieval services, allowing you to store data through a user interface, or more likely through an application that's able to store data in the database using an API, or application programming interface.
+> **[1:05](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=65)** These are systems, as the name implies, that provide [[Data Storage]], [[Data Management]], and data retrieval services, allowing you to store data through a user interface, or more likely through an application that's able to store data in the database using an API, or application programming interface.
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=83)** As you can see in this diagram, the application is able to add, delete, and edit data in the database through the use of an API.
 >
@@ -547,13 +536,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=121)** As you can see by the screenshot of public cloud database services available, there are hundreds of databases that each public cloud provider makes available.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=129)** These include relational databases such as MySQL, in the cloud, which is found on most public cloud providers.
+> **[2:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=129)** These include [[Relational Databases]] such as [[MySQL]], in the cloud, which is found on most public cloud providers.
 >
-> **[2:18](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=138)** Object databases such as DynamoDB from AWS or Amazon Web Services, data warehousing-focused databases such as AWS's Redshift.
+> **[2:18](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=138)** Object databases such as DynamoDB from AWS or [[Amazon Web Services (AWS)|Amazon Web Services]], [[Data Warehousing]]-focused databases such as AWS's Redshift.
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=148)** It's also helpful to note that there are several types of database deployments that leverage many different types of databases.
 >
-> **[2:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=154)** Data lakes, for instance, are a collection of structured and unstructured data that you can use to store and understand data.
+> **[2:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=154)** [[Data Lakes]], for instance, are a collection of structured and [[Unstructured Data]] that you can use to store and understand data.
 >
 > **[2:44](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980&t=164)** When you add more structure to a data lake, it's known as a data lake house.
 >
@@ -573,7 +562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), data (17), [[Databases]] (11), database (9), application (3)
+> **Frameworks & Libraries:** [[Databases]] (11), [[Cloud Storage]] (5), [[Cloud Services]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Data Lakes]] (2)
 > **Analogies:** such as (7), for instance (1), for example (1)
 > **Env Vars:** api (2), aws (2)
 > **CLI Commands:** aws (2), mysql (1)
@@ -582,8 +571,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud file storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980)
+#### [Cloud file storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980&t=47)** These services align and backup important files, share files with others, and even share files between computers and mobile phones that you may own.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980&t=56)** Like cloud databases, these systems often leverage native public cloud storage systems such as block, object, and file storage, or they may use their own proprietary storage technology as the primitive storage services.
+> **[0:56](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980&t=56)** Like cloud [[Databases]], these systems often leverage native public [[Cloud Storage]] systems such as block, object, and file storage, or they may use their own proprietary storage technology as the primitive storage services.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-file-storage?u=76281980&t=71)** The focus here is just on basic functions of cloud file storage services.
 >
@@ -609,14 +597,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Cloud Storage]] (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Analogies:** such as (2)
 > **URLs:** [box.net](https://box.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backup and recovery services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980)
+#### [Backup and recovery services](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=84)** While there are, of course, many on-premise backup and recovery services, the cloud-based services are often more cost effective.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=91)** This considering that you don't need to own your own hardware and software.
+> **[1:31](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=91)** This considering that you don't need to own your own [[Hardware]] and software.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=95)** It's delivered as a service from a public cloud provider.
 >
@@ -650,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=107)** Other types of backup and recovery services are able to store large amounts of data in the cloud, such as a database run by a business, again, as a redundant backup in case the original data is lost or corrupted.
 >
-> **[2:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=122)** An example of a public cloud backup service is Amazon Web Services Glacier that's able to back up data to the Amazon Web Services Cloud or other third party services, such as Druva, providing backup and recovery services to protect from ransomware attacks and other catastrophic events.
+> **[2:02](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=122)** An example of a public cloud backup service is [[Amazon Web Services (AWS)|Amazon Web Services]] Glacier that's able to back up data to the Amazon Web Services Cloud or other third party services, such as Druva, providing backup and recovery services to protect from ransomware attacks and other catastrophic events.
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/backup-and-recovery-services?u=76281980&t=142)** These are often good ideas, considering the importance of your data, documents, and binary files such as audio and video, and also considering the rise of data attacks such as ransomware.
 >
@@ -660,18 +647,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (9), business (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Hardware]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other cloud services that leverage cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980)
+#### [Other cloud services that leverage cloud storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=0)** - [Narrator] Cloud services that leverage cloud storage, such as databases and backup and recovery systems, are too numerous to list specifically here.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=0)** - [Narrator] [[Cloud Services]] that leverage [[Cloud Storage]], such as [[Databases]] and backup and recovery systems, are too numerous to list specifically here.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=10)** Basically, most cloud services need to leverage some sort of cloud storage no matter if it's a cloud-based word processor or spreadsheet, to a room design system that needs to store designs, to a video processing system that needs to store video content.
+> **[0:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=10)** Basically, most cloud services need to leverage some sort of cloud storage no matter if it's a cloud-based [[Microsoft Word|word]] processor or spreadsheet, to a room design system that needs to store designs, to a video processing system that needs to store video content.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=25)** Everything needs some type of storage.
 >
@@ -681,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=47)** If you ever lost your iPhone, you know how important these services are, considering that they can recover all of your data if your phone is lost or destroyed.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=57)** Another example would be any Internet of Things, or IoT, device, such as a smartwatch, smart TV, or smart thermostat.
+> **[0:57](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=57)** Another example would be any [[IoT|Internet of Things]], or [[IoT]], device, such as a smartwatch, smart TV, or smart thermostat.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/other-cloud-services-that-leverage-cloud-storage?u=76281980&t=67)** These devices don't usually have the capability to store data on the device and must depend on remote cloud storing services as the primary storage system for any data that must be maintained.
 >
@@ -693,29 +679,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (3), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (5), [[Cloud Services]] (2), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[IoT|Internet of things]] (1)
 > **Code Identifiers:** iphone (2), icloud (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [narrator] (1)
 
-#### Sample applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980)
+#### [Sample applications](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=0)** - [Narrator] Applications that leverage cloud storage can be applications that are already built, or they can be applications that you're able to build to solve business problems.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=0)** - [Narrator] Applications that leverage [[Cloud Storage]] can be applications that are already built, or they can be applications that you're able to build to solve business problems.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=11)** Let's look at a few examples.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=13)** Let's start with a database using an object storage service as a foundation that's able to store any type of data in support of an application.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=22)** For instance, a business transaction application that's able to record and store data about a sale, such as customer name, address, products purchased, etcetera.
+> **[0:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=22)** For instance, a business transaction application that's able to record and store data about a sale, such as customer name, address, [[Microsoft Products|products]] purchased, etcetera.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=34)** In this case, the data is stored in an object database called DynamoDB that runs on Amazon Web Services.
+> **[0:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=34)** In this case, the data is stored in an object database called DynamoDB that runs on [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=41)** This database is able to persist the data, as well as find data and process data to add value to the business.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=49)** Using an object database that leverages object storage services, such as a business intelligence application, is able to leverage massive amounts of sales data to determine useful information.
+> **[0:49](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=49)** Using an object database that leverages object storage services, such as a [[Business Intelligence (BI)|business intelligence]] application, is able to leverage massive amounts of sales data to determine useful information.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=60)** For example, what sales are made based on the time of year and what marketing campaigns are most effective.
 >
@@ -727,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=88)** However, making things a bit more confusing, that's not always the case.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=93)** In some object databases, you use block storage systems or even their own proprietary services to support their database system.
+> **[1:33](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=93)** In some object [[Databases]], you use block storage systems or even their own proprietary services to support their database system.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/sample-applications?u=76281980&t=102)** Thus, it's not always obvious what storage technology a specific database is using, but they are often happy to answer that question if you ask.
 >
@@ -737,18 +722,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (7), business (5), cloud (4), application (3)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Microsoft Products|Products]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Databases]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Selecting a backup and recovery storage solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-selecting-a-backup-and-recovery-storage-solution?u=76281980)
+#### [Challenge: Selecting a backup and recovery storage solution](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-selecting-a-backup-and-recovery-storage-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-selecting-a-backup-and-recovery-storage-solution?u=76281980&t=0)** - [Lecturer] You've been challenged to find a backup and recovery solution for your sales and inventory databases.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-selecting-a-backup-and-recovery-storage-solution?u=76281980&t=0)** - [Lecturer] You've been challenged to find a backup and recovery solution for your sales and inventory [[Databases]].
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-selecting-a-backup-and-recovery-storage-solution?u=76281980&t=11)** The sales database is running in your data center on a traditional database.
 >
@@ -768,13 +752,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), database (3), [[Databases]] (2), data (2), business (2)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Selecting a backup and recovery storage solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-selecting-a-backup-and-recovery-storage-solution?u=76281980)
+#### [Solution: Selecting a backup and recovery storage solution](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-selecting-a-backup-and-recovery-storage-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +791,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (4), [[Security]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -818,18 +800,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your storage requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
+#### [Understanding your storage requirements](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=0)** - [Instructor] Before we can do storage planning, we need to understand our core storage requirements.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=4)** This is typically what you think it would be, such as amount of storage needed, such as five terabytes, for example, type of storage needed, such as primitive storage services, object, block, and file, or higher level data storage systems, such as databases, storage performance needed, or what speed do they need to support.
+> **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=4)** This is typically what you think it would be, such as amount of storage needed, such as five terabytes, for example, type of storage needed, such as primitive storage services, object, block, and file, or higher level [[Data Storage]] systems, such as [[Databases]], storage performance needed, or what speed do they need to support.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=27)** Finally, use cases, or how will the storage system be used?
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=33)** The amount of cloud storage you may need is pretty easy to figure out.
+> **[0:33](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=33)** The amount of [[Cloud Storage]] you may need is pretty easy to figure out.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=37)** We're looking at a few key data points.
 >
@@ -845,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=69)** In many cases, those doing storage planning underestimate the speed of growth, and thus under provision their cloud storage system.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=77)** This is more of an issue when dealing with traditional hardware systems where you need to buy and install more physical storage to support growth.
+> **[1:17](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=77)** This is more of an issue when dealing with traditional [[Hardware]] systems where you need to buy and install more physical storage to support growth.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=85)** Sometimes you may hit an upper limit of what a cloud storage system can support, which can be a huge problem.
 >
@@ -867,29 +848,28 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=142)** Examples of use cases you should consider includes sales order entry system, which is a transactional system for recording sales in a database.
 >
-> **[2:32](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=152)** Business analytics, needing long-term storage that can manage a massive amount of data.
+> **[2:32](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=152)** [[Business Analytics]], needing long-term storage that can manage a massive amount of data.
 >
-> **[2:38](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=158)** Data security, in that, it requires storage systems that can support the most effective security.
+> **[2:38](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=158)** [[Data Security]], in that, it requires storage systems that can support the most effective security.
 >
-> **[2:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=167)** Requirements are often overlooked when cloud architects and developers approach cloud storage, or other cloud services for that matter.
+> **[2:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=167)** Requirements are often overlooked when cloud architects and developers approach cloud storage, or other [[Cloud Services]] for that matter.
 >
 > **[2:53](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980&t=173)** However, as you can see from this video, there's a great deal of things that you need to consider in order to get your storage solution right the first time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (5), business (3), application (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Data Storage]] (1), [[Databases]] (1), [[Hardware]] (1), [[Business Analytics]] (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining costs and storage billing models
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980)
+#### [Defining costs and storage billing models](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=0)** - [David] Cloud storage systems charge for storage services in many different ways.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=0)** - [David] [[Cloud Storage]] systems charge for storage services in many different ways.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=4)** It's important that you understand how they charge and be able to effectively estimate the cost of cloud storage over time and how those costs may change as you expand storage into the future.
 >
@@ -899,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=43)** Tiered storage billing is found with public cloud providers that just focus on file sharing and are not full service cloud providers.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=52)** You may be leveraging these cloud services now for file sharing as well as backup and recovery.
+> **[0:52](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=52)** You may be leveraging these [[Cloud Services]] now for file sharing as well as backup and recovery.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=59)** Tiered storage means that we're billing for a tier of use such as one to 100 gigabytes, which is free.
 >
@@ -921,7 +901,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=125)** For instance, object storage is normally more expensive than block storage.
 >
-> **[2:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=130)** This also refers to databases, either specific to a cloud provider or not.
+> **[2:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=130)** This also refers to [[Databases]], either specific to a cloud provider or not.
 >
 > **[2:16](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=136)** These bill in different ways.
 >
@@ -937,7 +917,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=172)** The concept here is to have an idea of how they are billing you and make sure not to get surprised with a big cloud storage bill.
 >
-> **[3:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=181)** It may be helpful for you to understand the larger concept of cloud financial operations or FinOps.
+> **[3:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=181)** It may be helpful for you to understand the larger concept of cloud [[Financial Operations]] or FinOps.
 >
 > **[3:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-costs-and-storage-billing-models?u=76281980&t=188)** This is a larger concept of understanding how to understand and manage cloud costs.
 >
@@ -947,14 +927,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), data (4), [[Databases]] (1), database (1), [[Financial Operations]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (6), [[Cloud Services]] (1), [[Databases]] (1), [[Financial Operations]] (1)
 > **Definitions:** means that (2), known as (1), refers to (1), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
-#### Defining projected storage growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980)
+#### [Defining projected storage growth](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=34)** Cost is often difficult to determine since cloud providers all have very different pricing and terms in how they bill for storage.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=43)** Data growth also requires you to consider other coupled cloud services, such as the size of your backup and recovery solution which grows with your storage size over time, as well.
+> **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=43)** Data growth also requires you to consider other coupled [[Cloud Services]], such as the size of your backup and recovery solution which grows with your storage size over time, as well.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=56)** However, there are a few areas of guidance.
 >
@@ -988,24 +967,23 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=108)** In the end, you're attempting to get as close as you can in understanding how your storage will likely grow.
 >
-> **[1:55](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=115)** Consider that one of the advantages of leveraging cloud computing storage is that the growth does not mean purchasing more physical storage and leasing more data center space.
+> **[1:55](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=115)** Consider that one of the advantages of leveraging [[Cloud Computing]] storage is that the growth does not mean purchasing more physical storage and leasing more data center space.
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/defining-projected-storage-growth?u=76281980&t=124)** It's all done in the public cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (4), business (2), database (1), hit (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementation planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980)
+#### [Implementation planning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=0)** - [Instructor] One of the advantages of leveraging cloud storage is that implementation of cloud storage services does not require that you purchase hardware.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=0)** - [Instructor] One of the advantages of leveraging [[Cloud Storage]] is that implementation of cloud storage services does not require that you purchase [[Hardware]].
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=8)** It's a matter of picking the amount and type of storage that you want from the dashboard of the public cloud computing provider.
+> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=8)** It's a matter of picking the amount and type of storage that you want from the dashboard of the public [[Cloud Computing]] provider.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=16)** And the storage system is allocated for you.
 >
@@ -1013,7 +991,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=23)** There is a standard cloud storage implementation checklist that should always be considered.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=29)** Including storage operations, storage security, storage governance, and storage cost management.
+> **[0:29](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=29)** Including storage operations, storage security, storage governance, and storage [[Cost Management]].
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/implementation-planning?u=76281980&t=36)** We'll cover storage operations next so we won't dwell on it here.
 >
@@ -1045,19 +1023,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (4), [[Cost Management]] (2), data (2), database (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Cost Management]] (2), [[Hardware]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storage operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980)
+#### [Storage operations](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=0)** - [Dave] The proper operations of a cloud storage system have many components, also is related to the planning that goes into what makes up storage operations specifically for your specific business needs.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=0)** - [Dave] The proper operations of a [[Cloud Storage]] system have many components, also is related to the planning that goes into what makes up storage operations specifically for your specific business needs.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=14)** While there are many things to consider, the core storage operations planning concept that you should consider includes observability, performance, backup and recovery, security operations, and cost management.
+> **[0:14](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=14)** While there are many things to consider, the core storage operations planning concept that you should consider includes observability, performance, backup and recovery, [[Security Operations]], and [[Cost Management]].
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=29)** Observability as related to storage operations refers to the understanding of basic monitoring data that is gathered from the storage systems.
 >
@@ -1077,7 +1054,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=121)** Security operations are how we're going to maintain security around the storage system over time.
 >
-> **[2:07](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=127)** This includes things such as encryption, identity and access management, or IAM, and multi-factor authentication, or MFA, or other subsystems that protect the data being stored.
+> **[2:07](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=127)** This includes things such as encryption, identity and access management, or IAM, and [[Multi-factor Authentication]], or MFA, or other subsystems that protect the data being stored.
 >
 > **[2:20](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=140)** Finally, cost management operations are how we're going to monitor cost and consumption over time, a topic we've already covered, but needs to be a part of cloud storage operations planning.
 >
@@ -1085,13 +1062,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=161)** All systems need to be considered, including applications, compute, AI, and other major systems that work together to create a business solution.
 >
-> **[2:50](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=170)** However, understanding what's needed around storage operations planning is fundamental to a healthy cloud computing architecture.
+> **[2:50](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=170)** However, understanding what's needed around storage operations planning is fundamental to a healthy [[Cloud Computing]] architecture.
 >
 > **[2:59](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/storage-operations?u=76281980&t=179)** For more information about cloud computing architecture as well as cloud operations and observability, we urge you to check out these courses, [[Cloud Architecture- Core Concepts]] by myself, David Linthicum, Learning Cloud Computing: Observability and Operations, also by myself, Dave Linthicum.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (7), [[Security]] (3), business (2), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (4), [[Cloud Computing]] (3), [[Security Operations]] (2), [[Cost Management]] (2), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (5)
 > **Env Vars:** iam (1), mfa (1)
 > **Definitions:** refers to (1), means that (1)
@@ -1099,8 +1076,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [dave] (1)
 
-#### Challenge: Setting up storage operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980)
+#### [Challenge: Setting up storage operations](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980&t=31)** Keep in mind that you need to focus on what needs to be considered and added to the plan.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980&t=36)** Also, what needs to be part of storage operations for this cloud storage system and the concepts that need to be addressed?
+> **[0:36](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980&t=36)** Also, what needs to be part of storage operations for this [[Cloud Storage]] system and the concepts that need to be addressed?
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/challenge-setting-up-storage-operations?u=76281980&t=45)** Let's see how you do.
 >
@@ -1124,18 +1100,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Setting up storage operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980)
+#### [Solution: Setting up storage operations](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=0)** - [Instructor] Again, you work at a wholesale foods company who is expanding their cloud computing storage.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=0)** - [Instructor] Again, you work at a wholesale foods company who is expanding their [[Cloud Computing]] storage.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=12)** You've been asked to set up a storage operations plan by your boss to support this expansion.
 >
@@ -1145,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=33)** Well, there are many things to think about.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=35)** The core storage operations planning concepts that you should consider include the following in your plan: observability, performance, backup and recovery, security operations, and cost management.
+> **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=35)** The core storage operations planning concepts that you should consider include the following in your plan: observability, performance, backup and recovery, [[Security Operations]], and [[Cost Management]].
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=48)** In this case, observability could be the monitoring of systems in place to look at major storage system components while they're running, such as memory, performance, IO saturation, et cetera.
 >
@@ -1163,7 +1138,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=98)** What do you think is best?
 >
-> **[1:40](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=100)** Again, listing how you plan on monitoring performance, such as what you plan on monitoring and what thresholds will be set around performance metrics or what constitutes good performance and what does not.
+> **[1:40](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=100)** Again, listing how you plan on monitoring performance, such as what you plan on monitoring and what thresholds will be set around [[Performance Metrics]] or what constitutes good performance and what does not.
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/solution-setting-up-storage-operations?u=76281980&t=113)** Need to make sure that backup and recovery is included as well.
 >
@@ -1181,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), cloud (1), business (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Security Operations]] (2), [[Cloud Computing]] (1), [[Cost Management]] (1), [[Performance Metrics]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (3)
@@ -1194,12 +1169,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Allocating storage instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
+#### [Allocating storage instances](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=1)** - [Instructor] In order to understand public cloud storage better, let's take a look at one of the most popular cloud storage systems, those storage systems from AWS or Amazon Web services.
+> **[0:01](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=1)** - [Instructor] In order to understand public [[Cloud Storage]] better, let's take a look at one of the most popular cloud storage systems, those storage systems from AWS or [[Amazon Web Services (AWS)|Amazon Web services]].
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=11)** This does not mean that we're recommending AWS, just using it as an example.
 >
@@ -1211,7 +1185,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=30)** We have a few types of primitive storage systems we can utilize, including the storage systems listed under storage from the AWS dashboard.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=38)** Also note, you can access databases from here as well, or hundreds of other types of cloud services, for that matter.
+> **[0:38](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=38)** Also note, you can access [[Databases]] from here as well, or hundreds of other types of [[Cloud Services]], for that matter.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980&t=44)** Databases, as you may recall, may use more primitive storage services as primary mechanisms for how data used from a database is stored in the cloud.
 >
@@ -1241,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), aws (5), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Databases]] (2), [[Cloud Services]] (1)
 > **CLI Commands:** aws (5), find (2), make (1)
 > **Env Vars:** aws (5)
 > **UI Navigation:** select the (1), go to (1)
@@ -1249,12 +1223,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Placing data on cloud storage instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/placing-data-on-cloud-storage-instances?u=76281980)
+#### [Placing data on cloud storage instances](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/placing-data-on-cloud-storage-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/placing-data-on-cloud-storage-instances?u=76281980&t=0)** - [Instructor] Placing data in a running storage resource, in this case, an Amazon Web Service's S3 bucket, which is really just storing data in the allocated cloud storage can look like many things.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/placing-data-on-cloud-storage-instances?u=76281980&t=0)** - [Instructor] Placing data in a running storage resource, in this case, an Amazon Web Service's S3 bucket, which is really just storing data in the allocated [[Cloud Storage]] can look like many things.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/placing-data-on-cloud-storage-instances?u=76281980&t=13)** For example, you can upload a file from your computer to an object storage system or file system by using the dashboard.
 >
@@ -1278,24 +1251,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (3), web (1), api (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing cloud storage instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980)
+#### [Securing cloud storage instances](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=0)** - [Instructor] Security around cloud computing storage can take on many forms.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=0)** - [Instructor] Security around [[Cloud Computing]] storage can take on many [[Forms]].
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=4)** We need to consider how users and applications are to be authenticated to the cloud storage system and even adding more sophisticated security services, such as identity access management.
+> **[0:04](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=4)** We need to consider how users and applications are to be authenticated to the [[Cloud Storage]] system and even adding more sophisticated security services, such as identity access management.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=17)** While we're limited in what we can show you here, you can leverage all types of security services, either native to the cloud provider or offered by a third party provider to meet your storage security needs exactly.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=30)** Keep in mind, on Amazon Web Services S3, that security's in two places.
+> **[0:30](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=30)** Keep in mind, on [[Amazon Web Services (AWS)|Amazon Web Services]] S3, that security's in two places.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/securing-cloud-storage-instances?u=76281980&t=37)** It's in property, where you're defining event notice, event-driven, static web hosting, and also encryption.
 >
@@ -1321,15 +1293,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), cloud (8), data (5), product (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[Cloud Computing]] (1), [[Forms]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing storage instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/removing-storage-instances?u=76281980)
+#### [Removing storage instances](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/removing-storage-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,27 +1322,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), aws (1), api (1), cloud (1)
 > **Env Vars:** aws (1), api (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Usage-based accounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980)
+#### [Usage-based accounting](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=0)** - [Instructor] AWS provides a cost and usage monitoring system that is able to track storage usage and cost as well.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=8)** Here you'll see the data points around how you're being charged, such as volume of data stored, data sent out of and into your cloud storage system from external systems such as other clouds or traditional systems that you may own.
+> **[0:08](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=8)** Here you'll see the data points around how you're being charged, such as volume of data stored, data sent out of and into your [[Cloud Storage]] system from external systems such as other clouds or traditional systems that you may own.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=25)** Also, in some cases, time used, and the use of other services that you may need such as security and monitoring.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=35)** Note that in this subsystem, you can download your report as a spreadsheet or an XML file or just look at it on the screen.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=43)** Keep in mind that there are many other ways to see this data as well, including third party FinOps, or financial operations management tools, or even other tools that Public Cloud Provider provides natively.
+> **[0:43](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=43)** Keep in mind that there are many other ways to see this data as well, including third party FinOps, or [[Financial Operations]] management tools, or even other tools that Public Cloud Provider provides natively.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/usage-based-accounting?u=76281980&t=56)** The idea is to keep an eye on this and understand what you're spending money on and for what purpose.
 >
@@ -1379,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), cloud (2), aws (1), [[Security]] (1), [[Financial Operations]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[Financial Operations]] (1)
 > **Analogies:** such as (4)
 > **Warnings:** note that (1), keep in mind (1), warning (1)
 > **Env Vars:** aws (1), xml (1)
@@ -1391,12 +1360,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More about cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)
+#### [More about cloud storage](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=0)** - [Instructor] This is an introductory course that provides you with enough information to understand what cloud storage is, including core concepts, as well as allowing you to get started.
+> **[0:00](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=0)** - [Instructor] This is an introductory course that provides you with enough information to understand what [[Cloud Storage]] is, including core concepts, as well as allowing you to get started.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=10)** Your best path from here is just to experience it.
 >
@@ -1404,13 +1372,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=21)** Perhaps try several and thus understand the differences in why you would use one over the other for specific use cases.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=29)** If interested, you can continue your journey here, understanding other aspects of cloud computing such as compute, AI, data analytics, and cloud computing architecture, high level skills that allow you to understand how all of this comes together to form a complete business solution.
+> **[0:29](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=29)** If interested, you can continue your journey here, understanding other aspects of [[Cloud Computing]] such as compute, AI, data analytics, and cloud computing architecture, high level skills that allow you to understand how all of this comes together to form a complete business solution.
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980&t=47)** We wish you the best of luck on your learning journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), ai (1), data (1), [[Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[Cloud Computing]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Program databases with SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
+#### [Program databases with SQL Server](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=0)** - [Adam] Early on in the development process of a SQL server database, it becomes clear that manually typing commands and sending them to the server one at a time is not going to be a longterm sustainable practice.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=0)** - [Adam] Early on in the development process of a [[Microsoft SQL Server|SQL server]] database, it becomes clear that manually typing commands and sending them to the server one at a time is not going to be a longterm sustainable practice.
 >
 > **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=12)** By leveraging programmability objects and techniques, you can improve the reusability of your code and the consistency of the actions that you want the server to perform.
 >
-> **[0:22](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=22)** Hi, I'm Adam Wilbert and I've been helping people better leverage databases for over a decade.
+> **[0:22](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=22)** Hi, I'm Adam Wilbert and I've been helping people better leverage [[Databases]] for over a decade.
 >
 > **[0:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980&t=28)** In this course, I'll show you how to transition from writing one-off queries to creating repeatable code elements.
 >
@@ -116,19 +115,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, I'll expect that you have some familiarity with SQL Server and the graphical interface, Management Studio.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, I'll expect that you have some familiarity with [[Microsoft SQL Server|SQL Server]] and the graphical interface, Management Studio.
 >
-> **[0:09](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980&t=9)** You should be able to write Transact-SQL commands and have an understanding about how tables and keys work in a relational database.
+> **[0:09](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980&t=9)** You should be able to write [[Transact-SQL (T-SQL)|Transact-SQL]] commands and have an understanding about how tables and keys work in a relational database.
 >
 > **[0:17](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-you-should-know?u=76281980&t=17)** I'll be using SQL Server 2019 and Management Studio version 18, but you shouldn't have any problems following along if you're on an older or a newer version.
 >
@@ -138,13 +136,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), management (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (5)
 > **Versions:** version 18 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,11 +151,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=10)** I've gone ahead and downloaded them and placed them here on my desktop, and inside of that folder is a folder for each chapter of the course, and inside of there are the individual scripts that we'll execute throughout each movie.
 >
-> **[0:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=20)** Now these are SQL files.
+> **[0:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=20)** Now these are [[SQL]] files.
 >
 > **[0:22](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=22)** You can open them up in any sort of text editor, such as Notepad or you can open up directly inside of Management Studio.
 >
-> **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=29)** This will allow us to execute the scripts against our databases.
+> **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=29)** This will allow us to execute the scripts against our [[Databases]].
 >
 > **[0:32](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=32)** Now the one thing you notice here on the screen is that I have line numbers turned on on my system, and that'll help you follow along.
 >
@@ -168,15 +165,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=53)** The other thing that we need is a database to execute our scripts against.
 >
-> **[0:56](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=56)** And we're going to be using a sample database from Microsoft called Wide World Importers.
+> **[0:56](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=56)** And we're going to be using a sample database from [[Microsoft]] called Wide World Importers.
 >
 > **[1:01](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=61)** Now I've already got it installed on my system, but I'll show you how to get it.
 >
-> **[1:04](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=64)** First, we need to go out to Microsoft's GitHub page at this URL.
+> **[1:04](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=64)** First, we need to go out to Microsoft's [[GitHub]] page at this URL.
 >
 > **[1:09](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=69)** Here, you'll find a link for the WideWorldImporters-Full.bak file.
 >
-> **[1:14](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=74)** Go ahead and download that, that's a database backup file, and we'll install it on our SQL server instance.
+> **[1:14](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=74)** Go ahead and download that, that's a database backup file, and we'll install it on our [[Microsoft SQL Server|SQL server]] instance.
 >
 > **[1:21](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=81)** Once it's done downloading we can go ahead and find it inside of our downloads folder on our computer.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=88)** Then we'll go into the SQL server backup folder, which you can find on your C Drive typically.
 >
-> **[1:33](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=93)** Inside of program files, Microsoft SQL server, the folder that corresponds to your server name and version number, and mine is MSSQL15.MSSQL SERVER.
+> **[1:33](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=93)** Inside of program files, [[Microsoft SQL Server]], the folder that corresponds to your server name and version number, and mine is MSSQL15.MSSQL SERVER.
 >
 > **[1:45](https://www.linkedin.com/learning/program-databases-with-transact-sql/using-the-exercise-files?u=76281980&t=105)** We'll go inside of there, then inside of the MSSQL folder, and finally backup.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), management (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Microsoft]] (2), [[GitHub]] (1)
 > **Env Vars:** sql (6), mssql (2), url (1), mssql15 (1), server (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), checkbox (1)
@@ -228,8 +225,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save a query as a view object
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
+#### [Save a query as a view object](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980&t=20)** Views don't generally store data themselves.
 >
-> **[0:23](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980&t=23)** Instead they fetch the current state of the data, from the requested tables, every time the view is called.
+> **[0:23](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980&t=23)** Instead they [[Fetch]] the current state of the data, from the requested tables, every time the view is called.
 >
 > **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980&t=29)** So there's no need to keep them updated or maintained, as the data that you're storing changes.
 >
@@ -347,15 +343,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (6), [[Fetch]] (1), application (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Prerequisites:** you need to have (2), assuming you have (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - when (1)
 
-#### Explore existing views
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980)
+#### [Explore existing views](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980&t=14)** This shows me that we have three views inside of the website schema, and these are the ones that come installed with the backup of the WideWorldImporters database, and then we have the two views that we created in the purchasing schema in the prior movie.
 >
-> **[0:27](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980&t=27)** Now if you're not using a graphical interface, or you'd rather just use a T-SQL command to get this information, you can query a system catalog view called sys.objects.
+> **[0:27](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980&t=27)** Now if you're not using a graphical interface, or you'd rather just use a T-[[SQL]] command to get this information, you can query a system catalog view called sys.objects.
 >
 > **[0:37](https://www.linkedin.com/learning/program-databases-with-transact-sql/explore-existing-views?u=76281980&t=37)** I have that query here on line number six.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (3), management (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **CLI Commands:** find (7)
 > **Code Identifiers:** object_id (3), ansi_nuls (1), sp_helptext (1)
 > **Env Vars:** sql (3)
@@ -442,8 +437,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SchemaBind a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980)
+#### [SchemaBind a view](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=76)** Let's execute line number 25 to make that change to our database table.
 >
-> **[1:21](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=81)** SQL Server allows this change to be made but notice that it does give a little information a warning in the messages window.
+> **[1:21](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=81)** [[Microsoft SQL Server|SQL Server]] allows this change to be made but notice that it does give a little information a warning in the messages window.
 >
 > **[1:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=88)** It says that changing any part of an object name could break scripts and stored procedures.
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=312)** We're going to pull out a couple of different columns.
 >
-> **[5:13](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=313)** And we're going to join it to the sql modules view that we saw in the prior movie.
+> **[5:13](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=313)** And we're going to join it to the [[SQL]] modules view that we saw in the prior movie.
 >
 > **[5:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/schemabind-a-view?u=76281980&t=319)** I'll highlight all of this on 74 down to 80, and execute it.
 >
@@ -577,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1), management (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Env Vars:** alter (3), sql (2), where (1)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** sp_rename (2), dm_sql_referencing_entities (1)
@@ -586,8 +580,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 
-#### Leverage view objects with indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980)
+#### [Leverage view objects with indexes](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=137)** Now, every time this view is run, the database engine needs to perform all of these joins that we have up here in the definition.
 >
-> **[2:25](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=145)** This can potentially be an expensive operation in terms of the impact on hardware resources, especially if this is a view that's used often by a lot of different users.
+> **[2:25](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=145)** This can potentially be an expensive operation in terms of the impact on [[Hardware]] resources, especially if this is a view that's used often by a lot of different users.
 >
 > **[2:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=155)** By adding an index to this view, we can permanently store a duplicate redundant copy of the data already joined or de normalized so that we can query it and not have to perform all of the joints every time.
 >
@@ -705,13 +698,13 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=340)** So you'll want to monitor it for performance to ensure that having the index view is a net positive gain.
 >
-> **[5:47](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=347)** But with the index in place, the SQL server query optimizer has another option for determining the best way to approach retrieving information from the database.
+> **[5:47](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=347)** But with the index in place, the [[Microsoft SQL Server|SQL server]] query optimizer has another option for determining the best way to approach retrieving information from the database.
 >
 > **[5:56](https://www.linkedin.com/learning/program-databases-with-transact-sql/leverage-view-objects-with-indexes?u=76281980&t=356)** It can pull information from the original tables, or it can pull it from the view.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (7), [[Hardware]] (2), hit (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -725,12 +718,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deterministic vs. nondeterministic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
+#### [Deterministic vs. nondeterministic functions](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=0)** - [Instructor] SQL Server ships with a ton of built-in functions that are useful for exploring and analyzing your data.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] ships with a ton of built-in functions that are useful for exploring and analyzing your data.
 >
 > **[0:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=7)** Like in other programming languages, SQL Server's functions usually take a set of input parameters or arguments, and then run those values through their programming logic and return a result.
 >
@@ -746,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=40)** So we'll select get date as today and select RAND as random.
 >
-> **[0:45](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=45)** This will return two result windows, and I can see that the get date function is returning the current system date and time on my computer.
+> **[0:45](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=45)** This will return two result [[Windows]], and I can see that the get date function is returning the current system date and time on my computer.
 >
 > **[0:52](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980&t=52)** And the random function is simply returning a random number between zero and one.
 >
@@ -848,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Microsoft SQL Server|Sql server]] (3), [[Programming]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (1)
 > **Env Vars:** rand (4), sql (3)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 3.99 (2)
@@ -857,12 +849,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), for example (1)
 
-#### Scalar-valued user-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980)
+#### [Scalar-valued user-defined functions](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=0)** - [Instructor] Developers can write their own functions to extend the capabilities of their SQL Server databases.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=0)** - [Instructor] Developers can write their own functions to extend the capabilities of their [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
 > **[0:06](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=6)** These are called User Defined Functions or UDF.
 >
@@ -1020,11 +1011,11 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=388)** You say create function, you name the function, you define any input parameters, then you say what it returns.
 >
-> **[6:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=395)** Finally, you have us begin any programming logic and then the key word end.
+> **[6:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/scalar-valued-user-defined-functions?u=76281980&t=395)** Finally, you have us begin any programming logic and then the key [[Microsoft Word|word]] end.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (5), application (5), next (4), data (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (6), udf (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (2), click on (1)
@@ -1033,8 +1024,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### IF ELSE and CASE statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/if-else-and-case-statements?u=76281980)
+#### [IF ELSE and CASE statements](https://www.linkedin.com/learning/program-databases-with-transact-sql/if-else-and-case-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,14 +1124,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (2), database (2), next (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - when (1)
 
-#### Table-valued user-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/table-valued-user-defined-functions?u=76281980)
+#### [Table-valued user-defined functions](https://www.linkedin.com/learning/program-databases-with-transact-sql/table-valued-user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1243,15 +1231,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (1), [[Programming]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** where (3), usb (1), return (1)
 > **Analogies:** just like (3), for instance (1)
 > **SQL:** where (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-function?u=76281980)
+#### [Challenge: Create a function](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,14 +1263,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), next (1)
 > **Versions:** 3.5 (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [illustrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980)
+#### [Solution: Create a function](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,13 +1488,13 @@ created: 2026-05-02
 >
 > **[9:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980&t=548)** So that's a couple of different ways that we can use a function or a scalar function written against our temperature data.
 >
-> **[9:15](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980&t=555)** I'm going to go ahead and save this whole text in the exercise files as 02_06_challengecomplete.SQL.
+> **[9:15](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980&t=555)** I'm going to go ahead and save this whole text in the exercise files as 02_06_challengecomplete.[[SQL]].
 >
 > **[9:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-function?u=76281980&t=564)** And you can open up that file if you want to compare my answer against yours.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (2), database (1), management (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (3)
 > **Versions:** 3.5 (2)
@@ -1524,8 +1508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write and execute a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
+#### [Write and execute a stored procedure](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980&t=136)** This abbreviation stands for user stored procedure.
 >
-> **[2:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980&t=139)** The prefix sp underscore is used by SQL servers own built-in stored procedures and should not be used for any procedures that you create yourself.
+> **[2:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980&t=139)** The prefix sp underscore is used by [[SQL]] servers own built-in stored procedures and should not be used for any procedures that you create yourself.
 >
 > **[2:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980&t=149)** For functions, it's common to see the ufn or fn underscore prefix before the function name and for views consider prefixing the name with a single lowercase v or vw underscore.
 >
@@ -1667,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), application (10), next (3), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** uspviewemployees (3), uspviewdata (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Env Vars:** exec (2), sql (1)
@@ -1676,8 +1659,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stored procedure input parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980)
+#### [Stored procedure input parameters](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=36)** But to add a new row, we only need to supply values for the first three.
 >
-> **[0:42](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=42)** The valid from and valid to columns, are automatically populated by SQL server since this is a system version or a temporal table that keeps a record for when rows are added and modified.
+> **[0:42](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=42)** The valid from and valid to columns, are automatically populated by [[Microsoft SQL Server|SQL server]] since this is a system version or a temporal table that keeps a record for when rows are added and modified.
 >
 > **[0:55](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=55)** So let's focus on the first three columns.
 >
@@ -1717,7 +1699,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=95)** Now, normally you need to perform an insert command and name each of the columns in order, in order to add a row to the table.
 >
-> **[1:42](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=102)** If you're trying to keep end users from interacting directly with the databases structure, then that becomes a problem.
+> **[1:42](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=102)** If you're trying to keep end users from interacting directly with the [[Databases]] structure, then that becomes a problem.
 >
 > **[1:48](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-input-parameters?u=76281980&t=108)** Since they need to know the column names in order to successfully perform the insert.
 >
@@ -1845,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3), [[Microsoft SQL Server|Sql server]] (2), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Code Identifiers:** uspinsertcolor (3), uspremovelastcolor (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (2)
@@ -1853,8 +1835,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stored procedure output parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980)
+#### [Stored procedure output parameters](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,7 +1911,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980&t=197)** And that's how the output variables work.
 >
-> **[3:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980&t=200)** Like I said earlier, this technique is most useful for front end application development.
+> **[3:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980&t=200)** Like I said earlier, this technique is most useful for front end [[Application Development]].
 >
 > **[3:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/stored-procedure-output-parameters?u=76281980&t=204)** So that status and error messages can be passed back from the database server to the calling application.
 >
@@ -1938,15 +1919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), database (3), data (3), next (1), management (1)
+> **Frameworks & Libraries:** [[Application Development]] (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** usp (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a database trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980)
+#### [Create a database trigger](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,7 +1934,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=4)** Instead of running when they're manually executed, triggers automatically fire when a specific activity, occurs on the server.
 >
-> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=12)** You can attach triggers to data manipulation events, such as insert, update, and delete commands, or you can have them fire when the database processes a data definition command, such as create or alter table.
+> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=12)** You can attach triggers to [[Data Manipulation]] events, such as insert, update, and delete commands, or you can have them fire when the database processes a data definition command, such as create or alter table.
 >
 > **[0:26](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=26)** Let's see how triggers work by setting up a system that will automatically log changes to the colors table, in a new audit table.
 >
@@ -2000,11 +1980,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=202)** If you want to find out more about how to integrate triggers into your database, then you might be happy to hear that, I recently created an entire course on just this topic.
 >
-> **[3:31](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=211)** Just search the Linkedin learning library, for SQL server triggers to find it.
+> **[3:31](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-database-trigger?u=76281980&t=211)** Just search the [[LinkedIn]] learning library, for [[Microsoft SQL Server|SQL server]] triggers to find it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Data Manipulation]] (1), data (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[LinkedIn]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sql (1)
@@ -2012,14 +1992,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Use function in a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980)
+#### [Challenge: Use function in a stored procedure](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980&t=0)** - [Illustrator] For the second challenge of this course, I'd like you to try your hand at writing and executing a stored procedure.
 >
-> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980&t=12)** In the chapter three folder of the exercise files is a file called 03_06_Challenge-start.sql.
+> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980&t=12)** In the chapter three folder of the exercise files is a file called 03_06_Challenge-start.[[SQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-use-function-in-a-stored-procedure?u=76281980&t=20)** This file will get you started and it will contain a command to create a new table called Sales.customerAccountAudit.
 >
@@ -2045,7 +2024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **File Paths:** 03_06_challenge-start.sql (1)
 > **Code Identifiers:** customeraccountaudit (1)
 > **Cross-References:** in the next (1)
@@ -2054,8 +2033,7 @@ created: 2026-05-02
 > **Speakers:** - [illustrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Use function in a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980)
+#### [Solution: Use function in a stored procedure](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,7 +2125,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=297)** Let me get rid of this.
 >
-> **[5:01](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=301)** If we come up, the audit ID is an identity column, so this is going to be autopopulated by SQL server.
+> **[5:01](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=301)** If we come up, the audit ID is an identity column, so this is going to be autopopulated by [[Microsoft SQL Server|SQL server]].
 >
 > **[5:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=307)** And this is going to fill in a serial number for us so we don't need to fill that in.
 >
@@ -2181,11 +2159,11 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=427)** So let's start from sales.customeraccountaudit let's pick into this table and sure enough, it's right in those rows down so we we're automatically getting an audit ID number every time we execute the stored procedure, it's telling me what customer I searched for and giving the exact time and date when I perform the search.
 >
-> **[7:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=448)** So that is my solution to the challenge and I'll go ahead and save all of this inside of the exercise files as zero three, zero six, challenge complete.SQL, and you can review your solution against mine.
+> **[7:28](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-use-function-in-a-stored-procedure?u=76281980&t=448)** So that is my solution to the challenge and I'll go ahead and save all of this inside of the exercise files as zero three, zero six, challenge complete.[[SQL]], and you can review your solution against mine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Search]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Env Vars:** sql (2)
@@ -2199,8 +2177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensure data consistency with transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
+#### [Ensure data consistency with transactions](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2260,17 +2237,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
-#### Create a transaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980)
+#### [Create a transaction](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=0)** - To explore how transactions work in SQL server, let's return to the colors table that we've worked with previously.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=0)** - To explore how transactions work in [[Microsoft SQL Server|SQL server]], let's return to the colors table that we've worked with previously.
 >
 > **[0:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=7)** In a prior movie, we created a stored procedure called USP Insert Color to help us enter new color names into that table.
 >
@@ -2292,7 +2267,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=62)** If you do name a transaction, then you have another optional component called with mark.
 >
-> **[1:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=68)** When you mark a transaction, a record of the transaction's name is added to the databases transaction log, which can be helpful if you ever need to restore the database to a prior state.
+> **[1:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=68)** When you mark a transaction, a record of the transaction's name is added to the [[Databases]] transaction log, which can be helpful if you ever need to restore the database to a prior state.
 >
 > **[1:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/create-a-transaction?u=76281980&t=79)** The named mark makes it much easier to identify the exact point in time when this transaction was committed if it finishes successfully.
 >
@@ -2358,13 +2333,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), database (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Env Vars:** sql (1), usp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - to (1)
 
-#### Transaction savepoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/transaction-savepoints?u=76281980)
+#### [Transaction savepoints](https://www.linkedin.com/learning/program-databases-with-transact-sql/transaction-savepoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2448,7 +2422,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1), database (1), next (1), game (1)
 > **Env Vars:** trancount (6)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2456,8 +2429,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatically roll back transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980)
+#### [Automatically roll back transactions](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2469,7 +2441,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980&t=22)** And knowing what to look for can help you better understand what's happening on your system, when you've implemented transactions.
 >
-> **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980&t=29)** First, let's take a look at the default behavior of SQL Server.
+> **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980&t=29)** First, let's take a look at the default behavior of [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:33](https://www.linkedin.com/learning/program-databases-with-transact-sql/automatically-roll-back-transactions?u=76281980&t=33)** I'm going to stick with the colors table again, and take a quick look at the contents to review the starting state of our data.
 >
@@ -2565,7 +2537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), database (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** xact_abort (6), sql (3), select (3), set (2), off (1)
 > **CLI Commands:** find (3)
 > **SQL:** select (3)
@@ -2574,8 +2546,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a transaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980)
+#### [Challenge: Create a transaction](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2587,7 +2558,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980&t=23)** So what is it that we want to do?
 >
-> **[0:25](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980&t=25)** In the 04_06_Challenge-Start.sql file is some code to build a Bank accounts table, and then add a couple of rows of data.
+> **[0:25](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980&t=25)** In the 04_06_Challenge-Start.[[SQL]] file is some code to build a Bank accounts table, and then add a couple of rows of data.
 >
 > **[0:34](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-create-a-transaction?u=76281980&t=34)** Your goal is to write a stored procedure that'll allow you to easily transfer money from one account to the other.
 >
@@ -2601,14 +2572,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[SQL]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Cross-References:** in the next (2), next chapter (1)
 > **File Paths:** 04_06_challenge-start.sql (1)
 > **Speakers:** - [illustrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a transaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980)
+#### [Solution: Create a transaction](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2616,7 +2586,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980&t=10)** Let's go ahead and walk through the solution.
 >
-> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980&t=12)** I have right now, on the screen, the 04_06_Challenge-Start.sql file.
+> **[0:12](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980&t=12)** I have right now, on the screen, the 04_06_Challenge-Start.[[SQL]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-create-a-transaction?u=76281980&t=17)** And let's just run through what this does real quick.
 >
@@ -2850,7 +2820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), data (3), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dbo (7)
 > **Cross-References:** in the next (6)
 > **CLI Commands:** make (3)
@@ -2864,8 +2834,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is error handling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
+#### [What is error handling?](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2885,7 +2854,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980&t=39)** So with error handling, we're rerouting or interrupting the execution of a routine and telling it to perform a different set of tasks instead.
 >
-> **[0:48](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980&t=48)** In a SQL Server Database, this could look like this, you instruct the server to insert a new row in a table.
+> **[0:48](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980&t=48)** In a [[Microsoft SQL Server|SQL Server]] Database, this could look like this, you instruct the server to insert a new row in a table.
 >
 > **[0:54](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980&t=54)** The error handling routine might say, "If that doesn't work for any reason, "wait five minutes and try again."
 >
@@ -2905,18 +2874,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capture errors with TRY and CATCH
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/capture-errors-with-try-and-catch?u=76281980)
+#### [Capture errors with TRY and CATCH](https://www.linkedin.com/learning/program-databases-with-transact-sql/capture-errors-with-try-and-catch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/capture-errors-with-try-and-catch?u=76281980&t=0)** - [Instructor] In your SQL server programs, error handling is most often implemented using Try and Catch blocks.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/capture-errors-with-try-and-catch?u=76281980&t=0)** - [Instructor] In your [[Microsoft SQL Server|SQL server]] programs, error handling is most often implemented using Try and Catch blocks.
 >
 > **[0:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/capture-errors-with-try-and-catch?u=76281980&t=7)** The basic syntax is fairly simple.
 >
@@ -3012,19 +2980,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), application (4), generic (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** catch (12), try (8), sql (4), begin (2), end (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate errors with THROW
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980)
+#### [Generate errors with THROW](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980&t=0)** - Sometimes SQL server is perfectly happy, executing in instruction that doesn't actually make sense for your specific database.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980&t=0)** - Sometimes [[Microsoft SQL Server|SQL server]] is perfectly happy, executing in instruction that doesn't actually make sense for your specific database.
 >
-> **[0:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980&t=8)** For instance, a user sends a command to perform a task, that's technically valid SQL, but the end result doesn't correspond to the business rules that your organization needs to follow.
+> **[0:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980&t=8)** For instance, a user sends a command to perform a task, that's technically valid [[SQL]], but the end result doesn't correspond to the business rules that your organization needs to follow.
 >
 > **[0:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/generate-errors-with-throw?u=76281980&t=19)** In these cases, you can create your own custom error messages, using a command called throw.
 >
@@ -3102,7 +3069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (2), [[SQL]] (1), business (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[SQL]] (1)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
@@ -3110,8 +3077,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - sometimes (1)
 
-#### Manage transaction control
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/manage-transaction-control?u=76281980)
+#### [Manage transaction control](https://www.linkedin.com/learning/program-databases-with-transact-sql/manage-transaction-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3197,7 +3163,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), hit (1), database (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **Code Identifiers:** uspinsertcolor (1)
@@ -3205,8 +3170,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add error handling to a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980)
+#### [Challenge: Add error handling to a stored procedure](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3218,7 +3182,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980&t=21)** Now it's time to add some error handling to the procedure.
 >
-> **[0:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980&t=24)** You can either continue developing your own procedure or use the 05_06_Challenge-Start.sql file to pick up with a solution that I came up with.
+> **[0:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980&t=24)** You can either continue developing your own procedure or use the 05_06_Challenge-Start.[[SQL]] file to pick up with a solution that I came up with.
 >
 > **[0:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/challenge-add-error-handling-to-a-stored-procedure?u=76281980&t=35)** The goal of the challenge is to gracefully handle three different situations.
 >
@@ -3236,15 +3200,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **File Paths:** 05_06_challenge-start.sql (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Add error handling to a stored procedure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980)
+#### [Solution: Add error handling to a stored procedure](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3422,7 +3385,7 @@ created: 2026-05-02
 >
 > **[9:20](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=560)** We can just use that error message and send that back to the messages window.
 >
-> **[9:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=564)** Alright, so we'll print the word 'ERROR': and then a space And then the text that we put in up here.
+> **[9:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=564)** Alright, so we'll print the [[Microsoft Word|word]] 'ERROR': and then a space And then the text that we put in up here.
 >
 > **[9:31](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=571)** and that should finish everything.
 >
@@ -3456,11 +3419,11 @@ created: 2026-05-02
 >
 > **[11:40](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=700)** We've got our error handling built in that looks, for some common mistakes or some common errors that might happen with our transfer.
 >
-> **[11:47](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=707)** and it accounts for those it passes everything into the CATCH block and so we can get custom messages sent to our end user and it doesn't affect anything in the database if an error is encountered, so that is my solution to the challenge and I'll go ahead and save all of this, so that you can review it if you'd like as 05_06_Challenge-Complete.sql
+> **[11:47](https://www.linkedin.com/learning/program-databases-with-transact-sql/solution-add-error-handling-to-a-stored-procedure?u=76281980&t=707)** and it accounts for those it passes everything into the CATCH block and so we can get custom messages sent to our end user and it doesn't affect anything in the database if an error is encountered, so that is my solution to the challenge and I'll go ahead and save all of this, so that you can review it if you'd like as 05_06_Challenge-Complete.[[SQL]]
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Microsoft Word|Word]] (1), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[SQL]] (1)
 > **Env Vars:** begin (13), catch (9), end (7), null (5), try (3)
 > **CLI Commands:** make (11)
 > **SQL:** where (3)
@@ -3474,12 +3437,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implicit data type conversions
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
+#### [Implicit data type conversions](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=0)** - [Instructor] When building programmability into your SQL Server databases, it is important to keep the data types that you're working with in mind.
+> **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=0)** - [Instructor] When building programmability into your [[Microsoft SQL Server|SQL Server]] [[Databases]], it is important to keep the data types that you're working with in mind.
 >
 > **[0:08](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=8)** When you pull data from a table, save the values into a parameters variables and then combined values together in a routine, all of those data types must be compatible, or you'll get inconsistent results.
 >
@@ -3501,11 +3463,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=62)** Let's go ahead and run this and we'll see that SQL Server, correctly adds one and two to get the result three.
 >
-> **[1:09](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=69)** Now I'm emphasizing the word probably here because, the statement that I just executed is kind of ambiguous.
+> **[1:09](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=69)** Now I'm emphasizing the [[Microsoft Word|word]] probably here because, the statement that I just executed is kind of ambiguous.
 >
 > **[1:16](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=76)** SQL Server is guessing that I want to add these two numbers together, but the plus symbol can also be used to join text strings.
 >
-> **[1:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=84)** If I instead wanted the character one, joined with the character two and return 12, then I need to override SQL Servers implicit conversion, and be more explicit about what I want to happen.
+> **[1:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=84)** If I instead wanted the character one, joined with the character two and return 12, then I need to override [[SQL]] Servers implicit conversion, and be more explicit about what I want to happen.
 >
 > **[1:37](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980&t=97)** You can do that with two different functions and I've got those listed online 13 and 14.
 >
@@ -3577,7 +3539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[SQL]] (1)
 > **Env Vars:** sql (10), var (5), url (2)
 > **CLI Commands:** find (2)
 > **Versions:** 500.5 (1), 1500.5 (1)
@@ -3586,8 +3548,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Understand NULL values
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980)
+#### [Understand NULL values](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3595,7 +3556,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980&t=6)** But that isn't the case.
 >
-> **[0:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980&t=7)** Null values have special meaning to SQL server.
+> **[0:07](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980&t=7)** Null values have special meaning to [[Microsoft SQL Server|SQL server]].
 >
 > **[0:11](https://www.linkedin.com/learning/program-databases-with-transact-sql/understand-null-values?u=76281980&t=11)** They represent values that are unknown, missing, or not knowable.
 >
@@ -3669,15 +3630,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The ISNULL function
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980)
+#### [The ISNULL function](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3693,7 +3653,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980&t=24)** To demonstrate how this works, if you evaluate the expression one and the replacement value 100, then the ISNULL function just returns a one again.
 >
-> **[0:33](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980&t=33)** The same thing happens with the word kangaroo.
+> **[0:33](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980&t=33)** The same thing happens with the [[Microsoft Word|word]] kangaroo.
 >
 > **[0:36](https://www.linkedin.com/learning/program-databases-with-transact-sql/the-isnull-function?u=76281980&t=36)** If I run ISNULL kangaroo 100, it returns kangaroo.
 >
@@ -3775,7 +3735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft Word|Word]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** isnull (11)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (1), find (1)
@@ -3783,8 +3743,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [narrator] (1)
 
-#### Merge rows with COALESCE
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980)
+#### [Merge rows with COALESCE](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3808,7 +3767,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=49)** If we pass it for null functions by running line number 12 here, well this time we get an error.
 >
-> **[0:56](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=56)** That's because SQL server requires at least one non null constant.
+> **[0:56](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=56)** That's because [[Microsoft SQL Server|SQL server]] requires at least one non null constant.
 >
 > **[1:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=60)** This means we need to either provide a reference to a table column or hard code a texturing or a number or something like that for at least one of those parameters.
 >
@@ -3846,7 +3805,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=155)** Going back to the elephant and kangaroo query example, we have this case statement instead.
 >
-> **[2:40](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=160)** This is how it actually gets rewritten by the SQL query engine.
+> **[2:40](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=160)** This is how it actually gets rewritten by the [[SQL]] query engine.
 >
 > **[2:45](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=165)** The first two conditions were hard coded to nulls.
 >
@@ -3860,7 +3819,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=186)** Starting on line 42 in the stock items data.
 >
-> **[3:10](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=190)** We have some information on color, brand and sizes for these products, but as you can see, most of the products don't have all three of those values.
+> **[3:10](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=190)** We have some information on color, brand and sizes for these [[Microsoft Products|products]], but as you can see, most of the products don't have all three of those values.
 >
 > **[3:19](https://www.linkedin.com/learning/program-databases-with-transact-sql/merge-rows-with-coalesce?u=76281980&t=199)** Some of 'em just have a color name.
 >
@@ -3926,7 +3885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (4), next (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
@@ -3940,14 +3899,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=0)** - [Narrator] Allow me the honor of being the first to congratulate you on reaching the end of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=6)** I'd like to thank you for joining me as we explored some of the many programming capabilities available to you, as you develop databases on SQL server.
+> **[0:06](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=6)** I'd like to thank you for joining me as we explored some of the many programming capabilities available to you, as you develop [[Databases]] on [[Microsoft SQL Server|SQL server]].
 >
 > **[0:14](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=14)** Now, there's always more to learn, so I'd like to leave you with a few course ideas that'll help you continue your journey.
 >
@@ -3955,13 +3913,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=29)** Triggers are an extension to the stored procedures that we looked at in this course, and would make a natural next step for extending your knowledge.
 >
-> **[0:37](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=37)** And if you're interested in additional programming topics, look into how you can leverage the R and Python programming languages in my courses on SQL Server Machine Learning Services.
+> **[0:37](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=37)** And if you're interested in additional programming topics, look into how you can leverage the R and [[Python (Programming Language)|Python]] programming languages in my courses on SQL Server Machine Learning Services.
 >
 > **[0:48](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980&t=48)** Until next time I'm Adam Wilbert, and I hope you have a great day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), next (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [narrator] (1)

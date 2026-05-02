@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
   - topic/devops
-course_count: 42
+course_count: 43
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Hybrid Cloud
 
-> **Type:** Concept | **Courses:** 42 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[DevOps]]
+> **Type:** Concept | **Courses:** 43 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Server Administration Essential Training]] — 5 mentions
 10. [[AWS Essential Training for Architects]] — 5 mentions
 
-> [!note]- See all 42 courses
+> [!note]- See all 43 courses
 > 11. [[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]] — 4 mentions
 > 12. [[Securing Cloud Resources with Microsoft Defender for Cloud]] — 4 mentions
 > 13. [[Cloud Architecture- Advanced Concepts]] — 4 mentions
@@ -72,7 +72,8 @@ created: 2026-05-02
 > 39. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
 > 40. [[Azure Essential Training for Developers]] — 1 mentions
 > 41. [[Transition from Data Science to Data Engineering]] — 1 mentions
-> 42. [[Microsoft Entra ID Fundamentals]] — 1 mentions
+> 42. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 1 mentions
+> 43. [[Microsoft Entra ID Fundamentals]] — 1 mentions
 
 ## Learning Paths
 

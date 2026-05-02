@@ -88,16 +88,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Auditing design systems for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
+#### [Auditing design systems for accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=0)** - Accessibility in our products is crucial to ensuring we're creating experiences that include people with disabilities.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=0)** - Accessibility in our [[Microsoft Products|products]] is crucial to ensuring we're creating experiences that include people with disabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=8)** But accessibility is also a fantastic way to build truly innovative and amazing products.
 >
-> **[0:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=14)** We are going to make it easier for you to understand the intersection between design systems and accessibility, and give you the tools you need to make more accessible experiences.
+> **[0:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=14)** We are going to make it easier for you to understand the intersection between [[Design Systems]] and accessibility, and give you the tools you need to make more accessible experiences.
 >
 > **[0:26](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980&t=26)** My name is Anna E. Cook.
 >
@@ -115,17 +114,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Systems]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Systems]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - accessibility (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=0)** - While you don't have to know anything about auditing design systems to take this course, there are a few things that can be helpful for you to understand before starting.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=0)** - While you don't have to know anything about auditing [[Design Systems]] to take this course, there are a few things that can be helpful for you to understand before starting.
 >
 > **[0:11](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=11)** This is an accessibility and inclusive design driven course.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=20)** Though we will also discuss these subjects, I encourage you to take time to learn more about accessibility and disability rights outside this course.
 >
-> **[0:30](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=30)** Books like "Demystifying Disability" and "Disability Visibility" and LinkedIn Learning such as "Supporting Workers with Disabilities" and "Inclusion and Equity for Workers with Disabilities" are fantastic starting points for learning from the experiences of people with disabilities.
+> **[0:30](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=30)** Books like "Demystifying Disability" and "Disability Visibility" and [[LinkedIn]] Learning such as "Supporting Workers with Disabilities" and "Inclusion and Equity for Workers with Disabilities" are fantastic starting points for learning from the experiences of people with disabilities.
 >
 > **[0:48](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=48)** Please know that I will use both person first and identity First language in this course, with phrases like "people with disabilities" and "disabled people."
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=105)** Be sure to respect what people ask for.
 >
-> **[1:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=109)** Additionally, we'll talk a lot about the different parts of a product development process.
+> **[1:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=109)** Additionally, we'll talk a lot about the different parts of a [[Product Development]] process.
 >
 > **[1:54](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-you-should-know?u=76281980&t=114)** It will be helpful for you to have a basic knowledge of this process before we start.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (1), [[LinkedIn]] (1), [[Product Development]] (1), product (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[LinkedIn]] (1), [[Product Development]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -183,8 +181,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why accessibility matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
+#### [Why accessibility matters](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980&t=26)** Now, this matters for many reasons, but most importantly, accessibility is a human right.
 >
-> **[0:31](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980&t=31)** By making accessible experiences, we make sure that people with disabilities have the right to access critical products, services, environments, and more.
+> **[0:31](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980&t=31)** By making accessible experiences, we make sure that people with disabilities have the right to access critical [[Microsoft Products|products]], services, environments, and more.
 >
 > **[0:43](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980&t=43)** Our building ramp is an essential part of the design for wheelchair users, but many other people can also benefit.
 >
@@ -236,15 +233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Non-Speech:** (uplifting music) (2)
 > **Speakers:** - let (1)
 
-#### Why accessibility matters in product design and development
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980)
+#### [Why accessibility matters in product design and development](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=15)** Check out this scenario.
 >
-> **[0:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=17)** Imagine a team has built an e-commerce website for a growing business.
+> **[0:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=17)** Imagine a team has built an [[E-Commerce]] website for a growing business.
 >
 > **[0:22](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=22)** While planning, designing, developing, and testing this site, the team has considered standard accessibility needs.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=35)** They've made sure that text on this site can be resized up to 200% without any loss of content or functionality.
 >
-> **[0:43](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=43)** This serves people with low vision who can now zoom in on the text.
+> **[0:43](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=43)** This serves people with low vision who can now [[Zoom]] in on the text.
 >
 > **[0:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=49)** This capability also benefits other people.
 >
@@ -276,11 +272,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=77)** In this situation, scalable text can benefit a person with a permanent disability who is blind, with partial vision, a person with a temporary disability, who has low vision due to cataracts, and a person who is on the go using their phone.
 >
-> **[1:33](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=93)** Like all accessibility, digital accessibility has the power to benefit everyone, each with their own needs and circumstances.
+> **[1:33](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=93)** Like all accessibility, [[Digital Accessibility]] has the power to benefit everyone, each with their own needs and circumstances.
 >
 > **[1:41](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=101)** By meeting these needs, we can expand the impact of our work.
 >
-> **[1:46](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=106)** Accessibility in digital products can lead to innovative product designs, improved usability, and increased user retention.
+> **[1:46](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=106)** Accessibility in digital [[Microsoft Products|products]] can lead to innovative product designs, improved usability, and increased user retention.
 >
 > **[1:54](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters-in-product-design-and-development?u=76281980&t=114)** This means our products can reach and engage more people, leading to huge competitive advantages and more market reach.
 >
@@ -298,13 +294,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), business (1), [[Zoom]] (1), [[Digital Accessibility]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), [[Zoom]] (1), [[Digital Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - one (1)
 
-#### Who to consider in accessible design and development
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980)
+#### [Who to consider in accessible design and development](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,22 +357,21 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980&t=167)** There are a few ways we can do this.
 >
-> **[2:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980&t=169)** Use digital accessibility standards, which we will discuss more in upcoming videos, hire and retain people with disabilities on our teams, and conduct research to learn from disabled participants.
+> **[2:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980&t=169)** Use [[Digital Accessibility]] standards, which we will discuss more in upcoming videos, hire and retain people with disabilities on our teams, and conduct research to learn from disabled participants.
 >
-> **[3:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980&t=183)** Who we consider an accessible design and development is about making sure we advocate with people who have disabilities because we want to build experiences that can adapt to these needs and work well for everyone.
+> **[3:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/who-to-consider-in-accessible-design-and-development?u=76281980&t=183)** Who we consider an [[Accessible Design]] and development is about making sure we advocate with people who have disabilities because we want to build experiences that can adapt to these needs and work well for everyone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Accessibility]] (1), teams (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1), [[Accessible Design]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - for (1)
 
-#### Digital accessibility standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980)
+#### [Digital accessibility standards](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=0)** - When it comes to digital accessibility, the best place to start is with the Web Content Accessibility Guidelines or WCAG.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=0)** - When it comes to [[Digital Accessibility]], the best place to start is with the Web Content Accessibility Guidelines or WCAG.
 >
 > **[0:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=9)** WCAG is a set of standards designed to make digital interactions more accessible.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=76)** And finally, robust means content should work well across different platforms, technologies, and devices.
 >
-> **[1:24](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=84)** For example, using valid markup like HTML.
+> **[1:24](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=84)** For example, using valid markup like [[HTML]].
 >
 > **[1:29](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/digital-accessibility-standards?u=76281980&t=89)** These principles are categories that hold our guidelines.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Accessibility]] (1), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1), [[HTML]] (1)
 > **Env Vars:** wcag (5), pour (1), html (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
@@ -458,12 +452,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Atomic design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
+#### [Atomic design principles](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=0)** - Now that we understand more about accessibility, how does this connect to design systems?
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=0)** - Now that we understand more about accessibility, how does this connect to [[Design Systems]]?
 >
 > **[0:06](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=6)** So a design system is like a single source of truth for a product, they're a powerful way to group related elements together, define their purpose, and clarify their delivery.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=23)** With a design system we can do something once, apply it everywhere, and establish a better experience for everyone.
 >
-> **[0:31](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=31)** Organizations use them to make their products easier to build and scale.
+> **[0:31](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=31)** Organizations use them to make their [[Microsoft Products|products]] easier to build and scale.
 >
 > **[0:37](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980&t=37)** But, most importantly, a design system is essential because it helps us scale accessibility.
 >
@@ -527,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (4), functional (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (4), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** dropdown (2)
 > **CLI Commands:** make (1)
 > **Tools:** atom (1)
@@ -535,12 +528,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Checking an example system and design for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/checking-an-example-system-and-design-for-accessibility?u=76281980)
+#### [Checking an example system and design for accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/checking-an-example-system-and-design-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/checking-an-example-system-and-design-for-accessibility?u=76281980&t=0)** - A well-scaled design system can make it infinitely easier to update products and meet users' needs.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/checking-an-example-system-and-design-for-accessibility?u=76281980&t=0)** - A well-scaled design system can make it infinitely easier to update [[Microsoft Products|products]] and meet users' needs.
 >
 > **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/checking-an-example-system-and-design-for-accessibility?u=76281980&t=7)** Pretty easy, right? But here's the problem.
 >
@@ -596,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Versions:** 1.48 (1), 2.38 (1), 2.39 (1), 4.5 (1)
 > **Tools:** atom (2)
 > **CLI Commands:** make (1)
@@ -604,12 +596,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - a (1)
 
-#### Addressing issues at a system level
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980)
+#### [Addressing issues at a system level](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=0)** - We saw how building a design system without accessibility can cause issues, but let's talk about how adding accessibility to our system improves our products.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=0)** - We saw how building a design system without accessibility can cause issues, but let's talk about how adding accessibility to our system improves our [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=10)** In our last video, we uncovered how a button using a certain combination of colors, font sizes and font weights could have too low of contrast, but could this same issue affect other components in our design system?
 >
@@ -643,20 +634,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=127)** Then we can fix it at the design system level and watch as we fix branches of the same issue across all applications.
 >
-> **[2:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=137)** That's the power of accessibility in our design systems.
+> **[2:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=137)** That's the power of accessibility in our [[Design Systems]].
 >
 > **[2:21](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/addressing-issues-at-a-system-level?u=76281980&t=141)** It may seem like a lot of work, but once you dive in, the benefits are so fantastic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), power (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Systems]] (1)
 > **Versions:** 2.38 (1), 4.5 (1), 6.63 (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
 > **Speakers:** - we (1)
 
-#### Why design systems must consider accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980)
+#### [Why design systems must consider accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,11 +656,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=14)** Without that, our consuming teams can still make mistakes.
 >
-> **[0:18](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=18)** That's why we have to make accessible design systems.
+> **[0:18](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=18)** That's why we have to make [[Accessible Design]] systems.
 >
-> **[0:21](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=21)** We are the foundation for accessible products.
+> **[0:21](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=21)** We are the foundation for accessible [[Microsoft Products|products]].
 >
-> **[0:25](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=25)** Design systems that fail to account for accessibility create products that fail accessibility conformance and most importantly, fail users.
+> **[0:25](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=25)** [[Design Systems]] that fail to account for accessibility create products that fail accessibility conformance and most importantly, fail users.
 >
 > **[0:34](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=34)** Instead, creating a more accessible design system empowers teams to build more inclusive products and empowers users with disabilities, and frankly, all users to thrive using our products.
 >
@@ -678,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=54)** First, we need to support designers use of components.
 >
-> **[0:58](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=58)** Designers should have access to all components within design tools like Figma.
+> **[0:58](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=58)** Designers should have access to all components within design tools like [[Figma (Software)|Figma]].
 >
 > **[1:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-design-systems-must-consider-accessibility?u=76281980&t=63)** They need to know how a component should be used and when, because using a component incorrectly can have ramifications.
 >
@@ -710,7 +700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Accessible Design]] (4), [[Microsoft Products|Products]] (4), product (3), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (4), [[Microsoft Products|Products]] (4), [[Design Systems]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (9)
 > **Tools:** figma (1)
 > **Speakers:** - accessibility (1)
@@ -720,16 +710,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an accessibility audit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
+#### [What is an accessibility audit?](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=0)** - An accessibility audit is one of many ways to help us establish better accessibility in our design systems.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=0)** - An accessibility audit is one of many ways to help us establish better accessibility in our [[Design Systems]].
 >
-> **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=7)** But what is an accessibility audit, and how can it help us achieve the goal of having an accessible design system?
+> **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=7)** But what is an accessibility audit, and how can it help us achieve the goal of having an [[Accessible Design]] system?
 >
-> **[0:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=14)** Accessibility audits are a way to find and log issues so we can prioritize, describe, and ultimately fix them.
+> **[0:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=14)** [[Accessibility Audits]] are a way to find and log issues so we can prioritize, describe, and ultimately fix them.
 >
 > **[0:22](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=22)** An audit can evaluate anything, from a single page to a single component, or even our entire design system.
 >
@@ -749,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=74)** Then, we should understand the impact by usage.
 >
-> **[1:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=77)** If a component is being used in many places or across many products, it has a big impact.
+> **[1:17](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=77)** If a component is being used in many places or across many [[Microsoft Products|products]], it has a big impact.
 >
 > **[1:25](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980&t=85)** Using a combination of considerations like these can help us prioritize issues to be fixed sooner rather than later, because our ultimate goal is to fix them.
 >
@@ -777,15 +766,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (1), [[Accessible Design]] (1), [[Accessibility Audits]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Accessible Design]] (1), [[Accessibility Audits]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** wcag (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - an (1)
 
-#### Considerations for an accessibility audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980)
+#### [Considerations for an accessibility audit](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=60)** Generally, we want to review all A and AA levels as these are ideal accessibility goals, but then how will we review for accessibility conformance?
 >
-> **[1:12](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=72)** Auditing should include two evaluation methods: automated testing and manual testing.
+> **[1:12](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=72)** Auditing should include two evaluation methods: automated testing and [[Manual Testing]].
 >
 > **[1:18](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=78)** Automated accessibility testing means using automated tools to test for us.
 >
@@ -823,7 +811,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=104)** Using just automated testing in an audit can create major gaps.
 >
-> **[1:50](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=110)** Think of automated testing similar to spellchecker when you're creating a Word document.
+> **[1:50](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=110)** Think of automated testing similar to spellchecker when you're creating a [[Microsoft Word|Word]] document.
 >
 > **[1:55](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/considerations-for-an-accessibility-audit?u=76281980&t=115)** Sometimes spellcheck might miss mistakes, and sometimes spellcheck might flag issues that aren't actually issues.
 >
@@ -861,8 +849,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - an (1)
 
-#### What do you review in a design system accessibility audit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980)
+#### [What do you review in a design system accessibility audit?](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=32)** This example would look different than a design system review, which needs us to be way more comprehensive.
 >
-> **[0:39](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=39)** A design system audit is more detailed because design systems have much more nuance and complexity.
+> **[0:39](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=39)** A design system audit is more detailed because [[Design Systems]] have much more nuance and complexity.
 >
 > **[0:45](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=45)** What makes a design system so powerful is also what makes it more complex to review.
 >
@@ -886,11 +873,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=59)** Designs, are components accessible by design?
 >
-> **[1:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=63)** Are we supporting designers' use of components within design files, like Figma, in a way that empowers accessibility in their design?
+> **[1:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=63)** Are we supporting designers' use of components within design files, like [[Figma (Software)|Figma]], in a way that empowers accessibility in their design?
 >
 > **[1:11](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=71)** Development, are components accessible in code?
 >
-> **[1:15](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=75)** Are we ensuring all development frameworks we support, like React and Angular, include accessible implementation?
+> **[1:15](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=75)** Are we ensuring all development frameworks we support, like [[React.js|React]] and [[Angular]], include accessible implementation?
 >
 > **[1:23](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-do-you-review-in-a-design-system-accessibility-audit?u=76281980&t=83)** Are we supporting developers' use of components within code in a way that empowers accessibility in development and testing?
 >
@@ -920,7 +907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (2), [[Figma (Software)|Figma]] (1), [[React.js|React]] (1), [[Angular]] (1), product (1)
+> **Frameworks & Libraries:** [[Design Systems]] (2), [[Figma (Software)|Figma]] (1), [[React.js|React]] (1), [[Angular]] (1)
 > **Env Vars:** api (1)
 > **Tools:** figma (1)
 > **Exercise Files:** source code (1)
@@ -928,8 +915,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Setting up an accessibility audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980)
+#### [Setting up an accessibility audit](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +961,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980&t=99)** Review process.
 >
-> **[1:41](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980&t=101)** Will your audit only include automated testing or will it combine automated and manual testing?
+> **[1:41](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980&t=101)** Will your audit only include automated testing or will it combine automated and [[Manual Testing]]?
 >
 > **[1:48](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/setting-up-an-accessibility-audit?u=76281980&t=108)** If you're using automated tools, what will you use?
 >
@@ -1005,15 +991,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), next (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** open the (1), navigate to (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - before (1)
 
-#### Creating an accessibility audit document
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980)
+#### [Creating an accessibility audit document](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1054,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980&t=115)** Testing methods.
 >
-> **[1:56](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980&t=116)** Note if the issue was captured with automated testing, manual testing, or a combination of the two.
+> **[1:56](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980&t=116)** Note if the issue was captured with automated testing, [[Manual Testing]], or a combination of the two.
 >
 > **[2:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/creating-an-accessibility-audit-document?u=76281980&t=123)** Links.
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Manual Testing]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** wcag (2)
 > **Exercise Files:** template (1), exercise files (1)
@@ -1119,8 +1104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing designs for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
+#### [Reviewing designs for accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,9 +1114,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=13)** So it's important to review design in terms of interaction, content and visual elements.
 >
-> **[0:19](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=19)** When reviewing designs, you can use files like Figma or even component repositories like Storybook.
+> **[0:19](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=19)** When reviewing designs, you can use files like [[Figma (Software)|Figma]] or even component repositories like Storybook.
 >
-> **[0:26](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=26)** With design review, we tend to use manual testing the most.
+> **[0:26](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=26)** With design review, we tend to use [[Manual Testing]] the most.
 >
 > **[0:31](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=31)** There are automated tools for some things like color contrast, but automated tools tend to be less effective because they can't comb through designs like they can code.
 >
@@ -1168,9 +1152,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=169)** This component could have other issues, so this is just one opportunity for improvement.
 >
-> **[2:55](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=175)** Just remember, that accessible design is about more than just colors and fonts.
+> **[2:55](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=175)** Just remember, that [[Accessible Design]] is about more than just colors and fonts.
 >
-> **[2:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=179)** Like all user experience design, accessible design goes beyond visual considerations alone.
+> **[2:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=179)** Like all [[User Experience Design (UED)|user experience design]], accessible design goes beyond visual considerations alone.
 >
 > **[3:06](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980&t=186)** Take a moment to practice reviewing designs for accessibility.
 >
@@ -1197,8 +1181,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Automated testing for front-end code
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980)
+#### [Automated testing for front-end code](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,9 +1189,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=3)** Unlike reviewing designs, automated testing tools work well when reviewing code.
 >
-> **[0:08](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=8)** Automated accessibility testing uses software to scan pages, products and components for accessibility issues against predefined accessibility conformance standards.
+> **[0:08](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=8)** Automated accessibility testing uses software to scan pages, [[Microsoft Products|products]] and components for accessibility issues against predefined accessibility conformance standards.
 >
-> **[0:19](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=19)** That said, you should do both automated and manual testing to capture everything.
+> **[0:19](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=19)** That said, you should do both automated and [[Manual Testing]] to capture everything.
 >
 > **[0:25](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=25)** We'll talk about both types of review starting with automated testing.
 >
@@ -1220,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=48)** This could mean reviewing a website, a mobile app, or the like.
 >
-> **[0:52](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=52)** For design systems you might find reviewing code wherever you're hosting your components is easier and more efficient.
+> **[0:52](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=52)** For [[Design Systems]] you might find reviewing code wherever you're hosting your components is easier and more efficient.
 >
 > **[1:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/automated-testing-for-front-end-code?u=76281980&t=60)** For many folks, that can be a place like Storybook.
 >
@@ -1283,14 +1266,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** install (1)
 
-#### Manual testing for front-end code
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980)
+#### [Manual testing for front-end code](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=0)** - We've talked about automated testing but we know no audit is complete without manual tests.
 >
-> **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=7)** Remember, manual testing is conducted by people like you and me.
+> **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=7)** Remember, [[Manual Testing]] is conducted by people like you and me.
 >
 > **[0:11](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=11)** Many automated tools these days also have guided manual tests, which means that we can get a little support.
 >
@@ -1298,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=32)** For manual tests, we tend to review keyboard usability to find out if someone can use an experience without a mouse, screen reader usability to find out if someone can use the experience with a screen reader, such as JAWS, NVDA, Narrator, VoiceOver or TalkBack.
 >
-> **[0:52](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=52)** Magnification and zoom testing to find out if someone can zoom the experience up to at least 200%.
+> **[0:52](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=52)** Magnification and [[Zoom]] testing to find out if someone can zoom the experience up to at least 200%.
 >
 > **[0:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/manual-testing-for-front-end-code?u=76281980&t=59)** Different states.
 >
@@ -1352,21 +1334,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Zoom]] (2), hit (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Zoom]] (2)
 > **CLI Commands:** find (3), make (2), cat (1)
 > **Analogies:** such as (2), for example (2), similar to (2)
 > **Env Vars:** jaws (1), nvda (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
 
-#### Reviewing documentation for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980)
+#### [Reviewing documentation for accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=0)** - You'll probably find you don't capture everything that needs to be made more accessible when just auditing your components.
 >
-> **[0:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=9)** That's because designers and developers tend to work in complex systems, and design systems are all about intent.
+> **[0:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=9)** That's because designers and developers tend to work in complex systems, and [[Design Systems]] are all about intent.
 >
 > **[0:18](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=18)** We intend for components to be used and built in specific ways, but then sometimes our components intent doesn't match how it's applied.
 >
@@ -1400,7 +1381,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=152)** Learn from design systems that are considering accessibility and how they do so to get a sense of how your team might start approaching better documentation.
 >
-> **[2:43](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=163)** Design systems such as Microsoft's Fluent have feedback embedded into component documentation.
+> **[2:43](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=163)** Design systems such as [[Microsoft]]'s Fluent have feedback embedded into component documentation.
 >
 > **[2:50](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-documentation-for-accessibility?u=76281980&t=170)** Others, such as IBM's Carbon, choose to include documentation in a consistent context, like an accessibility tab for each component.
 >
@@ -1412,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Design Systems]] (3), application (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (3), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** ibm (1)
@@ -1423,8 +1404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding issues to your original document
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
+#### [Adding issues to your original document](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,7 +1464,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), next (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** url (1)
 > **Documentation:** the documentation (1)
@@ -1492,9 +1471,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - now (1)
 
-#### Mapping issues to WCAG criterion
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/mapping-issues-to-wcag-criterion?u=76281980)
+#### [Mapping issues to WCAG criterion](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/mapping-issues-to-wcag-criterion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1578,7 +1557,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Env Vars:** wcag (10), a11y (1)
 > **Versions:** 1.4.3 (2), 1.4.6 (1), 4.5 (1), 1.9 (1)
 > **Documentation:** reference guide (3)
@@ -1586,9 +1564,9 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - now (1)
 
-#### Prioritizing issues by impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980)
+#### [Prioritizing issues by impact](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1614,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980&t=52)** And impact by usage.
 >
-> **[0:54](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980&t=54)** How often is this component used across all products?
+> **[0:54](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980&t=54)** How often is this component used across all [[Microsoft Products|products]]?
 >
 > **[0:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-issues-by-impact?u=76281980&t=59)** Let's see if we can try to assess impact to our contrast issue.
 >
@@ -1678,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1), teams (1), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wcag (1)
 > **UI Navigation:** select the (1)
@@ -1686,8 +1664,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Grouping issues into themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980)
+#### [Grouping issues into themes](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,7 +1712,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=126)** It's about fixing them.
 >
-> **[2:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=129)** This means we fix them individually in products, we fix them in our design system, and we fix them in the product organization as a whole.
+> **[2:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=129)** This means we fix them individually in [[Microsoft Products|products]], we fix them in our design system, and we fix them in the product organization as a whole.
 >
 > **[2:18](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=138)** If done correctly, an audit is a short-term project with long-term benefits.
 >
@@ -1743,7 +1720,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=155)** I can tell you this because that's what happened to me.
 >
-> **[2:38](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=158)** Like any skill, understanding digital accessibility takes time to practice and improve.
+> **[2:38](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=158)** Like any skill, understanding [[Digital Accessibility]] takes time to practice and improve.
 >
 > **[2:45](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=165)** Every time I do an accessibility audit, I get faster and better.
 >
@@ -1751,7 +1728,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=181)** So let's keep practicing.
 >
-> **[3:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=183)** Open the Accessibility Audit Spreadsheet Template again and look over the rest of the Orange Valley Community Arts Association homepage at [orangevalleycaa.org](https://orangevalleycaa.org).
+> **[3:03](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=183)** Open the Accessibility Audit Spreadsheet Template again and look over the [[Representational State Transfer (REST)|rest]] of the Orange Valley Community Arts Association homepage at [orangevalleycaa.org](https://orangevalleycaa.org).
 >
 > **[3:16](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/grouping-issues-into-themes?u=76281980&t=196)** Add three to four more issues you can find on this page to your document.
 >
@@ -1761,7 +1738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), teams (1), [[Microsoft Products|Products]] (1), [[Digital Accessibility]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Accessibility]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [orangevalleycaa.org](https://orangevalleycaa.org) (1)
 > **UI Navigation:** open the (1)
@@ -1775,8 +1752,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sharing results with your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
+#### [Sharing results with your team](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,13 +1770,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=40)** Think of it this way: without our work, it may have taken our team so much more time, energy, and money to find these opportunities.
 >
-> **[0:50](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=50)** We've created a path towards better usability in all of our products, so present your results with confidence.
+> **[0:50](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=50)** We've created a path towards better usability in all of our [[Microsoft Products|products]], so present your results with confidence.
 >
 > **[0:59](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=59)** For our design system team, we want to put together a presentation with the high-level results of our audit.
 >
 > **[1:06](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=66)** This will help our team understand what we found without immediately being inundated with the technical details.
 >
-> **[1:13](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=73)** We'll also use this presentation to share results with organizational leadership, so it's a valuable asset.
+> **[1:13](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=73)** We'll also use this presentation to share results with [[Organizational Leadership]], so it's a valuable asset.
 >
 > **[1:21](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980&t=81)** In our presentation, we're going to share a few different details.
 >
@@ -1852,15 +1828,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (1), [[Organizational Leadership]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Organizational Leadership]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
 
-#### Sharing results with organizational leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980)
+#### [Sharing results with organizational leaders](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1881,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980&t=129)** Be sure to know your audience and include details they might be interested in.
 >
-> **[2:15](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980&t=135)** If you're looking for more resources on how to make the case for accessibility in your organization, check out another LinkedIn Learning on just this from Microsoft Inclusive Design Director Christina Mallon.
+> **[2:15](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980&t=135)** If you're looking for more resources on how to make the case for accessibility in your organization, check out another [[LinkedIn]] Learning on just this from [[Microsoft]] Inclusive Design Director Christina Mallon.
 >
 > **[2:27](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-organizational-leaders?u=76281980&t=147)** Our work to educate others and ourselves on accessibility will always matter.
 >
@@ -1916,12 +1891,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), [[LinkedIn]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Speakers:** - an (1)
 
-#### Prioritizing and acting on issues with your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980)
+#### [Prioritizing and acting on issues with your team](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,7 +1909,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980&t=20)** We can use a lot of this information as a starting point for creating tickets in our project management tools.
 >
-> **[0:27](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980&t=27)** Every team has different processes and systems but let's assume you are in a team that uses Agile and Scrum to approach planning, managing and executing work.
+> **[0:27](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980&t=27)** Every team has different processes and systems but let's assume you are in a team that uses [[Agile Development|Agile]] and [[Scrum]] to approach planning, managing and executing work.
 >
 > **[0:38](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/prioritizing-and-acting-on-issues-with-your-team?u=76281980&t=38)** Although this isn't a series about Agile and Scrum this is how most digital product teams think about and deliver work.
 >
@@ -1985,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), next (2), [[Agile Development|Agile]] (2), management (1), product (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (2)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Env Vars:** wcag (1)
@@ -1994,8 +1968,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - i (1)
 
-#### Sharing results with design system users
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980)
+#### [Sharing results with design system users](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2003,7 +1976,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=7)** What happens between our audit and our fixes?
 >
-> **[0:10](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=10)** While we're working on addressing the issues we found, product teams working on live products may still use the existing system to design, develop, and implement work.
+> **[0:10](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=10)** While we're working on addressing the issues we found, product teams working on live [[Microsoft Products|products]] may still use the existing system to design, develop, and implement work.
 >
 > **[0:22](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=22)** This means they may create projects and experiences with issues and dependencies.
 >
@@ -2045,7 +2018,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=159)** Remember, teams using our design system are invested in it being a great system.
 >
-> **[2:45](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=165)** Most people understand that design systems are always improving and developing.
+> **[2:45](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=165)** Most people understand that [[Design Systems]] are always improving and developing.
 >
 > **[2:51](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-design-system-users?u=76281980&t=171)** By sharing results with design system consumers, we can help them understand how our audit is an improvement.
 >
@@ -2053,14 +2026,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), product (3), [[Microsoft Products|Products]] (1), [[Design Systems]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Design Systems]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Using results to further motivate better research and advocacy with people who have disabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/using-results-to-further-motivate-better-research-and-advocacy-with-people-who-have-disabilities?u=76281980)
+#### [Using results to further motivate better research and advocacy with people who have disabilities](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/using-results-to-further-motivate-better-research-and-advocacy-with-people-who-have-disabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,12 +2086,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### There's no such thing as "perfect" accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)
+#### [There's no such thing as "perfect" accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=0)** - Congratulations on finishing the entire Auditing Design Systems for Accessibility series.
+> **[0:00](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=0)** - Congratulations on finishing the entire Auditing [[Design Systems]] for Accessibility series.
 >
 > **[0:06](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=6)** You've learned so much and can take this knowledge wherever you go.
 >
@@ -2139,7 +2110,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=47)** Accessibility is about accounting for baseline needs and adapting to unique needs.
 >
-> **[0:53](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=53)** This is one of the coolest parts of digital accessibility efforts.
+> **[0:53](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=53)** This is one of the coolest parts of [[Digital Accessibility]] efforts.
 >
 > **[0:57](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=57)** We have the power to meet needs adaptively.
 >
@@ -2171,7 +2142,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=130)** I'd love to connect with you and be a part of your community.
 >
-> **[2:13](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=133)** You can find me on LinkedIn and follow me at my blog at [annaecook.com](https://annaecook.com).
+> **[2:13](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=133)** You can find me on [[LinkedIn]] and follow me at my blog at [annaecook.com](https://annaecook.com).
 >
 > **[2:19](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980&t=139)** There is so much to learn when it comes to accessibility, so I encourage you to dig into all the amazing resources in the Resources document.
 >
@@ -2183,7 +2154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (1), [[Digital Accessibility]] (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Digital Accessibility]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [annaecook.com](https://annaecook.com) (1)
 > **Definitions:** is a  (1)

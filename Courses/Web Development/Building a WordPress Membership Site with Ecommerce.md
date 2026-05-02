@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a paid membership website
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
+#### [Build a paid membership website](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980&t=7)** Maybe you've thought about building one for yourself, or want to be able to offer that service to clients.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980&t=12)** With the evolution of WordPress, e-commerce, and membership plugins, building a paid membership site is more approachable than ever.
+> **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980&t=12)** With the evolution of [[WordPress]], [[E-Commerce]], and membership plugins, building a paid membership site is more approachable than ever.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980&t=20)** Starting with a fresh WordPress install and minimal cost, I'll show you how to create an online store and sell paid memberships.
 >
@@ -108,16 +107,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[E-Commerce]] (1), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[E-Commerce]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980)
+#### [What you need](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have a solid knowledge of working with WordPress, both as a user and a site administrator.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have a solid knowledge of working with [[WordPress]], both as a user and a site administrator.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=7)** If you're new to WordPress, I suggest you start with [[WordPress Essential Training]].
 >
@@ -125,9 +123,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=17)** If you'd like a quick overview of what membership plugins are and the options available for WordPress, I created this course for you.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=25)** Additionally, in this course, we'll be working a lot with WooCommerce.
+> **[0:25](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=25)** Additionally, in this course, we'll be working a lot with [[WooCommerce]].
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=29)** WooCommerce is an incredibly robust e-commerce solution, and this course assumes you already have a basic working knowledge.
+> **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=29)** WooCommerce is an incredibly robust [[E-Commerce]] solution, and this course assumes you already have a basic working knowledge.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-you-need?u=76281980&t=35)** If that's not the case, I recommend checking out this WooCommerce course in addition to this course.
 >
@@ -145,18 +143,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=0)** - [Instructor] In this course, I'll be working with a fictitious brand called Two Trees Olive Oil.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=5)** It's an e-commerce website for a family-owned business that's been farming olives and making olive oil for decades.
+> **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=5)** It's an [[E-Commerce]] website for a family-owned business that's been farming olives and making olive oil for decades.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=12)** They wanted to offer a paid membership option that would enable customers to get scheduled allotments of olive oil and access to special perks, like on-site tours and tastings.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=22)** I start the project with a fresh WordPress install and walk you through the process of installing and configuring both the WooCommerce and WooCommerce membership plugins.
+> **[0:22](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=22)** I start the project with a fresh [[WordPress]] install and walk you through the process of installing and configuring both the [[WooCommerce]] and WooCommerce membership plugins.
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/demo-project-overview?u=76281980&t=32)** I also show you how to set up a membership plan, sell it as a WooCommerce product, and restrict content to members.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), [[E-Commerce]] (1), business (1), [[WordPress]] (1), product (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[E-Commerce]] (1), [[WordPress]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -173,8 +170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a paid membership site?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
+#### [What is a paid membership site?](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +182,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=25)** You can apply the idea behind a paid membership website to a lot of different scenarios.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=30)** Things like building a community or exclusive access to products, activities, information, or even opportunities.
+> **[0:30](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=30)** Things like building a community or exclusive access to [[Microsoft Products|products]], activities, information, or even opportunities.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=38)** Instead of talking in theory, let me show you an example of some popular and successful paid membership sites in the wild.
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=95)** The selling point here, if you're going to be spending money on plugins or software, et cetera, for your business, you can spend less money as an AppSumoPlus member.
 >
-> **[1:44](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=104)** One more we'll take a look at, and this one you should already be familiar with, that's right, LinkedIn Learning.
+> **[1:44](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=104)** One more we'll take a look at, and this one you should already be familiar with, that's right, [[LinkedIn]] Learning.
 >
 > **[1:51](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980&t=111)** The very platform you're using to take this course on.
 >
@@ -232,15 +228,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[LinkedIn]] (2), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define project requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980)
+#### [Define project requirements](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,28 +251,27 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=29)** In this course, we're building a website for a fictional company called Two Trees Olive Oil.
 >
-> **[0:34](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=34)** Let's say I've already got a WordPress site for this company, just the basic stuff, like some information about the company, a blog and some contact info, but now the owners want to sell products online and offer a special membership club.
+> **[0:34](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=34)** Let's say I've already got a [[WordPress]] site for this company, just the basic stuff, like some information about the company, a blog and some contact info, but now the owners want to sell [[Microsoft Products|products]] online and offer a special membership club.
 >
-> **[0:48](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=48)** To make that happen, here are some things that we know we'll need: product photography and details, a way to sell products, a secure website for processing payments, a theme that works well with our e-commerce solution, a way to create members, and restrict content and products, a way for customers and members alike to manage their accounts, and finally, a way to send emails to customers and members regarding orders, payments, membership renewals, et cetera.
+> **[0:48](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=48)** To make that happen, here are some things that we know we'll need: product photography and details, a way to sell products, a secure website for processing payments, a theme that works well with our [[E-Commerce]] solution, a way to create members, and restrict content and products, a way for customers and members alike to manage their accounts, and finally, a way to send emails to customers and members regarding orders, payments, membership renewals, et cetera.
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/define-project-requirements?u=76281980&t=75)** Your specific project requirements may differ from mine, and that's totally okay, but as we move through this course, selecting the theme and plugins to use, et cetera, I'll be focusing on making sure my finished site meets these requirements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WordPress]] (1), product (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WordPress]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why WooCommerce?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980)
+#### [Why WooCommerce?](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=0)** - [Instructor] There are a lot of e-commerce solutions out there.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=0)** - [Instructor] There are a lot of [[E-Commerce]] solutions out there.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=3)** Even if you just narrow it down to e-commerce solutions for WordPress, there's still a variety of options to choose from.
+> **[0:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=3)** Even if you just narrow it down to e-commerce solutions for [[WordPress]], there's still a variety of options to choose from.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=9)** So why did I pick WooCommerce for this project?
+> **[0:09](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=9)** So why did I pick [[WooCommerce]] for this project?
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=12)** Well, WooCommerce happens to be the most popular e-commerce solution in the world.
 >
@@ -303,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=85)** It's also scalable.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=86)** Whether you're a family-owned store selling a few bottles of olive oil a day or a retail behemoth selling hundreds of products a minute on Black Friday, WooCommerce can handle it.
+> **[1:26](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=86)** Whether you're a family-owned store selling a few bottles of olive oil a day or a retail behemoth selling hundreds of [[Microsoft Products|products]] a minute on Black Friday, WooCommerce can handle it.
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce?u=76281980&t=96)** Finally, there's an active developer community behind it.
 >
@@ -313,22 +307,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (8), [[E-Commerce]] (5), [[WordPress]] (2), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (8), [[E-Commerce]] (5), [[WordPress]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ebooks (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why WooCommerce Memberships?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980)
+#### [Why WooCommerce Memberships?](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=0)** - [Instructor] In addition to choosing WooCommerce as the e-commerce plugin for this project, I've also opted to use WooCommerce Memberships to handle the membership aspects that we need.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=0)** - [Instructor] In addition to choosing [[WooCommerce]] as the [[E-Commerce]] plugin for this project, I've also opted to use WooCommerce Memberships to handle the membership aspects that we need.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=10)** Just as with e-commerce, there are lots of options when it comes to choosing membership plugins.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=15)** I highlighted the most popular of these options in the course on getting started with a WordPress membership site.
+> **[0:15](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=15)** I highlighted the most popular of these options in the course on getting started with a [[WordPress]] membership site.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=21)** For the project we're building in this course, I chose WooCommerce Memberships for a few specific reasons.
 >
@@ -340,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=43)** Next, I need a solution that lets me restrict content to members based on their membership level.
 >
-> **[0:49](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=49)** And I also need a solution that lets me integrate member perks within my store, such as access to members-only products, enhanced shipping options or special discounts.
+> **[0:49](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=49)** And I also need a solution that lets me integrate member perks within my store, such as access to members-only [[Microsoft Products|products]], enhanced shipping options or special discounts.
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/why-woocommerce-memberships?u=76281980&t=60)** WooCommerce Memberships plugin checks all of these boxes.
 >
@@ -358,24 +351,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (7), [[E-Commerce]] (3), [[WordPress]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (7), [[E-Commerce]] (3), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980)
+#### [Set up your site](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=0)** - [Instructor] Okay, let's get started.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=2)** First things first, I'm going to start with a clean WordPress install.
+> **[0:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=2)** First things first, I'm going to start with a clean [[WordPress]] install.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=5)** I've created a site on my machine using Local.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=8)** It's available for free at [localwp.com](https://localwp.com) and it's a great way to get started with local WordPress development.
+> **[0:08](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=8)** It's available for free at [localwp.com](https://localwp.com) and it's a great way to get started with local [[Wordpress Development]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=15)** Of course, you can use whatever you want to follow along.
 >
@@ -389,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=30)** I've got no plugins and I'm currently running the default 2021 theme.
 >
-> **[0:36](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=36)** To get started here, I'm going to install a free theme by Automatic and WooCommerce called Storefront.
+> **[0:36](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=36)** To get started here, I'm going to install a free theme by Automatic and [[WooCommerce]] called Storefront.
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=44)** Okay, this is the one.
 >
@@ -421,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=119)** There we go.
 >
-> **[2:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=122)** So from here, you can see that we get a ton of options for configuring colors for the header, the footer, typography, buttons, layout et cetera.
+> **[2:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=122)** So from here, you can see that we get a ton of options for configuring colors for the header, the footer, [[Typography]], buttons, layout et cetera.
 >
 > **[2:11](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-your-site?u=76281980&t=131)** I'm not going to spend a ton of time on design here since that's not the focus of this course but I will modify a few things just to make it look a little more ambient.
 >
@@ -477,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[WooCommerce]] (3), [[Wordpress Development]] (1), [[Typography]] (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[WooCommerce]] (3), [[Wordpress Development]] (1), [[Typography]] (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** make (3)
@@ -491,14 +483,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing WooCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
+#### [Installing WooCommerce](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=0)** - [Instructor] Previously, I've done some basic site setup.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=3)** Other than adding the Storefront theme that works great with WooCommerce, I haven't done anything to the site regarding e-commerce or memberships.
+> **[0:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=3)** Other than adding the Storefront theme that works great with [[WooCommerce]], I haven't done anything to the site regarding [[E-Commerce]] or memberships.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=11)** I just wanted to show you what I've done so far in case you're following along using your own brand's assets.
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=24)** You're welcome to install directly from there.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=27)** But in case you're using a different theme or maybe don't see this message, we'll just install it directly from the WordPress plugin repository.
+> **[0:27](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=27)** But in case you're using a different theme or maybe don't see this message, we'll just install it directly from the [[WordPress]] plugin repository.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=35)** Plugins, add new, and search for WooCommerce.
 >
@@ -550,7 +541,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=139)** Extensions are integrations that work with WooCommerce.
 >
-> **[2:22](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=142)** We also get this products menu, which is where you can add and manage products.
+> **[2:22](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=142)** We also get this [[Microsoft Products|products]] menu, which is where you can add and manage products.
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980&t=147)** We'll look at that more in the next lesson.
 >
@@ -572,28 +563,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (12), data (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (12), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1), [[WordPress]] (1)
 > **Prerequisites:** setup (6), install (4), set up (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing demo products
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980)
+#### [Importing demo products](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=0)** - [Instructor] In order to get the full feel of working with e-commerce, we need some products.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=0)** - [Instructor] In order to get the full feel of working with [[E-Commerce]], we need some [[Microsoft Products|products]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=4)** I've got a handful of products I'll be using for this project that I uploaded when you weren't looking.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=10)** In case you don't have products for your site yet, but you're ready to move forward with getting a working cart set up, I'm going to walk you through the process of importing demo products.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=20)** Now, sample data for WooCommerce is located in a file either called sample_products.csv or sample_products.xml and these are located in the WooCommerce plugin folder in WooCommerce, Sample Data.
+> **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=20)** Now, sample data for [[WooCommerce]] is located in a file either called sample_products.csv or sample_products.xml and these are located in the WooCommerce plugin folder in WooCommerce, Sample Data.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=35)** And you can get this in two ways.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=37)** You could re-download WooCommerce from [wordpress.org](https://wordpress.org), open up that ZIP and find the files in the folder, or go to your existing WordPress install, which is what I'm doing, and find it from there.
+> **[0:37](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=37)** You could re-download WooCommerce from [[[WordPress]].org](https://wordpress.org), open up that ZIP and find the files in the folder, or go to your existing WordPress install, which is what I'm doing, and find it from there.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=50)** There are a couple of ways to import products.
 >
@@ -641,7 +631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (17), [[WooCommerce]] (9), data (4), [[WordPress]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (17), [[WooCommerce]] (9), [[WordPress]] (2), [[E-Commerce]] (1)
 > **Prerequisites:** install (3), setup (2), set up (1)
 > **UI Navigation:** go to (3), select the (1)
 > **File Paths:** sample_products.csv (2), sample_products.xml (1)
@@ -655,14 +645,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get and install WooCommerce Memberships
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
+#### [Get and install WooCommerce Memberships](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980&t=0)** - [Instructor] Now it's time to get started with membership.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980&t=2)** I've already got a copy of WooCommerce Memberships.
+> **[0:02](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980&t=2)** I've already got a copy of [[WooCommerce]] Memberships.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980&t=5)** And if you want to follow along exactly, you'll need to grab a copy, too.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), next (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3)
 > **Prerequisites:** you'll need (1), install (1), set up (1), setup (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -702,12 +691,11 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setup and configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980)
+#### [Setup and configuration](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=0)** - [Instructor] You can set up WooCommerce memberships by either going to this WooCommerce menu, Settings and looking for that Membership tab or from the Plugins page by clicking this set up link under WooCommerce Memberships.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=0)** - [Instructor] You can set up [[WooCommerce]] memberships by either going to this WooCommerce menu, Settings and looking for that Membership tab or from the Plugins page by clicking this set up link under WooCommerce Memberships.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=13)** This launches a setup wizard that looks similar to what we saw for WooCommerce.
 >
@@ -747,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=110)** And definitely a specific length of time or through a selected date range.
 >
-> **[1:56](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=116)** I'm going to skip this section for now, along with the membership perks section, and spend more time on products and plans in the coming lessons.
+> **[1:56](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=116)** I'm going to skip this section for now, along with the membership perks section, and spend more time on [[Microsoft Products|products]] and plans in the coming lessons.
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=125)** Next, we get to choose what we want to email members.
 >
@@ -769,7 +757,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=173)** And all of these are things that we can find again.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=175)** So I'm going to go ahead, return to the WordPress dashboard, and here we are in WooCommerce settings, membership, I'm going to go ahead and dismiss these notices just to clean up the screen a little bit.
+> **[2:55](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=175)** So I'm going to go ahead, return to the [[WordPress]] dashboard, and here we are in WooCommerce settings, membership, I'm going to go ahead and dismiss these notices just to clean up the screen a little bit.
 >
 > **[3:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/setup-and-configuration?u=76281980&t=190)** Okay, and here under this membership tabs, we also have a few links.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (10), [[Search]] (4), next (3), [[Microsoft Products|Products]] (3), traffic (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (10), [[Microsoft Products|Products]] (3), [[WordPress]] (1)
 > **UI Navigation:** go to (3), checkbox (1), toggle (1)
 > **Prerequisites:** set up (2), setup (2), configure (1)
 > **CLI Commands:** find (1), make (1)
@@ -810,16 +798,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 
-#### Create products for memberships
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980)
+#### [Create products for memberships](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=0)** - [Instructor] Fun fact, memberships are not a specific type of WooCommerce product.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=0)** - [Instructor] Fun fact, memberships are not a specific type of [[WooCommerce]] product.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=5)** You can create almost any type of WooCommerce product and then tie it into a membership plan.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=10)** Now, I've already got a bunch of products for my store, and you may be following along with your own products, or you may have imported demo products earlier in this course, or you may just be watching along.
+> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=10)** Now, I've already got a bunch of [[Microsoft Products|products]] for my store, and you may be following along with your own products, or you may have imported demo products earlier in this course, or you may just be watching along.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-products-for-memberships?u=76281980&t=21)** It doesn't matter, we're going to go ahead and create a new product, and this is going to be the product we use to sell a membership club.
 >
@@ -853,17 +840,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[WooCommerce]] (4), [[Microsoft Products|Products]] (4), next (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a membership plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980)
+#### [Create a membership plan](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=0)** - [Instructor] Membership plans and products are created independently from each other.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=0)** - [Instructor] Membership plans and [[Microsoft Products|products]] are created independently from each other.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=4)** And this gives you maximum flexibility for how you grant access to a membership.
 >
@@ -881,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=55)** Let's explore what this actually looks like.
 >
-> **[0:57](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=57)** We'll go to WooCommerce, Memberships, and click on Membership Plans.
+> **[0:57](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=57)** We'll go to [[WooCommerce]], Memberships, and click on Membership Plans.
 >
 > **[1:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=63)** So we've got this VIP membership that was created as a draft when we set up the membership plugin.
 >
@@ -925,7 +911,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=185)** Okay, so I'll fill out those billing details and go ahead and place the order.
 >
-> **[3:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=190)** Fantastic, so now if we head back into our WordPress admin, go to WooCommerce, Memberships, and under this Member's tab here, I see that I've got a new member that happens to be me and that is a direct result of me purchasing that product.
+> **[3:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=190)** Fantastic, so now if we head back into our [[WordPress]] admin, go to WooCommerce, Memberships, and under this Member's tab here, I see that I've got a new member that happens to be me and that is a direct result of me purchasing that product.
 >
 > **[3:30](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-a-membership-plan?u=76281980&t=210)** So fantastic, it works as expected.
 >
@@ -935,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[WooCommerce]] (3), [[Search]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (3), [[WordPress]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -944,12 +930,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Add custom profile fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980)
+#### [Add custom profile fields](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=0)** - [Instructor] Custom profile fields are a great way to capture information about your customers that goes beyond the standard information that WooCommerce collects, like your name or email address, et cetera.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=0)** - [Instructor] Custom profile fields are a great way to capture information about your customers that goes beyond the standard information that [[WooCommerce]] collects, like your name or email address, et cetera.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=11)** In terms of memberships, this is a great way to capture things like customer preferences.
 >
@@ -1007,7 +992,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=141)** All right, let's go ahead and click Create.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=144)** So if we go to our products, and look at this Oil Lover's Club.
+> **[2:24](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=144)** So if we go to our [[Microsoft Products|products]], and look at this Oil Lover's Club.
 >
 > **[2:34](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/add-custom-profile-fields?u=76281980&t=154)** Hm, I don't see those options added here.
 >
@@ -1063,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[WooCommerce]] (2), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1)
 > **Cross-References:** go back to (5), later in (1)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (1), known as (1)
@@ -1071,14 +1056,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create member discounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980)
+#### [Create member discounts](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=0)** - [Instructor] There's one more thing I'd like to show you about adding memberships before we move on, and that is member discounts.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=7)** Now, WooCommerce comes with a built-in way to create coupons for customers, but that's actually different from what I'm talking about here.
+> **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=7)** Now, [[WooCommerce]] comes with a built-in way to create coupons for customers, but that's actually different from what I'm talking about here.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=14)** As a perk or a bonus for your members, you can offer members-only discounts.
 >
@@ -1088,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=33)** I'm going to go ahead and say Add New.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=35)** And here, you can select whether you want to apply the discount to a specific product, or you could even broadly apply it to a category of products.
+> **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=35)** And here, you can select whether you want to apply the discount to a specific product, or you could even broadly apply it to a category of [[Microsoft Products|products]].
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/create-member-discounts?u=76281980&t=46)** I'll select Product Discounts.
 >
@@ -1130,7 +1114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), [[WooCommerce]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1143,12 +1127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding restriction rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
+#### [Understanding restriction rules](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980&t=0)** - [Instructor] Rules are what allow us to restrict or control access to certain content or products.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980&t=0)** - [Instructor] Rules are what allow us to restrict or control access to certain content or [[Microsoft Products|products]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980&t=5)** They can be applied to a specific membership plan via these Restrict Content and Restrict Products tabs, or you can also apply a rule to a specific piece of content or a product.
 >
@@ -1210,21 +1193,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restrict content to members
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980)
+#### [Restrict content to members](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980&t=0)** - [Instructor] Now that we've got a membership plan set up, let's take a look at how we can restrict content based on that membership.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980&t=6)** WooCommerce Memberships provide several methods for accomplishing this.
+> **[0:06](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980&t=6)** [[WooCommerce]] Memberships provide several methods for accomplishing this.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-content-to-members?u=76281980&t=10)** You can restrict content while creating or editing a membership plan by adding rules from the membership's meta box while creating or editing content, via shortcodes, and, finally, by using special blocks.
 >
@@ -1394,7 +1376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), hit (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Env Vars:** url (2)
@@ -1403,14 +1385,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 
-#### Restrict products to members
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980)
+#### [Restrict products to members](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=0)** - [Instructor] Product restriction is a little different than content restriction and that you can use either viewing or purchasing restrictions.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=8)** To demonstrate this, I've got five products that I only want to make available for members to purchase.
+> **[0:08](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=8)** To demonstrate this, I've got five [[Microsoft Products|products]] that I only want to make available for members to purchase.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=14)** So I'm going to add all of these to a special category and I'll call it the Oil Lover's Club Exclusives, and let's go ahead and publish these.
 >
@@ -1444,7 +1425,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=114)** So that's a way that you could restrict a product to be available for everyone to view, but only for members to purchase.
 >
-> **[2:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=123)** So heading back to our WordPress dashboard, let's go ahead and look at a second way that we can manage product restrictions and that's from the actual product itself.
+> **[2:03](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=123)** So heading back to our [[WordPress]] dashboard, let's go ahead and look at a second way that we can manage product restrictions and that's from the actual product itself.
 >
 > **[2:15](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=135)** So for instance, let's edit this organic olive oil tasters gift set, and I can see that it's part of the Oil Lover's Exclusives Club category.
 >
@@ -1456,11 +1437,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=173)** And just like we saw with content restriction, you can also create custom messages to display to non-members.
 >
-> **[3:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=180)** So that's product restriction in a nutshell, whether you want to restrict entire categories of products or single products, the WooCommerce memberships plugin gives you a way to do that.
+> **[3:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/restrict-products-to-members?u=76281980&t=180)** So that's product restriction in a nutshell, whether you want to restrict entire categories of products or single products, the [[WooCommerce]] memberships plugin gives you a way to do that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (8), [[WordPress]] (1), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[WordPress]] (1), [[WooCommerce]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1468,12 +1449,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dripping content
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/dripping-content?u=76281980)
+#### [Dripping content](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/dripping-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/dripping-content?u=76281980&t=0)** - [Instructor] The WooCommerce Memberships plugin enables you to schedule when members have access to content or products, for that matter.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/dripping-content?u=76281980&t=0)** - [Instructor] The [[WooCommerce]] Memberships plugin enables you to schedule when members have access to content or [[Microsoft Products|products]], for that matter.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/dripping-content?u=76281980&t=7)** Now, we've already seen this when setting content or product level restrictions, but we haven't talked too much about it.
 >
@@ -1511,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1523,14 +1503,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up member account area
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
+#### [Set up member account area](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=0)** - [Instructor] If you've ever signed up for a membership or subscription online, you know that the vast majority of time, you have some sort of an area where you can manage your account, things like your email address, your password, product licenses, et cetera.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=14)** WooCommerce makes it really simple to set up a membership area for your site.
+> **[0:14](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=14)** [[WooCommerce]] makes it really simple to set up a membership area for your site.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=18)** And WooCommerce Memberships also adds a few features that you can use.
 >
@@ -1558,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=117)** And you also have the ability to specify whether a member can view and edit these fields, or if it's just for internal member management.
 >
-> **[2:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=125)** So earlier, when we made this oil preferences custom field, we set it to show on the products page.
+> **[2:05](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=125)** So earlier, when we made this oil preferences custom field, we set it to show on the [[Microsoft Products|products]] page.
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980&t=132)** Let's say we also want to show this field on the account page.
 >
@@ -1576,7 +1555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (9), product (1), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (9), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1585,8 +1564,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manual member management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980)
+#### [Manual member management](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,7 +1576,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980&t=20)** I'm going to start by adding a new user.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980&t=27)** And here, I've got the default WordPress user roles and then some extra added by WooCommerce.
+> **[0:27](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980&t=27)** And here, I've got the default [[WordPress]] user roles and then some extra added by [[WooCommerce]].
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/manual-member-management?u=76281980&t=34)** I'm going to go ahead and select Customer.
 >
@@ -1628,19 +1606,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), product (1), [[WordPress]] (1), feature (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[WordPress]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize email content
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/customize-email-content?u=76281980)
+#### [Customize email content](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/customize-email-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/customize-email-content?u=76281980&t=0)** - [Instructor] Just like there are default pages that come with WooCommerce, there are also default emails, and you can find these under WooCommerce, Settings, and the Emails tab.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/customize-email-content?u=76281980&t=0)** - [Instructor] Just like there are default pages that come with [[WooCommerce]], there are also default emails, and you can find these under WooCommerce, Settings, and the Emails tab.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/customize-email-content?u=76281980&t=10)** They're the kind of default communications that you would expect.
 >
@@ -1690,8 +1667,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test registration and payments
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
+#### [Test registration and payments](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,9 +1679,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=14)** You want to make sure that your registration process works and payments are going through as expected.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=20)** WooCommerce provides a free plugin specifically for testing payments.
+> **[0:20](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=20)** [[WooCommerce]] provides a free plugin specifically for testing payments.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=24)** You can download this plugin here, or you can install it from the WordPress plugin repository.
+> **[0:24](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=24)** You can download this plugin here, or you can install it from the [[WordPress]] plugin repository.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980&t=29)** Now, a note here on Dev Mode.
 >
@@ -1729,7 +1705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), business (2), product (2), [[WordPress]] (1), data (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (1)
 > **Prerequisites:** install (1), you need to have (1), setup (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
@@ -1737,14 +1713,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test access to content
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980)
+#### [Test access to content](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980&t=0)** - [Instructor] In this course, you've seen me log in and out or use an incognito browser window to check my content restrictions, but I'll show you an easier way, and that's the User Switching plugin.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980&t=12)** This allows you to quickly swap between user accounts in WordPress at the click of a button.
+> **[0:12](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980&t=12)** This allows you to quickly swap between user accounts in [[WordPress]] at the click of a button.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-access-to-content?u=76281980&t=17)** You'll be instantly logged out and logged in as your desired user.
 >
@@ -1766,14 +1741,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test email deliverability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980)
+#### [Test email deliverability](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=0)** - [Instructor] Last but not least, before making your site live, you'll want to test that transactional emails related to orders and memberships, et cetera, are being sent.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=10)** If you're not seeing emails, first make sure that they're enabled here under WooCommerce, Settings, Emails.
+> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=10)** If you're not seeing emails, first make sure that they're enabled here under [[WooCommerce]], Settings, Emails.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=18)** And if you see a check, it indicates that an email is enabled.
 >
@@ -1783,11 +1757,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=38)** If they don't, don't panic.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=40)** You might just need to use an email deliverability plugin, of which there are multiple options in the WordPress plugin repository.
+> **[0:40](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-email-deliverability?u=76281980&t=40)** You might just need to use an email deliverability plugin, of which there are multiple options in the [[WordPress]] plugin repository.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (1), web (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), toggle (1)
 > **Speakers:** - [instructor] (1)
@@ -1797,12 +1771,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)
+#### [Additional integrations](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=0)** - [Instructor] I mentioned it at the top of this course, but one of the great things about WooCommerce is its flexibility when it comes to integrations.
+> **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=0)** - [Instructor] I mentioned it at the top of this course, but one of the great things about [[WooCommerce]] is its flexibility when it comes to integrations.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=7)** And WooCommerce memberships is a great example of that.
 >
@@ -1812,7 +1785,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=26)** Next, there's WooCommerce product vendors.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=29)** Imagine that you have a multi-vendor marketplace with multiple vendors, products and payout settings.
+> **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=29)** Imagine that you have a multi-vendor marketplace with multiple vendors, [[Microsoft Products|products]] and payout settings.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980&t=35)** You can use WooCommerce memberships to integrate with that marketplace to restrict access to vendor products.
 >
@@ -1828,27 +1801,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (9), [[Microsoft Products|Products]] (2), management (2), next (1), product (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (9), [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** bbpress (1)
 > **Env Vars:** lms (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980&t=0)** - Thank you so much for joining me in this course, It's always a pleasure to have you and before we sign off, I want to recommend some resources for continuing your learning journey.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980&t=10)** If you want to dive in more on woocommerce, specifically, there are several courses in the library to help round out your knowledge and depending on your skill level as a web developer with WordPress, there are learning paths available for junior WordPress developers and advanced WordPress developers and with that, I think that's enough to keep you busy for now.
+> **[0:10](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980&t=10)** If you want to dive in more on [[WooCommerce]], specifically, there are several courses in the library to help round out your knowledge and depending on your skill level as a web developer with [[WordPress]], there are learning paths available for junior WordPress developers and advanced WordPress developers and with that, I think that's enough to keep you busy for now.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/next-steps?u=76281980&t=29)** I hope to see you in another course soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[WooCommerce]] (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[WooCommerce]] (1)
 > **Speakers:** - thank (1)
 
 

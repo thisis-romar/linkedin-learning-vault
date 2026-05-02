@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AEC collaboration with InfraWorks and ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980)
+#### [AEC collaboration with InfraWorks and ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980&t=32)** However, just like a normal family, CAD, BIM and GIS have matured and realized that they're stronger together and it's nice to have someone to have a nap with.
 >
-> **[0:43](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980&t=43)** I'm Lynda Sharkey and I'd love for you to join me on this journey to see how we can combine traditionally disparate data and processes using Esri ArcGIS online and Autodesk InfraWorks to streamline data management for infrastructure design projects, to derive more value from diverse datasets and better communicate with internal and external stakeholders.
+> **[0:43](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980&t=43)** I'm Lynda Sharkey and I'd love for you to join me on this journey to see how we can combine traditionally disparate data and processes using Esri ArcGIS online and [[Autodesk InfraWorks]] to streamline [[Data Management]] for infrastructure design projects, to derive more value from diverse datasets and better communicate with internal and external stakeholders.
 >
 > **[1:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/aec-collaboration-with-infraworks-and-arcgis-online?u=76281980&t=69)** Are you ready?
 >
@@ -118,14 +117,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (3), data (3), [[Autodesk InfraWorks]] (1), management (1)
+> **Frameworks & Libraries:** [[Autodesk InfraWorks]] (1), [[Data Management]] (1)
 > **Env Vars:** cad (3), gis (3), bim (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lynda] (1)
 
-#### Using the exercise files 
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-exercise-files?u=76281980)
+#### [Using the exercise files ](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,13 +147,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** unzip (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=28)** Even practicing on production models can lead to problems, so do not complete these course exercises in a production environment.
 >
-> **[0:36](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=36)** One other thing to bear in mind is that if you're part of an organization with an AEC collection subscription, get your account manager to check with your dealer.
+> **[0:36](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=36)** One other thing to bear in mind is that if you're part of an organization with an [[AEC]] collection subscription, get your account manager to check with your dealer.
 >
 > **[0:44](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=44)** You may be eligible for an extended trial of ArcGIS Online.
 >
@@ -179,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=52)** We're going to be using two pieces of software.
 >
-> **[0:54](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=54)** Autodesk InfraWorks 2020.1, that's very important.
+> **[0:54](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=54)** [[Autodesk InfraWorks]] 2020.1, that's very important.
 >
 > **[0:58](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=58)** It will not work in any previous versions of Autodesk InfraWorks.
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=86)** She will have an email address and she's going to be the one who sets up the ArcGIS Online trial account.
 >
-> **[1:33](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=93)** Our second user, my second user, is John Engineer.
+> **[1:33](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=93)** Our second user, my second user, is [[John the Ripper|John]] Engineer.
 >
 > **[1:37](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=97)** He's going to have an email address.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=167)** So those are just some things to keep in mind as we head into our course, so buckle up, let's get ready.
 >
-> **[2:54](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=174)** Finally, in the good to know section is that if you're working on a machine which hasn't previously had any Autodesk Geospatial products install on it, so no AutoCAD Map, no AutoCAD Civil 3D, then just follow this link to install the ArcGIS Projection Engine Data.
+> **[2:54](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=174)** Finally, in the good to know section is that if you're working on a machine which hasn't previously had any Autodesk Geospatial [[Microsoft Products|products]] install on it, so no [[AutoCAD]] Map, no AutoCAD Civil 3D, then just follow this link to install the ArcGIS Projection Engine Data.
 >
 > **[3:16](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/what-you-need-to-know?u=76281980&t=196)** And this is just something that will help you out when you're using the Autodesk connector for ArcGIS.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Autodesk InfraWorks]] (4), gis (2), data (2), [[AutoCAD]] (2), [[AEC]] (1)
+> **Frameworks & Libraries:** [[Autodesk InfraWorks]] (4), [[John the Ripper|John]] (2), [[AutoCAD]] (2), [[AEC]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gis (2), aec (1)
 > **Prerequisites:** install (3)
 > **Versions:** 2020.1 (1)
@@ -257,12 +253,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980)
+#### [Introduction to ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=0)** - [Narrator] To get started with your ArcGIS online trial subscription, head over to the ArcGIS AEC Collections page and if you want you can just have a browse around, see what they're offering you, what a Collection is, whether you want to use field operations, site selections, lots of good information over here.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=0)** - [Narrator] To get started with your ArcGIS online trial subscription, head over to the ArcGIS [[AEC]] Collections page and if you want you can just have a browse around, see what they're offering you, what a Collection is, whether you want to use field operations, site selections, lots of good information over here.
 >
 > **[0:21](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=21)** On the Free Trial page, what you want to do is you just want to fill this out.
 >
@@ -276,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=53)** We're not going to actually use these, but they are worth having a look at if you are serious about taking your collaboration between Infoworks and ArcGIS online into production.
 >
-> **[1:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=66)** You want to agree to the privacy statement and if you want to stay up to date with content, then choose that particular option.
+> **[1:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=66)** You want to agree to the [[Privacy]] statement and if you want to stay up to date with content, then choose that particular option.
 >
 > **[1:14](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=74)** Hit Submit.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=154)** You want to give yourself a password as well, give yourself a good strength password, confirm your password, and give yourself a security question.
 >
-> **[2:45](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=165)** Now rest assured that I did not go on my first date to Paris, so it's not like I'm breaking any security protocols over here.
+> **[2:45](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=165)** Now [[Representational State Transfer (REST)|rest]] assured that I did not go on my first date to Paris, so it's not like I'm breaking any security protocols over here.
 >
 > **[2:55](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/introduction-to-arcgis-online?u=76281980&t=175)** Accept the terms and conditions and hit activate my trial.
 >
@@ -324,13 +319,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Security]] (2), [[AEC]] (1), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[AEC]] (1), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** aec (1)
 > **Speakers:** - [narrator] (1)
 
-#### Log in and explore the interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980)
+#### [Log in and explore the interface](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980&t=66)** So, it's best to practice all of this on a organization, which will have no bearing on what you're going to set up in the future.
 >
-> **[1:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980&t=75)** I've been using the word organization, an organization is the company, or all of the contents, and groups, and users that are associated with it.
+> **[1:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980&t=75)** I've been using the [[Microsoft Word|word]] organization, an organization is the company, or all of the contents, and groups, and users that are associated with it.
 >
 > **[1:25](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/log-in-and-explore-the-interface?u=76281980&t=85)** We have been taken to our overview page of our ArcGIS Online account.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Security]] (1), [[Microsoft Word|Word]] (1), gis (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Prerequisites:** set up (7), configure (2), setup (1)
 > **Env Vars:** oggis5678 (1), url (1), gis (1)
 > **CLI Commands:** make (1)
@@ -445,8 +439,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980)
+#### [Setting up your organization](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=133)** So the logo that we're going to get is actually in our course material.
 >
-> **[2:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=139)** So hit upload image, hit browse, and in your collaboration Infraworks and GIS folder, there is an organization thumbnail, just select that, click open and use the zoom slider to adjust the size of it.
+> **[2:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=139)** So hit upload image, hit browse, and in your collaboration Infraworks and GIS folder, there is an organization thumbnail, just select that, click open and use the [[Zoom]] slider to adjust the size of it.
 >
 > **[2:37](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=157)** So we'll just make it a little bit larger and hit save.
 >
@@ -572,9 +565,9 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=401)** However, we're not going to add any right now, simply because we don't have any members of our organization yet.
 >
-> **[6:47](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=407)** Continuing down, you can decide whether or not you want people within your organization to participate in the user experience for entry.
+> **[6:47](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=407)** Continuing down, you can decide whether or not you want people within your organization to participate in the [[User Experience (UX)|user experience]] for entry.
 >
-> **[6:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=417)** And you can upload things like shared themes, so that your organization has the correct brand colors, and the correct logo for products that are created from ArcGIS Online.
+> **[6:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=417)** And you can upload things like shared themes, so that your organization has the correct brand colors, and the correct logo for [[Microsoft Products|products]] that are created from ArcGIS Online.
 >
 > **[7:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-your-organization?u=76281980&t=429)** So apps or story maps or web app builders and open data sites.
 >
@@ -584,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (2), [[Security]] (1), gis (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (7), bim (5), gis (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), basically means (1), means that (1)
@@ -593,8 +586,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Prerequisites:** set up (1)
 
-#### Setting up the home page and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980)
+#### [Setting up the home page and security](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980&t=392)** We're also going to leave the logins and multifactor authentication settings as they are.
 >
-> **[6:39](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980&t=399)** We're just going to leave all the rest as they are.
+> **[6:39](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980&t=399)** We're just going to leave all the [[Representational State Transfer (REST)|rest]] as they are.
 >
 > **[6:41](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/setting-up-the-home-page-and-security?u=76281980&t=401)** All we've done for security is change it from HTTP to HTTPS and we have changed whether or not members can share their content publicly or search for content publicly.
 >
@@ -730,7 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), gis (3), [[Search]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (6), https (5), gis (3), bim (2), url (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), is a  (1), means that (1)
@@ -739,8 +731,7 @@ created: 2026-05-02
 > **Code Identifiers:** play_concept_update (1)
 > **Cross-References:** go back to (1)
 
-#### Adding and administering a new member
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980)
+#### [Adding and administering a new member](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +777,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980&t=162)** We're just going to add one member and here is where we're going to bring user two into the equation.
 >
-> **[2:49](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980&t=169)** So remember Jane was user one, she set up the organization, but John is our user two.
+> **[2:49](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980&t=169)** So remember Jane was user one, she set up the organization, but [[John the Ripper|John]] is our user two.
 >
 > **[2:55](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-and-administering-a-new-member?u=76281980&t=175)** Now obviously your user two may be called something different but my user two is called John Engineer.
 >
@@ -846,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), next (6), gis (2), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (8)
 > **Prerequisites:** set up (5)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** make (2)
@@ -854,12 +845,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - we (1)
 
-#### Creating a new group
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980)
+#### [Creating a new group](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=0)** - [Instructor] Before we go through the steps that John has to go through to log in and gain access to the ArcGIS online site, we'll add a group for our Broadway Corridor project.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=0)** - [Instructor] Before we go through the steps that [[John the Ripper|John]] has to go through to log in and gain access to the ArcGIS online site, we'll add a group for our Broadway Corridor project.
 >
 > **[0:11](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=11)** Now we're in the organization members tab.
 >
@@ -915,7 +905,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=180)** Now we only want this group to be viewable to members.
 >
-> **[3:05](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=185)** So you'll note that as we change between the three options here that everyone, people in the organization, and group members, the rest of the form actually changes.
+> **[3:05](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=185)** So you'll note that as we change between the three options here that everyone, people in the organization, and group members, the [[Representational State Transfer (REST)|rest]] of the form actually changes.
 >
 > **[3:16](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=196)** So make sure that you are on the Only group members for who can view this group, and we can see who can contribute content to the group.
 >
@@ -953,7 +943,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=298)** Now this is important because we are creating a working group.
 >
-> **[5:02](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=302)** We want to make sure that if John leaves, someone else is going to pick up his slack, someone else is going to take over the content that he manages and the content that he updates.
+> **[5:02](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=302)** We want to make sure that if John leaves, someone else is going to pick up his [[Slack]], someone else is going to take over the content that he manages and the content that he updates.
 >
 > **[5:14](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=314)** So we don't want John just to be able to leave and then find out that nothing has been done for a couple of days.
 >
@@ -979,7 +969,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=372)** So click on that and hit Open.
 >
-> **[6:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=375)** And what you can do is you can use the zoom slider to decide how big or small you want your thumbnail.
+> **[6:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=375)** And what you can do is you can use the [[Zoom]] slider to decide how big or small you want your thumbnail.
 >
 > **[6:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-new-group?u=76281980&t=382)** Let's leave it there, however you feel it looks best, and click OK.
 >
@@ -1009,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (4), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** means that (4), is a  (3)
 > **UI Navigation:** click on (2)
@@ -1018,12 +1008,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Warnings:** note that (1)
 
-#### Accepting an invitation from an ArcGIS Online organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/accepting-an-invitation-from-an-arcgis-online-organization?u=76281980)
+#### [Accepting an invitation from an ArcGIS Online organization](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/accepting-an-invitation-from-an-arcgis-online-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/accepting-an-invitation-from-an-arcgis-online-organization?u=76281980&t=0)** - [Instructor] We have created a Broadway Corridor group, and we have added John, user two, as a member.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/accepting-an-invitation-from-an-arcgis-online-organization?u=76281980&t=0)** - [Instructor] We have created a Broadway Corridor group, and we have added [[John the Ripper|John]], user two, as a member.
 >
 > **[0:08](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/accepting-an-invitation-from-an-arcgis-online-organization?u=76281980&t=8)** So before we go through the steps that he has to go through in order to gain access to the ArcGIS online organization and its group, just head over to the top right corner and log out, sign out of ArcGIS Online as Jane, as your user one.
 >
@@ -1069,7 +1058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Security]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (10)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** bim (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1081,8 +1070,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding content
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980)
+#### [Adding content](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1110,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=107)** But, notice that we're not just adding a shape file, a .shp, we're adding a zip file and this is the reason.
 >
-> **[1:55](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=115)** If we had over to our Windows Explorer and I double click on the development outline zip, you'll see that within this zip package are one, two, three, four, five, six, seven, eight, nine, nine separate files.
+> **[1:55](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=115)** If we had over to our [[Windows]] Explorer and I double click on the development outline zip, you'll see that within this zip package are one, two, three, four, five, six, seven, eight, nine, nine separate files.
 >
 > **[2:14](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=134)** Now a shape file consists of between three, a minimum of three, up to nine different files.
 >
@@ -1148,7 +1136,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=261)** So again, we're going to go back to content.
 >
-> **[4:26](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=266)** When we head back to my content tab, we'll notice that there are now two, for want of a better word, separate items, separate layers.
+> **[4:26](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=266)** When we head back to my content tab, we'll notice that there are now two, for want of a better [[Microsoft Word|word]], separate items, separate layers.
 >
 > **[4:35](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-content?u=76281980&t=275)** The first is the original shape file of the development outline, the second is the hosted feature layer.
 >
@@ -1242,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (5), hit (4), next (3), web (3)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), checkbox (1), go to (1)
 > **Env Vars:** gis (2), bcp (2), url (1), kml (1), qgis (1)
 > **Exercise Files:** zip file (3), template (1)
@@ -1251,8 +1239,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Sharing data with people and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/sharing-data-with-people-and-groups?u=76281980)
+#### [Sharing data with people and groups](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/sharing-data-with-people-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,15 +1315,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), hit (6), feature (1)
 > **UI Navigation:** click on (3), checkbox (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bcp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding data for download
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980)
+#### [Adding data for download](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,7 +1371,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980&t=143)** The reason we don't have those options is because ArcGIS online doesn't allow us to create hosted tiled image layers.
 >
-> **[2:30](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980&t=150)** That needs to be done from ArcGIS pro, which is the desktop application.
+> **[2:30](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980&t=150)** That needs to be done from [[ArcGIS Pro]], which is the desktop application.
 >
 > **[2:35](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-data-for-download?u=76281980&t=155)** We don't have desktop application, so what we need is a workaround.
 >
@@ -1408,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (2), gis (2), feature (2), [[ArcGIS Pro]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** gis (2)
 > **Cross-References:** go back to (2)
@@ -1421,8 +1406,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding ArcGIS data sources to the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980)
+#### [Adding ArcGIS data sources to the model](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=22)** Now this is in your collaboration InfraWorks and ArcGIS, InfraWorks models, Broadway Corridor Start, that's where it is.
 >
-> **[0:32](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=32)** So just open that from your InfraWorks homepage, and we are signed in as John, so our second user.
+> **[0:32](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=32)** So just open that from your InfraWorks homepage, and we are signed in as [[John the Ripper|John]], so our second user.
 >
 > **[0:43](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=43)** We're not signed in as our ArcGIS trial account administrator, we're signed in as John.
 >
@@ -1542,7 +1526,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=402)** Again we can click the little eye icon.
 >
-> **[6:45](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=405)** And we can zoom out and just have a look at the buildings that are going to be within our model extent.
+> **[6:45](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=405)** And we can [[Zoom]] out and just have a look at the buildings that are going to be within our model extent.
 >
 > **[6:52](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-arcgis-data-sources-to-the-model?u=76281980&t=412)** So once we've done both of those, we configured the development outline, we've configured the buildings, click add to my design project.
 >
@@ -1552,7 +1536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (3), [[Search]] (3), next (2), feature (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Zoom]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (2)
@@ -1561,8 +1545,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Configuring ArcGIS Online layers within InfraWorks
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980)
+#### [Configuring ArcGIS Online layers within InfraWorks](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,7 +1609,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980&t=130)** Now click close and refresh, and abracadabra.
 >
-> **[2:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980&t=135)** When the model refreshes, you can zoom in to the buildings that I told you to keep an eye on, so Union Station, and see how the individual pieces of the building have been extruded according to their individual roof elevation.
+> **[2:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980&t=135)** When the model refreshes, you can [[Zoom]] in to the buildings that I told you to keep an eye on, so Union Station, and see how the individual pieces of the building have been extruded according to their individual roof elevation.
 >
 > **[2:34](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-arcgis-online-layers-within-infraworks?u=76281980&t=154)** So it gives us a lot of data from our ArcGIS online content.
 >
@@ -1634,15 +1617,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), next (2), data (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Prerequisites:** configure (5)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Theming ArcGIS Online layers within InfraWorks
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/theming-arcgis-online-layers-within-infraworks?u=76281980)
+#### [Theming ArcGIS Online layers within InfraWorks](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/theming-arcgis-online-layers-within-infraworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,19 +1682,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), hit (1), next (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Good to know: Tips and tricks for editing ArcGIS Online data within InfraWorks
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980)
+#### [Good to know: Tips and tricks for editing ArcGIS Online data within InfraWorks](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980&t=0)** - [Instructor] One of the benefits of being able to connect to and use GIS data directly is the ability to edit that data and send it back to ArcGIS online.
 >
-> **[0:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980&t=10)** Our user John wants to mark some buildings for deletion within the project area and he may want to change some attributes or the geometry of some existing objects.
+> **[0:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980&t=10)** Our user [[John the Ripper|John]] wants to mark some buildings for deletion within the project area and he may want to change some attributes or the geometry of some existing objects.
 >
 > **[0:21](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-editing-arcgis-online-data-within-infraworks?u=76281980&t=21)** Now to do this, he needs an ArcGIS online role that is either a user, publisher, data editor or administrator.
 >
@@ -1792,7 +1772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (5), feature (3), gis (1), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (4)
 > **Prerequisites:** set up (1), before we start (1), setup (1)
@@ -1801,8 +1781,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### Ensuring ArcGIS data is ready for editing within InfraWorks
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980)
+#### [Ensuring ArcGIS data is ready for editing within InfraWorks](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1807,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=56)** We need to enable editing.
 >
-> **[0:59](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=59)** And notice how when we check that the rest of the options change as well.
+> **[0:59](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=59)** And notice how when we check that the [[Representational State Transfer (REST)|rest]] of the options change as well.
 >
 > **[1:04](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=64)** So we want to enable editing.
 >
@@ -1874,22 +1853,21 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=209)** And we can leave Jane logged into the site.
 >
-> **[3:34](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=214)** Then we can head back to our ArcGIS InfraWorks model, and John can continue what he was doing before.
+> **[3:34](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/ensuring-arcgis-data-is-ready-for-editing-within-infraworks?u=76281980&t=214)** Then we can head back to our ArcGIS InfraWorks model, and [[John the Ripper|John]] can continue what he was doing before.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Representational State Transfer (REST)|Rest]] (2), data (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Viewing data changes made by InfraWorks within ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980)
+#### [Viewing data changes made by InfraWorks within ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=0)** - [Narrator] So John has successfully updated the buildings within the Broadway Corridor Project outline that he wants to delete.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=0)** - [Narrator] So [[John the Ripper|John]] has successfully updated the buildings within the Broadway Corridor Project outline that he wants to delete.
 >
 > **[0:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=9)** He saved those back to ArcGIS online and now with John still working in Infraworks, we can head back to our ArcGIS online site.
 >
@@ -1919,7 +1897,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=123)** Click that and the filter panel will appear, so what we want to do is build an expression, so we want Notes, starts with, and then just type in DEL.
 >
-> **[2:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=138)** The apply filter button will appear so we want to apply filter and zoom to and notice that all the rest of our buildings have been filtered out.
+> **[2:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=138)** The apply filter button will appear so we want to apply filter and [[Zoom]] to and notice that all the [[Representational State Transfer (REST)|rest]] of our buildings have been filtered out.
 >
 > **[2:30](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/viewing-data-changes-made-by-infraworks-within-arcgis-online?u=76281980&t=150)** The only buildings that now display in our map are the ones that say delete this, so let's try and edit these now.
 >
@@ -1961,18 +1939,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), gis (2), hit (2), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (6), scroll down (2), go to (1), open the (1)
 > **Env Vars:** gis (2), del (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Downloading image files from ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980)
+#### [Downloading image files from ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=0)** - [Instructor] Back in InfraWorks, John still has his original model.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=0)** - [Instructor] Back in InfraWorks, [[John the Ripper|John]] still has his original model.
 >
 > **[0:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=6)** We have the buildings within the project site, they still have their notes it says to leave these buildings.
 >
@@ -1980,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=28)** Refreshing a data layer when changes have occurred within that layer may take a little bit longer than just refreshing and grabbing the original data back but you'll get there eventually.
 >
-> **[0:41](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=41)** When the layer and the model have redrawn we can zoom in to our Broadway Corridor project area and Ta Da!
+> **[0:41](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=41)** When the layer and the model have redrawn we can [[Zoom]] in to our Broadway Corridor project area and Ta Da!
 >
 > **[0:49](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=49)** No buildings!
 >
@@ -2008,7 +1985,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=123)** So John can click on the layer which will take you to the overview page.
 >
-> **[2:11](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=131)** As we mentioned in an earlier video, imagery layers can be published to ArcGIS online, however you do need ArcGIS Pro to create the tile packages and they're not available for use in the ArcGIS connector in InfraWorks and you cannot create a hosted tile layer just using ArcGIS online.
+> **[2:11](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=131)** As we mentioned in an earlier video, imagery layers can be published to ArcGIS online, however you do need [[ArcGIS Pro]] to create the tile packages and they're not available for use in the ArcGIS connector in InfraWorks and you cannot create a hosted tile layer just using ArcGIS online.
 >
 > **[2:34](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/downloading-image-files-from-arcgis-online?u=76281980&t=154)** So how we get around this is Jane has uploaded images and people can download them and use them from their hard drive within an InfraWorks model.
 >
@@ -2024,19 +2001,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (3), [[Zoom]] (1), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7), [[Zoom]] (1), [[ArcGIS Pro]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we mentioned (1), go back to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using image files from ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980)
+#### [Using image files from ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=0)** - [Instructor] Now, John is going to go back to his InfraWorks model and from the Data Sources panel, he's going to add a raster.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=0)** - [Instructor] Now, [[John the Ripper|John]] is going to go back to his InfraWorks model and from the Data Sources panel, he's going to add a raster.
 >
 > **[0:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=15)** Again, we're going to Collaboration_Infraworks_and_ArcGIS, Data, Play_Concept_Update.jpg, hit Open.
 >
@@ -2070,7 +2046,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=130)** Then, we're going to double-click a point that acts as a real-world reference.
 >
-> **[2:16](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=136)** So here, we need to zoom in a little bit and figure out where things are going to go, so you can see I can zoom in and I can zoom out.
+> **[2:16](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=136)** So here, we need to [[Zoom]] in a little bit and figure out where things are going to go, so you can see I can zoom in and I can zoom out.
 >
 > **[2:27](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=147)** Before I do that, I'm just going to hit Escape to show the terrain overlay opaque and we're just going to have a look at where things are going to go, so let's see.
 >
@@ -2126,7 +2102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), hit (5), data (3), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[John the Ripper|John]] (1)
 > **UI Navigation:** double-click (6), right-click (3), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), is a  (1)
@@ -2134,8 +2110,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Good to know: Tips and tricks for managing ArcGIS Online data within InfraWorks
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980)
+#### [Good to know: Tips and tricks for managing ArcGIS Online data within InfraWorks](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2145,7 +2120,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=12)** I'm still in our Broadway Corridor start model and it's the model that we have been adding data to.
 >
-> **[0:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=19)** Now, bin processes has required some really robust metadata along with data obligation and because of this, and also to enable the best possible use of ArcGIS data, autodesk has enabled the Infraworks models schema to be extended.
+> **[0:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=19)** Now, bin processes has required some really robust [[Metadata]] along with data obligation and because of this, and also to enable the best possible use of ArcGIS data, autodesk has enabled the Infraworks models schema to be extended.
 >
 > **[0:35](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=35)** However, there are a few things to be aware of.
 >
@@ -2209,7 +2184,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=298)** So it's good data practices to make sure that your ArcGIS online layers have names that do not coincide with any of the default schemas in the Infraworks model.
 >
-> **[5:13](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=313)** I'm going to delete this building because we don't want it and just before we head off, I promise this is all we're going to say about schemas, some people have suggested that editing the IM schema json file would remove the classes.
+> **[5:13](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=313)** I'm going to delete this building because we don't want it and just before we head off, I promise this is all we're going to say about schemas, some people have suggested that editing the IM schema [[JSON]] file would remove the classes.
 >
 > **[5:31](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/good-to-know-tips-and-tricks-for-managing-arcgis-online-data-within-infraworks?u=76281980&t=331)** So, I'm in my collaboration Infraworks and ArcGIS folder and I've put in a json file here.
 >
@@ -2255,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), feature (3), [[JSON]] (3), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Metadata]] (1)
 > **UI Navigation:** go to (8), click on (2), open the (1), scroll down (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1), find (1)
@@ -2269,8 +2244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and preparing InfraWorks data for publishing to ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-and-preparing-infraworks-data-for-publishing-to-arcgis-online?u=76281980)
+#### [Creating and preparing InfraWorks data for publishing to ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-and-preparing-infraworks-data-for-publishing-to-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,7 +2358,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), data (2), feature (2)
 > **UI Navigation:** go to (2), switch to (1), click on (1)
 > **Exercise Files:** zip file (3)
 > **Analogies:** for example (2)
@@ -2393,8 +2366,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing InfraWorks data to ArcGIS Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980)
+#### [Publishing InfraWorks data to ArcGIS Online](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2436,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=197)** It's going to publish to My Content.
 >
-> **[3:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=199)** Now, we are logged in as John, John engineer, user two.
+> **[3:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=199)** Now, we are logged in as [[John the Ripper|John]], John engineer, user two.
 >
 > **[3:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=204)** It's going to be published to his content in arcGIS Online.
 >
@@ -2486,7 +2458,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=272)** Hit Cancel, if it happens to show up in a style, Option.
 >
-> **[4:37](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=277)** Here we have all of the layers and if we zoom in, we can see that we have buildings, we have some trees over here, we've got our pipelines, we have our outline.
+> **[4:37](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=277)** Here we have all of the layers and if we [[Zoom]] in, we can see that we have buildings, we have some trees over here, we've got our pipelines, we have our outline.
 >
 > **[4:50](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-arcgis-online?u=76281980&t=290)** You might notice that some of the building footprints overlap.
 >
@@ -2508,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (3), feature (3), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Zoom]] (1)
 > **Code Identifiers:** arcgis (10)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
@@ -2516,12 +2488,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing InfraWorks data to a feature geodatabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980)
+#### [Publishing InfraWorks data to a feature geodatabase](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=0)** - [Lynda] Before we start working some more magic with the data that we've just uploaded to ArcGIS Online I'd like to share with you another way you can export data for use in either ArcGIS Online, ArcGIS Pro, desktop or any other GIS package for that matter.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=0)** - [Lynda] Before we start working some more magic with the data that we've just uploaded to ArcGIS Online I'd like to share with you another way you can export data for use in either ArcGIS Online, [[ArcGIS Pro]], desktop or any other GIS package for that matter.
 >
 > **[0:20](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=20)** If you do not have a publisher or administrator role, you're a user or an editor or a viewer, you still have the opportunity to export to a featured geodatabase and it works the exact same way.
 >
@@ -2545,7 +2516,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=83)** Let's find out.
 >
-> **[1:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=84)** By default, it gets put into your Autodesk InfraWorks folders, so user, your name, documents.
+> **[1:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=84)** By default, it gets put into your [[Autodesk InfraWorks]] folders, so user, your name, documents.
 >
 > **[1:33](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=93)** it'll be called IMExport.gdb, geodatabase.
 >
@@ -2553,11 +2524,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=113)** It's just another way of sharing information with people who use ArcGIS without having the permissions to actually publish to ArcGIS Online.
 >
-> **[2:04](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=124)** Now let's head over to ArcGIS Online and see what John can do with the information that we've just uploaded.
+> **[2:04](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/publishing-infraworks-data-to-a-feature-geodatabase?u=76281980&t=124)** Now let's head over to ArcGIS Online and see what [[John the Ripper|John]] can do with the information that we've just uploaded.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (2), [[ArcGIS Pro]] (1), gis (1), [[Autodesk InfraWorks]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[Autodesk InfraWorks]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gis (1)
 > **Definitions:** is a  (1)
@@ -2569,14 +2540,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding published content to a web scene
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980)
+#### [Adding published content to a web scene](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=0)** - [Instructor] Without saving the map, head over to your Content tab.
 >
-> **[0:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=6)** Now remember, we're logged in as John as user two, he has updated the ArcGIS Online organization with a feature layer called Broadway Corridor concept.
+> **[0:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=6)** Now remember, we're logged in as [[John the Ripper|John]] as user two, he has updated the ArcGIS Online organization with a feature layer called Broadway Corridor concept.
 >
 > **[0:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=18)** It's shared with the organization.
 >
@@ -2694,7 +2664,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=358)** We're also going to change the edges of these buildings.
 >
-> **[6:02](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=362)** First of all, let's just zoom in and have a look around.
+> **[6:02](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=362)** First of all, let's just [[Zoom]] in and have a look around.
 >
 > **[6:06](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/adding-published-content-to-a-web-scene?u=76281980&t=366)** So these are our buildings, they're not terribly different to the ones around them, mostly because we're using the same colors, we'll change that in a minute.
 >
@@ -2742,15 +2712,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), feature (3), web (3), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Zoom]] (1)
 > **UI Navigation:** click on (5), open the (1), go to (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** bcp (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring content in a web scene
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980)
+#### [Configuring content in a web scene](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2822,7 +2791,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980&t=139)** And then you'll be able to navigate underground.
 >
-> **[2:23](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980&t=143)** And zoom in, and we can see the pipes that we created.
+> **[2:23](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980&t=143)** And [[Zoom]] in, and we can see the pipes that we created.
 >
 > **[2:29](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-content-in-a-web-scene?u=76281980&t=149)** So, there they are over there.
 >
@@ -2850,15 +2819,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring slides (or bookmarks) in a web scene
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-slides-or-bookmarks-in-a-web-scene?u=76281980)
+#### [Configuring slides (or bookmarks) in a web scene](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-slides-or-bookmarks-in-a-web-scene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2894,19 +2862,18 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-slides-or-bookmarks-in-a-web-scene?u=76281980&t=130)** We're going to uncheck that box, and hit save.
 >
-> **[2:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-slides-or-bookmarks-in-a-web-scene?u=76281980&t=135)** Now we're going to use this web scene, this 3D web map that we've created with data from Infraworks, to create a 3D web application so that people who don't have access to Infraworks, who don't have access to ArcGIS Pro, or who don't have any type of desktop software, could still login to our ArcGIS online site and have a look at what the Broadway Corridor project might look like.
+> **[2:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/configuring-slides-or-bookmarks-in-a-web-scene?u=76281980&t=135)** Now we're going to use this web scene, this 3D web map that we've created with data from Infraworks, to create a 3D web application so that people who don't have access to Infraworks, who don't have access to [[ArcGIS Pro]], or who don't have any type of desktop software, could still login to our ArcGIS online site and have a look at what the Broadway Corridor project might look like.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), web application (2), hit (2), next (1), data (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** bcp (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a web application to showcase published data
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980)
+#### [Creating a web application to showcase published data](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2918,7 +2885,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=15)** On the left-hand side, click Home, and click the Content tab.
 >
-> **[0:21](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=21)** This will take us back to John's content page.
+> **[0:21](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=21)** This will take us back to [[John the Ripper|John]]'s content page.
 >
 > **[0:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=24)** Now remember, we are logged in as John which is user two, and note that in addition to the Broadway Corridor Project feature, layer, and file geodatabase that he uploaded, there is also now the Broadway Corridor Project web scene.
 >
@@ -3058,7 +3025,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=405)** We have our roads and our bridge with our absolute height, and if we look at the widgets on the left-hand side, we can switch layers on and off.
 >
-> **[6:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=417)** So let's switch those off and zoom in.
+> **[6:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=417)** So let's switch those off and [[Zoom]] in.
 >
 > **[7:02](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-web-application-to-showcase-published-data?u=76281980&t=422)** We can have a look at the legend, so what all those colors mean.
 >
@@ -3094,7 +3061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (17), hit (10), application (7), data (6), web application (5)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Zoom]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
@@ -3108,20 +3075,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a feature layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980)
+#### [Creating a feature layer](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=0)** - We are back in John's My Content page, so along the top you choose Content.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=0)** - We are back in [[John the Ripper|John]]'s My Content page, so along the top you choose Content.
 >
 > **[0:08](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=8)** It is My Content.
 >
 > **[0:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=9)** We are logged in as John, User 2.
 >
-> **[0:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=12)** We can see all the content that John has created, and what we're going to do next is we're going to look at field data collection.
+> **[0:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=12)** We can see all the content that John has created, and what we're going to do next is we're going to look at field [[Data Collection]].
 >
-> **[0:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=22)** Now this is an area of data management where mistakes can creep in, so in this exercise, we're going to get John to create some layers.
+> **[0:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=22)** Now this is an area of [[Data Management]] where mistakes can creep in, so in this exercise, we're going to get John to create some layers.
 >
 > **[0:30](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=30)** We'll add those to our map, and then we'll install the Field Collection app, and collect some data in the field.
 >
@@ -3159,7 +3125,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=112)** The next thing you're going to have to do is you're going to be asked to set the map extents for the new layer, and, as I said, you're probably not in Portland.
 >
-> **[2:01](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=121)** I'm not in Portland; I'm in Spain right now, so you're just going to have to zoom out, and just pan.
+> **[2:01](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=121)** I'm not in Portland; I'm in Spain right now, so you're just going to have to [[Zoom]] out, and just pan.
 >
 > **[2:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=129)** So where's North America; there it is.
 >
@@ -3255,13 +3221,13 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=378)** We want to add, update, and delete features.
 >
-> **[6:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=382)** Editors can see all features, and leave the rest as default.
+> **[6:22](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=382)** Editors can see all features, and leave the [[Representational State Transfer (REST)|rest]] as default.
 >
 > **[6:28](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/creating-a-feature-layer?u=76281980&t=388)** Hit save, and when we're done, we can go back to John's content, and we will add these layers to a map, which we shall be able to use within our field application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (5), feature (4), hit (3), management (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7), [[Data Collection]] (1), [[Data Management]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** template (4), zip file (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -3270,12 +3236,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Add feature layer to a relevant web map
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-feature-layer-to-a-relevant-web-map?u=76281980)
+#### [Add feature layer to a relevant web map](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-feature-layer-to-a-relevant-web-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-feature-layer-to-a-relevant-web-map?u=76281980&t=0)** - [Instructor] We are still logged in, as John engineer our user two.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-feature-layer-to-a-relevant-web-map?u=76281980&t=0)** - [Instructor] We are still logged in, as [[John the Ripper|John]] engineer our user two.
 >
 > **[0:04](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-feature-layer-to-a-relevant-web-map?u=76281980&t=4)** We're in the content, my content tab of the ArcGIS online organization, and we can see the Manhole layers and the Broadway inlet layers, that were created in the last exercise.
 >
@@ -3387,7 +3352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), application (2), web (2), data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), navigate to (1)
 > **Cross-References:** in the last (1)
@@ -3398,8 +3363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing the Collector app
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980)
+#### [Installing the Collector app](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3409,7 +3373,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=10)** I'm using a mirroring application to show you what's happening on my mobile phone as I do it, and I'm going to go and search for ArcGIS.
 >
-> **[0:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=24)** I'm on Android, so I'm going to search for apps in Google Play, and the second one we see here is Collector for ArcGIS, so click on that, and install.
+> **[0:24](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=24)** I'm on [[Android]], so I'm going to search for apps in [[Google]] Play, and the second one we see here is Collector for ArcGIS, so click on that, and install.
 >
 > **[0:35](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=35)** Obviously if you are on iOS, then it might be a little bit different, but it's pretty much a straightforward app download.
 >
@@ -3421,7 +3385,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=57)** You'll be prompted to sign into [arcgis.com](https://arcgis.com), so hit Continue and type in your username and password.
 >
-> **[1:05](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=65)** We're going to type in John's username and password, so your user two, the person who is on the ArcGIS online organization and uses Infoworks.
+> **[1:05](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=65)** We're going to type in [[John the Ripper|John]]'s username and password, so your user two, the person who is on the ArcGIS online organization and uses Infoworks.
 >
 > **[1:16](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=76)** Hit Sign In, and you'll note that we have the Broadway Corridor project.
 >
@@ -3443,7 +3407,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=110)** If we have a look at our layers, we will see that we have Broadway inlet layers, and the manholes.
 >
-> **[1:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=117)** Let's just see if we can zoom in and find those.
+> **[1:57](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=117)** Let's just see if we can [[Zoom]] in and find those.
 >
 > **[2:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/installing-the-collector-app?u=76281980&t=120)** So using your usual way of navigating around your map, just zoom into the project area.
 >
@@ -3459,7 +3423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), application (3), web (2), [[Search]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Android]] (1), [[Google]] (1), [[John the Ripper|John]] (1)
 > **UI Navigation:** click on (5)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** find (1)
@@ -3468,16 +3432,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Using the app to collect data
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980)
+#### [Using the app to collect data](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=0)** - [Lynda] In ArcGIS Online, whilst logged in as John Engineer, I'm going to open up the web map that we just created.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=0)** - [Lynda] In ArcGIS Online, whilst logged in as [[John the Ripper|John]] Engineer, I'm going to open up the web map that we just created.
 >
 > **[0:09](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=9)** From the overview, click open in map viewer.
 >
-> **[0:13](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=13)** And I'm going to zoom in to this square building just to the left-hand side of our project site where we see our same three manholes.
+> **[0:13](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=13)** And I'm going to [[Zoom]] in to this square building just to the left-hand side of our project site where we see our same three manholes.
 >
 > **[0:29](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-the-app-to-collect-data?u=76281980&t=29)** Right, now I'm going to switch to my mobile and on the Broadway Field Collection app on my mobile, I'm going to click the plus sign down at the bottom over here.
 >
@@ -3521,16 +3484,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), web (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[John the Ripper|John]] (1)
 > **UI Navigation:** switch to (1), click on (1)
 > **Speakers:** - [lynda] (1)
 
-#### Add the collected data to the InfraWorks model and change and sync data across all applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980)
+#### [Add the collected data to the InfraWorks model and change and sync data across all applications](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=0)** - [Narrator] Okay, so as well as having my ArcGIS Online organization open and being logged in as John, we've now opened the Broadway Corridor Model, also logged in as John.
+> **[0:00](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=0)** - [Narrator] Okay, so as well as having my ArcGIS Online organization open and being logged in as [[John the Ripper|John]], we've now opened the Broadway Corridor Model, also logged in as John.
 >
 > **[0:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=12)** We're still in the Broadway Corridor concept, and we're still got our Broadway field collection going on on our mobile site over here.
 >
@@ -3548,7 +3510,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=68)** Let's find our building.
 >
-> **[1:11](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=71)** So right about over here, if we zoom down, here's our square building with the core, this is NW Johnson St.
+> **[1:11](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=71)** So right about over here, if we [[Zoom]] down, here's our square building with the core, this is NW Johnson St.
 >
 > **[1:23](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/add-the-collected-data-to-the-infraworks-model-and-change-and-sync-data-across-all-applications?u=76281980&t=83)** Here are three manholes, and there is another manhole.
 >
@@ -3588,7 +3550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), data (1), hit (1), application (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Zoom]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** bim (1)
 > **Speakers:** - [narrator] (1)
@@ -3598,8 +3560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3609,13 +3570,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980&t=12)** And that as all three have matured, they've learned that they are stronger together, just like siblings.
 >
-> **[0:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980&t=18)** So if you want to know more about either InfraWorks or ArcGIS, check out LinkedIn Learning for more great content.
+> **[0:18](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980&t=18)** So if you want to know more about either InfraWorks or ArcGIS, check out [[LinkedIn]] Learning for more great content.
 >
 > **[0:26](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/next-steps?u=76281980&t=26)** Thanks again and see you soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** cad (1), gis (1), bim (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lynda] (1)

@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=0)** - [Scott] On a Linux system we make use of users and groups to manage access, and to secure information for humans and software alike.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=0)** - [Scott] On a [[Linux]] system we make use of users and groups to manage access, and to secure information for humans and software alike.
 >
 > **[0:07](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=7)** I'm Scott Simpson, and in this course I'll show you how to create and modify users and groups, and how to manage access to the superuser privileges.
 >
@@ -90,25 +89,24 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=30)** I'll give you an overview of how to connect a client machine to an LDAP server, and to a Kerberos key distribution center to allow central management of user information.
 >
-> **[0:39](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=39)** As an aspiring system administrator having a good handle on user management is an important skill to have.
+> **[0:39](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=39)** As an aspiring system administrator having a good handle on [[User Management]] is an important skill to have.
 >
 > **[0:45](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980&t=45)** Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), management (1), [[User Management]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[User Management]] (1)
 > **Env Vars:** pam (1), ldap (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [scott] (1)
 
-#### Users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980)
+#### [Users and groups](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=0)** - [Instructor] On a Linux system we can create users and groups in order to more precisely control access to files and resources.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=0)** - [Instructor] On a [[Linux]] system we can create users and groups in order to more precisely control access to files and resources.
 >
 > **[0:07](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=7)** A user corresponds to a human that will use the system or a servicer application that needs its own entity to run as.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=178)** The fifth field here is a description or comment field.
 >
-> **[3:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=180)** Usually this is where a human friendly name is stored like a full first and last name and it can also contain information like an office or phone number depending on how the standards of your system are set up.
+> **[3:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=180)** Usually this is where a human friendly name is stored like a full first and last name and it can also contain information like an [[Microsoft Office|office]] or phone number depending on how the standards of your system are set up.
 >
 > **[3:12](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/users-and-groups?u=76281980&t=192)** That's called GECOS and we'll get into that more later on.
 >
@@ -248,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), application (1), data (1), [[Security]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (4), means that (3)
 > **Env Vars:** uid (2), gid (1), gecos (1)
 > **Warnings:** warning (3)
@@ -257,14 +255,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980&t=0)** - [Instructor] In this course, I'll be using an Ubuntu virtual machine in VirtualBox.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980&t=0)** - [Instructor] In this course, I'll be using an [[Ubuntu]] virtual machine in VirtualBox.
 >
-> **[0:04](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980&t=4)** If you already have a VM or a Linux machine ready to go, you should be able to use it without any trouble.
+> **[0:04](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980&t=4)** If you already have a VM or a [[Linux]] machine ready to go, you should be able to use it without any trouble.
 >
 > **[0:10](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/environment-setup?u=76281980&t=10)** The changes that we'll make in this course do require superuser access and we'll be adding and modifying users and groups.
 >
@@ -276,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Ubuntu]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -286,8 +283,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
+#### [Create user accounts](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +397,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (1), cd (1)
 > **Env Vars:** uid (2), etc (1), gecos (1)
 > **Definitions:** is a  (3), is called (1)
 > **Documentation:** man page (2)
@@ -409,8 +404,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - we (1)
 
-#### Modify and delete user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/modify-and-delete-user-accounts?u=76281980)
+#### [Modify and delete user accounts](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/modify-and-delete-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,14 +502,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** unix (1), chsh (1), cshs (1), etc (1), gecos (1)
 > **CLI Commands:** sudo (1), make (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and modify groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-and-modify-groups?u=76281980)
+#### [Create and modify groups](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-and-modify-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,8 +582,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - groups (1)
 
-#### Home folder templating and global environment configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/home-folder-templating-and-global-environment-configuration?u=76281980)
+#### [Home folder templating and global environment configuration](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/home-folder-templating-and-global-environment-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +678,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **CLI Commands:** make (4), ls (2)
 > **File Paths:** myfile.sh (1), welcome.txt (1)
 > **Tools:** bash (1), terminal (1)
@@ -695,9 +685,9 @@ created: 2026-05-02
 > **Env Vars:** etc (1)
 > **UI Navigation:** switch to (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [instructor] (1)
 
-#### Configure and monitor user resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/configure-and-monitor-user-resources?u=76281980)
+#### [Configure and monitor user resources](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/configure-and-monitor-user-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,7 +815,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (5), mkdir (1)
 > **Prerequisites:** set up (3), install (2)
 > **Env Vars:** cpu (2), pam (1)
@@ -834,8 +823,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure permissions to allow group collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/configure-permissions-to-allow-group-collaboration?u=76281980)
+#### [Configure permissions to allow group collaboration](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/configure-permissions-to-allow-group-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,8 +877,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Granting users and groups sudo access
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/granting-users-and-groups-sudo-access?u=76281980)
+#### [Granting users and groups sudo access](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/granting-users-and-groups-sudo-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** sudo (7), make (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
@@ -934,14 +920,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore pluggable authentication modules (PAM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
+#### [Explore pluggable authentication modules (PAM)](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980&t=0)** - [Narrator] PAM, or the Pluggable Authentication Modules, are a system for providing an easy to use authentication system for various services.
 >
-> **[0:08](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980&t=8)** Rather than requiring tools to manage their own authentication systems, PAM gives us a modular system with which to configure authentication for these tools.
+> **[0:08](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980&t=8)** Rather than requiring tools to manage their own [[Authentication Systems]], PAM gives us a modular system with which to configure authentication for these tools.
 >
 > **[0:17](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980&t=17)** The system is built on a series of files for applications that support PAM authentication, and a series of .so files, or shared objects, that return a success or failure message after handling credentials from a user in some way or other.
 >
@@ -1025,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Authentication Systems]] (1)
+> **Frameworks & Libraries:** [[Authentication Systems]] (1)
 > **Env Vars:** pam (9), ldap (1), uid (1)
 > **Code Identifiers:** pam_shells (1), pam_rootok (1), pam_unix (1), pam_deny (1)
 > **CLI Commands:** cat (2)
@@ -1034,8 +1019,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** configure (1)
 
-#### Use LDAP for user authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980)
+#### [Use LDAP for user authentication](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=103)** In production, you'd want this to match up with your fully qualified domain name.
 >
-> **[1:50](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=110)** And for the rest of these I'll put in appropriate values.
+> **[1:50](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=110)** And for the [[Representational State Transfer (REST)|rest]] of these I'll put in appropriate values.
 >
 > **[1:53](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=113)** It's asking me for the administrator password again so I'll put that back in.
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=139)** So ideally you'll already have a server set up to bind clients to.
 >
-> **[2:23](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=143)** But to make things easier on us to get started here, I'll install and configure a popular web tool for managing the server called PHP LDAP admin.
+> **[2:23](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=143)** But to make things easier on us to get started here, I'll install and configure a popular web tool for managing the server called [[PHP]] LDAP admin.
 >
 > **[2:32](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=152)** We can interact with the server through the command line as well but it gets pretty tricky and for an example server this tool will be easier to work with.
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=464)** We need to add LDAP here as well because we want our users to be looked up there, not in the local database on the machine.
 >
-> **[7:50](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=470)** I'll add it after compat here because we want the system to look in its databases first.
+> **[7:50](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=470)** I'll add it after compat here because we want the system to look in its [[Databases]] first.
 >
 > **[7:57](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/use-ldap-for-user-authentication?u=76281980&t=477)** If LDAP comes first and the LDAP server isn't running, it can cause the system to hang a boot as it looks up the users it needs to start services in a system that doesn't exist yet.
 >
@@ -1237,7 +1221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[PHP]] (2), [[Security]] (2), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Env Vars:** ldap (30), pam (5), etc (3), php (2), mdb (1)
 > **Prerequisites:** install (8), set up (6), configure (4), setup (2)
 > **CLI Commands:** apt (3), make (2), php (2), find (2), grep (1)
@@ -1246,8 +1230,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1), stands for (1)
 > **URLs:** [example.com](https://example.com) (2)
 
-#### Authenticate clients with Kerberos
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/authenticate-clients-with-kerberos?u=76281980)
+#### [Authenticate clients with Kerberos](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/authenticate-clients-with-kerberos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1332,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), management (1), dns (1), next (1), [[Automation]] (1)
 > **Env Vars:** kdc (10), ldap (4), example (4), com (4), pam (2)
 > **Prerequisites:** setup (5), set up (4), install (4), configure (2)
 > **URLs:** [example.com](https://example.com) (7)
@@ -1357,14 +1339,14 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Versions:** 127.0.0 (1)
 > **UI Navigation:** switch to (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools for exploring user logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)
+#### [Tools for exploring user logins](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,12 +1386,11 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=0)** - [Scott] That's been a look at managing users and groups on Ubuntu.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=0)** - [Scott] That's been a look at managing users and groups on [[Ubuntu]].
 >
 > **[0:04](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=4)** I encourage you to continue practicing with creating users and groups in different configurations.
 >
@@ -1419,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=13)** I can't save changes to the file, and so on.
 >
-> **[0:16](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=16)** And if you're feeling extra adventurous, set up a few virtual machines and explore Kerberos and LDAP in a larger setting.
+> **[0:16](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=16)** And if you're feeling extra adventurous, set up a few [[Virtual Machines]] and explore Kerberos and LDAP in a larger setting.
 >
 > **[0:22](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/next-steps?u=76281980&t=22)** With an understanding of user and group management, you're one step closer to being a well rounded system administrator.
 >
@@ -1429,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Virtual Machines]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** ldap (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [scott] (1)

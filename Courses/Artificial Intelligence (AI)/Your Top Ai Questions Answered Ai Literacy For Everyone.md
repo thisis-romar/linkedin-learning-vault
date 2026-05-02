@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Answers to your most common AI questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
+#### [Answers to your most common AI questions](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,13 +80,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=4)** It's exciting, but with new terms and technologies popping up every day, it can also be a little overwhelming.
 >
-> **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=11)** Hi, I'm Marily Nika, an AI Product Manager at Google, and in this course, we're going to focus on the questions I hear the most.
+> **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=11)** Hi, I'm Marily Nika, an AI Product Manager at [[Google]], and in this course, we're going to focus on the questions I hear the most.
 >
-> **[0:17](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=17)** Questions, like: What really is the difference between traditional AI and the generative AI that everyone is talking about?
+> **[0:17](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=17)** Questions, like: What really is the difference between [[Traditional AI]] and the [[Generative AI]] that everyone is talking about?
 >
 > **[0:24](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=24)** How can I write a better prompt to get the results I actually want?
 >
-> **[0:28](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=28)** And what are these new AI agents that can actually do things and engage in processes for me?
+> **[0:28](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=28)** And what are these new [[AI Agents]] that can actually do things and engage in processes for me?
 >
 > **[0:34](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980&t=34)** Throughout this course, we will tackle these questions and many more, providing clear, straightforward answers to help you cut through the noise.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), product (1), [[Google]] (1), [[Traditional AI]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Traditional AI]] (1), [[Generative AI]] (1), [[AI Agents]] (1)
 > **Speakers:** - it (1)
 
 
@@ -105,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick history of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
+#### [A quick history of AI](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=0)** - [Instructor] The term artificial intelligence is everywhere today, but its journey has been a long one, marked by incredible breakthroughs and periods of disillusionment.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=0)** - [Instructor] The term [[Artificial Intelligence (AI)|artificial intelligence]] is everywhere today, but its journey has been a long one, marked by incredible breakthroughs and periods of disillusionment.
 >
 > **[0:10](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=10)** In this video, we'll take a slightly deeper dive into the history of AI, exploring the key technical milestones that have shaped the field from abstract theories to the powerful applications that we see today.
 >
@@ -124,11 +122,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=61)** The year in 1956 was pivotal.
 >
-> **[1:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=64)** At the summer workshop at Dartmouth College, the term artificial intelligence was officially coined by John McCarthy, launching AI as a formal field of research.
+> **[1:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=64)** At the summer workshop at Dartmouth College, the term artificial intelligence was officially coined by [[John the Ripper|John]] McCarthy, launching AI as a formal field of research.
 >
 > **[1:16](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=76)** The ambitious goals set through this time still define the core of AI research today.
 >
-> **[1:22](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=82)** They aim to achieve natural language processing, create robust systems for knowledge representation, and automated reasoning, and develop the capacity for machine learning.
+> **[1:22](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=82)** They aim to achieve [[Natural Language Processing (NLP)|natural language processing]], create robust systems for knowledge representation, and automated reasoning, and develop the capacity for machine learning.
 >
 > **[1:33](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=93)** The decades that followed were a golden age of discovery.
 >
@@ -150,19 +148,19 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=163)** They couldn't handle uncertainty well and were very expensive to create and update, which eventually led to a second shorter AI winter.
 >
-> **[2:53](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=173)** While expert systems were having their moment, a different approach was being refined, machine learning, based on the idea of connectionism or creating artificial neural networks inspired by the brain.
+> **[2:53](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=173)** While expert systems were having their moment, a different approach was being refined, machine learning, based on the idea of connectionism or creating [[Artificial Neural Networks]] inspired by the brain.
 >
 > **[3:07](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=187)** The key breakthrough was an algorithm called backpropagation developed in the 1980s, which finally made it possible to effectively train these networks.
 >
 > **[3:17](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=197)** This period was capped by a major milestone in 1997 when IBM's Deep Blue using massive parallel processing defeated world chess champion Gary Kasparov.
 >
-> **[3:31](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=211)** The true AI revolution of our time began in the 2010s with the rise of deep learning.
+> **[3:31](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=211)** The true AI revolution of our time began in the 2010s with the rise of [[Deep Learning]].
 >
 > **[3:38](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=218)** This wasn't a brand new idea, but rather the result of a perfect storm.
 >
-> **[3:43](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=223)** As the slide shows, it was a convergence of three key factors: the availability of big data, the power of GPU acceleration, and the refinement of advanced algorithms like backpropagation.
+> **[3:43](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=223)** As the slide shows, it was a convergence of three key factors: the availability of [[Big Data]], the power of GPU acceleration, and the refinement of advanced [[Algorithms]] like backpropagation.
 >
-> **[3:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=237)** And that brings us to the current moment, the era of generative AI.
+> **[3:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=237)** And that brings us to the current moment, the era of [[Generative AI]].
 >
 > **[4:02](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=242)** We've seen a monumental shift from AI that simply classifies data to AI that can create new data.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=282)** At the same time, generative AI is tackling its next challenge, video generation.
 >
-> **[4:48](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=288)** We're seeing the development of AI agents, autonomous systems that can reason, plan and use tools to complete complex tasks on their own.
+> **[4:48](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=288)** We're seeing the development of [[AI Agents]], autonomous systems that can reason, plan and use tools to complete complex tasks on their own.
 >
 > **[4:58](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980&t=298)** From formal logic to autonomous agents, the history of AI is one of constantly evolving tools and expanding ambitions.
 >
@@ -186,21 +184,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), power (2), [[Generative AI]] (2), data (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (2), [[John the Ripper|John]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Neural Networks]] (1)
 > **Env Vars:** eliza (1), mycin (1), ibm (1), gpu (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's the difference between traditional AI and generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980)
+#### [What's the difference between traditional AI and generative AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980&t=0)** - [Instructor] In our last video, we looked into the history of AI.
 >
-> **[0:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980&t=4)** Now we're going to clarify two terms you hear constantly, traditional AI and generative AI.
+> **[0:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980&t=4)** Now we're going to clarify two terms you hear constantly, [[Traditional AI]] and [[Generative AI]].
 >
 > **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-the-difference-between-traditional-ai-and-generative-ai?u=76281980&t=11)** While they're related, they do fundamentally different things.
 >
@@ -276,13 +273,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), data (7), ai (6), [[Traditional AI]] (5), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Traditional AI]] (5)
 > **CLI Commands:** make (2), cat (2), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why does AI cost so much to create?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980)
+#### [Why does AI cost so much to create?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=84)** Training a large AI model is one of the most computationally intensive tasks on the planet.
 >
-> **[1:30](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=90)** This requires specialized hardware, often thousands of high-end graphics processors or GPUs that are very expensive.
+> **[1:30](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=90)** This requires specialized [[Hardware]], often thousands of high-end graphics processors or GPUs that are very expensive.
 >
 > **[1:38](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=98)** Running these processors nonstop for weeks or even months consumes a staggering amount of energy, with an electricity bill that can run into the millions.
 >
@@ -324,13 +320,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=122)** Finally, there's the human element.
 >
-> **[2:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=124)** Despite the name artificial intelligence, building the systems is an incredibly human-driven process.
+> **[2:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=124)** Despite the name [[Artificial Intelligence (AI)|artificial intelligence]], building the systems is an incredibly human-driven process.
 >
 > **[2:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=131)** It requires large teams of some of the most sought-after talent in the world.
 >
 > **[2:17](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=137)** We're talking about PhD-level AI researchers, brilliant software engineers, and dedicated ethicists and safety experts.
 >
-> **[2:26](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=146)** So, when you combine the cost of data acquisition, the millions spent on hardware and electricity and the salaries for a world-class team, you get a staggering figure.
+> **[2:26](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=146)** So, when you combine the cost of [[Data Acquisition]], the millions spent on hardware and electricity and the salaries for a world-class team, you get a staggering figure.
 >
 > **[2:37](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=157)** The final cost to train a single state-of-the-art AI model can easily range from a few million, in some cases, well over a billion dollars.
 >
@@ -338,11 +334,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=169)** Okay, so now you have a clearer picture of why creating foundational AI is such an expensive endeavor.
 >
-> **[2:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=177)** In our next lesson, we will discuss the critical importance of data quality and curation.
+> **[2:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-ai-cost-so-much-to-create?u=76281980&t=177)** In our next lesson, we will discuss the critical importance of [[Data Quality]] and curation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (6), [[Hardware]] (3), next (2), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Acquisition]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
@@ -354,8 +350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's an LLM?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
+#### [What's an LLM?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=7)** In this video, we're going to demystify one of the most important concepts in modern AI, the large language model.
 >
-> **[0:15](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=15)** Let's break down the name itself as each word is important.
+> **[0:15](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=15)** Let's break down the name itself as each [[Microsoft Word|word]] is important.
 >
 > **[0:18](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=18)** The L stands for large.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=140)** They're being integrated into web search to provide direct answers and summaries.
 >
-> **[2:26](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=146)** They act as powerful assistants for writing email and generating software code, and they're enabling incredibly accurate real-time language translation.
+> **[2:26](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=146)** They act as powerful assistants for writing email and generating software code, and they're enabling incredibly accurate [[Real-Time]] language translation.
 >
 > **[2:37](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980&t=157)** So to put it all together, an LLM is a massive neural network built on the Transformer architecture and trained on vast amounts of text.
 >
@@ -411,17 +406,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), [[Microsoft Word|Word]] (6), next (4), ai (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Real-Time]] (1)
 > **Env Vars:** llm (6)
 > **Definitions:** is a  (3), stands for (2), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What does it mean to train an AI model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980)
+#### [What does it mean to train an AI model?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=0)** - [Narrator] We constantly hear that AI models need to be trained, but what does that word actually mean in this context?
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=0)** - [Narrator] We constantly hear that AI models need to be trained, but what does that [[Microsoft Word|word]] actually mean in this context?
 >
 > **[0:07](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=7)** What is happening behind the scenes?
 >
@@ -437,9 +431,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=38)** Before starting, it's important to know the goal of the training process, which differs based on the type of AI.
 >
-> **[0:46](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=46)** On one hand for traditional AI, the goal is to create a model that excels at making predictions or classifications based on patterns.
+> **[0:46](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=46)** On one hand for [[Traditional AI]], the goal is to create a model that excels at making predictions or classifications based on patterns.
 >
-> **[0:55](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=55)** On the other hand, generative AI has as a goal to create a model that can synthesize that information to generate entirely new or regional content.
+> **[0:55](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=55)** On the other hand, [[Generative AI]] has as a goal to create a model that can synthesize that information to generate entirely new or regional content.
 >
 > **[1:09](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-does-it-mean-to-train-an-ai-model?u=76281980&t=69)** The technical process of training follows a few key steps.
 >
@@ -465,16 +459,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), [[Microsoft Word|Word]] (1), [[Traditional AI]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Traditional AI]] (1), [[Generative AI]] (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is a GPU?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-a-gpu?u=76281980)
+#### [What is a GPU?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-a-gpu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-a-gpu?u=76281980&t=0)** - [Instructor] In our last lesson, we discussed the high costs of AI and the major part of that cost is hardware.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-a-gpu?u=76281980&t=0)** - [Instructor] In our last lesson, we discussed the high costs of AI and the major part of that cost is [[Hardware]].
 >
 > **[0:07](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-a-gpu?u=76281980&t=7)** You constantly hear one acronym mentioned, GPU.
 >
@@ -520,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), parallel (5), [[Hardware]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Env Vars:** gpu (9), cpu (4)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **CLI Commands:** make (1)
@@ -528,12 +521,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is an AI agent and how can it help you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-an-ai-agent-and-how-can-it-help-you?u=76281980)
+#### [What is an AI agent and how can it help you?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-an-ai-agent-and-how-can-it-help-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-an-ai-agent-and-how-can-it-help-you?u=76281980&t=0)** - [Instructor] So far, we've talked a lot about AI models that can answer questions or generate text, but the next evolution is already here, AI agents.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-an-ai-agent-and-how-can-it-help-you?u=76281980&t=0)** - [Instructor] So far, we've talked a lot about AI models that can answer questions or generate text, but the next evolution is already here, [[AI Agents]].
 >
 > **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-an-ai-agent-and-how-can-it-help-you?u=76281980&t=11)** Here we will define what an agent is, and more importantly, explore how they can act as powerful personal assistants to help you in your daily life.
 >
@@ -583,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (2), web (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** think of it like (1), imagine (1), for example (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -596,8 +588,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes an effective prompt?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
+#### [What makes an effective prompt?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,12 +662,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), ai (4), generic (1), next (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is "Chain of Thought" prompting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980)
+#### [What is "Chain of Thought" prompting?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980&t=105)** This technique is your go-to whenever you're dealing with a task that requires logic.
 >
-> **[1:51](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980&t=111)** It's perfect for math and word problems, any question that requires logical deduction, or if you need the AI to follow a specific sequence of steps.
+> **[1:51](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980&t=111)** It's perfect for math and [[Microsoft Word|word]] problems, any question that requires logical deduction, or if you need the AI to follow a specific sequence of steps.
 >
 > **[2:01](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-is-chain-of-thought-prompting?u=76281980&t=121)** It's also a great tool to use any time a simple prompt gives you an answer that just does not seem to make sense.
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), prompt (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -736,16 +725,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why does quality matter in AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
+#### [Why does quality matter in AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=0)** - [Instructor] We've discussed the models, the hardware, and the costs of AI.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=0)** - [Instructor] We've discussed the models, the [[Hardware]], and the costs of AI.
 >
 > **[0:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=4)** Now we're going to focus on its most critical ingredient, the data.
 >
-> **[0:10](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=10)** We'll answer the fundamental question, "Why does data quality matter so much?"
+> **[0:10](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=10)** We'll answer the fundamental question, "Why does [[Data Quality]] matter so much?"
 >
 > **[0:16](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=16)** Let's start with an analogy from the kitchen.
 >
@@ -783,23 +771,22 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=110)** Now that we know why quality is so important, our next lesson will focus on how we can protect it.
 >
-> **[1:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=117)** We'll explore the concept of data integrity.
+> **[1:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980&t=117)** We'll explore the concept of [[Data Integrity]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (7), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Data Quality]] (1), [[Data Integrity]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can we ensure data integrity in AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980)
+#### [How can we ensure data integrity in AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=0)** - [Instructor] In our last lesson, we established that data quality is critical for AI, but knowing that isn't enough.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=0)** - [Instructor] In our last lesson, we established that [[Data Quality]] is critical for AI, but knowing that isn't enough.
 >
 > **[0:08](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=8)** We need processes to protect that quality.
 >
-> **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=11)** In this video, we'll explore how we can ensure data integrity for AI.
+> **[0:11](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=11)** In this video, we'll explore how we can ensure [[Data Integrity]] for AI.
 >
 > **[0:16](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=16)** First, let's define our term.
 >
@@ -809,9 +796,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=40)** Ensuring data integrity involves several key strategies.
 >
-> **[0:44](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=44)** It starts with data cleaning and pre-processing, where we systemically find and fix errors in the raw data.
+> **[0:44](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=44)** It starts with [[Data Cleaning]] and pre-processing, where we systemically find and fix errors in the raw data.
 >
-> **[0:52](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=52)** Next, we implement data validation rules, which are like automated gatekeepers that block bad or improperly formatted data from ever entering our system.
+> **[0:52](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=52)** Next, we implement [[Data Validation]] rules, which are like automated gatekeepers that block bad or improperly formatted data from ever entering our system.
 >
 > **[1:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-ensure-data-integrity-in-ai?u=76281980&t=64)** A third crucial layer is access control and security, which limits who can change the data, protecting it from human error or bad actors.
 >
@@ -827,17 +814,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (4), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (4), [[Data Quality]] (2), [[Data Cleaning]] (1), [[Data Validation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does data quality impact AI outcomes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980)
+#### [How does data quality impact AI outcomes?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=0)** - [Instructor] We've covered the why and how of data quality.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=0)** - [Instructor] We've covered the why and how of [[Data Quality]].
 >
 > **[0:03](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=3)** Now let's connect it to the real world.
 >
@@ -873,11 +859,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=119)** This conversation about fairness and bias is the perfect entry point for our next topic.
 >
-> **[2:05](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=125)** We'll begin exploring the crucial field of responsible AI, starting with the core ethical considerations.
+> **[2:05](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-does-data-quality-impact-ai-outcomes?u=76281980&t=125)** We'll begin exploring the crucial field of [[Responsible AI]], starting with the core ethical considerations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (9), next (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -887,26 +873,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the ethical considerations in AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)
+#### [What are the ethical considerations in AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=0)** - [Instructor] Now that we understand the technical foundations of AI, we need to turn to an equally important topic, the ethics.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=0)** - [Instructor] Now that we understand the technical foundations of AI, we need to turn to an equally important topic, the [[Ethics]].
 >
 > **[0:08](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=8)** In this video, we'll introduce the core ethical considerations that everyone involved in building or using AI must think about.
 >
 > **[0:17](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=17)** When we talk about AI ethics, we're moving beyond the simple question of 'does it work'.
 >
-> **[0:23](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=23)** The central idea of building responsible AI is ensuring that it works for the good of everyone, that its benefits are shared widely, and that its risks are minimized, especially for the most vulnerable among us.
+> **[0:23](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=23)** The central idea of building [[Responsible AI]] is ensuring that it works for the good of everyone, that its benefits are shared widely, and that its risks are minimized, especially for the most vulnerable among us.
 >
 > **[0:38](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=38)** The field of AI ethics is generally supported by a few key pillars.
 >
 > **[0:42](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=42)** First is fairness and bias, which is about actively working to ensure AI systems don't amplify unfair societal biases.
 >
-> **[0:53](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=53)** Second is privacy and data rights, which involves protecting user data and being transparent about how it's used.
+> **[0:53](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=53)** Second is [[Privacy]] and data rights, which involves protecting user data and being transparent about how it's used.
 >
-> **[1:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=60)** And the third pillar is accountability and transparency, which means designing systems where we know who is responsible when things go wrong, and making their decision processes as understandable as possible.
+> **[1:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=60)** And the third pillar is [[Accountability]] and transparency, which means designing systems where we know who is responsible when things go wrong, and making their decision processes as understandable as possible.
 >
 > **[1:15](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980&t=75)** All of these pillars lead us to a single central question that we must constantly ask ourselves as we develop this technology, "Just because we can build something with AI, does that mean we should?"
 >
@@ -920,11 +905,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Ethics]] (4), [[Responsible AI]] (2), data (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (2), [[Privacy]] (1), [[Accountability]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can we practice responsible AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980)
+#### [How can we practice responsible AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,11 +918,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=7)** How do we actually put those principles into practice?
 >
-> **[0:10](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=10)** In this video, we'll explore concrete strategies for practicing responsible AI.
+> **[0:10](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=10)** In this video, we'll explore concrete strategies for practicing [[Responsible AI]].
 >
-> **[0:16](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=16)** The goal of responsible AI is to close the gap between simply talking about ethics and actually building more ethical systems.
+> **[0:16](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=16)** The goal of responsible AI is to close the gap between simply talking about [[Ethics]] and actually building more ethical systems.
 >
-> **[0:25](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=25)** It's about translating those important principles of fairness, accountability, and transparency into concrete actions and everyday engineering practices.
+> **[0:25](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=25)** It's about translating those important principles of fairness, [[Accountability]], and transparency into concrete actions and everyday engineering practices.
 >
 > **[0:35](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/how-can-we-practice-responsible-ai?u=76281980&t=35)** So what do these actions look like?
 >
@@ -964,17 +948,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (3), [[Ethics]] (1), [[Accountability]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Ethics]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the regulations and compliance requirements for AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980)
+#### [What are the regulations and compliance requirements for AI?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=0)** - [Instructor] We've discussed the ethical and practical sides of responsible AI.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=0)** - [Instructor] We've discussed the ethical and practical sides of [[Responsible AI]].
 >
 > **[0:04](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=4)** Now we need to cover the legal side.
 >
@@ -992,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=46)** Most regulations are taking a risk-based approach, meaning the strictest rules are applied to the highest risk AI systems, like those used in healthcare or employment.
 >
-> **[0:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=57)** There are almost always strong rules around data governance and privacy.
+> **[0:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=57)** There are almost always strong rules around [[Data Governance]] and [[Privacy]].
 >
 > **[1:02](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-regulations-and-compliance-requirements-for-ai?u=76281980&t=62)** Many laws include transparency requirements such as mandating that users be informed when they're interacting with an AI.
 >
@@ -1016,17 +999,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Responsible AI]] (1), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Data Governance]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The environmental impact of AI: When shouldn't we use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980)
+#### [The environmental impact of AI: When shouldn't we use it?](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=0)** - [Instructor] We've covered the what, why, and how of AI, as well as the ethics and regulations.
+> **[0:00](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=0)** - [Instructor] We've covered the what, why, and how of AI, as well as the [[Ethics]] and regulations.
 >
 > **[0:06](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=6)** Now, we're going to discuss a final, critical aspect of responsibility, the environmental impact of AI.
 >
@@ -1040,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=44)** When is using AI actually worth it?
 >
-> **[0:47](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=47)** A good use case is tackling a highly complex problem that humans cannot solve alone, like discovering new medicines or modeling climate change.
+> **[0:47](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=47)** A good use case is tackling a highly complex problem that humans cannot solve alone, like discovering new medicines or modeling [[Climate Change]].
 >
 > **[0:57](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=57)** The potential benefit is enormous.
 >
@@ -1050,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=78)** It's about being more mindful and efficient in how we use this technology.
 >
-> **[1:22](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=82)** Key strategies include choosing to use smaller, more efficient models whenever they can do the job, optimizing our use of hardware, and most importantly, being mindful in choosing which problems we apply AI to, ensuring the potential benefits truly outweigh the environmental costs.
+> **[1:22](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=82)** Key strategies include choosing to use smaller, more efficient models whenever they can do the job, optimizing our use of [[Hardware]], and most importantly, being mindful in choosing which problems we apply AI to, ensuring the potential benefits truly outweigh the environmental costs.
 >
 > **[1:43](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/could-we-have-coverage-of-the-environmental-impact-of-ai-when-we-shouldn-t-use-it-to-avoid-overuse-wasting-com?u=76281980&t=103)** And that brings us to our final thought for this course.
 >
@@ -1068,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Ethics]] (1), cloud (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Climate Change]] (1), [[Hardware]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)

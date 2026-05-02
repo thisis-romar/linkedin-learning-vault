@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing your first Truffle project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980)
+#### [Preparing your first Truffle project](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -71,13 +70,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=2)** Now, here's the moment that you've been waiting for.
 >
-> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=4)** We're ready to start building our very first smart contract in Ethereum.
+> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=4)** We're ready to start building our very first smart contract in [[Ethereum]].
 >
-> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=9)** We're going to be using Solidity to do that.
+> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=9)** We're going to be using [[Solidity]] to do that.
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=11)** So, we're going to pull all the pieces.
 >
-> **[0:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=13)** Don't worry, we're going to start slowly and you don't have to have any prior knowledge of programming or Solidity or JavaScript.
+> **[0:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=13)** Don't worry, we're going to start slowly and you don't have to have any prior knowledge of programming or Solidity or [[JavaScript]].
 >
 > **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=21)** We're going to take you through step by step.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=85)** So, let's go do that right now.
 >
-> **[1:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=87)** You'll notice that I use PowerShell a lot.
+> **[1:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=87)** You'll notice that I use [[Powershell]] a lot.
 >
 > **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=90)** So, I went ahead and I pinned the PowerShell icon to my taskbar.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=145)** And that tells Truffle that this project or this directory is now a project and it has some files in it.
 >
-> **[2:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=152)** So if I go look at these files, I see a directory called contracts, that's where my smart contracts are going.
+> **[2:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=152)** So if I go look at these files, I see a directory called contracts, that's where my [[Smart Contracts]] are going.
 >
 > **[2:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=158)** Another directory called migrations and test.
 >
@@ -143,7 +142,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=178)** Hey, why don't we just use Visual Studio Code?
 >
-> **[3:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=182)** So the best way to launch Visual Studio Code from within a project is type the word code dot.
+> **[3:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=182)** So the best way to launch Visual Studio Code from within a project is type the [[Microsoft Word|word]] code dot.
 >
 > **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=189)** Now dot means the current directory and that launches Visual Studio Code for my current directory.
 >
@@ -167,7 +166,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=248)** Well, we're about to write smart contract code, right?
 >
-> **[4:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=251)** And we're going to deploy and test that using our test blockchain.
+> **[4:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=251)** And we're going to deploy and test that using our test [[Blockchain]].
 >
 > **[4:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980&t=256)** Well, didn't we install Ganache for our test blockchain?
 >
@@ -239,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Blockchain]] (4), [[Solidity]] (3), [[JavaScript]] (2), cd (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Blockchain]] (4), [[Solidity]] (3), [[JavaScript]] (2), [[Ethereum]] (1)
 > **Tools:** powershell (4), visual studio (4)
 > **CLI Commands:** make (4), cd (2)
 > **File Paths:** truffle-config.js (5)
@@ -248,18 +247,17 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Cross-References:** go back to (1)
 
-#### Writing a simple smart contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980)
+#### [Writing a simple smart contract](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=1)** - Remember that the first step in the Ethereum Software Development Life Cycle is to design your software.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=1)** - Remember that the first step in the [[Ethereum]] [[Software Development]] Life Cycle is to design your software.
 >
-> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=8)** So, we want to design the smart contracts that are going to provide all the functionality.
+> **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=8)** So, we want to design the [[Smart Contracts]] that are going to provide all the functionality.
 >
 > **[0:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=13)** So, design takes a little bit of time to learn, and you have to write some code to learn how to design well, but we always want to design before we write.
 >
-> **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=22)** Blockchain application design is different from traditional applications, but there's some similarities as well.
+> **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=22)** [[Blockchain]] application design is different from traditional applications, but there's some similarities as well.
 >
 > **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=28)** We want to pay attention to as many differences as possible.
 >
@@ -327,7 +325,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=215)** And we're going to do that now.
 >
-> **[3:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=216)** It doesn't do anything else other than show us the message, but it's a good starting point to show us the absolute basics of solidity.
+> **[3:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=216)** It doesn't do anything else other than show us the message, but it's a good starting point to show us the absolute basics of [[Solidity]].
 >
 > **[3:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=224)** All right, so we're back in Visual Studio Code and we are back where we left it, where we were editing our truffle-config.js.
 >
@@ -397,7 +395,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=398)** Now, how do we know that?
 >
-> **[6:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=399)** Well, remember, one of the things that we did, I'm going to open my PowerShell window back up.
+> **[6:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=399)** Well, remember, one of the things that we did, I'm going to open my [[Powershell]] window back up.
 >
 > **[6:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=405)** Remember, when I typed in truffle version?
 >
@@ -431,7 +429,7 @@ created: 2026-05-02
 >
 > **[8:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=493)** It is a string data type, which means that we're going to put characters in it.
 >
-> **[8:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=498)** And the word after it, private just simply means that helloMessage is only available inside this contract.
+> **[8:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=498)** And the [[Microsoft Word|word]] after it, private just simply means that helloMessage is only available inside this contract.
 >
 > **[8:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=505)** No external functions or external programs can reference the contents of helloMessage.
 >
@@ -443,7 +441,7 @@ created: 2026-05-02
 >
 > **[8:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=528)** And we put that in quotes and that assigns the string value to this variable helloMessage.
 >
-> **[8:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=536)** Solidity very much like JavaScript uses a semi-colon to terminate all of its statements.
+> **[8:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=536)** Solidity very much like [[JavaScript]] uses a semi-colon to terminate all of its statements.
 >
 > **[9:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/writing-a-simple-smart-contract?u=76281980&t=541)** So, we see the pragma has a semi-colon, and the variable definition has a semi-colon.
 >
@@ -489,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Solidity]] (11), [[Blockchain]] (10), next (4), application (3)
+> **Frameworks & Libraries:** [[Solidity]] (11), [[Blockchain]] (10), [[Smart Contracts]] (2), [[Ethereum]] (1), [[Software Development]] (1)
 > **Code Identifiers:** hellomessage (7), gethellomessage (2)
 > **Versions:** 0.5.0 (2), 5.0 (2), 0.5.8 (2), 5.1 (1), 5.3 (1)
 > **Definitions:** is a  (5), means that (3), basically means (1)
@@ -498,8 +496,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **File Paths:** truffle-config.js (1)
 
-#### Compiling your simple smart contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980)
+#### [Compiling your simple smart contract](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=22)** Then once we compile it and we have bytecode, then we deploy it.
 >
-> **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=26)** That means actually write it to the blockchain.
+> **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=26)** That means actually write it to the [[Blockchain]].
 >
 > **[0:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=29)** And yeah, we have to pay a little bit of gas to do that.
 >
@@ -571,7 +568,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=126)** So I'm going to press Control S to save it again, and now I'm going to press F5 to compile it, and notice this time, there's no problems.
 >
-> **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=136)** And in the output window, I see compiling using the default compilers Solidity version 0.5.11.
+> **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=136)** And in the output window, I see compiling using the default compilers [[Solidity]] version 0.5.11.
 >
 > **[2:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=143)** 0.5.11, that's interesting.
 >
@@ -595,7 +592,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=220)** All right, just to kind of recap.
 >
-> **[3:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=222)** Remember I typed in Truffle version in the PowerShell, and I kept bouncing back and forth.
+> **[3:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=222)** Remember I typed in Truffle version in the [[Powershell]], and I kept bouncing back and forth.
 >
 > **[3:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=229)** But if I just click on this little terminal tab right here, it actually gives me a PowerShell right there, so I don't have to come out of my IDE.
 >
@@ -615,7 +612,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=262)** All right, so how do we fix this?
 >
-> **[4:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=264)** Let's go to our web browser and navigate to [https://github.com/ethereum/solc-bin/tree/gh-pages/bin](https://github.com/ethereum/solc-bin/tree/gh-pages/bin).
+> **[4:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=264)** Let's go to our web browser and navigate to [https://[[GitHub]].com/[[Ethereum]]/solc-bin/tree/gh-pages/bin](https://github.com/ethereum/solc-bin/tree/gh-pages/bin).
 >
 > **[4:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=283)** Wow.
 >
@@ -671,7 +668,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=404)** And I want to come down to the very bottom and choose configure extension settings.
 >
-> **[6:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=410)** Believe it or not, this is the quickest way to get to the JSON file in which we can set settings for this extension.
+> **[6:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=410)** Believe it or not, this is the quickest way to get to the [[JSON]] file in which we can set settings for this extension.
 >
 > **[6:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=417)** So click on edit in settings.json.
 >
@@ -737,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (8), [[Blockchain]] (4), [[JSON]] (4), next (3), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[Solidity]] (8), [[Blockchain]] (4), [[JSON]] (4), [[GitHub]] (3), [[Powershell]] (2)
 > **Versions:** 0.5.8 (6), 0.5.11 (4), v0.5.8 (2), version 0 (1), 5.11 (1)
 > **Tools:** visual studio (8), github (3), powershell (2), terminal (1)
 > **UI Navigation:** click on (9), go to (1), navigate to (1), scroll down (1)
@@ -746,12 +743,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (3)
 > **Definitions:** basically means (1), is a  (1), means that (1)
 
-#### Deploying code and invoking functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980)
+#### [Deploying code and invoking functions](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=1)** - All right, so now we're ready to reach out and touch the blockchain for the very first time.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=1)** - All right, so now we're ready to reach out and touch the [[Blockchain]] for the very first time.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=6)** Now of course, we're only going to be reaching out and touching our local Ganache test blockchain, but still, this is the first time we've actually kind of gone through the whole process.
 >
@@ -847,7 +843,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=280)** All right, so we get a lot of things back.
 >
-> **[4:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=282)** And basically you can get an error message or you get a bunch of JSON back, so I'm going to scroll up a little bit and we can see that we have some metadata.
+> **[4:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=282)** And basically you can get an error message or you get a bunch of [[JSON]] back, so I'm going to scroll up a little bit and we can see that we have some [[Metadata]].
 >
 > **[4:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=294)** We have, there's our metadata, here's our bytecode.
 >
@@ -923,7 +919,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=480)** So just displaying the "Hello world," didn't touch the blockchain.
 >
-> **[8:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=484)** In fact, the only time we went to the blockchain was to fetch the code to run, and that's free.
+> **[8:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=484)** In fact, the only time we went to the blockchain was to [[Fetch]] the code to run, and that's free.
 >
 > **[8:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/deploying-code-and-invoking-functions?u=76281980&t=489)** Running the code is free as long as you don't touch the blockchain for data.
 >
@@ -939,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (13), next (2), [[Metadata]] (2), data (2), prompt (1)
+> **Frameworks & Libraries:** [[Blockchain]] (13), [[Metadata]] (2), [[JSON]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (2), is called (2), basically means (1), in other words (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** hellomessage (2)

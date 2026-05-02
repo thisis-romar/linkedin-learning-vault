@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building an accessibility program
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
+#### [Building an accessibility program](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=4)** I'm here to share how to integrate accessibility into the fabric of your company.
 >
-> **[0:08](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=8)** My name is Christina Mallon, and I'm the head of Inclusive Design at Microsoft.
+> **[0:08](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=8)** My name is Christina Mallon, and I'm the head of Inclusive Design at [[Microsoft]].
 >
 > **[0:13](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=13)** I was inspired to become an inclusive designer 12 years ago when I lost the use of my arms.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=30)** Because of accessibility design tools, I'm able to use everything with my feet or my voice and still feel included in the work culture.
 >
-> **[0:38](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=38)** In this course, you will learn how to incorporate accessibility into your business strategies, create strong habits for building accessible products and experiences, and bring an accessibility mindset into everything that you do.
+> **[0:38](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=38)** In this course, you will learn how to incorporate accessibility into your business strategies, create strong habits for building accessible [[Microsoft Products|products]] and experiences, and bring an accessibility mindset into everything that you do.
 >
 > **[0:49](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980&t=49)** I'm excited to share this important information with you.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - are (1)
 
 
@@ -106,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus on culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
+#### [Focus on culture](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980&t=36)** Pause the video now and write down your answers.
 >
-> **[0:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980&t=40)** They'll provide valuable context for the rest of this course.
+> **[0:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980&t=40)** They'll provide valuable context for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:42](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980&t=42)** (dramatic music) Exploring these questions may be uncomfortable at times, but they are important questions to ask.
 >
@@ -181,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), feature (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - congratulations (1)
 > **Non-Speech:** (dramatic music) (1)
 
-#### Develop your strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980)
+#### [Develop your strategy](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,11 +203,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=32)** Encourage folks to check out online learning materials like accessibility fundamentals on MS Learn, which includes content to help people learn more about accessibility.
 >
-> **[0:41](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=41)** Learn about and practice using built-in screen readers on your device's operating systems such as Narrator on Windows, VoiceOver on iPhone, or Voice Access on Android.
+> **[0:41](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=41)** Learn about and practice using built-in screen readers on your device's operating systems such as Narrator on [[Windows]], VoiceOver on iPhone, or Voice Access on [[Android]].
 >
 > **[0:50](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=50)** Once your team begins having tangible hands-on experiences with accessibility tools, it's likely to impact how they integrate their skills into creating an inclusive workplace.
 >
-> **[1:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=60)** Second, conduct an accessibility audit on your current products and services for both internal and external audiences.
+> **[1:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=60)** Second, conduct an accessibility audit on your current [[Microsoft Products|products]] and services for both internal and external audiences.
 >
 > **[1:07](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=67)** This will give you an idea of what you might already be doing well and where you might need to improve.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=107)** These checklists can grow more complex and detailed as your workforce becomes more skilled in accessibility.
 >
-> **[1:54](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=114)** They can also be supplemented with automated tools, such as Accessibility Insights and Accessibility Checker, in addition to manual testing with screen readers and other types of assistive technologies.
+> **[1:54](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=114)** They can also be supplemented with automated tools, such as Accessibility Insights and Accessibility Checker, in addition to [[Manual Testing]] with screen readers and other types of assistive technologies.
 >
 > **[2:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-strategy?u=76281980&t=124)** Remember, your company has a lot to offer employees and customers, not just technologically, but in how firmly you stand behind your values.
 >
@@ -234,13 +231,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Windows]] (1), [[Android]] (1), [[Microsoft Products|Products]] (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Android]] (1), [[Microsoft Products|Products]] (1), [[Manual Testing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - you (1)
 
-#### Develop your accessibility maturity model
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980)
+#### [Develop your accessibility maturity model](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=21)** To give you a better sense of how accessibility models work, let's look at how you can manage accessibility like a business.
 >
-> **[0:27](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=27)** Microsoft has developed the Accessibility Evolution Model.
+> **[0:27](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=27)** [[Microsoft]] has developed the Accessibility Evolution Model.
 >
 > **[0:30](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=30)** In this model, there are seven dimensions used to assess an accessibility journey.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=77)** At level 1, there are early efforts to build in accessibility.
 >
-> **[1:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=81)** In this stage, you and your team will provide accommodations for people with disabilities, such as real-time captions and large-print documents.
+> **[1:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=81)** In this stage, you and your team will provide accommodations for people with disabilities, such as [[Real-Time]] captions and large-print documents.
 >
 > **[1:29](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/develop-your-accessibility-maturity-model?u=76281980&t=89)** You have started planning for a fully accessible event.
 >
@@ -306,19 +302,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft]] (1), game (1), [[Real-Time]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Real-Time]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - business (1)
 
-#### Invest in tools and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980)
+#### [Invest in tools and processes](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980&t=0)** - As you are building out your program, achieving and maintaining accessible tools is a critical step to your journey.
 >
-> **[0:06](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980&t=6)** This includes HR systems, products, business management tools, and more.
+> **[0:06](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980&t=6)** This includes HR systems, [[Microsoft Products|products]], business management tools, and more.
 >
 > **[0:11](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/invest-in-tools-and-processes?u=76281980&t=11)** Before launching into this step, get grounded in your company's accessibility standards and the processes for testing and validating accessibility.
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), management (2), hr (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -386,8 +381,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create good habits and model behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
+#### [Create good habits and model behavior](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,19 +395,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=24)** This will remind you to continue checking your documents for accessibility, in addition to prompting others to check their documents as well.
 >
-> **[0:30](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=30)** Second on your company's social media accounts, use alternative texts on all images and check for sufficient contrast using tools like Microsoft's Accessibility Insights.
+> **[0:30](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=30)** Second on your company's social media accounts, use alternative texts on all images and check for sufficient contrast using tools like [[Microsoft]]'s Accessibility Insights.
 >
 > **[0:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=40)** Alternative text will provide context of the image to people who use screen readers.
 >
 > **[0:44](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=44)** Be sure to explain the purpose of the meaning of the image.
 >
-> **[0:48](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=48)** Third, use an accessible digital meeting tool with built-in accessibility features such as Microsoft Teams.
+> **[0:48](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=48)** Third, use an accessible digital meeting tool with built-in accessibility features such as [[Microsoft Teams]].
 >
 > **[0:54](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=54)** Tools, such as live captions, transcription, background noise suppression, and reactions, provide ways for people with disabilities to interact and communicate virtually.
 >
 > **[1:03](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=63)** Finally, try to stay current with the latest trends and accessibility features available in major operating systems.
 >
-> **[1:10](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=70)** In Windows, for example, you can view accessibility settings which include things like color filters and contrast themes, mouse settings, audio settings, and many more.
+> **[1:10](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=70)** In [[Windows]], for example, you can view accessibility settings which include things like color filters and contrast themes, mouse settings, audio settings, and many more.
 >
 > **[1:20](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980&t=80)** The more familiar you are with these features and how to use them, the better you can cultivate helpful, inclusive routines at your company moving forward.
 >
@@ -425,18 +419,17 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - once (1)
 
-#### Test and validate toward accessibility standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980)
+#### [Test and validate toward accessibility standards](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=0)** - In any product development process, it's critical to test and validate the product with your customers.
+> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=0)** - In any [[Product Development]] process, it's critical to test and validate the product with your customers.
 >
 > **[0:06](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=6)** The same goes with accessibility.
 >
-> **[0:09](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=9)** To verify that your products or services are accessible, you'll need to identify the most common use cases and assess them carefully.
+> **[0:09](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=9)** To verify that your [[Microsoft Products|products]] or services are accessible, you'll need to identify the most common use cases and assess them carefully.
 >
-> **[0:16](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=16)** To do this, let's look at a scenario on how to use accessibility tools and manual testing to verify the accessibility of your product.
+> **[0:16](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=16)** To do this, let's look at a scenario on how to use accessibility tools and [[Manual Testing]] to verify the accessibility of your product.
 >
 > **[0:24](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=24)** Imagine you just joined a new team and you're eager to make a meaningful contribution.
 >
@@ -470,21 +463,20 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=118)** While these examples don't encompass all of the steps to test for accessibility, it's a good place to start.
 >
-> **[2:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=124)** For more information on building accessible products, check out the [[Digital Accessibility for the Modern Workplace]] course here on LinkedIn Learning.
+> **[2:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=124)** For more information on building accessible products, check out the [[[[Digital Accessibility]] for the Modern Workplace]] course here on [[LinkedIn]] Learning.
 >
 > **[2:13](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=133)** I encourage you to continue learning, testing, and validating for accessibility to provide accessible and inclusive experiences for all.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Manual Testing]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Manual Testing]] (1), [[Digital Accessibility]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Scale accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980)
+#### [Scale accessibility](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,7 +500,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=51)** Having a clear and tangible mission in place will make it much easier to reach your accessibility goals.
 >
-> **[0:57](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=57)** For example, you can partner with third party suppliers to only purchase products that have been tested for accessibility.
+> **[0:57](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=57)** For example, you can partner with third party suppliers to only purchase [[Microsoft Products|products]] that have been tested for accessibility.
 >
 > **[1:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=64)** Once your company is in the habit of building towards and testing against accessibility standards for the products and services you provide, you can set reasonable expectations with your employees and give them the responsibility of testing their own work against the same standards.
 >
@@ -520,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=97)** Finally, tell the story of your company's accessibility journey.
 >
-> **[1:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=100)** Be sure to tell people about your new inclusive employee and customer experiences and combine this with storytelling with your company's brand messaging.
+> **[1:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=100)** Be sure to tell people about your new inclusive employee and customer experiences and combine this with [[Storytelling]] with your company's brand messaging.
 >
 > **[1:49](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/scale-accessibility?u=76281980&t=109)** Here are some tips on effectively telling your accessibility story.
 >
@@ -540,17 +532,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), next (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - if (1)
 
-#### Improve the ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/improve-the-ecosystem?u=76281980)
+#### [Improve the ecosystem](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/improve-the-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/improve-the-ecosystem?u=76281980&t=0)** - You may be taking this course because you and your company's goal is to make accessible products and services for people with disabilities.
+> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/improve-the-ecosystem?u=76281980&t=0)** - You may be taking this course because you and your company's goal is to make accessible [[Microsoft Products|products]] and services for people with disabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/improve-the-ecosystem?u=76281980&t=8)** One way to improve accessibility is to work with third-party suppliers to provide accessible deliverables.
 >
@@ -588,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), cloud (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Env Vars:** ict (1)
@@ -601,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build inclusive experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
+#### [Build inclusive experiences](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=15)** First, send out materials before the meeting so that people will have some extra time to review.
 >
-> **[0:20](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=20)** For example, if you're planning to give a PowerPoint presentation, send the deck to all meeting participants beforehand.
+> **[0:20](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=20)** For example, if you're planning to give a [[Microsoft PowerPoint|PowerPoint]] presentation, send the deck to all meeting participants beforehand.
 >
 > **[0:26](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=26)** Don't forget to check for accessibility.
 >
@@ -636,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=90)** For digital experiences, choose an accessible virtual venue with built-in tools to allow people with disabilities to communicate and participate in an effective way.
 >
-> **[1:39](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=99)** For example, tools like Microsoft Teams provide accessibility features and allow for audience participation in many forms, Q & A, chat, reactions and many more.
+> **[1:39](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=99)** For example, tools like [[Microsoft Teams]] provide accessibility features and allow for audience participation in many [[Forms]], Q & A, chat, reactions and many more.
 >
 > **[1:50](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980&t=110)** Lastly, consider how stations are arranged and set up.
 >
@@ -652,20 +642,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1), [[Microsoft Teams]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Teams]] (1), [[Forms]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Product development lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980)
+#### [Product development lifecycle](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=0)** - Accessible products create more inclusive experiences for everyone.
+> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=0)** - Accessible [[Microsoft Products|products]] create more inclusive experiences for everyone.
 >
-> **[0:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=4)** Here are some consideration to integrate digital accessibility throughout the product development lifecycle.
+> **[0:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=4)** Here are some consideration to integrate [[Digital Accessibility]] throughout the [[Product Development]] lifecycle.
 >
 > **[0:09](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=9)** First, address accessibility throughout the product development process from kickoff to implementation and beyond.
 >
@@ -677,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=31)** Second, provide teams with accessibility training.
 >
-> **[0:34](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=34)** Managers, engineers, designers and developers should be familiar with accessible product design.
+> **[0:34](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=34)** Managers, engineers, designers and developers should be familiar with accessible [[Product Design]].
 >
 > **[0:40](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=40)** If the team lacks accessibility knowledge or experiences, consider implementing required training.
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=81)** Fourth, continue to monitor accessibility after a product is released.
 >
-> **[1:26](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=86)** With digital technology, any product updates can render them suddenly unusable for people with disabilities so prepare your customer service teams to receive feedback on accessibility issues or consider a support team specifically for people with disabilities such as Microsoft's Disability Answer Desk to help track, respond to or resolve requests regarding product accessibility.
+> **[1:26](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=86)** With digital technology, any product updates can render them suddenly unusable for people with disabilities so prepare your customer service teams to receive feedback on accessibility issues or consider a support team specifically for people with disabilities such as [[Microsoft]]'s Disability Answer Desk to help track, respond to or resolve requests regarding product accessibility.
 >
 > **[1:47](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/product-development-lifecycle?u=76281980&t=107)** I know this might sound like a lot but these are just a few of the ways you and your team can incorporate accessibility into the product development lifecycle.
 >
@@ -701,22 +690,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), [[Product Development]] (3), teams (2), [[Digital Accessibility]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Product Development]] (3), [[Digital Accessibility]] (1), [[Product Design]] (1), [[Microsoft]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - accessible (1)
 
-#### Focus on usability
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980)
+#### [Focus on usability](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=0)** - Assessing products and services using accessibility standards is a great start to meeting the needs of people with disabilities.
+> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=0)** - Assessing [[Microsoft Products|products]] and services using accessibility standards is a great start to meeting the needs of people with disabilities.
 >
 > **[0:07](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=7)** But accessibility standards typically focus on the technical structures of websites, applications, and software.
 >
-> **[0:13](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=13)** While this is important, standards often don't capture the user experience.
+> **[0:13](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=13)** While this is important, standards often don't capture the [[User Experience (UX)|user experience]].
 >
 > **[0:18](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=18)** Usability, on the other hand, establishes standards that relate to the lived experience of the person using a product or service.
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=29)** For example, how efficiently can a person accomplish a task such as buying groceries on a website or app, or how satisfied is the person after completing the task, such as completing an online bank transfer?
 >
-> **[0:41](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=41)** Designers who consider both accessibility and usability as a part of their product design process will consider a much wider range of use cases, and ultimately create a much more inclusive experience for all users.
+> **[0:41](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=41)** Designers who consider both accessibility and usability as a part of their [[Product Design]] process will consider a much wider range of use cases, and ultimately create a much more inclusive experience for all users.
 >
 > **[0:53](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-usability?u=76281980&t=53)** For example, providing good color contrast is useful for people who have color-deficiency disabilities, as well as people who might be using a mobile device in the bright sunlight.
 >
@@ -754,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[User Experience (UX)|User experience]] (1), [[Product Design]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - assessing (1)
@@ -764,12 +752,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storytelling for your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
+#### [Storytelling for your audience](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=0)** - Storytelling is a practice that is as old as time.
+> **[0:00](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=0)** - [[Storytelling]] is a practice that is as old as time.
 >
 > **[0:03](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=3)** We use stories to build community with each other, to better understand one another, and to help us understand the world around us.
 >
@@ -781,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=26)** So how can you tell a good story that will build support for your accessibility program?
 >
-> **[0:31](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=31)** Microsoft has adopted The Five P's of Storytelling to help bring these stories to life.
+> **[0:31](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=31)** [[Microsoft]] has adopted The Five P's of Storytelling to help bring these stories to life.
 >
 > **[0:36](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980&t=36)** Let's look at how we can use The Five P's to tell great accessibility stories.
 >
@@ -849,8 +836,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Action plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)
+#### [Action plan](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,13 +844,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=3)** I hope will be a useful guide in your accessibility journey.
 >
-> **[0:06](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=6)** If you'd like to continue learning about this important work, I recommend you check out Microsoft's Inclusive Design Toolkit.
+> **[0:06](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=6)** If you'd like to continue learning about this important work, I recommend you check out [[Microsoft]]'s Inclusive Design Toolkit.
 >
 > **[0:12](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=12)** There you will find more information on how to leverage inclusive design methodology to help you reach your accessibility goals.
 >
 > **[0:18](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=18)** Remember, nothing about us without us.
 >
-> **[0:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=21)** If you'd like to keep in touch with me, you can follow me here on LinkedIn or Twitter where I post regularly on inclusive design and accessibility.
+> **[0:21](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=21)** If you'd like to keep in touch with me, you can follow me here on [[LinkedIn]] or Twitter where I post regularly on inclusive design and accessibility.
 >
 > **[0:29](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980&t=29)** I hope to see you again soon.
 

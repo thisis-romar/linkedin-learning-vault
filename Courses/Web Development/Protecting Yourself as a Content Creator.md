@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting your intellectual property as a creator
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-intellectual-property-as-a-creator-20448617?u=76281980)
+#### [Protecting your intellectual property as a creator](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-intellectual-property-as-a-creator-20448617?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,8 +89,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### Legal disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980)
+#### [Legal disclaimer](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980&t=6)** This course is taught by me, an attorney, and addresses American law concepts that may not apply in all countries or in your state.
 >
-> **[0:14](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980&t=14)** Neither LinkedIn nor I represent you and we are not providing legal advice.
+> **[0:14](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980&t=14)** Neither [[LinkedIn]] nor I represent you and we are not providing legal advice.
 >
 > **[0:19](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/legal-disclaimer?u=76281980&t=19)** The information conveyed through this course is akin to a college or law school course.
 >
@@ -121,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How trademark law applies to your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980)
+#### [How trademark law applies to your content](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980&t=37)** These things connect the dots between your audience and you, and trademarks help you protect this relationship.
 >
-> **[0:46](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980&t=46)** Trademark law protects any word, symbol, slogan or other designation, basically anything that identifies your brand and distinguishes it in the marketplace.
+> **[0:46](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980&t=46)** Trademark law protects any [[Microsoft Word|word]], symbol, slogan or other designation, basically anything that identifies your brand and distinguishes it in the marketplace.
 >
 > **[0:57](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980&t=57)** Trademark law is super broad.
 >
@@ -190,14 +187,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), business (1), next (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** safari (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### Choose a brand name that won't get you sued
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980)
+#### [Choose a brand name that won't get you sued](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=17)** The struggle is real you all, and some of the best brands have had to rebrand.
 >
-> **[0:21](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=21)** For example, Google's name used to be BackRub.
+> **[0:21](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=21)** For example, [[Google]]'s name used to be BackRub.
 >
 > **[0:25](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=25)** Amazon was Cadabra, and Tinder started out as [Matchbox.com](https://Matchbox.com).
 >
@@ -247,13 +243,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=100)** Now, let's move on to the National Trademark Database.
 >
-> **[1:42](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=102)** After you Google, you can search the United States Patent and Trademark Office website for trademarks that use your potential name.
+> **[1:42](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=102)** After you Google, you can search the United States Patent and Trademark [[Microsoft Office|Office]] website for trademarks that use your potential name.
 >
 > **[1:51](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=111)** Visit [uspto.gov](https://uspto.gov), and at the top of that website, click Trademarks.
 >
 > **[1:56](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=116)** Then click Search In Trademarks, and search our trademark database.
 >
-> **[2:01](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=121)** Stick with the basic word search though, because it can get really complicated.
+> **[2:01](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=121)** Stick with the basic [[Microsoft Word|word]] search though, because it can get really complicated.
 >
 > **[2:05](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-won-t-get-you-sued?u=76281980&t=125)** Your goal is to get a general view of what's registered, before you reach out to a lawyer, or take some other steps.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (5), database (3), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **URLs:** [matchbox.com](https://matchbox.com) (1), [uspto.gov](https://uspto.gov) (1), [domain.com](https://domain.com) (1), [namechk.com](https://namechk.com) (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wwf (1), fyi (1)
@@ -289,8 +285,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### Choose a brand name that you can own via trademark protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980)
+#### [Choose a brand name that you can own via trademark protection](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=12)** Trademark law transforms your chosen words and symbols into assets that create financial value for your brand and I mean lots of financial value.
 >
-> **[0:22](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=22)** Google has the world's biggest trademark portfolio valued at more than $44 billion, yes, billion with a B, but even unknown trademarks that never become profitable have an average worth of five to $10,000.
+> **[0:22](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=22)** [[Google]] has the world's biggest trademark portfolio valued at more than $44 billion, yes, billion with a B, but even unknown trademarks that never become profitable have an average worth of five to $10,000.
 >
 > **[0:36](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=36)** So in this case, size doesn't matter.
 >
@@ -308,11 +303,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=51)** Through three things, use, non-functionality and distinctiveness.
 >
-> **[0:59](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=59)** So first, you must use the word, or symbol in a legally specific way.
+> **[0:59](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=59)** So first, you must use the [[Microsoft Word|word]], or symbol in a legally specific way.
 >
 > **[1:04](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=64)** Here, remember the two P's, placement and purchasing.
 >
-> **[1:08](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=68)** Trademarks have to be placed on products, content, or websites in an acceptable way, including on price tags, near website shopping info, or on clothing labels and trademarks must be connected to purchases or sales offers.
+> **[1:08](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=68)** Trademarks have to be placed on [[Microsoft Products|products]], content, or websites in an acceptable way, including on price tags, near website shopping info, or on clothing labels and trademarks must be connected to purchases or sales offers.
 >
 > **[1:22](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/choose-a-brand-name-that-you-can-own-via-trademark-protection?u=76281980&t=82)** Incorrect placement, and no purchasing options can derail your quest for trademark ownership.
 >
@@ -346,14 +341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), next (1), [[Google]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - once (1)
 
-#### Take steps to protect your trademark rights online
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980)
+#### [Take steps to protect your trademark rights online](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,7 +369,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=32)** There's protection across a spectrum.
 >
-> **[0:35](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=35)** You can start just by selling your products, using your new brand name.
+> **[0:35](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=35)** You can start just by selling your [[Microsoft Products|products]], using your new brand name.
 >
 > **[0:39](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=39)** This is enough to get something called Common Law Trademark Protection, and it's free.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=154)** This usually costs about a few hundred dollars if you're using a lawyer.
 >
-> **[2:38](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=158)** You can also file a federal trademark application with the United States Patent and Trademark Office.
+> **[2:38](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=158)** You can also file a federal trademark application with the United States Patent and Trademark [[Microsoft Office|Office]].
 >
 > **[2:44](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/take-steps-to-protect-your-trademark-rights-online?u=76281980&t=164)** if your federal application is successful, stronger Laws and nationwide rights apply.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (3), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
@@ -440,12 +434,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How copyright law applies to your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980)
+#### [How copyright law applies to your content](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=1)** - If you've ever posted anything online, you've been impacted by copyright law.
+> **[0:01](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=1)** - If you've ever posted anything online, you've been impacted by [[Copyright Law]].
 >
 > **[0:06](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=6)** In fact, I'll even go as far to say if you've ever created anything, you may be a copyright owner and not even know it.
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=139)** Check out this one, which is one of my favorites.
 >
-> **[2:22](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=142)** In 2017 MinaLioness tweeted, "I did a DNA test and found out I'm 100% that-" I'm not going to say the word 'cause my mother might be watching, but you all know the word.
+> **[2:22](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=142)** In 2017 MinaLioness tweeted, "I did a DNA test and found out I'm 100% that-" I'm not going to say the [[Microsoft Word|word]] 'cause my mother might be watching, but you all know the word.
 >
 > **[2:33](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980&t=153)** Does this sound familiar to you at all?
 >
@@ -506,8 +499,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Create online content that you can copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980)
+#### [Create online content that you can copyright](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=71)** To get the most out of your content, you've got to consider your approach to copyrights.
 >
-> **[1:16](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=76)** In the United States, copyright law's default is to protect your work when you create an original work of authorship that is also fixed.
+> **[1:16](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=76)** In the United States, [[Copyright Law]]'s default is to protect your work when you create an original work of authorship that is also fixed.
 >
 > **[1:26](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=86)** First, you have to have originality, and what that really means is you have to have independent creation and a minimal degree of creativity.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=130)** Because of its age, the law really hasn't kept up with technology and the internet.
 >
-> **[2:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=135)** Thankfully, though, courts and the United States Copyright Office have interpreted this law to include the following things that are probably relevant to you.
+> **[2:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=135)** Thankfully, though, courts and the United States Copyright [[Microsoft Office|Office]] have interpreted this law to include the following things that are probably relevant to you.
 >
 > **[2:25](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=145)** Blog posts, social media posts, captions, podcast episodes, dance moves if they're long enough, websites, software, pictures, and videos.
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=163)** This means we can perceive it in some way, see it, hear it, watch it for more than a momentary period.
 >
-> **[2:49](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=169)** This includes things like good LinkedIn posts, a video or a song recording.
+> **[2:49](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=169)** This includes things like good [[LinkedIn]] posts, a video or a song recording.
 >
 > **[2:55](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/create-online-content-that-you-can-copyright?u=76281980&t=175)** Things that aren't fixed include things like freestyles and live streams that aren't recorded, or extemporaneous speeches.
 >
@@ -565,14 +557,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Copyright Law]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Copyright Law]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nfl (1), snl (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Understand when you do, and don’t, own copyrights in your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980)
+#### [Understand when you do, and don’t, own copyrights in your content](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980&t=135)** You've got to have a written document signed by that original copyright owner.
 >
-> **[2:21](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980&t=141)** In addition, when co-creating content, copyright law gives each party equal copyright ownership in the resulting work if two things happen.
+> **[2:21](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980&t=141)** In addition, when co-creating content, [[Copyright Law]] gives each party equal copyright ownership in the resulting work if two things happen.
 >
 > **[2:31](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/understand-when-you-do-and-don-t-own-copyrights-in-your-content?u=76281980&t=151)** Number one, both parties intend for their contributions to be merged into the final product.
 >
@@ -640,13 +631,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), web (2), [[Copyright Law]] (1)
+> **Frameworks & Libraries:** [[Copyright Law]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
 
-#### Taking steps to protect your copyright rights online
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980)
+#### [Taking steps to protect your copyright rights online](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980&t=63)** You can use that copyright notice, that little C with the circle around it, on your work as soon as it's created, there are no applications required or no other documentation that need to take place for you to be able to do this.
 >
-> **[1:17](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980&t=77)** You can just start, even if you never file a copyright application with the copyright office.
+> **[1:17](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980&t=77)** You can just start, even if you never file a copyright application with the copyright [[Microsoft Office|office]].
 >
 > **[1:23](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/taking-steps-to-protect-your-copyright-rights-online?u=76281980&t=83)** This isn't required or necessary, but that C with the circle around it lets everybody who sees it know that you're claiming ownership in network.
 >
@@ -702,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Microsoft Office|Office]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** grtx (1)
 > **Definitions:** is called (1)
@@ -715,8 +705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How trade secret law applies to your business strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980)
+#### [How trade secret law applies to your business strategies](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=10)** This has become a full fledged career path with tons of opportunities to make money.
 >
-> **[0:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=15)** As a content creator, your bread and butter revolves around building relationships with your audience, through your email list, your text list, your social media following, and then selling products and services to those groups of people.
+> **[0:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=15)** As a content creator, your bread and butter revolves around building relationships with your audience, through your email list, your text list, your social media following, and then selling [[Microsoft Products|products]] and services to those groups of people.
 >
 > **[0:29](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=29)** These marketing strategies that you're using could fall within a type of IP called Trade Secrets, if you take a few simple steps.
 >
@@ -740,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=58)** Things like marketing plans and strategies, customer lists, and client lists, survey methods, recipes, even drawings of computer programs.
 >
-> **[1:08](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=68)** The most famous trade secrets that you may have heard of include the secret recipe for Coca-Cola, KFC's Fried chicken seasoning and the method for making it, Google search algorithms, WD 40 Formula, and my personal favorite, the nooks and crannies of Thomas's English Muffins.
+> **[1:08](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=68)** The most famous trade secrets that you may have heard of include the secret recipe for Coca-Cola, KFC's Fried chicken seasoning and the method for making it, [[Google]] search [[Algorithms]], WD 40 Formula, and my personal favorite, the nooks and crannies of Thomas's English Muffins.
 >
 > **[1:27](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980&t=87)** These examples alone are literally worth billions of dollars because they give companies a competitive advantage.
 >
@@ -770,13 +759,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (2), career (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** kfc (1)
 > **Speakers:** - there (1)
 
-#### Identifying your trade secrets
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980)
+#### [Identifying your trade secrets](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980&t=20)** The content you're creating is often widely available to the public on your social media platforms and on your website, but the behind-the-scenes stuff of what you do might really be your secret sauce.
 >
-> **[0:32](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980&t=32)** That could be your content creation process, the data you collect about your followers and supporters, your marketing and advertising strategies, who you're selling to, and specific information about them and their buying patterns.
+> **[0:32](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980&t=32)** That could be your [[Content Creation]] process, the data you collect about your followers and supporters, your marketing and advertising strategies, who you're selling to, and specific information about them and their buying patterns.
 >
 > **[0:45](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/identifying-your-trade-secrets?u=76281980&t=45)** Anything of competitive value to a company can be a trade secret, so long as you maintain secrecy, that secret has economic value because it's not widely known, and you've taken reasonable efforts to maintain that secrecy.
 >
@@ -832,19 +820,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Content Creation]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Protecting your email lists and text lists with trade secret
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980)
+#### [Protecting your email lists and text lists with trade secret](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=1)** - While social media may be the main way you share content, many creators like you are becoming more and more interested in connecting with followers away from social media, through things like email lists and text lists.
 >
-> **[0:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=15)** This makes a lot of sense, because an email generates about $38 for every dollar spent, that's about a 3800% return on investment, while social media marketing has an estimated return on investment of only 28%.
+> **[0:15](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=15)** This makes a lot of sense, because an email generates about $38 for every dollar spent, that's about a 3800% return on investment, while [[Social Media Marketing]] has an estimated return on investment of only 28%.
 >
 > **[0:30](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=30)** There are, of course, benefits to both.
 >
@@ -878,7 +865,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=158)** Number five, include more than just names.
 >
-> **[2:41](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=161)** Consider adding historical purchasing data, addresses, preferences and needs, demographic data, and other communication forms.
+> **[2:41](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=161)** Consider adding historical purchasing data, addresses, preferences and needs, demographic data, and other communication [[Forms]].
 >
 > **[2:50](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=170)** And then number six, keep track of the time and effort it takes for you to maintain and build this list.
 >
@@ -886,11 +873,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=191)** Use this knowledge to put some boundaries around your email list and your text list.
 >
-> **[3:16](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=196)** You have worked incredibly hard to build this information, and you should have the right to protect these lists that help you deliver your products, services, and content to your audience.
+> **[3:16](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-email-lists-and-text-lists-with-trade-secret?u=76281980&t=196)** You have worked incredibly hard to build this information, and you should have the right to protect these lists that help you deliver your [[Microsoft Products|products]], services, and content to your audience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Social Media Marketing]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dtsa (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -901,14 +888,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know when and how to hire a lawyer
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980)
+#### [Know when and how to hire a lawyer](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980&t=0)** - As you grow, you'll definitely need legal help protecting your intellectual property.
 >
-> **[0:05](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980&t=5)** Filing trademark and copyright applications is deceivingly complicated, and finding copy and paste contracts on Google isn't a great strategy, because your contract should be tailored to your situation, not someone else's.
+> **[0:05](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980&t=5)** Filing trademark and copyright applications is deceivingly complicated, and finding copy and paste contracts on [[Google]] isn't a great strategy, because your contract should be tailored to your situation, not someone else's.
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980&t=20)** Now, if this is sounding like you and making you a little bit nervous, I'm here to help, and the right IP lawyer will be there to help you.
 >
@@ -976,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** lgbtqia (1)
@@ -989,8 +975,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect yourself as a content creator
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980)
+#### [Protect yourself as a content creator](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980&t=20)** You're also ready to go out and find the right lawyer to help you grow your empire.
 >
-> **[0:25](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980&t=25)** I'd love to connect with you here on LinkedIn.
+> **[0:25](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980&t=25)** I'd love to connect with you here on [[LinkedIn]].
 >
 > **[0:29](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980&t=29)** Feel free to follow me here.
 >
@@ -1016,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

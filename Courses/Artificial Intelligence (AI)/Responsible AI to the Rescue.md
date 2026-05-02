@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)
+#### [Introduction to AI](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,9 +74,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=9)** - [Georgie] To err is human, so why not use AI?
 >
-> **[0:12](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=12)** Seen as the answer to many of the world's problems, but artificial intelligence is also creating many more.
+> **[0:12](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=12)** Seen as the answer to many of the world's problems, but [[Artificial Intelligence (AI)|artificial intelligence]] is also creating many more.
 >
-> **[0:18](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=18)** We've seen algorithms run amok, whether in facial expression software for job interviews, evaluation of loan applicants, or self-driving cars, and those are the ones that we know about.
+> **[0:18](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=18)** We've seen [[Algorithms]] run amok, whether in facial expression software for job interviews, evaluation of loan applicants, or self-driving cars, and those are the ones that we know about.
 >
 > **[0:28](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=28)** And yet implemented responsibly, AI can create a massive competitive advantage for your business, but without a regulatory framework to follow, how can you do this without putting your business and customers at risk?
 >
@@ -89,15 +88,15 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=60)** And if you're not thinking about all these ways it can fail, you're not building in the right safeguards and ensuring that it doesn't happen and mitigating those risks.
 >
-> **[1:07](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=67)** - [Georgie] Today, I'm talking to Steve Mills, chief AI ethics officer at BCG GAMMA and recognized expert in responsible AI.
+> **[1:07](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=67)** - [Georgie] Today, I'm talking to Steve Mills, chief AI [[Ethics]] officer at BCG GAMMA and recognized expert in [[Responsible AI]].
 >
 > **[1:14](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=74)** - [Steve] AI is increasingly becoming this force behind the scenes shaping so many aspects of our lives.
 >
-> **[1:19](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=79)** So it's things like the news you're seeing in your news feeds, the other individuals on social media that you're seeing, the products that you're being fed, you know, and whether that's in apps or in websites.
+> **[1:19](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=79)** So it's things like the news you're seeing in your news feeds, the other individuals on social media that you're seeing, the [[Microsoft Products|products]] that you're being fed, you know, and whether that's in apps or in websites.
 >
 > **[1:30](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=90)** But it's also starting to get to things like the offers that you're being made, you know, discount offers.
 >
-> **[1:36](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=96)** It can be the seats you're offered in aircraft, the products you're seeing in stores, for example, both in terms of the forecasting what will be of interest in the coming fashion season, but even more tactically, which products are stocked in which stores.
+> **[1:36](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=96)** It can be the seats you're offered in aircraft, the products you're seeing in stores, for example, both in terms of the [[Forecasting]] what will be of interest in the coming fashion season, but even more tactically, which products are stocked in which stores.
 >
 > **[1:50](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980&t=110)** So if you ever wonder why, when you go to one store, there's certain things on the shelves and different in another, whether that's the grocery store or retail store, it's AI behind the scenes, you know, influencing those decisions in a myriad of ways, and then, of course, things like employment.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (3), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Ethics]] (1), [[Responsible AI]] (1)
 > **Speakers:** - [georgie] (2), - [steve] (2), - [announcer] (1)
 > **Env Vars:** bcg (2), gamma (1)
 > **Non-Speech:** (funky music) (2)
@@ -115,8 +114,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### What is AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980)
+#### [What is AI?](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=6)** What is AI?
 >
-> **[0:08](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=8)** 'Cause what it sounds is algorithms, but is it more than just that?
+> **[0:08](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=8)** 'Cause what it sounds is [[Algorithms]], but is it more than just that?
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=11)** - \[\[Interviewee] Yeah, so any AI system, I tend to think of it as this value chain.
 >
@@ -142,13 +140,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=55)** And I'll give you an example.
 >
-> **[0:57](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=57)** Something that's been gaining a lot of interest lately and you see it in the news a lot, there's things called large language models.
+> **[0:57](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=57)** Something that's been gaining a lot of interest lately and you see it in the news a lot, there's things called [[Large Language Models (LLM)|large language models]].
 >
 > **[1:02](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=62)** So these very large models that are very good at doing things like question/answer.
 >
 > **[1:07](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=67)** They've even gotten to the point now where you can describe in words a website, and it can automatically generate that website for you, a functioning website.
 >
-> **[1:16](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=76)** But fundamentally, all those algorithms are really doing is predicting the next word in a sentence.
+> **[1:16](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=76)** But fundamentally, all those algorithms are really doing is predicting the next [[Microsoft Word|word]] in a sentence.
 >
 > **[1:22](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/what-is-ai?u=76281980&t=82)** That's really what it boils down to.
 >
@@ -164,13 +162,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (4), next (3), [[Microsoft Word|Word]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Algorithms]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [interviewer] (1)
 
-#### Potential of AI for business and society
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980)
+#### [Potential of AI for business and society](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,11 +181,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=15)** I mean, in terms of businesses, it is an absolutely powerful and critical differentiator.
 >
-> **[0:22](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=22)** It allows you to operate more efficiently, reach customers better, drive new sources of revenue as you sort of monetize the output of these algorithms.
+> **[0:22](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=22)** It allows you to operate more efficiently, reach customers better, drive new sources of revenue as you sort of monetize the output of these [[Algorithms]].
 >
 > **[0:30](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=30)** So you're making specific offers like product offers to customers.
 >
-> **[0:34](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=34)** You can drive increased sales because you're putting the products that customers want in front of them.
+> **[0:34](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=34)** You can drive increased sales because you're putting the [[Microsoft Products|products]] that customers want in front of them.
 >
 > **[0:40](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=40)** So there's a whole set of powerful business uses.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=58)** It's a net benefit for businesses, but certainly for individuals as well.
 >
-> **[1:01](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=61)** And then you can also think about the sort of pure societal benefit, doing things like forecasting where wildfires are about to begin, right?
+> **[1:01](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=61)** And then you can also think about the sort of pure societal benefit, doing things like [[Forecasting]] where wildfires are about to begin, right?
 >
 > **[1:09](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/potential-of-ai-for-business-and-society?u=76281980&t=69)** This is something left has been working on.
 >
@@ -214,13 +211,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), business (2), [[Algorithms]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Products|Products]] (1), [[Forecasting]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
 
-#### Responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/responsible-ai?u=76281980)
+#### [Responsible AI](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,12 +232,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - [speaker (2)
 > **CLI Commands:** make (1)
 
-#### AI issues and failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980)
+#### [AI issues and failures](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=225)** But the point here is making sure that you're thinking about those types of controls and having them in place at the beginning.
 >
-> **[3:53](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=233)** And then there's also things like privacy violations.
+> **[3:53](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=233)** And then there's also things like [[Privacy]] violations.
 >
 > **[3:57](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=237)** And we think about this typically in the sense of I've got data and I don't want to expose that data, right?
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=270)** That is very private information for an individual.
 >
-> **[4:33](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=273)** These algorithms are able to suss out some of these things that we might not initially intend them to, but it happens.
+> **[4:33](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=273)** These [[Algorithms]] are able to suss out some of these things that we might not initially intend them to, but it happens.
 >
 > **[4:40](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/ai-issues-and-failures?u=76281980&t=280)** And then we have to think about, "Okay, if that happens, how do we protect against that?
 >
@@ -405,15 +399,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (6), [[Algorithms]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Privacy]] (1)
 > **Speakers:** - yeah (2), - i (1), - how (1), - well (1), - you (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** earlier in (1)
 > **Warnings:** be careful (1)
 
-#### Regulatory frameworks for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980)
+#### [Regulatory frameworks for AI](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980&t=86)** However, I also think it drives better long-term competitiveness, faster innovation, improved customer trust, and ultimately, you know, employees want to be associated with companies that are thoughtful about this, and so from a recruiting and retention standpoint, it's really important.
 >
-> **[1:43](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980&t=103)** It was probably about a year ago Google released their new phone with, I believe the camera's called the PixelSense camera on it.
+> **[1:43](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980&t=103)** It was probably about a year ago [[Google]] released their new phone with, I believe the camera's called the PixelSense camera on it.
 >
 > **[1:51](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/regulatory-frameworks-for-ai?u=76281980&t=111)** The whole idea behind it in the marketing campaign if you go look at it is to create the most, diverse aware camera ever created, and that was their main sales pitch, right?
 >
@@ -505,14 +498,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Google]] (2), data (2), power (1), product (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Speakers:** - [interviewer] (4), - [interviewee] (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 
-#### The social license of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980)
+#### [The social license of AI](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=22)** We hear about it a lot.
 >
-> **[0:23](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=23)** We hear about algorithms a lot.
+> **[0:23](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=23)** We hear about [[Algorithms]] a lot.
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=25)** We see it a lot in the popular media, in movies, mostly bad things, perpetuating the kind of terminator idea of it.
 >
@@ -536,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=46)** And by which stage, it's almost too late.
 >
-> **[0:47](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=47)** We can see how much we're already giving over of our sort of privacy and all of those sorts of things.
+> **[0:47](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=47)** We can see how much we're already giving over of our sort of [[Privacy]] and all of those sorts of things.
 >
 > **[0:53](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/the-social-license-of-ai?u=76281980&t=53)** And in the past, would've been absolutely abhorrent.
 >
@@ -610,12 +602,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Algorithms]] (3), [[Privacy]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Privacy]] (1)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
 
-#### How to develop responsible AI principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/how-to-develop-responsible-ai-principles?u=76281980)
+#### [How to develop responsible AI principles](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/how-to-develop-responsible-ai-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +672,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), ai (3), product (3), data (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - so (1), - yeah (1)
 > **Env Vars:** bcg (1)

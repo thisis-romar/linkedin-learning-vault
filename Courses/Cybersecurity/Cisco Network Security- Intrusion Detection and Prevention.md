@@ -88,16 +88,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stopping Potential Threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980)
+#### [Stopping Potential Threats](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=0)** - An intrusion detection and prevention system is your network's first line of defense as it actively scans traffic and blocks threats in real time.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=0)** - An [[Intrusion Detection]] and prevention system is your network's first line of defense as it actively scans traffic and blocks threats in real time.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=11)** This early intervention helps stop potential attacks before they can cause serious damage.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=18)** Join me as I share my experience in detecting and responding to cybersecurity threats using signature, anomaly, and reputation based detection.
+> **[0:18](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=18)** Join me as I share my experience in detecting and responding to [[Cybersecurity]] threats using signature, anomaly, and reputation based detection.
 >
 > **[0:30](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980&t=30)** I'll then highlight some practical applications and then finish with a discussion on ways to deploy and manage and iOS-based intrusion detection and prevention system.
 >
@@ -107,12 +106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (2), traffic (1), [[Cybersecurity]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Cybersecurity]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - an (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,18 +130,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packet Tracer and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/packet-tracer-and-exercise-files?u=76281980)
+#### [Packet Tracer and exercise files](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/packet-tracer-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/packet-tracer-and-exercise-files?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available here at the Cisco Networking Academy at [netacad.com](https://netacad.com).
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/packet-tracer-and-exercise-files?u=76281980&t=0)** - [Instructor] During the course, I'll demonstrate some of the concepts using Packet Tracer, which is available here at the [[Cisco Networking]] Academy at [netacad.com](https://netacad.com).
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/packet-tracer-and-exercise-files?u=76281980&t=12)** I put in the search Packet Tracer and it took me here, Introduction to Packet Tracer.
 >
@@ -155,24 +151,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cisco Networking]] (1), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cisco Networking]] (1)
 > **URLs:** [netacad.com](https://netacad.com) (1)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare for the CCNA Security Exam (210-260)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prepare-for-the-ccna-security-exam-210-260?u=76281980)
+#### [Prepare for the CCNA Security Exam (210-260)](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prepare-for-the-ccna-security-exam-210-260?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prepare-for-the-ccna-security-exam-210-260?u=76281980&t=0)** - [Narrator] The CCNA Security Exam tests the candidate's knowledge of security concepts, secure access, VPN technologies, secure routing and switching, Cisco firewall technologies, intrusion prevention systems, along with content and endpoint security.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prepare-for-the-ccna-security-exam-210-260?u=76281980&t=0)** - [Narrator] The CCNA Security Exam tests the candidate's knowledge of security concepts, secure access, VPN technologies, secure [[Routing]] and switching, Cisco firewall technologies, intrusion prevention systems, along with content and [[Endpoint Security]].
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prepare-for-the-ccna-security-exam-210-260?u=76281980&t=23)** The CCNA Security Exam validates a candidate's skills for securing a network to maintain the confidentiality, integrity, and availability of data, and is an excellent addition to a career in information technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), vpn (1), [[Routing]] (1), [[Endpoint Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Endpoint Security]] (1)
 > **Env Vars:** ccna (2), vpn (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -182,8 +177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing the threat landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980)
+#### [Managing the threat landscape](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,11 +185,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=12)** The reality is that even with all of your defenses in place, malicious traffic may have found a way onto your network.
 >
-> **[0:21](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=21)** In this segment, we'll learn how intrusion detection and prevention can detect and mitigate many common attacks, as well as identify potentially malicious traffic.
+> **[0:21](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=21)** In this segment, we'll learn how [[Intrusion Detection]] and prevention can detect and mitigate many common attacks, as well as identify potentially malicious traffic.
 >
 > **[0:33](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=33)** Today, companies are faced with numerous challenges to protect the infrastructure.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=40)** Network environments are complex, and can include bring your own device, cloud computing, social media, the Internet of Things, and the new technology that is added to the mix daily.
+> **[0:40](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=40)** Network environments are complex, and can include bring your own device, [[Cloud Computing]], social media, the [[IoT|Internet of Things]], and the new technology that is added to the mix daily.
 >
 > **[0:54](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980&t=54)** Coupled with the challenges, cyber threats are becoming more aggressive, complex, and sophisticated.
 >
@@ -229,19 +223,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Intrusion Detection]] (3), traffic (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **UI Navigation:** scroll up (1), click on (1), scroll down (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Overview and benefits of IDS and IPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980)
+#### [Overview and benefits of IDS and IPS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980&t=0)** - [Instructor] Intrusion detection and prevention systems monitor the network and conduct traffic analysis to identify incidents, possible policy violations, and attempted attacks.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980&t=0)** - [Instructor] [[Intrusion Detection]] and prevention systems monitor the network and conduct traffic analysis to identify incidents, possible policy violations, and attempted attacks.
 >
-> **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980&t=12)** Types of attack signatures include Trojans that are communicating with command and control servers, denial of service attacks, passive attacks where a hacker scans the network to learn what's happening in the organization, active attacks, such as remote login attempts, buffer overflows and SQL injection.
+> **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980&t=12)** Types of attack signatures include Trojans that are communicating with command and control servers, denial of service attacks, passive attacks where a hacker scans the network to learn what's happening in the organization, active attacks, such as remote login attempts, buffer overflows and [[SQL]] injection.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overview-and-benefits-of-ids-and-ips?u=76281980&t=35)** The system also monitors for insider attacks, unauthorized access attempts, escalation of privilege, or excessive database reads.
 >
@@ -293,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (7), traffic (2), [[Security]] (2), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (7), [[SQL]] (1)
 > **Env Vars:** sql (1), dns (1), sensitive (1), data (1), http (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
@@ -301,12 +294,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPS versus IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ips-versus-ids?u=76281980)
+#### [IPS versus IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ips-versus-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ips-versus-ids?u=76281980&t=0)** - [Instructor] In addition to the many other security devices on a network, most organizations use intrusion detection/intrusion prevention systems to increase the security level of the network.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ips-versus-ids?u=76281980&t=0)** - [Instructor] In addition to the many other security devices on a network, most organizations use [[Intrusion Detection]]/intrusion prevention systems to increase the security level of the network.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ips-versus-ids?u=76281980&t=12)** Intrusion detection and prevention systems are sensors that monitor for unusual or suspicious data or activities.
 >
@@ -346,16 +338,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Intrusion Detection]] (7), [[Security]] (3), data (2), database (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (7)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Host-based versus network IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980)
+#### [Host-based versus network IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=0)** - [Instructor] Intrusion detection systems work to enforce the security policies on what traffic is allowed and what is denied.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=0)** - [Instructor] [[Intrusion Detection]] systems work to enforce the security policies on what traffic is allowed and what is denied.
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=8)** Intrusion detection can be host-based or network-based.
 >
@@ -373,7 +364,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=65)** Sensors are deployed at the network edge to monitor ingress and egress traffic and block network level attacks.
 >
-> **[1:14](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=74)** Network intrusion detection systems are comprised of numerous components, such as sensors or agents, state tables, and signature databases.
+> **[1:14](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=74)** Network intrusion detection systems are comprised of numerous components, such as sensors or agents, state tables, and signature [[Databases]].
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=85)** Network-based intrusion detection systems are operating system independent and monitor network traffic to identify suspicious activity and can visualize attacks that are occurring across the entire network.
 >
@@ -411,17 +402,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (19), traffic (11), [[Security]] (3), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (19), [[Databases]] (1)
 > **Env Vars:** tcp (2), cpu (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites and restrictions for IPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prerequisites-and-restrictions-for-ips?u=76281980)
+#### [Prerequisites and restrictions for IPS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prerequisites-and-restrictions-for-ips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prerequisites-and-restrictions-for-ips?u=76281980&t=0)** - [Instructor] Intrusion detection monitors the network for unusual or suspicious activity.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prerequisites-and-restrictions-for-ips?u=76281980&t=0)** - [Instructor] [[Intrusion Detection]] monitors the network for unusual or suspicious activity.
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/prerequisites-and-restrictions-for-ips?u=76281980&t=5)** However, intrusion prevention stops or prevents an attack.
 >
@@ -461,7 +451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Intrusion Detection]] (2), [[Security]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -469,12 +459,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980)
+#### [Monitoring the network](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=0)** - [Instructor] Intrusion detection systems monitor the network for unusual or suspicious activity.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=0)** - [Instructor] [[Intrusion Detection]] systems monitor the network for unusual or suspicious activity.
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=7)** In this segment, we'll explore how sensors use signature triggers of known threats to identify and respond to malicious activity.
 >
@@ -482,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=29)** Therefore, it's essential that we carefully monitor for any evidence of data exfiltration or compromise.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=38)** Intrusion detection systems are tuned to recognize viruses, worms, trojans, and bot activity along with web attacks, such as SQL injection, cross site scripting, and denial of service.
+> **[0:38](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=38)** Intrusion detection systems are tuned to recognize viruses, worms, trojans, and bot activity along with web attacks, such as [[SQL]] injection, cross site scripting, and denial of service.
 >
 > **[0:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=53)** The Cisco intrusion detection system sensors are constantly vigilant for an attack signature.
 >
@@ -504,9 +493,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=113)** Now, in most cases, you can examine the data, which contains all the information about events on the network.
 >
-> **[2:01](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=121)** In this case, I pulled the capture and opened it in Wireshark.
+> **[2:01](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=121)** In this case, I pulled the capture and opened it in [[Wireshark]].
 >
-> **[2:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=125)** Now once in, I'll go to statistics and then conversations, and I'm going to zero in on UDP, and we're going to search for that suspicious port.
+> **[2:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=125)** Now once in, I'll go to [[Statistics]] and then conversations, and I'm going to zero in on UDP, and we're going to search for that suspicious port.
 >
 > **[2:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=135)** Now, once in, we can examine the port values, and we can sort them in which I have by just clicking that one time, and we see some standard ports, such as ports 67 and 68 used for DHCP, and port 53 used for DNS, but what we do see is this port right here, port 666.
 >
@@ -532,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (4), data (3), traffic (3), [[Search]] (3), database (2)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[SQL]] (1), [[Wireshark]] (1), [[Statistics]] (1)
 > **Env Vars:** udp (2), sql (1), dhcp (1), dns (1), ids (1)
 > **Ports:** port 666 (4), port 53 (1)
 > **UI Navigation:** scroll down (3), go to (2)
@@ -541,12 +530,11 @@ created: 2026-05-02
 > **Versions:** 8.2 (1)
 > **Definitions:** is a  (1)
 
-#### Signature-based IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980)
+#### [Signature-based IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=0)** - [Instructor] Cisco intrusion detection system security appliances primarily use signature-based technology to monitor and compare traffic as it passes through the device to detect patterns in network traffic.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=0)** - [Instructor] Cisco [[Intrusion Detection]] system security appliances primarily use signature-based technology to monitor and compare traffic as it passes through the device to detect patterns in network traffic.
 >
 > **[0:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=15)** A signature-based intrusion detection system must contain a current database of known attack signatures that is tuned to detect intrusions and malicious activity.
 >
@@ -566,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=68)** There are several signature engines or categories that each has its own set of signatures that monitor for an allowable range or values.
 >
-> **[1:18](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=78)** The service engines inspect common application layer services, such as HTTP, MySQL, NTP, or DNS.
+> **[1:18](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=78)** The service engines inspect common application layer services, such as HTTP, [[MySQL]], NTP, or DNS.
 >
 > **[1:28](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/signature-based-ids?u=76281980&t=88)** String engines enable the intrusion detection system to search the traffic streams for regular expression strings that might be associated with malware.
 >
@@ -626,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Intrusion Detection]] (4), database (2), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[MySQL]] (1)
 > **Env Vars:** tcp (8), icmp (4), udp (4), arp (3), http (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (2)
@@ -634,12 +622,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sweep scan
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980)
+#### [Sweep scan](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=0)** - [Instructor] In a signature-based intrusion detection system, sweep engines monitor for the various signatures related to sweeps and scans.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=0)** - [Instructor] In a signature-based [[Intrusion Detection]] system, sweep engines monitor for the various signatures related to sweeps and scans.
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=9)** Scanning techniques can vary.
 >
@@ -659,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=68)** Let's take a look.
 >
-> **[1:10](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=70)** I am in Wireshark so we can see the pattern or signature of a TCP scan.
+> **[1:10](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=70)** I am in [[Wireshark]] so we can see the pattern or signature of a TCP scan.
 >
 > **[1:17](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=77)** I'll first apply a filter.
 >
@@ -683,31 +670,30 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=140)** It's going through all the ports in an attempt to get one of the services to respond.
 >
-> **[2:25](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=145)** Now in some cases, scanning network hosts is done because of a vulnerability assessment exercise or even a penetration test, but scanning and sweeping is also done by hackers during reconnaissance prior to an attack.
+> **[2:25](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=145)** Now in some cases, scanning network hosts is done because of a [[Vulnerability Assessment]] exercise or even a penetration test, but scanning and sweeping is also done by hackers during reconnaissance prior to an attack.
 >
 > **[2:41](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/sweep-scan?u=76281980&t=161)** In general, unless you have initiated the scan, you should not allow active scanning or sweeping on your network.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (3), traffic (2), [[Wireshark]] (2), [[Security]] (1), [[Vulnerability Assessment]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Wireshark]] (2), [[Vulnerability Assessment]] (1)
 > **Env Vars:** tcp (6), syn (3)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anomaly-based IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980)
+#### [Anomaly-based IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=0)** - [Instructor] Intrusion detection systems detect malicious activity by using either atomic or single-packet patterns or composite or multi-packet signature patterns.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=0)** - [Instructor] [[Intrusion Detection]] systems detect malicious activity by using either atomic or single-packet patterns or composite or multi-packet signature patterns.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=12)** Once a specific signature is found, the device will send an atomic alert.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=17)** I'm at this website Kaspersky Cyberthreat Real-Time Map, where we can see there is a constant barrage of attacks.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=17)** I'm at this website Kaspersky Cyberthreat [[Real-Time]] Map, where we can see there is a constant barrage of attacks.
 >
-> **[0:26](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=26)** We'll take a look around on this website and I'll scroll down, it will show most infected today and some historical statistics worldwide.
+> **[0:26](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=26)** We'll take a look around on this website and I'll scroll down, it will show most infected today and some historical [[Statistics]] worldwide.
 >
 > **[0:38](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/anomaly-based-ids?u=76281980&t=38)** Here we can see top local infections in the last week and some of the variants.
 >
@@ -761,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (2), traffic (2), [[Real-Time]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Real-Time]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** scroll down (1)
@@ -769,12 +755,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reputation-based IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980)
+#### [Reputation-based IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=0)** - [Instructor] In addition to using signatures to identify threats, Cisco Intrusion Detection Systems can benefit from reputation-based intrusion detection using Cisco's Security Intelligence Operations.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=0)** - [Instructor] In addition to using signatures to identify threats, Cisco [[Intrusion Detection]] Systems can benefit from reputation-based intrusion detection using Cisco's Security Intelligence Operations.
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=13)** In the real world, we make our selections based on the reputation of the company or product.
 >
@@ -788,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=55)** The first step is to agree to participate.
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=58)** Then, on the Local Area Network, participating intrusion prevention sensors gather data and then send suspect traffic to the global correlation servers.
+> **[0:58](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=58)** Then, on the [[Local Area Network (LAN)|Local Area Network]], participating intrusion prevention sensors gather data and then send suspect traffic to the global correlation servers.
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/reputation-based-ids?u=76281980&t=69)** If there is an identified event, the Intrusion Detection System will send information that includes signature ID, attacker's IP address and port, victim IP address and port, TCP options string, reputation rating and score, and data from the sensor health metrics.
 >
@@ -802,21 +787,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (5), data (4), database (4), [[Security]] (2), product (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (5), [[Local Area Network (LAN)|Local area network]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** tcp (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Policy-based IDS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980)
+#### [Policy-based IDS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=0)** - [Instructor] With Policy-Based Detection the administrator defines suspicious behavior and can create a customized policy to monitor for that activity.
 >
-> **[0:10](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=10)** Policy-based intrusion detection is like pattern-based detection, but instead of trying to define a specific pattern, policy-based signatures can be used to analyze a specific type of packet.
+> **[0:10](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=10)** Policy-based [[Intrusion Detection]] is like pattern-based detection, but instead of trying to define a specific pattern, policy-based signatures can be used to analyze a specific type of packet.
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=23)** For example, having data in the flow label in an IPv6 header.
 >
@@ -850,7 +834,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=112)** For the source IP this will monitor for traffic coming from an outside network.
 >
-> **[1:58](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=118)** For the source port, this will test traffic coming from any port, and the operator will test external traffic destined for web servers on your network.
+> **[1:58](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=118)** For the source port, this will test traffic coming from any port, and the operator will test external traffic destined for [[Web Servers]] on your network.
 >
 > **[2:08](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/policy-based-ids?u=76281980&t=128)** And the destination IP address, this will monitor traffic sent to any host specified as an internal web server.
 >
@@ -866,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Intrusion Detection]] (4), web (2), data (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Web Servers]] (1)
 > **Env Vars:** tcp (1), http (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -878,8 +862,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IDS signature files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980)
+#### [IDS signature files](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,9 +896,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=99)** You would click on that and then log in with your username and password and then you would have the latest signatures.
 >
-> **[1:46](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=106)** If the system can obtain signatures automatically, it's best to set this option to ensure real-time threat defense.
+> **[1:46](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=106)** If the system can obtain signatures automatically, it's best to set this option to ensure [[Real-Time]] threat defense.
 >
-> **[1:54](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=114)** Using signature-based intrusion detection reduces the strain on the system, but it does have limitations when there are unknown attacks or variables that are unpredictable, such as ports used by Trojans and their associated processes, which can randomly grab ports.
+> **[1:54](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=114)** Using signature-based [[Intrusion Detection]] reduces the strain on the system, but it does have limitations when there are unknown attacks or variables that are unpredictable, such as ports used by Trojans and their associated processes, which can randomly grab ports.
 >
 > **[2:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980&t=132)** The signature database is the heart of the intrusion detection system.
 >
@@ -923,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Intrusion Detection]] (2), management (1), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Real-Time]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **Definitions:** is a  (1)
@@ -931,12 +914,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trigger actions and responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/trigger-actions-and-responses?u=76281980)
+#### [Trigger actions and responses](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/trigger-actions-and-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/trigger-actions-and-responses?u=76281980&t=0)** - [Instructor] When there is a signature match, the intrusion detection/intrusion prevention system executes the corresponding action, alert, or logging function.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/trigger-actions-and-responses?u=76281980&t=0)** - [Instructor] When there is a signature match, the [[Intrusion Detection]]/intrusion prevention system executes the corresponding action, alert, or logging function.
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/trigger-actions-and-responses?u=76281980&t=10)** The signature can trigger any of the following actions.
 >
@@ -1004,7 +986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Security]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3)
 > **Env Vars:** tcp (2), syn (2), ack (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1)
@@ -1012,8 +994,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blacklist and whitelist
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980)
+#### [Blacklist and whitelist](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1020,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980&t=72)** The lists can either be static or dynamic.
 >
-> **[1:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980&t=75)** If you participate in the cisco Global Correlation Network that will send your statistics to the Threat Operations Center for analysis and the results will be distributed to the global community and update the device's dynamic database.
+> **[1:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980&t=75)** If you participate in the cisco Global Correlation Network that will send your [[Statistics]] to the Threat Operations Center for analysis and the results will be distributed to the global community and update the device's dynamic database.
 >
 > **[1:31](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/blacklist-and-whitelist?u=76281980&t=91)** In addition you can also manually add entries to a static blacklist.
 >
@@ -1081,14 +1062,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), database (2), [[Statistics]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** tcp (1), udp (1), icmp (1), mac (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing IPS alarms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980)
+#### [Managing IPS alarms](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980&t=112)** However, the information provided is useful information.
 >
-> **[1:57](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980&t=117)** An intrusion detection and intrusion prevention system has four types of alarms, false positive, false negative, true positive, and true negative.
+> **[1:57](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980&t=117)** An [[Intrusion Detection]] and intrusion prevention system has four types of alarms, false positive, false negative, true positive, and true negative.
 >
 > **[2:07](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-ips-alarms?u=76281980&t=127)** A signature is tuned to one of four levels based on the perceived severity of the signature.
 >
@@ -1136,7 +1116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1145,8 +1125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze the flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980)
+#### [Analyze the flow](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=41)** This differs for the granular and somewhat cumbersome collection of traffic using standard protocol analysis tool.
 >
-> **[0:49](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=49)** I'm in Wireshark where we see a number of different packets.
+> **[0:49](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=49)** I'm in [[Wireshark]] where we see a number of different packets.
 >
 > **[0:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=53)** Now, we could filter by conversation, and we'll do that.
 >
@@ -1176,7 +1155,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=78)** Ingress interface, source IP address, destination IP address, IP protocol, source ports, destination ports, type and code for ICMP, and IP type of service.
 >
-> **[1:33](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=93)** Intrusion detection monitors traffic for unusual or suspicious activity and generates an alert.
+> **[1:33](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=93)** [[Intrusion Detection]] monitors traffic for unusual or suspicious activity and generates an alert.
 >
 > **[1:40](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980&t=100)** We can use intrusion detection based on NetFlow.
 >
@@ -1212,7 +1191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), data (3), [[Intrusion Detection]] (2), web (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Wireshark]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** icmp (1)
 > **Versions:** 192.168.40 (1)
@@ -1220,8 +1199,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing an IPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/implementing-an-ips?u=76281980)
+#### [Implementing an IPS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/implementing-an-ips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,7 +1259,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), database (1), next (1)
 > **Env Vars:** ips (12), ios (9), sdee (1)
 > **Prerequisites:** you'll need (3), configure (2)
 > **URLs:** [cisco.com](https://cisco.com) (2)
@@ -1290,8 +1267,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure an IPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/configure-an-ips?u=76281980)
+#### [Configure an IPS](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/configure-an-ips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1351,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), traffic (1), [[Troubleshooting]] (1)
 > **Env Vars:** ips (9)
 > **Prerequisites:** configure (5)
 > **Code Identifiers:** ios (3), ios_ips (1)
@@ -1389,12 +1364,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring and analyzing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980)
+#### [Monitoring and analyzing](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=0)** - [Instructor] The intrusion detection intrusion prevention systems on the network are constantly gathering data.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=0)** - [Instructor] The [[Intrusion Detection]] intrusion prevention systems on the network are constantly gathering data.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=6)** The network administrator has several tools in the arsenal to manage all the data.
 >
@@ -1416,11 +1390,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=73)** To analyze the data the network administrator can use SIEM technology, which integrates into the overall architecture of the network and collects, correlates, and acts on security event information.
 >
-> **[1:27](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=87)** A SIEM system provides consolidated security event management, continuous monitoring, trend awareness, and auditing.
+> **[1:27](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=87)** A SIEM system provides consolidated security event management, [[Continuous Monitoring]], trend awareness, and auditing.
 >
-> **[1:36](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=96)** Normalization of event and log information it gathers from many sources and does data mapping to integrate into the SIEM system.
+> **[1:36](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=96)** Normalization of event and log information it gathers from many sources and does [[Data Mapping]] to integrate into the SIEM system.
 >
-> **[1:45](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=105)** Correlation of events, which gives historic or real-time data perspective and conducts data analysis based on a set of rules.
+> **[1:45](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=105)** Correlation of events, which gives historic or [[Real-Time]] data perspective and conducts data analysis based on a set of rules.
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980&t=113)** SIEM technology provides the network administrator a complete view of an organization and all possible network attack points.
 >
@@ -1432,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (6), [[Intrusion Detection]] (4), application (1), express (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Continuous Monitoring]] (1), [[Data Mapping]] (1), [[Real-Time]] (1)
 > **Env Vars:** siem (6), sdee (3), ips (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1440,8 +1414,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syslog
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/syslog?u=76281980)
+#### [Syslog](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/syslog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,18 +1450,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), next (1), traffic (1)
 > **Versions:** 192.168.40 (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using IDS and honeypots
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/using-ids-and-honeypots?u=76281980)
+#### [Using IDS and honeypots](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/using-ids-and-honeypots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/using-ids-and-honeypots?u=76281980&t=0)** - [Instructor] In addition to classic signature and heuristic-based intrusion detection, another way to use intrusion detection is to implement a honeypot-based detection.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/using-ids-and-honeypots?u=76281980&t=0)** - [Instructor] In addition to classic signature and heuristic-based [[Intrusion Detection]], another way to use intrusion detection is to implement a honeypot-based detection.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/using-ids-and-honeypots?u=76281980&t=11)** A honeypot is a system to set up and lure a would-be attacker with a goal of observing their behavior and attack methods to better protect the network by distracting attackers from hitting the real target or to gather forensic evidence required to aid in the apprehension or prosecution of intruders.
 >
@@ -1560,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (3), traffic (2), generic (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1569,12 +1540,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
 
-#### The EINSTEIN system
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980)
+#### [The EINSTEIN system](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980&t=0)** - [Instructor] In the real world, intrusion detection is used in many forms.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980&t=0)** - [Instructor] In the real world, [[Intrusion Detection]] is used in many [[Forms]].
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/the-einstein-system?u=76281980&t=5)** One is the Department of Homeland Security's EINSTEIN System.
 >
@@ -1614,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Security]] (3), traffic (3), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (3), [[Forms]] (1)
 > **Env Vars:** einstein (17)
 > **Speakers:** - [instructor] (1)
 
@@ -1623,14 +1593,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=0)** - [Lisa] Thank you for watching.
 >
-> **[0:02](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=2)** In this course I covered the concepts of intrusion detection and intrusion prevention systems.
+> **[0:02](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=2)** In this course I covered the concepts of [[Intrusion Detection]] and intrusion prevention systems.
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=8)** I have reviewed detection and signature engines and reviewed how intrusion prevention systems make decisions on what action to take.
 >
@@ -1638,11 +1607,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=26)** If you're interested in learning more, please check out the IT segment of the library where we add new courses all the time.
 >
-> **[0:35](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=35)** It's well worth your time to check out any course in the Ethical Hacking series.
+> **[0:35](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=35)** It's well worth your time to check out any course in the [[Ethical Hacking]] series.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=40)** And if you want to learn more about encryption check out my course, Learning Cryptography and Network Security.
+> **[0:40](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=40)** And if you want to learn more about encryption check out my course, Learning [[Cryptography]] and [[Network Security]].
 >
-> **[0:47](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=47)** If you want to learn more about packet analysis, check out my courses on Wireshark.
+> **[0:47](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=47)** If you want to learn more about packet analysis, check out my courses on [[Wireshark]].
 >
 > **[0:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980&t=53)** For a complete list of all my courses go to my author page.
 >

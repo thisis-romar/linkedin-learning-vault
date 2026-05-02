@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundation and implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
+#### [Foundation and implementation](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980&t=8)** Well, get ready, because that's exactly what we will cover in this course.
 >
-> **[0:12](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980&t=12)** This will be your launch into the heart of MPLS Layer 3 VPNs that take that revolutionizing connectivity for businesses and providers alike.
+> **[0:12](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980&t=12)** This will be your launch into the heart of [[Multiprotocol Label Switching (MPLS)|MPLS]] Layer 3 VPNs that take that revolutionizing connectivity for businesses and providers alike.
 >
 > **[0:22](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980&t=22)** In this course, you will learn why MPLS and Layer 3 VPNs are the backbone of modern networks.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), power (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3)
 > **Env Vars:** mpls (3), mpbgp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -122,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is MPLS? Understanding the basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
+#### [What is MPLS? Understanding the basics](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=0)** - [Arash] Welcome to the first video of our course, MPLS layer three VPN foundation and implementation.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=0)** - [Arash] Welcome to the first video of our course, [[Multiprotocol Label Switching (MPLS)|MPLS]] layer three VPN foundation and implementation.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=7)** I am Arash Deljoo, and today we are answering a key question.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=25)** Picture a traditional IP network.
 >
-> **[0:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=27)** A packet hits the router and it digs into the routing table to find the destination IP, like checking a map at every stop.
+> **[0:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=27)** A packet hits the router and it digs into the [[Routing]] table to find the destination IP, like checking a map at every stop.
 >
 > **[0:36](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=36)** This happens hop by hop, slowing things down in busy networks.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=144)** How does MPLS enhance efficiency?
 >
-> **[2:28](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=148)** It cuts latency with quick label lookups, boosts throughput by easing router workload, and optimizes resources with traffic engineering via LSPs.
+> **[2:28](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=148)** It cuts latency with quick label lookups, boosts throughput by easing router workload, and optimizes resources with [[Traffic Engineering]] via LSPs.
 >
 > **[2:41](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980&t=161)** This combo makes MPLS a go-to for scalable, reliable networks, especially for layer three VPNs.
 >
@@ -195,19 +193,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (3), next (3), [[Routing]] (2), vpn (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), [[Routing]] (2), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (12), vpn (1), vip (1), ler (1), lsr (1)
 > **Cross-References:** next video (1), in the next (1)
 > **Analogies:** picture (1), think of it as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [arash] (1)
 
-#### Introduction to Layer 3 VPNs (L3VPN) and their use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980)
+#### [Introduction to Layer 3 VPNs (L3VPN) and their use cases](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=0)** - [Instructor] Welcome back to MPLS, Layer 3 VPN Foundation and Implementation.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=0)** - [Instructor] Welcome back to [[Multiprotocol Label Switching (MPLS)|MPLS]], Layer 3 VPN Foundation and Implementation.
 >
 > **[0:05](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=5)** In this second video, we are exploring introduction to Layer 3 VPNs, L3VPNs, and their use cases.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=23)** So what's the purpose of a Layer 3 VPN?
 >
-> **[0:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=27)** At its core, an L3VPN uses MPLS, Multiprotocol Label Switching, to create a virtual private network at Layer 3, the IP layer.
+> **[0:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=27)** At its core, an L3VPN uses MPLS, [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]], to create a [[Virtual Private Network (VPN)|virtual private network]] at Layer 3, the IP layer.
 >
 > **[0:38](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=38)** It allows multiple separate networks like branch offices or customer sites to connect securely over a shared infrastructure while keeping their IP traffic isolated.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=87)** The magic happens with two key players, provider edge routers, or PEs, and customer edge routers, or CEs.
 >
-> **[1:36](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=96)** This CE sits at the customer site, like an office, connecting to the PE in the provider's MPLS network.
+> **[1:36](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=96)** This CE sits at the customer site, like an [[Microsoft Office|office]], connecting to the PE in the provider's MPLS network.
 >
 > **[1:44](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-layer-3-vpns-l3vpn-and-their-use-cases?u=76281980&t=104)** The PE labels the traffic, routes it through the network, and ensures it treats the right destination CE.
 >
@@ -269,23 +266,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), vpn (4), traffic (4), data (2), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** mpls (8), vpn (4), l3vpn (4), lan (1)
 > **Analogies:** think of it as (1), imagine (1), picture (1)
 > **Versions:** 10.0.0 (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of MPLS L3VPN for enterprises and service providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980)
+#### [Benefits of MPLS L3VPN for enterprises and service providers](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=0)** - [Instructor] Welcome to the third video in the MPLS Layer 3 VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=0)** - [Instructor] Welcome to the third video in the [[Multiprotocol Label Switching (MPLS)|MPLS]] Layer 3 VPN Foundation and Implementation course.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=6)** Today's topic is benefits of MPLS Layer 3 VPN for enterprises and service providers.
 >
-> **[0:13](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=13)** By the end, you will understand how MPLS Layer 3 VPN's daily standout advantages in a scalability and security for both sides.
+> **[0:13](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=13)** By the end, you will understand how MPLS Layer 3 VPN's daily standout advantages in a [[Scalability]] and security for both sides.
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=23)** Let's dive into why this technology is a game changer.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=166)** Company A's packet never mixed with company B's, even with identical IP range.
 >
-> **[2:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=173)** This isolation is built into the MPLS architecture backed by robust routing protocols like BGP.
+> **[2:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=173)** This isolation is built into the MPLS architecture backed by robust [[Routing Protocols]] like BGP.
 >
 > **[3:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/benefits-of-mpls-l3vpn-for-enterprises-and-service-providers?u=76281980&t=181)** Providers can guarantee security without managing encryption for each client, simplifying operations while meeting a strict compliance needs.
 >
@@ -357,18 +353,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Scalability]] (5), [[Security]] (5), vpn (4), traffic (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Scalability]] (5), [[Routing Protocols]] (1)
 > **Env Vars:** mpls (10), vpn (4), mps (3), bgp (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of course objectives and target audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980)
+#### [Overview of course objectives and target audience](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=0)** - [Lecturer] Welcome to this video in the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=0)** - [Lecturer] Welcome to this video in the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN Foundation and Implementation course.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=6)** Today's topic is Overview of Course Objectives and Target Audience.
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=50)** First up, MPLS fundamentals.
 >
-> **[0:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=53)** You will learn how Multiprotocol Label Switching works, labels, switching, and efficiency, laying the groundwork for everything else.
+> **[0:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=53)** You will learn how [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]] works, labels, switching, and efficiency, laying the groundwork for everything else.
 >
 > **[1:03](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=63)** Next, L3VPN core concepts.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=80)** Here you will explore how to plan an L3VPN.
 >
-> **[1:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=84)** Think topology, routing, and scalability for enterprise or provider needs.
+> **[1:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=84)** Think topology, [[Routing]], and [[Scalability]] for enterprise or provider needs.
 >
 > **[1:30](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/overview-of-course-objectives-and-target-audience?u=76281980&t=90)** Fourth, implementing MPLS L3VPN.
 >
@@ -440,7 +435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), next (3), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** l3vpn (12), mpls (11), mps (1), wan (1), ccna (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lecturer] (1)
@@ -450,12 +445,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPLS architecture and components
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
+#### [MPLS architecture and components](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=0)** - [Lecturer] Welcome to the MPLS fundamental section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=0)** - [Lecturer] Welcome to the [[Multiprotocol Label Switching (MPLS)|MPLS]] fundamental section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=8)** This is the first video, MPLS Architecture and Components.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=19)** Let's dive into the foundation of MPLS.
 >
-> **[0:23](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=23)** MPLS, Multiprotocol Label Switching, revolves around peculiar architecture.
+> **[0:23](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=23)** MPLS, [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]], revolves around peculiar architecture.
 >
 > **[0:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=29)** It's split into two zones, the edge and the core.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=97)** When a packet hits an LER at the network edge, it gets a label, a short tag that defines its path.
 >
-> **[1:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=105)** This isn't about deep routing decision, it's a simple instruction.
+> **[1:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=105)** This isn't about deep [[Routing]] decision, it's a simple instruction.
 >
 > **[1:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980&t=111)** The packet then travels through the core where LSRs read the label and forward it along the LSR.
 >
@@ -521,19 +515,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), traffic (5), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Routing]] (1)
 > **Env Vars:** mpls (8), ler (3), l3vpn (1), lsr (1), ldp (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Label distribution protocol (LDP) and resource reservation protocol (RSVP) explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980)
+#### [Label distribution protocol (LDP) and resource reservation protocol (RSVP) explained](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS fundamentals section of the MPLS layer three VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] fundamentals section of the MPLS layer three VPN Foundation and Implementation course.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=7)** This is the second video, Label Distribution Protocols: LDP and RSVP Explained.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=57)** First, LDP.
 >
-> **[0:59](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=59)** It's simple and ties directly to IP routing.
+> **[0:59](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=59)** It's simple and ties directly to IP [[Routing]].
 >
 > **[1:02](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=62)** NDP shares labels with neighboring routers based on the routing table.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=87)** Next, RSVP.
 >
-> **[1:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=89)** It's more complex originally for reserving bandwidth, and in MPLS it's tailored for traffic engineering.
+> **[1:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=89)** It's more complex originally for reserving bandwidth, and in MPLS it's tailored for [[Traffic Engineering]].
 >
 > **[1:38](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/label-distribution-protocols-ldp-and-rsvp-explained?u=76281980&t=98)** RSVP assigns labels for specific paths, not just IP routes.
 >
@@ -607,16 +600,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Traffic Engineering]] (5), [[Routing]] (3), vpn (2), next (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Traffic Engineering]] (5), [[Routing]] (3)
 > **Env Vars:** ldp (13), rsvp (12), mpls (11), vpn (2), mps (2)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS packet flow and label switching
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-packet-flow-and-label-switching?u=76281980)
+#### [MPLS packet flow and label switching](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-packet-flow-and-label-switching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-packet-flow-and-label-switching?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS fundamental section of the MPLS Layer 3 VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-packet-flow-and-label-switching?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] fundamental section of the MPLS Layer 3 VPN Foundation and Implementation course.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-packet-flow-and-label-switching?u=76281980&t=7)** This is the third video, "MPLS Packet Flow and Label Switching."
 >
@@ -684,19 +676,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), next (2), vpn (1), traffic (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12)
 > **Env Vars:** mpls (12), vpn (1)
 > **Analogies:** imagine (1), think of it like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding MPLS terminology (PE, CE, P routers)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980)
+#### [Understanding MPLS terminology (PE, CE, P routers)](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS Fundamentals section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] Fundamentals section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=7)** This is the fourth video, Understanding MPLS Terminology: PE, CE, P routers.
 >
@@ -712,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=48)** First, the CE router, Customer Edge.
 >
-> **[0:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=51)** This sits at the customer site, like an office or branch.
+> **[0:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=51)** This sits at the customer site, like an [[Microsoft Office|office]] or branch.
 >
 > **[0:56](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=56)** It's the customer's gateway to the MPLS network, connecting their local network to the provider's infrastructure.
 >
@@ -730,7 +721,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=87)** It connects to CE routers, assign labels to incoming packets and removes them for outgoing ones.
 >
-> **[1:34](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=94)** For Layer 3 VPNs, the PE also manages customer routing info, keeping each customer's traffic separate.
+> **[1:34](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=94)** For Layer 3 VPNs, the PE also manages customer [[Routing]] info, keeping each customer's traffic separate.
 >
 > **[1:43](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/understanding-mpls-terminology-pe-ce-p-routers?u=76281980&t=103)** Finally, the P router, Provider router.
 >
@@ -768,18 +759,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), next (2), [[Microsoft Office|Office]] (1), [[Routing]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), [[Microsoft Office|Office]] (1), [[Routing]] (1)
 > **Env Vars:** mpls (12), l3vpn (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to MPLS L3VPN concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980)
+#### [Introduction to MPLS L3VPN concepts](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=1)** - [Instructor] Welcome back to the MPLS Fundamental Section of the MPLS Layer 3VPN Foundation and Implementation Course.
+> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=1)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] Fundamental Section of the MPLS Layer 3VPN Foundation and Implementation Course.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=7)** This is the final video introduction to MPLS L3VPN concepts.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=42)** How does MPLS make this happen?
 >
-> **[0:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=45)** It's all about leveraging labels and smart routing.
+> **[0:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=45)** It's all about leveraging labels and smart [[Routing]].
 >
 > **[0:49](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=49)** Let start with customer isolation.
 >
@@ -805,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=64)** MPLS solves this by isolating each customer's data.
 >
-> **[1:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=68)** At the provider's edge, each customer's traffic gets its own virtual private network or VPN, so there is no overlap, no confusion.
+> **[1:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=68)** At the provider's edge, each customer's traffic gets its own [[Virtual Private Network (VPN)|virtual private network]] or VPN, so there is no overlap, no confusion.
 >
 > **[1:18](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-concepts?u=76281980&t=78)** Labels are the key.
 >
@@ -843,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), vpn (6), traffic (5), data (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Routing]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** mpls (11), vpn (6), l3vpn (3)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
@@ -855,12 +845,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes L3VPN unique? VRFs and route distinguishers
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
+#### [What makes L3VPN unique? VRFs and route distinguishers](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=0)** - [Instructor] Welcome to the MPLS L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=0)** - [Instructor] Welcome to the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:10](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=10)** This is the first video.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=14)** VRF and route distinguishers?
 >
-> **[0:17](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=17)** By the end, you will understand how VFS and RDs-enable isolated routing in L3VPNs.
+> **[0:17](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=17)** By the end, you will understand how VFS and RDs-enable isolated [[Routing]] in L3VPNs.
 >
 > **[0:25](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980&t=25)** Let's kick things off.
 >
@@ -930,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), power (1), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6)
 > **Env Vars:** mpls (6), vrf (5), l3vpn (4), vfs (1), bgp (1)
 > **Versions:** 10.0.0 (5)
 > **Ports:** :10 (2), :100 (1), :200 (1)
@@ -939,12 +928,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of MP-BGP in L3VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980)
+#### [The role of MP-BGP in L3VPN](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=9)** This is the second video, the role of MP-BGP in L3VPN.
 >
@@ -964,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=48)** It distributes VPN routes between provider edge routers, PEs across the network.
 >
-> **[0:55](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=55)** Each PE holds customer routes in its own virtual routing tables.
+> **[0:55](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=55)** Each PE holds customer routes in its own virtual [[Routing]] tables.
 >
 > **[1:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/the-role-of-mp-bgp-in-l3vpn?u=76281980&t=61)** MP-BGP takes those routes, package them with special attributes and shares them with other PEs.
 >
@@ -1014,25 +1002,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), traffic (2), [[Routing]] (2), power (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), [[Routing]] (2)
 > **Env Vars:** bgp (15), vpn (6), mpls (5), l3vpn (5)
 > **Versions:** 10.0.0 (1), 100.10.0 (1), 0.0 (1)
 > **Analogies:** for example (1), it's like (1)
 > **Ports:** :100 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Route targets: Importing and exporting routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980)
+#### [Route targets: Importing and exporting routes](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS L3VPN Core Concept section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN Core Concept section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=9)** In L3VPNs, customer routes don't just spread everywhere.
 >
 > **[0:13](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=13)** Route targets or RTs decide who gets what.
 >
-> **[0:17](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=17)** These tags are set on each virtual routing table or each VRF on provider edge routers.
+> **[0:17](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=17)** These tags are set on each virtual [[Routing]] table or each VRF on provider edge routers.
 >
 > **[0:25](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=25)** Every VRF has both an export RT and an import RT, and they work together to control how routes are shared across the network.
 >
@@ -1054,7 +1041,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=87)** The import RT's role is to filter.
 >
-> **[1:30](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=90)** It grabs only the routes meant for each VPN, ignoring the rest.
+> **[1:30](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=90)** It grabs only the routes meant for each VPN, ignoring the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:35](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/route-targets-importing-and-exporting-routes?u=76281980&t=95)** Here's how it plays out.
 >
@@ -1092,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (7), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), [[Routing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Routing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vrf (12), vpn (7), l3vpn (3), mpls (2), bgp (2)
 > **Ports:** :100 (8), :200 (1), :300 (1)
 > **Definitions:** is a  (2)
@@ -1101,12 +1088,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control plane vs. data plane in L3VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980)
+#### [Control plane vs. data plane in L3VPN](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the MPLS L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN core concept section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:10](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=10)** This is the fourth video, Control Plane vs. Data Plane in L3VPN.
 >
@@ -1128,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=48)** First, the control plane.
 >
-> **[0:49](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=49)** This is where routing information gets built and shared.
+> **[0:49](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=49)** This is where [[Routing]] information gets built and shared.
 >
 > **[0:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=53)** On provider edge routers, the control plane uses MP-BGP to exchange VPN routes.
 >
@@ -1180,27 +1166,26 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=161)** That's the split that powers L3VPNs.
 >
-> **[2:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=165)** Next, we will explore common L3VPN topologies, hub-and-spoke, full mesh to see how this plays out in real designs.
+> **[2:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=165)** Next, we will explore common L3VPN topologies, hub-and-spoke, full [[Mesh]] to see how this plays out in real designs.
 >
 > **[2:54](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/control-plane-vs-data-plane-in-l3vpn?u=76281980&t=174)** Stay tuned as we keep going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), traffic (4), [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), vpn (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Mesh]] (1)
 > **Env Vars:** l3vpn (4), mpls (3), bgp (3), vpn (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common L3VPN topologies (hub-and-spoke, full mesh)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980)
+#### [Common L3VPN topologies (hub-and-spoke, full mesh)](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=0)** - [Instructor] 0305 Common L3VPN Topologies: Hub-and-Spoke Full Mesh.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=0)** - [Instructor] 0305 Common L3VPN Topologies: Hub-and-Spoke Full [[Mesh]].
 >
-> **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=7)** Welcome back to the MPLS L3VPN core concept section of the MPLS-L3VPN Foundation and Implementation course.
+> **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=7)** Welcome back to the [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN core concept section of the MPLS-L3VPN Foundation and Implementation course.
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=15)** This is the final video of Common L3VPN Topologies: Hub-and-Spoke Full Mesh.
 >
@@ -1256,11 +1241,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=115)** Complexity, hub-and-spoke is simpler with fewer roads to manage.
 >
-> **[2:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=120)** Full mesh is complex, needing more routing configure size grow.
+> **[2:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=120)** Full mesh is complex, needing more [[Routing]] configure size grow.
 >
 > **[2:06](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=126)** The use case.
 >
-> **[2:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=127)** Hub-and-spoke fit centralized setups like head office with branches.
+> **[2:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=127)** Hub-and-spoke fit centralized setups like head [[Microsoft Office|office]] with branches.
 >
 > **[2:11](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-l3vpn-topologies-hub-and-spoke-full-mesh?u=76281980&t=131)** Full mesh treats peer-to-peer needs, like equal size sharing data.
 >
@@ -1288,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), data (2), strengths (1)
+> **Frameworks & Libraries:** [[Mesh]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** l3vpn (8), mpls (4)
 > **Analogies:** picture (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -1300,12 +1285,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning an MPLS L3VPN deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
+#### [Planning an MPLS L3VPN deployment](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=0)** - [Presenter] Welcome to the designing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=0)** - [Presenter] Welcome to the designing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=9)** This is the first video, planning an MPLS L3VPN deployment.
 >
@@ -1339,7 +1323,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=83)** Step three, plan VRF and road target structure.
 >
-> **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=87)** Each customer gets virtual routing tables, VRFs and PEs.
+> **[1:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=87)** Each customer gets virtual [[Routing]] tables, VRFs and PEs.
 >
 > **[1:32](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980&t=92)** Outline how many RFS you will need and sketch initial road targets to control road sharing.
 >
@@ -1373,20 +1357,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Routing]] (2), next (2), vpn (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (2)
 > **Env Vars:** l3vpn (6), mpls (4), vpn (1), vrf (1), rfs (1)
 > **Prerequisites:** setup (1), configure (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Addressing and routing considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980)
+#### [Addressing and routing considerations](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980&t=0)** - [Instructor] Welcome back to the designing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980&t=0)** - [Instructor] Welcome back to the designing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
-> **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980&t=9)** This is the second video, "Addressing and Routing Considerations."
+> **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980&t=9)** This is the second video, "Addressing and [[Routing]] Considerations."
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/addressing-and-routing-considerations?u=76281980&t=12)** By the end, you will understand how to tackle IP overlap and routing challenges in L3VPN design.
 >
@@ -1454,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (10), vpn (7), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), traffic (2), next (1)
+> **Frameworks & Libraries:** [[Routing]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3)
 > **Env Vars:** vpn (7), l3vpn (4), bgp (4), mpls (3), vrf (2)
 > **Versions:** 10.0.0 (6)
 > **Ports:** :100 (1), :200 (1)
@@ -1462,12 +1445,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling L3VPN: Best practices and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980)
+#### [Scaling L3VPN: Best practices and limitations](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=0)** - [Instructor] Welcome back to the designing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=0)** - [Instructor] Welcome back to the designing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=9)** This is the third video, scaling L3VPN best practices and limitations.
 >
@@ -1511,15 +1493,15 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=118)** A single PE might handle 1,000 VRFs or 100,000 routes before slowing down.
 >
-> **[2:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=124)** Hardware matters, and you can't push past it without upgrades.
+> **[2:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=124)** [[Hardware]] matters, and you can't push past it without upgrades.
 >
-> **[2:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=129)** Another limit, core scalability.
+> **[2:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=129)** Another limit, core [[Scalability]].
 >
 > **[2:13](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=133)** As VPNs multiply, so do labels and traffic in the MPLS core.
 >
 > **[2:18](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=138)** P routers can hit a ceiling, say millions of labels, before forwarding lags.
 >
-> **[2:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=144)** Plus, full mesh designs exploding complexity with more sites.
+> **[2:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=144)** Plus, full [[Mesh]] designs exploding complexity with more sites.
 >
 > **[2:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/scaling-l3vpn-best-practices-and-limitations?u=76281980&t=149)** Scaling up means watching the core, not just the edge.
 >
@@ -1543,18 +1525,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Scalability]] (2), vpn (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Scalability]] (2), [[Hardware]] (1), [[Mesh]] (1)
 > **Env Vars:** mpls (4), l3vpn (4), mpbgp (2), vpn (1), cpu (1)
 > **Versions:** 10.10.0 (1), 10.0.0 (1)
 > **Best Practices:** best practice (2)
 > **Speakers:** - [instructor] (1)
 
-#### Security features in MPLS L3VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980)
+#### [Security features in MPLS L3VPN](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the Designing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the Designing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=9)** This is the fourth video, Security Features in MPLS L3VPN.
 >
@@ -1572,7 +1553,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=40)** First up, traffic isolation.
 >
-> **[0:44](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=44)** Each customer's data stays in its own virtual routing table, a VRF, and provider edge routers.
+> **[0:44](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=44)** Each customer's data stays in its own virtual [[Routing]] table, a VRF, and provider edge routers.
 >
 > **[0:52](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=52)** VPN A's traffic can't leak into VPN B's, even if they share the same network.
 >
@@ -1594,7 +1575,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=95)** Customer sites connect only to their P router, not the provider's core.
 >
-> **[1:40](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=100)** The core doesn't run customer routing protocols or hold customer routes.
+> **[1:40](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=100)** The core doesn't run customer [[Routing Protocols]] or hold customer routes.
 >
 > **[1:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/security-features-in-mpls-l3vpn?u=76281980&t=105)** It's just a transit path.
 >
@@ -1632,16 +1613,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), data (9), [[Security]] (4), vpn (4), traffic (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (1), [[Routing Protocols]] (1)
 > **Env Vars:** mpls (10), l3vpn (7), vpn (4), vrf (2), mpgbp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quality of service (QoS) in MPLS L3VPN: Ensuring performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/qos-in-mpls-l3vpn-ensuring-performance?u=76281980)
+#### [Quality of service (QoS) in MPLS L3VPN: Ensuring performance](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/qos-in-mpls-l3vpn-ensuring-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/qos-in-mpls-l3vpn-ensuring-performance?u=76281980&t=0)** - [Lecturer] Welcome back to the Designing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/qos-in-mpls-l3vpn-ensuring-performance?u=76281980&t=0)** - [Lecturer] Welcome back to the Designing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/qos-in-mpls-l3vpn-ensuring-performance?u=76281980&t=8)** This is the final video, QoS in MPLS L3VPN: Ensuring Performance.
 >
@@ -1707,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), data (6), vpn (3), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9)
 > **Env Vars:** mpls (9), l3vpn (7), vpn (3), exp (3), npls (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -1719,12 +1699,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case study: Step-by-step L3VPN deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
+#### [Case study: Step-by-step L3VPN deployment](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=0)** - [Instructor] Welcome to the implementing MPLS L3VPN section of the "MPLS L3VPN Foundation and Implementation" course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=0)** - [Instructor] Welcome to the implementing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the "MPLS L3VPN Foundation and Implementation" course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=9)** This is the first video, "Case Study: Step-by-Step L3VPN Deployment."
 >
@@ -1754,7 +1733,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=71)** We will build an L3VPN so Red's PC pings its server, Blue's PC pings its server, and their traffic stays apart.
 >
-> **[1:22](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=82)** This video sets the provider's foundation, IP addressing, and IGP before we dive into L3VPN configs.
+> **[1:22](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=82)** This video sets the provider's foundation, [[IP Addressing]], and IGP before we dive into L3VPN configs.
 >
 > **[1:30](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980&t=90)** First, IP addressing in the provider core.
 >
@@ -1812,22 +1791,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), next (3), traffic (2), [[IP Addressing]] (2), vpn (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[IP Addressing]] (2)
 > **Env Vars:** pe1 (10), pe2 (10), l3vpn (7), ospf (4), mpls (3)
 > **Versions:** 10.0.12 (3), 10.0.23 (3), 10.0.34 (3), 10.0.1 (2), 255.255.255 (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring VRFs on PE routers
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980)
+#### [Configuring VRFs on PE routers](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=0)** - [Instructor] Welcome back to the implementing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=0)** - [Instructor] Welcome back to the implementing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=11)** This is the second video, Configuring VRFs on PE Routers.
 >
-> **[0:15](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=15)** By the end, you will know how to configure VRFs on PE routers to isolate customer traffic, including route targets and IP addressing for our case study devices.
+> **[0:15](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=15)** By the end, you will know how to configure VRFs on PE routers to isolate customer traffic, including route targets and [[IP Addressing]] for our case study devices.
 >
 > **[0:27](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/configuring-vrfs-on-pe-routers?u=76281980&t=27)** Let's get started.
 >
@@ -1973,18 +1951,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), [[IP Addressing]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[IP Addressing]] (1)
 > **Versions:** 255.255.255 (15), 192.168.1 (7), 192.168.2 (7), 192.168.3 (7), 192.168.4 (7)
 > **Env Vars:** pe1 (10), red (8), blue (8), pe2 (6), mpls (2)
 > **Prerequisites:** configure (4)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up MP-BGP for L3VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980)
+#### [Setting up MP-BGP for L3VPN](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the Implementing MPLS L3VPN section of the MPLS L3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=0)** - [Instructor] Welcome back to the Implementing [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN section of the MPLS L3VPN Foundation and Implementation course.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=9)** This is the third video, Setting Up MP-BGP for L3VPN.
 >
@@ -2070,25 +2047,24 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=390)** That connects our sites across the core.
 >
-> **[6:32](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=392)** Next, we will explore connecting CE to PE, static and dynamic routing options to get traffic flowing, and stay tuned as we keep building.
+> **[6:32](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/setting-up-mp-bgp-for-l3vpn?u=76281980&t=392)** Next, we will explore connecting CE to PE, static and dynamic [[Routing]] options to get traffic flowing, and stay tuned as we keep building.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (3), traffic (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Routing]] (1)
 > **Env Vars:** bgp (10), pe2 (9), pe1 (8), vrf (8), l3vpn (4)
 > **Versions:** 10.0.4 (8), 10.0.1 (8), 172.16.1 (3), 172.16.2 (3), 172.16.3 (3)
 > **Prerequisites:** set up (2), setup (1)
 > **Code Identifiers:** ibgp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting CE to PE: Static and dynamic routing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980)
+#### [Connecting CE to PE: Static and dynamic routing options](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980&t=0)** - [Instructor] Welcome back to the implementing MPLS 3VPN section of the MPLS 3VPN Foundation and Implementation course.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980&t=0)** - [Instructor] Welcome back to the implementing [[Multiprotocol Label Switching (MPLS)|MPLS]] 3VPN section of the MPLS 3VPN Foundation and Implementation course.
 >
-> **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980&t=9)** This is the fourth video connecting CE to PE static and dynamic routing options.
+> **[0:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980&t=9)** This is the fourth video connecting CE to PE static and dynamic [[Routing]] options.
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/connecting-ce-to-pe-static-and-dynamic-routing-options?u=76281980&t=15)** By the end you will know how to connect CE and PE routers using a static and dynamic routing plus redistribute routes into MP-BGP.
 >
@@ -2198,23 +2174,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (1)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** bgp (19), vrf (13), pe2 (6), mpls (4), pe1 (4)
 > **Versions:** 255.255.255 (11), 192.168.1 (7), 172.16.2 (7), 172.16.4 (7), 192.168.3 (5)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling MPLS in the service provider network
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980)
+#### [Enabling MPLS in the service provider network](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=0)** - [Instructor] Welcome back everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=1)** So far, we have configured VRF on our provider HP routers, set up MP-BGP to exchange VPN routes, and connected our customer edge CE routers to the P routers using aesthetic or dynamic routing.
+> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=1)** So far, we have configured VRF on our provider HP routers, set up MP-BGP to exchange VPN routes, and connected our customer edge CE routers to the P routers using aesthetic or dynamic [[Routing]].
 >
 > **[0:16](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=16)** But there is a critical piece of the puzzle we haven't addressed yet.
 >
-> **[0:20](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=20)** Enabling MPLS within the service provider network itself.
+> **[0:20](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=20)** Enabling [[Multiprotocol Label Switching (MPLS)|MPLS]] within the service provider network itself.
 >
 > **[0:24](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=24)** That's what this lecture is all about, why we need MPLS in the core and how to configure it.
 >
@@ -2236,11 +2211,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=107)** Key benefits of MPLS in L3VPN.
 >
-> **[1:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=111)** Scalability, P routers don't need to know customer routes.
+> **[1:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=111)** [[Scalability]], P routers don't need to know customer routes.
 >
 > **[1:57](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=117)** Traffic isolation, labels ensure VPN traffic stays separate.
 >
-> **[2:03](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=123)** Flexibility, supports advanced features like traffic engineering.
+> **[2:03](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=123)** Flexibility, supports advanced features like [[Traffic Engineering]].
 >
 > **[2:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/enabling-mpls-in-the-service-provider-network?u=76281980&t=129)** Let's configure MPLS across our topology.
 >
@@ -2284,20 +2259,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), vpn (9), [[Routing]] (4), traffic (3), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), [[Routing]] (4), [[Scalability]] (1), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (19), vpn (9), bgp (3), pe1 (3), pe2 (3)
 > **Prerequisites:** set up (2), configure (2), setup (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verifying connectivity and testing the VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980)
+#### [Verifying connectivity and testing the VPN](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=1)** By now, we have built our MPLS L3 VPN from the ground up.
+> **[0:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=1)** By now, we have built our [[Multiprotocol Label Switching (MPLS)|MPLS]] L3 VPN from the ground up.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=6)** VRFs are configured, MPBGP is exchanging routes.
 >
@@ -2335,7 +2309,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=116)** You will see site two's local routes and site one's BGP Learn routes.
 >
-> **[2:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=121)** If these match up, our VPN routing is solid.
+> **[2:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=121)** If these match up, our VPN [[Routing]] is solid.
 >
 > **[2:05](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/verifying-connectivity-and-testing-the-vpn?u=76281980&t=125)** Next, let's confirm MPLS is moving packets across the core.
 >
@@ -2395,7 +2369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), vpn (8), next (3), [[Routing]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[Routing]] (2)
 > **Env Vars:** pe2 (10), vpn (8), pe1 (8), mpls (7), red (3)
 > **Versions:** 192.168.3 (3), 192.168.1 (2), 192.168.2 (2), 192.168.4 (2), 10.0.4 (1)
 > **CLI Commands:** make (1)
@@ -2406,12 +2380,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inter-AS L3VPN: Connecting multiple providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
+#### [Inter-AS L3VPN: Connecting multiple providers](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=0)** - [Instructor] Welcome back to our MPLS-L3VPN journey.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=0)** - [Instructor] Welcome back to our [[Multiprotocol Label Switching (MPLS)|MPLS]]-L3VPN journey.
 >
 > **[0:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=4)** We have mastered building an L3VPN within a single provider network.
 >
@@ -2445,7 +2418,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=92)** Each provider maintains its own MPLS backbone, P1 to ASBR 1 in AS 100 and ABR2 to P2 in AS 200.
 >
-> **[1:42](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=102)** At the ASBRs, the providers exchange routing information and forward traffic ensuring reds packet flow from Site 1 to Site 2 securely no matter who is in the middle.
+> **[1:42](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=102)** At the ASBRs, the providers exchange [[Routing]] information and forward traffic ensuring reds packet flow from Site 1 to Site 2 securely no matter who is in the middle.
 >
 > **[1:54](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=114)** There are three main ways to do this called Inter-AS options, A, B, and C.
 >
@@ -2487,7 +2460,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=217)** They just need connectivity.
 >
-> **[3:40](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=220)** This feature ensures a scalability letting providers stitch their networks together without sharing full internal details, all while keeping VPN isolation intact.
+> **[3:40](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=220)** This feature ensures a [[Scalability]] letting providers stitch their networks together without sharing full internal details, all while keeping VPN isolation intact.
 >
 > **[3:52](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980&t=232)** That's the essence of Inter-AS L3VPN connecting multiple providers to extend the customer's VPN across AS boundaries.
 >
@@ -2499,18 +2472,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (9), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), traffic (3), feature (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** vpn (9), mpls (6), l3vpn (6), asbr (4), asbr1 (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS L3VPN in modern networks (SD-WAN integration)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980)
+#### [MPLS L3VPN in modern networks (SD-WAN integration)](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=0)** - [Instructor] Welcome back to our MPLS L3VPN exploration.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=0)** - [Instructor] Welcome back to our [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN exploration.
 >
 > **[0:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=4)** We have covered building L3VPNs within a single provider and even across multiple providers.
 >
@@ -2560,11 +2532,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=164)** One, traffic steering.
 >
-> **[2:47](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=167)** SD-WAN uses real-time analytics to choose MPLS for latency sensitive apps, uploading others to the overlay.
+> **[2:47](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=167)** SD-WAN uses [[Real-Time]] analytics to choose MPLS for latency sensitive apps, uploading others to the overlay.
 >
 > **[2:56](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=176)** Two, visibility.
 >
-> **[2:58](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=178)** SD-WAN dashboards often monitor both MPLS and internet performance, giving a unified view.
+> **[2:58](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=178)** SD-WAN [[Dashboards]] often monitor both MPLS and internet performance, giving a unified view.
 >
 > **[3:05](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-l3vpn-in-modern-networks-sd-wan-integration?u=76281980&t=185)** Three, hybrid back hole.
 >
@@ -2604,18 +2576,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), traffic (7), vpn (4), [[Orchestration]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (19), [[Real-Time]] (1), [[Dashboards]] (1)
 > **Env Vars:** mpls (19), wan (18), l3vpn (7), vpn (4), pe1 (2)
 > **Analogies:** picture (1), for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common pitfalls and how to avoid them
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980)
+#### [Common pitfalls and how to avoid them](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] Welcome back to our MPLS L3VPN journey.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] Welcome back to our [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN journey.
 >
 > **[0:03](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=3)** We have built L3VPNs, connected them across providers, and explored modern integrations, but even the best setups can hit snags.
 >
@@ -2647,7 +2618,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=106)** You'll show MPLS interface to confirm.
 >
-> **[1:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=108)** Also check show MPLS for routing table, and P routers to ensure labels are assigned and swapped correctly.
+> **[1:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=108)** Also check show MPLS for [[Routing]] table, and P routers to ensure labels are assigned and swapped correctly.
 >
 > **[1:55](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/common-pitfalls-and-how-to-avoid-them?u=76281980&t=115)** Consistency across the path is key.
 >
@@ -2689,7 +2660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3), vpn (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3)
 > **Env Vars:** mpls (7), vrf (6), bgp (5), l3vpn (4), ospf (4)
 > **Versions:** 1.1.1 (1), 2.2.2 (1)
 > **Ports:** port 179 (1)
@@ -2697,12 +2668,11 @@ created: 2026-05-02
 > **Warnings:** pitfall (1)
 > **Speakers:** - [instructor] (1)
 
-#### The future of MPLS L3VPN: Trends and evolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980)
+#### [The future of MPLS L3VPN: Trends and evolution](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=0)** - [Instructor] Welcome back to our MPLS L3VPN exploration.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=0)** - [Instructor] Welcome back to our [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN exploration.
 >
 > **[0:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=4)** We have built L3VPNs, connected them across providers, integrated them with modern tech, and tackled common pitfalls.
 >
@@ -2714,19 +2684,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=29)** First trend: Cloud and multi-cloud integration.
 >
-> **[0:35](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=35)** Enterprises are moving workloads to AWS Azure and Google Cloud, often across multiple providers.
+> **[0:35](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=35)** Enterprises are moving workloads to AWS [[Microsoft Azure|Azure]] and [[Google Cloud Platform (GCP)|Google Cloud]], often across multiple providers.
 >
 > **[0:42](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=42)** MPLS L3VPN is evolving to connect these cloud directly.
 >
 > **[0:48](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=48)** Think P routers peering with cloud gateways.
 >
-> **[0:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=51)** This keeps VPN isolation and QOS intact, extending the trusted MPLS backbone to virtual private clouds.
+> **[0:51](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=51)** This keeps VPN isolation and QOS intact, extending the trusted MPLS backbone to virtual [[Private Clouds]].
 >
 > **[1:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=60)** Picture Customer Red sites on P1 and P2, now linked to a cloud VPC through the same layer 3VPN.
 >
 > **[1:08](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=68)** Providers are offering cloud connect services, blending MPLS reliability with cloud scale, a big shift from traditional site-to-site focus.
 >
-> **[1:19](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=79)** Next up, segment routing and automation.
+> **[1:19](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=79)** Next up, segment [[Routing]] and automation.
 >
 > **[1:22](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=82)** Segment routing or SR, is simplifying MPLS by replacing LDP with source base pass.
 >
@@ -2736,15 +2706,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=105)** Why does it matter?
 >
-> **[1:46](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=106)** It's faster to deploy, easier to manage, and supports traffic engineering without manual tweaks.
+> **[1:46](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=106)** It's faster to deploy, easier to manage, and supports [[Traffic Engineering]] without manual tweaks.
 >
-> **[1:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=113)** MPLS L3VPN is getting smarter and more agile.
+> **[1:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=113)** MPLS L3VPN is getting smarter and more [[Agile Development|agile]].
 >
-> **[1:58](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=118)** Third trend: Coexistence with 5G and edge computing.
+> **[1:58](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=118)** Third trend: Coexistence with [[5G]] and edge computing.
 >
 > **[2:03](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=123)** As 5G rolls out, it's bringing ultra low latency and massive bandwidth.
 >
-> **[2:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=129)** MPLS L3VPN is adapting to back haul 5G traffic from H sites like IOT hubs or retail locations to core data centers, keeping VPN security in play.
+> **[2:09](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=129)** MPLS L3VPN is adapting to back haul 5G traffic from H sites like [[IoT]] hubs or retail locations to core data centers, keeping VPN security in play.
 >
 > **[2:22](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=142)** Edge computing pushes processing closer to users and MPLS ties it back to the enterprise VPN.
 >
@@ -2780,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), cloud (9), [[5G]] (6), next (4), vpn (4)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), [[5G]] (6), [[Routing]] (3), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** mpls (14), l3vpn (9), vpn (4), ibn (4), qos (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** aws (1)
@@ -2791,12 +2761,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary and next steps for learners
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)
+#### [Course summary and next steps for learners](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=0)** - [Instructor] Welcome back to the final stop in our MPLS L3VPN foundation and implementation journey.
+> **[0:00](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=0)** - [Instructor] Welcome back to the final stop in our [[Multiprotocol Label Switching (MPLS)|MPLS]] L3VPN foundation and implementation journey.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=7)** We have covered a lot, from the basics of MPLS to advanced integrations and future trends.
 >
@@ -2822,7 +2791,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=78)** You saw how to address networks, scale VPNs, and secure them, plus ensure QoS for performance.
 >
-> **[1:26](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=86)** Then, came the hands-on part, a case study walking through VRF setup, MP-BGB configuration, CE to P routing options, enabling MPLS in the provider core, and verifying it all with tests.
+> **[1:26](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=86)** Then, came the hands-on part, a case study walking through VRF setup, MP-BGB configuration, CE to P [[Routing]] options, enabling MPLS in the provider core, and verifying it all with tests.
 >
 > **[1:41](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=101)** We finished strong in advanced topics.
 >
@@ -2852,7 +2821,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=173)** Next, explore VPLS, virtual private LAN service to extend LANs across providers.
 >
-> **[3:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=181)** MPLS traffic engineering is another great pick.
+> **[3:01](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=181)** MPLS [[Traffic Engineering]] is another great pick.
 >
 > **[3:04](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980&t=184)** Learn to optimize paths with RSVP for performance.
 >
@@ -2880,7 +2849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), next (3), [[Routing]] (3), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), [[Routing]] (3), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (13), l3vpn (4), ltp (1), bgp (1), vrf (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Tools:** atom (1)

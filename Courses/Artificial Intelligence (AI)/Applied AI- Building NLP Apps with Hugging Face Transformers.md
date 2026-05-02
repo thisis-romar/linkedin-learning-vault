@@ -92,18 +92,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building NLP apps with Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980)
+#### [Building NLP apps with Transformers](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=0)** - [Kumaran] Building natural language processing tasks using Pretrained Transformers from Hugging Face reduces the model development lifecycle and enables agile deployments.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=0)** - [Kumaran] Building [[Natural Language Processing (NLP)|natural language processing]] tasks using Pretrained Transformers from [[Hugging Face]] reduces the model development lifecycle and enables [[Agile Development|agile]] deployments.
 >
-> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=12)** The ability to adapt pretrained models for specific use cases is a key skill for any deep learning engineer.
+> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=12)** The ability to adapt pretrained models for specific use cases is a key skill for any [[Deep Learning]] engineer.
 >
 > **[0:20](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=20)** My name is Kumaran Ponnambalam.
 >
-> **[0:23](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=23)** In this course, we will discuss using and customizing transformer models from Hugging Face.
+> **[0:23](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=23)** In this course, we will discuss using and customizing [[Transformer Models]] from Hugging Face.
 >
 > **[0:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980&t=30)** We will walk through three use cases, namely question/answering, text summarization and text generation.
 >
@@ -117,14 +116,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Course coverage and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980)
+#### [Course coverage and prerequisites](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=0)** - [Instructor] Before we get started with the course let's review the course coverage and prerequisites.
 >
-> **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=7)** This course extends the learning of the course Applied AI, Getting Started with Hugging Face.
+> **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=7)** This course extends the learning of the course Applied AI, Getting Started with [[Hugging Face]].
 >
 > **[0:13](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=13)** We will explore using pretrained Hugging Face models for three tasks, namely question answering, text summarization, and text generation.
 >
@@ -150,15 +148,15 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=85)** You should be familiar with general machine learning concepts and technologies.
 >
-> **[1:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=90)** You should also be aware of natural language processing concepts and the machine learning process to build such applications.
+> **[1:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=90)** You should also be aware of [[Natural Language Processing (NLP)|natural language processing]] concepts and the machine learning process to build such applications.
 >
-> **[1:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=99)** Deep learning concepts and architectures is a key domain to be familiar with.
+> **[1:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=99)** [[Deep Learning]] concepts and architectures is a key domain to be familiar with.
 >
-> **[1:44](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=104)** Recurrent neural networks and embeddings are also essential concepts as we use those as part of the course.
+> **[1:44](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=104)** Recurrent [[Neural Networks]] and embeddings are also essential concepts as we use those as part of the course.
 >
-> **[1:52](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=112)** This course showcases examples in Python with Jupyter Notebooks, so familiarity is also required there.
+> **[1:52](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=112)** This course showcases examples in [[Python (Programming Language)|Python]] with Jupyter Notebooks, so familiarity is also required there.
 >
-> **[2:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=120)** Using Keras and TensorFlow frameworks is also essential to execute the examples in this course.
+> **[2:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=120)** Using Keras and [[TensorFlow]] frameworks is also essential to execute the examples in this course.
 >
 > **[2:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/course-coverage-and-prerequisites?u=76281980&t=127)** Some of the key recommended prerequisite courses are [[Deep Learning Getting Started]], and Recurrent Neural Networks.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (5), ai (2), [[Deep Learning]] (2), [[Neural Networks]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Deep Learning]] (2), [[Neural Networks]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** getting started (3), prerequisite (1), set up (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -179,18 +177,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980)
+#### [Setting up the exercise files](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=0)** - [Instructor] In this video, we will set up the exercise files and the environment to use in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=6)** All course exercises are built using Python 3.9.
+> **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=6)** All course exercises are built using [[Python (Programming Language)|Python]] 3.9.
 >
 > **[0:11](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=11)** We will be using Anaconda and Jupyter Notebooks for these exercises.
 >
-> **[0:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website, [anconda.com/products/distribution](https://anconda.com/products/distribution) for your specific operating system.
+> **[0:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website, [anconda.com/[[Microsoft Products|products]]/distribution](https://anconda.com/products/distribution) for your specific operating system.
 >
 > **[0:27](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=27)** Once downloaded, we will go to the Anaconda GUI.
 >
@@ -208,9 +205,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=75)** Now go to the command prompt.
 >
-> **[1:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=78)** Please note that if you are using Windows, you want to use the Anaconda command prompt for the same.
+> **[1:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=78)** Please note that if you are using [[Windows]], you want to use the Anaconda command prompt for the same.
 >
-> **[1:24](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=84)** The exercise files for this course has been downloaded in the folder Users/linkedin/ExerciseFiles.
+> **[1:24](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=84)** The exercise files for this course has been downloaded in the folder Users/[[LinkedIn]]/ExerciseFiles.
 >
 > **[1:32](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=92)** Please download the exercise files on your computer in a similar folder.
 >
@@ -240,13 +237,13 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=165)** We have already run this for our setup.
 >
-> **[2:49](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=169)** In the next chapter, we will review the basics of machine learning for natural language processing.
+> **[2:49](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=169)** In the next chapter, we will review the basics of machine learning for [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[2:54](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=174)** Please do make sure that you're running TensorFlow 2.10 and Keras 2.10 to avoid issues later.
+> **[2:54](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=174)** Please do make sure that you're running [[TensorFlow]] 2.10 and Keras 2.10 to avoid issues later.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (3), [[Microsoft Products|Products]] (1), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Products|Products]] (1), [[Windows]] (1), [[LinkedIn]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Tools:** jupyter (6), anaconda (4), command prompt (4)
 > **Prerequisites:** install (5), setup (2), set up (1), prerequisite (1)
 > **Exercise Files:** exercise files (6), download the (1)
@@ -260,12 +257,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Question-answering in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980)
+#### [Question-answering in NLP](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980&t=0)** - [Instructor] In this chapter, we will discuss the question answering task in NLP and how to execute it using pre-trained models from Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980&t=0)** - [Instructor] In this chapter, we will discuss the question answering task in NLP and how to execute it using pre-trained models from [[Hugging Face]].
 >
 > **[0:10](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980&t=10)** Question answering, or Qu-An for short, is a popular task in NLP.
 >
@@ -301,14 +297,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (3), [[Hugging Face]] (1), product (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** nlp (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of question-answering
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980)
+#### [Types of question-answering](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980&t=13)** These Qu-An systems can answer questions on any given topic.
 >
-> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980&t=18)** Google search is a good example for this kind of a system.
+> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980&t=18)** [[Google]] search is a good example for this kind of a system.
 >
 > **[0:22](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/types-of-question-answering?u=76281980&t=22)** It is usually built on a very large text corpus.
 >
@@ -354,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), product (2), nlp (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** nlp (1), odqa (1), cdqa (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a Qu-An pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-a-qu-an-pipeline?u=76281980)
+#### [Building a Qu-An pipeline](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-a-qu-an-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,12 +406,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - the (1)
 
-#### The SQuAD metric
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-squad-metric?u=76281980)
+#### [The SQuAD metric](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-squad-metric?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-squad-metric?u=76281980&t=0)** - [Instructor] When we use Hugging Face models for our use case, we need to evaluate them for their accuracy.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-squad-metric?u=76281980&t=0)** - [Instructor] When we use [[Hugging Face]] models for our use case, we need to evaluate them for their accuracy.
 >
 > **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-squad-metric?u=76281980&t=7)** NLP models are complex, and typical ML metrics, like accuracy scores, may not work all the time.
 >
@@ -451,18 +444,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), nlp (2), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2)
 > **Env Vars:** nlp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating Qu-An performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980)
+#### [Evaluating Qu-An performance](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=0)** - [Instructor] Let's use the SQuAD metrics in Hugging Face to evaluate the performance of Qu-An.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=0)** - [Instructor] Let's use the SQuAD metrics in [[Hugging Face]] to evaluate the performance of Qu-An.
 >
 > **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=6)** We first import the evaluate module, that is part of Hugging Face.
 >
@@ -490,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=80)** For a no match answer of London, we get a score of zero.
 >
-> **[1:25](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=85)** For a partial match, where the word Paris is part of a long sentence, we get an F1 score of 22.
+> **[1:25](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=85)** For a partial match, where the [[Microsoft Word|word]] Paris is part of a long sentence, we get an F1 score of 22.
 >
 > **[1:32](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-qu-an-performance?u=76281980&t=92)** This gives an idea of how the scoring works.
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** squad_metric (3)
 > **Speakers:** - [instructor] (1)
 
@@ -515,12 +507,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text summarization in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980)
+#### [Text summarization in NLP](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980&t=0)** - [Instructor] In this chapter, let's explore the text summarization NLP task, and implement an example with Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980&t=0)** - [Instructor] In this chapter, let's explore the text summarization NLP task, and implement an example with [[Hugging Face]].
 >
 > **[0:09](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980&t=9)** Text summarization helps comprehend the content of a large body of text and create a much smaller summary that captures the context and key takeaways.
 >
@@ -562,18 +553,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (1), [[Hugging Face]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### The BART model architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980)
+#### [The BART model architecture](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=0)** - [Instructor] We discussed BERT, GPT and T5 architectures in the "Getting Started with Hugging Face" course.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=0)** - [Instructor] We discussed BERT, GPT and T5 architectures in the "Getting Started with [[Hugging Face]]" course.
 >
 > **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=7)** There is another architecture called BART which we will briefly discuss in this video.
 >
@@ -593,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Env Vars:** bart (5), bert (2), gpt (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Analogies:** similar to (2)
@@ -601,8 +591,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarization with pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980)
+#### [Summarization with pipelines](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980&t=27)** Let's run this code now.
 >
-> **[0:29](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980&t=29)** For summary, HuggingFace supports a predefined pipeline called summarization.
+> **[0:29](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980&t=29)** For summary, [[Hugging Face|HuggingFace]] supports a predefined pipeline called summarization.
 >
 > **[0:34](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/summarization-with-pipelines?u=76281980&t=34)** We initialize this pipeline first.
 >
@@ -651,8 +640,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The ROUGE score
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-rouge-score?u=76281980)
+#### [The ROUGE score](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-rouge-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,12 +674,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating with ROUGE
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-with-rouge?u=76281980)
+#### [Evaluating with ROUGE](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-with-rouge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-with-rouge?u=76281980&t=0)** - [Instructor] Let's explore how the ROGUE score works with the Hugging Face evaluation library in this video.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-with-rouge?u=76281980&t=0)** - [Instructor] Let's explore how the ROGUE score works with the [[Hugging Face]] evaluation library in this video.
 >
 > **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/evaluating-with-rouge?u=76281980&t=7)** We load the ROGUE metric from the evaluate module in Hugging Face.
 >
@@ -729,7 +716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2)
 > **Env Vars:** rogue (2)
 > **Code Identifiers:** roguel (1)
 > **Versions:** 1.0 (1)
@@ -742,8 +729,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Natural language generation in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980)
+#### [Natural language generation in NLP](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,17 +761,16 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980&t=95)** It can create product descriptions and brochures based on specifications in a structured format.
 >
-> **[1:42](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980&t=102)** In this chapter, we will explore multiple use cases for NLG including content generation, conversational AI, and machine translation.
+> **[1:42](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980&t=102)** In this chapter, we will explore multiple use cases for NLG including content generation, [[Conversational AI]], and machine translation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (1), data (1), product (1), [[Conversational AI]] (1)
+> **Frameworks & Libraries:** [[Conversational AI]] (1)
 > **Env Vars:** nlg (5), nlp (1), gpt (1), bart (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Content creation with Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980)
+#### [Content creation with Transformers](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=7)** Let's open the notebook now.
 >
-> **[0:09](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=9)** In this video, we will use transformer pipelines for content creation.
+> **[0:09](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=9)** In this video, we will use transformer pipelines for [[Content Creation]].
 >
 > **[0:14](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=14)** The steps needed here are similar to other pipelines that we have used.
 >
@@ -805,17 +790,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=38)** In order to generate synthetic text, we need a seed input.
 >
-> **[0:42](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=42)** In this case, we use this input as, "Natural Language Processing is a growing domain "in machine learning."
+> **[0:42](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=42)** In this case, we use this input as, "[[Natural Language Processing (NLP)|Natural Language Processing]] is a growing domain "in machine learning."
 >
 > **[0:50](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=50)** We pass this input to the text generator pipeline and specify the number of sequences as three.
 >
 > **[0:57](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=57)** This means that the pipeline will try to generate three separate outputs all starting with the same input sequence.
 >
-> **[1:04](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=64)** We also set the max number of tokens to 50 to limit the size of the output.
+> **[1:04](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=64)** We also set the max number of [[Tokens]] to 50 to limit the size of the output.
 >
 > **[1:09](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=69)** Let's run this code now and review the results.
 >
-> **[1:14](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=74)** The model will get downloaded from Hugging Face repository if it is not already available in the cache.
+> **[1:14](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=74)** The model will get downloaded from [[Hugging Face]] repository if it is not already available in the cache.
 >
 > **[1:21](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/content-creation-with-transformers?u=76281980&t=81)** We see that there are three outputs generated, all of them starting with the same input provider.
 >
@@ -830,8 +815,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conversation generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980)
+#### [Conversation generation](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +823,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=8)** Bots listen to what the person at the other end says, or writes, understand their intent, and then generate appropriate responses.
 >
-> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=18)** Such bots can be used to answer questions about specific topics or products.
+> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=18)** Such bots can be used to answer questions about specific topics or [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=23)** They can also ask follow-up questions to understand the problem further.
 >
@@ -851,7 +835,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=47)** Bots usually use other NLP services like named entity recognition, sentiment analysis, and question answering.
 >
-> **[0:54](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=54)** For example, if a customer asks for the status of a specific order, the bot will use named entity recognition to extract the order number, query the backend databases for status, and then use text generation to produce an answer that sounds like a real person.
+> **[0:54](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=54)** For example, if a customer asks for the status of a specific order, the bot will use named entity recognition to extract the order number, query the backend [[Databases]] for status, and then use text generation to produce an answer that sounds like a real person.
 >
 > **[1:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/conversation-generation?u=76281980&t=72)** Hacking phase also supports out of the box models to handle conversations.
 >
@@ -859,18 +843,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[Microsoft Products|Products]] (1), data (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **Env Vars:** nlp (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chatbot conversation example
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980)
+#### [Chatbot conversation example](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=0)** - We will use the conversational pipeline available in Hugging Face for simulating chatbot-like conversations.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=0)** - We will use the conversational pipeline available in [[Hugging Face]] for simulating chatbot-like conversations.
 >
 > **[0:08](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=8)** We first create a pipeline using the conversational task.
 >
@@ -914,13 +897,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1), chatbot (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Machine translation in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980)
+#### [Machine translation in NLP](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=14)** Machine translation is the field of NLP, where models perform translation from one language to another.
 >
-> **[0:22](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=22)** Rather than doing verbatim word-to-word translation, these models perform human-like translation that focuses on context.
+> **[0:22](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=22)** Rather than doing verbatim [[Microsoft Word|word]]-to-word translation, these models perform human-like translation that focuses on context.
 >
 > **[0:31](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=31)** GPT-3 and T5 are popular transformer architectures that are used in machine translation.
 >
@@ -942,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=54)** What are some of the key applications for machine translation?
 >
-> **[0:58](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=58)** Translating speech, especially in real-time, is a key application that helps listeners irrespective of whether they know the speaker's language.
+> **[0:58](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=58)** Translating speech, especially in [[Real-Time]], is a key application that helps listeners irrespective of whether they know the speaker's language.
 >
 > **[1:07](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/machine-translation-in-nlp?u=76281980&t=67)** Enterprises can use machine translation to translate documents, like product catalogs and user guides.
 >
@@ -952,17 +934,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Real-Time]] (2), nlp (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Real-Time]] (2)
 > **Env Vars:** nlg (1), nlp (1), gpt (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Translating with Hugging Face Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980)
+#### [Translating with Hugging Face Transformers](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=0)** - [Instructor] Even though a translation pipeline exists in hugging face, we will use an explicit tokenizer and model and perform the tokenization and translation steps separately.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=0)** - [Instructor] Even though a translation pipeline exists in [[Hugging Face]], we will use an explicit tokenizer and model and perform the tokenization and translation steps separately.
 >
 > **[0:11](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=11)** This is useful when a specific tokenizer and model combination is not supported in the pipeline.
 >
@@ -984,13 +965,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=64)** We add the translate English to German phrase to tell the t5 model that we need to perform translation from English to German.
 >
-> **[1:13](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=73)** The input is provided to the tokenizer and we request the return_tensors for PyTorch.
+> **[1:13](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=73)** The input is provided to the tokenizer and we request the return_tensors for [[PyTorch]].
 >
 > **[1:20](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=80)** To generate output, we use to generate method of the model with the input IDs.
 >
 > **[1:25](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=85)** The input IDs are the IDs for the embedding metrics.
 >
-> **[1:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=90)** Max length indicates the maximum length for the number of tokens in the output.
+> **[1:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=90)** Max length indicates the maximum length for the number of [[Tokens]] in the output.
 >
 > **[1:35](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/translating-with-hugging-face-transformers?u=76281980&t=95)** We then print the German translated text.
 >
@@ -1006,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Tokens]] (2), nlp (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Tokens]] (2), [[PyTorch]] (1)
 > **Code Identifiers:** return_tensors (1)
 > **Env Vars:** nlp (1)
 > **Warnings:** note that (1)
@@ -1017,12 +998,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training a custom model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980)
+#### [Training a custom model](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=0)** - [Instructor] Having used pre-trained transformers through pipelines in our previous examples, let's look at the process for training a custom model with hugging face artifacts.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=0)** - [Instructor] Having used pre-trained transformers through pipelines in our previous examples, let's look at the process for training a custom model with [[Hugging Face]] artifacts.
 >
 > **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=12)** This process is similar, irrespective of the specific model or use case that needs to be customized.
 >
@@ -1052,15 +1032,14 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=92)** Then we will use transfer learning to start with the base checkpoint model and fine tune it.
 >
-> **[1:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=99)** Let's proceed to building this custom model in the rest of this chapter.
+> **[1:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980&t=99)** Let's proceed to building this custom model in the [[Representational State Transfer (REST)|rest]] of this chapter.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Hugging Face]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading a Hugging Face dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980)
+#### [Loading a Hugging Face dataset](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1070,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980&t=8)** Let's open the notebook now.
 >
-> **[0:11](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980&t=11)** In this exercise, we will use the poem_sentiment dataset provided by Hugging Face.
+> **[0:11](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980&t=11)** In this exercise, we will use the poem_sentiment dataset provided by [[Hugging Face]].
 >
 > **[0:17](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/loading-a-hugging-face-dataset?u=76281980&t=17)** If you intend to use your own dataset, it is recommended to convert it into the dataset format supported by Hugging Face.
 >
@@ -1118,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Hugging Face]] (3), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3)
 > **Code Identifiers:** poem_sentiment (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** apache (1)
@@ -1127,8 +1106,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [lecture] (1)
 
-#### Encoding and preprocessing the dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980)
+#### [Encoding and preprocessing the dataset](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1148,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=104)** In the middle, we have IDs that correspond to each token in the verse text.
 >
-> **[1:49](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=109)** The length of the input map is 28, and is much higher than the number of non-zero tokens.
+> **[1:49](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=109)** The length of the input map is 28, and is much higher than the number of non-zero [[Tokens]].
 >
 > **[1:56](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=116)** This is because during tokenization, the strings are right parted with spaces up to the max length for this data set.
 >
@@ -1178,7 +1156,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=130)** This tells the decode a stack to only look at those tokens with the mask value of one.
 >
-> **[2:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=136)** The rest is all ignored.
+> **[2:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=136)** The [[Representational State Transfer (REST)|rest]] is all ignored.
 >
 > **[2:19](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/encoding-and-preprocessing-the-dataset?u=76281980&t=139)** Now we have the input strings tokenized and vectorized.
 >
@@ -1192,12 +1170,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tokens]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Customizing the model architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-the-model-architecture?u=76281980)
+#### [Customizing the model architecture](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-the-model-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,8 +1228,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training the sentiment model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980)
+#### [Training the sentiment model](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980&t=27)** We first set up the batch size parameter.
 >
-> **[0:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980&t=30)** Given that we are using TensorFlow for this exercise we should convert the training and validation dataset to tensors.
+> **[0:30](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980&t=30)** Given that we are using [[TensorFlow]] for this exercise we should convert the training and validation dataset to tensors.
 >
 > **[0:38](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-the-sentiment-model?u=76281980&t=38)** This can be done with the two TF Dataset function.
 >
@@ -1298,8 +1274,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Predicting with the custom model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980)
+#### [Predicting with the custom model](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,13 +1286,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=23)** We want to find the sentiment of two poem verses as shown here.
 >
-> **[0:29](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=29)** We create a Python dictionary with the similar structure as the Dataset object.
+> **[0:29](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=29)** We create a [[Python (Programming Language)|Python]] dictionary with the similar structure as the Dataset object.
 >
 > **[0:35](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=35)** We also have the labels here just for comparison sake.
 >
 > **[0:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=39)** They are not mandatory.
 >
-> **[0:41](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=41)** First, we create a Hugging Face dataset for inference using the from_dict method.
+> **[0:41](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=41)** First, we create a [[Hugging Face]] dataset for inference using the from_dict method.
 >
 > **[0:48](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/predicting-with-the-custom-model?u=76281980&t=48)** Then we create a dataset dictionary with this dataset.
 >
@@ -1357,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Code Identifiers:** from_dict (1), sentiment_model (1)
 > **Analogies:** similar to (2)
@@ -1368,8 +1343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inference challenges with Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980)
+#### [Inference challenges with Transformers](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1357,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980&t=34)** How well will that model perform for your specific use case and data?
 >
-> **[0:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980&t=39)** There are times when the existing model will work as is and deliver acceptable performance But in a lot of cases, the model needs to be customized with use case specific data sets Using transfer learning. Transformer models are huge, sometimes having more than a billion parameters.
+> **[0:39](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980&t=39)** There are times when the existing model will work as is and deliver acceptable performance But in a lot of cases, the model needs to be customized with use case specific data sets Using transfer learning. [[Transformer Models]] are huge, sometimes having more than a billion parameters.
 >
 > **[0:59](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980&t=59)** Each of these parameters will take a specified amount of memory based on that data type and precision.
 >
@@ -1413,13 +1387,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Transformer Models]] (1), next (1), power (1), parallel (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - transformers (1)
 
-#### Customizing pretrained models
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980)
+#### [Customizing pretrained models](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980&t=10)** When should we do customization?
 >
-> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980&t=12)** The first reason to customize a model is when the out-of-box Hugging Face model is not performing as per expectations.
+> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980&t=12)** The first reason to customize a model is when the out-of-box [[Hugging Face]] model is not performing as per expectations.
 >
 > **[0:21](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/customizing-pretrained-models?u=76281980&t=21)** If accuracy numbers are low for your use case, you should try to customize with use case-specific training data.
 >
@@ -1455,18 +1428,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hugging Face]] (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Cross-References:** previous chapter (1), we discussed (1)
 > **Speakers:** - [instructor] (1), - in (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** required to (1)
 
-#### Model compression overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/model-compression-overview?u=76281980)
+#### [Model compression overview](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/model-compression-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/model-compression-overview?u=76281980&t=0)** - [Instructor] One of the key techniques that is becoming popular in the deep learning world is model compression.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/model-compression-overview?u=76281980&t=0)** - [Instructor] One of the key techniques that is becoming popular in the [[Deep Learning]] world is model compression.
 >
 > **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/model-compression-overview?u=76281980&t=6)** Let's briefly explore the possibilities for model compression in this video.
 >
@@ -1514,23 +1486,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Deep Learning]] (1), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** float32 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serving multiple models
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980)
+#### [Serving multiple models](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=0)** - [Instructor] Let's look at scenarios where multiple NLP models are used in an ML solution.
 >
-> **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=6)** We may have to use multiple transformer models together to produce a single solution.
+> **[0:06](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=6)** We may have to use multiple [[Transformer Models]] together to produce a single solution.
 >
-> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=12)** An ML solution may use multiple related models to provide overall user experience.
+> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=12)** An ML solution may use multiple related models to provide overall [[User Experience (UX)|user experience]].
 >
 > **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/serving-multiple-models?u=76281980&t=18)** Solution design and deployment should consider this case and optimize across all models.
 >
@@ -1598,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), next (2), parallel (2), nlp (1), [[Transformer Models]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Transformer Models]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
@@ -1610,12 +1581,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980)
+#### [Continuing with Hugging Face](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980&t=0)** - [Instructor] Now that you have learned about how to build applications using pre-trained transformers in Hugging Face, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980&t=0)** - [Instructor] Now that you have learned about how to build applications using pre-trained transformers in [[Hugging Face]], you can take your learning even further.
 >
 > **[0:10](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980&t=10)** Customize a Hugging Face model with a new data set and review its performance.
 >
@@ -1631,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), nlp (2), data (1), ai (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

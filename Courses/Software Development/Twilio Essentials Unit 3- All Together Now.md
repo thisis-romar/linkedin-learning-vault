@@ -61,8 +61,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)
+#### [Introducing the project](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -74,13 +73,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=14)** If you're all caught up, welcome back.
 >
-> **[0:17](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=17)** Well ahoy there, Twilio developer, are you ready to apply some of those skills that you've been picking up along your journey?
+> **[0:17](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=17)** Well ahoy there, [[Twilio]] developer, are you ready to apply some of those skills that you've been picking up along your journey?
 >
 > **[0:22](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=22)** I love this part, the building part.
 >
 > **[0:25](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=25)** Now, I don't know about you, but when I'm learning something new, I try to learn by building a well known existing application using it.
 >
-> **[0:32](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=32)** This is common in the front-end web development world where they build a to-do list application in the bazillion front-end frameworks that exist.
+> **[0:32](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=32)** This is common in the front-end [[Web Development]] world where they build a to-do list application in the bazillion front-end frameworks that exist.
 >
 > **[0:39](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980&t=39)** It really lets you understand the intricacies of the specific bits of the framework.
 >
@@ -122,14 +121,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Twilio]] (2), front-end (2), [[Web Development]] (1), product (1)
+> **Frameworks & Libraries:** [[Twilio]] (2), [[Web Development]] (1)
 > **Env Vars:** fomo (3), pstn (1)
 > **Non-Speech:** (bright music) (1), (upbeat music) (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - hey (1)
 
-#### Serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980)
+#### [Serverless](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=18)** Your code just runs on someone else's server.
 >
-> **[0:22](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=22)** We've built our Twilio functions through the console UI, but there's another way to write Twilio function code.
+> **[0:22](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=22)** We've built our [[Twilio]] functions through the console UI, but there's another way to write Twilio function code.
 >
 > **[0:27](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=27)** And I'm excited to show off the serverless toolkit.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=38)** So let's go get it all set up.
 >
-> **[0:39](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=39)** The Twilio CLI allows for plug-ins.
+> **[0:39](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=39)** The Twilio [[CLI]] allows for plug-ins.
 >
 > **[0:41](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=41)** And one way to make your Twilio life so much easier is to use the serverless toolkit plugin.
 >
@@ -285,7 +283,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=239)** And again, the context has access to your environment and events has access to the information that was posted to it or actually query parameters or form fields that were posted to it.
 >
-> **[4:12](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=252)** And then callback is the callback that stops the JavaScript.
+> **[4:12](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=252)** And then callback is the callback that stops the [[JavaScript]].
 >
 > **[4:15](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=255)** So the callback takes an error parameter if any errors that occurred.
 >
@@ -539,7 +537,7 @@ created: 2026-05-02
 >
 > **[12:09](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=729)** If we go back here and we look in the assets directory, you'll see that there are some files that have been included.
 >
-> **[12:16](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=736)** And if we look at the server log again, we can see that there's this index.html.
+> **[12:16](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=736)** And if we look at the server log again, we can see that there's this index.[[HTML]].
 >
 > **[12:21](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/serverless?u=76281980&t=741)** So you can actually host index.html pages.
 >
@@ -561,7 +559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (23), web (6), api (3), [[CLI]] (2), cd (2)
+> **Frameworks & Libraries:** [[Twilio]] (23), [[CLI]] (2), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** url (4), sid (3), api (3), cli (2), password_for_ (1)
 > **CLI Commands:** make (10), cd (2)
 > **Tools:** terminal (6), visual studio (4), zsh (1), command line (1)
@@ -570,8 +568,7 @@ created: 2026-05-02
 > **File Paths:** index.html (2), reply.protected.js (1)
 > **Analogies:** it's like (2)
 
-#### Understanding conferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980)
+#### [Understanding conferences](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=5)** And that's what actually got me thinking about this originally.
 >
-> **[0:08](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=8)** Twilio has an awesome ability to create and maintain conference calls.
+> **[0:08](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=8)** [[Twilio]] has an awesome ability to create and maintain conference calls.
 >
 > **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=11)** Let's create one.
 >
@@ -779,7 +776,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=405)** It's in progress.
 >
-> **[6:46](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=406)** I'm going to go ahead and I'm going to grab that SID, that string identifier, and I'm going to go ahead and fetch that conference.
+> **[6:46](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=406)** I'm going to go ahead and I'm going to grab that SID, that string identifier, and I'm going to go ahead and [[Fetch]] that conference.
 >
 > **[6:52](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/understanding-conferences?u=76281980&t=412)** I'm going to take a look.
 >
@@ -861,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (8), api (6), data (2), hit (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Twilio]] (8), [[Fetch]] (1)
 > **Env Vars:** api (5), todo (1), url (1), sid (1)
 > **CLI Commands:** make (6)
 > **Tools:** command line (3)
@@ -870,8 +867,7 @@ created: 2026-05-02
 > **File Paths:** incoming-call.js (1)
 > **UI Navigation:** go to (1)
 
-#### Private data
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980)
+#### [Private data](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=10)** Heck, we don't even have the data model built yet.
 >
-> **[0:13](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=13)** I can see that those eventually will live in a database, and maybe we expose a REST API later, but now, we don't really even know what it feels like.
+> **[0:13](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=13)** I can see that those eventually will live in a database, and maybe we expose a [[Representational State Transfer (REST)|REST]] API later, but now, we don't really even know what it feels like.
 >
 > **[0:21](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=21)** I find that during prototype development, it's best to create a module that returns mock data that feels similar to how we anticipate things to behave in the future.
 >
@@ -915,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=79)** And I'm going to make my spaces, be two, into using two.
 >
-> **[1:23](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=83)** Now, this file that we're going to create is going to be a standard JavaScript module.
+> **[1:23](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=83)** Now, this file that we're going to create is going to be a standard [[JavaScript]] module.
 >
 > **[1:27](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=87)** Now, if you haven't seen one of those, no sweat at all.
 >
@@ -1003,7 +999,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=236)** Let's call that a code.
 >
-> **[3:58](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=238)** I don't really like the word slug.
+> **[3:58](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=238)** I don't really like the [[Microsoft Word|word]] slug.
 >
 > **[3:59](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=239)** And we'll make that code astronaut, okay?
 >
@@ -1281,7 +1277,7 @@ created: 2026-05-02
 >
 > **[12:18](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=738)** So we could change how this data was coming in.
 >
-> **[12:20](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=740)** Now, a reminder, this is an NPM project, so you can install any dependencies that you actually need.
+> **[12:20](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=740)** Now, a reminder, this is an [[npm]] project, so you can install any dependencies that you actually need.
 >
 > **[12:27](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=747)** Maybe we could also connect to a database from here.
 >
@@ -1289,7 +1285,7 @@ created: 2026-05-02
 >
 > **[12:30](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=750)** It's up to you.
 >
-> **[12:31](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=751)** But as long as we maintain this interface, our Twilio function code will continue to work.
+> **[12:31](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=751)** But as long as we maintain this interface, our [[Twilio]] function code will continue to work.
 >
 > **[12:37](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/private-data?u=76281980&t=757)** And this is a great way to build proof of concepts.
 >
@@ -1305,7 +1301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), api (5), [[JavaScript]] (3), database (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[npm]] (1), [[Twilio]] (1)
 > **CLI Commands:** make (8), find (2), node (1), npm (1)
 > **Env Vars:** api (5), todo (2), rest (1), phonemo (1), npm (1)
 > **Code Identifiers:** getupcomingtalks (4), getassets (3), getcurrenttalk (2)
@@ -1314,14 +1310,11 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is called (1), means that (1), is a  (1)
 > **Best Practices:** it's best to (1), the key is (1), remember to (1)
 
-#### Text registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/text-registration?u=76281980)
+#### [Text registration](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/text-registration?u=76281980)
 
-#### Call registrants
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/call-registrants?u=76281980)
+#### [Call registrants](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/call-registrants?u=76281980)
 
-#### Deploying
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980)
+#### [Deploying](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980&t=11)** Ready to deploy your application to the Cloud?
 >
-> **[0:13](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980&t=13)** Let's do this, twilio serverless:deploy.
+> **[0:13](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980&t=13)** Let's do this, [[Twilio]] serverless:deploy.
 >
 > **[0:18](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/deploying?u=76281980&t=18)** There we go.
 >
@@ -1565,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (11), node (4), application (2), hit (2), cloud (1)
+> **Frameworks & Libraries:** [[Twilio]] (11)
 > **Env Vars:** url (8), http (2), sms (1), smns (1), api (1)
 > **CLI Commands:** make (5), node (4)
 > **Definitions:** is a  (2)
@@ -1574,11 +1567,9 @@ created: 2026-05-02
 > **File Paths:** process.env (1)
 > **Code Identifiers:** getexpectedtwiliosignature (1)
 
-#### Texting a follow-up survey
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/texting-a-follow-up-survey?u=76281980)
+#### [Texting a follow-up survey](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/texting-a-follow-up-survey?u=76281980)
 
-#### Wrap up
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980)
+#### [Wrap up](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1579,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=3)** You should be proud of what you just built.
 >
-> **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=5)** And I also hope that you can feel your Twilio muscles forming.
+> **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=5)** And I also hope that you can feel your [[Twilio]] muscles forming.
 >
 > **[0:09](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=9)** I hope your mind is open too, with all sorts of new communications applications that you can build, and that you are thinking about how you can use your new superpowers in existing applications.
 >
@@ -1610,7 +1601,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=64)** Remember, if you run with this project and you end up getting some VC backing, I want to be invited to your launch party.
 >
-> **[1:12](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=72)** I've also added some practice ideas for more serverless application development as well as a couple of other project ideas that would look great on your GitHub.
+> **[1:12](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=72)** I've also added some practice ideas for more serverless [[Application Development]] as well as a couple of other project ideas that would look great on your [[GitHub]].
 >
 > **[1:20](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=80)** We'd love for you to share what you build.
 >
@@ -1628,7 +1619,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=115)** Now, while you can handle these from within your existing web application, at scale, this can sometimes prove to be difficult.
 >
-> **[2:02](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=122)** Like for instance, let's say that you build a customer support line with your Twilio skills, you wouldn't want it to stop working if your website becomes overloaded, or worse yet, if it goes down.
+> **[2:02](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=122)** Like for instance, let's say that you build a [[Customer Support]] line with your Twilio skills, you wouldn't want it to stop working if your website becomes overloaded, or worse yet, if it goes down.
 >
 > **[2:12](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/wrap-up?u=76281980&t=132)** Keeping your communications app scalable and separate is a great best practice.
 >
@@ -1658,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (5), cloud (1), application (1), web (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Twilio]] (5), [[Application Development]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)

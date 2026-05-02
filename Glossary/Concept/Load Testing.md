@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Artificial Intelligence (AI)
   - DevOps
-  - Web Development
+  - Database Management
 tags:
   - glossary
   - type/concept
@@ -16,8 +16,8 @@ tags:
   - topic/cloud-computing
   - topic/artificial-intelligence
   - topic/devops
-  - topic/web-development
-course_count: 23
+  - topic/database-management
+course_count: 24
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Load Testing
 
-> **Type:** Concept | **Courses:** 23 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Artificial Intelligence (AI)]], [[DevOps]], [[Web Development]]
+> **Type:** Concept | **Courses:** 24 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Artificial Intelligence (AI)]], [[DevOps]], [[Database Management]]
 
 ## Courses
 
@@ -40,20 +40,21 @@ created: 2026-05-02
 9. [[Framing Cloud Discussions for the C-Suite]] — 1 mentions
 10. [[Agile Testing]] — 1 mentions
 
-> [!note]- See all 23 courses
+> [!note]- See all 24 courses
 > 11. [[Integrating AI into the Product Architecture]] — 1 mentions
 > 12. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 1 mentions
 > 13. [[Learning Virtualization]] — 1 mentions
 > 14. [[AWS Essential Training for Architects]] — 1 mentions
 > 15. [[Java- Testing with JUnit]] — 1 mentions
 > 16. [[Advanced Gemini for Developers]] — 1 mentions
-> 17. [[Nail Your DevOps Interview]] — 1 mentions
-> 18. [[DevOps Tips]] — 1 mentions
-> 19. [[Implementing a Data Warehouse with SQL Server 2022]] — 1 mentions
-> 20. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
-> 21. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
-> 22. [[API Testing Foundations]] — 1 mentions
-> 23. [[Node.js- Testing and Code Quality]] — 1 mentions
+> 17. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 18. [[Nail Your DevOps Interview]] — 1 mentions
+> 19. [[DevOps Tips]] — 1 mentions
+> 20. [[Implementing a Data Warehouse with SQL Server 2022]] — 1 mentions
+> 21. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
+> 22. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 23. [[API Testing Foundations]] — 1 mentions
+> 24. [[Node.js- Testing and Code Quality]] — 1 mentions
 
 ## Learning Paths
 

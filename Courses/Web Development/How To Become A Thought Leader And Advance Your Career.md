@@ -68,12 +68,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does thought leadership mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980)
+#### [What does thought leadership mean?](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980&t=0)** - If you've been a job seeker for any amount of time, you've more than likely heard terms like personal branding or professional branding or thought leadership.
+> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980&t=0)** - If you've been a job seeker for any amount of time, you've more than likely heard terms like [[Personal Branding]] or professional branding or [[Thought Leadership]].
 >
 > **[0:12](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980&t=12)** All three are very common buzz phrases in the world of modern job search.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[Search]] (3), career (2), [[Personal Branding]] (1), power (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[Personal Branding]] (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
 > **Speakers:** - if (1)
 
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of a thought leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980)
+#### [Characteristics of a thought leader](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,19 +145,18 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980&t=117)** Not at all.
 >
-> **[1:59](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980&t=119)** So, if you're an individual contributor who knows your stuff and wants to be known for knowing your stuff, rest assured there's all kinds of opportunity for you to become a thought leader.
+> **[1:59](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980&t=119)** So, if you're an individual contributor who knows your stuff and wants to be known for knowing your stuff, [[Representational State Transfer (REST)|rest]] assured there's all kinds of opportunity for you to become a thought leader.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), power (1), teams (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - well (1)
 
-#### The importance of thought leadership for job seekers
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980)
+#### [The importance of thought leadership for job seekers](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=0)** - Why is building thought leadership so important for job seekers?
+> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=0)** - Why is building [[Thought Leadership]] so important for job seekers?
 >
 > **[0:06](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=6)** Where to begin?
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=134)** My absolute favorite and most valuable opportunity, you are looking at it.
 >
-> **[2:21](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=141)** A few years back, my thought leadership led to an invitation to support LinkedIn with a special video project.
+> **[2:21](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=141)** A few years back, my thought leadership led to an invitation to support [[LinkedIn]] with a special video project.
 >
 > **[2:28](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/the-importance-of-thought-leadership-for-job-seekers?u=76281980&t=148)** That project led to the opportunity to create a course for LinkedIn Learning, and then another course, and another one.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (3), [[Search]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - why (1)
 
@@ -214,12 +211,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establish your personal brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980)
+#### [Establish your personal brand](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=0)** - It's going to be mighty hard to build thought leadership if you aren't yet clear on what your personal brand actually is.
+> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=0)** - It's going to be mighty hard to build [[Thought Leadership]] if you aren't yet clear on what your personal brand actually is.
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=9)** Worse, if you're not working with intention to shape and socialize it, it doesn't mean you don't have a brand, you for sure do, you're just not thoughtfully managing it.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=63)** I recommend constructing a few quick sentences that spell it out.
 >
-> **[1:07](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=67)** For example, I want to be known for my team leadership and my ability to transform businesses through technology and innovation.
+> **[1:07](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=67)** For example, I want to be known for my [[Team Leadership]] and my ability to transform businesses through technology and innovation.
 >
 > **[1:16](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=76)** Another important question, what do I stand for?
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=103)** As a job seeker, I'd imagine you're most interested in influencing recruiters, but try and get a little bit more specific.
 >
-> **[1:52](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=112)** For example, maybe you're an IT professional with a strong interest in DevOps positions.
+> **[1:52](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=112)** For example, maybe you're an IT professional with a strong interest in [[DevOps]] positions.
 >
 > **[1:58](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980&t=118)** Perhaps you then decide that given your career goals, it will be valuable to get the attention of recruiters that specifically work on tech jobs.
 >
@@ -291,13 +287,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Thought Leadership]] (1), [[Team Leadership]] (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (1), [[Team Leadership]] (1), [[DevOps]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
 
-#### Identify your style
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980)
+#### [Identify your style](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,13 +314,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=77)** A curator is someone who finds and shares interesting articles, videos, news announcements, trend pieces, and so forth.
 >
-> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=86)** LinkedIn is a great place to curate, and let me tell you, I appreciate the curators in my LinkedIn feed so much because I don't have tons of time most days to go digging around for interesting information related to my field.
+> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=86)** [[LinkedIn]] is a great place to curate, and let me tell you, I appreciate the curators in my LinkedIn feed so much because I don't have tons of time most days to go digging around for interesting information related to my field.
 >
 > **[1:42](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=102)** But it's really important that I stay current.
 >
 > **[1:45](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=105)** My curators make it easy for me, and in the process, they consistently affirm to me that there are people who are passionate, engaged, and in the know in the areas of job search and careers.
 >
-> **[1:57](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=117)** The point I'm trying to make, you don't have to be everywhere, and you most definitely don't need to be a speaker, a writer, and a curator to be successful in building thought leadership.
+> **[1:57](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=117)** The point I'm trying to make, you don't have to be everywhere, and you most definitely don't need to be a speaker, a writer, and a curator to be successful in building [[Thought Leadership]].
 >
 > **[2:09](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/identify-your-style?u=76281980&t=129)** You just need to be willing and able to use one in order to connect with the right people.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Search]] (1), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Thought Leadership]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - after (1)
@@ -345,12 +340,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write your own thought content
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980)
+#### [Write your own thought content](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=0)** - Let's say you've determined that writing is your bag, and you plan to use this as your primary means of building thought leadership.
+> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=0)** - Let's say you've determined that writing is your bag, and you plan to use this as your primary means of building [[Thought Leadership]].
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=9)** Now what?
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=113)** Think about where these topics would fit best.
 >
-> **[1:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=116)** I'll argue that for a lot of professionals, LinkedIn is your gold standard platform when you're trying to build thought leadership.
+> **[1:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=116)** I'll argue that for a lot of professionals, [[LinkedIn]] is your gold standard platform when you're trying to build thought leadership.
 >
 > **[2:04](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=124)** That's probably where your professional network is, but you may be in a field more prone to using Instagram or Quora or Twitter.
 >
@@ -418,16 +412,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (3), next (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### Create audio or video content
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980)
+#### [Create audio or video content](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=0)** - If you've decided that your best path to thought leadership and a future job opportunity is through audio or video, you've got a lot of options.
+> **[0:00](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=0)** - If you've decided that your best path to [[Thought Leadership]] and a future job opportunity is through audio or video, you've got a lot of options.
 >
 > **[0:11](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=11)** And that's great news, but it can also feel a little bit daunting as you work out which format and which platforms will best support what you're trying to accomplish.
 >
@@ -451,7 +444,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=80)** Which platforms will be most relevant to your industry, your role, and who you're trying to reach?
 >
-> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=86)** Among the most common social media platforms for prerecorded and live content are LinkedIn, Instagram, Facebook and YouTube.
+> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=86)** Among the most common social media platforms for prerecorded and live content are [[LinkedIn]], Instagram, Facebook and YouTube.
 >
 > **[1:38](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=98)** Oh, and a quick heads up, if you do want to use LinkedIn for live video, you need to apply for that privilege.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
@@ -498,8 +491,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### Become a content curator
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980)
+#### [Become a content curator](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980&t=11)** It's true.
 >
-> **[0:12](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980&t=12)** That's because there's this awesome thing called content creation, available to you, to me, and anyone else on the planet.
+> **[0:12](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980&t=12)** That's because there's this awesome thing called [[Content Creation]], available to you, to me, and anyone else on the planet.
 >
 > **[0:21](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/become-a-content-curator?u=76281980&t=21)** You probably have some curators in your own networks, even as we speak, even if you don't realize it.
 >
@@ -543,11 +535,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Content Creation]] (1), career (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1)
 > **Speakers:** - you (1)
 
-#### Pitching content to media outlets and influencers
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980)
+#### [Pitching content to media outlets and influencers](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,13 +596,13 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980&t=195)** Just scan through it, and if you see a topic that aligns with your expertise, follow the pitch instructions and submit, I've included a sample HARO pitch in the exercise files as well, but again, follow that journalist exact instructions.
 >
-> **[3:36](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980&t=216)** HARO, by the way, may be exactly how Enrico in engineering is scoring media coverage, and in turn, building his own thought leadership.
+> **[3:36](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980&t=216)** HARO, by the way, may be exactly how Enrico in engineering is scoring media coverage, and in turn, building his own [[Thought Leadership]].
 >
 > **[3:47](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/pitching-content-to-media-outlets-and-influencers?u=76281980&t=227)** Thought leadership that might go a long way as he works to advance his career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), career (2), [[Thought Leadership]] (2), next (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (2)
 > **Env Vars:** haro (4)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (2)
@@ -619,8 +610,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
 
-#### Seek out speaking opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980)
+#### [Seek out speaking opportunities](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=59)** If you're somebody who manages professional conferences or events, I am sure that you already know how challenging it can be to find people to speak on the hot topics in your field.
 >
-> **[1:10](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=70)** But most of the rest of us, we don't even realize this.
+> **[1:10](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=70)** But most of the [[Representational State Transfer (REST)|rest]] of us, we don't even realize this.
 >
 > **[1:13](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=73)** And this alone can make you miss out on incredible opportunities to showcase your wicked smarts to a wide audience.
 >
@@ -648,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=97)** And if you don't see one, just proactively reach out and ask what their process is for interested speakers.
 >
-> **[1:44](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=104)** Next. get your Google sleuthing on.
+> **[1:44](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=104)** Next. get your [[Google]] sleuthing on.
 >
 > **[1:48](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=108)** You're almost always going to find an upcoming workshop, a conference, a virtual event, an expo related to your field if you use a little bit of strategy and creativity with the great Google.
 >
@@ -656,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=129)** So for example, if you're an actuary with something to say, you might want to start by Googling actuary conference.
 >
-> **[2:18](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=138)** If you're an IT person with a passion for information security, maybe you start with virtual cybersecurity workshop.
+> **[2:18](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=138)** If you're an IT person with a passion for information security, maybe you start with virtual [[Cybersecurity]] workshop.
 >
 > **[2:28](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=148)** Play around with it and see what you come up with.
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=161)** Maybe you start with something at your own company like a lunch and learn.
 >
-> **[2:46](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=166)** Reserve a conference room or, if you're all virtual, set up a Zoom event and then share your knowledge while everyone's enjoying their sandwich or salad.
+> **[2:46](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=166)** Reserve a conference room or, if you're all virtual, set up a [[Zoom]] event and then share your knowledge while everyone's enjoying their sandwich or salad.
 >
 > **[2:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/seek-out-speaking-opportunities?u=76281980&t=176)** Now, not everyone is a speaker and that's A-okay if this just isn't your jam.
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1), [[Zoom]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Prerequisites:** getting started (1), set up (1)
 > **Env Vars:** ted (1)
@@ -690,8 +680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Engage people vs. talking at them
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980)
+#### [Engage people vs. talking at them](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +688,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=15)** Oh man, you see this everywhere.
 >
-> **[0:18](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=18)** In Zoom workshops at keynotes in meetings, and most definitely on social media platforms, including LinkedIn.
+> **[0:18](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=18)** In [[Zoom]] workshops at keynotes in meetings, and most definitely on social media platforms, including [[LinkedIn]].
 >
 > **[0:29](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=29)** It's that mouthpiece person who just wants to get his or her point across without actually taking the time to connect with the people on the receiving end of that message, right?
 >
@@ -719,11 +708,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=83)** They want to hear stories versus lectures.
 >
-> **[1:27](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=87)** Shoot, if we wanted a lecture, we could just jump into a time machine back to our teenage years and walk in the door past curfew, or enroll, I don't know, in some sort of dry, boring statistics class.
+> **[1:27](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=87)** Shoot, if we wanted a lecture, we could just jump into a time machine back to our teenage years and walk in the door past curfew, or enroll, I don't know, in some sort of dry, boring [[Statistics]] class.
 >
 > **[1:41](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=101)** Most humans just dial out when being lectured to or talked at.
 >
-> **[1:46](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=106)** And that's not at all what you're going for as you work to build thought leadership.
+> **[1:46](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=106)** And that's not at all what you're going for as you work to build [[Thought Leadership]].
 >
 > **[1:52](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980&t=112)** Your ticket to building credibility and thought leadership, no matter what you do or what professional brand you're trying to get across.
 >
@@ -738,8 +727,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Zoom]] (1), [[LinkedIn]] (1), [[Statistics]] (1)
 > **Speakers:** - i (1)
 
-#### Help people
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980)
+#### [Help people](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980&t=34)** Or your help may be more organized and intentional.
 >
-> **[0:38](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980&t=38)** Maybe you set up monthly office hours, or offer to mentor up-and-comers in your field, or you volunteer to moderate a panel at an industry event.
+> **[0:38](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980&t=38)** Maybe you set up monthly [[Microsoft Office|office]] hours, or offer to mentor up-and-comers in your field, or you volunteer to moderate a panel at an industry event.
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/help-people?u=76281980&t=49)** The possibilities are nearly endless when it comes to ways you can help people.
 >
@@ -767,13 +755,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - perhaps (1)
 
-#### Stay on brand as a thought leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/stay-on-brand-as-a-thought-leader?u=76281980)
+#### [Stay on brand as a thought leader](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/stay-on-brand-as-a-thought-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,16 +794,15 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/stay-on-brand-as-a-thought-leader?u=76281980&t=130)** But since I don't know a lot about electric cars and I don't really see a reason or a way to tie that into my professional brand, I'm not going to spend a lot of time talking about them.
 >
-> **[2:24](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/stay-on-brand-as-a-thought-leader?u=76281980&t=144)** The key point here is this, the more closely you can stay on brand as you work to establish thought leadership, the easier it becomes for people to associate you with the very things that matter most.
+> **[2:24](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/stay-on-brand-as-a-thought-leader?u=76281980&t=144)** The key point here is this, the more closely you can stay on brand as you work to establish [[Thought Leadership]], the easier it becomes for people to associate you with the very things that matter most.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), game (1), [[Search]] (1), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Walk your talk
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980)
+#### [Walk your talk](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980&t=101)** But that's my point.
 >
-> **[1:43](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980&t=103)** If you want to be known as the expert in your field or most certainly one of them, if you want people to stop and pay attention to you, if you want to leverage your thought leadership to advance your career, then you have to believe that you have something special to offer, something that's different than everyone else out there.
+> **[1:43](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980&t=103)** If you want to be known as the expert in your field or most certainly one of them, if you want people to stop and pay attention to you, if you want to leverage your [[Thought Leadership]] to advance your career, then you have to believe that you have something special to offer, something that's different than everyone else out there.
 >
 > **[2:05](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/walk-your-talk?u=76281980&t=125)** What about you is special or interesting or valuable or unique?
 >
@@ -870,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)
 > **Definitions:** known as (1)
@@ -881,8 +867,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maximize your impact in minimal time
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980)
+#### [Maximize your impact in minimal time](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=80)** Here are three tips that'll help you get started.
 >
-> **[1:23](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=83)** First, set up Google alerts, which will allow you to track specific topics based on keywords and get alerts emailed to you as they come up.
+> **[1:23](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=83)** First, set up [[Google]] alerts, which will allow you to track specific topics based on keywords and get alerts emailed to you as they come up.
 >
 > **[1:35](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=95)** I've got a few set up, including job search trends and resume best practices.
 >
@@ -920,11 +905,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=117)** This way, no matter how fast you're moving on any given day, you can capture your thoughts as they pop into your head and then move on with whatever you're doing.
 >
-> **[2:07](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=127)** A few simple tools I'd check out for this are Evernote, Microsoft OneNote, and Apple Notes.
+> **[2:07](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=127)** A few simple tools I'd check out for this are Evernote, [[Microsoft]] [[OneNote]], and Apple Notes.
 >
 > **[2:14](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=134)** But there are a lot of options for note capture and you really just need one.
 >
-> **[2:19](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=139)** And last, at the beginning of each week, look at your calendar and block off one or two windows that you're going to use for this specific purpose.
+> **[2:19](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=139)** And last, at the beginning of each week, look at your calendar and block off one or two [[Windows]] that you're going to use for this specific purpose.
 >
 > **[2:29](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=149)** Again, they don't have to be giant chunks of time.
 >
@@ -934,7 +919,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=165)** I can't emphasize this enough, because if you don't know what you're settling in to accomplish, you're going to eat up some or all of that window before you even get started.
 >
-> **[2:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=176)** So give yourself an assignment, share Forbes article, or post photo from Zoom workshop, or complete application to become a LinkedIn Live broadcaster, something!
+> **[2:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=176)** So give yourself an assignment, share Forbes article, or post photo from [[Zoom]] workshop, or complete application to become a [[LinkedIn]] Live broadcaster, something!
 >
 > **[3:08](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980&t=188)** Just make sure you know what you're there to do so you can get right down to business.
 >
@@ -942,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), business (2), [[Google]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[OneNote]] (1), [[Windows]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)

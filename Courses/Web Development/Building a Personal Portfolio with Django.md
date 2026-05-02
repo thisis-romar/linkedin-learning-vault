@@ -80,18 +80,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a website with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
+#### [Creating a website with Python](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=0)** - [Nick] Have you ever wanted to showcase your Python skills through a website portfolio?
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=0)** - [Nick] Have you ever wanted to showcase your [[Python (Programming Language)|Python]] skills through a website portfolio?
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=5)** We will be creating a website using Django from the ground up.
+> **[0:05](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=5)** We will be creating a website using [[Django]] from the ground up.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=8)** We'll create a database, organize URL paths, and design the interface.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=13)** Some key topics that'll help us on our journey include static files, setting up a Postgres database, models, and using the admin interface.
+> **[0:13](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=13)** Some key topics that'll help us on our journey include static files, setting up a [[PostgreSQL|Postgres]] database, models, and using the admin interface.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980&t=23)** I'm Nick Walter, a mobile and Python developer who loves working with Django for personal and professional projects.
 >
@@ -99,23 +98,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (2), database (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Python (Programming Language)|Python]] (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** url (1)
 > **Speakers:** - [nick] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=0)** - [Instructor] I'd like to take a moment to just cover what you should know before starting this course.
 >
-> **[0:04](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=4)** First, you should have the basics of Python 3 down.
+> **[0:04](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=4)** First, you should have the basics of [[Python (Programming Language)|Python]] 3 down.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=7)** We'll be using 3.7, but any Python 3 will work.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=12)** Next, you're gonna want to have Django 2.1 installed on your computer.
+> **[0:12](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=12)** Next, you're gonna want to have [[Django]] 2.1 installed on your computer.
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=16)** If you need any help with that, you can go to [djangoproject.com](https://djangoproject.com).
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=21)** Next, you should have some basic terminal knowledge.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=24)** We're gonna be moving in and out of directories, and I'll walk you through the rest there.
+> **[0:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=24)** We're gonna be moving in and out of directories, and I'll walk you through the [[Representational State Transfer (REST)|rest]] there.
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=28)** Next, you'll need a text editor to edit your code.
 >
@@ -131,13 +129,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=33)** That's what I'll be using, but completely up to you there.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=35)** And finally, you'll need some basic knowledge of HTML.
+> **[0:35](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=35)** And finally, you'll need some basic knowledge of [[HTML]].
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/what-you-should-know?u=76281980&t=39)** Nothing too advanced, but at least know what some HTML tags are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** python 3 (2), 3.7 (1), 2.1 (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** html (2)
@@ -151,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +175,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Analogies:** picture (2), for example (1)
 > **UI Navigation:** click on (1), go to (1)
 > **CLI Commands:** make (1)
@@ -190,12 +186,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting a new project in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
+#### [Starting a new project in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980&t=0)** - [Instructor] Alright, let's go ahead and get started building this website with Django.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980&t=0)** - [Instructor] Alright, let's go ahead and get started building this website with [[Django]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980&t=4)** Now in order to kick things off, we need to move into our terminal to start our Django project.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (10), hit (3), cd (2)
+> **Frameworks & Libraries:** [[Django]] (10)
 > **CLI Commands:** cd (2), make (2), ls (2), python3 (1)
 > **Tools:** terminal (3), atom (1)
 > **File Paths:** manage.py (3)
@@ -310,12 +305,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 
-#### Creating a Django app in a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-django-app-in-a-project?u=76281980)
+#### [Creating a Django app in a project](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-django-app-in-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-django-app-in-a-project?u=76281980&t=0)** - [Instructor] We've just finished creating a Django project.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-django-app-in-a-project?u=76281980&t=0)** - [Instructor] We've just finished creating a [[Django]] project.
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-django-app-in-a-project?u=76281980&t=3)** Now it's time to create an app in our Django project, and I sorta wanna walk through this and give you better understanding of what's the difference between a project and an app.
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (13), hit (4), web (1)
+> **Frameworks & Libraries:** [[Django]] (13)
 > **CLI Commands:** make (7)
 > **Tools:** terminal (3), atom (1)
 > **File Paths:** settings.py (1)
@@ -413,12 +407,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up URLs in your Django project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980)
+#### [Setting up URLs in your Django project](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=0)** - [Tutor] We're now going to walk through how URL paths work in Django.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=0)** - [Tutor] We're now going to walk through how URL paths work in [[Django]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=4)** And the basic idea behind this is whenever someone visits a website, there's the base name of the website, in our case, is just a string of letters here.
 >
@@ -440,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=38)** I have nothing to show back for that.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=40)** And that's we're going to change here, we're going to go through the whole URL path routing to eventually send back some information saying, This is what you're looking for.
+> **[0:40](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=40)** And that's we're going to change here, we're going to go through the whole URL path [[Routing]] to eventually send back some information saying, This is what you're looking for.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=49)** So let's go ahead and move into Atom.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=174)** We have to have the parameter called request, we're going to do a colon.
 >
-> **[2:58](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=178)** And essentially, we need to return back some HTML to the user.
+> **[2:58](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=178)** And essentially, we need to return back some [[HTML]] to the user.
 >
 > **[3:02](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=182)** So we can do that using this render here.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=275)** Because we don't actually want a slash nick on our website.
 >
-> **[4:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=278)** But essentially what has happened here, when someone types in the name of the website slash nick, it moves into our urls.py and says, out of all these URL patterns, Does any of them match the word nick, and look, there's this one right here.
+> **[4:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=278)** But essentially what has happened here, when someone types in the name of the website slash nick, it moves into our urls.py and says, out of all these URL patterns, Does any of them match the [[Microsoft Word|word]] nick, and look, there's this one right here.
 >
 > **[4:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-urls-in-your-django-project?u=76281980&t=294)** And it says, okay, we need to go send them to the views file, and look at this nick function.
 >
@@ -600,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (12), [[Django]] (7), [[Routing]] (2), next (2), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (12), [[Django]] (7), [[Routing]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (8), html (7)
 > **File Paths:** home.html (3), views.py (2), url.py (1), nick.html (1), jobs/nick.html (1)
 > **CLI Commands:** make (4)
@@ -614,8 +607,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the models in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
+#### [Creating the models in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,9 +619,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=31)** Now what is a model?
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=32)** A model is essentially just a Python class that can be saved into a database.
+> **[0:32](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=32)** A model is essentially just a [[Python (Programming Language)|Python]] class that can be saved into a database.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=37)** Django does a great job of transforming our class into the database and back all seamlessly for us.
+> **[0:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=37)** [[Django]] does a great job of transforming our class into the database and back all seamlessly for us.
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980&t=44)** So inside of our jobs folder, which is the jobs app, we're gonna move into the models.py.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Python (Programming Language)|Python]] (4), [[Django]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Django]] (2)
 > **CLI Commands:** python (4), make (2), pip (1), pip3 (1)
 > **Tools:** atom (2), terminal (1)
 > **Definitions:** is a  (2), essentially is (1)
@@ -692,14 +684,13 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Prerequisites:** you need to have (1), install (1)
 
-#### Postgres setup for Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980)
+#### [Postgres setup for Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=0)** - [Instructor] Let's have a little discussion about databases.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=0)** - [Instructor] Let's have a little discussion about [[Databases]].
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=3)** The great thing about Django is it's made to work with lots of different databases.
+> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=3)** The great thing about [[Django]] is it's made to work with lots of different databases.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=8)** In fact, you may have noticed, if we go ahead and open up our portfolio project there's this mysterious little file here called 'db.sqlite3' and that in fact, Django comes with a database ready to rock and roll.
 >
@@ -713,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=46)** That's the default in every Django project but there's lots of different databases that Django can work with.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=53)** One of the most popular ones is 'PostgreSQL' so that's the one that I want to teach you because it's the most relevant.
+> **[0:53](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=53)** One of the most popular ones is '[[PostgreSQL]]' so that's the one that I want to teach you because it's the most relevant.
 >
 > **[0:59](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=59)** And so, what we're going to do is go through the process of installing PostgreSQL so that we can then come back to this 'settings.py' file and get the connection to the PostgreSQL database all set up.
 >
@@ -727,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=98)** We're going to go to macOS.
 >
-> **[1:41](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=101)** And inside of macOS there's lots of different versions here but the one that I like is '[POSTGRES.APP](https://POSTGRES.APP)'.
+> **[1:41](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=101)** And inside of macOS there's lots of different versions here but the one that I like is '[[[PostgreSQL|POSTGRES]].APP](https://POSTGRES.APP)'.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=107)** This is very user-friendly, straight-forward, and simple.
 >
@@ -801,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (13), database (11), [[PostgreSQL|Postgres]] (6), [[Databases]] (4), [[Django]] (4)
+> **Frameworks & Libraries:** [[PostgreSQL]] (13), [[PostgreSQL|Postgres]] (6), [[Databases]] (4), [[Django]] (4)
 > **CLI Commands:** make (4), sqlite3 (3)
 > **Env Vars:** databases (1), downloads (1), postgres (1), app (1), create (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
@@ -810,14 +801,13 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **URLs:** [postgresql.org](https://postgresql.org) (1), [postgres.app](https://postgres.app) (1)
 
-#### Connecting your Django project to Postgres
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980)
+#### [Connecting your Django project to Postgres](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=0)** - [Instructor] So we've created a new database in PostGreS.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=0)** - [Instructor] So we've created a new database in [[PostgreSQL|PostGreS]].
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=3)** Now we need to let our Django project know about it and connect to it.
+> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=3)** Now we need to let our [[Django]] project know about it and connect to it.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=8)** So let's go ahead and move back in to Adam.
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=37)** Instead of sqLite3, we're going to tell Django that we want work with a PostGreS database.
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=43)** So we're going to type in here: PostGresql, okay, all one word there, keep that django.db.backends.postgresql.
+> **[0:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=43)** So we're going to type in here: [[PostgreSQL]], okay, all one [[Microsoft Word|word]] there, keep that django.db.backends.postgresql.
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=53)** Next, for the name: this is simply just going to be whatever the name of our database is.
 >
@@ -865,7 +855,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=157)** So those two things are one and the same, I think that's a fun little anecdote that will help things make more sense.
 >
-> **[2:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=163)** Alright, one more thing we've just gotta add here and that is the port number, so all caps: let's type out "port" and remember we had specified in the settings that we wanted the port number to be five four three two, that's the default for Postgres databases, okay?
+> **[2:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=163)** Alright, one more thing we've just gotta add here and that is the port number, so all caps: let's type out "port" and remember we had specified in the settings that we wanted the port number to be five four three two, that's the default for Postgres [[Databases]], okay?
 >
 > **[3:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=180)** So with this information now in the settings.py, essentially what we're saying is "Django, for the database, we want you to look to this Postgres database with the name portfoliodb, the username Postgres, password, all that information, so now it should look over there.
 >
@@ -881,7 +871,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=245)** Once we have this up, we should be able to move back to our browser here, reload this, and now have no issues.
 >
-> **[4:14](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=254)** Now, one thing that I would like to point out here, if you're on Windows you won't see this error but here on the Mac you'll get this little identifier here that's saying, "hey, you know, there might be in new version coming out you might need this binary version of this."
+> **[4:14](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=254)** Now, one thing that I would like to point out here, if you're on [[Windows]] you won't see this error but here on the Mac you'll get this little identifier here that's saying, "hey, you know, there might be in new version coming out you might need this binary version of this."
 >
 > **[4:28](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-your-django-project-to-postgres?u=76281980&t=268)** So if you just copy the line that we have here, pip_install with the dash binary, and I'll go ahead and do a control C to get out of the server; we'll paste this in.
 >
@@ -893,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[PostgreSQL|Postgres]] (10), [[Django]] (5), next (4), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (10), [[Django]] (5), [[PostgreSQL]] (2), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **CLI Commands:** sqlite3 (4), make (3), pip3 (2), pip (1)
 > **Code Identifiers:** sqlite3 (4), pip_install (1)
 > **Prerequisites:** install (3)
@@ -902,14 +892,13 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Tools:** terminal (1)
 
-#### Make Django migrations and migrate
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980)
+#### [Make Django migrations and migrate](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=0)** - [Instructor] It's time to address a little bit of an elephant that's been in the room, and that's every time that we run our server here, you see this red text that says, "You have 15 unapplied migrations."
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=10)** And you might be thinking, "Well, what are these "migrations that Django's yelling at me about?"
+> **[0:10](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=10)** And you might be thinking, "Well, what are these "migrations that [[Django]]'s yelling at me about?"
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=15)** Well, that's what we're gonna cover here.
 >
@@ -979,7 +968,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=191)** So to do this, we wanna stop running our server, Control-C, and we're gonna say, "python3 manage.py", and now we want to do migrate.
 >
-> **[3:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=202)** Just simple as that, so go ahead and hit enter on this, and essentially what's happening here is it's running through all 16 of those migrations and it's getting the PostgreS database that we just did all the code to connect to all set up for our starting point here.
+> **[3:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=202)** Just simple as that, so go ahead and hit enter on this, and essentially what's happening here is it's running through all 16 of those migrations and it's getting the [[PostgreSQL|PostgreS]] database that we just did all the code to connect to all set up for our starting point here.
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/make-django-migrations-and-migrate?u=76281980&t=218)** So the big moment for us here, if we run our server one more time, you'll notice it just fires up.
 >
@@ -987,7 +976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Django]] (5), hit (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (4), python3 (2)
 > **Tools:** terminal (3), atom (2)
 > **File Paths:** manage.py (2), models.py (1), settings.py (1)
@@ -996,12 +985,11 @@ created: 2026-05-02
 > **Env Vars:** installed_apps (1)
 > **Definitions:** is a  (1)
 
-#### Setting up an admin panel in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-an-admin-panel-in-django?u=76281980)
+#### [Setting up an admin panel in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-an-admin-panel-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-an-admin-panel-in-django?u=76281980&t=0)** - So, now that our database has been migrated, we're ready to start adding things into the database, seeing what's inside of there, and luckily for us, Django has an awesome way to work with a database, and that is through the admin.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-an-admin-panel-in-django?u=76281980&t=0)** - So, now that our database has been migrated, we're ready to start adding things into the database, seeing what's inside of there, and luckily for us, [[Django]] has an awesome way to work with a database, and that is through the admin.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/setting-up-an-admin-panel-in-django?u=76281980&t=13)** Now, if we go ahead and move back into our project, you'll see some clues that this admin exists.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Django]] (4), hit (1), prompt (1)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **File Paths:** urls.py (1), manage.py (1), admin.py (1)
 > **CLI Commands:** make (2), python3 (1)
 > **Tools:** terminal (2), atom (1)
@@ -1114,14 +1102,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Creating model objects via the admin panel in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980)
+#### [Creating model objects via the admin panel in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980&t=0)** - [Instructor] So we've come to an exciting point in our project.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980&t=3)** We did a lot of work to get our database up and running, get it connected with our Django project.
+> **[0:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980&t=3)** We did a lot of work to get our database up and running, get it connected with our [[Django]] project.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-model-objects-via-the-admin-panel-in-django?u=76281980&t=8)** We're now gonna be creating our very first job object.
 >
@@ -1209,7 +1196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Django]] (3), hit (3)
+> **Frameworks & Libraries:** [[Django]] (3)
 > **CLI Commands:** make (6)
 > **Env Vars:** save (2), add (1), job (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1218,8 +1205,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** atom (1)
 
-#### Pulling objects from the database in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980)
+#### [Pulling objects from the database in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,7 +1215,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=13)** And not just in this admin side, right?
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=15)** This admin part of our Django project should never be seen by someone visiting your website.
+> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=15)** This admin part of our [[Django]] project should never be seen by someone visiting your website.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=21)** If someone could come to your portfolio and say I'm gonna add jobs for you.
 >
@@ -1243,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=41)** So let's go ahead and move over into Adam.
 >
-> **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=45)** And we're gonna move to our views.py, and this is where we sort of prepare a html file to be shown in this case, right, our home.html.
+> **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=45)** And we're gonna move to our views.py, and this is where we sort of prepare a [[HTML]] file to be shown in this case, right, our home.html.
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=54)** So we're gonna write a little bit of code to grab all the jobs from our database and send them forward to this home.html.
 >
@@ -1297,7 +1283,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=203)** Okay, and then below, this is where we want to loop though all the lists.
 >
-> **[3:27](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=207)** So this is where things get a little bit interesting because we're not gonna just be writing regular html code, we're gonna do sort of this middle ground here that's not exactly python code either.
+> **[3:27](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=207)** So this is where things get a little bit interesting because we're not gonna just be writing regular html code, we're gonna do sort of this middle ground here that's not exactly [[Python (Programming Language)|python]] code either.
 >
 > **[3:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/pulling-objects-from-the-database-in-django?u=76281980&t=217)** It's this special language for creating html files in Django that can display things that have been passed into it.
 >
@@ -1353,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), database (7), [[Django]] (5), [[Python (Programming Language)|Python]] (4), next (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Django]] (5), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** make (4), python (4)
 > **File Paths:** home.html (4), views.py (1)
 > **Cross-References:** go back to (1)
@@ -1366,8 +1352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bootstrap overview and installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
+#### [Bootstrap overview and installation](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,7 +1372,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=45)** And once you're there, scroll down to where you can see Album and click on that.
 >
-> **[0:49](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=49)** And then we need to get the HTML code for this Album page.
+> **[0:49](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=49)** And then we need to get the [[HTML]] code for this Album page.
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=54)** So I'm gonna right click here in Chrome, and Chrome by default, you can have this option to view page source.
 >
@@ -1401,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=92)** We essentially just have to beautify it there.
 >
-> **[1:34](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=94)** But let's just go ahead and save what we have for now, move back to our browser, and if we go ahead and reload the homepage, well, you can see it's fallen a lot short of what you've seen over here that should be the example of this site, and the big reason for this is with Bootstrap, you have to import their libraries of CSS in JavaScript.
+> **[1:34](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=94)** But let's just go ahead and save what we have for now, move back to our browser, and if we go ahead and reload the homepage, well, you can see it's fallen a lot short of what you've seen over here that should be the example of this site, and the big reason for this is with Bootstrap, you have to import their libraries of CSS in [[JavaScript]].
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980&t=118)** So in order to get this to work, we're gonna move back to the Bootstrap Homepage, and if we click on this Get started here.
 >
@@ -1437,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (4), css (4), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (4)
 > **Env Vars:** html (3), css (3)
 > **Tools:** atom (3), safari (1), firefox (1)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -1445,8 +1430,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Page layout and templates in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980)
+#### [Page layout and templates in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=7)** You can see there's this toolbar menu at the top which is very nice but not what we want for our particular website.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=14)** There's this footer here that we don't need and so let's move over to Atom and start trimming back the HTML and customizing it so it looks more and more like our website.
+> **[0:14](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=14)** There's this footer here that we don't need and so let's move over to Atom and start trimming back the [[HTML]] and customizing it so it looks more and more like our website.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=24)** So, we'll move over back into Atom here.
 >
@@ -1518,7 +1502,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=170)** We have two buttons here.
 >
-> **[2:52](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=172)** You could choose to have two buttons, maybe one could go to your Twitter account, another one to your GitHub or some other sort of page.
+> **[2:52](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=172)** You could choose to have two buttons, maybe one could go to your Twitter account, another one to your [[GitHub]] or some other sort of page.
 >
 > **[3:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/page-layout-and-templates-in-django?u=76281980&t=180)** I think it'd be really nice if we just had a button that would allow someone to send an email to us.
 >
@@ -1578,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[GitHub]] (1)
 > **Tools:** atom (6), github (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (2)
@@ -1587,8 +1571,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Adding static images to your Django project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980)
+#### [Adding static images to your Django project](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,13 +1595,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=99)** Great, so we have this picture of ourselves inside of our jobs app, essentially it's inside of the stack folder, but in the bigger picture it's a part of the jobs app.
 >
-> **[1:51](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=111)** The next thing that we need to do is we need to tell Django where to be looking for this information, and how to display, ultimately that, to the user.
+> **[1:51](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=111)** The next thing that we need to do is we need to tell [[Django]] where to be looking for this information, and how to display, ultimately that, to the user.
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=119)** So we're gonna move over into Atom, we're gonna go to our settings, let's open up the portfolio folder and go to our settings, and we're gonna be scrolling all the way down on this file.
 >
 > **[2:13](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=133)** So you can always, already see that there's something there called the static URL.
 >
-> **[2:17](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=137)** That's essentially whenever you have a static file like an image, or some CSS, right, they're saying JavaScript here, that's some examples of things that you can have, it's gonna say: where should they show up?
+> **[2:17](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=137)** That's essentially whenever you have a static file like an image, or some CSS, right, they're saying [[JavaScript]] here, that's some examples of things that you can have, it's gonna say: where should they show up?
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/adding-static-images-to-your-django-project?u=76281980&t=148)** Should it be in a local host colon eight thousand slash static?
 >
@@ -1656,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), next (3), database (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[JavaScript]] (1)
 > **Env Vars:** url (5), static_root (3), static_url (2), css (1), base (1)
 > **Analogies:** picture (9), just like (1)
 > **UI Navigation:** go to (3), drag and drop (2)
@@ -1665,8 +1648,7 @@ created: 2026-05-02
 > **Tools:** atom (2)
 > **File Paths:** settings.py (1)
 
-#### Collectstatic in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980)
+#### [Collectstatic in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1658,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=8)** This Nick.jpg is just ready for the world to see, but it's not quite there yet but we're fixing it right now.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=15)** What we need to do is with any static files that we have a Django project is that they need to be collected.
+> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=15)** What we need to do is with any static files that we have a [[Django]] project is that they need to be collected.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=21)** And Django's pretty great about this, that you can have static in a bunch of different apps and that's gonna bring them to all one central location.
 >
@@ -1684,7 +1666,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=35)** So let's move over to our terminal here.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=38)** We're gonna quit out of the server that's running, and we're gonna type out python three manage.py.
+> **[0:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=38)** We're gonna quit out of the server that's running, and we're gonna type out [[Python (Programming Language)|python]] three manage.py.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=45)** And what we're gonna type is collect static.
 >
@@ -1728,7 +1710,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=168)** But usually this is a good pretty standard name that you should be using for your static files.
 >
-> **[2:53](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=173)** So now that we have that in place, we're ready to have this show up in our html.
+> **[2:53](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=173)** So now that we have that in place, we're ready to have this show up in our [[HTML]].
 >
 > **[2:58](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/collectstatic-in-django?u=76281980&t=178)** So we're gonna go to our home.html.
 >
@@ -1812,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (1), hit (1), css (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** settings.py (2), home.html (2), manage.py (1)
 > **Tools:** atom (3), terminal (2)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1821,8 +1803,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **CLI Commands:** python (1), make (1)
 
-#### Bootstrap as a static asset in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980)
+#### [Bootstrap as a static asset in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1811,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=8)** Remember when we added Bootstrap then we said, okay for the style sheet just use whatever is at this BootstrapCDN.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=15)** The same thing down here for our JavaScript files for jQuery and our Popper, we just said you know what, go ahead and use what is ever at these websites.
+> **[0:15](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=15)** The same thing down here for our [[JavaScript]] files for jQuery and our Popper, we just said you know what, go ahead and use what is ever at these websites.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=23)** The one issue with having this is we're ever working on our website and we are not connected to the internet, our page is not going to work.
 >
@@ -1874,7 +1855,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=182)** There's the jQuery here, Popper, and then also we have the Bootstrap files, but we want these to come in as static, so we're gonna move into our project here, so I'm gonna say portfolio-project, I want to get into our jobs folder.
 >
-> **[3:16](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=196)** Again, it can be very tempting here to go to that top level static folder and just manually add these yourself, but Django is gonna run into all sorts of issues if you do that, you've got to follow the convention that they've set forth.
+> **[3:16](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=196)** Again, it can be very tempting here to go to that top level static folder and just manually add these yourself, but [[Django]] is gonna run into all sorts of issues if you do that, you've got to follow the convention that they've set forth.
 >
 > **[3:30](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=210)** So we're gonna go into our jobs app, we're gonna go into that static folder and we're gonna grab these two JavaScript files and these JavaScript and CSS folders.
 >
@@ -1892,7 +1873,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=267)** So with those in place, let's go ahead and run our server again.
 >
-> **[4:31](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=271)** We now just have to go and update our html to show that we are now just referencing local files instead of going out to these particular websites and getting these different resources.
+> **[4:31](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=271)** We now just have to go and update our [[HTML]] to show that we are now just referencing local files instead of going out to these particular websites and getting these different resources.
 >
 > **[4:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-as-a-static-asset-in-django?u=76281980&t=283)** So let's change the href on the style sheet.
 >
@@ -1946,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[JavaScript]] (8), hit (4), next (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Django]] (1), [[HTML]] (1)
 > **Code Identifiers:** jquery (10)
 > **Env Vars:** css (6), ccs (1)
 > **File Paths:** popper.js (1), popper.min.js (1), css/bootstrap.min.css (1)
@@ -1955,8 +1936,7 @@ created: 2026-05-02
 > **URLs:** [getbootstrap.com](https://getbootstrap.com) (1)
 > **Versions:** version 1 (1)
 
-#### Finishing touches in Django design
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980)
+#### [Finishing touches in Django design](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,7 +1952,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=52)** So with this, essentially we wanna wrap this around our code that loops through the jobs. If remember up at the very top of this file right, we wrote all this code to say let's list out all of our jobs and let's get the summaries and things like that. So, first off we can get rid of the h1 tag that we had created before.
 >
-> **[1:10](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=70)** Okay? Then we'll copy or cut the code that we have up at the top there. Let's make it so the very first line of this file is the doctype html.
+> **[1:10](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=70)** Okay? Then we'll copy or cut the code that we have up at the top there. Let's make it so the very first line of this file is the doctype [[HTML]].
 >
 > **[1:20](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=80)** Then we'll come back down and let's paste this after row but before column right here on line 39.
 >
@@ -1998,7 +1978,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=220)** We're gonna do the same thing now but for media files.
 >
-> **[3:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=223)** So we're gonna go ahead and copy these two lines of code and we're gonna paste them below. And now change STATIC_URL to all caps MEDIA_URL, and instead of STATIC.ROOT we're gonna have MEDIA_ROOT. So there's gonna be a place where we're storing our static files and there's also gonna be a place where we're storing our media files. And there's a certain URL pattern we'll use for each as well. So for the media URL pattern, let's just go with media here, and then for the media root, this is where we want to say that it should just be located inside of our project and we'll let the name handle the rest of this. You'll see where this comes into play in a second, but for the time being, just say the media root is equal to our base directory.
+> **[3:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=223)** So we're gonna go ahead and copy these two lines of code and we're gonna paste them below. And now change STATIC_URL to all caps MEDIA_URL, and instead of STATIC.ROOT we're gonna have MEDIA_ROOT. So there's gonna be a place where we're storing our static files and there's also gonna be a place where we're storing our media files. And there's a certain URL pattern we'll use for each as well. So for the media URL pattern, let's just go with media here, and then for the media root, this is where we want to say that it should just be located inside of our project and we'll let the name handle the [[Representational State Transfer (REST)|rest]] of this. You'll see where this comes into play in a second, but for the time being, just say the media root is equal to our base directory.
 >
 > **[4:30](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=270)** Okay? So we're gonna say our media root is equal to our base directory and the media URL is media.
 >
@@ -2020,7 +2000,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=382)** So, let's go ahead and save what we have here, and then let's go ahead and go back to our website and see what we've got. So I'm gonna go ahead and hit the reload page and look at that This should be a great feeling that you have right now.
 >
-> **[6:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=397)** The same file that we uploaded to our django project is showing here on the home page.
+> **[6:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=397)** The same file that we uploaded to our [[Django]] project is showing here on the home page.
 >
 > **[6:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/finishing-touches-in-django-design?u=76281980&t=403)** What's really magical about this is we added that image in the admin portion, a place that someone who visits your website will never see.
 >
@@ -2038,7 +2018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[HTML]] (2), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1)
 > **Env Vars:** url (4), root (3), media (3), static_url (2), media_root (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (3)
@@ -2052,8 +2032,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting URLs and templates in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
+#### [Connecting URLs and templates in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,7 +2114,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=202)** We'll go back to Chrome here.
 >
-> **[3:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=204)** And if we reload the Django admin page, now we get nothing here.
+> **[3:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=204)** And if we reload the [[Django]] admin page, now we get nothing here.
 >
 > **[3:29](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=209)** That's because I've given one too many underscores, so we need this to be two underscores there two underscores there, let's save that come back to our admin page.
 >
@@ -2195,7 +2174,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=379)** And we'll go ahead and put a colon there.
 >
-> **[6:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=382)** And for the time being, we'll just go ahead and return back the home.html, put the ending parentheses there, we won't pass forward any jobs or anything.
+> **[6:22](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=382)** And for the time being, we'll just go ahead and return back the home.[[HTML]], put the ending parentheses there, we won't pass forward any jobs or anything.
 >
 > **[6:31](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980&t=391)** But something I would like to do here is with this detail, because we specified in urls.py that there would be an int variable here called job_id, we have to with the name of the function here, say request, comma, job underscore ID, the exact same name that we had before.
 >
@@ -2233,7 +2212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[HTML]] (2), hit (2), [[Django]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Django]] (1)
 > **UI Navigation:** go to (6), click on (2)
 > **File Paths:** urls.py (3), home.html (2), models.py (1), views.py (1)
 > **CLI Commands:** make (6), find (1)
@@ -2242,8 +2221,7 @@ created: 2026-05-02
 > **Code Identifiers:** job_id (3)
 > **Cross-References:** go back to (3)
 
-#### Creating views in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980)
+#### [Creating views in Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2261,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=39)** What we're going to do is use that job ID to grab a particular job from the database.
 >
-> **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=45)** And django has an awesome function to be able to make this to work, after we have this import where we say, import render, do a comma and then after that, this is one big long string.
+> **[0:45](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=45)** And [[Django]] has an awesome function to be able to make this to work, after we have this import where we say, import render, do a comma and then after that, this is one big long string.
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=55)** So stay with me here get, underscore object underscore, or underscore 404.
 >
@@ -2319,7 +2297,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=230)** All this is, is a job object.
 >
-> **[3:52](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=232)** So it's going to have a summary and an image, we wanna pass this forward to the HTML file.
+> **[3:52](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=232)** So it's going to have a summary and an image, we wanna pass this forward to the [[HTML]] file.
 >
 > **[3:57](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-views-in-django?u=76281980&t=237)** And right now, all we have is the home dot html, our job detail page is gonna be different from our home that HTML.
 >
@@ -2381,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), database (6), [[Django]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Django]] (2)
 > **UI Navigation:** go to (6), click on (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (3), url (1), abc (1)
@@ -2390,8 +2368,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [nick (1)
 
-#### Designing object detail views
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980)
+#### [Designing object detail views](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,7 +2384,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=23)** So that's what we're gonna do, is make our detail page look just as good as our homepage.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=28)** So, we're gonna copy a lot of the same code that we have from our home.html into detail, and just swap out a few things to make it look great.
+> **[0:28](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=28)** So, we're gonna copy a lot of the same code that we have from our home.[[HTML]] into detail, and just swap out a few things to make it look great.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=37)** So let's move back into Atom.
 >
@@ -2461,7 +2438,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=204)** So let's go ahead and delete what we have inside of the href, and have it go to the home page.
 >
-> **[3:29](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=209)** Now in Django, we've never covered how to make an A tag or a hyperlink that goes to a particular page on our Django website.
+> **[3:29](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=209)** Now in [[Django]], we've never covered how to make an A tag or a hyperlink that goes to a particular page on our Django website.
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/designing-object-detail-views?u=76281980&t=218)** Well it's really straightforward and it's really great.
 >
@@ -2487,7 +2464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[Django]] (3), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Django]] (3)
 > **UI Navigation:** go to (6), scroll up (1), click on (1)
 > **Env Vars:** url (6)
 > **File Paths:** home.html (2), detail.html (2), urls.py (1)
@@ -2496,12 +2473,11 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1), picture (1)
 > **Tools:** atom (2)
 
-#### URL paths with parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980)
+#### [URL paths with parameters](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=0)** - [Instructor] Let's go ahead and put the finishing touches on this Django project by first addressing this job detail page.
+> **[0:00](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=0)** - [Instructor] Let's go ahead and put the finishing touches on this [[Django]] project by first addressing this job detail page.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=6)** It's still showing a picture of yours truly.
 >
@@ -2519,7 +2495,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=37)** And you might be wondering, well, when do you use one and when do you use the other?
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=40)** You're going to use the double curly brackets anytime you're referencing information that has been passed to that HTML template.
+> **[0:40](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=40)** You're going to use the double curly brackets anytime you're referencing information that has been passed to that [[HTML]] template.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/url-paths-with-parameters?u=76281980&t=49)** Inside of our views.py, this information, this jobs dictionary that we pass forward in the singular job that we pass forward.
 >
@@ -2613,7 +2589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), hit (3), [[Django]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Django]] (1)
 > **UI Navigation:** go to (4), click on (3)
 > **File Paths:** home.html (3), views.py (2), urls.py (1)
 > **Env Vars:** url (5), html (1)
@@ -2627,8 +2603,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)
+#### [Next steps for Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2638,7 +2613,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=5)** I have some next steps for you if you'd like to move forward.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=9)** My first big recommendation is dive more into Django.
+> **[0:09](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=9)** My first big recommendation is dive more into [[Django]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=12)** It has so much more to offer.
 >
@@ -2648,7 +2623,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=23)** Here are some that I think you might be interested in.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=26)** Class based views, Authentication, and REST APIs.
+> **[0:26](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=26)** Class based views, Authentication, and [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=31)** Now there's obviously more in Django than just those three, but I think those could be some launching points for you.
 >
@@ -2658,9 +2633,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=43)** If you'd like to share your website with everybody that's called deploying your website, and there's lots of different places you can do that.
 >
-> **[0:50](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=50)** One of those is through Digital Ocean or Amazon Web Services.
+> **[0:50](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=50)** One of those is through Digital Ocean or [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
-> **[0:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=54)** You can do it through Heroku, Python Anywhere.
+> **[0:54](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=54)** You can do it through Heroku, [[Python (Programming Language)|Python]] Anywhere.
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980&t=58)** Lots of great tutorials out there.
 >
@@ -2676,7 +2651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (5), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Python (Programming Language)|Python]] (1)
 > **URLs:** [djangoproject.com](https://djangoproject.com) (1), [zappycode.com](https://zappycode.com) (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rest (1)

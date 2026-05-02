@@ -71,14 +71,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=0)** Hello, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=1)** Welcome to the seminar on Wavelet Analysis with a focus on the concepts associated with wavelets.
+> **[0:01](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=1)** Welcome to the seminar on Wavelet Analysis with a focus on the concepts associated with [[Wavelets]].
 >
 > **[0:06](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=6)** My name is Paritosh Mokhasi.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=10)** And in today's seminar, we are going to look at various concepts associated with wavelets.
 >
-> **[0:16](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=16)** We're going to look at continuous wavelet transforms, look at discrete wavelets, do some analysis on discrete wavelet transforms, talk about standard and packet transforms associated with discrete wavelet transforms, talk about stationary wavelet transforms and the algorithms associated with them, and finally, we shall talk about certain visualizations associated with wavelet analysis.
+> **[0:16](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=16)** We're going to look at continuous wavelet transforms, look at discrete wavelets, do some analysis on discrete wavelet transforms, talk about standard and packet transforms associated with discrete wavelet transforms, talk about stationary wavelet transforms and the [[Algorithms]] associated with them, and finally, we shall talk about certain visualizations associated with wavelet analysis.
 >
 > **[0:41](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=41)** The visualizations themselves will be incorporated during the duration of the seminar.
 >
@@ -162,7 +161,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=344)** So this brings us to the time and frequency resolution analysis.
 >
-> **[5:48](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=348)** Some of the fundamental questions that one should ask when performing any kind of time series analysis is what kind of features are you looking for in a signal, and what is the purpose of the analysis?
+> **[5:48](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=348)** Some of the fundamental questions that one should ask when performing any kind of [[Time Series Analysis]] is what kind of features are you looking for in a signal, and what is the purpose of the analysis?
 >
 > **[5:59](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980&t=359)** If you're interested only in the frequency component in a signal, then Fourier transform does the job most of the time.
 >
@@ -234,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wavelets]] (12), data (6), [[Time Series Analysis]] (2), [[Algorithms]] (1), application (1)
+> **Frameworks & Libraries:** [[Wavelets]] (12), [[Time Series Analysis]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (3), is called (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as you saw (1)
@@ -245,8 +244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous wavelet transform
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/continuous-wavelet-transform?u=76281980)
+#### [Continuous wavelet transform](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/continuous-wavelet-transform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +400,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (5)
 > **Versions:** 0.2 (1), 2.2 (1), 2.4 (1), 2.6 (1), 2.8 (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
@@ -415,8 +412,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discrete wavelets
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980)
+#### [Discrete wavelets](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,7 +456,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=155)** So it's a question of how much detail you want to go into when you're doing your analysis.
 >
-> **[2:41](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=161)** Another property when dealing with scaling function is to remember that the low-pass filter coefficients always sum to unity, which is shown here.
+> **[2:41](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=161)** Another property when dealing with scaling function is to remember that the low-pass filter coefficients always sum to [[Unity]], which is shown here.
 >
 > **[2:52](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=172)** Wavelet functions, similar to scaling functions, also follow a certain recursion relationship, which is given here.
 >
@@ -486,9 +482,9 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=269)** Another important property that you must recall is that the high pass filter coefficients will always sum to zero, as seen here.
 >
-> **[4:38](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=278)** Generally, when you're dealing with wavelets, you're not restricted to one dimension, but rather multi-dimensions.
+> **[4:38](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=278)** Generally, when you're dealing with [[Wavelets]], you're not restricted to one dimension, but rather multi-dimensions.
 >
-> **[4:44](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=284)** And the way you do multi-dimensional wavelet analysis is by taking dyadic products of the one-dimensional wavelet functions.
+> **[4:44](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=284)** And the way you do multi-dimensional wavelet analysis is by taking dyadic [[Microsoft Products|products]] of the one-dimensional wavelet functions.
 >
 > **[4:52](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980&t=292)** So, for example, if you are interested in doing a two-dimensional wavelet, you have to take an outer product of the wavelet functions with the scaling functions.
 >
@@ -496,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (1), [[Wavelets]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Wavelets]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -506,8 +502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wavelet filter bank
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-filter-bank?u=76281980)
+#### [Wavelet filter bank](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-filter-bank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,8 +563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discrete wavelet data
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelet-data?u=76281980)
+#### [Discrete wavelet data](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelet-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +659,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
@@ -676,8 +669,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wavelet best basis
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-best-basis?u=76281980)
+#### [Wavelet best basis](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-best-basis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +737,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1)
@@ -755,8 +746,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wavelet thresholding
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-thresholding?u=76281980)
+#### [Wavelet thresholding](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-thresholding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Documentation:** the documentation (3)
 > **Env Vars:** sure (1), fdr (1)
@@ -895,8 +884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### References
-> [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980)
+#### [References](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980&t=18)** And you can see the applications in various places.
 >
-> **[0:22](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980&t=22)** Here are a list of references that are available, which can give you information about the different concepts associated with wavelets, how you can use that for whatever purposes.
+> **[0:22](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980&t=22)** Here are a list of references that are available, which can give you information about the different concepts associated with [[Wavelets]], how you can use that for whatever purposes.
 >
 > **[0:33](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980&t=33)** Supposing you're interested in doing some analysis using signal processing, the book by Mallat is a really good one.
 >
@@ -916,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wavelets]] (1), application (1)
+> **Frameworks & Libraries:** [[Wavelets]] (1)
 > **Definitions:** is a  (2)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
 

@@ -73,38 +73,36 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implications of AI on cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
+#### [Implications of AI on cybersecurity](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=0)** - All of a sudden, artificial intelligence is everywhere.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=0)** - All of a sudden, [[Artificial Intelligence (AI)|artificial intelligence]] is everywhere.
 >
-> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=4)** What are the implications of AI and GenAI on cybersecurity?
+> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=4)** What are the implications of AI and GenAI on [[Cybersecurity]]?
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=9)** In this course, I'm going to discuss risks, predictions, and recommendations.
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=14)** We'll talk about common enterprise use cases for AI tools, and I'll walk you through a maturity level framework for organizations using AI.
 >
-> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=23)** I'll explain how artificial intelligence is impacting software development and describe security problems that emerge in AI models.
+> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=23)** I'll explain how artificial intelligence is impacting [[Software Development]] and describe security problems that emerge in AI models.
 >
 > **[0:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=32)** I'll share my recommendations for how to apply traditional security controls to AI-enabled business processes.
 >
 > **[0:40](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=40)** My name is Caroline Wong, and I'm a cybersecurity expert.
 >
-> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=43)** Come and join me as I explore the intersection of artificial intelligence and application security.
+> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=43)** Come and join me as I explore the intersection of artificial intelligence and [[Application Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Security]] (3), [[Cybersecurity]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (2), [[Software Development]] (1), [[Application Security]] (1)
 > **Speakers:** - all (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=0)** - The goal of this course is to help the learner understand the major impacts of artificial intelligence on the field of application security.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=0)** - The goal of this course is to help the learner understand the major impacts of [[Artificial Intelligence (AI)|artificial intelligence]] on the field of [[Application Security]].
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=11)** If you're watching this video right now, you likely have some interest or enthusiasm in these two topics.
 >
@@ -116,27 +114,27 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=58)** I use a variety of applications and software near constantly.
 >
-> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=63)** Messages, email, video calls, mobile apps, shopping apps, banking app, educational apps, social media apps, and more.
+> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=63)** Messages, email, video calls, mobile apps, shopping apps, [[Banking]] app, educational apps, social media apps, and more.
 >
 > **[1:14](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=74)** We live in a world where applications and the internet are inherently insecure.
 >
 > **[1:20](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=80)** The technology attributes that allow us to connect so easily are the same reasons why software is vulnerable to attack.
 >
-> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=90)** It's uncommon for a single data pass without news of another cybersecurity breach.
+> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=90)** It's uncommon for a single data pass without news of another [[Cybersecurity]] breach.
 >
 > **[1:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=96)** Software makers, companies that use software, and individuals that use software must take steps to protect themselves.
 >
 > **[1:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=105)** Artificial intelligence in computing has actually been around for decades, but only recently has it become so accessible at large scale.
 >
-> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=115)** Generative AI has also become front and center of the mainstream public discussion.
+> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=115)** [[Generative AI]] has also become front and center of the mainstream public discussion.
 >
-> **[2:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=122)** While there are many juicy issues surrounding AI and generative AI, including ethics, bias, the impact on jobs, et cetera, this course focuses specifically on the intersection between application security and artificial intelligence.
+> **[2:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=122)** While there are many juicy issues surrounding AI and generative AI, including [[Ethics]], bias, the impact on jobs, et cetera, this course focuses specifically on the intersection between application security and artificial intelligence.
 >
 > **[2:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=143)** Let's talk through a few authoritative definitions for key terms that will be discussed throughout this course.
 >
 > **[2:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=152)** AI, short for artificial intelligence, is a branch of computer science focused on creating machines with the ability to replicate human cognitive functions and the application of this field to software.
 >
-> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=167)** Gen AI, short for generative artificial intelligence, is a field within AI focused on creating algorithms, typically called models, capable of generating new content or output following the dataset that trained it.
+> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=167)** Gen AI, short for generative artificial intelligence, is a field within AI focused on creating [[Algorithms]], typically called models, capable of generating new content or output following the dataset that trained it.
 >
 > **[3:05](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=185)** My friend Jim Routh used these definitions in his white paper, "Shaping Trust in the Age of AI" from the cybersecurity think tank Institute for Critical Infrastructure Technology.
 >
@@ -150,13 +148,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (7), ai (7), [[Security]] (6), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (7), [[Application Security]] (6), [[Cybersecurity]] (2), [[Generative AI]] (2), [[Banking]] (1)
 > **Definitions:** short for (3), is a  (2)
 > **Env Vars:** apsec (1)
 > **Speakers:** - the (1)
 
-#### AI models and software applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980)
+#### [AI models and software applications](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,11 +163,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=15)** Many AI systems are designed to integrate with common applications that many of us use at work on a daily basis.
 >
-> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=23)** A couple of corporate messaging examples include Slack and Microsoft Teams.
+> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=23)** A couple of corporate messaging examples include [[Slack]] and [[Microsoft Teams]].
 >
-> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=28)** Engineering teams also interact with these systems in similar ways as they interact with normal non-AI applications via HTTP requests, command line interfaces, and software development kits.
+> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=28)** Engineering teams also interact with these systems in similar ways as they interact with normal non-AI applications via HTTP requests, command line interfaces, and [[Software Development]] kits.
 >
-> **[0:44](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=44)** I am fascinated by the intersection between application security and artificial intelligence.
+> **[0:44](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=44)** I am fascinated by the intersection between [[Application Security]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=51)** In the past few years, the use of AI applications by both consumers as well as enterprise organizations has increased significantly at an unprecedented pace.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=99)** A human can send messages back and forth with a chatbot, similarly to how they might message a person, often resulting in productive and valuable dialogue.
 >
-> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=109)** Typically, one of the first use cases for an organization leveraging AI is when employees begin to use chatbots, such as ChatGPT, for assistance in performing daily tasks.
+> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=109)** Typically, one of the first use cases for an organization leveraging AI is when employees begin to use chatbots, such as [[ChatGPT]], for assistance in performing daily tasks.
 >
 > **[2:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=122)** This level is likely to occur with or without formal approval from management.
 >
@@ -206,13 +203,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=207)** Whereas lower levels of maturity for using AI require the user to specify the exact task that it wants the AI to assist with, context-aware AI will consider authoritative information that is outside of the large language model and use that as input.
 >
-> **[3:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=228)** A user might ask the AI to do something, and the AI would take into consideration the results of what a search engine, like Google, might provide in terms of content to consider.
+> **[3:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=228)** A user might ask the AI to do something, and the AI would take into consideration the results of what a search engine, like [[Google]], might provide in terms of content to consider.
 >
 > **[4:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=241)** This level is also where a user might ask AI to perform more complex tasks, such as how to implement a coding function, while taking into consideration different guidance and requirements that can be found online.
 >
 > **[4:16](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=256)** This can significantly shift the output for the user to consider.
 >
-> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=261)** As a result, this level of maturity is often referred to as retrieval-augmented generation.
+> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=261)** As a result, this level of maturity is often referred to as [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[4:29](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=269)** The fourth and highest level of maturity for AI use is where AI is handling an entire series of tasks or a full-blown process completely on its own.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=351)** Common web application vulnerabilities, such as injection, apply just as much to chatbots and other AI web apps as they do to any other web applications.
 >
-> **[6:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=364)** A particularly useful framework for web application vulnerabilities is the OWASP Top 10.
+> **[6:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=364)** A particularly useful framework for web application vulnerabilities is the [[OWASP]] Top 10.
 >
 > **[6:10](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-models-and-software-applications?u=76281980&t=370)** An evolving list that originated in 2003, the OWASP top 10 is primarily a training and awareness resource for software developers.
 >
@@ -242,19 +239,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (31), web application (6), [[OWASP]] (4), web (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Application Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Env Vars:** owasp (4), http (1), api (1), llm (1)
 > **Analogies:** such as (5), for example (1)
 > **Tools:** slack (1), command line (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
-#### Garbage in = garbage out
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980)
+#### [Garbage in = garbage out](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=0)** - Despite its many exciting and practical applications, artificial intelligence is inherently limited and prone to mistakes.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=0)** - Despite its many exciting and practical applications, [[Artificial Intelligence (AI)|artificial intelligence]] is inherently limited and prone to mistakes.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=9)** If you're familiar with computer science and software engineering, you may have heard the term garbage in, garbage out.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=33)** Depending on the quality of the data and the amount of data, a query to any particular AI system is likely to produce a higher or lower quality response.
 >
-> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=45)** The garbage in, garbage out concept holds true whether we're talking about baking a cake, using software to do your taxes, or leveraging AI to help you improve application security.
+> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=45)** The garbage in, garbage out concept holds true whether we're talking about baking a cake, using software to do your taxes, or leveraging AI to help you improve [[Application Security]].
 >
 > **[0:59](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=59)** If you use top quality ingredients to bake a cake, you're more likely to have a top quality finished product.
 >
@@ -272,13 +268,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=74)** If you're trying to do your taxes, but you input incorrect numbers or you input numbers into incorrect fields, your tax software may not be able to fix that for you, and it might produce incorrect results.
 >
-> **[1:31](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=91)** If you're trying to use AI to help you with application security, but the data you feed it is entirely composed of network security vulnerabilities, then you're unlikely to get the high quality results you're looking for.
+> **[1:31](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=91)** If you're trying to use AI to help you with application security, but the data you feed it is entirely composed of [[Network Security]] vulnerabilities, then you're unlikely to get the high quality results you're looking for.
 >
 > **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=107)** Note that even if you use the best possible ingredients when baking a cake, it's still possible that something might go wrong in the baking process, resulting in a low quality cake.
 >
 > **[1:59](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=119)** Similarly, high quality input to an AI system is not guaranteed to result in high quality output.
 >
-> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=126)** The way a query is structured, the algorithms and the processing involved will also impact the quality of the output.
+> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=126)** The way a query is structured, the [[Algorithms]] and the processing involved will also impact the quality of the output.
 >
 > **[2:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/5967314?u=76281980&t=135)** If you're using AI for application security and your intention is to determine the existence of an injection vulnerability, then submitting a query about server side request forgery is not likely to get you the results that you want.
 >
@@ -288,18 +284,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), application (3), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Application Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Network Security]] (1), [[Algorithms]] (1)
 > **Warnings:** note that (1), be aware (1)
 > **Tools:** notion (1)
 > **Definitions:** means that (1)
 > **Speakers:** - despite (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=0)** - So what is generative AI?
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=0)** - So what is [[Generative AI]]?
 >
 > **[0:03](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=3)** A dictionary definition of the term generative says, "Relating to or capable of production or reproduction."
 >
@@ -309,15 +304,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=33)** Generative AI does not simply find an answer in a data set.
 >
-> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=37)** It learns from that data set and produces new content based on patterns and probability distributions.
+> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=37)** It learns from that data set and produces new content based on patterns and [[Probability]] distributions.
 >
 > **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=45)** Three of the most common formats for generative AI include text, images, and audio.
 >
-> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=53)** Chat bot assistants, such as GPT-4 and Claude, produce text-based responses to questions or directions.
+> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=53)** Chat bot assistants, such as [[GPT-4]] and Claude, produce text-based responses to questions or directions.
 >
 > **[1:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=61)** For example, "Give me an itinerary for a two-day trip to San Francisco."
 >
-> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=68)** Image generators, like Dall-E and MidJourney, create visual outputs based on conceptual descriptions and prompts.
+> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=68)** Image generators, like [[DALL-E]] and [[Midjourney]], create visual outputs based on conceptual descriptions and prompts.
 >
 > **[1:18](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=78)** I could ask the AI to draw a cat riding a horse in photorealistic style.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=176)** If I say, "I like to eat chicken and blank," and the gen AI system responds with, "I like to eat fried chicken and astronauts," that would be considered a hallucination, or an absurd response that doesn't make any logical sense.
 >
-> **[3:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=195)** While a hallucination response from a generative AI system is not an application security problem in the traditional sense, it's important for us to understand that generative AI does not create fact or truth.
+> **[3:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=195)** While a hallucination response from a generative AI system is not an [[Application Security]] problem in the traditional sense, it's important for us to understand that generative AI does not create fact or truth.
 >
 > **[3:31](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=211)** Rather, it takes data inputs and experiments with data outputs.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (18), data (6), ai (5), [[Security]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (18), [[Probability]] (1), [[GPT-4]] (1), [[DALL-E]] (1), [[Midjourney]] (1)
 > **Analogies:** for example (3), such as (1), imagine (1), think of it as (1)
 > **CLI Commands:** find (1), cat (1), make (1)
 > **Env Vars:** gpt (1)
@@ -366,22 +361,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI improvements for corporate applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
+#### [AI improvements for corporate applications](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=1)** - There are many ways in which AI can improve the software development lifecycle.
+> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=1)** - There are many ways in which AI can improve the [[Software Development]] lifecycle.
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=6)** Modern software development involves several folks in different roles coming together, including developers, product managers, designers, and more.
 >
-> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=16)** Team members in each of these roles are leveraging AI to streamline and automate tasks, such as summarizing information and improvement to traditional search results and content creation, merging a few basic concepts into a fully written narrative or recommending a response to an email message.
+> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=16)** Team members in each of these roles are leveraging AI to streamline and automate tasks, such as summarizing information and improvement to traditional search results and [[Content Creation]], merging a few basic concepts into a fully written narrative or recommending a response to an email message.
 >
 > **[0:39](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=39)** Let's look at a few use cases for AI in the software development lifecycle.
 >
-> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=45)** At Cobalt, as a company that builds offensive security platform software, we use many Atlassian tools in our day-to-day work.
+> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=45)** At Cobalt, as a company that builds offensive security platform software, we use many [[Atlassian]] tools in our day-to-day work.
 >
-> **[0:54](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=54)** A few of these include Slack, JIRA, and Confluence.
+> **[0:54](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=54)** A few of these include [[Slack]], [[Jira]], and [[Confluence]].
 >
 > **[1:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=60)** AI built into these support technologies is helping colleagues across the company to save time and get further faster, particularly in the areas of searching and summarizing information from large amounts of data.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=84)** Slack's native AI integrations help by reviewing large amounts of text to provide summaries of group conversations, recap large volumes of team and project updates, and display smarter search results.
 >
-> **[1:41](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=101)** JIRA's Smarts AI tool is using natural language processing and pattern recognition to provide more relevant search results from knowledge center content.
+> **[1:41](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=101)** JIRA's Smarts AI tool is using [[Natural Language Processing (NLP)|natural language processing]] and pattern recognition to provide more relevant search results from knowledge center content.
 >
 > **[1:52](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=112)** It also helps to group similar ticket types and recommend likely assignees for tasks.
 >
@@ -397,13 +391,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=129)** It does this by performing tasks such as suggesting a title, finding action items, making a writeup shorter, eliminating minor spelling and grammar errors, and modifying tone to suit a specific audience.
 >
-> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=146)** Another set of cloud tools that is natively using AI is Microsoft 365.
+> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=146)** Another set of cloud tools that is natively using AI is [[Microsoft 365]].
 >
-> **[2:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=153)** Microsoft is well-known for its Copilot AI technology.
+> **[2:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=153)** [[Microsoft]] is well-known for its [[Microsoft Copilot|Copilot]] AI technology.
 >
 > **[2:38](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=158)** One use case for Microsoft 365 Copilot is to ask for topics in order to prepare for an upcoming business meeting.
 >
-> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=168)** Another is to make a first draft of nearly any type of final deliverable, whether it's a product announcement in Word, customer facing slide deck in PowerPoint, or a data analysis in Excel.
+> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=168)** Another is to make a first draft of nearly any type of final deliverable, whether it's a product announcement in [[Microsoft Word|Word]], customer facing slide deck in [[Microsoft PowerPoint|PowerPoint]], or a data analysis in [[Microsoft Excel|Excel]].
 >
 > **[3:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980&t=182)** This first draft use case can help MS Copilot users to increase their productivity, particularly by reducing the writer's block time that often occurs when trying to get started on a new project.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Software Development]] (3), [[Search]] (3), [[Slack]] (3), data (3)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Slack]] (3), [[Microsoft Copilot|Copilot]] (3), [[Atlassian]] (2), [[Jira]] (2)
 > **Tools:** slack (3), jira (2), confluence (2)
 > **Env Vars:** jira (2)
 > **Analogies:** such as (2)
@@ -427,14 +421,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - there (1)
 
-#### Improvements for software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980)
+#### [Improvements for software development](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=0)** - Computers have been helping humans to process information and perform calculations for decades.
 >
-> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=7)** Recent advances in computational power storage and speed have enabled data science and generative AI developers.
+> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=7)** Recent advances in computational power storage and speed have enabled [[Data Science]] and [[Generative AI]] developers.
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=17)** Using AI to code software applications is a very interesting use case and this space is evolving rapidly.
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=31)** In this video, we'll discuss two popular tools in this space.
 >
-> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=36)** Devin AI and GitHub Copilot.
+> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=36)** Devin AI and [[GitHub Copilot]].
 >
 > **[0:39](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=39)** Devin AI is an autonomous AI assistant tool that is advertised as the first AI software engineer.
 >
@@ -456,9 +449,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=82)** Kenny Gunderman, author of the book "Zero to Full Time Programmer in Five Steps," has built a community of more than 10,000 software developers.
 >
-> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=92)** In his video, Software Engineers Discuss If Devin Will Replace Coders Kenny and a few of his colleagues mention the following statistics.
+> **[1:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=92)** In his video, Software Engineers Discuss If Devin Will Replace Coders Kenny and a few of his colleagues mention the following [[Statistics]].
 >
-> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=104)** ChatGPT can solve about 5% of GitHub issues.
+> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=104)** [[ChatGPT]] can solve about 5% of [[GitHub]] issues.
 >
 > **[1:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=108)** Devin AI can solve about 14% of GitHub issues.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=123)** GitHub Copilot is a code completion tool developed by GitHub and OpenAI.
 >
-> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=130)** With the help of GitHub Copilot, a developer can start typing in a line of code and the software will make suggestions for the rest of the line.
+> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=130)** With the help of GitHub Copilot, a developer can start typing in a line of code and the software will make suggestions for the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[2:21](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=141)** These suggestions are based on the libraries in use and the context for the code itself.
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=193)** Additional experimental and upcoming features that can be previewed via GitHub.
 >
-> **[3:19](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=199)** Copilot labs include an explain feature that allows selection of a block of code and provides a summary of what that code does, a translation feature that will help with turning code written in one language into code written in another and more.
+> **[3:19](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=199)** [[Microsoft Copilot|Copilot]] labs include an explain feature that allows selection of a block of code and provides a summary of what that code does, a translation feature that will help with turning code written in one language into code written in another and more.
 >
 > **[3:39](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=219)** One of the obvious benefits to using something like GitHub Copilot is that it is already included in the editor and does not require a developer to use a separate application and go in between writing code and their AI coding assistant tool.
 >
@@ -490,13 +483,13 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=252)** The key question for this course is, which is more secure, code that's written by a human or code that's generated by AI?
 >
-> **[4:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=263)** I believe that code generated by AI that uses secure coding practices and patterns in the underlying large language model and is validated by a human is likely to produce the most secure code.
+> **[4:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=263)** I believe that code generated by AI that uses [[Secure Coding]] practices and patterns in the underlying large language model and is validated by a human is likely to produce the most secure code.
 >
-> **[4:38](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=278)** Of course, security testing such as scans and penetration testing will still be required to ensure that vulnerabilities can be found and fixed before code is released.
+> **[4:38](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-software-development?u=76281980&t=278)** Of course, [[Security Testing]] such as scans and [[Penetration Testing]] will still be required to ensure that vulnerabilities can be found and fixed before code is released.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[GitHub Copilot]] (5), [[GitHub]] (5), feature (3), power (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (5), [[GitHub]] (5), [[Data Science]] (1), [[Generative AI]] (1), [[Statistics]] (1)
 > **Tools:** github (10)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **CLI Commands:** find (1), make (1)
@@ -505,8 +498,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - computers (1)
 
-#### Improvements for application security
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980)
+#### [Improvements for application security](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,9 +506,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=7)** AppSec professionals strive to ensure that applications are resilient to malicious attack and prevent bad actors from misusing or abusing the software.
 >
-> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=19)** They have always used automation to improve their security testing techniques, and artificial intelligence is a natural extension of this evolving automation.
+> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=19)** They have always used automation to improve their [[Security Testing]] techniques, and [[Artificial Intelligence (AI)|artificial intelligence]] is a natural extension of this evolving automation.
 >
-> **[0:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=32)** In a blog post from 2017, Jacob Hansen wrote, "Overall, the application security industry has undergone three major developments.
+> **[0:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=32)** In a blog post from 2017, Jacob Hansen wrote, "Overall, the [[Application Security]] industry has undergone three major developments.
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=42)** First, we saw the formation of the industry in the 1990s.
 >
@@ -530,9 +522,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=82)** Cobalt's 2020 State of Pentesting Report provides another interesting commentary on the human and machine nature of application security activities.
 >
-> **[1:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=93)** The assessment was conducted specifically to determine which web application security vulnerabilities can be found using machines, in this case, dynamic scanning and out-of-band testing, and which require human expertise to manually identify via black box penetration testing.
+> **[1:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=93)** The assessment was conducted specifically to determine which [[Web Application Security]] vulnerabilities can be found using machines, in this case, dynamic scanning and out-of-band testing, and which require human expertise to manually identify via black box [[Penetration Testing]].
 >
-> **[1:56](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=116)** Of course, when it comes to actual penetration testing, humans do use proxies like Burp Suite, Fiddler, ZAP, and others to modify HTTP requests, modify web sessions and crawl sites.
+> **[1:56](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=116)** Of course, when it comes to actual penetration testing, humans do use proxies like [[Burp Suite]], Fiddler, ZAP, and others to modify HTTP requests, modify web sessions and crawl sites.
 >
 > **[2:12](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=132)** The report states that humans win at finding vulnerability types, like business logic bypasses, race conditions and chained exploits.
 >
@@ -558,15 +550,15 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=251)** A third area where AI support has the potential to transform application security activities is summarization.
 >
-> **[4:20](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=260)** This use case has clear implications for governance risk and compliance areas of cybersecurity standards and regulations such as PCI, SEC, ISO and others can be lengthy and detailed.
+> **[4:20](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=260)** This use case has clear implications for governance risk and compliance areas of [[Cybersecurity]] standards and regulations such as PCI, SEC, ISO and others can be lengthy and detailed.
 >
 > **[4:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=276)** When these are updated, AI can help to summarize updates concisely and draw out specific action items that may be relevant for application security activities.
 >
-> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=288)** I am really looking forward to seeing how application security evolves during the next few years as practitioners begin to incorporate artificial intelligence into secure coding, testing and remediation techniques.
+> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/improvements-for-application-security?u=76281980&t=288)** I am really looking forward to seeing how application security evolves during the next few years as practitioners begin to incorporate artificial intelligence into [[Secure Coding]], testing and remediation techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), application (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (8), [[Automation]] (6), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[Application Security]] (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (8), [[Penetration Testing]] (2), [[Security Testing]] (1), [[Web Application Security]] (1)
 > **Env Vars:** zap (1), http (1), dast (1), sast (1), pci (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -577,18 +569,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evolution of application security risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
+#### [Evolution of application security risk](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=1)** - Application security and cybersecurity more generally, is often described as an arms race between defenders who are trying to ensure that software works as it is intended, and attackers who are trying to misuse and abuse software applications.
+> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=1)** - [[Application Security]] and [[Cybersecurity]] more generally, is often described as an arms race between defenders who are trying to ensure that software works as it is intended, and attackers who are trying to misuse and abuse software applications.
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=17)** One example of a simple security control is a CAPTCHA.
 >
 > **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=23)** CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart.
 >
-> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=30)** Of course, as artificial intelligence matures and computing evolves more and more toward being able to accurately substitute what humans can do, this is a prime example of a security control that is likely to disappear into the past.
+> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=30)** Of course, as [[Artificial Intelligence (AI)|artificial intelligence]] matures and computing evolves more and more toward being able to accurately substitute what humans can do, this is a prime example of a security control that is likely to disappear into the past.
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980&t=48)** The irony here, of course, is that the whole point of implementing CAPTCHAs on a web application is to prevent various application security attacks from being launched by malicious bot traffic.
 >
@@ -620,24 +611,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Security]] (7), application (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Cybersecurity]] (3)
+> **Frameworks & Libraries:** [[Application Security]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Cybersecurity]] (3)
 > **Env Vars:** captcha (3)
 > **Definitions:** is a  (2), stands for (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - application (1)
 
-#### Better impersonation using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980)
+#### [Better impersonation using AI](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=1)** - Let's take a look at how artificial intelligence helps bad actors to more effectively impersonate trusted individuals and organizations.
+> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=1)** - Let's take a look at how [[Artificial Intelligence (AI)|artificial intelligence]] helps bad actors to more effectively impersonate trusted individuals and organizations.
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=11)** Impersonation is a common technique used in social engineering that involves a person pretending to be someone else.
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=21)** If the victim of a social engineering attack believes that the person trying to scam them is actually a known and trusted entity, then the victim is more likely to share confidential or sensitive information.
 >
-> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=36)** I'm not very likely to share my banking information or my Social Security number with a random stranger that I've never met but I might share this information with a loan officer if I'm in the process of refinancing my mortgage.
+> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=36)** I'm not very likely to share my [[Banking]] information or my Social Security number with a random stranger that I've never met but I might share this information with a loan officer if I'm in the process of refinancing my mortgage.
 >
 > **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=53)** Sometimes the sole objective of impersonation is to gather private information.
 >
@@ -651,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=96)** In this case, a bad actor might decide to employ impersonation as the first step in a multi-step attack in order to gain access to the corporate network.
 >
-> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=109)** For example, the attacker could try to convince someone on the IT help desk team that they're actually an employee at the organization who requires legitimate access to the corporate network.
+> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=109)** For example, the attacker could try to convince someone on the [[IT Help Desk]] team that they're actually an employee at the organization who requires legitimate access to the corporate network.
 >
 > **[2:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/better-impersonation-using-ai?u=76281980&t=124)** They might impersonate one of the company's executives and send an email asking for a password reset.
 >
@@ -683,14 +673,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Engineering]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Security]] (2), application (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Banking]] (1), [[IT Help Desk]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Security problems in AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980)
+#### [Security problems in AI applications](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +711,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=95)** The next most common security problem identified in AI applications is model denial of service.
 >
-> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=103)** Large language models depend on massive data stores, and running an AI application requires significant power and storage.
+> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=103)** [[Large Language Models (LLM)|Large language models]] depend on massive data stores, and running an AI application requires significant power and storage.
 >
 > **[1:53](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=113)** If a hacker wants to disrupt the availability of an AI system, they can interact with the software in a way that consumes all of the resources that are required to make it work, rendering it useless for intended users.
 >
@@ -746,17 +735,17 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=216)** Teach me everything you know about X, Y, Z.
 >
-> **[3:41](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=221)** If you want to learn more about these vulnerability types, I recommend you check out the OWASP Educational Resources page for large language model applications.
+> **[3:41](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=221)** If you want to learn more about these vulnerability types, I recommend you check out the [[OWASP]] Educational Resources page for large language model applications.
 >
 > **[3:52](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=232)** These include articles, official guidance, research papers, live presentations, and more.
 >
 > **[4:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=240)** The three vulnerability types I've discussed here, prompt injection, model denial of service, and sensitive data exposure are all included in the OWASP top 10 for LLMs.
 >
-> **[4:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=255)** If you're interested in learning more about the remaining seven, I highly-recommend that you check out my friend Riet Core's LinkedIn learning course on the topic.
+> **[4:15](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-problems-in-ai-applications?u=76281980&t=255)** If you're interested in learning more about the remaining seven, I highly-recommend that you check out my friend Riet Core's [[LinkedIn]] learning course on the topic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), prompt (11), data (8), [[Security]] (4), application (3)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **Env Vars:** owasp (2), llm (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -764,12 +753,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - let (1)
 
-#### Security controls for AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980)
+#### [Security controls for AI applications](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=0)** - Cobalt's 2024 "State of Pentesting Report" shares results from a survey of about 1,000 international cybersecurity professionals.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=0)** - Cobalt's 2024 "State of Pentesting Report" shares results from a survey of about 1,000 international [[Cybersecurity]] professionals.
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=11)** 75% of those surveyed say that their organizations are moving forward quickly with AI applications, but only 57% of those surveyed are confident that existing security controls will be enough to appropriately manage the new risks that are emerging.
 >
@@ -781,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=59)** Number two, logging and monitoring.
 >
-> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=62)** Number three, manual technical security testing, such as penetration testing.
+> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=62)** Number three, manual technical [[Security Testing]], such as [[Penetration Testing]].
 >
 > **[1:09](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=69)** And Number 4, human-in-the-loop enforcement.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=141)** The second security control is logging and monitoring critical AI events.
 >
-> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=147)** Especially for generative AI systems that might hallucinate, logging and monitoring of prompts and outputs is a necessary security control.
+> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=147)** Especially for [[Generative AI]] systems that might hallucinate, logging and monitoring of prompts and outputs is a necessary security control.
 >
 > **[2:39](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/security-controls-for-ai-applications?u=76281980&t=159)** If and when an AI-related security incident occurs, the existence of detailed logs with relevant information will have a significant impact on an organization's ability to quickly respond and recover.
 >
@@ -827,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), [[Security]] (16), application (4), business (4), management (3)
+> **Frameworks & Libraries:** [[Security Testing]] (3), [[Cybersecurity]] (2), [[Penetration Testing]] (1), [[Generative AI]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - cobalt (1)
@@ -837,8 +825,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,11 +833,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=2)** In a world where things are constantly changing, it can feel grounding to develop a solid understanding of how new technologies work.
 >
-> **[0:10](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=10)** I'm optimistic about the future of artificial intelligence and how it can improve our everyday lives.
+> **[0:10](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=10)** I'm optimistic about the future of [[Artificial Intelligence (AI)|artificial intelligence]] and how it can improve our everyday lives.
 >
-> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=16)** AI changes the game for application security.
+> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=16)** AI changes the game for [[Application Security]].
 >
-> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=20)** While it introduces some new security problems, we can also use it to improve secure coding practices and security testing.
+> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=20)** While it introduces some new security problems, we can also use it to improve [[Secure Coding]] practices and [[Security Testing]].
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980&t=28)** If you're interested in learning more, I recommend checking out OWASPS educational resources on large language model applications.
 >
@@ -858,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (2), ai (1), game (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Application Security]] (2), [[Secure Coding]] (1), [[Security Testing]] (1)
 > **Env Vars:** owasps (1)
 > **Speakers:** - we (1)
 

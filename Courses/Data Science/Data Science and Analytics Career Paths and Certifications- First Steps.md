@@ -122,12 +122,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An expanding universe of data science career options
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
+#### [An expanding universe of data science career options](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980&t=0)** We have so much information out there on data science and analytics career path.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980&t=0)** We have so much information out there on [[Data Science]] and analytics career path.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980&t=5)** However, there is very little in terms of how you can get started with your first step.
 >
@@ -147,18 +146,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (2), career (2)
+> **Frameworks & Libraries:** [[Data Science]] (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is for those who are interested in knowing more about data science careers, but not sure of how to get started.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is for those who are interested in knowing more about [[Data Science]] careers, but not sure of how to get started.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980&t=8)** If you're excited about the prospect of working in data mining and analytics, big data, machine learning and data visualization, I strongly encourage you to watch this course.
+> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980&t=8)** If you're excited about the prospect of working in [[Data Mining]] and analytics, [[Big Data]], machine learning and data visualization, I strongly encourage you to watch this course.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/what-you-should-know?u=76281980&t=20)** The goal of this course is to clearly define data science, provides you with insight into the data science marketplaces and outline the specific skills you'll need to master as a data scientist.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data Mining]] (1), [[Big Data]] (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
@@ -176,12 +174,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980&t=0)** - Have you ever thought about how data science started?
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980&t=0)** - Have you ever thought about how [[Data Science]] started?
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980&t=4)** Are you familiar with data science, and analytics terms?
 >
@@ -205,53 +202,51 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (6), career (2)
+> **Frameworks & Libraries:** [[Data Science]] (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### A brief history
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980)
+#### [A brief history](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=0)** - [Instructor] The origin of data science coincides with the wide adoption of computers.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=0)** - [Instructor] The origin of [[Data Science]] coincides with the wide adoption of computers.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=7)** The discipline of statistics existed well before computer science, but computers empowered statisticians to solve a wide variety of practical problems with real life implications, since heavy number crunching and massive storage of data became feasible due to the emergence of modern computing technologies.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=7)** The discipline of [[Statistics]] existed well before computer science, but computers empowered statisticians to solve a wide variety of practical problems with real life implications, since heavy number crunching and massive storage of data became feasible due to the emergence of modern computing technologies.
 >
-> **[0:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=32)** The invention of database management systems in the 1960s and relational database management systems in the 1970s accelerated the pace of this marriage between statistics and computer science.
+> **[0:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=32)** The invention of [[Database Management]] systems in the 1960s and relational database management systems in the 1970s accelerated the pace of this marriage between statistics and computer science.
 >
-> **[0:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=49)** In the late 1980s, terms such as knowledge discovery and data mining started being used widely.
+> **[0:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=49)** In the late 1980s, terms such as knowledge discovery and [[Data Mining]] started being used widely.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=59)** In the early 1990s, database industry practitioners started noticing the explosion of business data in the form of big data.
+> **[0:59](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=59)** In the early 1990s, database industry practitioners started noticing the explosion of business data in the form of [[Big Data]].
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=70)** The official start of using the phrase big data can be traced back to an article published in the ACM digital library in 1997.
 >
 > **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=84)** In the late 1990s, the phrase data science first appeared to inspire researchers and professionals to harness the predictive power of data by effectively analyzing them and producing useful intelligence.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=102)** At about the same time, the word statistician began to be used interchangeably with the term data scientist.
+> **[1:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=102)** At about the same time, the [[Microsoft Word|word]] statistician began to be used interchangeably with the term data scientist.
 >
-> **[1:54](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=114)** In the mid 2000s, the word analytics was adopted by data scientists to emphasize the fact that an increasing number of companies started to heavily rely on the statistical and quantitative analysis of data, as well as predictive modeling to make informed decisions, so that they can compete better with other businesses.
+> **[1:54](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=114)** In the mid 2000s, the word analytics was adopted by data scientists to emphasize the fact that an increasing number of companies started to heavily rely on the statistical and quantitative analysis of data, as well as [[Predictive Modeling]] to make informed decisions, so that they can compete better with other businesses.
 >
 > **[2:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/a-brief-history?u=76281980&t=142)** As you can see, the history of data science is that of endless scientific and technological innovations to cope with newly emerging challenges as we move into the era of information age.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (3), [[Statistics]] (2), management (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Statistics]] (2), [[Database Management]] (2), [[Big Data]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** acm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980)
+#### [Fundamentals](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=0)** - [Tutor] Data science is a highly comprehensive term.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=0)** - [Tutor] [[Data Science]] is a highly comprehensive term.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=3)** It encompasses a multitude of disciplines and concepts.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=7)** Including big data, machine learning, data mining, and data analytics.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=7)** Including [[Big Data]], machine learning, [[Data Mining]], and data analytics.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=15)** Big data is especially relevant to data science these days.
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=94)** This is especially true when the repetition is driven by the size, complexity, and speed of the data as in the case of big data.
 >
-> **[1:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=105)** Due to its large scale, to obtain any meaningful insight from big data data science today can no longer rely on humans, but beginning to depend heavily on algorithms.
+> **[1:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=105)** Due to its large scale, to obtain any meaningful insight from big data data science today can no longer rely on humans, but beginning to depend heavily on [[Algorithms]].
 >
 > **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fundamentals?u=76281980&t=118)** That in turn drive computers, hence the name machine learning.
 >
@@ -299,18 +294,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Big Data]] (8), [[Analytics]] (3), [[Algorithms]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (8), [[Data Science]] (6), [[Data Mining]] (5), [[Algorithms]] (2)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [tutor] (1)
 
-#### Big data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980)
+#### [Big data analytics](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=0)** - [Instructor] Big data analytics leverages distributed computing technologies and data analytics techniques to overcome computational challenges presented by big data sets.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=0)** - [Instructor] [[Big Data Analytics]] leverages distributed computing technologies and data analytics techniques to overcome computational challenges presented by [[Big Data]] sets.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=13)** Distributed computing means an approach used in computer science to break down a task into smaller pieces that are easier to process.
 >
@@ -320,39 +314,38 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=38)** For example, a fragment of your task can be processed in Seoul, South Korea, while another piece can be worked on in New York.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=47)** Cloud computing provides a platform on which distributed computing can be implemented with low cost and scalable methods.
+> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=47)** [[Cloud Computing]] provides a platform on which distributed computing can be implemented with low cost and scalable methods.
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=56)** To simply put it, cloud computing offers a bunch of computers housed in data centers.
 >
-> **[1:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=62)** In addition to the hardware, a software solution is necessary to manage various aspects of distributed computing.
+> **[1:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=62)** In addition to the [[Hardware]], a software solution is necessary to manage various aspects of distributed computing.
 >
-> **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=69)** This is why we need software tools such as Hadoop and NoSQL databases.
+> **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=69)** This is why we need software tools such as [[Hadoop]] and [[NoSQL]] [[Databases]].
 >
 > **[1:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=76)** Once you get with both hardware and software infrastructures to store, manage, and process big data sets, you're finally ready to run data analytics programs to ask your specific questions on certain big data sets.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=93)** These questions can touch on applications like fraud detection, online dating, network security, disease control, and climate changes.
+> **[1:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/big-data-analytics?u=76281980&t=93)** These questions can touch on applications like fraud detection, online dating, [[Network Security]], disease control, and climate changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Big Data]] (3), [[Analytics]] (2), cloud (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Cloud Computing]] (2), [[Hardware]] (2), [[Big Data Analytics]] (1), [[Hadoop]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980)
+#### [Enabling technologies](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=0)** - [Instructor] There are a number of underlying technologies that make data science a reality.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=0)** - [Instructor] There are a number of underlying technologies that make [[Data Science]] a reality.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=7)** These include data infrastructure, data management and visualization technologies.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=7)** These include data infrastructure, [[Data Management]] and visualization technologies.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=15)** Data infrastructure technologies support how data is shared, processed and consumed.
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=24)** One of the most popular data infrastructure technologies data scientists use today is distributed computing in general.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=33)** And in particular, cloud computing.
+> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=33)** And in particular, [[Cloud Computing]].
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=36)** There are key underlying technologies that enable cloud computing.
 >
@@ -360,25 +353,25 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=44)** Distributed file sharing is another.
 >
-> **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=48)** In particular, Redundant Array of Independent Disks or RAID and Hadoop Distributed File System or HDFS are prominent ones.
+> **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=48)** In particular, Redundant Array of Independent Disks or RAID and [[Hadoop]] Distributed File System or HDFS are prominent ones.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=63)** Data management is handled by database management systems or DBMS.
+> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=63)** Data management is handled by [[Database Management]] systems or DBMS.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=70)** Data science requires highly scalable, reliable and efficient ways to store, manage and process data, which is why DBMS plays a critical role in data science.
 >
-> **[1:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=87)** As big data becomes mainstream, unstructured data is also becoming more prevalent.
+> **[1:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=87)** As [[Big Data]] becomes mainstream, [[Unstructured Data]] is also becoming more prevalent.
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=94)** In fact, a majority of business related data is unstructured.
 >
-> **[1:39](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=99)** It consists of word processing, presentation, log files and so on.
+> **[1:39](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=99)** It consists of [[Microsoft Word|word]] processing, presentation, log files and so on.
 >
 > **[1:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=106)** However, a significant portion our data is still stored in conventional relational DBMS and in a structured data format.
 >
 > **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=118)** As a result, the new generation of data science professionals have to be versatile enough to be able to deal with both unstructured and structured data sets.
 >
-> **[2:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=131)** Knowledge in SQL is still invaluable in the context of data management.
+> **[2:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=131)** Knowledge in [[SQL]] is still invaluable in the context of data management.
 >
-> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=138)** Once data analysis is over, the newly acquired insight needs to be conveyed to the leadership and the rest of an organization.
+> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=138)** Once data analysis is over, the newly acquired insight needs to be conveyed to the leadership and the [[Representational State Transfer (REST)|rest]] of an organization.
 >
 > **[2:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/enabling-technologies?u=76281980&t=148)** No matter how significant the discoveries are, if data scientists fail to communicate them effectively, especially in the context of strategic goals of the organization, their impact will be minimal.
 >
@@ -386,17 +379,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), management (4), cloud (2), [[Virtualization]] (1), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Data Management]] (3), [[Cloud Computing]] (2), [[Hadoop]] (1), [[Database Management]] (1)
 > **Env Vars:** dbms (3), raid (1), hdfs (1), sql (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artificial intelligence (AI) and data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980)
+#### [Artificial intelligence (AI) and data science](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=0)** Data science and artificial intelligence are inseparable and complementary.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=0)** [[Data Science]] and [[Artificial Intelligence (AI)|artificial intelligence]] are inseparable and complementary.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=7)** Without data science, artificial intelligence, or AI, cannot exist, as it relies heavily on data to train its models.
 >
@@ -412,21 +404,21 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=58)** Data scientists use machine learning, or ML, a form of AI, to make detections and predict future trends based on historical data.
 >
-> **[1:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=71)** Deep learning is a specialization of ML that dramatically enhances its utility and performance.
+> **[1:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=71)** [[Deep Learning]] is a specialization of ML that dramatically enhances its utility and performance.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=79)** The time-consuming aspects of data science, such as data cleaning and preparation, can now benefit more readily from the automation AI offers.
+> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=79)** The time-consuming aspects of data science, such as [[Data Cleaning]] and preparation, can now benefit more readily from the automation AI offers.
 >
-> **[1:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=92)** Data scientists play a crucial role in feature engineering, the process of selecting and adjusting the most relevant variables for an AI model.
+> **[1:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=92)** Data scientists play a crucial role in [[Feature Engineering]], the process of selecting and adjusting the most relevant variables for an AI model.
 >
 > **[1:43](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=103)** They also help test the effectiveness and performance of an AI solution by using statistical frameworks.
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=110)** ML is one of the most obvious common denominators between AI and data science.
 >
-> **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=118)** Once data scientists define the problems to solve and acquire cleaned data, they often use ML algorithms to produce solutions.
+> **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/artificial-intelligence-ai-and-data-science?u=76281980&t=118)** Once data scientists define the problems to solve and acquire cleaned data, they often use ML [[Algorithms]] to produce solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Deep Learning]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Deep Learning]] (1), [[Data Cleaning]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -436,12 +428,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to marketplaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
+#### [Introduction to marketplaces](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=0)** - Data science knowledge is quickly becoming an underlying skill many companies seek in their employees, regardless of their fields.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=0)** - [[Data Science]] knowledge is quickly becoming an underlying skill many companies seek in their employees, regardless of their fields.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=10)** In case you are wondering why, it's time for you to understand why data science plays a critical role in tackling many of everyday business challenges out there.
 >
@@ -455,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=40)** These tools claim that they can analyze a person's social media persona with simple text inputs.
 >
-> **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=48)** Dating services are also starting to use more sophisticated forms of data science.
+> **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=48)** Dating services are also starting to use more sophisticated [[Forms]] of data science.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980&t=54)** Companies use data to enhance their customers' experience through data-informed matchmaking techniques.
 >
@@ -465,20 +456,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), [[Analytics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
-#### Fraud detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980)
+#### [Fraud detection](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=0)** - [Instructor] Data science marketplace is diverse.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=0)** - [Instructor] [[Data Science]] marketplace is diverse.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=3)** For example, one of its key markets is fraud detection.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=9)** As we move toward the digital economy, criminals and crooks are finding various, and ingenious ways to commit fraud against the banking sector.
+> **[0:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=9)** As we move toward the digital economy, criminals and crooks are finding various, and ingenious ways to commit fraud against the [[Banking]] sector.
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=22)** The stakes are high.
 >
@@ -498,23 +488,22 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=75)** Therefore, improving the accuracy of fraud detection is a key to success in this case.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=84)** Machine learning and big data analytics are revolutionizing the fraud detection market by drastically reducing the number of legitimate customer events falsely identified as fraud attempts.
+> **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=84)** Machine learning and [[Big Data Analytics]] are revolutionizing the fraud detection market by drastically reducing the number of legitimate customer events falsely identified as fraud attempts.
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=98)** What machine learning brings to the table is its ability to learn on its own what's the best way to detect a fraud through numerous trial and error.
 >
-> **[1:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=110)** Big data contributes to this process by providing rich data sets machine learning algorithms can use to train themselves.
+> **[1:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=110)** [[Big Data]] contributes to this process by providing rich data sets machine learning [[Algorithms]] can use to train themselves.
 >
 > **[1:59](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/fraud-detection?u=76281980&t=119)** The more data points there are, the more accurate the outcome becomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Banking]] (1), [[Big Data Analytics]] (1), [[Big Data]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Banking]] (1), [[Big Data Analytics]] (1), [[Big Data]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Social media analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980)
+#### [Social media analytics](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,17 +517,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=23)** Depending on their focus, social media sites have different types of interests they promote.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=29)** For example, Facebook offers a forum for building informal and personal relationships compared to a professional networking tool like LinkedIn.
+> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=29)** For example, Facebook offers a forum for building informal and personal relationships compared to a [[Professional Networking]] tool like [[LinkedIn]].
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=42)** In addition to its size, qualifying as big data another unique value of social media data lies in the data about data or metadata it carries.
+> **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=42)** In addition to its size, qualifying as [[Big Data]] another unique value of social media data lies in the data about data or [[Metadata]] it carries.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=54)** For example, a post on Facebook can accompany location information as well as timestamps.
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=63)** With this kind of unstructured but very rich data sets, a lot of useful insight can be derived about a person who is posting and consuming information.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=75)** Social media analyzer products are emerging and offering profiling services for companies that want to know more about their customers or future employees.
+> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=75)** Social media analyzer [[Microsoft Products|products]] are emerging and offering profiling services for companies that want to know more about their customers or future employees.
 >
-> **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=88)** In the case of social media analytics, text mining and parsing are the crucial and necessary first steps.
+> **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=88)** In the case of social media analytics, [[Text Mining]] and parsing are the crucial and necessary first steps.
 >
 > **[1:36](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=96)** Social media companies often make their content available through their application programming interface or API.
 >
@@ -546,19 +535,18 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=110)** Collecting the social media data is one thing but manipulating it for analysis purposes is another.
 >
-> **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=118)** A lot of skills and efforts are necessary before attempting to apply analytics methods although standards like JSON helps.
+> **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=118)** A lot of skills and efforts are necessary before attempting to apply analytics methods although standards like [[JSON]] helps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (2), api (2), [[Professional Networking]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Professional Networking]] (1), [[LinkedIn]] (1), [[Big Data]] (1), [[Metadata]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (2), json (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Disease control
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980)
+#### [Disease control](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980&t=21)** The University of Pennsylvania's study identified indicators of emotional distress expressed in words, and correlated them to the occurrences of heart disease.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980&t=33)** Their study used linguistic analysis techniques, as well as various big data analytics techniques to reveal keywords of emotion, such as hate, to be strongly correlated to the incidence of heart disease.
+> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980&t=33)** Their study used linguistic analysis techniques, as well as various [[Big Data Analytics]] techniques to reveal keywords of emotion, such as hate, to be strongly correlated to the incidence of heart disease.
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/disease-control?u=76281980&t=48)** On the other hand, positive words like wonderful show the opposite correlation.
 >
@@ -580,12 +568,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), [[Big Data Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Big Data Analytics]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dating services
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980)
+#### [Dating services](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,101 +592,98 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=56)** Other online dating services use a more sophisticated method such as a compatibility predictive model.
 >
-> **[1:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=65)** The leaders of online dating providers are now starting to adopt big data analytics to enhance the quality of their services.
+> **[1:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=65)** The leaders of online dating providers are now starting to adopt [[Big Data Analytics]] to enhance the quality of their services.
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=74)** [Match.com](https://Match.com) has collected more than dozens of terabytes of data on their customers.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=82)** The primary method used by the big data analytics algorithms when making matches is to keep track of candidates' online behavior.
+> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=82)** The primary method used by the big data analytics [[Algorithms]] when making matches is to keep track of candidates' online behavior.
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dating-services?u=76281980&t=91)** One caveat, in this case, is the possibility of people fabricating their online behavior.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data Analytics]] (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Big Data Analytics]] (2), [[Algorithms]] (1)
 > **Analogies:** for instance (1), for example (1), such as (1)
 > **CLI Commands:** find (2)
 > **URLs:** [match.com](https://match.com) (2)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980)
+#### [Simulations](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=0)** Simulations imitates the operation of a real-world system.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=5)** The true power of simulation comes from its predictive nature.
+> **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=5)** The true power of [[Simulation]] comes from its predictive nature.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=9)** A computer simulation can completely rely on a mathematical model, can be interpreted into an algorithm, and then finally implemented into a piece of code.
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=22)** A physics engine used for gaming is an excellent example of this.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=28)** This purely model-driven simulation is not always accurate and can misrepresent what can happen in the real world, which is why data science can play an important role in simulations.
+> **[0:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=28)** This purely model-driven simulation is not always accurate and can misrepresent what can happen in the real world, which is why [[Data Science]] can play an important role in simulations.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=42)** By feeding real-life data into a simulation model, scientists can improve the accuracy of a simulation drastically.
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=52)** In addition to the improved accuracy, the simulation model aided by this infusion of a large amount of real-life data can also significantly enhance its predictive power.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=66)** For example, the field of climatology is one of the beneficiaries of the recent progresses of big data analytics.
+> **[1:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=66)** For example, the field of climatology is one of the beneficiaries of the recent progresses of [[Big Data Analytics]].
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/simulations-31370121?u=76281980&t=79)** Now meteorologists can predict future weather patterns with much more accuracy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (6), data (3), power (2), [[Big Data Analytics]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Data Science]] (1), [[Big Data Analytics]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Climate research
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980)
+#### [Climate research](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=0)** - [Instructor] One of the areas where simulations can be used is predictive modeling powered by data science.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=0)** - [Instructor] One of the areas where simulations can be used is [[Predictive Modeling]] powered by [[Data Science]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=7)** Among its many applications, climate and ecosystem change predictions stand out as one of the most timely and significant way of harnessing the power of data science.
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=19)** For example, there is the United Nations initiative called Data for Climate Action Challenge.
 >
-> **[0:26](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=26)** It's a competition aimed at encouraging climate and data scientists to develop innovative climate change research projects by leveraging data analytics.
+> **[0:26](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=26)** It's a competition aimed at encouraging climate and data scientists to develop innovative [[Climate Change]] research projects by leveraging data analytics.
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=39)** Going a little further now it's no longer a pipe dream to simulate the entire ecosystem of the earth.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=46)** The Madingley Model Project is making this dream a reality.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=51)** Using the Madingley Model, scientists can simulate the impact of climate changes on all life forms on Earth.
+> **[0:51](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=51)** Using the Madingley Model, scientists can simulate the impact of climate changes on all life [[Forms]] on Earth.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=61)** The data fed into these predicted models of climate changes and ecosystem systems include environmental data reported through social media and sensor readings coming from various internet of things, or IoT devices as well as conventional climate data.
+> **[1:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/climate-research?u=76281980&t=61)** The data fed into these predicted models of climate changes and ecosystem systems include environmental data reported through social media and sensor readings coming from various [[IoT|internet of things]], or [[IoT]] devices as well as conventional climate data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Predictive Modeling]] (1), power (1), [[Climate Change]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Predictive Modeling]] (1), [[Climate Change]] (1), [[Forms]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network security
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980)
+#### [Network security](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=0)** As cyber threats increase, more organizations are making network security as their top priority.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=0)** As cyber threats increase, more organizations are making [[Network Security]] as their top priority.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=8)** The attacks on the Internet are getting more sophisticated at a light speed while network security vendors are always trying to catch up with the advances made in new hacking techniques.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=23)** Despite many recent stories of network vulnerabilities being breached, it is an encouraging sign that many of the network security solutions providers are now moving towards leveraging machine learning and big data analytics to enhance their products.
+> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=23)** Despite many recent stories of network vulnerabilities being breached, it is an encouraging sign that many of the network security solutions providers are now moving towards leveraging machine learning and [[Big Data Analytics]] to enhance their [[Microsoft Products|products]].
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=39)** One of the frontiers of network security is the field of logging and monitoring.
 >
 > **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=47)** Many of the software companies offering network security solutions are incorporating machine learning and big data analytics into their product line.
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=58)** Microsoft is a great example of this trend.
+> **[0:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=58)** [[Microsoft]] is a great example of this trend.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=61)** Through their cloud product called Azure, they offer a machine learning service on which users can build their own intrusion detection solutions or use any of the built-in services provided by Microsoft.
+> **[1:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/network-security-31362127?u=76281980&t=61)** Through their cloud product called [[Microsoft Azure|Azure]], they offer a machine learning service on which users can build their own [[Intrusion Detection]] solutions or use any of the built-in services provided by Microsoft.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (4), [[Big Data Analytics]] (2), product (2), [[Microsoft]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (4), [[Big Data Analytics]] (2), [[Microsoft]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (1)
 
 
@@ -707,26 +691,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Required skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
+#### [Required skills](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=0)** - You may be wondering about what skills you need to be successful in data science and analytics careers.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=0)** - You may be wondering about what skills you need to be successful in [[Data Science]] and analytics careers.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=8)** Although there are boundless possibilities that could positively affect your quest for landing a data science and analytics job, it helps to start with some obvious ones, such data mining, machine learning, natural language processing, statistics and visualization.
+> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=8)** Although there are boundless possibilities that could positively affect your quest for landing a data science and analytics job, it helps to start with some obvious ones, such [[Data Mining]], machine learning, [[Natural Language Processing (NLP)|natural language processing]], [[Statistics]] and visualization.
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=29)** Data mining is a broad term referring to the practice of examining a large amount of data for the purpose of finding meaningful patterns and establishing significant relationships to help solve a problem.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=45)** Machine learning is a sub field of artificial intelligence.
+> **[0:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=45)** Machine learning is a sub field of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=49)** It focuses on optimizing ways to use algorithms to conduct data analysis and analytics tasks with as little human supervision as possible.
+> **[0:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=49)** It focuses on optimizing ways to use [[Algorithms]] to conduct data analysis and analytics tasks with as little human supervision as possible.
 >
 > **[1:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=61)** Natural language processing allows a computer to make sense of its interactions with human beings through linguistic means such as spoken and written languages.
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=73)** Statistics is a foundation for data analysis and analytics in general.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=79)** Without statistics, it is impossible to do any sophisticated data processing like data mining or machine learning.
+> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=79)** Without statistics, it is impossible to do any sophisticated [[Data Processing]] like data mining or machine learning.
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980&t=88)** Visualization is usually the last step of data science and analytics projects.
 >
@@ -744,29 +727,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Analytics]] (8), [[Statistics]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Data Mining]] (3), [[Statistics]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - you (1)
 
-#### Data mining and analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980)
+#### [Data mining and analytics](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=0)** - [Instructor] Data mining and analytics involve a myriad of data manipulation techniques.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=0)** - [Instructor] [[Data Mining]] and analytics involve a myriad of [[Data Manipulation]] techniques.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=7)** Text Retrieval is one of the most well known data mining techniques.
 >
-> **[0:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=11)** It builds on many foundational concepts and methods developed by Natural Language Processing or NLP.
+> **[0:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=11)** It builds on many foundational concepts and methods developed by [[Natural Language Processing (NLP)|Natural Language Processing]] or NLP.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=20)** Classification constructs a model that labels a group of data objects into a specific category.
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=27)** In the classification model, the classes with their own labels are discreet in nature.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=33)** For instance, the same classification model can categorize people into groups of trustworthy and untrustworthy users of an online banking system.
+> **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=33)** For instance, the same classification model can categorize people into groups of trustworthy and untrustworthy users of an online [[Banking]] system.
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=45)** Prediction builds a model that produces continuous or ordered values that form a trend.
 >
@@ -776,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=68)** Clustering helps reveal features that distinguish one class of data objects from the other, leading to new discoveries on a dataset.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=79)** Uses of clustering analysis range from pattern recognition and image processing to market research.
+> **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=79)** Uses of clustering analysis range from pattern recognition and [[Image Processing]] to [[Market Research]].
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-mining-and-analytics?u=76281980&t=87)** For example, clustering can reveal people of similar purchasing behaviors.
 >
@@ -784,18 +766,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Data Manipulation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Data Manipulation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Banking]] (1), [[Image Processing]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **Env Vars:** nlp (1), mttf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980)
+#### [Machine learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=0)** - Machine learning is based on self-learning or self-improving algorithms.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=0)** - Machine learning is based on self-learning or self-improving [[Algorithms]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=7)** In machine learning, a computer starts with a model and continues to enhance it through trial and error.
 >
@@ -805,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=25)** One is supervised, and the other is unsupervised.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=29)** Supervised learning is reinforced by feedback in the form of training data.
+> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=29)** [[Supervised Learning]] is reinforced by feedback in the form of training data.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=35)** Suppose that you have a basket of apples and oranges.
 >
@@ -817,7 +798,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=68)** Therefore, this process is equivalent to classification.
 >
-> **[1:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=72)** A concept used in the data mining and analytics domain.
+> **[1:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=72)** A concept used in the [[Data Mining]] and analytics domain.
 >
 > **[1:17](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning?u=76281980&t=77)** In the unsupervised learning environment, there is no training data.
 >
@@ -825,17 +806,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Supervised Learning]] (2), [[Algorithms]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Algorithms]] (1), [[Data Mining]] (1)
 > **Speakers:** - machine (1)
 
-#### Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980)
+#### [Natural language processing](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=0)** - [Narrator] Natural language processing or NLP refers to a collection of different ways for a computer to make sense out of its interactions with a human being through a natural language.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=0)** - [Narrator] [[Natural Language Processing (NLP)|Natural language processing]] or NLP refers to a collection of different ways for a computer to make sense out of its interactions with a human being through a natural language.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=16)** NLP is a comprehensive discipline in computer science and involves topics such as artificial intelligence, computer linguistics, and human computer interaction or HCI.
+> **[0:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=16)** NLP is a comprehensive discipline in computer science and involves topics such as [[Artificial Intelligence (AI)|artificial intelligence]], computer linguistics, and human computer interaction or HCI.
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=30)** There are NLP sub-fields that are particularly relevant to a data scientist.
 >
@@ -849,27 +829,26 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=67)** A significant portion of data you're dealing with as a data scientist is unstructured, that is they are texts extracted, not from a database, but from sources such as social media sites, text documents, pictures, and so on.
 >
-> **[1:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=85)** Therefore, one of the biggest challenges of a data scientist is to sort through this unstructured data and pre-process it so that data mining and analytics tools can take over to extract the ultimate knowledge they are seeking.
+> **[1:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=85)** Therefore, one of the biggest challenges of a data scientist is to sort through this [[Unstructured Data]] and pre-process it so that [[Data Mining]] and analytics tools can take over to extract the ultimate knowledge they are seeking.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=102)** Luckily, for the data scientists, there are already well developed NLP tools patched into program languages, such as Python.
+> **[1:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=102)** Luckily, for the data scientists, there are already well developed NLP tools patched into program languages, such as [[Python (Programming Language)|Python]].
 >
-> **[1:52](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=112)** Some of these tools are also built into an operating system such as Unix or Linux.
+> **[1:52](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/natural-language-processing?u=76281980&t=112)** Some of these tools are also built into an operating system such as Unix or [[Linux]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), nlp (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unstructured Data]] (1), [[Data Mining]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nlp (4), hci (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980)
+#### [Statistics](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=0)** - [Instructor] Statistics lays a foundation for data science.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=0)** - [Instructor] [[Statistics]] lays a foundation for [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=4)** In fact, statistics is where data science started.
 >
@@ -877,22 +856,21 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=18)** In fact, the more you know about statistics, the better.
 >
-> **[0:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=25)** At a minimum, a data scientist needs to be proficient with concepts such as probability, correlation, variables, distributions, regression, null hypotheses, significance tests, confidence intervals, t-tests, ANOVA, and chi-square.
+> **[0:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=25)** At a minimum, a data scientist needs to be proficient with concepts such as [[Probability]], correlation, variables, distributions, regression, null hypotheses, significance tests, confidence intervals, t-tests, ANOVA, and chi-square.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=47)** You also need to know how to use common statistical analysis tools, including R, Excel, and SAS.
+> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=47)** You also need to know how to use common [[Statistical Analysis]] tools, including R, [[Microsoft Excel|Excel]], and SAS.
 >
-> **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=56)** At a more advanced level, a data scientist needs to be familiar with concepts and algorithms like logistic regression, support vector machines, or SVMs, and Bayesian methods.
+> **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/statistics?u=76281980&t=56)** At a more advanced level, a data scientist needs to be familiar with concepts and [[Algorithms]] like [[Logistic Regression]], support vector machines, or SVMs, and Bayesian methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (4), [[Probability]] (1), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Data Science]] (2), [[Probability]] (1), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** anova (1), sas (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980)
+#### [Visualization](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980&t=44)** It is also very helpful to know how to use some of the software tools offered by the industry leaders of visualization solutions.
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980&t=55)** For example, Tableau offers one of the most popular and comprehensive visualization tools for data scientists.
+> **[0:55](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980&t=55)** For example, [[Tableau]] offers one of the most popular and comprehensive visualization tools for data scientists.
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/visualization?u=76281980&t=64)** It supports a variety of visualization elements such as different types of charts, graphs, maps and other more advanced options.
 >
@@ -914,26 +892,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Large language models (LLMs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980)
+#### [Large language models (LLMs)](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=0)** In addition to the pillar skills we have reviewed so far, it's increasingly important for data science and analytics professionals to keep up with the latest AI technologies, such as Large Language Models or LLMs, because they can automate many of the mundane aspects of data science tasks.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=0)** In addition to the pillar skills we have reviewed so far, it's increasingly important for [[Data Science]] and analytics professionals to keep up with the latest AI technologies, such as [[Large Language Models (LLM)|Large Language Models]] or LLMs, because they can automate many of the mundane aspects of data science tasks.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=23)** Machine learning has been revolutionized by deep learning, processing, which leverages neural networks that mimic the human brain.
+> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=23)** Machine learning has been revolutionized by [[Deep Learning]], processing, which leverages [[Neural Networks]] that mimic the human brain.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=33)** Large Language Models, or LLMs, are a massive-scale application of deep learning.
 >
-> **[0:41](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=41)** LLMs focus on Natural Language Processing, or NLP, and are just one application of neural networks, which also include computer vision, speech recognition, and medical diagnostics.
+> **[0:41](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=41)** LLMs focus on [[Natural Language Processing (NLP)|Natural Language Processing]], or NLP, and are just one application of neural networks, which also include [[Computer Vision]], [[Speech Recognition]], and medical diagnostics.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=57)** Natural language in NLP refers to the languages we humans use, such as English.
 >
-> **[1:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=65)** LLMs use a specific architecture called the transformer, and their training goal is to predict what comes next given a sequence of tokens that make up a conversation or lines of code.
+> **[1:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=65)** LLMs use a specific architecture called the transformer, and their training goal is to predict what comes next given a sequence of [[Tokens]] that make up a conversation or lines of code.
 >
 > **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=82)** Transformers allow AI systems to process the entire sequence of token data at once and empowers it to understand context.
 >
@@ -941,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=100)** We are all used to the auto-complete feature in our editors.
 >
-> **[1:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=104)** When we start typing, it suggests the next word.
+> **[1:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=104)** When we start typing, it suggests the next [[Microsoft Word|word]].
 >
 > **[1:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=108)** LLMs are auto-complete on steroids.
 >
@@ -951,11 +928,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=133)** We call this phenomenon hallucination.
 >
-> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=138)** Since LLMs generate outputs such as text, images, and videos, we also refer to them as generative AI.
+> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/large-language-models-llms?u=76281980&t=138)** Since LLMs generate outputs such as text, images, and videos, we also refer to them as [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Large Language Models (LLM)|Large language models]] (2), application (2), nlp (2)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** nlp (2)
 > **Definitions:** refers to (1), we call this (1)
@@ -966,26 +943,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
+#### [Introduction to roles](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=0)** - There are a number of opportunities you can take advantage of to play an active role and contribute to data science and analytics fields.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=0)** - There are a number of opportunities you can take advantage of to play an active role and contribute to [[Data Science]] and analytics fields.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=10)** To name just a few, there are job titles such as data scientist, data engineer, business intelligence architect, machine learning specialist, data analytics specialist, and data visualization developer.
+> **[0:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=10)** To name just a few, there are job titles such as data scientist, data engineer, [[Business Intelligence (BI)|business intelligence]] architect, machine learning specialist, data analytics specialist, and data visualization developer.
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=26)** Each of these roles are critical in effectively leveraging data and its potential despite numerous challenges.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=35)** For example, big data requires special processing by data engineers before analytics specialist can even try to do their job.
+> **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=35)** For example, [[Big Data]] requires special processing by data engineers before analytics specialist can even try to do their job.
 >
-> **[0:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=46)** Take network security.
+> **[0:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=46)** Take [[Network Security]].
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=48)** Let's assume that you need to analyze a terabyte of data every day.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=53)** The goal here is detecting suspicious behavior.
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=58)** There are numerous roles involved in this including domain experts such as cybersecurity professionals, database administrators, cloud and distributed computing specialists, network engineers, software engineers, and last but not least, data scientists.
+> **[0:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=58)** There are numerous roles involved in this including domain experts such as [[Cybersecurity]] professionals, database administrators, cloud and distributed computing specialists, network engineers, software engineers, and last but not least, data scientists.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980&t=78)** The list goes on and on.
 >
@@ -997,16 +973,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (4), [[Network Security]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Network Security]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Big Data]] (1), [[Cybersecurity]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - there (1)
 
-#### Data scientist or engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980)
+#### [Data scientist or engineer](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=0)** - [Instructor] Data science is an all encompassing term.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=0)** - [Instructor] [[Data Science]] is an all encompassing term.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=3)** Similarly, data scientist is also an all encompassing job title.
 >
@@ -1026,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=70)** Compared to other highly specialized jobs in data science, the entrance barrier to a data science job is relatively lower.
 >
-> **[1:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=80)** A solid training in computer science or statistics may be enough for you to get started at an entry level position.
+> **[1:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=80)** A solid training in computer science or [[Statistics]] may be enough for you to get started at an entry level position.
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-scientist-or-engineer?u=76281980&t=88)** But a master's degree in data science is a big plus.
 >
@@ -1036,17 +1011,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), leadership (2), [[Analytics]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Statistics]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business intelligence architect
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-intelligence-architect?u=76281980)
+#### [Business intelligence architect](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-intelligence-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-intelligence-architect?u=76281980&t=0)** - [Narrator] Business intelligence or BI is a process of collecting, managing, and processing corporate data to provide actionable information for the leadership and employees of a company.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-intelligence-architect?u=76281980&t=0)** - [Narrator] [[Business Intelligence (BI)|Business intelligence]] or BI is a process of collecting, managing, and processing corporate data to provide actionable information for the leadership and employees of a company.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-intelligence-architect?u=76281980&t=15)** BI is heavily technology driven and leverages various software applications to perform the analysis and analytics of company data.
 >
@@ -1066,14 +1040,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (6), data (3), [[Business Intelligence (BI)|Business intelligence]] (1), leadership (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Machine learning scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980)
+#### [Machine learning scientist](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1072,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=69)** Math skills are essential because they form the foundations of the technical language machine learning scientists use.
 >
-> **[1:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=78)** In particular, deep knowledge of statistics and probability is important.
+> **[1:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=78)** In particular, deep knowledge of [[Statistics]] and [[Probability]] is important.
 >
 > **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=84)** Next, is an ability to develop and validate a mathematical model representing various aspects of machine learning.
 >
@@ -1107,38 +1080,37 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=105)** Finally, you also need some practical IT skills.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=109)** Proficiency in programming languages such as Python, C++, Java, and R is very helpful.
+> **[1:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=109)** Proficiency in programming languages such as [[Python (Programming Language)|Python]], C++, [[Java]], and R is very helpful.
 >
 > **[1:58](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=118)** Your work efficiency as a machine learning scientist is often dependent upon your ability to pre-process a large amount of text very quickly and efficiently.
 >
-> **[2:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=130)** Therefore, your familiarity with Unix Linux tools like Sed, Awk, Grep, Find, and Sort is highly useful.
+> **[2:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=130)** Therefore, your familiarity with Unix [[Linux]] tools like Sed, Awk, Grep, Find, and Sort is highly useful.
 >
-> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=138)** Last, but not least, is your understanding of distributed computing because your machine learning program will most probably have to take advantage of technologies such as Hadoop and Cloud Computing.
+> **[2:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=138)** Last, but not least, is your understanding of distributed computing because your machine learning program will most probably have to take advantage of technologies such as [[Hadoop]] and [[Cloud Computing]].
 >
 > **[2:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=153)** As we can store data more cheaply and easily, there is an increasing number of data sources available to us.
 >
 > **[2:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=160)** These include images, videos, maps, networking data, social media data, and so on.
 >
-> **[2:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=167)** Therefore, naturally, there is a growing need for data processing.
+> **[2:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=167)** Therefore, naturally, there is a growing need for [[Data Processing]].
 >
 > **[2:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/machine-learning-scientist?u=76281980&t=173)** Machine learning scientists are at the forefront of these kind of efforts for leveraging the data around us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), career (1), [[Statistics]] (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Probability]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Linux]] (1)
 > **CLI Commands:** python (1), sed (1), awk (1), grep (1), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Business analytics specialist
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980)
+#### [Business analytics specialist](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=0)** - The word business, strongly implies a requirement for solid business knowledge and sense for this job.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=0)** - The [[Microsoft Word|word]] business, strongly implies a requirement for solid business knowledge and sense for this job.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=7)** Therefore, whoever is aspiring to become a business analytics specialist must be both business and technology savvy.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=7)** Therefore, whoever is aspiring to become a [[Business Analytics]] specialist must be both business and technology savvy.
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=18)** Business analytics specialists are those who make things happen under the overarching vision of the architect.
 >
@@ -1148,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=46)** This also means that they cannot architect and build their own BI systems due to the lack of resources.
 >
-> **[0:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=53)** Naturally, in this scenario, the business analytics specialist has no other choice but to depend on, off the shelf, solve products offering business analytics capabilities.
+> **[0:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=53)** Naturally, in this scenario, the business analytics specialist has no other choice but to depend on, off the shelf, solve [[Microsoft Products|products]] offering business analytics capabilities.
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=66)** Luckily for these smaller companies, with less resources, the service of business analytics is being quickly commoditized and becoming easily accessible.
 >
@@ -1156,20 +1128,19 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=84)** For example, Amazon has a service called QuickSight.
 >
-> **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=88)** According to their marketing literature, it is a very fast, easy to use cloud powered business intelligence for 1/10th the cost of traditional BI solutions.
+> **[1:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=88)** According to their marketing literature, it is a very fast, easy to use cloud powered [[Business Intelligence (BI)|business intelligence]] for 1/10th the cost of traditional BI solutions.
 >
 > **[1:41](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/business-analytics-specialist?u=76281980&t=101)** This kind of product is a perfect tool for a business analytics specialist to take advantage of.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Analytics]] (7), bi (6), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (7), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Data visualization developer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980)
+#### [Data visualization developer](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,19 +1152,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=28)** Media companies, such as news outlets, are also hiring visualization developers.
 >
-> **[0:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=34)** They need infographics to draw attention from their readers and viewers.
+> **[0:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=34)** They need [[Infographics]] to draw attention from their readers and viewers.
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=40)** Of course, any data analytics groups in industry and academia would like to hire their own data visualization developers.
 >
-> **[0:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=50)** Although working independently at times, data visualization developers are expected to frequently work with various teams of people dealing with different aspects of data science.
+> **[0:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=50)** Although working independently at times, data visualization developers are expected to frequently work with various teams of people dealing with different aspects of [[Data Science]].
 >
-> **[1:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=62)** For instance, they'll be working very closely with data scientists, business intelligence architects, machine learning specialists, and business analytics specialists on a daily basis.
+> **[1:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=62)** For instance, they'll be working very closely with data scientists, [[Business Intelligence (BI)|business intelligence]] architects, machine learning specialists, and [[Business Analytics]] specialists on a daily basis.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=75)** Their primary job is to work collaboratively to identify the most appealing and effective means to visually express data mining and analytics results to help develop new insight and to assist in making critical business decisions.
+> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=75)** Their primary job is to work collaboratively to identify the most appealing and effective means to visually express [[Data Mining]] and analytics results to help develop new insight and to assist in making critical business decisions.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=93)** Since it is a development position, this job requires programming skills, especially in the area of web development and other graphical user interface platforms.
+> **[1:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=93)** Since it is a development position, this job requires programming skills, especially in the area of [[Web Development]] and other graphical user interface platforms.
 >
-> **[1:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=105)** Also, a visualization specialist must have knowledge in various database systems and query languages because part of their job is to interface with the database APIs to pull the data before it gets displayed.
+> **[1:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=105)** Also, a visualization specialist must have knowledge in various [[Database Systems]] and query languages because part of their job is to interface with the database APIs to pull the data before it gets displayed.
 >
 > **[2:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/data-visualization-developer?u=76281980&t=121)** Finally, they need to be proficient with mainstream data visualization software tools so that they can speed up their development.
 >
@@ -1203,27 +1174,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Analytics]] (3), business (2), database (2), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1), [[Data Science]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Business Analytics]] (1), [[Data Mining]] (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980)
+#### [AI engineer](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=0)** Artificial intelligence or AI engineers often have roots in data science.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=0)** [[Artificial Intelligence (AI)|Artificial intelligence]] or AI engineers often have roots in [[Data Science]].
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=7)** Data scientists are exposed to AI early in their training because they need to use AI tools effectively to uncover hidden insights and meaning in data, enabling data-informed decision-making through automation.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=7)** Data scientists are exposed to AI early in their training because they need to use AI tools effectively to uncover hidden insights and meaning in data, enabling data-informed [[Decision-Making]] through automation.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=25)** During this exposure, if data science professionals find the technical aspects of leveraging AI for problem solving more fascinating and want to focus on how to do so, many of them end up pursuing a career as an AI engineer.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=42)** While data scientists concentrate on scientific methods, including using AI to uncover insights buried in large datasets, AI engineers seek automated solutions through software engineering centered on concepts such as machine learning, or ML, deep learning, and large
+> **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=42)** While data scientists concentrate on scientific methods, including using AI to uncover insights buried in large datasets, AI engineers seek automated solutions through software engineering centered on concepts such as machine learning, or ML, [[Deep Learning]], and large
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=67)** language models, or LLMs.
 >
-> **[1:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=71)** Essentially, AI engineers are software engineers who help stakeholders determine which products are feasible to build using the latest AI technologies on the market.
+> **[1:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=71)** Essentially, AI engineers are software engineers who help stakeholders determine which [[Microsoft Products|products]] are feasible to build using the latest AI technologies on the market.
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=86)** They also understand how AI affects system design and how to architect systems that are performant and autonomous.
 >
@@ -1233,7 +1203,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=110)** The domain knowledge in data science is particularly helpful for AI engineers because many of the solutions they work on are essentially data science problems.
 >
-> **[2:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=122)** However, AI engineers focus on product development while data scientists mainly support business intelligence efforts.
+> **[2:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=122)** However, AI engineers focus on [[Product Development]] while data scientists mainly support [[Business Intelligence (BI)|business intelligence]] efforts.
 >
 > **[2:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ai-engineer?u=76281980&t=132)** Knowing the context reduces the time it takes to understand the nature of the problems.
 >
@@ -1247,16 +1217,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (12), [[Engineering]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1), [[Deep Learning]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
-#### Salaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980)
+#### [Salaries](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=0)** Can you guess how much data science and analytics professionals are making, on average, in terms of their annual salary?
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=0)** Can you guess how much [[Data Science]] and analytics professionals are making, on average, in terms of their annual salary?
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=8)** Of course, the salary numbers are always changing, and a lot depends on where you're working due to the cost of living differences.
 >
@@ -1272,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=46)** Therefore, your salary potential will be higher than or comparable to that of other high-demand IT professionals, such as AI engineers.
 >
-> **[0:57](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=57)** Because I know how difficult it is to nail down salary statistics given their diverse and fluctuating nature, let me give you some anecdotal snapshots of how well specific types of data science and analytics professionals are paid.
+> **[0:57](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=57)** Because I know how difficult it is to nail down salary [[Statistics]] given their diverse and fluctuating nature, let me give you some anecdotal snapshots of how well specific types of data science and analytics professionals are paid.
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/salaries-31359111?u=76281980&t=74)** At the time of this recording, entry-level data scientists earn more than $85,000 per year.
 >
@@ -1284,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (6), ai (2), [[Statistics]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Statistics]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 
@@ -1293,12 +1262,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
+#### [Introduction to certifications](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=0)** As the field of data science and analytics matures, we're seeing more certification opportunities becoming available.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=0)** As the field of [[Data Science]] and analytics matures, we're seeing more certification opportunities becoming available.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=9)** Just like any professionals out there, data scientists can establish more credibility in what they're capable of by earning well-known certifications in their field.
 >
@@ -1314,7 +1282,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=64)** If you are a working industry professional who is interested in enhancing your marketability, a more specialized form of certification may be appropriate.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=75)** These can be directly tied to software products you are required to use on a daily basis and and include certifications such as Microsoft Azure Data Scientist Associate, Cloudera Data Platform Certifications, Dell Professional Data Science Track, AWS, Google, and SAS
+> **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=75)** These can be directly tied to software [[Microsoft Products|products]] you are required to use on a daily basis and and include certifications such as [[Microsoft Azure]] Data Scientist Associate, Cloudera Data Platform Certifications, Dell Professional Data Science Track, AWS, [[Google]], and SAS
 >
 > **[1:39](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980&t=99)** certifications.
 >
@@ -1332,18 +1300,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Azure]] (1), aws (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Microsoft Products|Products]] (1), [[Microsoft Azure]] (1), [[Google]] (1)
 > **Env Vars:** aws (1), sas (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** required to (1)
 
-#### Azure Data Scientist Associate certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980)
+#### [Azure Data Scientist Associate certification](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980&t=0)** Obtaining the Azure Data Scientist Associate certification qualifies an individual as a subject matter expert who can apply data science and machine learning to implement and run machine learning workloads on Microsoft Azure according to the Microsoft website.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980&t=0)** Obtaining the [[Microsoft Azure|Azure]] Data Scientist Associate certification qualifies an individual as a subject matter expert who can apply [[Data Science]] and machine learning to implement and run machine learning workloads on [[Microsoft Azure]] according to the [[Microsoft]] website.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/azure-data-scientist-associate-certification-31372054?u=76281980&t=20)** In addition, candidates need to demonstrate knowledge of optimizing language models for AI applications using Azure AI.
 >
@@ -1353,10 +1320,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Azure|Azure]] (2), ai (2), [[Microsoft Azure]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Data Science]] (1), [[Microsoft Azure]] (1), [[Microsoft]] (1)
 
-#### Cloudera Data Platform certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980)
+#### [Cloudera Data Platform certification](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1372,26 +1338,25 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=44)** base.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=45)** The candidates should also demonstrate their abilities to manage data sources, users, data security, and governance.
+> **[0:45](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=45)** The candidates should also demonstrate their abilities to manage data sources, users, [[Data Security]], and governance.
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=56)** and troubleshooting are other areas of expertise expected by this certification.
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=62)** There is also a cloud version of this certification called Cloudera Administrator Cloud.
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=70)** More data science-specific Cloudera certifications are Data Operator, Data Analyst, and Machine Learning Engineer.
+> **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/cloudera-data-platform-certification-31362126?u=76281980&t=70)** More [[Data Science]]-specific Cloudera certifications are Data Operator, Data Analyst, and Machine Learning Engineer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (3), [[Security]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 
-#### Dell Data Science track
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980)
+#### [Dell Data Science track](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980&t=0)** Dell offers the Dell Technologies Proven Professional Data Science track, which
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980&t=0)** Dell offers the Dell Technologies Proven Professional [[Data Science]] track, which
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980&t=8)** houses Data Science Foundations, Data Engineering Optimize, and Data Science Optimize.
+> **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980&t=8)** houses [[Data Science Foundations]], [[Data Engineering]] Optimize, and Data Science Optimize.
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/dell-data-science-track?u=76281980&t=17)** These certifications require exams that test a candidate's knowledge of virtualization, data, data analytics, and the role of a data scientist.
 >
@@ -1401,14 +1366,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Data Engineering]] (1), [[Virtualization]] (1), [[Analytics]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Data Engineering]] (1)
 
-#### AWS and Google certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980)
+#### [AWS and Google certification](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=0)** Amazon Web Services, or AWS, is a major player in the cloud computing market, and it offers certifications like AWS Certified Data Engineer Associate
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=0)** [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS, is a major player in the [[Cloud Computing]] market, and it offers certifications like AWS Certified Data Engineer Associate
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=18)** and AWS Certified Machine Learning Engineer, as shown here.
 >
@@ -1422,11 +1386,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=56)** The second option available is Machine Learning Engineer Associate.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=63)** This certification is for those with significant experience in developing, architecting, and running machine learning or deep learning workloads in the AWS Cloud.
+> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=63)** This certification is for those with significant experience in developing, architecting, and running machine learning or [[Deep Learning]] workloads in the AWS Cloud.
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=79)** The exam guide is available here if you're interested.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=84)** Google is another cloud service provider that offers data science certifications.
+> **[1:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=84)** [[Google]] is another cloud service provider that offers [[Data Science]] certifications.
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/aws-and-google-certification-31350123?u=76281980&t=91)** It offers its own data analytics certification, the Google Data Analytics Certificate.
 >
@@ -1434,20 +1398,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), aws (5), [[Analytics]] (4), [[Google]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Computing]] (1), [[Deep Learning]] (1), [[Data Science]] (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### SAS big data and data scientist certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980)
+#### [SAS big data and data scientist certifications](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=0)** SAS Institute is a data analytics software company.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=5)** Business users can get help with their decision-making by using the SAS Software Suite, which helps them effectively manage and analyze their data.
+> **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=5)** Business users can get help with their [[Decision-Making]] by using the SAS Software Suite, which helps them effectively manage and analyze their data.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=20)** SAS offers multiple tracks for its certification programs.
 >
@@ -1455,34 +1418,33 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=37)** Professional, and AI and Machine Learning Professional.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=47)** SAS Certified Data Scientist is for those wanting to validate their ability to manipulate and gain insights from big data with a variety of SAS and open source tools.
+> **[0:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=47)** SAS Certified Data Scientist is for those wanting to validate their ability to manipulate and gain insights from [[Big Data]] with a variety of SAS and open source tools.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=63)** SAS AI and machine learning professional is for those who want to validate their ability to define and understand deep learning.
+> **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=63)** SAS AI and machine learning professional is for those who want to validate their ability to define and understand [[Deep Learning]].
 >
-> **[1:17](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=77)** Candidates should demonstrate their skills in machine learning, natural language processing, computer vision, and model forecasting and optimization.
+> **[1:17](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=77)** Candidates should demonstrate their skills in machine learning, [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and model [[Forecasting]] and optimization.
 >
 > **[1:33](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=93)** Without a doubt, the SAS certifications revolve around the SAS software suite to tackle big data and analytics challenges.
 >
-> **[1:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=104)** But they cover topics well beyond the scope of teaching how to use SAS by addressing other essential tools and concepts, such as Essential Communication Skills, Machine Learning, Optimization Techniques, R, and Python.
+> **[1:44](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=104)** But they cover topics well beyond the scope of teaching how to use SAS by addressing other essential tools and concepts, such as Essential Communication Skills, Machine Learning, Optimization Techniques, R, and [[Python (Programming Language)|Python]].
 >
-> **[2:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=126)** SAS Institute has its own educational arm, the SAS Academy for Data Science, which offers online hands-on training.
+> **[2:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/sas-big-data-and-data-scientist-certifications-31373056?u=76281980&t=126)** SAS Institute has its own educational arm, the SAS Academy for [[Data Science]], which offers online hands-on training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (2), ai (2), [[Big Data]] (2), business (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Decision-Making]] (1), [[Deep Learning]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Forecasting]] (1)
 > **Env Vars:** sas (12)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Certified Analytics Professional (CAP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980)
+#### [Certified Analytics Professional (CAP)](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=0)** INFORMS stands for the Institute for Operations Research and the Management Sciences and offers the Certified Analytics Professional or CAP certification.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=16)** CAP is unique in that it's not tied to any specific software product or vendor, unlike many other data science and analytics certifications available so far.
+> **[0:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=16)** CAP is unique in that it's not tied to any specific software product or vendor, unlike many other [[Data Science]] and analytics certifications available so far.
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=29)** This vendor-neutral nature of the CAP certification is a strength because once certified, you don't have to worry about recertification due to changes beyond your control, such as software version upgrades.
 >
@@ -1494,13 +1456,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=81)** CAP is one of the most comprehensive certifications covering a wide range of knowledge domains, including Business Problem Framing, Analytics Problem Framing, Data Methodology Framing, Analytics Model Development, Deployment, and Analytics Solution Lifecycle Management.
 >
-> **[1:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=107)** CAP applicants must manage to adhere to the Code of Ethics for analytics practitioners.
+> **[1:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=107)** CAP applicants must manage to adhere to the Code of [[Ethics]] for analytics practitioners.
 >
 > **[1:55](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/certified-analytics-professional-cap-31354109?u=76281980&t=115)** CAP requires industry experience and a baccalaureate degree or a master's degree in an analytics-related field.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), management (2), data (2), product (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Ethics]] (1)
 > **Env Vars:** cap (8), informs (1), pdu (1)
 > **Definitions:** stands for (1), is a  (1)
 
@@ -1509,12 +1471,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the future of data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
+#### [Introduction to the future of data science](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980&t=0)** - The future of data science is very bright.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980&t=0)** - The future of [[Data Science]] is very bright.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980&t=3)** There are new technological breakthroughs happening almost daily, and this trend will only accelerate.
 >
@@ -1542,79 +1503,76 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (5), career (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (6)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - the (1)
 
-#### Emerging technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980)
+#### [Emerging technologies](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=0)** - [Narrator] Just like many other technology fields, the discipline of data science is dynamic and constantly changing.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=0)** - [Narrator] Just like many other technology fields, the discipline of [[Data Science]] is dynamic and constantly changing.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=7)** Therefore, it is a must for a data scientist to keep refreshing their knowledge, to stay relevant.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=15)** One of the prominent new trends is the convergence among cloud computing, big data analytics and learning.
+> **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=15)** One of the prominent new trends is the convergence among [[Cloud Computing]], [[Big Data Analytics]] and learning.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=23)** In fact, it's no longer necessary to provision private resources housed in your own organization to deploy a distributed computing solution, like Hadoop.
+> **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=23)** In fact, it's no longer necessary to provision private resources housed in your own organization to deploy a distributed computing solution, like [[Hadoop]].
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=35)** Various online retail data services including warehouses, mining and analytics are already available in the cloud through vendors like Amazon, IBM, Google and so on.
+> **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=35)** Various online retail data services including warehouses, mining and analytics are already available in the cloud through vendors like Amazon, IBM, [[Google]] and so on.
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=48)** This makes it cheaper for companies to use data science techniques to solve their business problems, which in turn increases the demand for data scientists.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=59)** Some of other salient features making these cloud based data science more attractive are their scalability and ease of use.
+> **[0:59](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=59)** Some of other salient features making these cloud based data science more attractive are their [[Scalability]] and ease of use.
 >
 > **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=69)** A majority of data scientists no longer have to worry about data infrastructure and management problems due to these emerging online data science services.
 >
 > **[1:21](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=81)** In conjunction with the consolidation between cloud computing and big data analytics, the importance of machine learning as the critical part of the data science equation, is also rapidly growing.
 >
-> **[1:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=94)** Especially deep learning hinging on a set of machine learning algorithms taking advantage of neural networking is getting more traction.
+> **[1:34](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-technologies?u=76281980&t=94)** Especially [[Deep Learning]] hinging on a set of machine learning [[Algorithms]] taking advantage of neural networking is getting more traction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (4), [[Big Data Analytics]] (2), [[Hadoop]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Cloud Computing]] (2), [[Big Data Analytics]] (2), [[Hadoop]] (1), [[Google]] (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Emerging careers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980)
+#### [Emerging careers](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=0)** - [Narrator] There's no doubt that data science careers are trending upwards.
+> **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=0)** - [Narrator] There's no doubt that [[Data Science]] careers are trending upwards.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=5)** In fact, many industry watchers are reporting shortages in qualified professionals for the foreseeable future.
 >
-> **[0:13](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=13)** Therefore, I'm happy to say that the outlook for data science job opportunities is extremely bright.
+> **[0:13](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=13)** Therefore, I'm happy to say that the [[Microsoft Outlook|outlook]] for data science job opportunities is extremely bright.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=21)** Now, the challenge is to prepare yourself for these wonderful opportunities.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=28)** A good starting point is to develop passion for data science by first getting exposed to the field as much as you can.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=38)** Once you know you are ready for the task of diving into your journey of training and educating yourself on data science, the next big step to take is to actually commit yourself to lifelong learning.
+> **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=38)** Once you know you are ready for the task of diving into your journey of training and educating yourself on data science, the next big step to take is to actually commit yourself to [[Lifelong Learning]].
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=52)** Identify a degree program or online curriculum that will provide a roadmap to your ultimate goal of becoming a data scientist and simply plunge into it.
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=63)** If you need more guidance, find a mentor who could coach you along the way.
 >
-> **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=69)** This could be your professor, colleague, or someone you get to know through a LinkedIn invitation.
+> **[1:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=69)** This could be your professor, colleague, or someone you get to know through a [[LinkedIn]] invitation.
 >
 > **[1:16](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=76)** All the careers in data science are fairly new, still emerging and evolving.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=82)** These careers include job titles such as data scientist, business intelligence architect, machine learning specialist, business analytics specialist, data visualization developers.
+> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/emerging-careers?u=76281980&t=82)** These careers include job titles such as data scientist, [[Business Intelligence (BI)|business intelligence]] architect, machine learning specialist, [[Business Analytics]] specialist, data visualization developers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Outlook|Outlook]] (1), next (1), [[Lifelong Learning]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Microsoft Outlook|Outlook]] (1), [[Lifelong Learning]] (1), [[LinkedIn]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980)
+#### [Ethics](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,9 +1584,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=17)** You yourself may be tempted to eavesdrop on your co workers or supervisor's data just out of curiosity.
 >
-> **[0:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=27)** As a result, the ethical integrity of a data scientist can make up a huge difference in guarding the security and privacy of user data.
+> **[0:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=27)** As a result, the ethical integrity of a data scientist can make up a huge difference in guarding the security and [[Privacy]] of user data.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=38)** In addition to watching out for an insider threat and keeping yourself out of the danger zone, it is also an ethical thing to intentionally and proactively build in security into a data science product you are developing.
+> **[0:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=38)** In addition to watching out for an insider threat and keeping yourself out of the danger zone, it is also an ethical thing to intentionally and proactively build in security into a [[Data Science]] product you are developing.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=54)** If you don't do your job as a data scientist to ensure the security and privacy of your customer data, somebody is bound to fall a victim to a crime down the road.
 >
@@ -1638,25 +1596,24 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=75)** However, many organizations are realizing that considering security and privacy risks and their counter measures from the very beginning of a data science project can ultimately save all the troubles of legal, monetary and reputational liabilities.
 >
-> **[1:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=95)** Data science code of ethics is still being formed as the profession of data scientist keeps evolving.
+> **[1:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=95)** Data science code of [[Ethics]] is still being formed as the profession of data scientist keeps evolving.
 >
 > **[1:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/ethics?u=76281980&t=102)** As the profession matures, you need to be constantly reminding yourself of all the basic elements of ethical conducts as a data scientist.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (6), [[Privacy]] (3), product (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Privacy]] (3), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Professional development
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980)
+#### [Professional development](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980&t=0)** - [Instructor] Data scientists need to stay abreast of new developments in both their specialty and discipline at large, as well as the overall IT world.
 >
-> **[0:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980&t=12)** The breadth of the knowledge requirements for them is quite wide because data science builds on many of its underlying IT technologies, such as data infrastructure and management.
+> **[0:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980&t=12)** The breadth of the knowledge requirements for them is quite wide because [[Data Science]] builds on many of its underlying IT technologies, such as data infrastructure and management.
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/professional-development?u=76281980&t=24)** For example, one of the emerging data science technologies is in-memory analytics, which means running entire data analytics operations in the main memory of a computer instead of reading some of the data back and forth from a secondary memory device such as an external storage device.
 >
@@ -1674,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (3), management (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cap (1)
@@ -1685,14 +1642,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to voices from the field
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
+#### [Introduction to voices from the field](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980&t=1)** - [Instructor] We can always learn a lot from listening to the voices of practitioners.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980&t=7)** This golden rule is not an exception in the data science and analytics field.
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980&t=7)** This golden rule is not an exception in the [[Data Science]] and analytics field.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980&t=15)** I've interviewed a wide range of people including a senior data scientist, a college senior, a graduate student an early career professional and an employer.
 >
@@ -1724,18 +1680,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), career (8), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (10)
 > **Analogies:** it's like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Senior data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980)
+#### [Senior data scientist](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=1)** - [Instructor] It's nice to have a role model especially when you're starting to develop your career path.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=7)** Who would make the best role model in data science?
+> **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=7)** Who would make the best role model in [[Data Science]]?
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=11)** The answer to this question may depend on the career path you want to pursue.
 >
@@ -1747,9 +1702,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=50)** If the project is in its initial stage I focus on collecting product requirements from business owners, product managers and engineers.
 >
-> **[1:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=60)** The design phase comes next where I work with our software to ensure that our product design meet the requirements.
+> **[1:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=60)** The design phase comes next where I work with our software to ensure that our [[Product Design]] meet the requirements.
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=70)** My conversation with her so far shows that her data science projects are essentially software development projects.
+> **[1:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=70)** My conversation with her so far shows that her data science projects are essentially [[Software Development]] projects.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=78)** What differentiates these projects is a domain that requires substantial knowledge in data science and prepackaged software solutions in the form of libraries.
 >
@@ -1765,7 +1720,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=147)** She added that she responsible for a machine learning part of software development and writes code, and has it reviewed by software engineers.
 >
-> **[2:36](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=156)** She also reviews the rest of the code to make sure that what software engineers wrote is well aligned with her model implementation.
+> **[2:36](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=156)** She also reviews the [[Representational State Transfer (REST)|rest]] of the code to make sure that what software engineers wrote is well aligned with her model implementation.
 >
 > **[2:47](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/senior-data-scientist?u=76281980&t=167)** An important takeaway here is that your soft engineering skill as a senior data scientist should be up to par with data soft architects and senior software engineers to effectively lead what is essentially a software development project.
 >
@@ -1773,14 +1728,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), career (3), product (3), [[Software Development]] (3), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Software Development]] (3), [[Product Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### College senior
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980)
+#### [College senior](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1790,11 +1744,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=7)** For another, they're frantically searching for their jobs.
 >
-> **[0:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=11)** Data science majors are not an exception.
+> **[0:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=11)** [[Data Science]] majors are not an exception.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=15)** Meet Amy who is a college senior and about to graduate with her data science degree.
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=22)** She's looking forward to graduating and moving on to the next phase of her life, especially after she had a real-world work experience in the banking sector during her internship.
+> **[0:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=22)** She's looking forward to graduating and moving on to the next phase of her life, especially after she had a real-world work experience in the [[Banking]] sector during her internship.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=35)** Amy has already been having several interviews with major IT and consulting companies.
 >
@@ -1808,7 +1762,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=80)** That is just a barrier to entry.
 >
-> **[1:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=83)** What's going to make you stand out are the soft skills that you'll be employing on a day-to-day basis in your work.
+> **[1:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=83)** What's going to make you stand out are the [[Soft Skills]] that you'll be employing on a day-to-day basis in your work.
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/college-senior?u=76281980&t=92)** My next question was on what employers are looking for in terms of experience.
 >
@@ -1834,19 +1788,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Banking]] (1), leadership (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Banking]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Graduate student
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980)
+#### [Graduate student](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980&t=1)** - [Instructor] After accumulating some experience as a practitioner in industry you may start thinking about getting an advanced degree.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980&t=10)** There are substantial benefits in getting an advanced degree like a masters in data science.
+> **[0:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980&t=10)** There are substantial benefits in getting an advanced degree like a masters in [[Data Science]].
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/graduate-student?u=76281980&t=19)** First, many of the Fortune 500 companies provide tuition assistance and you may want to take advantage of it.
 >
@@ -1892,16 +1845,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (2), generic (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Employer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980)
+#### [Employer](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=1)** - [Instructor] Employers in data science fields are always looking for new job candidates due to the ever increasing demand.
+> **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=1)** - [Instructor] Employers in [[Data Science]] fields are always looking for new job candidates due to the ever increasing demand.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=9)** However, they're also extremely picky because they know that they want the right person for the job.
 >
@@ -1909,11 +1861,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=29)** They want to avoid this expensive and painful circumstance as much as possible which is why there is such extra scrutiny.
 >
-> **[0:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=40)** This is more so in data science because the job is challenging and requires both technical and soft skills in more demanding ways.
+> **[0:40](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=40)** This is more so in data science because the job is challenging and requires both technical and [[Soft Skills]] in more demanding ways.
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=52)** Meet Felicia, a hiring manager who recruits at colleges and universities, as well as job fairs to interview seniors and fresh graduates.
 >
-> **[1:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=64)** I asked her what technical skills and competencies she looks for when interviewing candidates.
+> **[1:04](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=64)** I asked her what technical skills and competencies she looks for when [[Interviewing]] candidates.
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=72)** She responded by first pointing out the importance of foundational knowledge, especially math.
 >
@@ -1923,7 +1875,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=109)** Let's say that your customer wants to see a market trend for the past five years.
 >
-> **[1:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=116)** The data is available, but if you don't know how to use tools like Python or Tableau to process and visualize the data, your knowledge of relational database theory, isn't very useful.
+> **[1:56](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=116)** The data is available, but if you don't know how to use tools like [[Python (Programming Language)|Python]] or [[Tableau]] to process and visualize the data, your knowledge of relational database theory, isn't very useful.
 >
 > **[2:10](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=130)** My next question was, on specific soft skills employers seek.
 >
@@ -1943,22 +1895,21 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=191)** We also want them to be resilient so that they can survive and thrive despite the biases thrown at them.
 >
-> **[3:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=200)** Finally, we want everyone to exercise compassion when interacting with each other, which will foster awareness and resilience in our organizational culture.
+> **[3:20](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/employer?u=76281980&t=200)** Finally, we want everyone to exercise compassion when interacting with each other, which will foster awareness and resilience in our [[Organizational Culture]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Soft Skills]] (2), [[Interviewing]] (1), business (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Soft Skills]] (2), [[Interviewing]] (1), [[Python (Programming Language)|Python]] (1), [[Tableau]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** coming up (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to start
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980)
+#### [How to start](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=1)** - [Instructor] I received many questions on how to get started with a data science career path.
+> **[0:01](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=1)** - [Instructor] I received many questions on how to get started with a [[Data Science]] career path.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=8)** My answer to them depends on where you're coming from.
 >
@@ -1976,15 +1927,15 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=78)** This could be as simple as what you're doing right now.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=82)** That is taking a LinkedIn learning course.
+> **[1:22](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=82)** That is taking a [[LinkedIn]] learning course.
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=86)** Finishing this course will provide a solid foundation.
 >
-> **[1:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=92)** I also recommend picking up a programming language or two like Python or Java.
+> **[1:32](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=92)** I also recommend picking up a programming language or two like [[Python (Programming Language)|Python]] or [[Java]].
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=98)** Python is especially helpful because it comes with powerful libraries supporting various data science tasks including pre-procesing and visualization.
 >
-> **[1:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=113)** Another thing to keep in mind is learning to use data science software tools like Tableau.
+> **[1:53](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=113)** Another thing to keep in mind is learning to use data science software tools like [[Tableau]].
 >
 > **[2:00](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/how-to-start?u=76281980&t=120)** Your tool knowledge will allow you to show off your data science skills to your coworkers and boss, which is very likely to lead to a more data centric position you wish to have.
 >
@@ -1996,7 +1947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (2), [[Python (Programming Language)|Python]] (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), [[Java]] (1), [[Tableau]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -2007,8 +1958,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your data science and analytics career journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)
+#### [Continue your data science and analytics career journey](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,15 +1966,15 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=2)** I hope you enjoyed it as much as I enjoyed creating it.
 >
-> **[0:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=6)** If you'd like to advance your knowledge on data science further, here is a progression of courses I recommend you take.
+> **[0:06](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=6)** If you'd like to advance your knowledge on [[Data Science]] further, here is a progression of courses I recommend you take.
 >
-> **[0:14](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=14)** Excel, Python, R, Data Visualization Fundamentals, Data Mining, and Big Data Analytics.
+> **[0:14](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=14)** [[Microsoft Excel|Excel]], [[Python (Programming Language)|Python]], R, Data Visualization Fundamentals, [[Data Mining]], and [[Big Data Analytics]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980&t=23)** I hope to see you again in my next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Data Mining]] (1), [[Big Data]] (1)
 > **CLI Commands:** python (1)
 
 

@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using OAuth 2.0 and OpenID Connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-oauth-2-0-and-openid-connect?u=76281980)
+#### [Using OAuth 2.0 and OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-oauth-2-0-and-openid-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,18 +118,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=0)** - [Instructor] In terms of prerequisites for this course, there aren't many.
 >
-> **[0:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=3)** First, linguistically, I should note that for the rest of this course, whenever I say OAuth, I mean specifically OAuth 2.0 and not OAuth 1.0.
+> **[0:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=3)** First, linguistically, I should note that for the [[Representational State Transfer (REST)|rest]] of this course, whenever I say OAuth, I mean specifically OAuth 2.0 and not OAuth 1.0.
 >
 > **[0:13](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=13)** OAuth 1.0 isn't really related to OAuth 2.0 in any significant way anyway.
 >
@@ -140,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=23)** I'll use them interchangeably, just like they're used interchangeably in the industry.
 >
-> **[0:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=27)** Next, you absolutely need a firm grip on web development.
+> **[0:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=27)** Next, you absolutely need a firm grip on [[Web Development]].
 >
 > **[0:30](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=30)** You need to understand how HTTP redirects work and how to store data securely in the browser.
 >
@@ -152,11 +149,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=49)** Next, you need to have a reliable OAuth server available.
 >
-> **[0:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=52)** You can use something as simple as an open source OAuth server, such as the PHP-based one available from the League, but there are many others available in just about every language you want.
+> **[0:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=52)** You can use something as simple as an open source OAuth server, such as the [[PHP]]-based one available from the League, but there are many others available in just about every language you want.
 >
 > **[1:02](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=62)** But remember, now you have to worry about configuration and hosting.
 >
-> **[1:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=66)** Alternatively, you can use the Google-provided OAuth Playground and the OpenID Foundation-provided OpenID Connect Playground.
+> **[1:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=66)** Alternatively, you can use the [[Google]]-provided OAuth Playground and the OpenID Foundation-provided OpenID Connect Playground.
 >
 > **[1:13](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=73)** Both are great tools because you don't have to worry about configuration.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=99)** And last but not least, you should also have a tool like [jwt.io](https://jwt.io) available.
 >
-> **[1:44](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=104)** It's a simple website that can decode JSON web tokens or JWTs, pronounced jots, and tell you whether or not they're valid.
+> **[1:44](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=104)** It's a simple website that can decode [[JSON]] web [[Tokens]] or JWTs, pronounced jots, and tell you whether or not they're valid.
 >
 > **[1:51](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/what-you-should-know?u=76281980&t=111)** There are tools in libraries to do that locally, but with this, we could stay language agnostic for now.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Web Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Web Development]] (1), [[PHP]] (1), [[JSON]] (1)
 > **Env Vars:** http (2), oidc (1), php (1), api (1), json (1)
 > **Versions:** 2.0 (2), 1.0 (2)
 > **Tools:** postman (1), insomnia (1), command line (1)
@@ -187,22 +184,21 @@ created: 2026-05-02
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Warnings:** note that (1)
 
-#### How to use code for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980)
+#### [How to use code for this course](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=0)** - [Instructor] The code for this course is available in a GitHub repository and split into a few sections.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=0)** - [Instructor] The code for this course is available in a [[GitHub]] repository and split into a few sections.
 >
-> **[0:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=5)** First, there are a few folders like JS OAuth Server and PHP OAuth Server, which separate out each of the OAuth server configurations.
+> **[0:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=5)** First, there are a few folders like JS OAuth Server and [[PHP]] OAuth Server, which separate out each of the OAuth server configurations.
 >
 > **[0:13](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=13)** Each folder has a read me file to help you get started.
 >
 > **[0:16](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=16)** For the PHP OAuth server, you'll need at least PHP 8 in Composer.
 >
-> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=20)** For the JavaScript OAuth server, you'll need MPM 8 or above.
+> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=20)** For the [[JavaScript]] OAuth server, you'll need MPM 8 or above.
 >
-> **[0:24](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=24)** For all the other OAuth servers, I use Auth Zero or Google, so you'll need accounts for each.
+> **[0:24](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=24)** For all the other OAuth servers, I use Auth Zero or [[Google]], so you'll need accounts for each.
 >
 > **[0:29](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/how-to-use-code-for-this-course?u=76281980&t=29)** Because each of the OAuth servers supports something a little bit different, I use different servers for different sections, so you'll likely want to set up all of them.
 >
@@ -235,8 +231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing OAuth 2.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/describing-oauth-2-0?u=76281980)
+#### [Describing OAuth 2.0](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/describing-oauth-2-0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +309,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (1), api (1), [[Security]] (1), data (1)
 > **Versions:** 2.0 (3), 1.0 (1)
 > **Analogies:** it's like (3)
 > **Definitions:** is a  (2)
@@ -322,9 +316,9 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
+> **Speakers:** - [instructor] (1)
 
-#### Making OAuth 2.0 useful with extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980)
+#### [Making OAuth 2.0 useful with extensions](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=15)** Yes, there were smart TVs and other appliances, but really not that many.
 >
-> **[0:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=19)** Single-page apps were still early, Kubernetes, Docker, and all the underlying concepts around DevOps were still in its infancy.
+> **[0:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=19)** Single-page apps were still early, [[Kubernetes]], Docker, and all the underlying concepts around [[DevOps]] were still in its infancy.
 >
 > **[0:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=27)** In 2012, there's no way that OAuth authors could have envisioned every potential outcome, approach, tech platform and innovation out there, so they did a very simple yet vital thing.
 >
@@ -356,9 +350,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=82)** We'll talk about this in great detail in the next video, so I'll skip it right here.
 >
-> **[1:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=87)** The next extension is RFC 7519 or the JSON Web Token spec.
+> **[1:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=87)** The next extension is RFC 7519 or the [[JSON]] Web Token spec.
 >
-> **[1:33](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=93)** That's right, JWTs or JWT tokens are not described in OAuth, which means you can build and use OAuth without ever using a JWT token.
+> **[1:33](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=93)** That's right, JWTs or JWT [[Tokens]] are not described in OAuth, which means you can build and use OAuth without ever using a JWT token.
 >
 > **[1:42](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=102)** If you don't, you'll probably have an opaque token or a unique string without any information in it.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=146)** We use this in single page apps or mobile apps and is important, so I have an entire chapter on it later.
 >
-> **[2:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=152)** Next, when we think about architectures like microservices, we need to think about different services calling one another on behalf of users or even other services, and then we get to RFC 8692 Token Exchange.
+> **[2:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=152)** Next, when we think about architectures like [[Microservices]], we need to think about different services calling one another on behalf of users or even other services, and then we get to RFC 8692 Token Exchange.
 >
 > **[2:45](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=165)** If you ever think about impersonation, this extension has a detailed analysis of the trade-offs.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=188)** Which one does our OAuth provider support?
 >
-> **[3:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=191)** This is where RFC 8414 or the Authorization Server Metadata Discovery Spec comes in. Wow, say that three times fast.
+> **[3:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=191)** This is where RFC 8414 or the Authorization Server [[Metadata]] Discovery Spec comes in. Wow, say that three times fast.
 >
 > **[3:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/making-oauth-2-0-useful-with-extensions?u=76281980&t=200)** This extension will give us an endpoint that we can query to figure out which extensions our OAuth implementation supports.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Tokens]] (2), [[Kubernetes]] (1), [[DevOps]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Kubernetes]] (1), [[DevOps]] (1), [[JSON]] (1), [[Microservices]] (1)
 > **Env Vars:** rfc (6), jwt (2), pkce (2), oidc (1), json (1)
 > **Documentation:** rfc (6), specification (2), spec (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -408,8 +402,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending OAuth 2.0 with OpenID Connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980)
+#### [Extending OAuth 2.0 with OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=67)** Now, when we want a user's email address, we can request that and get it.
 >
-> **[1:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=71)** The best part is that we don't care if the user's identity information has come from Google, Facebook, Okta, Microsoft Azure Directory, or any other provider.
+> **[1:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=71)** The best part is that we don't care if the user's identity information has come from [[Google]], Facebook, Okta, [[Microsoft Azure]] Directory, or any other provider.
 >
 > **[1:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=80)** OpenID Connect tells everyone what to name the field so we can trust it to be there.
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=107)** In the enterprise world, this is accomplished with SAML, but in the modern web, we've done it much more quickly and easily.
 >
-> **[1:53](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=113)** Every time you see one of those Sign-in with Google, LinkedIn, GitHub, et cetera buttons, they're using OpenID Connect behind the scenes to request and retrieve your profile information and set up your profile.
+> **[1:53](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=113)** Every time you see one of those Sign-in with Google, [[LinkedIn]], [[GitHub]], et cetera buttons, they're using OpenID Connect behind the scenes to request and retrieve your profile information and set up your profile.
 >
 > **[2:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=125)** In fact, the next time you go through that flow, watch the URL.
 >
@@ -465,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (2), [[Microsoft Azure]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Azure]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Env Vars:** oidc (2), saml (1), url (1)
 > **Tools:** github (1)
 > **Analogies:** picture (1)
@@ -477,8 +470,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OAuth 2.0 fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-fundamentals?u=76281980)
+#### [OAuth 2.0 fundamentals](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,13 +552,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Security]] (1), application (1)
 > **Env Vars:** jwt (1), url (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Touring the OAuth endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980)
+#### [Touring the OAuth endpoints](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=56)** Now, every other endpoint that I'll cover here is optional.
 >
-> **[0:59](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=59)** So depending on your authorization server configuration, you may or may not have these endpoints available.
+> **[0:59](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=59)** So depending on your authorization [[Server Configuration]], you may or may not have these endpoints available.
 >
 > **[1:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=65)** First, if you have open ID connect support, you'll have the user info endpoint.
 >
@@ -612,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=106)** This is to retrieve information about the token itself, like if it's still valid, when it expires, or similar.
 >
-> **[1:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=112)** This endpoint is vitally important when you have long lived access tokens.
+> **[1:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=112)** This endpoint is vitally important when you have long lived access [[Tokens]].
 >
 > **[1:57](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/touring-the-oauth-endpoints?u=76281980&t=117)** Otherwise, you can have downstream apps acting like they still have the authorization they no longer have.
 >
@@ -636,15 +626,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Tokens]] (2), [[Server Configuration]] (1), application (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Server Configuration]] (1)
 > **Env Vars:** rfc (2), url (1), oidc (1), http (1), alt (1)
 > **Documentation:** rfc (2), specification (1), spec (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grant type overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/grant-type-overview?u=76281980)
+#### [Grant type overview](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/grant-type-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,13 +693,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1)
 > **Env Vars:** url (1), pkce (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing and using OAuth scopes
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980)
+#### [Designing and using OAuth scopes](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=37)** With that in mind, let's look at some implementations.
 >
-> **[0:41](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=41)** Within GitHub, if you look at the scopes, they're all over the place.
+> **[0:41](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=41)** Within [[GitHub]], if you look at the scopes, they're all over the place.
 >
 > **[0:45](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=45)** My favorite are the scopes for a repository.
 >
@@ -752,11 +739,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=92)** They have to relearn everything every time.
 >
-> **[1:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=95)** On the other end of the spectrum is Google.
+> **[1:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=95)** On the other end of the spectrum is [[Google]].
 >
 > **[1:37](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=97)** Google's APIs are all fully qualified URLs which include the product name, the resource the permission will be granted on, and the action which will be granted.
 >
-> **[1:46](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=106)** Even if you've never used one of their APIs, you could see the scopes and reason out most of their purpose, or from the opposite direction, you can make some educated guesses on what scopes you might need for which products.
+> **[1:46](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=106)** Even if you've never used one of their APIs, you could see the scopes and reason out most of their purpose, or from the opposite direction, you can make some educated guesses on what scopes you might need for which [[Microsoft Products|products]].
 >
 > **[1:59](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=119)** Now you might see some significance in the fact that these scopes are URLs, like there may be documentation or tools at that URL.
 >
@@ -766,7 +753,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=132)** They use a simple namespace, then a resource, then action.
 >
-> **[2:16](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=136)** The namespace makes it clear you're working within the Okta API, and the rest gives you specific information into what permissions you're granting.
+> **[2:16](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=136)** The namespace makes it clear you're working within the Okta API, and the [[Representational State Transfer (REST)|rest]] gives you specific information into what permissions you're granting.
 >
 > **[2:23](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/designing-and-using-oauth-scopes?u=76281980&t=143)** While all three are valid approaches, I recommend using Okta as your model.
 >
@@ -790,25 +777,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[GitHub]] (2), next (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[GitHub]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** public_repo (1), repo_deployment (1), repo_hook (1)
 > **Env Vars:** url (1), api (1), oidc (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Speakers:** - [narrator] (1)
 
-#### Using the OAuth playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980)
+#### [Using the OAuth playground](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=0)** - [Instructor] Since Google has done such a great job with their scopes, let's take a quick tour of the Google OAuth Playground.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=0)** - [Instructor] Since [[Google]] has done such a great job with their scopes, let's take a quick tour of the Google OAuth Playground.
 >
 > **[0:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=6)** While we're not going to use this to complete any grant types and examples in this course, the OAuth Playground is a great way to see the steps in action.
 >
 > **[0:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=14)** Before we dive in, you should know that every request I'm going to do here is real.
 >
-> **[0:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=18)** The tokens are real and would grant valid access to my Google account.
+> **[0:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=18)** The [[Tokens]] are real and would grant valid access to my Google account.
 >
 > **[0:22](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=22)** If you got them, you could cause me limitless trouble.
 >
@@ -876,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=128)** We'll talk about tokens in detail in the next chapter, but one quick thing to note here.
 >
-> **[2:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=132)** This access token is not a JSON web token or JWT.
+> **[2:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=132)** This access token is not a [[JSON]] web token or JWT.
 >
 > **[2:17](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-the-oauth-playground?u=76281980&t=137)** It's a big, ugly string that maps back to specific access that Google keeps on their side of things.
 >
@@ -888,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Tokens]] (7), [[Analytics]] (3), next (3), api (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[Tokens]] (7), [[JSON]] (1)
 > **Env Vars:** api (2), json (1), jwt (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
@@ -901,12 +887,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OAuth 2.0 tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980)
+#### [OAuth 2.0 tokens](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=0)** - [Instructor] With some understanding of the endpoints, let's talk about what we're retrieving from them, tokens.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=0)** - [Instructor] With some understanding of the endpoints, let's talk about what we're retrieving from them, [[Tokens]].
 >
 > **[0:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=5)** In the core OAuth framework, RFC 6749, there are two types of tokens specified, access and refresh.
 >
@@ -934,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=63)** It's just a string that serves as a unique identifier.
 >
-> **[1:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=66)** Back to some details in the authorization server, the alternative is a JSON Web Token, or JWT, pronounced jot.
+> **[1:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=66)** Back to some details in the authorization server, the alternative is a [[JSON]] Web Token, or JWT, pronounced jot.
 >
 > **[1:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980&t=74)** As opposed to an opaque token, this token is a base 64 encoded JSON document, should also have signature information to verify both who sent it and the data in it.
 >
@@ -956,18 +941,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[JSON]] (2), application (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[JSON]] (2)
 > **Env Vars:** json (2), jwt (2), rfc (1)
 > **Documentation:** specification (2), rfc (1), spec (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Validating JWTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980)
+#### [Validating JWTs](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=0)** - [Instructor] JSON Web Tokens, or JWTs, or jot tokens, whatever you want to call them, are both incredibly powerful and completely unnecessary with an OAuth.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=0)** - [Instructor] [[JSON]] Web [[Tokens]], or JWTs, or jot tokens, whatever you want to call them, are both incredibly powerful and completely unnecessary with an OAuth.
 >
 > **[0:08](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=8)** In the last video, I talked about three types of tokens.
 >
@@ -1067,11 +1051,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=215)** So I recommend using a proven library.
 >
-> **[3:37](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=217)** Check out [jwt.io](https://jwt.io) for a list of which libraries support which algorithms to find the one you need.
+> **[3:37](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/validating-jwts?u=76281980&t=217)** Check out [jwt.io](https://jwt.io) for a list of which libraries support which [[Algorithms]] to find the one you need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), data (4), next (3), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[JSON]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (6), make (3)
 > **Env Vars:** iss (2), json (1), iat (1)
 > **Documentation:** the documentation (2)
@@ -1080,12 +1064,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
-#### Handling tokens safely and securely
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/handling-tokens-safely-and-securely?u=76281980)
+#### [Handling tokens safely and securely](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/handling-tokens-safely-and-securely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/handling-tokens-safely-and-securely?u=76281980&t=0)** - [Instructor] Now that we have all these tokens, and we validate some of them to understand they're safe, we need to use and protect them effectively.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/handling-tokens-safely-and-securely?u=76281980&t=0)** - [Instructor] Now that we have all these [[Tokens]], and we validate some of them to understand they're safe, we need to use and protect them effectively.
 >
 > **[0:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/handling-tokens-safely-and-securely?u=76281980&t=7)** First of all, we have to remember that both access and refresh tokens are credentials.
 >
@@ -1163,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), application (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5)
 > **Env Vars:** https (1), rfc (1)
 > **Documentation:** rfc (1)
 > **UI Navigation:** go to (1)
@@ -1176,8 +1159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Authorization Code Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-authorization-code-flow?u=76281980)
+#### [Overview: Authorization Code Flow](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-authorization-code-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,14 +1207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Security]] (1), api (1), next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [speaker (1)
 
-#### When should you use this?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980)
+#### [When should you use this?](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980&t=23)** Finally, our app must be server-side.
 >
-> **[0:25](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980&t=25)** This doesn't mean you can't use JavaScript, but the authentication code itself must be server-side.
+> **[0:25](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980&t=25)** This doesn't mean you can't use [[JavaScript]], but the authentication code itself must be server-side.
 >
 > **[0:31](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22886432?u=76281980&t=31)** This means we can't use normal auth code flow with mobile apps or single-page apps.
 >
@@ -1274,14 +1254,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** pkce (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Build an example (web app or Postman)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-web-app-or-postman?u=76281980)
+#### [Lab: Build an example (web app or Postman)](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-web-app-or-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1364,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), hit (2)
 > **Tools:** postman (10)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** make (3), find (1)
@@ -1393,9 +1371,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Env Vars:** readme (1)
 > **Exercise Files:** sample code (1)
+> **Analogies:** picture (1)
 
-#### Auth-Code and PKCE overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980)
+#### [Auth-Code and PKCE overview](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,7 +1385,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=18)** The OAuth authors realized this issue and include the implicit or hybrid grant type, which allowed us to still use OAuth, but with a few limitations.
 >
-> **[0:26](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=26)** For example, we couldn't use a client secret, 'cause remember, we can't keep secrets, and therefore, we also couldn't use refresh tokens.
+> **[0:26](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=26)** For example, we couldn't use a client secret, 'cause remember, we can't keep secrets, and therefore, we also couldn't use refresh [[Tokens]].
 >
 > **[0:33](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=33)** Luckily, because OAuth is a framework and not a specification, we could extend it as we figured out new and better approaches.
 >
@@ -1437,7 +1415,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=96)** If they match, we know that this is the app that started the process, and the auth server generates the tokens.
 >
-> **[1:41](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=101)** If they don't match, we reject the rest of the flow and force the app to start over with a new verifier and challenge.
+> **[1:41](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=101)** If they don't match, we reject the [[Representational State Transfer (REST)|rest]] of the flow and force the app to start over with a new verifier and challenge.
 >
 > **[1:47](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=107)** We managed to recreate app authentication without having to embed secrets in the app.
 >
@@ -1445,13 +1423,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=116)** This has been an official extension since 2017, but was in production use much earlier than that, so it's a long proven track record at this point.
 >
-> **[2:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=125)** Now, you might still see the implicit or hybrid grant type in older single-page apps, but most OAuth providers like Google, Apple, and others have informally deprecated, so you won't see it very often.
+> **[2:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=125)** Now, you might still see the implicit or hybrid grant type in older single-page apps, but most OAuth providers like [[Google]], Apple, and others have informally deprecated, so you won't see it very often.
 >
 > **[2:16](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/auth-code-and-pkce-overview?u=76281980&t=136)** Going forward, when you're building single-page apps or mobile apps, authorization code flow with PKCE or PKCE is the answer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), web (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** pkce (5), rfc (1)
 > **Documentation:** specification (1), rfc (1)
 > **Versions:** 2.0 (1)
@@ -1460,8 +1438,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### When should you use PKCE?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980)
+#### [When should you use PKCE?](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1497,13 +1474,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=65)** And by the way, you'd be typing this in front of the entire room.
 >
-> **[1:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=69)** So not only is this a miserable user experience, it's also inherently insecure.
+> **[1:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=69)** So not only is this a miserable [[User Experience (UX)|user experience]], it's also inherently insecure.
 >
 > **[1:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=74)** Therefore, you should probably look at the device grant type and not Pixy.
 >
 > **[1:17](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=77)** Don't worry. We'll talk about device grant type later.
 >
-> **[1:21](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=81)** And at the time of this video, there's even a great set of libraries available at [appauth.io](https://appauth.io), which will help you implement Pixy quickly and easily for Android, iOS, and many JavaScript frameworks.
+> **[1:21](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=81)** And at the time of this video, there's even a great set of libraries available at [appauth.io](https://appauth.io), which will help you implement Pixy quickly and easily for [[Android]], iOS, and many [[JavaScript]] frameworks.
 >
 > **[1:31](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-pkce?u=76281980&t=91)** It doesn't get much easier than that.
 >
@@ -1511,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1), game (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Android]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [appauth.io](https://appauth.io) (1)
 > **Env Vars:** pkce (1)
@@ -1519,8 +1496,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Build an example (native app or spa)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980)
+#### [Lab: Build an example (native app or spa)](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,7 +1508,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=14)** Now, first, let's make sure the download is going, unzip it, and then move into that folder to start the install process.
 >
-> **[0:21](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=21)** So let's go ahead and make sure we're in the right folder, and sure enough, looks like we are, and so we'll say npm install.
+> **[0:21](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=21)** So let's go ahead and make sure we're in the right folder, and sure enough, looks like we are, and so we'll say [[npm]] install.
 >
 > **[0:28](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=28)** So npm will make sure that we have all the right packages and everything ready to go.
 >
@@ -1548,7 +1524,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=53)** So first we need to make sure it's in the callback URLs.
 >
-> **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=56)** This will tell Auth0, here's a safe URL that we plan on redirecting the user to, and therefore the tokens to after the authentication flows correct.
+> **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=56)** This will tell Auth0, here's a safe URL that we plan on redirecting the user to, and therefore the [[Tokens]] to after the authentication flows correct.
 >
 > **[1:04](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=64)** Then we'll go ahead and add it to the Allowed Logouts URL.
 >
@@ -1576,9 +1552,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=112)** Now let's go ahead and go back to the application.
 >
-> **[1:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=115)** If you downloaded this project directly from GitHub, you might need to make a tweak here.
+> **[1:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=115)** If you downloaded this project directly from [[GitHub]], you might need to make a tweak here.
 >
-> **[1:59](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=119)** In the root of this project, check for auth_config.json, and if it's there and looks something like this, great.
+> **[1:59](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=119)** In the root of this project, check for auth_config.[[JSON]], and if it's there and looks something like this, great.
 >
 > **[2:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-native-app-or-spa?u=76281980&t=126)** If it's not there, go back to your Auth0 dashboard and copy your domain and clientId into this JSON structure.
 >
@@ -1618,7 +1594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), hit (4), [[npm]] (3), web (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), [[Tokens]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (8), npm (3), unzip (1)
 > **Env Vars:** pkce (4), url (3), json (1)
 > **Cross-References:** go back to (3)
@@ -1627,8 +1603,7 @@ created: 2026-05-02
 > **Code Identifiers:** auth_config (1), clientid (1)
 > **Tools:** github (1), command line (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1644,9 +1619,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=28)** Remember, after the user authenticates, they get that auth code, which is the server-side app then exchanges for the access token.
 >
-> **[0:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=35)** That code can only be used once, so while you have to protect it, it really only matters for a brief window, and the user or any other application in the browser can't even see any of the resulting access tokens or refresh tokens, so they can't leak that.
+> **[0:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=35)** That code can only be used once, so while you have to protect it, it really only matters for a brief window, and the user or any other application in the browser can't even see any of the resulting access [[Tokens]] or refresh tokens, so they can't leak that.
 >
-> **[0:51](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=51)** One potential vulnerability is that after logging in with your identity provider, whether it's Google or Okta or Facebook, your user's likely to still have a web browser session active.
+> **[0:51](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=51)** One potential vulnerability is that after logging in with your identity provider, whether it's [[Google]] or Okta or Facebook, your user's likely to still have a web browser session active.
 >
 > **[1:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=60)** If another application can send that user to the same identity provider without their knowledge or under a false context, that could be a problem.
 >
@@ -1674,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Tokens]] (3), [[Google]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (1)
 > **Env Vars:** pkce (2), tls (1), uri (1), rfc (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (1), just like (1)
@@ -1686,8 +1661,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Resource Owner Password flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-resource-owner-password-flow?u=76281980)
+#### [Overview: Resource Owner Password flow](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-resource-owner-password-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,13 +1701,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), api (1), next (1)
 > **Env Vars:** api (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### When should you use this?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this?u=76281980)
+#### [When should you use this?](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1765,13 +1737,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3)
 > **Cross-References:** go back to (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Build an example (curl)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980)
+#### [Lab: Build an example (curl)](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980&t=17)** In this case, we'll skip directly to that request.
 >
-> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980&t=20)** Once again, for context, I'm using the PHP-based league OAuth server, which I installed and configured according to the instructions in the PHP OAuth server folder.
+> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980&t=20)** Once again, for context, I'm using the [[PHP]]-based league OAuth server, which I installed and configured according to the instructions in the PHP OAuth server folder.
 >
 > **[0:29](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl-22880764?u=76281980&t=29)** I did a detailed walkthrough in a later session if you want to see every step, but now on with the flow.
 >
@@ -1811,7 +1781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2), make (2), curl (1)
 > **Env Vars:** php (2), http (1)
 > **UI Navigation:** go to (3)
@@ -1820,8 +1790,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22886426?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22886426?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1883,7 +1852,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Security]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** tls (1), pkce (1)
 > **Analogies:** just like (1)
@@ -1894,8 +1862,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Client Credential Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980)
+#### [Overview: Client Credential Flow](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1903,7 +1870,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=5)** This is explicitly for authorizing a system to perform actions on another system.
 >
-> **[0:10](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=10)** If you're familiar with service accounts that are supported by systems like Active Directory or potentially APIs like Salesforce or Google, you've already dealt with this concept.
+> **[0:10](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=10)** If you're familiar with service accounts that are supported by systems like [[Active Directory]] or potentially APIs like Salesforce or [[Google]], you've already dealt with this concept.
 >
 > **[0:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=19)** Unlike other grant types, this one does not involve a user, and that's where people struggle with it.
 >
@@ -1927,7 +1894,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=65)** So let's imagine a different scenario.
 >
-> **[1:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=67)** Let's say there's a freely available task tracking tool called Trello, which allows you to attach files to tasks.
+> **[1:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=67)** Let's say there's a freely available task tracking tool called [[Trello]], which allows you to attach files to tasks.
 >
 > **[1:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=74)** When I upload a file behind the scenes, Trello is uploading that file to Amazon S3.
 >
@@ -1939,7 +1906,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=90)** But now I can download and interact with that file however I need.
 >
-> **[1:34](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=94)** In fact, authorization and microservices work exactly the same way.
+> **[1:34](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=94)** In fact, authorization and [[Microservices]] work exactly the same way.
 >
 > **[1:38](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980&t=98)** The components are interacting with one another on behalf of themselves, not on my behalf.
 >
@@ -1973,13 +1940,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Trello]] (3), next (2), [[Active Directory]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Trello]] (3), [[Active Directory]] (1), [[Google]] (1), [[Microservices]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### When should you use this?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980)
+#### [When should you use this?](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,13 +1957,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=13)** That's it.
 >
-> **[0:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=14)** We don't have to consider the rest of the questions.
+> **[0:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=14)** We don't have to consider the [[Representational State Transfer (REST)|rest]] of the questions.
 >
 > **[0:17](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=17)** Now, that can be a little deceptive at first.
 >
 > **[0:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=19)** For example, if you have an Amazon S3 bucket storing files behind a web app, you may think that's on behalf of a user, but unless you're connecting to that user's AWS account, the application is the owner, not the user.
 >
-> **[0:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=32)** One place where you're also likely to see this is communication between microservices, when service A needs to talk to service B.
+> **[0:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=32)** One place where you're also likely to see this is communication between [[Microservices]], when service A needs to talk to service B.
 >
 > **[0:39](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=39)** Most likely, you'll want some sort of authorization policy so service A and B can interact but not have service C interact with A.
 >
@@ -2005,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=52)** While that can work, you get some pretty good benefits by using OAuth instead.
 >
-> **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=56)** First, if the user facing portions of your system are already using OAuth your team and systems already know how to deal with tokens.
+> **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=56)** First, if the user facing portions of your system are already using OAuth your team and systems already know how to deal with [[Tokens]].
 >
 > **[1:04](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22881719?u=76281980&t=64)** That makes validating them, using them, and even revoking them all familiar territory.
 >
@@ -2031,14 +1997,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), web (1), aws (1), application (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microservices]] (1), [[Tokens]] (1)
 > **Env Vars:** aws (1), api (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Build an example (curl)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980)
+#### [Lab: Build an example (curl)](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,7 +2013,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=9)** For context, I'm going to demonstrate this one two different ways.
 >
-> **[0:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=12)** The first one, I'll use the PHP based league OAuth server, which I installed and configured in a later video.
+> **[0:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=12)** The first one, I'll use the [[PHP]] based league OAuth server, which I installed and configured in a later video.
 >
 > **[0:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=18)** The setup instructions are in the PHP OAuth server folder, so you can get set up on your own.
 >
@@ -2104,7 +2069,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=116)** There's the client ID and client secret that we'll need in just a moment.
 >
-> **[2:01](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=121)** So we go back to our original instructions in the GitHub repository, we see there's a very similar command.
+> **[2:01](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=121)** So we go back to our original instructions in the [[GitHub]] repository, we see there's a very similar command.
 >
 > **[2:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-curl?u=76281980&t=127)** We have our domain, we have our client credentials, grant type.
 >
@@ -2144,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), api (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[GitHub]] (1)
 > **Env Vars:** php (3), api (2), url (1)
 > **CLI Commands:** php (3), find (1), make (1)
 > **URLs:** [jwt.io](https://jwt.io) (4)
@@ -2153,8 +2118,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (2), set up (1)
 > **Cross-References:** go back to (2)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,7 +2144,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980&t=79)** And there's one final place that people make mistakes with Client Credential Flow, they use it where they shouldn't.
 >
-> **[1:24](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980&t=84)** At first glance, people look at Client Credential and assume that it could be deployed on every IoT device all over the place.
+> **[1:24](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980&t=84)** At first glance, people look at Client Credential and assume that it could be deployed on every [[IoT]] device all over the place.
 >
 > **[1:31](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations?u=76281980&t=91)** Not quite, usually an IoT device will be outside your physical control, which means you can't count on it to keep secrets like the client's secret.
 >
@@ -2190,7 +2154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (3), [[Security]] (2), application (1), next (1), data (1)
+> **Frameworks & Libraries:** [[IoT]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** tls (1)
 > **Analogies:** such as (1)
@@ -2202,8 +2166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Device flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-device-flow?u=76281980)
+#### [Overview: Device flow](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-device-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2249,7 +2212,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), application (1)
 > **Env Vars:** uri (3), url (2), rfc (1), hdb (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.0 (1)
@@ -2257,8 +2219,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### When should you use this?
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980)
+#### [When should you use this?](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980&t=54)** Not a chance.
 >
-> **[0:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980&t=55)** There's zero privacy.
+> **[0:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980&t=55)** There's zero [[Privacy]].
 >
 > **[0:57](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/when-should-you-use-this-22880760?u=76281980&t=57)** And all of these cases displaying a short URL are better.
 >
@@ -2298,14 +2259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Lab: Build an example (kiosk)
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980)
+#### [Lab: Build an example (kiosk)](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2345,7 +2305,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980&t=86)** And eventually, once the user completes the authentication and authorization, the device gets back an access and a refresh token.
 >
-> **[1:34](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980&t=94)** While this seems abstract, you've probably used a similar process for setting up multi-factor authentication with your bank, or even GitHub.
+> **[1:34](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980&t=94)** While this seems abstract, you've probably used a similar process for setting up [[Multi-factor Authentication]] with your bank, or even [[GitHub]].
 >
 > **[1:41](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-build-an-example-kiosk?u=76281980&t=101)** When you set up an authenticator app, you're presented with a QR code, which you scan.
 >
@@ -2364,8 +2324,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22879827?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22879827?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,7 +2378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), api (2), next (1), application (1)
 > **Env Vars:** url (6), api (2), ssl (1), tls (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2430,14 +2388,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OAuth recommended practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980)
+#### [OAuth recommended practices](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=0)** - [Instructor] Now that we've talked about OAuth 2.0 in numerous contexts, use cases, and in technologies throughout this course, let's go into a handful of patterns and practices that are pretty consistent, regardless of what your choices are.
 >
-> **[0:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=12)** Please note that the rest of this video is a set of recommendations that should be treated as a baseline that generally works in most situations.
+> **[0:12](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=12)** Please note that the [[Representational State Transfer (REST)|rest]] of this video is a set of recommendations that should be treated as a baseline that generally works in most situations.
 >
 > **[0:19](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=19)** There are a few requirements here, but not many.
 >
@@ -2467,7 +2424,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=82)** Your use case should determine both the expiration time and how often you validate it locally versus remotely.
 >
-> **[1:28](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=88)** For high-security use cases like in banking or healthcare, you should check the authorization server more often.
+> **[1:28](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=88)** For high-security use cases like in [[Banking]] or healthcare, you should check the authorization server more often.
 >
 > **[1:34](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=94)** For low-security use cases like looking up your favorite comic book characters, you might check less often.
 >
@@ -2479,7 +2436,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=115)** Now, using an API gateway is optional, but I always recommend one because it can add things like rate limiting, logging, and other management aspects.
 >
-> **[2:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=123)** Regardless, just like the resource server, you have to decide how and when to validate the access tokens.
+> **[2:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=123)** Regardless, just like the resource server, you have to decide how and when to validate the access [[Tokens]].
 >
 > **[2:10](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980&t=130)** Some gateways can actually do the validation and perform authorization enforcement.
 >
@@ -2521,7 +2478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Tokens]] (5), application (3), next (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Banking]] (1)
 > **Env Vars:** api (6), ssl (1), tls (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** we talked about (1)
@@ -2530,14 +2487,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Configuring an OAuth server in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980)
+#### [Lab: Configuring an OAuth server in PHP](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=0)** - [Instructor] You can run your own OAuth server with a variety of different open-source projects.
 >
-> **[0:04](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=4)** For this course, I've often used a PHP League project called OAuth 2.0 Server.
+> **[0:04](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=4)** For this course, I've often used a [[PHP]] League project called OAuth 2.0 Server.
 >
 > **[0:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=9)** The requirements are pretty minimal, with just a modern version of PHP and OpenSSL support.
 >
@@ -2563,7 +2519,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=65)** Then we want to go ahead and set up our public key, so we have this available also.
 >
-> **[1:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=69)** We'll use this for end users to validate our tokens and make sure that they're correct.
+> **[1:09](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=69)** We'll use this for end users to validate our [[Tokens]] and make sure that they're correct.
 >
 > **[1:14](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-php?u=76281980&t=74)** And now, finally, we go into our public directory, and this is where all of our interfaces are, and we go ahead and we start up the server.
 >
@@ -2593,7 +2549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), open-source (3), next (1), [[Tokens]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Tokens]] (1)
 > **CLI Commands:** php (5), composer (2), make (2)
 > **Env Vars:** php (5), http (1), phpo (1)
 > **Prerequisites:** set up (2), install (1), getting started (1)
@@ -2602,14 +2558,13 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 
-#### Lab: Configuring an OAuth server in Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980)
+#### [Lab: Configuring an OAuth server in Node.js](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980&t=0)** - [Instructor] As I showed in PHP, you can run your own OAuth server with a variety of open source packages available out there.
+> **[0:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980&t=0)** - [Instructor] As I showed in [[PHP]], you can run your own OAuth server with a variety of open source packages available out there.
 >
-> **[0:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980&t=6)** This is another simple one, but based in JavaScript, and I used the example to get this going as quickly as possible.
+> **[0:06](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980&t=6)** This is another simple one, but based in [[JavaScript]], and I used the example to get this going as quickly as possible.
 >
 > **[0:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/lab-configuring-an-oauth-server-in-node-js?u=76281980&t=11)** This one is called oauth2orize.
 >
@@ -2667,7 +2622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[PHP]] (1), [[JavaScript]] (1), node (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (4), php (1), node (1)
 > **Prerequisites:** install (3), set up (2)
 > **Env Vars:** readme (2), php (1)
@@ -2676,8 +2631,7 @@ created: 2026-05-02
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 > **Ports:** :3000 (1)
 
-#### OAuth 2.0 as a service using Auth0
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980)
+#### [OAuth 2.0 as a service using Auth0](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2689,9 +2643,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=18)** On Auth0's website, you can sign up for free.
 >
-> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=20)** I'll happen to use my GitHub account.
+> **[0:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=20)** I'll happen to use my [[GitHub]] account.
 >
-> **[0:25](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=25)** Now the first thing you need to do is create a user, so you go to User Management, Users, and go ahead and create your first user.
+> **[0:25](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=25)** Now the first thing you need to do is create a user, so you go to [[User Management]], Users, and go ahead and create your first user.
 >
 > **[0:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=32)** I went ahead and created mine with my own email address, just to keep it nice and easy.
 >
@@ -2723,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=112)** This will be unique throughout the life of our project, and this is what we use for our audience claim when we make the Client Credential Flow request.
 >
-> **[2:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=120)** So we'll call this linkedin-learning, and we'll also call that test.
+> **[2:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=120)** So we'll call this [[LinkedIn]]-learning, and we'll also call that test.
 >
 > **[2:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-as-a-service-using-auth0?u=76281980&t=127)** We hit Create, and now this has configured almost everything for us.
 >
@@ -2741,7 +2695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[GitHub]] (1), [[User Management]] (1), next (1), api (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[User Management]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** go to (5), scroll down (2), click on (1)
 > **Prerequisites:** set up (8)
 > **CLI Commands:** find (1), make (1)
@@ -2755,8 +2709,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OAuth extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980)
+#### [OAuth extensions](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2780,7 +2733,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=36)** First, we have the core OAuth 2.0 framework, or RFC 6749, which purposely leaves many things undefined.
 >
-> **[0:44](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=44)** Now to pass data around effectively and easily, let's add RFC 7519 to make sure that our access tokens are JWTs or jot tokens, but now that we're passing tokens around, we have to do it safely.
+> **[0:44](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=44)** Now to pass data around effectively and easily, let's add RFC 7519 to make sure that our access [[Tokens]] are JWTs or jot tokens, but now that we're passing tokens around, we have to do it safely.
 >
 > **[0:56](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=56)** So instead of adding them to the URL, let's use bearer tokens in the authorization header as defined in RFC 6750.
 >
@@ -2790,11 +2743,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=78)** So how can we protect it?
 >
-> **[1:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=80)** Now we should consider RFC 7516, the JSON Web Encryption or JWE specification.
+> **[1:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=80)** Now we should consider RFC 7516, the [[JSON]] Web Encryption or JWE specification.
 >
 > **[1:27](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=87)** This allows us to pass sensitive information safely.
 >
-> **[1:30](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=90)** This is especially useful in healthcare or banking use cases but now that we're passing around tokens, we should add some more capabilities around that.
+> **[1:30](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=90)** This is especially useful in healthcare or [[Banking]] use cases but now that we're passing around tokens, we should add some more capabilities around that.
 >
 > **[1:38](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=98)** So now let's consider RFC 7662 or the Token Introspection spec.
 >
@@ -2820,7 +2773,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=168)** And finally, to pull all this together, we need a way for our authorization server to communicate what capabilities it offers.
 >
-> **[2:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=175)** For that, let's add RFC 8414, the Authorization Server Metadata specification.
+> **[2:55](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=175)** For that, let's add RFC 8414, the Authorization Server [[Metadata]] specification.
 >
 > **[3:02](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980&t=182)** This has been complex, but overall we've come up with a robust set of extensions to cover the vast majority of use cases that we'll see out there on a day-to-day basis support both front and backend operations.
 >
@@ -2834,7 +2787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), next (2), data (1), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[JSON]] (1), [[Banking]] (1), [[Metadata]] (1)
 > **Documentation:** rfc (11), specification (4), spec (3)
 > **Env Vars:** rfc (11), url (1), jwt (1), json (1), jwe (1)
 > **CLI Commands:** make (3)
@@ -2843,8 +2796,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Industry-specific OAuth extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980)
+#### [Industry-specific OAuth extensions](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2862,7 +2814,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=46)** Just as OpenID Connect allows quick and painless profile sharing with a few clicks, this allows you to share your health information to select parties, but just like OIDC, you don't have to share everything.
 >
-> **[0:58](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=58)** This allows a receptionist in your doctor's office to see which tests were performed, but not necessarily the results.
+> **[0:58](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=58)** This allows a receptionist in your doctor's [[Microsoft Office|office]] to see which tests were performed, but not necessarily the results.
 >
 > **[1:03](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=63)** Only your doctor can see those.
 >
@@ -2870,7 +2822,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=81)** While there are pushes to implement both HEART and SMART on FHIR, it's still relatively early for both of them, so you're only likely to see or even hear of them if you work in the electronic healthcare record space.
 >
-> **[1:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=92)** On the other hand, the concept of open banking is taking the world by storm.
+> **[1:32](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=92)** On the other hand, the concept of open [[Banking]] is taking the world by storm.
 >
 > **[1:36](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/industry-specific-oauth-extensions?u=76281980&t=96)** The principle of open banking is that your banking information, accounts, transactions, et cetera, are yours.
 >
@@ -2900,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (5), data (4), [[Microsoft Office|Office]] (1), api (1), power (1)
+> **Frameworks & Libraries:** [[Banking]] (5), [[Microsoft Office|Office]] (1)
 > **Env Vars:** smart (3), fhir (3), heart (2), oidc (1), api (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
@@ -2911,8 +2863,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2968,7 +2919,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1)
 > **Versions:** 2.0 (2), 2.1 (1)
 > **CLI Commands:** find (2)
 > **URLs:** [oauth.com](https://oauth.com) (2)

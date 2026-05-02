@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure behavior in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
+#### [Secure behavior in the workplace](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980&t=26)** Hi, I'm Caroline Wong, and I've been working in the information security industry since 2005.
 >
-> **[0:32](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980&t=32)** In this course, we're going to look at some of the most common cybersecurity threats and best practices you can use to secure your information.
+> **[0:32](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980&t=32)** In this course, we're going to look at some of the most common [[Cybersecurity]] threats and best practices you can use to secure your information.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980&t=40)** So join me in my LinkedIn learning course about Cybersecurity at Work to learn how to protect your important data, no matter where you're working from.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980&t=40)** So join me in my [[LinkedIn]] learning course about Cybersecurity at Work to learn how to protect your important data, no matter where you're working from.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Cybersecurity]] (2), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1)
 > **Speakers:** - i (1)
 
 
@@ -115,16 +114,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Social engineering overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
+#### [Social engineering overview](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=0)** - I talk to people every day about security vulnerabilities in hardware and software, but there's also a social component that is really important for all of us to understand.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=0)** - I talk to people every day about security vulnerabilities in [[Hardware]] and software, but there's also a social component that is really important for all of us to understand.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=12)** Here's how the U.S.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=14)** Cybersecurity and Infrastructure Security Agency describes social engineering.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=14)** [[Cybersecurity]] and Infrastructure Security Agency describes social engineering.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980&t=20)** "In a social engineering attack, an attacker uses human interaction to obtain or compromise information about an organization or its computer systems."
 >
@@ -142,17 +140,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Engineering]] (3), [[Security]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Hardware]] (1)
 > **Speakers:** - i (1)
 
-#### Email phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980)
+#### [Email phishing](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980&t=0)** - Your email inbox is the most likely place for a hacker to attempt to gain access to your identity or your organization's data.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980&t=10)** Hackers use a technique called phishing.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980&t=10)** Hackers use a technique called [[Phishing]].
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/email-phishing?u=76281980&t=13)** Just as a fisherman uses a worm on hook to attract fish.
 >
@@ -182,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), data (2), [[Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4)
 > **URLs:** [amazon.com](https://amazon.com) (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
 
-#### Social media information (over)sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980)
+#### [Social media information (over)sharing](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=32)** Social media information gathering is usually just the first of many steps in executing a clever and effective social engineering attack.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=43)** In the fictional podcast series, "Mother Hacker" the main character, Bridget finds herself the victim of a phishing attack.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=43)** In the fictional podcast series, "Mother Hacker" the main character, Bridget finds herself the victim of a [[Phishing]] attack.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=51)** The voice phishing scenario presented in the podcast involves a fake emergency call supposedly from a medical center where Bridgette's ex-husband is staying.
 >
@@ -213,7 +209,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=85)** Here are a couple of tips to consider.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=88)** Don't post photos of your office or home that might inadvertently share sensitive information.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=88)** Don't post photos of your [[Microsoft Office|office]] or home that might inadvertently share sensitive information.
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-media-information-over-sharing?u=76281980&t=96)** Is there a whiteboard in the background of your photo?
 >
@@ -229,12 +225,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Phishing]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** icu (1)
 > **Speakers:** - why (1)
 
-#### Counterfeit apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980)
+#### [Counterfeit apps](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980&t=28)** Rather, it's to trick a user into allowing a hacker's application access to the information on their mobile device.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980&t=37)** Hackers do this by creating fake apps that look very similar to the real thing and hosting them on the Apple App Store or the Google Play Store.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980&t=37)** Hackers do this by creating fake apps that look very similar to the real thing and hosting them on the Apple App Store or the [[Google]] Play Store.
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/counterfeit-apps?u=76281980&t=46)** They assume that some users will fall for the hoax download the fake apps, give them access to the information on the mobile device and even steal real authentication information that a user would typically submit to the real legitimate app.
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (1), [[Security]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -289,12 +284,11 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - the (1)
 
-#### Scenario: Voice phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-voice-phishing?u=76281980)
+#### [Scenario: Voice phishing](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-voice-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-voice-phishing?u=76281980&t=0)** - While advances in technology have enabled hackers to craft more sophisticated phishing attacks, at the end of the day, it's still one person trying to ask another to willingly give over information.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-voice-phishing?u=76281980&t=0)** - While advances in technology have enabled hackers to craft more sophisticated [[Phishing]] attacks, at the end of the day, it's still one person trying to ask another to willingly give over information.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-voice-phishing?u=76281980&t=13)** Watch as this hacker tries to convince this employee to give him her password.
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (6)
 > **Speakers:** - no (2), - this (2), - there (2), - while (1), - hello (1)
 > **Env Vars:** ceo (3), irs (1)
 > **Definitions:** is a  (2)
@@ -381,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Public Wi-Fi
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
+#### [Public Wi-Fi](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=16)** It's important to understand that when you're using public wifi, you may be inadvertently broadcasting information that anyone can eavesdrop on.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=26)** To understand why public wifi is less secure, let's discuss a few of the fundamental concepts of wireless networking.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=26)** To understand why public wifi is less secure, let's discuss a few of the fundamental concepts of [[Wireless Networking]].
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=34)** Wireless networks allow communication between devices without the use of a physical connection like an ethernet cable.
 >
@@ -424,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=136)** First, if your company requires the use of a VPN to connect to the company's internal network, connect to the VPN immediately upon joining a public wifi network.
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=148)** Second, take a risk-based approach to the types of online activity that you do while using a public wifi network, for example, you might be comfortable reading news articles on a public wifi network, but choose to wait until you're on a secured network to conduct online banking activity or handle other sensitive information.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=148)** Second, take a risk-based approach to the types of online activity that you do while using a public wifi network, for example, you might be comfortable reading news articles on a public wifi network, but choose to wait until you're on a secured network to conduct online [[Banking]] activity or handle other sensitive information.
 >
 > **[2:47](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=167)** Third, if available, use your own personal hotspot, a wifi connection to your cell phone.
 >
@@ -438,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), vpn (2), [[Wireless Networking]] (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Banking]] (1)
 > **Env Vars:** vpn (2), wpa2 (1), https (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -446,8 +439,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - there (1)
 
-#### Home Wi-Fi
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980)
+#### [Home Wi-Fi](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=4)** Personally, I work out of my home most of the time.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=7)** I have a remote role and my company doesn't have a local office in my area.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=7)** I have a remote role and my company doesn't have a local [[Microsoft Office|office]] in my area.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=12)** Let's look at the steps you can take to secure your home network.
 >
@@ -503,19 +495,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), [[Security]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** mac (2), wpa (1), wpa3 (1), ssid (1), vpn (1)
 > **Prerequisites:** set up (2), you'll need (2)
 > **Speakers:** - working (1)
 
-#### VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980)
+#### [VPN](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=0)** - If you're using a public wifi network, connecting to a VPN will help to secure your internet communications.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=8)** A VPN or virtual private network works by creating a secure virtual tunnel for internet traffic to pass through.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=8)** A VPN or [[Virtual Private Network (VPN)|virtual private network]] works by creating a secure virtual tunnel for internet traffic to pass through.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=16)** Protecting a wifi user's internet activity from hackers who sniff or intercept the information.
 >
@@ -535,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (8), [[Virtual Private Network (VPN)|Virtual private network]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** vpn (8)
 > **UI Navigation:** select the (1)
 > **Speakers:** - if (1)
@@ -545,8 +536,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Password security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
+#### [Password security](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +584,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980&t=129)** These tools compare your password to immense lists of words from the dictionary, common passwords, and real world passwords that have been stolen from data breaches.
 >
-> **[2:21](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980&t=141)** These databases often hold more than 500 million real passwords.
+> **[2:21](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980&t=141)** These [[Databases]] often hold more than 500 million real passwords.
 >
 > **[2:29](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980&t=149)** Hackers will also use social media posts to create educated guesses for cracking passwords.
 >
@@ -614,13 +604,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Data breaches and compromised passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980)
+#### [Data breaches and compromised passwords](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,24 +639,23 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=105)** The pwned password site also contains helpful information on password reuse and credential stuffing.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=113)** It also references the NIST Guide on checking passwords against those obtained in previous data breaches.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=113)** It also references the [[NIST]] Guide on checking passwords against those obtained in previous data breaches.
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=121)** If you want, you can even download the entire list to use as you please.
 >
 > **[2:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=127)** By the way, NIST stands for National Institute of Standards and Technology, a division of the US Department of Commerce, whose mission it is to advance measurement science, standards, and technology in ways that enhance economic security and improve our quality of life.
 >
-> **[2:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=145)** Among many other things, they develop cybersecurity standards, guidelines, and best practices.
+> **[2:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/data-breaches-and-compromised-passwords?u=76281980&t=145)** Among many other things, they develop [[Cybersecurity]] standards, guidelines, and best practices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (3), [[NIST]] (2), feature (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** nist (2)
 > **Definitions:** is a  (1), stands for (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - i (1)
 
-#### Multifactor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980)
+#### [Multifactor authentication](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980&t=51)** The card and the PIN are two separate pieces of evidence used to prove who you are.
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980&t=58)** NIST, the National Institute of Standards and Technology describes the following categories for multifactor authentication.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980&t=58)** [[NIST]], the National Institute of Standards and Technology describes the following categories for multifactor authentication.
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/multifactor-authentication?u=76281980&t=68)** Something you know, like a password or pin, something you have, like a smart card, or something you are, like a digital profile of your fingerprint.
 >
@@ -697,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **Env Vars:** pin (2), atm (1), nist (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - multifactor (1)
@@ -707,8 +695,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Updating software
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
+#### [Updating software](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,7 +745,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), product (1), [[Engineering]] (1), teams (1), next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (2)
 > **Cross-References:** in the next (1)
@@ -766,8 +752,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - a (1)
 
-#### Common vulnerabilities and exposures (CVE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980)
+#### [Common vulnerabilities and exposures (CVE)](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980&t=23)** CVE provides identifiers and standard descriptions for vulnerabilities.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980&t=30)** It is used by many different security services, tools and databases.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980&t=30)** It is used by many different security services, tools and [[Databases]].
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/common-vulnerabilities-and-exposures-cve?u=76281980&t=35)** Software organizations use CVE to stay up to date on new vulnerabilities and their fixes.
 >
@@ -791,15 +776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** cve (4)
 > **Definitions:** is called (1), stands for (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Malware overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980)
+#### [Malware overview](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +805,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980&t=62)** If you're not sure, ask your security or IT team.
 >
-> **[1:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980&t=67)** Number three, use endpoint security software.
+> **[1:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980&t=67)** Number three, use [[Endpoint Security]] software.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-overview?u=76281980&t=70)** Your company's security or IT team may have specific instructions in place to make sure endpoint security software is running on your devices.
 >
@@ -829,14 +813,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Endpoint Security]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Endpoint Security]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** short for (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - malware (1)
 
-#### Malware: Ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980)
+#### [Malware: Ransomware](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=59)** There's an economic assumption on the part of the hacker that a company may be more willing to pay a larger ransom for the convenience of getting access to their computer files, which may outweigh the lost productivity caused by the ransomware attack.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=75)** Most of these types of demands ask for payment in Bitcoin or another type of cryptocurrency that is harder to track by authorities than traditional transactions.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=75)** Most of these types of demands ask for payment in Bitcoin or another type of [[Cryptocurrency]] that is harder to track by authorities than traditional transactions.
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=87)** Some famous ransomware attacks include WannaCry and NotPetya.
 >
@@ -868,7 +851,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=101)** Here are a few things to keep in mind.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=105)** Make sure to keep your software up to date and your endpoint security running.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=105)** Make sure to keep your software up to date and your [[Endpoint Security]] running.
 >
 > **[1:50](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/malware-ransomware?u=76281980&t=110)** If you're working on a laptop or computer that's centrally managed by your company's IT department, then it's possible that activities like software updates and backups are being done for you.
 >
@@ -898,15 +881,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Cryptocurrency]] (1), [[Endpoint Security]] (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (1), [[Endpoint Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### The anatomy of a cyber attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980)
+#### [The anatomy of a cyber attack](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=37)** - Meet the software and systems hacker.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=42)** This person probes hardware, software and passwords to gain access to accounts.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=42)** This person probes [[Hardware]], software and passwords to gain access to accounts.
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=47)** - I can crack any 10 character password in under two hours.
 >
@@ -960,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=112)** - Fishy. Definitely.
 >
-> **[1:55](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=115)** This is a team of people actively conducting a cybersecurity attack.
+> **[1:55](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=115)** This is a team of people actively conducting a [[Cybersecurity]] attack.
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=120)** - So it's not just a sports marketing company.
 >
@@ -1002,11 +984,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=168)** - You're welcome.
 >
-> **[2:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=171)** - Wait, how does she get into the office?
+> **[2:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=171)** - Wait, how does she get into the [[Microsoft Office|office]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2), teams (1), [[Hardware]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Cybersecurity]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - oh (5), - that (3), - i (2), - and (2), - we (1)
 > **Env Vars:** cve (1), mfa (1)
 > **Definitions:** is a  (2)
@@ -1019,12 +1001,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Physical office security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
+#### [Physical office security](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=0)** - It's important to understand that cybersecurity attacks in the workplace aren't only conducted online.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=0)** - It's important to understand that [[Cybersecurity]] attacks in the workplace aren't only conducted online.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=7)** Company employees should also follow physical security practices to protect against vandalism, theft, and corporate sabotage.
 >
@@ -1034,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=44)** Hackers typically use simple social engineering techniques to exploit the vulnerabilities of human nature.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=52)** They often claim to be legitimate vendors, sometimes even wearing uniforms and offering bogus reasons for requiring entry to a physical office.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=52)** They often claim to be legitimate vendors, sometimes even wearing uniforms and offering bogus reasons for requiring entry to a physical [[Microsoft Office|office]].
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=62)** Not exactly CIA level spycraft, is it?
 >
@@ -1058,13 +1039,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), data (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cia (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
 
-#### Physical office security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980)
+#### [Physical office security best practices](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1076,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980&t=82)** Best practice number two.
 >
-> **[1:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980&t=85)** Be aware of the other people in your office.
+> **[1:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980&t=85)** Be aware of the other people in your [[Microsoft Office|office]].
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security-best-practices?u=76281980&t=88)** Hackers take advantage of human psychology and social norms in order to bypass physical access controls.
 >
@@ -1118,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Best Practices:** best practice (2), make sure to (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1126,8 +1106,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### Laptop and desktop security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980)
+#### [Laptop and desktop security](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,9 +1132,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=90)** You don't want people seeing what you're typing in.
 >
-> **[1:34](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=94)** If you're going to be working in an airport or another public area, you can dim your screen or use a privacy filter.
+> **[1:34](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=94)** If you're going to be working in an airport or another public area, you can dim your screen or use a [[Privacy]] filter.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=103)** When you're in the office and you need to step away from your laptop, make sure to lock the screen so that anyone passing by can't just do whatever they want to do on your laptop while you're gone.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=103)** When you're in the [[Microsoft Office|office]] and you need to step away from your laptop, make sure to lock the screen so that anyone passing by can't just do whatever they want to do on your laptop while you're gone.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/laptop-and-desktop-security?u=76281980&t=115)** This will help to prevent others from using your logged in accounts.
 >
@@ -1171,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft Office|Office]] (2), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Privacy]] (1)
 > **Env Vars:** usb (2), atm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1179,8 +1158,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
-#### Smartphone and mobile device attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/smartphone-and-mobile-device-attacks?u=76281980)
+#### [Smartphone and mobile device attacks](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/smartphone-and-mobile-device-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,15 +1208,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Code Identifiers:** iphone (2), icloud (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - i (1)
 
-#### Scenario: Stolen laptop
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980)
+#### [Scenario: Stolen laptop](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1282,9 +1258,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=115)** You don't want people seeing what you're typing in.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=118)** Consider dimming your screen or use a privacy filter.
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=118)** Consider dimming your screen or use a [[Privacy]] filter.
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=129)** If you're in the office and need to step away, make sure to lock the screen on your laptop so that anyone passing by can't just access it.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=129)** If you're in the [[Microsoft Office|office]] and need to step away, make sure to lock the screen on your laptop so that anyone passing by can't just access it.
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/scenario-stolen-laptop?u=76281980&t=137)** This will help to prevent others from using your logged in accounts.
 >
@@ -1354,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (4), - oh (2), - the (1), - sam (1), - password (1)
 > **Env Vars:** usb (3), pin (1), atm (1)
 > **CLI Commands:** make (2)
@@ -1368,14 +1344,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intellectual property
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
+#### [Intellectual property](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=1)** - At this point, I'd like for us to take a step back and consider the questions.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=6)** Why does cybersecurity in the workplace matter?
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=6)** Why does [[Cybersecurity]] in the workplace matter?
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=9)** Why do I need to learn about things like malware, social engineering, or passwords.
 >
@@ -1403,19 +1378,18 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=91)** Inform yourself about who should have access to what kind of sensitive data inside your organization and externally.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=100)** Many companies have data classification policies or standards to provide guidance.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=100)** Many companies have [[Data Classification]] policies or standards to provide guidance.
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980&t=107)** If you do need to share sensitive information, check with your security or IT team to find out what your company's best practices are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Cybersecurity]] (2), [[Engineering]] (1), [[Data Classification]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Data Classification]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - at (1)
 
-#### Customer information
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/customer-information?u=76281980)
+#### [Customer information](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/customer-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,12 +1411,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - another (1)
 
-#### Employee information
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/employee-information?u=76281980)
+#### [Employee information](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/employee-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,11 +1434,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/employee-information?u=76281980&t=50)** If you need to share sensitive information, check with security or IT to learn about how.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/employee-information?u=76281980&t=56)** Cybersecurity risks and threats are real, and it's important for you to know how to protect yourself and your company's data.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/employee-information?u=76281980&t=56)** [[Cybersecurity]] risks and threats are real, and it's important for you to know how to protect yourself and your company's data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - think (1)
@@ -1476,16 +1448,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You are part of the security team
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)
+#### [You are part of the security team](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=1)** - The most important thing to understand about cybersecurity at work is that it's not only the job of the security team or of the IT team.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=1)** - The most important thing to understand about [[Cybersecurity]] at work is that it's not only the job of the security team or of the IT team.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=10)** Security is everyone's job and you are a critical part of your company's security team.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=16)** Spam filters, endpoint security, and other technology controls are simply not enough alone to ensure that information is adequately protected.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=16)** Spam filters, [[Endpoint Security]], and other technology controls are simply not enough alone to ensure that information is adequately protected.
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980&t=27)** The human factor, your decisions and your actions, is actually what matters the most.
 >
@@ -1517,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Cybersecurity]] (3), [[Endpoint Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Endpoint Security]] (1)
 > **Speakers:** - the (1)
 
 

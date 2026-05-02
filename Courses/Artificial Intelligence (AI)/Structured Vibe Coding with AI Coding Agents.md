@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving beyond simple vibe coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980)
+#### [Moving beyond simple vibe coding](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980&t=0)** - Have you heard of vibe coding or coding agents?
+> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980&t=0)** - Have you heard of [[Vibe Coding]] or coding agents?
 >
 > **[0:05](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/moving-beyond-simple-vibe-coding?u=76281980&t=5)** These are revolutionary way to build software by giving command in plain English to AI, which then writes code for you.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Vibe Coding]] (1), power (1), cloud (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (1)
 > **Speakers:** - have (1)
 
 
@@ -98,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is vibe coding?
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980)
+#### [What is vibe coding?](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=7)** It is defined as the practice of rapidly building software by issuing comments to AI coding agents and accepting the changes that they propose.
 >
-> **[0:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=18)** That is the essence of vibe coding.
+> **[0:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=18)** That is the essence of [[Vibe Coding]].
 >
 > **[0:22](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=22)** It is about moving quickly, then let AI do the heavy lifting of generating code.
 >
@@ -123,9 +121,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=71)** It is the result of gradual evolution of AI-assisted coding tools.
 >
-> **[1:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=77)** We started with simple tap completions where IDE could suggest the next word in the 1990s called IntelliJ.
+> **[1:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=77)** We started with simple tap completions where IDE could suggest the next [[Microsoft Word|word]] in the 1990s called IntelliJ.
 >
-> **[1:26](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=86)** Then in 2021, GitHub Copilot, powered by OpenAI's codex, took things further with advanced code completion, and fill in the middle capabilities so we can then complete a full module instead of just the next word.
+> **[1:26](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=86)** Then in 2021, [[GitHub Copilot]], powered by OpenAI's codex, took things further with advanced code completion, and fill in the middle capabilities so we can then complete a full module instead of just the next word.
 >
 > **[1:46](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=106)** And now with models like Claude 3.5 Sonnet, and those who can after it, we are entering the era of agentic coding where the AI can take more significant actions on our behalf, utilizing the wide variety of tools that it has access to.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Vibe Coding]] (6), next (2), [[Microsoft Word|Word]] (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (6), [[Microsoft Word|Word]] (2), [[GitHub Copilot]] (1)
 > **Env Vars:** cto (1), ide (1), llm (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Tools:** intellij (1), github (1)
@@ -167,14 +165,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing your coding agent host: VS Code and Claude Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980)
+#### [Choosing your coding agent host: VS Code and Claude Code](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=0)** - [Narrator] Before we start Vibe coding, we need to set up a few key components.
+> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=0)** - [Narrator] Before we start [[Vibe Coding]], we need to set up a few key components.
 >
-> **[0:05](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=5)** From our previous video, we define vibe coding as programming using a coding agent, powered by one or more large language models inside an interactive environment.
+> **[0:05](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=5)** From our previous video, we define vibe coding as programming using a coding agent, powered by one or more [[Large Language Models (LLM)|large language models]] inside an interactive environment.
 >
 > **[0:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=18)** This environment could be an IDE, like VS Code, a terminal or a web-based application.
 >
@@ -196,9 +193,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=84)** Here are some coding agents that's currently on the market right now.
 >
-> **[1:30](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=90)** There are Avanti, Cursor, GitHub Copilot, Windsurf, et cetera, that lives inside Neovim and VS Code or other VS Code forks.
+> **[1:30](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=90)** There are Avanti, Cursor, [[GitHub Copilot]], Windsurf, et cetera, that lives inside Neovim and VS Code or other VS Code forks.
 >
-> **[1:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=104)** Then there are also command line-based agents like Claude Code, from Anthropic and Codex CLI from OpenAI.
+> **[1:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=104)** Then there are also command line-based agents like Claude Code, from Anthropic and Codex [[CLI]] from OpenAI.
 >
 > **[1:56](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=116)** Each offers slightly different features, harnesses and level of integration with large language models and developer tools.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=235)** So I will choose Dark Mode for colorblind friendly and I will authenticate using my own Claude account.
 >
-> **[4:07](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=247)** Continue with Google,
+> **[4:07](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=247)** Continue with [[Google]],
 >
 > **[4:16](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=256)** refresh and then you click Authorize.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=293)** Using Claude Code inside VS Code offers a couple advantages.
 >
-> **[4:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=299)** First is you can use VS Code to easily view the directory structure on the left hand side with the explorer and you get access to get history and all of the version control tools and all of the reach ecosystem that is supplied by VS Code.
+> **[4:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=299)** First is you can use VS Code to easily view the directory structure on the left hand side with the explorer and you get access to get history and all of the [[Version Control]] tools and all of the reach ecosystem that is supplied by VS Code.
 >
 > **[5:19](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=319)** And you maintain the flexibility of using a command line interface with VS Code.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Vibe Coding]] (2), [[GitHub Copilot]] (2), next (2)
+> **Frameworks & Libraries:** [[CLI]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Vibe Coding]] (2), [[GitHub Copilot]] (2), [[Google]] (1)
 > **Tools:** vs code (11), terminal (3), command line (3), github (2), neovim (1)
 > **Env Vars:** cli (5), ide (2), mcp (2), mpn (1)
 > **Prerequisites:** set up (4), install (3), before we start (1)
@@ -279,18 +276,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 
-#### Equipping agents: Essential tools and MCPs
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980)
+#### [Equipping agents: Essential tools and MCPs](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=0)** - [Instructor] In the previous video, we talk about tooling for coding agents.
 >
-> **[0:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=4)** In this section that's focused on large language models.
+> **[0:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=4)** In this section that's focused on [[Large Language Models (LLM)|large language models]].
 >
 > **[0:08](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=8)** It is a critical component of any coding agents.
 >
-> **[0:13](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=13)** Ever since the release of ChatGPT, there has been an explosion of language models available for coding task.
+> **[0:13](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=13)** Ever since the release of [[ChatGPT]], there has been an explosion of language models available for coding task.
 >
 > **[0:21](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=21)** New models appear on a weekly basis, which makes it very hard to decide what to use.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=50)** However, while benchmarking can help, they don't always reflect the full picture as some models could cost more or be less available versus the others.
 >
-> **[1:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=62)** In reality, Vibe Coding where agents operate interactively in coding environments only became truly feasible after Anthropic's Claude3.5 Sonnet model.
+> **[1:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=62)** In reality, [[Vibe Coding]] where agents operate interactively in coding environments only became truly feasible after Anthropic's Claude3.5 Sonnet model.
 >
 > **[1:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=77)** For the purpose of this course, we will standardize on Claude4 Sonnet from Anthropic, using Claude Code for the following reasons.
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=96)** Third, it offers very good integration with command line interface and all of the IDE tools.
 >
-> **[1:45](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=105)** Other models like Gemini 2.5 and GPT-4 series are also viable.
+> **[1:45](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=105)** Other models like [[Gemini]] 2.5 and [[GPT-4]] series are also viable.
 >
 > **[1:51](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=111)** But for simplicity and cost effectiveness, Claude Sonnet is our default.
 >
@@ -328,11 +324,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=159)** This confirms our setup is complete and we are ready to start using our coding agents with the right tools and models.
 >
-> **[2:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=168)** In the next video, we will walk through how to provide tools to large language models, including GitHub and Git, so we can connect our agent to do a full development cycle.
+> **[2:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=168)** In the next video, we will walk through how to provide tools to large language models, including [[GitHub]] and [[Git]], so we can connect our agent to do a full development cycle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), ai (1), [[Vibe Coding]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Vibe Coding]] (1), [[Gemini]] (1), [[GPT-4]] (1)
 > **Tools:** command line (1), vs code (1), terminal (1), github (1)
 > **Env Vars:** gpt4 (1), ide (1), gpt (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -341,8 +337,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 
-#### Model selection for optimal vibe coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980)
+#### [Model selection for optimal vibe coding](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,11 +345,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=6)** Let's think about our own workflow.
 >
-> **[0:08](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=8)** First, we need some sort of a IDE or a CLI environment.
+> **[0:08](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=8)** First, we need some sort of a IDE or a [[CLI]] environment.
 >
-> **[0:14](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=14)** We need access to a code repository like GitHub, and some internet connection for docs and internet searches, and a terminal to run some comments.
+> **[0:14](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=14)** We need access to a code repository like [[GitHub]], and some internet connection for docs and internet searches, and a terminal to run some comments.
 >
-> **[0:26](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=26)** And most likely, we should be using Git for version control, and some planning tools like Jira.
+> **[0:26](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=26)** And most likely, we should be using [[Git]] for [[Version Control]], and some planning tools like [[Jira]].
 >
 > **[0:34](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=34)** So if we need the coding agent to mimic our developer lifecycle, and in a typical developer lifecycle, we go through some of the workflow like the following, we will plan the work, we have to do some research online, we have to write and test code, we need to commit changes to Git, and then push it to GitHub, Trigger CI/CD, and to deploy to production.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=108)** And the equivalent is Model Context Protocol.
 >
-> **[1:52](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=112)** MCPs provide coding tools to AI agents, such as planning, context awareness, and execution capabilities.
+> **[1:52](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=112)** MCPs provide coding tools to [[AI Agents]], such as planning, context awareness, and execution capabilities.
 >
 > **[2:03](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/model-selection-for-optimal-vibe-coding?u=76281980&t=123)** And one huge benefit of Claude Code is that it includes a lot of this capabilities out of the box.
 >
@@ -423,8 +418,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **UI Navigation:** toggle (1)
 
-#### Project context: Understanding rules files
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980)
+#### [Project context: Understanding rules files](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,13 +480,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980&t=240)** And we have created and configured a rules file.
 >
-> **[4:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980&t=244)** Now, we have prepared our environments for productive, structured vibe coding.
+> **[4:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980&t=244)** Now, we have prepared our environments for productive, structured [[Vibe Coding]].
 >
 > **[4:10](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/project-context-understanding-rules-files?u=76281980&t=250)** In the next video, we will build our first app and see the agent in action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), prompt (1), power (1), [[Vibe Coding]] (1), next (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (1)
 > **File Paths:** claude.md (7), readme.md (1), claud.md (1)
 > **Tools:** vs code (6), terminal (1)
 > **Definitions:** is a  (2), known as (1)
@@ -506,8 +500,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI pair programming: Human as navigator, AI as driver
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980)
+#### [AI pair programming: Human as navigator, AI as driver](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,9 +554,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=157)** Product managers hand us some specifications and we break that down into technical plans and tasks.
 >
-> **[2:45](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=165)** This means writing an RFC, or a request for comment, creating tickets in Jira, and then we go by ticket, by ticket, writing code, reviewing and repeating until the project is done.
+> **[2:45](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=165)** This means writing an RFC, or a request for comment, creating tickets in [[Jira]], and then we go by ticket, by ticket, writing code, reviewing and repeating until the project is done.
 >
-> **[2:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=179)** In structured vibe coding, we follow the exact same path.
+> **[2:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=179)** In structured [[Vibe Coding]], we follow the exact same path.
 >
 > **[3:03](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/ai-pair-programming-human-as-navigator-ai-as-driver?u=76281980&t=183)** We start with requirements, we break those down into bite-sized tickets, we pick a task, give clear instructions to the agent, and review the output, and iterate.
 >
@@ -579,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), ai (4), [[Engineering]] (4), product (2), business (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Vibe Coding]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rfc (1)
 > **Cross-References:** in the next (1)
@@ -588,14 +581,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Warm up: A landing page for your AI consulting business
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980)
+#### [Warm up: A landing page for your AI consulting business](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=0)** - [Instructor] In this video, we are going to do a live demo on how to use Claude Code to build a landing page for our AI consulting service without writing everything from scratch.
 >
-> **[0:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=11)** Before we start, as best practice, let's init our Git repository, and let's go to Claude.
+> **[0:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=11)** Before we start, as best practice, let's init our [[Git]] repository, and let's go to Claude.
 >
 > **[0:21](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=21)** First, let's go to planning mode.
 >
@@ -643,7 +635,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=173)** Okay, so now, we have a much better planning process.
 >
-> **[2:58](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=178)** So the implementation plan says CLAUDE.md update and Next.js landing page.
+> **[2:58](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=178)** So the implementation plan says CLAUDE.md update and [[Next.js]] landing page.
 >
 > **[3:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=184)** So we update CLAUDE.md file with the appropriate project overview, dependencies, key dependencies, all the strategies, and we will initialize Next.js project.
 >
@@ -711,7 +703,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=401)** A lot of times what is happening is, there are some models that's more expensive and has less token limits, versus some models that are more widely available with higher token limits.
 >
-> **[6:56](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=416)** So when the tokens run out, typically it switches to a more common model.
+> **[6:56](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=416)** So when the [[Tokens]] run out, typically it switches to a more common model.
 >
 > **[7:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=424)** Right now, it is trying to lint, so let's lint our code base so it looks pretty.
 >
@@ -719,7 +711,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=442)** So let's proceed.
 >
-> **[7:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=444)** And note that right here, it says npm run dev and &, which means it is going to run it in the background, which is perfect.
+> **[7:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=444)** And note that right here, it says [[npm]] run dev and &, which means it is going to run it in the background, which is perfect.
 >
 > **[7:34](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/warm-up-a-landing-page-for-your-ai-consulting-business?u=76281980&t=454)** So let's try to see if we can have it open in local.
 >
@@ -781,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (4), [[Next.js]] (4), [[Engineering]] (3), application (2)
+> **Frameworks & Libraries:** [[Next.js]] (4), [[Git]] (1), [[Tokens]] (1), [[npm]] (1)
 > **File Paths:** claude.md (7), next.js (4)
 > **Env Vars:** claude (7), cta (1)
 > **CLI Commands:** make (4), git (1), rm (1), npm (1)
@@ -790,8 +782,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Best Practices:** best practice (1)
 
-#### Execute: Test-driven development with your AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980)
+#### [Execute: Test-driven development with your AI agent](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=49)** In this workflow, we will use AI agent to write the test and then have the AI agent update the code until all tests passes.
 >
-> **[1:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=60)** This is also known as a test-driven development.
+> **[1:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=60)** This is also known as a [[Test-Driven Development]].
 >
 > **[1:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=64)** So we will go to VS Code and start asking the agent to write unit test for the email validation function.
 >
@@ -889,11 +880,11 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=351)** This is a very powerful way to collaborate with AI coding agents when building production grade features.
 >
-> **[5:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=359)** In the next video, we will demonstrate using playwright to automate end-to-end testing of our web application.
+> **[5:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/execute-test-driven-development-with-your-ai-agent?u=76281980&t=359)** In the next video, we will demonstrate using playwright to automate [[End-to-end Testing]] of our web application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Engineering]] (1), [[Test-Driven Development]] (1), next (1), [[End-to-end Testing]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[End-to-end Testing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), scroll up (1)
 > **Env Vars:** ctrl (2)
@@ -902,8 +893,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trust but verify: Testing, PRs, and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980)
+#### [Trust but verify: Testing, PRs, and debugging](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,9 +903,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=10)** We will set up an end-to-end test for our landing page and the tool that we'll be using is called Playwright.
 >
-> **[0:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=18)** It is a powerful browser automation library created and maintained by Microsoft.
+> **[0:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=18)** It is a powerful browser automation library created and maintained by [[Microsoft]].
 >
-> **[0:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=24)** It is a great tool for testing the full user experience of a web app including usability, performance and accessibility.
+> **[0:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=24)** It is a great tool for testing the full [[User Experience (UX)|user experience]] of a web app including usability, performance and accessibility.
 >
 > **[0:33](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=33)** So that's get started.
 >
@@ -925,7 +915,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=53)** So to install this to Claude Code that's scrolled down and find Claude Code.
 >
-> **[1:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=60)** Install in Claude Code, it says use the Claude Code CLI to add the Playwright MCP server.
+> **[1:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=60)** Install in Claude Code, it says use the Claude Code [[CLI]] to add the Playwright MCP server.
 >
 > **[1:08](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=68)** So that's copy this command and that's go back to VS Code.
 >
@@ -943,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=130)** And now you see the previous session history has been restored here.
 >
-> **[2:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=137)** And also very importantly because we are at some steady state with our application that's commit all this changes into GIT so we can easily refresh back when it's necessary.
+> **[2:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=137)** And also very importantly because we are at some steady state with our application that's commit all this changes into [[Git]] so we can easily refresh back when it's necessary.
 >
 > **[2:33](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=153)** So let's ask Claude to commit all this to GIT.
 >
@@ -967,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=230)** So now the repository is initialized with a clean commit history and all of our current web app has been committed into GIT.
 >
-> **[3:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=239)** Now let's start with writing end-to-end testing with Playwright.
+> **[3:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=239)** Now let's start with writing [[End-to-end Testing]] with Playwright.
 >
 > **[4:05](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=245)** Please help me run test on this website that we have just created.
 >
@@ -1047,7 +1037,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=539)** And it also made some recommendations.
 >
-> **[9:01](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=541)** We can skip through the rest but it produce a fairly comprehensive report and this demonstrates the power of enabling Claude Code to use the browser via the Playwright MCP for automated end-to-end testing.
+> **[9:01](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=541)** We can skip through the [[Representational State Transfer (REST)|rest]] but it produce a fairly comprehensive report and this demonstrates the power of enabling Claude Code to use the browser via the Playwright MCP for automated end-to-end testing.
 >
 > **[9:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/trust-but-verify-testing-prs-and-debugging?u=76281980&t=558)** And that's it.
 >
@@ -1059,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (10), web (4), [[Automation]] (3), [[End-to-end Testing]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Git]] (10), [[End-to-end Testing]] (2), [[Microsoft]] (1), [[User Experience (UX)|User experience]] (1), [[CLI]] (1)
 > **Env Vars:** git (10), mcp (9), cli (1), stdio (1)
 > **CLI Commands:** git (10), find (1), make (1)
 > **Prerequisites:** install (6), set up (1), setup (1)
@@ -1073,8 +1063,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rapid codebase onboarding with AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980)
+#### [Rapid codebase onboarding with AI agents](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=62)** It is a data visualization and data exploration platform.
 >
-> **[1:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=66)** Here is the website, if we quickly scan through the website, there are resources, Docker, there is a Helm chart, there is an SDK, A front end, some web socket, and this is likely a Python library and a bunch of tests.
+> **[1:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=66)** Here is the website, if we quickly scan through the website, there are resources, Docker, there is a [[Helm]] chart, there is an SDK, A front end, some web socket, and this is likely a [[Python (Programming Language)|Python]] library and a bunch of tests.
 >
 > **[1:22](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=82)** So this is a decent sized library, so that's try to clone this repository first to our local.
 >
@@ -1110,9 +1099,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=122)** And before we start, we will be utilizing a markdown language called Mermaid.
 >
-> **[2:09](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=129)** Mermaid is a very popular diagramming language that use a markdown-like syntax to create flow charts, sequence diagrams and more.
+> **[2:09](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=129)** Mermaid is a very popular [[Diagramming]] language that use a markdown-like syntax to create flow charts, sequence diagrams and more.
 >
-> **[2:20](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=140)** It is a great way to visualize and summarize a system architecture.
+> **[2:20](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=140)** It is a great way to visualize and summarize a [[System Architecture]].
 >
 > **[2:25](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=145)** So that's first ensure that we have the Mermaid extension installed.
 >
@@ -1134,7 +1123,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=206)** So now let's do this command.
 >
-> **[3:29](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=209)** Let's see, please look into this repository and help me understand its architecture and its core control flow.
+> **[3:29](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=209)** Let's see, please look into this repository and help me understand its architecture and its core [[Control Flow]].
 >
 > **[3:40](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=220)** Write a swimlane diagram using Mermaid markdown syntax.
 >
@@ -1182,9 +1171,9 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=396)** It store data in S3 buckets in a target database and in some meta database.
 >
-> **[6:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=404)** And it also uses a Redis cache and salary workers in queue to do the backend processing.
+> **[6:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=404)** And it also uses a [[Redis]] cache and salary workers in queue to do the backend processing.
 >
-> **[6:52](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=412)** So we can also read through the rest of the report to get a better understanding of the codebase and potentially ask very specific questions as to how we can optimize the codebase.
+> **[6:52](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=412)** So we can also read through the [[Representational State Transfer (REST)|rest]] of the report to get a better understanding of the codebase and potentially ask very specific questions as to how we can optimize the codebase.
 >
 > **[7:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/rapid-codebase-onboarding-with-ai-agents?u=76281980&t=426)** So using coding agent this way, accelerate onboarding speed dramatically.
 >
@@ -1194,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Engineering]] (2), web (2), parallel (2), database (2)
+> **Frameworks & Libraries:** [[Helm]] (1), [[Python (Programming Language)|Python]] (1), [[Diagramming]] (1), [[System Architecture]] (1), [[Control Flow]] (1)
 > **Definitions:** is a  (7), is called (2), is an  (1)
 > **CLI Commands:** apache (1), docker (1), python (1), cd (1), make (1)
 > **Prerequisites:** before we start (1), install (1), set up (1)
@@ -1202,8 +1191,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating diagrams for system comprehension
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980)
+#### [Generating diagrams for system comprehension](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,7 +1215,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=94)** So let's go in here and view the file.
 >
-> **[1:38](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=98)** And again, Command + Shift + V or Control + Shift + V if you are on Windows to preview the file and render them properly.
+> **[1:38](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=98)** And again, Command + Shift + V or Control + Shift + V if you are on [[Windows]] to preview the file and render them properly.
 >
 > **[1:49](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=109)** Okay, so obviously this is a enterprise grade application with a huge entity relationship diagram, and all of this has been constructed out.
 >
@@ -1235,9 +1223,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=133)** We have the primary key and all of the linkage between different tables.
 >
-> **[2:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=138)** So with this, we can better understand the data modeling behind the whole application stack.
+> **[2:18](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=138)** So with this, we can better understand the [[Data Modeling]] behind the whole application stack.
 >
-> **[2:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=144)** And some of the other things we could use to better understanding the system includes a swim lane diagram, flow chart, and even draw out the diagram and flow chart for some of the workflows, including CICD or data processing or even cloud architecture diagrams if there are significant set of Terraform files in there.
+> **[2:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=144)** And some of the other things we could use to better understanding the system includes a swim lane diagram, flow chart, and even draw out the diagram and flow chart for some of the workflows, including CICD or [[Data Processing]] or even cloud architecture diagrams if there are significant set of [[Terraform]] files in there.
 >
 > **[2:53](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/generating-diagrams-for-system-comprehension?u=76281980&t=173)** So now we have demonstrated how to utilize coding agents for rapid code base understanding and system understanding using diagrams.
 >
@@ -1251,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (6), [[Engineering]] (2), [[Windows]] (1), web application (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Data Modeling]] (1), [[Data Processing]] (1), [[Terraform]] (1)
 > **CLI Commands:** terraform (1), make (1)
 > **Env Vars:** erd (1), cicd (1)
 > **Definitions:** is a  (2)
@@ -1264,24 +1252,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software stack selection for AI agent success
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980)
+#### [Software stack selection for AI agent success](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=0)** - [Instructor] Now we have demonstrated structure vibe coding, a landing page with driver, navigator, and ping pong style pair programming, and explored deeper capabilities like code-based understanding and onboarding with AI.
+> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=0)** - [Instructor] Now we have demonstrated structure [[Vibe Coding]], a landing page with driver, navigator, and ping pong style pair programming, and explored deeper capabilities like code-based understanding and onboarding with AI.
 >
 > **[0:14](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=14)** It's time to turn our attention to how we should think about our tech stack and architecture choices to improve it for coding agents.
 >
-> **[0:25](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=25)** First, let's talk about selecting a software stack that works well with AI agents.
+> **[0:25](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=25)** First, let's talk about selecting a software stack that works well with [[AI Agents]].
 >
-> **[0:31](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=31)** Now, as anyone in engineering knows, picking a stack can stir up a lot of opinions, but when it comes to working with large language models, there is a practical guideline, stick with what's popular and well supported.
+> **[0:31](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=31)** Now, as anyone in engineering knows, picking a stack can stir up a lot of opinions, but when it comes to working with [[Large Language Models (LLM)|large language models]], there is a practical guideline, stick with what's popular and well supported.
 >
-> **[0:47](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=47)** If we take a look at the top programming languages on GitHub, we can find Python, JavaScript, TypeScript dominating the charts, and you can understand our suggestion of sticking with what's popular is not a coincidence.
+> **[0:47](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=47)** If we take a look at the top programming languages on [[GitHub]], we can find [[Python (Programming Language)|Python]], [[JavaScript]], TypeScript dominating the charts, and you can understand our suggestion of sticking with what's popular is not a coincidence.
 >
 > **[1:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=64)** Large language models have been trained extensively on public code in these languages, and they simply are more capable when working within these ecosystems.
 >
-> **[1:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=77)** So if you are using Python with Fast API or building front end with React or back end with Node, you are in great shape.
+> **[1:17](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=77)** So if you are using Python with Fast API or building front end with [[React.js|React]] or back end with Node, you are in great shape.
 >
 > **[1:27](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/software-stack-selection-for-ai-agent-success?u=76281980&t=87)** You will get far better performances from coding agents in this environment compared to something more exotic like Julia or Mojo, which have far less data in the public training dataset.
 >
@@ -1297,7 +1284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), ai (2), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), data (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), [[Vibe Coding]] (1), [[AI Agents]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), find (1), node (1)
 > **Env Vars:** api (1)
 > **Tools:** github (1)
@@ -1305,14 +1292,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monorepos: The AI coding agent's best friend
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980)
+#### [Monorepos: The AI coding agent's best friend](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=0)** - [Instructor] Now we are going to dive into co-organization choice.
 >
-> **[0:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=4)** That is a game changer, especially in the world of AI and large language models.
+> **[0:04](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=4)** That is a game changer, especially in the world of AI and [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=10)** It's all about using a monorepo.
 >
@@ -1322,13 +1308,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=23)** Think of it as one joint repository that holds a bunch of different sub repositories, applications, and packages all in one place.
 >
-> **[0:35](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=35)** So instead of having your front end, your backend, and share libraries in separate GitHub repositories, they all live in a single unified home.
+> **[0:35](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=35)** So instead of having your front end, your backend, and share libraries in separate [[GitHub]] repositories, they all live in a single unified home.
 >
 > **[0:47](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=47)** A perfect example is the Apache Superset repository that we have explored previously.
 >
 > **[0:55](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=55)** It is a complex repository, but everything is stored in one place.
 >
-> **[1:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=62)** As we can see here, we have the Superset backend Python application, we have the Superset frontend application, and the embedded SDK, the test, and the build and deployment code all in one single repository.
+> **[1:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=62)** As we can see here, we have the Superset backend [[Python (Programming Language)|Python]] application, we have the Superset frontend application, and the embedded SDK, the test, and the build and deployment code all in one single repository.
 >
 > **[1:19](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/monorepos-the-ai-coding-agent-s-best-friend?u=76281980&t=79)** And this makes navigating the code base much, much easier for our coding agents.
 >
@@ -1376,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), application (3), [[Large Language Models (LLM)|Large language models]] (2), game (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), apache (1), python (1), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sdk (1), api (1)
@@ -1384,12 +1370,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing proliferating rules files effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980)
+#### [Managing proliferating rules files effectively](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=0)** - [Instructor] In this video, we are going to dive into one of the key aspect of structured vibe coding.
+> **[0:00](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=0)** - [Instructor] In this video, we are going to dive into one of the key aspect of structured [[Vibe Coding]].
 >
 > **[0:07](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=7)** First, let's look into how we can structure our CLAUDE.md file for context engineering.
 >
@@ -1411,7 +1396,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=113)** Claude Code, the coding agent, have direct access to our terminal, so it is very important for us to set up permissions to allow certain command to be executed and deny some of the more dangerous commands that we would use.
 >
-> **[2:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=131)** And the way we do that is settings.local.json for local development or settings.json if we want to commit a file to the repository, so the same setting could be shared with all developers that's working in the same code base.
+> **[2:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=131)** And the way we do that is settings.local.[[JSON]] for local development or settings.json if we want to commit a file to the repository, so the same setting could be shared with all developers that's working in the same code base.
 >
 > **[2:29](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/managing-proliferating-rules-files-effectively?u=76281980&t=149)** We do also want to pay special attention to some commands that fetches data from the internet such as curl or wget.
 >
@@ -1425,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), next (2), [[Vibe Coding]] (1), [[Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Vibe Coding]] (1)
 > **Env Vars:** claude (6), mcp (4), readme (1)
 > **File Paths:** claude.md (6), mcp.json (2), settings.local.json (1), settings.json (1)
 > **Prerequisites:** set up (4)
@@ -1434,8 +1419,7 @@ created: 2026-05-02
 > **CLI Commands:** curl (1), wget (1)
 > **Best Practices:** best practice (1)
 
-#### Common vibe coding pitfalls and their antidotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980)
+#### [Common vibe coding pitfalls and their antidotes](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1443,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=11)** First and most important tip, use it.
 >
-> **[0:15](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=15)** One of the most common mistakes is jumping into vibe coding without creating a new dev branch.
+> **[0:15](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=15)** One of the most common mistakes is jumping into [[Vibe Coding]] without creating a new dev branch.
 >
 > **[0:21](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=21)** So before we begin, either ask the agent to start a new branch or do it manually.
 >
@@ -1469,7 +1453,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=122)** You, as the navigator, we'll gain better insight to where the failure happens and possibly spot the errors so we can add the appropriate changes to the prompt and/or the guardrails.
 >
-> **[2:16](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=136)** Now we have committed the code that's pushed this to our GitHub, and once we pushed it to GitHub, it is empirical we have to run our standard DevOp checks to ensure no secrets has been committed into our code base, ensure our dependencies are secure and everything complies with our engineering teams' security posture.
+> **[2:16](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=136)** Now we have committed the code that's pushed this to our [[GitHub]], and once we pushed it to GitHub, it is empirical we have to run our standard DevOp checks to ensure no secrets has been committed into our code base, ensure our dependencies are secure and everything complies with our engineering teams' security posture.
 >
 > **[2:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=164)** This might feel like standard engineering practices, but it is very easy to overlook in a faster pace and agent-driven development cycles.
 >
@@ -1481,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=200)** Do not assume correctness just because the code compiles or the test passes.
 >
-> **[3:25](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=205)** So to recap, start every vibe coding session with a fresh Git branch and don't hesitate to restart task when agents get stuck.
+> **[3:25](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=205)** So to recap, start every vibe coding session with a fresh [[Git]] branch and don't hesitate to restart task when agents get stuck.
 >
 > **[3:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/common-vibe-coding-pitfalls-and-their-antidotes?u=76281980&t=216)** Do not try to get the agent to code itself out of a paper bag, just restart a task.
 >
@@ -1491,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Vibe Coding]] (2), prompt (2), [[GitHub]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Vibe Coding]] (2), [[GitHub]] (2), [[Git]] (1)
 > **CLI Commands:** git (1), make (1)
 > **Tools:** github (2)
 > **Cross-References:** go back to (1)
@@ -1504,20 +1488,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of AI-assisted development
-> [LinkedIn Learning](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980)
+#### [The future of AI-assisted development](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=1)** - Congratulations on completing the structured vibe coding course.
+> **[0:01](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=1)** - Congratulations on completing the structured [[Vibe Coding]] course.
 >
-> **[0:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=6)** You have taken a significant step into the future of software development.
+> **[0:06](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=6)** You have taken a significant step into the future of [[Software Development]].
 >
 > **[0:13](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=13)** Throughout this course, we have demystified vibe coding, moving from hype to practical application.
 >
 > **[0:21](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=21)** You've learned how to effectively partner with AI coding agents, like Claude Code in VSCode, using a structured approach that maximizes their potential while minimizing risk.
 >
-> **[0:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=36)** We have covered everything from setting up their environment and selecting the right tools to employing advanced techniques, like test-driven development, and using AI for rapid onboarding to existing codebases.
+> **[0:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=36)** We have covered everything from setting up their environment and selecting the right tools to employing advanced techniques, like [[Test-Driven Development]], and using AI for rapid onboarding to existing codebases.
 >
 > **[0:52](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=52)** Remember, the principles you have learned aren't just limited to one tool.
 >
@@ -1537,7 +1520,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=100)** Always review the code and use automated testing to ensure quality and security.
 >
-> **[1:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=108)** If you would like to continue the conversation or share your projects, please connect with me on LinkedIn.
+> **[1:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=108)** If you would like to continue the conversation or share your projects, please connect with me on [[LinkedIn]].
 >
 > **[1:56](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/the-future-of-ai-assisted-development?u=76281980&t=116)** Thank you for joining me here in this journey.
 >
@@ -1547,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Vibe Coding]] (2), [[Software Development]] (1), application (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (2), [[Software Development]] (1), [[Test-Driven Development]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

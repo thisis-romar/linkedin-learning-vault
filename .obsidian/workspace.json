@@ -10,7 +10,7 @@
           {
             "id": "bd66be28471d0f62",
             "type": "tabs",
-            "dimension": 39.571310799670236,
+            "dimension": 39.57131079967024,
             "children": [
               {
                 "id": "6b101ece903d8e2c",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Courses/Cybersecurity/Creating A Culture Of Privacy.md",
+                    "file": "Courses/Cybersecurity/Offensive Penetration Testing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Creating A Culture Of Privacy"
+                  "title": "Offensive Penetration Testing"
                 },
                 "group": "495f908c7dc11d20"
               }
@@ -32,7 +32,7 @@
           {
             "id": "119d7ebebdcef6a4",
             "type": "tabs",
-            "dimension": 38.33470733718055,
+            "dimension": 38.334707337180554,
             "children": [
               {
                 "id": "ac51d872f077ee4c",
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Courses/Cybersecurity/Creating A Culture Of Privacy.md",
+                    "file": "Courses/Cybersecurity/Offensive Penetration Testing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -63,12 +63,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.6666666666666666,
                       "close": false
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Creating A Culture Of Privacy"
+                  "title": "Graph of Offensive Penetration Testing"
                 },
                 "group": "495f908c7dc11d20"
               }
@@ -85,13 +85,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Courses/Cybersecurity/Creating A Culture Of Privacy.md",
+                    "file": "Courses/Cybersecurity/Offensive Penetration Testing.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Creating A Culture Of Privacy"
+                  "title": "Outline of Offensive Penetration Testing"
                 },
                 "group": "495f908c7dc11d20"
               }
@@ -275,6 +275,17 @@
   },
   "active": "6b101ece903d8e2c",
   "lastOpenFiles": [
+    "Glossary/Service/Windows.md",
+    "Courses/Artificial Intelligence (AI)/Applied AI- Building NLP Apps with Hugging Face Transformers.md",
+    "Glossary/Service/Hugging Face.md",
+    "Topics/Data Science.md",
+    "Skills/Hugging Face Products.md",
+    "Skills/HTML Scripting.md",
+    "Skills/HTML.md",
+    "Courses/Web Development/CSS- Display.md",
+    "Courses/Cybersecurity/Blockchain Programming in iOS Using Swift.md",
+    "Skills/Cryptocurrency.md",
+    "Courses/Cybersecurity/Creating A Culture Of Privacy.md",
     "Paths/Cybersecurity/Learning Paths/Build a Privacy Program.md",
     "Courses/Cybersecurity/Privacy, Governance, and Compliance- Data Classification and Inventory.md",
     "Skills/Data Classification.md",
@@ -290,17 +301,6 @@
     "Paths/DevOps/Learning Paths/Continuous Integration-Continuous Delivery (CI-CD) with Jenkins.md",
     "Paths/DevOps/Learning Paths/Elevating C- Skills- Building Robust Applications.md",
     "Paths/DevOps/Learning Paths/Essential New Skills in Software Engineering.md",
-    "Courses/DevOps/Building Monorepos On Github.md",
-    "Skills/GitHub.md",
-    "Skills/GitHub Copilot.md",
-    "Courses/Cloud Computing/15 Tips for Landing a Data Science Job.md",
-    "Courses/Data Science/8 Things You Must Know in Python.md",
-    "Skills/Front-End Development.md",
-    "Skills/Git.md",
-    "Courses/Software Development/Learning Git and GitHub.md",
-    "Skills/Agile Testing.md",
-    "Courses/Software Development/Git from Scratch.md",
-    "Paths/Software Development/Learning Paths/The Top Skills Engineering Professionals Have Right Now.md",
     "Courses/Network and System Administration",
     "Courses/Database Management",
     "Courses/Artificial Intelligence (AI)",

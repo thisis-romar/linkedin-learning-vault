@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What causes strategic decision errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
+#### [What causes strategic decision errors](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,8 +108,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - every (1)
 
-#### Separating noise from bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/separating-noise-from-bias?u=76281980)
+#### [Separating noise from bias](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/separating-noise-from-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,15 +156,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
-#### Do you practice decision hygiene?
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980)
+#### [Do you practice decision hygiene?](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980&t=26)** One, the quality of the decision, and the second component is luck.
 >
-> **[0:33](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980&t=33)** So if we ignore the quality of the decision and just look at the outcome, we're basing a lot of our decision-making on luck.
+> **[0:33](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980&t=33)** So if we ignore the quality of the decision and just look at the outcome, we're basing a lot of our [[Decision-Making]] on luck.
 >
 > **[0:40](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/do-you-practice-decision-hygiene?u=76281980&t=40)** So the idea of reducing noise is to create a decision hygiene protocol to clean and scrub noise and bias from the decision process.
 >
@@ -356,8 +352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What causes noise?
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
+#### [What causes noise?](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,7 +426,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **Ports:** :00 (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** later in (1)
@@ -439,8 +433,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - my (1)
 
-#### How to see noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/how-to-see-noise?u=76281980)
+#### [How to see noise](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/how-to-see-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,8 +518,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Identifying types of noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/identifying-types-of-noise?u=76281980)
+#### [Identifying types of noise](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/identifying-types-of-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,13 +578,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Reducing hidden noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980)
+#### [Reducing hidden noise](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980&t=19)** Do you have good judges on your team?
 >
-> **[0:23](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980&t=23)** Over the last decade, Dr. Philip Tetlock's Good Judgment Project has conducted forecasting tournaments and research revealing what makes a good forecaster.
+> **[0:23](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980&t=23)** Over the last decade, Dr. Philip Tetlock's Good Judgment Project has conducted [[Forecasting]] tournaments and research revealing what makes a good forecaster.
 >
 > **[0:35](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/reducing-hidden-noise?u=76281980&t=35)** Because forecasting is judging.
 >
@@ -698,12 +688,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding the cascade bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
+#### [Avoiding the cascade bias](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980&t=1)** - In 1961, US President John F. Kennedy authorized 1,400 CIA-trained Cuban expats to invade Cuba.
+> **[0:01](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980&t=1)** - In 1961, US President [[John the Ripper|John]] F. Kennedy authorized 1,400 CIA-trained Cuban expats to invade Cuba.
 >
 > **[0:12](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980&t=12)** It was a disaster.
 >
@@ -773,19 +762,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Env Vars:** cia (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Recognizing algorithm bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/recognizing-algorithm-bias?u=76281980)
+#### [Recognizing algorithm bias](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/recognizing-algorithm-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/recognizing-algorithm-bias?u=76281980&t=1)** - Every time we click, share, or post anything on social media, algorithms learn more about us.
+> **[0:01](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/recognizing-algorithm-bias?u=76281980&t=1)** - Every time we click, share, or post anything on social media, [[Algorithms]] learn more about us.
 >
 > **[0:09](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/recognizing-algorithm-bias?u=76281980&t=9)** In some cases, they may even know more about us than we know about ourselves.
 >
@@ -879,14 +867,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (9), data (5), power (1)
+> **Frameworks & Libraries:** [[Algorithms]] (9)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3)
 > **Env Vars:** gpa (1)
 > **Speakers:** - every (1)
 
-#### Addressing unfairness
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/addressing-unfairness?u=76281980)
+#### [Addressing unfairness](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/addressing-unfairness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,8 +971,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - what (1)
 
-#### Maximizing the benefits of diversity
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/maximizing-the-benefits-of-diversity?u=76281980)
+#### [Maximizing the benefits of diversity](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/maximizing-the-benefits-of-diversity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,13 +1039,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), leadership (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - how (1)
 
-#### Designating and training a decision observer
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980)
+#### [Designating and training a decision observer](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1089,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980&t=137)** Bias training commonly teaches people to define biases or to see biases after unfavorable results of decisions are clear.
 >
-> **[2:25](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980&t=145)** Decision observers debias in real time and scrub multiple biases from the decision-making process before they cause errors.
+> **[2:25](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980&t=145)** Decision observers debias in real time and scrub multiple biases from the [[Decision-Making]] process before they cause errors.
 >
 > **[2:36](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/designating-and-training-a-decision-observer?u=76281980&t=156)** A valuable training tool for doing this is a debiasing checklist that a decision observer can use to guide the decision-makers to check for biases in real time during the decision process.
 >
@@ -1138,8 +1122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming a decision architect
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
+#### [Becoming a decision architect](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,13 +1198,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Agreeing on what matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980)
+#### [Agreeing on what matters](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,7 +1236,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980&t=98)** Overconfidence bias takes over. The list of biases is long.
 >
-> **[1:43](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980&t=103)** When you commit to using a hygienic process to determine what matters, what factors need to be judged and considered, you'll minimize unclean noise and biases from infecting your decision-making.
+> **[1:43](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980&t=103)** When you commit to using a hygienic process to determine what matters, what factors need to be judged and considered, you'll minimize unclean noise and biases from infecting your [[Decision-Making]].
 >
 > **[1:56](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/agreeing-on-what-matters?u=76281980&t=116)** Here's what this looks like.
 >
@@ -1309,14 +1290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1), job description (1), product (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Env Vars:** ceo (1)
 > **Versions:** 1.7 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - back (1)
 
-#### Taking the outside view
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/taking-the-outside-view?u=76281980)
+#### [Taking the outside view](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/taking-the-outside-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,14 +1372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), next (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** switch to (1), open the (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - my (1)
 
-#### Judging independently
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/judging-independently?u=76281980)
+#### [Judging independently](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/judging-independently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,13 +1459,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Speakers:** - raj (1)
 
-#### Making the decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-the-decision?u=76281980)
+#### [Making the decision](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-the-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,7 +1517,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-the-decision?u=76281980&t=207)** Although the final result wasn't unanimous, there was more agreement than in the initial vote and more confidence in the decision.
 >
-> **[3:36](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-the-decision?u=76281980&t=216)** When you use a hygienic decision-making process like this, all the people involved feel empowered and confident that decisions are made fairly, cleanly, and wisely.
+> **[3:36](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-the-decision?u=76281980&t=216)** When you use a hygienic [[Decision-Making]] process like this, all the people involved feel empowered and confident that decisions are made fairly, cleanly, and wisely.
 
 > [!info]- Semantic Content
 >
@@ -1554,8 +1530,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making personal strategic decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)
+#### [Making personal strategic decisions](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1538,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980&t=16)** And if you can find someone to act as your decision observer, a friend, family member, a coach, that's excellent.
 >
-> **[0:23](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980&t=23)** Check out the decision-making groups on LinkedIn, full of people who might be willing to play this role for you.
+> **[0:23](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980&t=23)** Check out the [[Decision-Making]] groups on [[LinkedIn]], full of people who might be willing to play this role for you.
 >
 > **[0:29](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980&t=29)** Someone who's already a trusted advisor and has taken this course, excellent choice, but it can be challenging to find an impartial decision observer to help you remove errors from your personal decisions.
 >
@@ -1627,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), [[LinkedIn]] (2), career (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), is an  (1)

@@ -87,16 +87,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=0)** - Are you ready to supercharge your financial analysis skills and take your career to the next level?
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=0)** - Are you ready to supercharge your [[Financial Analysis]] skills and take your career to the next level?
 >
-> **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=6)** Join us for this exciting Python for Finance course.
+> **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=6)** Join us for this exciting [[Python (Programming Language)|Python]] for Finance course.
 >
-> **[0:10](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=10)** You'll learn how to harness the power of Python and Pandas to transform financial data into valuable insights.
+> **[0:10](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=10)** You'll learn how to harness the power of Python and [[Pandas (Software)|Pandas]] to transform [[Financial Data]] into valuable insights.
 >
 > **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=17)** We'll cover everything from loading data, manipulating data for technical analysis, and advanced visualization techniques.
 >
@@ -104,32 +103,31 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=33)** I'm Matt Harrison, a corporate trainer and author.
 >
-> **[0:35](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=35)** I've written multiple books on Python and data science and help thousands learn them.
+> **[0:35](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=35)** I've written multiple books on Python and [[Data Science]] and help thousands learn them.
 >
 > **[0:40](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980&t=40)** If you're ready, let's start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), [[Financial Analysis]] (1), career (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Financial Analysis]] (1), [[Pandas (Software)|Pandas]] (1), [[Financial Data]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=0)** - [Narrator] Before starting this Python for Finance course there are a few things you should know to get the most out of the content.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=0)** - [Narrator] Before starting this [[Python (Programming Language)|Python]] for Finance course there are a few things you should know to get the most out of the content.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=6)** First, it's important to have a basic understanding of Python.
 >
-> **[0:10](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=10)** You don't need to be an expert, but you should be familiar with basic programming concepts such as variables, loops, and functions.
+> **[0:10](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=10)** You don't need to be an expert, but you should be familiar with basic [[Programming Concepts]] such as variables, loops, and functions.
 >
 > **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=17)** Second, experience with Jupyter Notebooks will be helpful.
 >
 > **[0:21](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=21)** Jupyter is a web-based interactive computing environment that allows you to create and share code, visualizations, and other content in a single document.
 >
-> **[0:30](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=30)** Lastly, some knowledge of Excel formulas will be helpful, as many financial analysts use Excel as their primary tool.
+> **[0:30](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=30)** Lastly, some knowledge of [[Microsoft Excel|Excel]] formulas will be helpful, as many financial analysts use Excel as their primary tool.
 >
 > **[0:37](https://www.linkedin.com/learning/getting-started-with-python-for-finance/what-you-should-know?u=76281980&t=37)** While we won't be using Excel directly in this course, understanding basic formulas like sum, average and if will help convert existing Excel functions to Python.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Programming Concepts]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Programming Concepts]] (1)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (2)
 > **Definitions:** is a  (1)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980)
+#### [Loading data](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=36)** We're also aliasing the NumPy library as NP.
 >
-> **[0:41](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=41)** We're aliasing the Pandas library as pd and we're aliasing the Y Finance library as YF.
+> **[0:41](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=41)** We're aliasing the [[Pandas (Software)|Pandas]] library as pd and we're aliasing the Y Finance library as YF.
 >
 > **[0:47](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=47)** People ask whether they should use aliasing.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=203)** Let me pull that up so you can see that.
 >
-> **[3:26](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=206)** Remember that question mark has not valid Python code.
+> **[3:26](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=206)** Remember that question mark has not valid [[Python (Programming Language)|Python]] code.
 >
 > **[3:30](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980&t=210)** This is code that is specific to the I Python tooling that Jupyter is using.
 >
@@ -311,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Pandas (Software)|Pandas]] (8), next (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (2)
 > **Tools:** jupyter (6), colab (1)
 > **CLI Commands:** make (4), python (2)
 > **Documentation:** the documentation (3)
@@ -320,12 +317,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
-#### Line plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/line-plots?u=76281980)
+#### [Line plots](https://www.linkedin.com/learning/getting-started-with-python-for-finance/line-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/line-plots?u=76281980&t=0)** - [Instructor] In this lesson, we're going to discover line plots, and how to create them with pandas.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/line-plots?u=76281980&t=0)** - [Instructor] In this lesson, we're going to discover line plots, and how to create them with [[Pandas (Software)|pandas]].
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/line-plots?u=76281980&t=6)** My preferred mechanism of making plots is generally to use pandas, I find it a little bit easier than using Matplotlib.
 >
@@ -391,14 +387,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), data (4), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** spy (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resampling data
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980)
+#### [Resampling data](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980&t=9)** In our case, we have data that has the daily granularity and we might want to change that to monthly or quarterly or yearly.
 >
-> **[0:19](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980&t=19)** Pandas makes it really easy to do this when you have information that is converted into a date.
+> **[0:19](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980&t=19)** [[Pandas (Software)|Pandas]] makes it really easy to do this when you have information that is converted into a date.
 >
 > **[0:25](https://www.linkedin.com/learning/getting-started-with-python-for-finance/resampling-data?u=76281980&t=25)** And the yfinance library gave us date information.
 >
@@ -488,13 +483,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (5), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Candlestick plot from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980)
+#### [Candlestick plot from scratch](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +564,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980&t=174)** In this case, we have a row selector here, and we're saying we want to go from January 2018 to June 2018.
 >
-> **[3:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980&t=183)** This is another nice feature of Pandas.
+> **[3:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980&t=183)** This is another nice feature of [[Pandas (Software)|Pandas]].
 >
 > **[3:05](https://www.linkedin.com/learning/getting-started-with-python-for-finance/candlestick-plot-from-scratch?u=76281980&t=185)** Once you have a date in the index you can use the strings that represent dates or partial dates, and you can slice based on those.
 >
@@ -664,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Env Vars:** iloc (2), loc (2)
@@ -673,8 +667,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Candlestick plot for 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-candlestick-plot-for-2019?u=76281980)
+#### [Challenge: Candlestick plot for 2019](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-candlestick-plot-for-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,8 +692,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Candlestick plot for 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-candlestick-plot-for-2019?u=76281980)
+#### [Solution: Candlestick plot for 2019](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-candlestick-plot-for-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** loc (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -776,12 +767,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980)
+#### [Returns](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at calculating returns using Pandas.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at calculating returns using [[Pandas (Software)|Pandas]].
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=6)** Let's load up our AAPL data.
 >
@@ -817,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=85)** Again, if you want to get the documentation for how this works, we can come over here and we can say, PCT, change, and put a question mark after that.
 >
-> **[1:36](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=96)** That question mark is not valid Python code, but that is code that Jupyter understands and it will pull up the documentation.
+> **[1:36](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=96)** That question mark is not valid [[Python (Programming Language)|Python]] code, but that is code that Jupyter understands and it will pull up the documentation.
 >
 > **[1:43](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980&t=103)** I strongly recommend that you check out the documentation if you want to know how something works inside of Jupyter rather than searching for it on the internet.
 >
@@ -843,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** aapl (2), appl (1), pct (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **Documentation:** the documentation (3)
@@ -851,8 +841,7 @@ created: 2026-05-02
 > **Versions:** 0.007 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980)
+#### [Plotting returns](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980&t=6)** Now we already discussed this.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980&t=8)** All you have to do to plot in pandas is stick whatever you want in the X-axis to be in the index.
+> **[0:08](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980&t=8)** All you have to do to plot in [[Pandas (Software)|pandas]] is stick whatever you want in the X-axis to be in the index.
 >
 > **[0:13](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-returns?u=76281980&t=13)** And then each column will be a line plot if you call plot.
 >
@@ -1014,21 +1003,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (12), next (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (12)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Definitions:** is a  (3)
 > **Versions:** 0.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cumulative returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980)
+#### [Cumulative returns](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=0)** - [Instructor] In this lesson, we're going to go over cumulative returns.
 >
-> **[0:04](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=4)** I want to show a little bit more complicated pandas operations, and then I'm going to show how I deal with this, refactoring this into a function.
+> **[0:04](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=4)** I want to show a little bit more complicated [[Pandas (Software)|pandas]] operations, and then I'm going to show how I deal with this, refactoring this into a function.
 >
 > **[0:13](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=13)** The calculation for cumulative returns is to take the current price minus original price divide that by the original price.
 >
@@ -1050,7 +1038,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=62)** Let's look at what that looks like.
 >
-> **[1:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=63)** The first value is 7.64, so that first one should be zero and the rest are just subtracting that seven value from that.
+> **[1:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=63)** The first value is 7.64, so that first one should be zero and the [[Representational State Transfer (REST)|rest]] are just subtracting that seven value from that.
 >
 > **[1:13](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=73)** Now we're going to divide this by the first value and this should be a cumulative return.
 >
@@ -1076,7 +1064,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=156)** You can also put a double question mark here.
 >
-> **[2:38](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=158)** This is another nice feature of Jupiter that is not Python code, but what's going to happen when you put two question marks is it will pull up the source code.
+> **[2:38](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=158)** This is another nice feature of Jupiter that is not [[Python (Programming Language)|Python]] code, but what's going to happen when you put two question marks is it will pull up the source code.
 >
 > **[2:48](https://www.linkedin.com/learning/getting-started-with-python-for-finance/cumulative-returns?u=76281980&t=168)** So this is really nice.
 >
@@ -1212,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (8), generic (3), product (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), find (1), python (1)
 > **Exercise Files:** source code (4)
 > **Versions:** 8.5 (2), 7.64 (1)
@@ -1221,16 +1209,15 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Volatility
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980)
+#### [Volatility](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=0)** - [Instructor] In this lesson, we're going to talk about volatility.
 >
-> **[0:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=3)** Our goal is to do some more complicated patterns, and then start looking at some of these operations that involve windows and rolling computations, which come in super useful.
+> **[0:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=3)** Our goal is to do some more complicated patterns, and then start looking at some of these operations that involve [[Windows]] and rolling computations, which come in super useful.
 >
-> **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=17)** So one of the things that we can do with pandas, remember that there's over 400 different things that you can do on a data frame or a series.
+> **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=17)** So one of the things that we can do with [[Pandas (Software)|pandas]], remember that there's over 400 different things that you can do on a data frame or a series.
 >
 > **[0:25](https://www.linkedin.com/learning/getting-started-with-python-for-finance/volatility?u=76281980&t=25)** For example, there are a bunch of aggregation methods such as mean, and mean takes a sequence and collapses it to a single value.
 >
@@ -1382,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Windows]] (2)
 > **Definitions:** is a  (7), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
@@ -1391,8 +1378,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** be aware (1)
 
-#### Challenge: Plotting 30-day volatility
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-plotting-30-day-volatility?u=76281980)
+#### [Challenge: Plotting 30-day volatility](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-plotting-30-day-volatility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,13 +1392,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Plotting 30-day volatility
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-plotting-30-day-volatility?u=76281980)
+#### [Solution: Plotting 30-day volatility](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-plotting-30-day-volatility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1514,14 +1498,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating moving averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980)
+#### [Creating moving averages](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=0)** - [Instructor] In this lesson, we're going to explore doing a simple moving average.
 >
-> **[0:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=3)** This is a common operation for financial data.
+> **[0:03](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=3)** This is a common operation for [[Financial Data]].
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=6)** This will give us some more practice on doing rolling operations, and we'll also have the ability to practice with lambda, as well.
 >
@@ -1551,7 +1534,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=66)** So those missing values or NAN values are values where we did not have a value in close because this January 2010 value is the first value, so we don't know what the value before this is.
 >
-> **[1:19](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=79)** Pandas just sticks in a missing value.
+> **[1:19](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=79)** [[Pandas (Software)|Pandas]] just sticks in a missing value.
 >
 > **[1:21](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980&t=81)** And because we shifted it down two here, we don't have a value before that, either.
 >
@@ -1611,7 +1594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (4), [[Financial Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Financial Data]] (1)
 > **Versions:** 7.64 (5), 7.65 (2), 6.74 (1), 7.649 (1), 7.611 (1)
 > **Env Vars:** nan (3), ma3 (3)
 > **CLI Commands:** make (1)
@@ -1619,8 +1602,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting moving averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980)
+#### [Plotting moving averages](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1632,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=12)** So, let's start off with where we were.
 >
-> **[0:14](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=14)** We just created our moving average and we have these two columns at the end, MA3 which is our hand ruled version, and the MA3 built-in, which is leveraging the existing rolling method from Pandas.
+> **[0:14](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=14)** We just created our moving average and we have these two columns at the end, MA3 which is our hand ruled version, and the MA3 built-in, which is leveraging the existing rolling method from [[Pandas (Software)|Pandas]].
 >
 > **[0:29](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=29)** If we wanted to plot these, we can just call the plot method.
 >
@@ -1650,7 +1632,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=64)** This will give us two lines and here we can see the blue line is the close column and the moving average is the orange line on top of that.
 >
-> **[1:13](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=73)** It's a little bit hard to see what's going on so maybe we can zoom into that.
+> **[1:13](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=73)** It's a little bit hard to see what's going on so maybe we can [[Zoom]] into that.
 >
 > **[1:16](https://www.linkedin.com/learning/getting-started-with-python-for-finance/plotting-moving-averages?u=76281980&t=76)** How am I going to zoom into that?
 >
@@ -1712,15 +1694,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[Pandas (Software)|Pandas]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** iloc (3), ma3 (2), covid (1), ma200 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Exponential moving average
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-exponential-moving-average?u=76281980)
+#### [Challenge: Exponential moving average](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-exponential-moving-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,15 +1727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0392 (1), 0.00995 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ewm (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Exponential moving average
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980)
+#### [Solution: Exponential moving average](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1898,13 +1877,13 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980&t=286)** Hopefully you're getting the point that we're taking a bunch of these tools.
 >
-> **[4:50](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980&t=290)** I like to view Pandas as kind of a Swiss Army knife that gives you 400 different tools that you can use and then we start layering them on top of each other.
+> **[4:50](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980&t=290)** I like to view [[Pandas (Software)|Pandas]] as kind of a Swiss Army knife that gives you 400 different tools that you can use and then we start layering them on top of each other.
 >
 > **[4:59](https://www.linkedin.com/learning/getting-started-with-python-for-finance/solution-exponential-moving-average?u=76281980&t=299)** Using chaining is a great way to do this because it lets us look at them each as a recipe of operations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), web (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** ewm (11), aapl (2)
 > **Versions:** 0.03 (1), 0.009 (1), 0.0392 (1), 0.0095 (1), 0.00995 (1)
 > **CLI Commands:** make (4)
@@ -1918,8 +1897,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OBV
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980)
+#### [OBV](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1927,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=4)** We're going to take a formula that's a little bit more complicated, the on balance volume formula.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=11)** We're going to show how we can calculate this using Pandas.
+> **[0:11](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=11)** We're going to show how we can calculate this using [[Pandas (Software)|Pandas]].
 >
 > **[0:15](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=15)** So here in this cell, I've got the formula here where the OBV, or the on balance Volume, is equal to the previous volume plus the volume if the close is greater than the previous close, or it's equal to 0 if the close is equal to the previous close, or it's equal to the negative volume if the close is less than the previous close.
 >
@@ -1945,7 +1923,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=66)** The current value, 7.64, is the previous value, so we get the previous value by shifting that by one.
 >
-> **[1:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=72)** Here's one way we can calculate this, and I'm labeling this as naive, because this is using pure Python code to do this.
+> **[1:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=72)** Here's one way we can calculate this, and I'm labeling this as naive, because this is using pure [[Python (Programming Language)|Python]] code to do this.
 >
 > **[1:21](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=81)** What I mean by naive is that if we use pure Python code and if statements and for loops like this, this is going to run slow.
 >
@@ -2111,7 +2089,7 @@ created: 2026-05-02
 >
 > **[8:52](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=532)** If you've got, like, a spreadsheet that has values, you can use those values.
 >
-> **[8:58](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=538)** For my example, I went and found an Excel spreadsheet that had this calculated, it had these values for close and for volume, and then I created this formula and then I checked that my OBV value matched theirs, and this is easy to do with a small dataset where you have the existing values.
+> **[8:58](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=538)** For my example, I went and found an [[Microsoft Excel|Excel]] spreadsheet that had this calculated, it had these values for close and for volume, and then I created this formula and then I checked that my OBV value matched theirs, and this is easy to do with a small dataset where you have the existing values.
 >
 > **[9:18](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980&t=558)** In this lesson, we went through a more complicated calculation.
 >
@@ -2121,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (6), [[Python (Programming Language)|Python]] (4), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** obv (15)
 > **CLI Commands:** make (9), python (4)
 > **Versions:** 7.55 (4), 7.64 (2), 7.6 (2), 7.65 (1), 2.2 (1)
@@ -2130,14 +2108,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (1)
 
-#### Accumulation/distribution indicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980)
+#### [Accumulation/distribution indicator](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=0)** - [Instructor] In this lesson, we're going to go over the accumulation distribution indicator often called AD.
 >
-> **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=6)** This is another more complicated example using some Pandas code.
+> **[0:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=6)** This is another more complicated example using some [[Pandas (Software)|Pandas]] code.
 >
 > **[0:10](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=10)** So here we have the calculation of MFM, which is called the money flow multiplier and that's the close minus the low minus the high minus the close divided by the high minus the low.
 >
@@ -2215,7 +2192,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=206)** There's the ad column, and then if I want to plot that, I can plot that as well.
 >
-> **[3:31](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=211)** One of the things you'll want to do when you have a more complicated calculation like this is just make sure that you're not using Python code to calculate this but you're staying in Pandas and it looks like we are staying in Pandas.
+> **[3:31](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=211)** One of the things you'll want to do when you have a more complicated calculation like this is just make sure that you're not using [[Python (Programming Language)|Python]] code to calculate this but you're staying in Pandas and it looks like we are staying in Pandas.
 >
 > **[3:41](https://www.linkedin.com/learning/getting-started-with-python-for-finance/accumulation-distribution-indicator?u=76281980&t=221)** We don't have if else statements in there.
 >
@@ -2227,15 +2204,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** mfm (6), cmfv (2), mfv (2)
 > **CLI Commands:** make (6), python (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: RSI
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980)
+#### [Challenge: RSI](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2269,7 +2245,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=66)** And then subsequent values will be the previous average times 13 plus the current either gain or loss, and then we divide that sum by 14.
 >
-> **[1:16](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=76)** I've got a link to a spreadsheet here, and I'll open it up in Excel and just show you those formulas.
+> **[1:16](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=76)** I've got a link to a spreadsheet here, and I'll open it up in [[Microsoft Excel|Excel]] and just show you those formulas.
 >
 > **[1:23](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=83)** Okay, here's our spreadsheet.
 >
@@ -2317,7 +2293,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=191)** Good luck with this challenge.
 >
-> **[3:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=192)** Generally, how most people solve it is they'll use the apply method in Pandas and write a function that will calculate the average for you using this special technique of giving the first 14 values and then taking the previous value, multiplying it by 13, adding the current value, and dividing by 14.
+> **[3:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=192)** Generally, how most people solve it is they'll use the apply method in [[Pandas (Software)|Pandas]] and write a function that will calculate the average for you using this special technique of giving the first 14 values and then taking the previous value, multiplying it by 13, adding the current value, and dividing by 14.
 >
 > **[3:32](https://www.linkedin.com/learning/getting-started-with-python-for-finance/challenge-rsi?u=76281980&t=212)** Good luck with it.
 >
@@ -2325,15 +2301,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** rsi (4)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Basic solution: RSI
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980)
+#### [Basic solution: RSI](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,7 +2396,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980&t=203)** I'm making a results list.
 >
-> **[3:24](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980&t=204)** This is just a normal Python list.
+> **[3:24](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980&t=204)** This is just a normal [[Python (Programming Language)|Python]] list.
 >
 > **[3:26](https://www.linkedin.com/learning/getting-started-with-python-for-finance/basic-solution-rsi?u=76281980&t=206)** I'm making a window.
 >
@@ -2507,7 +2482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Versions:** 0.06 (4), 0.24 (3), 0.25 (2), 0.22 (2), 0.10 (2)
 > **CLI Commands:** make (3), python (2)
 > **Env Vars:** rsi (3), qqq (2)
@@ -2516,8 +2491,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimized solution: RSI
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980)
+#### [Optimized solution: RSI](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,9 +2499,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=12)** Now, if you look at the average calculation, you can see that there is a for loop right here.
 >
-> **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=17)** And generally when you are using Pandas, you want to avoid having for loops.
+> **[0:17](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=17)** And generally when you are using [[Pandas (Software)|Pandas]], you want to avoid having for loops.
 >
-> **[0:23](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=23)** What that does is it pushes the computation into Python rather than being these optimized Pandas and NumPy operations.
+> **[0:23](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=23)** What that does is it pushes the computation into [[Python (Programming Language)|Python]] rather than being these optimized Pandas and NumPy operations.
 >
 > **[0:32](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=32)** And so that's going to slow it down.
 >
@@ -2597,7 +2571,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=221)** It's very clear that this is 10 million.
 >
-> **[3:43](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=223)** Okay, so I made this big data frame here.
+> **[3:43](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=223)** Okay, so I made this [[Big Data]] frame here.
 >
 > **[3:45](https://www.linkedin.com/learning/getting-started-with-python-for-finance/optimized-solution-rsi?u=76281980&t=225)** Now what I'm going to do is I'm going to do my benchmark again but I'm going to time how long it takes to do our smoothing with this.
 >
@@ -2631,7 +2605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), [[Big Data]] (1)
 > **CLI Commands:** python (7), make (4)
 > **Versions:** 5.93 (3), 4.5 (2), 3.95 (1), python 3 (1), 4.52 (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -2645,14 +2619,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=0)** - [Matt] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=1)** You've completed the Python for Finance course.
+> **[0:01](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=1)** You've completed the [[Python (Programming Language)|Python]] for Finance course.
 >
 > **[0:04](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=4)** You might be thinking, what are the next steps?
 >
@@ -2660,9 +2633,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=12)** As with any new skill, the more you practice, the more confident and proficient you'll become.
 >
-> **[0:16](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=16)** You can use your own financial data or find some sample data sets online to practice.
+> **[0:16](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=16)** You can use your own [[Financial Data]] or find some sample data sets online to practice.
 >
-> **[0:21](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=21)** Second, check out my book, "Effective Pandas."
+> **[0:21](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=21)** Second, check out my book, "Effective [[Pandas (Software)|Pandas]]."
 >
 > **[0:24](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=24)** It's a bestselling pandas book that will help you master pandas.
 >
@@ -2670,7 +2643,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=33)** Pandas can be a challenge, so each chapter has exercises for you to get practice writing good pandas code.
 >
-> **[0:40](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=40)** Third, I invite you to follow me on LinkedIn.
+> **[0:40](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=40)** Third, I invite you to follow me on [[LinkedIn]].
 >
 > **[0:43](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980&t=43)** I'm always posting code and updates on Python pandas and related topics.
 >
@@ -2684,7 +2657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), data (2), next (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), [[Financial Data]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Speakers:** - [matt] (1)
 

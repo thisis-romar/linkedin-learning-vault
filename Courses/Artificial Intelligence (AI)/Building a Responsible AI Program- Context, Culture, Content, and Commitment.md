@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Actionable steps to responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
+#### [Actionable steps to responsible AI](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980&t=10)** This is the goal of every organization I work with, and it's what led me to develop this simple and practical course to share how your organization can do this too.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980&t=20)** Hi, I'm Katrina Ingram, the founder and CEO of Ethically Aligned AI, and I help organizations build and deploy better, more responsible AI solutions.
+> **[0:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980&t=20)** Hi, I'm Katrina Ingram, the founder and CEO of Ethically Aligned AI, and I help organizations build and deploy better, more [[Responsible AI]] solutions.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980&t=31)** This course offers practical advice for how to assess, procure, and deploy AI in your business.
 >
@@ -121,23 +120,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Responsible AI]] (2), business (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **Env Vars:** ceo (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
-#### Moving from principles to practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980)
+#### [Moving from principles to practice](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=0)** - How do you go from high-level statements of ethical principles to actually implementing responsible AI in practice?
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=0)** - How do you go from high-level statements of ethical principles to actually implementing [[Responsible AI]] in practice?
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=9)** This is a question I get asked all the time.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=12)** There are literally hundreds of lists of ethical principles, codes of conduct, declarations, and high-level appeals to be responsible.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=22)** And common ethical principles like privacy, fairness, transparency, explainability, and accountability tend to show up on virtually everyone's list.
+> **[0:22](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=22)** And common ethical principles like [[Privacy]], fairness, transparency, explainability, and [[Accountability]] tend to show up on virtually everyone's list.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=33)** Yet when the call to action is simply to be fair or be accountable, what does that mean for a company?
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=58)** But in order to do that, it helps to have a framework to spell out exactly how we will accomplish this goal.
 >
-> **[1:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=66)** Because this work still feels very new and it involves ethics, which feels very abstract, it can be confusing and hard to get started.
+> **[1:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=66)** Because this work still feels very new and it involves [[Ethics]], which feels very abstract, it can be confusing and hard to get started.
 >
 > **[1:16](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=76)** Where do you begin?
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=168)** This includes everything from executive support to building cross-functional capabilities across your organization to new organizational structures that you might need such as an AI ethics committee.
 >
-> **[3:01](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=181)** It also involves the important topic of diversity and stakeholder engagement and how that intersects with responsible AI.
+> **[3:01](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=181)** It also involves the important topic of diversity and [[Stakeholder Engagement]] and how that intersects with responsible AI.
 >
 > **[3:10](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/moving-from-principles-to-practice?u=76281980&t=190)** Content is focused on the AI systems and getting specific about the what and the how of assessing AI for ethical risks.
 >
@@ -201,15 +199,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (10), ai (5), [[Accountability]] (2), [[Ethics]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Accountability]] (2), [[Ethics]] (2), [[Privacy]] (1), [[Stakeholder Engagement]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - how (1)
 
-#### Introducing the Landon Hotel
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980)
+#### [Introducing the Landon Hotel](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,11 +226,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=42)** There are customer facing considerations such as reservation systems, check-in processes, and various points of customer contact during a hotel stay.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=51)** There are also many backend considerations such as supply chain management, staffing, repair and maintenance of properties, or group sales.
+> **[0:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=51)** There are also many backend considerations such as [[Supply Chain Management]], staffing, repair and maintenance of properties, or group sales.
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=60)** Hotels might also coordinate with partner services such as tour groups or event managers.
 >
-> **[1:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=66)** All of this requires digital technology and increasingly that technology will also include artificial intelligence, and that means there are a lot of different ethical scenarios we can discuss.
+> **[1:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=66)** All of this requires digital technology and increasingly that technology will also include [[Artificial Intelligence (AI)|artificial intelligence]], and that means there are a lot of different ethical scenarios we can discuss.
 >
 > **[1:19](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/introducing-the-landon-hotel?u=76281980&t=79)** Lastly, we can all relate to a hotel.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (1), [[Supply Chain Management]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (1)
@@ -258,12 +255,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connector: Start with context
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
+#### [Connector: Start with context](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980&t=0)** - Typically, conversations about responsible AI tend to dive right into topics like algorithmic bias, discussions about data privacy and machine learning models, or even how to address the risks of ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980&t=0)** - Typically, conversations about [[Responsible AI]] tend to dive right into topics like algorithmic bias, discussions about [[Data Privacy]] and machine learning models, or even how to address the risks of [[ChatGPT]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980&t=15)** Those are certainly things that need to be covered, but in my opinion, it's a mistake to start with those conversations when it comes to building a responsible AI program.
 >
@@ -287,29 +283,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (5), data (1), [[Privacy]] (1), [[ChatGPT]] (1), ai (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Data Privacy]] (1), [[ChatGPT]] (1)
 > **Analogies:** picture (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - typically (1)
 
-#### The AI legal landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980)
+#### [The AI legal landscape](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=0)** - If there's one word to sum up the AI regulatory landscape, it's evolving.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=0)** - If there's one [[Microsoft Word|word]] to sum up the AI regulatory landscape, it's evolving.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=6)** Now that isn't necessarily a word that makes for clarity, quite the opposite.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=11)** We'll share what we know right now, and make some predictions about where things are likely to go.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=17)** But ultimately, because this area is rapidly evolving, it's best to seek specific legal guidance when it comes to your responsible AI program.
+> **[0:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=17)** But ultimately, because this area is rapidly evolving, it's best to seek specific legal guidance when it comes to your [[Responsible AI]] program.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=27)** You will need to do a scan of all relevant, existing and upcoming laws that could impact you based on your jurisdiction.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=35)** It's best to involve legal counsel for this work, but we can give you a few suggestions of proposed major regulations that you should at least be aware of.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=46)** We can think about regulatory compliance as the floor.
+> **[0:46](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=46)** We can think about [[Regulatory Compliance]] as the floor.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=50)** At a bare minimum, we need to be compliant with the rules.
 >
@@ -321,31 +316,31 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=69)** But these actions were always unethical.
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=73)** If compliance with regulation is the floor, ethics is like reaching for the ceiling.
+> **[1:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=73)** If compliance with regulation is the floor, [[Ethics]] is like reaching for the ceiling.
 >
 > **[1:18](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=78)** We can also think about ethics as a leading indicator for future laws.
 >
-> **[1:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=84)** The most mature area of regulation that relates to AI is data privacy regulation.
+> **[1:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=84)** The most mature area of regulation that relates to AI is [[Data Privacy]] regulation.
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=90)** The reason that data privacy laws are so important is because AI requires the use of data.
 >
-> **[1:36](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=96)** So compliance with privacy laws is pretty much table stakes for a responsible AI program.
+> **[1:36](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=96)** So compliance with [[Privacy]] laws is pretty much table stakes for a responsible AI program.
 >
 > **[1:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=102)** The specific configuration of these regulations differs by country.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=107)** For example, the EU has the General Data Protection Regulation, or GDPR, which is considered the most comprehensive set of privacy regulations globally.
 >
-> **[1:58](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=118)** Canada has national and provincial privacy laws, while the United States takes more of a state level and sectoral approach to cover specific areas, such as banking or healthcare.
+> **[1:58](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=118)** Canada has national and provincial privacy laws, while the United States takes more of a state level and sectoral approach to cover specific areas, such as [[Banking]] or healthcare.
 >
 > **[2:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=129)** The CCPA or California Consumer Privacy Act is currently considered to be the most all-encompassing of the state privacy laws.
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=139)** Other regulations that involve data include intellectual property and copyright regulations.
 >
-> **[2:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=145)** This is particularly relevant to generative AI, because of concerns around how training data has been acquired.
+> **[2:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=145)** This is particularly relevant to [[Generative AI]], because of concerns around how training data has been acquired.
 >
 > **[2:32](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=152)** There are active lawsuits underway, and depending on how those are settled, the industry may need to make adjustments.
 >
-> **[2:40](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=160)** However, despite a lack of legal agreement, users of generative AI will need to decide if using these products aligns with their ethical values.
+> **[2:40](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=160)** However, despite a lack of legal agreement, users of generative AI will need to decide if using these [[Microsoft Products|products]] aligns with their ethical values.
 >
 > **[2:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-legal-landscape?u=76281980&t=169)** We can think about those legal but not ethical moments in history as we consider this question.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Privacy]] (8), data (7), [[Responsible AI]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Responsible AI]] (3), [[Data Privacy]] (3), [[Microsoft Word|Word]] (2), [[Ethics]] (2)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1), ccpa (1)
@@ -391,12 +386,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
 
-#### Understanding ethical AI risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980)
+#### [Understanding ethical AI risks](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=0)** - At the Landon Hotel, guest privacy is incredibly important, but so is guest experience.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=0)** - At the Landon Hotel, guest [[Privacy]] is incredibly important, but so is guest experience.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=7)** Management wants guests to have an amazing stay and that means delivering exceptional service.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=170)** Fairness, ensuring AI is making fair decisions and not exhibiting discriminatory, biased decision making.
 >
-> **[2:59](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=179)** Transparency, ensuring people understand they're engaging with an AI system, or in the case of something like generative AI, ensuring people understand that the information they're receiving is from an AI system.
+> **[2:59](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=179)** Transparency, ensuring people understand they're engaging with an AI system, or in the case of something like [[Generative AI]], ensuring people understand that the information they're receiving is from an AI system.
 >
 > **[3:14](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=194)** Transparency can also relate to understanding what went into constructing an AI system, which is important for the procurement process.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=223)** If we can't understand why an AI system made a particular decision, it's hard to fully exert our human agency.
 >
-> **[3:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=231)** And finally, accountability.
+> **[3:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=231)** And finally, [[Accountability]].
 >
 > **[3:53](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=233)** Making sure someone is accountable for the AI systems outcomes.
 >
@@ -452,20 +446,19 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=275)** The AI Incident Database is a good starting point.
 >
-> **[4:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=279)** We've illustrated how the ethical concern of privacy, a common AI ethics issue, connects to the concept of risk.
+> **[4:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=279)** We've illustrated how the ethical concern of privacy, a common AI [[Ethics]] issue, connects to the concept of risk.
 >
-> **[4:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=288)** A responsible AI program will provide a method to help your organization think through these concerns so that you can make good decisions in a structured way that helps to mitigate AI risks.
+> **[4:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/understanding-ethical-ai-risks?u=76281980&t=288)** A [[Responsible AI]] program will provide a method to help your organization think through these concerns so that you can make good decisions in a structured way that helps to mitigate AI risks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), [[Privacy]] (4), management (4), data (3), business (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Generative AI]] (1), [[Accountability]] (1), [[Ethics]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - at (1)
 
-#### Getting clear on organizational values and AI risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980)
+#### [Getting clear on organizational values and AI risks](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,7 +466,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=9)** It's clear from looking at their values that they wouldn't want to do anything to harm artists.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=16)** We were able to have a discussion about using generative AI as it relates to their values.
+> **[0:16](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=16)** We were able to have a discussion about using [[Generative AI]] as it relates to their values.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=22)** Once they learned how training data for many of these tools might be the intellectual property of an artist and used without any compensation and how art generated with these systems can be used to replace the work of artists, things became very clear.
 >
@@ -541,7 +534,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=261)** Firstly, that speaks to a whole other set of issues.
 >
-> **[4:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=264)** Most organizations are not actively engaged in wrongdoing, but you might find that moving a responsible AI program forward is going to surface some tough questions and conversations.
+> **[4:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=264)** Most organizations are not actively engaged in wrongdoing, but you might find that moving a [[Responsible AI]] program forward is going to surface some tough questions and conversations.
 >
 > **[4:37](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/getting-clear-on-organizational-values-and-ai-risks?u=76281980&t=277)** It might require making some hard trade-offs.
 >
@@ -549,18 +542,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Programming]] (1), [[Generative AI]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - one (1)
 
-#### The AI ethics statement, policies, and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980)
+#### [The AI ethics statement, policies, and metrics](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=0)** - An AI ethics statement is a public facing set of commitments an organization makes about how it will engage with artificial intelligence in a responsible way.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=0)** - An AI [[Ethics]] statement is a public facing set of commitments an organization makes about how it will engage with [[Artificial Intelligence (AI)|artificial intelligence]] in a responsible way.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=11)** And this statement lets the public know that you have thoughtfully considered the risks of AI, in addition to the benefits.
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=26)** Typically, these statements include high level principles, because they're intended to apply across the organization.
 >
-> **[0:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=34)** You'll likely want to ensure you're addressing the most common types of AI risks, things like fairness, privacy, transparency, explainability, and accountability.
+> **[0:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=34)** You'll likely want to ensure you're addressing the most common types of AI risks, things like fairness, [[Privacy]], transparency, explainability, and [[Accountability]].
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=46)** Here are a few tips on writing a meaningful AI ethics statement.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=207)** Finally, metrics will provide a way to ensure you are making progress towards your goals.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=213)** The Landon Hotel might have a quality assurance metric around privacy, and it might spot check those as part of the overall QA process.
+> **[3:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=213)** The Landon Hotel might have a [[Quality Assurance]] metric around privacy, and it might spot check those as part of the overall QA process.
 >
 > **[3:43](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-statement-policies-and-metrics?u=76281980&t=223)** Not every AI ethics metric will be straightforward to establish.
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Ethics]] (5), [[Privacy]] (5), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (5), [[Privacy]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -641,8 +633,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Documenting AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
+#### [Documenting AI](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,13 +645,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=15)** In essence, I became the defacto IT department.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=19)** In addition to our social media accounts, website, suite of email and office tools, and our financial system, we also had an application tracking system to manage all the prospective job applicants for open roles, a learning management system where we offered courses, a CRM for customer management, and of course we had LinkedIn for recruitment.
+> **[0:19](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=19)** In addition to our social media accounts, website, suite of email and [[Microsoft Office|office]] tools, and our financial system, we also had an application tracking system to manage all the prospective job applicants for open roles, a learning management system where we offered courses, a CRM for customer management, and of course we had [[LinkedIn]] for recruitment.
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=44)** There were also technologies to help tie disparate systems together to provide some semblance of workflow.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=51)** My point in sharing all of this is that it's not unusual for even a very small organization to have a lot of digital technologies, and increasingly, all of these digital tools will include some level of artificial intelligence.
+> **[0:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=51)** My point in sharing all of this is that it's not unusual for even a very small organization to have a lot of digital technologies, and increasingly, all of these digital tools will include some level of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=67)** In addition, especially if you are a larger organization, you might have a data science team, and you may have built some AI tools specifically for your organization.
+> **[1:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=67)** In addition, especially if you are a larger organization, you might have a [[Data Science]] team, and you may have built some AI tools specifically for your organization.
 >
 > **[1:18](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=78)** Your first challenge is documenting all of the digital tools that reside in your organization.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=222)** So let's take one example.
 >
-> **[3:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=224)** Spelling, grammar tools, and auto complete, the features that suggest the next word in a sentence.
+> **[3:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=224)** Spelling, grammar tools, and auto complete, the features that suggest the next [[Microsoft Word|word]] in a sentence.
 >
 > **[3:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=231)** These tools are woven into most document creation systems.
 >
@@ -708,7 +699,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=242)** There might be interesting, big picture philosophical takes on auto completes impact to language overall, but for the average business, this isn't really an AI ethical risk.
 >
-> **[4:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=253)** Yet that same probabilistic language recommendation set of capabilities is also in generative AI.
+> **[4:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=253)** Yet that same probabilistic language recommendation set of capabilities is also in [[Generative AI]].
 >
 > **[4:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980&t=260)** And generative AI is a technology that can create a lot of risk in your business if not adequately managed.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (3), management (2), [[Generative AI]] (2), hr (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** crm (1), oecd (1)
 > **Analogies:** such as (1), picture (1)
@@ -724,8 +715,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - several (1)
 
-#### Procurement and Shadow AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980)
+#### [Procurement and Shadow AI](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,17 +733,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=38)** Your organization likely has procurement rules, and those rules typically involve some kind of official review.
 >
-> **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=47)** A responsible AI program can make positive inroads by informing the official rules.
+> **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=47)** A [[Responsible AI]] program can make positive inroads by informing the official rules.
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=53)** This might involve changing procurement standards to include ethical considerations and even conducting an algorithmic impact assessment or AIA.
 >
-> **[1:04](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=64)** One example of an AIA is Canada's directive on automated decision-making.
+> **[1:04](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=64)** One example of an AIA is Canada's directive on automated [[Decision-Making]].
 >
 > **[1:10](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=70)** Launched in 2019, it directs government officials to conduct an impact assessment before they purchase or build automated decision systems.
 >
-> **[1:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=80)** This kind of early intervention can help organizations determine the level of risk they might be incurring in adopting an AI system, allowing them to see how it intersects with their AI ethics commitments and ultimately their corporate values.
+> **[1:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=80)** This kind of early intervention can help organizations determine the level of risk they might be incurring in adopting an AI system, allowing them to see how it intersects with their AI [[Ethics]] commitments and ultimately their corporate values.
 >
-> **[1:37](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=97)** Another procurement consideration that can be challenged by AI is how the technology is delivered, namely software as a service or SaaS.
+> **[1:37](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=97)** Another procurement consideration that can be challenged by AI is how the technology is delivered, namely [[SaaS|software as a service]] or [[SaaS]].
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=107)** You can think about this as a revolving door.
 >
@@ -765,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=132)** Consider the case of a national not-for-profit organization that made headlines not in a good way for the rollout of a chat bot that delivered harmful and inaccurate information to one of their users.
 >
-> **[2:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=145)** Part of how this happened related to an automatic update, a new version of the bot that contained generative AI, which led to the incident the executive of the organization claims they knew nothing about this new version, and while that might seem like a convenient way to deflect blame, it also seems very plausible.
+> **[2:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=145)** Part of how this happened related to an automatic update, a new version of the bot that contained [[Generative AI]], which led to the incident the executive of the organization claims they knew nothing about this new version, and while that might seem like a convenient way to deflect blame, it also seems very plausible.
 >
 > **[2:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/procurement-and-shadow-ai?u=76281980&t=167)** Software updates regularly happen all the time.
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Decision-Making]] (1), [[Ethics]] (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Decision-Making]] (1), [[Ethics]] (1), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **Env Vars:** aia (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -807,26 +797,24 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connector: From context to culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
+#### [Connector: From context to culture](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=0)** - "Culture eats strategy for breakfast."
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=3)** This off quoted piece of advice attributed to management consultant, Peter Drucker is one of those truisms that just seems to apply to many situations, including responsible AI.
+> **[0:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=3)** This off quoted piece of advice attributed to management consultant, Peter Drucker is one of those truisms that just seems to apply to many situations, including [[Responsible AI]].
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=15)** So now that we have an idea of the context we are dealing with both inside and outside your organization, let's turn our attention to focus on the people and the structures in your organization, and their associated beliefs and behaviors that make up your organizational culture, so that you can ensure you're setting up your responsible AI program for success.
+> **[0:15](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=15)** So now that we have an idea of the context we are dealing with both inside and outside your organization, let's turn our attention to focus on the people and the structures in your organization, and their associated beliefs and behaviors that make up your [[Organizational Culture]], so that you can ensure you're setting up your responsible AI program for success.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980&t=37)** A culture that empowers this work is going to make implementing your strategy much easier, ensuring that your responsible AI program isn't on the breakfast menu so to speak.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), management (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Organizational Culture]] (1)
 > **CLI Commands:** make (2)
 
-#### Tone at the top
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980)
+#### [Tone at the top](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,9 +826,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=20)** And even if the objectives of the project or program are still challenging, things seem a lot more possible with a strong advocate from the leadership team in your corner.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=31)** Conversely, without the support, trying to roll out a responsible AI program will feel a little like pushing that proverbial rock up a hill.
+> **[0:31](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=31)** Conversely, without the support, trying to roll out a [[Responsible AI]] program will feel a little like pushing that proverbial rock up a hill.
 >
-> **[0:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=42)** There's a lot of anecdotal evidence from the AI ethics community that reflects this perspective, and it's also supported by some recent research from a team at Stanford University.
+> **[0:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=42)** There's a lot of anecdotal evidence from the AI [[Ethics]] community that reflects this perspective, and it's also supported by some recent research from a team at Stanford University.
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/tone-at-the-top?u=76281980&t=54)** Researchers conducted interviews with several AI ethics practitioners at various companies.
 >
@@ -880,22 +868,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (8), leadership (5), [[Ethics]] (4), ai (3), business (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (8), [[Ethics]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - part (1)
 
-#### Existing roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980)
+#### [Existing roles](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=0)** - The Landon Hotel Management Team has decided to pull together a working committee to begin to explore how AI might be used in their business, and they want to make sure they are thinking about responsible AI use.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=0)** - The Landon Hotel Management Team has decided to pull together a working committee to begin to explore how AI might be used in their business, and they want to make sure they are thinking about [[Responsible AI]] use.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=13)** In addition to managers spanning the functional lines of business such as food and beverage, guest services, and rooms, they also invited members from their corporate head office, the Icon Group of hotels, their parent organization that manages 25 properties throughout the UK.
+> **[0:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=13)** In addition to managers spanning the functional lines of business such as food and beverage, guest services, and rooms, they also invited members from their corporate head [[Microsoft Office|office]], the Icon Group of hotels, their parent organization that manages 25 properties throughout the UK.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=32)** Specifically, they invited members of the corporate IT and cybersecurity team, the data team, external legal counsel who will also advise on privacy, and a couple of members of the corporate risk management team.
+> **[0:32](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=32)** Specifically, they invited members of the corporate IT and [[Cybersecurity]] team, the data team, external legal counsel who will also advise on [[Privacy]], and a couple of members of the corporate risk management team.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=47)** While no one has any AI-specific training, these existing corporate roles all have responsibilities that are adjacent to or overlap with a responsible AI program.
 >
@@ -917,9 +904,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=164)** If your organization does not already have all of these roles, that's okay, but the gaps you identify will need to be addressed.
 >
-> **[2:52](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=172)** For example, if you don't have anyone currently working on data privacy, that would be a role that you will need to resource in order to implement your responsible AI program.
+> **[2:52](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=172)** For example, if you don't have anyone currently working on [[Data Privacy]], that would be a role that you will need to resource in order to implement your responsible AI program.
 >
-> **[3:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=183)** For now, it's enough to understand that coordination of these data, IT, cybersecurity, legal, compliance, and risk management roles is an essential part of how you will structure AI governance at your organization, and that having the structure in place is critical to ensuring a successful and sustainable responsible AI program.
+> **[3:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=183)** For now, it's enough to understand that coordination of these data, IT, cybersecurity, legal, compliance, and risk management roles is an essential part of how you will structure [[AI Governance]] at your organization, and that having the structure in place is critical to ensuring a successful and sustainable responsible AI program.
 >
 > **[3:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/existing-roles?u=76281980&t=205)** So, go out and build those relationships.
 >
@@ -931,20 +918,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (8), ai (5), data (5), management (4), business (4)
+> **Frameworks & Libraries:** [[Responsible AI]] (8), [[Cybersecurity]] (2), [[Privacy]] (2), [[Microsoft Office|Office]] (1), [[Data Privacy]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - the (1)
 
-#### The AI ethics committee
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980)
+#### [The AI ethics committee](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=0)** - As we've been exploring in this course, AI is raising a number of ethical questions.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=6)** An AI Ethics Committee is a group of people who are trained to make ethical choices on behalf of an organization.
+> **[0:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=6)** An AI [[Ethics]] Committee is a group of people who are trained to make ethical choices on behalf of an organization.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=14)** This is a working committee.
 >
@@ -960,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=44)** Let's talk about who should be on the committee.
 >
-> **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=47)** Typically, an AI Ethics Committee might include data scientists, IT or cybersecurity experts, as well as privacy, compliance or legal professionals, and also any dedicated responsible AI team members.
+> **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=47)** Typically, an AI Ethics Committee might include data scientists, IT or [[Cybersecurity]] experts, as well as [[Privacy]], compliance or legal professionals, and also any dedicated [[Responsible AI]] team members.
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-ai-ethics-committee?u=76281980&t=61)** While the exact roles might vary, typically it covers expertise in technology, legal, and of course, ethics.
 >
@@ -1012,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Ethics]] (12), [[Responsible AI]] (3), business (2), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (12), [[Responsible AI]] (3), [[Cybersecurity]] (1), [[Privacy]] (1)
 > **Cross-References:** earlier in (2), we talked about (1), we discussed (1), later in (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (1)
@@ -1020,12 +1006,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - as (1)
 
-#### Diversity and stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980)
+#### [Diversity and stakeholders](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=0)** - The AI strategy team at the Landon Hotel is seriously considering a 24/7 Alexa-like device that will provide convenient access to services for hotel guests.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=0)** - The [[AI Strategy]] team at the Landon Hotel is seriously considering a 24/7 Alexa-like device that will provide convenient access to services for hotel guests.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=12)** One of the managers asks how well the voice assistant system works for people who are non-native English speakers and who might have an accent.
 >
@@ -1037,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=47)** The whole discussion about language sparks another team member to pipe up that they should ask the vendor about accessibility options too.
 >
-> **[0:56](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=56)** Getting feedback from a diverse set of stakeholders is a best practice for responsible AI.
+> **[0:56](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=56)** Getting feedback from a diverse set of stakeholders is a best practice for [[Responsible AI]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=62)** It's not always easy to see all of the ways that an AI system might impact people, but having a range of people from different walks of life, a variety of lived experiences, and who represent a range of racial and ethnic backgrounds, genders, ages, and abilities, is a good way to try to understand how an AI system will impact people.
 >
@@ -1045,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=94)** In addition, it may not feel safe to provide honest feedback, and that might hinder surfacing potential issues.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=102)** This is where external stakeholder work can help provide input for the AI ethics committee.
+> **[1:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=102)** This is where external stakeholder work can help provide input for the AI [[Ethics]] committee.
 >
 > **[1:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/diversity-and-stakeholders?u=76281980&t=108)** There are many different ways to conduct stakeholder work.
 >
@@ -1077,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Ethics]] (3), [[Responsible AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[AI Strategy]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** esl (1)
@@ -1091,14 +1076,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connector: From culture to content
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
+#### [Connector: From culture to content](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980&t=0)** - Now that we've got a big-picture perspective and we put people first by thinking about our organizational culture and establish some important structures that we'll need, such as an AI ethics committee as well as support from senior leadership, we can turn our attention to look a bit more closely at the technology of AI and how it can lead to certain harms and risks.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980&t=0)** - Now that we've got a big-picture perspective and we put people first by thinking about our [[Organizational Culture]] and establish some important structures that we'll need, such as an AI [[Ethics]] committee as well as support from senior leadership, we can turn our attention to look a bit more closely at the technology of AI and how it can lead to certain harms and risks.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980&t=24)** At the beginning of the course, we shared that this is where many organizations want to start in terms of implementing a responsible AI program.
+> **[0:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980&t=24)** At the beginning of the course, we shared that this is where many organizations want to start in terms of implementing a [[Responsible AI]] program.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980&t=33)** However, because you've done the important work of understanding context and culture, the specifics of the content in your responsible AI program can be driven by relevant regulations for your organization or industry, your values, and the specific ways in which you use AI.
 >
@@ -1108,21 +1092,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (2), [[Organizational Culture]] (1), [[Ethics]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Organizational Culture]] (1), [[Ethics]] (1)
 > **Analogies:** picture (1), such as (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
 
-#### The big three: Privacy, bias, and explainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980)
+#### [The big three: Privacy, bias, and explainability](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=0)** - We can think about privacy, bias, and explainability as the big three AI ethics issues.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=0)** - We can think about [[Privacy]], bias, and explainability as the big three AI [[Ethics]] issues.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=7)** The ones that come up over and over again.
 >
-> **[0:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=11)** Focusing on the big three in your responsible AI program is a little like applying the 80-20 rule.
+> **[0:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=11)** Focusing on the big three in your [[Responsible AI]] program is a little like applying the 80-20 rule.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=17)** We'll be able to catch the majority of the most common problems.
 >
@@ -1178,7 +1161,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=219)** Privacy bias and explainability are not the only ethical issues in AI, but they do tend to be areas that come up.
 >
-> **[3:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=229)** Often, the ways in which modern AI is built using a lot of data tend to raise privacy issues and might run counter to privacy laws.
+> **[3:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=229)** Often, the ways in which modern AI is built using a lot of data tend to raise [[Privacy Issues]] and might run counter to privacy laws.
 >
 > **[3:57](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-big-three-privacy-bias-and-explainability-part-one?u=76281980&t=237)** Processing that data in highly complex ways leads to a lack of explainability.
 >
@@ -1190,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (8), [[Privacy]] (7), [[Ethics]] (2), [[Responsible AI]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Ethics]] (2), [[Responsible AI]] (2), [[Privacy Issues]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **Cross-References:** we talked about (1)
@@ -1198,12 +1181,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Addressing privacy, bias, and explainability in your AI program
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980)
+#### [Addressing privacy, bias, and explainability in your AI program](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=0)** - Now that we understand privacy, bias, and explainability as our big three AI ethics risks, what do we do about them?
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=0)** - Now that we understand [[Privacy]], bias, and explainability as our big three AI [[Ethics]] risks, what do we do about them?
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=7)** Our ability to address these issues is influenced by a few factors.
 >
@@ -1211,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=18)** A lot of the advice around mitigating AI ethics risks takes the perspective of an organization who is building an AI solution, and they offer advice for data scientists, things like documenting and testing their training data or thinking about value-sensitive design.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=35)** Those are good recommendations, but they're not useful for an organization like the Landon Hotel, who is going to be purchasing existing AI solutions or using enterprise software tools that are now being infused with AI.
+> **[0:35](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=35)** Those are good recommendations, but they're not useful for an organization like the Landon Hotel, who is going to be purchasing existing [[AI Solutions]] or using [[Enterprise Software]] tools that are now being infused with AI.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=50)** For the purposes of this course, we're going to assume you are buying AI solutions that will be deployed in your organization.
 >
@@ -1221,7 +1203,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=93)** The kinds of AI ethics questions you ask in an RFP process might relate to some of the best practices that an organization building AI responsibly would have in place.
 >
-> **[1:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=104)** You might ask if their AI system has passed a conformity assessment, how the vendor has implemented its own responsible AI program, what testing it does prior to releasing its products, how has it ensured its training data and model isn't biased, how explainable is their model, and what commitments do they have to ethical data supply chains and being environmentally responsible?
+> **[1:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=104)** You might ask if their AI system has passed a conformity assessment, how the vendor has implemented its own [[Responsible AI]] program, what testing it does prior to releasing its [[Microsoft Products|products]], how has it ensured its training data and model isn't biased, how explainable is their model, and what commitments do they have to ethical data supply chains and being environmentally responsible?
 >
 > **[2:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=129)** Given the current state of AI, many vendors are not going to have good answers to these questions, but it's important that we keep asking these questions because that is how we help move the market forward towards more ethically designed products.
 >
@@ -1257,13 +1239,13 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=239)** For Shadow AI, which is coming into your organization through existing tool sets or unofficial channels, your best option for risk mitigation is a combination of policies and training.
 >
-> **[4:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=251)** For example, I teach in a university where we allow students to use generative AI for coursework.
+> **[4:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=251)** For example, I teach in a university where we allow students to use [[Generative AI]] for coursework.
 >
 > **[4:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=257)** Our policy states that students must let the instructor know where it's being used and how it's being used.
 >
 > **[4:24](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=264)** In other words, they need to be transparent about their use of generative AI.
 >
-> **[4:29](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=269)** I also provide training about the ethical issues surrounding how generative AI is designed, data sharing and privacy, issues such as automation bias or over-reliance on machines, and techniques for better prompting.
+> **[4:29](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=269)** I also provide training about the ethical issues surrounding how generative AI is designed, [[Data Sharing]] and privacy, issues such as automation bias or over-reliance on machines, and techniques for better prompting.
 >
 > **[4:44](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/addressing-privacy-bias-and-explainability-in-your-ai-program?u=76281980&t=284)** You can train your staff and provide resources to foster responsible use of the technology and help them to avoid making mistakes that could be detrimental.
 >
@@ -1279,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Ethics]] (7), data (5), [[Generative AI]] (5), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Ethics]] (7), [[Generative AI]] (5), [[Privacy]] (2), [[AI Solutions]] (2), [[Responsible AI]] (2)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** rfp (2)
@@ -1287,8 +1269,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Data done right
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980)
+#### [Data done right](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,11 +1287,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=49)** In other words, examine the purpose of the project for ethical concerns first.
 >
-> **[0:56](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=56)** The collection phase is where decisions around how to acquire data are made, and this is where you can run into issues of inappropriate or lack of consent, as well as privacy concerns.
+> **[0:56](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=56)** The collection phase is where decisions around how to acquire data are made, and this is where you can run into issues of inappropriate or lack of consent, as well as [[Privacy]] concerns.
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=69)** Since many AI systems require a lot of data, there are incentives to oversurveil and to data-fy everything which run counter to fair information principles like data minimization.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=83)** It's also possible to have poor data collection practices such as gathering biased or skewed data, asking culturally insensitive questions, or when reusing data, choosing the wrong data set.
+> **[1:23](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=83)** It's also possible to have poor [[Data Collection]] practices such as gathering biased or skewed data, asking culturally insensitive questions, or when reusing data, choosing the wrong data set.
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=98)** A lot of times people use data in AI systems that isn't fit for purpose because it's convenient.
 >
@@ -1326,11 +1307,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=143)** The analysis phase is also where training happens and where issues of algorithmic bias and fairness might arise.
 >
-> **[2:30](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=150)** There are also choices made around feature engineering, deciding what things in the data will matter more or less as the model is trained.
+> **[2:30](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=150)** There are also choices made around [[Feature Engineering]], deciding what things in the data will matter more or less as the model is trained.
 >
 > **[2:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=159)** In the storage phase, we can think about security, but also the environmental issue of storing vast amounts of data.
 >
-> **[2:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=168)** We'll talk more about the environment and sustainability a little later in the course.
+> **[2:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=168)** We'll talk more about the environment and [[Sustainability]] a little later in the course.
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/data-done-right?u=76281980&t=173)** The share, retain, and reuse phases take us back to issues around privacy and disclosure.
 >
@@ -1356,15 +1337,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), ai (7), [[Privacy]] (2), [[Feature Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Collection]] (1), [[Feature Engineering]] (1), [[Sustainability]] (1)
 > **Definitions:** is a  (2), in other words (1), known as (1), is an  (1)
 > **CLI Commands:** rails (1), make (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Document, document, document
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980)
+#### [Document, document, document](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,9 +1358,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=25)** This is an important distinction.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=28)** Documentation can help organizations to prove they're worthy of trust by providing a paper trail of transparency, traceability, and accountability.
+> **[0:28](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=28)** Documentation can help organizations to prove they're worthy of trust by providing a paper trail of transparency, traceability, and [[Accountability]].
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=38)** You might think documentation is boring, but it's actually a critical piece of responsible AI program and a best practice in other contexts as well.
+> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=38)** You might think documentation is boring, but it's actually a critical piece of [[Responsible AI]] program and a best practice in other contexts as well.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=49)** At official meetings like board or committee meetings, notes are taken and action items are recorded, including details about who voted in favor or against a proposal.
 >
@@ -1394,11 +1374,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=90)** You started out by mapping all of the legal regulations that might apply and all of the places where we might find AI in our organization.
 >
-> **[1:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=99)** You went on to create an AI ethics statement, and in the course of doing that, likely had many meetings where core decisions were captured in meeting minutes, as well as details about who attended those meetings and made those decisions.
+> **[1:39](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=99)** You went on to create an AI [[Ethics]] statement, and in the course of doing that, likely had many meetings where core decisions were captured in meeting minutes, as well as details about who attended those meetings and made those decisions.
 >
 > **[1:53](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=113)** You defined what AI means for your organization and established metrics for responsible AI, which help us develop policies and procedures.
 >
-> **[2:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=123)** Your AI ethics committee acting in accordance with its terms of reference is documenting its decision-making process at meetings where ethical deliberations take place.
+> **[2:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=123)** Your AI ethics committee acting in accordance with its terms of reference is documenting its [[Decision-Making]] process at meetings where ethical deliberations take place.
 >
 > **[2:13](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/document-document-document?u=76281980&t=133)** All of your stakeholder work is documented.
 >
@@ -1416,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (3), [[Accountability]] (2), [[Ethics]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Accountability]] (2), [[Ethics]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
@@ -1424,14 +1404,13 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - when (1)
 
-#### Environmental impacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980)
+#### [Environmental impacts](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=0)** - It might be surprising to learn that some AI systems can have enormous environmental impacts.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=7)** In particular, generative AI or large language models can have a big carbon footprint.
+> **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=7)** In particular, [[Generative AI]] or [[Large Language Models (LLM)|large language models]] can have a big carbon footprint.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=14)** This is because they require a huge amount of data.
 >
@@ -1447,11 +1426,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=50)** One research report claims that data center capacity will triple in the coming years, and there are already hundreds of new data centers being built globally.
 >
-> **[1:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=60)** While some of these facilities hope to be fueled by green energy, the sheer volume and requirements for consistent energy sources will have an impact on sustainability goals.
+> **[1:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=60)** While some of these facilities hope to be fueled by green energy, the sheer volume and requirements for consistent energy sources will have an impact on [[Sustainability]] goals.
 >
-> **[1:12](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=72)** There are also environmental impacts linked to mining the rare earth minerals, which are necessary to build the hardware for these data centers, and concerns over the labor conditions for people involved in that work.
+> **[1:12](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=72)** There are also environmental impacts linked to mining the rare earth minerals, which are necessary to build the [[Hardware]] for these data centers, and concerns over the labor conditions for people involved in that work.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=86)** How can you ensure your AI strategy is not at odds with your sustainability goals?
+> **[1:26](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=86)** How can you ensure your [[AI Strategy]] is not at odds with your sustainability goals?
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=93)** Here are a few things to think about.
 >
@@ -1463,7 +1442,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=123)** You can also think about your own data retention strategies and determine policies that will allow you to best optimize useful data, while purging data that is past its shelf life, or is no longer useful.
 >
-> **[2:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=137)** Appropriate data retention strategies also have the added benefits of helping with privacy and reducing the financial costs of data storage.
+> **[2:17](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=137)** Appropriate data retention strategies also have the added benefits of helping with [[Privacy]] and reducing the financial costs of [[Data Storage]].
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/environmental-impacts?u=76281980&t=147)** Finally, let your staff know about the environmental impacts of using AI systems.
 >
@@ -1475,19 +1454,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (7), [[Large Language Models (LLM)|Large language models]] (2), cloud (2), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Sustainability]] (2), [[Generative AI]] (1), [[Hardware]] (1), [[AI Strategy]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### A brief word about cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980)
+#### [A brief word about cybersecurity](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=0)** - In our digitally connected world where we rely more than ever on technology, cybersecurity is essential.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=0)** - In our digitally connected world where we rely more than ever on technology, [[Cybersecurity]] is essential.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=8)** You'll likely see security or safety referenced on many common responsible AI frameworks alongside privacy, bias, and explainability.
+> **[0:08](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=8)** You'll likely see security or safety referenced on many common [[Responsible AI]] frameworks alongside [[Privacy]], bias, and explainability.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=18)** Cybersecurity is different from privacy, but privacy professionals understand that you can't have privacy without cybersecurity.
 >
@@ -1499,11 +1477,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=61)** It's only rational that you might want to consider adding more resources to your cybersecurity efforts in order to cover off these new risks.
 >
-> **[1:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=71)** Make sure your cybersecurity team is involved with your responsible AI program and provide AI ethics training for them so they can enhance their skills to be well equipped to deal with the additional demands that AI will entail.
+> **[1:11](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/a-brief-word-about-cybersecurity?u=76281980&t=71)** Make sure your cybersecurity team is involved with your responsible AI program and provide AI [[Ethics]] training for them so they can enhance their skills to be well equipped to deal with the additional demands that AI will entail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), ai (4), [[Privacy]] (4), [[Security]] (2), [[Responsible AI]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Privacy]] (4), [[Responsible AI]] (2), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1513,12 +1491,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connector: Moving to commitment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
+#### [Connector: Moving to commitment](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980&t=0)** - A responsible AI program is not a one and done exercise.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980&t=0)** - A [[Responsible AI]] program is not a one and done exercise.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980&t=5)** Instead, it requires a long-term commitment and sustained oversight.
 >
@@ -1530,15 +1507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (1), ai (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1)
 > **Speakers:** - a (1)
 
-#### Model drift and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980)
+#### [Model drift and monitoring](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=0)** - Even when a ship's course is set to sail towards its destination, the waves and the weather are real-time elements that can have an impact causing it to drift off course if left without any active intervention.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=0)** - Even when a ship's course is set to sail towards its destination, the waves and the weather are [[Real-Time]] elements that can have an impact causing it to drift off course if left without any active intervention.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=14)** AI systems have a similar problem, but instead of the weather, there are other factors that can cause your AI system to veer off its original course and this phenomenon is known as model drift.
 >
@@ -1564,7 +1540,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=90)** What exactly are you looking for?
 >
-> **[1:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=93)** In simple terms, you're monitoring for changes, or variations in performance, changes in the data integrity, accuracy or shifts in the data distribution.
+> **[1:33](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=93)** In simple terms, you're monitoring for changes, or variations in performance, changes in the [[Data Integrity]], accuracy or shifts in the data distribution.
 >
 > **[1:45](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=105)** Ultimately, you're trying to ensure that the model is working accurately and is not exhibiting bias, or other issues.
 >
@@ -1576,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=148)** This might be a dashboard or specific alerts that let someone know there might be a problem.
 >
-> **[2:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=154)** This is similar to how your organization is likely monitoring for other risks, such as cybersecurity threats.
+> **[2:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=154)** This is similar to how your organization is likely monitoring for other risks, such as [[Cybersecurity]] threats.
 >
 > **[2:41](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=161)** One case that highlights the importance of monitoring AI systems is that of an American drugstore chain.
 >
@@ -1592,11 +1568,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=221)** For example, a human might observe if people are using the outputs of the AI system in problematic ways which might suggest the need for more staff training.
 >
-> **[3:52](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=232)** AI systems are particularly susceptible to changes in the data environment which is why ongoing monitoring must be a core part of your responsible AI program.
+> **[3:52](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/model-drift-and-monitoring?u=76281980&t=232)** AI systems are particularly susceptible to changes in the data environment which is why ongoing monitoring must be a core part of your [[Responsible AI]] program.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (4), [[Real-Time]] (1), hit (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Data Integrity]] (1), [[Cybersecurity]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **Best Practices:** recommended (1), best practice (1), don't forget (1)
@@ -1604,8 +1580,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - even (1)
 
-#### The role of independent audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-role-of-independent-audit?u=76281980)
+#### [The role of independent audit](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-role-of-independent-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,23 +1634,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - there (1)
 
-#### Nurturing a responsible AI culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980)
+#### [Nurturing a responsible AI culture](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=0)** - The word nurture conjures up images of helping something that is alive to grow and thrive.
+> **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=0)** - The [[Microsoft Word|word]] nurture conjures up images of helping something that is alive to grow and thrive.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=7)** It makes me think about gardens and the ways in which we can attend to things like the soil conditions, providing nourishment, food, sunlight and water, using good quality seeds and making sure we pull out any weeds, all in the effort to give our gardens the best possible chance to mature and flourish.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=27)** Similarly, when it comes to responsible AI, we set up the environment, everything we've been discussing in this course, in order to nurture or responsible AI culture.
+> **[0:27](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=27)** Similarly, when it comes to [[Responsible AI]], we set up the environment, everything we've been discussing in this course, in order to nurture or responsible AI culture.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=38)** We talked a lot about culture earlier in the course, including the importance of tone at the top, diversity, stakeholders and having the right types of people in place, such as an AI ethics committee.
+> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=38)** We talked a lot about culture earlier in the course, including the importance of tone at the top, diversity, stakeholders and having the right types of people in place, such as an AI [[Ethics]] committee.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=51)** Your culture can help support your responsible AI goals, but it requires an ongoing commitment.
 >
@@ -1689,7 +1662,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=98)** Maturity assessments are a tool used in many areas of business to provide organizations with a health check and a means of gauging their progress.
 >
-> **[1:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=108)** There are maturity assessments for data governance, risk management and a whole host of other business processes.
+> **[1:48](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=108)** There are maturity assessments for [[Data Governance]], risk management and a whole host of other business processes.
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/nurturing-a-responsible-ai-culture?u=76281980&t=115)** Typically, organizations are scored using a four or five point scale and that score illustrates where you are in terms of the capabilities associated with the process being assessed, from immature to advanced.
 >
@@ -1709,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (7), ai (3), business (2), [[Microsoft Word|Word]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (7), [[Microsoft Word|Word]] (1), [[Ethics]] (1), [[Data Governance]] (1)
 > **Cross-References:** earlier in (2), go back to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -1721,14 +1694,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The journey of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)
+#### [The journey of responsible AI](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=0)** - Chinese philosopher Laozi said, "A journey of a thousand miles begins with a single step."
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=6)** That advice applies to many of life's big goals, including the journey of building a responsible AI program.
+> **[0:06](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=6)** That advice applies to many of life's big goals, including the journey of building a [[Responsible AI]] program.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=14)** If there's one thing I'd like you to take away from this course, it's this: You can do this.
 >
@@ -1736,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=29)** The four Cs, context, culture, content, and commitment provide a simple, yet powerful framework to help guide you.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=38)** By starting with understanding the big picture context as well as your organizational culture, you put in place an important foundation from which to build your program content.
+> **[0:38](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=38)** By starting with understanding the big picture context as well as your [[Organizational Culture]], you put in place an important foundation from which to build your program content.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=49)** Knowing that this work requires an ongoing commitment will set appropriate expectations for your organization to grow and mature and to be well-positioned for future regulations.
 >
@@ -1754,7 +1726,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=94)** Conversely, you can learn from real-world cases to see who is doing things in beneficial ways, as well as what to avoid.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=102)** I'd love to stay connected with you, so please reach out on LinkedIn or check out my website at [ethicallyalignedai.com](https://ethicallyalignedai.com).
+> **[1:42](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=102)** I'd love to stay connected with you, so please reach out on [[LinkedIn]] or check out my website at [ethicallyalignedai.com](https://ethicallyalignedai.com).
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980&t=110)** Finally, something that's become a bit of my personal signature is to end my work with this symbol.
 >
@@ -1768,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Responsible AI]] (2), [[Organizational Culture]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Organizational Culture]] (1), [[LinkedIn]] (1)
 > **URLs:** [ethicallyalignedai.com](https://ethicallyalignedai.com) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)

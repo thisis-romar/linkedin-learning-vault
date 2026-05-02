@@ -103,37 +103,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making decisions around cloud architecture design
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980)
+#### [Making decisions around cloud architecture design](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=0)** - Cloud computing architecture is often the most overlooked aspect of cloud deployment.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=0)** - [[Cloud Computing]] architecture is often the most overlooked aspect of cloud deployment.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=5)** It's the art of selecting the right technology and configuration to bring the most value back to the business.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=11)** If current statistics are any indication most companies get this challenge wrong.
+> **[0:11](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=11)** If current [[Statistics]] are any indication most companies get this challenge wrong.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=16)** The challenge is that many enterprises make decisions that are not optimized for business or don't meet their requirements in other ways.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=24)** Hi, I'm David Linthicum, an internationally-known cloud expert and consultant.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=28)** In this LinkedIn Learning course, I use pragmatic examples and explain processes to help you gain an understanding of the steps to take to make successful cloud architectures or design decisions the first time.
+> **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=28)** In this [[LinkedIn]] Learning course, I use pragmatic examples and explain processes to help you gain an understanding of the steps to take to make successful cloud architectures or design decisions the first time.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980&t=40)** I wish you luck and good learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (2), [[Statistics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Statistics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - cloud (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=0)** - To get the most out of this course, you should understand enterprise architecture, both traditional and cloud-based systems.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=0)** - To get the most out of this course, you should understand [[Enterprise Architecture]], both traditional and cloud-based systems.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=7)** And it's helpful to understand the basics of computing, including compute, storage, and networking.
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=19)** But if those are not on your list of skills, we'll provide enough information here to help you keep up.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=25)** If you're not yet comfortable with some of the topics mentioned, I suggest you review one, two, or all three of the following courses: Learning Cloud Computing: Core Concepts, [[Cloud Architecture- Core Concepts]], and Learning Cloud Computing: Public Cloud Platforms.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=25)** If you're not yet comfortable with some of the topics mentioned, I suggest you review one, two, or all three of the following courses: Learning [[Cloud Computing]]: Core Concepts, [[Cloud Architecture- Core Concepts]], and Learning Cloud Computing: Public Cloud Platforms.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/what-you-should-know?u=76281980&t=41)** That should help you get up to speed on most of the topics we'll cover.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Enterprise Architecture]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Enterprise Architecture]] (1)
 > **Speakers:** - to (1)
 
 
@@ -155,26 +153,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking your architecture to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980)
+#### [Taking your architecture to the next level](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=0)** - What is cloud architecture?
 >
-> **[0:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=2)** Cloud architecture is best defined as configuring cloud computing technologies and traditional technologies in a way that supports the business's current and future requirements.
+> **[0:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=2)** Cloud architecture is best defined as configuring [[Cloud Computing]] technologies and traditional technologies in a way that supports the business's current and future requirements.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=14)** This means that we're leveraging technology to meet the business's needs, not the other way around.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=20)** This course focuses on understanding your business's requirements and then picking the right cloud technology components or architecture to satisfy them, thus making the right design decisions.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=34)** As you move through your cloud architecture journey, the availability of today's technologies, including on-demand cloud services, enables you to pick and configure as many as 10 factorials of possible technology combinations to form your cloud computing solution or architecture.
+> **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=34)** As you move through your cloud architecture journey, the availability of today's technologies, including on-demand [[Cloud Services]], enables you to pick and configure as many as 10 factorials of possible technology combinations to form your cloud computing solution or architecture.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=53)** If you're not sure what that number is, it's a lot.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=56)** Most of these configurations will likely work, And by work, I mean they meet the business's needs minimally.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=64)** However, as the word implies, these architectures are likely minimal and not optimal.
+> **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=64)** However, as the [[Microsoft Word|word]] implies, these architectures are likely minimal and not optimal.
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=70)** This means that while they work, they may cost more to run and not meet all of the business requirements in some way.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=88)** Therefore, good cloud architecture is not just about creating a solid architecture.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=94)** It also includes application and infrastructure level design, deployment planning, operation planning, security design, database design, and about a hundred other things that will likely make up your cloud computing architecture.
+> **[1:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=94)** It also includes application and infrastructure level design, [[Deployment Planning]], operation planning, security design, [[Database Design]], and about a hundred other things that will likely make up your cloud computing architecture.
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=108)** It's about creating an architecture that meets the business's needs, and addresses most or all of the requirements, as well as being fully optimized.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=163)** It includes creating a path forward for the architecture and understanding that it needs always to be optimized to meet the business' needs.
 >
-> **[2:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=172)** It demonstrates an understanding of things in the wide, such as strategic use of this technology, as well as things in the narrow, such as application design, and deployment details, and the use of DevOps, and other development best practices, and tooling.
+> **[2:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=172)** It demonstrates an understanding of things in the wide, such as strategic use of this technology, as well as things in the narrow, such as application design, and deployment details, and the use of [[DevOps]], and other development best practices, and tooling.
 >
 > **[3:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980&t=189)** Remember that this is about optimizing the cloud technology to add the most value to the business.
 >
@@ -210,15 +207,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), business (11), application (3), [[Deployment Planning]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (7), [[Deployment Planning]] (2), [[Database Design]] (2), [[Cloud Services]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - what (1)
 
-#### Advanced architecture scenario: HR systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980)
+#### [Advanced architecture scenario: HR systems](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,23 +234,23 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=53)** The first step is understanding HR's requirements regarding what cloud architecture should address.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=59)** The short list includes resume/CV storage, resume search and retrieval, employee information management, compliance processing and governance, HR application development, et cetera.
+> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=59)** The short list includes resume/CV storage, resume search and retrieval, employee information management, compliance processing and governance, HR [[Application Development]], et cetera.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=73)** Of course, a list of requirements that will drive a cloud architecture project is usually several hundred items long, but for this example, we're using our short list of requirements.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=86)** Our next step is to define different levels of detail such as resume/CV storage, cloud database, database design, database security, database governance, database monitoring, self-healing, ops reporting.
+> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=86)** Our next step is to define different levels of detail such as resume/CV storage, cloud database, [[Database Design]], database security, database governance, database monitoring, self-healing, ops reporting.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=102)** From here, we can look at the solution patterns that should be used.
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=106)** We do this at several layers, which also define different levels of detail.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=112)** For instance, cloud computing architecture for HR.
+> **[1:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=112)** For instance, [[Cloud Computing]] architecture for HR.
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=116)** Logical architecture means no specific technology is considered.
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=121)** Physical architecture, meaning that we're adding specific technology decisions such as naming the technologies we will be leveraging.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=129)** Deployment planning are how we build and deploy our solution.
+> **[2:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=129)** [[Deployment Planning]] are how we build and deploy our solution.
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems?u=76281980&t=134)** Operations planning are how we're going to operate our solution ongoing.
 >
@@ -272,17 +268,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), database (5), hr (4), business (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Application Development]] (1), [[Database Design]] (1), [[Deployment Planning]] (1)
 > **Analogies:** such as (3), for example (3), for instance (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### Advanced architecture scenario: Edge computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980)
+#### [Advanced architecture scenario: Edge computing](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=0)** - Edge computing systems are becoming more common as cloud computing architects learn to extend processing and data storage as close to the source as possible.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=0)** - Edge computing systems are becoming more common as [[Cloud Computing]] architects learn to extend processing and [[Data Storage]] as close to the source as possible.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=11)** Edge computing places, aspects of systems outside of centralized processing, such as a public cloud, on remote devices, or computers.
 >
@@ -296,11 +291,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=58)** Of course, they are complex regarding the solution with more computing layers and data storage systems involved.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=66)** This extra work required when creating a cloud computing architecture that leverages edge computing would be network connectivity to edge device, edge device data storage and data processing, edge device API management are how cloud applications leverage the edge device, uses a set of services, typically web services, edge-based application development and deployment, edge device operations and maintenance, edge device security, et cetera.
+> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=66)** This extra work required when creating a cloud computing architecture that leverages edge computing would be network connectivity to edge device, edge device data storage and [[Data Processing]], edge device [[API Management]] are how cloud applications leverage the edge device, uses a set of services, typically web services, edge-based [[Application Development]] and deployment, edge device operations and maintenance, edge device security, et cetera.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=99)** In this situation, consider placing each architecture into a subdomain.
 >
-> **[1:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=105)** For example, consider the concepts and technology components that make up the edge computing processing, both in the cloud and at the edge device, separately from the rest of the architecture.
+> **[1:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=105)** For example, consider the concepts and technology components that make up the edge computing processing, both in the cloud and at the edge device, separately from the [[Representational State Transfer (REST)|rest]] of the architecture.
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-edge-computing?u=76281980&t=118)** This has been the benefit of allowing you to focus just on this problem.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (5), api (1), management (1), web (1)
+> **Frameworks & Libraries:** [[Data Storage]] (3), [[Cloud Computing]] (2), [[Data Processing]] (1), [[API Management]] (1), [[Application Development]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -320,20 +315,19 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - edge (1)
 
-#### Advanced architecture scenario: Containers and Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980)
+#### [Advanced architecture scenario: Containers and Kubernetes](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=0)** - The purpose of this video isn't to turn you into a container or Kubernetes expert.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=0)** - The purpose of this video isn't to turn you into a container or [[Kubernetes]] expert.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=7)** We're just using this technology pattern as an example of an advanced cloud computing architecture that you might use if it satisfies one or more requirements of your cloud computing solution configuration.
+> **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=7)** We're just using this technology pattern as an example of an advanced [[Cloud Computing]] architecture that you might use if it satisfies one or more requirements of your cloud computing solution configuration.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=21)** Kubernetes is a system that manages containers or containerized applications.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=26)** A container is a lightweight virtual machine that allows you to run applications within the container much the same way as you would within any platform.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=38)** The difference is that a container can run on a platform, even several on a single platform, such as Linux and Windows NT.
+> **[0:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=38)** The difference is that a container can run on a platform, even several on a single platform, such as [[Linux]] and [[Windows]] NT.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=49)** Container orchestration and clustering using Kubernetes is a clear trend in the world of cloud computing now.
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=65)** You can also leverage Kubernetes to manage microservice architectures.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=69)** Microservices are more fine-grained and thus more usable since they provide discrete functionality.
+> **[1:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=69)** [[Microservices]] are more fine-grained and thus more usable since they provide discrete functionality.
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=76)** For example, they can offer a simple verification function for a text record rather than a complete database scan.
 >
@@ -359,7 +353,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=144)** Then we would pick working solutions such as leveraging the Kubernetes implementation on AWS, which is Amazon Elastic Container Services for Kubernetes or Amazon EKS.
 >
-> **[2:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=158)** Note that Microsoft and Google have similar Kubernetes services within their cloud offerings.
+> **[2:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=158)** Note that [[Microsoft]] and [[Google]] have similar Kubernetes services within their cloud offerings.
 >
 > **[2:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-hr-systems-24504604?u=76281980&t=165)** The point to be made here is that first Kubernetes is simply an instance of an advanced cloud computing architecture that you can leverage many ways.
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (16), cloud (9), [[Linux]] (1), [[Windows]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Cloud Computing]] (4), [[Linux]] (1), [[Windows]] (1), [[Microservices]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1), find (1)
@@ -381,12 +375,11 @@ created: 2026-05-02
 > **Warnings:** note that (1), keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Advanced architecture scenario: Serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-serverless-computing?u=76281980)
+#### [Advanced architecture scenario: Serverless computing](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-serverless-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-serverless-computing?u=76281980&t=0)** - Much like other cloud technology trends, serverless computing is changing aspects of how we do cloud computing architecture.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-serverless-computing?u=76281980&t=0)** - Much like other cloud technology trends, [[Serverless Computing]] is changing aspects of how we do [[Cloud Computing]] architecture.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-serverless-computing?u=76281980&t=8)** Serverless computing enables cloud architecture technology, or how we design, build, and deploy specific applications using serverless technology.
 >
@@ -448,18 +441,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), application (9), [[Serverless Computing]] (7), [[Security]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (7), [[Cloud Computing]] (2)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - much (1)
 
-#### Advanced architecture scenario: Generative AI computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980)
+#### [Advanced architecture scenario: Generative AI computing](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=0)** - In this video we will break down a cloud-based generative AI architecture, specifically, a case study examines enterprise content generation applications using generative AI.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=0)** - In this video we will break down a cloud-based [[Generative AI]] architecture, specifically, a case study examines enterprise content generation applications using generative AI.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=13)** For example, a mid-size marketing firm must generate customized content at scale while maintaining brand consistency.
 >
@@ -469,9 +461,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=32)** Core components.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=33)** We have a data layer, AWS S3, which is a data lake, Pinecone, which is a vector database, and Redis for data caching.
+> **[0:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=33)** We have a data layer, AWS S3, which is a data lake, [[Pinecone]], which is a vector database, and [[Redis]] for data caching.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=44)** We have a processing layer, GPT-4 on Azure from OpenAI, which is the primary large language model, SageMaker, which is the custom model, and Kubernetes orchestration.
+> **[0:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=44)** We have a processing layer, [[GPT-4]] on [[Microsoft Azure|Azure]] from OpenAI, which is the primary large language model, SageMaker, which is the custom model, and [[Kubernetes]] orchestration.
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-generative-ai-computing?u=76281980&t=57)** And then we have an integration layer, API Gateway for external access, gRPC for internal communication, and OAuth2 for authentication.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Generative AI]] (3), [[Kubernetes]] (3), cloud (2), aws (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Kubernetes]] (3), [[Pinecone]] (1), [[Redis]] (1), [[GPT-4]] (1)
 > **Env Vars:** aws (1), gpt (1), api (1), elk (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1)
@@ -505,12 +497,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Advanced architecture scenario: Agentic AI computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980)
+#### [Advanced architecture scenario: Agentic AI computing](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=0)** - In the last video, we looked at an enterprise content generation application that used generative AI.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=0)** - In the last video, we looked at an enterprise content generation application that used [[Generative AI]].
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=8)** In this video, I'll show you a straight to the point architecture for a cloud-based autonomous AI agent system that can independently reason, plan, and execute tasks.
 >
@@ -518,15 +509,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=24)** There are complete courses here on Agentic AI architectures.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=28)** Please seek those out if you are interested in Agentic AI running on cloud computing systems.
+> **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=28)** Please seek those out if you are interested in Agentic AI running on [[Cloud Computing]] systems.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=34)** Thus, some of this may seem a bit cryptic, but it's designed to provide you with a real world example.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=41)** Let's dive in.
 >
-> **[0:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=42)** Core components are: the agent layer, LangChain for agent orchestration, AutoGPT for autonomous processing, vector memory store for agent state, and ReAct framework for reasoning engine.
+> **[0:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=42)** Core components are: the agent layer, [[LangChain]] for agent orchestration, AutoGPT for autonomous processing, vector memory store for agent state, and [[React.js|ReAct]] framework for reasoning engine.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=59)** Execution layer: function calling API, tool integration framework, AWS Lambda for serverless actions, and Azure OpenAI for the core large language model.
+> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=59)** Execution layer: function calling API, tool integration framework, AWS Lambda for serverless actions, and [[Microsoft Azure|Azure]] OpenAI for the core large language model.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=73)** And finally, the control layer: agent supervisor systems, safety guardrails, performance monitoring, and resource management.
 >
@@ -536,9 +527,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=98)** The control layer provides supervision and safety constraints.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=102)** Key features of this architecture include: multi-agent coordination, persistent memory management, tool use framework, self-correction capabilities, real-time monitoring, and failure recovery.
+> **[1:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=102)** Key features of this architecture include: multi-agent coordination, persistent [[Memory Management]], tool use framework, self-correction capabilities, [[Real-Time]] monitoring, and failure recovery.
 >
-> **[1:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=117)** The system enables autonomous AI agents to perform complex tasks while maintaining control and safety.
+> **[1:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=117)** The system enables autonomous [[AI Agents]] to perform complex tasks while maintaining control and safety.
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/advanced-architecture-scenario-agentic-ai-computing?u=76281980&t=124)** It's designed for enterprise use cases like automated research, customer service, and process automation.
 >
@@ -550,18 +541,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (2), application (1), [[Generative AI]] (1), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Cloud Computing]] (1), [[LangChain]] (1), [[React.js|React]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Necessary skills, tools, and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980)
+#### [Necessary skills, tools, and processes](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=0)** - So what skills do you need to be a good cloud computing architect and make good design decisions?
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=0)** - So what skills do you need to be a good [[Cloud Computing]] architect and make good design decisions?
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=8)** Let's look at a few.
 >
@@ -573,11 +563,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=38)** General knowledge is the most helpful, but knowing some specific features and being willing to learn as you go is also very beneficial.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=48)** So while you may understand the fundamental differences between object storage on AWS, Google and Microsoft, you may not be able to compare each at a detailed level, such as APIs.
+> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=48)** So while you may understand the fundamental differences between object storage on AWS, [[Google]] and [[Microsoft]], you may not be able to compare each at a detailed level, such as APIs.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=62)** That's okay.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=63)** Also, it's helpful to understand technologies you're likely to consider leveraging within your architecture, such as serverless containers, Kubernetes, microservices, no code, low code, and other approaches that may provide you with a few advantages.
+> **[1:03](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=63)** Also, it's helpful to understand technologies you're likely to consider leveraging within your architecture, such as serverless containers, [[Kubernetes]], [[Microservices]], no code, low code, and other approaches that may provide you with a few advantages.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=81)** It's not just about seeking ways to use these technologies, it's about understanding them and the potential roles.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=137)** Tools are often confusing for architecture, considering that many tool providers oversell the value of tools for architecture and they change rapidly.
 >
-> **[2:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=148)** Tools are needed to perform tactical tasks such as system inventory, data management, security planning, and other tasks an architect must tackle.
+> **[2:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=148)** Tools are needed to perform tactical tasks such as system inventory, [[Data Management]], security planning, and other tasks an architect must tackle.
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/necessary-skills-tools-and-processes?u=76281980&t=158)** The best advice here is to rely on tools to carry out specific architect tasks more efficiently, but no matter what they claim, tools don't automate all of the architecture.
 >
@@ -605,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (2), database (1), aws (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Google]] (1), [[Microsoft]] (1), [[Kubernetes]] (1), [[Microservices]] (1)
 > **CLI Commands:** find (2), make (1), aws (1)
 > **Analogies:** such as (4)
 > **Env Vars:** aws (1)
@@ -616,8 +606,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980)
+#### [Build a business case](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=16)** So why is building a business case a part of design decisions?
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=22)** First, we won't know the utility of our cloud computing architecture, including design decisions we need to make, until we're sure it will add value to the business.
+> **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=22)** First, we won't know the utility of our [[Cloud Computing]] architecture, including design decisions we need to make, until we're sure it will add value to the business.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=33)** Keep in mind, that's the most critical objective.
 >
@@ -635,7 +624,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=48)** Finally, this also allows us to consider the cost benefit trade-offs for each design decision that we're making.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=57)** For example, leveraging containers in Kubernetes consistently throughout an architecture, could lead to the most and the least optimized solutions.
+> **[0:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=57)** For example, leveraging containers in [[Kubernetes]] consistently throughout an architecture, could lead to the most and the least optimized solutions.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=67)** It's a matter of considering the business problems you're looking to solve.
 >
@@ -645,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=91)** Soft costs and benefits are business values that take more work to understand and estimate.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=98)** These are indirect cost impacts, such as use of one system that benefits human resources, but impacts the legal department, because it causes them to deal with more complexity, which costs that group more.
+> **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=98)** These are indirect cost impacts, such as use of one system that benefits [[Human Resources (HR)|human resources]], but impacts the legal department, because it causes them to deal with more complexity, which costs that group more.
 >
 > **[1:54](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980&t=114)** Both sides of these issues need to be understood.
 >
@@ -671,14 +660,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), cloud (7), data (2), [[Kubernetes]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Kubernetes]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
-#### Soft costs and benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/soft-costs-and-benefits?u=76281980)
+#### [Soft costs and benefits](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/soft-costs-and-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,13 +694,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** known as (1)
 > **Speakers:** - soft (1)
 
-#### Hard costs and benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980)
+#### [Hard costs and benefits](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,21 +706,21 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=3)** Now let's look at the hard costs and benefits.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=6)** Examples include the usage cost of cloud storage, such as the cost of gigabytes or the time the storage system is used.
+> **[0:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=6)** Examples include the usage cost of [[Cloud Storage]], such as the cost of gigabytes or the time the storage system is used.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=15)** The benefit of cost savings is not having to purchase and maintain storage hardware.
+> **[0:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=15)** The benefit of cost savings is not having to purchase and maintain storage [[Hardware]].
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=22)** These are relatively obvious, meaning that they can be defined as the dollar in terms of money spent, the hard costs, what money is saved, or the hard benefits.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=34)** As such, these costs and benefits are generally the easiest to define when making a business case for your cloud computing architecture.
+> **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=34)** As such, these costs and benefits are generally the easiest to define when making a business case for your [[Cloud Computing]] architecture.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=43)** This information is critical to design decisions because it defines the cost and benefit of each decision.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=51)** Typically, these calculations are assigned dollar values.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=56)** Enterprises often leverage FinOps, or financial operations, to gain more control over spending and the true benefits that can be measured.
+> **[0:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=56)** Enterprises often leverage FinOps, or [[Financial Operations]], to gain more control over spending and the true benefits that can be measured.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=66)** Simply put, this is a set of processes, approaches, and tooling that allows you to track money spent on cloud-based resources, such as storage, compute, databases, AI, or anything cloud service providers charge for.
+> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=66)** Simply put, this is a set of processes, approaches, and tooling that allows you to track money spent on cloud-based resources, such as storage, compute, [[Databases]], AI, or anything cloud service providers charge for.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/hard-costs-and-benefits?u=76281980&t=81)** These processes also enable tracking consumption, as in who's consuming what, when, how, and how much, and other details about what the enterprises are consuming.
 >
@@ -752,17 +738,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Hardware]] (1), business (1), [[Financial Operations]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Hardware]] (1), [[Cloud Computing]] (1), [[Financial Operations]] (1), [[Databases]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** defined as (1), is a  (1)
 > **Speakers:** - we (1)
 
-#### Economies of optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-optimization?u=76281980)
+#### [Economies of optimization](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-optimization?u=76281980&t=0)** - One important thing to consider is that when we design a cloud computing architecture, even if we have the exact business requirements, the cloud solution or architecture we create may differ significantly from those produced by other cloud architectures and cloud architects.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-optimization?u=76281980&t=0)** - One important thing to consider is that when we design a [[Cloud Computing]] architecture, even if we have the exact business requirements, the cloud solution or architecture we create may differ significantly from those produced by other cloud architectures and cloud architects.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-optimization?u=76281980&t=20)** This is due to a few reasons. First, is technology bias.
 >
@@ -798,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), business (3), aws (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is an  (1)
@@ -806,8 +791,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Leveraging AI as a innovative differentiator
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980)
+#### [Leveraging AI as a innovative differentiator](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=12)** Intelligent resource management.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=15)** Instead of static allocation, AI predicts resource needs in real-time, automatically scaling and optimizing cloud infrastructure.
+> **[0:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=15)** Instead of static allocation, AI predicts resource needs in [[Real-Time]], automatically scaling and optimizing [[Cloud Infrastructure]].
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=25)** This means better performance at lower cost than traditional approaches.
 >
@@ -827,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=37)** AI can analyze patterns to predict failures, automatically route traffic, and optimize data pass before issues occur.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=46)** The benefit is that they can deliver better uptime and better user experience.
+> **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=46)** The benefit is that they can deliver better uptime and better [[User Experience (UX)|user experience]].
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=52)** Smart data handling.
 >
@@ -841,9 +825,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=82)** Self-optimizing systems.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=85)** The architecture continuously learns and improves itself based on real-world performance data, databases queries, self tune, microservices, auto-adjust, and routing optimization.
+> **[1:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=85)** The architecture continuously learns and improves itself based on real-world performance data, [[Databases]] queries, self tune, [[Microservices]], auto-adjust, and [[Routing]] optimization.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=97)** So what are the cost benefits of using AI, including generative AI?
+> **[1:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=97)** So what are the cost benefits of using AI, including [[Generative AI]]?
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/leveraging-ai-as-a-innovative-differentiator?u=76281980&t=103)** Here are some examples.
 >
@@ -861,24 +845,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (6), business (3), [[Security]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Cloud Infrastructure]] (2), [[User Experience (UX)|User experience]] (1), [[Databases]] (1), [[Microservices]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - let (1)
 
-#### Economies of complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980)
+#### [Economies of complexity](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=0)** - In cloud computing architecture, complexity is having too many things to keep track of, which can lead to other problems, including issues with operations, security, and governance.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=0)** - In [[Cloud Computing]] architecture, complexity is having too many things to keep track of, which can lead to other problems, including issues with operations, security, and governance.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=12)** For instance, if I'm leveraging a multi-cloud deployment, I may have eight different storage systems to manage, whereas a single cloud deployment, I may have two or three.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=22)** Cloud computing architects choose to design and deploy more complex heterogeneous cloud solutions because they are attempting to leverage the best combinations of cloud services.
+> **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=22)** Cloud computing architects choose to design and deploy more complex heterogeneous cloud solutions because they are attempting to leverage the best combinations of [[Cloud Services]].
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=34)** Indeed, heterogeneity means that we're living in different types and brands of technology.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=40)** For instance, storage from AWS and Microsoft is part of the same solution.
+> **[0:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=40)** For instance, storage from AWS and [[Microsoft]] is part of the same solution.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/economies-of-complexity?u=76281980&t=46)** Considering our storage example, we may choose to leverage storage from more than a single cloud provider because those specific storage systems have features and functions that we need to solve a specific problem.
 >
@@ -898,7 +881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Microsoft]] (2), application (2), [[Security]] (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft]] (2), [[Cloud Services]] (1)
 > **Analogies:** for instance (2), such as (2)
 > **Env Vars:** aws (1), ebs (1)
 > **CLI Commands:** aws (1)
@@ -907,8 +890,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
-#### Challenge: Defining the business case for ABC Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980)
+#### [Challenge: Defining the business case for ABC Inc.](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,9 +914,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=41)** Customer churn, spiking 15% year over year.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=45)** Financial impact is $5 million wasted annually on incorrect forecasting.
+> **[0:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=45)** Financial impact is $5 million wasted annually on incorrect [[Forecasting]].
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=50)** Key accounts lost to more agile competitors.
+> **[0:50](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=50)** Key accounts lost to more [[Agile Development|agile]] competitors.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=53)** Profit margins shrinking by 3% quarterly.
 >
@@ -942,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=61)** With this limited amount of data, your job is to create a high level business case for ABC.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=66)** Determine if this business is a good fit for cloud computing and what business benefits its adoption might bring to this business.
+> **[1:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=66)** Determine if this business is a good fit for [[Cloud Computing]] and what business benefits its adoption might bring to this business.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-business-case-for-abc-inc?u=76281980&t=75)** If you would rather not, you don't need to write anything down.
 >
@@ -950,14 +932,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Forecasting]] (1), [[Agile Development|Agile]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Agile Development|Agile]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** abc (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Defining the business case for ABC Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980)
+#### [Solution: Defining the business case for ABC Inc.](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980&t=20)** The purpose of the architecture is to create a cloud-based AI platform.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980&t=25)** This may include predictive analytics engine, real-time manufacturing intelligence, automated customer service platform, and intelligent supply chain optimization.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980&t=25)** This may include [[Predictive Analytics]] engine, [[Real-Time]] manufacturing intelligence, automated customer service platform, and intelligent supply chain optimization.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-business-case-for-abc-inc?u=76281980&t=37)** Some of the financial benefits include $8.2 million annual cost savings, $12 million revenue increase, 285% ROI over three years and 14th month breakeven point.
 >
@@ -993,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), cloud (2), ai (1), [[Predictive Analytics]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Real-Time]] (1)
 > **Versions:** 8.2 (1), 4.5 (1), 20.2 (1)
 > **Env Vars:** roi (1), abc (1)
 > **Speakers:** - so (1)
@@ -1004,14 +985,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980)
+#### [Designing for storage](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980&t=0)** - In order to make the right design decisions for our cloud storage, we need to define and understand our requirements clearly enough to make informed decisions.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980&t=0)** - In order to make the right design decisions for our [[Cloud Storage]], we need to define and understand our requirements clearly enough to make informed decisions.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980&t=10)** Storage is fundamental to cloud computing architecture.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980&t=10)** Storage is fundamental to [[Cloud Computing]] architecture.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980&t=14)** Most applications in an architecture leverage storage directly, either using the native interfaces that storage systems provide, or through a database that leverages some type of storage on the backend to store, retrieve and manage data.
 >
@@ -1051,18 +1031,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (4), [[Security]] (3), database (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Cloud Computing]] (2)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - in (1)
 
-#### Designing for compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980)
+#### [Designing for compute](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=0)** - [Instructor] Compute, simply put, is how processing will occur within our cloud computing solution or solutions.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=0)** - [Instructor] Compute, simply put, is how processing will occur within our [[Cloud Computing]] solution or solutions.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=7)** This means picking the right processor or CPU, the right amount of memory, and the appropriate operating system.
 >
@@ -1082,13 +1061,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=68)** Are the size of the memory you need.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=70)** Keep in mind that you can leverage less powerful and cheaper CPUs in your cloud server configuration, but use more memory to get better performance.
+> **[1:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=70)** Keep in mind that you can leverage less powerful and cheaper CPUs in your cloud [[Server Configuration]], but use more memory to get better performance.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=81)** Operating system.
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=82)** Are what operating system requirements are understood.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=86)** Options typically include different brands of Linux, such as Red Hat or AWS, also Windows NT, et cetera.
+> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=86)** Options typically include different brands of [[Linux]], such as Red Hat or AWS, also [[Windows]] NT, et cetera.
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=94)** Speed.
 >
@@ -1112,25 +1091,24 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=135)** This results in a more expensive cloud bill, thus diminishing the cloud solutions value.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=141)** Or underspending, meaning that we're not leveraging the proper amount of compute cloud services and will likely crash the applications once they run out of resources such as CPU and memory.
+> **[2:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-compute?u=76281980&t=141)** Or underspending, meaning that we're not leveraging the proper amount of compute [[Cloud Services]] and will likely crash the applications once they run out of resources such as CPU and memory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), power (2), application (2), [[Server Configuration]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1), [[Cloud Services]] (1)
 > **Env Vars:** cpu (6), aws (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for data and database
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980)
+#### [Designing for data and database](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=0)** - Cloud providers offer several choices regarding which database you would like to leverage to store and retrieve data for one or more applications.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=10)** There are many different types of databases to consider, including cloud-native databases, databases that are available on a single cloud provider, third-party databases that are offered on a cloud provider.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=10)** There are many different types of [[Databases]] to consider, including cloud-native databases, databases that are available on a single cloud provider, third-party databases that are offered on a cloud provider.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=22)** Even major enterprise database players, such as Oracle and IBM, have cloud-deployed versions that can be leveraged.
 >
@@ -1154,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=104)** Management, or how the database will be managed and operated as part of a managed and operations platform.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=112)** Security, looking at the data security requirements specifically, and finally, disaster recovery, or features and functions needed to deal with outages and other issues that may interrupt data processing.
+> **[1:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=112)** Security, looking at the [[Data Security]] requirements specifically, and finally, disaster recovery, or features and functions needed to deal with outages and other issues that may interrupt [[Data Processing]].
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-data-and-database?u=76281980&t=125)** Cloud-based databases are a complex topic, with hundreds of different ways to do the same thing.
 >
@@ -1162,18 +1140,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (8), database (8), [[Databases]] (8), [[Security]] (2)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Data Security]] (1), [[Data Processing]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - cloud (1)
 
-#### Designing for secuirty
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980)
+#### [Designing for secuirty](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=0)** - Security is systemic to everything that we do in creating and deploying a cloud computing solution.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=0)** - Security is systemic to everything that we do in creating and deploying a [[Cloud Computing]] solution.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=6)** Thus, the requirements regarding what security approaches and technology to leverage should be considered in the narrow.
 >
@@ -1181,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=27)** While there are many ways to evaluate the attributes of cloud-based security, generally, we need to consider the following.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=35)** Various security solutions are needed, such as identity and access management, or IAM, encryption, multifactor authentication, and other forms of security.
+> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=35)** Various security solutions are needed, such as identity and access management, or IAM, encryption, multifactor authentication, and other [[Forms]] of security.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=46)** Disaster recovery are how the security systems can resolve outages effectively.
 >
@@ -1191,7 +1168,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=62)** And finally, special consideration, considering that security requirements are going to be widely different.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=69)** Unlike storage and computing, which have the same essential functions across cloud services, security approaches and technologies are very different and should be adopted specifically for the cloud solution requirements.
+> **[1:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=69)** Unlike storage and computing, which have the same essential functions across [[Cloud Services]], security approaches and technologies are very different and should be adopted specifically for the cloud solution requirements.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-secuirty?u=76281980&t=81)** Thus, you'll have very different security technologies leveraged across applications, systems, cloud, and other solution outcomes.
 >
@@ -1203,26 +1180,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), cloud (9), data (3), management (2), application (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Forms]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** iam (1)
 > **Analogies:** such as (1)
 > **Speakers:** - security (1)
 
-#### Designing for governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980)
+#### [Designing for governance](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=0)** - Governance is the ability to limit the use of cloud services, data, and even resources, such as money.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=0)** - Governance is the ability to limit the use of [[Cloud Services]], data, and even resources, such as money.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=7)** The idea here is to find the specific requirements that allow you to access and use what governance will be needed, including the types of governance, how things are governed, and how governance systems link to other systems, such as security.
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=23)** There are a few types of governance to be aware of in cloud computing architecture.
+> **[0:23](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=23)** There are a few types of governance to be aware of in [[Cloud Computing]] architecture.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=28)** They include, Cost Governance is the ability to monitor and limit the usage cost of cloud computing.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=35)** For example, Cost Governance involves monitoring the costs related to cloud storage, including who's using the storage, for what purposes, and how much they are allowed to spend over a predetermined period of time.
+> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=35)** For example, Cost Governance involves monitoring the costs related to [[Cloud Storage]], including who's using the storage, for what purposes, and how much they are allowed to spend over a predetermined period of time.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-governance?u=76281980&t=48)** Resource Governance, or the ability to place limits on the use of resources, such as storage and compute cloud services, for instance, how much storage can be leveraged.
 >
@@ -1240,15 +1216,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), api (2), data (1), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Cloud Computing]] (2), [[Cloud Storage]] (1)
 > **Analogies:** such as (3), for example (2), for instance (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - governance (1)
 
-#### Designing for CloudOps and FinOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980)
+#### [Designing for CloudOps and FinOps](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,13 +1245,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=69)** Also, that performance can be many things, including database, network, processor, I/O, et cetera.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=77)** Security operations, or SecOps, refers to the ability to keep the core security system running up to expectations continuously.
+> **[1:17](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=77)** [[Security Operations]], or SecOps, refers to the ability to keep the core security system running up to expectations continuously.
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=86)** Governance operations, or GovOps.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=88)** This means the ability to keep all governance systems operating in an ongoing manner.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=93)** Data operations, or DataOps, the ability to keep the databases working as expected.
+> **[1:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=93)** Data operations, or DataOps, the ability to keep the [[Databases]] working as expected.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=98)** Application operations, or AppOps, involves consistently operating the applications to meet the business's needs, and other ops, which needs to include edge computing, container operations, and website operations.
 >
@@ -1284,7 +1259,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=118)** We also need to understand operations well enough to select the correct monitoring and operations technologies.
 >
-> **[2:05](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=125)** This includes cloud ops tools, such as AIOps, or AI-enabled operation, which allows us to monitor the system that needs to be monitored and deploy self-healing functions to fix issues before they are known to the business, also leveraging AI capabilities to adjust how the systems operate automatically without humans being involved.
+> **[2:05](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=125)** This includes cloud ops tools, such as [[AIOps]], or AI-enabled operation, which allows us to monitor the system that needs to be monitored and deploy self-healing functions to fix issues before they are known to the business, also leveraging AI capabilities to adjust how the systems operate automatically without humans being involved.
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-cloudops-and-finops?u=76281980&t=144)** The truth is that most will judge the success of your cloud solution based on its long-term operations.
 >
@@ -1294,23 +1269,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (5), [[Security]] (2), ai (2), database (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1), [[Databases]] (1), [[AIOps]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - defining (1)
 
-#### Other services to consider
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980)
+#### [Other services to consider](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=0)** - Of course, new technologies are arising each year and how we understand the requirements correctly to make the proper design decisions means being open-minded about what technology you may be leveraging.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=14)** New paradigms, such as the rise of edge computing and IOT are examples of requirements cloud architects are dealing with now that were not dealt with 10 years ago.
+> **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=14)** New paradigms, such as the rise of edge computing and [[IoT]] are examples of requirements cloud architects are dealing with now that were not dealt with 10 years ago.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=25)** Other services include AI-based cloud services, serverless computing, containers and new trends that the cloud industry has yet to understand.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=25)** Other services include AI-based [[Cloud Services]], [[Serverless Computing]], containers and new trends that the cloud industry has yet to understand.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/other-services-to-consider?u=76281980&t=34)** The notions are the same.
 >
@@ -1326,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (2), [[IoT]] (1), ai (1), [[Serverless Computing]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Cloud Services]] (1), [[Serverless Computing]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iot (1)
@@ -1339,8 +1313,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Map requirements to storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980)
+#### [Map requirements to storage](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1329,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980&t=45)** So let's get into it.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980&t=46)** The core effort here is to translate the requirements into a cloud storage solution.
+> **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980&t=46)** The core effort here is to translate the requirements into a [[Cloud Storage]] solution.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980&t=52)** To do this, we'll look at the following attributes: capacity, or the gigabytes or terabytes needed to support production.
 >
@@ -1382,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), management (2), [[Security]] (2), business (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -1390,8 +1363,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - okay (1)
 
-#### Map requirements to compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980)
+#### [Map requirements to compute](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1387,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=83)** You need to find a cost effective balance.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=86)** You'll also need to identify what operating system or what operating systems are available from your cloud provider, such as different brands of Linux or Windows NT.
+> **[1:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=86)** You'll also need to identify what operating system or what operating systems are available from your cloud provider, such as different brands of [[Linux]] or [[Windows]] NT.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=98)** You'll need to plan for disaster recovery or how the compute platform will recover from issues, such as outages.
 >
@@ -1429,7 +1401,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=142)** Management of the compute platforms, including system maintenance or how the compute platform will be updated and fixed ongoing.
 >
-> **[2:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=152)** Configuration management, meaning that we're tracking the configuration of the platform ongoing, including any changes.
+> **[2:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=152)** [[Configuration Management]], meaning that we're tracking the configuration of the platform ongoing, including any changes.
 >
 > **[2:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-compute?u=76281980&t=160)** This allows us to fall back on previous configurations that are known to work.
 >
@@ -1447,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (3), management (2), business (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1), [[Configuration Management]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** cpu (1), amd (1)
@@ -1456,20 +1428,19 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Warnings:** keep in mind (1)
 
-#### Map requirements to databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980)
+#### [Map requirements to databases](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=0)** - [Instructor] Databases are a part of all cloud deployments, and they provide a structured way to store and access data from many connected applications.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=0)** - [Instructor] [[Databases]] are a part of all cloud deployments, and they provide a structured way to store and access data from many connected applications.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=10)** There are many types of databases, both native to a cloud provider and third party databases.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=15)** Sometimes there are traditional databases such as Oracle and DB2.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=20)** Sometimes there are open source databases such as MySQL, and sometimes there are databases you'll only find in specific cloud providers, such as AWS's DynamoDB.
+> **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=20)** Sometimes there are open source databases such as [[MySQL]], and sometimes there are databases you'll only find in specific cloud providers, such as AWS's DynamoDB.
 >
-> **[0:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=32)** Keep in mind that databases are cloud storage.
+> **[0:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=32)** Keep in mind that databases are [[Cloud Storage]].
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=36)** While all databases are different, many will have you also attach a raw storage system such as object storage to support the database's ability to store data in a more primitive format.
 >
@@ -1491,9 +1462,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=103)** The storage behind the scenes may differ even if the database models are the same.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=109)** There are dozens of database models out there, but the two that you'll see the most are relational, which is leveraged by all relational databases like Oracle and MySQL and Object-Based, which is leveraged by DynamoDB and is known to be more open and flexible.
+> **[1:49](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=109)** There are dozens of database models out there, but the two that you'll see the most are relational, which is leveraged by all [[Relational Databases]] like Oracle and MySQL and Object-Based, which is leveraged by DynamoDB and is known to be more open and flexible.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=129)** If you want to learn more about databases including database models, you may take a database course here on LinkedIn.
+> **[2:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=129)** If you want to learn more about databases including database models, you may take a database course here on [[LinkedIn]].
 >
 > **[2:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=138)** Next is database speed.
 >
@@ -1507,7 +1478,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=178)** Also, you want to determine if you need to do that in real time, meaning as the data is updated or near time, meaning once the data has existed within the database for some time.
 >
-> **[3:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=193)** And finally, database management or native management features.
+> **[3:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=193)** And finally, [[Database Management]] or native management features.
 >
 > **[3:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-databases?u=76281980&t=198)** If the features are native, it could mean having database operations tools provided by the database provider itself native to the specific cloud and to the particular database.
 >
@@ -1525,7 +1496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (28), data (17), [[Databases]] (14), cloud (5), management (4)
+> **Frameworks & Libraries:** [[Databases]] (14), [[MySQL]] (2), [[Database Management]] (2), [[Cloud Storage]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (4), mysql (2), aws (1), make (1)
 > **Analogies:** such as (5)
 > **Env Vars:** db2 (1), aws (1)
@@ -1534,8 +1505,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map to security and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980)
+#### [Map to security and governance](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=49)** Governance works in tandem with security, and that is why we deal with it at this planning stage.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=57)** Again, governance provides the ability to place limitations on how we deal with large and small resources, such as APIs and cloud storage.
+> **[0:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=57)** Again, governance provides the ability to place limitations on how we deal with large and small resources, such as APIs and [[Cloud Storage]].
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=68)** This allows us to deal with very powerful assets, such as sensitive data, like patient information, and ensure that we're not doing something to destroy or misuse those assets.
 >
@@ -1559,27 +1529,27 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=82)** Security, at its essence, is selecting the right security approach and technologies to meet the requirements that we previously created.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=92)** While we have a vast amount of methods and technology to consider with security, primarily, we're going to look at IAM, or identity and access management, which enables us to allow or disallow people, servers, databases, APIs, and other assets to access resources, such as storage, computing, and databases.
+> **[1:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=92)** While we have a vast amount of methods and technology to consider with security, primarily, we're going to look at IAM, or identity and access management, which enables us to allow or disallow people, servers, [[Databases]], APIs, and other assets to access resources, such as storage, computing, and databases.
 >
 > **[1:57](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=117)** Encryption allows you to scramble data that's stored.
 >
-> **[2:01](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=121)** At rest, being transmitted, or in flight, without specific keys, you can't see the data.
+> **[2:01](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=121)** At [[Representational State Transfer (REST)|rest]], being transmitted, or in flight, without specific keys, you can't see the data.
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=130)** Roles are the ability to manage users and even systems by assigning them a role.
 >
 > **[2:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=136)** This means that system administrator roles will have more privileges than a typical user, and so on.
 >
-> **[2:23](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=143)** In many instances, these are done within the public cloud security management tools, but they can also be leveraged for all systems, both cloud and non-cloud.
+> **[2:23](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=143)** In many instances, these are done within the public [[Cloud Security]] management tools, but they can also be leveraged for all systems, both cloud and non-cloud.
 >
 > **[2:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=155)** And directory integration, or where our identities or other data points are stored to drive IAM or other aspects of security.
 >
-> **[2:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=165)** Examples of directories that support IAM include Microsoft's Active Directory.
+> **[2:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=165)** Examples of directories that support IAM include [[Microsoft]]'s [[Active Directory]].
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=171)** Also, there is a need to integrate these directories so you don't have to access identity information more than once, or a single source of truth.
 >
 > **[3:01](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=181)** Governance, while similar to security, is about placing policies around the use of resources, such as applications, APIs, storage, compute, et cetera, both within and outside of public clouds.
 >
-> **[3:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=196)** While there are many types of governance, the core design decisions that you'll have to make will include service-based or controlled access to web services, APIs, microservices, and other services.
+> **[3:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=196)** While there are many types of governance, the core design decisions that you'll have to make will include service-based or controlled access to web services, APIs, [[Microservices]], and other services.
 >
 > **[3:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-security-and-governance?u=76281980&t=211)** Resource-based, such as storage, compute, databases, or anything larger that needs to be governed at a more coarse-grain level.
 >
@@ -1593,7 +1563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), cloud (6), data (4), management (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Cloud Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Security]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (8), similar to (1)
 > **Definitions:** refers to (2), means that (1), is a  (1), is an  (1)
 > **Env Vars:** iam (3), hipaa (1)
@@ -1601,8 +1571,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - of (1)
 
-#### Map to cloud operations (CloudOps)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980)
+#### [Map to cloud operations (CloudOps)](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,17 +1585,17 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=39)** Let's examine some categories of management and monitoring approaches, as well as tooling that you should consider for your design decisions.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=50)** Management includes configuration management or how we're going to track the current software and hardware configuration and manage changes that occur over time.
+> **[0:50](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=50)** Management includes [[Configuration Management]] or how we're going to track the current software and [[Hardware]] configuration and manage changes that occur over time.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=62)** Performance management, or how we're going to deal with performance issues such as working around growing databases, overloaded compute systems, or other issues that cause performance problems that need to be addressed.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=62)** Performance management, or how we're going to deal with performance issues such as working around growing [[Databases]], overloaded compute systems, or other issues that cause performance problems that need to be addressed.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=76)** Security management, or how we're going to operate our security solution.
+> **[1:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=76)** [[Security Management]], or how we're going to operate our security solution.
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=81)** For example, backing up our IAM directory systems automatically.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=87)** Application management, or how we're going to manage applications we've built and deployed.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=93)** And data management, or how we're going to manage the data storage systems, including backing them up, managing growth, and ensuring that they are interfacing correctly with other systems, such as security.
+> **[1:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=93)** And [[Data Management]], or how we're going to manage the [[Data Storage]] systems, including backing them up, managing growth, and ensuring that they are interfacing correctly with other systems, such as security.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-to-cloud-operations-cloudops?u=76281980&t=107)** Monitoring includes real time, meaning monitoring what's currently occurring within your running cloud solutions, such as watching systems running and alerting a human or an agentic system of a fix, event driven, or the ability to track events, such as batch updates or other things that occur as an event and is not ongoing, analytics, or the ability to find patterns in the operational data that may provide helpful information, such as a storage system that's ready to fail.
 >
@@ -1640,18 +1609,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), data (5), cloud (4), application (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Configuration Management]] (1), [[Hardware]] (1), [[Databases]] (1), [[Security Management]] (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - cloud (1)
 
-#### Map requirements to an AI solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980)
+#### [Map requirements to an AI solution](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=0)** - Mapping requirements for a cloud-based AI solution follows a similar process to that outlined in this course for storage, compute, and databases.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=0)** - Mapping requirements for a cloud-based AI solution follows a similar process to that outlined in this course for storage, compute, and [[Databases]].
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=11)** First, business requirements for the AI solution must be defined.
 >
@@ -1659,13 +1627,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=27)** Let's go back and unpack these one at a time.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=31)** Compute, determine the necessary CPU, memory, and operating systems such as GPU-optimized instances or deep learning and generative AI.
+> **[0:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=31)** Compute, determine the necessary CPU, memory, and operating systems such as GPU-optimized instances or [[Deep Learning]] and [[Generative AI]].
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=43)** Specify disaster recovery strategy, such as active-active and active-passive as covered in a previous video.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=51)** Also provide detailed application interfaces, or APIs, that are used to interact with the AI models.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=59)** Plan for the systems maintenance and configuration management.
+> **[0:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=59)** Plan for the systems maintenance and [[Configuration Management]].
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=64)** Implement robust security, including IAM and encryption.
 >
@@ -1681,9 +1649,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=112)** Consider database speed, such as the speed of data sent and returned from the database.
 >
-> **[1:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=119)** Also, consider analytics needs, such as real-time or near real-time, and management and security requirements.
+> **[1:59](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=119)** Also, consider analytics needs, such as [[Real-Time]] or near real-time, and management and security requirements.
 >
-> **[2:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=128)** CloudOps, define processes and tools for configuration, performance, security, application, and data management.
+> **[2:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=128)** CloudOps, define processes and tools for configuration, performance, security, application, and [[Data Management]].
 >
 > **[2:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=138)** Establish real-time, event-driven, and analytical monitoring approaches for the AI solution.
 >
@@ -1693,7 +1661,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=157)** Establish governance policies for service-based and resource-based access, compliance with relevant regulations, and directory integration for centralized identity management.
 >
-> **[2:47](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=167)** The specific security and governance mechanisms will depend on the sensitivity of the data and regulatory compliance requirements.
+> **[2:47](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=167)** The specific security and governance mechanisms will depend on the sensitivity of the data and [[Regulatory Compliance]] requirements.
 >
 > **[2:55](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-an-ai-solution?u=76281980&t=175)** Of course, there are many other things that you may have to consider that are outside of our discussion here.
 >
@@ -1705,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Security]] (7), data (6), database (5), [[Real-Time]] (3)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Databases]] (1), [[Deep Learning]] (1), [[Generative AI]] (1), [[Configuration Management]] (1)
 > **Analogies:** such as (6)
 > **Env Vars:** iam (3), cpu (1), gpu (1)
 > **Cross-References:** previous video (1)
@@ -1713,8 +1681,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - mapping (1)
 
-#### Making sense of it all
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980)
+#### [Making sense of it all](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,13 +1717,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980&t=101)** And cloud operations as a whole, meaning that all of what we just listed need to work ongoing, and we need to put in place the approaches and technology to do that.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980&t=114)** And finally, any other systems that you may need to deal with, such as AI machine learning, IoT, edge compute, serverless, and other systems that need their own special design decisions and operational activities and tooling.
+> **[1:54](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980&t=114)** And finally, any other systems that you may need to deal with, such as AI machine learning, [[IoT]], edge compute, serverless, and other systems that need their own special design decisions and operational activities and tooling.
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-sense-of-it-all?u=76281980&t=130)** It may seem like a lot, but if you understand what we're saying here holistically, you're able to make your own sound design decisions and support a successful cloud deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), business (2), data (2), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
@@ -1764,8 +1731,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - if (1)
 
-#### Challenge: Defining the cloud architecture requirements for ABC Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980)
+#### [Challenge: Defining the cloud architecture requirements for ABC Inc.](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,11 +1743,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=19)** They face challenges managing their increasing data volumes and diverse applications.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=25)** Current on-premise infrastructure is nearing capacity, needs more scalability, and struggles to meet regulatory compliance.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=25)** Current on-premise infrastructure is nearing capacity, needs more [[Scalability]], and struggles to meet [[Regulatory Compliance]].
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=35)** They need a flexible, scalable, and secure cloud solution to support their operations, including patient data management, electronic health records, telehealth applications, and advanced analytics.
+> **[0:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=35)** They need a flexible, scalable, and secure cloud solution to support their operations, including patient [[Data Management]], electronic health records, telehealth applications, and advanced analytics.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=48)** They lack a clear understanding of how to map their business requirements to specific cloud services and technologies.
+> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=48)** They lack a clear understanding of how to map their business requirements to specific [[Cloud Services]] and technologies.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/challenge-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=56)** They need your help.
 >
@@ -1795,14 +1761,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (2), [[Scalability]] (1), [[Regulatory Compliance]] (1), management (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Regulatory Compliance]] (1), [[Data Management]] (1), [[Cloud Services]] (1)
 > **Env Vars:** abc (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Defining the cloud architecture requirements for ABC Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980)
+#### [Solution: Defining the cloud architecture requirements for ABC Inc.](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1816,9 +1781,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=24)** Requirement gathering.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=25)** The architect meticulously documented ABC Incorporated's business needs, including data volume projections, application performance requirements, regulatory compliance mandates and security policies.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=25)** The architect meticulously documented ABC Incorporated's business needs, including data volume projections, application performance requirements, [[Regulatory Compliance]] mandates and security policies.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=40)** Mapping to cloud services.
+> **[0:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=40)** Mapping to [[Cloud Services]].
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=42)** The requirements were mapped to these specific cloud services.
 >
@@ -1830,19 +1795,19 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=64)** Storage, a hybrid storage solution combining object storage and block storage was chosen.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=72)** Capacity planning accounted for projected growth.
+> **[1:12](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=72)** [[Capacity Planning]] accounted for projected growth.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=76)** Encryption was implemented for data at rest and in transit.
+> **[1:16](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=76)** Encryption was implemented for data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=80)** Database.
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=82)** A HIPAA-compliant managed relational database service was selected for the EHR system, ensuring scalability and reliability.
+> **[1:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=82)** A HIPAA-compliant managed relational database service was selected for the EHR system, ensuring [[Scalability]] and reliability.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=91)** Data encryption and access controls were configured to meet regulatory requirements.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=96)** CloudOps.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=97)** A comprehensive CloudOps strategy was developed, encompassing automated configuration management, performance monitoring tools, and security management processes.
+> **[1:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=97)** A comprehensive CloudOps strategy was developed, encompassing automated [[Configuration Management]], performance monitoring tools, and [[Security Management]] processes.
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/solution-defining-the-cloud-architecture-requirements-for-abc-inc?u=76281980&t=108)** Security and governance.
 >
@@ -1860,7 +1825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), cloud (6), data (4), business (2), database (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Regulatory Compliance]] (1), [[Capacity Planning]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Scalability]] (1)
 > **Env Vars:** abc (3), ehr (2), hipaa (2), iam (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1870,8 +1835,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Performance management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980)
+#### [Performance management](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1911,9 +1875,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=134)** We all know this since we've all experienced poor internet connection with too low bandwidth.
 >
-> **[2:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=140)** In cloud computing, there is bandwidth within the cloud itself as its internal systems communicate.
+> **[2:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=140)** In [[Cloud Computing]], there is bandwidth within the cloud itself as its internal systems communicate.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=147)** Also, the bandwidth for external communications or how it communicates with those leveraging cloud services or applications over the open internet.
+> **[2:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=147)** Also, the bandwidth for external communications or how it communicates with those leveraging [[Cloud Services]] or applications over the open internet.
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=157)** Latency is the amount of time it takes for a packet of data to be captured, transmitted, processed through multiple devices, and then received at its destination.
 >
@@ -1929,7 +1893,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=215)** In the world of database performance, you'll hear the term response time as a core metric that determines database performance.
 >
-> **[3:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=224)** Of course, databases are complex technologies and there are many mechanisms to consider when determining your database's performance and fixing or tuning it to make it work faster.
+> **[3:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=224)** Of course, [[Databases]] are complex technologies and there are many mechanisms to consider when determining your database's performance and fixing or tuning it to make it work faster.
 >
 > **[3:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980&t=236)** Performance is a complex topic, and it's usually not considered until there are performance issues, such as users complaining about slow response time or customers using the website.
 >
@@ -1937,15 +1901,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), cloud (6), data (6), application (5), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (1), [[Databases]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - one (1)
 
-#### Proactive security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980)
+#### [Proactive security](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,13 +1922,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=36)** That's no longer acceptable.
 >
-> **[0:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=38)** Even though it's the way that many businesses currently deal with cloud security.
+> **[0:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=38)** Even though it's the way that many businesses currently deal with [[Cloud Security]].
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=44)** There are a few levels of proactive security that we can consider here, including data or the ability to gather over a prolonged period to determine trends that may indicate an attack is taking place, or other indications that something needs to be proactively protected.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=64)** Gathering data is really just that.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=67)** The ability to monitor aspects of your cloud computing architecture, such as network, compute, storage, or anything else that makes up your holistic system.
+> **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=67)** The ability to monitor aspects of your [[Cloud Computing]] architecture, such as network, compute, storage, or anything else that makes up your holistic system.
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/proactive-security?u=76281980&t=77)** The idea is to see as much as you can.
 >
@@ -1995,26 +1958,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), cloud (7), data (7)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Security]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - by (1)
 
-#### Serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980)
+#### [Serverless](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=0)** - Serverless computing is the ability to support the execution of an application or set of functions without selecting and configuring cloud resources such as storage, computing, et cetera.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=0)** - [[Serverless Computing]] is the ability to support the execution of an application or set of functions without selecting and configuring cloud resources such as storage, computing, et cetera.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=14)** It's a bit confusing considering that serverless does leverage cloud servers.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=20)** However, serverless systems, such as AWS Lambda or Microsoft Functions, don't require you to do the work to size the resources you need to run an application.
+> **[0:20](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=20)** However, serverless systems, such as AWS Lambda or [[Microsoft]] Functions, don't require you to do the work to size the resources you need to run an application.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=31)** The core advantages of leveraging serverless includes perform real-time data processing for many types of application use cases, build scalable back-end services that are able to provide self-scaling, and Glue and choreograph systems to integrate services, applications, and processes.
+> **[0:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=31)** The core advantages of leveraging serverless includes perform [[Real-Time]] [[Data Processing]] for many types of application use cases, build scalable back-end services that are able to provide self-scaling, and Glue and choreograph systems to integrate services, applications, and processes.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=53)** By this, I mean that we're able to leverage our serverless applications to control other applications, databases, or systems.
+> **[0:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=53)** By this, I mean that we're able to leverage our serverless applications to control other applications, [[Databases]], or systems.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/serverless?u=76281980&t=62)** The core advantage of serverless cloud-based systems is that they remove the need to select and configure the resources needed to run a process such as an application.
 >
@@ -2056,19 +2018,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), cloud (7), [[Serverless Computing]] (2), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (2), [[Microsoft]] (1), [[Real-Time]] (1), [[Data Processing]] (1), [[Databases]] (1)
 > **Analogies:** such as (5)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - serverless (1)
 
-#### Containers and container orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980)
+#### [Containers and container orchestration](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=0)** - [Instructor] Containers provide the ability to run software within an operating system, running on a public cloud, a platform space that can run its operating systems such as Linux, as well as applications, data storage, and anything else you would run on a platform.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=0)** - [Instructor] Containers provide the ability to run software within an operating system, running on a public cloud, a platform space that can run its operating systems such as [[Linux]], as well as applications, [[Data Storage]], and anything else you would run on a platform.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=18)** This allows us to isolate a platform application and data within another platform, either running on a public cloud or even on a traditional system.
 >
@@ -2082,7 +2043,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=55)** Using container cluster managers or container orchestration, we can automatically replicate containers across the platform or platforms, having them work together to support higher processing requirements.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=68)** While there are different orchestration solutions, Kubernetes is the most popular by far.
+> **[1:08](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=68)** While there are different orchestration solutions, [[Kubernetes]] is the most popular by far.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=73)** Containers can be considered both as a design decision that you make and how the application will be developed and deployed as well as a platform decision and how it will be operated longer term.
 >
@@ -2100,26 +2061,25 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=149)** Moreover, specialized skills will be needed for both growth and operations.
 >
-> **[2:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=154)** Containers and container orchestration will be a design decision that most cloud computing architects must make at some point.
+> **[2:34](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=154)** Containers and container orchestration will be a design decision that most [[Cloud Computing]] architects must make at some point.
 >
 > **[2:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/containers-and-container-orchestration?u=76281980&t=162)** What's key here is that you go into making this decision with all the facts, and again, use your requirements to guide you, not the hype around a specific technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (6), cloud (5), data (4), application (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Data Storage]] (1), [[Kubernetes]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT and edge computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980)
+#### [IoT and edge computing](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=0)** - IoT, or the Internet of Things, and edge computing are old concepts that have new names.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=0)** - [[IoT]], or the [[IoT|Internet of Things]], and edge computing are old concepts that have new names.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=7)** IoT is the ability to support remote devices such as thermostats in your home, fitness watches, phone, TVs, factory robots, or anything that provides its own processing and data storage away from the centralized server, mainly existing on public cloud platforms.
+> **[0:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=7)** IoT is the ability to support remote devices such as thermostats in your home, fitness watches, phone, TVs, factory robots, or anything that provides its own processing and [[Data Storage]] away from the centralized server, mainly existing on public cloud platforms.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=28)** Edge computing is related to IoT in that it involves supporting complete platforms, including compute, storage, and networking at the edge of a larger system or systems.
 >
@@ -2145,9 +2105,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=146)** Edge computing has some concepts that are starting to emerge that are beyond IoT devices, such as micro clouds.
 >
-> **[2:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=153)** Micro clouds, simply put, sometimes called edge clouds, are instances of public cloud services that run on-premises.
+> **[2:33](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=153)** Micro clouds, simply put, sometimes called edge clouds, are instances of public [[Cloud Services]] that run on-premises.
 >
-> **[2:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=162)** These include products such as Microsoft stack and AWS's Outposts.
+> **[2:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=162)** These include [[Microsoft Products|products]] such as [[Microsoft]] stack and AWS's Outposts.
 >
 > **[2:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=168)** These platforms support native cloud services such as storage and compute, or a subset of cloud services offered by a public cloud, but allow you to leverage them on-premises through a server and platform stack that a cloud provider offers.
 >
@@ -2155,25 +2115,24 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=202)** IoT and edge compute focus on the reality that sometimes processing and data storage must occur outside the public clouds.
 >
-> **[3:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=212)** Public cloud providers, including AWS, Microsoft, and Google, support the development and operations of IoT and edge-based systems.
+> **[3:32](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=212)** Public cloud providers, including AWS, Microsoft, and [[Google]], support the development and operations of IoT and edge-based systems.
 >
 > **[3:41](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/iot-and-edge-computing?u=76281980&t=221)** It's essential to understand what's available to you so you can make your best design decisions around using this technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[IoT]] (10), data (10), [[Microsoft]] (2), aws (2)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Data Storage]] (3), [[Cloud Services]] (3), [[Microsoft]] (2), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (2), aws (2)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - iot (1)
 
-#### Machine learning, generative AI, agentic AI, and deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980)
+#### [Machine learning, generative AI, agentic AI, and deep learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=0)** - Artificial intelligence or AI is the ability to leverage systems that can learn and thus provide intelligence that resembles human intelligence.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] or AI is the ability to leverage systems that can learn and thus provide intelligence that resembles human intelligence.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=10)** Machine learning or ML is a form of AI that allows a machine to learn and imitate human behavior.
 >
@@ -2189,13 +2148,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=64)** Keep in mind that ML is a form of AI.
 >
-> **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=67)** While AI is over 40 years old, the price of supporting traditional AI and the platform requirements in support of AI had a cost well out of reach of conventional businesses.
+> **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=67)** While AI is over 40 years old, the price of supporting [[Traditional AI]] and the platform requirements in support of AI had a cost well out of reach of conventional businesses.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=81)** There are other forms of AI as well, such as deep learning, which is a form of AI that can find deeper meaning of patterns such as data.
+> **[1:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=81)** There are other [[Forms]] of AI as well, such as [[Deep Learning]], which is a form of AI that can find deeper meaning of patterns such as data.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=91)** More forms of AI are being researched right now and the usefulness of this technology will only grow.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=98)** With the advent of cloud computing and on-demand pricing, the cost has come down 900%, and now ML is affordable for all businesses that need it.
+> **[1:38](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=98)** With the advent of [[Cloud Computing]] and on-demand pricing, the cost has come down 900%, and now ML is affordable for all businesses that need it.
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=110)** Thus, it's often applied when business applications need to make decisions based on a lot of data and have that data teach a knowledge engine, allowing it to determine patterns that may be within the data, much like we would do as humans looking at the data, still, ML can do this with a great deal more efficiency and also ongoing.
 >
@@ -2213,7 +2172,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=209)** In this case, ML.
 >
-> **[3:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=211)** Generative AI is a type of artificial intelligence that can create new content rather than just analyze or classify existing data.
+> **[3:31](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=211)** [[Generative AI]] is a type of artificial intelligence that can create new content rather than just analyze or classify existing data.
 >
 > **[3:40](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=220)** This content can take many forms including text, images, audio, video and even code.
 >
@@ -2221,7 +2180,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=235)** Generative AI models learn patterns from large data sets and then use this learned information to generate novel outputs that share similar characteristics with the training data.
 >
-> **[4:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=247)** These models are often based on deep learning architectures such as generative adversarial networks or GANs or transformers and require significant computational resources for training.
+> **[4:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=247)** These models are often based on deep learning architectures such as [[Generative Adversarial Networks (GANs)|generative adversarial networks]] or GANs or transformers and require significant computational resources for training.
 >
 > **[4:21](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=261)** Applications range from creating realistic images from text descriptions to composing music and generating creative text formats.
 >
@@ -2231,9 +2190,9 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=285)** They perceive, reason and act often leveraging machine learning to adapt and learn from their experiences.
 >
-> **[4:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=293)** This autonomy distinguishes them from simpler AI systems to build ag agentic AI, define clear goals and tasks, gather and prepare relevant data, design individual agents each using appropriate ML models, such as NLU, information retrieval and decision making.
+> **[4:53](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=293)** This autonomy distinguishes them from simpler AI systems to build ag agentic AI, define clear goals and tasks, gather and prepare relevant data, design individual agents each using appropriate ML models, such as NLU, [[Information Retrieval]] and decision making.
 >
-> **[5:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=313)** Orchestrate agent collaboration, implement continuous learning, deploy to the cloud using the appropriate services such as compute, storage and databases.
+> **[5:13](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=313)** Orchestrate agent collaboration, implement continuous learning, deploy to the cloud using the appropriate services such as compute, storage and [[Databases]].
 >
 > **[5:24](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/machine-learning-generative-ai-agentic-ai-and-deep-learning?u=76281980&t=324)** Establish monitoring and robust security governance.
 >
@@ -2245,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (13), business (5), cloud (5), [[Generative AI]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Forms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Deep Learning]] (2), [[Traditional AI]] (1)
 > **Definitions:** is a  (5), is an  (1), refers to (1)
 > **Analogies:** such as (7)
 > **CLI Commands:** make (2), find (1)
@@ -2253,26 +2212,25 @@ created: 2026-05-02
 > **Env Vars:** nlu (1)
 > **Speakers:** - artificial (1)
 
-#### Multi-cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980)
+#### [Multi-cloud](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=0)** - About 95% of cloud deployments out there are considered to be multi-cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=6)** While multi-cloud is often defined as two or more public cloud providers, it includes legacy or traditional systems, private clouds, and IOT and edge based systems.
+> **[0:06](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=6)** While multi-cloud is often defined as two or more public cloud providers, it includes legacy or traditional systems, [[Private Clouds]], and [[IoT]] and edge based systems.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=17)** Multi-cloud is a term for complex distributed systems with significant heterogeneity, which is what multi-clouds are.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=25)** The reason that enterprises leverage multi-cloud as a design decision include the need to support best of breed technology means picking the best solution from each public cloud provider to support the business requirements.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=39)** The need to select cloud providers with the best pricing for core services such as compute, storage, databases, et cetera.
+> **[0:39](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=39)** The need to select cloud providers with the best pricing for core services such as compute, storage, [[Databases]], et cetera.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=48)** There is a need to support business events such as acquisitions where cloud providers must be combined to support the combined business.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=56)** Those dealing with multi-cloud deployment immediately noticed that their result in significant complexity and heterogeneity.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=64)** Indeed, instead of dealing with approximately 700 cloud services when leveraging a single cloud provider such as AWS, based on the number of services leveraged by the business and the business applications, we are now dealing with approximately 1800 cloud services with the addition of Google and Microsoft.
+> **[1:04](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=64)** Indeed, instead of dealing with approximately 700 [[Cloud Services]] when leveraging a single cloud provider such as AWS, based on the number of services leveraged by the business and the business applications, we are now dealing with approximately 1800 cloud services with the addition of [[Google]] and [[Microsoft]].
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/multi-cloud?u=76281980&t=85)** What's more we need to deal with the complexity brought on by using multi-cloud through abstraction and automation layers.
 >
@@ -2288,7 +2246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), business (7), [[Private Clouds]] (1), [[IoT]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (4), [[Private Clouds]] (1), [[IoT]] (1), [[Databases]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** iot (1), aws (1)
@@ -2296,8 +2254,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - about (1)
 
-#### Low-code and no-code
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980)
+#### [Low-code and no-code](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,7 +2266,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980&t=22)** And since many are cloud deployed, they cost very little.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980&t=27)** As you can see from these examples of low-code development tools, they use graphical interfaces, allowing non-programmers to draw out how the programs should work, access databases, and provide very complex processing.
+> **[0:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980&t=27)** As you can see from these examples of low-code development tools, they use graphical interfaces, allowing non-programmers to draw out how the programs should work, access [[Databases]], and provide very complex processing.
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/low-code-and-no-code?u=76281980&t=42)** Those who are not programmers can create compelling applications that they can define and change to meet the business's specific needs.
 >
@@ -2321,20 +2278,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Programming]] (1), [[Databases]] (1), business (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - low (1)
 
-#### Emerging technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980)
+#### [Emerging technology](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=0)** - No one can predict what's next in terms of the evolution of cloud computing, or know what other design decisions you'll need to make within just a few years.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=0)** - No one can predict what's next in terms of the evolution of [[Cloud Computing]], or know what other design decisions you'll need to make within just a few years.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=9)** However, we can name some ideas that seem to be emerging now or will soon, which may allow you to track them more closely.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=18)** While DevOps is not new, the technology emerging in this space will likely affect how you choose technology in the future.
+> **[0:18](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=18)** While [[DevOps]] is not new, the technology emerging in this space will likely affect how you choose technology in the future.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=27)** DevOps allows you to continuously build and deploy applications, providing faster development, testing and deployment than we did in the past.
 >
@@ -2342,9 +2298,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=46)** Serverless is everything.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=48)** As serverless becomes the preferred way to build and deploy systems, we'll likely see more serverless approaches to building and developing databases, containers, container orchestration, and even defining operations and security.
+> **[0:48](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=48)** As serverless becomes the preferred way to build and deploy systems, we'll likely see more serverless approaches to building and developing [[Databases]], containers, container orchestration, and even defining operations and security.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=62)** Ease of use and scalability are the primary drivers here.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=62)** Ease of use and [[Scalability]] are the primary drivers here.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/emerging-technology?u=76281980&t=67)** Democratization of technology.
 >
@@ -2374,7 +2330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), cloud (2), [[DevOps]] (2), data (2)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Computing]] (1), [[Databases]] (1), [[Scalability]] (1)
 > **Prerequisites:** you'll need (1), required to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
@@ -2386,14 +2342,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to stay state of the art
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980)
+#### [Learn to stay state of the art](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980&t=0)** - So where do you go from here?
 >
-> **[0:03](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980&t=3)** Given that this course provides a starting point for experiencing cloud computing architecture and making your own design decisions, I recommend that you just attempt to work as a cloud architect.
+> **[0:03](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980&t=3)** Given that this course provides a starting point for experiencing [[Cloud Computing]] architecture and making your own design decisions, I recommend that you just attempt to work as a cloud architect.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980&t=14)** There are many ways to do this.
 >
@@ -2417,7 +2372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Search]] (1), career (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

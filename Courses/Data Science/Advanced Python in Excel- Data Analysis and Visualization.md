@@ -85,18 +85,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do more with data using Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
+#### [Do more with data using Python in Excel](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=0)** - Have you ever found yourself limited by Excel's built-in functionalities when trying to analyze complex data sets?
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=0)** - Have you ever found yourself limited by [[Microsoft Excel|Excel]]'s built-in functionalities when trying to analyze complex data sets?
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=7)** Do you wish you could automate repetitive tasks and create more advanced visualizations?
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=12)** In this course, you'll discover how to leverage Python's powerful libraries for data analysis right from your familiar Excel environment, transforming raw data into meaningful insights and stunning visualizations.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=12)** In this course, you'll discover how to leverage [[Python (Programming Language)|Python]]'s powerful libraries for data analysis right from your familiar Excel environment, transforming raw data into meaningful insights and stunning visualizations.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=25)** Python's integration with Excel brings a new dimension of functionality, allowing for more advanced data manipulation, automation, and visualization than ever before.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=25)** Python's integration with Excel brings a new dimension of functionality, allowing for more advanced [[Data Manipulation]], automation, and visualization than ever before.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980&t=35)** My name is Sarah Om, and I have over 10 years of experience working with data, leveraging various tools like Python and Excel.
 >
@@ -104,25 +103,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Python (Programming Language)|Python]] (4), [[Data Manipulation]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (4), [[Data Manipulation]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - have (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=0)** - Before getting started, I recommend a quick refresher on the basics of Python and Excel and having your environment set up with the Python formula feature enabled.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=0)** - Before getting started, I recommend a quick refresher on the basics of [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] and having your environment set up with the Python formula feature enabled.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=10)** As a part of this course, you'll be asked to complete a capstone project.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=10)** As a part of this course, you'll be asked to complete a [[Capstone]] project.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=15)** I'll provide guideposts and suggestions along the way on how you can apply the knowledge you've gained in each chapter.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=22)** By the end, you should have a project worth showcasing that contains all of the skills that you've learned.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=28)** You can find more details about the capstone project and access the dataset on the GitHub repo.
+> **[0:28](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=28)** You can find more details about the capstone project and access the dataset on the [[GitHub]] repo.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/what-you-should-know?u=76281980&t=34)** You can fork the repo and upload your work directly to your personal repository.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Capstone]] (2), [[Microsoft Excel|Excel]] (1), feature (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Capstone]] (2), [[Microsoft Excel|Excel]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Prerequisites:** getting started (1), set up (1)
 > **Tools:** github (1)
@@ -144,8 +142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data used in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
+#### [Data used in this course](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980&t=9)** This dataset contains incidents of crime dating back to 2020.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980&t=14)** I have made some minor adjustments to the dataset, including dropping and modifying some of the variables to meet LinkedIn content rules and regulations.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980&t=14)** I have made some minor adjustments to the dataset, including dropping and modifying some of the variables to meet [[LinkedIn]] content rules and regulations.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980&t=23)** Additionally, to help the code run quicker, I have sampled the dataset to 5% of the original.
 >
@@ -173,18 +170,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **URLs:** [lacity.org](https://lacity.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data preparation for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980)
+#### [Data preparation for analysis](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=0)** - [Instructor] Let's dive into the dataset to understand where the data might need cleaning or transformation.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=6)** If you'd like to learn more about the importance of data prep, cleaning, and domain knowledge prior to analysis, you can refer to my course, "[[Python for Data Analysis- Solve Real-World Challenges]]."
+> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=6)** If you'd like to learn more about the importance of data prep, cleaning, and domain knowledge prior to analysis, you can refer to my course, "[[[[Python (Programming Language)|Python]] for Data Analysis- Solve Real-World Challenges]]."
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=18)** Let's begin by creating a new sheet and label it Initial Data Checks.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=60)** This looks right.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=62)** In the following cell, we'll open up another Python cell and type in data.shape, and return the output as an Excel value.
+> **[1:02](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=62)** In the following cell, we'll open up another Python cell and type in data.shape, and return the output as an [[Microsoft Excel|Excel]] value.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=73)** Now, let's check for missing values.
 >
@@ -256,13 +252,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (4), make (1)
 > **Cross-References:** go back to (1), later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Augment data: Turn trends into insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980)
+#### [Augment data: Turn trends into insights](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=10)** In a couple lines of code, we can pivot and plot.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=16)** We'll return an Excel output and also expand.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=16)** We'll return an [[Microsoft Excel|Excel]] output and also expand.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=23)** We are seeing a jump in 2022, and we might be interested to understand why crime in LA has gone up so much since the pandemic.
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=115)** Let's bring the point home by adding in a visualization of what we just found.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=120)** We can choose to add in another Python chart or leverage Excel here.
+> **[2:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=120)** We can choose to add in another [[Python (Programming Language)|Python]] chart or leverage Excel here.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/augment-data-turn-trends-into-insights?u=76281980&t=125)** Let's do the latter, since simple charts can easily be produced in Excel.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** covid (1), sumif (1)
 > **Cross-References:** in the last (1)
@@ -339,12 +334,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
+#### [Natural language processing](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=0)** - [Instructor] In this video, we will highlight some of the power of Python in Excel, leaning on Python's text analysis capabilities, though we will barely scrape the surface as Python has some very powerful libraries and capabilities.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=0)** - [Instructor] In this video, we will highlight some of the power of [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]], leaning on Python's text analysis capabilities, though we will barely scrape the surface as Python has some very powerful libraries and capabilities.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=15)** We will start with segmenting the incident descriptions into different categories based on themes.
 >
@@ -372,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=120)** Once it's complete, we can hover over our data frame to ensure that the categories have been reflected appropriately.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=130)** Python has some very powerful natural language processing libraries that allow us to apply many advanced techniques such as NLTK, Spacey, Gensim, and others.
+> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=130)** Python has some very powerful [[Natural Language Processing (NLP)|natural language processing]] libraries that allow us to apply many advanced techniques such as NLTK, Spacey, Gensim, and others.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=141)** Some common steps in natural language processing that we can apply here are tokenization, which refers to the breaking up of a sentence into words or a paragraph into sentences.
 >
@@ -382,11 +376,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=170)** Lastly, lemmatization.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=172)** This is like finding the root form of a word.
+> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=172)** This is like finding the root form of a [[Microsoft Word|word]].
 >
 > **[2:55](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=175)** For example, walking, walks or walked all come from the root word walk.
 >
-> **[3:01](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=181)** Lemmatizing a word means converting it into its base or root form so that different forms of the same word are treated as one, which can be helpful for text analysis.
+> **[3:01](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=181)** Lemmatizing a word means converting it into its base or root form so that different [[Forms]] of the same word are treated as one, which can be helpful for text analysis.
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980&t=192)** Since the current version of Python in Excel doesn't allow you to download the data sets generally required by NLTK, I'm sharing some example code that could be used for text analysis once NLTK is supported.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (4), [[Microsoft Excel|Excel]] (3), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (4), [[Microsoft Excel|Excel]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Forms]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Env Vars:** nltk (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -402,8 +396,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python or Excel?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980)
+#### [Python or Excel?](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980&t=4)** There will be various types of visuals we can produce and at every step we'll have options on which tool to leverage.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980&t=11)** Excel has extensive visualization capabilities, while Python offers visualization libraries that allow us to customize nearly every detail in a chart.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980&t=11)** [[Microsoft Excel|Excel]] has extensive visualization capabilities, while [[Python (Programming Language)|Python]] offers visualization libraries that allow us to customize nearly every detail in a chart.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/python-or-excel?u=76281980&t=23)** So you'll always have the option to move back and forth between different tools and as Python capabilities within Excel expand, you'll have even more flexibility with tools like Plotly, geo-plotting, and other advanced visualization techniques.
 >
@@ -421,17 +414,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [presenter] (1)
 
-#### Visualize trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/visualize-trends?u=76281980)
+#### [Visualize trends](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/visualize-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/visualize-trends?u=76281980&t=0)** - Let's apply what we've learned in the prior video to make some decisions on Python or Excel, given various charts we'd like to plot.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/visualize-trends?u=76281980&t=0)** - Let's apply what we've learned in the prior video to make some decisions on [[Python (Programming Language)|Python]] or [[Microsoft Excel|Excel]], given various charts we'd like to plot.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/visualize-trends?u=76281980&t=8)** For example, if we're interested in visualizing reported incidents by category over time, we have a couple of options.
 >
@@ -485,19 +477,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3), data (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** right-click (2), toggle (1)
 > **Env Vars:** occ (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Final project: Step 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980)
+#### [Final project: Step 1](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=0)** - At this point in the course, we have learned some best practices for leveraging Python and Excel, we've gotten some exposure to different Python libraries supported in the current release, and developed some meaningful insights as a part of our learning journey.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=0)** - At this point in the course, we have learned some best practices for leveraging [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]], we've gotten some exposure to different Python libraries supported in the current release, and developed some meaningful insights as a part of our learning journey.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=15)** Let's keep this going and put what we've learned to the test.
 >
@@ -507,13 +498,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=31)** You may be surprised at what you find in such a simple data set.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=35)** And as you work through this first step of the capstone, I encourage you to always focus on the insights being generated from the outputs you're aiming to develop.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=35)** And as you work through this first step of the [[Capstone]], I encourage you to always focus on the insights being generated from the outputs you're aiming to develop.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-1?u=76281980&t=46)** Happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), [[Capstone]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), [[Capstone]] (1)
 > **CLI Commands:** python (2), find (2)
 > **Speakers:** - at (1)
 
@@ -522,14 +513,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive tools: Shaping future strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
+#### [Predictive tools: Shaping future strategies](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=0)** - Predictions are the bedrock of our expectations for the future, forming the basis for strategic decision-making and risk management.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=0)** - Predictions are the bedrock of our expectations for the future, forming the basis for strategic [[Decision-Making]] and risk management.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=8)** Through forecasting techniques, we can glean insights from historical data to anticipate trends and plan accordingly.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=8)** Through [[Forecasting]] techniques, we can glean insights from historical data to anticipate trends and plan accordingly.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=15)** Moreover, outlier detection mechanisms act as our early warning systems highlighting potential disruptions or opportunities that require immediate attention.
 >
@@ -541,9 +531,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=41)** We have qualitative forecasting.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=43)** These are based on expert opinions, surveys, or market research, and are usually useful when historical data is scarce or when there's significant qualitative factors at play.
+> **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=43)** These are based on expert opinions, surveys, or [[Market Research]], and are usually useful when historical data is scarce or when there's significant qualitative factors at play.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=55)** We have time series analysis, which analyzes past data to make future predictions.
+> **[0:55](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=55)** We have [[Time Series Analysis]], which analyzes past data to make future predictions.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980&t=60)** We have methods like moving averages, exponential smoothing, and ARIMA.
 >
@@ -559,15 +549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forecasting]] (3), next (2), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Decision-Making]] (1), [[Market Research]] (1), [[Time Series Analysis]] (1)
 > **Env Vars:** arima (3)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
 > **Speakers:** - predictions (1)
 
-#### ARIMA
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980)
+#### [ARIMA](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,13 +570,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=31)** The MA stands for moving average, which helps smooth out random fluctuations in the data.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=37)** Thankfully, one of Python for Excel's out of the box libraries, Stats Model, supports ARIMA modeling.
+> **[0:37](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=37)** Thankfully, one of [[Python (Programming Language)|Python]] for [[Microsoft Excel|Excel]]'s out of the box libraries, Stats Model, supports ARIMA modeling.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=45)** To set up our model predictions, we'll first need to define the data parameters and look forward time horizon.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=51)** For our parameters, we can use some base assumptions so we can always adjust or adapt later.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=58)** If you'd like to learn more about ARIMA modeling and tuning, you can refer to the Data Science Foundation's Data Mining and Python course.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=58)** If you'd like to learn more about ARIMA modeling and tuning, you can refer to the [[Data Science]] Foundation's [[Data Mining]] and Python course.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/arima?u=76281980&t=66)** Here we'll define our inputs as 1 1 0 and use a time horizon of 14 days.
 >
@@ -619,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1), [[Data Science]] (1), [[Data Mining]] (1)
 > **Env Vars:** arima (6)
 > **Definitions:** stands for (3), is a  (1), refers to (1)
 > **CLI Commands:** python (2), make (1)
@@ -628,8 +617,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980)
+#### [Advanced visualizations](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -639,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=18)** Let's work to pull it all together in a new predictions tab.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=23)** We'll open up a Python cell and our goal here is to develop a dataframe that allows us to see our historical data along with our predictions.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=23)** We'll open up a [[Python (Programming Language)|Python]] cell and our goal here is to develop a dataframe that allows us to see our historical data along with our predictions.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=33)** To do this, we'll add another column representing the ARIMA prediction that doesn't apply to our historicals, but we will need to union the dataframe later.
 >
@@ -647,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=53)** And lastly, we'll union them together.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=63)** Let's take a look at our Python dataframe as an Excel output.
+> **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=63)** Let's take a look at our Python dataframe as an [[Microsoft Excel|Excel]] output.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/advanced-visualizations?u=76281980&t=69)** Great.
 >
@@ -681,21 +669,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** arima (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outlier detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980)
+#### [Outlier detection](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=0)** - Isolation Forest is a machine learning algorithm designed for anomaly detection.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=5)** It works by isolating anomalies, or outliers, within a dataset by constructing a forest of decision trees.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=5)** It works by isolating anomalies, or outliers, within a dataset by constructing a forest of [[Decision Trees]].
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=13)** Unlike traditional methods that rely on normal data points being densely packed together, the Isolation Forest focuses on isolating anomalies that are few in number and differ significantly from the majority of data points.
 >
@@ -767,7 +754,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=330)** At this point, we have everything we need to plot our trend along with the outlier labels.
 >
-> **[5:35](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=335)** This is yet another chart that is much easier to produce in Python, so let's use Seaborn plotting for this.
+> **[5:35](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=335)** This is yet another chart that is much easier to produce in [[Python (Programming Language)|Python]], so let's use Seaborn plotting for this.
 >
 > **[5:41](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/outlier-detection?u=76281980&t=341)** We'll go over to our predictions tab and start our plotting.
 >
@@ -781,14 +768,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (3), [[Decision Trees]] (1), [[Automation]] (1), application (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - isolation (1)
 
-#### Final project: Step 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-2?u=76281980)
+#### [Final project: Step 2](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +786,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - with (1)
 
@@ -809,14 +794,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an effective dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
+#### [Build an effective dashboard](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980&t=0)** - Dashboards are essential tools that provide visual representations of complex data, and when done well, they can be actionable at any level in an organization.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980&t=0)** - [[Dashboards]] are essential tools that provide visual representations of complex data, and when done well, they can be actionable at any level in an organization.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980&t=11)** At the heart, they enable closer to real-time monitoring compared to ad hoc or one-off analysis and can help centralize information.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980&t=11)** At the heart, they enable closer to [[Real-Time]] monitoring compared to ad hoc or one-off analysis and can help centralize information.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980&t=20)** They can also offer customizable features and interactivity for in-depth exploration and more of a self-serve style of consumption for end users.
 >
@@ -854,13 +838,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Dashboards]] (1), [[Real-Time]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Real-Time]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - dashboards (1)
 
-#### Build an effective dashboard: Apply your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980)
+#### [Build an effective dashboard: Apply your skills](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980&t=132)** These numbers are pretty straightforward to calculate by leveraging the date frames we created in the data prep file, so I'll go ahead and add them now.
 >
-> **[2:24](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980&t=144)** Also, make sure that we're returning Excel values.
+> **[2:24](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980&t=144)** Also, make sure that we're returning [[Microsoft Excel|Excel]] values.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard-apply-your-skills?u=76281980&t=150)** I'll do some simple formatting here.
 >
@@ -920,12 +903,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [presenter] (1)
 
-#### Final project: Step 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-3?u=76281980)
+#### [Final project: Step 3](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/capstone-step-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,7 +925,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - from (1)
 
@@ -952,8 +933,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project walk-through
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
+#### [Final project walk-through](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=43)** I will start by adapting the dashboard we created earlier to allow for filtering by area.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=48)** Our dataset is too small by area, especially for forecasting purposes.
+> **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=48)** Our dataset is too small by area, especially for [[Forecasting]] purposes.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=53)** So actually what we might be interested in is broadening our cities into LA neighborhoods.
 >
@@ -1013,11 +993,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=232)** This dashboard can now be leveraged by someone in the community to understand general trends in their areas, how their city is doing compared to others in the area, and if there are any types of crime that are on the rise or decline.
 >
-> **[4:05](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=245)** Of course, this is just the tip of the iceberg of what you can develop with the data set, and I'm excited to see what you all create as a part of this capstone project.
+> **[4:05](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980&t=245)** Of course, this is just the tip of the iceberg of what you can develop with the data set, and I'm excited to see what you all create as a part of this [[Capstone]] project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Forecasting]] (1), [[Capstone]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Capstone]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -1027,24 +1007,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=0)** - Congratulations, you've made it to the end of the course, and we've covered a lot of ground.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=6)** If you have additional questions, you can reach out and connect with me directly on LinkedIn.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=6)** If you have additional questions, you can reach out and connect with me directly on [[LinkedIn]].
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=11)** And finally, you can extend your knowledge even more by monitoring the LinkedIn Learning Library for Python specific content.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=11)** And finally, you can extend your knowledge even more by monitoring the LinkedIn Learning Library for [[Python (Programming Language)|Python]] specific content.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=19)** Thanks for joining me, and I look forward to seeing what you create in your capstone projects.
+> **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=19)** Thanks for joining me, and I look forward to seeing what you create in your [[Capstone]] projects.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980&t=23)** See you in my next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Capstone]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Capstone]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - congratulations (1)
 

@@ -50,8 +50,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying the improvement kata
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)
+#### [Deploying the improvement kata](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,9 +124,9 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=222)** And then together define some interesting target conditions that you can work towards.
 >
-> **[3:47](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=227)** It's really important to define success before you start to run these kata cycles to provide you with accountability and a feedback mechanism to understand if you're moving towards your desired direction.
+> **[3:47](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=227)** It's really important to define success before you start to run these kata cycles to provide you with [[Accountability]] and a feedback mechanism to understand if you're moving towards your desired direction.
 >
-> **[3:58](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=238)** We really encourage you to familiarize yourself with this model as we'll be using it not only in product development, but also process improvement models and governance risk and compliance attempts in other modules.
+> **[3:58](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=238)** We really encourage you to familiarize yourself with this model as we'll be using it not only in [[Product Development]], but also process improvement models and governance risk and compliance attempts in other modules.
 >
 > **[4:15](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980&t=255)** Why don't you get a cross-functional team together and discuss one of the challenges you're trying to solve now in your team?
 >
@@ -147,15 +146,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), teams (3), product (3), functional (2), leadership (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Product Development]] (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
-#### Leading transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980)
+#### [Leading transformation](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=106)** It actually becomes change fatigue for those involved, both leading the organization and those who have to participate in it.
 >
-> **[1:53](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=113)** One of the things that was different about what John Shook noticed when he went to spend time in Toyota was change wasn't an event.
+> **[1:53](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=113)** One of the things that was different about what [[John the Ripper|John]] Shook noticed when he went to spend time in Toyota was change wasn't an event.
 >
 > **[2:00](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=120)** Change always happened.
 >
@@ -213,9 +211,9 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=135)** It's about changing how people behave.
 >
-> **[2:18](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=138)** So often we see teams lock people away in a room for maybe one or two days and maybe hand out certificates at the end of the day to say that you're now agile.
+> **[2:18](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=138)** So often we see teams lock people away in a room for maybe one or two days and maybe hand out certificates at the end of the day to say that you're now [[Agile Development|agile]].
 >
-> **[2:27](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=147)** You're now DevOps.
+> **[2:27](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=147)** You're now [[DevOps]].
 >
 > **[2:28](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/leading-transformation?u=76281980&t=148)** You've now changed.
 >
@@ -319,15 +317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), business (3), teams (3), [[Agile Development|Agile]] (2), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[John the Ripper|John]] (1), [[DevOps]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** cxo (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - every (1)
 
-#### Running and scaling transformation initiatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980)
+#### [Running and scaling transformation initiatives](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=111)** This again plays to the idea of just defining why these initiatives are important and what it is to be achieved and then trusting your team to figure out how to get there.
 >
-> **[2:01](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=121)** When we start to think about where we're going to make this intervention, this is where understanding the end-to-end flow of our systems of work or our products, all the different products and people involved in that.
+> **[2:01](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=121)** When we start to think about where we're going to make this intervention, this is where understanding the end-to-end flow of our systems of work or our [[Microsoft Products|products]], all the different products and people involved in that.
 >
 > **[2:15](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=135)** Who are the different stakeholders?
 >
@@ -395,7 +392,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=230)** This is what we call catchball, leadership defining what we want to work on and teams sharing how they will get there and the results of the how.
 >
-> **[3:59](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=239)** By creating this collaborative environment and cross-team collaboration at all levels of the organization, we start to create these virtuous feedback loops as information moves up and down the entire organization.
+> **[3:59](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=239)** By creating this collaborative environment and [[Cross-team Collaboration]] at all levels of the organization, we start to create these virtuous feedback loops as information moves up and down the entire organization.
 >
 > **[4:13](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/running-and-scaling-transformation-initiatives?u=76281980&t=253)** Here's so examples of what these meet sessions look like.
 >
@@ -451,15 +448,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (6), teams (5), [[Microsoft Products|Products]] (4), next (3), business (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Cross-team Collaboration]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** abc (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - one (1)
 
-#### Ten principles for business transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/ten-principles-for-business-transformation?u=76281980)
+#### [Ten principles for business transformation](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/ten-principles-for-business-transformation?u=76281980)
 
 
 ## Instructor

@@ -91,24 +91,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing to make sure your website is safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
+#### [Testing to make sure your website is safe](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=0)** - [Malcolm] The web is an essential service providing easy access to information anywhere, anytime.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=7)** Businesses communicate with their customers through the web, governments communicate with citizens through the web, and we all use the web for e-commerce services, such as online banking and shopping.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=7)** Businesses communicate with their customers through the web, governments communicate with citizens through the web, and we all use the web for [[E-Commerce]] services, such as online [[Banking]] and shopping.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=18)** Web services are accessible remotely, and this puts them at high risk of cyber attack.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=25)** I'm Malcolm Shore and I've spent a career helping governments and businesses protect their systems against cyber attacks.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=32)** In this LinkedIn Learning course, I'll start by explaining web protocols and the basics of web design.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=32)** In this [[LinkedIn]] Learning course, I'll start by explaining web protocols and the basics of [[Web Design]].
 >
-> **[0:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=39)** And I'll look at the OWASP top 10 web vulnerabilities.
+> **[0:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=39)** And I'll look at the [[OWASP]] top 10 web vulnerabilities.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=43)** I'll demonstrate some of the popular tools available to do web testing, including Burp Suite, ZAP and WebScarab.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=43)** I'll demonstrate some of the popular tools available to do web testing, including [[Burp Suite]], ZAP and WebScarab.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=51)** And I'll show you how to use these to scan websites and run as web proxies.
 >
@@ -116,45 +115,43 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=61)** When you finish this course, you'll have a great understanding of how to test for website weaknesses.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=66)** Now, let's get started learning about hacking web servers and web applications.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980&t=66)** Now, let's get started learning about hacking [[Web Servers]] and web applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[E-Commerce]] (1), [[Banking]] (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Banking]] (1), [[LinkedIn]] (1), [[Web Design]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1), zap (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course, and during this course, I'll be using a virtualized environment called VirtualBox.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=6)** I'll also be using a number of tools, many of which are in the Kali Linux system.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=6)** I'll also be using a number of tools, many of which are in the [[Kali Linux]] system.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=11)** If you're not familiar with Kali and virtualization, you should watch my Introduction to Kali Linux course which will guide you through installing and using this testing environment.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=21)** I'll be assuming that you understand the basics of networking, are familiar with Windows and Linux, and have a working knowledge of how websites work.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=21)** I'll be assuming that you understand the basics of networking, are familiar with [[Windows]] and [[Linux]], and have a working knowledge of how websites work.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=29)** It would also be useful to be able to script HTML and PHP.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/what-you-should-know?u=76281980&t=29)** It would also be useful to be able to script [[HTML]] and [[PHP]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Windows]] (1), [[Linux]] (1), [[HTML]] (1), [[PHP]] (1)
 > **Env Vars:** html (1), php (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of ethical hacking courses, and in addition to Kali Linux it uses some third-party testing software.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of [[Ethical Hacking]] courses, and in addition to [[Kali Linux]] it uses some third-party testing software.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/disclaimer?u=76281980&t=7)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these site might not be compromised when you visit them.
 >
@@ -182,12 +179,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elements of web-based applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
+#### [Elements of web-based applications](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=0)** - [Instructor] A web application is built using HTML and script code running on a web server that offers an HTTP or HTTPS protocol access, the more recent WS and WSS web socket protocols, or the experimental QUIC protocol.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=0)** - [Instructor] A web application is built using [[HTML]] and script code running on a web server that offers an HTTP or HTTPS protocol access, the more recent WS and WSS web socket protocols, or the experimental QUIC protocol.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=16)** It will likely use a back-end database server or some form of flat file for content.
 >
@@ -207,9 +203,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=73)** And enables the proxy to monitor for data loss as well as blacklisting dangerous Internet sites.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=79)** A reverse proxy acts as a means of controlling external Internet users connecting in through the corporate perimeter to an internal web server, and allows incoming traffic to be monitored for malicious content such as SQL injection, or support load sharing to an internal website farm.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=79)** A reverse proxy acts as a means of controlling external Internet users connecting in through the corporate perimeter to an internal web server, and allows incoming traffic to be monitored for malicious content such as [[SQL]] injection, or support load sharing to an internal website farm.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=95)** Early web applications tended to be mainly written on the server side with forms being used to request data.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=95)** Early web applications tended to be mainly written on the server side with [[Forms]] being used to request data.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=103)** Nowadays much of the code is client-side, often supported with client-side data stores.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=126)** The model defines the data structure, and uses back-end systems such as SQLite.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=131)** The view is the user interface implemented perhaps with HTML, CSS, and JavaScript.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=131)** The view is the user interface implemented perhaps with HTML, CSS, and [[JavaScript]].
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=138)** And the controller, the business logic, built perhaps with HTML and JavaScript.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=161)** AngularJS is another framework that can be used with similar characteristics to Ember.js.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=166)** And Microsoft offers [ASP.NET](https://ASP.NET) MVC.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=166)** And [[Microsoft]] offers [[[ASP.NET]]](https://ASP.NET) MVC.
 >
 > **[2:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=169)** A simple deployment approach is to have three components on one platform linked to a database on a separate platform.
 >
@@ -245,11 +241,11 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=192)** This is the service layer, and it's used to manage the interaction of the web application and other services and to exchange data using messages.
 >
-> **[3:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=200)** SOAP and REST are two protocols often used at the service layer.
+> **[3:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=200)** SOAP and [[Representational State Transfer (REST)|REST]] are two protocols often used at the service layer.
 >
-> **[3:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=204)** REST is the representational state transfer protocol, and has a limited set of operations which apply to resources represented and addressable by URIs, HTTP addresses.
+> **[3:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=204)** REST is the [[Representational State Transfer (REST)|representational state transfer]] protocol, and has a limited set of operations which apply to resources represented and addressable by URIs, HTTP addresses.
 >
-> **[3:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=215)** REST is suited to services that can be accessed by unknown users and is implemented using JavaScript Object Notation, JSON, or similar message formats through HTTP GET and PUT calls.
+> **[3:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=215)** REST is suited to services that can be accessed by unknown users and is implemented using JavaScript Object Notation, [[JSON]], or similar message formats through HTTP GET and PUT calls.
 >
 > **[3:47](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=227)** SOAP is the Simple Object Access Protocol and is much better suited to implementing procedural interactions such as the interface between layers of an application.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), application (9), web application (8), data (6), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (1), [[Forms]] (1)
 > **Env Vars:** http (4), html (3), mvc (3), soap (3), rest (3)
 > **Analogies:** such as (6)
 > **API Endpoints:** get  (1), put  (1)
@@ -280,14 +276,13 @@ created: 2026-05-02
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Exercise Files:** source code (1)
 
-#### Introduction to web servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980)
+#### [Introduction to web servers](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=2)** - [Instructor] A web application is run on a web server, which consists of a standard operating system platform and web server software.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=11)** There are three common web servers we'll come across: the Internet Information Server, or IIS, which comes as an optional part of every Windows server, the Apache web server, which runs on Linux but can also be run on Windows, and the NGINX web server, which also runs on Linux and can be run on Windows.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=11)** There are three common [[Web Servers]] we'll come across: the Internet Information Server, or IIS, which comes as an optional part of every [[Windows Server]], the Apache web server, which runs on [[Linux]] but can also be run on [[Windows]], and the NGINX web server, which also runs on Linux and can be run on Windows.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=36)** In addition to websites and applications, we'll also come across web-based endpoints called application program interfaces, or APIs.
 >
@@ -297,13 +292,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=61)** In the case of IIS, the web root is in the folder c:\inetpub\wwwroot.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=70)** For Apache and NGINX running on Linux, the standard location is /var/www/html.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=70)** For Apache and NGINX running on Linux, the standard location is /var/www/[[HTML]].
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=80)** The standard startup page for any web server is called index.html, and this is often where startup actions take place, the homepage is displayed, and so on.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=93)** If a web application is written in a scripting language of some kind, then it will often have its own startup page with that language extension.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=103)** For instance, an application written in the PHP web scripting language will expect an initial file in the web root folder called index.php.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=103)** For instance, an application written in the [[PHP]] web scripting language will expect an initial file in the web root folder called index.php.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introduction-to-web-servers?u=76281980&t=115)** A web server will listen on port 80 for plain HTTP traffic and port 443 for secure HTTPS traffic.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (17), [[Linux]] (3), [[Windows]] (3), management (3), web application (2)
+> **Frameworks & Libraries:** [[Web Servers]] (3), [[Linux]] (3), [[Windows]] (3), [[HTML]] (2), [[PHP]] (2)
 > **CLI Commands:** nginx (6), apache (4), php (2), find (1)
 > **Env Vars:** iis (4), nginx (3), php (1), http (1), https (1)
 > **File Paths:** index.html (1), index.php (1), applicationhost.config (1), administration.config (1)
@@ -338,8 +333,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)
 
-#### Dissecting the HTTP/HTTPS protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980)
+#### [Dissecting the HTTP/HTTPS protocol](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=80)** The web server will then reply with an HTTP response message.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=84)** Let's take a look at a typical HTTP exchange using Wireshark.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=84)** Let's take a look at a typical HTTP exchange using [[Wireshark]].
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=88)** I recorded a browsing session in the Hackme Casino using Wireshark, it's open, and we can see at line 91, the start of the three-way handshake for the connection to port 3,000, on 10.0.2.10.
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=141)** Emitting the filename will cause the default first page to be returned.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=145)** The HEAD request is used in the same way as a GET, but will then load just the header or metadata.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=145)** The HEAD request is used in the same way as a GET, but will then load just the header or [[Metadata]].
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=151)** This is commonly done to check the last modified date of the page, to check against the local cache and copy.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=206)** Following this, we see the user agent which has been used to send the GET request.
 >
-> **[3:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=211)** In our case, this is a Mozilla Gecko Firefox browser running on Linux.
+> **[3:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=211)** In our case, this is a Mozilla Gecko Firefox browser running on [[Linux]].
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=217)** The browser then indicates what it connects after the response.
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=280)** As for the request, the response includes a connection line, which indicates that the connection should be kept alive, allowing another request to be sent by the user.
 >
-> **[4:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=288)** The content type is shown as text/html, which indicates that readable html data follows.
+> **[4:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=288)** The content type is shown as text/[[HTML]], which indicates that readable html data follows.
 >
 > **[4:55](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=295)** The server line provides information on the server's configuration.
 >
@@ -475,9 +469,9 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=337)** In this, we can see a request header line for the referer.
 >
-> **[5:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=340)** Referer login is used to allow websites and web servers to identify where people are visiting them from for marketing or statistical purposes.
+> **[5:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=340)** Referer login is used to allow websites and [[Web Servers]] to identify where people are visiting them from for marketing or statistical purposes.
 >
-> **[5:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=349)** Using the referer field can be a privacy issue, and most web browsers will emit this, particularly those using HTTPS.
+> **[5:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=349)** Using the referer field can be a [[Privacy]] issue, and most web browsers will emit this, particularly those using HTTPS.
 >
 > **[5:59](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/dissecting-the-http-https-protocol?u=76281980&t=359)** We can see the user login request.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), data (4), web application (3), [[Wireshark]] (3), next (3)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[HTML]] (3), [[Metadata]] (1), [[Linux]] (1), [[Web Servers]] (1)
 > **Env Vars:** http (17), url (4), tcp (2), head (1), post (1)
 > **API Endpoints:** get  (6), head  (1), post  (1), options  (1), put  (1)
 > **Definitions:** is a  (5), is an  (4), in other words (1), known as (1)
@@ -504,14 +498,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1), ruby (1)
 > **Tools:** firefox (1)
 
-#### Moving on to WebSockets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980)
+#### [Moving on to WebSockets](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=0)** - [Instructor] With the release of HTML 5, more sophisticated state management capabilities are available to the web developer.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=0)** - [Instructor] With the release of [[HTML]] 5, more sophisticated state management capabilities are available to the web developer.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=6)** WebSockets provide the ability to setup a full duplex communications channel between the client and the server.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=6)** [[WebSocket|WebSockets]] provide the ability to setup a full duplex communications channel between the client and the server.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=13)** This required a handshake over HTTP or HTTPS.
 >
@@ -521,9 +514,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=34)** It then switches to WebSockets, and both the web browser and the web server communicate using the WebSockets API, according to RFC 6455, the WebSockets protocol.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=45)** WebsocketD is an easy to use WebSockets server written by Joe Walnize, which will run on Ubuntu.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=45)** WebsocketD is an easy to use WebSockets server written by Joe Walnize, which will run on [[Ubuntu]].
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=51)** We can get the ZIP file of this server from his GitHub page, unpack it, and it'll be ready for use.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=51)** We can get the ZIP file of this server from his [[GitHub]] page, unpack it, and it'll be ready for use.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=56)** I've already loaded it on my Ubuntu system.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=88)** I'll start it on port 8008, although any port that's not in use would be fine.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=96)** I'll now use Chrome from my Windows 7 system to connect to the Web Socket server.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=96)** I'll now use Chrome from my [[Windows]] 7 system to connect to the Web Socket server.
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/moving-on-to-websockets?u=76281980&t=101)** I do that by connecting to HTTP on the web socket port 8088.
 >
@@ -551,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[WebSocket|Websockets]] (7), [[Ubuntu]] (2), [[HTML]] (1), management (1)
+> **Frameworks & Libraries:** [[WebSocket|Websockets]] (7), [[Ubuntu]] (2), [[HTML]] (1), [[GitHub]] (1), [[Windows]] (1)
 > **Env Vars:** http (2), https (2), html (1), wss (1), api (1)
 > **Tools:** bash (2), github (1)
 > **Ports:** port 8008 (1), port 8088 (1)
@@ -560,16 +553,15 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** setup (1)
 
-#### Looking at the Google QUIC protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980)
+#### [Looking at the Google QUIC protocol](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=0)** - The Quick UDP Internet Connection was introduced in 2014 by Google to provide reliable HTTP stream transport, and is being standardized by the IATF.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=0)** - The Quick UDP Internet Connection was introduced in 2014 by [[Google]] to provide reliable HTTP stream transport, and is being standardized by the IATF.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=11)** It effectively replaces the traditional TCP/TLS Secure Web Communications.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=17)** Google now includes QUIC, and its Chrome and Android products and the patchy service support is progressing.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=17)** Google now includes QUIC, and its Chrome and [[Android]] [[Microsoft Products|products]] and the patchy service support is progressing.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=23)** QUIC is with the IATF for standardization.
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=155)** This is not a reset, and there is no version number, and the sequence length is one byte.
 >
-> **[2:44](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=164)** Note that Wireshark is showing all packets as having an encrypted payload.
+> **[2:44](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=164)** Note that [[Wireshark]] is showing all packets as having an encrypted payload.
 >
 > **[2:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-at-the-google-quic-protocol?u=76281980&t=168)** However we can see plain text in the first packet.
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Security]] (2), traffic (2), [[Wireshark]] (2), web (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Wireshark]] (2), [[Android]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** quic (16), tcp (6), tls (5), udp (3), http (3)
 > **Definitions:** is a  (2)
 > **URLs:** [google.com](https://google.com) (1)
@@ -657,8 +649,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - the (1)
 
-#### Understanding cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980)
+#### [Understanding cookies](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=9)** A cookie is a small piece of text stored in an SQLite file on a users computer by the browser.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=15)** Let's have a look at where Chrome stores its cookies on a Windows system.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=15)** Let's have a look at where Chrome stores its cookies on a [[Windows]] system.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=19)** Digging a little ways down into the user directory, we can see the file cookies.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=88)** This, however, is the capability exploited in a session hijack.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=92)** Here we can see a PHP routine which sets a cookie.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=92)** Here we can see a [[PHP]] routine which sets a cookie.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/understanding-cookies?u=76281980&t=95)** It initializes the session and generates a random session ID which it stores.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Windows]] (2), data (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[PHP]] (2)
 > **Env Vars:** php (2), url (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)
@@ -722,12 +713,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980)
+#### [Introducing HTML](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=0)** - [Instructor] The Hypertext Markup Language, HTML, is the basic building block of a website.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=0)** - [Instructor] The Hypertext Markup Language, [[HTML]], is the basic building block of a website.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=5)** HTML 5 is the latest version, and it's come a long way from the language that started the World Wide Web.
 >
@@ -763,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=68)** We might like to have our webpage reference another webpage.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=71)** Perhaps www.[owasp.com](https://owasp.com).
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=71)** Perhaps www.[[[OWASP]].com](https://owasp.com).
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=74)** We can do this by using a hyperlink, or href, in an element called a.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=121)** And so we can hold the style in its own file external to the HTML file and include it using a link statement.
 >
-> **[2:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=128)** The full external styling approach is known as cascading style sheets.
+> **[2:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=128)** The full external styling approach is known as [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=133)** It would be useful to become skilled in reading HTML, if not writing it, and taking a couple of Lynda courses is a good way to learn.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (11), web (5), [[OWASP]] (1), application (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
+> **Frameworks & Libraries:** [[HTML]] (11), [[OWASP]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** html (9), url (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **File Paths:** page1.html (1)
@@ -810,16 +800,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visiting OWASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980)
+#### [Visiting OWASP](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=0)** - [Instructor] An important source of information for web testers is the Open Web Application Security Project, or OWASP.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=0)** - [Instructor] An important source of information for web testers is the Open [[Web Application Security]] Project, or [[OWASP]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=7)** The links at the top right of the blue bar shows what OWASP offers, including the Zed Attack Proxy, web application developer guides, and web application testing guides.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=16)** One of the key informational documents provided by OWASP is the annual OWASP Top 10 attacks on web servers.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=16)** One of the key informational documents provided by OWASP is the annual OWASP Top 10 attacks on [[Web Servers]].
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=23)** OWASP creates value by maintaining a blog and mailing lists, running projects, and supporting local OWASP chapters.
 >
@@ -835,15 +824,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=56)** For example, if we scroll down to the incubator, we can see there's a project called OWASP Droid.
 >
-> **[1:02](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=62)** And if we click on that, we get details of the project, which is to develop an Android-based web testing tool.
+> **[1:02](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=62)** And if we click on that, we get details of the project, which is to develop an [[Android]]-based web testing tool.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=72)** Note that the GitHub repository for the project is provided at the top right.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=72)** Note that the [[GitHub]] repository for the project is provided at the top right.
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=77)** In the reference section, one link that is particularly useful when starting out is the attacks link.
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=83)** This provides a full list of the different types of web attack.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=86)** If I scroll down, we can see SQL injection is listed.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=86)** If I scroll down, we can see [[SQL]] injection is listed.
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=91)** And if we click on that, then we get a page describing the attack and giving examples.
 >
@@ -871,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=162)** The top 10 is a popular reference for providing the priority for web testing.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=166)** This document is produced periodically and describes the 10 most popular forms of web attack at the time of development.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=166)** This document is produced periodically and describes the 10 most popular [[Forms]] of web attack at the time of development.
 >
 > **[2:53](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=173)** The quick download at the top right will get the latest web top 10 document.
 >
@@ -893,11 +882,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=231)** The testing guide details the approach to web testing and provides test cases for use and development projects with full testing details.
 >
-> **[3:59](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=239)** While design for development testing, these may also prove useful in penetration testing and production web applications.
+> **[3:59](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/visiting-owasp?u=76281980&t=239)** While design for development testing, these may also prove useful in [[Penetration Testing]] and production web applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), [[OWASP]] (13), web application (4), [[Security]] (4), [[Android]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (13), [[Web Application Security]] (2), [[Web Servers]] (1), [[Android]] (1), [[GitHub]] (1)
 > **Env Vars:** owasp (13), owtf (2), sql (1), zap (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Definitions:** is a  (3)
@@ -906,8 +895,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Warnings:** note that (1)
 
-#### Web access APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980)
+#### [Web access APIs](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=25)** Multifactor authentication is an important means of defeating unauthorized access to our web applications.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=34)** Let's see how we can build an API on Hydra using CherryPy.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=34)** Let's see how we can build an API on [[Hydra]] using CherryPy.
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=39)** Firstly, we install the CherryPy and PyOTP frameworks using pip.
 >
@@ -953,9 +941,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=143)** Let's set this running and then check it out.
 >
-> **[2:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=151)** Python three OTP.Py.
+> **[2:31](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=151)** [[Python (Programming Language)|Python]] three OTP.Py.
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=160)** I've got Microsoft Authenticator running on my mobile phone and I've scanned the QR code to install the demonstration account.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=160)** I've got [[Microsoft]] Authenticator running on my mobile phone and I've scanned the QR code to install the demonstration account.
 >
 > **[2:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/web-access-apis?u=76281980&t=169)** Let's try out our endpoint, [http://192.168.1.51:8081/check](http://192.168.1.51:8081/check),
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), web (3), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1), web application (1)
+> **Frameworks & Libraries:** [[Hydra]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (4), otp (3), url (2), http (1)
 > **Prerequisites:** install (4), set up (1)
 > **CLI Commands:** pip (3), python (1)
@@ -981,8 +969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the Zero Bank
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
+#### [Introducing the Zero Bank](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980&t=6)** While Metasploitable does provide a website, this doesn't always have the functionality required.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980&t=12)** A better solution to use for more real world testing is the HP Fortify Zero online banking web server.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980&t=12)** A better solution to use for more real world testing is the HP Fortify Zero online [[Banking]] web server.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980&t=21)** We can see the main screen with the log in button at the top right.
 >
@@ -1014,15 +1001,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Banking]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the WebGoat Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/installing-the-webgoat-server?u=76281980)
+#### [Installing the WebGoat Server](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/installing-the-webgoat-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/installing-the-webgoat-server?u=76281980&t=0)** - [Instructor] Another very useful website for learning how to do web testing is the OWASP WebGoat.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/installing-the-webgoat-server?u=76281980&t=0)** - [Instructor] Another very useful website for learning how to do web testing is the [[OWASP]] WebGoat.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/installing-the-webgoat-server?u=76281980&t=5)** This is another website which has been deliberately created with vulnerabilities so that we can practice our web testing.
 >
@@ -1056,19 +1042,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[OWASP]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Env Vars:** owasp (1), url (1)
 > **CLI Commands:** go run (1)
 > **Ports:** port 8080 (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-burp-suite?u=76281980)
+#### [Introducing Burp Suite](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-burp-suite?u=76281980&t=0)** - [Instructor] The Burp Suite Community Edition comes as one of the tools pre-built into Kali.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-burp-suite?u=76281980&t=0)** - [Instructor] The [[Burp Suite]] Community Edition comes as one of the tools pre-built into Kali.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-burp-suite?u=76281980&t=5)** I'll select it from the menu on the left and set up a temporary project, and we're ready to start.
 >
@@ -1144,7 +1129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (8), traffic (2), web (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (8)
 > **UI Navigation:** select the (2), go to (2), click on (2), right-click (1)
 > **URLs:** [http://zero.webappsecurity.com](http://zero.webappsecurity.com) (1), [webappsecurity.com](https://webappsecurity.com) (1)
 > **Ports:** port 8080 (2)
@@ -1153,16 +1138,15 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Versions:** 127.0.0 (1)
 
-#### Scanning with ZAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980)
+#### [Scanning with ZAP](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=0)** - [Instructor] Burp Suite is a great tool for professionals.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=0)** - [Instructor] [[Burp Suite]] is a great tool for professionals.
 >
 > **[0:03](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=3)** But to be able to run vulnerability tests requires the licensed version.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=8)** Fortunately, Kali comes preloaded with the OWASP tool Zed Attack Proxy, or ZAP, which can do vulnerability scanning.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=8)** Fortunately, Kali comes preloaded with the [[OWASP]] tool Zed Attack Proxy, or ZAP, which can do vulnerability scanning.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/scanning-with-zap?u=76281980&t=17)** Let's start it and see how we do a website scan looking for vulnerabilities.
 >
@@ -1214,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (1), [[OWASP]] (1), application (1), web application (1), web (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (1), [[OWASP]] (1)
 > **Env Vars:** zap (7), url (2), owasp (1)
 > **UI Navigation:** click on (4), open the (1), double-click (1), scroll down (1)
 > **Versions:** 2.23 (1)
@@ -1222,8 +1206,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proxying with ZAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980)
+#### [Proxying with ZAP](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,7 +1214,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980&t=5)** Let's take a look at it.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980&t=7)** I select Applications, Web Application Analysis, OWASP ZAP.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980&t=7)** I select Applications, Web Application Analysis, [[OWASP]] ZAP.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/proxying-with-zap?u=76281980&t=13)** I'll accept the default of no persistence, and we get to the main ZAP page.
 >
@@ -1279,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), web (1), [[OWASP]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Env Vars:** zap (5), owasp (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Ports:** port 8080 (2)
@@ -1288,12 +1271,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing WebScarab
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980)
+#### [Introducing WebScarab](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=0)** - [Narrator] WebScarab is a Java based web application and web server assessment tool.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=0)** - [Narrator] WebScarab is a [[Java]] based web application and web server assessment tool.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=5)** It can operate as a web spider, crawling a website or a web proxy tool, intercepting http and https request and response messages.
 >
@@ -1315,7 +1297,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=74)** Okay, now any web browsing or application use that we do will pass through WebScarab.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=79)** I'll just go to visit the Zero online web testing banking site, so that we can send a few packets through WebScarab.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=79)** I'll just go to visit the Zero online web testing [[Banking]] site, so that we can send a few packets through WebScarab.
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=96)** Okay, we'll come back to look at Zero Bank later in the course.
 >
@@ -1341,7 +1323,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=159)** The response message in the panel at the bottom can also be viewed in raw and parsed form.
 >
-> **[2:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=168)** Depending on contents, the parsed form will also offer one or more additional tabs, such as html, xml, hex, and text.
+> **[2:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=168)** Depending on contents, the parsed form will also offer one or more additional tabs, such as [[HTML]], xml, hex, and text.
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=177)** Let's close this window and go back to the main screen tab.
 >
@@ -1365,7 +1347,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=247)** The spider tab provides the ability to crawl through the target website looking for new URLs.
 >
-> **[4:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=253)** By clicking fetch recursively, all linked websites will also be spidered.
+> **[4:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=253)** By clicking [[Fetch]] recursively, all linked websites will also be spidered.
 >
 > **[4:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-webscarab?u=76281980&t=264)** Extensions is used to search for files that have been left on the target site, with the specified extensions such as .zip, .tar.gz, et cetera.
 >
@@ -1383,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), web application (3), next (2), [[Scripting]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Java]] (1), [[Banking]] (1), [[HTML]] (1), [[Fetch]] (1)
 > **Env Vars:** pdf (1), xxs (1), crlf (1)
 > **Cross-References:** go back to (2), later in (1)
 > **UI Navigation:** go to (1), double-click (1), dropdown (1)
@@ -1397,8 +1379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fingerprinting web servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
+#### [Fingerprinting web servers](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1403,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=51)** The best matching result is for our server to be an Apache 1.3.37, with 100% confidence.
 >
-> **[1:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=60)** Net-square provide a useful tool for fingerprinting web servers, called httprint.
+> **[1:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=60)** Net-square provide a useful tool for fingerprinting [[Web Servers]], called httprint.
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=66)** This can be downloaded from the site shown.
 >
@@ -1432,9 +1413,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=82)** I'll firstly go to options and I'll turn off ICMP enable and SSL detection.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=90)** Just under host, I'll enter the address zero.[webappsecurity.com](https://webappsecurity.com) and Port 80 to point to the test banking website.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=90)** Just under host, I'll enter the address zero.[webappsecurity.com](https://webappsecurity.com) and Port 80 to point to the test [[Banking]] website.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=99)** I'll change the output to be zero.html.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=99)** I'll change the output to be zero.[[HTML]].
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980&t=105)** I'll now press the play button at the bottom to check the fingerprint.
 >
@@ -1466,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), application (2), web application (1), [[Banking]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Banking]] (1), [[HTML]] (1)
 > **CLI Commands:** apache (2), nginx (1), find (1)
 > **Env Vars:** gui (1), icmp (1), ssl (1), nginx (1)
 > **Versions:** 1.3.37 (1), 1.10.3 (1), 1.8.2 (1)
@@ -1475,12 +1456,11 @@ created: 2026-05-02
 > **Ports:** port 80 (2)
 > **File Paths:** zero.html (1)
 
-#### Looking for credentials in HTML code
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-for-credentials-in-html-code?u=76281980)
+#### [Looking for credentials in HTML code](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-for-credentials-in-html-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-for-credentials-in-html-code?u=76281980&t=0)** - [Instructor] WebGoat provides a simple lesson in finding exposed data in the source HTML code for a webpage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-for-credentials-in-html-code?u=76281980&t=0)** - [Instructor] WebGoat provides a simple lesson in finding exposed data in the source [[HTML]] code for a webpage.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/looking-for-credentials-in-html-code?u=76281980&t=7)** I'll start up WebGoat and connect to it on port 8080.
 >
@@ -1508,18 +1488,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), data (1), database (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2)
 > **UI Navigation:** select the (1), right-click (1)
 > **Ports:** port 8080 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Cookie Jars
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-cookie-jars-14034517?u=76281980)
+#### [Using Cookie Jars](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-cookie-jars-14034517?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-cookie-jars-14034517?u=76281980&t=0)** - [Instructor] Burp Suite is a web proxy which can monitor traffic to and from a website, and it comes as standard with Kali.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-cookie-jars-14034517?u=76281980&t=0)** - [Instructor] [[Burp Suite]] is a web proxy which can monitor traffic to and from a website, and it comes as standard with Kali.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-cookie-jars-14034517?u=76281980&t=8)** One of the features of Burp Suite is that it maintains a cookie jar, which stores web cookies.
 >
@@ -1557,7 +1536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (7), web (2), traffic (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (7)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** jsessionid (1)
@@ -1566,14 +1545,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Versions:** 127.0.0 (1)
 
-#### Hijacking sessions with cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980)
+#### [Hijacking sessions with cookies](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=0)** - [Presenter] To hijack a web session, we can use a combination of Wireshark and Tampermonkey.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=0)** - [Presenter] To hijack a web session, we can use a combination of [[Wireshark]] and Tampermonkey.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=6)** I've got Wireshark installed on my virtual box Windows 10 system.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=6)** I've got Wireshark installed on my virtual box [[Windows 10]] system.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=10)** We need to set my virtual machine into promiscuous mode by selecting machine, settings, network advanced and changing promiscuous mode to allow for VMs.
 >
@@ -1605,7 +1583,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=109)** As the victim, I'm using Firefox in Kali and I'll log into the Zero Online Bank with username and password.
 >
-> **[2:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=126)** Okay, I've got my account summary and I can do some banking.
+> **[2:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=126)** Okay, I've got my account summary and I can do some [[Banking]].
 >
 > **[2:09](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=129)** Perhaps I'll transfer $100 to my credit card.
 >
@@ -1639,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), [[Banking]] (2), web (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Banking]] (2), [[Windows 10]] (1)
 > **UI Navigation:** select the (1), open the (1), go to (1), click on (1)
 > **Env Vars:** http (2)
 > **Prerequisites:** install (2)
@@ -1653,8 +1631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manipulating URL parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
+#### [Manipulating URL parameters](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1664,7 +1641,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=14)** The question mark is a separator, and the website may simply pass the remainder of the line to a program or function to be evaluated.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=22)** I've got a PHP-based webpage, set upon Metasploitable, called URLACC.html.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=22)** I've got a [[PHP]]-based webpage, set upon Metasploitable, called URLACC.[[HTML]].
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=28)** It's in the folder /var/www and we'll use this to test URL manipulation.
 >
@@ -1710,7 +1687,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=183)** And this is fine, we see the notes from the file.
 >
-> **[3:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=186)** Unless the program applies input data validation, and prohibits entry of the special characters such as dot and slash, we can take advantage of this, and do a path traversal.
+> **[3:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=186)** Unless the program applies input [[Data Validation]], and prohibits entry of the special characters such as dot and slash, we can take advantage of this, and do a path traversal.
 >
 > **[3:16](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980&t=196)** What that means is we can use prefixes to access not the account notes file the application expects us to access, but any file on the server.
 >
@@ -1730,7 +1707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (5), data (3), web (2), application (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (5), [[Data Validation]] (2)
 > **Env Vars:** url (10), php (5), html (3), urlacc (1)
 > **CLI Commands:** php (7), make (1)
 > **Non-Speech:** (keys clicking) (7)
@@ -1739,12 +1716,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing for SQL injections
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980)
+#### [Testing for SQL injections](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=0)** - Some web applications request data in their forms and use this to populate a search query for a backend SQL database.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=0)** - Some web applications request data in their [[Forms]] and use this to populate a search query for a backend [[SQL]] database.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=8)** This opens up the opportunity for malicious data to be entered.
 >
@@ -1812,30 +1788,29 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=193)** Okay, we've just dumped the whole database and achieved a full blown data breach.
 >
-> **[3:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=199)** We can achieve the same result by entering "quote" or "one equals one" semi-colon, dash, dash, where the double dash forces the rest of the line, in this case, the original trailing apostrophe, to be commented out.
+> **[3:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=199)** We can achieve the same result by entering "quote" or "one equals one" semi-colon, dash, dash, where the double dash forces the [[Representational State Transfer (REST)|rest]] of the line, in this case, the original trailing apostrophe, to be commented out.
 >
 > **[3:35](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-for-sql-injections?u=76281980&t=215)** WebGoat provides further exercises in SQL injection which you might wish to follow up with to hone your skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (5), data (3), web (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Speakers:** - some (1)
 
-#### Cross-site scripting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980)
+#### [Cross-site scripting](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=0)** - [Instructor] I've scripted up a webpage on metasploitable called xssblog.html.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=0)** - [Instructor] I've scripted up a webpage on metasploitable called xssblog.[[HTML]].
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=5)** It's in the folder /var/www, and we'll use this to demonstrate how cross site scripting works.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=18)** Here we see an HTML document which has a form which will take a blog entry.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=23)** The action taken on submission is to post to the server PHP script xssblog.php, and the blog text will be automatically appended as a parameter.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=23)** The action taken on submission is to post to the server [[PHP]] script xssblog.php, and the blog text will be automatically appended as a parameter.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/cross-site-scripting?u=76281980&t=36)** The PHP script opens a file called xssblog.txt, and writes the blog entry into it.
 >
@@ -1873,18 +1848,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (3), [[Scripting]] (3), web application (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (3)
 > **File Paths:** xssblog.html (1), xssblog.php (1), xssblog.txt (1), xssread.php (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** html (2), php (2)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting commands through the URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980)
+#### [Injecting commands through the URL](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=0)** - [Instructor] I scripted up a PHP-based webpage on Metasploitable called commandget.php.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=0)** - [Instructor] I scripted up a [[PHP]]-based webpage on Metasploitable called commandget.php.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=6)** It's in the folder "/var/www".
 >
@@ -1892,7 +1866,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=15)** The purpose of the PHP script is to do an nslookup of the host and display the results.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=24)** The script starts with an HTML header and webpage heading followed by a PHP script to do the lookup.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=24)** The script starts with an [[HTML]] header and webpage heading followed by a PHP script to do the lookup.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=30)** Note the isset command which ensures that, if no host has been specified on the URL, the script just continues to display a form for the names of a lookup.
 >
@@ -1902,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=53)** Okay, I'll submit the query with the default selection and we get the results for Amazon.
 >
-> **[0:58](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=58)** I'll run it again and select Google.
+> **[0:58](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=58)** I'll run it again and select [[Google]].
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=64)** We can see, on the URL, the host name inserted.
 >
@@ -1920,11 +1894,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=115)** We've injected a string of commands, gained a directory listing and the contents of the password file.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=122)** A powerful tool for the attacker, and one of significant concern for the defender, is the Generic Web Exploitation Engine, GWEE.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=122)** A powerful tool for the attacker, and one of significant concern for the [[Microsoft Defender|defender]], is the Generic Web Exploitation Engine, GWEE.
 >
 > **[2:10](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=130)** This will exploit a site with special code to deliver a shell.
 >
-> **[2:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=133)** The TAR.GZ file can be downloaded from here and includes a Windows binary.
+> **[2:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=133)** The TAR.GZ file can be downloaded from here and includes a [[Windows]] binary.
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=138)** This is generally recognized as malware and removed by antivirus programs.
 >
@@ -1952,11 +1926,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=220)** For those Web applications that don't sanitize their input, this can lead fairly quickly to a major security breach and likely not detected.
 >
-> **[3:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=228)** Checking the URL and prohibiting unwanted character sets is a good start, and Web developers should be familiar with, and rigorous in applying, OWASP guidance.
+> **[3:48](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/injecting-commands-through-the-url?u=76281980&t=228)** Checking the URL and prohibiting unwanted character sets is a good start, and Web developers should be familiar with, and rigorous in applying, [[OWASP]] guidance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[PHP]] (4), [[Google]] (2), [[Windows]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Google]] (2), [[Windows]] (2), [[HTML]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** gwee (5), url (4), php (3), html (1), tar (1)
 > **CLI Commands:** php (4), ls (1), make (1), tar (1)
 > **Definitions:** is a  (2)
@@ -1964,8 +1938,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing with Uniscan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980)
+#### [Testing with Uniscan](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,13 +1994,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=130)** And a lot of email addresses.
 >
-> **[2:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=133)** It's found a number of upload forms.
+> **[2:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=133)** It's found a number of upload [[Forms]].
 >
 > **[2:15](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=135)** These are useful to know as they're ways into the websites.
 >
 > **[2:19](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=139)** The external websites plug-in has identified the external URL references.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=144)** And the PHP info plug-in has identified locations where information about the PHP site is disclosed.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=144)** And the [[PHP]] info plug-in has identified locations where information about the PHP site is disclosed.
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=152)** And we can see some of that information.
 >
@@ -2037,7 +2010,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=171)** Uniscan enumerates the twiki identifying missing backup files and some renamed ones.
 >
-> **[2:57](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=177)** There' a series of what it thinks might be potential SQL injection attacks.
+> **[2:57](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=177)** There' a series of what it thinks might be potential [[SQL]] injection attacks.
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-with-uniscan?u=76281980&t=181)** Let's look at one.
 >
@@ -2067,7 +2040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), web (2), [[PHP]] (2), web application (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PHP]] (2), [[Forms]] (1)
 > **Env Vars:** sql (3), php (2), url (1)
 > **CLI Commands:** php (2), apache (1)
 > **Exercise Files:** source code (2)
@@ -2076,22 +2049,21 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - another (1)
 
-#### Using the modsecurity WAF
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980)
+#### [Using the modsecurity WAF](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=1)** - [Instructor] ModSecurity is an open source web application firewall which can be integrated with the Apache web server to provide protection against many forms of web attack.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=1)** - [Instructor] ModSecurity is an open source web application firewall which can be integrated with the Apache web server to provide protection against many [[Forms]] of web attack.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=13)** It works by inspecting incoming requests for suspicious content, and if a detection rule is triggered, blocking it.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=22)** We'll not run through the installation of ModSecurity and its integration with Apache, but it's a fairly simple task to do.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=29)** I've installed it in the Apache web service in Hydra, so let's go take a look at it in action.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=29)** I've installed it in the Apache web service in [[Hydra]], so let's go take a look at it in action.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=36)** Let's browse to Hydra on HTTP 192.168.1.51,
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=45)** slash, and we'll go to our root homepage, index.html.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=45)** slash, and we'll go to our root homepage, index.[[HTML]].
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=59)** Okay, we can see the standard Apache default webpage as we'd expect.
 >
@@ -2123,7 +2095,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=214)** ModSecurity has done its job and protected us against a potential attack.
 >
-> **[3:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=229)** Let's now try to access the page with what might be an SQL injection.
+> **[3:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=229)** Let's now try to access the page with what might be an [[SQL]] injection.
 >
 > **[3:58](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/using-the-modsecurity-waf?u=76281980&t=238)** And we'll put in blah quote or 1=1.
 >
@@ -2139,7 +2111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[SQL]] (3), web application (1), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (4), [[SQL]] (3), [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** apache (5), sudo (1), cat (1)
 > **Env Vars:** sql (3), http (1), url (1), waf (1)
 > **Definitions:** is an  (2)
@@ -2153,8 +2125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practicing with online banking websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
+#### [Practicing with online banking websites](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2166,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980&t=20)** Let's have a look at some of them.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980&t=23)** The first way offers an online website called Crack Me Bank investments, which provides the banking environment experience for application testing.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980&t=23)** The first way offers an online website called Crack Me Bank investments, which provides the [[Banking]] environment experience for application testing.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980&t=30)** It has no exercise hints or solutions.
 >
@@ -2206,18 +2177,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (5), web (3), web application (2), application (1)
+> **Frameworks & Libraries:** [[Banking]] (5)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking the cheese
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hacking-the-cheese?u=76281980)
+#### [Hacking the cheese](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hacking-the-cheese?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hacking-the-cheese?u=76281980&t=0)** - [Instructor] Google provides an online site for users to test, the Gruyere social media site.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hacking-the-cheese?u=76281980&t=0)** - [Instructor] [[Google]] provides an online site for users to test, the Gruyere social media site.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hacking-the-cheese?u=76281980&t=5)** The first thing we need to do is to agree to the terms and conditions, then we can start.
 >
@@ -2263,12 +2233,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Code Identifiers:** is_author (1), is_admin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training in the Web Security Dojo
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980)
+#### [Training in the Web Security Dojo](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2253,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980&t=28)** We can see the menu includes standard items such as web browser, mail, settings, and accessories.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980&t=34)** The documentation item provides owasp documentation and also documentation on the down vulnerable web application, dojo and help me desk websites.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980&t=34)** The documentation item provides [[OWASP]] documentation and also documentation on the down vulnerable web application, dojo and help me desk websites.
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/training-in-the-web-security-dojo-14032791?u=76281980&t=44)** The targets menu item provides the links to the target websites available in the dojo with links to start and stop them.
 >
@@ -2356,7 +2325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Security]] (5), web application (4), database (3), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** dvwa (4), phpids (1)
 > **CLI Commands:** find (1), ls (1), make (1), cat (1)
 > **Versions:** 198.11.132 (2)
@@ -2370,8 +2339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2383,17 +2351,17 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=17)** There's always something new in cyber security.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=20)** And if you're interested in learning more, then check out the full cyber security ethical hacking segment at the library where new security testing courses are added regularly.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=20)** And if you're interested in learning more, then check out the full cyber security [[Ethical Hacking]] segment at the library where new [[Security Testing]] courses are added regularly.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=30)** You'll find courses on using Kali Linux, information gathering, viruses, and worms, social engineering, denial of service, wireless testing and much more.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=30)** You'll find courses on using [[Kali Linux]], information gathering, viruses, and worms, social engineering, denial of service, wireless testing and much more.
 >
-> **[0:41](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=41)** I'd like to invite you to go to my LinkedIn Learning author page where you can find some additional courses on cyber security.
+> **[0:41](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=41)** I'd like to invite you to go to my [[LinkedIn]] Learning author page where you can find some additional courses on cyber security.
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=49)** If you want to get hands on with some of the common tools, then do take a look at cyber security for IT professionals, and the introduction to Kali Linux.
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=58)** If you want to know how to test mobile devices, then check out the mobile devices course.
 >
-> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=64)** And if you'd like to learn about security for the cloud, then cyber security for cloud computing is for you.
+> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=64)** And if you'd like to learn about security for the cloud, then cyber security for [[Cloud Computing]] is for you.
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980&t=71)** You might also want to see what my colleague in the cyber security ethical hacking series, Lisa Bock, has for you on her homepage.
 >
@@ -2401,7 +2369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), web (2), [[Ethical Hacking]] (2), [[Kali Linux]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Kali Linux]] (2), [[Security Testing]] (1), [[LinkedIn]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm (1)

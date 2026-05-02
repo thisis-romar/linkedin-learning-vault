@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=0)** - [Instructor] Maybe you've had generative AI turn a bit of text into a picture, or help you draft a difficult email.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=0)** - [Instructor] Maybe you've had [[Generative AI]] turn a bit of text into a picture, or help you draft a difficult email.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=7)** Maybe even your life was saved by an AI-assisted diagnosis of a rare disease.
 >
@@ -112,11 +111,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=30)** Anyone with an interest in AI, regardless of their background, can get a better understanding of how it affects our lives and what we can do to get the greatest benefit out of it.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=40)** I'm Barton Poulson, let's get started with AI Accountability essential training.
+> **[0:40](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980&t=40)** I'm Barton Poulson, let's get started with AI [[Accountability]] essential training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Accountability]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The promise of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
+#### [The promise of AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=0)** - [Narrator] When people talk about artificial intelligence, they can get that glassy, far-off look in their eyes and have visions of machines that take care of the drudgery and the work of life, like watering your garden.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=0)** - [Narrator] When people talk about [[Artificial Intelligence (AI)|artificial intelligence]], they can get that glassy, far-off look in their eyes and have visions of machines that take care of the drudgery and the work of life, like watering your garden.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=12)** But I'd like to deal a little more with the reality of artificial intelligence, and one thing that can help with that is defining a little bit what it is that we're talking about.
 >
@@ -140,11 +138,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=42)** But AI is not an especially specific term, so let's compare and contrast with a few other terms that cover some of the same intellectual and technical terrain.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=54)** Probably the most important of these is machine learning, or ML, and this refers to computer algorithms that adapt to data and predict values or classes.
+> **[0:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=54)** Probably the most important of these is machine learning, or ML, and this refers to computer [[Algorithms]] that adapt to data and predict values or classes.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=64)** Now, machine learning algorithms range from the simple to the extraordinarily complex.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=70)** The simple ones can include a basic linear regression, which sometimes you can even do by hand, and the complex can include neural networks.
+> **[1:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=70)** The simple ones can include a basic [[Linear Regression]], which sometimes you can even do by hand, and the complex can include [[Neural Networks]].
 >
 > **[1:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=78)** I'll say more about those in a minute.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=115)** One particular method or algorithm that is frequently used is neural networks, or NN.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=121)** Actually should be artificial neural networks or ANN.
+> **[2:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=121)** Actually should be [[Artificial Neural Networks]] or ANN.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=125)** But this refers to a complex kind of algorithm that has an input layer where the data comes in, shown here on the left, and it has one or more hidden layers, we've got two hidden layers in this one, and then we have an output layer where you get the prediction, the result on the far right.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=184)** There are many, many more options than that, but this has been one of the great areas of machine learning and AI.
 >
-> **[3:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=193)** And if you want to be a little more specific, there's also deep learning.
+> **[3:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=193)** And if you want to be a little more specific, there's also [[Deep Learning]].
 >
 > **[3:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=197)** And these are neural networks with many hidden layers, so hundreds or thousands or millions of layers.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=270)** But as you might guess, because there have been so many amazing developments from deep learning, and because we still have some of these challenges, this is an enormous growth area for research and development.
 >
-> **[4:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=281)** On the other hand, I want to mention there is also the, quote, unquote, "bread and butter" predictive modeling and analytics.
+> **[4:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=281)** On the other hand, I want to mention there is also the, quote, unquote, "bread and butter" [[Predictive Modeling]] and analytics.
 >
 > **[4:48](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=288)** Pie charts and bar charts are still extraordinarily useful for people who are making data-driven decisions, but it's a different thing from artificial intelligence.
 >
@@ -224,9 +222,9 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=375)** And the fact that a computer was able to do it was a huge achievement and really a place marker in the development of AI.
 >
-> **[6:25](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=385)** Then in the 2010s, deep learning became economically feasible due to changes in hardware, so distributed computing, and in the software, the programming that made it possible.
+> **[6:25](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=385)** Then in the 2010s, deep learning became economically feasible due to changes in [[Hardware]], so distributed computing, and in the software, the programming that made it possible.
 >
-> **[6:38](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=398)** And starting with the general availability of generative AI programs like ChatGPT, which is for generative, pre-trained transformer, we've had a whole other new development in the use of AI where these are models that aren't simply predicting or categorizing like the other kind of machine learning models we've had.
+> **[6:38](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=398)** And starting with the general availability of [[Generative AI]] programs like [[ChatGPT]], which is for generative, pre-trained transformer, we've had a whole other new development in the use of AI where these are models that aren't simply predicting or categorizing like the other kind of machine learning models we've had.
 >
 > **[7:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980&t=420)** But they are now creating material, and they use a fundamentally different approach.
 >
@@ -244,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (9), [[Neural Networks]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Algorithms]] (5)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Algorithms]] (5), [[Deep Learning]] (5), [[Linear Regression]] (1)
 > **Definitions:** is a  (3), refers to (3), is an  (2)
 > **Analogies:** for example (1), analogous to (1), for instance (1), just like (1)
 > **CLI Commands:** make (2)
@@ -252,28 +250,27 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generative and analytical AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980)
+#### [Generative and analytical AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=0)** - [Instructor] Before we get very far in our discussion of AI, it's important for us to draw a distinction between two conceptually related, but different terms.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=11)** And those are generative AI and analytical AI.
+> **[0:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=11)** And those are [[Generative AI]] and analytical AI.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=14)** Now, the thing is we use the word AI, and we just kind of think computers doing different kinds of things.
+> **[0:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=14)** Now, the thing is we use the [[Microsoft Word|word]] AI, and we just kind of think computers doing different kinds of things.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=19)** But this distinction is one that actually matters.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=22)** Let's start with the slightly older one, and that's analytical AI, or sometimes called predictive AI.
+> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=22)** Let's start with the slightly older one, and that's analytical AI, or sometimes called [[Predictive AI]].
 >
-> **[0:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=29)** And this is the collection of algorithms that are used for machine learning tasks like classification, forecasting, and generally trying to model the way a human would handle the same task.
+> **[0:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=29)** And this is the collection of [[Algorithms]] that are used for machine learning tasks like classification, [[Forecasting]], and generally trying to model the way a human would handle the same task.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=41)** And they can be as complex as deep learning neural networks, but they can also be as simple as hand drawn if-then flowcharts.
+> **[0:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=41)** And they can be as complex as [[Deep Learning]] [[Neural Networks]], but they can also be as simple as hand drawn if-then flowcharts.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=49)** And this is where we get some of the confusion.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=53)** A lot of times people throw AI in as a marketing term, and really they mean they're doing linear regression.
+> **[0:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=53)** A lot of times people throw AI in as a marketing term, and really they mean they're doing [[Linear Regression]].
 >
 > **[0:58](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=58)** Linear regression is great, but it's a very simple method compared to the neural networks.
 >
@@ -293,9 +290,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=112)** And that also is what gave us approaches like GPT, which stands for generative pre-trained transformer.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=120)** The best known version is ChatGPT, with its major public release in November of 2022.
+> **[2:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=120)** The best known version is [[ChatGPT]], with its major public release in November of 2022.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=126)** But also the image creating programs like Midjourney, Stable Diffusion, and others.
+> **[2:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=126)** But also the image creating programs like [[Midjourney]], [[Stable Diffusion]], and others.
 >
 > **[2:12](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/generative-and-analytical-ai-26206966?u=76281980&t=132)** All of these are a different kind of AI, that instead of simply trying to sort of automate human tasks, they are now making whole new things.
 >
@@ -317,14 +314,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Neural Networks]] (3), [[Generative AI]] (2), [[Predictive AI]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Generative AI]] (2), [[Predictive AI]] (2), [[Algorithms]] (2), [[Linear Regression]] (2)
 > **Definitions:** refers to (1), stands for (1)
 > **Env Vars:** gpt (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### General and narrow AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980)
+#### [General and narrow AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=45)** They fit the environment better, so they thrived.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=49)** And this gets us back to an important distinction in AI, and it has to do with the comparison of two forms of AI.
+> **[0:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=49)** And this gets us back to an important distinction in AI, and it has to do with the comparison of two [[Forms]] of AI.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=57)** The first one we'll call general or strong AI.
 >
@@ -404,7 +400,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=249)** That is, it has accomplished more than general AI has.
 >
-> **[4:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=254)** And with generative AI thrown into the mix, more recent predictions, for instance by IDC, say that the global AI investing could rise as high as $630 billion by 2028.
+> **[4:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=254)** And with [[Generative AI]] thrown into the mix, more recent predictions, for instance by IDC, say that the global AI investing could rise as high as $630 billion by 2028.
 >
 > **[4:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/general-and-narrow-ai-7863870?u=76281980&t=266)** So all of this let you know there's a huge amount of investment, and so much of this has come without the giant shiny general AI super brain that is part of science-fiction, but with the more narrow approaches that focus on specific tasks as well as with the growth in generative AI.
 >
@@ -412,21 +408,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), game (2), power (2), [[Generative AI]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Forms]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** idc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artificial general intelligence (AGI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980)
+#### [Artificial general intelligence (AGI)](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=0)** - [Presenter] This is where we get to enter the realm of science fiction proper for just a moment.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=7)** Artificial intelligence, or at least a form of it, exists right now, but it's generally a narrow, specific and imperfect version of intelligence.
+> **[0:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=7)** [[Artificial Intelligence (AI)|Artificial intelligence]], or at least a form of it, exists right now, but it's generally a narrow, specific and imperfect version of intelligence.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=17)** Artificial general intelligence, on the other hand, refers to the idea of something that is much bigger and functionally unknown.
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=86)** And then a third way of describing artificial general intelligence is an algorithm that can reason or plan or adapt to new challenges without specific training in those things, by transferring knowledge across tasks or domains.
 >
-> **[1:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=101)** And just so you know, I'm a college professor, and knowledge transfer, getting people to take what they learned in one class and apply it to a new class, is one of the most challenging things in education, and I know it's difficult for algorithms to do the same thing.
+> **[1:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=101)** And just so you know, I'm a college professor, and knowledge transfer, getting people to take what they learned in one class and apply it to a new class, is one of the most challenging things in education, and I know it's difficult for [[Algorithms]] to do the same thing.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=118)** Now, even with those in mind, the next question that comes up for a lot of people is, how far into the future until we have artificial general intelligence, or AGI?
 >
@@ -454,7 +449,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=132)** One is any time now, seriously, like any day.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=135)** People have been talking about that we could have it in the next few years, and it's true there's been amazing growth in deep learning, which gave us a specific kind of predictive or analytical AI, and then the growth over the last few years of transformer-based models and generative AI, it's been extraordinary, but we're still talking about something that is so dramatically different, meaning AGI as opposed to the AI we have right now, that that seems kind of unrealistic.
+> **[2:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=135)** People have been talking about that we could have it in the next few years, and it's true there's been amazing growth in [[Deep Learning]], which gave us a specific kind of predictive or analytical AI, and then the growth over the last few years of transformer-based models and [[Generative AI]], it's been extraordinary, but we're still talking about something that is so dramatically different, meaning AGI as opposed to the AI we have right now, that that seems kind of unrealistic.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=169)** So maybe if you don't have to schedule your lunch around it, what about your calendar?
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=235)** Well, you know, some people say we can take our current models that are used for generative AI and just scale 'em up, with more processors, more data, more everything, and I'm sure that we can accomplish great things in that.
 >
-> **[4:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=251)** So much of the work in data science has been the result of massively scaling up the data and the storage and the processing.
+> **[4:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=251)** So much of the work in [[Data Science]] has been the result of massively scaling up the data and the storage and the processing.
 >
 > **[4:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/artificial-general-intelligence-agi-26211969?u=76281980&t=258)** It's accomplished great things, and so you never really know.
 >
@@ -520,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), next (4), [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Deep Learning]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** agi (3)
 > **Definitions:** is a  (2), refers to (1)
@@ -533,12 +528,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical challenges for generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
+#### [Technical challenges for generative AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=0)** - [Instructor] Generative AI can be a miraculous thing at least until it starts doing things that make no sense at all.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=0)** - [Instructor] [[Generative AI]] can be a miraculous thing at least until it starts doing things that make no sense at all.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=8)** And while I'm sure that all of you have had your own experience with AI weirdness in one form or another, I want to mention a few categories of bad behavior that are, for the most part, pretty specific to generative AI.
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=34)** Now there's a long and rich history of people understanding one another.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=39)** If you ever saw the "Pirates of Penzance", you know that there's confusion about whether the word orphan means orphan, a person having lost his parents or orphan frequently, or other situations like the panda who walks into the bar, then each shoots and leaves.
+> **[0:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=39)** If you ever saw the "Pirates of Penzance", you know that there's confusion about whether the [[Microsoft Word|word]] orphan means orphan, a person having lost his parents or orphan frequently, or other situations like the panda who walks into the bar, then each shoots and leaves.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=55)** And how are you going to parse that sentence and what does it mean?
 >
@@ -558,7 +552,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=63)** The same thing happens with AI, and truthfully, it just happens with people and trying to get your voice commands on your phone to work properly, just who you're trying to call.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=76)** And in the field of computer science, this is an example of natural language processing, often just abbreviated NLP.
+> **[1:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=76)** And in the field of computer science, this is an example of [[Natural Language Processing (NLP)|natural language processing]], often just abbreviated NLP.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=84)** Now it's an established field.
 >
@@ -592,7 +586,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=193)** And this is when AI keeps generating similar output, makes a whole bunch of people look exactly the same.
 >
-> **[3:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=199)** This is a major risk with what are called generative adversarial networks or GANs, which are where you have one network that creates new information, usually with images or video, and then you have another one that is trying to identify whether something is real or if it got generated.
+> **[3:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=199)** This is a major risk with what are called [[Generative Adversarial Networks (GANs)|generative adversarial networks]] or GANs, which are where you have one network that creates new information, usually with images or video, and then you have another one that is trying to identify whether something is real or if it got generated.
 >
 > **[3:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=219)** And it's a great way to produce information that looks really, really convincing.
 >
@@ -634,23 +628,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Generative AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Definitions:** is an  (1), is called (1), is a  (1), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1), similar to (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### The challenge of classification errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980)
+#### [The challenge of classification errors](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=0)** - [Instructor] It's true that the methods used to make AI work can be extraordinarily complex, but it's also true that in many cases, the goals of the algorithms are pretty straightforward.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=0)** - [Instructor] It's true that the methods used to make AI work can be extraordinarily complex, but it's also true that in many cases, the goals of the [[Algorithms]] are pretty straightforward.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=11)** Essentially, for most use cases, AI is a form of automated categorization or classification.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=19)** So for example, one of the major approaches is called supervised learning.
+> **[0:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=19)** So for example, one of the major approaches is called [[Supervised Learning]].
 >
 > **[0:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=23)** This is where the AI puts new observations into existing criterion categories based on matches with existing data.
 >
@@ -690,7 +683,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=133)** Thinking about military drones that can target vehicles and people autonomously.
 >
-> **[2:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=138)** Now, I'll talk about AI security and military applications in different chapters, but I want to highlight the effect of miscategorizations can be truly dramatic.
+> **[2:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=138)** Now, I'll talk about [[AI Security]] and military applications in different chapters, but I want to highlight the effect of miscategorizations can be truly dramatic.
 >
 > **[2:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenge-of-classification-errors-26206965?u=76281980&t=149)** There's also the issue of defining accuracy.
 >
@@ -716,15 +709,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Algorithms]] (2), [[Security]] (2), [[Supervised Learning]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Supervised Learning]] (1), [[AI Security]] (1)
 > **Analogies:** for example (2), for instance (2), it's like (1)
 > **Definitions:** is called (2), is a  (1), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### The causes of classification errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980)
+#### [The causes of classification errors](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,9 +726,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=16)** Let me introduce you to Thomas Bayes, a Presbyterian minister as well as philosopher and statistician who lived in England in the 1700s.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=25)** And Bayes is best known for Bayes' Theorem, a particular formula he created that gives you the probability of an accurate conclusion given the data.
+> **[0:25](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=25)** And Bayes is best known for Bayes' Theorem, a particular formula he created that gives you the [[Probability]] of an accurate conclusion given the data.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=35)** What's amazing that this is not normally how statistics works.
+> **[0:35](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=35)** What's amazing that this is not normally how [[Statistics]] works.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=39)** This is a variation on it, but it requires that you know a few things in order to calculate this probability.
 >
@@ -832,13 +824,13 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=336)** And so while many of the problems I just described can be considered technical problems perhaps, it's also true that they happen in a social environment because technical people work in a social environment.
 >
-> **[5:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=350)** These are big problems that require a coordinated approach, which is hard when accountability is unclear, and that leads to an unfortunate diffusion of responsibility.
+> **[5:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=350)** These are big problems that require a coordinated approach, which is hard when [[Accountability]] is unclear, and that leads to an unfortunate diffusion of responsibility.
 >
 > **[6:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-causes-of-classification-errors-26211968?u=76281980&t=360)** I'll have more to say about specific strategies later in this course, but it should be obvious that many people with many different roles in an organization need to contribute and work together to any productive response for classification and accuracy when working with AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Probability]] (3), [[Statistics]] (1), hit (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Statistics]] (1), [[Accountability]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** mri (1), ekg (1)
@@ -846,8 +838,7 @@ created: 2026-05-02
 > **Versions:** 0.0001 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Bias in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980)
+#### [Bias in AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=37)** This includes things like contributing to racism or to sexism or to homophobia or classism, colorism, ageism, ableism, religious and national biases, among so many others.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=50)** If you can think of a social prejudice, there's a way that artificial intelligence can, unfortunately, contribute to it and even exacerbate it.
+> **[0:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=50)** If you can think of a social prejudice, there's a way that [[Artificial Intelligence (AI)|artificial intelligence]] can, unfortunately, contribute to it and even exacerbate it.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=59)** A few examples of these can include things like autocorrect biases.
 >
@@ -887,7 +878,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=160)** And not only does that have a huge impact on people's lives, it's generally illegal.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=165)** Credit card transactions getting flagged for fraud even when they're at the store that you go to all the time for things that you normally buy, getting loan applications rejected by algorithms even when you meet the income standards, and significantly being shown ads for jobs that pay less and have less growth potential, all of these can have a very significant impact on a person's financial wellbeing and their quality of life.
+> **[2:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=165)** Credit card transactions getting flagged for fraud even when they're at the store that you go to all the time for things that you normally buy, getting loan applications rejected by [[Algorithms]] even when you meet the income standards, and significantly being shown ads for jobs that pay less and have less growth potential, all of these can have a very significant impact on a person's financial wellbeing and their quality of life.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/bias-in-ai-26215018?u=76281980&t=188)** That's to say nothing of the possibility of incarceration.
 >
@@ -901,18 +892,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Search]] (2), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** later in (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Genres of learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980)
+#### [Genres of learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=0)** - [Instructor] Before we go much further in our discussion of AI and the challenges that can come up, I should make it clear that just like there are many different jobs in an office, each of which has its own responsibilities and challenges, there are many variations of AI.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=0)** - [Instructor] Before we go much further in our discussion of AI and the challenges that can come up, I should make it clear that just like there are many different jobs in an [[Microsoft Office|office]], each of which has its own responsibilities and challenges, there are many variations of AI.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=13)** So, we're not talking about the same thing all the way through.
 >
@@ -922,11 +912,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=31)** They include unsupervised learning, which is clustering similar cases, putting like with like, like sorting vegetables.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=38)** Supervised learning, which is classifying or categorizing new cases into existing categories, which bag does this bean go into?
+> **[0:38](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=38)** [[Supervised Learning]], which is classifying or categorizing new cases into existing categories, which bag does this bean go into?
 >
-> **[0:48](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=48)** Or reinforcement learning, which is training an algorithm to maximize performance on a task.
+> **[0:48](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=48)** Or [[Reinforcement Learning]], which is training an algorithm to maximize performance on a task.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=53)** Often used in teaching algorithms complex skills like playing a video game or a robot going through real space.
+> **[0:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=53)** Often used in teaching [[Algorithms]] complex skills like playing a video game or a robot going through real space.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=60)** Now, there are more categories than these.
 >
@@ -1006,7 +996,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=266)** And then finally, one that has an overwhelming effect is the labels, which themselves can be subjective or biased.
 >
-> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=274)** Think about if you're trying to predict evaluations of books on an e-commerce site, or rental properties.
+> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=274)** Think about if you're trying to predict evaluations of books on an [[E-Commerce]] site, or rental properties.
 >
 > **[4:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genres-of-learning-26216006?u=76281980&t=282)** You're relying on whether a person liked that book or they liked that property.
 >
@@ -1074,7 +1064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (5), game (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (3)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Reinforcement Learning]] (3), [[Microsoft Office|Office]] (2), [[Algorithms]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (3), for instance (2), just like (1)
 > **Definitions:** essentially is (1), refers to (1), is an  (1)
@@ -1083,8 +1073,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Biased training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980)
+#### [Biased training data](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1113,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980&t=111)** And then there's the issue of data for small groups.
 >
-> **[1:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980&t=115)** Most algorithms are very sensitive to imbalance in the data.
+> **[1:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980&t=115)** Most [[Algorithms]] are very sensitive to imbalance in the data.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/biased-training-data-26213973?u=76281980&t=118)** They like to have a 50/50 split on the outcome whenever possible.
 >
@@ -1228,7 +1217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (3), product (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for instance (3), similar to (1)
 > **UI Navigation:** go to (2)
@@ -1237,8 +1226,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Construct validity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980)
+#### [Construct validity](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,7 +1268,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=113)** These could be an indicator of what they're saying, but they also are often taken to be an indicator of student satisfaction as opposed to learning and employability as opposed to having accomplished various skills.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=128)** Or one of my favorite examples are algorithms that infer personality traits from online profile photos.
+> **[2:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=128)** Or one of my favorite examples are [[Algorithms]] that infer personality traits from online profile photos.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=135)** Researchers who were trying to explain their predictive model, 'cause they were able to predict certain things, they assumed that they were looking at the effects of in in-utero hormonal influences on the facial structure and that that was associated with personalities, sort of like a modern day phenology.
 >
@@ -1306,9 +1294,9 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=214)** Simpler usually generalizes better.
 >
-> **[3:37](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=217)** Now this becomes a major issue when you look at so much of the work in artificial intelligence that relies on what are called black box models.
+> **[3:37](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=217)** Now this becomes a major issue when you look at so much of the work in [[Artificial Intelligence (AI)|artificial intelligence]] that relies on what are called black box models.
 >
-> **[3:46](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=226)** Neural networks are the best example, where there's an essentially unknown process between input and output.
+> **[3:46](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=226)** [[Neural Networks]] are the best example, where there's an essentially unknown process between input and output.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=233)** You put the data in here, you get your predictions, which may be very accurate over here, but it's kind of unclear how you got from one point to the other.
 >
@@ -1318,7 +1306,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=259)** You may be able to make the predictions, but it's difficult to explain how you got there.
 >
-> **[4:24](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=264)** And that's why when people talk about generative AI, which is producing images or text, they say it sometimes feels more like a summoning than an algorithm.
+> **[4:24](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=264)** And that's why when people talk about [[Generative AI]], which is producing images or text, they say it sometimes feels more like a summoning than an algorithm.
 >
 > **[4:36](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=276)** Part of this is because in AI, there is rarely an explicit if-then logic.
 >
@@ -1330,7 +1318,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=295)** And that's important 'cause it tells you where the information came from, how it was processed, and how it reaches conclusion.
 >
-> **[5:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=301)** But that's often not the case with things like neural networks, deep learning, and artificial intelligence in general.
+> **[5:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=301)** But that's often not the case with things like neural networks, [[Deep Learning]], and artificial intelligence in general.
 >
 > **[5:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/construct-validity-7863872?u=76281980&t=307)** So there are many great attempts at creating what's sometimes called XAI for explainable artificial intelligence.
 >
@@ -1352,23 +1340,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (2), [[Neural Networks]] (2), ai (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (2), [[Neural Networks]] (2), [[Generative AI]] (1), [[Deep Learning]] (1)
 > **Definitions:** is an  (3), refers to (1), is a  (1)
 > **Analogies:** for instance (2), picture (1), such as (1)
 > **Env Vars:** covid (1), xai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### The absence of meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980)
+#### [The absence of meaning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=0)** - [Instructor] So we have a problem with metaphors when we talk about artificial intelligence, both in this course and in the tech world in general.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=0)** - [Instructor] So we have a problem with metaphors when we talk about [[Artificial Intelligence (AI)|artificial intelligence]], both in this course and in the tech world in general.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=8)** It's a problem of anthropomorphizing or making things human shaped.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=13)** AI isn't a replica of the human brain, and artificial neural networks aren't replicas of human neurons.
+> **[0:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=13)** AI isn't a replica of the human brain, and [[Artificial Neural Networks]] aren't replicas of human neurons.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=20)** For example, in the popular imagination when we think of robots, images come up like this.
 >
@@ -1440,7 +1427,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=197)** Humans are meaning based creatures, but AI doesn't do meaning.
 >
-> **[3:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=203)** It deals with data, the zeros and ones that make up the pixels or the letters and the numbers, and then it just kind of operates and looks for associations, and even algorithms that purport to evaluate the meaning or the strength of argument, say for instance in the text, they're still just doing associations.
+> **[3:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=203)** It deals with data, the zeros and ones that make up the pixels or the letters and the numbers, and then it just kind of operates and looks for associations, and even [[Algorithms]] that purport to evaluate the meaning or the strength of argument, say for instance in the text, they're still just doing associations.
 >
 > **[3:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=222)** Meaning is fundamentally a human act.
 >
@@ -1448,13 +1435,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=234)** And this is true even for gen AI algorithms that are able to talk with you about meaning.
 >
-> **[4:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=240)** Remember, it's a simulation.
+> **[4:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=240)** Remember, it's a [[Simulation]].
 >
 > **[4:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=243)** It's not reality even when it purports to be reality.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=247)** In fact, AI has frequently been described as the alien mind.
 >
-> **[4:12](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=252)** AI and deep learning may use intermediate constructs.
+> **[4:12](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=252)** AI and [[Deep Learning]] may use intermediate constructs.
 >
 > **[4:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=256)** Again, maybe it looks at pixels and then it draws lines, and then it draws objects, and it infers things from there.
 >
@@ -1462,7 +1449,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=263)** But the intermediate constructs, the ideas that it's using may bear no relationship to human categories or ideas.
 >
-> **[4:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=272)** And they're always based on associations including spurious associations, such as looking at the background or looking at other metadata that may be accompanying the data.
+> **[4:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=272)** And they're always based on associations including spurious associations, such as looking at the background or looking at other [[Metadata]] that may be accompanying the data.
 >
 > **[4:44](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=284)** The important thing to remember here is that AI is very useful and it's very productive, but fundamentally, it's built on associations and it is often looking at things that are very different from what a human perceiver would look at.
 >
@@ -1470,15 +1457,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (3), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1), [[Simulation]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** cat (3), make (3)
 > **Analogies:** for instance (2), for example (1), it's like (1), picture (1), such as (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vulnerability to attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980)
+#### [Vulnerability to attacks](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1492,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=104)** So a lot of this falls into the category of adversarial machine learning, sometimes also called adversarial examples, because what a person does is they provide data to the AI that is designed to throw off its original function.
 >
-> **[1:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=119)** By the way, this is not to be confused with generative adversarial networks, which is a combination of AIs that's used, for instance, to create very realistic looking images and videos.
+> **[1:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=119)** By the way, this is not to be confused with [[Generative Adversarial Networks (GANs)|generative adversarial networks]], which is a combination of AIs that's used, for instance, to create very realistic looking images and videos.
 >
 > **[2:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=130)** There are two particular kinds of attacks that happen through this method.
 >
@@ -1536,7 +1522,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=200)** Now, in terms of who is doing this stuff, well, there are different groups and they're working for different reasons.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=206)** One, for instance, is privacy advocates.
+> **[3:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=206)** One, for instance, is [[Privacy]] advocates.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=208)** These are people who are trying to preserve a little more privacy for people, and they are trying to slow down the rise of AI as a matter of general principle.
 >
@@ -1546,7 +1532,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=237)** And then of course, there are malicious hackers.
 >
-> **[4:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=241)** That's people who are trying to get past security and access users as in spam messages or turning machines into spam bots and blockchain zombies, or they're trying to hack into a government system and steal or possibly worse, manipulate data, which can be considered an act of cyber terrorism.
+> **[4:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=241)** That's people who are trying to get past security and access users as in spam messages or turning machines into spam bots and [[Blockchain]] zombies, or they're trying to hack into a government system and steal or possibly worse, manipulate data, which can be considered an act of cyber terrorism.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/vulnerability-to-attacks-26215020?u=76281980&t=259)** Now, of course, attacks of various kinds are nothing new.
 >
@@ -1558,18 +1544,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (4), [[Privacy]] (2), business (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Blockchain]] (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attacking AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980)
+#### [Attacking AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=0)** - [Instructor] Artificial intelligence algorithms are vulnerable to attack in many different ways.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] [[Algorithms]] are vulnerable to attack in many different ways.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=6)** For instance, it's possible to attack it for text recognition, for audio recognition, and for the recognition of visual images.
 >
@@ -1579,7 +1564,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=27)** And here on the first page, they have a couple of examples.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=29)** I'm going to zoom in so you can see those better.
+> **[0:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=29)** I'm going to [[Zoom]] in so you can see those better.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=32)** And what you have here are small snips of news stories.
 >
@@ -1609,7 +1594,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=113)** I want to come down here and show you an interesting example.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=117)** We're going to play a little bit of text, and I'll then show you what the transcription is that the speech recognition software gets.
+> **[1:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=117)** We're going to play a little bit of text, and I'll then show you what the transcription is that the [[Speech Recognition]] software gets.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=125)** - [Narrator] The boy looked out at the horizon.
 >
@@ -1699,7 +1684,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=347)** And I want to finish with one more that actually creates a possibility of something that is physically dangerous.
 >
-> **[5:52](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=352)** And in this one, "Physical Adversarial Examples "Against Deep Neural Networks," the researchers create some stickers they can put on objects like a stop sign.
+> **[5:52](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=352)** And in this one, "Physical Adversarial Examples "Against Deep [[Neural Networks]]," the researchers create some stickers they can put on objects like a stop sign.
 >
 > **[6:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/attacking-ai-26217004?u=76281980&t=363)** Now I'm going to zoom in on this one on the right, and what we have are these stickers that look like, well, pictures of fuzzy fruit on them.
 >
@@ -1723,7 +1708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Zoom]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Speech Recognition]] (1), [[Neural Networks]] (1)
 > **Speakers:** - [instructor] (3), - [narrator] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -1736,8 +1721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimensions of justice
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
+#### [Dimensions of justice](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1769,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980&t=147)** It's important to give this inherent multidimensionality it's due.
 >
-> **[2:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980&t=152)** So it might be helpful to know that in the psychology and organizational behavior world, it's common to talk about at least three forms of justice.
+> **[2:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980&t=152)** So it might be helpful to know that in the psychology and organizational behavior world, it's common to talk about at least three [[Forms]] of justice.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980&t=162)** The first one is distributive justice.
 >
@@ -1825,14 +1809,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** refers to (2), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moral reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980)
+#### [Moral reasoning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,7 +1897,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980&t=303)** AI is involved in all of these processes and all of them affect people.
 >
-> **[5:09](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980&t=309)** They also can look at things like whether to flag a credit card transaction as fraudulent, how to categorize photos, how to reach a destination, what products to recommend, and what medical diagnosis to use and treatment to recommend.
+> **[5:09](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980&t=309)** They also can look at things like whether to flag a credit card transaction as fraudulent, how to categorize photos, how to reach a destination, what [[Microsoft Products|products]] to recommend, and what medical diagnosis to use and treatment to recommend.
 >
 > **[5:21](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/moral-reasoning-26214851?u=76281980&t=321)** All of these have impact on people and the way that you construct that relationship and the standards you use for evaluating are going to depend on the nature of the relationship between the person using it and the person who created it.
 >
@@ -1930,14 +1913,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Search]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issues of authenticity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980)
+#### [Issues of authenticity](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1979,7 +1961,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980&t=115)** But all of these can create issues because they are taking roles that generally are expected to be fulfilled by humans.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980&t=125)** And I want to point out, this is different from call centers that are staffed by humans who either use collections of canned phrases to sound like somebody else and they just press a bunch of buttons or the more recent development of AI algorithms that can change the accents of the person speaking.
+> **[2:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980&t=125)** And I want to point out, this is different from call centers that are staffed by humans who either use collections of canned phrases to sound like somebody else and they just press a bunch of buttons or the more recent development of AI [[Algorithms]] that can change the accents of the person speaking.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/issues-of-authenticity-26213968?u=76281980&t=142)** In both cases, they can lead somebody to feel like they've been fooled, which leads to expose videos getting posted, and that's a little embarrassing for everybody.
 >
@@ -2003,7 +1985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1)
 > **Analogies:** for instance (1)
@@ -2014,8 +1996,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
+#### [GenAI laws](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2027,9 +2008,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=8)** There are so many different things about once you've taken a step, it can be very hard to go back where you were.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=15)** And that is definitely true of a lot of the work in AI, and especially with Generative AI.
+> **[0:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=15)** And that is definitely true of a lot of the work in AI, and especially with [[Generative AI]].
 >
-> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=22)** Now, in terms of laws and policies that are designed to address some of these risks, some of the prominent ones include the European Union's Artificial Intelligence Act of 2024.
+> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=22)** Now, in terms of laws and policies that are designed to address some of these risks, some of the prominent ones include the European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act of 2024.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980&t=34)** Also, the United Nations has released a document, which while it is not a binding thing, there's no enforcement, it is a series of recommendations.
 >
@@ -2087,19 +2068,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (9), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980)
+#### [Privacy laws](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=0)** - [Narrator] Back in the old days of data science, which means like 10 years ago, there was a kind of Wild West mentality about data.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=0)** - [Narrator] Back in the old days of [[Data Science]], which means like 10 years ago, there was a kind of Wild West mentality about data.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=8)** If you can see it, you can grab it.
 >
@@ -2131,13 +2111,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=103)** Many other countries have similar laws.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=107)** In the United States, California was the first one to create a series of privacy regulations that had many of the same goals as the GDPR.
+> **[1:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=107)** In the United States, California was the first one to create a series of [[Privacy]] regulations that had many of the same goals as the GDPR.
 >
 > **[1:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=117)** The first and better-known version was the California Consumer Privacy Act, or CCPA.
 >
 > **[2:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=123)** While the current version is the California Privacy Rights Act.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=128)** And in the US there was an attempt to create a federal law called the American Data Privacy and Protection Act.
+> **[2:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=128)** And in the US there was an attempt to create a federal law called the American [[Data Privacy]] and Protection Act.
 >
 > **[2:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=134)** It made it pretty far, but ultimately didn't pass, although it does lay the groundwork for a potential future federal regulations governing data privacy.
 >
@@ -2179,9 +2159,9 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=289)** And then in June of 2021, Amazon was fined $865 million, 746 million Euros for gathering data for advertising without explicit consent.
 >
-> **[5:02](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=302)** You can also get your products banned.
+> **[5:02](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=302)** You can also get your [[Microsoft Products|products]] banned.
 >
-> **[5:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=304)** In 2022, Google Analytics is facing a near complete ban in France, Denmark, and other countries, because it transfers data to the US apparently without preserving the GDPR rights of EU citizens.
+> **[5:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=304)** In 2022, [[Google]] Analytics is facing a near complete ban in France, Denmark, and other countries, because it transfers data to the US apparently without preserving the GDPR rights of EU citizens.
 >
 > **[5:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=319)** And Denmark has, as of July of 2022, banned schools from using Gmail and Google Workspace, which includes Google Docs, Sheets, and Slides, also for not meeting GDPR privacy standards.
 >
@@ -2199,7 +2179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Privacy]] (8), [[Google]] (3), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (4), [[Google]] (3), [[Data Science]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gdpr (10), ccpa (1)
 > **Definitions:** basically means (1), known as (1), is a  (1)
 > **CLI Commands:** find (2)
@@ -2208,8 +2188,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Spurious discrimination
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980)
+#### [Spurious discrimination](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2235,7 +2214,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=70)** Instead of 50% heads and 50% tails, we're going to flip a coin that has a 95% chance of heads.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=77)** So probability of heads is 95, probability of tails is 5%.
+> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=77)** So [[Probability]] of heads is 95, probability of tails is 5%.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=82)** And then imagine you flip that coin a certain number of times, we'll just call that n, and you win around if your lower 95% confidence bound is at least 90%.
 >
@@ -2289,11 +2268,11 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=223)** But because of the way we set up the rules that the lower boundary of the confidence interval had to be greater than 90, you only win if you flip it at least 200 times, at least probabilistically.
 >
-> **[3:56](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=236)** And this is an analogy for what can happen with small groups or minority groups in a lot of data science projects.
+> **[3:56](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=236)** And this is an analogy for what can happen with small groups or minority groups in a lot of [[Data Science]] projects.
 >
 > **[4:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=244)** One example of this is applying online for a mortgage.
 >
-> **[4:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=247)** The algorithms that are used in financial services tend to be risk-averse, so they're going to try to minimize the number of bad loans that they make.
+> **[4:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=247)** The [[Algorithms]] that are used in financial services tend to be risk-averse, so they're going to try to minimize the number of bad loans that they make.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/spurious-discrimination-26209951?u=76281980&t=259)** And so they might specify a rule that said, so a loan is awarded if the confidence interval for repayment is at least 90%.
 >
@@ -2305,15 +2284,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), game (3), data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Data Science]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The right to explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980)
+#### [The right to explanation](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2349,7 +2327,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980&t=138)** we add 'em together, we get an outcome.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980&t=142)** On the other hand, neural networks, which are very popular for complex decision making in data science, can be nearly impossible to explain.
+> **[2:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980&t=142)** On the other hand, [[Neural Networks]], which are very popular for complex decision making in [[Data Science]], can be nearly impossible to explain.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-right-to-explanation-26206968?u=76281980&t=152)** Obviously people have the code that sets up the neural network, but the way that the data is transformed and how it interacts as it goes through can be nearly opaque.
 >
@@ -2363,14 +2341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (3), [[Neural Networks]] (2), business (1), express (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Data Science]] (1)
 > **Env Vars:** gdpr (4), xai (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrimination in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980)
+#### [Discrimination in data](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,7 +2355,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=8)** So AI can sometimes lead to lawsuits, say, for instance, if job ads are being shown on social media to younger workers and they get the better jobs and older workers get the lower-paying jobs.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=22)** Or another common one is jobs and gender where higher paying jobs are being shown to men than are being shown to women, or sentencing algorithms where racial bias incenting algorithms can predict risk of recidivism in a way that is biased against defendants who are members of minority groups.
+> **[0:22](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=22)** Or another common one is jobs and gender where higher paying jobs are being shown to men than are being shown to women, or sentencing [[Algorithms]] where racial bias incenting algorithms can predict risk of recidivism in a way that is biased against defendants who are members of minority groups.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=41)** All three of these have happened, and all three of these have led to major, major problems for the companies that have developed the algorithms.
 >
@@ -2394,7 +2371,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=89)** It's a large-scale question that seeps into the values and into the utilization of the algorithms.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=99)** Let me say a little bit about data collection.
+> **[1:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=99)** Let me say a little bit about [[Data Collection]].
 >
 > **[1:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=101)** Part of the problem here is that more data comes from people who, not surprisingly, spend more time online, since the vast majority of data comes from online interactions.
 >
@@ -2418,7 +2395,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=163)** So a person may not actually put their gender or their race or ethnicity on the chart, but chances are, if they've answered more than three other questions, you can probably predict what they were on those.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=175)** And also, if you have rich data, things like cell phone metadata or GPS data or zip code or birthdate, social media groups and likes, you can infer with a very high degree of accuracy categories that you are technically not allowed to be using when you do your algorithms because it introduces noticeable biases against protected groups.
+> **[2:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=175)** And also, if you have rich data, things like cell phone [[Metadata]] or GPS data or zip code or birthdate, social media groups and likes, you can infer with a very high degree of accuracy categories that you are technically not allowed to be using when you do your algorithms because it introduces noticeable biases against protected groups.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-data-26217003?u=76281980&t=199)** So names can be clues to gender and race.
 >
@@ -2438,24 +2415,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Algorithms]] (7), ai (3), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[Data Collection]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrimination in implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980)
+#### [Discrimination in implementation](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=0)** - [Presenter] It's common knowledge that AI has been associated with some shocking forms of discrimination and control, including racism and minority oppression.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=0)** - [Presenter] It's common knowledge that AI has been associated with some shocking [[Forms]] of discrimination and control, including racism and minority oppression.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=9)** But it's not just a matter of bad people doing bad things, even though that is sometimes the case.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=15)** There are other less obvious factors that can contribute to this problem.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=20)** So for example, when people write their AI algorithms, it is a very frequent practice to use code packages that are developed already by other people.
+> **[0:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=20)** So for example, when people write their AI [[Algorithms]], it is a very frequent practice to use code packages that are developed already by other people.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=32)** The problem is these code packages, which might, for instance, add facial recognition, you didn't develop those, and you may not know what goes into them.
 >
@@ -2481,26 +2457,25 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=153)** And both of these are very important because one of the things we've learned is that industry has not done a spectacular job of policing itself in many different ways.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=163)** And so having these professional level outside critics, evaluators looking at what's happening and raising awareness when something is going wrong is a critical step in making sure that the motivation exists to recognize the problems, to fix them, and try to come up with AI solutions that work better for everybody and not just a selective group.
+> **[2:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=163)** And so having these professional level outside critics, evaluators looking at what's happening and raising awareness when something is going wrong is a critical step in making sure that the motivation exists to recognize the problems, to fix them, and try to come up with [[AI Solutions]] that work better for everybody and not just a selective group.
 >
-> **[3:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=190)** And that gets to the promise of using artificial intelligence and decision making.
+> **[3:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-in-implementation-26209953?u=76281980&t=190)** And that gets to the promise of using [[Artificial Intelligence (AI)|artificial intelligence]] and decision making.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Forms]] (1), [[Algorithms]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Algorithms]] (1), [[AI Solutions]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** adm (1)
 > **Speakers:** - [presenter] (1)
 
-#### Discrimination and misinformation in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980)
+#### [Discrimination and misinformation in generative AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=0)** - [Instructor] If you've spent any time around, I dunno, people in your life, then you know that office rumors are a way of spreading information that may not be accurate, and even these two people in the background with their charts and their presentations sometimes is a more official looking way of spreading information that may not be completely factual.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=0)** - [Instructor] If you've spent any time around, I dunno, people in your life, then you know that [[Microsoft Office|office]] rumors are a way of spreading information that may not be accurate, and even these two people in the background with their charts and their presentations sometimes is a more official looking way of spreading information that may not be completely factual.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=20)** It turns out that office rumors, wishful thinking, are both important elements of things going wrong that also come up with generative AI.
+> **[0:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=20)** It turns out that office rumors, wishful thinking, are both important elements of things going wrong that also come up with [[Generative AI]].
 >
 > **[0:31](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=31)** Now, two things in particular are the related topics of misinformation and disinformation.
 >
@@ -2530,7 +2505,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=126)** It can create data sets that appear to support common misinformation.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=130)** Again, if people say it on the internet, well, generative AI, the word is it's a stochastic parrot.
+> **[2:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=130)** Again, if people say it on the internet, well, generative AI, the [[Microsoft Word|word]] is it's a stochastic parrot.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/discrimination-and-misinformation-in-generative-ai-26213971?u=76281980&t=138)** It tends to repeat back what it saw, and if what it's drawing from is factually incorrect because people put down what they thought maybe was true or what they wanted to be true, it can give you the same information.
 >
@@ -2586,7 +2561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), data (6), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -2596,8 +2571,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI in life and death situations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
+#### [AI in life and death situations](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2657,15 +2631,15 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=174)** For instance, you sometimes need to have insight into how the algorithm functions, for useful coordination, they need to know what data it's using, how it's processing it.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=184)** And unfortunately, some complex algorithms are enormously difficult to follow.
+> **[3:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=184)** And unfortunately, some complex [[Algorithms]] are enormously difficult to follow.
 >
 > **[3:10](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=190)** Also, the algorithm may rely on elements of the data that are outside of normal human awareness.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=196)** Neural networks are very good at picking up on little microscopic cues that humans don't see.
+> **[3:16](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=196)** [[Neural Networks]] are very good at picking up on little microscopic cues that humans don't see.
 >
 > **[3:21](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=201)** They can also be thrown off by those cues, and so it's really hard to tell what's going on there.
 >
-> **[3:27](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=207)** And of course, the data may be coming in too fast and with too much time pressure for humans to react, and they don't have time to go through the deliberative procedure to make a decision.
+> **[3:27](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=207)** And of course, the data may be coming in too fast and with too much time pressure for humans to [[React.js|react]], and they don't have time to go through the deliberative procedure to make a decision.
 >
 > **[3:40](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980&t=220)** And so these are all limitations of the human in the loop process.
 >
@@ -2683,14 +2657,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (6), application (1), [[Algorithms]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Neural Networks]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2), is an  (1), is called (1), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### AI in the military
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980)
+#### [AI in the military](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2706,7 +2679,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980&t=47)** So let's look at some of the ways that AI can be used in military settings, and sometimes with an eye of how it might be used outside of the military.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980&t=57)** The first category I want to look at is where AI, machine learning, and data science in general work in non-combat functions.
+> **[0:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980&t=57)** The first category I want to look at is where AI, machine learning, and [[Data Science]] in general work in non-combat functions.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-the-military-26209952?u=76281980&t=65)** So the transfer to civilian applications is most likely.
 >
@@ -2772,7 +2745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (5), next (2), traffic (1), game (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **Env Vars:** suv (1), gps (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for instance (1)
@@ -2780,12 +2753,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The challenges of military AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980)
+#### [The challenges of military AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=0)** - [Instructor] From the previous video, it's clear that there are major challenges and issues facing the use of AI and machine learning in data science and military applications.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=0)** - [Instructor] From the previous video, it's clear that there are major challenges and issues facing the use of AI and machine learning in [[Data Science]] and military applications.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=9)** In this video, I want to talk about a few of the technical, ethical, and social challenges specifically.
 >
@@ -2841,24 +2813,23 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=222)** And it's hard to influence those when people's levels of trust are already low.
 >
-> **[3:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=227)** But what all of these highlight are the inherent challenges of many kinds that must be confronted when using artificial intelligence and machine learning in military applications.
+> **[3:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=227)** But what all of these highlight are the inherent challenges of many kinds that must be confronted when using [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning in military applications.
 >
 > **[3:57](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-challenges-of-military-ai-26216007?u=76281980&t=237)** As I've mentioned before, there are not yet any universal solutions, but it's imperative for any organization working in AI and military to consider these issues as thoroughly as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (3), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **Env Vars:** laws (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Physical safety and generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980)
+#### [Physical safety and generative AI](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=0)** - [Instructor] Perhaps you spend some time playing with microcontrollers like an Arduino, and hooking it up to a breadboard like you see right here.
+> **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=0)** - [Instructor] Perhaps you spend some time playing with microcontrollers like an [[Arduino]], and hooking it up to a breadboard like you see right here.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=8)** This is something that is known sometimes as physical computing.
 >
@@ -2868,7 +2839,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=35)** If you've ever gotten lost while following GPS, and I've had that experience both in my car and on my bicycle, you realize that the digital world can have real and sometimes serious implications for what happens in the physical world.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=50)** The same thing is true of AI and particularly generative AI and people's physical safety, where it can get out of the digital and into the physical.
+> **[0:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=50)** The same thing is true of AI and particularly [[Generative AI]] and people's physical safety, where it can get out of the digital and into the physical.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=61)** Let me run through some quick categories where this can happen.
 >
@@ -2910,7 +2881,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=164)** So if you're relying on generative AI as your research assistant but it's making stuff up that is factually inaccurate, that can lead you to make bad decisions, and those bad decisions at times can lead to dangerous decisions that affect the physical and mental health of people, that affect the criminal justice system, that affect public safety.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=184)** There are so many things where it can lead you to propose, we are going to change a public policy that affects public health, and whoops, we made a bad decision because the AI made up a data set, and consequently people are getting harmed from it.
+> **[3:04](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=184)** There are so many things where it can lead you to propose, we are going to change a public policy that affects [[Public Health]], and whoops, we made a bad decision because the AI made up a data set, and consequently people are getting harmed from it.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/physical-safety-and-generative-ai-7863871?u=76281980&t=200)** And so even having that human in the loop may not fix the problem if they're relying on something unreliable that comes from generative AI.
 >
@@ -2942,7 +2913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), ai (5), data (5), [[Arduino]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Arduino]] (1), [[Public Health]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** gps (1)
@@ -2955,8 +2926,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategies for developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
+#### [Strategies for developers](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2986,17 +2956,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=47)** Also, think about what data is available to you for this project, and also, what data is legally usable.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=54)** So it's going to be important for you to be up to date on restrictions and policies, things like the GDPR and California regulations about data privacy.
+> **[0:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=54)** So it's going to be important for you to be up to date on restrictions and policies, things like the GDPR and California regulations about [[Data Privacy]].
 >
 > **[1:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=65)** Finally, you're going to want to consider whether AI is really necessary for the project.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=71)** If possible, you may want to use an algorithm with a more easily explainable process.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=77)** There's a preference for things, like linear regression or decision trees, and against deep learning as long as they are actually sufficient for the goals that you have for the project.
+> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=77)** There's a preference for things, like [[Linear Regression]] or [[Decision Trees]], and against [[Deep Learning]] as long as they are actually sufficient for the goals that you have for the project.
 >
 > **[1:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=88)** To paraphrase the "Voice of Experience" that I have read elsewhere, most proposed AI projects would likely work better with linear regression on properly prepared data.
 >
-> **[1:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=101)** And don't forget, data preparation is 80% of any data science project.
+> **[1:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=101)** And don't forget, [[Data Preparation]] is 80% of any [[Data Science]] project.
 >
 > **[1:47](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=107)** Also, methods like linear regression are a little easier to adapt to the regulations of the general data protection regulation and the general principle of Occam's razor says, "Choose the simplest method that adequately addresses the goals because it's going to be easier to interpret, easier to troubleshoot, and easier to generalize to other situations."
 >
@@ -3058,7 +3028,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=318)** And then finally, try to build in as much transparency as possible.
 >
-> **[5:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=323)** This helps with legal compliance and social challenges, as well as making your work easier to use within your own organization.
+> **[5:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=323)** This helps with [[Legal Compliance]] and social challenges, as well as making your work easier to use within your own organization.
 >
 > **[5:30](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980&t=330)** It's an important element of working in good faith.
 >
@@ -3066,7 +3036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (5), [[Linear Regression]] (3), [[Privacy]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Data Science]] (2), [[Data Privacy]] (1), [[Decision Trees]] (1), [[Deep Learning]] (1)
 > **Env Vars:** roc (2), gdpr (1), auc (1), toc (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
@@ -3074,8 +3044,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies for executives
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980)
+#### [Strategies for executives](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3091,7 +3060,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=36)** AI works better for some projects than others.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=39)** It works wonderfully for photo identification, for natural language processing, but other simpler, faster methods can work better for familiar quantitative tasks.
+> **[0:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=39)** It works wonderfully for photo identification, for [[Natural Language Processing (NLP)|natural language processing]], but other simpler, faster methods can work better for familiar quantitative tasks.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=52)** Also, make sure that you're using reasonable projections for ROI calculations.
 >
@@ -3121,25 +3090,25 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=161)** Next, is the general principle that simpler is better.
 >
-> **[2:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=165)** Don't forget that narrow AI or very domain-specific artificial intelligence has been more successful over the last 10, 20 years than attempts at general AI that is designed to be able to do anything.
+> **[2:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=165)** Don't forget that narrow AI or very domain-specific [[Artificial Intelligence (AI)|artificial intelligence]] has been more successful over the last 10, 20 years than attempts at general AI that is designed to be able to do anything.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=179)** Also, be humble.
 >
 > **[3:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=180)** Even the biggest AI companies have trouble with profitability on their own AI projects, so it's not a guarantee, but it's something that you need to approach thoughtfully, carefully.
 >
-> **[3:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=193)** And as a third point to state something that may be painfully obvious at this point, when using generative AI, well, the code that is created by it and the media, the images, the audio, the video that's created by it, they can struggle with quality, and so it's not yet quite time to get rid of all the humans and replace them with AI.
+> **[3:13](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=193)** And as a third point to state something that may be painfully obvious at this point, when using [[Generative AI]], well, the code that is created by it and the media, the images, the audio, the video that's created by it, they can struggle with quality, and so it's not yet quite time to get rid of all the humans and replace them with AI.
 >
 > **[3:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=214)** Do what is going to work most effectively, but that's going to require very careful attention to anything that is coming from generative AI.
 >
 > **[3:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=223)** And then finally, make sure that you as the CEO stay in touch.
 >
-> **[3:48](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=228)** You're going to want to keep in touch with your legal department, because you don't want to have trouble with things like the GDPR or the California Privacy Rights Act, or other major regulations, all of which are actively developing.
+> **[3:48](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=228)** You're going to want to keep in touch with your legal department, because you don't want to have trouble with things like the GDPR or the California [[Privacy]] Rights Act, or other major regulations, all of which are actively developing.
 >
 > **[3:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=239)** So, you have to have this constant contact.
 >
-> **[4:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=243)** Stay in touch with your CIO and your data security team.
+> **[4:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=243)** Stay in touch with your CIO and your [[Data Security]] team.
 >
-> **[4:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=246)** Remember, your data and your algorithms are both extremely valuable to you, but to other people as well, who may either try to steal it for their own use or corrupt it so that you can't use yours.
+> **[4:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=246)** Remember, your data and your [[Algorithms]] are both extremely valuable to you, but to other people as well, who may either try to steal it for their own use or corrupt it so that you can't use yours.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-executives-26211972?u=76281980&t=259)** And so, security is going to be critical.
 >
@@ -3149,7 +3118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (7), business (2), next (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1), [[Data Security]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** roi (3), ceo (1), gdpr (1), cio (1)
 > **Warnings:** be aware (2), keep in mind (1), be careful (1), watch out (1)
@@ -3157,8 +3126,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Strategies for public relations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980)
+#### [Strategies for public relations](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3168,9 +3136,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=21)** A few ways that you can help ensure that your AI work is done in good faith is, for instance, is bias in check?
 >
-> **[0:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=28)** Make sure that both the data and the algorithms that are used are checked for bias frequently.
+> **[0:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=28)** Make sure that both the data and the [[Algorithms]] that are used are checked for bias frequently.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=35)** Or second, emphasize the success of narrow or domain-specific AI as opposed to the larger and shinier general AI, because so much of the work in data science that has created measurable advances has been through this narrower approach.
+> **[0:35](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=35)** Or second, emphasize the success of narrow or domain-specific AI as opposed to the larger and shinier general AI, because so much of the work in [[Data Science]] that has created measurable advances has been through this narrower approach.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=54)** And third, be wary of overpromising, which usually leads to underdelivering.
 >
@@ -3230,7 +3198,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=229)** So for instance, you might want to highlight the established benefits of your organization's AI work.
 >
-> **[3:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=235)** You may want to free your organization to focus on this mission of creating reliable, high quality AI products by taking care of these very significant distractions.
+> **[3:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=235)** You may want to free your organization to focus on this mission of creating reliable, high quality AI [[Microsoft Products|products]] by taking care of these very significant distractions.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-public-relations-26213967?u=76281980&t=247)** And then also you have a special opportunity to build trust with your stakeholders, that's your customers, your investors, your regulators, and the public.
 >
@@ -3238,14 +3206,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (2), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Science]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (5)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies for regulators
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980)
+#### [Strategies for regulators](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3271,7 +3238,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=96)** Rules that appear to be commonsense may not work effectively in the real world, like washing your dishes as you cook as soon as they get dirty, well, it seems like a good approach, but it doesn't really work if you're actually trying to get dinner ready by a particular time.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=111)** Or the speed and volume of data, along with the complexity of data and algorithms make it so difficult to adapt to all of the changes that happen.
+> **[1:51](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=111)** Or the speed and volume of data, along with the complexity of data and [[Algorithms]] make it so difficult to adapt to all of the changes that happen.
 >
 > **[2:01](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=121)** It's like how it's simply not possible to review all the videos that get uploaded before they can be shared and viewed, and you have to do triages.
 >
@@ -3285,7 +3252,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=146)** Also, for regulators, you have to be concerned about the compliance with existing laws.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=151)** So, for instance, the European Union's General Data Protection Regulation, that's the GDPR, the California Privacy Rights Act, and so many other laws that exist now or are coming, part of the big problem is these laws are all still new and they're trying to respond to situations that are new.
+> **[2:31](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=151)** So, for instance, the European Union's General Data Protection Regulation, that's the GDPR, the California [[Privacy]] Rights Act, and so many other laws that exist now or are coming, part of the big problem is these laws are all still new and they're trying to respond to situations that are new.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=169)** And so, the interpretations and precedents have yet to become very well-established, which makes it a much more difficult environment to operate in.
 >
@@ -3293,22 +3260,21 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=188)** So, for instance, civil rights and anti-discrimination laws or laws for medical technology, aviation and transportation laws or workplace safety.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=198)** All of these are areas that can be affected by the data science world, by online data and, consequently, by artificial intelligence.
+> **[3:18](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=198)** All of these are areas that can be affected by the [[Data Science]] world, by online data and, consequently, by [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[3:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=208)** There's also a need to specifically get guidelines for accountability for harm that results from AI that behaves in unexpected or just unresponsive ways.
+> **[3:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=208)** There's also a need to specifically get guidelines for [[Accountability]] for harm that results from AI that behaves in unexpected or just unresponsive ways.
 >
-> **[3:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=221)** All of these taken together lets you know really that regulation is difficult and probably the single most important thing is to develop a quick responding or agile methodology so that you can see new threats as they come, and ways that laws and policies are being interpreted, what is being enacted, and trying to come up with something that is going to make it possible for organizations to develop useful AI that provides important services without compromising basic important rights.
+> **[3:41](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-regulators-26217002?u=76281980&t=221)** All of these taken together lets you know really that regulation is difficult and probably the single most important thing is to develop a quick responding or [[Agile Development|agile]] methodology so that you can see new threats as they come, and ways that laws and policies are being interpreted, what is being enacted, and trying to come up with something that is going to make it possible for organizations to develop useful AI that provides important services without compromising basic important rights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (2), [[Algorithms]] (1), [[Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Privacy]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1)
 > **Analogies:** for instance (2), for example (1), it's like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies for consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980)
+#### [Strategies for consumers](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3324,7 +3290,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=30)** Know what data companies can use and how they can use it.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=33)** You're going to want to look at regulations like the GDPR, that's the European Union's General Data Protection Regulation, and other laws that affect AI and data science.
+> **[0:33](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=33)** You're going to want to look at regulations like the GDPR, that's the European Union's General Data Protection Regulation, and other laws that affect AI and [[Data Science]].
 >
 > **[0:43](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=43)** A few of the most important things to remember here are, number one, the right to explanation.
 >
@@ -3352,7 +3318,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=116)** In AI, a couple of ways that that can play into it is just remember that AI is all too human.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=123)** AI algorithms are human creations, so don't defer if it doesn't seem right.
+> **[2:03](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=123)** AI [[Algorithms]] are human creations, so don't defer if it doesn't seem right.
 >
 > **[2:08](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-consumers-26213970?u=76281980&t=128)** There's a long history of bad behavior hiding behind the veneer of science.
 >
@@ -3388,7 +3354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (12), [[Algorithms]] (1), [[Programming]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (1)
 > **Env Vars:** gdpr (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3400,14 +3366,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=0)** - [Instructor] So thanks for joining me on this extended discussion of the promises and perils of AI.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=6)** Despite my focus on the challenges, I hope I've made it clear that I'm also a huge fan of AI and machine learning and data science.
+> **[0:06](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=6)** Despite my focus on the challenges, I hope I've made it clear that I'm also a huge fan of AI and machine learning and [[Data Science]].
 >
 > **[0:14](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=14)** The things that they've been able to accomplish are staggering, even if most of us will do our data work in spreadsheets and bar charts.
 >
@@ -3423,9 +3388,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=59)** Start with the foundations courses, and then you can branch out and build on them from there.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=65)** In terms of actually writing code, Python's a great place to start, because it's a clean, friendly, and general-purpose programming language that has excellent support for AI functionality.
+> **[1:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=65)** In terms of actually writing code, [[Python (Programming Language)|Python]]'s a great place to start, because it's a clean, friendly, and general-purpose programming language that has excellent support for AI functionality.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=77)** The statistical programming language R is also a common choice for many of the machine learning algorithms used in AI.
+> **[1:17](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=77)** The statistical programming language R is also a common choice for many of the machine learning [[Algorithms]] used in AI.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=83)** And depending on your field, R may be more common than Python or vice versa.
 >
@@ -3433,13 +3398,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=96)** You can also get domain-specific instructions.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=99)** So for example, here at LinkedIn Learning, we have courses on how AI and data science are applied in fields like healthcare, finance, marketing, and other important topics.
+> **[1:39](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=99)** So for example, here at [[LinkedIn]] Learning, we have courses on how AI and data science are applied in fields like healthcare, finance, marketing, and other important topics.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=109)** Business intelligence is a more general field where the flexibility and scalability of AI can make an enormous difference.
+> **[1:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=109)** [[Business Intelligence (BI)|Business intelligence]] is a more general field where the flexibility and [[Scalability]] of AI can make an enormous difference.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=115)** So BI-relevant courses would also be helpful.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=120)** And find some examples of data-driven decision-making in your field of interest.
+> **[2:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=120)** And find some examples of data-driven [[Decision-Making]] in your field of interest.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=125)** It's going to vary from one field to another with different kinds of data and different algorithms and different interpretations.
 >
@@ -3447,13 +3412,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=141)** Also, make sure to read news and special publication in your areas of interest.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=146)** Artificial intelligence is developing at an extraordinary pace, and new applications are coming out all the time.
+> **[2:26](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=146)** [[Artificial Intelligence (AI)|Artificial intelligence]] is developing at an extraordinary pace, and new applications are coming out all the time.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=152)** Whatever your interests, you'll be able to find plenty to learn about AI.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=157)** And while you're at it, it's a good time to go back and think about the context of AI.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=162)** Review the important concept you may have learned, for instance, in business law, or philosophy and ethics, or social sciences and cognitive science.
+> **[2:42](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=162)** Review the important concept you may have learned, for instance, in business law, or philosophy and [[Ethics]], or social sciences and cognitive science.
 >
 > **[2:51](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980&t=171)** You know, it's a reminder that AI isn't just a technical project, but one that involves nearly every aspect of the human experience, and that the actual physical brain is still important to understanding artificial intelligence.
 >
@@ -3467,7 +3432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (9), [[Programming]] (4), business (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (6), python (2), find (2)
 > **Env Vars:** hbr (1), mit (1)
 > **Analogies:** for example (1), for instance (1)

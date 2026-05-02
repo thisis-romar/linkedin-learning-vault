@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most out of your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980)
+#### [Getting the most out of your data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=0)** - [Josh] Excel continues to embrace the wonderful world of analytics.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=0)** - [Josh] [[Microsoft Excel|Excel]] continues to embrace the wonderful world of analytics.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=4)** It seems like almost every day a new feature is being released, making it increasingly easy for even the novice user to take data and turn it into a powerful story.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=21)** In this course, I'm going to show you how to quickly import data into an Excel workbook and then seamlessly reshape it using a query.
 >
-> **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=31)** And by the way, with Excel's Power Query feature, you can easily achieve this without having to write a single line of code.
+> **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=31)** And by the way, with Excel's [[Microsoft Power Query|Power Query]] feature, you can easily achieve this without having to write a single line of code.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=39)** We'll then cover how to merge different data sources together by creating a data model using Excel's Power Pivot.
 >
@@ -104,32 +103,31 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=71)** Now, I'm sure you're itching to get started.
 >
-> **[1:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=73)** So, come and join me on this LinkedIn Learning journey as we explore how to work together with Excel's Power Query and Power Pivot.
+> **[1:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980&t=73)** So, come and join me on this [[LinkedIn]] Learning journey as we explore how to work together with Excel's Power Query and Power Pivot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), feature (2), [[Microsoft Power Query|Power query]] (2), power (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Power Query|Power query]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [josh] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=0)** - [Instructor] Throughout this course, you'll notice that I'm using a desktop version of Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=0)** - [Instructor] Throughout this course, you'll notice that I'm using a desktop version of [[Microsoft Excel|Excel]].
 >
 > **[0:04](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=4)** If you are too but are working with say an older version of Excel, then you may see a compatibility warning pop up when using some of the exercise files.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=14)** If this happens, then simply go ahead and click on Close, and you're good to go.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=19)** It's also worth mentioning that at the time of recording, the Excel add-ins that I demonstrate in this course, that is Power Pivot and Power Query, were only available in the Desktop version of Excel.
+> **[0:19](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=19)** It's also worth mentioning that at the time of recording, the Excel add-ins that I demonstrate in this course, that is Power Pivot and [[Microsoft Power Query|Power Query]], were only available in the Desktop version of Excel.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=31)** Unfortunately, these features were not available on the Mac release of the software.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=37)** Both Power Query and Power Pivot are available in the subscription version of Excel.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=42)** That is in Office 365 or Microsoft 365.
+> **[0:42](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=42)** That is in [[Microsoft Office|Office]] 365 or [[Microsoft 365]].
 >
 > **[0:46](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/what-you-should-know?u=76281980&t=46)** They're also both available in Excel 2019.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), power (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Office|Office]] (2), [[Microsoft 365]] (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -151,14 +149,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How Power Query and Power Pivot work together
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980)
+#### [How Power Query and Power Pivot work together](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=0)** - Previously just a simple spreadsheeting product, Excel now provides a seamless and complete end-to-end solution from source data to actionable insights via the generation of powerful reports.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=0)** - Previously just a simple spreadsheeting product, [[Microsoft Excel|Excel]] now provides a seamless and complete end-to-end solution from source data to actionable insights via the generation of powerful reports.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=13)** Now, in this course, we're going to specifically look at two amazing features, Power Query and Power Pivot.
+> **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=13)** Now, in this course, we're going to specifically look at two amazing features, [[Microsoft Power Query|Power Query]] and Power Pivot.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=21)** They're designed to complement each other.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=79)** A data model allows you to establish links between tables, just like a relational database.
 >
-> **[1:25](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=85)** We can also create custom calculations, define KPIs, and then evaluate our experience using Excel's native Pivot Tables and Pivot Charts, and all of this without having to write complex formulas and look ups.
+> **[1:25](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=85)** We can also create custom calculations, define KPIs, and then evaluate our experience using Excel's native [[Pivot Tables]] and Pivot Charts, and all of this without having to write complex formulas and look ups.
 >
 > **[1:41](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980&t=101)** So how does Power Query and Power Pivot work together then, you might be wondering.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Power Query|Power query]] (5), power (5), [[Microsoft Excel|Excel]] (3), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - previously (1)
@@ -216,14 +213,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980)
+#### [Select your data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980&t=0)** - Okay, it's probably stating the obvious that before using power query or power pivot, we need data.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980&t=0)** - Okay, it's probably stating the obvious that before using [[Microsoft Power Query|power query]] or power pivot, we need data.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980&t=7)** Now there's an ever growing number of methods and data sources that are available to use in Excel.
+> **[0:07](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980&t=7)** Now there's an ever growing number of methods and data sources that are available to use in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980&t=13)** If we click on data here and then click on the dropdown next to get data, you can see the vast range of options that we have to select, but to make it easier to understand the concepts of power query and power pivot, I'm actually just going to go ahead and select from file and from tech slash CSV.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (3), power (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (7), dropdown (1), select the (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** csv (2)
@@ -273,8 +269,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - okay (1)
 
-#### Prepare your query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980)
+#### [Prepare your query](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980&t=11)** Let's head over to the Query Menu Option here, and then go ahead and select Edit.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980&t=17)** Clicking this button opens up the Power Query Editor window, and you'll notice Excel's attempt at determining the data type for each column, such as the DOL transaction date here, which is the Department of Licensing transaction date.
+> **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980&t=17)** Clicking this button opens up the [[Microsoft Power Query|Power Query]] Editor window, and you'll notice [[Microsoft Excel|Excel]]'s attempt at determining the data type for each column, such as the DOL transaction date here, which is the Department of Licensing transaction date.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-your-query?u=76281980&t=32)** The calendar icon here identifies that we're working with a date field.
 >
@@ -308,15 +303,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** csv (2), dol (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Use a query to cleanse data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980)
+#### [Use a query to cleanse data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +320,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=15)** But how about we explore this a little bit further using a couple of examples.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=19)** To make it easier to understand these concepts, make sure that you have the Excel file open for this movie, and then go ahead and click on query and then select edit, which opens the query editor.
+> **[0:19](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=19)** To make it easier to understand these concepts, make sure that you have the [[Microsoft Excel|Excel]] file open for this movie, and then go ahead and click on query and then select edit, which opens the query editor.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=31)** Now remember, when using the query editor here, it's only a preview.
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=119)** Once again, this is something that I don't think is going to add a huge amount of value because it appears to be incomplete.
 >
-> **[2:05](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=125)** My guess is it wasn't a mandatory field at the point of data collection.
+> **[2:05](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=125)** My guess is it wasn't a mandatory field at the point of [[Data Collection]].
 >
 > **[2:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/use-a-query-to-cleanse-data?u=76281980&t=129)** So I'm simply going to select this column as well.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), hit (3), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Collection]] (1)
 > **Env Vars:** dol (3), vin (2), csv (1)
 > **UI Navigation:** click on (3), select the (1)
 > **CLI Commands:** make (3)
@@ -407,8 +401,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance your query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980)
+#### [Enhance your query](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980&t=8)** Let's explore a few.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980&t=9)** Make sure that the Excel file for this video is open.
+> **[0:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980&t=9)** Make sure that the [[Microsoft Excel|Excel]] file for this video is open.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/enhance-your-query?u=76281980&t=13)** And then go ahead and click on Query, and then Edit to open up the query editor.
 >
@@ -500,25 +493,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), feature (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (13), dropdown (2), select the (1)
 > **CLI Commands:** make (12)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare data for Power Pivot
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980)
+#### [Prepare data for Power Pivot](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=0)** - [Instructor] Once your data has been cleansed and prepared using Power Query, I find that it's best to analyze it using Power Pivot.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=0)** - [Instructor] Once your data has been cleansed and prepared using [[Microsoft Power Query|Power Query]], I find that it's best to analyze it using Power Pivot.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=7)** Power Pivot is designed to work seamlessly with Power Query, and preparing your data to be used in Power Pivot is a piece of cake.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=16)** But before we get too excited and carried away here, there's just a couple of small steps we need to take care of first.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=22)** I suggest that you have the Excel file for this video open.
+> **[0:22](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=22)** I suggest that you have the [[Microsoft Excel|Excel]] file for this video open.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/prepare-data-for-power-pivot?u=76281980&t=26)** You'll see that what we have is a Power Query that's been prepared earlier.
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), [[Microsoft Power Query|Power query]] (5), data (2), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -561,12 +553,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980)
+#### [Create your data model](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980&t=0)** - [Instructor] Let's say that you've created an Excel file and have connected with a data source using Power Query.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980&t=0)** - [Instructor] Let's say that you've created an [[Microsoft Excel|Excel]] file and have connected with a data source using [[Microsoft Power Query|Power Query]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980&t=6)** Now assume that you're ready to analyze your data and have decided that Power Pivot is the way to go, given it's seamless integration with Excel's Power Query.
 >
@@ -622,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), power (9), [[Microsoft Excel|Excel]] (4), [[Microsoft Power Query|Power query]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Power Query|Power query]] (4)
 > **UI Navigation:** click on (7), navigate to (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3)
@@ -631,12 +622,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import additional data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/import-additional-data?u=76281980)
+#### [Import additional data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/import-additional-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/import-additional-data?u=76281980&t=0)** - [Instructor] To get the full value out of PowerPivot, we need to import another data source and link the two together using something called a relationship.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/import-additional-data?u=76281980&t=0)** - [Instructor] To get the full value out of [[PowerPivot]], we need to import another data source and link the two together using something called a relationship.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/import-additional-data?u=76281980&t=8)** And we'll come to this in a moment.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PowerPivot]] (2), hit (1)
+> **Frameworks & Libraries:** [[PowerPivot]] (2)
 > **UI Navigation:** click on (3)
 > **Env Vars:** loc (2)
 > **CLI Commands:** make (1)
@@ -680,12 +670,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/build-relationships?u=76281980)
+#### [Build relationships](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/build-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/build-relationships?u=76281980&t=0)** - With the Excel exercise file for this video open, make sure that you have the Power Pivot data model open by selecting Power Pivot, and then clicking on Manage.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/build-relationships?u=76281980&t=0)** - With the [[Microsoft Excel|Excel]] exercise file for this video open, make sure that you have the Power Pivot data model open by selecting Power Pivot, and then clicking on Manage.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/build-relationships?u=76281980&t=11)** Now let's go ahead and click on Diagram View.
 >
@@ -729,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (5), [[Microsoft Excel|Excel]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -738,18 +727,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - with (1)
 
-#### Create lookups as new fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980)
+#### [Create lookups as new fields](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=0)** - [Instructor] Now that we've created a link between two data sources in PowerPivot, wouldn't it be wonderful to see this all come together in one view, one table?
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=0)** - [Instructor] Now that we've created a link between two data sources in [[PowerPivot]], wouldn't it be wonderful to see this all come together in one view, one table?
 >
-> **[0:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=9)** Luckily this is incredibly easy using a feature in PowerPivot called custom calculations, or DAX, D-A-X, which stands for data analysis expressions.
+> **[0:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=9)** Luckily this is incredibly easy using a feature in PowerPivot called custom calculations, or [[DAX]], D-A-X, which stands for data analysis expressions.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=20)** Now DAX can be used for doing all sorts of fancy things with your data, such as creating new calculations, new views, and that kind of thing, and all this without having to write complex formulas.
 >
-> **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=31)** I suggest you have the Excel file open for this video to follow along with me, and from the PowerPivot menu, go ahead and select manage.
+> **[0:31](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=31)** I suggest you have the [[Microsoft Excel|Excel]] file open for this video to follow along with me, and from the PowerPivot menu, go ahead and select manage.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=40)** This opens up the data model.
 >
@@ -767,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=96)** And in the very first row, let's go ahead and create our very first DAX expression.
 >
-> **[1:42](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=102)** Let's type equals, then start typing the word related and open brackets.
+> **[1:42](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=102)** Let's type equals, then start typing the [[Microsoft Word|word]] related and open brackets.
 >
 > **[1:49](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-lookups-as-new-fields?u=76281980&t=109)** PowerPivot is now smart enough to recognize the relationship that we created earlier, which is simply called location type, and then type.
 >
@@ -783,19 +771,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[PowerPivot]] (5), [[DAX]] (4), hit (2), feature (1)
+> **Frameworks & Libraries:** [[PowerPivot]] (5), [[DAX]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dax (4)
 > **Definitions:** stands for (1), is called (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze data using PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivottables?u=76281980)
+#### [Analyze data using PivotTables](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivottables?u=76281980&t=0)** - [Instructor] Now that you've created a Data Model using Power Pivot and this being linked to a Power Query that you created earlier, let's start to take a look at what the data is actually telling us.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivottables?u=76281980&t=0)** - [Instructor] Now that you've created a Data Model using Power Pivot and this being linked to a [[Microsoft Power Query|Power Query]] that you created earlier, let's start to take a look at what the data is actually telling us.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivottables?u=76281980&t=11)** Using some of Excels standard inbuilt features.
 >
@@ -853,15 +840,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), power (2), [[Microsoft Power Query|Power query]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** click on (7), scroll down (2), dropdown (2), select the (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze data using PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980)
+#### [Analyze data using PivotCharts](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980&t=9)** So let's go ahead and do it.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980&t=11)** Make sure that the Excel file for this video is open and that you're on the pivot worksheet.
+> **[0:11](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980&t=11)** Make sure that the [[Microsoft Excel|Excel]] file for this video is open and that you're on the pivot worksheet.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/analyze-data-using-pivotcharts?u=76281980&t=17)** Excel makes it dead easy to create a chart from an existing pivot table, such as this one.
 >
@@ -929,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (7), dropdown (2), select the (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (2), such as (1)
@@ -941,8 +927,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scenario 1: Refresh source data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980)
+#### [Scenario 1: Refresh source data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,13 +975,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980&t=153)** Now, take the time to play around with some of the options here, but me personally, I like to leave the default options.
 >
-> **[2:40](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980&t=160)** But did you know that if you go ahead and select refresh data when opening this file, that from now on your model will be updated with any new source data automatically every time you open up the file, and this includes any pivot tables and pivot charts that are feeding off your power pivot data model, too.
+> **[2:40](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980&t=160)** But did you know that if you go ahead and select refresh data when opening this file, that from now on your model will be updated with any new source data automatically every time you open up the file, and this includes any [[Pivot Tables]] and pivot charts that are feeding off your power pivot data model, too.
 >
 > **[2:59](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980&t=179)** So why not go ahead and check it out for yourself?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pivot Tables]] (1), power (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **UI Navigation:** click on (5), right-click (2)
 > **Env Vars:** csv (4)
 > **CLI Commands:** make (3)
@@ -1004,8 +989,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario 2: Updating queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980)
+#### [Scenario 2: Updating queries](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=6)** This may be a problem with the actual source data, or it could be something as simple as needing to update the query.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=13)** The brilliant part about power query is, making a change to an existing query is extremely simple.
+> **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=13)** The brilliant part about [[Microsoft Power Query|power query]] is, making a change to an existing query is extremely simple.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=20)** And with power query and power pivot designed to seamlessly work together, any changes to reports and charts update automatically.
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=154)** Now be super patient once more, as this step may take a few moments.
 >
-> **[2:39](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=159)** Excel is doing some serious crunching of data here, and once complete you'll notice that the year 2020 has disappeared.
+> **[2:39](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=159)** [[Microsoft Excel|Excel]] is doing some serious crunching of data here, and once complete you'll notice that the year 2020 has disappeared.
 >
 > **[2:48](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-2-updating-queries?u=76281980&t=168)** Now it's actually been cleared from the data behind our reports, which we can see by simply clicking on the data worksheet.
 >
@@ -1079,24 +1063,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Power Query|Power query]] (2), next (2), power (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (8), dropdown (2), go to (1), scroll down (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - sometimes (1)
 
-#### Scenario 3: New reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980)
+#### [Scenario 3: New reports](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=0)** - [Tutor] In my opinion, nothing highlights the value of a well designed and built Power Pivot and Power Query data model, than creating new reports. Why?
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=0)** - [Tutor] In my opinion, nothing highlights the value of a well designed and built Power Pivot and [[Microsoft Power Query|Power Query]] data model, than creating new reports. Why?
 >
 > **[0:10](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=10)** Because if this is done correctly, it should only take a minute or so to create a new report using your data.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=16)** Let's see how.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=17)** With the Excel file for this video open, head over to the pivot worksheet.
+> **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=17)** With the [[Microsoft Excel|Excel]] file for this video open, head over to the pivot worksheet.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-3-new-reports?u=76281980&t=23)** What you're looking at here is a report from a data model that we've already prepared.
 >
@@ -1154,15 +1137,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Scenario 4: New source data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980)
+#### [Scenario 4: New source data](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1164,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980&t=76)** And let's make sure we get rid of the space after the brackets too.
 >
-> **[1:22](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980&t=82)** Next, let's go ahead and jump back to the Excel file. And from the data menu here, click on Queries and Connections, and you'll notice that a pane opens to the right hand side of the screen.
+> **[1:22](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980&t=82)** Next, let's go ahead and jump back to the [[Microsoft Excel|Excel]] file. And from the data menu here, click on Queries and Connections, and you'll notice that a pane opens to the right hand side of the screen.
 >
 > **[1:38](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-4-new-source-data?u=76281980&t=98)** From here, all we need to do is click on the refresh icon to the right hand side of the CSV file source.
 >
@@ -1198,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** csv (6)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), we discussed (1)
@@ -1206,12 +1188,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario 5: Finessing reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-5-finessing-reports?u=76281980)
+#### [Scenario 5: Finessing reports](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-5-finessing-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-5-finessing-reports?u=76281980&t=0)** - [Instructor] With the 04_05 FinesseReports Excel file open go ahead and click on Data and then Queries and Connections.
+> **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-5-finessing-reports?u=76281980&t=0)** - [Instructor] With the 04_05 FinesseReports [[Microsoft Excel|Excel]] file open go ahead and click on Data and then Queries and Connections.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-5-finessing-reports?u=76281980&t=13)** And when the pane opens to the right hand side of the screen, go ahead and click on the refresh icon.
 >
@@ -1241,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), dropdown (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1251,20 +1232,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=0)** - [Joshua] Thank you so much for taking the time to watch this course.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=3)** What you have just learned is only a brief introduction on how using Excel's Power Query together with Power Pivot can harness the value of your data.
+> **[0:03](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=3)** What you have just learned is only a brief introduction on how using [[Microsoft Excel|Excel]]'s [[Microsoft Power Query|Power Query]] together with Power Pivot can harness the value of your data.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=13)** Now, new Excel features are being released all the time.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=17)** And so I strongly suggest that you keep abreast of what's changing in this space.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=21)** The one resource that I do recommend for this is to become part of Microsoft's Office Insider program.
+> **[0:21](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=21)** The one resource that I do recommend for this is to become part of [[Microsoft]]'s [[Microsoft Office|Office]] Insider program.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=28)** By joining this program, you'll become an integral part of this growing collaborative community and, better yet, get ahead of the game by receiving early access to new features.
 >
@@ -1272,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=51)** Why not see what you can find on the open data network?
 >
-> **[0:55](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=55)** And finally, I encourage you to connect with me on LinkedIn.
+> **[0:55](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=55)** And finally, I encourage you to connect with me on [[LinkedIn]].
 >
 > **[0:58](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980&t=58)** I'd truly love to hear your feedback on this course.
 >
@@ -1280,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1), power (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [joshua] (1)
 

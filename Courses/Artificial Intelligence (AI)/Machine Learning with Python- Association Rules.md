@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Association rule mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
+#### [Association rule mining](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980&t=27)** I'm a data scientist, teacher, and author with a passion for AI and machine learning.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980&t=33)** Welcome to Machine Learning with Python Association Rules.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980&t=33)** Welcome to Machine Learning with [[Python (Programming Language)|Python]] Association Rules.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980&t=38)** In this course, I explain what an association rule is and how to more efficiently create them using frequent item sets.
 >
@@ -108,13 +107,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [fred] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,13 +120,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=9)** First, I assume that you have a fundamental understanding of what machine learning is, specifically unsupervised machine learning.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory LinkedIn learning course, [[Machine Learning with Python- Foundations]].
+> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=28)** Second, it would be helpful if you have some entry level experience with coding in Python.
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=35)** I will assume that you know how to import a Python package, refer to the attributes of an object and call the methods of an object.
 >
-> **[0:44](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=44)** Next, it would also be helpful if you have some familiarity with the pandas package.
+> **[0:44](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=44)** Next, it would also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] package.
 >
 > **[0:51](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=51)** If you don't, no worries.
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,11 +152,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=11)** I recommend that you do so.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=13)** The best way to become proficient in using association rules in Python is to practice doing it yourself.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=13)** The best way to become proficient in using association rules in [[Python (Programming Language)|Python]] is to practice doing it yourself.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=22)** This course is delivered using Codespaces, a development environment that is hosted in the cloud.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=22)** This course is delivered using [[Codespaces]], a development environment that is hosted in the cloud.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=31)** The exercise files are available on GitHub and are organized by branches.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=31)** The exercise files are available on [[GitHub]] and are organized by branches.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=38)** Within each branch is a data file and two notebooks, a beginning and an ending notebook.
 >
@@ -179,11 +176,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=84)** It is a completed version of the beginning notebook just for your reference.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=90)** Now, let's get a quick word from LinkedIn Learning about using Codespaces for this course.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-the-exercise-files?u=76281980&t=90)** Now, let's get a quick [[Microsoft Word|word]] from [[LinkedIn]] Learning about using Codespaces for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (2), data (2), [[Python (Programming Language)|Python]] (1), cloud (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** groceries.csv (1)
@@ -191,16 +188,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] Code Spaces.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=9)** [[Codespaces]] is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index html file right here.
+> **[3:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index [[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run, get fetch.
+> **[5:34](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run, get [[Fetch]].
 >
 > **[5:38](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/using-github-codespaces-with-this-course?u=76281980&t=338)** That way it'll automatically sync with your forked repo.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** click on (3), switch to (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -336,8 +332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are association rules?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
+#### [What are association rules?](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980&t=205)** By using association rules to define the patterns in market basket data we can gain valuable insight into consumer behavior.
 >
-> **[3:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980&t=215)** With this insight we can answer important business questions such as what products should be displayed together in the store, what products could be discounted together in order to increase sales and what products should be recommended to customers as part of a cross selling strategy.
+> **[3:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980&t=215)** With this insight we can answer important business questions such as what [[Microsoft Products|products]] should be displayed together in the store, what products could be discounted together in order to increase sales and what products should be recommended to customers as part of a cross selling strategy.
 >
 > **[3:57](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980&t=237)** It's important to note that association rules are not only useful for market basket analysis, they can also be applied in other domains.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Products|Products]] (3), database (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** known as (4), is an  (1), is a  (1), means that (1)
 > **Warnings:** note that (2), caution (1)
 > **Analogies:** such as (1), for example (1)
@@ -429,8 +424,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - every (1)
 
-#### Frequent itemset generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/frequent-itemset-generation?u=76281980)
+#### [Frequent itemset generation](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/frequent-itemset-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +536,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), next (1)
 > **Definitions:** known as (4), is a  (4), means that (1), is an  (1), defined as (1)
 > **Analogies:** for example (5), imagine (1), for instance (1), such as (1)
 > **Versions:** 0.4 (2), 0.5 (1)
@@ -550,8 +543,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Apriori algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/the-apriori-algorithm?u=76281980)
+#### [The Apriori algorithm](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/the-apriori-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,7 +625,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3)
 > **Definitions:** means that (2), is a  (1), in other words (1)
 > **Versions:** 0.2 (1)
 > **Analogies:** such as (1)
@@ -641,8 +632,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - frequent (1)
 
-#### The FP-Growth algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/the-fp-growth-algorithm?u=76281980)
+#### [The FP-Growth algorithm](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/the-fp-growth-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,7 +752,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), node (3)
 > **CLI Commands:** node (3), find (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (3)
@@ -771,8 +760,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/evaluating-association-rules?u=76281980)
+#### [Evaluating association rules](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/evaluating-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +908,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), power (1), product (1)
 > **Versions:** 0.67 (4), 0.6 (3), 0.4 (2), 0.8 (2), 0.84 (2)
 > **Definitions:** is a  (2), in other words (2), means that (1), known as (1), is called (1)
 > **Analogies:** similar to (2), for example (1)
@@ -928,14 +915,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why and when to use association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980)
+#### [Why and when to use association rules](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=0)** - [Narrator] In order to know when to use association rules, we need to understand their strengths and weaknesses.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=7)** In terms of strengths, association rules are very good with big data: the larger the better.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=7)** In terms of strengths, association rules are very good with [[Big Data]]: the larger the better.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=15)** The more occurrences there are of a particular rule within a dataset, the more interesting the rule is, and the more likely it is that the rule is actionable.
 >
@@ -943,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=35)** The left hand side of a rule, which is known as antecedent, is the condition that needs to be met, while the right hand side of the rule, which is known as a consequence, is expected result of meeting the condition.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=50)** Association rules are very useful for data mining tasks, such as discovering unexpected or previously hidden patterns within a dataset.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=50)** Association rules are very useful for [[Data Mining]] tasks, such as discovering unexpected or previously hidden patterns within a dataset.
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/why-and-when-to-use-association-rules?u=76281980&t=60)** While commonly used for market basket analysis, association rules are useful in identifying patterns of co-occurrence in a wide variety of domains.
 >
@@ -971,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), data (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Mining]] (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** dna (1)
@@ -983,8 +969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to collect data for association rule mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
+#### [How to collect data for association rule mining](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,11 +977,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=11)** Association rules are often used for market basket analysis because they allow us to discover, quantify and analyze the co-occurrence of items within a set of transactions.
 >
-> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=23)** In this video, you will learn how to import and explore a transaction set for association rule mining in Python.
+> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=23)** In this video, you will learn how to import and explore a transaction set for association rule mining in [[Python (Programming Language)|Python]].
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=32)** Note that this video is a first in a four video sequence that also teaches you how to generate frequent item sets, how to create association rules and how to evaluate association rules in Python.
 >
-> **[0:48](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=48)** I would also like to highlight that the Python packages we use in these four tutorials, CSV, Mlxtend, Pandas and NumPy have all been pre-installed for you as part of your codespaces environment.
+> **[0:48](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=48)** I would also like to highlight that the Python packages we use in these four tutorials, CSV, Mlxtend, [[Pandas (Software)|Pandas]] and NumPy have all been pre-installed for you as part of your [[Codespaces]] environment.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980&t=66)** The data that we're going to analyze is market basket data collected from a local grocery store over a 30 day period.
 >
@@ -1118,7 +1103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (3), next (3), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** csv (5)
 > **Definitions:** is a  (3), is called (1)
@@ -1127,12 +1112,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
-#### How to generate frequent itemsets
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980)
+#### [How to generate frequent itemsets](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=0)** - [Instructor] In this video, you will learn how to generate frequent itemsets in Python using the apriori, fpgrowth and fpmax algorithms.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=0)** - [Instructor] In this video, you will learn how to generate frequent itemsets in [[Python (Programming Language)|Python]] using the apriori, fpgrowth and fpmax [[Algorithms]].
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=13)** Note that this video is a second in a four video sequence that also teaches you how to import and explore transactions, how to create association rules and how to evaluate association rules in Python.
 >
@@ -1142,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=47)** So I'm going to go up here and click on Run All.
 >
-> **[0:53](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=53)** Now that we have our transactions in a compatible format which is one-hot encoded pandas DataFrame, let's limit our focus to the frequent itemsets.
+> **[0:53](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=53)** Now that we have our transactions in a compatible format which is one-hot encoded [[Pandas (Software)|pandas]] DataFrame, let's limit our focus to the frequent itemsets.
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-generate-frequent-itemsets?u=76281980&t=64)** The mlextend.frequent_pattern sub-package provides three functions for generating frequent itemsets.
 >
@@ -1270,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (4), next (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (2)
 > **Code Identifiers:** frequent_itemsets (4), frequent_pattern (1), sort_values (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** python (2), make (1)
@@ -1279,12 +1263,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), in the next (1)
 > **Warnings:** note that (2)
 
-#### How to create association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980)
+#### [How to create association rules](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=0)** - [Instructor] In this video, you will learn how to create association rules from frequent itemsets in Python.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=0)** - [Instructor] In this video, you will learn how to create association rules from frequent itemsets in [[Python (Programming Language)|Python]].
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=8)** Note that this video is a third in a four video sequence that also teaches you how to import and explore transactions, how to generate frequent itemsets and how to evaluate association rules in Python.
 >
@@ -1336,7 +1319,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=168)** We also get metrics that tell us the support, confidence, lift, leverage, and conviction of each rule.
 >
-> **[2:58](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=178)** Because our rules are returned as a pandas DataFrame we can easily transform and filter the data to find what we need.
+> **[2:58](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=178)** Because our rules are returned as a [[Pandas (Software)|pandas]] DataFrame we can easily transform and filter the data to find what we need.
 >
 > **[3:07](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-create-association-rules?u=76281980&t=187)** For example, let's say we're only interested in rules that include 'rolls/buns' in the antecedent.
 >
@@ -1498,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.01 (4), 1.4 (4), 0.25 (3)
 > **Code Identifiers:** association_rules (3), min_threshold (2), frequent_patterns (1), frequent_itemsets (1)
 > **Analogies:** for example (4), imagine (3)
@@ -1507,12 +1490,11 @@ created: 2026-05-02
 > **Warnings:** note that (3)
 > **Cross-References:** in the last (1), in the next (1)
 
-#### How to evaluate association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980)
+#### [How to evaluate association rules](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=0)** - In this video, you will learn how to use several data driven objective measures of interest in this, to evaluate association rules in Python.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=0)** - In this video, you will learn how to use several data driven objective measures of interest in this, to evaluate association rules in [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=11)** Note that this video, is a fourth, in a four video sequence, that also teaches you how to import and explore transactions, how to generate frequent item sets, and how to create association rules in Python.
 >
@@ -1524,7 +1506,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=49)** So now that we've created association rules, and know how to filter rules, based on different criteria, let's take a look at how to evaluate them, based on the associated metrics.
 >
-> **[1:02](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=62)** A quick way to get a big picture view of the metrics, is with summary statistics.
+> **[1:02](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=62)** A quick way to get a big picture view of the metrics, is with summary [[Statistics]].
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-evaluate-association-rules?u=76281980&t=68)** We do this, by calling the describe method, of the rules data frame.
 >
@@ -1694,7 +1676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
 > **Versions:** 3.04 (3), 1.5 (2), 1.76 (1), 0.99 (1), 0.026 (1)
 > **Definitions:** means that (5), is a  (3), in other words (2)
 > **Analogies:** picture (1), similar to (1), such as (1)
@@ -1708,8 +1690,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,7 +1698,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=2)** You now know what an itemset is, how frequent itemsets are generated, how association rules are created, how they are evaluated, and how to use them.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=14)** You've also learned how to import transactions, generate frequent itemsets, create association rules, and evaluate association rules in Python.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=14)** You've also learned how to import transactions, generate frequent itemsets, create association rules, and evaluate association rules in [[Python (Programming Language)|Python]].
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=26)** The foundational knowledge and skills you've acquired in this course should serve as a stepping stone to continue learning about machine learning.
 >
@@ -1727,13 +1708,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=51)** Association rules are one of many unsupervised machine learning models we can build in Python.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=58)** I encourage you to continue to explore other LinkedIn Learning courses that illustrate the use of different types of machine learning models.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=58)** I encourage you to continue to explore other [[LinkedIn]] Learning courses that illustrate the use of different types of machine learning models.
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=68)** As a starting point, you can check out my other courses in the Machine Learning with Python series on LinkedIn Learning.
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=76)** Besides courses that explore other models, I also encourage you to explore LinkedIn Learning courses that highlight the importance of ethics in data collection and use.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=76)** Besides courses that explore other models, I also encourage you to explore LinkedIn Learning courses that highlight the importance of [[Ethics]] in [[Data Collection]] and use.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=88)** An example of such a course is [[Data Ethics- Watching Out for Data Misuse]].
+> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=88)** An example of such a course is [[[[Data Ethics]]- Watching Out for Data Misuse]].
 >
 > **[1:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=95)** If you are interested in broadening your skillset into other languages, such as R, then also check out my book, "Practical Machine Learning in R."
 >
@@ -1747,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (3), data (3), next (2), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (3), [[Ethics]] (1), [[Data Collection]] (1), [[Data Ethics]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

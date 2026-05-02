@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your application
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980)
+#### [Securing your application](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,31 +114,30 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980&t=36)** Hi, I'm Carlos Rivas, and I'm a Certified AWS Solutions Architect and software engineer.
 >
-> **[0:42](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980&t=42)** Let's secure your application in this LinkedIn Learning course.
+> **[0:42](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980&t=42)** Let's secure your application in this [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), aws (3), cloud (2), data (2), management (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Speakers:** - [carlos] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=0)** - [Instructor] To be able to better apply this course, it's recommended that you have familiarity with AWS basic services, such as S3 and EC2.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=0)** - [Instructor] To be able to better apply this course, it's recommended that you have familiarity with AWS basic services, such as S3 and [[Amazon EC2|EC2]].
 >
 > **[0:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=10)** You understand the security needs of your application and its underlying infrastructure.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=14)** Only you know if your application will require specific permissions, data encryption, or complex authentication mechanisms.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=22)** If you need a refresher on AWS, you can check out Amazon Web Services Essential Training in our library.
+> **[0:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/what-you-should-know?u=76281980&t=22)** If you need a refresher on AWS, you can check out [[Amazon Web Services (AWS)|Amazon Web Services]] Essential Training in our library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), application (2), [[Amazon EC2|Ec2]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (2), ec2 (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (1)
@@ -151,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Important concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980)
+#### [Important concepts](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=41)** As we'll see later in the course, it can be a federated user that locked in through another identity provider.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=49)** Policies are JSON-formatted documents that specify which actions to allow or deny to an IAM identity.
+> **[0:49](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=49)** Policies are [[JSON]]-formatted documents that specify which actions to allow or deny to an IAM identity.
 >
 > **[0:57](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=57)** By default in AWS, all access is denied unless you specify otherwise.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=70)** These permissions will need to be in-line with the role they perform within your organization.
 >
-> **[1:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=75)** An developer for example may require access to Cutmate, Cloud9, EC2 and others.
+> **[1:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=75)** An developer for example may require access to Cutmate, Cloud9, [[Amazon EC2|EC2]] and others.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=81)** But this person probably does not need to see audit logs within Cloud Trail or change any network settings within the Bitro private cloud as these tasks are performed by other employees within the organization.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=121)** As we mentioned earlier, in IAM, you can assign access policies to a non-user identity.
 >
-> **[2:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=127)** This is called a role, and you can assign it to your application servers, for example, in order to give them permission to access your message queues, databases, and other services.
+> **[2:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=127)** This is called a role, and you can assign it to your application servers, for example, in order to give them permission to access your message queues, [[Databases]], and other services.
 >
 > **[2:17](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980&t=137)** Please note, this is not to be confused with security groups which control access at the networking level.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), cloud (3), [[Amazon EC2|Ec2]] (3), application (3), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[JSON]] (1), [[Databases]] (1)
 > **Env Vars:** iam (8), aws (6), ec2 (3), json (1)
 > **CLI Commands:** aws (6)
 > **Definitions:** is a  (2), is called (1)
@@ -220,8 +217,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uses and access keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980)
+#### [Uses and access keys](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=89)** We can use this account now to log in to the AWS console with administrator rights.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=96)** In order to set up our command line tool, you can visit aws.[amazon.com/cli](https://amazon.com/cli) and on the right, you can see install options for Windows, Mac and Linux.
+> **[1:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=96)** In order to set up our command line tool, you can visit aws.[amazon.com/[[CLI]]](https://amazon.com/cli) and on the right, you can see install options for [[Windows]], Mac and [[Linux]].
 >
 > **[1:48](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=108)** Let's go back to the console now to create an access key pair for our user.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), management (2), [[CLI]] (2), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** aws (4), iam (3), cli (1)
 > **CLI Commands:** aws (6), make (1)
 > **Prerequisites:** configure (2), setup (2), set up (1), install (1)
@@ -314,8 +310,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Roles and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980)
+#### [Roles and policies](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=6)** Unless you're the owner of your AWS account, you'll rarely see this in the real world.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=11)** This means you need to be familiar with the creation and management of IAM policies, which can be used to provide a more restrictive and Java-specific set of permissions.
+> **[0:11](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=11)** This means you need to be familiar with the creation and management of IAM policies, which can be used to provide a more restrictive and [[Java]]-specific set of permissions.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=21)** Let's look at a policy right now.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=78)** Let's now associate the policy we just saw with this role.
 >
-> **[1:23](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=83)** We'll choose EC2 service, click on permissions, and again, type s3, and we'll check that.
+> **[1:23](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=83)** We'll choose [[Amazon EC2|EC2]] service, click on permissions, and again, type s3, and we'll check that.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=98)** We'll type a name for our role, demo for EC2 servers, and click create.
 >
@@ -371,13 +366,13 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=195)** They have full control as long as they are within the confines of the development account.
 >
-> **[3:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=200)** This is a great example of separation of duties, which is a key element of data security.
+> **[3:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=200)** This is a great example of separation of duties, which is a key element of [[Data Security]].
 >
 > **[3:25](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/roles-and-policies?u=76281980&t=205)** Let's wrap up this chapter by revisiting some important facts we have learned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (3), management (1), [[Java]] (1), web (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Java]] (1), [[Data Security]] (1)
 > **Env Vars:** aws (7), iam (4), ec2 (3)
 > **CLI Commands:** aws (7), ls (1)
 > **UI Navigation:** click on (4), go to (2)
@@ -386,8 +381,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### IAM key points
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980)
+#### [IAM key points](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980&t=25)** Instead, use an MFA-enabled IAM user.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980&t=29)** All AWS root accounts should also have multi-factor authentication enabled.
+> **[0:29](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980&t=29)** All AWS root accounts should also have [[Multi-factor Authentication]] enabled.
 >
 > **[0:35](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/iam-key-points?u=76281980&t=35)** When managing more than a handful of IAM users, it's preferable to manage them using groups rather than individual users.
 >
@@ -415,14 +409,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), application (2), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (5), iam (3), mfa (1)
 > **CLI Commands:** aws (5)
 > **Exercise Files:** source code (2)
 > **Speakers:** - [carlos] (1)
 
-#### Challenge: IAM roles and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-iam-roles-and-policies?u=76281980)
+#### [Challenge: IAM roles and policies](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-iam-roles-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,14 +439,13 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: IAM roles and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980)
+#### [Solution: IAM roles and policies](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=0)** - [Instructor] All right, so my solution for this challenge includes the creation of an IAM user and we're going to pretend this demo user is a assistant administrator for our company.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=16)** So this person needs to be able to create EC2 servers with full control of what they're doing but they only need read only access to VPCs.
+> **[0:16](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=16)** So this person needs to be able to create [[Amazon EC2|EC2]] servers with full control of what they're doing but they only need read only access to VPCs.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=28)** They should be able to do networking stuff but they should not be able to change anything regarding VPCs or networking at all.
 >
@@ -519,7 +511,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=273)** I would click on attach policy, I would find SysAdminPolicy and select it and then attach it, after that anybody within the admin groups will get this policy assigned to them.
 >
-> **[4:50](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=290)** Other options that you have is roles, I will click create role and when you're creating a role, you can assign it to a federated login provider, usually active directory and then you can use your corporate credentials and then anybody logging in to those credentials can be associated with the role and this role is going to have the policy that we created.
+> **[4:50](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=290)** Other options that you have is roles, I will click create role and when you're creating a role, you can assign it to a federated login provider, usually [[Active Directory]] and then you can use your corporate credentials and then anybody logging in to those credentials can be associated with the role and this role is going to have the policy that we created.
 >
 > **[5:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-iam-roles-and-policies?u=76281980&t=315)** And that's how you associate a policy with a large number of users.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Active Directory]] (1)
 > **UI Navigation:** click on (13), go to (2), scroll down (1)
 > **Env Vars:** ec2 (5), vpc (5), iam (1), aws (1)
 > **CLI Commands:** find (2), aws (1), make (1)
@@ -541,8 +533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### S3 as a static website
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980)
+#### [S3 as a static website](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=10)** These files can later be accessed from anywhere.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=13)** Unfortunately, a lot of people set up their cloud storage accounts with security settings that are far too open.
+> **[0:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=13)** Unfortunately, a lot of people set up their [[Cloud Storage]] accounts with security settings that are far too open.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=20)** In these sections, we'll help you avoid this by showing you different measures you can take to safely store your confidential data in Amazon S3 Service.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=91)** Now if we go to Properties and go to Static website hosting and click on that, we'll click on Use this bucket to host a website.
 >
-> **[1:44](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=104)** And we'll specify index.html as our Index document.
+> **[1:44](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=104)** And we'll specify index.[[HTML]] as our Index document.
 >
 > **[1:50](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980&t=110)** We'll click Save.
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), feature (2), [[Security]] (2), data (1), web (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (5), go to (3)
 > **File Paths:** index.html (1)
 > **CLI Commands:** make (1)
@@ -609,12 +600,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [carlos] (1)
 
-#### Bucket policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980)
+#### [Bucket policies](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=0)** - [Instructor] Now that we have our bucket set up and ready to host our static webpages, we need to create a bucket policy that's going to allow web visitors to access the HTML file that we just loaded into it.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=0)** - [Instructor] Now that we have our bucket set up and ready to host our static webpages, we need to create a bucket policy that's going to allow web visitors to access the [[HTML]] file that we just loaded into it.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=12)** Let's go to our console.
 >
@@ -626,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=20)** This is the bucket policy editor.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=22)** A bucket policy is a JSON document which we use to specify access restrictions on the objects stored in our bucket.
+> **[0:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=22)** A bucket policy is a [[JSON]] document which we use to specify access restrictions on the objects stored in our bucket.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/bucket-policies?u=76281980&t=30)** If we open up access to the world, our static website should work.
 >
@@ -670,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[JSON]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JSON]] (2)
 > **Env Vars:** html (2), arn (2), json (1)
 > **UI Navigation:** go to (3), click on (1)
 > **File Paths:** bucket_policy.json (1), index.html (1)
@@ -679,8 +669,7 @@ created: 2026-05-02
 > **Code Identifiers:** bucket_policy (1)
 > **Exercise Files:** exercise files (1)
 
-#### S3 bucket encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-bucket-encryption?u=76281980)
+#### [S3 bucket encryption](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-bucket-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,19 +709,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), web (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** aes (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 object versioning and MFA delete
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980)
+#### [S3 object versioning and MFA delete](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=0)** - [Instructor] If you're using cloud storage within your company, chances are several people have access to it.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=0)** - [Instructor] If you're using [[Cloud Storage]] within your company, chances are several people have access to it.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=6)** In order to prevent accidental deletion of files or overrides, AWS provides additional layers of security.
 >
@@ -782,7 +769,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=129)** We click next and click save.
 >
-> **[2:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=133)** With this rule, you can rest assured that the all versions will be kept for our desired time period but then permanently deleted to save on storage cost.
+> **[2:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=133)** With this rule, you can [[Representational State Transfer (REST)|rest]] assured that the all versions will be kept for our desired time period but then permanently deleted to save on storage cost.
 >
 > **[2:24](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=144)** Even though you can't see this option in the AWS console, once versioning is enabled in your bucket, you have the option adding one more layer of protection, and that is multifactor authentication deletes.
 >
@@ -790,13 +777,13 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=163)** These users, assuming they have permission to delete files in your S3 bucket, will be asked to provide their security token along with their delete requests.
 >
-> **[2:53](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=173)** The way to enable it is through the AWS CLI tool with a command seen here.
+> **[2:53](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=173)** The way to enable it is through the AWS [[CLI]] tool with a command seen here.
 >
 > **[2:58](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-object-versioning-and-mfa-delete?u=76281980&t=178)** Now let's revisit important things to remember from this section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (3), [[Security]] (2), cloud (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
 > **Env Vars:** aws (4), cli (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -805,8 +792,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 key points
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980)
+#### [S3 key points](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,9 +806,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=27)** Data encryption in transit is done using SSL/TLS, or as most people know it, HTTPS or secure HTTP.
 >
-> **[0:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=36)** Data encryption at rest can be done using the S3 managed keys, or KMS managed keys, and we'll talk more about KMS in the next section.
+> **[0:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=36)** Data encryption at [[Representational State Transfer (REST)|rest]] can be done using the S3 managed keys, or KMS managed keys, and we'll talk more about KMS in the next section.
 >
-> **[0:45](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=45)** S3 managed encryption, SSE-S3, is the preferred method, and it does not incur additional charges.
+> **[0:45](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=45)** S3 managed encryption, [[Server-Sent Events|SSE]]-S3, is the preferred method, and it does not incur additional charges.
 >
 > **[0:52](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=52)** KMS managed encryption, SSE-KMS, comes with KMS service charges.
 >
@@ -830,19 +816,18 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=64)** But in this case, you are responsible for managing encryption keys, as well as encryption and decryption.
 >
-> **[1:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=70)** Enable versioning and Multi-factor Authentication Deletes to protect files in your S3 buckets against accidental overrides or deletes.
+> **[1:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=70)** Enable versioning and [[Multi-factor Authentication]] Deletes to protect files in your S3 buckets against accidental overrides or deletes.
 >
 > **[1:18](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-key-points?u=76281980&t=78)** Once versioning is enabled, it cannot be reverted back.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Server-Sent Events|Sse]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Server-Sent Events|Sse]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** kms (5), sse (2), ssl (1), tls (1), https (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: S3 presigned URL challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980)
+#### [Challenge: S3 presigned URL challenge](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,20 +845,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980&t=29)** Go ahead and create an S3 bucket and add some image files to it.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980&t=33)** Then using the AWS CLI tool, create a presigned URL that allows the public to view these images without actually accessing the entire contents of your S3 bucket.
+> **[0:33](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980&t=33)** Then using the AWS [[CLI]] tool, create a presigned URL that allows the public to view these images without actually accessing the entire contents of your S3 bucket.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-s3-presigned-url-challenge?u=76281980&t=43)** Go ahead and try it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), aws (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** aws (1), cli (1), url (1)
 > **CLI Commands:** make (1), aws (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: S3 presigned URL challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980)
+#### [Solution: S3 presigned URL challenge](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +873,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980&t=31)** And we're going to get an error message that says access denied, as we expected it to be.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980&t=37)** Now, we want this file to be shared with someone across internet but we don't want to share the rest of the contents.
+> **[0:37](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980&t=37)** Now, we want this file to be shared with someone across internet but we don't want to share the [[Representational State Transfer (REST)|rest]] of the contents.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-s3-presigned-url-challenge?u=76281980&t=43)** So let's go ahead and create a pre-sign URL and see how that works.
 >
@@ -925,7 +909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), aws (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (5), jpeg (1)
 > **CLI Commands:** aws (1)
 > **Cross-References:** go back to (1)
@@ -937,8 +921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key Management Service (KMS) introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/key-management-service-kms-introduction?u=76281980)
+#### [Key Management Service (KMS) introduction](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/key-management-service-kms-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,14 +943,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), data (2), management (1), [[Security]] (1), application (1)
 > **Env Vars:** kms (5), aws (3), ebs (1)
 > **CLI Commands:** aws (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AWS KMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980)
+#### [Using AWS KMS](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +998,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980&t=179)** So just remember that this feature exists and it's a great practice to have it enabled.
 >
-> **[3:06](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980&t=186)** Finally, in order to use the key to encrypt manually although you won't need this since you can just enable KMS with your key in your desired data store like S3, RDS, or EVS, this is the command that you would use if using the AWS CLI tool.
+> **[3:06](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980&t=186)** Finally, in order to use the key to encrypt manually although you won't need this since you can just enable KMS with your key in your desired data store like S3, RDS, or EVS, this is the command that you would use if using the AWS [[CLI]] tool.
 >
 > **[3:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-aws-kms?u=76281980&t=202)** Of course, you can also do this from the API from your own code.
 >
@@ -1029,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), aws (2), feature (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** kms (5), iam (4), aws (2), rds (1), evs (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (4)
@@ -1037,8 +1018,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### KMS key points
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/kms-key-points?u=76281980)
+#### [KMS key points](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/kms-key-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1042,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (1), aws (1), cloud (1)
 > **Env Vars:** kms (5), evs (1), rds (1), api (1), aws (1)
 > **CLI Commands:** make (1), aws (1)
 > **Definitions:** is a  (2)
@@ -1071,12 +1050,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [carlos] (1)
 
-#### Challenge: Key Management Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980)
+#### [Challenge: Key Management Service](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=0)** - [Instructor] In the world of data security, encryption is a necessity.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=0)** - [Instructor] In the world of [[Data Security]], encryption is a necessity.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=10)** That said, your encrypted data is only as secure as the protection that you give to your encryption keys.
 >
@@ -1090,19 +1068,18 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=34)** They're easily revoked and they're key knowledge for AWS exams.
 >
-> **[0:38](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=38)** Go ahead and try using the AWS CLI tool to create your own KMS grants.
+> **[0:38](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-key-management-service?u=76281980&t=38)** Go ahead and try using the AWS [[CLI]] tool to create your own KMS grants.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), aws (2), [[Security]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[CLI]] (1)
 > **Env Vars:** kms (3), aws (2), cli (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Key Management Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980)
+#### [Solution: Key Management Service](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,13 +1139,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980&t=247)** Here's the command and as you can see for this particular key ID in this region, we don't have any grants anymore.
 >
-> **[4:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980&t=255)** And that's how you assign temporary grants for encryption and decryption to users in an automated way using the AWS CLI.
+> **[4:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980&t=255)** And that's how you assign temporary grants for encryption and decryption to users in an automated way using the AWS [[CLI]].
 >
 > **[4:24](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-key-management-service?u=76281980&t=264)** And that's just my solution for this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), aws (2), management (1), prompt (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** kms (2), aws (2), iam (1), arn (1), cli (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** aws (2), make (1)
@@ -1182,8 +1159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cognito concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980)
+#### [Cognito concepts](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=36)** As an identity provider, it does everything we have mentioned so far.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=41)** As a broker, it allows your application to take advantage of social logins, such as Amazon, Facebook, and Google, and map those logins to a user profile to be used within your application.
+> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=41)** As a broker, it allows your application to take advantage of social logins, such as Amazon, Facebook, and [[Google]], and map those logins to a user profile to be used within your application.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=54)** One very important feature as well is the ability to trade Cognito credentials for AWS temporary credentials.
 >
@@ -1205,7 +1181,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=74)** There is another reason why I want to talk about Cognito, and that is the workflow taking place behind the scenes.
 >
-> **[1:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=80)** This login process is the same for all compatible SAML providers, such as Active Directory.
+> **[1:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=80)** This login process is the same for all compatible SAML providers, such as [[Active Directory]].
 >
 > **[1:26](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=86)** SAML, by the way stands for Security Assertion Markup Language and is an open standard for exchanging authentication and authorization data between our identity providers and our service providers, in this case AWS.
 >
@@ -1219,25 +1195,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), application (5), [[Active Directory]] (2), management (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Google]] (1)
 > **Env Vars:** aws (6), saml (3)
 > **CLI Commands:** aws (6), find (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980)
+#### [Workflow](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=0)** - [Instructor] Because Cognito is SAML compatible, the login workflow that we'll learn about here is very similar to what you would see if you were in a corporate environment using Active Directory to log into the AWS Console.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=0)** - [Instructor] Because Cognito is SAML compatible, the login workflow that we'll learn about here is very similar to what you would see if you were in a corporate environment using [[Active Directory]] to log into the AWS Console.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=13)** In this diagram, you see the entire process.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=17)** It begins with the user trying to reach your application from their mobile device.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=21)** This individual may choose one of the available social login providers such as Facebook, Amazon, or Google to avoid having to type a username and password.
+> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=21)** This individual may choose one of the available social login providers such as Facebook, Amazon, or [[Google]] to avoid having to type a username and password.
 >
 > **[0:31](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=31)** If this is the case, their identity will be verified against their provider of choice.
 >
@@ -1263,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=116)** This diagram shows a scenario that you're most likely to see as an AWS professional in practice.
 >
-> **[2:02](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=122)** In this example, the user logs in through a web portal and the credentials are validated against the company's LDAP identity store, typically Microsoft Active Directory or similar.
+> **[2:02](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=122)** In this example, the user logs in through a web portal and the credentials are validated against the company's LDAP identity store, typically [[Microsoft]] Active Directory or similar.
 >
 > **[2:14](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=134)** Once the identity is validated, the information is passed on to AWS Single Sign-On endpoint which accepts the validated token and calls the security token service.
 >
@@ -1277,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Active Directory]] (3), application (3), web (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (10), saml (1), sts (1), ldap (1), iam (1)
 > **CLI Commands:** aws (10)
 > **Cross-References:** go back to (1), as you saw (1)
@@ -1286,8 +1261,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cognito demonstration
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980)
+#### [Cognito demonstration](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=8)** User pools, Create user pool.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=12)** We're going to type a name, let's call it linkedin-demo-pool.
+> **[0:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=12)** We're going to type a name, let's call it [[LinkedIn]]-demo-pool.
 >
 > **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=21)** We'll choose Review defaults.
 >
@@ -1487,7 +1461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[LinkedIn]] (1), aws (1), web (1), api (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** url (11), aws (1), api (1), owa (1)
 > **UI Navigation:** click on (6), go to (5), scroll down (1)
 > **Cross-References:** go back to (4)
@@ -1496,8 +1470,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1), make (1)
 > **Code Identifiers:** public_profile (1), first_name (1)
 
-#### Cognito key points
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980)
+#### [Cognito key points](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,13 +1478,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=4)** Remember this workflow, particularly the part that exchanges the Cognito token for AWS credentials.
 >
-> **[0:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=12)** This process is the same used by other SAML-compatible corporate identity providers, such as Shibboleth and Active Directory.
+> **[0:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=12)** This process is the same used by other SAML-compatible corporate identity providers, such as Shibboleth and [[Active Directory]].
 >
 > **[0:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=20)** So, the Security Token Service, STS, is used a lot, even if you never interact with it directly.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=28)** Other than the authentication workflow, remember that user pools are mostly used for authentication and user profiles within your app; and identity pools, as in federated identities, are for authenticated users that need to receive a temporary limited access set of credentials into AWS Services.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=49)** Multi-factor authentication is supported.
+> **[0:49](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=49)** [[Multi-factor Authentication]] is supported.
 >
 > **[0:52](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-key-points?u=76281980&t=52)** Using AWS SNS Service, you can have Cognito send a text message to further validate a user's identity prior to login.
 >
@@ -1521,14 +1494,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Active Directory]] (1), [[Security]] (1), [[Multi-factor Authentication]] (1), database (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (4), saml (1), sts (1), sns (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** such as (2)
 > **Speakers:** - [carlos] (1)
 
-#### Challenge: Cognito automated login
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980)
+#### [Challenge: Cognito automated login](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,21 +1514,20 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980&t=28)** We need to complete the following steps.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980&t=30)** We're going to create a Cognito user pool, we're going to create a user in that pool, and then we're going to use the AWS CLI tool with that username and password to get successfully authenticated by Cognito.
+> **[0:30](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980&t=30)** We're going to create a Cognito user pool, we're going to create a user in that pool, and then we're going to use the AWS [[CLI]] tool with that username and password to get successfully authenticated by Cognito.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/challenge-cognito-automated-login?u=76281980&t=42)** Go ahead and give it a try yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), web application (1), feature (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** aws (2), cli (1)
 > **CLI Commands:** aws (2)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Cognito automated login
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980)
+#### [Solution: Cognito automated login](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1543,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980&t=19)** Now, we want to use this pool to authenticate automatically into our application.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980&t=26)** So the goal of this challenge is to create an automated command that we can send from the CLI and get a session ID back that we can use to interact with the server in exchange for valid credentials, like username and password.
+> **[0:26](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980&t=26)** So the goal of this challenge is to create an automated command that we can send from the [[CLI]] and get a session ID back that we can use to interact with the server in exchange for valid credentials, like username and password.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/solution-cognito-automated-login?u=76281980&t=40)** So the first thing we've got to do here is to create an app client.
 >
@@ -1642,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (3), application (2), aws (1), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[CLI]] (3)
 > **Env Vars:** cli (3), aws (1), new_password_required (1)
 > **Tools:** command line (2), command prompt (1)
 > **CLI Commands:** make (1), aws (1)
@@ -1655,12 +1626,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and managing certificates
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980)
+#### [Creating and managing certificates](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=0)** - [Instructor] Several decades ago, encrypting data at rest was considered enough for data protection.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=0)** - [Instructor] Several decades ago, encrypting data at [[Representational State Transfer (REST)|rest]] was considered enough for data protection.
 >
 > **[0:05](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=5)** As long as attackers didn't have access to the encryption key, the data was deemed to be safe.
 >
@@ -1694,7 +1664,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=81)** What they'll do is they'll give you these two CNAME entries that you can put in your DNS provider.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=88)** In my case it's Route 53, but it could be Google Domains, GoDaddy, and many others.
+> **[1:28](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=88)** In my case it's Route 53, but it could be [[Google]] Domains, GoDaddy, and many others.
 >
 > **[1:34](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980&t=94)** So if you put these two entries or rather these two values as a CNAME entry in your Route 53, that should be enough to prove that you actually own this domain.
 >
@@ -1752,7 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), dns (4), next (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (4), cname (4), tls (2), aws (1)
 > **URLs:** [yourdomain.com](https://yourdomain.com) (3), [cjrivas.com](https://cjrivas.com) (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -1761,14 +1731,13 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Tools:** aws console (1)
 
-#### Using certificates with AWS Resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980)
+#### [Using certificates with AWS Resources](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=0)** - [Instructor] All right, it's time for us to get hands on with security certificates.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=4)** Let me show you the problem first, I have this Ubuntu EC2 instance running Apache web server.
+> **[0:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=4)** Let me show you the problem first, I have this [[Ubuntu]] [[Amazon EC2|EC2]] instance running Apache web server.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=10)** You can see the public IP here, and it says not secure.
 >
@@ -1810,9 +1779,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=161)** and I should already have an entry for the load balancer, I'll find it and then we can discuss it.
 >
-> **[2:50](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=170)** Click on edit, just to show you, I put in the name, linkedin.[cjrivas.com](https://cjrivas.com) and it's a CNAME because the load balancer has an a record and it would be this one right here and this is the one that we just copied from the clip bar.
+> **[2:50](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=170)** Click on edit, just to show you, I put in the name, [[LinkedIn]].[cjrivas.com](https://cjrivas.com) and it's a CNAME because the load balancer has an a record and it would be this one right here and this is the one that we just copied from the clip bar.
 >
-> **[3:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=187)** Everything else stays the same, TTL, simple routing, we don't need to change anything.
+> **[3:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=187)** Everything else stays the same, TTL, simple [[Routing]], we don't need to change anything.
 >
 > **[3:11](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-certificates-with-aws-resources?u=76281980&t=191)** We just need to be able to create this name so that we can actually listen on HTTPS, why?
 >
@@ -1830,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[LinkedIn]] (3), [[Security]] (2), web (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[LinkedIn]] (3), [[Ubuntu]] (1), [[Routing]] (1)
 > **Env Vars:** ec2 (4), https (3), aws (1), http (1), cname (1)
 > **CLI Commands:** find (2), apache (1), aws (1), make (1)
 > **URLs:** [cjrivas.com](https://cjrivas.com) (5)
@@ -1839,20 +1808,19 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 
-#### AWS Certificates Manager and EC2 instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980)
+#### [AWS Certificates Manager and EC2 instances](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=0)** - [Instructor] So we know we can create SSL TLS certificates in Certificate Manager and use it with certain AWS services.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=7)** The big question now is can I export a certificate that I created in certificate manager so I can use it in my own, say Apache Web Server for my WordPress blog for example.
+> **[0:07](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=7)** The big question now is can I export a certificate that I created in certificate manager so I can use it in my own, say Apache Web Server for my [[WordPress]] blog for example.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=18)** The quick answer is unfortunately no.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=21)** And I'm showing you an AWS support question here that was posted and the answer was that no you can't do that because that would mean that ACM would have to expose its private key and that's considered a security risk, so they will not let you export ACM certificates for use on your EC2 instances.
+> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=21)** And I'm showing you an AWS support question here that was posted and the answer was that no you can't do that because that would mean that ACM would have to expose its private key and that's considered a [[Security Risk]], so they will not let you export ACM certificates for use on your [[Amazon EC2|EC2]] instances.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=41)** However, there is a workaround published by Amazon right here in the official documentation, and it shows how to configure certificates on Amazon Linux 2, for example.
+> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=41)** However, there is a workaround published by Amazon right here in the official documentation, and it shows how to configure certificates on Amazon [[Linux]] 2, for example.
 >
 > **[0:51](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=51)** This is beyond the scope of this course but if we scroll down here, I can show you something.
 >
@@ -1868,7 +1836,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=73)** Let's Encrypt, it's a nonprofit CA or certificate authority where you can come here and get your free TLS certificate.
 >
-> **[1:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=81)** Once you have this certificate they'll be your certificate authority and you can install this, let's say on your Apache Web Server to run your own PHP website, which you can use say for a WordPress blog, for example.
+> **[1:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=81)** Once you have this certificate they'll be your certificate authority and you can install this, let's say on your Apache Web Server to run your own [[PHP]] website, which you can use say for a WordPress blog, for example.
 >
 > **[1:35](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/aws-certificates-manager-and-ec2-instances?u=76281980&t=95)** And this way you don't need a load balancer or a cloud front or any of those services that will bring additional cost to running your website.
 >
@@ -1880,7 +1848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), web (2), [[WordPress]] (2), [[Amazon EC2|Ec2]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Amazon EC2|Ec2]] (2), [[Linux]] (2), [[Security Risk]] (1), [[PHP]] (1)
 > **Env Vars:** aws (3), ssl (2), tls (2), acm (2), ec2 (2)
 > **CLI Commands:** aws (3), apache (2), php (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1894,8 +1862,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Parameter Store for sensitive data
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/parameter-store-for-sensitive-data?u=76281980)
+#### [Parameter Store for sensitive data](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/parameter-store-for-sensitive-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,7 +1926,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), api (1), aws (1), database (1)
 > **Definitions:** is a  (1), is called (1), in other words (1), means that (1)
 > **Env Vars:** api (1), aws (1), kms (1)
 > **Analogies:** for example (2), such as (1)
@@ -1967,15 +1933,15 @@ created: 2026-05-02
 > **Best Practices:** good practice (2)
 > **CLI Commands:** aws (1)
 > **Tools:** aws console (1)
+> **Speakers:** - [instructor] (1)
 
-#### Using Parameter Store from EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980)
+#### [Using Parameter Store from EC2](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980&t=0)** - [Carlos] We need a safe way to store and retrieve data from the Parameter Store.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980&t=4)** Let's take a look at an example where we actually limit an EC2 server to access specific resources, in this case, development credentials, and retrieve those parameters from the Parameter Store.
+> **[0:04](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980&t=4)** Let's take a look at an example where we actually limit an [[Amazon EC2|EC2]] server to access specific resources, in this case, development credentials, and retrieve those parameters from the Parameter Store.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/using-parameter-store-from-ec2?u=76281980&t=15)** Here we have a diagram showing this architecture.
 >
@@ -2031,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), data (4), aws (2), application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5)
 > **Env Vars:** ec2 (5), iam (3), aws (2), ecs (1), kms (1)
 > **CLI Commands:** make (2), aws (2)
 > **Tools:** aws console (2)
@@ -2040,12 +2006,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [carlos] (1)
 
-#### Secrets Manager overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/secrets-manager-overview?u=76281980)
+#### [Secrets Manager overview](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/secrets-manager-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/secrets-manager-overview?u=76281980&t=0)** - [Instructor] AWS Secrets Manager is a tool designed to manage, audit and rotate passwords for your databases and applications.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/secrets-manager-overview?u=76281980&t=0)** - [Instructor] AWS Secrets Manager is a tool designed to manage, audit and rotate passwords for your [[Databases]] and applications.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/secrets-manager-overview?u=76281980&t=8)** It's very similar to Parameter Store, but in this case, this tool is dedicated to handling credentials.
 >
@@ -2069,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[Databases]] (1), feature (1), next (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** aws (1), kms (1), rds (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -2081,8 +2046,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Root login alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/root-login-alerts?u=76281980)
+#### [Root login alerts](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/root-login-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,7 +2090,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Security]] (1), management (1)
 > **Env Vars:** aws (3), sns (2)
 > **CLI Commands:** aws (3), make (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2134,16 +2097,15 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting unauthorized instance stops
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980)
+#### [Detecting unauthorized instance stops](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=0)** - [Instructor] If you have exposed servers, such as public-facing web servers, it's always a good idea to use a hardened version of your operating system.
+> **[0:00](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=0)** - [Instructor] If you have exposed servers, such as public-facing [[Web Servers]], it's always a good idea to use a hardened version of your operating system.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=8)** This is simply a version that has been patched and reviewed by a security expert, eliminating or blocking the most common exploits that the OS may have when using its default settings.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=21)** To ensure compliance, it is good to have a constant check on your EC2 fleet to help find any non-compliant resources and take action.
+> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=21)** To ensure compliance, it is good to have a constant check on your [[Amazon EC2|EC2]] fleet to help find any non-compliant resources and take action.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=30)** Let me show you how to do that.
 >
@@ -2167,7 +2129,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=77)** We'll type AMI, XX1.
 >
-> **[1:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=80)** If you have another one, you can type it in with a coma, ami-xxx2, and this one and two, let's say they're a hardened version of Amazon Linux or CentOS or Ubuntu or whatever other operating system you prefer.
+> **[1:20](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=80)** If you have another one, you can type it in with a coma, ami-xxx2, and this one and two, let's say they're a hardened version of Amazon [[Linux]] or CentOS or [[Ubuntu]] or whatever other operating system you prefer.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/detecting-unauthorized-instance-stops?u=76281980&t=98)** Now, what we do is click Next, and we end up in the review screen.
 >
@@ -2203,7 +2165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), aws (2), next (2), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Web Servers]] (1), [[Linux]] (1), [[Ubuntu]] (1)
 > **Env Vars:** ami (5), ec2 (3), aws (2), xx1 (1)
 > **UI Navigation:** click on (3), go to (2), select the (2)
 > **CLI Commands:** aws (2), find (1), make (1)
@@ -2212,8 +2174,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking for unused credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980)
+#### [Checking for unused credentials](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2184,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980&t=13)** And sometimes credentials will be left behind.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980&t=16)** This opens a potential weakness in your network security if those credentials are misused.
+> **[0:16](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980&t=16)** This opens a potential weakness in your [[Network Security]] if those credentials are misused.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/checking-for-unused-credentials?u=76281980&t=22)** Lucky for us, AWS Config already has a rule for this.
 >
@@ -2291,7 +2252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), next (2), feature (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **CLI Commands:** aws (7), find (1)
 > **Env Vars:** aws (7)
 > **Prerequisites:** set up (3), setup (1)
@@ -2305,8 +2266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get familiar with AWS tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980)
+#### [Get familiar with AWS tools](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2336,13 +2296,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980&t=119)** So I wanted to be sure you're aware of those.
 >
-> **[2:02](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980&t=122)** I hope this cloud security course has been helpful to you.
+> **[2:02](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980&t=122)** I hope this [[Cloud Security]] course has been helpful to you.
 >
 > **[2:05](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980&t=125)** My name is Carlos and I will see you in the next one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Security]] (7), cloud (3), next (2), application (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1)
 > **Env Vars:** aws (8), api (1)
 > **CLI Commands:** aws (8)
 > **Definitions:** is a  (2), is an  (1)
